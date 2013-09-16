@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox. Կարգավորել օժանդակիչներով
+#define bookmarks_addons Firefox. Կարգավորել հավելումներով
 
 
 

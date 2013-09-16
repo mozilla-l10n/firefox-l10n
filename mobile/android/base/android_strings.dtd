@@ -3,18 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Կարգավորեք &brandShortName;-ը">
-<!ENTITY  splash_bookmarks_history "Թարմացվում են էջանիշները և պատմությունը, սպասեք մի րոպե:">
-
-<!ENTITY  no_space_to_start_error "Չկա ազատ տեղ՝ &brandShortName;-ը սկսելու համար։">
+<!ENTITY  no_space_to_start_error "&brandShortName;-ը սկսելու համար բավարար ազատ տեղ չկա։">
 <!ENTITY  error_loading_file "Սխալ՝ &brandShortName;-ը բացելու համար պահանջվող ֆայլերը բեռնելիս">
 
 <!ENTITY  awesomebar_all_pages_title "Հայտնի կայքերը">
-<!ENTITY  awesomebar_bookmarks_title "Էջանիշներ">
+<!ENTITY  awesomebar_bookmarks_title "Էջանիշեր">
 <!ENTITY  awesomebar_history_title "Պատմություն">
+<!ENTITY  awesomebar_switch_to_tab "Անցնել ներդիրին">
 
-
-
+<!ENTITY  crash_reporter_title "&brandShortName;-ի Վթարի զեկուցիչ">
+<!ENTITY  crash_message2 "&brandShortName;-ը ձախողվել է։ Ձեր էջերը կերևան &brandShortName;-ում Մեկնարկային էջը վերագործարկելիս։">
 
 
 
@@ -69,12 +67,19 @@
 
 
 
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
+
+
+
+
+
+
+
+
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառը">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+
+
 
 
 
@@ -96,6 +101,10 @@
 <!ENTITY pref_plugins_tap_to_play "Խաղարկել">
 <!ENTITY pref_plugins_disabled "Անջատված">
 <!ENTITY pref_text_size "Տեքստի չափը">
+
+
+
+
 
 <!ENTITY pref_font_size_tiny "Փոքրիկ">
 <!ENTITY pref_font_size_small "Փոքր">
@@ -125,8 +134,13 @@ size. -->
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Պահոցը">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
-
+<!ENTITY pref_private_data_siteSettings2 "Կայքի կարգավորումներ">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
+
+
+<!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
+<!ENTITY pref_vendor_faqs "ՀՏՀ">
+<!ENTITY pref_vendor_feedback "Ձեր Արձագանքը">
 
 
 
@@ -171,12 +185,11 @@ size. -->
 <!ENTITY new_tab "Նոր էջ">
 <!ENTITY new_private_tab "New Private Tab">
 <!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Ներդիրներ">
+
 <!ENTITY tabs_private "Անձնական">
 <!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -219,7 +232,8 @@ size. -->
 <!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
 
-<!ENTITY reader "Reader">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
 <!ENTITY masterpassword_remove_title "Հեռացնել Հիմնական Գաղտնաբառը">
@@ -303,6 +317,7 @@ from Android">
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bookmarks and history">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
@@ -315,3 +330,11 @@ from Android">
 
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Դիպչել՝ թարմացնելու համար">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Շարունակել">
+
+
+
+
+

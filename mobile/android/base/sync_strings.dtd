@@ -61,7 +61,7 @@
 
 <!ENTITY sync.configure.engines.title.label "What to sync">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sync your…">
-<!ENTITY sync.configure.engines.title.bookmarks "Էջանիշներ">
+<!ENTITY sync.configure.engines.title.bookmarks "Էջանիշեր">
 <!ENTITY sync.configure.engines.title.passwords "Գաղտնաբառեր">
 <!ENTITY sync.configure.engines.title.history "Պատմություն">
 <!ENTITY sync.configure.engines.title.tabs "Ներդիրներ">
@@ -75,12 +75,12 @@
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Էջանիշների Մենյու">
+<!ENTITY bookmarks.folder.menu.label "Էջանիշերի Ցանկ">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Կցապիտակներ">
-<!ENTITY bookmarks.folder.toolbar.label "Էջանիշների Վահանակ">
+<!ENTITY bookmarks.folder.toolbar.label "Էջանիշերի Վահանակ">
 <!ENTITY bookmarks.folder.unfiled.label "Չկարգավորված Էջանիշեր">
-<!ENTITY bookmarks.folder.desktop.label "Էջանիշներ">
+<!ENTITY bookmarks.folder.desktop.label "Էջանիշեր">
 <!ENTITY bookmarks.folder.mobile.label "Բջջային էջանիշեր">
 <!ENTITY bookmarks.folder.readinglist.label "Reading List">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
