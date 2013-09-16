@@ -9,8 +9,8 @@
 
 <!ENTITY toolboxCloseButton.tooltip  "Luk udviklerværktøjer">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!ENTITY toolboxNextTool.key           "]">
-<!ENTITY toolboxPreviousTool.key       "[">
+<!ENTITY toolboxNextTool.key           "Ø">
+<!ENTITY toolboxPreviousTool.key       "Å">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
