@@ -74,8 +74,8 @@
 <!ENTITY help.close "Закрыть">
 <!ENTITY help.intro "Этот инструмент поможет вам в создании и установке веб-приложений на совместимые устройства (работающие под Firefox OS). Вкладка <strong>Приложения</strong> поможет вам в валидации и установке вашего приложения. Во вкладке <strong>Устройство</strong> отображается информация о подсоединённом устройстве. Используйте нижнюю панель инструментов для подсоединения к устройству или запуска симулятора.">
 <!ENTITY help.usefullLinks "Полезные ссылки:">
-<!ENTITY help.linkToAppMgrDoc "<a>Документация: Использование менеджера приложений</a>">
-<!ENTITY help.linkToConfiguringDevice "<a>Как настроить ваше устройство на Firefox OS</a>">
-<!ENTITY help.linkToTroubleShooting "<a>Решение проблем</a>">
-<!ENTITY help.linkToSimulatorAddon "<a>Установка дополнения Симулятора</a>">
-<!ENTITY help.linkToAdbHelperAddon "<a>Установка дополнения Adb Helper</a>">
+<!ENTITY help.appMgrDoc "Документация: Использование менеджера приложений">
+<!ENTITY help.configuringDevice "Как настроить ваше устройство на Firefox OS">
+<!ENTITY help.troubleShooting "Решение проблем">
+<!ENTITY help.simulatorAddon "Установка дополнения Симулятора">
+<!ENTITY help.adbHelperAddon "Установка дополнения Adb Helper">
