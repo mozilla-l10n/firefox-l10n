@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.description1 "Acceda a sus marcadores, contraseñas y pestañas abiertas en todos sus dispositivos">
+<!ENTITY sync.flyout.presetup.setup.label "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Si tiene una cuenta &syncBrand.shortName.label;, seleccione &quot;Emparejar un dispositivo&quot; en su otro dispositivo e introduzca este código.">
+<!ENTITY sync.flyout.setup.description2 "Si no tiene una cuenta de &syncBrand.shortName.label;, puede crearse una en su navegador &brandShortName; de escritorio.">
+<!ENTITY sync.flyout.setup.manual.label_2 "No estoy cerca de mi equipo…">
+<!ENTITY sync.flyout.setup.description3 "Nota:">
+<!ENTITY sync.flyout.setup.description4_2 "Para encontrar &quot;Emparejar un dispositivo&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[Escritorio] Abra &quot;Opciones&quot; o &quot;Preferencias&quot; y luego seleccione &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Por favor, introduzca la información de su cuenta de &syncBrand.shortName.label; y la clave de recuperación generada por su equipo">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nombre de cuenta">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Contraseña">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clave de recuperación">
+<!ENTITY sync.flyout.manualsetup.connect.label "Conectar">
+<!ENTITY sync.flyout.setupsuccess.description1 "Acaba de conectar &brandShortName; a su cuenta &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Sus datos de &syncBrand.shortName.label; se están descargando en segundo plano. Sus pestañas sincronizadas pueden encontrarse en la página de inicio de &brandShortName;">
+<!ENTITY sync.flyout.setupfailure.description "&brandShortName; no ha podido conectarse a su cuenta your &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Cancelar">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Reintentar">
+<!ENTITY sync.flyout.connected.account "Cuenta:">
+<!ENTITY sync.flyout.connected.device "Su dispositivo:">
+<!ENTITY sync.flyout.connected.disconnect "Desconectar">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "¿Desconectar su dispositivo de &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Todos sus datos personales tanto en este dispositivo como en la cuenta de &syncBrand.shortName.label; permanecerán intactos.">
+<!ENTITY sync.flyout.connected.cancel "Cancelar">
+<!ENTITY sync.flyout.connected.pair "Emparejar un dispositivo">
+<!ENTITY sync.flyout.pairNewDevice.description "En el nuevo dispositivo que quiere emparejar con éste, seleccione &quot;Configurar &syncBrand.shortName.label;&quot; e introduzca el código que produce el dispositivo">
+<!ENTITY sync.flyout.pairNewDevice.pair "Emparejar">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Nota:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Para encontrar el código,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Escritorio] Abra &quot;Opciones&quot; o &quot;Preferencias&quot; y luego siga los pasos: &syncBrand.shortName.label; -&gt; Configurar &syncBrand.shortName.label; -&gt; Ya tengo una cuenta">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Vuelva a intentarlo">
+<!ENTITY sync.flyout.pairSuccess.description1 "El nuevo dispositivo ha sido añadido con éxito.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Sus datos de &syncBrand.shortName.label; se están descargando en segundo plano. Sus pestañas remotas pueden encontrarse en la página de inicio de &brandShortName;.">
