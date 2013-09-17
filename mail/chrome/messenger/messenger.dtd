@@ -379,7 +379,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killThreadMenu.label "Ignorer tråden">
 <!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorer undertråde">
+<!ENTITY killSubthreadMenu.label "Ignorer undertråd">
 <!ENTITY killSubthreadMenu.accesskey "u">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Overvåg tråden">
