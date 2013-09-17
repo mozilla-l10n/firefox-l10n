@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Søg efter meddelelser i:">
 <!ENTITY searchHeading.accesskey "i">
 <!ENTITY searchSubfolders.label "Søg i undermapper">
@@ -25,13 +26,19 @@
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label "Gem som virtuel mappe">
 <!ENTITY saveAsVFButton.accesskey "v">
+
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Søg i:">
 <!ENTITY abSearchHeading.accesskey "ø">
 <!ENTITY propertiesButton.label "Egenskaber">
 <!ENTITY propertiesButton.accesskey "E">
 <!ENTITY composeButton.label "Skriv">
 <!ENTITY composeButton.accesskey "k">
+<!ENTITY deleteCardButton.label      "Slet">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label "Avanceret adressebogssøgning">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Modtager">
@@ -46,8 +53,12 @@
 <!ENTITY unreadColumn.label "Ulæste i tråden">
 <!ENTITY totalColumn.label "I alt i tråden">
 <!ENTITY readColumn.label "Læst">
+<!ENTITY receivedColumn.label "Modtaget">
+<!ENTITY starredColumn.label "Stjernemarkeret">
 <!ENTITY locationColumn.label "Placering">
 <!ENTITY idColumn.label "Modtagelsesorden">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Vælg hvilke kolonner der skal vises">
 <!ENTITY threadColumn.tooltip "Vis meddelelser i tråde">
 <!ENTITY fromColumn.tooltip "Sorter efter afsender">
@@ -63,9 +74,7 @@
 <!ENTITY unreadColumn.tooltip "Antal af ulæste meddelelser i tråden">
 <!ENTITY totalColumn.tooltip "Total antal af meddelelser i tråden">
 <!ENTITY readColumn.tooltip "Sorter efter læst">
-<!ENTITY receivedColumn.label "Modtaget">
 <!ENTITY receivedColumn.tooltip "Sorter efter modtaget-dato">
 <!ENTITY locationColumn.tooltip "Sorter efter placering">
 <!ENTITY idColumn.tooltip "Sorter efter modtagelsesorden">
-<!ENTITY starredColumn.label "Stjernemarkeret">
 <!ENTITY starredColumn.tooltip "Sorter efter stjernemarkering">
