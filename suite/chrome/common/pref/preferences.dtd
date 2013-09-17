@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label "Mesterjelszó">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Tanúsítványok">
-<!ENTITY validation.label "Érvényesítés">
 <!ENTITY sync.label "Szinkronizálás">
 <!ENTITY advance.label "Haladó">
 <!ENTITY down.label "Letöltés">
