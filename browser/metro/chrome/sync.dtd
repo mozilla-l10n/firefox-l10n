@@ -13,14 +13,14 @@
 <!ENTITY sync.flyout.setup.title               "Ställ in &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1        "Om du redan har ett &syncBrand.shortName.label;-konto, välj ”Para ihop enheter” på din andra enhet och ange den här koden.">
 <!ENTITY sync.flyout.setup.description2        "Om du inte har något &syncBrand.shortName.label;-konto kan du skapa ett i din &brandShortName; skrivbordswebbläsare.">
-<!ENTITY sync.flyout.setup.manual.label        "Jag är inte vid datorn nu …">
+<!ENTITY sync.flyout.setup.manual.label_2      "Jag är inte vid datorn nu …">
 <!ENTITY sync.flyout.setup.description3        "Notera:">
-<!ENTITY sync.flyout.setup.description4        "Du kan välja ”Para ihop enheter” genom">
-<!ENTITY sync.flyout.setup.description5        "[Skrivbord] Inställningar -&gt; Sync">
-<!ENTITY sync.flyout.setup.description6        "[Android] Mer &gt; Inställningar &gt; Sync">
+<!ENTITY sync.flyout.setup.description4_2      "Du hittar ”Para ihop enheter” genom">
+<!ENTITY sync.flyout.setup.description5_2      "[Skrivbord] ”Inställningar” -&gt; ”&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Mer &gt; Inställningar &gt; &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up manually -->
-<!ENTITY sync.flyout.manualsetup.description1  "Ange dina &syncBrand.shortName.label;-kontouppgifter och återställningsnyckeln som genererats av datorn">
+<!ENTITY sync.flyout.manualsetup.description1_2  "Ange dina &syncBrand.shortName.label;-kontouppgifter och återställningsnyckeln som genererats av datorn">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Kontonamn">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Lösenord">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Återställningsnyckel">
@@ -48,8 +48,8 @@
 <!ENTITY sync.flyout.pairNewDevice.description            "På den nya enheten du vill para ihop, välj ”Ställ in &syncBrand.shortName.label;” och ange koden som enheten ger">
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Para ihop">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Notera:">
-<!ENTITY sync.flyout.pairNewDevice.note2                  "Du kan gå till &syncBrand.shortName.label; för att finna koden genom">
-<!ENTITY sync.flyout.pairNewDevice.note3                  "[Skrivbord] Verktyg -&gt; Ställ in &syncBrand.shortName.label; -&gt; Jag har ett konto">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Du finner koden genom">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Skrivbord] ”Inställningar” -&gt; &syncBrand.shortName.label; -&gt; Ställ in &syncBrand.shortName.label; -&gt; Jag har ett konto">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mer &gt; Inställningar &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Försök igen">
 
