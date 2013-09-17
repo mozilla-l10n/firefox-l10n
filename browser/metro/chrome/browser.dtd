@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Hledat nebo vložit adresu">
+
+<!ENTITY back.label            "Zpět">
+<!ENTITY forward.label         "Vpřed">
+<!ENTITY newtab.label          "Nový panel">
+<!ENTITY closetab.label        "Zavřít panel">
+
+<!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
+
+<!ENTITY appbarErrorConsole.label   "Otevřít chybovou konzolu">
+<!ENTITY appbarJSShell.label        "Otevřít JavaScriptový shell">
+<!ENTITY appbarFindInPage2.label    "Najít na stránce">
+<!ENTITY appbarViewOnDesktop2.label "Zobrazit na desktopu">
+
+<!ENTITY topSitesHeader.label        "Top stránky">
+<!ENTITY bookmarksHeader.label       "Záložky">
+<!ENTITY recentHistoryHeader.label   "Nedávná historie">
+<!ENTITY remoteTabsHeader.label      "Panely z jiných zařízení">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Top stránky">
+<!ENTITY narrowBookmarksHeader.label     "Záložky">
+<!ENTITY narrowRecentHistoryHeader.label "Nedávná historie">
+<!ENTITY narrowRemoteTabsHeader.label    "Vzdálené panely">
+
+<!ENTITY downloadsHeader.label     "Stahování">
+<!ENTITY downloadShowPage.label    "Přejít na stránku">
+<!ENTITY downloadShow2.label       "Najít">
+<!ENTITY downloadOpen2.label       "Otevřít">
+<!ENTITY downloadCancel.label      "Zrušit">
+<!ENTITY downloadPause.label       "Pozastavit">
+<!ENTITY downloadResume.label      "Obnovit">
+<!ENTITY downloadRetry.label       "Opakovat">
+<!ENTITY downloadRemove.label      "Odebrat">
+<!ENTITY downloadDelete.label      "Smazat">
+<!ENTITY downloadFailed.label      "Selhalo">
+
+<!ENTITY allBookmarks.label        "Zobrazit všechny záložky">
+
+<!ENTITY consoleHeader.label       "Chybová konzola">
+<!ENTITY consoleAll.label          "Vše">
+<!ENTITY consoleErrors.label       "Chyba">
+<!ENTITY consoleWarnings.label     "Varování">
+<!ENTITY consoleMessages.label     "Zprávy">
+<!ENTITY consoleCodeEval.label     "Kód:">
+<!ENTITY consoleClear.label        "Vymazat">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Zdrojový soubor:">
+<!ENTITY consoleErrLine.label      "Řádek:">
+<!ENTITY consoleErrColumn.label    "Sloupec:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Vyjmout">
+<!ENTITY contextTextCopy.label             "Kopírovat">
+<!ENTITY contextTextPaste.label            "Vložit">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Vložit a jít">
+<!ENTITY contextTextSelect.label           "Vybrat">
+<!ENTITY contextTextSelectAll.label        "Vybrat vše">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Otevřít odkaz v novém panelu">
+<!ENTITY contextCopyLinkHref.label         "Kopírovat odkaz">
+<!ENTITY contextBookmarkLinkHref.label     "Přidat do záložek">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Uložit do galerie obrázků">
+<!ENTITY contextCopyImage.label            "Kopírovat obrázek">
+<!ENTITY contextCopyImageLocation.label    "Kopírovat adresu obrázku">
+<!ENTITY contextOpenImageTab.label         "Otevřít obrázek v novém panelu">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Uložit do galerie videí">
+<!ENTITY contextCopyVideoLocation.label    "Kopírovat adresu videa">
+<!ENTITY contextOpenVideoTab.label         "Otevřít video v novém panelu">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
