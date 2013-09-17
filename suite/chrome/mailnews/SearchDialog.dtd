@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Keresés az almappákban is">
 <!ENTITY searchSubfolders.accesskey  "m">
-<!ENTITY searchLocalSystem.label     "Keresés a helyi rendszerben">
-<!ENTITY searchLocalSystem.accesskey "h">
+<!ENTITY searchOnHeading.label       "Perform search operations on:">
+<!ENTITY searchOnHeading.accesskey   "P">
+<!ENTITY searchOnRemote.label        "Remote server">
+<!ENTITY searchOnLocal.label         "Local system">
 <!ENTITY resetButton.label           "Alaphelyzet">
 <!ENTITY resetButton.accesskey       "A">
 <!ENTITY openButton.label            "Megnyitás">
@@ -23,8 +25,8 @@
 <!ENTITY moveButton.accesskey        "l">
 <!ENTITY goToFolderButton.label      "Üzenetmappa megnyitása">
 <!ENTITY goToFolderButton.accesskey  "z">
-<!ENTITY saveAsVFButton.label      "Mentés keresési mappaként">
-<!ENTITY saveAsVFButton.accesskey  "k">
+<!ENTITY saveAsVFButton.label        "Mentés keresési mappaként">
+<!ENTITY saveAsVFButton.accesskey    "k">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label       "Keresési hely:">
