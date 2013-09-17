@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey          "N">
 <!ENTITY mediaUnmute.label            "Hallgatás">
 <!ENTITY mediaUnmute.accesskey        "H">
+<!ENTITY mediaPlaybackRate.label        "Lejátszási sebesség">
+<!ENTITY mediaPlaybackRate.accesskey    "L">
+<!ENTITY mediaPlaybackRate050.label     "Lassítás (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "L">
+<!ENTITY mediaPlaybackRate100.label     "Normál sebesség">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Gyorsítás (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "G">
+<!ENTITY mediaPlaybackRate200.label     "Dupla sebesség">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label      "Kezelőszervek megjelenítése">
 <!ENTITY mediaShowControls.accesskey  "m">
 <!ENTITY mediaHideControls.label      "Kezelőszervek elrejtése">
