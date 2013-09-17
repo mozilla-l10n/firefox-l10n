@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Možnosti">
+<!ENTITY optionsHeader.startup.title                             "Spuštění">
+<!ENTITY optionsHeader.homepage.title                            "Když se &brandShortName; spustí, zobraz">
+<!ENTITY optionsHeader.homepage.startPage.button                 "úvodní stránku">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "panely z minula">
+<!ENTITY optionsHeader.char.title                                "Znaková sada">
+<!ENTITY optionsHeader.char.autodetect.label                     "Automaticky rozpoznat">
+<!ENTITY optionsHeader.char.options.label                        "Zobrazit možnosti znakové sady na panelu aplikace">
+
+<!ENTITY clearPrivateData.title                                  "Vymazat důvěrná data">
+<!ENTITY clearPrivateData.label                                  "Vymazat historii vašeho prohlížení, hesla, cookies a data formulářů z tohoto zařízení">
+<!ENTITY clearPrivateData.button                                 "Vymazat">
+<!ENTITY clearPrivateData.done                                   "Hotovo!">
+<!ENTITY clearPrivateData.history                                "Historie">
+<!ENTITY clearPrivateData.otherdata                              "Ostatní data (hesla, mezipaměť, cookies atd.)">
+<!ENTITY clearPrivateData.downloadHist                           "Historie stahování">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Mezipaměť">
+<!ENTITY clearPrivateData.sitePref                               "Nastavení pro daný server">
+<!ENTITY clearPrivateData.formSearchHist                         "Historie formulářů a hledání">
+<!ENTITY clearPrivateData.passwords                              "Uložená hesla">
+<!ENTITY clearPrivateData.offline                                "Offline obsah">
+<!ENTITY clearPrivateData.logins                                 "Aktivní přihlášení">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Pamatovat si hesla">
+<!ENTITY doNotTrack.title                                        "Do Not Track">
+<!ENTITY doNotTrack.desc                                         "Informovat servery, že:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Nechci být sledován">
+<!ENTITY doNotTrack.options.noPreference                         "Neinformovat o mém nastavení, zda chci být sledován">
+<!ENTITY doNotTrack.options.trackingOkay                         "Informovat, že můžu být sledován">
+<!ENTITY optionsHeader.reporting.title                           "Hlášení pádů">
+<!ENTITY optionsHeader.reporting.crashes.label                   "Aplikace &brandShortName; odesílá hlášení o pádu, které pomáhají Mozille vytvářet váš prohlížeč stabilní a bezpečný">
+<!ENTITY optionsHeader.telemetry.title                            "Vzdálené měření">
+<!ENTITY optionsHeader.telemetry.label                            "Sdílí statistiky používání aplikace &brandShortName; s Mozillou, které pomáhají vylepšovat váš prohlížeč">
