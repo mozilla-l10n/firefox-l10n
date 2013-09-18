@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label "Çèrca">
-<!ENTITY newpref.label "Azónzi 'na nêuva preferénsa">
-<!ENTITY addpref.name "Nómme">
-<!ENTITY addpref.value "Valô">
-<!ENTITY cancel.label "Anùlla">
-<!ENTITY reset.label "Repìggia">
-<!ENTITY done.label "Fæto">
-<!ENTITY integer.label "Intrêgo">
-<!ENTITY string.label "Strìnga">
-<!ENTITY boolean.label "Boleàn">
+<!ENTITY empty.label "Ã‡Ã¨rca">
+<!ENTITY newpref.label "AzÃ³nzi 'na nÃªuva preferÃ©nsa">
+<!ENTITY addpref.name "NÃ³mme">
+<!ENTITY addpref.value "ValÃ´">
+<!ENTITY cancel.label "AnÃ¹lla">
+<!ENTITY reset.label "RepÃ¬ggia">
+<!ENTITY done.label "FÃ¦to">
+<!ENTITY integer.label "IntrÃªgo">
+<!ENTITY string.label "StrÃ¬nga">
+<!ENTITY boolean.label "BoleÃ n">
