@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY certerror.pagetitle "Conesción no fiâ">
+<!ENTITY certerror.longpagetitle "Sta conesción a no l'é afidàbile">
+<!ENTITY certerror.introPara1 "L'é stæto domandòu a &brandShortName; 'na conesción segûa con <b>#1</b>, ma no l'é poscìbile confermâ a seguéssa do colegaménto.">
+<!ENTITY certerror.whatShouldIDo.heading "Che cöse gh'aviæ da fâ?">
+<!ENTITY certerror.whatShouldIDo.content "Se in génere l'é poscìbile colegâse a sto scîto sénsa problêmi, peu êse che sto erô ségge caozòu da-o tentatîvo de quarchedùn de sostitoîse a-o scîto originâle. O mæ conséggio o l'é de no anâ àvanti co-a navegaçión.">
+<!ENTITY certerror.getMeOutOfHere.label "Alontanâse da sto scîto">
+<!ENTITY certerror.expert.heading "Conóscio i réizeghi">
+<!ENTITY certerror.expert.content "Se ti sæ o motîvo do perché ti véddi sta segnalaçión, alôa ti poréisci voéi che, a partî da òua, l'identificaçión de sto scîto a vegnìsse consciderâ fiâ da-o &brandShortName;.
+<b>Ànche se ti gh'é fidùccia de sto scîto, sto erô o poriéva comónque significâ che quarchedùn o l'é aprêuvo a çercâ de interferî co-a conesción.</b>">
+<!ENTITY certerror.expert.contentPara2 "Azónzi na eceçión sôlo into câxo che ti conósci 'na bónn-a raxón do perché sto scîto o no dêuvia òua in mòddo de identificaçión fiòu.">
+<!ENTITY certerror.addTemporaryException.label "Vìxita o scîto">
+<!ENTITY certerror.addPermanentException.label "Azónzi eceçión permanénte">
+<!ENTITY certerror.technical.heading "Detàggi tecnìchi">

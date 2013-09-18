@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label "Çèrca">
+<!ENTITY newpref.label "Azónzi 'na nêuva preferénsa">
+<!ENTITY addpref.name "Nómme">
+<!ENTITY addpref.value "Valô">
+<!ENTITY cancel.label "Anùlla">
+<!ENTITY reset.label "Repìggia">
+<!ENTITY done.label "Fæto">
+<!ENTITY integer.label "Intrêgo">
+<!ENTITY string.label "Strìnga">
+<!ENTITY boolean.label "Boleàn">

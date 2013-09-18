@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutHeader.title "Informaçioìn in sce">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "de &vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Lêzite l'informatîva in sciâ privacy de &brandShortName;">
+<!ENTITY update.checkingForUpdates "Çèrco agiornaménti…">
+<!ENTITY update.checkingAddonCompat "Verìfico se gh'é di conponénti azónti…">
+<!ENTITY update.noUpdatesFound "&brandShortName; o l'é agiornòu">
+<!ENTITY update.adminDisabled "Agiornaménti dizativâæ da l'aministratô de scistêma">
+<!ENTITY update.otherInstanceHandlingUpdates "Són aprêuvo a agiornâ o &brandShortName; inte 'n'âtra istànsa">
+<!ENTITY update.failed.start "Agiornaménto no ariescîo. ">
+<!ENTITY update.failed.linkText "Scàrega l'ùrtima versción">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Gh'é di agiornaménti in sciô ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Scàrego agiornaménto — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Instalaçión agiornaménto…">
+<!ENTITY channel.description.start "Canâ de agiornaménto : ">
+<!ENTITY channel.description.end ".">
