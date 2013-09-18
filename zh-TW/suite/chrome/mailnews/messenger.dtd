@@ -408,7 +408,7 @@
 <!ENTITY newPlainTextMessageCmd.label "使用純文字撰寫">
 <!ENTITY newPlainTextMessageCmd.accesskey "p">
 <!ENTITY replyButton.label "回覆">
-<!ENTITY replyAllButton.label "全部回覆">
+<!ENTITY replyAllButton.label "回覆全部">
 <!ENTITY forwardButton.label "轉寄">
 <!ENTITY fileButton.label "檔案">
 <!ENTITY nextButton.label "下一封">
@@ -529,23 +529,4 @@
 
 <!ENTITY all.label "全部">
 <!ENTITY all.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; 認為此郵件為垃圾信">
-<!ENTITY junkBarButton.label "這不是垃圾信">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "為保護您的隱私，&brandShortName; 已阻擋來自遠端的內容。">
-<!ENTITY loadRemoteContentButton.label "顯示遠端內容">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; 認為這封訊息可能是一封詐騙郵件。">
-<!ENTITY removePhishingBarButton.label "不是詐騙信">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "忽略要求">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "傳送回條">
-<!ENTITY mdnBarSendButton.accesskey "S">
 
