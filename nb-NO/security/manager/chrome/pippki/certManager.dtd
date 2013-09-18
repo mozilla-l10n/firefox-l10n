@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Rediger innstillinger for sikkerhetssertifikat">
 <!ENTITY certmgr.editcacert.title             "Rediger tiltro for CA-sertifikat">
-<!ENTITY certmgr.editsslcert.title            "Rediger tiltro for nettstedssertifikat">
 <!ENTITY certmgr.editcert.edittrust           "Rediger tiltro:">
 <!ENTITY certmgr.editcert.trustssl            "Dette sertifikatet kan identifisere nettsider.">
 <!ENTITY certmgr.editcert.trustemail          "Dette sertifikatet kan identifisere e-postbrukere.">
 <!ENTITY certmgr.editcert.trustobjsign        "Dette sertifikatet kan identifisere programutviklere.">
-<!ENTITY certmgr.editsslcert.edittrust        "Rediger tiltro til sertifikatet:">
-<!ENTITY certmgr.editsslcert.dotrust          "Stol på sertifikatet.">
-<!ENTITY certmgr.editsslcert.donttrust        "Ikke stol på sertifikatet.">
 <!ENTITY certmgr.editemailcert.title          "Rediger tiltro">
 <!ENTITY certmgr.editemailcert.edittrust      "Rediger tiltro:">
 <!ENTITY certmgr.editemailcert.dotrust        "Stol på sertifikatet.">
