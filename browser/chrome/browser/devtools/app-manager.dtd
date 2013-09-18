@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Administrador de aplicaciones">
+<!ENTITY index.projects "Mis aplicaciones">
+<!ENTITY index.device "Mi dispositivo">
+
+<!ENTITY device.screenshot "Captura de pantalla">
+<!ENTITY device.title "Centro de control del dispositivo">
+<!ENTITY device.notConnected "No conectado. Conecte el dispositivo indicado debajo.">
+<!ENTITY device.startApp "Iniciar">
+<!ENTITY device.stopApp "Detener">
+<!ENTITY device.debugApp "Depurar">
+<!ENTITY device.name "Nombre">
+<!ENTITY device.app "Aplicación">
+<!ENTITY device.privileged "Privilegiada">
+<!ENTITY device.certified "Certificada">
+<!ENTITY device.allow "Permitir">
+<!ENTITY device.prompt "Preguntar">
+<!ENTITY device.deny "Denegar">
+<!ENTITY device.installedApps "Aplicaciones instaladas">
+<!ENTITY device.permissions "Permisos">
+
+<!ENTITY connection.disconnect "Desconectar">
+<!ENTITY connection.showDeviceCtrlCenter "Clic para más detalles">
+<!ENTITY connection.notConnected "No conectado">
+<!ENTITY connection.changeHostAndPort "Cambiar">
+<!ENTITY connection.startSimulator "Iniciar simulador">
+<!ENTITY connection.saveConnectionInfo "Guardar">
+<!ENTITY connection.connecting "Conectando…">
+<!ENTITY connection.disconnecting "Desconectando…">
+<!ENTITY connection.cancel "Cancelar">
+<!ENTITY connection.or "o">
+<!ENTITY connection.noSimulatorInstalled "No hay un simulador instalado.">
+<!ENTITY connection.installFirstSimulator "Instalar simulador.">
+<!ENTITY connection.installAnotherSimulator "Agregar">
+
+<!ENTITY projects.localApps "Aplicaciones locales">
+<!ENTITY projects.addApp "Agregar">
+<!ENTITY projects.addPackaged "Agregar aplicación empaquetada">
+<!ENTITY projects.addHosted "Agregar aplicación alojada">
+<!ENTITY projects.title "Aplicaciones locales">
+<!ENTITY projects.appDetails "Detalles de la aplicación">
+<!ENTITY projects.removeApp "Eliminar">
+<!ENTITY projects.reloadFiles "Refrescar">
+<!ENTITY projects.installApp "Instalar">
+<!ENTITY projects.startApp "Iniciar">
+<!ENTITY projects.stopApp "Detener">
+<!ENTITY projects.debugApp "Depurar">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://ejemplo.com/app/manifest.webapp">
+<!ENTITY projects.noProject "No hay proyecto enlazado. Agregar una nueva aplicación empaquetada debajo (un directorio) o una aplicación alojada (enlace a un archivo de manifiesto).">
