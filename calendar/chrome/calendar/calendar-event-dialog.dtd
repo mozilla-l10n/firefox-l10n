@@ -97,6 +97,8 @@
 
 <!ENTITY  event.menu.options.label                            "Настройки">
 <!ENTITY  event.menu.options.accesskey                        "Н">
+<!ENTITY  event.menu.options.attachments.label                "Прикрепить веб-страницу…">
+<!ENTITY  event.menu.options.attachments.accesskey            "е">
 <!ENTITY  event.menu.options.attendees.label                  "Пригласить участников…">
 <!ENTITY  event.menu.options.attendees.accesskey              "П">
 <!ENTITY  event.menu.options.spellcheck.label                 "Проверка орфографии…">
