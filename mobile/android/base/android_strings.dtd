@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Hyppige steder">
-<!ENTITY  awesomebar_bookmarks_title "Bogmærker">
-<!ENTITY  awesomebar_history_title "Historik">
-<!ENTITY  awesomebar_switch_to_tab "Skift til faneblad">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Bogmærker">
+<!ENTITY  history_title "Historik">
+<!ENTITY  reading_list_title "Læseliste">
+
+<!ENTITY  switch_to_tab "Skift til faneblad">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
 <!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startsiden, når du genstarter.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Vælg fil">
 
-<!ENTITY awesomebar_default_text "Indtast søgeord eller adresse">
-
-<!ENTITY remote_tabs "Synkroniserede faneblade">
-<!ENTITY remote_tabs_show_all "Vis alle faneblade">
+<!ENTITY url_bar_default_text "Indtast søgeord eller adresse">
 
 <!ENTITY bookmark "Sæt bogmærke">
 <!ENTITY bookmark_added "Bogmærke tilføjet">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
+<!ENTITY pref_category_add_search_providers "Tilføj flere søgetjenester">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt.">
 <!ENTITY pref_category_devtools "Udviklerværktøjer">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Læs mere">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Reformater teksten">
 <!ENTITY pref_restore "Faneblade">
 <!ENTITY pref_restore_always "Gendan altid">
-<!ENTITY pref_restore_crash "Gendan efter et nedbrud">
-<!ENTITY pref_restore_never "Gendan aldrig">
+<!ENTITY pref_restore_quit "Gendan ikke efter lukning af &brandShortName;">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Giv os din mening">
+<!ENTITY pref_search_set_default "Brug som standard">
+<!ENTITY pref_search_default "Standard">
+<!ENTITY pref_search_remove "Fjern">
+<!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere din sidste søgetjeneste.">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
 <!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
 <!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
 <!ENTITY contextmenu_open_in_reader "Åbn i Læser">
-<!ENTITY contextmenu_remove_history "Fjern">
-<!ENTITY contextmenu_remove_bookmark "Fjern">
+<!ENTITY contextmenu_remove "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
 <!ENTITY contextmenu_share "Del">
 <!ENTITY contextmenu_pasteandgo "Indsæt og gå">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 <!ENTITY contextmenu_subscribe "Abonner på siden">
 <!ENTITY contextmenu_site_settings "Rediger webstedets indstillinger">
+<!ENTITY contextmenu_top_bookmarks_edit "Rediger">
+<!ENTITY contextmenu_top_bookmarks_pin "Fastgør websted">
+<!ENTITY contextmenu_top_bookmarks_unpin "Frigør websted">
 
 <!ENTITY pref_titlebar_mode "Titellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidens titel">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Side fjernet">
 
+<!ENTITY bookmark_add "Tilføj et bogmærke">
 <!ENTITY bookmark_edit_title "Rediger bogmærke">
 <!ENTITY bookmark_edit_name "Navn">
 <!ENTITY bookmark_edit_location "Adresse">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Ryd">
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
-<!ENTITY reading_list "Læseliste">
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
 <!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
@@ -260,28 +270,25 @@ size. -->
 <!ENTITY button_set "Indstil">
 <!ENTITY button_clear "Ryd">
 
-<!ENTITY abouthome_addons_title "Tilføjelser til din &brandShortName;">
-<!ENTITY abouthome_addons_browse "Gennemse alle tilføjelser til &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Dine faneblade fra sidst">
-<!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
-<!ENTITY abouthome_top_sites_title "Hyppige steder">
-<!ENTITY abouthome_topsites_edit "Rediger">
-<!ENTITY abouthome_topsites_pin "Fastgør websted">
-<!ENTITY abouthome_topsites_unpin "Frigør websted">
+<!ENTITY home_history_title "Historik">
+<!ENTITY home_last_tabs_title "Dine faneblade fra sidst">
+<!ENTITY home_last_tabs_open "Åbn alle faneblade fra sidst">
+<!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
+<!ENTITY home_most_recent_title "Seneste">
+<!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
+<!ENTITY home_most_visited_title "Hyppige steder">
+<!ENTITY home_reading_list_empty "Artikler du gemmer til senere vises her.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på ikonen &#37;I, når den vises i titellinjen.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på Læser-knappen, når den vises i titellinjen.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Opsæt Firefox Sync for at få adgang til bogmærker, historik og faneblade fra dine andre enheder&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Hent apps fra Firefox Marketplace, og oplev det bedste internettet kan tilbyde&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Dine hyppigst besøgte websteder vises her.">
+<!ENTITY pin_bookmark_dialog_hint "Indtast stikord til søgning">
 
 <!ENTITY filepicker_title "Vælg fil">
 <!ENTITY filepicker_audio_title "Vælg eller optag et lydklip">
@@ -327,6 +334,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Vil du slå søgeforslag til for &formatS;?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Søg på &formatS1; efter &formatS2;">
 
 <!ENTITY webapp_generic_name "App">
 
