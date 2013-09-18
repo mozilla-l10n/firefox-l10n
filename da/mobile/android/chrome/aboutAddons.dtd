@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Tilføjelser">
 <!ENTITY aboutAddons.header2                    "Dine tilføjelser">
 <!ENTITY aboutAddons.options                    "Indstillinger">
+<!ENTITY aboutAddons.browseAll                  "Se alle Firefox-tilføjelser">
 
 <!ENTITY addonAction.enable                     "Aktiver">
 <!ENTITY addonAction.disable                    "Deaktiver">
 <!ENTITY addonAction.uninstall                  "Afinstaller">
 <!ENTITY addonAction.undo                       "Fortryd">
-<!ENTITY addonAction.setDefault                 "Angiv som standard">
