@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY aboutAddons.title "Conponénti azónti pe &brandShortName;: Tràvaggi in córso">
+<!ENTITY aboutAddons.messageTitle "Ahime mi!">
+<!ENTITY aboutAddons.message "Ne spiâxe, o sopòrto pe-i Conponénti azónti inte &brandShortName; o l'é òua inte 'na fâze de svilùppo.">
+<!ENTITY aboutAddons.goBackToStartStart "Vànni tórna a-a">
+<!ENTITY aboutAddons.goBacktoStartLink "Pàgina iniçiâ de &brandShortName;">
+<!ENTITY aboutAddons.goBacktoStartEnd ".">
