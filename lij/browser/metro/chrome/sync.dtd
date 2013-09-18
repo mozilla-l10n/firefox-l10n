@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.description1 "Acêdi a segnalìbbri, paròlle segrête e féuggi avèrti da qualónque dispoxitîvo">
+<!ENTITY sync.flyout.presetup.setup.label "Configuraçión de &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title "Configuraçión de &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Se ti gh'æ 'n account &syncBrand.shortName.label;, seleçionâ &quot;Colêga 'n dispoxitîvo&quot; in sce l'âtro dispoxitîvo e scrîvi sto còdice.">
+<!ENTITY sync.flyout.setup.description2 "Se no ti gh'æ ancón 'n account &syncBrand.shortName.label;, ti poriésci fâne un nêuvo adêuviàndo a versción desktop de &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2 "No són vixìn a-o computer…">
+<!ENTITY sync.flyout.setup.description3 "Atençión:">
+<!ENTITY sync.flyout.setup.description4_2 "Pe trovâ &quot;Colêga in dispoxitîvo&quot;">
+<!ENTITY sync.flyout.setup.description5_2 "[Desktop] Arvî &quot;Inpostaçioìn&quot; ò &quot;Preferénse&quot; e seleçionâ &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Âtro &gt; Inpostaçioìn &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Scrîvi e informaçioìn in sce l'account &syncBrand.shortName.label; e a ciâve di ripìggio generâ dò-u pròpio computer">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nómme account">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Paròlla segrêta">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Châve de ripìggio">
+<!ENTITY sync.flyout.manualsetup.connect.label "Conètti">
+<!ENTITY sync.flyout.setupsuccess.description1 "&brandShortName; o l'é òua conèsso a l'account &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "O descaregaménto di dæti &syncBrand.shortName.label; o l'é in córso. I féuggi scincronizæ én inta pàgina iniçiâ de &brandShortName;.">
+<!ENTITY sync.flyout.setupfailure.description "Inposcìbile conèttise a l'acount &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Anùlla">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Prêuva tórna">
+<!ENTITY sync.flyout.connected.account "Account:">
+<!ENTITY sync.flyout.connected.device "Dispoxitîvo:">
+<!ENTITY sync.flyout.connected.disconnect "Disconètti">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "Disconètte o dispoxitîvo da &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Tùtti i dæti personâli prezénti in sciô dispoxitîvo e in sce l'account &syncBrand.shortName.label; no saiàn cangiæ.">
+<!ENTITY sync.flyout.connected.cancel "Anùlla">
+<!ENTITY sync.flyout.connected.pair "Colêga 'n dispoxitîvo">
+<!ENTITY sync.flyout.pairNewDevice.description "Into nêuvo dispoxitîvo da collegare seleçionâ &quot;Configuraçión de &syncBrand.shortName.label;&quot; e scrîve o càdice generòu dò-i dispoxitîvo">
+<!ENTITY sync.flyout.pairNewDevice.pair "Colêga">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Atençión:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Pe trovâ o còdice">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Desktop] Arvî &quot;Inpostaçioìn&quot; ò &quot;Preferénse&quot; e seleçionâ &syncBrand.shortName.label; -&gt; Configuraçión de &syncBrand.shortName.label; -&gt; Adêuvia 'n account existénte">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Âtro &gt; Inpostaçioìn &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Prêuva tórns">
+<!ENTITY sync.flyout.pairSuccess.description1 "O nêuvo dispoxitîvo o l'é stæto azónto cómme se dêve.">
+<!ENTITY sync.flyout.pairSuccess.description2 "O descaregaménto di dæti &syncBrand.shortName.label; o l'é in córso. I féuggi remòtti én disponìbili inta pàgina iniçiâ de &brandShortName;.">
