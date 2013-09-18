@@ -408,7 +408,7 @@
 <!ENTITY newPlainTextMessageCmd.label "使用純文字撰寫">
 <!ENTITY newPlainTextMessageCmd.accesskey "p">
 <!ENTITY replyButton.label "回覆">
-<!ENTITY replyAllButton.label "全部回覆">
+<!ENTITY replyAllButton.label "回覆全部">
 <!ENTITY forwardButton.label "轉寄">
 <!ENTITY fileButton.label "檔案">
 <!ENTITY nextButton.label "下一封">

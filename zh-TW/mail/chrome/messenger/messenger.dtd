@@ -496,7 +496,7 @@
 <!ENTITY getMsgButton1.label "下載郵件">
 <!ENTITY newMsgButton.label "寫信">
 <!ENTITY replyButton.label "回覆">
-<!ENTITY replyAllButton.label "全部回覆">
+<!ENTITY replyAllButton.label "回覆全部">
 <!ENTITY replyListButton.label "回覆至清單">
 <!ENTITY forwardButton.label "轉寄">
 <!ENTITY fileButton.label "檔案">
