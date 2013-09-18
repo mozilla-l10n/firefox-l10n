@@ -144,6 +144,10 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gi tilbakemelding">
+<!ENTITY pref_search_set_default "Sett som standard">
+<!ENTITY pref_search_default "Standard">
+<!ENTITY pref_search_remove "Fjern">
+<!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere den siste søkemotoren.">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
 <!ENTITY datareporting_notification_action_long "Velg hvilken info som deles">
@@ -208,8 +212,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Åpne i ny fane">
 <!ENTITY contextmenu_open_private_tab "Åpne i privat fane">
 <!ENTITY contextmenu_open_in_reader "Åpne i Reader">
-<!ENTITY contextmenu_remove_history "Slett">
-<!ENTITY contextmenu_remove_bookmark "Slett">
+<!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på forsiden">
 <!ENTITY contextmenu_share "Del">
 <!ENTITY contextmenu_pasteandgo "Lim inn og åpne">
@@ -218,6 +221,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 <!ENTITY contextmenu_subscribe "Abonner på siden">
 <!ENTITY contextmenu_site_settings "Rediger nettstedsinnstillinger">
+<!ENTITY contextmenu_top_bookmarks_edit "Rediger">
+<!ENTITY contextmenu_top_bookmarks_pin "Lås nettsted">
+<!ENTITY contextmenu_top_bookmarks_unpin "Opphev låsing av nettsted">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
@@ -225,6 +231,7 @@ size. -->
 
 <!ENTITY history_removed "Siden fjernet">
 
+<!ENTITY bookmark_add "Legg til et bokmerke">
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Navn">
 <!ENTITY bookmark_edit_location "Adresse">
@@ -327,6 +334,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Vil du skru på &formatS; søkeforslag?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Søk med &formatS1; etter &formatS2;">
 
 <!ENTITY webapp_generic_name "App">
 
