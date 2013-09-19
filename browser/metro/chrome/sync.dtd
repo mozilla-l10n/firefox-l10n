@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Synchronizujte své záložky, hesla a otevřené panely napříč všemi zařízeními">
+<!ENTITY sync.flyout.presetup.setup.label      "Nastavit &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Nastavit &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Pokud již máte účet &syncBrand.shortName.label;, zvolte na svém dalším zařízení &quot;Připojit zařízení&quot; a vložte tento kód.">
+<!ENTITY sync.flyout.setup.description2        "Pokud ještě účet &syncBrand.shortName.label; nemáte, můžete si jej vytvořit ve vašem prohlížeči &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Nemám zařízení u sebe…">
+<!ENTITY sync.flyout.setup.description3        "Poznámka:">
+<!ENTITY sync.flyout.setup.description4_2      "Odkaz &quot;Připojit zařízení&quot; naleznete,">
+<!ENTITY sync.flyout.setup.description5_2      "[Počítač] Otevřete &quot;Možnosti&quot; nebo &quot;Předvolby&quot;, a poté vyberte &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Více &gt; Nastavení &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Vložte prosím své přihlašovací informace a obnovovací klíč k účtu &syncBrand.shortName.label; vygenerovaný svým počítačem">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Název účtu">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Heslo">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Obnovovací klíč">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Připojit">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Právě jste připojili &brandShortName; k účtu &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Vaše data &syncBrand.shortName.label; jsou nyní stahována na pozadí. Vaše synchronizované panely můžete nalézt na Úvodní stránce aplikace &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; se nedaří připojit k vašemu účtu &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Zrušit">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Zkusit znovu">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Účet:">
+<!ENTITY sync.flyout.connected.device                     "Vaše zařízení:">
+<!ENTITY sync.flyout.connected.disconnect                 "Odpojit">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Skutečně chcete odpojit své zařízení od účtu &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Všechna vaše osobní data na tomto zařízení a účtu &syncBrand.shortName.label; zůstanou nedotčena.">
+<!ENTITY sync.flyout.connected.cancel                     "Zrušit">
+<!ENTITY sync.flyout.connected.pair                       "Připojit zařízení">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Na novém zařízení, se kterým si přejete propojit, zvolte &quot;Nastavit &syncBrand.shortName.label;&quot; a vložte kód, který zařízení vygeneruje">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Připojit">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Poznámka:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Pro získání kódu,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Počítač] Otevřete &quot;Možnosti&quot; nebo &quot;Předvolby&quot; a poté pokračujte: &syncBrand.shortName.label; -&gt; Nastavit &syncBrand.shortName.label; -&gt; Již mám účet">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Více &gt; Nastavení &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Prosím zkuste to znovu">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Nové zařízení bylo úspěšně přidáno.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Vaše data &syncBrand.shortName.label; jsou nyní stahována na pozadí. Vaše vzdálené panely můžete nalézt na Úvodní stránce aplikace &brandShortName;.">
