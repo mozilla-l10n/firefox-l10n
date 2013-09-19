@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Toppliste">
-<!ENTITY  awesomebar_bookmarks_title "Bokmerker">
-<!ENTITY  awesomebar_history_title "Historikk">
-<!ENTITY  awesomebar_switch_to_tab "Bytt til fane">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Bokmerker">
+<!ENTITY  history_title "Historikk">
+<!ENTITY  reading_list_title "Leseliste">
+
+<!ENTITY  switch_to_tab "Bytt til fane">
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message2 "&brandShortName; fikk et problem og krasjet. Faner som var åpne vil være tilgjengelig på &brandShortName; sin Startside etter du starter på nytt.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Velg fil">
 
-<!ENTITY awesomebar_default_text "Skriv inn søkeord eller adresse">
-
-<!ENTITY remote_tabs "Synkroniserte faner">
-<!ENTITY remote_tabs_show_all "Vis alle faner">
+<!ENTITY url_bar_default_text "Skriv inn søk eller adresse">
 
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datavalg">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
+<!ENTITY pref_category_add_search_providers "Legg til flere søketilbydere">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "TIPS: Legg til hvilket som helst nettsted som søketilbyder ved å lang-trykke på søkefeltet.">
 <!ENTITY pref_category_devtools "Utviklerverktøy">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Les mer">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Oppdatering av tekstflyt">
 <!ENTITY pref_restore "Faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
-<!ENTITY pref_restore_crash "Gjenopprett etter krasj">
-<!ENTITY pref_restore_never "Aldri gjenopprett">
+<!ENTITY pref_restore_quit "Ikke gjenopprett etter avslutting av &brandShortName;">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
@@ -244,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
 
-<!ENTITY reading_list "Leseliste">
 <!ENTITY reading_list_added "Siden er lagt til i leselisten">
 <!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
 <!ENTITY reading_list_failed "Klarte ikke legge til siden i leselisten">
@@ -267,28 +270,9 @@ size. -->
 <!ENTITY button_set "Sett">
 <!ENTITY button_clear "Tøm">
 
-<!ENTITY abouthome_addons_title "Utvidelser til &brandShortName;">
-<!ENTITY abouthome_addons_browse "Vis alle &brandShortName;-utvidelser">
-<!ENTITY abouthome_last_tabs_title "Faner fra forrige gang">
-<!ENTITY abouthome_last_tabs_open "Åpne alle faner fra forrige gang">
-<!ENTITY abouthome_top_sites_title "Toppliste">
-<!ENTITY abouthome_topsites_edit "Rediger">
-<!ENTITY abouthome_topsites_pin "Fest nettsted">
-<!ENTITY abouthome_topsites_unpin "Løsne nettsted">
-
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Sett opp Firefox Sync for å få tilgang til bokmerker, historikk og faner fra andre enheter&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Last ned apps fra Firefox Marketplace og oppdag det beste nettet har å tilby&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Historikk">
+<!ENTITY home_last_tabs_title "Faner fra forrige gang">
+<!ENTITY home_last_tabs_open "Åpne alle faner fra forrige gang">
 
 <!ENTITY filepicker_title "Velg fil">
 <!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
