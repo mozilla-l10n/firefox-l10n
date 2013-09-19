@@ -709,6 +709,7 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY tabCrashed.header "Pestaña colgada">
 <!ENTITY tabCrashed.message "Bueno, esto es vergonzoso. Tratamos de mostrar esta página web, pero no está respondiendo.">
+<!ENTITY tabCrashed.checkSendReport "Decirle a &vendorShortName; sobre este cuelgue así pueden arreglarlo.">
 <!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
 
 
