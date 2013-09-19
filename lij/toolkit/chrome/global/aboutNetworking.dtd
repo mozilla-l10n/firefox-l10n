@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title "Informaçioìn in sciâ ræ">
-<!ENTITY aboutNetworking.warning "A l'é ina fonçión sperimentâle. No adêuviâ sénsa a supervixón de 'n grànde.">
-<!ENTITY aboutNetworking.showNextTime "Véddi tórna sto avîzo inte l'avegnî">
-<!ENTITY aboutNetworking.ok "Va bén">
+<!ENTITY aboutNetworking.title "InformaÃ§ioÃ¬n in sciÃ¢ rÃ¦">
+<!ENTITY aboutNetworking.warning "A l'Ã© ina fonÃ§iÃ³n sperimentÃ¢le. No adÃªuviÃ¢ sÃ©nsa a supervixÃ³n de 'n grÃ nde.">
+<!ENTITY aboutNetworking.showNextTime "VÃ©ddi tÃ³rna sto avÃ®zo inte l'avegnÃ®">
+<!ENTITY aboutNetworking.ok "Va bÃ©n">
 <!ENTITY aboutNetworking.http "Http">
 <!ENTITY aboutNetworking.sockets "Socket">
 <!ENTITY aboutNetworking.dns "DNS">
 <!ENTITY aboutNetworking.websockets "WebSocket">
-<!ENTITY aboutNetworking.refresh "Agiórna">
-<!ENTITY aboutNetworking.autoRefresh "Agiórna outomaticaménte ògni 3 segóndi">
-<!ENTITY aboutNetworking.hostname "Nómme server">
-<!ENTITY aboutNetworking.port "Pòrta">
+<!ENTITY aboutNetworking.refresh "AgiÃ³rna">
+<!ENTITY aboutNetworking.autoRefresh "AgiÃ³rna outomaticamÃ©nte Ã²gni 3 segÃ³ndi">
+<!ENTITY aboutNetworking.hostname "NÃ³mme server">
+<!ENTITY aboutNetworking.port "PÃ²rta">
 <!ENTITY aboutNetworking.spdy "SPDY">
 <!ENTITY aboutNetworking.ssl "SSL">
-<!ENTITY aboutNetworking.active "Atîvo">
-<!ENTITY aboutNetworking.idle "Inatîvo">
+<!ENTITY aboutNetworking.active "AtÃ®vo">
+<!ENTITY aboutNetworking.idle "InatÃ®vo">
 <!ENTITY aboutNetworking.host "Server">
 <!ENTITY aboutNetworking.tcp "TCP">
-<!ENTITY aboutNetworking.sent "Mandæ">
-<!ENTITY aboutNetworking.received "Riçevûi">
-<!ENTITY aboutNetworking.family "Famìggia">
-<!ENTITY aboutNetworking.addresses "Indirìssi">
-<!ENTITY aboutNetworking.expires "Scadénsa (segóndi)">
-<!ENTITY aboutNetworking.messagesSent "Mesàggi mandæ">
-<!ENTITY aboutNetworking.messagesReceived "Mesàggi reçevûi">
-<!ENTITY aboutNetworking.bytesSent "Byte mandæ">
-<!ENTITY aboutNetworking.bytesReceived "Byte reçevûi">
+<!ENTITY aboutNetworking.sent "MandÃ¦">
+<!ENTITY aboutNetworking.received "RiÃ§evÃ»i">
+<!ENTITY aboutNetworking.family "FamÃ¬ggia">
+<!ENTITY aboutNetworking.addresses "IndirÃ¬ssi">
+<!ENTITY aboutNetworking.expires "ScadÃ©nsa (segÃ³ndi)">
+<!ENTITY aboutNetworking.messagesSent "MesÃ ggi mandÃ¦">
+<!ENTITY aboutNetworking.messagesReceived "MesÃ ggi reÃ§evÃ»i">
+<!ENTITY aboutNetworking.bytesSent "Byte mandÃ¦">
+<!ENTITY aboutNetworking.bytesReceived "Byte reÃ§evÃ»i">
