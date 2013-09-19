@@ -13,9 +13,9 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY options.context.advancedSettings "Impostazioni avanzate">
 <!ENTITY options.context.inspector "Analisi pagina">
-<!ENTITY options.defaultColorUnit.label "Unità predefinita colori">
+<!ENTITY options.defaultColorUnit.label "Unità predefinita colori:">
 <!ENTITY options.defaultColorUnit.accesskey "U">
-<!ENTITY options.defaultColorUnit.hex "hex">
+<!ENTITY options.defaultColorUnit.hex "esadecimale">
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!ENTITY options.defaultColorUnit.name "nomi dei colori">
