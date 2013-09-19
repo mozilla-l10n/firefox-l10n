@@ -530,21 +530,3 @@
 <!ENTITY all.label "Todo">
 <!ENTITY all.accesskey "T">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; piensa que este mensaje es basura.">
-<!ENTITY junkBarButton.label "No es basura">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Para proteger su privacidad, &brandShortName; bloqueó el contenido remoto de este mensaje.">
-<!ENTITY loadRemoteContentButton.label "Mostrar contenido remoto">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; piensa que este mensaje puede ser un intento de fraude.">
-<!ENTITY removePhishingBarButton.label "No es fraude">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Enviar acuse">
-<!ENTITY mdnBarSendButton.accesskey "E">
