@@ -147,7 +147,6 @@ size. -->
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Dar feedback">
-<!ENTITY pref_search_last_toast "Não pode remover ou desativar o seu último motor de pesquisa.">
 
 <!ENTITY datareporting_notification_title "Estatísticas &amp; dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
