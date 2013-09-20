@@ -3,6 +3,6 @@ bing
 bok-NO
 google
 qxl-NO
-telefonkatalogen-NO
+gulesider-NO
 wikipedia-NO
 yahoo-NO

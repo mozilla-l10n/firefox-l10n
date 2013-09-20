@@ -6,3 +6,4 @@ google
 twitter
 wikipedia
 yahoo
+gulesider-NO
