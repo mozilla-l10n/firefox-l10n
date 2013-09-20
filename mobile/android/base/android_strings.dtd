@@ -273,6 +273,22 @@ size. -->
 <!ENTITY home_history_title "Historikk">
 <!ENTITY home_last_tabs_title "Faner fra forrige gang">
 <!ENTITY home_last_tabs_open "Åpne alle faner fra forrige gang">
+<!ENTITY home_last_tabs_empty "Nylig brukte faner vises her.">
+<!ENTITY home_most_recent_title "Nylig brukt">
+<!ENTITY home_most_recent_empty "Nettsted som du sist besøkte visese her.">
+<!ENTITY home_most_visited_title "Mest besøkt">
+<!ENTITY home_reading_list_empty "Artikler du lagrer for senere vises her.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "TIPS: Lagre artikler i leselisten ved å lang-trykke på &#37;I-ikonet når det er synlig i tittellinjen.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIPS: Lagre artikler i leselisten ved å lang-trykke på lesemodus-knappen når den er synlig i tittellinjen.">
+
+<!ENTITY home_most_visited_empty "Nettsted du besøkte sist vises her.">
+<!ENTITY pin_bookmark_dialog_hint "Skriv inn et søkeord">
 
 <!ENTITY filepicker_title "Velg fil">
 <!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
