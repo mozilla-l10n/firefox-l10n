@@ -6,7 +6,7 @@
 <!ENTITY aboutHeader.title          "À propos de">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "Par &vendorShortName;">
-<!ENTITY aboutHeader.policy.label   "Lire en ligne la politique de confidentialité de &brandShortName;">
+<!ENTITY aboutHeader.policy.label   "Politique de confidentialité de &brandShortName;">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Recherche de mises à jour…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
