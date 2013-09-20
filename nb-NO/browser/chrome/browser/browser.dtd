@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Lukk utvikler-verktøylinje">
 <!ENTITY devToolbarMenu.label              "Utvikler-verktøylinje">
 <!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devAppMgrMenu.label               "App-behandler">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Slå av/på verktøy">
@@ -643,9 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Focus nettprat">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!-- labels are set dynamically, see browser.properties -->
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "s">
+<!ENTITY social.markpageMenu.label "Lagre side til …">
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Lagre lenke til …">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som deles:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -667,6 +670,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Tillat nå">
 <!ENTITY pluginActivateAlways.label "Tillat og husk">
 <!ENTITY pluginBlockNow.label "Blokker programtillegg">
+
+<!ENTITY tabCrashed.header "Fane krasjet">
+<!ENTITY tabCrashed.message "Vel, dette er pinlig. Vi forsøkte å vise denne nettsiden, men den svarer ikke.">
+<!ENTITY tabCrashed.checkSendReport "Fortell &vendorShortName; om dette krasjet så de kan fikse det.">
+<!ENTITY tabCrashed.tryAgain "Prøv igjen">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
