@@ -115,6 +115,7 @@ can reach it easily. -->
 <!ENTITY showAllBookmarks2.label "Fànni védde tùtti i segnalìbbri">
 <!ENTITY unsortedBookmarksCmd.label "Âtri segnalìbbri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fànni védde ciù segnalìbbri">
+<!ENTITY social.marklinkMenu.label "Sàrva colegaménto inte…">
 
 <!ENTITY backCmd.label                "Inderê">
 <!ENTITY backCmd.accesskey            "I">
