@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Zertifikate">
 <!ENTITY viewCertificates.accesskey     "Z">
-<!ENTITY viewCRLs.label                 "Zertifikatsperrliste">
-<!ENTITY viewCRLs.accesskey             "s">
 <!ENTITY validation.label               "Validierung">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Kryptographie-Module">

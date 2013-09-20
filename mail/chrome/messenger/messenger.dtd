@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "x">
 <!ENTITY newIMAccountCmd.label "Chat-Konto…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Feed-Konto…">
+<!ENTITY newFeedAccountCmd.accesskey "F">
 <!ENTITY newIMContactCmd.label "Chat-Kontakt…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "o">
+<!ENTITY allowRemoteDebugging.label "Externes Debugging erlauben">
+<!ENTITY allowRemoteDebugging.accesskey "x">
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Abrufen">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Auf gewählte Nachricht(en) an den Absender und alle Empfänger antworten">
 <!ENTITY replyListButton.tooltip "Auf gewählte Nachricht(en) an Liste antworten">
 <!ENTITY forwardButton.tooltip "Gewählte Nachricht(en) weiterleiten">
+<!ENTITY forwardAsInline.tooltip "Ausgewählte Nachricht als eingebundenen Text weiterleiten">
+<!ENTITY forwardAsAttachment.tooltip "Ausgewählte Nachricht als Anhang weiterleiten">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
 <!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
 <!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Bei gewählten Nachrichten Schlagwörter hinzufügen/entfernen">
 <!ENTITY compactButton.tooltip "Gelöschte Nachrichten endgültig aus dem gewählten Ordner entfernen">
 <!ENTITY appmenuButton1.tooltip "Anwendungsmenü von &brandShortName; anzeigen">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Als eingebundenen Text">
+<!ENTITY buttonMenuForwardAsAttachment.label "Als Anhang">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Neue Nachricht">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Nachrichten abrufen">
 <!ENTITY folderContextGetMessages.accesskey "c">
-<!ENTITY folderContextOpenNewWindow.label "In neuem Fenster öffnen">
-<!ENTITY folderContextOpenNewWindow.accesskey "Ö">
+<!ENTITY folderContextOpenInNewWindow.label "In neuem Fenster öffnen">
+<!ENTITY folderContextOpenInNewWindow.accesskey "ö">
 <!ENTITY folderContextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Neuer Unterordner…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "e">
 <!ENTITY contextForward.label "Weiterleiten">
 <!ENTITY contextForward.accesskey "w">
-<!ENTITY contextForwardAsAttachment.label "Als Anhang weiterleiten">
-<!ENTITY contextForwardAsAttachment.accesskey "a">
+<!ENTITY contextForwardAsMenu.label "Weiterleiten als">
+<!ENTITY contextForwardAsMenu.accesskey "n">
+<!ENTITY contextForwardAsInline.label "Eingebundenen Text">
+<!ENTITY contextForwardAsInline.accesskey "E">
+<!ENTITY contextForwardAsAttachmentItem.label "Anhang">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Weiterleiten als Anhänge">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "e">
 <!ENTITY contextMoveMsgMenu.label "Verschieben in">
 <!ENTITY contextMoveMsgMenu.accesskey "v">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Letzte Ordner">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "z">
 <!ENTITY contextCopyMsgMenu.label "Kopieren in">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Thema ignorieren">
+<!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.label "Unterthema ignorieren">
+<!ENTITY contextWatchThreadMenu.label "Thema beobachten">
 <!ENTITY contextSaveAs.label "Speichern unter…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Drucken…">
