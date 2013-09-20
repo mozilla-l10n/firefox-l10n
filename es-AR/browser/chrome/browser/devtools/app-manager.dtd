@@ -61,11 +61,11 @@
 <!ENTITY projects.localApps "Aplicaciones locales">
 <!ENTITY projects.addApp "Agregar">
 <!ENTITY projects.addPackaged "Agregar aplicación empaquetada">
+<!ENTITY projects.addPackagedTooltip "Agrerar una nueva aplicación empaquetada (un directorio) desde su computadora.">
 <!ENTITY projects.addHosted "Agregar aplicación alojada">
+<!ENTITY projects.addHostedTooltip "Agregar una nueva aplicación alojada (enlace a un archivo manifest.webapp) desde un sitio remoto.">
 <!ENTITY projects.title "Aplicaciones locales">
 <!ENTITY projects.appDetails "Detalles de la aplicación">
-<!ENTITY projects.removeApp "Eliminar">
-<!ENTITY projects.reloadFiles "Refrescar">
 <!ENTITY projects.removeAppFromList "Eliminar esta aplicación de la lista de aplicaciones en las que está trabajando. Ésto no la removerá del dispositivo o del simulador.">
 <!ENTITY projects.updateApp "Actualizar">
 <!ENTITY projects.updateAppTooltip "Ejecuta pruebas de validación de la aplicación y la actualiza en el dispositivo conectado">
