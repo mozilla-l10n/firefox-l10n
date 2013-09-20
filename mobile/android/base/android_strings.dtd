@@ -10,7 +10,6 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
-<!ENTITY  reading_list_title "Lista de lectura">
 
 <!ENTITY  switch_to_tab "Cambiar a pestaña">
 
@@ -235,6 +234,7 @@ size. -->
 
 <!ENTITY history_removed "Página eliminada">
 
+<!ENTITY bookmark_add "Agregar un marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">

@@ -66,12 +66,13 @@
 <!ENTITY projects.appDetails "Detalles de la aplicación">
 <!ENTITY projects.removeApp "Eliminar">
 <!ENTITY projects.reloadFiles "Refrescar">
-<!ENTITY projects.installApp "Instalar">
-<!ENTITY projects.startApp "Iniciar">
-<!ENTITY projects.stopApp "Detener">
+<!ENTITY projects.removeAppFromList "Eliminar esta aplicación de la lista de aplicaciones en las que está trabajando. Ésto no la removerá del dispositivo o del simulador.">
+<!ENTITY projects.updateApp "Actualizar">
+<!ENTITY projects.updateAppTooltip "Ejecuta pruebas de validación de la aplicación y la actualiza en el dispositivo conectado">
 <!ENTITY projects.debugApp "Depurar">
+<!ENTITY projects.debugAppTooltip "Abre las herramientas de desarrollador conectadas a esta aplicación">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ejemplo.com/app/manifest.webapp">
-<!ENTITY projects.noProject "No hay proyecto enlazado. Agregar una nueva aplicación empaquetada debajo (un directorio) o una aplicación alojada (enlace a un archivo de manifiesto).">
+<!ENTITY projects.noProjects "No hay proyectos. Agregar una nueva aplicación empaquetada debajo (un directorio) o una aplicación alojada (enlace a un archivo de manifiesto).">
 
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
