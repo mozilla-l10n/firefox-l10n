@@ -22,7 +22,16 @@
 
 <!ENTITY saveButton.label           "Guardar">
 <!ENTITY saveButton.tooltip         "Guardar esta hoja de estilo en un archivo">
+<<<<<<< local
+<!ENTITY saveButton.accesskey       "G">
+<!ENTITY saveButton.commandkey      "s">
+
+<!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
+     when the stylesheet uses the scoped attribute on the <style> element. -->
+<!ENTITY scoped.label               "Ámbito.">
+=======
 <!ENTITY saveButton.accesskey       "s">
+>>>>>>> other
 
 <!ENTITY editorTextbox.placeholder  "Ingrese CSS aquí.">
 
