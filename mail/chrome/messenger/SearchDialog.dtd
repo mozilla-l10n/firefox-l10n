@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey "V">
 <!ENTITY composeButton.label "Napsat zprávu">
 <!ENTITY composeButton.accesskey "z">
+<!ENTITY deleteCardButton.label      "Smazat">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label "Rozšířené hledání v kontaktech">
 
 <!-- Thread Pane -->

@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Vše">
 <!ENTITY all.accesskey "V">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; si myslí, že tato zpráva je nevyžádaná">
-<!ENTITY junkBarButton.label "Není nevyžádaná">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Aplikace &brandShortName; zablokovala v této zprávě kvůli ochraně vašeho soukromí vzdálené obrázky.">
-<!ENTITY loadRemoteContentButton.label "Zobrazit obrázky">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; si myslí, že tato zpráva je podvodný e-mail.">
-<!ENTITY removePhishingBarButton.label "Není podvodný e-mail">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorovat požadavek">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Odeslat potvrzení">
-<!ENTITY mdnBarSendButton.accesskey "O">

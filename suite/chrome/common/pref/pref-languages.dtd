@@ -18,9 +18,10 @@
 <!ENTITY languages.customize.active.accesskey "J">
 <!ENTITY languages.customize.others.label "Ostatní:">
 <!ENTITY languages.customize.others.accesskey "O">
-<!ENTITY languages.customize.Charset.grouplabel "Znaková sada">
-<!ENTITY languages.customize.DefaultCharset.label "Výchozí znaková sada:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "Z">
+<!ENTITY languages.customize.Fallback.grouplabel        "Znaková sada pro původní obsah">
+<!ENTITY languages.customize.Fallback.label             "Znaková sada:">
+<!ENTITY languages.customize.Fallback.accesskey         "Z">
+<!ENTITY languages.customize.Fallback.desc              "Tato znaková sada se používá pro původní obsah, který chybně neobsahuje definici své znakové sady.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "Např.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label "Přesunout výše">
