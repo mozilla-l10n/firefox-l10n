@@ -80,7 +80,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Ògétti da Bâra di Segnalìbbri">
 <!ENTITY addonBarCmd.label "Bâra di conponénti azónti">
 <!ENTITY addonBarCmd.accesskey "a">
-
+<!ENTITY devAppMgrMenu.label "Gestô de app">
+<!ENTITY devAppMgrMenu.accesskey "G">
 <!ENTITY pageSourceCmd.label "Sorgénte da Pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -667,8 +668,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Òua no">
 <!ENTITY social.learnMore.label "Âtre informaçioìn…">
 <!ENTITY social.learnMore.accesskey "U">
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "m">
 <!ENTITY browserConsoleCmd.accesskey "o">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY chromeDebuggerMenu.label "Debugger do navegatô">
@@ -679,4 +678,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginBlockNow.label "Blòcca o plugin">
 <!ENTITY pluginNotification.showAll.accesskey "V">
 <!ENTITY pluginNotification.showAll.label "Véddi tùtti">
-
+<!ENTITY social.markpageMenu.label "Sàrva pàgina inte…">
+<!ENTITY social.marklinkMenu.accesskey "S">
+<!ENTITY social.markpageMenu.accesskey "a">
+<!ENTITY social.markpageMenu.label "Sàrva pàgina inte…">
+<!ENTITY tabCrashed.checkSendReport "Segnâla sto blòcco a &vendorShortName; in mòddo che o problêma se pòssa risòlve.">
+<!ENTITY tabCrashed.header "O féuggio o s'é seròu">
+<!ENTITY tabCrashed.message "Ahime mi! Che inbaràsso. No l'é stæto poscìbile mostrâ a pàgina web perché o scîto o no rispónde.">
+<!ENTITY tabCrashed.tryAgain "Prêuva tórna">
+<!ENTITY undoCloseTabs.label "Àrvi tórna féuggi seræ">
