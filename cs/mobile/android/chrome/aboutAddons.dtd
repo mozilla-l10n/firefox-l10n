@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2 "Doplňky">
 <!ENTITY aboutAddons.header2 "Moje doplňky">
 <!ENTITY aboutAddons.options "Možnosti">
+<!ENTITY aboutAddons.browseAll                  "Procházet všechny Doplňky Firefoxu">
 
 <!ENTITY addonAction.enable "Povolit">
 <!ENTITY addonAction.disable "Zakázat">
 <!ENTITY addonAction.uninstall "Odinstalovat">
 <!ENTITY addonAction.undo "Zpět">
-<!ENTITY addonAction.setDefault                 "Nastavit jako výchozí">
