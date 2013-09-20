@@ -33,9 +33,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Fixar como separador">
+<!ENTITY  pinTab.label                       "Fixar separador">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Anular fixar do separador">
+<!ENTITY  unpinTab.label                     "Desafixar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  moveToGroup.label                  "Mover para grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
