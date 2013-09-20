@@ -30,7 +30,7 @@
 <!ENTITY clearPrivateData.offline                                "Données de site web hors connexion">
 <!ENTITY clearPrivateData.logins                                 "Connexions actives">
 
-<!ENTITY optionsHeader.privacy.passwords.label                   "Enregistrer les mots de passe">
+<!ENTITY optionsHeader.privacy.passwords.label                   "Enreg. mots de passe">
 <!ENTITY doNotTrack.title                                        "Ne pas me pister">
 <!ENTITY doNotTrack.desc                                         "Indiquer aux sites :">
 <!ENTITY doNotTrack.options.trackingNotOkay                      "que je ne souhaite pas être pisté">
