@@ -34,8 +34,7 @@
 
 <!ENTITY choose_file "Volba souboru">
 
-<!ENTITY remote_tabs "Synchronizované panely">
-<!ENTITY remote_tabs_show_all "Zobrazit všechny panely">
+<!ENTITY url_bar_default_text "Hledat nebo vložit adresu">
 
 <!ENTITY bookmark "Záložky">
 <!ENTITY bookmark_added "Záložka přidána">
@@ -116,8 +115,7 @@ TIP: Add any website to your list of search providers by long-pressing on its se
 <!ENTITY pref_reflow_on_zoom4 "Stažením prstů formátovat text">
 <!ENTITY pref_restore "Panaly">
 <!ENTITY pref_restore_always "Vždy obnovit">
-<!ENTITY pref_restore_crash "Obnovit po pádu">
-<!ENTITY pref_restore_never "Nikdy neobnovovat">
+<!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
 <!ENTITY pref_font_size_tiny "Drobné">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
@@ -152,6 +150,10 @@ size. -->
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Zpětná vazba">
+<!ENTITY pref_search_set_default "Nastavit jako výchozí">
+<!ENTITY pref_search_default "Výchozí">
+<!ENTITY pref_search_remove "Odebrat">
+<!ENTITY pref_search_last_toast "Nemůžete odebrat nebo zakázat váš poslední vyhledávací modul.">
 
 <!ENTITY datareporting_notification_title "Statistiky a data k aplikaci &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Zvolte, jaké informace chcete sdílet">
