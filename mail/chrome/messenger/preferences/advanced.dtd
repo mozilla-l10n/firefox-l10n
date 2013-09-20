@@ -63,7 +63,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisk sjå etter oppdateringar for:">
+<!ENTITY autoCheck.label                "Automatisk søk etter oppdateringar for:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Installerte utvidingar og tema">

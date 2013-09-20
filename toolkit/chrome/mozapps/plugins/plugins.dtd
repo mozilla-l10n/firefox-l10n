@@ -36,10 +36,10 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Trykk her for å aktivere programtillegg.">
 <!ENTITY clickToActivatePlugin                               "Aktiver programtillegg.">
-<!ENTITY checkForUpdates                                     "Sjå etter oppdateringar …">
+<!ENTITY checkForUpdates                                     "Søk etter oppdateringar …">
 <!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
-
+<!ENTITY hidePluginBtn.label                                 "Skjul programtillegg">
 <!ENTITY installPlugin                                       "Installer programtillegg …">
 <!ENTITY managePlugins                                       "Behandle programtillegg …">
 
