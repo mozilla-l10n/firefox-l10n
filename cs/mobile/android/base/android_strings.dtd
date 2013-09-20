@@ -6,10 +6,13 @@
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
-<!ENTITY awesomebar_all_pages_title "Top stránky">
-<!ENTITY awesomebar_bookmarks_title "Záložky">
-<!ENTITY awesomebar_history_title "Historie">
-<!ENTITY  awesomebar_switch_to_tab "Přepnout na panel">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Záložky">
+<!ENTITY  history_title "Historie">
+<!ENTITY  reading_list_title "Seznam ke čtení">
+
+<!ENTITY  switch_to_tab "Přepnout na panel">
 
 
 <!ENTITY crash_reporter_title "Oznamovatel pádu">
@@ -30,8 +33,6 @@
 <!ENTITY launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
 
 <!ENTITY choose_file "Volba souboru">
-
-<!ENTITY awesomebar_default_text "Vložte hledání nebo adresu">
 
 <!ENTITY remote_tabs "Synchronizované panely">
 <!ENTITY remote_tabs_show_all "Zobrazit všechny panely">
@@ -73,6 +74,13 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
+<!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "
+Tip: 
+TIP: Add any website to your list of search providers by long-pressing on its search field.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_developer_remotedebugging_docs "Zjistit více">
@@ -183,7 +191,7 @@ size. -->
 <!ENTITY char_encoding "Znaková sada">
 
 <!ENTITY share "Sdílet">
-<!ENTITY share_title "Sdálet pomocí">
+<!ENTITY share_title "Sdílet pomocí">
 <!ENTITY share_image_failed "Obrázek se nepodařilo sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY find_in_page "Najít ve stránce">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
 <!ENTITY contextmenu_open_private_tab "Otevřít v anonymním panelu">
 <!ENTITY contextmenu_open_in_reader "Otevřít ve čtečce">
-<!ENTITY contextmenu_remove_history "Odebrat">
-<!ENTITY contextmenu_remove_bookmark "Odebrat">
+<!ENTITY contextmenu_remove "Odebrat">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
 <!ENTITY contextmenu_share "Sdílet">
 <!ENTITY contextmenu_pasteandgo "Vložit a přejít">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Upravit">
 <!ENTITY contextmenu_subscribe "Odebírat stránku">
 <!ENTITY contextmenu_site_settings "Upravit nastavení stránky">
+<!ENTITY contextmenu_top_bookmarks_edit "Upravit">
+<!ENTITY contextmenu_top_bookmarks_pin "Připnout stránku">
+<!ENTITY contextmenu_top_bookmarks_unpin "Odepnout stránku">
 
 <!ENTITY pref_titlebar_mode "Hlavička okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Stránka odebrána">
 
+<!ENTITY bookmark_add "Přidat záložku">
 <!ENTITY bookmark_edit_title "Upravit záložku">
 <!ENTITY bookmark_edit_name "Název">
 <!ENTITY bookmark_edit_location "Adresa">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
-<!ENTITY reading_list "Seznam ke čtení">
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
@@ -260,28 +270,25 @@ size. -->
 <!ENTITY button_set "Nastavit">
 <!ENTITY button_clear "Vymazat">
 
-<!ENTITY abouthome_addons_title "Doplňky aplikace &brandShortName;">
-<!ENTITY abouthome_addons_browse "Zobrazit všechny doplňky aplikace &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Panely z minula">
-<!ENTITY abouthome_last_tabs_open "Otevřít všechny panely z minula">
-<!ENTITY abouthome_top_sites_title "Top stránky">
-<!ENTITY abouthome_topsites_edit "Upravit">
-<!ENTITY abouthome_topsites_pin "Připnout stránku">
-<!ENTITY abouthome_topsites_unpin "Odepnout stránku">
+<!ENTITY home_history_title "Historie">
+<!ENTITY home_last_tabs_title "Panely z minula">
+<!ENTITY home_last_tabs_open "Otevřít všechny panely z minula">
+<!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
+<!ENTITY home_most_recent_title "Poslední">
+<!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navšívili, se zobrazí zde.">
+<!ENTITY home_most_visited_title "Nejvíce navštěvované">
+<!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Tip: Uložte články do vašeho seznamu ke čtení dlouhým stisknutím ikony &#37;I, jakmile se zobrazí v hlavičce okna.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Tip: Uložte článek do vašeho seznamu ke čtení dlouhým stisknutím tlačítka režimu pro čtení, jakmile se zobrazí v hlavičce okna.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Nastavte si Firefox Sync a přistupujte ke svým záložkám, historii a panelům ze svých ostatních zařízení&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Získejte z Firefox Marketplace nové aplikace a objevte to nejlepší, co web nabízí&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Webové stránky, které nejvíce navštěvujete, se zobrazí zde.">
+<!ENTITY pin_bookmark_dialog_hint "Vložení hledaného klíčového slova">
 
 <!ENTITY filepicker_title "Vyberte soubor">
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
@@ -327,6 +334,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Chcete zapnout našeptávač vyhledávače &formatS;?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Vyhledat &formatS2; na &formatS1;">
 
 <!ENTITY webapp_generic_name "Aplikace">
 
