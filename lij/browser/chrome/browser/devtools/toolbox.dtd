@@ -15,7 +15,10 @@
 <!ENTITY options.darkTheme.label "Têma scûo">
 <!ENTITY options.lightTheme.label "Têma ciæo">
 <!ENTITY options.context.advancedSettings "Inpostaçioìn avansæ">
-
+<!ENTITY toolboxZoomIn.key "+">
+<!ENTITY toolboxZoomIn.key2 "=">
+<!ENTITY toolboxZoomOut.key "-">
+<!ENTITY toolboxZoomReset.key "0">
 <!ENTITY options.context.requiresRestart2 "bezPugna arvî tórna o navegatô">
 <!ENTITY options.context.triggersPageRefresh2 "sôlo seçión corénte, recàrega a pàgina">
 <!ENTITY options.disableJavaScript.label2 "Dizatîva JavaScript">
