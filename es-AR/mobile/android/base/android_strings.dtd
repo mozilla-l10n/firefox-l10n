@@ -6,10 +6,12 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Más visitados">
-<!ENTITY  awesomebar_bookmarks_title "Marcadores">
-<!ENTITY  awesomebar_history_title "Historial">
-<!ENTITY  awesomebar_switch_to_tab "Cambiar a pestaña">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Marcadores">
+<!ENTITY  history_title "Historial">
+
+<!ENTITY  switch_to_tab "Cambiar a pestaña">
 
 <!ENTITY  crash_reporter_title "Informe de fallos de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema y ha fallado. Tus pestañas deberían aparecer listadas en la página de inicio de &brandShortName; al reiniciar.">
@@ -30,10 +32,7 @@
 
 <!ENTITY choose_file "Elegir archivo">
 
-<!ENTITY awesomebar_default_text "Ingresá búsqueda o dirección">
-
-<!ENTITY remote_tabs "Pestañas sincronizadas">
-<!ENTITY remote_tabs_show_all "Mostrar todas las pestañas">
+<!ENTITY url_bar_default_text "Ingresá búsqueda o dirección">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador agregado">
@@ -72,11 +71,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opciones de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
-<!ENTITY pref_category_add_search_providers "Agregar más buscadores">
+<!ENTITY pref_category_add_search_providers "Agregar más proveedores de búsqueda">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "TRUCO: Podés agregar cualquier sitio web a tu lista de proveedores de búsqueda con una presión larga sobre el campo de búsqueda.">
+<!ENTITY pref_search_tip "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Conocer más">
@@ -109,7 +108,10 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
-<!ENTITY pref_reflow_on_zoom3 "Doble golpe para reformatear texto">
+<!ENTITY pref_reflow_on_zoom4 "Reformatear texto">
+<!ENTITY pref_restore "Pestañas">
+<!ENTITY pref_restore_always "Siempre restaurar">
+<!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -140,6 +142,15 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Opciones del sitio">
 <!ENTITY pref_private_data_downloadFiles "Archivos descargados">
+
+
+<!ENTITY pref_about_firefox "ACerca &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Dar opinicón">
+<!ENTITY pref_search_set_default "Hacer predeterminado">
+<!ENTITY pref_search_default "Predeterminado">
+<!ENTITY pref_search_remove "Eliminar">
+<!ENTITY pref_search_last_toast "No se puede eliminar o deshabilitar el último buscador que queda.">
 
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir que información compartir">
@@ -191,6 +202,8 @@ size. -->
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY set_image_fail "No se puede establecer imagen">
+<!ENTITY set_image_chooser_title "Poner imagen como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -202,8 +215,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en lector">
-<!ENTITY contextmenu_remove_history "Eliminar">
-<!ENTITY contextmenu_remove_bookmark "Eliminar">
+<!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
@@ -212,6 +224,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Suscribir a página">
 <!ENTITY contextmenu_site_settings "Editar configuración del sitio">
+<!ENTITY contextmenu_top_bookmarks_edit "Editar">
+<!ENTITY contextmenu_top_bookmarks_pin "Pegar sitio">
+<!ENTITY contextmenu_top_bookmarks_unpin "Despegar sitio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -219,6 +234,7 @@ size. -->
 
 <!ENTITY history_removed "Página eliminada">
 
+<!ENTITY bookmark_add "Agregar un marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
@@ -254,28 +270,26 @@ size. -->
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 
-<!ENTITY abouthome_addons_title "Complementos para tu &brandShortName;">
-<!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
-<!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
-<!ENTITY abouthome_top_sites_title "Más visitados">
-<!ENTITY abouthome_topsites_edit "Editar">
-<!ENTITY abouthome_topsites_pin "Pegar sitio">
-<!ENTITY abouthome_topsites_unpin "Despegar sitio">
+<!ENTITY home_history_title "Historial">
+<!ENTITY home_last_tabs_title "Pestañas de la última vez">
+<!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
+<!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
+<!ENTITY home_most_recent_title "Más recientes">
+<!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
+<!ENTITY home_most_visited_title "Más visitados">
+<!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el ícono &#37;I cuando aparezca en la barra de título.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el botón de modo lectura cuando aparezca en la barra de título.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Configurá Firefox Sync para acceder a tus marcadores, historial y pestañas desde tus otros dispositivos&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Bajá aplicaciones del Firefox Marketplace y descubrí lo mejor que la web tiene para ofrecer&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Los sitios web visitados mas frecuentemente aparecen acá.">
+
+<!ENTITY pin_bookmark_dialog_hint "Ingresá una palabra a buscar">
 
 <!ENTITY filepicker_title "Seleccionar archivo">
 <!ENTITY filepicker_audio_title "Seleccionar o grabar un sonido">
@@ -321,6 +335,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 
 <!ENTITY webapp_generic_name "Aplicación">
 
