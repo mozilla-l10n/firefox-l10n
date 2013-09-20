@@ -92,9 +92,9 @@
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateAutoMetro.label           "Automatisk oppdater frå skrivebords- og Windows 8-stil &brandShortName;">
 <!ENTITY updateAutoMetro.accesskey       "s">
-<!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velje når eg vil installere dei">
+<!ENTITY updateCheck.label               "Søk etter oppdateringar, men la meg velje når eg vil installere dei">
 <!ENTITY updateCheck.accesskey           "S">
-<!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
+<!ENTITY updateManual.label              "Aldri søk etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
 <!ENTITY updateManual.accesskey          "d">
 
 <!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av utvidingar">

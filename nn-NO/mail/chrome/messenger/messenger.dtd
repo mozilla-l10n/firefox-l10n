@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "T">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Hent nye">
+<!ENTITY getMsgButton1.label "Hent meldingar">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
@@ -522,7 +522,7 @@
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY chatButton.label "Nettprat">
 <!ENTITY glodaSearch.title "Globalt søk">
-<!ENTITY searchItem.title "Snøggsøk">
+<!ENTITY searchItem.title "Hurtigsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsoversyn">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
 <!ENTITY tagButton.label "Merkelapp">
