@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label "Motivy vzhledu">
 <!ENTITY applyTheme.accesskey "M">
-<!ENTITY getNewThemesCmd.label "Získat nový motiv">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY getPersonasCmd.label "Získat Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
+<!ENTITY getMoreThemesCmd.label      "Získat více motivů">
+<!ENTITY getMoreThemesCmd.accesskey  "Z">
+<!ENTITY getBackgroundsCmd.label     "Získat pozadí">
+<!ENTITY getBackgroundsCmd.accesskey "s">
