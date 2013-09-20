@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; tror denne meldingen er uønsket.">
-<!ENTITY junkBarButton.label "Meldingen er ønsket">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "For å beskytte personvernet ditt har &brandShortName; blokkert innhold lastet fra Internett i denne meldingen.">
-<!ENTITY loadRemoteContentButton.label "Vis innhold fra Internett">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; tror at denne meldingen kan være en e-postsvindel.">
-<!ENTITY removePhishingBarButton.label "Ikke svindel">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorer forespørsel">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Send kvittering">
-<!ENTITY mdnBarSendButton.accesskey "S">
