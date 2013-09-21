@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Önemli siteler">
-<!ENTITY  awesomebar_bookmarks_title "Yer imleri">
-<!ENTITY  awesomebar_history_title "Geçmiş">
-<!ENTITY  awesomebar_switch_to_tab "Sekmeye geç">
+<!ENTITY  bookmarks_title "Yer imleri">
+<!ENTITY  history_title "Geçmiş">
+<!ENTITY  reading_list_title "Okuma Listesi">
+
+<!ENTITY  switch_to_tab "Sekmeye geç">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
 <!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Dosya Seç">
 
-<!ENTITY awesomebar_default_text "Aranacak terim veya adres girin">
-
-<!ENTITY remote_tabs "Eşitlenmiş Sekmeler">
-<!ENTITY remote_tabs_show_all "Tüm sekmeleri göster">
+<!ENTITY url_bar_default_text "Aranacak terim veya adres girin">
 
 <!ENTITY bookmark "Yer imi">
 <!ENTITY bookmark_added "Yer imi eklendi">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
+<!ENTITY pref_category_add_search_providers "Daha fazla arama sağlayıcı ekle">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_docs "Daha fazla bilgi">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Metin akışı">
 <!ENTITY pref_restore "Sekmeler">
 <!ENTITY pref_restore_always "Her zaman geri yükle">
-<!ENTITY pref_restore_crash "Çökmeden sonra geri yükle">
-<!ENTITY pref_restore_never "Asla geri yükleme">
+<!ENTITY pref_restore_quit "Çıktıktan sonra geri yükleme &brandShortName;">
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_vendor_faqs "SSS">
 <!ENTITY pref_vendor_feedback "Geri bildirim gönder">
+<!ENTITY pref_search_set_default "Varsayılan yap">
+<!ENTITY pref_search_default "Varsayılan">
+<!ENTITY pref_search_remove "Kaldır">
+<!ENTITY pref_search_last_toast "Son arama motorunuzu kaldıramaz veya devre dışı bırakamazsınız.">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
 <!ENTITY datareporting_notification_action_long "Hangi bilgilerin paylaşılacağını seç">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
 <!ENTITY contextmenu_open_private_tab "Gizli sekmede aç">
 <!ENTITY contextmenu_open_in_reader "Okuyucuda aç">
-<!ENTITY contextmenu_remove_history "Kaldır">
-<!ENTITY contextmenu_remove_bookmark "Kaldır">
+<!ENTITY contextmenu_remove "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
 <!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapıştır &amp; git">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
 <!ENTITY contextmenu_subscribe "Sayfaya abone ol">
 <!ENTITY contextmenu_site_settings "Süzgeç ayarlarını düzenle">
+<!ENTITY contextmenu_top_bookmarks_edit "Düzenle">
+<!ENTITY contextmenu_top_bookmarks_pin "Siteyi sabitle">
+<!ENTITY contextmenu_top_bookmarks_unpin "Sabitlenmesini kaldır">
 
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Sayfa silindi">
 
+<!ENTITY bookmark_add "Yer imi ekle">
 <!ENTITY bookmark_edit_title "Yer imini düzenle">
 <!ENTITY bookmark_edit_name "İsim">
 <!ENTITY bookmark_edit_location "Konum">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
 
-<!ENTITY reading_list "Okuma Listesi">
 <!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
@@ -260,28 +270,22 @@ size. -->
 <!ENTITY button_set "Ayarla">
 <!ENTITY button_clear "Temizle">
 
-<!ENTITY abouthome_addons_title "&brandShortName; için eklentiler">
-<!ENTITY abouthome_addons_browse "Tüm &brandShortName; eklentilerine göz at">
-<!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
-<!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
-<!ENTITY abouthome_top_sites_title "Popüler siteler">
-<!ENTITY abouthome_topsites_edit "Düzenle">
-<!ENTITY abouthome_topsites_pin "Siteyi sabitle">
-<!ENTITY abouthome_topsites_unpin "Sabitlenmesini kaldır">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_history_title "Geçmiş">
+<!ENTITY home_last_tabs_title "Son oturumdaki sekmeler">
+<!ENTITY home_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
+<!ENTITY home_last_tabs_empty "Son sekmeleriniz burada görünür.">
+<!ENTITY home_most_recent_title "En son">
+<!ENTITY home_most_recent_empty "Son ziyaret ettiğiniz siteler burada görünür.">
+<!ENTITY home_most_visited_title "En çok ziyaret edilen">
+<!ENTITY home_reading_list_empty "Daha sonra okumak üzere kaydettiğiniz yazılar burada görünür.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
 
-<!ENTITY abouthome_about_sync3 "Diğer aygıtlarınızdan yer imlerinize, geçmişinize ve sekmelerinize erişmek için Firefox Sync\u0027i kurun&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Firefox Marketplace\u0027ten yeni uygulamalar edinin, Web\u0027in sunduklarını keşfedin&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY pin_bookmark_dialog_hint "Aranacak anahtar kelimeyi girin">
 
 <!ENTITY filepicker_title "Dosya seç">
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
@@ -324,6 +328,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "&formatS; arama önerilerini açmak ister misiniz?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "&formatS1; üzerinde &formatS2; araması">
 
 <!ENTITY webapp_generic_name "Uygulama">
 
