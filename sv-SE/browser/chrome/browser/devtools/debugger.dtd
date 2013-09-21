@@ -35,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
 button that pretty prints the selected source. -->
-<!ENTITY debuggerUI.sources.prettyPrint "Snyggar till källkoden">
+<!ENTITY debuggerUI.sources.prettyPrint "Snygga till källkoden">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
