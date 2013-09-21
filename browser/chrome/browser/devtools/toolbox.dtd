@@ -9,6 +9,8 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "关闭开发者工具">
 <!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -49,7 +51,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "默认的 Firefox 开发者工具">
+<!ENTITY options.selectDefaultTools.label     "默认 Firefox 开发者工具">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -65,7 +67,7 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "选择开发工具的主题风格：">
+<!ENTITY options.selectDevToolsTheme.label   "选择开发工具主题：">
 <!ENTITY options.darkTheme.label             "暗色主题">
 <!ENTITY options.lightTheme.label            "亮色主题">
 
@@ -79,3 +81,15 @@
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "启用持续日志">
 <!ENTITY options.enablePersistentLogging.tooltip  "如果您启用此选项，Web 控制台将不会在您导航到新页面时清除已输出内容">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "JavaScript 分析器">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "显示 Gecko 平台数据">
+<!ENTITY options.showPlatformData.tooltip  "如果开启此选项，JavaScript 分析报告将会包含 Gecko 平台符号表">

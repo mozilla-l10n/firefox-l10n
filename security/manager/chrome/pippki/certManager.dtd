@@ -17,7 +17,7 @@
 <!ENTITY certmgr.others                       "您用来识别这些人的证书文件：">
 <!ENTITY certmgr.websites2                    "您用来识别这些服务器的证书：">
 <!ENTITY certmgr.cas                          "您有识别这些证书颁发机构的证书文件：">
-<!ENTITY certmgr.orphans                      "您的不符合其他任何种类的文件中的证书：">
+<!ENTITY certmgr.orphans                      "您的不符合任何其余种类的文件中的证书：">
 
 <!ENTITY certmgr.detail.general_tab.title     "常规">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -25,8 +25,8 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "正在核实证书…">
-<!ENTITY certmgr.subjectinfo.label            "颁发给">
-<!ENTITY certmgr.issuerinfo.label             "颁发者">
+<!ENTITY certmgr.subjectinfo.label            "发行给">
+<!ENTITY certmgr.issuerinfo.label             "发行者">
 <!ENTITY certmgr.validity.label               "有效性" >
 <!ENTITY certmgr.fingerprints.label           "指纹">
 <!ENTITY certmgr.certdetail.title             "证书细节">
@@ -102,7 +102,7 @@
 <!ENTITY exceptionMgr.title                   "添加安全例外">
 <!ENTITY exceptionMgr.exceptionButton.label   "确认安全例外">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "合法的银行、电商以及其他公共站点不会要求您如此操作。">
+<!ENTITY exceptionMgr.supplementalWarning     "合法的银行、商店以及其他公共站点不会让您如此操作。">
 <!ENTITY exceptionMgr.certlocation.caption2   "服务器">
 <!ENTITY exceptionMgr.certlocation.url        "地址:">
 <!ENTITY exceptionMgr.certlocation.download   "获取证书">

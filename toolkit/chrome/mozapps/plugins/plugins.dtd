@@ -7,7 +7,7 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; 正在检查可用插件…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "可用插件下载">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "以下插件现在可用：">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "如下插件可用：">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "请单击“下一步”安装这些插件">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "某些插件可能在安装时需要从您获取更多信息。">
 
@@ -28,7 +28,7 @@
 <!ENTITY unsupportedPlatform.pre                             "很抱歉，但是 &brandShortName; 不能在这台设备上播放 Flash。 ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "详细了解…">
+<!ENTITY unsupportedPlatform.learnMore                       "了解更多…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
@@ -38,7 +38,8 @@
 <!ENTITY clickToActivatePlugin                               "激活插件。">
 <!ENTITY checkForUpdates                                     "检查更新…">
 <!ENTITY disabledPlugin                                      "此插件已禁用。">
-<!ENTITY blockedPlugin.label                                 "为了保障您的安全，此插件已被阻止。">
+<!ENTITY blockedPlugin.label                                 "为保护您的信息安全，此插件已被阻止">
+<!ENTITY hidePluginBtn.label                                 "隐藏插件">
 <!ENTITY installPlugin                                       "安装插件…">
 <!ENTITY managePlugins                                       "管理插件…">
 
@@ -55,7 +56,7 @@
 <!ENTITY report.disabled                                     "禁用崩溃报告。">
 <!ENTITY report.failed                                       "提交失败。">
 <!ENTITY report.unavailable                                  "无可用报告。">
-<!ENTITY report.comment                                      "添加注释（注释为公开可见）">
+<!ENTITY report.comment                                      "添加评论（评论是公开显示的）">
 <!ENTITY report.pageURL                                      "同时提交该页面的 URL">
 
 <!ENTITY plugin.file                                         "文件">
