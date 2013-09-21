@@ -16,6 +16,12 @@
 <!ENTITY debuggerUI.closeButton.tooltip "ಮುಚ್ಚು">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
+<!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
+  - displayed to users when they select a black boxed source from the sources
+  - list in the debugger. -->
+<!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
+  - the text displayed in the button to stop black boxing the currently selected
+  - source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -24,6 +30,9 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions     "ಆಕ್ಷೇಪಣೆಗಳು ಎದುರಾದಾಗ ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸು">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -40,10 +49,8 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
-  -  appears in the filter panel popup as a description. -->
-
-<!ENTITY debuggerUI.searchPanelTitle    "ಕಾರ್ಯನಿರ್ವಾಹಕಗಳು">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
+  -  appears in the filter panel popup as a header for the operators part. -->
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
@@ -63,6 +70,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
+
+<!ENTITY debuggerUI.searchGoToLine      "ಸಾಲಿಗೆ ತೆರಳು…">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
@@ -94,7 +103,9 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
-<!ENTITY debuggerUI.stepping.resume     "VK_F6">
-<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
-<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
-<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
+
+
+
+
+
+

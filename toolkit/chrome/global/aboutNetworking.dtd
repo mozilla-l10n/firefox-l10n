@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "ಜಾಲಬಂಧದ ಕುರಿತು">
+<!ENTITY aboutNetworking.warning               "ಇದು ಕೇವಲ ಪ್ರಾಯೋಗಿಕವಷ್ಟೆ. ವಯಸ್ಕರ ಮೇಲ್ವಿಚಾರಣೆ ಇಲ್ಲದೆ ಬಳಸಬೇಡಿ.">
+<!ENTITY aboutNetworking.showNextTime          "ಈ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವನ್ನು ಮುಂದಿನ ಬಾರಿ ತೋರಿಸು">
+<!ENTITY aboutNetworking.ok                    "ಸರಿ">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "ಸಾಕೆಟ್‌ಗಳು">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "ವೆಬ್‌ಸಾಕೆಟ್‌ಗಳು">
+<!ENTITY aboutNetworking.refresh               "ತಾಜಾಗೊಳಿಸು">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

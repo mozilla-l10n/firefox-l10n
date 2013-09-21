@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY device.name "ಹೆಸರು">
+
+
+
+<!ENTITY device.allow "ಅನುಮತಿಸು">
+
+<!ENTITY device.prompt "ಪ್ರಾಂಪ್ಟ್‍">
+
+<!ENTITY device.deny "ನಿರಾಕರಿಸು">
+
+
+
+<!ENTITY device.permissions "ಅನುಮತಿಗಳು">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "ಉಳಿಸು">
+
+<!ENTITY connection.connecting "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…">
+
+<!ENTITY connection.cancel "ರದ್ದು ಮಾಡು">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY help.close "ಮುಚ್ಚು">
+
+
+
+
+
+
+
