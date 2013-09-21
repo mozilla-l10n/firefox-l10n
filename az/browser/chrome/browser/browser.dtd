@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Uyğun dizayn görünüşü">
 <!ENTITY responsiveDesignTool.accesskey "U">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "İnkişaf etdirici alət sətirini bağla">
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
 <!ENTITY devToolbarMenu.accesskey          "P">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
@@ -622,7 +624,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY socialToolbar.title        "Sosial Alət Sətiri Düyməsi">
 <!ENTITY social.notLoggedIn.label   "Hesab açılmayıb">
 
-<!ENTITY social.ok.label       "Oldu">
+<!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
 <!ENTITY social.toggleSidebar.label "Kənar sətirini göstər">
@@ -643,10 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Çatlara keç">
 <!ENTITY social.chatBar.accesskey "Ç">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -668,6 +670,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "İndi icazə ver">
 <!ENTITY pluginActivateAlways.label "İcazə ver və Yadda saxla">
 <!ENTITY pluginBlockNow.label "Qoşmanı Blokla">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Təkrar Yoxla">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Vərəqlərə ön baxışı Windows tapşırıq panelində göstər">
 <!ENTITY showTabsInTaskbar.accesskey      "e">
+<!ENTITY tabsGroup.label          "Vərəqlər">
