@@ -69,7 +69,6 @@
 
 <!ENTITY btnClear.tooltip      "Xóa trắng Web Console">
 
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -83,6 +82,7 @@
 
 <!ENTITY copyURLCmd.label     "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyURLCmd.accesskey "a">
+
 
 
 

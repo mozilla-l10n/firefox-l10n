@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY device.stopApp "Dừng">
+
+
+
+<!ENTITY device.name "Tên">
+
+
+
+<!ENTITY device.allow "Cho phép">
+
+<!ENTITY device.prompt "Nhắc">
+
+<!ENTITY device.deny "Từ chối">
+
+
+
+<!ENTITY device.permissions "Quyền hạn">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "Lưu">
+
+<!ENTITY connection.connecting "Đang kết nối…">
+
+<!ENTITY connection.cancel "Hủy bỏ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "Cập nhật">
+
+
+
+
+
+
+<!ENTITY help.close "Đóng">
+
+
+
+
+
+
+
