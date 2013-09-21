@@ -6,7 +6,7 @@
 <!ENTITY sidebar.reload.label           "重新加载">
 <!ENTITY sidebar.reload.accesskey       "R">
 <!ENTITY sidebar.picker.label           "标签项">
-<!ENTITY sidebar.customize.label        "自定义&sidebarName; (u)…">
+<!ENTITY sidebar.customize.label        "自定义侧栏…">
 <!ENTITY sidebar.customize.accesskey    "u">
 <!ENTITY sidebar.hide.label             "隐藏标签项">
 <!ENTITY sidebar.hide.accesskey         "H">
@@ -19,7 +19,7 @@
 <!ENTITY sidebar.loading.stop.label     "停止">
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
-<!ENTITY sidebar.no-panels.state     "当前&sidebarName;为空。">
+<!ENTITY sidebar.no-panels.state     "The sidebar is currently empty.">
 <!ENTITY sidebar.no-panels.add       '点击上方的“标签项”按钮打开新标签。'>
 <!ENTITY sidebar.no-panels.hide      '单击上方“查看”菜单，然后从“显示/隐藏”子菜单选择“侧栏”，即可完全隐藏侧栏。'>
 <!ENTITY sidebar.sbDirectory.label   "侧栏目录…">
