@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+<!ENTITY appbarFindInPage2.label    "Buscar en la página">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "Abrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+
+<!ENTITY downloadResume.label      "Continuar">
+<!ENTITY downloadRetry.label       "Reintentar">
+<!ENTITY downloadRemove.label      "Eliminar">
+
+<!ENTITY downloadFailed.label      "Fallido">
+
+
+<!ENTITY consoleAll.label          "Todos">
+<!ENTITY consoleErrors.label       "Errores">
+<!ENTITY consoleWarnings.label     "Advertencias">
+
+
+
+
+<!ENTITY consoleErrFile.label      "Archivo de origen:">
+<!ENTITY consoleErrLine.label      "Línea:">
+<!ENTITY consoleErrColumn.label    "Columna:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Cortar">
+<!ENTITY contextTextCopy.label             "Copiar">
+<!ENTITY contextTextPaste.label            "Pegar">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "Seleccionar">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
