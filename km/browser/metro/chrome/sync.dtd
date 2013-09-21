@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!-- Flyout when setting up sync -->
+
+
+
+
+
+
+
+<!-- Flyout when setting up manually -->
+
+
+
+<!ENTITY sync.flyout.manualsetup.connect.label           "តភ្ជាប់">
+<!-- Flyout when user has just connected -->
+
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "ព្យាយាម​ម្តងទៀត">
+<!-- Flyout when connected and functioning normally -->
+
+
+
+
+
+<!ENTITY sync.flyout.connected.pair                       "ផ្គូ​ឧបករណ៍">
+<!-- Flyout when pairing a device -->
+
+
+
+
+
+
+<!-- Flyout when a device has been successfully paired -->
+

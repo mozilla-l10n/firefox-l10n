@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "ជម្រើស">
+<!ENTITY optionsHeader.startup.title                             "ចាប់ផ្ដើម​ឡើង">
+
+
+
+<!ENTITY optionsHeader.char.title                                "ការ​អ៊ិនកូដ​តួអក្សរ">
+
+
+
+
+
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "​ខូគី">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
+
+<!ENTITY optionsHeader.telemetry.title                            "ទូរមាត្រ​វិធី">
+
