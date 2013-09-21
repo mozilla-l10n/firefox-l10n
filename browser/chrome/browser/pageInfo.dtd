@@ -92,6 +92,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "A">
 
 <!ENTITY  securityView.technical.header                 "Detalles téunicos">
-<!ENTITY permFullscreen "Entrar a la pantalla completa.">
-<!ENTITY permNotifications "Amosar notificaciones">
-<!ENTITY permPointerLock2 "Anubrir el punteru del mur">
