@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+
+<!ENTITY downloadCancel.label      "Hủy bỏ">
+
+<!ENTITY downloadResume.label      "Tiếp tục">
+<!ENTITY downloadRetry.label       "Thử lại">
+<!ENTITY downloadRemove.label      "Xóa">
+
+<!ENTITY downloadFailed.label      "Thất bại">
+
+
+
+<!ENTITY consoleErrors.label       "Lỗi">
+<!ENTITY consoleWarnings.label     "Cảnh báo">
+
+
+
+
+<!ENTITY consoleErrFile.label      "Tập tin Nguồn:">
+<!ENTITY consoleErrLine.label      "Dòng:">
+<!ENTITY consoleErrColumn.label    "Cột:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Cắt">
+<!ENTITY contextTextCopy.label             "Chép">
+<!ENTITY contextTextPaste.label            "Dán">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "Chọn">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

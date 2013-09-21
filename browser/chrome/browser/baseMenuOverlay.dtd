@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "p">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Phím tắt (K)">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "K">

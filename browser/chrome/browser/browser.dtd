@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Phục hồi các thẻ đóng">
 <!ENTITY  closeTab.label                     "Đóng Thẻ">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Cho phép">
 <!ENTITY fullscreenExitButton.label "Từ chối">
 
+<!ENTITY fullscreenExitHint2.value "Ấn ESC để thoát bất kỳ lúc nào.">
 <!ENTITY leaveDOMFullScreen.label "Thoát chế độ Toàn màn hình">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Địa chỉ">
 <!ENTITY searchItem.title             "Tìm kiếm">
 <!ENTITY bookmarksItem.title          "Trang ưa thích">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Trang chủ">
 
 <!ENTITY tabGroupsButton.label        "Các Nhóm Thẻ">
 <!ENTITY tabGroupsButton.tooltip      "Nhóm các thẻ của bạn">
@@ -202,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Kết nối... (e)">
@@ -245,12 +250,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh Phát triển">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ Phát triển">
 <!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devAppMgrMenu.label               "Trình quản lý ứng dụng (A)">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Bật tắt công cụ (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Bật tắt công cụ phát triển">
 <!ENTITY devToolbarOtherToolsButton.label  "Thêm công cụ">
@@ -388,8 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "e">
 <!ENTITY viewImageInfoCmd.label       "Xem Thông tin của Hình ảnh">
 <!ENTITY viewImageInfoCmd.accesskey   "e">
-
-
+<!ENTITY viewImageDescCmd.label       "Xem mô tả (D)">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Xem Phim">
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Xem Ảnh Nền">
@@ -638,10 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chuyển sang trò chuyện (c)">
 <!ENTITY social.chatBar.accesskey "c">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "Lưu trang này vào... (P)">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "Lưu liên kết này vào... (L)">
 
 <!ENTITY getUserMedia.selectCamera.label "Chia sẻ Camera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -663,6 +671,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Chỉ cho phép bây giờ">
 <!ENTITY pluginActivateAlways.label "Cho phép và ghi nhớ">
 <!ENTITY pluginBlockNow.label "Chặn plugin">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Thử Lại">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
