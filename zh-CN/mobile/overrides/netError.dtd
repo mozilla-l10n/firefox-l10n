@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "此地址访问受限">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "找不到服务器">
+<!ENTITY dnsNotFound.title "未找到服务器">
 <!ENTITY dnsNotFound.longDesc2 "<ul>
   <li>检查看看网址有没有输入错误，比如把
     <strong>www</strong>.example.com 输入成了
@@ -132,7 +132,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不能完全信任的互联网连接，或者您并不使用警告的此服务器，您不应该添加一个例外。</p>
+<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不完全信任的因特网连接，或者您不习惯看到此服务器的警告，您不应该添加一个例外。</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
