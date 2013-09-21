@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Mostrar vista previa de las pestañás en la barra de tareas de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "t">
+<!ENTITY tabsGroup.label          "Pestañas">

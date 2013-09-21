@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Vista diseño responsivo">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey          "v">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Mostrar herramientas">
@@ -643,10 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar chats">
 <!ENTITY social.chatBar.accesskey "c">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Compartir cámara">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -668,6 +670,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Reintentar">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
