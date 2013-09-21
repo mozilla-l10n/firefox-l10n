@@ -67,7 +67,6 @@
 
 
 
-
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
@@ -77,6 +76,7 @@
 
 <!ENTITY copyURLCmd.label     "Kopieer skakelligging">
 <!ENTITY copyURLCmd.accesskey "K">
+
 
 
 

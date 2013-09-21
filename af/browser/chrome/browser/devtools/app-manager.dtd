@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY device.stopApp "Stop">
+
+
+
+<!ENTITY device.name "Naam">
+
+
+
+<!ENTITY device.allow "Toelaat">
+
+<!ENTITY device.prompt "Por">
+
+<!ENTITY device.deny "Weier">
+
+
+
+<!ENTITY device.permissions "Toestemming">
+
+
+
+
+<!ENTITY connection.disconnect "Ontkoppel">
+
+
+
+
+<!ENTITY connection.changeHostAndPort "Wysig">
+
+
+
+<!ENTITY connection.saveConnectionInfo "Stoor">
+
+<!ENTITY connection.connecting "Verbind tans…">
+
+<!ENTITY connection.cancel "Kanselleer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "Bywerk">
+
+
+
+
+
+
+<!ENTITY help.close "Sluit">
+
+
+
+
+
+
+
