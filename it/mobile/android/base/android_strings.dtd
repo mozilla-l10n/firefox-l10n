@@ -172,9 +172,9 @@
 <!ENTITY contextmenu_edit_bookmark "Modifica">
 <!ENTITY contextmenu_subscribe "Abbonati a questa pagina">
 <!ENTITY contextmenu_site_settings "Modifica impostazioni sito">
-<!ENTITY contextmenu_top_bookmarks_edit "Modifica">
-<!ENTITY contextmenu_top_bookmarks_pin "Blocca sito">
-<!ENTITY contextmenu_top_bookmarks_unpin "Sblocca sito">
+<!ENTITY contextmenu_top_sites_edit "Modifica">
+<!ENTITY contextmenu_top_sites_pin "Blocca sito">
+<!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY pref_titlebar_mode "Barra del titolo">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
@@ -215,7 +215,7 @@
 <!ENTITY home_reading_list_hint "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &#037;I che appare nella barra del titolo.">
 <!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona modalità lettura che appare nella barra del titolo.">
 <!ENTITY home_most_visited_empty "In questa sezione verranno visualizzati i siti web più visitati.">
-<!ENTITY pin_bookmark_dialog_hint "Inserire una chiave di ricerca">
+<!ENTITY pin_site_dialog_hint "Inserire una chiave di ricerca">
 <!ENTITY filepicker_title "Seleziona un file">
 <!ENTITY filepicker_audio_title "Seleziona o registra un suono">
 <!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
