@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Redigera">
 <!ENTITY contextmenu_subscribe "Prenumerera på sidan">
 <!ENTITY contextmenu_site_settings "Redigera platsinställningar">
-<!ENTITY contextmenu_top_bookmarks_edit "Redigera">
-<!ENTITY contextmenu_top_bookmarks_pin "Fäst plats">
-<!ENTITY contextmenu_top_bookmarks_unpin "Lösgör plats">
+<!ENTITY contextmenu_top_sites_edit "Redigera">
+<!ENTITY contextmenu_top_sites_pin "Fäst plats">
+<!ENTITY contextmenu_top_sites_unpin "Lösgör plats">
 
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
@@ -289,7 +289,7 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "TIPS: Spara artiklar till läslistan genom att långtrycka på läslägeknappen när den visas i namnfältet.">
 
 <!ENTITY home_most_visited_empty "Webbplatser du besökt oftast visas här.">
-<!ENTITY pin_bookmark_dialog_hint "Skriv in ett söknyckelord">
+<!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
 <!ENTITY filepicker_title "Välj fil">
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
