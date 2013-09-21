@@ -16,7 +16,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label '要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。'>
 <!ENTITY sync.subtitle.header2.label '在您其他设备中输入此代码'>
-<!ENTITY sync.subtitle.connectlocation2.label '请在您其他设备的 Firefox 选项 &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label '要想激活，请在您的其他设备上选择“设备配对”。'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -40,7 +40,7 @@
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？'>
 <!ENTITY sync.button.tryagain.label '重试'>
 <!ENTITY sync.button.manual.label '手动设置'>
-<!ENTITY sync.subtitle.nointernet.label '没有互联网连接可用。'>
+<!ENTITY sync.subtitle.nointernet.label '没有可用的因特网连接。'>
 <!ENTITY sync.subtitle.failaccount.label '在您的设备上创建帐户失败。'>
 <!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
   

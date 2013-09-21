@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "设置您的 &brandShortName;">
-<!ENTITY  splash_bookmarks_history "我们正在更新您的书签和历史纪录，这可能需要一分钟左右。">
-
 <!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">
 
@@ -67,27 +64,33 @@
 
 <!ENTITY settings "设置">
 <!ENTITY settings_title "设置">
-<!ENTITY pref_category_general "常规">
-<!ENTITY pref_category_privacy "隐私和安全">
-<!ENTITY pref_category_content "内容">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "数据选择">
-<!ENTITY pref_about_firefox "关于 &brandShortName;">
+<!ENTITY pref_category_advanced "高级">
+<!ENTITY pref_category_customize "定制">
+<!ENTITY pref_category_search2 "搜索设置">
+<!ENTITY pref_category_display "显示">
+<!ENTITY pref_category_privacy_short "隐私">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "数据选择权">
+<!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
+<!ENTITY pref_category_devtools "开发者工具">
+<!ENTITY pref_developer_remotedebugging "远程调试">
+<!ENTITY pref_developer_remotedebugging_docs "详细了解">
 <!ENTITY pref_remember_signons "记住密码">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "常规">
-<!ENTITY pref_header_privacy "隐私和安全">
-<!ENTITY pref_header_content "内容">
+<!ENTITY pref_header_customize "定制">
+<!ENTITY pref_header_display "显示">
+<!ENTITY pref_header_privacy_short "隐私">
+<!ENTITY pref_header_help "帮助">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "开发者工具">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "已启用">
 <!ENTITY pref_cookies_not_accept_foreign "已启用，不包括第三方的">
-<!ENTITY pref_cookies_disabled "已停用">
+<!ENTITY pref_cookies_disabled "已禁用">
 
-<!ENTITY pref_donottrack_menu "跟踪">
+<!ENTITY pref_donottrack_menu "请勿跟踪（DNT）">
 <!ENTITY pref_donottrack_disallow_tracking "告诉网站我不想被跟踪">
 <!ENTITY pref_donottrack_allow_tracking "告诉网站我想被跟踪">
 <!ENTITY pref_donottrack_no_pref "不要告诉网站我对跟踪的任何偏好">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "轻击即可播放">
 <!ENTITY pref_plugins_disabled "已禁用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom3 "双击重构文本">
+<!ENTITY pref_reflow_on_zoom4 "文本重排">
+<!ENTITY pref_restore "标签页">
+<!ENTITY pref_restore_always "总是恢复">
+<!ENTITY pref_restore_crash "仅崩溃后恢复">
+<!ENTITY pref_restore_never "不要恢复">
 <!ENTITY pref_font_size_tiny "极小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -123,7 +130,7 @@ size. -->
 <!ENTITY pref_show_product_announcements "显示产品公告">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "显示搜索建议">
-<!ENTITY pref_import_android "从 Android 导入">
+<!ENTITY pref_import_android "从安卓系统导入">
 <!ENTITY pref_private_data_history "浏览和下载历史">
 <!ENTITY pref_private_data_formdata "表单和搜索历史">
 <!ENTITY pref_private_data_cookies2 "Cookie 以及活动登录会话">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
 <!ENTITY pref_private_data_downloadFiles "已下载文件">
+
+
+<!ENTITY pref_about_firefox "关于 &brandShortName;">
+<!ENTITY pref_vendor_faqs "常见问题">
+<!ENTITY pref_vendor_feedback "提供反馈">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
 <!ENTITY datareporting_notification_action_long "选择想分享的信息">
@@ -150,17 +162,17 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "帮助您了解浏览器的工作性能，并与 &vendorShortName; 分享您的浏览器健康状况。">
 <!ENTITY datareporting_abouthr_title "查看我的健康报告">
 <!ENTITY datareporting_telemetry_title "遥测技术">
-<!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName; 让它变得更好。">
+<!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您使用 &vendorShortName; 浏览器的工作性能、使用方式、硬件设备和有关自定义的数据，帮助我们改进 &brandShortName;，让它变得更好。">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进浏览器，让他变得更稳定和安全">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
+<!ENTITY datareporting_crashreporter_title_short "崩溃报告">
 <!ENTITY datareporting_wifi_title "&vendorShortName; 位置服务">
 <!ENTITY datareporting_wifi_summary "允许 &brandShortName; 收集并发送匿名的蜂窝基站数据以帮助改善开放网络的地理定位服务">
 
 <!ENTITY pref_update_autodownload "自动更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "已停用">
+<!ENTITY pref_update_autodownload_disabled "已禁用">
 <!ENTITY pref_update_autodownload_enabled "已启用">
 
 <!ENTITY quit "退出">
@@ -177,15 +189,14 @@ size. -->
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
 <!ENTITY tools "工具">
-<!ENTITY new_tab "新标签页">
+<!ENTITY new_tab "新建标签页">
 <!ENTITY new_private_tab "新建隐私浏览标签页">
 <!ENTITY close_all_tabs "关闭所有标签">
 <!ENTITY tabs_normal "标签页">
 <!ENTITY tabs_private "私人">
 <!ENTITY tabs_synced "已同步">
-<!ENTITY wallpaper_success "已更新壁纸">
-<!ENTITY wallpaper_progress "正在设置壁纸">
-<!ENTITY wallpaper_fail "无法设置壁纸">
+<!ENTITY set_image_fail "无法设置图像">
+<!ENTITY set_image_chooser_title "另存为图像">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -227,11 +238,14 @@ size. -->
 <!ENTITY site_settings_no_settings  "无需要清空的设置。">
 
 <!ENTITY reading_list "正在读取列表">
-<!ENTITY reading_list_added "页面已添加到您的阅读列表">
-<!ENTITY reading_list_removed "页面已从您的阅读列表中移除">
+<!ENTITY reading_list_added "页面已添加到你的阅读列表">
+<!ENTITY reading_list_removed "页面已经从你的阅读列表中移除">
 <!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
 <!ENTITY reading_list_duplicate "页面已在您的阅读列表中">
-<!ENTITY reader "阅读器">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "其他动作">
 
 <!ENTITY masterpassword_create_title "创建主密码">
 <!ENTITY masterpassword_remove_title "移除主密码">
@@ -315,6 +329,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "书签及历史">
 
+<!ENTITY devtools_remote_debugging_forward "不要忘记设置端口转发！">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
 <!ENTITY updater_start_select2 "点按下载">
@@ -326,3 +342,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; 有可用更新">
 <!ENTITY updater_apply_select2 "点按更新">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "新建访客会话">
+<!ENTITY exit_guest_session "退出访客会话">
+<!ENTITY guest_session_dialog_continue "继续">
+<!ENTITY guest_session_dialog_cancel "取消">
+<!ENTITY new_guest_session_title "&brandShortName; 将重新启动">
+<!ENTITY new_guest_session_text "使用此模式的人将不会看到您的任何个人数据（如保存的密码、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
+
+<!ENTITY exit_guest_session_title "&brandShortName; 将重新启动">
+<!ENTITY exit_guest_session_text "本次会话的浏览数据将被删除。">
