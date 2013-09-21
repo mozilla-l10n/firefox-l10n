@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "常规">
 
-<!ENTITY accessibility.label             "无障碍环境">
+<!ENTITY accessibility.label             "可用性">
 
 <!ENTITY useCursorNavigation.label       "始终使用光标键在页面内导航">
 <!ENTITY useCursorNavigation.accesskey   "c">
@@ -33,31 +33,31 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; 目前是您的默认浏览器">
 
-<!ENTITY dataChoicesTab.label            "反馈">
+<!ENTITY dataChoicesTab.label            "选择数据">
 
 <!ENTITY healthReportSection.label       "&brandShortName; 健康报告">
 <!ENTITY healthReportDesc.label          "帮助您了解浏览器的工作性能，并与 &vendorShortName; 分享您的浏览器健康状况。">
 <!ENTITY enableHealthReport.label        "启用 &brandShortName; 健康报告">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "详细了解">
+<!ENTITY healthReportLearnMore.label     "了解更多">
 
 <!ENTITY telemetrySection.label          "遥测技术">
 <!ENTITY telemetryDesc.label             "与 &vendorShortName; 分享您使用 &vendorShortName; 浏览器的工作性能、使用方式、硬件设备和有关自定义的数据，帮助我们改进 &brandShortName;，让它变得更好。">
 <!ENTITY enableTelemetry.label           "启用遥测">
 <!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "详细了解">
+<!ENTITY telemetryLearnMore.label        "了解更多">
 
 <!ENTITY crashReporterSection.label      "崩溃报告程序">
-<!ENTITY crashReporterDesc.label         "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进浏览器，让它变得更加稳定和安全。">
+<!ENTITY crashReporterDesc.label         "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进浏览器，让他变得更稳定和安全">
 <!ENTITY enableCrashReporter.label       "启用崩溃报告">
 <!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "详细了解">
+<!ENTITY crashReporterLearnMore.label    "了解更多">
 
 <!ENTITY networkTab.label                "网络">
 
 <!ENTITY connection.label                "连接">
 
-<!ENTITY connectionDesc.label            "配置 &brandShortName; 如何连接至国际互联网">
+<!ENTITY connectionDesc.label            "配置 &brandShortName; 如何连接至因特网">
 <!ENTITY connectionSettings.label        "设置…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -76,7 +76,7 @@
 <!ENTITY limitCacheSizeAfter.label       "MB 磁盘空间">
 <!ENTITY clearCacheNow.label             "立即清除">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "立即清除">
+<!ENTITY clearOfflineAppCacheNow.label   "立即清空">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "无视自动缓存管理">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
@@ -87,7 +87,7 @@
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
-<!ENTITY updateAuto1.label               "自动安装更新（推荐：可提升安全性）">
+<!ENTITY updateAuto1.label               "自动安装更新 (推荐：提升安全性）">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateAutoMetro.label           "自动从桌面版与 Windows 8 风格的 &brandShortName; 更新">
 <!ENTITY updateAutoMetro.accesskey       "s">
@@ -99,12 +99,12 @@
 <!ENTITY updateAutoAddonWarn.label       "如果将禁用任何附加组件，警告我">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY updateAutoMetroWarn.label       "（Windows 8 风格的 &brandShortName; 尚未检查附加组件兼容性）">
+<!ENTITY updateAutoMetroWarn.label       "（Windows 8 风格的 &brandShortName; 不会检查附加组件兼容性）">
 
 <!ENTITY updateHistory.label             "显示更新历史">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "使用一项系统服务以静默安装更新">
+<!ENTITY useService.label                "使用后台服务来安装更新">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "自动更新：">

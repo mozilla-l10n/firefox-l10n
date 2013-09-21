@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "请勿跟踪（DNT）">
+<!ENTITY tracking.label                 "跟踪">
 
-<!ENTITY dntTrackingNopref.label2       "不要告诉网站我对跟踪的任何偏好">
+<!ENTITY dntTrackingNopref.label2       "不告诉网站我对此的偏好">
 <!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "告诉网站我不想被跟踪">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "告诉网站我想被跟踪">
 <!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "详细了解">
+<!ENTITY doNotTrackInfo.label           "了解更多">
 
-<!ENTITY  history.label                 "历史记录">
+<!ENTITY  history.label                 "历史">
 
 <!ENTITY  locationBar.label             "地址栏">
 
-<!ENTITY  locbar.pre.label              "使用地址栏时，向我建议：">
+<!ENTITY  locbar.pre.label              "使用地址栏时，建议：">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "历史和书签">
@@ -30,8 +30,8 @@
 <!ENTITY  acceptThirdParty.pre.label      "接受第三方 Cookie：">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "总是">
-<!ENTITY  acceptThirdParty.never.label    "总不">
-<!ENTITY  acceptThirdParty.visited.label  "来自访问过的域">
+<!ENTITY  acceptThirdParty.never.label    "从不">
+<!ENTITY  acceptThirdParty.visited.label  "来自已访问过的">
 
 <!ENTITY  keepUntil.label               "保存，直到：">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -49,26 +49,26 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 将会：">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "记录历史">
-<!ENTITY  historyHeader.dontremember.label "不记录历史">
+<!ENTITY  historyHeader.dontremember.label "从不记录历史">
 <!ENTITY  historyHeader.custom.label       "使用自定义历史记录设置">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; 将会记录您的浏览、下载、表单和搜索历史，并保留来自您访问过的网站的 Cookie。">
+<!ENTITY  rememberDescription.label      "&brandShortName; 将会记录您的浏览，下载，表单和搜索历史，并保存你访问的网页的 cookie 。">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "您也许想">
+<!ENTITY  rememberActions.pre.label           "您有可能想 ">
 <!ENTITY  rememberActions.clearHistory.label  "清空近期历史记录">
-<!ENTITY  rememberActions.middle.label        "，或者">
-<!ENTITY  rememberActions.removeCookies.label "删除个人 Cookie">
+<!ENTITY  rememberActions.middle.label        "，或者 ">
+<!ENTITY  rememberActions.removeCookies.label "删除私人 Cookie">
 <!ENTITY  rememberActions.post.label          "。">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; 将采用与“隐私浏览”相同的设置，将不会记录您浏览网络的历史。">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; 会在隐私浏览时使用相同的设置，且不会记录你浏览的任何网页。">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "您也可能是想">
+<!ENTITY  dontrememberActions.pre.label          "您也有可能想要">
 <!ENTITY  dontrememberActions.clearHistory.label "清空当前所有历史记录">
 <!ENTITY  dontrememberActions.post.label         "。">
 
@@ -78,10 +78,10 @@
 <!ENTITY  rememberHistory2.label      "记住我的浏览和下载历史">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "记录搜索和填表历史">
+<!ENTITY  rememberSearchForm.label       "记录查询和填表历史">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "在 &brandShortName; 关闭时清除历史记录">
+<!ENTITY  clearOnClose.label             "当 &brandShortName; 关闭时清除历史">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "设置…">

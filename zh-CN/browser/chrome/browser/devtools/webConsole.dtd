@@ -11,8 +11,8 @@
 <!ENTITY window.title "Web 控制台">
 <!ENTITY browserConsole.title "浏览器控制台">
 
-<!ENTITY networkPanel.requestURLColon             "请求网址：">
-<!ENTITY networkPanel.requestMethodColon          "请求方法：">
+<!ENTITY networkPanel.requestURLColon             "请求的网址：">
+<!ENTITY networkPanel.requestMethodColon          "请求的方法：">
 <!ENTITY networkPanel.statusCodeColon             "状态码：">
 
 <!ENTITY networkPanel.requestHeaders              "请求头">
@@ -58,7 +58,7 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "记录 JavaScript 异常">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "安全">
+<!ENTITY btnPageSecurity.label "安全性">
 <!ENTITY btnPageSecurity.tooltip "记录安全性错误和警告">
 <!ENTITY btnPageSecurity.accesskey "S">
 
