@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY device.name "အမည်">
+
+
+
+<!ENTITY device.allow "ခွင့်ပြုပါ">
+
+<!ENTITY device.prompt "လှုံ့ဆော်ချက်">
+
+<!ENTITY device.deny "ငြင်းပယ်ပါ">
+
+
+
+<!ENTITY device.permissions "ပါမစ်ရှင်များ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "သိမ်းဆည်းပါ">
+
+<!ENTITY connection.connecting "ချက်ဆက်နေသည်">
+
+<!ENTITY connection.cancel "ပယ်​ဖျက်ပါ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

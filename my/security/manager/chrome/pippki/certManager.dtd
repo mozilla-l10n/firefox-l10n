@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "လုံခြုံရေး လက်မှတ် အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
-<!ENTITY certmgr.editsslcert.title            "ဝတ်ဆိုဒ် အသိအမှတ်ပြုလုပ်မှတ် အပြင်အဆင်များအား ပြုပြင်မည်">
 <!ENTITY certmgr.editcert.edittrust           "စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -">
 <!ENTITY certmgr.editcert.trustssl            "ယခုအသိအမှတ်ပြုလက်မှတ်သည် ဝတ်ဆိုဒ်များကို အတည်ပြုနိုင်သှ်">
 <!ENTITY certmgr.editcert.trustemail          "ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။">
 <!ENTITY certmgr.editcert.trustobjsign        "ဒီလက်မှတ်က ကွန်ရက် စာမျက်နှာများကို ဖေါ်ထုတ်နိုင်တယ်။">
-<!ENTITY certmgr.editsslcert.edittrust        "လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
-<!ENTITY certmgr.editsslcert.dotrust          "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်ချပါ။">
-<!ENTITY certmgr.editsslcert.donttrust        "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်မချပါနဲ့။">
 <!ENTITY certmgr.editemailcert.title          "ဒီအီးမေးလ် လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
-<!ENTITY certmgr.editemailcert.edittrust      "လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
-<!ENTITY certmgr.editemailcert.dotrust        "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်ချပါ။">
-<!ENTITY certmgr.editemailcert.donttrust      "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်မချပါနဲ့။">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ပယ်ဖျက်ပါ">
 <!ENTITY certmgr.deletecert.beforename        "ဒီလက်မှတ်ကို ပယ်ဖျက်ဖို့ သင်တောင်းဆိုထားတယ် -">

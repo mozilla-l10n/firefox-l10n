@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "ရွေးစရာများ">
+<!ENTITY optionsHeader.startup.title                             "စတင်ခြင်း">
+
+
+
+<!ENTITY optionsHeader.char.title                                "အက္ခရာ စာဝှက်ရေးသားခြင်း">
+
+
+
+
+
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "ကွတ်ကီးများ">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "ပျက်ဆီးချက်တင်ပြသူ">
+
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+
