@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "பயன்பாட்டு மேலாளர்">
+<!ENTITY index.projects2 "பயன்பாடுகள்">
+<!ENTITY index.device2 "கருவி">
+<!ENTITY index.help "உதவி">
+
+<!ENTITY device.screenshot "திரைப்பிடிப்பு">
+
+
+
+<!ENTITY device.startApp "தொடங்கு">
+
+<!ENTITY device.stopApp "நிறுத்து">
+
+
+
+<!ENTITY device.name "பெயர்">
+
+
+
+<!ENTITY device.allow "அனுமதி">
+
+<!ENTITY device.prompt "நினைவுபடுத்து">
+
+<!ENTITY device.deny "மறு">
+
+
+
+<!ENTITY device.permissions "அனுமதிகள்">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "சேமி">
+
+
+
+<!ENTITY connection.cancel "விடு">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
