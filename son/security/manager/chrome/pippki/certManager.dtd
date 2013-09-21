@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Saajaw tabatiyan-tiira kayandiyaney fasal">
 <!ENTITY certmgr.editcacert.title             "Tabatiyan-tiira hini naanay kayandiyaney fasal">
-<!ENTITY certmgr.editsslcert.title            "Interneti tabatiyan-tiira naanay kayandiyaney fasal">
 <!ENTITY certmgr.editcert.edittrust           "Naanay kayandiyaney fasal:">
 <!ENTITY certmgr.editcert.trustssl            "Tabatiyan-tiiraa woo ga hin ka Interneti nungey tammaasa.">
 <!ENTITY certmgr.editcert.trustemail          "Tabatiyan-tiiraa woo ka hin ka bataga goykey tammaasa.">
 <!ENTITY certmgr.editcert.trustobjsign        "Tabatiyan-tiiraa woo ka hin ka goyjinay teekey tammaasa.">
-<!ENTITY certmgr.editsslcert.edittrust        "Tabatiyan-tiiraa naanay kayandiyaney fasal:">
-<!ENTITY certmgr.editsslcert.dotrust          "Naanay tiiraa woo aššiloo.">
-<!ENTITY certmgr.editsslcert.donttrust        "Ma ši naanay tiiraa woo aššiloo.">
 <!ENTITY certmgr.editemailcert.title          "Bataga tabatiyan-tiira naanay kayandiyaney fasal">
 <!ENTITY certmgr.editemailcert.edittrust      "Tabatiyan-tiira naanay kayandiyaney fasal:">
 <!ENTITY certmgr.editemailcert.dotrust        "Naanay tiiraa woo aššiloo.">

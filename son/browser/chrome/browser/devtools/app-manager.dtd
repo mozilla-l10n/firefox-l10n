@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+<!ENTITY device.startApp "Šintin">
+
+<!ENTITY device.stopApp "Kayandi">
+
+
+
+<!ENTITY device.name "Maa">
+
+
+
+<!ENTITY device.allow "Noo fondo">
+
+<!ENTITY device.prompt "Hãayan zuu">
+
+<!ENTITY device.deny "Wanji">
+
+
+
+<!ENTITY device.permissions "Duɲeyaney">
+
+
+
+
+<!ENTITY connection.disconnect "Ciyari dunbu">
+
+
+
+
+<!ENTITY connection.changeHostAndPort "Barmay">
+
+
+
+<!ENTITY connection.saveConnectionInfo "Gaabu">
+
+<!ENTITY connection.connecting "Goo ma ciya…">
+
+<!ENTITY connection.cancel "Naŋ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY help.close "Daabu">
+
+
+
+
+
+
+

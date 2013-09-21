@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cinakaw goyjinay žeeri daabu">
 <!ENTITY devToolbarMenu.label              "Cinakaw goyjinay zuu-žeeri">
 <!ENTITY devToolbarMenu.accesskey          "w">
+<!ENTITY devAppMgrMenu.label               "Porogaram juwalkaw">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
@@ -643,10 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Faakaarawey suuba">
 <!ENTITY social.chatBar.accesskey "k">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "M">
+<!ENTITY social.markpageMenu.label "Moo gaabu ne…">
+<!ENTITY social.marklinkMenu.accesskey "D">
+<!ENTITY social.marklinkMenu.label "Dobu gaabu ne…">
 
 <!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
@@ -668,6 +671,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Noo fondo sohõ">
 <!ENTITY pluginActivateAlways.label "Noo fondo nda hongu">
 <!ENTITY pluginBlockNow.label "Sukari gagay">
+
+<!ENTITY tabCrashed.header "Nor loku kaŋ">
+<!ENTITY tabCrashed.message "Ayway, woo ti boŋhaway. Ir ceeci ka interneti moɲoo woo cebe, amm'a ši tuuru.">
+<!ENTITY tabCrashed.checkSendReport "Kaŋyanoo woo har &vendorShortName; še hal'i ma hin k'a hanse.">
+<!ENTITY tabCrashed.tryAgain "Ceeci koyne">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
