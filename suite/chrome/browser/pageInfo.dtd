@@ -19,14 +19,14 @@
 <!ENTITY  copyLinks.accesskey       "L">
 <!ENTITY  openInNewTab.label        "在新标签页中打开">
 <!ENTITY  openInNewTab.accesskey    "T">
-<!ENTITY  openInNewWindow.label     "新窗口中打开">
+<!ENTITY  openInNewWindow.label     "在新窗口中打开">
 <!ENTITY  openInNewWindow.accesskey "W">
 
 <!ENTITY  generalTab            "综述">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "地址：">
 <!ENTITY  generalType           "类型：">
-<!ENTITY  generalMode           "渲染模式：">
+<!ENTITY  generalMode           "渲染模式:">
 <!ENTITY  generalSize           "大小:">
 <!ENTITY  generalReferrer       "引用URL：">
 <!ENTITY  generalSource         "来源：">
@@ -96,7 +96,7 @@
 <!ENTITY  permCookie            "设置 Cookie">
 <!ENTITY  permNotifications     "显示通知">
 <!ENTITY  permInstall           "安装扩展或主题">
-<!ENTITY  permGeo               "共享位置信息">
+<!ENTITY  permGeo               "共享方位信息">
 
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">

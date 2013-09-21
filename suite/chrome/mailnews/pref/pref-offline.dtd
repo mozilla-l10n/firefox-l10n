@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.network.title               "网络和存储">
+<!ENTITY pref.network.title               "网络 &amp; 存储">
 <!ENTITY pref.offline.caption             "脱机">
 <!ENTITY textStartUp                      "启动时：">
 <!ENTITY textStartUp.accesskey            "W">

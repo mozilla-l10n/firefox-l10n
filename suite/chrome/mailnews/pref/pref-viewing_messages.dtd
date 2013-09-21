@@ -13,7 +13,7 @@
 <!ENTITY size.accesskey                   "z">
 <!ENTITY bigger.label                     "较大">
 <!ENTITY smaller.label                    "缩小">
-<!ENTITY color.label                      "颜色：">
+<!ENTITY color.label                      "颜色:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "纯文本信息">
 <!ENTITY fontPlainText.label              "字体：">
@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
      "Only after displaying for [___] seconds",
      using (markAsReadAfter.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadAfter.label            "仅在显示">
+<!ENTITY markAsReadAfter.label            "标记在显示了">
 <!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "秒">
 

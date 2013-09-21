@@ -28,7 +28,7 @@
 <!ENTITY selectDescription.label  "请选择导入的文件类型：">
 <!ENTITY selectDescriptionB.label "请选择一个已存在的帐号或者创建新的帐号：">
 <!ENTITY selectDescription.accesskey "P">
-<!ENTITY acctName.label           "名称：">
+<!ENTITY acctName.label           "名称:">
 <!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; 上一步">

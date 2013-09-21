@@ -17,11 +17,11 @@
 <!ENTITY underlineLinks.label              "为链接添加下划线">
 <!ENTITY underlineLinks.accesskey          "U">
 <!ENTITY links                             "链接颜色">
-<!ENTITY linkColor.label                   "未访问的链接：">
+<!ENTITY linkColor.label                   "未访问链接：">
 <!ENTITY linkColor.accesskey               "L">
 <!ENTITY activeLinkColor.label             "活动的链接：">
 <!ENTITY activeLinkColor.accesskey         "c">
-<!ENTITY visitedLinkColor.label            "已访问的链接：">
+<!ENTITY visitedLinkColor.label            "已访问链接：">
 <!ENTITY visitedLinkColor.accesskey        "V">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "当一个web页已经定义了颜色和背景">

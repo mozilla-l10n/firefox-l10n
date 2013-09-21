@@ -25,7 +25,7 @@
 <!ENTITY newPrivateWindowCmd.label "隐私浏览窗口">
 <!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "W">
-<!ENTITY printSetupCmd.label "打印设置…">
+<!ENTITY printSetupCmd.label "页面设置…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "打印预览">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -74,7 +74,7 @@
      findCmd.label found in messengercompose.dtd, messenger.dtd and
      editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "再次查找">
+<!ENTITY findAgainCmd.label "查找下一个">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">

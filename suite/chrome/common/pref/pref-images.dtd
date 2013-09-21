@@ -25,5 +25,5 @@
 <!ENTITY animLoopAsSpecified.accesskey  "m">
 <!ENTITY animLoopOnce.label             "一次">
 <!ENTITY animLoopOnce.accesskey         "O">
-<!ENTITY animLoopNever.label            "总不">
+<!ENTITY animLoopNever.label            "从不">
 <!ENTITY animLoopNever.accesskey        "v">

@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "将垃圾消息移动至:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "“垃圾”文件夹位于：">
+<!ENTITY junkFolderOn.label "&quot;垃圾&quot; 文件夹位于：">
 <!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "其他：">
 <!ENTITY otherFolder.accesskey "O">

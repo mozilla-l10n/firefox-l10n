@@ -101,7 +101,7 @@
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "联系人">
-<!ENTITY home.heading                                   "主页">
+<!ENTITY home.heading                                   "家庭">
 <!ENTITY other.heading                                  "其它">
 <!ENTITY phone.heading                                  "电话">
 <!ENTITY work.heading                                   "工作">
@@ -110,7 +110,7 @@
 <!ENTITY addresses.heading                              "地址">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "获取地图">
-<!ENTITY mapIt.tooltip                                  "从网站显示一幅此地址的地图">
+<!ENTITY mapIt.tooltip                                  "显示一幅来自网络的此地址的地图">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
