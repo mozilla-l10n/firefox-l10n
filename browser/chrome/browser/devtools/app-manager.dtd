@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+<!ENTITY device.startApp "Cychwyn">
+
+<!ENTITY device.stopApp "Atal">
+
+
+
+<!ENTITY device.name "Enw">
+
+
+
+<!ENTITY device.allow "Caniatáu">
+
+<!ENTITY device.prompt "Anogiad">
+
+<!ENTITY device.deny "Gwrthod">
+
+
+
+<!ENTITY device.permissions "Caniatâd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "Cadw">
+
+<!ENTITY connection.connecting "Cysylltu…">
+
+<!ENTITY connection.cancel "Diddymu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "Diweddaru">
+
+
+
+
+
+
+<!ENTITY help.close "Cau">
+
+
+
+
+
+
+

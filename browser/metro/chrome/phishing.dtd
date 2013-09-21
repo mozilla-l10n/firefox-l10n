@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Allan o fan hyn!">
+<!ENTITY safeb.palm.decline.label "Anwybyddu'r rhybudd">
+
+<!ENTITY safeb.palm.reportPage.label "Pam oedd y dudalen hon wedi ei thagu?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Adroddwyd Ymosodiad Tudalen!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Mae'r dudalen hon <span id='malware_sitename'/>wedi ei chofnodi fel tudalen ymosod ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p> Mae tudalennau ymosod yn ceisio gosod rhaglenni sy'n dwyn gwybodaeth breifat, defnyddio eich cyfrifiadur i ymosod ar eraill, neu ddifrodi eich system.</p><p> Mae rhai tudalennau ymosod yn fwriadol yn dosbarthu meddalwedd niweidiol, ond mae llawer yn cael eu cyfaddawdu heb yn wybod neu ganiatâd eu perchnogion. </p>">
+
+
+
