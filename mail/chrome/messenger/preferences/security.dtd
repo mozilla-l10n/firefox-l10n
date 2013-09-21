@@ -13,7 +13,7 @@
 可以在“帐户设置”中设定特定于帐户的垃圾邮件设置。">
 <!ENTITY manualMark.label "当我将消息标记为垃圾邮件时：">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "将它们移动至帐户的“垃圾”文件夹">
+<!ENTITY manualMarkModeMove.label "将它们移动至帐户的 &quot;垃圾&quot; 文件夹">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "删除它们">
 <!ENTITY manualMarkModeDelete.accesskey "D">
@@ -63,5 +63,5 @@
 <!ENTITY showCookies.accesskey          "S">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "告诉网站我不想被追踪">
+<!ENTITY doNotTrack.label               "告诉网站我不希望被追踪">
 <!ENTITY doNotTrack.accesskey           "d">

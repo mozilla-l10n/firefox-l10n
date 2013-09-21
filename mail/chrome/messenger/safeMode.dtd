@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; 安全模式">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; 正在以安全模式运行，这将暂时禁用您的设置、主题以及扩展。">
+<!ENTITY safeModeDescription.label        "&brandShortName; 正在以安全模式运行，这将临时禁用您的设定、主题以及扩展。">
 <!ENTITY safeModeDescription2.label       "您可以将这些改动部分或全部保存:">
 
 <!ENTITY disableAddons.label              "禁用全部附加组件">

@@ -31,7 +31,7 @@
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "存档选项…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "“归档”文件夹于：">
+<!ENTITY archivesFolderOn.label "&quot;归档&quot; 文件夹于：">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "其他：">
 <!ENTITY archiveInOtherFolder.accesskey "h">
