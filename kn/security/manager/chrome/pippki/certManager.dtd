@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "ಸುರಕ್ಷತಾ ಪ್ರಮಾಣಪತ್ರದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY certmgr.editcacert.title             "CA ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ(trust) ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">
-<!ENTITY certmgr.editsslcert.title            "ಜಾಲತಾಣದ ನಂಬಿಕಾ ಪ್ರಮಾಣಪತ್ರದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY certmgr.editcert.edittrust           "ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಯೋಜಿಸು:">
 <!ENTITY certmgr.editcert.trustssl            "ಈ ಪ್ರಮಾಣಪತ್ರವು ಜಾಲತಾಣವನ್ನು ಗುರುತಿಸಬಲ್ಲದು.">
 <!ENTITY certmgr.editcert.trustemail          "ಈ ಪ್ರಮಾಣಪತ್ರವು ಮೇಲ್‍ ಬಳೆಕದಾರರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.">
 <!ENTITY certmgr.editcert.trustobjsign        "ಈ ಪ್ರಮಾಣಪತ್ರವು ತಂತ್ರಾಂಶ ತಯಾರಕರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.">
-<!ENTITY certmgr.editsslcert.edittrust        "ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು:">
-<!ENTITY certmgr.editsslcert.dotrust          "ಈ ಪ್ರಮಾಣಪತ್ರದ ನಂಬಿಕಾರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ.">
-<!ENTITY certmgr.editsslcert.donttrust        "ಈ ಪ್ರಮಾಣಪತ್ರದ  ನಂಬಿಕಾರ್ಹತೆಯನ್ನುನಂಬದಿರು.">
 <!ENTITY certmgr.editemailcert.title          "ಈಮೇಲ್ ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು">
-<!ENTITY certmgr.editemailcert.edittrust      "ನಂಬಿಕಾ ಪ್ರಮಾಣಪತ್ರದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು:">
-<!ENTITY certmgr.editemailcert.dotrust        "ಈ ಪ್ರಮಾಣಪತ್ರದ  ನಂಬಿಕಾರ್ಹತೆಯನ್ನು ನಂಬು.">
-<!ENTITY certmgr.editemailcert.donttrust      "ಈ ಪ್ರಮಾಣ ಪತ್ರದ  ನಂಬಿಕಾರ್ಹತೆಯನ್ನು ನಂಬದಿರು.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸು">
 <!ENTITY certmgr.deletecert.beforename        "ನೀವು ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸಲು ಮನವಿ ಸಲ್ಲಿಸಿದ್ದೀರಿ:">
