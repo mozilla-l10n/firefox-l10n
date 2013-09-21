@@ -11,4 +11,4 @@
 <!ENTITY signer.name "签名者：">
 <!ENTITY recipient.name "加密：">
 <!ENTITY email.address "电子邮件地址：">
-<!ENTITY issuer.name "证书颁发者：">
+<!ENTITY issuer.name "证书发行者：">

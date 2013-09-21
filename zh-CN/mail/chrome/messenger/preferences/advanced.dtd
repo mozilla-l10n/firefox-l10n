@@ -84,7 +84,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "设置…">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "配置 &brandShortName; 如何连接至国际互联网">
+<!ENTITY proxiesConfigure.label        "配置 &brandShortName; 连接至因特网的方式">
 <!ENTITY connectionsInfo.caption       "连接">
 <!ENTITY offlineInfo.caption           "脱机">
 <!ENTITY offlineInfo.label             "配置脱机设置">

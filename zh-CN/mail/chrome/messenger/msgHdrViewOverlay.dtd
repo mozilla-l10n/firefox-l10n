@@ -32,9 +32,9 @@
 <!ENTITY hdrReplyAllButton1.tooltip "回复发件人和所有收件人">
 <!ENTITY hdrReplyListButton1.label "回复列表">
 <!ENTITY hdrReplyListButton1.tooltip "回复至邮件列表">
-<!ENTITY hdrFollowupButton1.label "关注">
+<!ENTITY hdrFollowupButton1.label "回复">
 <!ENTITY hdrFollowupButton1.tooltip "向这个新闻组发送一封回复">
-<!ENTITY hdrMenuForwardButton.label "转发">
+<!ENTITY hdrMenuForwardButton.label "转发为">
 <!ENTITY hdrForwardButton1.label "转发">
 <!ENTITY hdrForwardButton1.tooltip "转发此消息">
 <!ENTITY hdrJunkButton1.label "垃圾">
@@ -51,7 +51,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "总是回复至发件人">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "其他动作">
+<!ENTITY otherActionsButton1.label "其他操作">
 <!ENTITY otherActionsOpenConversation1.label "在会话中打开">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "在新窗口中打开">

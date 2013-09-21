@@ -114,7 +114,8 @@
  ">
 
 <!ENTITY phishingBlocked.title "涉嫌站点伪造!">
-<!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
+<!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
+<p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>由于内容安全策略，&brandShortName; 已阻止此页按该方式载入。</p>">
@@ -131,7 +132,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不能完全信任的互联网连接，或者您并不使用警告的此服务器，您不应该添加一个例外。</p>
+<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不完全信任的因特网连接，或者您不习惯看到此服务器的警告，您不应该添加一个例外。</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

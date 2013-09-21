@@ -120,7 +120,7 @@
 <!ENTITY redoMoveMsgCmd.label "重做移动消息">
 <!ENTITY undoCopyMsgCmd.label "撤销 复制消息">
 <!ENTITY redoCopyMsgCmd.label "重做复制消息">
-<!ENTITY undoMarkAllCmd.label "撤销全部标记为已读">
+<!ENTITY undoMarkAllCmd.label "撤消全部标记为已读">
 <!ENTITY redoMarkAllCmd.label "重做全部标记为已读">
 <!ENTITY undoDefaultCmd.label "撤销">
 <!ENTITY undoDefaultCmd.accesskey "U">
@@ -482,7 +482,7 @@
 <!ENTITY errorConsoleCmd.label "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "清除最近历史记录…">
+<!ENTITY clearRecentHistory.label "清空最近历史记录…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "S">
@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "获取消息">
+<!ENTITY getMsgButton1.label "获取消息">
 <!ENTITY newMsgButton.label "新建消息">
 <!ENTITY replyButton.label "回复">
 <!ENTITY replyAllButton.label "全部回复">
@@ -503,15 +503,15 @@
 <!ENTITY archiveButton.label "归档">
 <!ENTITY nextButton.label "下一个">
 <!ENTITY nextButtonToolbarItem.label "下一条未读">
-<!ENTITY nextMsgButton.label "下一个">
+<!ENTITY nextMsgButton.label "下一条">
 <!ENTITY previousButton.label "上一个">
 <!ENTITY previousButtonToolbarItem.label "上一条未读">
-<!ENTITY previousMsgButton.label "上一个">
+<!ENTITY previousMsgButton.label "上一条">
 <!ENTITY backButton1.label "后退">
 <!ENTITY goForwardButton1.label "前进">
 <!ENTITY deleteItem.title "删除">
 <!ENTITY deleteButton.label "删除">
-<!ENTITY undeleteButton.label "撤销删除">
+<!ENTITY undeleteButton.label "撤消删除">
 <!ENTITY markButton.label "标记">
 <!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
@@ -553,7 +553,7 @@
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
 <!ENTITY printButton.tooltip "打印这条消息">
-<!ENTITY stopButton.tooltip "停止当前的传输">
+<!ENTITY stopButton.tooltip "停止当前传送">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
 <!ENTITY addressBookButton.tooltip "转到通讯录">
@@ -709,7 +709,7 @@
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsMenu.label "转发为">
 <!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "内联">
+<!ENTITY contextForwardAsInline.label "直接插入">
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "附件">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
@@ -724,7 +724,7 @@
 <!ENTITY contextKillThreadMenu.label "忽略话题">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "忽略子话题">
-<!ENTITY contextWatchThreadMenu.label "观察论题">
+<!ENTITY contextWatchThreadMenu.label "关注话题">
 <!ENTITY contextSaveAs.label "另存为…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "打印…">
