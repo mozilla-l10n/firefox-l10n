@@ -428,7 +428,6 @@
 <!ENTITY accountManagerCmd.label "Configuración de les cuentes…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY getMsgButton.label "Recibir">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a toos">
@@ -758,3 +757,4 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Reunviar como axuntu">
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "r">
+<!ENTITY getMsgButton1.label "Recibir mensaxes">
