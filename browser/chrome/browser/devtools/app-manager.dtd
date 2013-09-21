@@ -78,8 +78,8 @@
 <!ENTITY help.close "Fermer">
 <!ENTITY help.intro "Cet outil vous aidera à créer et installer des applications web sur des appareils compatibles (par exemple Firefox OS). L'onglet <strong>Applications</strong> vous guidera durant le processus d'installation et la validation de votre application. L'onglet <strong>Appareil</strong> vous fournira des informations sur l'appareil connecté. Utilisez la barre d'outils située en bas de l'écran pour connecter un appareil ou démarrer le simulateur.">
 <!ENTITY help.usefullLinks "Liens utiles :">
-<!ENTITY help.linkToAppMgrDoc "<a>Documentation : utilisation du gestionnaire d'applications</a>">
-<!ENTITY help.linkToConfiguringDevice "<a>Comment configurer votre appareil Firefox OS</a>">
-<!ENTITY help.linkToTroubleShooting "<a>Dépannage</a>">
-<!ENTITY help.linkToSimulatorAddon "<a>Installer le module complémentaire Simulator</a>">
-<!ENTITY help.linkToAdbHelperAddon "<a>Installer le module complémentaire Adb Helper</a>">
+<!ENTITY help.appMgrDoc "Documentation : utiliser le gestionnaire d'applications">
+<!ENTITY help.configuringDevice "Comment configurer votre appareil Firefox OS">
+<!ENTITY help.troubleShooting "Dépannage">
+<!ENTITY help.simulatorAddon "Installer le module complémentaire Simulator">
+<!ENTITY help.adbHelperAddon "Installer le module complémentaire Adb Helper">
