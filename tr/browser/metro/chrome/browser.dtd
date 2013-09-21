@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+<!ENTITY appbarFindInPage2.label    "Sayfada bul">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "Aç">
+<!ENTITY downloadCancel.label      "Vazgeç">
+
+<!ENTITY downloadResume.label      "Devam et">
+<!ENTITY downloadRetry.label       "Yeniden dene">
+<!ENTITY downloadRemove.label      "Kaldır">
+
+<!ENTITY downloadFailed.label      "Hatalı">
+
+
+<!ENTITY consoleAll.label          "Tümü">
+<!ENTITY consoleErrors.label       "Hatalar">
+<!ENTITY consoleWarnings.label     "Uyarılar">
+
+
+
+
+<!ENTITY consoleErrFile.label      "Kaynak dosya:">
+<!ENTITY consoleErrLine.label      "Satır:">
+<!ENTITY consoleErrColumn.label    "Sütun:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Kes">
+<!ENTITY contextTextCopy.label             "Kopyala">
+<!ENTITY contextTextPaste.label            "Yapıştır">
+<!-- unique item that is only added to the url bar context menu -->
+
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
