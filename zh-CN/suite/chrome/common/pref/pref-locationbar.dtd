@@ -27,7 +27,7 @@
 <!ENTITY autoCompleteMatchWords                "只在词的边界匹配">
 <!ENTITY autoCompleteMatchStart                "只在地址或者标题的开始">
 
-<!ENTITY formatting.label                      "格式化">
+<!ENTITY formatting.label                      "正在格式化">
 <!ENTITY domainFormatting.label                "突出网站和 FTP 服务器的有效域">
 <!ENTITY domainFormatting.accesskey            "d">
 

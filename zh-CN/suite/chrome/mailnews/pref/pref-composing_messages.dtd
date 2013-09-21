@@ -52,4 +52,4 @@
   mailnews.reply_header_separator (a comma in this case), and 
   mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
   need to be translated, and the correct separator put in. -->
-<!ENTITY authorWroteOnDateOption.label        "[Author] 写道，于 [date]：">
+<!ENTITY authorWroteOnDateOption.label        "[date] [Author] 写道：">

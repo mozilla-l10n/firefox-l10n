@@ -15,3 +15,9 @@
 
 <!ENTITY  pref.certs.title         "证书">
 <!ENTITY  certs.label              "证书">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "使用在线证书状态协议（OCSP）确认证书目前的有效性">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY validation.requireOCSP.description       "当OCSP服务器连接失败时，视此证书无效。">
+<!ENTITY validation.requireOCSP.accesskey         "W">

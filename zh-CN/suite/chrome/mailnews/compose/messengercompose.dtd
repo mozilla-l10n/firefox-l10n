@@ -45,7 +45,7 @@
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY accountManagerCmd.label "邮件和新闻组帐户设置…">
+<!ENTITY accountManagerCmd.label "邮件 &amp; 新闻组帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
 <!-- View menu items -->
@@ -119,7 +119,7 @@
 <!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
 <!ENTITY attachButton.tooltip "添加附件"> 
 <!ENTITY saveButton.tooltip "保存此消息"> 
-<!ENTITY stopButton.tooltip "停止当前的传输"> 
+<!ENTITY stopButton.tooltip "停止当前传送"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "打开

@@ -45,11 +45,11 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 致力于保护您的隐私">
-<!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，所有数据在上传之前都已经过加密。对数据解密的恢复密钥未上传。">
+<!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，您的所有数据在上传前都经过加密。对数据解密所必需的恢复密钥不会被上传。">
 <!ENTITY recoveryKeyEntry.label        "您的恢复密钥">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY recoveryGenerateNewKey.label  "生成新密钥">
-<!ENTITY recoveryKeyBackup.description "您需要提供恢复密钥以便从其他计算机访问 &syncBrand.fullName.label; 。请备份该密钥。我们将无法帮助您恢复您的恢复密钥。">
+<!ENTITY recoveryKeyBackup.description "您必须提供恢复密钥才能在其他计算机上访问 &syncBrand.fullName.label;。请务必备份该密钥！我们无法帮您找回您的恢复密钥。">
 
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -74,7 +74,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "登录">
-<!ENTITY existingRecoveryKey.description "您可以到您其他设备的 &syncBrand.shortName.label; 选项页面然后选择 &#x0022;管理帐户&#x0022; 下的 &#x0022;我的恢复密钥 &#x0022; 来获取一个拷贝。">
+<!ENTITY existingRecoveryKey.description "您可以到您其他设备的 &syncBrand.shortName.label; 选项页面上，选择“管理帐户”下的“我的恢复密钥”来获得一份您的恢复密钥的拷贝。">
 <!ENTITY verifying.label              "正在校验…">
 <!ENTITY resetPassword.label          "重置密码">
 <!ENTITY resetSyncKey.label           "我丢失了其它设备。">

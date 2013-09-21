@@ -36,7 +36,7 @@
 <!ENTITY moreButton.label "更多">
 
 <!ENTITY helpButton.label "帮助">
-<!ENTITY searchButton.label "搜索">
+<!ENTITY searchButton.label "检索（Sherlock 或 OpenSearch）">
 
 <!ENTITY authorButton.label "作者">
 <!ENTITY copyrightButton.label "版权">
