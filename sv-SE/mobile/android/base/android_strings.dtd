@@ -270,7 +270,7 @@ size. -->
 <!ENTITY button_set "Ange">
 <!ENTITY button_clear "Rensa">
 
-<!ENTITY home_top_sites_title "Mest besökta">
+<!ENTITY home_top_sites_title "Topplistan">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_last_tabs_title "Tidigare flikar">
 <!ENTITY home_last_tabs_open "Öppna alla flikar från senast">
