@@ -246,10 +246,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 <!ENTITY chromeDebuggerMenu.label       "Depurador do navegador">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra de ferramentas do desenvolvedor">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do desenvolvedor">
 <!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devAppMgrMenu.label               "Gestor de app">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Trocar ferramentas">
@@ -643,9 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!-- labels are set dynamically, see browser.properties -->
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Guardar pagina em…">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "Guardar ligação em…">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera para partilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -668,6 +672,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "Permitir e lembrar">
 <!ENTITY pluginBlockNow.label "Bloquear Plugin">
 
+<!ENTITY tabCrashed.header "O separador crashou">
+<!ENTITY tabCrashed.message "Bem, isto é embaraçoso. Tentamos mostra esta página web, mas não está a responder.">
+<!ENTITY tabCrashed.checkSendReport "Dizer à &vendorShortName; sobre este crash para que o possam corrigir.">
+<!ENTITY tabCrashed.tryAgain "Tentar de novo">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -682,13 +691,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY feedButton.label              "Subscrever">
 <!ENTITY feedButton.tooltip            "Subscrever esta página…">
 <!ENTITY bookmarksButton.tooltip       "Mostrar os seus marcadores">
-<!ENTITY historyButton.tooltip         "Display pages you've viewed recently">
+<!ENTITY historyButton.tooltip         "Mostrar páginas visualizadas recentemente">
 <!ENTITY viewTabsOnTop.label           "Separadores no topo">
 <!ENTITY viewTabsOnTop.accesskey       "t">
 <!ENTITY appMenuEdit.label             "Editar">
 <!ENTITY appMenuToolbarLayout.label    "Esquema da barra de ferramentas…">
-<!ENTITY appMenuSidebars.label         "Sidebars">
-<!ENTITY appMenuFind.label             "Find…">
+<!ENTITY appMenuSidebars.label         "Barras laterais">
+<!ENTITY appMenuFind.label             "Procurar…">
 <!ENTITY appMenuUnsorted.label         "Marcadores desorganizados">
 <!ENTITY appMenuWebDeveloper.label     "Desenvolvedor web">
 <!ENTITY appMenuGettingStarted.label   "Começar">
