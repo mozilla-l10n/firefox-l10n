@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+<!ENTITY appbarFindInPage2.label    "រកមើល​ក្នុង​ទំព័រ">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "បើក">
+<!ENTITY downloadCancel.label      "បោះបង់">
+
+<!ENTITY downloadResume.label      "បន្ត">
+<!ENTITY downloadRetry.label       "ព្យាយាម​ម្តង​ទៀត">
+<!ENTITY downloadRemove.label      "យកចេញ">
+
+<!ENTITY downloadFailed.label      "បាន​បរាជ័យ">
+
+
+<!ENTITY consoleAll.label          "ទាំងអស់">
+<!ENTITY consoleErrors.label       "កំហុស">
+<!ENTITY consoleWarnings.label     "ការ​ព្រមាន">
+
+
+
+
+<!ENTITY consoleErrFile.label      "ឯកសារ​ប្រភព ៖">
+<!ENTITY consoleErrLine.label      "បន្ទាត់ ៖">
+<!ENTITY consoleErrColumn.label    "ជួរឈរ ៖">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "កាត់">
+<!ENTITY contextTextCopy.label             "ចម្លង">
+<!ENTITY contextTextPaste.label            "បិទភ្ជាប់">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "ជ្រើស">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "ប">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

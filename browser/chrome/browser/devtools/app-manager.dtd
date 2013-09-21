@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "កម្មវិធី​គ្រប់គ្រង​កម្មវិធី">
+<!ENTITY index.projects2 "កម្មវិធី">
+<!ENTITY index.device2 "ឧបករណ៍">
+<!ENTITY index.help "ជំនួយ">
+
+<!ENTITY device.screenshot "រូបថត​អេក្រង់">
+<!ENTITY device.screenshotTooltip "បើក​រូបថតអេក្រង់​នៃ​សភាព​បច្ចុប្បន្ន​របស់​ឧបករណ៍​នៅ​ក្នុង​ផ្ទាំង​ថ្មី។">
+<!ENTITY device.title "មជ្ឈមណ្ឌល​បញ្ជា​របស់​ឧបករណ៍">
+
+<!ENTITY device.startApp "ចាប់ផ្ដើម">
+
+<!ENTITY device.stopApp "បញ្ឈប់">
+
+
+
+<!ENTITY device.name "ឈ្មោះ">
+
+
+
+<!ENTITY device.allow "អនុញ្ញាត">
+
+<!ENTITY device.prompt "ប្រអប់​បញ្ចូល">
+
+<!ENTITY device.deny "បដិសេធ">
+
+
+
+<!ENTITY device.permissions "សិទ្ធិ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "រក្សា​ទុក">
+
+<!ENTITY connection.connecting "កំពុង​តភ្ជាប់…">
+
+<!ENTITY connection.cancel "បោះបង់">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "ធ្វើ​បច្ចុប្បន្នភាព">
+
+
+
+
+
+
+<!ENTITY help.close "បិទ">
+
+
+
+
+
+
+
