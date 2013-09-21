@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Nungu kaasey">
-<!ENTITY  awesomebar_bookmarks_title "Doo-šilbawey">
-<!ENTITY  awesomebar_history_title "Taariki">
-<!ENTITY  awesomebar_switch_to_tab "Bere nor loku ga">
+<!ENTITY  bookmarks_title "Doo-šilbawey">
+<!ENTITY  history_title "Taariki">
+<!ENTITY  reading_list_title "Caw maašeede">
+
+<!ENTITY  switch_to_tab "Bere nor loku ga">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
 <!ENTITY  crash_message2 "&brandShortName; kaŋ šenday banda ga. War nor lokey ga hima ka bangay &brandShortName; šintin moɲoo ga nda war ga tunandi taaga.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Tuku suuba">
 
-<!ENTITY awesomebar_default_text "Ceeciyan wala aderesu dam">
-
-<!ENTITY remote_tabs "Nor loku cere-hangantey">
-<!ENTITY remote_tabs_show_all "Nor lokey kul cebe">
+<!ENTITY url_bar_default_text "Ceeciyan wala aderesu dam">
 
 <!ENTITY bookmark "Doo-šilbay">
 <!ENTITY bookmark_added "Doo-šilbay tontonante">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
+<!ENTITY pref_category_add_search_providers "Ceeciyan nookawyaŋ tonton">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Yaamar: Interneti nungoo foo tonton war maašeedaa ga ceeciyan nookey še nda ceeci faaroo naagu ka gay.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
 <!ENTITY pref_developer_remotedebugging_docs "Bay ka tonton">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Hantum sawandi">
 <!ENTITY pref_restore "Nor lokey">
 <!ENTITY pref_restore_always "Yeeti waati kul">
-<!ENTITY pref_restore_crash "Yeeti kaŋyan banda ga">
-<!ENTITY pref_restore_never "Ma ši yeeti abada">
+<!ENTITY pref_restore_quit "Ma ši yeeti nda war fatta &brandShortName; ra">
 <!ENTITY pref_font_size_tiny "Kaccu">
 <!ENTITY pref_font_size_small "Kayna">
 <!ENTITY pref_font_size_medium "Sasawante">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName; ga">
 <!ENTITY pref_vendor_faqs "Hãayan nda zaabi">
 <!ENTITY pref_vendor_feedback "War goy-banda laasaaboo sanba">
+<!ENTITY pref_search_set_default "Kayandi sanda tilasu">
+<!ENTITY pref_search_default "Tilasu">
+<!ENTITY pref_search_remove "Kaa">
+<!ENTITY pref_search_last_toast "War ši hin ka war ceecijinay koraa kaa wal\u0027a kayandi.">
 
 <!ENTITY datareporting_notification_title "&brandShortName; kabuyan &amp; bayhaya">
 <!ENTITY datareporting_notification_action_long "Suuba alhabaroo kaŋ ka žemnandi">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
 <!ENTITY contextmenu_open_private_tab "Feeri sutura nor loku ra">
 <!ENTITY contextmenu_open_in_reader "Feeri cawkaw ra">
-<!ENTITY contextmenu_remove_history "Kaa">
-<!ENTITY contextmenu_remove_bookmark "Kaa">
+<!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
 <!ENTITY contextmenu_pasteandgo "Dobu nda koy">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Fasal">
 <!ENTITY contextmenu_subscribe "Maa hantum moɲoo ga">
 <!ENTITY contextmenu_site_settings "Nungu kayandiyaney fasal">
+<!ENTITY contextmenu_top_bookmarks_edit "Fasal">
+<!ENTITY contextmenu_top_bookmarks_pin "Nungoo dii">
+<!ENTITY contextmenu_top_bookmarks_unpin "Nungoo naŋ">
 
 <!ENTITY pref_titlebar_mode "Maa zuu">
 <!ENTITY pref_titlebar_mode_title "Maa zuu cebe">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Moo tuusante">
 
+<!ENTITY bookmark_add "Doo-šilbay tonton">
 <!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
 <!ENTITY bookmark_edit_name "Maa">
 <!ENTITY bookmark_edit_location "Gorodoo">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Tuusu">
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 
-<!ENTITY reading_list "Caw maašeede">
 <!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
 <!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
 <!ENTITY reading_list_failed "Mana hin ka moɲoo tonton war caw maašeedaa ga">
@@ -260,28 +270,25 @@ size. -->
 <!ENTITY button_set "Kayandi">
 <!ENTITY button_clear "Tuusu">
 
-<!ENTITY abouthome_addons_title "Tontoniyaŋ war &brandShortName; še">
-<!ENTITY abouthome_addons_browse "&brandShortName; tontoney kul guna">
-<!ENTITY abouthome_last_tabs_title "War cee koraa nor lokey">
-<!ENTITY abouthome_last_tabs_open "Cee kora nor lokey kul feeri">
-<!ENTITY abouthome_top_sites_title "Nungu kaasey">
-<!ENTITY abouthome_topsites_edit "Fasal">
-<!ENTITY abouthome_topsites_pin "Nungoo dii">
-<!ENTITY abouthome_topsites_unpin "Nungoo naŋ">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_history_title "Taariki">
+<!ENTITY home_last_tabs_title "Cee koraa nor lokey">
+<!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
+<!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
+<!ENTITY home_most_recent_title "Ikokorantaa">
+<!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
+<!ENTITY home_most_visited_title "Ikul gunantey">
+<!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Yaamar: Hantumey gaabu cawyan maašeedaa ra nda war na &#037;I biyoo naagu nd\u0027a fatta maa zuu ra.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Yaamar. Hantumey gaabu cawyan maašeedaa ra nda war na yaayi butoŋoo naagu nd\u0027a fatta maa zuu ra.">
 
-<!ENTITY abouthome_about_sync3 "Firefox Sync kayandi ka duu doo-šilbawey, taariki nda nor lokey war jinay taney ga&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Porogaramizey zaa Firefox Marketplace ra ka dii Interneti noora fellawey&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Nungey kaŋ war ga boobo k\u0027i guna ga bangay ne.  ">
+<!ENTITY pin_bookmark_dialog_hint "Ceeci kufal kalima dam">
 
 <!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
@@ -327,6 +334,11 @@ Android ra">
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "War ga baa &formatS; ceeciyan honnandiyaney ma tunandi?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Ceeci &formatS1; &formatS2; še">
 
 <!ENTITY webapp_generic_name "Porogaramize">
 
