@@ -1,0 +1,85 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Gestor de app">
+<!ENTITY index.projects2 "Apps">
+<!ENTITY index.device2 "Dispositivo">
+<!ENTITY index.help "Ajuda">
+
+<!ENTITY device.screenshot "Instantâneo">
+<!ENTITY device.screenshotTooltip "Abre um instantâneo do estado atual do dispositivo num novo separador.">
+<!ENTITY device.title "Centro de controlo do dispositivo">
+<!ENTITY device.notConnected "Não ligado. Por favor, ligue o seu dispositivo em baixo.">
+<!ENTITY device.startApp "Iniciar">
+<!ENTITY device.startAppTooltip "Iniciar esta app no dispositivo.">
+<!ENTITY device.stopApp "Parar">
+<!ENTITY device.stopAppTooltip "Parar esta app no dispositivo.">
+<!ENTITY device.debugApp "Depurar">
+<!ENTITY device.debugAppTooltip "Abre as ferramentas do desenvolvedor ligado a esta app neste dispositivo.">
+<!ENTITY device.name "Nome">
+<!ENTITY device.app "App">
+<!ENTITY device.privileged "Priveligiado">
+<!ENTITY device.certified "Certificado">
+<!ENTITY device.allow "Permitir">
+<!ENTITY device.allowTooltip "Esta permissão é permitida para este tipo de apps.">
+<!ENTITY device.prompt "Autorizar">
+<!ENTITY device.promptTooltip "Esta permissão necessita da autorização do utilizador para este tipo de apps.">
+<!ENTITY device.deny "Negar">
+<!ENTITY device.denyTooltip "Esta ermissão é negada para este tipo de apps.">
+<!ENTITY device.installedApps "Apps instaladas">
+<!ENTITY device.installedAppsTooltip "V~e a lista de apps instaladas no dispositivo. Algumas apps, tipo as apps certificadas,poderão ser excluídas desta vista.">
+<!ENTITY device.permissions "Permissões">
+<!ENTITY device.permissionsTooltip "Mostra a tabela de permissões acessível aos diferentes tipos de apps.">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Ajuda">
+
+<!ENTITY connection.connectTooltip "Ligar ao dispositivo.">
+<!ENTITY connection.disconnect "Desligar">
+<!ENTITY connection.disconnectTooltip "Desliga do dispositivo ou simulador atual.">
+<!ENTITY connection.notConnected2 "Não ligado.">
+<!ENTITY connection.connectTo "Ligar a:">
+<!ENTITY connection.noDeviceFound "Nenhum dispositivo encontrado. Ligue um dispositivo">
+<!ENTITY connection.changeHostAndPort "Alterar">
+<!ENTITY connection.changeHostAndPortTooltip "Altera o servidor e a porta usada para ligar ao dispositivo. (Pré-definido para localhost:6000)">
+<!ENTITY connection.startSimulator "Iniciar Simulador">
+<!ENTITY connection.startSimulatorTooltip "Inícia uma instância do simulador e liga-o.">
+<!ENTITY connection.saveConnectionInfo "Guardar">
+<!ENTITY connection.saveConnectionInfoTooltip "Guarda o servidor e a porta.">
+<!ENTITY connection.connecting "A ligar…">
+<!ENTITY connection.disconnecting "A desligar…">
+<!ENTITY connection.cancel "Cancelar">
+<!ENTITY connection.cancelConnectTooltip "Cancelar a ligação em curso.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Sai da ligação do modo de simulador e volta à ponto inicial.">
+<!ENTITY connection.or "ou">
+<!ENTITY connection.noSimulatorInstalled "Nenhum simulador instalado.">
+<!ENTITY connection.installOneSimulator "Instalar simulador">
+<!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador transferindo o extra indicado.">
+<!ENTITY connection.installAnotherSimulator "Adicionar">
+<!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador transferindo o extra indicado.">
+
+<!ENTITY projects.localApps "Apps locais">
+<!ENTITY projects.addApp "Adicionar">
+<!ENTITY projects.addPackaged "Adicionar app empacotada">
+<!ENTITY projects.addPackagedTooltip "Adicionar uma nova app empacotada (uma diretoria) a partit do seu computador.">
+<!ENTITY projects.addHosted "Adicionar app alojada">
+<!ENTITY projects.addHostedTooltip "Adiciona uma nova app alojada (Ligação a um ficheiro manifest.webapp) a partir de um sítio web remoto.">
+<!ENTITY projects.title "Apps locais">
+<!ENTITY projects.appDetails "Detalhes da app">
+<!ENTITY projects.removeAppFromList "Remove esta app da lista de apps em que está a trabalhar. Isto não remove do dispositivo ou do simulador.">
+<!ENTITY projects.updateApp "Atualizar">
+<!ENTITY projects.updateAppTooltip "Executa as verificações de validação e atualiza a app no dispositivo ligado">
+<!ENTITY projects.debugApp "Depurar">
+<!ENTITY projects.debugAppTooltip "Abre as ferramentas do desenvolvedor ligadas a esta app">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "Swm projetos. Adicione uma nova app empacotada em baixo (diretoria local) ou uma app alojada (ligação a um ficheiro manifest).">
+
+<!ENTITY help.title "Gestor de app">
+<!ENTITY help.close "Fechar">
+<!ENTITY help.intro "Esta ferramenta ajuda-o a construir e instalar apps da web nos dispositivos compatíveis (ex: Firefox OS). O separdor <strong>Apps</strong> ajuda-o no processo de validação e isntalação da sua app. O separador <strong>Dispositivo</strong> dá toda a informação sobre o dispositivo ligado. Use a barra de ferramentas em baixo para ligar ou iniciar o simulador.">
+<!ENTITY help.usefullLinks "Ligações úteis:">
+<!ENTITY help.appMgrDoc "Documentação: Usar o gestor de apps">
+<!ENTITY help.configuringDevice "Como configurar o seu dispositivo com o SO do Firefox">
+<!ENTITY help.troubleShooting "Deteção de erros">
+<!ENTITY help.simulatorAddon "Instalar o extra Simulator">
+<!ENTITY help.adbHelperAddon "Instalar o extra Adb Helper">
