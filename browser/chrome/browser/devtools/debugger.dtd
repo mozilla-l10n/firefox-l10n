@@ -33,10 +33,19 @@
   -  the button that opens up an options context menu for the debugger UI. -->
 <!ENTITY debuggerUI.optsButton.tooltip  "Opções do depurador">
 
+<!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
+button that pretty prints the selected source. -->
+<!ENTITY debuggerUI.sources.prettyPrint "Origem prettify">
+
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pausar com exceções">
+<!ENTITY debuggerUI.pauseExceptions     "Pausar em exceções">
 <!ENTITY debuggerUI.pauseExceptions.key "e">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorar exceções apanhadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "c">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
