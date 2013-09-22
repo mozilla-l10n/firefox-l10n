@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "所有">
 <!ENTITY all.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; 认为这是垃圾邮件。">
-<!ENTITY junkBarButton.label "这不是垃圾邮件">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "为了保护您的隐私, &brandShortName; 已经禁止了这个消息中的远程内容。">
-<!ENTITY loadRemoteContentButton.label "显示远程内容">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; 认为此邮件可能是封电子诈骗邮件。">
-<!ENTITY removePhishingBarButton.label "不是电子诈骗邮件">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "忽略请求">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "发送回执">
-<!ENTITY mdnBarSendButton.accesskey "S">
