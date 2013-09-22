@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "访问您的书签、密码以及跨设备打开标签页。">
+<!ENTITY sync.flyout.presetup.setup.label      "设置 &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "设置 &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "如果您已有 &syncBrand.shortName.label; 账户，在您的其他设备上选择“设备配对”并输入此代码。">
+<!ENTITY sync.flyout.setup.description2        "如果您还没有 &syncBrand.shortName.label; 账户您可以到 &brandShortName; 桌面浏览器上创建一个账户。">
+<!ENTITY sync.flyout.setup.manual.label_2      "设备不在我身边…">
+<!ENTITY sync.flyout.setup.description3        "请注意：">
+<!ENTITY sync.flyout.setup.description4_2      "“设备配对”的所在位置">
+<!ENTITY sync.flyout.setup.description5_2      "[桌面版] 打开“选项”或“首选项”，选择“&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] 更多 &gt; 设置 &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "请输入您的 &syncBrand.shortName.label; 账户信息和您的电脑生成的恢复密钥">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "帐户名称">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "密码">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "恢复密钥">
+<!ENTITY sync.flyout.manualsetup.connect.label           "连接">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "您已将 &brandShortName; 连接到了 &syncBrand.shortName.label; 账户">
+<!ENTITY sync.flyout.setupsuccess.description2      "您的&syncBrand.shortName.label;数据正在后台下载中。已同步的标签页将出现在 &brandShortName; 开始页中">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; 无法连接到您的 &syncBrand.shortName.label; 账户。">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "取消">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "重试">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "帐户：">
+<!ENTITY sync.flyout.connected.device                     "您的设备：">
+<!ENTITY sync.flyout.connected.disconnect                 "断开连接">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "断开您的设备与 &syncBrand.shortName.label; 的连接？">
+<!ENTITY sync.flyout.connected.disconnectWarning          "您在这两个设备和 &syncBrand.shortName.label; 账户中的所有个人数据将保持不变。">
+<!ENTITY sync.flyout.connected.cancel                     "取消">
+<!ENTITY sync.flyout.connected.pair                       "设备配对">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "在您想配对的新设备上，选择“设置 &syncBrand.shortName.label;”并输入该设备生成的代码">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "配对">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "请注意：">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "该代码位于：">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[桌面版] 打开“选项”或“首选项”，然后按照以下步骤：&syncBrand.shortName.label; -&gt; 设置 &syncBrand.shortName.label; -&gt; 已有账户">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] 更多 &gt; 设置 &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "请重试">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "新设备添加成功。">
+<!ENTITY sync.flyout.pairSuccess.description2             "您的&syncBrand.shortName.label;数据正在后台下载中。您的远程标签页将出现在 &brandShortName; 开始页。">

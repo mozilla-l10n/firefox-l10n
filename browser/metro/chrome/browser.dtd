@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "输入搜索或地址">
+
+<!ENTITY back.label            "后退">
+<!ENTITY forward.label         "前进">
+<!ENTITY newtab.label          "新建标签页">
+<!ENTITY closetab.label        "关闭标签页">
+
+<!ENTITY autocompleteResultsHeader.label  "您的结果">
+
+<!ENTITY appbarErrorConsole.label   "打开错误控制台">
+<!ENTITY appbarJSShell.label        "打开 JavaScript shell 脚本">
+<!ENTITY appbarFindInPage2.label    "在当前页查找">
+<!ENTITY appbarViewOnDesktop2.label "在桌面查看">
+
+<!ENTITY topSitesHeader.label        "热门网站">
+<!ENTITY bookmarksHeader.label       "书签">
+<!ENTITY recentHistoryHeader.label   "最近历史记录">
+<!ENTITY remoteTabsHeader.label      "来自其他设备的标签页">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "热门网站">
+<!ENTITY narrowBookmarksHeader.label     "书签">
+<!ENTITY narrowRecentHistoryHeader.label "最近历史记录">
+<!ENTITY narrowRemoteTabsHeader.label    "远程标签页">
+
+<!ENTITY downloadsHeader.label     "下载项">
+<!ENTITY downloadShowPage.label    "转至页面">
+<!ENTITY downloadShow2.label       "查找">
+<!ENTITY downloadOpen2.label       "打开">
+<!ENTITY downloadCancel.label      "取消">
+<!ENTITY downloadPause.label       "暂停">
+<!ENTITY downloadResume.label      "继续">
+<!ENTITY downloadRetry.label       "重试">
+<!ENTITY downloadRemove.label      "移除">
+<!ENTITY downloadDelete.label      "删除">
+<!ENTITY downloadFailed.label      "已失败">
+
+<!ENTITY allBookmarks.label        "查看所有书签">
+
+<!ENTITY consoleHeader.label       "错误控制台">
+<!ENTITY consoleAll.label          "全部">
+<!ENTITY consoleErrors.label       "错误">
+<!ENTITY consoleWarnings.label     "警告">
+<!ENTITY consoleMessages.label     "消息">
+<!ENTITY consoleCodeEval.label     "代码：">
+<!ENTITY consoleClear.label        "清空">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "源文件：">
+<!ENTITY consoleErrLine.label      "行：">
+<!ENTITY consoleErrColumn.label    "列：">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "剪切">
+<!ENTITY contextTextCopy.label             "复制">
+<!ENTITY contextTextPaste.label            "粘贴">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "粘贴并转到">
+<!ENTITY contextTextSelect.label           "选择">
+<!ENTITY contextTextSelectAll.label        "选择全部">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "在新标签页中打开链接">
+<!ENTITY contextCopyLinkHref.label         "复制链接">
+<!ENTITY contextBookmarkLinkHref.label     "收藏链接">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "保存至图片库">
+<!ENTITY contextCopyImage.label            "复制图片">
+<!ENTITY contextCopyImageLocation.label    "复制图片地址">
+<!ENTITY contextOpenImageTab.label         "在新标签页打开图片">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "保存至视频库">
+<!ENTITY contextCopyVideoLocation.label    "复制视频地址">
+<!ENTITY contextOpenVideoTab.label         "在新标签页打开视频">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

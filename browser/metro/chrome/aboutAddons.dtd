@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD
+     SYSTEM "chrome://branding/locale/brand.dtd">
+   %brandDTD;
+
+<!ENTITY aboutAddons.title              "&brandShortName; 的附加组件功能仍在开发中">
+<!ENTITY aboutAddons.messageTitle       "啊哦！">
+<!ENTITY aboutAddons.message            "很抱歉，&brandShortName; 仍在为您努力开发对附加组件的支持。">
+<!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
+     These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
+     aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
+     -->
+<!ENTITY aboutAddons.goBackToStartStart "返回 ">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; 开始页">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">
