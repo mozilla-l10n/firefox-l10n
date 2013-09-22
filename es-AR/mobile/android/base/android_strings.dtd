@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Suscribir a página">
 <!ENTITY contextmenu_site_settings "Editar configuración del sitio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Pegar sitio">
-<!ENTITY contextmenu_top_bookmarks_unpin "Despegar sitio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Pegar sitio">
+<!ENTITY contextmenu_top_sites_unpin "Despegar sitio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -288,8 +288,7 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el botón de modo lectura cuando aparezca en la barra de título.">
 
 <!ENTITY home_most_visited_empty "Los sitios web visitados mas frecuentemente aparecen acá.">
-
-<!ENTITY pin_bookmark_dialog_hint "Ingresá una palabra a buscar">
+<!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
 <!ENTITY filepicker_title "Seleccionar archivo">
 <!ENTITY filepicker_audio_title "Seleccionar o grabar un sonido">
