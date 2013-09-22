@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE: The experimental title is temporary -->
 <!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; 目前是一个实验性功能。">
 <!ENTITY privatebrowsingpage.description  "在 &privatebrowsingpage.title; 窗口, &brandShortName; 不会保留任何磁盘高速缓存，Cookie，浏览、搜索、下载和网络表单历史。但下载的文件和保存的书签仍将被保留。">
-<!ENTITY privatebrowsingpage.moreinfo     "虽然这台计算机将不会保留有你的浏览历史纪录，您的雇主或互联网服务提供商可能仍然能够跟踪您访问过的网页。">
+<!ENTITY privatebrowsingpage.moreinfo     "尽管本机将不会记录您的浏览历史，但您的互联网服务提供商或者雇主还是有可能追溯您访问过的页面。">
 <!ENTITY privatebrowsingpage.learnmore.label     "详细了解">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "L">
 <!ENTITY privatebrowsingpage.private      "&brandShortName; 不会记录此窗口的任何历史。关闭窗口即可停止 &privatebrowsingpage.title;。">

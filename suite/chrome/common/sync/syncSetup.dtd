@@ -62,7 +62,7 @@
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "添加设备">
 <!ENTITY addDevice.showMeHow.label          "告诉我该怎么办。">
-<!ENTITY addDevice.dontHaveDevice.label     "该设备不在我身边">
+<!ENTITY addDevice.dontHaveDevice.label     "设备不在我身边">
 <!ENTITY addDevice.setup.description.label  "要激活，在您的其他设备上转到 &syncBrand.shortName.label; 首选项/选项，然后选择 “添加设备”">
 <!ENTITY addDevice.setup.enterCode.label    "然后，输入此代码：">
 <!ENTITY addDevice.dialog.description.label "要激活您的新设备，在设备上转到 &syncBrand.shortName.label; 首选项/选项，然后选择“连接”">
