@@ -21,7 +21,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "主页">
-<!ENTITY homeButton.tooltip             "返回帮助起始页面">
+<!ENTITY homeButton.tooltip             "返回帮助开始页">
 <!ENTITY printButton.label              "打印">
 <!ENTITY printButton.tooltip            "打印当前页">
 <!ENTITY closeWindow.commandkey         "W">
