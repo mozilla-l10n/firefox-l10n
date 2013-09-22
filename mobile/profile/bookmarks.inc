@@ -26,8 +26,4 @@
 # link title for https://support.mozilla.org/mobile
 #define bookmarks_support Firefox：技术支持
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-# link title for about:home
-#define bookmarks_aboutHome 我的火狐首页
-
 #unfilter emptyLines

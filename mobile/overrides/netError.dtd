@@ -90,7 +90,7 @@
 <!ENTITY redirectLoop.title "此页面不能正确地重定向">
 <!ENTITY redirectLoop.longDesc "<ul><li>此问题有时可能是因为禁用或拒绝接受 Cookie 导致的。</li></ul>">
 
-<!ENTITY unknownSocketType.title "不预期的服务器回应">
+<!ENTITY unknownSocketType.title "意外的服务器响应">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>请检查您的系统安装了个人安全管理程序。</li>
