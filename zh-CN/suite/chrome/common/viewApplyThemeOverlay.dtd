@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY applyTheme.label          "应用主题">
-<!ENTITY applyTheme.accesskey      "A">
-<!ENTITY getNewThemesCmd.label     "获取新的主题">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY getPersonasCmd.label      "获取炫彩风格">
-<!ENTITY getPersonasCmd.accesskey  "P">
+<!ENTITY applyTheme.label            "应用主题">
+<!ENTITY applyTheme.accesskey        "A">
+<!ENTITY getMoreThemesCmd.label      "获取更多主题">
+<!ENTITY getMoreThemesCmd.accesskey  "G">
+<!ENTITY getBackgroundsCmd.label     "获取背景">
+<!ENTITY getBackgroundsCmd.accesskey "B">

@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "搜索子文件夹">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchLocalSystem.label     "搜索本地系统">
-<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchOnHeading.label       "执行搜索操作于：">
+<!ENTITY searchOnHeading.accesskey   "P">
+<!ENTITY searchOnRemote.label        "远程服务器">
+<!ENTITY searchOnLocal.label         "本地系统">
 <!ENTITY resetButton.label           "清空">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "打开
@@ -24,8 +26,8 @@
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY goToFolderButton.label      "打开消息文件夹">
 <!ENTITY goToFolderButton.accesskey  "n">
-<!ENTITY saveAsVFButton.label      "将搜索结果保存作为文件夹">
-<!ENTITY saveAsVFButton.accesskey  "v">
+<!ENTITY saveAsVFButton.label        "将搜索结果保存作为文件夹">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "搜索在:">

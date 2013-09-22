@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "请告诉我们您对 Android 版 &brandShortName; 的看法。">
 <!ENTITY intro.happyLink           "我超喜欢">
 <!ENTITY intro.sadLink             "我遇到一些问题">
+<!ENTITY intro.maybeLater          "可能稍后">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "如果您需要帮助或者遇到了问题，请访问 ">
+<!ENTITY support.pre2              "您也可以访问 ">
 <!ENTITY support.link              "&brandShortName; 支持">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " 了解更多信息。">
 
 <!ENTITY happy.header              "太棒了！">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "这不会占用您超过一分钟的时间而且感觉超赞。">
 
 <!ENTITY happy.ratingLink          "是，访问 Google Play">
-<!ENTITY happy.maybeLater          "稍后">
+<!ENTITY happy.maybeLater2         "可能稍后">
 <!ENTITY happy.noThanks            "不了，谢谢">
 
 <!ENTITY sad.message               "很抱歉您在使用 &brandShortName; 时遇到了问题。请告诉我们发生了什么事情以便我们能够修复。">
