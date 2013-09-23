@@ -7,7 +7,7 @@
    %brandDTD;
 
 <!ENTITY aboutAddons.title              "Los complementos de &brandShortName; son un trabajo en curso">
-<!ENTITY aboutAddons.messageTitle       "Oh-Oh!">
+<!ENTITY aboutAddons.messageTitle       "¡Oh-Oh!">
 <!ENTITY aboutAddons.message            "Perdón, &brandShortName; está trabajando denodadamente para soportar complementos para usted.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,

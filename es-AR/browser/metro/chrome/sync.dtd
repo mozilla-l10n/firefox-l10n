@@ -7,10 +7,10 @@
 
 <!-- Flyout when not connected -->
 <!ENTITY sync.flyout.presetup.description1     "Access your bookmarks, passwords, and open tabs across your devices">
-<!ENTITY sync.flyout.presetup.setup.label      "Set Up &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.setup.label      "Configurar &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up sync -->
-<!ENTITY sync.flyout.setup.title               "Set Up &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title               "Configurar &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1        "If you have a &syncBrand.shortName.label; account, select &quot;Pair a Device&quot; on your other device and enter this code.">
 <!ENTITY sync.flyout.setup.description2        "If you don&apos;t have a &syncBrand.shortName.label; account, you can create one on your &brandShortName; desktop browser.">
 <!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m not near my computer…">
