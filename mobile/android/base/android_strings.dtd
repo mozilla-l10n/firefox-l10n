@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
 <!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Sàr-làraichean">
-<!ENTITY  awesomebar_bookmarks_title "Comharran-lìn">
-<!ENTITY  awesomebar_history_title "Eachdraidh">
-<!ENTITY  awesomebar_switch_to_tab "Gearr leum gun taba">
+<!ENTITY  bookmarks_title "Comharran-lìn">
+<!ENTITY  history_title "Eachdraidh">
+<!ENTITY  reading_list_title "An liosta leughaidh">
+
+<!ENTITY  switch_to_tab "Gearr leum gun taba">
 
 <!ENTITY  crash_reporter_title "Aithrisiche nan tuislidhean aig &brandShortName;">
 <!ENTITY  crash_message2 "Bha duilgheadas aig &brandShortName; is thuislich e. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Tagh faidhle">
 
-<!ENTITY awesomebar_default_text "Dèan lorg no cuir a-steach seòladh">
-
-<!ENTITY remote_tabs "Tabaichean sioncronaichte">
-<!ENTITY remote_tabs_show_all "Seall a h-uile taba">
+<!ENTITY url_bar_default_text "Dèan lorg no cuir a-steach seòladh">
 
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
+<!ENTITY pref_category_add_search_providers "Cuir barrachd solaraichean luirg ris">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada san raon luirg air.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_developer_remotedebugging_docs "Barrachd fiosrachaidh">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Ath-shruthadh an teacsa">
 <!ENTITY pref_restore "Tabaichean">
 <!ENTITY pref_restore_always "Aisig an-còmhnaidh">
-<!ENTITY pref_restore_crash "Aisig an dèidh tuislidh">
-<!ENTITY pref_restore_never "Na aisig idir">
+<!ENTITY pref_restore_quit "Na aisig an dèidh dhomh &brandShortName; fhàgail">
 <!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
+<!ENTITY pref_search_set_default "Suidhich mar a\u0027 bhun-roghainn">
+<!ENTITY pref_search_default "Bunaiteach">
+<!ENTITY pref_search_remove "Thoir air falbh">
+<!ENTITY pref_search_last_toast "Chan urrainn dhut an t-einnsean-luirg mu dheireadh agad a thoirt air falbh.">
 
 <!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
 <!ENTITY contextmenu_open_in_reader "Fosgail san leughadair">
-<!ENTITY contextmenu_remove_history "Thoir air falbh">
-<!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
+<!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
 <!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
 <!ENTITY contextmenu_subscribe "Fo-sgrìobh gun duilleag">
 <!ENTITY contextmenu_site_settings "Deasaich roghainnean na làraich">
+<!ENTITY contextmenu_top_bookmarks_edit "Deasaich">
+<!ENTITY contextmenu_top_bookmarks_pin "Prìnich an làrach">
+<!ENTITY contextmenu_top_bookmarks_unpin "Neo-phrìnich an làrach">
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Duilleag air a thoirt air falbh">
 
+<!ENTITY bookmark_add "Cuir comharra-lìn ris">
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Àite">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
-<!ENTITY reading_list "An liosta leughaidh">
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
@@ -260,28 +270,25 @@ size. -->
 <!ENTITY button_set "Suidhich">
 <!ENTITY button_clear "Falamhaich">
 
-<!ENTITY abouthome_addons_title "Tuilleadain airson &brandShortName; agad">
-<!ENTITY abouthome_addons_browse "Brabhsaich gach tuilleadan &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
-<!ENTITY abouthome_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
-<!ENTITY abouthome_top_sites_title "Sàr-làraichean">
-<!ENTITY abouthome_topsites_edit "Deasaich">
-<!ENTITY abouthome_topsites_pin "Prìnich an làrach">
-<!ENTITY abouthome_topsites_unpin "Neo-phrìnich an làrach">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_history_title "Eachdraidh">
+<!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
+<!ENTITY home_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
+<!ENTITY home_last_tabs_empty "Nochdaidh tabaichean a bha agad o chionn goirid an-seo.">
+<!ENTITY home_most_recent_title "An fheadhainn as ùire">
+<!ENTITY home_most_recent_empty "Nochdaidh làraichean-lìn air an do thadhail thu o chionn goirid an-seo.">
+<!ENTITY home_most_visited_title "Air a thadhal as trice">
+<!ENTITY home_reading_list_empty "Nochdaidh artaigealan a shàbhaileas tu airson uaireigin eile an-seo.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &#037;I nuair a nochdas e ann am bàr an tiotail.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan a\u0027 mhodh-leughaidh nuair a nochdas e ann am bàr an tiotail.">
 
-<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \u0027s na tabaichean agad o uidheaman eile agad&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Co-shioncronachadh Firefox">
-<!ENTITY abouthome_apps_bold_name2 "Margaid Firefox">
+<!ENTITY home_most_visited_empty "Nochdaidh làraichean-lìn air an tadhail thu gu tric an-seo.">
+<!ENTITY pin_bookmark_dialog_hint "Cuir a-steach facal-luirg">
 
 <!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
@@ -327,6 +334,11 @@ o Android">
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "A bheil thu airson molaidhean luirg o &formatS; a chur air?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Lorg &formatS1; airson &formatS2;">
 
 <!ENTITY webapp_generic_name "Aplacaid">
 
