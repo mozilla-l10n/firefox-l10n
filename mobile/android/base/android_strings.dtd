@@ -172,9 +172,9 @@
 <!ENTITY contextmenu_edit_bookmark "Изменить">
 <!ENTITY contextmenu_subscribe "Подписаться на страницу">
 <!ENTITY contextmenu_site_settings "Изменить параметры сайта">
-<!ENTITY contextmenu_top_bookmarks_edit "Изменить">
-<!ENTITY contextmenu_top_bookmarks_pin "Закрепить сайт">
-<!ENTITY contextmenu_top_bookmarks_unpin "Открепить сайт">
+<!ENTITY contextmenu_top_sites_edit "Изменить">
+<!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
+<!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
@@ -204,6 +204,7 @@
 <!ENTITY button_clear_data "Удалить данные">
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
+<!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_history_title "История">
 <!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
 <!ENTITY home_last_tabs_open "Открыть все вкладки с прошлого раза">
@@ -215,7 +216,7 @@
 <!ENTITY home_reading_list_hint "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на значок &#037;I, когда он появится в строке заголовка.">
 <!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY home_most_visited_empty "Чаще всего посещаемые вами веб-сайты появятся здесь.">
-<!ENTITY pin_bookmark_dialog_hint "Введите поисковый запрос">
+<!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">

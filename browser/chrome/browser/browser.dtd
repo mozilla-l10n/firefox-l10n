@@ -175,6 +175,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
+<!ENTITY chromeDebuggerMenu.accesskey "и">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
 <!ENTITY devToolbarMenu.accesskey "а">
