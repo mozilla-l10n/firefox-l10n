@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Dèan lorg no cuir a-steach seòladh">
+
+<!ENTITY back.label            "Air ais">
+<!ENTITY forward.label         "Air adhart">
+<!ENTITY newtab.label          "Taba ùr">
+<!ENTITY closetab.label        "Dùin an taba">
+
+<!ENTITY autocompleteResultsHeader.label  "Na toraidhean">
+
+<!ENTITY appbarErrorConsole.label   "Fosgail consoil nam mearachd">
+<!ENTITY appbarJSShell.label        "Fosgail JavaScript shell">
+<!ENTITY appbarFindInPage2.label    "Lorg air an duilleag">
+<!ENTITY appbarViewOnDesktop2.label "Seall air an deasga">
+
+<!ENTITY topSitesHeader.label        "Gràinnean-mullaich nan làrach">
+<!ENTITY bookmarksHeader.label       "Comharran-lìn">
+<!ENTITY recentHistoryHeader.label   "Eachdraidh o chionn goirid">
+<!ENTITY remoteTabsHeader.label      "Tabaichean o uidheaman eile">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Gràinnean-mullaich nan làrach">
+<!ENTITY narrowBookmarksHeader.label     "Comharran-lìn">
+<!ENTITY narrowRecentHistoryHeader.label "Eachdraidh o chionn goirid">
+<!ENTITY narrowRemoteTabsHeader.label    "Tabaichean cèin">
+
+<!ENTITY downloadsHeader.label     "Na luchdaich thu a-nuas">
+<!ENTITY downloadShowPage.label    "Rach gun duilleag">
+<!ENTITY downloadShow2.label       "Lorg">
+<!ENTITY downloadOpen2.label       "Fosgail">
+<!ENTITY downloadCancel.label      "Sguir dheth">
+<!ENTITY downloadPause.label       "Cuir 'na stad">
+<!ENTITY downloadResume.label      "Lean air">
+<!ENTITY downloadRetry.label       "Feuch ris a-rithist">
+<!ENTITY downloadRemove.label      "Thoir air falbh">
+<!ENTITY downloadDelete.label      "Sguab às">
+<!ENTITY downloadFailed.label      "Dh'fhàillig e">
+
+<!ENTITY allBookmarks.label        "Seall a h-uile comharra-lìn">
+
+<!ENTITY consoleHeader.label       "Consoil nam mearachd">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "Mearachdan">
+<!ENTITY consoleWarnings.label     "Rabhaidhean">
+<!ENTITY consoleMessages.label     "Teachdaireachdan">
+<!ENTITY consoleCodeEval.label     "Còd:">
+<!ENTITY consoleClear.label        "Falamhaich">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Bun-tùs an fhaidhle:">
+<!ENTITY consoleErrLine.label      "Loidhne:">
+<!ENTITY consoleErrColumn.label    "Colbh:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Gearr às">
+<!ENTITY contextTextCopy.label             "Dèan lethbhreac">
+<!ENTITY contextTextPaste.label            "Cuir ann">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Cuir ann ⁊ rach ann">
+<!ENTITY contextTextSelect.label           "Tagh">
+<!ENTITY contextTextSelectAll.label        "Tagh na h-uile">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Fosgail an ceangal ann an taba ùr">
+<!ENTITY contextCopyLinkHref.label         "Dèan lethbhreac dhen cheangal">
+<!ENTITY contextBookmarkLinkHref.label     "Dèan comharra-lìn dhen cheangal">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Sàbhail ann an leabhar-lann nan dealbhan">
+<!ENTITY contextCopyImage.label            "Dèan lethbhreac dhen dealbh">
+<!ENTITY contextCopyImageLocation.label    "Dèan lethbhreac de sheòladh an deilbh">
+<!ENTITY contextOpenImageTab.label         "Fosgail an dealbh ann an taba ùr">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Sàbhail ann an leabhar-lann nam video">
+<!ENTITY contextCopyVideoLocation.label    "Dèan lethbhreac de sheòladh a' video">
+<!ENTITY contextOpenVideoTab.label         "Fosgail a' video ann an taba ùr">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
