@@ -20,6 +20,5 @@ abierto, que incluye detección avanzada de correo basura y otras útiles caract
 <!ENTITY dict_info.label 'Pueden instalarse muchos idiomas adicionales desde la sección de <a href="https://es-es.addons.mozilla.org/es-ES/seamonkey/1.1/dictionaries/">diccionarios</a> de <a href="http://addons.mozilla.org/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Más información">
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nosotros</a> agradecemos los informes
-de fallos y solicitudes de nuevas características, pero, por favor, lea antes las
-<a id="releaseNotesURL" href="">notas de publicación</a> y consulte
+de fallos y solicitudes de nuevas características, pero, por favor, lea antes las <a id="releaseNotesURL" href="">notas de publicación</a> y consulte
 <a href="http://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

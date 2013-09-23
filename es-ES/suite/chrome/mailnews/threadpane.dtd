@@ -36,7 +36,7 @@
 <!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo basura">
 <!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en una conversación">
 <!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
-<!ENTITY readColumn.tooltip "Click to sort by read">
+<!ENTITY readColumn.tooltip "Pulse para ordenar por leídos">
 <!ENTITY receivedColumn.tooltip "Pulse para ordenar por fecha de recepción">
 <!ENTITY flagColumn.tooltip "Pulse para ordenar por señal">
 <!ENTITY locationColumn.tooltip "Pulse para ordenar por dirección">
