@@ -77,10 +77,8 @@
 <!ENTITY debuggerUI.searchToken "Wyszukaj">
 <!ENTITY debuggerUI.searchToken.key "a">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
-  -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchLine "Przejdź do linii…">
-<!ENTITY debuggerUI.searchLine.key "P">
+<!ENTITY debuggerUI.searchGoToLine "Przejdź do linii…">
+<!ENTITY debuggerUI.searchGoToLine.key "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
