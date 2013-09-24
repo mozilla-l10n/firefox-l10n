@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY bookmarkAllTabs.accesskey           "k">
 <!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
 <!ENTITY undoCloseTab.accesskey              "P">
+<!ENTITY undoCloseTabs.label "Przywróć zamknięte karty">
 <!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
