@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Akses markah, sandi, dan tab terbuka di berbagai perangkat Anda">
+<!ENTITY sync.flyout.presetup.setup.label      "Siapkan &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Siapkan &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Jika Anda sudah memiliki akun &syncBrand.shortName.label;, pilih &quot;Pasangkan Perangkat&quot; pada perangkat Anda yang lain dan masukkan kode berikut.">
+<!ENTITY sync.flyout.setup.description2        "Jika Anda tidak memiliki akun &syncBrand.shortName.label;, Anda dapat membuatnya lewat peramban desktop &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Saya sedang tidak di dekat komputer saya…">
+<!ENTITY sync.flyout.setup.description3        "Catatan:">
+<!ENTITY sync.flyout.setup.description4_2      "Untuk menemukan &quot;Pasangkan Perangkat&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Buka &quot;Opsi&quot; atau &quot;Pengaturan&quot; lalu pilih &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Lainnya &gt; Setelan &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Masukkan informasi akun &syncBrand.shortName.label; Anda dan Kunci Pemulihan yang diciptakan komputer Anda">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nama Akun">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Sandi">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Kunci Pemulihan">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Sambungkan">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Anda telah menyambungkan &brandShortName; ke akun &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Data &syncBrand.shortName.label; Anda akan diunduh di latar belakang. Tab yang disinkronkan dapat Anda temukan di Laman Awal &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; tidak dapat tersambung ke akun &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Batalkan">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Coba Lai">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Akun:">
+<!ENTITY sync.flyout.connected.device                     "Perangkat Anda:">
+<!ENTITY sync.flyout.connected.disconnect                 "Putuskan">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Putuskan perangkat Anda dengan &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Semua data pribadi baik pada perangkat maupun akun &syncBrand.shortName.label; masih akan tetap ada.">
+<!ENTITY sync.flyout.connected.cancel                     "Batal">
+<!ENTITY sync.flyout.connected.pair                       "Pasangkan Perangkat">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Pada perangkat baru yang ingin dipasangkan, pilih &quot;Siapkan &syncBrand.shortName.label;&quot; dan masukkan kode yang dihasilkan pada perangkat">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Pasangkan">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Catatan:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Untuk menemukan kode,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Buka &quot;Opsi&quot; atau &quot;Pengaturan&quot; dan ikuti petunjuknya pada: &syncBrand.shortName.label; -&gt; Siapkan &syncBrand.shortName.label; -&gt; Saya sudah punya akun">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Lainnya &gt; Setelan &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Silakan coba lagi">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Perangkat yang baru sukses ditambahkan.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Data &syncBrand.shortName.label; Anda sedang diunduh di latar belakang. Tab daring Anda dapat ditemukan di Laman Awal &brandShortName;.">

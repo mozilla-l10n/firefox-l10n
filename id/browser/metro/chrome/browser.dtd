@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Masukkan Alamat atau Yang Dicari">
+
+<!ENTITY back.label            "Kembali">
+<!ENTITY forward.label         "Maju">
+<!ENTITY newtab.label          "Tab Baru">
+<!ENTITY closetab.label        "Tutup Tab">
+
+<!ENTITY autocompleteResultsHeader.label  "Your Results">
+
+<!ENTITY appbarErrorConsole.label   "Buka konsol galat">
+<!ENTITY appbarJSShell.label        "Buka shell JavaScript">
+<!ENTITY appbarFindInPage2.label    "Cari di laman">
+<!ENTITY appbarViewOnDesktop2.label "Buka di desktop">
+
+<!ENTITY topSitesHeader.label        "Situs Teratas">
+<!ENTITY bookmarksHeader.label       "Markah">
+<!ENTITY recentHistoryHeader.label   "Riwayat Terakhir">
+<!ENTITY remoteTabsHeader.label      "Tab dari Perangkat Lainnya">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Situs Teratas">
+<!ENTITY narrowBookmarksHeader.label     "Markah">
+<!ENTITY narrowRecentHistoryHeader.label "Riwayat Terakhir">
+<!ENTITY narrowRemoteTabsHeader.label    "Tab Daring">
+
+<!ENTITY downloadsHeader.label     "Unduhan">
+<!ENTITY downloadShowPage.label    "Buka Lamannya">
+<!ENTITY downloadShow2.label       "Cari">
+<!ENTITY downloadOpen2.label       "Buka">
+<!ENTITY downloadCancel.label      "Batalkan">
+<!ENTITY downloadPause.label       "Jeda">
+<!ENTITY downloadResume.label      "Lanjutkan">
+<!ENTITY downloadRetry.label       "Coba Lagi">
+<!ENTITY downloadRemove.label      "Buang">
+<!ENTITY downloadDelete.label      "Hapus">
+<!ENTITY downloadFailed.label      "Gagal">
+
+<!ENTITY allBookmarks.label        "Tampilkan semua markah">
+
+<!ENTITY consoleHeader.label       "Konsol Galat">
+<!ENTITY consoleAll.label          "Semua">
+<!ENTITY consoleErrors.label       "Galat">
+<!ENTITY consoleWarnings.label     "Peringatan">
+<!ENTITY consoleMessages.label     "Pesan">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Bersihkan">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Berkas Sumber:">
+<!ENTITY consoleErrLine.label      "Baris:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Potong">
+<!ENTITY contextTextCopy.label             "Salin">
+<!ENTITY contextTextPaste.label            "Tempel">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Tempel &amp; buka">
+<!ENTITY contextTextSelect.label           "Pilih">
+<!ENTITY contextTextSelectAll.label        "Pilih semua">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Buka tautan di tab baru">
+<!ENTITY contextCopyLinkHref.label         "Salin tautan">
+<!ENTITY contextBookmarkLinkHref.label     "Markahi tautan">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Simpan ke pustaka gambar">
+<!ENTITY contextCopyImage.label            "Salin gambar">
+<!ENTITY contextCopyImageLocation.label    "Salin lokasi gambar">
+<!ENTITY contextOpenImageTab.label         "Buka gambar di tab baru">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Simpan ke pustaka video">
+<!ENTITY contextCopyVideoLocation.label    "Salin lokasi video">
+<!ENTITY contextOpenVideoTab.label         "Buka video di tab baru">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
