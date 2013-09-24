@@ -672,7 +672,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginBlockNow.label "Bloki kromprogramon">
 
 <!ENTITY tabCrashed.header "Paneo de langeto">
-<!ENTITY tabCrashed.message "Nu, tio estas hontiga. Ni klopodis montri tiun retpaĝon, sed ĝi ne respondas.">
+<!ENTITY tabCrashed.message "Nu, tio estas hontiga. Ni klopodis montri tiun retpaĝon, sed ĝi ne reagas.">
 <!ENTITY tabCrashed.checkSendReport "Raporti al &vendorShortName; pri tiu ĉi paneo, tiel ke ili povos fari ion por eviti ĝin.">
 <!ENTITY tabCrashed.tryAgain "Klopodi denove">
 
