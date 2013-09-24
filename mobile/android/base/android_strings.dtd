@@ -50,7 +50,7 @@
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
-<!ENTITY pref_category_advanced "Дополнительные">
+<!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
 <!ENTITY pref_category_search2 "Параметры поиска">
 <!ENTITY pref_category_display "Отображение">
