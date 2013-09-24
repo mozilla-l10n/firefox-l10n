@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label				"Använd tema">
 <!ENTITY applyTheme.accesskey	"A"> 
-<!ENTITY getNewThemesCmd.label "Hämta nya teman">
-<!ENTITY getNewThemesCmd.accesskey                             "n">
-<!ENTITY getPersonasCmd.label "Hämta personas">
-<!ENTITY getPersonasCmd.accesskey "P">
+<!ENTITY getMoreThemesCmd.label      "Hämta fler teman">
+<!ENTITY getMoreThemesCmd.accesskey  "n">
+<!ENTITY getBackgroundsCmd.label     "Hämta bakgrunder">
+<!ENTITY getBackgroundsCmd.accesskey "b">
