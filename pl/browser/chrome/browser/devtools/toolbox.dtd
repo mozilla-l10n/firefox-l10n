@@ -6,6 +6,8 @@
 
 <!ENTITY toolboxCloseButton.tooltip "Zamknij narzędzia dla programistów">
 <!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key "]">
+<!ENTITY toolboxPreviousTool.key "[">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
