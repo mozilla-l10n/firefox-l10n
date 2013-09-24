@@ -101,7 +101,7 @@
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_show_product_announcements "Анонсы продукта">
 <!ENTITY pref_sync "Синхронизация">
-<!ENTITY pref_search_suggestions "Поиск. предложения">
+<!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_private_data_history "Журнал посещений и загрузок">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
@@ -113,18 +113,18 @@
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
-<!ENTITY pref_vendor_feedback "Отправка отзыва">
+<!ENTITY pref_vendor_feedback "Отправить отзыв">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
 <!ENTITY datareporting_notification_summary "Чтобы улучшить вашу работу, &brandShortName; автоматически отправляет некоторые данные в &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Чтобы улучшить вашу работу, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-<!ENTITY datareporting_fhr_title "Отчёт о работоспособности &brandShortName;">
+<!ENTITY datareporting_fhr_title "Отчёт о здоровье &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Делится данными о здоровье вашего браузера с &vendorShortName; и помогает вам больше узнать о скорости его работы">
 <!ENTITY datareporting_abouthr_title "Посмотреть мой отчёт о здоровье">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
-<!ENTITY datareporting_telemetry_summary "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
+<!ENTITY datareporting_telemetry_summary "Делится сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title "Службы местоположения &vendorShortName;">
