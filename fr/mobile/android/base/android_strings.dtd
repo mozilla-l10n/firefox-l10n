@@ -236,7 +236,6 @@ size. -->
 
 <!ENTITY history_removed "Page supprimée">
 
-<!ENTITY bookmark_add "Ajouter un marque-page">
 <!ENTITY bookmark_edit_title "Modifier le marque-page">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Emplacement">
@@ -272,6 +271,10 @@ size. -->
 <!ENTITY button_clear "Effacer">
 
 <!ENTITY home_top_sites_title "Les plus visités">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Ajouter un site">
+
 <!ENTITY home_history_title "Historique">
 <!ENTITY home_last_tabs_title "Onglets de la session précédente">
 <!ENTITY home_last_tabs_open "Ouvrir tous les onglets">
