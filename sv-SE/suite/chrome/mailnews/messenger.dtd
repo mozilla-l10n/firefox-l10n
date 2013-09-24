@@ -533,21 +533,3 @@
 <!ENTITY all.label "Alla">
 <!ENTITY all.accesskey "A">
 
-<!-- junk bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; tror att det här meddelandet är skräppost (spam)">
-<!ENTITY junkBarButton.label "Detta är Ej skräppost">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "För att skydda din personliga integritet har &brandShortName; blockerat externt innehåll i det här meddelandet.">
-<!ENTITY loadRemoteContentButton.label "Visa externt innehåll">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; tror att detta meddelande kan vara nätfiske (försök till e-postbedrägeri).">
-<!ENTITY removePhishingBarButton.label "Ej nätfiske">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Avvisa begäran">
-<!ENTITY mdnBarIgnoreButton.accesskey "A">
-<!ENTITY mdnBarSendButton.label "Skicka kvitto">
-<!ENTITY mdnBarSendButton.accesskey "S">
