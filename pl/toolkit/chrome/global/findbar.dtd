@@ -7,7 +7,7 @@
 
 <!-- entities split out from browser.dtd -->
 
-<!ENTITY next.label "Następne">
+<!ENTITY next.tooltip "Znajdź następne wystąpienie ostatnio szukanej frazy">
 <!ENTITY previous.tooltip "Znajdź poprzednie wystąpienie ostatnio szukanej frazy">
 <!ENTITY findCloseButton.tooltip "Zamknij pasek wyszukiwania">
 <!ENTITY highlightAll.label "Podświetl"> <!-- Better: "Podświetl wszystkie" but it's too long. -->
