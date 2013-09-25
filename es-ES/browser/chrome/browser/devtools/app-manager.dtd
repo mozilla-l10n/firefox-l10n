@@ -9,7 +9,7 @@
 <!ENTITY device.screenshot "Captura de pantalla">
 <!ENTITY device.screenshotTooltip "Abrir una captura de pantalla del estado actual del dispositivo en una nueva pestaña.">
 <!ENTITY device.title "Centro de control del dispositivo">
-<!ENTITY device.notConnected "Sin conectar. Conecte su dispositivo debajo.">
+<!ENTITY device.notConnected "Sin conectar. Conecte su dispositivo usando los controles inferiores.">
 <!ENTITY device.startApp "Iniciar">
 <!ENTITY device.startAppTooltip "Iniciar esta aplicación en el dispositivo.">
 <!ENTITY device.stopApp "Detener">
