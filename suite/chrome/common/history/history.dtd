@@ -44,5 +44,5 @@
 <!ENTITY col.url.accesskey "д">
 <!ENTITY col.lastvisit.label "Дата посещения">
 <!ENTITY col.lastvisit.accesskey "с">
-<!ENTITY col.visitcount.label "Кол-во посещений">
+<!ENTITY col.visitcount.label "Число посещений">
 <!ENTITY col.visitcount.accesskey "л">

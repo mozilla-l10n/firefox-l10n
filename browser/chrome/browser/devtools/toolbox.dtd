@@ -19,8 +19,6 @@
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!ENTITY options.defaultColorUnit.name "Названия цветов">
-<!ENTITY options.context.requiresRestart2 "Необходим перезапуск браузера">
-<!ENTITY options.restartButton.label "Перезапустить сейчас">
 <!ENTITY options.context.triggersPageRefresh2 "Только текущая сессия, перезагружает страницу">
 <!ENTITY options.enableChrome.label3 "Включить отладку chrome">
 <!ENTITY options.enableChrome.tooltip "Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера">
