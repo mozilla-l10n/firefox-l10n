@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Tajpu adreson aŭ ion por serĉi">
+
+<!ENTITY back.label            "Malantaŭen">
+<!ENTITY forward.label         "Antaŭen">
+<!ENTITY newtab.label          "Nova langeto">
+<!ENTITY closetab.label        "Fermi langeton">
+
+<!ENTITY autocompleteResultsHeader.label  "Viaj rezultoj">
+
+<!ENTITY appbarErrorConsole.label   "Malfermi konzolon de eraroj">
+<!ENTITY appbarJSShell.label        "Malfermi ordonlinion de JavaScript">
+<!ENTITY appbarFindInPage2.label    "Serĉi en paĝo">
+<!ENTITY appbarViewOnDesktop2.label "Vidi en labortablo">
+
+<!ENTITY topSitesHeader.label        "La plej vizititaj retejoj">
+<!ENTITY bookmarksHeader.label       "Legosignoj">
+<!ENTITY recentHistoryHeader.label   "Ĵusa historio">
+<!ENTITY remoteTabsHeader.label      "Langetoj el aliaj aparatoj">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Plej vizititaj">
+<!ENTITY narrowBookmarksHeader.label     "Legosignoj">
+<!ENTITY narrowRecentHistoryHeader.label "Ĵusa historio">
+<!ENTITY narrowRemoteTabsHeader.label    "Foraj langetoj">
+
+<!ENTITY downloadsHeader.label     "Elŝutoj">
+<!ENTITY downloadShowPage.label    "Iri al paĝo">
+<!ENTITY downloadShow2.label       "Serĉi">
+<!ENTITY downloadOpen2.label       "Malfermi">
+<!ENTITY downloadCancel.label      "Nuligi">
+<!ENTITY downloadPause.label       "Paŭzigi">
+<!ENTITY downloadResume.label      "Daŭrigi">
+<!ENTITY downloadRetry.label       "Klopodi denove">
+<!ENTITY downloadRemove.label      "Forigi">
+<!ENTITY downloadDelete.label      "Forviŝi">
+<!ENTITY downloadFailed.label      "Malsukcesa">
+
+<!ENTITY allBookmarks.label        "Vidi ĉiujn legosignojn">
+
+<!ENTITY consoleHeader.label       "Konzolo de eraroj">
+<!ENTITY consoleAll.label          "Ĉio">
+<!ENTITY consoleErrors.label       "Eraroj">
+<!ENTITY consoleWarnings.label     "Avertoj">
+<!ENTITY consoleMessages.label     "Mesaĝoj">
+<!ENTITY consoleCodeEval.label     "Kodo:">
+<!ENTITY consoleClear.label        "Viŝi">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Fonta dosiero:">
+<!ENTITY consoleErrLine.label      "Linio:">
+<!ENTITY consoleErrColumn.label    "Kolumno:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Eltondi">
+<!ENTITY contextTextCopy.label             "Kopii">
+<!ENTITY contextTextPaste.label            "Alglui">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Alglui kaj viziti">
+<!ENTITY contextTextSelect.label           "Elekti">
+<!ENTITY contextTextSelectAll.label        "Elekti ĉion">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Malfermi ligilon en nova langeto">
+<!ENTITY contextCopyLinkHref.label         "Kopii ligilon">
+<!ENTITY contextBookmarkLinkHref.label     "Legosigno por ligilo">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Konservi en la biblioteko de bildoj">
+<!ENTITY contextCopyImage.label            "Kopii bildon">
+<!ENTITY contextCopyImageLocation.label    "Kopii adreson de bildo">
+<!ENTITY contextOpenImageTab.label         "Malfermi bildon en nova langeto">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Konservi en la biblioteko de filmetoj">
+<!ENTITY contextCopyVideoLocation.label    "Kopii adreson de filmeto">
+<!ENTITY contextOpenVideoTab.label         "Malfermi filmeton en nova langeto">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
