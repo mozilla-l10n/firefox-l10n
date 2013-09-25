@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Søg">
+<!ENTITY newpref.label          "Tilføj en ny præference">
+<!ENTITY addpref.name           "Navn">
+<!ENTITY addpref.value          "Værdi">
+
+<!ENTITY cancel.label           "Fortryd">
+<!ENTITY reset.label            "Nulstil">
+<!ENTITY done.label             "Færdig">
+
+<!ENTITY integer.label          "Heltal">
+<!ENTITY string.label           "Streng">
+<!ENTITY boolean.label          "Boolsk værdi">

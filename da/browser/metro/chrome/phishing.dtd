@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Få mig væk herfra!">
+<!ENTITY safeb.palm.decline.label "Ignorer denne advarsel">
+<!ENTITY safeb.palm.notforgery.label2 "Dette er ikke netsvindel…">
+<!ENTITY safeb.palm.reportPage.label "Hvorfor blev dette websted blokeret?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette websted (<span id='malware_sitename'/> er blevet anmeldt som et angrebswebsted og blokeres i overenstemmelse med dine sikkerhedspræferencer.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Angrebswebsteder forsøger at installere programmer, der stjæler private oplysninger, bruger din computer til at angribe andre eller skader dit system</p><p>Nogle angrebswebsteder distribuerer med forsæt skadelig software, mens andre er blevet kompromitteret uden ejernes viden eller tilladelse.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Mistænkt netsvindel!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Indtastning af personlige oplysninger på dette websted kan resultere i identitetstyveri eller anden svindel">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Denne type forfalskninger bruges i svindelnumre kendt som phisning-angreb, hvor svindelwebsteder og -mails udgiver sig for at være kilder, du stoler på.</p>">

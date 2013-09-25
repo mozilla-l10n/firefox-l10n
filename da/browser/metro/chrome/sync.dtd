@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Få adgang til dine bogmærker, adgangskoder og åbne faneblade på tværs af dine enheder">
+<!ENTITY sync.flyout.presetup.setup.label      "Indstil &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Indstil &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Hvis du har en &syncBrand.shortName.label;-konto skal du vælge &quot;Tilføj enhed&quot; på din anden enhed og indtaste denne kode.">
+<!ENTITY sync.flyout.setup.description2        "Hvis du ikke har en &syncBrand.shortName.label;-konto kan du oprette én i &brandShortName; på din computer.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Jeg er ikke i nærheden af min computer…">
+<!ENTITY sync.flyout.setup.description3        "Bemærk:">
+<!ENTITY sync.flyout.setup.description4_2      "For at finde &quot;Tilføj en enhed&quot; skal du">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Åbne &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og derefter vælge &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Flere &gt; indstillinger &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Indtast din &syncBrand.shortName.label;-kontoinformation og den gendannelsesnøgle, der er blevet oprettet af din computer">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Kontonavn">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Adgangskode">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Gendannelsesnøgle">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Opret forbindelse">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Du har nu forbundet &brandShortName; til din &syncBrand.shortName.label;-konto">
+<!ENTITY sync.flyout.setupsuccess.description2      "Dine &syncBrand.shortName.label;-data bliver nu hentet i baggrunden. Du kan finde dine synkroniserede faneblade på startsiden i  &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; kunne ikke oprette forbindelse til din &syncBrand.shortName.label;-konto.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Fortryd">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Forsøg igen">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Konto:">
+<!ENTITY sync.flyout.connected.device                     "Din enhed:">
+<!ENTITY sync.flyout.connected.disconnect                 "Afbryd forbindelse">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Vil du afbryde din enhed med &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Alle dine personlige data, både på denne enhed og på din &syncBrand.shortName.label;-konto vil forblive intakte.">
+<!ENTITY sync.flyout.connected.cancel                     "Afbryd">
+<!ENTITY sync.flyout.connected.pair                       "Tilføj en enhed">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Du skal vælge &quot;Opsæt  &syncBrand.shortName.label;&quot; på den nye enhed, du vil tilføje, og derefter indtaste den adgangskode, enheden genererer">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Par">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Bemærk:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Sådan finder du adgangskoden">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og følg derefter trinen: &syncBrand.shortName.label; -&gt; Opsæt &syncBrand.shortName.label; -&gt; Jeg har en konto">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mere &gt; Indstillinger &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igen">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Den nye enhed er blevet tilføjet.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Dine &syncBrand.shortName.label;-data bliver hentet i baggrunden. Dine fjern-faneblade kan du finde på startsiden i &brandShortName;.">
