@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Indstillinger">
+<!ENTITY optionsHeader.startup.title                             "Opstart">
+<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; starter, vis">
+<!ENTITY optionsHeader.homepage.startPage.button                 "startsiden">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "faneblade fra sidste gang">
+<!ENTITY optionsHeader.char.title                                "Tegnkodning">
+<!ENTITY optionsHeader.char.autodetect.label                     "Detekter automatisk">
+<!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-baren">
+
+<!ENTITY clearPrivateData.title                                  "Ryd private data">
+<!ENTITY clearPrivateData.label                                  "Ryd din browserhistorik, adgangskoder, cookies og formulardata på denne enhed">
+<!ENTITY clearPrivateData.button                                 "Ryd">
+<!ENTITY clearPrivateData.done                                   "Færdig!">
+<!ENTITY clearPrivateData.history                                "Browserhistorik">
+<!ENTITY clearPrivateData.otherdata                              "Andre data (adgangskoder, cache, cookies, osv.)">
+<!ENTITY clearPrivateData.downloadHist                           "Hent historik">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Webstedsindstillinger">
+<!ENTITY clearPrivateData.formSearchHist                         "Formular- og søgehistorik">
+<!ENTITY clearPrivateData.passwords                              "Gemte adgangskoder">
+<!ENTITY clearPrivateData.offline                                "Offline webstedsdata">
+<!ENTITY clearPrivateData.logins                                 "Aktive login">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Husk adgangskoder">
+<!ENTITY doNotTrack.title                                        "Spor mig ikke">
+<!ENTITY doNotTrack.desc                                         "Fortæl websteder:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Jeg vil ikke spores">
+<!ENTITY doNotTrack.options.noPreference                         "Fortæl ikke om mine præferencer ift. sporing">
+<!ENTITY doNotTrack.options.trackingOkay                         "Jeg vil gerne spores">
+<!ENTITY optionsHeader.reporting.title                           "Fejlrapportering">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; indsender fejlrapporter til Mozilla for at gøre din browser mere stabil og sikker">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                            "Deler data om brug af &brandShortName; med Mozilla for at hjælpe os med at gøre din browser bedre">

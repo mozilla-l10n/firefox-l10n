@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Søg eller indtast en adresse">
+
+<!ENTITY back.label            "Tilbage">
+<!ENTITY forward.label         "Frem">
+<!ENTITY newtab.label          "Nyt faneblad">
+<!ENTITY closetab.label        "Luk fanebladet">
+
+<!ENTITY autocompleteResultsHeader.label  "Dine resultater">
+
+<!ENTITY appbarErrorConsole.label   "Åbn fejlkonsol">
+<!ENTITY appbarJSShell.label        "Åbn JavaScript-kommandolinje">
+<!ENTITY appbarFindInPage2.label    "Find på siden">
+<!ENTITY appbarViewOnDesktop2.label "Se på skrivebord">
+
+<!ENTITY topSitesHeader.label        "Foretrukne websteder">
+<!ENTITY bookmarksHeader.label       "Bogmærker">
+<!ENTITY recentHistoryHeader.label   "Seneste historik">
+<!ENTITY remoteTabsHeader.label      "Faneblade fra andre enheder">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Foretrukne websteder">
+<!ENTITY narrowBookmarksHeader.label     "Bogmærker">
+<!ENTITY narrowRecentHistoryHeader.label "Seneste historik">
+<!ENTITY narrowRemoteTabsHeader.label    "Fjern-faneblade">
+
+<!ENTITY downloadsHeader.label     "Filhentninger">
+<!ENTITY downloadShowPage.label    "Gå til side">
+<!ENTITY downloadShow2.label       "Søg">
+<!ENTITY downloadOpen2.label       "Åbn">
+<!ENTITY downloadCancel.label      "Anuller">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Genoptag">
+<!ENTITY downloadRetry.label       "Prøv igen">
+<!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadDelete.label      "Slet">
+<!ENTITY downloadFailed.label      "Mislykket">
+
+<!ENTITY allBookmarks.label        "Se alle bogmærker">
+
+<!ENTITY consoleHeader.label       "Fejlkonsol">
+<!ENTITY consoleAll.label          "Alle">
+<!ENTITY consoleErrors.label       "Fejl">
+<!ENTITY consoleWarnings.label     "Advarsler">
+<!ENTITY consoleMessages.label     "Beskeder">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Ryd">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kildefil:">
+<!ENTITY consoleErrLine.label      "Linje:">
+<!ENTITY consoleErrColumn.label    "Række:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Klip">
+<!ENTITY contextTextCopy.label             "Kopier">
+<!ENTITY contextTextPaste.label            "Indsæt">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Indsæt &amp; kør">
+<!ENTITY contextTextSelect.label           "Vælg">
+<!ENTITY contextTextSelectAll.label        "Vælg alt">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Åbn link i et nyt faneblad">
+<!ENTITY contextCopyLinkHref.label         "Kopier link">
+<!ENTITY contextBookmarkLinkHref.label     "Bogmærk link">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Gem til billedbibliotek">
+<!ENTITY contextCopyImage.label            "Kopier billede">
+<!ENTITY contextCopyImageLocation.label    "Kopier billedadresse">
+<!ENTITY contextOpenImageTab.label         "Åbn billede i et nyt faneblad">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Gem til videobibliotek">
+<!ENTITY contextCopyVideoLocation.label    "Kopier videoadresse">
+<!ENTITY contextOpenVideoTab.label         "Åbn video i et nyt faneblad">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
