@@ -33,6 +33,6 @@ roder med din forbindelse.</b>">
 <!ENTITY certerror.expert.contentPara2 "Tilføj ikke en undtagelse med mindre du 
 kender en god grund til, hvorfor dette websted ikke bruger sikker identifikation.">
 <!ENTITY certerror.addTemporaryException.label "Besøg webstedet">
-<!ENTITY certerror.addException.label "Tilføj undtagelse…">
+<!ENTITY certerror.addPermanentException.label "Tilføj permanent undtagelse">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljer">
