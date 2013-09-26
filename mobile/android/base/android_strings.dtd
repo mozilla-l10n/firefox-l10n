@@ -226,9 +226,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
 <!ENTITY contextmenu_subscribe "Prihlásiť k odberu">
 <!ENTITY contextmenu_site_settings "Upraviť nastavenia stránky">
-<!ENTITY contextmenu_top_bookmarks_edit "Upraviť">
-<!ENTITY contextmenu_top_bookmarks_pin "Pripnúť stránku">
-<!ENTITY contextmenu_top_bookmarks_unpin "Zrušiť pripnutie stránky">
+<!ENTITY contextmenu_top_sites_edit "Upraviť">
+<!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
+<!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
@@ -236,7 +236,6 @@ size. -->
 
 <!ENTITY history_removed "Stránka odstránená">
 
-<!ENTITY bookmark_add "Pridať záložku">
 <!ENTITY bookmark_edit_title "Úprava záložky">
 <!ENTITY bookmark_edit_name "Názov">
 <!ENTITY bookmark_edit_location "Umiestnenie">
@@ -271,6 +270,11 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 
+<!ENTITY home_top_sites_title "Naj stránky">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Pridať stránku">
+
 <!ENTITY home_history_title "História">
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
@@ -289,7 +293,7 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
 
 <!ENTITY home_most_visited_empty "Tu sa zobrazujú najčastejšie navštevované webové stránky">
-<!ENTITY pin_bookmark_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
+<!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
