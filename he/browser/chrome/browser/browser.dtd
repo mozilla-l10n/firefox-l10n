@@ -300,6 +300,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
+<!ENTITY newPrivateWindow.label     "חלון פרטי חדש">
+<!ENTITY newPrivateWindow.accesskey "פ">
 
 <!ENTITY editMenu.label         "עריכה"> 
 <!ENTITY editMenu.accesskey       "ע"> 
