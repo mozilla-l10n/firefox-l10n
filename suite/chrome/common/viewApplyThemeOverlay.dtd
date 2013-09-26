@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY applyTheme.label	"Použiť tému">
-<!ENTITY applyTheme.accesskey	"t">
-<!ENTITY getNewThemesCmd.label "Získať nové témy">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY getPersonasCmd.label "Získať témy Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
+<!ENTITY applyTheme.label            "Použiť tému">
+<!ENTITY applyTheme.accesskey        "t">
+<!ENTITY getMoreThemesCmd.label      "Získať ďalšie témy">
+<!ENTITY getMoreThemesCmd.accesskey  "Z">
+<!ENTITY getBackgroundsCmd.label     "Získať pozadia">
+<!ENTITY getBackgroundsCmd.accesskey "s">
