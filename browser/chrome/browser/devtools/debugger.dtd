@@ -104,7 +104,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables      "Sélectionner les variables de l'arbre">
-<!ENTITY debuggerUI.focusVariables.key  "v">
+<!ENTITY debuggerUI.focusVariables.key  "l">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
