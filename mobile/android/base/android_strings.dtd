@@ -358,4 +358,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Guest mode -->
 <!ENTITY enter_guest_mode "Gastmodus betreden">
-    1.15 +<!ENTITY exit_guest_mode "Gastmodus verlaten">
+<!ENTITY exit_guest_mode "Gastmodus verlaten">
+<!ENTITY guest_mode_dialog_continue "Doorgaan">
+<!ENTITY guest_mode_dialog_cancel "annuleren">
+<!ENTITY guest_mode_enter_title "Gastmodus">
+<!ENTITY guest_mode_enter_text "Tijdens gastmosus zal de persoon die &brandShortName; gebruikt geen persoonlijke navigatiedata kunnen zien (zoals opgeslagen wachtwoorden, geschiedenis of bladwijzers).\n\nAls uw gast klaar is wordt hun naviagatiedata gewist.">
+
+<!ENTITY guest_mode_leave_title "Gastmodus verlaten">
+<!ENTITY guest_mode_leave_text "&brandShortName; zal de navigatiedata van deze sessie verwijderen.">
