@@ -235,7 +235,10 @@ size. -->
 <!ENTITY reading_list_removed "Pagina van uw leeslijst verwijderd">
 <!ENTITY reading_list_failed "Pagina aan uw leeslijst toevoegen mislukt">
 <!ENTITY reading_list_duplicate "Pagina staat al in uw leeslijst">
-<!ENTITY reader "Lezer">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Alternatieve acties">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
 <!ENTITY masterpassword_remove_title "Hoofdwachtwoord verwijderen">
