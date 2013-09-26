@@ -69,6 +69,9 @@
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
+<!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
+<!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
+<!ENTITY pref_developer_remotedebugging "Remote-debugging">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
