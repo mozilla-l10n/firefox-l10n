@@ -64,7 +64,9 @@
 
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
+<!ENTITY pref_category_advanced "Geavanceerd">
 <!ENTITY pref_category_customize "Aanpassen">
+<!ENTITY pref_category_search2 "Zoekinstellingen">
 <!ENTITY pref_category_display "Weergave">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -73,21 +75,6 @@
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
 <!ENTITY pref_developer_remotedebugging "Remote-debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Meer info">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_search "Zoeken">
-<!ENTITY pref_category_general "Algemeen">
-<!ENTITY pref_category_privacy "Privacy &amp; beveiliging">
-<!ENTITY pref_category_content "Inhoud">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Gegevenskeuzes">
-<!ENTITY pref_header_general "Algemeen">
-<!ENTITY pref_header_privacy "Privacy &amp; beveiliging">
-<!ENTITY pref_header_content "Inhoud">
-<!-- end of old strings -->
 
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
@@ -117,7 +104,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_text_size "Tekstgrootte">
-<!ENTITY pref_reflow_on_zoom3 "Dubbel tikken om tekst aan te passen">
+<!ENTITY pref_reflow_on_zoom4 "Tekst herschikking">
 <!ENTITY pref_restore_session "Tabbladen altijd herstellen">
 <!ENTITY pref_font_size_tiny "Zeer klein">
 <!ENTITY pref_font_size_small "Klein">
