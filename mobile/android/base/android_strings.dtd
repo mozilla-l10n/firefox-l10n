@@ -333,3 +333,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Update voor &brandShortName; beschikbaar">
 <!ENTITY updater_apply_select2 "Raak aan om bij te werken">
+
+<!-- Guest mode -->
+<!ENTITY enter_guest_mode "Gastmodus betreden">
+    1.15 +<!ENTITY exit_guest_mode "Gastmodus verlaten">
