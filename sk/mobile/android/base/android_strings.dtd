@@ -2,13 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
-<!ENTITY  awesomebar_all_pages_title "Top stránky">
-<!ENTITY  awesomebar_bookmarks_title "Záložky">
-<!ENTITY  awesomebar_history_title "História">
-<!ENTITY  awesomebar_switch_to_tab "Prejsť na kartu">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Záložky">
+<!ENTITY  history_title "História">
+<!ENTITY  reading_list_title "Zoznam na prečítanie">
+
+<!ENTITY  switch_to_tab "Prejsť na kartu">
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; zistil problém a zlyhal. Otvorené karty by mali byť po reštart dostupné na Úvodnej stránke &brandShortName;u.">
@@ -29,10 +33,7 @@
 
 <!ENTITY choose_file "Zvoľte súbor">
 
-<!ENTITY awesomebar_default_text "Zadajte adresu alebo vyhľadávanie">
-
-<!ENTITY remote_tabs "Karty zo synchronizácie">
-<!ENTITY remote_tabs_show_all "Zobraziť všetky karty">
+<!ENTITY url_bar_default_text "Zadajte adresu alebo výraz vyhľadávania">
 
 <!ENTITY bookmark "Záložka">
 <!ENTITY bookmark_added "Záložka pridaná">
@@ -70,10 +71,15 @@
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
+<!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
+<!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
-<!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -106,14 +112,12 @@
 <!ENTITY pref_reflow_on_zoom4 "Zaostriť text">
 <!ENTITY pref_restore "Karty">
 <!ENTITY pref_restore_always "Vždy karty">
-<!ENTITY pref_restore_crash "Obnoviť po zlyhaní">
-<!ENTITY pref_restore_never "Nikdy neobnoviť">
+<!ENTITY pref_restore_quit "Neobnovovať po ukončení &brandShortName;u">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
-<!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_font_size_set "Nastaviť">
 
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
@@ -127,6 +131,7 @@ size. -->
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože sme neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosť pre web.">
 
+<!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_show_product_announcements "Zobrazovať oznámenia o produkte">
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
@@ -140,9 +145,21 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
+
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
 <!ENTITY pref_vendor_feedback "Odoslať názor">
+<!ENTITY pref_search_set_default "Nastavený ako predvolený">
+<!ENTITY pref_search_default "Predvolený">
+<!ENTITY pref_search_remove "Odstrániť">
+<!ENTITY pref_search_last_toast "Nie je možné odstrániť alebo zakázať posledný vyhľadávací modul.">
+
+<!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
+<!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
+<!ENTITY datareporting_notification_action "Zvoľte, čo chcete zdieľať">
+<!ENTITY datareporting_notification_summary "Na zlepšenie zážitku z prehliadania &brandShortName; automaticky odosiela informácie spoločnosti &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Na zlepšenie zážitku z prehliadania…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -161,13 +178,6 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
 <!ENTITY datareporting_wifi_title "Služby zisťovania polohy &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Pomáha zlepšovať služby zisťovania polohy pre otvorený web tým, že umožňuje prehliadaču &brandShortName; zbierať a odosielať anonymné celulárne informácie.">
-
-<!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
-<!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
-<!ENTITY datareporting_notification_action "Zvoľte, čo chcete zdieľať">
-<!ENTITY datareporting_notification_summary "Na zlepšenie zážitku z prehliadania &brandShortName; automaticky odosiela informácie spoločnosti &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Na zlepšenie zážitku z prehliadania…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizácie">
 <!ENTITY pref_update_autodownload_wifi "Len cez sieť Wi-Fi">
@@ -207,8 +217,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
-<!ENTITY contextmenu_remove_history "Odstrániť">
-<!ENTITY contextmenu_remove_bookmark "Odstrániť">
+<!ENTITY contextmenu_remove "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
 <!ENTITY contextmenu_pasteandgo "Prilepiť a prejsť">
@@ -217,6 +226,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
 <!ENTITY contextmenu_subscribe "Prihlásiť k odberu">
 <!ENTITY contextmenu_site_settings "Upraviť nastavenia stránky">
+<!ENTITY contextmenu_top_bookmarks_edit "Upraviť">
+<!ENTITY contextmenu_top_bookmarks_pin "Pripnúť stránku">
+<!ENTITY contextmenu_top_bookmarks_unpin "Zrušiť pripnutie stránky">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
@@ -224,6 +236,7 @@ size. -->
 
 <!ENTITY history_removed "Stránka odstránená">
 
+<!ENTITY bookmark_add "Pridať záložku">
 <!ENTITY bookmark_edit_title "Úprava záložky">
 <!ENTITY bookmark_edit_name "Názov">
 <!ENTITY bookmark_edit_location "Umiestnenie">
@@ -236,7 +249,6 @@ size. -->
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
-<!ENTITY reading_list "Zoznam na prečítanie">
 <!ENTITY reading_list_added "Stránka pridaná do Zoznamu na prečítanie">
 <!ENTITY reading_list_removed "Stránka bola odstránená zo Zoznamu na prečítanie">
 <!ENTITY reading_list_failed "Pridanie stránky do Zoznamu na prečítanie sa nepodarilo">
@@ -259,28 +271,25 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 
-<!ENTITY abouthome_addons_title "Doplnky pre váš &brandShortName;">
-<!ENTITY abouthome_addons_browse "Prehľadávať všetky doplnky pre &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Vaše karty z poslednej relácie">
-<!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
-<!ENTITY abouthome_top_sites_title "Najlepšie stránky">
-<!ENTITY abouthome_topsites_edit "Upraviť">
-<!ENTITY abouthome_topsites_pin "Pripnúť stránku">
-<!ENTITY abouthome_topsites_unpin "Zrušiť pripnutie">
+<!ENTITY home_history_title "História">
+<!ENTITY home_last_tabs_title "Karty z poslednej relácie">
+<!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
+<!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
+<!ENTITY home_most_recent_title "Najnovšie">
+<!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
+<!ENTITY home_most_visited_title "Najnavštevovanejšie">
+<!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním ikony &#37;I, keď sa táto zobrazí v titulku okna.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
 
-<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Tu sa zobrazujú najčastejšie navštevované webové stránky">
+<!ENTITY pin_bookmark_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
@@ -323,6 +332,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Chcete zapnúť zobrazovanie návrhov vyhľadávania v module &formatS;?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Vyhľadať &formatS2; pomocou &formatS1;">
 
 <!ENTITY webapp_generic_name "Aplikácia">
 

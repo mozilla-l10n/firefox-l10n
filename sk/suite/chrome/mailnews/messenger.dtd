@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Všetky">
 <!ENTITY all.accesskey "V">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; si myslí, že táto správa je nevyžiadaná">
-<!ENTITY junkBarButton.label "Nie je nevyžiadaná">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Na ochranu vášho súkromia &brandShortName; blokuje v tejto správe načítavanie vzdialených obrázkov.">
-<!ENTITY loadRemoteContentButton.label "Zobraziť vzdialený obsah">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; si myslí, že táto správa je podozrivá.">
-<!ENTITY removePhishingBarButton.label "Dôveryhodná">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorovať žiadosť">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Odoslať potvrdenie">
-<!ENTITY mdnBarSendButton.accesskey "s">

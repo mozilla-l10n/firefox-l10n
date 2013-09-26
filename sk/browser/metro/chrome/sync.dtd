@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Pristupujte k svojim záložkám, heslám a otvoreným kartám z viacerých zariadení">
+<!ENTITY sync.flyout.presetup.setup.label      "Nastavte si &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Nastavenie služby &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Ak už máte účet služby &syncBrand.shortName.label;, zvoľte &quot;Spárovať zariadenie&quot; na vašom ďalšom zariadení a zadajte tento kód.">
+<!ENTITY sync.flyout.setup.description2        "Ak ešte nemáte účet služby &syncBrand.shortName.label;, môžete si ho vytvoriť v klasickej verzii prehliadača &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Nie som pri mojom počítači…">
+<!ENTITY sync.flyout.setup.description3        "Tip:">
+<!ENTITY sync.flyout.setup.description4_2      "Ak chcete nájsť položku &quot;Spárovať zariadenie&quot;:">
+<!ENTITY sync.flyout.setup.description5_2      "[Počítač] Otvoriť okno &quot;Možnosti&quot; a zvoľte panel &quot;Synchronizácia&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Ponuka &gt; Nastavenia &gt; Synchronizácia">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Zadajte údaje o vašom účte &syncBrand.shortName.label; a Obnovovací kľúč vygenerovaný vašim počítačom">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Názov účtu">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Heslo">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Obnovovací kľúč">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Pripojiť">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Prehliadač &brandShortName; sa práve pripojil k účtu služby &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Vaše údaje z konta &syncBrand.shortName.label; sú teraz preberané na pozadí. Karty zo synchronizácie nájdete na Úvodnej stránke &brandShortName;u">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; sa nemohol pripojiť k vášmu účtu služby &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Zrušiť">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Skúsiť znova">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Účet:">
+<!ENTITY sync.flyout.connected.device                     "Vaše zariadenie:">
+<!ENTITY sync.flyout.connected.disconnect                 "Odpojiť">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Odpojiť vaše zariadenie zo služby &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Všetky vaše osobné údaje na tomto zariadení aj na konte služby &syncBrand.shortName.label; zostanú nedotknuté.">
+<!ENTITY sync.flyout.connected.cancel                     "Zrušiť">
+<!ENTITY sync.flyout.connected.pair                       "Spárovať zariadenie">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Na novom zariadení, ktoré chcete spárovať, zvoľte položku &quot;Nastaviť službu &syncBrand.shortName.label;&quot; a zadajte kód, ktorý zariadenie vygeneruje.">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Spárovať">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Tip:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Ak chcete nájsť kód:">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Počítač] Otvorte okno &quot;Možnosti&quot;, prepnite sa na panel &quot;Synchronizácia&quot; a zvoľte Nastaviť službu Firefox Sync -&gt; Už mám účet">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Ponuka &gt; Nastavenia &gt; Synchronizácia">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Skúste to znova">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Nové zariadenie bolo úspešne pridané">
+<!ENTITY sync.flyout.pairSuccess.description2             "Vaše údaje z konta &syncBrand.shortName.label; sú teraz preberané na pozadí. Karty zo synchronizácie nájdete na Úvodnej stránke &brandShortName;u">

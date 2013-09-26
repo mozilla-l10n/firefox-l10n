@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "V">
 <!ENTITY composeButton.label         "Nová správa">
 <!ENTITY composeButton.accesskey     "N">
+<!ENTITY deleteCardButton.label      "Odstrániť">
+<!ENTITY deleteCardButton.accesskey  "d">
 <!ENTITY abSearchDialogTitle.label   "Pokročilé hľadanie v adresári">
 
 <!-- Thread Pane -->
