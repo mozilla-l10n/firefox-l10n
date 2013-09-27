@@ -1,0 +1,85 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Қолданбалар басқарушысы">
+<!ENTITY index.projects2 "Қолданбалар">
+<!ENTITY index.device2 "Құрылғы">
+<!ENTITY index.help "Көмек">
+
+<!ENTITY device.screenshot "Скриншот">
+
+
+
+<!ENTITY device.startApp "Бастау">
+
+<!ENTITY device.stopApp "Тоқтату">
+
+
+
+<!ENTITY device.name "Аты">
+
+
+
+<!ENTITY device.allow "Рұқсат ету">
+
+<!ENTITY device.prompt "Сұрау">
+
+<!ENTITY device.deny "Тыйым салу">
+
+<!ENTITY device.installedApps "Орнатылған қолданбалар">
+
+<!ENTITY device.permissions "Рұқсаттар">
+
+
+<!ENTITY device.help "Көмек">
+
+<!ENTITY connection.connectTooltip "Құрылғыға байланысу.">
+
+
+<!ENTITY connection.notConnected2 "Байланыс жоқ.">
+<!ENTITY connection.connectTo "Келесіге қосылу:">
+
+<!ENTITY connection.changeHostAndPort "Өзгерту">
+
+
+
+<!ENTITY connection.saveConnectionInfo "Сақтау">
+
+<!ENTITY connection.connecting "Байланысуда…">
+
+<!ENTITY connection.cancel "Бас тарту">
+
+
+
+
+
+
+<!ENTITY connection.installAnotherSimulator "Қосу">
+
+
+<!ENTITY projects.localApps "Жергілікті қолданбалар">
+<!ENTITY projects.addApp "Қосу">
+<!ENTITY projects.addPackaged "Дестеленген қолданбаны қосу">
+<!ENTITY projects.addPackagedTooltip "Компьютеріңізден жаңа дестеленген (бума) қолданбаны қосу.">
+
+
+<!ENTITY projects.title "Жергілікті қолданбалар">
+<!ENTITY projects.appDetails "Қолданба ақпараты">
+
+<!ENTITY projects.updateApp "Жаңарту">
+
+
+
+
+
+
+<!ENTITY help.title "Қолданбалар басқарушысы">
+<!ENTITY help.close "Жабу">
+
+<!ENTITY help.usefullLinks "Пайдалы сілтемелер:">
+
+
+
+
+
