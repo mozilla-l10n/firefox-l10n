@@ -24,8 +24,8 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; بلا منافع Mozilla Foundation کی طرف سے مفت اور کھلا ماخذ سافٹ ویئر ہے۔ <a>…اپنے حقوق جانیئے</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "نشانیاں">
-<!ENTITY abouthome.historyButton.label   "سابقات">
+<!ENTITY abouthome.bookmarksButton.label "کتابی نشانات">
+<!ENTITY abouthome.historyButton.label   "تاریخچہ">
 <!ENTITY abouthome.settingsButton.label  "سیٹنگیں">
 <!ENTITY abouthome.addonsButton.label    "ایڈ اون">
 <!ENTITY abouthome.appsButton.label      "مارکیٹ">

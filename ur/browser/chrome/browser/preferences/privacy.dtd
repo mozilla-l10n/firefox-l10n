@@ -14,7 +14,7 @@
 
 <!ENTITY  history.label                 "سابقات">
 
-<!ENTITY  locationBar.label             "محل وقوع بار">
+<!ENTITY  locationBar.label             "مقام بند">
 
 <!ENTITY  locbar.pre.label              "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
 <!ENTITY  locbar.pre.accessKey          "ا">

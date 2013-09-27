@@ -31,6 +31,9 @@
 
 <!ENTITY debuggerUI.pauseExceptions     "استثنیات پر توقف کریں">
 
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 

@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "رسپانسو ڈیزائن نظارہ">
 <!ENTITY responsiveDesignTool.accesskey "ر">
-<!ENTITY responsiveDesignTool.commandkey "م">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
 <!ENTITY devToolbarMenu.accesskey          "ڈ">
+<!ENTITY devAppMgrMenu.label               "ایپلیکیشن مینیجر">
+<!ENTITY devAppMgrMenu.accesskey           "ا">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ٹوگل ٹول">
@@ -564,7 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "ت">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "صفحے کی سمت سوئچ کریں">
+<!ENTITY bidiSwitchPageDirectionItem.label        "صفحے کی سمت تبدیل کریں">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "س">
 <!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت بدلیں کریں">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ب">
@@ -643,10 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "چ">
 <!ENTITY social.chatBar.label "بات چیت پر فوکس لائیں">
 <!ENTITY social.chatBar.accesskey "ف">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "م">
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "صفحہ محفوظ کریں ...">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "کڑی محفوظ کریں">
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">
@@ -668,6 +671,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "اب اجازت دیں">
 <!ENTITY pluginActivateAlways.label "اجازت دیں اور یاد رکھيں">
 <!ENTITY pluginBlockNow.label "بلاکپلگ ان">
+
+<!ENTITY tabCrashed.header "صفحہ ٹوٹ گیا">
+<!ENTITY tabCrashed.message "ہم شرمندہ ہیں کا ہم تکنیکی وجوہات کی بناء پر یہ صفحہ نہیں دکھا سکے-">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; کواس خرابی کے بارے میں بتائیں تاکہ وہ ٹھیک کر سکے-">
+<!ENTITY tabCrashed.tryAgain "دوبارہ کوشش کریں">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

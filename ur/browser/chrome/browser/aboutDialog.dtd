@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; کے متعلق">
+<!ENTITY aboutDialog.title          "کے بارے میںبرانڈ کا پورا نام; ">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔">
+<!ENTITY warningDesc.version        "تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔برانڈ مختصرنام; ">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "یہ &brandShortName; کو بہتر بنانے کے لیے &vendorShortName; کو پرفارمنس، ہارڈ ویئر، استعمال اور تخصیص کاری کے بارے میں خود بخود معلومات بھیجتا ہے۔">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
@@ -12,18 +12,18 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "ایک">
+<!ENTITY community.exp.middle       "ہے ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
-<!ENTITY community.exp.end          " جو ویب کو کھلا، عوامی اور ہر ایک کے کے رسائی پزیر رکھنے کے لیے کام کر رہی ہے۔">
+<!ENTITY community.exp.creditsLink  "دنیائ حلقہ">
+<!ENTITY community.exp.end          "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
-<!ENTITY community.start2           "&brandShortName; ڈیزائن بمطابق:">
+<!ENTITY community.start2           "&brandShortName; کے ڈیزائنر ہیں">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، ایک">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "ہمہ گیر حلقہ">
-<!ENTITY community.end3             " ویب کو کھلا، عوامی اور سب کے لیے رسائی پزیر بنانے کے لیے اکٹھے کام کر رہی ہے۔">
+<!ENTITY community.creditsLink      "دنیائ حلقہ">
+<!ENTITY community.end3             "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY contribute.start           "دلچسپ لگا؟">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "اضافہ کی موازنت کی پڑتال کر رہا ہے۔۔۔">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
+<!ENTITY update.noUpdatesFound      "برانڈ کا مختصر نام; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -81,7 +81,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "تازہ کاری  ڈاؤن لوڈ کر رہا ہے —">
+<!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے-">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "تازہ کاری لگائیں ...">

@@ -7,7 +7,7 @@
 <!ENTITY dialog.title            "سافٹ ویئر تنصیب">
 <!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "ایڈ اون صرف ان مصنفین سے تنصیب کریں جن پر آپ کو بھروسا ہو۔">
-<!ENTITY warningSecondary.label  "مضر سافٹ ویئر آپ کے کمپیوٹر کو تقصان پہنچا سکتا ہے یا آپ کی پرائوسی کی خلاف ورزی کر ستکا ہے۔">
+<!ENTITY warningSecondary.label  "تخریبی سافٹ ویئر آپ کے کمپیوٹر کو تقصان پہنچا سکتا ہے یا آپ کی پوشیدہ معلومات کی خلاف ورزی کر سکتا ہے۔">
 
 <!ENTITY from.label "از:">
 

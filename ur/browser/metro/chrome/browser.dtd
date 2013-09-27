@@ -1,0 +1,90 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "متلاشی لفظ یا پتہ داخل کریں">
+
+<!ENTITY back.label            "پیچھے">
+<!ENTITY forward.label         "آگے">
+<!ENTITY newtab.label          "نیا صفحہ بند">
+<!ENTITY closetab.label        "صفحہ بند, بند کر دیں">
+
+
+
+<!ENTITY appbarFindInPage2.label    "صفحہ میں ڈھونڈیں">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "کھولیں">
+<!ENTITY downloadCancel.label      "منسوخ کریں">
+
+<!ENTITY downloadResume.label      "پھر جاری کریں">
+<!ENTITY downloadRetry.label       "پھر کوشش کریں">
+<!ENTITY downloadRemove.label      "ہٹائیں">
+
+<!ENTITY downloadFailed.label      "ناکام">
+
+
+<!ENTITY consoleAll.label          "تمام">
+
+<!ENTITY consoleWarnings.label     "تنبیہات">
+
+
+<!ENTITY consoleClear.label        "صاف کریں">
+
+<!ENTITY consoleErrFile.label      "ماخذ مسل:">
+<!ENTITY consoleErrLine.label      "لائن:">
+<!ENTITY consoleErrColumn.label    "کالم:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "کاٹیں">
+<!ENTITY contextTextCopy.label             "نقل کریں">
+<!ENTITY contextTextPaste.label            "جوڑیں">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "منتخب کریں">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

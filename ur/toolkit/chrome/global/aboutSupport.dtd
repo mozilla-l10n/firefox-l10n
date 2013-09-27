@@ -22,7 +22,7 @@
 "Update" is a noun here, not a verb. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateHistory "سابقات تازہ کریں">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "تازہ ترین تاریخ دکھائیں">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "تبدیلیوں کی تاریخ دکھائیں">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "پروفائل ڈائریکٹری">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

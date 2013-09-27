@@ -130,13 +130,17 @@
   -  on the context menu that copies the selected request's url -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend): This is the label displayed
-  -  on the button in the headers tab that opens a form to resend the currently
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
+  -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
-
-<!ENTITY netmonitorUI.summary.resend      "دوبارہ بھیجیں">
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend.accesskey): This is the access key
-  -  for the Resend menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
+  -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container  -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed

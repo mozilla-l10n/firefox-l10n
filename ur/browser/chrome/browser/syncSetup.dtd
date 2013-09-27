@@ -42,9 +42,9 @@
 <!ENTITY setup.tosAgree1.accesskey  "م">
 <!ENTITY setup.tosLink.label        "سروس اصطلاح">
 <!ENTITY setup.tosAgree2.label      "اور">
-<!ENTITY setup.ppLink.label         "پالیسی نجی نوعیت">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.ppLink.label         "ذاتی معلومات کی پالیسی">
+<!ENTITY setup.tosAgree3.label      "میں مانتا ہوں">
+<!ENTITY setup.tosAgree2.accesskey  "م">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; آپ کی پرائیوسی کا تحفظ کرتا ہے">

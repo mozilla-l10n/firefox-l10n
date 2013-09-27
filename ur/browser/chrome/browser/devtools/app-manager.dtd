@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY index.projects2 "عملیات">
+<!ENTITY index.device2 "آلہ">
+
+
+<!ENTITY device.screenshot "عکس">
+<!ENTITY device.screenshotTooltip "آلہ کے موجودہ حالات کی سکرین شاٹ نئی ٹیب میں کھولیں ">
+
+
+
+
+<!ENTITY device.stopApp "رکیں">
+
+
+
+<!ENTITY device.name "نام">
+
+
+
+<!ENTITY device.allow "ہونے دیں">
+
+<!ENTITY device.prompt "لقمیا">
+
+<!ENTITY device.deny "انکار کریں">
+
+
+
+<!ENTITY device.permissions "اجازتیں">
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.changeHostAndPort "تبدیل کریں">
+
+
+
+<!ENTITY connection.saveConnectionInfo "محفوظ کریں">
+
+<!ENTITY connection.connecting "جوڑ رہا ہے…">
+
+<!ENTITY connection.cancel "منسوخ کریں">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "تازہ کاری کریں">
+
+
+
+
+
+
+<!ENTITY help.close "بند کریں">
+
+
+
+
+
+
+

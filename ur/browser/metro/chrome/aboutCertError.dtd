@@ -18,7 +18,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "آپ نے &brandShortName; سے <b>#1</b> تک 
 قابل اعتبار رابطے کی خواہش کی ہے، پر ہم تصدیق نہیں کر سکتے کہ آپ کا رابطہ محفوظ ہے-">
 
-
 <!ENTITY certerror.whatShouldIDo.heading "میں کیا کروں؟">
 <!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو
 اس خرابی کا مطلب ہے کوئی آپ کا بہروپ
@@ -32,6 +31,7 @@ was trying to connect. -->
 کوئی آپکے رابطے کو غضب کررہاہے</b>">
 <!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں
 ناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں-">
-<!ENTITY certerror.addException.label "اکسیپشن اضافہ کریں">
+<!ENTITY certerror.addTemporaryException.label "ویب سائٹ دیکھیں">
+<!ENTITY certerror.addPermanentException.label "مستقل استثنیٰ شامل کریں">
 
 <!ENTITY certerror.technical.heading "تکنیکی تفاصیل">
