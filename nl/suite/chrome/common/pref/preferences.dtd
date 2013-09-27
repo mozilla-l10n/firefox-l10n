@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label "Hoofdwachtwoorden">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificaten">
-<!ENTITY validation.label "Validatie">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Geavanceerd">
 <!ENTITY down.label "Downloaden">
