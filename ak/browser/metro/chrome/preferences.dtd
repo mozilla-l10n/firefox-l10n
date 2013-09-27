@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Nɔphyɛn">
+<!ENTITY optionsHeader.startup.title                             "Nhyɛase">
+
+
+
+<!ENTITY optionsHeader.char.title                                "Akyerɛwde ndanee">
+
+
+
+
+<!ENTITY clearPrivateData.button                                 "Pepa">
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "nkuki">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "Egyae-yɛ amaneɛbɔ-ni">
+
+<!ENTITY optionsHeader.telemetry.title                            "Tɛlimɛtri">
+

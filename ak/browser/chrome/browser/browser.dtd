@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Disaen nhwɛ a ɔmma wo adehye mmbrɛ ansaana wɔahwɛ kɔntɛnt">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "To sɔftwɛɛ bɔfo tuulbaa mu">
 <!ENTITY devToolbarMenu.label              "Sɔftwɛɛ bɔfo tuulbaa">
 <!ENTITY devToolbarMenu.accesskey          "b">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tɔgel Adwumayɛde">
@@ -643,10 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fa nkɔmbɔ bra enim">
 <!ENTITY social.chatBar.accesskey "b">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Mfonin-fidie a wo pɛ sɛ wo kyɛ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
@@ -668,6 +670,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Ma ho kwan seiseira">
 <!ENTITY pluginActivateAlways.label "Ma ho kwan na kae">
 <!ENTITY pluginBlockNow.label "Siw plagin ano kwan">
+
+
+
+<!ENTITY tabCrashed.tryAgain "San Sɔ Hwɛ">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

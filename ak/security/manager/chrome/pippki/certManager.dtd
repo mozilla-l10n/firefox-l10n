@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "Sesa Bambɔ Abodin krataa Nhyehyɛe">
 <!ENTITY certmgr.editcacert.title             "Sesa CA abodin krataa agyedi nhyehyɛe">
-
 <!ENTITY certmgr.editcert.edittrust           "Sesa agyedi nhyehyɛe:">
 
 <!ENTITY certmgr.editcert.trustemail          "Saa abodin krataa yi betumi akyerɛ emel dwumadifo.">
 <!ENTITY certmgr.editcert.trustobjsign        "Saa abodin krataa yi betumi akyerɛ sɔftwɛɛ yɛfo.">
-<!ENTITY certmgr.editsslcert.edittrust        "Sesa abodin krataa agyedi nhyehyɛe:">
-<!ENTITY certmgr.editsslcert.dotrust          "Gye abodin krataa yi papayɛ di.">
-<!ENTITY certmgr.editsslcert.donttrust        "Ngye abodin krataa yi papayɛ ndi.">
 <!ENTITY certmgr.editemailcert.title          "Sesa abodin krataa yi emel agyedi nhyehyɛe">
-<!ENTITY certmgr.editemailcert.edittrust      "Sesa abodin krataa agyedi nhyehyɛe:">
-<!ENTITY certmgr.editemailcert.dotrust        "Gye abodin krataa yi papayɛ di.">
-<!ENTITY certmgr.editemailcert.donttrust      "Ngye abodin krataa yi papayɛ ndi.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "Diliite Abodin krataa">
 <!ENTITY certmgr.deletecert.beforename        "Woebisa sɛ wobɛ diliite saa abodin krataa yi:">
