@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "E-mail ophalen">
+<!ENTITY getMsgButton1.label "Berichten ophalen">
 <!ENTITY newMsgButton.label "Opstellen">
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
