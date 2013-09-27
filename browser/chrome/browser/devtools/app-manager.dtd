@@ -62,8 +62,8 @@
 <!ENTITY projects.addApp "Agregar">
 <!ENTITY projects.addPackaged "Agregar aplicaciones empaquetadas">
 <!ENTITY projects.addPackagedTooltip "Agregar nuevas aplicaciones empaquetadas (un directorio) de tu computadora.">
-
-
+<!ENTITY projects.addHosted "Agregar aplicación alojada">
+<!ENTITY projects.addHostedTooltip "Agregar una nueva aplicación alojada (enlace al archivo manifest.webapp) de un sitio web remoto.">
 <!ENTITY projects.title "Aplicaciones locales">
 <!ENTITY projects.appDetails "Detalles de la aplicación">
 <!ENTITY projects.removeAppFromList "Remover esta aplicacion de la lista de aplicaciones que estás trabajando. Esto no la removerá del dispositivo o el simulador.">
