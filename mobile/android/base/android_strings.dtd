@@ -112,7 +112,7 @@ TIP: Add any website to your list of search providers by long-pressing on its se
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
-<!ENTITY pref_reflow_on_zoom4 "Stažením prstů formátovat text">
+<!ENTITY pref_reflow_on_zoom4 "Přeformátovávat text">
 <!ENTITY pref_restore "Panaly">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
@@ -134,7 +134,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
-<!ENTITY pref_show_product_announcements "Zobrazit produktová oznámení">
+<!ENTITY pref_show_product_announcements "Produktová oznámení">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Importovat z Androidu">
