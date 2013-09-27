@@ -26,7 +26,7 @@
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "ព្យាយាម​ម្តងទៀត">
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "ផ្តាច់​">
 
 
 
