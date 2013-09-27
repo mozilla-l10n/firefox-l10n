@@ -145,11 +145,6 @@ size. -->
 <!ENTITY pref_vendor_faqs "FAQ\'s">
 <!ENTITY pref_vendor_feedback "Feedback geven">
 
-<!ENTITY pref_search_set_default "Als standaard instellen">
-<!ENTITY pref_search_default "Standaard">
-<!ENTITY pref_search_remove "Verwijderen">
-<!ENTITY pref_search_last_toast "U kunt uw laatste zoekmachine niet verwijderen of uitschaken.">
-
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Kies welke informatie u wilt delen">
 <!ENTITY datareporting_notification_action "Kies wat u wilt delen">
