@@ -75,7 +75,6 @@
 <!ENTITY options.disableJavaScript.label2    "Désactiver JavaScript">
 <!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l'onglet courant. Ce paramètre sera oublié à la fermeture de l'onglet ou de la boîte à outils.">
 
-
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
