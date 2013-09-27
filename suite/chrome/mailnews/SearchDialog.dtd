@@ -10,6 +10,10 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchLocalSystem.label     "Lokaal systeem doorzoeken">
 <!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchOnHeading.label       "Zoekbewerking uitvoeren op:">
+<!ENTITY searchOnHeading.accesskey   "Z">
+<!ENTITY searchOnRemote.label        "Externe server">
+<!ENTITY searchOnLocal.label         "Lokaal systeem">
 <!ENTITY resetButton.label           "Wissen">
 <!ENTITY resetButton.accesskey       "W">
 <!ENTITY openButton.label            "Openen">
