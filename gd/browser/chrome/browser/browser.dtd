@@ -647,7 +647,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "C">
 
 <!ENTITY social.markpageMenu.accesskey "d">
-<!ENTITY social.markpageMenu.label "Sàbhail an duilleag ann an...">
+<!ENTITY social.markpageMenu.label "Sàbhail an duilleag ann an…">
 <!ENTITY social.marklinkMenu.accesskey "l">
 <!ENTITY social.marklinkMenu.label "Sàbhail an ceangal ann an…">
 
