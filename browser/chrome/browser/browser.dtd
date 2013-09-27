@@ -250,8 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Geliştirici araç çubuğunu kapat">
 <!ENTITY devToolbarMenu.label              "Geliştirici araç çubuğu">
 <!ENTITY devToolbarMenu.accesskey          "G">
-
-
+<!ENTITY devAppMgrMenu.label               "Uygulama Yöneticisi">
+<!ENTITY devAppMgrMenu.accesskey           "U">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Araçları aç/kapat">
@@ -671,9 +671,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "İzin ver ve hatırla">
 <!ENTITY pluginBlockNow.label "Yan uygulamayı engelle">
 
-
-
-
+<!ENTITY tabCrashed.header "Sekme çöktü">
+<!ENTITY tabCrashed.message "Söylemekten utanıyoruz ama... Görüntülemeye çalıştığınız bu sayfa yanıt vermiyor.">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; bu çökmeden haberdar edilsin ki sorunu düzeltebilsin.">
+<!ENTITY tabCrashed.tryAgain "Yeniden dene">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
