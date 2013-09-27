@@ -12,6 +12,6 @@
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-<!ENTITY aboutAddons.goBackToStartStart "Till gun">
-<!ENTITY aboutAddons.goBacktoStartLink  "duilleag tòiseachaidh aig &brandFullName;">
+<!ENTITY aboutAddons.goBackToStartStart "Till gun ">
+<!ENTITY aboutAddons.goBacktoStartLink  "duilleag tòiseachaidh aig &brandShortName;">
 

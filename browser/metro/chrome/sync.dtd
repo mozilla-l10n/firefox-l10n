@@ -15,7 +15,7 @@
 <!ENTITY sync.flyout.setup.description2        "Mur eil cunntas &syncBrand.shortName.label; agad, 's urrainn dhut fear a chruthachadh sa bhrabhsair &brandShortName; agad air an deasg.">
 <!ENTITY sync.flyout.setup.manual.label_2      "Chan eil mi faisg air a' choimpiutair agam…">
 <!ENTITY sync.flyout.setup.description3        "An aire:">
-<!ENTITY sync.flyout.setup.description4_2      "Seo far a bheil &quot;Paidhrich uidheam&quot;:">
+<!ENTITY sync.flyout.setup.description4_2      "Seo far a bheil &quot;Paidhrich uidheam&quot;,">
 <!ENTITY sync.flyout.setup.description5_2      "[Air an deasga] Fosgail na &quot;Roghainnean&quot; agus tagh &quot;&syncBrand.shortName.label;&quot;">
 <!ENTITY sync.flyout.setup.description6_2      "[Air Android] Barrachd &gt; Roghainnean &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
