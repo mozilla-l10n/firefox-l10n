@@ -137,7 +137,7 @@ size. -->
 <!ENTITY pref_show_product_announcements "Produktová oznámení">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
-<!ENTITY pref_import_android "Importovat z Androidu">
+<!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_private_data_history "Historie a stahování">
 <!ENTITY pref_private_data_formdata "Formuláře a hledání">
 <!ENTITY pref_private_data_cookies2 "Cookies a přihlášení">
