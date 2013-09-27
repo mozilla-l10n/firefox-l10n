@@ -168,7 +168,7 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "Hlášení o zdraví aplikace &brandShortName;">
+<!ENTITY datareporting_fhr_title "Zdraví aplikace &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Sdílí data o zdraví vašeho prohlížeče s organizací &vendorShortName; a pomáhá vám porozumět výkonu vašeho prohlížeče">
 <!ENTITY datareporting_abouthr_title "Zobrazit mé Hlášení o zdraví">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
