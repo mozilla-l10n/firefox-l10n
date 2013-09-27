@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey            "D">
 <!ENTITY mediaUnmute.label              "Dempen uitschakelen">
 <!ENTITY mediaUnmute.accesskey          "D">
+<!ENTITY mediaPlaybackRate.label        "Afspeelsnelheid">
+<!ENTITY mediaPlaybackRate.accesskey    "l">
+<!ENTITY mediaPlaybackRate050.label     "Slow Motion (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate100.label     "Normale snelheid">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Hoge snelheid (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "H">
+<!ENTITY mediaPlaybackRate200.label     "Dubbele snelheid">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label        "Bedieningsknoppen tonen">
 <!ENTITY mediaShowControls.accesskey    "C">
 <!ENTITY mediaHideControls.label        "Bedieningsknoppen verbergen">
