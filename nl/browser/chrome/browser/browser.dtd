@@ -483,7 +483,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "D">
 <!ENTITY mediaUnmute.label           "Dempen uitschakelen">
 <!ENTITY mediaUnmute.accesskey       "D">
-<!ENTITY mediaPlaybackRate.label     "Afspeel snelheid">
+<!ENTITY mediaPlaybackRate.label     "Afspeelsnelheid">
 <!ENTITY mediaPlaybackRate.accesskey "l">
 <!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
