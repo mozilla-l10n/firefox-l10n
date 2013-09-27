@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Баптаулар">
+<!ENTITY optionsHeader.startup.title                             "Қосылу">
+<!ENTITY optionsHeader.homepage.title                            "&brandShortName; іске қосылу кезінде, көрсету">
+
+
+<!ENTITY optionsHeader.char.title                                "Кодталуы">
+<!ENTITY optionsHeader.char.autodetect.label                     "Автоанықтау">
+
+
+
+<!ENTITY clearPrivateData.button                                 "Тазарту">
+<!ENTITY clearPrivateData.done                                   "Дайын!">
+<!ENTITY clearPrivateData.history                                "Қаралған беттер тарихы">
+
+
+<!ENTITY clearPrivateData.cookies                                "Куки">
+<!ENTITY clearPrivateData.cache                                  "Веб кэші">
+<!ENTITY clearPrivateData.sitePref                               "Сайт баптаулары">
+<!ENTITY clearPrivateData.formSearchHist                         "Формалардың іздеу тарихы">
+<!ENTITY clearPrivateData.passwords                              "Сақталып тұрған парольдер">
+<!ENTITY clearPrivateData.offline                                "Веб сайттардың дербес ақпараты">
+
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Парольдерді сақтау">
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "Құлау хабаршысы">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; браузеріңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды Mozilla адресіне жібереді">
+<!ENTITY optionsHeader.telemetry.title                            "Телеметрия">
+
