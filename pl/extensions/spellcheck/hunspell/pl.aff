@@ -1,7 +1,3 @@
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
 SET ISO8859-2
 TRY aioeznrwcysptkmd³ulj±gbhê¶æó¿fñ¼vqxAIOEZNRWCYSPTKMD£ULJ¡GBHÊ¦ÆÓ¯FÑ¬VQX
 
@@ -4616,7 +4612,7 @@ SFX A   ie¶       sie       wie¶
 SFX A   0         e         z
 
 SFX N Y 24
-SFX N   0         om        [^aæño¶¼x]
+SFX N   0         om        [^aæño¶¼]
 SFX N   a         om        a
 SFX N   æ         ciom      æ
 SFX N   ñ         niom      ñ
@@ -4624,7 +4620,7 @@ SFX N   0         m         o
 SFX N   ¶         siom      ¶
 SFX N   x         ksom      x
 SFX N   ¼         ziom      ¼
-SFX N   0         ami       [^aæño¶¼x]
+SFX N   0         ami       [^aæño¶¼]
 SFX N   0         mi        a
 SFX N   æ         ciami     æ
 SFX N   ñ         niami     ñ
@@ -4632,7 +4628,7 @@ SFX N   o         ami       o
 SFX N   ¶         siami     ¶
 SFX N   x         ksami     x
 SFX N   ¼         ziami     ¼
-SFX N   0         ach       [^aæño¶¼x]
+SFX N   0         ach       [^aæño¶¼]
 SFX N   0         ch        a
 SFX N   æ         ciach     æ
 SFX N   o         ach       o
@@ -4642,7 +4638,7 @@ SFX N   x         ksach     x
 SFX N   ¼         ziach     ¼
 
 SFX O Y 53
-SFX O   0         a         [^æño¶w¼x]
+SFX O   0         a         [^æño¶w¼]
 SFX O   x         ksa       x
 SFX O   æ         cia       æ
 SFX O   ñ         nia       ñ
@@ -4651,7 +4647,7 @@ SFX O   ¶         sia       ¶
 SFX O   ¼         zia       ¼
 SFX O   0         a         [^ó]w
 SFX O   ów        owa       ów
-SFX O   0         owi       [^æño¶tw¼x]
+SFX O   0         owi       [^æño¶tw¼]
 SFX O   x         ksowi     x
 SFX O   æ         ciowi     æ
 SFX O   ñ         niowi     ñ
@@ -4664,7 +4660,7 @@ SFX O   0         owi       [^¶]wiat
 SFX O   0         u         ¶wiat
 SFX O   0         owi       [^ó]w
 SFX O   ów        owowi     ów
-SFX O   0         em        [^ægkño¶w¼x]
+SFX O   0         em        [^ægkño¶w¼]
 SFX O   x         ksem      x
 SFX O   0         iem       [gk]
 SFX O   æ         ciem      æ
@@ -4674,7 +4670,7 @@ SFX O   ¶         siem      ¶
 SFX O   ¼         ziem      ¼
 SFX O   0         em        [^ó]w
 SFX O   ów        owem      ów
-SFX O   0         ie        [^cædghjkl³ñor¶twyz¿¼x]
+SFX O   0         ie        [^cædghjkl³ñor¶twyz¿¼]
 SFX O   x         ksie      x
 SFX O   0         zie       [^z]d
 SFX O   zd        ¼dzie     ozd
@@ -4697,17 +4693,17 @@ SFX O   0         ie        [^ó]w
 SFX O   ów        owie      ów
 
 SFX Q Y 27
-SFX Q   0         u         [^ñx]
+SFX Q   0         u         [^ñ]
 SFX Q   ñ         niu       ñ
 SFX Q   x         ksu       x
-SFX Q   0         owi       [^ñx]
+SFX Q   0         owi       [^ñ]
 SFX Q   ñ         niowi     ñ
 SFX Q   x         ksowi     x
-SFX Q   0         em        [^gkñx]
+SFX Q   0         em        [^gkñ]
 SFX Q   0         iem       [gk]
 SFX Q   ñ         niem      ñ
 SFX Q   x         ksem      x
-SFX Q   0         ie        [^cædghjkl³mñrtyz¿¼x]
+SFX Q   0         ie        [^cædghjkl³mñrtyz¿¼]
 SFX Q   x         ksie      x
 SFX Q   0         ie        [adeijl³ortuyz]m
 SFX Q   0         zie       [^az]d
@@ -4726,7 +4722,7 @@ SFX Q   ³         le        [^s]³
 SFX Q   s³        ¶le       s³
 
 SFX o Y 12
-SFX o   0         owie      [^aæioñ¶y¼x]
+SFX o   0         owie      [^aæioñ¶y¼]
 SFX o   x         ksowie    x
 SFX o   æ         ciowie    æ
 SFX o   ñ         niowie    ñ
@@ -4743,7 +4739,7 @@ SFX q Y 22
 SFX q   0         zy        r
 SFX q   0         e         rz
 SFX q   0         i         [aeiouy]z
-SFX q   0         i         [bmnpsw]
+SFX q   0         i         [bmnpswx]
 SFX q   x         ksi       x
 SFX q   ch        si        ch
 SFX q   0         zi        d
@@ -4764,7 +4760,7 @@ SFX q   ³         li        [^o]³
 SFX q   o³        eli       o³
 
 SFX s Y 11
-SFX s   0         y         [^acægjklño¶yz¼¿x]
+SFX s   0         y         [^acægjklño¶yz¼¿]
 SFX s   0         e         [cjly¿]
 SFX s   0         y         [^cds]z
 SFX s   0         e         [cds]z
@@ -4777,7 +4773,7 @@ SFX s   ¼         zie       ¼
 SFX s   o         e         o
 
 SFX T Y 13
-SFX T   0         ów        [^aæoñ¶uwx¼]
+SFX T   0         ów        [^aæoñ¶uw¼]
 SFX T   x         ksów      x
 SFX T   a         ów        a
 SFX T   æ         ciów      æ
@@ -6533,7 +6529,7 @@ SFX M   0         y         [^r]e¿
 SFX M   ±¿        ê¿y       [^r]±¿
 SFX M   0         y         r±¿
 SFX M   e¿        ¿y        re¿
-SFX M   a         ie        [^aouycdeghijkl³nñrtxz¿¼]a
+SFX M   a         ie        [^aouycdeghijkl³nñrtz¿¼]a
 SFX M   a         zie       [^z]da
 SFX M   zda       ¼dzie     [^a]zda
 SFX M   zda       ¼dzie     [^ij]azda
