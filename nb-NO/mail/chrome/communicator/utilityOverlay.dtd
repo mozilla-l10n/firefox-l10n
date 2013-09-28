@@ -45,8 +45,8 @@
 <!ENTITY showTaskbarCmd.label          "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey        "a">
 
-<!ENTITY proxy.label                                    "Innstillinger for mellomtjener …">
-<!ENTITY proxy.accesskey                                "m">
+<!ENTITY proxy.label                                    "Proxyinnstillinger …">
+<!ENTITY proxy.accesskey                                "P">
 
 <!ENTITY closeCmd.label      "Lukk">
 <!ENTITY closeCmd.key      "W">
