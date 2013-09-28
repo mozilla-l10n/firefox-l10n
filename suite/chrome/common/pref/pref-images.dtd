@@ -14,7 +14,7 @@
 
 <!ENTITY loadAllImagesRadio.label       "Last alle bilder">
 <!ENTITY loadAllImagesRadio.accesskey   "L">
-<!ENTITY loadOrgImagesRadio.label       "Last bare bilder som kommer fra opprinnelig tjener">
+<!ENTITY loadOrgImagesRadio.label       "Last bare bilder som kommer fra opprinnelig server">
 <!ENTITY loadOrgImagesRadio.accesskey   "r">
 <!ENTITY loadNoImagesRadio.label        "Ikke last noen bilder">
 <!ENTITY loadNoImagesRadio.accesskey    "I">

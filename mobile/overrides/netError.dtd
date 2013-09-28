@@ -104,11 +104,11 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Uventet svar fra tjener">
+<!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "<ul>
   <li>Kontroller at systemet ditt har Personal Security Manager
     installert.</li>
-  <li>Dette problemet kan skyldes en uvanlig konfigurasjon på tjeneren.</li>
+  <li>Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.</li>
 </ul>
 ">
 
@@ -121,9 +121,9 @@
 
 <!ENTITY nssBadCert.title "Sikker tilkobling feilet">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-  <li>Dette kan være på grunn av et problem med tjenerens innstillinger, eller det kan være
-at noen forsøker å etterligne tjeneren.</li>
-  <li>Dersom du tidligere har koblet til tjeneren er det mulig at feilen er
+  <li>Dette kan være på grunn av et problem med serverens innstillinger, eller det kan være
+at noen forsøker å etterligne serveren.</li>
+  <li>Dersom du tidligere har koblet til serveren er det mulig at feilen er
 midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
@@ -149,7 +149,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller dersom du ikke er vant med å se slike advarsler for denne tjeneren.</p>
+<!ENTITY securityOverride.warningContent "<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller dersom du ikke er vant med å se slike advarsler for denne serveren.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

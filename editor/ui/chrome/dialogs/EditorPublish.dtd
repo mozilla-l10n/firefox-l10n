@@ -17,7 +17,7 @@
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Undermappe for denne siden:">
 <!ENTITY docDirList.accesskey         "U">
-<!ENTITY docDirList.tooltip           "Velg eller skriv inn navnet på en underkatalog på tjeneren for denne siden">
+<!ENTITY docDirList.tooltip           "Velg eller skriv inn navnet på en underkatalog på serveren for denne siden">
 <!ENTITY publishImgCheckbox.label     "Inkluder bilder og andre filer">
 <!ENTITY publishImgCheckbox.accesskey "n">
 <!ENTITY publishImgCheckbox.tooltip   "Publiser bilder og andre filer som denne siden er koblet til">
@@ -27,7 +27,7 @@
 <!ENTITY useSubdirRadio.label         "Bruk denne undermappen">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Velg eller skriv inn et navn på den eksterne undermappen hvor filene skal publiseres">
-<!ENTITY otherDirList.tooltip         "Velg eller skriv inn et navn på en underkatalog på tjeneren hvor filene vil publiseres">
+<!ENTITY otherDirList.tooltip         "Velg eller skriv inn et navn på en underkatalog på serveren hvor filene vil publiseres">
 <!ENTITY pageTitle.label              "Sidetittel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Skriv inn en tittel for å identifisere siden i vinduet og bokmerkene">
@@ -43,7 +43,7 @@
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Publiseringssteder">
-<!ENTITY serverInfo.label             "Tjenerinformasjon">
+<!ENTITY serverInfo.label             "Serverinformasjon">
 <!ENTITY loginInfo.label              "Innloggingsinformasjon">
 <!ENTITY siteName.label               "Områdenavn:">
 <!ENTITY siteName.accesskey           "O">

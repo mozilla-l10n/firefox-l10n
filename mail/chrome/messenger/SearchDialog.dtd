@@ -7,7 +7,7 @@
 <!ENTITY searchHeading.accesskey     "ø">
 <!ENTITY searchSubfolders.label      "Søk i undermapper">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchOnServer.label        "Utfør søk på tjeneren">
+<!ENTITY searchOnServer.label        "Utfør søk på serveren">
 <!ENTITY searchOnServer.accesskey    "f">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">

@@ -42,8 +42,8 @@
 <!ENTITY addTag.label "Tilordne etikett">
 <!ENTITY setJunkScore.label "Sett uønsket-status til">
 <!ENTITY deleteMessage.label "Slett melding">
-<!ENTITY deleteFromPOP.label "Slett fra POP-tjeneren">
-<!ENTITY fetchFromPOP.label "Hent fra POP-tjeneren">
+<!ENTITY deleteFromPOP.label "Slett fra POP-serveren">
+<!ENTITY fetchFromPOP.label "Hent fra POP-serveren">
 <!ENTITY ignoreThread.label "Ignorer tråd">
 <!ENTITY ignoreSubthread.label "Ignorer undertråd">
 <!ENTITY watchThread.label "Følg tråd">

@@ -9,7 +9,7 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnHeading.label       "Utfør søkeoperasjoner på:">
 <!ENTITY searchOnHeading.accesskey   "U">
-<!ENTITY searchOnRemote.label        "Ekstern tjener">
+<!ENTITY searchOnRemote.label        "Ekstern server">
 <!ENTITY searchOnLocal.label         "Lokalt system">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">

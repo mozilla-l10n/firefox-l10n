@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Egenskaper for katalogtjener">
+<!ENTITY newDirectoryTitle.label           "Egenskaper for katalogserver">
 <!ENTITY directoryName.label               "Navn: ">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Tjenernavn: ">
+<!ENTITY directoryHostname.label           "Servernavn: ">
 <!ENTITY directoryHostname.accesskey       "T">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "B">

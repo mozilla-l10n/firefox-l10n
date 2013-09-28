@@ -6,9 +6,9 @@
 
 <!ENTITY messageStorage.label "Meldingslagring">
 <!ENTITY securitySettings.label "Sikkerhetsinnstillinger">
-<!ENTITY serverSettings.label "Tjenerinnstillinger">
-<!ENTITY serverType.label "Tjenertype:">
-<!ENTITY serverName.label "Tjenernavn:">
+<!ENTITY serverSettings.label "Serverinnstillinger">
+<!ENTITY serverType.label "Servertype:">
+<!ENTITY serverName.label "Servernavn:">
 <!ENTITY serverName.accesskey "j">
 <!ENTITY userName.label "Brukernavn:">
 <!ENTITY userName.accesskey "N">
@@ -31,7 +31,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Autentiseringsmetode:">
 <!ENTITY authMethod.accesskey "r">
-<!ENTITY leaveOnServer.label "La meldinger ligge på tjeneren">
+<!ENTITY leaveOnServer.label "La meldinger ligge på serveren">
 <!ENTITY leaveOnServer.accesskey "m">
 <!ENTITY headersOnly.label "Hent bare meldingshoder">
 <!ENTITY headersOnly.accesskey "H">
@@ -65,7 +65,7 @@
 <!ENTITY maxMessagesStart.accesskey "M">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meldinger">
-<!ENTITY alwaysAuthenticate.label "Alltid spør etter autentisering ved tilkobling til denne tjeneren">
+<!ENTITY alwaysAuthenticate.label "Alltid spør etter autentisering ved tilkobling til denne serveren">
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY newsrcPicker.label "Velg newsrc-fil">

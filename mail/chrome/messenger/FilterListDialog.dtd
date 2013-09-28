@@ -33,7 +33,7 @@
 <!ENTITY folderPickerPrefix.label "Kjør valgte filter på:">
 <!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY choosethis.label "velg denne mappen">
-<!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppetjeneren">
+<!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppeserveren">
 <!ENTITY helpButton.label "Hjelp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

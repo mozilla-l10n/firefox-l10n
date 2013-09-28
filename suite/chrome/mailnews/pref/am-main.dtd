@@ -36,7 +36,7 @@
 <!ENTITY manageIdentities.accesskey "B">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Utgående tjener (SMTP):">
+<!ENTITY smtpName.label "Utgående server (SMTP):">
 <!ENTITY smtpName.accesskey "U">
-<!ENTITY smtpDefaultServer.label "Bruk standard tjener">
+<!ENTITY smtpDefaultServer.label "Bruk standard server">
 

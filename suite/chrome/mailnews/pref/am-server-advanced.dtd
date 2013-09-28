@@ -4,28 +4,28 @@
 
 <!ENTITY serverAdvanced.label "Avanserte kontoinnstillinger">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP tjenermappe:">
+<!ENTITY serverDirectory.label "IMAP servermappe:">
 <!ENTITY serverDirectory.accesskey "t">
 <!ENTITY usingSubscription.label "Vis bare påmeldte mapper">
 <!ENTITY usingSubscription.accesskey "I">
-<!ENTITY dualUseFolders.label "Tjeneren støtter mapper som inneholder undermapper og meldinger">
+<!ENTITY dualUseFolders.label "Serveren støtter mapper som inneholder undermapper og meldinger">
 <!ENTITY dualUseFolders.accesskey "T">
-<!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom tjeneren støtter det">
+<!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom serveren støtter det">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maksimalt antall tjenertilkoblinger til hurtiglager">
+<!ENTITY maximumConnectionsNumber.label "Maksimalt antall servertilkoblinger til hurtiglager">
 <!ENTITY maximumConnectionsNumber.accesskey "T">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-tjeneren">
+<!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-serveren">
 <!ENTITY personalNamespace.label "Personlig navnerom:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Offentlig (delt):">
 <!ENTITY publicNamespace.accesskey "N">
 <!ENTITY otherUsersNamespace.label "Andre brukere:">
 <!ENTITY otherUsersNamespace.accesskey "B">
-<!ENTITY overrideNamespaces.label "Tillat tjeneren å overstyre disse navnerommene">
+<!ENTITY overrideNamespaces.label "Tillat serveren å overstyre disse navnerommene">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Ved nedlasting av POP e-post for denne tjeneren, bruk følgende mappe for ny post:" >
-<!ENTITY accountDirectory.label "Innboks for denne tjenerens konto">
+<!ENTITY pop3Desc.label "Ved nedlasting av POP e-post for denne serveren, bruk følgende mappe for ny post:" >
+<!ENTITY accountDirectory.label "Innboks for denne serverens konto">
 <!ENTITY accountDirectory.accesskey "I">
 <!ENTITY deferToServer.label "Innboks for en annen konto">
 <!ENTITY deferToServer.accesskey "b">

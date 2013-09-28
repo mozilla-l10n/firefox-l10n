@@ -9,8 +9,8 @@
 <!ENTITY aboutSupport.showPrivateData.explanationText "(mulig person-identifiserbar info)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Navn">
-<!ENTITY aboutSupport.accountsIncomingServer "Innkommende tjener">
-<!ENTITY aboutSupport.accountsOutgoingServers "Utgående tjenere">
+<!ENTITY aboutSupport.accountsIncomingServer "Innkommende server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Utgående servere">
 <!ENTITY aboutSupport.accountsServerName "Navn">
 <!ENTITY aboutSupport.accountsConnSecurity "Tilkoblingssikkerhet">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentiseringsmåte">

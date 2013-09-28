@@ -22,7 +22,7 @@
 
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Innhold:">
-<!ENTITY     props.domain.label             "Tjener:">
+<!ENTITY     props.domain.label             "Server:">
 <!ENTITY     props.path.label               "Sti:">
 <!ENTITY     props.secure.label             "Sendt for:">
 <!ENTITY     props.expires.label            "Utløper:">

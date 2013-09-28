@@ -15,7 +15,7 @@
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "Ved adressering av meldinger, se etter treff i:">
-<!ENTITY directories.label                     "Katalogtjener:">
+<!ENTITY directories.label                     "Katalogserver:">
 <!ENTITY directories.accesskey                 "K">
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger kataloger …">

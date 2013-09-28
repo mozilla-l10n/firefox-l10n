@@ -32,12 +32,12 @@
 <!ENTITY sync.input.username.label 'Kontonavn'>
 <!ENTITY sync.input.password.label 'Passord'>
 <!ENTITY sync.input.key.label 'Gjenopprettingsnøkkel'>
-<!ENTITY sync.checkbox.server.label 'Bruk en annen tjener'>
-<!ENTITY sync.input.server.label 'Tjener-URL'>
+<!ENTITY sync.checkbox.server.label 'Bruk en annen server'>
+<!ENTITY sync.input.server.label 'Server-URL'>
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Kan ikke sette opp &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; klarte ikke koble til tjeneren. Vil du prøve igjen?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; klarte ikke koble til serveren. Vil du prøve igjen?'>
 <!ENTITY sync.button.tryagain.label 'Prøv igjen'>
 <!ENTITY sync.button.manual.label 'Manuelle innstillinger'>
 <!ENTITY sync.subtitle.nointernet.label 'Ingen Internett-tilkobling er tilgjengelig.'>
@@ -92,7 +92,7 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Feil kontonavn eller passord.'>
-<!ENTITY sync.invalidserver.label 'Skriv inn en gyldig tjener-URL'>
+<!ENTITY sync.invalidserver.label 'Skriv inn en gyldig server-URL'>
 <!ENTITY sync.verifying.label 'Kontrollerer …'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Gjenopprettingsnøkkelen er feil. Prøv igjen.'>
 

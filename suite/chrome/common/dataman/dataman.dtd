@@ -44,7 +44,7 @@
 
 <!ENTITY cookies.info.name.label "Navn:">
 <!ENTITY cookies.info.value.label "Innhold:">
-<!ENTITY cookies.info.host.label "Tjener:">
+<!ENTITY cookies.info.host.label "Server:">
 <!ENTITY cookies.info.domain.label "Domene:">
 <!ENTITY cookies.info.path.label "Sti:">
 <!ENTITY cookies.info.sendtype.label "Send for:">
@@ -70,7 +70,7 @@
 <!ENTITY perm.AllowSession "Tillat for programøkten">
 <!ENTITY perm.Block "Blokker">
 
-<!ENTITY perm.host.placeholder "Skriv inn et tjenernavn">
+<!ENTITY perm.host.placeholder "Skriv inn et servernavn">
 <!ENTITY perm.button.add.label "Legg til">
 <!ENTITY perm.button.add.accesskey "L">
 
