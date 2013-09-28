@@ -356,7 +356,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "選擇此處套用">
 
 <!-- Guest mode -->
-<!ENTITY new_guest_session "開新訪客瀏覽階段">
+<!ENTITY new_guest_session "進入訪客瀏覽階段">
 <!ENTITY exit_guest_session "結束訪客瀏覽階段">
 <!ENTITY guest_session_dialog_continue "繼續">
 <!ENTITY guest_session_dialog_cancel "取消">
