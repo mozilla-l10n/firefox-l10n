@@ -10,17 +10,17 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikke å koble til">
+<!ENTITY connectionFailure.title "Klarte ikke koble til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
-<!ENTITY deniedPortAccess.title "Tilgangen til dennen adressen er begrenset">
+<!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Tjener ikke funnet">
+<!ENTITY dnsNotFound.title "Adresse ikke funnet">
 <!ENTITY dnsNotFound.longDesc2 "<ul>
-  <li>Sjekk om det er skrivefeil i adressen, for eksempel
-    <strong>ww</strong>.example.com istedenfor
-    <strong>www</strong>.example.com</li>
+  <li>Kontroller om det er skrivefeil i adressen, for eksempel
+    <strong>ww</strong>.eksempel.no istedenfor
+    <strong>www</strong>.eksempel.no</li>
   <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din.</li>
 </ul>
 ">
@@ -34,10 +34,10 @@
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak</p>
+<!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>
 ">
 
-<!ENTITY malformedURI.title "Ugyldig adresse">
+<!ENTITY malformedURI.title "Adressen er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Nettsideadresser skrives vanligvis på formen
     <strong>http://www.eksempel.no/</strong></li>
@@ -76,7 +76,7 @@
 <!ENTITY netTimeout.title "Tilkoblingen fikk tidsavbrudd">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Klarte ikke å forstår adressen">
+<!ENTITY protocolNotFound.title "Klarte ikke forstå adressen">
 <!ENTITY protocolNotFound.longDesc "<ul>
   <li>Det er mulig du må installere annen programvare for å åpne denne adressen.</li>
 </ul>
@@ -86,7 +86,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Kontroller at mellomtjenerinnstillingene er korrekte.</li>
   <li>Kontakt nettverksansvarlig og forsikre deg om at mellomtjeneren
-    fungerer.</li>
+    virker.</li>
 </ul>
 ">
 
@@ -135,14 +135,14 @@ midlertidig, og du kan prøve igjen senere.</li>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel på innholdet">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret dette nettstedet fra å lastes inn på denne måten fordi siden har en sikkerhetsbegrensing som forhindrer det.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetsregel som forhindrer det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt eierne av nettstedet og informer dem om problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel…">
+<!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
-<!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak…">
+<!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

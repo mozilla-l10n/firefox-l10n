@@ -679,6 +679,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY tabCrashed.header "Fane krasjet">
+<!ENTITY tabCrashed.message "Vel, dette er pinlig. Vi prøvde vise nettsiden, men den svarer ikke.">
+<!ENTITY tabCrashed.checkSendReport "Fortell &vendorShortName; om dette krasjet så de kan rette det.">
+<!ENTITY tabCrashed.tryAgain "Prøv igjen">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
