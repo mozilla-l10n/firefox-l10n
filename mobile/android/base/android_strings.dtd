@@ -280,7 +280,6 @@ size. -->
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
 <!ENTITY home_most_recent_title "最近開啟的分頁">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
-<!ENTITY home_most_visited_title "最常瀏覽">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -291,7 +290,6 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "秘訣: 當標題列顯示閱讀模式按鈕時，長按該按鈕以將文章儲存至您的閱讀清單。">
 
-<!ENTITY home_most_visited_empty "您最常開啟的網站將會顯示於此">
 <!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 
 <!ENTITY filepicker_title "選擇檔案">
@@ -360,7 +358,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "選擇此處套用">
 
 <!-- Guest mode -->
-<!ENTITY new_guest_session "開新訪客瀏覽階段">
+<!ENTITY new_guest_session "進入訪客瀏覽階段">
 <!ENTITY exit_guest_session "結束訪客瀏覽階段">
 <!ENTITY guest_session_dialog_continue "繼續">
 <!ENTITY guest_session_dialog_cancel "取消">
