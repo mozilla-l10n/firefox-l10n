@@ -486,6 +486,7 @@
 <!ENTITY tabCrashed.message "Oops, questo è imbarazzante. Non è stato possibile visualizzare la pagina web perché il sito non risponde.">
 <!ENTITY tabCrashed.checkSendReport "Segnala questo blocco a &vendorShortName; in modo che il problema possa essere risolto.">
 <!ENTITY tabCrashed.tryAgain "Riprova">
+<!ENTITY pluginNotification.width "28em">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY addonBarCmd.label "Barra dei componenti aggiuntivi">
 <!ENTITY addonBarCmd.accesskey "c">
