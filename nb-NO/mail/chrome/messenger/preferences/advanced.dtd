@@ -109,7 +109,7 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Når en tjener spør etter mitt personlige sertifikat:">
+<!ENTITY certSelection.description       "Når en server spør etter mitt personlige sertifikat:">
 <!ENTITY certs.auto                      "Velg ett automatisk">
 <!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Spør meg hver gang">

@@ -33,7 +33,7 @@
 <!ENTITY config.type.hint         "Type objekt å legge til innstilling for">
 <!ENTITY config.type.accesskey    "T">
 <!ENTITY config.network.label     "Nettverk:">
-<!ENTITY config.network.hint      "Offentlig navn for nettverket, eller tjenernavn">
+<!ENTITY config.network.hint      "Offentlig navn for nettverket, eller servernavn">
 <!ENTITY config.network.accesskey "O">
 <!ENTITY config.target.label      "Mål:">
 <!ENTITY config.target.hint       "Målkanal eller brukernavn">

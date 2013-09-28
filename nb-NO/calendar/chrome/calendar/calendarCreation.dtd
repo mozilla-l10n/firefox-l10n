@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Opprett ny kalender" >
 <!ENTITY wizard.description       "Lokaliser kalenderen" >
 
-<!ENTITY initialpage.description    "Kalenderen kan enten lagres lokalt, eller på en tjener på nettverket slik at den er tilgjengelig for andre." >
+<!ENTITY initialpage.description    "Kalenderen kan enten lagres lokalt, eller på en server på nettverket slik at den er tilgjengelig for andre." >
 <!ENTITY initialpage.computer.label  "På min datamaskin">
 <!ENTITY initialpage.network.label  "På nettverket">
 

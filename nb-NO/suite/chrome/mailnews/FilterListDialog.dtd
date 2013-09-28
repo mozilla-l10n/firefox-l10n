@@ -27,4 +27,4 @@
 <!ENTITY folderPickerPrefix.label "Utfør merket meldingsfilter på:">
 <!ENTITY folderPickerPrefix.accesskey "U">
 <!ENTITY choosethis.label "velg denne mappen">
-<!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppetjeneren">
+<!ENTITY choosethisnewsserver.label "velg denne nyhetsgruppeserveren">

@@ -5,10 +5,10 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Innstillinger for utgående SMTP-tjener">
+<!ENTITY smtpServer.label "Innstillinger for utgående SMTP-server">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "Når du behandler identitetene dine kan du bruke en tjener fra denne listen ved å velge den som Utgående Tjener (SMTP), eller du kan bruke standard tjener fra denne listen ved å velge «Bruk standard tjener».">
+<!ENTITY smtpDescription.label "Når du behandler identitetene dine kan du bruke en server fra denne listen ved å velge den som Utgående Server (SMTP), eller du kan bruke standard server fra denne listen ved å velge «Bruk standard server».">
 
 <!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
@@ -20,7 +20,7 @@
 <!ENTITY smtpListSetDefault.accesskey "e">
 
 <!ENTITY serverDescription.label "Beskrivelse: ">
-<!ENTITY serverName.label "Tjenernavn: ">
+<!ENTITY serverName.label "Servernavn: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Brukernavn: ">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet: ">

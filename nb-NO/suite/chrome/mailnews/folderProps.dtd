@@ -22,8 +22,8 @@
 <!ENTITY daysOld.label "dager gammel">
 <!ENTITY message.label "meldingene">
 <!ENTITY retentionCleanup.label "Behold:">
-<!ENTITY retentionCleanupImap.label "Behold meldinger, både lokale kopier og originalene på tjeneren:">
-<!ENTITY retentionCleanupPop.label "Behold meldinger, også originalene på tjeneren:">
+<!ENTITY retentionCleanupImap.label "Behold meldinger, både lokale kopier og originalene på serveren:">
+<!ENTITY retentionCleanupPop.label "Behold meldinger, også originalene på serveren:">
 <!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Alle meldinger">

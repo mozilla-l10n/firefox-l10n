@@ -19,5 +19,5 @@
 <!ENTITY notsentNickname.label  "Kallenavnet ditt">
 <!ENTITY notsentMessages.label  "Meldingstekst, handlinger og notiser">
 <!ENTITY notsentArguments.label "Argumenter og data som er sendt til kommandoer, menyer og dialoger">
-<!ENTITY notsentURLs.label      "Navn og URL-er på nettverk, tjenere, kanaler og brukere">
+<!ENTITY notsentURLs.label      "Navn og URL-er på nettverk, servere, kanaler og brukere">
 <!ENTITY notsentFiles.label     "Navn og innhold på filer som er sendt eller mottatt">

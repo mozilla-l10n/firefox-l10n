@@ -4,7 +4,7 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikke last ned:">
 <!ENTITY doNotDownloadNntp.label "For å spare diskplass, ikke last ned for frakoblet bruk:">
-<!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldinger fra tjeneren og oppbevaring av lokale kopier for frakoblet bruk begrenses til en bestemt alder eller størrelse.">
+<!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldinger fra serveren og oppbevaring av lokale kopier for frakoblet bruk begrenses til en bestemt alder eller størrelse.">
 <!ENTITY allFoldersOffline.label "Behold meldinger for denne kontoen på datamaskinen">
 <!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Meldinger større enn">
@@ -19,8 +19,8 @@
 <!ENTITY nntpDownloadMsg.label "Meldinger eldre enn">
 <!ENTITY nntpDownloadMsg.accesskey "M">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger bli permanent slettet">
-<!ENTITY retentionCleanupImap.label "For å spare diskplass kan gamle meldinger slettes permanent, både lokale kopier og originalene på e-posttjeneren.">
-<!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som ligger lagret på e-posttjeneren.">
+<!ENTITY retentionCleanupImap.label "For å spare diskplass kan gamle meldinger slettes permanent, både lokale kopier og originalene på e-postserveren.">
+<!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som ligger lagret på e-postserveren.">
 <!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
