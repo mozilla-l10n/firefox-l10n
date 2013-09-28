@@ -708,6 +708,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "Toujours activer">
 <!ENTITY pluginBlockNow.label "Bloquer ce plugin">
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
 <!ENTITY tabCrashed.header "L'onglet a planté">
 <!ENTITY tabCrashed.message "Hum, c'est embarrassant. Nous avons essayé d'afficher cette page web, mais elle ne répond pas.">
 <!ENTITY tabCrashed.checkSendReport "Informer &vendorShortName; de ce problème pour qu'il puisse être corrigé.">
