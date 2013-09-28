@@ -671,6 +671,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "永遠允許">
 <!ENTITY pluginBlockNow.label "封鎖外掛程式">
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
 <!ENTITY tabCrashed.header "分頁發生錯誤">
 <!ENTITY tabCrashed.message "哎呀，真尷尬，我們試著要顯示此頁面，但網頁沒有回應。">
 <!ENTITY tabCrashed.checkSendReport "告訴 &vendorShortName; 這次錯誤的資訊，讓他們來修正。">
