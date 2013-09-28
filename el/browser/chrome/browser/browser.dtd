@@ -29,6 +29,10 @@
 
 <!ENTITY social.toggleNotifications.label "Εμφάνιση ειδοποιήσεων συστήματος">
 <!ENTITY social.toggleNotifications.accesskey "φ">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 
 
@@ -276,8 +280,6 @@
 <!ENTITY savePageCmd.accesskey "π">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY savePageCmd.label "Αποθήκευση σελίδας ως...">
-<!ENTITY search.accesskey "ζ">
-<!ENTITY search.label "Αναζήτηση στο διαδίκτυο">
 <!ENTITY searchFocus.commandkey "k">
 
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -397,7 +399,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- XXX places only -->
 <!ENTITY historyMenu.label "Ιστορικό">
 <!ENTITY historyMenu.accesskey "Ι">
-<!ENTITY historyHomeCmd.label "Αρχική σελίδα">
+
 
 
 <!ENTITY showAllHistoryCmd2.label "Προβολή ιστορικού">
@@ -695,7 +697,7 @@ fast. -->
 <!ENTITY fullScreenExit.accesskey "ξ">
 <!ENTITY fullscreenAllowButton.label "Να επιτρέπεται">
 <!ENTITY fullscreenExitButton.label "Άρνηση">
-<!ENTITY fullscreenApproval.value "Να επιτρέπεται η πλήρης οθόνη;">
+
 
 <!ENTITY playPluginCmd.label          "Ενεργοποίηση αυτής της πρόσθετης λειτουργίας">
 <!ENTITY playPluginCmd.accesskey      "γ">
@@ -730,7 +732,7 @@ fast. -->
 
 
 
-<!ENTITY fullscreenExitHint.value "Πατήστε ESC για έξοδο από την πλήρη οθόνη.">
+
 
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 
@@ -769,6 +771,8 @@ fast. -->
 <!ENTITY socialToolbar.title        "Κουμπί εργαλειοθήκης κοινωνικής δικτύωσης">
 <!ENTITY social.notLoggedIn.label   "Δεν έχετε συνδεθεί">
 
-
-
+<!ENTITY fullscreenExitHint2.value "Πατήστε ESC για έξοδο.">
+<!ENTITY identity.permissions "Δικαιώματα">
+<!ENTITY viewImageDescCmd.label       "Προβολή περιγραφής">
+<!ENTITY viewImageDescCmd.accesskey   "φ">
 
