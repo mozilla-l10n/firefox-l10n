@@ -246,7 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 <!ENTITY chromeDebuggerMenu.label       "Depurador do navegador">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra de ferramentas do desenvolvedor">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do desenvolvedor">
@@ -671,6 +670,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Permitir agora">
 <!ENTITY pluginActivateAlways.label "Permitir e lembrar">
 <!ENTITY pluginBlockNow.label "Bloquear Plugin">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "33em">
 
 <!ENTITY tabCrashed.header "O separador crashou">
 <!ENTITY tabCrashed.message "Bem, isto é embaraçoso. Tentamos mostra esta página web, mas não está a responder.">
