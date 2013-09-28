@@ -89,4 +89,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K"
+<!ENTITY clearOutputCmd.key   "K">
