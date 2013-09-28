@@ -5,14 +5,14 @@
 <!ENTITY  connectionsDialog.title       "Tilkoblingsinnstillinger">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Konfigurer mellomtjenere for tilgang til Internett">
-<!ENTITY  noProxyTypeRadio.label        "Ingen mellomtjener">
+<!ENTITY  proxyTitle.label              "Konfigurer proxy for tilgang til Internett">
+<!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Bruk systeminnstillinger">
 <!ENTITY  systemTypeRadio.accesskey     "B">
-<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtjener-innstillinger">
+<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag proxyinnstillinger">
 <!ENTITY  WPADTypeRadio.accesskey       "A">
-<!ENTITY  manualTypeRadio.label         "Manuelle mellomtjener-innstillinger:">
+<!ENTITY  manualTypeRadio.label         "Manuelle proxyinnstillinger:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjonsadresse:">
 <!ENTITY  autoTypeRadio.accesskey       "u">
@@ -37,5 +37,5 @@
 <!ENTITY  noproxy.label                 "Ingen MT for:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Eksempel: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Bruk denne mellomtjeneren for alle protokoller">
+<!ENTITY  shareproxy.label              "Bruk denne proxyen for alle protokoller">
 <!ENTITY  shareproxy.accesskey          "B">

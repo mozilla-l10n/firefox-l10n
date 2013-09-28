@@ -31,7 +31,7 @@
 <!ENTITY down.label "Nedlasting">
 <!ENTITY cache.label "Hurtiglager">
 <!ENTITY offlineApps.label "Frakoblede apps">
-<!ENTITY proxies.label "Mellomtjenere">
+<!ENTITY proxies.label "Proxy">
 <!ENTITY httpnetworking.label "HTTP-nettverk">
 <!ENTITY smart.label "Programvareinstallasjon">
 <!ENTITY download.label "Nedlasting">

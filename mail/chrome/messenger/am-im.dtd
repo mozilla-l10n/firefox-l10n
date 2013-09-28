@@ -11,6 +11,6 @@
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "Varsle ved ny e-post">
 <!ENTITY account.autojoin              "Kanaler som åpnes automatisk ved pålogging:">
-<!ENTITY account.proxySettings.caption "Mellomtjenerinnstillinger:">
+<!ENTITY account.proxySettings.caption "Proxyinnstillinger:">
 <!ENTITY account.proxySettings.change.label     "Endre …">
 <!ENTITY account.proxySettings.change.accessKey "E">

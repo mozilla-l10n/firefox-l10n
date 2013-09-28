@@ -23,7 +23,7 @@
 <!ENTITY accountAliasGroupbox.caption "Lokalt alias">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Dette vil bli vist i dine samtaler når du prater. Kontakten på den andre siden vil ikke se det.">
-<!ENTITY accountProxySettings.caption "Mellomtjenerinnstillinger">
+<!ENTITY accountProxySettings.caption "Proxyinnstillinger">
 <!ENTITY accountProxySettings.change.label     "Endre …">
 <!ENTITY accountProxySettings.change.accessKey "E">
 

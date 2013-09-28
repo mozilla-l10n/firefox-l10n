@@ -110,19 +110,19 @@
 <!ENTITY aboutCommPluginsCmd.label			"Om programtillegg">
 <!ENTITY aboutCommPluginsCmd.accesskey			"p">
 
-<!ENTITY direct.label                                   "Tilkoblet (ingen mellomtjener)">
+<!ENTITY direct.label                                   "Tilkoblet (ingen proxy)">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Tilkoblet (manuell mellomtjener)">
+<!ENTITY manual.label                                   "Tilkoblet (manuell proxy)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Tilkoblet (automatisk mellomtjener)">
+<!ENTITY pac.label                                      "Tilkoblet (automatisk proxy)">
 <!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Tilkoblet (automatisk oppdaging av mellomtjener)">
+<!ENTITY wpad.label                                     "Tilkoblet (automatisk oppdaging av proxy)">
 <!ENTITY wpad.accesskey                                 "u">
-<!ENTITY system.label                                   "Tilkoblet (systemets mellomtjener)">
+<!ENTITY system.label                                   "Tilkoblet (systemets proxy)">
 <!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label                                    "Innstillinger for mellomtjener …">
-<!ENTITY proxy.accesskey                                "m">
+<!ENTITY proxy.label                                    "Innstillinger for proxy …">
+<!ENTITY proxy.accesskey                                "o">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Bytt tekstretning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">

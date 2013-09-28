@@ -82,17 +82,17 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Mellomtjener godtar ikke tilkoblinger">
+<!ENTITY proxyConnectFailure.title "Proxy godtar ikke tilkoblinger">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
-  <li>Kontroller at mellomtjenerinnstillingene er korrekte.</li>
-  <li>Kontakt nettverksansvarlig og forsikre deg om at mellomtjeneren
+  <li>Kontroller at proxyinnstillingene er korrekte.</li>
+  <li>Kontakt nettverksansvarlig og forsikre deg om at proxyen
     virker.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Klarte ikke å finne mellomtjener">
+<!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul>
-  <li>Kontroller at mellomtjenerinnstillingene er riktige.</li>
+  <li>Kontroller at proxyinnstillingene er riktige.</li>
   <li>Kontroller at enheten har en data- eller Wi-Fi-forbindelse som virker.</li>
 </ul>
 ">

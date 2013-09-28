@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Adresse ikke funnet">
+<!ENTITY dnsNotFound.title "Adressen ikke funnet">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Kontroller om det er skrivefeil i adressen, for eksempel
@@ -24,7 +24,7 @@
     <strong>www</strong>.eksempel.no</li>
   <li>Hvis du ikke klarer å laste noen nettsider, kontroller at datamaskinens nettverksforbindelse
     er i orden.</li>
-  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller mellomtjener, sjekk at
+  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, sjekk at
     &brandShortName; har tillatelse til å bruke Internett.</li>
 </ul>
 ">
@@ -93,21 +93,21 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Mellomtjener godtar ikke tilkoblinger">
+<!ENTITY proxyConnectFailure.title "Proxy godtar ikke tilkoblinger">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontroller at mellomtjenerinnstillingene er korrekte.</li>
-  <li>Kontakt nettverksansvarlig og forsikre deg om at mellomtjeneren
+  <li>Kontroller at proxyinnstillingene er korrekte.</li>
+  <li>Kontakt nettverksansvarlig og forsikre deg om at proxyen
     virker.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Klarte ikke finne mellomtjener">
+<!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontroller at innstillingene for mellomtjener er korrekte.</li>
+  <li>Kontroller at proxyinnstillingene er korrekte.</li>
   <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li>
-  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller mellomtjener, kontroller
+  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, kontroller
     at &brandShortName; har tillatelse til å få tilgang til Internett.</li>
 </ul>
 ">
@@ -153,7 +153,7 @@ midlertidig, og du kan prøve igjen senere.</li>
     en liten stund.</li>
   <li>Dersom du ikke klarer å laste noen sider, kontroller at datamaskinens
     nettverkstilkobling er i orden.</li>
-  <li>Dersom datamaskinen er beskyttet av en brannmur eller mellomtjener, kontroller
+  <li>Dersom datamaskinen er beskyttet av en brannmur eller proxy, kontroller
     at &brandShortName; har tillatelse til å bruke webben (www).</li>
 </ul>
 ">
