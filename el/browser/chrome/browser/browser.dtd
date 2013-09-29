@@ -6,7 +6,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Ιδιωτική περιήγηση)">
 
-
+<!ENTITY pluginNotification.width "32em">
 
 
 <!ENTITY devToolbarOtherToolsButton.label  "Περισσότερα εργαλεία">
