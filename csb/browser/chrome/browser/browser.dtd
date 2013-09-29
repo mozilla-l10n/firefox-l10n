@@ -688,6 +688,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Zezwòlë">
 <!ENTITY pluginActivateAlways.label "Zezwòlë i spamiãtôj wëbierk">
 <!ENTITY pluginBlockNow.label "Blokùjë dodôwk">
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
