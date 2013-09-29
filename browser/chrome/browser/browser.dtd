@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+a<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -722,4 +722,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginBlockNow.label "ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
