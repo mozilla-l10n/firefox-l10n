@@ -663,6 +663,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "허가하고 기억">
 <!ENTITY pluginBlockNow.label "플러그인 차단">
 
+<!ENTITY pluginNotification.width "28em">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
