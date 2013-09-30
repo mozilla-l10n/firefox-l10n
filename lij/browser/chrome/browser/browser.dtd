@@ -104,7 +104,7 @@ can reach it easily. -->
 
 <!ENTITY closeWindow.label "Særa o barcón">
 <!ENTITY closeWindow.accesskey "S">
-
+<!ENTITY pluginNotification.width "28em">
 <!ENTITY bookmarksMenu.label "Segnalìbbri">
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Azónzi quésta pàgina a-i segnalìbbri">
