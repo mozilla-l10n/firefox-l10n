@@ -25,7 +25,7 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Buffer">
 <!ENTITY clearPrivateData.sitePref                               "Websitevoorkeuren">
-<!ENTITY clearPrivateData.formSearchHist                         "Formulier- & zoekgeschiedenis">
+<!ENTITY clearPrivateData.formSearchHist                         "Formulier- &amp; zoekgeschiedenis">
 <!ENTITY clearPrivateData.passwords                              "Opgeslagen wachtwoorden">
 <!ENTITY clearPrivateData.offline                                "Offlinewebsitegegevens">
 <!ENTITY clearPrivateData.logins                                 "Actieve aanmeldingen">
