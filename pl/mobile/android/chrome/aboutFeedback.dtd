@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre2               "Możesz też zajrzeć na ">
-<!ENTITY support.link              "stronę&nbsp;pomocy&nbsp;Mozilli">
+<!ENTITY support.link              "stronę pomocy Mozilli">
 <!ENTITY support.post2              ", gdzie znajdziesz więcej informacji.">
 
 <!ENTITY happy.header              "Małe pandy radują się">
