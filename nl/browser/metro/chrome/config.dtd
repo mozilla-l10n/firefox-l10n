@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Zoeken">
+<!ENTITY newpref.label          "Nieuwe voorkeur toevoegen">
+<!ENTITY addpref.name           "Naam">
+<!ENTITY addpref.value          "Waarde">
+
+<!ENTITY cancel.label           "Annuleren">
+<!ENTITY reset.label            "Herinitialiseren">
+<!ENTITY done.label             "Klaar">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">

@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Voer zoekterm of adres in">
+
+<!ENTITY back.label            "Terug">
+<!ENTITY forward.label         "Vooruit">
+<!ENTITY newtab.label          "Nieuw tabblad">
+<!ENTITY closetab.label        "Tabblad sluiten">
+
+<!ENTITY autocompleteResultsHeader.label  "Uw resultaten">
+
+<!ENTITY appbarErrorConsole.label   "Foutconsole openen">
+<!ENTITY appbarJSShell.label        "JavaScript-shell openen">
+<!ENTITY appbarFindInPage2.label    "Zoeken op pagina">
+<!ENTITY appbarViewOnDesktop2.label "Op dektop bekijken">
+
+<!ENTITY topSitesHeader.label        "Topwebsites">
+<!ENTITY bookmarksHeader.label       "Bladwijzers">
+<!ENTITY recentHistoryHeader.label   "Recente geschiedenis">
+<!ENTITY remoteTabsHeader.label      "Tabbladen van andere apparaten">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Topwebsites">
+<!ENTITY narrowBookmarksHeader.label     "Bladwijzers">
+<!ENTITY narrowRecentHistoryHeader.label "Recente geschiedenis">
+<!ENTITY narrowRemoteTabsHeader.label    "Externe tabbladen">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Naar pagina gaan">
+<!ENTITY downloadShow2.label       "Zoeken">
+<!ENTITY downloadOpen2.label       "Openen">
+<!ENTITY downloadCancel.label      "Annuleren">
+<!ENTITY downloadPause.label       "Pauzeren">
+<!ENTITY downloadResume.label      "Hervatten">
+<!ENTITY downloadRetry.label       "Opnieuw proberen">
+<!ENTITY downloadRemove.label      "Verwijderen">
+<!ENTITY downloadDelete.label      "Verwijderen">
+<!ENTITY downloadFailed.label      "Mislukt">
+
+<!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
+
+<!ENTITY consoleHeader.label       "Foutconsole">
+<!ENTITY consoleAll.label          "Alle">
+<!ENTITY consoleErrors.label       "Fouten">
+<!ENTITY consoleWarnings.label     "Waarschuwingen">
+<!ENTITY consoleMessages.label     "Berichten">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Wissen">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Bronbestand:">
+<!ENTITY consoleErrLine.label      "Regel:">
+<!ENTITY consoleErrColumn.label    "kolom:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Knippen">
+<!ENTITY contextTextCopy.label             "Kopiëren">
+<!ENTITY contextTextPaste.label            "Plakken">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Plakken &amp; gaan">
+<!ENTITY contextTextSelect.label           "Selecteren">
+<!ENTITY contextTextSelectAll.label        "Alles selecteren">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Koppeling openen in nieuw tabblad">
+<!ENTITY contextCopyLinkHref.label         "Koppeling kopiëren">
+<!ENTITY contextBookmarkLinkHref.label     "Bladwijzer maken">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Opslaan in afbeeldingsbibliotheek">
+<!ENTITY contextCopyImage.label            "Afbeelding kopiëren">
+<!ENTITY contextCopyImageLocation.label    "Afbeeldingslocatie kopiëren">
+<!ENTITY contextOpenImageTab.label         "Afbeelding openen in nieuw tabblad">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Opslaan in videobibliotheek">
+<!ENTITY contextCopyVideoLocation.label    "Videolocatie kopiëren">
+<!ENTITY contextOpenVideoTab.label         "Video openen in nieuw tabblad">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
