@@ -1,0 +1,66 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+# LOCALIZATION NOTE: Used in the default os description when a new account
+# is being set up. Should be unique to Metro, so that it does not conflict
+# with Desktop. See /services/sync/modules/engines/clients.js locaName.
+sync.defaultAccountApplication=Metro %S
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen vanaf al uw apparaten benaderen">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; instellen">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; instellen">
+<!ENTITY sync.flyout.setup.description1        "Als u een &syncBrand.shortName.label;-account hebt, selecteer “Een apparaat koppelen” op uw andere apparaat en voer deze code in.">
+<!ENTITY sync.flyout.setup.description2        "Al u geen &syncBrand.shortName.label;-account hebt , kunt u er een aanmaken via uw &brandShortName;-desktopbrowser.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ik ben niet bij mijn computer…">
+<!ENTITY sync.flyout.setup.description3        "Noot:">
+<!ENTITY sync.flyout.setup.description4_2      "Om “Een apparaat koppelen” te vinden,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Open “Opties” of “Voorkeuren” en selecteer “&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Meer &gt; Instellingen &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Voer uw &syncBrand.shortName.label;-accountinformatie en herstelsleutel gegenereerd door uw computer in">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Accountnaam">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Wachtwoord">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Herstelsleutel">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Verbinden">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "U heeft &brandShortName; met &syncBrand.shortName.label;-account verbonden">
+<!ENTITY sync.flyout.setupsuccess.description2      "Uw &syncBrand.shortName.label;-gegevens worden nu op de achtergrond gedownload. Uw gesynchroniseerde tabbladen kunt u vinden op &brandShortName;-startpagina">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; kon niet verbinden met uw &syncBrand.shortName.label;-account.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Annuleren">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Nogmaals proberen">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Account:">
+<!ENTITY sync.flyout.connected.device                     "Uw apparaat:">
+<!ENTITY sync.flyout.connected.disconnect                 "Verbinding verbreken">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Verbinding tussen uw apparaat en &syncBrand.shortName.label; verbreken?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Al uw persoonlijke gegevens, zowel op dit apparaat als in uw &syncBrand.shortName.label;-account, blijven intact.">
+<!ENTITY sync.flyout.connected.cancel                     "Annuleren">
+<!ENTITY sync.flyout.connected.pair                       "Een apparaat koppelen">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Selecteer “&syncBrand.shortName.label; instellen” op het nieuwe apparaat waar u mee wilt koppelen en voor de gegenereerde code in">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Koppelen">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Noot:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Om de code te vinden,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Open “Opties” of “Voorkeuren” en neem de volgende stappen: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; instellen -&gt; Ik heb een account">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Meer &gt; Instellingen &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Probeer het opnieuw">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Het nieuwe apparaaat is met succes toegevoegd.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Uw &syncBrand.shortName.label;-gegevens worden nu op de achtergrond gedownload. Uw gesynchroniseerde tabbladen kunt u vinden op &brandShortName;-startpagina.">

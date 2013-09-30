@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Opties">
+<!ENTITY optionsHeader.startup.title                             "Opstarten">
+<!ENTITY optionsHeader.homepage.title                            "Wanneer &brandShortName; start, toon">
+<!ENTITY optionsHeader.homepage.startPage.button                 "startpagina">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "tabbladen van de vorige keer">
+<!ENTITY optionsHeader.char.title                                "Tekenset">
+<!ENTITY optionsHeader.char.autodetect.label                     "Automatisch herkennen">
+<!ENTITY optionsHeader.char.options.label                        "Tekensetopties op de Appbalk tonen">
+
+<!ENTITY clearPrivateData.title                                  "Privégegevens wissen">
+<!ENTITY clearPrivateData.label                                  "Uw geschiedenis, wachtwoorden, cookies en formuliergegevens op dit apparaat wissen">
+<!ENTITY clearPrivateData.button                                 "Wissen">
+<!ENTITY clearPrivateData.done                                   "Klaar!">
+<!ENTITY clearPrivateData.history                                "Geschiedenis">
+<!ENTITY clearPrivateData.otherdata                              "Andere gegevens (wachtwoorden, buffer, cookies, etc)">
+<!ENTITY clearPrivateData.downloadHist                           "Downloadgeschiedenis">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Buffer">
+<!ENTITY clearPrivateData.sitePref                               "Websitevoorkeuren">
+<!ENTITY clearPrivateData.formSearchHist                         "Formulier- & zoekgeschiedenis">
+<!ENTITY clearPrivateData.passwords                              "Opgeslagen wachtwoorden">
+<!ENTITY clearPrivateData.offline                                "Offlinewebsitegegevens">
+<!ENTITY clearPrivateData.logins                                 "Actieve aanmeldingen">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Wachtwoorden onthouden">
+<!ENTITY doNotTrack.title                                        "Niet volgen">
+<!ENTITY doNotTrack.desc                                         "Websites laten weten:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.options.noPreference                         "Niets over mijn volgvoorkeuren">
+<!ENTITY doNotTrack.options.trackingOkay                         "Dat ik gevolgd wil worden">
+<!ENTITY optionsHeader.reporting.title                           "Crashreporter">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; verzendt crashrapporten om Mozilla te helpen uw browser stabieler en veiliger te maken">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                            "Deelt gegevensgebruikstatistieken over &brandShortName; met Mozilla om te helpen uw browser beter te maken">
