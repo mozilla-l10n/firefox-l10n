@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Jo skiednis, blêdwizers, wachtwurden en iepen ljepblêden fanôf al jo apparaten benaderje">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; ynstelle">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; ynstelle">
+<!ENTITY sync.flyout.setup.description1        "As jo in &syncBrand.shortName.label;-account hawwe, selektearje “In apparaat keppelje” op jo oare apparaat en fier dizze koade yn.">
+<!ENTITY sync.flyout.setup.description2        "As jo gjin &syncBrand.shortName.label;-account hawwe, kinne jo der ien oanmeitsje fia jo &brandShortName;-desktopbrowser.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ik bin net by myn kompjûter…">
+<!ENTITY sync.flyout.setup.description3        "Noat:">
+<!ENTITY sync.flyout.setup.description4_2      "Om “In apparaat keppelje” te finen,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Iepen “Opsjes” of “Foarkarren” en selektearje “&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Mear &gt; Ynstellingen &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Fier jo &syncBrand.shortName.label;-accountynformaasje en werstelkaai generearre troch jo kompjûter yn">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Accountnamme">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Wachtwurd">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Werstelkaai">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Ferbine">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Jo hawwe &brandShortName; mei &syncBrand.shortName.label;-account ferbûn">
+<!ENTITY sync.flyout.setupsuccess.description2      "Jo &syncBrand.shortName.label;-gegevens wurde no op de achtergrûn downloaden. Jo syngronisearre ljepblêden kinne jo fine op de &brandShortName;-startside">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; koe net ferbine mei jo &syncBrand.shortName.label;-account.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Annulearje">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Nochris probearje">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Account:">
+<!ENTITY sync.flyout.connected.device                     "Jo apparaat:">
+<!ENTITY sync.flyout.connected.disconnect                 "Ferbining ferbrekke">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Ferbining tusken jo apparaat en &syncBrand.shortName.label; ferbrekke?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Al jo persoanlike gegevens, sawol op dit apparaat as yn jo &syncBrand.shortName.label;-account, bliuwe yntakt.">
+<!ENTITY sync.flyout.connected.cancel                     "Annulearje">
+<!ENTITY sync.flyout.connected.pair                       "In apparaat keppelje">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Selektearje “&syncBrand.shortName.label; ynstelle” op it nije apparaat dêr't jo mei keoppelje wolle en fier de generearre koade yn">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Keppelje">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Noat:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Om de koade te finen,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Iepen “Opsjes” of “Foarkarren” en nim de folgjende stappen: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; ynstelle -&gt; Ik haw in account">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mear &gt; Ynstellingen &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Probearje it opnij">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "It nije apparaaat is mei sukses tafoege.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Jo &syncBrand.shortName.label;-gegevens wurde no op de achtergrûn downloaden. Jo syngronisearre ljepblêden kinne jo fine op de &brandShortName;-startside.">
