@@ -270,6 +270,10 @@ size. -->
 <!ENTITY button_set "Ayarla">
 <!ENTITY button_clear "Temizle">
 
+<!ENTITY home_top_sites_title "Önemli siteler">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+
 <!ENTITY home_history_title "Geçmiş">
 <!ENTITY home_last_tabs_title "Son oturumdaki sekmeler">
 <!ENTITY home_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
@@ -282,9 +286,12 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "İPUCU: Başlık çubuğunda göründüğünde &#037;I simgesine uzun basarak yazıları okuma listenize kaydedebilirsiniz.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "İPUCU: Başlık çubuğunda göründüğünde okuyucu modu düğmesine uzun basarak yazıları okuma listenize kaydedebilirsiniz.">
 
+<!ENTITY home_most_visited_empty "En sık ziyaret ettiğiniz web siteleri burada görünür.">
 <!ENTITY pin_bookmark_dialog_hint "Aranacak anahtar kelimeyi girin">
 
 <!ENTITY filepicker_title "Dosya seç">
