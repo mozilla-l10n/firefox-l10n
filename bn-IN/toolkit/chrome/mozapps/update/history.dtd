@@ -7,9 +7,6 @@
 <!ENTITY  history.intro             "নিম্নলিখিত আপডেটগুলি ইনস্টল করা হয়েছে:">
 <!ENTITY  closebutton.label         "বন্ধ করুন">
                                      
-<!-- ENTITY  detailsButton.label       "বিবরণ" -->
-<!-- ENTITY  detailsButton.accesskey   "D" -->
-
 <!ENTITY  noupdates.label           "কোনো আপডেট এখন অবধি ইনস্টল করা হয়নি">
 
 <!ENTITY  name.header               "আপডেটের নাম">

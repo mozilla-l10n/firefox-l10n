@@ -11,7 +11,6 @@
 <!ENTITY of.label             "সর্বমোট">
 <!ENTITY scale.label          "মাপ:">
 <!ENTITY scale.accesskey      "S">
-<!-- ENTITY percent.label        "&#037;" -->
 <!ENTITY portrait.label       "প্রতিকৃতি">
 <!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "ভূদৃশ্য">
@@ -36,7 +35,5 @@
 
 <!ENTITY homearrow.tooltip    "প্রথম পৃষ্ঠা">
 <!ENTITY endarrow.tooltip     "সর্বশেষ পৃষ্ঠা">
-<!-- ENTITY rightarrow.tooltip   "পরবর্তী পৃষ্ঠা" -->
-<!-- ENTITY leftarrow.tooltip    "পূর্ববর্তী পৃষ্ঠা" -->
 <!ENTITY nextarrow.tooltip    "পরবর্তী পৃষ্ঠা">
 <!ENTITY previousarrow.tooltip "পূর্ববর্তী পৃষ্ঠা">

@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY pluginWizard.title                                  "প্লাগ-ইন অনুসন্ধান পরিসেবা">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title;-এ আপনাকে স্বাগতম">
 
@@ -22,26 +21,10 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName;-র দ্বারা অনুপস্থিত প্লাগ-ইনগুলি ইনস্টল করা হয়েছে:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "প্লাগ-ইন সম্বন্ধে অধিক তথ্য প্রাপ্ত করুন অথবা অনুপস্থিত প্লাগ-ইনগুলি স্বয়ং অনুসন্ধান করুন।">
-<!ENTITY pluginWizard.finalPage.restart.label               "প্লাগ-ইনগুলি কার্যকরী করার জন্য &brandShortName; পুনরায় আরম্ভ করা প্রয়োজন।">
-
-<!-- ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউনলোড করার জন্য এইখানে ক্লিক করুন।" -->
-
-<!-- ENTITY disabledPlugin.label                                "এই বিষয়বস্তুর সাথে ব্যবহারযোগ্য প্লাগ-ইন নিষ্ক্রিয় করা হয়েছে। প্লাগ-ইন পরিচালনার জন্য এইখানে ক্লিক করুন।" -->
-<!ENTITY missingPlugin                                       "তথ্য প্রদর্শনের জন্য একটি প্লাগ-ইন আবশ্যক">
-<!--ENTITY clickToPlayPlugin                                   "প্লাগ-ইন সক্রিয় করার জন্য এইখানে টিপুন।"-->
-<!-- ENTITY clickToPlayPluginVulnerableUpdateAvailable          "সংকটাপন্ন প্লাগ-ইন সক্রিয় করতে এইখানে ক্লিক করুন।" -->
-<!-- ENTITY clickToPlayPluginVulnerableNoUpdate                 "সংকটাপন্ন প্লাগ-ইন সক্রিয় করতে এইখানে ক্লিক করুন (কোনো আপডেট উপলব্ধ নেই)।" -->
-<!ENTITY checkForUpdates                                     "আপডেটের উপস্থিতি পরীক্ষা করুন…">
-<!ENTITY tapToPlayPlugin                                     "প্লাগ-ইন সক্রিয় করতে এইখানে টিপুন।">
-<!ENTITY disabledPlugin                                      "এই প্লাগ-ইনটি নিষ্ক্রিয় রয়েছে।">
-
-<!ENTITY blockedPlugin.label                                 "আপনার নিরাপত্তার জন্য এই প্লাগ-ইন প্রতিরোধ করা হয়েছে।">
-
-<!ENTITY installPlugin                                       "প্লাগ-ইন ইনস্টল করুন…">
-<!ENTITY managePlugins                                       "প্লাগ-ইন পরিচালনা…">
-
+<!ENTITY pluginWizard.finalPage.restart.label                "প্লাগ-ইনগুলি কার্যকরী করার জন্য &brandShortName; পুনরায় আরম্ভ করা প্রয়োজন।">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
+
 <!ENTITY unsupportedPlatform.pre                             "দুঃখিত, &brandShortName; দ্বারা এই ডিভাইসের মধ্যে Flash ব্যবহার করা সম্ভব হবে না। ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -49,13 +32,23 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY missingPlugin                                       "তথ্য প্রদর্শনের জন্য একটি প্লাগ-ইন আবশ্যক">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "প্লাগ-ইন সক্রিয় করতে এইখানে টিপুন।">
+
+<!ENTITY checkForUpdates                                     "আপডেটের উপস্থিতি পরীক্ষা করুন…">
+<!ENTITY disabledPlugin                                      "এই প্লাগ-ইনটি নিষ্ক্রিয় রয়েছে।">
+<!ENTITY blockedPlugin.label                                 "আপনার নিরাপত্তার জন্য এই প্লাগ-ইন প্রতিরোধ করা হয়েছে।">
+
+<!ENTITY installPlugin                                       "প্লাগ-ইন ইনস্টল করুন…">
+<!ENTITY managePlugins                                       "প্লাগ-ইন পরিচালনা…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "পুনরায় প্রচেষ্টা করার জন্য">
 <!ENTITY reloadPlugin.post                                   "  পৃষ্ঠা পুনরায় লোড করুন।">
-
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "বিপর্যয়ের রিপোর্ট পাঠান">
 <!ENTITY report.submitting                                   "রিপোর্ট পাঠানো হচ্ছে…">
@@ -63,5 +56,7 @@
 <!ENTITY report.disabled                                     "বিপর্যয়ের রিপোর্ট সংগ্রহের ব্যবস্থা নিষ্ক্রিয় করা হয়েছে।">
 <!ENTITY report.failed                                       "দায়ের করতে ব্যর্থ।">
 <!ENTITY report.unavailable                                  "কোনো রিপোর্ট উপলব্ধ নয়।">
+<!ENTITY report.comment                                      "একটি মন্তব্য লিখুন (মন্তব্যগুলি সর্বসমক্ষে প্রকাশিত থাকবে)">
+<!ENTITY report.pageURL                                      "পৃষ্ঠার URL-টি অন্তর্ভুক্ত করুন">
 
 

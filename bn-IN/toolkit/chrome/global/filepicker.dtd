@@ -11,7 +11,6 @@
 <!ENTITY name.label             "নাম">
 <!ENTITY size.label             "মাপ">
 <!ENTITY lastModified.label     "সর্বশেষ পরিবর্তনের তারিখ">
-<!-- ENTITY permissions.label      "অনুমতি" -->
 <!ENTITY showHiddenFiles.label  "লুকোনো ফাইল ও ডিরেক্টরি প্রদর্শন করা হবে">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
@@ -20,4 +19,3 @@
 <!ENTITY folderUp.tooltiptext   "এক ধাপ উপরে">
 <!ENTITY folderHome.tooltiptext "ব্যক্তিগত ফোল্ডার দেখুন">
 <!ENTITY folderNew.tooltiptext  "নতুন ডিরেক্টরি নির্মাণ করুন">
-

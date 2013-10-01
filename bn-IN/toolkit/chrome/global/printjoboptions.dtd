@@ -1,18 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
 
+
 <!ENTITY printJobOptions.title "প্রিন্টার সংক্রান্ত বৈশিষ্ট্য">
+
 <!ENTITY paperInput.label "কাগজের মাপ:">
 <!ENTITY paperInput.accesskey "P">
+
 <!ENTITY plexInput.label "Plex মোড:">
 <!ENTITY plexInput.accesskey "m">
+
 <!ENTITY resolutionInput.label "রিসোলিউশন/গুণমান:">
 <!ENTITY resolutionInput.accesskey "e">
+
 <!ENTITY cmdInput.label "প্রিন্ট কর্মের সাথে যুক্ত কমান্ড:">
 <!ENTITY cmdInput.accesskey "o">
+
 <!ENTITY jobTitleInput.label "কর্মের নাম:">
 <!ENTITY jobTitleInput.accesskey "J">
 
