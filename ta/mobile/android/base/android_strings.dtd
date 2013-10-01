@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "&brandShortName;ஐ துவங்க போதிய காலி இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName;ஐ இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "முதன்மையான தளங்கள்">
-<!ENTITY  awesomebar_bookmarks_title "புத்தகக்குறிகள்">
-<!ENTITY  awesomebar_history_title "வரலாறு">
-<!ENTITY  awesomebar_switch_to_tab "தத்தலுக்கு மாற்று">
+<!ENTITY  bookmarks_title "புத்தகக்குறிகள்">
+<!ENTITY  history_title "வரலாறு">
+<!ENTITY  reading_list_title "படிக்கும் பட்டியல்">
+
+<!ENTITY  switch_to_tab "தத்தலுக்கு மாற்று">
 
 <!ENTITY  crash_reporter_title "&brandShortName; சிதைவு அறிக்கையாளர்">
 <!ENTITY  crash_message2 "&brandShortName; சிதைவடைந்துள்ளது. &brandShortName;ஐ மறுதுவங்கும் போது உங்கள் தத்தல்கள் துவக்கப் பக்கத்தில் பட்டியலிடப்பட்டிருக்கும்.">
@@ -18,8 +21,8 @@
 <!ENTITY  crash_sorry "தவறுக்கு மன்னிக்கவும்">
 <!ENTITY  crash_comment "கருத்தை சேர்க்கவும் (கருத்துக்கள் எல்லாரும் பார்க்கும்படியிருக்கும்)">
 <!ENTITY  crash_allow_contact2 "இந்த அறிக்கைக்கு &vendorShortName; என்னை அனுகுமாறு விடு">
-<!ENTITY  crash_email "உங்களின் மின்னஞ்சல்">
-<!ENTITY  crash_closing_alert "விபத்து அறிக்கையை அனுப்பாமலே வெளியேறவா ?">
+<!ENTITY  crash_email "உங்கள் மின்னஞ்சல்">
+<!ENTITY  crash_closing_alert "சிதைவு அறிக்கையை அனுப்பாமலே வெளியேறவா ?">
 <!ENTITY  sending_crash_report "சிதைவு அறிக்கை அனுப்பப்படுகிறது\u2026">
 <!ENTITY  crash_close_label "மூடு">
 <!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "கோப்பினை தேர்வு செய்">
 
-<!ENTITY awesomebar_default_text "தேடு அல்லது முகவரியை உள்ளிடு">
-
-<!ENTITY remote_tabs "ஒத்திசைக்கப்பட்ட தத்தல்கள்">
-<!ENTITY remote_tabs_show_all "அனைத்து தத்தல்களையும் காட்டு">
+<!ENTITY url_bar_default_text "தேடு அல்லது முகவரியை உள்ளிடு">
 
 <!ENTITY bookmark "புத்தகக்குறி">
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
@@ -72,6 +72,10 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
+<!ENTITY pref_category_add_search_providers "கூடுதல் தேடல் வழங்குநர்களைச் சேர்க்க">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 <!ENTITY pref_developer_remotedebugging_docs "மேலும் அறிய">
@@ -82,7 +86,7 @@
 <!ENTITY pref_header_display "காண்பி">
 <!ENTITY pref_header_privacy_short "தனியுரிமை">
 <!ENTITY pref_header_help "உதவி">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
@@ -104,9 +108,8 @@
 <!ENTITY pref_plugins_tap_to_play "இயக்க தட்டவும்">
 <!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_text_size "உரை அளவு">
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "உரை மீளோட்டம்">
+<!ENTITY pref_restore "கீற்றுகள்">
 
 
 <!ENTITY pref_font_size_tiny "நுண்ணிய">
@@ -136,12 +139,16 @@ size. -->
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
 <!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
-
+<!ENTITY pref_private_data_downloadFiles "பதிவிறக்கப்பட்ட கோப்புகள்">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
 
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
+
+<!ENTITY pref_search_default "முன்னிருப்பு">
+
+<!ENTITY pref_search_last_toast "நீங்கள் இறுதியாகப் பயன்படுத்திய தேடல் பொறியை முடக்கவோ நீக்கவோ முடியாது">
 
 <!ENTITY datareporting_notification_title "&brandShortName; நிலவரம் &amp; தரவு">
 <!ENTITY datareporting_notification_action_long "பகிர்வுக்கு எந்த தகவலை தெரிவுசெய்">
@@ -191,21 +198,20 @@ size. -->
 <!ENTITY new_private_tab "புதிய தனிப்பயன் தத்தல்">
 <!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
 
+<!ENTITY tabs_private "தனிப்பட்ட">
 
 
-
-
+<!ENTITY set_image_chooser_title "படத்தை இப்படி அமை">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "முந்தையது">
 <!ENTITY find_next "அடுத்து">
-
+<!ENTITY find_close "மூடு">
 
 <!ENTITY contextmenu_open_new_tab "புதிய தத்தலில் திறக்கவும்">
 <!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
 <!ENTITY contextmenu_open_in_reader "வாசிக்கும் படி திற">
-<!ENTITY contextmenu_remove_history "நீக்கு">
-<!ENTITY contextmenu_remove_bookmark "நீக்கு">
+
 <!ENTITY contextmenu_add_to_launcher "முகப்பு திரையில் சேர்">
 <!ENTITY contextmenu_share "பகிர்">
 <!ENTITY contextmenu_pasteandgo "ஒட்டு &amp; செல்">
@@ -214,6 +220,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "திருத்து">
 <!ENTITY contextmenu_subscribe "பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY contextmenu_site_settings "தள அமைப்புகளை திருத்து">
+
+<!ENTITY contextmenu_top_bookmarks_pin "தளத்தை சொருகு">
+<!ENTITY contextmenu_top_bookmarks_unpin "தளத்தை சொருகல் நீக்கு">
 
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
@@ -232,8 +241,6 @@ size. -->
 <!ENTITY site_settings_cancel       "ரத்துசெய்">
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை">
-
-<!ENTITY reading_list "படிக்கும் பட்டியல்">
 
 
 
@@ -254,26 +261,26 @@ size. -->
 <!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
 
-<!ENTITY abouthome_addons_title "உங்களின் &brandShortName; க்கான நீட்சிகள்">
-<!ENTITY abouthome_addons_browse "எல்லா &brandShortName; நீட்சிகளையும் உலாவு">
+<!ENTITY home_top_sites_title "முதன்மையான தளங்கள்">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
-<!ENTITY abouthome_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
-<!ENTITY abouthome_top_sites_title "முதன்மையான தளங்கள்">
-<!ENTITY abouthome_topsites_edit "திருத்து">
-<!ENTITY abouthome_topsites_pin "தளத்தை சொருகு">
-<!ENTITY abouthome_topsites_unpin "தளத்தை சொருகல் நீக்கு">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_history_title "வரலாறு">
 
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox ஒத்திசைவு">
-<!ENTITY abouthome_apps_bold_name2 "பையர்பாக்ஸ் சந்தை">
+<!ENTITY home_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
 
 <!ENTITY filepicker_title "கோப்பினை தேர்வு செய்">
 <!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
@@ -313,6 +320,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "தயவு செய்து காத்திருக்கவும்...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">

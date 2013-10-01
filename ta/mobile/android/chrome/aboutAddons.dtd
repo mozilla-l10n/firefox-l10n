@@ -6,8 +6,8 @@
 <!ENTITY aboutAddons.header2                    "உங்களுடைய நீட்சிகள்">
 <!ENTITY aboutAddons.options                    "தேர்வுகள்">
 
+
 <!ENTITY addonAction.enable                     "செயல்படுத்து">
 <!ENTITY addonAction.disable                    "செயல்நீக்கு">
 <!ENTITY addonAction.uninstall                  "நிறுவுல் நீக்கு">
 <!ENTITY addonAction.undo                       "மறை">
-<!ENTITY addonAction.setDefault                 "முன்னிருப்பாக அமை">
