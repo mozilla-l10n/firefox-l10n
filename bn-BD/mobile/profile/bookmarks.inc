@@ -65,16 +65,4 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-
-
-
-# link title for about:home
-
-
-
-#define bookmarks_aboutHome ফায়ারফক্স চালু করুন
-
-
-
 #unfilter emptyLines

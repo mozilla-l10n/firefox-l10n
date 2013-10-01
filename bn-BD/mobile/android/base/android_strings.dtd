@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "আপনার &brandShortName; সেটআপ করা হচ্ছে">
-<!ENTITY  splash_bookmarks_history "আমরা আপনার বুকমার্ক এবং ইতিহাস হালনাগাদ করছি, যার জন্য কিছু সময়ের প্রয়োজন।">
-
-<!ENTITY  no_space_to_start_error "আরম্ভ করার জন্য &brandShortName; এ পর্যাপ্ত পরিমান জায়গা নেই।">
+<!ENTITY  no_space_to_start_error "শুরু করার জন্য &brandShortName; এ পর্যাপ্ত পরিমান জায়গা নেই।">
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "শীর্ষ সাইট">
-<!ENTITY  awesomebar_bookmarks_title "বুকমার্ক">
-<!ENTITY  awesomebar_history_title "ইতিহাস">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  reading_list_title "পড়ার তালিকা">
+
+<!ENTITY  switch_to_tab " ট্যাবে সুইচ করুন   ">
+
+<!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
+
+<!ENTITY  crash_send_report_message3 "এই নষ্ট হয়ে যাওয়া সম্পর্কে &vendorShortName; বলুন যাতে তারা এটা ঠিক করতে পারে">
+<!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন                ">
+<!ENTITY  crash_sorry " আমরা দুঃখিত                ">
+<!ENTITY  crash_comment "মন্তব্য যোগ করুন (মন্তব্যগুলো সবাই দেখতে পাবে)">
+<!ENTITY  crash_allow_contact2 "এই প্রতিবেদন সম্পর্কে যোগাযোগ করতে &vendorShortName; কে অনুমোদন দেয়া হবে">
+<!ENTITY  crash_email "আপনার ইমেইল">
+<!ENTITY  crash_closing_alert "ক্র্যাশ প্রতিবেদন না পাঠিয়ে প্রস্থান করবেন?">
 <!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হবে\u2026">
 <!ENTITY  crash_close_label "বন্ধ">
 <!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করা হবে">
@@ -33,15 +33,13 @@
 
 <!ENTITY choose_file "ফাইল পছন্দ করুন">
 
-<!ENTITY awesomebar_default_text "ঠিকানার জন্য অনুসন্ধান করুন">
-
-<!ENTITY remote_tabs "সিঙ্ককৃত ট্যাব">
-<!ENTITY remote_tabs_show_all "সকল ট্যাব প্রদর্শিত হবে">
+<!ENTITY url_bar_default_text "ঠিকানার জন্য অনুসন্ধান করুন">
 
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক হালনাগাদ করা হয়েছে">
+<!ENTITY bookmark_options "অপশন">
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
@@ -61,46 +59,55 @@
 <!ENTITY one_tab "১ ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
 
 <!ENTITY settings "সেটিং">
 <!ENTITY settings_title "সেটিং">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
+
+
+
+
+
+
+
+
+
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+
+
+
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখা হবে">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privacy &amp; Security">
-<!ENTITY pref_header_content "Content">
+
+
+
+
 
 <!ENTITY pref_cookies_menu "কুকি">
 <!ENTITY pref_cookies_accept_all "সক্রিয়">
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
+
+
+
 
 <!ENTITY pref_char_encoding "অক্ষর এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+
 <!ENTITY pref_clear_private_data "ব্যাক্তিগত ডাটা মুছে ফেলা হবে">
 <!ENTITY pref_plugins "প্লাগইন">
 <!ENTITY pref_plugins_enabled "সক্রিয়">
 <!ENTITY pref_plugins_tap_to_play "খেলতে হলে ট্যাপ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
-<!ENTITY pref_reflow_on_zoom2 "রিফ্লো টেক্সট পিন্চ করুন">
+
+
+
+
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
 <!ENTITY pref_font_size_small "ছোট">
 <!ENTITY pref_font_size_medium "মাঝারি">
@@ -116,8 +123,6 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
-
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_show_product_announcements "পণ্যের ঘোষণা প্রদর্শন করুন">
 <!ENTITY pref_sync "সিঙ্ক">
@@ -129,29 +134,38 @@ size. -->
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+
+
+
+<!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
+
+<!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+
+
+
+
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+
 
 <!ENTITY pref_update_autodownload "স্বয়ংক্রিয় হালনাগাদ">
 <!ENTITY pref_update_autodownload_wifi "শুধু ওয়াইফাই নির্ভর">
@@ -175,12 +189,11 @@ size. -->
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সবগুলি ট্যাব বন্ধ করুন">
-<!ENTITY tabs_normal "ট্যাব">
+
 <!ENTITY tabs_private "ব্যক্তিগত">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "ওয়ালপেপার আপডেট করা হয়েছে">
-<!ENTITY wallpaper_progress "ওয়ালপেপার সেটিং">
-<!ENTITY wallpaper_fail "ওয়ালপেপার সেট করতে ব্যার্থ হয়েছে">
+
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -192,20 +205,21 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_open_in_reader "একটি রিডার খুলুন">
-<!ENTITY contextmenu_remove_history "অপসারণ">
-<!ENTITY contextmenu_remove_bookmark "অপসারণ">
+
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রীনে যোগ করা হবে">
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "প্রতিলেপন &amp; অগ্রসর">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
 
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
+
+
+
+
+
+
+
+
 
 <!ENTITY history_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
 
@@ -215,18 +229,16 @@ size. -->
 <!ENTITY bookmark_edit_keyword "কীওয়ার্ড">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
-<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "বাতিল">
 <!ENTITY site_settings_clear        "মুছে ফেলা হবে">
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
 
-<!ENTITY reading_list "পড়ার তালিকা">
 <!ENTITY reading_list_added "আপনার পঠন তালিকায় পৃষ্ঠা যোগ করা হয়েছে">
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
 <!ENTITY reading_list_failed "আপনার পঠন তালিকায় পৃষ্ঠা সংযুক্তকরণ ব্যর্থ হয়েছে">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
-<!ENTITY reader "রিডার">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "মাস্টার পাসওয়ার্ড তৈরি করুন">
 <!ENTITY masterpassword_remove_title "মাস্টার পাসওয়ার্ড অপসারণ">
@@ -241,28 +253,25 @@ size. -->
 <!ENTITY button_set "নির্ধারণ করুন">
 <!ENTITY button_clear "মুছে ফেলুন">
 
-<!ENTITY abouthome_addons_title "আপনার brandShortName এর জন্য অ্যাড-অন;">
-<!ENTITY abouthome_addons_browse "brandShortName সকল ব্রাউজ করুন; অ্যাড-অন">
-<!ENTITY abouthome_last_tabs_title "শেষবারের মত আপনার ট্যাব">
-<!ENTITY abouthome_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
-<!ENTITY abouthome_top_sites_title "শীর্ষ সাইট">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_top_sites_title "শীর্ষ সাইট">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
-<!ENTITY abouthome_about_sync3 "বুকমার্কে প্রবেশ করতে ফায়ারফক্স সিঙ্ক সেটআপ করুন,ইতিহাস এবং ট্যাব আপনার অন্যান্য ডিভাইস থেকে &#x00A0;»">
-<!ENTITY abouthome_about_apps3 "মোজিলা মার্কেটপ্লেস থেকে অ্যাপ্লিকেশন পান এবং শ্রেষ্ঠ ওয়েব অফার&#x00A0;» আবিষ্কার করুন">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "ফায়ারফক্স সিঙ্ক">
-<!ENTITY abouthome_apps_bold_name2 "ফায়ারফক্স মার্কেটপ্লেস">
+
+<!ENTITY home_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
 
 <!ENTITY filepicker_title "ফাইল বেছে নিন">
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
@@ -283,6 +292,13 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "উপরোক্ত সাইটটির পরিচালক">
+<!-- Mixed content notifications in site identity popup -->
+
+
+
+
+
+
 
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য পরিষ্কার করা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
@@ -297,12 +313,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
 <!ENTITY webapp_generic_name "অ্যাপ">
 
 <!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "brandShortName এর জন্য হালনাগাদ বিদ্যমান;">
@@ -315,3 +333,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "brandShortName এর জন্য হালনাগাদ বিদ্যমান;">
 <!ENTITY updater_apply_select2 "হালনাগাদের জন্য স্পর্শ করুন">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "চালিয়ে যান">
+
+
+
+
+
