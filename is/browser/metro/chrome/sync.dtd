@@ -11,13 +11,13 @@
 <!ENTITY sync.flyout.setup.title "Setja upp &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Ef þú ert með &syncBrand.shortName.label; reikning, veldu &quot;Para tæki&quot; á hinu tækinu og sláðu inn þennan kóða.">
 <!ENTITY sync.flyout.setup.description2 "Ef þú ert ekki með &syncBrand.shortName.label; reikning, geturðu búið til reikning í &brandShortName; vafra.">
-<!ENTITY sync.flyout.setup.manual.label "Ég er ekki nálægt tölvunni minni...">
+<!ENTITY sync.flyout.setup.manual.label_2 "É&g er ekki nálægt tölvunni minni…">
 <!ENTITY sync.flyout.setup.description3 "Athugasemd:">
-<!ENTITY sync.flyout.setup.description4 "Þú getur valið &quot;Para tæki&quot; með">
-<!ENTITY sync.flyout.setup.description5 "[Tölva] Stillingar -&gt; Sync">
-<!ENTITY sync.flyout.setup.description6 "[Android] Fleiri &gt; Stillingar &gt; Sync">
+<!ENTITY sync.flyout.setup.description4_2 "Til að finna &quot;Para tæki&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[Borðtölva] Opnaðu &quot;Valkosti&quot; eða &quot;Stillingar&quot; og veldu svo &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Fleiri &gt; Stillingar &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
-<!ENTITY sync.flyout.manualsetup.description1 "Sláðu inn &syncBrand.shortName.label; reikningsupplýsingar og endurheimtu lykilinn sem var búinn af tölvunni þinni">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Sláðu inn &syncBrand.shortName.label; reikningsupplýsingar og endurheimtu lykilinn sem var búinn af tölvunni þinni">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Heiti reiknings">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Lykilorð">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Endurheimtunarlykill">
@@ -41,8 +41,8 @@
 <!ENTITY sync.flyout.pairNewDevice.description "Á nýja tækinu sem þú vilt para við, &quot;Setja upp &syncBrand.shortName.label;&quot; og sláðu inn kóðann sem tækið gefur">
 <!ENTITY sync.flyout.pairNewDevice.pair "Par">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Athugasemd:">
-<!ENTITY sync.flyout.pairNewDevice.note2 "Þú getur farið í &syncBrand.shortName.label; til að finna kóða á">
-<!ENTITY sync.flyout.pairNewDevice.note3 "[Tölva] Verkfæri -&gt; Setja upp Sync -&gt; Ég er með reikning">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Til að finna kóðann,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Borðtölva] Opnaðu &quot;Valkosti&quot; eða &quot;Stillingar&quot; og fylgdu svo leiðbeiningunum eftir: &syncBrand.shortName.label; -&gt; Setja upp &syncBrand.shortName.label; -&gt; Ég er með reikning">
 <!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Fleiri &gt; Stillingar &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure "Vinsamlegast reyndu aftur">
 <!-- Flyout when a device has been successfully paired -->
