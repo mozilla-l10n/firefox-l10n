@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Menedżer aplikacji">
+<!ENTITY index.projects "Aplikacje">
+<!ENTITY index.device "Urządzenie">
+
+<!ENTITY device.screenshot "Zrzut ekranu">
+<!ENTITY device.title "Menedżer urządzeń">
+<!ENTITY device.notConnected "Nie połączono. Połącz z urządzeniem poniżej.">
+<!ENTITY device.startApp "Start">
+<!ENTITY device.stopApp "Stop">
+<!ENTITY device.debugApp "Debuguj">
+<!ENTITY device.name "Nazwa">
+<!ENTITY device.app "Aplikacje">
+<!ENTITY device.privileged "Uprzywilejowane">
+<!ENTITY device.certified "Certyfikowane">
+<!ENTITY device.allow "Zezwalaj">
+<!ENTITY device.prompt "Pytaj">
+<!ENTITY device.deny "Odmawiaj">
+<!ENTITY device.installedApps "Zainstalowane aplikacje">
+<!ENTITY device.permissions "Uprawnienia">
+
+<!ENTITY connection.disconnect "Rozłącz">
+<!ENTITY connection.showDeviceCtrlCenter "Kliknij, by dowiedzieć się więcej">
+<!ENTITY connection.notConnected "Rozłączony">
+<!ENTITY connection.changeHostAndPort "Zmień">
+<!ENTITY connection.startSimulator "Uruchom symulator">
+<!ENTITY connection.saveConnectionInfo "Zapisz">
+<!ENTITY connection.connecting "Łączenie…">
+<!ENTITY connection.disconnecting "Rozłączanie…">
+<!ENTITY connection.cancel "Anuluj">
+<!ENTITY connection.or "lub">
+
+<!ENTITY projects.localApps "Aplikacje lokalne">
+<!ENTITY projects.addApp "Dodaj">
+<!ENTITY projects.addPackaged "Dodaj aplikację lokalną">
+<!ENTITY projects.addHosted "Dodaj aplikację zdalną">
+<!ENTITY projects.title "Aplikacje lokalne">
+<!ENTITY projects.appDetails "Szczegóły">
+<!ENTITY projects.removeApp "Usuń">
+<!ENTITY projects.reloadFiles "Odśwież">
+<!ENTITY projects.installApp "Zainstaluj">
+<!ENTITY projects.startApp "Start">
+<!ENTITY projects.stopApp "Stop">
+<!ENTITY projects.debugApp "Debuguj">
+<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
+<!ENTITY projects.noProject "Brak projektu. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
