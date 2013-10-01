@@ -28,7 +28,7 @@
 
 <!-- Flyout when user has just connected -->
 <!ENTITY sync.flyout.setupsuccess.description1      "Du har nu forbundet &brandShortName; til din &syncBrand.shortName.label;-konto">
-<!ENTITY sync.flyout.setupsuccess.description2      "Dine &syncBrand.shortName.label;-data bliver nu hentet i baggrunden. Du kan finde dine synkroniserede faneblade på startsiden i  &brandShortName;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Dine &syncBrand.shortName.label;-data bliver nu hentet i baggrunden. Du kan finde dine synkroniserede faneblade på startsiden i &brandShortName;">
 
 <!-- Flyout when setup failed -->
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName; kunne ikke oprette forbindelse til din &syncBrand.shortName.label;-konto.">
@@ -40,7 +40,7 @@
 <!ENTITY sync.flyout.connected.device                     "Din enhed:">
 <!ENTITY sync.flyout.connected.disconnect                 "Afbryd forbindelse">
 <!ENTITY sync.flyout.connected.disconnectWarningHeader    "Vil du afbryde din enhed med &syncBrand.shortName.label;?">
-<!ENTITY sync.flyout.connected.disconnectWarning          "Alle dine personlige data, både på denne enhed og på din &syncBrand.shortName.label;-konto vil forblive intakte.">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Alle dine personlige data på denne enhed og på din &syncBrand.shortName.label;-konto vil forblive intakte.">
 <!ENTITY sync.flyout.connected.cancel                     "Afbryd">
 <!ENTITY sync.flyout.connected.pair                       "Tilføj en enhed">
 
@@ -49,7 +49,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Par">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Bemærk:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "Sådan finder du adgangskoden">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og følg derefter trinen: &syncBrand.shortName.label; -&gt; Opsæt &syncBrand.shortName.label; -&gt; Jeg har en konto">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og følg derefter trinene: &syncBrand.shortName.label; -&gt; Opsæt &syncBrand.shortName.label; -&gt; Jeg har en konto">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mere &gt; Indstillinger &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igen">
 

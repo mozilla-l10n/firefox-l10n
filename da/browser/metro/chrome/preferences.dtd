@@ -8,9 +8,9 @@
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Indstillinger">
 <!ENTITY optionsHeader.startup.title                             "Opstart">
-<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; starter, vis">
-<!ENTITY optionsHeader.homepage.startPage.button                 "startsiden">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "faneblade fra sidste gang">
+<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; starter">
+<!ENTITY optionsHeader.homepage.startPage.button                 "Vis starsiden">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "Vis faneblade fra sidste gange">
 <!ENTITY optionsHeader.char.title                                "Tegnkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Detekter automatisk">
 <!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-baren">
@@ -21,10 +21,10 @@
 <!ENTITY clearPrivateData.done                                   "Færdig!">
 <!ENTITY clearPrivateData.history                                "Browserhistorik">
 <!ENTITY clearPrivateData.otherdata                              "Andre data (adgangskoder, cache, cookies, osv.)">
-<!ENTITY clearPrivateData.downloadHist                           "Hent historik">
+<!ENTITY clearPrivateData.downloadHist                           "Hent filhentningshistorik">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
-<!ENTITY clearPrivateData.sitePref                               "Webstedsindstillinger">
+<!ENTITY clearPrivateData.sitePref                               "Webstedsspecifikke indstillinger">
 <!ENTITY clearPrivateData.formSearchHist                         "Formular- og søgehistorik">
 <!ENTITY clearPrivateData.passwords                              "Gemte adgangskoder">
 <!ENTITY clearPrivateData.offline                                "Offline webstedsdata">

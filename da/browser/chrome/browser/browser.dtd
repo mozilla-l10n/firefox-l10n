@@ -705,8 +705,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "Tillad og husk">
 <!ENTITY pluginBlockNow.label "Bloker plugin">
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
 <!ENTITY tabCrashed.header "Fanebladet gik ned">
-<!ENTITY tabCrashed.message "Se, det her er pinligt. Vi forsøgte at vise dette websted, men det svarer ikke">
+<!ENTITY tabCrashed.message "Se, det her er pinligt. Vi forsøgte at vise denne webside, men det svarer ikke">
 <!ENTITY tabCrashed.checkSendReport "Fortæl &vendorShortName; om dette, så de kan ordne problemet.">
-<!ENTITY tabCrashed.tryAgain "Try Again">
+<!ENTITY tabCrashed.tryAgain "Prøv igen">
 

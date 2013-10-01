@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label   "Åbn fejlkonsol">
 <!ENTITY appbarJSShell.label        "Åbn JavaScript-kommandolinje">
 <!ENTITY appbarFindInPage2.label    "Find på siden">
-<!ENTITY appbarViewOnDesktop2.label "Se på skrivebord">
+<!ENTITY appbarViewOnDesktop2.label "Vis på skrivebord">
 
 <!ENTITY topSitesHeader.label        "Foretrukne websteder">
 <!ENTITY bookmarksHeader.label       "Bogmærker">
@@ -39,7 +39,7 @@
 <!ENTITY downloadShowPage.label    "Gå til side">
 <!ENTITY downloadShow2.label       "Søg">
 <!ENTITY downloadOpen2.label       "Åbn">
-<!ENTITY downloadCancel.label      "Anuller">
+<!ENTITY downloadCancel.label      "Annuller">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Genoptag">
 <!ENTITY downloadRetry.label       "Prøv igen">
@@ -53,22 +53,22 @@
 <!ENTITY consoleAll.label          "Alle">
 <!ENTITY consoleErrors.label       "Fejl">
 <!ENTITY consoleWarnings.label     "Advarsler">
-<!ENTITY consoleMessages.label     "Beskeder">
+<!ENTITY consoleMessages.label     "Meddelelser">
 <!ENTITY consoleCodeEval.label     "Kode:">
 <!ENTITY consoleClear.label        "Ryd">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kildefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
-<!ENTITY consoleErrColumn.label    "Række:">
+<!ENTITY consoleErrColumn.label    "Kolonne:">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Klip">
 <!ENTITY contextTextCopy.label             "Kopier">
 <!ENTITY contextTextPaste.label            "Indsæt">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Indsæt &amp; kør">
-<!ENTITY contextTextSelect.label           "Vælg">
-<!ENTITY contextTextSelectAll.label        "Vælg alt">
+<!ENTITY contextTextPasteAndGo.label       "Indsæt og gå">
+<!ENTITY contextTextSelect.label           "Marker">
+<!ENTITY contextTextSelectAll.label        "Marker alt">
 
 <!-- LINK CONTEXT MENU -->
 <!ENTITY contextOpenLinkTab.label          "Åbn link i et nyt faneblad">

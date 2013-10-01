@@ -9,7 +9,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette websted (<span id='malware_sitename'/> er blevet anmeldt som et angrebswebsted og blokeres i overenstemmelse med dine sikkerhedspræferencer.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette websted (<span id='malware_sitename'/>) er blevet anmeldt som et angrebswebsted og blokeres i overenstemmelse med dine sikkerhedspræferencer.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Angrebswebsteder forsøger at installere programmer, der stjæler private oplysninger, bruger din computer til at angribe andre eller skader dit system</p><p>Nogle angrebswebsteder distribuerer med forsæt skadelig software, mens andre er blevet kompromitteret uden ejernes viden eller tilladelse.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Mistænkt netsvindel!">
