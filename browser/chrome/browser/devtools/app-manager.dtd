@@ -8,7 +8,7 @@
 <!ENTITY index.help "Hjælp">
 
 <!ENTITY device.screenshot "Skærmbillede">
-<!ENTITY device.screenshotTooltip "Åbn et skærmskud af enhedens nuværende tilstand i et nyt faneblad">
+<!ENTITY device.screenshotTooltip "Åbn et skærmbillede af enhedens nuværende tilstand i et nyt faneblad">
 <!ENTITY device.title "Kontrolcenter for enhed">
 <!ENTITY device.notConnected "Ikke forbundet. Opret forbindelse til din enhed nedenfor">
 <!ENTITY device.startApp "Start">
@@ -24,13 +24,13 @@
 <!ENTITY device.allow "Tillad">
 <!ENTITY device.allowTooltip "Denne tilladelse gælder for apps af denne type.">
 <!ENTITY device.prompt "Spørg">
-<!ENTITY device.promptTooltip "Denne tilladelse kræver at brugeren spørges for apps af denne type.">
-<!ENTITY device.deny "Nægt">
+<!ENTITY device.promptTooltip "Denne tilladelse kræver at brugeren spørges ved apps af denne type.">
+<!ENTITY device.deny "Afvis">
 <!ENTITY device.denyTooltip "Denne tilladelse nægtes for apps af denne type.">
 <!ENTITY device.installedApps "Installerede apps">
 <!ENTITY device.installedAppsTooltip "Vis en liste med installerede apps på denne enhed. Nogle apps, fx certificerede apps, kan være udeladt fra listen">
 <!ENTITY device.permissions "Tilladelser">
-<!ENTITY device.permissionsTooltip "Vis en tabel med de tilladelser, der gælder de forskellige typer af apps.">
+<!ENTITY device.permissionsTooltip "Vis en tabel med de tilladelser, der gælder for de forskellige typer af apps.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Hjælp">
 
@@ -43,25 +43,25 @@
 <!ENTITY connection.changeHostAndPort "Ændr">
 <!ENTITY connection.changeHostAndPortTooltip "Ændr værten og porten, der bruges til at oprette forbindelse til denne enhed. (Standard er localhost:6000)">
 <!ENTITY connection.startSimulator "Start Simulator">
-<!ENTITY connection.startSimulatorTooltip "Start en instans af Simulatoren og opret forbindelse til den.">
+<!ENTITY connection.startSimulatorTooltip "Start en instans af Simulator og opret forbindelse til den.">
 <!ENTITY connection.saveConnectionInfo "Gem">
 <!ENTITY connection.saveConnectionInfoTooltip "Gem værten og porten.">
 <!ENTITY connection.connecting "Opretter forbindelse…">
 <!ENTITY connection.disconnecting "Afbryder forbindelse…">
 <!ENTITY connection.cancel "Annuller">
 <!ENTITY connection.cancelConnectTooltip "Annuller oprettelse af forbindelse.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Forlad Simulatorens forbindelses-mode og vend tilbage til den oprindelige'prompt.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Forlad Simulators forbindelses-mode og vend tilbage til den oprindelige prompt.">
 <!ENTITY connection.or "eller">
-<!ENTITY connection.noSimulatorInstalled "Ingen Simulator installeret.">
+<!ENTITY connection.noSimulatorInstalled "Simulator ikke installeret.">
 <!ENTITY connection.installOneSimulator "Installer Simulator">
-<!ENTITY connection.installOneSimulatorTooltip "Installer en version af Simulatoren ved at hente den relevante tilføjelse.">
+<!ENTITY connection.installOneSimulatorTooltip "Installer en version af Simulator ved at hente den relevante tilføjelse.">
 <!ENTITY connection.installAnotherSimulator "Tilføj">
-<!ENTITY connection.installAnotherSimulatorTooltip "Installer en yderligere version af Simulatoren ved at hente den relevante tilføjelse.">
+<!ENTITY connection.installAnotherSimulatorTooltip "Installer en yderligere version af Simulator ved at hente den relevante tilføjelse.">
 
 <!ENTITY projects.localApps "Lokale apps">
 <!ENTITY projects.addApp "Tilføj">
 <!ENTITY projects.addPackaged "Tilføj pakket app">
-<!ENTITY projects.addPackagedTooltip "Tilføjet en ny pakket app (en mappe) fra fin computer.">
+<!ENTITY projects.addPackagedTooltip "Tilføjet en ny pakket app (en mappe) fra din computer.">
 <!ENTITY projects.addHosted "Tilføj hosted app">
 <!ENTITY projects.addHostedTooltip "Tilføj en ny hosted app (link til en manifest.webapp fil) fra et websted.">
 <!ENTITY projects.title "Lokale apps">
@@ -76,7 +76,7 @@
 
 <!ENTITY help.title "App-manager">
 <!ENTITY help.close "Luk">
-<!ENTITY help.intro "Dette værktøj hjælper dig med at skrive og installere web-apps på kompatible enheder (dvs. Firefox OS). Under fanebladet <strong>Apps</strong> finder du hjælp til validerings- og installeringsprocessen for din app. Under fanebladet <strong>Enhed</strong> finder du information om den tilsluttede enhed. Brug værktøjsbaren i bunden til at oprette forbindelse til en enhed eller starte Simulatoren. ">
+<!ENTITY help.intro "Dette værktøj hjælper dig med at skrive og installere web-apps på kompatible enheder (dvs. Firefox OS). Under fanebladet <strong>Apps</strong> finder du hjælp til validerings- og installeringsprocessen for din app. Under fanebladet <strong>Enhed</strong> finder du information om den tilsluttede enhed. Brug værktøjslinjen i bunden til at oprette forbindelse til en enhed eller starte Simulator. ">
 <!ENTITY help.usefullLinks "Nyttige links:">
 <!ENTITY help.appMgrDoc "Dokumentation: App-manageren">
 <!ENTITY help.configuringDevice "Sådan opsætter du din Firefox OS-enhed">

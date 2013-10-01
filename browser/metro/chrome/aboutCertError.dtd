@@ -26,12 +26,12 @@ forsøger at give sig ud for at være dette websted, og du bør ikke fortsætte.
 <!ENTITY certerror.getMeOutOfHere.label "Få mig væk herfra!">
 
 <!ENTITY certerror.expert.heading "Jeg er indforstået med risikoen">
-<!ENTITY certerror.expert.content "Hvis du ved hvad der foregår, kan du bede 
-&brandShortName; om fremadrettet at stole på dette websteds identifikation.
-<b>Selvom du stoler på dette websted, kan denne fejl stadig betyde at nogen
+<!ENTITY certerror.expert.content "Hvis du ved, hvad der foregår, kan du bede 
+&brandShortName; om at stole på dette websteds identifikation fremover.
+<b>Selvom du stoler på dette websted, kan denne fejl stadig betyde, at nogen
 roder med din forbindelse.</b>">
-<!ENTITY certerror.expert.contentPara2 "Tilføj ikke en undtagelse med mindre du 
-kender en god grund til, hvorfor dette websted ikke bruger sikker identifikation.">
+<!ENTITY certerror.expert.contentPara2 "Tilføj ikke en undtagelse, med mindre du 
+kender en god grund til, at dette websted ikke bruger sikker identifikation.">
 <!ENTITY certerror.addTemporaryException.label "Besøg webstedet">
 <!ENTITY certerror.addPermanentException.label "Tilføj permanent undtagelse">
 
