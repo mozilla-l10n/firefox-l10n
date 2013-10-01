@@ -35,7 +35,7 @@
 <!ENTITY happy.maybeLater2         "Võib-olla hiljem">
 <!ENTITY happy.noThanks            "Tänan, kuid ei soovi">
 
-<!ENTITY sad.message               "Meil on kahju, et kogesid &brandShortName;iga probleeme. Palun anna meile teada, mis juhtus, nii et me saaks vea parandada.">
+<!ENTITY sad.message               "Meil on kahju, et kogesid &brandShortName;iga probleeme. Palun anna meile teada, mis juhtus, et me saaks vea parandada.">
 <!ENTITY sad.placeholder           "Sisesta oma tagasiside siia">
 <!ENTITY sad.lastSite              "Viimati külastatud sait (valikuline)">
 

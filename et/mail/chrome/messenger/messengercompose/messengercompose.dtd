@@ -79,7 +79,7 @@
 <!ENTITY deleteCmd.accesskey                 "u">
 <!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
 <!ENTITY editRewrapCmd.key                   "R">
-<!ENTITY renameAttachmentCmd.label           "Nimeta manus ümber…">
+<!ENTITY renameAttachmentCmd.label           "Muuda manuse nime…">
 <!ENTITY renameAttachmentCmd.accesskey       "e">
 <!ENTITY selectAllCmd.label                  "Vali kõik">
 <!ENTITY selectAllCmd.key                    "A">

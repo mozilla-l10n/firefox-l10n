@@ -12,7 +12,7 @@
 <!ENTITY addMailAccountButton.accesskey  "L">
 <!ENTITY addIMAccountButton.label        "Lisa kiirsuhtluse konto…">
 <!ENTITY addIMAccountButton.accesskey    "k">
-<!ENTITY addFeedAccountButton.label      "Lisa uudisvoogude konto…">
+<!ENTITY addFeedAccountButton.label      "Lisa uudistevoogude konto…">
 <!ENTITY addFeedAccountButton.accesskey  "u">
 <!ENTITY addOtherAccountButton.label     "Lisa muu konto…">
 <!ENTITY addOtherAccountButton.accesskey "i">
