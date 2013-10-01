@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "নতুন ডিভাইস কার্যকর করতে, ডিভাইসের “syncBrand.shortName.label সেটআপ;” নির্বাচন করুন">
 <!ENTITY sync.subtitle.header2.label "আপনার অন্য ডিভাইসে এই কোড প্রবেশ করান">
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+
 <!ENTITY sync.subtitle.pair.label "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির \&quot;একটি ডিভাইস জোড়া দিন\&quot; নির্বাচন করুন।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন।">
 <!ENTITY sync.link.advancedsetup.label "উন্নত সেটআপ…">
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডি‌ভাইসের জন্য অপেক্ষা করুন…">
@@ -84,7 +84,6 @@
 <!ENTITY bookmarks.folder.mobile.label "মোবাইল বুকমার্ক">
 <!ENTITY bookmarks.folder.readinglist.label "পড়ার তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "শুধুমাত্র একটি &syncBrand.fullName.label; অ্যাকাউন্ট সমর্থিত।">
