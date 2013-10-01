@@ -555,7 +555,7 @@
 <!ENTITY printButton.tooltip                           "Prindi valitud kiri">
 <!ENTITY stopButton.tooltip                            "Katkesta andmeedastus">
 <!ENTITY junkButton.tooltip                            "Märgi valitud kirjad rämpspostiks">
-<!ENTITY notJunkButton.tooltip                         "Märgi see kiri mitte-rämpspostiks">
+<!ENTITY notJunkButton.tooltip                         "Eemalda sellelt kirjalt rämpsposti märge">
 <!ENTITY addressBookButton.tooltip                     "Ava aadressiraamat">
 <!ENTITY chatButton.tooltip                            "Kuva kiirsuhtluse kaarti">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">

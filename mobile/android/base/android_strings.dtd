@@ -12,7 +12,7 @@
 <!ENTITY  awesomebar_switch_to_tab       "Vaheta kaarti">
 
 <!ENTITY  crash_reporter_title           "&brandShortName;i vigadest teatamise rakendus">
-<!ENTITY  crash_message2                 "&brandShortName;il lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
+<!ENTITY  crash_message2                 "&brandShortName; lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
 <!ENTITY  crash_send_report_message3     "&vendorShortName;le antakse sellest veast teada, et nad saaks selle parandada">
 <!ENTITY  crash_include_url2             "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
 <!ENTITY  crash_sorry                    "Meil on kahju">

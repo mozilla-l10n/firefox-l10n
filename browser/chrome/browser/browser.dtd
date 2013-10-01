@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey                      "l">
 <!ENTITY urlbar.placeholder2                     "Otsi või sisesta aadress">
 <!ENTITY urlbar.accesskey                        "d">
-<!ENTITY urlbar.switchToTab.label                "Vaheta kaardile:">
+<!ENTITY urlbar.switchToTab.label                "Lülitu kaardile:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey              "V">
 <!ENTITY viewImageDescCmd.label                  "Vaata kirjeldust">
 <!ENTITY viewImageDescCmd.accesskey              "k">
-<!ENTITY viewVideoCmd.label                      "Vaata Videot">
+<!ENTITY viewVideoCmd.label                      "Vaata videot">
 <!ENTITY viewVideoCmd.accesskey                  "i">
 <!ENTITY viewBGImageCmd.label                    "Vaata taustapilti">
 <!ENTITY viewBGImageCmd.accesskey                "s">
