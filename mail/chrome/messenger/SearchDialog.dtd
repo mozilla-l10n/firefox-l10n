@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey "E">
 <!ENTITY composeButton.label "Skrifa">
 <!ENTITY composeButton.accesskey "S">
+<!ENTITY deleteCardButton.label "Eyða">
+<!ENTITY deleteCardButton.accesskey "ð">
 <!ENTITY abSearchDialogTitle.label "Ítarleg nafnaskrá leit">
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Umræða">
