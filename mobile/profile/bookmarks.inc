@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: เกี่ยวกับเบราเซอร์ของคุณ
+#define bookmarks_aboutBrowser Firefox: เกี่ยวกับเบราว์เซอร์ของคุณ
 
 
 
@@ -62,18 +62,6 @@
 
 
 #define bookmarks_support Firefox: ความช่วยเหลือ
-
-
-
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-
-
-
-# link title for about:home
-
-
-
-#define bookmarks_aboutHome หน้าเริ่มต้นของ Firefox
 
 
 
