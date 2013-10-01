@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "ส่วนเสริม">
 <!ENTITY aboutAddons.header2                    "ส่วนเสริมของคุณ">
 <!ENTITY aboutAddons.options                    "ตัวเลือก">
+<!ENTITY aboutAddons.browseAll                  "ดูส่วนเสริมทั้งหมดของ Firefox">
 
 <!ENTITY addonAction.enable                     "เปิดใช้งาน">
 <!ENTITY addonAction.disable                    "ปิดใช้งาน">
 <!ENTITY addonAction.uninstall                  "ถอนการติดตั้ง">
 <!ENTITY addonAction.undo                       "เลิกทำ">
-

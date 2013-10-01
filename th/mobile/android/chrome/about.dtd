@@ -10,8 +10,8 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "กำลังหาการปรับปรุง…">
 <!ENTITY aboutPage.checkForUpdates.none         "ไม่พบการปรับปรุง">
 <!ENTITY aboutPage.checkForUpdates.available2   "ดาวน์โหลดการปรับปรุง">
-
-
+<!ENTITY aboutPage.checkForUpdates.downloading  "กำลังดาวน์โหลดการปรับปรุง…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "ติดตั้งการปรับปรุง">
 <!ENTITY aboutPage.faq.label                    "คำถามที่พบบ่อย">
 <!ENTITY aboutPage.support.label                "การสนับสนุน">
 <!ENTITY aboutPage.privacyPolicy.label          "นโยบายความเป็นส่วนตัว">
