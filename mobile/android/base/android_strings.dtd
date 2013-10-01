@@ -187,6 +187,8 @@
 <!ENTITY site_settings_title3 "Impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
+<!ENTITY home_top_sites_title "Siti principali">
+<!ENTITY home_top_sites_add "Aggiungi un sito">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
