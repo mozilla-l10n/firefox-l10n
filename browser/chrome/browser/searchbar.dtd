@@ -3,5 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cmd_engineManager.label        "সার্চ ইঞ্জিন পরিচালনা...">
-<!-- ENTITY cmd_engineManager.accesskey    "M" -->
 <!ENTITY searchEndCap.label             "অনুসন্ধান">

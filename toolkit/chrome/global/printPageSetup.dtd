@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printSetup.title    "পৃষ্ঠার বৈশিষ্ট্য নির্ধারণ">
 
@@ -11,8 +11,6 @@
 <!ENTITY formatGroup.label   "বিন্যাস">
 
 <!ENTITY orientation.label   "দিশা:">
-<!-- ENTITY portrait            "প্রতিকৃতি" -->
-<!-- ENTITY landscape           "ভূদৃশ্য" -->
 <!ENTITY portrait.label      "প্রতিকৃতি">
 <!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "ভূদৃশ্য">
@@ -57,15 +55,10 @@
 <!ENTITY footerRight.tip     "ডানদিকের ফুটার">
 
 <!ENTITY hfTitle             "শিরোনাম">
-<!-- ENTITY hfTitle.code        "[&amp;T]" -->
 <!ENTITY hfURL               "URL">
-<!-- ENTITY hfURL.code          "[&amp;U]" -->
 <!ENTITY hfDateAndTime       "তারিখ/সময়">
-<!-- ENTITY hfDateAndTime.code  "&amp;D" -->
 <!ENTITY hfPage              "পৃষ্ঠা #">
-<!-- ENTITY hfPage.code         "[&amp;P]" -->
 <!ENTITY hfPageAndTotal      "সর্বমোট পৃষ্ঠা #, বর্তমান পৃষ্ঠা #">
-<!-- ENTITY hfPageAndTotal.code "[&amp;PT]" -->
 <!ENTITY hfBlank             "--শূণ্য--">
 <!ENTITY hfCustom            "স্বনির্ধারিত...">
 

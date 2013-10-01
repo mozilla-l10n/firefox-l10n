@@ -7,7 +7,6 @@
 
 <!ENTITY treehead.sitename.label      "সাইট">
 <!ENTITY treehead.status.label        "অবস্থা">
-<!-- ENTITY addpermission.label          "নতুন সাইট" -->
 <!ENTITY removepermission.label       "সাইট অপসারণ করুন">
 <!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "সমস্ত সাইট মুছে ফেলুন">
@@ -24,3 +23,4 @@
 
 <!ENTITY button.close.label           "বন্ধ করুন">
 <!ENTITY button.close.accesskey       "C">
+

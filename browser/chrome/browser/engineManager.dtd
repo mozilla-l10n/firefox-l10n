@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "নাম">
 <!ENTITY  columnLabel.keyword       "অভিব্যক্তি">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "উপরে স্থানান্তর">
 <!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "নীচে স্থানান্তর">

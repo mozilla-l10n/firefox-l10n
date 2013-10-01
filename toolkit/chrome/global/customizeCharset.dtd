@@ -3,14 +3,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title.label      "পছন্দ অনুসারে ক্যারেক্টার এনকোডিং">
-<!ENTITY current.label    "সক্রিয় ক্যারেক্টার এনকোডিং:">
-<!ENTITY remove.label     "সরিয়ে ফেলুন">
-<!ENTITY remove.accessKey "R">
-<!ENTITY additional.label "উপলব্ধ ক্যারেক্টার এনকোডিং:">
-<!ENTITY add.label        "যোগ করুন">
-<!ENTITY add.accessKey    "A">
-<!ENTITY moveUp.label     "উপরে স্থানান্তরণ">
-<!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label   "নীচে স্থানান্তরণ">
+<!ENTITY title.label        "পছন্দ অনুসারে ক্যারেক্টার এনকোডিং">
+<!ENTITY current.label      "সক্রিয় ক্যারেক্টার এনকোডিং:">
+<!ENTITY remove.label       "সরিয়ে ফেলুন">
+<!ENTITY remove.accessKey   "R">
+<!ENTITY additional.label   "উপলব্ধ ক্যারেক্টার এনকোডিং:">
+<!ENTITY add.label          "যোগ করুন">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "উপরে স্থানান্তরণ">
+<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveDown.label     "নীচে স্থানান্তরণ">
 <!ENTITY moveDown.accessKey "D">
