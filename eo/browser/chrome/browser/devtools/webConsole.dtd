@@ -67,7 +67,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Registrado">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Registri mesaĝojn senditajn al la objekto window.console">
 <!ENTITY btnPageLogging.accesskey "L">
 <!ENTITY btnConsoleErrors       "Eraroj">
 <!ENTITY btnConsoleInfo         "Informo">
