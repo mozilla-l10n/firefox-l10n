@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Greek (GR)
+#define MOZ_LANG_TITLE English (US)

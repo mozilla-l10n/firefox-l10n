@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip "Close">
+<!ENTITY debuggerUI.closeButton.tooltip "Κλείσιμο">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -31,12 +31,17 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-<!ENTITY debuggerUI.optsButton.tooltip  "Debugger Options">
+<!ENTITY debuggerUI.optsButton.tooltip  "Επιλογές αποσφαλμάτωσης">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions     "Pause on exceptions">
+<!ENTITY debuggerUI.pauseExceptions     "Παύση σε εξαιρέσεις">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Αγνόηση εξαιρέσεων">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "Ψ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
