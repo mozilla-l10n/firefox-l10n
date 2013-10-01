@@ -270,6 +270,11 @@ size. -->
 <!ENTITY button_set "設定">
 <!ENTITY button_clear "清除">
 
+<!ENTITY home_top_sites_title "最常瀏覽">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "新增網站">
+
 <!ENTITY home_history_title "歷史記錄">
 <!ENTITY home_last_tabs_title "上次開啟的分頁">
 <!ENTITY home_last_tabs_open "打開上次開啟的所有分頁">
