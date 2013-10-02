@@ -75,3 +75,6 @@
 <!ENTITY revertCmd.label              "Doprowôdzë nazôd…">
 <!ENTITY revertCmd.accesskey          "D">
 
+<!ENTITY pprint.label                 "Pretty Print">
+<!ENTITY pprint.key                   "p">
+

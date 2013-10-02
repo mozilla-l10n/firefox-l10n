@@ -35,7 +35,7 @@
 <!ENTITY checkSpelling.label             "Sprôwdzôj pisënk">
 <!ENTITY checkSpelling.accesskey         "p">
 
-<!ENTITY systemDefaults.label            "Systemòwé nastôwë">
+<!ENTITY systemDefaults.label            "Systemòwé nastawë">
 <!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszanim, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
 <!ENTITY alwaysCheckDefault.accesskey    "p">
 <!ENTITY networkTab.label                "Séc">
@@ -43,7 +43,7 @@
 <!ENTITY connection.label                "Sparłãczenié">
 
 <!ENTITY connectionDesc.label            "Ùstawi to jak &brandShortName; mô sã sparłãczëc z Internetã">
-<!ENTITY connectionSettings.label        "Nastôwë…">
+<!ENTITY connectionSettings.label        "Nastawë…">
 <!ENTITY connectionSettings.accesskey    "N">
 <!ENTITY offlineStorage2.label           "Pamiãc dlô tribù offline i pòdôwków">
 

@@ -77,7 +77,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Szerifòwi">
 <!ENTITY  useDefaultFontSansSerif.label           "Bezszerifòwi">
 
-<!ENTITY  allowPagesToUse.label                   "Zezwòlë stronóm ùżëwac jinëch fòntów òd ùstôwionëch">
+<!ENTITY  allowPagesToUse.label                   "Zezwòlë stronóm ùżëwac jinëch fòntów òd ùstawionëch">
 <!ENTITY  allowPagesToUse.accesskey               "Z">
 
 <!ENTITY languages.customize.Fallback.grouplabel "Kòdowanié dlô starszich stronów">
