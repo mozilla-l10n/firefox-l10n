@@ -32,10 +32,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Spara lösenord">
 <!ENTITY doNotTrack.title                                        "Spårning">
-<!ENTITY doNotTrack.desc                                         "Säg till webbplatser:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Jag vill inte bli spårad">
-<!ENTITY doNotTrack.options.noPreference                         "Inget om min inställning till spårning">
-<!ENTITY doNotTrack.options.trackingOkay                         "Jag vill bli spårad">
+<!ENTITY doNotTrack.options.doNotTrack                           "Be webbplatser att inte spåra mig">
+<!ENTITY doNotTrack.options.doTrack                              "Tillåt webbplatser att spåra mig">
+<!ENTITY doNotTrack.options.default                              "Säg inget till webbplatser om min inställning till spårning">
+<!ENTITY doNotTrack.learnMoreLink                                "Läs mer …">
+
 <!ENTITY optionsHeader.reporting.title                           "Kraschrapportör">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; skickar kraschrapporter för att hjälpa Mozilla att göra webbläsaren mer stabil och säker">
 <!ENTITY optionsHeader.telemetry.title                           "Telemetri">
