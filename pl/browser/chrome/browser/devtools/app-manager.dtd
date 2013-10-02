@@ -5,6 +5,7 @@
 <!ENTITY index.title "Menedżer aplikacji">
 <!ENTITY index.projects2 "Aplikacje">
 <!ENTITY index.device2 "Urządzenie">
+<!ENTITY index.help "Pomoc">
 
 <!ENTITY device.screenshot "Zrzut ekranu">
 <!ENTITY device.screenshotTooltip "Otwiera w nowej karcie zrzut ekranu obecnego stanu urządzenia.">
@@ -72,3 +73,13 @@
 <!ENTITY projects.debugApp "Debuguj">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Brak projektów. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
+
+<!ENTITY help.title "Menedżer aplikacji">
+<!ENTITY help.close "Zamknij">
+<!ENTITY help.intro "To narzędzie pomaga budować i instalować aplikacje na kompatybilnych urządzeniach (np. Firefox OS). W karcie <strong>Aplikacje</strong> można zainstalować i zweryfikować wybraną aplkiację. Karta <strong>Urządzenie</strong> dostarcza informacje o podłączonym urządzeniu. Dolny pasek pozwala połączyć się z urządzeniem lub uruchomić symulator.">
+<!ENTITY help.usefullLinks "Użyteczne odnośniki:">
+<!ENTITY help.linkToAppMgrDoc "<a>Dokumentacja: używanie mendżera aplikacji</a>">
+<!ENTITY help.linkToConfiguringDevice "<a>Jak skonfigurować urządzenie z Firefox OS</a>">
+<!ENTITY help.linkToTroubleShooting "<a>Troubleshooting</a>">
+<!ENTITY help.linkToSimulatorAddon "<a>Zainstaluj symulator jako dodatek</a>">
+<!ENTITY help.linkToAdbHelperAddon "<a>Zainstaluj dodatek „Adb Helper”</a>">
