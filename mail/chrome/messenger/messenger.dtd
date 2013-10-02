@@ -490,7 +490,7 @@
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Povolit vzdálené ladění">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+<!ENTITY allowRemoteDebugging.accesskey "o">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Přijmout zprávy">
