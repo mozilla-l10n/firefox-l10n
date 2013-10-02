@@ -8,69 +8,68 @@
 <!ENTITY index.help "Pomoc">
 
 <!ENTITY device.screenshot "Zrzut ekranu">
-<!ENTITY device.screenshotTooltip "Otwiera w nowej karcie zrzut ekranu obecnego stanu urządzenia.">
+<!ENTITY device.screenshotTooltip "Otwiera w nowej karcie zrzut ekranu obecnego stanu urządzenia">
 <!ENTITY device.title "Menedżer urządzeń">
 <!ENTITY device.notConnected "Nie połączono. Połącz z urządzeniem poniżej.">
 <!ENTITY device.startApp "Start">
-<!ENTITY device.startAppTooltip "Uruchamia plikację na urządzeniu.">
+<!ENTITY device.startAppTooltip "Uruchamia plikację na urządzeniu">
 <!ENTITY device.stopApp "Stop">
-<!ENTITY device.stopAppTooltip "Zatrzymuje aplikację na urządzeniu.">
+<!ENTITY device.stopAppTooltip "Zatrzymuje aplikację na urządzeniu">
 <!ENTITY device.debugApp "Debuguj">
-<!ENTITY device.debugAppTooltip "Otwiera narzędzia dla programistów połączone z aplikacją na urządzeniu.">
+<!ENTITY device.debugAppTooltip "Otwiera narzędzia dla programistów połączone z aplikacją na urządzeniu">
 <!ENTITY device.name "Nazwa">
 <!ENTITY device.app "Aplikacje">
 <!ENTITY device.privileged "Uprzywilejowane">
 <!ENTITY device.certified "Certyfikowane">
 <!ENTITY device.allow "Zezwalaj">
-<!ENTITY device.allowTooltip "Aplikacje tego typu posiadają takie uprawnienie.">
+<!ENTITY device.allowTooltip "Aplikacje tego typu posiadają takie uprawnienie">
 <!ENTITY device.prompt "Pytaj">
-<!ENTITY device.promptTooltip "Aplikacje tego typu muszą wyświetlać pytanie o takie uprawnienia.">
+<!ENTITY device.promptTooltip "Aplikacje tego typu muszą wyświetlać pytanie o takie uprawnienia">
 <!ENTITY device.deny "Odmawiaj">
-<!ENTITY device.denyTooltip "Aplikacje tego typu nie posiadają takich uprawnień.">
+<!ENTITY device.denyTooltip "Aplikacje tego typu nie posiadają takich uprawnień">
 <!ENTITY device.installedApps "Zainstalowane aplikacje">
-<!ENTITY device.installedAppsTooltip "Wyświetla listę aplikacji zainstalowanych na urządzeniu. Niektóre aplikacje (np. certyfikowane) mogą nie być wymienione na tej liście.">
+<!ENTITY device.installedAppsTooltip "Wyświetla listę aplikacji zainstalowanych na urządzeniu. Niektóre aplikacje (np. certyfikowane) mogą nie być wymienione na tej liście">
 <!ENTITY device.permissions "Uprawnienia">
-<!ENTITY device.permissionsTooltip "Wyświetla tabelę uprawnień dostępnych dla różnych typów aplikacji.">
+<!ENTITY device.permissionsTooltip "Wyświetla tabelę uprawnień dostępnych dla różnych typów aplikacji">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Pomoc">
 
-<!ENTITY connection.connectTooltip "Łączy z urządzeniem.">
+<!ENTITY connection.connectTooltip "Łączy z urządzeniem">
 <!ENTITY connection.disconnect "Rozłącz">
-<!ENTITY connection.disconnectTooltip "Rozłącza z aktualnie podłączonym urządzeniem lub symulatorem.">
+<!ENTITY connection.disconnectTooltip "Rozłącza z aktualnie podłączonym urządzeniem lub symulatorem">
 <!ENTITY connection.showDeviceCtrlCenter "Kliknij, by dowiedzieć się więcej">
 <!ENTITY connection.notConnected "Rozłączony">
 <!ENTITY connection.changeHostAndPort "Zmień">
-<!ENTITY connection.changeHostAndPortTooltip "Zmienia nazwę hosta i port używany do łączenia z urządzeniem (domyślnie „localhost:6000”).">
+<!ENTITY connection.changeHostAndPortTooltip "Zmienia nazwę hosta i port używany do łączenia z urządzeniem (domyślnie „localhost:6000”)">
 <!ENTITY connection.startSimulator "Uruchom symulator">
 <!ENTITY connection.startSimulatorTooltip "Uruchamia instancję symulatora i łączy z nią">
 <!ENTITY connection.saveConnectionInfo "Zapisz">
-<!ENTITY connection.saveConnectionInfoTooltip "Zapisuje nazwę hosta i numer portu.">
+<!ENTITY connection.saveConnectionInfoTooltip "Zapisuje nazwę hosta i numer portu">
 <!ENTITY connection.connecting "Łączenie…">
 <!ENTITY connection.disconnecting "Rozłączanie…">
 <!ENTITY connection.cancel "Anuluj">
-<!ENTITY connection.cancelConnectTooltip "Przerywa trwający proces łączenia.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Zamyka tryb łączenia z symulatorem i przechodzi do stanu wyjściowego.">
+<!ENTITY connection.cancelConnectTooltip "Przerywa trwający proces łączenia">
+<!ENTITY connection.cancelShowSimulatorTooltip "Zamyka tryb łączenia z symulatorem i przechodzi do stanu wyjściowego">
 <!ENTITY connection.or "lub">
 <!ENTITY connection.noSimulatorInstalled "Brak zainstalowanego symulatora.">
 <!ENTITY connection.installOneSimulator "Zainstaluj symulator">
-<!ENTITY connection.installOneSimulatorTooltip "Instaluje symulator poprzez pobranie odpowiedniego dodatku.">
+<!ENTITY connection.installOneSimulatorTooltip "Instaluje symulator poprzez pobranie odpowiedniego dodatku">
 <!ENTITY connection.installAnotherSimulator "Dodaj">
-<!ENTITY connection.installAnotherSimulatorTooltip "Instaluje dodatkowy symulator poprzez pobranie odpowiedniego dodatku.">
+<!ENTITY connection.installAnotherSimulatorTooltip "Instaluje dodatkowy symulator poprzez pobranie odpowiedniego dodatku">
 
 <!ENTITY projects.localApps "Aplikacje lokalne">
 <!ENTITY projects.addApp "Dodaj">
 <!ENTITY projects.addPackaged "Dodaj aplikację lokalną">
-<!ENTITY projects.addPackagedTooltip "Dodaje nową aplikację lokalną (katalog) z komputera.">
+<!ENTITY projects.addPackagedTooltip "Dodaje nową aplikację lokalną (katalog) z komputera">
 <!ENTITY projects.addHosted "Dodaj aplikację zdalną">
-<!ENTITY projects.addHostedTooltip "Dodaje nową aplikację zdalną (odnośnik do pliku „manifest.webapp”) z sieci.">
+<!ENTITY projects.addHostedTooltip "Dodaje nową aplikację zdalną (odnośnik do pliku „manifest.webapp”) z sieci">
 <!ENTITY projects.title "Aplikacje lokalne">
 <!ENTITY projects.appDetails "Szczegóły">
 <!ENTITY projects.removeAppFromList "Usuwa aplikację z listy aplikacji w menedżerze. Nie usuwa aplikacji z urządzenia i symulatora.">
-<!ENTITY projects.reloadFiles "Odśwież">
-<!ENTITY projects.installApp "Zainstaluj">
-<!ENTITY projects.startApp "Start">
-<!ENTITY projects.stopApp "Stop">
+<!ENTITY projects.updateApp "Uaktualnij">
+<!ENTITY projects.updateAppTooltip "Weryfikuje aplikację i aktualizuje ją na podłączonym urządzeniu">
 <!ENTITY projects.debugApp "Debuguj">
+<!ENTITY projects.debugAppTooltip "Otwiera narzędzia dla programistów połączone z aplikacją">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Brak projektów. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
 
