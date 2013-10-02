@@ -48,7 +48,7 @@
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY documentationLink.label "Ayuda de borrador en MDN">
 <!ENTITY documentationLink.accesskey "D">
-<!ENTITY resetContext2.label "Restablecer">
+<!ENTITY resetContext2.label "Restablecer variables">
 <!ENTITY resetContext2.accesskey "R">
 <!ENTITY reloadAndRun.label "Recargar y ejecutar">
 <!ENTITY reloadAndRun.accesskey "E">
