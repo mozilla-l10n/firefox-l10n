@@ -6,7 +6,7 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY accountSetupTitle.label    "Ùstôwë &syncBrand.fullName.label;">
+<!ENTITY accountSetupTitle.label    "Ùstawë &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 

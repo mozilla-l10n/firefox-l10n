@@ -61,7 +61,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemActiveLogins.label            "Aktiwné wlogòwania">
 <!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Nastôwé stronów">
+<!ENTITY itemSitePreferences.label         "Nastawë stronów">
 <!ENTITY itemSitePreferences.accesskey     "N">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

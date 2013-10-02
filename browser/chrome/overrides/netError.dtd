@@ -30,7 +30,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nie szło nalezc serwera">
-<!ENTITY dnsNotFound.longDesc "<p>Przezérnik ni mógł nalezc serwera dlô pòdónégò adresu.</p><ul><li>Nót je ùgwësnic sã, że wprowôdzony adres je dobri (np. <q><strong>www</strong>.mozilla.org</q>, a ni <q><strong>ww</strong>.mozilla.org</q>)</li><li>Czë abë na gwës strona  dali egzystëje? Czas ji registracji mógł ju ùńc.</li><li>Ni mòże òbzerac jinszich stronów? Nót je sprôwdzëc swòje sparłãczenié z sécą jakno i nastôwë serwerów DNS.</li><li>Czë kòmpùtr brëkòwnika abò séc je zabezpieczonô przez ògniową zapòrã abò serwer proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów z przezéranim internetowëch stronów.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Przezérnik ni mógł nalezc serwera dlô pòdónégò adresu.</p><ul><li>Nót je ùgwësnic sã, że wprowôdzony adres je dobri (np. <q><strong>www</strong>.mozilla.org</q>, a ni <q><strong>ww</strong>.mozilla.org</q>)</li><li>Czë abë na gwës strona  dali egzystëje? Czas ji registracji mógł ju ùńc.</li><li>Ni mòże òbzerac jinszich stronów? Nót je sprôwdzëc swòje sparłãczenié z sécą jakno i nastawë serwerów DNS.</li><li>Czë kòmpùtr brëkòwnika abò séc je zabezpieczonô przez ògniową zapòrã abò serwer proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów z przezéranim internetowëch stronów.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nie jidze nalezc lopka">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mòżlëwé, że nen lopk òstôł rëminãti, przeniosłi abò mô zmienioné miono.</li><li>Nót je òbaczëc, czë w pòdónym adresu ni ma felë pisënkù, w tim wiôlgòscë lëterów,  czë téż tipògraficznëch felów.</li><li>Nót je ùgwësnic sã, że mô sã dobré prawa przistãpù do przezéraniô stronë.</li></ul>">
@@ -75,10 +75,10 @@ ju wicy automatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl�
 <!ENTITY protocolNotFound.longDesc "<p>Adres zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze stroną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowëch ùsłëżnotów? Sprôwdzë, czë strona ni mô dodôwnëch wëmôganiów.</li><li>Òbsłużënk niejednëch protokołów mòże chcec softwôrë abò wtëkôczów òd bùntnowich producentów.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serwer proxy pòcysnął sparłãczenié">
-<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastôw i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastawë i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nie jidze nalezc serwera proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracjô serwerów proxy dobrô? Nót je sprôwdzëc nastôw i spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracjô serwerów proxy dobrô? Nót je sprôwdzëc nastawë i spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Òpãtlo przeczérowaniów">
 <!ENTITY redirectLoop.longDesc "<p>Przezérnik òprzestół próbã zladënkù żądónegò elementu. strona przeczerowùje żądanié na ôrt, chtëren nie dôwô mòżnotë jegò skùńczeniô.</p><ul><li>Są kùszczi wëłączoné abò zablokòwóné dlô ti stronë?</li><li><em>BÔCZËNK</em>: Jeżlë włączenié òbsłużënkù kùszków dlô ti stronë nie rozwiąże problemu, je to prôwdopòdodno problem kònfigùracji serwera, a ni twòjégò kòmpùtra.</li></ul>">
@@ -98,7 +98,7 @@ ju wicy automatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl�
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Na strona mòże bëc terëczasno nieprzistãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
-  <li>Jeżlë ni mòżesz zaladowac niżódny stronë, Sprôwdzë ùstôwë swòjégò sécowégò sparłãczeniô.</li>
+  <li>Jeżlë ni mòżesz zaladowac niżódny stronë, Sprôwdzë ùstawë swòjégò sécowégò sparłãczeniô.</li>
   <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy. Sprôwdzë, czë program &brandShortName; mô prawa przëstãpù do Internetu.</li>
 </ul>
 ">

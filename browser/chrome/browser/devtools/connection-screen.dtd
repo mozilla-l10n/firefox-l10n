@@ -12,7 +12,7 @@
 <!ENTITY host       "Hòst:">
 <!ENTITY port       "Pòrt:">
 <!ENTITY connect    "Sparłãczenié">
-<!ENTITY connecting "Derëje sparłãczenié…">
+<!ENTITY connecting "Dérëje sparłãczenié…">
 <!ENTITY availableTabs "Przistãpné zdalné kôrtë:">
 <!ENTITY availableProcesses "Przistãpné zdalné procesë:">
 <!ENTITY connectionError "Fela:">

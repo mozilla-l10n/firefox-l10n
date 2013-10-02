@@ -36,7 +36,7 @@
 <!ENTITY  reloadTab.accesskey                "d">
 <!ENTITY  reloadAllTabs.label                "Zladëjë wszëtczé kôrtë znowa">
 <!ENTITY  reloadAllTabs.accesskey            "w">
-<!ENTITY  closeOtherTabs.label               "Zamkni jinszé kôrtë">
+<!ENTITY  closeOtherTabs.label               "Zamkni resztã kôrtów">
 <!ENTITY  closeOtherTabs.accesskey           "i">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
@@ -74,7 +74,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Òtemkni lopk…">
 <!ENTITY openFileCmd.accesskey "l">
 <!ENTITY openFileCmd.commandkey "l">
-<!ENTITY printSetupCmd.label "Nastôwë stronë…">
+<!ENTITY printSetupCmd.label "Nastawë stronë…">
 <!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Pòdzérk drëkù">
 <!ENTITY printPreviewCmd.accesskey "ò">
@@ -143,7 +143,7 @@ can reach it easily. -->
 <!ENTITY stopCmd.label                "Zatrzëmôj">
 <!ENTITY stopCmd.accesskey            "Z">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Zatrzëmôj ladowanié ti stronë">
+<!ENTITY stopButton.tooltip           "Zascygni ladowanié stronë">
 <!ENTITY goEndCap.tooltip             "Biéj do stronë z pòdónym adresã">
 <!ENTITY printButton.label            "Drëkùjë">
 <!ENTITY printButton.tooltip          "Drëkùjë tã stronã">
@@ -248,8 +248,8 @@ can reach it easily. -->
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "R"> 
 <!ENTITY selectAllCmd.label         "Wëbierzë wszëtkò">  
-<!ENTITY selectAllCmd.key         "W">  
-<!ENTITY selectAllCmd.accesskey       "w"> 
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "k"> 
 <!ENTITY preferencesCmd2.label       "Òptacje">
 <!ENTITY preferencesCmd2.accesskey     "Ò">
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
@@ -371,7 +371,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "k">
 <!ENTITY viewBGImageCmd.label         "Wëskrzëni òbrôzk spódka">
 <!ENTITY viewBGImageCmd.accesskey     "ò">
-<!ENTITY setDesktopBackgroundCmd.label      "Nastôwi jakno tapetã…">
+<!ENTITY setDesktopBackgroundCmd.label      "Ùsôdzë jakno tapetã…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "t">
 <!ENTITY bookmarkPageCmd2.label       "Dodôj do załóżków">
 <!ENTITY bookmarkPageCmd2.accesskey   "D">
@@ -494,13 +494,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Spòdlowi sztél">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip            "Zmieni nastôwë blokadë wëskakùjącëch òknów dlô ti stronë">
+<!ENTITY pageReportIcon.tooltip            "Zmieni nastawë blokadë wëskakùjącëch òknów dlô ti stronë">
 <!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Editëjë preferencje blokadë wëskakùjącëch òknów…">
-<!ENTITY editPopupSettings.label "Editëjë nastôwë blokadë wëskakùjącëch òknów…">
+<!ENTITY editPopupSettings.label "Editëjë nastawë blokadë wëskakùjącëch òknów…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Zmieni czerënk stronë">
@@ -594,8 +594,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!-- labels are set dynamically, see browser.properties -->
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY social.ok.label "Jo">
 <!ENTITY social.ok.accesskey "J">
@@ -613,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "f">
 
 <!ENTITY devToolboxMenuItem.label          "Wëbierzë nôrzãdło">
-<!ENTITY devToolbarToolsButton.tooltip     "Wëbierzë dewelopersczi nôrzãdło">
+<!ENTITY devToolbarToolsButton.tooltip     "Wëbierzë dewelopersczé nôrzãdło">
 <!ENTITY devToolboxMenuItem.accesskey      "W">
 
 <!ENTITY devtoolsConnect.label        "Sparłãczë sã…">
@@ -697,8 +695,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullscreenExitHint2.value "Wcësni ESC bë zakùńczëc.">
 <!ENTITY identity.permissions "Prawa">
 
+<!ENTITY devAppMgrMenu.label               "App Manadżer">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 
-
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "Zapiszë lënk w…">
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Zapiszë stronã w…">
+<!ENTITY tabCrashed.checkSendReport "Sélôj wiadło ò awarie do &vendorShortName; bë ją naprawilë.">
+<!ENTITY tabCrashed.header "Awariô kôrtë">
+<!ENTITY tabCrashed.message "Terô je nama głupie. Próbòwalësmë sã sparłãczëc ze stroną, równak òna nie òdpòwiadô.">
+<!ENTITY tabCrashed.tryAgain "Sróbùjë jesz rôz">
+<!ENTITY  undoCloseTabs.label                "Copni zamkniãcé kôrtów">
 
 
 
