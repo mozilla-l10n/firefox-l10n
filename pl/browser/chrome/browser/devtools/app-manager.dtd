@@ -37,8 +37,9 @@
 <!ENTITY connection.connectTooltip "Łączy z urządzeniem">
 <!ENTITY connection.disconnect "Rozłącz">
 <!ENTITY connection.disconnectTooltip "Rozłącza z aktualnie podłączonym urządzeniem lub symulatorem">
-<!ENTITY connection.showDeviceCtrlCenter "Kliknij, by dowiedzieć się więcej">
-<!ENTITY connection.notConnected "Rozłączony">
+<!ENTITY connection.notConnected2 "Rozłączony.">
+<!ENTITY connection.connectTo "Połącz z:">
+<!ENTITY connection.noDeviceFound "Nie znaleziono urządzenia. Podłącz urządzenie">
 <!ENTITY connection.changeHostAndPort "Zmień">
 <!ENTITY connection.changeHostAndPortTooltip "Zmienia nazwę hosta i port używany do łączenia z urządzeniem (domyślnie „localhost:6000”)">
 <!ENTITY connection.startSimulator "Uruchom symulator">
