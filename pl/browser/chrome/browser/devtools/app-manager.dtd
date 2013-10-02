@@ -78,8 +78,8 @@
 <!ENTITY help.close "Zamknij">
 <!ENTITY help.intro "To narzędzie pomaga budować i instalować aplikacje na kompatybilnych urządzeniach (np. Firefox OS). W karcie <strong>Aplikacje</strong> można zainstalować i zweryfikować wybraną aplkiację. Karta <strong>Urządzenie</strong> dostarcza informacje o podłączonym urządzeniu. Dolny pasek pozwala połączyć się z urządzeniem lub uruchomić symulator.">
 <!ENTITY help.usefullLinks "Użyteczne odnośniki:">
-<!ENTITY help.linkToAppMgrDoc "<a>Dokumentacja: używanie mendżera aplikacji</a>">
-<!ENTITY help.linkToConfiguringDevice "<a>Jak skonfigurować urządzenie z Firefox OS</a>">
-<!ENTITY help.linkToTroubleShooting "<a>Troubleshooting</a>">
-<!ENTITY help.linkToSimulatorAddon "<a>Zainstaluj symulator jako dodatek</a>">
-<!ENTITY help.linkToAdbHelperAddon "<a>Zainstaluj dodatek „Adb Helper”</a>">
+<!ENTITY help.appMgrDoc "Dokumentacja: używanie mendżera aplikacji">
+<!ENTITY help.configuringDevice "Jak skonfigurować urządzenie z Firefox OS">
+<!ENTITY help.troubleShooting "Rozwiązywanie problemów">
+<!ENTITY help.simulatorAddon "Zainstaluj symulator jako dodatek">
+<!ENTITY help.adbHelperAddon "Zainstaluj dodatek „Adb Helper”">
