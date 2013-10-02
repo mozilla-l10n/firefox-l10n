@@ -9,8 +9,8 @@
 <!ENTITY optionsHeader.title                                     "Indstillinger">
 <!ENTITY optionsHeader.startup.title                             "Opstart">
 <!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; starter">
-<!ENTITY optionsHeader.homepage.startPage.button                 "Vis starsiden">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "Vis faneblade fra sidste gange">
+<!ENTITY optionsHeader.homepage.startPage.button                 "Vis startsiden">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "Vis faneblade fra sidste gang">
 <!ENTITY optionsHeader.char.title                                "Tegnkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Detekter automatisk">
 <!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-baren">
