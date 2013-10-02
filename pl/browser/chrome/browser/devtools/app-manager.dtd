@@ -32,6 +32,9 @@
 <!ENTITY connection.disconnecting "Rozłączanie…">
 <!ENTITY connection.cancel "Anuluj">
 <!ENTITY connection.or "lub">
+<!ENTITY connection.noSimulatorInstalled "Brak zainstalowanego symulatora.">
+<!ENTITY connection.installFirstSimulator "Zainstaluj symulator.">
+<!ENTITY connection.installAnotherSimulator "Dodaj">
 
 <!ENTITY projects.localApps "Aplikacje lokalne">
 <!ENTITY projects.addApp "Dodaj">
