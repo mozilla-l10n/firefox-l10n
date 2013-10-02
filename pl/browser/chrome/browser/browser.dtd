@@ -640,9 +640,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Przenieś zaznaczenie do czatów">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY social.markpage.accesskey "s">
+<!ENTITY social.markpageMenu.accesskey "s">
 <!ENTITY social.markpageMenu.label "Zapisz stronę w…">
-<!ENTITY social.marklink.accesskey "o">
+<!ENTITY social.marklinkMenu.accesskey "o">
 <!ENTITY social.marklinkMenu.label "Zapisz odnośnik w…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera do udostępnienia:">
