@@ -670,6 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "Karta uległa awarii">
 <!ENTITY tabCrashed.message "Przepraszamy! Staraliśmy się wyświetlić tę stronę, ona jednak nie odpowiada.">
+<!ENTITY tabCrashed.checkSendReport "Poinformuj organizację &vendorShortName; o tej awarii, aby pomóc naprawić problem.">
 <!ENTITY tabCrashed.tryAgain "Spróbuj ponownie">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
