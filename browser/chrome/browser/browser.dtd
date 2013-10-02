@@ -700,3 +700,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "No tastean">
 <!ENTITY pluginActivateAlways.label "Tastean en ûnthâlde">
 <!ENTITY pluginBlockNow.label "Blokkearje ynstekker">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
+<!ENTITY tabCrashed.header "Ljepblêd ferûngelokke">
+<!ENTITY tabCrashed.message "No, dit is ûnnoflik. Wy hawwe probearre om dizze website te toanen, mar it reagearret net.">
+<!ENTITY tabCrashed.checkSendReport "Fertel &vendorShortName; oer dit ûngelok sa dat se it ferhelpe kinne.">
+<!ENTITY tabCrashed.tryAgain "Probearje opnij">
