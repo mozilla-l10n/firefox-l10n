@@ -11,7 +11,7 @@
 <!ENTITY sync.flyout.setup.title "Setja upp &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Ef þú ert með &syncBrand.shortName.label; reikning, veldu &quot;Para tæki&quot; á hinu tækinu og sláðu inn þennan kóða.">
 <!ENTITY sync.flyout.setup.description2 "Ef þú ert ekki með &syncBrand.shortName.label; reikning, geturðu búið til reikning í &brandShortName; vafra.">
-<!ENTITY sync.flyout.setup.manual.label_2 "É&g er ekki nálægt tölvunni minni…">
+<!ENTITY sync.flyout.setup.manual.label_2 "Ég er ekki nálægt tölvunni minni…">
 <!ENTITY sync.flyout.setup.description3 "Athugasemd:">
 <!ENTITY sync.flyout.setup.description4_2 "Til að finna &quot;Para tæki&quot;,">
 <!ENTITY sync.flyout.setup.description5_2 "[Borðtölva] Opnaðu &quot;Valkosti&quot; eða &quot;Stillingar&quot; og veldu svo &quot;&syncBrand.shortName.label;&quot;">
