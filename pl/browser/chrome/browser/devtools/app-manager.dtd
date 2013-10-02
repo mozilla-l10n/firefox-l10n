@@ -49,4 +49,4 @@
 <!ENTITY projects.stopApp "Stop">
 <!ENTITY projects.debugApp "Debuguj">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProject "Brak projektu. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
+<!ENTITY projects.noProjects "Brak projektów. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
