@@ -708,6 +708,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Sróbùjë jesz rôz">
 <!ENTITY  undoCloseTabs.label                "Copni zamkniãcé kôrtów">
 
-
+<!ENTITY pluginNotification.width "28em">
 
 
