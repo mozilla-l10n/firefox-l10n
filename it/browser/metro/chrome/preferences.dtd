@@ -29,7 +29,7 @@
 <!ENTITY doNotTrack.options.doNotTrack "Richiedi ai siti web di non essere tracciato">
 <!ENTITY doNotTrack.options.doTrack "Comunica ai siti web la disponibilità a essere tracciato">
 <!ENTITY doNotTrack.options.default "Non comunicare ai siti web alcuna preferenza sul tracciamento">
-<!ENTITY doNotTrack.learnMoreLink "Ulteriori informazioni…;
+<!ENTITY doNotTrack.learnMoreLink "Ulteriori informazioni…">
 <!ENTITY optionsHeader.reporting.title "Crash Reporter">
 <!ENTITY optionsHeader.reporting.crashes.label "Invia a Mozilla segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY optionsHeader.telemetry.title "Telemetria">
