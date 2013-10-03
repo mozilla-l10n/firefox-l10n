@@ -3,25 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- NAVBAR AND AUTOCOMPLETE -->
-
-<!ENTITY urlbar.emptytext      "Escreva a pesquisa ou o endereço">
-
-<!ENTITY back.label            "Retroceder">
-<!ENTITY forward.label         "Avançar">
-<!ENTITY newtab.label          "Novo separador">
-<!ENTITY closetab.label        "Fechar separador">
-
+<!ENTITY urlbar.emptytext                 "Escreva a pesquisa ou endereço">
+<!ENTITY back.label                       "Recuar">
+<!ENTITY forward.label                    "Avançar">
+<!ENTITY newtab.label                     "Novo separador">
+<!ENTITY closetab.label                   "Fechar separador">
 <!ENTITY autocompleteResultsHeader.label  "Os seus resultados">
-
-<!ENTITY appbarErrorConsole.label   "Abrir consola de erro">
-<!ENTITY appbarJSShell.label        "Abrir JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Procurar na página">
-<!ENTITY appbarViewOnDesktop2.label "Ver no computador">
-
-<!ENTITY topSitesHeader.label        "Top de sítios">
-<!ENTITY bookmarksHeader.label       "Marcadores">
-<!ENTITY recentHistoryHeader.label   "Histórico recente">
-<!ENTITY remoteTabsHeader.label      "Separadores de outros aparelhos">
+<!ENTITY appbarErrorConsole.label         "Abrir consola de erros">
+<!ENTITY appbarJSShell.label              "Abrir consola JavaScript">
+<!ENTITY appbarFindInPage2.label          "Localizar na página">
+<!ENTITY appbarViewOnDesktop2.label       "Ver no computador">
+<!ENTITY topSitesHeader.label             "Top de sítios">
+<!ENTITY bookmarksHeader.label            "Marcadores">
+<!ENTITY recentHistoryHeader.label        "Histórico recente">
+<!ENTITY remoteTabsHeader.label           "Separadores de outros dispositivos">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -30,63 +25,61 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "Top de sítios">
-<!ENTITY narrowBookmarksHeader.label     "Marcadores">
-<!ENTITY narrowRecentHistoryHeader.label "Histórico recente">
-<!ENTITY narrowRemoteTabsHeader.label    "Separadores remotos">
-
-<!ENTITY downloadsHeader.label     "Transferênciass">
-<!ENTITY downloadShowPage.label    "Ir para página">
-<!ENTITY downloadShow2.label       "Procurar">
-<!ENTITY downloadOpen2.label       "Abrir">
-<!ENTITY downloadCancel.label      "Cancelar">
-<!ENTITY downloadPause.label       "Pausar">
-<!ENTITY downloadResume.label      "Resumir">
-<!ENTITY downloadRetry.label       "Tentar de novo">
-<!ENTITY downloadRemove.label      "Remover">
-<!ENTITY downloadDelete.label      "Eliminar">
-<!ENTITY downloadFailed.label      "Falhou">
-
-<!ENTITY allBookmarks.label        "Ver todos os marcadores">
-
-<!ENTITY consoleHeader.label       "Consola de erro">
-<!ENTITY consoleAll.label          "Tudo">
-<!ENTITY consoleErrors.label       "Erros">
-<!ENTITY consoleWarnings.label     "Avisos">
-<!ENTITY consoleMessages.label     "Mensagens">
-<!ENTITY consoleCodeEval.label     "Código:">
-<!ENTITY consoleClear.label        "Limpar">
-<!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Ficheiro fonte:">
-<!ENTITY consoleErrLine.label      "Linha:">
-<!ENTITY consoleErrColumn.label    "Coluna:">
+<!ENTITY narrowTopSitesHeader.label       "Top de sítios">
+<!ENTITY narrowBookmarksHeader.label      "Marcadores">
+<!ENTITY narrowRecentHistoryHeader.label  "Histórico recente">
+<!ENTITY narrowRemoteTabsHeader.label     "Separadores remotos">
+<!ENTITY downloadsHeader.label            "Transferênciass">
+<!ENTITY downloadShowPage.label           "Ir para página">
+<!ENTITY downloadShow2.label              "Localizar">
+<!ENTITY downloadOpen2.label              "Abrir">
+<!ENTITY downloadCancel.label             "Cancelar">
+<!ENTITY downloadPause.label              "Pausa">
+<!ENTITY downloadResume.label             "Continuar">
+<!ENTITY downloadRetry.label              "Tentar novamente">
+<!ENTITY downloadRemove.label             "Remover">
+<!ENTITY downloadDelete.label             "Eliminar">
+<!ENTITY downloadFailed.label             "Falhou">
+<!ENTITY allBookmarks.label               "Ver todos os marcadores">
+<!ENTITY consoleHeader.label              "Consola de erros">
+<!ENTITY consoleAll.label                 "Tudo">
+<!ENTITY consoleErrors.label              "Erros">
+<!ENTITY consoleWarnings.label            "Avisos">
+<!ENTITY consoleMessages.label            "Mensagens">
+<!ENTITY consoleCodeEval.label            "Código:">
+<!ENTITY consoleClear.label               "Limpar">
+<!ENTITY consoleEvaluate.label            "...">
+<!ENTITY consoleErrFile.label             "Ficheiro fonte:">
+<!ENTITY consoleErrLine.label             "Linha:">
+<!ENTITY consoleErrColumn.label           "Coluna:">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Cortar">
 <!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Colar">
+
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Colar &amp; ir">
+<!ENTITY contextTextPasteAndGo.label       "Colar e ir">
 <!ENTITY contextTextSelect.label           "Selecionar">
 <!ENTITY contextTextSelectAll.label        "Selecionar tudo">
 
 <!-- LINK CONTEXT MENU -->
 <!ENTITY contextOpenLinkTab.label          "Abrir ligação em novo separador">
 <!ENTITY contextCopyLinkHref.label         "Copiar ligação">
-<!ENTITY contextBookmarkLinkHref.label     "Ligação para os marcadores">
+<!ENTITY contextBookmarkLinkHref.label     "Criar marcador">
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
-<!ENTITY contextSaveImageLib.label         "Save to picture library">
+<!ENTITY contextSaveImageLib.label         "Gravar na biblioteca de imagens">
 <!ENTITY contextCopyImage.label            "Copiar imagem">
 <!ENTITY contextCopyImageLocation.label    "Copiar localização da imagem">
 <!ENTITY contextOpenImageTab.label         "Abrir em novo separador">
 
 <!-- VIDEO CONTEXT MENU -->
-<!ENTITY contextSaveVideoLib.label         "Guardar na biblioteca de vídeo">
+<!ENTITY contextSaveVideoLib.label         "Guardar na biblioteca de vídeos">
 <!ENTITY contextCopyVideoLocation.label    "Copiar localização do vídeo">
-<!ENTITY contextOpenVideoTab.label         "Abir vídeo num novo separador">
+<!ENTITY contextOpenVideoTab.label         "Abir em novo separador">
 
 <!-- KEYBOARD SHORTCUTS -->
 <!ENTITY reload.key "r">

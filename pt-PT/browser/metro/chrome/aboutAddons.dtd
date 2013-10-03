@@ -6,9 +6,10 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-<!ENTITY aboutAddons.title              "Os extras do &brandShortName; estão em curso">
+<!ENTITY aboutAddons.title              "Os extras do &brandShortName; estão em constante evolução">
 <!ENTITY aboutAddons.messageTitle       "Uh-Oh!">
-<!ENTITY aboutAddons.message            "Desculpe, o &brandShortName; está ocupado para lhe fornecer extras.">
+<!ENTITY aboutAddons.message            "Desculpe mas o &brandShortName; está ocupado para lhe disponibilizar os extras.">
+
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
