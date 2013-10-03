@@ -29,7 +29,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label '(da skouer, "Yann Seitek").'>
+<!ENTITY fullnameExample.label "(&quot;Yann Seitek&quot; da skouer).">
 <!ENTITY fullnameLabel.label "Hoc'h anv :">
 <!ENTITY fullnameLabel.accesskey "a">
 
@@ -85,13 +85,13 @@
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix 'Ho tafariad kas red (SMTP), "'>
-<!ENTITY haveSmtp1.suffix3 '", a vo arveret.'>
+<!ENTITY haveSmtp1.suffix3 "&quot;, a vo arveret.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix 'Hoc&apos;h anv arveriad-kas bremanel (SMTP), "'>
-<!ENTITY haveSmtp2.suffix3 '", a vo arveret.'>
+<!ENTITY haveSmtp2.suffix3 "&quot;, a vo arveret.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.

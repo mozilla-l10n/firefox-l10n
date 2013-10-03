@@ -51,8 +51,8 @@
 <!ENTITY modelDeleteImmediately.label "Lemel kuit anezhañ diouzhtu">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label 'Naetaat ("Goullonderiñ") ar Voestad-degemer en ur guitaat'>
-<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY expungeOnExit.label 'Naetaat ("Goullonderiñ") ar Voestad-degemer en ur guitaat '>
+<!ENTITY expungeOnExit.accesskey "G">
 <!ENTITY emptyTrashOnExit.label "Goullonderiñ ar gest en ur guitaat">
 <!ENTITY emptyTrashOnExit.accesskey "l">
 <!ENTITY loginAtStartup.label "Gwiriañ ar c'hemennadennoù nevez pa loc'h ar goulev">

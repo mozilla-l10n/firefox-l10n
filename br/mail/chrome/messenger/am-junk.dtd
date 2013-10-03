@@ -9,8 +9,8 @@
 
 <!ENTITY move.label "Dilec'hiañ ar posteloù lastez da :">
 <!ENTITY move.accesskey "i">
-<!ENTITY junkFolderOn.label 'Teuliad al "lastez" war :'>
-<!ENTITY junkFolderOn.accesskey "u">
+<!ENTITY junkFolderOn.label 'teuliad "Lastez" e :'>
+<!ENTITY junkFolderOn.accesskey "L">
 <!ENTITY otherFolder.label "All :">
 <!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Dilemel ent emgefreek ar posteloù lastez koshoc'h eget">
