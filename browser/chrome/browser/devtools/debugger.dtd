@@ -125,6 +125,11 @@ button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Lägg till villkorad brytpunkt">
 <!ENTITY debuggerUI.seMenuCondBreak.key "ä">
 
+<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
+  -  appears in the debugger's instruments pane tabs. -->
+<!ENTITY debuggerUI.tabs.variables      "Variabler">
+<!ENTITY debuggerUI.tabs.events         "Händelser">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Markering som bevakningsuttryck">
