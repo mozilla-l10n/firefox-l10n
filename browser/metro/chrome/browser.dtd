@@ -11,7 +11,7 @@
 <!ENTITY newtab.label          "Nowô kôrta">
 <!ENTITY closetab.label        "Zamkni kôrtã">
 
-<!ENTITY autocompleteResultsHeader.label  "Rezulatë">
+<!ENTITY aùtocompleteResultsHeader.label  "Rezulatë">
 
 <!ENTITY appbarErrorConsole.label   "Òtemkni kònsolã felów">
 <!ENTITY appbarJSShell.label        "Òtemkni JavaScript">

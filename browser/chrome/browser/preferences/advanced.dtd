@@ -17,17 +17,17 @@
 
 <!ENTITY accessibility.label             "Przëstãpnosc">
 
-<!ENTITY useCursorNavigation.label       "Zezwòlë na ùżëcé kùrsora do nawigacji pò stronach">
+<!ENTITY useCursorNavigation.label       "Zezwòlë na ùżëcé kùrsora do nawigacje pò stronach">
 <!ENTITY useCursorNavigation.accesskey   "Z">
 <!ENTITY searchStartTyping.label         "Szëkôj przez wpisywanié tekstu">
 <!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
-<!ENTITY blockAutoRefresh.accesskey      "c">
+<!ENTITY blockAùtoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
+<!ENTITY blockAùtoRefresh.accesskey      "c">
 
 <!ENTITY browsing.label                  "Przezéranié">
 
-<!ENTITY useAutoScroll.label             "Ùżëjë automatnégò przewijaniô">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAùtoScroll.label             "Ùżëjë aùtomatnégò przewijaniô">
+<!ENTITY useAùtoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Ùżëjë lejnégò przewijaniô">
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je przistãpné">
@@ -58,7 +58,7 @@
 <!ENTITY limitCacheSizeAfter.label       "MB môla">
 <!ENTITY clearCacheNow.label             "Wëczëszczë">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!ENTITY overrideSmartCacheSize.label    "Nadpiszë automatné sprôwianié kaszã">
+<!ENTITY overrideSmartCacheSize.label    "Nadpiszë aùtomatné sprôwianié kaszã">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY clearOfflineAppCacheNow.accesskey "z">
 <!ENTITY clearOfflineAppCacheNow.label   "Wëczëszczë">
@@ -67,24 +67,24 @@
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
 <!ENTITY updateApp.label                 "Aktualizacjô programù &brandShortName;:">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAuto1.label               "Aùtomatno instalëjë zatualnienia (zamôdliwóné: bëlniészi bezpiek)">
-<!ENTITY updateAutoMetro.label           "Zaktualni aùtomatno z pùltu w sztélu &brandShortName; Windows 8">
+<!ENTITY updateAùto1.accesskey           "A">
+<!ENTITY updateAùto1.label               "Aùtomatno instalëjë zatualnienia (zamôdliwóné: bëlniészi bezpiek)">
+<!ENTITY updateAùtoMetro.label           "Zaktualni aùtomatno z pùltu w sztélu &brandShortName; Windows 8">
 <!ENTITY updateOthers.label              "Aktualizëjë aùtomatno:">
-<!ENTITY updateAutoMetroWarn.label       "(sztél Windows 8 &brandShortName; nie sprôwdzô kòmpatibilnotë dodôwków)">
-<!ENTITY updateAutoMetro.accesskey       "W">
-<!ENTITY updateCheck.label               "Sprôwdzë przistãp aktualizacji, ale ządôj pocwierdzenia przë instalacji">
+<!ENTITY updateAùtoMetroWarn.label       "(sztél Windows 8 &brandShortName; nie sprôwdzô kòmpatibilnotë dodôwków)">
+<!ENTITY updateAùtoMetro.accesskey       "W">
+<!ENTITY updateCheck.label               "Sprôwdzë przistãp aktualizacje, ale ządôj pocwierdzenia przë instalacje">
 <!ENTITY updateCheck.accesskey           "S">
 
-<!ENTITY updateAutoAddonWarn.label       "Òstrzéżë, żlë aktualizacje chcą wëłączëc dodôwczi">
-<!ENTITY updateAutoAddonWarn.accesskey   "Ò">
-<!ENTITY updateManual.label              "Nie sprôwdzë przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiekù)">
+<!ENTITY updateAùtoAddonWarn.label       "Òstrzéżë, żlë aktualizacje chcą wëłączëc dodôwczi">
+<!ENTITY updateAùtoAddonWarn.accesskey   "Ò">
+<!ENTITY updateManual.label              "Nie sprôwdzë przistãpù aktualizacje (niebédowóné: zagrôżnota bezpiekù)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY enableSearchUpdate.label        "Szëkôcze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
-<!ENTITY updateHistory.label             "Pòkôżë historiã aktualizacji">
+<!ENTITY updateHistory.label             "Pòkôżë historiã aktualizacje">
 <!ENTITY updateHistory.accesskey         "P">
-<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacji">
+<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje">
 <!ENTITY useService.accesskey            "Ù">
 
 <!ENTITY offlineNotify.label             "Òstrzérzë, żlë strona chce zapisac pòdôwczi dlô tribù offline">
@@ -99,8 +99,8 @@
 <!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
 
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
-<!ENTITY certs.auto                      "wëbierzë certifikat automatno">
-<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.aùto                      "wëbierzë certifikat aùtomatno">
+<!ENTITY certs.aùto.accesskey            "a">
 <!ENTITY certs.ask                       "wiedno pëtôj">
 <!ENTITY certs.ask.accesskey             "p">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">

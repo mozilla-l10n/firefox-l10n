@@ -11,7 +11,7 @@
 <!ENTITY  defaultFont.label           "Domëslny fònt:">
 <!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "Miara:">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultSize.accesskey       "a">
 
 <!ENTITY  advancedFonts.label         "Zaawansowóné…">
 <!ENTITY  advancedFonts.accesskey     "Z">

@@ -70,7 +70,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetańsczi">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalnô miara fònta:">
-<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.accesskey                        "ô">
 <!ENTITY minSize.none                             "Felënk">
 
 <!-- default font type -->
