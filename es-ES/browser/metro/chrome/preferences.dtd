@@ -26,10 +26,10 @@
 <!ENTITY clearPrivateData.logins "Sesiones activas">
 <!ENTITY optionsHeader.privacy.passwords.label "Recordar contraseñas">
 <!ENTITY doNotTrack.title "No ser rastreado">
-<!ENTITY doNotTrack.desc "Decirle a los sitios:">
-<!ENTITY doNotTrack.options.trackingNotOkay "No quiero ser rastreado">
-<!ENTITY doNotTrack.options.noPreference "Nada sobre mis preferencias de rastreo">
-<!ENTITY doNotTrack.options.trackingOkay "Quiero ser rastreado">
+<!ENTITY doNotTrack.options.doNotTrack "Indicar a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.options.doTrack "Indicar a los sitios web que quiero ser rastreado">
+<!ENTITY doNotTrack.options.default "No indicar a los sitios web nada sobre mis preferencias de rastreo">
+<!ENTITY doNotTrack.learnMoreLink "Saber más…">
 <!ENTITY optionsHeader.reporting.title "Informe de fallos">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; envía informes de fallo para ayudar a Mozilla a crear un navegador más estable y seguro">
 <!ENTITY optionsHeader.telemetry.title "Telemetry">
