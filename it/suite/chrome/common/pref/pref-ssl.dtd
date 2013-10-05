@@ -17,7 +17,7 @@
 <!ENTITY limit.tls11.accesskey "1">
 <!ENTITY limit.tls12.label "TLS 1.2">
 <!ENTITY limit.tls12.accesskey "2">
-<!ENTITY warn.description "&brandShortName; può generare degli avvisi sullo stato di sicurezza della pagina web che si sta visitando. Impostare &brandShortName; per mostrare un messaggio di avviso prima di:">
+<!ENTITY warn.description2 "&brandShortName; può avvisare riguardo allo stato della sicurezza della pagina web che si sta visitando. Impostare &brandShortName; per mostrare un avviso quando:">
 <!ENTITY warn.enteringsecure "Caricare una pagina che gestisce la cifratura">
 <!ENTITY warn.enteringsecure.accesskey "C">
 <!ENTITY warn.insecurepost "Inviare dati di un modulo da una pagina non sicura ad un'altra non sicura">

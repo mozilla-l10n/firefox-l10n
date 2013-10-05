@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY pref.character.encoding.title "Codifica caratteri">
 <!ENTITY messageDisplay.caption "Visualizzazione messaggi">
-<!ENTITY viewDefaultCharset.label "Codifica caratteri predefinita:">
-<!ENTITY viewDefaultCharset.accesskey "d">
+<!ENTITY viewFallbackCharset.label "Codifica caratteri da utilizzare:">
+<!ENTITY viewFallbackCharset.accesskey "z">
+<!ENTITY viewFallbackCharset.desc "(Usato per contenuti datati che non dichiarano la loro codifica).">
 <!ENTITY composingMessages.caption "Composizione messaggi">
 <!ENTITY useMIME.label "Per i messaggi che contengono caratteri a 8 bit, utilizza la codifica MIME 'quoted printable'. Lasciarlo non selezionato per inviare il messaggio senza modifiche.">
 <!ENTITY useMIME.accesskey "P">
