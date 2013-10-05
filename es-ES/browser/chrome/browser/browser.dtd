@@ -477,6 +477,7 @@
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
+<!ENTITY pluginNotification.width "28em">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY addonBarCmd.label "Barra de complementos">
 <!ENTITY addonBarCmd.accesskey "A">
