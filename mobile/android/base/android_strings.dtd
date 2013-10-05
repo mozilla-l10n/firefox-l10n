@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Top de sítios">
-<!ENTITY  awesomebar_bookmarks_title "Marcadores">
-<!ENTITY  awesomebar_history_title "Histórico">
-<!ENTITY  awesomebar_switch_to_tab "Mudar para separador">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Marcadores">
+<!ENTITY  history_title "Histórico">
+<!ENTITY  reading_list_title "Lista de leitura">
+
+<!ENTITY  switch_to_tab "Mudar para separador">
 
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Escolher ficheiro">
 
-<!ENTITY awesomebar_default_text "Escreva uma pesquisa ou um endereço">
-
-<!ENTITY remote_tabs "Separadores sincronizados">
-<!ENTITY remote_tabs_show_all "Mostrar todos os separadores">
+<!ENTITY url_bar_default_text "Escreva pesquisar ou endereço">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador adicionado">
@@ -72,7 +72,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
-<!ENTITY pref_category_add_search_providers "Add more search providers">
+<!ENTITY pref_category_add_search_providers "Adicionar mais fornecedores de pesquisa">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -158,7 +158,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
 <!ENTITY datareporting_notification_action "Escolha o que partilhar">
 <!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente alguma informação para a &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Para melhorar experiência com o &brandShortName;">
+<!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, &brandShortName;">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
@@ -217,8 +217,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
 <!ENTITY contextmenu_open_private_tab "Abrir num separador privado">
 <!ENTITY contextmenu_open_in_reader "Abrir no leitor">
-<!ENTITY contextmenu_remove_history "Remover">
-<!ENTITY contextmenu_remove_bookmark "Remover">
+<!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
 <!ENTITY contextmenu_pasteandgo "Colar &amp; ir">
@@ -227,6 +226,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Subscrever para a página">
 <!ENTITY contextmenu_site_settings "Editar definições do sítio">
+<!ENTITY contextmenu_top_bookmarks_edit "Editar">
+<!ENTITY contextmenu_top_bookmarks_pin "Pin do sítio">
+<!ENTITY contextmenu_top_bookmarks_unpin "Unpin do sítio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título da página">
@@ -234,6 +236,7 @@ size. -->
 
 <!ENTITY history_removed "Página removida">
 
+<!ENTITY bookmark_add "Adicionar marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Localização">
@@ -246,7 +249,6 @@ size. -->
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
 
-<!ENTITY reading_list "Lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
@@ -269,28 +271,22 @@ size. -->
 <!ENTITY button_set "Definir">
 <!ENTITY button_clear "Limpar">
 
-<!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
-<!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Os seus separadores da última vez">
-<!ENTITY abouthome_last_tabs_open "Abrir todos os separadores da última vez">
-<!ENTITY abouthome_top_sites_title "Top de sítios">
-<!ENTITY abouthome_topsites_edit "Editar">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY home_history_title "Histórico">
+<!ENTITY home_last_tabs_title "Os seus separadores da última vez">
+<!ENTITY home_last_tabs_open "Abrir todos os separadores da última vez">
+<!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
+<!ENTITY home_most_recent_title "Mais recentes">
+<!ENTITY home_most_recent_empty "Os sítios web mais visitados são aqui apresentados.">
+<!ENTITY home_most_visited_title "Mais visitados">
+<!ENTITY home_reading_list_empty "Artigos que guarda para ver são apresentados aqui.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable.. -->
+<!ENTITY home_reading_list_hint "DICA: Guarde artigos para a sua lista de leitura com um toque longo no ícone &#37;I quando ele aparecer na barra de título.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "Â»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos&#x00A0;Â»">
-<!ENTITY abouthome_about_apps3 "Obtenha apps a partir do Mozilla Marketplace e descubra o melhor que a web tem para oferecer&#x00A0;Â»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Mozilla Marketplace">
+<!ENTITY home_most_visited_empty "Os sítios web que mais visita são aqui apresentados.">
+<!ENTITY pin_bookmark_dialog_hint "Escreva palavra chave a pesquisar">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
