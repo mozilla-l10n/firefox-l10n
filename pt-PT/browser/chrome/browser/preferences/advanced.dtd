@@ -12,7 +12,7 @@
 <!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentam redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 <!ENTITY browsing.label                  "Navegação">
-<!ENTITY useAutoScroll.label             "Utilizar deslocação automático">
+<!ENTITY useAutoScroll.label             "Utilizar deslocação automática">
 <!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label        "Suavizar deslocação">
 <!ENTITY useSmoothScrolling.accesskey    "z">
@@ -27,8 +27,8 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "Atualmente, o &brandShortName; é o navegador pré-definido">
 <!ENTITY dataChoicesTab.label            "Escolha de dados">
-<!ENTITY healthReportSection.label       "Relatório de desempenho so &brandShortName;">
-<!ENTITY healthReportDesc.label          "Ajuda-o a compreender melhor o desempenho do seu navegador e partilha os dados do seu navegador com a &vendorShortName;">
+<!ENTITY healthReportSection.label       "Relatório de desempenho do &brandShortName;">
+<!ENTITY healthReportDesc.label          "Ajuda-o a compreender melhor o desempenho do seu navegador e partilha os dados do navegador com a &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Ativar o relatório de desempenho do &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
