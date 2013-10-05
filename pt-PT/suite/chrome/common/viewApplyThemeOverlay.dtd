@@ -1,6 +1,10 @@
-<!ENTITY applyTheme.label          "Aplicar tema">
-<!ENTITY applyTheme.accesskey      "A">
-<!ENTITY getNewThemesCmd.label     "Obter novos temas">
-<!ENTITY getNewThemesCmd.accesskey "O">
-<!ENTITY getPersonasCmd.label      "Obter Personas">
-<!ENTITY getPersonasCmd.accesskey  "P">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY applyTheme.label            "Aplicar tema">
+<!ENTITY applyTheme.accesskey        "A">
+<!ENTITY getMoreThemesCmd.label      "Obter mais temas">
+<!ENTITY getMoreThemesCmd.accesskey  "O">
+<!ENTITY getBackgroundsCmd.label     "Obter papéis de parede">
+<!ENTITY getBackgroundsCmd.accesskey "r">
