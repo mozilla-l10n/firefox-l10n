@@ -151,7 +151,6 @@
 <!ENTITY netmonitorUI.custom.postData     "Żądanié:">
 <!ENTITY netmonitorUI.custom.query        "Teskt szëkbë:">
 <!ENTITY netmonitorUI.custom.send         "Sélôj">
-<!ENTITY netmonitorUI.summary.resend      "Sélôj jesz rôz">
 
 <!ENTITY netmonitorUI.context.newTab      "Òtemkni w nowi kôrce">
 <!ENTITY netmonitorUI.context.newTab.accesskey  "k">

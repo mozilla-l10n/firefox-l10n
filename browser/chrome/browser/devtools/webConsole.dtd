@@ -67,7 +67,7 @@
 
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageLogging.accesskey "L">
+<!ENTITY btnPageLogging.accesskey2 "R">
 <!ENTITY btnPageNet.accesskey "N">
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageSecurity.accesskey "S">

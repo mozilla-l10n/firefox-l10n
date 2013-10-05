@@ -29,8 +29,8 @@
 <!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresu òpiarté na:">
 <!ENTITY  locbar.pre.accessKey          "P">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "historii i załóżkach">
-<!ENTITY  locbar.history.label          "historii">
+<!ENTITY  locbar.both.label             "historie i załóżkach">
+<!ENTITY  locbar.history.label          "historie">
 <!ENTITY  locbar.bookmarks.label        "załóżkach">
 <!ENTITY  locbar.nothing.label          "nie pòdpòwiadôj">
 
@@ -62,8 +62,8 @@
 <!ENTITY  historyHeader.pre.label          "Program &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "A">
 <!ENTITY  historyHeader.remember.label     "Spamiãtiwô historiã">
-<!ENTITY  historyHeader.dontremember.label "Nie spamiãtiwô historii">
-<!ENTITY  historyHeader.custom.label       "Ùżiwô swòji historii">
+<!ENTITY  historyHeader.dontremember.label "Nie spamiãtiwô historie">
+<!ENTITY  historyHeader.custom.label       "Ùżiwô swòji historie">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; spamiãtiwô historiã przezéraniô, szëkbë, zladënkù lopków i pòdôwków fòrmùlôrzów. Zapisywô téż kùszczi z òdwiedzanëch stronów.">
@@ -77,7 +77,7 @@
 <!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historii przë przezéranim stronów WWW.">
+<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

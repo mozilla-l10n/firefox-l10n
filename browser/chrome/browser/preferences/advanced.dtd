@@ -22,7 +22,7 @@
 <!ENTITY searchStartTyping.label         "Szëkôj przez wpisywanié tekstu">
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "c">
 
 <!ENTITY browsing.label                  "Przezéranié">
 
@@ -33,11 +33,11 @@
 <!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je przistãpné">
 <!ENTITY allowHWAccel.accesskey          "w">
 <!ENTITY checkSpelling.label             "Sprôwdzôj pisënk">
-<!ENTITY checkSpelling.accesskey         "p">
+<!ENTITY checkSpelling.accesskey         "n">
 
 <!ENTITY systemDefaults.label            "Systemòwé nastawë">
 <!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszanim, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
-<!ENTITY alwaysCheckDefault.accesskey    "p">
+<!ENTITY alwaysCheckDefault.accesskey    "m">
 <!ENTITY networkTab.label                "Séc">
 
 <!ENTITY connection.label                "Sparłãczenié">
@@ -69,13 +69,10 @@
 <!ENTITY updateApp.label                 "Aktualizacjô programù &brandShortName;:">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateAuto1.label               "Aùtomatno instalëjë zatualnienia (zamôdliwóné: bëlniészi bezpiek)">
-<!ENTITY updateAutoMetro.accesskey       "s">
-<!ENTITY updateAutoMetro.label           "Aùtomatno zaktualni z pùltu i w sztélu Windows 8 &brandShortName;">
-
-
+<!ENTITY updateAutoMetro.label           "Zaktualni aùtomatno z pùltu w sztélu &brandShortName; Windows 8">
 <!ENTITY updateOthers.label              "Aktualizëjë aùtomatno:">
 <!ENTITY updateAutoMetroWarn.label       "(sztél Windows 8 &brandShortName; nie sprôwdzô kòmpatibilnotë dodôwków)">
-
+<!ENTITY updateAutoMetro.accesskey       "W">
 <!ENTITY updateCheck.label               "Sprôwdzë przistãp aktualizacji, ale ządôj pocwierdzenia przë instalacji">
 <!ENTITY updateCheck.accesskey           "S">
 
