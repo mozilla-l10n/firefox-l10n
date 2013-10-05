@@ -25,12 +25,12 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Ùżëjë systemòwëch nastawów serwera proxy">
 <!ENTITY  systemTypeRadio.accesskey     "w">
-<!ENTITY  WPADTypeRadio.label           "Wëkriwôj automatno nastawë serwera proxy dlô ti sécë">
+<!ENTITY  WPADTypeRadio.label           "Wëkriwôj aùtomatno nastawë serwera proxy dlô ti sécë">
 <!ENTITY  WPADTypeRadio.accesskey       "a">
 <!ENTITY  manualTypeRadio.label         "Rãcznô kònfigùracjô serwerów proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "k">
-<!ENTITY  autoTypeRadio.label           "Adres automatny kònfigùracji:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  aùtoTypeRadio.label           "Adres aùtomatny kònfigùracje:">
+<!ENTITY  aùtoTypeRadio.accesskey       "ù">
 <!ENTITY  reload.label                  "Zladëjë znowa">
 <!ENTITY  reload.accesskey              "d">
 <!ENTITY  ftp.label                     "Serwer proxy FTP:">
@@ -42,7 +42,7 @@
 <!ENTITY  socks.label                   "Hòst SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Pòrt:">

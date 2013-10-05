@@ -13,16 +13,16 @@
 <!ENTITY certmgr.tab.mine                     "Twòje certifikatë">
 <!ENTITY certmgr.tab.others2                  "Lëdze">
 <!ENTITY certmgr.tab.websites3                "Serwerë">
-<!ENTITY certmgr.tab.ca                       "Òrgan werifikacji">
+<!ENTITY certmgr.tab.ca                       "Òrgan werifikacje">
 <!ENTITY certmgr.tab.orphan2                  "Reszta">
 
 <!ENTITY certmgr.ca.builtins                  "Wbùdowóné CAs">
-<!ENTITY certmgr.ca.mycas                     "Twòje òrganë werifikacji(CA)">
+<!ENTITY certmgr.ca.mycas                     "Twòje òrganë werifikacje(CA)">
 
-<!ENTITY certmgr.mine                         "Certifikatë z nëch òrganów werifikacji mają wëdowiédzã ò Ce:">
+<!ENTITY certmgr.mine                         "Certifikatë z nëch òrganów werifikacje mają wëdowiédzã ò Ce:">
 <!ENTITY certmgr.others                       "Môsz certifikatë nëch lëdzy:">
 <!ENTITY certmgr.websites2                    "Môsz certifikatë z nëch serwerów:">
-<!ENTITY certmgr.cas                          "Môsz certifikatë nëch òrganów werifikacji:">
+<!ENTITY certmgr.cas                          "Môsz certifikatë nëch òrganów werifikacje:">
 <!ENTITY certmgr.orphans                      "Ne certifikatë nie pasëją do niżódny kategòrii:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Òglowé">
@@ -38,21 +38,17 @@
 <!ENTITY certmgr.certdetail.title             "Detale certifikatu">
 <!ENTITY certmgr.certdetail.cn                "Zwëczajné miono (CN)">
 <!ENTITY certmgr.certdetail.o                 "Òrganizacjô (O)">
-<!ENTITY certmgr.certdetail.ou                "Jednostka òrganizacji (OU)">
+<!ENTITY certmgr.certdetail.ou                "Jednostka òrganizacje (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Numer seriowi">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Òbcësk palca SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Òbcësk palca MD5">
 
 <!ENTITY certmgr.editcert.title               "Editëjë nastawë certifikatu bezpiekù">
-<!ENTITY certmgr.editcacert.title             "Editëje nastawë wiarë Òrganu Certifikacji (CA)">
-<!ENTITY certmgr.editsslcert.title            "Editëjë nastawë certifikatu bezpiekù stronë">
+<!ENTITY certmgr.editcacert.title             "Editëje nastawë wiarë Òrganu Certifikacje (CA)">
 <!ENTITY certmgr.editcert.edittrust           "Editëjë nastawë wiarë:">
 <!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac stronë Internetowé.">
 <!ENTITY certmgr.editcert.trustemail          "Nen certifikat mòże rozszlachòwac e-mailowëch brëkòwników.">
 <!ENTITY certmgr.editcert.trustobjsign        "Nen certifikat mòże rozszlachòwac firmë softwôrowé.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastawë wiarë certifikatu:">
-<!ENTITY certmgr.editsslcert.dotrust          "Dôj wiarã prôwdzëwòtë negò certifikatu.">
-<!ENTITY certmgr.editsslcert.donttrust        "Nie dôj wiarë prôwdzëwòtë negò certifikatu.">
 <!ENTITY certmgr.editemailcert.title          "Editëjë nastôwë wiarë certifikatu e-maila">
 <!ENTITY certmgr.editemailcert.edittrust      "Editëjë nastôwë wiarë certifikatu:">
 <!ENTITY certmgr.editemailcert.dotrust        "Dôj wiarã prôwdzëwòtë negò certifikatu.">

@@ -91,7 +91,7 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Jes na kanale aktualizacje programù ">
 <!ENTITY channel.description.end    ".">
-<!ENTITY warningDesc.telemetryDesc  "Automatno sélôj infòrmacje ò wëdajnocë, ùżëcym hardwôra i ùstawach do karna &vendorShortName;, bë pòmòc w ùdobrzenim programù;.">
+<!ENTITY warningDesc.telemetryDesc  "Aùtomatno sélôj infòrmacje ò wëdajnocë, ùżëcym hardwôra i ùstawach do karna &vendorShortName;, bë pòmòc w ùdobrzenim programù;.">
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; je zaktualniany">
 
 <!ENTITY update.unsupported.start    "Ni mòżesz dali zaktualniac negò systemù. ">

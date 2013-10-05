@@ -83,7 +83,7 @@
 <!ENTITY resetSyncKey.label           "Móm zgùbioné no drëdżi ùrządzenié.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Òptacje synchronizacji">
+<!ENTITY setup.optionsPage.title      "Òptacje synchronizacje">
 <!ENTITY syncDeviceName.label       "Miono ùrządzenia:">
 <!ENTITY syncDeviceName.accesskey   "M">
 <!ENTITY syncMy.label               "Synchronizëjë mòje">
@@ -113,7 +113,7 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Ùstôw parôt">
-<!ENTITY changeOptions.label "Mòżesz zmienic ne nôstawë wëbierającë òptacje synchronizacji niżi.">
+<!ENTITY changeOptions.label "Mòżesz zmienic ne nastawë wëbierającë òptacje synchronizacje niżi.">
 <!ENTITY continueUsing.label "Mòżesz ju znowa brëkòwac programù &brandShortName;.">
 
 <!ENTITY setup.setupMetro.label "Synchronizacjô z  &brandShortName; z interfejsã Windowsa 8">
