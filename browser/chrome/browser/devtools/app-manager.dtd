@@ -66,7 +66,7 @@
 <!ENTITY projects.addHostedTooltip "Dodôj hòstowónégò appa (lënk do lopka manifest.webapp) z mòbilny stronë.">
 <!ENTITY projects.title "Lokalné appë">
 <!ENTITY projects.appDetails "Detale appa">
-<!ENTITY projects.removeAppFromList "Rëmôj appa z lëstë ùżëwónëch appów. To jich nie rëmnie z ùrządzeniô abò symùlatora.">
+<!ENTITY projects.removeAppFromList "Rëmôj appa z lëstë ùżëwónëch appów. To jich nie rëmni z ùrządzeniô abò symùlatora.">
 <!ENTITY projects.updateApp "Zaktualni">
 <!ENTITY projects.updateAppTooltip "Zrëszi werifikacjã i zaktualnienié appa sparłãczonégò ùrządzeniô">
 <!ENTITY projects.debugApp "Debugùjë">
