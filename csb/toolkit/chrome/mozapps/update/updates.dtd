@@ -47,7 +47,7 @@
 <!ENTITY  license.introText               "Zastrzedżi brëkùnkù ti softwôrë.">
 <!ENTITY  license.instructionText         "Zapòznô sã z pòniższą licencjową zgòdą. Abë przeczëtac całą zgòdã, przewinië tekst do kùńca.">
 <!ENTITY  license.accept                  "Akceptëjã zastrzedżi licencjowi zgòdë">
-<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.accept.accesskey        "ã">
 <!ENTITY  license.decline                 "Nie akceptëjã zastrzedżi licencjowi zgòdë">
 <!ENTITY  license.decline.accesskey       "t">
 

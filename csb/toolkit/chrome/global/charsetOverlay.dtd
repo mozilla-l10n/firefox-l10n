@@ -4,7 +4,7 @@
 
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Zestôwk céchów">
-<!ENTITY charsetMenu.accesskey         "c">
+<!ENTITY charsetMenu.accesskey         "é">
 <!ENTITY charsetMenuAutodet.label      "Aùtomatné wëkriwanié">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Wicy">

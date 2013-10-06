@@ -40,7 +40,7 @@
 <!ENTITY  ssl.label                     "Serwer proxy SSL:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Hòst SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks.accesskey               "ò">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">

@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Òbjim czasu do wëczëszczëniô:">
-<!ENTITY clearTimeDuration.accesskey      "c">
+<!ENTITY clearTimeDuration.accesskey      "ë">
 <!ENTITY clearTimeDuration.lastHour       "slédnô gòdzëna">
 <!ENTITY clearTimeDuration.last2Hours     "slédné dwie gòdzënë">
 <!ENTITY clearTimeDuration.last4Hours     "slédné sztërë gòdzënë">

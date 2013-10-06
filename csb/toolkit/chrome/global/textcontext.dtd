@@ -15,7 +15,7 @@
 <!ENTITY pasteCmd.label "Wlepi">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY undoCmd.label "Copni">
-<!ENTITY undoCmd.accesskey "C">
+<!ENTITY undoCmd.accesskey "i">
 <!ENTITY selectAllCmd.label "Wëbierzë wszëtkò">
 <!ENTITY selectAllCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Rëmôj">

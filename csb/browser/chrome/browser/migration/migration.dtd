@@ -22,7 +22,7 @@
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">
-<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChrome.accesskey     "h">
 
 <!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zaimpòrtowac załóżczi, historiã czë parole.">
 
