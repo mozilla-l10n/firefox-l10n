@@ -595,8 +595,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.ok.label "Jo">
-<!ENTITY social.ok.accesskey "J">
+<!ENTITY social.ok.label "OK">
+<!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleNotifications.label "Wëskrzëniwôj wiadła na pùlce">
 <!ENTITY social.toggleNotifications.accesskey "w">
 <!ENTITY pinTab.label "Przëwôrnié jakno kôrtã aplikacje">

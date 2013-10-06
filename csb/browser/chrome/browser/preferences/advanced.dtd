@@ -30,8 +30,8 @@
 <!ENTITY useAutoScroll.accesskey         "é">
 <!ENTITY useSmoothScrolling.label        "Ùżëjë lejnégò przewijaniô">
 <!ENTITY useSmoothScrolling.accesskey    "ò">
-<!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je przistãpné">
-<!ENTITY allowHWAccel.accesskey          "ż">
+<!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je">
+<!ENTITY allowHWAccel.accesskey          "ã">
 <!ENTITY checkSpelling.label             "Sprôwdzôj pisënk">
 <!ENTITY checkSpelling.accesskey         "j">
 
