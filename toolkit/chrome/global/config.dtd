@@ -48,13 +48,13 @@
 <!ENTITY modify.label "Mòdifikùjë">
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Przełączë">
-<!ENTITY toggle.accesskey "P">
+<!ENTITY toggle.accesskey "ą">
 <!ENTITY reset.label "Resetëjë">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nowé">
 <!ENTITY new.accesskey "w">
 <!ENTITY string.label "Stegna">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "g">
 <!ENTITY integer.label "Całownô wielëna (Integer)">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Logicznô wôrtnota (Boolean)">

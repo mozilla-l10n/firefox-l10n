@@ -18,9 +18,9 @@
 <!ENTITY  pluginupdateslink.label         "Òbaczë jak zaktualnic wtëkôcze.">
 
 <!ENTITY  noupdatesfound.title            "Nie nalazłé niżódné aktualizacje">
-<!ENTITY  noupdatesaùtoenabled.intro      "Felënk przistãpnëch aktualizacjów. Program &brandShortName; bãdze
+<!ENTITY  noupdatesautoenabled.intro      "Felënk przistãpnëch aktualizacjów. Program &brandShortName; bãdze
                                             periodiczno sprôwdzôł przistãpnotã zaktualnieniów.">
-<!ENTITY  noupdatesaùtodisabled.intro     "Felënk przistãpnëch aktualizacje. Proszã sprôwdzëc pòzdze, abò włączëc aùtomatné
+<!ENTITY  noupdatesautodisabled.intro     "Felënk przistãpnëch aktualizacje. Proszã sprôwdzëc pòzdze, abò włączëc aùtomatné
                                             sprôwdzanié zaktualnieniów dlô programù &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "Ni môsz prawów bë instalowac">

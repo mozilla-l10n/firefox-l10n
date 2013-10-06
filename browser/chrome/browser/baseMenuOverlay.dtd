@@ -25,13 +25,13 @@
 <!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpMenu.label           "Pòmòc"> 
-<!ENTITY helpMenu.accesskey       "P"> 
+<!ENTITY helpMenu.accesskey       "m"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pòmòc"> 
-<!ENTITY helpMenuWin.accesskey    "c">
+<!ENTITY helpMenuWin.accesskey    "ò">
 <!ENTITY aboutProduct.label       "Ò programie &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "Ò">
+<!ENTITY aboutProduct.accesskey   "g">
 <!ENTITY productHelp.label        "Pòmòc dlô programù &brandShortName;">
 <!ENTITY productHelp.accesskey    "ô">
 <!ENTITY helpMac.commandkey       "?">

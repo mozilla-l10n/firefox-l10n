@@ -21,19 +21,19 @@
 <!ENTITY useCursorNavigation.accesskey   "Z">
 <!ENTITY searchStartTyping.label         "Szëkôj przez wpisywanié tekstu">
 <!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAùtoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
-<!ENTITY blockAùtoRefresh.accesskey      "c">
+<!ENTITY blockAutoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
+<!ENTITY blockAutoRefresh.accesskey      "c">
 
 <!ENTITY browsing.label                  "Przezéranié">
 
-<!ENTITY useAùtoScroll.label             "Ùżëjë aùtomatnégò przewijaniô">
-<!ENTITY useAùtoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.label             "Ùżëjë aùtomatnégò przewijaniô">
+<!ENTITY useAutoScroll.accesskey         "é">
 <!ENTITY useSmoothScrolling.label        "Ùżëjë lejnégò przewijaniô">
-<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY useSmoothScrolling.accesskey    "ò">
 <!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je przistãpné">
-<!ENTITY allowHWAccel.accesskey          "w">
+<!ENTITY allowHWAccel.accesskey          "ż">
 <!ENTITY checkSpelling.label             "Sprôwdzôj pisënk">
-<!ENTITY checkSpelling.accesskey         "n">
+<!ENTITY checkSpelling.accesskey         "j">
 
 <!ENTITY systemDefaults.label            "Systemòwé nastawë">
 <!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszanim, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
@@ -54,43 +54,43 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Ògraniczë kasz do">
-<!ENTITY limitCacheSizeBefore.accesskey  "Ò">
+<!ENTITY limitCacheSizeBefore.accesskey  "d">
 <!ENTITY limitCacheSizeAfter.label       "MB môla">
 <!ENTITY clearCacheNow.label             "Wëczëszczë">
-<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearCacheNow.accesskey         "ë">
 <!ENTITY overrideSmartCacheSize.label    "Nadpiszë aùtomatné sprôwianié kaszã">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
-<!ENTITY clearOfflineAppCacheNow.accesskey "z">
+<!ENTITY clearOfflineAppCacheNow.accesskey "f">
 <!ENTITY clearOfflineAppCacheNow.label   "Wëczëszczë">
 <!ENTITY httpCache.label                 "Kasz">
 
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
 <!ENTITY updateApp.label                 "Aktualizacjô programù &brandShortName;:">
-<!ENTITY updateAùto1.accesskey           "A">
-<!ENTITY updateAùto1.label               "Aùtomatno instalëjë zatualnienia (zamôdliwóné: bëlniészi bezpiek)">
-<!ENTITY updateAùtoMetro.label           "Zaktualni aùtomatno z pùltu w sztélu &brandShortName; Windows 8">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAuto1.label               "Aùtomatno instalëjë zatualnienia (zamôdliwóné: bëlniészi bezpiek)">
+<!ENTITY updateAutoMetro.label           "Zaktualni aùtomatno z pùltu w sztélu &brandShortName; Windows 8">
 <!ENTITY updateOthers.label              "Aktualizëjë aùtomatno:">
-<!ENTITY updateAùtoMetroWarn.label       "(sztél Windows 8 &brandShortName; nie sprôwdzô kòmpatibilnotë dodôwków)">
-<!ENTITY updateAùtoMetro.accesskey       "W">
+<!ENTITY updateAutoMetroWarn.label       "(sztél Windows 8 &brandShortName; nie sprôwdzô kòmpatibilnotë dodôwków)">
+<!ENTITY updateAutoMetro.accesskey       "W">
 <!ENTITY updateCheck.label               "Sprôwdzë przistãp aktualizacje, ale ządôj pocwierdzenia przë instalacje">
 <!ENTITY updateCheck.accesskey           "S">
 
-<!ENTITY updateAùtoAddonWarn.label       "Òstrzéżë, żlë aktualizacje chcą wëłączëc dodôwczi">
-<!ENTITY updateAùtoAddonWarn.accesskey   "Ò">
+<!ENTITY updateAutoAddonWarn.label       "Òstrzéżë, żlë aktualizacje chcą wëłączëc dodôwczi">
+<!ENTITY updateAutoAddonWarn.accesskey   "Ò">
 <!ENTITY updateManual.label              "Nie sprôwdzë przistãpù aktualizacje (niebédowóné: zagrôżnota bezpiekù)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY enableSearchUpdate.label        "Szëkôcze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Pòkôżë historiã aktualizacje">
-<!ENTITY updateHistory.accesskey         "P">
+<!ENTITY updateHistory.accesskey         "ã">
 <!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje">
 <!ENTITY useService.accesskey            "Ù">
 
 <!ENTITY offlineNotify.label             "Òstrzérzë, żlë strona chce zapisac pòdôwczi dlô tribù offline">
 <!ENTITY offlineNotify.accesskey         "s">
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
-<!ENTITY offlineNotifyExceptions.accesskey "W">
+<!ENTITY offlineNotifyExceptions.accesskey "i">
 
 <!ENTITY offlineAppsList2.label          "Môsz pòdôwczi dlô nôslédnëch internetowëch stronów (trib offline):">
 <!ENTITY offlineAppsList.height          "7em">
@@ -99,10 +99,10 @@
 <!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
 
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
-<!ENTITY certs.aùto                      "wëbierzë certifikat aùtomatno">
-<!ENTITY certs.aùto.accesskey            "a">
+<!ENTITY certs.auto                      "Wëbierzë certifikat aùtomatno">
+<!ENTITY certs.auto.accesskey            "c">
 <!ENTITY certs.ask                       "wiedno pëtôj">
-<!ENTITY certs.ask.accesskey             "p">
+<!ENTITY certs.ask.accesskey             "ë">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">
 <!ENTITY viewCerts.accesskey             "W">
 
@@ -113,19 +113,19 @@
 
 <!ENTITY isDefault.label                 "&brandShortName; je Twòjim domëslnym przezérnikã">
 <!ENTITY setDefault.label                "Wëbierzë &brandShortName; jakno domëslny przezérnik">
-<!ENTITY setDefault.accesskey            "d">
+<!ENTITY setDefault.accesskey            "y">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; sélô rapòrtë ò felach, bë pòmòc &vendorShortName; i ùgwësnic sã, że przezérnik je stabilniészim i bezpieczniészim">
 <!ENTITY crashReporterLearnMore.label    "Wëdowiedzë sã wicy">
 <!ENTITY crashReporterSection.label      "Sélôcz rapòrtów ò awariach">
 <!ENTITY dataChoicesTab.label            "Wëbiérk pòdôwków">
-<!ENTITY enableCrashReporter.accesskey   "a">
+<!ENTITY enableCrashReporter.accesskey   "ô">
 <!ENTITY enableCrashReporter.label       "Włączë sélôcza rapòrtów ò awariach">
 <!ENTITY enableHealthReport.label        "Włączë &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY telemetrySection.label 		"Telemetriô">
 <!ENTITY enableTelemetry.label           "Włączë telemetriô">
-<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY enableTelemetry.accesskey       "ł">
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
 <!ENTITY healthReportDesc.label 		"Pòmòc w zrozmienim ùstawów przezérnika i sélanié pòdôwków do &vendorShortName; ò stanié Twòjégò przezérnika">
 <!ENTITY healthReportLearnMore.label 	"Wicy wëdowiedzë">
