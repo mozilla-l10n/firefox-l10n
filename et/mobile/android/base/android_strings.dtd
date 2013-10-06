@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error        "&brandShortName;i käivitamiseks pole piisavalt vaba ruumi.">
 <!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
 
-<!ENTITY  awesomebar_all_pages_title     "Top saidid">
-<!ENTITY  awesomebar_bookmarks_title     "Järjehoidjad">
-<!ENTITY  awesomebar_history_title       "Ajalugu">
-<!ENTITY  awesomebar_switch_to_tab       "Vaheta kaarti">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title                "Järjehoidjad">
+<!ENTITY  history_title                  "Ajalugu">
+<!ENTITY  reading_list_title             "Lugemisnimekiri">
+
+<!ENTITY  switch_to_tab                  "Lülitu kaardile">
 
 <!ENTITY  crash_reporter_title           "&brandShortName;i vigadest teatamise rakendus">
 <!ENTITY  crash_message2                 "&brandShortName; lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file                     "Vali fail">
 
-<!ENTITY awesomebar_default_text         "Sisesta otsitav või aadress">
-
-<!ENTITY remote_tabs                     "Sünkroniseeritud kaardid">
-<!ENTITY remote_tabs_show_all            "Näita kõiki kaarte">
+<!ENTITY url_bar_default_text            "Otsi või sisesta aadress">
 
 <!ENTITY bookmark                        "Järjehoidja">
 <!ENTITY bookmark_added                  "Järjehoidja lisatud">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor            "&vendorShortName;">
 <!ENTITY pref_category_datareporting     "Saadetavad andmed">
 <!ENTITY pref_category_installed_search_engines "Paigaldatud otsingumootorid">
+<!ENTITY pref_category_add_search_providers "Lisa otsingumootoreid">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip                 "Vihje: otsingumootoriks võib lisada iga veebisaidi, lihtsalt puuduta ja hoia näppu selle otsinguväljal.">
 <!ENTITY pref_category_devtools          "Arendajale">
 <!ENTITY pref_developer_remotedebugging  "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Learn more">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4            "Tekst mahutatakse ekraanile">
 <!ENTITY pref_restore                    "Kaardid">
 <!ENTITY pref_restore_always             "taastatakse alati">
-<!ENTITY pref_restore_crash              "taastatakse pärast veaga sulgumist">
-<!ENTITY pref_restore_never              "jäävad taastamata">
+<!ENTITY pref_restore_quit               "jäävad &brandShortName;i sulgumisel taastamata">
 <!ENTITY pref_font_size_tiny             "tilluke">
 <!ENTITY pref_font_size_small            "väike">
 <!ENTITY pref_font_size_medium           "keskmine">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox              "&brandShortName;ist">
 <!ENTITY pref_vendor_faqs                "KKK">
 <!ENTITY pref_vendor_feedback            "Anna tagasisidet">
+<!ENTITY pref_search_set_default         "Määra vaikeväärtuseks">
+<!ENTITY pref_search_default             "Vaikimisi">
+<!ENTITY pref_search_remove              "Eemalda">
+<!ENTITY pref_search_last_toast          "Viimast otsingumootorit ei saa eemaldada või keelata.">
 
 <!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
 <!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab        "Ava uuel kaardil">
 <!ENTITY contextmenu_open_private_tab    "Ava privaatsel kaardil">
 <!ENTITY contextmenu_open_in_reader      "Ava lugeris">
-<!ENTITY contextmenu_remove_history      "Eemalda">
-<!ENTITY contextmenu_remove_bookmark     "Eemalda">
+<!ENTITY contextmenu_remove              "Eemalda">
 <!ENTITY contextmenu_add_to_launcher     "Lisa avaekraanile">
 <!ENTITY contextmenu_share               "Jaga">
 <!ENTITY contextmenu_pasteandgo          "Aseta ja mine">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark       "Muuda">
 <!ENTITY contextmenu_subscribe           "Telli lehe uudistevoog">
 <!ENTITY contextmenu_site_settings       "Muuda saidi sätteid">
+<!ENTITY contextmenu_top_bookmarks_edit  "Muuda">
+<!ENTITY contextmenu_top_bookmarks_pin   "Kinnita sait">
+<!ENTITY contextmenu_top_bookmarks_unpin "Eemalda saidilt kohakinnitus">
 
 <!ENTITY pref_titlebar_mode              "Tiitliriba">
 <!ENTITY pref_titlebar_mode_title        "kuvatakse lehe pealkirja">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed                 "Leht eemaldatud">
 
+<!ENTITY bookmark_add                    "Lisa järjehoidja">
 <!ENTITY bookmark_edit_title             "Järjehoidja muutmine">
 <!ENTITY bookmark_edit_name              "Nimi">
 <!ENTITY bookmark_edit_location          "Asukoht">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
-<!ENTITY reading_list                    "Lugemisnimekiri">
 <!ENTITY reading_list_added              "Leht lisati lugemisnimekirja">
 <!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
 <!ENTITY reading_list_failed             "Lehe lisamine lugemisnimekirja ebaõnnestus">
@@ -260,28 +270,30 @@ size. -->
 <!ENTITY button_set                      "Määra">
 <!ENTITY button_clear                    "Tühjenda">
 
-<!ENTITY abouthome_addons_title          "Lisad sinu &brandShortName;ile">
-<!ENTITY abouthome_addons_browse         "Sirvi kõiki &brandShortName;i lisasid">
-<!ENTITY abouthome_last_tabs_title       "Kaardid eelmisest korrast">
-<!ENTITY abouthome_last_tabs_open        "Ava kõik kaardid eelmisest korrast">
-<!ENTITY abouthome_top_sites_title       "Top saidid">
-<!ENTITY abouthome_topsites_edit         "Muuda">
-<!ENTITY abouthome_topsites_pin          "Kinnita sait">
-<!ENTITY abouthome_topsites_unpin        "Eemalda saidilt kohakinnitus">
+<!ENTITY home_top_sites_title            "Top saidid">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add              "Lisa sait">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3           "Seadista Firefox Sync, et ligi pääseda oma teistes seadmetes olevatele järjehoidjatele, ajaloole ja kaartidele&#x00A0;»">
-<!ENTITY abouthome_about_apps3           "Hangi veebirakendusi Firefoxi veebipoest ning avasta parimat, mida veebil pakkuda on&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name        "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2       "Firefoxi veebipoest">
+<!ENTITY home_history_title              "Ajalugu">
+<!ENTITY home_last_tabs_title            "Kaardid eelmisest korrast">
+<!ENTITY home_last_tabs_open             "Ava kõik kaardid eelmisest korrast">
+<!ENTITY home_last_tabs_empty            "Hiljutised kaardid ilmuvad siia.">
+<!ENTITY home_most_recent_title          "Hiljutine ajalugu">
+<!ENTITY home_most_recent_empty          "Viimati külastatud veebisaidid ilmuvad siia.">
+<!ENTITY home_most_visited_title         "Enim külastatud">
+<!ENTITY home_reading_list_empty         "Hilisemaks lugemiseks salvestatud artiklid ilmuvad siia.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint          "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia näppu ikoonil &#37;I, kui see ilmub tiitliribale.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia nuppu lugemisrežiimi nupul, kui see ilmub tiitliribale.">
+
+<!ENTITY home_most_visited_empty         "Enimkülastatud veebisaidid ilmuvad siia.">
+<!ENTITY pin_bookmark_dialog_hint        "Sisesta otsingu võtmesõna">
 
 <!ENTITY filepicker_title                "Faili valimine">
 <!ENTITY filepicker_audio_title          "Heli valimine või salvestamine">
@@ -327,6 +339,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2             "Kas soovid kasutada otsingumootori &formatS; otsingusoovitusi?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine           "Otsi mootoriga &formatS1; fraasi &formatS2;">
 
 <!ENTITY webapp_generic_name             "Veebirakendus">
 
