@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Skrivañ">
 <!ENTITY composeButton.accesskey     "S">
+<!ENTITY deleteCardButton.label      "Dilemel">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Klask kempleshoc'h er c'harned posteloù">
 <!-- Thread Pane -->
 

@@ -671,6 +671,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Aotren diouzhtu">
 <!ENTITY pluginActivateAlways.label "Aotren ha derc'hel soñj">
 <!ENTITY pluginBlockNow.label "Herzel an enlugellad">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Sac'het eo an ivinell">
 <!ENTITY tabCrashed.message "Hum, nec'hus eo. Klasket hon eus skrammañ ar bajennad web-mañ met ne respont ket.">
