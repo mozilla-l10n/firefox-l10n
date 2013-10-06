@@ -28,7 +28,7 @@
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "Copi">
 <!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "C">
+<!ENTITY undoCmd.accesskey                  "i">
 <!ENTITY redoCmd.label                      "Przëwrócë">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "r">

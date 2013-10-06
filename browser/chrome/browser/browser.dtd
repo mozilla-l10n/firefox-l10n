@@ -202,7 +202,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.label        "Kònsola felów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY scratchpad.label             "Czôrnopis">
-<!ENTITY scratchpad.accesskey         "C">
+<!ENTITY scratchpad.accesskey         "ô">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -231,7 +231,7 @@ can reach it easily. -->
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Copni">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "C"> 
+<!ENTITY undoCmd.accesskey          "i"> 
 <!ENTITY redoCmd.label            "Doprowadzë nazôd">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "p"> 
@@ -417,7 +417,7 @@ can reach it easily. -->
 <!ENTITY mediaPause.label            "Paùza">
 <!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "Wëcëszë">
-<!ENTITY mediaMute.accesskey         "c">
+<!ENTITY mediaMute.accesskey         "ë">
 <!ENTITY mediaUnmute.label           "Zgłosni">
 <!ENTITY mediaUnmute.accesskey       "g">
 <!ENTITY mediaShowControls.label     "Wëskrzëni kòntrolczi">
@@ -585,13 +585,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "Ùsłudżi z <label/> òstałë włączoné. Mòżesz zmienic òstawë ùstługów w <label class='text-link'>Menadżeru dodôwków</label>.">
 <!ENTITY social.activated.undo.label "Alaże, biéj nazôd!">
-<!ENTITY social.activated.undo.accesskey "c">
+<!ENTITY social.activated.undo.accesskey "ô">
 <!ENTITY social.learnMore.label "Wëdowiedzë sã wicy…">
 <!ENTITY social.learnMore.accesskey "w">
 <!ENTITY social.closeNotificationItem.label "Terô nié">
-<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.commandkey "n">
 <!ENTITY social.chatBar.label "Czat">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.accesskey "t">
 
 <!-- labels are set dynamically, see browser.properties -->
 

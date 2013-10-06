@@ -97,18 +97,18 @@
 <!ENTITY certmgr.fields.label                 "Wôrtnota pòlów">
 <!ENTITY certmgr.fields.accesskey             "W">
 <!ENTITY certmgr.hierarchy.label              "Hierarchiô certifikatów">
-<!ENTITY certmgr.hierarchy.accesskey          "c">
+<!ENTITY certmgr.hierarchy.accesskey          "h">
 <!ENTITY certmgr.addException.label           "Dodôj wëjimk…">
 <!ENTITY certmgr.addException.accesskey       "D">
 
 <!ENTITY exceptionMgr.title                   "Dodôj wëjimk bezpiekù">
 <!ENTITY exceptionMgr.exceptionButton.label   "Pòcwierdzë wëjimk bezpiekù">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "c">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "ù">
 <!ENTITY exceptionMgr.supplementalWarning     "Ùtcëwé banczi, krómë, i jinsze pùbliczné stronë negò nie żądają.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Serwer">
 <!ENTITY exceptionMgr.certlocation.url        "Adres:">
 <!ENTITY exceptionMgr.certlocation.download   "Dobëjë certifikatë">
-<!ENTITY exceptionMgr.certlocation.accesskey  "c">
+<!ENTITY exceptionMgr.certlocation.accesskey  "j">
 <!ENTITY exceptionMgr.certstatus.caption      "Stón certifikatu">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Wëskrzëni…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "W">

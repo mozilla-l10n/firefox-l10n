@@ -63,9 +63,7 @@
 <!ENTITY openURL.label     "Òtemkni URL w nowi kôrce">
 <!ENTITY openURL.accesskey "k">
 <!ENTITY closeCmd.key  "W">
-
-
-<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageCSS.accesskey "y">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageLogging.accesskey2 "R">
 <!ENTITY btnPageNet.accesskey "N">

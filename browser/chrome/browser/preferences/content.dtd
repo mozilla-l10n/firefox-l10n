@@ -5,7 +5,7 @@
 <!ENTITY  blockPopups.label           "Blokùjë wëskakùjącé òkna">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Wëjimczi…">
-<!ENTITY  popupExceptions.accesskey   "c">
+<!ENTITY  popupExceptions.accesskey   "ë">
 <!ENTITY  fontsAndColors.label        "Fòntë i farwë">
 
 <!ENTITY  defaultFont.label           "Domëslny fònt:">

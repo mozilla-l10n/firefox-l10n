@@ -144,7 +144,7 @@
 <!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 
 <!ENTITY netmonitorUI.context.copyUrl      "Kòpérëjë adres URL">
-<!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey  "ò">
 <!ENTITY netmonitorUI.custom.cancel       "Òprzestóń">
 <!ENTITY netmonitorUI.custom.headers      "Nôdpis żądaniô:">
 <!ENTITY netmonitorUI.custom.newRequest   "Nowé żądanié">

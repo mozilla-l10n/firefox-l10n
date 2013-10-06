@@ -35,7 +35,7 @@
 <!ENTITY search.emptytext               "Szëkba">
 <!ENTITY searchHeader.label             "Skùtczi szëkbë">
 <!ENTITY toctab.label                   "Zamkłosc">
-<!ENTITY toctab.accesskey               "c">
+<!ENTITY toctab.accesskey               "ł">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

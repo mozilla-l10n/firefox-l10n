@@ -55,7 +55,7 @@
 <!ENTITY resetContext2.accesskey       "Z">
 
 <!ENTITY executeMenu.label            "Zjiscy">
-<!ENTITY executeMenu.accesskey        "c">
+<!ENTITY executeMenu.accesskey        "y">
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
