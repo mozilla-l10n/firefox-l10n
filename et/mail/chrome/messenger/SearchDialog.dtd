@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey "O">
 <!ENTITY composeButton.label        "Kirjuta">
 <!ENTITY composeButton.accesskey    "K">
+<!ENTITY deleteCardButton.label     "Kustuta">
+<!ENTITY deleteCardButton.accesskey "u">
 <!ENTITY abSearchDialogTitle.label  "Laiendatud otsing aadressiraamatust">
 
 <!-- Thread Pane -->
