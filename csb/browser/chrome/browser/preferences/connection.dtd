@@ -26,11 +26,11 @@
 <!ENTITY  systemTypeRadio.label         "Ùżëjë systemòwëch nastawów serwera proxy">
 <!ENTITY  systemTypeRadio.accesskey     "w">
 <!ENTITY  WPADTypeRadio.label           "Wëkriwôj aùtomatno nastawë serwera proxy dlô ti sécë">
-<!ENTITY  WPADTypeRadio.accesskey       "a">
+<!ENTITY  WPADTypeRadio.accesskey       "ë">
 <!ENTITY  manualTypeRadio.label         "Rãcznô kònfigùracjô serwerów proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "k">
-<!ENTITY  aùtoTypeRadio.label           "Adres aùtomatny kònfigùracje:">
-<!ENTITY  aùtoTypeRadio.accesskey       "ù">
+<!ENTITY  autoTypeRadio.label           "Adres aùtomatny kònfigùracje:">
+<!ENTITY  autoTypeRadio.accesskey       "ù">
 <!ENTITY  reload.label                  "Zladëjë znowa">
 <!ENTITY  reload.accesskey              "d">
 <!ENTITY  ftp.label                     "Serwer proxy FTP:">

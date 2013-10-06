@@ -12,7 +12,7 @@
 <!ENTITY optionsHeader.homepage.startPage.button                 "zrëszi stronã">
 <!ENTITY optionsHeader.homepage.sessionRestore.button            "òstanio ùżëté kôrtë">
 <!ENTITY optionsHeader.char.title                                "Zestôwk céchów">
-<!ENTITY optionsHeader.char.aùtodetect.label                     "Aùtomatny wëbiérk">
+<!ENTITY optionsHeader.char.autodetect.label                     "Aùtomatny wëbiérk">
 <!ENTITY optionsHeader.char.options.label                        "Wëskrzëni òptacje kòdowaniô na lëstwie appù">
 
 <!ENTITY clearPrivateData.title                                  "Wëczëszczë priwatné pòdôwczi">

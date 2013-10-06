@@ -5,8 +5,8 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Zestôwk céchów">
 <!ENTITY charsetMenu.accesskey         "c">
-<!ENTITY charsetMenuAùtodet.label      "Aùtomatné wëkriwanié">
-<!ENTITY charsetMenuAùtodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.label      "Aùtomatné wëkriwanié">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Wicy">
 <!ENTITY charsetMenuMore.accesskey     "W">
 <!ENTITY charsetMenuMore1.label        "Zapôdnoeùropejsczi">

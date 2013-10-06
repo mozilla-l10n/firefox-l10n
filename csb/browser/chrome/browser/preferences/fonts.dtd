@@ -34,9 +34,9 @@
 <!ENTITY  sans-serif.label                        "Bezszerifowi:">
 <!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Ò stałi szérzë:">
-<!ENTITY  monospace.accesskey                     "s">
+<!ENTITY  monospace.accesskey                     "é">
 
-<!ENTITY  font.langGroup.latin1                   "Zôpôdny">
+<!ENTITY  font.langGroup.latin1                   "Zôpadny">
 <!ENTITY  font.langGroup.latin2                   "Westrzódnoeùropejsczi">
 <!ENTITY  font.langGroup.japanese                 "Japòńsczi">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicjowi chińsczi (Tajwan)">

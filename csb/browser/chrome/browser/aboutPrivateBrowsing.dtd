@@ -29,7 +29,7 @@
 
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Òtemkni priwatné òkno">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ò">
 
 <!ENTITY privatebrowsingpage.howToStart3               "Bë zrëszëc priwatné przezéranié, wëbierzë &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "Bë zatrzëmac priwatné przezéranié, zamkni òkno.">

@@ -60,7 +60,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.accesskey                 "a">
 
 <!ENTITY newPrivateWindow.label     "Nowi priwatné òkno">
-<!ENTITY newPrivateWindow.accesskey "p">
+<!ENTITY newPrivateWindow.accesskey "ò">
 <!ENTITY remoteWebConsoleCmd.label    "Zdalnô kònsola WWW">
 
 
@@ -75,7 +75,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.accesskey "Ò">
 <!ENTITY openFileCmd.commandkey "Ò">
 <!ENTITY printSetupCmd.label "Nastawë stronë…">
-<!ENTITY printSetupCmd.accesskey "s">
+<!ENTITY printSetupCmd.accesskey "ë">
 <!ENTITY printPreviewCmd.label "Pòdzérk drëkù">
 <!ENTITY printPreviewCmd.accesskey "ò">
 <!ENTITY printCmd.label "Drëkùjë…">
@@ -110,8 +110,8 @@ can reach it easily. -->
 <!ENTITY fullScreenMinimize.tooltip "Minimalizëjë">
 <!ENTITY fullScreenRestore.tooltip "Doprowadzë nazôd">
 <!ENTITY fullScreenClose.tooltip "Zamkni">
-<!ENTITY fullScreenAùtohide.label "Zatacë lëstew nôrzãdłów">
-<!ENTITY fullScreenAùtohide.accesskey "Z">
+<!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdłów">
+<!ENTITY fullScreenAutohide.accesskey "Z">
 <!ENTITY fullScreenExit.label "Wińdzenié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
 
@@ -489,11 +489,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 <!ENTITY pageStyleMenu.label "Sztél stronë">
-<!ENTITY pageStyleMenu.accesskey "S">
+<!ENTITY pageStyleMenu.accesskey "é">
 <!ENTITY pageStyleNoStyle.label "Felënk sztélu">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Spòdlowi sztél">
-<!ENTITY pageStylePersistentOnly.accesskey "S">
+<!ENTITY pageStylePersistentOnly.accesskey "ò">
 <!ENTITY pageReportIcon.tooltip            "Zmieni nastawë blokadë wëskakùjącëch òknów dlô ti stronë">
 <!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -625,7 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY openLinkInPrivateWindowCmd.label "Òtemkni lënka w nowim priwatnym òknie">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "l">
 
 
 <!ENTITY webrtcIndicatorButton.label "Kamera / mikrofón">
@@ -661,8 +661,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY markPageCmd.commandkey "m">
 <!ENTITY sharePageCmd.label "Ùprzistãpni stronã">
 
-<!ENTITY sharePageCmd.commandkey "s">
-<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY sharePageCmd.commandkey "ã">
+<!ENTITY sharePageCmd.accesskey "ã">
 <!ENTITY shareLinkCmd.label "Ùprzistãpni lënk">
 <!ENTITY shareLinkCmd.accesskey "ã">
 <!ENTITY shareImageCmd.label "Ùprzistãpni òdjimk">
@@ -680,7 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  closeTabsToTheEnd.label            "Zamikôj kôrtë na prawą stronã">
 <!ENTITY  closeOtherTabs.label               "Zamkni jiné kôrtë">
 <!ENTITY pluginNotification.showAll.label "Show All">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.accesskey "A">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Zezwòlë">
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.marklinkMenu.accesskey "a">
 
 <!ENTITY social.markpageMenu.label "Zapiszë stronã w…">
-<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.accesskey "ë">
 <!ENTITY tabCrashed.checkSendReport "Sélôj wiadło ò awarie do &vendorShortName; bë ją naprawilë.">
 <!ENTITY tabCrashed.header "Awariô kôrtë">
 <!ENTITY tabCrashed.message "Terô je nama głupie. Próbòwalësmë sã sparłãczëc ze stroną, równak òna nie òdpòwiadô.">

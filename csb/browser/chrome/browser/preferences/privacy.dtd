@@ -28,7 +28,7 @@
 
 <!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresu òpiarté na:">
 <!ENTITY  locbar.pre.accessKey          "P">
-<!ENTITY  locbar.post.label             "ò">
+<!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "historie i załóżkach">
 <!ENTITY  locbar.history.label          "historie">
 <!ENTITY  locbar.bookmarks.label        "załóżkach">

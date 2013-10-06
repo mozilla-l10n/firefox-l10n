@@ -51,19 +51,19 @@
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Wëskrzëni slédné zaktualnienia">
 <!ENTITY updates.viewUpdates.accesskey        "W">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAùtomatically.label): This menu item
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAùtomatically.label     "Aùtomatno aktualizëje dodôwczi">
-<!ENTITY updates.updateAddonsAùtomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAùtomatic.label, updates.resetUpdatesToManual.label):
+<!ENTITY updates.updateAddonsAutomatically.label     "Aùtomatno aktualizëje dodôwczi">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
-     "Aùtomatically", "Use default global behavior"). These menu items reset the
+     "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Aùtomatically" or "Manually", controlled by the
-     updates.updateAddonsAùtomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAùtomatic.label       "Włączë aùtomatną aktualizacjã dodôwków">
-<!ENTITY updates.resetUpdatesToAùtomatic.accesskey   "a">
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Włączë aùtomatną aktualizacjã dodôwków">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "a">
 <!ENTITY updates.resetUpdatesToManual.label          "Włączë rãczną aktualizacjã dodôwków">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "r">
 <!ENTITY updates.updating.label               "Aktualizacjô dodôwków">
@@ -142,8 +142,8 @@
 <!ENTITY detail.updateType                    "Aùtomatné aktualizacje">
 <!ENTITY detail.updateDefault.label           "Domëslno">
 <!ENTITY detail.updateDefault.tooltip         "Aùtomatno winstalëjë aktualizacje, żlë taczi je domëslny nastôw">
-<!ENTITY detail.updateAùtomatic.label         "Włączoné">
-<!ENTITY detail.updateAùtomatic.tooltip       "Aùtomatno winstalëjë aktualizacje">
+<!ENTITY detail.updateAutomatic.label         "Włączoné">
+<!ENTITY detail.updateAutomatic.tooltip       "Aùtomatno winstalëjë aktualizacje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
 <!ENTITY detail.updateManual.tooltip          "Nie winstaliwùjë aktualizacjów aùtomatno">
 <!ENTITY detail.home                          "Domôcô strona">
@@ -157,7 +157,7 @@
 <!ENTITY detail.showPreferencesWin.accesskey  "Ò">
 <!ENTITY detail.showPreferencesWin.tooltip    "Zmieni òptacje negò dodôwka">
 <!ENTITY detail.showPreferencesUnix.label     "Preferencje">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.accesskey "f">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Zmieni preferencje negò dodôwka">
 
 
