@@ -477,6 +477,7 @@
 <!ENTITY pluginActivateNow.label "Временно разрешить">
 <!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
 <!ENTITY pluginBlockNow.label "Заблокировать плагин">
+<!ENTITY pluginNotification.width "30em">
 <!ENTITY navbarCmd.accesskey "в">
 <!ENTITY addonBarCmd.label "Панель дополнений">
 <!ENTITY addonBarCmd.accesskey "д">
