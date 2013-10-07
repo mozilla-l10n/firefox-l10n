@@ -271,6 +271,9 @@ size. -->
 <!ENTITY button_clear "Rensa">
 
 <!ENTITY home_top_sites_title "Topplistan">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Lägg till en plats">
 
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_last_tabs_title "Tidigare flikar">
