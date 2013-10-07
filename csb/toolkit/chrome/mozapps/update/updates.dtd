@@ -72,36 +72,36 @@
 <!ENTITY  errorManual.label               "Mòżesz rãczno zaktualnic programã &brandShortName; przez òtemkniãcé negò lënka
                                            i zladowanié nônowszi wersje:">
                                            
-<!ENTITY  errorpatching.intro             "Dzélowé zaktualnienié nie mògło bëc zrobioné. 
+<!ENTITY  errorpatching.intro             "Dzélowé zaktualnienié sã nie darziło. 
                                            &brandShortName; spróbùjé zladowac całowną aktualizacjã.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; ni mòże scwierdzëc czë jaczés zaktualnienié je przistãpné. Proszã
-                                           ùgwësni sã że môsz nônowszą wersëjã &brandShortName; z:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ni mòże scwierdzëc czë zaktualnienia są przistãpné. Proszã,
+                                           ùgwësni sã że môsz winstalowóną nônowszą wersjã programù &brandShortName; z:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Cos przeszkôdzô &brandShortName; w bezpieczny aktualizacje.
                                            Proszã ùgwësni sã że môsz nônowszą wersjã &brandShortName; z:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Cos chce wëmùszëc na &brandShortName; akceptacjã
-                                           niebezpiecznégò zaktualnienia. Proszë sparłãczë są z miewcą twòji sécë i pòprosë ò pòmòc.">
+<!ENTITY  errorCertAttrHasUpdate.label    "Cos chce wëmùszëc na programie &brandShortName; akceptacjã
+                                           niebezpiecznégò zaktualnienia. Proszë, sparłãczë są z miewcą Twòji sécë i pòprosë ò pòmòc.">
 
 <!ENTITY  finishedPage.title              "Aktualizacjô je parôt do winstalowaniô">
-<!ENTITY  finishedPage.text               "Aktualizacjô bãdze winstalowónô przë nôslédnym zrëszenim programù &brandShortName;. Zrëszë terô 
-                                           program &brandShortName; znowa, abò biéj z robòtą dali i winstalëjë zaktualnienié pòzdze.">
+<!ENTITY  finishedPage.text               "Aktualizacjô òstanié winstalowónô przë nôslédnym zrëszenim programù &brandShortName;. Zrëszë terô 
+                                           program &brandShortName; znowa, abò robi dali i winstalëjë zaktualnienié pòzdze.">
 
 <!ENTITY  finishedBackgroundPage.text     "Program &brandShortName; zladowôł wôżną
                                            aktualizacjã i je parôt do ji winstalowaniô.">
 <!ENTITY  finishedBackground.name         "Aktualizacjô:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizacjô bãdze winstalowónô przë nôslédnym zrëszenim programù &brandShortName; starts. Mòżesz terô 
-                                           zrëszëc program &brandShortName; znowa, abò jic z robòtą dali i zrëszëc program pòzdze znowa.">
+                                           zrëszëc program &brandShortName; znowa, abò dali robic i zrëszëc program znowa pòzdze.">
 
 <!ENTITY  installed.title                 "Aktualizacjô winstalowónô">
-<!ENTITY  installed.intro                 "Instalacjô darziła sã">
+<!ENTITY  installed.intro                 "Instalacjô zakùńczonô">
 <!ENTITY  whatsnew.label                  "Wicy nowòsców…">
 
 <!ENTITY  update.details.label            "Detale">
 <!ENTITY  update.installedOn.label        "Òstało winstalowóné:">
 <!ENTITY  update.status.label             "Stón:">
-<!ENTITY  unsupported.label               "Twój &brandShortName; nie je przestarzałi, kò nônowszô wersjô
-                                           nie je wspirónô na Twòjim systemie. Proszã zaktualnic system i spróbòwac jesz rôz.
-                                           Ju wicy nie òbaczëc tegò wiadła, ale mòżesz sã tak stac">
-<!ENTITY  unsupported.title               "System niewspieróny">
+<!ENTITY  unsupported.label               "Twój program &brandShortName; nie je przestarzałi, kò nônowszô wersjô
+                                           nie je wspierónô na tim systemie. Proszã zaktualnic system i spróbòwac jesz rôz.
+                                           Ju wicy nie ju ùzdrzëc tegò wiadła">
+<!ENTITY  unsupported.title               "System nie je wspieróny">
 <!ENTITY  unsupportedLink.label           "Wëdowiedzë sã wicy.">										   

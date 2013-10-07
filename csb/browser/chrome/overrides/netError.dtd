@@ -24,7 +24,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie dało sã sparłãczec">
-<!ENTITY connectionFailure.longDesc "<p>Mimò, że adres stronë wëdôwi sã bëc dobri, przezérnik nie béł w sztãdze sã sparłãczëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòżesz przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów w przezéraniu internetowëch stronów.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Mimò, że adres stronë wëdôwi sã bëc dobri, przezérnik nie béł w sztãdze sã sparłãczëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòżesz przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów w przezéranim internetowëch stronów.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt je zastrzeżóny z przëczënë bezpiekù">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -43,7 +43,7 @@
 <!ENTITY malformedURI.longDesc "<p>Pòdóny adres je w nieznónym fòrmace. Nót je òbaczëc, czë w adresowi lëstwie ni mô felów, a pò tim spróbòwac jesz rôz.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
-<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczył sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżesz téż òbzérac jinszëch stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowëch ùsłëżnotów.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczył sã, równak sparłãczenié òstało przerwóné przë sélanim wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżesz téż òbzérac jinszëch stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowëch ùsłëżnotów.</li></ul>">
 
 
 <!ENTITY notCached.title "Dokùment ju je wëgasłi">
