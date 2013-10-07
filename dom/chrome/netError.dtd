@@ -21,7 +21,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie dało sã sparłãczec">
-<!ENTITY connectionFailure.longDesc "<p>Nimò, że adres stronë wëdôwô sã bëc dobri, przezérnik nie béł w sztãdze sã sparłączëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòże przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowadzëc do problemów w przezéraniu internetowëch stronów.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Nimò, że adres stronë wëdôwô sã bëc dobri, przezérnik nie béł w sztãdze sã sparłączëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòże przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowadzëc do problemów w przezéranim internetowëch stronów.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt je zastrzeżony z przëczënë bezpiekù">
 <!ENTITY deniedPortAccess.longDesc "<p>Żądóny adres zamëkô w se numer pòrtu (np. w adresu <q>mozilla.org:80</q> wielëna 80 to pòrt na serwerze mozilla.org), chtërny zwëczajno <em>nie je</em> brëkòwóny do przezéraniô stronów WWW. Przezérnik anulowôł to żądzanié dlô twòjégò bezpiekù.</p>">
@@ -39,7 +39,7 @@
 <!ENTITY malformedURI.longDesc "<p>Dóny adres je w nieznónym fòrmace. Nót je òbaczëc, czë w adresowi lëstwie ni mô felów, a pò tim spróbòwac jesz rôz.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
-<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac jesz rôz.</p><ul><li>Ni mòżész téż òbzérac jinszëch stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã Internetowëch ùsłëżnotów.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélanim pòdôwków. Nót je spróbòwac jesz rôz.</p><ul><li>Ni mòżész téż òbzérac jinszëch stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã Internetowëch ùsłëżnotów.</li></ul>">
 
 <!ENTITY notCached.title "Dokùment ju je wëgasłi">
 <!ENTITY notCached.longDesc "<p>Żądóny dokùment nie je przistãpny w kaszu Firefoksa.</p><ul><li>Z pòzdrzatkù na bezpiek, Firefox

@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "z">
 <!ENTITY startupHomePage.label     "wëskrzëni domôcą stronã">
 <!ENTITY startupBlankPage.label    "wëskrzeni pùstą stronã">
-<!ENTITY startupLastSession.label  "wëskrzëni òkna i kôrtë pòprzédny sesji">
+<!ENTITY startupLastSession.label  "wëskrzëni òkna i kôrtë pòprzédny sesje">
 
 <!ENTITY homepage.label            "Domôcô strona:">
 <!ENTITY homepage.accesskey        "m">
