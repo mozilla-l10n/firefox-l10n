@@ -483,6 +483,7 @@
 <!ENTITY pluginActivateNow.label "Временно разрешить">
 <!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
 <!ENTITY pluginBlockNow.label "Заблокировать плагин">
+<!ENTITY pluginNotification.width "30em">
 <!ENTITY tabCrashed.header "Вкладка упала">
 <!ENTITY tabCrashed.message "Ой, вот ведь незадача. Мы пытались показать вам эту веб-страницу, а она не отзывается.">
 <!ENTITY tabCrashed.checkSendReport "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить.">
