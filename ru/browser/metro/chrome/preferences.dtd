@@ -26,10 +26,10 @@
 <!ENTITY clearPrivateData.logins "Активные сеансы">
 <!ENTITY optionsHeader.privacy.passwords.label "Запоминать пароли">
 <!ENTITY doNotTrack.title "Отказ от отслеживания">
-<!ENTITY doNotTrack.desc "Сообщать сайтам:">
-<!ENTITY doNotTrack.options.trackingNotOkay "Я не хочу, чтобы меня отслеживали">
-<!ENTITY doNotTrack.options.noPreference "Ничего о настройках отслеживания">
-<!ENTITY doNotTrack.options.trackingOkay "Я хочу, чтобы меня отслеживали">
+<!ENTITY doNotTrack.options.doNotTrack "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
+<!ENTITY doNotTrack.options.doTrack "Сообщать сайтам, что я хочу, чтобы меня отслеживали">
+<!ENTITY doNotTrack.options.default "Не сообщать сайтам ничего о моих настройках отслеживания">
+<!ENTITY doNotTrack.learnMoreLink "Подробнее…">
 <!ENTITY optionsHeader.reporting.title "Сообщения о падениях">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; отправляет сообщения о падениях, чтобы помочь Mozilla сделать браузер стабильнее и безопаснее">
 <!ENTITY optionsHeader.telemetry.title "Телеметрия">
