@@ -17,9 +17,9 @@
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Undermappe for denne siden:">
 <!ENTITY docDirList.accesskey         "U">
-<!ENTITY docDirList.tooltip           "Velg eller skriv inn navnet på en underkatalog på serveren for denne siden">
-<!ENTITY publishImgCheckbox.label     "Inkluder bilder og andre filer">
-<!ENTITY publishImgCheckbox.accesskey "n">
+<!ENTITY docDirList.tooltip           "Velg eller skriv inn navnet på en undermappen på serveren som denne siden bruker">
+<!ENTITY publishImgCheckbox.label     "Ta med bilder og andre filer">
+<!ENTITY publishImgCheckbox.accesskey "T">
 <!ENTITY publishImgCheckbox.tooltip   "Publiser bilder og andre filer som denne siden er koblet til">
 <!ENTITY sameLocationRadio.label      "Bruk samme adresse som siden">
 <!ENTITY sameLocationRadio.accesskey  "r">
@@ -27,14 +27,14 @@
 <!ENTITY useSubdirRadio.label         "Bruk denne undermappen">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Velg eller skriv inn et navn på den eksterne undermappen hvor filene skal publiseres">
-<!ENTITY otherDirList.tooltip         "Velg eller skriv inn et navn på en underkatalog på serveren hvor filene vil publiseres">
+<!ENTITY otherDirList.tooltip         "Velg eller skriv inn et navn på en undermappe på serveren hvor filene vil publiseres">
 <!ENTITY pageTitle.label              "Sidetittel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Skriv inn en tittel for å identifisere siden i vinduet og bokmerkene">
 <!ENTITY pageTitleExample.label       "f.eks.: «Min nettside»">
 <!ENTITY filename.label               "Filnavn:">
 <!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Skriv inn et navn på denne filen, inkludert «.html» for en nettside">
+<!ENTITY filename.tooltip             "Skriv inn et navn på denne filen, og ta med «.html» for en nettside">
 <!ENTITY filenameExample.label        "f.eks.: «minside.html»">
 <!ENTITY setDefaultButton.label       "Sett som standard">
 <!ENTITY setDefaultButton.accesskey   "e">
@@ -53,7 +53,7 @@
 <!ENTITY siteUrl.tooltip              "FTP://- eller HTTP://-adressen til din ISP eller nettvert">
 <!ENTITY browseUrl.label              "HTTP-adressen til hjemmesiden (f.eks.: «http://www.myisp.com/myusername»):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "HTTP://-adressen til din hjemmekatalog (ikke inkluder filnavn)">
+<!ENTITY browseUrl.tooltip            "HTTP://-adressen til din hjemmemappe (ikke ta med filnavn)">
 <!ENTITY username.label               "Brukernavn:">
 <!ENTITY username.accesskey           "B">
 <!ENTITY username.tooltip             "Brukernavnet du bruker for å logge inn til din ISP eller nettvert">

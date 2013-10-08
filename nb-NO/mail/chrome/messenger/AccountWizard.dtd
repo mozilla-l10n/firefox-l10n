@@ -110,7 +110,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gratulerer!">
-<!ENTITY completionText.label "Kontroller at informasjonen under er korrekt.">
+<!ENTITY completionText.label "Kontroller at informasjonen under er er riktig.">
 <!ENTITY serverTypePrefix.label "Type:">
 <!ENTITY serverNamePrefix.label "Innkommende server:">
 <!ENTITY smtpServerNamePrefix.label "Utgående servernavn (SMTP):">

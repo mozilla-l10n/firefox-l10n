@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Forespørselsadressen oppgav en port (f.eks. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt brukes til et <em>annet</em> formål enn nettlesing. Nettleseren har avbrutt forespørselen av sikkerhetsårsaker.</p>">
 
 <!ENTITY dnsNotFound.title "Adressen ikke funnet">
-<!ENTITY dnsNotFound.longDesc "<p>Nettleseren klarte ikke å finne en server på den oppgitte adressen.</p><ul><li>Er du sikker på at du skrev inn adressen korrekt? (f.eks. <q><strong>ww</strong>.mozilla.org</q> istedenfor <q><strong>www</strong>.mozilla.org</q>)</li><li>Er du sikker på at adressen virkelig finnes?  Det kan hende at nettstedet er stengt.</li><li>Klarer du å få tilgang til andre nettsider? Sjekk at du er tilkoblet Internett, og at DNS-innstillingene er korrekte.</li><li>Er datamaskinen eller nettverket ditt beskyttet av en brannmur eller en proxy?  Feilaktige innstillinger kan gjøre det umulig å bruke Internett.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Nettleseren klarte ikke å finne en server på den oppgitte adressen.</p><ul><li>Er du sikker på at du skrev inn adressen riktig? (f.eks. <q><strong>ww</strong>.mozilla.org</q> istedenfor <q><strong>www</strong>.mozilla.org</q>)</li><li>Er du sikker på at adressen virkelig finnes?  Det kan hende at nettstedet er stengt.</li><li>Klarer du å få tilgang til andre nettsider? Sjekk at du er tilkoblet Internett, og at DNS-innstillingene er korrekte.</li><li>Er datamaskinen eller nettverket ditt beskyttet av en brannmur eller en proxy?  Feilaktige innstillinger kan gjøre det umulig å bruke Internett.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fant ikke filen">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kan filen ha endret navn, blitt fjernet, eller kanskje endret plassering?</li><li>Er navnet skrevet korrekt, er bokstavene skrevet riktig (f.eks. 'a' vs. 'A'), eller er det andre typografiske feil i adressen?</li><li>Har du tilstrekkelige tilgangsprivilegier for å åpne filen?</li></ul>">
@@ -64,10 +64,10 @@
 <!ENTITY unknownSocketType.title "Ugyldig svar">
 <!ENTITY unknownSocketType.longDesc "<p>Nettstedet svarte på en forespørsel på en uventet måte, og nettleseren kan ikke fortsette.</p>">
 
-<!ENTITY nssFailure2.title "Sikker tilkobling feilet">
+<!ENTITY nssFailure2.title "Sikker tilkobling mislyktes">
 <!ENTITY nssFailure2.longDesc "<p>Nettstedet du forsøker å åpne kan ikke vises. Klarte ikke kontrollere identiteten til avsenderen av informasjonen.</p><ul><li>Kontakt den ansvarlige for serveren og informer om problemet.</li></ul>">
 
-<!ENTITY nssBadCert.title "Sikker tilkobling feilet">
+<!ENTITY nssBadCert.title "Sikker tilkobling mislyktes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dette kan være på grunn av et problem med serverens konfigurasjon, eller det kan være fordi noen forsøker å forfalske tilkoblingen til serveren.</li>
 <li>Dersom du har klart å koble til serveren tidligere kan problemet være midlertidig, og du kan prøve igjen senere.</li>
@@ -84,11 +84,11 @@
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettleseren forhindret denne siden fra å lastes inn på denne måten, fordi nettsiden har en sikkerhetsregel som forbyr det.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettleseren forhindret denne siden fra å lastes inn på denne måten, fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
 
 <!ENTITY corruptedContentError.title "Feil - ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen ble oppdaget</p><ul><li>Kontakt nettstedseierne og informer dem om problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen</p><ul><li>Kontakt nettstedseierne og informer dem om problemet.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul></p>">

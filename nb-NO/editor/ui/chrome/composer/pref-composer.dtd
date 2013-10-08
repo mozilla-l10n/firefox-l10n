@@ -12,7 +12,7 @@
 <!ENTITY  documentsInMenu.label         "Maksimalt antall filer i listen:">
 <!ENTITY  documentsInMenu.accesskey     "M">
 <!ENTITY  savingFiles.title             "Ved lagring eller publisering av sider">
-<!ENTITY  preserveExisting.label        "Behold original kildekodeformatering">
+<!ENTITY  preserveExisting.label        "Behold opprinnelig kildekodeformatering">
 <!ENTITY  preserveExisting.accesskey    "e">
 <!ENTITY  preserveExisting.tooltip      "Behold linjeskift og sidens opprinnelige formatering">
 <!ENTITY  saveAssociatedFiles.label     "Lagre bilder og andre brukte filer ved lagring av sider">

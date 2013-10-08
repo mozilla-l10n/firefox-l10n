@@ -93,8 +93,8 @@
 <!ENTITY customizeToolbar.accesskey                     "T">
 <!ENTITY layoutMenu.label                               "Utforming">
 <!ENTITY layoutMenu.accesskey                           "U">
-<!ENTITY showDirectoryPane.label                        "Katalogpanel">
-<!ENTITY showDirectoryPane.accesskey                    "K">
+<!ENTITY showDirectoryPane.label                        "Mappepanel">
+<!ENTITY showDirectoryPane.accesskey                    "M">
 <!ENTITY showContactPane2.label                         "Kontaktpanel">
 <!ENTITY showContactPane2.accesskey                     "o">
 <!ENTITY menu_ShowNameAs.label                          "Vis navn som">

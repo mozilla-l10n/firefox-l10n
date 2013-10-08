@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Innstillinger for uønsket e-post">
-<!ENTITY trainingDescription.label "Hvis påslått, må du først trene opp &brandShortName; til å oppdage uønsket e-post ved å bruke Uønsket-knappen for å merke meldinger som uønsket eller ikke. Du må indikere både meldinger du ønsker og ikke ønsker å motta. Etter dette vil &brandShortName; være i stand til å merke uønsket post automatisk.">
+<!ENTITY trainingDescription.label "Hvis påslått, må du først trene opp &brandShortName; til å oppdage uønsket e-post ved å bruke Uønsket-knappen for å merke meldinger som uønsket eller ikke. Du må merke både meldinger du ønsker og ikke ønsker å motta. Etter dette vil &brandShortName; være i stand til å merke uønsket post automatisk.">
 <!ENTITY level.label "Tillat adaptivt filter for uønsket e-post på denne kontoen">
 <!ENTITY level.accesskey "T">
 

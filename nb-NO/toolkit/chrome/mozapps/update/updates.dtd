@@ -63,7 +63,7 @@
 
 <!ENTITY  details.link                    "Detaljer">
 
-<!ENTITY  error.title                     "Oppdatering feilet">
+<!ENTITY  error.title                     "Oppdatering mislyktes">
 
 <!ENTITY  error.label                     "Det oppstod problemer under kontroll, nedlasting eller installering av denne
                                            oppdateringen. Klarte ikke oppdatere &brandShortName; fordi:">

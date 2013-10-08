@@ -45,7 +45,7 @@
 <!ENTITY downloadRetry.label       "Prøv igjen">
 <!ENTITY downloadRemove.label      "Fjern">
 <!ENTITY downloadDelete.label      "Slett">
-<!ENTITY downloadFailed.label      "Feilet">
+<!ENTITY downloadFailed.label      "Feil">
 
 <!ENTITY allBookmarks.label        "Se alle bokmerker">
 

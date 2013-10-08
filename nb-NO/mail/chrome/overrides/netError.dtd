@@ -16,15 +16,15 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Adresse ikke funnet">
+<!ENTITY dnsNotFound.title "Serveren ikke funnet">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Kontroller om det er skrivefeil i adressen, for eksempel
     <strong>ww</strong>.eksempel.no istedenfor
     <strong>www</strong>.eksempel.no</li>
-  <li>Dersom du ikke klarer å laste noen nettsider, kontroller at datamaskinens nettverksforbindelse
+  <li>Hvis du ikke klarer å laste noen nettsider, kontroller at datamaskinens nettverksforbindelse
     er i orden.</li>
-  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, sjekk at
+  <li>Hvis datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, sjekk at
     &brandShortName; har tillatelse til å bruke Internett.</li>
 </ul>
 ">
@@ -57,7 +57,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
-<!ENTITY notCached.longDesc "<p>Det forespurte dokumentet er ikke tilgjengelig i hurtiglageret.</p><ul><li>Av sikkerhetshensyn vil ikke &brandShortName; automatisk laste ned sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å laste ned dokumentet fra serveren på nytt.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det forespurte dokumentet er ikke tilgjengelig i hurtiglageret.</p><ul><li>Av sikkerhetshensyn vil ikke &brandShortName; automatisk laste ned sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å hente dokumentet fra serveren på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Frakoblet modus">
 <!ENTITY netOffline.longDesc2 "
@@ -105,7 +105,7 @@
 <!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontroller at innstillingene for proxy er korrekte.</li>
+  <li>Kontroller at proxyinnstillingene er korrekte.</li>
   <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li>
   <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, kontroller
     at &brandShortName; har tillatelse til å få tilgang til Internett.</li>
@@ -170,11 +170,11 @@ midlertidig, og du kan prøve igjen senere.</li>
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetsregel som forhindrer det.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">

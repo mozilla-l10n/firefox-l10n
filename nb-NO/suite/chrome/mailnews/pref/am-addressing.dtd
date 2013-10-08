@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meldinger i HTML-format">
 <!ENTITY useHtml.accesskey                    "H">
-<!ENTITY autoQuote.label                      "Siter den originale meldingen ved svar">
+<!ENTITY autoQuote.label                      "Siter den opprinnelige meldingen ved svar">
 <!ENTITY autoQuote.accesskey                  "a">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Og:">

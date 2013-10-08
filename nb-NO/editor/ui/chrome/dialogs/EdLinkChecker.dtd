@@ -5,5 +5,5 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Sjekk bilde- og lenkeadresser">
 <!ENTITY succeeded.label       "Fullført">
-<!ENTITY failed.label          "Feilet">
+<!ENTITY failed.label          "Mislykket">
 <!ENTITY closeButton.label     "Lukk">

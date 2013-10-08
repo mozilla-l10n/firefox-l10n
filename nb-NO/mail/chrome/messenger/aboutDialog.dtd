@@ -36,7 +36,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Oppdatering feilet. ">
+<!ENTITY update.failed.start        "Oppdatering mislyktes. ">
 <!ENTITY update.failed.linkText     "Last ned den nyeste versjonen">
 <!ENTITY update.failed.end          "">
 

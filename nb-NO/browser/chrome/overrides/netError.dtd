@@ -96,7 +96,7 @@
 <!ENTITY proxyConnectFailure.title "Proxy godtar ikke tilkoblinger">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontroller at proxyinnstillingene er korrekte.</li>
+  <li>Kontroller at proxyinnstillingene er riktige.</li>
   <li>Kontakt nettverksansvarlig og forsikre deg om at proxyen
     virker.</li>
 </ul>
@@ -105,7 +105,7 @@
 <!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontroller at proxyinnstillingene er korrekte.</li>
+  <li>Kontroller at proxyinnstillingene er riktige.</li>
   <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li>
   <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, kontroller
     at &brandShortName; har tillatelse til å få tilgang til Internett.</li>
@@ -129,7 +129,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sikker tilkobling feilet">
+<!ENTITY nssFailure2.title "Sikker tilkobling mislyktes">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Siden du forsøker åpne kan ikke vises fordi identiteten til avsenderen av informasjonen ikke kunne bli kontrollert.</li>
@@ -137,7 +137,7 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Sikker tilkobling feilet">
+<!ENTITY nssBadCert.title "Sikker tilkobling mislyktes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Dette kan være på grunn av et problem med serverens innstillinger, eller det kan være
@@ -170,11 +170,11 @@ midlertidig, og du kan prøve igjen senere.</li>
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetsregel som forhindrer det.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">

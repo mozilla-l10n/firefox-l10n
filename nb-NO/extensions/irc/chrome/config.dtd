@@ -14,7 +14,7 @@
 <!ENTITY object.add.accesskey   "L">
 
 <!ENTITY object.del.label       "Fjern">
-<!ENTITY object.del.hint        "Fjerner dette objektet, inkludert innstillinger">
+<!ENTITY object.del.hint        "Fjerner dette objektet, sammen med innstillinger">
 <!ENTITY object.del.accesskey   "F">
 
 <!ENTITY object.reset.label     "Tilbakestill">
