@@ -55,3 +55,5 @@
 <!ENTITY debuggerUI.stepping.stepIn2 "VK_COMMA">
 <!ENTITY debuggerUI.stepping.stepOut1 "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut2 "VK_COMMA">
+<!ENTITY debuggerUI.tabs.variables "Variabili">
+<!ENTITY debuggerUI.tabs.events "Eventi">
