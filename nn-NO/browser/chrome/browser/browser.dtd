@@ -627,8 +627,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Vis varsel">
 <!ENTITY social.toggleNotifications.accesskey "a">
 
-<!ENTITY social.activated.description "Tenester frå <label/> er påslått. Du kan endre tenesteinnstillingar <label class='text-link'>Utvidelsesbehandling</label>.
-  	">
+<!ENTITY social.activated.description "Tenester frå <label/> er påslått. Du kan endre tenesteinnstillingar <label class='text-link'>Utvidelsesbehandling</label>.">
 <!ENTITY social.activated.undo.label "Oops, angre dette!">
 <!ENTITY social.activated.undo.accesskey "O">
 <!ENTITY social.learnMore.label "Les meir …">
@@ -663,6 +662,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Tillat no">
 <!ENTITY pluginActivateAlways.label "Tillat og hugs">
 <!ENTITY pluginBlockNow.label "Blokker programtillegg">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
