@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
-<!ENTITY closeCmd.key  "U">
+<!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Lukk utviklarverktøy">
 <!ENTITY toolboxOptionsButton.key      "O">
