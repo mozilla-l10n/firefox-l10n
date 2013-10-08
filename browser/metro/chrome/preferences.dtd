@@ -27,7 +27,7 @@
 <!ENTITY clearPrivateData.formSearchHist                         "Формалардың іздеу тарихы">
 <!ENTITY clearPrivateData.passwords                              "Сақталып тұрған парольдер">
 <!ENTITY clearPrivateData.offline                                "Веб сайттардың дербес ақпараты">
-
+<!ENTITY clearPrivateData.logins                                 "Белсенді кірулер">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Парольдерді сақтау">
 

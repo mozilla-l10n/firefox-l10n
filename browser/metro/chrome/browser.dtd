@@ -69,10 +69,10 @@
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 <!ENTITY contextCopyImage.label            "Суретті көшіру">
 <!ENTITY contextCopyImageLocation.label    "Сурет сілтемесін көшіру">
-
+<!ENTITY contextOpenImageTab.label         "Суретті жаңа бетте ашу">
 <!-- VIDEO CONTEXT MENU -->
 <!ENTITY contextCopyVideoLocation.label    "Видеоның сілтемесін көшіру">
-
+<!ENTITY contextOpenVideoTab.label         "Видеоны жаңа бетте ашу">
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY urlbar.accesskey "з">
