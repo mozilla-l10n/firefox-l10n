@@ -90,11 +90,11 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Ամբողջ էկրանով">
+<!ENTITY enterFullScreenCmd.label "Լիաէկրան">
 <!ENTITY enterFullScreenCmd.accesskey "է">
-<!ENTITY exitFullScreenCmd.label "Դուրս գալ Ամբողջ էկրանով վիճակից">
-<!ENTITY exitFullScreenCmd.accesskey "Ա">
-<!ENTITY fullScreenCmd.label "Բացել Ամբողջ Էկրանով">
+<!ENTITY exitFullScreenCmd.label "Դուրս գալ Լիաէկրան վիճակից">
+<!ENTITY exitFullScreenCmd.accesskey "Լ">
+<!ENTITY fullScreenCmd.label "Բացել Լիաէկրան ">
 <!ENTITY fullScreenCmd.accesskey "Բ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
@@ -105,14 +105,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Փակել">
 <!ENTITY fullScreenAutohide.label "Թաքցնել Վահանակները">
 <!ENTITY fullScreenAutohide.accesskey "Թ">
-<!ENTITY fullScreenExit.label "Փակել Ամբողջ Էկրանով եղանակը">
-<!ENTITY fullScreenExit.accesskey "Ա">
+<!ENTITY fullScreenExit.label "Դուրս գալ Լիաէկրան վիճակից">
+<!ENTITY fullScreenExit.accesskey "Լ">
 <!ENTITY fullscreenAllowButton.label "Թույլատրել">
 <!ENTITY fullscreenExitButton.label "Արգելել">
 
 <!ENTITY fullscreenExitHint2.value "Սեղմեք ESC՝ փակելու համար:">
-<!ENTITY leaveDOMFullScreen.label "Դուրս գալ Ամբողջ էկրանով վիճակից">
-<!ENTITY leaveDOMFullScreen.accesskey "Ա">
+<!ENTITY leaveDOMFullScreen.label "Դուրս գալ Լիաէկրան վիճակից">
+<!ENTITY leaveDOMFullScreen.accesskey "Լ">
 
 <!ENTITY closeWindow.label "Փակել Պատուհանը">
 <!ENTITY closeWindow.accesskey "տ">
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
 <!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">
 <!ENTITY devToolbarMenu.accesskey          "գ">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
@@ -643,10 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
 <!ENTITY social.chatBar.accesskey "ց">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտքը ապարատին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
@@ -668,6 +670,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Թույլատրել">
 <!ENTITY pluginActivateAlways.label "Թույլատրել և Հիշել">
 <!ENTITY pluginBlockNow.label "Արգելել բաղադրիչը">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+
+
+<!ENTITY tabCrashed.tryAgain "Կրկին փորձել">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+<!ENTITY appbarFindInPage2.label    "Գտնել էջում">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "Բացել">
+<!ENTITY downloadCancel.label      "Չեղարկել">
+
+<!ENTITY downloadResume.label      "Շարունակել">
+<!ENTITY downloadRetry.label       "Կրկնել">
+<!ENTITY downloadRemove.label      "Հեռացնել">
+
+<!ENTITY downloadFailed.label      "Խափանում">
+
+
+<!ENTITY consoleAll.label          "Բոլորը">
+<!ENTITY consoleErrors.label       "Սխալմունքներ">
+<!ENTITY consoleWarnings.label     "Զգուշացումներ">
+
+
+
+
+<!ENTITY consoleErrFile.label      "Ֆայլ Աղբյուր.">
+<!ENTITY consoleErrLine.label      "Տող.">
+<!ENTITY consoleErrColumn.label    "Սյուն.">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Կտրել">
+<!ENTITY contextTextCopy.label             "Պատճենել">
+<!ENTITY contextTextPaste.label            "Մեջբերել">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "Ընտրել">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

@@ -6,8 +6,8 @@
 <!ENTITY playButton.pauseLabel "Ընդմիջել">
 <!ENTITY muteButton.muteLabel "Սսկել">
 <!ENTITY muteButton.unmuteLabel "Ձայն">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Ամբողջ էկրանով">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Ամբողջ էկրանով վիճակից">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Լիաէկրան">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Լիաէկրան վիճակից">
 
 <!ENTITY stats.media "Մեդիա">
 <!ENTITY stats.size "Չափը">
