@@ -679,7 +679,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width                "28em">
 
 <!ENTITY tabCrashed.header                       "Kaart lõpetas veaga">
-<!ENTITY tabCrashed.message                      "Nonii, see on nüüd küll piinlik. Me üritasime kuvada seda veebilehte, aga see ei vasta.">
+<!ENTITY tabCrashed.message                      "Nonii, see on nüüd küll piinlik. Me üritasime kuvada seda veebilehte, aga see ei reageeri.">
 <!ENTITY tabCrashed.checkSendReport              "Teavita &vendorShortName;t sellest veast, nii et nad saaksid selle parandada.">
 <!ENTITY tabCrashed.tryAgain                     "Proovi uuesti">
 
