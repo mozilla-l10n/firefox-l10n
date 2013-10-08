@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Vista diseño responsivo">
 <!ENTITY responsiveDesignTool.accesskey "r">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -250,8 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "Gestor de aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey           "G">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Mostrar herramientas">
@@ -646,9 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Enfocar chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Guardar página a…">
+<!ENTITY social.marklinkMenu.accesskey "e">
+<!ENTITY social.marklinkMenu.label "Guardar enlace a…">
 
 <!ENTITY getUserMedia.selectCamera.label "Compartir cámara">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -670,9 +671,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
 
+<!ENTITY pluginNotification.width "28em">
 
-
+<!ENTITY tabCrashed.header "La pestaña ha tenido un error">
+<!ENTITY tabCrashed.message "Bueno, esto es vergonzoso. Tratamos de mostrar esta página Web, pero no está respondiendo.">
+<!ENTITY tabCrashed.checkSendReport "Decir a &vendorShortName; acerca de este error así ellos podrán repararlo.">
 <!ENTITY tabCrashed.tryAgain "Reintentar">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
