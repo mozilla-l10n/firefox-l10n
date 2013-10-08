@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "ตัวเลือก">
+<!ENTITY optionsHeader.startup.title                             "เริ่มการทำงาน">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "คุกกี้">
+<!ENTITY clearPrivateData.cache                                  "แคช">
+<!ENTITY clearPrivateData.sitePref                               "การตั้งค่าเว็บไซต์">
+<!ENTITY clearPrivateData.formSearchHist                         "ประวัติการกรอกฟอร์มและการค้นหา">
+<!ENTITY clearPrivateData.passwords                              "รหัสผ่านที่บันทึกไว้">
+<!ENTITY clearPrivateData.offline                                "ข้อมูลเว็บไซต์ออฟไลน์">
+<!ENTITY clearPrivateData.logins                                 "การล็อกอินที่ค้างอยู่">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "จำรหัสผ่าน">
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "ตัวรายงานข้อขัดข้อง">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย Mozilla ทำเบราเซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
+<!ENTITY optionsHeader.telemetry.title                            "การวัดและส่งข้อมูลทางไกล">
+

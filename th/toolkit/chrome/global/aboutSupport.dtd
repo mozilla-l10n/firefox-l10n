@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "ข้อมูลการแก้ไขปัญหา">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  หน้านี้ประกอบด้วยข้อมูลทางด้านเทคนิคที่อาจจะมีประโยชน์ต่อคุณเมื่อคุณพยายาม
+<!ENTITY aboutSupport.pageSubtitle "  หน้านี้ประกอบด้วยข้อมูลทางด้านเทคนิคที่อาจจะมีประโยชน์ต่อคุณเมื่อคุณพยายาม 
 จะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; 
 ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
 
@@ -18,6 +18,11 @@
 <!ENTITY aboutSupport.appBasicsTitle "แอปพลิเคชั่นพื้นฐาน">
 <!ENTITY aboutSupport.appBasicsName "ชื่อ">
 <!ENTITY aboutSupport.appBasicsVersion "รุ่น">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการปรับรุ่น">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรี่โพรไฟล์">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -64,8 +69,3 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "คัดลอกข้อมูลดิบไปยังคลิปบอร์ด">
-
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการปรับรุ่น">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
