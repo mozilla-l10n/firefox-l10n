@@ -270,6 +270,12 @@ size. -->
 <!ENTITY button_set "Sett">
 <!ENTITY button_clear "Tøm">
 
+
+<!ENTITY home_top_sites_title "Toppliste">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Legg til nettsted">
+
 <!ENTITY home_history_title "Historikk">
 <!ENTITY home_last_tabs_title "Faner fra forrige gang">
 <!ENTITY home_last_tabs_open "Åpne alle faner fra forrige gang">
