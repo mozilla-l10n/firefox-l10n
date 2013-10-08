@@ -31,9 +31,6 @@ that require it.  -->
 
 <!ENTITY historySection.label         "අතීතය">
 <!ENTITY dataSection.label            "දත්ත">
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 
 <!ENTITY itemHistoryAndDownloads.label     "පිරික්සුම් සහ බාගත ඉතිහාසය">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
@@ -60,5 +57,4 @@ that require it.  -->
      Clear History on Shutdown dialogs.  Should be large enough to contain
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
-<!ENTITY dialog.width2                 "34em">
-<!ENTITY column.width2                 "17em">
+

@@ -33,11 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
 
 <!ENTITY saveFileCmd.label            "සුරකින්න">
 <!ENTITY saveFileCmd.accesskey        "S">
@@ -55,7 +53,7 @@
 
 <!ENTITY run.label                    "දුවවන්න">
 <!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "පරීක්ෂාව">
 <!ENTITY inspect.accesskey            "I">
@@ -64,6 +62,8 @@
 <!ENTITY display.label                "පෙන්වීම">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -105,9 +105,8 @@
 <!ENTITY resetContext2.label          "විචල්‍යයන් යළි-සකසන්න">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+
+
 
 <!ENTITY executeMenu.label            "ක්‍රියාත්මක කරන්න">
 <!ENTITY executeMenu.accesskey        "X">

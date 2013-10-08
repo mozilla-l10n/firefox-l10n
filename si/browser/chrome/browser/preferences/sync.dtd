@@ -14,8 +14,6 @@
 <!ENTITY resetPass.label              "ප්‍රත්‍යාරම්භ (Reset) කරන්න">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "කොටා (Quota) පෙන්වන්න">
 <!ENTITY changePassword2.label        "රහස්පදය වෙනස්කරන්න">
 <!ENTITY myRecoveryKey.label          "මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
@@ -38,8 +36,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "මෙම උපාංගය අසබැඳි කරන්න">
 <!-- Footer stuff -->
 

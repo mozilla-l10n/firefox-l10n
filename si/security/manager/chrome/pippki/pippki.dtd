@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "ප්‍රතිපත්තිය">
 <!ENTITY downloadCert.viewCert.text "CA සහතිකය පිරික්සා බලන්න">
 <!ENTITY downloadCert.viewPolicy.text "CA ප්‍රතිපත්තීන් සහ කාර්ය පටිපාටිය පිරික්සා බලන්න">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "සහතිකයක් පවතී">
-<!ENTITY caCertExists.message "සහතිකය දැනටමත් පවතී.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "පරිශීලක හදුනා ගැනීමේ ඉල්ලීම">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "කෙසෙ නමුත් ඔබරර සංකේතාන්කන පෞද්ගලික යතුරු සහතික අධිකාරිය විසින් ගබඩා කරගනු ඇති අතර එය ඔබේ අවසර නැතිව ඔබේ සංකේතාන්කය කළ විද්‍යුත් තැපැල් සහ ලේඛන කියවීමට භාවිතා කළ හැක.">
 <!ENTITY examineCert.label "සහතිකය දක්වන්න">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message "ඔබගේ පද්ධති පරිපාලකවරයා ගෙන් සහයෝගය ලබා ගන්න">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "පෞද්ගලික යතුරු නිශ්පාදනය වෙමින්">
