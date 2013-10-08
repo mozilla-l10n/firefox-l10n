@@ -6,8 +6,8 @@
 <!ENTITY aboutAddons.header2                    "Ձեր Հավելումները">
 <!ENTITY aboutAddons.options                    "Ընտրանքներ">
 
+
 <!ENTITY addonAction.enable                     "Միացնել">
 <!ENTITY addonAction.disable                    "Անջատել">
 <!ENTITY addonAction.uninstall                  "Ջնջել">
 <!ENTITY addonAction.undo                       "Հետ">
-
