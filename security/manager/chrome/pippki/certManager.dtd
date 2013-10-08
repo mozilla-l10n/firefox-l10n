@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "แก้ไขการตั้งค่าใบรับรองความปลอดภัย">
 <!ENTITY certmgr.editcacert.title             "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรอง CA">
-<!ENTITY certmgr.editsslcert.title            "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรองเว็บไซต์">
 <!ENTITY certmgr.editcert.edittrust           "แก้ไขการตั้งค่าความน่าเชื่อถือ :">
 <!ENTITY certmgr.editcert.trustssl            "ใบรับรองนี้สามารถระบุตัวตนของเว็บไซต์">
 <!ENTITY certmgr.editcert.trustemail          "ใบรับรองนี้สามารถระบุตัวตนของผู้ใช้จดหมาย">
 <!ENTITY certmgr.editcert.trustobjsign        "ใบรับรองนี้สามารถระบุตัวตนของผู้สร้างโปรแกรม">
-<!ENTITY certmgr.editsslcert.edittrust        "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรอง :">
-<!ENTITY certmgr.editsslcert.dotrust          "เชื่อถือใบรับรองนี้">
-<!ENTITY certmgr.editsslcert.donttrust        "ไม่เชื่อถือใบรับรองนี้">
 <!ENTITY certmgr.editemailcert.title          "แก้ไขการตั้งค่าความน่าเชื่อถือของอีเมล">
-<!ENTITY certmgr.editemailcert.edittrust      "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรอง :">
-<!ENTITY certmgr.editemailcert.dotrust        "เชื่อถือใบรับรองนี้">
-<!ENTITY certmgr.editemailcert.donttrust      "ไม่เชื่อถือใบรับรองนี้">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "ลบใบรับรอง">
 <!ENTITY certmgr.deletecert.beforename        "คุณได้ทำการร้องขอเพื่อลบใบรับรองนี้ :">

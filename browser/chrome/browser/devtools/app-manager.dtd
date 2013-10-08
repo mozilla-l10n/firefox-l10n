@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "ตัวจัดการแอป">
+<!ENTITY index.projects2 "แอป">
+<!ENTITY index.device2 "อุปกรณ์">
+
+
+
+
+
+<!ENTITY device.startApp "เริ่ม">
+
+<!ENTITY device.stopApp "หยุด">
+
+
+
+<!ENTITY device.name "ชื่อ">
+
+
+
+<!ENTITY device.allow "อนุญาต">
+
+<!ENTITY device.prompt "ถาม">
+
+<!ENTITY device.deny "ไม่อนุญาต">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "บันทึก">
+
+
+
+<!ENTITY connection.cancel "ยกเลิก">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY help.close "ปิด">
+
+
+
+
+
+
+

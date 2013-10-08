@@ -1,0 +1,91 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY back.label            "ย้อนกลับ">
+<!ENTITY forward.label         "ถัดไป">
+<!ENTITY newtab.label          "แท็บใหม่">
+<!ENTITY closetab.label        "ปิดแท็บนี้">
+
+
+
+<!ENTITY appbarFindInPage2.label    "ค้นหาในหน้านี้">
+
+
+<!ENTITY bookmarksHeader.label       "ที่คั่นหน้า">
+
+<!ENTITY remoteTabsHeader.label      "แท็บจากอุปกรณ์อื่น">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowBookmarksHeader.label     "ที่คั่นหน้า">
+
+
+
+<!ENTITY downloadsHeader.label     "ดาวน์โหลด">
+
+<!ENTITY downloadShow2.label       "ค้นหา">
+<!ENTITY downloadOpen2.label       "เปิด">
+<!ENTITY downloadCancel.label      "ยกเลิก">
+<!ENTITY downloadPause.label       "หยุดชั่วคราว">
+<!ENTITY downloadResume.label      "ทำต่อจากเดิม">
+<!ENTITY downloadRetry.label       "ลองใหม่">
+<!ENTITY downloadRemove.label      "เอาออก">
+<!ENTITY downloadDelete.label      "ลบ">
+<!ENTITY downloadFailed.label      "ไม่สำเร็จ">
+
+
+<!ENTITY consoleHeader.label       "คอนโซลข้อผิดพลาด">
+<!ENTITY consoleAll.label          "ทั้งหมด">
+<!ENTITY consoleErrors.label       "ข้อผิดพลาด">
+<!ENTITY consoleWarnings.label     "คำเตือน">
+<!ENTITY consoleMessages.label     "ข้อความ">
+<!ENTITY consoleCodeEval.label     "โค้ด:">
+<!ENTITY consoleClear.label        "ล้าง">
+
+<!ENTITY consoleErrFile.label      "แฟ้มต้นฉบับ :">
+<!ENTITY consoleErrLine.label      "บรรทัด:">
+<!ENTITY consoleErrColumn.label    "สดมภ์ :">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "ตัด">
+<!ENTITY contextTextCopy.label             "คัดลอก">
+<!ENTITY contextTextPaste.label            "วาง">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "เลือก">
+<!ENTITY contextTextSelectAll.label        "เลือกทั้งหมด">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "เปิดลิงก์ในแท็บใหม่">
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextCopyImage.label            "คัดลอกภาพ">
+<!ENTITY contextCopyImageLocation.label    "คัดลอกที่ตั้งภาพ">
+<!ENTITY contextOpenImageTab.label         "เปิดลิงก์ในแท็บใหม่">
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextCopyVideoLocation.label    "คัดลอกที่ตั้งของวิดีโอ">
+<!ENTITY contextOpenVideoTab.label         "เปิดวิดีโอในแท็บใหม่">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
