@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "පරිමාණය:">
 <!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+
 
 <!ENTITY shrinkToFit.label   "පිටු පළලට සරිලන ළෙස අඩු කරන්න">
 <!ENTITY shrinkToFit.accesskey "W">

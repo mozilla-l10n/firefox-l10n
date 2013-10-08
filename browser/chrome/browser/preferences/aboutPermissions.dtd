@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "සෑමවිටම විමසන්න">
 <!ENTITY permission.allow                "ඉඩදෙන්න">
 <!ENTITY permission.allowForSession      "සැසිය සඳහා ඩඉදෙන්න">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+
 <!ENTITY permission.block                "අවහිර කරන්න">
 
 <!ENTITY password.label                  "රහස්පද ගබඩා කරන්න">

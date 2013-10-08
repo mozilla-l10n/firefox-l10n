@@ -18,6 +18,9 @@ about &brandShortName;, check out our <a id='supportLink'>support web site</a>."
 <!ENTITY aboutSupport.appBasicsTitle "යෙදුම් මූලිකාංග">
 <!ENTITY aboutSupport.appBasicsName "නම">
 <!ENTITY aboutSupport.appBasicsVersion "නිකුතුව">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ප්‍රොපයිල ඩිරෙක්ටරිය">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -45,8 +48,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "අගය">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "පිංතූර">
 
@@ -54,13 +55,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
 <!ENTITY aboutSupport.a11yTitle "ප්‍රවේශතාව">
-<!ENTITY aboutSupport.a11yActivated "සක්‍රීයයි">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+
 
 <!ENTITY aboutSupport.libraryVersionsTitle "පුස්තකාල නිකුතුව">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ස්ථාපන ඉතිහාසය">
-<!ENTITY aboutSupport.updateHistoryTitle "යාවත්කාලීන ඉතිහාසය">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "පාඨ ක්ලිප්බෝඩයට කොපි කරන්න">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "මූලික දත්ත ක්ලිප්බෝඩයට කොපි කරන්න">
+
+

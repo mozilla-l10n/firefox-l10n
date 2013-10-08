@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "විවෘත කරන්න">
+<!ENTITY downloadCancel.label      "අහෝසි කරන්න">
+
+<!ENTITY downloadResume.label      "යළි අරඹන්න">
+<!ENTITY downloadRetry.label       "නැවත උත්සාහ කරන්න">
+
+
+<!ENTITY downloadFailed.label      "අසාර්ථකයි">
+
+
+
+<!ENTITY consoleErrors.label       "දෝෂයන්">
+<!ENTITY consoleWarnings.label     "අවවාදයන්">
+
+
+<!ENTITY consoleClear.label        "හිස් කරන්න">
+
+<!ENTITY consoleErrFile.label      "මූල ගොනුව:">
+<!ENTITY consoleErrLine.label      "පේළිය:">
+<!ENTITY consoleErrColumn.label    "තීරුව:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "කපන්න">
+<!ENTITY contextTextCopy.label             "පිටපත් කරන්න">
+<!ENTITY contextTextPaste.label            "අලවන්න">
+<!-- unique item that is only added to the url bar context menu -->
+
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "විකල්ප">
+<!ENTITY optionsHeader.startup.title                             "ආරම්භය">
+
+
+
+<!ENTITY optionsHeader.char.title                                "අක්‍ෂර කේතාංකනය">
+
+
+
+
+<!ENTITY clearPrivateData.button                                 "හිස් කරන්න">
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "කුකී">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "බිදවැටුම් වාර්තාව">
+
+
+

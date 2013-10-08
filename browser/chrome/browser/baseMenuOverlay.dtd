@@ -19,11 +19,13 @@
 <!ENTITY productHelp.label        "&brandShortName; උදව්">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "දෝෂ සෙවීමේ තොරතුරු">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
