@@ -14,4 +14,4 @@
      -->
 <!ENTITY aboutAddons.goBackToStartStart "Till gun ">
 <!ENTITY aboutAddons.goBacktoStartLink  "duilleag tòiseachaidh aig &brandShortName;">
-
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">
