@@ -176,7 +176,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title "&vendorShortName; stedsangivelse">
-<!ENTITY datareporting_wifi_summary "Hjelp å forbedre geolokasjonstjenester for den åpne verdensveven ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
+<!ENTITY datareporting_wifi_summary "Hjelp å forbedre geoplasseringstjenester for den åpne webben ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
 
 <!ENTITY pref_update_autodownload "Automatiske oppdateringer">
 <!ENTITY pref_update_autodownload_wifi "Bare over Wi-Fi">

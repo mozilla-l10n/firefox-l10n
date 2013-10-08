@@ -25,7 +25,7 @@
 <!ENTITY refresh.label     "Oppdater nå">
 <!ENTITY refresh.accesskey "">
 
-<!ENTITY network.hint.label "Skriv inn et nettverks- eller servernavn (du kan inkludere en port) og en kanal for å koble til.">
+<!ENTITY network.hint.label "Skriv inn et nettverks- eller servernavn (du kan ta med portnummer) og en kanal for å koble til.">
 
 <!ENTITY col.network "Nettverk">
 <!ENTITY col.name  "Navn">

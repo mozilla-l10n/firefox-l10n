@@ -21,7 +21,7 @@
 <!ENTITY referencesField.label "Referanser: ">
 <!ENTITY messageIdField.label "Meldingsid: ">
 <!ENTITY inReplyToField.label "Som-Svar-Til: ">
-<!ENTITY originalWebsite.label "Website: ">
+<!ENTITY originalWebsite.label "Nettsted: ">
 
 <!ENTITY editMessage.label                 "Rediger utkast …">
 <!ENTITY editMessage.accesskey             "R">

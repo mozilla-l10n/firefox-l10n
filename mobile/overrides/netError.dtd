@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Adresse ikke funnet">
+<!ENTITY dnsNotFound.title "Serveren ikke funnet">
 <!ENTITY dnsNotFound.longDesc2 "<ul>
   <li>Kontroller om det er skrivefeil i adressen, for eksempel
     <strong>ww</strong>.eksempel.no istedenfor
@@ -134,11 +134,11 @@ midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel på innholdet">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetsregel som forhindrer det.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy på innholdet">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">

@@ -5,11 +5,11 @@
 <!ENTITY serverAdvanced.label "Avanserte kontoinnstillinger">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP serverkatalog:">
-<!ENTITY serverDirectory.accesskey "T">
+<!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Vis bare påmeldte mapper">
-<!ENTITY usingSubscription.accesskey "I">
+<!ENTITY usingSubscription.accesskey "V">
 <!ENTITY dualUseFolders.label "Serveren støtter mapper som inneholder undermapper og meldinger">
-<!ENTITY dualUseFolders.accesskey "T">
+<!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom serveren støtter det">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimalt antall servertilkoblinger til hurtiglageret">

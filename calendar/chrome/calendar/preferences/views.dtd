@@ -24,7 +24,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "V">
 <!ENTITY pref.calendar.view.visiblehoursend.label "timer om gangen">
 
-<!ENTITY pref.numberofweeks.label "Standard ukeantall (inkludert foregående uker):">
+<!ENTITY pref.numberofweeks.label "Standard antall uker (med foregående uker):">
 <!ENTITY pref.numberofweeks.accesskey "u">
 <!ENTITY pref.numberofpreviousweeks.label "Foregående uker som skal vises:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "r">

@@ -20,7 +20,7 @@
 <!ENTITY nntpDownloadMsg.accesskey "M">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger bli permanent slettet">
 <!ENTITY retentionCleanupImap.label "For å spare diskplass kan gamle meldinger slettes permanent, både lokale kopier og originalene på e-postserveren.">
-<!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som ligger lagret på e-postserveren.">
+<!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som er lagret på e-postserveren.">
 <!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">

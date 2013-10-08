@@ -10,8 +10,8 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-serverinnstillinger for denne kontoen">
 <!ENTITY useGlobal.accesskey       "u">
-<!ENTITY editDirectories.label     "Rediger kataloger …">
-<!ENTITY editDirectories.accesskey "K">
+<!ENTITY editDirectories.label     "Rediger mapper …">
+<!ENTITY editDirectories.accesskey "m">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk en annen LDAP-server:">
 <!ENTITY directories.accesskey     "K">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meldinger i HTML-format">
 <!ENTITY useHtml.accesskey                    "k">
-<!ENTITY autoQuote.label                      "Siter den originale meldingen ved svar">
+<!ENTITY autoQuote.label                      "Siter den opprinnelige meldingen ved svar">
 <!ENTITY autoQuote.accesskey                  "i">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sitering:">

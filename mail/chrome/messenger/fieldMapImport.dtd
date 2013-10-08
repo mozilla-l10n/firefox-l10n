@@ -9,7 +9,7 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Forrige">
 <!ENTITY fieldMapImport.previous.accesskey "F">
-<!ENTITY fieldMapImport.text "Bruk Flytt opp og Flytt ned for å tilpasse adressebokfeltene til venstre, og de korrekte dataene for import til høyre. Fjern valg for elementer du ikke vil importere.">
+<!ENTITY fieldMapImport.text "Bruk Flytt opp og Flytt ned for å tilpasse adressebokfeltene til venstre, og de dataene som er valgt til høyre. Fjern valg for elementer du ikke vil importere.">
 <!ENTITY fieldMapImport.up.label "Flytt opp">
 <!ENTITY fieldMapImport.up.accesskey "o">
 <!ENTITY fieldMapImport.down.label "Flytt ned">
