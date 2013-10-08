@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "ویرایش تنظیمات گواهی امنیتی">
 <!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
-<!ENTITY certmgr.editsslcert.title            "ویرایش تنظیمات اعتماد به گواهی وب‌گاه">
 <!ENTITY certmgr.editcert.edittrust           "ویرایش تنظیمات اعتماد:">
 <!ENTITY certmgr.editcert.trustssl            "این گواهی می‌تواند هویت وب‌گاه‌ها را تأیید کند.">
 <!ENTITY certmgr.editcert.trustemail          "این گواهی می‌تواند هویت فرستندگان نامه را تأیید کند.">
 <!ENTITY certmgr.editcert.trustobjsign        "این گواهی می‌تواند هویت سازندگان نرم‌افزار را تأیید کند.">
-<!ENTITY certmgr.editsslcert.edittrust        "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editsslcert.dotrust          "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editsslcert.donttrust        "به صحت این گواهی نشود.">
 <!ENTITY certmgr.editemailcert.title          "ویرایش تنظیمات اعتماد به گواهی نامهٔ الکترونیکی">
-<!ENTITY certmgr.editemailcert.edittrust      "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editemailcert.dotrust        "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editemailcert.donttrust      "به صحت این گواهی نشود.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "حذف گواهی">
 <!ENTITY certmgr.deletecert.beforename        "شما حذف این گواهی را درخواست کردید:">

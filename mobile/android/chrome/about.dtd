@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "دربارهٴ &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+
+
+
+
+
+
+
 <!ENTITY aboutPage.faq.label                    "پرسش‌های متداول">
 <!ENTITY aboutPage.support.label                "پشتیبانی">
 <!ENTITY aboutPage.privacyPolicy.label          "سیاست حریم خصوصی">
