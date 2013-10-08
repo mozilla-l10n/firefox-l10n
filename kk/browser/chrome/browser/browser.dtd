@@ -250,8 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
 <!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
 <!ENTITY devToolbarMenu.accesskey          "п">
-
-
+<!ENTITY devAppMgrMenu.label               "Қолданбалар басқарушысы">
+<!ENTITY devAppMgrMenu.accesskey           "а">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Саймандарды көрсету/жасыру">
@@ -670,6 +670,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Қазір рұқсат ету">
 <!ENTITY pluginActivateAlways.label "Рұқсат ету және есте сақтау">
 <!ENTITY pluginBlockNow.label "Плагинді блоктау">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
 
 <!ENTITY tabCrashed.header "Бет құлады">
 
