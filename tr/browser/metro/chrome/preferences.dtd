@@ -8,28 +8,30 @@
 
 <!ENTITY optionsHeader.title                                     "Seçenekler">
 <!ENTITY optionsHeader.startup.title                             "Başlangıç">
-
-
-
+<!ENTITY optionsHeader.homepage.title                            "&brandShortName; açıldığında bunu göster:">
+<!ENTITY optionsHeader.homepage.startPage.button                 "başlangıç sayfası">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "son oturumdaki sekmeler">
 <!ENTITY optionsHeader.char.title                                "Karakter Kodlaması">
+<!ENTITY optionsHeader.char.autodetect.label                     "Otomatik algıla">
+<!ENTITY optionsHeader.char.options.label                        "Kodlama seçeneklerini Uygulama Çubuğu'nda göster">
 
-
-
-
+<!ENTITY clearPrivateData.title                                  "Özel Verileri Temizle">
+<!ENTITY clearPrivateData.label                                  "Bu aygıttaki tarama geçmişinizi, parolaları, çerezleri ve form verilerini temizleyin">
 <!ENTITY clearPrivateData.button                                 "Temizle">
-
-
-
-
+<!ENTITY clearPrivateData.done                                   "Bitti!">
+<!ENTITY clearPrivateData.history                                "Tarama geçmişi">
+<!ENTITY clearPrivateData.otherdata                              "Diğer veriler (parolalar, önbellek, çerezler vb.)">
+<!ENTITY clearPrivateData.downloadHist                           "İndirme geçmişi">
 <!ENTITY clearPrivateData.cookies                                "Çerezler">
+<!ENTITY clearPrivateData.cache                                  "Önbellek">
+<!ENTITY clearPrivateData.sitePref                               "Site tercihleri">
+<!ENTITY clearPrivateData.formSearchHist                         "Form ve arama geçmişi">
+<!ENTITY clearPrivateData.passwords                              "Kayıtlı parolalar">
+<!ENTITY clearPrivateData.offline                                "Çevrim dışı site verileri">
+<!ENTITY clearPrivateData.logins                                 "Etkin oturumlar">
 
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
+<!ENTITY doNotTrack.title                                        "Beni İzleme">
 
 
 

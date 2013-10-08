@@ -2,49 +2,57 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "Uygulama Yöneticisi">
+<!ENTITY index.projects2 "Uygulamalar">
+<!ENTITY index.device2 "Aygıt">
+<!ENTITY index.help "Yardım">
 
-
-
-
-
-
+<!ENTITY device.screenshot "Ekran görüntüsü">
+<!ENTITY device.screenshotTooltip "Aygıtın şu anki durumunun ekran görüntüsünü yeni bir sekmede açar.">
+<!ENTITY device.title "Aygıt Denetim Merkezi">
+<!ENTITY device.notConnected "Bağlı değil. Lütfen aygıtınızı bağlayın.">
 <!ENTITY device.startApp "Başlat">
-
+<!ENTITY device.startAppTooltip "Bu uygulamayı aygıtta başlatır.">
 <!ENTITY device.stopApp "Durdur">
-
-
-
+<!ENTITY device.stopAppTooltip "Bu uygulamayı aygıtta durdurur.">
+<!ENTITY device.debugApp "Hata ayıkla">
+<!ENTITY device.debugAppTooltip "Aygıttaki bu uygulamaya bağlı Geliştirici Araçları'nı açar.">
 <!ENTITY device.name "Adı">
-
-
-
+<!ENTITY device.app "Uygulama">
+<!ENTITY device.privileged "Ayrıcalıklı">
+<!ENTITY device.certified "Sertifikalı">
 <!ENTITY device.allow "İzin ver">
-
+<!ENTITY device.allowTooltip "Bu izin, bu türden uygulamalara verilir.">
 <!ENTITY device.prompt "İstemci">
-
+<!ENTITY device.promptTooltip "Bu izin, bu türden uygulamaların kullanıcıya sormasını gerektirir.">
 <!ENTITY device.deny "Reddet">
-
-
+<!ENTITY device.denyTooltip "Bu türden uygulamalar bu izni kullanamaz.">
+<!ENTITY device.installedApps "Yüklenmiş uygulamalar">
 
 <!ENTITY device.permissions "İzinler">
 
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Yardım">
 
+<!ENTITY connection.connectTooltip "Aygıta bağlanır.">
+<!ENTITY connection.disconnect "Bağlantıyı kes">
 
+<!ENTITY connection.notConnected2 "Bağlı değil.">
+<!ENTITY connection.connectTo "Bağlan:">
 
+<!ENTITY connection.changeHostAndPort "Değiştir">
 
-
-
-
-
-
-
-
+<!ENTITY connection.startSimulator "Simülatörü başlat">
 
 <!ENTITY connection.saveConnectionInfo "Kaydet">
 
 <!ENTITY connection.connecting "Bağlanıyor…">
-
+<!ENTITY connection.disconnecting "Bağlantı kesiliyor…">
 <!ENTITY connection.cancel "Vazgeç">
+<!ENTITY connection.cancelConnectTooltip "Devam eden bağlantıyı kes.">
+
+<!ENTITY connection.or "veya">
+<!ENTITY connection.noSimulatorInstalled "Yüklenmiş simülatör yok.">
 
 
 
@@ -58,17 +66,14 @@
 
 
 
+<!ENTITY projects.updateApp "Güncelle">
 
 
 
 
 
 
-
-
-
-
-
+<!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
 
 
