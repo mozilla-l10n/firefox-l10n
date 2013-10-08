@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "Tümünü göster">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "Düzen">
 <!ENTITY editMenu.accesskey                 "z">
 <!ENTITY undoCmd.label                      "Geri al ">

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "Ağ hakkında">
+
 <!ENTITY aboutNetworking.showNextTime          "Bu uyarıyı bir sonraki kez göster">
 <!ENTITY aboutNetworking.ok                    "Tamam">
 <!ENTITY aboutNetworking.http                  "Http">
@@ -22,8 +24,8 @@
 <!ENTITY aboutNetworking.received              "Alınan">
 <!ENTITY aboutNetworking.family                "Aile">
 <!ENTITY aboutNetworking.addresses             "Adresler">
-
-
-
-
-
+<!ENTITY aboutNetworking.expires               "Zaman aşımı (saniye)">
+<!ENTITY aboutNetworking.messagesSent          "Gönderilen mesajlar">
+<!ENTITY aboutNetworking.messagesReceived      "Alınan mesajlar">
+<!ENTITY aboutNetworking.bytesSent             "Gönderilen bayt">
+<!ENTITY aboutNetworking.bytesReceived         "Alınan bayt">

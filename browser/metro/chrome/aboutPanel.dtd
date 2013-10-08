@@ -5,8 +5,8 @@
 
 <!ENTITY aboutHeader.title          "Hakkında">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-<!ENTITY aboutHeader.company.label  "geliştiren: &vendorShortName;">
-
+<!ENTITY aboutHeader.company.label  "Geliştiren: &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; gizlilik ilkelerini okuyun">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Güncellemeler denetleniyor…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->

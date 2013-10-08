@@ -29,8 +29,10 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowBookmarksHeader.label     "Yer İmleri">
 
+<!ENTITY narrowTopSitesHeader.label      "Sık Kullandıklarınız">
+<!ENTITY narrowBookmarksHeader.label     "Yer İmleri">
+<!ENTITY narrowRecentHistoryHeader.label "Yakın Geçmiş">
 <!ENTITY narrowRemoteTabsHeader.label    "Uzak Sekmeler">
 
 <!ENTITY downloadsHeader.label     "İndirilenler">
@@ -47,6 +49,7 @@
 
 <!ENTITY allBookmarks.label        "Tüm yer imlerini göster">
 
+<!ENTITY consoleHeader.label       "Hata Konsolu">
 <!ENTITY consoleAll.label          "Tümü">
 <!ENTITY consoleErrors.label       "Hatalar">
 <!ENTITY consoleWarnings.label     "Uyarılar">
@@ -65,19 +68,25 @@
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextPasteAndGo.label       "Yapıştır ve git">
 <!ENTITY contextTextSelect.label           "Seç">
-
+<!ENTITY contextTextSelectAll.label        "Tümünü seç">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "Bağlantıyı yeni sekmede aç">
+<!ENTITY contextCopyLinkHref.label         "Bağlantıyı kopyala">
+<!ENTITY contextBookmarkLinkHref.label     "Bağlantıyı yer imlerine ekle">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Resmi kitaplığa kaydet">
+<!ENTITY contextCopyImage.label            "Resmi kopyala">
+<!ENTITY contextCopyImageLocation.label    "Resim konumunu kopyala">
+<!ENTITY contextOpenImageTab.label         "Resmi yeni sekmede aç">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Videoyu kitaplığa kaydet">
+<!ENTITY contextCopyVideoLocation.label    "Video konumunu kopyala">
+<!ENTITY contextOpenVideoTab.label         "Videoyu yeni sekmede aç">
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY urlbar.accesskey "d">
