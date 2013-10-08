@@ -6,8 +6,8 @@
 <!ENTITY aboutAddons.header2                    "افزودنی‌های شما">
 <!ENTITY aboutAddons.options                    "گزینه‌ها">
 
+
 <!ENTITY addonAction.enable                     "به کار انداختن">
-<!ENTITY addonAction.disable                    "Disable">
+
 <!ENTITY addonAction.uninstall                  "عزل">
 <!ENTITY addonAction.undo                       "برگردان">
-<!ENTITY addonAction.setDefault                 "Set as Default">

@@ -17,14 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نما یافته، یا پاک شده است.</li> </ul>">
@@ -39,15 +32,10 @@
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 
 <!ENTITY netOffline.title "حالت منفصل">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -72,12 +60,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار عمل می‌کند.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نمی‌شود">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 <!ENTITY redirectLoop.longDesc "<ul> <li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول کوکی باشد.</li> </ul>">
@@ -97,18 +80,12 @@
 <li>اگر در گذشته با موفقیت به این وب‌گاه متصل شده‌اید، امکان دارد این اشکال موقتی باشد، و می‌توانید بعداً دوباره تلاش کنید.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY cspFrameAncestorBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
 <!ENTITY corruptedContentError.title "خطای خرابی محتوا">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "یا می‌توانید یک استثنا اضافه کنید…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ترک این مکان!">
@@ -125,5 +102,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL راه دور">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
 

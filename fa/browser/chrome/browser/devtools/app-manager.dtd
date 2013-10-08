@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY device.stopApp "توقف">
+
+
+
+<!ENTITY device.name "نام">
+
+
+
+<!ENTITY device.allow "اجازه دادن">
+
+<!ENTITY device.prompt "پرسش">
+
+<!ENTITY device.deny "رد کردن">
+
+
+
+<!ENTITY device.permissions "مجوزها">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "ذخیره">
+
+<!ENTITY connection.connecting "در حال اتصال…">
+
+<!ENTITY connection.cancel "انصراف">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "به‌هنگام‌سازی">
+
+
+
+
+
+
+<!ENTITY help.close "بستن">
+
+
+
+
+
+
+
