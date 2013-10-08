@@ -3,16 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+<!ENTITY back.label            "Atrás">
+<!ENTITY forward.label         "Adelante">
+<!ENTITY newtab.label          "Nueva pestaña">
+<!ENTITY closetab.label        "Cerrar pestaña">
 
+<!ENTITY autocompleteResultsHeader.label  "Tus resultados">
 
-
-
-
-
+<!ENTITY appbarErrorConsole.label   "Abrir consola de errores">
+<!ENTITY appbarJSShell.label        "Abrir consola JavaScript">
 <!ENTITY appbarFindInPage2.label    "Buscar en la página">
+<!ENTITY appbarViewOnDesktop2.label "Ver en escritorio">
 
-
-
+<!ENTITY topSitesHeader.label        "Sitios frecuentes">
+<!ENTITY bookmarksHeader.label       "Marcadores">
 
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
@@ -34,17 +38,19 @@
 <!ENTITY downloadResume.label      "Continuar">
 <!ENTITY downloadRetry.label       "Reintentar">
 <!ENTITY downloadRemove.label      "Eliminar">
-
+<!ENTITY downloadDelete.label      "Eliminar">
 <!ENTITY downloadFailed.label      "Fallido">
 
+<!ENTITY allBookmarks.label        "Ver todos los marcadores">
 
+<!ENTITY consoleHeader.label       "Consola de errores">
 <!ENTITY consoleAll.label          "Todos">
 <!ENTITY consoleErrors.label       "Errores">
 <!ENTITY consoleWarnings.label     "Advertencias">
-
-
-
-
+<!ENTITY consoleMessages.label     "Mensajes">
+<!ENTITY consoleCodeEval.label     "Código:">
+<!ENTITY consoleClear.label        "Limpiar">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Archivo de origen:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
@@ -54,9 +60,12 @@
 <!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Pegar &amp; ir">
 <!ENTITY contextTextSelect.label           "Seleccionar">
-
+<!ENTITY contextTextSelectAll.label        "Seleccionar todo">
 <!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Abrir enlace en una nueva pestaña">
 
 
 <!-- IMAGE CONTEXT MENU -->
@@ -69,17 +78,17 @@
 
 
 <!-- KEYBOARD SHORTCUTS -->
-
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
