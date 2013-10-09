@@ -113,5 +113,5 @@
 <!ENTITY cookieImageManager.accesskey "и">
 <!ENTITY cookiePopupManager.label "Управление всплывающими окнами">
 <!ENTITY cookiePopupManager.accesskey "а">
-<!ENTITY clearPrivateDataCmd.label "Стереть личные данные…">
+<!ENTITY clearPrivateDataCmd.label "Удалить личные данные…">
 <!ENTITY clearPrivateDataCmd.accesskey "е">
