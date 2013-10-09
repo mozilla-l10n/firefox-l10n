@@ -17,7 +17,7 @@
 <!ENTITY limit.tls11.accesskey "1">
 <!ENTITY limit.tls12.label "TLS 1.2">
 <!ENTITY limit.tls12.accesskey "2">
-<!ENTITY warn.description "&brandShortName; может сообщать о степени шифрования просматриваемой вами страницы. &brandShortName; будет выводить предупреждения и запрашивать разрешение перед:">
+<!ENTITY warn.description2 "&brandShortName; может уведомлять о степени защиты просматриваемой вами страницы. &brandShortName; будет выводить предупреждение перед:">
 <!ENTITY warn.enteringsecure "загрузкой страницы, поддерживающей шифрование">
 <!ENTITY warn.enteringsecure.accesskey "о">
 <!ENTITY warn.insecurepost "отправкой данных формы с незашифрованной страницы на незашифрованную">
