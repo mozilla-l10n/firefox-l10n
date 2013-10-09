@@ -439,6 +439,7 @@
 <!ENTITY identity.runBy "который управляется">
 <!ENTITY identity.moreInfoLinkText "Подробнее…">
 <!ENTITY identity.permissions "Разрешения">
+<!ENTITY identity.help.tooltip "Как я могу узнать, что мое соединение с веб-сайтом является защищённым?">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Sync">

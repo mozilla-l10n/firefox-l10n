@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY optionsHeader.title "Настройки">
-<!ENTITY optionsHeader.startup.title "Запуск">
-<!ENTITY optionsHeader.homepage.title "При запуске &brandShortName; показать">
-<!ENTITY optionsHeader.homepage.startPage.button "начальную страницу">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "вкладки с прошлого раза">
 <!ENTITY optionsHeader.char.title "Кодировка">
 <!ENTITY optionsHeader.char.autodetect.label "Автоопределение">
 <!ENTITY optionsHeader.char.options.label "Показать настройку кодировки на панели приложения">
