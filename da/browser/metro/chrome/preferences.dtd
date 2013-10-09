@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.done                                   "Færdig!">
 <!ENTITY clearPrivateData.history                                "Browserhistorik">
 <!ENTITY clearPrivateData.otherdata                              "Andre data (adgangskoder, cache, cookies, osv.)">
-<!ENTITY clearPrivateData.downloadHist                           "Hent filhentningshistorik">
+<!ENTITY clearPrivateData.downloadHist                           "Filhentningshistorik">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Webstedsspecifikke indstillinger">
