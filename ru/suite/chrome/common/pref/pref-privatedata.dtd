@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.privatedata.title "Личные данные">
-<!ENTITY clearPrivateData.label "Стирание личных данных">
-<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
+<!ENTITY clearPrivateData.label "Удаление личных данных">
+<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда удалять мои личные данные">
 <!ENTITY alwaysClear.accesskey "з">
-<!ENTITY askBeforeClear.label "Спрашивать перед стиранием личных данных">
+<!ENTITY askBeforeClear.label "Спрашивать перед удалением личных данных">
 <!ENTITY askBeforeClear.accesskey "п">
-<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; стереть мои личные данные, он должен удалить:">
-<!ENTITY clearDataDialog.label "Стереть сейчас…">
-<!ENTITY clearDataSilent.label "Стереть сейчас">
+<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; удалить мои личные данные, он должен удалить:">
+<!ENTITY clearDataDialog.label "Удалить сейчас…">
+<!ENTITY clearDataSilent.label "Удалить сейчас">
 <!ENTITY clearDataDialog.accesskey "е">

@@ -11,5 +11,5 @@
 <!ENTITY offlineNotifyPermissions.label "Управление разрешениями">
 <!ENTITY offlineNotifyPermissions.accesskey "п">
 <!ENTITY offlineAppsList.label "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
-<!ENTITY offlineAppsListRemove.label "Вычистить данные…">
+<!ENTITY offlineAppsListRemove.label "Удалить данные…">
 <!ENTITY offlineAppsListRemove.accesskey "ы">

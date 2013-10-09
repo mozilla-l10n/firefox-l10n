@@ -51,9 +51,9 @@
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">
-<!ENTITY clearCacheNow.label "Очистить сейчас">
+<!ENTITY clearCacheNow.label "Удалить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY clearOfflineAppCacheNow.label "Очистить сейчас">
+<!ENTITY clearOfflineAppCacheNow.label "Удалить сейчас">
 <!ENTITY clearOfflineAppCacheNow.accesskey "й">
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">

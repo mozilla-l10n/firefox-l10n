@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title "Стирание личных данных">
-<!ENTITY sanitizeItems.label "Стереть следующие данные:">
+<!ENTITY sanitizeDialog.title "Удаление личных данных">
+<!ENTITY sanitizeItems.label "Удалить следующие данные:">
 <!ENTITY itemHistory.label "Журнал посещений">
 <!ENTITY itemHistory.accesskey "п">
 <!ENTITY itemUrlBar.label "Журнал посещений панели адреса">
@@ -22,4 +22,4 @@
 <!ENTITY itemPasswords.accesskey "р">
 <!ENTITY itemSessions.label "Сессии аутентификации">
 <!ENTITY itemSessions.accesskey "с">
-<!ENTITY sanitizeButton.label "Стереть личные данные">
+<!ENTITY sanitizeButton.label "Удалить личные данные">
