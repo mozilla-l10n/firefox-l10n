@@ -686,3 +686,10 @@ left instead of right. -->
 <!ENTITY pluginActivateNow.label "Dopusti sada">
 <!ENTITY pluginActivateAlways.label "Dopusti i zapamti">
 <!ENTITY pluginBlockNow.label "Blokiraj priključak">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
