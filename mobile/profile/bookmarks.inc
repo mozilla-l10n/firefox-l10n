@@ -26,8 +26,4 @@
 # link title for https://support.mozilla.org/mobile
 #define bookmarks_support Firefox: Asistencia
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-# link title for about:home
-#define bookmarks_aboutHome Inicio de Firefox
-
 #unfilter emptyLines
