@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title "Roghanna">
+<!ENTITY optionsHeader.startup.title "Tosú">
+<!ENTITY optionsHeader.homepage.title "Nuair a thosaíonn &brandShortName;, taispeáin">
+<!ENTITY optionsHeader.homepage.startPage.button "leathanach tosaigh">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "cluaisíní ón seisiún roimhe seo">
+<!ENTITY optionsHeader.char.title "Ionchódú Carachtar">
+<!ENTITY optionsHeader.char.autodetect.label "Braith go huathoibríoch">
+<!ENTITY optionsHeader.char.options.label "Taispeáin roghanna ionchódaithe ar an Aip-Bharra">
+
+<!ENTITY clearPrivateData.title "Bánaigh Sonraí Príobháideacha">
+<!ENTITY clearPrivateData.label "Bánaigh do stair bhrabhsála, focail fhaire, fianáin, agus sonraí foirme ón ghléas seo">
+<!ENTITY clearPrivateData.button "Bánaigh">
+<!ENTITY clearPrivateData.done "Críochnaithe!">
+<!ENTITY clearPrivateData.history "Stair bhrabhsála">
+<!ENTITY clearPrivateData.otherdata "Sonraí eile (focail fhaire, taisce, fianáin, srl.)">
+<!ENTITY clearPrivateData.downloadHist "Stair na n-íosluchtuithe">
+<!ENTITY clearPrivateData.cookies "Fianáin">
+<!ENTITY clearPrivateData.cache "Taisce">
+<!ENTITY clearPrivateData.sitePref "Sainroghanna suímh">
+<!ENTITY clearPrivateData.formSearchHist "Stair fhoirmeacha agus chuardaigh">
+<!ENTITY clearPrivateData.passwords "Focail fhaire a sábháladh">
+<!ENTITY clearPrivateData.offline "Sonraí suíomhanna as líne">
+<!ENTITY clearPrivateData.logins "Logálacha isteach gníomhacha">
+
+<!ENTITY optionsHeader.privacy.passwords.label "Meabhraigh Focail Fhaire">
+<!ENTITY doNotTrack.title "Ná Lorg">
+<!ENTITY doNotTrack.desc "Inis do shuímh:">
+<!ENTITY doNotTrack.options.trackingNotOkay "Gan mise a rianú">
+<!ENTITY doNotTrack.options.noPreference "Ná habair faic leo maidir le rianú">
+<!ENTITY doNotTrack.options.trackingOkay "Ba mhaith liom a bheith rianaithe">
+<!ENTITY optionsHeader.reporting.title "Tuairisceoir na gClistí">
+<!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
+<!ENTITY optionsHeader.telemetry.title "Teiliméadracht">
+<!ENTITY optionsHeader.telemetry.label "Seol staitisticí maidir le húsáid &brandShortName; chuig Mhozilla, chun cabhrú linn feabhas a chur ar do bhrabhsálaí">
