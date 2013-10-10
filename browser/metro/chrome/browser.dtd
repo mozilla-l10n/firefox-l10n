@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext "Cuir Ábhar Cuardaigh nó Seoladh isteach">
+
+<!ENTITY back.label "Siar">
+<!ENTITY forward.label "Ar Aghaidh">
+<!ENTITY newtab.label "Cluaisín Nua">
+<!ENTITY closetab.label "Dún Cluaisín">
+
+<!ENTITY autocompleteResultsHeader.label "Do Chuid Torthaí">
+
+<!ENTITY appbarErrorConsole.label "Oscail an consól earráide">
+<!ENTITY appbarJSShell.label "Oscail blaosc JavaScript">
+<!ENTITY appbarFindInPage2.label "Aimsigh sa leathanach">
+<!ENTITY appbarViewOnDesktop2.label "Taispeáin ar an deasc">
+
+<!ENTITY topSitesHeader.label "Barrshuímh">
+<!ENTITY bookmarksHeader.label "Leabharmharcanna">
+<!ENTITY recentHistoryHeader.label "An Stair Is Déanaí">
+<!ENTITY remoteTabsHeader.label "Cluaisíní ó Ghléasanna Eile">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label "Barrshuímh">
+<!ENTITY narrowBookmarksHeader.label "Leabharmharcanna">
+<!ENTITY narrowRecentHistoryHeader.label "An Stair Is Déanaí">
+<!ENTITY narrowRemoteTabsHeader.label "Cluaisíní i gCéin">
+
+<!ENTITY downloadsHeader.label "Íosluchtuithe">
+<!ENTITY downloadShowPage.label "Téigh go Leathanach">
+<!ENTITY downloadShow2.label "Aimsigh">
+<!ENTITY downloadOpen2.label "Oscail">
+<!ENTITY downloadCancel.label "Cealaigh">
+<!ENTITY downloadPause.label "Cuir ar Shos">
+<!ENTITY downloadResume.label "Lean">
+<!ENTITY downloadRetry.label "Atriail">
+<!ENTITY downloadRemove.label "Bain">
+<!ENTITY downloadDelete.label "Scrios">
+<!ENTITY downloadFailed.label "Teipthe">
+
+<!ENTITY allBookmarks.label "Féach ar gach leabharmharc">
+
+<!ENTITY consoleHeader.label "Consól Earráide">
+<!ENTITY consoleAll.label "Uile">
+<!ENTITY consoleErrors.label "Earráidí">
+<!ENTITY consoleWarnings.label "Rabhaidh">
+<!ENTITY consoleMessages.label "Teachtaireachtaí">
+<!ENTITY consoleCodeEval.label "Cód:">
+<!ENTITY consoleClear.label "Bánaigh">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Comhad Foinse:">
+<!ENTITY consoleErrLine.label "Líne:">
+<!ENTITY consoleErrColumn.label "Colún:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label "Gearr">
+<!ENTITY contextTextCopy.label "Cóipeáil">
+<!ENTITY contextTextPaste.label "Greamaigh">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label "Greamaigh &amp; téigh">
+<!ENTITY contextTextSelect.label "Roghnaigh">
+<!ENTITY contextTextSelectAll.label "Roghnaigh uile">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label "Oscail an nasc i gcluaisín nua">
+<!ENTITY contextCopyLinkHref.label "Cóipeáil an nasc">
+<!ENTITY contextBookmarkLinkHref.label "Cruthaigh Leabharmharc le nasc">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label "Sábháil i leabharlann phictiúr">
+<!ENTITY contextCopyImage.label "Cóipeáil an íomhá">
+<!ENTITY contextCopyImageLocation.label "Cóipeáil suíomh na híomhá">
+<!ENTITY contextOpenImageTab.label "Oscail an íomhá i gcluaisín nua">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label "Sábháil i leabharlann fhíseán">
+<!ENTITY contextCopyVideoLocation.label "Cóipeáil suíomh an fhíseáin">
+<!ENTITY contextOpenVideoTab.label "Oscail an físeán i gcluaisín nua">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "C">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

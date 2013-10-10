@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label "Cuardaigh">
+<!ENTITY newpref.label "Cuir Sainrogha Nua Leis">
+<!ENTITY addpref.name "Ainm">
+<!ENTITY addpref.value "Luach">
+
+<!ENTITY cancel.label "Cealaigh">
+<!ENTITY reset.label "Bánaigh">
+<!ENTITY done.label "Déanta">
+
+<!ENTITY integer.label "Slánuimhir">
+<!ENTITY string.label "Teaghrán">
+<!ENTITY boolean.label "Boole">
