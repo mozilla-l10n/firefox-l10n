@@ -270,6 +270,11 @@ size. -->
 <!ENTITY button_set "Übernehmen">
 <!ENTITY button_clear "Leeren">
 
+<!ENTITY home_top_sites_title "Meistbesuchte Seiten">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Eine Seite hinzufügen">
+
 <!ENTITY home_history_title "Chronik">
 <!ENTITY home_last_tabs_title "Tabs der letzten Sitzung">
 <!ENTITY home_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
