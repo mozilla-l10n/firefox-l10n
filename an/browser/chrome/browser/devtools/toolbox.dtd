@@ -11,6 +11,12 @@
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
 <!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomIn.key2            "="> 
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -92,4 +98,5 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Amostrar os datos d'a plataforma Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Si activa ista opción, os informes d'o perfilador JavaScript incluirán os simbolos d'a plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Si activa ista opción, os informes d'o perfilador JavaScript incluirán 
+os simbolos d'a plataforma Gecko">

@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Editar os parametros d'o certificau de seguranza">
 <!ENTITY certmgr.editcacert.title             "Editar os parametros de confianza d'o certificau d'a CA">
-<!ENTITY certmgr.editsslcert.title            "Editar os parametros de confianza d'o certificau d'o puesto web">
 <!ENTITY certmgr.editcert.edittrust           "Editar os parametros de confianza:">
 <!ENTITY certmgr.editcert.trustssl            "Iste certificau puede identificar puestos web.">
 <!ENTITY certmgr.editcert.trustemail          "Iste certificau puede identificar usuarios de correu.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iste certificau puede identificar desembolicadors de software.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editar os parametros de confianza d'o certificau:">
-<!ENTITY certmgr.editsslcert.dotrust          "Confiar en l'autenticidat d'iste certificau.">
-<!ENTITY certmgr.editsslcert.donttrust        "No confiar en l'autenticidat d'iste certificau.">
 <!ENTITY certmgr.editemailcert.title          "Editar os parametros de confianza d'os certificaus de correu electronico">
 <!ENTITY certmgr.editemailcert.edittrust      "Editar os parametros de confianza d'os certificaus:">
 <!ENTITY certmgr.editemailcert.dotrust        "Confiar en l'autenticidat d'iste certificau.">

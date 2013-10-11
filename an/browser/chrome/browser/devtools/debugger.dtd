@@ -22,7 +22,7 @@
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.label "Iste codigo fuent s'ha meso en o modo de caixa negra: s'han deshabilitau os puntos de trencadura y o codigo s'omete en a execución paso a paso.  ">
+<!ENTITY debuggerUI.blackBoxMessage.label "Iste codigo fuent s'ha meso en o modo de caixa negra: s'han deshabilitau os puntos de trencadura y o codigo s'omete en a execución paso a paso.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
@@ -37,6 +37,11 @@
 
 <!ENTITY debuggerUI.pauseExceptions     "Pausar en as excepcions">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorar as excepcions detectadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -88,7 +93,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchGoToLine      "Ir t'a linia...">
+<!ENTITY debuggerUI.searchGoToLine      "Ir t'a linia…">
 <!ENTITY debuggerUI.searchGoToLine.key  "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->

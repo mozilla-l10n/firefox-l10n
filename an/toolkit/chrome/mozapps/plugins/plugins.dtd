@@ -8,7 +8,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descargas de plugins disponibles">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Os siguients plugins son disponibles:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label 'Prete "Enta debant" ta instalar istos plugins.'>
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prete &quot;Enta debant&quot; ta instalar istos plugins.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Qualques plugins pueden amenester información adicional entre a instalación.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Licencias d'os plugins">

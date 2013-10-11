@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Amostrar miniaturas d'as pestanyas en a barra de quefers de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "n">
+<!ENTITY tabsGroup.label          "Pestanyas">

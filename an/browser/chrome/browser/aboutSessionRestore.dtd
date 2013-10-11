@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Vai, qué vergüenya!">
+<!ENTITY restorepage.errorTitle     "Vai, qué vergüenya.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ha teniu problemas en recuperar as suyas finestras y pestanyas. Normalment ye causau por una pachina web ubierta recientment.">
 <!ENTITY restorepage.tryThis        "Puede mirar de:">
 <!ENTITY restorepage.restoreSome    "Eliminar una u mas pestanyas que creya que puedan estar causando o problema">
@@ -20,7 +20,7 @@
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Finestras y pestanyas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "Finestra &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
 
