@@ -45,6 +45,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
 <!ENTITY  undoCloseTab.accesskey             "u">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -72,12 +76,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navigacion">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de marcapaginas">
 <!ENTITY personalbarCmd.accesskey "s">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra personala">
-<!ENTITY addonBarCmd.label "Barra dels moduls">
-<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -106,9 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "c">
 <!ENTITY fullscreenAllowButton.label "Autorizar">
 <!ENTITY fullscreenExitButton.label "Interdire">
-<!ENTITY fullscreenApproval.value "Autorizar lo mòde ecran complet ?">
 
-<!ENTITY fullscreenExitHint.value "Quichatz sus Escap a tot moment per quitar lo mòde ecran complet.">
 <!ENTITY leaveDOMFullScreen.label "Sortir del mòde ecran complet">
 <!ENTITY leaveDOMFullScreen.accesskey "c">
 
@@ -160,22 +159,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Pagina precedenta/seguenta">
 <!ENTITY locationItem.title           "Emplaçament">
 <!ENTITY searchItem.title             "Recercar">
-<!ENTITY throbberItem.title           "Indicador d'activitat">
 <!ENTITY bookmarksItem.title          "Marcapaginas">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Menú">
-<!ENTITY appMenuButton.tooltip        "Dobrir lo menú &brandShortName;">
-<!ENTITY homeButton.label             "Acuèlh">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Gropes d'onglets">
 <!ENTITY tabGroupsButton.tooltip      "Organizar los onglets per gropes">
 
-<!ENTITY feedButton.label             "S'abonar">
-<!ENTITY feedButton.tooltip           "S'abonar a aquesta pagina…">
-
 <!ENTITY bookmarksButton.label          "Marcapaginas">
-<!ENTITY bookmarksButton.tooltip        "Afichar lo panèl dels marcapaginas">
 <!ENTITY bookmarksCmd.commandkey "m">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
@@ -191,7 +181,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Istoric">
-<!ENTITY historyButton.tooltip          "Visualizar las paginas visitadas recentament">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Aisinas">
@@ -199,8 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Apondre un mot clau per aquesta recèrca...">
 <!ENTITY keywordfield.accesskey       "c">
-<!ENTITY search.label                 "Recercar sus internet">
-<!ENTITY search.accesskey             "R">
+
 <!ENTITY downloads.label              "Telecargaments">
 <!ENTITY downloads.tooltip            "Visualizar l'avançament dels telecargaments en cors">
 <!ENTITY downloads.accesskey          "g">
@@ -212,6 +200,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Desvolopaire Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Se connectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -253,10 +243,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Barra de desvolopament">
 <!ENTITY devToolbarMenu.accesskey          "v">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
 <!ENTITY devToolboxMenuItem.accesskey      "s">
+
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Dobrir/tampar las aisinas pels desvolopaires">
 <!ENTITY devToolbarOtherToolsButton.label  "Autras aisinas">
@@ -314,8 +308,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Barra dels onglets en dessús">
-<!ENTITY viewTabsOnTop.accesskey        "a">
 
 <!ENTITY historyMenu.label "Istoric">
 <!ENTITY historyMenu.accesskey "s">
@@ -324,20 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
 <!ENTITY historyRestoreLastSession.label "Restablir la sesilha precedenta">
 
-<!ENTITY historyHomeCmd.label "Acuèlh">
 <!ENTITY showAllHistoryCmd2.label "Visualizar tot l'istoric">
 <!ENTITY showAllHistoryCmd.commandkey "i">
 
-<!ENTITY appMenuEdit.label "Edicion">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Personalizar las barras d'aisinas…">
-<!ENTITY appMenuSidebars.label "Panèl lateral">
-<!ENTITY appMenuFind.label "Recercar dins la pagina...">
-<!ENTITY appMenuUnsorted.label "Marcapaginas pas triats">
-<!ENTITY appMenuWebDeveloper.label "Desvolopament Web">
-<!ENTITY appMenuGettingStarted.label "Per començar">
-<!ENTITY appMenuSafeMode.label "Reaviar amb los moduls desactivats…">
-<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Picar un tèrme de recercar o una adreça">
@@ -406,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewImageInfoCmd.label       "Visualizar las entresenhas de l'imatge">
 <!ENTITY viewImageInfoCmd.accesskey   "t">
+
+
 <!ENTITY viewVideoCmd.label           "Visualizar la vidèo">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Visualizar l'imatge de fons">
@@ -540,15 +524,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Dobrir una fenèstra novèla">
 <!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
 
-<!ENTITY cutButton.tooltip              "Talhar">
-<!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Pegar">
-
 <!ENTITY fullScreenButton.tooltip       "Visualizar la fenèstra en ecran complet">
-
-<!ENTITY zoomOutButton.tooltip          "Zoom arrièr">
-<!ENTITY zoomInButton.tooltip           "Zoom avant">
-<!ENTITY zoomControls.label             "Nivèl de zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Sortir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "t">
@@ -618,6 +594,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que lo detentor n'es">
 
 <!ENTITY identity.moreInfoLinkText "Mai d'entresenhas...">
+
+<!ENTITY identity.permissions "Permissions">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -633,9 +611,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sincronizar ara">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
-
-<!ENTITY addonBarCloseButton.tooltip  "Tampar la barra dels moduls">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Boton de la barra d'aisinas dels mèdias socials">
 <!ENTITY social.notLoggedIn.label   "Pas connectat">
@@ -659,7 +634,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleccionar las discussions">
 <!ENTITY social.chatBar.accesskey "S">
-<!-- labels are set dynamically, see browser.properties -->
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
@@ -678,3 +655,50 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "32em">
+
+
+
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "n">
+<!ENTITY addonBarCmd.label             "Barra dels moduls">
+<!ENTITY addonBarCmd.accesskey         "d">
+<!ENTITY throbberItem.title            "Indicador d'activitat">
+<!ENTITY appMenuButton.label           "Menú">
+<!ENTITY appMenuButton.tooltip         "Dobrir lo menú &brandShortName;">
+<!ENTITY feedButton.label              "S'abonar">
+<!ENTITY feedButton.tooltip            "S'abonar a aquesta pagina…">
+<!ENTITY bookmarksButton.tooltip       "Afichar lo panèl dels marcapaginas">
+<!ENTITY historyButton.tooltip         "Visualizar las paginas visitadas recentament">
+<!ENTITY viewTabsOnTop.label           "Barra dels onglets en dessús">
+<!ENTITY viewTabsOnTop.accesskey       "a">
+<!ENTITY appMenuEdit.label             "Edicion">
+<!ENTITY appMenuToolbarLayout.label    "Personalizar las barras d'aisinas…">
+<!ENTITY appMenuSidebars.label         "Panèl lateral">
+<!ENTITY appMenuFind.label             "Recercar dins la pagina...">
+<!ENTITY appMenuUnsorted.label         "Marcapaginas pas triats">
+<!ENTITY appMenuWebDeveloper.label     "Desvolopament Web">
+<!ENTITY appMenuGettingStarted.label   "Per començar">
+<!ENTITY appMenuSafeMode.label         "Reaviar amb los moduls desactivats…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY cutButton.tooltip             "Talhar">
+<!ENTITY copyButton.tooltip            "Copiar">
+<!ENTITY pasteButton.tooltip           "Pegar">
+<!ENTITY zoomOutButton.tooltip         "Zoom arrièr">
+<!ENTITY zoomInButton.tooltip          "Zoom avant">
+<!ENTITY zoomControls.label            "Nivèl de zoom">
+<!ENTITY addonBarCloseButton.tooltip   "Tampar la barra dels moduls">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

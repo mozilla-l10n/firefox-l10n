@@ -6,8 +6,8 @@
 <!ENTITY aboutAddons.header2                    "Vòstres moduls complementaris">
 <!ENTITY aboutAddons.options                    "Opcions">
 
+
 <!ENTITY addonAction.enable                     "Activar">
 <!ENTITY addonAction.disable                    "Desactivar">
 <!ENTITY addonAction.uninstall                  "Desinstallar">
 <!ENTITY addonAction.undo                       "Anullar">
-

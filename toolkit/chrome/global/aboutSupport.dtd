@@ -21,6 +21,8 @@ quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de question
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Istoric de las mesas a jorn">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afichar l'istoric de las mesas a jorn">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -63,7 +65,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-
+<!ENTITY aboutSupport.updateHistoryTitle "Istoric de las mesas a jorn">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las informacions brutas dins lo quichapapièrs">

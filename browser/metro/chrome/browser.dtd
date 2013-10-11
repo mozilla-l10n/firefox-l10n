@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "Dobrir">
+<!ENTITY downloadCancel.label      "Anullar">
+
+<!ENTITY downloadResume.label      "Tornar prene">
+<!ENTITY downloadRetry.label       "Tornar ensajar">
+<!ENTITY downloadRemove.label      "Suprimir">
+
+<!ENTITY downloadFailed.label      "Pas capitat">
+
+
+
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Avertiments">
+
+
+<!ENTITY consoleClear.label        "Voidar la consòla">
+
+<!ENTITY consoleErrFile.label      "Fichier font :">
+<!ENTITY consoleErrLine.label      "Linha :">
+<!ENTITY consoleErrColumn.label    "Colomna :">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Talhar">
+<!ENTITY contextTextCopy.label             "Copiar">
+<!ENTITY contextTextPaste.label            "Pegar">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "Seleccionar">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

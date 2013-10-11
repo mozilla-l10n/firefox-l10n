@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Afichar los apercebuts d'onglets dins la barra dels prètzfaches de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "c">
+<!ENTITY tabsGroup.label          "Onglets">
