@@ -25,7 +25,7 @@ was trying to connect. -->
 <!ENTITY certerror.expert.content "ఏమి జరుగుతోందో మీకు తెలిస్తే, ఈ సైటు గుర్తింపును నమ్మమని &brandShortName; కు చెప్పవచ్చు. 
 <b>మీరు సైటును నమ్ముచున్నప్పటికీ, యీ దోషమునకు కారణం యెవరో మీ అనుసంధానంను చెరచడానికి ప్రయత్నిస్తున్నారు.</b>">
 <!ENTITY certerror.expert.contentPara2 "ఈ సైటు నమ్మదగిన గుర్తింపును వుపయోగించక పోవుటకు మంచి కారణం వుందని మీకు తెలిస్తే తప్ప ఆక్షేపణను జతచేయవద్దు.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+
+
 
 <!ENTITY certerror.technical.heading "సాంకేతిక వివరాలు">

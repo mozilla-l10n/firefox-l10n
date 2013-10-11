@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "ఈ సెషన్‌కు అనుమతించు">
 <!ENTITY  permBlock             "నిరోధించు">
 <!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">
-<!ENTITY  permImage             "చిత్రములను లోడుచేయి">
-<!ENTITY  permPopup             "పాప్-అప్ విండోలను తెరువుము">
-<!ENTITY  permCookie            "కుకీలను అమర్చు">
-<!ENTITY  permNotifications     "గమనింపులను చూపించు">
-<!ENTITY  permInstall           "పొడిగింపులు లేదా థీమ్స్ ను సంస్థాపించు">
-<!ENTITY  permGeo               "స్థానాన్ని పంచుకొనుము">
 <!ENTITY  permPlugins           "చొప్పింతలను క్రియాశీలపరచు">
-<!ENTITY  permFullscreen        "నిండుతెర ప్రవేశపెట్టు">
-<!ENTITY  permPointerLock2      "మూషిక సూచికను దాచు">
 
-<!ENTITY  permIndexedDB              "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
 <!ENTITY  permClearStorage           "నిల్వను శుభ్రపరచు">
 <!ENTITY  permClearStorage.accesskey "C">
 

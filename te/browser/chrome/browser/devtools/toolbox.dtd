@@ -9,6 +9,12 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "అభివృద్దికారి సాధనాలను మూయి">
 <!ENTITY toolboxOptionsButton.key      "O">
+
+
+
+<!-- + is above this key on many keyboards -->
+
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -79,3 +85,13 @@
 
 <!ENTITY options.enablePersistentLogging.label    "స్థిరమైన లాగ్‌లను చేతనంచేయును">
 <!ENTITY options.enablePersistentLogging.tooltip  "మీరు ఈ ఐచ్చికం చేతనంచేస్తే వెబ్ కన్సోల్ అనునది మీరు ప్రతిసారి కొత్త పేజీకు వెళ్ళినప్పుడు అవుట్పుట్‌ను శుభ్రంచేయదు.">
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+
+<!ENTITY options.profiler.label            "జావాస్క్రిప్ట్ ప్రొఫైలర్">
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+

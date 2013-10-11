@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; సహాయం">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
