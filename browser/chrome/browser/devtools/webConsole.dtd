@@ -68,16 +68,15 @@
 
 <!ENTITY btnPageLogging.label   "Rechistro">
 <!ENTITY btnPageLogging.tooltip "Rechistrar os mensaches l'obchecto window.console">
-<!ENTITY btnPageLogging.accesskey "e">
+<!ENTITY btnPageLogging.accesskey2 "R">
 <!ENTITY btnConsoleErrors       "Errors">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Alvertencias">
 <!ENTITY btnConsoleLog          "Rechistro">
 
 <!ENTITY filterOutput.placeholder "Filtrar a salida">
-<!ENTITY btnClear.label        "Escoscar">
+<!ENTITY btnClear.label        "Limpiar">
 <!ENTITY btnClear.tooltip      "Borrar a salida d'a Consola web">
-<!ENTITY btnClear.accesskey    "s">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -96,3 +95,4 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCmd.key   "K">
+<!ENTITY clearOutputCtrl.key  "L">

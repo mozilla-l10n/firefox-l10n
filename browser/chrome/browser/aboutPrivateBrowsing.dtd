@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.title                 "Navegación privada">
 <!ENTITY privatebrowsingpage.title.normal          "Le fería goyo d'empecipiar a navegar de traza privada?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "O &brandShortName; no recordará gara cosa de l'historial d'ista finestra.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "O &brandShortName; no recordará brenca de l'historial d'ista finestra.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "No ye en una finestra de navegación privada.">
 
 <!ENTITY privatebrowsingpage.perwindow.description     "En una finestra de navegación privada, &brandShortName; no alzará garra cosa relacionada con l'historial de navegación, as buscas, l'historial de descargas, cookies u fichers temporals d'Internet.  Manimenos, sí que se guardarán os fichers que alce u os marcapachinas que creye.">

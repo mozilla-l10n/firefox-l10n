@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zarrar a barra ta desembolicadors">
 <!ENTITY devToolbarMenu.label              "Barra de desembolicadors">
 <!ENTITY devToolbarMenu.accesskey          "B">
+<!ENTITY devAppMgrMenu.label               "Chestor d'aplicacions">
+<!ENTITY devAppMgrMenu.accesskey           "C">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Amostrar ferramientas">
@@ -628,32 +630,33 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Amostrar a barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
-<!ENTITY social.addons.label "Chestionar os servicios...">
+<!ENTITY social.addons.label "Chestionar os servicios…">
 
 <!ENTITY social.toggleNotifications.label "Amostrar as notificacions d'escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Os servicios de <label/> s'han activau. Puede cambiar a configuración d'istos servicios en l'<label class='text-link'>administrador de complementos</label>.">
-<!ENTITY social.activated.undo.label "Oi! Desfer isto">
-<!ENTITY social.activated.undo.accesskey "O">
-<!ENTITY social.learnMore.label "Saber-ne mas...">
+<!ENTITY social.activated.description "Os servicios de <label/> s'han activau. Puede cambiar a configuración d'istos servicios en <label class='text-link'>l'administrador de complementos</label>.">
+<!ENTITY social.activated.undo.label "Desfer-lo!">
+<!ENTITY social.activated.undo.accesskey "D">
+<!ENTITY social.learnMore.label "Saber-ne mas…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No pas agora">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar as conversas">
 <!ENTITY social.chatBar.accesskey "c">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Alzar a pachina en...">
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Alzar o vinclo en...">
 
 <!ENTITY getUserMedia.selectCamera.label "Camara ta compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono ta compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Acceso ta o microfono/camara">
+<!ENTITY webrtcIndicatorButton.label "Acceso ta o microfono / camara">
 <!ENTITY webrtcIndicatorButton.tooltip "Amuestra os puestos a on se ye compartindo a camara u o microfono">
 
 <!ENTITY mixedContentBlocked.helplink "Saber-ne mas">
@@ -668,6 +671,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Permitir agora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Blocar iste plugin">
+
+<!ENTITY tabCrashed.header "A pestanya ha fallau">
+<!ENTITY tabCrashed.message "Se ye mirando d'amostrar ista pachina web, pero no responde pas.">
+<!ENTITY tabCrashed.checkSendReport "Notifique o fallo en &vendorShortName; ta mirar d'apanyar-lo">
+<!ENTITY tabCrashed.tryAgain "Tornar-lo a prebar">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

@@ -52,7 +52,7 @@
 <!ENTITY recoveryKeyEntry.label        "A suya clau de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY syncGenerateNewKey.label  "Chenerar una clau nueva">
-<!ENTITY recoveryKeyBackup.description "A suya clau de recuperación ye necesaria ta accedir ta &syncBrand.fullName.label; en atros ordinadors. Por favor, creye una copia agora, ya que no le podermos aduyar a recuperar a suya clau de recuperación.">
+<!ENTITY recoveryKeyBackup.description "A suya clau de recuperación ye necesaria ta accedir ta &syncBrand.fullName.label; en atros ordinadors. Cal que creye una copia de seguranza. No le podremos aduyar a recuperar a suya clau de recuperación.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprentar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
