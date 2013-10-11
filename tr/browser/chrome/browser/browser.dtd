@@ -667,7 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.showAll.accesskey "g">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Şimdi izin ver">
+<!ENTITY pluginActivateNow.label "Şimdilik izin ver">
 <!ENTITY pluginActivateAlways.label "İzin ver ve hatırla">
 <!ENTITY pluginBlockNow.label "Yan uygulamayı engelle">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
