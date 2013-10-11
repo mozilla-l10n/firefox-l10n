@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Kaikki">
 <!ENTITY all.accesskey "a">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; on päätellyt tämän viestin olevan roskapostia.">
-<!ENTITY junkBarButton.label "Tämä ei ole roskapostia">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "&brandShortName; on estänyt etäsisällön tästä viestistä tietosuojan takia.">
-<!ENTITY loadRemoteContentButton.label "Näytä etäsisältö">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; on päätellyt tämän viestin olevan huijausyritys.">
-<!ENTITY removePhishingBarButton.label "Tämä ei ole huijausyritys">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ohita pyyntö">
-<!ENTITY mdnBarIgnoreButton.accesskey "O">
-<!ENTITY mdnBarSendButton.label "Lähetä kuittaus">
-<!ENTITY mdnBarSendButton.accesskey "L">
