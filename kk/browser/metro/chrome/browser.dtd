@@ -9,9 +9,10 @@
 <!ENTITY closetab.label        "Бетті жабу">
 
 
+<!ENTITY appbarErrorConsole.label   "Қате консолін ашу">
 
 <!ENTITY appbarFindInPage2.label    "Беттен табу">
-
+<!ENTITY appbarViewOnDesktop2.label "Жұмыс үстелде көрсету">
 
 <!ENTITY bookmarksHeader.label       "Бетбелгілер">
 
@@ -24,11 +25,11 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 <!ENTITY narrowBookmarksHeader.label     "Бетбелгілер">
-
-
+<!ENTITY narrowRecentHistoryHeader.label "Жуырдағы тарихы">
+<!ENTITY narrowRemoteTabsHeader.label    "Қашық беттер">
 
 <!ENTITY downloadsHeader.label     "Жүктемелер">
-
+<!ENTITY downloadShowPage.label    "Параққа өту">
 <!ENTITY downloadShow2.label       "Табу">
 <!ENTITY downloadOpen2.label       "Ашу">
 <!ENTITY downloadCancel.label      "Бас тарту">
@@ -39,6 +40,7 @@
 <!ENTITY downloadDelete.label      "Өшіру">
 <!ENTITY downloadFailed.label      "Қате">
 
+<!ENTITY allBookmarks.label        "Бүкіл бетбелгілерді қарау">
 
 <!ENTITY consoleHeader.label       "Қателер консолі">
 <!ENTITY consoleAll.label          "Барлығы">
@@ -62,11 +64,13 @@
 <!-- LINK CONTEXT MENU -->
 
 <!ENTITY contextOpenLinkTab.label          "Сілтемені жаңа бетте ашу">
-
-
+<!ENTITY contextCopyLinkHref.label         "Сілтемені көшіру">
+<!ENTITY contextBookmarkLinkHref.label     "Бетбелгiлер сілтемесі">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Сұрет жинаққа сақтау">
 <!ENTITY contextCopyImage.label            "Суретті көшіру">
 <!ENTITY contextCopyImageLocation.label    "Сурет сілтемесін көшіру">
 <!ENTITY contextOpenImageTab.label         "Суретті жаңа бетте ашу">

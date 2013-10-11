@@ -31,7 +31,7 @@ was trying to connect. -->
 жалған екенін білдіруі мүмкін.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ерекше ереже қоспаңыз, оны тек бұл сайттың 
 сенімді аутентификация қолданбауға жақсы себебі бар екенін білсеңіз, жасауға болады.">
-
-
+<!ENTITY certerror.addTemporaryException.label "Сайтқа жолығу">
+<!ENTITY certerror.addPermanentException.label "Тұрақты ерекше ережені еңгізу">
 
 <!ENTITY certerror.technical.heading "Техникалық ақпарат">
