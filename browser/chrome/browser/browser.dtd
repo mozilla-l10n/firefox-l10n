@@ -677,8 +677,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 
 <!ENTITY tabCrashed.header "Бет құлады">
-
-
+<!ENTITY tabCrashed.message "Өкінішті-ақ. Біз бұл веб парақты көрсетуге тырыстық, бірақ ол жауап қайтармайды.">
+<!ENTITY tabCrashed.checkSendReport "Бұл құлауды түзету үшін, &vendorShortName; хабарлама жасау.">
 <!ENTITY tabCrashed.tryAgain "Қайтадан көру">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on

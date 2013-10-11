@@ -5,6 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
+<!ENTITY aboutAddons.title              "&brandShortName; қосымшалары әлі аяқталмаған жұмыс">
+
 
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
