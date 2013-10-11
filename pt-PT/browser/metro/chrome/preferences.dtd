@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                          "Opções">
-<!ENTITY optionsHeader.startup.title                  "Arranque">
-<!ENTITY optionsHeader.homepage.title                 "Ao iniciar o &brandShortName; mostrar">
-<!ENTITY optionsHeader.homepage.startPage.button      "página inicial">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "últimos separadores abertos">
 <!ENTITY optionsHeader.char.title                     "Codificação de caracteres">
 <!ENTITY optionsHeader.char.autodetect.label          "Deteção automática">
 <!ENTITY optionsHeader.char.options.label             "Mostrar opções de codificação na barra de aplicações">
