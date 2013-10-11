@@ -4,10 +4,11 @@
 
 
 <!ENTITY aboutHeader.title          "Acerca de">
-
-
-
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Por &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Lee las &brandShortName; políticas de privacidad en linea">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Comprobando actualizaciones…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Verificando compatibilidad de complemento…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->

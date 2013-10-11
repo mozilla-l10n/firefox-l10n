@@ -6,7 +6,11 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "Accede a tus marcadores, contraseñas y pestañas abiertas en todos tus dispositivos">
+<!ENTITY sync.flyout.presetup.setup.label      "Establecer &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "Establecer &syncBrand.ShortName.label;">
 
 
 

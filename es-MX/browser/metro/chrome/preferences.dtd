@@ -8,6 +8,8 @@
 
 <!ENTITY optionsHeader.title                                     "Opciones">
 <!ENTITY optionsHeader.startup.title                             "Inicio">
+<!ENTITY optionsHeader.homepage.title                            "Cuando &brandShortName; inicia, mostrar">
+<!ENTITY optionsHeader.homepage.startPage.button                 "página de inicio">
 
 
 
@@ -18,19 +20,18 @@
 
 
 
-
-
-
+<!ENTITY clearPrivateData.downloadHist                           "Historial de descargas">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
 
+<!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
+<!ENTITY clearPrivateData.offline                                "Datos de sitios web sin conexión">
+<!ENTITY clearPrivateData.logins                                 "Sesiones activas">
 
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
+<!ENTITY doNotTrack.title                                        "No rastrear">
+<!ENTITY doNotTrack.desc                                         "Decir a los sitios:">
 
 
 
