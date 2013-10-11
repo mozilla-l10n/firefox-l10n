@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.device2 "పరికరం">
+<!ENTITY index.help "సహాయం">
+
+<!ENTITY device.screenshot "తెరపట్టు">
+
+
+
+<!ENTITY device.startApp "ప్రారంభించు">
+
+<!ENTITY device.stopApp "ఆపుము">
+
+
+
+<!ENTITY device.name "పేరు">
+
+
+
+<!ENTITY device.allow "అనుమతించు">
+
+<!ENTITY device.prompt "ప్రామ్టు">
+
+<!ENTITY device.deny "తిరస్కరించు">
+
+
+
+<!ENTITY device.permissions "అనుమతులు">
+
+
+<!ENTITY device.help "సహాయం">
+
+
+
+
+
+
+<!ENTITY connection.changeHostAndPort "మార్చు">
+
+
+
+<!ENTITY connection.saveConnectionInfo "దాచు">
+
+<!ENTITY connection.connecting "అనుసంధానించుతోంది…">
+
+<!ENTITY connection.cancel "రద్దుచేయి">
+
+
+<!ENTITY connection.or "లేదా">
+
+
+
+<!ENTITY connection.installAnotherSimulator "చేర్చు">
+
+
+<!ENTITY projects.addApp "చేర్చు">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY help.close "మూసివేయి">
+
+<!ENTITY help.usefullLinks "ఉపయోగపడే లంకెలు:">
+
+
+
+
+

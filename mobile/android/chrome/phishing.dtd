@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
 <!ENTITY safeb.palm.decline.label "ఈ హెచ్చరికను పట్టించుకోకండి">
 <!ENTITY safeb.palm.notforgery.label2 "ఇది మోసపు వెబ్ సైటు కాదు…">
 <!ENTITY safeb.palm.reportPage.label "ఎందుకు ఈ సైటు నిరోధించబడింది?">
@@ -14,5 +12,5 @@
 <p>కొన్ని దాడిసైటులు కావాలని హానికారక సాఫ్ట్‌వేరును పంపిణిచేస్తాయి,కాని చాలావరకు వాటియజమానుల అనుమతిగాని లేదా సంబంధంగాని లేకుండానే రాజీకి వస్తాయి.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "అనుమానించిన వెబ్ మోసము!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+
+

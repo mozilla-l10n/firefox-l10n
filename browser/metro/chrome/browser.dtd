@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+<!ENTITY autocompleteResultsHeader.label  "మీ ఫలితాలు">
+
+
+<!ENTITY appbarFindInPage2.label    "పేజీతో వెతకండి">
+
+
+
+<!ENTITY recentHistoryHeader.label   "ఇటీవలి చరిత్ర">
+<!ENTITY remoteTabsHeader.label      "ఇతర పరికరాల నుండి ట్యాబులు">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowRecentHistoryHeader.label "ఇటీవలి చరిత్ర">
+
+
+<!ENTITY downloadsHeader.label     "దింపుకోళ్ళు">
+
+
+<!ENTITY downloadOpen2.label       "తెరువు">
+<!ENTITY downloadCancel.label      "రద్దుచేయి">
+
+<!ENTITY downloadResume.label      "తిరిగికొనసాగించు">
+<!ENTITY downloadRetry.label       "తిరిగిప్రయత్నించు">
+<!ENTITY downloadRemove.label      "తీసివేయి">
+<!ENTITY downloadDelete.label      "తొలగించు">
+<!ENTITY downloadFailed.label      "విఫలమైంది">
+
+
+<!ENTITY consoleAll.label          "అన్నీ">
+<!ENTITY consoleErrors.label       "దోషములు">
+<!ENTITY consoleWarnings.label     "హెచ్చరికలు">
+<!ENTITY consoleMessages.label     "సందేశాలు">
+
+<!ENTITY consoleClear.label        "శుభ్రం">
+
+<!ENTITY consoleErrFile.label      "మూలమైన  ఫైల్ :">
+<!ENTITY consoleErrLine.label      "గీత:">
+<!ENTITY consoleErrColumn.label    "నిలువు వరుస:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "కత్తిరించు">
+<!ENTITY contextTextCopy.label             "నకలుతీయి">
+<!ENTITY contextTextPaste.label            "అతికించు">
+<!-- unique item that is only added to the url bar context menu -->
+
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

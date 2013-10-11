@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.startup.title                             "ప్రారంభము">
+
+
+
+<!ENTITY optionsHeader.char.title                                "అక్షర సంహితీకరణ">
+
+
+
+
+<!ENTITY clearPrivateData.button                                 "శుభ్రం">
+<!ENTITY clearPrivateData.done                                   "పూర్తయ్యింది!">
+<!ENTITY clearPrivateData.history                                "విహరణ చరిత్ర">
+
+<!ENTITY clearPrivateData.downloadHist                           "దింపుకోళ్ళ చరిత్ర">
+<!ENTITY clearPrivateData.cookies                                "కుకీలు">
+
+
+
+<!ENTITY clearPrivateData.passwords                              "భద్రపరచబడిన సంకేతపదాలు">
+
+
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "సంకేతపదాలను గుర్తుంచుకో">
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.telemetry.title                            "టెలీమెట్రీ">
+

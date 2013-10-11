@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "పొడిగింతలు">
-<!ENTITY aboutAddons.header2                    "Your Add-ons">
+
 <!ENTITY aboutAddons.options                    "ఐచ్ఛికములు">
 
+
 <!ENTITY addonAction.enable                     "చేతనం">
-<!ENTITY addonAction.disable                    "Disable">
-<!ENTITY addonAction.uninstall                  "Uninstall">
+
+
 <!ENTITY addonAction.undo                       "చేయవద్దు">
-<!ENTITY addonAction.setDefault                 "Set as Default">
