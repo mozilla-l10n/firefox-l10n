@@ -109,7 +109,7 @@
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวหนังสือ">
-<!ENTITY pref_reflow_on_zoom4 "การไหลของข้อความ">
+<!ENTITY pref_reflow_on_zoom4 "ปรับการไหลข้อความใหม่เอง">
 <!ENTITY pref_restore "แท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
@@ -187,7 +187,7 @@ size. -->
 
 <!ENTITY addons "ส่วนเสริม">
 <!ENTITY downloads "ดาวน์โหลด">
-<!ENTITY apps "แอพ">
+<!ENTITY apps "แอป">
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
@@ -344,7 +344,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "ค้นหา &formatS2; ด้วย &formatS1;">
 
-<!ENTITY webapp_generic_name "แอพ">
+<!ENTITY webapp_generic_name "แอป">
 
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติการท่องเว็บ">
 
