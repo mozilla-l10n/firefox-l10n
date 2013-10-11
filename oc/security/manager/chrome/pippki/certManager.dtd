@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "Edicion dels paramètres dels certificats de seguretat">
 <!ENTITY certmgr.editcacert.title             "Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)">
-<!ENTITY certmgr.editsslcert.title            "Edicion dels paramètres del contracte de certificat del site Web">
 <!ENTITY certmgr.editcert.edittrust           "Modificar los paramètres de fisança :">
 <!ENTITY certmgr.editcert.trustssl            "Aqueste certificat pòt identifcar de sites Web.">
 <!ENTITY certmgr.editcert.trustemail          "Aqueste certificat pòt identifcar d'utilizaires de corrièr electronic.">
 <!ENTITY certmgr.editcert.trustobjsign        "Aqueste certificat pòt identifcar de creators de logicials.">
-<!ENTITY certmgr.editsslcert.edittrust        "Modificar los paramètres de fisança dels certificats :">
-<!ENTITY certmgr.editsslcert.dotrust          "Far fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editsslcert.donttrust        "Far pas fisança a l'autenticitat d'aqueste certificat.">
 <!ENTITY certmgr.editemailcert.title          "Edicion dels paramètres de fisança d'un certificat de corrièr">
-<!ENTITY certmgr.editemailcert.edittrust      "Modificar los paramètres de fisança :">
-<!ENTITY certmgr.editemailcert.dotrust        "Far fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editemailcert.donttrust      "Far pas fisança a l'autenticitat d'aqueste certificat.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "Suprimir un certificat">
 <!ENTITY certmgr.deletecert.beforename        "Avètz demandat de suprimir aqueste certificat :">
