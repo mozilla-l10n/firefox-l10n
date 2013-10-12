@@ -5,6 +5,7 @@
 <!ENTITY aboutAddons.title2                     "Add-ons">
 <!ENTITY aboutAddons.header2                    "Uw add-ons">
 <!ENTITY aboutAddons.options                    "Opties">
+<!ENTITY aboutAddons.browseAll                  "Door alle Firefox-add-ons bladeren">
 
 <!ENTITY addonAction.enable                     "Inschakelen">
 <!ENTITY addonAction.disable                    "Uitschakelen">
