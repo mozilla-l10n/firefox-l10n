@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Opciones">
+<!ENTITY optionsHeader.char.title                                "Codificación de caracteres">
+<!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
+<!ENTITY optionsHeader.char.options.label                        "Mostrar opciones de codificación en la barra de la App">
+
+<!ENTITY clearPrivateData.title                                  "Limpiar datos privados">
+<!ENTITY clearPrivateData.label                                  "Limpiar su historial de navegación, contraseñas, cookies, y datos de formularios en este dispositivo">
+<!ENTITY clearPrivateData.button                                 "Limpiar">
+<!ENTITY clearPrivateData.done                                   "¡Hecho!">
+<!ENTITY clearPrivateData.history                                "Historial de navegación">
+<!ENTITY clearPrivateData.otherdata                              "Otros datos (contraseñas, caché, cookies, etc)">
+<!ENTITY clearPrivateData.downloadHist                           "Historial de descargas">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Caché">
+<!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
+<!ENTITY clearPrivateData.formSearchHist                         "Historial de formularios y búsqueda">
+<!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
+<!ENTITY clearPrivateData.offline                                "Datos de sitios sin conexión">
+<!ENTITY clearPrivateData.logins                                 "Sesiones activas">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
+<!ENTITY doNotTrack.title                                        "No rastrear">
+<!ENTITY doNotTrack.options.doNotTrack                           "Decirle a los sitios que no quiero ser rastreado">
+<!ENTITY doNotTrack.options.doTrack                              "Decirle a los sitios que quiero ser rastreado">
+<!ENTITY doNotTrack.options.default                              "No decirle a los sitios sobre mis preferencias de rastreo">
+<!ENTITY doNotTrack.learnMoreLink                                "Aprender más&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Reporte de fallos">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envía reporte de fallos para ayudar a Mozilla a hacer su navegador más estable y seguro">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetría">
+<!ENTITY optionsHeader.telemetry.label                            "Comparte estadísticas de uso sobre &brandShortName; con Mozilla para ayudarnos a mejorar su navegador">

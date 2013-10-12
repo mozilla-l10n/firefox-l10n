@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY aboutHeader.title          "Acerca de">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Por &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Lea la política de privacidad de &brandShortName; en línea">
+<!ENTITY update.checkingForUpdates  "Buscando actualizaciones…">
+<!ENTITY update.checkingAddonCompat "Comprobando complementos…">
+<!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Actualizaciones descativadas por su administrador">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; está siendo actualizado por otra instancia">
+
+<!ENTITY update.failed.start        "Falló la actualización. ">
+<!ENTITY update.failed.linkText     "Bajar la última versión">
+<!ENTITY update.failed.end          "">
+
+<!ENTITY update.manual.start        "Actualizaciones disponibles en">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+<!ENTITY update.downloading.start   "Bajando actualización — ">
+<!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Aplicando actualización…">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Ahora estás en el canal de actualizaciones">
+<!ENTITY channel.description.end    ". ">
+
