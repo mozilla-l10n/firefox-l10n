@@ -18,7 +18,7 @@
 
 <!ENTITY contextDesc.label "Primijeni filter prilikom:">
 <!ENTITY contextIncomingMail.label "Dohvaćanje nove pošte:">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "D">
 <!ENTITY contextManual.label "Ručnog pokretanja">
 <!ENTITY contextManual.accesskey "u">
 <!ENTITY contextBeforeCls.label "Filtriraj prije označavanja neželjene pošte">
