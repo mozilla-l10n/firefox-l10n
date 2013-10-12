@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Innstillinger">
-<!ENTITY optionsHeader.startup.title                             "Oppstart">
-<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; starter, vis">
-<!ENTITY optionsHeader.homepage.startPage.button                 "startside">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "faner fra forrige gang">
 <!ENTITY optionsHeader.char.title                                "Tegnkoding">
 <!ENTITY optionsHeader.char.autodetect.label                     "Auto-oppdag">
 <!ENTITY optionsHeader.char.options.label                        "Vis tegnkodingsinnstillinger i verktøylinjen">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Husk passord">
 <!ENTITY doNotTrack.title                                        "Ikke spor">
-<!ENTITY doNotTrack.desc                                         "Fortell nettsted at:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Jeg ønsker ikke å spores">
-<!ENTITY doNotTrack.options.noPreference                         "Ingenting om mine sporingsønsker">
-<!ENTITY doNotTrack.options.trackingOkay                         "Jeg ønsker å bli sporet">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fortell nettsted at jeg ikke ønsker å spores">
+<!ENTITY doNotTrack.options.doTrack                              "Fortell nettsted at jeg ønsker å spores">
+<!ENTITY doNotTrack.options.default                              "Ikke fortell nettsted noe om mine sporingsønsker">
+<!ENTITY doNotTrack.learnMoreLink                                "Les mer &#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapporter for å hjelpe Mozilla gjøre nettleseren mer stabil og sikker">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
