@@ -510,3 +510,5 @@
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear complemento">
+
+<!ENTITY pluginNotification.width "28em">
