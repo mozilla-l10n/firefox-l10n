@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY getUserMediaDialog.title "Condivisione multimediale">
+<!ENTITY getUserMediaDialog.buttonlabelaccept "Condividi">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "C">
+<!ENTITY getUserMediaDialog.buttonlabelcancel "Annulla">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
+<!ENTITY getUserMediaDialog.video.label "Seleziona videocamera">
+<!ENTITY getUserMediaDialog.video.noVideo "Nessun video">
+<!ENTITY getUserMediaDialog.audio.label "Seleziona microfono">
+<!ENTITY getUserMediaDialog.audio.noAudio "Nessun audio">
