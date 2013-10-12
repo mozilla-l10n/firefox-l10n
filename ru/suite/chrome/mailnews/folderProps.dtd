@@ -4,16 +4,16 @@
 
 <!ENTITY folderProps.windowtitle.label "Свойства">
 <!ENTITY generalInfo.label "Основная информация">
-<!ENTITY folderCharsetTab.label "Кодировка по умолчанию:">
-<!ENTITY folderCharsetTab.accesskey "К">
-<!ENTITY folderCharsetOverride.label "Использовать как кодировку по умолчанию для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение).">
-<!ENTITY folderCharsetOverride.accesskey "у">
+<!ENTITY folderCharsetFallback.label "Резервная кодировка:">
+<!ENTITY folderCharsetFallback.accesskey "е">
+<!ENTITY folderCharsetEnforce.label "Использовать как кодировку для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение)">
+<!ENTITY folderCharsetEnforce.accesskey "л">
 <!ENTITY folderRebuildSummaryFileTip2.label "Перестроить файл индекса">
 <!ENTITY folderRebuildSummaryFile2.label "Починить папку">
 <!ENTITY folderRebuildSummaryFile2.accesskey "ч">
 <!ENTITY folderRebuildSummaryFile.explanation "Иногда файл с индексом папки (.msf) становится повреждённым, и сообщения могут казаться пропавшими, либо могут появляться удалённые сообщения; починка папки может решить эти проблемы.">
 <!ENTITY folderIncludeInGlobalSearch.label "Включать сообщения в этой папке в результаты Глобального Поиска">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "к">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "ю">
 <!ENTITY retention.label "Настройки хранения сообщений">
 <!ENTITY retentionUseAccount.label "Использовать параметры моей учётной записи">
 <!ENTITY retentionUseAccount.accesskey "п">
@@ -25,30 +25,30 @@
 <!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
 <!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Все сообщения">
-<!ENTITY retentionKeepAll.accesskey "В">
+<!ENTITY retentionKeepAll.accesskey "я">
 <!ENTITY retentionKeepRecent.label "Последние">
 <!ENTITY retentionKeepRecent.accesskey "л">
 <!ENTITY retentionKeepUnreadHidden.label "Всегда удалять прочитанные сообщения (игнорировать возраст сообщений)">
 <!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные флагом">
-<!ENTITY retentionApplyToFlagged.accesskey "р">
+<!ENTITY retentionApplyToFlagged.accesskey "х">
 <!ENTITY folderSynchronizationTab.label "Синхронизация">
 <!ENTITY folderCheckForNewMessages2.label "При получении новых сообщений для этой учётной записи всегда проверять эту папку">
-<!ENTITY folderCheckForNewMessages2.accesskey "л">
+<!ENTITY folderCheckForNewMessages2.accesskey "о">
 <!ENTITY offlineFolder.check.label "Выбрать эту папку для автономной работы">
-<!ENTITY offlineFolder.check.accesskey "В">
+<!ENTITY offlineFolder.check.accesskey "ы">
 <!ENTITY offlineFolder.button.label "Загрузить">
-<!ENTITY offlineFolder.button.accesskey "З">
+<!ENTITY offlineFolder.button.accesskey "а">
 <!ENTITY selectofflineNewsgroup.check.label "Выбрать эту группу новостей для автономной работы">
 <!ENTITY selectofflineNewsgroup.check.accesskey "э">
 <!ENTITY offlineNewsgroup.button.label "Загрузить">
-<!ENTITY offlineNewsgroup.button.accesskey "З">
+<!ENTITY offlineNewsgroup.button.accesskey "а">
 <!ENTITY folderProps.name.label "Имя:">
-<!ENTITY folderProps.name.accesskey "И">
+<!ENTITY folderProps.name.accesskey "м">
 <!ENTITY folderProps.location.label "Адрес:">
 <!ENTITY folderProps.location.accesskey "д">
 <!ENTITY folderSharingTab.label "Совместное использование">
 <!ENTITY privileges.button.label "Привилегии…">
-<!ENTITY privileges.button.accesskey "П">
+<!ENTITY privileges.button.accesskey "и">
 <!ENTITY permissionsDesc.label "У вас есть следующие права:">
 <!ENTITY folderType.label "Тип папки:">
 <!ENTITY folderQuotaTab.label "Квота">

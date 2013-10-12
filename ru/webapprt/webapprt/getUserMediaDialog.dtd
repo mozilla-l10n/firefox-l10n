@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY getUserMediaDialog.title "Доступ к медиа">
+<!ENTITY getUserMediaDialog.buttonlabelaccept "Разрешить">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "а">
+<!ENTITY getUserMediaDialog.buttonlabelcancel "Отмена">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "м">
+<!ENTITY getUserMediaDialog.video.label "Выберите камеру">
+<!ENTITY getUserMediaDialog.video.noVideo "Нет видео">
+<!ENTITY getUserMediaDialog.audio.label "Выберите микрофон">
+<!ENTITY getUserMediaDialog.audio.noAudio "Нет аудио">
