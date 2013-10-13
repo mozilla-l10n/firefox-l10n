@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Options">
-<!ENTITY optionsHeader.startup.title                             "Démarrage">
-<!ENTITY optionsHeader.homepage.title                            "Au démarrage de &brandShortName;, afficher">
-<!ENTITY optionsHeader.homepage.startPage.button                 "la page de démarrage">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "les derniers onglets ouverts">
 <!ENTITY optionsHeader.char.title                                "Encodage de caractères">
 <!ENTITY optionsHeader.char.autodetect.label                     "Détection automatique">
 <!ENTITY optionsHeader.char.options.label                        "Afficher les options d'encodage sur la barre de l'application">
@@ -36,6 +32,10 @@
 <!ENTITY doNotTrack.options.trackingNotOkay                      "que je ne souhaite pas être pisté">
 <!ENTITY doNotTrack.options.noPreference                         "rien en ce qui concerne mes préférences de pistage">
 <!ENTITY doNotTrack.options.trackingOkay                         "que je souhaite être pisté">
+<!ENTITY doNotTrack.options.doNotTrack                           "Indiquer aux sites que je ne souhaite pas être pisté">
+<!ENTITY doNotTrack.options.doTrack                              "Indiquer aux sites que je souhaite être pisté">
+<!ENTITY doNotTrack.options.default                              "Ne rien indiquer aux sites concernant mes préférences de pistage">
+<!ENTITY doNotTrack.learnMoreLink                                "En savoir plus&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Rapports de plantage">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envoie des rapports de plantage pour aider Mozilla à rendre votre navigateur plus stable et sécurisé">
 <!ENTITY optionsHeader.telemetry.title                           "Télémétrie">
