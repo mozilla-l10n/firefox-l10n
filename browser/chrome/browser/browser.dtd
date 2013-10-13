@@ -185,6 +185,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY chromeDebuggerMenu.label       "Depurador del navegador">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
@@ -465,6 +466,7 @@
 <!ENTITY identity.runBy "el cual es corrido por">
 <!ENTITY identity.moreInfoLinkText "Más información…">
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.help.tooltip "¿Cómo puedo saber si mi conexión a un sitio web es segura?">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -493,7 +495,7 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
 <!ENTITY social.chatBar.accesskey "c">
-<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.markpageMenu.accesskey "P">
 <!ENTITY social.markpageMenu.label "Guardar enlace a…">
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "Guardar enlace a…">
@@ -515,7 +517,9 @@
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear complemento">
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Pestaña colgada">
 <!ENTITY tabCrashed.message "Esto es vergonzoso. Hemos intentado mostrar esta página Web, pero no está respondiendo.">
+<!ENTITY tabCrashed.checkSendReport "Contarle a &vendorShortName; sobre este fallo para que lo puedan reparar.">
 <!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
