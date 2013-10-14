@@ -99,7 +99,7 @@
 <!ENTITY updateAutoAddonWarn.label       "M'avisar sche supplements vegnissan deactivads quatras">
 <!ENTITY updateAutoAddonWarn.accesskey   "d">
 
-!ENTITY updateAutoMetroWarn.label       "(&brandShortName; en il stil da Windows 8 na controllescha betg la contabilitad da supplements)">
+<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; en il stil da Windows 8 na controllescha betg la contabilitad da supplements)">
 
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
