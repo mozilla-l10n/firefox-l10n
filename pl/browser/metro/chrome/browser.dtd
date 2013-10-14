@@ -1,0 +1,89 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext "Wprowadź adres lub szukaj">
+
+<!ENTITY back.label "Wstecz">
+<!ENTITY forward.label "Naprzód">
+<!ENTITY newtab.label "Nowa karta">
+<!ENTITY closetab.label "Zamknij kartę">
+
+<!ENTITY autocompleteResultsHeader.label "Znaleziono">
+
+<!ENTITY appbarErrorConsole.label "Otwórz konsolę błędów">
+<!ENTITY appbarJSShell.label "Otwórz powłokę JavaScript">
+<!ENTITY appbarFindInPage2.label "Znajdź na stronie">
+<!ENTITY appbarViewOnDesktop2.label "Wyświetl na pulpicie">
+
+<!ENTITY topSitesHeader.label "Popularne">
+<!ENTITY bookmarksHeader.label "Zakładki">
+<!ENTITY recentHistoryHeader.label "Ostatnio przeglądane">
+<!ENTITY remoteTabsHeader.label "Karty z innych urządzeń">
+<!ENTITY narrowTopSitesHeader.label "Popularne">
+<!ENTITY narrowBookmarksHeader.label "Zakładki">
+<!ENTITY narrowRecentHistoryHeader.label "Ostatnie">
+<!ENTITY narrowRemoteTabsHeader.label "Z innych urządzeń">
+
+<!ENTITY downloadsHeader.label "Pobieranie plików">
+<!ENTITY downloadShowPage.label "Przejdź do strony">
+<!ENTITY downloadShow2.label "Szukaj">
+<!ENTITY downloadOpen2.label "Otwórz">
+<!ENTITY downloadCancel.label "Anuluj">
+<!ENTITY downloadPause.label "Wstrzymaj">
+<!ENTITY downloadResume.label "Wznów">
+<!ENTITY downloadRetry.label "Spróbuj ponownie">
+<!ENTITY downloadRemove.label "Wyczyść">
+<!ENTITY downloadDelete.label "Usuń">
+<!ENTITY downloadFailed.label "Nieudane">
+
+<!ENTITY allBookmarks.label "Wyświetl wszystkie zakładki">
+
+<!ENTITY consoleHeader.label "Konsola błędów">
+<!ENTITY consoleAll.label "Wszystkie">
+<!ENTITY consoleErrors.label "Błędy">
+<!ENTITY consoleWarnings.label "Ostrzeżenia">
+<!ENTITY consoleMessages.label "Wiadomości">
+<!ENTITY consoleCodeEval.label "Kod:">
+<!ENTITY consoleClear.label "Wyczyść">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Plik źródłowy:">
+<!ENTITY consoleErrLine.label "Linia:">
+<!ENTITY consoleErrColumn.label "Kolumna:">
+
+<!ENTITY contextTextCut.label "Wytnij">
+<!ENTITY contextTextCopy.label "Kopiuj">
+<!ENTITY contextTextPaste.label "Wklej">
+<!ENTITY contextTextPasteAndGo.label "Wklej i przejdź">
+<!ENTITY contextTextSelect.label "Zaznacz">
+<!ENTITY contextTextSelectAll.label "Zaznacz wszystko">
+
+<!ENTITY contextOpenLinkTab.label "Otwórz odnośnik w nowej karcie">
+<!ENTITY contextCopyLinkHref.label "Kopiuj odnośnik">
+<!ENTITY contextBookmarkLinkHref.label "Dodaj zakładkę do odnośnika">
+
+<!ENTITY contextSaveImageLib.label "Zapisz w bibliotece obrazków">
+<!ENTITY contextCopyImage.label "Kopiuj obrazek">
+<!ENTITY contextCopyImageLocation.label "Kopiuj adres obrazka">
+<!ENTITY contextOpenImageTab.label "Otwórz obrazek w nowej karcie">
+
+<!ENTITY contextSaveVideoLib.label "Zapisz w bibliotece wideo">
+<!ENTITY contextCopyVideoLocation.label "Kopiuj adres wideo">
+<!ENTITY contextOpenVideoTab.label "Otwórz wideo w nowej karcie">
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

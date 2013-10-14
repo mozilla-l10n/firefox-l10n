@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY aboutAddons.title "Dodatki programu &brandShortName; nie są jeszcze w pełni zaimplementowane">
+<!ENTITY aboutAddons.messageTitle "O masz!">
+<!ENTITY aboutAddons.message "Dokładamy starań, aby &brandShortName; obsługiwał dodatki.">
+
+<!ENTITY aboutAddons.goBackToStartStart "Wróć do ">
+<!ENTITY aboutAddons.goBacktoStartLink "strony startowej programu &brandShortName;">
+<!ENTITY aboutAddons.goBacktoStartEnd ".">

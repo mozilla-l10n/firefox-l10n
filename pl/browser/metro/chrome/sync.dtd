@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+
+<!ENTITY sync.flyout.presetup.description1 "Synchronizuj zakładki, hasła i otwarte karty pomiędzy urządzeniami">
+<!ENTITY sync.flyout.presetup.setup.label "Konfiguruj &syncBrand.shortName.label;">
+
+<!ENTITY sync.flyout.setup.title "Konfiguracja &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Jeśli posiadasz konto &syncBrand.shortName.label;, wybierz „Sparuj urządzenie” na drugim urządzeniu, aby wprowadzić ten kod.">
+<!ENTITY sync.flyout.setup.description2 "Jeśli nie posiadasz konta &syncBrand.shortName.label;, możesz je utworzyć w biurkowej wersji przeglądarki &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2 "Nie jestem w pobliżu mojego komputera…">
+<!ENTITY sync.flyout.setup.description3 "Uwaga:">
+<!ENTITY sync.flyout.setup.description4_2 "Aby przejść do „Sparuj urządzenie”, należy:">
+<!ENTITY sync.flyout.setup.description5_2 "Otworzyć „Opcje” lub „Preferencje” a następnie wybrać „&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.setup.description6_2 "W Firefoksie na Androidzie wybrać „Więcej”, następnie „Ustawienia” i „&syncBrand.shortName.label;”">
+
+<!ENTITY sync.flyout.manualsetup.description1_2 "Wprowadź dane konta &syncBrand.shortName.label; i klucz odzyskiwania wygenerowany przez komputer">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nazwa konta">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Hasło">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Klucz odzyskiwania">
+<!ENTITY sync.flyout.manualsetup.connect.label "Połącz">
+
+<!ENTITY sync.flyout.setupsuccess.description1 "&brandShortName; został podłączony do konta &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchornizowane karty można znaleźć na stronie startowej programu &brandShortName;">
+
+<!ENTITY sync.flyout.setupfailure.description "&brandShortName; nie mógł się połączyć z kontem &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Anuluj">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Spróbuj ponownie">
+
+<!ENTITY sync.flyout.connected.account "Konto:">
+<!ENTITY sync.flyout.connected.device "Urządzenie:">
+<!ENTITY sync.flyout.connected.disconnect "Rozłącz">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "Odłączyć urządzenie od &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Wszystkie dane prywatne zarówno na tym urządzeniu jak i na koncie &syncBrand.shortName.label; pozostaną niezmienione.">
+<!ENTITY sync.flyout.connected.cancel "Anuluj">
+<!ENTITY sync.flyout.connected.pair "Sparuj urządzenie">
+
+<!ENTITY sync.flyout.pairNewDevice.description "Na urządzeniu z którym chcesz sparować wybierz „Konfiguruj &syncBrand.shortName.label;” i wprowadź kod, który urządzenie wygeneruje">
+<!ENTITY sync.flyout.pairNewDevice.pair "Paruj">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Uwaga:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Aby wyświetlić kod, należy">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "Otworzyć „Opcje” lub „Preferencje” a następnie „&syncBrand.shortName.label;”, po czym „Konfiguruj &syncBrand.shortName.label;” i „Mam już konto”">
+<!ENTITY sync.flyout.pairNewDevice.note4 "W Firefoksie na Androidzie wybrać „Więcej”, następnie „Ustawienia” i „&syncBrand.shortName.label;”">
+<!ENTITY sync.flyout.pairNewDevice.failure "Proszę spróbować ponownie">
+
+<!ENTITY sync.flyout.pairSuccess.description1 "Dodano nowe urządzenie.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchornizowane karty można znaleźć na stronie startowej programu &brandShortName;.">
