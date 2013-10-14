@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Permetter da marcar text cun la tastatura">
 <!ENTITY useCursorNavigation.accesskey   "m">
-<!ENTITY searchStartTyping.label         "Gia tschertgar cun endatar">
+<!ENTITY searchStartTyping.label         "Tschertgar il text sche l'utilisader tippescha">
 <!ENTITY searchStartTyping.accesskey     "r">
 <!ENTITY blockAutoRefresh.label          "Avisar, sche websites emprovan da renviar u da rechargiar">
 <!ENTITY blockAutoRefresh.accesskey      "w">
