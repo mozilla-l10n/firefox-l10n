@@ -63,6 +63,7 @@
 <!ENTITY  permImage             "Chargiar las graficas">
 <!ENTITY  permPopup             "Avrir la fanestra popup">
 <!ENTITY  permCookie            "Metter cookies">
+<!ENTITY  permNotifications     "Mussar avis">
 <!ENTITY  permInstall           "Intallar extensiuns u designs">
 <!ENTITY  permGeo               "Trametter mia posiziun geografica">
 <!ENTITY  permPlugins           "Activar ils plug-ins">
