@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menü">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "&brandShortName;-Menü öffnen">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Seitenleiste">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "S">
+<!ENTITY lightning.toolbar.calendarpane.label        "Seitenleiste anzeigen">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "S">
