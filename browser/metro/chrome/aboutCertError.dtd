@@ -32,6 +32,7 @@ kinne jo &brandShortName; fertelle de identiteit fan dizze website te fertrouen.
 jo ferbining oan it skelmjen is.</b>">
 <!ENTITY certerror.expert.contentPara2 "Jo kinne better gjin útsûndering tafoegje, útsein
 jo witte dat der in goede reden is dat dizze website gjin fertroude identifikaasje brûkt.">
-<!ENTITY certerror.addException.label "Utsûndering tafoegje…">
+<!ENTITY certerror.addTemporaryException.label "Besykje side">
+<!ENTITY certerror.addPermanentException.label "Permaninte útsûndering tafoegje">
 
 <!ENTITY certerror.technical.heading "Technyske details">
