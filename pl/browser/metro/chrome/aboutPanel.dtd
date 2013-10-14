@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHeader.title "O programie &brandShortName;">
+<!ENTITY aboutHeader.title "O programie">
 <!ENTITY aboutHeader.product.label "&brandShortName;">
 <!ENTITY aboutHeader.company.label "stworzony przez organizację &vendorShortName;">
 <!ENTITY aboutHeader.policy.label "O polityce prywatności">
