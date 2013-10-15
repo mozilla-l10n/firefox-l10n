@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Utvidingar">
-<!ENTITY aboutAddons.header2                    "Dine utvidingar">
+<!ENTITY aboutAddons.header2                    "Utvidingar">
 <!ENTITY aboutAddons.options                    "Innstillingar">
+<!ENTITY aboutAddons.browseAll                  "Bla gjennom alle Firefox-utvidingane">
 
 <!ENTITY addonAction.enable                     "Slå på">
 <!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.undo                       "Angre">
-<!ENTITY addonAction.setDefault                 "Vel som standard">

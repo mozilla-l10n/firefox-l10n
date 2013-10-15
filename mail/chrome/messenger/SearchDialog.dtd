@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Skriv ny e-post til">
 <!ENTITY composeButton.accesskey     "n">
+<!ENTITY deleteCardButton.label      "Slett">
+<!ENTITY deleteCardButton.accesskey  "t">
 <!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">
 
 <!-- Thread Pane -->
