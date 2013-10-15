@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Skriv inn søk eller adresse">
+
+<!ENTITY back.label            "Tilbake">
+<!ENTITY forward.label         "Fram">
+<!ENTITY newtab.label          "Ny fane">
+<!ENTITY closetab.label        "Lukk fane">
+
+<!ENTITY autocompleteResultsHeader.label  "Dine resultat">
+
+<!ENTITY appbarErrorConsole.label   "Opne feilkonsoll">
+<!ENTITY appbarJSShell.label        "Opne JavaScript-shell">
+<!ENTITY appbarFindInPage2.label    "Finn på sida">
+<!ENTITY appbarViewOnDesktop2.label "Vis på skrivebordet">
+
+<!ENTITY topSitesHeader.label        "Toppliste">
+<!ENTITY bookmarksHeader.label       "Bokmerke">
+<!ENTITY recentHistoryHeader.label   "Nyleg historikk">
+<!ENTITY remoteTabsHeader.label      "Faner frå andre einingar">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Toppliste">
+<!ENTITY narrowBookmarksHeader.label     "Bokmerke">
+<!ENTITY narrowRecentHistoryHeader.label "Nyleg historikk">
+<!ENTITY narrowRemoteTabsHeader.label    "Eksterne faner">
+
+<!ENTITY downloadsHeader.label     "Nedlastingar">
+<!ENTITY downloadShowPage.label    "Gå til side">
+<!ENTITY downloadShow2.label       "Finn">
+<!ENTITY downloadOpen2.label       "Opne">
+<!ENTITY downloadCancel.label      "Avbryt">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Fortset">
+<!ENTITY downloadRetry.label       "Prøv igjen">
+<!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadDelete.label      "Slett">
+<!ENTITY downloadFailed.label      "Feil">
+
+<!ENTITY allBookmarks.label        "Vis alle bokmerke">
+
+<!ENTITY consoleHeader.label       "Feilkonsoll">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "Feil">
+<!ENTITY consoleWarnings.label     "Åtvaringa">
+<!ENTITY consoleMessages.label     "Meldingar">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Tøm">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kjeldefil:">
+<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrColumn.label    "Kolonne:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Klipp ut">
+<!ENTITY contextTextCopy.label             "Kopiere">
+<!ENTITY contextTextPaste.label            "Lim inn">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Lim inn og opne">
+<!ENTITY contextTextSelect.label           "Merk">
+<!ENTITY contextTextSelectAll.label        "Merk alt">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Open link in new tab">
+<!ENTITY contextCopyLinkHref.label         "KOpier lenke">
+<!ENTITY contextBookmarkLinkHref.label     "Bokmerk lenke">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Lagre til bildegalleri">
+<!ENTITY contextCopyImage.label            "KOpier bilde">
+<!ENTITY contextCopyImageLocation.label    "Kopier bildeplassering">
+<!ENTITY contextOpenImageTab.label         "Opne bilde i ny fane">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Lagre til videobibliotek">
+<!ENTITY contextCopyVideoLocation.label    "Kopier videoplassering">
+<!ENTITY contextOpenVideoTab.label         "Opne video i ny fane">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
