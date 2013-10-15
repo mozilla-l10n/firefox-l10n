@@ -12,10 +12,10 @@
 
 <!ENTITY size.label                 "Rozmiar:">
 <!ENTITY proportionalSize.accesskey "R">
-<!ENTITY sizeMono.accesskey         "a">
+<!ENTITY sizeMono.accesskey "z">
 
 <!ENTITY proportional.label     "Proporcjonalna:">
-<!ENTITY proportional.accesskey "P">
+<!ENTITY proportional.accesskey "a">
 
 <!ENTITY serif.label          "Szeryfowa:">
 <!ENTITY serif.accesskey      "s">
