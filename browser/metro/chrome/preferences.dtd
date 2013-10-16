@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY optionsHeader.title "Opciones">
-<!ENTITY optionsHeader.startup.title "Inicio">
-<!ENTITY optionsHeader.homepage.title "Cuando se inicie &brandShortName;, mostrar">
-<!ENTITY optionsHeader.homepage.startPage.button "página de inicio">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "pestañas de la última sesión">
 <!ENTITY optionsHeader.char.title "Codif. caracteres">
 <!ENTITY optionsHeader.char.autodetect.label "Autodetectar">
 <!ENTITY optionsHeader.char.options.label "Mostrar opciones de codificación en la barra de aplicaciones">
