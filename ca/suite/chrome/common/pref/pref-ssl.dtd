@@ -20,12 +20,12 @@
 <!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "El &brandShortName; pot avisar-vos de l'estat de seguretat de la pàgina web que estigueu visitant. Pot fer-se que el &brandShortName; mostri un avís i demani permís abans de:">
-<!ENTITY warn.enteringsecure                "Carregar una pàgina xifrada">
+<!ENTITY warn.enteringsecure                "Carregar una pàgina que admet xifratge">
 <!ENTITY warn.enteringsecure.accesskey      "C">
 <!ENTITY warn.insecurepost                  "Enviar dades de formulari d'una pàgina sense xifrar a una altra que tampoc ho estigui">
 <!ENTITY warn.insecurepost.accesskey        "s">
-<!ENTITY warn.leavingsecure                 "Abandonar una pàgina amb xifratge">
-<!ENTITY warn.leavingsecure.accesskey       "A">
+<!ENTITY warn.leavingsecure                 "Sortir d'una pàgina que admet xifratge">
+<!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "Visualitzar una pàgina que conté tant contingut xifrat com sense xifrar">
 <!ENTITY warn.viewmixed.accesskey           "V">
 

@@ -208,8 +208,8 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
-<!ENTITY expandAllThreadsCmd.label "Expandeix totes les cadenes">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.label "Amplia totes les cadenes">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Redueix totes les cadenes">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
@@ -795,7 +795,7 @@
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage2.label "Per protegir la vostra privadesa, el &brandShortName; ha blocat el contingut remot.">
+<!ENTITY remoteContentMessage2.label "Per protegir la vostra privadesa, el &brandShortName; ha blocat el contingut remot d'aquest missatge.">
 <!ENTITY loadRemoteContentButton3.label "Mostra el contingut remot">
 <!-- Phishing Bar -->
 

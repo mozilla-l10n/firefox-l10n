@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  managecerts.caption      "Gestió dels certificats">
-<!ENTITY  managecerts.text         "Utilitzeu el gestor de certificats per gestionar els vostres certificats personals, com també els d'altra gent i d'autoritats certificadores.">
+<!ENTITY  managecerts.text         "Utilitzeu el gestor de certificats per gestionar els vostres certificats personals, com també els d'altra gent i d'entitats certificadores.">
 <!ENTITY  managecerts.button       "Gestiona els certificats…">
 <!ENTITY  managecerts.accesskey    "G">
 <!ENTITY  managedevices.caption    "Gestiona els dispositius de seguretat">

@@ -171,7 +171,7 @@
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Com a mínim ha de coincidir  una de les etiquetes seleccionades">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Com a mínim ha de coincidir una de les etiquetes seleccionades">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->

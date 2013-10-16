@@ -50,12 +50,12 @@
 <!ENTITY pasteCmd.label                   "Enganxa">
 <!ENTITY pasteCmd.key                     "V">
 <!ENTITY pasteCmd.accesskey               "x">
-<!ENTITY pasteGoCmd.label                 "Enganxa-ho i vés-hi">
+<!ENTITY pasteGoCmd.label                 "Enganxa i vés-hi">
 <!ENTITY pasteGoCmd.accesskey             "g">
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
 
-<!ENTITY pasteSearchCmd.label             "Enganxa-ho i cerca-ho">
+<!ENTITY pasteSearchCmd.label             "Enganxa i cerca-ho">
 <!ENTITY pasteSearchCmd.accesskey         "E">
 <!ENTITY deleteCmd.label                  "Suprimeix">
 <!ENTITY deleteCmd.accesskey              "u">

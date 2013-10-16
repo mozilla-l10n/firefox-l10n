@@ -98,8 +98,8 @@
 <!ENTITY thisFrameMenu.accesskey      "t">
 <!ENTITY mediaPlay.label              "Reprodueix">
 <!ENTITY mediaPlay.accesskey          "p">
-<!ENTITY mediaPause.label             "Atura">
-<!ENTITY mediaPause.accesskey         "t">
+<!ENTITY mediaPause.label             "Pausa">
+<!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Sense so">
 <!ENTITY mediaMute.accesskey          "e">
 <!ENTITY mediaUnmute.label            "Amb so">
@@ -111,7 +111,7 @@
 <!ENTITY mediaPlaybackRate100.label     "Velocitat normal">
 <!ENTITY mediaPlaybackRate100.accesskey "n">
 <!ENTITY mediaPlaybackRate150.label     "Velocitat alta (1½×)">
-<!ENTITY mediaPlaybackRate150.accesskey "a">
+<!ENTITY mediaPlaybackRate150.accesskey "t">
 <!ENTITY mediaPlaybackRate200.label     "Velocitat doble">
 <!ENTITY mediaPlaybackRate200.accesskey "d">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
