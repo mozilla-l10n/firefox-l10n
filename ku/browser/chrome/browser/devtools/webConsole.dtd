@@ -69,6 +69,7 @@
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "Ciyê Girêdanê Ji Ber Bigire">
