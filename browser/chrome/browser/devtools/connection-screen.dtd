@@ -19,4 +19,4 @@
 <!ENTITY errorTimeout "Fel: anslutningen förföll.">
 <!ENTITY errorRefused "Fel: anslutning nekades.">
 <!ENTITY errorUnexpected "Oväntat fel.">
-<!ENTITY help "Firefox utvecklarverktyg kan avlusa fjärrenheter (t.ex. Firefox för Android och Firefox OS). Kontrollera att du har valt alternativet ”Fjärravlusning” på fjärrenheten. Se <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentationen</a> för mer information.">
+<!ENTITY help2 "Firefox utvecklarverktyg kan avlusa fjärrenheter (t.ex. Firefox för Android och Firefox OS). Kontrollera att du har valt alternativet ”Fjärravlusning” på fjärrenheten. Se <a target='_' href='https://developer.mozilla.org/docs/Tools/Remote_Debugging'>dokumentationen</a> för mer information.">
