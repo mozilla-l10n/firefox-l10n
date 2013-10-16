@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Giştî">
 
@@ -27,12 +27,29 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Ji bo pergalê ên standard">
-<!ENTITY alwaysCheckDefault.label        "Her tim kontrol bike ka &brandShortName; geroka standard e an na"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Her tim kontrol bike ka &brandShortName; geroka standard e an na">
 <!ENTITY alwaysCheckDefault.accesskey    "H">
-<!ENTITY checkNow.label                  "Vêga kontrol bike">
-<!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Raporên têkçûnê bişîne">
-<!ENTITY submitCrashes.accesskey         "t">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY crashReporterSection.label      "Raporkara Têkçûnan">
+
+
+
+
 
 <!ENTITY networkTab.label                "Tor">
 
@@ -42,7 +59,6 @@
 <!ENTITY connectionSettings.label        "Mîheng…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Depoya Negirêdayî">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -50,52 +66,52 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Lîmîta pêşbîrê bo">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ji valahiyê">
 <!ENTITY clearCacheNow.label             "Niha Paqij Bike">
 <!ENTITY clearCacheNow.accesskey         "N">
+
+
 <!ENTITY overrideSmartCacheSize.label    "Rêveberiya xweber a pêşbîrê binpê bike">
 <!ENTITY overrideSmartCacheSize.accesskey "R">
 
 <!ENTITY updateTab.label                 "Rojane Bike">
 
-<!ENTITY autoCheck.label                 "Pêvekan bixweber kontrol bike:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
-<!ENTITY enableAddonsUpdate2.label       "Add-on">
-<!ENTITY enableAddonsUpdate2.accesskey   "A">
-<!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">
-<!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Heke ji bo &brandShortName; 'ê rojanekirin bê dîtin,">
-<!ENTITY askMe.label                     "Ji min bipirse ka ez çi dixwazim">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "Rojanekirinan bixweber daxe û saz bike">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Heke ev Add-oneke min jî neçalak bike, min hişyar bike">
-<!ENTITY modeAutoAddonWarn.accesskey     "H">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY updateHistory.label             "Mêjûya Rojanekirinan Nîşan Bide">
 <!ENTITY updateHistory.accesskey         "M">
+
+
+
+<!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">
+<!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Gava ku malperekê kir ku daneyên negirêdayî tomar bike min hişyar bike">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Rewşên Taybet...">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList.label           "Malperên li jêrê ji bo bikaranîna negirêdayî dane saz kirine:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rake…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Daneyên negirêdayî rake">
 
-<!ENTITY encryptionTab.label             "Şîfrekirin">
-
-<!ENTITY protocols.label                 "Zagonên Ragihandinê">
-<!ENTITY useSSL3.label                   "SSL 3.0 bikar bîne">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 bikar bîne">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Sertîfîka">
+<!ENTITY certificateTab.label            "Sertîfîka">
 <!ENTITY certSelection.description       "Dema ku pêşkêşkarekê li sertîfîkaya min a takekesê bipirse:">
 <!ENTITY certs.auto                      "Yek ji wan bixweber hilbijêre">
 <!ENTITY certs.auto.accesskey            "l">
@@ -103,9 +119,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Sertîfîkayan Nîşan Bide">
 <!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewCRLs.label                  "Lîsteya Redbûyiyan">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Pejirandin">
 <!ENTITY verify2.accesskey               "r">
 <!ENTITY viewSecurityDevices.label       "Pergalên Ewlekariyê">
-<!ENTITY viewSecurityDevices.accesskey   "e">
+<!ENTITY viewSecurityDevices.accesskey   "E">

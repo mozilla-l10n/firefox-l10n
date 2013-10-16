@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "Nav">
 <!ENTITY  columnLabel.keyword       "Peyva Kilît">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Jor">
 <!ENTITY  up.accesskey              "o">
 <!ENTITY  dn.label                  "Jêr">

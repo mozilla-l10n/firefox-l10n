@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+
+<!ENTITY quitApplicationCmdWin.label        "Derkeve">
+<!ENTITY quitApplicationCmdWin.accesskey    "k">
+
+
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY hideOtherAppsCmdMac.label          "Yên Din Veşêre">
+
+<!ENTITY showAllAppsCmdMac.label            "Hemûyan Nîşan Bide">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
+
+
+
+
+
+<!ENTITY redoCmd.label                      "Nû bike">
+
+<!ENTITY redoCmd.accesskey                  "N">
+<!ENTITY cutCmd.label                       "Jê bike">
+
+<!ENTITY cutCmd.accesskey                   "J">
+<!ENTITY copyCmd.label                      "Kopîkirin">
+
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Pêve bike">
+
+<!ENTITY pasteCmd.accesskey                 "P">
+
+
+
+
+
+

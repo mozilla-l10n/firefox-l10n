@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Mîhengên Sertîfîkayê yên Ewlekariyê Rist Bike">
 <!ENTITY certmgr.editcacert.title             "CA Mîhengên Sertîfîkayê yên Ewlekariyê rist bike">
-<!ENTITY certmgr.editsslcert.title            "Mîhengên ewlekariyê yên rûpela torê mîheng bike">
 <!ENTITY certmgr.editcert.edittrust           "Mîhengên Ewlekariyê rist bike:">
 <!ENTITY certmgr.editcert.trustssl            "Ev sertîfîka rûpelên torê diyar dike.">
 <!ENTITY certmgr.editcert.trustemail          "Ev sertîfîka bikarhênerên peyaman salix dike.">
 <!ENTITY certmgr.editcert.trustobjsign        "Ev sertîfîka nivîsbaran diyar dike.">
-<!ENTITY certmgr.editsslcert.edittrust        "Ewlebûna li sertîfîkakirinê mîheng bike:">
-<!ENTITY certmgr.editsslcert.dotrust          "Li rastiya vê sertîfîkayê ewle be.">
-<!ENTITY certmgr.editsslcert.donttrust        "Li rastiya vê sertîfîkayê ewle nebe.">
 <!ENTITY certmgr.editemailcert.title          "Mîhengên ewlekariyê yên E-Peyamê rist bike">
 <!ENTITY certmgr.editemailcert.edittrust      "Ewlebûna li sertîfîkakirinê mîheng bike:">
 <!ENTITY certmgr.editemailcert.dotrust        "Li rastiya vê sertîfîkayê ewle be.">

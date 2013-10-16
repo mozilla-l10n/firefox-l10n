@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY devmgr.title                           "Rêvebira Pergalê">
+<!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
+     window size. Don't translate "width" nor "height". Adjust the numbers
+     to make window contents fit. -->
 
 <!ENTITY devmgr.devlist.label                   "Parçe û Pergalên Ewlekariyê">
 <!ENTITY devmgr.details.title                   "Kitekit">

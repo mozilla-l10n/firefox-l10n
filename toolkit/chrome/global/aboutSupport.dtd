@@ -3,13 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Agahiyên Tamîrkirinê">
-
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar,
-  agahiyên teknîkî dihewîne. Eger li bersiva PPP yên
-  &brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.
-">
+
+<!ENTITY aboutSupport.pageSubtitle "  Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, 
+agahiyên teknîkî dihewîne. Eger li bersiva PPP yên 
+&brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.">
 
 <!ENTITY aboutSupport.extensionsTitle "Pêvek">
 <!ENTITY aboutSupport.extensionName "Nav">
@@ -20,25 +18,43 @@
 <!ENTITY aboutSupport.appBasicsTitle "Bingehên Sepanê">
 <!ENTITY aboutSupport.appBasicsName "Nav">
 <!ENTITY aboutSupport.appBasicsVersion "Guherto">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Pêvekên Çalak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
 <!ENTITY aboutSupport.appBasicsUserAgent "Navbeynkara Bikarhêner">
 
-<!ENTITY aboutSupport.show.label "Peldanka ku tê de ye veke">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Di 'Bibîne' de nîşan bide">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Vebijêrkên Guherandî">
 <!ENTITY aboutSupport.modifiedPrefsName "Nav">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nirx">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
 
 <!ENTITY aboutSupport.graphicsTitle "Grafîk">
+
+
+
+<!ENTITY aboutSupport.a11yTitle "Gihîştin">
+
+
+
 
 <!ENTITY aboutSupport.installationHistoryTitle "Mêjûya sazkirinê">
 <!ENTITY aboutSupport.updateHistoryTitle "Mêjûya rojanekirinê">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Hemûyan li depreşê tomar bike">
+
