@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Obostrano">
 <!ENTITY cellInheritColor.label           "(Dozvoli da se boje tablice vide kroz)">
 <!ENTITY cellUseCheckboxHelp.label        "Koristite kvadratiće kako bi odredili koje postavke se primjenjuju na sve odabrane ćelije">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Veličina">
 <!ENTITY pixels.label                     "pikseli">
 <!ENTITY backgroundColor.label            "Boja pozadine:">

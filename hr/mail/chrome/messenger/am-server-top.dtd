@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Spremnik poruka">
 <!ENTITY securitySettings.label "Postavke sigurnosti">
@@ -58,8 +58,8 @@
 <!ENTITY loginAtStartup.label "Provjeri dostupnost novih poruka pri pokretanju">
 <!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-     of messages between them
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Upitaj me prije preuzimanja više od">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Uvijek zahtijevaj autentifikaciju prilikom povezivanja na ovaj poslužitelj">
 <!ENTITY alwaysAuthenticate.accesskey "v">
 <!ENTITY newsrcFilePath.label "newsrc datoteka:">
-<!ENTITY localPath.label "Lokalna mapa:">
+<!ENTITY newsrcPicker.label "Odaberi newsrc datoteku">
 <!ENTITY abbreviate.label "Prikaži imena interesnih grupa u oknu pošte kao:">
 <!ENTITY abbreviateOn.label "Cijela imena (na primjer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skraćena imena (na primjer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno…">
 <!ENTITY advancedButton.accesskey "r">
 <!ENTITY serverDefaultCharset.label "Zadana kodna stranica:">
+<!ENTITY localPath.label "Lokalna mapa:">
 <!ENTITY localFolderPicker.label "Odaberi lokalnu mapu">
 <!ENTITY browseFolder.label "Odaberi…">
 <!ENTITY browseFolder.accesskey "b">
-<!ENTITY newsrcPicker.label "Odaberi newsrc datoteku">
 <!ENTITY browseNewsrc.label "Odaberi…">
 <!ENTITY browseNewsrc.accesskey "e">
 

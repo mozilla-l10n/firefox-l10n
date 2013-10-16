@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Postavke računa">
 <!ENTITY accountName.label "Naziv računa:">
@@ -23,7 +23,7 @@
 <!ENTITY signatureHtml.label "Koristi HTML (npr., &lt;b&gt;podebljano&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Priloži potpis iz datoteke (tekst, HTML ili slika):">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Uredi…">
 <!ENTITY choose.label "Odaberi…">
 <!ENTITY choose.accesskey "a">
@@ -35,8 +35,8 @@
 
 <!ENTITY manageIdentities.label "Upravljanje identitetima…">
 <!ENTITY manageIdentities.accesskey "m">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Odlazni poslužitelj (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Koristi zadani poslužitelj">

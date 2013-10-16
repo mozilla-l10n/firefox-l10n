@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Traži poruke u:">
 <!ENTITY searchHeading.accesskey     "a">
 <!ENTITY searchSubfolders.label      "Pretražuj podmape">
@@ -26,17 +26,19 @@
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Spremi kao mapu za pretraživanje">
 <!ENTITY saveAsVFButton.accesskey    "m">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Traži u:">
 <!ENTITY abSearchHeading.accesskey   "i">
 <!ENTITY propertiesButton.label      "Postavke">
 <!ENTITY propertiesButton.accesskey  "s">
 <!ENTITY composeButton.label         "Piši">
 <!ENTITY composeButton.accesskey     "P">
+<!ENTITY deleteCardButton.label      "Obriši">
+<!ENTITY deleteCardButton.accesskey  "O">
 <!ENTITY abSearchDialogTitle.label   "Napredno pretraživanje adresara">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Šalje">
 <!ENTITY recipientColumn.label "Primatelj">
@@ -55,8 +57,8 @@
 <!ENTITY starredColumn.label "Označeno zvjezdicom">
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Kliknite da biste odabrali stupce za prikaz">
 <!ENTITY threadColumn.tooltip "Kliknite za prikaz tema poruka"> 
 <!ENTITY fromColumn.tooltip "Kliknite za sortiranje prema pošiljatelju">

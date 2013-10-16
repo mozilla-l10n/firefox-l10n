@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
 <!ENTITY Name.box                        "Naziv">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -49,7 +49,11 @@
 
 <!ENTITY allowRemoteContent1.label      "Dozvoli vanjski sadržaj.">
 <!ENTITY allowRemoteContent1.accesskey  "v">
-<!ENTITY allowRemoteContent1.tooltip    "U HTML poruke moguće je ugraditi sadržaj s vanjskih izvora. Otvaranje takvih poruka će otvoriti vezu na taj vanjski izvor. Ovo može omogućiti praćenje čitanja poruke. Označavanje ove kućice će omogućiti ugrađeni vanjski sadržaj u HTML porukama ovog kontakta.">
+<!ENTITY allowRemoteContent1.tooltip    "U HTML poruke moguće je ugraditi 
+sadržaj s vanjskih izvora. Otvaranje takvih poruka će otvoriti vezu na taj 
+vanjski izvor. Ovo može omogućiti praćenje čitanja poruke. Označavanje 
+ove kućice će omogućiti ugrađeni vanjski sadržaj u HTML porukama 
+ovog kontakta.">
 
 <!ENTITY WorkPhone.label                "Telefon (posao):">
 <!ENTITY WorkPhone.accesskey            "l">

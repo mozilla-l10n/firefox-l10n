@@ -17,6 +17,6 @@
 <!ENTITY server.accesskey             "a">
 <!ENTITY subscribedHeader.label       "Pretplati se">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Poruke"> -->
+<!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Prikaži stavke koje sadrže:">
 <!ENTITY namefield.accesskey          "r">

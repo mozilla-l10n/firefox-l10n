@@ -28,8 +28,8 @@
 <!ENTITY play.accesskey                   "c">
 <!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">
 <!ENTITY systemsoundMac.label             "Sistemski zvuk obavijesti">
-<!ENTITY systemsoundMac.accesskey         "Z">
-<!ENTITY systemsound.accesskey            "z">
+<!ENTITY systemsoundMac.accesskey         "z">
+<!ENTITY systemsound.accesskey            "Z">
 <!ENTITY customsound.label                "Koristi sljedeću zvučnu datoteku">
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Odaberi…">

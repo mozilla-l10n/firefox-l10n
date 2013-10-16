@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  prefWindow.titleWin     "Mogućnosti">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; postavke">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
@@ -11,8 +10,8 @@
 
 <!ENTITY paneGeneral.title        "Općenito">
 <!ENTITY paneDisplay.title        "Prikaz">
-<!ENTITY paneChat.title           "Razgovor">
 <!ENTITY paneComposition.title    "Sastavljanje">
+<!ENTITY paneChat.title           "Razgovor">
 <!ENTITY paneAttachments.title    "Privici">
 <!ENTITY paneSecurity.title       "Sigurnost">
 <!ENTITY paneAdvanced.title       "Napredno">
