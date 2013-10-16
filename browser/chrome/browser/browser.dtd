@@ -672,6 +672,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "Permet i recorda">
 <!ENTITY pluginBlockNow.label "Bloca el connector">
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
 <!ENTITY tabCrashed.header "La pestanya ha fallat.">
 <!ENTITY tabCrashed.message "S'està intentant mostrar aquesta pàgina web, però no respon.">
 <!ENTITY tabCrashed.checkSendReport "Notifiqueu la fallada a &vendorShortName; per intentar solucionar-la">
