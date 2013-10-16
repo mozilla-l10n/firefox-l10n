@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Postavke slike">
 
 <!ENTITY pixelsPopup.value "pikseli">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "Lokacija slike:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Upiši naziv datoteke ili lokaciju">
@@ -23,9 +23,9 @@
 <!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Pregled slike">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Stvarna veličina:">
 <!ENTITY actualSizeRadio.label "Stvarna veličina">
 <!ENTITY actualSizeRadio.accessKey "a">
@@ -40,21 +40,21 @@
 <!ENTITY constrainCheckbox.label "Ograniči">
 <!ENTITY constrainCheckbox.accessKey "O">
 <!ENTITY constrainCheckbox.tooltip "Zadrži omjer između stranica slike">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Image Map">
 <!ENTITY removeImageMapButton.label "Ukloni">
 <!ENTITY removeImageMapButton.accessKey "U">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Poravnaj tekst uz sliku">
 <!ENTITY bottomPopup.value "Na dnu">
 <!ENTITY topPopup.value "Na vrhu">
 <!ENTITY centerPopup.value "U sredini">
 <!ENTITY wrapRightPopup.value "Omotaj na desno">
 <!ENTITY wrapLeftPopup.value "Omotaj na lijevo">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Razmak">
 <!ENTITY leftRightEditField.label "Lijevo i desno:">
 <!ENTITY leftRightEditField.accessKey "L">
@@ -62,15 +62,15 @@
 <!ENTITY topBottomEditField.accessKey "V">
 <!ENTITY borderEditField.label "Pun obrub:">
 <!ENTITY borderEditField.accessKey "b">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "Prikaži obrub oko slike sa poveznicom">
 <!ENTITY showImageLinkBorder.accessKey "b">
 <!ENTITY LinkAdvancedEditButton.label "Napredno uređivanje poveznice…">
 <!ENTITY LinkAdvancedEditButton.accessKey "N">
 <!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ili promijeni HTML atribute, atribute stila i JavaScript">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "Obrazac">
 <!ENTITY imageLocationTab.label "Lokacija">
 <!ENTITY imageDimensionsTab.label "Dimenzije">

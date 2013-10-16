@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Popis primatelja">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Dodaj u: ">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Upišite adrese e-pošte da biste ih dodali na popis primatelja:">
 <!ENTITY UpButton.label                 "Pomakni gore">
 <!ENTITY DownButton.label               "Pomakni dolje">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "D">
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "N">

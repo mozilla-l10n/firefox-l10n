@@ -7,8 +7,8 @@
 <!ENTITY itemPasswords.label     "Lozinke">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 <!ENTITY itemCookies.label       "Web sadržaj">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.">
 <!ENTITY manualMark.label "Kada označim poruke kao neželjenu poštu:">
 <!ENTITY manualMark.accesskey "K">
@@ -24,15 +24,15 @@
 <!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Vrati na početne postavke">
 <!ENTITY resetTrainingData.accesskey "r">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "&brandShortName; može analizirati poruke e-pošte kako bi otkrio prijevaru, tražeći tehnike koje se često koriste da bi vas zavarali.">
 <!ENTITY enablePhishingDetector1.label    "Obavjesti me ako se sumnja da je poruka koju čitam prijevara">
 <!ENTITY enablePhishingDetector1.accesskey  "O">
 <!ENTITY useDownloadedList.label "Koristi preuzeti popis sumnjivih prijevara e-pošte">
 <!ENTITY useDownloadedList.accesskey "K">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "&brandShortName; može zapamtiti lozinke za sve vaše račune.">
 <!ENTITY useMasterPassword.label        "Koristi glavnu lozinku">
 <!ENTITY useMasterPassword.accesskey    "u">
@@ -41,13 +41,13 @@
 <!ENTITY changeMasterPassword.accesskey "P">
 <!ENTITY savedPasswords.label           "Spremljene lozinke…">
 <!ENTITY savedPasswords.accesskey       "S">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "&brandShortName; može olakšati antivirusnim programima analizu primljenih poruka e-pošte na viruse prije nego se pohrane lokalno.">
 <!ENTITY antiVirus.label      "Dozvoli antivirusnim programima da izoliraju pojedine primljene poruke">
 <!ENTITY antiVirus.accesskey  "a">
-
 <!-- Cookies -->
+
 <!ENTITY cookies.intro                  "&brandShortName; vam omogućava da odredite kojim je blogovima, interesnim grupama i drugim web stranicama dozvoljeno postavljanje kolačića.">
 <!ENTITY acceptCookies.label            "Prihvati kolačiće od stranica">
 <!ENTITY acceptCookies.accesskey        "r">
@@ -60,7 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "I">
 <!ENTITY showCookies.label              "Prikaži kolačiće…">
 <!ENTITY showCookies.accesskey          "k">
-
 <!-- Do Not Track -->
+
 <!ENTITY doNotTrack.label               "Obavijesti web stranice da me ne prate">
 <!ENTITY doNotTrack.accesskey           "d">
