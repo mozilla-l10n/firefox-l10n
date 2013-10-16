@@ -44,6 +44,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTabs.label                "Restaurar ils tabs serrads">
 <!ENTITY  undoCloseTab.label                 "Restaurar il tab serrà">
 <!ENTITY  undoCloseTab.accesskey             "R">
 <!ENTITY  closeTab.label                     "Serrar il tab">
