@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Ponuka aplikácie">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Zobraziť hlavnú ponuku aplikácie &brandShortName;">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Zobraziť hlavnú ponuku aplikácie &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panel Kalendár">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Zobraziť panel Kalendár">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "Z">
