@@ -439,6 +439,7 @@
 <!ENTITY identity.runBy "que pertenece a">
 <!ENTITY identity.moreInfoLinkText "Más información…">
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.help.tooltip "¿Cómo averiguo si mi conexión a un sitio web es segura?">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
