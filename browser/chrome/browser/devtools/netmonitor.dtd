@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice2        "执行一项请求，或者重新载入此页面以查阅详细的网络活动信息。">
+<!ENTITY netmonitorUI.emptyNotice2        "请执行至少一项请求或重新载入此页面，以查阅详细的网络活动信息。">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->

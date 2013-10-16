@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh2  "仅当前会话，重新载入此页面">
+<!ENTITY options.context.triggersPageRefresh2  "仅当前会话，将重新载入此页面">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -51,7 +51,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label2    "禁用 JavaScript">
-<!ENTITY options.disableJavaScript.tooltip   "启用这个选项会对当前标签页禁用 JavaScript 。如果关闭了标签页或者工具箱，则这个设置就不再有效。">
+<!ENTITY options.disableJavaScript.tooltip   "启用这个选项将对当前标签页禁用 JavaScript 。如果关闭了该标签页或者工具箱，则这个设置就不再有效。">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
