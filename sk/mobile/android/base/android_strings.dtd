@@ -271,6 +271,11 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 
+<!ENTITY home_top_sites_title "Top stránky">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Pridať stránku">
+
 <!ENTITY home_history_title "História">
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
