@@ -49,7 +49,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; utilisescha servetschs d'infurmaziun a basa dal web (&quot;Servetschs&quot;) per ta porscher tschertas funcziuns che stattan a disposiziun en questa versiun binaria da &brandShortName; tenor las cundiziuns descrittas sutvart. Sche ti na vuls betg utilisar in u plirs da quests servetschs ni sche ti na sas betg acceptar las cundiziuns sutvart pos ti deactivar las funcziuns u ils servetschs. Instrucziuns che mussan co deactivar las funcziuns u ils servetschs pos ti chattar ">
 <!ENTITY rights2.webservices-b "qua">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Autras funcziuns e servetschs pon vegnir deactivads en las preferenzas da l'applicaziun.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">

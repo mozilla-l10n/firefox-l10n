@@ -22,6 +22,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Igl è simpel da persunalisar Firefox. <a>Millis da supplements stattan a disposiziun</a>.">
 
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; è ina software libra e da code avert da la fundaziun da non-profit Mozilla. <a>Davart tes dretgs…</a>">
+
 <!ENTITY abouthome.bookmarksButton.label "Segnapaginas">
 <!ENTITY abouthome.historyButton.label   "Cronologia">
 <!ENTITY abouthome.settingsButton.label  "Preferenzas">
