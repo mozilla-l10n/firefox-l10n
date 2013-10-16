@@ -73,6 +73,7 @@
 <!ENTITY projects.debugAppTooltip "Öppna utvecklarverktygen som är anslutna till appen">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Inga projekt. Lägg till en ny paketerad app nedan (en lokal mapp) eller en app på webben (länk till en manifest-fil).">
+<!ENTITY projects.manifestEditor "Manifesteditor">
 
 <!ENTITY help.title "Hantera appar">
 <!ENTITY help.close "Stäng">
