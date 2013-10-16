@@ -16,6 +16,12 @@
 <!ENTITY  manualUpdate.space.desc         "Ina actualisaziun da segirtad e stabilitad recumandada è disponibla, ma tes computer n'ha betg avunda capacitad da memorisar per installar ella.">
 <!ENTITY  manualUpdateGetMsg.label        "Ti obtegnas adina la pli nova versiun da &brandShortName; sut:">
 
+<!ENTITY  unsupported.title               "Sistem betg sustegnì">
+<!ENTITY  unsupported.label               "Tes &brandShortName; è antiquà, ma la versiun pli nova na vegn betg
+                                           pli sustegnida da tes sistem. Actualisescha tes sistem ed emprova anc 
+                                           ina giada. Quest messadi na vegn betg pli mussa, ti pos dentant">
+<!ENTITY  unsupportedLink.label           "retschaiver dapli infurmaziuns.">
+
 <!ENTITY  incompatibleCheck.title         "Controllar la cumpatibilitad dals supplements">
 <!ENTITY  incompatibleCheck.label         "Tschertgar novas versiuns da tes supplements…">
 

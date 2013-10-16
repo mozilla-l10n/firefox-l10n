@@ -82,6 +82,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "M">
 <!ENTITY cmd.disableTheme.label               "Demontar il design">
 <!ENTITY cmd.disableTheme.accesskey           "D">
+<!ENTITY cmd.askToActivate.label              "Dumandar per activar">
+<!ENTITY cmd.askToActivate.tooltip            "Dumandar tar mintga utilisaziun da quest supplement">
+<!ENTITY cmd.alwaysActivate.label             "Adina activar">
+<!ENTITY cmd.alwaysActivate.tooltip           "Adina utilisar quest supplement">
+<!ENTITY cmd.neverActivate.label              "Mai activar">
+<!ENTITY cmd.neverActivate.tooltip            "Mai utilisar quest supplement">
+<!ENTITY cmd.stateMenu.tooltip                "Midar cura che quest supplement vegn exequì">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Allontanar">
