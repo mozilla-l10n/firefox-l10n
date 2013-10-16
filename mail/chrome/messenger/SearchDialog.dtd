@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Opstelle">
 <!ENTITY composeButton.accesskey     "O">
+<!ENTITY deleteCardButton.label      "Fuortsmite">
+<!ENTITY deleteCardButton.accesskey  "F">
 <!ENTITY abSearchDialogTitle.label   "Adresboek wiidweidich trochsykje">
 
 <!-- Thread Pane -->
