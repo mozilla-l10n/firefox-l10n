@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
 <!ENTITY places.library.title  "Pirtûkxane">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -27,15 +27,11 @@
 <!ENTITY view.sortDescending.label      "Z > A Rêz Bike">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Di Bijareyan de Bibîne...">
-<!ENTITY cmd.findInBookmarks.accesskey  "D">
-<!ENTITY cmd.findCurrent.label          "Di Koleksiyona Niha de Bibîne...">
-<!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML'ê Derxe…">
-<!ENTITY cmd.exportHTML.accesskey       "e">
-<!ENTITY cmd.importHTML.label           "HTML'ê Bîne…">
-<!ENTITY cmd.importHTML.accesskey       "H">
+
+
+
+
 
 <!ENTITY cmd.backup.label               "Hilîne">
 <!ENTITY cmd.backup.accesskey           "H">
@@ -93,18 +89,6 @@
 
 <!ENTITY search.label                              "Lêgerîn:">
 <!ENTITY search.accesskey                          "L">
-
-<!ENTITY search.in.label                           "Di vê de bigere:">
-<!ENTITY search.scopeFolder.label                  "Peldanka Hilbijartî">
-<!ENTITY search.scopeFolder.accesskey              "P">
-<!ENTITY search.scopeBookmarks.label               "Bijare">
-<!ENTITY search.scopeBookmarks.accesskey           "B">
-<!ENTITY search.scopeDownloads.label               "Yên hatine daxistin">
-<!ENTITY search.scopeDownloads.accesskey           "d">
-<!ENTITY search.scopeHistory.label                 "Mêjû">
-<!ENTITY search.scopeHistory.accesskey             "M">
-<!ENTITY saveSearch.label                          "Guherandinan Tomar Bike">
-<!ENTITY saveSearch.accesskey                      "T">
 
 <!ENTITY cmd.find.key  "F">
 

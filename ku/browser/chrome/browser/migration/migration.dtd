@@ -13,14 +13,12 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Tu tiştî veneguhêze hundir">
 <!ENTITY importFromNothing.accesskey    "d">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 an jî Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromHTMLFile.label       "Ji Peleke HTML'ê">
-<!ENTITY importFromHTMLFile.accesskey   "J">
+
+
+
+
 
 <!ENTITY noMigrationSources.label       "Tu bernameyeke ku bijare, mêjû an jî nasnav di xwe de dihewîne nehat dîtin">
 

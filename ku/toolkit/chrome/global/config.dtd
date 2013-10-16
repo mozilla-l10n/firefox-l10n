@@ -3,29 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
-
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
 <!ENTITY aboutWarningTitle.label "Dibe ku ev garantiya te nederbasdar bike!">
 <!ENTITY aboutWarningText.label "Guherandina nirxên standard ên pêşkeftî dibe ku hevgirtin, ewlekarî û bikêrhatina vê sepanê kêm bike. Heke zanibî ka tu çi dikî, bidomîne.">
 <!ENTITY aboutWarningButton.label "Ez ê hişyar tev bigerim, bi qewlê mêrên berê!">
 <!ENTITY aboutWarningCheckbox.label "Vê hişyarkirinê careke din nîşan bide">
 
-<!ENTITY filterPrefs.label "Fîltre:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "F">
+
 
 <!-- Columns -->
+
 <!ENTITY prefColumn.label "Navê Mîhengê">
 <!ENTITY lockColumn.label "Rewş">
 <!ENTITY typeColumn.label "Cure">
 <!ENTITY valueColumn.label "Nirx">
-
 <!-- Tooltips -->
+
 <!ENTITY prefColumnHeader.tooltip "Ji bo rêzkirinê bitikîne"> 
 <!ENTITY columnChooser.tooltip "Ji bo nîşandana stûnan bitikîne"> 
-
 <!-- Context Menu -->
+
 <!ENTITY copyPref.key "j">
 <!ENTITY copyPref.label "Kopîkirin">
 <!ENTITY copyPref.accesskey "K">

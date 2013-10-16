@@ -60,14 +60,14 @@
 <!ENTITY minSize.label                            "Mezinahiya nivîsê ya herî biçûk:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Ne yek jî">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Ji bilî yên ku min hilbijartine, destûrê bide malperan da ku cureyên nivîsên xwe bikar bînin.">
 <!ENTITY  allowPagesToUse.accesskey               "s">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Kodkirina Karakteran">
-<!ENTITY languages.customize.DefaultCharset.label       "Kodkirina karakteran a pêşsalixbûyî:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "K">
+
+
+

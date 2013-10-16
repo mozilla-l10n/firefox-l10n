@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,24 +14,26 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
-
 <!-- Tab context menu -->
+
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Hemû hilpekînan ji nû ve bar bike">
 <!ENTITY  reloadAllTabs.accesskey            "H">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
 <!ENTITY  closeOtherTabs.label               "Hilpekînên din bigire">
 <!ENTITY  closeOtherTabs.accesskey           "d">
-
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pina wekî App Tabê">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Pina hilpekînê veke">
-<!ENTITY  unpinAppTab.accesskey              "P">
+
+
+
 <!ENTITY  moveToGroup.label                  "Biguhêze komê">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Koma nû">
@@ -41,6 +43,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
 <!ENTITY  undoCloseTab.accesskey             "H">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Hilpekînê bigire">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -48,7 +54,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Hilpekîna Nû">
 <!ENTITY tabCmd.accesskey "H">
-<!ENTITY tabCmd.commandkey "t">
+
 <!ENTITY openLocationCmd.label "Cih Veke...">
 <!ENTITY openLocationCmd.accesskey "C">
 <!ENTITY openFileCmd.label "Pelê Veke...">
@@ -61,8 +67,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Çapkirin…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Têxê…">
-<!ENTITY import.accesskey "T">
 
 <!ENTITY goOfflineCmd.label "Negirêdayî Bixebite">
 <!ENTITY goOfflineCmd.accesskey "x">
@@ -70,21 +74,23 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Darikê Pêşekê">
 <!ENTITY menubarCmd.accesskey "D">
 <!ENTITY navbarCmd.label "Darikê Amûran a Gerê">
-<!ENTITY navbarCmd.accesskey "a">
 <!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
-<!ENTITY personalbarCmd.accesskey "a">
+<!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
-<!ENTITY addonBarCmd.label "Darikê Add-onan">
-<!ENTITY addonBarCmd.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
 <!ENTITY pageSourceCmd.accesskey "a">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Agahiyên Rûpelê">
 <!ENTITY pageInfoCmd.accesskey "A">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+
+
+
 <!ENTITY fullScreenCmd.label "Dîmenter Tijî">
-<!ENTITY fullScreenCmd.accesskey "t">
+<!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "F">
 <!ENTITY showAllTabsCmd.label "Hemû Hilpekînan Nîşan Bide">
 <!ENTITY showAllTabsCmd.accesskey "a">
@@ -96,6 +102,11 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "D">
 <!ENTITY fullScreenExit.label "Ji Moda Dîmender Tijî derkeve">
 <!ENTITY fullScreenExit.accesskey "J">
+<!ENTITY fullscreenAllowButton.label "Destûrê bide">
+
+
+
+
 
 <!ENTITY closeWindow.label "Paceyê Bigire">
 <!ENTITY closeWindow.accesskey "P">
@@ -104,11 +115,23 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Vê Rûpelê Têxe Nava Bijareyan...">
 <!ENTITY bookmarkThisPageCmd.commandkey "D">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
 <!ENTITY showAllBookmarks2.label "Hemû bijareyan nîşan bide">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
 <!ENTITY backCmd.label                "Paş">
@@ -117,6 +140,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Pêş">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Rûpelek here pêş">
+
+
 <!ENTITY reloadCmd.label              "Ji NûVe Bar Bike">
 <!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY reloadButton.tooltip         "Rûpela derbasdar nû bike">
@@ -131,40 +156,30 @@ can reach it easily. -->
 <!ENTITY backForwardItem.title        "Paşve/Pêşve">
 <!ENTITY locationItem.title           "Cih">
 <!ENTITY searchItem.title             "Lêgerîn">
-<!ENTITY throbberItem.title           "Şanîkera çalakiyan">
 <!ENTITY bookmarksItem.title          "Bijare">
-
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Pêşek">
-<!ENTITY appMenuButton.tooltip        "Pêşeka &brandShortName;ê veke">
+
 <!ENTITY homeButton.label             "Serûpel">
 
 <!ENTITY tabGroupsButton.label        "Komên hilpekînan">
 <!ENTITY tabGroupsButton.tooltip      "Hilpekînan li koman dabeş bike">
 
-<!ENTITY feedButton.label             "Bibe abone">
-<!ENTITY feedButton.tooltip           "Bibe abone ji bo vê rûpelê...">
-
 <!ENTITY bookmarksButton.label          "Bijare">
-<!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
-<!ENTITY bookmarksButton.accesskey  "B">
-<!ENTITY bookmarksCmd.commandkey "b">
+
 
 <!ENTITY bookmarksMenuButton.label          "Bijare">
 <!ENTITY bookmarksMenuButton.tooltip        "Bijareyên xwe bibîne">
 <!ENTITY bookmarksMenuButton.unsorted.label "Bijareyên nehatî rêzkirin">
 <!ENTITY viewBookmarksSidebar.label         "Di Darikê Kêlekê de Nîşan Bide">
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Dîrok">
-<!ENTITY historyButton.tooltip          "Malperên ku di dîrokê de hatine vekirin bibîne">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Amûr">
@@ -172,12 +187,11 @@ can reach it easily. -->
 
 <!ENTITY keywordfield.label           "Ji bo lêgerînê peyveke kilît lê zêde bike...">
 <!ENTITY keywordfield.accesskey       "k">
-<!ENTITY search.label                 "Lêgerîna di webê de">
-<!ENTITY search.accesskey             "L">
+
 <!ENTITY downloads.label              "Yên hatine daxistin">
 <!ENTITY downloads.tooltip            "Rewşa daxistinên pelan nîşan bide">
 <!ENTITY downloads.accesskey          "d">
-<!ENTITY downloads.commandkey         "J">
+
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Add-on">
 <!ENTITY addons.accesskey             "A">
@@ -186,17 +200,20 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keytext          "F12">
+
+
+
 <!ENTITY errorConsoleCmd.label        "Konsola Çewtiyê">
 <!ENTITY errorConsoleCmd.accesskey    "K">
-<!ENTITY errorConsoleCmd.commandkey   "J">
 
-<!ENTITY webConsoleCmd.label          "Konsola Webê">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Venêre">
-<!ENTITY inspectMenu.accesskey        "V">
-<!ENTITY inspectMenu.commandkey       "I">
+
+
+
+
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -208,27 +225,26 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
 <!ENTITY scratchpad.label             "Scratchpad">
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Venêre">
-<!ENTITY inspectButton.accesskey      "V">
-<!ENTITY inspectNextButton.label      "Pêş">
-<!ENTITY inspectNextButton.accesskey  "P">
-<!ENTITY inspectPreviousButton.label  "Paşve">
-<!ENTITY inspectPreviousButton.accesskey "a">
-<!ENTITY inspectStyleButton.label     "Teşe">
-<!ENTITY inspectStyleButton.accesskey "T">
-<!ENTITY inspectStylePanelTitle.label  "Teşe">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Bireser">
-<!ENTITY inspectObjectButton.accesskey   "B">
+
+
+
+
+
+<!ENTITY devToolbar.keytext                "F2">
+
+
+
+
+
+
 
 <!ENTITY getMoreDevtoolsCmd.label        "Zêdetir amûr bîne">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -236,8 +252,10 @@ can reach it easily. -->
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
 <!ENTITY newNavigatorCmd.label        "Paceya Nû">
-<!ENTITY newNavigatorCmd.key        "n">
+
 <!ENTITY newNavigatorCmd.accesskey      "y">
+
+
 
 <!ENTITY editMenu.label         "Serastkirin"> 
 <!ENTITY editMenu.accesskey       "S"> 
@@ -251,13 +269,13 @@ can reach it easily. -->
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "J"> 
 <!ENTITY copyCmd.label            "Kopîkirin">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Pêve bike">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Jêbirin">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "b"> 
 <!ENTITY selectAllCmd.label         "Gişî hilbijêre">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -268,13 +286,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "V"> 
 
 <!ENTITY clearRecentHistory.label               "Mêjûya Nêz Paqij Bike…">
-<!ENTITY clearRecentHistory.accesskey           "M">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Dest bi Gera Nepen bike">
-<!ENTITY privateBrowsingCmd.start.accesskey     "D">
-<!ENTITY privateBrowsingCmd.stop.label          "Gera Ewle Bi Dawî Bike">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "G">
 <!ENTITY privateBrowsingCmd.commandkey          "H">
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
@@ -282,13 +294,11 @@ can reach it easily. -->
 <!ENTITY viewTabGroups.label            "Komên hilpekînan">
 <!ENTITY viewTabGroups.accesskey        "K">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
-<!ENTITY viewToolbarsMenu.accesskey     "a"> 
+<!ENTITY viewToolbarsMenu.accesskey     "A"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
 <!ENTITY viewSidebarMenu.accesskey "Q">
 <!ENTITY viewCustomizeToolbar.label       "Taybet Bike"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
-<!ENTITY viewTabsOnTop.label            "Hilpekîn li Jorê">
-<!ENTITY viewTabsOnTop.accesskey        "H">
 
 <!ENTITY historyMenu.label "Dîrok">
 <!ENTITY historyMenu.accesskey "D">
@@ -297,26 +307,15 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Pencereyên di nêzîk de hatine girtin">
 <!ENTITY historyRestoreLastSession.label "Danişîna berê veava bike">
 
-<!ENTITY historyHomeCmd.label "Serûpel">
 <!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
-<!ENTITY showAllHistoryCmd.commandkey "A">
 
-<!ENTITY appMenuEdit.label "Serastkirin">
+
 <!ENTITY appMenuCustomize.label "Takekes bike">
-<!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
-<!ENTITY appMenuSidebars.label "Darikên kêlekê">
-<!ENTITY appMenuFind.label "Lêgerîn…">
-<!ENTITY appMenuUnsorted.label "Bijareyên tomarnebûyî">
-<!ENTITY appMenuWebDeveloper.label "Pêşdebirê webê">
-<!ENTITY appMenuGettingStarted.label "Destpêkirin">
-<!ENTITY appMenuSafeMode.label "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
-<!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Here Malperekê">
+
 <!ENTITY urlbar.accesskey             "D">
 <!ENTITY urlbar.switchToTab.label     "Derbasî hilpekînê bibe:">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -327,6 +326,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -336,7 +336,9 @@ can reach it easily. -->
   for people to switch to Linux.
 
  -->
+
 <!ENTITY searchFocus.commandkey       "K">
+
 <!ENTITY searchFocusUnix.commandkey   "J">
 
 <!ENTITY tabView.commandkey           "e">
@@ -345,10 +347,12 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "H">
 <!ENTITY openLinkCmd.label            "Girêdanê Di Paceyeke Nû De Veke">
 <!ENTITY openLinkCmd.accesskey        "P">
+
+
 <!ENTITY openLinkCmdInCurrent.label     "Lînkê veke">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">
 <!ENTITY openFrameCmdInTab.label      "Çarçoveyê Di Hilpekîneke Nû De Veke">
-<!ENTITY openFrameCmdInTab.accesskey  "v">
+<!ENTITY openFrameCmdInTab.accesskey  "V">
 <!ENTITY openFrameCmd.label           "Çarçoweyê Di Paceyeke Nû De Veke">
 <!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Tenê Vê Çarçoveyê Nîşan Bide">
@@ -375,6 +379,8 @@ can reach it easily. -->
 <!ENTITY viewImageCmd.accesskey       "W">
 <!ENTITY viewImageInfoCmd.label       "Agahiyên Wêneyî Nîşan Bide">
 <!ENTITY viewImageInfoCmd.accesskey   "A">
+
+
 <!ENTITY viewVideoCmd.label           "Vîdeoyê Nîşan Bide">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Wêneyê Rûerdê Nîşan Bide">
@@ -387,33 +393,35 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "e">
 <!ENTITY bookmarkThisFrameCmd.label      "Vê Çarçoveyê Têxe Nava Bijareyan...">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "y">
-<!ENTITY sendPageCmd.label            "Girêdanê Bişeyîne...">
-<!ENTITY sendPageCmd.accesskey        "G">
+
+
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "H">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Çarçoveyê Cuda Tomar Bike...">
 <!ENTITY saveFrameCmd.accesskey       "T">
 <!ENTITY printFrameCmd.label          "Çarçoveyê Çap Bike...">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Cuda Tomar Bike...">
 <!ENTITY saveLinkCmd.accesskey        "C">
-<!ENTITY sendLinkCmd.label            "Girêdanê Bişeyîne..."> 
-<!ENTITY sendLinkCmd.accesskey        "G">
 <!ENTITY saveImageCmd.label           "Wêneyê Cuda Tomar Bike...">
 <!ENTITY saveImageCmd.accesskey       "W">
 <!ENTITY saveVideoCmd.label           "Vîdeoyê Cuda Tomar Bike…">
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Audîoyê Cuda Tomar Bike…">
 <!ENTITY saveAudioCmd.accesskey       "A">
-<!ENTITY sendImageCmd.label           "Wêneyê Bişeyîne">
-<!ENTITY sendImageCmd.accesskey       "W">
-<!ENTITY sendVideoCmd.label           "Vîdeoyê Bişîne…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Audîoyê Bişîne…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY copyLinkCmd.label            "Ciyê Girêdanê Ji Ber Bigire">
 <!ENTITY copyLinkCmd.accesskey        "B">
 <!ENTITY copyImageCmd.label           "Ciyê Wêneyê Ji Ber Bigire">
@@ -428,16 +436,37 @@ can reach it easily. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Çarçoveya Derbasdar">
 <!ENTITY thisFrameMenu.accesskey          "D">
-
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "Lêdan">
 <!ENTITY mediaPlay.accesskey         "L">
 <!ENTITY mediaPause.label            "Rawestîne">
 <!ENTITY mediaPause.accesskey        "R">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Bêdeng">
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Bideng">
 <!ENTITY mediaUnmute.accesskey       "B">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Kontrolan Nîşan Bide">
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Kontrolan Veşêre">
@@ -446,16 +475,24 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "t">
 
 
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+
+
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "Mezinahiya nivîsê mezin bike">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Mezinahiya nivîsê biçûk bike">
@@ -477,15 +514,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Paceyeke Nû Veke">
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
 
-<!ENTITY cutButton.tooltip              "Jê bike">
-<!ENTITY copyButton.tooltip             "Kopîkirin">
-<!ENTITY pasteButton.tooltip            "Pêve bike">
-
 <!ENTITY fullScreenButton.tooltip       "Paceyê dîmender tijî nîşan bide">
-
-<!ENTITY zoomOutButton.tooltip          "Biçûk bike">
-<!ENTITY zoomInButton.tooltip           "Mezin bike">
-<!ENTITY zoomControls.label             "Kontrola zoomê">
 
 <!ENTITY quitApplicationCmdWin.label       "Derkeve"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">
@@ -494,10 +523,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Derkeve"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac.label    "Derkeve">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Girtin">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "G">
 
 <!ENTITY pageStyleMenu.label "Teşeyê Rûpelê">
@@ -519,7 +548,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "ê">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Bibore Rêveberiya Rûpelê">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "r">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "R">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Bibore Rêveberiya Deqan">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "q">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -529,7 +558,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.label  "Ji nû ve lê bigere">
 <!ENTITY findAgainCmd.accesskey "J">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Ferhengan têxê...">
@@ -537,7 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Temam">
 <!ENTITY editBookmark.cancel.label                   "Betal">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
 <!ENTITY identity.connectedTo "Bi vê ve hatî girêdan">
@@ -556,15 +585,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Der barê vê malperê de zêdetir agahî bide min...">
 
-<!ENTITY downloadMonitor2.tooltip "Ji bo vekirina paceya daxistinan bitikîne">
-
-<!ENTITY allTabs.filter.emptyText "Li Hilpekînan Bigere">
+<!ENTITY identity.permissions "Destûr">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Hilpekînên gerokê">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Hilpekînên ji komputerên din">
+<!ENTITY tabsToolbar.label "Hilpekînên gerokê">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -574,5 +600,83 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "s">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Darikê amûran bigire">
-<!ENTITY toggleAddonBarCmd.key        "/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY social.closeNotificationItem.label "Ne niha">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+
+
+<!ENTITY tabCrashed.tryAgain "Dîsa Biceribîne">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "A">
+<!ENTITY addonBarCmd.label             "Darikê Add-onan">
+<!ENTITY addonBarCmd.accesskey         "D">
+<!ENTITY throbberItem.title            "Şanîkera çalakiyan">
+<!ENTITY appMenuButton.label           "Pêşek">
+<!ENTITY appMenuButton.tooltip         "Pêşeka &brandShortName;ê veke">
+<!ENTITY feedButton.label              "Bibe abone">
+<!ENTITY feedButton.tooltip            "Bibe abone ji bo vê rûpelê...">
+<!ENTITY bookmarksButton.tooltip       "Bijareyên xwe bibîne">
+<!ENTITY historyButton.tooltip         "Malperên ku di dîrokê de hatine vekirin bibîne">
+<!ENTITY viewTabsOnTop.label           "Hilpekîn li Jorê">
+<!ENTITY viewTabsOnTop.accesskey       "H">
+<!ENTITY appMenuEdit.label             "Serastkirin">
+<!ENTITY appMenuToolbarLayout.label    "Bicîbûna Darikê Amûran…">
+<!ENTITY appMenuSidebars.label         "Darikên kêlekê">
+<!ENTITY appMenuFind.label             "Lêgerîn…">
+<!ENTITY appMenuUnsorted.label         "Bijareyên tomarnebûyî">
+<!ENTITY appMenuWebDeveloper.label     "Pêşdebirê webê">
+<!ENTITY appMenuGettingStarted.label   "Destpêkirin">
+<!ENTITY appMenuSafeMode.label         "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
+<!ENTITY appMenuSafeMode.accesskey     "r">
+<!ENTITY cutButton.tooltip             "Jê bike">
+<!ENTITY copyButton.tooltip            "Kopîkirin">
+<!ENTITY pasteButton.tooltip           "Pêve bike">
+<!ENTITY zoomOutButton.tooltip         "Biçûk bike">
+<!ENTITY zoomInButton.tooltip          "Mezin bike">
+<!ENTITY zoomControls.label            "Kontrola zoomê">
+<!ENTITY addonBarCloseButton.tooltip   "Darikê amûran bigire">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

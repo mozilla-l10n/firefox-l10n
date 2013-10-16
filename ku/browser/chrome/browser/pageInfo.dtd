@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -60,13 +58,8 @@
 <!ENTITY  permAllowSession      "Ji bo daniştinê destûrê bidê">
 <!ENTITY  permBlock             "Asteng Bike">
 <!ENTITY  permissionsFor        "Destûrê ji bo:">
-<!ENTITY  permImage             "Wêneyê Bar Bike">
-<!ENTITY  permPopup             "Paceya Hilpekîn Veke">
-<!ENTITY  permCookie            "Çerezan serast bike">
-<!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
-<!ENTITY  permGeo               "Cih parve bike">
 
-<!ENTITY  permIndexedDB              "Dewamkirina Hilanîna Negirêdayî">
+
 <!ENTITY  permClearStorage           "Tomargehê paqij bike">
 <!ENTITY  permClearStorage.accesskey "T">
 
@@ -75,8 +68,7 @@
 <!ENTITY  securityHeader        "Agahiyên ewlekariyê yên rûpelê">
 <!ENTITY  securityView.certView "Sertîfîkayê Nîşan Bide">
 <!ENTITY  securityView.accesskey "B">
-<!ENTITY  securityView.unknown   "_: 
-Nayê Zanîn">
+<!ENTITY  securityView.unknown   "Nayê Zanîn">
 
 
 <!ENTITY  securityView.identity.header   "Nasnameya Malperê">

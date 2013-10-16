@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title  "Nasnavê Rêvebiriyê Biguherîne">
 <!ENTITY setPassword.tokenName.label "Amûrê Ewlekariyê">
 <!ENTITY setPassword.oldPassword.label "Nasnavê Niha:">
@@ -10,22 +10,22 @@
 <!ENTITY setPassword.reenterPassword.label "Nasnavê nû (dubare):">
 <!ENTITY setPassword.meter.label "Kalîteya nasnavê diguhere">
 <!ENTITY setPassword.meter.loading "Tê barkirin">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Reset Bike">
 <!ENTITY resetPassword.title  "Şîfreya Bingehîn Vala Bike">
 <!ENTITY resetPassword.text  "Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavên te yên Web û E-Peyamê, agahiyên te yên Formê, sertîfîkayên te yên kesane û kilîta te ya taybet dê winda bibin. Dixwazî nasnavê xwe yê rêvebiriyê vala bikî?">
-
 <!-- Values for getpassword.xul -->
+
 <!ENTITY getPassword.title  "Nasnavê xwe yê rêvebiriyê têkevê">
 <!ENTITY getPassword.tokenName2.label "Cîhaza Ewlekariyê:">
 <!ENTITY getPassword.password.label "Şîfre:">
-
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Xeletî">
 <!ENTITY pipalert.title "Çewtî - Nehat serastkirin">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Ewlekarî">
 <!ENTITY pref.security.general.rHeader "Mîhengên ewlekariya giştî">
 <!ENTITY pref.security.general.header "Mîhengên ewlekariya giştî">
@@ -33,8 +33,8 @@
 <!ENTITY pref.security.general.paranoid.label "Mîhengên ewlekariya paranoid bikar bîne">
 <!ENTITY pref.security.general.certificates.title "Sertîfîka">
 <!ENTITY pref.security.general.manageCert.label "Sertîfîkayan bi rê ve bibe">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Sertîfîka tê daxistin">
 <!ENTITY downloadCert.message1 "Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.">
 <!ENTITY downloadCert.trustSSL "Ev CA ji bo diyarkirina malperan ewle ye.">
@@ -45,18 +45,14 @@
 <!ENTITY downloadCert.viewPolicy.label "Ewlekarî">
 <!ENTITY downloadCert.viewCert.text "Sertîfîkaya CA 'yê kontrol bike">
 <!ENTITY downloadCert.viewPolicy.text "Polîçe û Prosedura CA 'ê kontrol bike">
-
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Sertîfîka heye">
-<!ENTITY caCertExists.message "Ev sertîfîka berê hatiye tomarkirin.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Lêpirsîna Diyarkirina Bikarhêner">
 <!ENTITY clientAuthAsk.message1 "Ev herêm diyarkirina sertîfîkaya te dixwaze:">
 <!ENTITY clientAuthAsk.message2 "Sertîfîkaya ku dê di nasînê de bê bikaranîn hilbijêre:">
 <!ENTITY clientAuthAsk.message3 "Kitekitên sertîfîkaya hatî hilbijartin:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Sertîfîka hilbijêre">
 <!ENTITY certPicker.info  "Sertîfîka:">
 <!ENTITY certPicker.detailsLabel "Kitekitên sertîfîkaya hatî hilbijartin:">
@@ -79,20 +75,18 @@
 <!ENTITY escrowWarn.message2 "Heke kilîtate ya taybet a ku ji hêla peywirdarê sertîfîkayê ve hatiye nasnavkirin winda bibe, peywirdara sertîfîkayê dikare E-Peyam û dokumenên te yên binasnav bêyî destûra te bixwîne.">
 <!ENTITY examineCert.label "Sertîfîkayê Nîşan Bide">
 <!ENTITY examineCert.accesskey "S">
-
-<!ENTITY serverCrlNextupdate.message "Ji kerema xwe ji bo alîkariyê serî li rêvebira pergala xwe bide.">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Kilîteke taybet biafirîne">
 <!ENTITY createCertInfo.msg1 "Kilît tê afirandin...Dibe ku ev kar demeke dirêj bajo...">
 <!ENTITY createCertInfo.msg2 "Ji kerema xwe li bendê be...">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Xwestina Têketina Deqê">
 <!ENTITY formSigning.cert "Sertîfîkayên bişanenav">
 <!ENTITY formSigning.confirmPassword "Ji bo ku bi sertîfîkaya ku te hilbijartiye şanenava xwe deynî ser vê deqê nasnavê xwe yê bilind bingehîn erê bike:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "HNW">
 <!ENTITY protectedAuth.msg "HNW">
 <!ENTITY protectedAuth.tokenName.label "HNW">
