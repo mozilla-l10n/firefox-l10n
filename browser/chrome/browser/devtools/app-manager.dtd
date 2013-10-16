@@ -25,6 +25,7 @@
 <!ENTITY device.allow "Permitir">
 <!ENTITY device.allowTooltip "Este permiso es permitido para apps de este tipo.">
 <!ENTITY device.prompt "Preguntar">
+<!ENTITY device.promptTooltip "Este permiso requiere una pregunta al usuario para apps de este tipo.">
 <!ENTITY device.promptTooltip "Este permiso requiere una consulta al usuario para apps de este tipo
 <!ENTITY device.deny "Denegar">
 <!ENTITY device.denyTooltip "Este permiso es denegado para apps de este tipo.">
@@ -38,7 +39,6 @@
 <!ENTITY connection.disconnect "Desconectar">
 <!ENTITY connection.disconnectTooltip "Desconectarse del dispositivo o simulador actual.">
 
-<!ENTITY connection.showDeviceCtrlCenter "Clic para más detalles">
 <!ENTITY connection.notConnected2 "No conectado.">
 <!ENTITY connection.connectTo "Conectar a:">
 <!ENTITY connection.noDeviceFound "No se encontró ningún dispositivo. Conecte uno">
@@ -55,7 +55,7 @@
 <!ENTITY connection.cancelShowSimulatorTooltip "Sale del modo de conexión al Simulador y regresa al la línea de comandos inicial.">
 <!ENTITY connection.or "o">
 <!ENTITY connection.noSimulatorInstalled "No hay un simulador instalado.">
-<!ENTITY connection.installFirstSimulator "Instalar simulador.">
+<!ENTITY connection.installOneSimulator "Instalar simulador">
 <!ENTITY connection.installOneSimulatorTooltip "Instala una versión del Simulador descargando el complemento relevante.">
 <!ENTITY connection.installAnotherSimulator "Añadir">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instala una versión adicional del Simulador descargando el complemento relevante.">
@@ -74,7 +74,8 @@
 <!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Abrir las Herramientas de desarrollador conectadas a esta app">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProject "No hay proyecto enlazado. Añadir un nuevo paquete a continuación (un directorio) o una app hospedada (enlace a un archivo manifest).">
+<!ENTITY projects.noProjects "No hay proyectos. Añada una nueva app empaquetada a continuación (un directorio local) o una app hospedada (enlace a un archivo manifest).">
+<!ENTITY projects.manifestEditor "Editor de archivo Manifest">
 
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
