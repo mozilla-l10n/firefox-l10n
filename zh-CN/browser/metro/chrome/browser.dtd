@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label   "打开错误控制台">
 <!ENTITY appbarJSShell.label        "打开 JavaScript shell 脚本">
 <!ENTITY appbarFindInPage2.label    "在当前页查找">
-<!ENTITY appbarViewOnDesktop2.label "在桌面查看">
+<!ENTITY appbarViewOnDesktop2.label "在桌面版中查看">
 
 <!ENTITY topSitesHeader.label        "热门网站">
 <!ENTITY bookmarksHeader.label       "书签">
@@ -73,7 +73,7 @@
 <!-- LINK CONTEXT MENU -->
 <!ENTITY contextOpenLinkTab.label          "在新标签页中打开链接">
 <!ENTITY contextCopyLinkHref.label         "复制链接">
-<!ENTITY contextBookmarkLinkHref.label     "收藏链接">
+<!ENTITY contextBookmarkLinkHref.label     "将此链接加为书签">
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"

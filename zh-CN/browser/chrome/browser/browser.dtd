@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "下载">
-<!ENTITY downloads.tooltip            "显示正在下载项目的进度">
+<!ENTITY downloads.tooltip            "显示下载项的进度">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -670,6 +670,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "本次允许">
 <!ENTITY pluginActivateAlways.label "长期允许">
 <!ENTITY pluginBlockNow.label "屏蔽插件">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "标签页已崩溃">
 <!ENTITY tabCrashed.message "很抱歉，我们试图显示这个网页，但它没有响应。">

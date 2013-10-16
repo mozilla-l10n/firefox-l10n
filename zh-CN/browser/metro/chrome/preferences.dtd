@@ -9,7 +9,7 @@
 <!ENTITY optionsHeader.title                                     "选项">
 <!ENTITY optionsHeader.startup.title                             "启动">
 <!ENTITY optionsHeader.homepage.title                            "&brandShortName; 启动时显示">
-<!ENTITY optionsHeader.homepage.startPage.button                 "起始页">
+<!ENTITY optionsHeader.homepage.startPage.button                 "开始页">
 <!ENTITY optionsHeader.homepage.sessionRestore.button            "最后一次的标签页">
 <!ENTITY optionsHeader.char.title                                "字符编码">
 <!ENTITY optionsHeader.char.autodetect.label                     "自动检测">

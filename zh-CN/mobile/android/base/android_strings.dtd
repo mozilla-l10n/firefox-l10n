@@ -270,6 +270,11 @@ size. -->
 <!ENTITY button_set "设置">
 <!ENTITY button_clear "清空">
 
+<!ENTITY home_top_sites_title "热门网站">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "添加站点">
+
 <!ENTITY home_history_title "历史">
 <!ENTITY home_last_tabs_title "上次的标签页">
 <!ENTITY home_last_tabs_open "打开上一次的所有标签页">
