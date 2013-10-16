@@ -1,0 +1,77 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+
+
+<!-- J-PAKE Key Screen -->
+
+
+
+
+
+
+
+
+<!-- J-PAKE Waiting Screen -->
+<!-- Account Login Screen -->
+<!ENTITY sync.input.username.label "Account Name">
+<!ENTITY sync.input.password.label "Password">
+
+<!ENTITY sync.checkbox.server.label "Use custom server">
+<!ENTITY sync.input.server.label "Server URL">
+<!-- Setup Fail -->
+
+<!ENTITY sync.button.tryagain.label "Try again">
+
+
+
+
+<!-- Setup Success -->
+
+
+
+<!-- Pair Device -->
+
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!-- Configure Engines -->
+
+
+
+
+
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Cancel">
+<!ENTITY sync.button.connect.label "Connect">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.places.label ''>
+
+
+
+
+
+
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!-- Notification strings -->
+
+<!-- Incorrect settings and changing credentials. -->
+
+
+
+<!-- Send tab to device. -->
+
+
+
+
+
+
