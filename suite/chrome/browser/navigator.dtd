@@ -57,7 +57,7 @@
 <!ENTITY throbber.tooltip             "Vés a la pàgina inicial de &vendorShortName;">
 
 <!ENTITY locationBar.tooltip          "Introduïu el terme, paraula clau o adreça web per cercar">
-<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.accesskey        "U">
 <!ENTITY locationBar.title            "Ubicació">
 <!ENTITY proxyIcon.tooltip            "Arrossega i deixa anar aquesta icona per crear un enllaç en aquesta pàgina">
 

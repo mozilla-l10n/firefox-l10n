@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Opcions">
+<!ENTITY optionsHeader.startup.title                             "Inici">
+<!ENTITY optionsHeader.homepage.title                            "En iniciar el &brandShortName;, mostra">
+<!ENTITY optionsHeader.homepage.startPage.button                 "la pàgina d'inici">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "les pestanyes de l'última vegada">
+<!ENTITY optionsHeader.char.title                                "Codificació de caràcters">
+<!ENTITY optionsHeader.char.autodetect.label                     "Detecció automàtica">
+<!ENTITY optionsHeader.char.options.label                        "Mostra les opcions de codificació a la barra d'aplicacions">
+
+<!ENTITY clearPrivateData.title                                  "Neteja les dades privades">
+<!ENTITY clearPrivateData.label                                  "Neteja l'historial de navegació, contrasenyes, galetes i dades de formularis en aquest dispositiu">
+<!ENTITY clearPrivateData.button                                 "Neteja">
+<!ENTITY clearPrivateData.done                                   "Fet!">
+<!ENTITY clearPrivateData.history                                "Historial de navegació">
+<!ENTITY clearPrivateData.otherdata                              "Altres dades (contrasenyes, memòria cau, galetes, etc.)">
+<!ENTITY clearPrivateData.downloadHist                           "Historial de baixades">
+<!ENTITY clearPrivateData.cookies                                "Galetes">
+<!ENTITY clearPrivateData.cache                                  "Memòria cau">
+<!ENTITY clearPrivateData.sitePref                               "Preferències del lloc">
+<!ENTITY clearPrivateData.formSearchHist                         "Historial de formularis i cerques">
+<!ENTITY clearPrivateData.passwords                              "Contrasenyes desades">
+<!ENTITY clearPrivateData.offline                                "Dades de llocs web fora de línia">
+<!ENTITY clearPrivateData.logins                                 "Sessions actives">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Recorda les contrasenyes">
+<!ENTITY doNotTrack.title                                        "No vull que se'm segueixi">
+<!ENTITY doNotTrack.desc                                         "Fes saber als llocs web que:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "No vull que se'm segueixi">
+<!ENTITY doNotTrack.options.noPreference                         "No els comuniquis les meves preferències de seguiment">
+<!ENTITY doNotTrack.options.trackingOkay                         "Vull que se'm segueixi">
+<!ENTITY optionsHeader.reporting.title                           "Informe de fallada">
+<!ENTITY optionsHeader.reporting.crashes.label                   "El &brandShortName; tramet informes de fallada per ajudar a Mozilla a fer el navegador més estable i segur">
+<!ENTITY optionsHeader.telemetry.title                            "Telemesura">
+<!ENTITY optionsHeader.telemetry.label                            "Comparteix estadístiques d'ús del &brandShortName; amb Mozilla per ajudar-nos a millorar el navegador">

@@ -9,10 +9,10 @@
 <!ENTITY itemCookies.label       "Contingut web">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Defineix els vostres paràmetres de correu brossa per defecte. Els paràmetres específics per cada compte poden configurar-se des de Paràmetres dels comptes.">
+<!ENTITY junkMail.intro "Definiu els paràmetres de correu brossa per defecte. Els paràmetres específics de cada compte poden configurar-se des dels Paràmetres dels comptes.">
 <!ENTITY manualMark.label "Quan marqui els missatges com a correu brossa:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Passa&apos;ls a la carpeta &quot;Correu brossa&quot; ">
+<!ENTITY manualMarkModeMove.label "Mou-los a la carpeta «Correu brossa» del compte">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Suprimeix-los">
 <!ENTITY manualMarkModeDelete.accesskey "x">

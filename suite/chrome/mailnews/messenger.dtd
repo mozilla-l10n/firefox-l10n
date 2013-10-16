@@ -182,8 +182,8 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
-<!ENTITY expandAllThreadsCmd.label "Expandeix totes les cadenes">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.label "Amplia totes les cadenes">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Redueix totes les cadenes">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage.label "El &brandShortName; pensa que es tracta de correu brossa.">
-<!ENTITY junkBarButton.label "No és cap correu brossa">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage.label "Per protegir la vostra privadesa, el &brandShortName; ha blocat el contingut remot d'aquest missatge.">
-<!ENTITY loadRemoteContentButton.label "Mostra el contingut remot">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage.label "El &brandShortName; pensa que Aquest missatge podria ser fraudulent.">
-<!ENTITY removePhishingBarButton.label "No és cap missatge fraudulent">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton.label "Ignora la sol·licitud">
-<!ENTITY mdnBarIgnoreButton.accesskey "l">
-<!ENTITY mdnBarSendButton.label "Envia la confirmació">
-<!ENTITY mdnBarSendButton.accesskey "v">

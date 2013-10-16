@@ -17,7 +17,7 @@
 <!ENTITY sync.subtitle.connect.label "Per activar un dispositiu nou, seleccioneu «Configura el &syncBrand.shortName.label;» a l\u0027altre dispositiu">
 <!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\u0027altre dispositiu">
 <!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\u0027altre dispositiu.">
-<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\u0027altre dispositiu. ">
+<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu» a l\u0027altre dispositiu. ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostra\u0027m com.">
@@ -48,7 +48,7 @@
 <!ENTITY sync.title.success.label "S\u0027ha finalitzat la configuració">
 <!ENTITY sync.subtitle.success.label1 "Les vostres dades s\u0027estan baixant en segon pla. Podeu anar als Paràmetres per gestionar el vostre compte o començar a navegar amb el &brandShortName;.">
 <!ENTITY sync.settings.label "Paràmetres">
-<!ENTITY sync.subtitle.manage.label1 "El vostre compte &syncBrand.fullName.label; ja està configurat. Podeu anar al Paràmetres per gestionar el vostre compte, o iniciar el &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "El vostre compte del &syncBrand.fullName.label; ja està configurat. Podeu anar als Paràmetres per gestionar el vostre compte, o iniciar el &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Torna-ho a provar.">

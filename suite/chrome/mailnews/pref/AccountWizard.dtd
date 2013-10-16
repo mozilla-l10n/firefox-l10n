@@ -84,26 +84,26 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "S&apos;utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "&quot;.">
+<!ENTITY haveSmtp1.prefix "S'utilitzarà el vostre servidor de sortida (SMTP) existent, «">
+<!ENTITY haveSmtp1.suffix3 "».">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "S&apos;utilitzarà el vostre nom d&apos;usuari de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;">
+<!ENTITY haveSmtp2.prefix "S'utilitzarà el vostre nom d'usuari de sortida (SMTP) existent, «">
+<!ENTITY haveSmtp2.suffix3 "».">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "S&apos;utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot; és idèntic al vostre servidor d&apos;entrada, per tant també s&apos;utilitzarà el mateix usuari per accedir-hi.">
+<!ENTITY haveSmtp3.prefix "El vostre servidor de sortida (SMTP), «">
+<!ENTITY haveSmtp3.suffix3 "», és idèntic al vostre servidor d'entrada; per tant, també s'utilitzarà el mateix usuari per accedir-hi.">
 <!-- Entities for Account name page -->
 
 
 <!ENTITY accnameTitle.label "Nom del compte">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Introduïu el nom que voleu utilitzar per referir-vos a aquest compte (per exemple, &quot;Compte de la feina&quot;, &quot;Compte de casa&quot; o &quot;Compte de grups de discussió&quot;). ">
+<!ENTITY accnameDesc.label "Introduïu el nom que voleu utilitzar per referir-vos a aquest compte (per exemple, «Compte de la feina», «Compte de casa» o «Compte de grups de discussió»).">
 <!ENTITY accnameLabel.label "Nom del compte:">
 <!ENTITY accnameLabel.accesskey "N">
 <!-- Entities for Done (Congratulations) page -->

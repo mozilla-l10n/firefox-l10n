@@ -12,7 +12,7 @@
 <!ENTITY calendar.invitations.list.accept.button.label                  "Accepta">
 <!ENTITY calendar.invitations.list.decline.button.label                 "Rebutja">
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Cita repetitiva">
-<!ENTITY calendar.invitations.list.alldayevent.text                     "Cita de tot un dia">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "Cita de tot el dia">
 <!ENTITY calendar.invitations.list.location.text                        "Ubicació: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organitzador: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Assistent: ">

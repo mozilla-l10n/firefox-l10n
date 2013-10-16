@@ -73,13 +73,13 @@
 <!ENTITY modeAskMe.accesskey            "D">
 <!ENTITY modeAutomatic.label            "Baixa i instal·la automàticament l'actualització">
 <!ENTITY modeAutomatic.accesskey        "B">
-<!ENTITY modeAutoAddonWarn.label        "Avisa'm si s'inhabilitaran alguns dels meus complements">
+<!ENTITY modeAutoAddonWarn.label        "Avisa'm si això faria que s'inhabilités algun dels meus complements">
 <!ENTITY modeAutoAddonWarn.accesskey    "v">
 <!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
 <!ENTITY showUpdates.accesskey          "u">
 
-<!ENTITY useService.label                "Utilitzeu un servei en segon pla per instal·lar les actualitzacions.">
-<!ENTITY useService.accesskey            "p">
+<!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
+<!ENTITY useService.accesskey            "s">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Paràmetres…">
