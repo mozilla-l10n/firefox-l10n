@@ -270,6 +270,11 @@ size. -->
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 
+<!ENTITY home_top_sites_title "Llocs més importants">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Afegeix un lloc">
+
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_last_tabs_title "Pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
