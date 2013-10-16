@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "It &brandShortName;-menu toane">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Agindafinster">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "A">
+<!ENTITY lightning.toolbar.calendarpane.label        "Agindafinster toane">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "A">
