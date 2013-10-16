@@ -421,11 +421,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "音频另存为…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "用邮件发送图片… (g)">
+<!ENTITY emailImageCmd.label          "用邮件发送图片…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "用邮件发送视频… (a)">
+<!ENTITY emailVideoCmd.label          "用邮件发送视频…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "用邮件发送音频… (a)">
+<!ENTITY emailAudioCmd.label          "用邮件发送音频…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "激活此插件">
 <!ENTITY playPluginCmd.accesskey      "c">
