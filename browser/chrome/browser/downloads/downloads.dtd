@@ -72,7 +72,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Show All Downloads">
+<!ENTITY downloadsHistory.label           "显示所有下载">
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "清除下载项">
