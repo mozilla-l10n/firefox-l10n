@@ -281,7 +281,6 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
 <!ENTITY home_most_recent_title "Najnovšie">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
-<!ENTITY home_most_visited_title "Najnavštevovanejšie">
 <!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,7 +291,6 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
 
-<!ENTITY home_most_visited_empty "Tu sa zobrazujú najčastejšie navštevované webové stránky">
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
