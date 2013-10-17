@@ -27,7 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">
-<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
+<!ENTITY undoCloseTabs.label "Deshacer cerrar pestañas">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
