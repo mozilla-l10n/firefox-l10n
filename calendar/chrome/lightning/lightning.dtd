@@ -1,57 +1,57 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Kalendar">
 
+
+<!ENTITY lightning.preferencesLabel "Kalendar">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Događaj…">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Zadatak…">
 <!ENTITY lightning.menupopup.new.task.accesskey "t">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Otvori">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Spremljena poruka…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka kalendara…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Kalendar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Zadaci">
 <!ENTITY lightning.menu.view.tasks.accesskey           "Z">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Događaji i zadaci">
 <!ENTITY lightning.menu.eventtask.accesskey            "g">
-
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.email.label               "E-pošta:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Ova poruka sadrži pozivnicu na događaj.">
 
+<!ENTITY lightning.imipbar.description "Ova poruka sadrži pozivnicu na događaj.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Napravi novi kalendar">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Napravi novi kalendar">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Prikaži Mini-mjesec">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Prikaži Mini-dan">

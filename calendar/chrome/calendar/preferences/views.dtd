@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.calendar.view.allview.caption "Općenito">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Prikazi dana i tjedna">
@@ -13,7 +13,7 @@
 <!ENTITY pref.calendar.view.workweek.caption "Radni tjedan">
 
 <!ENTITY pref.weekstarts.label "Tjedan započinje u:">
-<!ENTITY pref.weekstarts.accesskey "Z">
+<!ENTITY pref.weekstarts.accesskey "z">
 <!ENTITY pref.daysoff.label "Uključi ove dane u radni tjedan:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dan započinje u:">

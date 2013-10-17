@@ -126,15 +126,15 @@
 
 <!ENTITY sunbird.export.calendar.label                     "Izvezi kalendar…">
 <!ENTITY sunbird.export.calendar.accesskey                 "e">
-
 <!-- Mac OS X "Window" menu items -->
+
 <!ENTITY windowMenu.label                                  "Prozor">
 <!ENTITY minimizeWindow.label                              "Minimiziraj">
 <!ENTITY zoomWindow.label                                  "Uvećanje">
 <!ENTITY minimizeWindow.key                                "M">
 <!ENTITY bringAllToFront.label                             "Postavi sve na vrh">
-
 <!-- Mac OS X Application menu items -->
+
 <!ENTITY servicesMenuMac.label                             "Usluge">
 <!ENTITY hideThisAppCmdMac.label                           "Sakrij &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">

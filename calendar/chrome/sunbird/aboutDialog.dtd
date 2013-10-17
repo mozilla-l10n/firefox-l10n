@@ -9,19 +9,19 @@
 <!ENTITY aboutLink.label        "&lt; O &brandFullName;u">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "inačica">
-<!ENTITY copyrightText          "&#169;1998-2010 Doprinositelji. Sva prava
-                                 zadržana. Mozilla Sunbird, Sunbird i Sunbird
-                                 logotipovi su zaštićeni znaci Mozilla
-                                 fundacije. Sva prava zadržana.">
+<!ENTITY copyrightText          "&#169;1998-2010 Doprinositelji. Sva prava 
+zadržana. Mozilla Sunbird, Sunbird i Sunbird 
+logotipovi su zaštićeni znaci Mozilla 
+fundacije. Sva prava zadržana.">
 
 <!ENTITY brandMotto       "vrijeme je">
 <!ENTITY credit.thanks    "Posebna zahvala ide">
-
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
+
 <!ENTITY credit.translation "">
 
 <!ENTITY credit.powered     "Powered by">

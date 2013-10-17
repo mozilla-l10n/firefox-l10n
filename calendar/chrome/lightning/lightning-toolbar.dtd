@@ -12,22 +12,20 @@
 <!ENTITY lightning.toolbar.edit.label "Uredi">
 <!ENTITY lightning.toolbar.gototoday.label "Idi na danas">
 <!ENTITY lightning.toolbar.print.label "Ispis">
-
 <!-- Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Prebaci na karticu kalendara">
-<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Zadaci">
-<!ENTITY lightning.toolbar.task.accesskey     "Z">
 <!ENTITY lightning.toolbar.task.tooltip       "Prebaci na karticu zadataka">
 <!ENTITY lightning.toolbar.task.accesskey     "c">
-
 <!-- Toolbar write button -->
+
 <!ENTITY lightning.toolbar.newevent.label     "Događaj">
 <!ENTITY lightning.toolbar.newtask.label      "Zadatak">
-
 <!-- Calendar and Task Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.day.label                 "Dan">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Tjedan">
@@ -36,7 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "V">
 <!ENTITY lightning.toolbar.month.label               "Mjesec">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Izbornik">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Otvori &brandShortName; izbornik">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Otvori &brandShortName; izbornik">
