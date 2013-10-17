@@ -276,6 +276,7 @@ size. -->
 <!ENTITY home_top_sites_add "Pridať stránku">
 
 <!ENTITY home_history_title "História">
+<!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
 <!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
