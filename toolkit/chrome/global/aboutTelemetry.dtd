@@ -9,7 +9,7 @@
 ">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "
-  A telemetria está <span>inativaa</span>.
+  A telemetria está <span>inativa</span>.
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
