@@ -34,7 +34,7 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
 <!ENTITY doNotTrack.title                                        "No rastrear">
-<!ENTITY doNotTrack.desc                                         "Decirle a los sitios:">                                  "Tell sites:">
+<!ENTITY doNotTrack.desc                                         "Decirle a los sitios:">
 <!ENTITY doNotTrack.options.trackingNotOkay                      "No quiero ser rastreado">
 <!ENTITY doNotTrack.options.noPreference                         "Nada sobre mis preferencias de rastreo">
 <!ENTITY doNotTrack.options.trackingOkay                         "Quiero ser rastreado">
