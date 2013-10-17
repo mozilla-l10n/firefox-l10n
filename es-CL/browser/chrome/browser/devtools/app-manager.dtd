@@ -26,7 +26,6 @@
 <!ENTITY device.allowTooltip "Este permiso es permitido para apps de este tipo.">
 <!ENTITY device.prompt "Preguntar">
 <!ENTITY device.promptTooltip "Este permiso requiere una pregunta al usuario para apps de este tipo.">
-<!ENTITY device.promptTooltip "Este permiso requiere una consulta al usuario para apps de este tipo
 <!ENTITY device.deny "Denegar">
 <!ENTITY device.denyTooltip "Este permiso es denegado para apps de este tipo.">
 <!ENTITY device.installedApps "Apps instaladas">
