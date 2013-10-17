@@ -206,6 +206,7 @@
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_history_title "История">
+<!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
 <!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
 <!ENTITY home_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
