@@ -55,18 +55,18 @@
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 tjedna" >
 <!ENTITY sunbird.menu.numberofweeks.5                      "5 tjedana" >
 <!ENTITY sunbird.menu.numberofweeks.6                      "6 tjedana" >
-
 <!-- customizable toolbars -->
+
 <!ENTITY sunbird.context.customize.label                   "Prilagodi…">
 <!ENTITY sunbird.context.customize.accesskey               "g">
 <!ENTITY sunbird.menu.customize.label                      "Prilagodi alatnu traku…">
 <!ENTITY sunbird.menu.customize.accesskey                  "a">
 <!ENTITY sunbird.maintoolbar.name                          "Glavna alatna traka">
 <!ENTITY sunbird.maintoolbar.accesskey                     "G">
-
 <!-- Sunbird Help -->
+
 <!ENTITY sunbird.help.label                                "Sadržaj pomoći">
 <!ENTITY sunbird.help.accesskey                            "p">
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 <!ENTITY mainWindow.title                                  "&brandFullName;">

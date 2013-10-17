@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- General -->
+
 <!ENTITY calendar.calendar.label     "Kalendar">
 <!ENTITY calendar.calendar.accesskey "K">
 
@@ -26,33 +26,33 @@
 <!ENTITY calendar.events.filter.next31Days.label "Događaji u sljedećih 31 dana">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Događaji u ovom kalendarskom mjesecu">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Gotovo">
-<!ENTITY calendar.unifinder.tree.done.tooltip        "Kliknite za sortiranje prema završenom">
-<!ENTITY calendar.unifinder.tree.priority.label      "Prioritet">
-<!ENTITY calendar.unifinder.tree.priority.tooltip    "Kliknite za sortiranje prema prioritetu">
-<!ENTITY calendar.unifinder.tree.title.label         "Naslov">
-<!ENTITY calendar.unifinder.tree.title.tooltip       "Kliknite za sortiranje prema naslovu">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; završeno">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Kliknite za sortiranje prema &#37; dovršenosti">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Počinje">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip   "Kliknite za sortiranje prema datumu početka">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Završava">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip     "Kliknite za sortiranje prema datumu završetka">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Dospjeva">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip     "Kliknite za sortiranje prema datumu dospjeća">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Završeno">
+<!ENTITY calendar.unifinder.tree.done.label              "Gotovo">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Kliknite za sortiranje prema završenom">
+<!ENTITY calendar.unifinder.tree.priority.label          "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Kliknite za sortiranje prema prioritetu">
+<!ENTITY calendar.unifinder.tree.title.label             "Naslov">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Kliknite za sortiranje prema naslovu">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#037; završeno">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Kliknite za sortiranje prema &#037; dovršenosti">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Počinje">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Kliknite za sortiranje prema datumu početka">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Završava">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Kliknite za sortiranje prema datumu završetka">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Dospjeva">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Kliknite za sortiranje prema datumu dospjeća">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Završeno">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Kliknite za sortiranje prema završenom">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
-<!ENTITY calendar.unifinder.tree.categories.tooltip  "Kliknite za sortiranje prema kategoriji">
-<!ENTITY calendar.unifinder.tree.location.label      "Lokacija">
-<!ENTITY calendar.unifinder.tree.location.tooltip    "Kliknite za sortiranje prema lokaciji">
-<!ENTITY calendar.unifinder.tree.status.label        "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip      "Kliknite za sortiranje prema statusu">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Naziv kalendara">
+<!ENTITY calendar.unifinder.tree.categories.label        "Kategorija">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Kliknite za sortiranje prema kategoriji">
+<!ENTITY calendar.unifinder.tree.location.label          "Lokacija">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Kliknite za sortiranje prema lokaciji">
+<!ENTITY calendar.unifinder.tree.status.label            "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Kliknite za sortiranje prema statusu">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Naziv kalendara">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Kliknite za sortiranje prema nazivu kalendara">
-<!ENTITY calendar.unifinder.tree.duration.label      "Dospjeva u">
-<!ENTITY calendar.unifinder.tree.duration.tooltip    "Kliknite za sortiranje prema dospjeću">
-<!ENTITY calendar.unifinder.close.tooltip            "Zatvori pretraživanje i popis događaja">
+<!ENTITY calendar.unifinder.tree.duration.label          "Dospjeva u">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Kliknite za sortiranje prema dospjeću">
+<!ENTITY calendar.unifinder.close.tooltip                "Zatvori pretraživanje i popis događaja">
 
 <!ENTITY calendar.today.button.tooltip          "Idi na danas" >
 <!ENTITY calendar.todaypane.button.tooltip      "Prikaži okno današnjih događaja" >
@@ -121,12 +121,12 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "Z">
 <!ENTITY calendar.task.filter.open.label            "Nedovršeni zadaci">
 <!ENTITY calendar.task.filter.open.accesskey        "e">
-
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+
 <!ENTITY calendar.task.filter.current.label         "Trenutni zadaci">
 <!ENTITY calendar.task.filter.current.accesskey     "r">
 <!ENTITY calendar.task.filter.repeating.label       "Ponavljajući zadaci">
@@ -152,11 +152,11 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtriraj zadatke… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-
 <!-- Statusbar -->
-<!ENTITY statusText.label            "Dokument: Gotovo">
 
+<!ENTITY statusText.label            "Dokument: Gotovo">
 <!-- Context Menu -->
+
 <!ENTITY calendar.context.modifyorviewitem.label      "Otvori">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Otvori zadatak…">
@@ -181,16 +181,17 @@
 <!ENTITY calendar.context.attendance.menu.accesskey   "h" >
 <!ENTITY calendar.context.attendance.occurrence.label "Ovo ponavljanje" >
 <!ENTITY calendar.context.attendance.all.label        "Sva ponavljanja" >
-
 <!-- Task Context Menu -->
+
 <!ENTITY calendar.context.progress.label              "Napredak">
 <!ENTITY calendar.context.progress.accesskey          "p">
 <!ENTITY calendar.context.priority.label              "Prioritet">
 <!ENTITY calendar.context.priority.accesskey          "r">
 <!ENTITY calendar.context.postpone.label              "Odgodi zadatak">
 <!ENTITY calendar.context.postpone.accesskey          "a">
+<!--=percent sign-->
 
-<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" >
 
 <!ENTITY calendar.context.markcompleted.label     "Označi završenim">
 <!ENTITY calendar.context.markcompleted.accesskey "O">
@@ -224,14 +225,14 @@
 
 <!ENTITY calendar.copylink.label       "Kopiraj lokaciju poveznice">
 <!ENTITY calendar.copylink.accesskey   "K">
-
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
 <!ENTITY calendar.taskview.delete.label     "Obriši">
 <!ENTITY calendar.taskview.delete.accesskey "b">
-
 <!-- Server Context Menu -->
+
 <!ENTITY calendar.context.newserver.label              "Novi kalendar…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Pronađi kalendar…" >
@@ -265,8 +266,8 @@
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Filtriraj zadatke">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
-
 <!-- Calendar Alarm Dialog -->
+
 
 <!ENTITY calendar.alarm.location.label              "Lokacija:" >
 <!ENTITY calendar.alarm.details.label               "Detalji…" >
@@ -285,18 +286,18 @@
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 sat" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 sata" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dan" >
-
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Otkaži odgodu">
 
+<!ENTITY calendar.alarm.snooze.cancel               "Otkaži odgodu">
 <!-- Calendar Server Dialog -->
+
 <!ENTITY calendar.server.dialog.title.edit          "Uredi kalendar">
 <!ENTITY calendar.server.dialog.name.label          "Naziv kalendara:">
-
 <!-- Calendar Properties -->
+
 <!ENTITY calendarproperties.color.label                    "Boja:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
@@ -313,19 +314,19 @@
 <!ENTITY calendarproperties.forceDisabled.label            "Pružatelj usluge za ovaj kalendar nije pronađen. Ovo se zna događati ako ste onemogućili ili uklonili pojedine dodatke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Ukini pretplatu">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
-
 <!-- Calendar Publish Dialog -->
+
 <!ENTITY calendar.publish.dialog.title              "Objavi kalendar">
 <!ENTITY calendar.publish.url.label                 "Objava URL-a">
 <!ENTITY calendar.publish.publish.button      "Objavi">
 <!ENTITY calendar.publish.close.button      "Zatvori">
 
 <!ENTITY calendar.publish.example.url.description   "Nešto kao http://www.mojposluzitelj.com/webdav/test.ics">
-
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "Odaberi kalendar">
 
+<!ENTITY calendar.select.dialog.title    "Odaberi kalendar">
 <!-- Calendar Printing -->
+
 <!ENTITY calendar.print.window.title "Ispiši kalendar">
 <!ENTITY calendar.print.title.label "Naslov:">
 <!ENTITY calendar.print.layout.label "Raspored:">
@@ -342,14 +343,14 @@
 <!ENTITY calendar.print.optionsGroup.label "Mogućnosti">
 <!ENTITY calendar.print.taskswithnoduedate.label "Zadaci bez datuma dospjeća">
 <!ENTITY calendar.print.completedtasks.label "Završeni zadaci">
-
 <!-- Error reporting -->
+
 <!ENTITY calendar.error.detail "Detalji…">
 <!ENTITY calendar.error.code "Šifra greške:">
 <!ENTITY calendar.error.description "Opis:">
 <!ENTITY calendar.error.title "Došlo je do greške">
-
 <!-- Extract buttons in message header -->
+
 <!ENTITY calendar.extract.event.button         "Dodaj kao događaj">
 <!ENTITY calendar.extract.task.button          "Dodaj kao zadatak">
 <!ENTITY calendar.extract.event.button.tooltip "Izvezite kalendarske informacije iz poruke i dodajte ih u svoj kalendar kao događaj">
