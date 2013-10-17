@@ -15,7 +15,7 @@
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
 <!ENTITY quitApplicationCmd.label           "Salir">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
-<!ENTITY quitApplicationCmdUnix.key          "Q">
+<!ENTITY quitApplicationCmdUnix.key         "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
 <!ENTITY hideOtherAppsCmdMac.label          "Ocultar otros">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
