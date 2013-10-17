@@ -39,7 +39,6 @@
 
 <!ENTITY certmgr.editcert.title               "Editar Configuraciones de Certificado de Seguridad">
 <!ENTITY certmgr.editcacert.title             "Modificar opciones de confianza en el certificado de CA">
-<!ENTITY certmgr.editsslcert.title            "Modificar opciones de confianza en los certificados de los sitios web">
 <!ENTITY certmgr.editcert.edittrust           "Editar configuraciones de confianza:">
 <!ENTITY certmgr.editcert.trustssl            "Este certificado puede identificar sitios web.">
 <!ENTITY certmgr.editcert.trustemail          "Este certificado puede identificar usuarios de correo.">
