@@ -676,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-<!ENTITY pluginNotification.width "32em">
+<!ENTITY pluginNotification.width "34em">
 
 <!ENTITY tabCrashed.header "Tab abgestürzt">
 <!ENTITY tabCrashed.message "Entschuldigung, das hätte nicht passieren dürfen. Es wurde versucht, die Webseite darzustellen, aber sie reagiert nicht.">
