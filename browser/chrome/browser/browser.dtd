@@ -245,13 +245,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY social.learnMore.accesskey "z">
 <!ENTITY social.closeNotificationItem.label "Ne tagad">
 
-<!-- labels are set dynamically, see browser.properties -->
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
-
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "Saglabāt lapu…">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "Saglabāt saiti…">
 
 <!ENTITY errorConsoleCmd.label "Kļūdu pārlūks">
 <!ENTITY errorConsoleCmd.accesskey "K">
+
+<!ENTITY tabCrashed.header "Cilne avarēja">
+<!ENTITY tabCrashed.message "Hmm.. ļoti neveikli. Mēs mēģinājām attēlot mājas lapu, bet tā nereaģē.">
+<!ENTITY tabCrashed.checkSendReport "Pateikt &vendorShortName; par šo avāriju, lai viņi var to salabot.">
+<!ENTITY tabCrashed.tryAgain "Mēģināt vēlreiz">
 
 <!ENTITY fileMenu.label "Fails">
 <!ENTITY fileMenu.accesskey "F">
@@ -361,6 +366,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY bookmarksCmd.commandkey "g">
 <!ENTITY tabView.commandkey           "e">
+<!ENTITY devAppMgrMenu.label               "Aplikāciju pārvaldnieks">
+<!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2   "e">
