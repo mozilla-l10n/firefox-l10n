@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Tschertgar u endatar in'adressa">
+
+<!ENTITY back.label            "Enavos">
+<!ENTITY forward.label         "Enavant">
+<!ENTITY newtab.label          "Nov tab">
+<!ENTITY closetab.label        "Serrar il tab">
+
+<!ENTITY autocompleteResultsHeader.label  "Tes resultats">
+
+<!ENTITY appbarErrorConsole.label   "Avrir la consola d'errurs">
+<!ENTITY appbarJSShell.label        "Avrir ina shell da JavaScript">
+<!ENTITY appbarFindInPage2.label    "Tschertgar en la pagina">
+<!ENTITY appbarViewOnDesktop2.label "Contemplar sin il desktop">
+
+<!ENTITY topSitesHeader.label        "Paginas favorisadas">
+<!ENTITY bookmarksHeader.label       "Segnapaginas">
+<!ENTITY recentHistoryHeader.label   "Cronologia">
+<!ENTITY remoteTabsHeader.label      "Tabs dad auters apparats">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Favorits">
+<!ENTITY narrowBookmarksHeader.label     "Segnapaginas">
+<!ENTITY narrowRecentHistoryHeader.label "Cronologia">
+<!ENTITY narrowRemoteTabsHeader.label    "Tabs lontans">
+
+<!ENTITY downloadsHeader.label     "Telechargiadas">
+<!ENTITY downloadShowPage.label    "Ir a la pagina">
+<!ENTITY downloadShow2.label       "Tschertgar">
+<!ENTITY downloadOpen2.label       "Avrir">
+<!ENTITY downloadCancel.label      "Interrumper">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Cuntinuar">
+<!ENTITY downloadRetry.label       "Empruvar anc ina giada">
+<!ENTITY downloadRemove.label      "Allontanar">
+<!ENTITY downloadDelete.label      "Stizzar">
+<!ENTITY downloadFailed.label      "Betg reussì">
+
+<!ENTITY allBookmarks.label        "Mussar tut ils segnapaginas">
+
+<!ENTITY consoleHeader.label       "Consola d'errurs">
+<!ENTITY consoleAll.label          "Tut">
+<!ENTITY consoleErrors.label       "Errurs">
+<!ENTITY consoleWarnings.label     "Avertiments">
+<!ENTITY consoleMessages.label     "Messadis">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Svidar">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Datoteca da funtauna:">
+<!ENTITY consoleErrLine.label      "Lingia:">
+<!ENTITY consoleErrColumn.label    "Colonna:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Tagliar ora">
+<!ENTITY contextTextCopy.label             "Copiar">
+<!ENTITY contextTextPaste.label            "Encollar">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Encollar &amp; chargiar">
+<!ENTITY contextTextSelect.label           "Selecziunar">
+<!ENTITY contextTextSelectAll.label        "Selecziunar tut">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Avrir la colliaziun en in nov tab">
+<!ENTITY contextCopyLinkHref.label         "Copiar la colliaziun">
+<!ENTITY contextBookmarkLinkHref.label     "Crear in segnapagina per la colliaziun">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Memorisar en la biblioteca da maletgs">
+<!ENTITY contextCopyImage.label            "Copiar la grafica">
+<!ENTITY contextCopyImageLocation.label    "Copiar l'adressa da la grafica">
+<!ENTITY contextOpenImageTab.label         "Avrir la grafica en in nov tab">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Memorisar en la biblioteca da video">
+<!ENTITY contextCopyVideoLocation.label    "Copiar l'adressa dal video">
+<!ENTITY contextOpenVideoTab.label         "Avrir il video en in nov tab">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
