@@ -275,6 +275,7 @@ size. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
 
 <!ENTITY home_history_title "Historik">
+<!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
 <!ENTITY home_last_tabs_title "Tidigare flikar">
 <!ENTITY home_last_tabs_open "Öppna alla flikar från senast">
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
