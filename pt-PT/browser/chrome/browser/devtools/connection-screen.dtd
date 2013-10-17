@@ -7,16 +7,16 @@
   - in the Web Developer menu.
   - -->
 
-<!ENTITY title      "Ligar">
-<!ENTITY header     "Ligar a dispositivo remoto">
-<!ENTITY host       "Servidor:">
-<!ENTITY port       "Porta:">
-<!ENTITY connect    "Ligar">
-<!ENTITY connecting "A ligar…">
+<!ENTITY title "Ligar">
+<!ENTITY header "Ligar a dispositivo remoto">
+<!ENTITY host "Servidor:">
+<!ENTITY port "Porta:">
+<!ENTITY connect "Ligar">
+<!ENTITY connecting "A ligar...">
 <!ENTITY availableTabs "Separadores remotos disponíveis:">
 <!ENTITY availableProcesses "Processos remotos disponíveis">
 <!ENTITY connectionError "Erro:">
-<!ENTITY errorTimeout "Erro: ligação expirou.">
+<!ENTITY errorTimeout "Erro: ligação expirada.">
 <!ENTITY errorRefused "Erro: ligação recusada.">
 <!ENTITY errorUnexpected "Erro desconhecido.">
-<!ENTITY help "As ferramentas do desenvolvedor do Firefox podem depurar dispositivos remotos (Firefox para Android e Firefox OS por exemplo). Verifique que ativou a opção 'Servidor de depuração' no dispositivo remoto. Veja a <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>documentação</a>.">
+<!ENTITY help2 "As ferramentas de programação do Firefox podem depurar dispositivos remotos (Firefox para Android e Firefox OS por exemplo). Verifique se ativou a opção 'Servidor de depuração' no dispositivo remoto. Consulte a <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>documentação</a>.">
