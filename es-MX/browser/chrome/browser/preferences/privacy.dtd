@@ -27,14 +27,14 @@
 <!ENTITY  acceptCookies.label           "Aceptar cookies">
 <!ENTITY  acceptCookies.accesskey       "p">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.label      "Aceptar cookies de terceros">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.always.label   "Siempre">
+<!ENTITY  acceptThirdParty.never.label    "Nunca">
+<!ENTITY  acceptThirdParty.visited.label  "Visitado">
 
-<!ENTITY  keepUntil.label               "Hasta que:">
-<!ENTITY  keepUntil.accesskey           "H">
+<!ENTITY  keepUntil.label               "Mantener hasta que:">
+<!ENTITY  keepUntil.accesskey           "K">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "cierre &brandShortName;">

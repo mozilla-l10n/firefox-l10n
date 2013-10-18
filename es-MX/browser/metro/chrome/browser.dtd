@@ -40,7 +40,7 @@
 <!ENTITY downloadShow2.label       "Buscar">
 <!ENTITY downloadOpen2.label       "Abrir">
 <!ENTITY downloadCancel.label      "Cancelar">
-
+<!ENTITY downloadPause.label       "Pausar">
 <!ENTITY downloadResume.label      "Continuar">
 <!ENTITY downloadRetry.label       "Reintentar">
 <!ENTITY downloadRemove.label      "Eliminar">

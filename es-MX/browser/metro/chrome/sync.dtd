@@ -10,7 +10,7 @@
 <!ENTITY sync.flyout.presetup.setup.label      "Establecer &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
 
-<!ENTITY sync.flyout.setup.title               "Establecer &syncBrand.ShortName.label;">
+<!ENTITY sync.flyout.setup.title               "Establecer &syncBrand.shortName.label;">
 
 
 

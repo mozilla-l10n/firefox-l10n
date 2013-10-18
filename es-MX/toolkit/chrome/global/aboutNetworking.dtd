@@ -4,26 +4,26 @@
 
 <!ENTITY aboutNetworking.showNextTime          "Mostrar siempre esta advertencia.">
 <!ENTITY aboutNetworking.ok                    "Aceptar">
+<!ENTITY aboutNetworking.http                  "Http">
+
+<!ENTITY aboutNetworking.dns                   "DNS">
+
+<!ENTITY aboutNetworking.refresh               "Actualizar">
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.port                  "Puerto">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Activo">
 <!ENTITY aboutNetworking.idle                  "Inactivo">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.host                  "Servidor">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Enviar">
+<!ENTITY aboutNetworking.received              "Recibido">
+<!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.addresses             "Dirección">
+<!ENTITY aboutNetworking.expires               "Expira (Segundos)">
+<!ENTITY aboutNetworking.messagesSent          "Mensajes enviados">
+<!ENTITY aboutNetworking.messagesReceived      "Mensajes recibidos">
+<!ENTITY aboutNetworking.bytesSent             "Bytes enviados">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes recibidos">
