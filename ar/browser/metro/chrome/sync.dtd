@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "استخدم علاماتك و كلمات السر و الألسنة المفتوحة عبر أجهزتك المختلفة">
+<!ENTITY sync.flyout.presetup.setup.label      "اضبط &syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "اضبط &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "إذا كان لديك حساب &syncBrand.shortName.label; فاختر &quot;زاوج جهازًا&quot; من جهازك و أدخل هذا الرمز.">
+<!ENTITY sync.flyout.setup.description2        "إذا لم يكن لديك حساب &syncBrand.shortName.label;، فيمكنك إنشاء واحد من متصفح &brandShortName; لسطح المكتب.">
+<!ENTITY sync.flyout.setup.manual.label_2      "لستُ قرب جهازي…">
+<!ENTITY sync.flyout.setup.description3        "ملاحظة:">
+<!ENTITY sync.flyout.setup.description4_2      "للعثور على &quot;زاوج جهازًا&quot;،">
+<!ENTITY sync.flyout.setup.description5_2      "[سطح المكتب] افتح &quot;الخيارات&quot; أو &quot;التفضيلات&quot; ثم اختر &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[أندرويد] المزيد ← الإعدادات ← &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "من فضلك أدخل معلومات حساب &syncBrand.shortName.label; و مفتاح الاستعادة الذي ولّده حاسوبك">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "اسم الحساب">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "كلمة السر">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "مفتاح الاستعادة">
+<!ENTITY sync.flyout.manualsetup.connect.label           "اتّصل">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "لقد أوصلت لتوّك &brandShortName; مع حساب &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "يجري الآن تنزيل بيانات &syncBrand.shortName.label; في الخلفية. يُمكنك العثور على الألسنة المُزامنَة في صفحة بداية &brandShortName;">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "تعذّر على &brandShortName; الاتصال بحساب &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "ألغِ">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "حاول مجددًا">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "الحساب:">
+<!ENTITY sync.flyout.connected.device                     "جهازك:">
+<!ENTITY sync.flyout.connected.disconnect                 "افصل">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "أتريد قطع اتصال جهازك مع &syncBrand.shortName.label;؟">
+<!ENTITY sync.flyout.connected.disconnectWarning          "ستبقى كل بيانات الشخصية على هذا الجهاز و على حساب &syncBrand.shortName.label; سليمة.">
+<!ENTITY sync.flyout.connected.cancel                     "ألغِ">
+<!ENTITY sync.flyout.connected.pair                       "زاوج جهازًا">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "على الجهاز الجديد الذي ترغب بالمزاوجة معه، اختر &quot;اضبط &syncBrand.shortName.label;&quot; ثم أدخل الرمز الذي أنتجه الجهاز">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "زاوِج">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "ملاحظة:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "للعثور على الرمز،">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[سطح المكتب] افتح &quot;الخيارات&quot; أو &quot;التفضيلات&quot; ثم اتبع هذه الخطوات: &syncBrand.shortName.label; ← اضبط &syncBrand.shortName.label; ← لدي حساب">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[أندرويد] المزيد ← الإعدادات ← &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "رجاءً حاول مجددًا">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "تمت إضافة الجهاز الجديد بنجاح.">
+<!ENTITY sync.flyout.pairSuccess.description2             "يجري الآن تنزيل بيانات &syncBrand.shortName.label; في الخلفية. يُمكنك العثور على الألسنة البعيدة في صفحة بداية &brandShortName;">

@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "الخيارات">
+<!ENTITY optionsHeader.startup.title                             "البدء">
+<!ENTITY optionsHeader.homepage.title                            "عند بدء &brandShortName;، اعرض">
+<!ENTITY optionsHeader.homepage.startPage.button                 "صفحة البداية">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "الألسنة من المرة السابقة">
+<!ENTITY optionsHeader.char.title                                "ترميز المحارف">
+<!ENTITY optionsHeader.char.autodetect.label                     "اكتشاف تلقائيًا">
+<!ENTITY optionsHeader.char.options.label                        "اعرض خيارات الترميز في شريط التطبيق">
+
+<!ENTITY clearPrivateData.title                                  "امسح البيانات الخاصة">
+<!ENTITY clearPrivateData.label                                  "امسخ تأريخ التصفح و كلمات السر و الكعكات و بيانات الاستمارات من على هذا الجهاز">
+<!ENTITY clearPrivateData.button                                 "امسح">
+<!ENTITY clearPrivateData.done                                   "تمّ">
+<!ENTITY clearPrivateData.history                                "تأريخ التصفح">
+<!ENTITY clearPrivateData.otherdata                              "بيانات أخرى (كلمات السر، الخبيئة، الكعكات، إلخ)">
+<!ENTITY clearPrivateData.downloadHist                           "تأريخ التنزيل">
+<!ENTITY clearPrivateData.cookies                                "الكعكات">
+<!ENTITY clearPrivateData.cache                                  "الخبيئة">
+<!ENTITY clearPrivateData.sitePref                               "تفضيلات الموقع">
+<!ENTITY clearPrivateData.formSearchHist                         "تأريخ البحث و النماذج">
+<!ENTITY clearPrivateData.passwords                              "كلمات السر المحفوظة">
+<!ENTITY clearPrivateData.offline                                "بيانات المواقع للعمل دون اتصال">
+<!ENTITY clearPrivateData.logins                                 "تسجيلات الدخول النشِطة">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "تذكّر كلمات السر">
+<!ENTITY doNotTrack.title                                        "لا تتعقبني">
+<!ENTITY doNotTrack.desc                                         "أخبر المواقع:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "أنني لا أريدها أن تتعقبني">
+<!ENTITY doNotTrack.options.noPreference                         "لا شيء عن خياراتي للتعقب">
+<!ENTITY doNotTrack.options.trackingOkay                         "أنني أريدها أن تتعقبني">
+<!ENTITY optionsHeader.reporting.title                           "مُبلّغ الانهيار">
+<!ENTITY optionsHeader.reporting.crashes.label                   "يُرسل &brandShortName; بلاغات الانهيار إلى موزيلا للمساعدة في تحسين أداء متصفحك و استقراره">
+<!ENTITY optionsHeader.telemetry.title                            "تليمتري">
+<!ENTITY optionsHeader.telemetry.label                            "أطلع موزبلا على إحصائيات عن &brandShortName; لمساعدتنا في جعل متصفحك أفضل">

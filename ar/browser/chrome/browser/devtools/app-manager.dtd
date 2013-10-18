@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "مدير التطبيقات">
+<!ENTITY index.projects2 "التطبيقات">
+<!ENTITY index.device2 "جهاز">
+<!ENTITY index.help "مساعدة">
+
+<!ENTITY device.screenshot "لقطة شاشة">
+<!ENTITY device.screenshotTooltip "افتح لقطة شاشة للوضع الحالي للجهاز في لسان جديد.">
+<!ENTITY device.title "مركز التحكم بالجهاز">
+<!ENTITY device.notConnected "غير متصل. أوصل جهازك بالأسفل رجاء.">
+<!ENTITY device.startApp "ابدأ">
+<!ENTITY device.startAppTooltip "ابدأ هذا التطبيق على الجهاز.">
+<!ENTITY device.stopApp "أوقف">
+<!ENTITY device.stopAppTooltip "أوقف هذا التطبيق على الجهاز.">
+<!ENTITY device.debugApp "نقّح">
+
+<!ENTITY device.name "الاسم">
+<!ENTITY device.app "تطبيق">
+<!ENTITY device.privileged "ذو امتيازات">
+<!ENTITY device.certified "مُعتمد">
+<!ENTITY device.allow "اسمح">
+
+<!ENTITY device.prompt "اسأل">
+
+<!ENTITY device.deny "ارفض">
+
+
+
+<!ENTITY device.permissions "التّصاريح">
+
+
+
+
+<!ENTITY connection.connectTooltip "اتصل بالجهاز.">
+<!ENTITY connection.disconnect "اقطع الاتصال">
+
+<!ENTITY connection.notConnected2 "غير متصل.">
+<!ENTITY connection.connectTo "اتّصل ب‍:">
+
+<!ENTITY connection.changeHostAndPort "غيّر">
+
+
+
+<!ENTITY connection.saveConnectionInfo "احفظ">
+
+
+
+<!ENTITY connection.cancel "ألغِ">
+
+
+
+
+
+
+<!ENTITY connection.installAnotherSimulator "أضف">
+
+
+<!ENTITY projects.addApp "أضف">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
