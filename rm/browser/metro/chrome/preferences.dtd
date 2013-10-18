@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Preferenzas">
+<!ENTITY optionsHeader.startup.title                             "Aviar">
+<!ENTITY optionsHeader.homepage.title                            "Sche &brandShortName; aviescha, mussar">
+<!ENTITY optionsHeader.homepage.startPage.button                 "la pagina da partenza">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "ils tabs da l'ultima giada">
+<!ENTITY optionsHeader.char.title                                "Codaziun da caracters">
+<!ENTITY optionsHeader.char.autodetect.label                     "Determinar automaticamain">
+<!ENTITY optionsHeader.char.options.label                        "Mussar opziuns da codaziun en la trav d'App">
+
+<!ENTITY clearPrivateData.title                                  "Stizzar las datas persunalas">
+<!ENTITY clearPrivateData.label                                  "Stizzar tia cronologias, ils pleds-clav, ils cookies e datas da formulars sin quest apparat">
+<!ENTITY clearPrivateData.button                                 "Stizzar">
+<!ENTITY clearPrivateData.done                                   "Finì!">
+<!ENTITY clearPrivateData.history                                "Cronologia">
+<!ENTITY clearPrivateData.otherdata                              "Autras datas (pleds-clav, cache, cookies, etc)">
+<!ENTITY clearPrivateData.downloadHist                           "Cronologia da telechargiadas">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Preferenzas da la pagina">
+<!ENTITY clearPrivateData.formSearchHist                         "Cronologia da formulars &amp; da tschertgar">
+<!ENTITY clearPrivateData.passwords                              "Pleds-clav memorisads">
+<!ENTITY clearPrivateData.offline                                "Datas da websites offline">
+<!ENTITY clearPrivateData.logins                                 "Annunzias activas">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Memorisar ils pleds-clav">
+<!ENTITY doNotTrack.title                                        "Betg suandar mes fastizs">
+<!ENTITY doNotTrack.desc                                         "Dir a paginas:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Supplitgar websites da betg suandar mes fastizs">
+<!ENTITY doNotTrack.options.noPreference                         "Na dar naginas infurmaziuns davart suandar fastizs">
+<!ENTITY doNotTrack.options.trackingOkay                         "Jau vi che paginas suandan mes fastizs">
+<!ENTITY optionsHeader.reporting.title                           "Rapportader da collaps">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; trametta rapports da collaps per gidar a Mozilla da far pli stabel e segir tes navigatur">
+<!ENTITY optionsHeader.telemetry.title                           "Telemetria">
+<!ENTITY optionsHeader.telemetry.label                           "Cundivida statisticas d'utilisaziun davart &brandShortName; cun Mozilla per gidar da meglierar tes navigatur">
