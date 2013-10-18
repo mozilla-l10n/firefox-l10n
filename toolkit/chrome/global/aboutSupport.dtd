@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Configuración básica de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
@@ -48,8 +48,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Preferencias en user.js">
+<!ENTITY aboutSupport.userJSDescription "Su carpeta del perfil contiene un <a id='prefs-user-js-link'>archivo user.js</a>, que incluye preferencias que no han sido creadas por &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Gráficas">
 
@@ -65,5 +65,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar el texto al portapapeles">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo al portapapeles">

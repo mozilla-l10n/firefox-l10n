@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Deshacer Agregar al diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "Comprobar ortografía">
+<!ENTITY spellCheckToggle.accesskey "b">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
 <!ENTITY spellDictionaries.label "Idiomas">
 <!ENTITY spellDictionaries.accesskey "I">
