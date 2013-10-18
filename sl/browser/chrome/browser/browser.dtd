@@ -44,13 +44,13 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
-<!ENTITY  undoCloseTab.label                 "Prekliči zapiranje zavihka">
+<!ENTITY  undoCloseTab.label                 "Razveljavi zapiranje zavihka">
 <!ENTITY  undoCloseTab.accesskey             "h">
 <!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Prekliči zapiranje zavihkov">
+<!ENTITY  undoCloseTabs.label                "Razveljavi zapiranje zavihkov">
 <!ENTITY  closeTab.label                     "Zapri zavihek">
 <!ENTITY  closeTab.accesskey                 "Z">
 
