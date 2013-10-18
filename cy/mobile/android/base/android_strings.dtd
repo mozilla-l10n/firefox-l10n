@@ -9,7 +9,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Nodau Tudalen">
-
+<!ENTITY  history_title "Hanes">
 <!ENTITY  reading_list_title "Rhestr Ddarllen">
 
 <!ENTITY  switch_to_tab "Newid i\u0027r tab">
@@ -72,10 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
-
+<!ENTITY pref_category_add_search_providers "Ychwanegu rhagor o ddarparwyr chwilio">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
+<!ENTITY pref_search_tip "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio.">
 <!ENTITY pref_category_devtools "Offer datblygwyr">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_developer_remotedebugging_docs "Dysgu rhagor">
@@ -111,7 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
 <!ENTITY pref_restore "Tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
-
+<!ENTITY pref_restore_quit "Peidio adfer ar ôl gadael &brandShortName;">
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -147,10 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
-
-
-
-
+<!ENTITY pref_search_set_default "Gosod fel y rhagosodedig">
+<!ENTITY pref_search_default "Rhagosodedig">
+<!ENTITY pref_search_remove "Tynnu">
+<!ENTITY pref_search_last_toast "Nid oes modd tynnu nac analluogi eich peiriant chwilio olaf.">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
@@ -215,7 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
 <!ENTITY contextmenu_open_in_reader "Agor yn y Darllenydd">
-
+<!ENTITY contextmenu_remove "Tynnu">
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
 <!ENTITY contextmenu_share "Rhannu">
 <!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
@@ -224,7 +225,7 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 <!ENTITY contextmenu_subscribe "Tanysgrifio i Dudalen">
 <!ENTITY contextmenu_site_settings "Golygu Gosodiadau\u0027r Wefan">
-
+<!ENTITY contextmenu_top_bookmarks_edit "Golygu">
 <!ENTITY contextmenu_top_bookmarks_pin "Pinio Gwefan">
 <!ENTITY contextmenu_top_bookmarks_unpin "Dad-binio Gwefan">
 
@@ -234,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Wedi tynnu\u0027r dudalen">
 
+<!ENTITY bookmark_add "Ychwanegu nod tudalen">
 <!ENTITY bookmark_edit_title "Golygu Nod Tudalen">
 <!ENTITY bookmark_edit_name "Enw">
 <!ENTITY bookmark_edit_location "Lleoliad">
@@ -271,22 +273,27 @@ size. -->
 <!ENTITY home_top_sites_title "Hoff Wefannau">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Ychwanegu gwefan">
 
-
+<!ENTITY home_history_title "Hanes">
+<!ENTITY home_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY home_last_tabs_open "Agor pob tab ers y tro diwethaf">
-
-
-
-
-
+<!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
+<!ENTITY home_most_recent_title "Diweddaraf">
+<!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
+<!ENTITY home_most_visited_title "Ymwelwyd amlaf">
+<!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Awgrym: Cadwch erthyglau i\u0027ch rhestr ddarllen drwy bwyso\u0027r eicon &#037;I yn hir pan fydd yn ymddangos yn y bar teitl.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Awgrym: Cadwch erthyglau i\u0027ch rhestr ddarllen drwy bwyso\u0027r botwm modd darllen pan fydd yn ymddangos yn y bar teitl.">
 
-
+<!ENTITY home_most_visited_empty "Bydd gwefannau rydych yn ymweld â nhw amlaf i\u0027w gweld yma.">
+<!ENTITY pin_bookmark_dialog_hint "Rhowch allweddair chwilio">
 
 <!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
@@ -335,6 +342,8 @@ o Android">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Chwilio &formatS1; am &formatS2;">
 
 <!ENTITY webapp_generic_name "Ap">
 
