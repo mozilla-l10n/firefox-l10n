@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Pristupite svojim zabilješkama, lozinkama i otvorenim karticama između vaših uređaja">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; podešavanje">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; podešavanje">
+<!ENTITY sync.flyout.setup.description1        "Ako imate &syncBrand.shortName.label; račun, odaberite &quot;Upari uređaj&quot; na vašem drugom uređaju i upišite ovaj kôd.">
+<!ENTITY sync.flyout.setup.description2        "Ako nemate &syncBrand.shortName.label; račun, možete ga otvoriti kroz vaš &brandShortName; desktop preglednik.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Nemam svoje računalo u blizini…">
+<!ENTITY sync.flyout.setup.description3        "Napomena:">
+<!ENTITY sync.flyout.setup.description4_2      "Da biste pronašli opciju &quot;Upari uređaj&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Otvorite &quot;Postavke&quot; ili &quot;Mogućnosti&quot; , te odaberite &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Molim upišite informacije o vašem &syncBrand.shortName.label; računu i ključ popravka kojeg je generiralo vaše računalo">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Ime računa">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Lozinke">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Ključ popravka">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Poveži">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Upravo ste povezali &brandShortName; s &syncBrand.shortName.label; računom">
+<!ENTITY sync.flyout.setupsuccess.description2      "Vaši &syncBrand.shortName.label; podaci se upravo preuzimaju u pozadini. Vaše sinkronizirane kartice se mogu pronaći na brandShortName; početnoj stranici">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; se ne može povezati na vaš &syncBrand.shortName.label; račun.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Otkaži">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Pokušaj ponovno">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Korisnički račun:">
+<!ENTITY sync.flyout.connected.device                     "Vaš uređaj:">
+<!ENTITY sync.flyout.connected.disconnect                 "Prekini vezu">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Prekinuti vezu između vašeg uređaja i &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Svi vaši osobni podaci na ovom uređaju i &syncBrand.shortName.label; računu će ostati nepromijenjeni.">
+<!ENTITY sync.flyout.connected.cancel                     "Otkaži">
+<!ENTITY sync.flyout.connected.pair                       "Upari uređaj">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Na uređaju s kojim se želite povezati, odaberite  &quot;&syncBrand.shortName.label; podešavanje&quot; i upišite kôd kojeg će uređaj generirati">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Upari">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Napomena:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Da biste pronašli kôd,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Otvorite &quot;Postavke&quot; ili &quot;Osobitosti&quot; i pratite korake: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; podešavanje -&gt; Imam račun">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Molim pokušajte ponovno">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Novi uređaj je uspješno dodan.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Vaši &syncBrand.shortName.label; se upravo preuzimaju u pozadini. Vaše udaljene kartice se mogu pronaći na &brandShortName; početnoj stranici.">

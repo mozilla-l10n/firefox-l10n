@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Upišite pojam pretraživanja ili adresu">
+
+<!ENTITY back.label            "Natrag">
+<!ENTITY forward.label         "Naprijed">
+<!ENTITY newtab.label          "Nova kartica">
+<!ENTITY closetab.label        "Zatvori karticu">
+
+<!ENTITY autocompleteResultsHeader.label  "Vaši rezultati">
+
+<!ENTITY appbarErrorConsole.label   "Otvori konzolu grešaka">
+<!ENTITY appbarJSShell.label        "Otvori JavaScript shell">
+<!ENTITY appbarFindInPage2.label    "Pronađi na stranici">
+<!ENTITY appbarViewOnDesktop2.label "Prikaži na radnoj površini">
+
+<!ENTITY topSitesHeader.label        "Najpopularnije">
+<!ENTITY bookmarksHeader.label       "Zabilješke">
+<!ENTITY recentHistoryHeader.label   "Nedavna povijest">
+<!ENTITY remoteTabsHeader.label      "Kartice s ostalih uređaja">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Najpopularnije">
+<!ENTITY narrowBookmarksHeader.label     "Zabilješke">
+<!ENTITY narrowRecentHistoryHeader.label "Nedavna povijest">
+<!ENTITY narrowRemoteTabsHeader.label    "Udaljene kartice">
+
+<!ENTITY downloadsHeader.label     "Preuzimanja">
+<!ENTITY downloadShowPage.label    "Idi na stranicu">
+<!ENTITY downloadShow2.label       "Traži">
+<!ENTITY downloadOpen2.label       "Otvori">
+<!ENTITY downloadCancel.label      "Odustani">
+<!ENTITY downloadPause.label       "Pauziraj">
+<!ENTITY downloadResume.label      "Nastavi">
+<!ENTITY downloadRetry.label       "Pokušaj ponovno">
+<!ENTITY downloadRemove.label      "Ukloni">
+<!ENTITY downloadDelete.label      "Obriši">
+<!ENTITY downloadFailed.label      "Neuspjelo">
+
+<!ENTITY allBookmarks.label        "Prikaži sve zabilješke">
+
+<!ENTITY consoleHeader.label       "Konzola grešaka">
+<!ENTITY consoleAll.label          "Sve">
+<!ENTITY consoleErrors.label       "Greške">
+<!ENTITY consoleWarnings.label     "Upozorenja">
+<!ENTITY consoleMessages.label     "Poruke">
+<!ENTITY consoleCodeEval.label     "Kôd:">
+<!ENTITY consoleClear.label        "Očisti">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Izvorna datoteka:">
+<!ENTITY consoleErrLine.label      "Linija:">
+<!ENTITY consoleErrColumn.label    "Stupac:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Izreži">
+<!ENTITY contextTextCopy.label             "Kopiraj">
+<!ENTITY contextTextPaste.label            "Zalijepi">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Zalijepi i idi">
+<!ENTITY contextTextSelect.label           "Odaberi">
+<!ENTITY contextTextSelectAll.label        "Označi sve">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Otvori poveznicu u novoj kartici">
+<!ENTITY contextCopyLinkHref.label         "Kopiraj poveznicu">
+<!ENTITY contextBookmarkLinkHref.label     "Zabilježi poveznicu">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Spremi u galeriju slika">
+<!ENTITY contextCopyImage.label            "Kopiraj sliku">
+<!ENTITY contextCopyImageLocation.label    "Kopiraj lokaciju slike">
+<!ENTITY contextOpenImageTab.label         "Otvori poveznicu u novoj kartici">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Spremi u videoteku">
+<!ENTITY contextCopyVideoLocation.label    "Kopiraj lokaciju videa">
+<!ENTITY contextOpenVideoTab.label         "Otvori poveznicu u novoj kartici">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "r">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
