@@ -273,6 +273,7 @@ size. -->
 <!ENTITY home_top_sites_title "Sàr-làraichean">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Cuir làrach ris">
 
 <!ENTITY home_history_title "Eachdraidh">
 <!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
