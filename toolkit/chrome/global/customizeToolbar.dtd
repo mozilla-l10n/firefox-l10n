@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Darikê Amûran Kesane Bike">
-
+<!ENTITY dialog.dimensions        "width: 70em; height: 50em;">
 <!ENTITY instructions.description "Ji bo ku bireserekê têxî darikê amûran, bi mişkê pê bigire û kaş bike">
 <!ENTITY show.label               "Nîşan Bide:">
 <!ENTITY iconsAndText.label       "Îkon û Deq">

@@ -22,8 +22,8 @@
 <!ENTITY jobTitleInput.accesskey "S">
 
 <!ENTITY colorGroup.label "Reng:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
+
+
 <!ENTITY colorRadio.label "Reng">
 <!ENTITY colorRadio.accesskey "R">
 

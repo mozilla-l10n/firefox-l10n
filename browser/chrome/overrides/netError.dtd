@@ -38,10 +38,7 @@ that &brandShortName;ê destûra Webê heye an na.</li>
 <!ENTITY generic.longDesc "<p>&brandShortName; ji ber sedemeke nayê zanîn, nikare vê rûpelê veke.</p>">
 
 <!ENTITY malformedURI.title "Çewtî' Navnîşan Nederbasdar e">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Navnîşan bi piranî wekî <strong>http://www.navnisan.com/</strong> tên nivîsandin.</li> 
-<li>Gelo xalbenda parvekirinê (<strong>/</strong>) rast hatiye nivîsandin? Divê ev xalbend, ne çepaldayî lê <strong>rastpaldayî</strong> be.</li> 
-</ul>">
+
 
 <!ENTITY netInterrupt.title "Girêdan qut bû">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -52,10 +49,10 @@ that &brandShortName;ê destûra Webê heye an na.</li>
 
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
-<!ENTITY contentEncodingError.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
+
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-<!ENTITY unsafeContentType.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
+
 
 <!ENTITY netReset.title "Çewtî! Net Reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">

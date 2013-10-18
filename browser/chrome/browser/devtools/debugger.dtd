@@ -93,9 +93,11 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 
-
-
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 

@@ -8,15 +8,15 @@
 <!ENTITY startupPage.accesskey     "D">
 <!ENTITY startupHomePage.label     "Malpera min nîşan bide">
 <!ENTITY startupBlankPage.label    "Rûpeleke vala nîşan bide">
-<!ENTITY startupLastSession.label  "Pace û hilpekînên dawî nîşan bide">
+<!ENTITY startupLastSession.label  "Pencere û hilpekînên dawî nîşan bide">
 
 <!ENTITY homepage.label            "Serûpel:">
 <!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Rûpela derbasdar bi kar bîne">
 <!ENTITY useCurrentPage.accesskey  "d">
 <!ENTITY useMultiple.label         "Rûpelên Derbasdar Bi Kar Bîne">
-
-
+<!ENTITY chooseBookmark.label      "Bijareyê bi kar bîne...">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Vegêrîna Pêşsalixbûyî">
 <!ENTITY restoreDefault.accesskey  "V">
 

@@ -60,7 +60,7 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 <!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-<!ENTITY unsafeContentType.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
+
 
 <!ENTITY netReset.title "Girêdan Qut Bû">
 <!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">

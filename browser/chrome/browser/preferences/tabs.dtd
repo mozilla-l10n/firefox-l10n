@@ -11,7 +11,8 @@
 <!ENTITY warnOpenManyTabs.label       "Dema ku ji yekê zêdetir hilpekîn di bin &brandShortName; 'ê de vebin min hişyar bike">
 <!ENTITY warnOpenManyTabs.accesskey   "v">
 
-
+<!ENTITY restoreTabsOnDemand.label        "Heta neyên hilbijartin hilpekînan bar neke">
+<!ENTITY restoreTabsOnDemand.accesskey    "b">
 
 <!ENTITY switchToNewTabs.label        "Kengê ez girêdanekê di hilpekîneke nû de vekim, demildest veke">
 <!ENTITY switchToNewTabs.accesskey    "s">
