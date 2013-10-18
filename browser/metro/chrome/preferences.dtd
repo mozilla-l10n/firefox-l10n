@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Iestatījumi">
+<!ENTITY optionsHeader.startup.title                             "Palaišana">
+<!ENTITY optionsHeader.homepage.title                            "Palaižot &brandShortName; rādīt">
+<!ENTITY optionsHeader.homepage.startPage.button                 "sākuma lapu">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "cilnes no iepriekšējās reizes">
+<!ENTITY optionsHeader.char.title                                "Simbolu kodējums">
+<!ENTITY optionsHeader.char.autodetect.label                     "Noteikt automātiski">
+<!ENTITY optionsHeader.char.options.label                        "Rādīt kodējuma iestatījumus aplikācijas joslā">
+
+<!ENTITY clearPrivateData.title                                  "Dzēst privātos datus">
+<!ENTITY clearPrivateData.label                                  "Dzēst pārlūkošanas vēsturi, paroles, sīkdatnes un formās ievadīto informāciju">
+<!ENTITY clearPrivateData.button                                 "Dzēst">
+<!ENTITY clearPrivateData.done                                   "Darīts!">
+<!ENTITY clearPrivateData.history                                "Pārlūkošanas vēsture">
+<!ENTITY clearPrivateData.otherdata                              "Citi dati (paroles, kešatmiņa, sīkdatnes, uc)">
+<!ENTITY clearPrivateData.downloadHist                           "Lejupielāžu vēsture">
+<!ENTITY clearPrivateData.cookies                                "Sīkdatnes">
+<!ENTITY clearPrivateData.cache                                  "Kešatmiņa">
+<!ENTITY clearPrivateData.sitePref                               "Lapas iestatījumi">
+<!ENTITY clearPrivateData.formSearchHist                         "Formu un meklēšanas vēsture">
+<!ENTITY clearPrivateData.passwords                              "Saglabātās paroles">
+<!ENTITY clearPrivateData.offline                                "Saglabātos mājas lapu datus">
+<!ENTITY clearPrivateData.logins                                 "Aktīvos pieslēgumus">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Atcerēties paroles">
+<!ENTITY doNotTrack.title                                        "Lūdzu nizspiegot mani">
+<!ENTITY doNotTrack.desc                                         "Teikt lapām:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Es negribu, lai mani izseko">
+<!ENTITY doNotTrack.options.noPreference                         "Neko par maniem izsekošanas iestatījumiem">
+<!ENTITY doNotTrack.options.trackingOkay                         "Es gribu, lai mani izseko">
+<!ENTITY optionsHeader.reporting.title                           "Avārijas ziņojumi">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sūtīt avārijas ziņojumus, lai palīdzētu Mozilla padarīt jūsu pārlūku stabilāku un drošāku">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                            "Dalīties ar  &brandShortName; izmantošanas statistiku, lai Mozilla varētu padarīt jūsu pārlūku vēl labāku">
+

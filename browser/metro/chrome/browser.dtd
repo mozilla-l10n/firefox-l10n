@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Ievadiet meklējamo frāzi vai adresi">
+
+<!ENTITY back.label            "Atpakaļ">
+<!ENTITY forward.label         "Uz priekšu">
+<!ENTITY newtab.label          "Jauna cilne">
+<!ENTITY closetab.label        "Aizvērt cilni">
+
+<!ENTITY autocompleteResultsHeader.label  "Jūsu rezultāti">
+
+<!ENTITY appbarErrorConsole.label   "Atvērt kļūdu konsoli">
+<!ENTITY appbarJSShell.label        "Atvērt JavaScript konsoli">
+<!ENTITY appbarFindInPage2.label    "Atrast lapā">
+<!ENTITY appbarViewOnDesktop2.label "Skatīt uz datora">
+
+<!ENTITY topSitesHeader.label        "Populārākās lapas">
+<!ENTITY bookmarksHeader.label       "Grāmatzīmes">
+<!ENTITY recentHistoryHeader.label   "Nesenā vēsture">
+<!ENTITY remoteTabsHeader.label      "Cilnes no citām ierīcēm">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Populārākās lapas">
+<!ENTITY narrowBookmarksHeader.label     "Grāmatzīmes">
+<!ENTITY narrowRecentHistoryHeader.label "Nesenā vēsture">
+<!ENTITY narrowRemoteTabsHeader.label    "Attālinātās cilnes">
+
+<!ENTITY downloadsHeader.label     "Lejuplādes">
+<!ENTITY downloadShowPage.label    "Iet uz lapu">
+<!ENTITY downloadShow2.label       "Meklēt">
+<!ENTITY downloadOpen2.label       "Atvērt">
+<!ENTITY downloadCancel.label      "Atcelt">
+<!ENTITY downloadPause.label       "Apturēt">
+<!ENTITY downloadResume.label      "Turpināt">
+<!ENTITY downloadRetry.label       "Atkārtot">
+<!ENTITY downloadRemove.label      "Aizvākt">
+<!ENTITY downloadDelete.label      "Dzēst">
+<!ENTITY downloadFailed.label      "Neizdevās">
+
+<!ENTITY allBookmarks.label        "Apskatīt visas grāmatzīmes">
+
+<!ENTITY consoleHeader.label       "Kļūdu konsole">
+<!ENTITY consoleAll.label          "Visas">
+<!ENTITY consoleErrors.label       "Kļūdas">
+<!ENTITY consoleWarnings.label     "Brīdinājumi">
+<!ENTITY consoleMessages.label     "Paziņojumi">
+<!ENTITY consoleCodeEval.label     "Kods:">
+<!ENTITY consoleClear.label        "Attīrīt">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Koda fails:">
+<!ENTITY consoleErrLine.label      "Rindiņa:">
+<!ENTITY consoleErrColumn.label    "Kolona:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Izgriezt">
+<!ENTITY contextTextCopy.label             "Kopēte">
+<!ENTITY contextTextPaste.label            "Ielīmēt">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Ielīmēt un iet">
+<!ENTITY contextTextSelect.label           "Izvēlēties">
+<!ENTITY contextTextSelectAll.label        "Izvēlēties visu">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Atvērt saiti jaunā cilnē">
+<!ENTITY contextCopyLinkHref.label         "Kopēt saiti">
+<!ENTITY contextBookmarkLinkHref.label     "Saglabāt grāmatzīmēs">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Saglabāt attēlu bibliotēkā">
+<!ENTITY contextCopyImage.label            "Kopēt attēlu">
+<!ENTITY contextCopyImageLocation.label    "Kopēt attēla atrašanās vietu">
+<!ENTITY contextOpenImageTab.label         "Atvērt attēlu jaunā cilnē">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Saglabāt video bibliotēkā">
+<!ENTITY contextCopyVideoLocation.label    "Kopēt video atrašanās vietu">
+<!ENTITY contextOpenVideoTab.label         "Atvērt video jaunā cilnē">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
