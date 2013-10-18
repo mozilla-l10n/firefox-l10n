@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Subscrever para a página">
 <!ENTITY contextmenu_site_settings "Editar definições do sítio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Pin do sítio">
-<!ENTITY contextmenu_top_bookmarks_unpin "Unpin do sítio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Pin do sítio">
+<!ENTITY contextmenu_top_sites_unpin "Unpin do sítio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título da página">
@@ -291,7 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Dica: Guarde os artigos na lista de leitura carregando, quando aparecer na barra de título, no botão do modo de leitura.">
 
-<!ENTITY pin_bookmark_dialog_hint "Escreva palavra chave a pesquisar">
+<!ENTITY pin_site_dialog_hint "Escreva palavra chave a pesquisar">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
