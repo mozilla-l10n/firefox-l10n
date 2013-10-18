@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Sestavi">
 <!ENTITY composeButton.accesskey     "L">
+<!ENTITY deleteCardButton.label      "Izbriši">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Napredno iskanje v adresarju">
 
 <!-- Thread Pane -->
