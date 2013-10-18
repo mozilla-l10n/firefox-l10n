@@ -9,7 +9,7 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-
+<!ENTITY sync.title.connect.label "Sambung ke &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Tambah Akaun syncBrand.fullName.label">
 <!ENTITY sync.title.pair.label "Memasangkan Peranti">
 <!-- J-PAKE Key Screen -->
@@ -24,6 +24,8 @@
 <!ENTITY sync.link.advancedsetup.label "Tetapan lanjutan…">
 <!ENTITY sync.link.nodevice.label "Peranti tersebut tidak berada dengan saya…">
 <!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Sedang menunggu peranti yang lain…">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "Masukkan maklumat akaun syncBrand.fullName.label anda">
@@ -76,7 +78,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Penandabuku Tidak Terisih">
 
 <!ENTITY bookmarks.folder.mobile.label "Penandabuku mudah alih">
-
+<!ENTITY bookmarks.folder.readinglist.label "Senarai Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 

@@ -10,19 +10,19 @@
 
 <!ENTITY  bookmarks_title "Penandabuku">
 
-
+<!ENTITY  reading_list_title "Senarai Bacaan">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Pelapor Kerosakan">
-
-
+<!ENTITY  crash_message2 "&brandShortName; mengalami masalah. Tab anda akan disenaraikan pada &brandShortName; Mula muka surat semasa mula semula.">
+<!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
 
 <!ENTITY  crash_sorry "Kami minta maaf">
-
-
+<!ENTITY  crash_comment "Tambah komen (komen boleh dilihat oleh umum)">
+<!ENTITY  crash_allow_contact2 "Benarkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
 <!ENTITY  crash_email "Emel anda">
-
+<!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan kerosakan?">
 <!ENTITY  sending_crash_report "Menghantar laporan kerosakan\u2026">
 <!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Mula semula &brandShortName;">
@@ -45,9 +45,10 @@
 <!ENTITY history_week_section "7 hari yang lepas">
 <!ENTITY history_older_section "Lebih dari 7 hari">
 
+<!ENTITY go "Pergi">
 <!ENTITY search "Carian">
 <!ENTITY reload "Muat Semula">
-
+<!ENTITY forward "Maju">
 <!ENTITY menu "Menu">
 <!ENTITY back "Kembali">
 <!ENTITY stop "Berhenti">
@@ -62,28 +63,28 @@
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
+<!ENTITY pref_category_advanced "Lanjutan">
 
-
-
-
-
-
+<!ENTITY pref_category_search2 "Cari tetapan">
+<!ENTITY pref_category_display "Paparan">
+<!ENTITY pref_category_privacy_short "Privasi">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Pilihan data">
 
 
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
+<!ENTITY pref_category_devtools "Alatan pembangun">
 
-
-
+<!ENTITY pref_developer_remotedebugging_docs "Ketahui lebih lanjut">
 <!ENTITY pref_remember_signons "Ingat Kata Laluan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-
-
-
-
-
+<!ENTITY pref_header_display "Paparan">
+<!ENTITY pref_header_privacy_short "Privasi">
+<!ENTITY pref_header_help "Bantuan">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Alatan pembangun">
 
 <!ENTITY pref_cookies_menu "Cecikut">
 <!ENTITY pref_cookies_accept_all "Bolehkan">
@@ -99,7 +100,7 @@
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
 <!ENTITY pref_clear_private_data "Bersihkan data peribadi">
-
+<!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Bolehkan">
 
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
@@ -113,7 +114,7 @@
 <!ENTITY pref_font_size_medium "Sederhana">
 <!ENTITY pref_font_size_large "Besar">
 <!ENTITY pref_font_size_xlarge "Sangat Besar">
-
+<!ENTITY pref_font_size_set "Tetapkan">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -130,7 +131,7 @@ size. -->
 <!ENTITY pref_import_android "Import dari Android">
 <!ENTITY pref_private_data_history "Layari &amp; sejarah muat turun">
 <!ENTITY pref_private_data_formdata "Form &amp; sejarah carian">
-
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; login aktif">
 
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
@@ -147,25 +148,26 @@ size. -->
 
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-
+<!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
 <!ENTITY datareporting_notification_action "Pilih bahan perkongsian">
 <!ENTITY datareporting_notification_summary "Bagi menambah baik pengalaman anda, &brandShortName; secara automatik menghantar maklumat ke &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Bagi menambah baik pengalaman anda, &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
-
+<!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; tentang kesihatan pelayar anda dan membantu anda memahami prestasi pelayar anda">
+<!ENTITY datareporting_abouthr_title "Lihat Laporan Kesihatan saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan kerosakan untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
+<!ENTITY datareporting_wifi_title "&vendorShortName; servis lokasi">
 
 
 <!ENTITY pref_update_autodownload "Kemaskini automatik">
@@ -176,7 +178,7 @@ size. -->
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Add-ons">
-<!ENTITY downloads "Muat turun">
+<!ENTITY downloads "Muat Turun">
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Pengekodan Aksara">
 
@@ -189,44 +191,51 @@ size. -->
 <!ENTITY tools "Alatan">
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Persendirian Baru">
-<!ENTITY close_all_tabs "Tutup Semua Tab        ">
+<!ENTITY close_all_tabs "Tutup Semua Tab">
 
 <!ENTITY tabs_private "Persendirian">
 
 
-
+<!ENTITY set_image_chooser_title "Tetapkan Imej Sebagai">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_prev "sebelumnya">
-<!ENTITY find_next "seterusnya">
+
+<!ENTITY find_text "Cari dalam Halaman">
+<!ENTITY find_prev "Sebelumnya">
+<!ENTITY find_next "Seterusnya">
 <!ENTITY find_close "Tutup">
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
 
 
-
-
-
+<!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
+<!ENTITY contextmenu_share "Kongsi">
+<!ENTITY contextmenu_pasteandgo "Tampal &amp; Pergi">
 <!ENTITY contextmenu_paste "Tampal">
-
+<!ENTITY contextmenu_copyurl "Salin Alamat">
 <!ENTITY contextmenu_edit_bookmark "Sunting">
 <!ENTITY contextmenu_subscribe "Langgan ke Laman">
-
-
+<!ENTITY contextmenu_site_settings "Sunting Tetapan Laman">
+<!ENTITY contextmenu_top_bookmarks_edit "Sunting">
 <!ENTITY contextmenu_top_bookmarks_pin "Pin Laman">
+<!ENTITY contextmenu_top_bookmarks_unpin "Nyahpin Laman">
 
+<!ENTITY pref_titlebar_mode "Tajuk bar">
+<!ENTITY pref_titlebar_mode_title "Tunjukkan tajuk halaman">
+<!ENTITY pref_titlebar_mode_url "Tunjukkan alamat halaman">
 
+<!ENTITY history_removed "Halaman dikeluarkan">
 
-
-
-
-
+<!ENTITY bookmark_add "Tambah tandabuku">
+<!ENTITY bookmark_edit_title "Sunting PenandaBuku">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata kunci">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "Tetapan Laman">
 <!ENTITY site_settings_cancel       "Batal">
 
 
@@ -254,12 +263,13 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
+<!ENTITY home_history_title "Sejarah">
+
+<!ENTITY home_last_tabs_open "Buka semua tab dari masa lalu">
 
 
-
-
-
-
+<!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
+<!ENTITY home_most_visited_title "Kerap dilawati">
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -268,10 +278,11 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 
-
+<!ENTITY home_most_visited_empty "Laman web yang kerap anda lawati akan dipaparkan di sini.">
+<!ENTITY pin_bookmark_dialog_hint "Masukkan kata kunci carian">
 
 <!ENTITY filepicker_title "Pilih Fail">
-
+<!ENTITY filepicker_audio_title "Pilih atau rekod bunyi">
 <!ENTITY filepicker_image_title "Pilih atau ambil gambar">
 <!ENTITY filepicker_video_title "Pilih atau rekod video">
 <!-- Site identity popup -->
@@ -291,27 +302,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yang dijalankan oleh">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Laman ini memaparkan kandungan yang tidak selamat.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; telah menyekat kandungan yang tidak selamat.">
+<!ENTITY blocked_mixed_content_message_bottom "Kebanyakan laman web akan masih berfungsi dengan baik walaupun kandungan ini disekat.">
 <!ENTITY learn_more "Ketahui Lanjut">
-
-
-
+<!ENTITY enable_protection "Bolehkan perlindungan">
+<!ENTITY disable_protection "Lumpuhkan pelindungan">
+<!ENTITY keep_blocking "Teruskan menyekat">
 
 <!ENTITY private_data_success "Data peribadi dibersihkan">
-
+<!ENTITY private_data_fail "Beberapa data peribadi tidak boleh dibersihkan">
 
 <!ENTITY bookmarkhistory_button_import "Import">
-
-
+<!ENTITY bookmarkhistory_import_both "Mengimport penandabuku dan sejarah 
+dari Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Mengimport penandabuku 
+dari Android">
 
 <!ENTITY bookmarkhistory_import_wait "Sila tunggu...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "Adakah anda ingin menghidupkan &formatS; cadangan carian?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "Cari &formatS1; untuk &formatS2;">
 
+<!ENTITY webapp_generic_name "App">
+
+<!ENTITY searchable_description "Penandabuku dan sejarah">
 
 <!-- Updater notifications --> 
 
@@ -320,8 +341,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "Memuat turun &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Muat turun gagal">
-
-
+<!ENTITY updater_downloading_select2 "Sentuh untuk memasang kemas kini sebaik sahaja dimuat turun">
+<!ENTITY updater_downloading_retry2 "Sentuh untuk cuba lagi">
 
 <!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_apply_select2 "Sentuh untuk kemaskini">
@@ -332,4 +353,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY exit_guest_session_text "Data pelayaran dari sesi ini anda dihapuskan.">
