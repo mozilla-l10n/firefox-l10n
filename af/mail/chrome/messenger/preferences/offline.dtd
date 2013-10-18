@@ -5,24 +5,24 @@
 <!ENTITY offlineDialog.title "Aflynopstelling">
 
 <!ENTITY textStartUp "Wanneer begin:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioRememberPrevState.label "Onthou vorige aanlynstaat">
+<!ENTITY radioRememberPrevState.accesskey "O">
+<!ENTITY radioAskMe.label "Vra my vir aanlynstaat aan begin">
+<!ENTITY radioAskMe.accesskey "b">
+<!ENTITY radioAlwaysOnline.label "Begin altyd aanlyn">
+<!ENTITY radioAlwaysOnline.accesskey "B">
 
 <!ENTITY textGoingOnline "Stuur ongestuurde boodskappe wanneer aanlyn gaan?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioAutoSend.label "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
 <!ENTITY radioNotSend.label "Nee">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent.label "Vra my">
+<!ENTITY radioAskUnsent.accesskey "V">
 <!ENTITY textGoingOffline "Laai boodskappe af vir aflyngebruik wanneer aflyn gaan?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAutoDownload.label "Ja">
+<!ENTITY radioAutoDownload.accesskey "J">
+<!ENTITY radioNotDownload.label "Nee">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload.label "Vra my">
+<!ENTITY radioAskDownload.accesskey "V">

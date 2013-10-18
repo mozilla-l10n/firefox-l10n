@@ -2,23 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Account Settings">
-
 <!ENTITY biffStart.label "Kontroleer vir nuwe artikels elke ">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minute">
 
-<!ENTITY loginAtStartup.label "Kontroleer vir nuwe artikels aan die begin">
+<!ENTITY loginAtStartup.label "Kontroleer vir nuwe artikels aan die begin"> 
 <!ENTITY loginAtStartup.accesskey "K">
 
-<!ENTITY useQuickMode.label "Wys by verstek die artikelopsomming in plaas daarvan om die webbladsy te laai">
+<!ENTITY useQuickMode.label "Wys by verstek die artikelopsomming in plaas daarvan om die webbladsy te laai"> 
 <!ENTITY useQuickMode.accesskey "b">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions…">
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Bestuur intekeninge…"> 
+<!ENTITY manageSubscriptions.accesskey "B">
+
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.accountName "Blogs en nuusvoere">
 <!ENTITY feeds.wizardShortName "Voere">
-<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feeds.wizardLongName "Blogs en nuusvoere">
+<!ENTITY feeds.wizardLongName.accesskey "v">

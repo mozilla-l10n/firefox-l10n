@@ -1,41 +1,46 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
 
+
 <!ENTITY copyAndFolderTitle.label "Afskrifte en vouers">
-<!ENTITY sendingPrefix.label "Wanneer boodskappe gestuur word, doen dit outomaties: ">
+<!ENTITY sendingPrefix.label "Wanneer boodskappe gestuur word, doen die volgende outomaties: ">
 <!ENTITY fccMailFolder.label "Bêre 'n afskrif in:">
 <!ENTITY fccMailFolder.accesskey "B">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "c">
+
+
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Stuur aan hierdie e-posadresse in CC:">
+<!ENTITY ccAddress.accesskey "C">
+
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Stuur BCC aan hierdie e-posadresse:">
+<!ENTITY bccAddress.label "Stuur aan hierdie e-posadresse in BCC:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "w">
+
+<!ENTITY saveMessageDlg.label "Wys bevestigingdialoog wanneer boodskappe gestoor word">
+<!ENTITY saveMessageDlg.accesskey "W">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
-<!ENTITY sentFolderOn.accesskey "S">
+
 <!ENTITY sentInOtherFolder.label "Ander:">
 <!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+
+
+
+
+
+
+<!ENTITY archiveInOtherFolder.label "Ander:">
+<!ENTITY archiveInOtherFolder.accesskey "A">
+<!ENTITY specialFolders.label "Onvoltooid en sjablone">
+<!ENTITY keepDrafts.label "Hou onvoltooide boodskappe in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Onvoltooid&quot;-vouer op:">
-<!ENTITY draftsFolderOn.accesskey "O">
+
 <!ENTITY draftInOtherFolder.label "Ander:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Other:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY keepTemplates.label "Hou boodskapsjablone in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Sjablone&quot;-vouer op:">
-<!ENTITY templatesFolderOn.accesskey "a">
-<!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Drafts, Archives, and Templates">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepTempltes.label "Keep message templates in:">
+
+<!ENTITY templateInOtherFolder.label "Ander:">
+<!ENTITY templateInOtherFolder.accesskey "A">

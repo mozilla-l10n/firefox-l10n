@@ -2,15 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title "System Integration">
-<!ENTITY defaultClient.intro "Gebruik &brandShortName; as die verstekkliënt vir:">
+<!ENTITY systemIntegration.title  "Stelselintegrasie">
+
+
+<!ENTITY cancelIntegration2.label  "Kanselleer">
+<!ENTITY defaultClient.intro  "Gebruik &brandShortName; as die verstekkliënt vir:">
 
 <!ENTITY email.label "E-pos">
 <!ENTITY newsgroups.label "Nuusgroepe">
-<!ENTITY feeds.label "Voere">
+<!ENTITY feeds.label "Nuusvoere">
+
 
 <!ENTITY checkOnStartup.label "Kontroleer altyd wanneer &brandShortName; begin word">
 <!ENTITY checkOnStartup.accesskey "K">
 
-<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.label "Laat &searchIntegration.engineName; toe om boodskappe te deursoek">
+<!ENTITY searchIntegration.accesskey "b">

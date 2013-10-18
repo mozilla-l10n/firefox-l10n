@@ -3,22 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Gemorspos-opstelling">
-<!ENTITY trainingWarning.label "Indien geaktiveer, moet u eers &brandShortName; oplei om gemorspos te herken deur met die Gemorspos-nutsbalkknoppie boodskappe as gemors te merk of nie. U kan beide gemors- en niegemors-boodskappe identifiseer.">
+
 <!ENTITY level.label "Aktiveer aanpassende gemorsposkontrole vir hierdie rekening">
 <!ENTITY level.accesskey "A">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
+<!ENTITY move.label "Skuif nuwe gemorspos na:">
+<!ENTITY move.accesskey "S">
+
+
+<!ENTITY otherFolder.label "Ander:">
+<!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Skrap gemorspos outomaties indien ouer as">
 <!ENTITY purge1.accesskey "o">
 <!ENTITY purge2.label "dae">
 
-<!ENTITY whitelist.label "Moenie boodskappe as gemorspos merk as die afsender hierin is nie: ">
-<!ENTITY whitelist.accesskey "M">
+
 
 <!ENTITY ispHeaders.label "Vertrou gemorspos-kopskrifte wat opgestel is deur: ">
 <!ENTITY ispHeaders.accesskey "V">
+
+<!ENTITY junkClassification.label "Seleksie">
+
+
+

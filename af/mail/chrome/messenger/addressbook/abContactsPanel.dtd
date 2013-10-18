@@ -2,21 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label "Address Book:">
-<!ENTITY addressbookPicker.accesskey "k">
-<!ENTITY searchInput.label "Search For:">
-<!ENTITY searchInput.accesskey "o">
-<!ENTITY SearchNameOrEmail.label "Naam of e-pos">
+<!ENTITY addressbookPicker.label            "Adresboek:">
+<!ENTITY addressbookPicker.accesskey        "b">
+<!ENTITY searchInput.label                  "Soek vir:">
+<!ENTITY searchInput.accesskey              "v">
+<!ENTITY SearchNameOrEmail.label            "Naam of e-pos">
 
-<!ENTITY deleteAddrBookCard.label "Skrap">
-<!ENTITY addrBookCardProperties.label "Eienskappe">
-<!ENTITY addtoToFieldMenu.label "Voeg by Aan-veld">
-<!ENTITY addtoCcFieldMenu.label "Voeg by CC-veld">
-<!ENTITY addtoBccFieldMenu.label "Voeg by BCC-veld">
 
-<!ENTITY toButton.label "Add to To:">
-<!ENTITY toButton.accesskey "A">
-<!ENTITY ccButton.label "Add to Cc:">
-<!ENTITY ccButton.accesskey "d">
-<!ENTITY bccButton.label "Add to Bcc:">
-<!ENTITY bccButton.accesskey "B">
+
+
+
+
+
+
+
+
+
+<!ENTITY toButton.label                     "Voeg by Aan:">
+<!ENTITY toButton.accesskey                 "V">
+
+
+<!ENTITY bccButton.label                    "Voeg by BCC:">
+<!ENTITY bccButton.accesskey                "B">

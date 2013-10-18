@@ -1,20 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Sekuriteit">
-<!ENTITY securityMenu.accesskey "e">
 
 <!ENTITY menu_securityEncryptRequire.label "Enkripteer dié boodskap">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "Moenie dié boodskap enkripteer nie">
-<!ENTITY menu_securityNoEncryption.accesskey "n">
-
-<!ENTITY menu_securitySign.label "Onderteken hierdie boodskap digitaal">
-<!ENTITY menu_securitySign.accesskey "d">
+<!ENTITY menu_securitySign.label "Digitaal onderteken dié boodskap">
+<!ENTITY menu_securitySign.accesskey "o">
 
 <!ENTITY menu_securityStatus.label "Bekyk sekuriteitsinligting">
 <!ENTITY menu_securityStatus.accesskey "i">

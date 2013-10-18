@@ -15,7 +15,7 @@
 <!ENTITY locationEditField.tooltip "Tik die prent se lêernaam of ligging in">
 <!ENTITY title.label "Nutswenk:">
 <!ENTITY title.accessKey "N">
-<!ENTITY title.tooltip 'Die HTML-"title"-attribuut wat as opwipwenk vertoon'>
+<!ENTITY title.tooltip "Die HTML-&quot;title&quot;-attribuut wat as opwipwenk vertoon">
 <!ENTITY altText.label "Alt-teks:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Tik teks in wat in die plek van die prent vertoon moet word">
@@ -45,8 +45,6 @@
 <!ENTITY imagemapBox.label "Prentkaart">
 <!ENTITY removeImageMapButton.label "Verwyder">
 <!ENTITY removeImageMapButton.accessKey "V">
-<!ENTITY editImageMapButton.label "Edit…">
-<!ENTITY editImageMapButton.tooltip "Skep kliekkolle vir hierdie prent">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Rig teks volgens prent">
@@ -68,6 +66,9 @@
 
 <!ENTITY showImageLinkBorder.label "Wys rand rondom geskakelde prent">
 <!ENTITY showImageLinkBorder.accessKey "r">
+
+
+<!ENTITY LinkAdvancedEditButton.tooltip "Wysig of voeg HTML-attribute, styl-attribute en JavaScript by">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Vorm">

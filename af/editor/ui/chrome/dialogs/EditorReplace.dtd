@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Vervang met:">
 <!ENTITY replaceField.accesskey "v">
-<!ENTITY caseSensitiveCheckbox.label "Match exact case">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.label "Pas presies by kas">
+<!ENTITY caseSensitiveCheckbox.accesskey "P">
 <!ENTITY wrapCheckbox.label "Vou om">
 <!ENTITY wrapCheckbox.accesskey "V">
 <!ENTITY backwardsCheckbox.label "Deursoek terugwaarts">
