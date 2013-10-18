@@ -26,11 +26,11 @@
 <!ENTITY newevent.status.needsaction.label        "Feumach air gnìomh" >
 <!ENTITY newevent.status.inprogress.label         "'Ga phròiseasadh" >
 <!ENTITY newevent.status.completed.label          "Air a choileanadh" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; deiseil">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; deiseil">
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -44,8 +44,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Ùr">
 <!ENTITY  event.menu.item.new.accesskey                   "r">
 <!ENTITY  event.menu.item.new.event.label                 "Tachartas">
@@ -105,8 +105,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Cuir ceangal ris…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone2.label                   "Seall an roinn-tìde">
-<!ENTITY  event.menu.options.timezone2.accesskey               "a">
+<!ENTITY  event.menu.options.timezone2.label                  "Seall an roinn-tìde">
+<!ENTITY  event.menu.options.timezone2.accesskey              "a">
 <!ENTITY  event.menu.options.priority2.label                  "Prìomhachas">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Gun sònrachadh">
@@ -138,15 +138,15 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Sgrìobh post-dealain dha na freastalaichean nach eil cinnteach fhathast…">
 <!ENTITY event.email.tentative.attendees.accesskey        "S">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ceartachadh an litreachaidh">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Àite:" >
@@ -210,8 +210,8 @@
 <!ENTITY event.reminder.custom.label                      "Gnàthaichte…" >
 
 <!ENTITY event.reminder.multiple.label                    "Cuir 'nam chuimhne iomadh turas…" >
-
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Deasaich an tricead">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Cha tachair seo ach an aon turas">
@@ -260,7 +260,6 @@
 <!ENTITY event.recurrence.every.label                        "Gach:" >
 <!ENTITY repeat.units.years.both                             "Bliadhna" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Gach" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -268,6 +267,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Faoilleach" >
@@ -316,8 +316,8 @@
 <!ENTITY event.recurrence.appointments.label            "Coinneamh(an)" >
 <!ENTITY event.repeat.until.label                       "Dèan a-rithist gu ruige" >
 <!ENTITY event.recurrence.preview.label                 "Ro-sheall">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Thoir cuireadh do dhaoine">
 <!ENTITY event.organizer.label                  "Eagraiche">
 <!ENTITY event.freebusy.suggest.slot            "Mol àm:">
@@ -337,12 +337,12 @@
 <!ENTITY event.attendee.usertype.group          "Buidheann">
 <!ENTITY event.attendee.usertype.resource       "Goireas">
 <!ENTITY event.attendee.usertype.room           "Seòmar">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Sònraich an roinn-tìde">
 <!ENTITY event.timezone.custom.label     "Barrachd roinnean-tìde…">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "Coitcheann">
 <!ENTITY read.only.title.label           "Tiotal:">
 <!ENTITY read.only.event.start.label     "Latha tòiseachaidh:">

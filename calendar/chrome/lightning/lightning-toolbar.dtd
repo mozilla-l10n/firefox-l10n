@@ -12,20 +12,20 @@
 <!ENTITY lightning.toolbar.edit.label "Deasaich">
 <!ENTITY lightning.toolbar.gototoday.label "Rach gu an-diugh">
 <!ENTITY lightning.toolbar.print.label "Clò-bhuail">
-
 <!-- Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.calendar.label     "Mìosachan">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Leum gu taba a' mhìosachain">
-<!ENTITY lightning.toolbar.calendar.accesskey "m">
+<!ENTITY lightning.toolbar.calendar.accesskey "M">
 <!ENTITY lightning.toolbar.task.label         "Saothraichean">
 <!ENTITY lightning.toolbar.task.tooltip       "Leum gu taba nan saothraichean">
-<!ENTITY lightning.toolbar.task.accesskey     "L">
-
+<!ENTITY lightning.toolbar.task.accesskey     "T">
 <!-- Toolbar write button -->
+
 <!ENTITY lightning.toolbar.newevent.label     "Tachartas">
 <!ENTITY lightning.toolbar.newtask.label      "Saothair">
-
 <!-- Calendar and Task Mode Toolbar -->
+
 <!ENTITY lightning.toolbar.day.label                 "Latha">
 <!ENTITY lightning.toolbar.day.accesskey             "L">
 <!ENTITY lightning.toolbar.week.label                "Seachdain">
@@ -34,7 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "I">
 <!ENTITY lightning.toolbar.month.label               "Mìos">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Clàr-taice na h-aplacaid">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Seall clàr-taice &brandShortName;">

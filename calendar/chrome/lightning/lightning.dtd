@@ -1,57 +1,57 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Am mìosachan">
 
+
+<!ENTITY lightning.preferencesLabel "Am mìosachan">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Tachartas…">
 <!ENTITY lightning.menupopup.new.event.accesskey "T">
 <!ENTITY lightning.menupopup.new.task.label     "Saothair…">
 <!ENTITY lightning.menupopup.new.task.accesskey "t">
 <!ENTITY lightning.menupopup.new.calendar.label "Mìosachan…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Fosgail">
 <!ENTITY lightning.menupopup.open.accesskey           "o">
 <!ENTITY lightning.menupopup.open.message.label       "Teachdaireachd shàbhailichte…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "T">
 <!ENTITY lightning.menupopup.open.calendar.label      "Faidhle mìosachain…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Mìosachan">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Saothraichean">
 <!ENTITY lightning.menu.view.tasks.accesskey           "S">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Tachartasan is saothraichean">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
-
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.email.label               "Post-dealain:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Tha cuireadh gu tachartas san teachdaireachd seo.">
 
+<!ENTITY lightning.imipbar.description "Tha cuireadh gu tachartas san teachdaireachd seo.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Cruthaich mìosachan ùr">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Cruthaich mìosachan ùr">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Seall meanbh-mhìos">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Seall meanbh-latha">
