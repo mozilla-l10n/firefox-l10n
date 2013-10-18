@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Možnosti">
+<!ENTITY optionsHeader.startup.title                             "Zagon">
+<!ENTITY optionsHeader.homepage.title                            "Ko se &brandShortName; zažene, prikaži">
+<!ENTITY optionsHeader.homepage.startPage.button                 "domačo stran">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "nazadnje odprte zavihke">
+<!ENTITY optionsHeader.char.title                                "Kodiranje znakov">
+<!ENTITY optionsHeader.char.autodetect.label                     "Samodejno zaznaj">
+<!ENTITY optionsHeader.char.options.label                        "Prikaži kodiranje znakov v vrstici s programi">
+
+<!ENTITY clearPrivateData.title                                  "Počisti zasebne podatke">
+<!ENTITY clearPrivateData.label                                  "Počisti zgodovino brskanja, gesla, piškotke in podatke obrazcev na tej napravi">
+<!ENTITY clearPrivateData.button                                 "Počisti">
+<!ENTITY clearPrivateData.done                                   "Končano!">
+<!ENTITY clearPrivateData.history                                "Zgodovino brskanja">
+<!ENTITY clearPrivateData.otherdata                              "Druge podatke (gesla, predpomnilnik, piškotke, itd.)">
+<!ENTITY clearPrivateData.downloadHist                           "Zgodovino prenosov">
+<!ENTITY clearPrivateData.cookies                                "Piškotke">
+<!ENTITY clearPrivateData.cache                                  "Predpomnilnik">
+<!ENTITY clearPrivateData.sitePref                               "Nastavitve strani">
+<!ENTITY clearPrivateData.formSearchHist                         "Zgodovino obrazcev in iskanja">
+<!ENTITY clearPrivateData.passwords                              "Shranjena gesla">
+<!ENTITY clearPrivateData.offline                                "Podatke pri delu brez povezave">
+<!ENTITY clearPrivateData.logins                                 "Aktivne prijave">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Zapomni si gesla">
+<!ENTITY doNotTrack.title                                        "Sledenje">
+<!ENTITY doNotTrack.desc                                         "Stranem sporoči:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "naj mi ne sledijo">
+<!ENTITY doNotTrack.options.noPreference                         "ne sporočaj mojih nastavitev sledenja">
+<!ENTITY doNotTrack.options.trackingOkay                         "naj mi sledijo">
+<!ENTITY optionsHeader.reporting.title                           "Poročevalec o sesutju">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; pošilja poročila o sesutju Mozilli, da lahko naredi brskalnik bolj varen in zanesljiv">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                            "Pošilja statistične podatke o uporabi &brandShortName;a Mozilli, da lahko naredi vaš brskalnik boljši">
