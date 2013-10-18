@@ -4,17 +4,24 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "Chwilio neu Gyfeiriad Gwe">
 
+<!ENTITY back.label            "Nôl">
+<!ENTITY forward.label         "Ymlaen">
+<!ENTITY newtab.label          "Tab Newydd">
+<!ENTITY closetab.label        "Cau Tab">
 
+<!ENTITY autocompleteResultsHeader.label  "Eich Canlyniadau">
 
-
-
+<!ENTITY appbarErrorConsole.label   "Agor y consol gwall">
+<!ENTITY appbarJSShell.label        "Agor cragen JavaScript">
 <!ENTITY appbarFindInPage2.label    "Canfod yn y dudalen">
+<!ENTITY appbarViewOnDesktop2.label "Gweld ar y bwrdd gwaith">
 
-
-
-
-
+<!ENTITY topSitesHeader.label        "Hoff Wefannau">
+<!ENTITY bookmarksHeader.label       "Nodau Tudalen">
+<!ENTITY recentHistoryHeader.label   "Hanes Diweddar">
+<!ENTITY remoteTabsHeader.label      "Tabiau o Ddyfeisiau Eraill">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -23,28 +30,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Hoff Wefannau">
+<!ENTITY narrowBookmarksHeader.label     "Nodau Tudalen">
+<!ENTITY narrowRecentHistoryHeader.label "Hanes Diweddar">
+<!ENTITY narrowRemoteTabsHeader.label    "Tabiau Pell">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "Llwythi">
+<!ENTITY downloadShowPage.label    "Mynd i Dudalen">
+<!ENTITY downloadShow2.label       "Canfod">
 <!ENTITY downloadOpen2.label       "Agor">
 <!ENTITY downloadCancel.label      "Diddymu">
-
+<!ENTITY downloadPause.label       "Oedi">
 <!ENTITY downloadResume.label      "Ailgychwyn">
 <!ENTITY downloadRetry.label       "Ceisio eto">
 <!ENTITY downloadRemove.label      "Tynnu">
-
+<!ENTITY downloadDelete.label      "Dileu">
 <!ENTITY downloadFailed.label      "Methiant">
 
+<!ENTITY allBookmarks.label        "Gweld pob nod tudalen">
 
+<!ENTITY consoleHeader.label       "Consol Gwall">
 <!ENTITY consoleAll.label          "Popeth">
 <!ENTITY consoleErrors.label       "Gwallau">
 <!ENTITY consoleWarnings.label     "Rhybuddion">
-
-
+<!ENTITY consoleMessages.label     "Negeseuon">
+<!ENTITY consoleCodeEval.label     "Cod:">
 <!ENTITY consoleClear.label        "Clirio">
-
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Ffeil Ffynhonnell:">
 <!ENTITY consoleErrLine.label      "Llinell:">
 <!ENTITY consoleErrColumn.label    "Colofn:">
@@ -54,33 +66,44 @@
 <!ENTITY contextTextCopy.label             "Copïo">
 <!ENTITY contextTextPaste.label            "Gludo">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Gludo a mynd">
 <!ENTITY contextTextSelect.label           "Dewis">
-
+<!ENTITY contextTextSelectAll.label        "Dewis popeth">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "Agor dolen mewn tab newydd">
+<!ENTITY contextCopyLinkHref.label         "Copïo dolen">
+<!ENTITY contextBookmarkLinkHref.label     "Dolen Nod Tudalen">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Cadw i lyfrgell lluniau">
+<!ENTITY contextCopyImage.label            "Copïo delwedd">
+<!ENTITY contextCopyImageLocation.label    "Copïo lleoliad delwedd">
+<!ENTITY contextOpenImageTab.label         "Agor delwedd mewn tab newydd">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Cadw i lyfrgell fideo">
+<!ENTITY contextCopyVideoLocation.label    "Copïo lleoliad fideo">
+<!ENTITY contextOpenVideoTab.label         "Agor fideo mewn tab newydd">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "Ynghylch">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Gan &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Darllenwch bolisi preifatrwydd &brandShortName; ar-lein">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Gwirio am ddiweddariadau…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -45,5 +48,5 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Ar hyn o bryd rydych ar y sianel diweddaru ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.end    " sianel diweddaru. ">
 

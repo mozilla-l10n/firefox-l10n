@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Hoff Wefannau">
-<!ENTITY  awesomebar_bookmarks_title "Nodau Tudalen">
-<!ENTITY  awesomebar_history_title "Hanes">
-<!ENTITY  awesomebar_switch_to_tab "Newid i\u0027r tab">
+<!ENTITY  bookmarks_title "Nodau Tudalen">
+
+<!ENTITY  reading_list_title "Rhestr Ddarllen">
+
+<!ENTITY  switch_to_tab "Newid i\u0027r tab">
 
 <!ENTITY  crash_reporter_title "Adroddwr Chwalu &brandShortName;">
 <!ENTITY  crash_message2 "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Dewis Ffeil">
 
-<!ENTITY awesomebar_default_text "Chwilio neu Gyfeiriad Gwe">
-
-<!ENTITY remote_tabs "Tabiau wedi eu Cydweddu">
-<!ENTITY remote_tabs_show_all "Dangos pob tab">
+<!ENTITY url_bar_default_text "Chwilio neu Gyfeiriad Gwe">
 
 <!ENTITY bookmark "Nod Tudalen">
 <!ENTITY bookmark_added "Ychwanegwyd Nod Tudalen">
@@ -72,6 +72,10 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
+
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
 <!ENTITY pref_category_devtools "Offer datblygwyr">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_developer_remotedebugging_docs "Dysgu rhagor">
@@ -107,8 +111,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
 <!ENTITY pref_restore "Tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
-<!ENTITY pref_restore_crash "Adfer ar ôl chwalu">
-<!ENTITY pref_restore_never "Peidio byth adfer">
+
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -144,6 +147,10 @@ size. -->
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
+
+
+
+
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
@@ -208,8 +215,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
 <!ENTITY contextmenu_open_in_reader "Agor yn y Darllenydd">
-<!ENTITY contextmenu_remove_history "Tynnu">
-<!ENTITY contextmenu_remove_bookmark "Tynnu">
+
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
 <!ENTITY contextmenu_share "Rhannu">
 <!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
@@ -218,6 +224,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 <!ENTITY contextmenu_subscribe "Tanysgrifio i Dudalen">
 <!ENTITY contextmenu_site_settings "Golygu Gosodiadau\u0027r Wefan">
+
+<!ENTITY contextmenu_top_bookmarks_pin "Pinio Gwefan">
+<!ENTITY contextmenu_top_bookmarks_unpin "Dad-binio Gwefan">
 
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
@@ -237,7 +246,6 @@ size. -->
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
 
-<!ENTITY reading_list "Rhestr Ddarllen">
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
 <!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
@@ -260,28 +268,25 @@ size. -->
 <!ENTITY button_set "Gosod">
 <!ENTITY button_clear "Clirio">
 
-<!ENTITY abouthome_addons_title "Ychwanegion &brandShortName;">
-<!ENTITY abouthome_addons_browse "Pori holl ychwanegion &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Eich tabiau o’r tro diwethaf">
-<!ENTITY abouthome_last_tabs_open "Agor pob tab ers y tro diwethaf">
-<!ENTITY abouthome_top_sites_title "Hoff wefannau">
-<!ENTITY abouthome_topsites_edit "Golygu">
-<!ENTITY abouthome_topsites_pin "Pinio Gwefan">
-<!ENTITY abouthome_topsites_unpin "Dad-binio Gwefan">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_top_sites_title "Hoff Wefannau">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
-<!ENTITY abouthome_about_sync3 "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Estynnwch apiau o\u0027r Mozilla Marketplace a darganfod y gorau sydd gan y We ei gynnig&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+
+<!ENTITY home_last_tabs_open "Agor pob tab ers y tro diwethaf">
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
 
 <!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
@@ -327,6 +332,9 @@ o Android">
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "Hoffech chi gychwyn awgrymiadau chwilio &formatS;?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
 <!ENTITY webapp_generic_name "Ap">
 

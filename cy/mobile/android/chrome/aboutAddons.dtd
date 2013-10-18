@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Ychwanegion">
 <!ENTITY aboutAddons.header2                    "Eich Ychwanegion">
 <!ENTITY aboutAddons.options                    "Dewisiadau">
+<!ENTITY aboutAddons.browseAll                  "Porwch Ychwanegion Firefox">
 
 <!ENTITY addonAction.enable                     "Galluogi">
 <!ENTITY addonAction.disable                    "Atal">
 <!ENTITY addonAction.uninstall                  "Dadosod">
 <!ENTITY addonAction.undo                       "Dadwneud">
-<!ENTITY addonAction.setDefault                 "Gosod fel y rhagosodedig">

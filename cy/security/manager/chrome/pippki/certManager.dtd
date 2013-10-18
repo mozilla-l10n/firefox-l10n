@@ -44,9 +44,9 @@
 <!ENTITY certmgr.editcert.trustemail          "Mae'r dystysgrif yn medru adnabod defnyddwyr e-bost.">
 <!ENTITY certmgr.editcert.trustobjsign        "Mae'r dystysgrif yn medru adnabod gwneuthurwyr meddalwedd.">
 <!ENTITY certmgr.editemailcert.title          "Golygu gosodiadau ymddiriedaeth tystysgrif e-bost">
-
-
-
+<!ENTITY certmgr.editemailcert.edittrust      "Golygu gosodiadau diogelwch tystysgrifau:">
+<!ENTITY certmgr.editemailcert.dotrust        "Ymddiried yn nilysrwydd y dystysgrif.">
+<!ENTITY certmgr.editemailcert.donttrust      "Peidio ymddiried yn nilysrwydd y dystysgrif.">
 
 <!ENTITY certmgr.deletecert.title             "Dileu Tystysgrif">
 <!ENTITY certmgr.deletecert.beforename        "Rydych wedi gwneud cais i ddileu'r dystysgrif:">
