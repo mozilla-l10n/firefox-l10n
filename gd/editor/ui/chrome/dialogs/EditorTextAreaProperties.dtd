@@ -7,9 +7,9 @@
 <!ENTITY Settings.label "Roghainnean">
 
 <!ENTITY TextAreaName.label "Ainm an raoin:">
-<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaName.accessKey "n">
 <!ENTITY TextAreaRows.label "Sreathan:">
-<!ENTITY TextAreaRows.accessKey "R">
+<!ENTITY TextAreaRows.accessKey "r">
 <!ENTITY TextAreaCols.label "Colbhan:">
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "Ri leughadh a-mhàin">
@@ -17,11 +17,11 @@
 <!ENTITY TextAreaDisabled.label "Air a chur à comas">
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "Clàr-innse tabaichte:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Iuchair inntrigidh:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
 <!ENTITY InitialText.label "An teacsa tùsail:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY InitialText.accessKey "t">
 
 <!ENTITY TextAreaWrap.label "Am modh pasgaidh:">
 <!ENTITY TextAreaWrap.accessKey "W">

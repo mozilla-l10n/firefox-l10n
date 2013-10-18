@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!ENTITY itemGeneral.label       "Coitcheann">
 <!ENTITY itemDisplay.label       "Leughadh ┐ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
 <!ENTITY itemNetworking.label    "An lìonra ┐ àite air an diosg">
 <!ENTITY itemCertificates.label  "Teisteanasan">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Cuir a-null dàta mun dèanadas">
 <!ENTITY submitTelemetry.accesskey     "u">
@@ -35,8 +35,8 @@
 <!ENTITY returnReceiptsInfo.label      "Suidhich mar a làimhsicheas &brandShortName; na bannan-cuidhteis">
 <!ENTITY showReturnReceipts.label      "Bannan-cuidhteis…">
 <!ENTITY showReturnReceipts.accesskey  "B">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Leughadh">
 <!ENTITY display.caption               "Taisbeanadh">
 <!ENTITY showCondensedAddresses.label  "Na seall ach an t-ainm-taisbeanaidh airson nan daoine ann an leabhar nan seòladh agam">
@@ -61,8 +61,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Dùin uinneag/taba na teachdaireachd nuair a sguabas mi às fear no ma ghluaiseas mi fear">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Lorgar ùrachaidhean airson na leanas leis fhèin:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
@@ -80,8 +80,8 @@
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "b">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Roghainnean…">
 <!ENTITY showSettings.accesskey        "R">
 <!ENTITY proxiesConfigure.label        "Rèitich mar a cheanglas &brandShortName; ris an lìon">
@@ -91,24 +91,24 @@
 <!ENTITY showOffline.label             "Far loidhne…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Àite air an diosg">
+<!ENTITY Diskspace                       "Àite air an diosg">
 <!ENTITY offlineCompactFolders.label     "CDùmhlaich na pasgain nan sàbhaladh seo barrachd air">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB uile gu lèir">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Cleachd suas gu">
 <!ENTITY useCacheBefore.accesskey        "u">
 <!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
 <!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
 <!ENTITY clearCacheNow.accesskey         "c">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
 <!ENTITY certs.auto                      "Taghar fear leis fhèin">
 <!ENTITY certs.auto.accesskey            "T">

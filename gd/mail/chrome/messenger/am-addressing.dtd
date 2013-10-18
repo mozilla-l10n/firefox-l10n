@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Sgrìobhadh ┐ seòlachadh">
 <!ENTITY addressingGroupTitle.label "Seòlachadh">
@@ -10,16 +10,16 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Cleachd na roghainnean frithealaiche LDAP uile-choitcheann agam airson a' chunntais seo">
 <!ENTITY useGlobal.accesskey       "u">
-<!ENTITY editDirectories.label     "Deasaich eòlairean…">
+<!ENTITY editDirectories.label     "Deasaich nam pasganan…">
 <!ENTITY editDirectories.accesskey "e">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Cleachd frithealaiche LDAP eile:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Chan eil gin">
-
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Sgrìobhadh">
+
+<!ENTITY compositionGroupTitle.label          "Sgrìobhadh">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sgrìobh teachdaireachdan ann an cruth HTML">
 <!ENTITY useHtml.accesskey                    "c">

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Foillsich an duilleag">
 <!ENTITY windowTitleSettings.label    "Foillsich na roghainnean">
 <!ENTITY publishTab.label             "Foillsich">
 <!ENTITY settingsTab.label            "Roghainnean">
 <!ENTITY publishButton.label          "Foillsich">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Ainm na làraich:">
 <!ENTITY siteList.accesskey           "A">
 <!ENTITY siteList.tooltip             "Tagh an làrach far an dèid fhoillseachadh">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label           "Thoir air falbh làrach">
 <!ENTITY removeButton.accesskey       "r">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Làraichean foillseachaidh">
 <!ENTITY serverInfo.label             "Fiosrachadh an fhrithealaiche">
 <!ENTITY loginInfo.label              "Fiosrachadh logaidh a-steach">
@@ -53,7 +53,7 @@
 <!ENTITY siteUrl.tooltip              "An seòladh FTP:// no HTTP:// a thug an t-ISP no seirbheis òstaireachd-lìn dhut">
 <!ENTITY browseUrl.label              "Seòladh HTTP na duilleige-dachaigh agad (m.e.: 'http://www.antispagam.com/antainmcleachdaicheagam'):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "Seòladh HTTP:// an eòlaire dachaigh agad (na gabh a-steach ainm an fhaidhle)">
+<!ENTITY browseUrl.tooltip            "Seòladh HTTP:// am pasgan dachaigh agad (na gabh a-steach ainm an fhaidhle)">
 <!ENTITY username.label               "Ainm a' chleachdaiche:">
 <!ENTITY username.accesskey           "A">
 <!ENTITY username.tooltip             "An t-ainm cleachdaiche a chleachdas tu gus logadh a-steach aig an ISP no seirbheis òstaireachd-lìn agad">

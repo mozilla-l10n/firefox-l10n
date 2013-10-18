@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label           "Nuair a thig bann-cuidhteis a-steach:">
 <!ENTITY leaveIt.label                 "Fàg e sa bhogsa a-steach agam">
 <!ENTITY leaveIt.accesskey             "F">
-<!ENTITY moveToSent.label              "Gluais e do phasgan a' phuist &quot;chuirte&quot; agam">
+<!ENTITY moveToSent.label              "Gluais e do phasgan a&apos; phuist &quot;chuirte&quot; agam">
 <!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "Nuair a thig iarrtas airson bann-cuidhteis a-steach:">
 <!ENTITY never.label                   "Na cuir bannan-cuidhteis idir">

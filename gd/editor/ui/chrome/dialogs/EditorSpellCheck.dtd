@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Ceartaich an litreachadh">
 
 <!ENTITY misspelledWord.label "Facal air a dhroch litreachadh:">
@@ -13,13 +13,13 @@
 <!ENTITY suggestions.label "Molaidhean:">
 <!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "Leig seachad">
-<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreButton.accessKey "i">
 <!ENTITY ignoreAllButton.label "Leig seachad gach aon dhiubh">
 <!ENTITY ignoreAllButton.accessKey "n">
 <!ENTITY replaceButton.label "Cuir 'na àite">
-<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Cuir an àite gach aon dhiubh">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Sguir dheth">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Am faclair pearsanta:">
@@ -27,7 +27,7 @@
 <!ENTITY addToUserDictionaryButton.label "Cuir ris facal">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Deasaich…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Ath-cheartaich an duilleag">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Dùin">
