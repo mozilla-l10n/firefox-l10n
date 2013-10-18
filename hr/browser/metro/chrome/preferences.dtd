@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Mogućnosti">
+<!ENTITY optionsHeader.startup.title                             "Pokretanje">
+<!ENTITY optionsHeader.homepage.title                            "Kad se &brandShortName; pokrene:">
+<!ENTITY optionsHeader.homepage.startPage.button                 "početna stranica">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "kartice od prošlog puta">
+<!ENTITY optionsHeader.char.title                                "Kodna stranica">
+<!ENTITY optionsHeader.char.autodetect.label                     "Automatsko otkrivanje">
+<!ENTITY optionsHeader.char.options.label                        "Prikaži mogućnosti kôdne stranice u App traci">
+
+<!ENTITY clearPrivateData.title                                  "Očisti privatne podatke">
+<!ENTITY clearPrivateData.label                                  "Očistite svoju povijest pretraživanja, lozinke, kolačiće i podatke iz obrazaca na ovom uređaju.">
+<!ENTITY clearPrivateData.button                                 "Očisti">
+<!ENTITY clearPrivateData.done                                   "Gotovo!">
+<!ENTITY clearPrivateData.history                                "Povijest pretraživanja">
+<!ENTITY clearPrivateData.otherdata                              "Ostali podaci (lozinke, priručna memorija, kolačići itd.)">
+<!ENTITY clearPrivateData.downloadHist                           "Povijest preuzimanja">
+<!ENTITY clearPrivateData.cookies                                "Kolačići">
+<!ENTITY clearPrivateData.cache                                  "Međuspremnik">
+<!ENTITY clearPrivateData.sitePref                               "Postavke stranice">
+<!ENTITY clearPrivateData.formSearchHist                         "Povijest formi i traženja">
+<!ENTITY clearPrivateData.passwords                              "Spremljene lozinke">
+<!ENTITY clearPrivateData.offline                                "Podaci izvanmreženih stranica">
+<!ENTITY clearPrivateData.logins                                 "Aktivne prijave">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Zapamti lozinke">
+<!ENTITY doNotTrack.title                                        "Ne prati me">
+<!ENTITY doNotTrack.desc                                         "Javi stranicama:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "da me ne prate">
+<!ENTITY doNotTrack.options.noPreference                         "ništa o mojim postavkama praćenja">
+<!ENTITY doNotTrack.options.trackingOkay                         "da me prate">
+<!ENTITY optionsHeader.reporting.title                           "Izvjestitelj rušenja">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; šalje izvještaje o rušenju kako bi Mozilla; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                            "Dijeli statistike o korištenju &brandShortName; s Mozillom, kako bismo mogli vaš preglednik učiniti još boljim">

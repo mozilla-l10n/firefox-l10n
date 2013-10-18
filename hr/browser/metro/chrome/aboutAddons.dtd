@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+   %brandDTD;
+
+<!ENTITY aboutAddons.title              "&brandShortName; dodaci su u izradi">
+<!ENTITY aboutAddons.messageTitle       "Uf-uf!">
+<!ENTITY aboutAddons.message            "Žao nam je, ali &brandShortName; radi naporno na podržavanju dodataka za vas.">
+<!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
+     These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
+     aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
+     -->
+<!ENTITY aboutAddons.goBackToStartStart "Povratak na ">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; početna stranica">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">
