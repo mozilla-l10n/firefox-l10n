@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+
+
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+
+
+
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hỗ trợ">
 <!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">

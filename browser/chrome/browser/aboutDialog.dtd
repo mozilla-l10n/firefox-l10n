@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "Thông tin về việc sử dụng, về hiệu suất, phần cứng và các tùy chỉnh sẽ được tự động gửi tới &vendorShortName; để giúp &brandShortName; tốt hơn.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " là một  ">
+<!ENTITY community.exp.middle       " là một ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "cộng đồng toàn cầu">
 <!ENTITY community.exp.end          " cùng chung sức mạnh bảo vệ Web mở và ai cũng truy cập được.">
@@ -55,7 +55,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Cập nhật bị thất bại.">
+<!ENTITY update.failed.start        "Cập nhật bị thất bại. ">
 <!ENTITY update.failed.linkText     "Tải xuống phiên bản mới nhất">
 <!ENTITY update.failed.end          "Tải xuống phiên bản mới nhất">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -63,7 +63,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Cập nhật có tại">
+<!ENTITY update.manual.start        "Cập nhật có tại ">
 <!ENTITY update.manual.end          "Cập nhật có tại">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and

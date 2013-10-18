@@ -17,14 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -47,15 +40,10 @@
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
 <!ENTITY notCached.longDesc "<p>Tài liệu được yêu cầu không có sẵn trong bộ đệm của &brandShortName;.</p><ul><li>Vì lí do bảo mật, &brandShortName; không tự động yêu cầu lại các tài liệu nhạy cảm.</li><li>Nhấn Thử Lại để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -85,12 +73,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Không thể tìm thấy máy chủ proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY redirectLoop.title "Trang không chuyển hướng đúng">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -115,12 +98,6 @@
 <li>Nếu bạn đã từng kết nối tới máy chủ này thành công trong quá khứ, lỗi này có thể chỉ là tạm thời, bạn có thể thử lại sau.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">

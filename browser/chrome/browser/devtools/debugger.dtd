@@ -48,6 +48,8 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+
+<!ENTITY debuggerUI.showOnlyEnum        "Chỉ hiển thị những thuộc tính đếm được">
 <!ENTITY debuggerUI.showOnlyEnum.key    "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -57,6 +59,8 @@
   -  appears in the filter panel popup as a header for the operators part. -->
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile          "Kịch bản bộ lọc">
 <!ENTITY debuggerUI.searchFile.key      "P">
 <!ENTITY debuggerUI.searchFile.altkey   "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
@@ -66,6 +70,8 @@
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
+
+<!ENTITY debuggerUI.searchFunction      "Tìm định nghĩa hàm">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->

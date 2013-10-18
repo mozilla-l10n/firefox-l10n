@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Cài đặt &brandShortName; của bạn">
-<!ENTITY  splash_bookmarks_history "Chúng tôi đang cập nhật trang ưu thích và lịch sử duyệt, việc này có thể mất một (vài) phút.">
-
 <!ENTITY  no_space_to_start_error "Không có đủ dung lượng trống để &brandShortName; khởi động.">
 <!ENTITY  error_loading_file "Một lỗi xảy ra khi đang các tệp cần thiết để chạy &brandShortName; đang được tải">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Trang tốp">
-<!ENTITY  awesomebar_bookmarks_title "Trang ưa thích">
-<!ENTITY  awesomebar_history_title "Lịch sử">
-<!ENTITY  awesomebar_switch_to_tab "Chuyển sang thẻ">
+<!ENTITY  bookmarks_title "Trang ưa thích">
+
+
+
+<!ENTITY  switch_to_tab "Chuyển sang thẻ">
 
 <!ENTITY  crash_reporter_title "Trình báo cáo lỗi &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; đã gặp sự cố. Thẻ của bạn sẽ được liệt kê trên trang Khởi động &brandShortName; khi bạn khởi động lại.">
-<!ENTITY  crash_send_report_message2 "Báo với Mozilla để họ khắc phục sự cố này">
+
 <!ENTITY  crash_include_url2 "Thêm vào địa chỉ của trang tôi đã truy cập">
-<!ENTITY  crash_sorry "We\'re sorry">
+
 <!ENTITY  crash_comment "Thêm bình luận (các bình luận sẽ được hiển thị công khai)">
-<!ENTITY  crash_allow_contact "Cho phép Mozilla liên lạc với tôi về báo cáo này">
+
 <!ENTITY  crash_email "Email của bạn">
 <!ENTITY  crash_closing_alert "Thoát và không gửi báo cáo sự cố?">
 <!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
@@ -33,15 +33,13 @@
 
 <!ENTITY choose_file "Chọn tập tin">
 
-<!ENTITY awesomebar_default_text "Nhập Tìm kiếm hoặc Địa chỉ">
-
-<!ENTITY remote_tabs "Các thẻ đã đồng bộ">
-<!ENTITY remote_tabs_show_all "Hiện tất cả các thẻ">
+<!ENTITY url_bar_default_text "Nhập Tìm kiếm hoặc Địa chỉ">
 
 <!ENTITY bookmark "Đánh dấu">
 <!ENTITY bookmark_added "Trang đánh dấu đã được thêm">
 <!ENTITY bookmark_removed "Trang đánh dấu đã được xóa">
 <!ENTITY bookmark_updated "Trang đánh dấu đã được cập nhật">
+<!ENTITY bookmark_options "Tùy chọn">
 
 <!ENTITY history_today_section "Hôm nay">
 <!ENTITY history_yesterday_section "Hôm qua">
@@ -66,47 +64,56 @@
 
 <!ENTITY settings "Thiết lập">
 <!ENTITY settings_title "Thiết lập">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Riêng tư &amp; Bảo mật">
-<!ENTITY pref_category_content "Content">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+
+
+
+
+
+
 <!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
-<!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
+
+
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+
+
+
 <!ENTITY pref_remember_signons "Ghi nhớ mật khẩu">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Riêng tư &amp; Bảo mật">
-<!ENTITY pref_header_content "Nội dung">
+
+
+
+
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Đã bật">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
 
-<!ENTITY pref_char_encoding "Character encoding">
+
+
+
+
+
 <!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
 <!ENTITY pref_char_encoding_off "Không hiển thị trình đơn">
 <!ENTITY pref_clear_private_data "Xóa dữ liệu cá nhân">
 <!ENTITY pref_plugins "Phần bổ trợ">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -116,158 +123,150 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Đồng bộ">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
+
+
+
+
+
+
+
+
+
 <!ENTITY pref_private_data_downloadFiles "Tệp đã tải về">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+
+<!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Gửi phản hồi">
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+
+
+
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+
+
 <!ENTITY pref_update_autodownload_wifi "Chỉ thông qua Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Thoát">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+
 
 <!ENTITY quit "Thoát">
 
 <!ENTITY addons "Tiện ích">
-<!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
+
+
 <!ENTITY char_encoding "Bảng mã">
 
-<!ENTITY share "Share">
 <!ENTITY share_title "Chia sẻ qua">
 <!ENTITY share_image_failed "Không thể chia sẻ hình ảnh này">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
+
+
+
 <!ENTITY tools "Công cụ">
 <!ENTITY new_tab "Thẻ Mới">
-<!ENTITY new_private_tab "New Private Tab">
+
 <!ENTITY close_all_tabs "Đóng tất cả các thẻ">
-<!ENTITY tabs_normal "Thẻ">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+
+
+
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Find in Page">
 <!ENTITY find_prev "Trước">
 <!ENTITY find_next "Tiếp">
-<!ENTITY find_close "Close">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
+
+
+
+
+
+
+
 <!ENTITY contextmenu_paste "Dán">
 <!ENTITY contextmenu_copyurl "Sao chép địa chỉ">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
 
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
 
-<!ENTITY history_removed "Page removed">
+
+
+<!ENTITY contextmenu_top_bookmarks_pin "Ghim trang web">
+<!ENTITY contextmenu_top_bookmarks_unpin "Bỏ ghim trang web">
+
+
+
+
 
 <!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
 <!ENTITY bookmark_edit_name "Tên">
-<!ENTITY bookmark_edit_location "Location">
+
 <!ENTITY bookmark_edit_keyword "Từ khóa">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
 
-<!ENTITY reading_list "Reading List">
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
-<!ENTITY reader "Reader">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+
+
+
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
 <!ENTITY masterpassword_remove_title "Xóa Mật Khẩu Chính">
 <!ENTITY masterpassword_password "Mật khẩu">
-<!ENTITY masterpassword_confirm "Confirm password">
+
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
+
 <!ENTITY button_yes "Có">
 <!ENTITY button_no "Không">
-<!ENTITY button_clear_data "Clear data">
+
 <!ENTITY button_set "Thiết lập">
-<!ENTITY button_clear "Clear">
 
-<!ENTITY abouthome_addons_title "Tiện ích cho &brandShortName; của bạn">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Các thẻ từ lần dùng cuối của bạn">
-<!ENTITY abouthome_last_tabs_open "Mở tất cả các thẻ trong lần sử dụng cuối">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Ghim trang web">
-<!ENTITY abouthome_topsites_unpin "Bỏ ghim trang web">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
 
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Đồng bộ Firefox">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_top_sites_title "Trang tốp">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+
+<!ENTITY home_last_tabs_open "Mở tất cả các thẻ trong lần sử dụng cuối">
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
+
+
+
+
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "Bạn đang kết nối đến">
@@ -283,35 +282,42 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "thuộc quyền kiểm soát của">
+<!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY private_data_success "Private data cleared">
+
+<!ENTITY learn_more "Tìm hiểu Thêm">
+
+
+
+
 <!ENTITY private_data_fail "Không thể xóa một số dữ liệu riêng tư">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+
+
+
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
-<!ENTITY webapp_generic_name "App">
 
-<!ENTITY searchable_description "Bookmarks and history">
-<!-- Updater notifications --> 
+<!-- Updater notifications -->
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
 
 <!ENTITY updater_downloading_title2 "Đang tải &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+
+
+
+
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Tiếp tục">
+
+
+
+
+
