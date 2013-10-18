@@ -110,8 +110,8 @@
 <!ENTITY pref_text_size "உரை அளவு">
 <!ENTITY pref_reflow_on_zoom4 "உரை மீளோட்டம்">
 <!ENTITY pref_restore "கீற்றுகள்">
-
-
+<!ENTITY pref_restore_always "எப்போதும் மீட்டமை">
+<!ENTITY pref_restore_quit "&brandShortName; வெளியேறியப்பின் மீட்டமைக்காதே">
 <!ENTITY pref_font_size_tiny "நுண்ணிய">
 <!ENTITY pref_font_size_small "சிறிய">
 <!ENTITY pref_font_size_medium "நடுத்தரம்">
@@ -176,7 +176,7 @@ size. -->
 
 
 <!ENTITY pref_update_autodownload "தானியாக்க புதுப்பித்தல்கள்">
-
+<!ENTITY pref_update_autodownload_wifi "வை பை வழியாக மட்டும்">
 <!ENTITY pref_update_autodownload_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_update_autodownload_enabled "செயல்படுத்தப்பட்டது">
 
@@ -199,8 +199,8 @@ size. -->
 <!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
 
 <!ENTITY tabs_private "தனிப்பட்ட">
-
-
+<!ENTITY tabs_synced "ஒருங்கிணைக்கப்பட்டது">
+<!ENTITY set_image_fail "படத்தை அமைக்க முடியவில்லை">
 <!ENTITY set_image_chooser_title "படத்தை இப்படி அமை">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -264,11 +264,12 @@ size. -->
 <!ENTITY home_top_sites_title "முதன்மையான தளங்கள்">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "தளத்தை சேர்">
 
 <!ENTITY home_history_title "வரலாறு">
 
 <!ENTITY home_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
-
+<!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்">
 
 
 
