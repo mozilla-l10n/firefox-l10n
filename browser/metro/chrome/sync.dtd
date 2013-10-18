@@ -6,37 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "Cael mynediad at eich nodau tudalen, cyfrineiriau a thabiau agored ar draws eich dyfeisiau">
+<!ENTITY sync.flyout.presetup.setup.label      "Gosod &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "Gosod &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Os oes gennych gyfrif &syncBrand.shortName.label; dewiswch &quot;Paru Dyfais&quot; ar eich dyfais arall a chyflwyno&apos;r cod yma.">
+<!ENTITY sync.flyout.setup.description2        "Os nad oes gennych gyfrif &syncBrand.shortName.label;, mae modd creu un yn eich porwr bwrdd gwaith &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Nid wyf wrth fy nghyfrifiadur…">
+<!ENTITY sync.flyout.setup.description3        "Nodyn:">
+<!ENTITY sync.flyout.setup.description4_2      "I ganfod &quot;Paru Dyfais&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Bwrdd Gwaith] Agorwch &quot;Dewisiadau&quot; ac yna dewis &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Rhagor &gt; Gosodiadau &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "Rhowch eich gwybodaeth cyfrif &syncBrand.shortName.label; a'r Allwedd Adfer a gynhyrchwyd gan eich cyfrifiadur">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Enw Cyfrif">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Cyfrineiriau">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Allwedd Adfer">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Cysylltu">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "Rydych newydd gysylltu &brandShortName; i gyfrif &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Mae eich data &syncBrand.shortName.label; yn cael ei lwytho i lawr yn y cefndir. Mae mod canfod eich tabiau wedi eu cydweddu yn Nhudalen Cychwyn &brandShortName;">
 <!-- Flyout when setup failed -->
 
-
+<!ENTITY sync.flyout.setupfailure.description       "Mae &brandShortName; wedi methu cysylltu â'ch cyfrif &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Diddymu">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Ceisiwch Eto">
 <!-- Flyout when connected and functioning normally -->
 
-
-
-
-
+<!ENTITY sync.flyout.connected.account                    "Cyfrif:">
+<!ENTITY sync.flyout.connected.device                     "Eich dyfais:">
+<!ENTITY sync.flyout.connected.disconnect                 "Datgysylltu">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Datgysylltu eich dyfais oddi wrth &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Bydd eich holl ddata personol ar y ddyfais hon ac ar eich cyfrif &syncBrand.shortName.label; yn cael ei gadw'n ddiogel.">
+<!ENTITY sync.flyout.connected.cancel                     "Diddymu">
 <!ENTITY sync.flyout.connected.pair                       "Paru Dyfais">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "Ar y ddyfais newydd i baru gyda hi, dewiswch &quot;Gosod &syncBrand.shortName.label;&quot; a rhoi&apos;r cod mae&apos;r ddyfais yn ei gynhyrchu">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Paru">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Sylwer:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "I ganfod y cod,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Bwrdd Gwaith] Agor &quot;Dewisiadau&quot; ac yna dilyn camau: &syncBrand.shortName.label; -&gt; Gosod &syncBrand.shortName.label; -&gt; Mae gen i gyfrif">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Rhagor &gt; Gosodiadau &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Ceisiwch eto">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Mae dyfais newydd wedi ei hychwanegu'n llwyddiannus.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Mae eich data &syncBrand.shortName.label; yn cael ei lwytho i lawr yn y cefndir. Mae modd canfod eich tabiau pell ar Dudalen Cychwyn &brandShortName;.">

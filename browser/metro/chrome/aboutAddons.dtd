@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-
+<!ENTITY aboutAddons.title              "Mae Ychwanegion &brandShortName; wrthi'n cael eu datblygu">
+<!ENTITY aboutAddons.messageTitle       "Gofal!">
+<!ENTITY aboutAddons.message            "Ymddiheuriadau, mae &brandShortName; yn brysur yn gweithio ar gynnal ychwanegion ar eich cyfer.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-
+<!ENTITY aboutAddons.goBackToStartStart "Nôl i ">
+<!ENTITY aboutAddons.goBacktoStartLink  "Tudalen Cychwyn &brandShortName;">
 
