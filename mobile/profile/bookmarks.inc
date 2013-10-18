@@ -65,21 +65,4 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-
-
-
-
-
-
-
-# link title for about:home
-
-
-
-
-
-
-
-
 #unfilter emptyLines

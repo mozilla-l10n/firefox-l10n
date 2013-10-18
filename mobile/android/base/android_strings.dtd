@@ -3,17 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Sedang memasang brandShortName anda;">
-<!ENTITY  splash_bookmarks_history "Kami sedang mengemaskini penanda buku dan sejarah anda yang mungkin mengambil masa seminit atau lebih.">
-
 <!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk &brandShortName; memulakan.">
 <!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang memerlukan untuk menjalankan &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Laman Web Popular">
-<!ENTITY  awesomebar_bookmarks_title "Penandabuku">
-<!ENTITY  awesomebar_history_title "Sejarah">
-<!ENTITY  awesomebar_switch_to_tab "Tukar ke tab">
+<!ENTITY  bookmarks_title "Penandabuku">
 
+
+
+<!ENTITY  switch_to_tab "Tukar ke tab">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Kerosakan">
 
 
 
@@ -31,9 +32,7 @@
 
 <!ENTITY choose_file "Pilih Fail">
 
-<!ENTITY awesomebar_default_text "Masukkan Carian atau Alamat">
-
-<!ENTITY remote_tabs_show_all "Pamer semua tab">
+<!ENTITY url_bar_default_text "Masukkan Carian atau Alamat">
 
 <!ENTITY bookmark "Penandabuku">
 <!ENTITY bookmark_added "Penandabuku ditambah">
@@ -63,20 +62,28 @@
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
-<!ENTITY pref_category_general "Am">
-<!ENTITY pref_category_privacy "Privasi &amp; Keselamatan">
-<!ENTITY pref_category_content "Kandungan">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+
+
+
+
+
+
 <!ENTITY pref_category_datareporting "Pilihan data">
-<!ENTITY pref_about_firefox "Mengenai &brandShortName;">
+
+
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+
+
+
 <!ENTITY pref_remember_signons "Ingat Kata Laluan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Am">
-<!ENTITY pref_header_privacy "Privasi &amp; Keselamatan">
-<!ENTITY pref_header_content "Kandungan">
+
+
+
+
 
 <!ENTITY pref_cookies_menu "Cecikut">
 <!ENTITY pref_cookies_accept_all "Bolehkan">
@@ -97,6 +104,9 @@
 
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
+
+
+
 
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
 <!ENTITY pref_font_size_small "Kecil">
@@ -126,6 +136,15 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
 <!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
 <!ENTITY pref_private_data_downloadFiles "Fail muat turun">
+
+
+<!ENTITY pref_about_firefox "Mengenai &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Beri maklum balas">
+
+<!ENTITY pref_search_default "Lalai">
+
+
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 
@@ -171,9 +190,8 @@ size. -->
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Persendirian Baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab        ">
-<!ENTITY tabs_normal "Tab-tab">
-<!ENTITY tabs_private "Persendirian">
 
+<!ENTITY tabs_private "Persendirian">
 
 
 
@@ -186,7 +204,6 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
 
-<!ENTITY contextmenu_remove_history "Keluarkan">
 
 
 
@@ -195,6 +212,10 @@ size. -->
 
 <!ENTITY contextmenu_edit_bookmark "Sunting">
 <!ENTITY contextmenu_subscribe "Langgan ke Laman">
+
+
+<!ENTITY contextmenu_top_bookmarks_pin "Pin Laman">
+
 
 
 
@@ -210,11 +231,11 @@ size. -->
 
 
 
-
 <!ENTITY reading_list_removed "Halaman dikeluarkan dari Senarai Pembacaan anda">
 <!ENTITY reading_list_failed "Gagal untuk menambah halaman ke Senarai Pembacaan anda">
 <!ENTITY reading_list_duplicate "Halaman telah sedia ada di Senarai Pembacaan anda">
-
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Cipta Kata Laluan Induk">
 <!ENTITY masterpassword_remove_title "Singkir Kata laluan Induk">
@@ -229,25 +250,25 @@ size. -->
 
 
 
+<!ENTITY home_top_sites_title "Laman Web Popular">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
 
 
 
 
-<!ENTITY abouthome_topsites_edit "Sunting">
-<!ENTITY abouthome_topsites_pin "Pin Laman">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
 
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
 
 <!ENTITY filepicker_title "Pilih Fail">
 
@@ -286,6 +307,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Sila tunggu...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
 
 
 <!-- Updater notifications --> 
@@ -300,3 +325,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_apply_select2 "Sentuh untuk kemaskini">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Sambung">
+
+
+
+
+
