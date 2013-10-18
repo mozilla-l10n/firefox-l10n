@@ -4,6 +4,7 @@
 
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
+<!ENTITY dntTrackingNopref.label2       "Usieleze tovuti kitu chochote kuhusu pendeleo zangu za ufuatiliaji">
 <!ENTITY dntTrackingNopref.accesskey    "o               ">
 
 <!ENTITY dntTrackingNotOkay.accesskey   "n                ">
@@ -29,7 +30,7 @@
 
 <!ENTITY  acceptThirdParty.always.label   "Kila wakati">
 <!ENTITY  acceptThirdParty.never.label    "Kamwe">
-
+<!ENTITY  acceptThirdParty.visited.label  "Kutoka kulikotembelewa                ">
 
 <!ENTITY  keepUntil.label               "Weka hadi:">
 <!ENTITY  keepUntil.accesskey           "W">

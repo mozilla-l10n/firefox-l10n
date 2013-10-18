@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "m">
+<!ENTITY tabsGroup.label          "Vichupo">
