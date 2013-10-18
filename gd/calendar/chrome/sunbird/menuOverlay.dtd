@@ -22,9 +22,9 @@
 <!ENTITY calendar.subscribe.label                          "Fo-sgrìobh gu mìosachan cèin…">
 <!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.reloadserver.label                       "Ath-luchdaich na mìosachain chèin">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "A">
+<!ENTITY calendar.synccalendars.label                      "Sioncronaich na mìosachain">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "m">
 
 <!ENTITY calendar.publish.calendar.label                   "Foillsich mìosachan…">
 <!ENTITY calendar.publish.calendar.accesskey               "F">
@@ -126,15 +126,15 @@
 
 <!ENTITY sunbird.export.calendar.label                     "Às-phortaich mìosachan…">
 <!ENTITY sunbird.export.calendar.accesskey                 "s">
-
 <!-- Mac OS X "Window" menu items -->
+
 <!ENTITY windowMenu.label                                  "Uinneag">
 <!ENTITY minimizeWindow.label                              "Lughdaich">
 <!ENTITY zoomWindow.label                                  "Sùm">
 <!ENTITY minimizeWindow.key                                "M">
 <!ENTITY bringAllToFront.label                             "Gluais a h-uile gun a' bheulaibh">
-
 <!-- Mac OS X Application menu items -->
+
 <!ENTITY servicesMenuMac.label                             "Seirbheisean">
 <!ENTITY hideThisAppCmdMac.label                           "Cuir &brandShortName; am falach">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">

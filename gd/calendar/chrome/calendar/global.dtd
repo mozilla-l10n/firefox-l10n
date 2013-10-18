@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Meadhan-oidhche" >
 <!ENTITY time.noon "Meadhan-latha" >
-
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
+
 <!ENTITY day.1.Ddd "DiD" >
 <!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "DiL" >
@@ -30,8 +30,8 @@
 <!ENTITY day.5.name "DiarDaoin" >
 <!ENTITY day.6.name "DihAoine" >
 <!ENTITY day.7.name "DiSathairne" >
-
 <!-- Units -->
+
 <!ENTITY calendar.global.units.minute   "mionaid">
 <!ENTITY calendar.global.units.minutes  "mionaid(ean)">
 <!ENTITY calendar.global.units.hour     "uair a thìde">

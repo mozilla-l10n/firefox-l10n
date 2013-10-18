@@ -55,18 +55,18 @@
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 seachdainean" >
 <!ENTITY sunbird.menu.numberofweeks.5                      "5 seachdainean" >
 <!ENTITY sunbird.menu.numberofweeks.6                      "6 seachdainean" >
-
 <!-- customizable toolbars -->
+
 <!ENTITY sunbird.context.customize.label                   "Gnàthaich…">
 <!ENTITY sunbird.context.customize.accesskey               "c">
 <!ENTITY sunbird.menu.customize.label                      "Gnàthaich am bàr-inneil…">
 <!ENTITY sunbird.menu.customize.accesskey                  "c">
 <!ENTITY sunbird.maintoolbar.name                          "Am prìomh-bhàr-inneil">
 <!ENTITY sunbird.maintoolbar.accesskey                     "M">
-
 <!-- Sunbird Help -->
+
 <!ENTITY sunbird.help.label                                "Susbaint na cobharach">
 <!ENTITY sunbird.help.accesskey                            "h">
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 <!ENTITY mainWindow.title                                  "&brandFullName;">

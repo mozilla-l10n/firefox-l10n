@@ -9,19 +9,19 @@
 <!ENTITY aboutLink.label        "&lt; Mu &brandFullName;">
 <!ENTITY aboutLink.accesskey    "M">
 <!ENTITY aboutVersion           "tionndadh">
-<!ENTITY copyrightText          "&#169;1998-2010 Com-pàirtichean. A h-uile còir
-                                 glèidhte. Tha Mozilla Sunbird, Sunbird is
-                                 suaicheantasan Sunbird 'nan comharran-malairt
-                                 aig Fonndas Mozilla. A h-uile còir glèidhte.">
+<!ENTITY copyrightText          "&#169;1998-2010 Com-pàirtichean. A h-uile còir 
+glèidhte. Tha Mozilla Sunbird, Sunbird is 
+suaicheantasan Sunbird 'nan comharran-malairt 
+aig Fonndas Mozilla. A h-uile còir glèidhte.">
 
 <!ENTITY brandMotto       "tha an t-àm">
 <!ENTITY credit.thanks    "Taing air leth do">
-
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
+
 <!ENTITY credit.translation "<h3>Eadar-theangadairean</h3><ul><li>Michael &apos;Akerbeltz&apos; Bauer</li></ul>">
 
 <!ENTITY credit.powered     "Le cumhachd">
