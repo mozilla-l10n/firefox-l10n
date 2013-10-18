@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "أدخِل بحثًا أو عنوانًا">
+
+<!ENTITY back.label            "إلى الخلف">
+<!ENTITY forward.label         "إلى الأمام">
+<!ENTITY newtab.label          "لسان جديد">
+<!ENTITY closetab.label        "أغلِق اللسان">
+
+<!ENTITY autocompleteResultsHeader.label  "نتائجك">
+
+<!ENTITY appbarErrorConsole.label   "افتح مِعراض الأخطاء">
+<!ENTITY appbarJSShell.label        "افتح صدفة جافاسكربت">
+<!ENTITY appbarFindInPage2.label    "بحث في الصفحة">
+<!ENTITY appbarViewOnDesktop2.label "اعرض على سطح المكتب">
+
+<!ENTITY topSitesHeader.label        "المواقع الأكثر زيارة">
+<!ENTITY bookmarksHeader.label       "العلامات">
+<!ENTITY recentHistoryHeader.label   "التأريخ القريب">
+<!ENTITY remoteTabsHeader.label      "ألسنة من أجهزة أخرى">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "المواقع الأكثر زيارة">
+<!ENTITY narrowBookmarksHeader.label     "العلامات">
+<!ENTITY narrowRecentHistoryHeader.label "التأريخ القريب">
+<!ENTITY narrowRemoteTabsHeader.label    "ألسنة بعيدة">
+
+<!ENTITY downloadsHeader.label     "التنزيلات">
+<!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
+<!ENTITY downloadShow2.label       "ابحث">
+<!ENTITY downloadOpen2.label       "افتح">
+<!ENTITY downloadCancel.label      "ألغِ">
+<!ENTITY downloadPause.label       "ألبِث">
+<!ENTITY downloadResume.label      "استكمل">
+<!ENTITY downloadRetry.label       "أعد المحاولة">
+<!ENTITY downloadRemove.label      "أزِل">
+<!ENTITY downloadDelete.label      "احذف">
+<!ENTITY downloadFailed.label      "فشل">
+
+<!ENTITY allBookmarks.label        "شاهِد كل العلامات">
+
+<!ENTITY consoleHeader.label       "مِعراض الأخطاء">
+<!ENTITY consoleAll.label          "الكل">
+<!ENTITY consoleErrors.label       "أخطاء">
+<!ENTITY consoleWarnings.label     "تحذيرات">
+<!ENTITY consoleMessages.label     "الرسائل">
+<!ENTITY consoleCodeEval.label     "الكود:">
+<!ENTITY consoleClear.label        "امسح">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "الملفّ المصدر:">
+<!ENTITY consoleErrLine.label      "سطر:">
+<!ENTITY consoleErrColumn.label    "عمود:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "قصّ">
+<!ENTITY contextTextCopy.label             "انسخ">
+<!ENTITY contextTextPaste.label            "ألصق">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "ألصق و اذهب">
+<!ENTITY contextTextSelect.label           "اختر">
+<!ENTITY contextTextSelectAll.label        "اختر الكل">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "افتح الوصلة في لسان جديد">
+<!ENTITY contextCopyLinkHref.label         "انسخ الوصلة">
+<!ENTITY contextBookmarkLinkHref.label     "علّم الوصلة">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "احفظ في مكتبة الصور">
+<!ENTITY contextCopyImage.label            "انسخ الصورة">
+<!ENTITY contextCopyImageLocation.label    "انسخ مكان الصورة">
+<!ENTITY contextOpenImageTab.label         "فتح الصورة في لسان جديد">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "احفظ في مكتبة الفديو">
+<!ENTITY contextCopyVideoLocation.label    "انسخ مكان الفديو">
+<!ENTITY contextOpenVideoTab.label         "افتح الفديو في لسان جديد">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "و">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

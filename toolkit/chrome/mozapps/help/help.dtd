@@ -8,10 +8,10 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "للخلف">
+<!ENTITY backButton.label               "إلى الخلف">
 <!ENTITY backButton.accesskey           "خ">
 <!ENTITY backButton.tooltip             "عُد للخلف صفحة واحدة">
-<!ENTITY forwardButton.label            "للأمام">
+<!ENTITY forwardButton.label            "إلى الأمام">
 <!ENTITY forwardButton.accesskey        "م">
 <!ENTITY forwardButton.tooltip          "اذهب للأمام صفحة واحدة">
 <!ENTITY copyCmd.label                  "انسخ">
