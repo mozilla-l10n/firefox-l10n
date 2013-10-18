@@ -273,6 +273,7 @@ size. -->
 <!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Сайтты қосу">
 
 <!ENTITY home_history_title "Тарихы">
 <!ENTITY home_last_tabs_title "Алдыңғы реттен қалған беттер">
