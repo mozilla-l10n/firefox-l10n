@@ -57,7 +57,7 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  listAllTabs.label      "Dwelisa zonke iithebhu">
 
 <!ENTITY tabCmd.label "Ithebhu entsha">
-<!ENTITY tabCmd.accesskey "I">
+<!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Vula indawo…">
 <!ENTITY openLocationCmd.accesskey "i">
@@ -76,24 +76,24 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY goOfflineCmd.accesskey "e">
 
 <!ENTITY menubarCmd.label "Ibha yemenyu">
-<!ENTITY menubarCmd.accesskey "y">
+<!ENTITY menubarCmd.accesskey "I">
 <!ENTITY navbarCmd.label "Ithulbha yokukhangela">
 <!ENTITY personalbarCmd.label "Ithulbha yebhukhmakhi">
-<!ENTITY personalbarCmd.accesskey "y">
+<!ENTITY personalbarCmd.accesskey "I">
 <!ENTITY bookmarksToolbarItem.label "Iiayithem zethulbha yeebhukhmakhi">
 
 <!ENTITY pageSourceCmd.label "Umthombo wephepha">
-<!ENTITY pageSourceCmd.accesskey "t">
+<!ENTITY pageSourceCmd.accesskey "m">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Inkcazelo yephepha">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "y">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Ngenisa isikrin esizeleyo">
-<!ENTITY enterFullScreenCmd.accesskey "e">
-<!ENTITY exitFullScreenCmd.label "Phuma kwisikrin esizeleyo">
-<!ENTITY exitFullScreenCmd.accesskey "e">
+<!ENTITY enterFullScreenCmd.label "Ngenisa isikrini esizeleyo">
+<!ENTITY enterFullScreenCmd.accesskey "i">
+<!ENTITY exitFullScreenCmd.label "Phuma kwisikrini esizeleyo">
+<!ENTITY exitFullScreenCmd.accesskey "k">
 <!ENTITY fullScreenCmd.label "Isikrini esiZeleyo">
 <!ENTITY fullScreenCmd.accesskey "I">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -105,13 +105,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Vala">
 <!ENTITY fullScreenAutohide.label "Fihla iiThulbha">
 <!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Phuma kwimo yesikrin esizeleyo">
+<!ENTITY fullScreenExit.label "Phuma kwimo yesikrini esizeleyo">
 <!ENTITY fullScreenExit.accesskey "e">
 <!ENTITY fullscreenAllowButton.label "Vumela">
 <!ENTITY fullscreenExitButton.label "Khanyela">
 
 <!ENTITY fullscreenExitHint2.value "Cofa ESC nangaliphi na ixesha ukuze uphume.">
-<!ENTITY leaveDOMFullScreen.label "Phuma kwisikrin esizeleyo">
+<!ENTITY leaveDOMFullScreen.label "Phuma kwisikrini esizeleyo">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
 
 <!ENTITY closeWindow.label "Vala iFestile">
@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Iibhukhmakhi">
 <!ENTITY bookmarksMenu.accesskey "I">
-<!ENTITY bookmarkThisPageCmd.label "Faka Isalathisi Esiphawulayo Kweli Khasi">
+<!ENTITY bookmarkThisPageCmd.label "Faka Ibhukhmakhi Kweli Phepha">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Yabelana Ngeli Phepha">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideoCmd.label "Yabelana Ngale Vidiyo">
 <!ENTITY shareVideoCmd.accesskey "Y">
 <!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
-<!ENTITY subscribeToPageMenuitem.label "Rhuma kweli khasi…">
+<!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
 <!ENTITY unsortedBookmarksCmd.label "Iibhukhmakhi ezingalandelelaniswanga">
@@ -170,14 +170,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Amaqela ethebhu">
 <!ENTITY tabGroupsButton.tooltip      "Beka iithebhu ngokwamaqela">
 
-<!ENTITY bookmarksButton.label          "iiBhukhmakhi">
+<!ENTITY bookmarksButton.label          "Iibhukhmakhi">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
 <!ENTITY bookmarksMenuButton.tooltip        "Bonisa iibhukhmakhi zakho">
 <!ENTITY bookmarksMenuButton.unsorted.label "Iibhukhmakhi ezingalandelelaniswanga">
 <!ENTITY viewBookmarksSidebar.label         "Bonisa kwibha esecaleni">
-<!ENTITY viewBookmarksToolbar.label         "Bona iThulbha yeZalathisi eziphawulweyo">
+<!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
-<!ENTITY webDeveloperMenu.accesskey   "w">
+<!ENTITY webDeveloperMenu.accesskey   "U">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -245,11 +245,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "IDebugger yebhrawuza">
+<!ENTITY chromeDebuggerMenu.label       "Into Ekhupha Ibhagi Kwibhrawuza">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Vala ithulbha yomphuhlisi">
 <!ENTITY devToolbarMenu.label              "IThulbha yoMphuhlisi">
 <!ENTITY devToolbarMenu.accesskey          "h">
+<!ENTITY devAppMgrMenu.label               "Umphathi We-App">
+<!ENTITY devAppMgrMenu.accesskey           "U">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
@@ -643,10 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Incoko yengqwalaselo">
 <!ENTITY social.chatBar.accesskey "c">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpageMenu.accesskey "U">
+<!ENTITY social.markpageMenu.label "Gcina Utyhile Iphepha…">
+<!ENTITY social.marklinkMenu.accesskey "U">
+<!ENTITY social.marklinkMenu.label "Gcina Ungene Kwikhonkco…">
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokubolekisana:">
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
@@ -668,13 +671,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Vumela ngoku">
 <!ENTITY pluginActivateAlways.label "Vumela yaye ukhumbule">
 <!ENTITY pluginBlockNow.label "Vala izifakelo">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
+
+<!ENTITY tabCrashed.header "Ithebhu yonakele">
+<!ENTITY tabCrashed.message "Kodwa, kubanga iintloni oku. Sizamile ukubonisa eli phepha leWebhu, kodwa aliphenduli.">
+<!ENTITY tabCrashed.checkSendReport "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise.">
+<!ENTITY tabCrashed.tryAgain "Zama kwakhona">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
      for mozilla-aurora. -->
 
 
-<!ENTITY navbarCmd.accesskey           "y">
+<!ENTITY navbarCmd.accesskey           "I">
 <!ENTITY addonBarCmd.label             "Ibha yezongezelelo">
 <!ENTITY addonBarCmd.accesskey         "y">
 <!ENTITY throbberItem.title            "Isalathisi somsebenzi">

@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Ekunokukhethwa kuko">
+<!ENTITY optionsHeader.startup.title                             "Qalisa">
+<!ENTITY optionsHeader.homepage.title                            "Xa ne-&brandShortName; iqalisa, bonisa">
+<!ENTITY optionsHeader.homepage.startPage.button                 "iphepha lokuqalisa">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "iithebhu zexesha eligqithileyo">
+<!ENTITY optionsHeader.char.title                                "Ukufakwa kweekhowudi kwikharakhtha">
+<!ENTITY optionsHeader.char.autodetect.label                     "Fumana ngokuzenzekelayo">
+<!ENTITY optionsHeader.char.options.label                        "Bonisa ukhetho lokufaka ikhowudi kwiBha yee-Apps">
+
+<!ENTITY clearPrivateData.title                                  "Sula Iinkcukacha Zabucala">
+<!ENTITY clearPrivateData.label                                  "Sula imbali yakho yokubhrawuza, iipasiwedi, iikhuki, nengcombolo ekwifomu ekwesi sixhobo">
+<!ENTITY clearPrivateData.button                                 "Sula">
+<!ENTITY clearPrivateData.done                                   "Kugqityiwe!">
+<!ENTITY clearPrivateData.history                                "Imbali yokubhrawuza">
+<!ENTITY clearPrivateData.otherdata                              "Enye ingcombolo (iipasiwedi, ikhatshe, iikhuki, njl.)">
+<!ENTITY clearPrivateData.downloadHist                           "Khuphela imbali">
+<!ENTITY clearPrivateData.cookies                                "Ii-Cookies">
+<!ENTITY clearPrivateData.cache                                  "Uvimba wethutyana">
+<!ENTITY clearPrivateData.sitePref                               "Iipriferensi zesayithi">
+<!ENTITY clearPrivateData.formSearchHist                         "Fomu &amp; imbali yokukhangela">
+<!ENTITY clearPrivateData.passwords                              "Iipasiwedi ezigciniweyo">
+<!ENTITY clearPrivateData.offline                                "Ingcombolo zewebhusayithi ezingekho kwinethiwekhi">
+<!ENTITY clearPrivateData.logins                                 "Iinkcukacha zokungena ezisebenzayo">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Khumbula iipasiwedi">
+<!ENTITY doNotTrack.title                                        "Musa ukulanda umkhondo">
+<!ENTITY doNotTrack.desc                                         "Xelela isayithi:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "andifuni kulandwe umkhondo wam">
+<!ENTITY doNotTrack.options.noPreference                         "Akukho nto ngeepriferensi zokulandwa komkhondo wam">
+<!ENTITY doNotTrack.options.trackingOkay                         "Ndifuna umkhondo wam ulandwe">
+<!ENTITY optionsHeader.reporting.title                           "Ingxelo yokonakala">
+<!ENTITY optionsHeader.reporting.crashes.label                   "ne-&brandShortName; ifaka iingxelo zokonakala ukuze incede iMozilla yenze ibhrawuza yakho izinze yaye ikhuseleke">
+<!ENTITY optionsHeader.telemetry.title                            "Ithelemetri">
+<!ENTITY optionsHeader.telemetry.label                            "Yabelana ngamanani malunga ne-&brandShortName; kunye neMozilla ukuze yenze ibhrawuza yakho ngcono">

@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Ngena kwiibhukhmakhi zakhi, iipasiwedi, uze uvule iithebhu kuzo zonke izixhobo zakho">
+<!ENTITY sync.flyout.presetup.setup.label      "Seta i-&syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "Seta i-&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Ukuba une-&syncBrand.shortName.label; akhawunti, khetha &quot;Pair a Device&quot; kwesinye isixhobo sakho uze ufake le khowudi.">
+<!ENTITY sync.flyout.setup.description2        "Ukuba akunayo&apos;t i-&syncBrand.shortName.label; akhawunti, ungazenzela eyakho kwi-&brandShortName; bhrawuza yedesktopi.">
+<!ENTITY sync.flyout.setup.manual.label_2      "M&apos;na andikho kufuphi nekhompyutha yam…">
+<!ENTITY sync.flyout.setup.description3        "Phawula:">
+<!ENTITY sync.flyout.setup.description4_2      "Ukuze ufumane &quot;Pair a Device&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Idesktopu] Vula &quot;Ukhetho&quot; okanye &quot;Iipriferensi&quot; uze ukhethe &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[I-Android] Okungakumbi &gt; Iisetingi &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Nceda ufake i-&syncBrand.shortName.label; inkcazelo ye-akhawunti kunye neKhi Yokufumana ekhutshwa yikhompyutha yakho">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Igama Leakhawunti">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Ipasiwedi">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Iqhosha lobuyiselo">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Nxibelela">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Unxibelele i-&brandShortName; kwi-&syncBrand.shortName.label; akhawunti">
+<!ENTITY sync.flyout.setupsuccess.description2      "I-&syncBrand.shortName.label; yengcombolo yakho iyakhutshelwa ngoku ngasemva. Iithebhu zakho ezingqamanisiweyo zinokufumaneka kwi-&brandShortName; Iphepha Lokuqala">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "I-&brandShortName; ayinakunxibelelana ne-&syncBrand.shortName.label; akhawunti yakho.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Rhoxisa">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Zama kwakhona">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Iakhawunti:">
+<!ENTITY sync.flyout.connected.device                     "Isixhobo sakho:">
+<!ENTITY sync.flyout.connected.disconnect                 "Khupha kunxibelelo">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Ingaba ufuna ukukhupha unxibelelo lwesixhobo sakho kwi-&syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Yonke ingcombolo yakho yobuqu ekuzo zombini ezi zixhobo kunye ne-&syncBrand.shortName.label; akhawunti aziyi kutshintsha.">
+<!ENTITY sync.flyout.connected.cancel                     "Rhoxisa">
+<!ENTITY sync.flyout.connected.pair                       "Beka ngazibini isixhobo">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Kwisixhobo ofuna ukusingqamanisa, khetha &quot;Set Up &syncBrand.shortName.label;&quot; uze ufake ikhowudi ekhutshwe seso sixhobo">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Ngqamanisa">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Phawula:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Ukuze ufumane ikhowudi,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Idesktop] Vula &quot;Ukhetho&quot; okanye &quot;Iipriferensi&quot; uze ulandele la manyathelo alandelayo: &syncBrand.shortName.label; -&gt; Seta i-&syncBrand.shortName.label; -&gt; ndine-akhawunti">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[I-Android] Okungakumbi &gt; Iisetingi &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Nceda uzame kwakhona">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Isixhobo esitsha songezelelwe ngempumelelo.">
+<!ENTITY sync.flyout.pairSuccess.description2             "I-ngcombolo yakho ye-&syncBrand.shortName.label; ngoku iyakhutshelwa ngasemva. Iithebhu zakho ezikude zinokufunyanwa kwi-&brandShortName; Iphepha Lokuqala.">

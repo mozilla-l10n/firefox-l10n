@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY device.stopApp "Nqumama">
+
+
+
+<!ENTITY device.name "Igama">
+
+
+
+<!ENTITY device.allow "Vumela">
+
+<!ENTITY device.prompt "Khumbuza">
+
+<!ENTITY device.deny "Khanyela">
+
+
+
+<!ENTITY device.permissions "Iimvume">
+
+
+
+
+<!ENTITY connection.disconnect "Khupha kunxibelelo">
+
+
+
+
+<!ENTITY connection.changeHostAndPort "Tshintsha">
+
+
+
+<!ENTITY connection.saveConnectionInfo "Gcina">
+
+
+
+<!ENTITY connection.cancel "Rhoxisa">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "Hlaziya">
+
+
+
+
+
+
+<!ENTITY help.close "Vala">
+
+
+
+
+
+
+
