@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox синхрондау">
+<!ENTITY syncBrand.shortName.label "Синхрондау">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; үшін байланысты орнату">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; тіркелгісін қосу">
+<!ENTITY sync.title.pair.label "Құрылғыны жұптау">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Жаңа құрылғыны баптау үшін ол құрылғыда «&syncBrand.shortName.label; баптау» таңдаңыз.">
+<!ENTITY sync.subtitle.header2.label "Бұл кодты өзіңіздің басқа құрылғыңызда енгізіңіз">
+<!ENTITY sync.subtitle.connectlocation2.label "Өзіңіздің басқа құрылғыңыздағы Firefox баптауларының &syncBrand.shortName.label; санатында «&sync.title.pair.label;» таңдаңыз.">
+<!ENTITY sync.subtitle.pair.label "Белсендіру үшін өзіңіздің басқа құрылғыңызда «Құрылғымен байланысу» таңдаңыз.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Қазір көрсету.">
+<!ENTITY sync.link.advancedsetup.label "Қосымша…">
+<!ENTITY sync.link.nodevice.label "Ол құрылғы қазір менің қолымда емес…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Басқа құрылғыны күту…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Өз &syncBrand.fullName.label; тіркелгі ақпаратын енгізіңіз">
+<!ENTITY sync.input.username.label "Тіркелгі атауы">
+<!ENTITY sync.input.password.label "Паролm">
+<!ENTITY sync.input.key.label "Қалпына келтіру кілті">
+<!ENTITY sync.checkbox.server.label "Өз серверді қолдану">
+<!ENTITY sync.input.server.label "Сервер сілтемесі">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; баптау сәтсі аяқталды">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; сервермен байланыса алмады. Қайта көруді қалайсыз ба?">
+<!ENTITY sync.button.tryagain.label "Қайталап көріңіз">
+<!ENTITY sync.button.manual.label "Қолмен баптау">
+<!ENTITY sync.subtitle.nointernet.label "Интернетпен байланыс жоқ.">
+<!ENTITY sync.subtitle.failaccount.label "Құрылғыңызда тіркелгіні жасау сәтсіз аяқталды.">
+<!ENTITY sync.subtitle.failmultiple.label "Сізде бірден көп Firefox орнатылған ба? Қазіргі уақытта &syncBrand.fullName.label; тек бір Firefox орнатуымен жұмыс істей алады. &syncBrand.shortName.label; қолдануды бастау үшін, басқа орнатуларды өшіріңіз.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Баптау аяқталды">
+<!ENTITY sync.subtitle.success.label1 "Сіздің деректеріңіз фонда жүктеліп алынуда. Тіркелгіңізді басқару үшін Баптауларға өтуге, немесе &brandShortName; көмегімен интернетті шолуға болады.">
+<!ENTITY sync.settings.label "Баптаулар">
+<!ENTITY sync.subtitle.manage.label1 "Сіздің &syncBrand.fullName.label; тіркелгіңіз бапталған болып тұр. Тіркелгіңізді басқару үшін Баптауларға өтуге, немесе &brandShortName; іске қосуға болады.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Қайталап көріңіз.">
+<!ENTITY sync.pair.connectlocation.label "Өзіңіздің жаңа құрылғыңызды баптау үшін ол құрылғыда «&syncBrand.shortName.label; баптау», ал одан кейін «Менде тіркелгі бар» таңдаңыз.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Баптаулар">
+<!ENTITY sync.summary.pair.label "Басқа құрылғыны сіздің &syncBrand.shortName.label; тіркелгіңізбен байланыстыру">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Нені синхрондау керек">
+<!ENTITY sync.configure.engines.sync.my.title.label "Синхрондау…">
+<!ENTITY sync.configure.engines.title.bookmarks "Бетбелгілер">
+<!ENTITY sync.configure.engines.title.passwords "Парольдер">
+<!ENTITY sync.configure.engines.title.history "Тарихы">
+<!ENTITY sync.configure.engines.title.tabs "Беттер">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Бас тарту">
+<!ENTITY sync.button.connect.label "Байланысу">
+<!ENTITY sync.button.ok.label "ОК">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Бетбелгілер мәзірі">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Белгілер">
+<!ENTITY bookmarks.folder.toolbar.label "Бетбелгілер панелі">
+<!ENTITY bookmarks.folder.unfiled.label "Сұрыпталмаған бетбелгілер">
+<!ENTITY bookmarks.folder.desktop.label "Жұмыс үстел бетбелгілері">
+<!ENTITY bookmarks.folder.mobile.label "Мобильді бетбелгілер">
+<!ENTITY bookmarks.folder.readinglist.label "Оқу тізімі">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Бекітілген">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Тек бір &syncBrand.fullName.label; тіркелгісіне қолдау бар.">
+<!ENTITY sync.notification.configure.saved "Сіздің баптауларыңыз сақталды.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Тіркелгі аты не пароль қате.">
+<!ENTITY sync.invalidserver.label "Дұрыс сервер URL-ын енгізіңіз">
+<!ENTITY sync.verifying.label "Тексеруде…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Қалпына келтіру кілті қате. Қайталап көріңіз.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Бетті құрылғыларға жіберу">
+<!ENTITY sync.button.send.label "Жіберу">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; баптау">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; беттерді жіберу үшін баптау">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Сіздің құрылғыңызда &syncBrand.fullName.label; беттерді басқа құрылғыларға жіберу үшін баптау.">
+<!ENTITY sync.text.tab.sent.label "Сіздің бетіңіз жіберілді!">
+<!ENTITY sync.text.tab.not.sent.label "Сіздің бетіңізді жіберу кезінде қате орын алды.">

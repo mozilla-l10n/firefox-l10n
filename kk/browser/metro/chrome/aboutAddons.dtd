@@ -6,11 +6,12 @@
    %brandDTD;
 
 <!ENTITY aboutAddons.title              "&brandShortName; қосымшалары әлі аяқталмаған жұмыс">
-
-
+<!ENTITY aboutAddons.messageTitle       "Қап!">
+<!ENTITY aboutAddons.message            "Кешіріңіз, &brandShortName; қосымшаларды қолдау жұмысымен айналысуда.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
+<!ENTITY aboutAddons.goBackToStartStart "Келесі жерге қайта оралу ">
 <!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; іске қосылу парағы">
-
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

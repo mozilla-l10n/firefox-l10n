@@ -646,9 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Чаттарға ауысып отыру">
 <!ENTITY social.chatBar.accesskey "ы">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "П">
+<!ENTITY social.markpageMenu.label "Парақты қайда сақтау…">
+<!ENTITY social.marklinkMenu.accesskey "С">
+<!ENTITY social.marklinkMenu.label "Сілтемені қайда сақтау…">
 
 <!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
 <!ENTITY getUserMedia.selectCamera.accesskey "м">

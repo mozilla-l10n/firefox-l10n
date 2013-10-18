@@ -9,18 +9,19 @@
 <!ENTITY optionsHeader.title                                     "Баптаулар">
 <!ENTITY optionsHeader.startup.title                             "Қосылу">
 <!ENTITY optionsHeader.homepage.title                            "&brandShortName; іске қосылу кезінде, көрсету">
-
-
+<!ENTITY optionsHeader.homepage.startPage.button                 "бастапқы беті">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "соңғы беттер">
 <!ENTITY optionsHeader.char.title                                "Кодталуы">
 <!ENTITY optionsHeader.char.autodetect.label                     "Автоанықтау">
+<!ENTITY optionsHeader.char.options.label                        "Қолданбалар панелінде кодталу баптауларын көрсету">
 
-
-
+<!ENTITY clearPrivateData.title                                  "Жеке мәліметтерді өшіру">
+<!ENTITY clearPrivateData.label                                  "Басқа мәліметтер (паролдер, кэш, cookies және тағы басқа)">
 <!ENTITY clearPrivateData.button                                 "Тазарту">
 <!ENTITY clearPrivateData.done                                   "Дайын!">
 <!ENTITY clearPrivateData.history                                "Қаралған беттер тарихы">
-
-
+<!ENTITY clearPrivateData.otherdata                              "Басқа мәліметтер (паролдер, кэш, cookies және тағы басқа)">
+<!ENTITY clearPrivateData.downloadHist                           "Жүктемелер тарихы">
 <!ENTITY clearPrivateData.cookies                                "Куки">
 <!ENTITY clearPrivateData.cache                                  "Веб кэші">
 <!ENTITY clearPrivateData.sitePref                               "Сайт баптаулары">
@@ -30,12 +31,12 @@
 <!ENTITY clearPrivateData.logins                                 "Белсенді кірулер">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Парольдерді сақтау">
-
-
-
-
-
+<!ENTITY doNotTrack.title                                        "Бақыламау">
+<!ENTITY doNotTrack.desc                                         "Сайттарға айту:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Мені бақыламау">
+<!ENTITY doNotTrack.options.noPreference                         "Менің бақылау баптауларым туралы ешнәрсе айтпау">
+<!ENTITY doNotTrack.options.trackingOkay                         "Мені бақылау">
 <!ENTITY optionsHeader.reporting.title                           "Құлау хабаршысы">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; браузеріңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды Mozilla адресіне жібереді">
 <!ENTITY optionsHeader.telemetry.title                            "Телеметрия">
-
+<!ENTITY optionsHeader.telemetry.label                            "Браузеріңізді жақсартуға көмектесу мақсатында &brandShortName; қолдану статистикасымен Mozilla-мен бөліседі">

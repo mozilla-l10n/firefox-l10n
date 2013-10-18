@@ -11,36 +11,42 @@
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; баптау">
 
 
-
+<!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m менің компьютерім қасында емес…">
 
 
 
 
 <!-- Flyout when setting up manually -->
 
+<!ENTITY sync.flyout.manualsetup.description1_2  "Сіздің &syncBrand.shortName.label; тіркелгі туралы ақпаратты және компьютеріңізбен жасалған қалпына келтіру кілтін еңгізіңіз">
+
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Қалпына келтіру кілті">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Байланысу">
 <!-- Flyout when user has just connected -->
-
+<!ENTITY sync.flyout.setupsuccess.description2      "Сіздің &syncBrand.shortName.label; мәліметтері қазір фон үрдісімен жүктелуде. Сіздің синхрондалған беттерді &brandShortName; іске қосылу бетте табуға болады.">
 <!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; сіздің &syncBrand.shortName.label; тіркелгіңізге байланусы мүмкін емес.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "Бас тарту">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Қайтадан көру">
 <!-- Flyout when connected and functioning normally -->
 
 <!ENTITY sync.flyout.connected.account                    "Тіркелгі:">
-
-
-
-
+<!ENTITY sync.flyout.connected.device                     "Сіздің құрылғыңыз:">
+<!ENTITY sync.flyout.connected.disconnect                 "Ажырату">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Сіздің құрылғыңызды &syncBrand.shortName.label; арқылы ажырату керек пе?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Бұл құрылғыда да &syncBrand.shortName.label; тіркелгіңізде де сіздің барлық жеке мәліметтеріңіз сол қалыпында қалады.">
 <!ENTITY sync.flyout.connected.cancel                     "Бас тарту">
 <!ENTITY sync.flyout.connected.pair                       "Құрылғыны жұптау">
 <!-- Flyout when pairing a device -->
 
-
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Ескерім:">
 
 
 
 <!ENTITY sync.flyout.pairNewDevice.failure                "Қайталап көріңіз">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Жаңа құрылғы сәтті қосылды.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Сіздің &syncBrand.shortName.label; мәліметтері қазір фон үрдісімен жүктелуде. Сіздің қашықтағы беттерді &brandShortName; іске қосылу бетте табуға болады.">
