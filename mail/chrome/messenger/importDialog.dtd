@@ -11,43 +11,39 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "Invoer">
-<!ENTITY importAll.label "Import Everything">
-<!ENTITY importAll.accesskey "E">
-<!ENTITY importMail.label "Mail">
-<!ENTITY importMail.accesskey "M">
-<!ENTITY importAddressbook.label "Address Books">
+<!ENTITY importAll.label          "Voer alles in">
+<!ENTITY importAll.accesskey      "a">
+<!ENTITY importMail.label         "Pos">
+<!ENTITY importMail.accesskey     "P">
+
+
+<!ENTITY importAddressbook.label  "Adresboeke">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label "Settings">
-<!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label "Filters">
-<!ENTITY importFilters.accesskey "F">
+<!ENTITY importSettings.label     "Instellings">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filters">
+<!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label        "&brandShortName; se invoerslimmerd">
+<!ENTITY importShortDesc.label    "Voer pos, adresboeke, instellings en filters uit ander programme in">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription2.label "Sodra dit ingevoer is, sal u vanuit &brandShortName; daartoe toegang hê.">
 
-<!ENTITY selectDescription.label "Please select the type of file that you would like to import:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.label  "Kies die soort lêer wat u wil invoer:">
 
-<!ENTITY back.label "&lt; Terug">
-<!ENTITY forward.label "Volgende &gt;">
-<!ENTITY finish.label "Klaar">
-<!ENTITY cancel.label "Kanselleer">
+<!ENTITY selectDescription.accesskey "K">
+<!ENTITY acctName.label           "Naam:">
+<!ENTITY acctName.accesskey       "N">
 
-<!ENTITY select.label "or select the type of material to import:">
+<!ENTITY back.label               "&lt; Terug">
+<!ENTITY forward.label            "Volgende &gt;">
+<!ENTITY finish.label             "Klaar">
+<!ENTITY cancel.label             "Kanselleer">
 
-<!ENTITY title.label "Titel">
-<!ENTITY processing.label "Importing…">
+<!ENTITY select.label             "of kies die soort stof wat u wil invoer:">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x het een posadres vir elke kaart, maar &brandShortName; het twee (huis en werk).">
-<!ENTITY FieldDiscInputText2.label "Kies die kategorie waarin u die ingevoerde posadresse wil stoor:">
-<!ENTITY FieldDiscWarning.label "Hierdie kategorie kan vir al die inskrywings van die gekose adresboek gebruik word: ">
-<!ENTITY importHome.label "Home">
-<!ENTITY importHome.accesskey "H">
-<!ENTITY importWork.label "Work">
-<!ENTITY importWork.accesskey "W">
+<!ENTITY title.label              "Titel">
+<!ENTITY processing.label         "Voer tans in…">

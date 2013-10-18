@@ -2,14 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY editContactPanelDeleteContact.label "Skrap">
+<!ENTITY editContactPanelDeleteContact.accesskey "a">
+
 <!ENTITY editContactName.label "Naam:">
 <!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "E-pos:">
 <!ENTITY editContactEmail.accesskey "E">
 
+
+
 <!ENTITY editContactPanelCancel.label "Kanselleer">
 <!ENTITY editContactPanelCancel.accesskey "K">
 
-<!ENTITY editContactPanelDone.label "Done">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.label "Klaar">
+<!ENTITY editContactPanelDone.accesskey "K">
+

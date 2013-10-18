@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label "Werf-URL:">
-<!ENTITY docSubdir.label "Bladsysubgids:">
-<!ENTITY otherSubdir.label "Prentsubgids:">
+<!ENTITY siteUrl.label         "Werf-URL:">
+<!ENTITY docSubdir.label       "Bladsysubgids:">
+<!ENTITY otherSubdir.label     "Prentsubgids:">
 
-<!ENTITY status.label "Publishing…">
-<!ENTITY fileList.label "Publiseerstatus">
-<!ENTITY succeeded.label "Suksesvol">
-<!ENTITY failed.label "Misluk">
+<!ENTITY status.label          "Publiseer tans…">
+<!ENTITY fileList.label        "Publiseerstatus">
+<!ENTITY succeeded.label       "Suksesvol">
+<!ENTITY failed.label          "Misluk">
 
-<!ENTITY keepOpen "Hou hierdie venster oop nadat die publisering afgeloop het.">
-<!ENTITY closeButton.label "Sluit">
+<!ENTITY keepOpen              "Hou hierdie venster oop nadat die publisering afgeloop het.">
+<!ENTITY closeButton.label     "Sluit">

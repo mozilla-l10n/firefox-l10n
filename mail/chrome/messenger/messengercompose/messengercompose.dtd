@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+
+<!ENTITY msgComposeWindow.title "Skryf: (onderwerploos)">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "Lêer">
@@ -14,13 +14,16 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "o">
-<!ENTITY newContact.label "Address Book Contact…">
-<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.label "Adresboek-kennis…">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Aanheg">
 <!ENTITY attachMenu.accesskey "a">
-<!ENTITY attachFileCmd.label "File(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Web Page…">
+<!ENTITY attachFileCmd.label "Lêer(s)…">
+<!ENTITY attachFileCmd.accesskey "L">
+
+
+
+<!ENTITY attachPageCmd.label "Webbladsy…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Persoonlike kaart (vCard)">
@@ -33,8 +36,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Stoor as">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsFileCmd.label "File…">
-<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.label "Lêer…">
+<!ENTITY saveAsFileCmd.accesskey "L">
 <!ENTITY saveAsDraftCmd.label "Onvoltooid">
 <!ENTITY saveAsDraftCmd.accesskey "O">
 <!ENTITY saveAsTemplateCmd.label "Sjabloon">
@@ -45,15 +48,15 @@
 <!ENTITY sendLaterCmd.label "Versend later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Bladsyopstelling…">
+<!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printCmd.label "Druk…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "D">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Redigeer">
-<!ENTITY editMenu.accesskey "R">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "O">
@@ -70,17 +73,21 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY editRewrapCmd.label "Heromvou">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Skrap">
 <!ENTITY deleteCmd.accesskey "S">
+<!ENTITY editRewrapCmd.label "Heromvou">
+<!ENTITY editRewrapCmd.key "R">
+
+
 <!ENTITY selectAllCmd.label "Merk alles">
-<!ENTITY selectAllCmd.key "A">
+
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Find and Replace…">
+<!ENTITY findCmd.label "Vind en vervang…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "V">
+
 <!ENTITY findAgainCmd.label "Vind weer">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "e">
@@ -95,14 +102,16 @@
 <!ENTITY viewMenu.accesskey "B">
 <!ENTITY viewToolbarsMenuNew.label "Nutsbalke">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
-<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+
+
+<!ENTITY showCompositionToolbarCmd.label "Skryf-nutsbalk">
+<!ENTITY showCompositionToolbarCmd.accesskey "S">
+<!ENTITY showFormattingBarCmd.label "Formateringbalk">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Customize…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY customizeToolbar.label "Doelmaak…">
+<!ENTITY customizeToolbar.accesskey "D">
 
 <!ENTITY addressSidebar.label "Kennisse-kantbalk">
 <!ENTITY addressSidebar.accesskey "e">
@@ -114,10 +123,10 @@
 
 <!ENTITY optionsMenu.label "Opsies">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY checkSpellingCmd2.label "Toets spelling…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.accesskey "T">
 <!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
 <!ENTITY enableInlineSpellChecker.accesskey "G">
 <!ENTITY quoteCmd.label "Haal boodskap aan">
@@ -129,10 +138,10 @@
 
 <!ENTITY returnReceiptMenu.label "Ontvangsnota">
 <!ENTITY returnReceiptMenu.accesskey "v">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
-<!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formaat">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY dsnMenu.label "Afleweringstatus-kennisgewing">
+<!ENTITY dsnMenu.accesskey "k">
+
+
 <!ENTITY autoFormatCmd.label "Outospeur">
 <!ENTITY autoFormatCmd.accesskey "O">
 <!ENTITY plainTextFormatCmd.label "Net skoonteks">
@@ -167,16 +176,14 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Account Settings…">
-<!ENTITY accountManagerCmd.accesskey "c">
+
+
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Opsies…">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey "k">
+<!ENTITY preferencesCmdUnix.label       "Voorkeure">
+<!ENTITY preferencesCmdUnix.accesskey   "k">
 <!--  Mac OS X Window Menu -->
-
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimeer">
 <!ENTITY bringAllToFront.label "Bring alles na vore">
 <!ENTITY zoomWindow.label "Zoem">
@@ -196,12 +203,14 @@
 <!ENTITY quoteButton.tooltip "Haal die vorige boodskap aan">
 <!ENTITY addressButton.tooltip "Selekteer 'n ontvanger uit 'n adresboek">
 <!ENTITY attachButton.tooltip "Sluit 'n aanhegsel in">
-<!ENTITY saveButton.tooltip "Stoor hierdie boodskap">
-<!ENTITY cutButton.tooltip "Knip">
-<!ENTITY copyButton.tooltip "Kopieer">
-<!ENTITY pasteButton.tooltip "Plak">
-<!-- Headers -->
 
+<!ENTITY saveButton.tooltip "Stoor hierdie boodskap">
+<!ENTITY cutButton.tooltip              "Knip">
+<!ENTITY copyButton.tooltip             "Kopieer">
+<!ENTITY pasteButton.tooltip            "Plak">
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.label "Van:">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Aan:">
@@ -212,8 +221,8 @@
 <!ENTITY followupAddr.label "Opvolg-aan:">
 <!ENTITY subject.label "Onderwerpreël:">
 <!ENTITY subject.accesskey "O">
-<!ENTITY attachments.label "Aanhangsels:">
-<!ENTITY attachments.accesskey "A">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Voeg gesiggie in">
@@ -255,14 +264,26 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Skrap">
 <!ENTITY delete.accesskey "S">
-<!ENTITY renameAttachment.label "Rename…">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY removeAttachment.label "Verwyder aanhegsel">
+<!ENTITY removeAttachment.accesskey "V">
+<!ENTITY renameAttachment.label "Hernoem…">
+<!ENTITY renameAttachment.accesskey "H">
 <!ENTITY selectAll.label "Merk alles">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Attach File(s)…">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Attach Web Page…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachFile.label "Heg lêer(s) aan…">
+<!ENTITY attachFile.accesskey "l">
+
+
+
+
+
+
+
+
+<!ENTITY attachPage.label "Heg webbladsy aan…">
+<!ENTITY attachPage.accesskey "w">
+<!-- Spell checker context menu items -->
+
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "Kennisse">

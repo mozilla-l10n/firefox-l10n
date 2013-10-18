@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "kies hierdie vir die ouer">
-<!ENTITY filemessageschoosethis.label "choose this folder">
+<!ENTITY newfolderchoosethis.label      "kies hierdie vir die ouer">
+<!ENTITY filemessageschoosethis.label   "kies hierdie vouer">
+

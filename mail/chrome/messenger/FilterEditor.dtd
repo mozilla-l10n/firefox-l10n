@@ -16,13 +16,17 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogste">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+
+
+
+
+
+
+
 <!ENTITY filterActionDesc.label "Doen hierdie aksies:">
 <!ENTITY filterActionDesc.accesskey "D">
+
+
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Verskuif boodskap na">
@@ -30,6 +34,7 @@
 <!ENTITY forwardTo.label "Stuur boodskap aan na">
 <!ENTITY replyWithTemplate.label "Antwoord met sjabloon">
 <!ENTITY markMessageRead.label "Merk as gelees">
+
 <!ENTITY markMessageStarred.label "Voeg vlag by">
 <!ENTITY setPriority.label "Stel prioriteit op as">
 <!ENTITY addTag.label "Merk boodskap aan">
@@ -38,6 +43,14 @@
 <!ENTITY deleteFromPOP.label "Skrap van POP-bediener">
 <!ENTITY fetchFromPOP.label "Haal van POP-bediener">
 <!ENTITY ignoreThread.label "Ignoreer draad">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Ignoreer subdraad">
 <!ENTITY watchThread.label "Hou draad dop">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "Stop filteruitvoering">
+
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+

@@ -2,17 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
-<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.label "Gevorderd redigeer…">
+<!ENTITY AdvancedEditButton.accessKey "r">
 <!ENTITY AdvancedEditButton.tooltip "Wysig of voeg HTML-attribute, styl-attribute en JavaScript by">
-<!ENTITY chooseFileButton.label "Choose File...">
-<!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
-<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY chooseFileButton.label "Kies lêer…">
+<!ENTITY chooseFileButton.accessKey "l">
+<!ENTITY chooseFileLinkButton.label "Kies lêer…">
+<!ENTITY chooseFileLinkButton.accessKey "l">
 <!ENTITY makeUrlRelative.label "URL is relatief tot bladsyligging">
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Verander tussen relatiewe en absolute URL. U moet eers die bladsy stoor voor u dit verander.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Tik 'n webbladsy se ligging of 'n plaaslike lêer in, of kies 'n genoemde anker of kop uit die opspringlys:">
-<!ENTITY LinkURLEditField.accessKey "l">

@@ -1,38 +1,42 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Soek vir boodskappe in:">
-<!ENTITY searchHeading.accesskey "k">
-<!ENTITY searchSubfolders.label "Deursoek subvouers">
-<!ENTITY searchSubfolders.accesskey "u">
-<!ENTITY resetButton.label "Maak skoon">
-<!ENTITY resetButton.accesskey "M">
-<!ENTITY openButton.label "Open">
-<!ENTITY openButton.accesskey "n">
-<!ENTITY deleteButton.label "Skrap">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY searchDialogTitle.label "Deursoek boodskappe">
-<!ENTITY results.label "Resultate">
-<!ENTITY fileHereMenu.label "Liasseer hier">
-<!ENTITY fileHereMenu.accesskey "L">
-<!ENTITY fileButton.label "Lêer">
-<!ENTITY fileButton.accesskey "e">
-<!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Open boodskapvouer">
-<!ENTITY goToFolderButton.accesskey "r">
-<!ENTITY saveAsVFButton.label "Stoor as soekvouer">
-<!ENTITY saveAsVFButton.accesskey "t">
+
+<!ENTITY searchHeading.label         "Soek vir boodskappe in:">
+<!ENTITY searchHeading.accesskey     "k">
+<!ENTITY searchSubfolders.label      "Deursoek subvouers">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchOnServer.label        "Doen soektog op bediener">
+<!ENTITY searchOnServer.accesskey    "D">
+<!ENTITY resetButton.label           "Maak skoon">
+<!ENTITY resetButton.accesskey       "M">
+<!ENTITY openButton.label            "Open">
+<!ENTITY openButton.accesskey        "n">
+
+
+<!ENTITY searchDialogTitle.label     "Deursoek boodskappe">
+<!ENTITY results.label               "Resultate">
+
+
+
+
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Open in vouer">
+<!ENTITY openInFolder.accesskey      "v">
+<!ENTITY saveAsVFButton.label        "Stoor as soekvouer">
+<!ENTITY saveAsVFButton.accesskey    "t">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "Soek in:">
-<!ENTITY abSearchHeading.accesskey "e">
-<!ENTITY propertiesButton.label "Eienskappe">
-<!ENTITY propertiesButton.accesskey "E">
-<!ENTITY composeButton.label "Skryf">
-<!ENTITY composeButton.accesskey "S">
-<!ENTITY abSearchDialogTitle.label "Gevorderde adresboeksoektog">
+<!ENTITY abSearchHeading.label       "Soek in:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label      "Eienskappe">
+<!ENTITY propertiesButton.accesskey  "E">
+<!ENTITY composeButton.label         "Skryf">
+<!ENTITY composeButton.accesskey     "S">
+
+
+<!ENTITY abSearchDialogTitle.label   "Gevorderde adresboeksoektog">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Draad">
@@ -49,17 +53,17 @@
 <!ENTITY unreadColumn.label "Ongelees">
 <!ENTITY totalColumn.label "Totaal">
 <!ENTITY readColumn.label "Lees">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "Ontvang">
 <!ENTITY starredColumn.label "Gevlag">
 <!ENTITY locationColumn.label "Ligging">
 <!ENTITY idColumn.label "Volgorde ontvang">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word">
-<!ENTITY threadColumn.tooltip "Kliek om die boodskapdrade te vertoon">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY threadColumn.tooltip "Kliek om die boodskapdrade te vertoon"> 
+<!ENTITY fromColumn.tooltip "Kliek om volgens afsender te rangskik">
 <!ENTITY recipientColumn.tooltip "Kliek om volgens ontvanger te rangskik">
-<!ENTITY subjectColumn.tooltip "Kliek om te volgens onderwerp rangskik">
+<!ENTITY subjectColumn.tooltip "Kliek om volgens onderwerp te rangskik">
 <!ENTITY dateColumn.tooltip "Kliek om volgens datum te rangskik">
 <!ENTITY priorityColumn.tooltip "Kliek om volgens prioriteit te rangskik">
 <!ENTITY tagsColumn.tooltip "Kliek om volgens merker te rangskik">
@@ -70,7 +74,7 @@
 <!ENTITY unreadColumn.tooltip "Getal ongelese boodskappe in draad">
 <!ENTITY totalColumn.tooltip "Totale getal boodskappe in draad">
 <!ENTITY readColumn.tooltip "Kliek om volgens gelees te rangskik">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.tooltip "Kliek om te rangskik volgens datum ontvang">
 <!ENTITY starredColumn.tooltip "Kliek om volgens vlag te rangskik">
 <!ENTITY locationColumn.tooltip "Kliek om volgens ligging te rangskik">
 <!ENTITY idColumn.tooltip "Kliek om te rangskik volgens volgorde ontvang">

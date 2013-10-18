@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title "Nutsbalke">
+<!ENTITY pref.toolbars.title    "Nutsbalke">
 
-<!ENTITY composition.caption "Wys hierdie knoppies in die opmaak-nutsbalk:">
+<!ENTITY composition.caption    "Wys hierdie knoppies in die opmaak-nutsbalk:">
 
-<!ENTITY new.label "Nuwe">
-<!ENTITY open.label "Open">
-<!ENTITY save.label "Stoor">
-<!ENTITY publish.label "Publiseer">
-<!ENTITY preview.label "Blaai">
-<!ENTITY cut.label "Knip">
-<!ENTITY copy.label "Kopieer">
-<!ENTITY paste.label "Plak">
-<!ENTITY print.label "Druk">
-<!ENTITY find.label "Vind">
-<!ENTITY image.label "Prent">
-<!ENTITY hline.label "H.streep">
-<!ENTITY table.label "Tabel">
-<!ENTITY link.label "Skakel">
-<!ENTITY anchor.label "Anker">
+<!ENTITY new.label              "Nuwe">
+<!ENTITY open.label             "Open">
+<!ENTITY save.label             "Stoor">
+<!ENTITY publish.label          "Publiseer">
+<!ENTITY preview.label          "Blaai">
+<!ENTITY cut.label              "Knip">
+<!ENTITY copy.label             "Kopieer">
+<!ENTITY paste.label            "Plak">
+<!ENTITY print.label            "Druk">
+<!ENTITY find.label             "Vind">
+<!ENTITY image.label            "Prent">
+<!ENTITY hline.label            "H.streep">
+<!ENTITY table.label            "Tabel">
+<!ENTITY link.label             "Skakel">
+<!ENTITY anchor.label           "Anker">
 
-<!ENTITY formatting.caption "Toon hierdie knoppies in die formateer-nutsbalk:">
+<!ENTITY formatting.caption     "Toon hierdie knoppies in die formateer-nutsbalk:">
 
-<!ENTITY smaller.label "Kleiner">
-<!ENTITY larger.label "Groter">
-<!ENTITY bold.label "Vet">
-<!ENTITY bullets.label "Koeëltjies">
-<!ENTITY numbers.label "Getalle">
-<!ENTITY italic.label "Skuins">
-<!ENTITY outdent.label "Uitkeep">
-<!ENTITY indent.label "Inkeep">
-<!ENTITY underline.label "Onderstreep">
+<!ENTITY smaller.label          "Kleiner">
+<!ENTITY larger.label           "Groter">
+<!ENTITY bold.label             "Vet">
+<!ENTITY bullets.label          "Koeëltjies">
+<!ENTITY numbers.label          "Getalle">
+<!ENTITY italic.label           "Skuins">
+<!ENTITY outdent.label          "Uitkeep">
+<!ENTITY indent.label           "Inkeep">
+<!ENTITY underline.label        "Onderstreep">
 
 <!ENTITY absolutePosition.label "Absolute posisionering">
-<!ENTITY decreaseZIndex.label "Stuur na agter">
-<!ENTITY increaseZIndex.label "Bring na vore">
+<!ENTITY decreaseZIndex.label   "Stuur na agter">
+<!ENTITY increaseZIndex.label   "Bring na vore">

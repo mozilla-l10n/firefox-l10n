@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Laai af en sinchroniseer boodskappe">
 <!ENTITY MsgSelect.label "Items vir aflyngebruik">
-<!ENTITY MsgSyncDesc.label "As u reeds posvouers of nuusgroepe vir aflyngebruik gekies het, kan u hulle nou aflaai en/of sinchroniseer. Anders kan u met die &quot;Kies&quot;-knoppie posvouers en nuusgroepe vir aflyngebruik kies.">
+
 <!ENTITY MsgSyncDirections.label "Laai af en sinchroniseer die volgende:">
 <!ENTITY syncTypeMail.label "Posboodskappe">
 <!ENTITY syncTypeMail.accesskey "P">
@@ -16,8 +16,8 @@
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Werk aflyn sodra aflaai en/of sinchronisering afgehandel is">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Select…">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.label "Kies…">
+<!ENTITY selectButton.accesskey "K">
 <!ENTITY MsgSelectDesc.label "Kies posvouers en nuusgroepe vir aflyngebruik.">
 <!ENTITY MsgSelectInd.label "Aflaai">
 <!ENTITY MsgSelectItems.label "Vouers en nuusgroepe">

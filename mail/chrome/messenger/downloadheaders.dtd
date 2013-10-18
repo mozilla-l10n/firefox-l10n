@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY all.label "Laai alle kopskrifte af">
-<!ENTITY all.accesskey "L">
+<!ENTITY all.label          "Laai alle kopskrifte af">
+<!ENTITY all.accesskey      "L">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -11,10 +11,10 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label "Aflaai">
+<!ENTITY download.label     "Aflaai">
 <!ENTITY download.accesskey "f">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label "kopskrifte">
-<!ENTITY headers.accesskey "k">
-<!ENTITY mark.label "Merk oorblywende kopskrifte as gelees">
-<!ENTITY mark.accesskey "M">
+<!ENTITY headers.label      "kopskrifte">
+<!ENTITY headers.accesskey  "k">
+<!ENTITY mark.label         "Merk oorblywende kopskrifte as gelees">
+<!ENTITY mark.accesskey     "M">

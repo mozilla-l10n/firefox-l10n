@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "LDAP-gidsbedieners">
+<!ENTITY pref.ldap.window.title    "LDAP-gidsbedieners">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "LDAP-gidsbediener:">
+<!ENTITY directories.label         "LDAP-gidsbediener:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "Kies 'n LDAP-gidsbediener:">
+<!ENTITY directoriesText.label     "Kies 'n LDAP-gidsbediener:">
 <!ENTITY directoriesText.accesskey "K">
-<!ENTITY addDirectory.label "Voeg by">
-<!ENTITY addDirectory.accesskey "V">
-<!ENTITY editDirectory.label "Redigeer">
-<!ENTITY editDirectory.accesskey "R">
-<!ENTITY deleteDirectory.label "Skrap">
+<!ENTITY addDirectory.label        "Voeg by">
+<!ENTITY addDirectory.accesskey    "V">
+<!ENTITY editDirectory.label       "Redigeer">
+<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY deleteDirectory.label     "Skrap">
 <!ENTITY deleteDirectory.accesskey "S">
