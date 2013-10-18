@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Hočem vstran!">
 <!ENTITY safeb.palm.decline.label "Prezri to opozorilo">
-<!ENTITY safeb.palm.notforgery.label2 "To ni spletna prevara…">
+<!ENTITY safeb.palm.notforgery.label2 "To ni spletna prevara …">
 <!ENTITY safeb.palm.reportPage.label "Zakaj je bila ta stran zavrnjena?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Sporočena napadalna stran!">
