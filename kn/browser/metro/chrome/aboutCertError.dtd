@@ -31,7 +31,7 @@ was trying to connect. -->
  ಎಂದು  ಈ ದೋಷವು ಸೂಚಿಸುತ್ತದೆ.</b>">
 <!ENTITY certerror.expert.contentPara2 "ಈ ತಾಣವು ಏಕೆ ನಂಬಿಕಾ ಗುರುತನ್ನು 
 ಬಳಸುತ್ತಿಲ್ಲ ಎನ್ನುವುದಕ್ಕೆ ಸರಿಯಾದ ಕಾರಣವಿಲ್ಲದ ಹೊರತು ವಿನಾಯಿತಿಯನ್ನು ನೀಡಬೇಡಿ.">
-
+<!ENTITY certerror.addTemporaryException.label "ತಾಣಕ್ಕೆ ಭೇಟಿಕೊಡಿ">
 
 
 <!ENTITY certerror.technical.heading "ತಾಂತ್ರಿಕ ವಿವರಗಳು">
