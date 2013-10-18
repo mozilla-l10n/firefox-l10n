@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Kódovanie">
 <!ENTITY messageDisplay.caption          "Zobrazenie správ">
-<!ENTITY viewDefaultCharset.label        "Predvolené kódovanie:">
-<!ENTITY viewDefaultCharset.accesskey    "d">
+<!ENTITY viewFallbackCharset.label       "Kódovanie znakov pre starší obsah:">
+<!ENTITY viewFallbackCharset.accesskey   "d">
+<!ENTITY viewFallbackCharset.desc        "(Toto kódovanie znakov je používané pre starší obsah, ktorý nedefinuje svoje kódovanie.)">
 
 <!ENTITY composingMessages.caption       "Odosielanie správ">
 <!ENTITY useMIME.label                   "Pre správy, ktoré obsahujú 8-bit znaky, použiť kódovanie MIME 'quoted printable'. Ak táto voľba nie je označená, správy budú odosielané bez zmeny.">
