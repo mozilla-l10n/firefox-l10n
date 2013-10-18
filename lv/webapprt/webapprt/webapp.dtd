@@ -18,7 +18,7 @@
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
-<!ENTITY quitApplicationCmdMac.key          "V">
+<!ENTITY quitApplicationCmdUnix.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "P">
 <!ENTITY hideOtherAppsCmdMac.label          "Paslēpt citus">
 <!ENTITY hideOtherAppsCmdMac.key            "P">
@@ -41,7 +41,7 @@
 <!ENTITY pasteCmd.label                     "Ielīmēt">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "L">
-<!ENTITY deleteCmd.label                    "Dzest">
+<!ENTITY deleteCmd.label                    "Dzēst">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
 <!ENTITY selectAllCmd.label                 "Iezīmēt visu">
