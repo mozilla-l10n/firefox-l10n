@@ -2,9 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+<!ENTITY  no_space_to_start_error "Ji bo destpêkirina &brandShortName;ê têra xwe ciyê vala tune ye.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
+<!ENTITY  bookmarks_title "Bijare">
+<!ENTITY  history_title "Raborî">
 
 
 
@@ -18,7 +23,7 @@
 
 
 
-
+<!ENTITY  crash_restart_label "&brandShortName;ê venû bike">
 
 
 
@@ -71,6 +76,7 @@
 
 
 
+<!ENTITY pref_cookies_accept_all "Çalak">
 
 
 
@@ -82,8 +88,7 @@
 
 
 
-
-
+<!ENTITY pref_plugins_enabled "Çalak">
 
 
 
@@ -118,10 +123,8 @@ size. -->
 
 
 
+<!ENTITY pref_vendor_faqs "PPP">
 
-<!ENTITY pref_about_firefox "About &brandShortName;">
-
-<!ENTITY pref_vendor_feedback "Give feedback">
 
 
 
@@ -150,6 +153,7 @@ size. -->
 
 
 
+<!ENTITY pref_update_autodownload_enabled "Çalak">
 
 
 
@@ -162,7 +166,6 @@ size. -->
 
 
 
-<!ENTITY tools "Tools">
 
 
 
@@ -213,13 +216,13 @@ size. -->
      They are not visible in the UI. -->
 
 
-<!ENTITY masterpassword_password "Password">
+
 
 
 <!ENTITY button_ok "OK">
 
-<!ENTITY button_yes "Yes">
-<!ENTITY button_no "No">
+
+
 
 
 
@@ -261,7 +264,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 
-<!ENTITY learn_more "Learn More">
+
 
 
 
