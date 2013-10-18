@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Ngenisa uKhangela okanye idilesi">
+
+<!ENTITY back.label            "Emva">
+<!ENTITY forward.label         "Gqithisela phambili">
+<!ENTITY newtab.label          "Ithebhu Entsha">
+<!ENTITY closetab.label        "Vala Ithebhu">
+
+<!ENTITY autocompleteResultsHeader.label  "Iziphumo Zakho">
+
+<!ENTITY appbarErrorConsole.label   "Ikhonsoli evulekileyo yemposiso">
+<!ENTITY appbarJSShell.label        "Iqokobhe elivulekileyo leJavaScript">
+<!ENTITY appbarFindInPage2.label    "Fumana ephepheni">
+<!ENTITY appbarViewOnDesktop2.label "Bona kwidesktopu">
+
+<!ENTITY topSitesHeader.label        "Iisayithi eziphezulu">
+<!ENTITY bookmarksHeader.label       "Iibhukhmakhi">
+<!ENTITY recentHistoryHeader.label   "Imbali Yakutshanje">
+<!ENTITY remoteTabsHeader.label      "Iithebhu ezivela kuzo zonke Ezinye Izixhobo">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Iisayithi eziphezulu">
+<!ENTITY narrowBookmarksHeader.label     "Iibhukhmakhi">
+<!ENTITY narrowRecentHistoryHeader.label "Imbali Yakutshanje">
+<!ENTITY narrowRemoteTabsHeader.label    "Iithebhu Ezikude">
+
+<!ENTITY downloadsHeader.label     "Okukhutshelweyo">
+<!ENTITY downloadShowPage.label    "Yiya kwiphepha">
+<!ENTITY downloadShow2.label       "Fumana">
+<!ENTITY downloadOpen2.label       "Vula">
+<!ENTITY downloadCancel.label      "Rhoxisa">
+<!ENTITY downloadPause.label       "Nqumama">
+<!ENTITY downloadResume.label      "Buyela enkomeni">
+<!ENTITY downloadRetry.label       "Phinda uzame">
+<!ENTITY downloadRemove.label      "Susa">
+<!ENTITY downloadDelete.label      "Cima">
+<!ENTITY downloadFailed.label      "Akuphumelelanga">
+
+<!ENTITY allBookmarks.label        "Jonga zonke iibhukhmakhi">
+
+<!ENTITY consoleHeader.label       "Uthuthuzelo lwemposiso">
+<!ENTITY consoleAll.label          "Konke">
+<!ENTITY consoleErrors.label       "Iimposiso">
+<!ENTITY consoleWarnings.label     "Izilumkiso">
+<!ENTITY consoleMessages.label     "Imiyalezo">
+<!ENTITY consoleCodeEval.label     "Ikhowudi:">
+<!ENTITY consoleClear.label        "Sula">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Ifayili Yentsusa:">
+<!ENTITY consoleErrLine.label      "Umgca:">
+<!ENTITY consoleErrColumn.label    "Umqolo owehlayo:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Sika">
+<!ENTITY contextTextCopy.label             "Kopa">
+<!ENTITY contextTextPaste.label            "Ncamathelisa">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Ncamathelisa &amp; hamba">
+<!ENTITY contextTextSelect.label           "Khetha">
+<!ENTITY contextTextSelectAll.label        "Khetha konke">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Vula ikhonkco kwithebhu entsha">
+<!ENTITY contextCopyLinkHref.label         "Kopa ikhonkco">
+<!ENTITY contextBookmarkLinkHref.label     "Faka ibhukhmakhi kwikhonkco">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Gcina umfanekiso kwilayibhri">
+<!ENTITY contextCopyImage.label            "Kopa umfanekiso">
+<!ENTITY contextCopyImageLocation.label    "Kopa indawo yomfanekiso">
+<!ENTITY contextOpenImageTab.label         "Vula umfanekiso kwithebhu entsha">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Gcina kwilayibhri yevidiyo">
+<!ENTITY contextCopyVideoLocation.label    "Kopa indawo yevidiyo">
+<!ENTITY contextOpenVideoTab.label         "Vula ividiyo kwithebhu entsha">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

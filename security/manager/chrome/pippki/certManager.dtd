@@ -37,18 +37,14 @@
 
 <!ENTITY certmgr.editcert.title               "Hlela Imimiselo Yezatifikethi Yokhuseleko">
 <!ENTITY certmgr.editcacert.title             "Hlela Imimiselo yentembeko yesatifikethi se-CA">
-
 <!ENTITY certmgr.editcert.edittrust           "Hlela imimiselo yentembeko:">
 
 <!ENTITY certmgr.editcert.trustemail          "Esi satifikethi sinako ukuchonga abasebenzisi bemeyile.">
 <!ENTITY certmgr.editcert.trustobjsign        "Esi satifikethi sinako ukuchonga abenzi benkqubo ekhohliweyo.">
-<!ENTITY certmgr.editsslcert.edittrust        "Hlela imimiselo yentembeko yesatifikethi:">
-<!ENTITY certmgr.editsslcert.dotrust          "Themba ukunyaniseka kwesi satifikethi.">
-<!ENTITY certmgr.editsslcert.donttrust        "Musa ukukuthemba ukunyaniseka kwesi satifikethi.">
 <!ENTITY certmgr.editemailcert.title          "Hlela imimiselo yentembeko yesatifikethi semeyile">
-<!ENTITY certmgr.editemailcert.edittrust      "Hlela imimiselo yentembeko yesatifikethi:">
-<!ENTITY certmgr.editemailcert.dotrust        "Themba ukunyaniseka kwesi satifikethi.">
-<!ENTITY certmgr.editemailcert.donttrust      "Musa ukukuthemba ukunyaniseka kwesi satifikethi.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "Cima Isatifikethi">
 <!ENTITY certmgr.deletecert.beforename        "Ucele ukucima esi satifikethi:">
