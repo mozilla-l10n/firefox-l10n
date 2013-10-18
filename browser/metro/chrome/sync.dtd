@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Acceder tes segnapaginas, tes pleds-clav e tes tabs averts da tut tes apparats">
+<!ENTITY sync.flyout.presetup.setup.label      "Installar &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Installar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Sche ti has in conto da &syncBrand.shortName.label;, tscherna &quot;Associar in apparat&quot; sin tes auter apparat ed endatescha quest code.">
+<!ENTITY sync.flyout.setup.description2        "Sche ti n'has nagina conto da &syncBrand.shortName.label; pos ti crear in cun tes navigatur da &brandShortName; desktop.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Jau na sun betg datiers da mes computer…">
+<!ENTITY sync.flyout.setup.description3        "Avis:">
+<!ENTITY sync.flyout.setup.description4_2      "Per chattar &quot;Associar in apparat&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Avra las &quot;Preferenzas&quot; e tscherna &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Dapli &gt; Configuraziun &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Endatescha tias infurmaziuns dal conto da &syncBrand.shortName.label; e la clav da restauraziun generada da tes computer">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Num dal conto">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Pled-clav">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clav da restauraziun">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Connectar">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Ti has gest connecta &brandShortName; al conto da &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Tias datas da &syncBrand.shortName.label; vegnan ussa telechargiadas. Tes tabs sincronisads chattas ti sin la pagina da partenza da &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; na pudeva betg conntectar a tes conto da &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Interrumper">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Empruvar anc ina giada">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Conto:">
+<!ENTITY sync.flyout.connected.device                     "Tes apparat:">
+<!ENTITY sync.flyout.connected.disconnect                 "Deconnectar">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Deconnectar tes apparat da &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Tut tias datas persunalas, sin quest apparat ed en il conto da &syncBrand.shortName.label;, restan intactas.">
+<!ENTITY sync.flyout.connected.cancel                     "Interrumper">
+<!ENTITY sync.flyout.connected.pair                       "Associar in apparat">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Sin l'apparat nov cun il qual ti vuls associar, tscherna &quot;Installar &syncBrand.shortName.label;&quot; ed endatescha il code che l'apparat generescha">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Associar">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Avis:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Per chattar il code,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Avra las &quot;Preferenzas&quot; e suanda ils pass: &syncBrand.shortName.label; -&gt; Installar &syncBrand.shortName.label; -&gt; Jau hai in conto">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Dapli &gt; Configuraziun &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Emprova anc ina giada">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Il nov apparat è vegnì agiuntà cun success.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Tias datas da &syncBrand.shortName.label; vegnan ussa telechargiadas. Tes tabs lontans pos ti chattar sin la pagina da partenza da &brandShortName;.">
