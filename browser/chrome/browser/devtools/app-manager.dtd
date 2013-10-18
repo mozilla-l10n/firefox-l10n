@@ -43,11 +43,11 @@
 <!ENTITY connection.changeHostAndPort "ប្ដូរ">
 <!ENTITY connection.changeHostAndPortTooltip "ប្ដូរ​ម៉ាស៊ីន និង​ច្រក​ដែល​បាន​ប្រើ​ដើម្បី​តភ្ជាប់​ទៅ​ឧបករណ៍។ (លំនាំដើម​ទៅ localhost:6000)">
 <!ENTITY connection.startSimulator "ចាប់ផ្ដើម​កម្មវិធី​និម្មិត">
-
+<!ENTITY connection.startSimulatorTooltip "ចាប់​ធាតុ​កម្មវិធី​និម្មិត រួច​តភ្ជាប់​ទៅកាន់​វា។">
 <!ENTITY connection.saveConnectionInfo "រក្សា​ទុក">
-
+<!ENTITY connection.saveConnectionInfoTooltip "រក្សាទុក​ម៉ាស៊ីន និង​ច្រក។">
 <!ENTITY connection.connecting "កំពុង​តភ្ជាប់…">
-
+<!ENTITY connection.disconnecting "កំពុង​ផ្ដាច់...">
 <!ENTITY connection.cancel "បោះបង់">
 
 
