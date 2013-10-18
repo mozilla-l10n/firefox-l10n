@@ -5,11 +5,14 @@
 
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "المواقع الأكثر زيارة">
-<!ENTITY  awesomebar_bookmarks_title "العلامات">
-<!ENTITY  awesomebar_history_title "التأريخ">
-<!ENTITY  awesomebar_switch_to_tab "انتقل للسان">
+<!ENTITY  bookmarks_title "العلامات">
+<!ENTITY  history_title "التأريخ">
+<!ENTITY  reading_list_title "قائمة القراءة">
+
+<!ENTITY  switch_to_tab "انتقل للسان">
 
 <!ENTITY  crash_reporter_title "مبلغ انهيارات &brandShortName;">
 <!ENTITY  crash_message2 "انهار &brandShortName;. ستجد ألسنتك مسرودة في صفحة بداية &brandShortName; عندما تعيد تشغيله.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "اختر ملفًا">
 
-<!ENTITY awesomebar_default_text "أدخِل بحثًا أو عنوانًا">
-
-<!ENTITY remote_tabs "الألسنة المُزامنة">
-<!ENTITY remote_tabs_show_all "أظهِر كل الألسنة">
+<!ENTITY url_bar_default_text "أدخِل بحثًا أو عنوانًا">
 
 <!ENTITY bookmark "علامة">
 <!ENTITY bookmark_added "أُضيفت العلامة">
@@ -64,24 +64,31 @@
 
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
-
-
-
-
-
-
+<!ENTITY pref_category_advanced "متقدّم">
+<!ENTITY pref_category_customize "خصّص">
+<!ENTITY pref_category_search2 "إعدادات البحث">
+<!ENTITY pref_category_display "العرض">
+<!ENTITY pref_category_privacy_short "الخصوصية">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
-
-
-
-
+<!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
+<!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث.">
+<!ENTITY pref_category_devtools "أدوات المطورين">
+<!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
+<!ENTITY pref_developer_remotedebugging_docs "اطّلع على المزيد">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
+<!ENTITY pref_header_customize "خصّص">
+<!ENTITY pref_header_display "العرض">
+<!ENTITY pref_header_privacy_short "الخصوصية">
+<!ENTITY pref_header_help "المساعدة">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "أدوات المطورين">
 
 <!ENTITY pref_cookies_menu "الكعكات">
 <!ENTITY pref_cookies_accept_all "مفعّلة">
@@ -102,11 +109,10 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-
-
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "إعادة انسياب النص">
+<!ENTITY pref_restore "الألسنة">
+<!ENTITY pref_restore_always "استعد دائمًا">
+<!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
 <!ENTITY pref_font_size_tiny "ضئيل">
 <!ENTITY pref_font_size_small "صغير">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -140,8 +146,12 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "عن &brandShortName;">
-
+<!ENTITY pref_vendor_faqs "الأسئلة الأكثر شيوعًا">
 <!ENTITY pref_vendor_feedback "أخبرنا بتعليقاتك">
+<!ENTITY pref_search_set_default "اجعله المبدئي">
+<!ENTITY pref_search_default "المبدئي">
+<!ENTITY pref_search_remove "أزِل">
+<!ENTITY pref_search_last_toast "لا تستطيع إزالة أو تعطيل آخر محرك بحث.">
 
 <!ENTITY datareporting_notification_title "بيانات و إحصائيات &brandShortName;">
 <!ENTITY datareporting_notification_action_long "اختر أي المعلومات تشارِك">
@@ -157,7 +167,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "تقرير حالة &brandShortName;">
-
+<!ENTITY datareporting_fhr_summary2 "يشارك بيانات مع &vendorShortName; عن حالة المتصفح و يساعدك في فهم أدائه.">
 <!ENTITY datareporting_abouthr_title "اعرض تقرير الحالة">
 <!ENTITY datareporting_telemetry_title "تليمتري">
 <!ENTITY datareporting_telemetry_summary "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
@@ -165,8 +175,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "مُبلّغ الانهيار">
-
-
+<!ENTITY datareporting_wifi_title "خدمات التموضع من &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "ساعد في تحسين خدمات التموضع الجغرافي المفتوحة بالسماح ل‍&brandShortName; بجمع و إرسال معلومات مُجهّلة عن أبراج شبكة الهاتف المحمول.">
 
 <!ENTITY pref_update_autodownload "التحديثات التلقائية">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
@@ -189,12 +199,12 @@ size. -->
 <!ENTITY tools "أدوات">
 <!ENTITY new_tab "لسان جديد">
 <!ENTITY new_private_tab "لسان خاص جديد">
-<!ENTITY close_all_tabs "اغلق كل الألسنة">
-
+<!ENTITY close_all_tabs "أغلق كل الألسنة">
+<!ENTITY tabs_normal "الألسنة">
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
-
-
+<!ENTITY set_image_fail "تعذر استخدام الصورة">
+<!ENTITY set_image_chooser_title "استخدم الصورة ك‍">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -206,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
 <!ENTITY contextmenu_open_in_reader "افتح في القارئ">
-<!ENTITY contextmenu_remove_history "أزِل">
-<!ENTITY contextmenu_remove_bookmark "أزِل">
+<!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
 <!ENTITY contextmenu_share "تشارَك">
 <!ENTITY contextmenu_pasteandgo "ألصق واذهب">
@@ -216,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "حرِّر">
 <!ENTITY contextmenu_subscribe "اشترك بهذه الصفحة">
 <!ENTITY contextmenu_site_settings "حرر إعدادات الموقع">
+<!ENTITY contextmenu_top_bookmarks_edit "حرِّر">
+<!ENTITY contextmenu_top_bookmarks_pin "ثبّت الموقع">
+<!ENTITY contextmenu_top_bookmarks_unpin "افصل الموقع">
 
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
@@ -223,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "أزِيلت الصفحة">
 
+<!ENTITY bookmark_add "أضِف علامة">
 <!ENTITY bookmark_edit_title "حرّر العلامة">
 <!ENTITY bookmark_edit_name "الاسم">
 <!ENTITY bookmark_edit_location "المكان">
@@ -235,13 +248,14 @@ size. -->
 <!ENTITY site_settings_clear        "امسح">
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 
-<!ENTITY reading_list "قائمة القراءة">
 <!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_duplicate "الصفحة موجودة في قائمة القراءة">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "إجراءات إضافية">
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
 <!ENTITY masterpassword_remove_title "أزِل كلمة السر الرئيسية">
@@ -256,28 +270,30 @@ size. -->
 <!ENTITY button_set "حدد">
 <!ENTITY button_clear "امسح">
 
-<!ENTITY abouthome_addons_title "إضافات &brandShortName;">
-<!ENTITY abouthome_addons_browse "تصفّح كل إضافات &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "ألسنتك من المرة السابقة">
-<!ENTITY abouthome_last_tabs_open "افتح كل الألسنة من المرة السابقة">
-<!ENTITY abouthome_top_sites_title "المواقع الأكثر زيارة">
-<!ENTITY abouthome_topsites_edit "حرِّر">
-<!ENTITY abouthome_topsites_pin "ثبّت الموقع">
-<!ENTITY abouthome_topsites_unpin "افصل الموقع">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_top_sites_title "المواقع الأكثر زيارة">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "أضف موقعًا">
 
-<!ENTITY abouthome_about_sync3 "اضبط تزامُن فيَرفُكس للوصول إلى العلامات والتأريخ والألسنة من أجهزتك الأخرى&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "احصل على التطبيقات من متجر فَيرفُكس واكتشف أفضل ما تقدمه الوب&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "تزامُن فَيَرفُكس">
-<!ENTITY abouthome_apps_bold_name2 "متجر فَيرفُكس">
+<!ENTITY home_history_title "التأريخ">
+<!ENTITY home_last_tabs_title "الألسنة من المرة السابقة">
+<!ENTITY home_last_tabs_open "افتح كل الألسنة من المرة السابقة">
+<!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
+<!ENTITY home_most_recent_title "الأحدث">
+<!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
+<!ENTITY home_most_visited_title "الأكثر زيارة">
+<!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على أيقونة &#037;Ii عندما تظهر في شريط العنوان.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على زر وضع القارئ عندما يظهر في شريط العنوان.">
+
+<!ENTITY home_most_visited_empty "أكثر المواقع زيارة تظهر هنا.">
+<!ENTITY pin_bookmark_dialog_hint "أدخل كلمة للبحث">
 
 <!ENTITY filepicker_title "اختر ملفًا">
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
@@ -300,11 +316,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "والذي يعمل ب‍">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
+<!ENTITY blocked_mixed_content_message_top "منع &brandShortName; محتوًى غير آمن.">
+<!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
 <!ENTITY learn_more "اطّلع على المزيد">
 <!ENTITY enable_protection "فعّل الحماية">
 <!ENTITY disable_protection "عطّل الحماية">
-
+<!ENTITY keep_blocking "أبقِ على المنع">
 
 <!ENTITY private_data_success "مُسحت البيانات الخاصة">
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
@@ -321,11 +339,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "أتريد تفعيل اقتراحات بحث &formatS;؟">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "ابحث في &formatS1; عن &formatS2;">
 
 <!ENTITY webapp_generic_name "تطبيق">
 
 <!ENTITY searchable_description "العلامات والتأريخ">
 
+<!ENTITY devtools_remote_debugging_forward "لا تنس إعداد تمرير المنافذ.">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
@@ -340,9 +364,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "المس للتحديث">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "جلسة ضيف جديدة">
+<!ENTITY exit_guest_session "اخرج من جلسة الضيف">
 <!ENTITY guest_session_dialog_continue "استمر">
+<!ENTITY guest_session_dialog_cancel "ألغِ">
+<!ENTITY new_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
+<!ENTITY new_guest_session_text "لن يستطيع الشخص الذي يستخدمه الاطلاع على أي من بيانات تصفحك (مثل كلمات السر المحفوظة، و التأريخ، و العلامات).\n\nعند انتهاء الضيف، كل بيانات تصفحه ستُحذف و ستُستعاد جلستك.">
 
-
-
-
-
+<!ENTITY exit_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
+<!ENTITY exit_guest_session_text "ستُحذف بيانات تصفح هذه الجلسة.">
