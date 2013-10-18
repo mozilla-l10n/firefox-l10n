@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+<!ENTITY back.label            "Precedent">
+<!ENTITY forward.label         "Seguent">
+<!ENTITY newtab.label          "Onglet novèl">
+<!ENTITY closetab.label        "Tampar l'onglet">
+
+<!ENTITY autocompleteResultsHeader.label  "Vòstres resultats">
+
+<!ENTITY appbarErrorConsole.label   "Dobrir la consòla d'errors">
 
 
 
 
+<!ENTITY bookmarksHeader.label       "Marcapaginas">
 
-
-
-
-
-
-
-
+<!ENTITY remoteTabsHeader.label      "Onglets d'autres aparelhs">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -22,27 +25,29 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
+<!ENTITY narrowBookmarksHeader.label     "Marcapaginas">
+<!ENTITY narrowRecentHistoryHeader.label "Istoric recent">
 
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "Telecargaments">
+<!ENTITY downloadShowPage.label    "Anar a la pagina">
+<!ENTITY downloadShow2.label       "Recercar">
 <!ENTITY downloadOpen2.label       "Dobrir">
 <!ENTITY downloadCancel.label      "Anullar">
-
+<!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Tornar prene">
 <!ENTITY downloadRetry.label       "Tornar ensajar">
 <!ENTITY downloadRemove.label      "Suprimir">
-
+<!ENTITY downloadDelete.label      "Suprimir">
 <!ENTITY downloadFailed.label      "Pas capitat">
 
 
-
+<!ENTITY consoleHeader.label       "Consòla d'errors">
+<!ENTITY consoleAll.label          "Tot">
 <!ENTITY consoleErrors.label       "Errors">
 <!ENTITY consoleWarnings.label     "Avertiments">
-
-
+<!ENTITY consoleMessages.label     "Messatges">
+<!ENTITY consoleCodeEval.label     "Còde :">
 <!ENTITY consoleClear.label        "Voidar la consòla">
 
 <!ENTITY consoleErrFile.label      "Fichier font :">
@@ -55,19 +60,21 @@
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextSelect.label           "Seleccionar">
-
+<!ENTITY contextTextSelectAll.label        "Seleccionar tot">
 <!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Dobrir lo ligam dins un onglet novèl">
 
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
-
-
-
+<!ENTITY contextCopyImage.label            "Copiar l'imatge">
+<!ENTITY contextCopyImageLocation.label    "Copiar l'adreça de l'imatge">
+<!ENTITY contextOpenImageTab.label         "Dobrir l'imatge dins un onglet novèl">
 <!-- VIDEO CONTEXT MENU -->
-
-
+<!ENTITY contextCopyVideoLocation.label    "Copiar l'emplaçament vidèo">
+<!ENTITY contextOpenVideoTab.label         "Dobrir la vidèo dins un onglet novèl">
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY urlbar.accesskey "d">

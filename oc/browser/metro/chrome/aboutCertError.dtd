@@ -31,7 +31,7 @@ del sit. <b>Quitament se vos fisatz del sit, aquesta error pòt voler
 dire que qualqu'un es a jogar amb vòstra connexion.</b>">
 <!ENTITY certerror.expert.contentPara2 "Apondatz pas d'exception, levat 
 se sabètz que i a una bona rason per qu'aqueste sit utilize pas d'identificacion segura.">
-
-
+<!ENTITY certerror.addTemporaryException.label "Data de visita">
+<!ENTITY certerror.addPermanentException.label "Apondre una excepcion permanenta">
 
 <!ENTITY certerror.technical.heading "Detalhs tecnics">

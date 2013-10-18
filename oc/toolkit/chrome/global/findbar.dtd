@@ -7,10 +7,10 @@
 
 <!ENTITY next.tooltip "Tròba l'ocurréncia venenta de la frasa">
 <!ENTITY previous.tooltip "Tròba l'ocurréncia precedenta de la frasa">
-
-
-
+<!ENTITY findCloseButton.tooltip "Tampar la Barra de recèrca">
+<!ENTITY highlightAll.label "Suslinhar tot">
+<!ENTITY highlightAll.accesskey "u">
 <!ENTITY highlightAll.tooltiptext "Suslinhar totas las ocurréncias de la frasa">
-
-
+<!ENTITY caseSensitive.label "Respectar la cassa">
+<!ENTITY caseSensitive.accesskey "c">
 

@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY empty.label            "Recercar">
+
 <!ENTITY addpref.name           "Nom">
 <!ENTITY addpref.value          "Valor">
 
 <!ENTITY cancel.label           "Anullar">
+<!ENTITY reset.label            "Reïnicializar">
+<!ENTITY done.label             "Acabat">
 
-
-
-
-
+<!ENTITY integer.label          "Valor numerica">
+<!ENTITY string.label           "Cadena">
+<!ENTITY boolean.label          "Valor booleana">
