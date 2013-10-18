@@ -13,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Trang ác ý cố gắng cài đặt các chương trình để ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p><p>Một số trang ác ý cố tình phân phối phần mềm độc hại, nhưng đa số đã bị sửa đổi mà không được phép hoặc người sở hữu không được biết.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Nghi ngờ Trang web Giả mạo!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+
+

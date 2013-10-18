@@ -102,9 +102,9 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Máy chủ">
 <!ENTITY exceptionMgr.certlocation.url        "Địa chỉ:">
 <!ENTITY exceptionMgr.certlocation.download   "Lấy Chứng Thư">
-<!ENTITY exceptionMgr.certlocation.accesskey  "C">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Trạng thái Chứng chỉ">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Xem…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "e">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Lưu trữ ngoại lệ này vĩnh viễn">
 <!ENTITY exceptionMgr.permanent.accesskey     "L">

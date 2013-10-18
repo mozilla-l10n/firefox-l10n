@@ -2,24 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "Quản lý ứng dụng">
+<!ENTITY index.projects2 "Ứng dụng">
+<!ENTITY index.device2 "Thiết bị">
+<!ENTITY index.help "Trợ giúp">
 
-
-
-
-
-
-
-
+<!ENTITY device.screenshot "Chụp màn hình">
+<!ENTITY device.screenshotTooltip "Mở ảnh chụp màn hình trạng thái hiện tại của thiết bị trong một thẻ mới.">
+<!ENTITY device.title "Trung Tâm Điều Khiển Thiết Bị">
+<!ENTITY device.notConnected "Không thể kết nối. Vui lòng kết nốt thiết bị dưới đây.">
+<!ENTITY device.startApp "Chạy">
+<!ENTITY device.startAppTooltip "Chạy ứng dụng này trên thiết bị.">
 <!ENTITY device.stopApp "Dừng">
-
-
-
+<!ENTITY device.stopAppTooltip "Tắt ứng dụng này trên thiết bị.">
+<!ENTITY device.debugApp "Gỡ lỗi">
+<!ENTITY device.debugAppTooltip "Mở Công Cụ dành cho Lập trình viên được kết nối đến ứng dụng này trên thiết bị.">
 <!ENTITY device.name "Tên">
-
+<!ENTITY device.app "Ứng dụng">
 
 
 <!ENTITY device.allow "Cho phép">
-
+<!ENTITY device.allowTooltip "Quyền hạn này cho phép ứng dụng loại này.">
 <!ENTITY device.prompt "Nhắc">
 
 <!ENTITY device.deny "Từ chối">
@@ -32,16 +35,16 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY connection.disconnectTooltip "Ngắt kết nối từ thiết bị hiện tại hoặc thiết bị mô phỏng.">
+<!ENTITY connection.notConnected2 "Chưa kết nối.">
+<!ENTITY connection.connectTo "Kết nối tới:">
+<!ENTITY connection.noDeviceFound "Không tìm thấy thiết bị. Hãy cắm thiết bị vào">
+<!ENTITY connection.changeHostAndPort "Thay đổi">
+<!ENTITY connection.changeHostAndPortTooltip "Thay đổi máy chủ và cổng được sử dụng để kết nối tới thiết bị. (Mặc định là localhost:6000)">
+<!ENTITY connection.startSimulator "Chạy thiết bị mô phỏng">
+<!ENTITY connection.startSimulatorTooltip "Chạy một đối tượng của thiết bị mô phỏng và kết nối tới nó.">
 <!ENTITY connection.saveConnectionInfo "Lưu">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Lưu máy chủ và cổng.">
 <!ENTITY connection.connecting "Đang kết nối…">
 
 <!ENTITY connection.cancel "Hủy bỏ">
@@ -51,15 +54,16 @@
 
 
 
+<!ENTITY connection.installAnotherSimulator "Thêm">
+<!ENTITY connection.installAnotherSimulatorTooltip "Cài đặt thêm phiên bản của thiết bị mô phỏng bằng cách tải về các add-on liên quan.">
 
-
-
-
-
-
-
-
-
+<!ENTITY projects.localApps "Ứng dụng địa phương">
+<!ENTITY projects.addApp "Thêm">
+<!ENTITY projects.addPackaged "Thêm ứng dụng đã được đóng gói">
+<!ENTITY projects.addPackagedTooltip "Thêm một ứng dụng đã được đóng gói (một thư mục) từ máy tính của bạn.">
+<!ENTITY projects.addHosted "Thêm ứng dụng lưu trữ">
+<!ENTITY projects.addHostedTooltip "Thêm mới ứng dụng lưu trữ (liên kết tới tập tin manifest.webapp) từ một trang web từ xa.">
+<!ENTITY projects.title "Ứng dụng địa phương">
 
 
 <!ENTITY projects.updateApp "Cập nhật">
@@ -71,9 +75,9 @@
 
 <!ENTITY help.close "Đóng">
 
-
-
-
-
-
-
+<!ENTITY help.usefullLinks "Liên kết hữu ích:">
+<!ENTITY help.appMgrDoc "Tài liệu: Sử dụng Quản lý ứng dụng">
+<!ENTITY help.configuringDevice "Làm thế nào để cài đặt thiết bị Firefox OS">
+<!ENTITY help.troubleShooting "Khắc phục sự số">
+<!ENTITY help.simulatorAddon "Cài đặt Add-on thiết bị mô phỏng">
+<!ENTITY help.adbHelperAddon "Cài đặt Add-on Trợ giúp Adb">

@@ -5,6 +5,10 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
 
+<!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip    "Tắt công cụ phát triển">
+
 
 
 
