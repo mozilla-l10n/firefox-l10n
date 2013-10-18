@@ -88,7 +88,7 @@
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "HNW">
-<!ENTITY protectedAuth.msg "HNW">
+
 <!ENTITY protectedAuth.tokenName.label "HNW">
 
 <!ENTITY certErrorDlg.title "Girêdana Ewle Têk Çû">

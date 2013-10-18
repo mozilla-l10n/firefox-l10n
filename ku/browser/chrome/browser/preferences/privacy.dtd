@@ -4,32 +4,34 @@
 
 <!ENTITY tracking.label                 "Şopandin">
 
+<!ENTITY dntTrackingNopref.label2       "Derbarê vebijêrkên min ên şopandinê de tu tiştî ranegihîne malperan">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2      "Ji malperan re ragihîne ku naxwazim bêm şopandin">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2         "Ji malperan re ragihîne ku dixwazim bêm şopandin">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Agahiyên bêtir">
 
-
-
-
-
-
-
-<!ENTITY  history.label                 "Mêjû">
+<!ENTITY  history.label                 "Raborî">
 
 <!ENTITY  locationBar.label             "Qutîka Cî">
 
 <!ENTITY  locbar.pre.label              "Dema qutîka cî bê bikaranîn, pêşniyar bike:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Mêjû û Bijare">
-<!ENTITY  locbar.history.label          "Mêjû">
+<!ENTITY  locbar.both.label             "Raborî û Bijare">
+<!ENTITY  locbar.history.label          "Raborî">
 <!ENTITY  locbar.bookmarks.label        "Bijare">
 <!ENTITY  locbar.nothing.label          "Ne Tu Tişt">
 
 <!ENTITY  acceptCookies.label           "Çerezên Malperan Bipejirîne">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-
-
-
-
+<!ENTITY  acceptThirdParty.pre.label      "Çerezên partiya sêyemîn qebûl bike:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "e">
+<!ENTITY  acceptThirdParty.always.label   "Her tim">
+<!ENTITY  acceptThirdParty.never.label    "Qet">
+<!ENTITY  acceptThirdParty.visited.label  "Ji yên serdankirî">
 
 <!ENTITY  keepUntil.label               "Dema dawî a veşartinê">
 <!ENTITY  keepUntil.accesskey           "v">
@@ -49,7 +51,7 @@
 <!ENTITY  historyHeader.remember.label     "Mêjûyê bi bîr bîne">
 <!ENTITY  historyHeader.dontremember.label "Mêjûyê qet bi bîr neyne">
 <!ENTITY  historyHeader.custom.label       "Ji bo mêjûyê mîhengên takekesî bi kar bîne">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "Ji bo raboriyê eyarên takekesî bi kar bîne">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; dê mêjûya ger, daxistin, form û lêgerînê bi bîr bîne û çerezên malperên te vekirine hilîne.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
@@ -70,9 +72,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "mêjûya niha gişî paqij bikî">
 <!ENTITY  dontrememberActions.post.label         "de heye.">
 
+<!ENTITY  privateBrowsingPermanent2.label "Her tim moda gera nepen bi kar bîne">
+<!ENTITY  privateBrowsingPermanent2.accesskey "n">
 
-
-
+<!ENTITY  rememberHistory2.label      "Raboriya ger û jêbarkirinên min bi bîr bîne">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Mêjûya lêgerîn û forman bi bîr bîne">
 <!ENTITY  rememberSearchForm.accesskey   "f">

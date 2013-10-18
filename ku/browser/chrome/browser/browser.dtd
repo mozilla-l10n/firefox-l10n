@@ -147,7 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "Rûpela derbasdar nû bike">
 <!ENTITY stopCmd.label                "Bide sekinandin">
 <!ENTITY stopCmd.accesskey            "s">
-<!ENTITY stopCmd.macCommandKey        "de heye.">
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Barkirina rûpelê bide sekinandin">
 <!ENTITY goEndCap.tooltip             "Here navnîşana di Darikê Cihî de">
 <!ENTITY printButton.label            "Çap bike">
@@ -197,9 +197,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
 
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 
@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 
 
@@ -347,8 +347,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "H">
 <!ENTITY openLinkCmd.label            "Girêdanê Di Paceyeke Nû De Veke">
 <!ENTITY openLinkCmd.accesskey        "P">
-
-
+<!ENTITY openLinkInPrivateWindowCmd.label "Girêdanê Di Pencereyeke Nû De Veke">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Lînkê veke">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">
 <!ENTITY openFrameCmdInTab.label      "Çarçoveyê Di Hilpekîneke Nû De Veke">

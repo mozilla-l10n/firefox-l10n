@@ -44,5 +44,5 @@
 <!ENTITY string.accesskey "R">
 <!ENTITY integer.label "Hejmara Tam">
 <!ENTITY integer.accesskey "H">
-<!ENTITY boolean.label "Boolean">
-<!ENTITY boolean.accesskey "B">
+
+

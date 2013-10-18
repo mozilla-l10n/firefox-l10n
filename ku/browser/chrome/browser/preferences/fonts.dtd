@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Ji bilî yên ku min hilbijartine, destûrê bide malperan da ku cureyên nivîsên xwe bikar bînin.">
 <!ENTITY  allowPagesToUse.accesskey               "s">
 
-
-
-
+<!ENTITY languages.customize.Fallback.grouplabel  "Ji bo naverokên mîrate kodkirina karakteran">
+<!ENTITY languages.customize.Fallback.label       "Kodkirina karakteran ya alternatîf:">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "Ev kodkirina karakteran, ji bo naverokên mîrate yên ku nikarin kodkirina xwe pênase bikin, tê bikaranîn.">

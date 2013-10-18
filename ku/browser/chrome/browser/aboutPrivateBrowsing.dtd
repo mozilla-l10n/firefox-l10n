@@ -8,7 +8,8 @@
 
 
 
-
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Pencereyeke Taybet ya nû veke">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "T">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 

@@ -8,6 +8,9 @@
    - menus/menuitems. -->
 
 
+<!ENTITY fileMenu.label                     "Pel">
+<!ENTITY fileMenu.accesskey                 "P">
+
 <!ENTITY quitApplicationCmdWin.label        "Derkeve">
 <!ENTITY quitApplicationCmdWin.accesskey    "k">
 

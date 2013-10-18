@@ -14,7 +14,7 @@
 
 <!-- Flyout when setting up manually -->
 
-
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Şîfre">
 
 
 <!-- Flyout when user has just connected -->
@@ -28,7 +28,7 @@
 
 
 
-
+<!ENTITY sync.flyout.connected.pair                       "Cîhazekê hevcot bike">
 <!-- Flyout when pairing a device -->
 
 

@@ -58,3 +58,5 @@ that require it.  -->
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
 
+<!ENTITY dialog.width2                 "36em">
+<!ENTITY column.width2                 "17em">

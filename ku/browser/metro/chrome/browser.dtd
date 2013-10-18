@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+<!ENTITY back.label            "Paş">
 
 
-
+<!ENTITY closetab.label        "Hilpekînê bigire">
 
 
 
@@ -27,10 +28,10 @@
 
 
 
-
+<!ENTITY downloadShow2.label       "Bibîne">
 <!ENTITY downloadOpen2.label       "Veke">
 <!ENTITY downloadCancel.label      "Betal">
-
+<!ENTITY downloadPause.label       "Rawestîne">
 <!ENTITY downloadResume.label      "Dubare bike">
 
 <!ENTITY downloadRemove.label      "Rake">
@@ -38,6 +39,7 @@
 <!ENTITY downloadFailed.label      "Têk çû">
 
 
+<!ENTITY consoleHeader.label       "Konsola Çewtiyê">
 
 
 

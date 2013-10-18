@@ -2,16 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.device2 "Cîhaz">
+<!ENTITY index.help "Alîkarî">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY device.screenshot "Wêneyê ekranê">
+<!ENTITY device.screenshotTooltip "Wêneyê ekranê yê rewşa niha ya cîhazê di hilpekîneke nû de vedike.">
+<!ENTITY device.title "Navenda Kontrola Cîhazê">
+<!ENTITY device.notConnected "Negirêdayî ye. Tika ye cîhaza xwe ya li jêrê girêbide.">
+<!ENTITY device.startApp "Dest pê bike">
+<!ENTITY device.startAppTooltip "Vê sepanê li ser cîhazê dide destpêkirin.">
+<!ENTITY device.stopApp "Bide sekinandin">
+<!ENTITY device.stopAppTooltip "Vê sepanê li ser cîhazê dide sekinandin.">
 
 
 <!ENTITY device.name "Nav">
@@ -24,7 +25,7 @@
 
 
 
-
+<!ENTITY device.installedApps "Sepanên barkirî">
 
 <!ENTITY device.permissions "Destûr">
 
