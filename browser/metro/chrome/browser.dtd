@@ -3,19 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+
+<!ENTITY urlbar.emptytext      "Іздеуді немесе адресті еңгізіңіз">
+
 <!ENTITY back.label            "Артқа">
 <!ENTITY forward.label         "Алға">
 <!ENTITY newtab.label          "Жаңа бет">
 <!ENTITY closetab.label        "Бетті жабу">
 
+<!ENTITY autocompleteResultsHeader.label  "Сіздің нәтиже">
 
 <!ENTITY appbarErrorConsole.label   "Қате консолін ашу">
-
+<!ENTITY appbarJSShell.label        "JavaScript қоршамын ашу">
 <!ENTITY appbarFindInPage2.label    "Беттен табу">
 <!ENTITY appbarViewOnDesktop2.label "Жұмыс үстелде көрсету">
 
+<!ENTITY topSitesHeader.label        "Топ сайттары">
 <!ENTITY bookmarksHeader.label       "Бетбелгілер">
-
+<!ENTITY recentHistoryHeader.label   "Жуырдағы тарихы">
 <!ENTITY remoteTabsHeader.label      "Басқа құрылғылардан браузер беттері">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -24,6 +29,8 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
+
+<!ENTITY narrowTopSitesHeader.label      "Топ сайттары">
 <!ENTITY narrowBookmarksHeader.label     "Бетбелгілер">
 <!ENTITY narrowRecentHistoryHeader.label "Жуырдағы тарихы">
 <!ENTITY narrowRemoteTabsHeader.label    "Қашық беттер">
@@ -49,7 +56,7 @@
 <!ENTITY consoleMessages.label     "Хабарламалар">
 <!ENTITY consoleCodeEval.label     "Код:">
 <!ENTITY consoleClear.label        "Тазарту">
-
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Көзі:">
 <!ENTITY consoleErrLine.label      "Жол:">
 <!ENTITY consoleErrColumn.label    "Баған:">
@@ -59,6 +66,7 @@
 <!ENTITY contextTextCopy.label             "Көшіру">
 <!ENTITY contextTextPaste.label            "Кірістіру">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Кірістіру және өту">
 <!ENTITY contextTextSelect.label           "Таңдау">
 <!ENTITY contextTextSelectAll.label        "Барлығын ерекшелеу">
 <!-- LINK CONTEXT MENU -->
@@ -75,6 +83,8 @@
 <!ENTITY contextCopyImageLocation.label    "Сурет сілтемесін көшіру">
 <!ENTITY contextOpenImageTab.label         "Суретті жаңа бетте ашу">
 <!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Видео жинағына сақтау">
 <!ENTITY contextCopyVideoLocation.label    "Видеоның сілтемесін көшіру">
 <!ENTITY contextOpenVideoTab.label         "Видеоны жаңа бетте ашу">
 <!-- KEYBOARD SHORTCUTS -->
