@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Propriedades">
 
 <!ENTITY generalInfo.label "Informação Geral">
-<!ENTITY folderCharsetTab.label "Codificação Pré-Definida:">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+!ENTITY folderCharsetFallback.label "Codificação de recurso:">
+<!ENTITY folderCharsetFallback.accesskey "e">
+<!ENTITY folderCharsetEnforce.label "Aplicar codificação a todas as mensagens desta pasta (as definições individualizadas da codificação de caracteres das mensagens e a deteção automática serão ignoradas)">
+<!ENTITY folderCharsetEnforce.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "Reconstruir Sumário do Ficheiro">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -16,7 +16,7 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens da pasta nos resultados de pesquisa globais">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
-<!ENTITY retention.label "Política de Retenção">
+<!ENTITY retention.label "Política de retenção">
 <!ENTITY retentionUseAccount.label "Usar definições da minha conta">
 <!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de idade">
@@ -26,27 +26,27 @@
 <!ENTITY retentionCleanupPop.label "Guardar mensagens, incluindo os originais no servidor:">
 <!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
-<!ENTITY retentionKeepAll.accesskey "G">
-<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepAll.label "Não eliminar mensagens">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas(sobrepõe-se às definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas(sobrepor as definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label "Sincronização">
-<!ENTITY folderCheckForNewMessages2.label "Ao obter novas mensagens, verificar sempre esta pasta">
+<!ENTITY folderCheckForNewMessages2.label "Ao receber novas mensagens, verificar sempre esta pasta">
 <!ENTITY folderCheckForNewMessages2.accesskey "A">
 
-<!ENTITY offlineFolder.check.label "Seleccionar esta pasta para uso em modo desligado">
+<!ENTITY offlineFolder.check.label "Selecionar esta pasta para uso em modo desligado">
 <!ENTITY offlineFolder.check.accesskey "S">
-<!ENTITY offlineFolder.button.label "Transferir Agora">
+<!ENTITY offlineFolder.button.label "Transferir agora">
 <!ENTITY offlineFolder.button.accesskey "T">
 
-<!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de discussão para uso em modo desligado">
+<!ENTITY selectofflineNewsgroup.check.label "Selecionar este grupo de discussão para uso em modo desligado">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY offlineNewsgroup.button.label "Transferir Agora">
+<!ENTITY offlineNewsgroup.button.label "Transferir agora">
 <!ENTITY offlineNewsgroup.button.accesskey "T">
 
 <!ENTITY folderProps.name.label "Nome:">
@@ -54,11 +54,11 @@
 <!ENTITY folderProps.location.label "Localização:">
 <!ENTITY folderProps.location.accesskey "L">
 
-<!ENTITY folderSharingTab.label "Partilhar">
+<!ENTITY folderSharingTab.label "Partilha">
 <!ENTITY privileges.button.label "Privilégios...">
 <!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "Tem as Seguintes permissões:">
-<!ENTITY folderType.label "Tipo de Pasta:">
+<!ENTITY permissionsDesc.label "Tem estas permissões:">
+<!ENTITY folderType.label "Tipo de pasta:">
 
 <!ENTITY folderQuotaTab.label "Quota">
 <!ENTITY folderQuotaRoot.label "Quota Base:">

@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepRecent.accesskey	"l">
 
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas(sobrepor as definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas (sobrepor as definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderSynchronizationTab.label "Sincronização">
