@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Tschertgar">
+<!ENTITY newpref.label          "Agiuntar ina nova preferenza">
+<!ENTITY addpref.name           "Num">
+<!ENTITY addpref.value          "Valur">
+
+<!ENTITY cancel.label           "Interrumper">
+<!ENTITY reset.label            "Redefinri">
+<!ENTITY done.label             "Finì">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
