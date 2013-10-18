@@ -16,7 +16,6 @@
 <!ENTITY addtoToFieldMenu.accesskey         "G">
 <!ENTITY addtoCcFieldMenu.label             "Cuir ris an raon &quot;Cc&quot;">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Cuir ris an raon &quot;Bcc&quot;">
 <!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 

@@ -9,7 +9,7 @@
 <!ENTITY tableTab.label                   "Clàr">
 <!ENTITY cellTab.label                    "Ceallan">
 <!ENTITY tableRows.label                  "Sreathan:">
-<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableRows.accessKey              "r">
 <!ENTITY tableColumns.label               "Colbhan:">
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Àirde:">
@@ -26,9 +26,9 @@
 <!ENTITY tablePxBetwCells.label           "pixel eadar na ceallan">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixel eadar iomall na cealla 's an t-susbaint">
 <!ENTITY tableAlignment.label             "Co-thaobhachadh a' chlàir:">
-<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableAlignment.accessKey         "t">
 <!ENTITY tableCaption.label               "Ceann-sgrìobhadh:">
-<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaption.accessKey           "n">
 <!ENTITY tableCaptionAbove.label          "Os cionn a' chlàir">
 <!ENTITY tableCaptionBelow.label          "Fon chlàr">
 <!ENTITY tableCaptionLeft.label           "Air taobh clì a' chlàir">
@@ -51,11 +51,11 @@
 <!ENTITY cellVertical.label               "Inghearach:">
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "Stoidhle na cealla:">
-<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellStyle.accessKey              "c">
 <!ENTITY cellNormal.label                 "Àbhaisteach">
 <!ENTITY cellHeader.label                 "Bann-cinn">
 <!ENTITY cellTextWrap.label               "Pasgadh an teacsa:">
-<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellTextWrap.accessKey           "t">
 <!ENTITY cellWrap.label                   "Paisg">
 <!ENTITY cellNoWrap.label                 "Na paisg">
 <!ENTITY cellAlignTop.label               "Barr">
@@ -64,12 +64,12 @@
 <!ENTITY cellAlignJustify.label           "Blocaich">
 <!ENTITY cellInheritColor.label           "(Leig le dath a' chlàir a thighinn troimhe)">
 <!ENTITY cellUseCheckboxHelp.label        "Tagh na roghainnean a thèid a chur an sàs airson nan ceallan a thagh thu le cromagan sna bogsaichean">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Meud">
 <!ENTITY pixels.label                     "pixel">
 <!ENTITY backgroundColor.label            "Dath a' chùlaibh:">
-<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY backgroundColor.accessKey        "b">
 <!ENTITY AlignLeft.label                  "Clì">
 <!ENTITY AlignCenter.label                "Cuir sa mheadhan">
 <!ENTITY AlignRight.label                 "Deis">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Dathan is cùlaibh na duilleige">
 <!ENTITY pageColors.label "Dathan na duilleige">
 <!ENTITY defaultColorsRadio.label "Dathan bunaiteach an leughadair (Na suidhich dathan san duilleag)">
@@ -15,13 +15,13 @@
 <!ENTITY normalText.label "Teacsa àbhaisteach">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Teacsa a' cheangail">
-<!ENTITY linkText.accessKey "L">
+<!ENTITY linkText.accessKey "l">
 <!ENTITY activeLinkText.label "Teacsa ceangail ghnìomaich">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Teacsa ceangail a chaidh a chleachdadh">
 <!ENTITY visitedLinkText.accessKey "V">
 <!ENTITY background.label "Cùlaibh:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "b">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Dealbh a' chùlaibh:">
 <!ENTITY backgroundImage.accessKey "m">

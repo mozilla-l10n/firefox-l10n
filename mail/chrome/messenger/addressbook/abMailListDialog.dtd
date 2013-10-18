@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Liosta puist">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Cuir ri: ">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Cuir a-steach seòlaidhean puist-dhealain gus an cur ris an liosta phuist:">
 <!ENTITY UpButton.label                 "Gluais suas">
 <!ENTITY DownButton.label               "Gluais sìos">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "C">
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "n">

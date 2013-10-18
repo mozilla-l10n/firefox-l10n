@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!ENTITY window.title "Riaghailtean a' chriathraidh">
 <!ENTITY filterEditorDialog.dimensions "width: 150ch;">
 <!ENTITY filterName.label "Ainm na criathraige:">
@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "A thathar a' faighinn post ùr:">
 <!ENTITY contextIncomingMail.accesskey "t">
 <!ENTITY contextManual.label "A thathar 'ga ruith a làimh">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Criathraich mus comharraichear truilleis">
 <!ENTITY contextAfterCls.label "Criathraich an dèidh comharrachadh na truilleis">
 
@@ -29,8 +29,8 @@
 
 <!ENTITY filterActionOrderWarning.label "An aire: Thèid gnìomhan criathradh a chur an gnìomh ann an òrdugh eadar-dhealaichte.">
 <!ENTITY filterActionOrder.label "Faic òrdugh a' ghnìomhachaidh">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Gluais an teachdaireachd gu">
 <!ENTITY copyMessage.label "Cuir lethbhreac dhen teachdaireachd gu">
 <!ENTITY forwardTo.label "Sìn an teachdaireachd air adhart gu">
@@ -51,11 +51,11 @@
 
 <!ENTITY addAction.tooltip "Cuir gnìomh ùr ris">
 <!ENTITY removeAction.tooltip "Thoir air falbh an gnìomh seo">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "3">
 <!ENTITY filterActionTargetFlexValue "6">

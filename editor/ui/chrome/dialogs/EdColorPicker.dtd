@@ -15,7 +15,7 @@
 <!ENTITY standardPalette.label "Bunaiteach">
 <!ENTITY webPalette.label "A h-uile dath-lìn">
 <!ENTITY background.label "Cùlaibh airson:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "b">
 <!ENTITY table.label "Clàr">
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Cealla(n)">

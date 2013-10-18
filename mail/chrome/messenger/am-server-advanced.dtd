@@ -4,8 +4,8 @@
 
 <!ENTITY serverAdvanced.label "Roghainnean adhartach a' chunntais">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "Eòlaire an fhrithealaiche IMAP:">
-<!ENTITY serverDirectory.accesskey "E">
+<!ENTITY serverDirectory.label "Pasgan an fhrithealaiche IMAP:">
+<!ENTITY serverDirectory.accesskey "P">
 <!ENTITY usingSubscription.label "Na seall ach pasgain le fo-sgrìobhadh">
 <!ENTITY usingSubscription.accesskey "N">
 <!ENTITY dualUseFolders.label "Tha am frithealaiche a' cur taic ri pasgain anns a bheil fo-phasgain is teachdaireachdan">

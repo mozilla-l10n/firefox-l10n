@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Leabhar nan seòladh">
-
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Faidhle">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ùr">
 <!ENTITY newMenu.accesskey                              "Ù">
 <!ENTITY newContact.label                               "Neach-aithne ann an leabhar nan seòladh…">
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.accesskey                           "c">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Liosta puist…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Leabhar nan seòladh…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
-<!ENTITY newLDAPDirectoryCmd.label                      "Eòlaire LDAP…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Pasgan LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Teachdaireachd">
 <!ENTITY newMessageCmd.key                              "M">
@@ -38,8 +38,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Clò-bhuail leabhar nan seòladh…">
 <!ENTITY printAddressBook.accesskey                     "a">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label                                 "Deasaich">
 <!ENTITY editMenu.accesskey                             "e">
 <!ENTITY undoCmd.label                                  "Neo-dhèan">
@@ -73,12 +73,12 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "D">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "fìor">
+<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "Roghainnean…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label                                 "Sealladh">
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Na bàraichean-inneil">
@@ -93,7 +93,7 @@
 <!ENTITY customizeToolbar.accesskey                     "c">
 <!ENTITY layoutMenu.label                               "Co-dhealbhachd">
 <!ENTITY layoutMenu.accesskey                           "d">
-<!ENTITY showDirectoryPane.label                        "Leòsan an eòlaire">
+<!ENTITY showDirectoryPane.label                        "Leòsan nam pasgan">
 <!ENTITY showDirectoryPane.accesskey                    "L">
 <!ENTITY showContactPane2.label                         "Leòsan an neach-aithne">
 <!ENTITY showContactPane2.accesskey                     "e">
@@ -101,16 +101,16 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                             "Ainm Sloinneadh">
-<!ENTITY firstLastCmd2.accesskey                         "A"> 
+<!ENTITY firstLastCmd2.label                            "Ainm Sloinneadh">
+<!ENTITY firstLastCmd2.accesskey                        "A"> 
 <!ENTITY lastFirstCmd.label                             "Sloinneadh, Ainm">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Ainm-taisbeanaidh">
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "Seòrsaich a-rèir">
 <!ENTITY sortMenu.accesskey                             "S">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label                                "Innealan">
 <!ENTITY tasksMenu.accesskey                            "I">
 <!ENTITY messengerCmd.label                             "Post ┐ buidhnean-naidheachd">
@@ -126,8 +126,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd.accesskey                       "o">
 <!ENTITY preferencesCmdUnix.label                       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-
 <!-- Address Book Toolbar and Context Menus -->  
+
 <!ENTITY newContactButton.label                         "Neach-aithne ùr">
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Liosta ùr">
@@ -140,26 +140,26 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Sguab às">
 <!ENTITY deleteButton2.accesskey                        "S">
-
 <!-- Address Book Toolbar Tooltips -->
+
 <!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
 <!ENTITY newlistButton.tooltip                          "Cruthaich liosta ùr">
 <!ENTITY editButton2.tooltip                            "Deasaich an rud a thagh thu">
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
 <!ENTITY deleteButton2.tooltip                           "Sguab às an rud a thagh thu">
-
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Leabhraichean nan seòladh">
 
+<!ENTITY dirTreeHeader.label                            "Leabhraichean nan seòladh">
 <!-- Search Bar -->
+
 <!ENTITY SearchNameOrEmail.label                        "Ainm no post-dealain">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Lorg adhartach nan seòlaidhean">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Lorg luath">
-
 <!-- Results Pane -->
+
 <!ENTITY GeneratedName.label                            "Ainm">
 <!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "Post-dealain">
@@ -192,9 +192,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "d">
 <!ENTITY _PhoneticName.label                            "Ainm fòn-eòlach">
 <!ENTITY _PhoneticName.accesskey                        "A">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
 <!ENTITY contact.heading                                "Neach-aithne">
 <!ENTITY home.heading                                   "Dachaigh">
 <!ENTITY other.heading                                  "Eile">
@@ -207,11 +207,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Faigh mapa">
 <!ENTITY mapIt.tooltip                                  "Seall mapa dhen t-seòladh seo on lìon">
-
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
 
+<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY windowMenu.label "Uinneag">
 <!ENTITY minimizeWindow.label "Lughdaich">
 <!ENTITY minimizeWindow.key "m">

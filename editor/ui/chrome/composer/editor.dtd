@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Deasaichear"> 
+
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Bàr-inneil sgrìobhaidh">
 <!ENTITY previewToolbarCmd.label "Brabhsaich">
 <!ENTITY previewToolbarCmd.tooltip "Luchdaich an duilleag seo sa bhrabhsair">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Às-phortaich gu teacs…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY previewCmd.label "Rannsaich an duilleag">
 <!ENTITY previewCmd.accesskey "R">
 <!ENTITY sendPageCmd.label "Cuir a-null an duilleag…">
 <!ENTITY sendPageCmd.accesskey "d">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Bàr-inneil sgrìobhaidh">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Am bàr-inneil fòrmataidh">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Bàr-inneil a' mhodh-deasachaidh">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Fòrmat">
 <!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Cliath suidheachaidh">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "Ainm is roghainnean na duilleige…">
 <!ENTITY pageProperties.accesskey "g">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "Dearbhaich HTML">
 <!ENTITY validateCmd.accesskey "D">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Àbhaisteach">
 <!ENTITY NormalMode.label "Am modh deasachaidh àbhaisteach">
 <!ENTITY NormalMode.accesskey "A">

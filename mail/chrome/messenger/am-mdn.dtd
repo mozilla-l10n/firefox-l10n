@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Fàg e sa bhogsa a-steach agam">
 <!ENTITY leaveIt.accesskey            "F">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Gluais e do phasgan a' phuist &quot;chuirte&quot; agam">
+<!ENTITY moveToSent.label             "Gluais e do phasgan a&apos; phuist &quot;chuirte&quot; agam">
 <!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Nuair a thig iarrtas airson bann-cuidhteis a-steach:">
 <!ENTITY returnSome.label             "Ceadaich bannan-cuidhteis airson cuid de theachdaireachdan">
