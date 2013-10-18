@@ -1,10 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutHeader.product.label  "&brandShortName;">
 
+
+<!ENTITY aboutHeader.title          "A prepaus">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Per &vendorShortName;">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Recèrca de mesas a jorn...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Verificacion de compatibilitat dels moduls...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->

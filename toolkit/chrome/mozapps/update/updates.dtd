@@ -26,7 +26,7 @@ mas dispausatz pas d'un espaci de disc sufisent per l'installar.">
 <!ENTITY  manualUpdateGetMsg.label        "Podètz totjorn obténer la darrièra version de &brandShortName; sus :">
 
 
-
+<!ENTITY  unsupportedLink.label           "ne saber mai.">
 
 <!ENTITY  incompatibleCheck.title         "Verificacion de compatibilitat dels moduls complementaris">
 <!ENTITY  incompatibleCheck.label         "Recèrca de versions novèlas de vòstres moduls complementaris…">

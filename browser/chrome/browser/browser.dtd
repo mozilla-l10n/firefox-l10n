@@ -49,6 +49,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Anullar la tampadura dels onglets">
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -160,7 +161,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Emplaçament">
 <!ENTITY searchItem.title             "Recercar">
 <!ENTITY bookmarksItem.title          "Marcapaginas">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Acuèlh">
 
 <!ENTITY tabGroupsButton.label        "Gropes d'onglets">
 <!ENTITY tabGroupsButton.tooltip      "Organizar los onglets per gropes">
@@ -201,6 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desvolopaire Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Se connectar…">
@@ -211,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Consòla web distanta">
 
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 
 
 <!ENTITY inspectContextMenu.label     "Examinar l'element">
@@ -219,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Vista adaptativa">
 <!ENTITY responsiveDesignTool.accesskey "V">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -249,8 +253,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
 <!ENTITY devToolboxMenuItem.accesskey      "s">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Dobrir/tampar las aisinas pels desvolopaires">
 <!ENTITY devToolbarOtherToolsButton.label  "Autras aisinas">
@@ -268,9 +272,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Edicion"> 
 <!ENTITY editMenu.accesskey       "E"> 
-
+<!ENTITY undoCmd.label            "Anullar">  
 <!ENTITY undoCmd.key            "Z">  
-
+<!ENTITY undoCmd.accesskey          "u"> 
 <!ENTITY redoCmd.label            "Tornar far">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
@@ -465,10 +469,10 @@ items are mutually exclusive. -->
 
 
 
-
-
-
-
+<!ENTITY mediaPlaybackRate100x.label "Velocitat Normala">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Velocitat Nauta (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "N">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
@@ -476,7 +480,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Visualizar los contraròtles">
+<!ENTITY mediaShowControls.label     "Afichar los contraròtles">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Amagar los contraròtles">
 <!ENTITY mediaHideControls.accesskey "c">
@@ -627,8 +631,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
+<!ENTITY social.learnMore.label "Ne saber mai…">
+<!ENTITY social.learnMore.accesskey "s">
 <!ENTITY social.closeNotificationItem.label "Pas ara">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -651,7 +655,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">
 
 
-
+<!ENTITY pluginNotification.showAll.label "Afichar tot">
+<!ENTITY pluginNotification.showAll.accesskey "f">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
@@ -665,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY tabCrashed.tryAgain "Ensajatz tornarmai">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

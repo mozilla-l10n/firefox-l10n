@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY index.projects2 "Apps">
 <!ENTITY index.device2 "Periferic">
-
+<!ENTITY index.help "Ajuda">
 
 <!ENTITY device.screenshot "Ecran">
 
@@ -25,13 +25,14 @@
 
 <!ENTITY device.deny "Interdire">
 
-
+<!ENTITY device.installedApps "Aplicacions installadas">
 
 <!ENTITY device.permissions "Permissions">
 
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Ajuda">
 
-
-
+<!ENTITY connection.connectTooltip "Se connectar a l'aparelh.">
 <!ENTITY connection.disconnect "Desconnectar">
 
 <!ENTITY connection.notConnected2 "Pas connectat.">
@@ -44,10 +45,18 @@
 <!ENTITY connection.saveConnectionInfo "Enregistrar">
 
 <!ENTITY connection.connecting "Connexion…">
-
+<!ENTITY connection.disconnecting "Desconnexion...">
 <!ENTITY connection.cancel "Anullar">
 
 
+<!ENTITY connection.or "o">
+
+
+
+<!ENTITY connection.installAnotherSimulator "Apondre">
+
+
+<!ENTITY projects.addApp "Apondre">
 
 
 
@@ -55,24 +64,16 @@
 
 
 
+<!ENTITY projects.updateApp "Metre a jorn">
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 <!ENTITY help.close "Tampar">
 
-
+<!ENTITY help.usefullLinks "Ligams utiles :">
 
 
 
