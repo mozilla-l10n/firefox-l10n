@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Pamer sampel tab dalam taskbar Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Tab-tab">

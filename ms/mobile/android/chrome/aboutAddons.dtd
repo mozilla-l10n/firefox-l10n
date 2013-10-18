@@ -4,8 +4,8 @@
 
 <!ENTITY aboutAddons.options                    "Opsyen">
 
+
 <!ENTITY addonAction.enable                     "Bolehkan">
 <!ENTITY addonAction.disable                    "Lumpuhkan">
 <!ENTITY addonAction.uninstall                  "Nyahpasang">
 <!ENTITY addonAction.undo                       "Kembali Asal">
-

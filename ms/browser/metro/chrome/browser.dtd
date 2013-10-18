@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "Buka">
+<!ENTITY downloadCancel.label      "Batal">
+
+<!ENTITY downloadResume.label      "Sambung">
+<!ENTITY downloadRetry.label       "Cuba semula">
+<!ENTITY downloadRemove.label      "Singkir">
+
+<!ENTITY downloadFailed.label      "Gagal">
+
+
+<!ENTITY consoleAll.label          "Semua">
+<!ENTITY consoleErrors.label       "Ralat">
+<!ENTITY consoleWarnings.label     "Amaran">
+
+
+
+
+<!ENTITY consoleErrFile.label      "Fail Sumber:">
+<!ENTITY consoleErrLine.label      "Baris:">
+<!ENTITY consoleErrColumn.label    "Kolum">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Potong">
+<!ENTITY contextTextCopy.label             "Salin">
+<!ENTITY contextTextPaste.label            "Tampal">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "Pilih">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

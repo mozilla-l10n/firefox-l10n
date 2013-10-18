@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Pengurus App">
+<!ENTITY index.projects2 "Apps">
+<!ENTITY index.device2 "Peranti">
+<!ENTITY index.help "Bantuan">
+
+
+<!ENTITY device.title "Pusat Kawalan Peranti">
+<!ENTITY device.notConnected "Tidak bersambung. Sila sambungkan peranti anda di bawah.">
+<!ENTITY device.startApp "Mula">
+<!ENTITY device.startAppTooltip "Mulakan app ini pada peranti.">
+<!ENTITY device.stopApp "Berhenti">
+<!ENTITY device.stopAppTooltip "Hentikan app ini pada peranti.">
+
+<!ENTITY device.debugAppTooltip "Buka Alatan Pembangun yang bersambung ke app ini pada peranti.">
+<!ENTITY device.name "Nama">
+<!ENTITY device.app "App">
+
+
+<!ENTITY device.allow "Benarkan">
+
+<!ENTITY device.prompt "Promp">
+
+<!ENTITY device.deny "Nafikan">
+
+
+
+<!ENTITY device.permissions "Kebenaran">
+
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Bantuan">
+
+<!ENTITY connection.connectTooltip "Sambungkan peranti.">
+
+
+<!ENTITY connection.notConnected2 "Tidak Besambung.">
+<!ENTITY connection.connectTo "Sambung ke:">
+
+<!ENTITY connection.changeHostAndPort "Ubah">
+
+
+
+<!ENTITY connection.saveConnectionInfo "Simpan">
+
+<!ENTITY connection.connecting "Menyambung…">
+
+<!ENTITY connection.cancel "Batal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.title "Apps Tempatan">
+<!ENTITY projects.appDetails "Perincian App">
+
+
+
+
+
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
+
+<!ENTITY help.title "Pengurus App">
+<!ENTITY help.close "Tutup">
+
+
+
+
+
+
+

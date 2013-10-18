@@ -8,11 +8,12 @@
 
 
 
+
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.link              "&brandShortName; Sokongan">
-<!ENTITY support.post              ".">
+
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -20,7 +21,7 @@
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
 <!ENTITY happy.ratingLink          "Ya, pergi ke Google Play">
-<!ENTITY happy.maybeLater          "Mungkin Kemudian">
+
 
 
 <!ENTITY sad.message               "Kami meminta maaf atas masalah yang dihadapi anda dengan &brandShortName;. Sila beritahu kami apa yang terjadi supaya kami boleh membaikinya.">
