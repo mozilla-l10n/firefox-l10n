@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Izongezelelo">
 <!ENTITY aboutAddons.header2                    "Izongezelelo zakho">
 <!ENTITY aboutAddons.options                    "Ekunokukhethwa kuko">
+<!ENTITY aboutAddons.browseAll                  "Bhrawuza zonke Izongezelelo Zefirefox">
 
 <!ENTITY addonAction.enable                     "Vumela">
 <!ENTITY addonAction.disable                    "Valela">
 <!ENTITY addonAction.uninstall                  "Khupha okufakiweyo">
 <!ENTITY addonAction.undo                       "Qhaqha okwenzileyo">
-<!ENTITY addonAction.setDefault                 "Seta njengeKuphela Kwemayisetyenziswe">
