@@ -5,7 +5,7 @@
 <!ENTITY folderProps.windowtitle.label "Propriedades">
 
 <!ENTITY generalInfo.label "Informação Geral">
-!ENTITY folderCharsetFallback.label "Codificação de recurso:">
+<!ENTITY folderCharsetFallback.label "Codificação de recurso:">
 <!ENTITY folderCharsetFallback.accesskey "e">
 <!ENTITY folderCharsetEnforce.label "Aplicar codificação a todas as mensagens desta pasta (as definições individualizadas da codificação de caracteres das mensagens e a deteção automática serão ignoradas)">
 <!ENTITY folderCharsetEnforce.accesskey "A">
