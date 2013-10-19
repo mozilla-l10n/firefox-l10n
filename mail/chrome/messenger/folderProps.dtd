@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Egenskaper">
 
 <!ENTITY generalInfo.label                       "Allmänt">
-<!ENTITY folderCharsetTab.label                  "Standardkodning:">
-<!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Använd standardkodningen för alla meddelanden i mappen (all automatisk igenkänning, och inställningar gjorda i meddelandena sätts ur spel).">
-<!ENTITY folderCharsetOverride.accesskey         "ö">
+<!ENTITY folderCharsetFallback.label             "Standardkodning:">
+<!ENTITY folderCharsetFallback.accesskey         "S">
+<!ENTITY folderCharsetEnforce.label              "Använd standardkodningen för alla meddelanden i mappen (inställningar av standardkodning för enskilda meddelanden och automatisk detektering ignoreras)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Återskapa index för sammanfattningsfil">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparera mapp">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
