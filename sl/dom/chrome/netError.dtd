@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
-<!ENTITY retry.label "Poskusite ponovno">
+<!ENTITY retry.label "Poskusite znova">
 
 <!-- Specific error messages -->
 
