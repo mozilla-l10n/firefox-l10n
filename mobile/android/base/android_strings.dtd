@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "&brandShortName; konfiguratzen">
-<!ENTITY  splash_bookmarks_history "Zure laster-markak eta historia eguneratzen ari gara eta minutu inguru har dezake.">
-
 <!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
 <!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  awesomebar_all_pages_title "Gune erabilienak">
-<!ENTITY  awesomebar_bookmarks_title "Laster-markak">
-<!ENTITY  awesomebar_history_title "Historia">
-<!ENTITY  awesomebar_switch_to_tab "Aldatu fitxara">
+<!ENTITY  bookmarks_title "Laster-markak">
+<!ENTITY  history_title "Historia">
+<!ENTITY  reading_list_title "Irakurketa-zerrenda">
+
+<!ENTITY  switch_to_tab "Aldatu fitxara">
 
 <!ENTITY  crash_reporter_title "&brandShortName; hutsegite-berriemailea">
 <!ENTITY  crash_message2 "&brandShortName;(e)k arazo bat izan du eta huts egin du. Berrabiaraztean, &brandShortName;(r)en hasiera-orrian zerrendatuko dira zure fitxak.">
-<!ENTITY  crash_send_report_message2 "Eman Mozillari hutsegite honen berri konpontzen saia daitezen">
+<!ENTITY  crash_send_report_message3 "Eman &vendorShortName;(r)i hutsegite honen berri konpontzen saia daitezen">
 <!ENTITY  crash_include_url2 "Sartu bisitatzen ari nintzen orriaren helbidea">
 <!ENTITY  crash_sorry "Sentitzen dugu">
 <!ENTITY  crash_comment "Gehitu iruzkina (iruzkinak publikoki ikus daitezke)">
-<!ENTITY  crash_allow_contact "Baimendu Mozillari txosten honen inguruan nirekin harremanetan jartzea">
+<!ENTITY  crash_allow_contact2 "Baimendu &vendorShortName; nirekin harremanetan jartzea txosten honi buruz">
 <!ENTITY  crash_email "Zure helbide elektronikoa">
 <!ENTITY  crash_closing_alert "Irten hutsegite-txostenik bidali gabe?">
 <!ENTITY  sending_crash_report "Hutsegite-txostena bidaltzen\u2026">
@@ -33,15 +33,13 @@
 
 <!ENTITY choose_file "Aukeratu fitxategia">
 
-<!ENTITY awesomebar_default_text "Idatzi bilaketa edo helbidea">
-
-<!ENTITY remote_tabs "Sinkronizatutako fitxak">
-<!ENTITY remote_tabs_show_all "Erakutsi fitxa guztiak">
+<!ENTITY url_bar_default_text "Idatzi bilaketa edo helbidea">
 
 <!ENTITY bookmark "Laster-marka">
 <!ENTITY bookmark_added "Laster-marka gehituta">
 <!ENTITY bookmark_removed "Laster-marka kenduta">
 <!ENTITY bookmark_updated "Laster-marka eguneratuta">
+<!ENTITY bookmark_options "Aukerak">
 
 <!ENTITY history_today_section "Gaur">
 <!ENTITY history_yesterday_section "Atzo">
@@ -66,20 +64,31 @@
 
 <!ENTITY settings "Ezarpenak">
 <!ENTITY settings_title "Ezarpenak">
-<!ENTITY pref_category_general "Orokorra">
-<!ENTITY pref_category_privacy "Pribatutasuna eta segurtasuna">
-<!ENTITY pref_category_content "Edukia">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Aurreratua">
+<!ENTITY pref_category_customize "Pertsonalizatu">
+<!ENTITY pref_category_search2 "Bilaketa-ezarpenak">
+<!ENTITY pref_category_display "Bistaratzea">
+<!ENTITY pref_category_privacy_short "Pribatutasuna">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datu-aukerak">
-<!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
+<!ENTITY pref_category_installed_search_engines "Instalatutako bilaketa-motorrak">
+<!ENTITY pref_category_add_search_providers "Gehitu bilaketa-hornitzaile gehiago">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendara denbora luzez bere bilaketa-eremua sakatuz.">
+<!ENTITY pref_category_devtools "Garatzaile-tresnak">
+<!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
+<!ENTITY pref_developer_remotedebugging_docs "Argibide gehiago">
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Orokorra">
-<!ENTITY pref_header_privacy "Pribatutasuna eta segurtasuna">
-<!ENTITY pref_header_content "Edukia">
+<!ENTITY pref_header_customize "Pertsonalizazioa">
+<!ENTITY pref_header_display "Bistaratzea">
+<!ENTITY pref_header_privacy_short "Pribatutasuna">
+<!ENTITY pref_header_help "Laguntza">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Garatzaile-tresnak">
 
 <!ENTITY pref_cookies_menu "Cookieak">
 <!ENTITY pref_cookies_accept_all "Gaituta">
@@ -100,7 +109,10 @@
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_text_size "Testuaren tamaina">
-<!ENTITY pref_reflow_on_zoom2 "Egin atximur testua pantailara egokitzeko">
+<!ENTITY pref_reflow_on_zoom4 "Egokitu testua">
+<!ENTITY pref_restore "Fitxak">
+<!ENTITY pref_restore_always "Berreskuratu beti">
+<!ENTITY pref_restore_quit "Ez berreskuratu &brandShortName;(e)tik irten ondoren">
 <!ENTITY pref_font_size_tiny "Txikitxoa">
 <!ENTITY pref_font_size_small "Txikia">
 <!ENTITY pref_font_size_medium "Normala">
@@ -132,26 +144,39 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Gunearen ezarpenak">
 <!ENTITY pref_private_data_downloadFiles "Deskargatutako fitxategiak">
 
+
+<!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
+<!ENTITY pref_vendor_faqs "Ohiko galderak">
+<!ENTITY pref_vendor_feedback "Emaiguzu zure iritzia!">
+<!ENTITY pref_search_set_default "Ezarri lehenetsi gisa">
+<!ENTITY pref_search_default "Lehenetsia">
+<!ENTITY pref_search_remove "Kendu">
+<!ENTITY pref_search_last_toast "Ezin duzu azken bilaketa-motorra kendu edo desgaitu.">
+
 <!ENTITY datareporting_notification_title "&brandShortName; estatistikak eta datuak">
+<!ENTITY datareporting_notification_action_long "Aukeratu partekatu beharreko informazioa">
 <!ENTITY datareporting_notification_action "Aukeratu zer partekatu">
 <!ENTITY datareporting_notification_summary "Zure esperientzia hobetzeko, &brandShortName;(e)k zenbait informazio bidaltzen dio automatikoki &vendorShortName;(r)i">
 <!ENTITY datareporting_notification_summary_short "Zure esperientzia hobetzeko, &brandShortName;(e)k…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName;(r)en osasun-txostena">
-<!ENTITY datareporting_fhr_summary "Nabigatzailearen errendimendua ulertzen laguntzen dizu eta nabigatzailearen osasunaren inguruko datuak partekatzen ditu &vendorShortName;(r)ekin">
+<!ENTITY datareporting_fhr_summary2 "Nabigatzailearen osasunari buruzko datuak partekatzen ditu &vendorShortName;(r)ekin eta nabigatzailearen errendimendua ulertzen laguntzen dizu">
+<!ENTITY datareporting_abouthr_title "Ikusi osasun-txostena">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Nabigatzailearen errendimenduaren, erabilpenaren, hardwarearen eta pertsonalizazioen inguruko datuak partekatzen ditu &vendorShortName;(r)ekin &brandShortName; hobetzen laguntzeko">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(r)i nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; hutsegite-berriemailea">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
+<!ENTITY datareporting_wifi_title "&vendorShortName; kokapen-zerbitzuak">
+<!ENTITY datareporting_wifi_summary "Lagundu web irekirako geolokalizazio zerbitzuak hobetzen dorre mugikorren datu anonimoak biltzen eta bidaltzen utziz &brandShortName;(r)i">
 
 <!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
@@ -178,9 +203,8 @@ size. -->
 <!ENTITY tabs_normal "Etiketak">
 <!ENTITY tabs_private "Pribatua">
 <!ENTITY tabs_synced "Sinkronizatuak">
-<!ENTITY wallpaper_success "Horma-papera eguneratuta">
-<!ENTITY wallpaper_progress "Horma-papera ezartzen">
-<!ENTITY wallpaper_fail "Ezin da horma-papera ezarri">
+<!ENTITY set_image_fail "Ezin da irudia ezarri">
+<!ENTITY set_image_chooser_title "Ezarri irudia honela">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -192,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
 <!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
 <!ENTITY contextmenu_open_in_reader "Ireki irakurgailuan">
-<!ENTITY contextmenu_remove_history "Kendu">
-<!ENTITY contextmenu_remove_bookmark "Kendu">
+<!ENTITY contextmenu_remove "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
 <!ENTITY contextmenu_share "Partekatu">
 <!ENTITY contextmenu_pasteandgo "Itsatsi eta joan">
@@ -202,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editatu">
 <!ENTITY contextmenu_subscribe "Harpidetu orrira">
 <!ENTITY contextmenu_site_settings "Editatu gunearen ezarpenak">
+<!ENTITY contextmenu_top_bookmarks_edit "Editatu">
+<!ENTITY contextmenu_top_bookmarks_pin "Ainguratu gunea">
+<!ENTITY contextmenu_top_bookmarks_unpin "Desainguratu gunea">
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
@@ -209,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Orria kenduta">
 
+<!ENTITY bookmark_add "Gehitu laster-marka">
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
 <!ENTITY bookmark_edit_name "Izena">
 <!ENTITY bookmark_edit_location "Helbidea">
@@ -221,12 +248,14 @@ size. -->
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
-<!ENTITY reading_list "Irakurketa-zerrenda">
 <!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
 <!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kenduta">
 <!ENTITY reading_list_failed "Huts egin du orria zure irakurketa-zerrendara gehitzean">
 <!ENTITY reading_list_duplicate "Orria badago lehendik irakurketa-zerrendan">
-<!ENTITY reader "Irakurgailua">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Ekintza gehigarriak">
 
 <!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
 <!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
@@ -241,28 +270,30 @@ size. -->
 <!ENTITY button_set "Ezarri">
 <!ENTITY button_clear "Garbitu">
 
-<!ENTITY abouthome_addons_title "&brandShortName;(e)rako gehigarriak">
-<!ENTITY abouthome_addons_browse "Arakatu &brandShortName; gehigarri guztiak">
-<!ENTITY abouthome_last_tabs_title "Azken aldiko fitxak">
-<!ENTITY abouthome_last_tabs_open "Ireki azken saioko fitxa guztiak">
-<!ENTITY abouthome_top_sites_title "Gune erabilienak">
-<!ENTITY abouthome_topsites_edit "Editatu">
-<!ENTITY abouthome_topsites_pin "Ainguratu gunea">
-<!ENTITY abouthome_topsites_unpin "Desainguratu gunea">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY home_top_sites_title "Gune erabilienak">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Gehitu gunea">
 
-<!ENTITY abouthome_about_sync3 "Konfiguratu Firefox Sync zure beste gailuetatik laster-markak, historia eta fitxak atzitzeko&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Eskuratu aplikazioak Firefox Marketplace-tik eta deskubritu webak eskaintzeko daukan onena&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Historia">
+<!ENTITY home_last_tabs_title "Azken saioko fitxak">
+<!ENTITY home_last_tabs_open "Ireki azken saioko fitxa guztiak">
+<!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
+<!ENTITY home_most_recent_title "Azkenak">
+<!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
+<!ENTITY home_most_visited_title "Gehien bisitatutakoak">
+<!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Aholkua: Gorde artikuluak irakurketa-zerrendan denbora luzez &#037;I ikonoa sakatuz titulu-barran agertzen denean.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez irakurketa moduaren botoia sakatuz titulu-barran agertzen denean.">
+
+<!ENTITY home_most_visited_empty "Gehien bisitatzen dituzun webguneak hemen agertzen dira.">
+<!ENTITY pin_bookmark_dialog_hint "Idatzi bilatzeko gako-hitza">
 
 <!ENTITY filepicker_title "Aukeratu fitxategia">
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
@@ -283,6 +314,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Honen menpe dago: ">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Orri hau segurua ez den edukia ari da bistaratzen.">
+<!ENTITY blocked_mixed_content_message_top "Segurua ez den edukia blokeatu du &brandShortName;(e)k.">
+<!ENTITY blocked_mixed_content_message_bottom "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta egonda ere.">
+<!ENTITY learn_more "Argibide gehiago…">
+<!ENTITY enable_protection "Gaitu babesa">
+<!ENTITY disable_protection "Desgaitu babesa">
+<!ENTITY keep_blocking "Jarraitu blokeatzen">
 
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
@@ -299,10 +339,17 @@ Android-etik">
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "&formatS;(r)en bilaketa-gomendioak gaitu nahi dituzu?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Bilatu \&quot;&formatS2;\&quot; &formatS1;(e)n">
 
 <!ENTITY webapp_generic_name "Apl">
 
 <!ENTITY searchable_description "Laster-markak eta historia">
+
+<!ENTITY devtools_remote_debugging_forward "Ez ahaztu ataka-birbidalketa konfiguratzeaz!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
@@ -315,3 +362,14 @@ Android-etik">
 
 <!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
 <!ENTITY updater_apply_select2 "Ukitu eguneratzeko">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Gonbidatu saio berria">
+<!ENTITY exit_guest_session "Irten gonbidatu saiotik">
+<!ENTITY guest_session_dialog_continue "Jarraitu">
+<!ENTITY guest_session_dialog_cancel "Utzi">
+<!ENTITY new_guest_session_title "&brandShortName; berrabiarazi egingo da orain">
+<!ENTITY new_guest_session_text "Gonbidatu saioa erabiltzen duen pertsonak ezingo du zure arakatze-datu pertsonalik ikusi (gordetako pasahitzak, historia edo laster-markak, adibidez).\n\nGonbidatu saioa amaitzean, saio horretako datuak ezabatu eta zure saioa berreskuratuko da.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; berrabiarazi egingo da orain">
+<!ENTITY exit_guest_session_text "Saio honetako arakatze-datuak ezabatu egingo dira.">
