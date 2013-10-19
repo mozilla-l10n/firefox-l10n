@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Idatzi bilaketa edo helbidea">
+
+<!ENTITY back.label            "Atzera">
+<!ENTITY forward.label         "Aurrera">
+<!ENTITY newtab.label          "Fitxa berria">
+<!ENTITY closetab.label        "Itxi fitxa">
+
+<!ENTITY autocompleteResultsHeader.label  "Emaitzak">
+
+<!ENTITY appbarErrorConsole.label   "Ireki errore-kontsola">
+<!ENTITY appbarJSShell.label        "Ireki JavaScript kontsola">
+<!ENTITY appbarFindInPage2.label    "Bilatu orrian">
+<!ENTITY appbarViewOnDesktop2.label "Ikusi mahaigainean">
+
+<!ENTITY topSitesHeader.label        "Gune erabilienak">
+<!ENTITY bookmarksHeader.label       "Laster-markak">
+<!ENTITY recentHistoryHeader.label   "Azken historia">
+<!ENTITY remoteTabsHeader.label      "Beste gailuetako fitxak">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Gune erabilienak">
+<!ENTITY narrowBookmarksHeader.label     "Laster-markak">
+<!ENTITY narrowRecentHistoryHeader.label "Azken historia">
+<!ENTITY narrowRemoteTabsHeader.label    "Urruneko fitxak">
+
+<!ENTITY downloadsHeader.label     "Deskargak">
+<!ENTITY downloadShowPage.label    "Joan orrira">
+<!ENTITY downloadShow2.label       "Bilatu">
+<!ENTITY downloadOpen2.label       "Ireki">
+<!ENTITY downloadCancel.label      "Utzi">
+<!ENTITY downloadPause.label       "Pausatu">
+<!ENTITY downloadResume.label      "Berrekin">
+<!ENTITY downloadRetry.label       "Saiatu berriro">
+<!ENTITY downloadRemove.label      "Kendu">
+<!ENTITY downloadDelete.label      "Ezabatu">
+<!ENTITY downloadFailed.label      "Huts egin du">
+
+<!ENTITY allBookmarks.label        "Ikusi laster-marka guztiak">
+
+<!ENTITY consoleHeader.label       "Errore-kontsola">
+<!ENTITY consoleAll.label          "Denak">
+<!ENTITY consoleErrors.label       "Erroreak">
+<!ENTITY consoleWarnings.label     "Abisuak">
+<!ENTITY consoleMessages.label     "Mezuak">
+<!ENTITY consoleCodeEval.label     "Kodea:">
+<!ENTITY consoleClear.label        "Garbitu">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Iturburu fitxategia:">
+<!ENTITY consoleErrLine.label      "Lerroa:">
+<!ENTITY consoleErrColumn.label    "Zutabea:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Ebaki">
+<!ENTITY contextTextCopy.label             "Kopiatu">
+<!ENTITY contextTextPaste.label            "Itsatsi">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Itsatsi eta joan">
+<!ENTITY contextTextSelect.label           "Hautatu">
+<!ENTITY contextTextSelectAll.label        "Hautatu dena">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Ireki lotura fitxa berrian">
+<!ENTITY contextCopyLinkHref.label         "Kopiatu lotura">
+<!ENTITY contextBookmarkLinkHref.label     "Gehitu loturaren laster-marka">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Gorde irudien liburutegian">
+<!ENTITY contextCopyImage.label            "Kopiatu irudia">
+<!ENTITY contextCopyImageLocation.label    "Kopiatu irudiaren helbidea">
+<!ENTITY contextOpenImageTab.label         "Ireki irudia fitxa berrian">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Gorde bideoen liburutegian">
+<!ENTITY contextCopyVideoLocation.label    "Kopiatu bideoaren helbidea">
+<!ENTITY contextOpenVideoTab.label         "Ireki bideoa fitxa berrian">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Atzitu laster-markak, pasahitzak eta irekitako fitxak zure gailuen artean">
+<!ENTITY sync.flyout.presetup.setup.label      "Konfiguratu &syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "Konfiguratu &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "&syncBrand.shortName.label; kontua baduzu, hautatu &quot;Parekatu gailua&quot; zure beste gailuan eta sartu kode hau.">
+<!ENTITY sync.flyout.setup.description2        "Ez baduzu &syncBrand.shortName.label; konturik, bat sor dezakezu mahaigaineko &brandShortName; nabigatzailean.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ez nago nire ordenagailutik gertu…">
+<!ENTITY sync.flyout.setup.description3        "Oharra:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;Parekatu gailua&quot; bilatzeko,">
+<!ENTITY sync.flyout.setup.description5_2      "[Mahaigaina] Ireki &quot;Aukerak&quot; edo &quot;Hobespenak&quot; eta hautatu &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Gehiago &gt; Ezarpenak &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Sartu zure &syncBrand.shortName.label; kontuaren informazioa eta zure ordenagailuak sortutako berreskuratze-gakoa">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Kontuaren izena">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Pasahitza">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Berreskuratze-gakoa">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Konektatu">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "&syncBrand.shortName.label; kontura konektatu berri duzu &brandShortName;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Zure &syncBrand.shortName.label; datuak atzeko planoan ari dira deskargatzen. Sinkronizatutako fitxak &brandShortName;(r)en hasiera-orrian aurki daitezke">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;(e)k ezin du konektatu zure &syncBrand.shortName.label; kontura.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Utzi">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Saiatu berriro">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Kontua:">
+<!ENTITY sync.flyout.connected.device                     "Zure gailua:">
+<!ENTITY sync.flyout.connected.disconnect                 "Deskonektatu">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Deskonektatu zure gailua &syncBrand.shortName.label; zerbitzutik?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Gailu honetako eta &syncBrand.shortName.label; kontuko zure datu pertsonalak dauden bezala utziko dira.">
+<!ENTITY sync.flyout.connected.cancel                     "Utzi">
+<!ENTITY sync.flyout.connected.pair                       "Parekatu gailua">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Parekatu nahi duzun gailu berrian, hautatu &quot;Konfiguratu &syncBrand.shortName.label;&quot; eta sartu gailuak sortutako kodea">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Parekatu">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Oharra:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Kodea aurkitzeko,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Mahaigaina] Ireko &quot;Aukerak&quot; edo &quot;Hobespenak&quot; eta jarraitu ondoko urratsak: &syncBrand.shortName.label; -&gt; Konfiguratu &syncBrand.shortName.label; -&gt; Badaukat kontua">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Gehiago &gt; Ezarpenak &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Saiatu berriro mesedez">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Gailu berria ondo gehitu da.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Zure &syncBrand.shortName.label; datuak atzeko planoan ari dira deskargatzen. Urruneko fitxak &brandShortName;(r)en hasiera-orrian aurki daitezke.">

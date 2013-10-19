@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Aukerak">
+<!ENTITY optionsHeader.startup.title                             "Abioa">
+<!ENTITY optionsHeader.homepage.title                            "&brandShortName; abiatzean, erakutsi">
+<!ENTITY optionsHeader.homepage.startPage.button                 "hasiera-orria">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "azken aldiko fitxak">
+<!ENTITY optionsHeader.char.title                                "Karaktere-kodeketa">
+<!ENTITY optionsHeader.char.autodetect.label                     "Autodetektatu">
+<!ENTITY optionsHeader.char.options.label                        "Erakutsi kodeketa-aukerak aplikazio-barran">
+
+<!ENTITY clearPrivateData.title                                  "Garbitu datu pribatuak">
+<!ENTITY clearPrivateData.label                                  "Garbitu zure arakatze-historia, pasahitzak, cookieak eta inprimakien datuak gailu honetan">
+<!ENTITY clearPrivateData.button                                 "Garbitu">
+<!ENTITY clearPrivateData.done                                   "Eginda!">
+<!ENTITY clearPrivateData.history                                "Arakatze-historia">
+<!ENTITY clearPrivateData.otherdata                              "Bestelako datuak (pasahitzak, cachea, cookieak, etab.)">
+<!ENTITY clearPrivateData.downloadHist                           "Deskargen historia">
+<!ENTITY clearPrivateData.cookies                                "Cookieak">
+<!ENTITY clearPrivateData.cache                                  "Cachea">
+<!ENTITY clearPrivateData.sitePref                               "Gunearen hobespenak">
+<!ENTITY clearPrivateData.formSearchHist                         "Inprimaki- eta bilaketa-historia">
+<!ENTITY clearPrivateData.passwords                              "Gordetako pasahitzak">
+<!ENTITY clearPrivateData.offline                                "Lineaz kanpoko webguneen datuak">
+<!ENTITY clearPrivateData.logins                                 "Saio-hasiera aktiboak">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Gogoratu pasahitzak">
+<!ENTITY doNotTrack.title                                        "Do Not Track">
+<!ENTITY doNotTrack.desc                                         "Esan guneei:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Ez dudala nire jarraipenik egitea nahi">
+<!ENTITY doNotTrack.options.noPreference                         "Ezer ez nire jarraipen-hobespenei buruz">
+<!ENTITY doNotTrack.options.trackingOkay                         "Nire jarraipena egitea nahi dudala">
+<!ENTITY optionsHeader.reporting.title                           "Hutsegiteen berriemailea">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu Mozillara nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                            "Partekatu Mozillarekin &brandShortName;(r)en erabilpen-estatistikak nabigatzailea hobetzen laguntzeko">
