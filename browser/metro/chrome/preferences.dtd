@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Možnosti">
-<!ENTITY optionsHeader.startup.title                             "Spustenie">
-<!ENTITY optionsHeader.homepage.title                            "Pri spustení prehliadača &brandShortName; zobraziť">
-<!ENTITY optionsHeader.homepage.startPage.button                 "úvodnú stránku">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "karty z poslednej relácie">
 <!ENTITY optionsHeader.char.title                                "Kódovanie znakov">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatické rozpoznávanie">
 <!ENTITY optionsHeader.char.options.label                        "Zobraziť možnosti kódovania v paneli Aplikácie">
