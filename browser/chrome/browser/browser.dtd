@@ -501,7 +501,7 @@ items are mutually exclusive. -->
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x.label "Dvojna hitrost (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.accesskey "j">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
