@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desegin fitxa ixtea">
 <!ENTITY  undoCloseTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Desegin fitxak ixtea">
 <!ENTITY  closeTab.label                     "Itxi fitxa">
 <!ENTITY  closeTab.accesskey                 "I">
 
@@ -668,6 +663,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Baimendu orain">
 <!ENTITY pluginActivateAlways.label "Baimendu eta gogoratu">
 <!ENTITY pluginBlockNow.label "Blokeatu plugina">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "44em">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
