@@ -12,7 +12,7 @@
 <!ENTITY closeTabCmd2.accesskey "I">
 <!ENTITY closeOtherTabsCmd2.label "Itxi beste fitxak">
 <!ENTITY closeOtherTabsCmd2.accesskey "t">
-<!ENTITY recentlyClosedTabsCmd.label "Azkenaldian itxitako fitxak">
+<!ENTITY recentlyClosedTabsCmd.label "Itxitako azken fitxak">
 <!ENTITY recentlyClosedTabsCmd.accesskey "A">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
