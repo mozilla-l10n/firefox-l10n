@@ -702,9 +702,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Save Page To…">
+<!ENTITY social.markpageMenu.label "…ਲਈ ਪੇਜ਼ ਸੰਭਾਲੋ">
 <!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Save Link To…">
+<!ENTITY social.marklinkMenu.label "…ਲਈ ਲਿੰਕ ਸੰਭਾਲੋ">
 
 <!ENTITY getUserMedia.selectCamera.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੈਮਰਾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
