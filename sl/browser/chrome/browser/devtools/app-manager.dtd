@@ -38,7 +38,7 @@
 <!ENTITY connection.disconnect "Prekini povezavo">
 <!ENTITY connection.disconnectTooltip "Prekinite povezavo s trenutno napravo ali simulatorjem.">
 <!ENTITY connection.notConnected2 "Ni povezave.">
-<!ENTITY connection.connectTo "Poveži z:">
+<!ENTITY connection.connectTo "Poveži se z:">
 <!ENTITY connection.noDeviceFound "Naprav ni mogoče najti. Priklopite napravo">
 <!ENTITY connection.changeHostAndPort "Spremeni">
 <!ENTITY connection.changeHostAndPortTooltip "Spremeni gostitelja in vrata za povezavo na napravo. (Privzeto: localhost:6000)">
