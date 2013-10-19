@@ -18,7 +18,7 @@
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
 <!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 
-<!ENTITY topSitesHeader.label        "Naj stránky">
+<!ENTITY topSitesHeader.label        "Top stránky">
 <!ENTITY bookmarksHeader.label       "Záložky">
 <!ENTITY recentHistoryHeader.label   "Nedávna história">
 <!ENTITY remoteTabsHeader.label      "Karty z iných zariadení">
@@ -30,7 +30,7 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "Naj stránky">
+<!ENTITY narrowTopSitesHeader.label      "Top stránky">
 <!ENTITY narrowBookmarksHeader.label     "Záložky">
 <!ENTITY narrowRecentHistoryHeader.label "Nedávna história">
 <!ENTITY narrowRemoteTabsHeader.label    "Vzdialené karty">
