@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Propriétés">
 
 <!ENTITY generalInfo.label "Informations générales">
-<!ENTITY folderCharsetTab.label "Encodage des caractères par défaut :">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Appliquer par défaut à tous les messages du dossier (ignorer l'auto-détection ainsi que l'encodage de car. spécifié par l'en-tête MIME)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetFallback.label             "Encodage de caractères de dernier recours :">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetEnforce.label              "Appliquer l'encodage à tous les messages du dossier (ignorer l'auto-détection ainsi que l'encodage spécifique par message)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruire l'index du fichier de résumé">
 <!ENTITY folderRebuildSummaryFile2.label         "Réparer le dossier">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
