@@ -7,11 +7,11 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmarks">
-<!ENTITY  history_title "History">
-<!ENTITY  reading_list_title "Reading List">
+<!ENTITY  bookmarks_title "ਬੁੱਕਮਾਰਕ">
+<!ENTITY  history_title "ਅਤੀਤ">
+<!ENTITY  reading_list_title "ਪੜ੍ਹਨ ਸੂਚੀ">
 
-<!ENTITY  switch_to_tab "Switch to tab">
+<!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
@@ -32,7 +32,7 @@
 
 <!ENTITY choose_file "ਫਾਇਲ ਚੁਣੋ">
 
-<!ENTITY url_bar_default_text "Enter Search or Address">
+<!ENTITY url_bar_default_text "ਲੱਭੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
@@ -72,21 +72,21 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
 <!ENTITY pref_category_installed_search_engines "ਇੰਸਟਾਲ ਹੋਏ ਖੋਜ ਇੰਜਣ">
-<!ENTITY pref_category_add_search_providers "Add more search providers">
+<!ENTITY pref_category_add_search_providers "ਹੋਰ ਖੋਜ ਪਰੋਵਾਈਡਰ ਜੋੜੋ">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "TIP: Add any website to your list of search providers by long-pressing on its search field.">
-<!ENTITY pref_category_devtools "Developer tools">
-<!ENTITY pref_developer_remotedebugging "Remote debugging">
-<!ENTITY pref_developer_remotedebugging_docs "Learn more">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_search_tip "ਇਸ਼ਾਰਾ: Add any website to your list of search providers by long-pressing on its search field.">
+<!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
+<!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
+<!ENTITY pref_developer_remotedebugging_docs "ਹੋਰ ਜਾਣੋ">
+<!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Customize">
-<!ENTITY pref_header_display "Display">
-<!ENTITY pref_header_privacy_short "Privacy">
-<!ENTITY pref_header_help "Help">
+<!ENTITY pref_header_customize "ਕਸਟਮਾਈਜ਼">
+<!ENTITY pref_header_display "ਡਿਸਪਲੇਅ">
+<!ENTITY pref_header_privacy_short "ਪਰਾਈਵੇਸੀ">
+<!ENTITY pref_header_help "ਮੱਦਦ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
@@ -123,7 +123,7 @@
 <!ENTITY pref_reflow_on_zoom4 "ਟੈਕਸਟ ਮੁੜ-ਫਲੋ">
 <!ENTITY pref_restore "ਟੈਬਾਂ">
 <!ENTITY pref_restore_always "ਹਮੇਸ਼ਾ ਮੁੜ-ਸਟੋਰ">
-<!ENTITY pref_restore_quit "Don\'t restore after quitting &brandShortName;">
+<!ENTITY pref_restore_quit "&brandShortName; ਬੰਦ ਕਰਨ ਦੇ ਬਾਅਦ ਮੁੜ-ਸਟੋਰ ਨਾ ਕਰੋ">
 <!ENTITY pref_font_size_tiny "ਨਿੰਮਾ">
 <!ENTITY pref_font_size_small "ਛੋਟਾ">
 <!ENTITY pref_font_size_medium "ਮੱਧਮ">
@@ -158,10 +158,10 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY pref_vendor_feedback "ਸੁਝਾਅ ਦਿਓ">
-<!ENTITY pref_search_set_default "Set as default">
-<!ENTITY pref_search_default "Default">
-<!ENTITY pref_search_remove "Remove">
-<!ENTITY pref_search_last_toast "You can\'t remove or disable your last search engine.">
+<!ENTITY pref_search_set_default "ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
+<!ENTITY pref_search_default "ਮੂਲ">
+<!ENTITY pref_search_remove "ਹਟਾਓ">
+<!ENTITY pref_search_last_toast "ਤੁਸੀਂ ਆਪਣਾ ਆਖਰੀ ਖੋਜ ਇੰਜਣ ਹਟਾ ਨਹੀਂ ਸਕਦੇ ਤੇ ਨਾ ਹੀ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY datareporting_notification_action_long "ਚੁਣੋ ਕਿ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰਨੀ ਹੈ">
 <!ENTITY datareporting_notification_title "&brandShortName; ਅੰਕੜੇ &amp; ਡਾਟਾ">
@@ -177,9 +177,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
+<!ENTITY datareporting_fhr_summary2 "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਸਥਿਤੀ ਬਾਰੇ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰੋ ਅਤੇ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਬਾਰੇ ਸਮਝਣ ਵਿੱਚ ਮੱਦਦ ਕਰੋ">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_telemetry_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋਂ, ਹਾਰਡਵੇਅਰ ਤੇ ਕਮਸਟਮਾਈਜ਼ੇਨ  ਆਦਿ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰਕੇ ਸਾਨੂੰ  &brandShortName; ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰੋ">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
@@ -238,9 +238,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
 <!ENTITY contextmenu_subscribe "ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY contextmenu_site_settings "ਸਾਈਟ ਸੈਟਿੰਗ ਸੋਧ">
-<!ENTITY contextmenu_top_bookmarks_edit "Edit">
-<!ENTITY contextmenu_top_bookmarks_pin "Pin Site">
-<!ENTITY contextmenu_top_bookmarks_unpin "Unpin Site">
+<!ENTITY contextmenu_top_bookmarks_edit "ਸੋਧ">
+<!ENTITY contextmenu_top_bookmarks_pin "ਸਾਈਟ ਪਿੰਨ ਕਰੋ">
+<!ENTITY contextmenu_top_bookmarks_unpin "ਸਾਈਨ ਪਿੰਨ ਨਾ ਕਰੋ">
 
 <!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ">
 <!ENTITY pref_titlebar_mode_title "ਪੇਜ਼ ਟਾਈਟਲ ਵੇਖਾਓ">
@@ -248,8 +248,8 @@ size. -->
 
 <!ENTITY history_removed "ਪੇਜ਼ ਹਟਾਇਆ">
 
-<!ENTITY bookmark_add "Add a bookmark">
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_add "ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ">
+<!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 <!ENTITY bookmark_edit_name "ਨਾਂ">
@@ -284,18 +284,18 @@ size. -->
 <!ENTITY button_set "ਸੈੱਟ">
 <!ENTITY button_clear "ਸਾਫ਼">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Add a site">
+<!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਲ">
 
-<!ENTITY home_history_title "History">
-<!ENTITY home_last_tabs_title "Tabs from last time">
-<!ENTITY home_last_tabs_open "Open all tabs from last time">
-<!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
-<!ENTITY home_most_recent_title "Most recent">
-<!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
-<!ENTITY home_most_visited_title "Most visited">
+<!ENTITY home_history_title "ਅਤੀਤ">
+<!ENTITY home_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਤੋਂ ਸਾਈਟਾਂ">
+<!ENTITY home_last_tabs_open "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
+<!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਤਾਜ਼ਾ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
+<!ENTITY home_most_recent_title "ਸਭ ਤੋਂ ਤਾਜ਼ਾ">
+<!ENTITY home_most_recent_empty "ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਤੁਸੀਂ ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ ਹਨ, ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
+<!ENTITY home_most_visited_title "ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ">
 <!ENTITY home_reading_list_empty "Articles you save for later show up here.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -307,7 +307,7 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
 
 <!ENTITY home_most_visited_empty "Websites you visit most frequently show up here.">
-<!ENTITY pin_bookmark_dialog_hint "Enter a search keyword">
+<!ENTITY pin_bookmark_dialog_hint "ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਉ">
 
 <!ENTITY filepicker_title "ਫਾਇਲ ਚੁਣੋ">
 <!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">

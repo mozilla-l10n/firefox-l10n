@@ -4,23 +4,23 @@
 
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈਸ ਦਿਉ">
 
-<!ENTITY back.label            "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY back.label            "ਪਿੱਛੇ">
+<!ENTITY forward.label         "ਅੱਗੇ">
+<!ENTITY newtab.label          "ਨਵੀਂ ਟੈਬ">
+<!ENTITY closetab.label        "ਟੈਬ ">
 
-<!ENTITY autocompleteResultsHeader.label  "Your Results">
+<!ENTITY autocompleteResultsHeader.label  "ਤੁਹਾਡੇ ਲਈ ਨਤੀਜੇ">
 
 <!ENTITY appbarErrorConsole.label   "Open error console">
 <!ENTITY appbarJSShell.label        "Open JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Find in page">
-<!ENTITY appbarViewOnDesktop2.label "View on desktop">
+<!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
+<!ENTITY appbarViewOnDesktop2.label "ਡੈਸਕਟਾਪ ਉੱਤੇ ਵੇਖੋ">
 
-<!ENTITY topSitesHeader.label        "Top Sites">
-<!ENTITY bookmarksHeader.label       "Bookmarks">
-<!ENTITY recentHistoryHeader.label   "Recent History">
+<!ENTITY topSitesHeader.label        "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
+<!ENTITY bookmarksHeader.label       "ਬੁੱਕਮਾਰਕ">
+<!ENTITY recentHistoryHeader.label   "ਤਾਜ਼ਾ ਅਤੀਤ">
 <!ENTITY remoteTabsHeader.label      "Tabs from Other Devices">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
