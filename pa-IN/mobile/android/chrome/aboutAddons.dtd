@@ -5,10 +5,11 @@
 <!ENTITY aboutAddons.title2                     "ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.header2                    "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.options                    "ਚੋਣਾਂ">
+<!ENTITY aboutAddons.browseAll                  "ਸਭ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਦੀ ਝਲਕ ਵੇਖੋ">
 
 <!ENTITY addonAction.enable                     "ਚਾਲੂ">
 <!ENTITY addonAction.disable                    "ਬੰਦ">
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
-<!ENTITY addonAction.setDefault                 "ਮੂਲ ਸੈੱਟ ਕਰੋ">
+
 

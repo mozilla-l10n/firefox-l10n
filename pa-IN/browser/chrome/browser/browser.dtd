@@ -690,7 +690,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਵੇਖਾਓ">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> ਤੋਂ ਸੇਵਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਤੁਸੀਂ ਸੇਵਾਵਾਂ ਨੂੰ <label class='text-link'>ਐਡ-ਆਨ ਮੈਨੇਜਰ</label> ਵਿੱਚੋਂ ਆਪਣੀ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।">
+<!ENTITY social.activated.description "<label/> ਤੋਂ ਸੇਵਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਤੁਸੀਂ ਸੇਵਾਵਾਂ ਨੂੰ <label class='text-link'>ਐਡ-ਆਨ ਮੈਨੇਜਰ</label> ਵਿੱਚੋਂ ਆਪਣੀ ਸੈਟਿੰਗ ਰਾਹੀਂ ਬਦਲ ਸਕਦੇ ਹੋ।">
 <!ENTITY social.activated.undo.label "ਓਹ, ਇਹ ਵਾਪਿਸ ਲਵੋ!">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "…ਹੋਰ ਜਾਣੋ">
@@ -735,6 +735,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY tabCrashed.header "ਟੈਬ ਕਰੈਸ਼ ਹੋਈ">
-<!ENTITY tabCrashed.message "Well, this is embarrassing. We tried to display this Web page, but it's not responding.">
-<!ENTITY tabCrashed.checkSendReport "Tell &vendorShortName; about this crash so they can fix it.">
+<!ENTITY tabCrashed.message "ਇਹ ਸ਼ਰਮਨਾਕ ਹੈ। ਅਸੀਂ ਇਹ ਵੈੱਬ ਪੇਜ਼ ਵੇਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਅਤੇ ਇਹ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ।">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕਣ।">
 <!ENTITY tabCrashed.tryAgain "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
