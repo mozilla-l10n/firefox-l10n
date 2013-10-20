@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Tout">
 <!ENTITY all.accesskey "T">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; pense que ce message est indésirable">
-<!ENTITY junkBarButton.label "N'est pas indésirable">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Pour protéger votre vie privée, &brandShortName; a bloqué l'affichage du contenu distant dans ce message.">
-<!ENTITY loadRemoteContentButton.label "Afficher le contenu distant">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; pense que ce message est peut-être frauduleux.">
-<!ENTITY removePhishingBarButton.label "N'est pas frauduleux">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorer">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Envoyer un accusé de réception">
-<!ENTITY mdnBarSendButton.accesskey "E">
