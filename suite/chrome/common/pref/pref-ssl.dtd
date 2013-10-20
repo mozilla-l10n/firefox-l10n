@@ -19,14 +19,14 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement et me demander la permission avant :">
-<!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement des données">
+<!ENTITY warn.description2 "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement lors de :">
+<!ENTITY warn.enteringsecure "l'ouverture d'un site qui prend en charge le chiffrement des données">
 <!ENTITY warn.enteringsecure.accesskey "e">
-<!ENTITY warn.insecurepost "d'envoyer des données d'une page non sécurisée à une page non sécurisée">
+<!ENTITY warn.insecurepost "l'envoi de données d'une page non sécurisée à une page non sécurisée">
 <!ENTITY warn.insecurepost.accesskey "v">
-<!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données">
+<!ENTITY warn.leavingsecure "la fermeture d'une page qui prend en charge le chiffrement des données">
 <!ENTITY warn.leavingsecure.accesskey "u">
-<!ENTITY warn.viewmixed "de voir une page contenant un mélange de données chiffrées et non chiffrées">
+<!ENTITY warn.viewmixed "l'ouverture d'une page contenant un mélange de données chiffrées et non chiffrées">
 <!ENTITY warn.viewmixed.accesskey "o">
 
 <!ENTITY warn.mixedactivecontent            "M'avertir lorsque des pages chiffrées possèdent du contenu non sécurisé">
