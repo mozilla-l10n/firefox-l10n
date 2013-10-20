@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Dodatki">
 <!ENTITY aboutAddons.header2                    "Twoje dodatki">
 <!ENTITY aboutAddons.options                    "Ustawienia">
+<!ENTITY aboutAddons.browseAll                  "Przeglądaj wszystkie dodatki">
 
 <!ENTITY addonAction.enable                     "Włącz">
 <!ENTITY addonAction.disable                    "Wyłącz">
 <!ENTITY addonAction.uninstall                  "Usuń">
 <!ENTITY addonAction.undo                       "Cofnij">
-<!ENTITY addonAction.setDefault                 "Ustaw jako domyślną">
