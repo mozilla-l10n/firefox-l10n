@@ -73,6 +73,7 @@
 <!ENTITY projects.debugAppTooltip "Ouvrir les outils de développement connectés à cette application">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemple.com/application/manifest.webapp">
 <!ENTITY projects.noProjects "Aucun projet. Ajoutez ci-dessous une application empaquetée (répertoire local) ou une application hébergée (lien vers un fichier manifeste).">
+<!ENTITY projects.manifestEditor "Éditeur de manifeste">
 
 <!ENTITY help.title "Gestionnaire d'applications">
 <!ENTITY help.close "Fermer">
