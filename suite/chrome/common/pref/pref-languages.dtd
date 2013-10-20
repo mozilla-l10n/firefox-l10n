@@ -18,9 +18,10 @@
 <!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label "Autres :">
 <!ENTITY languages.customize.others.accesskey "u">
-<!ENTITY languages.customize.Charset.grouplabel "Encodage de caractères par défaut">
-<!ENTITY languages.customize.DefaultCharset.label "Encodage de caractères :">
-<!ENTITY languages.customize.DefaultCharset.accesskey "E">
+<!ENTITY languages.customize.Fallback.grouplabel "Encodage de caractères pour le contenu obsolète">
+<!ENTITY languages.customize.Fallback.label "Encodage de caractères de dernier recours :">
+<!ENTITY languages.customize.Fallback.accesskey "c">
+<!ENTITY languages.customize.Fallback.desc "Cet encodage de caractères est utilisé pour le contenu obsolète qui ne déclare pas correctement son encodage.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "Exemples : fr-FR, ar-jo">
 <!ENTITY languages.customize.moveUp.label "Monter">
