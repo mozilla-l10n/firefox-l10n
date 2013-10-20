@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Na dysku jest za mało wolnego miejsca aby uruchomić program &brandShortName;">
 <!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
 
-<!ENTITY  awesomebar_all_pages_title "Wszystko">
-<!ENTITY  awesomebar_bookmarks_title "Zakładki">
-<!ENTITY  awesomebar_history_title "Historia">
-<!ENTITY  awesomebar_switch_to_tab "Przełącz na kartę">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Zakładki">
+<!ENTITY  history_title "Historia">
+<!ENTITY  reading_list_title "Do przeczytania">
+
+<!ENTITY  switch_to_tab "Przełącz na kartę">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
 <!ENTITY  crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
@@ -30,10 +33,9 @@
 
 <!ENTITY choose_file "Wybierz plik">
 
-<!ENTITY awesomebar_default_text "Wpisz zapytanie lub adres">
+<!ENTITY url_bar_default_text "Wpisz zapytanie lub adres">
 
-<!ENTITY remote_tabs "Karty z innych urządzeń">
-<!ENTITY remote_tabs_show_all "Pokaż wszystkie karty">
+<!ENTITY awesomebar_default_text "Wpisz zapytanie lub adres">
 
 <!ENTITY bookmark "Zakładka">
 <!ENTITY bookmark_added "Zakładka dodana">
@@ -72,6 +74,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane silniki wyszukiwania">
+<!ENTITY pref_category_add_search_providers "Dodaj więcej wyszukiwarek">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_developer_remotedebugging_docs "Dowiedz się więcej">
@@ -104,11 +111,10 @@
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
-<!ENTITY pref_reflow_on_zoom3 "Zmień układ tekstu">
+<!ENTITY pref_reflow_on_zoom4 "Zmień układ tekstu">
 <!ENTITY pref_restore "Karty">
 <!ENTITY pref_restore_always "Przywracaj zawsze">
-<!ENTITY pref_restore_crash "Przywracaj po awarii">
-<!ENTITY pref_restore_never "Nigdy nie przywracaj">
+<!ENTITY pref_restore_quit "Nie przywracaj po wyłączeniu przeglądarki &brandShortName;">
 <!ENTITY pref_font_size_tiny "Bardzo mały">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
@@ -141,6 +147,10 @@ size. -->
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Przekaż informacje zwrotne">
+<!ENTITY pref_search_set_default "Ustaw jako domyślną">
+<!ENTITY pref_search_default "Domyślna">
+<!ENTITY pref_search_remove "Usuń">
+<!ENTITY pref_search_last_toast "Nie można usunąć lub wyłączyć ostatniego silnika wyszukiwania.">
 
 <!ENTITY datareporting_notification_title "&brandShortName;: statystyki i dane">
 <!ENTITY datareporting_notification_action "Wybierz, co chcesz udostępniać">
@@ -199,8 +209,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_open_in_reader "Otwórz w trybie czytania">
-<!ENTITY contextmenu_remove_bookmark "Usuń zakładkę">
-<!ENTITY contextmenu_remove_history "Usuń historię">
+<!ENTITY contextmenu_remove "Usuń">
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_share "Udostępnij">
 <!ENTITY contextmenu_pasteandgo "Kopiuj i przejdź do strony">
@@ -210,6 +219,9 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
 <!ENTITY contextmenu_subscribe "Subskrybuj stronę">
 <!ENTITY contextmenu_site_settings "Edytuj ustawienia witryny">
+<!ENTITY contextmenu_top_bookmarks_edit "Edytuj">
+<!ENTITY contextmenu_top_bookmarks_pin "Przypnij stronę">
+<!ENTITY contextmenu_top_bookmarks_unpin "Odepnij stronę">
 
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
@@ -217,6 +229,7 @@ size. -->
 
 <!ENTITY history_removed "Stronę usunięto">
 
+<!ENTITY bookmark_add "Dodaj zakładkę">
 <!ENTITY bookmark_edit_title "Zmień zakładkę">
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
@@ -227,7 +240,7 @@ size. -->
 <!ENTITY site_settings_clear        "Wyczyść">
 <!ENTITY site_settings_no_settings  "Brak ustawień">
 
-<!ENTITY reading_list "Do przeczytania">
+<!ENTITY reading_list_title "Do przeczytania">
 <!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
 <!ENTITY reading_list_removed "Strona usunięta z listy „Do przeczytania”">
 <!ENTITY reading_list_failed "Nie udało się zapisać strony na liście „Do przeczytania”">
@@ -250,27 +263,30 @@ size. -->
 <!ENTITY button_set "Ustaw">
 <!ENTITY button_clear "Usuń">
 
-<!ENTITY abouthome_addons_title "Polecane dodatki">
-<!ENTITY abouthome_addons_browse "Zobacz wszystkie dostępne dodatki">
-<!ENTITY abouthome_last_tabs_title "Karty z ostatniej sesji">
-<!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
-<!ENTITY abouthome_top_sites_title "Najczęstsze">
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Zainstaluj aplikacje z Firefox Marketplace i odkryj to, co najlepsze w Sieci&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
-<!ENTITY abouthome_topsites_edit "Edytuj">
-<!ENTITY abouthome_topsites_pin "Przypnij stronę">
-<!ENTITY abouthome_topsites_unpin "Odepnij stronę">
+<!ENTITY home_top_sites_title "Popularne">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Dodaj stronę">
+
+<!ENTITY home_history_title "Historia">
+<!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
+<!ENTITY home_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
+<!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
+<!ENTITY home_most_recent_title "Ostatnio odwiedzone">
+<!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
+<!ENTITY home_most_visited_title "Najczęściej odwiedzane">
+<!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &#37;I po jej pojawieniu się na pasku tytułu.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk trybu czytania po jego pojawieniu się na pasku tytułu.">
+
+<!ENTITY home_most_visited_empty "Tutaj pojawiają się najczęściej odwiedzane witryny.">
+<!ENTITY pin_bookmark_dialog_hint "Wpisz słowo-klucz">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
@@ -315,6 +331,11 @@ size. -->
                                          z systemu Android">
 <!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
 
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Szukaj „&formatS2;” za pomocą &formatS1;">
+
 <!ENTITY webapp_generic_name "Aplikacja">
 
 <!ENTITY searchable_description "Zakładki i historia">
@@ -322,15 +343,15 @@ size. -->
 <!ENTITY devtools_remote_debugging_forward "Nie zapomnij skonfigurować przekierowania portów!">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_start_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
 
 <!ENTITY updater_downloading_title2 "Pobieranie: &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Pobieranie nie udało się">
-<!ENTITY updater_downloading_select2 "Wybierz, zainstalować aktualizację po jej pobraniu">
+<!ENTITY updater_downloading_select2 "Zainstaluj aktualizację po jej pobraniu">
 <!ENTITY updater_downloading_retry2 "Dotknij, aby spróbować ponownie">
 
-<!ENTITY updater_apply_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_apply_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
 
 <!-- Guest mode -->
@@ -338,8 +359,8 @@ size. -->
 <!ENTITY exit_guest_session "Zakończ sesję gościnną">
 <!ENTITY guest_session_dialog_continue "Kontynuuj">
 <!ENTITY guest_session_dialog_cancel "Anuluj">
-<!ENTITY new_guest_session_title "&brandShortName; zostanie uruchomiony ponownie">
+<!ENTITY new_guest_session_title "Program &brandShortName; zostanie uruchomiony ponownie">
 <!ENTITY new_guest_session_text "Osoba korzystająca z przeglądarki nie będzie widziała Twoich prywatnych informacji (takich, jak zapisane hasła, historia przeglądania czy zakładki). Kiedy gość skończy korzystać z przeglądarki, dane o sesji zostaną usunięte, a Twoja sesja zostanie przywrócona.">
 
-<!ENTITY exit_guest_session_title "&brandShortName; zostanie uruchomiony ponownie">
+<!ENTITY exit_guest_session_title "Program &brandShortName; zostanie uruchomiony ponownie">
 <!ENTITY exit_guest_session_text "Dane o tej sesji zostaną usunięte.">
