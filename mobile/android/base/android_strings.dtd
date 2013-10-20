@@ -276,6 +276,7 @@ size. -->
 <!ENTITY home_top_sites_add "Ajouter un site">
 
 <!ENTITY home_history_title "Historique">
+<!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s\u0027affichent ici.">
 <!ENTITY home_last_tabs_title "Onglets de la session précédente">
 <!ENTITY home_last_tabs_open "Ouvrir tous les onglets">
 <!ENTITY home_last_tabs_empty "Les onglets de la session précédente s\u0027affichent ici.">
