@@ -275,6 +275,7 @@ size. -->
 <!ENTITY home_top_sites_add "新增網站">
 
 <!ENTITY home_history_title "歷史記錄">
+<!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
 <!ENTITY home_last_tabs_title "上次開啟的分頁">
 <!ENTITY home_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
