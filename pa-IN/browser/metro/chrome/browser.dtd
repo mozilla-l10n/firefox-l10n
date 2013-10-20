@@ -30,16 +30,16 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "Top Sites">
-<!ENTITY narrowBookmarksHeader.label     "Bookmarks">
+<!ENTITY narrowTopSitesHeader.label      "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
+<!ENTITY narrowBookmarksHeader.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY narrowRecentHistoryHeader.label "Recent History">
 <!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
 
-<!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "Find">
-<!ENTITY downloadOpen2.label       "Open">
-<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadsHeader.label     "ਡਾਊਨਲੋਡ">
+<!ENTITY downloadShowPage.label    "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY downloadShow2.label       "ਖੋਜ">
+<!ENTITY downloadOpen2.label       "ਖੋਲ੍ਹੋ">
+<!ENTITY downloadCancel.label      "ਰੱਦ ਕਰੋ">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Resume">
 <!ENTITY downloadRetry.label       "Retry">
