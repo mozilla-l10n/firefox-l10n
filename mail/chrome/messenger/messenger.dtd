@@ -156,7 +156,7 @@
 <!ENTITY sortByStarCmd.label "Estrella">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Adjuntos">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortByPriorityCmd.label "Prioridad">
 <!ENTITY sortByPriorityCmd.accesskey "p">
 <!ENTITY sortBySizeCmd.label "Tamaño">
@@ -531,7 +531,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
-<!ENTITY appmenuQFBMenu.label "Barra de filtrado rápido">
 <!ENTITY appmenuToolbarLayout.label "Disposición de la barra de herramientas…">
 <!ENTITY appmenuSelectThread.label "Seleccionar conversación">
 <!ENTITY appmenuSelectFlagged.label "Seleccionar mensajes con estrella">
