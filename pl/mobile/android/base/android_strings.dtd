@@ -229,7 +229,6 @@ size. -->
 
 <!ENTITY history_removed "Stronę usunięto">
 
-<!ENTITY bookmark_add "Dodaj zakładkę">
 <!ENTITY bookmark_edit_title "Zmień zakładkę">
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
