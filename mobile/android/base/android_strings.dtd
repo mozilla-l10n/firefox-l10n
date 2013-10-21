@@ -206,6 +206,7 @@
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
 <!ENTITY home_last_tabs_title "Pestañas de la última sesión">
 <!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
