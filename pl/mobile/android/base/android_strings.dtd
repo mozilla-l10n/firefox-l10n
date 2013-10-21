@@ -219,9 +219,9 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
 <!ENTITY contextmenu_subscribe "Subskrybuj stronę">
 <!ENTITY contextmenu_site_settings "Edytuj ustawienia witryny">
-<!ENTITY contextmenu_top_bookmarks_edit "Edytuj">
-<!ENTITY contextmenu_top_bookmarks_pin "Przypnij stronę">
-<!ENTITY contextmenu_top_bookmarks_unpin "Odepnij stronę">
+<!ENTITY contextmenu_top_sites_edit "Edytuj">
+<!ENTITY contextmenu_top_sites_pin "Przypnij stronę">
+<!ENTITY contextmenu_top_sites_unpin "Odepnij stronę">
 
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
@@ -285,7 +285,7 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk trybu czytania po jego pojawieniu się na pasku tytułu.">
 
 <!ENTITY home_most_visited_empty "Tutaj pojawiają się najczęściej odwiedzane witryny.">
-<!ENTITY pin_bookmark_dialog_hint "Wpisz słowo-klucz">
+<!ENTITY pin_site_dialog_hint "Wpisz słowo-klucz">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
