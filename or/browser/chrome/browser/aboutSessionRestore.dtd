@@ -25,3 +25,6 @@
 <!ENTITY restorepage.tryagainButton "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY restorepage.close.access   "C">
 <!ENTITY restorepage.closeButton    "ବନ୍ଦ କରନ୍ତୁ">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; ସଫଳତାର ସହିତ ଆପଣଙ୍କର ରୂପରେଖାକୁ ପୁନଃସ୍ଥାପନ କରିଛି। ତଳେ ଆପଣ ଖୋଲିଥିବା ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ ତାଲିକା ଅଛି; ଆପଣ ସେଗୁଡ଼ିକୁ ପୁନଃସ୍ଥାପନ କରିପାରିବେ ଅଥବା ଏକ ପରିସ୍କାର ସ୍ଲେଟରେ ଆରମ୍ଭ କରିପାରିବେ।">
+<!ENTITY welcomeback.pageTitle      "ଆପଣଙ୍କୁ ପୁଣି ସ୍ୱାଗତ କରୁଅଛୁ!">
+<!ENTITY welcomeback.tabtitle       "ଆପଣଙ୍କୁ ପୁଣି ସ୍ୱାଗତ କରୁଅଛୁ!">
