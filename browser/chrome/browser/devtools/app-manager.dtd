@@ -42,7 +42,7 @@
 <!ENTITY connection.noDeviceFound "找不到裝置，請將裝置連線至電腦">
 <!ENTITY connection.changeHostAndPort "變更">
 <!ENTITY connection.changeHostAndPortTooltip "修改要連線的裝置的主機名稱與埠號。 (預設為 localhost:6000)">
-<!ENTITY connection.startSimulator "開始模擬器">
+<!ENTITY connection.startSimulator "啟動模擬器">
 <!ENTITY connection.startSimulatorTooltip "執行並連線至模擬器。">
 <!ENTITY connection.saveConnectionInfo "儲存">
 <!ENTITY connection.saveConnectionInfoTooltip "儲存主機名稱與埠號。">
@@ -60,7 +60,7 @@
 
 <!ENTITY projects.localApps "本機應用程式">
 <!ENTITY projects.addApp "新增">
-<!ENTITY projects.addPackaged "新增應用程式封裝">
+<!ENTITY projects.addPackaged "新增封裝的應用程式">
 <!ENTITY projects.addPackagedTooltip "有用的鏈結:">
 <!ENTITY projects.addHosted "新增架設的應用程式">
 <!ENTITY projects.addHostedTooltip "自遠端網站新增架設的應用程式 (manifest.webapp 檔的鏈結)。">
@@ -73,10 +73,11 @@
 <!ENTITY projects.debugAppTooltip "開啟連線至此應用程式的開發者工具">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "無專案。在下面新增封裝應用程式（本機資料夾）或架設的應用程式（安裝資訊檔鏈結）。">
+<!ENTITY projects.manifestEditor "安裝資訊檔編輯器">
 
 <!ENTITY help.title "應用程式管理員">
 <!ENTITY help.close "關閉">
-<!ENTITY help.intro "此工具將會幫助您開發並安裝網頁應用程式至相容裝置 (也就是 Firefox OS) 中。<strong>應用程式</strong> 分頁將可幫助您進行程式的驗證與安裝。<strong>裝置</strong> 分頁將會提供您已連線裝置的資訊。請使用底端的工具列連線至裝置或開啟模擬器。">
+<!ENTITY help.intro "此工具將會幫助您開發並安裝網頁應用程式至相容裝置（也就是 Firefox OS）中。<strong>應用程式</strong> 分頁將可幫助您進行程式的驗證與安裝。<strong>裝置</strong> 分頁將會提供您已連線裝置的資訊。請使用底端的工具列連線至裝置或啟動模擬器。">
 <!ENTITY help.usefullLinks "有用的鏈結:">
 <!ENTITY help.appMgrDoc "文件: 使用應用程式管理員">
 <!ENTITY help.configuringDevice "如何設定您的 Firefox OS 裝置">

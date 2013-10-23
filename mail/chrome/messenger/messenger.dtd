@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "寫新訊息">
 <!ENTITY appmenuNewContactCmd.label "通訊錄連絡人…">
 <!ENTITY appmenuEditMenu.label "編輯">
-<!ENTITY appmenuQFBMenu.label "快速篩選列">
 <!ENTITY appmenuToolbarLayout.label "工具列配置…">
 <!ENTITY appmenuSelectThread.label "選擇討論串">
 <!ENTITY appmenuSelectFlagged.label "選擇加上星號的郵件">
