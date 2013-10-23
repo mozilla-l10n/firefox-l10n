@@ -19,10 +19,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "&brandShortName; yritti muodostaa suojatun
 yhteyden sivustoon <b>#1</b>, mutta yhteyden turvallisuutta ei pystytä 
 varmistamaan.">
-<!ENTITY certerror.introPara2 "Yleensä kun suojattua yhteyttä muodostetaan, 
-sivustot lähettävät varmennetut identiteettitietonsa, joiden perusteella voi 
-olla varma, että tietoja siirretään oikean paikan kanssa. Tämän sivuston 
-identiteettiä ei kuitenkaan voida varmentaa.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Mitä minun pitäisi tehdä?">
 <!ENTITY certerror.whatShouldIDo.content "Jos olet aikaisemmin saanut
@@ -38,6 +34,7 @@ sivuston identiteetin &brandShortName;in luottamien sivustojen listalle.
 taho häiritsee verkkoyhteyttäsi.</b>">
 <!ENTITY certerror.expert.contentPara2 "Älä lisää poikkeusta ellet 
 tiedä hyvää syytä, miksi tällä sivustolla ei ole luotettuja identiteettitietoja.">
-<!ENTITY certerror.addException.label "Lisää poikkeus…">
+<!ENTITY certerror.addTemporaryException.label "Avaa sivusto">
+<!ENTITY certerror.addPermanentException.label "Lisää pysyvä poikkeus">
 
 <!ENTITY certerror.technical.heading "Tekniset yksityiskohdat">

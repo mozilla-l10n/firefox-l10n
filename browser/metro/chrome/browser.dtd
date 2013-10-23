@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Kirjoita osoite tai hakutermi">
+
+<!ENTITY back.label            "Edellinen">
+<!ENTITY forward.label         "Seuraava">
+<!ENTITY newtab.label          "Uusi välilehti">
+<!ENTITY closetab.label        "Sulje välilehti">
+
+<!ENTITY autocompleteResultsHeader.label  "Osumat">
+
+<!ENTITY appbarErrorConsole.label   "Avaa virhekonsoli">
+<!ENTITY appbarJSShell.label        "Avaa JavaScript-komentotulkki">
+<!ENTITY appbarFindInPage2.label    "Etsi sivulta">
+<!ENTITY appbarViewOnDesktop2.label "Näytä työpöydällä">
+
+<!ENTITY topSitesHeader.label        "Ykkössivustot">
+<!ENTITY bookmarksHeader.label       "Kirjanmerkit">
+<!ENTITY recentHistoryHeader.label   "Viimeaikaiset sivustot">
+<!ENTITY remoteTabsHeader.label      "Välilehdet muissa laitteissa">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Ykkössivustot">
+<!ENTITY narrowBookmarksHeader.label     "Kirjanmerkit">
+<!ENTITY narrowRecentHistoryHeader.label "Viimeaikaiset sivut">
+<!ENTITY narrowRemoteTabsHeader.label    "Välilehdet muualla">
+
+<!ENTITY downloadsHeader.label     "Lataukset">
+<!ENTITY downloadShowPage.label    "Siirry sivulle">
+<!ENTITY downloadShow2.label       "Etsi">
+<!ENTITY downloadOpen2.label       "Avaa">
+<!ENTITY downloadCancel.label      "Peruuta">
+<!ENTITY downloadPause.label       "Pysäytä">
+<!ENTITY downloadResume.label      "Jatka">
+<!ENTITY downloadRetry.label       "Yritä uudestaan">
+<!ENTITY downloadRemove.label      "Poista">
+<!ENTITY downloadDelete.label      "Poista">
+<!ENTITY downloadFailed.label      "Epäonnistui">
+
+<!ENTITY allBookmarks.label        "Näytä kaikki kirjanmerkit">
+
+<!ENTITY consoleHeader.label       "Virhekonsoli">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Warnings">
+<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Clear">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Source File:">
+<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrColumn.label    "Column:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Leikkaa">
+<!ENTITY contextTextCopy.label             "Kopioi">
+<!ENTITY contextTextPaste.label            "Liitä">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Liitä ja avaa">
+<!ENTITY contextTextSelect.label           "Valitse">
+<!ENTITY contextTextSelectAll.label        "Valitse kaikki">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Avaa linkki uuteen välilehteen">
+<!ENTITY contextCopyLinkHref.label         "Kopioi linkki">
+<!ENTITY contextBookmarkLinkHref.label     "Luo kirjanmerkki linkistä">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Tallenna kuvakirjastoon">
+<!ENTITY contextCopyImage.label            "Kopioi kuva">
+<!ENTITY contextCopyImageLocation.label    "Kopioi kuvan osoite">
+<!ENTITY contextOpenImageTab.label         "Avaa kuva uuteen välilehteen">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Tallenna videokirjastoon">
+<!ENTITY contextCopyVideoLocation.label    "Kopioi videon osoite">
+<!ENTITY contextOpenVideoTab.label         "Avaa video uuteen välilehteen">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
