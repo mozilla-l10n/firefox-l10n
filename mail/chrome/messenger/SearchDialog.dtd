@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey   "O">
 <!ENTITY composeButton.label          "Kirjoita">
 <!ENTITY composeButton.accesskey      "K">
+<!ENTITY deleteCardButton.label      "Poista">
+<!ENTITY deleteCardButton.accesskey  "P">
 <!ENTITY abSearchDialogTitle.label    "Etsi osoitekirjasta">
 
 <!-- Thread Pane -->
