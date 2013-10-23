@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Asetukset">
+<!ENTITY optionsHeader.startup.title                             "Käynnistäminen">
+<!ENTITY optionsHeader.homepage.title                            "Kun &brandShortName; käynnistetään, avaa">
+<!ENTITY optionsHeader.homepage.startPage.button                 "aloitussivu">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "välilehdet viime kerralta">
+<!ENTITY optionsHeader.char.title                                "Merkistökoodaus">
+<!ENTITY optionsHeader.char.autodetect.label                     "Tunnista automaattisesti">
+<!ENTITY optionsHeader.char.options.label                        "Näytä koodausvaihtoehdot ohjelmapalkissa">
+
+<!ENTITY clearPrivateData.title                                  "Tyhjennä yksityisyystiedot">
+<!ENTITY clearPrivateData.label                                  "Poistaa selaushistorian, salasanat, evästeet ja lomaketiedot tältä laitteelta">
+<!ENTITY clearPrivateData.button                                 "Poista">
+<!ENTITY clearPrivateData.done                                   "Valmis!">
+<!ENTITY clearPrivateData.history                                "Selaushistoria">
+<!ENTITY clearPrivateData.otherdata                              "Muut tiedot (salasanat, välimuistitiedostot, evästeet jne.)">
+<!ENTITY clearPrivateData.downloadHist                           "Lataushistoria">
+<!ENTITY clearPrivateData.cookies                                "Evästeet">
+<!ENTITY clearPrivateData.cache                                  "Välimuistitiedostot">
+<!ENTITY clearPrivateData.sitePref                               "Sivustoasetukset">
+<!ENTITY clearPrivateData.formSearchHist                         "Lomake- ja hakutiedot">
+<!ENTITY clearPrivateData.passwords                              "Tallennetut salasanat">
+<!ENTITY clearPrivateData.offline                                "Verkkoyhteydettömän tilan tiedot">
+<!ENTITY clearPrivateData.logins                                 "Aktiiviset kirjautumiset">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Tallenna salasanat">
+<!ENTITY doNotTrack.title                                        "Älä seuraa -asetukset">
+<!ENTITY doNotTrack.desc                                         "Ilmoita sivustoille:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Etten halua niiden seuraavan minua">
+<!ENTITY doNotTrack.options.noPreference                         "Älä kerro mitään seuranta-asetuksistani">
+<!ENTITY doNotTrack.options.trackingOkay                         "Haluan niiden seuraavan minua">
+<!ENTITY optionsHeader.reporting.title                           "Kaatumisilmoitukset">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; lähettää tiedot kaatumisista Mozillalle, jotta voimme tehdä selaimestasi vakaamman ja turvallisemman">
+<!ENTITY optionsHeader.telemetry.title                            "Kaukomittaustiedot">
+<!ENTITY optionsHeader.telemetry.label                            "Lähetä Mozillalle tietoja &brandShortName;ista, jotta voimme tehdä selaimesta entistä paremman">
