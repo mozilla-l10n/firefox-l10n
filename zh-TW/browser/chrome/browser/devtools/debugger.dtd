@@ -125,6 +125,11 @@ button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "新增條件式中斷點">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
+<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
+  -  appears in the debugger's instruments pane tabs. -->
+<!ENTITY debuggerUI.tabs.variables      "變數">
+<!ENTITY debuggerUI.tabs.events         "事件">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "監看選擇範圍的表達式">
