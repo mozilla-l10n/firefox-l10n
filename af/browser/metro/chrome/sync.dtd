@@ -6,37 +6,51 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "Kry toegang tot boekmerke, wagwoorde en oop oortjies op al u toestelle">
+<!ENTITY sync.flyout.presetup.setup.label      "Stel &syncBrand.shortName.label; op">
 <!-- Flyout when setting up sync -->
 
+<!ENTITY sync.flyout.setup.title               "Stel &syncBrand.shortName.label; op">
 
-
-
+<!ENTITY sync.flyout.setup.description2        "Indien u nie &syncBrand.shortName.label;-rekening het nie, skep gerus een in die gewone &brandShortName; blaaier.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ek's nie naby my rekenaar nie…">
+<!ENTITY sync.flyout.setup.description3        "Let wel:">
 
 
 
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "Tik asb. u &syncBrand.shortName.label;-rekeninginligting in en die herwinningsleutel wat die rekenaar gegenereer het">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Rekeningnaam">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Wagwoord">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Herwinningsleutel">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Koppel">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "U het pas &brandShortName; aan die &syncBrand.shortName.label;-rekening gekoppel">
+<!ENTITY sync.flyout.setupsuccess.description2      "U &syncBrand.shortName.label;-data word nou in die agtergrond afgelaai. Die gesinkroniseerde oortjies kan op die &brandShortName;-beginbladsy gevind word">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; kon nie koppel aan die &syncBrand.shortName.label;-rekening nie.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Kanselleer">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Probeer weer">
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "Rekening:">
+<!ENTITY sync.flyout.connected.device                     "Toestel:">
 <!ENTITY sync.flyout.connected.disconnect                 "Ontkoppel">
 
 
-
+<!ENTITY sync.flyout.connected.cancel                     "Kanselleer">
 <!ENTITY sync.flyout.connected.pair                       "Assosieer 'n toestel">
 <!-- Flyout when pairing a device -->
 
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Let wel:">
 
 
 
-
-
+<!ENTITY sync.flyout.pairNewDevice.failure                "Probeer asseblief weer">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Die nuwe toestel is suksesvol bygevoeg.">
+<!ENTITY sync.flyout.pairSuccess.description2             "U &syncBrand.shortName.label;-data word nou in die agtergrond afgelaai. Die afgeleë oortjies kan op die &brandShortName;-beginbladsy gevind word.">
