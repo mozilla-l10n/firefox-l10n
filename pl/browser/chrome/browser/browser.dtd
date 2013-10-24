@@ -627,7 +627,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.addons.label "Zarządzaj usługami…">
 
-<!ENTITY social.toggleNotifications.label "Wyświetlaj powiadomienia pulpitu">
+<!ENTITY social.toggleNotifications.label "Wyświetlaj powiadomienia">
 <!ENTITY social.toggleNotifications.accesskey "e">
 
 <!ENTITY social.activated.description "Usługi dostarczane przez <label/> zostały włączone. Można zmienić ustawienia dla tych usług w <label class='text-link'>Menedżerze dodatków</label>.">
