@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "বিকল্প">
+<!ENTITY optionsHeader.startup.title                             "আৰম্ভণি">
+<!ENTITY optionsHeader.homepage.title                            "যেতিয়া &brandShortName; আৰম্ভ হব, দেখুৱাব">
+<!ENTITY optionsHeader.homepage.startPage.button                 "আৰম্ভণি পৃষ্ঠা">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "সৰ্বশেষ সময়ৰ পৰা টেবসমূহ">
+<!ENTITY optionsHeader.char.title                                "আখৰ এনক'ডিং">
+<!ENTITY optionsHeader.char.autodetect.label                     "স্বচালিতভাৱে-চিনাক্ত কৰক">
+<!ENTITY optionsHeader.char.options.label                        "এপ বাৰত এনক'ডিং বিকল্পসমূহ দেখুৱাওক">
+
+<!ENTITY clearPrivateData.title                                  "ব্যক্তিগত তথ্য আতৰাওক">
+<!ENTITY clearPrivateData.label                                  "এই ডিভাইচত থকা আপোনাৰ ব্ৰাউছিং ইতিহাস, পাছৱাৰ্ডসমূহ, কুকিসমূহ আৰু ফৰ্মৰ তথ্য আতৰাওক">
+<!ENTITY clearPrivateData.button                                 "আতৰাওক">
+<!ENTITY clearPrivateData.done                                   "কৰা হল!">
+<!ENTITY clearPrivateData.history                                "ব্ৰাউছিংৰ ইতিহাস">
+<!ENTITY clearPrivateData.otherdata                              "অন্য তথ্য (পাছৱাৰ্ডসমূহ, ক্যাশ, কুকিসমূহ, ইত্যাদি)">
+<!ENTITY clearPrivateData.downloadHist                           "ডাউনল'ডৰ ইতিহাস">
+<!ENTITY clearPrivateData.cookies                                "কুকিসমূহ">
+<!ENTITY clearPrivateData.cache                                  "ক্যাশ">
+<!ENTITY clearPrivateData.sitePref                               "ছাইটৰ পছন্দ">
+<!ENTITY clearPrivateData.formSearchHist                         "ফৰ্ম &amp; সন্ধানৰ ইতিহাস">
+<!ENTITY clearPrivateData.passwords                              "সংৰক্ষিত পাছৱাৰ্ডসমূহ">
+<!ENTITY clearPrivateData.offline                                "অফ-লাইন ৱেবছাইটৰ তথ্য">
+<!ENTITY clearPrivateData.logins                                 "সক্ৰিয় লগিনসমূহ">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "পাছৱাৰ্ডসমূহ মনত ৰাখক">
+<!ENTITY doNotTrack.title                                        "অনুকৰণ নকৰিব">
+<!ENTITY doNotTrack.desc                                         "ছাইটসমূহক কওক:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "মোক অনুকৰণ নকৰিব">
+<!ENTITY doNotTrack.options.noPreference                         "মোৰ অনুকৰণ পছন্দৰ বিষয়ে একো নহয়">
+<!ENTITY doNotTrack.options.trackingOkay                         "মোক অনুকৰণ কৰক">
+<!ENTITY optionsHeader.reporting.title                           "ক্ৰেশ সংবাদক">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে Mozilla এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">
+<!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্ৰি">
+<!ENTITY optionsHeader.telemetry.label                            "&brandShortName; ৰ ব্যৱহাৰ পৰিসংখ্যা Mozilla ৰ সৈতে অংশীদাৰী কৰে যাতে আপোনাৰ ব্ৰাউছাৰ উন্নত হয়">

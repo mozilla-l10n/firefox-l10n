@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "আপোনাৰ ডিভাইচসমূহত আপোনাৰ পত্ৰচিহ্নসমূহ, পাছৱাৰ্ডসমূহ আৰু খোলা টেবসমূহ অভিগম কৰক">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; সংস্থাপন কৰক">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; সংস্থাপন কৰক">
+<!ENTITY sync.flyout.setup.description1        "যদি আপোনাৰ এটা &syncBrand.shortName.label; একাওন্ট আছে, আপোনাৰ অন্য ডিভাইচত &quot;এটা ডিভাইচ যোৰ কৰক&quot; বাছক আৰু এই ক&apos;ড সুমুৱাওক।">
+<!ENTITY sync.flyout.setup.description2        "যদি আপোনাৰ এটা &syncBrand.shortName.label; একাওন্ট নাই, আপুনি আপোনাৰ &brandShortName; ডেস্কটপ ব্ৰাউছাৰত এটা সৃষ্টি কৰিব পাৰিব।">
+<!ENTITY sync.flyout.setup.manual.label_2      "মই মোৰ কমপিউটাৰৰ ওচৰত নাই…">
+<!ENTITY sync.flyout.setup.description3        "টোকা:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;এটা ডিভাইচ যোৰ কৰক&quot; সন্ধান কৰিবলৈ,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] &quot;বিকল্পসমূহ&quot; অথবা &quot;পছন্দসমূহ&quot; খোলক আৰু তাৰ পিছত &quot;&syncBrand.shortName.label;&quot; বাছক">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] অধিক &gt; সংহতিসমূহ &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "অনুগ্ৰহ কৰি আপোনাৰ &syncBrand.shortName.label; একাওন্ট তথ্য আৰু আপোনাৰ কমপিউটাৰ দ্বাৰা সৃজন কৰা উদ্ধাৰ কি' সুমুৱাওক">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "একাওন্ট নাম">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "পাছৱাৰ্ড">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "উদ্ধাৰ কি'">
+<!ENTITY sync.flyout.manualsetup.connect.label           "সংযোগ কৰক">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "আপুনি এইমাত্ৰ &brandShortName; ক &syncBrand.shortName.label; একাওন্টৰ সৈতে সংযুক্ত কৰিলে">
+<!ENTITY sync.flyout.setupsuccess.description2      "আপোনাৰ &syncBrand.shortName.label; তথ্য পটভূমিত ডাউনল'ড কৰা হৈছে। আপোনাৰ সংমিহলিত টেবসমূহ &brandShortName; আৰম্ভণি পৃষ্ঠাত পোৱা যাব">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; এ আপোনাৰ &syncBrand.shortName.label; একাওন্টৰ সৈতে সংযোগ কৰিব নোৱাৰিল।">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "বাতিল কৰক">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "পুনৰ চেষ্টা কৰক">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "একাওন্ট:">
+<!ENTITY sync.flyout.connected.device                     "আপোনাৰ ডিভাইচ:">
+<!ENTITY sync.flyout.connected.disconnect                 "বিচ্ছিন্ন কৰক">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; ৰ পৰা আপোনাৰ ডিভাইচ বিচ্ছিন্ন কৰিব নে?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "এই ডিভাইচ আৰু &syncBrand.shortName.label; একাওন্টত থকা আপোনাৰ সকলো ব্যক্তিগত তথ্য অক্ষত থাকিব।">
+<!ENTITY sync.flyout.connected.cancel                     "বাতিল কৰক">
+<!ENTITY sync.flyout.connected.pair                       "এটা ডিভাইচ সংযুক্ত কৰক">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "আপুনি যোৰ কৰিব বিচৰা নতুন ডিভাইচত, &quot;&syncBrand.shortName.label; সংস্থাপন কৰক&quot; বাছক আৰু ডিভাইচে উৎপন্ন কৰা ক&apos;ড সুমুৱাওক">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "যোৰ কৰক">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "টোকা:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "ক'ড সন্ধান কৰিবলৈ,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] &quot;বিকল্পসমূহ&quot; অথবা &quot;পছন্দসমূহ&quot; খোলক আৰু নিম্নলিখিত স্তৰসমূহ অনুকৰণ কৰক:&syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; সংস্থাপন কৰক-&gt; মোৰ এটা একাওন্ট আছে">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] অধিক &gt; সংহতিসমূহ &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "নতুন ডিভাইচ সফলভাৱে যোগ কৰা হল।">
+<!ENTITY sync.flyout.pairSuccess.description2             "আপোনাৰ &syncBrand.shortName.label; তথ্যক পটভূমিত ডাউনল'ড কৰা হৈছে। আপোনাৰ দূৰৱৰ্তী টেবসমূহ &brandShortName; আৰম্ভণি পৃষ্ঠাত পাব।">
