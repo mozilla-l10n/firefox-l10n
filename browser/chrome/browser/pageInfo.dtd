@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "सत्र के लिए स्वीकारें">
 <!ENTITY  permBlock             "रोकें">
 <!ENTITY  permissionsFor        "इसके लिए अनुमति:">
-<!ENTITY  permImage             "छवि लोड करें">
-<!ENTITY  permPopup             "पॉप-अप विंडो खोलें">
-<!ENTITY  permCookie            "कुकी सेट करें">
-<!ENTITY  permNotifications     "सूचनाएँ दिखाओ ">
-<!ENTITY  permInstall           "विस्तार या प्रसंग संस्थापित करें">
-<!ENTITY  permGeo               "स्थान साझा करें">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय करें">
-<!ENTITY  permFullscreen        "पूरे स्क्रीन में जाएँ">
-<!ENTITY  permPointerLock2      "माउस संकेतक छिपाएँ">
 
-<!ENTITY  permIndexedDB              "ऑफ़लाइन भंडारण बनाए रखें">
 <!ENTITY  permClearStorage           "भंडारण साफ़ करें">
 <!ENTITY  permClearStorage.accesskey "C">
 
