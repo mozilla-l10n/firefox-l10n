@@ -76,7 +76,7 @@
 
 <!ENTITY help.title "Gestor de aplicaciones">
 <!ENTITY help.close "Cerrar">
-
+<!ENTITY help.intro "Esta herramienta te ayudará a crear e instalar aplicaciones web en dispositivos compatibles (p. ej. Firefox OS). Las pestañas de <strong>aplicaciones</strong> te ayudarán en la validación e instalación de tu aplicación. La pestaña del <strong>dispositivo</strong> te dará información acerca del dispositivo conectado. Usa la barra de herramientas inferior para conectar el dispositivo o iniciar el simulador.">
 <!ENTITY help.usefullLinks "Enlaces de interés:">
 <!ENTITY help.appMgrDoc "Documentación: Usando el administrador de aplicaciones">
 <!ENTITY help.configuringDevice "Como configurar tu dispositivo con Firefox OS">
