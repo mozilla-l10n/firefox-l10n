@@ -7,6 +7,7 @@
 <!ENTITY debuggerUI.blackBoxMessage.label "Este código fuente se trata como una caja negra: sus puntos de ruptura están desactivados y la ejecución paso a paso no entra en él.">
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Dejar de tratar como caja negra este código fuente">
 <!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Alternar modo de caja negra">
 <!ENTITY debuggerUI.sources.prettyPrint "Embellecer el código fuente">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
