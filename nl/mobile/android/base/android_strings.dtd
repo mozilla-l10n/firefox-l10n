@@ -6,20 +6,23 @@
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
-<!ENTITY  awesomebar_all_pages_title "Topwebsites">
-<!ENTITY  awesomebar_bookmarks_title "Bladwijzers">
-<!ENTITY  awesomebar_history_title "Geschiedenis">
-<!ENTITY  awesomebar_switch_to_tab "Wisselen naar tabblad">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Bladwijzers">
+<!ENTITY  history_title "Geschiedenis">
+<!ENTITY  reading_list_title "Leeslijst">
+
+<!ENTITY  switch_to_tab "Wisselen naar tabblad">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
-<!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden getoond op de &brandShortName;-startpagina als u opnieuw start.">
+<!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden op de &brandShortName;-startpagina vermeld als u opnieuw start.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
 <!ENTITY  crash_include_url2 "Het adres van de bezochte website meesturen">
 <!ENTITY  crash_sorry "Het spijt ons">
 <!ENTITY  crash_comment "Voeg commentaar toe (commentaar is publiekelijk zichtbaar)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; toestaan om contact met mij op te nemen over dit rapport">
 <!ENTITY  crash_email "Uw e-mailadres">
-<!ENTITY  crash_closing_alert "Afsluiten zonder crashrapport verzenden?">
+<!ENTITY  crash_closing_alert "Afsluiten zonder een crashrapport te verzenden?">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
 <!ENTITY  crash_close_label "Sluiten">
 <!ENTITY  crash_restart_label "&brandShortName; herstarten">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Bestand kiezen">
 
-<!ENTITY awesomebar_default_text "Voer zoekterm of adres in">
-
-<!ENTITY remote_tabs "Gesynchroniseerde tabbladen">
-<!ENTITY remote_tabs_show_all "Alle tabbladen tonen">
+<!ENTITY url_bar_default_text "Voer zoekterm of adres in">
 
 <!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
@@ -43,7 +43,7 @@
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
-<!ENTITY history_week_section "7 dagen geleden">
+<!ENTITY history_week_section "Afgelopen 7 dagen">
 <!ENTITY history_older_section "Ouder dan 7 dagen">
 
 <!ENTITY go "Ga">
@@ -72,10 +72,14 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
+<!ENTITY pref_category_add_search_providers "Meer zoekproviders toevoegen">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden.">
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
 <!ENTITY pref_developer_remotedebugging "Remote-debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Meer info">
-
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -105,11 +109,10 @@
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_text_size "Tekstgrootte">
-<!ENTITY pref_reflow_on_zoom4 "Tekst herschikking">
+<!ENTITY pref_reflow_on_zoom4 "Tekst herschikken">
 <!ENTITY pref_restore "Tabbladen">
 <!ENTITY pref_restore_always "Altijd herstellen">
-<!ENTITY pref_restore_crash "Na een crash herstellen">
-<!ENTITY pref_restore_never "Nooit herstellen">
+<!ENTITY pref_restore_quit "Niet herstellen na afsluiten van &brandShortName;">
 <!ENTITY pref_font_size_tiny "Zeer klein">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Gemiddeld">
@@ -143,11 +146,15 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "Over &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ\'s">
+<!ENTITY pref_vendor_faqs "FAQ’s">
 <!ENTITY pref_vendor_feedback "Feedback geven">
+<!ENTITY pref_search_set_default "Instellen als standaard">
+<!ENTITY pref_search_default "Standaard">
+<!ENTITY pref_search_remove "Verwijderen">
+<!ENTITY pref_search_last_toast "U kunt uw laatste zoekmachine niet verwijderen of uitschakelen.">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action_long "Kies welke informatie u wilt delen">
+<!ENTITY datareporting_notification_title "&brandShortName;-statistieken &amp; -gegevens">
+<!ENTITY datareporting_notification_action_long "Kies welke gegevens u wilt delen">
 <!ENTITY datareporting_notification_action "Kies wat u wilt delen">
 <!ENTITY datareporting_notification_summary "Om uw ervaring te verbeteren verzendt &brandShortName; automatisch een aantal gegevens naar &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Om uw ervaring te verbeteren verzendt &brandShortName;…">
@@ -161,18 +168,18 @@ size. -->
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-statusrapport">
 <!ENTITY datareporting_fhr_summary2 "Deelt gegevens met &vendorShortName; over uw browserstatus en helpt u uw browserprestaties te begrijpen">
-<!ENTITY datareporting_abouthr_title "Statusrapport bekijken">
+<!ENTITY datareporting_abouthr_title "Mijn statusrapport bekijken">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw browser stabieler en veiliger te maken">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
-<!ENTITY datareporting_wifi_title "&vendorShortName;-locatiediensten">
-<!ENTITY datareporting_wifi_summary "Help geolocatiediensten voor het openweb te verbeteren door &brandShortName; toe te staan mobiele zendmast informatie te verzamen en deze anoniem te verzenden">
+<!ENTITY datareporting_wifi_title "&vendorShortName;-locatieservices">
+<!ENTITY datareporting_wifi_summary "Help geolocatieservices voor het open web te verbeteren door &brandShortName; anonieme gegevens van mobiele zendmasten te laten verzamelen en verzenden">
 
 <!ENTITY pref_update_autodownload "Automatische updates">
-<!ENTITY pref_update_autodownload_wifi "Alleen via Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Alleen via wifi">
 <!ENTITY pref_update_autodownload_disabled "Uitgeschakeld">
 <!ENTITY pref_update_autodownload_enabled "Ingeschakeld">
 
@@ -196,7 +203,7 @@ size. -->
 <!ENTITY tabs_normal "Tabbladen">
 <!ENTITY tabs_private "Privé">
 <!ENTITY tabs_synced "Gesynchroniseerd">
-<!ENTITY set_image_fail "Instellen afbeelding niet mogelijk">
+<!ENTITY set_image_fail "Kan afbeelding niet instellen">
 <!ENTITY set_image_chooser_title "Afbeelding instellen als">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -209,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
 <!ENTITY contextmenu_open_private_tab "Openen in privétabblad">
 <!ENTITY contextmenu_open_in_reader "Openen in lezer">
-<!ENTITY contextmenu_remove_history "Verwijderen">
-<!ENTITY contextmenu_remove_bookmark "Verwijderen">
+<!ENTITY contextmenu_remove "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startscherm">
 <!ENTITY contextmenu_share "Delen">
 <!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
@@ -219,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
 <!ENTITY contextmenu_subscribe "Abonneren op pagina">
 <!ENTITY contextmenu_site_settings "Website-instellingen bewerken">
+<!ENTITY contextmenu_top_bookmarks_edit "Bewerken">
+<!ENTITY contextmenu_top_bookmarks_pin "Website vastmaken">
+<!ENTITY contextmenu_top_bookmarks_unpin "Website losmaken">
 
 <!ENTITY pref_titlebar_mode "Titelbalk">
 <!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
@@ -226,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Pagina verwijderd">
 
+<!ENTITY bookmark_add "Een bladwijzer toevoegen">
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
 <!ENTITY bookmark_edit_name "Naam">
 <!ENTITY bookmark_edit_location "Locatie">
@@ -238,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Wissen">
 <!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
-<!ENTITY reading_list "Leeslijst">
 <!ENTITY reading_list_added "Pagina aan uw leeslijst toegevoegd">
 <!ENTITY reading_list_removed "Pagina van uw leeslijst verwijderd">
 <!ENTITY reading_list_failed "Pagina aan uw leeslijst toevoegen mislukt">
@@ -246,7 +255,7 @@ size. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Alternatieve acties">
+<!ENTITY page_action_dropmarker_description "Aanvullende acties">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
 <!ENTITY masterpassword_remove_title "Hoofdwachtwoord verwijderen">
@@ -261,28 +270,30 @@ size. -->
 <!ENTITY button_set "Instellen">
 <!ENTITY button_clear "Wissen">
 
-<!ENTITY abouthome_addons_title "Add-ons voor uw &brandShortName;">
-<!ENTITY abouthome_addons_browse "Door alle &brandShortName;-add-ons bladeren">
-<!ENTITY abouthome_last_tabs_title "Uw tabbladen van de vorige keer">
-<!ENTITY abouthome_last_tabs_open "Alle tabbladen van de vorige keer openen">
-<!ENTITY abouthome_top_sites_title "Topwebsites">
-<!ENTITY abouthome_topsites_edit "Bewerken">
-<!ENTITY abouthome_topsites_pin "Website vastmaken">
-<!ENTITY abouthome_topsites_unpin "Website losmaken">
+<!ENTITY home_top_sites_title "Topwebsites">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Een website toevoegen">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Stel Firefox Sync in voor toegang tot bladwijzers, geschiedenis en tabbladen van uw andere apparaten&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Download apps van de Firefox Marketplace en ontdek het beste wat het internet te bieden heeft&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Geschiedenis">
+<!ENTITY home_last_tabs_title "Tabbladen van de vorige keer">
+<!ENTITY home_last_tabs_open "Alle tabbladen van de vorige keer openen">
+<!ENTITY home_last_tabs_empty "Uw recente tabbladen verschijnen hier.">
+<!ENTITY home_most_recent_title "Meest recent">
+<!ENTITY home_most_recent_empty "Meest recent bezochte websites verschijnen hier.">
+<!ENTITY home_most_visited_title "Meest bezocht">
+<!ENTITY home_reading_list_empty "Artikelen die u voor later opslaat verschijnen hier.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "TIP: sla artikelen op naar uw leeslijst door uw vinger op het pictogram &#37;I te houden zodra dit in de titelbalk verschijnt.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIP: sla artikelen op naar uw leeslijst door uw vinger op de lezermodusknop te houden zodra deze in de titelbalk verschijnt.">
+
+<!ENTITY home_most_visited_empty "Websites die u het vaakst bezoekt verschijnen hier.">
+<!ENTITY pin_bookmark_dialog_hint "Voer een zoekterm in">
 
 <!ENTITY filepicker_title "Bestand kiezen">
 <!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
@@ -305,9 +316,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "welke wordt beheerd door">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Deze pagina toont onvelige inhoud.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft de onveile inhoud geblokkeerd.">
-<!ENTITY blocked_mixed_content_message_bottom "De meeste websites werken gewoon zelfs als deze inhoud wordt geblokkeerd.">
+<!ENTITY loaded_mixed_content_message "Deze pagina geeft inhoud weer die niet is beveiligd.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft inhoud die niet is beveiligd geblokkeerd.">
+<!ENTITY blocked_mixed_content_message_bottom "De meeste websites zullen nog gewoon werken, zelfs wanneer deze inhoud wordt geblokkeerd.">
 <!ENTITY learn_more "Meer info">
 <!ENTITY enable_protection "Bescherming inschakelen">
 <!ENTITY disable_protection "Bescherming uitschakelen">
@@ -329,11 +340,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Wilt u &formatS;-zoeksuggesties aanzetten?">
 
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Zoeken bij &formatS1; naar &formatS2;">
+
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bladwijzers en geschiedenis">
 
-<!ENTITY devtools_remote_debugging_forward "Poort-forwarding niet vergeten in te stellen!">
+<!ENTITY devtools_remote_debugging_forward "Vergeet niet om port forwarding in te stellen!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Update voor &brandShortName; beschikbaar">
@@ -353,7 +369,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Doorgaan">
 <!ENTITY guest_session_dialog_cancel "Annuleren">
 <!ENTITY new_guest_session_title "&brandShortName; zal nu herstarten">
-<!ENTITY new_guest_session_text "Het is niet mogelijk voor de persoon die dit gebruikt uw persoonlijke navigatiedata (zoals opgeslagen wachtwoorden, geschiedenis of bladwijzers) te zien.\n\nAls uw gast klaar is wordt hun navigatiedat gewist en uw sessie hersteld.">
+<!ENTITY new_guest_session_text "De persoon die dit gebruikt zal uw persoonlijke navigatiegegevens (zoals opgeslagen wachtwoorden, geschiedenis of bladwijzers) niet kunnen zien.\n\nZodra uw gast klaar is, worden zijn of haar navigatiegegevens verwijderd en wordt uw sessie hersteld.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; zal nu herstarten">
-<!ENTITY exit_guest_session_text "De navigatiegeschiedenis van deze sessie wordt verwijderd.">
+<!ENTITY exit_guest_session_text "De navigatiegegevens van deze sessie zullen worden verwijderd.">
