@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "V">
 <!ENTITY fullScreenExit.label "Sluit volskermmodus af">
 <!ENTITY fullScreenExit.accesskey "v">
-<!ENTITY fullscreenAllowButton.label "Toelaat">
+<!ENTITY fullscreenAllowButton.label "Laat toe">
 <!ENTITY fullscreenExitButton.label "Weier">
 
 <!ENTITY fullscreenExitHint2.value "Druk enige tyd ESC om te verlaat.">
