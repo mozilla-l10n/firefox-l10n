@@ -5,6 +5,7 @@
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Быстрый фильтр">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Панель быстрого фильтра">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "ы">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Панель быстрого фильтра">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Включить/выключить панель быстрого фильтра">
 <!ENTITY quickFilterBar.sticky.tooltip "Держать фильтры применёнными при переключении папок">
 <!ENTITY quickFilterBar.barLabel.label "Быстрый фильтр:">

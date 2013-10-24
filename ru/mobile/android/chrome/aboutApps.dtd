@@ -4,8 +4,6 @@
 
 <!ENTITY aboutApps.title2 "Приложения">
 <!ENTITY aboutApps.header "Мои приложения">
-<!ENTITY aboutApps.noApps.pre "Ни одного веб-приложения не установлено. Вы можете установить их из ">
-<!ENTITY aboutApps.noApps.middle3 "магазина Firefox">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Обзор магазина Firefox">
 <!ENTITY aboutApps.uninstall "Удалить">
 <!ENTITY aboutApps.addToHomescreen "Добавить на домашний экран">

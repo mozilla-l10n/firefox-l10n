@@ -7,6 +7,7 @@
 <!ENTITY debuggerUI.blackBoxMessage.label "Этот исходник помещён в чёрный ящик: его точки останова отключены, а пошаговое выполнение его пропускает.">
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Вынуть этот исходник из чёрного ящика">
 <!ENTITY debuggerUI.optsButton.tooltip "Настройки отладчика">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Поместить или вынуть из черного ящика">
 <!ENTITY debuggerUI.sources.prettyPrint "«Красивые» исходники">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
