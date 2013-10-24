@@ -531,7 +531,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
-<!ENTITY appmenuQFBMenu.label "Панель быстрого фильтра">
 <!ENTITY appmenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appmenuSelectThread.label "Выбрать обсуждение">
 <!ENTITY appmenuSelectFlagged.label "Выбрать сообщения со звёздочкой">
