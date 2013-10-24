@@ -6,7 +6,6 @@
 <!ENTITY error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY history_title "Cronologia">
-<!ENTITY home_bookmarks_empty "In questa sezione verranno visualizzati i segnalibri salvati.">
 <!ENTITY reading_list_title "Elenco lettura">
 <!ENTITY switch_to_tab "Passa alla scheda">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
@@ -207,6 +206,7 @@
 <!ENTITY home_top_sites_title "Siti principali">
 <!ENTITY home_top_sites_add "Aggiungi un sito">
 <!ENTITY home_history_title "Cronologia">
+<!ENTITY home_bookmarks_empty "In questa sezione verranno visualizzati i segnalibri salvati.">
 <!ENTITY home_last_tabs_title "Schede dall’ultima esecuzione">
 <!ENTITY home_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY home_last_tabs_empty "In questa sezione verranno visualizzate le schede recenti.">
