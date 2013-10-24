@@ -7,17 +7,17 @@
 <!ENTITY startupPage.label         "जब &brandShortName; आरंभ होता है: (s)">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "मेरा होम पेज दिखाएँ">
-<!ENTITY startupBlankPage.label    "एक खाली पेज दिखाएँ">
-<!ENTITY startupLastSession.label  "अंतिम बार से मेरा विंडो और टैब दिखाएँ">
+<!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
+<!ENTITY startupLastSession.label  "पिछले समय से मेरा विंडो और टैब दिखाएँ ">
 
-<!ENTITY homepage.label            "पहला पन्ना: (P)">
+<!ENTITY homepage.label            "मुख्य पृष्ठ: (P)">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "मौजूदा पृष्ठ का प्रयोग करें (C)">
+<!ENTITY useCurrentPage.label      "मौजूदा पृष्ठ का उपयोग करें (C)">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "मौजूदा पृष्ठ का प्रयोग करें">
-<!ENTITY chooseBookmark.label      "पुस्तचिह्न का प्रयोग करें… (B)">
+<!ENTITY useMultiple.label         "मौजूदा पृष्ठों का उपयोग करें">
+<!ENTITY chooseBookmark.label      "पुस्तचिह्न का उपयोग करें… (B)">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "तयशुदा में फिर जमा करें (R)">
+<!ENTITY restoreDefault.label      "डिफ़ॉल्ट पुनर्स्थापित करें (R)">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "डाउनलोड">

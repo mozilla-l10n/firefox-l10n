@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; मदद">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "सहयुक्तियों के साथ फिर आरंभ करना निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
 

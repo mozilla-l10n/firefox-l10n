@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "अनुप्रयोग प्रबंधक">
+<!ENTITY index.projects2 "अनुप्रयोग">
+<!ENTITY index.device2 "युक्ति">
+<!ENTITY index.help "सहायता">
+
+<!ENTITY device.screenshot "स्क्रीनशॉट">
+<!ENTITY device.screenshotTooltip "एक नए टैब में युक्ति की वर्तमान स्थिति का स्क्रीनशॉट खोलें.">
+<!ENTITY device.title "युक्ति नियंत्रण केंद्र">
+<!ENTITY device.notConnected "जुड़ा हुआ नहीं हैं. कृपया अपनी डिवाइस को नीचे जोड़ें.">
+<!ENTITY device.startApp "शुरू">
+<!ENTITY device.startAppTooltip "युक्ति पर इस अनुप्रयोग को चालू करें.">
+<!ENTITY device.stopApp "Stop">
+<!ENTITY device.stopAppTooltip "युक्ति पर इस अनुप्रयोग को बंद करें.">
+<!ENTITY device.debugApp "दोषसुधार">
+<!ENTITY device.debugAppTooltip "युक्ति पर इस अनुप्रयोग से जुड़े डेवलपर उपकरण को खोलें.">
+<!ENTITY device.name "नाम">
+<!ENTITY device.app "अनुप्रयोग">
+<!ENTITY device.privileged "विशेषाधिकृत">
+<!ENTITY device.certified "प्रमाणित">
+<!ENTITY device.allow "स्वीकारें">
+<!ENTITY device.allowTooltip "इस प्रकार के अनुप्रयोग के लिए यह अनुमति दी हुई है.">
+<!ENTITY device.prompt "प्रांप्ट करें">
+<!ENTITY device.promptTooltip "इस प्रकार के अनुप्रयोग को यह अनुमति देने के लिए एक उपयोगकर्ता की शीघ्र आवश्यकता है.">
+<!ENTITY device.deny "मना करें">
+<!ENTITY device.denyTooltip " इस प्रकार की अनुप्रयोग के लिए यह अनुमति नहीं दिया गया हैं.">
+<!ENTITY device.installedApps "एप्प संस्थापित करें">
+
+<!ENTITY device.permissions "अनुमति">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "सहेजें">
+
+<!ENTITY connection.connecting "कनेक्ट कर रहा है…">
+
+<!ENTITY connection.cancel "रद्द करें">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

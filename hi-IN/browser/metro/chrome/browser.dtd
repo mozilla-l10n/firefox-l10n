@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "खोलें">
+<!ENTITY downloadCancel.label      "रद्द करें">
+
+<!ENTITY downloadResume.label      "फिर बहाल करें">
+<!ENTITY downloadRetry.label       "फिर कोशिश करें">
+<!ENTITY downloadRemove.label      "हटाएँ">
+
+<!ENTITY downloadFailed.label      "विफल">
+
+
+<!ENTITY consoleAll.label          "सभी">
+<!ENTITY consoleErrors.label       "त्रुटि">
+<!ENTITY consoleWarnings.label     "चेतावनी">
+
+
+<!ENTITY consoleClear.label        "साफ  करें ">
+
+<!ENTITY consoleErrFile.label      "स्रोत फ़ाइलः">
+<!ENTITY consoleErrLine.label      "पंक्ति:">
+<!ENTITY consoleErrColumn.label    "स्तम्भः">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "काटें">
+<!ENTITY contextTextCopy.label             "नक़ल करें">
+<!ENTITY contextTextPaste.label            "चिपकाएँ">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "चुनें">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
