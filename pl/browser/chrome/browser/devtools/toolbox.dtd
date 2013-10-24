@@ -18,6 +18,14 @@
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Ustawienia zaawansowane">
 
+<!ENTITY options.context.inspector "Inspektor">
+<!ENTITY options.defaultColorUnit.label "Domyślny model przestrzeni barw">
+<!ENTITY options.defaultColorUnit.accesskey "D">
+<!ENTITY options.defaultColorUnit.hex "Hex">
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+<!ENTITY options.defaultColorUnit.name "Nazwy kolorów">
+
 <!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
   -  restart label at right of settings that require a browser restart to be
   -  effective. -->
