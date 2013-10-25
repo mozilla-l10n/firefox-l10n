@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
+<!ENTITY tabs.otherDevices.label               "Hilpekînên cîhazên din">
+
 <!ENTITY tabs.searchText.label                   "Ji bo dîtina hilpekînan li virê binivîse…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->

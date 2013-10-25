@@ -20,12 +20,14 @@
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Kurteriyên klavyeyê">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
 
 <!ENTITY helpSafeMode.label       "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-
+<!ENTITY healthReport.label       "Rapora Tenduristiyê ya &brandShortName;ê">
+<!ENTITY healthReport.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">

@@ -53,7 +53,7 @@
 <!ENTITY  historyHeader.custom.label       "Ji bo mêjûyê mîhengên takekesî bi kar bîne">
 <!ENTITY  historyHeader.post.label         "Ji bo raboriyê eyarên takekesî bi kar bîne">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; dê mêjûya ger, daxistin, form û lêgerînê bi bîr bîne û çerezên malperên te vekirine hilîne.">
+<!ENTITY  rememberDescription.label      "&brandShortName; dê raboriya ger, jêbarkirin, form û lêgerînê bi bîr bîne û çerezên malperên serdankirî hilîne.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

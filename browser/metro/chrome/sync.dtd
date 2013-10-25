@@ -24,7 +24,7 @@
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Dîsa Biceribîne">
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "Girêdanê qut bike">
 
 
 

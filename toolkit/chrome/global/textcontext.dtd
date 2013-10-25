@@ -17,10 +17,10 @@
 
 <!ENTITY spellAddToDictionary.label "Têxe pelrêçê">
 <!ENTITY spellAddToDictionary.accesskey "T">
-
-
-
-
+<!ENTITY spellUndoAddToDictionary.label "Li ferhengê zêdekirinê vegerîne">
+<!ENTITY spellUndoAddToDictionary.accesskey "v">
+<!ENTITY spellCheckToggle.label "Kontrola rastnivîsê">
+<!ENTITY spellCheckToggle.accesskey "n">
 <!ENTITY spellNoSuggestions.label "(Tu kontrolkirinek nehat pêşniyarkirin)">
 <!ENTITY spellDictionaries.label "Zimên">
 <!ENTITY spellDictionaries.accesskey "Z">

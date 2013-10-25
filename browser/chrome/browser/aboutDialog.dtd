@@ -3,14 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Derbarê  &brandFullName;'ê de">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; ji bo ceribandinê ye û dibe ku ne hevgirtî be.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName;, ji bo ku em dikaribin gerokê baştir bikin, bi awayekî xweber agahiyên derbarê performans, reqalav, bikaranîn û şexsîkirinê de ji &vendorShortName;ê re dişîne.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       ", ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.exp.creditsLink  "komeke gerdûyî ye">
+<!ENTITY community.exp.end          " ku ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
 
 <!ENTITY community.start2           "Yê dîzayna &brandShortName;ê kiriye ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -18,7 +23,7 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komeke gerdûyî ye">
-
+<!ENTITY community.end3             " ku ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
 
 <!ENTITY contribute.start           "Bala te li dengan e? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -43,6 +48,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Rêveberiya pergala te rojanekirin neçalak kirine">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ji hêla kopiyeke xwe ve tê nûkirin">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -50,7 +56,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Rpjanekirin têk çû. ">
-<!ENTITY update.failed.linkText     "Guhertoya dawî daxe">
+<!ENTITY update.failed.linkText     "Versiyona dawiyê jêbar bike">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -66,6 +72,8 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
+<!ENTITY update.unsupported.start    "Tu nikarî li ser vê pergalê nûkirinan bi kar bînî. ">
+<!ENTITY update.unsupported.linkText "Zêdetir bizane">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -76,6 +84,7 @@
 <!ENTITY update.downloading.start   "Rojanekirin tê daxistin — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "Rojanekirin tê sepandin…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
