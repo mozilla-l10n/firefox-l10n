@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Uyumlu tasarım görünümü">
 <!ENTITY responsiveDesignTool.accesskey "U">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -256,8 +256,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Araçları aç/kapat">
 <!ENTITY devToolboxMenuItem.accesskey      "ç">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Geliştirici araçlarını açar/kapatır">
 <!ENTITY devToolbarOtherToolsButton.label  "Daha fazla araç">
@@ -646,9 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Sohbetlere odaklan">
 <!ENTITY social.chatBar.accesskey "b">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "S">
+<!ENTITY social.markpageMenu.label "Sayfayı buraya kaydet…">
+<!ENTITY social.marklinkMenu.accesskey "B">
+<!ENTITY social.marklinkMenu.label "Bağlantıyı buraya kaydet…">
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacak kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">

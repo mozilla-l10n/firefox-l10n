@@ -32,11 +32,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
 <!ENTITY doNotTrack.title                                        "Beni İzleme">
-
-
-
-
+<!ENTITY doNotTrack.desc                                         "Sitelere iletilecek tercihim:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "İzlenmek istemiyorum">
+<!ENTITY doNotTrack.options.noPreference                         "İzleme tercihlerimle ilgili bir şey iletme">
+<!ENTITY doNotTrack.options.trackingOkay                         "İzlenmek istiyorum">
 <!ENTITY optionsHeader.reporting.title                           "Çökme Habercisi">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;, Mozilla'nın tarayıcınızı daha kararlı ve güvenli hâle getirmesine yardımcı olmak için çökme raporlarını gönderir">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-
+<!ENTITY optionsHeader.telemetry.label                            "Tarayıcınızı iyileştirmemize yardımcı olmak için &brandShortName; kullanım istatistiklerini Mozilla ile paylaşır">

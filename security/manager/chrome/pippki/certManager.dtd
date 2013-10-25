@@ -44,9 +44,9 @@
 <!ENTITY certmgr.editcert.trustemail          "Bu onay belgesi posta kullanıcılarını tanımlayabilir.">
 <!ENTITY certmgr.editcert.trustobjsign        "Bu onay belgesi yazılımcıları tanımlayabilir.">
 <!ENTITY certmgr.editemailcert.title          "E-posta onay belgesi güvenlik ayarlarını düzenle">
-
-
-
+<!ENTITY certmgr.editemailcert.edittrust      "Onay belgesi güvenlik ayarlarını düzenle:">
+<!ENTITY certmgr.editemailcert.dotrust        "Bu onay belgesinin kimlik doğrulamasına güven.">
+<!ENTITY certmgr.editemailcert.donttrust      "Bu onay belgesinin kimlik doğrulamasına güvenme.">
 
 <!ENTITY certmgr.deletecert.title             "Onay belgesini Sil">
 <!ENTITY certmgr.deletecert.beforename        "Silmek istediğiniz onay belgesi:">
