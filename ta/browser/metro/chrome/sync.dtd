@@ -6,37 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "உங்கள் சாதனங்கள் அனைத்திலும் உள்ள உங்கள் புத்தகக்குறிகள், கடவுச்சொற்கள் மற்றும் திறந்துள்ள கீற்றுகள் ஆகியவற்றை அணுகுங்கள்">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; ஐ அமை">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; ஐ அமை">
+<!ENTITY sync.flyout.setup.description1        "உங்களிடம் &syncBrand.shortName.label; கணக்கு இருந்தால், உங்கள் சாதனத்தில் &quot;ஒரு சாதனத்தை சோடியாக்கு&quot; என்பதைத் தேர்ந்தெடுத்து இந்தக் குறியீட்டை உள்ளிடவும்.">
+<!ENTITY sync.flyout.setup.description2        "உங்களிடம் don&apos;t have a &syncBrand.shortName.label; கணக்கு இல்லாவிட்டால், உங்கள் &brandShortName; பணித்திரை உலாவியில் நீங்கள் ஒரு கணக்கை உருவாக்கலாம்.">
+<!ENTITY sync.flyout.setup.manual.label_2      "நான் எனது கணினியருகில் இல்லை...">
+<!ENTITY sync.flyout.setup.description3        "குறிப்பு:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;ஒரு சாதனத்தை சோடியாக்கு&quot; என்பதைக் கண்டறிய,">
+<!ENTITY sync.flyout.setup.description5_2      "[கணினி] &quot;விருப்பங்கள்&quot; அல்லது &quot;முன்னுரிமைகள்&quot; என்பதைத் திறந்து &quot;&syncBrand.shortName.label;&quot; என்பதைத் தேர்ந்தெடுக்கவும்">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] மேலும் &gt; அமைவுகள் &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "உங்கள் &syncBrand.shortName.label; கணக்கு தகவலையும் உங்கள் கணினி உருவாக்கிய மீட்பு விசையையும் உள்ளிடவும்">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "கணக்கின் பெயர்">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "கடவுச்சொல்">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "மீட்பு விசை">
 <!ENTITY sync.flyout.manualsetup.connect.label           "இணை">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "நீங்கள் &brandShortName; ஐ &syncBrand.shortName.label; கணக்குடன் இணைத்துள்ளீர்கள்">
+<!ENTITY sync.flyout.setupsuccess.description2      "உங்கள் &syncBrand.shortName.label; தரவு இப்போது பின்புலத்தில் பதிவிறக்கப்படுகிறது. உங்கள் ஒத்திசைக்கப்பட்ட கீற்றுகளை &brandShortName; தொடக்கப் பக்கத்தில் காணலாம்">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "உங்கள் &syncBrand.shortName.label; கணக்குடன் &brandShortName; ஆல் இணைக்க முடியவில்லை.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "ரத்துசெய்">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "மீண்டும் முயற்சிக்கவும்">
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "கணக்கு:">
+<!ENTITY sync.flyout.connected.device                     "உங்கள் சாதனம்:">
 <!ENTITY sync.flyout.connected.disconnect                 "துண்டி">
-
-
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; இலிருந்து உங்கள் சாதனத்தை இணைப்பு துண்டிக்க வேண்டுமா?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "இந்த சாதனத்திலும் உங்கள் &syncBrand.shortName.label; கணக்கிலும் உள்ள அனைத்து தனிப்பட்ட தகவல்களும் எதுவும் ஆகாமல் அப்படியே இருக்கும்.">
+<!ENTITY sync.flyout.connected.cancel                     "ரத்துசெய்">
 <!ENTITY sync.flyout.connected.pair                       "ஒரு சாதனத்தை இணைக்க">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "நீங்கள் சோடியாக்க விரும்பும் புதிய சாதனத்தில் &quot;&syncBrand.shortName.label; ஐ அமை&quot; என்பதைத் தேந்தெடுத்து சாதனம் உருவாக்கும் குறியீட்டை உள்ளிடவும்">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "சோடியாக்கு">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "குறிப்பு:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "குறியீட்டைக் கண்டறிய,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[கணினி]  &quot;விருப்பங்கள்&quot; அல்லது &quot;முன்னுரிமைகள்&quot; என்பதைத் திறந்து, செயல்முறையைப் பின்பற்றவும்: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; ஐ அமை -&gt;எனக்கு கணக்கு உள்ளது">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] மேலும் &gt; அமைவுகள் &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "பிறகு முயற்சிக்கவும்">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "புதிய சாதனம் வெற்றிகரமாக சேர்க்கப்பட்டது">
+<!ENTITY sync.flyout.pairSuccess.description2             "உங்கள் &syncBrand.shortName.label; தரவு இப்போது பின்புலத்தில் பதிவிறக்கப்படுகிறது. &brandShortName; தொடக்கப்பக்கத்தில் உங்கள் தொலைநிலை கீற்றுகளைக் காணலாம்.">

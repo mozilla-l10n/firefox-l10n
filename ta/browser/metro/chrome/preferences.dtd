@@ -4,34 +4,39 @@
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "விருப்பங்கள்">
 <!ENTITY optionsHeader.startup.title                             "துவக்கம்">
-
-
-
+<!ENTITY optionsHeader.homepage.title                            "&brandShortName; தொடங்கும்போது, காண்பிக்கவும்">
+<!ENTITY optionsHeader.homepage.startPage.button                 "தொடக்கப் பக்கம்">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "கடந்த முறையிலிருந்து கீற்றுகள்">
 <!ENTITY optionsHeader.char.title                                "எழுத்து குறிமுறை">
+<!ENTITY optionsHeader.char.autodetect.label                     "தானியங்கு-கண்டுபிடிப்பு">
+<!ENTITY optionsHeader.char.options.label                        "குறியாக்க விருப்பங்களை பயன்பாட்டுப் பட்டியில் காண்பி">
 
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "தனிப்பட்ட தரவை அழி">
+<!ENTITY clearPrivateData.label                                  "இந்த சாதனத்திலுள்ள உங்கள் உலாவல் வரலாறு, கடவுச்சொற்கள், குக்கீகள், படிவத் தரவு ஆகியவற்றை அழிக்கவும்">
+<!ENTITY clearPrivateData.button                                 "அழி">
+<!ENTITY clearPrivateData.done                                   "முடிந்தது!">
+<!ENTITY clearPrivateData.history                                "உலாவல் வரலாறு">
+<!ENTITY clearPrivateData.otherdata                              "மற்ற தரவு (கடவுச்சொற்கள், தேக்ககம், குக்கீகள் போன்றவை)">
+<!ENTITY clearPrivateData.downloadHist                           "பதிவிறக்க வரலாறு">
 <!ENTITY clearPrivateData.cookies                                "குக்கீகள்">
+<!ENTITY clearPrivateData.cache                                  "தேக்ககம்">
+<!ENTITY clearPrivateData.sitePref                               "தள முன்னுரிமைகள்">
+<!ENTITY clearPrivateData.formSearchHist                         "படிவம் மற்றும் தேடல் வரலாறு">
+<!ENTITY clearPrivateData.passwords                              "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
+<!ENTITY clearPrivateData.offline                                "ஆஃப்லைன் வலைத்தளத் தரவு">
+<!ENTITY clearPrivateData.logins                                 "செயலில் உள்ள புகுபதிவுகள்">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "கடவுச்சொற்களை நினைவு கொள்">
+<!ENTITY doNotTrack.title                                        "தடமறிய வேண்டாம்">
+<!ENTITY doNotTrack.desc                                         "தளங்களைக் கூறவும்:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "என்னைத் தடமறிவதை விரும்பவில்லை">
+<!ENTITY doNotTrack.options.noPreference                         "என் தடமறிதல் முன்னுரிமைகள் பற்றி எதுவும் இல்லை">
+<!ENTITY doNotTrack.options.trackingOkay                         "என்னைத் தடமறிவதை விரும்புகிறேன்">
 <!ENTITY optionsHeader.reporting.title                           "செயலிழப்பு அறிக்கையாளர்">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   " Mozilla உங்கள் உலாவியை மேலும் நிலைத்தன்மை கொண்டதாகவும் பாதுகாப்பானதாகவும் மாற்றுவதற்காக &brandShortName; செயலிழப்பு அறிக்கைகளை சமர்ப்பிக்கும்">
 <!ENTITY optionsHeader.telemetry.title                            "டெலிமெட்ரி">
-
+<!ENTITY optionsHeader.telemetry.label                            "உங்கள் உலாவியை இன்னும் சிறப்பாக்க உதவ &brandShortName; பற்றிய பயனீட்டு புள்ளிவிவரங்களை Mozilla வுடன் பகிரும்">
