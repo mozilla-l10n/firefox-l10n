@@ -5,25 +5,29 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Бетбелгілер, парольдер мен ашық беттерге барлық құрылғыларыңыздан қатынаңыз">
 <!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; баптау">
 <!-- Flyout when setting up sync -->
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; баптау">
-
-
+<!ENTITY sync.flyout.setup.description1        "Егер сізде &syncBrand.shortName.label; тіркелгісі бар болса, басқа құрылғыңызда &quot;Құрылғыны жұптау&quot; таңдап, бұл кодты енгізіңіз.">
+<!ENTITY sync.flyout.setup.description2        "Егер сізде &syncBrand.shortName.label; тіркелгісі жоқ болса, оны жұмыс үстелі үшін &brandShortName; нұсқасында жасай аласыз.">
 <!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m менің компьютерім қасында емес…">
-
-
-
-
+<!ENTITY sync.flyout.setup.description3        "Ескерту:">
+<!ENTITY sync.flyout.setup.description4_2      "Табу үшін &quot;Құрылғыны жұптау&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Жұмыс үстелі] &quot;Опциялар&quot; не &quot;Баптаулар&quot; ашып, &quot;&syncBrand.shortName.label;&quot; таңдаңыз">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Көбірек &gt; Баптаулар &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
 <!ENTITY sync.flyout.manualsetup.description1_2  "Сіздің &syncBrand.shortName.label; тіркелгі туралы ақпаратты және компьютеріңізбен жасалған қалпына келтіру кілтін еңгізіңіз">
-
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Тіркелгі аты">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Қалпына келтіру кілті">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Байланысу">
 <!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Сіз &brandShortName; өнімін &syncBrand.shortName.label; тіркелгісіне байланыстырдыңыз">
 <!ENTITY sync.flyout.setupsuccess.description2      "Сіздің &syncBrand.shortName.label; мәліметтері қазір фон үрдісімен жүктелуде. Сіздің синхрондалған беттерді &brandShortName; іске қосылу бетте табуға болады.">
 <!-- Flyout when setup failed -->
 
@@ -41,10 +45,12 @@
 <!ENTITY sync.flyout.connected.pair                       "Құрылғыны жұптау">
 <!-- Flyout when pairing a device -->
 
+<!ENTITY sync.flyout.pairNewDevice.description            "Сіз жұптаймын деген басқа құрылғыңызда &quot;&syncBrand.shortName.label; баптау&quot; таңдап, құрылғы көрсеткен кодты енгізіңіз">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Жұптау">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Ескерім:">
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Кодты табу үшін,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Жұмыс үстелі] &quot;Опциялар&quot; не &quot;Баптаулар&quot; ашып, келесіні таңдаңыз: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; баптау -&gt; Менде тіркелгім бар">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Көбірек &gt; Баптаулар &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Қайталап көріңіз">
 <!-- Flyout when a device has been successfully paired -->
 
