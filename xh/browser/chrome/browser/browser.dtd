@@ -64,8 +64,8 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY openFileCmd.label "Vula ifayile…">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Ukusetwa kwephepha…">
-<!ENTITY printSetupCmd.accesskey "t">
+<!ENTITY printSetupCmd.label "Ukuseta Kwephepha…">
+<!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Imbonakalo yangaphambi kokuprinta">
 <!ENTITY printPreviewCmd.accesskey "m">
 <!ENTITY printCmd.label "Printa…">
@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
-<!ENTITY devToolboxMenuItem.accesskey      "z">
+<!ENTITY devToolboxMenuItem.accesskey      "I">
 <!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
@@ -263,13 +263,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarOtherToolsButton.label  "Izixhobo ezingaphezulu">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Fumana izixhobo ezingaphezulu">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "e">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "i">
 
-<!ENTITY fileMenu.label         "Ifayile"> 
+<!ENTITY fileMenu.label         "Ifayili"> 
 <!ENTITY fileMenu.accesskey       "I">
 <!ENTITY newNavigatorCmd.label        "Ifestile entsha">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "e">
+<!ENTITY newNavigatorCmd.accesskey      "I">
 <!ENTITY newPrivateWindow.label     "Ifestile yangasese entsha">
 <!ENTITY newPrivateWindow.accesskey "I">
 
@@ -278,9 +278,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Lungisa okwenzileyo">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "L"> 
-<!ENTITY redoCmd.label            "Yenza kwakhona">  
+<!ENTITY redoCmd.label            "Phinda wenze">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Y"> 
+<!ENTITY redoCmd.accesskey          "P"> 
 <!ENTITY cutCmd.label           "Sika">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "N"> 
 <!ENTITY deleteCmd.label          "Cima">  
-<!ENTITY deleteCmd.key            "U">  
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "C"> 
 <!ENTITY selectAllCmd.label         "Khetha Konke">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -367,25 +367,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "k">
 <!ENTITY openLinkCmdInCurrent.label     "Vula ikhonkco">
 <!ENTITY openLinkCmdInCurrent.accesskey "V">
-<!ENTITY openFrameCmdInTab.label      "Vula ifreyim kwithebhu entsha">
+<!ENTITY openFrameCmdInTab.label      "Vula isakhelo kwithebhu entsha">
 <!ENTITY openFrameCmdInTab.accesskey  "k">
-<!ENTITY openFrameCmd.label           "Vula ifreyim kwifestile entsha">
+<!ENTITY openFrameCmd.label           "Vula isakhelo kwifestile entsha">
 <!ENTITY openFrameCmd.accesskey       "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Bonisa Esi Sakhelo Kuphela">
 <!ENTITY showOnlyThisFrameCmd.accesskey "B">
-<!ENTITY reloadCmd.commandkey         "z">
-<!ENTITY reloadFrameCmd.label         "Layisha kwakhona ifreyim">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Layisha kwakhona isakhelo">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Jonga umthombo wokhetho">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Jonga umthombo we-MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Jonga umthombo wekhasi">
+<!ENTITY viewPageSourceCmd.label      "Jonga umthombo wephepha">
 <!ENTITY viewPageSourceCmd.accesskey  "J">
 <!ENTITY viewFrameSourceCmd.label     "Jonga umthombo wefreyim">
 <!ENTITY viewFrameSourceCmd.accesskey "J">
-<!ENTITY viewPageInfoCmd.label        "Jonga Inkcazelo yekhasi">
+<!ENTITY viewPageInfoCmd.label        "Jonga Inkcazelo yephepha">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Jonga Inkcazelo yefreyim">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
@@ -403,46 +403,46 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Seta Njengokungasemva eskrinini…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Faka Isalathisi Esiphawulayo Kweli Khasi">
-<!ENTITY bookmarkPageCmd2.accesskey   "t">
-<!ENTITY bookmarkThisLinkCmd.label      "Faka Isalathisi Esiphawulayo Kolu Nxulumaniso">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "N">
-<!ENTITY bookmarkThisFrameCmd.label      "Phawula ngokubalulekileyo Esi Sakhelo">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "u">
+<!ENTITY bookmarkPageCmd2.label       "Faka Ibhukhmakhi Kweli Phepha">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Faka Ibhukhmakhi Kweli Khonkco">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "K">
+<!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Ikhonkco leimeyile…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gcina iphepha njenge…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "p">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Gcina ifreyim njenge…">
-<!ENTITY saveFrameCmd.accesskey       "i">
+<!ENTITY saveFrameCmd.label           "Gcina Isakhelo njenge…">
+<!ENTITY saveFrameCmd.accesskey       "I">
 <!ENTITY printFrameCmd.label          "Printa iSakhelo…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Gcina ikhonkco njenge…">
 <!ENTITY saveLinkCmd.accesskey        "c">
-<!ENTITY saveImageCmd.label           "Gcina umfuziselo njenge…">
+<!ENTITY saveImageCmd.label           "Gcina umfanekiso njenge…">
 <!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Gcina ividiyo njenge…">
 <!ENTITY saveVideoCmd.accesskey       "i">
 <!ENTITY saveAudioCmd.label           "Gcina okunesandi njenge…">
 <!ENTITY saveAudioCmd.accesskey       "n">
-<!ENTITY emailImageCmd.label          "Umfuziselo weimeyile…">
-<!ENTITY emailImageCmd.accesskey      "s">
-<!ENTITY emailVideoCmd.label          "Imeyila ividiyo…">
+<!ENTITY emailImageCmd.label          "Thumela Umfanekiso ngeimeyile…">
+<!ENTITY emailImageCmd.accesskey      "k">
+<!ENTITY emailVideoCmd.label          "Thumela Ividiyo ngeimeyile…">
 <!ENTITY emailVideoCmd.accesskey      "e">
-<!ENTITY emailAudioCmd.label          "Imeyila okunesandi…">
-<!ENTITY emailAudioCmd.accesskey      "o">
+<!ENTITY emailAudioCmd.label          "Thumela isandi ngeimeyile…">
+<!ENTITY emailAudioCmd.accesskey      "i">
 <!ENTITY playPluginCmd.label          "Vuselela le softwe incedisayo">
 <!ENTITY playPluginCmd.accesskey      "u">
-<!ENTITY hidePluginCmd.label          "Fihla le softwe incedisayo">
+<!ENTITY hidePluginCmd.label          "Fihla esi sifakelo">
 <!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Kopa iNdawo yeKhonkco">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Kopa indawo yomfuziselo">
+<!ENTITY copyImageCmd.label           "Kopa indawo yomfanekiso">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopa umfuziselo">
+<!ENTITY copyImageContentsCmd.label   "Kopa umfanekiso">
 <!ENTITY copyImageContentsCmd.accesskey  "a"> 
 <!ENTITY copyVideoURLCmd.label        "Kopa iNdawo yeVidiyo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
@@ -450,8 +450,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Kopa idilesi yeimeyile">
 <!ENTITY copyEmailCmd.accesskey       "y">
-<!ENTITY thisFrameMenu.label              "Le freyim">
-<!ENTITY thisFrameMenu.accesskey          "e">
+<!ENTITY thisFrameMenu.label              "Esi Sakhelo">
+<!ENTITY thisFrameMenu.accesskey          "s">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -459,8 +459,8 @@ items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Dlala">
 <!ENTITY mediaPlay.accesskey         "D">
-<!ENTITY mediaPause.label            "Isiqabu">
-<!ENTITY mediaPause.accesskey        "I">
+<!ENTITY mediaPause.label            "Nqumama">
+<!ENTITY mediaPause.accesskey        "N">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -548,16 +548,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
-<!ENTITY pageStyleMenu.label "Isimbo sekhasi">
+<!ENTITY pageStyleMenu.label "Isimbo sephepha">
 <!ENTITY pageStyleMenu.accesskey "m">
 <!ENTITY pageStyleNoStyle.label "Akukho simbo">
 <!ENTITY pageStyleNoStyle.accesskey "A">
-<!ENTITY pageStylePersistentOnly.label "Isimbo sekhasi esisisiseko">
+<!ENTITY pageStylePersistentOnly.label "Isimbo sephepha esisisiseko">
 <!ENTITY pageStylePersistentOnly.accesskey "e">
 
 <!ENTITY pageReportIcon.tooltip            "Tshintsa iisetingi zesithinteli esizivelelayo zale webhusayithi">
 
-<!ENTITY allowPopups.accesskey "P">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -632,7 +632,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.addons.label "Lawula Iinkonzo…">
 
-<!ENTITY social.toggleNotifications.label "Bonisa izaziso zedesktop">
+<!ENTITY social.toggleNotifications.label "Bonisa izaziso zedesktopu">
 <!ENTITY social.toggleNotifications.accesskey "i">
 
 <!ENTITY social.activated.description "Iinkonzo ze-<label/> zenziwe zasebenza. Ungatshintsha iisetingi zakho zeenkonzo kwi <label class='text-link'>Isongezelelo kuMphathi</label>.">
@@ -668,9 +668,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.showAll.accesskey "B">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Vumela ngoku">
-<!ENTITY pluginActivateAlways.label "Vumela yaye ukhumbule">
-<!ENTITY pluginBlockNow.label "Vala izifakelo">
+<!ENTITY pluginActivateNow.label "Avunyelwanga">
+<!ENTITY pluginActivateAlways.label "Yivumele Uyikhumbule">
+<!ENTITY pluginBlockNow.label "Vala Isifakelo">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -698,7 +698,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY feedButton.label              "Rhuma">
 <!ENTITY feedButton.tooltip            "Rhuma kweli phepha…">
 <!ENTITY bookmarksButton.tooltip       "Bonisa iibhukhmakhi zakho">
-<!ENTITY historyButton.tooltip         "Bonisa amakhasi owajonge kutshanje">
+<!ENTITY historyButton.tooltip         "Bonisa amaphepha owajonge kutshanje">
 <!ENTITY viewTabsOnTop.label           "Iithebhu ezisemantla">
 <!ENTITY viewTabsOnTop.accesskey       "I">
 <!ENTITY appMenuEdit.label             "Hlela">
@@ -708,12 +708,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuUnsorted.label         "Iibhukhmakhi ezingalandelelaniswanga">
 <!ENTITY appMenuWebDeveloper.label     "Umphuhlisi wewebhu">
 <!ENTITY appMenuGettingStarted.label   "Qalisa">
-<!ENTITY appMenuSafeMode.label         "Qalisa kwakhona ngezongezelelo eziqhwalelisiweyo…">
+<!ENTITY appMenuSafeMode.label         "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY appMenuSafeMode.accesskey     "Q">
 <!ENTITY cutButton.tooltip             "Sika">
 <!ENTITY copyButton.tooltip            "Kopa">
 <!ENTITY pasteButton.tooltip           "Ncamathelisa">
-<!ENTITY zoomOutButton.tooltip         "Sondeza kudana">
+<!ENTITY zoomOutButton.tooltip         "Bhekelisela kudana">
 <!ENTITY zoomInButton.tooltip          "Sondeza kufuphi">
 <!ENTITY zoomControls.label            "Yandisa/nciphisa izixhobo zolawulo">
 <!ENTITY addonBarCloseButton.tooltip   "Vala ibha yezongezelelo">

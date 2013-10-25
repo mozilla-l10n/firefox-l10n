@@ -9,8 +9,8 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Ukudibanisa okungathembekanga">
-<!ENTITY certerror.longpagetitle "Oku kudibanisa akuthembekanga">
+<!ENTITY certerror.pagetitle  "Unxibelelwano olungathembekanga">
+<!ENTITY certerror.longpagetitle "Olu nxibelelwano aluthembekanga">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -21,7 +21,7 @@ gokungaqinanga kwi<b>#1</b>, kodwa asingeqinisekisi ukuba ukudibanisa kwakho kuq
 <!ENTITY certerror.whatShouldIDo.heading "Kufanele ndenze ntoni?">
 <!ENTITY certerror.whatShouldIDo.content "Ukuba udla ngokudibanisa 
 kule sayithi ngaphandle kwengxaki, le mposiso ingathetha ukuba mntu uthile 
- uzama ukuzenza umnini-sayithi, kufuneka ungaqhubi.">
+uzama ukuzenza umnini-sayithi, kufuneka ungaqhubi.">
 <!ENTITY certerror.getMeOutOfHere.label "Ndikhuphe apha!">
 
 <!ENTITY certerror.expert.heading "Ndiyayiqonda imingcipheko">

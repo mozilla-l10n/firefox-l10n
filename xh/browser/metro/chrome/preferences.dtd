@@ -22,8 +22,8 @@
 <!ENTITY clearPrivateData.history                                "Imbali yokubhrawuza">
 <!ENTITY clearPrivateData.otherdata                              "Enye ingcombolo (iipasiwedi, ikhatshe, iikhuki, njl.)">
 <!ENTITY clearPrivateData.downloadHist                           "Khuphela imbali">
-<!ENTITY clearPrivateData.cookies                                "Ii-Cookies">
-<!ENTITY clearPrivateData.cache                                  "Uvimba wethutyana">
+<!ENTITY clearPrivateData.cookies                                "Iikhukhi">
+<!ENTITY clearPrivateData.cache                                  "Ikhatshe">
 <!ENTITY clearPrivateData.sitePref                               "Iipriferensi zesayithi">
 <!ENTITY clearPrivateData.formSearchHist                         "Fomu &amp; imbali yokukhangela">
 <!ENTITY clearPrivateData.passwords                              "Iipasiwedi ezigciniweyo">
