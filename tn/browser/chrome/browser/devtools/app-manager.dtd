@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+<!ENTITY device.stopApp "Emisa">
+
+
+
+<!ENTITY device.name "Leina">
+
+
+
+<!ENTITY device.allow "Letlelela">
+
+<!ENTITY device.prompt "Rotloetsa">
+
+<!ENTITY device.deny "Ganela">
+
+
+
+<!ENTITY device.permissions "Ditetla">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "Boloka">
+
+
+
+<!ENTITY connection.cancel "Khansela">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY help.close "Tswala">
+
+
+
+
+
+
+

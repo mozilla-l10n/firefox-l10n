@@ -218,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
 <!ENTITY devToolbar.keytext                "F2">
 
 
@@ -564,7 +566,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- labels are set dynamically, see browser.properties -->
+
+
+
 
 
 
@@ -578,6 +582,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+
 
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're

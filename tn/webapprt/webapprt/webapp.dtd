@@ -21,7 +21,7 @@
 
 
 
-
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
 <!ENTITY editMenu.label                     "Tseleganya">
 <!ENTITY editMenu.accesskey                 "T">
