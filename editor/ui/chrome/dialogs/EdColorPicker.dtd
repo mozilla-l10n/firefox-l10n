@@ -18,5 +18,5 @@
 <!ENTITY background.accessKey "z">
 <!ENTITY table.label "Tablica">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Ćelija/e">
-<!ENTITY cell.accessKey "Ć">
+<!ENTITY cell.label "Ćelija(e)">
+<!ENTITY cell.accessKey "e">
