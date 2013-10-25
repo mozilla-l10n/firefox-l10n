@@ -34,7 +34,7 @@
 <!ENTITY downloadDictionaries.label           "Diğer sözlükleri indir">
 
 <!ENTITY warnOnSendAccelKey.label             "İleti göndermek için klavye kısayolu kullanıldığında onay iste">
-<!ENTITY warnOnSendAccelKey.accesskey         "K">
+<!ENTITY warnOnSendAccelKey.accesskey         "k">
 <!ENTITY autoSave.label                       "Her ">
 <!ENTITY autoSave.accesskey                   "e">
 <!ENTITY autoSaveEnd.label                    "dakikada bir kaydet">
@@ -59,4 +59,3 @@
 <!ENTITY attachmentReminder.accesskey          "d">
 <!ENTITY attachmentReminderOptions.label       "Anahtar kelimeler…">
 <!ENTITY attachmentReminderOptions.accesskey   "A">
-

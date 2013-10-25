@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Blok">
 <!ENTITY cellInheritColor.label           "(Tablo rengi geçirgen olsun)">
 <!ENTITY cellUseCheckboxHelp.label        "Tüm seçilen hücrelere hangi özelliklerin uygulanacağını belirlemek için onay kutularını kullanın">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Boyut">
 <!ENTITY pixels.label                     "piksel">
 <!ENTITY backgroundColor.label            "Arka plan rengi:">
@@ -73,4 +73,3 @@
 <!ENTITY AlignLeft.label                  "Sol">
 <!ENTITY AlignCenter.label                "Orta">
 <!ENTITY AlignRight.label                 "Sağ">
-

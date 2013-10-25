@@ -21,6 +21,8 @@
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
+
+
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
 <!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
@@ -31,4 +33,3 @@
 <!ENTITY customsound.accesskey            "s">
 <!ENTITY browse.label                     "Gözat…">
 <!ENTITY browse.accesskey                 "G">
-

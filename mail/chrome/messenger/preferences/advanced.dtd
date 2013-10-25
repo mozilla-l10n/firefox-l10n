@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Güncelleme">
 <!ENTITY itemNetworking.label    "Ağ ve disk alanı">
 <!ENTITY itemCertificates.label  "Onay belgeleri">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Performans verilerini gönder">
 <!ENTITY submitTelemetry.accesskey     "P">
@@ -35,8 +35,8 @@
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını yapın">
 <!ENTITY showReturnReceipts.label      "Alındı onayları…">
 <!ENTITY showReturnReceipts.accesskey  "A">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Okuma">
 <!ENTITY display.caption               "Görünüm">
 <!ENTITY showCondensedAddresses.label  "Adres defterimdeki kişilerin sadece ekran ismini göster">
@@ -61,8 +61,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "c">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Taşınınca veya silinince ileti penceresini/sekmesini kapat">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Güncellemeleri düzenli olarak denetle:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
@@ -74,14 +74,14 @@
 <!ENTITY modeAutomatic.label            "Güncellemeyi otomatik olarak indir ve kur">
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
-<!ENTITY modeAutoAddonWarn.accesskey    "b">
+<!ENTITY modeAutoAddonWarn.accesskey    "B">
 <!ENTITY showUpdates.label              "Güncelleme geçmişini göster">
 <!ENTITY showUpdates.accesskey          "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "G">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Ayarlar…">
 <!ENTITY showSettings.accesskey        "A">
 <!ENTITY proxiesConfigure.label        "&brandShortName; internet bağlantısını yapılandır">
@@ -95,20 +95,20 @@
 <!ENTITY offlineCompactFolders.label     "Toplam">
 <!ENTITY offlineCompactFolders.accesskey "o">
 <!ENTITY offlineCompactFoldersMB.label   "MB kazanılabileceği zaman tüm dizinleri sıkıştır">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Önbellek için en fazla">
 <!ENTITY useCacheBefore.accesskey        "b">
 <!ENTITY useCacheAfter.label             "MB kullan">
 <!ENTITY clearCacheNow.label             "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey         "t">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto                      "Birini otomatik olarak seç">
 <!ENTITY certs.auto.accesskey            "m">
@@ -117,10 +117,7 @@
 
 <!ENTITY viewCertificates.label         "Onay belgelerini göster">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Hükümsüz sayılanlar listesi">
-<!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY validation.label               "Doğrulama">
 <!ENTITY validation.accesskey           "D">
 <!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
 <!ENTITY viewSecurityDevices.accesskey  "G">
-

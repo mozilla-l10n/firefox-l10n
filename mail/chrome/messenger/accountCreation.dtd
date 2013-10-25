@@ -86,4 +86,3 @@
 <!ENTITY insecureUnencrypted.description "E-postanız ve yetkilendirme bilgileriniz şifrelenmemiş olarak gönderiliyor, bu yüzden parolanız (ve iletiniz) kolaylıkla başkaları tarafından okunabilir. &brandShortName; e-postalarınıza erişmenize izin verecektir, ama daha güvenli bir bağlantı yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
 <!ENTITY insecureSelfSigned.description  "Bu sunucu güvenilir olmayan bir sertifika kullanıyor, bu yüzden &brandShortName; ile sunucunuz arasından trafiğinden dinlenmediğinden emin olamıyoruz. &brandShortName; e-postalarınıza erişmenize izin verecektir, ama sunucunuzun güvenilir bir sertifika ile yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
 <!ENTITY secureServer.description        "Tebrikler! Bu sunucu güvenli.">
-

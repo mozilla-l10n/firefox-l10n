@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "İleti depolama">
 <!ENTITY securitySettings.label "Güvenlik ayarları">
@@ -62,7 +62,7 @@
    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "En az">
-<!ENTITY maxMessagesStart.accesskey "y">
+<!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "ileti indirilecekse bana sor">
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlanırken her zaman kimlik doğrulaması iste">
@@ -84,4 +84,3 @@
 
 <!ENTITY accountTitle.label "Hesap Ayaları">
 <!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunmamaktadır.">
-

@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-composer.xul -->
-
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
-
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+
 <!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "Son sayfalar menüsü">
 <!ENTITY  documentsInMenu.label         "En fazla listelenecek sayfa sayısı:">
@@ -27,4 +27,3 @@
 <!ENTITY  useCSS.accesskey              "u">
 <!ENTITY  crInPCreatesNewP.label        "Paragraf içinde enter'a basılırsa her zaman yeni paragraf oluştur">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">
-

@@ -14,11 +14,11 @@
 <!ENTITY otherFolder.label "Diğer:">
 <!ENTITY otherFolder.accesskey "D">
 <!ENTITY purge1.label "Gereksiz postaları">
-<!ENTITY purge1.accesskey "m">
+<!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "gün sonra otomatik sil">
 
 <!ENTITY whitelistHeader.label "Gönderici aşağıdakilerden birindeyse otomatik olarak gereksiz olarak işaretleme: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.accesskey "d">
 
 <!ENTITY ispHeadersWarning.label "Bunu etkinleştirirseniz &brandShortName; bu harici sınıflandırıcı tarafından işaretlenen iletileri gereksiz kabul edecektir.">
 <!ENTITY ispHeaders.label "Şu gereksiz posta üstbilgilerine güven: ">
@@ -29,4 +29,3 @@
 
 <!ENTITY globalJunkPrefs.label "Genel gereksiz posta tercihleri…">
 <!ENTITY globalJunkPrefs.accesskey "G">
-

@@ -11,7 +11,7 @@
 <!ENTITY folderCharsetOverride.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Bazen dizin indeks dosyası (.msf) hasar görebilir ve iletiler eksik görünebilir veya silinmiş iletiler görünmeye devam edebilir. Dizini onarmak bu sorunları çözebilir.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Bu dizindeki iletileri global arama sonuçlarına dâhil et">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
@@ -71,4 +71,3 @@
 <!ENTITY sizeOnDisk.label                        "Diskteki boyut:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "bilinmiyor">
-

@@ -25,12 +25,9 @@
 <!ENTITY overrideNamespaces.label "Sunucunun bu ad uzaylarının üstüne yazmasına izin ver">
 <!ENTITY overrideNamespaces.accesskey "u">
 <!ENTITY pop3Desc.label "Bu sunucudan pop posta indirirken yeni postalar için şu dizini kullan:" >
-<!ENTITY globalInbox.label "Global gelen kutusu (yerel dizinler hesabı)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Bu sunucunun gelen kutusu">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Farklı bir hesabın gelen kutusu">
 <!ENTITY deferToServer.accesskey "k">
 <!ENTITY deferGetNewMail.label "Yeni e-postaları alırken bu sunucuyu dâhil et">
 <!ENTITY deferGetNewMail.accesskey "Y">
-

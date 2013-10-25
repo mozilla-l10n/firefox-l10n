@@ -12,14 +12,17 @@
 <!ENTITY feedsSectionHdr.label        "Beslemeler">
 <!ENTITY subscribeFeeds.label         "Abonelikleri yönet">
 
+<!ENTITY chat.label                   "Sohbet">
+
+
 <!ENTITY accountsSectionHdr.label     "Hesaplar">
 <!ENTITY subscribeImapFolders.label   "Dizin aboneliklerini yönet">
 <!ENTITY settingsLink.label           "Bu hesabın ayarlarını görüntüle">
 <!ENTITY newAcctLink.label            "Yeni hesap aç">
+
 
 <!ENTITY advFeaturesSectionHdr.label  "Gelişmiş özellikler">
 <!ENTITY searchMsgsLink.label         "İletilerde ara">
 <!ENTITY filtersLink.label            "İleti süzgeçlerini yönet">
 <!ENTITY junkSettings.label           "Gereksiz posta ayarları">
 <!ENTITY offlineLink.label            "Çevrim dışı ayarları">
-

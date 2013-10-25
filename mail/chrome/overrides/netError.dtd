@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
 <!ENTITY retry.label "Yeniden dene">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -134,11 +134,11 @@ bağlantısını kontrol edin.</li>
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
+
 
 <!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucudan uyarı almaya alışkın değilseniz ayrıcalık tanımamalısınız.</p> 
  
@@ -147,4 +147,3 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
-

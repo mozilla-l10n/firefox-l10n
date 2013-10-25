@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Besleme abonelikleri">
 <!ENTITY subscriptionDesc.label      "Not: Bir besleme dizininin silinmesi veya değiştirilmesi önceden indirilmiş haberleri etkilemez.">
 
@@ -35,4 +35,3 @@
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">
-

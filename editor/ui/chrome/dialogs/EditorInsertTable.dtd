@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Tablo ekle">
 
 <!ENTITY size.label "Boyut">
@@ -16,4 +16,3 @@
 <!ENTITY borderEditField.accessKey "K">
 <!ENTITY borderEditField.tooltip "Tablonun kenarlığı için bir sayı yazın veya kenarlık olmaması için sıfır (0) yazın">
 <!ENTITY pixels.label "piksel">
-

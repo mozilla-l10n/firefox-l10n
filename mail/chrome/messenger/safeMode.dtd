@@ -9,7 +9,7 @@
 <!ENTITY safeModeDescription2.label       "Aşağıdaki değişiklikleri kalıcı yapabilirsiniz:">
 
 <!ENTITY disableAddons.label              "Tüm eklentileri devre dışı bırak">
-<!ENTITY disableAddons.accesskey          "B">
+<!ENTITY disableAddons.accesskey          "b">
 
 <!ENTITY resetToolbars.label              "Araç çubuklarını ve düğmeleri sıfırla">
 <!ENTITY resetToolbars.accesskey          "r">
@@ -19,4 +19,3 @@
 
 <!ENTITY continueButton.label             "Güvenli kipte devam et">
 <!ENTITY continueButton.accesskey         "G">
-

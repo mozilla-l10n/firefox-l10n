@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi Dili">
 <!ENTITY  font.langGroup.khmer                    "Kamboçya Dili">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Hiçbiri">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Yazı tipi denetimi">
 <!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazı tipi kullan">
 <!ENTITY  fixedWidth.accesskey                    "l">
 <!ENTITY  useDocumentFonts.label                  "İletilerin diğer yazı tiplerini kullanmasına izin ver">
 <!ENTITY  useDocumentFonts.accesskey              "a">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Giden posta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
 <!ENTITY languagesTitle1.label            "Karakter kodlaması">
@@ -78,4 +78,3 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
 <!ENTITY replyInDefaultCharset2.label     "Yanıtlarda mümkünse varsayılan karakter kodlamasını kullan">
 <!ENTITY replyInDefaultCharset2.accesskey "Y">
-

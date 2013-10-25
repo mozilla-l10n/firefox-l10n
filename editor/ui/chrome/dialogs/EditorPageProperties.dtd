@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Sayfa Özellikleri">
 <!ENTITY location.label "Konum:">
 <!ENTITY lastModified.label "Son değişiklik:">
@@ -15,4 +15,3 @@
 <!ENTITY locationNewPage.label "[Yeni sayfa, henüz kaydedilmedi]">
 <!ENTITY EditHEADSource1.label "Deneyimli kullanıcılar:">
 <!ENTITY EditHEADSource2.label "&lt;Başlık&gt; bölümünün içeriğini düzenlemek için, Görünüm menüsündeki veya Düzenleme modu araç çubuğundaki &quot;HTML kaynağı&quot;nı kullanın.">
-

@@ -9,4 +9,3 @@
 <!ENTITY info2.label   "Gereksiz postaları tanımlaması için &brandShortName; uygulamasını biraz eğitmeniz gerekir. Bunu için araç çubuğundaki Gereksiz düğmesini kullanarak iletinin gereksiz olup olmadığını işaretleyin.">
 <!ENTITY info3.label   "&brandShortName; gereksiz postaları doğru şekilde algılamaya başladığında, gelen gereksiz postaları otomatik olarak Gereksiz dizinine taşımak için gereksiz posta denetimlerini kullanabilirsiniz.">
 <!ENTITY info4.label   "Daha fazla bilgi için Yardım'a tıklayın.">
-
