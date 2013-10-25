@@ -62,7 +62,6 @@
 
 
 
-
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
@@ -72,6 +71,7 @@
 
 <!ENTITY copyURLCmd.label     "Холбоос хаягийг сануул">
 <!ENTITY copyURLCmd.accesskey "Х">
+
 
 
 

@@ -38,18 +38,14 @@
 
 <!ENTITY certmgr.editcert.title               "Нууц гэрчилгээний тохиргоог засварлах">
 <!ENTITY certmgr.editcacert.title             "ГЭ гэрчилгээнд итгэх тохиргоог засварлах">
-
 <!ENTITY certmgr.editcert.edittrust           "Итгэх тохиргоог засварлах:">
 
 <!ENTITY certmgr.editcert.trustemail          "Энэ гэрчилгээ захианы хэрэглэгчийг таниж чадна.">
 <!ENTITY certmgr.editcert.trustobjsign        "Энэ гэрчилгээ програм бичигчдийг таниж чадна">
-<!ENTITY certmgr.editsslcert.edittrust        "Гэрчилгээнд итгэх тохиргоог засварла:">
-<!ENTITY certmgr.editsslcert.dotrust          "Энэ гэрчилгээний эрхд итгэ">
-<!ENTITY certmgr.editsslcert.donttrust        "Энэ гэрчилгээний эрхд бүү итгэ">
 <!ENTITY certmgr.editemailcert.title          "Захианы гэрчилгээнд итгэх тохиргоог засварлах">
-<!ENTITY certmgr.editemailcert.edittrust      "Гэрчилгээнд итгэх тохиргоог засварла">
-<!ENTITY certmgr.editemailcert.dotrust        "Энэ гэрчилгээний эрхд итгэ">
-<!ENTITY certmgr.editemailcert.donttrust      "Энэ гэрчилгээний эрхэд бүү итгэ">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "Гэрчилгээ устгах">
 <!ENTITY certmgr.deletecert.beforename        "Та энэ гэрчилгээг устгахыг асуугдсан байна:">
