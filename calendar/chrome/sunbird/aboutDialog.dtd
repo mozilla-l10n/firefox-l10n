@@ -22,8 +22,8 @@ fundacije. Sva prava zadržana.">
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Prevoditelji</h3><ul><li>Mihovil Stanić</li><li>Saša Teković</li></ul>">
 
-<!ENTITY credit.powered     "Powered by">
+<!ENTITY credit.powered     "Pokreće">
 <!ENTITY license.and        "i">
 <!ENTITY cmdClose.macKey  "W">
