@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+
+
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+
+
+
+
+<!-- point 3 text for official branded builds -->
+
+
+<!-- point 3 text for unbranded builds -->
+<!-- point 4 text for official branded builds -->
+
+
+<!-- point 4 text for unbranded builds -->
+
+
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+
+
+
+<!-- intro paragraph for unbranded builds -->
+<!-- point 1 text for unbranded builds -->
+<!-- points 1-7 text for branded builds -->
+
+
+
+
+
