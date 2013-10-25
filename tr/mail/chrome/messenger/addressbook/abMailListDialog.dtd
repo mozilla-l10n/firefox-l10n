@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Posta Listesi">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Buraya ekle: ">
@@ -14,11 +14,10 @@
 <!ENTITY AddressTitle.label             "Posta listesine eklemek istediğiniz e-posta adreslerini yazın:">
 <!ENTITY UpButton.label                 "Yukarı taşı">
 <!ENTITY DownButton.label               "Aşağı taşı">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "B">
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.accesskey         "t">
 <!ENTITY ListDescription.accesskey      "k">
-
 

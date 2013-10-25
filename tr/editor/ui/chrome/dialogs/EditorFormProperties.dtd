@@ -13,10 +13,9 @@
 <!ENTITY FormMethod.label "Yöntem:">
 <!ENTITY FormMethod.accesskey "Y">
 <!ENTITY FormEncType.label "Karakter kümesi:">
-<!ENTITY FormEncType.accesskey "k">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Hedef çerçeve:">
 <!ENTITY FormTarget.accesskey "H">
 
 <!ENTITY RemoveForm.label "Formu kaldır">
 <!ENTITY RemoveForm.accesskey "m">
-

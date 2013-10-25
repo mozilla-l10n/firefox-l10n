@@ -8,7 +8,7 @@
 <!ENTITY Settings.accesskey "A">
 
 <!ENTITY EditLabelText.label "Metni düzenle:">
-<!ENTITY EditLabelText.accesskey "D">
+<!ENTITY EditLabelText.accesskey "d">
 <!ENTITY LabelFor.label "Kontrol için:">
 <!ENTITY LabelFor.accesskey "K">
 <!ENTITY AccessKey.label "Erişim tuşu:">
@@ -16,4 +16,3 @@
 
 <!ENTITY RemoveLabel.label "Etiketi kaldır">
 <!ENTITY RemoveLabel.accesskey "l">
-

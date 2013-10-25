@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Kime ">
-<!ENTITY fromField3.label "Kimden ">
-<!ENTITY senderField3.label "Gönderen ">
-<!ENTITY organizationField3.label "Kurum ">
-<!ENTITY replyToField3.label "Yanıt adresi ">
+<!ENTITY toField4.label "Kime">
+<!ENTITY fromField4.label "Gönderen">
+<!ENTITY senderField4.label "Gönderen">
+<!ENTITY organizationField4.label "Kurum">
 
-<!ENTITY subjectField3.label "Konu ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Haber grupları ">
-<!ENTITY followupToField3.label "Takip adresi ">
-<!ENTITY tagsHdr3.label "Etiketler ">
-<!ENTITY dateField3.label "Tarih ">
-<!ENTITY userAgentField3.label "Kullanıcı istemcisi ">
-<!ENTITY referencesField3.label "Referanslar ">
-<!ENTITY messageIdField3.label "İleti kimliği ">
-<!ENTITY inReplyToField3.label "Yanıt verilen ">
-<!ENTITY originalWebsite3.label "Web sitesi ">
+
+<!ENTITY subjectField4.label "Konu">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+
+
+<!ENTITY tagsHdr4.label "Etiketler">
+<!ENTITY dateField4.label "Tarih">
+
+
+
+
+
 
 <!ENTITY editMessageDescription.label "Bu ileti bir taslaktır">
 <!ENTITY editMessageButton.label "Düzenle…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Posta listesini yanıtla">
 <!ENTITY hdrFollowupButton1.label "Devam iletisi">
 <!ENTITY hdrFollowupButton1.tooltip "Bu haber grubuna bir devam iletisi gönder">
+
 <!ENTITY hdrForwardButton1.label "İlet">
 <!ENTITY hdrForwardButton1.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton1.label "Gereksiz">
@@ -67,12 +68,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "K">
 <!ENTITY otherActionsPrint1.label "Yazdır…">
 <!ENTITY otherActionsPrint1.accesskey "z">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Ek bölmesini daima göster">
 <!ENTITY startExpandedCmd.accesskey    "g">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Aç">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Farklı kaydet…">
@@ -91,8 +92,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
 <!ENTITY openAttachment.tooltip "Ekli dosyayı aç">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Kaydet">
 <!ENTITY saveAttachmentButton1.tooltip     "Ekteki dosyayı kaydet">
 <!ENTITY saveAllAttachmentsButton1.label   "Tümün kaydet">
@@ -106,5 +107,4 @@
 <!ENTITY OpenMessageForMsgId.label "Bu kimliği taşıyan iletiyi aç">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Tarayıcıyı bu kimlik numarasıyla aç">
-<!ENTITY OpenBrowserWithMsgId.accesskey "B">
-
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">

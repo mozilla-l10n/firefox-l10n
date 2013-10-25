@@ -38,5 +38,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .net.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bu vekil sunucuyu bütün protokollerde kullan">
-<!ENTITY  shareproxy.accesskey          "V">
-
+<!ENTITY  shareproxy.accesskey          "v">

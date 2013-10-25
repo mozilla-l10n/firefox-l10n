@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Yaz: (konu yok)">
 
+<!ENTITY msgComposeWindow.title "Yaz: (konu yok)">
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Yeni">
@@ -13,7 +13,7 @@
 <!ENTITY newMessage.label "İleti">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "P">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Ek">
@@ -41,7 +41,7 @@
 <!ENTITY saveAsDraftCmd.label "Taslak">
 <!ENTITY saveAsDraftCmd.accesskey "T">
 <!ENTITY saveAsTemplateCmd.label "Şablon">
-<!ENTITY saveAsTemplateCmd.accesskey "c">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "Şimdi gönder">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
@@ -53,8 +53,8 @@
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "r">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Geri al">
@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Bul ve değiştir…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "B">
+
 <!ENTITY findAgainCmd.label "Sonrakini bul">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "b">
@@ -95,8 +96,8 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "n">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "G">
 <!ENTITY viewToolbarsMenuNew.label "Araç çubukları">
@@ -113,13 +114,13 @@
 <!ENTITY customizeToolbar.accesskey "l">
 
 <!ENTITY addressSidebar.label "Kişiler kenar çubuğu">
-<!ENTITY addressSidebar.accesskey "s">
-
+<!ENTITY addressSidebar.accesskey "o">
 <!-- Format Menu -->
+
 <!ENTITY formatMenu.label "Biçim">
 <!ENTITY formatMenu.accesskey "B">
-
 <!-- Options Menu -->
+
 <!ENTITY optionsMenu.label "Seçenekler">
 <!ENTITY optionsMenu.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "İmla denetimi…">
@@ -130,8 +131,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY quoteCmd.label "İletiyi alıntıla">
 <!ENTITY quoteCmd.accesskey "y">
-
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
 <!ENTITY attachVCard.label "Kişisel kart ekle (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -148,7 +149,7 @@
 <!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
 <!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
-<!ENTITY bothFormatCmd.accesskey "Z">
+<!ENTITY bothFormatCmd.accesskey "z">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.label "Öncelik:">
@@ -165,8 +166,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Bir kopyasını gönder">
 <!ENTITY fileCarbonCopyCmd.accesskey "o">
 <!ENTITY fileHereMenu.label "Burada dosyala">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "A">
 <!ENTITY messengerCmd.label "Posta ve haber grupları">
@@ -182,23 +183,23 @@
 <!ENTITY preferencesCmd.accesskey "e">
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey   "c">
-
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY bringAllToFront.label "Ön plana getir">
 <!ENTITY zoomWindow.label "Yakınlaştır">
 <!ENTITY windowMenu.label "Pencere">
-
 <!-- Mail Toolbar -->
+
 <!ENTITY sendButton.label "Gönder">
 <!ENTITY quoteButton.label "Alıntı yap">
 <!ENTITY addressButton.label "Kişiler">
 <!ENTITY attachButton.label "Ek">
 <!ENTITY spellingButton.label "Yazım denetimi">
 <!ENTITY saveButton.label "Kaydet">
-
 <!-- Mail Toolbar Tooltips -->
+
 <!ENTITY sendButton.tooltip "Bu iletiyi şimdi gönder">
 <!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder">
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
@@ -209,10 +210,10 @@
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
 <!ENTITY pasteButton.tooltip            "Yapıştır">
-
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Gönderen:">
 <!ENTITY fromAddr.accesskey "G">
@@ -227,8 +228,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "e">
-
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+
 <!ENTITY SmileButton.tooltip "Yüz ifadesi ekle">
 <!ENTITY smiley1Cmd.label "Gülümseyen">
 <!ENTITY smiley2Cmd.label "Çatık kaşlı">
@@ -246,8 +247,8 @@
 <!ENTITY smiley14Cmd.label "Masum">
 <!ENTITY smiley15Cmd.label "Ağlamaklı">
 <!ENTITY smiley16Cmd.label "Susturulmuş">
-
 <!-- Message Pane Context Menu -->
+
 <!ENTITY spellCheckNoSuggestions.label "Öneri bulunamadı">
 <!ENTITY spellCheckIgnoreWord.label "Sözcüğü görmezden gel">
 <!ENTITY spellCheckIgnoreWord.accesskey "g">
@@ -286,12 +287,11 @@
 <!ENTITY convertRegularAttachment.accesskey "e">
 <!ENTITY attachPage.label "Web sayfası ekle…">
 <!ENTITY attachPage.accesskey "W">
-
 <!-- Spell checker context menu items -->
+
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
-
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Kişiler">
 
+<!ENTITY addressesSidebarTitle.label "Kişiler">
 

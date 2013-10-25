@@ -22,7 +22,6 @@
 <!ENTITY toButton.label                     "Kime: alanına ekle">
 <!ENTITY toButton.accesskey                 "e">
 <!ENTITY ccButton.label                     "Cc'ye ekle:">
-<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Bcc'ye ekle:">
 <!ENTITY bccButton.accesskey                "B">
-

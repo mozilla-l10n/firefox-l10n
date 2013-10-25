@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "İletileri burada ara:">
 <!ENTITY searchHeading.accesskey     "a">
 <!ENTITY searchSubfolders.label      "Alt dizinlerde ara">
@@ -13,30 +13,32 @@
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Aç ">
 <!ENTITY openButton.accesskey        "A">
-<!ENTITY deleteButton.label          "Sil">
-<!ENTITY deleteButton.accesskey      "S">
+
+
 <!ENTITY searchDialogTitle.label     "İletilerde ara">
 <!ENTITY results.label               "Sonuçlar">
-<!ENTITY fileHereMenu.label          "Buraya dosyala">
-<!ENTITY fileHereMenu.accesskey      "B">
-<!ENTITY fileButton.label            "Dosyala">
-<!ENTITY fileButton.accesskey        "o">
+
+
+
+
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Bu dizinde aç">
 <!ENTITY openInFolder.accesskey      "d">
 <!ENTITY saveAsVFButton.label        "Arama dizini olarak kaydet">
 <!ENTITY saveAsVFButton.accesskey    "A">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "İçinde ara:">
 <!ENTITY abSearchHeading.accesskey   "a">
 <!ENTITY propertiesButton.label      "Özellikler">
 <!ENTITY propertiesButton.accesskey  "z">
 <!ENTITY composeButton.label         "Oluştur">
 <!ENTITY composeButton.accesskey     "t">
-<!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 
+
+<!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Dizi">
 <!ENTITY fromColumn.label "Gönderen">
 <!ENTITY recipientColumn.label "Alıcı">
@@ -55,8 +57,8 @@
 <!ENTITY starredColumn.label "Yıldızlı">
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alınma sırası">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Görüntülenecek sütunları seçmek için tıklayın">
 <!ENTITY threadColumn.tooltip "İleti dizilerini görmek için tıklayın"> 
 <!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
@@ -76,4 +78,3 @@
 <!ENTITY starredColumn.tooltip "Yıldıza göre sıralamak için tıklayın">
 <!ENTITY locationColumn.tooltip "Konuma göre sıralamak için tıklayın">
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
-

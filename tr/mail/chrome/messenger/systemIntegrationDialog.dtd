@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Sistem tümleştirmesi">
 <!ENTITY acceptIntegration.label  "Varsayılan olarak ayarla">
 <!ENTITY cancelIntegration.label  "Tümleştirmeyi geç">
+
 <!ENTITY defaultClient.intro  "&brandShortName; aşağıdaki hizmetler için varsayılan istemci olarak kullanılsın:">
 
 <!ENTITY email.label "E-posta">
@@ -18,4 +19,3 @@
 
 <!ENTITY searchIntegration.label "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
 <!ENTITY searchIntegration.accesskey "s">
-

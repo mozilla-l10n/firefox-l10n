@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Sayfayı yayımla">
 <!ENTITY windowTitleSettings.label    "Yayın ayarları">
 <!ENTITY publishTab.label             "Yayımla">
 <!ENTITY settingsTab.label            "Ayarlar">
 <!ENTITY publishButton.label          "Yayımla">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Site adı:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Yayımlamak istediğiniz siteyi seçin">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "V">
 <!ENTITY removeButton.label           "Siteyi kaldır">
 <!ENTITY removeButton.accesskey       "r">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Yayın siteleri">
 <!ENTITY serverInfo.label             "Sunucu bilgileri">
 <!ENTITY loginInfo.label              "Oturum açma bilgileri">
@@ -63,4 +63,3 @@
 <!ENTITY savePassword.label           "Parolayı kaydet">
 <!ENTITY savePassword.accesskey       "k">
 <!ENTITY savePassword.tooltip         "Parolanızı , parola yöneticisi ile kaydetmek için bunu seçin.">
-

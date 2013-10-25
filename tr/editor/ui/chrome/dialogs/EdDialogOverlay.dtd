@@ -12,8 +12,7 @@
 <!ENTITY makeUrlRelative.label "URL sayfa konumuna bağlıdır">
 <!ENTITY makeUrlRelative.accessKey "s">
 <!ENTITY makeUrlRelative.tooltip "Bağıl ve tam URL arasında değişiklik var. Bunu değiştirmek için önce sayfayı kaydetmelisiniz.">
-
 <!-- Shared by Link and Image dialogs -->
+
 <!ENTITY LinkURLEditField.label "Bir web sayfası konumu veya bir yerel dosya girin, veya açılır listeden isimlendirilmiș belirteç veya bașlık seçin:">
 <!ENTITY LinkURLEditField.accessKey "w">
-

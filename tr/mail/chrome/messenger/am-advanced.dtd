@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Giden Sunucusu (SMTP) Ayarları">
 
+
+<!ENTITY smtpServer.label "Giden Sunucusu (SMTP) Ayarları">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+
 <!ENTITY smtpDescription.label "Kimliklerinizi yönetirken bu listeden bir sunucuyu kullanmak için onu Giden Sunucusu (SMTP) olarak seçebilir veya &quot;Varsayılan sunucuyu kullan&quot;ı seçerek bu listedeki varsayılan sunucuyu kullanabilirsiniz.">
 
 <!ENTITY smtpListAdd.label  "Ekle…">
@@ -25,4 +25,3 @@
 <!ENTITY userName.label   "Kullanıcı adı: ">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
 <!ENTITY authMethod.label   "Yetkilendirme yöntemi: ">
-

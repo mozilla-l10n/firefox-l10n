@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
 <!ENTITY error.line1 "Üzgünüz, hiçbir e-posta adresi önerisi bulamadık.">
 <!ENTITY error.line2 "Daha fazla e-posta bulmak için rumuz veya başka bir terim araması yapmayı deneyebilirsiniz.">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Ayrıca ">
 <!ENTITY error.suggest.middle "bedava e-posta hesabı alternatiflerinden birini">
 <!ENTITY error.suggest.after " deneyebilirsiniz.">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Merhaba ">
 <!ENTITY success.title.after ", aşağıdaki e-posta adresleri sizin için uygun olabilir:">
 <!ENTITY success.tip "(Daha fazla e-posta bulmak için rumuz veya başka bir terim araması da yapabilirsiniz.)">
@@ -41,4 +41,3 @@
 <!ENTITY search_engine.title "Arama motorunuzu özelleştirin">
 <!ENTITY search_engine.message "E-posta sağlayıcınız web'de arama becerileri de sunuyor olabilir.">
 <!ENTITY search_engine.button "Bitir">
-

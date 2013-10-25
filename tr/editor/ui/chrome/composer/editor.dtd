@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+
 <!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Düzenleme araç çubuğu">
 <!ENTITY previewToolbarCmd.label "Gözat">
 <!ENTITY previewToolbarCmd.tooltip "Bu sayfayı tarayıcıda yükle">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Metin olarak dışa aktar…">
 <!ENTITY exportToTextCmd.accesskey "M">
 <!ENTITY previewCmd.label "Sayfaya göz at">
 <!ENTITY previewCmd.accesskey "ö">
 <!ENTITY sendPageCmd.label "Sayfa gönder…">
 <!ENTITY sendPageCmd.accesskey "g">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Düzenleme araç çubuğu">
 <!ENTITY compositionToolbarCmd.accesskey "D">
 <!ENTITY formattingToolbarCmd.label "Biçem araç çubuğu">
 <!ENTITY formattingToolbarCmd.accesskey "B">
 <!ENTITY editmodeToolbarCmd.label "Düzenleme kipi araç çubuğu">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Biçim">
 <!ENTITY formatMenu.accesskey "B">
 <!ENTITY grid.label "Konumlandırma ızgarası">
 <!ENTITY grid.accesskey "K">
 <!ENTITY pageProperties.label "Sayfa başlığı ve özellikleri…">
 <!ENTITY pageProperties.accesskey "ğ">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "HTML'i doğrula">
 <!ENTITY validateCmd.accesskey "d">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Normal düzenleme kipi">
 <!ENTITY NormalMode.accesskey "N">
@@ -65,4 +65,3 @@
 <!ENTITY PreviewMode.label "Önizleme">
 <!ENTITY PreviewMode.accesskey "n">
 <!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (tarayıcıdaki gibi)">
-
