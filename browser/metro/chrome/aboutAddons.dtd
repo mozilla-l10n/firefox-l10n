@@ -13,5 +13,5 @@
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
 <!ENTITY aboutAddons.goBackToStartStart "চিহ্নিত স্থান উভতি যাওক ">
-<!ENTITY aboutAddons.goBacktoStartLink  "&brandFullName; আৰম্ভণি পৃষ্ঠা">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; আৰম্ভণি পৃষ্ঠা">
 <!ENTITY aboutAddons.goBacktoStartEnd   ".">
