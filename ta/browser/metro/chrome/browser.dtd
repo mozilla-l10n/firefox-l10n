@@ -4,17 +4,24 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "தேடல் அல்லது முகவரியை உள்ளிடவும்">
 
+<!ENTITY back.label            "பின்">
+<!ENTITY forward.label         "முன்னனுப்பு">
+<!ENTITY newtab.label          "புதிய கீற்று">
+<!ENTITY closetab.label        "கீற்றை மூடு">
 
+<!ENTITY autocompleteResultsHeader.label  "உங்களது முடிவுகள்">
 
-
-
+<!ENTITY appbarErrorConsole.label   "பிழை முனையத்தைத் திற">
+<!ENTITY appbarJSShell.label        "JavaScript ஷெல்லைத் திற">
 <!ENTITY appbarFindInPage2.label    "இந்த பக்கத்தில் தேடு">
+<!ENTITY appbarViewOnDesktop2.label "பணித்திரையில் காண்">
 
-
-
-
-
+<!ENTITY topSitesHeader.label        "சிறந்த தளங்கள்">
+<!ENTITY bookmarksHeader.label       "புத்தககுறிகள்">
+<!ENTITY recentHistoryHeader.label   "சமீபத்திய வரலாறு">
+<!ENTITY remoteTabsHeader.label      "மற்ற சாதனங்களிலிருந்து கீற்றுகள்">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -23,28 +30,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "சிறந்த தளங்கள்">
+<!ENTITY narrowBookmarksHeader.label     "புத்தககுறிகள்">
+<!ENTITY narrowRecentHistoryHeader.label "சமீபத்திய வரலாறு">
+<!ENTITY narrowRemoteTabsHeader.label    "தொலைநிலை கீற்றுகள்">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "பதிவிறக்கங்கள்">
+<!ENTITY downloadShowPage.label    "இந்த பக்கத்திற்கு செல்">
+<!ENTITY downloadShow2.label       "கண்டறி">
 <!ENTITY downloadOpen2.label       "திற">
 <!ENTITY downloadCancel.label      "ரத்து">
-
+<!ENTITY downloadPause.label       "இடை நிறுத்து">
 <!ENTITY downloadResume.label      "தொடரவும்">
 <!ENTITY downloadRetry.label       "மறுமுயற்சி">
 <!ENTITY downloadRemove.label      "நீக்கு">
-
+<!ENTITY downloadDelete.label      "அழி">
 <!ENTITY downloadFailed.label      "தோல்வியுற்றது">
 
+<!ENTITY allBookmarks.label        "புத்தகக்குறிகள் அனைத்தையும் காண்க">
 
+<!ENTITY consoleHeader.label       "பிழை முனையம்">
 <!ENTITY consoleAll.label          "அனைத்தும்">
 <!ENTITY consoleErrors.label       "பிழைகள்">
 <!ENTITY consoleWarnings.label     "எச்சரிக்கைகள்">
-
-
-
-
+<!ENTITY consoleMessages.label     "செய்திகள்">
+<!ENTITY consoleCodeEval.label     "குறியீடு:">
+<!ENTITY consoleClear.label        "அழி">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "மூல கோப்பு:">
 <!ENTITY consoleErrLine.label      "வரி:">
 <!ENTITY consoleErrColumn.label    "நெடுவரிசை:">
@@ -54,33 +66,44 @@
 <!ENTITY contextTextCopy.label             "நகலெடு">
 <!ENTITY contextTextPaste.label            "ஒட்டு">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "ஒட்டிவிட்டு செல்">
 <!ENTITY contextTextSelect.label           "தேர்வு செய்">
-
+<!ENTITY contextTextSelectAll.label        "அனைத்தையும் தேர்ந்தெடு">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "இணைப்பை புதிய கீற்றில் திற">
+<!ENTITY contextCopyLinkHref.label         "இணைப்பை நகலெடு">
+<!ENTITY contextBookmarkLinkHref.label     "புத்தகக் குறி இணைப்பு">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "படத் தரவகத்தில் சேமி">
+<!ENTITY contextCopyImage.label            "படத்தை நகலெடு">
+<!ENTITY contextCopyImageLocation.label    "பட இருப்பிடத்தை நகலெடு">
+<!ENTITY contextOpenImageTab.label         "படத்தை புதிய கீற்றில் திற">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "வீடியோ தரவகத்தில் சேமி">
+<!ENTITY contextCopyVideoLocation.label    "வீடியோ இடத்தை நகலெடு">
+<!ENTITY contextOpenVideoTab.label         "வீடியோவை புதிய கீற்றில் திற">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

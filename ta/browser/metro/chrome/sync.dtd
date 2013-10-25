@@ -26,7 +26,7 @@
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "மீண்டும் முயற்சிக்கவும்">
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "துண்டி">
 
 
 

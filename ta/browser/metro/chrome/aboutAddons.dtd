@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-
+<!ENTITY aboutAddons.title              "&brandShortName; துணை நிரல்கள் செயலில் உள்ள பணியாகும்">
+<!ENTITY aboutAddons.messageTitle       "ஒஹ் ஓஹ்!">
+<!ENTITY aboutAddons.message            "வருந்துகிறோம், &brandShortName; உங்களுக்காக துணை நிரல்களை ஆதரிக்கும் பணிமிகுதியில் உள்ளது.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-
-
+<!ENTITY aboutAddons.goBackToStartStart "மீண்டும் இங்கு செல்லவும்">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; தொடக்கப் பக்கம்">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

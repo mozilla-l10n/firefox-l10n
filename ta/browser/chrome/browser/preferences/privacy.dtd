@@ -24,12 +24,14 @@
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
 <!ENTITY  locbar.nothing.label          "ஒன்றுமில்லை">
 
+<!ENTITY  acceptCookies.label           "இணைய தளங்களிலிருந்து நினைவிகளை அனுமதிக்கவும்">
+<!ENTITY  acceptCookies.accesskey       "அ">
 
-
-
+<!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பினரின் நினைவிகளை அனுமதிக்கவும்:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "அ">
 <!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
 <!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
-
+<!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
 
 <!ENTITY  keepUntil.label               "அதுவரை வைத்திரு:">
 <!ENTITY  keepUntil.accesskey           "K">
