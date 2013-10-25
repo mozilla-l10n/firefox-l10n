@@ -42,7 +42,7 @@
 <!ENTITY sync.flyout.connected.disconnectWarningHeader    "Ingaba ufuna ukukhupha unxibelelo lwesixhobo sakho kwi-&syncBrand.shortName.label;?">
 <!ENTITY sync.flyout.connected.disconnectWarning          "Yonke ingcombolo yakho yobuqu ekuzo zombini ezi zixhobo kunye ne-&syncBrand.shortName.label; akhawunti aziyi kutshintsha.">
 <!ENTITY sync.flyout.connected.cancel                     "Rhoxisa">
-<!ENTITY sync.flyout.connected.pair                       "Beka ngazibini isixhobo">
+<!ENTITY sync.flyout.connected.pair                       "Beka izixhobo ngazibini">
 <!-- Flyout when pairing a device -->
 
 <!ENTITY sync.flyout.pairNewDevice.description            "Kwisixhobo ofuna ukusingqamanisa, khetha &quot;Set Up &syncBrand.shortName.label;&quot; uze ufake ikhowudi ekhutshwe seso sixhobo">

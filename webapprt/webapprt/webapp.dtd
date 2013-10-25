@@ -44,7 +44,7 @@
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "N">
 <!ENTITY deleteCmd.label                    "Cima">
-<!ENTITY deleteCmd.key                      "U">
+<!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "C">
 <!ENTITY selectAllCmd.label                 "Khetha Konke">
 <!ENTITY selectAllCmd.key                   "A">

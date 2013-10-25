@@ -57,9 +57,9 @@
 <!ENTITY consoleCodeEval.label     "Ikhowudi:">
 <!ENTITY consoleClear.label        "Sula">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Ifayili Yentsusa:">
+<!ENTITY consoleErrFile.label      "Ifayili yomthombo:">
 <!ENTITY consoleErrLine.label      "Umgca:">
-<!ENTITY consoleErrColumn.label    "Umqolo owehlayo:">
+<!ENTITY consoleErrColumn.label    "Ikholam:">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Sika">
