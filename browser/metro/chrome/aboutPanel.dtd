@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "அறிமுகம்">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "- &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "ஆன்லைனில் &brandShortName; தனியுரிமைக் கொள்கையைப் படிக்கவும்">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
