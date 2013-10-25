@@ -28,9 +28,9 @@
 <!ENTITY device.deny "Reddet">
 <!ENTITY device.denyTooltip "Bu türden uygulamalar bu izni kullanamaz.">
 <!ENTITY device.installedApps "Yüklenmiş uygulamalar">
-
+<!ENTITY device.installedAppsTooltip "Cihazda yüklü uygulamaların listesini görüntüler. Bazı uygulamalar (örn. sertifikalı uygulamalar) bu görünümde olmayabilir.">
 <!ENTITY device.permissions "İzinler">
-
+<!ENTITY device.permissionsTooltip "Farklı uygulama türlerinin erişim izinlerini gösteren tabloyu gösterir.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Yardım">
 
@@ -39,11 +39,11 @@
 
 <!ENTITY connection.notConnected2 "Bağlı değil.">
 <!ENTITY connection.connectTo "Bağlan:">
-
+<!ENTITY connection.noDeviceFound "Aygıt bulunamadı. Bir aygıt bağlayın">
 <!ENTITY connection.changeHostAndPort "Değiştir">
 
 <!ENTITY connection.startSimulator "Simülatörü başlat">
-
+<!ENTITY connection.startSimulatorTooltip "Simülatör örneğini başlat ve bağlantısını yap.">
 <!ENTITY connection.saveConnectionInfo "Kaydet">
 
 <!ENTITY connection.connecting "Bağlanıyor…">
@@ -53,14 +53,15 @@
 
 <!ENTITY connection.or "veya">
 <!ENTITY connection.noSimulatorInstalled "Yüklenmiş simülatör yok.">
+<!ENTITY connection.installOneSimulator "Simülatör'ü yükle">
 
 
 
 
+<!ENTITY projects.localApps "Yerel Uygulamalar">
 
 
-
-
+<!ENTITY projects.addPackagedTooltip "Bilgisayarınızdan yeni bir paketlenmiş uygulama (dizin) ekleyin.">
 
 
 
