@@ -35,7 +35,7 @@
 <!ENTITY pref.security.general.manageCert.label "Sertîfîkayan bi rê ve bibe">
 <!-- Downloading a cert -->
 
-<!ENTITY downloadCert.title "Sertîfîka tê daxistin">
+<!ENTITY downloadCert.title "Sertîfîka tê jêbarkirin">
 <!ENTITY downloadCert.message1 "Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.">
 <!ENTITY downloadCert.trustSSL "Ev CA ji bo diyarkirina malperan ewle ye.">
 <!ENTITY downloadCert.trustEmail "Ev CA ji bo diyarkirina E-Peyaman ewle ye.">
@@ -88,7 +88,7 @@
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "HNW">
-
+<!ENTITY protectedAuth.msg "Tika ye nasnameya xwe esehî bike. Rêbaza esehîkirina nasnameyê li gorî cureyê îşaretan diguhere.">
 <!ENTITY protectedAuth.tokenName.label "HNW">
 
 <!ENTITY certErrorDlg.title "Girêdana Ewle Têk Çû">

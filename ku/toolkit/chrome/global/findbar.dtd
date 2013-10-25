@@ -8,9 +8,9 @@
 <!ENTITY next.tooltip "Peyya pêş bibîne">
 <!ENTITY previous.tooltip "Peyva berê bibîne">
 <!ENTITY findCloseButton.tooltip "Darikê Bibîne bigire">
-
-
-
-
-
-
+<!ENTITY highlightAll.label "Tevî beloq bike">
+<!ENTITY highlightAll.accesskey "T">
+<!ENTITY highlightAll.tooltiptext "Hemû îfadeyên hatî dîtin beloq dike">
+<!ENTITY caseSensitive.label "Tîpên hûrdek-girdek li hev bîne">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "Ji bo tîpên hûrdek-girdek bihîstyar be">

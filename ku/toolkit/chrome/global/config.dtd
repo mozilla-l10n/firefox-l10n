@@ -11,8 +11,9 @@
 <!ENTITY aboutWarningButton.label "Ez ê hişyar tev bigerim, bi qewlê mêrên berê!">
 <!ENTITY aboutWarningCheckbox.label "Vê hişyarkirinê careke din nîşan bide">
 
-
-
+<!ENTITY searchPrefs.label "Lêgerîn:">
+<!ENTITY searchPrefs.accesskey "ê">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Navê Mîhengê">
@@ -44,5 +45,5 @@
 <!ENTITY string.accesskey "R">
 <!ENTITY integer.label "Hejmara Tam">
 <!ENTITY integer.accesskey "H">
-
-
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">

@@ -57,7 +57,7 @@
 
 <!ENTITY certmgr.certname                     "Navê Sertîfîkayê">
 <!ENTITY certmgr.certserver                   "Pêşkêşkar">
-
+<!ENTITY certmgr.override_lifetime            "Temen">
 <!ENTITY certmgr.tokenname                    "Amûrê Ewlekariyê">
 <!ENTITY certmgr.issued                       "Dema weşanê">
 <!ENTITY certmgr.expires                      "Dema bidawîbûnê">
@@ -106,5 +106,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Rewşa belgeya pejirandinê">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Nîşan Bide...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "B">
-
-
+<!ENTITY exceptionMgr.permanent.label         "Vê rewşa taybet her car tomar bike">
+<!ENTITY exceptionMgr.permanent.accesskey     "c">

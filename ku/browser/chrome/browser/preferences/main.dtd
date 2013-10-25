@@ -20,11 +20,11 @@
 <!ENTITY restoreDefault.label      "Vegêrîna Pêşsalixbûyî">
 <!ENTITY restoreDefault.accesskey  "V">
 
-<!ENTITY downloads.label     "Yên hatine daxistin">
+<!ENTITY downloads.label     "Jêbarkirî">
 
-<!ENTITY showWhenDownloading.label     "Dema ku daxistin dest pê bike, pencereya rêvebiriya daxistinê nîşan bide.">
+<!ENTITY showWhenDownloading.label     "Dema ku jêbarkirin dest pê bike, pencereya Jêbarkiriyan nîşan bide">
 <!ENTITY showWhenDownloading.accesskey "p">
-<!ENTITY closeWhenDone.label "Dema ku daxistin qediya, rêvebiriya daxistinê bigire.">
+<!ENTITY closeWhenDone.label "Dema ku jêbarkirin qediya, pencereya Jêbarkiriyan bigire">
 <!ENTITY closeWhenDone.accesskey "g">
 <!ENTITY saveTo.label "Pelan tomar bike li">
 <!ENTITY saveTo.accesskey "t">
