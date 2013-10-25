@@ -9,34 +9,38 @@
 <!-- Flyout when setting up sync -->
 
 
-
-
-
+<!ENTITY sync.flyout.setup.manual.label_2      "میں &apos; کمپیوٹر کے پاس نہیں ہوں۔۔۔">
+<!ENTITY sync.flyout.setup.description3        "نوٹ">
+<!ENTITY sync.flyout.setup.description4_2      "ڈھونڈیں &quot;آلہ جوڑا کریں&quot;،">
 
 
 <!-- Flyout when setting up manually -->
-
+<!ENTITY sync.flyout.manualsetup.account.placeholder "نام اکاؤنٹ">
 
 
 <!ENTITY sync.flyout.manualsetup.connect.label           "جڑیں">
 <!-- Flyout when user has just connected -->
 
-<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupsuccess.description1      "آپ نے جڑا کیا brandShortName سے &syncBrand.shortName.label; اکاؤنٹ تک">
 
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.cancelButton      "منسوخ کریں">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "دوبارہ کوشش کریں">
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "منقطع کریں">
 
 
 
 <!ENTITY sync.flyout.connected.pair                       "آلے کا جوڑا بنائیں">
 <!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.pair                   "جوڑا">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "نوٹ:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "کوڈ ڈھونڈنے کے لیے،">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "(ڈیسک ٹاپ) کھولیں &quot;اختیارات&quot; یا &quot;ترجیحات&quot; اور پھر یہ مرحلہ اپنائیں: &syncBrand.shortName.label; -&gt; سیٹ اپ &syncBrand.shortName.label; -&gt; میرے پاس اکاؤنٹ ہے">
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.failure                "براہ مہربانی پھر کوشش کریں">
 <!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "نیا آلہ کامیابی سے شامل ہو گیا ہے۔">
 

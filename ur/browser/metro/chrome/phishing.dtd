@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "مجھے یہاں سے نکالیں!">
 <!ENTITY safeb.palm.decline.label "اس تنبیہ کو نظر انداز کریں">
-
+<!ENTITY safeb.palm.notforgery.label2 "یہ ویب نقل نہیں ہے...">
 <!ENTITY safeb.palm.reportPage.label "یہ صفحہ بلاک کیوں کیا گیا تھا؟">
 
 <!ENTITY safeb.blocked.malwarePage.title "رپورٹ شدہ اٹیک صفحہ!">
@@ -13,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>حملہ آور صفحات ایسے پروگرام نصب کرنے کی کوشش کرتے ہیں جو نجی معلومات چوری کرتے ہیں، آپ کا کمپیوٹر دوسروں پر حملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کے نظام کو نقصان پہنچاتے ہیں۔</p><p>کچھ حملہ آور صفحات دانستہ مضر سافٹ ویئر بانٹتے ہیں، لیکن بہت سے اپنے مالکان کے علم اور اجازت کے بغیر اشتباہ کرتے ہیں۔</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "ویب نقل کا شبہ!">
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "اس صفحہ پر ذاتی معلومات داخل کرنے سے تشخص چوری یا دیگر فراڈ ہو سکتے ہیں۔">
 
