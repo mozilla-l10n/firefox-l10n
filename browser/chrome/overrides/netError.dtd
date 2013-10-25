@@ -38,21 +38,32 @@ that &brandShortName;ê destûra Webê heye an na.</li>
 <!ENTITY generic.longDesc "<p>&brandShortName; ji ber sedemeke nayê zanîn, nikare vê rûpelê veke.</p>">
 
 <!ENTITY malformedURI.title "Çewtî' Navnîşan Nederbasdar e">
-
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Navnîşan bi piranî wekî <strong>http://www.navnisan.com/</strong> tên nivîsandin.</li> 
+<li>Gelo xalbenda parvekirinê rast hatiye nivîsandin? (Divê wisa be:
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Girêdan qut bû">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY notCached.title "Dema belgeyê derbas bû">
+<!ENTITY notCached.longDesc "<p>Bergeya xwestî di pêşbîra &brandShortName;ê de tune ye.</p><ul><li>Wekî rêgiriyeke ewlekariyê, &brandShortName; belgeyên bihîstyar ji nû ve naxwaze.</li><li>Ji bo ku belgeyê dîsa ji malperê bixwazî Dîsa Biceribîneyê bitikîne.</li></ul>">
 
 <!ENTITY netOffline.title "Moda negirêdayî">
-
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Ji bo ku derbasî moda girêdayî bibî û rûpelê nû bikî &quot;Dîsa Biceribîne&quot;yê bitikîne.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
-
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Çewtî! Net Reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -113,7 +124,8 @@ bi alîkariya şîfrekirina ewle.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ji ber ku di vê rûpelê de naverokeke dijberî peymana ewlekariyê heye, &brandShortName;ê ew asteng kir.</p>">
 
-
+<!ENTITY corruptedContentError.title "Çewtiya Naveroka Şikestî">
+<!ENTITY corruptedContentError.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin rûpel nayê nîşandan.</p><ul><li>Bi xwediyên malperê re bikeve têkiliyê yan jî ji menuya alîkariyê zêdetir agahiyan bixwîne.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Heke bixwazî zêdekariyan bidê...">

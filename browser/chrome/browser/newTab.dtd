@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are used in the about:newtab page -->
 
-
-
-
+<!ENTITY newtab.pageTitle "Hilpekîna nû">
+<!ENTITY newtab.undo.removedLabel "Wêneyê biçûk hat rakirin.">
+<!ENTITY newtab.undo.undoButton "Vegerîne.">
+<!ENTITY newtab.undo.restoreButton "Hemûyan vegerîne.">
+<!ENTITY newtab.undo.closeTooltip "Veşêre">

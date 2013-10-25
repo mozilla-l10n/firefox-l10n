@@ -51,16 +51,19 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 <li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li> 
 </ul>">
 
-
+<!ENTITY notCached.title "Dema belgeyê derbas bû">
+<!ENTITY notCached.longDesc "<p>Belgeya hatî xwestin di pêşbîra gerokê de tune ye. </p><ul><li>Wekî rêgiriya bo ewlekariyê, geroka te belgeyên bihîstyar xweber ji nû ve naxwaze.</li><li>Ji bo ku ji malperê daxwaza belgeyê bikî bişkoka Dîsa biceribîne bitikîne.</li></ul>">
 
 <!ENTITY netOffline.title "Moda Negirêdayî">
-
+<!ENTITY netOffline.longDesc2 "<p>Gerok niha di moda negirêdayî de ye û nikare xwe bigihîne hêmana xwestî.</p><ul><li>Girêdana kompîterê bi toreke çalak re heye?</li><li>Ji bo ku derbasî moda girêdayî bibî û rûpelê dîsa bar bikî &quot;Dîsa Biceribîne&quot;yê btikîne.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Girêdan Qut Bû">
 <!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">
@@ -127,7 +130,8 @@ nikare bidomîne.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
 
-
+<!ENTITY corruptedContentError.title "Çewtiya Naveroka Şikestî">
+<!ENTITY corruptedContentError.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin ev rûpel nayê nîşandan.</p><ul><li>Xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li></ul>">
 
 <!ENTITY remoteXUL.title "XULa dûr">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
