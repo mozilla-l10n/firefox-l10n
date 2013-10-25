@@ -49,7 +49,7 @@
 <!ENTITY connection.connecting "កំពុង​តភ្ជាប់…">
 <!ENTITY connection.disconnecting "កំពុង​ផ្ដាច់...">
 <!ENTITY connection.cancel "បោះបង់">
-
+<!ENTITY connection.cancelConnectTooltip "កំពុង​ដំណើរការ​ការ​បោះបង់​ការ​តភ្ជាប់។">
 
 
 
