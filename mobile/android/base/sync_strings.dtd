@@ -58,7 +58,7 @@
 
 
 
-
+<!ENTITY bookmarks.folder.readinglist.label "Lîsteya Xwendinê">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
