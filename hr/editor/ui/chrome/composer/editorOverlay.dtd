@@ -19,7 +19,7 @@
 <!ENTITY findCmd.label "Pronađi i zamijeni…">
 <!ENTITY enableInlineSpellChecker.label "Provjeravaj pravopis tijekom tipkanja">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Provjeri pravopis">
+<!ENTITY checkSpellingCmd2.label "Provjeri pravopis…">
 <!ENTITY checkSpellingCmd2.accesskey "v">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->

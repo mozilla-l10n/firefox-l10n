@@ -18,7 +18,7 @@
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Priloži">
 <!ENTITY attachMenu.accesskey "P">
-<!ENTITY attachFileCmd.label "Datoteku(e)…">
+<!ENTITY attachFileCmd.label "Datoteke…">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
@@ -275,7 +275,7 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Odaberi sve">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Priloži datoteku(e)…">
+<!ENTITY attachFile.label "Priloži datoteke…">
 <!ENTITY attachFile.accesskey "l">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
