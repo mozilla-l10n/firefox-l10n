@@ -313,7 +313,7 @@
 <!ENTITY event.recurrence.range.label                   "Raspon ponavljanja">
 <!ENTITY event.recurrence.forever.label                 "Bez datuma završetka" >
 <!ENTITY event.recurrence.repeat.for.label              "Stvori" >
-<!ENTITY event.recurrence.appointments.label            "sastanak(a)" >
+<!ENTITY event.recurrence.appointments.label            "sastanak(ci)" >
 <!ENTITY event.repeat.until.label                       "Ponavljaj do" >
 <!ENTITY event.recurrence.preview.label                 "Pregled">
 <!-- Attendees dialog -->
