@@ -73,6 +73,10 @@
 <!ENTITY projects.debugAppTooltip "Atverti programuotojų priemones šiai programai derinti">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Projektų nėra. Apačioje galite pridėti naują supakuotą programą (vietinį aplanką) arba talpinamą programą (manifesto failo adresą).">
+<!ENTITY projects.manifestEditor "Manifestų redaktorius">
+<!ENTITY projects.manifestEditorTooltip "Redaguoti programos manifestą polangyje apačioje. Spustelėję mygtuką „Atnaujinti“, įrašysite pakeitimus ir atnaujinsite programą.">
+<!ENTITY projects.manifestViewer "Manifestų žiūryklė">
+<!ENTITY projects.manifestViewerTooltip "Peržiūrėti programos manifestą polangyje apačioje.">
 
 <!ENTITY help.title "Programų tvarkytuvė">
 <!ENTITY help.close "Užverti">

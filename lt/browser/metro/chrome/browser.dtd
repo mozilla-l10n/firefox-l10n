@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Atverti „JavaScript“ apvalkalą">
 <!ENTITY appbarFindInPage2.label    "Ieškoti tinklalapyje">
 <!ENTITY appbarViewOnDesktop2.label "Parodyti darbalaukyje">
+<!ENTITY appbarMSMetaData2.label    "Gauti šios svetainės programėlę">
 
 <!ENTITY topSitesHeader.label        "Lankomiausios svetainės">
 <!ENTITY bookmarksHeader.label       "Adresynas">

@@ -7,16 +7,12 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Nuostatos">
-<!ENTITY optionsHeader.startup.title                             "Paleistis">
-<!ENTITY optionsHeader.homepage.title                            "Paleidžiant „&brandShortName;“, atverti">
-<!ENTITY optionsHeader.homepage.startPage.button                 "pradžios tinklalapį">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "paskiausio seanso korteles">
 <!ENTITY optionsHeader.char.title                                "Simbolių koduotė">
 <!ENTITY optionsHeader.char.autodetect.label                     "Aptikti automatiškai">
-<!-- <!ENTITY optionsHeader.char.options.label                        "Rodyti koduotės nuostatas programos juostoje"> -->
+<!ENTITY optionsHeader.char.options.label                        "Rodyti koduotės parinktį programėlės juostoje">
 
-<!ENTITY clearPrivateData.title                                  "Valyti privačius duomenis">
-<!ENTITY clearPrivateData.label                                  "Valyti naršymo žurnalą, įrašytus slaptažodžius, slapukus ir formų duomenis šiame įrenginyje">
+<!ENTITY clearPrivateData.title                                  "Privačių duomenų šalinimas">
+<!ENTITY clearPrivateData.label                                  "Galima išvalyti naršymo žurnalą, įrašytus slaptažodžius, slapukus ir formų duomenis šiame įrenginyje">
 <!ENTITY clearPrivateData.button                                 "Valyti">
 <!ENTITY clearPrivateData.done                                   "Gerai">
 <!ENTITY clearPrivateData.history                                "Naršymo žurnalas">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Įsiminti slaptažodžius">
 <!ENTITY doNotTrack.title                                        "Sekimas">
-<!ENTITY doNotTrack.desc                                         "Nurodyti svetainėms:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "kad jos Jūsų nesektų">
-<!ENTITY doNotTrack.options.noPreference                         "neinformuoti svetainių apie Jūsų požiūrį į sekimą">
-<!ENTITY doNotTrack.options.trackingOkay                         "kad jos Jus sektų">
+<!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos Jus sektų">
+<!ENTITY doNotTrack.options.default                              "Neinformuoti svetainių apie Jūsų požiūrį į sekimą">
+<!ENTITY doNotTrack.learnMoreLink                                "Sužinoti daugiau…">
+
 <!ENTITY optionsHeader.reporting.title                           "Strigčių pranešiklis">
 <!ENTITY optionsHeader.reporting.crashes.label                   "„&brandShortName;“ siunčia „Mozillai“ strigčių pranešimus programos stabilumo ir saugumo gerinimo tikslais">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
