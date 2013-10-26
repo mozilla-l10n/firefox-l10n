@@ -268,6 +268,11 @@ size. -->
 <!ENTITY button_set "Nurodyti">
 <!ENTITY button_clear "Valyti">
 
+<!ENTITY home_top_sites_title "Lankomiausios">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Pridėti svetainę">
+
 <!ENTITY home_history_title "Žurnalas">
 <!ENTITY home_last_tabs_title "Kortelės iš pastarojo seanso">
 <!ENTITY home_last_tabs_open "Atverti visas pastarojo seanso korteles">
