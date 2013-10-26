@@ -223,9 +223,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Taisyti">
 <!ENTITY contextmenu_subscribe "Prenumeruoti tinklalapį">
 <!ENTITY contextmenu_site_settings "Keisti svetainės nuostatas">
-<!ENTITY contextmenu_top_bookmarks_edit "Taisyti">
-<!ENTITY contextmenu_top_bookmarks_pin "Įsegti svetainę">
-<!ENTITY contextmenu_top_bookmarks_unpin "Išsegti svetainę">
+<!ENTITY contextmenu_top_sites_edit "Taisyti">
+<!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
+<!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
@@ -233,7 +233,6 @@ size. -->
 
 <!ENTITY history_removed "Tinklalapis pašalintas">
 
-<!ENTITY bookmark_add "Įtraukti į adresyną">
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
 <!ENTITY bookmark_edit_name "Pavadinimas">
 <!ENTITY bookmark_edit_location "Vieta">
@@ -274,12 +273,12 @@ size. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
 
 <!ENTITY home_history_title "Žurnalas">
+<!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
 <!ENTITY home_last_tabs_title "Kortelės iš pastarojo seanso">
 <!ENTITY home_last_tabs_open "Atverti visas pastarojo seanso korteles">
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
 <!ENTITY home_most_recent_title "Paskiausios">
 <!ENTITY home_most_recent_empty "Čia išvardijamos Jūsų paskiausiai lankytos svetainės.">
-<!ENTITY home_most_visited_title "Lankomiausios">
 <!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -290,8 +289,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą skaityklės veiksenos piktogramą, pasirodančią antraštės juostoje.">
 
-<!ENTITY home_most_visited_empty "Čia išvardijamos Jūsų dažniausiai lankomos svetainės.">
-<!ENTITY pin_bookmark_dialog_hint "Įveskite paieškos žodį">
+<!ENTITY pin_site_dialog_hint "Įveskite reikšminį žodį paieškai">
 
 <!ENTITY filepicker_title "Parinkite failą">
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
