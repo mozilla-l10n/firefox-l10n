@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Installera en version av Simulator genom att hämta det relevanta tillägget.">
 <!ENTITY connection.installAnotherSimulator "Lägg till">
 <!ENTITY connection.installAnotherSimulatorTooltip "Installera ytterligare en version av Simulator genom att hämta det relevanta tillägget.">
+<!ENTITY connection.startRegisteredSimulator "Starta:">
 
 <!ENTITY projects.localApps "Lokala appar">
 <!ENTITY projects.addApp "Lägg till">
