@@ -55,6 +55,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Установить версию Симулятора, загрузив соответствующее дополнение.">
 <!ENTITY connection.installAnotherSimulator "Добавить">
 <!ENTITY connection.installAnotherSimulatorTooltip "Установить дополнительную версию Симулятора, загрузив соответствующее дополнение.">
+<!ENTITY connection.startRegisteredSimulator "Запустить:">
 <!ENTITY projects.localApps "Локальные приложения">
 <!ENTITY projects.addApp "Добавить">
 <!ENTITY projects.addPackaged "Добавить упакованное приложение">
@@ -71,6 +72,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Проектов нет. Добавьте ниже новое упакованное приложение (локальный каталог) или размещенное приложение (ссылку на файл манифеста).">
 <!ENTITY projects.manifestEditor "Редактор манифеста">
+<!ENTITY projects.manifestEditorTooltip "Редактировать манифест вашего приложения в панели ниже. Кнопка Обновить сохранит ваши изменения и обновит приложение.">
+<!ENTITY projects.manifestViewer "Просмотр манифеста">
+<!ENTITY projects.manifestViewerTooltip "Исследовать манифест вашего приложения в панели ниже.">
 <!ENTITY help.title "Управление приложениями">
 <!ENTITY help.close "Закрыть">
 <!ENTITY help.intro "Этот инструмент поможет вам в создании и установке веб-приложений на совместимые устройства (работающие под Firefox OS). Вкладка <strong>Приложения</strong> поможет вам в валидации и установке вашего приложения. Во вкладке <strong>Устройство</strong> отображается информация о подсоединённом устройстве. Используйте нижнюю панель инструментов для подсоединения к устройству или запуска симулятора.">
