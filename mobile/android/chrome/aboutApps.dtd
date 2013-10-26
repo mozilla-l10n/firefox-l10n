@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title2                          "Aplicativo">
+<!ENTITY aboutApps.title2                          "Aplicativos">
 <!ENTITY aboutApps.header                          "Seus aplicativos">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
