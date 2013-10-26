@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title    "Koduotė">
 <!ENTITY messageDisplay.caption           "Laiškų skaitymas">
-<!ENTITY viewDefaultCharset.label         "Numatytoji koduotė:">
-<!ENTITY viewDefaultCharset.accesskey     "k">
+<!ENTITY viewFallbackCharset.label        "Surogatinė simbolių koduotė:">
+<!ENTITY viewFallbackCharset.accesskey    "k">
+<!ENTITY viewFallbackCharset.desc         "(Naudojama atvaizduojant turinį, kurio koduotė nenurodyta.)">
 
 <!ENTITY composingMessages.caption        "Laiškų rašymas">
 <!ENTITY useMIME.label                    "8 bitais koduotiems laiškams naudoti „quoted printable“ MIME kodavimą. Jei norite siųsti laišką tokį, koks yra, nežymėkite šio langelio.">
