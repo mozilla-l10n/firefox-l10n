@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Innstillingar">
+<!ENTITY optionsHeader.startup.title                             "Oppstart">
+<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; startar, vis">
+<!ENTITY optionsHeader.homepage.startPage.button                 "startside">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "faner frå sist gong">
+<!ENTITY optionsHeader.char.title                                "Teiknkoding">
+<!ENTITY optionsHeader.char.autodetect.label                     "Auto-oppdag">
+<!ENTITY optionsHeader.char.options.label                        "Vis teiknkodingsinnstillingar i verktøylinja">
+
+<!ENTITY clearPrivateData.title                                  "Slett private data">
+<!ENTITY clearPrivateData.label                                  "">
+<!ENTITY clearPrivateData.button                                 "Tøm">
+<!ENTITY clearPrivateData.done                                   "Ferdig!">
+<!ENTITY clearPrivateData.history                                "Nettlesarhistorikk">
+<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, hurtiglager, infokapslar, osv.)">
+<!ENTITY clearPrivateData.downloadHist                           "Nedlastingshistorikk">
+<!ENTITY clearPrivateData.cookies                                "Infokapslar">
+<!ENTITY clearPrivateData.cache                                  "Hurtiglager">
+<!ENTITY clearPrivateData.sitePref                               "Nettstadinnstillingar">
+<!ENTITY clearPrivateData.formSearchHist                         "Skjema- og søkehistorikk">
+<!ENTITY clearPrivateData.passwords                              "Lagra passord">
+<!ENTITY clearPrivateData.offline                                "Fråkopla nettstadsdata">
+<!ENTITY clearPrivateData.logins                                 "Aktive innloggingar">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Hugs passord">
+<!ENTITY doNotTrack.title                                        "Ikkje spor">
+<!ENTITY doNotTrack.desc                                         "Fortel nettstadar at:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Eg ønskjer ikkje å verte spora">
+<!ENTITY doNotTrack.options.noPreference                         "Ingenting om mine sporingsønskjer">
+<!ENTITY doNotTrack.options.trackingOkay                         "Eg ønskjer å verte spora">
+<!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapportar for å hjelpe Mozilla med å gjere nettlesaren meir stabil og trygg">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetri">
+<!ENTITY optionsHeader.telemetry.label                            "Deler bruksstatistikk frå &brandShortName; med Mozilla for å hjelpe oss med å gjere nettlesaren betre">
