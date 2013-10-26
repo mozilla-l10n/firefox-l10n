@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Programos meniu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Atverti programos „&brandShortName;“ meniu">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kalendoriaus polangis">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Rodyti kalendoriaus polangį">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
