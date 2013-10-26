@@ -13,7 +13,7 @@
 <!ENTITY optionsHeader.homepage.sessionRestore.button            "paskiausio seanso korteles">
 <!ENTITY optionsHeader.char.title                                "Simbolių koduotė">
 <!ENTITY optionsHeader.char.autodetect.label                     "Aptikti automatiškai">
-<!-- <!ENTITY optionsHeader.char.options.label                        "Rodyti koduotės nuostatas programos juostoje"> -->
+<!ENTITY optionsHeader.char.options.label                        "Rodyti koduotės parinktį programėlės juostoje">
 
 <!ENTITY clearPrivateData.title                                  "Valyti privačius duomenis">
 <!ENTITY clearPrivateData.label                                  "Valyti naršymo žurnalą, įrašytus slaptažodžius, slapukus ir formų duomenis šiame įrenginyje">
