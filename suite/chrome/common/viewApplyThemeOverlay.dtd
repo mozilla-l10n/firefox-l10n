@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label          "Naudoti grafinį apvalkalas">
 <!ENTITY applyTheme.accesskey      "N">
-<!ENTITY getNewThemesCmd.label     "Atsiųsti apvalkalų">
-<!ENTITY getNewThemesCmd.accesskey "A">
-<!ENTITY getPersonasCmd.label      "Atsiųsti kaukių">
-<!ENTITY getPersonasCmd.accesskey  "k">
+<!ENTITY getMoreThemesCmd.label      "Atsisiųsti kitų apvalkalų">
+<!ENTITY getMoreThemesCmd.accesskey  "A">
+<!ENTITY getBackgroundsCmd.label     "Atsisiųsti fono paveikslų">
+<!ENTITY getBackgroundsCmd.accesskey "f">
