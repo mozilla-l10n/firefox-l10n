@@ -5,11 +5,6 @@
 <!ENTITY aboutApps.title2                          "Programos">
 <!ENTITY aboutApps.header                          "Jūsų programos">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle3): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Įdiegtų saityno programų nėra. Įsigykite jų iš ">
-<!ENTITY aboutApps.noApps.middle3 "„Firefox“ krautuvės">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Naršyti „Firefox“ krautuvę">
 <!ENTITY aboutApps.uninstall "Pašalinti">
 <!ENTITY aboutApps.addToHomescreen "Įtraukti į pradžios ekraną">
