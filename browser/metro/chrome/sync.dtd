@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Få tilgang til bokmerke, passord og opne faner på tvers av einingane dine">
+<!ENTITY sync.flyout.presetup.setup.label      "Set opp &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Set opp &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Dersom du har ein &syncBrand.shortName.label;-konto, trykk &quot;Knyt til ei eining&quot; på den andre eininga, og skriv inn denne koden.">
+<!ENTITY sync.flyout.setup.description2        "Dersom du ikkje har ein &syncBrand.shortName.label;-konto, kan du lage ein i desktop-utgåva av &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Eg er ikkje nær datamaskina mi …">
+<!ENTITY sync.flyout.setup.description3        "Merk:">
+<!ENTITY sync.flyout.setup.description4_2      "For å finne &quot;Knyt til ei eining&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Opne &quot;Innstillingar&quot;, og vel &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Meir &gt; Innstillingar &gt; &syncBrand.shortName.label;
+  	">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Skriv inn kontoinformasjonen for &syncBrand.shortName.label;-kontoen, og oppatbyggingsnøkkelen generert av datamaskina">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Kontonamn">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Passord">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Oppattbyggingsnøkkel">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Kople til">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Du kopla akkurat &brandShortName; saman med &syncBrand.shortName.label;-kontoen">
+<!ENTITY sync.flyout.setupsuccess.description2      "Dine &syncBrand.shortName.label;-data vert no lasta ned i bakgrunnen. Synkroniserte faner finn du på &brandShortName; Startside">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; klarte ikkje å kople til &syncBrand.shortName.label;-kontoen.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Avbryt">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Prøv igjen">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Konto:">
+<!ENTITY sync.flyout.connected.device                     "Eining:">
+<!ENTITY sync.flyout.connected.disconnect                 "Kople frå">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Kople frå eininga frå &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Alle personlege data, både på denne eininga og i &syncBrand.shortName.label;-kontoen, vert tekne vare på som dei er.">
+<!ENTITY sync.flyout.connected.cancel                     "Avbryt">
+<!ENTITY sync.flyout.connected.pair                       "Knyt til ei eining">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "På den nye eininga som du ønskjer å knyte til, vel &quot;Sett opp &syncBrand.shortName.label;&quot; og skriv inn koden som eininga lagar">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Knyt til">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Merk:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "For å finne koden,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Opne &quot;Innstillinger&quot; og følg desse stega: &syncBrand.shortName.label; -&gt; Set opp &syncBrand.shortName.label; -&gt; Eg har ein konto">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Meir &gt; Innstillingar &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Prøv igjen">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Den nye eininga er lagt til.">
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label;-dataa vert no lasta ned i bakgrunnen. Eksterne faner finn du på &brandShortName; Startside.">
