@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY splash_settingup "Наладжванне вашага &brandShortName;">
-<!ENTITY splash_bookmarks_history "Мы абнаўляем вашы закладкі і гісторыю, гэта зойме дзесьці хвіліну.">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
 <!ENTITY awesomebar_all_pages_title "Найнаведвальныя пляцоўкі">
@@ -11,14 +9,14 @@
 <!ENTITY awesomebar_history_title "Гісторыя">
 <!ENTITY awesomebar_switch_to_tab "Пераключыцца ў устаўку">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
-<!ENTITY crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
-<!ENTITY crash_include_url2 "Include the address of the page I was on">
-<!ENTITY crash_sorry "We\'re sorry">
+<!ENTITY crash_message2 "&brandShortName; зазнаў хібу і пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
+<!ENTITY crash_send_report_message3 "Расказаць &vendorShortName; пра гэты крах, каб ён быў выпраўлены">
+<!ENTITY crash_include_url2 "Уключыць адрас старонкі, на якой я быў">
+<!ENTITY crash_sorry "Прабачце">
 <!ENTITY crash_comment "Каментаваць (каментары прылюдна бачныя)">
-<!ENTITY crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
-<!ENTITY crash_email "Your email">
-<!ENTITY crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY crash_allow_contact2 "Дазволіць &vendorShortName; звяртацца да мяне з пытаннямі пра гэтую справаздачу">
+<!ENTITY crash_email "Ваша э-пошта">
+<!ENTITY crash_closing_alert "Выйсці без дасылання справаздачы пра крах?">
 <!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
 <!ENTITY crash_close_label "Зачыніць">
 <!ENTITY crash_restart_label "Перазапусціць &brandShortName;">
@@ -52,15 +50,24 @@
 <!ENTITY new_tab_opened "Адчынена новая ўстаўка">
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
-<!ENTITY pref_category_general "Агульныя">
-<!ENTITY pref_category_privacy "Адасабленне і бяспека">
-<!ENTITY pref_category_content "Змесціва">
+<!ENTITY pref_category_advanced "Пашыраны">
+<!ENTITY pref_category_customize "Уладкаваць">
+<!ENTITY pref_category_search2 "Наладжванні пошуку">
+<!ENTITY pref_category_display "Адлюстраванне">
+<!ENTITY pref_category_privacy_short "Адасабленне">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбар здаткаў">
-<!ENTITY pref_about_firefox "Пра &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Усталяваныя машыны пошуку">
+<!ENTITY pref_category_devtools "Прылады распрацаўніка">
+<!ENTITY pref_developer_remotedebugging "Адлеглая наладка">
+<!ENTITY pref_developer_remotedebugging_docs "Падрабязней">
 <!ENTITY pref_remember_signons "Памятаць паролі">
-<!ENTITY pref_header_general "Агульныя">
-<!ENTITY pref_header_privacy "Адасабленне і бяспека">
-<!ENTITY pref_header_content "Змест">
+<!ENTITY pref_header_customize "Уладкаваць">
+<!ENTITY pref_header_display "Адлюстраванне">
+<!ENTITY pref_header_privacy_short "Адасабленне">
+<!ENTITY pref_header_help "Даведка">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Прылады распрацаўніка">
 <!ENTITY pref_cookies_menu "Біркі">
 <!ENTITY pref_cookies_accept_all "Дазволены">
 <!ENTITY pref_cookies_not_accept_foreign "Дазволены, акрамя пабочных">
@@ -78,7 +85,11 @@
 <!ENTITY pref_plugins_tap_to_play "Ляпніце, каб прайграць">
 <!ENTITY pref_plugins_disabled "Забаронена">
 <!ENTITY pref_text_size "Памер тэксту">
-<!ENTITY pref_reflow_on_zoom3 "Double tap to reflow text">
+<!ENTITY pref_reflow_on_zoom4 "Перарысоўка тэксту">
+<!ENTITY pref_restore "Устаўкі">
+<!ENTITY pref_restore_always "Заўсёды аднаўляць">
+<!ENTITY pref_restore_crash "Аднаўляць пасля краху">
+<!ENTITY pref_restore_never "Ніколі не аднаўляць">
 <!ENTITY pref_font_size_tiny "Звыш-малы">
 <!ENTITY pref_font_size_small "Малы">
 <!ENTITY pref_font_size_medium "Сярэдні">
@@ -100,21 +111,24 @@
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles "Сцягнутыя файлы">
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
+<!ENTITY pref_about_firefox "Пра &brandShortName;">
+<!ENTITY pref_vendor_faqs "Пытанні і адказы">
+<!ENTITY pref_vendor_feedback "Даць водгук">
+<!ENTITY datareporting_notification_title "Статыстыка і здаткі &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Выбар звестак для падзелу">
 <!ENTITY datareporting_notification_action "Выбраць, чым дзяліцца">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_notification_summary "Каб палепшыць зручнасць ужывання, &brandShortName; самастойна дасылае асобныя звесткі да &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Каб палепшыць зручнасць ужывання, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Справаздача пра стан &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
+<!ENTITY datareporting_fhr_summary2 "Дзеліцца здаткамі з &vendorShortName; пра стан вашага азіральніка і дапамагае вам разумець яго працавыніковасць">
+<!ENTITY datareporting_abouthr_title "Пабачыць справаздачу пра стан">
 <!ENTITY datareporting_telemetry_title "Тэлеметрыя">
 <!ENTITY datareporting_telemetry_summary "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
 <!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
-<!ENTITY datareporting_wifi_title "&vendorShortName; location services">
-<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
+<!ENTITY datareporting_wifi_title "Службы месцазнаходжання &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Дапамагае палепшыць службы геамесцазнаходжання адкрытага Сеціва дазваляючы &brandShortName; збіраць і дасылаць безыменныя здаткі ў выглядзе клеткавых веж">
 <!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Забаронены">
@@ -137,9 +151,8 @@
 <!ENTITY tabs_normal "Устаўкі">
 <!ENTITY tabs_private "Асабістыя">
 <!ENTITY tabs_synced "Сінхранізаваныя">
-<!ENTITY wallpaper_success "Шпалеры абноўлены">
-<!ENTITY wallpaper_progress "Усталяванне шпалераў">
-<!ENTITY wallpaper_fail "Немагчыма ўсталяваць шпалеры">
+<!ENTITY set_image_fail "Немагчыма прызначыць выяву">
+<!ENTITY set_image_chooser_title "Прызначыць выяву">
 <!ENTITY find_text "Знайсці на старонцы">
 <!ENTITY find_prev "Папярэдняя">
 <!ENTITY find_next "Наступная">
@@ -158,8 +171,8 @@
 <!ENTITY contextmenu_subscribe "Падпісацца на старонку">
 <!ENTITY contextmenu_site_settings "Праўка наладжванняў пляцоўкі">
 <!ENTITY pref_titlebar_mode "Паліца загалоўка">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
+<!ENTITY pref_titlebar_mode_title "Паказваць загаловак старонкі">
+<!ENTITY pref_titlebar_mode_url "Паказваць адрас старонкі">
 <!ENTITY history_removed "Старонка выдалена">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
@@ -174,7 +187,7 @@
 <!ENTITY reading_list_removed "Старонка выдалена з вашага спісу чытання">
 <!ENTITY reading_list_failed "Няўдача дадавання старонкі ў ваш спіс чытання">
 <!ENTITY reading_list_duplicate "Старонка ўжо дададзена ў ваш спіс чытання">
-<!ENTITY reader "Чытач">
+<!ENTITY page_action_dropmarker_description "Дадатковыя дзеянні">
 <!ENTITY masterpassword_create_title "Стварэнне галоўны пароль">
 <!ENTITY masterpassword_remove_title "Выдаленне галоўнага пароля">
 <!ENTITY masterpassword_password "Пароль">
@@ -204,12 +217,12 @@
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
 <!ENTITY identity_connected_to "Вы з злучаны з">
 <!ENTITY identity_run_by "які падтрымліваецца">
-<!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
+<!ENTITY loaded_mixed_content_message "Гэтая старонка адлюстроўвае небяспечнае змесціва.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; блакаваў небяспечнае змесціва.">
 <!ENTITY blocked_mixed_content_message_bottom "Большасць сеціўных пляцовац будзе працаваць нават калі гэтае змесціва будзе заблакаваным.">
 <!ENTITY learn_more "Падрабязней">
 <!ENTITY enable_protection "Дазволіць ахову">
-<!ENTITY disable_protection "Disable protection">
+<!ENTITY disable_protection "Забараніць ахову">
 <!ENTITY keep_blocking "Трымаць блакаванне">
 <!ENTITY private_data_success "Асабістыя здаткі ачышчаныя">
 <!ENTITY private_data_fail "Асобныя асабістыя здаткі немагчыма ачысціць">
@@ -224,6 +237,7 @@
 <!ENTITY suggestions_prompt2 "Хочаце ўключыць прапановы пошуку &formatS;?">
 <!ENTITY webapp_generic_name "Прыстасаванне">
 <!ENTITY searchable_description "Закладкі і гісторыя">
+<!ENTITY devtools_remote_debugging_forward "Не забудзьце спыніць перанакіраванне парта!">
 <!ENTITY updater_start_title2 "Існуе абнаўленне &brandShortName;">
 <!ENTITY updater_start_select2 "Дакраніцеся, каб сцягнуць">
 <!ENTITY updater_downloading_title2 "Сцягванне &brandShortName;">
@@ -232,3 +246,11 @@
 <!ENTITY updater_downloading_retry2 "Дакраніцеся, каб паўтарыць">
 <!ENTITY updater_apply_title2 "Існуе абнаўленне &brandShortName;">
 <!ENTITY updater_apply_select2 "Дакраніцеся, каб абнавіць">
+<!ENTITY new_guest_session "Новая гасцявая сэсія">
+<!ENTITY exit_guest_session "Выйсці з гасцявой сэсіі">
+<!ENTITY guest_session_dialog_continue "Працягнуць">
+<!ENTITY guest_session_dialog_cancel "Скасаваць">
+<!ENTITY new_guest_session_title "&brandShortName; зараз перазапусціцца">
+<!ENTITY new_guest_session_text "Асоба, якая карыстаецца ім, не будзе здольная пабачыць вашы асабістыя азіральныя здаткі (захаваныя паролі, гісторыя або закладкі).\n\nКалі гасцявая сэсія скончыцца, яе азіральныя здаткі будуць выдалены і ваша сэсія адновіцца.">
+<!ENTITY exit_guest_session_title "&brandShortName; зараз перазапусціцца">
+<!ENTITY exit_guest_session_text "Здаткі азірання гэтай сэсіі будуць выдалены.">

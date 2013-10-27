@@ -6,8 +6,10 @@
 <!ENTITY searchHeading.accesskey "ў">
 <!ENTITY searchSubfolders.label "Пошук у падпапках">
 <!ENTITY searchSubfolders.accesskey "о">
-<!ENTITY searchLocalSystem.label "Шукаць у мясцовай сістэме">
-<!ENTITY searchLocalSystem.accesskey "м">
+<!ENTITY searchOnHeading.label "Выконваць пошук:">
+<!ENTITY searchOnHeading.accesskey "В">
+<!ENTITY searchOnRemote.label "на адлеглым паслугачы">
+<!ENTITY searchOnLocal.label "у мясцовай сістэме">
 <!ENTITY resetButton.label "Ачысціць">
 <!ENTITY resetButton.accesskey "ч">
 <!ENTITY openButton.label "Адчыніць">

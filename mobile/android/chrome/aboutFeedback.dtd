@@ -7,14 +7,15 @@
 <!ENTITY intro.message "Паведамце нам, што вы думаеце пра &brandShortName; для Android.">
 <!ENTITY intro.happyLink "Мне ён падабаецца">
 <!ENTITY intro.sadLink "Я зазнаў праблемы">
-<!ENTITY support.pre "Калі вам патрэбна дапамога або вы заналі праблему з &brandShortName;, наведайце, калі ласка, ">
+<!ENTITY intro.maybeLater "Магчыма пасля">
+<!ENTITY support.pre2 "Вы таксама можаце наведаць">
 <!ENTITY support.link "пляцоўку падтрымкі &brandShortName;">
-<!ENTITY support.post ".">
+<!ENTITY support.post2 ", каб атрымаць падрабязныя звесткі.">
 <!ENTITY happy.header "Прыемна ведаць!">
 <!ENTITY happy.message "Хочаце падзяліцца вашай улёбённасцю, даўшы нам 5 зорак на Google Play?">
 <!ENTITY happy.finePrint "Гэта зойме менш хвіліны і гучыць цудоўна!">
 <!ENTITY happy.ratingLink "Так, наведаць Google Play">
-<!ENTITY happy.maybeLater "Пазней">
+<!ENTITY happy.maybeLater2 "Магчыма пасля">
 <!ENTITY happy.noThanks "Не, дзякуй">
 <!ENTITY sad.message "Мы вельмі шкадуем, што вы зазналі праблемы з &brandShortName;. Раскажыце, калі ласка, нам, што здарылася, і мы выправім іх.">
 <!ENTITY sad.placeholder "Увядзіце ваш водгук тут">

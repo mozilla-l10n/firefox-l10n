@@ -103,6 +103,16 @@
 <!ENTITY mediaMute.accesskey "З">
 <!ENTITY mediaUnmute.label "Уключыць гук">
 <!ENTITY mediaUnmute.accesskey "У">
+<!ENTITY mediaPlaybackRate.label "Хуткасць грання">
+<!ENTITY mediaPlaybackRate.accesskey "г">
+<!ENTITY mediaPlaybackRate050.label "Нізкая хуткасць (0.5×)">
+<!ENTITY mediaPlaybackRate050.accesskey "Н">
+<!ENTITY mediaPlaybackRate100.label "Звычайная хуткасць">
+<!ENTITY mediaPlaybackRate100.accesskey "З">
+<!ENTITY mediaPlaybackRate150.label "Высокая хуткасць (1.5×)">
+<!ENTITY mediaPlaybackRate150.accesskey "В">
+<!ENTITY mediaPlaybackRate200.label "Двайная хуткасць">
+<!ENTITY mediaPlaybackRate200.accesskey "Д">
 <!ENTITY mediaShowControls.label "Паказаць медыя-кіроўцы">
 <!ENTITY mediaShowControls.accesskey "а">
 <!ENTITY mediaHideControls.label "Схаваць медыя-кіроўцы">

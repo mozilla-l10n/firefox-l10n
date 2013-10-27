@@ -2,30 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncHeader.title "Sync">
-<!ENTITY sync.setup.description "Доступ да вашых закладак, пароляў і адчыненых уставак з усіх вашых збудоваў">
-<!ENTITY sync.setupbutton.label "Уладкаваць Sync…">
-<!ENTITY sync.syncNow2 "Сінхранізаваць зараз ">
-<!ENTITY sync.deviceName "Гэтая збудова">
-<!ENTITY sync.removebutton.label "Прыняць гэтую збудову">
-<!ENTITY sync.removewarn.note "Здаткі азіральніка на гэтай збудове застануцца некранутымі, але вы не зможаце больш сінхранізавацца з гэтым рахункам.">
-<!ENTITY sync.removethrobber.label "Выдаленне збудовы">
-<!ENTITY sync.setup2.title "Уладкаванне Sync">
-<!ENTITY sync.setup.pair2 'Каб задзейнічаць, выберыце "Спараваць збудову" на іншай збудове.'>
-<!ENTITY sync.fallback "Увод або праўка звестак пра рахунак…">
-<!ENTITY sync.setup.manual "Увядзіце звесткі вашага рахунку Sync">
-<!ENTITY sync.account "Назва рахунку">
-<!ENTITY sync.password "Пароль">
-<!ENTITY sync.recoveryKey "Адноўны ключ">
-<!ENTITY sync.customServer "Ужываць іншы паслугач">
-<!ENTITY sync.serverURL "URL паслугача">
-<!ENTITY sync.setup.connect2 "Дадаць збудову">
-<!ENTITY sync.setup.cancel "Скасаваць">
-<!ENTITY sync.setup.remove "Выдаліць">
-<!ENTITY sync.setup.tutorial "Паказаць мне як">
-<!ENTITY sync.setup.waiting2 "Чаканне іншай збудовы…">
-<!ENTITY sync.pair.title "Спараваць збудову">
-<!ENTITY sync.pair.button "Спараваць збудову">
-<!ENTITY sync.pair.description 'Каб задзейнічаць новую збудову, выберыце "Уладкаваць Sync" на збудове.'>
-<!ENTITY sync.setup.close "Зачыніць">
-<!ENTITY sync.setup.waitingdownload "Вашы здаткі зараз фонава сцягваюцца. Вы можаце зачыніць гэтае акно калі хочаце.">
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.description1 "Доступ да вашых закладак, пароляў і адчыненых уставак на ўсіх вашых збудовах">
+<!ENTITY sync.flyout.presetup.setup.label "Наладзіць &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title "Наладжванне &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Калі вы маеце рахунак &syncBrand.shortName.label;, выберыце &quot;Спараваць збудову&quot; на вашай іншай збудове і ўвядзіце код.">
+<!ENTITY sync.flyout.setup.description2 "Калі вы не маеце рахунку &syncBrand.shortName.label;, вы можаце стварыць яго ў вашым &brandShortName; у настольным кампутары.">
+<!ENTITY sync.flyout.setup.manual.label "Не маю кампутара побач з сабой...">
+<!ENTITY sync.flyout.setup.description3 "Заўвага:">
+<!ENTITY sync.flyout.setup.description4 "Вы можаце выбраць &quot;Спараваць збудову&quot;">
+<!ENTITY sync.flyout.setup.description5 "[Працоўны стол] Перавагі -&gt; Sync">
+<!ENTITY sync.flyout.setup.description6 "[Android] Іншыя &gt; Наладжванні &gt; Sync">
+<!ENTITY sync.flyout.manualsetup.description1 "Увядзіце, калі ласка, звесткі пра ваш рахунак &syncBrand.shortName.label; і адноўны ключ, выраблены вашым кампутарам">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Назва рахунку">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Адноўны ключ">
+<!ENTITY sync.flyout.manualsetup.connect.label "Злучыць">
+<!ENTITY sync.flyout.setupsuccess.description1 "Вы зараз злучылі &brandShortName; з рахункам &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Вашыя здаткі &syncBrand.shortName.label; зараз фонава сцягваюцца. Вашы сіхранізаваня ўстаўкі знаходяцца на пачатковай старонцы &brandShortName;">
+<!ENTITY sync.flyout.setupfailure.description "&brandShortName; не можа злучыцца з рахункам &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Скасаваць">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Паспрабаваць зноў">
+<!ENTITY sync.flyout.connected.account "Рахунак:">
+<!ENTITY sync.flyout.connected.device "Ваша збудова:">
+<!ENTITY sync.flyout.connected.disconnect "Разлучыцца">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "Разлучыць вашу збудову з &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Усе вашы асабістыя здаткі на абодвух збудовах і рахунак &syncBrand.shortName.label; застануцца некранутымі.">
+<!ENTITY sync.flyout.connected.cancel "Скасаваць">
+<!ENTITY sync.flyout.connected.pair "Спараваць збудову">
+<!ENTITY sync.flyout.pairNewDevice.description "На новай збудове, якую вы хочаце спараваць, выберыце &quot;Наладзіць &syncBrand.shortName.label;&quot; і увядзіце код, выраблены на збудове">
+<!ENTITY sync.flyout.pairNewDevice.pair "Спараваць">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Заўвага:">
+<!ENTITY sync.flyout.pairNewDevice.note2 "Вы можаце знайсці код на &syncBrand.shortName.label; праз">
+<!ENTITY sync.flyout.pairNewDevice.note3 "[Працоўны стол] Прылады -&gt; Наладзіць Sync -&gt; Я маю рахунак">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Іншае &gt; Наладжванні &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Паспрабуйце, калі ласка, зноў">
+<!ENTITY sync.flyout.pairSuccess.description1 "Новая збудова паспяхова дададзена.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Вашыя здаткі &syncBrand.shortName.label; зараз фонава сцягваюцца. Вашы сіхранізаваня ўстаўкі знаходяцца на пачатковай старонцы &brandShortName;">
