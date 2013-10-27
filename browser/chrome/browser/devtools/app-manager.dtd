@@ -74,6 +74,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemple.com/application/manifest.webapp">
 <!ENTITY projects.noProjects "Aucun projet. Ajoutez ci-dessous une application empaquetée (répertoire local) ou une application hébergée (lien vers un fichier manifeste).">
 <!ENTITY projects.manifestEditor "Éditeur de manifeste">
+<!ENTITY projects.manifestEditorTooltip "Modifier le manifeste de votre application depuis le panneau ci-dessous. Le bouton Mettre à jour enregistrera vos changements et actualisera l'application.">
+<!ENTITY projects.manifestViewer "Visionneuse de manifeste">
+<!ENTITY projects.manifestViewerTooltip "Examiner dans le panneau ci-dessous le manifeste de votre application.">
 
 <!ENTITY help.title "Gestionnaire d'applications">
 <!ENTITY help.close "Fermer">
