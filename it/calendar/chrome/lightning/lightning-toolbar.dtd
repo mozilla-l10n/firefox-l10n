@@ -29,3 +29,7 @@
 <!ENTITY lightning.toolbar.month.accesskey "M">
 <!ENTITY lightning.toolbar.appmenuButton.label "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip "Visualizza il menu di &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label "Pannello Calendario">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey "P">
+<!ENTITY lightning.toolbar.calendarpane.label "Visualizza pannello Calendario">
+<!ENTITY lightning.toolbar.calendarpane.accesskey "P">

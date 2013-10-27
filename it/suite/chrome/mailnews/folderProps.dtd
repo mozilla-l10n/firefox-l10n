@@ -1,12 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "Proprietà">
 <!ENTITY generalInfo.label "Informazioni generali">
-<!ENTITY folderCharsetTab.label "Codifica caratteri predefinita:">
-<!ENTITY folderCharsetTab.accesskey "e">
-<!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetFallback.label "Codifica caratteri da utilizzare:">
+<!ENTITY folderCharsetFallback.accesskey "C">
+<!ENTITY folderCharsetEnforce.label "Applica la codifica a tutti i messaggi nella cartella (le impostazioni di codifica per i singoli messaggi e il riconoscimento automatico saranno ignorati)">
+<!ENTITY folderCharsetEnforce.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci l'indice">
 <!ENTITY folderRebuildSummaryFile2.label "Ripara cartella">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
