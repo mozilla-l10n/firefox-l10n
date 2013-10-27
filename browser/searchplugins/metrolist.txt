@@ -1,4 +1,4 @@
 bing
 googlemetrofx
-wikipedia
+wikipedia-ru
 yahoo
