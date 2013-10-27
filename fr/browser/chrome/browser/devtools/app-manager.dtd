@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Installer une version du simulateur en téléchargeant un module complémentaire.">
 <!ENTITY connection.installAnotherSimulator "Ajouter">
 <!ENTITY connection.installAnotherSimulatorTooltip "Installer une version supplémentaire du simulateur en téléchargeant un module complémentaire.">
+<!ENTITY connection.startRegisteredSimulator "Démarrer :">
 
 <!ENTITY projects.localApps "Applications locales">
 <!ENTITY projects.addApp "Ajouter">
