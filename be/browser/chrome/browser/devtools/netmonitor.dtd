@@ -40,3 +40,13 @@
 <!ENTITY netmonitorUI.timings.send "Дасыланне:">
 <!ENTITY netmonitorUI.timings.wait "Чаканне:">
 <!ENTITY netmonitorUI.timings.receive "Атрыманне:">
+<!ENTITY netmonitorUI.context.copyUrl "Скапіваць URL">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "к">
+<!ENTITY netmonitorUI.summary.resend "Перадаслаць">
+<!ENTITY netmonitorUI.summary.resend.accesskey "П">
+<!ENTITY netmonitorUI.custom.newRequest "Новы запыт">
+<!ENTITY netmonitorUI.custom.query "Радок запыту:">
+<!ENTITY netmonitorUI.custom.headers "Загалоўкі запыту:">
+<!ENTITY netmonitorUI.custom.postData "Цела запыту:">
+<!ENTITY netmonitorUI.custom.send "Даслаць">
+<!ENTITY netmonitorUI.custom.cancel "Скасаваць">

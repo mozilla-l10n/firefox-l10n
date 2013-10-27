@@ -8,17 +8,20 @@
 <!ENTITY forward.label "Наперад">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
-<!ENTITY appbarFindInPage2.label "Знайсці на старонцы">
-<!ENTITY appbarViewOnDesktop2.label "Прагляд на працоўным стале">
-<!ENTITY startTopSitesHeader.label "Найнаведвальныя пляцоўкі">
-<!ENTITY startBookmarksHeader.label "Закладкі">
-<!ENTITY startHistoryHeader.label "Нядаўняя гісторыя">
-<!ENTITY startRemoteTabsHeader.label "Устаўкі з іншых збудоваў">
-<!ENTITY snappedRemoteTabsHeader.label "Адлеглыя ўстаўкі >">
-<!ENTITY snappedBookmarksHeader.label "Закладкі >">
-<!ENTITY snappedHistoryHeader.label "Нядаўняя гісторыя >">
 <!ENTITY autocompleteResultsHeader.label "Вашы вынікі">
 <!ENTITY autocompleteSearchesHeader.label "Пошук у Інтэрнэце">
+<!ENTITY appbarErrorConsole.label "Адчыніць кансоль памылак">
+<!ENTITY appbarJSShell.label "Адчыніць абалонку JavaScript">
+<!ENTITY appbarFindInPage2.label "Знайсці на старонцы">
+<!ENTITY appbarViewOnDesktop2.label "Прагляд на працоўным стале">
+<!ENTITY topSitesHeader.label "Найнаведвальныя пляцоўкі">
+<!ENTITY bookmarksHeader.label "Закладкі">
+<!ENTITY recentHistoryHeader.label "Нядаўняя гісторыя">
+<!ENTITY remoteTabsHeader.label "Устаўкі з іншых збудоваў">
+<!ENTITY narrowTopSitesHeader.label "Найнаведвальныя пляцоўкі">
+<!ENTITY narrowBookmarksHeader.label "Закладкі">
+<!ENTITY narrowRecentHistoryHeader.label "Нядаўняя гісторыя">
+<!ENTITY narrowRemoteTabsHeader.label "Адлеглыя ўстаўкі">
 <!ENTITY downloadsHeader.label "Сцягванні">
 <!ENTITY downloadShowPage.label "Перайсці на старонку">
 <!ENTITY downloadShow2.label "Знайсці">
@@ -30,7 +33,6 @@
 <!ENTITY downloadRemove.label "Выдаліць">
 <!ENTITY downloadDelete.label "Выдаліць">
 <!ENTITY downloadFailed.label "Няўдача">
-<!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
 <!ENTITY consoleHeader.label "Кансоль памылак">
 <!ENTITY consoleAll.label "Усе">

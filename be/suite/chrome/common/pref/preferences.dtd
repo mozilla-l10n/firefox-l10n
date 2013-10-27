@@ -25,7 +25,6 @@
 <!ENTITY masterpass.label "Галоўныя паролі">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Пасведчанні">
-<!ENTITY validation.label "Пацвярджэнне">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Пашыраны">
 <!ENTITY down.label "Загрузка">

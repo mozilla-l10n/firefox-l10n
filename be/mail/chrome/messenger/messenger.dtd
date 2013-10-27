@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "р">
 <!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
 <!ENTITY allowRemoteDebugging.accesskey "д">
-<!ENTITY getMsgButton.label "Атрымаць">
+<!ENTITY getMsgButton1.label "Атрымаць лісты">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
 <!ENTITY replyAllButton.label "Адк. усім">

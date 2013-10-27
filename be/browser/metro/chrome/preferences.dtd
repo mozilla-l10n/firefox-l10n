@@ -32,3 +32,5 @@
 <!ENTITY doNotTrack.options.trackingOkay "Я жадаю, каб за мною сачылі">
 <!ENTITY optionsHeader.reporting.title "Паведамляльнік пра крахі">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; падае справаздачы пра крахі, каб дапамагчы Mozilla зрабіць ваш азіральнік больш устойлівым і бяспечным">
+<!ENTITY optionsHeader.telemetry.title "Тэлеметрыя">
+<!ENTITY optionsHeader.telemetry.label "Падзел статыстыкай ужывання &brandShortName; з Mozilla дапаможа нам зрабіць азіральнік лепшым">

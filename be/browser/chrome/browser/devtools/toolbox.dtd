@@ -5,6 +5,8 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Закрыць прылады распрацаўніка">
 <!ENTITY toolboxOptionsButton.key "O">
+<!ENTITY toolboxNextTool.key "]">
+<!ENTITY toolboxPreviousTool.key "[">
 <!ENTITY options.context.advancedSettings "Пашыраныя наладжванні">
 <!ENTITY options.context.requiresRestart2 "Патрабуе перазапуск азіральніка">
 <!ENTITY options.restartButton.label "Перазапусціць зараз">
@@ -24,3 +26,7 @@
 <!ENTITY options.webconsole.label "Кансоль Сеціва">
 <!ENTITY options.enablePersistentLogging.label "Дазволіць заўсёдныя метрыкі">
 <!ENTITY options.enablePersistentLogging.tooltip "Калі вы дазволіце гэты параметар, сеціўная кансоль не будзе вынішчаць вывад пасля пераходу на новую старонку">
+<!ENTITY options.profiler.label "Прафіляўнік JavaScript">
+<!ENTITY options.showPlatformData.label "Паказаць здаткі платформы Gecko">
+<!ENTITY options.showPlatformData.tooltip "Калі вы дазволіце гэтае наладжванне, справаздачы прафіляўніка JavaScript будуць
+уключаць сімвалы платформы Gecko">
