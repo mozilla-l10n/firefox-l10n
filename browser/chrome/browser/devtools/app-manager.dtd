@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Nainštaluje poslednú verziu Simulátora prevzatím relevantného doplnku">
 <!ENTITY connection.installAnotherSimulator "Pridať">
 <!ENTITY connection.installAnotherSimulatorTooltip "Nainštaluje ďalšiu verziu Simulátor prevzatím relevantného doplnku">
+<!ENTITY connection.startRegisteredSimulator "Spustiť:">
 
 <!ENTITY projects.localApps "Lokálne aplikácie">
 <!ENTITY projects.addApp "Pridať">
