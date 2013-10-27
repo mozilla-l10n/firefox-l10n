@@ -52,7 +52,7 @@
 <!ENTITY contextTextSelectAll.label "Выделить всё">
 <!ENTITY contextOpenLinkTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY contextCopyLinkHref.label "Копировать ссылку">
-<!ENTITY contextBookmarkLinkHref.label "Заложить ссылку">
+<!ENTITY contextBookmarkLinkHref.label "Добавить ссылку в закладки">
 <!ENTITY contextSaveImageLib.label "Сохранить в библиотеку изображений">
 <!ENTITY contextCopyImage.label "Копировать изображение">
 <!ENTITY contextCopyImageLocation.label "Копировать ссылку на изображение">
