@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
+<!ENTITY printPreviewCmd.label "Aperçu avant impression">
+<!ENTITY printPreviewCmd.accesskey "A">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
