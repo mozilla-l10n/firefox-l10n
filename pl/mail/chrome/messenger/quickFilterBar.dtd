@@ -6,7 +6,7 @@
 
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label     "Pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
-
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Wyświetla lub ukrywa pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.sticky.tooltip                     "Określa, czy automatycznie filtrować nowo otwierane foldery">
 

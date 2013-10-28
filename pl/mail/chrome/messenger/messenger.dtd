@@ -566,7 +566,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
 <!ENTITY appmenuNewContactCmd.label "Dodaj kontakt do książki adresowej…">
 <!ENTITY appmenuEditMenu.label "Edycja">
-<!ENTITY appmenuQFBMenu.label "Pasek szybkiego filtrowania">
 <!ENTITY appmenuToolbarLayout.label "Dostosuj pasek narzędzi…">
 <!ENTITY appmenuSelectThread.label "Zaznacz wątek">
 <!ENTITY appmenuSelectFlagged.label "Zaznacz oznaczone gwiazdką">
