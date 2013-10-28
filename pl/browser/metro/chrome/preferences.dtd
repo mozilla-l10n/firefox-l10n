@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY optionsHeader.title "Opcje">
-<!ENTITY optionsHeader.startup.title "Uruchamianie">
-<!ENTITY optionsHeader.homepage.title "Po uruchomieniu programu &brandShortName;:">
-<!ENTITY optionsHeader.homepage.startPage.button "wyświetl stronę startową">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "poprzednio otwarte karty">
 <!ENTITY optionsHeader.char.title "Zestaw znaków">
 <!ENTITY optionsHeader.char.autodetect.label "Wybór automatyczny">
 <!ENTITY optionsHeader.char.options.label "Wyświetlaj opcje kodowania na pasku aplikacji">
