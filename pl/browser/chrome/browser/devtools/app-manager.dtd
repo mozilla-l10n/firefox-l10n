@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instaluje symulator poprzez pobranie odpowiedniego dodatku">
 <!ENTITY connection.installAnotherSimulator "Dodaj">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instaluje dodatkowy symulator poprzez pobranie odpowiedniego dodatku">
+<!ENTITY connection.startRegisteredSimulator "Uruchom:">
 
 <!ENTITY projects.localApps "Aplikacje lokalne">
 <!ENTITY projects.addApp "Dodaj">
