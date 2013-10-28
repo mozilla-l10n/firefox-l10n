@@ -530,21 +530,3 @@
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; denkt dat dit een ongewenst bericht is.">
-<!ENTITY junkBarButton.label "Geen ongewenst bericht">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Om uw privacy te beschermen heeft &brandShortName; afbeeldingen op afstand in dit bericht geblokkeerd.">
-<!ENTITY loadRemoteContentButton.label "Afbeeldingen laden">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; denkt dat dit bericht misschien een e-mailscam is.">
-<!ENTITY removePhishingBarButton.label "Geen scam">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Verzoek negeren">
-<!ENTITY mdnBarIgnoreButton.accesskey "n">
-<!ENTITY mdnBarSendButton.label "Leesbevestiging versturen">
-<!ENTITY mdnBarSendButton.accesskey "L">
