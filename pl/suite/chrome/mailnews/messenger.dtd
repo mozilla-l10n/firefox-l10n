@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Wszystko">
 <!ENTITY all.accesskey "y">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "Ta wiadomość została rozpoznana jako niechciana.">
-<!ENTITY junkBarButton.label "Pożądana">
-<!ENTITY junkInfoButton.label "Dlaczego?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "W celu ochrony prywatności, program &brandShortName; zablokował w tej wiadomości wyświetlanie obrazków pochodzących z innych serwerów.">
-<!ENTITY loadRemoteContentButton.label "Wyświetl zdalną zawartość">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "Ta wiadomość najprawdopodobniej jest fałszywa.">
-<!ENTITY removePhishingBarButton.label "Prawdziwa">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Zignoruj prośbę">
-<!ENTITY mdnBarIgnoreButton.accesskey "Z">
-<!ENTITY mdnBarSendButton.label "Prześlij potwierdzenie">
-<!ENTITY mdnBarSendButton.accesskey "P">
