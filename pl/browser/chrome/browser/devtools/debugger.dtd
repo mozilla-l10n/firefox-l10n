@@ -88,6 +88,9 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Dodaj warunkowy punkt wstrzymania">
 <!ENTITY debuggerUI.seMenuCondBreak.key "s">
 
+<!ENTITY debuggerUI.tabs.variables "Zmienne">
+<!ENTITY debuggerUI.tabs.events "Zdarzenia">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Utwórz obserwowane wyrażenie z zaznaczenia">
