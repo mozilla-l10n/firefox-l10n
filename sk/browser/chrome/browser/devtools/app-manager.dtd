@@ -75,6 +75,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://priklad.sk/aplikacia/manifest.webapp">
 <!ENTITY projects.noProjects "Zatiaľ žiadne proejkty. Pridajte svoju prvú zbalenú aplikáciu (lokálny priečinok) alebo hostovanú aplikáciu (odkaz na súbor manifestu).">
 <!ENTITY projects.manifestEditor "Editor manifestu">
+<!ENTITY projects.manifestEditorTooltip "Upravte manifest svojej aplikácie v paneli nižšie. Pomocou tlačidla Aktualizovať uložíte svoje zmeny a aktualizujete aplikáciu.">
+<!ENTITY projects.manifestViewer "Zobrazovač manifestu">
+<!ENTITY projects.manifestViewerTooltip "Preskúmajte manifest svojej aplikácie v paneli nižšie.">
 
 <!ENTITY help.title "Správca aplikácií">
 <!ENTITY help.close "Zavrieť">
