@@ -18,12 +18,13 @@
 <!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label "Inne:">
 <!ENTITY languages.customize.others.accesskey "I">
-<!ENTITY languages.customize.Charset.grouplabel "Domyślny zestaw znaków">
-<!ENTITY languages.customize.DefaultCharset.label "Zestaw znaków:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "Z">
+<!ENTITY languages.customize.Fallback.grouplabel "Zestaw znaków dla przestarzałych treści">
+<!ENTITY languages.customize.Fallback.label "Rezerwowy zestaw znaków:">
+<!ENTITY languages.customize.Fallback.accesskey "z">
+<!ENTITY languages.customize.Fallback.desc "Używany na stronach, które same nie określają zestawu znaków.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "(wprowadź kod języka, np.: en-bz, ar-jo)">
 <!ENTITY languages.customize.moveUp.label "Przenieś w górę">
 <!ENTITY languages.customize.moveUp.accesskey "g">
 <!ENTITY languages.customize.moveDown.label "Przenieś w dół">
-<!ENTITY languages.customize.moveDown.accesskey "P">
+<!ENTITY languages.customize.moveDown.accesskey "r">
