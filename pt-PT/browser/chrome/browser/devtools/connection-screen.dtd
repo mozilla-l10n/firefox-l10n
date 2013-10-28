@@ -19,4 +19,10 @@
 <!ENTITY errorTimeout "Erro: ligação expirada.">
 <!ENTITY errorRefused "Erro: ligação recusada.">
 <!ENTITY errorUnexpected "Erro desconhecido.">
-<!ENTITY help2 "As ferramentas de programação do Firefox podem depurar dispositivos remotos (Firefox para Android e Firefox OS por exemplo). Verifique se ativou a opção 'Servidor de depuração' no dispositivo remoto. Consulte a <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>documentação</a>.">
+
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+<!ENTITY remoteHelp "As ferramentas de programação do Firefox  podem depurar os dispositivos remotos (por exemplo: Firefox para Android e Firefox OS). Certifiqu-se que ativou a opção 'Depuração remota' no dispositivo. Para mais informações consulte a">
+<!ENTITY remoteDocumentation "documentação">
+<!ENTITY remoteHelpSuffix ".">
