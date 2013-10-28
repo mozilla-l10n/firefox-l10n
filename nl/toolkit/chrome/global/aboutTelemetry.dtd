@@ -28,6 +28,10 @@
   Eenvoudige metingen
 ">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on-details
+">
+
 <!ENTITY aboutTelemetry.lateWritesSection "
   Late Writes
 ">
