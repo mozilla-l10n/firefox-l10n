@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Właściwości">
 
 <!ENTITY generalInfo.label "Informacje ogólne">
-<!ENTITY folderCharsetTab.label "Domyślny zestaw znaków:">
-<!ENTITY folderCharsetTab.accesskey "e">
-<!ENTITY folderCharsetOverride.label "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia zestawu znaków wiadomości oraz autodetekcja zostaną zignorowane)">
-<!ENTITY folderCharsetOverride.accesskey "a">
+<!ENTITY folderCharsetFallback.label "Rezerwowy zestaw znaków:">
+<!ENTITY folderCharsetFallback.accesskey "e">
+<!ENTITY folderCharsetEnforce.label "Stosuj wybrany zestaw dla wszystkich wiadomości w folderze (indywidualne ustawienia i automatyczne wykrywanie zestawu znaków będą pomijane)">
+<!ENTITY folderCharsetEnforce.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Przebuduj indeks w pliku podsumowania">
 <!ENTITY folderRebuildSummaryFile2.label "Napraw folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey "r">
