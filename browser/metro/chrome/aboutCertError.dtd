@@ -32,6 +32,7 @@ kunt u &brandShortName; vertellen de identiteit van deze website te vertrouwen.
 uw verbinding aan het knoeien is.</b>">
 <!ENTITY certerror.expert.contentPara2 "U kunt beter geen uitzondering toevoegen, tenzij
 u weet dat er een goede reden is dat deze website geen vertrouwde identificatie gebruikt.">
-<!ENTITY certerror.addException.label "Uitzondering toevoegen…">
+<!ENTITY certerror.addTemporaryException.label "Website bezoeken">
+<!ENTITY certerror.addPermanentException.label "Blijvende uitzondering toevoegen">
 
 <!ENTITY certerror.technical.heading "Technische details">
