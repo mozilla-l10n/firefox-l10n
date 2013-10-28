@@ -55,7 +55,7 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "訂閱…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY renameFolder.label "重新命名…">
+<!ENTITY renameFolder.label "重新命名資料夾…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "壓實重整郵件匣">
 <!ENTITY compactFolders.accesskey		"F">

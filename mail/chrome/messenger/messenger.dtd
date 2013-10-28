@@ -59,7 +59,7 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "刪除資料夾">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "重新命名…">
+<!ENTITY renameFolder.label "重新命名資料夾…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "壓實重整郵件匣">

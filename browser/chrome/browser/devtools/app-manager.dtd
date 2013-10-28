@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "透過下載相對應的附加元件安裝模擬器。">
 <!ENTITY connection.installAnotherSimulator "新增">
 <!ENTITY connection.installAnotherSimulatorTooltip "透過下載相對應的附加元件安裝其他版本的模擬器。">
+<!ENTITY connection.startRegisteredSimulator "啟動:">
 
 <!ENTITY projects.localApps "本機應用程式">
 <!ENTITY projects.addApp "新增">
