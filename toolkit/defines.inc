@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Engleski (SAD)
+#define MOZ_LANG_TITLE Hrvatski (HR)
