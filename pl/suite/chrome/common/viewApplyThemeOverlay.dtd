@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label "Zastosuj motyw">
 <!ENTITY applyTheme.accesskey "a">
-<!ENTITY getNewThemesCmd.label "Pobierz nowe motywy">
-<!ENTITY getNewThemesCmd.accesskey "P">
-<!ENTITY getPersonasCmd.label "Pobierz nowe minimotywy">
-<!ENTITY getPersonasCmd.accesskey "m">
+<!ENTITY getMoreThemesCmd.label "Pobierz kompletne motywy">
+<!ENTITY getMoreThemesCmd.accesskey "m">
+<!ENTITY getBackgroundsCmd.label "Pobierz motywy tła">
+<!ENTITY getBackgroundsCmd.accesskey "P">
