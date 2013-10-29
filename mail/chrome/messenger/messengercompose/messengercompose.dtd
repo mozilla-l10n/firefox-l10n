@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
+<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">

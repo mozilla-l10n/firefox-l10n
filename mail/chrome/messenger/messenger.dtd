@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nová správa">
 <!ENTITY appmenuNewContactCmd.label "Kontakt adresára…">
 <!ENTITY appmenuEditMenu.label "Úpravy">
-<!ENTITY appmenuQFBMenu.label "Panel Rýchly filter">
 <!ENTITY appmenuToolbarLayout.label "Rozloženie panela nástrojov…">
 <!ENTITY appmenuSelectThread.label "Vybrať vlákno">
 <!ENTITY appmenuSelectFlagged.label "Vybrať správy označené hviezdičkou">
