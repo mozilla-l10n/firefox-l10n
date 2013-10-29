@@ -55,6 +55,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instalar una versión del simulador descargando el complemento apropiado.">
 <!ENTITY connection.installAnotherSimulator "Añadir">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instalar una versión adicional del simulador descargando el complemento apropiado.">
+<!ENTITY connection.startRegisteredSimulator "Iniciar:">
 <!ENTITY projects.localApps "Aplicaciones locales">
 <!ENTITY projects.addApp "Añadir">
 <!ENTITY projects.addPackaged "Añadir aplicación empaquetada">
@@ -70,6 +71,10 @@
 <!ENTITY projects.debugAppTooltip "Abrir herramientas del desarrollador conectadas a esta aplicación">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hay proyectos. Añada una nueva aplicación empaquetada (directorio local) más abajo o una aplicación alojada (enlace a un archivo manifest).">
+<!ENTITY projects.manifestEditor "Editor de archivos manifest">
+<!ENTITY projects.manifestEditorTooltip "Edite el archivo manifest de su aplicación en el panel de debajo. El botón Actualizar guardará sus cambios y actualizará la aplicación.">
+<!ENTITY projects.manifestViewer "Visor de archivos manifest">
+<!ENTITY projects.manifestViewerTooltip "Examine el archivo manifest de su aplicación en el panel de debajo.">
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
 <!ENTITY help.intro "Esta herramienta le ayudará a generar e instalar aplicaciones web en dispositivos compatibles (i.e. Firefox OS). La pestaña <strong>Aplicaciones</strong> le ayudará en el proceso de validación e instalación de su aplicación. La pestaña <strong>Dispositivo</strong> le dará información sobre el dispositivo conectado. Use la barra de herramientas de debajo para conectarse a un dispositivo o iniciar el simulador.">
