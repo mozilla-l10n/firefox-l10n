@@ -2136,9 +2136,19 @@
 <rdf:Description about="#SSL">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="SSL:warnings"
+         nc:name="advertencias SSL"
+         nc:link="ssl_help.xhtml#ssl_warnings"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="SSL:mixed_content"
+         nc:name="contenido mezclado"
+         nc:link="ssl_help.xhtml#mixed_content"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="SSL:preferences"
          nc:name="preferencias SSL"
-	 nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
+         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SSL:protocols"
