@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
 <!ENTITY appmenuNewContactCmd.label "Kontakt adressbok…">
 <!ENTITY appmenuEditMenu.label "Redigera">
-<!ENTITY appmenuQFBMenu.label "Snabbfilter">
 <!ENTITY appmenuToolbarLayout.label "Layout verktygsfält…">
 <!ENTITY appmenuSelectThread.label "Välj tråd">
 <!ENTITY appmenuSelectFlagged.label "Välj stjärnmärkta meddelanden">
