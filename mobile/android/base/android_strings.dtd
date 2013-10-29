@@ -172,14 +172,13 @@
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Suscribirse a la página">
 <!ENTITY contextmenu_site_settings "Editar configuración del sitio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Fijar sitio">
-<!ENTITY contextmenu_top_bookmarks_unpin "Soltar sitio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Fijar sitio">
+<!ENTITY contextmenu_top_sites_unpin "Eliminar sitio fijado">
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY history_removed "Página eliminada">
-<!ENTITY bookmark_add "Añadir un marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
@@ -207,17 +206,16 @@
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
 <!ENTITY home_last_tabs_title "Pestañas de la última sesión">
 <!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_most_recent_title "Más recientes">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
-<!ENTITY home_most_visited_title "Más visitados">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
 <!ENTITY home_reading_list_hint "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &#037;I cuando aparezca en la barra de título.">
 <!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
-<!ENTITY home_most_visited_empty "Los sitios web que visite más frecuentemente se mostrarán aquí.">
-<!ENTITY pin_bookmark_dialog_hint "Introduzca una palabra clave de búsqueda">
+<!ENTITY pin_site_dialog_hint "Introduzca una palabra clave de búsqueda">
 <!ENTITY filepicker_title "Elegir archivo">
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
@@ -254,7 +252,7 @@
 <!ENTITY updater_downloading_retry2 "Pulse para reintentar">
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Pulse para actualizar">
-<!ENTITY new_guest_session "Abrir sesión invitado">
+<!ENTITY new_guest_session "Abrir sesión invitadox">
 <!ENTITY exit_guest_session "Cerrar sesión invitado">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
