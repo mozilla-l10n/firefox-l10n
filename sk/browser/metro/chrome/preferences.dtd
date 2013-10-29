@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Možnosti">
-<!ENTITY optionsHeader.startup.title                             "Spustenie">
-<!ENTITY optionsHeader.homepage.title                            "Pri spustení prehliadača &brandShortName; zobraziť">
-<!ENTITY optionsHeader.homepage.startPage.button                 "úvodnú stránku">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "karty z poslednej relácie">
 <!ENTITY optionsHeader.char.title                                "Kódovanie znakov">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatické rozpoznávanie">
 <!ENTITY optionsHeader.char.options.label                        "Zobraziť možnosti kódovania v paneli Aplikácie">
@@ -31,10 +27,10 @@
 <!ENTITY clearPrivateData.logins                                 "Aktívne prihlásenia">
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamätať si heslá">
 <!ENTITY doNotTrack.title                                        "Funkcia Do Not Track">
-<!ENTITY doNotTrack.desc                                         "Oznámiť stránkam, že:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "nechcem byť sledovaný">
-<!ENTITY doNotTrack.options.noPreference                         "neoznamovať moje preferencie v oblasti sledovania">
-<!ENTITY doNotTrack.options.trackingOkay                         "môžem byť sledovaný">
+<!ENTITY doNotTrack.options.doNotTrack                           "Požiadať webové stránky, aby nesledovali moju aktivitu">
+<!ENTITY doNotTrack.options.doTrack                              "Informovať webové stránky, že môžu sledovať moju aktivitu">
+<!ENTITY doNotTrack.options.default                              "Neinformovať stránky o mojich preferenciách v oblasti sledovania">
+<!ENTITY doNotTrack.learnMoreLink                                "Ďalšie informácie&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Oznamovateľ zlyhaní">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; odosiela správy o zlyhaní spoločnosti Mozilla s cieľom urobiť prehliadač stabilnejším a bezpečnejším">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">

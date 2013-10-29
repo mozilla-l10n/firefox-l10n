@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Otvoriť príkazový riadok JavaScriptu">
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
 <!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
+<!ENTITY appbarMSMetaData2.label    "Získať aplikáciu pre túto stránku">
 
 <!ENTITY topSitesHeader.label        "Top stránky">
 <!ENTITY bookmarksHeader.label       "Záložky">
