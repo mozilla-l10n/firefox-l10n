@@ -704,37 +704,43 @@
   <li><strong>Codificación predeterminada de caracteres</strong>:
     pulse en esta lista desplegable para seleccionar la codificación de
     caracteres que quiere que use Correo y noticias como predeterminada para
-    los mensajes entrantes de correo electrónico y grupos de noticias.
-    Esto se recomienda si es probable que reciba mensajes en los que no se
-    indique la codificación de caracteres (MIME charset), como sucede
-    al leer mensajes en grupos de noticias internacionales.</li>
-  <li><strong>Usar siempre esta codificación de caracteres
-    predeterminada al mostrar los mensajes (ignorar la codificación
-    especificada en la cabecera MIME)</strong>: seleccione esta opción
-    para aplicar la codificación de caracteres predeterminada a todos
-    los mensajes.
+    los mensajes entrantes de correo electrónico y grupos de noticias. Se
+    supone que los remitentes deben declarar la codificación de caracteres en
+    la que deben mostrarse sus mensajes, pero el contenido más antiguo (p.e.,
+    procedente de listas de correo o grupos de noticias internacionales) quizá
+    no lo hagan. Esta codificación se usa para esos mensajes que recibe en los
+    cuales la codificación de caracteres (MIME charset) no se especifica.
+    
+    <p><strong>Nota</strong>: las carpetas pueden anular individualmente esta
+      preferencia en la pestaña Información general de las propiedades de la
+      carpeta. A este diálogo puede accederse desde el menú Editar de una ventana
+      de Correo y noticias cuando se selecciona una carpeta.</p>
     
     <p><strong>Consejo</strong>: puede ver o cambiar más tarde la
-      codificación para una carpeta concreta. En la ventana de correo,
-      seleccione una carpeta de correo de la lista. Abra el menú Ver y
-      escoja Codificación de caracteres.</p>
+      codificación para un mensaje concreto. Seleccione una carpeta y luego el
+      mensaje que quiere mostrar. Abra el menú Ver y elija Codificación de
+      caracteres.</p>
   </li>
   <li><strong>Usar codificación MIME 'quoted printable' en los mensajes
     que contienen caracteres de 8 bits. Déjelo sin marcar para enviar
     el mensaje tal cual</strong>: marque esta casilla para que Correo y
     noticias use la codificación MIME <q>quoted printable</q> al enviar
     mensajes normales que usen una codificación de caracteres de 8 bits
-    (por ejemplo, Latin ISO-8859-3).</li>
+    (por ejemplo, Latin ISO-8859-3). Esto suele ser necesario únicamente
+    cuando se comunica a través de un servidor antiguo que no procesa
+    correctamente las codificaciones de 8 bits.</li>
   <li><strong>Codificación predeterminada de caracteres</strong>:
     seleccione el idioma que quiere que &brandShortName; use como
-    predeterminado para los mensajes salientes de correo y grupos de noticias.
-    Observe que esta codificación de caracteres <strong>no</strong>
-    es la que se usará cuando conteste a un mensaje. En su lugar se
-    usará de manera predeterminada la del mensaje que está siendo
-    contestado. Si lo desea, elija <strong>Usar siempre esta
-    codificación de caracteres por omisión en las
-    respuestas</strong> para utilizar la codificación predeterminada de
-    caracteres para los mensajes salientes incluso al responder.</li>
+    predeterminado para los mensajes salientes de correo y grupos de
+    noticias.</li>
+  <li><strong>Si es posible, usar la codificación de caracteres por defecto
+    en las respuestas (si está desmarcado sólo usan el valor por defecto los
+    mensajes nuevos).</strong>: por defecto, la codificación de caracteres
+    seleccionada <strong>no</strong> es la que se usará cuando conteste a un
+    mensaje. En su lugar se usará la del mensaje que está siendo contestado.
+    Elija esta opción para usar la codificación de caracteres predeterminada
+    para los mensajes salientes incluso al responder, siempre que los
+    caracteres citados puedan representarse en la codificación seleccionada.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Volver al principio de
