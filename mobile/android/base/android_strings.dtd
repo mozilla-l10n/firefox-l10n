@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Redigera">
 <!ENTITY contextmenu_subscribe "Prenumerera på sidan">
 <!ENTITY contextmenu_site_settings "Redigera platsinställningar">
-<!ENTITY contextmenu_top_bookmarks_edit "Redigera">
-<!ENTITY contextmenu_top_bookmarks_pin "Fäst plats">
-<!ENTITY contextmenu_top_bookmarks_unpin "Lösgör plats">
+<!ENTITY contextmenu_top_sites_edit "Redigera">
+<!ENTITY contextmenu_top_sites_pin "Fäst plats">
+<!ENTITY contextmenu_top_sites_unpin "Lösgör plats">
 
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Sidan borttagen">
 
-<!ENTITY bookmark_add "Lägg till bokmärke">
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Adress">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
 
 <!ENTITY home_history_title "Historik">
+<!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
 <!ENTITY home_last_tabs_title "Tidigare flikar">
 <!ENTITY home_last_tabs_open "Öppna alla flikar från senast">
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
 <!ENTITY home_most_recent_title "Senaste">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
-<!ENTITY home_most_visited_title "Mest besökta">
 <!ENTITY home_reading_list_empty "Artiklar som du sparat till senare visas här.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPS: Spara artiklar till läslistan genom att långtrycka på läslägeknappen när den visas i namnfältet.">
 
-<!ENTITY home_most_visited_empty "Webbplatser du besökt oftast visas här.">
-<!ENTITY pin_bookmark_dialog_hint "Skriv in ett söknyckelord">
+<!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
 <!ENTITY filepicker_title "Välj fil">
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
