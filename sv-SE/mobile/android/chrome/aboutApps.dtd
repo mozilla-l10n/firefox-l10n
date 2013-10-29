@@ -5,11 +5,6 @@
 <!ENTITY aboutApps.title2                          "Appar">
 <!ENTITY aboutApps.header                          "Dina appar">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Inga webbappar är installerade. Hämta några från ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Gå till Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "Avinstallera">
 <!ENTITY aboutApps.addToHomescreen "Lägg till på startskärmen">

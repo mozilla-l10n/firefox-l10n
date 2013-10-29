@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+<!ENTITY getUserMediaDialog.title                 "Mediadelning">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "Dela">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "D">
+<!ENTITY getUserMediaDialog.buttonlabelcancel     "Avbryt">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "b">
+
+<!ENTITY getUserMediaDialog.video.label           "Välj kamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "Ingen video">
+<!ENTITY getUserMediaDialog.audio.label           "Välj mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio         "Inget ljud">
