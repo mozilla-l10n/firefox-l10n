@@ -5,11 +5,7 @@
 <!ENTITY aboutApps.title2 "Aplikace">
 <!ENTITY aboutApps.header "Moje aplikace">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Žádné webové aplikace nejsou nainstalovány. Získejte je z ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Aplikace na Firefox Marketplace">
+
 <!ENTITY aboutApps.uninstall "Odinstalovat">
 <!ENTITY aboutApps.addToHomescreen "Přidat na domovskou obrazovku">
