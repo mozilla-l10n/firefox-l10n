@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Oppdateringer er avslått av systemansvarlig">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; blir oppdatert av en annen kopi av programmet">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; blir oppdatert av en annen programøkt">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

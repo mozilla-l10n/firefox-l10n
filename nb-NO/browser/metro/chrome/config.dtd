@@ -11,6 +11,6 @@
 <!ENTITY reset.label            "Tilbakestill">
 <!ENTITY done.label             "Ferdig">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Tall">
+<!ENTITY string.label           "Tekst">
+<!ENTITY boolean.label          "Boolsk">
