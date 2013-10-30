@@ -77,7 +77,7 @@
 <!ENTITY filterOutput.placeholder "Filter výstupu">
 <!ENTITY btnClear.label "Vymazat">
 <!ENTITY btnClear.tooltip "Vymaže obsah webové konzoly">
-<!ENTITY btnClear.accesskey    "o">
+<!ENTITY btnClear.accesskey    "V">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
