@@ -1,6 +1,9 @@
 <!ENTITY inspectorHTMLCopyInner.label "Kopírovat vnitřní HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "p">
 
+<!ENTITY inspectorHTMLCopyInner.label       "Kopírovat vnitřní HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "v">
+
 <!ENTITY inspectorHTMLCopyOuter.label "Kopírovat vnější HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "o">
 
