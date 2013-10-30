@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Teckenkodning">
 <!ENTITY messageDisplay.caption          "Visning av meddelanden">
-<!ENTITY viewDefaultCharset.label        "Förinställd teckenkodning:">
-<!ENTITY viewDefaultCharset.accesskey    "F">
+<!ENTITY viewFallbackCharset.label       "Reservteckenkodning:">
+<!ENTITY viewFallbackCharset.accesskey   "R">
+<!ENTITY viewFallbackCharset.desc        "(Används för gammalt innehåll som inte innehåller uppgift om teckenkodning.)">
 
 <!ENTITY composingMessages.caption       "Skriva meddelanden">
 <!ENTITY useMIME.label                   "För meddelanden som innehåller 8-bitarstecken, använd MIME-kodning 'quoted printable'. Är rutan inte markerad skickas meddelanden som de är.">
