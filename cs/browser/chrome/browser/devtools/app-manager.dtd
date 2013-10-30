@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Nainstaluje verzi Simulátoru stažením odpovídajícího doplňku.">
 <!ENTITY connection.installAnotherSimulator "Přidat">
 <!ENTITY connection.installAnotherSimulatorTooltip "Nainstaluje dodatečnou verzi Simulátoru stažením odpovídajícího doplňku.">
+<!ENTITY connection.startRegisteredSimulator "Začátek:">
 
 <!ENTITY projects.localApps "Místní aplikace">
 <!ENTITY projects.addApp "Přidat">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Otevře Nástroje vývojáře pro tuto aplikaci">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Žádné projekty. Přidejte novou zabalenou aplikaci níže (místní složka) nebo hostovanou aplikaci (odkaz na manifest soubor).">
+<!ENTITY projects.manifestEditor "Editor manifestu">
+<!ENTITY projects.manifestEditorTooltip "Upraví manifest vaší aplikace v panelu níže. Tlačítkem pro aktualizaci uložíte své změny a aktualizujete aplikaci.">
+<!ENTITY projects.manifestViewer "Prohlížeč manifestu">
+<!ENTITY projects.manifestViewerTooltip "Zobrazí manifest vaší aplikaci v paneu níže.">
 
 <!ENTITY help.title "Správce aplikací">
 <!ENTITY help.close "Zavřít">

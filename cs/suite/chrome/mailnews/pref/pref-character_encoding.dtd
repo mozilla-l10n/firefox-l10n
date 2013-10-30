@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title "Znaková sada">
 <!ENTITY messageDisplay.caption "Zobrazení zpráv">
-<!ENTITY viewDefaultCharset.label "Výchozí znaková sada:">
-<!ENTITY viewDefaultCharset.accesskey "z">
+<!ENTITY viewFallbackCharset.label       "Výchozí znaková sada:">
+<!ENTITY viewFallbackCharset.accesskey   "z">
+<!ENTITY viewFallbackCharset.desc        "(Použita pro historický obsah, který neobsahuje deklaraci o použitém kódování.)">
 
 <!ENTITY composingMessages.caption "Vytváření zpráv">
 <!ENTITY useMIME.label "Pro zprávy obsahující osmibitové znaky (např. diakritiku) použít MIME kódování 'quoted printable'. (Není-li zaškrtnuto, zprávy se budou odesílat nezměněny.)">

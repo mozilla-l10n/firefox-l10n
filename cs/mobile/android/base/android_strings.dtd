@@ -227,9 +227,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Upravit">
 <!ENTITY contextmenu_subscribe "Odebírat stránku">
 <!ENTITY contextmenu_site_settings "Upravit nastavení stránky">
-<!ENTITY contextmenu_top_bookmarks_edit "Upravit">
-<!ENTITY contextmenu_top_bookmarks_pin "Připnout stránku">
-<!ENTITY contextmenu_top_bookmarks_unpin "Odepnout stránku">
+<!ENTITY contextmenu_top_sites_edit "Upravit">
+<!ENTITY contextmenu_top_sites_pin "Připnout stránku">
+<!ENTITY contextmenu_top_sites_unpin "Odepnout stránku">
 
 <!ENTITY pref_titlebar_mode "Hlavička okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
@@ -237,7 +237,6 @@ size. -->
 
 <!ENTITY history_removed "Stránka odebrána">
 
-<!ENTITY bookmark_add "Přidat záložku">
 <!ENTITY bookmark_edit_title "Upravit záložku">
 <!ENTITY bookmark_edit_name "Název">
 <!ENTITY bookmark_edit_location "Adresa">
@@ -278,12 +277,12 @@ size. -->
 <!ENTITY home_top_sites_add "Přidat stránku">
 
 <!ENTITY home_history_title "Historie">
+<!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
 <!ENTITY home_last_tabs_title "Panely z minula">
 <!ENTITY home_last_tabs_open "Otevřít všechny panely z minula">
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_most_recent_title "Poslední">
 <!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navšívili, se zobrazí zde.">
-<!ENTITY home_most_visited_title "Nejvíce navštěvované">
 <!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -294,8 +293,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: Uložte článek do vašeho seznamu ke čtení dlouhým stisknutím tlačítka režimu pro čtení, jakmile se zobrazí v hlavičce okna.">
 
-<!ENTITY home_most_visited_empty "Webové stránky, které nejvíce navštěvujete, se zobrazí zde.">
-<!ENTITY pin_bookmark_dialog_hint "Vložení hledaného klíčového slova">
+<!ENTITY pin_site_dialog_hint "Vložení hledaného klíčového slova">
 
 <!ENTITY filepicker_title "Vyberte soubor">
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
