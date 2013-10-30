@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "여러 기기에 걸쳐 북마크, 암호, 그리고 열린 탭에 접근하기">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; 설정">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; 설정">
+<!ENTITY sync.flyout.setup.description1        "&syncBrand.shortName.label; 계정이 있으면 &quot;새 기기 연결&quot;을 선택하고 이 코드를 입력하십시오.">
+<!ENTITY sync.flyout.setup.description2        "&syncBrand.shortName.label; 계정이 없으면, &brandShortName; 데스크톱 브라우저에서 만드실 수 있습니다.">
+<!ENTITY sync.flyout.setup.manual.label_2      "다른 컴퓨터가 근처에 없습니다…">
+<!ENTITY sync.flyout.setup.description3        "Note:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;기기 연결하기&quot;를 찾으려면,">
+<!ENTITY sync.flyout.setup.description5_2      "[데스크톱] &quot;설정&quot;이나 &quot;환경 설정&quot;을 열고 &quot;&syncBrand.shortName.label;&quot;를 선택">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] 더 보기 &gt; 설정 &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "&syncBrand.shortName.label; 계정 정보와 다른 컴퓨터에서 만들어진 복구키 입력">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "계정 이름">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "암호">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "복구키">
+<!ENTITY sync.flyout.manualsetup.connect.label           "연결">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName;를 &syncBrand.shortName.label; 계정에 연결함">
+<!ENTITY sync.flyout.setupsuccess.description2      "&syncBrand.shortName.label; 데이터는 눈에 띄지 않게 뒤에서 내려받고 있습니다. 동기화된 탭은 &brandShortName; 시작 페이지에서 찾으실 수 있습니다.">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;를 &syncBrand.shortName.label; 계정에 연결하지 못했습니다.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "취소">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "다시 시도">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "계정:">
+<!ENTITY sync.flyout.connected.device                     "기기:">
+<!ENTITY sync.flyout.connected.disconnect                 "연결 끊기">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "기기의 &syncBrand.shortName.label; 연결을 끊으시겠습니까?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "기기와 &syncBrand.shortName.label; 계정의 모든 account will remain intact.">
+<!ENTITY sync.flyout.connected.cancel                     "취소">
+<!ENTITY sync.flyout.connected.pair                       "기기 연결">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "연결할 새 기기에서, &quot;&syncBrand.shortName.label; 설정&quot;에 들어가 이 기기가 만든 코드를 입력하십시오.">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "연결">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "참고:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "코드를 찾으려면,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[데스크톱] &quot;설정&quot; 또는 &quot;환경 설정&quot;에서 &syncBrand.shortName.label; &gt; &syncBrand.shortName.label; 설정 &gt; 계정 있음">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] 메뉴 &gt;프로그램 설정 &gt; &syncBrand.shortName.label;"> <!-- Android Firefox 의 어디에서도 원문의 More에 해당하는 부분을 찾을 수 없어 메뉴로 고침 -->
+<!ENTITY sync.flyout.pairNewDevice.failure                "다시 시도해 주십시오.">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "새 기기를 성공적으로 추가했습니다.">
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label; 데이터는 눈에 띄지 않게 뒤에서 내려받고 있습니다. 다른 기기의 탭은 &brandShortName; 시작 페이지에서 찾으실 수 있습니다.">
