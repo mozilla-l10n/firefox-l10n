@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label "TLS 1.2">
 <!ENTITY limit.tls12.accesskey "2">
 
-<!ENTITY warn.description "&brandShortName; może informować o poziomie bezpieczeństwa oglądanych stron WWW. Ostrzeżenie z pytaniem o kontynuację zostanie wyświetlone przed:">
+<!ENTITY warn.description2 "&brandShortName; może informować o poziomie bezpieczeństwa oglądanych stron WWW. Ostrzeżenie z pytaniem o zezwolenie zostanie wyświetlone przed:">
 <!ENTITY warn.enteringsecure "Wczytaniem strony, która używa szyfrowania">
 <!ENTITY warn.enteringsecure.accesskey "W">
 <!ENTITY warn.insecurepost "Przesyłaniem danych pomiędzy stronami, które nie używają szyfrowania">

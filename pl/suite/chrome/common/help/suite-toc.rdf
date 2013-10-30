@@ -715,7 +715,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
         <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Filtr niechcianej poczty a filtry wiadomości" nc:link="mailnews_organizing.xhtml#junk_controls_and_filters" /> </rdf:li>
 
-		<rdf:li> <rdf:Description ID="mail-junk-phishing" nc:name="Wykrywanie oszustw" nc:link=mailnews_organizing.xhtml#phishing_detection" /> </rdf:li>
+		<rdf:li> <rdf:Description ID="mail-junk-phishing" nc:name="Wykrywanie oszustw" nc:link="mailnews_organizing.xhtml#phishing_detection" /> </rdf:li>
 
       </rdf:Seq>
 

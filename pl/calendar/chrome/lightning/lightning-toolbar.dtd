@@ -36,3 +36,7 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!ENTITY lightning.toolbar.appmenuButton.label "Menu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label "Panel kalendarza">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey "P">
+<!ENTITY lightning.toolbar.calendarpane.label "Wyświetlaj panel kalendarza">
+<!ENTITY lightning.toolbar.calendarpane.accesskey "W">

@@ -15,6 +15,7 @@
 <!ENTITY appbarJSShell.label "Otwórz powłokę JavaScript">
 <!ENTITY appbarFindInPage2.label "Znajdź na stronie">
 <!ENTITY appbarViewOnDesktop2.label "Wyświetl na pulpicie">
+<!ENTITY appbarMSMetaData2.label "Pobierz aplikację dla tej witryny">
 
 <!ENTITY topSitesHeader.label "Popularne">
 <!ENTITY bookmarksHeader.label "Zakładki">

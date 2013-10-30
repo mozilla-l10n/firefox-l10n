@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY getUserMediaDialog.title "Udostępnianie zasobów">
+<!ENTITY getUserMediaDialog.buttonlabelaccept "Udostępniaj">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "U">
+<!ENTITY getUserMediaDialog.buttonlabelcancel "Anuluj">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
+
+<!ENTITY getUserMediaDialog.video.label "Wybierz kamerę">
+<!ENTITY getUserMediaDialog.video.noVideo "Brak wideo">
+<!ENTITY getUserMediaDialog.audio.label "Wybierz mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio "Brak audio">

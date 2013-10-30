@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title "Kodowanie znaków">
 <!ENTITY messageDisplay.caption "Wyświetlanie wiadomości">
-<!ENTITY viewDefaultCharset.label "Domyślne kodowanie znaków:">
-<!ENTITY viewDefaultCharset.accesskey "D">
+<!ENTITY viewFallbackCharset.label "Rezerwowy zestaw znaków:">
+<!ENTITY viewFallbackCharset.accesskey "R">
+<!ENTITY viewFallbackCharset.desc "(Używany dla zawartości, które same nie określają zestawu znaków.)">
 
 <!ENTITY composingMessages.caption "Tworzenie wiadomości">
 <!ENTITY useMIME.label "Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME „quoted printable”. Pozostaw bez zaznaczenia, aby wysłać wiadomość taką, jaka jest.">
