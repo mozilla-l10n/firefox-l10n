@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Eszközök be/ki">
 <!ENTITY devToolboxMenuItem.accesskey      "b">
 <!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "T">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Fejlesztői eszközök be/ki">
 <!ENTITY devToolbarOtherToolsButton.label  "További eszközök">
