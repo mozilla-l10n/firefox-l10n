@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "V">
+<!ENTITY printPreviewCmd.label "Náhled tisku">
+<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">

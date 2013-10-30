@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
 <!ENTITY appmenuNewContactCmd.label "Kontakt v adresáři…">
 <!ENTITY appmenuEditMenu.label "Upravit">
-<!ENTITY appmenuQFBMenu.label "Rychlý filtr">
 <!ENTITY appmenuToolbarLayout.label "Upravit lišty…">
 <!ENTITY appmenuSelectThread.label "Vybrat vlákna">
 <!ENTITY appmenuSelectFlagged.label "Vybrat zprávy s hvězdičkou">
