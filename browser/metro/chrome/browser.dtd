@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Otevřít JavaScriptový shell">
 <!ENTITY appbarFindInPage2.label    "Najít na stránce">
 <!ENTITY appbarViewOnDesktop2.label "Zobrazit na desktopu">
+<!ENTITY appbarMSMetaData2.label    "Získat aplikaci pro tuto stránku">
 
 <!ENTITY topSitesHeader.label        "Top stránky">
 <!ENTITY bookmarksHeader.label       "Záložky">
