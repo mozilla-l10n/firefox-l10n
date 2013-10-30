@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice2         "Efetue pedido ou recarregue a página para ver informação detalhada sobre a atividade da rede.">
+<!ENTITY netmonitorUI.emptyNotice2         "Efetue um pedido ou recarregue a página para ver informação detalhada sobre a atividade da rede.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -101,7 +101,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
-<!ENTITY netmonitorUI.panesButton.tooltip "Alternarr informações de rede">
+<!ENTITY netmonitorUI.panesButton.tooltip "Alternar informações de rede">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
