@@ -46,6 +46,8 @@
 <!ENTITY sendLaterCmd.accesskey "D">
 <!ENTITY printSetupCmd.label "Impostazione pagina…">
 <!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Anteprima di stampa">
+<!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "m">
