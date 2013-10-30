@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label "Nabídka aplikace">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panel kalendáře">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Zobrazit panel kalendáře">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "Z">
