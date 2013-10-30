@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "검색어나 주소 입력">
+
+<!ENTITY back.label            "뒤로">
+<!ENTITY forward.label         "앞으로">
+<!ENTITY newtab.label          "새 탭">
+<!ENTITY closetab.label        "탭 닫기">
+
+<!ENTITY autocompleteResultsHeader.label  "결과">
+
+<!ENTITY appbarErrorConsole.label   "오류 콘솔 열기">
+<!ENTITY appbarJSShell.label        "JavaScript 쉘 열기">
+<!ENTITY appbarFindInPage2.label    "페이지 내 검색">
+<!ENTITY appbarViewOnDesktop2.label "데스크톱 모드에서 보기">
+
+<!ENTITY topSitesHeader.label        "자주 방문한 사이트">
+<!ENTITY bookmarksHeader.label       "북마크">
+<!ENTITY recentHistoryHeader.label   "최근 방문 기록">
+<!ENTITY remoteTabsHeader.label      "다른 기기에 저장된 탭 정보">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "자주 방문">
+<!ENTITY narrowBookmarksHeader.label     "북마크">
+<!ENTITY narrowRecentHistoryHeader.label "최근 방문">
+<!ENTITY narrowRemoteTabsHeader.label    "원격 탭">
+
+<!ENTITY downloadsHeader.label     "다운로드">
+<!ENTITY downloadShowPage.label    "페이지로 가기">
+<!ENTITY downloadShow2.label       "찾기">
+<!ENTITY downloadOpen2.label       "열기">
+<!ENTITY downloadCancel.label      "취소">
+<!ENTITY downloadPause.label       "중단">
+<!ENTITY downloadResume.label      "계속">
+<!ENTITY downloadRetry.label       "다시 시도">
+<!ENTITY downloadRemove.label      "빼기">
+<!ENTITY downloadDelete.label      "삭제">
+<!ENTITY downloadFailed.label      "실패">
+
+<!ENTITY allBookmarks.label        "모든 북마크 보기">
+
+<!ENTITY consoleHeader.label       "오류 콘솔">
+<!ENTITY consoleAll.label          "모두">
+<!ENTITY consoleErrors.label       "오류">
+<!ENTITY consoleWarnings.label     "경고">
+<!ENTITY consoleMessages.label     "메시지">
+<!ENTITY consoleCodeEval.label     "코드:">
+<!ENTITY consoleClear.label        "지우기">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "소스 파일:">
+<!ENTITY consoleErrLine.label      "줄:">
+<!ENTITY consoleErrColumn.label    "열:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "잘라내기">
+<!ENTITY contextTextCopy.label             "복사하기">
+<!ENTITY contextTextPaste.label            "붙여넣기">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "붙여넣고 바로 가기">
+<!ENTITY contextTextSelect.label           "선택">
+<!ENTITY contextTextSelectAll.label        "모두 선택">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "새 탭에 링크 열기">
+<!ENTITY contextCopyLinkHref.label         "링크 복사">
+<!ENTITY contextBookmarkLinkHref.label     "링크를 북마크에 추가">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "사진 라이브러리에 저장">
+<!ENTITY contextCopyImage.label            "이미지 복사">
+<!ENTITY contextCopyImageLocation.label    "이미지 주소 복사">
+<!ENTITY contextOpenImageTab.label         "새 탭에 이미지 열기">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "비디오 라이브러리에 저장">
+<!ENTITY contextCopyVideoLocation.label    "동영상 주소 복사">
+<!ENTITY contextOpenVideoTab.label         "동영상 새 탭에 열기">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
