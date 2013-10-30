@@ -171,7 +171,7 @@
 <!ENTITY sortByStarCmd.label "星标">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "附件">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortByPriorityCmd.label "优先级">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "大小">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "新建消息">
 <!ENTITY appmenuNewContactCmd.label "通讯录联系人…">
 <!ENTITY appmenuEditMenu.label "编辑">
-<!ENTITY appmenuQFBMenu.label "快速过滤栏">
 <!ENTITY appmenuToolbarLayout.label "工具栏布局…">
 <!ENTITY appmenuSelectThread.label "选择话题">
 <!ENTITY appmenuSelectFlagged.label "选择加星标的消息">
