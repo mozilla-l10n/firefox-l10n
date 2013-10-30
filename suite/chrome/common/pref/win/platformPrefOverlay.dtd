@@ -12,7 +12,7 @@
 <!ENTITY  prefWindow.size             "width: 52em; height: 41em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label                 "在地址栏中按下Ctrl+Enter">
+<!ENTITY urlbar.label                 "在地址栏中按下Ctrl+回车">
 <!ENTITY urlbar.accesskey             "L">
 <!ENTITY middleClick.label            "在网页链接上中键单击，Ctrl+单击或Ctrl+Enter">
 <!ENTITY middleClick.accesskey        "M">
