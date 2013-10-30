@@ -4,10 +4,10 @@
 
 <!ENTITY folderProps.windowtitle.label "Proprietà">
 <!ENTITY generalInfo.label "Informazioni generali">
-<!ENTITY folderCharsetTab.label "Codifica caratteri predefinita:">
-<!ENTITY folderCharsetTab.accesskey "C">
-<!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetFallback.label "Codifica caratteri da utilizzare:">
+<!ENTITY folderCharsetFallback.accesskey "E">
+<!ENTITY folderCharsetEnforce.label "Applica la codifica a tutti i messaggi nella cartella (le impostazioni di codifica carattere di ciascun messaggio e il rilevamento automatico saranno ignorati)">
+<!ENTITY folderCharsetEnforce.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci il file indice">
 <!ENTITY folderRebuildSummaryFile2.label "Ripara la cartella">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
