@@ -20,7 +20,7 @@
 <!ENTITY clearPrivateData.button                                 "Tøm">
 <!ENTITY clearPrivateData.done                                   "Ferdig!">
 <!ENTITY clearPrivateData.history                                "Nettleserhistorikk">
-<!ENTITY clearPrivateData.otherdata                              "Annen data (passord, hurtiglager, infokapsler, osv.)">
+<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, hurtiglager, infokapsler, osv.)">
 <!ENTITY clearPrivateData.downloadHist                           "Nedlastingshistorikk">
 <!ENTITY clearPrivateData.cookies                                "Infokapsler">
 <!ENTITY clearPrivateData.cache                                  "Hurtiglager">
