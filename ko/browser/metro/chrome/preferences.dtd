@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "옵션"> <!-- 대부분의 Mozilla 제품에서는 "설정" 등으로 번역하고 있으나 Windows 8 한글판에서는 이미 위에 "설정"(Settings)에 들어가 있어 낱말이 겹치고 Windows 8에 기본으로 들어가 있는 다른 프로그램에서는 Options를 옵션이라고 번역하였기에 통일성 유지의 문제도 있어 예외를 적용합니다. -->
+<!ENTITY optionsHeader.startup.title                             "시작">
+<!ENTITY optionsHeader.homepage.title                            "&brandShortName;를 시작할 때 표시할 페이지">
+<!ENTITY optionsHeader.homepage.startPage.button                 "시작 페이지">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "이전 종료시 탭">
+<!ENTITY optionsHeader.char.title                                "문자 인코딩">
+<!ENTITY optionsHeader.char.autodetect.label                     "자동 선택">
+<!ENTITY optionsHeader.char.options.label                        "앱 바에서 인코딩 설정 보이기">
+
+<!ENTITY clearPrivateData.title                                  "개인 정보 삭제">
+<!ENTITY clearPrivateData.label                                  "이 기기에서 방문 기록, 암호, 쿠키, 폼 데이터를 삭제합니다.">
+<!ENTITY clearPrivateData.button                                 "삭제">
+<!ENTITY clearPrivateData.done                                   "완료!">
+<!ENTITY clearPrivateData.history                                "방문 기록">
+<!ENTITY clearPrivateData.otherdata                              "다른 데이터 (암호, 캐시, 쿠키, 등등)">
+<!ENTITY clearPrivateData.downloadHist                           "다운로드 기록">
+<!ENTITY clearPrivateData.cookies                                "쿠키">
+<!ENTITY clearPrivateData.cache                                  "캐시">
+<!ENTITY clearPrivateData.sitePref                               "사이트 설정">
+<!ENTITY clearPrivateData.formSearchHist                         "폼 입력 및 검색 기록">
+<!ENTITY clearPrivateData.passwords                              "저장된 암호">
+<!ENTITY clearPrivateData.offline                                "오프라인 웹 데이터">
+<!ENTITY clearPrivateData.logins                                 "현재 로그인">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "암호 저장">
+<!ENTITY doNotTrack.title                                        "방문자 추적 중지">
+<!ENTITY doNotTrack.desc                                         "사이트에:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "방문자 추적 중지 요청 전송">
+<!ENTITY doNotTrack.options.noPreference                         "내 방문자 추적 설정을 아무것도 알려주지 않음">
+<!ENTITY doNotTrack.options.trackingOkay                         "방문자 추적을 요청">
+<!ENTITY optionsHeader.reporting.title                           "오류 보고서">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;가 오류 보고서를 전송하여 Mozilla가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
+<!ENTITY optionsHeader.telemetry.title                            "데이터 수집">
+<!ENTITY optionsHeader.telemetry.label                            "&brandShortName; 사용 통계를 Mozilla와 공유하여 브라우저가 보다 나아지도록 도움">

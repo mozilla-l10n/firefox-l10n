@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY aboutHeader.title          "정보">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "&vendorShortName;에서 드림">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; 개인 정보 보호 정책 온라인으로 보기">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "업데이트 확인…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "부가기능 호환성 확인…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; 최신 버전임">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "시스템 관리자가 업데이트 사용 불가">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates      "다른 &brandShortName;에서 이미 업데이트를 하고 있음">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "업데이트를 실패했습니다. ">
+<!ENTITY update.failed.linkText     "최신 버전 다운로드">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "업데이트 위치 ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "업데이트 다운로드 중 — ">
+<!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "업데이트 적용 중…">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "현재 사용 중인 업데이트 채널은 ">
+<!ENTITY channel.description.end    " 입니다.">
+
