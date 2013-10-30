@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Suscribir a página">
 <!ENTITY contextmenu_site_settings "Editar configuración del sitio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Pegar sitio">
-<!ENTITY contextmenu_top_bookmarks_unpin "Despegar sitio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Pegar sitio">
+<!ENTITY contextmenu_top_sites_unpin "Despegar sitio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Página eliminada">
 
-<!ENTITY bookmark_add "Agregar un marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
@@ -270,13 +269,17 @@ size. -->
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 
+<!ENTITY home_top_sites_title "Más visitados">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Agregar un sitio">
+
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
 <!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
 <!ENTITY home_most_recent_title "Más recientes">
 <!ENTITY home_most_recent_empty "Los sitios web visitados mas recientemente aparecen acá.">
-<!ENTITY home_most_visited_title "Más visitados">
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -287,10 +290,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el botón de modo lectura cuando aparezca en la barra de título.">
 
-<!ENTITY home_most_visited_empty "Los sitios web visitados mas frecuentemente aparecen acá.">
-
-<!ENTITY home_most_visited_empty "Los sitios web visitados mas frecuentemente aparecen acá.">
-<!ENTITY pin_bookmark_dialog_hint "Ingresá una palabra a buscar">
+<!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
 <!ENTITY filepicker_title "Seleccionar archivo">
 <!ENTITY filepicker_audio_title "Seleccionar o grabar un sonido">
