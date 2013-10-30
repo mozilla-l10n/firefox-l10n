@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "属性">
 
 <!ENTITY generalInfo.label                       "基本信息">
-<!ENTITY folderCharsetTab.label                  "默认字符编码:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetFallback.label             "后备字符编码：">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetEnforce.label              "将编码应用到文件夹中的所有邮件（单独的邮件字符编码设置和自动检测结果将被忽略）">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "重建概要文件索引">
 <!ENTITY folderRebuildSummaryFile2.label         "修复文件夹">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
