@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "분류:">
 <!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "분류 추가" >
+<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "캘린더:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "참석자:" >

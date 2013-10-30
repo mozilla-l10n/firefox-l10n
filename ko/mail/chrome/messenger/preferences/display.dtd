@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label "규칙">
 <!ENTITY bigger.label "크게">
 <!ENTITY smaller.label "작게">
-<!ENTITY color.label "글자색:">
-<!ENTITY color.accesskey "c">
+<!ENTITY quotedTextColor.label            "색상:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label "일반 텍스트 메시지">
 <!ENTITY displayText.label "인용 처리된 메시지 표시할 때:">
-<!ENTITY colors.label "색상">
-<!ENTITY overrideColors.label "메시지 출력시 다음 색상 사용:">
-<!ENTITY textColor.label "글꼴 색상:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "배경 색상:">
-<!ENTITY backgroundColor.accesskey "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "이모티콘 표시">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label "삭제">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label "글꼴">
-<!ENTITY defaultFont.label "기본 글꼴:">
-<!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "크기:">
-<!ENTITY defaultSize.accesskey "S">
-<!ENTITY fontOptions.accesskey "A">
-<!ENTITY fontOptions.label "고급 설정…">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "글꼴 &amp; 색상">
+<!ENTITY defaultFont.label       "기본 글꼴:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "크기:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "고급 설정…">
+<!ENTITY colorButton.label       "색상…">
+<!ENTITY colorButton.accesskey   "C">

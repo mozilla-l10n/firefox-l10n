@@ -5,6 +5,7 @@
 <!ENTITY aboutAddons.title2                     "부가 기능">
 <!ENTITY aboutAddons.header2                 "나의 부가 기능">
 <!ENTITY aboutAddons.options                  "설정">
+<!ENTITY aboutAddons.browseAll                  "모든 Firefox 부가 기능 찾아보기">
 
 <!ENTITY addonAction.enable                    "사용">
 <!ENTITY addonAction.disable                    "중지">
