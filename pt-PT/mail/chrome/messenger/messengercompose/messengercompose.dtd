@@ -1,6 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+- License, v. 2.0. If a copy of the MPL was not distributed with this
+- file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Edição: (sem assunto)">
@@ -14,16 +14,16 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Contacto do livro de endereços...">
+<!ENTITY newContact.label "Contacto do livro de endereços">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Ficheiro(s)...">
+<!ENTITY attachFileCmd.label "Ficheiro(s)">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Página web...">
+<!ENTITY attachPageCmd.label "Página web">
 <!ENTITY attachPageCmd.accesskey "w">
 
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -37,7 +37,7 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Ficheiro...">
+<!ENTITY saveAsFileCmd.label "Ficheiro">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Rascunho">
 <!ENTITY saveAsDraftCmd.accesskey "R">
@@ -49,9 +49,11 @@
 <!ENTITY sendLaterCmd.label "Enviar depois">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Configurar página...">
+<!ENTITY printSetupCmd.label "Configurar página">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Imprimir...">
+<!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprimir">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "I">
 
@@ -80,12 +82,12 @@
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Mudar nome do anexo…">
+<!ENTITY renameAttachmentCmd.label "Mudar nome do anexo">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Localizar e substituir...">
+<!ENTITY findCmd.label "Localizar e substituir">
 <!ENTITY findCmd.key "L">
 <!ENTITY findCmd.accesskey "L">
 <!ENTITY findReplaceCmd.key "n">
@@ -111,7 +113,7 @@
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalizar...">
+<!ENTITY customizeToolbar.label "Personalizar">
 <!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY addressSidebar.label "Painel de contactos">
 <!ENTITY addressSidebar.accesskey "o">
@@ -123,7 +125,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Verificar ortografia...">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia">
 <!ENTITY checkSpellingCmd2.key "i">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
@@ -175,15 +177,15 @@
 <!ENTITY addressBookCmd.label "Livro de endereços">
 <!ENTITY addressBookCmd.accesskey "i">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Definições da conta...">
+<!ENTITY accountManagerCmd.label "Definições da conta">
 <!ENTITY accountManagerCmd.accesskey "s">
 <!ENTITY accountManagerCmdUnix.accesskey "s">
-<!ENTITY preferencesCmd.label "Opções...">
+<!ENTITY preferencesCmd.label "Opções">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Trazer tudo para frente">
@@ -211,8 +213,8 @@
 <!ENTITY pasteButton.tooltip "Colar">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning the From:, To: and
+Subject: rows. It should be larger than the largest Header label -->
 <!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
@@ -226,7 +228,7 @@
 <!ENTITY subject.accesskey "a">
 
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -250,7 +252,7 @@
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Sem sugestões">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar Palavra">
+<!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
@@ -270,25 +272,25 @@
 <!ENTITY delete.accesskey "l">
 <!ENTITY removeAttachment.label "Remover anexo">
 <!ENTITY removeAttachment.accesskey "m">
-<!ENTITY renameAttachment.label "Mudar nome…">
+<!ENTITY renameAttachment.label "Mudar nome">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Selecionar tudo">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Anexar ficheiro(s)...">
+<!ENTITY attachFile.label "Anexar ficheiro(s)">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Filelink">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Converter para…">
+<!ENTITY convertCloud.label "Converter para">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Cancelar envio">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Anexar página web...">
+<!ENTITY attachPage.label "Anexar página web">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
+<!ENTITY spellAddDictionaries.label "Adicionar dicionários">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
