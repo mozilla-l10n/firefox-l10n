@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "回复发件人和所有收件人">
 <!ENTITY hdrReplyListButton1.label "回复列表">
 <!ENTITY hdrReplyListButton1.tooltip "回复至邮件列表">
-<!ENTITY hdrFollowupButton1.label "关注">
+<!ENTITY hdrFollowupButton1.label "回复组">
 <!ENTITY hdrFollowupButton1.tooltip "向这个新闻组发送一封回复">
 <!ENTITY hdrMenuForwardButton.label "转发">
 <!ENTITY hdrForwardButton1.label "转发">

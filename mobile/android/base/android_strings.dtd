@@ -33,7 +33,7 @@
 
 <!ENTITY choose_file "选择文件">
 
-<!ENTITY url_bar_default_text "输入搜索或地址">
+<!ENTITY url_bar_default_text "搜索或输入网址">
 
 <!ENTITY bookmark "书签">
 <!ENTITY bookmark_added "书签已添加">
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "编辑">
 <!ENTITY contextmenu_subscribe "订阅页面">
 <!ENTITY contextmenu_site_settings "编辑站点设置">
-<!ENTITY contextmenu_top_bookmarks_edit "编辑">
-<!ENTITY contextmenu_top_bookmarks_pin "固定网站">
-<!ENTITY contextmenu_top_bookmarks_unpin "解除网站固定">
+<!ENTITY contextmenu_top_sites_edit "编辑">
+<!ENTITY contextmenu_top_sites_pin "固定网站">
+<!ENTITY contextmenu_top_sites_unpin "解除网站固定">
 
 <!ENTITY pref_titlebar_mode "标题栏">
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "页面已移除">
 
-<!ENTITY bookmark_add "添加书签">
 <!ENTITY bookmark_edit_title "编辑书签">
 <!ENTITY bookmark_edit_name "名称">
 <!ENTITY bookmark_edit_location "地址">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "添加站点">
 
 <!ENTITY home_history_title "历史">
+<!ENTITY home_bookmarks_empty "这里显示了您保存的书签。">
 <!ENTITY home_last_tabs_title "上次的标签页">
 <!ENTITY home_last_tabs_open "打开上一次的所有标签页">
 <!ENTITY home_last_tabs_empty "您最近的标签页将出现在这里。">
 <!ENTITY home_most_recent_title "最近">
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
-<!ENTITY home_most_visited_title "最常访问">
 <!ENTITY home_reading_list_empty "您保存以供稍后阅读的文章将出现在这里。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "提示：长按标题栏中出现的阅读模式按钮保存文章到您的阅读列表。">
 
-<!ENTITY home_most_visited_empty "您最经常访问的网站将出现在这里。">
-<!ENTITY pin_bookmark_dialog_hint "输入搜索关键字">
+<!ENTITY pin_site_dialog_hint "输入搜索关键字">
 
 <!ENTITY filepicker_title "选择文件">
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">

@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "字符编码">
 <!ENTITY messageDisplay.caption          "显示信息">
-<!ENTITY viewDefaultCharset.label        "默认字符编码:">
-<!ENTITY viewDefaultCharset.accesskey    "D">
+<!ENTITY viewFallbackCharset.label       "后备字符编码：">
+<!ENTITY viewFallbackCharset.accesskey   "E">
+<!ENTITY viewFallbackCharset.desc        "（用于没有声明编码的传统内容。）">
 
 <!ENTITY composingMessages.caption       "撰写邮件">
 <!ENTITY useMIME.label                   "对于包含8-位字符的信件来说，最好使用‘可打印的’MIME编码。按照原样发送邮件。">

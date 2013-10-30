@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "应用菜单">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "显示 &brandShortName; 菜单">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "显示 &brandShortName; 菜单">
+<!ENTITY lightning.toolbar.calendarmenu.label        "日历面板">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "显示日历面板">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
