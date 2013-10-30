@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "每个帐户都有一个标识，其他人在读到您的消息时会看到该标识。">
 <!ENTITY name.label "您的姓名：">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "电子邮件地址：">
+<!ENTITY email.label "电子邮件：">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "回复地址：">
 <!ENTITY replyTo.accesskey "s">

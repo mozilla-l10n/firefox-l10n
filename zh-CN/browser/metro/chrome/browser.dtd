@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "打开 JavaScript shell 脚本">
 <!ENTITY appbarFindInPage2.label    "在当前页查找">
 <!ENTITY appbarViewOnDesktop2.label "在桌面版中查看">
+<!ENTITY appbarMSMetaData2.label    "获取这个站点的应用">
 
 <!ENTITY topSitesHeader.label        "热门网站">
 <!ENTITY bookmarksHeader.label       "书签">

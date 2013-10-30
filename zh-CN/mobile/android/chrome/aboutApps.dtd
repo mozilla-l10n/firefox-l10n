@@ -5,11 +5,6 @@
 <!ENTITY aboutApps.title2                          "应用">
 <!ENTITY aboutApps.header                          "您的应用">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "还未安装 Web 应用。到">
-<!ENTITY aboutApps.noApps.middle3 "火狐市场">
-<!ENTITY aboutApps.noApps.post "获取一些。">
+<!ENTITY aboutApps.browseMarketplace "浏览火狐应用市场">
 <!ENTITY aboutApps.uninstall "卸载">
 <!ENTITY aboutApps.addToHomescreen "添加到主屏幕">
