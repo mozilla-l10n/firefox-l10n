@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!ENTITY lightning.toolbar.calendar.name "Kalenderlinje">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Opgavelinje">
@@ -21,7 +21,7 @@
 <!ENTITY lightning.toolbar.task.label         "Opgave">
 <!ENTITY lightning.toolbar.task.tooltip       "Skift til fanebladet Opgave">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
-   
+
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label "Begivenhed">
 <!ENTITY lightning.toolbar.newtask.label "Opgave">
@@ -38,3 +38,7 @@
 
 <!ENTITY lightning.toolbar.appmenuButton.label       "Programmenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Viser menuen for &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Fanebladet Kalender">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
+<!ENTITY lightning.toolbar.calendarpane.label        "Vis fanebladet Kalender">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "K">
