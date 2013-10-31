@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Sideopsætning…">
 <!ENTITY printSetupCmd.accesskey "æ">
+<!ENTITY printPreviewCmd.label "Vis udskrift">
+<!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Udskriv">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "U">

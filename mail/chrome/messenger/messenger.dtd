@@ -577,7 +577,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
 <!ENTITY appmenuNewContactCmd.label "Kontakt…">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuQFBMenu.label "Lynfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Tilpas værktøjslinje…">
 <!ENTITY appmenuSelectThread.label "Marker tråd">
 <!ENTITY appmenuSelectFlagged.label "Marker stjernemarkerede meddelelser">
