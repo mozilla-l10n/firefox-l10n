@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Egenskaber">
 
 <!ENTITY generalInfo.label "Generel information">
-<!ENTITY folderCharsetTab.label "Standardtegnkodning:">
-<!ENTITY folderCharsetTab.accesskey "S">
-<!ENTITY folderCharsetOverride.label "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnkodningsindstillinger og auto-opdagelse vil blive ignoreret)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderCharsetFallback.label             "Standardtegnkodning:">
+<!ENTITY folderCharsetFallback.accesskey         "S">
+<!ENTITY folderCharsetEnforce.label              "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnkodningsindstillinger og auto-opdagelse vil blive ignoreret)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Genopbyg indeksfil">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
