@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Verfassen">
 <!ENTITY composeButton.accesskey     "V">
+<!ENTITY deleteCardButton.label      "Löschen">
+<!ENTITY deleteCardButton.accesskey  "L">
 <!ENTITY abSearchDialogTitle.label   "Adressen suchen">
 
 <!-- Thread Pane -->
