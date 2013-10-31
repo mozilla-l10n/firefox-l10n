@@ -36,6 +36,7 @@
 <!ENTITY url_bar_default_text "Indtast søgeord eller adresse">
 
 <!ENTITY bookmark "Sæt bogmærke">
+<!ENTITY bookmark_added "Bogmærke tilføjet">
 <!ENTITY bookmark_removed "Bogmærke fjernet">
 <!ENTITY bookmark_updated "Bogmærke opdateret">
 <!ENTITY bookmark_options "Indstillinger">
@@ -234,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Side fjernet">
 
-<!ENTITY bookmark_add "Tilføj et bogmærke">
 <!ENTITY bookmark_edit_title "Rediger bogmærke">
 <!ENTITY bookmark_edit_name "Navn">
 <!ENTITY bookmark_edit_location "Adresse">
@@ -281,6 +281,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
 <!ENTITY home_most_recent_title "Seneste">
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
+<!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
