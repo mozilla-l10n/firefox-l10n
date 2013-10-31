@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Subscrever para a página">
 <!ENTITY contextmenu_site_settings "Editar definições do sítio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Pin do sítio">
-<!ENTITY contextmenu_top_bookmarks_unpin "Unpin do sítio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Pin do sítio">
+<!ENTITY contextmenu_top_sites_unpin "Unpin do sítio">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título da página">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Página removida">
 
-<!ENTITY bookmark_add "Adicionar marcador">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Localização">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Adicionar um sítio">
 
 <!ENTITY home_history_title "Histórico">
+<!ENTITY home_bookmarks_empty "Os marcadores que guarda estão aqui.">
 <!ENTITY home_last_tabs_title "Os seus separadores da última vez">
 <!ENTITY home_last_tabs_open "Abrir todos os separadores da última vez">
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
 <!ENTITY home_most_recent_title "Mais recentes">
 <!ENTITY home_most_recent_empty "Os sítios web mais visitados são aqui apresentados.">
-<!ENTITY home_most_visited_title "Mais visitados">
 <!ENTITY home_reading_list_empty "Artigos que guarda para ver são apresentados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Dica: Guarde os artigos na lista de leitura carregando, quando aparecer na barra de título, no botão do modo de leitura.">
 
-<!ENTITY home_most_visited_empty "Os sítios web que mais visita são aqui apresentados.">
-<!ENTITY pin_bookmark_dialog_hint "Escreva palavra chave a pesquisar">
+<!ENTITY pin_site_dialog_hint "Escreva palavra chave a pesquisar">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
