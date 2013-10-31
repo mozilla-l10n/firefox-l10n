@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador transferindo o extra apropriado.">
 <!ENTITY connection.installAnotherSimulator "Adicionar">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador transferindo o extra apropriado.">
+<!ENTITY connection.startRegisteredSimulator "Inicia:">
 
 <!ENTITY projects.localApps "Aplicações locais">
 <!ENTITY projects.addApp "Adicionar">
@@ -74,6 +75,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Sem projetos. Adicione uma nova aplicação empacotada (diretório local) ou uma aplicação alojada (ligação a um ficheiro manifest).">
 <!ENTITY projects.manifestEditor "Editor de manifestos">
+<!ENTITY projects.manifestEditorTooltip "Edite o manifesto da aplicação no painel abaixo. O botão Atualizar grava as alterações e atualiza a aplicação.">
+<!ENTITY projects.manifestViewer "Visualizador de manifesto">
+<!ENTITY projects.manifestViewerTooltip "Examine o manifesto da aplicação no painel abaixo.">
 
 <!ENTITY help.title "Gestor de aplicações">
 <!ENTITY help.close "Fechar">
