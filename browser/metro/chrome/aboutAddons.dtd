@@ -6,7 +6,7 @@
 
    %brandDTD;
 
-<!ENTITY aboutAddons.title "&brandShortName; Viðbætur eru í vinnslu">
+<!ENTITY aboutAddons.title "&brandShortName; viðbætur eru í vinnslu">
 <!ENTITY aboutAddons.messageTitle "Uh-Oh!">
 <!ENTITY aboutAddons.message "Því miður, &brandShortName; er upptekinn við það að vera með stuðning við viðbætur fyrir þig.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
