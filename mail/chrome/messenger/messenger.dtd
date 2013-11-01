@@ -475,7 +475,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "r">
 <!ENTITY runJunkControls.label "Executar controlos de lixo eletrónico na pasta">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Eiminar lixo eletrónico desta pasta">
+<!ENTITY deleteJunk.label "Eliminar lixo eletrónico desta pasta">
 <!ENTITY deleteJunk.accesskey "x">
 <!ENTITY importCmd.label "Importar...">
 <!ENTITY importCmd.accesskey "m">
