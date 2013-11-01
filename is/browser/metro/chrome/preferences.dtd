@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title "Valkostir">
-<!ENTITY optionsHeader.startup.title "Ræsing">
-<!ENTITY optionsHeader.homepage.title "Þegar &brandShortName; ræsist upp, sýna">
-<!ENTITY optionsHeader.homepage.startPage.button "upphafssíða">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "flipar frá seinasta skipti">
 <!ENTITY optionsHeader.char.title "Stafatöflur">
 <!ENTITY optionsHeader.char.autodetect.label "Skynja sjálfkrafa">
 <!ENTITY optionsHeader.char.options.label "Sýna stafakóðun í forritsflipa">
@@ -30,10 +26,10 @@
 <!ENTITY clearPrivateData.logins "Virkar innskráningar">
 <!ENTITY optionsHeader.privacy.passwords.label "Muna lykilorð">
 <!ENTITY doNotTrack.title "Ekki fylgjast með">
-<!ENTITY doNotTrack.desc "Segja vefsvæðum:">
-<!ENTITY doNotTrack.options.trackingNotOkay "Ég vil ekki láta fylgjast með mér">
-<!ENTITY doNotTrack.options.noPreference "Ekkert um hvaða valkosti ég hef valið">
-<!ENTITY doNotTrack.options.trackingOkay "Ég vil láta fylgjast með mér">
+<!ENTITY doNotTrack.options.doNotTrack "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
+<!ENTITY doNotTrack.options.doTrack "Segja vefsvæðum að ég vilji láta fylgjast með mér">
+<!ENTITY doNotTrack.options.default "Ekki segja vefsvæðum frá því hvort ég vilji láta fylgjast með mér">
+<!ENTITY doNotTrack.learnMoreLink "Læra meira&#x2026;">
 <!ENTITY optionsHeader.reporting.title "Tilkynna hrun">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; sendir hrunskýrslur til að hjálpa Mozilla að gera vafrann stöðugri og öruggari">
 <!ENTITY optionsHeader.telemetry.title "Fjarmæling">

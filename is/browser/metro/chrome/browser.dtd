@@ -14,6 +14,7 @@
 <!ENTITY appbarJSShell.label "Opna JavaScript skel">
 <!ENTITY appbarFindInPage2.label "Finna á síðu">
 <!ENTITY appbarViewOnDesktop2.label "Skoða á skjáborði">
+<!ENTITY appbarMSMetaData2.label "Ná í app fyrir þetta vefsvæði">
 <!ENTITY topSitesHeader.label "Efstu vefsvæði">
 <!ENTITY bookmarksHeader.label "Bókamerki">
 <!ENTITY recentHistoryHeader.label "Nýlegir ferlar">
