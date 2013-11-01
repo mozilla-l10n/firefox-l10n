@@ -35,7 +35,7 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "选择用于脱机工作的新闻组…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "字体…">
+<!ENTITY offlineImapAdvancedOffline.label "高级…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "消息同步">
 <!ENTITY diskspaceGroupTitle.label "磁盘空间">
