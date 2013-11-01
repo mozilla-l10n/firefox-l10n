@@ -12,6 +12,7 @@
 <!ENTITY device.title "Ierīces kontroles centrs">
 <!ENTITY device.notConnected "Nav savienojuma. Lūdzu pievienojiet savu ierīci zemāk.">
 <!ENTITY device.startApp "Palaist">
+<!ENTITY connection.startRegisteredSimulator "Palaist:">
 <!ENTITY device.startAppTooltip "Palaist aplikāciju šajā ierīcē.">
 <!ENTITY device.stopApp "Apturēt">
 <!ENTITY device.stopAppTooltip "Apturēt aplikāciju šajā ierīcē.">
@@ -33,6 +34,11 @@
 <!ENTITY device.permissionsTooltip "Aplūkojiet tabulu ar atļaujām, kas pieejamas dažāda tipa aplikācijām.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Palīdzība">
+<!ENTITY projects.manifestEditor "Manifest redaktors">
+<!ENTITY projects.manifestEditorTooltip "Rediģējiet savu aplikāciju manifest failus panelī zemāk. Atjaunināšanas poga saglabās izmaiņas un atjauninās aplikāciju.">
+<!ENTITY projects.manifestViewer "Manifest skatītājs">
+<!ENTITY projects.manifestViewerTooltip "Aplūkojiet savu aplikāciju manifest failus panelī zemāk.">
+
 
 <!ENTITY connection.connectTooltip "Pieslēgties ierīcei.">
 <!ENTITY connection.disconnect "Atslēgties">
