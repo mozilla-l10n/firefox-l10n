@@ -37,7 +37,7 @@
 <!ENTITY dataChoicesTab.label            "Vebijarkên daneyan">
 
 <!ENTITY healthReportSection.label       "&brandShortName; rapora tenduristiyê">
-<!ENTITY healthReportDesc.label          "Alîkariyê dide te ku performansa geroka xwe fêm bikî û zanyariyên derbarê tenduristiya geroka te de bi &brandShortName;ê re parve dike">
+<!ENTITY healthReportDesc.label          "Alîkariyê dide te ku performansa geroka xwe fêm bikî û zanyariyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike">
 <!ENTITY enableHealthReport.label        "Rapora Tenduristiyê ya &brandShortName;ê çalak bike">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Zêdetir bixwîne…">

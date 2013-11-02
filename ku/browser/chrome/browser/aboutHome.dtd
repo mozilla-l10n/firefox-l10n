@@ -9,7 +9,7 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "Rûpela destpêka &brandFullName;">
+<!ENTITY abouthome.pageTitle "Rûpela Destpêkê ya &brandFullName;ê">
 
 <!ENTITY abouthome.searchEngineButton.label "Lêgerîn">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

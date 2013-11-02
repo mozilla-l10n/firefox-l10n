@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Hilbijartin">
-<!ENTITY optionsHeader.startup.title                             "Destpêk">
-
-
-
 
 
 
@@ -22,6 +18,7 @@
 
 
 <!ENTITY clearPrivateData.cookies                                "Çerez">
+
 
 
 

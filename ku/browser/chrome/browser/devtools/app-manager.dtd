@@ -58,12 +58,19 @@
 
 <!ENTITY connection.installAnotherSimulatorTooltip "Bi jêbarkirina add-ona têkildar, versiyoneke zêdek ya Sîmulatorê saz bike.">
 
+
 <!ENTITY projects.localApps "Sepanên Herêmî">
 <!ENTITY projects.addApp "Têxê">
 <!ENTITY projects.addPackaged "Sepana pakêtkirî têxê">
 
 
 
+<!ENTITY projects.title "Sepanên Herêmî">
+
+
+
+
+<!ENTITY projects.debugApp "Sererastkirina Çewtiyan">
 
 
 
@@ -72,8 +79,7 @@
 
 
 
-
-
+<!ENTITY help.title "Birêveberiya Sepanê">
 <!ENTITY help.close "Girtin">
 
 

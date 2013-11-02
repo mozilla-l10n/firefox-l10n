@@ -15,7 +15,7 @@
 <!ENTITY restorepage.tryagainButton "Danişîna Berê">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Girtin">
-
+<!ENTITY restorepage.close.access   "G">
 
 <!ENTITY restorepage.restoreHeader  "Danişîna Berê">
 <!ENTITY restorepage.listHeader     "Pace û Hilpekînan">
@@ -23,7 +23,12 @@
 <!ENTITY restorepage.windowLabel    "Paceya &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Tu dîsa bi xêr hatî!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
 
+<!ENTITY welcomeback.pageTitle      "Tu dîsa bi xêr hatî!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName;ê profîla te bi serkeftî da sifirkirin. Li jêr lîsteya pencere û hilpekînên ku te vekirine heye, tu dikarî van vegerînî yan jî bi awayekî paqij dest pê bikî.">

@@ -27,11 +27,12 @@
 <!ENTITY view.sortDescending.label      "Z > A Rêz Bike">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-
-
-
-
-
+<!ENTITY importBookmarksFromHTML.label     "Bijareyan ji HTMLê bîne…">
+<!ENTITY importBookmarksFromHTML.accesskey "b">
+<!ENTITY exportBookmarksToHTML.label       "Bijareyan wekî HTML derxe…">
+<!ENTITY exportBookmarksToHTML.accesskey   "d">
+<!ENTITY importOtherBrowser.label          "Daneyan ji gerokeke din bîne…">
+<!ENTITY importOtherBrowser.accesskey      "d">
 
 <!ENTITY cmd.backup.label               "Hilîne">
 <!ENTITY cmd.backup.accesskey           "H">
@@ -80,7 +81,7 @@
 <!ENTITY col.name.label          "Nav">
 <!ENTITY col.tags.label          "Etîket">
 <!ENTITY col.url.label           "Cih">
-<!ENTITY col.lastvisit.label     "Dîroka Vekirinê">
+
 <!ENTITY col.visitcount.label    "Hejmara Vebûnê">
 <!ENTITY col.keyword.label       "Peyva Kilît">
 <!ENTITY col.description.label   "Daxuyanî">
