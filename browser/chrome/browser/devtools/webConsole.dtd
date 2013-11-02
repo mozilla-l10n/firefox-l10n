@@ -73,8 +73,9 @@
 <!ENTITY btnConsoleWarnings     "تحذيرات">
 <!ENTITY btnConsoleLog          "سجل">
 
-<!ENTITY btnClear.label        "امسح">
+
 <!ENTITY btnClear.tooltip      "امسح محتوى مِعراض الوب">
+
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -89,7 +90,6 @@
 
 <!ENTITY copyURLCmd.label     "انسخ مكان الوصلة">
 <!ENTITY copyURLCmd.accesskey "م">
-
 
 
 
