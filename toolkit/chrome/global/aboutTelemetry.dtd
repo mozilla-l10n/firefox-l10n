@@ -16,6 +16,8 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "সরল মাপ">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on বিবরণ">
+
 <!ENTITY aboutTelemetry.lateWritesSection "লেট রাইটস্">
 
 <!ENTITY aboutTelemetry.systemInfoSection "সিস্টেম সংক্রান্ত তথ্য">

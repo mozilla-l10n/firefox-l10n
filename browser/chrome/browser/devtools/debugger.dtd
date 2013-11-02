@@ -28,6 +28,10 @@
   -  the button that opens up an options context menu for the debugger UI. -->
 
 <!ENTITY debuggerUI.optsButton.tooltip  "ডিবাগার সংক্রান্ত বিকল্প">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
+  -  for the button that black boxes the selected source. -->
+<!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
+  -  button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -110,6 +114,9 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "শর্তাধীন ব্রেকপয়েন্ট যোগ করুন">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
+  -  appears in the debugger's instruments pane tabs. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 

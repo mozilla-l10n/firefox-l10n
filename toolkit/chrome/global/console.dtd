@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "পরিসংখ্যান">
 <!ENTITY evaluate.accesskey "v">
-
-
+<!ENTITY filter2.label      "ফিল্টার: (F)">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "কপি করুন">  
 <!ENTITY copyCmd.accesskey   "C"> 

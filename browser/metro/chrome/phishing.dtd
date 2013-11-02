@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করুন">
 
+<!ENTITY safeb.palm.accept.label "আমাকে এখানে থেকে বার করেন!">
+<!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করুন">
+<!ENTITY safeb.palm.notforgery.label2 "এটি একটি ওয়েব জালিয়াতি করা যায় না ...">
 <!ENTITY safeb.palm.reportPage.label "এই পৃষ্ঠাটি কেন প্রতিরোধ করা হয়েছে?">
 
 <!ENTITY safeb.blocked.malwarePage.title "সুনিশ্চিত বিপজ্জনক পেজ!">
@@ -11,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্রমণকারী পেজ দ্বারা কিছু প্রোগ্রাম ইনস্টল করা হয়। এই প্রোগ্রামগুলির মাধ্যমে ব্যক্তিগত তথ্য চুরি, ব্যবহারকারীর কম্পিউটার থেকে অন্যদের আক্রমণ  অথবা সিস্টেমের ক্ষতি করা হয়।</p><p>কিছু আক্রমণকারী পেজ দ্বারা ইচ্ছাকৃত ভাবে বিপজ্জনক সফ্টওয়্যার বিতরণ করা হয়, কিন্তু অধিকাংশ সাইট দ্বারা তাদের মালিকদের অজ্ঞাতে এই ধরনের কর্ম সঞ্চালিত হয়।</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "সম্ভাব্য ওয়েব প্রতারণার ইঙ্গিত!">
-
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পেজে কোনো ব্যক্তিগত তথ্য প্রবেশন পরিচয় দিলে প্রতারণা বা অন্য জালিয়াতি হতে পারে।">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ওয়েব জালিয়াতি এই ধরণের প্রতারণাপূর্ণ ওয়েব পেজ এবং ইমেল আপনি বিশ্বাস করতে পারেন সূত্র নকল ব্যবহার করা হয় যা ফিশিং আক্রমণের নামে পরিচিত ছিল, সেইসব স্ক্যাম।</p>">

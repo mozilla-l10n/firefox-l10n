@@ -4,34 +4,36 @@
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
-<!ENTITY optionsHeader.startup.title                             "প্রারম্ভ">
 
 
+<!ENTITY optionsHeader.title                                     "বিকল্পগুলি">
+<!ENTITY optionsHeader.char.title                                "ক্যারেক্টার এনকোডিং">
+<!ENTITY optionsHeader.char.autodetect.label                     "স্বয়ংক্রিয়রূপে সনাক্ত">
+<!ENTITY optionsHeader.char.options.label                        "অ্যাপ বারে এনকোডিং বিকল্পগুলি দেখান">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "পরিষ্কার ব্যক্তিগত তথ্য">
+<!ENTITY clearPrivateData.label                                  "এই ডিভাইস থেকে আপনার ব্রাউজিং ইতিহাস, পাসওয়ার্ড, কুকি, এবং ফর্ম ডেটা মুছে ফেলুন">
+<!ENTITY clearPrivateData.button                                 "মুছে ফেলুন">
+<!ENTITY clearPrivateData.done                                   "সমাপ্ত!">
+<!ENTITY clearPrivateData.history                                "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
+<!ENTITY clearPrivateData.otherdata                              "অন্য তথ্য (পাসওয়ার্ড, ক্যাশে, কুকি, ইত্যাদি)">
+<!ENTITY clearPrivateData.downloadHist                           "হিস্ট্রী ডাউনলোড করুন">
 <!ENTITY clearPrivateData.cookies                                "কুকি">
+<!ENTITY clearPrivateData.cache                                  "ক্যাশে">
+<!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসই মান">
+<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম &amp; অনুসন্ধানের পূর্ববর্তী তথ্য">
+<!ENTITY clearPrivateData.passwords                              "সংরক্ষিত পাসওয়ার্ড">
+<!ENTITY clearPrivateData.offline                                "অফ-লাইন ওয়েব-সাইটের তথ্য">
+<!ENTITY clearPrivateData.logins                                 "সক্রিয় লগ-ইন">
 
+<!ENTITY optionsHeader.privacy.passwords.label                   "পাসওয়ার্ড মনে রাখুন">
+<!ENTITY doNotTrack.title                                        "ট্র্যাক করবেন না">
+<!ENTITY doNotTrack.options.doNotTrack                           "আমি ট্র্যাক হতে চাই না, সেই ওয়েবসাইট বলুন">
+<!ENTITY doNotTrack.options.doTrack                              "আমি ট্র্যাক হতে চাই , সেই ওয়েবসাইট বলুন">
+<!ENTITY doNotTrack.options.default                              "ওয়েবসাইট থেকে আমার ট্র্যাকিং পছন্দ সম্পর্কে কিছু বলুন না">
+<!ENTITY doNotTrack.learnMoreLink                                "আরও জানুন&#x2026;">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.reporting.title                           "বিপর্যয়ের রিপোর্ট">
+<!ENTITY optionsHeader.reporting.crashes.label                   "আপনার ব্রাউজারকে আরো স্থিতিশীল এবং নিরাপদ করে তুলতে সাহাজ্য করার জন্য &brandShortName; ক্র্যাশ প্রতিবেদনগুলির কাছে জমা দেয়">
 <!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্রি">
-
+<!ENTITY optionsHeader.telemetry.label                            "শেয়ার করুন &brandShortName; ব্যবহারের পরিসংখ্যান; মজিলা সঙ্গে আপনার ব্রাউজার আরও ভাল করতে আমাদেরকে সাহায্য কররন">

@@ -72,6 +72,7 @@
 
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
 
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -85,7 +86,6 @@
 
 <!ENTITY copyURLCmd.label     "Copy Link Location">
 <!ENTITY copyURLCmd.accesskey "a">
-
 
 
 

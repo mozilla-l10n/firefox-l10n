@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "অনুমোদন করুন">
 <!ENTITY fullscreenExitButton.label "প্রত্যাখ্যান করুন">
 
+<!ENTITY fullscreenExitHint2.value "যে কোনো সময় প্রস্থান করার জন্য টিপুন ESC।">
 <!ENTITY leaveDOMFullScreen.label "সম্পূর্ণ পর্দায় প্রদর্শন বন্ধ করুন">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "অবস্থান">
 <!ENTITY searchItem.title             "অনুসন্ধান">
 <!ENTITY bookmarksItem.title          "বুকমার্ক">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "হোম">
 
 <!ENTITY tabGroupsButton.label        "ট্যাবের শ্রেণী">
 <!ENTITY tabGroupsButton.tooltip      "ট্যাবগুলিকে শ্রেণীভুক্ত করুন">
@@ -202,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F2">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "সংযোগ করুন (e)...">
@@ -212,15 +217,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "দূরবর্তী ওয়েব কনসোল">
 
-
-
+<!ENTITY browserConsoleCmd.label      "ব্রাউজার কনসোল(B)">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "সামগ্রী নিরীক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -239,17 +245,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
+<!ENTITY chromeDebuggerMenu.label       "ব্রাউজার ডিবাগার(e)">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "অ্যাপ ম্যানেজার(A)">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ডেভেলপার টুলসমূহ ট্যোগল করুন">
 <!ENTITY devToolbarOtherToolsButton.label  "অতিরিক্ত সরঞ্জাম">
@@ -387,8 +396,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ছবি সংক্রান্ত তথ্য দেখুন">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "দৃশ্যাবলী এবং বিবরণী(D)">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ভিডিও দেখুন">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "পটভূমির ছবি প্রদর্শন">
@@ -462,8 +471,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate.label     "চলার গতি (l)">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-
-
+<!ENTITY mediaPlaybackRate050x.label "বিলম্বিত গতি (০.৫×)(S)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "স্বাভাবিক গতি (N)">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
 <!ENTITY mediaPlaybackRate150x.label "উচ্চ গতি (১.৫ গুন) (H)">
@@ -471,7 +480,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x.label "হাস্যকর গতি (২×)(L)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -596,6 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
 
 <!ENTITY identity.permissions "অনুমতি">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "একটি ওয়েবসাইটে আমার সংযোগ সুরক্ষিত য়ে আমি কিভাবে বলতে পারি?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +652,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "চ্যাটে কেন্দ্র করুন (c)">
 <!ENTITY social.chatBar.accesskey "c">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "সংরক্ষণ করুন পেজকে…(P)">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "নতুন রূপে লিঙ্ক সংরক্ষণ করুন…(L) ">
 
 <!ENTITY getUserMedia.selectCamera.label "শেয়ার করার ক্যামেরা (C):">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -654,7 +670,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">
 
-
+<!ENTITY pluginNotification.showAll.label "সব প্রদর্শন(S)">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "এখনি অনুমোদন করুন">
@@ -666,8 +683,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY pluginNotification.width "২৮em">
 
-
+<!ENTITY tabCrashed.header "ট্যাব ক্র্যাশ করেছে">
+<!ENTITY tabCrashed.message "ঘটনা টি দুর্ভাগ্যজনক। আমরা ওয়েব পেজ টি দেখাবার চেষ্টা করেছি কিন্তু সেটি সাড়া দিচ্ছেনা।">
+<!ENTITY tabCrashed.checkSendReport "বলুন &vendorShortName; এই বিপর্যয় সম্পর্কে ,তারা এটা ঠিক করতে পারে।">
 <!ENTITY tabCrashed.tryAgain "পুনরায় চেষ্টা করুন">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
@@ -676,7 +696,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "অতিরিক্ত সামগ্রীর বার">
+<!ENTITY addonBarCmd.label             "Add-on বার">
 <!ENTITY addonBarCmd.accesskey         "A">
 <!ENTITY throbberItem.title            "কর্ম চিহ্নকারী">
 <!ENTITY appMenuButton.label           "মেনু">
@@ -694,14 +714,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuUnsorted.label         "অবিন্যস্ত বুকমার্ক">
 <!ENTITY appMenuWebDeveloper.label     "ওয়েব ডিভেলপর">
 <!ENTITY appMenuGettingStarted.label   "প্রারম্ভের প্রণালী">
-<!ENTITY appMenuSafeMode.label         "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করা হবে…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY appMenuSafeMode.label         "Add-on  গুলি নিষ্ক্রিয় করে পুনরারম্ভ করা হবে…">
+<!ENTITY appMenuSafeMode.accesskey     "A">
 <!ENTITY cutButton.tooltip             "কাট করুন">
 <!ENTITY copyButton.tooltip            "কপি করুন">
 <!ENTITY pasteButton.tooltip           "পেস্ট করুন">
 <!ENTITY zoomOutButton.tooltip         "ছোট মাপে প্রদর্শন">
 <!ENTITY zoomInButton.tooltip          "বড় মাপে প্রদর্শন">
 <!ENTITY zoomControls.label            "প্রদর্শনের মাপ নিয়ন্ত্রণ">
-<!ENTITY addonBarCloseButton.tooltip   "অতিরিক্ত সামগ্রীর বার বন্ধ করুন">
+<!ENTITY addonBarCloseButton.tooltip   "Add-on বার বন্ধ করুন">
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->

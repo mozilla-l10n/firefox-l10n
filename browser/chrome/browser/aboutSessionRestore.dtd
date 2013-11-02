@@ -23,7 +23,12 @@
 <!ENTITY restorepage.windowLabel    "উইন্ডো &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "ফিরে আসার জন্য স্বাগতম!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
 
+<!ENTITY welcomeback.pageTitle      "শুভ প্রত্যাবর্তন!">
+<!ENTITY welcomeback.pageInfo       " brandShortName; সফলভাবে আপনার প্রফাইল পুনরায় সেট করুন. নীচে উইন্ডোজ এবং ট্যাব একটি তালিকা রয়েছে যা আপনি খুলে রেখেছেন; আপনি তাদের পূর্বাবস্থায় ফিরিয়ে আনুন বা একটি পরিষ্কার স্লেট দিয়ে শুরু করতে পারেন।">

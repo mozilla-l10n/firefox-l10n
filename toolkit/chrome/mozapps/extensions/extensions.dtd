@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "থিম প্রয়োগ করা হবে না">
 <!ENTITY cmd.disableTheme.accesskey           "W">
-
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.label              "অ্যাক্টিভেট করতে হবে জিজ্ঞাসা করুন">
+<!ENTITY cmd.askToActivate.tooltip            "এই অ্যাড অন ব্যবহার করতে প্রতিটি সময়তে জিজ্ঞাসা করুন">
+<!ENTITY cmd.alwaysActivate.label             "সর্বদা সক্রিয় অাছে">
+<!ENTITY cmd.alwaysActivate.tooltip           "সর্বদা add-on ব্যবহার করুন">
+<!ENTITY cmd.neverActivate.label              "কখনই সক্রিয় করবেন না">
+<!ENTITY cmd.neverActivate.tooltip            "এই অ্যাড অন ব্যবহার করবেন না">
+<!ENTITY cmd.stateMenu.tooltip                "পরিবর্তন হলে এই অ্যাড অন রান করবে">
 <!ENTITY cmd.installAddon.label               "ইনস্টল করুন">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "মুছে ফেলুন">

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "পরিচিতি">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "vendorShortName দ্বারা;">
+<!ENTITY aboutHeader.policy.label   "পড়ুন &brandShortName;Privacy Policy অনলাইন">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -13,6 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা আপডেট প্রাপ্তি নিষ্ক্রিয় করা হয়েছে">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; কোনো ইনস্ট্যান্স দ্বারা আপডেট করা হচ্ছে">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
