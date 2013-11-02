@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opsies">
-<!ENTITY optionsHeader.startup.title                             "Begin">
-<!ENTITY optionsHeader.homepage.title                            "Wanneer &brandShortName; begin, wys">
-<!ENTITY optionsHeader.homepage.startPage.button                 "beginpbladsy">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "oortjies van laas keer">
 <!ENTITY optionsHeader.char.title                                "Karakterenkodering">
 <!ENTITY optionsHeader.char.autodetect.label                     "Outospeur">
 
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Onthou wagwoorde">
 <!ENTITY doNotTrack.title                                        "Moenie volg nie">
-<!ENTITY doNotTrack.desc                                         "Sê vir werwe:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "dat ek nie gevolg wil word nie">
-<!ENTITY doNotTrack.options.noPreference                         "niks oor my volgvoorkeure nie">
-<!ENTITY doNotTrack.options.trackingOkay                         "dat ek gevolg wil word">
+
+
+
+
+
 <!ENTITY optionsHeader.reporting.title                           "Omvalrapporteerder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; dien omvalverslae in om Mozilla te help om die blaaier meer stabiel en veilig te maak">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrie">
