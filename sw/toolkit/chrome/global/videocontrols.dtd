@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Imekamilika">
 <!ENTITY stats.activitySeeking "(inatafuta)">
 <!ENTITY stats.volume "Sauti">
-<!ENTITY stats.channels "Idhaa">
-<!ENTITY stats.sampleRate "Sampuli Ukadiriaji">
 <!ENTITY stats.framesParsed "Fremu zilizochanganuliwa">
 <!ENTITY stats.framesDecoded "Fremu zilizosimbuliwa">
 <!ENTITY stats.framesPresented "Fremu zilizoonyeshwa">

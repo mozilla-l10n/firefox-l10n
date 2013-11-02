@@ -9,14 +9,14 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Muungano Usioaminika">
-<!ENTITY certerror.longpagetitle "Muungano huu Huaminiki">
+<!ENTITY certerror.pagetitle  "Muunganisho Usioaminika">
+<!ENTITY certerror.longpagetitle "Muunganisho huu Hauaminiki">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Umeomba &brandShortName; iunganishe 
-kwa usalama kwa <b>#1</b>, lakini hatuwezi kuthibitisha kuwa muungao wako ni salama.">
+kwa usalama kwa <b>#1</b>, lakini hatuwezi kuthibitisha kuwa muunganisho wako ni salama.">
 <!ENTITY certerror.introPara2 "Kwa kawaida, wakati unajaribu kuunganisha kwa usalama, 
 wavuti zitatoa kitambulisho kuonyesha kuwa 
 unaenda mahali kunakofaa. Hata hivyo, kitambulisho cha tovuti hakiwezi kudhibitishwa.">

@@ -19,4 +19,9 @@
 <!ENTITY errorTimeout "Hitilafu: muda wa muunganisho umeisha.">
 <!ENTITY errorRefused "Hitilafu: muunganisho umekataa.">
 <!ENTITY errorUnexpected "Hitilafu lisilotarajiwa.">
-<!ENTITY help "Zana za Mwendelezi wa Firefox zinaweza kueua vifaa vya mbali. (kwa mfano Firefox ya Android na Firefox OS). Hakikisha kwamba umewasha chaguo cha 'Ueuaji wa mbali' katika kifaa cha mbali. Ona kumbukumbu ya<a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'> kwa zaidi</a>.">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+
+
+

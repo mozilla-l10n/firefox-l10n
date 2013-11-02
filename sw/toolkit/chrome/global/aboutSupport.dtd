@@ -9,6 +9,14 @@
 kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia 
 kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidizi</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Kitambulishi Ripoti">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Viendelezi">
 <!ENTITY aboutSupport.extensionName "Jina">
 <!ENTITY aboutSupport.extensionEnabled "Imewezeshwa">
@@ -31,7 +39,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Wezesha Programu-jalizi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Jenga Usanidi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Ripoti za Mvurugo">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utumizi wa Kumbukumbu">
 
 <!ENTITY aboutSupport.showDir.label "Fungua Saraka">

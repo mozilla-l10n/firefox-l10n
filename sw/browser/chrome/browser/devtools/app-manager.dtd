@@ -1,15 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY index.projects2 "Programu tumizi">
+<!ENTITY index.device2 "Kifaa                ">
+
+
+<!ENTITY device.screenshot "Kielelezo-skrini">
 
 
 
 
-
-
-
-
-
+<!ENTITY device.startAppTooltip "Anzisha programu tumizi hii kwa kifaa hiki.">
 
 
 
@@ -17,7 +18,7 @@
 <!ENTITY device.name "Jina">
 
 
-
+<!ENTITY device.certified "Imehakikishwa">
 <!ENTITY device.allow "Ruhusu">
 
 <!ENTITY device.prompt "Kisituo">
@@ -28,7 +29,7 @@
 
 <!ENTITY device.permissions "Ruhusa">
 
-
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
 
 
@@ -42,11 +43,12 @@
 
 <!ENTITY connection.saveConnectionInfo "Hifadhi">
 
-
-
+<!ENTITY connection.connecting "Inaunganisha...">
+<!ENTITY connection.disconnecting "Inatenganua...">
 <!ENTITY connection.cancel "Katiza">
 
 
+<!ENTITY connection.or "ama">
 
 
 
@@ -63,6 +65,10 @@
 
 
 <!ENTITY projects.updateApp "Sasaisha">
+
+
+
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 

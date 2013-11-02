@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Jina">
 <!ENTITY col.tags.label          "Lebo">
 <!ENTITY col.url.label           "Mahali">
-<!ENTITY col.lastvisit.label     "Tarahe ya Kutembelea">
+
 <!ENTITY col.visitcount.label    "Hesabu ya Kutembelea">
 <!ENTITY col.keyword.label       "Neno msingi">
 <!ENTITY col.description.label   "Maelezo">
