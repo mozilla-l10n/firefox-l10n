@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "விருப்பங்கள்">
-<!ENTITY optionsHeader.startup.title                             "துவக்கம்">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName; தொடங்கும்போது, காண்பிக்கவும்">
-<!ENTITY optionsHeader.homepage.startPage.button                 "தொடக்கப் பக்கம்">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "கடந்த முறையிலிருந்து கீற்றுகள்">
 <!ENTITY optionsHeader.char.title                                "எழுத்து குறிமுறை">
 <!ENTITY optionsHeader.char.autodetect.label                     "தானியங்கு-கண்டுபிடிப்பு">
 <!ENTITY optionsHeader.char.options.label                        "குறியாக்க விருப்பங்களை பயன்பாட்டுப் பட்டியில் காண்பி">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "கடவுச்சொற்களை நினைவு கொள்">
 <!ENTITY doNotTrack.title                                        "தடமறிய வேண்டாம்">
-<!ENTITY doNotTrack.desc                                         "தளங்களைக் கூறவும்:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "என்னைத் தடமறிவதை விரும்பவில்லை">
-<!ENTITY doNotTrack.options.noPreference                         "என் தடமறிதல் முன்னுரிமைகள் பற்றி எதுவும் இல்லை">
-<!ENTITY doNotTrack.options.trackingOkay                         "என்னைத் தடமறிவதை விரும்புகிறேன்">
+
+
+
+
+
 <!ENTITY optionsHeader.reporting.title                           "செயலிழப்பு அறிக்கையாளர்">
 <!ENTITY optionsHeader.reporting.crashes.label                   " Mozilla உங்கள் உலாவியை மேலும் நிலைத்தன்மை கொண்டதாகவும் பாதுகாப்பானதாகவும் மாற்றுவதற்காக &brandShortName; செயலிழப்பு அறிக்கைகளை சமர்ப்பிக்கும்">
 <!ENTITY optionsHeader.telemetry.title                            "டெலிமெட்ரி">

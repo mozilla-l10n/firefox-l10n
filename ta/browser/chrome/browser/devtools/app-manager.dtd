@@ -19,7 +19,7 @@
 <!ENTITY device.debugAppTooltip "சாதனத்தில் இந்த பயன்பாட்டுடன் இணைக்கப்பட்டுள்ள உருவாக்குநர் கருவிகளைத் திற.">
 <!ENTITY device.name "பெயர்">
 <!ENTITY device.app "பயன்பாடு">
-<!ENTITY device.privileged "முன்னுரிமை அனுமதியுள்ளது">
+<!ENTITY device.privileged "முன்னுரிமையுள்ளது">
 <!ENTITY device.certified "சான்றளித்தது">
 <!ENTITY device.allow "அனுமதி">
 <!ENTITY device.allowTooltip "இந்த வகை பயன்பாட்டுக்கு இந்த அனுமதி உள்ளது.">
@@ -27,7 +27,7 @@
 <!ENTITY device.promptTooltip "இந்த வகை பயன்பாடுகளுக்கு, இந்த அனுமதிக்கு ஒரு பயனர் பதில்செயல் தேவை.">
 <!ENTITY device.deny "மறு">
 <!ENTITY device.denyTooltip "இந்த வகை பயன்பாடுகளுக்கு இந்த அனுமதி மறுக்கப்படுகிறது.">
-<!ENTITY device.installedApps "நிறுவப்பட்டுள்ள பயன்பாடுகள்">
+<!ENTITY device.installedApps "நிறுவிய பயன்பாடுகள்">
 <!ENTITY device.installedAppsTooltip "சாதனத்தில் நிறுவப்பட்டுள்ள பயன்பாடுகளின் பட்டியலைக் காணவும். சான்றளிக்கப்பட்ட பயன்பாடுகள் போன்ற சில பயன்பாடுகள் இந்த காட்சி வகையில் சேர்க்கப்படாமல் இருக்கலாம்.">
 <!ENTITY device.permissions "அனுமதிகள்">
 <!ENTITY device.permissionsTooltip "வெவ்வேறு வகை பயன்பாடுகளால் அணுகக்கூடிய அனுமதிகளின் அட்டவணையைக் காணவும்.">
@@ -58,6 +58,7 @@
 <!ENTITY connection.installAnotherSimulator "சேர்">
 <!ENTITY connection.installAnotherSimulatorTooltip "தொடர்புடைய துணை நிரலைப் பதிவிறக்கி சிமுலேட்டரின் ஒரு கூடுதல் பதிப்பை நிறுவவும்.">
 
+
 <!ENTITY projects.localApps "உள்ளமை பயன்பாடுகள்">
 <!ENTITY projects.addApp "சேர்">
 <!ENTITY projects.addPackaged "தொகுப்பாக்கிய பயன்பாட்டைச் சேர்">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "இந்த பயன்பாட்டுடன் இணைந்துள்ள உருவாக்குநர் கருவிகளைத் திற">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "திட்டப்பணிகள் இல்லை. கீழே ஒரு புதிய தொகுப்பாக்கிய பயன்பாட்டு (உள்ளமை கோப்பகம்) அல்லது வழங்கப்படும் (ஹோஸ்ட்டட்) பயன்பாட்டைச் (மேனிஃபெஸ்ட் கோப்புக்கான இணைப்பு) சேர்க்கவும்.">
+
+
+
+
 
 <!ENTITY help.title "பயன்பாடு நிர்வாகி">
 <!ENTITY help.close "மூடு">
