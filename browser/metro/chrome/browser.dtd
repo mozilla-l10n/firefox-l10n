@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript қоршамын ашу">
 <!ENTITY appbarFindInPage2.label    "Беттен табу">
 <!ENTITY appbarViewOnDesktop2.label "Жұмыс үстелде көрсету">
+<!ENTITY appbarMSMetaData2.label    "Бұл сайт үшін қолданбаны алу">
 
 <!ENTITY topSitesHeader.label        "Топ сайттары">
 <!ENTITY bookmarksHeader.label       "Бетбелгілер">
@@ -88,6 +89,8 @@
 <!ENTITY contextCopyVideoLocation.label    "Видеоның сілтемесін көшіру">
 <!ENTITY contextOpenVideoTab.label         "Видеоны жаңа бетте ашу">
 <!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
 
 <!ENTITY urlbar.accesskey "з">
 
