@@ -58,7 +58,7 @@
 <!ENTITY cmd.retry.label                  "फिर कोशिश करें">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ (G)">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड किए कड़ी की नकल करें (L)">
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड कड़ी की नकल करें (L)">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "इतिहास से हटाएँ (e)">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">

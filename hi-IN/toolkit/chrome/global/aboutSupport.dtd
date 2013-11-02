@@ -9,6 +9,14 @@
 उपयोगी हो सकता है कि तकनीकी जानकारी है. 
 &brandShortName;, के बारे में आम सवालों के जवाब की तलाश में हैं, हमारे  <a id='supportLink'>समर्थन वेबसाइट की जाँच करें.</a>">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "रिपोर्ट ID">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "विस्तार">
 <!ENTITY aboutSupport.extensionName "नाम">
 <!ENTITY aboutSupport.extensionEnabled "सक्रिय">
@@ -33,7 +41,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्रिय प्लगिन">
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
 <!ENTITY aboutSupport.appBasicsUserAgent "उपयोक्ता प्रतिनिधि">
-<!ENTITY aboutSupport.appBasicsCrashIDs "क्रैश रिपोर्ट">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
 
 <!ENTITY aboutSupport.showDir.label "खुली निर्देशिका">

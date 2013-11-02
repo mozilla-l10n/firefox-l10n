@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "सभी दिखाएँ">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "संपादन (E )">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "पहले जैसा (U)">

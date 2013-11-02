@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "विकल्प">
-<!ENTITY optionsHeader.startup.title                             "आरंभन">
-
-
-
 <!ENTITY optionsHeader.char.title                                "वर्ण ऐन्कोडिंग">
 
 
@@ -22,6 +18,7 @@
 
 
 <!ENTITY clearPrivateData.cookies                                "कूकीज">
+
 
 
 
