@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Benante">
 <!ENTITY stats.activitySeeking "(ga ceeci)">
 <!ENTITY stats.volume "Jinde alkadar">
-<!ENTITY stats.channels "Fansey">
-<!ENTITY stats.sampleRate "Šiyyan dimma">
 <!ENTITY stats.framesParsed "Kunga fesu-fersantey">
 <!ENTITY stats.framesDecoded "Kunga feerantey">
 <!ENTITY stats.framesPresented "Kunga cebantey">

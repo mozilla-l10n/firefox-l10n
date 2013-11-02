@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
 <!ENTITY chromeDebuggerMenu.label       "Ceecikaw hansekaw">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Cinakaw goyjinay žeeri daabu">
 <!ENTITY devToolbarMenu.label              "Cinakaw goyjinay zuu-žeeri">
@@ -605,6 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Alhabar tontoni…">
 
 <!ENTITY identity.permissions "Duɲeyaney">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Taka foo nd'ay ga bay nungoo kaŋ ay n'a cee ti saajante?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -671,6 +677,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Noo fondo sohõ">
 <!ENTITY pluginActivateAlways.label "Noo fondo nda hongu">
 <!ENTITY pluginBlockNow.label "Sukari gagay">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Nor loku kaŋ">
 <!ENTITY tabCrashed.message "Ayway, woo ti boŋhaway. Ir ceeci ka interneti moɲoo woo cebe, amm'a ši tuuru.">

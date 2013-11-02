@@ -270,6 +270,10 @@ size. -->
 <!ENTITY button_set "Kayandi">
 <!ENTITY button_clear "Tuusu">
 
+<!ENTITY home_top_sites_title "Nungu kaasey">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+
 <!ENTITY home_history_title "Taariki">
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
 <!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">

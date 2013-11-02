@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Maa">
 <!ENTITY col.tags.label          "Kanjey">
 <!ENTITY col.url.label           "Gorodoo">
-<!ENTITY col.lastvisit.label     "Narumi han">
+
 <!ENTITY col.visitcount.label    "Narumi kabu">
 <!ENTITY col.keyword.label       "Kufalkalima">
 <!ENTITY col.description.label   "Šilbayyan">

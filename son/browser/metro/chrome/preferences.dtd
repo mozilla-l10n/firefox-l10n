@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Suubarey">
-<!ENTITY optionsHeader.startup.title                             "Tunandi">
-
-
-
 <!ENTITY optionsHeader.char.title                                "Harfu hawyan">
 
 
@@ -22,6 +18,7 @@
 
 
 <!ENTITY clearPrivateData.cookies                                "Aleewawey">
+
 
 
 
