@@ -28,8 +28,10 @@
 <!-- Flyout when user has just connected -->
 
 <!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; tarayıcısını &syncBrand.shortName.label; hesabına bağladınız">
-
+<!ENTITY sync.flyout.setupsuccess.description2      "&syncBrand.shortName.label; verileriniz şu anda arka planda indiriliyor. Eşitlenen sekmeleriniz &brandShortName; Başlangıç Sayfası'nda belirecektir.">
 <!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;, &syncBrand.shortName.label; hesabınıza bağlanamadı.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "İptal">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Yeniden dene">
 <!-- Flyout when connected and functioning normally -->
@@ -42,13 +44,15 @@
 <!ENTITY sync.flyout.connected.cancel                     "İptal">
 <!ENTITY sync.flyout.connected.pair                       "Aygıt eşleştir">
 <!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Eşleştirmek istediğiniz yeni aygıtta &quot;&syncBrand.shortName.label;&apos;i kur&quot;u seçip, aygıtın ürettiği kodu girin">
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Eşleştir">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Not:">
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Kodu bulmak için">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Masaüstü] &quot;Seçenekler&quot; veya &quot;Tercihler&quot;i açıp şu adımları izleyin: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label;&apos;ı kur -&gt; Hesabım var">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Daha fazla &gt; Ayarlar &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Lütfen tekrar deneyin">
 <!-- Flyout when a device has been successfully paired -->
 
 <!ENTITY sync.flyout.pairSuccess.description1             "Yeni aygıt başarıyla eklendi.">
-
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label; verileriniz şu anda arka planda indiriliyor. Uzak sekmeleriniz &brandShortName; Başlangıç Sayfası'nda belirecektir.">
