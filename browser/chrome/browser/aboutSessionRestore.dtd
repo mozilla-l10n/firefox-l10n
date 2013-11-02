@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "वाकई, यह शर्मनाक है.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; आपके विंडो और टैब को वापस पाने में परेशानी का अनुभव कर रहा है. यह प्रायः हाल में खोल गए वेब पृष्ठ के कारण हुआ है.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; आपके विंडो और टैब को वापस पाने में परेशानी का अनुभव कर रहा है. यह प्रायः हाल में खोले गए वेब पृष्ठ के कारण हुआ है.">
 <!ENTITY restorepage.tryThis        "आप आज़मा सकते हैं:">
 <!ENTITY restorepage.restoreSome    "एक या अधिक टैब को हटाना जिसे आप चाहते हैं समस्या का कारण बन सकती है">
 <!ENTITY restorepage.startNew       "एक पूर्ण नया ब्राउज़िग सत्र आरंभ कर रहा है">
