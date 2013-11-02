@@ -19,4 +19,9 @@
 <!ENTITY errorTimeout "Error : relambi d'espèra de la connexion depassat.">
 <!ENTITY errorRefused "Error : connexion refusada.">
 <!ENTITY errorUnexpected "Error inesperada .">
-<!ENTITY help "Las aisinas pels desvolopaires integrats a Firefox pòdon desbugar d'aparelhs distants (Firefox per Android e Firefox OS, per exemple). Asseguratz-vos qu'avètz activat l'opcion « Remote debugging » sus l'aparelh distant. <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>Consultar la documentacion</a> per mai d'informacions.">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+
+
+

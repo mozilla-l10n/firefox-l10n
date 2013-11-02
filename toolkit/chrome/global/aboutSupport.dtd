@@ -9,6 +9,14 @@
 quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions
  correntas sus &brandShortName;, consultatz nòstre <a id='supportLink'>site Web d'assisténcia</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Identificant del rapòrt">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Extensions">
 <!ENTITY aboutSupport.extensionName "Nom">
 <!ENTITY aboutSupport.extensionEnabled "Activat">
@@ -33,7 +41,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrts de plantatge">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
 
 <!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">

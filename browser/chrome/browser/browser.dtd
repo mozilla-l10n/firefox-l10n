@@ -109,6 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Autorizar">
 <!ENTITY fullscreenExitButton.label "Interdire">
 
+<!ENTITY fullscreenExitHint2.value "Quichatz sus Escap a tot moment per quitar.">
 <!ENTITY leaveDOMFullScreen.label "Sortir del mòde ecran complet">
 <!ENTITY leaveDOMFullScreen.accesskey "c">
 
@@ -119,10 +120,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-
-
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Pertejar aquesta pagina">
+<!ENTITY sharePageCmd.commandkey "P">
+<!ENTITY sharePageCmd.accesskey "P">
 
 
 
@@ -242,7 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Desbugador del navigador">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Barra de desvolopament">
@@ -600,6 +600,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Mai d'entresenhas...">
 
 <!ENTITY identity.permissions "Permissions">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
