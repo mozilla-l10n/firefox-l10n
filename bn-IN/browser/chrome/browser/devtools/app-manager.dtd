@@ -36,7 +36,7 @@
 
 
 
-
+<!ENTITY connection.changeHostAndPort "পরিবর্তন করুন">
 
 
 
@@ -45,6 +45,11 @@
 
 
 <!ENTITY connection.cancel "বাতিল">
+
+
+
+
+
 
 
 

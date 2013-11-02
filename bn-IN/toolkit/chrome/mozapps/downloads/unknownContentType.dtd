@@ -16,6 +16,7 @@
 <!ENTITY  rememberChoice.label        "এই প্রকৃতির ফাইলের জন্য ভবিষ্যতে স্বয়ংক্রিয়ভাবে এই কর্মপন্থা গ্রহণ করা হবে।">
 <!ENTITY  rememberChoice.accesskey    "a">
 
+<!ENTITY  whichIs.label              "এটি হল:">
 
 <!ENTITY  chooseHandlerMac.label      "নির্বাচন করুন...">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

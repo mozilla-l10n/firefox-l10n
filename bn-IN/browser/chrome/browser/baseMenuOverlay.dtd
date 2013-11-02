@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "এবং কিবোর্ড শর্টকাট সমূহ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…">
 <!ENTITY helpSafeMode.accesskey   "R">

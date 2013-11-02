@@ -4,17 +4,25 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "অনুসন্ধান বা ঠিকানা লিখুন">
 
+<!ENTITY back.label            "পূর্ববর্তী">
+<!ENTITY forward.label         "পরবর্তী">
+<!ENTITY newtab.label          "নতুন ট্যাব">
+<!ENTITY closetab.label        "ট্যাব বন্ধ করুন">
 
+<!ENTITY autocompleteResultsHeader.label  "আপনার ফলাফল">
 
+<!ENTITY appbarErrorConsole.label   "এরোর কনসোল খুলুন">
+<!ENTITY appbarJSShell.label        "জাভাস্ক্রিপ্ট শেল খুলুন ">
+<!ENTITY appbarFindInPage2.label    "পেজে খুঁজুন">
+<!ENTITY appbarViewOnDesktop2.label "ডেস্কটপে দেখুন">
+<!ENTITY appbarMSMetaData2.label    "এই সাইটের জন্য অ্যাপ্লিকেশন পান">
 
-
-
-
-
-
-
-
+<!ENTITY topSitesHeader.label        "শীর্ষ সাইটগুলো">
+<!ENTITY bookmarksHeader.label       "বুকমার্ক সংকলন">
+<!ENTITY recentHistoryHeader.label   "সাম্প্রতিক ইতিহাস">
+<!ENTITY remoteTabsHeader.label      "অন্যান্য ডিভাইসের ট্যাব">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -23,28 +31,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "শীর্ষ সাইটগুলো">
+<!ENTITY narrowBookmarksHeader.label     "বুকমার্ক সংকলন">
+<!ENTITY narrowRecentHistoryHeader.label "সাম্প্রতিক ইতিহাস">
+<!ENTITY narrowRemoteTabsHeader.label    "দূরবর্তী ট্যাব">
 
-
-
-
-
-
+<!ENTITY downloadsHeader.label     "ডাউনলোড">
+<!ENTITY downloadShowPage.label    "চিহ্নিত পেজে চলুন">
+<!ENTITY downloadShow2.label       "অনুসন্ধান">
+<!ENTITY downloadOpen2.label       "খুলুন">
 <!ENTITY downloadCancel.label      "বাতিল">
-
+<!ENTITY downloadPause.label       "স্থগিত করুন">
 <!ENTITY downloadResume.label      "পুনরারম্ভ">
 <!ENTITY downloadRetry.label       "পুনরায় প্রচেষ্টা">
 <!ENTITY downloadRemove.label      "মুছে ফেলুন">
-
+<!ENTITY downloadDelete.label      "মুছে ফেলুন">
 <!ENTITY downloadFailed.label      "ব্যর্থ">
 
+<!ENTITY allBookmarks.label        "সকল বুকমার্ক দেখুন">
 
-
+<!ENTITY consoleHeader.label       "Error কনসোল">
+<!ENTITY consoleAll.label          "সমগ্র">
 <!ENTITY consoleErrors.label       "Errors">
 <!ENTITY consoleWarnings.label     "Warnings">
-
-
-
-
+<!ENTITY consoleMessages.label     "বার্তা">
+<!ENTITY consoleCodeEval.label     "কোড:">
+<!ENTITY consoleClear.label        "মুছে ফেলুন">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "উৎস ফাইল:">
 <!ENTITY consoleErrLine.label      "লাইন:">
 <!ENTITY consoleErrColumn.label    "কলাম:">
@@ -54,33 +67,44 @@
 <!ENTITY contextTextCopy.label             "কপি করুন">
 <!ENTITY contextTextPaste.label            "পেস্ট করুন">
 <!-- unique item that is only added to the url bar context menu -->
-
-
+<!ENTITY contextTextPasteAndGo.label       "পেস্ট করুন &amp; যান">
+<!ENTITY contextTextSelect.label           "নির্বাচন করুন">
+<!ENTITY contextTextSelectAll.label        "সমগ্র নির্বাচন করুন">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "নতুন ট্যাবের মধ্যে লিঙ্ক প্রদর্শন করা হবে">
+<!ENTITY contextCopyLinkHref.label         "লিঙ্ক কপি করুন">
+<!ENTITY contextBookmarkLinkHref.label     "লিংক বুকমার্ক করুন">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "ছবি লাইব্রেরীতে সংরক্ষণ করুন">
+<!ENTITY contextCopyImage.label            "ছবি কপি করুন">
+<!ENTITY contextCopyImageLocation.label    "ছবির অবস্থান কপি করুন">
+<!ENTITY contextOpenImageTab.label         "নতুন ট্যাবে চিত্র খুলুন">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "ভিডিও লাইব্রেরীতে সংরক্ষণ করুন">
+<!ENTITY contextCopyVideoLocation.label    "ভিডিও-র অবস্থান কপি করুন">
+<!ENTITY contextOpenVideoTab.label         "নতুন ট্যাবে ভিডিও খুলুন">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

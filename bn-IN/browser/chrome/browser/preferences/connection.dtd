@@ -8,7 +8,7 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ইন্টারনেট ব্যবহারের জন্য প্রক্সির বৈশিষ্ট্য নির্ধারণ করুন">
-<!ENTITY  noProxyTypeRadio.label        "প্রক্সি অনুপস্থিত">
+<!ENTITY  noProxyTypeRadio.label        "প্রক্সি অনুপস্থিত(y)">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "সিস্টেম প্রক্সির বৈশিষ্ট্য ব্যবহার করুন">
 <!ENTITY  systemTypeRadio.accesskey     "u">

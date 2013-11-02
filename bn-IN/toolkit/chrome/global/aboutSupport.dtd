@@ -9,6 +9,16 @@
 মধ্যে উপলব্ধ করা হয়েছে। &brandShortName; সম্পর্কে সাধারণ কিছু প্রশ্নের উত্তর 
 খোঁজার জন্য আমাদের <a id='supportLink'>সহায়তার ওয়েব-সাইট</a> দেখুন।">
 
+<!ENTITY aboutSupport.crashes.title "বিপর্যয়ের রিপোর্ট">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID রিপোর্ট দায়ের করুন">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.sendDate "প্রেরিত">
+<!ENTITY aboutSupport.crashes.allReports "বিপর্যয়ের রিপোর্ট">
+<!ENTITY aboutSupport.crashes.noConfig "এই অ্যাপ্লিকেশনটি ক্র্যাশ প্রতিবেদনগুলি প্রদর্শন না করার জন্য কনফিগার করা হয়েছে.">
+
 <!ENTITY aboutSupport.extensionsTitle "এক্সটেনশন">
 <!ENTITY aboutSupport.extensionName "নাম">
 <!ENTITY aboutSupport.extensionEnabled "সক্রিয়">
@@ -21,6 +31,8 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "হিস্ট্রী আপডেট করুন">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "প্রোফাইল ডিরেক্টরি">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -31,7 +43,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "সক্রিয় প্লাগ-ইন">
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ডের কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
-<!ENTITY aboutSupport.appBasicsCrashIDs "বিপর্যয়ের রিপোর্ট">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমরির ব্যবহার">
 
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
@@ -63,7 +74,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরির সংস্করণ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের পূর্ববর্তী তথ্য">
-
+<!ENTITY aboutSupport.updateHistoryTitle "হিস্ট্রী আপডেট করুন">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ক্লিপ-বোর্ডের মধ্যে টেক্সট কপি করুন">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে কাঁচা ডেটা কপি করুন">

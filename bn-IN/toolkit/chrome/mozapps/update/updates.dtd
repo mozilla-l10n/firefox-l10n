@@ -24,8 +24,11 @@
 করার জন্য পর্যাপ্ত স্থান উপস্থিত নেই।">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName;-র সাম্প্রতিকতম সংস্করণ নিম্নলিখিত স্থানে সর্বদা উপলব্ধ রয়েছে:">
 
-
-
+<!ENTITY  unsupported.title               "অসমর্থিত সিস্টেম">
+<!ENTITY  unsupported.label               "তোমার  brandShortName; তারিখ সীমার বাইরে, কিন্তু সর্বশেষ সংস্করণআপনার সিস্টেম 
+সমর্থিত  নয়আপনার সিস্টেম আপগ্রেড করার জন্য, দয়া করে পরে আবার চেষ্টা করুন
+ আপনি যদি আবার এই বিজ্ঞপ্তি দেখতে পাবেন না, কিন্তু আপনি  পারেন">
+<!ENTITY  unsupportedLink.label           "আরও জানুন">
 
 <!ENTITY  incompatibleCheck.title         "অতিরিক্ত সামগ্রীর সামঞ্জস্য পরীক্ষা করা হচ্ছে">
 <!ENTITY  incompatibleCheck.label         "অতিরিক্ত সামগ্রীর নতুন সংস্করণ অনুসন্ধান করা হচ্ছে…">

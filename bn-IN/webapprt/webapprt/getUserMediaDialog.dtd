@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                 "মিডিয়া শেয়ার করে নিন">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "শেয়ার করুন">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
+<!ENTITY getUserMediaDialog.buttonlabelcancel     "বাতিল করুন">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+
+<!ENTITY getUserMediaDialog.video.label           "ক্যামেরা নির্বাচিত করুন">
+<!ENTITY getUserMediaDialog.video.noVideo         "কোনো ভিডিও নেই">
+<!ENTITY getUserMediaDialog.audio.label           "মাইক্রোফোন নির্বাচন করুন">
+<!ENTITY getUserMediaDialog.audio.noAudio         "কোন অডিও নেই">

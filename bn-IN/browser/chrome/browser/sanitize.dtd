@@ -26,27 +26,27 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "বিবরণ">
+<!ENTITY detailsProgressiveDisclosure.label     "নাম">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "পূর্ববর্তী তথ্য">
 <!ENTITY dataSection.label            "তথ্য">
 
-<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং এবং; ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য (B)">
+<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং &amp; ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য ">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "ফর্ম এবং; অনুসন্ধানের পূর্ববর্তী তথ্য">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "সংরক্ষিত পাসওয়ার্ড">
+<!ENTITY itemFormSearchHistory.label       "ফর্ম amp অনুসন্ধানের পূর্ববর্তী তথ্য(F)">
+<!ENTITY itemFormSearchHistory.accesskey   "a">
+<!ENTITY itemPasswords.label               "সংরক্ষিত পাসওয়ার্ড(P)">
 <!ENTITY itemPasswords.accesskey           "P">
-<!ENTITY itemCookies.label                 "কুকি">
+<!ENTITY itemCookies.label                 "কুকি(C)">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "ক্যাশে">
-<!ENTITY itemCache.accesskey               "A">
-<!ENTITY itemOfflineApps.label             "অফ-লাইন ওয়েব-সাইটের তথ্য">
+<!ENTITY itemCache.label                   "ক্যাশে(C)">
+<!ENTITY itemCache.accesskey               ")">
+<!ENTITY itemOfflineApps.label             "অফ-লাইন ওয়েব-সাইটের তথ্য(O)">
 <!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemActiveLogins.label            "সক্রিয় লগ-ইন">
+<!ENTITY itemActiveLogins.label            "সক্রিয় প্লাগ-ইন(L)">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "সাইট সংক্রান্ত পছন্দসই মান">
+<!ENTITY itemSitePreferences.label         "সাইট সংক্রান্ত পছন্দসই মান(S)">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

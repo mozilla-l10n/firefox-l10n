@@ -44,9 +44,9 @@
 <!ENTITY certmgr.editcert.trustemail          "এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editcert.trustobjsign        "এই সার্টিফিকেটের সাহায্যে সফ্টওয়্যার নির্মাতাদের সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editemailcert.title          "ই-মেইল সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন">
-
-
-
+<!ENTITY certmgr.editemailcert.edittrust      "সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন:">
+<!ENTITY certmgr.editemailcert.dotrust        "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে।">
+<!ENTITY certmgr.editemailcert.donttrust      "এই সার্টিফিকেটের বৈধতা বিশ্বাস করা হবে না।">
 
 <!ENTITY certmgr.deletecert.title             "সার্টিফিকেট মুছে ফেলুন">
 <!ENTITY certmgr.deletecert.beforename        "আপনি এই সার্টিফিকেটটি মুছে ফেলার অনুরোধ করেছেন:">
