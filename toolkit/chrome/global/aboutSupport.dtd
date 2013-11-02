@@ -9,6 +9,14 @@
 agahiyên teknîkî dihewîne. Eger li bersiva PPP yên 
 &brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID'a Raporkirinê">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Pêvek">
 <!ENTITY aboutSupport.extensionName "Nav">
 <!ENTITY aboutSupport.extensionEnabled "Çalak">
@@ -30,7 +38,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Pêvekên Çalak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
 <!ENTITY aboutSupport.appBasicsUserAgent "Navbeynkara Bikarhêner">
-
 
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

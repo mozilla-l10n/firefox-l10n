@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Derbarê  &brandFullName;'ê de">
+<!ENTITY aboutDialog.title          "Derbarê &brandFullName;'ê de">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 <!ENTITY warningDesc.version        "&brandShortName; ji bo ceribandinê ye û dibe ku ne hevgirtî be.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName;, ji bo ku em dikaribin gerokê baştir bikin, bi awayekî xweber agahiyên derbarê performans, reqalav, bikaranîn û şexsîkirinê de ji &vendorShortName;ê re dişîne.">
+<!ENTITY warningDesc.telemetryDesc  "Ji bo ku em dikaribin gerokê baştir bikin, &brandShortName; bi awayekî xweber agahiyên derbarê performans, reqalav, bikaranîn û şexsîkirinê de ji &vendorShortName;ê re dişîne.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -14,20 +14,20 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       ", ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "komeke gerdûyî ye">
-<!ENTITY community.exp.end          " ku ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
+<!ENTITY community.exp.creditsLink  "komeke gerdûyî ye ku">
+<!ENTITY community.exp.end          " ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
 
-<!ENTITY community.start2           "Yê dîzayna &brandShortName;ê kiriye ">
+<!ENTITY community.start2           "&brandShortName; ji hêla ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ">
+<!ENTITY community.mozillaLink      "&vendorShortName;ê ve hatiye dîzaynkirin ">
+<!ENTITY community.middle2          "ku ew ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "komeke gerdûyî ye">
-<!ENTITY community.end3             " ku ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
+<!ENTITY community.creditsLink      "komeke gerdûyî ye û">
+<!ENTITY community.end3             " ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
 
-<!ENTITY contribute.start           "Bala te li dengan e? ">
+<!ENTITY contribute.start           "Balkêş e, ma ne? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Têkiliyê dayne!">
+<!ENTITY contribute.getInvolvedLink "Tu jî beşdar bibe!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -40,13 +40,13 @@
 <!ENTITY bottomLinks.privacy        "Polîçeya Nepeniyê">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Li rojanekirinan vedinêre…">
+<!ENTITY update.checkingForUpdates  "Nûkirinan tên kontrolkirin…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Li hevgirtinên Add-onan vedinêre…">
+<!ENTITY update.checkingAddonCompat "Hevgirtinên Add-onan tên kontrolkirin…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; rojane ye">
+<!ENTITY update.noUpdatesFound      "&brandShortName; ya nû ye">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Rêveberiya pergala te rojanekirin neçalak kirine">
+<!ENTITY update.adminDisabled       "Birêveberiya pergala te nûkirin neçalak kirine">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ji hêla kopiyeke xwe ve tê nûkirin">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -55,7 +55,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Rpjanekirin têk çû. ">
+<!ENTITY update.failed.start        "Nûkirin têk çû. ">
 <!ENTITY update.failed.linkText     "Versiyona dawiyê jêbar bike">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -63,7 +63,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Rojanekirin li virê ne: ">
+<!ENTITY update.manual.start        "Nûkirin li virê ne: ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -81,13 +81,13 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Rojanekirin tê daxistin — ">
+<!ENTITY update.downloading.start   "Nûkirin tê daxistin — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Rojanekirin tê sepandin…">
+<!ENTITY update.applying            "Nûkirin tê sepandin…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Tu niha di kanala ">
-<!ENTITY channel.description.end    " rojanekirinê de yî.  ">
+<!ENTITY channel.description.end    " nûkirinê de yî. ">
