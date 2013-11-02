@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Acabat">
 <!ENTITY stats.activitySeeking "(recèrca)">
 <!ENTITY stats.volume "Volum">
-<!ENTITY stats.channels "Canals">
-<!ENTITY stats.sampleRate "Taus d'escandalhatge">
 <!ENTITY stats.framesParsed "Imatges analisats">
 <!ENTITY stats.framesDecoded "Imatges desencodats">
 <!ENTITY stats.framesPresented "Imatges presentats">

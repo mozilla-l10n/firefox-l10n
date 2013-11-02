@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "j">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Acorchis de clavièr">
+<!ENTITY helpKeyboardShortcuts.accesskey "c">
 
 <!ENTITY helpSafeMode.label       "Reaviar amb los moduls desactivats…">
 <!ENTITY helpSafeMode.accesskey   "R">

@@ -73,8 +73,9 @@
 <!ENTITY btnConsoleWarnings     "Avertiments">
 <!ENTITY btnConsoleLog          "Log">
 
-<!ENTITY btnClear.label        "Netejar">
+
 <!ENTITY btnClear.tooltip      "Voidar la Consòla Web">
+
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -89,7 +90,6 @@
 
 <!ENTITY copyURLCmd.label     "Copiar l'adreça del ligam">
 <!ENTITY copyURLCmd.accesskey "C">
-
 
 
 

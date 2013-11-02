@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opcions">
-<!ENTITY optionsHeader.startup.title                             "Aviada">
-
-
-
 <!ENTITY optionsHeader.char.title                                "Encodatge de caractèr">
 <!ENTITY optionsHeader.char.autodetect.label                     "Deteccion automatica">
 
@@ -30,6 +26,7 @@
 <!ENTITY clearPrivateData.logins                                 "Connexions activas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Se remembrar dels senhals">
+
 
 
 

@@ -66,7 +66,7 @@ que &brandShortName; a l'autorizacion d'accedir a internet.</li>
 <li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li> 
 </ul>">
 
-<!ENTITY netReset.title "La connexion es estada reinicializada">
+<!ENTITY netReset.title "La connexion es estada reïnicializada">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Relambi d'espèra passat">
