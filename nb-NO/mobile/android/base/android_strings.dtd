@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 <!ENTITY contextmenu_subscribe "Abonner på siden">
 <!ENTITY contextmenu_site_settings "Rediger nettstedsinnstillinger">
-<!ENTITY contextmenu_top_bookmarks_edit "Rediger">
-<!ENTITY contextmenu_top_bookmarks_pin "Lås nettsted">
-<!ENTITY contextmenu_top_bookmarks_unpin "Opphev låsing av nettsted">
+<!ENTITY contextmenu_top_sites_edit "Rediger">
+<!ENTITY contextmenu_top_sites_pin "Lås nettsted">
+<!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
