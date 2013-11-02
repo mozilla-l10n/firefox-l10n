@@ -17,7 +17,7 @@
 <!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a questa app sul dispositivo.">
 <!ENTITY device.name "Nome">
-<!ENTITY device.app "App">
+<!ENTITY device.plain "Normale (predefinito)">
 <!ENTITY device.privileged "Privilegiata">
 <!ENTITY device.certified "Certificata">
 <!ENTITY device.allow "Permetti">
