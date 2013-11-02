@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY getUserMediaDialog.title "Доступ к медиа">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Разрешить">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "а">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Отмена">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "м">
+<!ENTITY getUserMediaDialog.button.accept.label "Разрешить">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "а">
+<!ENTITY getUserMediaDialog.button.cancel.label "Отмена">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "м">
 <!ENTITY getUserMediaDialog.video.label "Выберите камеру">
 <!ENTITY getUserMediaDialog.video.noVideo "Нет видео">
 <!ENTITY getUserMediaDialog.audio.label "Выберите микрофон">

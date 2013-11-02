@@ -17,9 +17,9 @@
 <!ENTITY device.debugApp "Отладка">
 <!ENTITY device.debugAppTooltip "Открыть Инструменты разработчика, подсоединенные к этому приложению на устройстве.">
 <!ENTITY device.name "Имя">
-<!ENTITY device.app "Приложение">
-<!ENTITY device.privileged "Привилегировано">
-<!ENTITY device.certified "Сертифицировано">
+<!ENTITY device.plain "Простое (по умолчанию)">
+<!ENTITY device.privileged "Привилегированное">
+<!ENTITY device.certified "Сертифицированное">
 <!ENTITY device.allow "Разрешить">
 <!ENTITY device.allowTooltip "Предоставить это разрешение приложениям данного типа.">
 <!ENTITY device.prompt "По запросу">
