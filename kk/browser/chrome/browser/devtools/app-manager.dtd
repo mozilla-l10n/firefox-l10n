@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Симулятордың нұсқасын сәйкес қосымшаны жүктеп алу арқылы орнатыңыз.">
 <!ENTITY connection.installAnotherSimulator "Қосу">
 <!ENTITY connection.installAnotherSimulatorTooltip "Симулятордың қосымша нұсқасын сәйкес қосымшаны жүктеп алу арқылы орнатыңыз.">
+<!ENTITY connection.startRegisteredSimulator "Іске қосу:">
 
 <!ENTITY projects.localApps "Жергілікті қолданбалар">
 <!ENTITY projects.addApp "Қосу">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Бұл қолданбаға байланысқан Өндіруші саймандарын ашу">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Жобалар жоқ. Төменде дестеленген (жергілікті бума) немесе сақталған қолданбаны (манифест файлына сілтеме) қосыңыз.">
+<!ENTITY projects.manifestEditor "Манифест түзетушісі">
+<!ENTITY projects.manifestEditorTooltip "Қолданбаңыздың манифестін төмендегі панельде түзетіңіз. Жаңарту батырмасы өзгерістерді сақтайды және қолданбаңызды жаңартады.">
+<!ENTITY projects.manifestViewer "Манифест көрсетушісі">
+<!ENTITY projects.manifestViewerTooltip "Қолданбаңыздың манифестін төмендегі панельден қарап шығыңыз.">
 
 <!ENTITY help.title "Қолданбалар басқарушысы">
 <!ENTITY help.close "Жабу">
