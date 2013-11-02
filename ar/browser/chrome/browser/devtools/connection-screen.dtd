@@ -19,4 +19,9 @@
 <!ENTITY errorTimeout "عطل: انتهت مهلة الاتصال.">
 <!ENTITY errorRefused "عطل: رُفِض الاتصال.">
 <!ENTITY errorUnexpected "عُطل غير متوقّع.">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+
+
 

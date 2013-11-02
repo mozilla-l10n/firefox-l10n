@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "الخيارات">
-<!ENTITY optionsHeader.startup.title                             "البدء">
-<!ENTITY optionsHeader.homepage.title                            "عند بدء &brandShortName;، اعرض">
-<!ENTITY optionsHeader.homepage.startPage.button                 "صفحة البداية">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "الألسنة من المرة السابقة">
 <!ENTITY optionsHeader.char.title                                "ترميز المحارف">
 <!ENTITY optionsHeader.char.autodetect.label                     "اكتشاف تلقائيًا">
 <!ENTITY optionsHeader.char.options.label                        "اعرض خيارات الترميز في شريط التطبيق">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "تذكّر كلمات السر">
 <!ENTITY doNotTrack.title                                        "لا تتعقبني">
-<!ENTITY doNotTrack.desc                                         "أخبر المواقع:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "أنني لا أريدها أن تتعقبني">
-<!ENTITY doNotTrack.options.noPreference                         "لا شيء عن خياراتي للتعقب">
-<!ENTITY doNotTrack.options.trackingOkay                         "أنني أريدها أن تتعقبني">
+
+
+
+
+
 <!ENTITY optionsHeader.reporting.title                           "مُبلّغ الانهيار">
 <!ENTITY optionsHeader.reporting.crashes.label                   "يُرسل &brandShortName; بلاغات الانهيار إلى موزيلا للمساعدة في تحسين أداء متصفحك و استقراره">
 <!ENTITY optionsHeader.telemetry.title                            "تليمتري">
