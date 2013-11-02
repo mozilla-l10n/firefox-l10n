@@ -76,6 +76,7 @@
 
 <!ENTITY btnClear.tooltip      "Մաքրել Վեբ Կառավարակետի արտածումը">
 
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -92,5 +93,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
 
