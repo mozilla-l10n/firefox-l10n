@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Beëindig">
 <!ENTITY stats.activitySeeking "(soek tans)">
 <!ENTITY stats.volume "Volume">
-<!ENTITY stats.channels "Kanale">
-
 <!ENTITY stats.framesParsed "Raampies ontleed">
 <!ENTITY stats.framesDecoded "Raampies gedekodeer">
 <!ENTITY stats.framesPresented "Raampies aangebied">
