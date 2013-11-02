@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Install a version of the Simulator by downloading the relevant add-on.">
 <!ENTITY connection.installAnotherSimulator "Add">
 <!ENTITY connection.installAnotherSimulatorTooltip "Install an additional version of the Simulator by downloading the relevant add-on.">
+<!ENTITY connection.startRegisteredSimulator "Tòisich:">
 
 <!ENTITY projects.localApps "Local Apps">
 <!ENTITY projects.addApp "Add">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Open Developer Tools connected to this app">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No projects. Add a new packaged app below (local directory) or a hosted app (link to a manifest file).">
+<!ENTITY projects.manifestEditor "Deasaiche a' manifest">
+<!ENTITY projects.manifestEditorTooltip "Deasaich manifest na h-aplacaid agad sa phanail gu h-ìosal. Nuair a bhriogas tu air a&apos; phutan &quot;Ùraich&quot;, thèid na h-atharraichean a shàbhaladh &apos;s an aplacaid ùrachadh.">
+<!ENTITY projects.manifestViewer "Sealladair a' manifest">
+<!ENTITY projects.manifestViewerTooltip "Sgrùd manifest na h-aplacaid agad sa phanail gu h-ìosal.">
 
 <!ENTITY help.title "App Manager">
 <!ENTITY help.close "Dùin">
