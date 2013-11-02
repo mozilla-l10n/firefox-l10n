@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Seçenekler">
-<!ENTITY optionsHeader.startup.title                             "Başlangıç">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName; açıldığında bunu göster:">
-<!ENTITY optionsHeader.homepage.startPage.button                 "başlangıç sayfası">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "son oturumdaki sekmeler">
 <!ENTITY optionsHeader.char.title                                "Karakter Kodlaması">
 <!ENTITY optionsHeader.char.autodetect.label                     "Otomatik algıla">
 <!ENTITY optionsHeader.char.options.label                        "Kodlama seçeneklerini Uygulama Çubuğu'nda göster">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
 <!ENTITY doNotTrack.title                                        "Beni İzleme">
-<!ENTITY doNotTrack.desc                                         "Sitelere iletilecek tercihim:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "İzlenmek istemiyorum">
-<!ENTITY doNotTrack.options.noPreference                         "İzleme tercihlerimle ilgili bir şey iletme">
-<!ENTITY doNotTrack.options.trackingOkay                         "İzlenmek istiyorum">
+<!ENTITY doNotTrack.options.doNotTrack                           "Web sitelerine izlenmek istemediğimi söyle">
+<!ENTITY doNotTrack.options.doTrack                              "Web sitelerine izlenmek istediğimi söyle">
+<!ENTITY doNotTrack.options.default                              "Web sitelerine izleme tercihlerimle ilgili bir şey söyleme">
+<!ENTITY doNotTrack.learnMoreLink                                "Daha fazla bilgi alın&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Çökme Habercisi">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;, Mozilla'nın tarayıcınızı daha kararlı ve güvenli hâle getirmesine yardımcı olmak için çökme raporlarını gönderir">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">

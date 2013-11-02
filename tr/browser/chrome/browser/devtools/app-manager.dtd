@@ -36,7 +36,7 @@
 
 <!ENTITY connection.connectTooltip "Aygıta bağlanır.">
 <!ENTITY connection.disconnect "Bağlantıyı kes">
-
+<!ENTITY connection.disconnectTooltip "Mevcut aygıttan veya simülatörden bağlantıyı keser.">
 <!ENTITY connection.notConnected2 "Bağlı değil.">
 <!ENTITY connection.connectTo "Bağlan:">
 <!ENTITY connection.noDeviceFound "Aygıt bulunamadı. Bir aygıt bağlayın">
@@ -55,19 +55,24 @@
 <!ENTITY connection.noSimulatorInstalled "Yüklenmiş simülatör yok.">
 <!ENTITY connection.installOneSimulator "Simülatör'ü yükle">
 
+<!ENTITY connection.installAnotherSimulator "Ekle">
 
 
 
 <!ENTITY projects.localApps "Yerel Uygulamalar">
-
+<!ENTITY projects.addApp "Ekle">
 
 <!ENTITY projects.addPackagedTooltip "Bilgisayarınızdan yeni bir paketlenmiş uygulama (dizin) ekleyin.">
 
 
-
+<!ENTITY projects.title "Yerel Uygulamalar">
 
 
 <!ENTITY projects.updateApp "Güncelle">
+
+<!ENTITY projects.debugApp "Hata ayıkla">
+<!ENTITY projects.debugAppTooltip "Bu uygulamaya bağlı Geliştirici Araçları'nı aç">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
 
 
 
@@ -77,9 +82,9 @@
 <!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
 
+<!ENTITY help.usefullLinks "İşe yarar bağantılar:">
 
 
-
-
+<!ENTITY help.troubleShooting "Sorun Giderme">
 
 
