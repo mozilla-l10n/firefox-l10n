@@ -19,7 +19,7 @@
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
 
-<!ENTITY accel.emacs_conflict           "加速器">
+<!ENTITY accel.emacs_conflict           "accel">
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "帮助内容">
