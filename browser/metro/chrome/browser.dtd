@@ -4,17 +4,25 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "បញ្ចូល​ការ​ស្វែងរក ឬ​អាសយដ្ឋាន">
 
+<!ENTITY back.label            "ថយក្រោយ">
+<!ENTITY forward.label         "ទៅមុខ">
+<!ENTITY newtab.label          "ផ្ទាំង​ថ្មី">
+<!ENTITY closetab.label        "បិទ​ផ្ទាំង​">
 
+<!ENTITY autocompleteResultsHeader.label  "លទ្ធផល​របស់​អ្នក">
 
-
-
+<!ENTITY appbarErrorConsole.label   "បើក​កុងសូល​កំហុស">
+<!ENTITY appbarJSShell.label        "បើក​សែល JavaScript">
 <!ENTITY appbarFindInPage2.label    "រកមើល​ក្នុង​ទំព័រ">
+<!ENTITY appbarViewOnDesktop2.label "មើល​លើ​ផ្ទៃតុ">
+<!ENTITY appbarMSMetaData2.label    "យក​កម្មវិធី​សម្រាប់​បណ្ដាញ​នេះ">
 
-
-
-
-
+<!ENTITY topSitesHeader.label        "តំបន់បណ្ដាញ​ពេញនិយម">
+<!ENTITY bookmarksHeader.label       "ចំណាំ">
+<!ENTITY recentHistoryHeader.label   "ប្រវត្តិ​ថ្មីៗ">
+<!ENTITY remoteTabsHeader.label      "ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេងទៀត">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -23,28 +31,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "តំបន់បណ្ដាញ​ពេញនិយម">
+<!ENTITY narrowBookmarksHeader.label     "ចំណាំ">
+<!ENTITY narrowRecentHistoryHeader.label "ប្រវត្តិ​ថ្មីៗ">
+<!ENTITY narrowRemoteTabsHeader.label    "ផ្ទាំង​ពី​ចម្ងាយ">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "ទាញ​យក">
+<!ENTITY downloadShowPage.label    "ទៅកាន់​ទំព័រ">
+<!ENTITY downloadShow2.label       "ស្វែងរក">
 <!ENTITY downloadOpen2.label       "បើក">
 <!ENTITY downloadCancel.label      "បោះបង់">
-
+<!ENTITY downloadPause.label       "ផ្អាក">
 <!ENTITY downloadResume.label      "បន្ត">
 <!ENTITY downloadRetry.label       "ព្យាយាម​ម្តង​ទៀត">
 <!ENTITY downloadRemove.label      "យកចេញ">
-
+<!ENTITY downloadDelete.label      "លុប">
 <!ENTITY downloadFailed.label      "បាន​បរាជ័យ">
 
+<!ENTITY allBookmarks.label        "មើល​ចំណាំ​ទាំងអស់">
 
+<!ENTITY consoleHeader.label       "កុងសូល​កំហុស">
 <!ENTITY consoleAll.label          "ទាំងអស់">
 <!ENTITY consoleErrors.label       "កំហុស">
 <!ENTITY consoleWarnings.label     "ការ​ព្រមាន">
-
-
-
-
+<!ENTITY consoleMessages.label     "សារ">
+<!ENTITY consoleCodeEval.label     "កូដ៖">
+<!ENTITY consoleClear.label        "សម្អាត">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ឯកសារ​ប្រភព ៖">
 <!ENTITY consoleErrLine.label      "បន្ទាត់ ៖">
 <!ENTITY consoleErrColumn.label    "ជួរឈរ ៖">
@@ -54,33 +67,44 @@
 <!ENTITY contextTextCopy.label             "ចម្លង">
 <!ENTITY contextTextPaste.label            "បិទភ្ជាប់">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "បិទភ្ជាប់ &amp; ទៅ">
 <!ENTITY contextTextSelect.label           "ជ្រើស">
-
+<!ENTITY contextTextSelectAll.label        "ជ្រើស​ទាំងអស់">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY contextCopyLinkHref.label         "ចម្លង​តំណ">
+<!ENTITY contextBookmarkLinkHref.label     "ចំណាំ​តំណ">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "រក្សាទុក​ទៅ​បណ្ណាល័យ​រូបភាព">
+<!ENTITY contextCopyImage.label            "ចម្លង​រូបភាព">
+<!ENTITY contextCopyImageLocation.label    "ចម្លង​ទីតាំង​រូបភាព">
+<!ENTITY contextOpenImageTab.label         "បើក​រូបភាព​ក្នុង​ផ្ទាំង​ថ្មី">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "រក្សាទុក​ទៅ​បណ្ណាល័យ​វីដេអូ">
+<!ENTITY contextCopyVideoLocation.label    "ចម្លង​ទីតាំង​វីដេអូ">
+<!ENTITY contextOpenVideoTab.label         "បើក​វីដេអូ​ក្នុង​ផ្ទាំង​ថ្មី">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "ប">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "អំពី">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "ដោយ &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "អាន​គោលនយោបាយ​ភាព​ឯកជន​របស់ &brandShortName; នៅ​លើ​បណ្ដាញ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "កំពុង​រក​មើល​បច្ចុប្បន្នភាព...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
