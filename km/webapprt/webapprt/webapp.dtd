@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "បង្ហាញទាំងអស់">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "កែសម្រួល">
 <!ENTITY editMenu.accesskey                 "ក">
 <!ENTITY undoCmd.label                      "មិនធ្វើវិញ">

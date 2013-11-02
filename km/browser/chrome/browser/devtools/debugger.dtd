@@ -32,6 +32,14 @@
   -  the button that opens up an options context menu for the debugger UI. -->
 
 <!ENTITY debuggerUI.optsButton.tooltip  "ជម្រើស​កម្មវិធី​បំបាត់​កំហុស">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
+  -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "បិទ/បើក​ការ​ដាក់​ប្រអប់​ខ្មៅ">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
+  -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "ធ្វើឲ្យ​ប្រភព​ប្រសើរ​ឡើង">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -40,6 +48,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "មិន​អើពើ​កន្សោម​ដែល​ដែល​បាន​ចាប់">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -118,6 +128,11 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "បន្ថែម​ចំណុច​ឈប់​មាន​លក្ខខណ្ឌ">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
+  -  appears in the debugger's instruments pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.variables      "អថេរ">
+<!ENTITY debuggerUI.tabs.events         "ព្រឹត្តិការណ៍">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 

@@ -7,34 +7,33 @@
 
 
 <!ENTITY optionsHeader.title                                     "ជម្រើស">
-<!ENTITY optionsHeader.startup.title                             "ចាប់ផ្ដើម​ឡើង">
-
-
-
 <!ENTITY optionsHeader.char.title                                "ការ​អ៊ិនកូដ​តួអក្សរ">
+<!ENTITY optionsHeader.char.autodetect.label                     "រក​ឃើញ​​ស្វ័យប្រវត្តិ">
+<!ENTITY optionsHeader.char.options.label                        "បង្ហាញ​ជម្រើស​ការ​ដាក់​លេខ​កូដ​នៅ​លើ​របារ​កម្មវិធី">
 
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "សម្អាត​ទិន្នន័យ​ឯកជន">
+<!ENTITY clearPrivateData.label                                  "សម្អាត​ប្រវត្តិ​រុករក ពាក្យសម្ងាត់ ខូគី និង​ទិន្នន័យ​ទម្រង់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​នេះ">
+<!ENTITY clearPrivateData.button                                 "សម្អាត">
+<!ENTITY clearPrivateData.done                                   "ធ្វើ​រួច!">
+<!ENTITY clearPrivateData.history                                "​ប្រវត្តិ​រក​មើល">
+<!ENTITY clearPrivateData.otherdata                              "ទិន្នន័យ​ផ្សេងទៀត (ពាក្យសម្ងាត់ ឃ្លាំង​សម្ងាត់ ខូគី។ល។)">
+<!ENTITY clearPrivateData.downloadHist                           "ប្រវត្តិ​ទាញ​យក">
 <!ENTITY clearPrivateData.cookies                                "​ខូគី">
+<!ENTITY clearPrivateData.cache                                  "​ឃ្លាំង​សម្ងាត់">
+<!ENTITY clearPrivateData.sitePref                               "ចំណូលចិត្ត​តំបន់​បណ្ដាញ">
+<!ENTITY clearPrivateData.formSearchHist                         "សំណុំ​បែបបទ &amp; ប្រវត្តិ​ស្វែងរក">
+<!ENTITY clearPrivateData.passwords                              "​ពាក្យសម្ងាត់​ដែល​បាន​រក្សា​ទុក">
+<!ENTITY clearPrivateData.offline                                "ទិន្នន័យ​តំបន់បណ្ដាញ​ក្រៅ​បណ្ដាញ">
+<!ENTITY clearPrivateData.logins                                 "ការ​ចូល​សកម្ម">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "ចងចាំ​ពាក្យសម្ងាត់">
+<!ENTITY doNotTrack.title                                        "កុំ​តាមដាន">
+<!ENTITY doNotTrack.options.doNotTrack                           "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​មិន​ចង់​ឲ្យ​គេ​តាមដាន​ទេ">
+<!ENTITY doNotTrack.options.doTrack                              "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​ចង់​ឲ្យ​គេ​តាមដាន">
+<!ENTITY doNotTrack.options.default                              "កុំ​ប្រាប់​តំបន់​បណ្ដាញ​អំពី​ចំណូលចិត្ត​តាមដាន​របស់​ខ្ញុំ">
+<!ENTITY doNotTrack.learnMoreLink                                "ស្វែងយល់​បន្ថែម&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បី​ជួយ Mozilla ឲ្យ​បង្កើន​ស្ថិរភាព និង​សុវត្ថិភាព​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
 <!ENTITY optionsHeader.telemetry.title                            "ទូរមាត្រ​វិធី">
-
+<!ENTITY optionsHeader.telemetry.label                            "ចែករំលែក​ស្ថិត​ប្រើប្រាស់ &brandShortName; ជាមួយ Mozilla ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ប្រសើរ​ឡើង">

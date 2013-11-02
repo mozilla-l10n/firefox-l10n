@@ -6,37 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "ចូល​ដំណើរការ​ចំណាំ ពាក្យសម្ងាត់​របស់​អ្នក រួច​បើក​ផ្ទាំង​តាម​ឧបករណ៍​របស់​អ្នក">
+<!ENTITY sync.flyout.presetup.setup.label      "ដំឡើង &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "ដំឡើង &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "បើ​អ្នក​មាន​គណនី &syncBrand.shortName.label; ជ្រើស &quot;ផ្គូផ្គង​ឧបករណ៍&quot; នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក រួច​បញ្ចូល​លេខ​កូដ​នេះ។">
+<!ENTITY sync.flyout.setup.description2        "បើ​អ្នក​មិន​មាន​គណនី &syncBrand.shortName.label; ទេ អ្នក​អាច​បង្កើត​មួយ​នៅ​លើ​កម្មវិធី​អ៊ីនធឺណិត &brandShortName; ។">
+<!ENTITY sync.flyout.setup.manual.label_2      "ខ្ញុំ​មិន​នៅ​ក្បែរ​កុំព្យូទ័រ​ទេ…">
+<!ENTITY sync.flyout.setup.description3        "ចំណាំ៖">
+<!ENTITY sync.flyout.setup.description4_2      "ដើម្បី​រក &quot;ផ្គូផ្គង​ឧបករណ៍&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[ផ្ទៃតុ] បើក &quot;ជម្រើស&quot; ឬ &quot;ចំណូលចិត្ត&quot; បន្ទាប់មក​ជ្រើស &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] ច្រើន​ទៀត &gt; ការ​កំណត់ &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "សូម​បញ្ចូល​ព័ត៌មាន​គណនី &syncBrand.shortName.label; របស់​អ្នក និង​ពាក្យ​គន្លឹះ​ការ​បាន​មកវិញ​ដែល​បង្កើត​ដោយ​កុំព្យូទ័រ​អ្នក">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "ឈ្មោះ​គណនី">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "ពាក្យសម្ងាត់">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "ពាក្យគន្លឹះ​ការ​បាន​មកវិញ">
 <!ENTITY sync.flyout.manualsetup.connect.label           "តភ្ជាប់">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "អ្នក​ទើប​បាន​ភ្ជាប់ &brandShortName; ទៅ​គណនី &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "ទិន្នន័យ &syncBrand.shortName.label; របស់​អ្នក​ឥឡូវ​កំពុង​ត្រូវ​បាន​ទាញ​យក​ក្នុង​ផ្ទៃ​ខាងក្រោយ។ ផ្ទាំង​ធ្វើ​សមកាលកម្ម​របស់​អ្នក​អាច​ត្រូវ​បាន​រក​ឃើញ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName;">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; មិន​អាច​តភ្ជាប់​ទៅ​គណនី &syncBrand.shortName.label; របស់​អ្នក​បាន​ទេ។">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "បោះបង់">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "ព្យាយាម​ម្តងទៀត">
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "គណនី៖">
+<!ENTITY sync.flyout.connected.device                     "ឧបករណ៍​របស់​អ្នក៖">
 <!ENTITY sync.flyout.connected.disconnect                 "ផ្តាច់​">
-
-
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "ផ្ដាច់​ឧបករណ៍​របស់​អ្នក​ដោយ​ប្រើ &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "ទិន្នន័យ​ទាំងអស់​របស់​អ្នក​ទាំង​នៅ​លើ​ឧបករណ៍ និង​នៅ​លើ​គណនី &syncBrand.shortName.label; នឹង​នៅ​ដដែល។">
+<!ENTITY sync.flyout.connected.cancel                     "បោះបង់">
 <!ENTITY sync.flyout.connected.pair                       "ផ្គូ​ឧបករណ៍">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "នៅ​លើ​ឧបករណ៍​ថ្មី​ដែល​អ្នក​ចង់​ផ្គូផ្គង​ជាមួយ ជ្រើស &quot;ដំឡើង &syncBrand.shortName.label;&quot; និង​បញ្ចូល​កូដ​ដែល​ឧបករណ៍​ផលិត">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "ផ្គូផ្គង">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "ចំណាំ៖">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "ដើម្បី​រក​កូដ៖">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ផ្ទៃតុ] បើក &quot;ជម្រើស&quot; ឬ &quot;ចំណូលចិត្ត&quot; បន្ទាប់មក​អនុវត្ត​តាម​ជំហាន៖ &syncBrand.shortName.label; -&gt; ដំឡើង &syncBrand.shortName.label; -&gt; ខ្ញុំ​មាន​គណនី">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] ច្រើន​ទៀត &gt; ការ​កំណត់ &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "សូម​ព្យាយាម​ម្ដងទៀត។">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "បាន​បន្ថែម​ឧបករណ៍​ថ្មី​ដោយ​ជោគជ័យ។">
+<!ENTITY sync.flyout.pairSuccess.description2             "ទិន្នន័យ &syncBrand.shortName.label; របស់​អ្នក​ឥឡូវ​កំពុង​ត្រូវ​បាន​ទាញ​យក​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ។ ផ្ទាំង​ពី​ចម្ងាយ​របស់​អ្នក​អាច​រក​ឃើញ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ។">
