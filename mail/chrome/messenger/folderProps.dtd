@@ -4,10 +4,10 @@
 
 <!ENTITY folderProps.windowtitle.label "Eiginleikar">
 <!ENTITY generalInfo.label "Almennar upplýsingar">
-<!ENTITY folderCharsetTab.label "Sjálfgefin stafatafla:">
-<!ENTITY folderCharsetTab.accesskey "e">
-<!ENTITY folderCharsetOverride.label "Beita sjálfgefinni stafatöflu á allan póst í möppu (stafatafla hvers pósts og sjálfvirk uppgötvun stafatöflu verður hunsuð)">
-<!ENTITY folderCharsetOverride.accesskey "a">
+<!ENTITY folderCharsetFallback.label "Sjálfgefin stafakóðun:">
+<!ENTITY folderCharsetFallback.accesskey "">
+<!ENTITY folderCharsetEnforce.label "Nota stafakóðun á póst í möppu (stafasett fyrir einstakan póst og sjálfvirk meðhöndlun verður hunsað)">
+<!ENTITY folderCharsetEnforce.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Endurbyggja yfirlitsskrá">
 <!ENTITY folderRebuildSummaryFile2.label "Laga möppu">
 <!ENTITY folderRebuildSummaryFile2.accesskey "L">

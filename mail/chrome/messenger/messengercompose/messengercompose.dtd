@@ -49,6 +49,8 @@
 <!ENTITY sendLaterCmd.accesskey "ð">
 <!ENTITY printSetupCmd.label "Uppsetning síðu…">
 <!ENTITY printSetupCmd.accesskey "U">
+<!ENTITY printPreviewCmd.label "Prentskoðun">
+<!ENTITY printPreviewCmd.accesskey "ð">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
