@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "K zadanému jménu „">
 <!ENTITY success.title.after "“ byly nalezeny následující možnosti e-mailových adres:">
 <!ENTITY success.tip "(Pro získání více adres zkuste hledat přezdívku nebo jiný výraz)">
-<!ENTITY partnership.description "Ve spolupráci s řadou poskytovatelů vám &brandShortName; umožní založit si vlastní poštovní účet. Do pole výše vložte prosím vaše křesní jméno a příjmení nebo jakéholiv jiné slovo, které se vám líbí.">
+<!ENTITY partnership.description "Ve spolupráci s řadou poskytovatelů vám &brandShortName; umožní založit si vlastní poštovní účet. Do pole výše vložte prosím vaše křesní jméno a příjmení nebo jakékoliv jiné slovo, které se vám líbí.">
 <!ENTITY existing.header "Mám již svoji e-mailovou adresu">
 <!ENTITY tinyheader.title "Už mám svůj e-mail">
 <!ENTITY tinyheader.existing "Přeskočit průvodce a použít existující e-mail">

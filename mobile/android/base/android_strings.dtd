@@ -349,7 +349,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Záložky a historie">
 
-<!ENTITY devtools_remote_debugging_forward "Nezpomeňte nastavit port pro přesměrování">
+<!ENTITY devtools_remote_debugging_forward "Nezapomeňte nastavit port pro přesměrování">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
