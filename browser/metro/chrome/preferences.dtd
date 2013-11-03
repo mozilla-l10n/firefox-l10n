@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Einstellungen">
+<!ENTITY optionsHeader.startup.title                             "Start">
+<!ENTITY optionsHeader.homepage.title                            "Wenn &brandShortName; gestartet wird">
+<!ENTITY optionsHeader.homepage.startPage.button                 "Startseite anzeigen">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "Tabs der letzten Sitzung anzeigen">
+<!ENTITY optionsHeader.char.title                                "Zeichenkodierung">
+<!ENTITY optionsHeader.char.autodetect.label                     "Automatisch bestimmen">
+<!ENTITY optionsHeader.char.options.label                        "Kodierungsoptionen in der App-Leiste anzeigen">
+
+<!ENTITY clearPrivateData.title                                  "Private Daten löschen">
+<!ENTITY clearPrivateData.label                                  "Löschen von Browserchronik, Passwörtern, Cookies und Formulardaten auf diesem Gerät">
+<!ENTITY clearPrivateData.button                                 "Leeren">
+<!ENTITY clearPrivateData.done                                   "Fertig!">
+<!ENTITY clearPrivateData.history                                "Besuchte Seiten">
+<!ENTITY clearPrivateData.otherdata                              "Andere Daten (Passwörter, Cache, Cookies, usw.)">
+<!ENTITY clearPrivateData.downloadHist                           "Download-Chronik">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Website-Einstellungen">
+<!ENTITY clearPrivateData.formSearchHist                         "Eingegebene Suchbegriffe &amp; Formulardaten">
+<!ENTITY clearPrivateData.passwords                              "Gespeicherte Passwörter">
+<!ENTITY clearPrivateData.offline                                "Offline-Website-Daten">
+<!ENTITY clearPrivateData.logins                                 "Aktive Logins">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Passwörter speichern">
+<!ENTITY doNotTrack.title                                        "Verfolgung">
+<!ENTITY doNotTrack.desc                                         "Websites mitteilen:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Meine Aktivitäten sollen nicht verfolgt werden.">
+<!ENTITY doNotTrack.options.noPreference                         "Keine Präferenz mitteilen">
+<!ENTITY doNotTrack.options.trackingOkay                         "Meine Aktivitäten sollen verfolgt werden.">
+<!ENTITY optionsHeader.reporting.title                           "Absturzmelder">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; übermittelt Absturzberichte, um Mozilla dabei zu helfen, den Browser stabiler und sicherer zu machen.">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrie">
+<!ENTITY optionsHeader.telemetry.label                            "Nutzungsstatistiken über &brandShortName; an Mozilla senden, um uns beim Verbessern Ihres Browsers zu helfen">

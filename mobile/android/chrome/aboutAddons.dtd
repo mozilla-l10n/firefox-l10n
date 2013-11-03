@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "Add-ons">
 <!ENTITY aboutAddons.header2                    "Ihre Add-ons">
 <!ENTITY aboutAddons.options                    "Einstellungen">
+<!ENTITY aboutAddons.browseAll                  "Alle Firefox-Add-ons ansehen">
 
 <!ENTITY addonAction.enable                     "Aktivieren">
 <!ENTITY addonAction.disable                    "Deaktivieren">
 <!ENTITY addonAction.uninstall                  "Deinstallieren">
 <!ENTITY addonAction.undo                       "Rückgängig">
-<!ENTITY addonAction.setDefault                 "Als Standard verwenden">

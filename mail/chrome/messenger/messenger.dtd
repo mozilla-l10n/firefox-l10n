@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "x">
 
 <!-- Toolbar items -->
-<!ENTITY getMsgButton.label "Abrufen">
+<!ENTITY getMsgButton1.label "Abrufen">
 <!ENTITY newMsgButton.label "Verfassen">
 <!ENTITY replyButton.label "Antworten">
 <!ENTITY replyAllButton.label "Allen antworten">
