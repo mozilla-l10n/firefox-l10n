@@ -72,10 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
-
+<!ENTITY pref_category_add_search_providers "បន្ថែម​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
+<!ENTITY pref_search_tip "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ដោយ​ចុច​យូរ​លើ​វាល​ស្វែងរក​របស់​វា។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_developer_remotedebugging_docs "ស្វែងយល់​បន្ថែម">
@@ -111,7 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "លំហូរ​អត្ថបទ​ត្រឡប់">
 <!ENTITY pref_restore "ផ្ទាំង">
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
-
+<!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
 <!ENTITY pref_font_size_tiny "តូច">
 <!ENTITY pref_font_size_small "តូច">
 <!ENTITY pref_font_size_medium "មធ្យម">
@@ -147,10 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
 <!ENTITY pref_vendor_feedback "ផ្ដល់​មតិ​អ្នកប្រើ">
-
+<!ENTITY pref_search_set_default "កំណត់​ជា​លំនាំដើម">
 <!ENTITY pref_search_default "លំនាំ​ដើម">
-
-
+<!ENTITY pref_search_remove "យកចេញ">
+<!ENTITY pref_search_last_toast "អ្នក​មិន​អាច​យកចេញ ឬ​បិទ​ម៉ាស៊ីន​ស្វែងរក​ចុងក្រោយ​របស់​អ្នក​បាន​ទេ។">
 
 <!ENTITY datareporting_notification_title "ទិន្នន័យ &brandShortName; stats &amp;">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
@@ -215,7 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
 <!ENTITY contextmenu_open_in_reader "បើក​ក្នុង​កម្មវីធី​អាន">
-
+<!ENTITY contextmenu_remove "យកចេញ">
 <!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
 <!ENTITY contextmenu_share "ចែករំលែក">
 <!ENTITY contextmenu_pasteandgo "បិទភ្ជាប់ &amp; ទៅ">
@@ -225,8 +226,8 @@ size. -->
 <!ENTITY contextmenu_subscribe "ជាវ​ទំព័រ​នេះ">
 <!ENTITY contextmenu_site_settings "កែ​ការ​កំណត់​តំបន់​បណ្ដាញ">
 
-<!ENTITY contextmenu_top_bookmarks_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
-<!ENTITY contextmenu_top_bookmarks_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
+<!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
+<!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
@@ -271,22 +272,26 @@ size. -->
 <!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ដែល​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
 
+<!ENTITY home_history_title "ប្រវត្តិ">
 
+<!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_open "បើក​ផ្ទាំង​ទាំងអស់​ពី​ពេល​ចុងក្រោយ">
-
-
-
-
-
+<!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
+<!ENTITY home_most_recent_title "ថ្មី​បំផុត">
+<!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
+<!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​យូរ​លើ​​រូបតំណាង &#037;I ពេល​វា​បង្ហាញ​នៅ​ក្នុង​របារ​ចំណងជើង។">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​យូរ​លើ​ប៊ូតុង​របៀប​អ្នក​អាន ពេល​វា​លេចឡើង​នៅ​ក្នុង​របារ​ចំណងជើង។">
 
-
+<!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
 <!ENTITY filepicker_title "ជ្រើស​ឯកសារ">
 <!ENTITY filepicker_audio_title "ជ្រើស ឬ​ថត​សំឡេង">
@@ -335,6 +340,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "ស្វែងរក &formatS1; សម្រាប់ &formatS2;">
 
 <!ENTITY webapp_generic_name "កម្មវិធី">
 
