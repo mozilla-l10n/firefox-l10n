@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Greifen Sie von allen Ihren Geräten auf Ihre Lesezeichen, Passwörter und offenen Tabs aller Geräte zu.">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; einrichten">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; einrichten">
+<!ENTITY sync.flyout.setup.description1        "Falls Sie ein &syncBrand.shortName.label;-Konto haben, wählen Sie &quot;Gerät verbinden&quot; auf dem anderen Gerät und geben Sie diesen Code ein.">
+<!ENTITY sync.flyout.setup.description2        "Falls Sie kein &syncBrand.shortName.label;-Konto haben, so können Sie eins in Ihrem &brandShortName;-Desktopbrowser erstellen.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ich bin nicht in der Nähe meines Computers…">
+<!ENTITY sync.flyout.setup.description3        "Hinweis:">
+<!ENTITY sync.flyout.setup.description4_2      "Um &quot;Gerät verbinden&quot; zu finden,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] öffnen Sie &quot;Optionen&quot; oder &quot;Einstellungen&quot; und wählen Sie dann &quot;&syncBrand.shortName.label;&quot;.">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Mehr &gt; Einstellungen &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Bitte geben Sie Ihre &syncBrand.shortName.label;-Kontoinformationen und den von Ihrem Computer erzeugten Wiederherstellungs-Schlüssel ein.">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Kontoname">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Passwort">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Wiederherstellungs-Schlüssel">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Verbinden">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; wurde erfolgreich mit Ihrem &syncBrand.shortName.label;-Konto verbunden.">
+<!ENTITY sync.flyout.setupsuccess.description2      "Ihre &syncBrand.shortName.label;-Daten werden nun im Hintergrund heruntergeladen. Ihre Tabs von anderen Geräten finden Sie auf der Startseite von &brandShortName;.">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; konnte nicht mit Ihrem &syncBrand.shortName.label;-Konto verbinden.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Abbrechen">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Erneut versuchen">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Konto:">
+<!ENTITY sync.flyout.connected.device                     "Ihr Gerät:">
+<!ENTITY sync.flyout.connected.disconnect                 "Trennen">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Gerät von &syncBrand.shortName.label; trennen?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Alle persönlichen Informationen sowohl auf diesem Gerät als auch in Ihrem &syncBrand.shortName.label;-Konto bleiben intakt.">
+<!ENTITY sync.flyout.connected.cancel                     "Abbrechen">
+<!ENTITY sync.flyout.connected.pair                       "Gerät verbinden">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Wählen Sie auf dem Gerät, mit welchem Sie verbinden wollen, &quot;&syncBrand.shortName.label; einrichten&quot; und geben Sie den vom Gerät erzeugten Code ein.">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Verbinden">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Hinweis:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Um den Code zu finden,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] öffnen Sie &quot;Optionen&quot; oder &quot;Einstellungen&quot; und folgen Sie den Schritten: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; einrichten -&gt; Ich habe ein Benutzerkonto">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mehr &gt; Einstellungen &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Bitte erneut versuchen">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Das neue Gerät wurde erfolgreich hinzugefügt.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Ihre &syncBrand.shortName.label;-Daten werden nun im Hintergrund heruntergeladen. Ihre Tabs von anderen Geräten finden Sie auf der Startseite von &brandShortName;.">
