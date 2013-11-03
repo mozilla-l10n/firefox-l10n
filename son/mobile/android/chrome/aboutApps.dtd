@@ -4,12 +4,6 @@
 
 <!ENTITY aboutApps.title2                          "Porogaramizey">
 <!ENTITY aboutApps.header                          "War porogaramey">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
-<!ENTITY aboutApps.noApps.pre "Internet porogaram kul mana sinja. Affooyaŋ zaa ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
-<!ENTITY aboutApps.noApps.post ".">
 <!ENTITY aboutApps.uninstall "Dogu">
 <!ENTITY aboutApps.addToHomescreen "Tonto šintin moo dijoo ga">

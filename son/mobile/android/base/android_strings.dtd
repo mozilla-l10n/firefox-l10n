@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Fasal">
 <!ENTITY contextmenu_subscribe "Maa hantum moɲoo ga">
 <!ENTITY contextmenu_site_settings "Nungu kayandiyaney fasal">
-<!ENTITY contextmenu_top_bookmarks_edit "Fasal">
-<!ENTITY contextmenu_top_bookmarks_pin "Nungoo dii">
-<!ENTITY contextmenu_top_bookmarks_unpin "Nungoo naŋ">
+
+<!ENTITY contextmenu_top_sites_pin "Nungoo dii">
+<!ENTITY contextmenu_top_sites_unpin "Nungoo naŋ">
 
 <!ENTITY pref_titlebar_mode "Maa zuu">
 <!ENTITY pref_titlebar_mode_title "Maa zuu cebe">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Moo tuusante">
 
-<!ENTITY bookmark_add "Doo-šilbay tonton">
 <!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
 <!ENTITY bookmark_edit_name "Maa">
 <!ENTITY bookmark_edit_location "Gorodoo">
@@ -273,14 +272,15 @@ size. -->
 <!ENTITY home_top_sites_title "Nungu kaasey">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Nungu tonton">
 
 <!ENTITY home_history_title "Taariki">
+
 <!ENTITY home_last_tabs_title "Cee koraa nor lokey">
 <!ENTITY home_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
 <!ENTITY home_most_recent_title "Ikokorantaa">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
-<!ENTITY home_most_visited_title "Ikul gunantey">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -291,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Yaamar. Hantumey gaabu cawyan maašeedaa ra nda war na yaayi butoŋoo naagu nd\u0027a fatta maa zuu ra.">
 
-<!ENTITY home_most_visited_empty "Nungey kaŋ war ga boobo k\u0027i guna ga bangay ne.  ">
-<!ENTITY pin_bookmark_dialog_hint "Ceeci kufal kalima dam">
+<!ENTITY pin_site_dialog_hint "Ceeci kufal kalima dam">
 
 <!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
