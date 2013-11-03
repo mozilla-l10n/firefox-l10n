@@ -34,3 +34,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip "Birta &brandShortName; valmynd">
+<!ENTITY lightning.toolbar.calendarmenu.label "Dagatalsflipi">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey "p">
+<!ENTITY lightning.toolbar.calendarpane.label "Sýna dagatalsflipa">
+<!ENTITY lightning.toolbar.calendarpane.accesskey "p">

@@ -550,7 +550,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
 <!ENTITY appmenuEditMenu.label "Breyta">
-<!ENTITY appmenuQFBMenu.label "Flýtisíuslá">
 <!ENTITY appmenuToolbarLayout.label "Útlit tækjaslár…">
 <!ENTITY appmenuSelectThread.label "Velja umræðu">
 <!ENTITY appmenuSelectFlagged.label "Velja stjörnumerkt skilaboð">
