@@ -149,7 +149,7 @@
 <!ENTITY forget.passwords.accesskey "H">
 <!ENTITY forget.storage.label "Úložiště">
 <!ENTITY forget.storage.accesskey "o">
-<!ENTITY forget.formdata.label "Historie fomulářů">
+<!ENTITY forget.formdata.label "Historie formulářů">
 <!ENTITY forget.formdata.accesskey "f">
 
 <!ENTITY forget.button.label "Zapomenout tyto data">

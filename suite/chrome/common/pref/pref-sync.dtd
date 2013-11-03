@@ -8,7 +8,7 @@
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; umožňuje synchronizaci historie, záložek, hesel a otevřených panelů napříč všemi zařízeními.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Úřet &syncBrand.fullName.label;">
+<!ENTITY accountGroupboxCaption.label "Účet &syncBrand.fullName.label;">
 <!ENTITY accountName.label "Název účtu:">
 
 <!-- Login error feedback -->

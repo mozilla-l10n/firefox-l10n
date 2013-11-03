@@ -9,7 +9,7 @@
 <!ENTITY privatebrowsingpage.moreinfo "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
 <!ENTITY privatebrowsingpage.learnmore.label "Zjistit více">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "Z">
-<!ENTITY privatebrowsingpage.private "&brandShortName; si nebude v tomto okně pamtovat žádnou hisotrii. Pro ukončení režimu &privatebrowsingpage.title; zavřete toto okno.">
+<!ENTITY privatebrowsingpage.private "&brandShortName; si nebude v tomto okně pamatovat žádnou historii. Pro ukončení režimu &privatebrowsingpage.title; zavřete toto okno.">
 <!ENTITY privatebrowsingpage.switch.label "Přepnout do normálního okna">
 <!ENTITY privatebrowsingpage.switch.accesskey "P">
 <!ENTITY privatebrowsingpage.normal "Aktuálně nejste v režimu &privatebrowsingpage.title;.">
