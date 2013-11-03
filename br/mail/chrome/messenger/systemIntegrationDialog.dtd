@@ -6,13 +6,13 @@
 <!ENTITY acceptIntegration.label  "Lakaat dre ziouer">
 <!ENTITY cancelIntegration.label  "Leuskel an enframmadur a-gostez">
 <!ENTITY cancelIntegration2.label  "Nullañ">
-<!ENTITY defaultClient.intro  "Arverañ &brandShortName; evel arval dre ziouer evit:">
+<!ENTITY defaultClient.intro  "Arverañ &brandShortName; da arval dre ziouer evit :">
 
 <!ENTITY email.label "Postel">
 <!ENTITY newsgroups.label "Strolladoù keleier">
 <!ENTITY feeds.label "Lanv">
 
-<!ENTITY unsetDefault.tooltip "N'haller ket lemel &brandShortName; eus an arventenn arval dre ziouer war &brandShortName;. Ret eo deoc'h arverañ ar voest emziviz 'Lakaat dre ziouer' eus an arload a fell deoc'h lakat dre ziouer.">
+<!ENTITY unsetDefault.tooltip "N'haller ket lemel &brandShortName; eus an arventenn arval dre ziouer war &brandShortName;. Ret eo deoc'h arverañ ar voest emziviz 'Lakaat dre ziouer' eus an arload a fell deoc'h lakaat dre ziouer.">
 
 <!ENTITY checkOnStartup.label "Gwiriañ atav pa loc'h &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">

@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Pajennaozañ…">
 <!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printPreviewCmd.label "Alberz ar moullañ">
+<!ENTITY printPreviewCmd.accesskey "A">
 <!ENTITY printCmd.label "Moullañ…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "M">

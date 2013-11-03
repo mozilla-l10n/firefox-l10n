@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Digeriñ an dewezhier JavaScript">
 <!ENTITY appbarFindInPage2.label    "Klask er bajennad">
 <!ENTITY appbarViewOnDesktop2.label "Gwelout war ar burev">
+<!ENTITY appbarMSMetaData2.label    "Kaout un arload evit al lec'hienn-mañ">
 
 <!ENTITY topSitesHeader.label        "Lec'hiennoù Gwell">
 <!ENTITY bookmarksHeader.label       "Sinedoù">

@@ -171,7 +171,7 @@
 <!ENTITY sortByStarCmd.label "Steredenn">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Kenstagadurioù">
-<!ENTITY sortByAttachmentsCmd.accesskey "a">
+<!ENTITY sortByAttachmentsCmd.accesskey "K">
 <!ENTITY sortByPriorityCmd.label "Tevet">
 <!ENTITY sortByPriorityCmd.accesskey "T">
 <!ENTITY sortBySizeCmd.label "Ment">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
 <!ENTITY appmenuNewContactCmd.label "Darempred ar c'harned chomlec'hioù …">
 <!ENTITY appmenuEditMenu.label "Embann">
-<!ENTITY appmenuQFBMenu.label "Barrenn siloù prim">
 <!ENTITY appmenuToolbarLayout.label "Aozadur ar varrenn ostilhoù…">
 <!ENTITY appmenuSelectThread.label "Diuzañ an neudenn">
 <!ENTITY appmenuSelectFlagged.label "Diuzañ ar c'hemennadennoù steredek">

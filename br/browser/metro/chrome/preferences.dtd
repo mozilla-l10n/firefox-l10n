@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Dibarzhioù">
-<!ENTITY optionsHeader.startup.title                             "Loc'hañ">
-<!ENTITY optionsHeader.homepage.title                            "Pa vez loc'het &brandShortName;, diskouez">
-<!ENTITY optionsHeader.homepage.startPage.button                 "ar bennbajenn">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "ivinelloù an estez diwezhañ">
 <!ENTITY optionsHeader.char.title                                "Bonegadur an arouezennoù">
 <!ENTITY optionsHeader.char.autodetect.label                     "Dinoiñ emgefreek">
 <!ENTITY optionsHeader.char.options.label                        "Diskouez dibarzhioù bonegañ war barrenn an arloadoù">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Derc'hel soñj eus ar gerioù-tremen">
 <!ENTITY doNotTrack.title                                        "Do Not Track">
-<!ENTITY doNotTrack.desc                                         "Lavarout d'al lec'hiennoù :">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Ne fell ket din bezañ heuliet">
-<!ENTITY doNotTrack.options.noPreference                         "Tra ebet a-zivout ma gwellvezioù heuliañ">
-<!ENTITY doNotTrack.options.trackingOkay                         "Ne fell ket din bezañ heuliet">
+<!ENTITY doNotTrack.options.doNotTrack                           "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
+<!ENTITY doNotTrack.options.doTrack                              "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">
+<!ENTITY doNotTrack.options.default                              "Na lavarout tra ebet d'al lec'hiennoù a-zivout ma gwellvezioù heuliañ.">
+<!ENTITY doNotTrack.learnMoreLink                                "Gouzout hiroc'h…">
+
 <!ENTITY optionsHeader.reporting.title                           "Daneveller sac'hadennoù">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; a dreuzkas danevelloù sac'hadenn evit skoazellañ Mozilla lakaat ho merdeer da vezañ stabiloc'h ha diogeloc'h">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
