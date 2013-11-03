@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "&brandShortName; kann Sie über den Sicherheitsstatus von Webseiten, die Sie ansehen, informieren. Anzeigen einer Warnung und Frage um Erlaubnis aktivieren vor:">
+<!ENTITY warn.description2                  "&brandShortName; kann Sie über den Sicherheitsstatus der Webseite warnen, die Sie ansehen. &brandShortName; soll eine Warnung anzeigen, wenn:">
 <!ENTITY warn.enteringsecure                "Laden einer Seite, die Verschlüsselung unterstützt">
 <!ENTITY warn.enteringsecure.accesskey      "L">
 <!ENTITY warn.insecurepost                  "Senden von Formulardaten von einer unverschlüsselten Seite an eine unverschlüsselte Seite">
