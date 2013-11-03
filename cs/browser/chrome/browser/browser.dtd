@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label "Zobrazit video">
 <!ENTITY viewVideoCmd.accesskey "Z">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek na pozadí">
-<!ENTITY viewBGImageCmd.accesskey "Z">
+<!ENTITY viewBGImageCmd.accesskey "b">
 <!ENTITY setDesktopBackgroundCmd.label "Nastavit pozadí plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "t">
 <!ENTITY bookmarkPageCmd2.label "Přidat stránku do záložek">
