@@ -24,7 +24,7 @@
   meaning "reported" (and not something like "known").
 -->
 <!ENTITY safeBrowsing.label "Bezpečné prohlížení">
-<!ENTITY safeBrowsingIntro.label "&brandShortName; může blokovat stránky, jijichž obsah byl nahlášen jako škodlivý.">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; může blokovat stránky, jejichž obsah byl nahlášen jako škodlivý.">
 
 <!ENTITY blockAttackSites.label "Blokovat nahlášené útočné stránky">
 <!ENTITY blockAttackSites.accesskey "B">

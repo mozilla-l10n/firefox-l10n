@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Ruční nastavení">
 <!ENTITY sync.subtitle.nointernet.label "Připojení k Internetu není dostupné.">
 <!ENTITY sync.subtitle.failaccount.label "Vyvoření účtu skončilo chybou.">
-<!ENTITY sync.subtitle.failmultiple.label "Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní istalace aplikace Firefox odinstalovat.">
+<!ENTITY sync.subtitle.failmultiple.label "Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní instalace aplikace Firefox odinstalovat.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Nastavení dokončeno">
