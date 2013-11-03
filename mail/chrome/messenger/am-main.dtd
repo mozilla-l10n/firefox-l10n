@@ -9,10 +9,10 @@
 
 
 
-
-
-
-
+<!ENTITY name.label "Сіздің атыңыз:">
+<!ENTITY name.accesskey "ы">
+<!ENTITY email.label "Эл. пошта адресі:">
+<!ENTITY email.accesskey "Э">
 
 
 

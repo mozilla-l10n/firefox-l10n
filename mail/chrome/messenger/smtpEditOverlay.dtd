@@ -6,17 +6,17 @@
 
 
 
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY serverPort.accesskey "П">
 
 
 
 
 
 
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 
-
-
-
-
-
+<!ENTITY serverPortDefault.label "Бастапқы:">
 
 

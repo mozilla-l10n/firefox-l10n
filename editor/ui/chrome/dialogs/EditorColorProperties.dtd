@@ -17,9 +17,9 @@
 
 
 
-
-
-
+<!ENTITY background.label "Фон:">
+<!ENTITY background.accessKey "Ф">
+<!ENTITY colon.character ":">
 
 
 

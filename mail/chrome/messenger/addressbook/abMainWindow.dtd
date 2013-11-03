@@ -5,65 +5,69 @@
 <!ENTITY addressbookWindow.title                        "Адрестік кітапша">
 <!-- File Menu -->
 
+<!ENTITY fileMenu.label                                 "Файл">
+<!ENTITY fileMenu.accesskey                             "Ф">
+<!ENTITY newMenu.label                                  "Жаңа">
+<!ENTITY newMenu.accesskey                              "Ж">
+
+
+<!ENTITY newContact.key                                 "N">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY newMessageCmd.label                            "Хабарлама">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "Х">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 
+<!ENTITY closeCmd.label                                 "Жабу">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "Ж">
+<!ENTITY printSetupCmd.label                            "Парақ баптаулары…">
+<!ENTITY printSetupCmd.accesskey                        "П">
 
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY printContactCmd.key                            "P">
 
 
 <!-- Edit Menu -->
 
+<!ENTITY editMenu.label                                 "Түзету">
+<!ENTITY editMenu.accesskey                             "Т">
+<!ENTITY undoCmd.label                                  "Болдырмау">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "Б">
+<!ENTITY redoCmd.label                                  "Қайталау">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "й">
+<!ENTITY cutCmd.label                                   "Қиып алу">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "и">
+<!ENTITY copyCmd.label                                  "Көшіру">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "ш">
+<!ENTITY pasteCmd.label                                 "Кірістіру">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "р">
+<!ENTITY deleteCmd.label                                "Өшіру">
+<!ENTITY deleteCmd.accesskey                            "ш">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY selectAllCmd.label                             "Барлығын ерекшелеу">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "е">
 
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -71,21 +75,23 @@
 <!ENTITY hideSwapFnLnUI "true">
 
 
-
+<!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
+<!ENTITY viewMenu.label                                 "Түрі">
+<!ENTITY viewMenu.accesskey                             "р">
+<!ENTITY viewToolbarsMenu.label                         "Саймандар панельдері">
+<!ENTITY viewToolbarsMenu.accesskey                     "С"> 
+<!ENTITY menubarCmd.label                               "Мәзір жолағы">
+<!ENTITY menubarCmd.accesskey                           "М">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showTaskbarCmd.label                           "Қалып-күй жолағы">
+<!ENTITY showTaskbarCmd.accesskey                       "а">
+<!ENTITY customizeToolbar.label                         "Баптау…">
+<!ENTITY customizeToolbar.accesskey                     "а">
+<!ENTITY layoutMenu.label                               "Жайма">
+<!ENTITY layoutMenu.accesskey                           "й">
 
 
 
@@ -103,13 +109,15 @@ because displayed names don't have the comma in between. -->
 
 <!-- Tools Menu -->
 
+<!ENTITY tasksMenu.label                                "Саймандар">
+<!ENTITY tasksMenu.accesskey                            "С">
 
 
+<!ENTITY messengerCmd.commandkey                        "1">
 
 
-
-
-
+<!ENTITY importCmd.label                                "Импорттау…">
+<!ENTITY importCmd.accesskey                            "И">
 
 
 
@@ -141,7 +149,7 @@ because displayed names don't have the comma in between. -->
 
 
 
-
+<!ENTITY searchItem.title "Жылдам іздеу">
 <!-- Results Pane -->
 
 

@@ -15,14 +15,16 @@
 
 
 
+<!ENTITY button.addFeed.label        "Қосу">
+<!ENTITY button.addFeed.accesskey    "о">
+
+
+<!ENTITY button.removeFeed.label     "Өшіру">
+<!ENTITY button.removeFeed.accesskey "ш">
 
 
 
 
 
 
-
-
-
-
-
+<!ENTITY cmd.close.commandKey        "w">

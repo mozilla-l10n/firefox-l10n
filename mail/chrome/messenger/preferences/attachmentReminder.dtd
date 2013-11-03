@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
+<!ENTITY attachmentReminderDialog.title   "Салынымдар туралы еске салудың кілт сөздері">
+<!ENTITY attachKeywordText.label          "&brandShortName; жоқ салынымдар туралы сізге еске салады, егер сіз жіберем деген хатта келесі кілт сөздердің біреуі болса.">
+<!ENTITY addKeywordButton.label           "Қосу">
+<!ENTITY addKeywordButton.accesskey       "о">
+<!ENTITY editKeywordButton.label          "Түзету">
+<!ENTITY editKeywordButton.accesskey      "Т">
+<!ENTITY removeKeywordButton.label        "Өшіру">
+<!ENTITY removeKeywordButton.accesskey    "ш">

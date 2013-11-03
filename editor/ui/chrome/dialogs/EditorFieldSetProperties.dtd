@@ -7,9 +7,9 @@
 
 
 
-
-
-
-
+<!ENTITY AlignDefault.label "Бастапқы">
+<!ENTITY AlignLeft.label "Сол жақ">
+<!ENTITY AlignCenter.label "Ортасынан">
+<!ENTITY AlignRight.label "Оң жақ">
 
 

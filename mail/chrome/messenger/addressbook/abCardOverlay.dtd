@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
+<!ENTITY Contact.accesskey               "">
+<!ENTITY Name.box                        "Аты">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -39,6 +39,8 @@
 
 
 
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Белгісіз">
 
 
 
@@ -54,8 +56,7 @@
 
 
 
-
-
+<!ENTITY Home.tab                       "Жеке">
 
 
 
@@ -74,12 +75,13 @@
 
 
 <!ENTITY In.label                       "">
-
-
+<!ENTITY Year.placeholder               "Жыл">
+<!ENTITY Or.value                       "не">
 
 <!ENTITY YearsOld.label                 "">
 
-
+<!ENTITY Work.tab                       "Жұмыс">
+<!ENTITY Work.accesskey                 "Ж">
 
 
 
@@ -101,6 +103,20 @@
 
 
 
+<!ENTITY Other.tab                      "Басқа">
+<!ENTITY Other.accesskey                "с">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY Chat.tab                       "Чат">
 
 
 
@@ -121,23 +137,12 @@
 
 
 
+<!ENTITY Photo.tab                      "Фото">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY DefaultPhoto.label             "Бастапқы">
 
 
 

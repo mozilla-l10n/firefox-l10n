@@ -4,6 +4,8 @@
 <!-- Window title -->
 
 
+<!ENTITY AddButton.label "Қосу">
+<!ENTITY AddButton.accessKey "о">
 
 
 
@@ -11,6 +13,5 @@
 
 
 
-
-
-
+<!ENTITY CloseButton.label "Жабу">
+<!ENTITY CloseButton.accessKey "Ж">

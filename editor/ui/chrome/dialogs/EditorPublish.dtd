@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-
+<!ENTITY settingsTab.label            "Баптаулар">
 
 <!-- Publish Tab Panel -->
 
@@ -32,10 +32,10 @@
 
 
 
-
-
-
-
+<!ENTITY setDefaultButton.label       "Бастапқы ретінде орнату">
+<!ENTITY setDefaultButton.accesskey   "т">
+<!ENTITY removeButton.label           "Сайтты өшіру">
+<!ENTITY removeButton.accesskey       "ш">
 <!-- Settings Tab Panel -->
 
 

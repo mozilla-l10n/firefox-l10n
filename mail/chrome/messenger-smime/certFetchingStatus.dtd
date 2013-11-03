@@ -4,3 +4,6 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 
+<!ENTITY title.label "Сертификаттарды жүктеп алу">
+<!ENTITY info.message "Каталогтан алушылардың сертификаттарын іздеу. Бұл біраз уақытты алуы мүмкін.">
+<!ENTITY stop.label "Іздеуді тоқтату">
