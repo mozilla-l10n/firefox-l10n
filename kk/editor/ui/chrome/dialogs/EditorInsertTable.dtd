@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Кестені кірістіру">
+
+<!ENTITY size.label "Өлшемі">
 
 
 
@@ -12,4 +15,4 @@
 
 
 
-
+<!ENTITY pixels.label "пиксель">

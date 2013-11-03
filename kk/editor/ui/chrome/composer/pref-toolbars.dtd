@@ -2,31 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.toolbars.title    "Саймандар панельдері">
 
 
+<!ENTITY new.label              "Жаңа">
+<!ENTITY open.label             "Ашу">
+<!ENTITY save.label             "Сақтау">
+
+<!ENTITY preview.label          "Шолу">
+<!ENTITY cut.label              "Қиып алу">
+<!ENTITY copy.label             "Көшіру">
+<!ENTITY paste.label            "Кірістіру">
+<!ENTITY print.label            "Баспаға шығару">
+<!ENTITY find.label             "Табу">
+<!ENTITY image.label            "Сурет">
+
+<!ENTITY table.label            "Кесте">
+<!ENTITY link.label             "Сілтеме">
+<!ENTITY anchor.label           "Байланыс">
 
 
+<!ENTITY smaller.label          "Кішірек">
+<!ENTITY larger.label           "Үлкенірек">
+<!ENTITY bold.label             "Жуан">
+<!ENTITY bullets.label          "Маркерлер">
+<!ENTITY numbers.label          "Сандар">
+<!ENTITY italic.label           "Көлбеу">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY indent.label           "Шегiнiс">
+<!ENTITY underline.label        "Асты сызылған">
 
 
 

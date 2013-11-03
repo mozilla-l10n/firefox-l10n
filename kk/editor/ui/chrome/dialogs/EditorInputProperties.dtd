@@ -4,16 +4,16 @@
 
 
 
+<!ENTITY text.value "Мәтін">
+<!ENTITY password.value "Пароль">
+<!ENTITY checkbox.value "Жалауша">
 
 
 
-
-
-
-
-
-
-
+<!ENTITY file.value "Файл">
+<!ENTITY hidden.value "Жасырын">
+<!ENTITY image.value "Сурет">
+<!ENTITY button.value "Батырма">
 
 
 

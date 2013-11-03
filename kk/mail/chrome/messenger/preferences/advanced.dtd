@@ -2,15 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemGeneral.label       "Жалпы">
 
+<!ENTITY itemUpdate.label        "Жаңартулар">
 
-
+<!ENTITY itemCertificates.label  "Сертификаттар">
 <!-- General Settings -->
 
 
 
 
 
+<!ENTITY useAutoScroll.label           "Автоматты айналдыруды қолдану">
+<!ENTITY useAutoScroll.accesskey       "в">
+<!ENTITY useSmoothScrolling.label      "Байсалды айналдыруды қолдану">
+<!ENTITY useSmoothScrolling.accesskey  "й">
 
 
 
@@ -18,11 +24,7 @@
 
 
 
-
-
-
-
-
+<!ENTITY configEditDesc.label          "Кеңейтілген баптаулар">
 
 
 
@@ -30,6 +32,8 @@
 
 <!-- Display and Reading Settings -->
 
+<!ENTITY reading.caption               "Оқу">
+<!ENTITY display.caption               "Көрсету">
 
 
 
@@ -40,10 +44,10 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 
+<!ENTITY secondsLabel.label            "секунд">
 
-
-
-
+<!ENTITY openMsgInNewTab.label         "Жаңа бет">
+<!ENTITY openMsgInNewTab.accesskey     "т">
 
 
 
@@ -51,6 +55,7 @@
 
 
 <!-- Update -->
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
 
 
 
@@ -59,18 +64,18 @@
 
 
 
+<!ENTITY modeAutoAddonWarn.label        "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
+<!ENTITY modeAutoAddonWarn.accesskey    "с">
+<!ENTITY showUpdates.label              "Жаңартулар тарихын көрсету">
+<!ENTITY showUpdates.accesskey          "с">
 
-
-
-
-
-
-
+<!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
+<!ENTITY useService.accesskey            "ф">
 <!-- Networking and Disk Space -->
 
-
-
-
+<!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке қосылу параметрлерін баптау">
+<!ENTITY connectionsInfo.caption       "Байланыс">
+<!ENTITY offlineInfo.caption           "Желіде емес">
 
 
 
@@ -86,16 +91,18 @@
 -->
 
 
-
-
+<!ENTITY clearCacheNow.label             "Қазір өшіру">
+<!ENTITY clearCacheNow.accesskey         "з">
 <!-- Certificates -->
 
+<!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
+<!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
+
+<!ENTITY certs.ask                       "Әрбір ретте менен сұрау">
 
 
 
-
-
-
-
+<!ENTITY validation.label               "Валидация">
+<!ENTITY validation.accesskey           "В">
 
 

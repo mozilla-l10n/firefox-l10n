@@ -4,10 +4,17 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
+<!ENTITY menu_securityEncryptRequire.label "Бұл хабарламаны шифрлеу">
+<!ENTITY menu_securityEncryptRequire.accesskey "ш">
 
+<!ENTITY menu_securitySign.label "Бұл хабарламаға цифрлық қолтаңбаны қосу">
+<!ENTITY menu_securitySign.accesskey "м">
 
+<!ENTITY menu_securityStatus.label "Қауіпсіздік ақпаратын қарау">
+<!ENTITY menu_securityStatus.accesskey "п">
 
+<!ENTITY securityButton.label "Қауіпсіздік">
+<!ENTITY securityButton.tooltip "Қауіпсіздік баптауларын қарау немесе өзгерту">
 
-
-
-
+<!ENTITY menu_viewSecurityStatus.label "Хабарламаның қауіпсіздік ақпараты">
+<!ENTITY menu_viewSecurityStatus.accesskey "п">

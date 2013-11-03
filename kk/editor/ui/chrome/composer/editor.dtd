@@ -5,10 +5,10 @@
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
-
+<!ENTITY previewToolbarCmd.label "Шолу">
 
 <!-- File menu items -->
 
@@ -32,6 +32,8 @@
 
 <!-- Display Mode toolbar and View menu items -->
 
+<!ENTITY NormalModeTab.label "Қалыпты">
+
 
 
 
@@ -43,11 +45,12 @@
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Бастапқы коды">
 
 
 
-
-
+<!ENTITY PreviewModeTab.label "Алдын-ала қарау">
 
 
 

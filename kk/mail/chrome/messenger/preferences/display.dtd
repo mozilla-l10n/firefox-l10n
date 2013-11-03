@@ -2,36 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemFormatting.label             "Пішімдеу">
+<!ENTITY itemTags.label                   "Тегтер">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY style.label                      "Стиль:">
+<!ENTITY style.accesskey                  "т">
+<!ENTITY regularStyle.label               "Қалыпты">
+<!ENTITY bold.label                       "Жуан">
+<!ENTITY italic.label                     "Көлбеу">
+<!ENTITY boldItalic.label                 "Жуан көлбеу">
+<!ENTITY size.label                       "Өлшемі:">
+<!ENTITY size.accesskey                   "ш">
+<!ENTITY regularSize.label                "Қалыпты">
+<!ENTITY bigger.label                     "Үлкенірек">
+<!ENTITY smaller.label                    "Кішірек">
+<!ENTITY quotedTextColor.label            "Түс:">
+<!ENTITY quotedTextColor.accesskey        "с">
 
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!-- labels -->
-
-
-
-
-
-
+<!ENTITY addTagButton.label        "Қосу">
+<!ENTITY addTagButton.accesskey    "о">
+<!ENTITY editTagButton.label       "Түзету">
+<!ENTITY editTagButton.accesskey   "Т">
+<!ENTITY removeTagButton.label     "Өшіру">
+<!ENTITY removeTagButton.accesskey "ш">
 <!-- Fonts and Colors -->
 
-
-
-
-
-
-
-
+<!ENTITY fontsAndColors1.label   "Қаріптер мен түстер">
+<!ENTITY defaultFont.label       "Негізгі қаріп:">
+<!ENTITY defaultFont.accesskey   "Н">
+<!ENTITY defaultSize.label       "Өлшемі:">
+<!ENTITY defaultSize.accesskey   "л">
+<!ENTITY fontOptions.accesskey   "ш">
+<!ENTITY fontOptions.label       "Қосымша…">
+<!ENTITY colorButton.label       "Түстер…">
+<!ENTITY colorButton.accesskey   "Т">

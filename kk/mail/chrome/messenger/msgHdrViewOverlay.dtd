@@ -24,6 +24,16 @@
 
 
 
+<!ENTITY hdrReplyAllButton1.label "Барлығына жауап беру">
+
+
+
+
+
+
+
+
+<!ENTITY hdrJunkButton1.label "Ескі-құсқы">
 
 
 
@@ -40,18 +50,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY otherActionsOpenInNewTab1.label "Жаңа бетте ашу">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "т">
 
 
 

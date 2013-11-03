@@ -4,7 +4,11 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 
+<!ENTITY status.label "Хабарлама қауіпсіздігі">
+<!ENTITY signatureCert.label "Қолтаңба сертификатын қарау">
+<!ENTITY encryptionCert.label "Шифрлеу сертификатын қарау">
 
-
-
-
+<!ENTITY signer.name "Қолтаңбаны қойған:">
+<!ENTITY recipient.name "Кім үшін шифрленген:">
+<!ENTITY email.address "Эл. пошта адресі:">
+<!ENTITY issuer.name "Сертификатты шығарған:">

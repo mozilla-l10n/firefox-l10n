@@ -64,7 +64,8 @@
 
 <!-- > is above this key on many keyboards -->
 
-
+<!ENTITY fontSizeMenu.label "Өлшемі">
+<!ENTITY fontSizeMenu.accesskey "ш">
 
 
 
@@ -166,25 +167,27 @@
 
 
 
+<!ENTITY alignLeft.tooltip "Солға туралау">
 
 
+<!ENTITY alignCenter.tooltip "Ортаға туралау">
 
 
+<!ENTITY alignRight.tooltip "Оңға туралау">
 
 
-
-
-
-
+<!ENTITY alignJustify.tooltip "Енімен туралау">
 <!-- Layer toolbar items -->
 
+<!ENTITY layer.tooltip "Қабат">
+
+<!ENTITY layerBringToFront.tooltip "Алға шығару">
 
 
+<!ENTITY increaseIndent.key "]">
 
 
-
-
-
+<!ENTITY decreaseIndent.key "[">
 
 
 <!-- Table Menu -->
@@ -227,7 +230,8 @@
 
 
 <!-- Delete SubMenu -->
-
+<!ENTITY tableDeleteMenu.label "Өшіру">
+<!ENTITY tableDeleteMenu.accesskey "р">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -242,24 +246,24 @@
 
 <!-- Toolbar-only items -->
 
+<!ENTITY cutToolbarCmd.tooltip "Қиып алу">
+<!ENTITY copyToolbarCmd.tooltip "Көшіру">
+<!ENTITY pasteToolbarCmd.tooltip "Кірістіру">
+<!ENTITY printToolbarCmd.label "Баспаға шығару">
+<!ENTITY printToolbarCmd.tooltip "Ағымдағы бетті баспаға шығару">
+<!ENTITY findToolbarCmd.label "Табу">
 
 
 
+<!ENTITY imageToolbarCmd.label "Сурет">
 
 
 
+<!ENTITY tableToolbarCmd.label "Кесте">
 
+<!ENTITY linkToolbarCmd.label "Сілтеме">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY anchorToolbarCmd.label "Байланыс">
 
 
 
@@ -267,9 +271,9 @@
 
 <!-- Editor toolbar -->
 
-
-
-
+<!ENTITY boldToolbarCmd.tooltip "Жуан">
+<!ENTITY italicToolbarCmd.tooltip "Көлбеу">
+<!ENTITY underlineToolbarCmd.tooltip "Асты сызылған">
 
 
 
@@ -290,7 +294,7 @@
 
 
 
-
-
+<!ENTITY removeTOC.label          "Өшіру">
+<!ENTITY removeTOC.accesskey      "ш">
 
 

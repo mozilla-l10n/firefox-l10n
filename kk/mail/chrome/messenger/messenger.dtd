@@ -2,19 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
+<!ENTITY closeTabCmd2.label "Бетті жабу">
+<!ENTITY closeTabCmd2.accesskey "Б">
+<!ENTITY closeOtherTabsCmd2.label "Басқа беттерді жабу">
+<!ENTITY closeOtherTabsCmd2.accesskey "с">
+<!ENTITY recentlyClosedTabsCmd.label "Жақында жабылған беттер">
+<!ENTITY recentlyClosedTabsCmd.accesskey "ы">
 
-
-
-
-
-
-
+<!ENTITY undoCloseTabCmd.commandkey "т">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Жаңа терезеге жылжыту">
+<!ENTITY moveToNewWindow.accesskey "е">
 
 
 
@@ -31,6 +36,11 @@
 
 
 
+<!ENTITY saveAsMenu.label "Қалайша сақтау">
+<!ENTITY saveAsMenu.accesskey "с">
+<!ENTITY saveAsFileCmd.label "Файл">
+<!ENTITY saveAsFileCmd.accesskey "Ф">
+<!ENTITY saveAsFileCmd.key "с">
 
 
 
@@ -49,6 +59,7 @@
 
 
 
+<!ENTITY renameFolder.key "VK_F2">
 
 
 
@@ -65,20 +76,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY printCmd.label "Баспаға шығару…">
+<!ENTITY printCmd.accesskey "ш">
+<!ENTITY printCmd.key "п">
+<!ENTITY printPreviewCmd.label "Алдын-ала қарау">
+<!ENTITY printPreviewCmd.accesskey "А">
+<!ENTITY printSetupCmd.label "Парақ баптаулары…">
+<!ENTITY printSetupCmd.accesskey "П">
 <!-- Edit Menu -->
 
 
@@ -91,6 +95,21 @@
 
 
 
+<!ENTITY selectMenu.label "Таңдау">
+<!ENTITY selectMenu.accesskey "а">
+<!ENTITY all.label "Барлығы">
+<!ENTITY all.accesskey "Б">
+
+
+<!ENTITY selectThreadCmd.key "а">
+
+
+
+
+<!ENTITY folderPropsCmd.label "Қасиеттері...">
+
+
+<!ENTITY folderPropsCmd.accesskey "с">
 
 
 
@@ -99,27 +118,21 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY undoDefaultCmd.label "Болдырмау">
+<!ENTITY undoDefaultCmd.accesskey "Б">
+<!ENTITY redoDefaultCmd.label "Қайталау">
+<!ENTITY redoDefaultCmd.accesskey "й">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Мәзір жолағы">
+<!ENTITY menubarCmd.accesskey "М">
+
+
+<!ENTITY customizeToolbar.label "Баптау…">
+<!ENTITY customizeToolbar.accesskey "а">
+
+<!ENTITY messagePaneLayoutStyle.label "Жайма">
+<!ENTITY messagePaneLayoutStyle.accesskey "й">
 
 
 
@@ -134,20 +147,14 @@
 
 
 
+<!ENTITY allFolders.label "Барлығы">
+<!ENTITY allFolders.accesskey "Б">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY recentFolders.label "Соңғы">
+<!ENTITY recentFolders.accesskey "о">
 <!-- Sort Menu -->
 
 
@@ -160,6 +167,18 @@
 
 
 
+<!ENTITY sortBySizeCmd.label "Өлшемі">
+<!ENTITY sortBySizeCmd.accesskey "ш">
+
+
+
+
+
+
+
+
+<!ENTITY sortByFromCmd.label "Кімнен">
+<!ENTITY sortByFromCmd.accesskey "м">
 
 
 
@@ -184,22 +203,10 @@
 
 
 
+<!ENTITY expandAllThreadsCmd.key "*">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY collapseAllThreadsCmd.key "\">
 
 
 
@@ -280,10 +287,10 @@
 
 
 
+<!ENTITY goForwardCmd.commandKey "]">
 
 
-
-
+<!ENTITY goBackCmd.commandKey "[">
 
 
 
@@ -366,11 +373,11 @@
 
 
 
-
-
-
-
-
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
 
 
 
@@ -415,8 +422,12 @@
 
 
 <!-- Windows Menu -->
+
+<!ENTITY windowMenu.label "Терезе">
 <!-- Tools Menu -->
 
+<!ENTITY tasksMenu.label "Саймандар">
+<!ENTITY tasksMenu.accesskey "С">
 
 
 
@@ -451,11 +462,11 @@
 
 
 
+<!ENTITY errorConsoleCmd.label "Қателер консолі">
+<!ENTITY errorConsoleCmd.accesskey "к">
 
-
-
-
-
+<!ENTITY clearRecentHistory.label "Соңғы тарихты өшіру…">
+<!ENTITY clearRecentHistory.accesskey "х">
 
 
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -463,38 +474,38 @@
 
 
 <!-- Mail Toolbar -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newMsgButton.label "Жазу">
+<!ENTITY replyButton.label "Жауап беру">
+<!ENTITY replyAllButton.label "Барлығына жауап беру">
+<!ENTITY replyListButton.label "Тізімге жауап беру">
+<!ENTITY forwardButton.label "Алға">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY archiveButton.label "Архивтеу">
+<!ENTITY nextButton.label "Келесі">
+<!ENTITY nextButtonToolbarItem.label "Келесі оқылмаған">
+<!ENTITY nextMsgButton.label "Келесі">
+<!ENTITY previousButton.label "Алдыңғы">
+<!ENTITY previousButtonToolbarItem.label "Алдыңғы оқылмаған">
+<!ENTITY previousMsgButton.label "Алдыңғы">
+<!ENTITY backButton1.label "Артқа">
+<!ENTITY goForwardButton1.label "Алға">
+<!ENTITY deleteItem.title "Өшіру">
+<!ENTITY deleteButton.label "Өшіру">
+<!ENTITY undeleteButton.label "Өшірілгенді қалпына келтіру">
+<!ENTITY markButton.label "Белгілеу">
+<!ENTITY printButton.label "Баспаға шығару">
+<!ENTITY stopButton.label "Тоқтату">
+<!ENTITY throbberItem.title "Активтілік айқындағышы">
+<!ENTITY junkItem.title "Ескі-құсқы">
+<!ENTITY junkButton.label "Ескі-құсқы">
 
 <!ENTITY addressBookButton.label "Адрестік кітапша">
+<!ENTITY chatButton.label "Чат">
+<!ENTITY glodaSearch.title "Глобалды іздеу">
+<!ENTITY searchItem.title "Жылдам іздеу">
 
 
-
-
-
-
+<!ENTITY tagButton.label "Тег">
 
 
 <!-- Mail Toolbar Tooltips-->
@@ -532,9 +543,8 @@
 
 <!-- AppMenu Popup -->
 
-
-
-
+<!ENTITY appmenuEditMenu.label "Түзету">
+<!ENTITY appmenuToolbarLayout.label "Панельдер орналасуы…">
 
 
 <!-- Tags Menu Popup -->
@@ -543,8 +553,20 @@
 
 <!-- Folder Pane -->
 
+<!ENTITY folderColumn.label "Аты">
+<!ENTITY folderSizeColumn.label "Өлшемі">
 <!-- Folder Pane Context Menu -->
 
+<!ENTITY folderContextOpenInNewWindow.label "Жаңа терезеде ашу">
+<!ENTITY folderContextOpenInNewWindow.accesskey "т">
+<!ENTITY folderContextOpenNewTab.label "Жаңа бетте ашу">
+<!ENTITY folderContextOpenNewTab.accesskey "т">
+
+
+<!ENTITY folderContextRename.label "Атын ауыстыру">
+<!ENTITY folderContextRename.accesskey "А">
+<!ENTITY folderContextRemove.label "Өшіру">
+<!ENTITY folderContextRemove.accesskey "ш">
 
 
 
@@ -567,18 +589,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY folderContextSettings.label "Баптаулар…">
+<!ENTITY folderContextSettings.accesskey "а">
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
@@ -696,6 +708,7 @@
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolder.label "Бума…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -715,6 +728,7 @@
    items are "This folder", "B", and "C".  This is the equivalent of the
    "File here" option for the move to/copy to widge.t
   -->
+<!ENTITY columnPicker.thisFolder.label "Бұл бума">
 <!-- Media (video/audio) controls -->
 
 
@@ -816,5 +830,5 @@
 
 
 
-
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 

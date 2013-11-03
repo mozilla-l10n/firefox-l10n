@@ -3,21 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
+<!ENTITY openFileCmd.label "Файлды ашу...">
+<!ENTITY openFileCmd.accesskey "Ф">
+<!ENTITY openFileCmd.key "O">
+
+
+<!ENTITY openRemoteCmd.key "L">
+
+
+<!ENTITY saveCmd.label "Сақтау">
+<!ENTITY saveCmd.accesskey "С">
+<!ENTITY saveAsCmd.label "Қалайша сақтау…">
+<!ENTITY saveAsCmd.accesskey "й">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY publishCmd.key "S">
 
 
 
@@ -26,7 +28,9 @@
 
 <!-- Toolbar buttons/items -->
 
+<!ENTITY newToolbarCmd.label "Жаңа">
 
+<!ENTITY openToolbarCmd.label "Ашу">
 
 
 
