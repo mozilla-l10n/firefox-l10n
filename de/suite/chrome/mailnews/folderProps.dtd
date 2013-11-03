@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenschaften">
 
 <!ENTITY generalInfo.label                       "Allgemeine Informationen">
-<!ENTITY folderCharsetTab.label                  "Standard-Zeichensatz:">
-<!ENTITY folderCharsetTab.accesskey              "Z">
-<!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Nachrichtenzeichensatzeinstellungen und autom. Bestimmung werden ignoriert)">
-<!ENTITY folderCharsetOverride.accesskey         "S">
+<!ENTITY folderCharsetFallback.label             "Rückfall-Zeichenkodierung:">
+<!ENTITY folderCharsetFallback.accesskey         "R">
+<!ENTITY folderCharsetEnforce.label              "Kodierung auf alle Nachrichten im Ordern anwenden (individuelle Nachrichten-Zeichenkodierungs-Einstellungen werden ignoriert)">
+<!ENTITY folderCharsetEnforce.accesskey          "K">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Zusammenfassungsdatei neu erstellen">
 <!ENTITY folderRebuildSummaryFile2.label         "Ordner reparieren">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "O">

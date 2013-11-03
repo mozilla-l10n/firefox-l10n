@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Zeichensatz">
 <!ENTITY messageDisplay.caption          "Nachrichtenansicht">
-<!ENTITY viewDefaultCharset.label        "Standard-Zeichensatz:">
-<!ENTITY viewDefaultCharset.accesskey    "S">
+<!ENTITY viewFallbackCharset.label       "Rückfall-Zeichenkodierung:">
+<!ENTITY viewFallbackCharset.accesskey   "R">
+<!ENTITY viewFallbackCharset.desc        "(Wird für veraltete Inhalte verwendet, die keine Kodierung deklarieren.)">
 
 <!ENTITY composingMessages.caption       "Nachrichten verfassen">
 <!ENTITY useMIME.label                   "Für Nachrichten, die 8-bit-Zeichen verwenden, &quot;Quoted Printable&quot;-MIME-Kodierung verwenden. Lassen Sie diese Option ausgeschaltet, um die Nachricht wie vorhanden zu senden.">
