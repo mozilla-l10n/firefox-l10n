@@ -1,4 +1,7 @@
-bingmetrofx
 googlemetrofx
+mailru
+ozonru
+priceru
 wikipedia-ru
-yahoo
+yandex-slovari
+yandex
