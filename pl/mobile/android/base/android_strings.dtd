@@ -210,7 +210,7 @@ size. -->
 <!ENTITY contextmenu_remove "Usuń">
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_share "Udostępnij">
-<!ENTITY contextmenu_pasteandgo "Kopiuj i przejdź do strony">
+<!ENTITY contextmenu_pasteandgo "Wklej i przejdź do strony">
 <!ENTITY contextmenu_paste "Kopiuj">
 <!ENTITY contextmenu_copyurl "Kopiuj adres">
 <!ENTITY contextmenu_edit_bookmark "Zmień">
