@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript-Konsole öffnen">
 <!ENTITY appbarFindInPage2.label    "In Seite suchen">
 <!ENTITY appbarViewOnDesktop2.label "Auf Desktop ansehen">
+<!ENTITY appbarMSMetaData2.label    "App für diese Website öffnen">
 
 <!ENTITY topSitesHeader.label        "Meistbesuchte Seiten">
 <!ENTITY bookmarksHeader.label       "Lesezeichen">
