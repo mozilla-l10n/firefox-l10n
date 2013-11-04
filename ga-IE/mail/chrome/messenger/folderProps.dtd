@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Airíonna">
 
 <!ENTITY generalInfo.label "Eolas Ginearálta">
-<!ENTITY folderCharsetTab.label "Ionchódú réamhshocraithe na gcarachtar:">
-<!ENTITY folderCharsetTab.accesskey "c">
-<!ENTITY folderCharsetOverride.label "Cuir an réamhshocrú i bhfeidhm ar gach teachtaireacht san fhillteán (tabharfar neamhaird ar shocruithe ionchódú na gcarachtar sna teachtaireachtaí féin agus ar bhrath uathoibríoch)">
-<!ENTITY folderCharsetOverride.accesskey "a">
+<!ENTITY folderCharsetFallback.label "Ionchódú Réamhshocraithe:">
+<!ENTITY folderCharsetFallback.accesskey "c">
+<!ENTITY folderCharsetEnforce.label "Cuir an t-ionchódú réamhshocraithe i bhfeidhm ar gach teachtaireacht san fhillteán (tabharfar neamhaird ar shocruithe ionchódaithe sna teachtaireachtaí féin agus ar bhrath uathoibríoch)">
+<!ENTITY folderCharsetEnforce.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Atóg an Comhad Achoimre">
 <!ENTITY folderRebuildSummaryFile2.label "Deisigh an Fillteán">
 <!ENTITY folderRebuildSummaryFile2.accesskey "D">

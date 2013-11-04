@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Socrú De Láimh">
 <!ENTITY sync.subtitle.nointernet.label "Níl ceangal leis an Idirlíon ar fáil.">
 <!ENTITY sync.subtitle.failaccount.label "Níorbh fhéidir cuntas a chruthú ar do ghléas.">
-<!ENTITY sync.subtitle.failmultiple.label "An bhfuil níos mó ná Firefox amháin suiteáilte agat? Ní thacaíonn syncBrand.fullName.label le níos mó ná leagan amháin de Firefox faoi láthair. Caithfidh tú leaganacha eile a dhíshuiteáil chun &syncBrand.shortName.label; a úsáid.">
+<!ENTITY sync.subtitle.failmultiple.label "An bhfuil níos mó ná Firefox amháin suiteáilte agat? Ní thacaíonn syncBrand.fullName.label le níos mó ná leagan amháin de Firefox faoi láthair. Caithfidh tú leaganacha eile a dhíshuiteáil chun &syncBrand.shortName.label; a úsáid.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Críochnaithe">

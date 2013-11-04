@@ -171,7 +171,7 @@
 <!ENTITY sortByStarCmd.label "Réiltín">
 <!ENTITY sortByStarCmd.accesskey "R">
 <!ENTITY sortByAttachmentsCmd.label "Iatáin">
-<!ENTITY sortByAttachmentsCmd.accesskey "I">
+<!ENTITY sortByAttachmentsCmd.accesskey "n">
 <!ENTITY sortByPriorityCmd.label "Tosaíocht">
 <!ENTITY sortByPriorityCmd.accesskey "T">
 <!ENTITY sortBySizeCmd.label "Méid">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
 <!ENTITY appmenuNewContactCmd.label "Teagmháil sa Leabhar Seoltaí…">
 <!ENTITY appmenuEditMenu.label "Eagar">
-<!ENTITY appmenuQFBMenu.label "Barra Mearscagairí">
 <!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!ENTITY appmenuSelectThread.label "Roghnaigh Snáithe">
 <!ENTITY appmenuSelectFlagged.label "Roghnaigh Teachtaireachtaí Marcáilte">

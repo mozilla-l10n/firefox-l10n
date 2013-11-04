@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label "Feidhmchláir">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip "Taispeáin an Roghchlár &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label "Pána Féilire">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey "P">
+<!ENTITY lightning.toolbar.calendarpane.label "Taispeáin Pána Féilire">
+<!ENTITY lightning.toolbar.calendarpane.accesskey "P">

@@ -97,7 +97,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Is ionann do fhreastalaí amach (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot; is ionann é agus do fhreastalaí isteach. Úsáidfear d'ainm úsáideora isteach chun é a rochtain.">
+<!ENTITY haveSmtp3.suffix3 "&quot; is ionann é agus do fhreastalaí isteach. Úsáidfear d'ainm úsáideora isteach chun é a rochtain.">
 <!-- Entities for Account name page -->
 
 

@@ -57,22 +57,27 @@
 <!ENTITY connection.installOneSimulatorTooltip "Suiteáil leagan den Ionsamhlóir trí bhreiseán oiriúnach a íosluchtú.">
 <!ENTITY connection.installAnotherSimulator "Cuir Leis">
 <!ENTITY connection.installAnotherSimulatorTooltip "Suiteáil leagan eile den Ionsamhlóir trí bhreiseán oiriúnach a íosluchtú.">
+<!ENTITY connection.startRegisteredSimulator "Tosach:">
 
 <!ENTITY projects.localApps "Feidhmchláir Logánta">
 <!ENTITY projects.addApp "Cuir Leis">
 <!ENTITY projects.addPackaged "Cuir Feidhmchlár Pacáistithe Leis">
-<!ENTITY projects.addPackagedTooltip "Cuir feidhmchlár nua pacáistithe (comhadlann) ó do ríomhaire leis.">
+<!ENTITY projects.addPackagedTooltip "Cuir feidhmchlár nua pacáistithe (comhadlann) ó do ríomhaire leis.">
 <!ENTITY projects.addHosted "Cuir Feidhmchlár Óstáilte Leis">
 <!ENTITY projects.addHostedTooltip "Cuir feidhmchlár nua óstáilte (nasc le comhad manifest.webapp) leis, ó shuíomh i gcéin">
 <!ENTITY projects.title "Feidhmchláir Logánta">
 <!ENTITY projects.appDetails "Mionsonraí an Fheidhmchláir">
-<!ENTITY projects.removeAppFromList "Bain an feidhmchlár seo ó na liosta a bhfuil tú ag obair orthu. Ní bhainfear ó ghléas ná ó ionsamhlóir é.">
+<!ENTITY projects.removeAppFromList "Bain an feidhmchlár seo ó na liosta a bhfuil tú ag obair orthu. Ní bhainfear ó ghléas ná ó ionsamhlóir é.">
 <!ENTITY projects.updateApp "Nuashonrú">
 <!ENTITY projects.updateAppTooltip "Execute validation checks and update the app to the connected device">
 <!ENTITY projects.debugApp "Dífhabhtaigh">
 <!ENTITY projects.debugAppTooltip "Oscail na hUirlisí Forbartha ceangailte leis an bhfeidhmchlár seo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No projects. Add a new packaged app below (local directory) or a hosted app (link to a manifest file).">
+<!ENTITY projects.manifestEditor "Manifest Editor">
+<!ENTITY projects.manifestEditorTooltip "Edit your app's manifest in the panel below. The Update button will save your changes and update the app.">
+<!ENTITY projects.manifestViewer "Manifest Viewer">
+<!ENTITY projects.manifestViewerTooltip "Examine your app's manifest in the panel below.">
 
 <!ENTITY help.title "Bainisteoir Feidhmchlár">
 <!ENTITY help.close "Dún">
