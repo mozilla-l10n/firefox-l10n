@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Dia Dhuit ">
 <!ENTITY success.title.after ", is iad seo na seoltaí ríomhphoist atá ar fáil:">
 <!ENTITY success.tip "(Is féidir leasainmneacha nó aon téarmaí eile a chuardach freisin, chun tuilleadh seoltaí a aimsiú)">
-<!ENTITY partnership.description "I gcomhar le soláthraithe áirithe, is féidir leat cuntas nua ríomhphoist a chruthú trí &brandShortName;. Tabhair d'ainm agus sloinne, nó aon téarmaí eile, sna boscaí thuas chun tosú.">
+<!ENTITY partnership.description "I gcomhar le soláthraithe áirithe, is féidir leat cuntas nua ríomhphoist a chruthú trí &brandShortName;. Tabhair d'ainm agus sloinne, nó aon téarmaí eile, sna boscaí thuas chun tosú.">
 <!ENTITY existing.header "An bhfuil seoladh ríomhphoist agat cheana?">
 <!ENTITY tinyheader.title "Seoladh ríomhphoist agat?">
 <!ENTITY tinyheader.existing "Ná bac leis seo; úsáid an seoladh s'agam">

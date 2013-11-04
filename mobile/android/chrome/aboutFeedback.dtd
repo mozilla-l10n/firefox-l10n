@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2 "Nó is féidir cuairt a thabhairt ar ">
+<!ENTITY support.pre2 "Nó is féidir cuairt a thabhairt ar ">
 <!ENTITY support.link "Tacaíocht &brandShortName;">
 <!ENTITY support.post2 " chun tuilleadh eolais a fháil.">
 

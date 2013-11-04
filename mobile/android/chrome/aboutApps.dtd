@@ -4,12 +4,7 @@
 
 <!ENTITY aboutApps.title2 "Feidhmchláir">
 <!ENTITY aboutApps.header "Do Chuid Feidhmchlár">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
-<!ENTITY aboutApps.noApps.pre "Níl aon fheidhmchláir suiteáilte agat. Faigh feidhmchláir ón">
-<!ENTITY aboutApps.noApps.middle3 "Margadh Fhirefox">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Browse the Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "Díshuiteáil">
 <!ENTITY aboutApps.addToHomescreen "Cuir leis an Scáileán Baile">

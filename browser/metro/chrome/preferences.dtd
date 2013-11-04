@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title "Roghanna">
-<!ENTITY optionsHeader.startup.title "Tosú">
-<!ENTITY optionsHeader.homepage.title "Nuair a thosaíonn &brandShortName;, taispeáin">
-<!ENTITY optionsHeader.homepage.startPage.button "leathanach tosaigh">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "cluaisíní ón seisiún roimhe seo">
 <!ENTITY optionsHeader.char.title "Ionchódú Carachtar">
 <!ENTITY optionsHeader.char.autodetect.label "Braith go huathoibríoch">
 <!ENTITY optionsHeader.char.options.label "Taispeáin roghanna ionchódaithe ar an Aip-Bharra">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label "Meabhraigh Focail Fhaire">
 <!ENTITY doNotTrack.title "Ná Lorg">
-<!ENTITY doNotTrack.desc "Inis do shuímh:">
-<!ENTITY doNotTrack.options.trackingNotOkay "Gan mise a rianú">
-<!ENTITY doNotTrack.options.noPreference "Ná habair faic leo maidir le rianú">
-<!ENTITY doNotTrack.options.trackingOkay "Ba mhaith liom a bheith rianaithe">
+<!ENTITY doNotTrack.options.doNotTrack "Inis do shuímh gan mise a rianú">
+<!ENTITY doNotTrack.options.doTrack "Inis do shuímh gur mhaith liom a bheith rianaithe">
+<!ENTITY doNotTrack.options.default "Ná inis faoi do shuímh maidir le rianú">
+<!ENTITY doNotTrack.learnMoreLink "Tuilleadh eolais&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title "Tuairisceoir na gClistí">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
 <!ENTITY optionsHeader.telemetry.title "Teiliméadracht">

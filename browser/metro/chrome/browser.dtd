@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label "Oscail blaosc JavaScript">
 <!ENTITY appbarFindInPage2.label "Aimsigh sa leathanach">
 <!ENTITY appbarViewOnDesktop2.label "Taispeáin ar an deasc">
+<!ENTITY appbarMSMetaData2.label "Faigh aip le haghaidh an tsuímh seo">
 
 <!ENTITY topSitesHeader.label "Barrshuímh">
 <!ENTITY bookmarksHeader.label "Leabharmharcanna">

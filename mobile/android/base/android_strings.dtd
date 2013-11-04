@@ -153,7 +153,7 @@ size. -->
 <!ENTITY pref_search_remove "Bain">
 <!ENTITY pref_search_last_toast "Níl cead agat an t-inneall cuardaigh is déanaí a dhíchumasú.">
 
-<!ENTITY datareporting_notification_title "Staitisticí agus sonraí ó &brandShortName;">
+<!ENTITY datareporting_notification_title "Staitisticí agus sonraí ó &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Roghnaigh cad a roinnfidh tú">
 <!ENTITY datareporting_notification_action "Roghnaigh cad a roinnfidh tú">
 <!ENTITY datareporting_notification_summary "Chun an táirge a fheabhsú, seolann &brandShortName; roinnt faisnéise chuig &vendorShortName;.">
@@ -171,12 +171,12 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Féach ar mo Thuairisc Shláinte">
 <!ENTITY datareporting_telemetry_title "Teiliméadracht">
 <!ENTITY datareporting_telemetry_summary "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
-<!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
+<!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
 <!ENTITY datareporting_wifi_title "Seirbhísí geoshuite &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Tabhair cead do &brandShortName; sonraí gan ainm maidir le túir cheallacha a sheoladh chugainn. Cabhróidh sé seo linn seirbhísí geoshuite ar an nGréasán oscailte a fheabhsú.">
+<!ENTITY datareporting_wifi_summary "Tabhair cead do &brandShortName; sonraí gan ainm maidir le túir cheallacha a sheoladh chugainn. Cabhróidh sé seo linn seirbhísí geoshuite ar an nGréasán oscailte a fheabhsú.">
 
 <!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Eagar">
 <!ENTITY contextmenu_subscribe "Liostáil leis an Leathanach">
 <!ENTITY contextmenu_site_settings "Cuir Socruithe an tSuímh in Eagar">
-<!ENTITY contextmenu_top_bookmarks_edit "Eagar">
-<!ENTITY contextmenu_top_bookmarks_pin "Feistigh an suíomh seo">
-<!ENTITY contextmenu_top_bookmarks_unpin "Dífheistigh an suíomh seo">
+<!ENTITY contextmenu_top_sites_edit "Eagar">
+<!ENTITY contextmenu_top_sites_pin "Feistigh an suíomh seo">
+<!ENTITY contextmenu_top_sites_unpin "Dífheistigh an suíomh seo">
 
 <!ENTITY pref_titlebar_mode "Barra teidil">
 <!ENTITY pref_titlebar_mode_title "Taispeáin teideal an leathanaigh">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Leathanach bainte">
 
-<!ENTITY bookmark_add "Cuir leabharmharc leis">
 <!ENTITY bookmark_edit_title "Cuir Leabharmharc in Eagar">
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Suíomh">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir suíomh leis">
 
 <!ENTITY home_history_title "Stair">
+<!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
 <!ENTITY home_last_tabs_title "Cluaisíní ón seisiún roimhe seo">
 <!ENTITY home_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
 <!ENTITY home_most_recent_title "Is déanaí">
 <!ENTITY home_most_recent_empty "Taispeántar na suímh ar thug tú cuairt orthu le déanaí anseo.">
-<!ENTITY home_most_visited_title "Feicthe is minice">
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
 
-<!ENTITY home_most_visited_empty "Taispeántar na suímh a dtugann tú cuairt orthu is minice anseo.">
-<!ENTITY pin_bookmark_dialog_hint "Cuir téarma cuardaigh isteach">
+<!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
 <!ENTITY filepicker_title "Roghnaigh Comhad">
 <!ENTITY filepicker_audio_title "Roghnaigh nó taifead fuaim">
@@ -369,7 +367,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Ar Aghaidh">
 <!ENTITY guest_session_dialog_cancel "Cealaigh">
 <!ENTITY new_guest_session_title "Atosóidh &brandShortName; anois">
-<!ENTITY new_guest_session_text "Má thugann tú do ghléas do chara ar iasacht, ní bheidh sé/sé in ann do chuid sonraí pearsanta a fheiceáil (mar shampla, focail fhaire, stair bhrabhsála, nó leabharmharcanna).\n\nNuair a bheidh do chara críochnaithe, scriosfar a c(h)uid sonraí brabhsála, agus athchóireofar do sheisiún.">
+<!ENTITY new_guest_session_text "Má thugann tú do ghléas do chara ar iasacht, ní bheidh sé/sé in ann do chuid sonraí pearsanta a fheiceáil (mar shampla, focail fhaire, stair bhrabhsála, nó leabharmharcanna).\n\nNuair a bheidh do chara críochnaithe, scriosfar a c(h)uid sonraí brabhsála, agus athchóireofar do sheisiún.">
 
 <!ENTITY exit_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY exit_guest_session_text "Scriosfar na sonraí brabhsála ón seisiún seo.">
