@@ -1,4 +1,6 @@
 amazon-en-GB
+bing
 google
 twitter
 wikipedia
+yahoo-en-GB
