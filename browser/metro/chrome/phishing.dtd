@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Me tire daqui!">
+<!ENTITY safeb.palm.decline.label "Ignorar este alerta">
+<!ENTITY safeb.palm.notforgery.label2 "Esta não é uma página falsa…">
+<!ENTITY safeb.palm.reportPage.label "Por que esta página foi bloqueada?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Página avaliada como foco de ataques!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "A página no site <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Focos de ataques são páginas que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
+<p>Algumas destas páginas intencionalmente distribuem software nocivo, mas muitos são comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Site suspeito de ser uma fraude!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>">

@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Pesquisar ou abrir endereço">
+
+<!ENTITY back.label            "Voltar">
+<!ENTITY forward.label         "Avançar">
+<!ENTITY newtab.label          "Nova aba">
+<!ENTITY closetab.label        "Fechar aba">
+
+<!ENTITY autocompleteResultsHeader.label  "Seus resultados">
+
+<!ENTITY appbarErrorConsole.label   "Abrir console de erros">
+<!ENTITY appbarJSShell.label        "Open JavaScript shell">
+<!ENTITY appbarFindInPage2.label    "Localizar na página">
+<!ENTITY appbarViewOnDesktop2.label "Exibir na área de trabalho">
+
+<!ENTITY topSitesHeader.label        "Sites principais">
+<!ENTITY bookmarksHeader.label       "Favoritos">
+<!ENTITY recentHistoryHeader.label   "Histórico recente">
+<!ENTITY remoteTabsHeader.label      "Abas de outros dispositivos">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Sites principais">
+<!ENTITY narrowBookmarksHeader.label     "Favoritos">
+<!ENTITY narrowRecentHistoryHeader.label "Histórico recente">
+<!ENTITY narrowRemoteTabsHeader.label    "Abas remotas">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Ir para página">
+<!ENTITY downloadShow2.label       "Localizar">
+<!ENTITY downloadOpen2.label       "Abrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Continuar">
+<!ENTITY downloadRetry.label       "Reiniciar">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadFailed.label      "Malsucedido">
+
+<!ENTITY allBookmarks.label        "Exibir todos os favoritos">
+
+<!ENTITY consoleHeader.label       "Console de erros">
+<!ENTITY consoleAll.label          "Tudo">
+<!ENTITY consoleErrors.label       "Erros">
+<!ENTITY consoleWarnings.label     "Alertas">
+<!ENTITY consoleMessages.label     "Mensagens">
+<!ENTITY consoleCodeEval.label     "Código:">
+<!ENTITY consoleClear.label        "Limpar">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Arquivo-fonte:">
+<!ENTITY consoleErrLine.label      "Linha:">
+<!ENTITY consoleErrColumn.label    "Coluna:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Recortar">
+<!ENTITY contextTextCopy.label             "Copiar">
+<!ENTITY contextTextPaste.label            "Colar">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Colar e ir">
+<!ENTITY contextTextSelect.label           "Selecionar">
+<!ENTITY contextTextSelectAll.label        "Selecionar tudo">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Abrir em nova aba">
+<!ENTITY contextCopyLinkHref.label         "Copiar link">
+<!ENTITY contextBookmarkLinkHref.label     "Adicionar link aos favoritos">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Salvar na biblioteca de imagens">
+<!ENTITY contextCopyImage.label            "Copiar imagem">
+<!ENTITY contextCopyImageLocation.label    "Copiar endereço da imagem">
+<!ENTITY contextOpenImageTab.label         "Abrir imagem em nova aba">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Salvar na biblioteca de vídeos">
+<!ENTITY contextCopyVideoLocation.label    "Copiar endereço do vídeo">
+<!ENTITY contextOpenVideoTab.label         "Abrir vídeo em nova aba">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "R">
+<!ENTITY focusURL.key "L">
+<!ENTITY urlbar.accesskey "D">
+<!ENTITY openFile.key "O">
+<!ENTITY savePage.key "S">
+<!ENTITY find.key "F">
+<!ENTITY findNext.key "G">
+<!ENTITY quit.key "Q">
+<!ENTITY addBookmark.key "D">
+<!ENTITY newTab.key "T">
+<!ENTITY newTab2.key "N">
+<!ENTITY closeTab.key "W">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "J">
+<!ENTITY optionsFlyout.key "O">
+<!ENTITY syncFlyout.key "S">
+<!ENTITY aboutFlyout.key "A">
