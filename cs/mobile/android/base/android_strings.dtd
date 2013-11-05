@@ -77,9 +77,7 @@
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "
-Tip: 
-TIP: Add any website to your list of search providers by long-pressing on its search field.">
+<!ENTITY pref_search_tip "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem nad vyhledávacím polem.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_developer_remotedebugging_docs "Zjistit více">
