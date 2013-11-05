@@ -13,6 +13,7 @@
 <!ENTITY appbarFindInPage2.label "Trova nella pagina">
 <!ENTITY appbarViewOnDesktop2.label "Apri in Desktop">
 <!ENTITY appbarMSMetaData2.label "Ottieni app per questo sito">
+<!ENTITY appbarViewPageSource.label "Visualizza sorgente pagina">
 <!ENTITY topSitesHeader.label "Siti principali">
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY recentHistoryHeader.label "Cronologia recente">
