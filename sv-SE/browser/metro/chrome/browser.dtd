@@ -18,6 +18,7 @@
 <!ENTITY appbarFindInPage2.label    "Sök på sidan">
 <!ENTITY appbarViewOnDesktop2.label "Visa på skrivbordet">
 <!ENTITY appbarMSMetaData2.label    "Hämta app för denna plats">
+<!ENTITY appbarViewPageSource.label "Visa sidans källkod">
 
 <!ENTITY topSitesHeader.label        "Mest besökta">
 <!ENTITY bookmarksHeader.label       "Bokmärken">
