@@ -46,11 +46,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "l">
 <!ENTITY  undoCloseTab.label                 "Malfari fermadon de langeto">
 <!ENTITY  undoCloseTab.accesskey             "M">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Malfari fermadon de langetoj">
+
 <!ENTITY  closeTab.label                     "Fermi langeton">
 <!ENTITY  closeTab.accesskey                 "o">
 
