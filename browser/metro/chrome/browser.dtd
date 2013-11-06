@@ -13,6 +13,7 @@
 <!ENTITY appbarFindInPage2.label "Найти на странице">
 <!ENTITY appbarViewOnDesktop2.label "Показать на десктопе">
 <!ENTITY appbarMSMetaData2.label "Получить приложение для этого сайта">
+<!ENTITY appbarViewPageSource.label "Исходный код страницы">
 <!ENTITY topSitesHeader.label "Топ сайтов">
 <!ENTITY bookmarksHeader.label "Закладки">
 <!ENTITY recentHistoryHeader.label "Недавняя история">

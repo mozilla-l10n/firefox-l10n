@@ -528,6 +528,14 @@
 <!ENTITY appmenuButton1.tooltip "Открыть меню &brandShortName;">
 <!ENTITY buttonMenuForwardAsInline.label "Переслать внутри сообщения">
 <!ENTITY buttonMenuForwardAsAttachment.label "Переслать как вложение">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Показать содержимое из сети в этом сообщении">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "о">
+<!ENTITY remoteContentOptionAllowForAddress.label "Показать содержимое из сети от этого отправителя">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "а">
+<!ENTITY phishingOptionIgnore.label "Игнорировать предупреждение для этого сообщения">
+<!ENTITY phishingOptionIgnore.accesskey "в">
+<!ENTITY phishingOptionDisableDetection.label "Отключить проверку на мошенничество для всех сообщений">
+<!ENTITY phishingOptionDisableDetection.accesskey "ю">
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
@@ -682,19 +690,6 @@
 <!ENTITY contextMute.accesskey "б">
 <!ENTITY contextUnmute.label "Восстановить звук">
 <!ENTITY contextUnmute.accesskey "т">
-<!ENTITY junkBarMessage2.label "&brandShortName; считает, что это сообщение является спамом.">
-<!ENTITY junkBarButton1.label "Не спам">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "В целях безопасности &brandShortName; заблокировал в этом сообщении загрузку содержимого из сети.">
-<!ENTITY loadRemoteContentButton3.label "Показать содержимое из сети">
-<!ENTITY phishingBarMessage2.label "Это сообщение может быть мошенническим.">
-<!ENTITY removePhishingBarButton1.label "Игнорировать предупреждение">
-<!ENTITY disablePhishingWarning1.label "Отключить проверку на мошенничество для всех сообщений">
-<!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
-<!ENTITY mdnBarIgnoreButton2.label "Игнорировать">
-<!ENTITY mdnBarIgnoreButton2.accesskey "н">
-<!ENTITY mdnBarSendButton2.label "Отправить уведомление о прочтении">
-<!ENTITY mdnBarSendButton2.accesskey "п">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Поиск… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
