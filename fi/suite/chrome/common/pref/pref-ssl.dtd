@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "Näytä varoitus:">
+<!ENTITY warn.description2                  "&brandShortName; voi varoittaa sinua avaamasi sivun turvallisuustasosta. Näytä varoitus, kun:">
 <!ENTITY warn.enteringsecure                "Avattaessa salattua sivua">
 <!ENTITY warn.enteringsecure.accesskey      "A">
 <!ENTITY warn.insecurepost                  "Lähetettäessä tietoa salaamatta">

@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Ominaisuudet">
 
 <!ENTITY generalInfo.label                       "Yleiset tiedot">
-<!ENTITY folderCharsetTab.label                  "Oletusmerkistökoodaus:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Käytä oletusarvoa kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderCharsetFallback.label             "Oletusmerkistökoodaus:">
+<!ENTITY folderCharsetFallback.accesskey         "e">
+<!ENTITY folderCharsetEnforce.label              "Käytä oletusarvoa kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
+<!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Kokoa yhteenvetotiedoston indeksi uudelleen">
 <!ENTITY folderRebuildSummaryFile2.label         "Korjaa kansio">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "K">
