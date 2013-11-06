@@ -23,8 +23,4 @@
 # link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox: podpora
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-# link title for about:home
-#define bookmarks_aboutHome Firefox: domača stran
-
 #unfilter emptyLines
