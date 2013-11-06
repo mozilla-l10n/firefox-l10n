@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Genskab forrige session">
 
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
-<!ENTITY showAllHistoryCmd.commandkey "V">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Rediger">
 <!ENTITY appMenuCustomize.label "Tilpas">
