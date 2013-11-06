@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Merkistökoodaus">
 <!ENTITY messageDisplay.caption          "Viestien luku">
-<!ENTITY viewDefaultCharset.label        "Oletusmerkistökoodaus:">
-<!ENTITY viewDefaultCharset.accesskey    "O">
+<!ENTITY viewFallbackCharset.label       "Oletusmerkistökoodaus:">
+<!ENTITY viewFallbackCharset.accesskey   "O">
+<!ENTITY viewFallbackCharset.desc        "(Käytetään perinteiselle sisällölle, joka ei itse määritä käytettävää merkistökoodausta.)">
 
 <!ENTITY composingMessages.caption       "Viestien kirjoitus">
 <!ENTITY useMIME.label                   "Käytä 'quoted printable' -MIME-koodausta viesteissä, jotka sisältävät 8-bittisiä merkkejä. Viestit lähetetään sellaisenaan, jos tätä ei ole valittu.">
