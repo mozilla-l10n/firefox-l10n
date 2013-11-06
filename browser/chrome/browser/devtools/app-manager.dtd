@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instali version de la imitilo per elŝuto de la koncerna aldonaĵo.">
 <!ENTITY connection.installAnotherSimulator "Aldoni">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instali aldonan version de la imitilo per elŝuto de la koncerna aldonaĵo.">
+<!ENTITY connection.startRegisteredSimulator "Startigi:">
 
 <!ENTITY projects.localApps "Lokaj programoj">
 <!ENTITY projects.addApp "Aldoni">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Malfermi la ilojn por disvolvantoj, konektitaj al tiu ĉi programo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Neniu projekto. Aldonu novan pakitan programon malsupre (loka dosierujo) aŭ gastigitan programon (ligilon al la manifesta dosiero).">
+<!ENTITY projects.manifestEditor "Redaktilo de manifesto">
+<!ENTITY projects.manifestEditorTooltip "Redaktu la manifeston de via programo en la malsupra panelo. La butono Ĝisdatigi konservos viajn ŝanĝojn kaj ĝisdatigos la programon.">
+<!ENTITY projects.manifestViewer "Montrilo de manifesto">
+<!ENTITY projects.manifestViewerTooltip "Espolru la manifeston de via programo en la malsupra panelo.">
 
 <!ENTITY help.title "Administranto de programoj">
 <!ENTITY help.close "Fermi">
