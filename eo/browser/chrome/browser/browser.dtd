@@ -246,10 +246,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 <!ENTITY chromeDebuggerMenu.label       "Sencimigilo de retesplorilo">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
 <!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
 <!ENTITY devToolbarMenu.accesskey          "p">
+<!ENTITY devAppMgrMenu.label               "Administrado de programoj">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Montri/kaŝi ilojn">
@@ -603,6 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.permissions "Permesoj">
 
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!ENTITY identity.help.tooltip "Kiel mi povas scii ĉu mia konekto al retejo estas sekura?">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Langetoj de retesplorilo">
@@ -643,9 +651,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!-- labels are set dynamically, see browser.properties -->
-<!ENTITY social.markpage.accesskey "p">
-<!ENTITY social.marklink.accesskey "l">
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Sendi la paĝon al…">
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Sendi la ligilon al…">
 
 <!ENTITY getUserMedia.selectCamera.label "Dividota filmilo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
@@ -667,6 +676,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Permesi nun">
 <!ENTITY pluginActivateAlways.label "Permesi kaj memori">
 <!ENTITY pluginBlockNow.label "Bloki kromprogramon">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
+<!ENTITY tabCrashed.header "Paneo de langeto">
+<!ENTITY tabCrashed.message "Nu, tio estas hontiga. Ni klopodis montri tiun retpaĝon, sed ĝi ne reagas.">
+<!ENTITY tabCrashed.checkSendReport "Raporti al &vendorShortName; pri tiu ĉi paneo, tiel ke ili povos fari ion por eviti ĝin.">
+<!ENTITY tabCrashed.tryAgain "Klopodi denove">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
