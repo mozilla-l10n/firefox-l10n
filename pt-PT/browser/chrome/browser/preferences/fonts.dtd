@@ -6,21 +6,26 @@
 <!ENTITY window.width                   "49em">
 <!ENTITY window.macWidth                "46em">
 <!ENTITY window.unixWidth               "44em">
+
 <!ENTITY language.label                 "Tipos de letra para:">
 <!ENTITY language.accesskey             "T">
+
 <!ENTITY size.label                     "Tamanho:">
-<!ENTITY  sizeProportional.accesskey    "m">
-<!ENTITY  sizeMonospace.accesskey       "h">
+<!ENTITY sizeProportional.accesskey     "m">
+<!ENTITY sizeMonospace.accesskey        "h">
+
 <!ENTITY proportional.label             "Proporcional:">
 <!ENTITY proportional.accesskey         "P">
+
 <!ENTITY serif.label                    "Serifada:">
 <!ENTITY serif.accesskey                "S">
 <!ENTITY sans-serif.label               "Não serifada:">
 <!ENTITY sans-serif.accesskey           "n">
 <!ENTITY monospace.label                "Monoespaçada:">
 <!ENTITY monospace.accesskey            "o">
+
 <!ENTITY font.langGroup.latin1          "Ocidental">
-<!ENTITY font.langGroup.latin2          "Centro Europeu">
+<!ENTITY font.langGroup.latin2          "Europa Central">
 <!ENTITY font.langGroup.japanese        "Japonês">
 <!ENTITY font.langGroup.trad-chinese    "Mandarim tradicional (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese   "Mandarim simplificado">
@@ -39,7 +44,7 @@
 <!ENTITY font.langGroup.tamil           "Tamil">
 <!ENTITY font.langGroup.armenian        "Arménio">
 <!ENTITY font.langGroup.bengali         "Bengali">
-<!ENTITY font.langGroup.canadian        "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.canadian        "Sílabas Unificadas Canadianas">
 <!ENTITY font.langGroup.ethiopic        "Etiópio">
 <!ENTITY font.langGroup.georgian        "Georgiano">
 <!ENTITY font.langGroup.gujarati        "Gujarati">
@@ -51,7 +56,6 @@
 <!ENTITY  font.langGroup.kannada        "Kannada">
 <!ENTITY  font.langGroup.sinhala        "Sinhala">
 <!ENTITY  font.langGroup.tibetan        "Tibetano">
-
 <!-- Minimum font size -->
 <!ENTITY minSize.label                  "Tamanho mínimo:">
 <!ENTITY minSize.accesskey              "i">
@@ -60,9 +64,48 @@
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label                "Serifada">
 <!ENTITY useDefaultFontSansSerif.label            "Não serifada">
+
 <!ENTITY allowPagesToUse.label                    "Permitir que as páginas escolham o seu tipo de letra em vez das escolhas acima.">
 <!ENTITY allowPagesToUse.accesskey                "r">
+
 <!ENTITY languages.customize.Fallback.grouplabel  "Codificação de caracteres para conteúdo antigo">
 <!ENTITY languages.customize.Fallback.label       "Codificação de caracteres de recurso:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "Esta codificação de caracteres é utilizada para conteúdo antigo e que não declara a sua codificação.">
+
+<!ENTITY languages.customize.Fallback.auto        "Pré-definição da língua atual">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "Árabe">
+<!ENTITY languages.customize.Fallback.baltic      "Báltico">
+<!ENTITY languages.customize.Fallback.ceiso       "Europa Central, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Europa Central, Microsoft">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Mandarim, simplificado">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "Mandarim, tradicional">
+<!ENTITY languages.customize.Fallback.cyrillic    "Cirílico">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Grego">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Hebraico">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Japonês">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Coreano">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tailandês">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turco">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamita">
+<!ENTITY languages.customize.Fallback.other       "Outro (incl. Europa Ocidental)">
