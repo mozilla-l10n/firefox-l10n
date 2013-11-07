@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opciones">
-<!ENTITY optionsHeader.startup.title                             "Inicio">
-<!ENTITY optionsHeader.homepage.title                            "Al iniciar &brandShortName;, mostrar">
-<!ENTITY optionsHeader.homepage.startPage.button                 "página de inicio">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "pestañas de la última vez">
 <!ENTITY optionsHeader.char.title                                "Codificación de caracteres">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
 <!ENTITY optionsHeader.char.options.label                        "Mostrar opciones de codificación en la barra de aplicaciones">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
 <!ENTITY doNotTrack.title                                        "No rastrear">
-<!ENTITY doNotTrack.desc                                         "Decirle a los sitios:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "No quiero ser rastreado">
-<!ENTITY doNotTrack.options.noPreference                         "Nothing about my tracking preferences">
-<!ENTITY doNotTrack.options.trackingOkay                         "Quiero ser rastreado">
+<!ENTITY doNotTrack.options.doNotTrack                           "Decirle a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.options.doTrack                              "Decirle a los sitios web que quiero ser rastreado">
+<!ENTITY doNotTrack.options.default                              "No decirle a los sitios web acerca de mis preferencias de rastreo">
+<!ENTITY doNotTrack.learnMoreLink                                "Conocer más&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
