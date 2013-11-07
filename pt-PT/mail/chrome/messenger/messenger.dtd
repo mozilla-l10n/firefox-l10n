@@ -565,6 +565,17 @@
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reencaminhar como anexo">
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto desta mensagem">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY remoteContentOptionAllowForAddress.label "Mostrar conteúdo remoto deste remetente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorar aviso para esta mensagem">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Desativar deteção de fraudes para todas as mensagens">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
@@ -787,27 +798,6 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Som">
 <!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "O &brandShortName; acha que mensagem é lixo eletrónico.">
-<!ENTITY junkBarButton1.label "Não é lixo">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Para proteger a sua privacidade, o &brandShortName; bloqueou o conteúdo remoto nesta mensagem.">
-<!ENTITY loadRemoteContentButton3.label "Mostrar conteúdo">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Esta mensagem pode ser uma fraude.">
-<!ENTITY removePhishingBarButton1.label "Ignorar aviso">
-<!ENTITY disablePhishingWarning1.label "Desativar deteção de fraudes em todas as mensagens">
-<!ENTITY reportPhishingError1.label "Esta mensagem não parece ser fraude.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Enviar recibo de leitura">
-<!ENTITY mdnBarSendButton2.accesskey "b">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
