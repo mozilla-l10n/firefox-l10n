@@ -6,37 +6,34 @@
 <!-- see sync.dtd -->
 
 <!-- ## Options Flyout Panel ## -->
-<!ENTITY optionsHeader.title                                     "Options">
-<!ENTITY optionsHeader.startup.title                             "Startup">
-<!ENTITY optionsHeader.homepage.title                            "When &brandShortName; starts, show">
-<!ENTITY optionsHeader.homepage.startPage.button                 "start page">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "tabs from last time">
-<!ENTITY optionsHeader.char.title                                "Character Encoding">
-<!ENTITY optionsHeader.char.autodetect.label                     "Auto-detect">
-<!ENTITY optionsHeader.char.options.label                        "Show encoding options on the App Bar">
+<!ENTITY optionsHeader.title                                     "Elektebloj">
+<!ENTITY optionsHeader.char.title                                "Signa enkodigo">
+<!ENTITY optionsHeader.char.autodetect.label                     "Aŭtomate eltrovi">
+<!ENTITY optionsHeader.char.options.label                        "Montri signan enkodigon en la strio de programoj">
 
-<!ENTITY clearPrivateData.title                                  "Clear Private Data">
-<!ENTITY clearPrivateData.label                                  "Clear your browsing history, passwords, cookies, and form data on this device">
-<!ENTITY clearPrivateData.button                                 "Clear">
-<!ENTITY clearPrivateData.done                                   "Done!">
-<!ENTITY clearPrivateData.history                                "Browsing history">
-<!ENTITY clearPrivateData.otherdata                              "Other data (passwords, cache, cookies, etc)">
-<!ENTITY clearPrivateData.downloadHist                           "Download history">
-<!ENTITY clearPrivateData.cookies                                "Cookies">
-<!ENTITY clearPrivateData.cache                                  "Cache">
-<!ENTITY clearPrivateData.sitePref                               "Site preferences">
-<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; search history">
-<!ENTITY clearPrivateData.passwords                              "Saved passwords">
-<!ENTITY clearPrivateData.offline                                "Offline website data">
-<!ENTITY clearPrivateData.logins                                 "Active logins">
+<!ENTITY clearPrivateData.title                                  "Viŝi privatajn datumojn">
+<!ENTITY clearPrivateData.label                                  "Viŝi vian historion de retesplorado, pasvortojn, kuketojn kaj formularajn datumojn en tiu ĉi aparato">
+<!ENTITY clearPrivateData.button                                 "Viŝi">
+<!ENTITY clearPrivateData.done                                   "Farita!">
+<!ENTITY clearPrivateData.history                                "Historio de retesplorado">
+<!ENTITY clearPrivateData.otherdata                              "Aliaj datumoj (pasvortoj, staplo, kuketoj, ktp)">
+<!ENTITY clearPrivateData.downloadHist                           "Elŝuti historion">
+<!ENTITY clearPrivateData.cookies                                "Kuketoj">
+<!ENTITY clearPrivateData.cache                                  "Staplo">
+<!ENTITY clearPrivateData.sitePref                               "Preferoj de retejo">
+<!ENTITY clearPrivateData.formSearchHist                         "Historio de formularoj kaj serĉado">
+<!ENTITY clearPrivateData.passwords                              "Konservitaj pasvortoj">
+<!ENTITY clearPrivateData.offline                                "Datumoj de retejo por uzi malkonektite">
+<!ENTITY clearPrivateData.logins                                 "Aktivaj ensalutoj">
 
-<!ENTITY optionsHeader.privacy.passwords.label                   "Remember Passwords">
-<!ENTITY doNotTrack.title                                        "Do Not Track">
-<!ENTITY doNotTrack.desc                                         "Tell sites:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "I do not want to be tracked">
-<!ENTITY doNotTrack.options.noPreference                         "Nothing about my tracking preferences">
-<!ENTITY doNotTrack.options.trackingOkay                         "I want to be tracked">
-<!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
-<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
-<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
+<!ENTITY optionsHeader.privacy.passwords.label                   "Memori pasvortojn">
+<!ENTITY doNotTrack.title                                        "Ne spuri">
+<!ENTITY doNotTrack.options.doNotTrack                           "Diri al retejoj ke mi ne volas esti spurita">
+<!ENTITY doNotTrack.options.doTrack                              "Diri al retejoj ke mi volas esti spurita">
+<!ENTITY doNotTrack.options.default                              "Diri al retejoj nenion pri miaj preferoj de spurado">
+<!ENTITY doNotTrack.learnMoreLink                                "Pli da informo&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Raportado pri paneoj">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sendas raportojn pri paneoj por helpi Mozillan igi vian retesplorilon pli stabila kaj sekura">
+<!ENTITY optionsHeader.telemetry.title                            "Telemezuro">
+<!ENTITY optionsHeader.telemetry.label                            "Tio dividas kun Mozilla statistikojn pri uzo de &brandShortName; por helpi nin plibonigi vian retesplorilon">

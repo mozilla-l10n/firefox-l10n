@@ -5,7 +5,6 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 <!ENTITY urlbar.emptytext      "Tajpu adreson aŭ ion por serĉi">
-<!ENTITY urlbar.accesskey      "d">
 
 <!ENTITY back.label            "Malantaŭen">
 <!ENTITY forward.label         "Antaŭen">
@@ -13,12 +12,13 @@
 <!ENTITY closetab.label        "Fermi langeton">
 
 <!ENTITY autocompleteResultsHeader.label  "Viaj rezultoj">
-<!ENTITY autocompleteSearchesHeader.label "Internet Searches">
 
 <!ENTITY appbarErrorConsole.label   "Malfermi konzolon de eraroj">
 <!ENTITY appbarJSShell.label        "Malfermi ordonlinion de JavaScript">
 <!ENTITY appbarFindInPage2.label    "Serĉi en paĝo">
 <!ENTITY appbarViewOnDesktop2.label "Vidi en labortablo">
+<!ENTITY appbarMSMetaData2.label    "Ricevi programon por tiu ĉi retejo">
+<!ENTITY appbarViewPageSource.label "Vidi fonton de paĝo">
 
 <!ENTITY topSitesHeader.label        "La plej vizititaj retejoj">
 <!ENTITY bookmarksHeader.label       "Legosignoj">
@@ -89,3 +89,23 @@
 <!ENTITY contextSaveVideoLib.label         "Konservi en la biblioteko de filmetoj">
 <!ENTITY contextCopyVideoLocation.label    "Kopii adreson de filmeto">
 <!ENTITY contextOpenVideoTab.label         "Malfermi filmeton en nova langeto">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
