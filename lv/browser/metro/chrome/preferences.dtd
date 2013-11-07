@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Iestatījumi">
-<!ENTITY optionsHeader.startup.title                             "Palaišana">
-<!ENTITY optionsHeader.homepage.title                            "Palaižot &brandShortName; rādīt">
-<!ENTITY optionsHeader.homepage.startPage.button                 "sākuma lapu">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "cilnes no iepriekšējās reizes">
 <!ENTITY optionsHeader.char.title                                "Simbolu kodējums">
 <!ENTITY optionsHeader.char.autodetect.label                     "Noteikt automātiski">
 <!ENTITY optionsHeader.char.options.label                        "Rādīt kodējuma iestatījumus aplikācijas joslā">
@@ -31,13 +27,15 @@
 <!ENTITY clearPrivateData.logins                                 "Aktīvos pieslēgumus">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Atcerēties paroles">
-<!ENTITY doNotTrack.title                                        "Lūdzu nizspiegot mani">
-<!ENTITY doNotTrack.desc                                         "Teikt lapām:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Es negribu, lai mani izseko">
-<!ENTITY doNotTrack.options.noPreference                         "Neko par maniem izsekošanas iestatījumiem">
-<!ENTITY doNotTrack.options.trackingOkay                         "Es gribu, lai mani izseko">
+<!ENTITY doNotTrack.title                                        "Lūdzu neizspiegot mani">
 <!ENTITY optionsHeader.reporting.title                           "Avārijas ziņojumi">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sūtīt avārijas ziņojumus, lai palīdzētu Mozilla padarīt jūsu pārlūku stabilāku un drošāku">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
 <!ENTITY optionsHeader.telemetry.label                            "Dalīties ar  &brandShortName; izmantošanas statistiku, lai Mozilla varētu padarīt jūsu pārlūku vēl labāku">
+
+
+<!ENTITY doNotTrack.options.doNotTrack                           "Teikt lapām, ka es negribu, lai mani izseko">
+<!ENTITY doNotTrack.options.doTrack                              "Teikt lapām, ka es gribu, lai mani izseko">
+<!ENTITY doNotTrack.options.default                              "Neteikt lapām neko par maniem izsekošanas iestatījumiem">
+<!ENTITY doNotTrack.learnMoreLink                                "Uzzināt vairāk&#x2026;">
 
