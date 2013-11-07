@@ -275,6 +275,7 @@ size. -->
 <!ENTITY home_top_sites_add "Agregar un sitio">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Los marcadores que guardés van a aparecer acá.">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
 <!ENTITY home_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes aparecen acá.">
