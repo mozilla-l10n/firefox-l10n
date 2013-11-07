@@ -521,3 +521,6 @@
 <!ENTITY devToolsCmd.keycode "VK_F12">
 <!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolboxMenuItem.keycode "I">
+<!ENTITY tabCrashed.tryAgain "Reintentar">
+<!ENTITY tabCrashed.message "Esto da vergoña.. tamos intentando amosar esta páxina web, pero nun ta respondiendo.">
+<!ENTITY tabCrashed.header "La llingüeta tuvo un fallu">
