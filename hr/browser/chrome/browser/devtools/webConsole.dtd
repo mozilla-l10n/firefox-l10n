@@ -68,15 +68,16 @@
 
 <!ENTITY btnPageLogging.label   "Zapisivanje">
 <!ENTITY btnPageLogging.tooltip "Zapisuj poruke poslane na window.console objekt">
-<!ENTITY btnPageLogging.accesskey2 "R">
+
 <!ENTITY btnConsoleErrors       "Greške">
 <!ENTITY btnConsoleInfo         "Informacije">
 <!ENTITY btnConsoleWarnings     "Upozorenja">
 <!ENTITY btnConsoleLog          "Zapisnik">
 
 <!ENTITY filterOutput.placeholder "Rezultati filtra">
-<!ENTITY btnClear.label        "Očisti">
+
 <!ENTITY btnClear.tooltip      "Očisti sadržaj Web konzole">
+
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -94,5 +95,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
-<!ENTITY clearOutputCtrl.key  "L">
+
