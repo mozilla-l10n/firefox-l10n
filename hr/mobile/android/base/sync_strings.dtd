@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!-- Main titles. -->
+
+
+
+<!-- J-PAKE Key Screen -->
+
+
+
+
+
+
+
+
+<!-- J-PAKE Waiting Screen -->
+<!-- Account Login Screen -->
+
+
+
+
+
+<!-- Setup Fail -->
+
+
+
+
+
+
+<!-- Setup Success -->
+
+
+
+<!-- Pair Device -->
+
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!-- Configure Engines -->
+
+
+
+
+
+<!-- Common text -->
+
+
+<!-- Account strings -->
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.places.label ''>
+
+
+
+
+
+
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!-- Notification strings -->
+
+<!-- Incorrect settings and changing credentials. -->
+
+
+
+<!-- Send tab to device. -->
+
+
+
+
+
+
