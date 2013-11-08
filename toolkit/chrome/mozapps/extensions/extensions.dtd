@@ -42,7 +42,7 @@
 <!ENTITY view.availableUpdates.label          "De metre a jorn">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Recèrca de las mesas a jorn">
+<!ENTITY updates.checkForUpdates.label        "Recercar de mesas a jorn">
 <!ENTITY updates.checkForUpdates.accesskey    "R">
 <!ENTITY updates.viewUpdates.label            "Afichar las mesas a jorn recentas">
 <!ENTITY updates.viewUpdates.accesskey        "A">
@@ -135,9 +135,9 @@ certans dels melhors moduls complementaris e tanben los mai populars.">
 
 <!ENTITY detail.updateType                    "Mesas a jorn automaticas">
 <!ENTITY detail.updateDefault.label           "Per defaut">
-<!ENTITY detail.updateDefault.tooltip         "Installa pas las mesas a jorn automaticament que se s'agís del reglatge per defaut">
+<!ENTITY detail.updateDefault.tooltip         "Installar pas las mesas a jorn automaticament que se s'agís del reglatge per defaut">
 <!ENTITY detail.updateAutomatic.label         "Activadas">
-<!ENTITY detail.updateAutomatic.tooltip       "Installa automaticament las mesas a jorn">
+<!ENTITY detail.updateAutomatic.tooltip       "Installar automaticament las mesas a jorn">
 <!ENTITY detail.updateManual.label            "Desactivadas">
 <!ENTITY detail.updateManual.tooltip          "Installa pas automaticament las mesas a jorn">
 <!ENTITY detail.home                          "Pagina d'acuèlh">

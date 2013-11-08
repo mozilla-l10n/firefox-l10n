@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Occitan
+#define MOZ_LANG_TITLE Occitan (lengadocian)

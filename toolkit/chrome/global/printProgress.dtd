@@ -7,7 +7,7 @@
 <!ENTITY title    "Títol :"> 
 <!ENTITY progress "Progression :">
 <!ENTITY preparing "Preparacion…">
-<!ENTITY printComplete "L'estampatge es acabat.">
+<!ENTITY printComplete "L'impression es acabada.">
 
 <!ENTITY dialogCancel.label "Anullar"> 
 <!ENTITY dialogClose.label "Tampar">

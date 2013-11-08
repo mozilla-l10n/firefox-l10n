@@ -38,12 +38,12 @@
      that's 21 characters, so we set the minimum width to 21ch.
      -->
 
-<!ENTITY downloadsSummary.minWidth2       "27ch">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Tornar prene">
-<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.resume.label                 "Reprene">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Anullar">
 <!ENTITY cmd.cancel.accesskey             "A">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,

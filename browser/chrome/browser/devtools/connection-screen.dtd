@@ -16,12 +16,12 @@
 <!ENTITY availableTabs "Onglets distants disponibles :">
 <!ENTITY availableProcesses "Processus distants disponibles :">
 <!ENTITY connectionError "Error :">
-<!ENTITY errorTimeout "Error : relambi d'espèra de la connexion depassat.">
+<!ENTITY errorTimeout "Error :">
 <!ENTITY errorRefused "Error : connexion refusada.">
-<!ENTITY errorUnexpected "Error inesperada .">
+<!ENTITY errorUnexpected "Error : connexion refusada.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-
+<!ENTITY remoteDocumentation "documentacion">
+<!ENTITY remoteHelpSuffix ".">
 

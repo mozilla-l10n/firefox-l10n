@@ -33,6 +33,6 @@
 
 
 <!ENTITY optionsHeader.reporting.title                           "Raportador de plantatge">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">
 

@@ -39,11 +39,11 @@
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit     "Afichar las astúcias a l'aviada">
+<!ENTITY debuggerUI.showPanesOnInit     "Panèls desvolopats a l'aviada">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
@@ -117,6 +117,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
   -  appears in the debugger's instruments pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.variables      "Variablas">
+<!ENTITY debuggerUI.tabs.events         "Eveniments">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
@@ -125,7 +127,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "Apondre una expression espiona">
+<!ENTITY debuggerUI.addWatch            "E">
 <!ENTITY debuggerUI.addWatch.key        "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->

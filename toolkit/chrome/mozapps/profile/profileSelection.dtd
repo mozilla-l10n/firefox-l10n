@@ -10,7 +10,7 @@
 <!ENTITY            profilename.label      "Nom del perfil :">
 
 <!ENTITY            start.label            "Aviar &brandShortName;">
-<!ENTITY            exit.label             "Sortir">
+<!ENTITY            exit.label             "Quitar">
 
 <!ENTITY            availprofiles.label    "Perfils disponibles">
 

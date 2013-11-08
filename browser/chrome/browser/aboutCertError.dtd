@@ -15,20 +15,18 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Avètz demandat a &brandShortName; de se 
-connectar d'un biais segur a <b>#1</b> mas vos podèm pas confirmar que  vòstra connexion es segura.">
+<!ENTITY certerror.introPara1 "Avètz demandat a &brandShortName; de se connectar d'un biais segur a <b>#1</b> mas vos podèm pas confirmar que  vòstra connexion es segura.">
 <!ENTITY certerror.introPara2 "Normalament, quand ensajatz de vos 
 connectar d'un biais segur a de sites vos presentaràn una identificacion 
 segura per provar qu'anatz anar al bon endrech. Ça que la, l'identitat  d'aqueste site se pòt pas verificar.">
 
-<!ENTITY certerror.whatShouldIDo.heading "De qué me cal far ?">
+<!ENTITY certerror.whatShouldIDo.heading "Normalament, quand ensajatz de vos connectar d'un biais segur a de sites vos presentaràn una identificacion segura per provar qu'anatz anar al bon endrech. Çaquelà, l'identitat  d'aqueste site se pòt pas verificar.">
 <!ENTITY certerror.whatShouldIDo.content "Se de costuma, vos connectatz a aqueste site sens problèma, aquesta error pòt voler dire que qualqu'un ensaja de s'apropriar lo site e que deuriatz pas contunhar.">
 <!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d'aicí !">
 
 <!ENTITY certerror.expert.heading "Ai compreses los risques">
-<!ENTITY certerror.expert.content "S'avètz comprés çò que se passa, podètz indicar a &brandShortName; de començar a se fisar de l'identificacion  del site. <b>Quitament se vos fisatz del site, aquesta error pòt voler dire que qualqu'un es a jogar amb vòstra connexion.</b>">
-<!ENTITY certerror.expert.contentPara2 "Apondatz pas d'exception, levat 
-se sabètz que i a una bona rason per qu'aqueste sit utilize pas d'identificacion segura.">
+<!ENTITY certerror.expert.content "S'avètz comprés çò que se passa, podètz indicar a &brandShortName; de començar a se fisar de l'identificacion del site. <b>Quitament se vos fisatz del site, aquesta error pòt voler dire que qualqu'un es a jogar amb vòstra connexion.</b>">
+<!ENTITY certerror.expert.contentPara2 "Apondatz pas d'exception, levat se sabètz que i a una bona rason per qu'aqueste sit utilize pas d'identificacion segura.">
 <!ENTITY certerror.addException.label "Apondre una excepcion…">
 
 <!ENTITY certerror.technical.heading "Detalhs tecnics">

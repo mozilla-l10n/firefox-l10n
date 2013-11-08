@@ -4,7 +4,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printJobOptions.title "Proprietats de l'estampaira">
+<!ENTITY printJobOptions.title "Proprietats de l'imprimenta">
 
 <!ENTITY paperInput.label "Talha del papièr :">
 <!ENTITY paperInput.accesskey "T">
@@ -15,8 +15,8 @@
 <!ENTITY resolutionInput.label "Resolucion/qualitat :">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Comanda d'estampatge :">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.label "Comanda d'impression :">
+<!ENTITY cmdInput.accesskey "C">
 
 <!ENTITY jobTitleInput.label "Títol del document :">
 <!ENTITY jobTitleInput.accesskey "c">
@@ -31,7 +31,7 @@
 <!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Poliças :">
-<!ENTITY downloadFonts.label "Telecargar las poliças cap a l'estampaira ?">
+<!ENTITY downloadFonts.label "Telecargar las poliças cap a l'imprimenta ?">
 <!ENTITY downloadFonts.accesskey "T">
 
 <!ENTITY edgeMarginInput.label "Espaci entre lo bòrd del papièr e los marges">

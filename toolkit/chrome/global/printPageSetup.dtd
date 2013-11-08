@@ -32,7 +32,7 @@
 
 <!ENTITY marginGroup.label   "Marges (#1)">
 <!ENTITY marginUnits.inches  "poces">
-<!ENTITY marginUnits.metric  "milimètres">
+<!ENTITY marginUnits.metric  "millimètres">
 <!ENTITY marginTop.label     "Naut :">
 <!ENTITY marginTop.accesskey "N">
 <!ENTITY marginBottom.label  "Bas :">

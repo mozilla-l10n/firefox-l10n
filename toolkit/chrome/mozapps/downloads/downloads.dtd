@@ -15,13 +15,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Tornar prene">
-<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.resume.label                 "Reprene">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Anullar">
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.show.label                   "Dobrir lo repertòri que conten lo fichièr">
 <!ENTITY cmd.show.accesskey               "f">
-<!ENTITY cmd.showMac.label                "Afichar dins lo Folder">
+<!ENTITY cmd.showMac.label                "Afichar dins lo Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Dobrir">
 <!ENTITY cmd.open.accesskey               "D">
@@ -48,5 +48,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Tampar quand los telescargaments son acabats">
 <!ENTITY closeWhenDone.tooltip            "Tampa la fenèstra dels telecargaments quand totes los fichièrs son completament telecargats">
 
-<!ENTITY showFolder.label                 "Visualizar aqueste repertòri">
+<!ENTITY showFolder.label                 "Afichar aqueste repertòri">
 <!ENTITY searchBox.label                  "Recercar...">

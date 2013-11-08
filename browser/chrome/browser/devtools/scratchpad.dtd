@@ -33,8 +33,8 @@
 <!ENTITY openFileCmd.accesskey        "o">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Dobert(s) Recentament">
-<!ENTITY openRecentMenu.accesskey     "R">
+<!ENTITY openRecentMenu.label         "Fichièrs recents">
+<!ENTITY openRecentMenu.accesskey     "r">
 
 <!ENTITY revertCmd.label              "Tornar al darrièr enregistrament…">
 <!ENTITY revertCmd.accesskey          "d">
@@ -65,7 +65,7 @@
 <!ENTITY display.accesskey            "A">
 <!ENTITY display.key                  "l">
 
-
+<!ENTITY pprint.key                   "p">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)

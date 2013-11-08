@@ -21,7 +21,7 @@
 
 <!ENTITY device.allow "Autorizar">
 
-<!ENTITY device.prompt "Convit">
+<!ENTITY device.prompt "Convidar">
 
 <!ENTITY device.deny "Interdire">
 
@@ -50,12 +50,12 @@
 
 
 <!ENTITY connection.or "o">
-
+<!ENTITY connection.noSimulatorInstalled "o">
 
 
 <!ENTITY connection.installAnotherSimulator "Apondre">
 
-
+<!ENTITY connection.startRegisteredSimulator "Aviar :">
 
 <!ENTITY projects.addApp "Apondre">
 

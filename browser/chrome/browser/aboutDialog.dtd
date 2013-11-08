@@ -62,7 +62,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Mesas a jorn disponiblas a">
+<!ENTITY update.manual.start        "Mesas a jorn disponiblas a ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -78,7 +78,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Telecargament de mesa a jorn—  ">
+<!ENTITY update.downloading.start   "Telecargament de mesa a jorn — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicacion de la mesa a jorn…">
@@ -87,4 +87,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Actualament, utilizatz lo canal de mesa a jorn ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.end    " per metre a jorn. ">

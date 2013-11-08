@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "Servici de recèrca de moduls complementaris">
-<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; - Planvenguda">
+<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; - Benvenguda">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; recèrca los moduls complementaris disponibles…">
 
@@ -13,7 +13,7 @@
 
 <!ENTITY pluginWizard.licensePage.title                      "Licéncias dels moduls complementaris">
 <!ENTITY pluginWizard.licensePage.accept.label               "Soi d'acòrdi">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Soi pas d'acòrdi  (lo modul complementari serà pas installat).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Soi pas d'acòrdi (lo modul complementari serà pas installat).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Installacion dels moduls complementaris">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "De moduls complementaris son en cors d'installacion per &brandShortName;…">
@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; a acabat d'installar los moduls complementaris mancants :">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Ne saber mai suls moduls complementaris o recercar manualament los moduls complementaris mancants.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; deu èsser aviat tornamai per que lo(s) modul complementari(s) foncione(n).">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; deu èsser reaviat per que lo(s) modul(s) complementari(s) foncione(n).">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
