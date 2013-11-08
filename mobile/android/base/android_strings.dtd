@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "حرِّر">
 <!ENTITY contextmenu_subscribe "اشترك بهذه الصفحة">
 <!ENTITY contextmenu_site_settings "حرر إعدادات الموقع">
-<!ENTITY contextmenu_top_bookmarks_edit "حرِّر">
-<!ENTITY contextmenu_top_bookmarks_pin "ثبّت الموقع">
-<!ENTITY contextmenu_top_bookmarks_unpin "افصل الموقع">
+<!ENTITY contextmenu_top_sites_edit "حرِّر">
+<!ENTITY contextmenu_top_sites_pin "ثبّت الموقع">
+<!ENTITY contextmenu_top_sites_unpin "افصل الموقع">
 
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "أزِيلت الصفحة">
 
-<!ENTITY bookmark_add "أضِف علامة">
 <!ENTITY bookmark_edit_title "حرّر العلامة">
 <!ENTITY bookmark_edit_name "الاسم">
 <!ENTITY bookmark_edit_location "المكان">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 
 <!ENTITY home_history_title "التأريخ">
+<!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
 <!ENTITY home_last_tabs_title "الألسنة من المرة السابقة">
 <!ENTITY home_last_tabs_open "افتح كل الألسنة من المرة السابقة">
 <!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
 <!ENTITY home_most_recent_title "الأحدث">
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
-<!ENTITY home_most_visited_title "الأكثر زيارة">
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على زر وضع القارئ عندما يظهر في شريط العنوان.">
 
-<!ENTITY home_most_visited_empty "أكثر المواقع زيارة تظهر هنا.">
-<!ENTITY pin_bookmark_dialog_hint "أدخل كلمة للبحث">
+<!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">
 
 <!ENTITY filepicker_title "اختر ملفًا">
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">

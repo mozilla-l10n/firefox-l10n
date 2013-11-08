@@ -4,12 +4,7 @@
 
 <!ENTITY aboutApps.title2                          "التطبيقات">
 <!ENTITY aboutApps.header                          "تطبيقاتك">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
-<!ENTITY aboutApps.noApps.pre "لم تثبت أي تطبيقات وب. احصل عليها من">
-<!ENTITY aboutApps.noApps.middle3 "متجر فَيرفُكس">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "تصفح متجر فيَرفُكس">
 <!ENTITY aboutApps.uninstall "أزِل">
 <!ENTITY aboutApps.addToHomescreen "أضِف إلى شاشة البداية">
