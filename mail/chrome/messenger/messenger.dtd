@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-
 <!-- File Menu -->
+
 <!ENTITY newFolderCmd.label "Ffolder…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Cau'r Tab">
@@ -22,27 +22,27 @@
      -->
 <!ENTITY moveToNewWindow.label "Symud i Ffenestr Newydd">
 <!ENTITY moveToNewWindow.accesskey "S">
-<!ENTITY newVirtualFolderCmd.label "Chwilio a Gadwyd...">
+<!ENTITY newVirtualFolderCmd.label "Chwilio a Gadwyd…">
 <!ENTITY newVirtualFolderCmd.accesskey "w">
-<!ENTITY newOtherAccountsCmd.label "Cyfrifon Eraill..">
+<!ENTITY newOtherAccountsCmd.label "Cyfrifon Eraill…">
 <!ENTITY newOtherAccountsCmd.accesskey "y">
-<!ENTITY newCreateEmailAccountCmd.label "Estyn Cyfrif E-bost Newydd...">
+<!ENTITY newCreateEmailAccountCmd.label "Estyn Cyfrif E-bost Newydd…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "E">
-<!ENTITY newExistingEmailAccountCmd.label "Cyfrif E-bost Cyfredol...">
+<!ENTITY newExistingEmailAccountCmd.label "Cyfrif E-bost Cyfredol…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "C">
-<!ENTITY newIMAccountCmd.label "Cyfrif Sgwrsio...">
+<!ENTITY newIMAccountCmd.label "Cyfrif Sgwrsio…">
 <!ENTITY newIMAccountCmd.accesskey "S">
-<!ENTITY newIMContactCmd.label "Cysylltiad Sgwrsio...">
+<!ENTITY newFeedAccountCmd.label "Cyfrif Llif…">
+<!ENTITY newFeedAccountCmd.accesskey "y">
+<!ENTITY newIMContactCmd.label "Cysylltiad Sgwrsio…">
 <!ENTITY newIMContactCmd.accesskey "S">
-<!ENTITY openMessageFileCmd.label "Agor Neges Wedi'i Chadw...">
+<!ENTITY openMessageFileCmd.label "Agor Neges Wedi'i Chadw…">
 <!ENTITY openMessageFileCmd.accesskey "s">
-<!ENTITY openAttachmentCmd.label "Atodiadau">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Cadw Fel">
 <!ENTITY saveAsMenu.accesskey "C">
 <!ENTITY saveAsFileCmd.label "Ffeil">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsFileCmd.key "F">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Templed">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Estyn Negeseuon Newydd">
@@ -55,38 +55,38 @@
 <!ENTITY getNextNMsgCmd.accesskey "E">
 <!ENTITY sendUnsentCmd.label "Anfon Negeseuon heb eu Hanfon">
 <!ENTITY sendUnsentCmd.accesskey "H">
-<!ENTITY subscribeCmd.label "Tanysgrifio...">
+<!ENTITY subscribeCmd.label "Tanysgrifio…">
 <!ENTITY subscribeCmd.accesskey "T">
 <!ENTITY deleteFolder.label "Dileu Ffolder">
 <!ENTITY deleteFolder.accesskey "D">
-<!ENTITY renameFolder.label "Ailenwi ffolder...">
+<!ENTITY renameFolder.label "Ailenwi Ffolder…">
 <!ENTITY renameFolder.accesskey "F">
-<!ENTITY renameFolder.key "R">
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Cywasgu'r Ffolderi">
 <!ENTITY compactFolders.accesskey    "w">
 <!ENTITY emptyTrashCmd.label "Gwagio'r Sbwriel">
-<!ENTITY emptyTrashCmd.accesskey    "y">
+<!ENTITY emptyTrashCmd.accesskey    "w">
 <!ENTITY offlineMenu.label "All-lein">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Gweithio All-lein">
-<!ENTITY offlineGoOfflineCmd.accesskey "W">
-<!ENTITY synchronizeOfflineCmd.label "Llwytho i Lawr/Cydweddu Nawr...">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Llwytho i Lawr/Cydweddu Nawr…">
 <!ENTITY synchronizeOfflineCmd.accesskey "L">
-<!ENTITY settingsOfflineCmd.label "Gosodiadau All-lein...">
+<!ENTITY settingsOfflineCmd.label "Gosodiadau All-lein…">
 <!ENTITY settingsOfflineCmd.accesskey "G">
 <!ENTITY downloadSelectedCmd.label "Estyn y Negeseuon Hyn">
 <!ENTITY downloadSelectedCmd.accesskey "H">
 <!ENTITY downloadStarredCmd.label "Estyn Negeseuon Serennog">
 <!ENTITY downloadStarredCmd.accesskey "S">
-<!ENTITY printCmd.label "Argraffu...">
+<!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
 <!ENTITY printPreviewCmd.accesskey "R">
-<!ENTITY printSetupCmd.label "Gosodiad Tudalen...">
+<!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
 <!ENTITY printSetupCmd.accesskey "o">
-
 <!-- Edit Menu -->
+
 <!ENTITY deleteMsgCmd.label "Dileu Neges">
 <!ENTITY deleteMsgCmd.accesskey "N">
 <!ENTITY undeleteMsgCmd.label "Dad-ddileu Neges">
@@ -105,14 +105,14 @@
 <!ENTITY all.accesskey "P">
 <!ENTITY selectThreadCmd.label "Edefyn">
 <!ENTITY selectThreadCmd.accesskey "E">
-<!ENTITY selectThreadCmd.key "T">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Negeseuon Serennog">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY menuFavoriteFolder.accesskey "H">
-<!ENTITY folderPropsCmd.label "Priodweddau...">
-<!ENTITY folderPropsFolderCmd.label "Priodweddau Ffolder...">
-<!ENTITY folderPropsNewsgroupCmd.label "Priodweddau Grŵp Newyddion...">
+<!ENTITY folderPropsCmd.label "Priodweddau…">
+<!ENTITY folderPropsFolderCmd.label "Priodweddau Ffolder…">
+<!ENTITY folderPropsNewsgroupCmd.label "Priodweddau Grŵp Newyddion…">
 <!ENTITY folderPropsCmd.accesskey "P">
 <!ENTITY undoDeleteMsgCmd.label "Dadwneud Dileu Negeseuon">
 <!ENTITY redoDeleteMsgCmd.label "Ail-wneud Dileu Neges">
@@ -126,13 +126,13 @@
 <!ENTITY undoDefaultCmd.accesskey "u">
 <!ENTITY redoDefaultCmd.label "Ailwneud">
 <!ENTITY redoDefaultCmd.accesskey "A">
-
 <!-- View Menu -->
+
 <!ENTITY menubarCmd.label "Bar Dewislen">
 <!ENTITY menubarCmd.accesskey "D">
 <!ENTITY showMessengerToolbarCmd.label "Bar Offer E-bost">
 <!ENTITY showMessengerToolbarCmd.accesskey "O">
-<!ENTITY customizeToolbar.label "Cyfaddasu...">
+<!ENTITY customizeToolbar.label "Cyfaddasu…">
 <!ENTITY customizeToolbar.accesskey "C">
 
 <!ENTITY messagePaneLayoutStyle.label "Cynllun">
@@ -160,8 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Diweddar">
 <!ENTITY recentFolders.accesskey "D">
-
 <!-- Sort Menu -->
+
 <!ENTITY sortMenu.label "Trefnu yn ôl">
 <!ENTITY sortMenu.accesskey "T">
 <!ENTITY sortByDateCmd.label "Dyddiad">
@@ -252,43 +252,16 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Dangos Atodiadau Mewnlin">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "D">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Chwyddo i Mewn">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "M">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
-<!ENTITY fullZoomReduceCmd.accesskey    "A">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Ailosod">
-<!ENTITY fullZoomResetCmd.accesskey     "A">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Chwyddo'r Testun yn Unig">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Chwyddo">
-<!ENTITY fullZoom.accesskey             "h">
-
 <!ENTITY pageSourceCmd.label "Ffynhonnell y Neges">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-
 <!-- Search Menu -->
+
 <!ENTITY findMenu.label "Canfod">
 <!ENTITY findMenu.accesskey "f">
-<!ENTITY findCmd.label "Canfod yn y Neges...">
+<!ENTITY findCmd.label "Canfod yn y Neges…">
 <!ENTITY findCmd.accesskey "a">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Canfod Eto">
@@ -297,13 +270,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Chwilio Negeseuon...">
+<!ENTITY searchMailCmd.label "Chwilio Negeseuon…">
 <!ENTITY searchMailCmd.accesskey "N">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Chwilio Cyfeiriadau...">
+<!ENTITY searchAddressesCmd.label "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey "y">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Mynd">
 <!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "Nesaf">
@@ -317,7 +290,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextStarredMsgCmd.label "Neges Serenog">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Edafedd Heb eu Darllen">
-<!ENTITY nextUnreadThread.accesskey "d">
+<!ENTITY nextUnreadThread.accesskey "D">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Blaenorol">
 <!ENTITY prevMenu.accesskey "B">
@@ -335,7 +308,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sgwrsio">
 <!ENTITY goChatCmd.accesskey "g">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Neges Serennog">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Ffolder">
@@ -346,8 +319,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goRecentlyClosedTabs.accesskey "T">
 <!ENTITY startPageCmd.label "Tudalen Cychwyn E-bost">
 <!ENTITY startPageCmd.accesskey "T">
-
 <!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Neges">
 <!ENTITY msgMenu.accesskey "N">
 <!ENTITY newMsgCmd.label "Neges Newydd">
@@ -384,7 +357,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "Golygu Neges fel Newydd">
 <!ENTITY editMsgAsNewCmd.accesskey "G">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Creu Hidl o'r Neges...">
+<!ENTITY createFilter.label "Creu Hidl o'r Neges…">
 <!ENTITY createFilter.accesskey "H">
 <!ENTITY moveMsgToMenu.label "Symud i">
 <!ENTITY moveMsgToMenu.accesskey "S">
@@ -432,7 +405,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.label "Edefyn wedi'i Ddarllen">
 <!ENTITY markThreadAsReadCmd.accesskey "D">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Wedi Darllen yn ôl Dyddiad...">
+<!ENTITY markReadByDateCmd.label "Wedi Darllen yn ôl Dyddiad…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Popeth Wedi ei Ddarllen">
@@ -453,21 +426,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Agor mewn Trafodaeth">
-<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.accesskey "T">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Agor Neges Llif">
-<!ENTITY openFeedMessage.accesskey "L">
-<!ENTITY openFeedWebPageInWindow.label "Tudalen We mewn Ffenestr Newydd">
-<!ENTITY openFeedWebPageInWindow.accesskey "T">
-<!ENTITY openFeedSummaryInWindow.label "Crynodeb mewn Ffenestr Newydd">
-<!ENTITY openFeedSummaryInWindow.accesskey "C">
+<!ENTITY openAttachmentListCmd.label "Atodiadau">
+<!ENTITY openAttachmentListCmd.accesskey "t">
+<!ENTITY openFeedMessage1.label "Wrth Agor Negeseuon Llif">
+<!ENTITY openFeedMessage1.accesskey "L">
+<!ENTITY openFeedWebPage.label "Agor fel Tudalen Gwe">
+<!ENTITY openFeedWebPage.accesskey "G">
+<!ENTITY openFeedSummary.label "Agor fel Crynodeb">
+<!ENTITY openFeedSummary.accesskey "C">
 <!ENTITY openFeedWebPageInMP.label "Toglo Tudalen We a Chrynodeb mewn Paen Neges">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
-
 <!-- Windows Menu -->
-<!ENTITY windowMenu.label "Ffenestr">
 
+<!ENTITY windowMenu.label "Ffenestr">
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
@@ -482,15 +457,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imAccountsStatus.label "Statws sgwrsio">
 <!ENTITY imAccountsStatus.accesskey "t">
 <!ENTITY imStatus.available          "Ar Gael">
-<!ENTITY imStatus.unavailable        "Ddim Ar Gael">
+<!ENTITY imStatus.unavailable        "Ddim ar Gael">
 <!ENTITY imStatus.offline            "All-lein">
-<!ENTITY imStatus.showAccounts       "Dangos Cyfrifon...">
-<!ENTITY joinChatCmd.label "Ymuno â Sgwrsio...">
+<!ENTITY imStatus.showAccounts       "Dangos Cyfrifon…">
+<!ENTITY joinChatCmd.label "Ymuno â Sgwrsio…">
 <!ENTITY joinChatCmd.accesskey "Y">
 <!ENTITY savedFiles.label "Ffeiliau wedi'u Cadw">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Hidlau Negeseuon...">
+<!ENTITY filtersCmd.label "Hidlau Negeseuon…">
 <!ENTITY filtersCmd.accesskey "H">
 <!ENTITY filtersApply.label "Rhedeg Hidlau ar Ffolder">
 <!ENTITY filtersApply.accesskey "R">
@@ -502,21 +477,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.accesskey "R">
 <!ENTITY deleteJunk.label "Dileu E-bost wedi'i Nodi fel Sbam yn y Ffolder">
 <!ENTITY deleteJunk.accesskey "D">
-<!ENTITY importCmd.label "Mewnforio...">
-<!ENTITY importCmd.accesskey "m">
+<!ENTITY importCmd.label "Mewnforio…">
+<!ENTITY importCmd.accesskey "M">
 <!ENTITY errorConsoleCmd.label "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar...">
+<!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd.label "Gosodiadau Cyfrifon...">
+<!ENTITY accountManagerCmd.label "Gosodiadau Cyfrifon…">
 <!ENTITY accountManagerCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-
+<!ENTITY allowRemoteDebugging.label "Caniatáu Dadfygio Pell">
+<!ENTITY allowRemoteDebugging.accesskey "D">
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Estyn E-byst">
+
+<!ENTITY getMsgButton1.label "Estyn Negeseuon">
 <!ENTITY newMsgButton.label "Ysgrifennu">
 <!ENTITY replyButton.label "Ateb">
 <!ENTITY replyAllButton.label "Ateb Pob Un">
@@ -551,9 +528,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagButton.label "Tag">
 <!ENTITY compactButton.label "Cywasgu">
 <!ENTITY appmenuButton.label "AppMenu">
-
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Chwilio Neges Uwch">
+
+<!ENTITY advancedButton.tooltip "Chwilio neges uwch">
 <!ENTITY getMsgButton.tooltip "Estyn negeseuon newydd">
 <!ENTITY getAllNewMsgCmd.label "Estyn Pob Neges Newydd">
 <!ENTITY getAllNewMsgCmd.accesskey "E">
@@ -562,6 +539,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Ateb yr anfonwr a phob derbyniwr">
 <!ENTITY replyListButton.tooltip "Ateb i'r rhestr e-bost">
 <!ENTITY forwardButton.tooltip "Anfon y neges ymlaen">
+<!ENTITY forwardAsInline.tooltip "Anfon neges dewiswyd ymlaen fel testun mewnlin">
+<!ENTITY forwardAsAttachment.tooltip "Anfon neges dewiswyd ymlaen fel atodiad">
 <!ENTITY fileButton.tooltip "Ffeilio'r neges">
 <!ENTITY archiveButton.tooltip "Archifo'r negeseuon">
 <!ENTITY nextButton.tooltip "Symud i'r neges nesaf heb ei darllen">
@@ -581,33 +560,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Dangos y tab Sgwrsio">
 <!ENTITY tagButton.tooltip "Tagio negeseuon">
 <!ENTITY compactButton.tooltip "Tynnu negeseuon wedi'u dileu o'r ffolder">
-<!ENTITY appmenuButton.tooltip "Dangos Dewislen Rhaglen">
+<!ENTITY appmenuButton1.tooltip "Dangos Dewislen &brandShortName;">
+<!-- Toolbar Button Popup -->
 
+<!ENTITY buttonMenuForwardAsInline.label "Anfon Ymlaen fel Mewnlin">
+<!ENTITY buttonMenuForwardAsAttachment.label "Anfon Ymlaen fel Atodiad">
 <!-- AppMenu Popup -->
+
 <!ENTITY appmenuNewMsgCmd.label "Neges Newydd">
-<!ENTITY appmenuNewContactCmd.label "Cysylltiad Llyfr Cyfeiriadau...">
+<!ENTITY appmenuNewContactCmd.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY appmenuEditMenu.label "Golygu">
-<!ENTITY appmenuQFBMenu.label "Bar Hidlo Cyflym">
-<!ENTITY appmenuToolbarLayout.label "Cynllun Bar Offer...">
-
+<!ENTITY appmenuToolbarLayout.label "Cynllun Bar Offer…">
+<!ENTITY appmenuSelectThread.label "Dewis Edefyn">
+<!ENTITY appmenuSelectFlagged.label "Estyn Negeseuon Serennog">
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Tag Newydd...">
-<!ENTITY addNewTag.accesskey "T">
-<!ENTITY manageTags.label "Rheoli Tagiau...">
-<!ENTITY manageTags.accesskey "T">
 
+<!ENTITY addNewTag.label "Tag Newydd…">
+<!ENTITY addNewTag.accesskey "T">
+<!ENTITY manageTags.label "Rheoli Tagiau…">
+<!ENTITY manageTags.accesskey "T">
 <!-- Folder Pane -->
+
 <!ENTITY folderColumn.label "Enw">
 <!ENTITY folderSizeColumn.label "Maint">
-
 <!-- Folder Pane Context Menu -->
+
 <!ENTITY folderContextGetMessages.label "Estyn Negeseuon">
 <!ENTITY folderContextGetMessages.accesskey "s">
-<!ENTITY folderContextOpenNewWindow.label "Agor">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenInNewWindow.label "Agor mewn Ffenestr Newydd">
+<!ENTITY folderContextOpenInNewWindow.accesskey "N">
 <!ENTITY folderContextOpenNewTab.label "Agor mewn Tab Newydd">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "Is ffolder Newydd...">
+<!ENTITY folderContextNew.label "Is ffolder Newydd…">
 <!ENTITY folderContextNew.accesskey "I">
 <!ENTITY folderContextRename.label "Ailenwi">
 <!ENTITY folderContextRename.accesskey "A">
@@ -627,34 +611,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "G">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcio Ffolder Wedi'i Ddarllen">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "W">
-<!ENTITY folderContextSubscribe.label "Tanysgrifio...">
+<!ENTITY folderContextSubscribe.label "Tanysgrifio…">
 <!ENTITY folderContextSubscribe.accesskey "T">
-<!ENTITY folderContextSearchForMessages.label "Chwilio Negeseuon...">
+<!ENTITY folderContextSearchForMessages.label "Chwilio Negeseuon…">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
-<!ENTITY folderContextProperties.label "Priodweddau...">
+<!ENTITY folderContextProperties.label "Priodweddau…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Hoff Ffolder">
 <!ENTITY folderContextFavoriteFolder.accesskey "H">
-<!ENTITY folderContextSettings.label "Gosodiadau ...">
-<!ENTITY folderContextSettings.accesskey "e">
-
+<!ENTITY folderContextSettings.label "Gosodiadau…">
+<!ENTITY folderContextSettings.accesskey "o">
 <!-- Search Bar -->
+
 <!ENTITY SearchNameOrEmail.label "Mae'r Enw neu E-bost yn cynnwys:">
 <!ENTITY SearchNameOrEmail.accesskey "E">
-
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Chwilio negeseuon...">
 
+<!ENTITY glodaSearchBar.placeholder "Chwilio negeseuon…">
 <!-- Quick Search Menu Bar -->
+
 <!ENTITY searchSubjectMenu.label "Pwnc">
 <!ENTITY searchFromMenu.label "Oddi wrth">
 <!ENTITY searchSubjectOrFromMenu.label "Pwnc neu Oddi wrth">
 <!ENTITY searchRecipient.label "At neu Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Pwnc, At neu Cc">
 <!ENTITY searchMessageBody.label "Neges Gyfan">
-<!ENTITY saveAsVirtualFolderMenu.label "Cadw'r Chwilio fel Ffolder">
-
+<!ENTITY saveAsVirtualFolderMenu.label "Cadw'r Chwilio fel Ffolder…">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Edefyn">
 <!ENTITY fromColumn.label "Oddi wrth">
 <!ENTITY recipientColumn.label "Derbynnydd">
@@ -674,8 +658,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Lleoliad">
 <!ENTITY idColumn.label "Trefn Derbyn">
 <!ENTITY attachmentColumn.label "Atodiadau">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
 <!ENTITY threadColumn.tooltip "Cliciwch i ddangos edafedd negeseuon">
 <!ENTITY fromColumn.tooltip "Cliciwch i drefnu yn ôl">
@@ -696,8 +680,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Cliciwch i drefnu yn ôl lleoliad">
 <!ENTITY idColumn.tooltip "Cliciwch i drefnu yn ôl trefn derbyniwyd">
 <!ENTITY attachmentColumn.tooltip "Cliciwch i drefnu yn ôl atodiadau">
-
 <!-- Thread Pane Context Menu -->
+
 <!ENTITY contextOpenNewWindow.label "Agor Neges mewn Ffenestr Newydd">
 <!ENTITY contextOpenNewWindow.accesskey "F">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
@@ -707,8 +691,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.label "Agor Neges mewn Tab Newydd">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Agor Neges mewn Trafodaeth">
-<!ENTITY contextOpenConversation.accesskey "S">
-<!ENTITY contextEditAsNew.label "Golygu fel Newydd...">
+<!ENTITY contextOpenConversation.accesskey "s">
+<!ENTITY contextEditAsNew.label "Golygu fel Newydd…">
 <!ENTITY contextEditAsNew.accesskey "G">
 <!ENTITY contextArchive.label "Archif">
 <!ENTITY contextArchive.accesskey "A">
@@ -722,26 +706,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyList.accesskey "R">
 <!ENTITY contextForward.label "Ymlaen">
 <!ENTITY contextForward.accesskey "Y">
-<!ENTITY contextForwardAsAttachment.label "Ymlaen fel Atodiad">
-<!ENTITY contextForwardAsAttachment.accesskey "t">
+<!ENTITY contextForwardAsMenu.label "Ymlaen Fel">
+<!ENTITY contextForwardAsMenu.accesskey "Y">
+<!ENTITY contextForwardAsInline.label "Mewnlin">
+<!ENTITY contextForwardAsInline.accesskey "M">
+<!ENTITY contextForwardAsAttachmentItem.label "Atodiad">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Ymlaen fel Atodiadau">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Symud i">
 <!ENTITY contextMoveMsgMenu.accesskey "S">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Diweddar">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "D">
 <!ENTITY contextCopyMsgMenu.label "Copïo i">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "Cadw Fel...">
+<!ENTITY contextKillThreadMenu.label "Anwybyddu'r Edefyn">
+<!ENTITY contextKillThreadMenu.accesskey "A">
+<!ENTITY contextKillSubthreadMenu.label "Anwybyddu'r Is-Edefyn">
+<!ENTITY contextWatchThreadMenu.label "Gwylio'r Edefyn">
+<!ENTITY contextSaveAs.label "Cadw Fel…">
 <!ENTITY contextSaveAs.accesskey "a">
-<!ENTITY contextPrint.label "Argraffu...">
+<!ENTITY contextPrint.label "Argraffu…">
 <!ENTITY contextPrint.accesskey "A">
 <!ENTITY contextPrintPreview.label "Rhagolwg Argraffu">
 <!ENTITY contextPrintPreview.accesskey "R">
-
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
+
 <!ENTITY columnPicker.resetToInbox.label "Ailosod y colofnau i'r rhagosodedig">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
@@ -751,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Ailosod colofnau i'r rhagosodedig...">
+<!ENTITY columnPicker.applyTo.label "Ailosod colofnau i'r rhagosodedig…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -760,7 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Ffolder...">
+<!ENTITY columnPicker.applyToFolder.label "Ffolder…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -769,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Ffolder a'i blant...">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Ffolder a'i blant…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -782,44 +776,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    "File here" option for the move to/copy to widge.t
   -->
 <!ENTITY columnPicker.thisFolder.label "Y ffolder hwn">
-
-
 <!-- Media (video/audio) controls -->
+
+
 <!ENTITY contextPlay.label "Chwarae">
 <!ENTITY contextPlay.accesskey "h">
 <!ENTITY contextPause.label "Oedi">
 <!ENTITY contextPause.accesskey "O">
 <!ENTITY contextMute.label "Tewi">
 <!ENTITY contextMute.accesskey "T">
-<!ENTITY contextUnmute.label "Dad Dewi">
+<!ENTITY contextUnmute.label "Dad-dewi">
 <!ENTITY contextUnmute.accesskey "D">
-
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "Mae &brandShortName; yn meddwl mai sbam yw'r neges hon.">
+
+<!ENTITY junkBarMessage2.label "Mae &brandShortName; yn credu mai sbam yw'r neges hon.">
 <!ENTITY junkBarButton1.label "Nid Sbam">
 <!ENTITY junkInfoButton.label "?">
-
 <!-- Remote Content Bar -->
+
 <!ENTITY remoteContentMessage2.label "I ddiogelu eich preifatrwydd, mae &brandShortName; wedi rhwystro delweddau pell yn y neges.">
 <!ENTITY loadRemoteContentButton3.label "Dangos Bynnwys Pell">
-
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
+
+<!ENTITY phishingBarMessage2.label "Efallai mai ffugiad yw'r neges hon.">
 <!ENTITY removePhishingBarButton1.label "Anwybyddu Rhybudd">
 <!ENTITY disablePhishingWarning1.label "Anablu canfod sbam ar gyfer pob neges">
 <!ENTITY reportPhishingError1.label "Nid yw'r neges yma'n ymddangos fel sbam.">
-
 <!-- MDN Bar -->
+
 <!ENTITY mdnBarIgnoreButton2.label "Anwybyddu">
 <!ENTITY mdnBarIgnoreButton2.accesskey "A">
 <!ENTITY mdnBarSendButton2.label "Anfon Derbynneb Dychwelyd">
 <!ENTITY mdnBarSendButton2.accesskey "D">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed 
      -->
+
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
@@ -843,13 +837,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      above, the letter should match it.
      -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau...">
+
+<!ENTITY AddToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau…">
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY AddDirectlyToAddressBook.accesskey "C">
-<!ENTITY EditContact.label "Golygu Cysylltiad...">
+<!ENTITY EditContact.label "Golygu Cysylltiad…">
 <!ENTITY EditContact.accesskey "G">
 <!ENTITY ViewContact.label "Gweld Cysylltiad">
 <!ENTITY ViewContact.accesskey "w">
@@ -863,19 +857,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupName.accesskey "N">
 <!ENTITY CopyNewsgroupURL.label "Copïo URL Grŵp Newyddion">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Creu Hidl o...">
+<!ENTITY CreateFilterFrom.label "Creu Hidl o…">
 <!ENTITY CreateFilterFrom.accesskey "H">
 <!ENTITY reportPhishingURL.label "Adrodd ar Dwyll E-bost">
 <!ENTITY reportPhishingURL.accesskey "A">
-
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron...">
-<!ENTITY spellAddDictionaries.accesskey "Y">
 
+<!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
+<!ENTITY spellAddDictionaries.accesskey "Y">
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Cadw Dolen Fel...">
+
+<!ENTITY saveLinkAsCmd.label "Cadw Dolen Fel…">
 <!ENTITY saveLinkAsCmd.accesskey "D">
-<!ENTITY saveImageAsCmd.label "Cadw Delwedd Fel...">
+<!ENTITY saveImageAsCmd.label "Cadw Delwedd Fel…">
 <!ENTITY saveImageAsCmd.accesskey "D">
 <!ENTITY copyLinkCmd.label "Copïo Lleoliad Dolen">
 <!ENTITY copyLinkCmd.accesskey "C">
@@ -891,26 +885,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openInBrowser.accesskey "A">
 <!ENTITY openLinkInBrowser.label "Agor Dolen yn y Porwr">
 <!ENTITY openLinkInBrowser.accesskey "D">
-
 <!-- Statusbar -->
-<!ENTITY statusText.label "Gorffen">
 
+<!ENTITY statusText.label "Gorffen">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.label "Lleihau">
-<!ENTITY minimizeWindow.key "L">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
-
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Dewisiadau...">
-<!ENTITY preferencesCmdMac.commandkey   "D">
+
+<!ENTITY preferencesCmdMac.label        "Dewisiadau…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
 <!ENTITY hideThisAppCmdMac.label        "Cuddio &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "u">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Cuddio Eraill">
 <!ENTITY hideOtherAppsCmdMac.commandkey "E">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
-

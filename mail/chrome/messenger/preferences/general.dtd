@@ -18,8 +18,11 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Dangos rhybudd">
 <!ENTITY showAnimatedAlert.accesskey      "D">
-<!ENTITY customizeMailAlert.label         "Cyfaddasu...">
+<!ENTITY customizeMailAlert.label         "Cyfaddasu…">
 <!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY showTrayIcon.label               "Dangos eicon cilfach">
+<!ENTITY showTrayIcon.accesskey           "c">
 
 <!ENTITY play.label                       "Chwarae">
 <!ENTITY play.accesskey                   "h">
@@ -28,7 +31,6 @@
 <!ENTITY systemsoundMac.accesskey         "a">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Defnyddio'r ffeil sain ganlynol">
-<!ENTITY customsound.accesskey            "c">
-<!ENTITY browse.label                     "Pori...">
+<!ENTITY customsound.accesskey            "D">
+<!ENTITY browse.label                     "Pori…">
 <!ENTITY browse.accesskey                 "P">
-

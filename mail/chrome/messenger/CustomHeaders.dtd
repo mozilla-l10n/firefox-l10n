@@ -4,9 +4,8 @@
 
 <!ENTITY window.title "Cyfaddasu Penynnau">
 <!ENTITY addButton.label "Ychwanegu">
-<!ENTITY addButton.accesskey "A">
+<!ENTITY addButton.accesskey "a">
 <!ENTITY removeButton.label "Tynnu">
 <!ENTITY removeButton.accesskey "T">
 <!ENTITY newMsgHeader.label "Pennyn neges newydd:">
 <!ENTITY newMsgHeader.accesskey "P">
-

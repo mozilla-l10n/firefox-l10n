@@ -23,12 +23,11 @@
 <!ENTITY importItems.title              "Eitemau i'w Mewnforio">
 <!ENTITY importItems.label              "Dewis eitemau i'w mewnforio:">
 
-<!ENTITY migrating.title                "Mewnforio...">
-<!ENTITY migrating.label                "Mae'r eitemau canlynol yn cael eu mewnforio...">
+<!ENTITY migrating.title                "Mewnforio…">
+<!ENTITY migrating.label                "Mae'r eitemau canlynol yn cael eu mewnforio…">
 
 <!ENTITY selectProfile.title            "Dewis Proffil">
 <!ENTITY selectProfile.label            "Mae'r proffiliau canlynol ar gael i'w mewnforio o:">
 
 <!ENTITY done.title                     "Wedi Cwblhau Mewnforio">
 <!ENTITY done.label                     "Cafodd yr eitemau canlynol eu mewnforio'n llwyddiannus:">
-

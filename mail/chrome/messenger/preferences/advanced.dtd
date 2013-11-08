@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Diweddaru">
 <!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
 <!ENTITY itemCertificates.label  "Tystysgrifau">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Cyflwyno Data Perfformiad">
 <!ENTITY submitTelemetry.accesskey     "f">
@@ -27,16 +27,16 @@
 <!ENTITY alwaysCheckDefault.accesskey  "G">
 <!ENTITY searchIntegration.label       "Caniatáu i &searchIntegration.engineName; chwilio drwy'r negeseuon">
 <!ENTITY searchIntegration.accesskey   "C">
-<!ENTITY checkNow.label                "Gwirio Nawr">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "Gwiriwch Nawr…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Ffurfweddiad Uwch">
-<!ENTITY configEdit.label              "Golygydd Ffurfweddu...">
+<!ENTITY configEdit.label              "Golygydd Ffurfweddu…">
 <!ENTITY configEdit.accesskey          "F">
 <!ENTITY returnReceiptsInfo.label      "Pennu sut mae &brandShortName; yn trin derbynebau">
-<!ENTITY showReturnReceipts.label      "Derbynebau Dychwelyd...">
+<!ENTITY showReturnReceipts.label      "Derbynebau Dychwelyd…">
 <!ENTITY showReturnReceipts.accesskey  "D">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Darllen">
 <!ENTITY display.caption               "Dangos">
 <!ENTITY showCondensedAddresses.label  "Dangos dim ond enw dangos unigolion yn fy llyfr cyfeiriadau">
@@ -54,18 +54,18 @@
 <!ENTITY secondsLabel.label            "eiliad">
 <!ENTITY openMsgIn.label               "Agor neges yn:">
 <!ENTITY openMsgInNewTab.label         "Tab newydd">
-<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY openMsgInNewTab.accesskey     "T">
 <!ENTITY reuseExpRadio0.label          "Ffenestr neges newydd">
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "Ffenestr neges gyfredol">
 <!ENTITY reuseExpRadio1.accesskey      "g">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Cau ffenestr/tab neges wrth symud neu ddileu">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Gwirio'n awtomatig am ddiweddariadau i:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Ychwanegion wedi'u Gosod">
 <!ENTITY enableAddonsUpdate.accesskey   "Y">
 <!ENTITY whenUpdatesFound.label         "Pan fydd diweddariad o &brandShortName; wedi'i ganfod,">
@@ -80,35 +80,35 @@
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "e">
-
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Gosodiadau...">
+
+<!ENTITY showSettings.label            "Gosodiadau…">
 <!ENTITY showSettings.accesskey        "G">
 <!ENTITY proxiesConfigure.label        "Ffurfweddu sut mae &brandShortName; yn cysylltu â'r Rhyngrwyd">
 <!ENTITY connectionsInfo.caption       "Cysylltiad">
 <!ENTITY offlineInfo.caption           "All-lein">
 <!ENTITY offlineInfo.label             "Ffurfweddi gosodiadau all-lein">
-<!ENTITY showOffline.label             "All-lein">
+<!ENTITY showOffline.label             "All-lein…">
 <!ENTITY showOffline.accesskey         "l">
 
 <!ENTITY Diskspace                       "Lle ar Ddisg">
 <!ENTITY offlineCompactFolders.label     "Cywasgu pob ffolder pan fydd yn cadw dros gyfanswm o">
 <!ENTITY offlineCompactFolders.accesskey "y">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Defnyddio hyd at:">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB o le disg ar gyfer y storfa.">
+
+<!ENTITY useCacheBefore.label            "Defnyddio hyd at">
+<!ENTITY useCacheBefore.accesskey        "D">
+<!ENTITY useCacheAfter.label             "MB o le disg ar gyfer y storfa">
 <!ENTITY clearCacheNow.label             "Clirio Nawr">
 <!ENTITY clearCacheNow.accesskey         "N">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
 <!ENTITY certs.auto                      "Dewis un yn awtomatig">
 <!ENTITY certs.auto.accesskey            "u">
@@ -117,10 +117,7 @@
 
 <!ENTITY viewCertificates.label         "Darllen Tystysgrifau">
 <!ENTITY viewCertificates.accesskey     "D">
-<!ENTITY viewCRLs.label                 "Rhestrau Dirymu">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "Dilysu">
 <!ENTITY validation.accesskey           "D">
 <!ENTITY viewSecurityDevices.label      "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey  "y">
-

@@ -25,12 +25,9 @@
 <!ENTITY overrideNamespaces.label "Caniatáu i'r gweinydd i wrth-wneud y bylchau enw">
 <!ENTITY overrideNamespaces.accesskey "C">
 <!ENTITY pop3Desc.label "Wrth lwytho e-byst pop i lawr ar gyfer y gweinydd hwn, mae modd defnyddio'r ffoler canlynol ar gyfer e-byst newydd:" >
-<!ENTITY globalInbox.label "Blwch Derbyn Eang (Cyfrif Ffolder i Lleol)">
-<!ENTITY globalInbox.accesskey "D">
 <!ENTITY accountDirectory.label "Blwch Derbyn cyfrif y gweinydd hwn">
 <!ENTITY accountDirectory.accesskey "D">
 <!ENTITY deferToServer.label "Blwch Derbyn cyfrif gwahanol">
 <!ENTITY deferToServer.accesskey "g">
 <!ENTITY deferGetNewMail.label "Cynnwys y gweinydd hwn wrth estyn e-byst newydd">
 <!ENTITY deferGetNewMail.accesskey "y">
-

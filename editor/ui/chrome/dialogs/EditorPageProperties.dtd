@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Priodweddau Tudalen">
 <!ENTITY location.label "Lleoliad:">
 <!ENTITY lastModified.label "Newidiwyd Diwethaf:">
@@ -14,5 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Tudalen newydd, heb ei chadw eto]">
 <!ENTITY EditHEADSource1.label "Defnyddiwr uwch:">
-<!ENTITY EditHEADSource2.label "I olygu cynnwys arall ardal  &lt;head&gt; defnyddiwch &quot;HTML Source&quot; yn newislen Golwg neu Bar Offer Modd Golygu.">
-
+<!ENTITY EditHEADSource2.label "I olygu cynnwys arall ardal &lt;head&gt; defnyddiwch &quot;HTML Source&quot; yn newislen Golwg neu Bar Offer Modd Golygu.">

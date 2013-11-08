@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Llwytho i Lawr a Chydweddu Negeseuon">
 <!ENTITY MsgSelect.label "Eitemau ar Gyfer Defnydd All-lein">
@@ -16,7 +16,7 @@
 <!ENTITY sendMessage.accesskey "A">
 <!ENTITY workOffline.label "Gweithio all-lein pan fydd y llwytho i lawr/cydweddiad wedi gorffen">
 <!ENTITY workOffline.accesskey "G">
-<!ENTITY selectButton.label "Dewis...">
+<!ENTITY selectButton.label "Dewis…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Dewiswch y ffolderi e-bost a grwpiau newyddion ar gyfer defnydd all-lein.">
 <!ENTITY MsgSelectInd.label "Llwytho i Lawr">

@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Cysylltiad">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Enw">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -49,9 +49,9 @@
 
 <!ENTITY allowRemoteContent1.label      "Caniatáu cynnwys pell.">
 <!ENTITY allowRemoteContent1.accesskey  "a">
-<!ENTITY allowRemoteContent1.tooltip    "Mewn negeseuon HTML mae'n bosib i
-mewnosod cynnwys o ffynonellau pell. Bydd agor neges o'r fath yn agor
-dolen i'r ffynhonnell allanol hwn. Gall hyn ganiatáu tracio'r
+<!ENTITY allowRemoteContent1.tooltip    "Mewn negeseuon HTML mae'n bosib i 
+mewnosod cynnwys o ffynonellau pell. Bydd agor neges o'r fath yn agor 
+dolen i'r ffynhonnell allanol hwn. Gall hyn ganiatáu tracio'r 
 neges sy'n cael ei darllen. Bydd ticio'r blwch yn caniatáu cynnwys wedi'i fewnosod 
 mewn negeseuon HTML o'r ddolen hon.">
 
@@ -131,7 +131,7 @@ mewn negeseuon HTML o'r ddolen hon.">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "A">
+<!ENTITY AIM.accesskey                  "r">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -142,8 +142,10 @@ mewn negeseuon HTML o'r ddolen hon.">
 <!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
-<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY XMPP.label                     "Enw Jabber:">
+<!ENTITY XMPP.accesskey                 "E">
+<!ENTITY IRC.label                      "Llysenw IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Ffoto">
 <!ENTITY Photo.accesskey                "o">
@@ -160,4 +162,3 @@ mewn negeseuon HTML o'r ddolen hon.">
 <!ENTITY PhotoURL.placeholder           "Gludo neu deipio cyfeiriad gwe'r ffoto">
 <!ENTITY UpdatePhoto.label              "Diweddaru">
 <!ENTITY UpdatePhoto.accesskey          "D">
-

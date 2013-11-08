@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
 
 <!ENTITY fileMenu.label          "Ffeil">
 <!ENTITY fileMenu.accesskey        "F">
@@ -14,13 +14,13 @@
 <!ENTITY editMenu.label          "Golygu">
 <!ENTITY editMenu.accesskey        "G">
 <!ENTITY undoCmd.label            "Dadwneud">
-<!ENTITY undoCmd.key            "z">
+<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "u">
 <!ENTITY redoCmd.label            "Ailwneud">
-<!ENTITY redoCmd.key            "y">
+<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "A">
 <!ENTITY cutCmd.label            "Torri">
-<!ENTITY cutCmd.key              "x">
+<!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "T">
 <!ENTITY copyCmd.label            "Copïo">
 <!ENTITY copyCmd.key            "C">
@@ -33,7 +33,7 @@
 <!ENTITY selectAllCmd.label          "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "D">
-<!ENTITY preferencesCmd.label        "Dewisiadau...">
+<!ENTITY preferencesCmd.label        "Dewisiadau…">
 <!ENTITY preferencesCmd.accesskey      "D">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "D">
@@ -45,7 +45,7 @@
 <!ENTITY showTaskbarCmd.label          "Bar Statws">
 <!ENTITY showTaskbarCmd.accesskey        "S">
 
-<!ENTITY proxy.label                                    "Ffurfweddiad Dirprwy...">
+<!ENTITY proxy.label                                    "Ffurfweddiad Dirprwy…">
 <!ENTITY proxy.accesskey                                "F">
 
 <!ENTITY closeCmd.label      "Cau">
@@ -61,4 +61,3 @@
 
 <!ENTITY quitApplicationCmdMac.label  "Gadael &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "G">
-

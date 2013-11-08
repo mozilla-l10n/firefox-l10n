@@ -7,6 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Neges">
 <!ENTITY  newMessageCmd.accesskey         "N">
  
-<!ENTITY  newContactCmd.label             "Cysylltiad Llyfr Cyfeiriadau...">
+<!ENTITY  newContactCmd.label             "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY  newContactCmd.accesskey         "C">
-

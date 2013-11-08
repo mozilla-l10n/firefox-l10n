@@ -5,7 +5,7 @@
 <!ENTITY pane.title                   "Derbynebau Dychwelyd">
 <!ENTITY useGlobalPrefs.label         "Defnyddio fy newisiadau derbynneb dychwelyd ar gyfer y cyfrif hwn">
 <!ENTITY useGlobalPrefs.accesskey     "D">
-<!ENTITY globalReceipts.label         "Dewisiadau Eang...">
+<!ENTITY globalReceipts.label         "Dewisiadau Eang…">
 <!ENTITY globalReceipts.accesskey     "E">
 <!ENTITY useCustomPrefs.label         "Cyfaddasu derbynebau dychwelyd ar gyfer y cyfrif hwn">
 <!ENTITY useCustomPrefs.accesskey     "C">
@@ -31,4 +31,3 @@
 <!ENTITY askMe.label                  "Gofyn i mi">
 <!ENTITY alwaysSend.label             "Anfon pob tro">
 <!ENTITY neverSend.label              "Byth anfon">
-

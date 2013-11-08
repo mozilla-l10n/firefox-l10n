@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "Modd Diogel &brandShortName;">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau cyfaddas personol, themâu ac estyniadau.">
+<!ENTITY safeModeDescription.label        "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau cyfaddas personol, themâu a'ch estyniadau dros dro.">
 <!ENTITY safeModeDescription2.label       "Mae modd gwneud rhai neu'r holl newidiadau'n rhai parhaol:">
 
 <!ENTITY disableAddons.label              "Atal pob ychwanegyn">
@@ -19,4 +19,3 @@
 
 <!ENTITY continueButton.label             "Parhau yn y Modd Diogel">
 <!ENTITY continueButton.accesskey         "D">
-

@@ -12,14 +12,17 @@
 <!ENTITY feedsSectionHdr.label        "Llif">
 <!ENTITY subscribeFeeds.label         "Rheoli tanysgrifiadau">
 
+<!ENTITY chat.label                   "Sgwrs">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Cyfrifon">
 <!ENTITY subscribeImapFolders.label   "Rheoli tanysgrifiadau ffolderi">
 <!ENTITY settingsLink.label           "Edrych ar osodiadau'r cyfrif">
 <!ENTITY newAcctLink.label            "Creu cyfrif newydd">
+<!ENTITY newAcct.label                "Creu cyfrif newydd:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Nodweddion Uwch">
 <!ENTITY searchMsgsLink.label         "Chwilio negeseuon">
 <!ENTITY filtersLink.label            "Rheoli hidlau negeseuon">
-<!ENTITY junkSettings.label           "Gosodiadau Sbam">
-<!ENTITY offlineLink.label            "Gosodiadau All-lein">
-
+<!ENTITY junkSettings.label           "Gosodiadau sbam">
+<!ENTITY offlineLink.label            "Gosodiadau all-lein">

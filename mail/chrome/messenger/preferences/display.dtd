@@ -8,7 +8,7 @@
 <!ENTITY style.label                      "Arddull:">
 <!ENTITY style.accesskey                  "A">
 <!ENTITY regularStyle.label               "Arferol">
-<!ENTITY bold.label                       "Trwm ">
+<!ENTITY bold.label                       "Trwm">
 <!ENTITY italic.label                     "Italig">
 <!ENTITY boldItalic.label                 "Italig Trwm">
 <!ENTITY size.label                       "Maint:">
@@ -16,22 +16,16 @@
 <!ENTITY regularSize.label                "Arferol">
 <!ENTITY bigger.label                     "Mwy">
 <!ENTITY smaller.label                    "Llai">
-<!ENTITY color.label                      "Lliw:">
-<!ENTITY color.accesskey                  "L">
+<!ENTITY quotedTextColor.label            "Lliw:">
+<!ENTITY quotedTextColor.accesskey        "L">
 <!ENTITY displayWidth.label               "Negeseuon Testun Plaen">
 <!ENTITY displayText.label                "Wrth ddangos negeseuon testun plaen dyfynedig:">
-<!ENTITY colors.label                     "Lliwiau">
-<!ENTITY overrideColors.label             "Wrth ddangos negeseuon, defnyddio'r lliwiau canlynol:">
-<!ENTITY textColor.label                  "Lliw Testun:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Lliw Cefndir:">
-<!ENTITY backgroundColor.accesskey        "i">
-
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
 <!ENTITY convertEmoticons.label        "Dangos gwenogluniau fel graffigau">
 <!ENTITY convertEmoticons.accesskey    "g">
-
 <!-- labels -->
+
 <!ENTITY displayTagsText.label     "Mae modd defnyddio tagiau i gategoreiddio a blaenoriaethu eich negeseuon.">
 <!ENTITY addTagButton.label        "Ychwanegu">
 <!ENTITY addTagButton.accesskey    "Y">
@@ -39,13 +33,14 @@
 <!ENTITY editTagButton.accesskey   "G">
 <!ENTITY removeTagButton.label     "Dileu">
 <!ENTITY removeTagButton.accesskey "D">
+<!-- Fonts and Colors -->
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Ffontiau">
+<!ENTITY fontsAndColors1.label   "Ffontiau a Lliwiau">
 <!ENTITY defaultFont.label       "Ffont rhagosodedig:">
 <!ENTITY defaultFont.accesskey   "r">
 <!ENTITY defaultSize.label       "Maint:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "U">
-<!ENTITY fontOptions.label       "Uwch...">
-
+<!ENTITY fontOptions.label       "Uwch…">
+<!ENTITY colorButton.label       "Lliwiau…">
+<!ENTITY colorButton.accesskey   "L">

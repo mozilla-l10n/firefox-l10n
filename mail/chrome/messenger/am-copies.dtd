@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Copïau a Ffolderi">
 <!ENTITY sendingPrefix.label "Wrth anfon negeseuon, yn awtomatig: ">
@@ -24,12 +24,12 @@
 <!ENTITY sentFolderOn.label "Ffolder &quot;Anfonwyd&quot; ar:">
 <!ENTITY sentFolderOn.accesskey "A">
 <!ENTITY sentInOtherFolder.label "Arall:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archif Negeseuon">
 <!ENTITY keepArchives.label "Cadw archif negeseuon yn:">
 <!ENTITY keepArchives.accesskey "a">
-<!ENTITY archiveHierarchyButton.label "Dewisiadau archifo...">
+<!ENTITY archiveHierarchyButton.label "Dewisiadau archifo…">
 <!ENTITY archiveHierarchyButton.accesskey "D">
 <!ENTITY archivesFolderOn.label "Ffolder &quot;Archif&quot; yn:">
 <!ENTITY archivesFolderOn.accesskey "A">
@@ -38,14 +38,13 @@
 <!ENTITY specialFolders.label "Drafftiau a Thempledi">
 <!ENTITY keepDrafts.label "Cadw drafftiau neges yn:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Ffolder &quot;Drafts&quot; yn:">
+<!ENTITY draftsFolderOn.label "Ffolder &quot;Drafftiau&quot; yn:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Arall:">
 <!ENTITY draftInOtherFolder.accesskey "l">
 <!ENTITY keepTemplates.label "Cadw templedi negeseuon yn:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Ffolder &quot;Templates&quot; yn:">
+<!ENTITY templatesFolderOn.label "Ffolder &quot;Templedi&quot; yn:">
 <!ENTITY templatesFolderOn.accesskey "T">
 <!ENTITY templateInOtherFolder.label "Arall:">
-<!ENTITY templateInOtherFolder.accesskey "a">
-
+<!ENTITY templateInOtherFolder.accesskey "A">

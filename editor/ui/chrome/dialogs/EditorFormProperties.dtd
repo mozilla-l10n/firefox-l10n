@@ -13,10 +13,9 @@
 <!ENTITY FormMethod.label "Dull:">
 <!ENTITY FormMethod.accesskey "D">
 <!ENTITY FormEncType.label "Amgodio:">
-<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormEncType.accesskey "A">
 <!ENTITY FormTarget.label "Ffrâm Darged:">
 <!ENTITY FormTarget.accesskey "F">
 
 <!ENTITY RemoveForm.label "Tynnu'r Ffurflen">
 <!ENTITY RemoveForm.accesskey "F">
-

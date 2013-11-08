@@ -12,6 +12,5 @@
 <!ENTITY account.newMailNotification   "Hysbysu ar E-bost newydd">
 <!ENTITY account.autojoin              "Sianeli Awto-Gyfuno:">
 <!ENTITY account.proxySettings.caption "Gosodiadau Dirprwyol:">
-<!ENTITY account.proxySettings.change.label     "Newid...">
+<!ENTITY account.proxySettings.change.label     "Newid…">
 <!ENTITY account.proxySettings.change.accessKey "N">
-

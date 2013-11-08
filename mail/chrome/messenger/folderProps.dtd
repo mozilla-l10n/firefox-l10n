@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Priodweddau">
 
 <!ENTITY generalInfo.label                       "Gwybodaeth Cyffredinol">
-<!ENTITY folderCharsetTab.label                  "Amgodiad Nod Rhagosodedig:">
-<!ENTITY folderCharsetTab.accesskey              "A">
-<!ENTITY folderCharsetOverride.label             "Gosod y rhagosodedig i bob neges yn y ffolder (bydd gosodiadau amgodio nod negeseuon ac awto canfod yn cael eu hanwybyddu)">
-<!ENTITY folderCharsetOverride.accesskey         "r">
+<!ENTITY folderCharsetFallback.label             "Amgodiad Nod Wrth Gefn:">
+<!ENTITY folderCharsetFallback.accesskey         "A">
+<!ENTITY folderCharsetEnforce.label              "Gosod amgodiad i bob neges yn y ffolder (bydd gosodiadau amgodio nodau negeseuon unigol ac awto-ganfod yn cael eu hanwybyddu)">
+<!ENTITY folderCharsetEnforce.accesskey          "G">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ailadeiladu'r Mynegai Ffeil Cryno">
 <!ENTITY folderRebuildSummaryFile2.label         "Trwsio'r Ffolder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "T">
@@ -47,7 +47,7 @@
 <!ENTITY selectofflineNewsgroup.check.label      "Dewiswch y grŵp newyddion ar gyfer defnydd all-lein">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "a">
 <!ENTITY offlineNewsgroup.button.label           "Llwytho i Lawr Nawr">
-<!ENTITY offlineNewsgroup.button.accesskey       "l">
+<!ENTITY offlineNewsgroup.button.accesskey       "L">
 
 <!ENTITY folderProps.name.label                  "Enw:">
 <!ENTITY folderProps.name.accesskey              "E">
@@ -55,7 +55,7 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Rhannu">
-<!ENTITY privileges.button.label                 "Breintiau...">
+<!ENTITY privileges.button.label                 "Breintiau…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "Mae gennych y caniatâd canlynol:">
 <!ENTITY folderType.label                        "Math o Ffolder:">
@@ -71,4 +71,3 @@
 <!ENTITY sizeOnDisk.label                        "Maint ar ddisg:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "anhysbys">
-

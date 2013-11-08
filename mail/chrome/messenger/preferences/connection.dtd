@@ -10,7 +10,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "D">
 <!ENTITY  systemTypeRadio.label         "Defnyddio gosodiadau dirprwyol y system">
 <!ENTITY  systemTypeRadio.accesskey     "e">
-<!ENTITY  WPADTypeRadio.label           "AwtoGanfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
+<!ENTITY  WPADTypeRadio.label           "Awtoganfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Ffurfweddiad dirprwy gyda llaw:">
 <!ENTITY  manualTypeRadio.accesskey     "F">
@@ -39,4 +39,3 @@
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
 <!ENTITY  shareproxy.accesskey          "f">
-

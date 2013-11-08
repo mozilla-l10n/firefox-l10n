@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Tanysgrifiad Llif">
 <!ENTITY subscriptionDesc.label      "Sylw: Ni fydd tynnu neu newid y ffolder llif yn effeithio ar yr erthyglau sydd wedi'u llwytho i lawr eisoes.">
 
@@ -20,7 +20,7 @@
 <!ENTITY quickMode.accesskey         "c">
 
 <!ENTITY locationValidate.label      "Dilysu">
-<!ENTITY validateText.label          "Gwirio dilysiad ac estyn URL dilys.">
+<!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
 <!ENTITY button.addFeed.label        "Ychwanegu">
 <!ENTITY button.addFeed.accesskey    "Y">
@@ -35,4 +35,3 @@
 <!ENTITY button.exportOPML.tooltip   "Allforiwch Llif gyda strwythur ffolderi; ctrl clic neu ctrl enter i allforio Llif fel rhestr">
 
 <!ENTITY cmd.close.commandKey        "w">
-

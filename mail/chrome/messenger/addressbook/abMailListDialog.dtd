@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Rhestr E-bostio">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Ychwanegu at:">
+<!ENTITY addToAddressBook.label         "Ychwanegu at: ">
 
 <!ENTITY ListName.label                 "Rhestr Enwau: ">
 <!ENTITY ListNickName.label             "Rhestr Llys Enw: ">
@@ -14,11 +14,10 @@
 <!ENTITY AddressTitle.label             "Teipiwch gyfeiriadau e-bost i'w hychwanegu at y rhestr e-bostio:">
 <!ENTITY UpButton.label                 "Symud i Fyny">
 <!ENTITY DownButton.label               "Symud i Lawr">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "Y">
 <!ENTITY ListName.accesskey             "E">
 <!ENTITY ListNickName.accesskey         "L">
 <!ENTITY ListDescription.accesskey      "D">
-
 

@@ -37,9 +37,8 @@
 <!ENTITY chatAccountsButton.label      "Dangos Cyfrifon">
 
 <!ENTITY status.available          "Ar Gael">
-<!ENTITY status.unavailable        "Ddim Ar Gael">
+<!ENTITY status.unavailable        "Ddim ar Gael">
 <!ENTITY status.offline            "All-lein">
 
-<!ENTITY openLinkCmd.label            "Agor Dolen...">
+<!ENTITY openLinkCmd.label            "Agor Dolen…">
 <!ENTITY openLinkCmd.accesskey        "D">
-
