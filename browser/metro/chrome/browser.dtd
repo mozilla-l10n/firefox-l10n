@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Abrir consola JavaScript">
 <!ENTITY appbarFindInPage2.label    "Buscar en la página">
 <!ENTITY appbarViewOnDesktop2.label "Ver en escritorio">
+<!ENTITY appbarMSMetaData2.label    "Obtener complemento para este sitio">
 
 <!ENTITY topSitesHeader.label        "Sitios frecuentes">
 <!ENTITY bookmarksHeader.label       "Marcadores">
@@ -72,12 +73,14 @@
 <!-- LINK CONTEXT MENU -->
 
 <!ENTITY contextOpenLinkTab.label          "Abrir enlace en una nueva pestaña">
-
-
+<!ENTITY contextCopyLinkHref.label         "Copiar enlace">
+<!ENTITY contextBookmarkLinkHref.label     "Añadir enlace a marcadores">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
+<!ENTITY contextSaveImageLib.label         "Guardar en la biblioteca de imágenes">
+<!ENTITY contextCopyImage.label            "Copiar imagen">
 <!ENTITY contextCopyImageLocation.label    "Copiar dirección de la imagen">
 <!ENTITY contextOpenImageTab.label         "Abrir imagen en una nueva pestaña">
 <!-- VIDEO CONTEXT MENU -->
