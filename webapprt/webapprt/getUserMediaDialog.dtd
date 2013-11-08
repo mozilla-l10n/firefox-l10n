@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
+<!ENTITY getUserMediaDialog.title                 "ការ​ចែករំលែក​មេឌៀ">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "ចែករំលែក">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "បោះបង់">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
 
-
-
-
+<!ENTITY getUserMediaDialog.video.label           "ជ្រើស​ម៉ាស៊ីន​ថត">
+<!ENTITY getUserMediaDialog.video.noVideo         "គ្មាន​វីដេអូ">
+<!ENTITY getUserMediaDialog.audio.label           "ជ្រើស​មីក្រូហ្វូន">
 <!ENTITY getUserMediaDialog.audio.noAudio         "គ្មាន​សំឡេង">

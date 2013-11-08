@@ -8,11 +8,11 @@
 <!ENTITY index.help "ជំនួយ">
 
 <!ENTITY device.screenshot "រូបថត​អេក្រង់">
-<!ENTITY device.screenshotTooltip "បើក​រូបថត​អេក្រង់​នៃ​សភាព​បច្ចុប្បន្ន​របស់​ឧបករណ៍​នៅ​ក្នុង​ផ្ទាំង​ថ្មី។">
+<!ENTITY device.screenshotTooltip "បើក​រូបថត​អេក្រង់​នៃ​សភាព​បច្ចុប្បន្ន​​នៃ​ឧបករណ៍​នៅ​ក្នុង​ផ្ទាំង​ថ្មី។">
 <!ENTITY device.title "មជ្ឈមណ្ឌល​បញ្ជា​របស់​ឧបករណ៍">
 <!ENTITY device.notConnected "មិន​បាន​តភ្ជាប់។ សូម​តភ្ជាប់​ឧបករណ៍​របស់​អ្នក​នៅ​ខាងក្រោម។">
 <!ENTITY device.startApp "ចាប់ផ្ដើម">
-<!ENTITY device.startAppTooltip "ចាប់ផ្ដើុំម​កម្មវិធី​នេះ​នៅ​លើ​ឧបករណ៍។">
+<!ENTITY device.startAppTooltip "ចាប់ផ្ដើម​កម្មវិធី​នេះ​នៅ​លើ​ឧបករណ៍។">
 <!ENTITY device.stopApp "បញ្ឈប់">
 <!ENTITY device.stopAppTooltip "បញ្ឈប់​កម្មវិធី​នេះ​នៅ​លើ​ឧបករណ៍។">
 <!ENTITY device.debugApp "បំបាត់​កំហុស">
@@ -24,7 +24,7 @@
 <!ENTITY device.allow "អនុញ្ញាត">
 <!ENTITY device.allowTooltip "សិទ្ធិ​នេះ​បាន​អនុញ្ញាត​សម្រាប់​កម្មវិធី។">
 <!ENTITY device.prompt "ជូនដំណឹង">
-<!ENTITY device.promptTooltip "សិទ្ធិ​នេះ​ទាមទារ​ការ​បញ្ជាក់​អ្នកប្រើ​សម្រាប់​កម្មវិធី។">
+<!ENTITY device.promptTooltip "សិទ្ធិ​នេះ​ទាមទារ​ការ​បញ្ជាក់​អ្នកប្រើ​សម្រាប់​កម្មវិធី​ប្រភេទ​នេះ។">
 <!ENTITY device.deny "បដិសេធ">
 <!ENTITY device.denyTooltip "សិទ្ធិ​នេះ​បាន​បដិសេធ​សម្រាប់​កម្មវិធី។">
 <!ENTITY device.installedApps "កម្មវិធី​ដែល​បាន​ដំឡើង">
