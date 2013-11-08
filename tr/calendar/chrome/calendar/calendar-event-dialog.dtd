@@ -26,11 +26,11 @@
 <!ENTITY newevent.status.needsaction.label        "İşlem gerekli" >
 <!ENTITY newevent.status.inprogress.label         "Devam ediyor" >
 <!ENTITY newevent.status.completed.label          "Tamamlanma tarihi" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; tamamlandı">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; tamamlandı">
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -43,9 +43,9 @@
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
-<!ENTITY event.dialog.select.all.key              "A">
-
+<!ENTITY event.dialog.select.all.key              "T">
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Yeni">
 <!ENTITY  event.menu.item.new.accesskey                   "Y">
 <!ENTITY  event.menu.item.new.event.label                 "Etkinlik">
@@ -138,21 +138,23 @@
 <!ENTITY event.email.attendees.accesskey                  "T">
 <!ENTITY event.email.tentative.attendees.label            "Katılımı belli olmayan katılımcılara e-posta yaz…">
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
 <!ENTITY  event.toolbar.delete.label                      "Sil">
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
 <!ENTITY  event.toolbar.spellcheck.label                  "İmla denetimi">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Başlık:" >
 <!ENTITY event.title.textbox.accesskey                    "B">
 <!ENTITY event.location.label                             "Konum:" >
 <!ENTITY event.location.accesskey                         "K">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
+<!ENTITY event.categories.textbox.accesskey               "Y">
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "T">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
@@ -171,6 +173,8 @@
 <!ENTITY task.status.accesskey                            "D">
 <!ENTITY event.repeat.label                               "Tekrarla:" >
 <!ENTITY event.repeat.accesskey                           "T">
+<!ENTITY event.until.label                                "Şu zamana kadar:">
+<!ENTITY event.until.accesskey                            "z">
 <!ENTITY event.reminder.label                             "Uyarı:" >
 <!ENTITY event.reminder.accesskey                         "y">
 <!ENTITY event.description.label                          "Açıklama:" >
@@ -206,8 +210,8 @@
 <!ENTITY event.reminder.custom.label                      "Özelleştir…" >
 
 <!ENTITY event.reminder.multiple.label                    "Çoklu uyarı…" >
-
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Yineleme aralığını düzenle">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Tekrarlama">
@@ -256,7 +260,6 @@
 <!ENTITY event.recurrence.every.label                        "Her:" >
 <!ENTITY repeat.units.years.both                             "Yıl" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Her" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -264,6 +267,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Ocak" >
@@ -312,8 +316,8 @@
 <!ENTITY event.recurrence.appointments.label            "Görüşme" >
 <!ENTITY event.repeat.until.label                       "Şu zamana kadar tekrarla" >
 <!ENTITY event.recurrence.preview.label                 "Önizleme">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Katılımcıları davet et">
 <!ENTITY event.organizer.label                  "Düzenleyici">
 <!ENTITY event.freebusy.suggest.slot            "Zaman aralığı öner:">
@@ -333,12 +337,12 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Kaynak">
 <!ENTITY event.attendee.usertype.room           "Oda">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Lütfen saat dilimini belirleyin">
 <!ENTITY event.timezone.custom.label     "Diğer saat dilimleri…">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "Genel">
 <!ENTITY read.only.title.label           "Başlık:">
 <!ENTITY read.only.event.start.label     "Başlangıç tarihi:">
@@ -359,4 +363,3 @@
 <!ENTITY read.only.description.label     "Açıklama">
 <!ENTITY read.only.documents.label       "Belgeler">
 <!ENTITY read.only.link.label            "İlgili bağlantı">
-

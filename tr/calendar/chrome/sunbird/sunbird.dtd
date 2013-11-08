@@ -55,19 +55,18 @@
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 hafta" >
 <!ENTITY sunbird.menu.numberofweeks.5                      "5 hafta" >
 <!ENTITY sunbird.menu.numberofweeks.6                      "6 hafta" >
-
 <!-- customizable toolbars -->
+
 <!ENTITY sunbird.context.customize.label                   "Özelleştir…">
 <!ENTITY sunbird.context.customize.accesskey               "z">
 <!ENTITY sunbird.menu.customize.label                      "Araç çubuğunu özelleştir…">
 <!ENTITY sunbird.menu.customize.accesskey                  "ö">
 <!ENTITY sunbird.maintoolbar.name                          "Ana araç çubuğu">
 <!ENTITY sunbird.maintoolbar.accesskey                     "A">
-
 <!-- Sunbird Help -->
+
 <!ENTITY sunbird.help.label                                "Yardım içeriği">
 <!ENTITY sunbird.help.accesskey                            "d">
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title                                  "&brandFullName;">
 
+<!ENTITY mainWindow.title                                  "&brandFullName;">

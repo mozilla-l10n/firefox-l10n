@@ -10,4 +10,3 @@
 <!ENTITY providerUninstall.preName.label                   "Şunları kaldırmayı veya devre dışı bırakmayı talep ettiniz:">
 <!ENTITY providerUninstall.postName.label                  "Bu işlem, aşağıda takvimleri devre dışı bıracaktır.">
 <!ENTITY providerUninstall.reinstallNote.label             "Bu sağlayıcıyı yeniden yüklemeyi planlamıyorsanız, sağlayıcının takvimlerinden ayrılmayı tercih edebilirsiniz.">
-
