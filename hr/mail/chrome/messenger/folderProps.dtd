@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Postavke">
 
 <!ENTITY generalInfo.label                       "Opće informacije">
-<!ENTITY folderCharsetTab.label                  "Zadana kodna stranica:">
-<!ENTITY folderCharsetTab.accesskey              "k">
-<!ENTITY folderCharsetOverride.label             "Primijeni zadano na sve poruke u mapi (postavke kodnih stranica pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderCharsetFallback.label             "Pomoćna kôdna stranica:">
+<!ENTITY folderCharsetFallback.accesskey         "s">
+<!ENTITY folderCharsetEnforce.label              "Primjeni kôdnu stranicu na sve poruke u mapi (postavke kôdne stranice pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
+<!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ponovno izgradi skupnu indeks datoteku">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapu">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
