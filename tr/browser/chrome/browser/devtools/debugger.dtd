@@ -34,6 +34,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip  "Hata Ayıklayıcı Seçenekleri">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Kara kutulamayı aç/kapat">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 
