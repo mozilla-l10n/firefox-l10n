@@ -8,8 +8,8 @@
 <!ENTITY PrimaryEmail.accesskey                "b">
 <!ENTITY Company.label                         "Corff">
 <!ENTITY Company.accesskey                     "C">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.label                   "Enw Seinegol">
+<!ENTITY _PhoneticName.accesskey               "S">
 <!ENTITY NickName.label                        "Llysenw">
 <!ENTITY NickName.accesskey                    "L">
 <!ENTITY SecondEmail.label                     "E-bost Ychwanegol">
@@ -34,4 +34,3 @@
 <!ENTITY sortAscending.accesskey               "E">
 <!ENTITY sortDescending.label                  "Disgyn">
 <!ENTITY sortDescending.accesskey              "D">
-

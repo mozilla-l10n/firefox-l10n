@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Chwilio am negeseuon yn:">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Chwilio is-ffolderi">
@@ -17,26 +17,28 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Chwilio drwy'r Negeseuon">
 <!ENTITY results.label               "Canlyniadau">
-<!ENTITY fileHereMenu.label          "Ffeilio Yma">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Ffeil">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveHereMenu.label          "Symud Yma">
+<!ENTITY moveHereMenu.accesskey      "Y">
+<!ENTITY moveButton.label            "Symud I">
+<!ENTITY moveButton.accesskey        "I">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Agor yn Ffolder">
 <!ENTITY openInFolder.accesskey      "A">
 <!ENTITY saveAsVFButton.label        "Cadw fel Ffolder Chwilio">
 <!ENTITY saveAsVFButton.accesskey    "a">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Chwilio yn:">
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Priodweddau">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Ysgrifennu">
 <!ENTITY composeButton.accesskey     "Y">
+<!ENTITY deleteCardButton.label      "Dileu">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Chwilio Uwch drwy'r Llyfr Cyfeiriadau">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Edefyn">
 <!ENTITY fromColumn.label "Oddi wrth">
 <!ENTITY recipientColumn.label "Derbynnydd">
@@ -55,8 +57,8 @@
 <!ENTITY starredColumn.label "Serennog">
 <!ENTITY locationColumn.label "Lleoliad">
 <!ENTITY idColumn.label "Trefn Derbyniwyd">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
 <!ENTITY threadColumn.tooltip "Cliciwch i ddangos edafedd negeseuon"> 
 <!ENTITY fromColumn.tooltip "Cliciwch i drefnu oddi wrth">
@@ -76,4 +78,3 @@
 <!ENTITY starredColumn.tooltip "Cliciwch i drefnu yn ôl seren">
 <!ENTITY locationColumn.tooltip "Cliciwch i drefnu yn ôl lleoliad">
 <!ENTITY idColumn.tooltip "Cliciwch i drefnu yn ôl trefn derbyniwyd">
-

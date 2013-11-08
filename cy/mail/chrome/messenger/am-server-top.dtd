@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Storfa Negeseuon">
 <!ENTITY securitySettings.label "Gosodiadau Diogelwch">
@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "Gwirio am negeseuon newydd bob ">
 <!ENTITY biffStart.accesskey "w">
 <!ENTITY biffEnd.label "munud">
-<!ENTITY connectionSecurity.label "Diogelwch y Cysylltiad:">
+<!ENTITY connectionSecurity.label "Diogelwch y cysylltiad:">
 <!ENTITY connectionSecurity.accesskey "D">
 <!ENTITY connectionSecurityType-0.label "Dim">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, os ar gael">
@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Diddymu'n syth">
 <!ENTITY modelDeleteImmediately.accesskey "i">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Glanhau'r (&quot;Expunge&quot;) Blwch Derbyn wrth Adael">
+<!ENTITY expungeOnExit.label "Glanhau&apos;r (&quot;Expunge&quot;) Blwch Derbyn wrth Adael">
 <!ENTITY expungeOnExit.accesskey "G">
 <!ENTITY emptyTrashOnExit.label "Gwagio'r Sbwriel wrth Adael">
 <!ENTITY emptyTrashOnExit.accesskey "A">
@@ -72,16 +72,15 @@
 <!ENTITY abbreviate.label "Dangos enwau'r grŵp newyddion yn y paen Ffolder E-bost, fel:">
 <!ENTITY abbreviateOn.label "Enwau llawn (e.e, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Enwau byr (e.e. 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Uwch...">
+<!ENTITY advancedButton.label "Uwch…">
 <!ENTITY advancedButton.accesskey "U">
 <!ENTITY serverDefaultCharset.label "Amgodiad Nod Rhagosodedig:">
 <!ENTITY localPath.label "Cyfeiriadur lleol:">
 <!ENTITY localFolderPicker.label "Dewis Cyfeiriadur Lleol">
-<!ENTITY browseFolder.label "Pori...">
+<!ENTITY browseFolder.label "Pori…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY browseNewsrc.label "Pori...">
+<!ENTITY browseNewsrc.label "Pori…">
 <!ENTITY browseNewsrc.accesskey "o">
 
 <!ENTITY accountTitle.label "Gosodiadau Cyfrif">
-<!ENTITY accountSettingsDesc.label "Mae hwn yn gyfrif arbennig. Nid oes hunaniaethau wedi'u cysylltu ag ef.">
-
+<!ENTITY accountSettingsDesc.label "Mae hwn yn gyfrif arbennig.  Nid oes hunaniaethau wedi'u cysylltu ag ef.">

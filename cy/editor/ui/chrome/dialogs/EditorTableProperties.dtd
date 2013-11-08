@@ -25,14 +25,14 @@
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "picseli rhwng celloedd">
 <!ENTITY tablePxBetwBrdrCellContent.label "picseli rhwng border celloedd a'r cynnwys">
-<!ENTITY tableAlignment.label             "Aliniad y Tabl">
+<!ENTITY tableAlignment.label             "Aliniad y Tabl:">
 <!ENTITY tableAlignment.accessKey         "T">
 <!ENTITY tableCaption.label               "Pennawd:">
 <!ENTITY tableCaption.accessKey           "e">
 <!ENTITY tableCaptionAbove.label          "Uwchlaw'r Tabl">
-<!ENTITY tableCaptionBelow.label          "Islaw'r Tabl ">
+<!ENTITY tableCaptionBelow.label          "Islaw'r Tabl">
 <!ENTITY tableCaptionLeft.label           "Chwith y Tabl">
-<!ENTITY tableCaptionRight.label          "De'r Tabl">
+<!ENTITY tableCaptionRight.label          "De'r tabl">
 <!ENTITY tableCaptionNone.label           "Dim">
 <!ENTITY tableInheritColor.label           "(Gadael i liw'r dudalen ddangos drwodd)">
 
@@ -61,11 +61,11 @@
 <!ENTITY cellAlignTop.label               "Brig">
 <!ENTITY cellAlignMiddle.label            "Canol">
 <!ENTITY cellAlignBottom.label            "Gwaelod">
-<!ENTITY cellAlignJustify.label           "Unioni ">
+<!ENTITY cellAlignJustify.label           "Unioni">
 <!ENTITY cellInheritColor.label           "(Gadael lliw'r tabl ddangos trwodd)">
 <!ENTITY cellUseCheckboxHelp.label        "Defnyddio blychau ticio i bennu pa briodweddau sy'n cael eu cymhwyso i bob un o'r celloedd">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Maint">
 <!ENTITY pixels.label                     "picseli">
 <!ENTITY backgroundColor.label            "Lliw Cefndir:">
@@ -73,4 +73,3 @@
 <!ENTITY AlignLeft.label                  "Chwith">
 <!ENTITY AlignCenter.label                "Canol">
 <!ENTITY AlignRight.label                 "De">
-

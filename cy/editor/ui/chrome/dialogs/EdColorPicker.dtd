@@ -13,11 +13,10 @@
 <!ENTITY default.accessKey "R">
 <!ENTITY palette.label "Palet:">
 <!ENTITY standardPalette.label "Safonol">
-<!ENTITY webPalette.label "Pob lliw gwe ">
+<!ENTITY webPalette.label "Pob lliw gwe">
 <!ENTITY background.label "Cefndir i:">
 <!ENTITY background.accessKey "e">
 <!ENTITY table.label "Tabl">
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Cell(oedd)">
 <!ENTITY cell.accessKey "C">
-

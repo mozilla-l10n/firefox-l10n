@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Rheolau Hidlo">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Enw'r Hidl:">
+<!ENTITY filterName.label "Enw'r hidl:">
 <!ENTITY filterName.accesskey "E">
 
 <!ENTITY junk.label "Sbam">
@@ -17,16 +17,20 @@
 <!ENTITY highestPriorityCmd.label "Uchaf">
 
 <!ENTITY contextDesc.label "Gosod yr hidl pan:">
-<!ENTITY contextDesc.accesskey "G">
-<!ENTITY contextIncoming.label "Gwirio E-bost">
+<!ENTITY contextIncomingMail.label "Estyn E-bost Newydd:">
+<!ENTITY contextIncomingMail.accesskey "E">
 <!ENTITY contextManual.label "Rhedeg â Llaw">
-<!ENTITY contextBoth.label "Gwirio E-bost neu Rhedeg â Llaw">
-<!ENTITY contextPostPlugin.label "Gwirio E-bost (ar ôl eu dosbarthu)">
-<!ENTITY contextPostPluginBoth.label "Gwirio E-bost (ar ôl eu dosbarthu) neu Rhedeg â Llaw">
+<!ENTITY contextManual.accesskey "L">
+<!ENTITY contextBeforeCls.label "Hidlo cyn Dynodi fel Sbam">
+<!ENTITY contextAfterCls.label "Hidlo wedi Dynodi fel Sbam">
+
 <!ENTITY filterActionDesc.label "Cyflawni'r gweithredoedd:">
 <!ENTITY filterActionDesc.accesskey "C">
 
+<!ENTITY filterActionOrderWarning.label "Sylw: Bydd gweithredoedd hidlo'n cael eu rhedeg mewn trefn gwahanol.">
+<!ENTITY filterActionOrder.label "Gw. trefn weithredu">
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Symud Neges i">
 <!ENTITY copyMessage.label "Copïo Neges i">
 <!ENTITY forwardTo.label "Anfon Neges Ymlaen i">
@@ -47,12 +51,11 @@
 
 <!ENTITY addAction.tooltip "Ychwanegu gweithred newydd">
 <!ENTITY removeAction.tooltip "Tynnu'r weithred hon">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
-

@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Priodweddau Llinell Lorweddol">
 
 <!ENTITY dimensionsBox.label "Dimensiynau">
@@ -24,5 +24,4 @@
 <!ENTITY threeDShading.accessKey "G">
 <!ENTITY saveSettings.label "Defnyddio fel Rhagosodiad">
 <!ENTITY saveSettings.accessKey "R">
-<!ENTITY saveSettings.tooltip "Cadw'r gosodiadau hyn i'w defnyddio wrth fewnosod llinellau llorweddol newydd.">
-
+<!ENTITY saveSettings.tooltip "Cadw'r gosodiadau hyn i'w defnyddio wrth fewnosod llinellau llorweddol newydd">

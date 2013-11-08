@@ -5,14 +5,14 @@
 <!ENTITY window.title "Hidlau Negeseuon">
 <!ENTITY nameColumn.label "Enw Hidl">
 <!ENTITY activeColumn.label "Galluogwyd">
-<!ENTITY newButton.label "Newydd...">
+<!ENTITY newButton.label "Newydd…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Golygu...">
+<!ENTITY editButton.label "Golygu…">
 <!ENTITY editButton.accesskey "G">
 <!ENTITY deleteButton.label "Dileu">
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY reorderTopButton "Symud i'r Brig">
-<!ENTITY reorderTopButton.accessKey "B">
+<!ENTITY reorderTopButton.accessKey "o">
 <!ENTITY reorderTopButton.toolTip "Ad-drefnu'r hidl fel ei fod yn gweithredu cyn pob un arall">
 <!ENTITY reorderUpButton.label "Symud i Fyny">
 <!ENTITY reorderUpButton.accesskey "F">
@@ -37,8 +37,5 @@
 <!ENTITY helpButton.label "Cymorth">
 <!ENTITY helpButton.accesskey "y">
 <!ENTITY closeCmd.key "W"> 
-<!ENTITY searchBox.emptyText "Chwilio yn ôl enw...">
-
-
-
+<!ENTITY searchBox.emptyText "Chwilio yn ôl enw…">
 

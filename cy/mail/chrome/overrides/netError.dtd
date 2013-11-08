@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisio Eto">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Methu cysylltu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -19,18 +19,19 @@
 <!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Gwiriwch y cyfeiriad am wallau teipio megis 
-<strong>ww</strong>.example.com yn lle 
-<strong>www</strong>.example.com</li> 
-<li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> 
-<li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We. </li> 
+<strong>ww</strong>.esiampl.com yn lle 
+<strong>www</strong>.esiampl.com</li> 
+<li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich 
+cyfrifiadur.</li> 
+<li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu
+ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
-<!ENTITY fileNotFound.longDesc "<ul>
-  <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li>
-  <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li>
-</ul>
- ">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> 
+<li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> 
+</ul>">
 
 <!ENTITY generic.title "Wps.">
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
@@ -50,22 +51,18 @@
 <!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen hon ar gael yn y storfa.</p><ul><li>Fel cam diogelwch nid yw, &brandShortName; yn ail ofyn am ddogfennau sensitif yn awtomatig.</li><li>Cliciwch Ceisio Eto i ail ofyn am y ddogfen o'r wefan.</li></ul>">
 
 <!ENTITY netOffline.title "Modd all-lein">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Ceisio eto&quot; i'r modd ar-lein ac ail lwytho'r dudalen.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Press &quot;Ceisio eto&quot; i&apos;r modd ar-lein ac ail lwytho&apos;r dudalen.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Gwall amgodio cynnwys">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Math ffeil anniogel">
-<!ENTITY unsafeContentType.longDesc "
-<ul> 
-  <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Cafodd y cysylltiad ei ailosod">
@@ -75,15 +72,15 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Heb ddeall y cyfeiriad">
-<!ENTITY protocolNotFound.longDesc "<ul>
- <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li>
-</ul>
-">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Mae'r gweinydd dirprwy yn gwrthod cysylltiadau">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> 
-<li>Cysylltwch eich gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> 
+<li>Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd 
+dirprwyol yn gweithio.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Methu canfod y gweinydd dirprwyol">
@@ -100,14 +97,16 @@ yn siŵr fod gan &brandShortName; fynediad i'r we.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
-<!ENTITY unknownSocketType.longDesc "
-<ul> 
+<!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi'i osod.</li> 
 <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Methodd y cysylltiad diogel">
-<!ENTITY nssFailure2.longDesc " <ul>   <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li>   <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul> ">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li> 
+<li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Methodd y cysylltiad diogel">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -117,28 +116,22 @@ yn rhywun sy'n ceisio dynwared y gweinydd.</li>
 mai gwall dros dro ydyw ac i geisio eto yn ddiweddarach.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc "
-<ul> 
-  <li>Efallai bod y wefan yn brysur neu nad yw ar gael dros dro. Ceisiwch eto 
+<!ENTITY sharedLongDesc "<ul> 
+<li>Efallai bod y wefan yn brysur neu nad yw ar gael dros dro. Ceisiwch eto 
 ymhen ychydig.</li> 
-  <li>Os nad ydych yn gallu llwytho unrhyw dudalennau, gwiriwch gysylltiad rhwydwaith 
+<li>Os nad ydych yn gallu llwytho unrhyw dudalennau, gwiriwch gysylltiad rhwydwaith 
 eich cyfrifiadur.</li> 
-  <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy, 
-gwnewch yn siŵr fod gan &brandShortName;  hawl i fynediad i'r we.</li> 
-</ul>
-">
+<li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy, 
+gwnewch yn siŵr fod gan &brandShortName; hawl i fynediad i'r we.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Gwefan ymosod posib!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Mae gwefan ymosod yn ceisio gosod rhaglenni i ddwyn gwybodaeth bersonol, defnyddio'r cyfrifiadur i ymosod ar eraill, neu ddifrodi eich system.</p> 
+<p>Gall berchnogion sy'n teimlo fod eu gwefan wedi ei gofnodi fel gwefan ymosod ar gam wneud cais am <a href='http://www.stopbadware.org/home/reviewinfo' >adolygiad</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Amheuaeth o dwyll gwe!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Gall gyflwyno gwybodaeth bersonol ar y dudalen hon arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
-<p>Mae'r math yma o dwyll ar y we yn cael eu defnyddio ar gyfer ymosodiad pysgota neu phishing attacks, lle mae tudalennau gwe neu e-byst twyllodrus yn cael eu defnyddio i efelychu ffynonellau rydych yn ymddiried ynddynt.</p>
-">
+<!ENTITY phishingBlocked.longDesc "<p>Gall gyflwyno gwybodaeth bersonol ar y dudalen hon arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
+<p>Mae'r math yma o dwyll ar y we yn cael eu defnyddio ar gyfer ymosodiad pysgota neu phishing attacks, lle mae tudalennau gwe neu e-byst twyllodrus yn cael eu defnyddio i efelychu ffynonellau rydych yn ymddiried ynddynt.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
@@ -146,20 +139,19 @@ gwnewch yn siŵr fod gan &brandShortName;  hawl i fynediad i'r we.</li>
 <!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y cynnwys rydych yn ceisio ei ddarllen oherwydd fod gwall yn nhrosglwyddo data wedi'i ganfod.</p><ul><li>Cysylltwch â'r perchnogion i'w hysbysu o'r anhawster.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad...">
+<!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allan o fan hyn!">
-<!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad...">
-
+<!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> \n
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL pell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
-

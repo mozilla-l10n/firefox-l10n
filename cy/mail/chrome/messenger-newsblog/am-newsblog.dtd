@@ -12,12 +12,13 @@
 <!ENTITY useQuickMode.label "Dangos crynodeb o erthygl yn lle llwytho tudalen gwe fel rhagosodiad"> 
 <!ENTITY useQuickMode.accesskey "c">
 
-<!ENTITY manageSubscriptions.label "Rheoli Tanysgrifiadau..."> 
+<!ENTITY manageSubscriptions.label "Rheoli Tanysgrifiadau…"> 
 <!ENTITY manageSubscriptions.accesskey "T">
 
+<!ENTITY feedWindowTitle.label "Dewin Cyfrif Llif">
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Blogiau a Llif Newyddion">
 <!ENTITY feeds.wizardShortName "Llif">
 <!ENTITY feeds.wizardLongName "Blogiau a Llif Newyddion">
 <!ENTITY feeds.wizardLongName.accesskey "B">
-

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Cyhoeddi Tudalen">
 <!ENTITY windowTitleSettings.label    "Gosodiadau Cyhoeddi">
 <!ENTITY publishTab.label             "Cyhoeddi">
 <!ENTITY settingsTab.label            "Gosodiadau">
 <!ENTITY publishButton.label          "Cyhoeddi">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Enw Gwefan:">
 <!ENTITY siteList.accesskey           "E">
 <!ENTITY siteList.tooltip             "Dewis y wefan rydych eisiau cyhoeddi iddi">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "R">
 <!ENTITY removeButton.label           "Tynnu Gwefan">
 <!ENTITY removeButton.accesskey       "T">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Gwefannau Cyhoeddi">
 <!ENTITY serverInfo.label             "Gwybodaeth am y Gweinydd">
 <!ENTITY loginInfo.label              "Gwybodaeth Mewngofnodi">
@@ -53,7 +53,7 @@
 <!ENTITY siteUrl.tooltip              "Cyfeiriad FTP:// neu HTTP:// sy'n cael ei ddarparu gan eich ISP neu wasanaeth gwesteio">
 <!ENTITY browseUrl.label              "Cyfeiriad HTTP eich tudalen cartref (e.e.: 'http://www.fyisp.com/fyenwdefnyddiwr'):">
 <!ENTITY browseUrl.accesskey          "H">
-<!ENTITY browseUrl.tooltip            "Cyfeiriad HTTP://  eich cyfeiriadur cartref (peidiwch cynnwys yr enw ffeil)">
+<!ENTITY browseUrl.tooltip            "Cyfeiriad HTTP:// eich cyfeiriadur cartref (peidiwch cynnwys yr enw ffeil)">
 <!ENTITY username.label               "Enw defnyddiwr:">
 <!ENTITY username.accesskey           "E">
 <!ENTITY username.tooltip             "Enw defnyddiwr i chi gael mewngofnodi i'ch gwasanaeth ISP neu westeio">
@@ -63,4 +63,3 @@
 <!ENTITY savePassword.label           "Cadw'r Cyfrinair">
 <!ENTITY savePassword.accesskey       "a">
 <!ENTITY savePassword.tooltip         "Dewis hwn i gadw eich cyfrinair yn ddiogel gan ddefnyddio'r Rheolwr Cyfrineiriau">
-

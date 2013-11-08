@@ -4,8 +4,7 @@
 
 <!ENTITY joinChatWindow.title           "Ymuno â sgwrs">
 <!ENTITY name.label                     "Ystafell">
-<!ENTITY optional.label                 "9dewisol)">
+<!ENTITY optional.label                 "(dewisol)">
 <!ENTITY account.label                  "Cyfrif">
 <!ENTITY autojoin.label                 "Awto-ymuno â'r Ystafell Sgwrsio">
 <!ENTITY autojoin.accesskey             "A">
-

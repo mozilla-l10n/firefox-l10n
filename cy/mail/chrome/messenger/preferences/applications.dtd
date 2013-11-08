@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label            "Math o Gynnwys ">
+<!ENTITY  typeColumn.label            "Math o Gynnwys">
 <!ENTITY  typeColumn.accesskey        "M">
 
 <!ENTITY  actionColumn2.label         "Gweithred">
@@ -17,9 +17,9 @@
 <!ENTITY saveTo.accesskey             "C">
 <!ENTITY alwaysAsk.label              "Gofyn i mi lle i gadw pob ffeil">
 <!ENTITY alwaysAsk.accesskey          "G">
-<!ENTITY chooseFolderWin.label        "Pori...">
+<!ENTITY chooseFolderWin.label        "Pori…">
 <!ENTITY chooseFolderWin.accesskey    "P">
-<!ENTITY chooseFolderMac.label        "Dewis...">
+<!ENTITY chooseFolderMac.label        "Dewis…">
 <!ENTITY chooseFolderMac.accesskey    "D">
 
 <!ENTITY attachments.incoming.label   "Derbyn">
@@ -36,4 +36,3 @@
 
 <!ENTITY enableCloudFileAccountOffer.label "Cynnig rhannu ar gyfer ffeiliau mwy na">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
-

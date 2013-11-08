@@ -15,7 +15,7 @@
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Ffont:">
-<!ENTITY font.accesskey                       "f">
+<!ENTITY font.accesskey                       "F">
 <!ENTITY size.label                           "Maint:">
 <!ENTITY size.accesskey                       "M">
 <!ENTITY fontColor.label                      "Lliw Testun:">
@@ -48,15 +48,14 @@
 <!ENTITY directories.label                     "Gweinydd Cyfeiriadur:">
 <!ENTITY directories.accesskey                 "G">
 <!ENTITY directoriesNone.label                 "Dim">
-<!ENTITY editDirectories.label                 "Golygu Cyfeiriaduron...">
+<!ENTITY editDirectories.label                 "Golygu Cyfeiriaduron…">
 <!ENTITY editDirectories.accesskey             "G">
 
 <!ENTITY sendOptionsDescription.label          "Ffurfweddi ymddygiad fformat testun">
-<!ENTITY sendOptions.label                     "Dewisiadau Anfon...">
+<!ENTITY sendOptions.label                     "Dewisiadau Anfon…">
 <!ENTITY sendOptions.accesskey                 "A">
 
 <!ENTITY attachmentReminder.label              "Gwirio am atodiadau coll">
 <!ENTITY attachmentReminder.accesskey          "w">
-<!ENTITY attachmentReminderOptions.label       "Allweddeiriau...">
+<!ENTITY attachmentReminderOptions.label       "Allweddeiriau…">
 <!ENTITY attachmentReminderOptions.accesskey   "A">
-

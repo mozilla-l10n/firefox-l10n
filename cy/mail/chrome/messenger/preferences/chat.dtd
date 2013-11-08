@@ -6,15 +6,15 @@
 <!ENTITY  startupAction.accesskey     "P">
 <!ENTITY  startupOffline.label        "Cadw fy Nghyfrifon Sgwrsio all-lein">
 <!ENTITY  startupConnectAuto.label    "Cysylltu fy nghyfrifon sgwrsio yn awtomatig">
-
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+
 <!ENTITY  reportIdleAfter.label         "Hysbysu fy nghysylltiadau fy mod yn Segur ar ôl">
-<!ENTITY  reportIdleAfter.accesskey     "s">
+<!ENTITY  reportIdleAfter.accesskey     "S">
 <!ENTITY  idleTime                      "munud o seibiant">
 
 <!ENTITY  andSetStatusToAway.label      "a dynodi fy statws i I Ffwrdd gyda'r neges statws yma:">
@@ -22,4 +22,3 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Anfon hysbysiadau teipio mewn trafodaethau">
 <!ENTITY  sendTyping.accesskey          "h">
-

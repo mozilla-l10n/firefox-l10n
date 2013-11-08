@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Cymorth">
 <!ENTITY helpMenu.accesskey "C">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY helpTroubleshootingInfo.label     "Gwybodaeth am Ddatrys Problemau">
 <!ENTITY helpTroubleshootingInfo.accesskey "G">
-<!ENTITY helpSafeMode.label     "Ailgychwyn gydag Ychwanegion wedi'u Hanalluogi...">
+<!ENTITY helpSafeMode.label     "Ailgychwyn gydag Ychwanegion wedi'u Hanalluogi…">
 <!ENTITY helpSafeMode.accesskey "A">
 <!ENTITY releaseCmd2.label "Nodiadau Rhyddhau">
 <!ENTITY releaseCmd2.accesskey "N">
@@ -19,11 +19,10 @@
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY openHelp.label "Cynnwys Cymorth">
 <!ENTITY openHelp.accesskey "y">
-<!ENTITY openHelp.commandkey "V">
+<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Cymorth &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Ynghylch &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "Y">
-

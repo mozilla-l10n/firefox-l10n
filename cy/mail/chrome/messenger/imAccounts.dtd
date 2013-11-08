@@ -21,11 +21,10 @@
 <!ENTITY account.disconnect.accesskey "D">
 <!ENTITY account.edit.label           "Priodweddau">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Symud i Fyny">
-<!ENTITY account.movedown.label       "Symud i Lawr">
+<!ENTITY account.moveup.label         "Symud i fyny">
+<!ENTITY account.movedown.label       "Symud i lawr">
 <!ENTITY account.cancelReconnection.label         "Diddymu ailgysylltu">
 <!ENTITY account.cancelReconnection.accesskey     "D">
-<!ENTITY account.connecting           "Cysylltu...">
-<!ENTITY account.disconnecting        "Datgysylltu...">
+<!ENTITY account.connecting           "Cysylltu…">
+<!ENTITY account.disconnecting        "Datgysylltu…">
 <!ENTITY account.disconnected         "Heb Gysylltu">
-

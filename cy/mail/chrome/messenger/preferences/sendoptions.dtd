@@ -12,7 +12,7 @@
 <!ENTITY sendHTML.label               "Anfon y neges mewn HTML beth bynnag">
 <!ENTITY sendHTML.accesskey           "n">
 <!ENTITY sendBoth.label               "Anfon y neges mewn testun plaen a HTML">
-<!ENTITY sendBoth.accesskey           "a">
+<!ENTITY sendBoth.accesskey           "A">
 <!ENTITY override.label               "Sylw: Defnyddiwch y Llyfr Cyfeiriadau i bennu fformat testun dewisol ar gyfer derbyniwr.">
 
 <!ENTITY domaindesc.label             "Pan fyddwch yn anfon neges i gyfeiriad gydag un o'r enwau parth sydd wedi rhestri isod, bydd &brandShortName;yn anfon y neges yn ei fformat cywir yn awtomatig.">
@@ -20,9 +20,9 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Parthau Testun Plaen">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Ychwanegu...">
+<!ENTITY AddHtmlDomain.label          "Ychwanegu…">
 <!ENTITY AddHtmlDomain.accesskey      "Y">
-<!ENTITY AddPlainText.label           "Ychwanegu...">
+<!ENTITY AddPlainText.label           "Ychwanegu…">
 <!ENTITY AddPlainText.accesskey       "c">
 <!ENTITY DeleteHtmlDomain.label       "Dileu">
 <!ENTITY DeleteHtmlDomain.accesskey   "D">
@@ -33,4 +33,3 @@
 <!ENTITY add.htmldomain               "Enw Parth HTML:">
 <!ENTITY add.plaintexttitle           "Ychwanegu Enw Parth Testun Plaen">
 <!ENTITY add.plaintextdomain          "Enw Parth Testun Plaen:">
-

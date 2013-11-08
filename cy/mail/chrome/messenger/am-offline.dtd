@@ -28,24 +28,24 @@
 <!ENTITY retentionKeepRecent.label "Dileu pob un heblaw'r mwyaf diweddar">
 <!ENTITY retentionKeepRecent.accesskey "i">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Dileu pob neges wedi'i ddarllen">
+<!ENTITY retentionKeepUnreadHidden.label "Dileu pob neges wedi'i ddarllen (yn drech na gosodiadau oed)">
 <!ENTITY retentionApplyToFlagged.label "Cadw pob tro negeseuon serennog">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Tynnu corff neges mwy na">
 <!ENTITY nntpRemoveMsgBody.accesskey "c">
-<!ENTITY offlineSelectNntp.label "Dewis grwpiau newyddion ar gyfer defnydd all-lein...">
+<!ENTITY offlineSelectNntp.label "Dewis grwpiau newyddion ar gyfer defnydd all-lein…">
 <!ENTITY offlineSelectNntp.accesskey "g">
-<!ENTITY offlineImapAdvancedOffline.label "Uwch...">
+<!ENTITY offlineImapAdvancedOffline.label "Uwch…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "U">
 <!ENTITY syncGroupTitle.label "Cydweddu Negeseuon">
 <!ENTITY diskspaceGroupTitle.label "Lle ar Ddisg">
-
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+
 <!ENTITY allAutosync.label               "Cydweddu pob neges yn lleol beth bynnag yw eu hoed">
 <!ENTITY allAutosync.accesskey           "C">
 <!ENTITY ageAutosyncBefore.label         "Cydweddu'r mwyaf diweddar">
@@ -56,4 +56,3 @@
 <!ENTITY monthAgeInterval.label          "Mis">
 <!ENTITY yearAgeInterval.label           "Blwyddyn">
 <!ENTITY ageAutosyncAfter.label          "">
-

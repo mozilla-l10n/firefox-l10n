@@ -4,7 +4,7 @@
 
 <!ENTITY autoconfigWizard.title          "Gosod Cyfrif E-bost">
 <!ENTITY name.label                      "Eich enw:">
-<!ENTITY name.accesskey                  "e">
+<!ENTITY name.accesskey                  "E">
 <!ENTITY name.placeholder                "Cyntaf Olaf">
 <!ENTITY name.text                       "Eich enw fel mae'n cael ei ddangos i eraill">
 <!ENTITY email.label                     "Cyfeiriad e-bost:">
@@ -84,6 +84,5 @@
 <!ENTITY insecureServer.tooltip.details  "Cliciwch y cylch am ragor o wybodaeth.">
 
 <!ENTITY insecureUnencrypted.description "Mae eich e-bost a'ch dilysu yn cael eu hanfon heb eu hamgryptio, felly mae modd i eraill ddarllen eich cyfrinair (a'ch neges) yn hawdd. Bydd &brandShortName; yn caniatáu i chi estyn eich e-bost ond dylech gysylltu â'ch darparwr ynghylch ffurfweddu'r gweinydd gyda chysylltiad diogel.">
-<!ENTITY insecureSelfSigned.description  "Mae'r gweinydd yn defnyddio tystysgrif nad ydym yn gallu ymddiried ynddi, felly nid ydym yn gallu bod yn siŵr nad oes rhywun yn cipio'r traffig rhwng  &brandShortName; a'ch gweinydd. Bydd &brandShortName; yn caniatáu i chi estyn eich e-bost ond dylech sicrhau fod y darparwr e-bost yn ffurfweddu'r gweinydd gyda tystysgrif mae modd ymddiried ynddi.">
+<!ENTITY insecureSelfSigned.description  "Mae'r gweinydd yn defnyddio tystysgrif nad ydym yn gallu ymddiried ynddi, felly nid ydym yn gallu bod yn siŵr nad oes rhywun yn cipio'r traffig rhwng &brandShortName; a'ch gweinydd. Bydd &brandShortName; yn caniatáu i chi estyn eich e-bost ond dylech sicrhau fod y darparwr e-bost yn ffurfweddu'r gweinydd gyda tystysgrif mae modd ymddiried ynddi.">
 <!ENTITY secureServer.description        "Llongyfarchiadau! Mae hwn yn weinydd diogel.">
-

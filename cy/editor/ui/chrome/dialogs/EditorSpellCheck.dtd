@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Gwirio Sillafu">
 
 <!ENTITY misspelledWord.label "Gair wedi'i gamsillafu:">
@@ -23,17 +23,16 @@
 <!ENTITY stopButton.label "Atal">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Geiriadur Personol:">
-<!ENTITY moreDictionaries.label "Llwytho Rhagor i Lawr">
+<!ENTITY moreDictionaries.label "Llwytho rhagor o eiriaduron i lawr…">
 <!ENTITY addToUserDictionaryButton.label "Ychwanegu Gair">
 <!ENTITY addToUserDictionaryButton.accessKey "G">
-<!ENTITY editUserDictionaryButton.label "Golygu...">
+<!ENTITY editUserDictionaryButton.label "Golygu…">
 <!ENTITY editUserDictionaryButton.accessKey "G">
 <!ENTITY recheckButton.label "Ailwirio Tudalen">
 <!ENTITY recheckButton.accessKey "A">
 <!ENTITY closeButton.label "Cau">
 <!ENTITY closeButton.accessKey "u">
 <!ENTITY sendButton.label "Anfon">
-<!ENTITY sendButton.accessKey "S">
+<!ENTITY sendButton.accessKey "A">
 <!ENTITY languagePopup.label "Iaith:">
 <!ENTITY languagePopup.accessKey "I">
-

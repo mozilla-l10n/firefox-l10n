@@ -17,7 +17,6 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Tanysgrifio">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Negeseuon"> -->
+<!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Dango eitemau sy'n cynnwys:">
 <!ENTITY namefield.accesskey          "D">
-

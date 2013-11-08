@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Gosodiadau Sbam">
-<!ENTITY trainingDescription.label "Os yw wedi'i alluogi, bydd rhaid i chi ddysgu &brandShortName; i adnabod sbam drwy ddefnyddio'r botwm bar offer Sbam i farcio negeseuon fel sbam neu beidio. Rhaid i chi adnabod negeseuon sbam a'r rhai nad ydynt yn sbam.">
+<!ENTITY trainingDescription.label "Os yw wedi'i alluogi, bydd rhaid i chi ddysgu &brandShortName; i adnabod sbam drwy ddefnyddio'r botwm bar offer Sbam i farcio negeseuon fel sbam neu beidio. Rhaid i chi adnabod negeseuon sbam a'r rhai nad ydynt yn sbam. Wedyn bydd &brandShortName; yn gallu nodi sbam yn awtomatig.">
 <!ENTITY level.label "Galluogi rheolaeth addasol e-bost sbam ar gyfer y cyfrif hwn">
 <!ENTITY level.accesskey "s">
 
 <!ENTITY move.label "Symud sbam newydd i:">
 <!ENTITY move.accesskey "S">
-<!ENTITY junkFolderOn.label "Ffolder &quot;Sbam&quot;  yn:">
+<!ENTITY junkFolderOn.label "Ffolder &quot;Sbam&quot; yn:">
 <!ENTITY junkFolderOn.accesskey "F">
 <!ENTITY otherFolder.label "Arall:">
 <!ENTITY otherFolder.accesskey "A">
@@ -27,3 +27,5 @@
 <!ENTITY junkClassification.label "Dewis">
 <!ENTITY junkActions.label "Cyrchfan a Chadw">
 
+<!ENTITY globalJunkPrefs.label "Dewisiadau Sbam Eang…">
+<!ENTITY globalJunkPrefs.accesskey "E">

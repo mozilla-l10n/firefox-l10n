@@ -26,7 +26,7 @@
 
 <!ENTITY smaller.label          "Llai">
 <!ENTITY larger.label           "Mwy">
-<!ENTITY bold.label             "Trwm ">
+<!ENTITY bold.label             "Trwm">
 <!ENTITY bullets.label          "Bwledi">
 <!ENTITY numbers.label          "Rhifau">
 <!ENTITY italic.label           "Italig">
@@ -36,5 +36,4 @@
 
 <!ENTITY absolutePosition.label "Lleoli absoliwt">
 <!ENTITY decreaseZIndex.label   "Anfon i'r cefn">
-<!ENTITY increaseZIndex.label   "Bring to front">
-
+<!ENTITY increaseZIndex.label   "Dwyn i'r blaen">

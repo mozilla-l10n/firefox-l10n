@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
+<!ENTITY windowTitle.label "Priodweddau Rhestr Dewis">
 
 <!ENTITY Select.label "Rhestr Dewis">
 <!ENTITY SelectName.label "Enw Rhestr:">
@@ -11,22 +11,22 @@
 <!ENTITY SelectSize.accesskey "U">
 <!ENTITY SelectMultiple.label "Dewis Niferus">
 <!ENTITY SelectMultiple.accesskey "D">
-<!ENTITY SelectDisabled.label "Anablwyd">
+<!ENTITY SelectDisabled.label "Analluogwyd">
 <!ENTITY SelectDisabled.accesskey "A">
 <!ENTITY SelectTabIndex.label "Mynegai Tab:">
-<!ENTITY SelectTabIndex.accesskey "m">
+<!ENTITY SelectTabIndex.accesskey "M">
 
 <!ENTITY OptGroup.label "Grŵp Dewis">
 <!ENTITY OptGroupLabel.label "Label:">
 <!ENTITY OptGroupLabel.accesskey "L">
 <!ENTITY OptGroupDisabled.label "Anablwyd">
-<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroupDisabled.accesskey "d">
 
 <!ENTITY Option.label "Dewis">
 <!ENTITY OptionText.label "Testun:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Gwerth:">
-<!ENTITY OptionValue.accesskey "g">
+<!ENTITY OptionValue.accesskey "G">
 <!ENTITY OptionSelected.label "Dewis Cyntaf">
 <!ENTITY OptionSelected.accesskey "D">
 <!ENTITY OptionDisabled.label "Anablwyd">
@@ -46,4 +46,3 @@
 <!ENTITY MoveElementUp.accesskey "F">
 <!ENTITY MoveElementDown.label "Symud i Lawr">
 <!ENTITY MoveElementDown.accesskey "L">
-

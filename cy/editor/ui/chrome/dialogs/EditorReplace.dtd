@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from EdReplace.xul -->
+
 
 <!ENTITY replaceDialog.title "Canfod ac Amnewid">
 <!ENTITY findField.label "Canfod testun:">
@@ -20,8 +20,7 @@
 <!ENTITY replaceButton.label "Amnewid">
 <!ENTITY replaceButton.accesskey "A">
 <!ENTITY replaceAndFindButton.label "Amnewid a Chanfod">
-<!ENTITY replaceAndFindButton.accesskey "a">
+<!ENTITY replaceAndFindButton.accesskey "A">
 <!ENTITY replaceAllButton.label "Amnewid Popeth">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Cau">
-

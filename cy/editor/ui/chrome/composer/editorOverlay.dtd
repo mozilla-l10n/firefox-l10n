@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY saveCmd.key "S">
 
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
+
 <!ENTITY pasteNoFormatting.label "Gludo heb fformatio">
 <!ENTITY pasteNoFormatting.accesskey "G">
 <!ENTITY pasteNoFormatting.key "V">
@@ -15,43 +15,43 @@
 <!ENTITY pasteAs.accesskey "G">
 <!ENTITY pasteAsQuotationCmd.label "Gludo fel Dyfyniad">
 <!ENTITY pasteAsQuotationCmd.accesskey "D">
-<!ENTITY pasteAsQuotationCmd.key "Q">
-<!ENTITY findCmd.label "Canfod ac Amnewid...">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findCmd.label "Canfod ac Amnewid…">
 <!ENTITY enableInlineSpellChecker.label "Gwirio Sillafu Wrth Deipio">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Check Spelling">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "Gwirio Sillafu…">
+<!ENTITY checkSpellingCmd2.accesskey "G">
 <!ENTITY checkSpellingCmd2.key "p">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "Mewnosod">
 <!ENTITY insertMenu.accesskey "M">
-<!ENTITY insertLinkCmd.label "Dolen...">
+<!ENTITY insertLinkCmd.label "Dolen…">
 <!ENTITY insertLinkCmd.accesskey "D">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Angor a Enwyd...">
+<!ENTITY insertAnchorCmd.label "Angor a Enwyd…">
 <!ENTITY insertAnchorCmd.accesskey "A">
-<!ENTITY insertImageCmd.label "Delwedd...">
+<!ENTITY insertImageCmd.label "Delwedd…">
 <!ENTITY insertImageCmd.accesskey "D">
-<!ENTITY insertHLineCmd.label "Llinell Lorweddol ">
-<!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabl...">
+<!ENTITY insertHLineCmd.label "Llinell Llorweddol">
+<!ENTITY insertHLineCmd.accesskey "l">
+<!ENTITY insertTableCmd.label "Tabl…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Nodau a Symbolau...">
+<!ENTITY insertCharsCmd.label "Nodau a Symbolau…">
 <!ENTITY insertCharsCmd.accesskey "N">
 <!ENTITY insertBreakAllCmd.label "Toriad Islaw Delwedd(au)">
 <!ENTITY insertBreakAllCmd.accesskey "I">
-
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "Creu Dolen...">
+
+<!ENTITY createLinkCmd.label "Creu Dolen…">
 <!ENTITY createLinkCmd.accesskey "D">
 <!ENTITY editLinkCmd.label "Golygu'r ddolen o fewn Cyfansoddwr Newydd">
 <!ENTITY editLinkCmd.accesskey "G">
-
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Dewiswch Ffont">
+
+<!ENTITY FontFaceSelect.tooltip "Dewiswch ffont">
 <!ENTITY fontfaceMenu.label "Ffont">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Lled Newidiol">
@@ -65,16 +65,19 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "Dewiswch faint y ffont">
 <!ENTITY decreaseFontSize.label "Llai">
 <!ENTITY decreaseFontSize.accesskey "L">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Mwy">
 <!ENTITY increaseFontSize.accesskey "M">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Maint">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -92,13 +95,13 @@
 <!ENTITY size-x-largeCmd.accesskey "w">
 <!ENTITY size-xx-largeCmd.label "mawr iawn, iawn">
 <!ENTITY size-xx-largeCmd.accesskey "n">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "Arddull Testun">
 <!ENTITY fontStyleMenu.accesskey "A">
-<!ENTITY styleBoldCmd.label "Trwm ">
+<!ENTITY styleBoldCmd.label "Trwm">
 <!ENTITY styleBoldCmd.accesskey "T">
-<!ENTITY styleBoldCmd.key "T">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Italig">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
@@ -109,7 +112,7 @@
 <!ENTITY styleStrikeThruCmd.accesskey "o">
 <!ENTITY styleSuperscriptCmd.label "Uwchysgrif">
 <!ENTITY styleSuperscriptCmd.accesskey "U">
-<!ENTITY styleSubscriptCmd.label "Isysgrif ">
+<!ENTITY styleSubscriptCmd.label "Isysgrif">
 <!ENTITY styleSubscriptCmd.accesskey "I">
 <!ENTITY styleNonbreakingCmd.label "Ddim yn torri">
 <!ENTITY styleNonbreakingCmd.accesskey "D">
@@ -119,7 +122,7 @@
 <!ENTITY styleStrong.accesskey "C">
 <!ENTITY styleCite.label "Dyfyniad">
 <!ENTITY styleCite.accesskey "D">
-<!ENTITY styleAbbr.label "Byrfodd ">
+<!ENTITY styleAbbr.label "Byrfodd">
 <!ENTITY styleAbbr.accesskey "B">
 <!ENTITY styleAcronym.label "Acronym">
 <!ENTITY styleAcronym.accesskey "A">
@@ -130,9 +133,9 @@
 <!ENTITY styleVar.label "Newidiol">
 <!ENTITY styleVar.accesskey "N">
 
-<!ENTITY formatFontColor.label "Lliw'r Testun...">
+<!ENTITY formatFontColor.label "Lliw'r Testun…">
 <!ENTITY formatFontColor.accesskey "L">
-<!ENTITY tableOrCellColor.label "Lliw Cefndir y Tabl neu'r Gell...">
+<!ENTITY tableOrCellColor.label "Lliw Cefndir y Tabl neu'r Gell…">
 <!ENTITY tableOrCellColor.accesskey "C">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -161,8 +164,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "C">
 <!ENTITY paragraphPreformatCmd.label "Rhagfformatio">
 <!ENTITY paragraphPreformatCmd.accesskey "R">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "Rhestr">
 <!ENTITY formatlistMenu.accesskey "R">
 <!ENTITY noneCmd.label "Dim">
@@ -175,7 +178,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Diffiniad">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Priodweddau'r Rhestr...">
+<!ENTITY listPropsCmd.label "Priodweddau'r Rhestr…">
 <!ENTITY listPropsCmd.accesskey "R">
 
 <!ENTITY ParagraphSelect.tooltip "Dewiswch fformat paragraff">
@@ -185,8 +188,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Priodweddau Uwch">
 <!ENTITY advancedPropertiesCmd.accesskey "U">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "Alinio">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Chwith">
@@ -198,30 +201,30 @@
 <!ENTITY alignRight.label "De">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Alinio i'r Dde">
-<!ENTITY alignJustify.label "Unioni ">
+<!ENTITY alignJustify.label "Unioni">
 <!ENTITY alignJustify.accesskey "U">
-<!ENTITY alignJustify.tooltip "Alinio Unioni ">
-
+<!ENTITY alignJustify.tooltip "Alinio Unioni">
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "Haen">
 <!ENTITY layerSendToBack.tooltip "Anfon i'r Cefn">
 <!ENTITY layerBringToFront.tooltip "Dwyn i'r Blaen">
 
-<!ENTITY increaseIndent.label "Cynyddu'r Mewnoliad ">
+<!ENTITY increaseIndent.label "Cynyddu'r Mewnoliad">
 <!ENTITY increaseIndent.accesskey "y">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Lleihau Mewnoliad">
 <!ENTITY decreaseIndent.accesskey "L">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Lliwiau Tudalen a Chefndir...">
+<!ENTITY colorsAndBackground.label "Lliwiau Tudalen a Chefndir…">
 <!ENTITY colorsAndBackground.accesskey "L">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "Tabl">
 <!ENTITY tableMenu.accesskey "b">
-
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Dewis">
 <!ENTITY tableSelectMenu.accesskey "D">
 
@@ -231,8 +234,8 @@
 <!ENTITY tableInsertMenu2.accesskey "M">
 <!ENTITY tableDeleteMenu2.label "Dileu Tabl">
 <!ENTITY tableDeleteMenu2.accesskey "D">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "Mewnosod">
 <!ENTITY tableInsertMenu.accesskey "M">
 <!ENTITY tableTable.label "Tabl">
@@ -265,22 +268,22 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Dileu">
 <!ENTITY tableDeleteMenu.accesskey "D">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
-<!ENTITY tableSplitCell.label "Rhannu Cell ">
+<!ENTITY tableSplitCell.label "Rhannu Cell">
 <!ENTITY tableSplitCell.accesskey "R">
 <!ENTITY convertToTable.label "Creu Tabl o'r Dewis">
 <!ENTITY convertToTable.accesskey "D">
-<!ENTITY tableProperties.label "Priodweddau Tabl....">
+<!ENTITY tableProperties.label "Priodweddau Tabl…">
 <!ENTITY tableProperties.accesskey "P">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "Bar Dewislen">
 <!ENTITY formatToolbar.tooltip "Bar Offer Fformatio">
 <!ENTITY cutToolbarCmd.tooltip "Torri">
@@ -294,24 +297,24 @@
 <!ENTITY spellToolbarCmd.tooltip "Gwirio sillafu o adran neu o'r dudalen gyfan">
 <!ENTITY imageToolbarCmd.label "Delwedd">
 <!ENTITY imageToolbarCmd.tooltip "Mewnosod delwedd newydd neu olygu priodweddau'r ddelwedd">
-<!ENTITY hruleToolbarCmd.label "Llinell L">
+<!ENTITY hruleToolbarCmd.label "H.Line">
 <!ENTITY hruleToolbarCmd.tooltip "Mewnosod llinell lorweddol neu olygu priodweddau'r ddelwedd">
-<!ENTITY tableToolbarCmd.label "Table">
+<!ENTITY tableToolbarCmd.label "Tabl">
 <!ENTITY tableToolbarCmd.tooltip "Mewnosod tabl newydd neu olygu priodweddau'r tabl">
 <!ENTITY linkToolbarCmd.label "Dolen">
 <!ENTITY linkToolbarCmd.tooltip "Mewnosod dolen newydd neu olygu priodweddau'r ddolen">
-<!ENTITY anchorToolbarCmd.label "Anchor">
+<!ENTITY anchorToolbarCmd.label "Angor">
 <!ENTITY anchorToolbarCmd.tooltip "Mewnosod angor a enwyd neu olygu priodweddau'r angor">
 <!ENTITY TextColorButton.tooltip "Dewiswch liw i'r testun">
-<!ENTITY BackgroundColorButton.tooltip "Dewiswch liw i'r cefndir ">
+<!ENTITY BackgroundColorButton.tooltip "Dewiswch liw i'r cefndir">
 <!ENTITY throbber.tooltip "Mynd i dudalen gartref &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Dewis lliw amlygu ar gyfer y testun">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Maint ffont lai">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Maint ffont mwy">
-<!ENTITY boldToolbarCmd.tooltip "Trwm ">
-<!ENTITY italicToolbarCmd.tooltip "Italic">
+<!ENTITY boldToolbarCmd.tooltip "Trwm">
+<!ENTITY italicToolbarCmd.tooltip "Italig">
 <!ENTITY underlineToolbarCmd.tooltip "Tanlinellu">
 <!ENTITY bulletListToolbarCmd.tooltip "Gosod neu ddiddymu rhestr bwledi">
 <!ENTITY numberListToolbarCmd.tooltip "Gosod neu ddiddymu rhestr rhifedig">
@@ -321,24 +324,23 @@
 <!ENTITY InsertPopupButton.tooltip "Mewnosod Dolen, Angor, Delwedd, Llinell Lorweddol neu Dabl">
 <!ENTITY alignLeftButton.tooltip "Alinio testun ar hyd yr ymyl chwith">
 <!ENTITY alignCenterButton.tooltip "Alinio testun wedi'i ganoli">
-<!ENTITY alignRightButton.tooltip "Alinio testun ar hyd yr ymyl dde ">
+<!ENTITY alignRightButton.tooltip "Alinio testun ar hyd yr ymyl dde">
 <!ENTITY alignJustifyButton.tooltip "Alinio testun ar hyd ymylon de a chwith">
-
 <!-- Structure Toolbar Context Menu items -->
+
 <!ENTITY structSelect.label         "Dewis">
 <!ENTITY structSelect.accesskey     "D">
 <!ENTITY structRemoveTag.label      "Tynnu tag">
-<!ENTITY structRemoveTag.accesskey  "t">
+<!ENTITY structRemoveTag.accesskey  "T">
 <!ENTITY structChangeTag.label      "Newid tag">
 <!ENTITY structChangeTag.accesskey  "N">
-
 <!-- TOC manipulation -->
+
 <!ENTITY insertTOC.label          "Mewnosod">
 <!ENTITY insertTOC.accesskey      "M">
 <!ENTITY updateTOC.label          "Diweddaru">
 <!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "Tynnu">
 <!ENTITY removeTOC.accesskey      "T">
-<!ENTITY tocMenu.label            "Tabl Cynnwys...">
+<!ENTITY tocMenu.label            "Tabl Cynnwys…">
 <!ENTITY tocMenu.accesskey        "C">
-

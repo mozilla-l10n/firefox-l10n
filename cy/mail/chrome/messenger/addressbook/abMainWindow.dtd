@@ -3,43 +3,43 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Llyfr Cyfeiriadau">
-
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label                                 "Ffeil">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Newydd">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Cysylltiad Llyfr Cyfeiriadau...">
+<!ENTITY newContact.label                               "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "C">
-<!ENTITY newListCmd.label                               "Rhestr E-bostio...">
+<!ENTITY newListCmd.label                               "Rhestr E-bostio…">
 <!ENTITY newListCmd.accesskey                           "R">
-<!ENTITY newAddressBookCmd.label                        "Llyfr Cyfeiriadau">
+<!ENTITY newAddressBookCmd.label                        "Llyfr Cyfeiriadau…">
 <!ENTITY newAddressBookCmd.accesskey                    "L">
-<!ENTITY newLDAPDirectoryCmd.label                      "Cyfeiriadur LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "Cyfeiriadur LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "y">
 <!ENTITY newMessageCmd.label                            "Neges">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "N">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Defnyddio Llyfr Cyfeiriadau Mac OS X ">
+<!ENTITY osxAddressBook.label                           "Defnyddio Llyfr Cyfeiriadau Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Cau">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "u">
-<!ENTITY printSetupCmd.label                            "Gosodiad Tudalen...">
+<!ENTITY printSetupCmd.label                            "Gosodiad Tudalen…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "Rhagolwg Argraffu'r Cysylltiad">
 <!ENTITY printPreviewContactCmd.accesskey               "R">
 <!ENTITY printPreviewAddressBook.label                  "Rhagolwg Argraffu Llyfr Cyfeiriadau">
 <!ENTITY printPreviewAddressBook.accesskey              "A">
-<!ENTITY printContactCmd.label                          "Argraffu'r Cysylltiad">
+<!ENTITY printContactCmd.label                          "Argraffu'r Cysylltiad…">
 <!ENTITY printContactCmd.accesskey                      "A">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Argraffu'r Llyfr Cyfeiriadau...">
+<!ENTITY printAddressBook.label                         "Argraffu'r Llyfr Cyfeiriadau…">
 <!ENTITY printAddressBook.accesskey                     "L">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label                                 "Golygu">
 <!ENTITY editMenu.accesskey                             "G">
 <!ENTITY undoCmd.label                                  "Dadwneud">
@@ -59,7 +59,7 @@
 <!ENTITY pasteCmd.accesskey                             "G">
 <!ENTITY deleteCmd.label                                "Dileu">
 <!ENTITY deleteCmd.accesskey                            "D">
-<!ENTITY deleteAbCmd.label                              "Delete Address Book">
+<!ENTITY deleteAbCmd.label                              "Dileu Llyfr Cyfeiriadau">
 <!ENTITY deleteContactCmd.label                         "Dileu Cysylltiad">
 <!ENTITY deleteContactsCmd.label                        "Dileu Cysylltiadau">
 <!ENTITY deleteListCmd.label                            "Dileu Rhestr">
@@ -74,11 +74,11 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Priodweddau...">
+<!ENTITY propertiesCmd.label                            "Priodweddau…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label                                 "Golwg">
 <!ENTITY viewMenu.accesskey                             "l">
 <!ENTITY viewToolbarsMenu.label                         "Barrau Offer">
@@ -89,7 +89,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Bar Statws">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Cyfaddasu...">
+<!ENTITY customizeToolbar.label                         "Cyfaddasu…">
 <!ENTITY customizeToolbar.accesskey                     "C">
 <!ENTITY layoutMenu.label                               "Cynllun">
 <!ENTITY layoutMenu.accesskey                           "y">
@@ -109,25 +109,25 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "Trefnu yn ôl">
 <!ENTITY sortMenu.accesskey                             "T">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label                                "Offer">
 <!ENTITY tasksMenu.accesskey                            "O">
 <!ENTITY messengerCmd.label                             "E-bost a Grwpiau Newyddion">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Chwilio Cyfeiriadau...">
+<!ENTITY searchAddressesCmd.label                       "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
-<!ENTITY importCmd.label                                "Mewnforio...">
+<!ENTITY importCmd.label                                "Mewnforio…">
 <!ENTITY importCmd.accesskey                            "M">
-<!ENTITY exportCmd.label                                "Allforio...">
+<!ENTITY exportCmd.label                                "Allforio…">
 <!ENTITY exportCmd.accesskey                            "A">
-<!ENTITY preferencesCmd.label                           "Dewisiadau...">
+<!ENTITY preferencesCmd.label                           "Dewisiadau…">
 <!ENTITY preferencesCmd.accesskey                       "D">
 <!ENTITY preferencesCmdUnix.label                       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey                   "e">
-
 <!-- Address Book Toolbar and Context Menus -->  
+
 <!ENTITY newContactButton.label                         "Cysylltiad Newydd">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Rhestr Newydd">
@@ -140,26 +140,26 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey                                "N">
 <!ENTITY deleteButton2.label                            "Dileu">
 <!ENTITY deleteButton2.accesskey                        "D">
-
 <!-- Address Book Toolbar Tooltips -->
+
 <!ENTITY newContactButton.tooltip                       "Creu cysylltiad llyfr cyfeiriadau newydd">
 <!ENTITY newlistButton.tooltip                          "Creu rhestr newydd">
 <!ENTITY editButton2.tooltip                            "Golygu'r eitem hon">
 <!ENTITY newmsgButton.tooltip                           "Anfon neges e-bost">
-<!ENTITY newIM.tooltip                                  "Send an instant message or chat">
+<!ENTITY newIM.tooltip                                  "Anfon neges chwim neu sgwrs">
 <!ENTITY deleteButton2.tooltip                           "Dileu'r eitem hon">
-
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Llyfrau Cyfeiriadau">
 
+<!ENTITY dirTreeHeader.label                            "Llyfrau Cyfeiriadau">
 <!-- Search Bar -->
+
 <!ENTITY SearchNameOrEmail.label                        "Enw neu E-bost">
 <!ENTITY SearchNameOrEmail.accesskey                    "E">
 <!ENTITY advancedButton.tooltip                         "Chwilio cyfeiriadau uwch">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Chwilio Cyflym">
-
 <!-- Results Pane -->
+
 <!ENTITY GeneratedName.label                            "Enw">
 <!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "E-bost">
@@ -190,11 +190,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "E">
 <!ENTITY sortDescending.label                           "Disgyn">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey                        "o">
-
+<!ENTITY _PhoneticName.label                            "Enw Seinegol">
+<!ENTITY _PhoneticName.accesskey                        "S">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
 <!ENTITY contact.heading                                "Cysylltiad">
 <!ENTITY home.heading                                   "Cartref">
 <!ENTITY other.heading                                  "Arall">
@@ -207,14 +207,13 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Estyn Map">
 <!ENTITY mapIt.tooltip                                  "Dangos map o'r cyfeiriad o'r We">
-
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
 
+<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY windowMenu.label "Ffenestr">
 <!ENTITY minimizeWindow.label "Lleihau">
-<!ENTITY minimizeWindow.key "L">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
-
