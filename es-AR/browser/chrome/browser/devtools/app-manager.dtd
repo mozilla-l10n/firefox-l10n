@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Depurar">
 <!ENTITY device.debugAppTooltip "Abre las herramientas de desarrollador conectadas a esta aplicación en el dispositivo.">
 <!ENTITY device.name "Nombre">
-<!ENTITY device.app "Aplicación">
+<!ENTITY device.plain "Simple (predeterminada)">
 <!ENTITY device.privileged "Privilegiada">
 <!ENTITY device.certified "Certificada">
 <!ENTITY device.allow "Permitir">
