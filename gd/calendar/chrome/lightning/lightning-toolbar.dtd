@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Clàr-taice na h-aplacaid">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Seall clàr-taice &brandShortName;">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Seall clàr-taice &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Leòsan a' mhìosachain">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "m">
+<!ENTITY lightning.toolbar.calendarpane.label        "Seall leòsan a' mhìosachain">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "m">
