@@ -225,7 +225,7 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "កែសម្រួល">
 <!ENTITY contextmenu_subscribe "ជាវ​ទំព័រ​នេះ">
 <!ENTITY contextmenu_site_settings "កែ​ការ​កំណត់​តំបន់​បណ្ដាញ">
-
+<!ENTITY contextmenu_top_sites_edit "កែសម្រួល">
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 
@@ -275,7 +275,7 @@ size. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
 
 <!ENTITY home_history_title "ប្រវត្តិ">
-
+<!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_open "បើក​ផ្ទាំង​ទាំងអស់​ពី​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
