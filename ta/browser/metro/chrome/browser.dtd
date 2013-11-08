@@ -17,7 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript ஷெல்லைத் திற">
 <!ENTITY appbarFindInPage2.label    "இந்த பக்கத்தில் தேடு">
 <!ENTITY appbarViewOnDesktop2.label "பணித்திரையில் காண்">
-
+<!ENTITY appbarMSMetaData2.label    "இந்த தளத்திற்க்கான பயன்பாட்டை பெறு">
 
 <!ENTITY topSitesHeader.label        "சிறந்த தளங்கள்">
 <!ENTITY bookmarksHeader.label       "புத்தககுறிகள்">
