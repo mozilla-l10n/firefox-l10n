@@ -28,10 +28,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "கடவுச்சொற்களை நினைவு கொள்">
 <!ENTITY doNotTrack.title                                        "தடமறிய வேண்டாம்">
-
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
+<!ENTITY doNotTrack.options.doTrack                              "என்னை கண்காணிக்க வேண்டும் என வலைத்தளங்களிடம் சொல்">
+<!ENTITY doNotTrack.options.default                              "வலைத்தளங்களுக்கு என் கண்காணிப்பு விருப்பங்களை பற்றி எதுவும் சொல்ல வேண்டாம்">
+<!ENTITY doNotTrack.learnMoreLink                                "மேலும் அறிய&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "செயலிழப்பு அறிக்கையாளர்">
 <!ENTITY optionsHeader.reporting.crashes.label                   " Mozilla உங்கள் உலாவியை மேலும் நிலைத்தன்மை கொண்டதாகவும் பாதுகாப்பானதாகவும் மாற்றுவதற்காக &brandShortName; செயலிழப்பு அறிக்கைகளை சமர்ப்பிக்கும்">
