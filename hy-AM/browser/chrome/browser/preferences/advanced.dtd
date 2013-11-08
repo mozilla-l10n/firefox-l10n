@@ -37,7 +37,7 @@
 <!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
 
 <!ENTITY healthReportSection.label       "&brandShortName;-ի Վիճակի զեկույց">
-<!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործության մասին և կիսվել տվյալներով &vendorShortName;-ի հետ">
+<!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և տարածել տվյալները &vendorShortName;-ի համար">
 <!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">
 <!ENTITY enableHealthReport.accesskey    "Զ">
 <!ENTITY healthReportLearnMore.label     "Մանրամասն">
