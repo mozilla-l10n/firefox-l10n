@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "নতুন ট্যাব">
-
+<!ENTITY newtab.undo.removedLabel "থাম্বনেল সরানো হয়েছে।">
 <!ENTITY newtab.undo.undoButton "পূর্বাবস্থা।">
 <!ENTITY newtab.undo.restoreButton "সমস্ত পুনরুদ্ধার করুন।">
 <!ENTITY newtab.undo.closeTooltip "আড়াল করুন">
