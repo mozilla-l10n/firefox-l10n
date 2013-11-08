@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opsi">
-<!ENTITY optionsHeader.startup.title                             "Mulai">
-<!ENTITY optionsHeader.homepage.title                            "Saat &brandShortName; dimulai, tampilkan">
-<!ENTITY optionsHeader.homepage.startPage.button                 "laman awal">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "tab yang terakhid dibuka">
 <!ENTITY optionsHeader.char.title                                "Pengodean Karakter">
 <!ENTITY optionsHeader.char.autodetect.label                     "Deteksi otomatis">
 <!ENTITY optionsHeader.char.options.label                        "Tampilkan opsi pengodean pada Bilah App">
@@ -32,10 +28,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Ingat Sandi">
 <!ENTITY doNotTrack.title                                        "Jangan Lacak">
-<!ENTITY doNotTrack.desc                                         "Beritahukan situs:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Saya tidak ingin dilacak">
-<!ENTITY doNotTrack.options.noPreference                         "Sama sekali jangan tentang preferensi pelacakan saya">
-<!ENTITY doNotTrack.options.trackingOkay                         "Saya ingin dilacak">
+<!ENTITY doNotTrack.options.doNotTrack                           "Beritahukan situs bahwa saya tidak ingin dilacak">
+<!ENTITY doNotTrack.options.doTrack                              "Beritahukan situs bahwa saya ingin dilacak">
+<!ENTITY doNotTrack.options.default                              "Jangan beri tahu situs tentang pengaturan pelacakan saya">
+<!ENTITY doNotTrack.learnMoreLink                                "Pelajari Selengkapnya&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Pelapor Kerusakan">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; mengirimkan laporan mogok untuk membantu  Mozilla make agar membuat peramban lebih aman dan stabil">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">

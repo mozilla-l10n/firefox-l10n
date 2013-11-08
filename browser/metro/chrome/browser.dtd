@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Buka shell JavaScript">
 <!ENTITY appbarFindInPage2.label    "Cari di laman">
 <!ENTITY appbarViewOnDesktop2.label "Buka di desktop">
+<!ENTITY appbarMSMetaData2.label    "Dapatkan app untuk situs ini">
 
 <!ENTITY topSitesHeader.label        "Situs Teratas">
 <!ENTITY bookmarksHeader.label       "Markah">
