@@ -9,7 +9,7 @@
 <!ENTITY aboutNetworking.http                  "Http">
 <!ENTITY aboutNetworking.sockets               "រន្ធ">
 <!ENTITY aboutNetworking.dns                   "DNS">
-
+<!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "ផ្ទុក​ឡើងវិញ">
 <!ENTITY aboutNetworking.autoRefresh           "ផ្ទុក​ឡើងវិញ​ដោយ​ស្វ័យប្រវត្តិ​នៅ​រាល់ ៣ វិនាទី​ម្ដង">
 <!ENTITY aboutNetworking.hostname              "ឈ្មោះ​ម៉ាស៊ីន">
@@ -20,12 +20,12 @@
 <!ENTITY aboutNetworking.idle                  "ទំនេរ">
 <!ENTITY aboutNetworking.host                  "ម៉ាស៊ីន">
 <!ENTITY aboutNetworking.tcp                   "TCP">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.sent                  "បាន​ផ្ញើ">
+<!ENTITY aboutNetworking.received              "បាន​ទទួល​​">
+<!ENTITY aboutNetworking.family                "គ្រួសារ">
+<!ENTITY aboutNetworking.addresses             "អាសយដ្ឋាន">
+<!ENTITY aboutNetworking.expires               "ផុតកំណត់ (វិនាទី)">
+<!ENTITY aboutNetworking.messagesSent          "បាន​ផ្ញើ​សារ">
+<!ENTITY aboutNetworking.messagesReceived      "បាន​ទទួល​សារ">
+<!ENTITY aboutNetworking.bytesSent             "បាន​ផ្ញើ​បៃ">
 <!ENTITY aboutNetworking.bytesReceived         "ចំនួន​បៃ​ដែល​បាន​ទទួល">
