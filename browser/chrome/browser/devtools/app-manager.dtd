@@ -78,6 +78,9 @@
 <!ENTITY projects.manifestEditorTooltip "Redigera appens manifest i nedanstående panel. Uppdatera-knappen sparar dina ändringar och uppdaterar appen.">
 <!ENTITY projects.manifestViewer "Manifestvisaren">
 <!ENTITY projects.manifestViewerTooltip "Undersök appens manifest i nedanstående panel.">
+<!ENTITY projects.valid "Giltigt">
+<!ENTITY projects.error "Fel">
+<!ENTITY projects.warning "Varning">
 
 <!ENTITY help.title "Hantera appar">
 <!ENTITY help.close "Stäng">
