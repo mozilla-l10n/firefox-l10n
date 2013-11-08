@@ -9,11 +9,12 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "Geliştiri araçlarını kapat">
 <!ENTITY toolboxOptionsButton.key      "O">
-
-
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
 
 <!ENTITY toolboxZoomIn.key             "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomIn.key2            "="> 
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
