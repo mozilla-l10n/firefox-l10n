@@ -31,7 +31,7 @@
 
 
 
-
+<!ENTITY doNotTrack.learnMoreLink                                "Meer inligting &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Omvalrapporteerder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; dien omvalverslae in om Mozilla te help om die blaaier meer stabiel en veilig te maak">
