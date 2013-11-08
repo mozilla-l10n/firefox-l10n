@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Түзету">
 <!ENTITY contextmenu_subscribe "Бетке жазылу">
 <!ENTITY contextmenu_site_settings "Сайт баптауларын түзету">
-<!ENTITY contextmenu_top_bookmarks_edit "Түзету">
-<!ENTITY contextmenu_top_bookmarks_pin "Сайтты бекіту">
-<!ENTITY contextmenu_top_bookmarks_unpin "Сайтты бекітуден босату">
+<!ENTITY contextmenu_top_sites_edit "Түзету">
+<!ENTITY contextmenu_top_sites_pin "Сайтты бекіту">
+<!ENTITY contextmenu_top_sites_unpin "Сайтты бекітуден босату">
 
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Парақ өшірілді">
 
-<!ENTITY bookmark_add "Бетбелгіні қосу">
 <!ENTITY bookmark_edit_title "Бетбелгіні түзету">
 <!ENTITY bookmark_edit_name "Аты">
 <!ENTITY bookmark_edit_location "Адрес">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Сайтты қосу">
 
 <!ENTITY home_history_title "Тарихы">
+<!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
 <!ENTITY home_last_tabs_title "Алдыңғы реттен қалған беттер">
 <!ENTITY home_last_tabs_open "Алдыңғы реттен барлық бетті ашу">
 <!ENTITY home_last_tabs_empty "Сіздің соңғы ашық беттеріңіз осында болады.">
 <!ENTITY home_most_recent_title "Ең соңғы">
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
-<!ENTITY home_most_visited_title "Көбірек қаралған">
 <!ENTITY home_reading_list_empty "Кейінірек үшін сақталған мақалалар осында болады.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "КЕҢЕС: Мақалаларды оқу тізіміне сақтау үшін атау жолағында оқу режимі таңбашасы шыққан кезде оны ұзақ басыңыз.">
 
-<!ENTITY home_most_visited_empty "Сіздің ең жиі ашылған веб сайттарыңыз осында болады.">
-<!ENTITY pin_bookmark_dialog_hint "Іздеу кілт сөзін енгізіңіз">
+<!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
 <!ENTITY filepicker_title "Файлды таңдау">
 <!ENTITY filepicker_audio_title "Дыбысты таңдау не жазып алу">
