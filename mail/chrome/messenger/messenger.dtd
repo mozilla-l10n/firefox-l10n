@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nova poruka">
 <!ENTITY appmenuNewContactCmd.label "Kontakt u adresaru…">
 <!ENTITY appmenuEditMenu.label "Uredi">
-<!ENTITY appmenuQFBMenu.label "Traka brzog filtriranja">
 <!ENTITY appmenuToolbarLayout.label "Raspored alatne trake…">
 <!ENTITY appmenuSelectThread.label "Označi skup poruka">
 <!ENTITY appmenuSelectFlagged.label "Označi poruke sa zvijezdicom">

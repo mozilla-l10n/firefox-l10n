@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Postavke stranice…">
 <!ENTITY printSetupCmd.accesskey "s">
+<!ENTITY printPreviewCmd.label "Pregled ispisa">
+<!ENTITY printPreviewCmd.accesskey "g">
 <!ENTITY printCmd.label "Ispis…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
