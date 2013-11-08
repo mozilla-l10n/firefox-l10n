@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 <!ENTITY contextmenu_subscribe "Tanysgrifio i Dudalen">
 <!ENTITY contextmenu_site_settings "Golygu Gosodiadau\u0027r Wefan">
-<!ENTITY contextmenu_top_bookmarks_edit "Golygu">
-<!ENTITY contextmenu_top_bookmarks_pin "Pinio Gwefan">
-<!ENTITY contextmenu_top_bookmarks_unpin "Dad-binio Gwefan">
+<!ENTITY contextmenu_top_sites_edit "Golygu">
+<!ENTITY contextmenu_top_sites_pin "Pinio Gwefan">
+<!ENTITY contextmenu_top_sites_unpin "Dad-binio Gwefan">
 
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Wedi tynnu\u0027r dudalen">
 
-<!ENTITY bookmark_add "Ychwanegu nod tudalen">
 <!ENTITY bookmark_edit_title "Golygu Nod Tudalen">
 <!ENTITY bookmark_edit_name "Enw">
 <!ENTITY bookmark_edit_location "Lleoliad">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Ychwanegu gwefan">
 
 <!ENTITY home_history_title "Hanes">
+<!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
 <!ENTITY home_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY home_last_tabs_open "Agor pob tab ers y tro diwethaf">
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
 <!ENTITY home_most_recent_title "Diweddaraf">
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
-<!ENTITY home_most_visited_title "Ymwelwyd amlaf">
 <!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Awgrym: Cadwch erthyglau i\u0027ch rhestr ddarllen drwy bwyso\u0027r botwm modd darllen pan fydd yn ymddangos yn y bar teitl.">
 
-<!ENTITY home_most_visited_empty "Bydd gwefannau rydych yn ymweld â nhw amlaf i\u0027w gweld yma.">
-<!ENTITY pin_bookmark_dialog_hint "Rhowch allweddair chwilio">
+<!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
 <!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
