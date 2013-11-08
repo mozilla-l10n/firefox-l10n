@@ -76,7 +76,7 @@
 <!ENTITY  securityView.identity.domain   "Malper:">
 <!ENTITY  securityView.identity.verifier "Piştrastkirin:">
 
-<!ENTITY  securityView.privacy.header                   "Dîroka takekesî a &amp; ">
+<!ENTITY  securityView.privacy.header                   "Ewlekarî û raborî">
 <!ENTITY  securityView.privacy.history                  "Gelo min îro serdana vê malperê kiribû?">
 <!ENTITY  securityView.privacy.cookies                  "Gelo ev malper di komputera min de agahiyan (çerezan ) tomar dike?">
 <!ENTITY  securityView.privacy.viewCookies              "Çerezan Nîşan Bide">

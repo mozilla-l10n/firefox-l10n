@@ -185,7 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Dîrok">
+<!ENTITY historyButton.label            "Raborî">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Amûr">
@@ -315,14 +315,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Taybet Bike"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
-<!ENTITY historyMenu.label "Dîrok">
-<!ENTITY historyMenu.accesskey "D">
+<!ENTITY historyMenu.label "Raborî">
+<!ENTITY historyMenu.accesskey "R">
 <!ENTITY historyUndoMenu.label "Hilpekînên di nêzîk de hatine girtin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Pencereyên di nêzîk de hatine girtin">
 <!ENTITY historyRestoreLastSession.label "Danişîna berê veava bike">
 
-<!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
+<!ENTITY showAllHistoryCmd2.label "Hemû raboriyê nîşan bide">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Takekes bike">
@@ -607,6 +607,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Ez ê çawa bizanim ku girêdana min û malperekê ewle ye yan na?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -700,7 +702,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY feedButton.label              "Bibe abone">
 <!ENTITY feedButton.tooltip            "Bibe abone ji bo vê rûpelê...">
 <!ENTITY bookmarksButton.tooltip       "Bijareyên xwe bibîne">
-<!ENTITY historyButton.tooltip         "Malperên ku di dîrokê de hatine vekirin bibîne">
+<!ENTITY historyButton.tooltip         "Malperên vê dawiyê hatine vekirin bibîne">
 <!ENTITY viewTabsOnTop.label           "Hilpekîn li Jorê">
 <!ENTITY viewTabsOnTop.accesskey       "H">
 <!ENTITY appMenuEdit.label             "Serastkirin">

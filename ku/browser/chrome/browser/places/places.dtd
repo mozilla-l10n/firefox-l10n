@@ -111,8 +111,8 @@
 <!ENTITY find.accesskey           "B">
 <!ENTITY view.label               "Bibîne">
 <!ENTITY view.accesskey           "B">
-<!ENTITY byDate.label             "Dîrok">
-<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.label             "Li gorî dîrokê">
+<!ENTITY byDate.accesskey         "d">
 <!ENTITY bySite.label             "Malper">
 <!ENTITY bySite.accesskey         "M">
 <!ENTITY byMostVisited.label      "Yên Herî Zêde Vebûne">
