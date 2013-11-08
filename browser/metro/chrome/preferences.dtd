@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Mogućnosti">
-<!ENTITY optionsHeader.startup.title                             "Pokretanje">
-<!ENTITY optionsHeader.homepage.title                            "Kad se &brandShortName; pokrene:">
-<!ENTITY optionsHeader.homepage.startPage.button                 "početna stranica">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "kartice od prošlog puta">
 <!ENTITY optionsHeader.char.title                                "Kodna stranica">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatsko otkrivanje">
 <!ENTITY optionsHeader.char.options.label                        "Prikaži mogućnosti kôdne stranice u App traci">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamti lozinke">
 <!ENTITY doNotTrack.title                                        "Ne prati me">
-<!ENTITY doNotTrack.desc                                         "Javi stranicama:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "da me ne prate">
-<!ENTITY doNotTrack.options.noPreference                         "ništa o mojim postavkama praćenja">
-<!ENTITY doNotTrack.options.trackingOkay                         "da me prate">
+
+
+
+
+
 <!ENTITY optionsHeader.reporting.title                           "Izvjestitelj rušenja">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; šalje izvještaje o rušenju kako bi Mozilla; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">

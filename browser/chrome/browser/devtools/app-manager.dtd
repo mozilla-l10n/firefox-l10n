@@ -58,6 +58,7 @@
 <!ENTITY connection.installAnotherSimulator "Dodaj">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instalirajte dodatnu verziju Simulatora preuzimanjem releventnog dodatka.">
 
+
 <!ENTITY projects.localApps "Lokalne aplikacije">
 <!ENTITY projects.addApp "Dodaj">
 <!ENTITY projects.addPackaged "Dodaj zapakiranu aplikaciju">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Otvara alate za razvijatelje povezane s ovom aplikacijom">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nema projekta. Dodajte novu zapakiranu aplikaciju ispod (lokalni direktorij) ili hostanu aplikaciju (poveznica do manifest datoteke).">
+
+
+
+
 
 <!ENTITY help.title "App Manager">
 <!ENTITY help.close "Zatvori">
