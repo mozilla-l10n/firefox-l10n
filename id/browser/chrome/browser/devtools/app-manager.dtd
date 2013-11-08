@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instal salah satu versi Simulator dengan mengunduh pengaya yang cocok.">
 <!ENTITY connection.installAnotherSimulator "Tambahkan">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instal versi lain Simulator dengan mengunduh pengaya yang cocok.">
+<!ENTITY connection.startRegisteredSimulator "Mulai:">
 
 <!ENTITY projects.localApps "App Lokal">
 <!ENTITY projects.addApp "Tambahkan">
@@ -73,6 +74,11 @@
 <!ENTITY projects.debugAppTooltip "Buka Alat Pengembang yang tersambung ke app ini">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Tidak ada proyek. Tambahka app paket di bawha ini (direktori lokal) atau app yang diinangkan (tautan ke berkas manifest).">
+<!ENTITY projects.manifestEditor "Editor Manifest">
+<!ENTITY projects.manifestEditorTooltip "Edit manifest aplikasi Anda pada panel di bawah ini. Tombol Perbarui dapat digunakan untuk menyimpan perubahan Anda dan memperbarui aplikasi Anda.">
+<!ENTITY projects.manifestViewer "Penampil Manifest">
+<!ENTITY projects.manifestViewerTooltip "Periksa manifest aplikasi Anda pada panel di bawah ini.">
+
 
 <!ENTITY help.title "Pengelola App">
 <!ENTITY help.close "Tutup">
