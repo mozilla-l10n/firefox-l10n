@@ -122,17 +122,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Կիսվել այս էջով              ">
+<!ENTITY sharePageCmd.label "Տարածել էջը">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "Կ">
-<!ENTITY shareLinkCmd.label "Կիսվել այս հղումով">
-<!ENTITY shareLinkCmd.accesskey "Կ">
-<!ENTITY shareImageCmd.label "Կիսվել այս նկարով">
-<!ENTITY shareImageCmd.accesskey "Կ">
-<!ENTITY shareSelectCmd.label "Կիսվել նշվածով">
-<!ENTITY shareSelectCmd.accesskey "Կ">
-<!ENTITY shareVideoCmd.label "Կիսվել այս տեսանյութով">
-<!ENTITY shareVideoCmd.accesskey "Կ">
+<!ENTITY sharePageCmd.accesskey "Տ">
+<!ENTITY shareLinkCmd.label "Տարածել հղումը">
+<!ENTITY shareLinkCmd.accesskey "Տ">
+<!ENTITY shareImageCmd.label "Տարածել նկարը">
+<!ENTITY shareImageCmd.accesskey "Տ">
+<!ENTITY shareSelectCmd.label "Տարածել նշվածը">
+<!ENTITY shareSelectCmd.accesskey "Տ">
+<!ENTITY shareVideoCmd.label "Տարածել տեսանյութը">
+<!ENTITY shareVideoCmd.accesskey "Տ">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
