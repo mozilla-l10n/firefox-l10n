@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Gece yarısı" >
 <!ENTITY time.noon "Öğlen" >
-
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
+
 <!ENTITY day.1.Ddd "Paz" >
 <!ENTITY day.1.Ddd.accesskey "P">
 <!ENTITY day.2.Ddd "Pzt" >
@@ -30,8 +30,8 @@
 <!ENTITY day.5.name "Perşembe" >
 <!ENTITY day.6.name "Cuma" >
 <!ENTITY day.7.name "Cumartesi" >
-
 <!-- Units -->
+
 <!ENTITY calendar.global.units.minute   "dakika">
 <!ENTITY calendar.global.units.minutes  "dakika">
 <!ENTITY calendar.global.units.hour     "saat">
@@ -58,4 +58,3 @@
 <!ENTITY onedayforward.tooltip "Bir gün ileri">
 <!ENTITY onedaybackward.tooltip "Bir gün geri">
 <!ENTITY showselectedday.tooltip "Seçilmiş gün için etkinlikleri göster">
-

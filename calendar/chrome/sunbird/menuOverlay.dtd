@@ -126,15 +126,15 @@
 
 <!ENTITY sunbird.export.calendar.label                     "Takvimi dışa aktar…">
 <!ENTITY sunbird.export.calendar.accesskey                 "a">
-
 <!-- Mac OS X "Window" menu items -->
+
 <!ENTITY windowMenu.label                                  "Pencere">
 <!ENTITY minimizeWindow.label                              "Küçült">
 <!ENTITY zoomWindow.label                                  "Yakınlaştırma">
 <!ENTITY minimizeWindow.key                                "K">
 <!ENTITY bringAllToFront.label                             "Hepsini ön plana al">
-
 <!-- Mac OS X Application menu items -->
+
 <!ENTITY servicesMenuMac.label                             "Hizmetler">
 <!ENTITY hideThisAppCmdMac.label                           "&brandShortName; uygulamasını gizle">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">
@@ -143,4 +143,3 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Tümünü göster">
-

@@ -1,57 +1,57 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Takvim">
 
+
+<!ENTITY lightning.preferencesLabel "Takvim">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Etkinlik...">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Görev…">
 <!ENTITY lightning.menupopup.new.task.accesskey "G">
 <!ENTITY lightning.menupopup.new.calendar.label "Takvim…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "T">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Aç">
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Kayıtlı iletiler…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "i">
 <!ENTITY lightning.menupopup.open.calendar.label      "Takvim dosyası…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "T">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Takvim">
 <!ENTITY lightning.menu.view.calendar.accesskey        "T">
 <!ENTITY lightning.menu.view.tasks.label               "Görevler">
 <!ENTITY lightning.menu.view.tasks.accesskey           "G">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Etkinlik ve görevler">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
-
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.email.label               "E-posta:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Bu ileti bir etkinliğe davetiyedir.">
 
+<!ENTITY lightning.imipbar.description "Bu ileti bir etkinliğe davetiyedir.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Yeni bir takvim oluştur">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Yeni bir takvim oluştur">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Küçük ay takvimi göster">
 <!ENTITY todaypane.showMinimonth.accesskey "K">
 <!ENTITY todaypane.showMiniday.label "Günü Kısaca Göster">
@@ -61,4 +61,3 @@
 <!ENTITY todaypane.showTodayPane.label "Bugünün Panelini Göster">
 <!ENTITY todaypane.showTodayPane.accesskey "ö">
 <!ENTITY todaypane.statusButton.label "Bugün penceresi">
-
