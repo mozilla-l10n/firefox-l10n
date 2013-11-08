@@ -74,7 +74,7 @@
 <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Daha büyük">
 <!ENTITY increaseFontSize.accesskey "b">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Boyut">

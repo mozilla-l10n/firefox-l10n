@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
+<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
+<!ENTITY printPreviewCmd.accesskey "Y">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "r">

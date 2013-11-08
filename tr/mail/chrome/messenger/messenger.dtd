@@ -170,8 +170,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "A">
 <!ENTITY sortByStarCmd.label "Yıldız">
 <!ENTITY sortByStarCmd.accesskey "z">
-<!ENTITY sortByAttachmentsCmd.label "Ek">
-<!ENTITY sortByAttachmentsCmd.accesskey "E">
+
+
 <!ENTITY sortByPriorityCmd.label "Öncelik">
 <!ENTITY sortByPriorityCmd.accesskey "n">
 <!ENTITY sortBySizeCmd.label "Boyut">
@@ -565,7 +565,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Yeni ileti">
 <!ENTITY appmenuNewContactCmd.label "Adres defteri kişisi…">
 <!ENTITY appmenuEditMenu.label "Düzenle">
-<!ENTITY appmenuQFBMenu.label "Hızlı süzgeç çubuğu">
 <!ENTITY appmenuToolbarLayout.label "Araç çubuğu düzeni…">
 
 
