@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;ஐ பற்றி">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; பரிசோதனை முயற்சியாகும், அது நிலைத்தன்மையற்றதாக இருக்கக்கூடும்.">
-
+<!ENTITY aboutPage.telemetryStart               " இது தானாகவே செயல்திறன், வன்பொருள், பயன்பாட்டளவு மற்றும் தனிபயனாக்கம் பற்றி பின்னனுப்புகிறது ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
+<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; ஐ நல்லதாக உருவாக்க உதவும்.">
 <!ENTITY aboutPage.checkForUpdates.link         "புதுப்பித்தல்களை சரிபார் »">
 <!ENTITY aboutPage.checkForUpdates.checking     "புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…">
 <!ENTITY aboutPage.checkForUpdates.none         "புதுப்பித்தல்கள் எதுவும் கிடைக்கவில்லை">
-
-
-
-
-
+<!ENTITY aboutPage.checkForUpdates.available2   "புதுப்பித்தல்களை பதிவிறக்கு">
+<!ENTITY aboutPage.checkForUpdates.downloading  "மேம்படுத்தலை பதிவிறக்குகிறது…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "புதுப்பித்தல்களை நிறுவு">
+<!ENTITY aboutPage.faq.label                    "அடிக்கடி வினவப்படும் கேள்விபதில்கள்">
+<!ENTITY aboutPage.support.label                "ஆதரவு">
 <!ENTITY aboutPage.privacyPolicy.label          "தனிப்பட்ட கொள்கை">
 <!ENTITY aboutPage.rights.label                 "உங்கள் உரிமையை தெரிந்துகொள்ளுங்கள்">
 <!ENTITY aboutPage.relNotes.label               "வெளியீட்டு குறிப்புகள்">
-
+<!ENTITY aboutPage.credits.label                "புகழ்கள்">
 <!ENTITY aboutPage.license.label                "உரிம தகவல்">

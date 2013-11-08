@@ -5,7 +5,7 @@
 <!ENTITY aboutAddons.title2                     "கூடுதல் இணைப்புகள்">
 <!ENTITY aboutAddons.header2                    "உங்களுடைய நீட்சிகள்">
 <!ENTITY aboutAddons.options                    "தேர்வுகள்">
-
+<!ENTITY aboutAddons.browseAll                  "பயர்பாக்ஸின் அனைத்து கூடுதல் இணைப்புகளையும் உலாவு">
 
 <!ENTITY addonAction.enable                     "செயல்படுத்து">
 <!ENTITY addonAction.disable                    "செயல்நீக்கு">
