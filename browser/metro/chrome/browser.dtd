@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Agor cragen JavaScript">
 <!ENTITY appbarFindInPage2.label    "Canfod yn y dudalen">
 <!ENTITY appbarViewOnDesktop2.label "Gweld ar y bwrdd gwaith">
+<!ENTITY appbarMSMetaData2.label    "Estyn ap ar gyfer y wefan">
 
 <!ENTITY topSitesHeader.label        "Hoff Wefannau">
 <!ENTITY bookmarksHeader.label       "Nodau Tudalen">

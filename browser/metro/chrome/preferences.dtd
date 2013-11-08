@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Dewisiadau">
-<!ENTITY optionsHeader.startup.title                             "Cychwyn">
-<!ENTITY optionsHeader.homepage.title                            "Pan fydd &brandShortName; yn cychwyn, dangos">
-<!ENTITY optionsHeader.homepage.startPage.button                 "tudalen cychwyn">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "tabiau ers tro diwethaf">
 <!ENTITY optionsHeader.char.title                                "Nodau Amgodio">
 <!ENTITY optionsHeader.char.autodetect.label                     "Awto-ganfod">
 <!ENTITY optionsHeader.char.options.label                        "Dangos dewisiadau amgodio ar y Bar Apiau">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Cofio Cyfrineiriau">
 <!ENTITY doNotTrack.title                                        "Peidiwch Dilyn">
-<!ENTITY doNotTrack.desc                                         "Dweud wrth gwefannau:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Nid wyf am gael fy nilyn">
-<!ENTITY doNotTrack.options.noPreference                         "Dim am fy newisiadau dilyn">
-<!ENTITY doNotTrack.options.trackingOkay                         "Rwyf am gael fy nilyn">
+<!ENTITY doNotTrack.options.doNotTrack                           "Dweud wrth wefannau: dim tracio">
+<!ENTITY doNotTrack.options.doTrack                              "Dweud wrth wefannau: croeso i chi dracio">
+<!ENTITY doNotTrack.options.default                              "Peidio dweud dim wrth wefannau am fy newidiadau tracio">
+<!ENTITY doNotTrack.learnMoreLink                                "Dysgu rhagor&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Adroddwr Chwalu">
 <!ENTITY optionsHeader.reporting.crashes.label                   "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo Mozilla i wneud eich porwr yn fwy cadarn a diogel">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetreg">

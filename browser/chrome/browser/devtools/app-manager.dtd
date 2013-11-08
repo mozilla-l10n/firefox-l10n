@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Gosod fersiwn o'r efelychydd drwy lwytho i lawr yr ychwanegyn perthnasol.">
 <!ENTITY connection.installAnotherSimulator "Ychwanegu">
 <!ENTITY connection.installAnotherSimulatorTooltip "Gosod fersiwn ychwanegol o'r Efelychydd drwy lwytho i lawr yr ychwanegyn perthnasol.">
+<!ENTITY connection.startRegisteredSimulator "Cychwyn:">
 
 <!ENTITY projects.localApps "Apiau Lleol">
 <!ENTITY projects.addApp "Ychwanegu">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Offer Datblygwyr Agored wedi ei gysylltu i'r ap">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Dim projectau. Ychwanegwch ap pecyn newydd isod (cyfeiriadur lleol) neu ap gwesteio (dolen i ffeil manifest).">
+<!ENTITY projects.manifestEditor "Golygydd y Manifest">
+<!ENTITY projects.manifestEditorTooltip "Golygwch fanifest eich ap yn y panel isod. Bydd y botwm Diweddaru cadw eich newidiadau ac yn diweddaru'r ap.">
+<!ENTITY projects.manifestViewer "Darllenydd Manifest">
+<!ENTITY projects.manifestViewerTooltip "Archwiliwch fanifest eich ap yn y panel isod.">
 
 <!ENTITY help.title "Rheolwr Apiau">
 <!ENTITY help.close "Cau">
