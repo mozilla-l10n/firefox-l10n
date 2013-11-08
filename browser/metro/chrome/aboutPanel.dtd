@@ -5,12 +5,13 @@
 
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Li nûkirinan digere…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Li hevgirtinên Add-onan vedinêre…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; rojane ye">
+<!ENTITY update.noUpdatesFound      "&brandShortName; nû ye">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Rêveberiya pergala te rojanekirin neçalak kirine">
+<!ENTITY update.adminDisabled       "Rêveberiya pergala te nûkirin neçalak kirine">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; ji hêla kopiyeke xwe ve tê nûkirin">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -27,7 +28,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Rojanekirin li virê ne: ">
+<!ENTITY update.manual.start        "Nûkirin li virê ne: ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -35,13 +36,14 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Rojanekirin tê daxistin — ">
+<!ENTITY update.downloading.start   "Nûkirin tê daxistin — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "Nûkirin tê sepandin…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Tu niha di kanala ">
-<!ENTITY channel.description.end    " rojanekirinê de yî.  ">
+<!ENTITY channel.description.end    " ya nûkirinê de yî.  ">
 

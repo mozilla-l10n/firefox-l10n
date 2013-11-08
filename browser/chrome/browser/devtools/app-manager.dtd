@@ -28,9 +28,9 @@
 <!ENTITY device.deny "Red bike">
 <!ENTITY device.denyTooltip "Ev cure sepan nikarin vê destûrê bi kar bînin.">
 <!ENTITY device.installedApps "Sepanên barkirî">
-
+<!ENTITY device.installedAppsTooltip "Li lîsteyeke sepanên li ser cîhazê hatine sazkirin binêre. Hinek sepanên, mîna sepanên pejirandî, dibe ku balê nekişandibin.">
 <!ENTITY device.permissions "Destûr">
-
+<!ENTITY device.permissionsTooltip "Tabloyeke ku destûrên xwegihandinê yên cureyên cuda yên sepanan, bibîne.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
 
@@ -45,7 +45,7 @@
 <!ENTITY connection.startSimulator "Destpêka Sîmulatorê">
 <!ENTITY connection.startSimulatorTooltip "Sîmulatorê bi mînakî bide destpêkirin û girêbide.">
 <!ENTITY connection.saveConnectionInfo "Guherandinan Tomar Bike">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Host û portê tomar bike.">
 <!ENTITY connection.connecting "Tê girêdan…">
 <!ENTITY connection.disconnecting "Girêdan tê qutkirin…">
 <!ENTITY connection.cancel "Betal">
@@ -63,20 +63,20 @@
 <!ENTITY projects.addApp "Têxê">
 <!ENTITY projects.addPackaged "Sepana pakêtkirî têxê">
 
-
+<!ENTITY projects.addHosted "Sepana bûye Host lê zêde bike">
 
 <!ENTITY projects.title "Sepanên Herêmî">
-
-
-
+<!ENTITY projects.appDetails "Kitekitên sepanê">
+<!ENTITY projects.removeAppFromList "Vê sepanê ji lîsteya sepanên dixebitînî rake. Ev ê wê ji cîhaz yan jî sîmulatorekê raneke.">
+<!ENTITY projects.updateApp "Nû bike">
 
 <!ENTITY projects.debugApp "Sererastkirina Çewtiyan">
 
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
-
-
-
-
+<!ENTITY projects.manifestEditor "Edîtora manîfestoyê">
+<!ENTITY projects.manifestEditorTooltip "Manîfestoya sepanên xwe ji panela jêrê serast bike. Bişkoka Nûkirinê dê guhertinên te tomar bike û sepanê nû bike.">
+<!ENTITY projects.manifestViewer "Nîşandera Manîfestoyê">
 
 
 <!ENTITY help.title "Birêveberiya Sepanê">

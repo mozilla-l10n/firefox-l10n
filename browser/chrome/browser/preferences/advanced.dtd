@@ -82,7 +82,7 @@
 <!ENTITY overrideSmartCacheSize.label    "Rêveberiya xweber a pêşbîrê binpê bike">
 <!ENTITY overrideSmartCacheSize.accesskey "R">
 
-<!ENTITY updateTab.label                 "Rojane Bike">
+<!ENTITY updateTab.label                 "Nû neke">
 
 <!ENTITY updateApp.label                 "Nûkirina &brandShortName;ê:">
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
@@ -102,8 +102,8 @@
 
 <!ENTITY updateAutoMetroWarn.label       "(&brandShortName;a bi şêweya Windows 8ê hevgirtina add-onan kontrol nake)">
 
-<!ENTITY updateHistory.label             "Mêjûya Rojanekirinan Nîşan Bide">
-<!ENTITY updateHistory.accesskey         "M">
+<!ENTITY updateHistory.label             "Raboriya nûkirinê nîşan bide">
+<!ENTITY updateHistory.accesskey         "R">
 
 <!ENTITY useService.label                "Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne">
 <!ENTITY useService.accesskey            "p">
