@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "Wys almal">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "Redigeer">
 <!ENTITY editMenu.accesskey                 "e">
 <!ENTITY undoCmd.label                      "Ontdoen">

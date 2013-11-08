@@ -40,7 +40,7 @@
 <!ENTITY sync.flyout.connected.device                     "Toestel:">
 <!ENTITY sync.flyout.connected.disconnect                 "Ontkoppel">
 
-
+<!ENTITY sync.flyout.connected.disconnectWarning          "Al u persoonlike data op dié toestel en die &syncBrand.shortName.label;-rekening sal ongeskonde bly.">
 <!ENTITY sync.flyout.connected.cancel                     "Kanselleer">
 <!ENTITY sync.flyout.connected.pair                       "Assosieer 'n toestel">
 <!-- Flyout when pairing a device -->
