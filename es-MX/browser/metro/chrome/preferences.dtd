@@ -7,35 +7,33 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opciones">
-<!ENTITY optionsHeader.startup.title                             "Inicio">
-<!ENTITY optionsHeader.homepage.title                            "Cuando &brandShortName; inicia, mostrar">
-<!ENTITY optionsHeader.homepage.startPage.button                 "página de inicio">
 
+<!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
+<!ENTITY optionsHeader.char.options.label                        "Mostrar opciones de codificación en la barra de aplicaciones">
 
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "Limpiar datos privados">
+<!ENTITY clearPrivateData.label                                  "Limpiar su historial de navegación, contraseñas, cookies y datos de formularios en este dispositivo">
+<!ENTITY clearPrivateData.button                                 "Limpiar">
+<!ENTITY clearPrivateData.done                                   "¡Hecho!">
+<!ENTITY clearPrivateData.history                                "Historial de navegación">
+<!ENTITY clearPrivateData.otherdata                              "Otros datos (contraseñas, caché, cookies, etc)">
 <!ENTITY clearPrivateData.downloadHist                           "Historial de descargas">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Formulario &amp; historial de búsqueda">
 <!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
 <!ENTITY clearPrivateData.offline                                "Datos de sitios web sin conexión">
 <!ENTITY clearPrivateData.logins                                 "Sesiones activas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
 <!ENTITY doNotTrack.title                                        "No rastrear">
-<!ENTITY doNotTrack.desc                                         "Decir a los sitios:">
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "Decir a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.options.doTrack                              "Decir a los sitios web que quiero ser rastreado">
+<!ENTITY doNotTrack.options.default                              "No decir a los sitios web nada sobre mis preferencias de rastreo">
+<!ENTITY doNotTrack.learnMoreLink                                "Saber más&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Reporte de fallos">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envía un reporte de fallos para ayudar a Mozilla a hacer tu navegador más estable y seguro">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-
+<!ENTITY optionsHeader.telemetry.label                            "Comparte estadísticas de uso acerca de &brandShortName; con Mozilla para ayudarnos a hacer tu navegador mejor">
