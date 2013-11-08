@@ -14,9 +14,9 @@
 <!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Proprietats…">
 <!ENTITY propertiesButton.accesskey "o">
-<!ENTITY descText.label "Descripcion de l'estampaira :">
+<!ENTITY descText.label "Descripcion de l'imprimenta :">
 <!ENTITY printer.label "Imprimenta">
-<!ENTITY printerInput.label "Nom de l'estampaira :">
+<!ENTITY printerInput.label "Nom de l'imprimenta :">
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Paginas">

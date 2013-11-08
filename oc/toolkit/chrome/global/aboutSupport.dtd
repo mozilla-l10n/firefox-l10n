@@ -9,12 +9,13 @@
 quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions
  correntas sus &brandShortName;, consultatz nòstre <a id='supportLink'>site Web d'assisténcia</a>.">
 
+<!ENTITY aboutSupport.crashes.title "Rapòrts de plantatge">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Identificant del rapòrt">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like date.heading in crashes.dtd. -->
-
+<!ENTITY aboutSupport.crashes.allReports "Rapòrts de plantatge">
 
 
 <!ENTITY aboutSupport.extensionsTitle "Extensions">

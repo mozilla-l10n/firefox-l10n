@@ -23,7 +23,7 @@ l'administrator del sistèma o tornatz ensajar amb un compte que a las permissio
 d'installar de logiciels sus aqueste ordenador.">
 <!ENTITY  manualUpdate.space.desc         "Una mesa a jorn d'estabilitat e de seguretat recomandada es disponibla, 
 mas dispausatz pas d'un espaci de disc sufisent per l'installar.">
-<!ENTITY  manualUpdateGetMsg.label        "Podètz totjorn obténer la darrièra version de &brandShortName; sus :">
+<!ENTITY  manualUpdateGetMsg.label        "Podètz obténer totjorn la darrièra version de &brandShortName; sus :">
 
 
 <!ENTITY  unsupportedLink.label           "ne saber mai.">
@@ -76,7 +76,7 @@ Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quicòm empacha &brandShortName; de se metre a jorn d'un biais segur. 
 Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
 <!ENTITY  errorCertAttrHasUpdate.label    "Quicòm ensaja d'enganar &brandShortName; en li prepausant una mesa a jorn 
- Pas segura. Contactatz vòstre provesidor de ret per demandar d'ajuda.">
+Pas segura. Contactatz vòstre provesidor de ret per demandar d'ajuda.">
 
 <!ENTITY  finishedPage.title              "Mesa a jorn prèsta a s'installar">
 <!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. 
@@ -84,7 +84,7 @@ Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar avi
 
 <!ENTITY  finishedBackgroundPage.text     "S'es telecargada una mesa a jorn de seguretat e d'estabilitat per &brandShortName;. 
 Es prèsta a èsser installada.">
-<!ENTITY  finishedBackground.name         "Mesa a jorn:">
+<!ENTITY  finishedBackground.name         "Mesa a jorn :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. 
 Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">

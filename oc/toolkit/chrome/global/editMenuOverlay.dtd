@@ -7,9 +7,9 @@
 <!ENTITY undoCmd.label             "Anullar">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "u">
-<!ENTITY redoCmd.label             "Tornar far">
+<!ENTITY redoCmd.label             "Restablir">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "T">
+<!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "Talhar">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "T">
@@ -28,8 +28,8 @@
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "c">
 <!ENTITY findAgainCmd.label        "Recercar lo seguent">
-<!ENTITY findAgainCmd.key          "t">
+<!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "n">
-<!ENTITY findPreviousCmd.label     "Recercar lo precendent">
+<!ENTITY findPreviousCmd.label     "Recercar lo precedent">
 <!ENTITY findPreviousCmd.accesskey "e">

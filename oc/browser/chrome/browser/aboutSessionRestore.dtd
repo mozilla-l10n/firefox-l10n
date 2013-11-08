@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Restablir la sesilha">
+<!ENTITY restorepage.tabtitle       "Restabliment de sesilha">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Bon, es embestiant.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; a de problèmas a recobrar vòstres fenèstras e onglets. En general, lo problèma ven d'una pagina web dobèrta fa pauc de temps.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; a de dificultats per restablir vòstras fenèstras e onglets. En general, lo problèma ven d'una pagina web dobèrta recentament.">
 <!ENTITY restorepage.tryThis        "Podètz ensajar de :">
-<!ENTITY restorepage.restoreSome    "levar un onglet (o mai) que poiriá causar lo problèma a vòstre vejaire">
+<!ENTITY restorepage.restoreSome    "suprimir un (o mai d'un) onglet que sospechatz qu'es a l'origina del problèma">
 <!ENTITY restorepage.startNew       "aviar una sesilha de navigacion novèla">
 
 <!ENTITY restorepage.tryagainButton "Restablir">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Tampar">
+<!ENTITY restorepage.closeButton    "R">
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Restablir">
@@ -23,7 +23,12 @@
 <!ENTITY restorepage.windowLabel    "Fenèstra &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Bon retorn !">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "Bon retorn !">
 

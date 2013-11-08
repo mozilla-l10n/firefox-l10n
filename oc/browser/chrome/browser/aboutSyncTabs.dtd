@@ -5,7 +5,7 @@
 
 <!ENTITY tabs.otherDevices.label               "Onglets d'autres aparelhs">
 
-<!ENTITY tabs.searchText.label                   "Recercar d'onglets…">
+<!ENTITY tabs.searchText.label                   "Recercar d'onglets...">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
@@ -15,7 +15,7 @@
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "o">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Marcar aqueste onglet...">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "M">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Marcar los onglets seleccionats…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "s">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Marcar aqueste onglet...">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "M">
 <!ENTITY tabs.context.refreshList.label               "Actualizar la lista">
 <!ENTITY tabs.context.refreshList.accesskey           "c">

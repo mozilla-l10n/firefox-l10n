@@ -8,7 +8,7 @@
 <!ENTITY findField.label "Tèxte de recercar :">
 <!ENTITY findField.accesskey "T">
 <!ENTITY caseSensitiveCheckbox.label "Respectar la cassa">
-<!ENTITY caseSensitiveCheckbox.accesskey "R">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Recèrca circulara">
 <!ENTITY wrapCheckbox.accesskey "i">
 <!ENTITY findButton.label "Recercar lo seguent">

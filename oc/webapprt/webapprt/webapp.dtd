@@ -21,7 +21,7 @@
 <!ENTITY hideThisAppCmdMac.key              "H">
 <!ENTITY hideOtherAppsCmdMac.label          "Amagar los autres">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Tot visualizar">
+<!ENTITY showAllAppsCmdMac.label            "Afichar tot">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
 <!ENTITY quitApplicationCmdUnix.key          "Q">

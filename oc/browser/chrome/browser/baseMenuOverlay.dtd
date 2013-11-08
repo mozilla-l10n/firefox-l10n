@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimizar">
+<!ENTITY minimizeWindow.label     "Redusir">
 <!ENTITY bringAllToFront.label    "Tot menar al primièr plan">
 <!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Fenèstra">
+<!ENTITY windowMenu.label         "Tot menar al primièr plan">
 
 <!ENTITY helpMenu.label           "Ajuda"> 
 <!ENTITY helpMenu.accesskey       "A"> 
@@ -29,21 +29,21 @@
 <!ENTITY healthReport.label       "Bilanç de santat de &brandShortName;">
 <!ENTITY healthReport.accesskey   "B">
 
-<!ENTITY helpTroubleshootingInfo.label      "Entresenhas de despanatge">
+<!ENTITY helpTroubleshootingInfo.label      "Entresenhas de depanatge">
 <!ENTITY helpTroubleshootingInfo.accesskey  "d">
 
 <!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
 <!ENTITY helpFeedbackPage.accesskey  "B">
 
 <!ENTITY preferencesCmdMac.label        "Preferéncias...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.commandkey   "Preferéncias...">
 
 <!ENTITY servicesMenuMac.label          "Servicis">
 
 <!ENTITY hideThisAppCmdMac.label        "Amagar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "A">
+<!ENTITY hideThisAppCmdMac.commandkey   "Amagar &brandShortName;">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">
-<!ENTITY hideOtherAppsCmdMac.commandkey "A">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Tot visualizar">
+<!ENTITY showAllAppsCmdMac.label        "Afichar tot">

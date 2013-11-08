@@ -19,7 +19,7 @@ d'aquestes moduls disponiblas.">
 
 <!ENTITY  checking.wizard.title           "Verificacion dels moduls compatibles">
 <!ENTITY  checking.top.label              "Verificacion de la disponibilitat de mesas a jorn pels moduls incompatibles…">
-<!ENTITY  checking.status                 "Aquò pòt prendre maitas minutas…">
+<!ENTITY  checking.status                 "Aquò pòt prene qualques minutas…">
 
 <!ENTITY  found.wizard.title               "Moduls compatibles trobats">
 <!ENTITY  found.top.label                 "Seleccionatz los moduls que desiratz installar :">
@@ -31,7 +31,7 @@ es actualament desactivada. Podètz cambiar aqueste paramètre çaijós.">
 <!ENTITY  installing.wizard.title         "Installacion des moduls compatibles">
 <!ENTITY  installing.top.label            "Telecargament e installacion de las mesas a jorn dels moduls…">
 
-<!ENTITY  noupdates.wizard.title          "Cap de modul compatible es pas estat  trobat">
+<!ENTITY  noupdates.wizard.title          "Cap de modul compatible es pas estat trobat">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; a pas pogut trobar de mesas a jorn disponiblas 
 pels moduls incompatibles.">
 <!ENTITY  noupdates.error.desc            "De problèmas son subrevenguts al moment de la recèrca de mesas a jorn.">

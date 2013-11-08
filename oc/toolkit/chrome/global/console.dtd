@@ -4,7 +4,7 @@
 
 <!ENTITY errorConsole.title "Consòla d'errors">
 
-<!ENTITY errFile.label   "Fichier font :">
+<!ENTITY errFile.label   "Fichièr font :">
 <!ENTITY errLine.label   "Linha :">
 <!ENTITY errColumn.label "Colomna :">
 
@@ -32,6 +32,6 @@
 <!ENTITY sortFirst.accesskey "r">
 <!ENTITY sortLast.label      "Òrdre cronologic invèrse">
 <!ENTITY sortLast.accesskey  "d">
-<!ENTITY closeCmd.commandkey "W">  
+<!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "I">  
 <!ENTITY focus2.commandkey   "d">  

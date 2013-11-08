@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Consòla Web">
-
+<!ENTITY browserConsole.title "Consòla del navigador">
 
 <!ENTITY networkPanel.requestURLColon             "URL de la requèsta :">
 <!ENTITY networkPanel.requestMethodColon          "Metòde de la requèsta">
@@ -51,12 +51,13 @@
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip "Jornalizar las errors d'analisi CSS">
 <!ENTITY btnPageCSS.accesskey "C">
-
+<!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Jornalizar las excepcions JavaScript">
-
+<!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Seguretat">
 
 <!ENTITY btnPageSecurity.accesskey "u">
@@ -67,15 +68,16 @@
 
 <!ENTITY btnPageLogging.label   "Jornal">
 <!ENTITY btnPageLogging.tooltip "Jornalizar los messatges mandats a l'objècte « consòla »">
-
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Errors">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Avertiments">
 <!ENTITY btnConsoleLog          "Log">
 
-
+<!ENTITY filterOutput.placeholder "Filtre de sortida">
+<!ENTITY btnClear.label        "Netejar">
 <!ENTITY btnClear.tooltip      "Voidar la Consòla Web">
-
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -91,5 +93,6 @@
 <!ENTITY copyURLCmd.label     "Copiar l'adreça del ligam">
 <!ENTITY copyURLCmd.accesskey "C">
 
-
-
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCtrl.key  "L">

@@ -8,7 +8,7 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Precedent">
+<!ENTITY backButton.label               "Precedenta">
 <!ENTITY backButton.accesskey           "P">
 <!ENTITY backButton.tooltip             "Recuolar d'una pagina">
 <!ENTITY forwardButton.label            "Seguenta">

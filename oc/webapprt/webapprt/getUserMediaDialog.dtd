@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
-
-
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "Partejar">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "Anullar">
-
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
 
 
 
