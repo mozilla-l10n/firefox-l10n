@@ -1,4 +1,6 @@
-bingmetrofx
-googlemetrofx
+amazon-france
+freelang
+google
+klask
 wikipedia-br
-yahoo
+yahoo-france
