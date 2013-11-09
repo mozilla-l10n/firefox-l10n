@@ -78,6 +78,9 @@
 <!ENTITY projects.manifestEditorTooltip "Modifier le manifeste de votre application depuis le panneau ci-dessous. Le bouton Mettre à jour enregistrera vos changements et actualisera l'application.">
 <!ENTITY projects.manifestViewer "Visionneuse de manifeste">
 <!ENTITY projects.manifestViewerTooltip "Examiner dans le panneau ci-dessous le manifeste de votre application.">
+<!ENTITY projects.valid "Valide">
+<!ENTITY projects.error "Erreur">
+<!ENTITY projects.warning "Avertissement">
 
 <!ENTITY help.title "Gestionnaire d'applications">
 <!ENTITY help.close "Fermer">
