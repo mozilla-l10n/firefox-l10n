@@ -482,8 +482,6 @@
 <!ENTITY mediaPlaybackRate050x.accesskey "m">
 <!ENTITY mediaPlaybackRate.label "Velocidá de reproducción">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
 <!ENTITY social.learnMore.label "Deprender más…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "Agora non">
@@ -524,3 +522,11 @@
 <!ENTITY tabCrashed.tryAgain "Reintentar">
 <!ENTITY tabCrashed.message "Esto da vergoña.. tamos intentando amosar esta páxina web, pero nun ta respondiendo.">
 <!ENTITY tabCrashed.header "La llingüeta tuvo un fallu">
+<!ENTITY tabCrashed.checkSendReport "Informar a &vendorShortName; sobre esti fallu pa que puedan igualu.">
+<!ENTITY social.markpageMenu.label "Guardar páxina en…">
+<!ENTITY social.markpageMenu.accesskey "d">
+<!ENTITY social.marklinkMenu.label "Guardar enllaz como">
+<!ENTITY social.marklinkMenu.accesskey "G">
+<!ENTITY pluginNotification.width "28em">
+<!ENTITY devAppMgrMenu.label "Alministrador d'aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey "A">
