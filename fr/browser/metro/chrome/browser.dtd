@@ -18,6 +18,7 @@
 <!ENTITY appbarFindInPage2.label    "Rechercher dans la page">
 <!ENTITY appbarViewOnDesktop2.label "Afficher sur le Bureau">
 <!ENTITY appbarMSMetaData2.label    "Obtenir l'application de ce site">
+<!ENTITY appbarViewPageSource.label "Code source de la page">
 
 <!ENTITY topSitesHeader.label        "Les plus visités">
 <!ENTITY bookmarksHeader.label       "Marque-pages">
