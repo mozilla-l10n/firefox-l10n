@@ -29,3 +29,7 @@
 <!ENTITY options.showPlatformData.tooltip "Si actives esta opción, los informes del analizador JavaScript van incluyir los símbolos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.label "Amosar datos de la plataforma Gecko">
 <!ENTITY options.profiler.label "Analizador JavaScript">
+<!ENTITY toolboxZoomReset.key "0">
+<!ENTITY toolboxZoomOut.key "-">
+<!ENTITY toolboxZoomIn.key2 "=">
+<!ENTITY toolboxZoomIn.key "+">

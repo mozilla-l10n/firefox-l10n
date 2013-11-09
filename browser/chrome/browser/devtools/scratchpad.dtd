@@ -84,3 +84,5 @@
 <!ENTITY reloadAndRun.key "r">
 <!ENTITY revertCmd.label "Revertir…">
 <!ENTITY revertCmd.accesskey "t">
+<!ENTITY pprint.label "Adautar pa impresión">
+<!ENTITY pprint.key "p">

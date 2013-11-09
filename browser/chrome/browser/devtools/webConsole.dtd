@@ -54,8 +54,8 @@
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY btnPageNet.accesskeyMacOSX "d">
 <!ENTITY btnPageNet.accesskey "d">
-<!ENTITY btnPageLogging.accesskey "e">
 <!ENTITY btnPageJS.accesskey "J">
 <!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnClear.accesskey "L">
 <!ENTITY browserConsole.title "Consola del navegador">
+<!ENTITY clearOutputCtrl.key "L">
+<!ENTITY btnPageLogging.accesskey2 "R">
