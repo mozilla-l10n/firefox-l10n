@@ -1,8 +1,8 @@
-atlas-sk
-azet-sk
+amazondotcom
+aol-web-search
 bing
 eBay
 google
-slovnik-sk
-wikipedia-sk
-zoznam-sk
+twitter
+wikipedia
+yahoo
