@@ -19,4 +19,7 @@
 <!ENTITY errorTimeout "Error: Tiempo de espera de conexión superado.">
 <!ENTITY errorRefused "Error: conexión rechazada.">
 <!ENTITY errorUnexpected "Error no esperado.">
-<!ENTITY help2 "Las herramientas de desarrollador de Firefox pueden depurar dispositivos remotos (Firefox para Android y Firefox OS, por ejemplo). Asegúrese de tener activada la opción 'Depuración remota' en el dispositivo remoto. Vea la <a target='_' href='https://developer.mozilla.org/docs/Tools/Remote_Debugging'>documentación</a> para más.">
+
+<!ENTITY remoteHelp "Las herramientas de desarrollador de Firefox pueden depurar dispositivos remotos (Firefox para Android o Firefox OS, por ejemplo). Asegúrese de tener activada la opción 'Depuración remota' en el dispositivo remoto. Para más, vea la">
+<!ENTITY remoteDocumentation "documentación">
+<!ENTITY remoteHelpSuffix ".">
