@@ -18,9 +18,9 @@
 <!ENTITY device.debugApp "Déboguer">
 <!ENTITY device.debugAppTooltip "Ouvrir les outils de développement connectés à cette application sur l'appareil.">
 <!ENTITY device.name "Nom">
-<!ENTITY device.app "Applications">
-<!ENTITY device.privileged "Privilégiées">
-<!ENTITY device.certified "Certifiées">
+<!ENTITY device.plain "Classique (par défaut)">
+<!ENTITY device.privileged "Privilégiée">
+<!ENTITY device.certified "Certifiée">
 <!ENTITY device.allow "Autoriser">
 <!ENTITY device.allowTooltip "Cette permission est autorisée pour les applications de ce type.">
 <!ENTITY device.prompt "Demander">
