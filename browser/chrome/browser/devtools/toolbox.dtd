@@ -9,8 +9,8 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "Stäng utvecklarverktygen">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!ENTITY toolboxNextTool.key           "]">
-<!ENTITY toolboxPreviousTool.key       "[">
+<!ENTITY toolboxNextTool.key           "Ä">
+<!ENTITY toolboxPreviousTool.key       "Ö">
 
 <!ENTITY toolboxZoomIn.key             "+">
 <!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
