@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Abrir consola de JavaScript">
 <!ENTITY appbarFindInPage2.label    "Encontrar en la página">
 <!ENTITY appbarViewOnDesktop2.label "Ver en escritorio">
+<!ENTITY appbarMSMetaData2.label    "Obtener app para este sitio">
 
 <!ENTITY topSitesHeader.label        "Sitios preferidos">
 <!ENTITY bookmarksHeader.label       "Marcadores">
