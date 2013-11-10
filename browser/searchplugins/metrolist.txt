@@ -1,4 +1,7 @@
-bing
+bingmetrofx
 googlemetrofx
+amazon-france
 wikipedia-fr
+eBay-france
 yahoo-france
+cnrtl-tlfi-fr
