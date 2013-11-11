@@ -78,6 +78,9 @@
 <!ENTITY projects.manifestEditorTooltip "Redaktu la manifeston de via programo en la malsupra panelo. La butono Ĝisdatigi konservos viajn ŝanĝojn kaj ĝisdatigos la programon.">
 <!ENTITY projects.manifestViewer "Montrilo de manifesto">
 <!ENTITY projects.manifestViewerTooltip "Espolru la manifeston de via programo en la malsupra panelo.">
+<!ENTITY projects.valid "Valida">
+<!ENTITY projects.error "Eraro">
+<!ENTITY projects.warning "Averto">
 
 <!ENTITY help.title "Administranto de programoj">
 <!ENTITY help.close "Fermi">
