@@ -6,7 +6,6 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Poišči posodobitve">
 <!ENTITY aboutPage.checkForUpdates.checking     "Iskanje posodobitev …">
 <!ENTITY aboutPage.checkForUpdates.none         "Posodobitev ni na voljo">
-<!ENTITY aboutPage.checkForUpdates.found        "Posodobitev je na voljo">
 <!ENTITY aboutPage.faq.label                    "Pogosta vprašanja">
 <!ENTITY aboutPage.support.label                "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label          "Izjava o zasebnosti">
