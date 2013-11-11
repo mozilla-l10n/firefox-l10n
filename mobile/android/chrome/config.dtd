@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "H¾ada">
+<!ENTITY toolbar.searchPlaceholder     "HÄ¾adaÅ¥">
 
-<!ENTITY newPref.namePlaceholder       "Názov">
+<!ENTITY newPref.namePlaceholder       "NÃ¡zov">
 
-<!ENTITY newPref.valueBoolean          "Logická">
-<!ENTITY newPref.valueString           "Reazec">
-<!ENTITY newPref.valueInteger          "Èíselná">
+<!ENTITY newPref.valueBoolean          "LogickÃ¡">
+<!ENTITY newPref.valueString           "ReÅ¥azec">
+<!ENTITY newPref.valueInteger          "ÄŒÃ­selnÃ¡">
 
-<!ENTITY newPref.stringPlaceholder     "Zadajte reazec">
-<!ENTITY newPref.numberPlaceholder     "Zadajte èíslo">
+<!ENTITY newPref.stringPlaceholder     "Zadajte reÅ¥azec">
+<!ENTITY newPref.numberPlaceholder     "Zadajte ÄÃ­slo">
 
-<!ENTITY newPref.toggleButton          "Prepnú">
-<!ENTITY newPref.cancelButton          "Zruši">
+<!ENTITY newPref.toggleButton          "PrepnÃºÅ¥">
+<!ENTITY newPref.cancelButton          "ZruÅ¡iÅ¥">
 
-<!ENTITY contextMenu.copyPrefName      "Kopírova názov">
-<!ENTITY contextMenu.copyPrefValue     "Kopírova hodnotu">
+<!ENTITY contextMenu.copyPrefName      "KopÃ­rovaÅ¥ nÃ¡zov">
+<!ENTITY contextMenu.copyPrefValue     "KopÃ­rovaÅ¥ hodnotu">
