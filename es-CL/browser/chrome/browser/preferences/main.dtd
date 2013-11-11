@@ -18,7 +18,7 @@
 <!ENTITY restoreDefault.label "Restaurar predeterminados">
 <!ENTITY restoreDefault.accesskey "R">
 <!ENTITY downloads.label "Descargas">
-<!ENTITY closeWhenDone.label "Cerrarla cuando todas las descargas hayan terminado">
+<!ENTITY saveTo.label "Guardar archivos a">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label "Examinar…">
 <!ENTITY chooseFolderWin.accesskey "E">
