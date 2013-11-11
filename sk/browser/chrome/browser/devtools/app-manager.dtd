@@ -78,6 +78,9 @@
 <!ENTITY projects.manifestEditorTooltip "Upravte manifest svojej aplikácie v paneli nižšie. Pomocou tlačidla Aktualizovať uložíte svoje zmeny a aktualizujete aplikáciu.">
 <!ENTITY projects.manifestViewer "Zobrazovač manifestu">
 <!ENTITY projects.manifestViewerTooltip "Preskúmajte manifest svojej aplikácie v paneli nižšie.">
+<!ENTITY projects.valid "Platné">
+<!ENTITY projects.error "Chyba">
+<!ENTITY projects.warning "Upozornenie">
 
 <!ENTITY help.title "Správca aplikácií">
 <!ENTITY help.close "Zavrieť">
