@@ -27,6 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY undoCloseTab.accesskey "s">
+<!ENTITY undoCloseTabs.label "Riapri schede chiuse">
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY listAllTabs.label "Elenco di tutte le schede">
