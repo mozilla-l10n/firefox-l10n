@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Gearr às">
 <!ENTITY cutCmd.accesskey "G">
 <!ENTITY copyCmd.label "Dèan lethbhreac">
@@ -13,8 +17,10 @@
 
 <!ENTITY spellAddToDictionary.label "Cuir ris an fhaclair">
 <!ENTITY spellAddToDictionary.accesskey "C">
-<!ENTITY spellCheckEnable.label "Ceartaich an litreachadh">
-<!ENTITY spellCheckEnable.accesskey "C">
+<!ENTITY spellUndoAddToDictionary.label "Neo-dhèan cur ris an fhaclair">
+<!ENTITY spellUndoAddToDictionary.accesskey "N">
+<!ENTITY spellCheckToggle.label "Ceartaich an litreachadh">
+<!ENTITY spellCheckToggle.accesskey "C">
 <!ENTITY spellNoSuggestions.label "(Gun mholaidhean litreachaidh)">
 <!ENTITY spellDictionaries.label "Cànain">
 <!ENTITY spellDictionaries.accesskey "C">

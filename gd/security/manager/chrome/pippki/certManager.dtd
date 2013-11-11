@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Ian McGreer <mcgreer@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY certmgr.title                       "Manaidsear nan teisteanasan">
 
@@ -72,16 +39,12 @@
 
 <!ENTITY certmgr.editcert.title               "Deasaich roghainnean nan teisteanasan tèarainteachd">
 <!ENTITY certmgr.editcacert.title             "Deasaich roghainnean earbsa de theisteanasan nan ùghdarrasan teisteanachaidh">
-<!ENTITY certmgr.editsslcert.title            "Deasaich roghainnean earbsa ann an teisteanasan de làraichean-lìn">
 <!ENTITY certmgr.editcert.edittrust           "Deasaich na roghainnean earbsa:">
 <!ENTITY certmgr.editcert.trustssl            "'S urrainn dhan teisteanas seo làraichean-lìn aithneachadh.">
 <!ENTITY certmgr.editcert.trustemail          "'S urrainn dhan teisteanas seo cleachdaichean puist-dhealain aithneachadh.">
 <!ENTITY certmgr.editcert.trustobjsign        "'S urrainn dhan teisteanas luchd-saothrachaidh bathar-bog aithneachadh.">
-<!ENTITY certmgr.editsslcert.edittrust        "Deasaich roghainnean earbsa nan teisteanasan:">
-<!ENTITY certmgr.editsslcert.dotrust          "Cuir earbsa ann an dearbhachd an teisteanais seo.">
-<!ENTITY certmgr.editsslcert.donttrust        "Na cuir earbsa ann an dearbhachd an teisteanais seo.">
 <!ENTITY certmgr.editemailcert.title          "Deasaich roghainnean earbsa nan teisteanasan puist-dhealain">
-<!ENTITY certmgr.editemailcert.edittrust      "Deasaich roghainnean earbsa nan teisteanasan:">
+<!ENTITY certmgr.editemailcert.edittrust      "Deasaich roghainnean earbsa an teisteanais:">
 <!ENTITY certmgr.editemailcert.dotrust        "Cuir earbsa ann an dearbhachd an teisteanais seo.">
 <!ENTITY certmgr.editemailcert.donttrust      "Na cuir earbsa ann an dearbhachd an teisteanais seo.">
 
@@ -90,12 +53,12 @@
 <!ENTITY certmgr.deletecert.aftername         "A' bheil thu cinnteach gu bheil thu airson an teisteanas seo a sguabadh às?">
 <!ENTITY certmgr.deleteusercert.title         "Sguab às an teisteanas agad">
 <!ENTITY certmgr.deleteusercert.beforename    "Dh'iarr thu an teisteanas a leanas a sguabadh às:">
-<!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a dhubh-cheileadh leis ma sguabas tu às an teisteanas seo.">
+<!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a chrioptachadh leis ma sguabas tu às an teisteanas seo.">
 
 <!ENTITY certmgr.certname                     "Ainm an teisteanais">
 <!ENTITY certmgr.certserver                   "Am frithealaiche">
 <!ENTITY certmgr.override_lifetime            "Saoghal">
-<!ENTITY certmgr.tokenname                    "Inneal tèarainteachd">
+<!ENTITY certmgr.tokenname                    "Uidheam tèarainteachd">
 <!ENTITY certmgr.issued                       "Air fhoillseachadh">
 <!ENTITY certmgr.expires                      "Falbhaidh an ùine air">
 <!ENTITY certmgr.email                        "Seòladh puist-dhealain">

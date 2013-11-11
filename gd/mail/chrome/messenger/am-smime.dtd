@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Tèarainteachd">
 <!ENTITY securityTab.label "Tèarainteachd">
 <!ENTITY securityHeading.label "Ma tha thu airson teachdaireachdan le ainm sgrìobhte no feadhainn a chaidh a dhubh-cheileadh a chur 's fhaighinn, bu chòir dhut an dà chuid teisteanas soidhneachaidh digiteach agus teisteanas dubh-cheilidh a shònrachadh.">

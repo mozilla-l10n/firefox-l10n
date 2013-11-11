@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from AccountManager.xul -->
+
 
 <!ENTITY accountManagerTitle.label "Roghainnean nan cunntas">
 
@@ -6,13 +10,16 @@
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Cuir cunntas puist-dhealain ris…">
 <!ENTITY addMailAccountButton.accesskey "a">
+<!ENTITY addIMAccountButton.label "Cuir cunntas cabadaich ris…">
+<!ENTITY addIMAccountButton.accesskey "u">
+<!ENTITY addFeedAccountButton.label "Cuir cunntas inbhir ris…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Cuir cunntas eile ris…">
 <!ENTITY addOtherAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Suidhich e mar an roghainn bhunaiteach">
 <!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Thoir air falbh an cunntas">
 <!ENTITY removeButton.accesskey "r">
-
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -22,5 +29,6 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
+
 <!ENTITY accountManager.size "width: 130ch; height: 55em;">
 <!ENTITY accountTree.width "width: 40ch;">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Lorg teachdaireachdan ann an:">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Rannsaich na fo-phasgain">
@@ -13,26 +17,28 @@
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Rannsaich na teachdaireachdan">
 <!ENTITY results.label               "Toraidhean">
-<!ENTITY fileHereMenu.label          "Faidhle an-seo">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Faidhle">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "Gluais an-seo">
+<!ENTITY moveHereMenu.accesskey      "G">
+<!ENTITY moveButton.label            "Gluais gu">
+<!ENTITY moveButton.accesskey        "u">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Fosgail sa phasgan">
 <!ENTITY openInFolder.accesskey      "F">
 <!ENTITY saveAsVFButton.label        "Sàbhail mar phasgan luirg">
 <!ENTITY saveAsVFButton.accesskey    "S">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Lorg ann an:">
 <!ENTITY abSearchHeading.accesskey   "L">
 <!ENTITY propertiesButton.label      "Roghainnean">
 <!ENTITY propertiesButton.accesskey  "R">
 <!ENTITY composeButton.label         "Sgrìobh">
 <!ENTITY composeButton.accesskey     "S">
+<!ENTITY deleteCardButton.label      "Sguab às">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label   "Rannsachadh adhartach leabhar nan seòladh">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Snàth">
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
@@ -51,8 +57,8 @@
 <!ENTITY starredColumn.label "Le rionnag ris">
 <!ENTITY locationColumn.label "Àite">
 <!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh">
 <!ENTITY threadColumn.tooltip "Briog airson snàithean nan teachdaireachdan a thaisbeanadh"> 
 <!ENTITY fromColumn.tooltip "Briog gus a sheòrsachadh a-rèir an t-seòladair">

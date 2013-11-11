@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "Coitcheann">
 <!ENTITY itemAutoComplete.label              "Seòlachadh">
 <!ENTITY itemSpellCheck.label                "Litreachadh">
@@ -41,10 +45,10 @@
 <!ENTITY autocompleteText.label                "Nuair a choileanar seòlaidhean de theachdaireachdan, thoir sùil airson clàir a fhreagras riutha an-seo:">
 <!ENTITY addressingEnable.label                "Leabhraichean nan seòladh ionadail">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Frithealaiche nan eòlairean:">
+<!ENTITY directories.label                     "Frithealaiche nam pasganan:">
 <!ENTITY directories.accesskey                 "F">
 <!ENTITY directoriesNone.label                 "Chan eil gin">
-<!ENTITY editDirectories.label                 "Deasaich eòlairean…">
+<!ENTITY editDirectories.label                 "Deasaich na pasganan…">
 <!ENTITY editDirectories.accesskey             "e">
 
 <!ENTITY sendOptionsDescription.label          "Rèitich giùlan fòrmat an teacsa">

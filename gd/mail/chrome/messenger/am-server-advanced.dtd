@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Roghainnean adhartach a' chunntais">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "Eòlaire an fhrithealaiche IMAP:">
-<!ENTITY serverDirectory.accesskey "E">
+<!ENTITY serverDirectory.label "Pasgan an fhrithealaiche IMAP:">
+<!ENTITY serverDirectory.accesskey "P">
 <!ENTITY usingSubscription.label "Na seall ach pasgain le fo-sgrìobhadh">
 <!ENTITY usingSubscription.accesskey "N">
 <!ENTITY dualUseFolders.label "Tha am frithealaiche a' cur taic ri pasgain anns a bheil fo-phasgain is teachdaireachdan">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Leig le frithealaichean na namespaces seo fhàgail gu taobh">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Ma luchdaicheas mi a-nuas post POP airson an fhrithealaiche seo, cleachd am pasgan a leanas airson post ùr:" >
-<!ENTITY globalInbox.label "Am bogsa a-steach uile-choitcheann (Cunntas nam pasgan ionadail)">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Am bogsa a-steach airson cunntas an fhrithealaiche seo">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Am bogsa a-steach airson cunntas eile">

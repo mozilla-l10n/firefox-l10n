@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Còdachadh charactairean">
+
+<!ENTITY charsetMenu.label             "Còdachadh charactaran">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "Mothachadh leis fhèin">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
@@ -11,11 +15,9 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Taobh an Ear na h-Àisea">
 <!ENTITY charsetMenuMore3.accesskey    "a">
-<!ENTITY charsetMenuMore4.label        "Taobh an Ear-dheas ┐ Iar-dheas Àisea">
+<!ENTITY charsetMenuMore4.label        "Taobh an Ear-dheas ⁊ Iar-dheas Àisia">
 <!ENTITY charsetMenuMore4.accesskey    "s">
 <!ENTITY charsetMenuMore5.label        "An t-Ear-mheadhan">
 <!ENTITY charsetMenuMore5.accesskey    "m">
-<!ENTITY charsetMenuUnicode.label      "Unicode">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Gnàthaich an liosta…">
 <!ENTITY charsetCustomize.accesskey    "c">
