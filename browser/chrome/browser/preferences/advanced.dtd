@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Coitcheann">
 
@@ -8,29 +12,47 @@
 <!ENTITY useCursorNavigation.accesskey   "C">
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "L">
-<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh">
+<!ENTITY blockAutoRefresh.accesskey      "f">
 
 <!ENTITY browsing.label                  "A' brabhsadh">
 
 <!ENTITY useAutoScroll.label             "Cleachd sgroladh fèin-obrachail">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Cleachd sgroladh caoin">
-<!ENTITY useSmoothScrolling.accesskey    "C">
+<!ENTITY useSmoothScrolling.accesskey    "o">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Roghainnean bunaiteach an t-siostaim">
-<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòiseachas e"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòisicheas e">
 <!ENTITY alwaysCheckDefault.accesskey    "B">
-<!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
-<!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "A' cur a-steach aithisgean tuislidh">
-<!ENTITY submitCrashes.accesskey         "s">
-<!ENTITY submitTelemetry.label           "Cuir a-null dàta dèanadais">
-<!ENTITY submitTelemetry.accesskey       "d">
+<!ENTITY setDefault.label                "Cleachd &brandShortName; mar am brabhsair bunaiteach">
+<!ENTITY setDefault.accesskey            "u">
+<!ENTITY isDefault.label                 "'S e &brandShortName; am brabhsair bunaiteach agad an-dràsta">
+
+<!ENTITY dataChoicesTab.label            "Roghainnean dàta">
+
+<!ENTITY healthReportSection.label       "Aithisg slàinte &brandShortName;">
+<!ENTITY healthReportDesc.label          "Bheir seo fiosrachadh dhut air dèanadas a' bhrabhsair agad agus cuiridh e dàta air slàinte a' bhrabhsair agad dha &vendorShortName;">
+<!ENTITY enableHealthReport.label        "Cuir an comas aithisg slàinte &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "s">
+<!ENTITY healthReportLearnMore.label     "Barrachd fiosrachaidh">
+
+<!ENTITY telemetrySection.label          "Telemeatraidh">
+<!ENTITY telemetryDesc.label             "Cuiridh seo dàta air dèanadas, cleachdadh, bathar-cruaidh agus gnàthachadh a' bhrabhsair agad dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a dhèanamh nas fhearr">
+<!ENTITY enableTelemetry.label           "Cuir an telemeatraidh an comas">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Barrachd fiosrachaidh">
+
+<!ENTITY crashReporterSection.label      "Aithrisiche nan tuislidhean">
+<!ENTITY crashReporterDesc.label         "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; ach an urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
+<!ENTITY enableCrashReporter.label       "Cuir an comas aithrisiche nan tuislidhean">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
 
 <!ENTITY networkTab.label                "Lìonra">
 
@@ -40,60 +62,68 @@
 <!ENTITY connectionSettings.label        "Roghainnean…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Stòras far loidhne">
+<!ENTITY httpCache.label                 "Susbaint-lìn san tasglann">
 
+<!ENTITY offlineStorage2.label           "Susbaint-lìn is dàta cleachdaiche far loidhne">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Cuingich an tasgadan gu">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">
-<!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
-<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearCacheNow.label             "Falamhaich an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "F">
+<!ENTITY clearOfflineAppCacheNow.label   "Falamhaich an-dràsta">
+<!ENTITY clearOfflineAppCacheNow.accesskey "c">
 <!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Ùraich">
 
-<!ENTITY autoCheck.label                 "Lorgar ùrachaidhean airson na leanas leis fhèin:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "f">
-<!ENTITY enableAddonsUpdate2.label       "Tuilleadain">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY updateApp.label                 "Ùrachaidhean &brandShortName;:">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
+<!ENTITY updateAuto1.accesskey           "S">
+<!ENTITY updateAutoMetro.label           "Ùraich gu fèin-obrachail o desktop agus &brandShortName; air nòs Windows 8">
+<!ENTITY updateAutoMetro.accesskey       "k">
+<!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
+<!ENTITY updateCheck.accesskey           "b">
+<!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
+<!ENTITY updateAutoAddonWarn.accesskey   "T">
+
+<!ENTITY updateAutoMetroWarn.label       "(Cha sgrùd &brandShortName; air nòs Windows 8 a bheil na tuilleadain co-chòrdail)">
+
+<!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
+<!ENTITY useService.accesskey            "C">
+
+<!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
 <!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
 <!ENTITY enableSearchUpdate.accesskey    "E">
-<!ENTITY whenUpdatesFound.label          "Nuair a thèid ùrachadh a lorg airson &brandShortName;:">
-<!ENTITY askMe.label                     "Faighnich dhìom na tha mi airson dèanamh">
-<!ENTITY askMe.accesskey                 "F">
-<!ENTITY modeAutomatic.label             "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
-<!ENTITY modeAutoAddonWarn.accesskey     "T">
-<!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
-<!ENTITY updateHistory.accesskey         "S">
 
 <!ENTITY offlineNotify.label             "Innis dhomh ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Eisgeachdan…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList.label           "Stòir na làraichean-lìn a leanas dàta a chum cleachdaidh far loidhne:">
+<!ENTITY offlineAppsList2.label          "Tha cead aig na làraichean-lìn a leanas dàta a stòradh a chum cleachdaidh far loidhne:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Thoir air falbh…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
-<!ENTITY encryptionTab.label             "Dubh-cheileadh">
-
-<!ENTITY protocols.label                 "Pròtacalan">
-<!ENTITY useSSL3.label                   "Cleachd SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Cleachd TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Teisteanasan">
+<!ENTITY certificateTab.label            "Teisteanasan">
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
 <!ENTITY certs.auto                      "Taghar fear leis fhèin">
 <!ENTITY certs.auto.accesskey            "l">
@@ -101,9 +131,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Seall na teisteanasan">
 <!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewCRLs.label                  "Liosta nan cùl-ghairmean">
-<!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "Dearbhadh">
 <!ENTITY verify2.accesskey               "D">
-<!ENTITY viewSecurityDevices.label       "Innealan tèarainteachd">
+<!ENTITY viewSecurityDevices.label       "Uidheaman tèarainteachd">
 <!ENTITY viewSecurityDevices.accesskey   "n">

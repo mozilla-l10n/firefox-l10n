@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  colorsDialog.title              "Dathan">
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
@@ -5,7 +9,7 @@
 <!ENTITY  allowPagesToUse.label           "Leig le duilleagan na dathan aca fhèin a thaghadh seach mo thaghadh-sa gu h-àrd">
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
-<!ENTITY  color                           "Teacs is cùlaibh">
+<!ENTITY  color                           "Teacsa is cùlaibh">
 <!ENTITY  textColor.label                 "Teacsa:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Cùlaibh:">

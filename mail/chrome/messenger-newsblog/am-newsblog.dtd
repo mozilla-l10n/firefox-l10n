@@ -1,4 +1,6 @@
-<!ENTITY accountTitle.label "Roghainnean nan cunntas">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY biffStart.label "Cuir sùil airson artagailean ùra gach ">
 <!ENTITY biffStart.accesskey "C">
@@ -13,7 +15,9 @@
 <!ENTITY manageSubscriptions.label "Rianaich fo-sgrìobhaidhean…"> 
 <!ENTITY manageSubscriptions.accesskey "R">
 
+<!ENTITY feedWindowTitle.label "Draoidh cunntasan inbhirean">
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Blogaichean ┐ inbhirean naidheachdan">
 <!ENTITY feeds.wizardShortName "Inbhirean">
 <!ENTITY feeds.wizardLongName "Blogaichean ┐ inbhirean naidheachdan">

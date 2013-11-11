@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  prefWindow.titleWin     "Roghainnean">
 <!ENTITY  prefWindow.titleGNOME   "Roghainnean &brandShortName;">
@@ -10,10 +14,12 @@
 <!ENTITY  paneGeneral.title       "Coitcheann">
 <!ENTITY  paneTabs.title          "Tabaichean">
 <!ENTITY  paneContent.title       "Susbaint">
-<!ENTITY  paneApplications.title  "Prògraman">
+<!ENTITY  paneApplications.title  "Aplacaidean">
 <!ENTITY  panePrivacy.title       "Prìobhaideachd">
 <!ENTITY  paneSecurity.title      "Tèarainteachd">
 <!ENTITY  paneAdvanced.title      "Roghainnean adhartach">
-
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
 <!ENTITY  paneSync.title          "Co-shioncronachadh">
+<!ENTITY  buttonForward.tooltip   "Rach duilleag air adhart">
+<!ENTITY  buttonBack.tooltip      "Rach duilleag air ais">

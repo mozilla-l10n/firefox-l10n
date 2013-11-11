@@ -1,23 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "Rèitich &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
-<!ENTITY weaveDesc.label            "'S urrainn dhut inntrigeadh a dhèanamh dhan eachdraidh, na comharran-lìn, na faclan-faire 's tabaichean fosgailte air feadh nan innealan agad le &syncBrand.fullName.label;.">
-
+<!ENTITY weaveDesc.label            "'S urrainn dhut inntrigeadh a dhèanamh dhan eachdraidh, na comharran-lìn, na faclan-faire 's tabaichean fosgailte air feadh nan uidheaman agad le &syncBrand.fullName.label;.">
 <!-- The page shown when logged in... -->
-
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "Ùraich">
 <!ENTITY resetPass.label              "Ath-shuidhich">
-
 <!-- Manage Account -->
+
 <!ENTITY manageAccount.label          "Stiùirich an cunntas">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Seall an cuota">
-<!ENTITY changePassword2.label        "Atharraich am facal-faire">
-<!ENTITY mySyncKey.label              "An iuchair co-shioncronachaidh agam">
-<!ENTITY resetSync2.label             "Ath-shuidhich an co-shioncronachadh">
+<!ENTITY changePassword2.label        "Atharraich am facal-faire…">
+<!ENTITY myRecoveryKey.label          "M' iuchair aisig">
+<!ENTITY resetSync2.label             "Ath-shuidhich an co-shioncronachadh…">
 
-<!ENTITY addDevice.label              "Cuir inneal ris">
+<!ENTITY pairDevice.label             "Paidhrich uidheam">
 
 <!ENTITY syncMy.label               "Co-shioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
@@ -30,12 +34,14 @@
 <!ENTITY engine.passwords.accesskey "n">
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
-
+<!ENTITY engine.addons.label        "Tuilleadain">
+<!ENTITY engine.addons.accesskey    "a">
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY unlinkDevice.label           "Dì-cheangal an t-inneal seo">
 
+<!ENTITY syncDeviceName.label       "Ainm an uidheim:">
+<!ENTITY syncDeviceName.accesskey   "u">
+<!ENTITY unlinkDevice.label           "Dì-cheangail an t-uidheam seo">
 <!-- Footer stuff -->
+
 <!ENTITY prefs.tosLink.label        "Teirmichean na Seirbheise">
 <!ENTITY prefs.ppLink.label         "Am Poileasaidh Prìobhaideachd">

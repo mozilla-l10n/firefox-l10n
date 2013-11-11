@@ -1,114 +1,29 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Faidhle">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Fosgail faidhle…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Fosgail seòladh-lìn…">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Duilleagan faisg ort">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Aisig">
-<!ENTITY fileRevert.accesskey "A">
-<!ENTITY saveCmd.label "Sàbhail">
-<!ENTITY saveCmd.accesskey "S">
+
+
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Sàbhail mar…">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "Foillsich">
-<!ENTITY publishCmd.accesskey "F">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Foillsich mar…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Sàbhail is atharraich còdachadh nan caractairean">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Suidheachadh na duilleige…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Clò-bhuail…">
-<!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Dùin">
-<!ENTITY closeCmd.accesskey "D">
-<!ENTITY closeCmd.key "W">
-
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Deasaich">
-<!ENTITY editMenu.accesskey "e">
+
 <!ENTITY pasteNoFormatting.label "Cuir ann gun fhòrmatadh">
 <!ENTITY pasteNoFormatting.accesskey "C">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Cuir ann mar">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Roghainnean làrach foillseachaidh…">
-<!ENTITY publishSettings.accesskey "R">
 <!ENTITY pasteAsQuotationCmd.label "Cuir ann mar luaidh">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Lorg is cuir 'na àite…">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Lorg a-rithist">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Lorg fear roimhe seo">
-<!ENTITY findPrevCmd.accesskey "L">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Ceartaich an litreachadh 's tu a' sgrìobhadh">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Ceartaich an litreachadh">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "Cuir a-steach">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "Ceangal…">
@@ -128,19 +43,14 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Loidhne bhàn fo dhealbh(an)">
 <!ENTITY insertBreakAllCmd.accesskey "L">
-
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Cha deach moladh sam bith a lorg)">
-<!ENTITY spellCheckIgnoreWord.label "Leig seachad am facal seo">
-<!ENTITY spellCheckIgnoreWord.accesskey "i">
-<!ENTITY spellCheckAddToDictionary.label "Cuir ris an fhaclair">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
+
 <!ENTITY createLinkCmd.label "Cruthaich ceangal…">
 <!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Deasaich an ceangal ann an cumadair ùr">
 <!ENTITY editLinkCmd.accesskey "i">
-
 <!-- Font Face SubMenu -->
+
 <!ENTITY FontFaceSelect.tooltip "Tagh cruth-clò">
 <!ENTITY fontfaceMenu.label "Cruth-clò">
 <!ENTITY fontfaceMenu.accesskey "C">
@@ -155,16 +65,19 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "Tagh meud a' chrutha-chlò">
 <!ENTITY decreaseFontSize.label "Nas lugha">
 <!ENTITY decreaseFontSize.accesskey "N">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Nas motha">
 <!ENTITY increaseFontSize.accesskey "N">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Meud">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -182,8 +95,8 @@
 <!ENTITY size-x-largeCmd.accesskey "f">
 <!ENTITY size-xx-largeCmd.label "anabarrach mòr">
 <!ENTITY size-xx-largeCmd.accesskey "a">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "Stoidhle an teacsa">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Trom">
@@ -229,7 +142,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Thoir air falbh acairean ainmichte">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -251,8 +164,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "a">
 <!ENTITY paragraphPreformatCmd.label "Air a ro-fhòrmatadh">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "Liosta">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Chan eil gin">
@@ -275,8 +188,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Roghainnean adhartach">
 <!ENTITY advancedPropertiesCmd.accesskey "R">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "Co-thaobhaich">
 <!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Clì">
@@ -291,8 +204,8 @@
 <!ENTITY alignJustify.label "Blocaich">
 <!ENTITY alignJustify.accesskey "B">
 <!ENTITY alignJustify.tooltip "Co-thaobhaich ann am bloc">
-
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "Breath">
 <!ENTITY layerSendToBack.tooltip "Gluais gun chùlaibh">
 <!ENTITY layerBringToFront.tooltip "Gluais gun bheulaibh">
@@ -306,12 +219,12 @@
 
 <!ENTITY colorsAndBackground.label "Dathan is cùlaibh na duilleige…">
 <!ENTITY colorsAndBackground.accesskey "u">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "Clàr">
 <!ENTITY tableMenu.accesskey "C">
-
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Tagh">
 <!ENTITY tableSelectMenu.accesskey "T">
 
@@ -321,8 +234,8 @@
 <!ENTITY tableInsertMenu2.accesskey "i">
 <!ENTITY tableDeleteMenu2.label "Sguab às clàr">
 <!ENTITY tableDeleteMenu2.accesskey "S">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "Cuir a-steach">
 <!ENTITY tableInsertMenu.accesskey "i">
 <!ENTITY tableTable.label "Clàr">
@@ -355,12 +268,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Sguab às">
 <!ENTITY tableDeleteMenu.accesskey "S">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Sgoilt cealla">
@@ -369,18 +282,12 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Roghainnean a' chlàir…">
 <!ENTITY tableProperties.accesskey "o">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "Bàr a' chlàir-thaice">
 <!ENTITY formatToolbar.tooltip "Bàr-inneil fòrmataidh">
-<!ENTITY newToolbarCmd.label "Ùr">
-<!ENTITY newToolbarCmd.tooltip "Cruthaich duilleag Sgrìobhadair ùr">
-<!ENTITY openToolbarCmd.label "Fosgail">
-<!ENTITY openToolbarCmd.tooltip "Fosgail faidhle ionadail">
-<!ENTITY saveToolbarCmd.tooltip "Sàbhail faidhle gu h-ionadail">
-<!ENTITY publishToolbarCmd.tooltip "Luchdaich suas faidhle gu àite cèin">
 <!ENTITY cutToolbarCmd.tooltip "Gearr às">
-<!ENTITY copyToolbarCmd.tooltip "Dèan lethbhreac">
+<!ENTITY copyToolbarCmd.tooltip "Dèan lethbhreac dheth">
 <!ENTITY pasteToolbarCmd.tooltip "Cuir ann">
 <!ENTITY printToolbarCmd.label "Clò-bhuail">
 <!ENTITY printToolbarCmd.tooltip "Clò-bhuail an duilleag seo">
@@ -402,8 +309,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Tagh dath a' chùlaibh">
 <!ENTITY throbber.tooltip "Rach gu duilleag-dhachaigh &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tagh dath airson teacsa a shoillseachadh">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lughdaich meud a' chrutha-chlò">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Meudaich meud a' chrutha-chlò">
 <!ENTITY boldToolbarCmd.tooltip "Trom">
@@ -419,16 +326,16 @@
 <!ENTITY alignCenterButton.tooltip "Co-thaobhaich an teacsa sa mheadhan">
 <!ENTITY alignRightButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire dheis">
 <!ENTITY alignJustifyButton.tooltip "Co-thaobhaich an teacsa a-rèir nan oirean deis is clì">
-
 <!-- Structure Toolbar Context Menu items -->
+
 <!ENTITY structSelect.label         "Tagh">
 <!ENTITY structSelect.accesskey     "T">
 <!ENTITY structRemoveTag.label      "Thoir air falbh taga">
 <!ENTITY structRemoveTag.accesskey  "r">
 <!ENTITY structChangeTag.label      "Atharraich taga">
 <!ENTITY structChangeTag.accesskey  "c">
-
 <!-- TOC manipulation -->
+
 <!ENTITY insertTOC.label          "Cuir a-steach">
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "Ùraich">

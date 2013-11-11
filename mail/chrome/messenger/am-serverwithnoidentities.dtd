@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label "Roghainnean nan cunntas">
-<!ENTITY accountSettingsDesc.label "Tha na leanas 'na chunntas sònraichte. Chan eil dearbh-aithnean co-cheangailte ris.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Ainm a' chunntais:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY messageStorage.label "Stòras nan teachdaireachdan">
-<!ENTITY emptyTrashOnExit.label "Falamhaich an sgudal nuair a dhùineas mi am prògram">
-<!ENTITY emptyTrashOnExit.accesskey "F">
-<!ENTITY localPath.label "An t-eòlaire ionadail:">
-<!ENTITY localFolderPicker.label "Tagh an t-eòlaire ionadail">
-<!ENTITY browseFolder.label "Brabhsaich…">
-<!ENTITY browseFolder.accesskey "B">

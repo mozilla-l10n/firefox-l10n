@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Ainm:">
 <!ENTITY     props.value.label              "Susbaint:">
 <!ENTITY     props.domain.label             "Òstair:">
 <!ENTITY     props.path.label               "Slighe:">
 <!ENTITY     props.secure.label             "Seòl airson:">
 <!ENTITY     props.expires.label            "Falbhaidh an ùine air:">
-<!ENTITY     props.policy.label             "Poileasaidh:"> 
 
 <!ENTITY     button.allow.label             "Ceadaich">
 <!ENTITY     button.allow.accesskey         "a">

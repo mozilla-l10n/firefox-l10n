@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
 <!ENTITY  window.width                  "45em">
@@ -9,7 +13,7 @@
 <!ENTITY  systemTypeRadio.label         "Cleachd roghainnean progsaidh an t-siostaim">
 <!ENTITY  systemTypeRadio.accesskey     "C">
 <!ENTITY  WPADTypeRadio.label           "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
-<!ENTITY  WPADTypeRadio.accesskey       "M">
+<!ENTITY  WPADTypeRadio.accesskey       "h">
 <!ENTITY  manualTypeRadio.label         "Rèiteachadh-làimhe nam progsaidh:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL rèiteachadh nam progsaidh leis fhèin:">

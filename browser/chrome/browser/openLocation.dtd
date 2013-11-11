@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/openLocation.xul -->
+
 
 <!ENTITY enter.label "Cuir a-steach an seòladh-lìn (URL) no sònraich am faidhle ionadail a bu toigh leat fosgladh:">  
 <!ENTITY chooseFile.label "Tagh faidhle…">

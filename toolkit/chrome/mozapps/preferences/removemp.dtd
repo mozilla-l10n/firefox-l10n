@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY removePassword.title              "Thoir air falbh am prìomh fhacal-faire">
 <!ENTITY removeInfo.label                  "Feumaidh tu am facal-faire làithreach a chur a-steach gus leantainn air adhart:">
 <!ENTITY removeWarning1.label              "Thathar a' cleachdadh a' phrìomh fhacail-fhaire agad gus fiosrachadh cugallach mar fhaclan-faire de làraichean a dhìon.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsDialog.title                       "Cruthan-clò">
 <!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "48em">
@@ -11,14 +15,14 @@
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Co-rèireach:">
-<!ENTITY  proportional.accesskey                  "C">
+<!ENTITY  proportional.accesskey                  "o">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Clò aon-leud:">
-<!ENTITY  monospace.accesskey                     "C">
+<!ENTITY  monospace.accesskey                     "l">
 
 <!ENTITY  font.langGroup.latin1                   "Siarach">
 <!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
@@ -56,14 +60,15 @@
 <!ENTITY minSize.label                            "Meud as lugha a' chrutha-chlò:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Chan eil gin">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Leig le duilleagan na cruthan-clò aca fhèin a thaghadh seach mo thaghadh-sa gu h-àrd">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Còdachadh charactairean">
-<!ENTITY languages.customize.DefaultCharset.label       "Còdachadh charactairean bunaiteach:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.Fallback.grouplabel  "Còdachadh charactaran airson susbaint oighreachd">
+<!ENTITY languages.customize.Fallback.label       "Còdachadh charactaran fallback:">
+<!ENTITY languages.customize.Fallback.accesskey   "f">
+<!ENTITY languages.customize.Fallback.desc        "Thèid an còdachadh charactaran seo a chleachdadh airson susbaint oighreachd nach eil a' cur an cèill dè còdachadh a chleachdas e.">
