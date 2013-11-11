@@ -229,6 +229,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Upraviť">
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
+<!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
