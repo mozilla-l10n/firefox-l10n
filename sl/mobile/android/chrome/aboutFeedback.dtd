@@ -9,19 +9,19 @@
 <!ENTITY pageTitle                 "Mnenja o &brandShortName;u">
 
 <!ENTITY intro.header              "Imate minuto?">
-<!ENTITY intro.message             "Povejte nam kaj si mislite o &brandShortName; za Android.">
+<!ENTITY intro.message             "Povejte nam, kaj si mislite o &brandShortName;u za Android.">
 <!ENTITY intro.happyLink           "Všeč mi je">
-<!ENTITY intro.sadLink             "Naletel sem na neke probleme">
-<!ENTITY intro.maybeLater          "Mogoče kasneje">
+<!ENTITY intro.sadLink             "Naletel sem na težave">
+<!ENTITY intro.maybeLater          "Mogoče pozneje">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Lahk obiščete tudi ">
+<!ENTITY support.pre2              "Za več informacij lahko obiščete tudi ">
 <!ENTITY support.link              "&brandShortName; pomoč">
-<!ENTITY support.post2             " za več informacij.">
+<!ENTITY support.post2             ".">
 
-<!ENTITY happy.header              "To je lepo za slišti!">
+<!ENTITY happy.header              "To je lepo slišati!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -32,25 +32,25 @@
 <!ENTITY happy.finePrint           "Traja manj kot minuto in občutek je krasen.">
 
 <!ENTITY happy.ratingLink          "Da, pojdi na Google Play">
-<!ENTITY happy.maybeLater2         "Mogoče kasneje">
-<!ENTITY happy.noThanks            "Ne hvala">
+<!ENTITY happy.maybeLater2         "Mogoče pozneje">
+<!ENTITY happy.noThanks            "Ne, hvala">
 
-<!ENTITY sad.message               "Žal nam je, da ste imeli probleme z &brandShortName;. Prosimo vas, da nam poveste kaj se je zgodilo, da lahko napako popravimo.">
-<!ENTITY sad.placeholder           "Vnestie svoje mnenje tukaj">
+<!ENTITY sad.message               "Žal nam je, da ste imeli težave s &brandShortName;om. Povejte nam, kaj se je zgodilo, da lahko napako popravimo.">
+<!ENTITY sad.placeholder           "Tukaj vnesite svoje mnenje">
 <!ENTITY sad.lastSite              "Nazadnje obiskana stran (neobvezno)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Hvala vam, da ste nas obvestili.">
+<!ENTITY sad.thanksHeader          "Hvala, da ste nas obvestili.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Vedno se trudimo, da bi naredili &brandShortName; boljši. Bodite prepričani, da bodo ljudje pogledali vaše povratne informacije, in se podrudili po svojih najboljših močeh razrešit vaše težave.">
+<!ENTITY sad.thanksMessageTop      "Vedno se trudimo, da bi naredili &brandShortName; boljši. Bodite prepričani, da bodo vaše mnenje pogledali resnični ljudje in se potrdudili, da odpravijo vaše težave.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Sicer bo šiba pela.">
 
-<!ENTITY feedback.privacy          "Zaradi vaše zasebnosti vas prosimo, da v vaše odzive ne vključujete vaših osebnih podatkov.">
-<!ENTITY feedback.send             "Pošlji povratno informacijo">
+<!ENTITY feedback.privacy          "Zaradi vaše zasebnosti vas prosimo, da v vaše odzive ne vključujete svojih osebnih podatkov.">
+<!ENTITY feedback.send             "Pošlji mnenje">
