@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Ladenie">
 <!ENTITY device.debugAppTooltip "Otvorí Vývojárske nástroje pripojené k tejto aplikácii na zariadení">
 <!ENTITY device.name "Názov">
-<!ENTITY device.app "Aplikácia">
+<!ENTITY device.plain "Obyčajná (predvolené)">
 <!ENTITY device.privileged "Privilegovaná">
 <!ENTITY device.certified "Certifikovaná">
 <!ENTITY device.allow "Povoliť">
