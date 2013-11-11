@@ -6,22 +6,22 @@
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
 
-<!ENTITY pageTitle                 "&brandShortName; Feedback">
+<!ENTITY pageTitle                 "&brandShortName; Povratne informacije">
 
-<!ENTITY intro.header              "Have a minute?">
-<!ENTITY intro.message             "Tell us what you think about &brandShortName; for Android so far.">
-<!ENTITY intro.happyLink           "I love it">
-<!ENTITY intro.sadLink             "I ran into some problems">
-<!ENTITY intro.maybeLater          "Maybe later">
+<!ENTITY intro.header              "Imate minuto?">
+<!ENTITY intro.message             "Povejte nam kaj si mislite o &brandShortName; za Android.">
+<!ENTITY intro.happyLink           "Všeč mi je">
+<!ENTITY intro.sadLink             "Naletel sem na neke probleme">
+<!ENTITY intro.maybeLater          "Mogoče kasneje">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "You can also visit ">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " for more information.">
+<!ENTITY support.pre2              "Lahk obiščete tudi ">
+<!ENTITY support.link              "&brandShortName; Podpora">
+<!ENTITY support.post2             " za več informacij.">
 
-<!ENTITY happy.header              "That's great to hear!">
+<!ENTITY happy.header              "To je lepo za slišti!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -29,28 +29,28 @@
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint           "Traja manj kot minuto in občutek je krasen.">
 
-<!ENTITY happy.ratingLink          "Yes, go to Google Play">
-<!ENTITY happy.maybeLater2         "Maybe later">
-<!ENTITY happy.noThanks            "No thanks">
+<!ENTITY happy.ratingLink          "Da, pojdi na Google Play">
+<!ENTITY happy.maybeLater2         "Mogoče kasneje">
+<!ENTITY happy.noThanks            "Ne hvala">
 
-<!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
-<!ENTITY sad.placeholder           "Enter your feedback here">
-<!ENTITY sad.lastSite              "Last visited site (optional)">
+<!ENTITY sad.message               "Žal nam je, da ste imeli probleme z &brandShortName;. Prosimo vas, da nam poveste kaj se je zgodilo, da lahko napako popravimo.">
+<!ENTITY sad.placeholder           "Vnestie svoje mnenje tukaj">
+<!ENTITY sad.lastSite              "Nazadnje obiskana stran (neobvezno)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+<!ENTITY sad.thanksHeader          "Hvala vam, da ste nas obvestili.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "We're always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop      "Vedno se trudimo, da bi naredili &brandShortName; boljši. Bodite prepričani, da bodo ljudje pogledali vaše povratne informacije, in se podrudili po svojih najboljših močeh razrešit vaše težave.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Or else.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
-<!ENTITY feedback.send             "Send Feedback">
+<!ENTITY feedback.privacy          "Zaradi vaše zasebnosti vas prosimo, da v vaše odzive ne vključujete vaših osebnih podatkov.">
+<!ENTITY feedback.send             "Pošlji povratno informacijo">
