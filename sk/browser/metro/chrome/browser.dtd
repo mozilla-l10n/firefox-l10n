@@ -18,6 +18,7 @@
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
 <!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 <!ENTITY appbarMSMetaData2.label    "Získať aplikáciu pre túto stránku">
+<!ENTITY appbarViewPageSource.label "Zobraziť zdrojový kód stránky">
 
 <!ENTITY topSitesHeader.label        "Top stránky">
 <!ENTITY bookmarksHeader.label       "Záložky">
