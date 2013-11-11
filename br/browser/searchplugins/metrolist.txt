@@ -1,6 +1,6 @@
 amazon-france
 freelang
-google
+googlemetrofx
 klask
 wikipedia-br
 yahoo-france
