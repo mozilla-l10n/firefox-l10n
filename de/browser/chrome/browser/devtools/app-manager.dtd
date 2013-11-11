@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Installieren Sie eine Version des Simulators durch Herunterladen des erforderlichen Add-ons.">
 <!ENTITY connection.installAnotherSimulator "Hinzufügen">
 <!ENTITY connection.installAnotherSimulatorTooltip "Installieren Sie eine weitere Version des Simulators durch Herunterladen des entsprechenden Add-ons.">
+<!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Lokale Apps">
 <!ENTITY projects.addApp "Hinzufügen">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Entwicklerwerkzeuge öffnen und mit dieser App verbinden">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Keine Projekte vorhanden. Fügen Sie unten eine neue gepackte App als lokalen Ordner oder eine gehostete App als Adresse einer Manifest-Datei hinzu.">
+<!ENTITY projects.manifestEditor "Manifest-Bearbeitung">
+<!ENTITY projects.manifestEditorTooltip "Bearbeiten des App-Manifests in der Ebene weiter unten. Die Aktualisieren-Schaltfläche spart Zeit und aktualisiert die App.">
+<!ENTITY projects.manifestViewer "Manifest-Ansicht">
+<!ENTITY projects.manifestViewerTooltip "Untersuchen des App-Manifests in der Ebene weiter unten">
 
 <!ENTITY help.title "App-Manager">
 <!ENTITY help.close "Schließen">
