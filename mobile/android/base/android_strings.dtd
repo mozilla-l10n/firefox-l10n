@@ -92,7 +92,7 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Permitir todos">
-<!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site visitado">
+<!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
 <!ENTITY pref_cookies_disabled "Desativar">
 
 <!ENTITY pref_donottrack_menu "Rastreamento">
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Inscrever-se à página">
 <!ENTITY contextmenu_site_settings "Editar config. do site">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Afixar site">
-<!ENTITY contextmenu_top_bookmarks_unpin "Desafixar site">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Fixar site">
+<!ENTITY contextmenu_top_sites_unpin "Desafixar site">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Página excluída">
 
-<!ENTITY bookmark_add "Adicionar um favorito">
 <!ENTITY bookmark_edit_title "Editar favorito">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Endereço">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Adicionar um site">
 
 <!ENTITY home_history_title "Histórico">
-<!ENTITY home_last_tabs_title "Abas da última vez">
-<!ENTITY home_last_tabs_open "Abrir todas as abas da última vez">
+<!ENTITY home_bookmarks_empty "Seus favoritos serão mostradas aqui.">
+<!ENTITY home_last_tabs_title "Abas anteriores">
+<!ENTITY home_last_tabs_open "Restaurar todas as abas anteriores">
 <!ENTITY home_last_tabs_empty "Suas abas recentes serão mostradas aqui.">
 <!ENTITY home_most_recent_title "Mais recentes">
 <!ENTITY home_most_recent_empty "Sites visitados recentemente serão mostrados aqui.">
-<!ENTITY home_most_visited_title "Mais visitados">
 <!ENTITY home_reading_list_empty "Artigos salvos para depois serão mostrados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "DICA: salve artigos em sua lista de leitura dando um toque longo no botão do modo de leitura quando ele aparecer na barra de título.">
 
-<!ENTITY home_most_visited_empty "Sites visitados frequentemente serão mostrados aqui.">
-<!ENTITY pin_bookmark_dialog_hint "Forneça uma palavra-chave de pesquisa">
+<!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
 <!ENTITY filepicker_title "Selecionar arquivo">
 <!ENTITY filepicker_audio_title "Selecione ou grave um som">

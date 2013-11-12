@@ -9,13 +9,13 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Conectar ao &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "Conectar-se ao &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Adicionar conta &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Parear dispositivo">
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label "Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele.">
-<!ENTITY sync.subtitle.header2.label "Forneça este código no seu outro dispositivo">
+<!ENTITY sync.subtitle.header2.label "Forneça este código no seu outro dispositivo.">
 <!ENTITY sync.subtitle.connectlocation2.label "Selecione “&sync.title.pair.label;” nas opções &syncBrand.shortName.label; no Firefox do seu outro dispositivo.">
 <!ENTITY sync.subtitle.pair.label "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
@@ -87,7 +87,7 @@
 <!ENTITY bookmarks.folder.pinned.label "Afixado">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Apenas uma conta &syncBrand.fullName.label; é suportada.">
+<!ENTITY sync.notification.oneaccount.label "Somente uma conta &syncBrand.fullName.label; é suportada.">
 <!ENTITY sync.notification.configure.saved "Suas preferências foram salvas.">
 
 <!-- Incorrect settings and changing credentials. -->
