@@ -258,7 +258,7 @@
 <!ENTITY calendar.context.convertmenu.task.accesskey      "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Minimaand">
-<!ENTITY calendar.tasks.view.minimonth.accesskey       "n">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "m">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Agendalijst">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "A">

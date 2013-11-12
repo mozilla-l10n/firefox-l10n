@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Het &brandShortName;-menu weergeven">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Agendavenster">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "v">
+<!ENTITY lightning.toolbar.calendarpane.label        "Agendavenster tonen">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "v">
