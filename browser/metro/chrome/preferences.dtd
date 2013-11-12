@@ -7,12 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opciones">
-<!ENTITY optionsHeader.startup.title                             "Inicio">
-<!ENTITY optionsHeader.homepage.title                            "Cuando &brandShortName; se inicie, mostrar">
-<!ENTITY optionsHeader.homepage.startPage.button                 "la página de inicio">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "las pestañas de la última vez">
-
-
 <!ENTITY optionsHeader.char.title                                "Codificación de caracteres">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
 <!ENTITY optionsHeader.char.options.label                        "Mostrar opciones de codificación en la barra de la App">
@@ -38,3 +32,8 @@
 <!ENTITY doNotTrack.options.doTrack                              "Decirle a los sitios que quiero ser rastreado">
 <!ENTITY doNotTrack.options.default                              "No decirle a los sitios sobre mis preferencias de rastreo">
 <!ENTITY doNotTrack.learnMoreLink                                "Aprender más&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Reporte de fallos">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envía reporte de fallos para ayudar a Mozilla a hacer su navegador más estable y seguro">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetría">
+<!ENTITY optionsHeader.telemetry.label                            "Comparte estadísticas de uso sobre &brandShortName; con Mozilla para ayudarnos a mejorar su navegador">
