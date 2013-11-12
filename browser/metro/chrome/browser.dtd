@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Odpri lupino JavaScripta">
 <!ENTITY appbarFindInPage2.label    "Najdi na strani">
 <!ENTITY appbarViewOnDesktop2.label "Prikaži na namizju">
+<!ENTITY appbarMSMetaData2.label    "Prenesi aplikacijo za to stran">
 
 <!ENTITY topSitesHeader.label        "Glavna mesta">
 <!ENTITY bookmarksHeader.label       "Zaznamki">
