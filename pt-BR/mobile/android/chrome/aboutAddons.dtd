@@ -5,6 +5,7 @@
 <!ENTITY aboutAddons.title2                     "Complementos">
 <!ENTITY aboutAddons.header2                    "Seus complementos">
 <!ENTITY aboutAddons.options                    "Opções">
+<!ENTITY aboutAddons.browseAll                  "Navegar por todos os complementos do Firefox">
 
 <!ENTITY addonAction.enable                     "Ativar">
 <!ENTITY addonAction.disable                    "Desativar">

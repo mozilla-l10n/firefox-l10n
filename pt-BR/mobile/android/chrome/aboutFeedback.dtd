@@ -12,14 +12,14 @@
 <!ENTITY intro.message             "Diga-nos o que achou do &brandShortName; para Android até o momento.">
 <!ENTITY intro.happyLink           "Adorei">
 <!ENTITY intro.sadLink             "Tive alguns problemas">
-<!ENTITY intro.ideaLink            "Tenho uma ideia">
+<!ENTITY intro.maybeLater          "Talvez depois">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Caso precise de ajuda ou se teve problemas com o &brandShortName;, por favor, visite o ">
+<!ENTITY support.pre2              "Você também pode visitar ">
 <!ENTITY support.link              "suporte do &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " para mais informações.">
 
 <!ENTITY happy.header              "É bom ouvir isso!">
 
@@ -32,7 +32,7 @@
 <!ENTITY happy.finePrint           "É rapidinho e não custa nada.">
 
 <!ENTITY happy.ratingLink          "Sim, abrir o Google Play">
-<!ENTITY happy.maybeLater          "Talvez depois">
+<!ENTITY happy.maybeLater2         "Talvez depois">
 <!ENTITY happy.noThanks            "Não, obrigado">
 
 <!ENTITY sad.message               "Sentimos muito pelos problemas que você teve com o &brandShortName;. Por favor, conte-nos o que ocorreu para que possamos resolver.">
@@ -51,20 +51,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Ou cabeças rolarão.">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Gostaremos de ouvir suas ideias! Compartilhe-as abaixo (mas apenas as sobre o &brandShortName;, por favor).">
-<!ENTITY idea.placeholder          "Forneça sua ideia aqui">
-<!ENTITY idea.thanksHeader         "Obrigado!">
-
-<!ENTITY idea.thanksMessageTop     "Agradecemos o tempo dispensado para compartilhar os seus pensamentos conosco. Estamos sempre trabalhando para tornar o &brandShortName; melhor e contribuições como a sua podem levar a grandes realizações.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Você não consegue ver, mas estamos lhe cumprimentando neste momento.">
 
 <!ENTITY feedback.privacy          "Para sua privacidade, por favor, não inclua em sua opinião informações que possam lhe identificar.">
 <!ENTITY feedback.send             "Dê a sua opinião">
