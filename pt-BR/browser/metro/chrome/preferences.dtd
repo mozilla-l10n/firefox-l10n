@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opções">
-<!ENTITY optionsHeader.startup.title                             "Iniciar">
-<!ENTITY optionsHeader.homepage.title                            "Ao iniciar o &brandShortName;:">
-<!ENTITY optionsHeader.homepage.startPage.button                 "abrir página inicial">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "restaurar abas anteriores">
 <!ENTITY optionsHeader.char.title                                "Codificação de caracteres">
 <!ENTITY optionsHeader.char.autodetect.label                     "Selecionar automaticamente">
 <!ENTITY optionsHeader.char.options.label                        "Exibir opções de codificação na barra de aplicativos.">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Memorizar senhas">
 <!ENTITY doNotTrack.title                                        "Antirrastreamento">
-<!ENTITY doNotTrack.desc                                         "Notificar aos sites:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Não quero ser rastreado">
-<!ENTITY doNotTrack.options.noPreference                         "Nada sobre minhas preferências de rastreamento">
-<!ENTITY doNotTrack.options.trackingOkay                         "Quero ser rastreado">
+<!ENTITY doNotTrack.options.doNotTrack                           "Notificar aos sites que não quero ser rastreado">
+<!ENTITY doNotTrack.options.doTrack                              "Notificar aos sites que quero ser rastreado">
+<!ENTITY doNotTrack.options.default                              "Não notificar aos sites sobre minhas preferências de rastreamento">
+<!ENTITY doNotTrack.learnMoreLink                                "Saiba mais…">
+
 <!ENTITY optionsHeader.reporting.title                           "Relatórios de travamento">
 <!ENTITY optionsHeader.reporting.crashes.label                   "O &brandShortName; envia relatórios de travamento para auxiliar a Mozilla a tornar seu navegador mais estável e seguro.">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">
