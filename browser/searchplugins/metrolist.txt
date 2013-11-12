@@ -1,4 +1,7 @@
-bingmetrofx
 googlemetrofx
-wikipedia
-yahoo
+yahoo-es
+bingmetrofx
+drae
+twitter
+eBay-es
+wikipedia-es
