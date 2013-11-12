@@ -11,7 +11,7 @@
 <!ENTITY sync.disconnect            "Desconectar">
 <!ENTITY sync.syncNow               "Sincronizar agora">
 
-<!ENTITY sync.setup.title           "Conectar ao Sync">
+<!ENTITY sync.setup.title           "Conectar-se ao Sync">
 <!ENTITY sync.setup.pair            "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
 <!ENTITY sync.setup.manual          "Forneça as informações da sua conta do Sync.">
