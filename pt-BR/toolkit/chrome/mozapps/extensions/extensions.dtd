@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Perguntar para ativar">
+<!ENTITY cmd.askToActivate.tooltip            "Perguntar toda vez para usar este plugin">
+<!ENTITY cmd.alwaysActivate.label             "Sempre ativar">
+<!ENTITY cmd.alwaysActivate.tooltip           "Sempre usar este plugin">
+<!ENTITY cmd.neverActivate.label              "Nunca ativar">
+<!ENTITY cmd.neverActivate.tooltip            "Nunca usar este plugin">
+<!ENTITY cmd.stateMenu.tooltip                "Alterar quando este plugin executar">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Excluir">
@@ -125,7 +132,7 @@
 
 <!ENTITY detail.updateType                    "Atualização automática">
 <!ENTITY detail.updateDefault.label           "Padrão">
-<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente apenas se isto for o padrão">
+<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente somente se isto for o padrão">
 <!ENTITY detail.updateAutomatic.label         "Ativada">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar atualizações automaticamente">
 <!ENTITY detail.updateManual.label            "Desativada">
