@@ -19,6 +19,10 @@
 <!ENTITY  manualUpdate.space.desc         "Uma atualização recomendada de segurança e estabilidade está disponível. Entretanto, não há espaço em disco suficiente para instalá-la.">
 <!ENTITY  manualUpdateGetMsg.label        "Você sempre pode baixar a versão mais recente do &brandShortName; em:">
 
+<!ENTITY  unsupported.title               "Sistema não suportado">
+<!ENTITY  unsupported.label               "Seu &brandShortName; está desatualizado, mas a versão atual não é suportada no seu sistema. Por favor, atualize seu sistema e tente de novo. Esta mensagem não aparecerá outra vez, mas você pode">
+<!ENTITY  unsupportedLink.label           "obter mais informações.">
+
 <!ENTITY  incompatibleCheck.title         "Verificando compatibilidade dos complementos">
 <!ENTITY  incompatibleCheck.label         "Localizando novas versões de suas extensões e temas…">
 
@@ -41,7 +45,7 @@
 <!ENTITY  downloadPage.title              "Recebendo o &brandShortName;">
 <!ENTITY  downloading.intro               "Recebendo a atualização…">
 <!ENTITY  connecting.label                "Conectando-se ao servidor de atualização…">
-<!ENTITY  verificationFailedText.label    "O &brandShortName; não pôde comprovar a integridade da atualização incremental recebida. Será efetuado o download do pacote completo de atualização.">
+<!ENTITY  verificationFailedText.label    "O &brandShortName; não pôde comprovar a integridade do arquivo de atualização incremental. Em andamento o recebimento da atualização completa.">
 
 <!ENTITY  viewDetails.tooltip             "Exibir detalhes desta atualização">
 
