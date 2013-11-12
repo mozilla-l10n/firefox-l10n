@@ -10,7 +10,7 @@
 <!ENTITY device.screenshot "Imagem da página">
 <!ENTITY device.screenshotTooltip "Abrir em nova aba uma imagem do estado atual do dispositivo">
 <!ENTITY device.title "Centro de controle do dispositivo">
-<!ENTITY device.notConnected "Não conectado. Por favor, conecte o seu dispositivo abaixo.">
+<!ENTITY device.notConnected "Não conectado. Por favor, conecte abaixo o seu dispositivo.">
 <!ENTITY device.startApp "Iniciar">
 <!ENTITY device.startAppTooltip "Iniciar este aplicativo no dispositivo">
 <!ENTITY device.stopApp "Parar">
@@ -41,7 +41,7 @@
 <!ENTITY connection.connectTo "Conectar-se a:">
 <!ENTITY connection.noDeviceFound "Nenhum dispositivo encontrado. Conecte um dispositivo">
 <!ENTITY connection.changeHostAndPort "Modificar">
-<!ENTITY connection.changeHostAndPortTooltip "Modificar o servidor e porta usados para conectar-se a este dispositivo. (O padrão é localhost:6000)">
+<!ENTITY connection.changeHostAndPortTooltip "Modificar o servidor e porta usados para conectar-se a este dispositivo (o padrão é localhost:6000)">
 <!ENTITY connection.startSimulator "Iniciar Simulator">
 <!ENTITY connection.startSimulatorTooltip "Iniciar uma instância do Simulator e conectar-se a ela">
 <!ENTITY connection.saveConnectionInfo "Salvar">
@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instalar uma versão do Simulator baixando a extensão pertinente">
 <!ENTITY connection.installAnotherSimulator "Adicionar">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instalar uma versão adicional do Simulator baixando a extensão pertinente">
+<!ENTITY connection.startRegisteredSimulator "Iniciar:">
 
 <!ENTITY projects.localApps "Aplicativos locais">
 <!ENTITY projects.addApp "Adicionar">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Abrir as ferramentas do desenvolvedor conectadas a este aplicativo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nenhum projeto. Adicione um novo aplicativo empacotado abaixo (diretório local) ou um aplicativo hospedado (link para um arquivo manifest).">
+<!ENTITY projects.manifestEditor "Editor de manifesto">
+<!ENTITY projects.manifestEditorTooltip "Edite o manifesto do seu aplicativo no painel abaixo. o botão Atualizar salvará suas alterações e atualizará o aplicativo">
+<!ENTITY projects.manifestViewer "Visualizador de manifesto">
+<!ENTITY projects.manifestViewerTooltip "Verifique o manifesto do seu aplicativo no painel abaixo">
 
 <!ENTITY help.title "App Manager">
 <!ENTITY help.close "Fechar">
