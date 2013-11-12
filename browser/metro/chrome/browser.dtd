@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Open JavaScript shell">
 <!ENTITY appbarFindInPage2.label    "Localizar na página">
 <!ENTITY appbarViewOnDesktop2.label "Exibir na área de trabalho">
+<!ENTITY appbarMSMetaData2.label    "Instale um aplicativo para este site">
 
 <!ENTITY topSitesHeader.label        "Sites principais">
 <!ENTITY bookmarksHeader.label       "Favoritos">
