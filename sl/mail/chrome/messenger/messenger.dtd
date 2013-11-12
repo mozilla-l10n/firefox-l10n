@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
 <!ENTITY appmenuNewContactCmd.label "Stik iz imenika …">
 <!ENTITY appmenuEditMenu.label "Uredi">
-<!ENTITY appmenuQFBMenu.label "Vrstica za hitro filtriranje">
 <!ENTITY appmenuToolbarLayout.label "Postavitev orodne vrstice …">
 <!ENTITY appmenuSelectThread.label "Izberite nit">
 <!ENTITY appmenuSelectFlagged.label "Izberite sporočila z zvezdico">

@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "k">
 <!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "N">
+<!ENTITY printPreviewCmd.label "Predogled tiskanja">
+<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "T">
