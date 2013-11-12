@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
 <!ENTITY generalInfo.label                       "Splošne informacije">
-<!ENTITY folderCharsetTab.label                  "Privzeti nabor znakov:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Uveljavi privzeto za vsa sporočila v mapi (posamezne nastavitve za nabore znakov in samodejno zaznavanje ne bodo upoštevane)">
-<!ENTITY folderCharsetOverride.accesskey         "N">
+<!ENTITY folderCharsetFallback.label             "Privzet nabor znakov:">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetEnforce.label              "Uveljavi nabor za vsa sporočila v mapi (nastavitve nabora znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "D">
