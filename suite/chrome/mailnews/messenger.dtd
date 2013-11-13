@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Mind">
 <!ENTITY all.accesskey "M">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage.label "A &brandShortName; szerint ez az üzenet levélszemét.">
-<!ENTITY junkBarButton.label "Ez nem szemét">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage.label "Adatvédelmi okokból a &brandShortName; blokkolta a távoli képeket ebben az üzenetben.">
-<!ENTITY loadRemoteContentButton.label "Távoli tartalom megjelenítése">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage.label "A &brandShortName; szerint ez az üzenet becsapós e-mail lehet.">
-<!ENTITY removePhishingBarButton.label "Nem az">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton.label "Nincs értesítés">
-<!ENTITY mdnBarIgnoreButton.accesskey "s">
-<!ENTITY mdnBarSendButton.label "Értesítés küldése">
-<!ENTITY mdnBarSendButton.accesskey "k">
