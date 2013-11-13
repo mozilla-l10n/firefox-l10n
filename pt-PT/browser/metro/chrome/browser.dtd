@@ -18,7 +18,7 @@
 <!ENTITY appbarFindInPage2.label "Localizar na página">
 <!ENTITY appbarViewOnDesktop2.label "Ver no computador">
 <!ENTITY appbarMSMetaData2.label "Obter aplicação para este sítio">
-<!ENTITY appbarViewPageSource.label "View page source">
+<!ENTITY appbarViewPageSource.label "Ver código da página">
 
 <!ENTITY topSitesHeader.label "Top de sítios">
 <!ENTITY bookmarksHeader.label "Marcadores">
