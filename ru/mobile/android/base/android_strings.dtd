@@ -175,6 +175,7 @@
 <!ENTITY contextmenu_top_sites_edit "Изменить">
 <!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
 <!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
+<!ENTITY contextmenu_add_search_engine "Добавить поисковую систему">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
