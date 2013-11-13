@@ -38,3 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Sovellusvalikko">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Avaa &brandShortName;-valikon">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kalenteripaneeli">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
+<!ENTITY lightning.toolbar.calendarpane.label        "Näytä kalenteripaneeli">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "N">
