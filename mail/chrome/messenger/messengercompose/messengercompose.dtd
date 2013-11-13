@@ -24,6 +24,8 @@
 <!ENTITY attachPageCmd.accesskey "е">
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "з">
+<!ENTITY remindLater.label "Напомнить позже">
+<!ENTITY remindLater.accesskey "а">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
