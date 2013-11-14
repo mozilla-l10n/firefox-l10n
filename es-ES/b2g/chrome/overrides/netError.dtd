@@ -22,8 +22,10 @@
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Compruebe que el nombre de archivo no tiene errores de escritura, incluyendo el uso de mayúsculas.</li>
-  <li>Compruebe si el archivo ha sido movido, renombrado o eliminado.</li>
+  <li>Compruebe que el nombre de archivo no tiene errores de
+   escritura, incluyendo el uso de mayúsculas.</li>
+  <li>Compruebe si el archivo ha sido movido, renombrado o
+   eliminado.</li>
 </ul>
 ">
 <!ENTITY generic.title "Oops.">
@@ -33,14 +35,16 @@
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Las direcciones web se escriben normalmente como <strong>http://www.ejemplo.com/</strong></li>
-  <li>Asegúrese de que está usando barras inclinadas hacia delante (p.e. <strong>/</strong>).</li>
+  <li>Las direcciones web se escriben normalmente como
+    <strong>http://www.ejemplo.com/</strong></li>
+  <li>Asegúrese de que está usando barras inclinadas hacia
+    delante (p.e. <strong>/</strong>).</li>
 </ul>
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>El documento requerido ya no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no vuelve a pedir automáticamente documentos sensibles.</li><li>Haga clic en Intentar de nuevo para volver a pedir el documento del sitio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documento requerido ya no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no vuelve a pedir automáticamente documentos sensibles.</li><li>Haga clic en Reintentar para volver a pedir el documento del sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -49,13 +53,13 @@
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li>
+  <li>Contacte con los propietarios del sitio web para informarles de este problema.</li>
 </ul>
 ">
 <!ENTITY unsafeContentType.title "Tipo de archivo no seguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li>
+  <li>Contacte con los propietarios del sitio web para informarles de este problema.</li>
 </ul>
 ">
 <!ENTITY netReset.title "La conexión ha sido reiniciada">
@@ -65,14 +69,17 @@
 <!ENTITY protocolNotFound.title "La dirección no resulta comprensible">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Podría necesitar instalar otro software para abrir esta dirección.</li>
+  <li>Podría necesitar instalar otro software para abrir esta
+   dirección.</li>
 </ul>
 ">
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Compruebe la configuración de proxy para asegurarse de que es correcta.</li>
-  <li>Contacte con su administrador de red para asegurarse de que el servidor proxy está funcionando.</li>
+  <li>Compruebe la configuración de proxy para asegurarse de
+    que es correcta.</li>
+  <li>Contacte con su administrador de red para asegurarse de
+    que el servidor proxy está funcionando.</li>
 </ul>
 ">
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
@@ -85,24 +92,27 @@
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Este problema a veces está causado por desactivar o rechazar la recepción de cookies.</li>
+  <li>Este problema a veces está causado por desactivar o rechazar
+    la recepción de cookies.</li>
 </ul>
 ">
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Compruebe que su sistema tiene el administrador personal de seguridad instalado.</li>
-  <li>Esto podría deberse a una configuración no estándar en el servidor.</li>
+  <li>Compruebe que su sistema tiene el administrador personal
+   de seguridad instalado.</li>
+  <li>Esto podría deberse a una configuración no estándar en el
+   servidor.</li>
 </ul>
 ">
 <!ENTITY nssFailure2.title "Conexión segura fallida">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La página que está intentando ver no puede mostrarse porque no se ha podido verificar la autenticidad de los datos recibidos.</li>
-  <li>Por favor, contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para informar del problema de este sitio web.</li>
+  <li>Contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para informar del problema de este sitio web.</li>
 </ul>
 ">
-<!ENTITY nssBadCert.title "La conexión segura ha fallado">
+<!ENTITY nssBadCert.title "Conexión segura fallida">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Puede ser un problema con la configuración del servidor, o bien que alguien está intentando suplantar al servidor.</li>
@@ -116,9 +126,9 @@
 </ul>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedido que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
 <!ENTITY corruptedContentError.title "Error de contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detectó un error en la transmisión de los datos.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema</li></ul>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
@@ -129,4 +139,4 @@
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
