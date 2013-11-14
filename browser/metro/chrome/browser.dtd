@@ -20,7 +20,7 @@
 
 <!ENTITY topSitesHeader.label        "Glavna mesta">
 <!ENTITY bookmarksHeader.label       "Zaznamki">
-<!ENTITY recentHistoryHeader.label   "Nedavna zgodovina">
+<!ENTITY recentHistoryHeader.label   "Zgodovina">
 <!ENTITY remoteTabsHeader.label      "Zavihki ostalih naprav">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
@@ -32,7 +32,7 @@
       -->
 <!ENTITY narrowTopSitesHeader.label      "Glavno">
 <!ENTITY narrowBookmarksHeader.label     "Zaznamki">
-<!ENTITY narrowRecentHistoryHeader.label "Nedavna zgodovina">
+<!ENTITY narrowRecentHistoryHeader.label "Zgodovina">
 <!ENTITY narrowRemoteTabsHeader.label    "Oddaljeni zavihki">
 
 <!ENTITY downloadsHeader.label     "Prenosi">
