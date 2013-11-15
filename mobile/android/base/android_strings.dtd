@@ -4,7 +4,7 @@
 
 
 <!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
-<!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
+<!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayisha iifayile ezifunekayo ukuhambisa i-&brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -23,7 +23,7 @@
 <!ENTITY  crash_allow_contact2 "Vumela i-&vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
 <!ENTITY  crash_email "I-imeyili yakho">
 <!ENTITY  crash_closing_alert "Ufuna ukuphuma ungayithumelanga ingxelo?">
-<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
+<!ENTITY  sending_crash_report "Ukuthumela ingxelo yokonakala\u2026">
 <!ENTITY  crash_close_label "Vala">
 <!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
 <!ENTITY  exit_label "Phuma">
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Hlela">
 <!ENTITY contextmenu_subscribe "Rhumela Kwiphepha">
 <!ENTITY contextmenu_site_settings "Hlela Iisetingi Zesayithi">
-<!ENTITY contextmenu_top_bookmarks_edit "Hlela">
-<!ENTITY contextmenu_top_bookmarks_pin "Qhobosha isayithi">
-<!ENTITY contextmenu_top_bookmarks_unpin "Khulula isayithi">
+<!ENTITY contextmenu_top_sites_edit "Hlela">
+<!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
+<!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
 
 <!ENTITY pref_titlebar_mode "Ibha yomxholo">
 <!ENTITY pref_titlebar_mode_title "Bonisa umxholo wephepha">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Iphepha lisusiwe">
 
-<!ENTITY bookmark_add "Yongeza ibhukhmakhi">
 <!ENTITY bookmark_edit_title "Hlela isalathisi esiphawulayo">
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Yongeza isayithi">
 
 <!ENTITY home_history_title "Imbali">
+<!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
 <!ENTITY home_last_tabs_title "Ithebhu zexesha eligqithileyo">
 <!ENTITY home_last_tabs_open "Vula zonke iithebhu zexesha lokugqibela">
 <!ENTITY home_last_tabs_empty "Iithebhu zakho zakutshanje zibonakala apha.">
 <!ENTITY home_most_recent_title "Ezona zakutshanje">
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
-<!ENTITY home_most_visited_title "Ezona zityelelwe kakhulu">
 <!ENTITY home_reading_list_empty "Amanqaku owagcinele ukuwasebenzisa kamva abonakala apha.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ICEBISO: Gcina amanqaku oluhlu lwakho lokufunda ngokucofa ixesha elide kwiqhosha lemo xa libonakala kwibha yomxholo.">
 
-<!ENTITY home_most_visited_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
-<!ENTITY pin_bookmark_dialog_hint "Faka igama eliphambili olikhangelayo">
+<!ENTITY pin_site_dialog_hint "Faka igama eliphambili olikhangelayo">
 
 <!ENTITY filepicker_title "Khetha ifayile">
 <!ENTITY filepicker_audio_title "Khetha okanye rekhoda isandi">
