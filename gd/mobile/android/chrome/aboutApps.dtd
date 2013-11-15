@@ -4,12 +4,7 @@
 
 <!ENTITY aboutApps.title2                          "Aplacaidean">
 <!ENTITY aboutApps.header                          "Na h-aplacaidean agad">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
-<!ENTITY aboutApps.noApps.pre "Chan eil aplacaid sam bith air stàladh agad. Faigh feadhainn o ">
-<!ENTITY aboutApps.noApps.middle3 "Margaid Firefox">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Rùraich margaid Firefox">
 <!ENTITY aboutApps.uninstall "Dì-stàlaich">
 <!ENTITY aboutApps.addToHomescreen "Cuir ris an sgrìn mhòr">
