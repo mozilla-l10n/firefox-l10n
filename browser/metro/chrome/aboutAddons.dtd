@@ -14,4 +14,4 @@
      -->
 <!ENTITY aboutAddons.goBackToStartStart "Nôl i ">
 <!ENTITY aboutAddons.goBacktoStartLink  "Tudalen Cychwyn &brandShortName;">
-
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">
