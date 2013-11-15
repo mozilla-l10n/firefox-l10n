@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Nama">
 <!ENTITY col.tags.label          "Tanda-tanda">
 <!ENTITY col.url.label           "Lokasi">
-<!ENTITY col.lastvisit.label     "Tarikh Melayari">
+
 <!ENTITY col.visitcount.label    "Bilangan Melawat">
 <!ENTITY col.keyword.label       "Kata kunci">
 <!ENTITY col.description.label   "Huraian">

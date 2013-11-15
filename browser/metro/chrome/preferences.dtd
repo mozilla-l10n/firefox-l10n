@@ -4,10 +4,6 @@
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
-<!ENTITY optionsHeader.startup.title                             "Permulaan">
-
-
-
 <!ENTITY optionsHeader.char.title                                "Pengekodan Aksara">
 
 
@@ -19,6 +15,7 @@
 
 
 <!ENTITY clearPrivateData.cookies                                "Cookie">
+
 
 
 

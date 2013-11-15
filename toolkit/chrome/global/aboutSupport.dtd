@@ -9,6 +9,14 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID Laporan">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Sambungan">
 <!ENTITY aboutSupport.extensionName "Nama">
 <!ENTITY aboutSupport.extensionEnabled "Bolehkan">
@@ -33,7 +41,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mengaktifkan Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "membina Konfigurasi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Laporan kerosakan">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kegunaan Memori">
 
 <!ENTITY aboutSupport.showDir.label "Buka Direktori">
