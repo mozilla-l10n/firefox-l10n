@@ -63,7 +63,7 @@
 <!ENTITY pkcs12.setpassword.label2 "Nasnavê Hilanîna Sertîfîkayê (dubare):">
 <!ENTITY pkcs12.setpassword.reminder "Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkayê ji bîr bikî, nikarî dû re vê hilanînê çêkî. Ji kerema xwe re vê li ciyeke ewle veşêre.">
 
-<!ENTITY pkcs12.getpassword.title  "Paceya Têketina Nasnavê">
+<!ENTITY pkcs12.getpassword.title  "Pencereya Têketina Şîfreyê">
 <!ENTITY pkcs12.getpassword.message "Ji kerema xwe re sertîfîkaya Ewlekariyê û nasnavê xwe yê ku kilîta wê ya taybet hiltîne têkevê.">
 
 <!ENTITY chooseToken.title  "Qutîka Hilbijartina Direfşan">

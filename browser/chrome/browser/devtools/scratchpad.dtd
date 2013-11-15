@@ -25,11 +25,11 @@
 <!ENTITY fileMenu.label               "Pel">
 <!ENTITY fileMenu.accesskey           "P">
 
-<!ENTITY newWindowCmd.label           "Paceya Nû">
-<!ENTITY newWindowCmd.accesskey       "y">
+<!ENTITY newWindowCmd.label           "Pencereya Nû">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Pelê Veke...">
+<!ENTITY openFileCmd.label            "Pelî Veke...">
 <!ENTITY openFileCmd.accesskey        "V">
 <!ENTITY openFileCmd.commandkey       "o">
 

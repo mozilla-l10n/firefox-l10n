@@ -5,7 +5,7 @@
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
-
+<!ENTITY header     "Bi cîhaza dûr girêbide">
 <!ENTITY host       "Mêvandar:">
 <!ENTITY port       "Port:">
 

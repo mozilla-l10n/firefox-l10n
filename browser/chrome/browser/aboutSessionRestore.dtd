@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Erê, ev dilê mirovî teng dike.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; nikare pace û hilpekînan şûnde bîne. Dibe ku sedema vê malpereke ku te di demeke nêz de vekiriye be.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; nikare pencere û hilpekînan vegerîne. Dibe ku sedema vê malpereke ku te di demeke nêz de vekiriye be.">
 <!ENTITY restorepage.tryThis        "Van biceribîne:">
 <!ENTITY restorepage.restoreSome    "Hilpekînek an jî zêdetir hilpekînên ku difikirî sedema pirsgirêkê ne, rake">
 <!ENTITY restorepage.startNew       "Dest bi danişîneke nû bike">
@@ -18,9 +18,9 @@
 <!ENTITY restorepage.close.access   "G">
 
 <!ENTITY restorepage.restoreHeader  "Danişîna Berê">
-<!ENTITY restorepage.listHeader     "Pace û Hilpekînan">
+<!ENTITY restorepage.listHeader     "Pencere û Hilpekîn">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Paceya &#037;S">
+<!ENTITY restorepage.windowLabel    "Pencereya &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
 

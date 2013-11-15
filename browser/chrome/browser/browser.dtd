@@ -61,7 +61,7 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Cih Veke...">
 <!ENTITY openLocationCmd.accesskey "C">
-<!ENTITY openFileCmd.label "Pelê Veke...">
+<!ENTITY openFileCmd.label "Pelî Veke...">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Rûpelê mîheng bike...">
@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label "Ji moda Dîmender Tijî derkeve">
 <!ENTITY leaveDOMFullScreen.accesskey "m">
 
-<!ENTITY closeWindow.label "Paceyê Bigire">
+<!ENTITY closeWindow.label "Pencereyê Bigire">
 <!ENTITY closeWindow.accesskey "P">
 
 <!ENTITY bookmarksMenu.label "Bijare">
@@ -245,6 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
+<!ENTITY chromeDebuggerMenu.label       "Parzûna Çewtiyan ya Gerokê">
+<!ENTITY chromeDebuggerMenu.accesskey   "Ç">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Darikê Amûran yê pêşvebirê bigire">
 <!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebirê">
@@ -266,9 +268,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
-<!ENTITY newNavigatorCmd.label        "Paceya Nû">
+<!ENTITY newNavigatorCmd.label        "Pencereya Nû">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "y">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Pencereyeke Nepen ya nû">
 <!ENTITY newPrivateWindow.accesskey "P">
 
@@ -360,16 +362,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
 <!ENTITY openLinkCmdInTab.accesskey   "H">
-<!ENTITY openLinkCmd.label            "Girêdanê Di Paceyeke Nû De Veke">
-<!ENTITY openLinkCmd.accesskey        "P">
+<!ENTITY openLinkCmd.label            "Girêdanê di pencereyeke nû de veke">
+<!ENTITY openLinkCmd.accesskey        "p">
 <!ENTITY openLinkInPrivateWindowCmd.label "Girêdanê di Pencereyeke Nepen ya nû de veke">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Lînkê veke">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">
 <!ENTITY openFrameCmdInTab.label      "Çarçoveyê Di Hilpekîneke Nû De Veke">
 <!ENTITY openFrameCmdInTab.accesskey  "V">
-<!ENTITY openFrameCmd.label           "Çarçoweyê Di Paceyeke Nû De Veke">
-<!ENTITY openFrameCmd.accesskey       "e">
+<!ENTITY openFrameCmd.label           "Çarçoweyê di pencereyeke nû de veke">
+<!ENTITY openFrameCmd.accesskey       "p">
 <!ENTITY showOnlyThisFrameCmd.label     "Tenê Vê Çarçoveyê Nîşan Bide">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey         "R">
@@ -528,10 +530,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "z">
 
 <!ENTITY newTabButton.tooltip           "Mở một thẻ mới">
-<!ENTITY newWindowButton.tooltip        "Paceyeke Nû Veke">
+<!ENTITY newWindowButton.tooltip        "Pencereyeke nû veke">
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
 
-<!ENTITY fullScreenButton.tooltip       "Paceyê dîmender tijî nîşan bide">
+<!ENTITY fullScreenButton.tooltip       "Pencereyê dîmender tijî nîşan bide">
 
 <!ENTITY quitApplicationCmdWin.label       "Derkeve"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">
@@ -554,15 +556,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Teşeyê Rûpelê yê Bingehîn">
 <!ENTITY pageStylePersistentOnly.accesskey "T">
 
-<!ENTITY pageReportIcon.tooltip            "Ji bo vê rûpelê, mîhengên astenkirina paceyên vedibin biguherîne">
+<!ENTITY pageReportIcon.tooltip            "Ji bo vê rûpelê, mîhengên astenkirina pencereyên pop-up biguherîne">
 
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Vebijêrkên ji bo paceyên ku nayên xwestin serast bike...">
-<!ENTITY editPopupSettings.label "Vebijêrkên ji bo paceyên ku nayên xwestin serast bike...">
-<!ENTITY editPopupSettings.accesskey "e">
+<!ENTITY editPopupSettingsUnix.label "Vebijêrkên ji bo pencereyên pop-up serast bike...">
+<!ENTITY editPopupSettings.label "Vebijêrkên ji bo pencereyên pop-up serast bike...">
+<!ENTITY editPopupSettings.accesskey "s">
 <!ENTITY dontShowMessage.accesskey "ê">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Bibore Rêveberiya Rûpelê">
