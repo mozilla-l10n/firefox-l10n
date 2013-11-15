@@ -25,7 +25,7 @@
 
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Jaribu Tena">
 <!-- Flyout when connected and functioning normally -->
-
+<!ENTITY sync.flyout.connected.device                     "Kifaa chako:">
 
 
 

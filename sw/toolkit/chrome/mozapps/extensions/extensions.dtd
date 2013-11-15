@@ -90,9 +90,9 @@
 <!ENTITY cmd.enableTheme.accesskey            "V">
 <!ENTITY cmd.disableTheme.label               "Simamisha Kuvaa Mandhari">
 <!ENTITY cmd.disableTheme.accesskey           "K">
+<!ENTITY cmd.askToActivate.label              "Uliza ili kuamilisha">
 
-
-
+<!ENTITY cmd.alwaysActivate.label             "Amilisha kila wakati">
 
 
 

@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " ni ">
+<!ENTITY community.exp.middle       "ni ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "jamii ya ulimwengu">
 <!ENTITY community.exp.end          " kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.">
@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Visasisho vimelemazwa na msimamizi wa mfumo wako">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "brandShortName: ina sasishwa na mfano mwingine           ">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; inasasishwa na tukio lingine          ">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -63,7 +63,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Visasisho vinapatikana kwa ">
+<!ENTITY update.manual.start        "Visasisho vinapatikana kwa">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -72,7 +72,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Hauwezi kufanya masasisho zaidi kwa huu mfumo.        ">
+<!ENTITY update.unsupported.start    "Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.">
 <!ENTITY update.unsupported.linkText "Jifunze zaidi">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -84,7 +84,7 @@
 <!ENTITY update.downloading.start   "Inapakua kisasisho —">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Tekeleza kisasaisho…">
+<!ENTITY update.applying            "Inatekeleza kisasisho…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

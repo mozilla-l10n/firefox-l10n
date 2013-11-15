@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "Onyesha Yote">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "Hariri">
 <!ENTITY editMenu.accesskey                 "H">
 <!ENTITY undoCmd.label                      "Tendua">

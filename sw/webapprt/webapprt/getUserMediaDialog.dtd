@@ -4,10 +4,11 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "Katiza">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
 
-
-
-
+<!ENTITY getUserMediaDialog.video.label           "Chagua kamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "Hakuna video">
+<!ENTITY getUserMediaDialog.audio.label           "Chagua mikrofoni">
 

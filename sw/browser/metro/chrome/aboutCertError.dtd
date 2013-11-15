@@ -31,7 +31,7 @@ waweza kuambia &brandShortName; kuanza kuamini kitambulisho cha tovuti hii.
 anaingilia muungano wako.</b>">
 <!ENTITY certerror.expert.contentPara2 "Usiongeze utengo isipokuwa tu 
 unajua kuna sababu nzuri ya tovuti hii kutotumia utambulisho unaoaminika.">
-
+<!ENTITY certerror.addTemporaryException.label "Tembelea saiti">
 
 
 <!ENTITY certerror.technical.heading "Maelezo ya Kiufundi">
