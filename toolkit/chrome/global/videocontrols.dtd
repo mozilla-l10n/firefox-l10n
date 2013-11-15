@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Yaphela">
 <!ENTITY stats.activitySeeking "(ukufuna)">
 <!ENTITY stats.volume "Ivolum">
-<!ENTITY stats.channels "Iitshaneli">
-<!ENTITY stats.sampleRate "Umyinge wesampuli">
 <!ENTITY stats.framesParsed "Iifreyim zihlahlelwe">
 <!ENTITY stats.framesDecoded "Iifreyim zifakwe iikhowudi">
 <!ENTITY stats.framesPresented "Iifreyim zinikezelwe">

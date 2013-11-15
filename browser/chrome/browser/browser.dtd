@@ -245,7 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Into Ekhupha Ibhagi Kwibhrawuza">
+<!ENTITY chromeDebuggerMenu.label       "Bhrawuuza into ekhupha iBug">
+<!ENTITY chromeDebuggerMenu.accesskey   "u">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Vala ithulbha yomphuhlisi">
 <!ENTITY devToolbarMenu.label              "IThulbha yoMphuhlisi">
@@ -605,6 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Inkcazelo engaphezulu…">
 
 <!ENTITY identity.permissions "Iimvume">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Ndazi njani xa unxibelelwano lwam kwiwebhusayithi lukhuselekile?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -619,7 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
-<!ENTITY syncToolbarButton.label      "Ungqamaniso">
+<!ENTITY syncToolbarButton.label      "Ngqamanisa">
 
 <!ENTITY socialToolbar.title        "Iqhosha lethulbha yokudlala">
 <!ENTITY social.notLoggedIn.label   "Awungenanga">
@@ -659,7 +665,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Ufikelelo kwikhamera / mayikhrofowuni">
 <!ENTITY webrtcIndicatorButton.tooltip "Bonisa iisayithi obolekisana nazo ngekhamera okanye imayikhrofowuni yakho">
 
-<!ENTITY mixedContentBlocked.helplink "Funda ngaphezulu">
+<!ENTITY mixedContentBlocked.helplink "Funda okungakumbi">
 <!ENTITY mixedContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 
 <!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
@@ -679,7 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Ithebhu yonakele">
+<!ENTITY tabCrashed.header "Ithebhu Yonakele">
 <!ENTITY tabCrashed.message "Kodwa, kubanga iintloni oku. Sizamile ukubonisa eli phepha leWebhu, kodwa aliphenduli.">
 <!ENTITY tabCrashed.checkSendReport "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise.">
 <!ENTITY tabCrashed.tryAgain "Zama kwakhona">

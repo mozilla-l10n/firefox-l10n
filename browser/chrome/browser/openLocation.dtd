@@ -4,9 +4,9 @@
 <!-- extracted from content/openLocation.xul -->
 
 
-<!ENTITY enter.label "Faka indawo yewebhu (URL) okanye ucacise ifayile yalapha ofuna ukuyivula:">  
-<!ENTITY chooseFile.label "Khetha Ifayili…">
-<!ENTITY newTab.label "Isilungelelanisi Semigca Esitsha">
+<!ENTITY enter.label "Faka indawo yewebhu (URL), okanye ucacise ifayile yalapha ofuna ukuyivula:">  
+<!ENTITY chooseFile.label "Khetha Ifayile…">
+<!ENTITY newTab.label "Ithebhu Entsha">
 <!ENTITY newWindow.label "Ifestile Entsha">
 <!ENTITY topTab.label "Ithebhu ekhoyo">
 <!ENTITY caption.label "Vula Indawo Yothungelwano">
