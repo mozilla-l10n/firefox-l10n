@@ -34,6 +34,14 @@
 
 
 
+<!ENTITY cellSelection.label              "Таңдау">
+<!ENTITY cellSelectCell.label             "Ұяшық">
+<!ENTITY cellSelectRow.label              "Жол">
+<!ENTITY cellSelectColumn.label           "Баған">
+<!ENTITY cellSelectNext.label             "Келесі">
+<!ENTITY cellSelectNext.accessKey         "К">
+<!ENTITY cellSelectPrevious.label         "Алдыңғысы">
+<!ENTITY cellSelectPrevious.accessKey     "А">
 
 
 
@@ -42,15 +50,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY cellNormal.label                 "Қалыпты">
+<!ENTITY cellHeader.label                 "Жоғарғы колонтитул">
 
 
 
@@ -63,8 +64,10 @@
 
 <!-- Used in both Table and Cell panels  -->
 
+<!ENTITY size.label                       "Өлшемі">
+<!ENTITY pixels.label                     "пиксель">
 
 
-
-
-
+<!ENTITY AlignLeft.label                  "Сол жақ">
+<!ENTITY AlignCenter.label                "Ортасы">
+<!ENTITY AlignRight.label                 "Оң жақ">

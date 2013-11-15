@@ -16,6 +16,8 @@
 
 
 
+<!ENTITY organization.label "Мекеме:">
+<!ENTITY organization.accesskey "М">
 
 
 
@@ -23,10 +25,8 @@
 
 
 
-
-
-
-
+<!ENTITY choose.label "Таңдау...">
+<!ENTITY choose.accesskey "Т">
 
 
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
