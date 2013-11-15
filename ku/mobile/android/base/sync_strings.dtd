@@ -35,11 +35,13 @@
 
 <!-- Setup Success -->
 
-
+<!ENTITY sync.settings.label "Eyar">
 
 <!-- Pair Device -->
 
 <!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Vebijark">
 
 <!-- Configure Engines -->
 
