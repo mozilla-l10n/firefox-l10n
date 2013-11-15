@@ -187,10 +187,11 @@ because displayed names don't have the comma in between. -->
 
 
 
-
-
+<!ENTITY phone.heading                                  "Телефоны">
+<!ENTITY work.heading                                   "Жұмыс">
 <!-- Special Box Headings, for mailing lists -->
-
+<!ENTITY description.heading                            "Анықтамасы">
+<!ENTITY addresses.heading                              "Адрестер">
 <!-- For Map It! -->
 
 <!-- Status Bar -->
@@ -198,6 +199,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
 
+<!ENTITY windowMenu.label "Терезе">
+<!ENTITY minimizeWindow.label "Шақтау">
 
-
-
+<!ENTITY bringAllToFront.label "Барлығын алдына қою">
+<!ENTITY zoomWindow.label "Үлкейту">
