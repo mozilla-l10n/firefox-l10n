@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Oldal elhagyása">
+<!ENTITY safeb.palm.decline.label "Figyelmeztetés figyelmen kívül hagyása">
+<!ENTITY safeb.palm.notforgery.label2 "Ez nem hamisított weboldal…">
+<!ENTITY safeb.palm.reportPage.label "Miért nem jelenik meg ez a weboldal?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Bejelentett támadó weboldal!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "A(z) <span id='malware_sitename'/> címen működő weboldalról bejelentés érkezett, hogy támadó weboldal, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>A támadó weboldalak megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert</p><p>Egyes támadó weboldalak szándékosan terjesztenek ártó szoftvereket, de sok olyan van, amelyet a tulajdonosa tudta vagy engedélye nélkül használnak ilyen célra.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Valószínűleg hamisított webhely!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ha megadja itt a személyes adatait, azokat illetéktelenül felhasználhatják.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználót becsapni.</p>">
