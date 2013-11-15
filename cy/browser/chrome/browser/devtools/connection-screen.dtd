@@ -25,5 +25,5 @@ be used as text for a link to MDN. -->
 
 <!ENTITY remoteHelp "Gall offer Datblygwr Firefox ddadfygio dyfeisiau pell (Firefox ar gyfer Android a Firefox OS, er enghraifft). Gwnewch yn siŵr eich bod wedi cychwyn y dewis 'Dadfygio pell' ar y ddyfais pell. I gael rhagor o wybodaeth, gw.">
 <!ENTITY remoteDocumentation "dogfennaeth">
-
+<!ENTITY remoteHelpSuffix ".">
 
