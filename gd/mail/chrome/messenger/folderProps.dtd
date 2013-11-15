@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Roghainnean">
 
 <!ENTITY generalInfo.label                       "Fiosrachadh coitcheann">
-<!ENTITY folderCharsetTab.label                  "Còdachadh charactairean bunaiteach:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Cleachd na roghainnean bunaiteach airson a h-uile teachdaireachd sa phasgan (thèid roghainnean sònraichte a thaobh còdachadh charactairean is fèin-mhothachadh aig teachdaireachdan fa leth a leigeil seachad)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderCharsetFallback.label             "Còdachadh charactaran fallback:">
+<!ENTITY folderCharsetFallback.accesskey         "f">
+<!ENTITY folderCharsetEnforce.label              "Cuir an gnìomh an còdachadh airson gach teachdaireachd sa phasgan (thèid roghainnean còdachadh nan teachdaireachdan fa leth agus fèin-mhothachadh a leigeil seachad)">
+<!ENTITY folderCharsetEnforce.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ath-thog gearr-chunntas clàr-innse nam faidhle">
 <!ENTITY folderRebuildSummaryFile2.label         "Càraich pasgan">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
