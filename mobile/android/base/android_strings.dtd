@@ -30,39 +30,46 @@
 
 
 
+<!ENTITY choose_file "Pelî Hilbijêre">
 
 
+<!ENTITY bookmark "Bijare">
+<!ENTITY bookmark_added "Bijare lê hat zêdekirin">
+<!ENTITY bookmark_removed "Bijare hat rakirin">
+<!ENTITY bookmark_updated "Bijare hat nûkirin">
+<!ENTITY bookmark_options "Vebijark">
 
+<!ENTITY history_today_section "Îro">
+<!ENTITY history_yesterday_section "Do">
+<!ENTITY history_week_section "Beriya 7 rojan">
+<!ENTITY history_older_section "Ji 7 rojan kevntir">
 
+<!ENTITY go "Biçê">
+<!ENTITY search "Lê bigere">
+<!ENTITY reload "Nû bike">
+<!ENTITY forward "Pêşve">
+<!ENTITY menu "Menu">
+<!ENTITY back "Paşve">
+<!ENTITY stop "Bisekinîne">
+<!ENTITY site_security "Ewlekariya Malperê">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY close_tab "Hilpekînê bigire">
+<!ENTITY one_tab "Hilpekînek">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; hilpekîn">
+<!ENTITY new_tab_opened "Hilpekîna nû hat vekirin">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY settings "Eyar">
+<!ENTITY settings_title "Eyar">
+<!ENTITY pref_category_advanced "Pêşketî">
+<!ENTITY pref_category_customize "Taybet Bike">
+<!ENTITY pref_category_search2 "Eyarên lêgerînê">
+<!ENTITY pref_category_display "Xuyakirin">
+<!ENTITY pref_category_privacy_short "Nepenî">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Vebijarkên daneyan">
+<!ENTITY pref_category_installed_search_engines "Motorên lêgerînê yên barkirî">
 
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -180,8 +187,7 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 
 
-
-
+<!ENTITY find_close "Bigire">
 
 
 
@@ -232,6 +238,7 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
+<!ENTITY home_history_title "Raborî">
 
 
 
@@ -245,7 +252,6 @@ size. -->
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-
 
 
 
