@@ -14,7 +14,7 @@
 <!ENTITY connect    "តភ្ជាប់">
 <!ENTITY connecting "កំពុង​តភ្ជាប់…">
 <!ENTITY availableTabs "ផ្ទាំង​ពី​ចម្ងាយ​ដែល​មាន ៖">
-<!ENTITY availableProcesses "ការ​ចូលដំណើរការ​​ពី​ចម្ងាយ​​​​ដែល​​​​មាន">
+<!ENTITY availableProcesses "អាច​​​ចូល​ដំណើរការ​​ពី​ចម្ងាយ៖​​​​">
 <!ENTITY connectionError "កំហុស ៖">
 <!ENTITY errorTimeout "កំហុស ៖ អស់​ពេល​តភ្ជាប់ ។">
 <!ENTITY errorRefused "កំហុស ៖ បាន​បដិសេធ​ការ​តភ្ជាប់ ។">
@@ -23,7 +23,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍ Firefox អាច​បំបាត់​កំហុស​ឧបករណ៍​ពី​ចម្ងាយ​បាន​មាន​ដូចជា៖ (Firefox សម្រាប់ Android និង Firefox OS)។ សូម​ប្រាកដ​ថា​អ្នក​បាន​បើក​ជម្រើស 'ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ' នៅ​ក្នុង​ឧបករណ៍​ពី​ចម្ងាយ។ សម្រាប់​ព័ត៌មាន​បន្ថែម សូម​មើល">
+<!ENTITY remoteHelp "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍ Firefox អាច​បំបាត់​កំហុស​ឧបករណ៍​ពី​ចម្ងាយ​ (Firefox សម្រាប់ Android និង Firefox OS)។ សូម​ប្រាកដ​ថា​អ្នក​បាន​បើក​ជម្រើស 'ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ' នៅ​ក្នុង​ឧបករណ៍​ពី​ចម្ងាយ។ សម្រាប់​ព័ត៌មាន​បន្ថែម សូម​មើល">
 <!ENTITY remoteDocumentation "ឯកសារ">
 <!ENTITY remoteHelpSuffix ".">
 
