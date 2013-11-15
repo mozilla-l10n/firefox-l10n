@@ -245,7 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Trình gỡ rối">
+<!ENTITY chromeDebuggerMenu.label       "Trình gỡ rối (e)">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh Phát triển">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ Phát triển">
@@ -605,6 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Thông tin Chi tiết…">
 
 <!ENTITY identity.permissions "Quyền hạn">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Làm sao để biết một kết nối tới một website có an toàn hay không?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -680,7 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 
-
+<!ENTITY tabCrashed.checkSendReport "Nói với &vendorShortName; về lỗi này để họ sửa chữa.">
 <!ENTITY tabCrashed.tryAgain "Thử Lại">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
