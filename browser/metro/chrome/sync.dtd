@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Könyvjelzők, jelszavak és megnyitott lapok elérése minden eszközön">
+<!ENTITY sync.flyout.presetup.setup.label      "A &syncBrand.shortName.label; beállítása">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "A &syncBrand.shortName.label; beállítása">
+<!ENTITY sync.flyout.setup.description1        "Ha van &syncBrand.shortName.label; fiókja, akkor válassza az „Eszköz párosítása” lehetőséget a másik eszközön, és adja meg ezt a kódot.">
+<!ENTITY sync.flyout.setup.description2        "Ha nincs &syncBrand.shortName.label; fiókja, akkor létrehozhat egyet az asztali &brandShortName; böngészővel.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Nem vagyok számítógépközelben…">
+<!ENTITY sync.flyout.setup.description3        "Megjegyzés:">
+<!ENTITY sync.flyout.setup.description4_2      "Az „Eszköz párosítása” megtalálásához:">
+<!ENTITY sync.flyout.setup.description5_2      "[Asztali gépen] Nyissa meg a Beállítások menüt, és válassza a „&syncBrand.shortName.label;” fület.">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Több > Beállítások > &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Írja be &syncBrand.shortName.label; fiókinformációit, és a számítógépe által előállított helyreállítókulcsot">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Postafiók neve">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Jelszó">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Helyreállítókulcs">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Kapcsolódás">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Csatlakoztatta a &brandShortName;ot a &syncBrand.shortName.label; fiókjához">
+<!ENTITY sync.flyout.setupsuccess.description2      "A &syncBrand.shortName.label; adatai letöltésre kerülnek a háttérben. A szinkronizált lapok a &brandShortName; kezdőoldalon találhatók">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "A &brandShortName; nem tudott kapcsolódni a &syncBrand.shortName.label; fiókhoz.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Mégse">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Próbálja újra">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Kiszolgáló:">
+<!ENTITY sync.flyout.connected.device                     "Az Ön eszköze:">
+<!ENTITY sync.flyout.connected.disconnect                 "Leválás">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Leválasztja az eszközt a &syncBrand.shortName.label;ről?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Minden személyes adata ezen az eszközön és a &syncBrand.shortName.label; fiókban érintetlen marad.">
+<!ENTITY sync.flyout.connected.cancel                     "Mégse">
+<!ENTITY sync.flyout.connected.pair                       "Eszköz párosítása">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "A párosítani kívánt új eszközön válassza a „&syncBrand.shortName.label; beállítása” lehetőséget, és írja be az eszköz által adott kódot">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Párosítás">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Megjegyzés:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "A kód megtalálásához:">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Asztali gépen] Nyissa meg a „Beállítások” menüt, és válassza a &syncBrand.shortName.label; ->  &syncBrand.shortName.label; beállítása -> Már van fiókom lehetőséget">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Több > Beállítások > &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Próbálja újra">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Az új eszköz sikeresen hozzáadva.">
+<!ENTITY sync.flyout.pairSuccess.description2             "A &syncBrand.shortName.label; adatai letöltésre kerülnek a háttérben. A távoli lapok a &brandShortName; kezdőoldalon találhatók.">

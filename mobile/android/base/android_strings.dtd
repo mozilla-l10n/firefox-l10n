@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
-<!ENTITY  awesomebar_all_pages_title "Népszerű">
-<!ENTITY  awesomebar_bookmarks_title "Könyvjelző">
-<!ENTITY  awesomebar_history_title "Előzmény">
-<!ENTITY  awesomebar_switch_to_tab "Váltás erre a lapra">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Könyvjelző">
+<!ENTITY  history_title "Előzmény">
+<!ENTITY  reading_list_title "Olvasási lista">
+
+<!ENTITY  switch_to_tab "Váltás erre a lapra">
 
 <!ENTITY  crash_reporter_title "&brandShortName; hibajelentő">
 <!ENTITY  crash_message2 "A &brandShortName; egy hiba miatt összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Fájlválasztás">
 
-<!ENTITY awesomebar_default_text "Keresés vagy cím">
-
-<!ENTITY remote_tabs "Szinkronizált lapok">
-<!ENTITY remote_tabs_show_all "Minden lap megjelenítése">
+<!ENTITY url_bar_default_text "Keresés vagy cím">
 
 <!ENTITY bookmark "Könyvjelző">
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
 <!ENTITY pref_category_datareporting "Adatválasztások">
 <!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
+<!ENTITY pref_category_add_search_providers "További keresők hozzáadása">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_developer_remotedebugging_docs "További információ">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Szöveg-újratördelés">
 <!ENTITY pref_restore "Lapok">
 <!ENTITY pref_restore_always "Visszaállítás mindig">
-<!ENTITY pref_restore_crash "Visszaállítás összeomlás után">
-<!ENTITY pref_restore_never "Nincs visszaállítás">
+<!ENTITY pref_restore_quit "Ne állítsa vissza a &brandShortName; bezárása után">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
+<!ENTITY pref_search_set_default "Legyen ez az alapértelmezett">
+<!ENTITY pref_search_default "Alapértelmezett">
+<!ENTITY pref_search_remove "Eltávolítás">
+<!ENTITY pref_search_last_toast "Nem távolíthatja el vagy tilthatja le az utolsó keresőt.">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
 <!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
@@ -208,8 +216,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
 <!ENTITY contextmenu_open_private_tab "Megnyitás privát lapon">
 <!ENTITY contextmenu_open_in_reader "Megnyitás az Olvasóban">
-<!ENTITY contextmenu_remove_history "Eltávolítás">
-<!ENTITY contextmenu_remove_bookmark "Eltávolítás">
+<!ENTITY contextmenu_remove "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
 <!ENTITY contextmenu_share "Megosztás">
 <!ENTITY contextmenu_pasteandgo "Beillesztés és ugrás">
@@ -218,6 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Szerkesztés">
 <!ENTITY contextmenu_subscribe "Feliratkozás az oldalra">
 <!ENTITY contextmenu_site_settings "Webhely-beállítások szerkesztése">
+<!ENTITY contextmenu_top_bookmarks_edit "Szerkesztés">
+<!ENTITY contextmenu_top_bookmarks_pin "Oldal rögzítése">
+<!ENTITY contextmenu_top_bookmarks_unpin "Rögzítés feloldása">
 
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
@@ -225,6 +235,7 @@ size. -->
 
 <!ENTITY history_removed "Oldal eltávolítva">
 
+<!ENTITY bookmark_add "Könyvjelző hozzáadása">
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
 <!ENTITY bookmark_edit_location "Hely">
@@ -237,7 +248,6 @@ size. -->
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
 
-<!ENTITY reading_list "Olvasási lista">
 <!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
@@ -260,28 +270,30 @@ size. -->
 <!ENTITY button_set "Beállítás">
 <!ENTITY button_clear "Törlés">
 
-<!ENTITY abouthome_addons_title "Kiegészítők a &brandShortName;hoz">
-<!ENTITY abouthome_addons_browse "Minden &brandShortName; kiegészítő böngészése">
-<!ENTITY abouthome_last_tabs_title "A legutóbbi lapok megjelenítése">
-<!ENTITY abouthome_last_tabs_open "A legutóbbi lapok megnyitása">
-<!ENTITY abouthome_top_sites_title "Népszerű oldalak">
-<!ENTITY abouthome_topsites_edit "Szerkesztés">
-<!ENTITY abouthome_topsites_pin "Oldal rögzítése">
-<!ENTITY abouthome_topsites_unpin "Rögzítés feloldása">
+<!ENTITY home_top_sites_title "Népszerű">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Oldal hozzáadása">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Állítsa be a Firefox Syncet a más eszközökön használt könyvjelzői, előzményei és lapjai eléréséhez&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Szerezzen be alkalmazásokat a Firefox Marketplace-ről, és fedezze fel a web kínálatának legjavát&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Előzmény">
+<!ENTITY home_last_tabs_title "Legutóbbi lapok">
+<!ENTITY home_last_tabs_open "A legutóbbi lapok megnyitása">
+<!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
+<!ENTITY home_most_recent_title "Legutóbbi">
+<!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
+<!ENTITY home_most_visited_title "Legtöbbször látogatott">
+<!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "TIPP: az olvasási listájára elmenthet cikkeket a &#37;I ikon hosszú megnyomásával amikor az megjelenik a címsorban.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIPP: az olvasási listájára elmenthet cikkeket az olvasó mód gomb hosszú megnyomásával amikor az megjelenik a címsorban.">
+
+<!ENTITY home_most_visited_empty "A leggyakrabban meglátogatott weboldalak itt jelennek meg.">
+<!ENTITY pin_bookmark_dialog_hint "Írjon be egy keresőkifejezést">
 
 <!ENTITY filepicker_title "Fájlválasztás">
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
@@ -327,6 +339,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Szeretné bekapcsolni a &formatS; keresési javaslatait?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "&formatS1; keresés erre: &formatS2;">
 
 <!ENTITY webapp_generic_name "Alkalmazás">
 
