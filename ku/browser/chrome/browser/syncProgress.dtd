@@ -6,6 +6,8 @@
     %brandDTD;
 <!-- These strings are used in the sync progress upload page -->
 
+<!ENTITY syncProgress.pageTitle    "Synca te ya pêşîn">
+
 <!ENTITY syncProgress.closeButton  "Girtin">
 
 
