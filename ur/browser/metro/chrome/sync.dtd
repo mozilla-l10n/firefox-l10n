@@ -6,13 +6,15 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "اپنے نشانیاں،اختیاری اور کھولیں ٹیبیں کی رسائی کدیے">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; سیٹ اپ کریں">
 <!-- Flyout when setting up sync -->
-
+<!ENTITY sync.flyout.setup.description1        "اگر آپ کے پاس &syncBrand.shortName.label; اکاؤنٹ ہے،آپنے دیگر آلہ پر &quot;آلے کے ساتھ جوڑی بنائیں&quot; منتخب کریں اور یہ کوڈ داخل کریں.  ">
 
 <!ENTITY sync.flyout.setup.manual.label_2      "میں &apos; کمپیوٹر کے پاس نہیں ہوں۔۔۔">
 <!ENTITY sync.flyout.setup.description3        "نوٹ">
 <!ENTITY sync.flyout.setup.description4_2      "ڈھونڈیں &quot;آلہ جوڑا کریں&quot;،">
-
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] &quot;اختیارات&quot; یا &quot;ترجیحات&quot; کھولیں اور پھر &quot;&syncBrand.shortName.label;&quot; منتخب کریں">
 
 <!-- Flyout when setting up manually -->
 <!ENTITY sync.flyout.manualsetup.account.placeholder "نام اکاؤنٹ">
@@ -22,15 +24,17 @@
 <!-- Flyout when user has just connected -->
 
 <!ENTITY sync.flyout.setupsuccess.description1      "آپ نے جڑا کیا brandShortName سے &syncBrand.shortName.label; اکاؤنٹ تک">
-
+<!ENTITY sync.flyout.setupsuccess.description2      "آپ کا &syncBrand.shortName.label; کوائف اب پس منظر میں ڈاؤن لوڈ کیا گیا ہے. آپ کی ہم وقت ساز ٹیبیں &brandShortName; کے شروع کے صفحہ پر مل سکتی ہیں">
 <!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; آپ کے &syncBrand.shortName.label; اکاؤنٹ سے جڑیں بطرف نہں کیا جا سکتا.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "منسوخ کریں">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "دوبارہ کوشش کریں">
 <!-- Flyout when connected and functioning normally -->
-
+<!ENTITY sync.flyout.connected.device                     "آپ کا آلہ:">
 <!ENTITY sync.flyout.connected.disconnect                 "منقطع کریں">
-
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "کیا آپ اپپنا آلہ   ہم وقت برانڈ.مختصرنام.لیبل سے منقطع کرنا جہاتے ہیں؛؟">
+<!ENTITY sync.flyout.connected.disconnectWarning          "دونوں آلہ اور &syncBrand.shortName.label; اکاؤنٹ پر آپ کا ذاتی کوائف سالم ہی رہے گا. ">
 
 <!ENTITY sync.flyout.connected.pair                       "آلے کا جوڑا بنائیں">
 <!-- Flyout when pairing a device -->

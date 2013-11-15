@@ -7,34 +7,31 @@
 
 
 <!ENTITY optionsHeader.title                                     "اختیارات">
-<!ENTITY optionsHeader.startup.title                             "سٹارٹ اپ">
-
-<!ENTITY optionsHeader.homepage.startPage.button                 "صفحہ شروع کریں">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "پچھلی بار کی ٹیبیں">
 <!ENTITY optionsHeader.char.title                                "کریکٹر ضابطہ بندی">
-
+<!ENTITY optionsHeader.char.autodetect.label                     "خود کھوج">
 <!ENTITY optionsHeader.char.options.label                        "ضابطہ بندی کے اختیارات کو اپلی کیشن بار پے نمائش کریں">
 
 <!ENTITY clearPrivateData.title                                  "نجی کوائف خالی کریں">
 <!ENTITY clearPrivateData.label                                  "اس آلہ پر اپنی براؤزنگ سابقات، پاس ورڈ، کوکیز، اور ہیئت کوائف کو خالی کریں">
 <!ENTITY clearPrivateData.button                                 "صاف کریں">
-
-
+<!ENTITY clearPrivateData.done                                   "مکمل!">
+<!ENTITY clearPrivateData.history                                "براؤزنگ سابقات">
 <!ENTITY clearPrivateData.otherdata                              "دیگر کوائف (پاس ورڈ، کیسہ، کوکی، وغیرہ)">
-
+<!ENTITY clearPrivateData.downloadHist                           "سابقات ڈاؤن لوڈ کریں">
 <!ENTITY clearPrivateData.cookies                                "کوکیاں">
+<!ENTITY clearPrivateData.cache                                  "کیسہ">
 
-
-
+<!ENTITY clearPrivateData.formSearchHist                         "فارم &amp; تلاش سابقات">
 
 
 <!ENTITY clearPrivateData.logins                                 "متحرک لاگ ان">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "پاس ورڈ یاد رکھیں">
 <!ENTITY doNotTrack.title                                        "سراغ راہ نہیں کریں">
-<!ENTITY doNotTrack.desc                                         "سائٹس کو بتائیں:">
 
-<!ENTITY doNotTrack.options.noPreference                         " میرے سراغ کاری ترجیحات کے بارے میں کچھ نہں                ">
+
+
+<!ENTITY doNotTrack.learnMoreLink                                "مزید سیکھیں&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "کریش رپورٹر">
 

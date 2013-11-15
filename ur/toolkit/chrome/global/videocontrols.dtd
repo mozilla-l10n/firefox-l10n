@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "اختتام پذیر">
 <!ENTITY stats.activitySeeking "(ڈھونڈ رہا ہے)">
 <!ENTITY stats.volume "صوت">
-<!ENTITY stats.channels "چینل">
-<!ENTITY stats.sampleRate "سیمپل ریٹ">
 <!ENTITY stats.framesParsed "نحوی جانچ کردہ فریم">
 <!ENTITY stats.framesDecoded "ضابطہ ربائی کردہ فریم">
 <!ENTITY stats.framesPresented "پیش کردہ فریم">

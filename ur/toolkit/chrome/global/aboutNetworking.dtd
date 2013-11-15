@@ -10,7 +10,7 @@
 <!ENTITY aboutNetworking.sockets               "ساکٹس">
 <!ENTITY aboutNetworking.dns                   "ڈی این ایس">
 <!ENTITY aboutNetworking.websockets            "ویب ساکٹس">
-
+<!ENTITY aboutNetworking.refresh               "تازہ کریں">
 <!ENTITY aboutNetworking.autoRefresh           "خودبخود, ہر ٣ سیکنڈ کے بعد تازہ کریں     ">
 <!ENTITY aboutNetworking.hostname              "ہوسٹ نیم">
 <!ENTITY aboutNetworking.port                  "پورٹ">

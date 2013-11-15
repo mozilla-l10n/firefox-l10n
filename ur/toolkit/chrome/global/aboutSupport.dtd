@@ -9,6 +9,14 @@
  فائدہ مند ہو سکتی ہے۔ اگر آپ ;brandShortName کے بارے میں عمومی سوالات کے جوابات تلاش کر رہے ہیں، 
  تو ہماری <a id='supportLink'>معاونت ویب سائٹ</a> کو چیک کرے۔">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "رپورٹ شناخت">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "توسیعات">
 <!ENTITY aboutSupport.extensionName "نام">
 <!ENTITY aboutSupport.extensionEnabled "اہل بنایا گیا">
@@ -33,7 +41,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "چالو پلگ ان">
 <!ENTITY aboutSupport.appBasicsBuildConfig "بلڈ تشکیل">
 <!ENTITY aboutSupport.appBasicsUserAgent "صارف ایجنٹ">
-<!ENTITY aboutSupport.appBasicsCrashIDs "کریش رپورٹیں">
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
 
 <!ENTITY aboutSupport.showDir.label "ڈائریکٹری کھولیں">

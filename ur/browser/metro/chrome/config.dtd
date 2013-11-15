@@ -8,8 +8,9 @@
 <!ENTITY addpref.value          "قدر">
 
 <!ENTITY cancel.label           "منسوخ کریں">
-
+<!ENTITY reset.label            "پھر سیٹ کریں">
 <!ENTITY done.label             "ختم">
 
-
+<!ENTITY integer.label          "سالم عدد">
+<!ENTITY string.label           "سٹرنگ">
 <!ENTITY boolean.label          "بولیائی">

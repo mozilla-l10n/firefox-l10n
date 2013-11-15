@@ -11,14 +11,15 @@
 <!ENTITY newtab.label          "نیا صفحہ بند">
 <!ENTITY closetab.label        "صفحہ بند, بند کر دیں">
 
-<!ENTITY autocompleteResultsHeader.label  "تمارے نتائج">
+<!ENTITY autocompleteResultsHeader.label  "آپ کے نتائج">
 
 <!ENTITY appbarErrorConsole.label   "نقص کنسول کھولیں">
 <!ENTITY appbarJSShell.label        "جاوا سکرپٹ شیل کھولیں">
 <!ENTITY appbarFindInPage2.label    "صفحہ میں ڈھونڈیں">
 <!ENTITY appbarViewOnDesktop2.label "ڈیسک ٹاپ پر دیکہیں">
+<!ENTITY appbarMSMetaData2.label    "اس سائٹ کے لیے ایپ حاصل کریں">
 
-<!ENTITY topSitesHeader.label        " بہترین سائٹیں">
+<!ENTITY topSitesHeader.label        "بہترین سائٹیں">
 <!ENTITY bookmarksHeader.label       "نشانیاں">
 <!ENTITY recentHistoryHeader.label   "حالیہ سابقات">
 <!ENTITY remoteTabsHeader.label      "دیگر آلات کی ٹیب">
@@ -40,7 +41,7 @@
 <!ENTITY downloadShow2.label       "ڈھونڈیں">
 <!ENTITY downloadOpen2.label       "کھولیں">
 <!ENTITY downloadCancel.label      "منسوخ کریں">
-<!ENTITY downloadPause.label       "موقوف کریں">
+<!ENTITY downloadPause.label       "توقف">
 <!ENTITY downloadResume.label      "پھر جاری کریں">
 <!ENTITY downloadRetry.label       "پھر کوشش کریں">
 <!ENTITY downloadRemove.label      "ہٹائیں">
@@ -51,7 +52,7 @@
 
 <!ENTITY consoleHeader.label       "نقص کنسول">
 <!ENTITY consoleAll.label          "تمام">
-
+<!ENTITY consoleErrors.label       "نقائص">
 <!ENTITY consoleWarnings.label     "تنبیہات">
 <!ENTITY consoleMessages.label     "پیغامات">
 <!ENTITY consoleCodeEval.label     "ضابطہ">
@@ -66,26 +67,26 @@
 <!ENTITY contextTextCopy.label             "نقل کریں">
 <!ENTITY contextTextPaste.label            "جوڑیں">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       " چسپاں &amp; جایں                ">
+<!ENTITY contextTextPasteAndGo.label       "چسپاں کریں &amp; جایں               ">
 <!ENTITY contextTextSelect.label           "منتخب کریں">
 <!ENTITY contextTextSelectAll.label        "تمام منتخب کریں">
 <!-- LINK CONTEXT MENU -->
 
 <!ENTITY contextOpenLinkTab.label          "ربط کو نئی ٹیب میں کھولیں">
-
-
+<!ENTITY contextCopyLinkHref.label         "ربط نقل کریں">
+<!ENTITY contextBookmarkLinkHref.label     "ربط نشان زد کریں">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
 <!ENTITY contextSaveImageLib.label         "تصویر کی لائبریری میں محفوظ کریں">
-
-
+<!ENTITY contextCopyImage.label            "نقش نقل کریں">
+<!ENTITY contextCopyImageLocation.label    "نقش کا محل وقوع نقل کریں">
 <!ENTITY contextOpenImageTab.label         "ربط نئی ٹیب میں کھولیں">
 <!-- VIDEO CONTEXT MENU -->
 
 <!ENTITY contextSaveVideoLib.label         "وڈیو لائبریری میں محفوظ کریں">
-
+<!ENTITY contextCopyVideoLocation.label    "وڈیو کا محل وقوع نقل کریں">
 <!ENTITY contextOpenVideoTab.label         "وڈیو نئی ٹیب میں کھولیں">
 <!-- KEYBOARD SHORTCUTS -->
 
@@ -98,12 +99,12 @@
 <!ENTITY findNext.key "ج">
 <!ENTITY quit.key "ق">
 <!ENTITY addBookmark.key "ڈ">
-
+<!ENTITY newTab.key "ٹ">
 <!ENTITY newTab2.key "ن">
-
+<!ENTITY closeTab.key "و">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "ج">
-
-<!ENTITY syncFlyout.key "س                ">
+<!ENTITY optionsFlyout.key "ہ">
+<!ENTITY syncFlyout.key "س">
 <!ENTITY aboutFlyout.key "ا">

@@ -10,6 +10,18 @@
 # live.
 
 
+#define bookmarks_title نشانیاں
+
+
+#define bookmarks_heading نشانیاں
+
+
+#define bookmarks_toolbarfolder ٹول بار پوشہ کو نشانی لگایں
+
+
+#define bookmarks_toolbarfolder_description نشانیوں کے ٹول بار میں انہیں دیکھنے کے لیے اس پوشہ پر نشانی لگایں
+
+
 # LOCALIZATION NOTE (getting_started):
 
 

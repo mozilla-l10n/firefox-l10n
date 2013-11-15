@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "ٹیگ">
 <!ENTITY col.url.label           "محل وقوع">
-<!ENTITY col.lastvisit.label     "مصاحبہ تاریخ">
+<!ENTITY col.mostrecentvisit.label "سب سے حالیہ مصاحبہ">
 <!ENTITY col.visitcount.label    "ملاحظہ شماری">
 <!ENTITY col.keyword.label       "کلیدی لفظ">
 <!ENTITY col.description.label   "تصریح">

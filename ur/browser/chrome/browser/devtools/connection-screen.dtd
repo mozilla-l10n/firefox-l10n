@@ -6,14 +6,22 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "جڑیں">
+<!ENTITY header     "بعید آلہ سے رابطہ قائم کریں">
 <!ENTITY host       "میزبان:">
 <!ENTITY port       "دہانہ:">
-
+<!ENTITY connect    "جڑیں">
 <!ENTITY connecting "جوڑ رہا ہے…">
-
-
+<!ENTITY availableTabs "دستیاب شدہ بعید ٹیبیں:">
+<!ENTITY availableProcesses "دستیاب شدہ بعید عمل کاری:">
 <!ENTITY connectionError "نقص:">
 <!ENTITY errorTimeout "نقص: جڑنے کی مدت ختم ہوچکی ہے۔">
 <!ENTITY errorRefused "نقص: جڑنا نامنظور ہوا۔">
 <!ENTITY errorUnexpected "غیرمتوقع نقص۔">
-<!ENTITY help "Firefox ڈویلپر ٹولز بعید آلات کو جانچ سکتا ہے (مثال کے طورپر، Android اور Firefox OS)۔ توثیق کریں کہ آپ نے اپنے بعید آلہ پر موجود 'بعید درستگی' اختیار کو آن کیا ہے۔ مزید کے لیے <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>دستاویز</a> دیکھیں۔">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+<!ENTITY remoteDocumentation "دستاویزکاری">
+<!ENTITY remoteHelpSuffix ".">
+
