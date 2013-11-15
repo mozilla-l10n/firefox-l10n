@@ -31,13 +31,17 @@
 <!ENTITY sync.flyout.setupsuccess.description2      "Tus datos de &syncBrand.shortName.label; se están descargando en segundo plano. Tus pestañas sincronizadas pueden encontrarse en la página de inicio de &brandShortName;">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; no ha podido conectarse a tu cuenta &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Cancelar">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Reintentar">
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "Cuenta:">
+<!ENTITY sync.flyout.connected.device                     "Tu dispositivo:">
 <!ENTITY sync.flyout.connected.disconnect                 "Desconectar">
-
-
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "¿Desconectar tu dispositivo con &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Todos tus datos personales en ambos dispositivos en tu cuenta de &syncBrand.shortName.label; permanecerán intactos.">
+<!ENTITY sync.flyout.connected.cancel                     "Cancelar">
 <!ENTITY sync.flyout.connected.pair                       "Sincronizar un dispositivo">
 <!-- Flyout when pairing a device -->
 

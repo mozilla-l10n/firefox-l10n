@@ -7,7 +7,7 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opciones">
-
+<!ENTITY optionsHeader.char.title                                "Codificación de caracteres">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
 <!ENTITY optionsHeader.char.options.label                        "Mostrar opciones de codificación en la barra de aplicaciones">
 
