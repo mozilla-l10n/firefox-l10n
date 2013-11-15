@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Iqokobhe elivulekileyo leJavaScript">
 <!ENTITY appbarFindInPage2.label    "Fumana ephepheni">
 <!ENTITY appbarViewOnDesktop2.label "Bona kwidesktopu">
+<!ENTITY appbarMSMetaData2.label    "Fumana i-app yale sayithi">
 
 <!ENTITY topSitesHeader.label        "Iisayithi eziphezulu">
 <!ENTITY bookmarksHeader.label       "Iibhukhmakhi">

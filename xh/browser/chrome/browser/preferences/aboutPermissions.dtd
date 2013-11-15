@@ -23,11 +23,11 @@
 <!ENTITY permission.allowFirstPartyOnly  "Vumela iqela lokuqala kuphela">
 <!ENTITY permission.block                "Thintela">
 
-<!ENTITY password.label                  "Gcina iiPhaswedi">
-<!ENTITY password.manage                 "Lawula iiPhaswedi…">
+<!ENTITY password.label                  "Gcina iiPasiwedi">
+<!ENTITY password.manage                 "Lawula iiPasiwedi…">
 
 <!ENTITY cookie.label                    "Misela iikhukhi">
-<!ENTITY cookie.remove                   "Susa ii-Cookies">
+<!ENTITY cookie.remove                   "Susa iikhukhi">
 <!ENTITY cookie.manage                   "Lawula iikhukhi…">
 <!ENTITY cookie.removeAll                "Susa zonke iikhukhi">
 
@@ -39,6 +39,6 @@
 
 <!ENTITY indexedDB.label                 "Londoloza i-Offline Storage">
 
-<!ENTITY popup.label                     "Vula iiwindowu ze-Pop-up">
+<!ENTITY popup.label                     "Vula iifestile Ezizivelelayo">
 
-<!ENTITY fullscreen.label                "Iskkrini esizeleyo">
+<!ENTITY fullscreen.label                "Iskrini esizeleyo">
