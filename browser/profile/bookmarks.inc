@@ -13,6 +13,9 @@
 #define bookmarks_toolbarfolder Setsholadifaele sa Bara ya didiriswa ya Matshwaotsebe
 
 
+#define bookmarks_toolbarfolder_description Tsenya matshwaotsebe mo sephuthelong se, gore a bonale mo didirisiweng tsa matshwaotsebe  
+
+
 # LOCALIZATION NOTE (getting_started):
 
 
@@ -40,14 +43,15 @@
 
 
 
+#define firefox_help Ipaakanyetse go simolola
+
+
 
 # LOCALIZATION NOTE (firefox_customize):
 
 
 
-
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-
 
 
 
@@ -57,9 +61,7 @@
 
 
 
-
 # link title for https://www.mozilla.org/en-US/contribute/
-
 
 
 
@@ -71,9 +73,7 @@
 
 
 
-
 # link title for https://www.mozilla.org/en-US/about/
-
 
 
 
