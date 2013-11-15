@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Suidheachadh na duilleige…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
+<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Clò-bhuail…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "C">
