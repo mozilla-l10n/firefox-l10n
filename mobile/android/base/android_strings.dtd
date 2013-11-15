@@ -279,9 +279,9 @@ size. -->
 
 <!ENTITY home_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
 <!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்">
-
-
-
+<!ENTITY home_most_recent_title "மிக அண்மைய">
+<!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
+<!ENTITY home_reading_list_empty "நீங்கள் சேமித்த கட்டுரைகள் பின்னர் இங்கே காண்பிக்கப்படும்.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
@@ -289,6 +289,7 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 
+<!ENTITY pin_site_dialog_hint "தேட ஒரு முக்கிய சொல்லை உள்ளிடு">
 
 <!ENTITY filepicker_title "கோப்பினை தேர்வு செய்">
 <!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
@@ -311,6 +312,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "-ஆல் இயங்கப்படுகிறது">
 <!-- Mixed content notifications in site identity popup -->
 
+<!ENTITY loaded_mixed_content_message "இந்த பக்கத்தில் தோன்றும் உள்ளடக்கங்கள் பாதுகாப்பானது அல்ல.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; பாதுகாப்பற்ற தடுத்த உள்ளடக்கங்கள் வைத்துள்ளது.">
 <!ENTITY blocked_mixed_content_message_bottom "இந்த உள்ளடக்கம் தடுக்கப்பட்ட போதிலும் பெரும்பான்மையான இணையத்தளங்கள் நன்றாக தான் வேலை செய்கிறது.">
 <!ENTITY learn_more "இன்னும் கற்க">
 <!ENTITY enable_protection "பாதுகாப்பை செயற்படுத்து">
@@ -338,6 +341,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "formatS2 க்காக &formatS1; ஐ தேடு">
 
+<!ENTITY webapp_generic_name "பயன்பாடு">
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 
@@ -348,14 +352,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
 <!ENTITY updater_downloading_title_failed2 "பதிவிறக்கம் தோல்வியடைந்தது">
-
+<!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
-
+<!ENTITY updater_apply_title2 "&brandShortName; க்கு புதுபித்தல் இருக்கிறது">
+<!ENTITY updater_apply_select2 "புதுப்பிக்க தொடவும்">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "புதிய விருந்தினர் அமர்வு">
+<!ENTITY exit_guest_session "விருந்தினர் அமர்விலிருந்து வெளியேறு">
 <!ENTITY guest_session_dialog_continue "தொடரவும்">
-
+<!ENTITY guest_session_dialog_cancel "இரத்துசெய்">
 
 
 
