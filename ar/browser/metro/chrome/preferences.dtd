@@ -28,10 +28,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "تذكّر كلمات السر">
 <!ENTITY doNotTrack.title                                        "لا تتعقبني">
-
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "أخبر المواقع أنني لا أريدها أن تتعقبني">
+<!ENTITY doNotTrack.options.doTrack                              "أخبر المواقع أنني أريدها أن تتعقبني">
+<!ENTITY doNotTrack.options.default                              "لا تخبر المواقع بأي شيء عن تفضيلاتي للتعقب">
+<!ENTITY doNotTrack.learnMoreLink                                "اطّلع على المزيد&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "مُبلّغ الانهيار">
 <!ENTITY optionsHeader.reporting.crashes.label                   "يُرسل &brandShortName; بلاغات الانهيار إلى موزيلا للمساعدة في تحسين أداء متصفحك و استقراره">

@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "أظهر الكل">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "حرّر">
 <!ENTITY editMenu.accesskey                 "ح">
 <!ENTITY undoCmd.label                      "تراجع">
