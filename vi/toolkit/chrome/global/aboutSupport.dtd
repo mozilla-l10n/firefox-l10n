@@ -9,6 +9,14 @@
 đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường 
 về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Định danh Báo cáo">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Phần mở rộng">
 <!ENTITY aboutSupport.extensionName "Tên">
 <!ENTITY aboutSupport.extensionEnabled "Kích hoạt">
@@ -33,7 +41,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ Đã kích hoạt">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Báo cáo Đổ vỡ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 
 <!ENTITY aboutSupport.showDir.label "Mở Thư mục">

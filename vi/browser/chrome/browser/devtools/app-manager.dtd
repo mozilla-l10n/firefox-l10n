@@ -57,6 +57,7 @@
 <!ENTITY connection.installAnotherSimulator "Thêm">
 <!ENTITY connection.installAnotherSimulatorTooltip "Cài đặt thêm phiên bản của thiết bị mô phỏng bằng cách tải về các add-on liên quan.">
 
+
 <!ENTITY projects.localApps "Ứng dụng địa phương">
 <!ENTITY projects.addApp "Thêm">
 <!ENTITY projects.addPackaged "Thêm ứng dụng đã được đóng gói">
@@ -67,6 +68,10 @@
 
 
 <!ENTITY projects.updateApp "Cập nhật">
+
+
+
+
 
 
 
