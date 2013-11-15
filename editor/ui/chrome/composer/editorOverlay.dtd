@@ -24,8 +24,6 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
-<!ENTITY insertMenu.label "أدرج">
-<!ENTITY insertMenu.accesskey "د">
 <!ENTITY insertLinkCmd.label "وصلة…">
 <!ENTITY insertLinkCmd.accesskey "ص">
 <!ENTITY insertLinkCmd.key "l">

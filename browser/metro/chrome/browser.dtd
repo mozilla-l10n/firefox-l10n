@@ -17,7 +17,7 @@
 <!ENTITY appbarJSShell.label        "افتح صدفة جافاسكربت">
 <!ENTITY appbarFindInPage2.label    "بحث في الصفحة">
 <!ENTITY appbarViewOnDesktop2.label "اعرض على سطح المكتب">
-
+<!ENTITY appbarMSMetaData2.label    "احصل على تطبيق لهذا الموقع">
 
 <!ENTITY topSitesHeader.label        "المواقع الأكثر زيارة">
 <!ENTITY bookmarksHeader.label       "العلامات">
