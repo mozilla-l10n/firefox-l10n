@@ -19,4 +19,9 @@
 <!ENTITY errorTimeout "Ralat: masa sambungan tamat.">
 <!ENTITY errorRefused "Ralat: sambungan ditolak.">
 <!ENTITY errorUnexpected "Ralat tak terduga.">
-<!ENTITY help "Alat Pembangun Firefox mampu menyahpepijat peranti jauh (misalnya Firefox untuk Android dan Firefox OS). Pastikan anda telah hidupkan pilihan 'Penyahpepijatan jauh' pada peranti jauh. Lihat <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentasi</a> untuk selanjutnya.">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+<!ENTITY remoteDocumentation "dokumentasi">
+<!ENTITY remoteHelpSuffix ".">
+

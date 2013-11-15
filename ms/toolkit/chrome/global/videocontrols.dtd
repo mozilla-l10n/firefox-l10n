@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Tamat">
 <!ENTITY stats.activitySeeking "(mencari)">
 <!ENTITY stats.volume "Isi Padu">
-<!ENTITY stats.channels "Saluran">
-<!ENTITY stats.sampleRate "Kadar Sampel">
 <!ENTITY stats.framesParsed "Bingkai dihuraikan">
 <!ENTITY stats.framesDecoded "Bingkai dilukis">
 <!ENTITY stats.framesPresented "Bingkai dilukis">

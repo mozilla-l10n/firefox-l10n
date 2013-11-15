@@ -51,12 +51,13 @@
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip "Ralat penghuraian log CSS">
 <!ENTITY btnPageCSS.accesskey "C">
-
+<!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript dikecualikan">
-
+<!ENTITY btnPageJS.accesskey  "J">
 
 
 
@@ -65,7 +66,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object">
-
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Ralat">
 <!ENTITY btnConsoleInfo         "Maklumat">
 <!ENTITY btnConsoleWarnings     "Amaran">
@@ -73,6 +74,7 @@
 
 
 <!ENTITY btnClear.tooltip      "Bersihkan output Web Konsol">
+
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -89,6 +91,5 @@
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
-
 
 

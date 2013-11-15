@@ -7,6 +7,7 @@
 <!ENTITY index.device2 "Peranti">
 <!ENTITY index.help "Bantuan">
 
+<!ENTITY device.screenshot "Cakupan skrin">
 
 <!ENTITY device.title "Pusat Kawalan Peranti">
 <!ENTITY device.notConnected "Tidak bersambung. Sila sambungkan peranti anda di bawah.">
@@ -46,10 +47,11 @@
 <!ENTITY connection.saveConnectionInfo "Simpan">
 
 <!ENTITY connection.connecting "Menyambung…">
-
+<!ENTITY connection.disconnecting "Memutuskan…">
 <!ENTITY connection.cancel "Batal">
 
 
+<!ENTITY connection.or "atau">
 
 
 
@@ -57,6 +59,7 @@
 
 
 
+<!ENTITY projects.localApps "Apps Tempatan">
 
 
 
@@ -68,8 +71,12 @@
 
 
 
-
+<!ENTITY projects.debugAppTooltip "Buka Alat Pembangun yang tersambung ke app ini">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
+
+
+
 
 
 <!ENTITY help.title "Pengurus App">
