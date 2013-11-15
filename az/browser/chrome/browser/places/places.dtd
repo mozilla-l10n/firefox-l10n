@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Ad">
 <!ENTITY col.tags.label          "Etiketlər">
 <!ENTITY col.url.label           "Ünvan">
-<!ENTITY col.lastvisit.label     "Baxış tarixi">
+
 <!ENTITY col.visitcount.label    "Baxış sayı">
 <!ENTITY col.keyword.label       "Açar söz">
 <!ENTITY col.description.label   "Açıqlama">

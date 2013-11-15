@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Bitdi">
 <!ENTITY stats.activitySeeking "(fırladılır)">
 <!ENTITY stats.volume "Səs">
-<!ENTITY stats.channels "Kanallar">
-<!ENTITY stats.sampleRate "Nümunələmə nisbəti">
 <!ENTITY stats.framesParsed "Emal edilən kadr">
 <!ENTITY stats.framesDecoded "Həll edilən kadr">
 <!ENTITY stats.framesPresented "Təqdim edilən kadr">

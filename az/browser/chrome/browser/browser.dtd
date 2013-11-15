@@ -245,7 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Brauzer Səhv analiz edicisi">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "İnkişaf etdirici alət sətirini bağla">
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
@@ -605,6 +604,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Daha çox məlumat…">
 
 <!ENTITY identity.permissions "İzinler">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -670,6 +672,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "İndi icazə ver">
 <!ENTITY pluginActivateAlways.label "İcazə ver və Yadda saxla">
 <!ENTITY pluginBlockNow.label "Qoşmanı Blokla">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "32em">
 
 
 

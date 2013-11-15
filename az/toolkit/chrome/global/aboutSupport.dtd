@@ -7,6 +7,14 @@
 
 <!ENTITY aboutSupport.pageSubtitle "Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. &brandShortName; haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a id='supportLink'>dəstək saytımıza</a> baxın.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Hesabat kimliyi">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Əlavələr">
 <!ENTITY aboutSupport.extensionName "Ad">
 <!ENTITY aboutSupport.extensionEnabled "Aktivdir">
@@ -29,7 +37,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiv olan əlavə proqramlar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiqurasiya">
 <!ENTITY aboutSupport.appBasicsUserAgent "İstifadəçi aləti">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Çökmə hesabatları">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
 
 <!ENTITY aboutSupport.showDir.label "Qovluğu Aç">
