@@ -27,6 +27,16 @@
 
 <dt id="cryptographic_algorithm">algorytm kryptograficzny</dt><dd>Zbiór zasad lub wskazówek używanych do przeprowadzenia operacji kryptograficznych takich jak <a href="#encryption">szyfrowanie</a> i&nbsp;<a href="#decryption">rozszyfrowywanie</a>. Bywa również nazywany <em>szyfrem</em>.</dd>
 
+<!-- TODO: start localizing -->
+<dt id="web_application">web application</dt><dd>An application that is not
+  running on your computer but remotely on a <a href="#website">website</a>.
+  Examples include web-mail systems or web-based systems where you enter
+  information into a form and receive a response as a <a href="#web_page">web
+  page</a>. An <i>offline</i> web application can work without a current
+  connection to the <a href="#internet">Internet</a> by saving the relevant
+  pages locally before running the application.</dd>
+<!-- TODO: stop localizing -->
+
 <dt id="helper_application">aplikacja pomocnicza</dt><dd>Dowolna aplikacja używana do otwarcia lub wyświetlenia pliku pobranego przez przeglądarkę. <a href="#plugin">Wtyczka</a> jest specjalnym rodzajem aplikacji pomocniczej, która samodzielnie instaluje się w&nbsp;folderze Plugins głównego folderu instalacji przeglądarki i&nbsp;zwykle może być samodzielnie uruchomiona wewnętrznie przez przeglądarkę. Microsoft Word, Adobe Photoshop i&nbsp;inne zewnętrzne aplikacje nazywane są aplikacjami pomocniczymi, ale nie wtyczkami, ponieważ nie instalują się w&nbsp;folderze przeglądarki, ale mogą być uruchamiane z&nbsp;okna dialogowego pobierania plików.</dd>
 
 <dt id="authentication">autoryzacja</dt><dd>Użycie hasła, certyfikatu, osobistego numeru identyfikacyjnego (PIN), lub innej informacji weryfikującej tożsamość w&nbsp;sieci komputerowej. Zobacz również <a href="#password-based_authentication">autoryzacja oparta na hasłach</a>, <a href="#certificate-based_authentication">autoryzacja oparta na certyfikatach</a>, <a href="#client_authentication">autoryzacja klienta</a>, <a href="#server_authentication">autoryzacja serwera</a>.</dd>
@@ -41,6 +51,15 @@
 
 <dt id="secure_connection">bezpieczne połączenie</dt><dd>Połączenie pomiędzy klientem a serwerem, które używa szyfrowania (zazwyczaj
  <a href="#ssl">SSL</a>) w celu uniemożliwienia przechwycenia komunikacji przez osoby trzecie. Najczęściej to serwer udostępnia certyfikat w celu umożliwienia jego zidentyfikowania.</dd>
+
+<!-- TODO: start localizing -->
+<dt id="safe_browsing">bezpieczne przeglądanie</dt><dd>Protection against common threats
+  from <a href="#malware">Malware</a> and <a href="#phishing">Phishing</a> by
+  checking each <a href="#web_page">web page</a> against a list of reported
+  websites. If the web page you are about to visit has been reported as
+  containing malicious content, &brandShortName; prevents it from loading
+  and shows a warning instead.</dd>
+<!-- TODO: stop localizing -->
 
 <dt id="secure_authentication">bezpieczne uwierzytelnienie</dt><dd>Sposób <a href="#authentication">autoryzacji</a>, który używa <a href="#secure_connection">bezpiecznego połaczenia</a>, przez co komunikacja pomiędzy klientem a serwerem jest zaszyfrowana.</dd>
 
@@ -62,9 +81,9 @@
 
 <dt id="security_certificate">certyfikat zabezpieczeń</dt><dd>Patrz: <a href="#certificate">certyfikat</a>.</dd>
 
-<dt id="cookie">ciasteczko</dt><dd>Niewielka porcja informacji zapisana na komputerze użytkownika przez niektóre <a href="#web_site">witryny internetowe</a>. Podczas wizyty na takiej witrynie, pyta ona przeglądarkę o&nbsp;pozwolenia na zapisanie jednego lub więcej ciasteczek na dysku komputera użytkownika. Przy kolejnych odwiedzinach witryny, przeglądarka odsyła witrynie należące do niej ciasteczko. Ciasteczka pomagają witrynom przechowywać informacje o&nbsp;użytkowniku, takie jak zawartość koszyka w&nbsp;sklepie internetowym. Użytkownik może ustawić preferencje kontroli używania ciasteczek i&nbsp;ilości informacji, jakie użytkownik pozwoli w&nbsp;nich przechowywać. Zobacz również <a href="#foreign_cookie">obce ciasteczko</a>.</dd>
+<dt id="cookie">ciasteczko</dt><dd>Niewielka porcja informacji zapisana na komputerze użytkownika przez niektóre <a href="#website">witryny internetowe</a>. Podczas wizyty na takiej witrynie, pyta ona przeglądarkę o&nbsp;pozwolenia na zapisanie jednego lub więcej ciasteczek na dysku komputera użytkownika. Przy kolejnych odwiedzinach witryny, przeglądarka odsyła witrynie należące do niej ciasteczko. Ciasteczka pomagają witrynom przechowywać informacje o&nbsp;użytkowniku, takie jak zawartość koszyka w&nbsp;sklepie internetowym. Użytkownik może ustawić preferencje kontroli używania ciasteczek i&nbsp;ilości informacji, jakie użytkownik pozwoli w&nbsp;nich przechowywać. Zobacz również <a href="#third-party_cookie">ciasteczka z innych witryn</a>.</dd>
 
-<dt id="third-party_cookie">ciasteczko z&nbsp;innego serwera</dt><dd>Patrz: <a href="#foreign_cookie">obce ciasteczko</a>.</dd>
+<dt id="third-party_cookie">ciasteczko z innej witryny</dt><dd><a href="#cookie">Ciasteczko</a> z <a href="#website">witryny</a>, które zostało zapisane na dysku komputera podczas wizyty na innej witrynie. Czasami witryna internetowa wyświetla elementy, które są umieszczone na innej witrynie. Tymi elementami może być cokolwiek &mdash; tekst, obrazki lub reklamy. Ta druga witryna również może zapisywać ciasteczka w&nbsp;przeglądarce, nawet jeżeli nie jest odwiedzana bezpośrednio. Takie ciasteczka są również nazywane <q>obcymi ciasteczkami</q>.</dd>
 
 <dt id="crl">CRL (lista certyfikatów unieważnionych, ang. certificate revocation list)</dt><dd>Lista certyfikatów unieważnionych generowana i&nbsp;podpisywana przez <a href="#certificate_authority">organ certyfikacji (CA)</a>. Użytkownik może pobrać z&nbsp;sieci ostatnią wersję tej listy dla przeglądarki lub serwera, a&nbsp;następnie przeprowadzić kontrolę certyfikatów, aby sprawdzić ich aktualność przed zezwoleniem na używanie do autoryzacji.</dd>
 
@@ -72,7 +91,17 @@
 
 <dt id="add-on">dodatek</dt><dd>Kawałek programu, który może zostać dodany do programu &brandShortName; w celu zmiany wyglądu, zachowania bądź w celu dodania nowych funkcji. Dodatek może również zmienić język interfejsu użytkownika. Patrz również: <a href="#extension">rozszerzenie</a>, <a href="#language_pack">paczka językowa</a>, <a href="#plugin">wtyczka</a>, <a href="#theme">motyw</a>.</dd>
 
-<dt id="implicit_consent">domniemana zgoda</dt><dd>Znana również jako ciche przyzwolenie (bez pytania zainteresowanego, ang. <q>opt-out</q>). Używana do opisania ustawień prywatności, które mogą umożliwić witrynom internetowym gromadzenie informacji o&nbsp;użytkowniku (przykładowo poprzez <a href="#cookie">ciasteczka</a> i&nbsp;formularze na stronach internetowych), za wyjątkiem sytuacji, kiedy użytkownik odmówi zgody przez wybór opcji na dostępnej w&nbsp;tym celu odpowiedniej stronie tej witryny. Żądanie zgody może nie być artykułowane, jeżeli informacje są aktualnie gromadzone.</dd>
+<dt id="implicit_consent">domniemana zgoda</dt><dd>Znana również jako ciche przyzwolenie (bez pytania zainteresowanego, ang. <q>opt-out</q>). Używana do opisania ustawień prywatności, które mogą umożliwić witrynom internetowym gromadzenie informacji o&nbsp;użytkowniku (przykładowo poprzez <a href="#cookie">ciasteczka</a> i&nbsp;formularze na stronach internetowych), za wyjątkiem sytuacji, kiedy użytkownik odmówi zgody przez wybór opcji na dostępnej w&nbsp;tym celu odpowiedniej stronie tej witryny. Żądanie zgody może nie być artykułowane, jeżeli informacje są aktualnie gromadzone. Patrz również: <a href="#user_tracking">śledzenie użytkownika</a>.</dd>
+
+<!-- TODO: start localizing -->
+<dt id="do_not_track">Do Not Track</dt><dd>A mechanism that allows users
+  to inform <a href="#website">websites</a> that they do not want to be
+  <a href="#user_tracking">tracked</a> by third-party websites and
+  <a href="#web_application">web applications</a>. A user&apos; tracking
+  preferences is included in the <a href="#http">HTTP</a> header and sent
+  to the website. &brandShortName; supports sending <q>Do Not Track</q>
+  requests, but websites are not obligated to honor those.</dd>
+<!-- TODO: stop localizing -->
 
 <dt id="tooltip">etykietka</dt><dd>Napis na małym, wyróżnionym polu, pojawiający się po najechaniu kursorem myszy na wybrane elementy. Zwykle zawiera informacje o&nbsp;obiekcie znajdującym się pod kursorem.</dd>
 
@@ -148,11 +177,18 @@
 
 <dt id="nonrepudiation">nieodrzucanie</dt><dd>Niezdolność nadawcy wiadomości do zanegowania wysłania wiadomości. Zwykły podpis odręczny zapewnia dowód nieodrzucania. <a href="#digital_signature">Podpis cyfrowy</a> zapewnia inny dowód nieodrzucania.</dd>
 
-<dt id="foreign_cookie">obce ciasteczko</dt><dd><a href="#cookie">Ciasteczko</a> z&nbsp;witryny, które zostało zapisane na dysku komputera podczas wizyty na innej witrynie. Czasami <a href="#web_site">witryna internetowa</a> wyświetla elementy, które są umieszczone na innej witrynie. Tymi elementami może być cokolwiek &mdash; tekst, obrazki lub reklamy. Ta druga witryna również może zapisywać ciasteczka w&nbsp;przeglądarce, nawet jeżeli nie jest odwiedzana bezpośrednio.Takie ciasteczka są również nazywane <q>ciasteczkami z&nbsp;innych serwerów</q>.</dd>
+<dt id="foreign_cookie">obce ciasteczko</dt><dd>Patrz: <a href="#third-party_cookie">ciasteczko z innej witryny</a>.</dd>
 
 <dt id="ocsp">OCSP (Protokół Weryfikacji Certyfikatu Online, ang. Online Certificate Status Protocol)</dt><dd>Zestaw zasad, które stosuje <a href="#certificate_manager">Menedżer certyfikatów</a> do przeprowadzenia sprawdzenia ważności certyfikatu przy każdym jego użyciu. Proces ten dotyczy sprawdzania certyfikatu zamiast listy ważnych certyfikatów umieszczonej na określonej witrynie. Komputer musi być podłączony do sieci, aby OCSP działało.</dd>
 
-<dt id="fingerprint">odcisk</dt><dd>Zobacz <a href="#certificate_fingerprint">odcisk certyfikatu</a>.</dd>
+<dt id="fingerprint">odcisk (certyfikat)</dt><dd>Zobacz <a href="#certificate_fingerprint">odcisk certyfikatu</a>.</dd>
+
+<!-- TODO: start localizing -->
+<dt id="fingerprinting">odcisk (przeglądarka)</dt><dd>A method of
+  <a href="#user_tracking">user tracking</a> by which a user is identified
+  based on browser characteristics like browser and operating system versions,
+  stated language preferences, or <a href="#plugin">plugins</a> installed.</dd>
+<!-- TODO: stop localizing -->
 
 <dt id="certificate_fingerprint">odcisk certyfikatu</dt><dd>Unikalny numer powiązany z&nbsp;certyfikatem. Numer ten nie stanowi części certyfikatu, ale jest tworzony za pomocą formuły matematycznej obliczającej go na podstawie jego zawartości. Zmiana pojedynczego znaku w&nbsp;treści certyfikatu powoduje, że wyliczona liczba będzie inna. Z&nbsp;tego powodu odciski certyfikatów mogą być używane do stwierdzenia, że certyfikaty nie zostały sfałszowane.</dd>
 
@@ -202,7 +238,26 @@
 
 <dt id="subject">przedmiot</dt><dd>Jednostka (taka jak osoba, organizacja lub router) identyfikowana przez <a href="#certificate">certyfikat</a>. W&nbsp;szczególności opis certyfikatu zawiera <a href="#subject_name">nazwę przedmiotu certyfikatu</a> i&nbsp;inne dane charakterystyczne.</dd>
 
+<!-- TODO: start localizing -->
+<dt id="caret_browsing">przeglądanie z użyciem kursora</dt><dd>A &brandShortName; feature that
+  allows you to navigate through text in Web pages and email messages (or this
+  Help window) with a caret. Using your keyboard, you can navigate and select
+  text like you do in a text editor. You can turn caret browsing mode on or off
+  by pressing the <kbd>F7</kbd> key. Caret browsing mode can also be enabled or
+  disabled in Advanced Preferences - Keyboard Navigation.</dd>
+<!-- TODO: stop localizing -->
+
 <dt id="frame">ramka</dt><dd>Ramki są <a href="#web_page">stronami WWW</a> zawartymi wewnątrz otaczającej je <q>metastrony</q>.</dd>
+
+<!-- TODO: start localizing -->
+<dt id="malware">robaki</dt><dd>Short for <q><u>Mal</u>icious
+  Soft<u>ware</u></q> and a general term for a variety of software designed
+  to disrupt computer operation, gather sensitive information, or gain access
+  to your computer. They can be distributed by infected <a href="#web_page">web
+  pages</a> or as attachments to email messages. Examples include viruses,
+  worms, trojans, spyware, or adware. Malware may redistribute itself by
+  sending out email messages to infect other computers.</dd>
+<!-- TODO: stop localizing -->
 
 <dt id="extension">rozszerzenie</dt><dd>Typ <a href="#add-on">dodatku</a>, który zmienia zachowanie programu &brandShortName; i/lub dodaje nowe funkcje.</dd>
 
@@ -228,15 +283,36 @@
 
 <dt id="symmetric_encryption">szyfrowanie symetryczne</dt><dd>Metoda szyfrowania, w&nbsp;której używa się pojedynczego klucza szyfrującego do szyfrowania i&nbsp;rozszyfrowywania wiadomości.</dd>
 
+<!-- TODO: start localizing -->
+<dt id="user_tracking">śledzenie użytkownika</dt><dd>Methods that some
+  <a href="#website">websites</a>, including advertisers and analytics services,
+  employ to determine patterns in how you browse the web (e.g., what websites
+  you have visited, which preferences you have voiced using buttons embedded by
+  social networks, and your purchase history). This information is mostly used
+  to show you specifically targeted offers or advertisements for products or
+  services. Mechanisms for user tracking include <a href="#cookie">cookies</a>
+  and <a href="#fingerprinting">browser fingerprinting</a>. See also
+  <a href="#do_not_track">Do Not Track</a>.</dd>
+<!-- TODO: stop localizing -->
+
 <dt id="tcp">TCP</dt><dd>Zobacz <a href="#tcp_ip">TCP/IP</a>.</dd>
 
 <dt id="tcp_ip">TCP/IP (Transmission Control Protocol/Internet Protocol)</dt><dd>Protokół kontroli transmisji / Protokół internetowy. Protokół pochodzący z&nbsp;systemów Unix, używany do łączenia komputerów zarządzanych przez różne systemy operacyjne. TCP/IP jest podstawowym protokołem internetowym i&nbsp;stał się globalnym standardem.</dd>
 
 <dt id="tls">TLS</dt><dd>TLS (Transport Layer Security) jest nowym standardem organizacji IETF bazującym na SSL (Secure Sockets Layer). Patrz również: <a href="#ssl">SSL</a> oraz <a href="#encryption">szyfrowanie</a>.</dd>
 
-<dt id="token">token</dt><dd>Zobacz <a href="#security_device">urządzenie zabezpieczające</a>.</dd>
+<dt id="token">token</dt><dd>Patrz: <a href="#security_device">urządzenie zabezpieczające</a>.</dd>
 
-<dt id="security_token">token zabezpieczający</dt><dd>Zobacz <a href="#security_device">urządzenie zabezpieczające</a>.</dd>
+<!-- TODO: start localizing -->
+<dt id="private_browsing">Tryb prywatny</dt><dd>Browsing in a session in
+  which no private data (like browsing history, <a href="#cookie">cookies</a>,
+  and <a href="#cache">cached</a> content) are retained beyond the duration of
+  the private session. Private browsing should not be confused with anonymous
+  browsing and does not prevent <a href="#user_tracking">user tracking</a> or
+  monitoring of web activity by an internet provider or employer.</dd>
+<!-- TODO: stop localizing -->
+
+<dt id="security_token">token zabezpieczający</dt><dd>Patrz: <a href="#security_device">urządzenie zabezpieczające</a>.</dd>
 
 <dt id="url">URL (Uniform Resource Locator)</dt><dd>Zunifikowany standard odnośników. Ustandaryzowany adres, na podstawie którego przeglądarka stron WWW&nbsp;lokalizuje plik lub inny zasób w&nbsp;sieci Web. Przykładowo: <tt>http://www.mozilla.org</tt>. Adresy URL wpisuje się w&nbsp;<a href="#location_bar">pasku adresu</a> przeglądarki, aby uzyskać dostęp do <a href="#web_page">stron WWW</a>. Adresy URL są również używane w&nbsp;odnośnikach na stronach WWW, po kliknięciu których wyświetlane są inne strony WWW. URL jest znany również jako adres internetowy lub adres WWW.</dd>
 
@@ -244,7 +320,7 @@
 
 <dt id="certificate_verification">weryfikacja certyfikatu</dt><dd>Kiedy <a href="#certificate_manager">Menedżer certyfikatów</a> weryfikuje certyfikat, potwierdza, że podpis cyfrowy został utworzony przez organ certyfikacji, którego własny certyfikat Menedżer certyfikatów ma zapisany i&nbsp;oznaczony jako zaufany dla celów wydawania takiego rodzaju certyfikatów. Potwierdza również, że weryfikowany certyfikat nie został oznaczony przez siebie samego jako niezaufany. Oraz ostatecznie, jeżeli <a href="#ocsp">OCSP (Online Certificate Status Protocol)</a> został uaktywniony, Menedżer certyfikatów przeprowadza również sprawdzenie certyfikatu w&nbsp;trybie online. Czyni to przez wyszukiwanie certyfikatu na liście ważnych certyfikatów dostępnej pod adresem <a href="#url">URL</a> określonym w&nbsp;certyfikacie lub w&nbsp;preferencjach weryfikacji przeglądarki. Jeżeli dowolne z&nbsp;tych sprawdzeń da wynik negatywny, Menedżer certyfikatów oznaczy ten certyfikat jako niezweryfikowany i&nbsp;nie będzie rozpoznawał tożsamości przez niego identyfikowanej.</dd>
 
-<dt id="web_site">witryna internetowa (ang. website)</dt><dd>Grupa powiązanych stron WWW&nbsp;połączonych hiperłączami i&nbsp;zarządzanych przez pojedynczą firmę, organizację lub osobę. Witryna internetowa może zawierać tekst, grafikę, pliki audio i&nbsp;wideo oraz odnośniki do innych witryn.</dd>
+<dt id="website">witryna internetowa (ang. website)</dt><dd>Grupa powiązanych stron WWW&nbsp;połączonych hiperłączami i&nbsp;zarządzanych przez pojedynczą firmę, organizację lub osobę. Witryna internetowa może zawierać tekst, grafikę, pliki audio i&nbsp;wideo oraz odnośniki do innych witryn.</dd>
 
 <dt id="world_wide_web">World Wide Web (WWW)</dt><dd>Często nazywane również Web (ang.). Część zasobów <a href="#internet">Internetu</a> w&nbsp;postaci stron WWW&nbsp;przechowywanych na  <a href="#server">serwerach</a> stron WWW&nbsp;i&nbsp;wyświetlanych za pomocą <a href="#client">klientów</a> zwanych przeglądarkami stron WWW&nbsp;(takich jak &brandShortName;).</dd>
 

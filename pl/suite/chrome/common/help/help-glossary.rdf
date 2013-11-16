@@ -13,6 +13,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description nc:name="adres IP" nc:link="glossary.xhtml#ip_address"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="algorytm kryptograficzny" nc:link="glossary.xhtml#cryptographic_algorithm"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="aplikacja internetowa" nc:link="glossary.xhtml#web_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="aplikacja pomocnicza" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="autoryzacja" nc:link="glossary.xhtml#authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="autoryzacja klienta" nc:link="glossary.xhtml#client_authentication"/> </rdf:li>
@@ -20,6 +21,7 @@
         <rdf:li> <rdf:Description nc:name="autoryzacja oparta na hasłach" nc:link="glossary.xhtml#password-based_authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="autoryzacja serwera" nc:link="glossary.xhtml#server_authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="bezpieczne połączenie" nc:link="glossary.xhtml#secure_connection"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="Bezpieczne przeglądanie" nc:link="glossary.xhtml#safe_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="bezpieczne uwierzytelnienie" nc:link="glossary.xhtml#secure_authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="CA" nc:link="glossary.xhtml#ca"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="certyfikat" nc:link="glossary.xhtml#certificate"/> </rdf:li>
@@ -36,6 +38,7 @@
         <rdf:li> <rdf:Description nc:name="cyfrowy dowód tożsamości" nc:link="glossary.xhtml#digital_id"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="dodatek" nc:link="glossary.xhtml#add-on"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="domniemana zgoda" nc:link="glossary.xhtml#implicit_consent"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="Do Not Track" nc:link="glossary.xhtml#do_not_track"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="etykietka" nc:link="glossary.xhtml#tooltip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="fałszywa tożsamość" nc:link="glossary.xhtml#misrepresentation"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FIPS PUBS 140-1" nc:link="glossary.xhtml#fips_pubs_140-1"/> </rdf:li>
@@ -75,9 +78,11 @@
         <rdf:li> <rdf:Description nc:name="nieodrzucanie" nc:link="glossary.xhtml#nonrepudiation"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="obce ciasteczko" nc:link="glossary.xhtml#foreign_cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OCSP" nc:link="glossary.xhtml#ocsp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="odcisk" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="odcisk (certyfikat)" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="odcisk (przeglądarka)" nc:link="glossary.xhtml#fingerprinting"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="odcisk certyfikatu" nc:link="glossary.xhtml#certificate_fingerprint"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="odnawianie certyfikatu" nc:link="glossary.xhtml#certificate_renewal"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="odszyfrowywanie" nc:link="glossary.xhtml#decryption"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="organ certyfikacji (CA)" nc:link="glossary.xhtml#certificate_authority"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="osobisty pasek narzędzi" nc:link="glossary.xhtml#personal_toolbar"/> </rdf:li>
 				<rdf:li> <rdf:Description nc:name="oszustwo internetowe (phishing)" nc:link="glossary.xhtml#phishing"/> </rdf:li>
@@ -100,9 +105,10 @@
         <rdf:li> <rdf:Description nc:name="programowe urządzenie zabezpieczające" nc:link="glossary.xhtml#software_security_device"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="proxy" nc:link="glossary.xhtml#proxy"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="przedmiot" nc:link="glossary.xhtml#subject"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="przeglądanie z użyciem kursora" nc:link="glossary.xhtml#caret_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="ramka" nc:link="glossary.xhtml#frame"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="robaki" nc:link="glossary.xhtml#malware"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="rozszerzenie" nc:link="glossary.xhtml#extension"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="rozszyfrowywanie" nc:link="glossary.xhtml#decryption"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="serwer" nc:link="glossary.xhtml#server"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SMTP" nc:link="glossary.xhtml#smtp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SOCKS" nc:link="glossary.xhtml#socks"/> </rdf:li>
@@ -113,15 +119,17 @@
         <rdf:li> <rdf:Description nc:name="szyfr" nc:link="glossary.xhtml#cipher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="szyfrowanie" nc:link="glossary.xhtml#encryption"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="szyfrowanie symetryczne" nc:link="glossary.xhtml#symmetric_encryption"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="śledzenie użytkownika" nc:link="glossary.xhtml#user_tracking"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="TCP" nc:link="glossary.xhtml#tcp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="TCP/IP" nc:link="glossary.xhtml#tcp_ip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="TLS" nc:link="glossary.xhtml#tls"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="token" nc:link="glossary.xhtml#token"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="token zabezpieczający" nc:link="glossary.xhtml#security_token"/> </rdf:li>
+	<rdf:li> <rdf:Description nc:name="Tryb prywatny" nc:link="glossary.xhtml#private_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="URL" nc:link="glossary.xhtml#url"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="urządzenie zabezpieczające" nc:link="glossary.xhtml#security_device"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="weryfikacja certyfikatu" nc:link="glossary.xhtml#certificate_verification"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="witryna internetowa" nc:link="glossary.xhtml#web_site"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="witryna internetowa" nc:link="glossary.xhtml#website"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="World Wide Web (WWW)" nc:link="glossary.xhtml#world_wide_web"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="WPAD" nc:link="glossary.xhtml#wpad"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="wtyczka" nc:link="glossary.xhtml#plug-in"/> </rdf:li>
