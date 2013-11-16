@@ -75,8 +75,27 @@
       <li><strong>Ustaw jako domyślną przeglądarkę</strong>: Jeżeli przycisk jest aktywny, kliknięcie spowoduje ustawienie &brandShortName; jako domyślnej przeglądarki stron WWW. Jeżeli jest nieaktywny, oznacza to, że &brandShortName; już jest domyślną przeglądarką.</li>
     </ul>
   </li>
-  <li><strong>Strona domowa</strong>: Wprowadzić w&nbsp;polu adres strony WWW, która ma być stroną domową, lub wykonać jedną z&nbsp;poniższych czynności:
+  <!-- TODO: start localizing -->
+  <li><strong>When restoring sessions and windows</strong>: Choose how many
+    (if any) browser tabs should be restored at a time upon startup.
     <ul>
+      <li><strong>Restore all tabs immediately</strong>: All the tabs you had
+        open the last time will be restored and loaded at once. This can affect
+        startup performance negatively if a large amount of tabs needs to be
+        restored in parallel.</li>
+      <li><strong>Restore [__] tab(s) at a time</strong>: If you choose this,
+        only the specified amount of tabs will be restored at a time. If you
+        had more tabs open than specified here, any extra tabs will only be
+        loaded once the loading of one of the other tabs has finished.</li>
+      <li><strong>Only restore tabs when I need them</strong>: This disables
+        automatic restoring of tabs, i.e. tabs will only be loaded if you
+        switch to or reload them.</li>
+    </ul>
+  </li>
+  <!-- TODO: stop localizing -->
+  <li><strong>Preferencje przycisku Strona domowa</strong>: Wprowadzić w&nbsp;polu adres strony WWW, która ma być stroną domową, lub wykonać jedną z&nbsp;poniższych czynności:
+    <ul>
+      <li><strong>Wybierz plik</strong>: Przycisk umożliwia wybór pliku z&nbsp;dysku, który zostanie wczytany jako strona domowa.</li>
       <li><strong>Użyj bieżącej strony</strong>: W&nbsp;pole tekstowe należy wpisać adres (URL) strony, która ma zostać stroną domową dla przeglądarki. Można także kliknąć jeden z&nbsp;poniższych przycisków:</li>
       <li><strong>Użyj bieżących kart</strong>: Jeżeli w&nbsp;przeglądarce jest otwarta więcej niż jedna strona, przycisk ten pozwoli na ustawienie ich jako grupy stron domowych (grupę kart, które zostaną otwarte jako strona domowa). Po kliknięciu na ten przycisk, w&nbsp;polu adresu strony domowej pojawi się komunikat <q>Strony otwarte w&nbsp;kartach zachowano jako stronę domową</q>.
         
@@ -84,7 +103,6 @@
       
       </li>
       <li><strong>Przywróć domyślne</strong>: Przywraca domyślną stronę domową programu.</li>
-      <li><strong>Wybierz plik</strong>: Przycisk umożliwia wybór pliku z&nbsp;dysku, który zostanie wczytany jako strona domowa.</li>
     </ul>
   </li>
 </ul>
@@ -147,7 +165,7 @@
   <li>W&nbsp;kategorii Przeglądarka wybrać podkategorię Języki. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Przeglądarka.)</li>
 </ol>
 
-<p>Panel preferencji języków umożliwia określanie i&nbsp;wybór języka oraz sposobu kodowania liter na stronach WWW&nbsp;dających możliwość wyboru wersji językowej strony i&nbsp;sprawdzania pisowni w&nbsp;trakcie wprowadzania tekstu w&nbsp;formularzach:</p>
+<p>Panel preferencji języków umożliwia określanie i&nbsp;wybór języka oraz sposobu kodowania liter na stronach WWW&nbsp;dających możliwość wyboru wersji językowej strony:</p>
 
 <ul>
   <li><strong>Lista preferowanych wersji językowych</strong>:
@@ -161,11 +179,6 @@
     <ul>
       <li><strong>Domyślne kodowanie znaków</strong>: Lista rozwijalna dostępnych kodowań, pozwala na wybór domyślnego sposobu kodowania znaków wyświetlanych na stronach WWW.</li>
 		</ul>
-	</li>
-	<li><strong>Sprawdzanie pisowni</strong>:
-    <ul>
-      <li><strong>Sprawdź pisownię podczas wprowadzania tekstu</strong>: Lista rozwijalna dostępnych sposobów sprawdzania pisowni.</li>
-    </ul>
 	</li>
 </ul>
 
@@ -181,7 +194,7 @@
 </ol>
 
 <p>Panel preferencji aplikacji pomocniczych umożliwia ustawienie  postępowania z różnymi typami zawartości (np. z plikami PDF). Wyświetla listę typów zawartości i pozwala wybrać czynność do wykonania dla każdego z nich. Aby przefiltrować listę można użyć pola wyszukiwania. Wprowadzony do niego tekst pozwoli zawęzić listę elementów, zarówno po typie zawartości jak i czynności.</p>
-<p>Można wybrać zainstalowaną aplikację dla dowolnego typu zawartości. Dla wybranych typów można również wybrać aplikację sieciową, należy wybrać <a href="glossary.xhtml#plugin">wtyczkę</a> w &brandShortName;, aby obsługiwać typ zawartości lub zapisać plik na dysku komputera.</p>
+<p>Można wybrać zainstalowaną aplikację dla dowolnego typu zawartości. Dla wybranych typów można również wybrać <a href="glossary.xhtml#web_application">aplikację sieciową</a>, należy wybrać <a href="glossary.xhtml#plugin">wtyczkę</a> w &brandShortName;, aby obsługiwać typ zawartości lub zapisać plik na dysku komputera.</p>
 <p>Aby określić czynność dla typu zawartości, należy wybrać z listy ten typ. Pole określania czynności dla niego zmieni się w menu rozwijalne. Z menu można wybrać odpowiednią czynność do obsługi tego typu. Zależnie od typu można:</p>
 
 <ul>
@@ -228,6 +241,15 @@
       </li>
     </ul>
   </li>
+<!-- TODO: start localizing -->
+  <li><strong>Formatting</strong>:
+    <ul>
+      <li><strong>Highlight the effective domain for websites and FTP
+        servers</strong>: Grays out all of the URL except for the effective
+        domain, so that it is clear which site you are visiting.</li>
+    </ul>
+  </li>
+<!-- TODO: stop localizing -->
   <li><strong>Wyszukiwarka internetowa</strong>:
     <ul>
       <li><strong>Wyświetl domyślną wyszukiwarkę internetową</strong>: Wyświetla poniżej paska adresu element, którego wybranie umożliwi wyszukanie w domyślnej wyszukiwarce internetowej wprowadzonego w pasku adresu wyrażenia.</li>
@@ -236,7 +258,7 @@
   <li><strong>Nieznane adresy</strong>
     <ul>
       <li><strong>Automatycznie dodaj <q>www.</q> oraz <q>.com</q> do wprowadzanego adresu, jeżeli odnalezienie witryny nie będzie możliwe.</strong>: Zaznaczenie tej opcji spowoduje, że &brandShortName; będzie automatycznie dodawała <tt>www.</tt> na początek oraz <tt>.com</tt> na koniec adresu strony, która nie zostanie odnaleziona. Więcej informacji w dokumencie w języku angielskim odnośnie odgadywania nazw domen na stronie <a href="http://www.mozilla.org/docs/end-user/domain-guessing.html">Domain Guessing</a>.</li>
-      <li><strong>Wykonaj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym</strong>: Zaznaczenie tej opcji spowoduje, że &brandShortName; będzie automatycznie wyszukiwała wprowadzony w pasku adresu tekst w wyszukiwarce internetowej, jeżeli nie będzie on adresem strony lub pliku. &brandShortName;  będzie wyszukiwała wprowadzony tekst po naciśnięciu klawisza <kbd class="noMac">Enter</kbd><kbd class="mac">Return</kbd> w pasku adresu. <strong>Uwaga</strong>: Wyszukiwarka internetowa używana w tej funkcji nie może być zmieniona w <a href="#internet_search">preferencjach wyszukiwania</a>.</li>
+      <li><strong>Wykonaj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym</strong>: Zaznaczenie tej opcji spowoduje, że &brandShortName; będzie automatycznie wyszukiwała wprowadzony w pasku adresu tekst w wyszukiwarce internetowej, jeżeli nie będzie on adresem strony lub pliku. &brandShortName;  będzie wyszukiwała wprowadzony tekst po naciśnięciu klawisza <kbd class="noMac">Enter</kbd><kbd class="mac">Return</kbd> w pasku adresu.</li>
     </ul>
   </li>
 </ul>
@@ -337,18 +359,44 @@
     opened in &brandShortName;:</p>
 <!-- TODO: stop localizing -->
 <ul>
-  <li><strong>Otwieranie odnośników</strong>: Jeżeli witryna jest zaprojektowana, aby otwierać strony w&nbsp;nowych oknach (poprzez atrybut target w&nbsp;HTML lub poprzez JavaScript), można wymusić określony sposób ich otwierania:
+  <li><strong>Otwieranie odnośników</strong>: Jeżeli witryna jest zaprojektowana, aby otwierać strony w&nbsp;nowych oknach, można wymusić określony sposób ich otwierania. <!-- TODO: start localizing -->You can define the behavior separately for links with a target attribute and windows opened using JavaScript:
     <ul>
+    <!-- old localization
       <li><strong>ostatnio aktywnej karcie lub oknie</strong>: Wymusi otwieranie odnośników w&nbsp;ostatnio aktywnej karcie lub oknie.</li>
       <li><strong>nowej karcie w&nbsp;ostatnim aktywnym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowej karcie w&nbsp;ostatnim aktywnym oknie.</li>
-      <li><strong>nowym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowym oknie. Jest to domyślnym ustawieniem, które nie zmienia domyślnego zachowania witryn.</li>
+      <li><strong>nowym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowym oknie. Jest to domyślnym ustawieniem, które nie zmienia domyślnego zachowania witryn.</li> -->
+      <li><strong>Open links meant to open a new window in</strong>:
+        <ul>
+          <li><strong>The current tab/window</strong>: Open the linked page in
+            the current tab of the active window.</li>
+          <li><strong>A new tab in the current window</strong>: Open the linked
+            page in a new tab instead of a new window.</li>
+          <li><strong>A new window</strong>: Open the linked page in a new
+            window. (This does not override the webpage design and disables
+            the below options for pages opened from scripts.)</li>
+        </ul>
+      </li>
+      <li><strong>When scripts want to open a new window</strong>:
+        <ul>
+          <li><strong>Always divert windows into tabs</strong>: Open the page to
+            be loaded in a tab according to the above settings.</li>
+          <li><strong>Don&apos;t divert custom windows into tabs</strong>: Open
+            the page to be loaded in a popup window if the script explicitly
+            specifies features of the new window (such as size or position),
+            else open the page in a tab according to the above settings.</li>
+          <li><strong>Always open new windows</strong>: Open the page to be
+            loaded in a new window. (This does not override the webpage
+           design.)</li>
+        </ul>
+      </li>
+      <!-- TODO: stop localizing -->
     </ul>
   </li>
   <li><strong>Odnośniki otwierane z&nbsp;innych aplikacji</strong>: Jeżeli inna aplikacja otwiera stronę przy pomocy &brandShortName; (np. wywołanie odnośnika z&nbsp;programu pocztowego), można zmienić miejsce otworzenia strony:
     <ul>
       <li><strong>ostatnio aktywnej karcie lub oknie</strong>: Wymusi otwieranie odnośników w&nbsp;ostatnio aktywnej karcie lub oknie.</li>
       <li><strong>nowej karcie w&nbsp;ostatnim aktywnym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowej karcie w&nbsp;ostatnim aktywnym oknie.</li>
-      <li><strong>nowym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowym oknie (domyślne ustawienie).</li>
+      <li><strong>nowym oknie</strong>: Wymusi otwieranie odnośników w&nbsp;nowym oknie.</li>
     </ul>
   </li>
 </ul>
@@ -444,7 +492,7 @@
 <ul>
   <li><strong>Gdy pobieranie zostanie zakończone</strong>:
     <ul>
-      <li><strong>Odegraj dźwięk</strong>: Zaznacz aby &brandShortName; odtwarzała wybrany dźwięk (zazwyczaj w&nbsp;formacie WAV) kiedy pobieranie zostanie zakończone. Użyj przycisku <q>Przeglądaj</q> aby wybrać plik i&nbsp;<q>Podgląd</q> żeby odtworzyć dźwięk.</li>
+      <li><strong>Odegraj dźwięk</strong>: Zaznacz aby &brandShortName; odtwarzała wybrany dźwięk (zazwyczaj w&nbsp;formacie WAV) kiedy pobieranie zostanie zakończone. Użyj przycisku <q>Przeglądaj</q> aby wybrać plik i&nbsp;<q>Odtwórz</q> żeby odtworzyć dźwięk.</li>
     </ul>
   </li>
 </ul>
