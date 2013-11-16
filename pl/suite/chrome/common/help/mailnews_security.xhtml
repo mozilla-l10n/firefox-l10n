@@ -48,7 +48,7 @@
 
 <p>Po przeprowadzeniu powyższych czynności użytkownik może wykonać dalsze kroki opisane w&nbsp;rozdziale <a href="#signing_and_encrypting_a_new_message">Podpisywanie i&nbsp;szyfrowanie nowej wiadomości</a>.</p>
 
-<p>Poniżej krótko opisane zostało działanie podpisów cyfrowych i&nbsp;szyfrowania. Więcej informacji w&nbsp;dokumencie online <q>Wprowadzenie do kryptografii z&nbsp;użyciem kluczy publicznych</q>: <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction to Public-Key Cryptography</a> (strona w&nbsp;języku angielskim).</p>
+<p>Poniżej krótko opisane zostało działanie podpisów cyfrowych i&nbsp;szyfrowania. Więcej informacji w&nbsp;dokumencie online <q>Wprowadzenie do kryptografii z&nbsp;użyciem kluczy publicznych</q>: <a href="http://developer.mozilla.org/en/Introduction_to_Public-Key_Cryptography">Introduction to Public-Key Cryptography</a> (strona w&nbsp;języku angielskim).</p>
 
 <h3 id="how_digital_signatures_work">Jak działają podpisy cyfrowe</h3>
 
@@ -215,6 +215,12 @@
   </li>
 </ul>
 
+<!-- TODO: start localizing -->
+<p>When you compose a message and select a different account, the signing
+  and encryption preferences are updated to reflect the settings of
+  the newly selected account.</p>
+<!-- TODO: stop localizing -->
+
 <p>W&nbsp;oknie dialogowym Zabezpieczenia wiadomości wyświetlane są również dostępne certyfikaty dla adresatów tworzonej wiadomości:</p>
 
 <ul>
@@ -243,7 +249,7 @@
 <ul>
   <li><strong>Podpis cyfrowy</strong>: Górna część okna dialogowego zawiera informacje o&nbsp;podpisie cyfrowym, czy jest dostępny i&nbsp;został pozytywnie zweryfikowany.</li>
   
-  <p>Jeżeli weryfikacja niepowiodła się przy użyciu protokołu OCSP, należy sprawdzić ustawienia OCSP w&nbsp;<a href="validation_help.xhtml#privacy_and_security_preferences_validation">Preferencjach weryfikacji</a>. Jeżeli użytkownik nie zna protokołu OCSP, należy skonsultować ustawienia z&nbsp;administratorem systemu. Jeżeli ustawienia są poprawne, to może występować problem z&nbsp;serwisem OCSP lub certyfikat użyty do stworzenia podpisu jest już nieważny.</p>
+  <p>Jeżeli weryfikacja niepowiodła się przy użyciu protokołu OCSP, należy sprawdzić ustawienia OCSP w&nbsp;<a href="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates">Preferencjach certyfikatów</a>. Jeżeli użytkownik nie zna protokołu OCSP, należy skonsultować ustawienia z&nbsp;administratorem systemu. Jeżeli ustawienia są poprawne, to może występować problem z&nbsp;serwisem OCSP lub certyfikat użyty do stworzenia podpisu jest już nieważny.</p>
   
   <p>Jeżeli podpis jest nieprawidłowy ze względu na problem z&nbsp;ustawieniami zaufania certyfikatu, to można użyć <a href="certs_help.xhtml">Menedżer certyfikatów</a> do przejrzenia lub zmiany tych ustawień.</p>
 
