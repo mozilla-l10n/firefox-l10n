@@ -39,3 +39,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Rakenduse menüü">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Kuva &brandShortName;i menüüd">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kalendrite paneel">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "l">
+<!ENTITY lightning.toolbar.calendarpane.label        "Kuvatakse kalendrite paneeli">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "p">
