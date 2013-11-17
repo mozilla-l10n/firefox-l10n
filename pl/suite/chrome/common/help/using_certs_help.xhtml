@@ -299,9 +299,7 @@
 <div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
     <li><a href="#how_validation_works">Jak działa kontrola ważności</a></li>
-    <li><a href="#managing_crls">Zarządzanie listami certyfikatów unieważnionych</a></li>
     <li><a href="#configuring_ocsp">Konfigurowanie OCSP</a></li>
-    <li><a href="validation_help.xhtml">Ustawienia kontroli ważności</a></li>
   </ul>
 </div>
 
@@ -313,106 +311,24 @@
 
 <p>Certyfikat jednakże może pomyślnie przejść wszystkie testy i&nbsp;wciąż w&nbsp;niektórych przypadkach pozostać niewiarygodnym. Przykładowo, certyfikat może zostać unieważniony, ponieważ osoba trzecia uzyskała dostęp do klucza prywatnego pasującego do certyfikatu. Niewiarygodny certyfikat może umożliwiać niepowołanej osobie (lub witrynie WWW) podszywanie się pod prawowitego właściciela.</p>
 
-<p>Jednym ze sposobów uniknięcia powyższej sytuacji jest sprawdzanie przy weryfikacji przez Menedżera certyfikatów, listy certyfikatów unieważnionych (ang. certificate revocation list (CRL)) (więcej informacji w&nbsp;rozdziale <a href="#managing_crls">Zarządzanie listami certyfikatów unieważnionych</a> poniżej). Zwykle pobranie listy CRL do przeglądarki odbywa się poprzez kliknięcie odpowiedniego odnośnika na stronie WWW. Jeżeli przeglądarka posiada listę CRL, Menedżer certyfikatów sprawdza obecność na niej każdego certyfikatu wydanego przez dany organ certyfikacji podczas procesu weryfikacji certyfikatów.</p>
+<p>Jednym ze sposobów uniknięcia powyższej sytuacji byłoby sprawdzanie przy weryfikacji przez Menedżera certyfikatów wcześniej pobranej listy certyfikatów unieważnionych (ang. certificate revocation list (CRL)). <!-- TODO: start localizing -->However, those lists may be large and need to be updated frequently in order to remain current and thus useful.<!-- TODO: stop localizing --></p>
 
-<p>Efektywność list CRL ściśle zależy od częstotliwości publikowania ich przez serwer organu certyfikacji i&nbsp;sprawdzania przez przeglądarkę użytkownika. Istnieje możliwość odpowiedniej konfiguracji <a href="validation_help.xhtml#automatic_crl_update_preferences">automatycznego uaktualniania list CRL</a> tak, aby listy CRL były automatycznie uaktualniane z&nbsp;zadaną częstotliwością sprawdzania z&nbsp;listami obecnymi na serwerze.</p>
-
-<p>Innym sposobem uniknięcia sytuacji korzystania z&nbsp;unieważnionych certyfikatów jest użycie wyspecjalizowanych serwerów, które obsługują Protokół Weryfikacji Certyfikatu Online (ang. Online Certificate Status Protocol (OCSP)). Taki serwer jest w&nbsp;stanie udzielać odpowiedzi na zapytania przeglądarki o&nbsp;pojedyncze certyfikaty (więcej informacji w&nbsp;rozdziale <a href="#configuring_ocsp">Konfigurowanie OCSP</a> poniżej).</p>
+<p>Preferowanym sposobem uniknięcia sytuacji korzystania z&nbsp;unieważnionych certyfikatów jest użycie wyspecjalizowanych serwerów, które obsługują Protokół Weryfikacji Certyfikatu Online (ang. Online Certificate Status Protocol (OCSP)). Taki serwer jest w&nbsp;stanie udzielać odpowiedzi na zapytania przeglądarki o&nbsp;pojedyncze certyfikaty (więcej informacji w&nbsp;rozdziale <a href="#configuring_ocsp">Konfigurowanie OCSP</a> poniżej).</p>
 
 <p>Serwer, zwany serwerem potwierdzającym, odbiera uaktualnione listy CRL okresowo z&nbsp;serwerów tych organów certyfikacji, które wydały weryfikowane certyfikaty. Istnieje możliwość takiej konfiguracji Menedżera certyfikatów, żeby wysyłał zapytanie o&nbsp;status certyfikatu do serwera potwierdzającego i&nbsp;oczekiwał następnie na potwierdzenie statusu ważności certyfikatu.</p>
 
 <p>[<a href="#controlling_validation">Na początek rozdziału</a>]</p>
 
-<h2 id="managing_crls">Zarządzanie listami certyfikatów unieważnionych</h2>
-
-<p>Lista CRL zawiera dane o&nbsp;unieważnionych certyfikatach. <a href="glossary.xhtml#certificate_authority">Organ certyfikacji</a> może unieważnić certyfikat, gdy (przykładowo) zostanie on w&nbsp;jakiś sposób narażony na szwank &mdash; podobnie jak bank unieważnia skradzioną kartę kredytową.</p>
-
-<p>Ten rozdział objaśnia, jak dokonać importu list CRL i&nbsp;nimi zarządzać.</p>
-
-<p>Więcej dodatkowych informacji można uzyskać w&nbsp;rozdziale <a href="#how_validation_works">Jak działa kontrola ważności</a>.</p>
-
-<p>Szczegółowe informacje o&nbsp;możliwych do konfiguracji ustawieniach list CRL są dostępne w&nbsp;rozdziale <a href="validation_help.xhtml">Ustawienia weryfikacji</a>.</p>
-
-<div class="contentsBox">W&nbsp;tym rozdziale:
-  <ul>
-    <li><a href="#about_the_next_update_date">O&nbsp;dacie <q>następnego uaktualnienia</q></a></li>
-    <li><a href="#importing_crls">Importowanie list CRL</a></li>
-    <li><a href="#viewing_and_managing_crls">Podgląd i&nbsp;zarządzanie listami CRL</a></li>
-  </ul>
-</div>
-
-<h3 id="about_the_next_update_date">O&nbsp;dacie <q>następnego uaktualnienia</q></h3>
-
-<p>Przeglądarka używa list CRL do sprawdzania ważności certyfikatów wydanych przez dany organ certyfikacji. Jeżeli certyfikat widnieje na liście jako unieważniony, nie zostanie on przez przeglądarkę zaakceptowany jako wiarygodny dowód tożsamości.</p>
-
-<p>Organy certyfikacji z&nbsp;reguły publikują uaktualnione listy CRL w&nbsp;regularnych odstępach czasowych. Każda lista CRL zawiera datę podaną w&nbsp;polu Następna aktualizacja. Data ta określa, kiedy zostanie wydane następne uaktualnienie listy. Jeżeli data następnego uaktualnienia jest wcześniejsza niż data bieżąca, użytkownik powinien pobrać najnowszą wersję listy CRL. Informacje na temat podglądu list CRL i&nbsp;ustawiania automatycznego ich uaktualniania są dostępne w&nbsp;części <a href="#viewing_and_managing_crls">Podgląd i&nbsp;zarządzanie listami CRL</a>.</p>
-
-<p>Organy certyfikacji są zobowiązane do publikacji nowych list CRL w&nbsp;terminie określonym datą Następnej aktualizacji. Niemniej, fakt nie posiadania przez przeglądarkę najnowszej wersji listy CRL nie powoduje automatycznego unieważnienia certyfikatu. Dlatego, jeżeli nie jest dostępna najnowsza lista CRL, certyfikat może zostać uwierzytelniony nawet pomimo tego, że na najnowszej liście widnieje jako przeterminowany. Sposobem na uniknięcie takiej sytuacji jest automatyczne pobieranie uaktualnionych list CRL.</p>
-
-<h3 id="importing_crls">Importowanie list CRL</h3>
-
-<p>Użytkownik posiada możliwość importu listy CRL z&nbsp;serwera organu certyfikacji do swojej przeglądarki. Aby to uczynić, należy:</p>
-
-<ol>
-  <li>Udać się pod adres URL podany przez organ certyfikacji lub administratora systemu i&nbsp;kliknąć na odnośnik listy CRL.
-    
-    <p>Pojawi się okno dialogowe statusu importu listy CRL.</p>
-  </li>
-  <li>Należy potwierdzić, że lista CRL została zaimportowana pomyślnie i&nbsp;jest tą listą, którą użytkownik chciał zaimportować. W&nbsp;większości przypadków użytkownik powinien odpowiedzieć twierdząco na pytanie o&nbsp;włączenie automatycznej aktualizacji zaimportowanej listy CRL.</li>
-  <li>Następna czynność zależy od wcześniej udzielonej odpowiedzi twierdzącej lub przeczącej w&nbsp;oknie dialogowym statusu importu listy CRL: 
-    <ul>
-      <li><strong>Tak</strong>: Pojawi się okno dialogowe preferencji automatycznej aktualizacji. W&nbsp;tym przypadku należy wykonać czynności opisane w&nbsp;kroku 4.</li>
-      <li><strong>Nie</strong>: Zamyka okno dialogowe statusu importu listy CRL. Istnieje możliwość zmiany decyzji i&nbsp;włączenia automatycznej aktualizacji po pewnym czasie. Więcej informacji w&nbsp;rozdziale	 <a href="#viewing_and_managing_crls">Podgląd i&nbsp;zarządzanie listami CRL</a>.</li>
-    </ul>
-  </li>
-  <li>Zaznaczyć opcję nazwaną <q>Włącz automatyczną aktualizację dla tej listy CRL</q>.</li>
-  <li>Wybrać metodę planowania aktualizacji:
-    <ul>
-      <li><strong>Aktualizuj [__] dni przed następną datą aktualizacji</strong>: Zaznaczenie tej opcji spowoduje automatyczne aktualizowanie listy CRL z&nbsp;częstotliwością, z&nbsp;jaką organ certyfikacji publikuje nowe wersje list CRL.</li>
-      <li><strong>Aktualizuj co [__] dni</strong>: Zaznaczenie tej opcji pozwala na określenie okresu pomiędzy pobieraniem uaktualnień niezależnie od określonej przez organ daty następnej aktualizacji.</li>
-    </ul>
-  </li>
-  <li>Naciśnięcie przycisku OK potwierdza i&nbsp;zapisuje ustawienia.</li>
-</ol>
-
-<h3 id="viewing_and_managing_crls">Podgląd i&nbsp;zarządzanie listami CRL</h3>
-
-<p>Użytkownik ma możliwość podglądu listy CRL dostępnych w&nbsp;przeglądarce i&nbsp;zarządzania nimi poprzez ustawienia preferencji Weryfikacji. Aby otworzyć Menedżera list CRL, należy:</p>
-
-<ol>
-  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
-  <li>Kliknąć na podkategorię Weryfikacja w&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia. (Jeżeli nie są widoczne żadne podkategorie, należy podwójnym kliknięciem rozwinąć listę podkategorii).</li>
-	
-  <li>Nacisnąć przycisk Menedżer CRL i&nbsp;otworzyć w&nbsp;ten sposób okno zawierające spis wszystkich list CRL dostępnych w&nbsp;przeglądarce.</li>
-</ol>
-
-<p>Aby usunąć lub zaktualizować listę CRL, należy ją zaznaczyć, a&nbsp;następnie nacisnąć odpowiedni przycisk.</p>
-
-<p>Aby ustawić automatyczną aktualizację listy, należy ją zaznaczyć i&nbsp;nacisnąć przycisk Ustawienia. Pojawi się wówczas okno dialogowe preferencji automatycznej aktualizacji. W&nbsp;oknie tym należy:</p>
-
-<ol>
-  <li>Zaznaczyć opcję <q>Włącz automatyczną aktualizację dla tej listy CRL</q>.</li>
-  <li>Wybrać metodę planowania aktualizacji:
-    <ul>
-      <li><strong>Aktualizuj [__] dni przed następną datą aktualizacji</strong>:  Zaznaczenie tej opcji spowoduje automatyczne aktualizowanie listy CRL z&nbsp;częstotliwością, z&nbsp;jaką organ certyfikacji publikuje nowe wersje list CRL.</li>
-      <li><strong>Aktualizuj co [__] dni</strong>: Zaznaczenie tej opcji pozwala na określenie okresu pomiędzy pobieraniem uaktualnień niezależnie od określonej przez organ daty następnej aktualizacji.</li>
-    </ul>
-  </li>
-  <li>Nacisnąć przycisk OK, aby potwierdzić i&nbsp;zapisać ustawienia.</li>
-</ol>
-
-<p>[<a href="#controlling_validation">Na początek rozdziału</a>]</p>
-
 <h2 id="configuring_ocsp">Konfigurowanie OCSP</h2>
 
-<p>Ustawienia kontrolujące OCSP stanowią część ustawień dotyczących Weryfikacji certyfikatów. Aby je zobaczyć, należy:</p>
+<p>Ustawienia kontrolujące OCSP stanowią część preferencji dotyczących certyfikatów. Aby je zobaczyć, należy:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
-  <li>Kliknąć na podkategorię Weryfikacja w&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia. (Jeżeli nie są widoczne żadne podkategorie, należy podwójnym kliknięciem rozwinąć listę podkategorii).</li>	
+  <li>Kliknąć na podkategorię Certyfikaty w&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia. (Jeżeli nie są widoczne żadne podkategorie, należy podwójnym kliknięciem rozwinąć listę podkategorii).</li>
 </ol>
 
-<p>Więcej informacji o&nbsp;dostępnych opcjach OCSP można znaleźć w&nbsp;rozdziale <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
+<p>Więcej informacji o&nbsp;dostępnych opcjach OCSP można znaleźć w&nbsp;rozdziale <a href="certs_prefs_help.xhtml#ocsp">Prywatność i&nbsp;zabezpieczenia - Certyfikaty, OCSP</a>.</p>
 
 <p>[<a href="#controlling_validation">Na początek rozdziału</a>]</p>
 
