@@ -33,7 +33,7 @@
 <!ENTITY NormalMode.tooltip "Паказваць межы табліцаў і іменаваныя якары">
 <!ENTITY AllTagsModeTab.label "Меціны HTML">
 <!ENTITY AllTagsMode.label "Меціны HTML">
-<!ENTITY AllTagsMode.accesskey "э">
+<!ENTITY AllTagsMode.accesskey "М">
 <!ENTITY AllTagsMode.tooltip "Паказваць значкі для ўсіх мецінаў HTML">
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Зыходнік">

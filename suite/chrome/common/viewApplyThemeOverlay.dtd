@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label "Ужыць тэму">
 <!ENTITY applyTheme.accesskey "У">
-<!ENTITY getNewThemesCmd.label "Атрымаць новыя тэмы">
-<!ENTITY getNewThemesCmd.accesskey "А">
-<!ENTITY getPersonasCmd.label "Атрымаць персоны">
-<!ENTITY getPersonasCmd.accesskey "п">
+<!ENTITY getMoreThemesCmd.label "Get More Themes">
+<!ENTITY getMoreThemesCmd.accesskey "G">
+<!ENTITY getBackgroundsCmd.label "Get Backgrounds">
+<!ENTITY getBackgroundsCmd.accesskey "B">

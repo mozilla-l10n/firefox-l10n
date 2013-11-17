@@ -9,6 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Наладжванні наладчыка">
 <!ENTITY debuggerUI.pauseExceptions "Прыпыняць падчас выключэнняў">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Ігнараваць злоўленыя выключэнні">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!ENTITY debuggerUI.showPanesOnInit "Паказ шыбаў падчас запуску">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showVarsFilter "Паказаць скрынку сіта зменных">

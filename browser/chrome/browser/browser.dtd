@@ -177,6 +177,8 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыць прыладапаліцу распрацаўніка">
 <!ENTITY devToolbarMenu.label "Прыладапаліца распрацаўніка">
 <!ENTITY devToolbarMenu.accesskey "р">
+<!ENTITY devAppMgrMenu.label "Кіраўнік прыстасаванняў">
+<!ENTITY devAppMgrMenu.accesskey "п">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Паказаць/схаваць прылады">
@@ -461,8 +463,10 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Гаворкі">
 <!ENTITY social.chatBar.accesskey "г">
-<!ENTITY social.markpage.accesskey "с">
-<!ENTITY social.marklink.accesskey "ы">
+<!ENTITY social.markpageMenu.accesskey "с">
+<!ENTITY social.markpageMenu.label "Захаваць старонку як…">
+<!ENTITY social.marklinkMenu.accesskey "л">
+<!ENTITY social.marklinkMenu.label "Захаваць спасылку як…">
 <!ENTITY getUserMedia.selectCamera.label "Здымач для падзелу:">
 <!ENTITY getUserMedia.selectCamera.accesskey "З">
 <!ENTITY getUserMedia.selectMicrophone.label "Мікрафон для падзелу:">
@@ -478,6 +482,10 @@
 <!ENTITY pluginActivateAlways.label "Дазволіць і запомніць">
 <!ENTITY pluginBlockNow.label "Заблакаваць убудову">
 <!ENTITY pluginNotification.width "35em">
+<!ENTITY tabCrashed.header "Крах устаўкі">
+<!ENTITY tabCrashed.message "Нам сорамна. Мы спрабавалі адюлюстраваць старонку Сеціва, але яна не адказвае.">
+<!ENTITY tabCrashed.checkSendReport "Расказаць &vendorShortName; пра гэты крах, каб ён быў выпраўлены.">
+<!ENTITY tabCrashed.tryAgain "Паспрабаваць зноў">
 <!ENTITY navbarCmd.accesskey "Н">
 <!ENTITY addonBarCmd.label "Паліца дадаткаў">
 <!ENTITY addonBarCmd.accesskey "д">
