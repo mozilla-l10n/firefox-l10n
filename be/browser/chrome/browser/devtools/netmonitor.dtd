@@ -42,8 +42,10 @@
 <!ENTITY netmonitorUI.timings.receive "Атрыманне:">
 <!ENTITY netmonitorUI.context.copyUrl "Скапіваць URL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "к">
-<!ENTITY netmonitorUI.summary.resend "Перадаслаць">
-<!ENTITY netmonitorUI.summary.resend.accesskey "П">
+<!ENTITY netmonitorUI.summary.editAndResend "Паправіць і перадаслаць">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "п">
+<!ENTITY netmonitorUI.context.newTab "Адчыніць у новай устаўцы">
+<!ENTITY netmonitorUI.context.newTab.accesskey "А">
 <!ENTITY netmonitorUI.custom.newRequest "Новы запыт">
 <!ENTITY netmonitorUI.custom.query "Радок запыту:">
 <!ENTITY netmonitorUI.custom.headers "Загалоўкі запыту:">

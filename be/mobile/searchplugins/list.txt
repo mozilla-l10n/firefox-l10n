@@ -1,3 +1,5 @@
 google
 twitter
 be.wikipedia.org
+yahoo
+bing

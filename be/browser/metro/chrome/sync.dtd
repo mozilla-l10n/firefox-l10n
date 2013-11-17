@@ -8,12 +8,12 @@
 <!ENTITY sync.flyout.setup.title "Наладжванне &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Калі вы маеце рахунак &syncBrand.shortName.label;, выберыце &quot;Спараваць збудову&quot; на вашай іншай збудове і ўвядзіце код.">
 <!ENTITY sync.flyout.setup.description2 "Калі вы не маеце рахунку &syncBrand.shortName.label;, вы можаце стварыць яго ў вашым &brandShortName; у настольным кампутары.">
-<!ENTITY sync.flyout.setup.manual.label "Не маю кампутара побач з сабой...">
+<!ENTITY sync.flyout.setup.manual.label_2 "Мой кампутар не блізка…">
 <!ENTITY sync.flyout.setup.description3 "Заўвага:">
-<!ENTITY sync.flyout.setup.description4 "Вы можаце выбраць &quot;Спараваць збудову&quot;">
-<!ENTITY sync.flyout.setup.description5 "[Працоўны стол] Перавагі -&gt; Sync">
-<!ENTITY sync.flyout.setup.description6 "[Android] Іншыя &gt; Наладжванні &gt; Sync">
-<!ENTITY sync.flyout.manualsetup.description1 "Увядзіце, калі ласка, звесткі пра ваш рахунак &syncBrand.shortName.label; і адноўны ключ, выраблены вашым кампутарам">
+<!ENTITY sync.flyout.setup.description4_2 "Каб знайсці &quot;Спараваць збудову&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[Настольны] Адкрыць &quot;Наладжванні&quot; або &quot;Перавагі&quot; і вылучыць &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Іншае &gt; Наладжванні &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Увядзіце, калі ласка, звесткі пра ваш рахунак &syncBrand.shortName.label; і адноўны ключ, выраблены на вашым кампутары">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Назва рахунку">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Адноўны ключ">
@@ -33,8 +33,8 @@
 <!ENTITY sync.flyout.pairNewDevice.description "На новай збудове, якую вы хочаце спараваць, выберыце &quot;Наладзіць &syncBrand.shortName.label;&quot; і увядзіце код, выраблены на збудове">
 <!ENTITY sync.flyout.pairNewDevice.pair "Спараваць">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Заўвага:">
-<!ENTITY sync.flyout.pairNewDevice.note2 "Вы можаце знайсці код на &syncBrand.shortName.label; праз">
-<!ENTITY sync.flyout.pairNewDevice.note3 "[Працоўны стол] Прылады -&gt; Наладзіць Sync -&gt; Я маю рахунак">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Каб знайсці код,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Настольны] Адкрыйце &quot;Наладжванні&quot; або &quot;Перавагі&quot; і зрабіце наступнае: &syncBrand.shortName.label; -&gt; Наладзіць &syncBrand.shortName.label; -&gt; Я маю рахунак">
 <!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Іншае &gt; Наладжванні &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure "Паспрабуйце, калі ласка, зноў">
 <!ENTITY sync.flyout.pairSuccess.description1 "Новая збудова паспяхова дададзена.">
