@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Vidarbefordra som infogad text">
 <!ENTITY buttonMenuForwardAsAttachment.label "Vidarbefordra som bilaga">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Visa fjärrinnehåll i meddelandet">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
+<!ENTITY remoteContentOptionAllowForAddress.label "Visa fjärrinnehåll från avsändaren">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "d">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorera varning för meddelandet">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Inaktivera bluffdetektering för alla meddelanden">
+<!ENTITY phishingOptionDisableDetection.accesskey "I">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
 <!ENTITY appmenuNewContactCmd.label "Kontakt adressbok…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "L">
 <!ENTITY contextUnmute.label "Ljud på">
 <!ENTITY contextUnmute.accesskey "L">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; tror att meddelandet är skräppost">
-<!ENTITY junkBarButton1.label "Ej skräp">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "För att skydda din personliga integritet har externt innehåll blockerats.">
-<!ENTITY loadRemoteContentButton3.label "Visa fjärrinnehåll nu">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Det här meddelandet kan vara en bluff.">
-<!ENTITY removePhishingBarButton1.label "Ignorera varningen">
-<!ENTITY disablePhishingWarning1.label "Inaktivera bluffvarning för alla meddelanden">
-<!ENTITY reportPhishingError1.label "Det här meddelandet verkar inte vara en bluff.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorera">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Skicka kvitto">
-<!ENTITY mdnBarSendButton2.accesskey "k">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

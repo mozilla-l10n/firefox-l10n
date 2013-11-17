@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Visitkort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY remindLater.label "Påminn mig senare">
+<!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Stäng">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ä">
