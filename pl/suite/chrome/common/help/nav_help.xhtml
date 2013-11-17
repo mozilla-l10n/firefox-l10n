@@ -44,6 +44,9 @@
     <li><a href="#moving_to_another_page">Przechodzenie do innej strony WWW</a></li>
     <li><a href="#clicking_a_link">Otwieranie odnośników</a></li>
     <li><a href="#retracing_your_steps">Cofanie się do poprzednio odwiedzonych stron</a></li>
+    <!-- TODO: start localizing -->
+    <li><a href="#reopening_closed_tabs_windows">Reopening Closed Tabs or Windows</a></li>
+    <!-- TODO: stop localizing -->
     <li><a href="#stopping_and_reloading">Zatrzymywanie wczytywania i&nbsp;odświeżanie stron</a></li>
     <li><a href="#visiting_bookmarked_pages">Otwieranie stron z&nbsp;Zakładek</a></li>
     <li><a href="#using_tabbed_browsing">Przeglądanie stron w&nbsp;kartach</a></li>
@@ -182,6 +185,31 @@
 <p><strong>Wskazówka</strong>: Aby posortować listę stron w&nbsp;oknie dialogowym Historia, należy kliknąć w&nbsp;tytuł (nagłówek) odpowiedniej kategorii (Tytuł, Adres, Ostatnio odwiedzono, Data pierwszych odwiedzin, Nazwa hosta, Odsyłacz lub Liczba odwiedzin). Powtórne kliknięcie w&nbsp;tytuł kategorii odwraca porządek sortowania.</p>
 
 <p>[<a href="#navigating_web_pages">Na początek rozdziału</a>]</p>
+
+<!-- TODO: start localizing -->
+<h2 id="reopening_closed_tabs_windows">Reopening Closed Tabs or Windows</h2>
+
+<p>&brandShortName; keeps track of your most recently closed tabs and 
+  windows and allows you to get back to them easily.</p>
+
+<p>To reopen closed tabs:</p>
+
+<ul>
+  <li>Open the Go menu and expand the Recently Closed Tabs menu.</li>
+  <li>Select any of the previously closed tabs from the list.
+    Once selected, it will be restored and removed from the list.</li>
+</ul>
+
+<p>Similarly, to reopen closed windows:</p>
+
+<ul>
+   <li>Open the Go Menu and expand the Recently Closed Windows menu.</li>
+   <li>Select any of the previously closed windows. Once selected,
+     it will be restored and removed from the list.</li>
+</ul>
+
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
+<!-- TODO: stop localizing -->
 
 <h2 id="stopping_and_reloading">Zatrzymywanie wczytywania i&nbsp;odświeżanie stron</h2>
 
@@ -402,8 +430,11 @@
 <p>Aby znaleźć fragment tekstu na aktualnie przeglądanej stronie, należy:</p>
 
 <ol>
-  <li>Z&nbsp;menu Edycja wybrać <q>Znajdź na tej stronie</q>. Jeżeli przeglądana strona zawiera ramki, konieczne jest aktywowanie ramki, która ma zostać przeszukana, poprzez kliknięcie w&nbsp;jej obrębie. Zostanie wyświetlone okno dialogowe <q>Znajdź na tej stronie</q>.</li>
+  <li>Z&nbsp;menu Edycja wybrać <q>Znajdź na tej stronie</q>. Jeżeli przeglądana strona zawiera ramki, konieczne jest aktywowanie ramki, która ma zostać przeszukana, poprzez kliknięcie w&nbsp;jej obrębie. Zostanie wyświetlony <q>pasek wyszukiwania</q>.</li>
   <li>Wprowadzić tekst do odszukania.</li>
+
+  <!-- TODO: start localizing -->
+<!-- old localization
   <li>Można wybrać dodatkowo jedną z&nbsp;opcji wyszukiwania: 
     <ul>
       <li><strong>Uwzględniaj wielkość liter</strong>: tekst wyszukiwany będzie z&nbsp;uwzględnieniem dużych i&nbsp;małych liter (dokładnie tak, jak został wpisany).</li>
@@ -415,6 +446,27 @@
 </ol>
 
 <p>Aby poszukać tego samego tekstu ponownie, należy:</p>
+-->
+  <li>Click Next to begin the search from where the cursor is forwards
+    to the bottom of the page.</li>
+  <li>Click Previous to begin the search from the cursor backwards to
+    the top of the page.</li>
+  <li>With <strong>Highlight all</strong>, all words or phrases that
+    matched are highlighted on the page.</li>
+  <li>Use <strong>Match case</strong> to limit the search to words or
+    phrases that exactly match what you typed (taking case into
+    account).</li>
+</ol>
+
+<p>If the search hits the bottom (or top) of the page, it will continue
+  from the other end and indicate on the Find bar that it wrapped.</p>
+
+<p>To find the same word or phrase again, keep pressing Enter while the
+  focus is on the search field, or use the Find Again shortcuts (see
+  the <q>Using Find-as-you-type</q> section below) when the focus
+  is on the page. In both cases, a forward search will be invoked,
+  no matter whether the Previous button was used the last time.</p>
+  <!-- TODO: stop localizing -->
 
 <ul>
   <li>Z&nbsp;menu Edycja wybrać Znajdź następne.</li>
@@ -433,7 +485,14 @@
 
   </li>
   <li>Aby poszukiwać w&nbsp;obrębie całego tekstu umieszczonego na stronie (a więc zarówno zawartości strony, jak i&nbsp;odnośników), należy przed wprowadzeniem szukanego ciągu znaków nacisnąć klawisz <kbd>/</kbd>. Przykładowo, wprowadzenie <q><kbd>/hello</kbd></q> pozwoli na wyszukanie dowolnego tekstu zawierającego słowo <q>hello</q>.</li>
-  <li>Pasek stanu (na dole okna przeglądarki) pokazuje wprowadzony łańcuch znaków i&nbsp;informuje, czy został on odnaleziony, czy też nie.</li>
+  <li>Pasek stanu (na dole okna przeglądarki) pokazuje wprowadzony łańcuch znaków i&nbsp;informuje, czy został on odnaleziony, czy też nie.
+  <!-- TODO: start localizing -->Please note
+    that this happens only if the <q>Show the find toolbar during find as you
+    type</q> checkbox on the <a href="cs_nav_prefs_advanced.xhtml#fayt">Find
+    As You Type preferences panel</a> is not selected. If the checkbox is
+    selected, then the <q>Find bar</q> is used instead of changing the status
+    bar.</li></li>
+  <!-- TODO: stop localizing -->
   <li>Klawisz Backspace pozwala wykasować ostatnio wprowadzone znaki.</li>
   <li>Aby zaniechać szukania, należy: zaznaczyć jakiś tekst, przewinąć zawartość strony, nacisnąć klawisz Esc lub odczekać krótki okres czasu nie wprowadzając w&nbsp;tym czasie żadnych nowych znaków.</li>
   <li>Naciśnięcie klawiszy <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>G</kbd> lub <kbd>F3</kbd> powoduje poszukiwanie następnego wystąpienia tego ciągu znaków. Naciśnięcie klawiszy <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd> lub <kbd>Shift</kbd>+<kbd>F3</kbd> spowoduje odszukanie poprzedniego wystąpienia poszukiwanego ciągu znaków.</li>
@@ -801,7 +860,7 @@
   <li>Z&nbsp;menu Pomoc wybrać O&nbsp;wtyczkach.</li>
   <li>Z&nbsp;menu Narzędzia wybrać Dodatki o następnie sekcję Wtyczki.
     
-    <p><strong>Porada</strong>: Aby dowiedzieć się więcej o menedżerze dodatków i jego funkcjach należy udać się do sekcji <a href="customize_help.xhtml#using_the_add-on_manager">Używanie menedżera dodatków</a>.</p>
+    <p><strong>Porada</strong>: Aby dowiedzieć się więcej o menedżerze dodatków i jego funkcjach należy udać się do sekcji <a href="customize_help.xhtml#using_the_add-ons_manager">Używanie menedżera dodatków</a>.</p>
   </li>
   <li>W&nbsp;pasku adresu wprowadzić <kbd>about:plugins</kbd> i&nbsp;nacisnąć <kbd>Enter</kbd>.</li>
 </ul>
