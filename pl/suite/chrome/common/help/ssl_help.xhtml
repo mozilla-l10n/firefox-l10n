@@ -38,18 +38,45 @@
 
 <h3 id="ssl_protocol_versions">Wersje protokołu SSL</h3>
 
-<p>Protokół SSL (ang. Secure Sockets Layer) definiuje zasady rządzące wzajemną autentykacją (uwierzytelnianiem) w&nbsp;komunikacji pomiędzy witryną WWW&nbsp;a&nbsp;oprogramowaniem służącym do przeglądania zawartości stron WWW. Zapewnia poufność i&nbsp;integralność transmisji danych. Protokół TLS (ang. Transport Layer Security) jest standardem opracowanym przez nieformalną organizację IETF (ang. Internet Engineering Task Force), zajmującą się opracowywaniem standardów technicznych i&nbsp;organizacyjnych w&nbsp;Internecie i&nbsp;bazuje na SSL. Można w&nbsp;uproszczeniu założyć, że TLS w&nbsp;wersji 1.0 jest tożsame SSL w&nbsp;wersji 3.1.</p>
+<p><a href="glossary.xhtml#ssl">Protokół SSL</a> (ang. Secure Sockets Layer) definiuje zasady rządzące wzajemną autentykacją (uwierzytelnianiem) w&nbsp;komunikacji pomiędzy witryną WWW&nbsp;a&nbsp;oprogramowaniem służącym do przeglądania zawartości stron WWW. Zapewnia poufność i&nbsp;integralność transmisji danych. <!-- TODO: start localizing -->It is
+  also used for secure communication in various other protocols, e.g., for
+  protection of sensitive information exchanged with email, calendar, or
+  directory servers. The newer Transport Layer Security (TLS) protocol is an
+  IETF standard based on SSL but with its own version numbering. TLS 1.0 can
+  be thought of as SSL 3.1, TLS 1.1 is in turn an update to TLS 1.0, etc. Newer
+  protocols are preferred over older ones as they provide better security and
+  more features. Older protocols are supported to ensure compatibility.</p>
 
-<p>Przy normalnej pracy przeglądarki wszystkie trzy pola wyboru wersji SSL powinny być zaznaczone (włączone). Zapewni to poprawną współpracę przeglądarki z&nbsp;nowszymi i&nbsp;starszymi serwerami WWW:</p>
+<p>By default, &brandShortName; will select the most secure version which is
+  widely supported to connect to the server. If that attempt doesn&apos;t
+  succeed, it will try to connect with the next older version, etc., to the
+  extent allowed by the settings in this panel. The connection will fail if no
+  protocol supported by both sides is found. You can exclude older versions
+  explicitly or allow newer versions which may not be widely supported yet
+  with the following options:</p>
 
 <ul>
-  <li><strong>Włącz SSL wersję 3</strong>: Umożliwia poprawną współpracę przeglądarki z&nbsp;nowszymi serwerami WWW.</li>
-  <li><strong>Włącz TLS</strong>: Umożliwia poprawną współpracę przeglądarki z&nbsp;serwerami WWW, które obsługują standard TLS.</li>
+  <li><strong>Enable</strong>: Check the <strong>SSL 3.0</strong>, <strong>TLS
+    1.0</strong>, <strong>TLS 1.1</strong>, and/or <strong>TLS 1.2</strong>
+    boxes to indicate which protocol versions can be used for a secure
+    connection to a server.</li>
 </ul>
 
-<p><strong>Ważna uwaga dotycząca TLS</strong>: Niektóre serwery, nieposiadające poprawnej implementacji protokołu SSL, nie potrafią negocjować parametrów kryptograficznych z&nbsp;oprogramowaniem (np. przeglądarkami), które obsługuje standard TLS. Takie serwery są nazywane <q>serwerami nietolerancyjnymi w&nbsp;stosunku do TLS</q>.</p>
+<p><strong>Notes</strong>:</p>
 
-<p>Jeśli opcja obsługi TLS jest włączona, przeglądarka przy ustanawianiu połączenia szyfrowanego z&nbsp;serwerem będzie najpierw próbować użyć protokołu TLS. Jeżeli połączenie nie zostanie ustanowione z&nbsp;powodu "nietolerancyjności" serwera, przeglądarka będzie próbować je ustanowić przy pomocy protokołów starszych (SSL 3.0 lub SSL 2.0).</p>
+<ul>
+  <li>At least one protocol version must be selected, thus it is not possible
+    to uncheck the last remaining box.</li>
+  <li>Also, the selection must be contiguous. It is not possible to select both
+    SSL 3.0 and TLS 1.1 but to exclude the intermediate TLS 1.0 version.</li>
+  <li>You can extend the range by multiple versions. For example, if only SSL
+    3.0 is currently checked and you select TLS 1.2, the TLS 1.0 and TLS 1.1
+    versions are automatically selected as well.</li>
+  <li>Checkboxes may appear checked but grayed out if you cannot uncheck them
+    without violating these rules. Uncheck the outermost boxes to regain
+    access to an enclosed intermediate version.</li>
+</ul>
+<!-- TODO: stop localizing -->
 
 <h3 id="ssl_warnings">Ostrzeżenia SSL</h3>
 
@@ -61,7 +88,6 @@
 
 <ul>
   <li><strong>Wczytanie strony, która używa szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie wczytania przez przeglądarkę strony używającej szyfrowania danych podczas transmisji.</li>
-  <li><strong>Wczytanie strony, która używa niskiego poziomu szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie wczytania przez przeglądarkę strony używającej szyfrowania o&nbsp;niskim poziomie. (Szyfrowanie o&nbsp;niskim poziomie jest najsłabszym dostępnym szyfrowaniem, używa kluczy o&nbsp;długości 40 bitów).</li>
   <li><strong>Opuszczenie strony, która używa szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie przejścia ze strony używającej szyfrowania danych na stronę, która takiego szyfrowania nie używa.</li>
   <li><strong>Przesyłanie danych pomiędzy stronami, które nie używają szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie przesyłania danych (np. przy użyciu formularza) przy użyciu nieszyfrowanego połączenia. Przy przesyłaniu niezaszyfrowanych danych poprzez Internet istnieje ryzyko przechwycenia tych danych przez osoby trzecie.</li>
   <li><strong>Przeglądanie strony tylko częściowo zaszyfrowanej</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy przeglądaniu strony, której nie wszystkie elementy zostały przesłane przy wykorzystaniu szyfrowanego połączenia.</li>
