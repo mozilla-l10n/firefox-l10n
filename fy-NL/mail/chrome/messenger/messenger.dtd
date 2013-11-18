@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nij berjocht">
 <!ENTITY appmenuNewContactCmd.label "Adresboekkontakt…">
 <!ENTITY appmenuEditMenu.label "Bewurkje">
-<!ENTITY appmenuQFBMenu.label "Fluchfilterbalke">
 <!ENTITY appmenuToolbarLayout.label "Arkbalke-yndieling…">
 <!ENTITY appmenuSelectThread.label "Konversaasje selektearje">
 <!ENTITY appmenuSelectFlagged.label "Berjochten mei stjer selektearje">
