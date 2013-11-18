@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opsjes">
-<!ENTITY optionsHeader.startup.title                             "Opstarte">
-<!ENTITY optionsHeader.homepage.title                            "Wannear &brandShortName; start, toan">
-<!ENTITY optionsHeader.homepage.startPage.button                 "startside">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "ljepblêden fan de foarige kear">
 <!ENTITY optionsHeader.char.title                                "Tekenset">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatysk werkenne">
 <!ENTITY optionsHeader.char.options.label                        "Tekensetopsjes op de Appbalke toane">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Wachtwurden ûnthâlde">
 <!ENTITY doNotTrack.title                                        "Net folgje">
-<!ENTITY doNotTrack.desc                                         "Websites litte witte:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Dat ik net folge wurde wol">
-<!ENTITY doNotTrack.options.noPreference                         "Neat oer myn folchfoarkar">
-<!ENTITY doNotTrack.options.trackingOkay                         "Dat ik folge wurde wol">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fertel websites dat ik net folge wurde wol">
+<!ENTITY doNotTrack.options.doTrack                              "Fertel websites dat ik folge wurde wol">
+<!ENTITY doNotTrack.options.default                              "Fertel websites neat oer myn fochfoarkarren">
+<!ENTITY doNotTrack.learnMoreLink                                "Lês mear&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Ungelokrapportearder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ferstjoert ûngelokrapporten om Mozilla te helpen jo browser stabiler en feiliger te meitsjen">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">

@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript-shell iepenje">
 <!ENTITY appbarFindInPage2.label    "Sykje op side">
 <!ENTITY appbarViewOnDesktop2.label "Op dektop besjen">
+<!ENTITY appbarMSMetaData2.label    "App krije foar dizze website">
 
 <!ENTITY topSitesHeader.label        "Topwebsites">
 <!ENTITY bookmarksHeader.label       "Blêdwizers">
