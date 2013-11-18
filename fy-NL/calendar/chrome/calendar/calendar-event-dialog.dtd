@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Bewarje en slute">
+<!ENTITY  event.toolbar.delete.tooltip                    "Fuortsmite">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Dielnimmer útnoegje">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Staveringshifker">
+<!ENTITY  event.toolbar.attachments.tooltip               "Bylagen tafheakje">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Privacy wizigje">
+<!ENTITY  event.toolbar.priority.tooltip                  "Prioriteit wizigje">
+<!ENTITY  event.toolbar.status.tooltip                    "Steat wizigje">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Frij/Dwaande tiid wizigje">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
@@ -216,6 +226,9 @@
 <!ENTITY event.reminder.custom.label                      "Oanpast…" >
 
 <!ENTITY event.reminder.multiple.label                    "Mear warskôgingen…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Tiid as:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacy:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Werhelling bewurkje">
