@@ -16,8 +16,6 @@
 <!ENTITY device.stopAppTooltip "Blocca questa app sul dispositivo.">
 <!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a questa app sul dispositivo.">
-<!ENTITY projects.saveManifest "Salva">
-<!ENTITY projects.saveManifestTooltip "Salva il contenuto dell'editor manifesti.">
 <!ENTITY device.name "Nome">
 <!ENTITY device.plain "Normale (predefinito)">
 <!ENTITY device.privileged "Privilegiata">
@@ -71,6 +69,8 @@
 <!ENTITY projects.updateAppTooltip "Esegui controlli di validità e aggiorna l'app nel dispositivo connesso">
 <!ENTITY projects.debugApp "Debug">
 <!ENTITY projects.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a questa app.">
+<!ENTITY projects.saveManifest "Salva">
+<!ENTITY projects.saveManifestTooltip "Salva il contenuto dell'editor manifesti.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nessun progetto presente. Aggiungere un'app packaged (una cartella) o un'app hosted (link al file manifesto).">
 <!ENTITY projects.manifestEditor "Editor manifesti">
