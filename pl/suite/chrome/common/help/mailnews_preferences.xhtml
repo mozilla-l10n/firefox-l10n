@@ -439,10 +439,35 @@ Te powiadomienie wyświetlają się zazwyczaj w prawym dolnym rogu ekranu. Powia
 </ol>
 
 <ul>
-  <li><strong>Domyślne kodowanie znaków</strong>: należy wybrać domyślne kodowanie znaków dla wszystkich odbieranych wiadomości wyświetlanych w Kurierze Poczty. To ustawienie jest pomocne, jeżeli odbierane są wiadomości bez ustawionego sposobu kodowania znaków (zestaw znaków MIME), np. dla wiadomości z międzynarodowych grup dyskusyjnych.</li>
-  <li><strong>Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME <q>quoted printable</q></strong>. Pozostaw bez zaznaczenia, aby wysłać wiadomość taką jaka jest.</li>
-  <li><strong>Domyślne kodowanie znaków</strong>: należy wybrać domyślne kodowanie znaków dla wszystkich wysyłanych wiadomości. To kodowanie <strong>nie</strong> jest używane w czasie odpowiadania na wiadomości.</li>
-  <li><strong>Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to jest możliwe. (Gdy odznaczone, tylko nowe wiadomości będą używać ten zestaw znaków.)</strong>: jeżeli ta opcja nie jest wybrana, to w czasie odpowiadania na wiadomość będzie używane kodowanie znaków użyte w wiadomości, na którą się odpowiada. Jeżeli ta opcja zostanie wybrana, to każda komponowana wiadomość będzie z użyciem domyślnego kodowania znaków.</li>
+  <!-- TODO: start localizing -->
+  <li><strong>Fallback Character Encoding</strong>: Click this drop-down list
+    to select the character encoding you want Mail &amp; Newsgroups to use as
+    the fallback for incoming mail and newsgroup messages. Senders are supposed
+    to declare the character encoding in which they are to be displayed, but
+    legacy content (e.g., from mailing lists or in international newsgroups)
+    may not do so. This encoding is used for such messages you&apos;ve received
+    in which the character encoding (MIME charset) is not specified.
+
+    <p><strong>Note</strong>: Individual folders may override this setting in
+      the General Information tab of the Folder Properties. This dialog can be
+      accessed from the Edit menu of a Mail &amp; Newsgroup window when a
+      folder is selected.</p>
+
+    <p><strong>Tip</strong>: You can later view or change the character
+      encoding for a specific message. Select a folder, then the message to
+      display. Open the View menu, and choose Character Encoding.</p>
+  </li>
+  <!-- TODO: stop localizing -->
+  <li><strong>Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME <q>quoted printable</q></strong>. <!-- TODO: start localizing -->Choose to have Mail &amp;
+    Newsgroups use <q>quoted printable</q> MIME encoding when sending regular
+    messages that use an 8-bit character encoding (for example, Latin
+    ISO-8859-3). This is usually only necessary when communicating via a legacy
+    server that doesn&apos;t process 8-bit encoding correctly.</li>
+  <!-- TODO: stop localizing -->
+
+  <li><strong>Domyślne kodowanie znaków</strong>: należy wybrać domyślne kodowanie znaków dla wszystkich wysyłanych wiadomości.</li>
+
+  <li><strong>Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to jest możliwe. (Gdy odznaczone, tylko nowe wiadomości będą używać ten zestaw znaków.)</strong>: jeżeli ta opcja nie jest wybrana, to w czasie odpowiadania na wiadomość będzie używane kodowanie znaków użyte w wiadomości, na którą się odpowiada. Jeżeli ta opcja zostanie wybrana, to każda komponowana wiadomość będzie z użyciem domyślnego kodowania znaków, <!-- TODO: start localizing -->as long as the quoted characters can be represented in the selected encoding<!-- TODO: stop localizing -->.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
