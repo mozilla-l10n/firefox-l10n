@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AplMenua">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Bistaratu &brandShortName; menua">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Bistaratu &brandShortName; menua">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Egutegiaren panela">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "p">
+<!ENTITY lightning.toolbar.calendarpane.label        "Erakutsi egutegiaren panela">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "p">
