@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Prestatu orria…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
+<!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">

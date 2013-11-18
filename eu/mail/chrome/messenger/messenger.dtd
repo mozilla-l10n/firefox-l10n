@@ -13,7 +13,7 @@
 <!ENTITY closeOtherTabsCmd2.label "Itxi beste fitxak">
 <!ENTITY closeOtherTabsCmd2.accesskey "t">
 <!ENTITY recentlyClosedTabsCmd.label "Itxitako azken fitxak">
-<!ENTITY recentlyClosedTabsCmd.accesskey "A">
+<!ENTITY recentlyClosedTabsCmd.accesskey "a">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
 <!ENTITY appmenuNewContactCmd.label "Helbide-liburuko kontaktua…">
 <!ENTITY appmenuEditMenu.label "Editatu">
-<!ENTITY appmenuQFBMenu.label "Iragazki bizkorren barra">
 <!ENTITY appmenuToolbarLayout.label "Tresna-barraren diseinua…">
 <!ENTITY appmenuSelectThread.label "Hautatu haria">
 <!ENTITY appmenuSelectFlagged.label "Hautatu mezu izardunak">

@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propietateak">
 
 <!ENTITY generalInfo.label                       "Argibide orokorrak">
-<!ENTITY folderCharsetTab.label                  "Karaktere-kodeketa lehenetsia:">
-<!ENTITY folderCharsetTab.accesskey              "K">
-<!ENTITY folderCharsetOverride.label             "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetFallback.label             "Karaktere-kodeketa alternatiboa:">
+<!ENTITY folderCharsetFallback.accesskey         "K">
+<!ENTITY folderCharsetEnforce.label              "Aplikatu kodeketa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Berreraiki laburpen-fitxategiaren indizea">
 <!ENTITY folderRebuildSummaryFile2.label         "Konpondu karpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "K">
