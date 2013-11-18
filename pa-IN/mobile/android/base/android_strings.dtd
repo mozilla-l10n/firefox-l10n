@@ -35,6 +35,7 @@
 <!ENTITY url_bar_default_text "ਲੱਭੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
 <!ENTITY bookmark_options "ਚੋਣਾਂ">
