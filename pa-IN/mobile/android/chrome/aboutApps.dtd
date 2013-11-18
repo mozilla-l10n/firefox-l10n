@@ -4,12 +4,6 @@
 
 <!ENTITY aboutApps.title2                          "ਐਪਸ">
 <!ENTITY aboutApps.header                          "ਤੁਹਾਡੇ ਐਪਸ">
-
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "ਕੋਈ ਵੈੱਬ ਐਪਸ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ। ਕੁਝ ">
-<!ENTITY aboutApps.noApps.middle3 "ਫਾਇਰਫਾਕਸ ਮੰਡੀ">
-<!ENTITY aboutApps.noApps.post " ਵਿੱਚੋਂ ਲਵੋ।">
+<!ENTITY aboutApps.browseMarketplace "ਫਾਇਰਫਾਕਸ ਮੰਡੀ ਵਿੱਚੋਂ ਵੇਖੋ">
 <!ENTITY aboutApps.uninstall "ਅਣ-ਇੰਸਟਾਲ">
 <!ENTITY aboutApps.addToHomescreen "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
