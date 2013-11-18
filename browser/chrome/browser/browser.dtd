@@ -6,6 +6,8 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Приватный просмотр)">
+<!ENTITY appmenu.title "Настройка и управление &brandFullName;">
+<!ENTITY navbarOverflow.label "Другие инструменты…">
 <!ENTITY reloadTab.label "Обновить вкладку">
 <!ENTITY reloadTab.accesskey "и">
 <!ENTITY reloadAllTabs.label "Обновить все вкладки">
@@ -123,10 +125,8 @@
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
-<!ENTITY backForwardItem.title "Назад/Вперёд">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
-<!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
 <!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
@@ -135,7 +135,7 @@
 <!ENTITY bookmarksMenuButton.label "Закладки">
 <!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksMenuButton.unsorted.label "Неподшитые закладки">
-<!ENTITY viewBookmarksSidebar.label "Показать в боковой панели">
+<!ENTITY viewBookmarksSidebar2.label "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -245,10 +245,22 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Изменить">
+<!ENTITY appMenuHistory.label "Журнал">
+<!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
+<!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
+<!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
+<!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
+<!ENTITY customizeMenu.addToToolbar.accesskey "о">
+<!ENTITY customizeMenu.removeFromMenu.label "Удалить из меню">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "и">
+<!ENTITY customizeMenu.addMoreItems.label "Добавить элементы…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "о">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Введите поисковый запрос или адрес">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
+<!ENTITY toggleMenuPanel.key "m">
+<!ENTITY toggleMenuPanelMac.key "m">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -463,6 +475,10 @@
 <!ENTITY social.learnMore.label "Подробнее…">
 <!ENTITY social.learnMore.accesskey "о">
 <!ENTITY social.closeNotificationItem.label "Не сейчас">
+<!ENTITY customizeMode.tabTitle "Настроить &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Меню и панели инструментов">
+<!ENTITY customizeMode.menuAndToolbars.header "Другие инструменты для добавления в меню и на панель инструментов">
+<!ENTITY customizeMode.restoreDefaults "Восстановить значения по умолчанию">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Переключаться на чаты">
 <!ENTITY social.chatBar.accesskey "ч">
@@ -518,3 +534,6 @@
 <!ENTITY zoomControls.label "Управление масштабом">
 <!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
 <!ENTITY toggleAddonBarCmd.key "\">
+<!ENTITY backForwardItem.title "Назад/Вперёд">
+<!ENTITY viewBookmarksSidebar.label "Показать в боковой панели">
+<!ENTITY bookmarksItem.title "Закладки">
