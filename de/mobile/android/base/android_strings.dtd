@@ -14,7 +14,7 @@
 
 <!ENTITY  switch_to_tab "Zu Tab wechseln">
 
-<!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
+<!ENTITY  crash_reporter_title "&brandShortName;-Absturzmelder">
 <!ENTITY  crash_message2 "&brandShortName; hatte ein Problem und ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
 <!ENTITY  crash_send_report_message3 "Absturzbericht an &vendorShortName; senden, sodass das Problem behoben werden kann">
 <!ENTITY  crash_include_url2 "Adresse der Seite hinzufügen, die geöffnet war">
@@ -95,7 +95,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Erlauben, aber nicht Drittanbietern">
 <!ENTITY pref_cookies_disabled "Nicht erlauben">
 
-<!ENTITY pref_donottrack_menu "Verfolgung">
+<!ENTITY pref_donottrack_menu "Aktivitätenverfolgung">
 <!ENTITY pref_donottrack_disallow_tracking "Websites mitteilen, dass mein Surfverhalten nicht verfolgt werden soll.">
 <!ENTITY pref_donottrack_allow_tracking "Websites mitteilen, dass mein Surfverhalten verfolgt werden soll.">
 <!ENTITY pref_donottrack_no_pref "Websites nicht mitteilen, ob mein Surfverhalten verfolgt werden soll.">
