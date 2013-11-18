@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Avaa JavaScript-komentotulkki">
 <!ENTITY appbarFindInPage2.label    "Etsi sivulta">
 <!ENTITY appbarViewOnDesktop2.label "Näytä työpöydällä">
+<!ENTITY appbarMSMetaData2.label    "Lataa sovelma sivustolle">
 
 <!ENTITY topSitesHeader.label        "Ykkössivustot">
 <!ENTITY bookmarksHeader.label       "Kirjanmerkit">

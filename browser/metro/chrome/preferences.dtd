@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Asetukset">
-<!ENTITY optionsHeader.startup.title                             "Käynnistäminen">
-<!ENTITY optionsHeader.homepage.title                            "Kun &brandShortName; käynnistetään, avaa">
-<!ENTITY optionsHeader.homepage.startPage.button                 "aloitussivu">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "välilehdet viime kerralta">
 <!ENTITY optionsHeader.char.title                                "Merkistökoodaus">
 <!ENTITY optionsHeader.char.autodetect.label                     "Tunnista automaattisesti">
 <!ENTITY optionsHeader.char.options.label                        "Näytä koodausvaihtoehdot ohjelmapalkissa">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Tallenna salasanat">
 <!ENTITY doNotTrack.title                                        "Älä seuraa -asetukset">
-<!ENTITY doNotTrack.desc                                         "Ilmoita sivustoille:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Etten halua niiden seuraavan minua">
-<!ENTITY doNotTrack.options.noPreference                         "Älä kerro mitään seuranta-asetuksistani">
-<!ENTITY doNotTrack.options.trackingOkay                         "Haluan niiden seuraavan minua">
+<!ENTITY doNotTrack.options.doNotTrack                           "Ilmoita sivustoille etten halua niiden seuraavan minua">
+<!ENTITY doNotTrack.options.doTrack                              "Ilmoita sivustoille että haluan niiden seuraavan minua">
+<!ENTITY doNotTrack.options.default                              "Älä ilmoita sivustoille mitään seuranta-asetuksistani">
+<!ENTITY doNotTrack.learnMoreLink                                "Lue lisää&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Kaatumisilmoitukset">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; lähettää tiedot kaatumisista Mozillalle, jotta voimme tehdä selaimestasi vakaamman ja turvallisemman">
 <!ENTITY optionsHeader.telemetry.title                            "Kaukomittaustiedot">
