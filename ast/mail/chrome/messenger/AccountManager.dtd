@@ -17,3 +17,5 @@
 <!ENTITY accountTree.width "width: 31ch;">
 <!ENTITY addIMAccountButton.label "Amestar cuenta de chat…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Amestar cuenta de canales web…">
+<!ENTITY addFeedAccountButton.accesskey "w">

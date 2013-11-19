@@ -47,8 +47,6 @@
 <!ENTITY downloadCert.viewPolicy.text "Desaminar polítiques y procedimientos de la CA">
 
 <!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "El certificáu esiste">
-<!ENTITY caCertExists.message "El certificáu yá esiste.">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Petición d'identificación d'usuariu">
@@ -80,7 +78,6 @@
 <!ENTITY examineCert.label "Ver certificáu">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Por favor, pidi ayuda al alministrador del sistema">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Xenerando una clave privada">

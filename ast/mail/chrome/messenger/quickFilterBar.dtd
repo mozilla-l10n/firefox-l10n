@@ -34,3 +34,8 @@
 <!ENTITY quickFilterBar.textFilter.body.label "Cuerpu">
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continuar esta gueta per toles carpetes">
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Calca 'Enter' de nueves pa siguir cola gueta de: #1">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Al menos tien de concasar una de les etiquetes esbillaes">
+<!ENTITY quickFilterBar.booleanModeAny.label "Cualquiera d'elles">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Toles etiquetes esbillaes tienen de concasar">
+<!ENTITY quickFilterBar.booleanModeAll.label "Toes elles">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Mou de filtráu d'etiquetes">
