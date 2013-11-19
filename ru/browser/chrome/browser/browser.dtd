@@ -405,7 +405,7 @@
 <!ENTITY newTabButton.tooltip "Открыть новую вкладку">
 <!ENTITY newWindowButton.tooltip "Открыть новое окно">
 <!ENTITY sidebarCloseButton.tooltip "Закрыть боковую панель">
-<!ENTITY fullScreenButton.tooltip "Раскрывает окно на полный экран">
+<!ENTITY fullScreenButton.tooltip "Раскрыть окно на полный экран">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
 <!ENTITY goBackCmd.commandKey "[">
@@ -475,7 +475,7 @@
 <!ENTITY social.learnMore.label "Подробнее…">
 <!ENTITY social.learnMore.accesskey "о">
 <!ENTITY social.closeNotificationItem.label "Не сейчас">
-<!ENTITY customizeMode.tabTitle "Настроить &brandShortName;">
+<!ENTITY customizeMode.tabTitle "Настройка &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Меню и панели инструментов">
 <!ENTITY customizeMode.menuAndToolbars.header "Другие инструменты для добавления в меню и на панель инструментов">
 <!ENTITY customizeMode.restoreDefaults "Восстановить значения по умолчанию">
@@ -524,7 +524,7 @@
 <!ENTITY appMenuUnsorted.label "Неподшитые закладки">
 <!ENTITY appMenuWebDeveloper.label "Веб-разработка">
 <!ENTITY appMenuGettingStarted.label "Начало работы">
-<!ENTITY appMenuSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY appMenuSafeMode.label "Перезапустить без дополнений…">
 <!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY cutButton.tooltip "Вырезать">
 <!ENTITY copyButton.tooltip "Копировать">
