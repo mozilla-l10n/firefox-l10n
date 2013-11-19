@@ -172,7 +172,7 @@
 
 <!ENTITY tasksMenu.label "Innealan">
 <!ENTITY tasksMenu.accesskey "I">
-<!ENTITY messengerCmd.label "Post ┐ buidhnean-naidheachd">
+<!ENTITY messengerCmd.label "Post ⁊ buidhnean-naidheachd">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Leabhar nan seòladh">

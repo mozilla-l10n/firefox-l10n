@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "Draoidh cunntasan inbhirean">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogaichean ┐ inbhirean naidheachdan">
+<!ENTITY feeds.accountName "Blogaichean ⁊ inbhirean naidheachdan">
 <!ENTITY feeds.wizardShortName "Inbhirean">
-<!ENTITY feeds.wizardLongName "Blogaichean ┐ inbhirean naidheachdan">
+<!ENTITY feeds.wizardLongName "Blogaichean ⁊ inbhirean naidheachdan">
 <!ENTITY feeds.wizardLongName.accesskey "B">
