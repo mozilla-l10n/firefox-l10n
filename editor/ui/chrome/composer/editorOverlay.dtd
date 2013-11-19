@@ -29,7 +29,7 @@
 <!ENTITY insertLinkCmd.label "Enllaç…">
 <!ENTITY insertLinkCmd.accesskey "l">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Àncora anomenada…">
+<!ENTITY insertAnchorCmd.label "Àncora amb nom…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imatge…">
 <!ENTITY insertImageCmd.accesskey "I">
@@ -140,7 +140,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Suprimeix les àncores anomenades">
+<!ENTITY formatRemoveNamedAnchors.label "Suprimeix les àncores amb nom">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -296,18 +296,18 @@
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Revisa l'ortografia de la selecció o de tota la pàgina">
 <!ENTITY imageToolbarCmd.label "Imatge">
-<!ENTITY imageToolbarCmd.tooltip "Insereix una nova imatge o edita les propietats de la imatge seleccionada">
+<!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">
 <!ENTITY hruleToolbarCmd.tooltip "Insereix una línia horitzontal o edita les propietats de la línia seleccionada">
 <!ENTITY tableToolbarCmd.label "Taula">
-<!ENTITY tableToolbarCmd.tooltip "Insereix una nova taula o edita les propietats de la taula seleccionada">
+<!ENTITY tableToolbarCmd.tooltip "Insereix una taula nova o edita les propietats de la taula seleccionada">
 <!ENTITY linkToolbarCmd.label "Enllaç">
-<!ENTITY linkToolbarCmd.tooltip "Insereix un nou enllaç o edita les propietats de l'enllaç seleccionat">
+<!ENTITY linkToolbarCmd.tooltip "Insereix un enllaç nou o edita les propietats de l'enllaç seleccionat">
 <!ENTITY anchorToolbarCmd.label "Àncora">
-<!ENTITY anchorToolbarCmd.tooltip "Insereix un nou objectiu anomenat o edita les propietats de l'objectiu seleccionat">
+<!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
-<!ENTITY throbber.tooltip "Vés a la pàgina del &vendorShortName;">
+<!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
 <!-- Editor toolbar -->
 
@@ -321,7 +321,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Treu el sagnat del text (mou a l'esquerra)">
 <!ENTITY indentToolbarCmd.tooltip "Sagna el text (mou a la dreta)">
 <!ENTITY AlignPopupButton.tooltip "Trieu l'alineació del text">
-<!ENTITY InsertPopupButton.tooltip "Insereix un enllaç, objectiu, imatge, línia horitzontal o taula">
+<!ENTITY InsertPopupButton.tooltip "Insereix un enllaç, àncora, imatge, línia horitzontal o taula">
 <!ENTITY alignLeftButton.tooltip "Alinea el text al marge esquerra">
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">

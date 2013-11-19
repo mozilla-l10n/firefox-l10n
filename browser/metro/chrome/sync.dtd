@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Accediu a les adreces d'interès, contrasenyes i pestanyes obertes de tots els vostres dispositius">
+<!ENTITY sync.flyout.presetup.setup.label      "Configura el &syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "Configura el &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Si teniu un compte del &syncBrand.shortName.label;, seleccioneu «Vincula un dispositiu» a l'altre dispositiu i introduïu aquest codi:">
+<!ENTITY sync.flyout.setup.description2        "Si no teniu cap compte del &syncBrand.shortName.label;, podeu crear-ne un al navegador &brandShortName; d'escriptori.">
+<!ENTITY sync.flyout.setup.manual.label_2      "No estic prop del meu ordinador…">
+<!ENTITY sync.flyout.setup.description3        "Nota:">
+<!ENTITY sync.flyout.setup.description4_2      "Per trobar «Vincula un dispositiu»,">
+<!ENTITY sync.flyout.setup.description5_2      "[Escriptori] Obriu «Opcions» o «Preferències» i seleccioneu «&syncBrand.shortName.label;»">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Més &gt; Paràmetres &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Escriviu la informació del vostre compte del &syncBrand.shortName.label; i la clau de recuperació generada per l'ordinador">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nom del compte">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Contrasenya">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clau de recuperació">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Connecta">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Heu connectat el &brandShortName; al compte del &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Les vostres dades del &syncBrand.shortName.label; s'estan baixant en segon pla. Les pestanyes sincronitzades es troben a la pàgina d'inici del &brandShortName;.">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "El &brandShortName; no s'ha pogut connectar al vostre compte del &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Cancel·la">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Torna-ho a provar">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Compte:">
+<!ENTITY sync.flyout.connected.device                     "Dispositiu:">
+<!ENTITY sync.flyout.connected.disconnect                 "Desconnecta">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Voleu desconnectar el dispositiu del &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Totes les vostres dades personals, tant al dispositiu com al vostre compte del &syncBrand.shortName.label;, romandran intactes.">
+<!ENTITY sync.flyout.connected.cancel                     "Cancel·la">
+<!ENTITY sync.flyout.connected.pair                       "Vincula un dispositiu">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Al dispositiu nou que voleu vincular, seleccioneu «Configura el &syncBrand.shortName.label;» i introduïu el codi que genera el dispositiu">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Vincula">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Nota:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Per trobar el codi,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Escritori] Obriu «Opcions» o «Preferències» i seguiu aquests passos: &syncBrand.shortName.label; -&gt; Configura el &syncBrand.shortName.label; -&gt; Tinc un compte">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Més &gt; Paràmetres &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Torneu-ho a provar">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "El dispositiu nou s'ha afegit correctament.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Les vostres dades del &syncBrand.shortName.label; s'estan baixant en segon pla. Les pestanyes remotes es troben a la pàgina d'inici del &brandShortName;.">

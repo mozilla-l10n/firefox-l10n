@@ -62,11 +62,11 @@
 <!ENTITY cookies.blockOnRemove.accesskey "w">
 <!-- permissions -->
 
-<!ENTITY perm.UseDefault "Utilitza els predeterminats">
+<!ENTITY perm.UseDefault "Utilitza el valor per defecte">
 <!ENTITY perm.AskAlways "Demana-m'ho sempre">
 <!ENTITY perm.NeverSave "Mai ho desis">
 <!ENTITY perm.Allow "Permet">
-<!ENTITY perm.AllowSameDomain "Permetre pel mateix domini">
+<!ENTITY perm.AllowSameDomain "Permet per al mateix domini">
 <!ENTITY perm.AllowSession "Permet durant la sessió">
 <!ENTITY perm.Block "Bloca">
 
@@ -75,7 +75,7 @@
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
 
-<!ENTITY prefs.description "Les preferències de contingut són un mecanisme del &brandShortName; per desar les preferències de l'aplicació, com ara els nivells de zoom, de forma específica per a un lloc web.">
+<!ENTITY prefs.description "Les preferències de contingut són un mecanisme del &brandShortName; per desar paràmetres específics per a un lloc web, com ara els nivells de zoom.">
 
 <!ENTITY prefs.tree.host.label "Lloc web">
 <!ENTITY prefs.tree.name.label "Nom de la preferència">

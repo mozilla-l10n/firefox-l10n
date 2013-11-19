@@ -26,7 +26,7 @@
 <!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
 <!ENTITY checkSpelling.accesskey         "o">
 
-<!ENTITY systemDefaults.label            "Paràmetres predeterminats del sistema">
+<!ENTITY systemDefaults.label            "Paràmetres per defecte del sistema">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "A l'inici, comprova sempre si el &brandShortName; és el navegador per defecte">
 <!ENTITY alwaysCheckDefault.accesskey    "n">
@@ -36,10 +36,10 @@
 
 <!ENTITY dataChoicesTab.label            "Elecció de dades">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Ens ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
-<!ENTITY enableHealthReport.label        "Habilita &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportSection.label       "Informe de salut del &brandShortName;">
+<!ENTITY healthReportDesc.label          "Us ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
+<!ENTITY enableHealthReport.label        "Activa l'informe de salut del &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Més informació">
 
 <!ENTITY telemetrySection.label          "Telemesura">
@@ -49,7 +49,7 @@
 <!ENTITY telemetryLearnMore.label        "Més informació">
 
 <!ENTITY crashReporterSection.label      "Informe de fallada">
-<!ENTITY crashReporterDesc.label         "El &brandShortName; tramet informes de fallades per ajudar a &vendorShortName; a fer el navegador més estable i segur">
+<!ENTITY crashReporterDesc.label         "El &brandShortName; tramet informes de fallada per ajudar a &vendorShortName; a fer el navegador més estable i segur">
 <!ENTITY enableCrashReporter.label       "Habilita els informes de fallada">
 <!ENTITY enableCrashReporter.accesskey   "H">
 <!ENTITY crashReporterLearnMore.label    "Més informació">
@@ -62,9 +62,9 @@
 <!ENTITY connectionSettings.label        "Paràmetres…">
 <!ENTITY connectionSettings.accesskey    "P">
 
-<!ENTITY httpCache.label                 "Contingut web de la memòria cau">
+<!ENTITY httpCache.label                 "Contingut web en memòria cau">
 
-<!ENTITY offlineStorage2.label           "Contingut web fora de línia i dades de l'usuari">
+<!ENTITY offlineStorage2.label           "Contingut web i dades de l'usuari fora de línia">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -88,40 +88,40 @@
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
-<!ENTITY updateAuto1.label               "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "Automatically update from desktop and Windows 8 style &brandShortName;">
+<!ENTITY updateAuto1.label               "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
+<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateAutoMetro.label           "Actualitza automàticament de l'escriptori i amb l'estil Windows 8 del &brandShortName;">
 <!ENTITY updateAutoMetro.accesskey       "s">
-<!ENTITY updateCheck.label               "Comprova les actualitzacions, però pregunta'm si vull instal·lar-les">
+<!ENTITY updateCheck.label               "Cerca actualitzacions, però demana'm si vull instal·lar-les">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "No comprovis mai si hi ha actualitzacions (poc recomanable pel risc de seguretat que comporta)">
+<!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Avisa'm quan això inhabilitarà un dels meus complements">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateAutoAddonWarn.label       "Avisa'm si això faria que s'inhabilités algun dels meus complements">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
 
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 style &brandShortName; does not check add-on compatibility)">
+<!ENTITY updateAutoMetroWarn.label       "(L'estil Windows 8 del &brandShortName; no comprova la compatibilitat dels complements)">
 
 <!ENTITY updateHistory.label             "Mostra l'historial d'actualització">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY useService.label                "Instal·la les actualitzacions en un segon pla">
+<!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
 
 <!ENTITY updateOthers.label              "Actualitza automàticament:">
 <!ENTITY enableSearchUpdate.label        "Motors de cerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Avisa'm quan un lloc web demani emmagatzemar dades per a un ús fora de línia">
+<!ENTITY offlineNotify.label             "Avisa'm quan un lloc web demani emmagatzemar dades per utilitzar-les fora de línia">
 <!ENTITY offlineNotify.accesskey         "f">
 <!ENTITY offlineNotifyExceptions.label   "Excepcions…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Els llocs web següents permeten desar dades per utilitzar-les fora de línia:">
+<!ENTITY offlineAppsList2.label          "Els llocs web següents poden desar dades per utilitzar-les fora de línia:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Suprimeix…">
 <!ENTITY offlineAppsListRemove.accesskey "u">
-<!ENTITY offlineAppRemove.confirm        "Suprimeix les dades d'ús en fora de línia">
+<!ENTITY offlineAppRemove.confirm        "Suprimeix les dades fora de línia">
 
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">

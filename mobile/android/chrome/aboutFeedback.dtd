@@ -12,15 +12,16 @@
 <!ENTITY intro.message             "Digueu-nos què en penseu del &brandShortName; per a l'Android de moment.">
 <!ENTITY intro.happyLink           "M'agrada">
 <!ENTITY intro.sadLink             "He tingut alguns problemes">
+<!ENTITY intro.maybeLater          "Potser més tard">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Si necessiteu ajuda, o teniu cap problema amb el &brandShortName;, visiteu ">
+<!ENTITY support.pre2              "També podeu visitar ">
 <!ENTITY support.link              "Assistència del &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " per obtenir més informació.">
 
-<!ENTITY happy.header              "És molt bo sentir això!">
+<!ENTITY happy.header              "Això és bo!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
@@ -31,10 +32,10 @@
 <!ENTITY happy.finePrint           "Es triga menys d'un minut i us farà sentir molt bé.">
 
 <!ENTITY happy.ratingLink          "Si, vés al Google Play">
-<!ENTITY happy.maybeLater          "Potser més tard">
+<!ENTITY happy.maybeLater2         "Potser més tard">
 <!ENTITY happy.noThanks            "No, gràcies">
 
-<!ENTITY sad.message               "Sentim que hàgiu tingut problemes amb el &brandShortName;. Digueu-nos què va passar perquè puguem solucionar-ho.">
+<!ENTITY sad.message               "Sentim que hàgiu tingut problemes amb el &brandShortName;. Digueu-nos què ha passat perquè puguem solucionar-ho.">
 <!ENTITY sad.placeholder           "Introduïu aquí el vostre comentari">
 <!ENTITY sad.lastSite              "Darrer lloc visitat (opcional)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->

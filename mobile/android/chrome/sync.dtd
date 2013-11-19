@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "Vincula un dispositiu">
 <!ENTITY sync.pair.description      "Per activar el vostre dispositiu nou, seleccioneu &#x0022;Vincula un dispositiu&#x0022; al dispositiu.">
 <!ENTITY sync.setup.close           "Tanca">
-<!ENTITY sync.setup.waitingdownload "Les vostres dades s'estan baixant en un segon pla. Quan vulgueu podeu tancar aquesta finestra.">
+<!ENTITY sync.setup.waitingdownload "Les vostres dades s'estan baixant en segon pla. Podeu tancar aquesta finestra en qualsevol moment.">

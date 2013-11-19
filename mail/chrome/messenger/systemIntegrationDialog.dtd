@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integració amb el sistema">
-<!ENTITY acceptIntegration.label  "Defineix com a predeterminat">
+<!ENTITY acceptIntegration.label  "Defineix per defecte">
 <!ENTITY cancelIntegration.label  "Omet la integració">
 <!ENTITY cancelIntegration2.label  "Cancel·la">
 <!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com a client per defecte per a:">
@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Grups de discussió">
 <!ENTITY feeds.label "Canals">
 
-<!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
+<!ENTITY unsetDefault.tooltip "No podeu eliminar el &brandShortName; com a client per defecte des de dins del mateix &brandShortName;. Per definir una altra aplicació com a client per defecte, heu d'utilitzar el seu diàleg «Defineix per defecte».">
 
 <!ENTITY checkOnStartup.label "Comprova-ho sempre quan s'inicia el &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "s">

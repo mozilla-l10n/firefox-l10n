@@ -118,8 +118,8 @@ ser temporal, i podeu tornar-ho a provar més tard.</li>
 <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre dispositiu mòbil.</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "S'ha blocat el contingut per política de seguretat">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha evitat que la pàgina es pugui carregar així perquè té un contingut que la política de seguretat no permet.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat del contingut">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
 <!ENTITY corruptedContentError.title "Error en el contingut">
 <!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

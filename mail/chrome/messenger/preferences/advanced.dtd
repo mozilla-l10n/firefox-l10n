@@ -63,23 +63,23 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Comprova automàticament si hi ha actualitzacions del:">
+<!ENTITY autoCheck.label                "Cerca actualitzacions automàticament de:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complements instal·lats">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
+<!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;:">
 <!ENTITY modeAskMe.label                "Demana'm què vull fer">
 <!ENTITY modeAskMe.accesskey            "D">
 <!ENTITY modeAutomatic.label            "Baixa i instal·la automàticament l'actualització">
 <!ENTITY modeAutomatic.accesskey        "B">
-<!ENTITY modeAutoAddonWarn.label        "Avisa'm si s'inhabilitaran alguns dels meus complements">
+<!ENTITY modeAutoAddonWarn.label        "Avisa'm si això faria que s'inhabilités algun dels meus complements">
 <!ENTITY modeAutoAddonWarn.accesskey    "v">
 <!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
 <!ENTITY showUpdates.accesskey          "u">
 
-<!ENTITY useService.label                "Utilitzeu un servei en segon pla per instal·lar les actualitzacions.">
-<!ENTITY useService.accesskey            "p">
+<!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
+<!ENTITY useService.accesskey            "s">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Paràmetres…">
@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Visualitza els certificats">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Llistes de revocació">
-<!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY validation.label               "Validació">
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">

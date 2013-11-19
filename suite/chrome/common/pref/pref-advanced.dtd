@@ -14,6 +14,6 @@
 <!ENTITY prefCheckDefaultClient.label "Comproveu els paràmetres d'aplicació per defecte a l'inici">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 
-<!ENTITY crashReports.caption       "Informe de fallades">
-<!ENTITY submitCrashes.label        "Envia un informe de fallades">
+<!ENTITY crashReports.caption       "Informe de fallada">
+<!ENTITY submitCrashes.label        "Envia informes de fallada">
 <!ENTITY submitCrashes.accesskey    "E">

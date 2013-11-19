@@ -15,7 +15,7 @@
 <!ENTITY manageSubscriptions.label "Gestiona les subscripcions…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
-<!ENTITY feedWindowTitle.label "Feed Account Wizard">
+<!ENTITY feedWindowTitle.label "Auxiliar de comptes de canals d'informació">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "Blogs i canals de notícies">

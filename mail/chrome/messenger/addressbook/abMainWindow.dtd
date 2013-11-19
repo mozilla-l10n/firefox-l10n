@@ -142,8 +142,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "u">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newContactButton.tooltip                       "Crea un nou contacte a la llibreta d'adreces">
-<!ENTITY newlistButton.tooltip                          "Crea una nova llista">
+<!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
+<!ENTITY newlistButton.tooltip                          "Crea una llista nova">
 <!ENTITY editButton2.tooltip                            "Edita l'element seleccionat">
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">

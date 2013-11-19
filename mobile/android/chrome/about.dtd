@@ -6,7 +6,7 @@
 <!ENTITY aboutPage.telemetryStart               " Envia automàticament informació sobre el rendiment, maquinari, ús i personalització a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " per ajudar a millorar el &brandShortName;.">
-<!ENTITY aboutPage.checkForUpdates.link         "Comprova si hi ha actualitzacions »">
+<!ENTITY aboutPage.checkForUpdates.link         "Cerca actualitzacions »">
 <!ENTITY aboutPage.checkForUpdates.checking     "S'estan cercant actualitzacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">
 <!ENTITY aboutPage.checkForUpdates.available2   "Baixa l'actualització">
