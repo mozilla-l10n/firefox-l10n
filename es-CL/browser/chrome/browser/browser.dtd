@@ -6,6 +6,10 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegación privada)">
+
+<!ENTITY appmenu.title                       "Personaliza y controla a &brandFullName;">
+<!ENTITY navbarOverflow.label                "Más herramientas…">
+
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
@@ -145,6 +149,7 @@
 <!ENTITY bookmarksMenuButton.tooltip "Muestra sus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
 <!ENTITY viewBookmarksSidebar.label "Mostrar en barra lateral">
+<!ENTITY viewBookmarksSidebar2.label "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label "Ver barra de marcadores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -258,7 +263,20 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
+
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.showAll.label "Mostrar historial completo">
+<!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
+
+<!ENTITY customizeMenu.addToToolbar.label "Añadir a barra de herramientas">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.removeFromMenu.label "Remover del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Añadir más elementos…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
+<!ENTITY appMenuToolbarLayout.label "Diseño de barra…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
@@ -270,6 +288,10 @@
 <!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a pestaña:">
+
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
+
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -492,6 +514,12 @@
 <!ENTITY social.learnMore.label "Aprender más…">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "No ahora">
+
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
+<!ENTITY customizeMode.menuAndToolbars.header "Más herramientas para añadir al menú y a la barra de herramientas">
+<!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
 <!ENTITY social.chatBar.accesskey "c">
