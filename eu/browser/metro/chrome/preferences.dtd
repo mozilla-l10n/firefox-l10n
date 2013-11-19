@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Aukerak">
-<!ENTITY optionsHeader.startup.title                             "Abioa">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName; abiatzean, erakutsi">
-<!ENTITY optionsHeader.homepage.startPage.button                 "hasiera-orria">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "azken aldiko fitxak">
 <!ENTITY optionsHeader.char.title                                "Karaktere-kodeketa">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autodetektatu">
 <!ENTITY optionsHeader.char.options.label                        "Erakutsi kodeketa-aukerak aplikazio-barran">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Gogoratu pasahitzak">
 <!ENTITY doNotTrack.title                                        "Do Not Track">
-<!ENTITY doNotTrack.desc                                         "Esan guneei:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Ez dudala nire jarraipenik egitea nahi">
-<!ENTITY doNotTrack.options.noPreference                         "Ezer ez nire jarraipen-hobespenei buruz">
-<!ENTITY doNotTrack.options.trackingOkay                         "Nire jarraipena egitea nahi dudala">
+<!ENTITY doNotTrack.options.doNotTrack                           "Esan webguneei nire jarraipenik ez egiteko">
+<!ENTITY doNotTrack.options.doTrack                              "Esan webguneei nire jarraipena egiteko">
+<!ENTITY doNotTrack.options.default                              "Ez eman webguneei nire jarraipen-hobespenen berri">
+<!ENTITY doNotTrack.learnMoreLink                                "Argibide gehiago&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Hutsegiteen berriemailea">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu Mozillara nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">

@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editatu">
 <!ENTITY contextmenu_subscribe "Harpidetu orrira">
 <!ENTITY contextmenu_site_settings "Editatu gunearen ezarpenak">
-<!ENTITY contextmenu_top_bookmarks_edit "Editatu">
-<!ENTITY contextmenu_top_bookmarks_pin "Ainguratu gunea">
-<!ENTITY contextmenu_top_bookmarks_unpin "Desainguratu gunea">
+<!ENTITY contextmenu_top_sites_edit "Editatu">
+<!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
+<!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Orria kenduta">
 
-<!ENTITY bookmark_add "Gehitu laster-marka">
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
 <!ENTITY bookmark_edit_name "Izena">
 <!ENTITY bookmark_edit_location "Helbidea">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Gehitu gunea">
 
 <!ENTITY home_history_title "Historia">
+<!ENTITY home_bookmarks_empty "Gordetako laster-markak hemen agertzen dira.">
 <!ENTITY home_last_tabs_title "Azken saioko fitxak">
 <!ENTITY home_last_tabs_open "Ireki azken saioko fitxa guztiak">
 <!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
 <!ENTITY home_most_recent_title "Azkenak">
 <!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
-<!ENTITY home_most_visited_title "Gehien bisitatutakoak">
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez irakurketa moduaren botoia sakatuz titulu-barran agertzen denean.">
 
-<!ENTITY home_most_visited_empty "Gehien bisitatzen dituzun webguneak hemen agertzen dira.">
-<!ENTITY pin_bookmark_dialog_hint "Idatzi bilatzeko gako-hitza">
+<!ENTITY pin_site_dialog_hint "Idatzi bilatzeko gako-hitza">
 
 <!ENTITY filepicker_title "Aukeratu fitxategia">
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
