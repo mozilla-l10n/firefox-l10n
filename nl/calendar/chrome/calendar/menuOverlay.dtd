@@ -53,7 +53,7 @@
 <!ENTITY goTodayCmd.label                       "Vandaag">
 <!ENTITY goTodayCmd.accesskey                   "a">
 
-<!ENTITY showCurrentView.label                  "Huidig venster">
+<!ENTITY showCurrentView.label                  "Huidige weergave">
 <!ENTITY showCurrentView.accesskey              "H">
 
 <!ENTITY calendar.properties.label              "Agenda-eigenschappen…">
