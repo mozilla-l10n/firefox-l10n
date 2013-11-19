@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Razvojna orodja za Firefox omogočajo razhroščevanje oddaljenih naprav (npr. Firefoxa za Android in Firefox OS). Na oddaljeni napravi morate vključiti možnost 'Oddaljeno razhroščevanje'. Za več informacij si oglejte">
+<!ENTITY remoteHelp "Razvojna orodja za Firefox omogočajo razhroščevanje oddaljenih naprav (npr. Firefoxa za Android in Firefox OS). Na oddaljeni napravi morate vključiti možnost 'Oddaljeno razhroščevanje'. Za več informacij si oglejte ">
 <!ENTITY remoteDocumentation "dokumentacijo">
 <!ENTITY remoteHelpSuffix ".">
 
