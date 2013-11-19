@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
 
+<!ENTITY appmenu.title                       "Persone agordi, regi &brandFullName;">
+<!ENTITY navbarOverflow.label                "Pli da iloj…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Reŝargi langeton">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -159,10 +162,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Presi">
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
 
-<!ENTITY backForwardItem.title        "Malantaŭen/antaŭen">
 <!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
-<!ENTITY bookmarksItem.title          "Legosignoj">
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Eka paĝo">
@@ -176,7 +177,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
 <!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
 <!ENTITY bookmarksMenuButton.unsorted.label "Neordigitaj legosignoj">
-<!ENTITY viewBookmarksSidebar.label         "Montri en la flanka strio">
+<!ENTITY viewBookmarksSidebar2.label        "Vidi flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -328,11 +329,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Persone agordi">
+<!ENTITY appMenuHistory.label "Historio">
+<!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
+<!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
+<!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
+
+<!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilaro">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.removeFromMenu.label "Forigi el menuo">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "F">
+<!ENTITY customizeMenu.addMoreItems.label "Aldoni pli da elementoj…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "e">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Serĉi ion aŭ tajpi adreson">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Iri al langeto:">
+
+<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
+     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
+     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -647,6 +665,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "i">
 <!ENTITY social.closeNotificationItem.label "Nun ne">
 
+
+
+<!ENTITY customizeMode.tabTitle "Persone agordi &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menuo kaj ilaraj strioj">
+<!ENTITY customizeMode.menuAndToolbars.header "Pli da iloj aldoneblaj al la menuo kaj ilaraj strioj">
+<!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
@@ -723,5 +748,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Regado de pligrandigilo">
 <!ENTITY addonBarCloseButton.tooltip   "Fermi strion de aldonaĵoj">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Malantaŭen/antaŭen">
+<!ENTITY viewBookmarksSidebar.label    "Montri en la flanka strio">
+<!ENTITY bookmarksItem.title           "Legosignoj">
 <!-- end of strings to be removed post-Australis -->
 
