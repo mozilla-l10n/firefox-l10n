@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que'l sirvidor troque estos espacios de nomes">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Al descargar el corréu pop d'esti sirvidor, usar esta carpeta pal corréu nuevu:">
-<!ENTITY globalInbox.label "Bandexa d'entrada global (Carpetes llocales)">
-<!ENTITY globalInbox.accesskey "n">
 <!ENTITY accountDirectory.label "Bandexa d'entrada pa la cuenta d'esti sirvidor">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Bandexa d'entrada pa una cuenta distinta">

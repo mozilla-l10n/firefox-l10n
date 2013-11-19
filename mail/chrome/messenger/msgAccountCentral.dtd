@@ -18,3 +18,6 @@
 <!ENTITY offlineLink.label "Configuración ensin conexón">
 <!ENTITY feedsSectionHdr.label "Canales">
 <!ENTITY subscribeFeeds.label "Alministrar soscripciones">
+<!ENTITY newAcct.label "Crear una cuenta nueva:">
+<!ENTITY movemail.label "Movemail">
+<!ENTITY chat.label "Chat">

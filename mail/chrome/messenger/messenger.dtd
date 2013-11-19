@@ -428,7 +428,6 @@
 <!ENTITY accountManagerCmd.label "Configuración de les cuentes…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY getMsgButton.label "Recibir">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a toos">
@@ -488,8 +487,6 @@
 <!ENTITY folderSizeColumn.label "Tamañu">
 <!ENTITY folderContextGetMessages.label "Recibir mensaxes">
 <!ENTITY folderContextGetMessages.accesskey "R">
-<!ENTITY folderContextOpenNewWindow.label "Abrir">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir nuna llingüeta nueva">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNew.label "Subcarpeta nueva…">
@@ -589,8 +586,6 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Reunviar">
 <!ENTITY contextForward.accesskey "n">
-<!ENTITY contextForwardAsAttachment.label "Reunviar como axuntu">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mover a">
 <!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Reciente">
@@ -740,3 +735,26 @@
 <!ENTITY openFeedMessage1.accesskey "c">
 <!ENTITY openAttachmentListCmd.label "Axuntos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
+<!ENTITY newFeedAccountCmd.label "Cuenta de canales web…">
+<!ENTITY newFeedAccountCmd.accesskey "w">
+<!ENTITY forwardAsInline.tooltip "Reunviar el mensaxe esbilláu como testu nel cuerpu">
+<!ENTITY forwardAsAttachment.tooltip "Reunviar el mensaxe esbilláu como un axuntu">
+<!ENTITY folderContextOpenInNewWindow.label "Abrir nuna ventana nueva">
+<!ENTITY folderContextOpenInNewWindow.accesskey "e">
+<!ENTITY contextWatchThreadMenu.label "Observar conversación">
+<!ENTITY contextMultiForwardAsAttachment.label "Reunviar como axuntos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextKillThreadMenu.label "Inorar conversación">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Inorar sub-conversación">
+<!ENTITY contextForwardAsMenu.label "Reunviar como">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Incorporáu">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Axuntu">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY buttonMenuForwardAsInline.label "Reunviar nel cuerpu del mensaxe">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reunviar como axuntu">
+<!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
+<!ENTITY allowRemoteDebugging.accesskey "r">
+<!ENTITY getMsgButton1.label "Recibir mensaxes">

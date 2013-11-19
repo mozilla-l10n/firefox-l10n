@@ -82,14 +82,14 @@
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
 <!ENTITY doNotTrackInfo.label "Deprender más">
-<!ENTITY dntTrackingOkay.label "Dicir a los sitios que quiero que me rastrexen.">
 <!ENTITY dntTrackingOkay.accesskey "t">
-<!ENTITY dntTrackingNotOkay.label "Dicir a los sitios que nun quiero que me rastrexen.">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingNopref.label "Nun dicir un res a los sitios tocante a les mios preferencies de siguimientu.">
 <!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY acceptThirdParty.visited.label "De los visitaos">
 <!ENTITY acceptThirdParty.pre.label "Aceutar les cookies de terceres partes:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.never.label "Enxamás">
 <!ENTITY acceptThirdParty.always.label "Siempre">
+<!ENTITY dntTrackingOkay.label2 "Indicar a los sitios que quiero que me rastrexen">
+<!ENTITY dntTrackingNotOkay.label2 "Indicar a los sitios que nun quiero que me rastrexen">
+<!ENTITY dntTrackingNopref.label2 "Nun indicar a los sitios un res tocante a les mios preferencies de rastrexu">
