@@ -16,7 +16,8 @@
 <!ENTITY appbarErrorConsole.label   "Foutconsole openen">
 <!ENTITY appbarJSShell.label        "JavaScript-shell openen">
 <!ENTITY appbarFindInPage2.label    "Zoeken op pagina">
-<!ENTITY appbarViewOnDesktop2.label "Op dektop bekijken">
+<!ENTITY appbarViewOnDesktop2.label "Op desktop bekijken">
+<!ENTITY appbarMSMetaData2.label    "App voor deze website verkrijgen">
 
 <!ENTITY topSitesHeader.label        "Topwebsites">
 <!ENTITY bookmarksHeader.label       "Bladwijzers">
