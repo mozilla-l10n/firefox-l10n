@@ -5,11 +5,6 @@
 <!ENTITY aboutApps.title2                          "Apps">
 <!ENTITY aboutApps.header                          "Ihre Apps">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Keine Web-Apps installiert. Laden Sie welche aus dem ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox-Marketplace">
-<!ENTITY aboutApps.noApps.post " herunter.">
+<!ENTITY aboutApps.browseMarketplace "Firefox Marketplace öffnen">
 <!ENTITY aboutApps.uninstall "Deinstallieren">
 <!ENTITY aboutApps.addToHomescreen "Zu Startbildschirm hinzufügen">

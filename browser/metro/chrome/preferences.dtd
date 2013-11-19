@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Einstellungen">
-<!ENTITY optionsHeader.startup.title                             "Start">
-<!ENTITY optionsHeader.homepage.title                            "Wenn &brandShortName; gestartet wird">
-<!ENTITY optionsHeader.homepage.startPage.button                 "Startseite anzeigen">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "Tabs der letzten Sitzung anzeigen">
 <!ENTITY optionsHeader.char.title                                "Zeichenkodierung">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatisch bestimmen">
 <!ENTITY optionsHeader.char.options.label                        "Kodierungsoptionen in der App-Leiste anzeigen">
@@ -31,11 +27,12 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive Logins">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Passwörter speichern">
-<!ENTITY doNotTrack.title                                        "Verfolgung">
-<!ENTITY doNotTrack.desc                                         "Websites mitteilen:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Meine Aktivitäten sollen nicht verfolgt werden.">
-<!ENTITY doNotTrack.options.noPreference                         "Keine Präferenz mitteilen">
-<!ENTITY doNotTrack.options.trackingOkay                         "Meine Aktivitäten sollen verfolgt werden.">
+<!ENTITY doNotTrack.title                                        "Verfolgung von Nutzeraktivitäten">
+<!ENTITY doNotTrack.options.doNotTrack                           "Websites mitteilen, meine Aktivitäten nicht zu verfolgen">
+<!ENTITY doNotTrack.options.doTrack                              "Websites mitteilen, meine Aktivitäten zu verfolgen">
+<!ENTITY doNotTrack.options.default                              "Websites keine Präferenz über die Verfolgung meiner Aktivitäten mitteilen">
+<!ENTITY doNotTrack.learnMoreLink                                "Weitere Informationen…">
+
 <!ENTITY optionsHeader.reporting.title                           "Absturzmelder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; übermittelt Absturzberichte, um Mozilla dabei zu helfen, den Browser stabiler und sicherer zu machen.">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrie">
