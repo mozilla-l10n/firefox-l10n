@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "وصلت إلى أقصى حدّ للتخزين">
+<!ENTITY fileExceedsQuota.accept "رقِّ">
+<!ENTITY fileExceedsQuota.cancel "ألغِ">
+<!ENTITY fileExceedsQuota.description "وصلت إلى أقصى حد للتخزين في حسابك وهو 2 ج.بايت.">
+<!ENTITY fileExceedsQuota.description1 "تستخدم حاليا مساحة #XXX ج.بايت.">
+<!ENTITY fileExceedsQuota.description2 "رقِّ الآن إلى حساب مدفوع واحصل على مساحة إضافية.">
+<!ENTITY fileExceedsQuota.description3 "أو يمكنك إزالة الملفات من حسابك لإفراغ بعض المساحة.">

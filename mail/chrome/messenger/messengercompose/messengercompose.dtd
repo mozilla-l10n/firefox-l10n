@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "تحرير: (لا موضوع)">
 <!-- File Menu -->
 
@@ -20,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "ر">
 <!ENTITY attachFileCmd.label "ملفات…">
 <!ENTITY attachFileCmd.accesskey "م">
+<!ENTITY attachFileCmd.key "ف">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "صفحة وِب…">
 <!ENTITY attachPageCmd.accesskey "ص">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -71,17 +74,20 @@
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "أعد التسطير">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "ع">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
+<!ENTITY editRewrapCmd.label "أعد التسطير">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "غيّر اسم المرفق…">
+<!ENTITY renameAttachmentCmd.accesskey "غ">
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY findCmd.label "ابحث و استبدل…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "ب">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "ابحث مرة أخرى">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "م">
@@ -134,8 +140,8 @@
 <!ENTITY returnReceiptMenu.accesskey "ص">
 <!ENTITY dsnMenu.label "تنبيه حالة الاستلام">
 <!ENTITY dsnMenu.accesskey "ه">
-<!ENTITY outputFormatMenu.label "التنسيق">
-<!ENTITY outputFormatMenu.accesskey "ت">
+<!ENTITY deliveryFormatMenu.label "نسق التسليم">
+<!ENTITY deliveryFormatMenu.accesskey "س">
 <!ENTITY autoFormatCmd.label "تعرّف تلقائيّا">
 <!ENTITY autoFormatCmd.accesskey "ع">
 <!ENTITY plainTextFormatCmd.label "نص صِرْف فقط">
@@ -175,8 +181,8 @@
 <!ENTITY accountManagerCmdUnix.accesskey "ع">
 <!ENTITY preferencesCmd.label "الخيارات…">
 <!ENTITY preferencesCmd.accesskey "خ">
-<!ENTITY preferencesCmdUnix.label "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey "ف">
+<!ENTITY preferencesCmdUnix.label       "التفضيلات">
+<!ENTITY preferencesCmdUnix.accesskey   "ف">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -201,9 +207,9 @@
 <!ENTITY attachButton.tooltip "أرفق مُرفق">
 <!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
 <!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
-<!ENTITY cutButton.tooltip "قص">
-<!ENTITY copyButton.tooltip "انسخ">
-<!ENTITY pasteButton.tooltip "الصق">
+<!ENTITY cutButton.tooltip              "قص">
+<!ENTITY copyButton.tooltip             "انسخ">
+<!ENTITY pasteButton.tooltip            "الصق">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -271,6 +277,14 @@
 <!ENTITY selectAll.accesskey "ك">
 <!ENTITY attachFile.label "أرفق الملفات…">
 <!ENTITY attachFile.accesskey "م">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "حوّل إلى…">
+<!ENTITY convertCloud.accesskey "ح">
+<!ENTITY cancelUpload.label "ألغِ الرفع">
+<!ENTITY cancelUpload.accesskey "ف">
+<!ENTITY convertRegularAttachment.label "مرفق عادي">
+<!ENTITY convertRegularAttachment.accesskey "د">
 <!ENTITY attachPage.label "أرفق صفحة وِب…">
 <!ENTITY attachPage.accesskey "ص">
 <!-- Spell checker context menu items -->

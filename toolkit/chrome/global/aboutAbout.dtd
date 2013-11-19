@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAbout.title "عن عن">
-<!ENTITY aboutAbout.note "هذه لائحة من صفحات ”عن“ في حال احتجتها.<br/> 
+<!ENTITY aboutAbout.title  "عن عن">
+<!ENTITY aboutAbout.note   "هذه لائحة من صفحات ”عن“ في حال احتجتها.<br/> 
 بعضها قد يبدو مربكًا، وبعض آخر لتشخيص الأعطال فقط.<br/> 
-وبعض ثالث أُهمل لأنه يتطلب نصوصًا طلبيّة.">
+وبعض ثالث لم نذكره لأنه يتطلب نصوص استعلام.">

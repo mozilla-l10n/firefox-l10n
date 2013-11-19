@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "اضبط Filelink">
+<!ENTITY addAccountDialog.menuTitle "اختر خدمة تخزين على الإنترنت">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "اسم الحساب:">
+<!ENTITY addAccountDialog.noAccountText "نأسف لهذا، لكن الإصدارة الحالية من &brandShortName; لا تدعم إلا حسابًا واحدا لكل خدمة تخزين على الإنترنت.">
+<!ENTITY addAccountDialog.createAccountText2 "يمكنك إرسال مرفقات كبيرة باستخدام إحدى خدمات التخزين على الإنترنت. من فضلك اضبط حسابا موجودا أو سجل في حساب جديد.">
+<!ENTITY addAccountDialog.authorizing "يتحقق من التخويل...">
+<!ENTITY addAccountDialog.error "حدث خطأ أثناء إعداد الحساب!">
+<!ENTITY addAccountDialog.acceptButton.label "اضبط حسابا">
+<!ENTITY addAccountDialog.learnMore "اطّلع على المزيد…">

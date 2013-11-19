@@ -16,15 +16,19 @@
 <!ENTITY highPriorityCmd.label "عالية">
 <!ENTITY highestPriorityCmd.label "القصوى">
 
-<!ENTITY contextDesc.label "طبّق التصفية عند:">
-<!ENTITY contextDesc.accesskey "ع">
-<!ENTITY contextIncoming.label "فحص البريد">
+<!ENTITY contextDesc.label "طبّق المُرشّح عند:">
+<!ENTITY contextIncomingMail.label "وصول بريد جديد">
+<!ENTITY contextIncomingMail.accesskey "ص">
 <!ENTITY contextManual.label "التشغيل اليدوي">
-<!ENTITY contextBoth.label "فحص البريد أو التشغيل اليدوي">
-<!ENTITY contextPostPlugin.label "التماس البريد (بعد التصنيف)">
-<!ENTITY contextPostPluginBoth.label "التماس البريد (بعد التصنيف) أو التشغيل اليدوي">
+<!ENTITY contextManual.accesskey "ش">
+<!ENTITY contextBeforeCls.label "رشّح قبل فرز السخام">
+<!ENTITY contextAfterCls.label "رشّح بعد فرز السخام">
+
 <!ENTITY filterActionDesc.label "نفذ الإجراءات التالية:">
 <!ENTITY filterActionDesc.accesskey "ن">
+
+<!ENTITY filterActionOrderWarning.label "ملاحظة: ستُنفّذ إجراءات المرشِّح بترتيب مختلف.">
+<!ENTITY filterActionOrder.label "اطّلع على ترتيب التنفيذ">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "انقل الرسالة إلى">
@@ -32,6 +36,7 @@
 <!ENTITY forwardTo.label "مرِّر الرسالة إلى">
 <!ENTITY replyWithTemplate.label "رُد باستخدام قالب">
 <!ENTITY markMessageRead.label "أشِّر كمقروء">
+<!ENTITY markMessageUnread.label "علّم كغير مقروء">
 <!ENTITY markMessageStarred.label "أضِف نجمة">
 <!ENTITY setPriority.label "اجعل الأولويّة">
 <!ENTITY addTag.label "سِمْ الرّسالة">
@@ -43,3 +48,14 @@
 <!ENTITY ignoreSubthread.label "تجاهل النقاش الفرعي">
 <!ENTITY watchThread.label "راقب النقاش">
 <!ENTITY stopExecution.label "أوقِف تشغيل التصفية">
+
+<!ENTITY addAction.tooltip "أضِف إجراءً جديدًا">
+<!ENTITY removeAction.tooltip "أزِل هذا الإجراء">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

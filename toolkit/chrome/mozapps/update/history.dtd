@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY history.title "تاريخ التحديث">
-<!ENTITY history.intro "ثُبّتت التحديثات التالية:">
-<!ENTITY closebutton.label "أغلق">
+<!ENTITY  history.title             "تاريخ التحديث">
+<!ENTITY  history.intro             "ثُبّتت التحديثات التالية:">
+<!ENTITY  closebutton.label         "أغلق">
                                      
-<!ENTITY noupdates.label "لم تُثبّت أي تحديثات بعد">
+<!ENTITY  noupdates.label           "لم تُثبّت أي تحديثات بعد">
 
-<!ENTITY name.header "اسم التحديث">
-<!ENTITY date.header "تاريخ التحديث">
-<!ENTITY type.header "النوع">
-<!ENTITY state.header "الحالة">
+<!ENTITY  name.header               "اسم التحديث">
+<!ENTITY  date.header               "تاريخ التحديث">
+<!ENTITY  type.header               "النوع">
+<!ENTITY  state.header              "الحالة">
 

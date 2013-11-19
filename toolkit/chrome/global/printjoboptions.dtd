@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printJobOptions.title "خصائص الطّابعة">
 
@@ -31,7 +31,7 @@
 <!ENTITY colorspaceInput.accesskey "ق">
 
 <!ENTITY fontsGroup.label "الخطوط:">
-<!ENTITY downloadFonts.label "هل تريد تنزيل الخطوط للطّابعة؟">
+<!ENTITY downloadFonts.label "نزّل الخطوط إلى الطّابعة">
 <!ENTITY downloadFonts.accesskey "ط">
 
 <!ENTITY edgeMarginInput.label "الفراغ من طرف الورقة للهامش">

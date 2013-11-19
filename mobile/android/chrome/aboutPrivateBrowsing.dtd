@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "التصفح الخاص">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "لقد فتحت لسانا خاصا جديدا.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "لست في لسان خاص.">
+
+<!ENTITY privatebrowsingpage.description            "لن يسجّل &brandShortName; الأحداث التي ستجري في هذا اللسان الخاص، ذلك يتضمّن تأريخ التصفح، وتأريخ البحث، وتأريخ التنزيلات، وتأريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة. ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات التي تضيفها.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "مع أن هذا الجهاز لن يحتوي على سجل لتصفحك، إلا أنّ باستطاعة مزود خدمة الإنترنت تتبع الصفحات التي زرتها.">
