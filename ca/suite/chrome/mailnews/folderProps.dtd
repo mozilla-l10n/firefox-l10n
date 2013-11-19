@@ -7,9 +7,9 @@
 <!ENTITY generalInfo.label                       "Informació general">
 <!ENTITY folderCharsetTab.label                  "Codificació de caràcters per defecte:">
 <!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
+<!ENTITY folderCharsetOverride.label             "Aplica el valor per defecte a tots els missatges de la carpeta (omet la codificació de caràcters de cada missatge i la detecció automàtica)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix el fitxer de resum">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix l'índex del fitxer resum">
 <!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "De vegades s'espatlla el fitxer que fa d'índex de la carpeta (.msf) i alguns missatges que haurien de ser-hi sembla que hagin desaparegut o d'altres que s'havien esborrat tornen a aparèixer; tots aquests problemes es solucionaran si es repara la carpeta.">
@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Política de retenció">
-<!ENTITY retentionUseAccount.label "Utilitza les meves opcions del compte">
+<!ENTITY retentionUseAccount.label "Utilitza els paràmetres del meu compte">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepRecent.label "Suprimeix-los tots excepte els més nous">
 <!ENTITY retentionKeepRecent.accesskey "x">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu les opcions d'antiguitat)">
+<!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu els paràmetres d'antiguitat)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges destacats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

@@ -7,8 +7,8 @@
 <!ENTITY junkMail.intro "Aneu als paràmetres dels comptes per configurar els paràmetres de correu brossa específics de cada compte.">
 <!-- Junk Mail Controls -->
 
-<!ENTITY manualMark.label               "En marcar els missatges com a correu brossa:">
-<!ENTITY manualMark.accesskey           "b">
+<!ENTITY manualMark.label               "Quan marqui els missatges com a correu brossa:">
+<!ENTITY manualMark.accesskey           "Q">
 <!ENTITY manualMarkModeMove.label       "Mou-los a la carpeta &quot;Correu brossa&quot; del compte">
 <!ENTITY manualMarkModeMove.accesskey   "M">
 <!ENTITY manualMarkModeDelete.label     "Suprimeix-los">

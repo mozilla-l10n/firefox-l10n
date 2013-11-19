@@ -12,5 +12,5 @@
 <!ENTITY useMIME.accesskey               "P">
 <!ENTITY sendDefaultCharset.label        "Codificació de caràcters per defecte:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset2.label    "Sempre que sigui possible, utilitzeu aquesta codificació per defecte en les respostes. (Quan estigui desmarcat, només els missatges nous la utilitzaran.)">
+<!ENTITY replyInDefaultCharset2.label    "Quan sigui possible, utilitza la codificació de caràcters per defecte en les respostes. (Si es desmarca, només la utilitzaran els missatges nous.)">
 <!ENTITY replyInDefaultCharset2.accesskey "u">

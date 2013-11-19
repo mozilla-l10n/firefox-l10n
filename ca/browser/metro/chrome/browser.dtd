@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Escriviu una cerca o adreça">
+
+<!ENTITY back.label            "Enrere">
+<!ENTITY forward.label         "Endavant">
+<!ENTITY newtab.label          "Pestanya nova">
+<!ENTITY closetab.label        "Tanca la pestanya">
+
+<!ENTITY autocompleteResultsHeader.label  "Resultats">
+
+<!ENTITY appbarErrorConsole.label   "Obre la consola d'errors">
+<!ENTITY appbarJSShell.label        "Obre l'intèrpret d'ordres JavaScript">
+<!ENTITY appbarFindInPage2.label    "Cerca a la pàgina">
+<!ENTITY appbarViewOnDesktop2.label "Mostra a l'escriptori">
+
+<!ENTITY topSitesHeader.label        "Destacats">
+<!ENTITY bookmarksHeader.label       "Adreces d'interès">
+<!ENTITY recentHistoryHeader.label   "Historial recent">
+<!ENTITY remoteTabsHeader.label      "Pestanyes d'altres dispositius">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Destacats">
+<!ENTITY narrowBookmarksHeader.label     "D'interès">
+<!ENTITY narrowRecentHistoryHeader.label "Historial recent">
+<!ENTITY narrowRemoteTabsHeader.label    "Pestanyes remotes">
+
+<!ENTITY downloadsHeader.label     "Baixades">
+<!ENTITY downloadShowPage.label    "Vés a la pàgina">
+<!ENTITY downloadShow2.label       "Cerca">
+<!ENTITY downloadOpen2.label       "Obre">
+<!ENTITY downloadCancel.label      "Cancel·la">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Reprèn">
+<!ENTITY downloadRetry.label       "Reintenta">
+<!ENTITY downloadRemove.label      "Elimina">
+<!ENTITY downloadDelete.label      "Suprimeix">
+<!ENTITY downloadFailed.label      "Ha fallat">
+
+<!ENTITY allBookmarks.label        "Mostra totes les adreces d'interès">
+
+<!ENTITY consoleHeader.label       "Consola d'errors">
+<!ENTITY consoleAll.label          "Tot">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Avisos">
+<!ENTITY consoleMessages.label     "Missatges">
+<!ENTITY consoleCodeEval.label     "Codi:">
+<!ENTITY consoleClear.label        "Neteja">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Fitxer font:">
+<!ENTITY consoleErrLine.label      "Línia:">
+<!ENTITY consoleErrColumn.label    "Columna:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Retalla">
+<!ENTITY contextTextCopy.label             "Copia">
+<!ENTITY contextTextPaste.label            "Enganxa">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Enganxa i vés-hi">
+<!ENTITY contextTextSelect.label           "Selecciona">
+<!ENTITY contextTextSelectAll.label        "Selecciona-ho tot">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Obre l'enllaç en una pestanya nova">
+<!ENTITY contextCopyLinkHref.label         "Copia l'enllaç">
+<!ENTITY contextBookmarkLinkHref.label     "Afegeix a les adreces d'interès">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Desa a la biblioteca d'imatges">
+<!ENTITY contextCopyImage.label            "Copia la imatge">
+<!ENTITY contextCopyImageLocation.label    "Copia la ubicació de la imatge">
+<!ENTITY contextOpenImageTab.label         "Obre la imatge en una pestanya nova">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Desa a la biblioteca de vídeos">
+<!ENTITY contextCopyVideoLocation.label    "Copia la ubicació del vídeo">
+<!ENTITY contextOpenVideoTab.label         "Obre el vídeo en una pestanya nova">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

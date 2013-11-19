@@ -17,11 +17,11 @@
 <!ENTITY deleteBookmarks.label        "Suprimeix totes les adreces d'interès excepte les còpies de seguretat">
 <!ENTITY deleteBookmarks.accesskey    "d">
 
-<!ENTITY resetUserPrefs.label         "Reinicia totes les preferències d'usuari del &brandShortName; als valors predeterminats">
+<!ENTITY resetUserPrefs.label         "Reinicia totes les preferències d'usuari als valors per defecte del &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Restaura tots els motors de cerca per defecte">
 <!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY changeAndRestartButton.label "Fes els canvis i reinicia">
+<!ENTITY changeAndRestartButton.label "Aplica els canvis i reinicia">
 <!ENTITY continueButton.label         "Continua en mode segur">

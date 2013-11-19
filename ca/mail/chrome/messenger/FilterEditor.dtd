@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "S'estan obtenint missatges nous:">
 <!ENTITY contextIncomingMail.accesskey "g">
 <!ENTITY contextManual.label "S'executi manualment">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "e">
 <!ENTITY contextBeforeCls.label "Filtra abans de classificar com a brossa">
 <!ENTITY contextAfterCls.label "Filtra després de classificar com a brossa">
 

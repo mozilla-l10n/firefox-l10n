@@ -35,7 +35,7 @@
 <!ENTITY secondsLabel.label               "segons">
 
 <!ENTITY openingMessages.label            "En obrir els missatges, mostreu-los en:">
-<!ENTITY newWindowRadio.label             "Una nova finestra de missatge">
+<!ENTITY newWindowRadio.label             "Una finestra de missatge nova">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "En una finestra de missatge ja existent">
 <!ENTITY existingWindowRadio.accesskey    "E">

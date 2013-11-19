@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Seguretat">
 <!ENTITY securityHeading.label "Per enviar i rebre missatges signats o xifrats, heu d'indicar tant un certificat de signatura digital com un certificat de xifratge.">
 <!ENTITY encryptionGroupTitle.label "Xifratge">
-<!ENTITY encryptionChoiceLabel.label "Utilitza xifratge en enviar missatges:">
+<!ENTITY encryptionChoiceLabel.label "Paràmetre de xifratge per defecte en enviar missatges:">
 <!ENTITY neverEncrypt.label "Mai (no utilitzis cap xifratge)">
 <!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar cap missatge llevat que tots els destinataris tinguin certificats)">

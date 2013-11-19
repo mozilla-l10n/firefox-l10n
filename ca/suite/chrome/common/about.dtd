@@ -6,6 +6,6 @@
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Actualment esteu al canal d'actualització ">
-<!ENTITY channel.description.end    ".">
-<!ENTITY about.userAgent            "Versió i plataforma:">
+<!ENTITY channel.description.start  "Actualment esteu al canal ">
+<!ENTITY channel.description.end    " d'actualitzacions.">
+<!ENTITY about.userAgent            "Agent d'usuari: ">
