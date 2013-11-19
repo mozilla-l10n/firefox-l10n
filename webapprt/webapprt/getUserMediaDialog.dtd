@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                 "Multimedia partekatzea">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "Partekatu">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "P">
+<!ENTITY getUserMediaDialog.buttonlabelcancel     "Utzi">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "z">
+
+<!ENTITY getUserMediaDialog.video.label           "Hautatu kamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "Bideorik ez">
+<!ENTITY getUserMediaDialog.audio.label           "Hautatu mikrofonoa">
+<!ENTITY getUserMediaDialog.audio.noAudio         "Audiorik ez">

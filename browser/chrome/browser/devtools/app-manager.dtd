@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instalatu simulatzailearen bertsio bat dagokion gehigarria deskargatuz.">
 <!ENTITY connection.installAnotherSimulator "Gehitu">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instalatu simulatzailearen bertsio gehigarri bat dagokion gehigarria deskargatuz.">
+<!ENTITY connection.startRegisteredSimulator "Abiarazi:">
 
 <!ENTITY projects.localApps "Aplikazio lokalak">
 <!ENTITY projects.addApp "Gehitu">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Ireki aplikazio honetara konektatutako garatzaile-tresnak">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://adibidea.net/app/manifest.webapp">
 <!ENTITY projects.noProjects "Proiekturik ez. Gehitu paketatutako aplikazio bat azpian (direktorio lokala) edo ostatatutako aplikazioa (manifestu-fitxategirako lotura).">
+<!ENTITY projects.manifestEditor "Manifestuen editorea">
+<!ENTITY projects.manifestEditorTooltip "Editatu zure aplikazioaren manifestua azpiko panelean. Eguneratu botoiak zure aldaketak gorde eta aplikazioa eguneratuko du.">
+<!ENTITY projects.manifestViewer "Manifestuen ikustailea">
+<!ENTITY projects.manifestViewerTooltip "Arakatu zure aplikazioaren manifestua azpiko panelean.">
 
 <!ENTITY help.title "Aplikazio-kudeatzailea">
 <!ENTITY help.close "Itxi">

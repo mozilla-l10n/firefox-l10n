@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Ireki JavaScript kontsola">
 <!ENTITY appbarFindInPage2.label    "Bilatu orrian">
 <!ENTITY appbarViewOnDesktop2.label "Ikusi mahaigainean">
+<!ENTITY appbarMSMetaData2.label    "Eskuratu gune honetarako aplikazioa">
 
 <!ENTITY topSitesHeader.label        "Gune erabilienak">
 <!ENTITY bookmarksHeader.label       "Laster-markak">
