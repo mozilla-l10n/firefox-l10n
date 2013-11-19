@@ -11,8 +11,9 @@
 
 
 
-
+<!ENTITY archiveExample.label "Мысалы">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Архивтер">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->

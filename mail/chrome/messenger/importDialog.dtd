@@ -34,7 +34,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 
+<!ENTITY cancel.label             "Бас тарту">
 
 
-
-
+<!ENTITY title.label              "Атауы">
+<!ENTITY processing.label         "Импорт жүріп жатыр…">

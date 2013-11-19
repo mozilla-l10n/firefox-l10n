@@ -10,8 +10,8 @@
 
 
 
-
-
+<!ENTITY RemoveButton.label "Өшіру">
+<!ENTITY RemoveButton.accessKey "ш">
 
 <!ENTITY CloseButton.label "Жабу">
 <!ENTITY CloseButton.accessKey "Ж">

@@ -9,14 +9,14 @@
 
 
 
-
-
+<!ENTITY default.label "Әдетті">
+<!ENTITY default.accessKey "Ә">
 
 <!ENTITY standardPalette.label "Қалыпты">
 
 
 
-
-
+<!ENTITY table.label "Кесте">
+<!ENTITY table.accessKey "К">
 
 

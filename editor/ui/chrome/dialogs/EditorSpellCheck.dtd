@@ -9,22 +9,22 @@
 
 
 
+<!ENTITY ignoreButton.label "Елемеу">
+<!ENTITY ignoreButton.accessKey "Е">
 
 
 
 
 
 
+<!ENTITY stopButton.label "Тоқтату">
+<!ENTITY stopButton.accessKey "Т">
 
 
 
 
-
-
-
-
-
-
+<!ENTITY editUserDictionaryButton.label "Түзету…">
+<!ENTITY editUserDictionaryButton.accessKey "Т">
 
 
 

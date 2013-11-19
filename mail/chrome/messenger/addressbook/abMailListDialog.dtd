@@ -5,12 +5,12 @@
 <!-- Labels -->
 
 
-
+<!ENTITY ListDescription.label          "Анықтамасы: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY UpButton.label                 "Жоғары жылжыту">
 <!ENTITY DownButton.label               "Төмен жылжыту">
 <!-- Access Keys -->
 
 
-
+<!ENTITY ListDescription.accesskey      "ы">
 

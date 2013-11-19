@@ -26,12 +26,12 @@
 
 
 
+<!ENTITY DisplayName.label              "Көрсету:">
+<!ENTITY DisplayName.accesskey          "К">
 
 
-
-
-
-
+<!ENTITY NickName.label                 "Бүркеншік аты:">
+<!ENTITY NickName.accesskey             "Б">
 
 
 
@@ -145,10 +145,10 @@
 <!ENTITY DefaultPhoto.label             "Бастапқы">
 
 
+<!ENTITY BrowsePhoto.label              "Қарап шығу">
+<!ENTITY BrowsePhoto.accesskey          "ш">
 
 
 
-
-
-
-
+<!ENTITY UpdatePhoto.label              "Жаңарту">
+<!ENTITY UpdatePhoto.accesskey          "Ж">

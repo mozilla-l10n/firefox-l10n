@@ -4,11 +4,14 @@
 <!-- extracted from am-server-top.xul -->
 
 
+<!ENTITY messageStorage.label "Хабарламалар қоймасы">
 
 
 
 
 
+<!ENTITY userName.label "Пайдаланушы аты:">
+<!ENTITY userName.accesskey "й">
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "Бастапқы:">
@@ -21,7 +24,7 @@
 <!ENTITY biffEnd.label "минут">
 
 
-
+<!ENTITY connectionSecurityType-0.label "Ешнәрсе">
 
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
@@ -65,13 +68,13 @@
 
 
 
+<!ENTITY advancedButton.label "Қосымша…">
+<!ENTITY advancedButton.accesskey "о">
 
 
 
-
-
-
-
+<!ENTITY browseFolder.label "Қарап шығу…">
+<!ENTITY browseFolder.accesskey "ш">
 
 
 

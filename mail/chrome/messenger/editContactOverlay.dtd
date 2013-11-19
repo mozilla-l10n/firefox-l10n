@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY editContactPanelDeleteContact.label "Өшіру">
+<!ENTITY editContactPanelDeleteContact.accesskey "і">
+
+<!ENTITY editContactName.label "Аты:">
+<!ENTITY editContactName.accesskey "А">
 
 
 
+<!ENTITY editContactAddressBook.label "Адрес кітапшасы:">
+<!ENTITY editContactAddressBook.accesskey "А">
 
-
-
-
-
+<!ENTITY editContactPanelCancel.label "Бас тарту">
+<!ENTITY editContactPanelCancel.accesskey "Б">
 
 <!ENTITY editContactPanelDone.label "Дайын">
 <!ENTITY editContactPanelDone.accesskey "Д">

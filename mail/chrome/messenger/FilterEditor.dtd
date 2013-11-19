@@ -8,9 +8,9 @@
 <!ENTITY junk.label "Ескі-құсқы">
 
 
-
-
-
+<!ENTITY lowPriorityCmd.label "Төмен">
+<!ENTITY normalPriorityCmd.label "Кәдімгі">
+<!ENTITY highPriorityCmd.label "Жоғары">
 
 
 

@@ -32,8 +32,8 @@
 
 
 
-
-
+<!ENTITY offlineImapAdvancedOffline.label "Қосымша…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "о">
 
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -48,6 +48,6 @@
 <!ENTITY ageAutosyncMiddle.label         "">
 
 
-
-
+<!ENTITY monthAgeInterval.label          "Айлар">
+<!ENTITY yearAgeInterval.label           "Жылдар">
 <!ENTITY ageAutosyncAfter.label          "">
