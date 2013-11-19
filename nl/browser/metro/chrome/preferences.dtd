@@ -32,10 +32,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Wachtwoorden onthouden">
 <!ENTITY doNotTrack.title                                        "Niet volgen">
-<!ENTITY doNotTrack.desc                                         "Websites laten weten:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.options.noPreference                         "Niets over mijn volgvoorkeuren">
-<!ENTITY doNotTrack.options.trackingOkay                         "Dat ik gevolgd wil worden">
+<!ENTITY doNotTrack.options.doNotTrack                           "Websites laten weten dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.options.doTrack                              "Websites laten weten dat ik gevolgd wil worden">
+<!ENTITY doNotTrack.options.default                              "Websites niets over mijn volgvoorkeuren laten weten">
+<!ENTITY doNotTrack.learnMoreLink                                "Meer info&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Crashreporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; verzendt crashrapporten om Mozilla te helpen uw browser stabieler en veiliger te maken">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
