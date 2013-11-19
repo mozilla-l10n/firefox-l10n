@@ -4,6 +4,21 @@
 
 
 
+<!ENTITY tableTab.label                   "Кесте">
+<!ENTITY cellTab.label                    "Ұяшықтар">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY tableSpacing.label               "Аралығы:">
+<!ENTITY tableSpacing.accessKey           "А">
 
 
 
@@ -16,22 +31,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tableCaptionNone.label           "Ешнәрсе">
 
 
 <!ENTITY cellSelection.label              "Таңдау">
@@ -56,10 +56,10 @@
 
 
 
-
-
-
-
+<!ENTITY cellAlignTop.label               "Жоғары">
+<!ENTITY cellAlignMiddle.label            "Ортаңғы">
+<!ENTITY cellAlignBottom.label            "Төмен">
+<!ENTITY cellAlignJustify.label           "Енi бойынша">
 
 
 <!-- Used in both Table and Cell panels  -->

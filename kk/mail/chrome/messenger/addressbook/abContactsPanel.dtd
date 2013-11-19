@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY addressbookPicker.label            "Адрестік кітапша:">
+<!ENTITY addressbookPicker.accesskey        "к">
 
 
 
 
 <!ENTITY deleteAddrBookCard.label           "Өшіру">
 <!ENTITY deleteAddrBookCard.accesskey       "р">
-
-
+<!ENTITY addrBookCardProperties.label       "Қасиеттері">
+<!ENTITY addrBookCardProperties.accesskey   "а">
 
 
 

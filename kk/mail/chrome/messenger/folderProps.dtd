@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY folderProps.windowtitle.label           "Қасиеттері">
+
 
 
 
@@ -41,19 +43,23 @@
 
 
 
+<!ENTITY folderProps.name.label                  "Аты:">
+<!ENTITY folderProps.name.accesskey              "А">
+<!ENTITY folderProps.location.label              "Орналасуы:">
+<!ENTITY folderProps.location.accesskey          "О">
+
+<!ENTITY folderSharingTab.label                  "Бөлісу">
 
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY folderQuotaUsage.label                  "Қолданылуы:">
+<!ENTITY folderQuotaStatus.label                 "Күйі:">
 
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "белгісіз">
 
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "белгісіз">

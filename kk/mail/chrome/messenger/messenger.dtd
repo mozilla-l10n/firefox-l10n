@@ -28,8 +28,8 @@
 
 
 
-
-
+<!ENTITY newIMAccountCmd.label "Чат тіркелгі…">
+<!ENTITY newIMAccountCmd.accesskey "Ч">
 
 
 
@@ -64,8 +64,8 @@
 
 
 
-
-
+<!ENTITY offlineMenu.label "Желіден тыс">
+<!ENTITY offlineMenu.accesskey "т">
 
 
 
@@ -99,8 +99,8 @@
 <!ENTITY selectMenu.accesskey "а">
 <!ENTITY all.label "Барлығы">
 <!ENTITY all.accesskey "Б">
-
-
+<!ENTITY selectThreadCmd.label "Жіп">
+<!ENTITY selectThreadCmd.accesskey "Ж">
 <!ENTITY selectThreadCmd.key "а">
 
 
@@ -144,7 +144,8 @@
 
 
 
-
+<!ENTITY folderView.label "Бумалар">
+<!ENTITY folderView.accesskey "Б">
 
 
 <!ENTITY allFolders.label "Барлығы">
@@ -159,24 +160,24 @@
 
 
 
+<!ENTITY sortByReceivedCmd.label "Алынған">
+<!ENTITY sortByReceivedCmd.accesskey "н">
 
 
-
-
-
-
+<!ENTITY sortByAttachmentsCmd.label "Тіркемелер">
+<!ENTITY sortByAttachmentsCmd.accesskey "м">
 
 
 <!ENTITY sortBySizeCmd.label "Өлшемі">
 <!ENTITY sortBySizeCmd.accesskey "ш">
+<!ENTITY sortByStatusCmd.label "Күй-жайы">
+<!ENTITY sortByStatusCmd.accesskey "ж">
 
 
 
 
-
-
-
-
+<!ENTITY sortBySubjectCmd.label "Тегтер">
+<!ENTITY sortBySubjectCmd.accesskey "т">
 <!ENTITY sortByFromCmd.label "Кімнен">
 <!ENTITY sortByFromCmd.accesskey "м">
 
@@ -197,10 +198,10 @@
 
 
 
-
-
-
-
+<!ENTITY threads.label "Ағындар">
+<!ENTITY threads.accesskey "н">
+<!ENTITY allMsgsCmd.label "Барлығы">
+<!ENTITY allMsgsCmd.accesskey "Б">
 
 
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -216,11 +217,12 @@
 
 
 
-
-
-
-
-
+<!ENTITY headersMenu.label "Айдарлар">
+<!ENTITY headersMenu.accesskey "А">
+<!ENTITY headersAllCmd.label "Барлығы">
+<!ENTITY headersAllCmd.accesskey "Б">
+<!ENTITY headersNormalCmd.label "Қалыпты">
+<!ENTITY headersNormalCmd.accesskey "Қ">
 
 
 
@@ -264,6 +266,12 @@
 
 <!-- Go Menu -->
 
+<!ENTITY goMenu.label "Өту">
+<!ENTITY goMenu.accesskey "Ө">
+<!ENTITY nextMenu.label "Келесі">
+<!ENTITY nextMenu.accesskey "К">
+<!ENTITY nextMsgCmd.label "Хабарлама">
+<!ENTITY nextMsgCmd.accesskey "Х">
 
 
 
@@ -273,12 +281,8 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY prevMenu.label "Алдыңғы">
+<!ENTITY prevMenu.accesskey "А">
 
 
 
@@ -298,14 +302,27 @@
 
 
 
-
-
-
-
+<!ENTITY thisFolder.label "Бұл бума">
+<!ENTITY thisFolder.accesskey "б">
+<!ENTITY goRecentlyClosedTabs.label "Жақында жабылған беттер">
+<!ENTITY goRecentlyClosedTabs.accesskey "ы">
 
 
 <!-- Message Menu -->
 
+<!ENTITY msgMenu.label "Хабарлама">
+<!ENTITY msgMenu.accesskey "Х">
+
+
+<!ENTITY newNewMsgCmd.label "Хабарлама">
+<!ENTITY newNewMsgCmd.accesskey "Х">
+<!ENTITY archiveMsgCmd.label "Архивтеу">
+<!ENTITY archiveMsgCmd.accesskey "А">
+
+
+
+<!ENTITY replyMsgCmd.label "Жауап беру">
+<!ENTITY replyMsgCmd.accesskey "Ж">
 
 
 
@@ -322,34 +339,23 @@
 
 
 
+<!ENTITY forwardAsInline.label "Мәтін бетінде">
+<!ENTITY forwardAsInline.accesskey "М">
+<!ENTITY forwardAsAttachmentCmd.label "Салыным">
+<!ENTITY forwardAsAttachmentCmd.accesskey "а">
 
 
 
 
 
+<!ENTITY moveMsgToMenu.label "Мынаған жылжыту">
+<!ENTITY moveMsgToMenu.accesskey "М">
+<!ENTITY moveCopyMsgRecentMenu.label "Соңғы">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "о">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY copyMsgToMenu.label "Мынаған көшіріп алу">
+<!ENTITY copyMsgToMenu.accesskey "к">
 
 
 
@@ -433,6 +439,15 @@
 
 
 
+<!ENTITY addons.label "Қосымшалар">
+<!ENTITY addons.accesskey "с">
+
+
+
+
+<!ENTITY imStatus.available          "Қолжетерлік">
+<!ENTITY imStatus.unavailable        "Қолжетерсіз">
+<!ENTITY imStatus.offline            "Желіде емес">
 
 
 
@@ -451,24 +466,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY importCmd.label "Импорттау…">
+<!ENTITY importCmd.accesskey "м">
 <!ENTITY errorConsoleCmd.label "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey "к">
 
 <!ENTITY clearRecentHistory.label "Соңғы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey "х">
-
-
+<!ENTITY accountManagerCmd.label "Тіркелгі баптаулары…">
+<!ENTITY accountManagerCmd.accesskey "б">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 
@@ -530,7 +536,7 @@
 
 
 
-
+<!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 
 
 
@@ -542,6 +548,8 @@
 <!-- Toolbar Button Popup -->
 
 <!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "Жаңа хат">
 
 <!ENTITY appmenuEditMenu.label "Түзету">
 <!ENTITY appmenuToolbarLayout.label "Панельдер орналасуы…">
@@ -585,8 +593,8 @@
 
 
 
-
-
+<!ENTITY folderContextProperties.label "Қасиеттері…">
+<!ENTITY folderContextProperties.accesskey "с">
 
 
 <!ENTITY folderContextSettings.label "Баптаулар…">
@@ -608,19 +616,21 @@
 
 
 
+<!ENTITY accountColumn.label "Тіркелгі">
+<!ENTITY statusColumn.label "Күйі">
+<!ENTITY sizeColumn.label "Өлшемі">
+
+
+<!ENTITY totalColumn.label "Жалпы">
+<!ENTITY readColumn.label "Оқу">
+<!ENTITY receivedColumn.label "Алынған">
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Көрсетілетін бағандарды таңдау үшін басыңыз">
 
 
 
@@ -671,22 +681,22 @@
 
 
 
+<!ENTITY contextMoveMsgMenu.label "Мынаған жылжыту">
+<!ENTITY contextMoveMsgMenu.accesskey "М">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Соңғы">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "о">
+<!ENTITY contextCopyMsgMenu.label "Мынаған көшіріп алу">
+<!ENTITY contextCopyMsgMenu.accesskey "к">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contextSaveAs.label "Қалайша сақтау...">
+<!ENTITY contextSaveAs.accesskey "Қ">
+<!ENTITY contextPrint.label "Баспаға шығару…">
+<!ENTITY contextPrint.accesskey "ш">
+<!ENTITY contextPrintPreview.label "Алдын-ала қарау">
+<!ENTITY contextPrintPreview.accesskey "А">
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
    This option in the thread pane column picker causes us to reset the
@@ -732,9 +742,12 @@
 <!-- Media (video/audio) controls -->
 
 
-
-
-
+<!ENTITY contextPlay.label "Ойнау">
+<!ENTITY contextPlay.accesskey "О">
+<!ENTITY contextPause.label "Аялдату">
+<!ENTITY contextPause.accesskey "А">
+<!ENTITY contextMute.label "Даусын сөндіру">
+<!ENTITY contextMute.accesskey "Д">
 
 
 <!-- Junk Bar -->
@@ -800,26 +813,30 @@
 
 <!-- Content Pane Context Menu -->
 
+<!ENTITY saveImageAsCmd.label "Суретті қалайша сақтау…">
+<!ENTITY saveImageAsCmd.accesskey "у">
+<!ENTITY copyLinkCmd.label "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.accesskey "С">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY copyEmailCmd.label "Электронды пошта адресін көшіру">
+<!ENTITY copyEmailCmd.accesskey "п">
+<!ENTITY stopCmd.label "Тоқтату">
+<!ENTITY stopCmd.accesskey "Т">
+<!ENTITY reloadCmd.label "Қайта жүктеу">
+<!ENTITY reloadCmd.accesskey "а">
 
 
 
 
 <!-- Statusbar -->
+
+<!ENTITY statusText.label "Дайын">
 <!--  Mac OS X Window Menu -->
 
+<!ENTITY minimizeWindow.label "Қайыру">
 
+<!ENTITY bringAllToFront.label "Барлығын алдына қою">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
@@ -831,4 +848,4 @@
 
 
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-
+<!ENTITY showAllAppsCmdMac.label        "Барлығын көрсету">

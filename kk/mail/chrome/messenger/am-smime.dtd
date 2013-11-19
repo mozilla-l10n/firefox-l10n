@@ -25,7 +25,8 @@
 
 
 
+<!ENTITY certificates.label "Сертификаттар">
 
 
-
-
+<!ENTITY manageDevices.label "Қорғаныс жабдықтары">
+<!ENTITY manageDevices.accesskey "ж">

@@ -51,6 +51,6 @@
 
 
 <!ENTITY PreviewModeTab.label "Алдын-ала қарау">
-
-
+<!ENTITY PreviewMode.label "Карап-шығу">
+<!ENTITY PreviewMode.accesskey "К">
 

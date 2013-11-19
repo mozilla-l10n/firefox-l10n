@@ -6,15 +6,16 @@
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 
+<!ENTITY smtpListEdit.label "Өзгерту…">
+<!ENTITY smtpListEdit.accesskey "Ө">
+<!ENTITY smtpListDelete.label "Өшіру">
+<!ENTITY smtpListDelete.accesskey "ш">
 
 
 
+<!ENTITY serverDescription.label "Анықтамасы: ">
 
 
-
-
-
-
-
+<!ENTITY userName.label   "Пайдаланушы аты:">
 
 

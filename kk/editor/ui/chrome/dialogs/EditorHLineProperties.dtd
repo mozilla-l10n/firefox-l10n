@@ -10,14 +10,14 @@
 
 <!ENTITY pixelsPopup.value "пиксель">
 
+<!ENTITY leftRadio.label "Сол жақ">
+<!ENTITY leftRadio.accessKey "С">
 
 
+<!ENTITY rightRadio.label "Оң жақ">
+<!ENTITY rightRadio.accessKey "О">
 
 
-
-
-
-
-
-
+<!ENTITY saveSettings.label "Бастапқы ретінде қолдану">
+<!ENTITY saveSettings.accessKey "т">
 

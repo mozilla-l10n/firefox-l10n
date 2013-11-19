@@ -4,7 +4,7 @@
 
 <!ENTITY Window.title        "Мазмұнының кестесі">
 
-
+<!ENTITY tag.label           "Белгісі:">
 
 <!ENTITY header1.label       "Деңгей 1">
 <!ENTITY header2.label       "Деңгей 2">

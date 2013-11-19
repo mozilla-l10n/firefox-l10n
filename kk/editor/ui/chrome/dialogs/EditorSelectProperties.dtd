@@ -19,8 +19,9 @@
 
 
 
-
-
+<!ENTITY Option.label "Параметр">
+<!ENTITY OptionText.label "Мәтіні:">
+<!ENTITY OptionText.accesskey "М">
 
 
 
@@ -35,9 +36,9 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY RemoveElement.label "Өшіру">
+<!ENTITY RemoveElement.accesskey "ш">
+<!ENTITY MoveElementUp.label "Жоғарлату">
+<!ENTITY MoveElementUp.accesskey "Ж">
+<!ENTITY MoveElementDown.label "Төмендету">
+<!ENTITY MoveElementDown.accesskey "Т">

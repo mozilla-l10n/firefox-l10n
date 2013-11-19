@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY PrimaryEmail.label                    "Эл.пошта">
+<!ENTITY PrimaryEmail.accesskey                "Э">
+<!ENTITY Company.label                         "Мекеме">
+<!ENTITY Company.accesskey                     "М">
+
+
+<!ENTITY NickName.label                        "Бүркеншік аты:">
+<!ENTITY NickName.accesskey                    "р">
+
+
+
+
+<!ENTITY JobTitle.label                        "Атағы">
+<!ENTITY JobTitle.accesskey                    "А">
 
 
 
@@ -14,21 +28,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sortAscending.label                   "Өсу ретімен">
+<!ENTITY sortAscending.accesskey               "с">
+<!ENTITY sortDescending.label                  "Кему ретімен">
+<!ENTITY sortDescending.accesskey              "К">
