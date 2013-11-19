@@ -73,10 +73,11 @@
 <!ENTITY projects.updateAppTooltip "Ejecuta las revisiones de validación y actualiza la app del dispositivo conectado">
 <!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Abrir las Herramientas de desarrollador conectadas a esta app">
+<!ENTITY projects.saveManifest "Guardar">
+<!ENTITY projects.saveManifestTooltip "Guardar los contenidos del Editor de Manifest de abajo.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hay proyectos. Añada una nueva app empaquetada a continuación (un directorio local) o una app hospedada (enlace a un archivo manifest).">
 <!ENTITY projects.manifestEditor "Editor de archivo Manifest">
-
 <!ENTITY projects.manifestEditorTooltip "Edite el manifest de su app en el panel a continuación. El botón Actualizar guardará sus cambios y actualizará la app.">
 <!ENTITY projects.manifestViewer "Visor de Manifest">
 <!ENTITY projects.manifestViewerTooltip "Examine el manifest de su app en el panel a continuación.">
