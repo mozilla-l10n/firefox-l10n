@@ -1,42 +1,63 @@
-<!ENTITY pluginWizard.title "خدمة إيجاد الملحقات">
-<!ENTITY pluginWizard.firstPage.title "مرحبا في &pluginWizard.title;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pluginWizard.title                                  "خدمة إيجاد الملحقات">
+<!ENTITY pluginWizard.firstPage.title                        "مرحبا في &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "يبحث &brandShortName; عن الملحقات المتوفّرة…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "يبحث &brandShortName; عن الملحقات المتوفّرة…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "تنزيلات الملحقات المتوفّرة">
+<!ENTITY pluginWizard.availablePluginsPage.title             "تنزيلات الملحقات المتوفّرة">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "تتوفر الملحقات التّالية:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "انقر التّالي لتثبيت هذه الملحقات.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "قد تطلب بعض الملحقات معلومات إضافية منك خلال التّثبيت.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "قد تطلب بعض الملحقات معلومات إضافية منك خلال التّثبيت.">
 
-<!ENTITY pluginWizard.licensePage.title "تراخيص الملحقات">
-<!ENTITY pluginWizard.licensePage.accept.label "أوافق.">
-<!ENTITY pluginWizard.licensePage.deny.label "لا أوافق (لن يُثبّت الملحق).">
+<!ENTITY pluginWizard.licensePage.title                      "تراخيص الملحقات">
+<!ENTITY pluginWizard.licensePage.accept.label               "أوافق.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "لا أوافق (لن تُثبّت الملحقة).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "تثبيت الملحقات">
-<!ENTITY pluginWizard.installPluginsPage.description.label "يُثبّت &brandShortName; المُلحقات…">
+<!ENTITY pluginWizard.installPluginsPage.title               "تثبيت الملحقات">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "يُثبّت &brandShortName; المُلحقات…">
 
-<!ENTITY pluginWizard.finalPage.description.label "أنهى &brandShortName; تثبيت الملحقات المفقودة:">
+<!ENTITY pluginWizard.finalPage.description.label            "أنهى &brandShortName; تثبيت الملحقات المفقودة:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "اعرف المزيد عن الملحقات أو ابحث عن الملحقات المفقودة يدويًّا.">
-<!ENTITY pluginWizard.finalPage.restart.label "يحتاج &brandShortName; إلى إعادة التشغيل لتعمل الملحق(ات).">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "اعرف المزيد عن الملحقات أو ابحث عن الملحقات المفقودة يدويًّا.">
+<!ENTITY pluginWizard.finalPage.restart.label                "يحتاج &brandShortName; إلى إعادة التشغيل لتعمل الملحق‍(‍ات).">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
 
-<!ENTITY missingPlugin "تحتاج تثبيت ملحق لمشاهدة هذا المحتوى.">
-<!ENTITY disabledPlugin "هذا الملحق معطل.">
-<!ENTITY blockedPlugin.label "لقد مُنع هذا الملحق من أجل حمايتك.">
+<!ENTITY unsupportedPlatform.pre                             "نأسف لهذا، لكن &brandShortName; لا يستطيع تشغيل فلاش على هذا الجهاز. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "اطّلع على المزيد…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
 
-<!ENTITY installPlugin "ثبّت الملحق…">
-<!ENTITY managePlugins "إدارة الملحقات…">
+<!ENTITY missingPlugin                                       "تحتاج تثبيت ملحقة لمشاهدة هذا المحتوى.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "اضغط هنا لتفعيل الملحقة.">
+<!ENTITY clickToActivatePlugin                               "فعّل المُلحقة.">
+<!ENTITY checkForUpdates                                     "التمس التحديثات…">
+<!ENTITY disabledPlugin                                      "هذه الملحقة معطلة.">
+<!ENTITY blockedPlugin.label                                 "لقد مُنعت هذه الملحقة لحمايتك.">
+<!ENTITY hidePluginBtn.label                                 "أخفِ الملحقة">
+<!ENTITY installPlugin                                       "ثبّت الملحقة…">
+<!ENTITY managePlugins                                       "إدارة الملحقات…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
-<!ENTITY reloadPlugin.pre "">
-<!ENTITY reloadPlugin.middle "أعِد تحميل الصفحة">
-<!ENTITY reloadPlugin.post " للمحاولة من جديد.">
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "أعِد تحميل الصفحة">
+<!ENTITY reloadPlugin.post                                   " للمحاولة من جديد.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please "أرسِل بلاغ انهيار">
-<!ENTITY report.submitting "يرسل البلاغ…">
-<!ENTITY report.submitted "أُرسل البلاغ.">
-<!ENTITY report.disabled "التبليغ بالانهيار معطل.">
-<!ENTITY report.failed "فشل الإرسال.">
-<!ENTITY report.unavailable "لا بلاغ متاح.">
+<!ENTITY report.please                                       "أرسِل بلاغ انهيار">
+<!ENTITY report.submitting                                   "يرسل البلاغ…">
+<!ENTITY report.submitted                                    "أُرسل البلاغ.">
+<!ENTITY report.disabled                                     "التبليغ بالانهيار معطل.">
+<!ENTITY report.failed                                       "فشل الإرسال.">
+<!ENTITY report.unavailable                                  "لا بلاغ متاح.">
+<!ENTITY report.comment                                      "أضِف تعليقًا. ملحوظة: التعليقات متاحة للعموم">
+<!ENTITY report.pageURL                                      "ضمِّن مسار الصفحة">
+
+<!ENTITY plugin.file                                         "الملف">
+<!ENTITY plugin.mimeTypes                                    "أنواع MIME">

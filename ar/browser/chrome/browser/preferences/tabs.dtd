@@ -2,20 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label "افتح النوافذ الجديدة في ألسنة بدل النوافذ">
-<!ENTITY newWindowsAsTabs.accesskey "ذ">
+<!ENTITY newWindowsAsTabs.label       "افتح النوافذ الجديدة في ألسنة بدل النوافذ">
+<!ENTITY newWindowsAsTabs.accesskey   "ذ">
 
-<!ENTITY warnCloseMultipleTabs.label "نبّهني عند محاولة إغلاق عدّة ألسنة">
-<!ENTITY warnCloseMultipleTabs.accesskey "ة">
+<!ENTITY warnCloseMultipleTabs.label  "نبّهني عند محاولة إغلاق عدّة ألسنة">
+<!ENTITY warnCloseMultipleTabs.accesskey  "ة">
 
-<!ENTITY warnOpenManyTabs.label "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "ف">
+<!ENTITY warnOpenManyTabs.label       "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "ف">
 
-<!ENTITY showTabBar.label "أظهر شريط الألسنة دوما">
-<!ENTITY showTabBar.accesskey "ش">
+<!ENTITY restoreTabsOnDemand.label        "لا تحمّل الألسنة إلا بعد اختيارها">
+<!ENTITY restoreTabsOnDemand.accesskey    "خ">
 
-<!ENTITY switchToNewTabs.label "عند فتح وصلة في لسان جديد، انتقل إليها مباشرة">
-<!ENTITY switchToNewTabs.accesskey "ل">
+<!ENTITY switchToNewTabs.label        "عند فتح وصلة في لسان جديد، انتقل إليها مباشرة">
+<!ENTITY switchToNewTabs.accesskey    "ل">
 
-<!ENTITY showTabsInTaskbar.label "أظهِر معاينات للألسنة في شريط مهام ويندوز">
-<!ENTITY showTabsInTaskbar.accesskey "و">
+<!ENTITY showTabsInTaskbar.label          "أظهِر معاينات للألسنة في شريط مهام ويندوز">
+<!ENTITY showTabsInTaskbar.accesskey      "و">
+<!ENTITY tabsGroup.label          "الألسنة">

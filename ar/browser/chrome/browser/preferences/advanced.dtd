@@ -1,51 +1,70 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "عام">
 
-<!ENTITY accessibility.label "الإعانة">
+<!ENTITY generalTab.label                "عام">
 
-<!ENTITY useCursorNavigation.label "استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات">
-<!ENTITY useCursorNavigation.accesskey "س">
-<!ENTITY searchStartTyping.label "ابحث عن النص عندما أبدأ الكتابة">
-<!ENTITY searchStartTyping.accesskey "ح">
-<!ENTITY blockAutoRefresh.label "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
-<!ENTITY blockAutoRefresh.accesskey "و">
+<!ENTITY accessibility.label             "الإتاحة">
 
-<!ENTITY browsing.label "التّصفّح">
+<!ENTITY useCursorNavigation.label       "استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات">
+<!ENTITY useCursorNavigation.accesskey   "س">
+<!ENTITY searchStartTyping.label         "ابحث عن النص عندما أبدأ الكتابة">
+<!ENTITY searchStartTyping.accesskey     "ح">
+<!ENTITY blockAutoRefresh.label          "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
+<!ENTITY blockAutoRefresh.accesskey      "و">
 
-<!ENTITY useAutoScroll.label "استخدم اللّف الآلي">
-<!ENTITY useAutoScroll.accesskey "ف">
-<!ENTITY useSmoothScrolling.label "استخدم اللّف السلس">
-<!ENTITY useSmoothScrolling.accesskey "خ">
-<!ENTITY allowHWAccel.label "استخدم تسريع العتاد إن كان متاحًا">
-<!ENTITY allowHWAccel.accesskey "ع">
-<!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
-<!ENTITY checkSpelling.accesskey "ك">
+<!ENTITY browsing.label                  "التّصفّح">
 
-<!ENTITY systemDefaults.label "مبدئيّات النظام">
+<!ENTITY useAutoScroll.label             "استخدم اللّف الآلي">
+<!ENTITY useAutoScroll.accesskey         "ف">
+<!ENTITY useSmoothScrolling.label        "استخدم اللّف السلس">
+<!ENTITY useSmoothScrolling.accesskey    "خ">
+<!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
+<!ENTITY allowHWAccel.accesskey          "ع">
+<!ENTITY checkSpelling.label             "دقق الإملاء أثناء الكتابة">
+<!ENTITY checkSpelling.accesskey         "ك">
+
+<!ENTITY systemDefaults.label            "مبدئيّات النظام">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
-<!ENTITY alwaysCheckDefault.accesskey "د">
-<!ENTITY checkNow.label "تحقق الآن">
-<!ENTITY checkNow.accesskey "ن">
-<!ENTITY submitCrashes.label "أرسِل بلاغًا بالانهيار">
-<!ENTITY submitCrashes.accesskey "غ">
-<!ENTITY submitTelemetry.label "أرسِل بيانات الأداء">
-<!ENTITY submitTelemetry.accesskey "ء">
+<!ENTITY alwaysCheckDefault.label        "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
+<!ENTITY alwaysCheckDefault.accesskey    "د">
+<!ENTITY setDefault.label                "اجعل &brandShortName; المتصفّح المبدئي">
+<!ENTITY setDefault.accesskey            "ص">
+<!ENTITY isDefault.label                 "‏&brandShortName; هو المتصفح المبدئي حاليا">
 
-<!ENTITY networkTab.label "الشبكة">
+<!ENTITY dataChoicesTab.label            "اختيارات البيانات">
 
-<!ENTITY connection.label "الاتصال">
+<!ENTITY healthReportSection.label       "تقرير حالة &brandShortName;">
+<!ENTITY healthReportDesc.label          "يساعدك في تفحص أداء متصفحك ومشاركة بيانات حالة المتصفح مع &vendorShortName; ">
+<!ENTITY enableHealthReport.label        "فعّل تقرير حالة &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "ت">
+<!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
-<!ENTITY connectionDesc.label "اضبط كيفية اتصال &brandShortName; بالإنترنت">
-<!ENTITY connectionSettings.label "الإعدادات…">
-<!ENTITY connectionSettings.accesskey "ع">
+<!ENTITY telemetrySection.label          "تليمتري">
+<!ENTITY telemetryDesc.label             "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
+<!ENTITY enableTelemetry.label           "فعّل أداة تليمتري">
+<!ENTITY enableTelemetry.accesskey       "ت">
+<!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
-<!ENTITY offlineStorage.label "الحفظ للاستخدام دون اتصال">
+<!ENTITY crashReporterSection.label      "مُبلّغ الانهيار">
+<!ENTITY crashReporterDesc.label         "يُرسل &brandShortName; بلاغات الانهيار إلى &vendorShortName; للمساعدة في تحسين أداء متصفحك و استقراره">
+<!ENTITY enableCrashReporter.label       "فعّل مبلّغ الانهيار">
+<!ENTITY enableCrashReporter.accesskey   "ن">
+<!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
+
+<!ENTITY networkTab.label                "الشبكة">
+
+<!ENTITY connection.label                "الاتصال">
+
+<!ENTITY connectionDesc.label            "اضبط كيفية اتصال &brandShortName; بالإنترنت">
+<!ENTITY connectionSettings.label        "الإعدادات…">
+<!ENTITY connectionSettings.accesskey    "ع">
+
+<!ENTITY httpCache.label                 "محتوى الوب المخزّن">
+
+<!ENTITY offlineStorage2.label           "محتوى الوب ومعلومات المستخدمة المخزّنة للعمل دون اتصال">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -53,62 +72,66 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label "استعمل حتى">
-<!ENTITY limitCacheSizeBefore.accesskey "ح">
-<!ENTITY limitCacheSizeAfter.label "م.بايت من المساحة للذّاكرة الخبيئة">
-<!ENTITY clearCacheNow.label "امسح الآن">
-<!ENTITY clearCacheNow.accesskey "م">
-<!ENTITY overrideSmartCacheSize.label "تجاهل الإدارة الآلية للذاكرة الخبيئة">
+<!ENTITY limitCacheSizeBefore.label      "استعمل حتى">
+<!ENTITY limitCacheSizeBefore.accesskey  "ح">
+<!ENTITY limitCacheSizeAfter.label       "م.بايت من المساحة للذّاكرة الخبيئة">
+<!ENTITY clearCacheNow.label             "امسح الآن">
+<!ENTITY clearCacheNow.accesskey         "م">
+<!ENTITY clearOfflineAppCacheNow.label   "امسح الآن">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ن">
+<!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
-<!ENTITY updateTab.label "تحديث">
+<!ENTITY updateTab.label                 "تحديث">
 
-<!ENTITY autoCheck.label "التمس آليًا تحديثات:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "ف">
-<!ENTITY enableAddonsUpdate2.label "الإضافات">
-<!ENTITY enableAddonsUpdate2.accesskey "ض">
-<!ENTITY enableSearchUpdate.label "محركات البحث">
-<!ENTITY enableSearchUpdate.accesskey "ح">
-<!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل&brandShortName;:">
-<!ENTITY askMe.label "اسألني ماذا أريد أفعل">
-<!ENTITY askMe.accesskey "س">
-<!ENTITY modeAutomatic.label "نزِّل وثبِّت التحديث آليًا">
-<!ENTITY modeAutomatic.accesskey "ن">
-<!ENTITY modeAutoAddonWarn.label "نبّهني إذا كان هذا سيعطّل أي إضافات">
-<!ENTITY modeAutoAddonWarn.accesskey "ب">
-<!ENTITY updateHistory.label "أظهر تأريخ التحديث">
-<!ENTITY updateHistory.accesskey "ظ">
+<!ENTITY updateApp.label                 "تحديثات &brandShortName;:">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
+<!ENTITY updateAuto1.accesskey           "ل">
+<!ENTITY updateAutoMetro.label           "حدّث تلقائيا من &brandShortName; سطح المكتب و بواجهة وندوز ٨">
+<!ENTITY updateAutoMetro.accesskey       "س">
+<!ENTITY updateCheck.label               "التمس التحديثات، ولكن اترك لي خيار تثبيتها من عدمه">
+<!ENTITY updateCheck.accesskey           "ت">
+<!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
+<!ENTITY updateManual.accesskey          "د">
 
-<!ENTITY offlineNotify.label "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال.">
-<!ENTITY offlineNotify.accesskey "ه">
-<!ENTITY offlineNotifyExceptions.label "الاستثناءات…">
+<!ENTITY updateAutoAddonWarn.label       "حذرني لو أن هذا سيعطل أيًّا من إضافاتي">
+<!ENTITY updateAutoAddonWarn.accesskey   "ط">
+
+<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; بواجهة وندوز ٨؛ لا يتحقق من توافقية الإضافات)">
+
+<!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
+<!ENTITY updateHistory.accesskey         "ظ">
+
+<!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتثبيت التحديثات">
+<!ENTITY useService.accesskey            "خ">
+
+<!ENTITY updateOthers.label              "تحديث تلقائي:">
+<!ENTITY enableSearchUpdate.label        "محركات البحث">
+<!ENTITY enableSearchUpdate.accesskey    "ح">
+
+<!ENTITY offlineNotify.label             "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
+<!ENTITY offlineNotify.accesskey         "ه">
+<!ENTITY offlineNotifyExceptions.label   "الاستثناءات…">
 <!ENTITY offlineNotifyExceptions.accesskey "ث">
 
-<!ENTITY offlineAppsList.label "للمواقع التالية بيانات منزّلة للاستخدام دون اتصال:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "احذف…">
+<!ENTITY offlineAppsList2.label          "يسمح للمواقع التالية بتخزين بيانات للعمل دون اتصال:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "احذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
-<!ENTITY offlineAppRemove.confirm "احذف بيانات الاستخدام دون اتصال">
+<!ENTITY offlineAppRemove.confirm        "احذف بيانات الاستخدام دون اتصال">
 
-<!ENTITY encryptionTab.label "التعمية">
-
-<!ENTITY protocols.label "البروتوكولات">
-<!ENTITY useSSL3.label "استعمل SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "استعمل TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "الشّهادات">
-<!ENTITY certSelection.description "عندما يطلب خادوم شهادتي الشخصيّة:">
-<!ENTITY certs.auto "حدد واحدة آليّا">
-<!ENTITY certs.auto.accesskey "ل">
-<!ENTITY certs.ask "اسألني كلّ مرّة">
-<!ENTITY certs.ask.accesskey "س">
-<!ENTITY viewCerts.label "أظهر الشهادات">
-<!ENTITY viewCerts.accesskey "ظ">
-<!ENTITY viewCRLs.label "قوائم النقض">
-<!ENTITY viewCRLs.accesskey "ق">
-<!ENTITY verify2.label "التحقّق">
-<!ENTITY verify2.accesskey "ت">
-<!ENTITY viewSecurityDevices.label "أجهزة الأمن">
-<!ENTITY viewSecurityDevices.accesskey "ج">
+<!ENTITY certificateTab.label            "الشّهادات">
+<!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصيّة:">
+<!ENTITY certs.auto                      "حدد واحدة آليّا">
+<!ENTITY certs.auto.accesskey            "ل">
+<!ENTITY certs.ask                       "اسألني كلّ مرّة">
+<!ENTITY certs.ask.accesskey             "س">
+<!ENTITY viewCerts.label                 "أظهر الشهادات">
+<!ENTITY viewCerts.accesskey             "ظ">
+<!ENTITY verify2.label                   "التحقّق">
+<!ENTITY verify2.accesskey               "ت">
+<!ENTITY viewSecurityDevices.label       "أجهزة الأمن">
+<!ENTITY viewSecurityDevices.accesskey   "ج">

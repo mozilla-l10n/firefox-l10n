@@ -4,13 +4,13 @@
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 
-<!ENTITY editorWindow.titlemodifier "Composer">
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "شريط أدوات الإنشاء">
+<!ENTITY compositionToolbar.tooltip "شريط أدوات التحرير">
 <!ENTITY previewToolbarCmd.label "تصفح">
 <!ENTITY previewToolbarCmd.tooltip "يحمّل هذه الصفحة في المتصفح">
 <!-- File menu items -->
@@ -23,7 +23,7 @@
 <!ENTITY sendPageCmd.accesskey "ر">
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "شريط أدوات الإنشاء">
+<!ENTITY compositionToolbarCmd.label "شريط أدوات التحرير">
 <!ENTITY compositionToolbarCmd.accesskey "ش">
 <!ENTITY formattingToolbarCmd.label "شريط أدوات التنسيق">
 <!ENTITY formattingToolbarCmd.accesskey "س">
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "معاينة">
 <!ENTITY PreviewMode.label "عاين">
 <!ENTITY PreviewMode.accesskey "ن">
-<!ENTITY PreviewMode.tooltip "عرض WYSIWYG (كما في المتصفح)">
+<!ENTITY PreviewMode.tooltip "يعرض التنسيق بصورته النهائية (كما في المتصفح)">

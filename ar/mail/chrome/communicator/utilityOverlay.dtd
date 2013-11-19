@@ -1,63 +1,63 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- these things need to move into utilityOverlay.xul -->
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 
-<!ENTITY fileMenu.label "ملف">
-<!ENTITY fileMenu.accesskey "م">
-<!ENTITY newMenu.label "جديد">
-<!ENTITY newMenu.accesskey "ج">
 
-<!ENTITY editMenu.label "تحرير">
-<!ENTITY editMenu.accesskey "ح">
-<!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ر">
-<!ENTITY redoCmd.label "أعد">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "ع">
-<!ENTITY cutCmd.label "قصّ">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ص">
-<!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "خ">
-<!ENTITY pasteCmd.label "الصق">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "ل">
-<!ENTITY deleteCmd.label "احذف">
-<!ENTITY deleteCmd.accesskey "ذ">
-<!ENTITY selectAllCmd.label "حدِّد الكلّ">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY preferencesCmd.label "الخيارات…">
-<!ENTITY preferencesCmd.accesskey "ا">
-<!ENTITY preferencesCmdUnix.label "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey "ض">
+<!ENTITY fileMenu.label          "ملف">
+<!ENTITY fileMenu.accesskey        "م">
+<!ENTITY newMenu.label            "جديد">
+<!ENTITY newMenu.accesskey          "ج">
 
-<!ENTITY viewMenu.label "عرض">
-<!ENTITY viewMenu.accesskey "ع">
-<!ENTITY viewToolbarsMenu.label "أشرطة الأدوات">
-<!ENTITY viewToolbarsMenu.accesskey "ش">
-<!ENTITY showTaskbarCmd.label "شريط الحالة">
-<!ENTITY showTaskbarCmd.accesskey "ط">
+<!ENTITY editMenu.label          "تحرير">
+<!ENTITY editMenu.accesskey        "ح">
+<!ENTITY undoCmd.label            "تراجع">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "ر">
+<!ENTITY redoCmd.label            "أعد">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "ع">
+<!ENTITY cutCmd.label            "قصّ">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "ص">
+<!ENTITY copyCmd.label            "انسخ">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "خ">
+<!ENTITY pasteCmd.label            "الصق">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "ل">
+<!ENTITY deleteCmd.label          "احذف">
+<!ENTITY deleteCmd.accesskey        "ذ">
+<!ENTITY selectAllCmd.label          "حدِّد الكلّ">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "ك">
+<!ENTITY preferencesCmd.label        "الخيارات…">
+<!ENTITY preferencesCmd.accesskey      "ا">
+<!ENTITY preferencesCmdUnix.label       "التفضيلات">
+<!ENTITY preferencesCmdUnix.accesskey     "ض">
 
-<!ENTITY proxy.label "إعداد الوسيط…">
-<!ENTITY proxy.accesskey "و">
+<!ENTITY viewMenu.label          "عرض">
+<!ENTITY viewMenu.accesskey        "ع">
+<!ENTITY viewToolbarsMenu.label        "أشرطة الأدوات">
+<!ENTITY viewToolbarsMenu.accesskey      "ش">
+<!ENTITY showTaskbarCmd.label          "شريط الحالة">
+<!ENTITY showTaskbarCmd.accesskey        "ط">
 
-<!ENTITY closeCmd.label "أغلق">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "غ">
+<!ENTITY proxy.label                                    "إعداد الوسيط…">
+<!ENTITY proxy.accesskey                                "و">
 
-<!ENTITY quitApplicationCmd.label "اخرج">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "ج">
+<!ENTITY closeCmd.label      "أغلق">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "غ">
 
-<!ENTITY quitApplicationCmdUnix.label "أنهِ">
-<!ENTITY quitApplicationCmdUnix.accesskey "ن">
+<!ENTITY quitApplicationCmd.label  "اخرج">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "ج">
 
-<!ENTITY quitApplicationCmdMac.label "أنهِ &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "ه">
+<!ENTITY quitApplicationCmdUnix.label  "أنهِ">
+<!ENTITY quitApplicationCmdUnix.accesskey  "ن">
+
+<!ENTITY quitApplicationCmdMac.label  "أنهِ &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "ه">

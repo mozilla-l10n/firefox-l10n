@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "البيانات المُؤقتة">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "  أداة Telemetry <span>مُفعّلة</span>.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "  أداة  Telemetry <span>غير مُفعّلة</span>.">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  استعلامات SQL بطيئة">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  تعليقات المتصفح">
+
+<!ENTITY aboutTelemetry.histogramsSection "  رسوم بيانية">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  قياسات بسيطة">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  تفاصيل الملحقة">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  كتابات متأخرّة">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  معلومات النظام">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  رسومات بيانية جمعتها الإضافات">
+
+<!ENTITY aboutTelemetry.toggleOn "  انقر لتمديد القسم">
+
+<!ENTITY aboutTelemetry.toggleOff "  انقر لتقليص القسم">
+
+<!ENTITY aboutTelemetry.emptySection "  (لم تُجمع أي بيانات)">
+
+
+
