@@ -258,7 +258,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
+<!ENTITY appMenuToolbarLayout.label "Diseño de barra…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
@@ -394,12 +394,12 @@
 <!ENTITY videoShowStats.accesskey "t">
 <!ENTITY videoHideStats.label "Ocultar estadisticas">
 <!ENTITY videoHideStats.accesskey "t">
-<!ENTITY fullZoomEnlargeCmd.label "Aumentar">
+<!ENTITY fullZoomEnlargeCmd.label "Acercar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Reducir">
+<!ENTITY fullZoomReduceCmd.label "Alejar">
 <!ENTITY fullZoomReduceCmd.accesskey "A">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
@@ -409,7 +409,7 @@
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY fullZoomToggleCmd.label "Zoom sólo en el texto">
 <!ENTITY fullZoomToggleCmd.accesskey "t">
-<!ENTITY fullZoom.label "Ampliar">
+<!ENTITY fullZoom.label "Acercar">
 <!ENTITY fullZoom.accesskey "A">
 <!ENTITY newTabButton.tooltip "Abrir una nueva pestaña">
 <!ENTITY newWindowButton.tooltip "Abrir una nueva ventana">
@@ -418,8 +418,8 @@
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Pegar">
 <!ENTITY fullScreenButton.tooltip "Mostrar la ventana en pantalla completa">
-<!ENTITY zoomOutButton.tooltip "Acercar">
-<!ENTITY zoomInButton.tooltip "Alejar">
+<!ENTITY zoomOutButton.tooltip "Alejar">
+<!ENTITY zoomInButton.tooltip "Acercar">
 <!ENTITY zoomControls.label "Controles de zoom">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">

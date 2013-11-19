@@ -37,7 +37,7 @@
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "Siempre visible">
 <!ENTITY zLevel.accesskey "T">
-<!ENTITY fullZoomReduceBtn.label "Reducir">
+<!ENTITY fullZoomReduceBtn.label "Alejar">
 <!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "Aumentar">
+<!ENTITY fullZoomEnlargeBtn.label "Acercar">
 <!ENTITY fullZoomEnlargeBtn.accesskey "I">
