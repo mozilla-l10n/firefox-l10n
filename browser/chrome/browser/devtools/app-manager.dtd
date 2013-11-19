@@ -79,7 +79,6 @@
 <!ENTITY projects.manifestEditorTooltip "Edite el manifest de su app en el panel a continuación. El botón Actualizar guardará sus cambios y actualizará la app.">
 <!ENTITY projects.manifestViewer "Visor de Manifest">
 <!ENTITY projects.manifestViewerTooltip "Examine el manifest de su app en el panel a continuación.">
-<!ENTITY projects.valid "Válido">
 
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
