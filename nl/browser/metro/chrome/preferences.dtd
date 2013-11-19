@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Opties">
-<!ENTITY optionsHeader.startup.title                             "Opstarten">
-<!ENTITY optionsHeader.homepage.title                            "Wanneer &brandShortName; start, toon">
-<!ENTITY optionsHeader.homepage.startPage.button                 "startpagina">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "tabbladen van de vorige keer">
 <!ENTITY optionsHeader.char.title                                "Tekenset">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatisch herkennen">
 <!ENTITY optionsHeader.char.options.label                        "Tekensetopties op de Appbalk tonen">
