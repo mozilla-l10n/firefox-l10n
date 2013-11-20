@@ -19,6 +19,7 @@
 <!ENTITY device.debugAppTooltip "Otwiera narzędzia dla programistów połączone z aplikacją na urządzeniu">
 <!ENTITY device.name "Nazwa">
 <!ENTITY device.app "Aplikacje">
+<!ENTITY device.plain "Zwykłe (domyślne)">
 <!ENTITY device.privileged "Uprzywilejowane">
 <!ENTITY device.certified "Certyfikowane">
 <!ENTITY device.allow "Zezwalaj">
