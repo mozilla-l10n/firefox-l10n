@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
 <!ENTITY  allowPagesToUse.accesskey               "ל">
 
-<!ENTITY languages.customize.Charset.grouplabel         "קידוד תווים">
-<!ENTITY languages.customize.DefaultCharset.label       "קידוד תווים בברירת מחדל:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "ק">
-
+<!ENTITY languages.customize.Fallback.grouplabel  "קידוד תווים עבור תוכן ישן">
+<!ENTITY languages.customize.Fallback.label       "קידוד תווים חלופי:">
+<!ENTITY languages.customize.Fallback.accesskey   "ע">
+<!ENTITY languages.customize.Fallback.desc        "קידוד תווים זה נמצא בשימוש עבור תוכן ישן שכשל בהצהרה על הקידוד שלו.">

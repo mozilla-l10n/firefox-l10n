@@ -33,6 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "פ">
 <!ENTITY openFileCmd.commandkey       "פ">
 
+<!ENTITY openRecentMenu.label         "פתיחת אחרונים">
+<!ENTITY openRecentMenu.accesskey     "א">
+
 <!ENTITY saveFileCmd.label            "שמירה">
 <!ENTITY saveFileCmd.accesskey        "ש">
 <!ENTITY saveFileCmd.commandkey       "ש">

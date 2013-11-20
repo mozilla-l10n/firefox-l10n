@@ -38,11 +38,10 @@
 <!ENTITY engine.addons.accesskey    "ת">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "שם מחשב:">
-<!ENTITY syncComputerName.accesskey   "ש">
+<!ENTITY syncDeviceName.label       "שם ההתקן:">
+<!ENTITY syncDeviceName.accesskey   "ש">
 <!ENTITY unlinkDevice.label           "נתק התקן זה">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">
 <!ENTITY prefs.ppLink.label         "מדיניות פרטיות">
-
