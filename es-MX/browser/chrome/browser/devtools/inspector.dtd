@@ -1,7 +1,19 @@
-<!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interior">
-<!ENTITY inspectorHTMLCopyInner.accesskey "I">
-<!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML exterior">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
-<!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
-<!ENTITY inspectorHTMLDelete.accesskey "n">
-<!ENTITY inspector.selectButton.tooltip "Seleccionar elemento con ratón">
+<!ENTITY inspectorHTMLEdit.label       "Editar como HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML interno">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copiar HTML externo">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "e">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Copiar selector único">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "s">
+
+<!ENTITY inspectorHTMLDelete.label          "Borrar nodo">
+<!ENTITY inspectorHTMLDelete.accesskey      "B">
+
+<!ENTITY inspector.selectButton.tooltip     "Seleccionar elemento con el mouse">
+
+<!ENTITY inspectorSearchHTML.label          "Buscar HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
