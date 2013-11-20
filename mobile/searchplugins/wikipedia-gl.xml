@@ -10,9 +10,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://gl.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://gl.wikipedia.org/wiki/Especial:Procurar">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://gl.wikipedia.org/wiki/Especial:Search</SearchForm>
+<SearchForm>http://gl.wikipedia.org/wiki/Especial:Procurar</SearchForm>
 </SearchPlugin>
