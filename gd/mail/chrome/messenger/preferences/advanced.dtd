@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Coitcheann">
-<!ENTITY itemDisplay.label       "Leughadh ┐ taisbeanadh">
+<!ENTITY itemDisplay.label       "Leughadh ⁊ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
-<!ENTITY itemNetworking.label    "An lìonra ┐ àite air an diosg">
+<!ENTITY itemNetworking.label    "An lìonra ⁊ àite air an diosg">
 <!ENTITY itemCertificates.label  "Teisteanasan">
 <!-- General Settings -->
 

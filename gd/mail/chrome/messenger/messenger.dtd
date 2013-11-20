@@ -170,8 +170,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "C">
 <!ENTITY sortByStarCmd.label "Rionnaige">
 <!ENTITY sortByStarCmd.accesskey "R">
-<!ENTITY sortByAttachmentsCmd.label "Cheanglachan">
-<!ENTITY sortByAttachmentsCmd.accesskey "a">
+<!ENTITY sortByAttachmentsCmd.label "Ceanglachain">
+<!ENTITY sortByAttachmentsCmd.accesskey "e">
 <!ENTITY sortByPriorityCmd.label "Prìomhachais">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Meud">
@@ -445,7 +445,7 @@
 
 <!ENTITY tasksMenu.label "Innealan">
 <!ENTITY tasksMenu.accesskey "I">
-<!ENTITY messengerCmd.label "Post ┐ buidhnean-naidheachd">
+<!ENTITY messengerCmd.label "Post ⁊ buidhnean-naidheachd">
 <!ENTITY messengerCmd.accesskey "n">
 <!ENTITY addressBookCmd.label "Leabhar nan seòladh">
 <!ENTITY addressBookCmd.accesskey "b">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Teachdaireachd ùr">
 <!ENTITY appmenuNewContactCmd.label "neach-aithne ann an leabhar nan seòladh…">
 <!ENTITY appmenuEditMenu.label "Deasaich">
-<!ENTITY appmenuQFBMenu.label "Bàr a' ghrad-chriathraidh">
 <!ENTITY appmenuToolbarLayout.label "Co-dhealbhachd a' bhàr-inneal…">
 <!ENTITY appmenuSelectThread.label "Tagh snàithlean">
 <!ENTITY appmenuSelectFlagged.label "Tagh teachdaireachdan ris a bheil bratach">

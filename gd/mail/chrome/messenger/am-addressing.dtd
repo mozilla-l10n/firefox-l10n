@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Sgrìobhadh ┐ seòlachadh">
+<!ENTITY addressing.label          "Sgrìobhadh ⁊ seòlachadh">
 <!ENTITY addressingGroupTitle.label "Seòlachadh">
 <!ENTITY addressingText.label      "Nuair a lorgas mi seòladh:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

@@ -35,7 +35,7 @@
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors1.label   "Cruthan clò ┐ dathan">
+<!ENTITY fontsAndColors1.label   "Cruthan clò ⁊ dathan">
 <!ENTITY defaultFont.label       "An cruth-clò bunaiteach:">
 <!ENTITY defaultFont.accesskey   "A">
 <!ENTITY defaultSize.label       "Meud:">
