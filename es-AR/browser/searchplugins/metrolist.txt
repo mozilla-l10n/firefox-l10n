@@ -1,4 +1,7 @@
-bing
 googlemetrofx
-wikipedia
-yahoo
+yahoo-ar
+amazondotcom
+mercadolibre-ar
+creativecommons
+drae
+wikipedia-es
