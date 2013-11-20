@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
 <!ENTITY contextmenu_subscribe "Fo-sgrìobh gun duilleag">
 <!ENTITY contextmenu_site_settings "Deasaich roghainnean na làraich">
-<!ENTITY contextmenu_top_bookmarks_edit "Deasaich">
-<!ENTITY contextmenu_top_bookmarks_pin "Prìnich an làrach">
-<!ENTITY contextmenu_top_bookmarks_unpin "Neo-phrìnich an làrach">
+<!ENTITY contextmenu_top_sites_edit "Deasaich">
+<!ENTITY contextmenu_top_sites_pin "Prìnich an làrach">
+<!ENTITY contextmenu_top_sites_unpin "Neo-phrìnich an làrach">
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Duilleag air a thoirt air falbh">
 
-<!ENTITY bookmark_add "Cuir comharra-lìn ris">
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Àite">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir làrach ris">
 
 <!ENTITY home_history_title "Eachdraidh">
+<!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
 <!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY home_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
 <!ENTITY home_last_tabs_empty "Nochdaidh tabaichean a bha agad o chionn goirid an-seo.">
 <!ENTITY home_most_recent_title "An fheadhainn as ùire">
 <!ENTITY home_most_recent_empty "Nochdaidh làraichean-lìn air an do thadhail thu o chionn goirid an-seo.">
-<!ENTITY home_most_visited_title "Air a thadhal as trice">
 <!ENTITY home_reading_list_empty "Nochdaidh artaigealan a shàbhaileas tu airson uaireigin eile an-seo.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan a\u0027 mhodh-leughaidh nuair a nochdas e ann am bàr an tiotail.">
 
-<!ENTITY home_most_visited_empty "Nochdaidh làraichean-lìn air an tadhail thu gu tric an-seo.">
-<!ENTITY pin_bookmark_dialog_hint "Cuir a-steach facal-luirg">
+<!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 
 <!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">

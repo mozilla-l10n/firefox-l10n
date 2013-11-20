@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Innealan">
 <!ENTITY tasksMenu.accesskey                            "I">
-<!ENTITY messengerCmd.label                             "Post ┐ buidhnean-naidheachd">
+<!ENTITY messengerCmd.label                             "Post ⁊ buidhnean-naidheachd">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Lorg sna seòlaidhean…">
