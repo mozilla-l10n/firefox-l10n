@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Kaikki kirjanmerkit, salasanat ja avoimet välilehdet saatavilla kaikilla laitteillasi">
+<!ENTITY sync.flyout.presetup.setup.label      "Määritä &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Määritä &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Jos sinulla on jo tili &syncBrand.shortName.label;-palveluun, valitse &quot;Liitä laite&quot; liitettävällä laitteella ja kirjoita seuraava koodi.">
+<!ENTITY sync.flyout.setup.description2        "Jos sinulla ei vielä ole tiliä &syncBrand.shortName.label;-palveluun, voit luoda sen &brandShortName;in työpöytäversiossa.">
+<!ENTITY sync.flyout.setup.manual.label_2      "En ole lähellä tietokonettani…">
+<!ENTITY sync.flyout.setup.description3        "Huom:">
+<!ENTITY sync.flyout.setup.description4_2      "Löydät &quot;Liitä laite&quot;-toiminnon valitsemalla ">
+<!ENTITY sync.flyout.setup.description5_2      "[Työpöytä] Avaa &quot;Asetukset&quot; ja valitsemalla &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Lisää &gt; Asetukset &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Kirjoita &syncBrand.shortName.label;-palvelun tilin tiedot ja tietokoneesi luoma palautusavain">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Tilin nimi">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Salasana">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Palautusavain">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Yhdistä">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Yhteys muodostettu &brandShortName;in ja &syncBrand.shortName.label; -palvelun tilin välille">
+<!ENTITY sync.flyout.setupsuccess.description2      "&syncBrand.shortName.label; -palvelun tietoja ladataan taustalla. Synkronoidut välilehtesi löytyvät &brandShortName;in aloitussivulta">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; ei onnistunut muodostamaan yhteyttä &syncBrand.shortName.label; -palvelun tiliisi.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Peruuta">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Yritä uudestaan">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Tili:">
+<!ENTITY sync.flyout.connected.device                     "Laite:">
+<!ENTITY sync.flyout.connected.disconnect                 "Katkaise yhteys">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Katkaistaanko laitteesi yhteys &syncBrand.shortName.label; -palveluun?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Kaikki henkilökohtaiset tietosi sekä tällä laitteella ja &syncBrand.shortName.label; -palvelun tilillä säilyvät ennallaan.">
+<!ENTITY sync.flyout.connected.cancel                     "Peruuta">
+<!ENTITY sync.flyout.connected.pair                       "Liitä laite">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Laitteella johon haluat liittyä, valitse &quot;Määritä &syncBrand.shortName.label;&quot; ja kirjoita laitteen antama koodi">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Liitä">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Huom:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Löydät pyydetyn koodin valitsemalla">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Työpöytä] Avaa &quot;Asetukset&quot; ja sen jälkeen valitsemalla: &syncBrand.shortName.label; -&gt; Määritä &syncBrand.shortName.label; -&gt; Minulla on jo tili">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Lisää &gt; Asetukset &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Yritä uudestaan">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Uuden laitteen liittäminen onnistui.">
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label;-palveluun tallennettuja tietoja ladataan taustalla. Synkronoidut välilehtesi löytyvät &brandShortName;in aloitussivulta.">

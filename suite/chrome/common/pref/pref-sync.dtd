@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Määritä &syncBrand.fullName.label;in asetukset">
 <!ENTITY setupButton.accesskey      "M">
@@ -20,12 +24,12 @@
 <!ENTITY viewQuota.accesskey          "N">
 <!ENTITY changePassword.label         "Muuta salasana">
 <!ENTITY changePassword.accesskey     "M">
-<!ENTITY mySyncKey.label              "Synkronointiavain">
-<!ENTITY mySyncKey.accesskey          "S">
+<!ENTITY myRecoveryKey.label          "Palautusavain">
+<!ENTITY myRecoveryKey.accesskey      "P">
 <!ENTITY resetSync.label              "Nollaa Sync">
 <!ENTITY resetSync.accesskey          "N">
-<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
-<!ENTITY deactivateDevice.accesskey   "I">
+<!ENTITY unlinkDevice.label           "Irrota laite palvelusta">
+<!ENTITY unlinkDevice.accesskey       "I">
 <!ENTITY addDevice.label              "Lisää laite">
 <!ENTITY addDevice.accesskey          "a">
 
@@ -34,6 +38,8 @@
 <!ENTITY syncComputerName.accesskey   "T">
 
 <!ENTITY syncMy2.label              "Synkronoi:">
+<!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.accesskey    "L">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
 <!ENTITY engine.bookmarks.accesskey "K">
 <!ENTITY engine.tabs.label          "Välilehdet">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Viestien kirjoitus ja osoitteet">
@@ -37,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Lisää allekirjoitus välitettyihin viesteihin">
 <!ENTITY includeSigOnForward.accesskey        "L">
+
+<!ENTITY globalComposingPrefs.label           "Yleiset viestienkirjoitusasetukset…">
+<!ENTITY globalComposingPrefs.accesskey       "Y">
+
+<!ENTITY globalAddressingPrefs.label          "Yleiset viestienosoitusasetukset…">
+<!ENTITY globalAddressingPrefs.accesskey      "e">

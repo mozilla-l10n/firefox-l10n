@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Wikipedia (fi)</ShortName>
 <InputEncoding>UTF-8</InputEncoding>
@@ -6,7 +10,7 @@
     <Param name="action" value="opensearch"/>
     <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://fi.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://fi.wikipedia.org/wiki/Toiminnot:Haku">
     <Param name="search" value="{searchTerms}"/>
     <Param name="sourceid" value="Mozilla-search" />
 </Url>

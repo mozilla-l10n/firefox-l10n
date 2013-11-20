@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD
+     SYSTEM "chrome://branding/locale/brand.dtd">
+   %brandDTD;
+
+<!ENTITY aboutAddons.title              "&brandShortName; lisäosat ovat vielä työn alla">
+<!ENTITY aboutAddons.messageTitle       "Oho!">
+<!ENTITY aboutAddons.message            "Pahoittelut, &brandShortName; ei vielä tue lisäosia.">
+<!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
+     These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
+     aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
+     -->
+<!ENTITY aboutAddons.goBackToStartStart "Palaa ">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName;in aloitussivulle">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

@@ -1,10 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Etsi kohteesta:">
 <!ENTITY searchHeading.accesskey     "E">
 <!ENTITY searchSubfolders.label      "Etsi alikansioista">
 <!ENTITY searchSubfolders.accesskey  "l">
-<!ENTITY searchLocalSystem.label     "Etsi paikallisesta järjestelmästä">
-<!ENTITY searchLocalSystem.accesskey "p">
+<!ENTITY searchOnHeading.label       "Suorita hakutoiminto:">
+<!ENTITY searchOnHeading.accesskey   "u">
+<!ENTITY searchOnRemote.label        "Etäpalvelimella">
+<!ENTITY searchOnLocal.label         "Paikallisessa järjestelmässä">
 <!ENTITY resetButton.label           "Tyhjennä">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Avaa">
@@ -13,10 +19,10 @@
 <!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Etsi viesteistä">
 <!ENTITY results.label               "Tulokset">
-<!ENTITY fileHereMenu.label          "Siirrä tänne">
-<!ENTITY fileHereMenu.accesskey      "S">
-<!ENTITY fileButton.label            "Siirrä">
-<!ENTITY fileButton.accesskey        "S">
+<!ENTITY moveHereMenu.label          "Siirrä tänne">
+<!ENTITY moveHereMenu.accesskey      "S">
+<!ENTITY moveButton.label            "Siirrä">
+<!ENTITY moveButton.accesskey        "S">
 <!ENTITY goToFolderButton.label      "Avaa viestikansio">
 <!ENTITY goToFolderButton.accesskey  "v">
 <!ENTITY saveAsVFButton.label      "Tallenna hakukansiona">

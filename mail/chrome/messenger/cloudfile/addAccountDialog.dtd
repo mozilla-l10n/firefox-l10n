@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Aseta Filelink-palvelu">
+<!ENTITY addAccountDialog.menuTitle "Valitse tallennuspalvelu">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Tilin nimi:">
+<!ENTITY addAccountDialog.noAccountText "Pahoittelumme, mutta &brandShortName;in nykyisessä versiossa on mahdollista luoda vain yksi tili yhteen palveluun.">
+<!ENTITY addAccountDialog.createAccountText2 "Tämän ominaisuuden avulla voit käyttää useita tallennuspalveluja suurten tiedostojen lähettämiseen. Voit joko yhdistää olemassa olevaan tiliin palvelussa tai luoda uuden.">
+<!ENTITY addAccountDialog.authorizing "Tarkistetaan oikeuksia...">
+<!ENTITY addAccountDialog.error "Tapahtui virhe luotaessa tiliä.">
+<!ENTITY addAccountDialog.acceptButton.label "Luo tili">
+<!ENTITY addAccountDialog.learnMore "Lue lisää…">

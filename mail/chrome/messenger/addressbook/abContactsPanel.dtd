@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookPicker.label             "Osoitekirja:">
 <!ENTITY addressbookPicker.accesskey        "O">
 <!ENTITY searchInput.label                   "Etsi:">
@@ -5,10 +9,15 @@
 <!ENTITY SearchNameOrEmail.label             "Nimestä tai osoitteesta">
 
 <!ENTITY deleteAddrBookCard.label           "Poista">
+<!ENTITY deleteAddrBookCard.accesskey       "P">
 <!ENTITY addrBookCardProperties.label       "Ominaisuudet">
+<!ENTITY addrBookCardProperties.accesskey   "O">
 <!ENTITY addtoToFieldMenu.label              "Lisää vastaanottajakenttään">
+<!ENTITY addtoToFieldMenu.accesskey         "v">
 <!ENTITY addtoCcFieldMenu.label              "Lisää kopiokenttään">
+<!ENTITY addtoCcFieldMenu.accesskey         "k">
 <!ENTITY addtoBccFieldMenu.label             "Lisää piilokopiokenttään">
+<!ENTITY addtoBccFieldMenu.accesskey        "p">
 
 <!ENTITY toButton.label                     "Vastaanottaja:">
 <!ENTITY toButton.accesskey                 "V">

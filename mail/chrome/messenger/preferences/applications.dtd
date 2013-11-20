@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  typeColumn.label        "Sisältötyyppi">
 <!ENTITY  typeColumn.accesskey    "S">
 
@@ -17,3 +21,18 @@
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Valitse…">
 <!ENTITY chooseFolderMac.accesskey    "V">
+
+<!ENTITY attachments.incoming.label   "Saapuvat">
+<!ENTITY attachments.outgoing.label   "Lähtevät">
+
+<!ENTITY addCloudFileAccount.label        "Lisää">
+<!ENTITY addCloudFileAccount.accesskey    "L">
+<!ENTITY addCloudFileAccount.description  "Lisää uusi tiedostoja linkittävä tallennuspalvelu">
+<!ENTITY removeCloudFileAccount.label     "Poista">
+<!ENTITY removeCloudFileAccount.accesskey "P">
+<!ENTITY authRequired.description         "Tilisi täytyy todentaa, jotta tallennuspalvelun asetukset ovat nähtävissä.">
+<!ENTITY authRequired.button.label        "Todenna">
+<!ENTITY authRequired.button.accesskey    "T">
+
+<!ENTITY enableCloudFileAccountOffer.label "Ehdota palvelua yli">
+<!ENTITY enableCloudFileAccountOffer.mb "Mt:n tiedostoille">

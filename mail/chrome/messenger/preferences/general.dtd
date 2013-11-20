@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label          "&brandShortName;in aloitussivu">
 <!ENTITY enableStartPage.label             "Näytä aloitussivuna viestikentässä &brandShortName;in käynnistyessä:">
 <!ENTITY enableStartPage.accesskey         "N">
@@ -17,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Muokkaa…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 
+<!ENTITY showTrayIcon.label               "Näytä ilmoitusalueen kuvake">
+<!ENTITY showTrayIcon.accesskey           "i">
+
 <!ENTITY play.label                       "Toista">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Järjestelmän oletusäänimerkki uudelle sähköpostille">
@@ -27,9 +34,3 @@
 <!ENTITY customsound.accesskey            "K">
 <!ENTITY browse.label                     "Selaa…">
 <!ENTITY browse.accesskey                 "S">
-
-<!ENTITY addonsMgr.label                  "Lisäosat">
-<!ENTITY manageAddonsDescWin.label        "Muokkaa lisäosia ja lisäosien asetuksia">
-<!ENTITY manageAddonsDescUnix2.label      "Muokkaa lisäosia ja lisäosien asetuksia">
-<!ENTITY manageAddons.label               "Hallinnoi lisäosia…">
-<!ENTITY manageAddons.accesskey           "H">

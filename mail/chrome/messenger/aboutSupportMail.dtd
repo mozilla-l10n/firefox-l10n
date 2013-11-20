@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.appBasicsAppBuildID "Ohjelman koostamistunnus">
 
 <!ENTITY aboutSupport.accountsTitle "Sähköposti- ja keskusteluryhmätilit">
@@ -7,6 +11,7 @@
 <!ENTITY aboutSupport.accountsName "Nimi">
 <!ENTITY aboutSupport.accountsIncomingServer "Saapuvan postin palvelin">
 <!ENTITY aboutSupport.accountsOutgoingServers "Lähtevän postin palvelimet">
+<!ENTITY aboutSupport.accountsServerName "Nimi">
 <!ENTITY aboutSupport.accountsConnSecurity "Yhteyden suojaus">
 <!ENTITY aboutSupport.accountsAuthMethod "Todennustapa">
 <!ENTITY aboutSupport.accountsDefault "Oletus?">

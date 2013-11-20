@@ -1,12 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Estä tämän sivuston ponnahdusikkunat">
 <!ENTITY popupWindowRejectCmd.accesskey "E">
 <!ENTITY popupWindowAllowCmd.label      "Salli tämän sivuston ponnahdusikkunat">
 <!ENTITY popupWindowAllowCmd.accesskey  "S">
-<!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
-<!ENTITY openLinkCmd.accesskey        "i">
 <!ENTITY openLinkCmdInTab.label       "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
+<!ENTITY openLinkCmd.accesskey        "i">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Avaa linkki yksityisikkunaan">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "l">
 <!ENTITY openLinkInWindowCmd.label    "Avaa">
 <!ENTITY openLinkInWindowCmd.accesskey "A">
 <!ENTITY openFrameCmd.label           "Avaa kehys uuteen ikkunaan">
@@ -22,7 +28,7 @@
 <!ENTITY goForwardCmd.label           "Seuraava">
 <!ENTITY goForwardCmd.accesskey       "S">
 <!ENTITY goUpCmd.label                "Ylös">
-<!ENTITY goUpCmd.accesskey            "ö">
+<!ENTITY goUpCmd.accesskey            "Y">
 <!ENTITY reloadCmd.label              "Päivitä">
 <!ENTITY reloadCmd.accesskey          "ä">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -51,8 +57,8 @@
 <!ENTITY viewVideoCmd.accesskey       "N">
 <!ENTITY viewBGImageCmd.label         "Näytä taustakuva">
 <!ENTITY viewBGImageCmd.accesskey     "N">
-<!ENTITY setWallpaperCmd.label        "Aseta työpöydän taustakuvaksi">
-<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY setDesktopBackgroundCmd.label     "Aseta työpöydän taustakuvaksi…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "A">
 <!ENTITY bookmarkPageCmd.label        "Lisää sivu kirjanmerkkeihin">
 <!ENTITY bookmarkPageCmd.accesskey    "L">
 <!ENTITY bookmarkLinkCmd.label        "Lisää kohde kirjanmerkkeihin">
@@ -98,12 +104,28 @@
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Poista vaimennus">
 <!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaPlaybackRate.label        "Toistovauhti">
+<!ENTITY mediaPlaybackRate.accesskey    "T">
+<!ENTITY mediaPlaybackRate050.label     "Hidastettu (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "H">
+<!ENTITY mediaPlaybackRate100.label     "Normaali">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Nopeutettu (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "o">
+<!ENTITY mediaPlaybackRate200.label     "Kaksinkertainen">
+<!ENTITY mediaPlaybackRate200.accesskey "K">
 <!ENTITY mediaShowControls.label      "Näytä mediaohjaimet">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Piilota mediaohjaimet">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Kokoruututila">
 <!ENTITY videoFullScreen.accesskey    "K">
+<!ENTITY videoSaveImage.label         "Tallenna kuvakaappaus nimellä…">
+<!ENTITY videoSaveImage.accesskey     "k">
+<!ENTITY videoShowStats.label         "Näytä tilastotiedot">
+<!ENTITY videoShowStats.accesskey     "N">
+<!ENTITY videoHideStats.label         "Piilota tilastotiedot">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Vaihda sivun suuntaa">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">
@@ -111,6 +133,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "V">
 <!ENTITY spellAddToDictionary.label     "Lisää sanastoon">
 <!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellUndoAddToDictionary.label      "Kumoa Lisää sanastoon">
+<!ENTITY spellUndoAddToDictionary.accesskey  "m">
 <!ENTITY spellIgnoreWord.label          "Ohita sana">
 <!ENTITY spellIgnoreWord.accesskey      "h">
 <!ENTITY spellCheckEnable.label         "Oikolue">

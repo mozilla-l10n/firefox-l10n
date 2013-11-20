@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label  "Lähtevän postin palvelimen asetukset">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label  "Lähtevälle postille voidaan määrittää useita palvelimia (SMTP), mutta tätä ei suositella kuin kokeneille käyttäjille. Usean SMTP-palvelimen määrittäminen voi aiheuttaa virheitä lähetettäessä viestejä.">
+<!ENTITY smtpDescription.label "Valitse käyttäjätiedolle lähtevän postin palvelin (SMTP) listasta tai käytä oletuspalvelinta valitsemalla &quot;Käytä oletuspalvelinta&quot;.">
 
 <!ENTITY smtpListAdd.label   "Lisää…">
 <!ENTITY smtpListAdd.accesskey   "L">

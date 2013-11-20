@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label  "Tilin lisäasetukset">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label  "IMAP-palvelinhakemisto:">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.label  "Palvelin voi korvata nämä nimiavaruudet">
 <!ENTITY overrideNamespaces.accesskey  "a">
 <!ENTITY pop3Desc.label  "Käytä seuraavaa kansiota tämän tilin saapuville sähköposteille:">
-<!ENTITY globalInbox.label  "Saapuvat viestit yhteiseen saapuneet-kansioon">
-<!ENTITY globalInbox.accesskey  "S">
 <!ENTITY accountDirectory.label  "Saapuvat viestit tämän tilin saapuneet-kansioon">
 <!ENTITY accountDirectory.accesskey  "a">
 <!ENTITY deferToServer.label  "Saapuvat viestit toisen tilin saapuneet-kansioon">

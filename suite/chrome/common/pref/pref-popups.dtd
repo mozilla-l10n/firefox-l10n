@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.popups.title              "Ponnahdusikkunat">
 
 <!ENTITY pref.popups.caption            "Ponnahdusikkunat">
@@ -20,8 +24,6 @@
 <!ENTITY selectSound.accesskey          "S">
 <!ENTITY playSoundButton.label          "Toista">
 <!ENTITY playSoundButton.accesskey      "T">
-<!ENTITY selectSound.title              "Valitse ponnahdusikkunan estoääni">
-<!ENTITY selectSound.filter             "Äänet">
 
 <!ENTITY displayIcon.label              "Näytä kuvake selaimen tilarivillä">
 <!ENTITY displayIcon.accesskey          "N">

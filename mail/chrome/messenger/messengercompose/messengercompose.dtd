@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title  "Kirjoita: (ei aihetta)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey  "L">
 <!ENTITY attachFileCmd.label  "Tiedostot…">
 <!ENTITY attachFileCmd.accesskey  "T">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Linkitä tiedosto">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label  "Verkkosivu…">
 <!ENTITY attachPageCmd.accesskey  "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,17 +74,20 @@
 <!ENTITY pasteCmd.accesskey  "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
 <!ENTITY deleteCmd.label  "Poista">
 <!ENTITY deleteCmd.accesskey  "o">
+<!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Nimeä liite uudelleen…">
+<!ENTITY renameAttachmentCmd.accesskey "u">
 <!ENTITY selectAllCmd.label  "Valitse kaikki">
 <!ENTITY selectAllCmd.key  "A">
 <!ENTITY selectAllCmd.accesskey  "V">
 <!ENTITY findCmd.label  "Etsi ja korvaa…">
 <!ENTITY findCmd.key  "F">
 <!ENTITY findCmd.accesskey  "E">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label  "Etsi seuraava">
 <!ENTITY findAgainCmd.key  "G">
 <!ENTITY findAgainCmd.accesskey  "s">
@@ -92,6 +102,8 @@
 <!ENTITY viewMenu.accesskey  "N">
 <!ENTITY viewToolbarsMenuNew.label  "Työkalupalkit">
 <!ENTITY viewToolbarsMenuNew.accesskey  "T">
+<!ENTITY menubarCmd.label "Valikkopalkki">
+<!ENTITY menubarCmd.accesskey "V">
 <!ENTITY showCompositionToolbarCmd.label "Viestin kirjoituspalkki">
 <!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Muotoilupalkki">
@@ -128,8 +140,8 @@
 <!ENTITY returnReceiptMenu.accesskey  "V">
 <!ENTITY dsnMenu.label "Toimitustilan ilmoitukset">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY outputFormatMenu.label  "Muotoilu">
-<!ENTITY outputFormatMenu.accesskey  "u">
+<!ENTITY deliveryFormatMenu.label "Lähetysmuoto">
+<!ENTITY deliveryFormatMenu.accesskey "m">
 <!ENTITY autoFormatCmd.label  "Tunnista automaattisesti">
 <!ENTITY autoFormatCmd.accesskey  "T">
 <!ENTITY plainTextFormatCmd.label  "Vain tavallinen teksti">
@@ -193,12 +205,16 @@
 <!ENTITY quoteButton.tooltip  "Lainaa edellistä viestiä">
 <!ENTITY addressButton.tooltip  "Valitse vastaanottaja osoitekirjasta">
 <!ENTITY attachButton.tooltip  "Lisää liitetiedosto tähän viestiin">
+<!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
 <!ENTITY saveButton.tooltip  "Tallenna tämä viesti">
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label  "Lähettäjä:">
 <!ENTITY fromAddr.accesskey  "h">
 <!ENTITY toAddr.label  "Vastaanottaja:">
@@ -261,8 +277,20 @@
 <!ENTITY selectAll.accesskey  "V">
 <!ENTITY attachFile.label  "Liitä tiedostot…">
 <!ENTITY attachFile.accesskey  "L">
+<!ENTITY attachCloud.label "Linkitetty liitetiedosto…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Muunna muotoon…">
+<!ENTITY convertCloud.accesskey "M">
+<!ENTITY cancelUpload.label "Peruuta siirto">
+<!ENTITY cancelUpload.accesskey "P">
+<!ENTITY convertRegularAttachment.label "Normaali liitetiedosto">
+<!ENTITY convertRegularAttachment.accesskey "N">
 <!ENTITY attachPage.label  "Liitä verkkosivu">
 <!ENTITY attachPage.accesskey  "t">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Hae sanastoja…">
+<!ENTITY spellAddDictionaries.accesskey "H">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label  "Yhteystiedot">

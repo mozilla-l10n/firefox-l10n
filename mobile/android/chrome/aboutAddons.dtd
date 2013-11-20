@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "Lisäosat">
+<!ENTITY aboutAddons.header2                    "Asennetut lisäosat">
+<!ENTITY aboutAddons.options                    "Asetukset">
+<!ENTITY aboutAddons.browseAll                  "Selaa kaikkia Firefoxin lisäosia">
+
+<!ENTITY addonAction.enable                     "Ota käyttöön">
+<!ENTITY addonAction.disable                    "Poista käytöstä">
+<!ENTITY addonAction.uninstall                  "Poista">
+<!ENTITY addonAction.undo                       "Kumoa">
