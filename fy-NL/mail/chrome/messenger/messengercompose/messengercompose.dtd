@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Side-ynstellingen…">
 <!ENTITY printSetupCmd.accesskey "S">
+<!ENTITY printPreviewCmd.label "Ofdrukfoarbyld">
+<!ENTITY printPreviewCmd.accesskey "O">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "d">

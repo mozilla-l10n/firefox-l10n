@@ -16,7 +16,7 @@
 <!ENTITY event.delete.tasks                                "Selektearre taken fuortsmite">
 <!ENTITY event.delete.tasks.accesskey                      "T">
 
-<!ENTITY calendar.pagesetup.label                          "Side-ynstellings…">
+<!ENTITY calendar.pagesetup.label                          "Side-ynstellingen…">
 <!ENTITY calendar.pagesetup.accesskey                      "S">
 
 <!ENTITY calendar.subscribe.label                          "Abonnearje op aginda op ôfstân…">
@@ -75,7 +75,7 @@
 <!ENTITY calendar.fullscreen.label                         "Folslein skerm">
 <!ENTITY calendar.fullscreen.accesskey                     "F">
 
-<!ENTITY calendar.addons.label                             "Tafoegings">
+<!ENTITY calendar.addons.label                             "Tafoegingen">
 <!ENTITY calendar.addons.accesskey                         "T">
 
 <!ENTITY goMenu.label                                      "Gean">
@@ -115,13 +115,13 @@
 <!ENTITY viewMenu.label                                    "Byld">
 <!ENTITY viewMenu.accesskey                                "d">
 
-<!ENTITY releaseCmd.label                                  "Utjefte-opmerkings">
+<!ENTITY releaseCmd.label                                  "Utjefte-opmerkingen">
 <!ENTITY releaseCmd.accesskey                              "U">
 
 <!ENTITY aboutCmd.label                                    "Oer &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "O">
 
-<!ENTITY updateCmd.label                                   "Kontrolearje op fernijings…">
+<!ENTITY updateCmd.label                                   "Kontrolearje op fernijingen…">
 <!ENTITY updateCmd.accesskey                               "o">
 
 <!ENTITY sunbird.export.calendar.label                     "Eksportearje aginda…">
