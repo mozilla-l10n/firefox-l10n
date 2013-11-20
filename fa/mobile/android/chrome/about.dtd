@@ -1,14 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "دربارهٴ &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
+
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+
+
+
+
+
+
+
 <!ENTITY aboutPage.faq.label                    "پرسش‌های متداول">
 <!ENTITY aboutPage.support.label                "پشتیبانی">
 <!ENTITY aboutPage.privacyPolicy.label          "سیاست حریم خصوصی">
 <!ENTITY aboutPage.rights.label                 "حقوق خود را بدانید">
 <!ENTITY aboutPage.relNotes.label               "یادداشت‌های انتشار">
 <!ENTITY aboutPage.credits.label                "دست‌اندرکاران">
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169; حق نسخه‌برداری ۱۹۹۸-۲۰۰۹ مخصوص مشارکت‌کنندگان.  تمام حقوق محفوظ است. (">
-<!ENTITY aboutPage.licenseLink                  "اطلاعات مجوز">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.license.label                "اطلاعات مجوز">

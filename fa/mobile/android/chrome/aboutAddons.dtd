@@ -4,9 +4,10 @@
 
 <!ENTITY aboutAddons.title2                     "افزودنی‌ها">
 <!ENTITY aboutAddons.header2                    "افزودنی‌های شما">
-<!ENTITY aboutAddons.options                    "اختیارات">
+<!ENTITY aboutAddons.options                    "گزینه‌ها">
 
-<!ENTITY addonAction.enable                     "فعال کردن">
-<!ENTITY addonAction.disable                    "غیرفعال کردن">
-<!ENTITY addonAction.uninstall                  "حذف">
-<!ENTITY addonAction.undo                       "واگرد">
+
+<!ENTITY addonAction.enable                     "به کار انداختن">
+
+<!ENTITY addonAction.uninstall                  "عزل">
+<!ENTITY addonAction.undo                       "برگردان">

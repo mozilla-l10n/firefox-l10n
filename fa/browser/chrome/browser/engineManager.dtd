@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "نام">
 <!ENTITY  columnLabel.keyword       "کلیدواژه">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "انتقال به بالا">
 <!ENTITY  up.accesskey              "ب">
 <!ENTITY  dn.label                  "انتقال به پایین">

@@ -3,29 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "هم‌گام‌سازی">
-<!ENTITY sync.notconnected          "وصل نیست">
-<!ENTITY sync.connect               "وصل شدن">
-<!ENTITY sync.connected             "وصل شد">
+
+
+
 <!ENTITY sync.details               "جزئیات">
-<!ENTITY sync.deviceName            "این دستگاه">
-<!ENTITY sync.disconnect            "جدا کردن">
-<!ENTITY sync.syncNow               "اکنون هم‌گام کن">
 
-<!ENTITY sync.setup.title           "وصل شدن برای هم‌گام‌سازی">
-<!ENTITY sync.setup.pair            "برای فعال کردن، &#x0022;جفت کردن یک دستگاه&#x0022; را بر روی دستگاه دیگر خود انتخاب کنید.">
-<!ENTITY sync.fallback              "من نزدیک کامپیوتر خود نیستم…">
-<!ENTITY sync.setup.manual          "اطلاعات حساب هم‌گام‌سازی خود را وارد نمائید">
-<!ENTITY sync.account               "نام حساب">
-<!ENTITY sync.password              "گذرواژه">
-<!ENTITY sync.recoveryKey           "کلید بازیابی">
-<!ENTITY sync.customServer          "استفاده از سرویس‌دهندهٔ سفارشی">
-<!ENTITY sync.serverURL             "آدرس سرویس‌دهنده">
-<!ENTITY sync.setup.connect         "وصل شدن">
+
+<!ENTITY sync.syncNow               "هم‌اکنون دوباره تلاش کنید">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY sync.setup.cancel          "انصراف">
-<!ENTITY sync.setup.tutorial        "نمایش روش کار">
-<!ENTITY sync.setup.waiting2        "منتظر دستگاه دیگر…">
 
-<!ENTITY sync.pair.title            "جفت کردن یک دستگاه">
-<!ENTITY sync.pair.description      "برای فعال کردن دستگاه جدید خود، &#x0022;انجام هم‌گام‌سازی&#x0022; را بر روی دستگاه خود انتخاب کنید.">
+
+
+<!ENTITY sync.pair.title            "وصل کردن دستگاه">
+
 <!ENTITY sync.setup.close           "بستن">
-<!ENTITY sync.setup.waitingdownload "دادهٔ شما اکنون در پس‌زمینه در حال بارگیری است. شما می‌توانید هر زمان این پنجره را ببندید.">
+

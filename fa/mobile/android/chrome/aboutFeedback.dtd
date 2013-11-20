@@ -1,70 +1,36 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
 
-<!ENTITY pageTitle                 "بازخورد &brandShortName;">
 
-<!ENTITY intro.header              "یک دقیقه وقت دارید؟">
-<!ENTITY intro.message             "به ما بگویید دربارهٔ &brandShortName; برای اندروید تاکنون چه فکری می‌کنید.">
-<!ENTITY intro.happyLink           "دوستش دارم">
-<!ENTITY intro.sadLink             "با بعضی مشکلات روبرو شدم">
-<!ENTITY intro.ideaLink            "ایده‌ای دارم">
+
+
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "اگر شما برای کار با &brandShortName; به کمک احتیاج دارید یا با آن مشکلی دارید، ">
-<!ENTITY support.link              "پشتیبانی &brandShortName;">
-<!ENTITY support.post              " را مشاهده کنید.">
 
-<!ENTITY happy.header              "خوشحال می‌شویم که بشنویم!">
+
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "می‌خواهید تا با دادن رتبهٔ ۵ ستاره به ما در گوگل پِلِی، علاقه‌تان را به اشتراک بگذارید؟">
-
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "این کار کمتر از یک دقیقه زمان می‌برد و احساس خوبی دارد.">
 
-<!ENTITY happy.ratingLink          "بله، به گوگل پِلِی برو">
-<!ENTITY happy.maybeLater          "شاید بعداً">
-<!ENTITY happy.noThanks            "خیر، متشکرم">
 
-<!ENTITY sad.message               "متأسفیم که شما با &brandShortName; مشکلاتی داشتید. لطفاً به ما بگویید چه اتفاقی افتاد تا ما بتوانیم آن را تعمیر کنیم.">
-<!ENTITY sad.placeholder           "بازخورد خود را اینجا وارد کنید">
-<!ENTITY sad.lastSite              "آخرین وب‌گاه مشاهده شده (اختیاری)">
+
+
+
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
-<!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "متشکریم که به ما اطلاع دادید.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "ما همواره در تلاشیم تا &brandShortName; را بهتر کنیم. با خیال راحت مطمئن باشید که اشخاص واقعی به بازخورد شما نگاه خواهند کرد و تمام تلاش خود را می‌کنند تا این مسأله را حل کنند.">
-
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
-<!ENTITY sad.thanksMessageBottom   "به هر قیمتی که باشد.">
 
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "ما مشتاق شنیدن ایده‌های شما هستیم. لطفاً نظرات خود را در زیر با ما در میان بگذارید. (خواهشاً فقط آن دسته که دربارهٔ &brandShortName; هستند.)">
-<!ENTITY idea.placeholder          "ایدهٔ خود را اینجا وارد نمائید">
-<!ENTITY idea.thanksHeader         "با تشکر!">
 
-<!ENTITY idea.thanksMessageTop     "از اینکه وقت گذاشتید تا نظرات خود را با ما در میان بگذارید متشکریم. ما همواره در تلاشیم تا &brandShortName; را بهتر کنیم و نظیر این مشارکت‌ها می‌تواند منجر به دستاوردهای عظیمی شود.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "با اینکه نمی‌توانید آن را ببینید ولی ما الان در حال فرستادن یک «بزن قدش» برای شما هستیم!">
-
-<!ENTITY feedback.privacy          "برای حفظ حریم خصوصی خود، لطفاً هیچ گونه اطلاعات قابل شناسایی شخصی در بازخورد خود قرار ندهید.">
-<!ENTITY feedback.send             "ارسال بازخورد">

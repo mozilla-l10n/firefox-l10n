@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "ویرایش تنظیمات گواهی امنیتی">
 <!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
-<!ENTITY certmgr.editsslcert.title            "ویرایش تنظیمات اعتماد به گواهی وب‌گاه">
 <!ENTITY certmgr.editcert.edittrust           "ویرایش تنظیمات اعتماد:">
 <!ENTITY certmgr.editcert.trustssl            "این گواهی می‌تواند هویت وب‌گاه‌ها را تأیید کند.">
 <!ENTITY certmgr.editcert.trustemail          "این گواهی می‌تواند هویت فرستندگان نامه را تأیید کند.">
 <!ENTITY certmgr.editcert.trustobjsign        "این گواهی می‌تواند هویت سازندگان نرم‌افزار را تأیید کند.">
-<!ENTITY certmgr.editsslcert.edittrust        "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editsslcert.dotrust          "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editsslcert.donttrust        "به صحت این گواهی نشود.">
 <!ENTITY certmgr.editemailcert.title          "ویرایش تنظیمات اعتماد به گواهی نامهٔ الکترونیکی">
-<!ENTITY certmgr.editemailcert.edittrust      "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editemailcert.dotrust        "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editemailcert.donttrust      "به صحت این گواهی نشود.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "حذف گواهی">
 <!ENTITY certmgr.deletecert.beforename        "شما حذف این گواهی را درخواست کردید:">
@@ -72,8 +68,8 @@
 <!ENTITY certmgr.close.accesskey              "س">
 <!ENTITY certmgr.view2.label                  "مشاهده…">
 <!ENTITY certmgr.view2.accesskey              "م">
-<!ENTITY certmgr.edit3.label "ویرایش اعتماد…">
-<!ENTITY certmgr.edit3.accesskey "و">
+<!ENTITY certmgr.edit3.label                  "ویرایش اعتماد…">
+<!ENTITY certmgr.edit3.accesskey              "و">
 <!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
 <!ENTITY certmgr.editca.accesskey             "ع">
 <!ENTITY certmgr.add.label                    "افزودن">
@@ -82,8 +78,8 @@
 <!ENTITY certmgr.export.accesskey             "ص">
 <!ENTITY certmgr.delete2.label                "حذف…">
 <!ENTITY certmgr.delete2.accesskey            "ح">
-<!ENTITY certmgr.delete_builtin.label "حذف یا عدم اعتماد…">
-<!ENTITY certmgr.delete_builtin.accesskey "ح">
+<!ENTITY certmgr.delete_builtin.label         "حذف یا عدم اعتماد…">
+<!ENTITY certmgr.delete_builtin.accesskey     "ح">
 <!ENTITY certmgr.backup2.label                "پشتیبان‌گیری…">
 <!ENTITY certmgr.backup2.accesskey            "پ">
 <!ENTITY certmgr.backupall2.label             "پشتیبان‌گیری از همه…">
@@ -100,7 +96,7 @@
 <!ENTITY certmgr.addException.accesskey       "ا">
 
 <!ENTITY exceptionMgr.title                   "افزودن استثناء امنیتی">
-<!ENTITY exceptionMgr.exceptionButton.label "تأیید استثناء امنیتی">
+<!ENTITY exceptionMgr.exceptionButton.label   "تأیید استثناء امنیتی">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ت">
 <!ENTITY exceptionMgr.supplementalWarning     "بانک‌ها و فروشگاه‌های قانونی و بسیاری از پایگاه‌های عمومی این کار را از شما نخواهند خواست.">
 <!ENTITY exceptionMgr.certlocation.caption2   "کارگزار">

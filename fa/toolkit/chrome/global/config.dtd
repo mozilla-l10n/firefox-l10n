@@ -3,29 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
-
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
 <!ENTITY aboutWarningTitle.label "به کجا چنین شتابان؟!">
 <!ENTITY aboutWarningText.label "تغییر این تنظیمات پیشرفته ممکن است اثر بدی در پایداری، امنیت، و سرعت این برنامه بگذارند.  تنها در صورتی باید ادامه دهید که از کاری که می‌خواهید انجام دهید اطمینان داشته باشید.">
 <!ENTITY aboutWarningButton.label "قول می‌دهم مواظب باشم!">
 <!ENTITY aboutWarningCheckbox.label "دفعهٔ بعدی هم این هشدار نمایش داده شود">
 
-<!ENTITY filterPrefs.label "صافی:">
-<!ENTITY filterPrefs.accesskey "ص">
-<!ENTITY focusFilter.key "f">
 
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
+
 <!ENTITY prefColumn.label "نام ترجیحات">
 <!ENTITY lockColumn.label "وضعیت">
 <!ENTITY typeColumn.label "نوع">
 <!ENTITY valueColumn.label "مقدار">
-
 <!-- Tooltips -->
+
 <!ENTITY prefColumnHeader.tooltip "برای مرتب‌سازی کلیک کنید"> 
 <!ENTITY columnChooser.tooltip "برای انتخاب ستون‌هایی که می‌خواهید نمایش داده‌شوند، ‌کلیک کنید"> 
-
 <!-- Context Menu -->
+
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "رونوشت برداشتن">
 <!ENTITY copyPref.accesskey "ن">

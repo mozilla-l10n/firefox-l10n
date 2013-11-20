@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title  "تغییر گذرواژهٔ اصلی">
 <!ENTITY setPassword.tokenName.label "دستگاه امنیتی">
 <!ENTITY setPassword.oldPassword.label "گذرواژهٔ فعلی:">
@@ -10,22 +10,22 @@
 <!ENTITY setPassword.reenterPassword.label "گذرواژهٔ جدید (دوباره وارد کنید):">
 <!ENTITY setPassword.meter.label "کیفیت‌سنج گذرواژه">
 <!ENTITY setPassword.meter.loading "در حال بار کردن">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "صفر کردن">
 <!ENTITY resetPassword.title  "صفر کردن گذرواژهٔ اصلی">
 <!ENTITY resetPassword.text  "اگر گذرواژهٔ اصلی خود را صفر کنید، همهٔ گذرواژه‌های وبی و پست الکترونیکی، اطلاعات فرم‌ها و گواهی‌های شخصی و کلید‌های خصوصی  ذخیره شدهٔ شما فراموش خواهند شد. آیا مطمئنید که می‌خواهید گذرواژهٔ اصلی خود را صفر کنید؟">
-
 <!-- Values for getpassword.xul -->
+
 <!ENTITY getPassword.title  "گذرواژهٔ اصلی را وارد کنید">
 <!ENTITY getPassword.tokenName2.label "دستگاه امنیتی:">
 <!ENTITY getPassword.password.label "گذرواژه:">
-
 <!-- These should be common -->
+
 <!ENTITY piperror.title "خطا">
 <!ENTITY pipalert.title "خطا ‐ قابل بازیابی نیست">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "امنیت">
 <!ENTITY pref.security.general.rHeader "تنظیمات مربوط به امنیت عمومی">
 <!ENTITY pref.security.general.header "تنظیمات مربوط به امنیت عمومی">
@@ -33,8 +33,8 @@
 <!ENTITY pref.security.general.paranoid.label "استفاده از تنظیمات امنیتی شکاکانه">
 <!ENTITY pref.security.general.certificates.title "گواهی‌ها">
 <!ENTITY pref.security.general.manageCert.label "مدیریت گواهی‌ها">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "در حال بارگیری گواهی">
 <!ENTITY downloadCert.message1 "از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.">
 <!ENTITY downloadCert.trustSSL "برای تشخیص هویت وب‌گاه‌ها به این مرجع صدور گواهی اعتماد شود.">
@@ -45,18 +45,14 @@
 <!ENTITY downloadCert.viewPolicy.label "سیاست">
 <!ENTITY downloadCert.viewCert.text "بررسی گواهی مرجع صدور">
 <!ENTITY downloadCert.viewPolicy.text "بررسی سیاست‌ها و رویه‌های مرجع صدور گواهی">
-
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "گواهی موجود است">
-<!ENTITY caCertExists.message "این گواهی از قبل موجود است.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "درخواست تشخیص هویت کاربر">
 <!ENTITY clientAuthAsk.message1 "این وب‌گاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:">
 <!ENTITY clientAuthAsk.message2 "یک گواهی به عنوان مدرک شناسایی انتخاب کنید:">
 <!ENTITY clientAuthAsk.message3 "جزئیات گواهی انتخاب شده:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "انتخاب گواهی">
 <!ENTITY certPicker.info  "گواهی:">
 <!ENTITY certPicker.detailsLabel "جزئیات گواهی انتخاب شده:">
@@ -79,20 +75,18 @@
 <!ENTITY escrowWarn.message2 "با این وجود توجه داشته باشید که کلید خصوصی رمزنگاری شما در مرجع گواهی ذخیره خواهد شد و می‌تواند برای خواندن بی‌اجازهٔ نامه‌ها و نوشتارهای رمزنگاری شدهٔ شما به کار رود.">
 <!ENTITY examineCert.label "نمایش گواهی">
 <!ENTITY examineCert.accesskey "ن">
-
-<!ENTITY serverCrlNextupdate.message "لطفاً از مدیر سیستم‌تان راهنمایی بخواهید.">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "در حال ایجاد کلید خصوصی">
 <!ENTITY createCertInfo.msg1 "تولید کلید در دست اقدام است… این کار ممکن است چند دقیقه طول بکشد….">
 <!ENTITY createCertInfo.msg2 "لطفاً صبر کنید…">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "درخواست امضای متن">
 <!ENTITY formSigning.cert "در حال امضای گواهی">
 <!ENTITY formSigning.confirmPassword "برای تصدیق، این پیغام متنی را با استفاده از گواهی انتخاب شدهٔ خود امضا می‌کنید، لطفاً با وارد کردن گذرواژهٔ اصلی انجام این کار را تصدیق کنید:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "تصدیق هویت توسط نشانهٔ حفاظت شده">
 <!ENTITY protectedAuth.msg "لطفأ در برابر این نشانه هویت خود را تصدیق کنید. روش تصدیق هویت به نوع نشانه‌تان بستگی دارد.">
 <!ENTITY protectedAuth.tokenName.label "نشانه:">
