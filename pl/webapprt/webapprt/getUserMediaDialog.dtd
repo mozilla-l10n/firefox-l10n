@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY getUserMediaDialog.title "Udostępnianie zasobów">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Udostępniaj">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "U">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Anuluj">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
+<!ENTITY getUserMediaDialog.button.accept.label "Udostępniaj">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "U">
+<!ENTITY getUserMediaDialog.button.cancel.label "Anuluj">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "A">
 
 <!ENTITY getUserMediaDialog.video.label "Wybierz kamerę">
 <!ENTITY getUserMediaDialog.video.noVideo "Brak wideo">
