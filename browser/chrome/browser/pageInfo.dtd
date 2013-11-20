@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -60,14 +58,10 @@
 <!ENTITY  permAllowSession      "اجازه دادن برای نشست">
 <!ENTITY  permBlock             "باز داشتن">
 <!ENTITY  permissionsFor        "مجوزهای وب‌گاه:">
-<!ENTITY  permImage             "بارگیری تصاویر">
-<!ENTITY  permPopup             "باز کردن پنجره‌های واشو">
-<!ENTITY  permCookie            "ایجاد کوکی">
-<!ENTITY  permInstall           "نصب ضمیمه یا تم">
-<!ENTITY  permGeo               "به اشتراک گذاشتن موقعیت مکانی">
-<!ENTITY permIndexedDB "نگه‌داری اطلاعات برای استفادهٔ برون‌خط">
-<!ENTITY permClearStorage "پاک‌سازی حافظه">
-<!ENTITY permClearStorage.accesskey "پ">
+<!ENTITY  permPlugins           "فعال کردن افزونه‌ها">
+
+<!ENTITY  permClearStorage           "پاک‌سازی حافظه">
+<!ENTITY  permClearStorage.accesskey "پ">
 
 <!ENTITY  securityTab           "امنیت">
 <!ENTITY  securityTab.accesskey "ا">

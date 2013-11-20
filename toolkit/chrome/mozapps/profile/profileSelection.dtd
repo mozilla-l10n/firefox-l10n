@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "غ">
 <!ENTITY            deleteButton.label     "حذف مجموعه تنظیمات…">
 <!ENTITY            deleteButton.accesskey "ح">
-
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "&brandShortName; تنظیمات، ترجیحات و موارد کاربری دیگر را در مجموعه تنظیمات کاربری شما ذخیره می‌کند.">
 
 <!ENTITY            offlineState.label    "کار برون‌خط">

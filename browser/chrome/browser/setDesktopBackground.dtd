@@ -6,6 +6,8 @@
 <!ENTITY tile.label                 "کاشی">
 <!ENTITY center.label               "مرکز">
 <!ENTITY stretch.label              "کشیده">
+<!ENTITY fill.label                 "پرکردن">
+<!ENTITY fit.label                  "اندازه کردن">
 <!ENTITY preview.label              "پیش‌نمایش">
 <!ENTITY color.label                "رنگ:">
 <!ENTITY setDesktopBackground.title "قراردادن در پس‌زمینهٔ رومیزی">

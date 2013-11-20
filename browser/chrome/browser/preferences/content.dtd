@@ -2,40 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "بازداشتن پنجره‌های واشو">
+<!ENTITY  blockPopups.label           "بستن پنجره‌های اتوماتیک">
 <!ENTITY  blockPopups.accesskey       "ب">
 <!ENTITY  popupExceptions.label       "استثناها…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
-<!ENTITY  loadImages.label            "بارگیری تصاویر به طور خودکار">
-<!ENTITY  loadImages.accesskey        "ت">
-<!ENTITY  exceptions.label            "استثناها…">
-<!ENTITY  exceptions.accesskey        "س">
-
-<!ENTITY  enableJavaScript.label      "فعال بودن جاوا اسکریپت">
-<!ENTITY  enableJavaScript.accesskey  "ج">
-<!ENTITY  advancedJS.label            "پیشرفته…">
-<!ENTITY  advancedJS.accesskey        "پ">
-
-<!ENTITY  enableJava.label            "فعال بودن جاوا">
-<!ENTITY  enableJava.accesskey        "ج">
 
 
-<!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
-
-<!ENTITY  defaultFont.label           "قلم پیش‌فرض:">
-<!ENTITY  defaultFont.accesskey       "ض">
 <!ENTITY  defaultSize.label           "اندازه:">
-<!ENTITY  defaultSize.accesskey       "ن">
+<!ENTITY  defaultSize.accesskey       "ا">
 
-<!ENTITY  advancedFonts.label         "پیشرفته…">
-<!ENTITY  advancedFonts.accesskey     "ش">
+<!ENTITY  advancedFonts.label         "پیشرفته...">
+<!ENTITY  advancedFonts.accesskey     "پ">
 
-<!ENTITY  colors.label                "رنگ‌ها…">
-<!ENTITY  colors.accesskey            "گ">
+<!ENTITY  colors.label                "رنگها‌...">
+<!ENTITY  colors.accesskey            "ر">
 
 
 <!ENTITY languages.label              "زبان‌ها">
 <!ENTITY chooseLanguage.label         "زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید">
 <!ENTITY chooseButton.label           "انتخاب…">
-<!ENTITY chooseButton.accesskey       "خ">
+<!ENTITY chooseButton.accesskey       "ا">

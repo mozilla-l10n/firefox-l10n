@@ -36,7 +36,6 @@
 <!ENTITY  HTTPport.accesskey            "د">
 <!ENTITY  SSLport.accesskey             "ر">
 <!ENTITY  FTPport.accesskey             "گ">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  SOCKSport.accesskey           "ه">
 <!ENTITY  noproxy.label                 "برای این نشانی‌ها از پیشکار استفاده نشود:">
 <!ENTITY  noproxy.accesskey             "ن">

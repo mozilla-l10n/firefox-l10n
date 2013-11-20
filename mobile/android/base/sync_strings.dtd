@@ -1,95 +1,89 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "هم‌گام‌سازی فایرفاکس">
 <!ENTITY syncBrand.shortName.label "هم‌گام‌سازی">
-
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'اتصال به &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'اضافه کردن یک حساب &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'جفت کردن یک دستگاه'>
 
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "وصل شدن به &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "اضافه کردن یک حساب &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "وصل کردن دستگاه">
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'برای فعال‌سازی دستگاه جدید خود، «انجام &syncBrand.shortName.label;» را روی آن دستگاه انتخاب کنید.'>
-<!ENTITY sync.subtitle.header2.label 'این رمز را در دستگاه دیگر خود وارد کنید'>
-<!ENTITY sync.subtitle.connectlocation2.label '«&sync.title.pair.label;» را در قسمت &syncBrand.shortName.label; اختیارات فایرفاکس در دستگاه دیگر خود انتخاب کنید.'>
-<!ENTITY sync.subtitle.pair.label 'برای فعالسازی، «جفت کردن یک دستگاه» را روی دستگاه دیگر خود انتخاب کنید.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'نمایش روش کار.'>
-<!ENTITY sync.link.advancedsetup.label 'تنظیمات پیشرفته…'>
-<!ENTITY sync.link.nodevice.label 'هم‌اکنون دستگاه مورد نظر همراهم نیست…'>
+
+<!ENTITY sync.subtitle.connect.label "برای فعال کردن دستگاه جدید خود “Set up &syncBrand.shortName.label;” را در دستگاه خود انتخاب کنید.">
+<!ENTITY sync.subtitle.header2.label "این کد را در دستگاه دیگر خود وارد کنید">
+
+
+
+
+<!ENTITY sync.link.show.label "نمایش روش کار">
+
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'منتظر دستگاه دیگر…'>
-
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'اطلاعات حساب &syncBrand.fullName.label; خود را وارد نمائید'>
-<!ENTITY sync.input.username.label 'نام حساب'>
-<!ENTITY sync.input.password.label 'گذرواژه'>
-<!ENTITY sync.input.key.label 'کلید بازیابی'>
-<!ENTITY sync.checkbox.server.label 'استفاده از سرویس‌دهندهٔ سفارشی'>
-<!ENTITY sync.input.server.label 'آدرس سرویس‌دهنده'>
-  
+
+<!ENTITY sync.input.password.label "گذرواژه">
+
+
+
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'نمی‌توان &syncBrand.shortName.label; را راه‌اندازی کرد'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; نتوانست به سرور مورد نظر وصل شود. آیا مایلید دوباره امتحان کنید؟'>
-<!ENTITY sync.button.tryagain.label 'تلاش دوباره'>
-<!ENTITY sync.button.manual.label 'راه‌اندازی دستی'>
-<!ENTITY sync.subtitle.nointernet.label 'اتصال اینترنت دردسترس نیست.'>
-<!ENTITY sync.subtitle.failaccount.label 'ساخت حساب روی دستگاه شما شکست خورد.'>
-<!ENTITY sync.subtitle.failmultiple.label 'آیا شما بیش از یک فایرفاکس نصب‌شده دارید؟ در حال حاضر &syncBrand.fullName.label; فقط نصب یک فایرفاکس را در هر زمان پشتیبانی می‌کند. لطفاً نمونه‌های دیگر را به منظور استفاده از &syncBrand.shortName.label; حذف کنید.'>
-  
+
+<!ENTITY sync.button.tryagain.label "تلاش مجدد">
+
+
+
+
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'خاتمهٔ تنظیمات'>
-<!ENTITY sync.subtitle.success.label1 'داده‌های شما هم‌اکنون در پس‌زمینه در حال بارگیری می‌باشد. شما می‌توانید برای مدیریت حساب خود به تنظیمات بروید یا مرور را با &brandShortName; شروع کنید.'>
-<!ENTITY sync.settings.label 'تنظیمات'>
-<!ENTITY sync.subtitle.manage.label1 'حساب &syncBrand.fullName.label; شما هم‌اکنون راه‌اندازی شده است. شما می‌توانید برای مدیریت حساب خود به تنظیمات بروید یا &brandShortName; را اجرا کنید.'>
+  
+<!ENTITY sync.title.success.label "خاتمهٔ تنظیمات">
+
+<!ENTITY sync.settings.label "تنظیمات">
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'لطفاً دوباره امتحان کنید.'>
-<!ENTITY sync.pair.connectlocation.label 'برای فعالسازی دستگاه جدید خود، «انجام &syncBrand.shortName.label;» را روی دستگاه مورد نظر انتخاب کنید و سپس «من یک حساب دارم» را برگزینید.'>
+
+<!ENTITY sync.pair.tryagain.label "لطفاً دوباره تلاش کنید.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'اختیارات'>
-<!ENTITY sync.summary.pair.label 'پیوند یک دستگاه دیگر به حساب &syncBrand.shortName.label; شما'>
+
+<!ENTITY sync.settings.options.label "گزینه‌ها">
+
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.bookmarks "نشانک‌ها">
+
+<!ENTITY sync.configure.engines.title.history "تاریخچه">
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'انصراف'>
-<!ENTITY sync.button.connect.label 'وصل شدن'>
-<!ENTITY sync.button.ok.label 'تأیید'>
-  
-<!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
-  
-<!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'منوی نشانک‌ها'>
-<!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'برچسب‌ها'>
-<!ENTITY bookmarks.folder.toolbar.label 'نوار ابزار نشانک‌ها'>
-<!ENTITY bookmarks.folder.unfiled.label 'نشانک‌های مرتب نشده'>
-<!ENTITY bookmarks.folder.desktop.label 'نشانک‌های (کامپیوتر) رومیزی'>
-<!ENTITY bookmarks.folder.mobile.label 'نشانک‌های (تلفن) همراه'>
-<!ENTITY bookmarks.folder.readinglist.label 'فهرست خواندن'>
 
+<!ENTITY sync.button.cancel.label "انصراف">
+
+<!ENTITY sync.button.ok.label "تأیید">
+<!-- Account strings -->
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "منوی نشانک‌ها">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "برچسب‌ها">
+<!ENTITY bookmarks.folder.toolbar.label "نوار ابزار نشانک‌ها">
+<!ENTITY bookmarks.folder.unfiled.label "نشانک‌های مرتب نشده">
+<!ENTITY bookmarks.folder.desktop.label "نشانک‌های رایانهٴ شخصی">
+<!ENTITY bookmarks.folder.mobile.label "نشانک‌های همراه">
+<!ENTITY bookmarks.folder.readinglist.label "لیست خواندن">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'فقط از یک حساب &syncBrand.fullName.label; پشتیبانی می‌شود.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'نام حساب یا گذرواژه نادرست است.'>
-<!ENTITY sync.invalidserver.label 'لطفاً یک آدرس سرویس‌دهندهٔ معتبر وارد نمایید'>
-<!ENTITY sync.verifying.label 'در حال بررسی…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'کلید بازیابی نادرست است. لطفاً دوباره امتحان کنید.'>
+<!ENTITY sync.invalidserver.label "لطفاً یک نشانی پایگاه صحیح وارد کنید">
+<!ENTITY sync.verifying.label "در حال وارسی…">
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'فرستادن زبانه به دستگاه‌ها'>
-<!ENTITY sync.button.send.label 'فرستادن'>
-<!ENTITY sync.button.set.up.sync.label 'انجام &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'انجام &syncBrand.shortName.label; برای فرستادن زبانه‌ها'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'انجام &syncBrand.fullName.label; روی دستگاه شما برای فرستادن زبانه‌ها به دستگاه‌های دیگر.'>
-<!ENTITY sync.text.tab.sent.label 'زبانهٔ شما فرستاده شد!'>
-<!ENTITY sync.text.tab.not.sent.label 'مشکلی در فرستادن زبانهٔ شما رخ داد.'>
+
+
+
+
+
+

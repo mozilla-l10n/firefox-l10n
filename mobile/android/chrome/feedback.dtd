@@ -2,14 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "ابزارهای بازخورد">
 
-<!ENTITY feedback.communicate.title     "با ما در ارتباط باشید!">
-<!ENTITY feedback.feedback.title        "دادن بازخورد">
-<!ENTITY feedback.feedback.good         "خوب">
-<!ENTITY feedback.feedback.bad          "بد">
 
-<!ENTITY feedback.tools.title           "ابزارها">
-<!ENTITY feedback.allowTelemetry.title  "فرستادن داده‌های مربوط به کارایی">
-<!ENTITY feedback.forceCompat.title     "مجبور کردن افزودنی‌ها به سازگاری">
-<!ENTITY feedback.errorConsole.title    "فعال کردن میزفرمان مربوط به خطا">
+
+
+<!ENTITY feedback.allowTelemetry.title  "ارسال داده‌های اجرایی">
+
+
