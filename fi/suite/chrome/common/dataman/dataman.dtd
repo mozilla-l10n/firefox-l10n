@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is KaiRo's data manager.
-   -
-   - The Initial Developer of the Original Code is
-   - Robert Kaiser <kairo@kairo.at>.
-   - Portions created by the Initial Developer are Copyright (C) 2010
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Robert Kaiser <kairo@kairo.at> (original author)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dataman.windowTitle "Tietojen hallinta">
 
@@ -44,15 +11,16 @@
 <!ENTITY select.permissions.label "Vain oikeudet">
 <!ENTITY select.preferences.label "Vain asetukset">
 <!ENTITY select.passwords.label "Vain salasanat">
+<!ENTITY select.storage.label "Vain tietovarastot">
 
-<!ENTITY domain.search.placeholder "Etsi">
+<!ENTITY domain.search.placeholder "Etsi verkkoalueista">
 <!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Verkkoalue">
 
 <!ENTITY domain.ctx.forgetdomain.label "Unohda tämä verkkoalue">
 <!ENTITY domain.ctx.forgetdomain.accesskey "U">
-<!ENTITY domain.ctx.forgetglobal.label "Unohda yleiset tiedot">
+<!ENTITY domain.ctx.forgetglobal.label "Unohda globaalit tiedot">
 <!ENTITY domain.ctx.forgetglobal.accesskey "U">
 
 <!ENTITY data.search.key "k">
@@ -61,11 +29,12 @@
 <!ENTITY tab.permissions.label "Oikeudet">
 <!ENTITY tab.preferences.label "Asetukset">
 <!ENTITY tab.passwords.label "Salasanat">
+<!ENTITY tab.storage.label "Tietovarastot">
 <!ENTITY tab.formdata.label "Lomaketiedot">
 <!ENTITY tab.forget.label "Unohda">
 
 <!-- cookies -->
-<!ENTITY cookies.description "Seuraavat tätä verkkoaluetta koskevat evästeet on tallennettu tälle tietokoneelle:">
+<!ENTITY cookies.description "Tietokoneellasi on seuraavat tämän verkkoalueen asettamat evästeet:">
 
 <!ENTITY cookies.tree.host.label "Sivusto">
 <!ENTITY cookies.tree.name.label "Evästeen nimi">
@@ -97,6 +66,7 @@
 <!ENTITY perm.AskAlways "Kysy aina">
 <!ENTITY perm.NeverSave "Älä koskaan tallenna">
 <!ENTITY perm.Allow "Salli">
+<!ENTITY perm.AllowSameDomain "Salli samalta verkkoalueelta">
 <!ENTITY perm.AllowSession "Salli istunnon ajaksi">
 <!ENTITY perm.Block "Estä">
 
@@ -136,12 +106,27 @@
 <!ENTITY pwd.button.remove.label "Poista">
 <!ENTITY pwd.button.remove.accesskey "P">
 
+<!-- storage -->
+<!ENTITY storage.description "Tämä verkkoalue käyttää seuraavia tietokoneellesi tallennettuja tietovarastoja:">
+
+<!ENTITY storage.tree.host.label "Sivusto">
+<!ENTITY storage.tree.type.label "Tyyppi">
+<!ENTITY storage.tree.size.label "Koko">
+
+<!ENTITY storage.ctx.remove.label "Poista">
+<!ENTITY storage.ctx.remove.accesskey "o">
+<!ENTITY storage.ctx.selectAll.label "Valitse kaikki">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Poista">
+<!ENTITY storage.button.remove.accesskey "o">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Hakukenttätiedot">
 
 <!ENTITY fdata.tree.fieldname.label "Kentän nimi">
 <!ENTITY fdata.tree.value.label "Kirjoitettu arvo">
-<!ENTITY fdata.tree.usecount.label "Käyttökertoja">
+<!ENTITY fdata.tree.usecount.label "Käyttökerrat">
 <!ENTITY fdata.tree.firstused.label "Käytetty ensimmäisen kerran">
 <!ENTITY fdata.tree.lastused.label "Käytetty viimeksi">
 
@@ -162,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "S">
 <!ENTITY forget.passwords.label "Salasanat">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Tietovarastot">
+<!ENTITY forget.storage.accesskey "T">
 <!ENTITY forget.formdata.label "Lomaketiedot">
 <!ENTITY forget.formdata.accesskey "L">
 

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Tietosuojattu selaus">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; on tällä hetkellä kokeellinen ominaisuus.">
+<!ENTITY privatebrowsingpage.description  "Yksityisikkunassa &brandShortName; ei tallenna tietokoneelle mitään tietoja, kuten väliaikaistiedostoja, evästeitä tai sivu- lataus- tai lomakehistoriaa. Ladatut tiedostot ja kirjanmerkit kuitenkin tallennetaan.">
+<!ENTITY privatebrowsingpage.moreinfo     "Vaikka tälle tietokoneelle ei jää jälkiä sivuista, joilla olet käynyt, työnantajasi tai Internet-palveluntarjoaja voi silti pitää kirjaa niistä.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Lue lisää">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; ei pidä mitään kirjaa tähän ikkunaan liittyen. &privatebrowsingpage.title; loppuu, kun suljet ikkunan.">
+<!ENTITY privatebrowsingpage.switch.label        "Muuta normaaliksi ikkunaksi">
+<!ENTITY privatebrowsingpage.switch.accesskey    "M">
+<!ENTITY privatebrowsingpage.normal       "&privatebrowsingpage.title; ei ole tällä hetkellä käytössä.">
+<!ENTITY privatebrowsingpage.private.label       "Avaa uusi yksityisikkuna">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
+<!ENTITY privatebrowsingpage.info         "Voit myös avata yksityisikkunan valitsemalla Tiedosto ― Uusi ― Yksityisikkuna.">

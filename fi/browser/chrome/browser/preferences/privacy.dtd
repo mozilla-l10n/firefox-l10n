@@ -1,3 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "Seurantatiedot">
+
+<!ENTITY dntTrackingNopref.label2       "Älä kerro sivustoille mitään seuranta-asetuksistani">
+<!ENTITY dntTrackingNopref.accesskey    "Ä">
+<!ENTITY dntTrackingNotOkay.label2      "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY dntTrackingNotOkay.accesskey   "I">
+<!ENTITY dntTrackingOkay.label2         "Ilmoita sivustoille, että haluan niiden seuraavan minua">
+<!ENTITY dntTrackingOkay.accesskey      "m">
+<!ENTITY doNotTrackInfo.label           "Lue lisää">
+
 <!ENTITY  history.label                 "Historiatiedot">
 
 <!ENTITY  locationBar.label             "Osoitepalkki">
@@ -10,12 +24,14 @@
 <!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
 <!ENTITY  locbar.nothing.label          "Ei mistään">
 
-
 <!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
 
-<!ENTITY  acceptThirdParty.label        "Salli kolmannen osapuolen evästeet">
-<!ENTITY  acceptThirdParty.accesskey    "m">
+<!ENTITY  acceptThirdParty.pre.label      "Salli kolmannen osapuolen evästeet:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "m">
+<!ENTITY  acceptThirdParty.always.label   "Aina">
+<!ENTITY  acceptThirdParty.never.label    "Ei milloinkaan">
+<!ENTITY  acceptThirdParty.visited.label  "Vierailluilta sivustoilta">
 
 <!ENTITY  keepUntil.label               "Säilytä evästeet:">
 <!ENTITY  keepUntil.accesskey           "ä">
@@ -29,7 +45,6 @@
 
 <!ENTITY  showCookies.label             "Näytä evästeet…">
 <!ENTITY  showCookies.accesskey         "N">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; säilyttää:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -57,20 +72,17 @@
 <!ENTITY  dontrememberActions.clearHistory.label "poistaa kaikki kerätyt historiatiedot">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Pysyvä yksityinen selaus -tila">
-<!ENTITY  privateBrowsingPermanent.accesskey "s">
+<!ENTITY  privateBrowsingPermanent2.label "Selaa aina yksityinen selaus -tilassa">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Säilytä selaushistoriani">
-<!ENTITY  rememberHistory.accesskey  "e">
-
-<!ENTITY  rememberDownload.label         "Säilytä tieto ladatuista tiedostoista">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Säilytä selaushistoria ja tieto latauksista">
+<!ENTITY  rememberHistory2.accesskey  "u">
 
 <!ENTITY  rememberSearchForm.label       "Säilytä lomakkeiden ja hakupalkin tiedot">
-<!ENTITY  rememberSearchForm.accesskey   "o">
+<!ENTITY  rememberSearchForm.accesskey   "d">
 
 <!ENTITY  clearOnClose.label             "Poista historiatiedot kun &brandShortName; suljetaan">
-<!ENTITY  clearOnClose.accesskey         "k">
+<!ENTITY  clearOnClose.accesskey         "P">
 
 <!ENTITY  clearOnCloseSettings.label     "Asetukset…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">

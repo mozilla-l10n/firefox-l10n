@@ -1,16 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "Lisäasetukset">
 
-<!ENTITY prefEnableJava.caption     "Ominaisuuksia, jotka auttavat verkkosivujen tulkinnassa">
-
-<!ENTITY enbJavaCheck.label         "Salli Java-sovelmat">
-<!ENTITY enbJavaCheck.accesskey     "S">
-
 <!ENTITY systemPref.caption         "Järjestelmän asetukset">
-<!ENTITY systemPrefCheck.label      "Käytä järjestelmästä peräisin olevia asetuksia">
+<!ENTITY systemPrefCheck.label      "Käytä järjestelmän omia asetuksia">
 <!ENTITY systemPrefCheck.accesskey  "K">
-<!ENTITY systemPref.desc            "Jos valitset tämän, &brandShortName; perii asetuksensa järjestelmältä. Nämä järjestelmäasetukset ohittavat &brandShortName;n asetukset.">
+<!ENTITY systemPref.desc            "Jos valitset tämän, &brandShortName; hakee asetuksensa järjestelmältä. Näitä järjestelmäasetuksia noudatetaan mieluummin kuin &brandShortName;n omia asetuksia.">
 
 <!ENTITY prefCheckDefault.caption   "Järjestelmäintegraatio">
-<!ENTITY prefCheckDefaultClient.label "Tarkista oletussovellusten asetukset käynnistettäessä">
+<!ENTITY prefCheckDefaultClient.label "Tarkista oletussovellusten asetukset käynnistyksen yhteydessä">
 <!ENTITY prefCheckDefaultClient.accesskey "T">
+
+<!ENTITY crashReports.caption       "Kaatumisilmoitin">
+<!ENTITY submitCrashes.label        "Lähetä kaatumisilmoitukset">
+<!ENTITY submitCrashes.accesskey    "L">

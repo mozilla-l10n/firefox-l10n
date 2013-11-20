@@ -1,42 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-    Karsten Düsterloh <mnyromyr@tprac.de>
-    Jeremy Morton <bugzilla@game-point.net>
-    Ian Neal <iann_bugzilla@blueyonder.co.uk>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerWindow.title "Sähköposti ja keskusteluryhmät">
 <!ENTITY titleModifier.label "&brandShortName;">
@@ -107,13 +71,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadFlaggedCmd.label "Nouda lipulla merkityt viestit">
 <!ENTITY downloadFlaggedCmd.accesskey "N">
-<!ENTITY printCmd.label "Tulosta…">
-<!ENTITY printCmd.accesskey "o">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "e">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Poista viesti">
@@ -159,6 +116,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
 <!ENTITY showSearchToolbarCmd.label "Hakupalkki">
 <!ENTITY showSearchToolbarCmd.accesskey "H">
+<!ENTITY showTabsToolbarCmd.label "Välilehtipalkki">
+<!ENTITY showTabsToolbarCmd.accesskey "V">
 
 <!ENTITY messagePaneLayoutStyle.label "Näkymä">
 <!ENTITY messagePaneLayoutStyle.accesskey "N">
@@ -215,7 +174,7 @@
 <!ENTITY sortThreaded.accesskey "j">
 <!ENTITY sortUnthreaded.label "Yksittäin">
 <!ENTITY sortUnthreaded.accesskey "Y">
-<!ENTITY groupBySort.label "Lajin mukaan ryhmiteltynä">
+<!ENTITY groupBySort.label "Ryhmiteltynä">
 <!ENTITY groupBySort.accesskey "m">
 <!ENTITY msgsMenu.label "Viestit">
 <!ENTITY msgsMenu.accesskey "V">
@@ -252,6 +211,8 @@
 <!ENTITY bodySanitized.accesskey "Y">
 <!ENTITY bodyAsPlaintext.label "Pelkkä teksti">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Kaikki viestirungon osat">
+<!ENTITY bodyAllParts.accesskey "K">
 
 <!ENTITY bodyMenuFeed.label "Syötteen viesti muodossa">
 <!ENTITY bodyMenuFeed.accesskey "d">
@@ -262,7 +223,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Oletusmuoto">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "O">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Näytä liitteet viestiin sisällytettynä">
+<!ENTITY viewAttachmentsInlineCmd.label "Näytä liitteet osana viestiä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "l">
 <!ENTITY reloadCmd.label "Päivitä">
 <!ENTITY reloadCmd.accesskey "ä">
@@ -273,16 +234,10 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Etsi tästä viestistä…">
-<!ENTITY findCmd.accesskey "E">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Etsi seuraava">
-<!ENTITY findAgainCmd.accesskey "s">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Etsi edellinen">
-<!ENTITY findPrevCmd.accesskey "d">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
 
 <!-- Go Menu -->
 
@@ -330,6 +285,8 @@
 <!ENTITY replyMsgCmd.label "Vastaa">
 <!ENTITY replyMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyListCmd.label "Vastaa listalle">
+<!ENTITY replyListCmd.accesskey "i">
 <!ENTITY replySenderCmd.label "Vastaa lähettäjälle">
 <!ENTITY replySenderCmd.accesskey "V">
 <!ENTITY replyNewsgroupCmd.label "Vastaa keskusteluryhmään">
@@ -383,21 +340,8 @@
 <!ENTITY tagMenu.accesskey "T">
 <!ENTITY tagCustomize.label "Muokkaa…">
 <!ENTITY tagCustomize.accesskey "M">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Merkitse">
 <!ENTITY markMenu.accesskey "M">
-<!ENTITY markAsReadCmd.label "Luetuksi">
-<!ENTITY markAsReadCmd.accesskey "L">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Viestiketju luetuksi">
 <!ENTITY markThreadAsReadCmd.accesskey "V">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -407,9 +351,6 @@
 <!ENTITY markAllReadCmd.label "Kaikki luetuksi">
 <!ENTITY markAllReadCmd.accesskey "K">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Lipulla">
-<!ENTITY markFlaggedCmd.accesskey "L">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Roskapostiksi">
 <!ENTITY markAsJunkCmd.accesskey "R">
 <!ENTITY markAsJunkCmd.key "j">
@@ -424,9 +365,6 @@
 <!ENTITY markAsNotPhishCmd.label "Ei huijauspostiksi">
 <!ENTITY markAsNotPhishCmd.accesskey "h">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Avaa viesti">
-<!ENTITY openMessageWindowCmd.accesskey "A">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Avaa syötteen viesti">
 <!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
@@ -479,7 +417,6 @@
 <!ENTITY deleteButton.label "Poista">
 <!ENTITY undeleteButton.label "Palauta">
 <!ENTITY markButton.label "Merkitse">
-<!ENTITY printButton.label "Tulosta">
 <!ENTITY stopButton.label "Pysäytä">
 <!ENTITY junkButton.label "Roskapostia">
 <!ENTITY notJunkButton.label "Ei roskapostia">
@@ -503,7 +440,6 @@
 <!ENTITY deleteButton.tooltip "Poista valittu viesti tai kansio">
 <!ENTITY undeleteButton.tooltip "Palauta valittu viesti">
 <!ENTITY markButton.tooltip "Merkitse viestit">
-<!ENTITY printButton.tooltip "Tulosta viesti">
 <!ENTITY stopButton.tooltip "Keskeytä lataus">
 <!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
 <!ENTITY junkButton.tooltip "Merkitse valitut viestit roskapostiksi">
@@ -521,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Vastaa lähettäjälle">
 <!ENTITY contextReplySender.accesskey "l">
+<!ENTITY contextReplyList.label "Vastaa listalle">
+<!ENTITY contextReplyList.accesskey "i">
 <!ENTITY contextReplyNewsgroup.label "Vastaa keskusteluryhmään">
 <!ENTITY contextReplyNewsgroup.accesskey "k">
 <!ENTITY contextReplyAll.label "Vastaa kaikille">
@@ -591,21 +529,3 @@
 
 <!ENTITY all.label "Kaikki">
 <!ENTITY all.accesskey "a">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; on päätellyt tämän viestin olevan roskapostia.">
-<!ENTITY junkBarButton.label "Tämä ei ole roskapostia">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "&brandShortName; on estänyt etäsisällön tästä viestistä tietosuojan takia.">
-<!ENTITY loadRemoteContentButton.label "Näytä etäsisältö">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; on päätellyt tämän viestin olevan huijausyritys.">
-<!ENTITY removePhishingBarButton.label "Tämä ei ole huijausyritys">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Tämän viestin lähettäjä haluaa saada ilmoituksen sitten kun avaat tämän viestin. Sallitaanko tämä?">
-<!ENTITY mdnBarIgnoreButton.label "Älä lähetä">
-<!ENTITY mdnBarSendButton.label "Lähetä">

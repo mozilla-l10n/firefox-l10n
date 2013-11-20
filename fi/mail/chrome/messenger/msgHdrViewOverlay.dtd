@@ -1,76 +1,46 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
+<!ENTITY toField4.label "Vastaanottaja ">
+<!ENTITY fromField4.label "Lähettäjä ">
+<!ENTITY senderField4.label "Lähettäjä ">
+<!ENTITY organizationField4.label "Organisaatio ">
+<!ENTITY replyToField4.label "Vastausosoite ">
 
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY toField2.label "vastaanottaja ">
-<!ENTITY fromField2.label "lähettäjä ">
-<!ENTITY senderField2.label "lähettäjä ">
-<!ENTITY organizationField2.label "organisaatio ">
-<!ENTITY replyToField2.label "vastausosoite ">
-
-<!ENTITY subjectField2.label "aihe ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "kopio ">
-<!ENTITY bccField2.label "piilokopio ">
-<!ENTITY newsgroupsField2.label "ryhmät ">
-<!ENTITY followupToField2.label "vastausryhmä ">
-<!ENTITY tagsHdr2.label "avainsanat ">
-<!ENTITY dateField2.label "päiväys ">
-<!ENTITY userAgentField2.label "asiakasohjelma ">
-<!ENTITY referencesField2.label "viittaukset ">
-<!ENTITY messageIdField2.label "viestitunnus ">
-<!ENTITY inReplyToField2.label "vastauksena viestiin ">
-<!ENTITY originalWebsite2.label "verkkosivu ">
+<!ENTITY subjectField4.label "Aihe ">
+<!ENTITY ccField4.label "Kopio ">
+<!ENTITY bccField4.label "Piilokopio ">
+<!ENTITY newsgroupsField4.label "Ryhmät ">
+<!ENTITY followupToField4.label "Vastausryhmä ">
+<!ENTITY tagsHdr4.label "Avainsanat ">
+<!ENTITY dateField4.label "Päiväys ">
+<!ENTITY userAgentField4.label "Asiakasohjelma ">
+<!ENTITY referencesField4.label "Viittaukset ">
+<!ENTITY messageIdField4.label "Viestitunnus ">
+<!ENTITY inReplyToField4.label "Vastauksena viestiin ">
+<!ENTITY originalWebsite4.label "Verkkosivu ">
 
 <!ENTITY editMessageDescription.label "Tämä on luonnos">
 <!ENTITY editMessageButton.label "Muokkaa…">
-<!ENTITY hdrArchiveButton.label "arkistoi">
-<!ENTITY hdrArchiveButton.tooltip "arkistoi viesti">
-<!ENTITY hdrReplyButton.label "vastaa">
-<!ENTITY hdrReplyButton.tooltip "vastaa viestiin">
-<!ENTITY hdrReplyAllButton.label "vastaa kaikille">
-<!ENTITY hdrReplyAllButton.tooltip "vastaa lähettäjälle ja muille vastaanottajille">
-<!ENTITY hdrReplyListButton.label "vastaa listalle">
-<!ENTITY hdrReplyListButton.tooltip "vastaa postituslistalle">
-<!ENTITY hdrForwardButton.label "välitä">
-<!ENTITY hdrForwardButton.tooltip "välitä viesti">
-<!ENTITY hdrJunkButton.label "roskapostia">
-<!ENTITY hdrJunkButton.tooltip "merkitse viesti roskapostiksi">
-<!ENTITY hdrTrashButton.label "poista">
-<!ENTITY hdrTrashButton.tooltip "poista viesti">
+<!ENTITY hdrArchiveButton1.label "Arkistoi">
+<!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
+<!ENTITY hdrSmartReplyButton1.label "Älyvastaus">
+<!ENTITY hdrReplyButton1.label "Vastaa">
+<!ENTITY hdrReplyButton2.tooltip "Vastaa viestin lähettäjälle">
+<!ENTITY hdrReplyAllButton1.label "Vastaa kaikille">
+<!ENTITY hdrReplyAllButton1.tooltip "Vastaa lähettäjälle ja muille vastaanottajille">
+<!ENTITY hdrReplyListButton1.label "Vastaa listalle">
+<!ENTITY hdrReplyListButton1.tooltip "Vastaa postituslistalle">
+<!ENTITY hdrFollowupButton1.label "Vastaa ryhmään">
+<!ENTITY hdrFollowupButton1.tooltip "Lähetä vastaus tähän keskusteluryhmään">
+<!ENTITY hdrMenuForwardButton.label "Välitä">
+<!ENTITY hdrForwardButton1.label "Välitä">
+<!ENTITY hdrForwardButton1.tooltip "Välitä viesti">
+<!ENTITY hdrJunkButton1.label "Roskapostia">
+<!ENTITY hdrJunkButton1.tooltip "Merkitse viesti roskapostiksi">
+<!ENTITY hdrTrashButton1.label "Poista">
+<!ENTITY hdrTrashButton1.tooltip "Poista viesti">
 
 <!ENTITY hdrViewToolbarShowFull.label "Kuvakkeet ja teksti">
 <!ENTITY hdrViewToolbarShowFull.accesskey "j">
@@ -81,30 +51,37 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Näytä aina vastaa lähettäjälle">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "N">
 
-<!ENTITY otherActionsButton.label "muut toiminnot">
-<!ENTITY otherActionsOpenConversation.label "avaa keskusteluna">
-<!ENTITY otherActionsOpenConversation.accesskey "k">
-<!ENTITY otherActionsOpenInNewWindow.label "avaa uuteen ikkunaan">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
-<!ENTITY otherActionsOpenInNewTab.label "avaa uuteen välilehteen">
-<!ENTITY otherActionsOpenInNewTab.accesskey "v">
-<!ENTITY markAsReadMenuItem.label "merkitse luetuksi">
-<!ENTITY markAsReadMenuItem.accesskey "l">
-<!ENTITY markAsUnreadMenuItem.label "merkitse ei luetuksi">
-<!ENTITY markAsUnreadMenuItem.accesskey "e">
-<!ENTITY saveAsMenuItem.label "tallenna nimellä…">
-<!ENTITY saveAsMenuItem.accesskey "t">
-<!ENTITY viewSourceMenuItem.label "näytä lähdekoodi…">
-<!ENTITY viewSourceMenuItem.accesskey "n">
-<!ENTITY otherActionsPrint.label "tulosta…">
-<!ENTITY otherActionsPrint.accesskey "u">
+<!ENTITY otherActionsButton1.label "Muut toiminnot">
+<!ENTITY otherActionsOpenConversation1.label "Avaa keskusteluna">
+<!ENTITY otherActionsOpenConversation1.accesskey "k">
+<!ENTITY otherActionsOpenInNewWindow1.label "Avaa uuteen ikkunaan">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab1.label "Avaa uuteen välilehteen">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "v">
+<!ENTITY markAsReadMenuItem1.label "Merkitse luetuksi">
+<!ENTITY markAsReadMenuItem1.accesskey "l">
+<!ENTITY markAsUnreadMenuItem1.label "Merkitse ei luetuksi">
+<!ENTITY markAsUnreadMenuItem1.accesskey "e">
+<!ENTITY saveAsMenuItem1.label "Tallenna nimellä…">
+<!ENTITY saveAsMenuItem1.accesskey "t">
+<!ENTITY viewSourceMenuItem1.label "Näytä lähdekoodi…">
+<!ENTITY viewSourceMenuItem1.accesskey "n">
+<!ENTITY otherActionsPrint1.label "Tulosta…">
+<!ENTITY otherActionsPrint1.accesskey "u">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Liitepaneeli näkyvissä oletuksena">
+<!ENTITY startExpandedCmd.accesskey    "L">
+
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">
 <!ENTITY saveAsAttachmentCmd.label     "Tallenna nimellä…">
 <!ENTITY saveAsAttachmentCmd.accesskey		 "n">
 <!ENTITY detachAttachmentCmd.label     "Irrota…">
+<!ENTITY detachAttachmentCmd.accesskey    "I">
 <!ENTITY deleteAttachmentCmd.label     "Poista">
+<!ENTITY deleteAttachmentCmd.accesskey    "P">
 <!ENTITY openAllAttachmentsCmd.label    "Avaa kaikki…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label     "Tallenna kaikki…">
@@ -114,9 +91,20 @@
 <!ENTITY deleteAllAttachmentsCmd.label     "Poista kaikki…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey     "K">
 
+<!ENTITY openAttachment.tooltip "Avaa liitetty tiedosto">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Tallenna">
+<!ENTITY saveAttachmentButton1.tooltip     "Tallenna liitetty tiedosto">
+<!ENTITY saveAllAttachmentsButton1.label   "Tallenna kaikki">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Tallenna kaikki liitetyt tiedostot">
+
 <!ENTITY copyLinkCmd.label         "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey		 "K">
 
 <!ENTITY CopyMessageId.label "Kopioi viestitunnus">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Avaa viesti tunnukselle">
-<!ENTITY OpenBrowserWithMsgId.label "Avaa selain viestitunnuksella">
+<!ENTITY OpenMessageForMsgId.accesskey "A">
+<!ENTITY OpenBrowserWithMsgId.label "Avaa selaimeen viestitunnuksella">
+<!ENTITY OpenBrowserWithMsgId.accesskey "s">

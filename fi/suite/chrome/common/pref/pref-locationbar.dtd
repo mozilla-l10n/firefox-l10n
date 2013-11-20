@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
 <!ENTITY pref.locationBar.title                "Osoitepalkki">
 
@@ -22,6 +26,10 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Kaikkialta, mutta sanojen rajoja suosien">
 <!ENTITY autoCompleteMatchWords                "Vain sanojen rajoilta">
 <!ENTITY autoCompleteMatchStart                "Vain sijainnin tai otsikon alusta">
+
+<!ENTITY formatting.label                      "Muotoilu">
+<!ENTITY domainFormatting.label                "Korosta verkkosivujen osoitteiden kaksi viimeistä osaa">
+<!ENTITY domainFormatting.accesskey            "s">
 
 <!ENTITY searchEngine.label                    "Verkkohaku">
 <!ENTITY showSearchEngine.label                "Näytä oletushakukone">

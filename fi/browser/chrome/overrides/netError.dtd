@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -52,15 +56,13 @@
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumentti on vanhentunut">
+<!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu &brandShortName;in väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
+
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Poista valinta kohdasta &quot;Työskentele yhteydettömässä tilassa&quot; ja yritä uudestaan.</li>
+  <li>Siirry yhteystilaan ja lataa sivu uudestaan valitsemalla &quot;Yritä uudelleen&quot;.</li>
 </ul>
 ">
 
@@ -171,6 +173,10 @@
 <!ENTITY cspFrameAncestorBlocked.title "Sisällön tietosuojakäytännön estämä">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
 
+<!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
+<!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Tai lisää poikkeussääntö…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Siirry pois sivulta">
 <!ENTITY securityOverride.exceptionButtonLabel "Lisää poikkeus…">
@@ -186,3 +192,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL-koodia etänä">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">

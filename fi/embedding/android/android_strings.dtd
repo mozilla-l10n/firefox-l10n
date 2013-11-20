@@ -1,6 +1,10 @@
-<!ENTITY  splash_screen_label "ladataan">
-<!ENTITY  splash_screen_installing "asennetaan kirjastoja\u2026">
-<!ENTITY  incompatable_cpu_error "Tämä laite ei täytä &brandShortName;in vähimmäisvaatimuksia laitteistolle.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "Asennetaan &brandShortName;ia\u2026">
+
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
 
@@ -13,5 +17,9 @@
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
 <!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
 <!ENTITY  exit_label "Lopeta">
-<!ENTITY  incompatable_device "&brandShortName; ei tue laitettasi ja voit kokea käytössä ongelmia.">
 <!ENTITY  continue_label "Jatka">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;in verkkosovellukset">
+<!ENTITY  launcher_shortcuts_empty "Ei löydetty verkkosovelluksia">
+
+<!ENTITY choose_file "Valitse tiedosto">

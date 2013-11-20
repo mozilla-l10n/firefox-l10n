@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Siirry pois sivulta">
+<!ENTITY safeb.palm.decline.label "Ohita tämä varoitus">
+<!ENTITY safeb.palm.notforgery.label2 "Tämä ei ole huijaussivu…">
+<!ENTITY safeb.palm.reportPage.label "Miksi tämä sivu on estetty?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Ilmoitettu hyökkäyssivu!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Tämän sivun osoitteessa <span id='malware_sitename'/> on ilmoitettu olevan hyökkäyssivu ja sen avaaminen on turvallisuusasetuksiesi mukaisesti estetty.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hyökkäyssivut yrittävät asentaa tietokoneellesi ohjelmia, jotka keräävät henkilötietoja, käyttävät tietokonettasi toisiin tietokoneisiin kohdistuviin hyökkäyksiin tai muuten vahingoittavat tietokonettasi.</p><p>Joidenkin sivujen tarkoituksena on levittää tällaisia vahingollisia ohjelmia, mutta useat sivut on valjastettu tähän ilman sivun omistajien tietoa tai lupaa.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Epäilty huijaussivu!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tietojen kirjoittaminen tälle sivulle voi johtaa identiteettivarkauteen tai johonkin muuhun petokseen.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tämän tyyppiset verkkohuijaukset on suunniteltu saamaan sinut paljastamaan henkilö- tai pankkitietoja jäljittelemällä mahdollisesti luottamiesi toimijoiden sivuja tai viestintää.</p>">

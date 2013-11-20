@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key        "m">
 <!ENTITY minimizeWindow.label      "Pienennä ikkuna">
 <!ENTITY bringAllToFront.label     "Näytä kaikki">
@@ -15,14 +19,21 @@
 <!ENTITY productHelp.label        "&brandShortName;in ohje">
 <!ENTITY productHelp.accesskey    "o">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Näppäinkomennot">
+<!ENTITY helpKeyboardShortcuts.accesskey "N">
+
 <!ENTITY helpSafeMode.label       "Käynnistä uudelleen lisäosat pois päältä…">
 <!ENTITY helpSafeMode.accesskey   "K">
+
+<!ENTITY healthReport.label       "&brandShortName;in terveydentilaraportti">
+<!ENTITY healthReport.accesskey   "r">
 
 <!ENTITY helpTroubleshootingInfo.label      "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Lähetä palaute…">
-<!ENTITY helpFeedbackPage.accesskey  "L">
+<!ENTITY helpFeedbackPage.label      "Anna palautetta…">
+<!ENTITY helpFeedbackPage.accesskey  "A">
 
 <!ENTITY preferencesCmdMac.label        "Asetukset…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

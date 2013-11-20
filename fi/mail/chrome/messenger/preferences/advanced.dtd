@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label        "Yleiset">
 <!ENTITY itemDisplay.label       "Lukeminen ja näyttö">
 <!ENTITY itemUpdate.label         "Päivitys">
@@ -6,15 +10,25 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Lähetä suorityskykytietoja">
+<!ENTITY submitTelemetry.accesskey     "s">
+<!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
+
+<!ENTITY scrolling.label               "Vieritys">
+<!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">
+<!ENTITY useAutoScroll.accesskey       "V">
+<!ENTITY useSmoothScrolling.label      "Vieritä sivua portaattomasti">
+<!ENTITY useSmoothScrolling.accesskey  "e">
+
 <!ENTITY systemIntegration.label       "Järjestelmään liittäminen">
 <!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
 <!ENTITY alwaysCheckDefault.accesskey  "T">
 <!ENTITY searchIntegration.label       "Salli &searchIntegration.engineName;:n etsiä viesteistä">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Tarkista heti">
-<!ENTITY checkNow.accesskey            "h">
+<!ENTITY checkDefaultsNow.label        "Tarkista heti…">
+<!ENTITY checkDefaultsNow.accesskey    "h">
 <!ENTITY configEditDesc.label          "Kaikkien asetusten muokkaus">
 <!ENTITY configEdit.label              "Asetusten muokkain…">
 <!ENTITY configEdit.accesskey          "A">
@@ -64,6 +78,9 @@
 <!ENTITY showUpdates.label               "Näytä päivityshistoria">
 <!ENTITY showUpdates.accesskey           "N">
 
+<!ENTITY useService.label                "Asenna päivitykset taustapalvelun avulla">
+<!ENTITY useService.accesskey            "u">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Yhteysasetukset…">
 <!ENTITY showSettings.accesskey        "Y">
@@ -74,10 +91,10 @@
 <!ENTITY showOffline.label             "Yhteydetön tila…">
 <!ENTITY showOffline.accesskey         "h">
 
-<!ENTITY Diskspace "Levytilan käyttö">
-<!ENTITY offlineCompact.label "Tiivistä kansiot aina kun se säästää yli">
-<!ENTITY offlineCompact.accesskey "T">
-<!ENTITY kb.label "kt">
+<!ENTITY Diskspace 			"Levytilan käyttö">
+<!ENTITY offlineCompactFolders.label     "Tiivistä kansiot kun se säästää yhteensä yli">
+<!ENTITY offlineCompactFolders.accesskey "T">
+<!ENTITY offlineCompactFoldersMB.label   "Mt">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -100,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Näytä varmenteet">
 <!ENTITY viewCertificates.accesskey     "N">
-<!ENTITY viewCRLs.label                 "Sulkulistat">
-<!ENTITY viewCRLs.accesskey             "S">
 <!ENTITY validation.label               "Kelpuutus">
 <!ENTITY validation.accesskey           "K">
 <!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">

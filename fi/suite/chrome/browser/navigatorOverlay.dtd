@@ -1,0 +1,138 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Selainvälilehti">
+<!ENTITY tabCmd.accesskey "ä">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Avaa verkkosijainti…">
+<!ENTITY openCmd.accesskey "A">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Avaa tiedosto…">
+<!ENTITY openFileCmd.accesskey "d">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "Sulje muut välilehdet">
+<!ENTITY closeOtherTabs.accesskey "m">
+
+<!ENTITY uploadFile.label "Siirrä tiedosto palvelimelle…">
+<!ENTITY uploadFile.accesskey "l">
+
+<!ENTITY printSetupCmd.label "Sivun asetukset…">
+<!ENTITY printSetupCmd.accesskey "e">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Etsi tältä sivulta…">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Työkalupalkit">
+<!ENTITY toolbarsCmd.accesskey "T">
+<!ENTITY tabbarCmd.label "Välilehtipalkki">
+<!ENTITY tabbarCmd.accesskey "V">
+<!ENTITY taskbarCmd.label "Tilarivi">
+<!ENTITY taskbarCmd.accesskey "T">
+<!ENTITY componentbarCmd.label "Komponenttipalkki">
+<!ENTITY componentbarCmd.accesskey "o">
+
+<!ENTITY fullScreenCmd.label "Kokoruututila">
+<!ENTITY fullScreenCmd.accesskey "K">
+
+<!ENTITY useStyleSheetMenu.label "Sivun tyylit">
+<!ENTITY useStyleSheetMenu.accesskey "i">
+<!ENTITY useStyleSheetNone.label "Ei tyylimäärittelyjä">
+<!ENTITY useStyleSheetNone.accesskey "E">
+<!ENTITY useStyleSheetPersistentOnly.label "Oletustyyli">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "O">
+<!ENTITY bidiSwitchPageDirectionItem.label "Vaihda sivun suuntaa">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "V">
+<!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
+<!ENTITY pageSourceCmd.accesskey "v">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Sivun tiedot">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "u">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Siirry">
+<!ENTITY goMenu.accesskey "S">
+<!ENTITY goHomeCmd.label "Aloitussivu">
+<!ENTITY goHomeCmd.accesskey "A">
+<!ENTITY historyCmd.label "Näytä sivuhistoria">
+<!ENTITY historyCmd.accesskey "N">
+<!ENTITY history.commandKey "h">
+<!ENTITY recentTabs.label "Viimeksi suljetut välilehdet">
+<!ENTITY recentTabs.accesskey "V">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Viimeksi suljetut ikkunat">
+<!ENTITY recentWindows.accesskey "i">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Palauta edellinen istunto">
+<!ENTITY historyRestoreLastSession.accesskey "P">
+<!ENTITY syncTabsMenu.label "Välilehdet muissa tietokoneissa">
+<!ENTITY syncTabsMenu.accesskey "m">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Kirjanmerkit">
+<!ENTITY bookmarksMenu.accesskey "K">
+<!ENTITY addCurPageCmd.label "Lisää sivu kirjanmerkkeihin">
+<!ENTITY addCurPageCmd.accesskey "k">
+<!ENTITY addCurPageAsCmd.label "Tallenna kirjanmerkki…">
+<!ENTITY addCurPageAsCmd.accesskey "a">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY addCurTabsAsCmd.accesskey "v">
+<!ENTITY manBookmarksCmd.label "Järjestele kirjanmerkkejä…">
+<!ENTITY manBookmarksCmd.accesskey "J">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Verkkohaku">
+<!ENTITY searchInternetCmd.accesskey "V">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Käännä sivu">
+<!ENTITY translateMenu.accesskey "K">
+
+<!ENTITY cookieMessageTitle.label "Evästeiden asetusoikeudet muuttuneet">
+<!ENTITY cookieDisplayCookiesCmd.label "Tarkastele asetettuja evästeitä">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "T">
+<!ENTITY cookieAllowCookiesCmd.label "Salli tämän sivuston evästeet">
+<!ENTITY cookieAllowCookiesCmd.accesskey "a">
+<!ENTITY cookieAllowCookiesMsg.label "Tältä sivustolta peräisin olevat evästeet hyväksytään aina.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Salli tämän sivuston evästeet istunnon ajaksi">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Tämä sivusto saa asettaa evästeitä ainoastaan nykyisen istunnon ajaksi.">
+<!ENTITY cookieCookiesDefaultCmd.label "Käytä oletusasetuksia">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "K">
+<!ENTITY cookieCookiesDefaultMsg.label "Tältä sivustolta peräisin oleviin evästeisiin sovelletaan oletusasetuksia.">
+<!ENTITY cookieBlockCookiesCmd.label "Estä tämän sivuston evästeet">
+<!ENTITY cookieBlockCookiesCmd.accesskey "E">
+<!ENTITY cookieBlockCookiesMsg.label "Tältä sivustolta peräisin olevia evästeitä ei hyväksytä milloinkaan.">
+
+<!ENTITY cookieImageMessageTitle.label "Kuvienlatausoikeudet muuttuneet">
+<!ENTITY cookieDisplayImagesCmd.label "Muokkaa kuvienlatausoikeuksia">
+<!ENTITY cookieDisplayImagesCmd.accesskey "M">
+<!ENTITY cookieAllowImagesCmd.label "Salli tämän sivuston kuvat">
+<!ENTITY cookieAllowImagesCmd.accesskey "S">
+<!ENTITY cookieAllowImagesMsg.label "Tälle sivustolle kuuluvat kuvat ladataan aina.">
+<!ENTITY cookieImagesDefaultCmd.label "Käytä oletusasetuksia">
+<!ENTITY cookieImagesDefaultCmd.accesskey "K">
+<!ENTITY cookieImagesDefaultMsg.label "Tälle sivustolle kuuluviin kuviin sovelletaan oletusasetuksia.">
+<!ENTITY cookieBlockImagesCmd.label "Estä tämän sivuston kuvat">
+<!ENTITY cookieBlockImagesCmd.accesskey "E">
+<!ENTITY cookieBlockImagesMsg.label "Tälle sivustolle kuuluvia kuvia ei ladata milloinkaan.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Salli tämän sivuston ponnahdusikkunat">
+<!ENTITY cookieAllowPopupsCmd.accesskey "S">
+<!ENTITY cookieManagePopups.label "Muokkaa ponnahdusikkunoiden avausoikeuksia">
+<!ENTITY cookieManagePopups.accesskey "M">
+
+<!ENTITY cookieCookieManager.label "Evästeiden hallinta">
+<!ENTITY cookieCookieManager.accesskey "E">
+<!ENTITY cookieImageManager.label "Kuvien hallinta">
+<!ENTITY cookieImageManager.accesskey "u">
+<!ENTITY cookiePopupManager.label "Ponnahdusikkunoiden hallinta">
+<!ENTITY cookiePopupManager.accesskey "P">
+
+<!ENTITY clearPrivateDataCmd.label "Poista yksityistietoja…">
+<!ENTITY clearPrivateDataCmd.accesskey "o">

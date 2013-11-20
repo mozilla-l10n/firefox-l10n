@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title           "Ohjattu profiilin tuonti">
 
@@ -6,8 +10,8 @@
 
 <!ENTITY importFromNothing.label         "Älä tuo mitään">
 <!ENTITY importFromNothing.accesskey     "Ä">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x tai SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 tai uudempi">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label        "Outlook Express">
 <!ENTITY importFromOExpress.accesskey    "u">
 <!ENTITY importFromOutlook.label         "Outlook">

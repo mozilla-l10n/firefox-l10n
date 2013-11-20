@@ -1,0 +1,69 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Kaukomittaustiedot">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "
+  Kaukomittaus on <span>päällä</span>.
+">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "
+  Kaukomittaus on <span>pois päältä</span>.
+">
+
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Hitaat SQL-lauseet
+">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Selaimen jäätymiset
+">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  Histogrammit
+">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  Yksinkertaiset mittaukset
+">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Lisäosien tiedot
+">
+
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Myöhästyneet kirjoitukset
+">
+
+<!ENTITY aboutTelemetry.systemInfoSection "
+  Järjestelmätiedot
+">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "
+  Lisäosien keräämät histogrammit
+">
+
+<!ENTITY aboutTelemetry.toggleOn "
+  Laajenna osio
+">
+
+<!ENTITY aboutTelemetry.toggleOff "
+  Supista osio
+">
+
+<!ENTITY aboutTelemetry.emptySection "
+  (Ei kerättyjä tietoja)
+">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  Huom.: Hidas SQL-virheenetsintä on päällä. Täydelliset SQL-lausekkeet saattavat näkyä alla, mutta niitä ei lähetetä mittaustietona.
+">
+
+<!ENTITY aboutTelemetry.fetchSymbols "
+  Hae funktioiden nimet jäätymispinoista
+">
+
+<!ENTITY aboutTelemetry.hideSymbols "
+  Näytä raakadata jäätymistilanteista
+">

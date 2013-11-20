@@ -1,4 +1,6 @@
-<!ENTITY accountTitle.label "Tilin asetukset">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY biffStart.label  "Hae uusia artikkeleita">
 <!ENTITY biffStart.accesskey  "H">
@@ -12,6 +14,8 @@
 
 <!ENTITY manageSubscriptions.label  "Muokkaa tilauksia…">
 <!ENTITY manageSubscriptions.accesskey  "M">
+
+<!ENTITY feedWindowTitle.label "Ohjattu syötetilin luonti">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Uutiset ja blogit">

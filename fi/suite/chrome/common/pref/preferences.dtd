@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Asetukset">
 <!ENTITY categoryHeader "Luokka">
@@ -14,6 +18,7 @@
 <!ENTITY links.label "Linkkien avautuminen">
 <!ENTITY offline.label "Yhteydetön tila">
 <!ENTITY security.label "Tietoturva">
+<!ENTITY privatedata.label "Yksityistiedot">
 <!ENTITY cookies.label "Evästeet">
 <!ENTITY images.label "Kuvat">
 <!ENTITY popups.label "Ponnahdusikkunat">
@@ -21,11 +26,11 @@
 <!ENTITY masterpass.label "Pääsalasana">
 <!ENTITY ssl.label "Salaus">
 <!ENTITY certs.label "Varmenteet">
-<!ENTITY validation.label "Kelpuutus">
 <!ENTITY sync.label "Synkronointi">
 <!ENTITY advance.label "Lisäasetukset">
 <!ENTITY down.label "Nouda">
 <!ENTITY cache.label "Väliaikaistiedostot">
+<!ENTITY offlineApps.label "Yhteydettömän tilan sovellukset">
 <!ENTITY proxies.label "Välityspalvelimet">
 <!ENTITY httpnetworking.label "HTTP-asetukset">
 <!ENTITY smart.label "Ohjelmistoasennukset">
@@ -36,5 +41,6 @@
 <!ENTITY policies.label "Turvallisuuskäytännöt">
 <!ENTITY mousewheel.label "Hiiren rulla">
 <!ENTITY scriptsAndWindows.label "Komentosarjat ja liitännäiset">
+<!ENTITY spellingPane.label  "Oikoluku">
 
 <!ENTITY focusSearch.key "f">

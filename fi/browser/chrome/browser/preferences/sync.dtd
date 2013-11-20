@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Määritä &syncBrand.fullName.label; -palvelun asetukset">
 <!ENTITY setupButton.accesskey      "M">
@@ -13,10 +17,11 @@
 <!ENTITY manageAccount.label          "Hallinnoi tiliä">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Näytä tilavaraus">
-<!ENTITY changePassword.label         "Vaihda salasana">
-<!ENTITY mySyncKey.label              "Synkronointiavaimesi">
-<!ENTITY resetSync.label              "Aloita synkronointi alusta">
-<!ENTITY addDevice.label              "Liitä laite">
+<!ENTITY changePassword2.label         "Vaihda salasana…">
+<!ENTITY myRecoveryKey.label          "Palautusavaimeni">
+<!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
+
+<!ENTITY pairDevice.label             "Liitä laite">
 
 <!ENTITY syncMy.label               "Synkronoi">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
@@ -29,11 +34,13 @@
 <!ENTITY engine.passwords.accesskey "a">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.accesskey    "L">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Laitteen nimi:">
-<!ENTITY syncComputerName.accesskey   "L">
-<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
+<!ENTITY syncDeviceName.label       "Laitteen nimi:">
+<!ENTITY syncDeviceName.accesskey   "L">
+<!ENTITY unlinkDevice.label           "Irrota laite">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Käyttöehdot">
