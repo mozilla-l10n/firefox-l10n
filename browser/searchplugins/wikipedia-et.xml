@@ -11,9 +11,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://et.wikipedia.org/wiki/Eri:Search">
+<Url type="text/html" method="GET" template="http://et.wikipedia.org/wiki/Eri:Otsimine">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://et.wikipedia.org/wiki/Eri:Search</SearchForm>
+<SearchForm>http://et.wikipedia.org/wiki/Eri:Otsimine</SearchForm>
 </SearchPlugin>
