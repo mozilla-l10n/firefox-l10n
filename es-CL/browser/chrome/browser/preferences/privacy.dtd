@@ -56,8 +56,8 @@
 <!ENTITY rememberHistory2.label "Recordar mi historial de navegación y descargas">
 <!ENTITY rememberHistory2.accesskey "h">
 <!ENTITY rememberSearchForm.label "Recordar historial de formularios y búsquedas">
-<!ENTITY rememberSearchForm.accesskey "f">
+<!ENTITY rememberSearchForm.accesskey "r">
 <!ENTITY clearOnClose.label "Limpiar historial cuando cierre &brandShortName;">
-<!ENTITY clearOnClose.accesskey "L">
+<!ENTITY clearOnClose.accesskey "i">
 <!ENTITY clearOnCloseSettings.label "Configuraciones…">
 <!ENTITY clearOnCloseSettings.accesskey "g">
