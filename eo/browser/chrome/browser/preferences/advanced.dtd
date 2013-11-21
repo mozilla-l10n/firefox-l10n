@@ -89,7 +89,7 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Aŭtomate instali ĝisdatigojn (rekomendita por via sekureco)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "Aŭtomate ĝisdatigi &brandShortName; el labortablo kaj stilo de Windows 8">
+<!ENTITY updateAutoMetro.label           "Aŭtomate ĝisdatigi el labortabla &brandShortName; kun la stilo de Windows 8">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Kontroli ĉu estas ĝisdatigoj, sed lasi min elekti ĉu instali ilin aŭ ne">
 <!ENTITY updateCheck.accesskey           "K">
