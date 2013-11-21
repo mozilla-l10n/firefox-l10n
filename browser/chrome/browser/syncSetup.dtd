@@ -33,7 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "t">
 <!ENTITY setup.confirmPassword.label     "Konfirmu pasvorton">
 <!ENTITY setup.confirmPassword.accesskey "k">
-<!ENTITY setup.setupMetro.label     "Speguli &brandShortName; je la stilo de Windows 8">
+<!ENTITY setup.setupMetro.label     "Samigi la stilon de &brandShortName; kun tiu de Windows 8">
 <!ENTITY setup.setupMetro.accesskey "S">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are

@@ -17,7 +17,7 @@
 <!ENTITY clearPrivateData.done                                   "Farita!">
 <!ENTITY clearPrivateData.history                                "Historio de retesplorado">
 <!ENTITY clearPrivateData.otherdata                              "Aliaj datumoj (pasvortoj, staplo, kuketoj, ktp)">
-<!ENTITY clearPrivateData.downloadHist                           "Elŝuti historion">
+<!ENTITY clearPrivateData.downloadHist                           "Historio de elŝutoj">
 <!ENTITY clearPrivateData.cookies                                "Kuketoj">
 <!ENTITY clearPrivateData.cache                                  "Staplo">
 <!ENTITY clearPrivateData.sitePref                               "Preferoj de retejo">
