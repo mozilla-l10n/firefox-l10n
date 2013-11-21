@@ -32,10 +32,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Memori pasvortojn">
 <!ENTITY doNotTrack.title                                        "Ne spuri">
-<!ENTITY doNotTrack.options.doNotTrack                           "Diri al retejoj ke mi ne volas esti spurita">
-<!ENTITY doNotTrack.options.doTrack                              "Diri al retejoj ke mi volas esti spurita">
-<!ENTITY doNotTrack.options.default                              "Diri al retejoj nenion pri miaj preferoj de spurado">
-<!ENTITY doNotTrack.learnMoreLink                                "Pli da informo&#x2026;">
+<!ENTITY doNotTrack.desc                                         "Diri al retejoj:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "ke mi ne volas esti spurita">
+<!ENTITY doNotTrack.options.noPreference                         "nenion pri miaj preferoj de spurado">
+<!ENTITY doNotTrack.options.trackingOkay                         "ke mi volas esti spurita">
 
 <!ENTITY optionsHeader.reporting.title                           "Raportado pri paneoj">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sendas raportojn pri paneoj por helpi Mozillan igi vian retesplorilon pli stabila kaj sekura">
