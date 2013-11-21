@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari versi baru…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tidak ada versi baru tersedia">
-<!ENTITY aboutPage.checkForUpdates.found        "Versi baru tersedia">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Layanan Dukungan">
 <!ENTITY aboutPage.privacyPolicy.label          "Kebijakan Privasi">
