@@ -4,103 +4,103 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Usklajevanje za Firefox">
+<!ENTITY syncBrand.shortName.label "Usklajevanje">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.connect.label 'Poveži se z &syncBrand.shortName.label;m'>
+<!ENTITY sync.title.adddevice.label 'Dodaj račun za &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Dodaj napravo'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Za vklop vaše nove naprave na njej izberite “nastavi &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header2.label 'Vnesite ta ključ na drugi napravi'>
+<!ENTITY sync.subtitle.connectlocation2.label 'V nastavitvah Firefoxa na drugi napravi poiščite &syncBrand.shortName.label; in izberite “&sync.title.pair.label;”.'>
+<!ENTITY sync.subtitle.pair.label 'Za vklop izberite “Dodaj napravo” na vaši drugi napravi.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Show me how.'>
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.show.label 'Pokaži mi kako.'>
+<!ENTITY sync.link.advancedsetup.label 'Napredna namestitev …'>
+<!ENTITY sync.link.nodevice.label 'Naprave nimam pri sebi …'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Čakanje na drugo napravo …'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label 'Vnesite podatke računa za &syncBrand.fullName.label; '>
+<!ENTITY sync.input.username.label 'Ime računa'>
+<!ENTITY sync.input.password.label 'Geslo'>
+<!ENTITY sync.input.key.label 'Obnovitveni ključ'>
+<!ENTITY sync.checkbox.server.label 'Uporabi zasebni strežnik'>
+<!ENTITY sync.input.server.label 'URL strežnika'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.title.fail.label '&syncBrand.shortName.label;: nastavitev ni uspela'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ne uspe vzpostaviti povezave s strežnikom. Želite poskusiti znova?'>
+<!ENTITY sync.button.tryagain.label 'Poskusi znova'>
+<!ENTITY sync.button.manual.label 'Ročna nastavitev'>
+<!ENTITY sync.subtitle.nointernet.label 'Povezava z internetom ni na voljo.'>
+<!ENTITY sync.subtitle.failaccount.label 'Ustvarjanje računa na napravi je spodletelo.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Ali imate nameščen več kot en Firefox? &syncBrand.fullName.label; trenutno podpira samo eno sočasno namestitev Firefoxa. Za uporabo &syncBrand.shortName.label; odstranite ostale namestitve.'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.title.success.label 'Namestitev končana'>
+<!ENTITY sync.subtitle.success.label1 'Vaši podatki se sedaj prenašajo v ozadju. Za upravljanje računa lahko greste v nastavitve, ali pa začnete brskati z &brandShortName;om.'>
+<!ENTITY sync.settings.label 'Nastavitve'>
+<!ENTITY sync.subtitle.manage.label1 'Vaš račun za &syncBrand.fullName.label; je že nastavljen. Za upravljanje računa lahko greste v nastavitve ali zaženete &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Please try again.'>
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.tryagain.label 'Poskusite znova.'>
+<!ENTITY sync.pair.connectlocation.label 'Za vklop vaše nove naprave na njej izberite “Nastavi &syncBrand.shortName.label;”, in potem izberite “Imam račun.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.settings.options.label 'Možnosti'>
+<!ENTITY sync.summary.pair.label 'Poveži drugo napravo z svojim &syncBrand.shortName.label; računom'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Bookmarks'>
-<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
-<!ENTITY sync.configure.engines.title.history 'History'>
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.label 'Kaj uskladiti'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Uskladi moje …'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Zaznamki'>
+<!ENTITY sync.configure.engines.title.passwords 'Gesla'>
+<!ENTITY sync.configure.engines.title.history 'Zgodovino'>
+<!ENTITY sync.configure.engines.title.tabs 'Zavihke'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label 'Prekliči'>
+<!ENTITY sync.button.connect.label 'Poveži'>
+<!ENTITY sync.button.ok.label 'V redu'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'Meni zaznamkov'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.tags.label 'Oznake'>
+<!ENTITY bookmarks.folder.toolbar.label 'Vrstica zaznamkov'>
+<!ENTITY bookmarks.folder.unfiled.label 'Nerazvrščeni zaznamki'>
+<!ENTITY bookmarks.folder.desktop.label 'Namizni zaznamki'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobilni zaznamki'>
+<!ENTITY bookmarks.folder.readinglist.label 'Seznam za branje'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label 'Pripeto'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.oneaccount.label 'Samo en račun za &syncBrand.fullName.label; je podprt.'>
+<!ENTITY sync.notification.configure.saved 'Izbira je bila shranjena.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
-<!ENTITY sync.invalidserver.label 'Please enter a valid server URL'>
-<!ENTITY sync.verifying.label 'Verifying…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.invalidcreds.label 'Napačno ime računa ali geslo.'>
+<!ENTITY sync.invalidserver.label 'Vnesite veljaven URL strežnika'>
+<!ENTITY sync.verifying.label 'Preverjanje…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Nepravilen obnovitveni ključ. Poskusi znova.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.title.send.tab.label 'Pošlji zavihek na naprave'>
+<!ENTITY sync.button.send.label 'Pošlji'>
+<!ENTITY sync.button.set.up.sync.label 'Nastavi &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavi &syncBrand.shortName.label; za pošiljanje zavihkov'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavi &syncBrand.fullName.label; na svoji napravi za pošiljanje zavihkov na druge naprave.'>
+<!ENTITY sync.text.tab.sent.label 'Zavihek je bil poslan!'>
+<!ENTITY sync.text.tab.not.sent.label 'Prišlo je do problema pri pošiljanje vašega zavihka.'>
