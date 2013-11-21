@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "Persone agordi">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Serĉi aŭ tajpi adreson">
+<!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Iri al langeto:">
 
