@@ -1,5 +1,5 @@
-google
+googlemetrofx
 yahoo-in
-bing
+bingmetrofx
 wikipedia-hi
 eBay-in
