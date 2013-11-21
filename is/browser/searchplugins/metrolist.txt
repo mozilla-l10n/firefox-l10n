@@ -1,4 +1,7 @@
+amazondotcom
 bingmetrofx
+eBay
 googlemetrofx
-wikipedia
+leit-is
+wikipedia-is
 yahoo
