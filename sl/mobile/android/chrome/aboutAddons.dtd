@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAddons.title2                     "Add-ons">
 <!ENTITY aboutAddons.header2                    "Vaši dodatki">
 <!ENTITY aboutAddons.options                    "Možnosti">
+<!ENTITY aboutAddons.browseAll                  "Browse all Firefox Add-ons">
 
 <!ENTITY addonAction.enable                     "Omogoči">
 <!ENTITY addonAction.disable                    "Onemogoči">
 <!ENTITY addonAction.uninstall                  "Odstrani">
+<!ENTITY addonAction.undo                       "Undo">
