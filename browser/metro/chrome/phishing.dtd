@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
+
+<!ENTITY safeb.palm.reportPage.label "Ինչու՞ էր արգելափակված այս էջը:">
+
+<!ENTITY safeb.blocked.malwarePage.title "Բողոքում եմ: Պիտակել որպես հաձակողական էջ:">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Այս վեբ էջը <span id='malware_sitename'/> պիտակված է որպես հարձակողական էջ և արգելափակվեց համաձայն ձեր անվտանգության նախընտրանքների:">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Հարձակվող էջերը փորձում են տեղադրել ծրագրեր, որոնք գողանում են անձնական տվյալներ, օգտագործում են ձեր համակարգիչը այլ համակարգիչների վրա հարձակման համար:</p><p>Որոշ հարձակվող էջեր դիտմամբ են տարածում վնասակար ծրագրեր, բայց շատերը դա անում են առանց սեփականատերերի գիտության կամ համաձայնության:</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Այս կայքը կասկածվում է խաբեբայության մեջ!">
+
+

@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Պարունակությունը">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Գործողություն">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Փնտրել">
+
+<!ENTITY saveTo.label                 "Պահել ֆայլերը՝">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Միշտ հարցնել ֆայլերի պահման տեղը">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Ընտրել…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Ընտրել…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+<!ENTITY attachments.incoming.label   "Մուտքային">
+<!ENTITY attachments.outgoing.label   "Ելքային">
+
+<!ENTITY addCloudFileAccount.label        "Ավելացնել">
+<!ENTITY addCloudFileAccount.accesskey    "Ա">
+<!ENTITY addCloudFileAccount.description  "Ավելացնել նոր Ֆայլի հղման կրիչ սարք">
+<!ENTITY removeCloudFileAccount.label     "Ջնջել">
+<!ENTITY removeCloudFileAccount.accesskey "Ջ">
+<!ENTITY authRequired.description         "Պահանջվում է ներկայացում՝ տեսնելու շարժական սարքի կարգավորումները։">
+<!ENTITY authRequired.button.label        "Ներկայացում">
+<!ENTITY authRequired.button.accesskey    "Ն">
+
+<!ENTITY enableCloudFileAccountOffer.label "Առաջարկել տարածել ֆայլերը, որոնք մեծ են՝">
+<!ENTITY enableCloudFileAccountOffer.mb "ՄԲ">

@@ -1,7 +1,6 @@
 amazondotcom
-answers
-creativecommons
 eBay
 google
-wikipedia
+wikipedia-hy
 yahoo
+list-am

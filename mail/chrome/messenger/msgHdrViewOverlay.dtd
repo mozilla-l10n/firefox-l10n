@@ -1,0 +1,110 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY toField4.label "To">
+<!ENTITY fromField4.label "From">
+<!ENTITY senderField4.label "Sender">
+<!ENTITY organizationField4.label "Organization">
+<!ENTITY replyToField4.label "Reply to">
+
+<!ENTITY subjectField4.label "Subject">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Newsgroups">
+<!ENTITY followupToField4.label "Followup to">
+<!ENTITY tagsHdr4.label "Tags">
+<!ENTITY dateField4.label "Date">
+<!ENTITY userAgentField4.label "User agent">
+<!ENTITY referencesField4.label "References">
+<!ENTITY messageIdField4.label "Message ID">
+<!ENTITY inReplyToField4.label "In reply to">
+<!ENTITY originalWebsite4.label "Website">
+
+<!ENTITY editMessageDescription.label "Սա սևագիր նամակ է">
+<!ENTITY editMessageButton.label "Խմբագրել...">
+<!ENTITY hdrArchiveButton1.label "Արխիվ">
+<!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
+<!ENTITY hdrSmartReplyButton1.label "Խելացի պատ.">
+<!ENTITY hdrReplyButton1.label "Պատասխանել">
+<!ENTITY hdrReplyButton2.tooltip "Պատասխանել նամակի հեղինակին">
+<!ENTITY hdrReplyAllButton1.label "Պատասխանել բոլորին">
+<!ENTITY hdrReplyAllButton1.tooltip "Պատ. ուղարկողին և մյուսներին">
+<!ENTITY hdrReplyListButton1.label "Պատաս-ի ցանկը">
+<!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrMenuForwardButton.label "Forward As">
+<!ENTITY hdrForwardButton1.label "Փոխանցել">
+<!ENTITY hdrForwardButton1.tooltip "Փոխանցել նամակը">
+<!ENTITY hdrJunkButton1.label "Թափոն">
+<!ENTITY hdrJunkButton1.tooltip "Նշել նամակը որպես թափոն">
+<!ENTITY hdrTrashButton1.label "Ջնջել">
+<!ENTITY hdrTrashButton1.tooltip "Ջնջել այս նամակը">
+
+<!ENTITY hdrViewToolbarShowFull.label "Ցուցադրել պատկերները և տեքստը">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Ցուցադրել միայն պատկերները">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Ցուցադրել միայն տեքստը">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Միշտ ցուցադրել պատասխանը ուղարկողին">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
+<!ENTITY otherActionsButton1.label "Այլք">
+<!ENTITY otherActionsOpenConversation1.label "Բացել պատուհանով">
+<!ENTITY otherActionsOpenConversation1.accesskey "Բ">
+<!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանով">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "Բ">
+<!ENTITY otherActionsOpenInNewTab1.label "Բացել նոր էջում">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "Բ">
+<!ENTITY markAsReadMenuItem1.label "Նշել որպես ընթերցված">
+<!ENTITY markAsReadMenuItem1.accesskey "Ն">
+<!ENTITY markAsUnreadMenuItem1.label "Նշել որպես Չընթերցված">
+<!ENTITY markAsUnreadMenuItem1.accesskey "Ն">
+<!ENTITY saveAsMenuItem1.label "Պահպանել որպես...">
+<!ENTITY saveAsMenuItem1.accesskey "Պ">
+<!ENTITY viewSourceMenuItem1.label "Նայել աղբյուրը">
+<!ENTITY viewSourceMenuItem1.accesskey "Ն">
+<!ENTITY otherActionsPrint1.label "Տպել…">
+<!ENTITY otherActionsPrint1.accesskey "Տ">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Բացել">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Պահպանել որպես…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "Բաժանել...">
+<!ENTITY detachAttachmentCmd.accesskey    "t">
+<!ENTITY deleteAttachmentCmd.label    "Ջնջել">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "Բացել բոլորը...">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Պահպանել բոլորը...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Բաժանել բոլորը...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY openAttachment.tooltip "Բացել կցված ֆայլը">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Պահպանել">
+<!ENTITY saveAttachmentButton1.tooltip     "Պահպանել կցված ֆայլը">
+<!ENTITY saveAllAttachmentsButton1.label   "Պահպանել բոլորը">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Պահպանել բոլոր կցված ֆայլերը">
+
+<!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY CopyMessageId.label "Պատճենել նամակի ID-ին">
+<!ENTITY CopyMessageId.accesskey "Պ">
+<!ENTITY OpenMessageForMsgId.label "Բացել նամակը ID-ի համար">
+<!ENTITY OpenMessageForMsgId.accesskey "Բ">
+<!ENTITY OpenBrowserWithMsgId.label "Բացել դիտարկիչը՝ նամակի ID-ով">
+<!ENTITY OpenBrowserWithMsgId.accesskey "Բ">

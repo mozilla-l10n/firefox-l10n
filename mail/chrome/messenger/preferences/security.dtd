@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Թափոն">
+<!ENTITY itemPhishing.label      "Էլ. խաբկանք">
+<!ENTITY itemPasswords.label     "Գաղտնաբառեր">
+<!ENTITY itemAntiVirus.label     "Հակավիրուս">
+<!ENTITY itemCookies.label       "Վեբ բովանդակություն">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
+<!ENTITY manualMark.label "Երբ ես նշում եմ նամակը որպես թափոն՝">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Տեղափոխել փոստարկղի &quot;Թափոն&quot; թղթապանակ">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Ջնջել դրանք">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Նշել թափոն նամակները որպես ընթերցված">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Միացնել թափոնի հարմարողական ֆիլտրի մատյանը">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Ցուցադրել մատյանը">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Ետարկել ուսուցման տվյալը">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName;-ը կարող է ստուգել նամակները՝ որոշելու համար խաբկանք նամակները։">
+<!ENTITY enablePhishingDetector1.label    "Տեղեկացնել, երբ որևէ նամակը կասկածվում է որպես խաբկանք">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "Օգտագործել խաբկանք նամակների բեռնված ցանկը">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName;-ը կարող է հիշել Ձեր բոլոր փոստարկղերի գաղտնաբառերը։">
+<!ENTITY useMasterPassword.label        "Օգտագործել գաղտնաբառ վարպետին">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Գաղտնաբառի կառավարիչը կպաշտպանի Ձեր բոլոր գաղտնաբառերը, բայց պետք է գոնե մեկ անգամ մուտքագրեք։">
+<!ENTITY changeMasterPassword.label     "Փոխել գաղտնաբառ վարպետին…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Պահպանված գաղտնաբառեր…">
+<!ENTITY savedPasswords.accesskey       "S">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ բեռնելը։">
+<!ENTITY antiVirus.label      "Թույլատրել հակավիրուսին նամակները տեղափոխել կարանտին։">
+<!ENTITY antiVirus.accesskey  "A">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName;-ը հաղորդում է, թե որ բլոգները, նորության շղթաները կամ վեբ կայքերն են թույլատրում cookie-ներ։">
+<!ENTITY acceptCookies.label            "Ընդունել cookie-ներ կայքերից՝">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Պահել մինչև՝">
+<!ENTITY keepUntil.accesskey            "K">
+<!ENTITY expire.label                   "ավարտման ժամկերը">
+<!ENTITY close.label                    "&brandShortName;-ի փակումը">
+<!ENTITY askEachTime.label              "հարցնել ամեն անգամ">
+<!ENTITY cookieExceptions.label         "Բացառություններ">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Ցուցադրել Cookie-ները...">
+<!ENTITY showCookies.accesskey          "S">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
+<!ENTITY doNotTrack.accesskey           "d">
