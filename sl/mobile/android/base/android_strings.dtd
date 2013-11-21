@@ -4,17 +4,17 @@
 
 
 <!ENTITY  no_space_to_start_error "Za zagon &brandShortName;a ni na voljo dovolj pomnilnika.">
-<!ENTITY  error_loading_file "Med poizkusom nalaganja datoteke, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
+<!ENTITY  error_loading_file "Med poskusom nalaganja datotek, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Zaznamki">
 <!ENTITY  history_title "Zgodovina">
-<!ENTITY  reading_list_title "Seznam literature">
+<!ENTITY  reading_list_title "Bralni seznam">
 
 <!ENTITY  switch_to_tab "Preklopi na zavihek">
 
-<!ENTITY  crash_reporter_title "Poročevalec za sesutja &brandShortName;a">
+<!ENTITY  crash_reporter_title "Poročila o sesutju &brandShortName;a">
 <!ENTITY  crash_message2 "&brandShortName; se je zaradi napake sesul. Vaši zavihki so shranjeni na domači strani &brandShortName;a ob vnovičnem zagonu.">
 <!ENTITY  crash_send_report_message3 "Pošljite obvestilo o sesutju organizaciji &vendorShortName;, da ga bodo lahko odpravili">
 <!ENTITY  crash_include_url2 "Vključi naslov strani, ki sem jo obiskal">
@@ -23,12 +23,12 @@
 <!ENTITY  crash_allow_contact2 "Dovoli organizaciji &vendorShortName;, da me lahko zaprosi za dodatna pojasnila">
 <!ENTITY  crash_email "Vaš e-poštni naslov">
 <!ENTITY  crash_closing_alert "Izhod brez pošiljanja poročila o sesutju?">
-<!ENTITY  sending_crash_report "Pošiljanje poročila o sesutju\u2026">
+<!ENTITY  sending_crash_report "Pošiljanje poročila o sesutju \u2026">
 <!ENTITY  crash_close_label "Zapri">
 <!ENTITY  crash_restart_label "Ponovno zaženi &brandShortName;">
 <!ENTITY  exit_label "Izhod">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Spletne aplikacije">
+<!ENTITY  launcher_shortcuts_title "Spletne aplikacije za &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Ni bilo mogoče najti nobene spletne aplikacije">
 
 <!ENTITY choose_file "Izberite datoteko">
@@ -60,7 +60,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Več zavihkov (&formatD;)">
-<!ENTITY new_tab_opened "Nov zavihek odprt">
+<!ENTITY new_tab_opened "Odprt nov zavihek">
 
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
@@ -92,7 +92,7 @@
 
 <!ENTITY pref_cookies_menu "Piškotki">
 <!ENTITY pref_cookies_accept_all "Omogočeno">
-<!ENTITY pref_cookies_not_accept_foreign "Omogočeno, z izjemo tretje strani">
+<!ENTITY pref_cookies_not_accept_foreign "Omogočeno, z izjemo tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
 <!ENTITY pref_donottrack_menu "Sledenje">
@@ -102,7 +102,7 @@
 
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
-<!ENTITY pref_char_encoding_off "Ne pokaži meni">
+<!ENTITY pref_char_encoding_off "Ne pokaži menija">
 <!ENTITY pref_clear_private_data "Počisti zasebne podatke">
 <!ENTITY pref_plugins "Vtičniki">
 <!ENTITY pref_plugins_enabled "Vključeno">
@@ -128,14 +128,14 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Hitra oranžna lisica preskoči vaša pričakovanja z večjo hitrostjo, prilagodljivostjo in varnostjo. Kot neprofitna organizacija lahko svobodno delamo za dobrobit vseh nas, brez pritiskov in kompromisov. To prinaša boljšo izkušnjo za vas in svetlejšo prihodnost za splet.">
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_show_product_announcements "Pokaži obvestila izdelkov">
 <!ENTITY pref_sync "Uskladi">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
-<!ENTITY pref_private_data_history "Zgodovina brskanja in prenosov">
+<!ENTITY pref_private_data_history "Zgodovino brskanja in prenosov">
 <!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
 <!ENTITY pref_private_data_passwords "Shranjena gelsa">
@@ -151,13 +151,13 @@ size. -->
 <!ENTITY pref_search_set_default "Privzet račun">
 <!ENTITY pref_search_default "Privzeto">
 <!ENTITY pref_search_remove "Odstrani">
-<!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vaš zadnji iskalnik.">
+<!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vašega zadnjega iskalnika.">
 
-<!ENTITY datareporting_notification_title "Statistika in podatki &brandShortName;a">
-<!ENTITY datareporting_notification_action_long "Izberite katere informacije želite deliti">
-<!ENTITY datareporting_notification_action "Izberite kaj deliti">
-<!ENTITY datareporting_notification_summary "Za izboljšanje svoje izkušnje z &brandShortName;om samodejno pošlji nekatere informacije &vendorShortName;i.">
-<!ENTITY datareporting_notification_summary_short "Izboljšaj svojo &brandShortName; izkušnjo …">
+<!ENTITY datareporting_notification_title "Statistika in podatki o &brandShortName;u">
+<!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
+<!ENTITY datareporting_notification_action "Izberite, kaj deliti">
+<!ENTITY datareporting_notification_summary "Za izboljšanje vaše izkušnje, &brandShortName; samodejno pošilja nekatere podatke organizaciji &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Za izboljšanje vaše izkušnje, &brandShortName; …">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -167,16 +167,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Zdravniško spričevalo za &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "Oglej si zdravniško spričevalo">
+<!ENTITY datareporting_fhr_summary2 "Pomaga vam razumeti delovanje vašega brskalnika in pošilja podatke o zdravstvenem stanju vašega brskalnika organizaciji &vendorShortName;">
+<!ENTITY datareporting_abouthr_title "Prikaži moje zdravniško spričevalo">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
-<!ENTITY datareporting_telemetry_summary "Z organizacijo &vendorShortName; deli informacije o zmogljivosti, uporabi, strojni opremi in prilagoditvah z namenom narediti &brandShortName; boljši. ">
+<!ENTITY datareporting_telemetry_summary "Pošilja podatke o zmogljivosti, uporabi, strojni opremi in prilagoditvah organizaciji &vendorShortName;, da lahko naredi &brandShortName; boljši">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; pošilja poročila o sesutju organizaciji &vendorShortName;, da lahko naredi brskalnik bolj varen in zanesljiv">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročila o sesutju">
 <!ENTITY datareporting_wifi_title "Lokacijske storitve organizacije &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Pomagaj izboljšati gelokacijske storitve za odprt splet tako, da dovoliš &brandShortName;u zbiranje in pošiljanje anonimnih podatkov. ">
+<!ENTITY datareporting_wifi_summary "Pomagajte izboljšati gelokacijske storitve za odprt splet, tako da dovolite &brandShortName;u zbiranje in pošiljanje anonimnih podatkov.">
 
 <!ENTITY pref_update_autodownload "Samodejne posodobitve">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
@@ -192,7 +192,7 @@ size. -->
 
 <!ENTITY share "Deli">
 <!ENTITY share_title "Deli preko">
-<!ENTITY share_image_failed "Ne morem deliti to sliko">
+<!ENTITY share_image_failed "Slike ni mogoče deliti">
 <!ENTITY save_as_pdf "Shrani kot PDF">
 <!ENTITY find_in_page "Najdi na strani">
 <!ENTITY desktop_mode "Zahtevaj stran za namizja">
@@ -203,7 +203,7 @@ size. -->
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
 <!ENTITY tabs_synced "Usklajeno">
-<!ENTITY set_image_fail "Ne morem nastavit slike">
+<!ENTITY set_image_fail "Ne morem nastaviti slike">
 <!ENTITY set_image_chooser_title "Nastavi sliko kot">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -237,7 +237,7 @@ size. -->
 
 <!ENTITY bookmark_edit_title "Uredi zaznamek">
 <!ENTITY bookmark_edit_name "Ime">
-<!ENTITY bookmark_edit_location "Lokacija">
+<!ENTITY bookmark_edit_location "Naslov">
 <!ENTITY bookmark_edit_keyword "Ključna beseda">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -245,11 +245,11 @@ size. -->
 <!ENTITY site_settings_title3       "Nastavitve strani">
 <!ENTITY site_settings_cancel       "Prekliči">
 <!ENTITY site_settings_clear        "Počisti">
-<!ENTITY site_settings_no_settings  "Ni nastavitev, katere bi bilo potrebno izbrisati.">
+<!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
-<!ENTITY reading_list_added "Stran dodana seznamu za branje">
-<!ENTITY reading_list_removed "Stran odstranjena iz seznama za branje">
-<!ENTITY reading_list_failed "Dodajanje strani na bralni seznam je bilo neuspešno">
+<!ENTITY reading_list_added "Stran dodana na bralni seznam">
+<!ENTITY reading_list_removed "Stran odstranjena iz bralnega seznama">
+<!ENTITY reading_list_failed "Dodajanje strani na bralni seznam ni uspelo">
 <!ENTITY reading_list_duplicate "Stran je že dodana na vaš bralni seznam">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -257,7 +257,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Dodatna dejanja">
 
 <!ENTITY masterpassword_create_title "Ustvari glavno geslo">
-<!ENTITY masterpassword_remove_title "Odstranjevanje glavnega gesla">
+<!ENTITY masterpassword_remove_title "Odstrani glavnega gesla">
 <!ENTITY masterpassword_password "Geslo">
 <!ENTITY masterpassword_confirm "Potrditev gesla">
 
@@ -269,19 +269,19 @@ size. -->
 <!ENTITY button_set "Nastavi">
 <!ENTITY button_clear "Počisti">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "Glavne strani">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Dodaj stran">
 
 <!ENTITY home_history_title "Zgodovina">
-<!ENTITY home_bookmarks_empty "Shranjeni zaznami se prikažejo tukaj.">
+<!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
 <!ENTITY home_last_tabs_title "Nazadnje odprti zavihki">
 <!ENTITY home_last_tabs_open "Odpri vse nazadnje odprte zavihke">
-<!ENTITY home_last_tabs_empty "Vaši najnovejši zavihki se prikažejo tukaj.">
-<!ENTITY home_most_recent_title "Najnovejši">
-<!ENTITY home_most_recent_empty "Spletne strani, ki ste jih obiskali nazadnje se prikažejo tukaj.">
-<!ENTITY home_reading_list_empty "Članki, ki ste jih shranili za kasneje se prikažejo tukaj.">
+<!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši najnovejši zavihki.">
+<!ENTITY home_most_recent_title "Nedavno">
+<!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
+<!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za kasneje.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
@@ -293,13 +293,13 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">
 
-<!ENTITY filepicker_title "Izberite datoteko">
+<!ENTITY filepicker_title "Izberi datoteko">
 <!ENTITY filepicker_audio_title "Izberi ali posnemi zvok">
 <!ENTITY filepicker_image_title "Izberi ali posnemi sliko">
 <!ENTITY filepicker_video_title "Izberi ali posnemi video">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "Povezani ste na">
+<!ENTITY identity_connected_to "Povezani ste na stran">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -311,22 +311,22 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ki jo poganja">
+<!ENTITY identity_run_by "za katero skrbi">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Ta stran prikazuje vsebino, ki ni varna.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; je blokiral nevarno vsebino.">
-<!ENTITY blocked_mixed_content_message_bottom "Tudi, ko bo ta vsebino blokirana bo večina spletnih strani še vedno delovala pravilno.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; je zavrnil vsebino, ki ni varna.">
+<!ENTITY blocked_mixed_content_message_bottom "Večina strani bo delovala pravilo, čeprav je ta vsebina zavrnjena.">
 <!ENTITY learn_more "Več o tem">
 <!ENTITY enable_protection "Omogoči zaščito">
 <!ENTITY disable_protection "Onemogoči zaščito">
-<!ENTITY keep_blocking "Še naprej blokiraj">
+<!ENTITY keep_blocking "Ohrani zavrnjeno">
 
 <!ENTITY private_data_success "Zasebni podatki počiščeni">
 <!ENTITY private_data_fail "Nekateri zasebni podatki niso bilo počiščeni">
 
 <!ENTITY bookmarkhistory_button_import "Uvozi">
-<!ENTITY bookmarkhistory_import_both "Uvažam zaznamki in zgodovino
+<!ENTITY bookmarkhistory_import_both "Uvažam zaznamke in zgodovino
                                       Iz Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Uvažam zaznamke
                                            iz Androida">
@@ -336,7 +336,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Ali bi radi vključili iskalne predloge iskalnika &formatS;?">
+<!ENTITY suggestions_prompt2 "Želite vključiti predloge iskalnika &formatS;?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -351,15 +351,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Na voljo je posodobitev za &brandShortName;">
-<!ENTITY updater_start_select2 "Dotaknite se, če želite prenesti">
+<!ENTITY updater_start_select2 "Tapnite za prenos">
 
 <!ENTITY updater_downloading_title2 "Prenašam &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Prenos neuspešen">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Tapni za ponovni poskus">
+<!ENTITY updater_downloading_select2 "Tapnite za uveljavitev posodobitve, ko se prenese">
+<!ENTITY updater_downloading_retry2 "Tapnite za ponovni poskus">
 
-<!ENTITY updater_apply_title2 "Nadgradnja za &brandShortName; je na voljo">
-<!ENTITY updater_apply_select2 "Tapni za nadgradnjo">
+<!ENTITY updater_apply_title2 "Na voljo je posodobitev za &brandShortName;">
+<!ENTITY updater_apply_select2 "Tapnite za posodobitev">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
@@ -367,7 +367,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Nadaljuj">
 <!ENTITY guest_session_dialog_cancel "Prekliči">
 <!ENTITY new_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
-<!ENTITY new_guest_session_text "Oseba, ki ga bo uporabljala ne bo mogla videt vaših osebnih iskalnih podatkov (gesla, zgodovina ali zaznamki). Ko bo vaše gostovanje končano, bodo njihovi iskalni podatki izbrisani in vaša seja se bo obnovila. .">
+<!ENTITY new_guest_session_text "Oseba, ki jo bo uporabljala, ne bo videla vaših podatkov o brskanju (npr. gesel, zgodovine ali zaznamkov). Ko bo končala z delom, bodo njeni podatki izbrisani in vaša seja se bo obnovila.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
-<!ENTITY exit_guest_session_text "Iskalni podatki iz te seje bodo izbrisani.">
+<!ENTITY exit_guest_session_text "Podatki o brskanju v tej seji bodo izbrisani.">
