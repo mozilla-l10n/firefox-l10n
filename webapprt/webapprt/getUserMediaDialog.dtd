@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                   "Divido de komunikiloj">
-<!ENTITY getUserMediaDialog.button.accept.label     "Dividi">
-<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
-<!ENTITY getUserMediaDialog.button.cancel.label     "Nuligi">
-<!ENTITY getUserMediaDialog.button.cancel.accesskey "N">
+<!ENTITY getUserMediaDialog.buttonlabelaccept       "Dividi">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept   "D">
+<!ENTITY getUserMediaDialog.buttonlabelcancel       "Nuligi">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel   "N">
 
 <!ENTITY getUserMediaDialog.video.label             "Elekti filmilon">
 <!ENTITY getUserMediaDialog.video.noVideo           "Sen filmeto">
