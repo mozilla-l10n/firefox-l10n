@@ -617,7 +617,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 
 <!ENTITY identity.unverifiedsite2 "Spletna stran ne vsebuje podatkov o identiteti.">
-<!ENTITY identity.connectedTo "Povezani ste na">
+<!ENTITY identity.connectedTo "Povezani ste na stran">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -629,7 +629,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ki jo poganja">
+<!ENTITY identity.runBy "za katero skrbi">
 
 <!ENTITY identity.moreInfoLinkText "Več podatkov …">
 

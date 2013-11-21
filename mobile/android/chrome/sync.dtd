@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "Poveži napravo">
 <!ENTITY sync.pair.description      "Za aktivacijo vaše nove naprave izberi &#x0022;Nastavi Usklajevanje za Firefox&#x0022; na vaši napravi.">
 <!ENTITY sync.setup.close           "Zapri">
-<!ENTITY sync.setup.waitingdownload "Vaši podatki se sedaj prenašajo v ozadju. To okno lahko kadarkoli zaprete.">
+<!ENTITY sync.setup.waitingdownload "Podatki se prenašajo v ozadju. To okno lahko kadarkoli zaprete.">
