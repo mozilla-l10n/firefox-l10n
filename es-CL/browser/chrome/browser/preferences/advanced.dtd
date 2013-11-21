@@ -89,7 +89,7 @@
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.description "Cuando un servidor pida mi certificado personal:">
 <!ENTITY certs.auto "Seleccionar uno automáticamente">
-<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.auto.accesskey "y">
 <!ENTITY certs.ask "Preguntarme cada vez">
 <!ENTITY certs.ask.accesskey "g">
 <!ENTITY viewCerts.label "Ver Certificados">
