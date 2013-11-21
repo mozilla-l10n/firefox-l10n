@@ -1,0 +1,19 @@
+
+
+
+<!ENTITY inspectorHTMLCopyInner.label       "Պատճենել ներքին HTML-ն">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "ն">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Պատճենել արտաքին HTML-ն">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ա">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Պատճենել ունիկալ ընտրիչը">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "ո">
+
+<!ENTITY inspectorHTMLDelete.label          "Հեռացնել հանգույցը">
+<!ENTITY inspectorHTMLDelete.accesskey      "Հ">
+
+<!ENTITY inspector.selectButton.tooltip     "Մկնիկով ընտրել տարրը">
+
+<!ENTITY inspectorSearchHTML.label          "Փնտրել HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

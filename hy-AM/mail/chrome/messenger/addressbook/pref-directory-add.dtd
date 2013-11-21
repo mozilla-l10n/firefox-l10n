@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newDirectoryTitle.label           "Թղթ. սպասարկիչի հատկությունները">
+<!ENTITY directoryName.label               "Անուն.">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Հոսթի անունը.">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "Բազայի DN-ն.">
+<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY findButton.label                  "Փնտրել">
+<!ENTITY findButton.accesskey              "F">
+<!ENTITY directorySecure.label             "Օգտ. անվտանգ միացում (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY General.tab                       "Գլխավորը">
+<!ENTITY Offline.tab                       "Անցանց">
+<!ENTITY Advanced.tab                      "Ընդլայնված">
+<!ENTITY portNumber.label                  "Պորտի համարը.">
+<!ENTITY portNumber.accesskey              "P">
+<!ENTITY searchFilter.label                "Փնտրելու ֆիլտրը.">
+<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.label                       "Շրջանը.">
+<!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.label               "Մեկ մակարդակ">
+<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.label                "Ենթածառը.">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "Չվերադարձնել ավելի քան՝">
+<!ENTITY return.accesskey                  "r">
+<!ENTITY results.label                     "արդյունքներ">
+<!ENTITY offlineText.label                 "Կարող եք բեռնել այս թղթապանակի լոկալ օրինակը, որպեսզի այն հասանելի լինի անցանց աշխատելիս։">
+<!ENTITY saslMechanism.label               "Մուտքի եղանակը.">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Պարզ.">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth                 "36em">

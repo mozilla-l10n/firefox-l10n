@@ -1,224 +1,137 @@
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Հիմնական">
 
 <!ENTITY accessibility.label             "Մատչելիություն">
 
-<!ENTITY useCursorNavigation.label       "Էջերում նավիգացիայի համար միշտ օգտագործել կուռսորի սեղմակները:">
-<!ENTITY useCursorNavigation.accesskey   "Է">
-<!ENTITY searchStartTyping.label         "Էջում տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
-<!ENTITY searchStartTyping.accesskey     "Է">
-<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերաբեռնել">
-<!ENTITY blockAutoRefresh.accesskey      "Զ">
+<!ENTITY useCursorNavigation.label       "Էջերում ուղղորդման համար միշտ օգտագործել կուրսորի սեղմակները:">
+<!ENTITY useCursorNavigation.accesskey   "կ">
+<!ENTITY searchStartTyping.label         "Տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
+<!ENTITY searchStartTyping.accesskey     "ք">
+<!ENTITY blockAutoRefresh.label          "Զգուշացնել, երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել էջը">
+<!ENTITY blockAutoRefresh.accesskey      "յ">
 
-<!ENTITY browsing.label                  "Նավարկում">
+<!ENTITY browsing.label                  "Դիտարկում">
 
-<!ENTITY useAutoScroll.label             "Օգտագործել էջր ավտոմատ թերթում">
-<!ENTITY useAutoScroll.accesskey         "Օ">
-<!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ սահքաթերթումը">
-<!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
-<!ENTITY checkSpelling.accesskey         "Տ">
+<!ENTITY useAutoScroll.label             "Օգտագործել ինքնաթերթումը">
+<!ENTITY useAutoScroll.accesskey         "ի">
+<!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ թերթումը">
+<!ENTITY useSmoothScrolling.accesskey    "ո">
+<!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
+<!ENTITY allowHWAccel.accesskey          "ր">
+<!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգել ուղղագրությունը">
+<!ENTITY checkSpelling.accesskey         "մ">
 
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
-<!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "Մ">
-<!ENTITY checkNow.label                  "Հիմա Ստուգել">
-<!ENTITY checkNow.accesskey              "N">
-<!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
-<!ENTITY submitCrashes.accesskey         "t">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Մեկնարկում միշտ ստուգել, արդյոք &brandShortName;-ը հիմնական դիտարկիչն է">
+<!ENTITY alwaysCheckDefault.accesskey    "շ">
+<!ENTITY setDefault.label                "Հաստատել &brandShortName;-ը որպես հիմնական դիտարկիչ">
+<!ENTITY setDefault.accesskey            "հ">
+<!ENTITY isDefault.label                 "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչն է">
 
-<!ENTITY networkTab.label                "Ցանց">
+<!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
 
-<!ENTITY connection.label                "Միացում">
+<!ENTITY healthReportSection.label       "&brandShortName;-ի Վիճակի զեկույց">
+<!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և տարածել տվյալները &vendorShortName;-ի համար">
+<!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">
+<!ENTITY enableHealthReport.accesskey    "Զ">
+<!ENTITY healthReportLearnMore.label     "Մանրամասն">
 
-<!ENTITY connectionDesc.label            "Կարգավորել &brandShortName; - Ինտերնետին միանալու պարամետրերը">
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
+<!ENTITY enableTelemetry.label           "Միացնել Telemetry-ին">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Մանրամասն">
+
+<!ENTITY crashReporterSection.label      "Վթարների Զեկուցող">
+<!ENTITY crashReporterDesc.label         "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
+<!ENTITY enableCrashReporter.label       "Միացնել Վթարների Զեկույցը">
+<!ENTITY enableCrashReporter.accesskey   "Վ">
+<!ENTITY crashReporterLearnMore.label    "Մանրամասն">
+
+<!ENTITY networkTab.label                "Ցանցը">
+
+<!ENTITY connection.label                "Միացումը">
+
+<!ENTITY connectionDesc.label            "Կարգավորեք համացանցին միանալու &brandShortName;-ի ցուցիչները">
 <!ENTITY connectionSettings.label        "Կարգավորել...">
-<!ENTITY connectionSettings.accesskey    "Կ">
+<!ENTITY connectionSettings.accesskey    "ա">
 
-<!ENTITY offlineStorage.label            "Օֆլայն պահոց">
+<!ENTITY httpCache.label                 "Կուտակել ցանցային բովանդակությունը">
 
+<!ENTITY offlineStorage2.label           "Ցանցից դուրս ցանցային բովանդակություն և օգտատերի տվյալներ">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Սահմանափակել քեշը">
+
+<!ENTITY limitCacheSizeBefore.label      "Սահմանափակել պահոցը՝">
 <!ENTITY limitCacheSizeBefore.accesskey  "Ս">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
-<!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
+<!ENTITY limitCacheSizeAfter.label       "ՄԲ">
+<!ENTITY clearCacheNow.label             "Մաքրել հիմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY clearOfflineAppCacheNow.label   "Մաքրել հիմա">
+<!ENTITY clearOfflineAppCacheNow.accesskey "հ">
+<!ENTITY overrideSmartCacheSize.label    "Վերակարգավորել պահոցի կառավարումը">
+<!ENTITY overrideSmartCacheSize.accesskey "Վ">
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
-<!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
-<!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "Երբ որ &brandShortName;­ի համար թարմացումներ են առկա.">
-<!ENTITY askMe.label                     "Հարցնել ինձ">
-<!ENTITY askMe.accesskey                 "Հ">
-<!ENTITY modeAutomatic.label             "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
-<!ENTITY modeAutoAddonWarn.accesskey     "Զ">
+<!ENTITY updateApp.label                 "&brandShortName;-ի թարմացումներ.">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղակայում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
+<!ENTITY updateAuto1.accesskey           "Թ">
+<!ENTITY updateAutoMetro.label           "Ինքնավար թարմացնել աշխատաշրջանից և Windows 8 &brandShortName;-ի ոճից ">
+<!ENTITY updateAutoMetro.accesskey       "տ">
+<!ENTITY updateCheck.label               "Ստուգել թարմացումները, բայց տեղակայման ընտրությունը թողնել ինձ">
+<!ENTITY updateCheck.accesskey           "Ս">
+<!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում. անվտանգության վտանգ)">
+<!ENTITY updateManual.accesskey          "Ե">
+
+<!ENTITY updateAutoAddonWarn.label       "Զգուշացնել, եթե սա պետք է պասիվացնի որևէ հավելում">
+<!ENTITY updateAutoAddonWarn.accesskey   "Զ">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 ոճի &brandShortName;-ը չի ստուգել հավելման համատեղելիությունը)">
+
 <!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
 <!ENTITY updateHistory.accesskey         "Ց">
 
-<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պակպանել ֆայլեր offline ռեժիմում օգտագործելու համար">
+<!ENTITY useService.label                "Թարմացումները տեղակայելիս օգտվել խորքային ծառայությունից">
+<!ENTITY useService.accesskey            "խ">
+
+<!ENTITY updateOthers.label              "Ինքնաշխատ թարմացնել.">
+<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
+<!ENTITY enableSearchUpdate.accesskey    "ք">
+
+<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահպանել ֆայլեր՝ անցանց եղանակում աշխատելու համար">
 <!ENTITY offlineNotify.accesskey         "Տ">
 <!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotifyExceptions.accesskey "ց">
 
-<!ENTITY offlineAppsList.label           "Հետևյալ վեբ կայքերը խահպանել են ինֆորմացիա offline ռեժիմում օգտագործելու համար`">
-<!ENTITY offlineAppsList.height          "10em">
+<!ENTITY offlineAppsList2.label          "Տվյալ կայքերին արտոնված է տվյալներ պահել՝ անցանց աշխատելու համար.">
+<!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">
-<!ENTITY offlineAppRemove.confirm        "Ջնջել offline ֆայլերը">
+<!ENTITY offlineAppRemove.confirm        "Ջնջել անցանց ֆայլերը">
 
-<!ENTITY encryptionTab.label             "Գաղտնագրում">
-
-<!ENTITY protocols.label                 "Աշխատակարգեր">
-<!ENTITY useSSL3.label                   "Օգտագործել SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Օգտագործել TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Արտոնաթղթեր">
-<!ENTITY certSelection.description       "Երբ սերվերը հանցնում է իմ սեփական սերտիֆիկատը`">
-<!ENTITY certs.auto                      "Ընտրել ավտոմատիկորեն">
-<!ENTITY certs.auto.accesskey            "Ը">
+<!ENTITY certificateTab.label            "Վկայագրեր">
+<!ENTITY certSelection.description       "Երբ սպասարկիչը հարցնում է իմ սեփական վկայագիրը`">
+<!ENTITY certs.auto                      "Ընտրել ինքնաշխատ">
+<!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
 <!ENTITY certs.ask.accesskey             "Ա">
-<!ENTITY viewCerts.label                 "Դիտել արտոնագրերը">
-<!ENTITY viewCerts.accesskey             "Դ">
-<!ENTITY viewCRLs.label                  "Վավերազրկման Ցանկեր">
-<!ENTITY viewCRLs.accesskey              "Վ">
+<!ENTITY viewCerts.label                 "Դիտել վկայագրերը">
+<!ENTITY viewCerts.accesskey             "գ">
 <!ENTITY verify2.label                   "Հավաստում">
-<!ENTITY verify2.accesskey               "V">
+<!ENTITY verify2.accesskey               "Հ">
 <!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY viewSecurityDevices.accesskey   "ն">

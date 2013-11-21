@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookPicker.label            "Հասցեագիրքը.">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "Փնտրել՝">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
+
+<!ENTITY deleteAddrBookCard.label           "Ջնջել">
+<!ENTITY deleteAddrBookCard.accesskey       "Ջ">
+<!ENTITY addrBookCardProperties.label       "Հատկություններ">
+<!ENTITY addrBookCardProperties.accesskey   "Հ">
+<!ENTITY addtoToFieldMenu.label             "Ավելացնել Ում դաշտում">
+<!ENTITY addtoToFieldMenu.accesskey         "Ա">
+<!ENTITY addtoCcFieldMenu.label             "Ավելացնել CC դաշտում">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Ավելացնել Bcc դաշտում">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+
+<!ENTITY toButton.label                     "Ավելացնել Ում.">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Ավելացնել Cc.">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Ավելացնել Bcc.">
+<!ENTITY bccButton.accesskey                "B">

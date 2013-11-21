@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Telemetry-ի տվյալ">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry-ին <span>միացված է</span>։">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry-ին <span>անջատված է</span>։">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Ցուցադրել SQL-ի առաջարկությունը">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "       Դիտարկիչի կախումներ">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Գծապատկերներ">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Պարզ չափումներ">
+
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Հետագա գրումներ">
+
+<!ENTITY aboutTelemetry.systemInfoSection "      Տեղեկություն համակարգի մասին">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Հավելումների կողմից հավաքած գծապատկերներ">
+
+<!ENTITY aboutTelemetry.toggleOn "  Սեղմեք՝ մանրամասնելու համար">
+
+<!ENTITY aboutTelemetry.toggleOff "  Սեղմեք՝ մանրամասները թաքցնելու համար">
+
+<!ENTITY aboutTelemetry.emptySection "  (տվյալները չեն հավաքվել)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  ՀԻՇԵՔ. Միացված է SQL-ի վրիպազերծման դանդաղ եղանակը։ Ստորև կարող են ցուցադրվել SQL ամբողջական տողեր, բայց դրանք չեն հաստատվի Telemetry-ում։">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Կանչել գործառույթների անունները՝ շեղջերի կախվելու համար">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Ցուցադրել կախվելու մասին հում տվյալները">

@@ -1,201 +1,90 @@
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Տեղակայում">
-
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
+
+<!ENTITY setup.pickSetupType.description2 "Բարի Գալուստ։ Եթե նախկինում չեք օգտագործել &syncBrand.fullName.label;-ը, ապա պետք է ստեղծեք նոր հաշիվ։">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
-<!ENTITY setup.haveAccount.label "Ես արդեն ունեմ &syncBrand.fullName.label; հաշիվ:">
-<!ENTITY button.connect.label    "Միանալ">
+<!ENTITY button.haveAccount.label      "Ես ունեմ հաշիվ">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Ես օգտագործում եմ &syncBrand.shortName.label; մեկ այլ համակարգչում:">
-
+<!ENTITY setup.choicePage.existing2.label "Ես արդեն օգտագործում եմ &syncBrand.shortName.label;-ը այլ սարքում">
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Սպասարկչ">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Սպասարկիչ">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
+
+<!ENTITY server.label               "Սպասարկիչ">
+<!ENTITY serverType.default.label      "Mozilla-ի հիմնական սպասարկիչը՝ &syncBrand.fullName.label; ">
+<!ENTITY serverType.custom2.label   "Օգտագործել ընտրված սպասարկիչը…">
 <!ENTITY signIn.account2.label      "Հաշիվ">
 <!ENTITY signIn.account2.accesskey  "Հ">
 <!ENTITY signIn.password.label      "Գաղտնաբառը">
 <!ENTITY signIn.password.accesskey  "Գ">
-<!ENTITY signIn.syncKey.label       "Սինք բանալի">
-<!ENTITY signIn.syncKey.accesskey   "Ս">
-
+<!ENTITY signIn.recoveryKey.label       "Բանալու վերականգնում">
+<!ENTITY signIn.recoveryKey.accesskey   "Բ">
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
-<!ENTITY setup.confirmPassword.label  "Հաստատել գաղտնաբառը">
-<!ENTITY setup.confirmPassword.accesskey  "Հ">
-<!ENTITY setup.emailAddress.label     "էլ­-Փոստի հասցեն">
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Հաշվի Մանրամասներ">
+<!ENTITY setup.emailAddress.label     "էլ. փոստի հասցեն">
 <!ENTITY setup.emailAddress.accesskey "է">
+<!ENTITY setup.choosePassword.label      "Ընտրեք Գաղտնաբառ">
+<!ENTITY setup.choosePassword.accesskey  "Ը">
+<!ENTITY setup.confirmPassword.label     "Հաստատել գաղտնաբառը">
+<!ENTITY setup.confirmPassword.accesskey "Հ">
+<!ENTITY setup.setupMetro.label     "Սինք Windows 8-ի ոճով &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "Ս">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Ես համաձայն եմ">
 <!ENTITY setup.tosAgree1.accesskey  "Ե">
 <!ENTITY setup.tosLink.label        "Ծառայության պայմաններին">
 <!ENTITY setup.tosAgree2.label      "և">
 <!ENTITY setup.ppLink.label         "Գաղտնիության Դրույթները">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "և">
+<!ENTITY setup.tosAgree3.label      "Գաղտնիության Դրույթները">
+<!ENTITY setup.tosAgree2.accesskey  "">
+<!-- My Recovery Key dialog -->
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;-ը հոգում է ձեր գաղտնիության մասին">
-<!ENTITY setup.newSyncKeyPage.description.label "Ձեր բացարձակ գաղտնիության ապահովման համար տվյալները գաղտնագրվեւմ են ուղարկվելուց առաջ: Sync բանալին որը անհրաժեշտ է տվյալների ապակոդավորման համար բեռնված չէ:">
-<!ENTITY syncKeyEntry.label        "Ձեր Sync բանալին">
-<!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Առաջացնել">
-<!ENTITY syncKeyBackup.description " Պահանջվում է Ձեր Սինք բանալին այլ սարքերում &syncBrand.fullName.label; մուտք գործելու համար:Խնդրում ենք ստեղծեք պահուստային կրկնօրինակ:Մենք չենք կարող օգնել ձեզ վերականգնել ձեր Սինք բանալին:">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;-ը հոգում է ձեր գաղտնիության մասին">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Անվտանգության նկատառումներով ձեր բոլոր տվյալները կկոդավորվեն և նոր միայն կվերբեռնվեն։ Վերականգնման բանալին, որը պետք է տվյալները ապակոդավորման համար, չի վերբեռնվի։">
+<!ENTITY recoveryKeyEntry.label        "Ձեր վերականգնման բանալին">
+<!ENTITY recoveryKeyEntry.accesskey    "բ">
+<!ENTITY syncGenerateNewKey.label  "Ստեղծել նոր բանալի">
+<!ENTITY recoveryKeyBackup.description "Վերականգնման բանալին պահանջում է մուտք &syncBrand.fullName.label;-ին։ Նախ ստեղծեք պահուստային օրինակը։">
 
 <!ENTITY button.syncKeyBackup.print.label     "Տպել…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Տ">
 <!ENTITY button.syncKeyBackup.save.label      "Պահպանել…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "Պ">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Խնդրեմ հաստատեք որ դուք Ռոբոտ չեք">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ավելացրեք սարք">
+<!ENTITY pairDevice.title.label             "Սարքի զույգը">
 <!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
 <!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Ակտիվացնելու համար ընտրեք &quot;Կցել սարքը&quot; Ձեր այլ սարքում։">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
-<!ENTITY addDevice.dialog.description.label "Ձեր նոր սարքը ակտիվացնելու համար գնացեք &syncBrand.shortName.label; Ընտրանքներ` ձեր սարքում և ընտրեք &#x0022;ը, միացեք &#x0022;ին">
+<!ENTITY pairDevice.dialog.description.label "Ակտիվացնելու համար նոր սարքը, ընտրեք &quot;Կարգ. Սինքը&quot; Ձեր սարքում։">
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
-<!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
-<!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է:Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
-<!ENTITY addDevice.dialog.syncKey.label     "Այս սարքը ակտիվացնելու համար դուք պետք է մուտքագրեք ձեր Sync բանալին:Խնդրում ենք,տպեք կամ պահպանեք այս բանալին և այն վերցրեք ձեր հետ:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձել:">
+<!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է: Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Սարքը ակտիվացնելու համար պետք է մուտքագրեք Վերականգնման բանալին։ Տպեք կամ պահպանեք բանալին։">
 <!ENTITY addDevice.dialog.connected.label   "Սարքը միացված է">
-
 <!-- Existing Account Page 2: Manual Login -->
+
 <!ENTITY setup.signInPage.title.label "Մտնել">
-<!ENTITY existingSyncKey.description "Դուք կարող եք ձեռք բերել Sync բանալու կրկնօրինակը գնալով &syncBrand.shortName.label;Ընտրանքներ` ձեր մյուս սարքում,և ընտրելով &#x0022;ը, Իմ Sync բանալի;&#x0022;ի ներքո;Կարգավորել Հաշիվ&#x0022;ը ">
+<!ENTITY existingRecoveryKey.description "Կարող եք ստանալ Վերականգնման ձեր բանալին բացելով &syncBrand.shortName.label;-ի Ընտրանքները և ընտրելով &quot;Վերականգնման իմ բանալին&quot;՝&quot;Հաշվի կառավարման&quot; մեջ։">
 <!ENTITY verifying.label              "Ստուգում…">
-<!ENTITY resetPassword.label          "Վերանշել գաղտնաբառը">
+<!ENTITY resetPassword.label          "Ետարկել գաղտնաբառը">
 <!ENTITY resetSyncKey.label           "Ես կորցրել եմ իմ մյուս սարքը:">
-
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
-<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
-<!ENTITY syncComputerName.accesskey   "Հ">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY setup.optionsPage.title      "Սինքի ընտանքներ">
+<!ENTITY syncDeviceName.label       "Սարքի անունը.">
+<!ENTITY syncDeviceName.accesskey   "ք">
+
+<!ENTITY syncMy.label               "Սինք իմ՝">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
 <!ENTITY engine.bookmarks.accesskey "Է">
 <!ENTITY engine.tabs.label          "Ներդիրներ">
@@ -206,20 +95,22 @@
 <!ENTITY engine.passwords.accesskey "Գ">
 <!ENTITY engine.prefs.label         "Նախընտրանքներ">
 <!ENTITY engine.prefs.accesskey     "Ն">
+<!ENTITY engine.addons.label        "Հավելումներ">
+<!ENTITY engine.addons.accesskey    "Հ">
 
-<!ENTITY choice2.merge.main.label      "Միացնել այս համակարգչի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
+<!ENTITY choice2a.merge.main.label       "Միավորել տվյալ սարքի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
 <!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">
-<!ENTITY choice2.client.main.label     "Փոխարինել այս համակարգչի ողջ տվյալները &syncBrand.shortName.label;-ի տվյալներով">
-<!ENTITY choice2.server.main.label     "Փոխարինել բոլոր մյուս սարքերը այս համակարգչի տվյալներով">
-
+<!ENTITY choice2a.client.main.label      "Վերագրել այս սարքի բոլոր տվյալները &syncBrand.shortName.label;-ի տվյալներով">
+<!ENTITY choice2a.server.main.label      "Փոխարինել բոլոր այլ սարքերը սարքի տվյալներով">
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Հաստատել">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label;ը հիմա կընկղմի համակարգչի բրաուզերի այս բոլոր տվյալները ձեր Sync հաշվի մեջ: ">
-<!ENTITY confirm.client2.label         "Զգուշացում` հետևյալ &brandShortName;-ի տվյալները այս համակարգչում կջնջվեն:">
-<!ENTITY confirm.client.moreinfo.label "Հետո &brandShortName;-ը կկրկնակի ձեր &syncBrand.fullName.label; տվյալները այս համակարգչում:">
-<!ENTITY confirm.server2.label         "Զգուշացում` հետևյալ սարքերը կվերագրանցվեն ձեր տեղային տվյալների միջոցով:">
 
+<!ENTITY setup.optionsConfirmPage.title "Հաստատել">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label;-ը այժմ կմիացնի բոլոր սարքերի դիտարկիչների տվյալները Սինքի ձեր հաշվին։">
+<!ENTITY confirm.client3.label         "Զգուշացեք. &brandShortName;-ի տվյալը այս սարքում կջնջվի։">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName;-ը կպատճենի &syncBrand.fullName.label;-ի Ձեր տվյալը այս սարքում։">
+<!ENTITY confirm.server2.label         "Զգուշացում` հետևյալ սարքերը կվերագրանցվեն ձեր տեղային տվյալների միջոցով:">
 <!-- New & Existing Account: Setup Complete -->
+
 <!ENTITY setup.successPage.title "Տեղադրումը ավարտված է">
-<!ENTITY changeOptions.label "Դուք կարող եք փոխել այս նախընտրանքը` ընտրելով ստորև բերված Sync Ընտրանքները:">
+<!ENTITY changeOptions.label "Դուք կարող եք փոխել այս նախընտրանքը` ընտրելով ստորև բերված Սինքի Ընտրանքները:">
 <!ENTITY continueUsing.label "Հիմա դուք կարող եք շարունակել օգտվել &brandShortName;-ից:">

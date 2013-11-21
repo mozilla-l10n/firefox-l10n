@@ -1,129 +1,15 @@
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
-<!-- ******* BEGIN LICENSE BLOCK **********
-    Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   
-    The contents of this file are subject to the Mozilla Public License Version
-    1.1 (the "License"); you may not use this file except in compliance with
-    the License. You may obtain a copy of the License at
-    http://www.mozilla.org/MPL/
-   
-    Software distributed under the License is distributed on an "AS IS" basis,
-    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-    for the specific language governing rights and limitations under the
-    License.
-   
-    The Original Code is Mozilla Progress Dialog.
-   
-    The Initial Developer of the Original Code is
-    Netscape Communications Corp.
-    Portions created by the Initial Developer are Copyright (C) 2002
-    the Initial Developer. All Rights Reserved.
-   
-    Contributor(s):
-      Vahe Khachikyan                         <vahe@khachikyan.de>
-      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
-      Robert Sargsyan                         <robyerevan@gmail.com>
-      Armen Zambrano Gasparnian               <armenzg@gmail.com>
-   
-    Alternatively, the contents of this file may be used under the terms of
-    either the GNU General Public License Version 2 or later (the "GPL"), or
-    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-    in which case the provisions of the GPL or the LGPL are applicable instead
-    of those above. If you wish to allow use of your version of this file only
-    under the terms of either the GPL or the LGPL, and not to allow others to
-    use your version of this file under the terms of the MPL, indicate your
-    decision by deleting the provisions above and replace them with the notice
-    and other provisions required by the LGPL or the GPL. If you do not delete
-    the provisions above, a recipient may use your version of this file under
-    the terms of any one of the MPL, the GPL or the LGPL.
-
-******* END LICENSE BLOCK ********** -->
 <!ENTITY sanitizePrefs2.title          "Պատմության մաքրման կարգավորումներ">
 <!ENTITY sanitizeDialog2.title         "Մաքրել Վերջին Պատմությունը">
 
-<!ENTITY sanitizeItems.label          "Մաքրել հետեվյալ բաղադիրները հիմա.">
-<!ENTITY clearDataSettings2.label     "Երբ ես դուրս գամ &brandShortName; -ից, այն պիտի ավտոմատ մաքրի ամենը`">
-
+<!ENTITY clearDataSettings2.label     "&brandShortName;-ը փակելիս միանգամից մաքրել ամենը`">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
+
 <!ENTITY clearTimeDuration.label          "Ջնջելու ենթակա ժամանակահատվածը`">
 <!ENTITY clearTimeDuration.accesskey      "Ջ">
 <!ENTITY clearTimeDuration.lastHour       "Վերջին ժամի">
@@ -133,47 +19,44 @@
 <!ENTITY clearTimeDuration.everything     "Ամենը">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Այցելման ամսաթիվ">
+<!ENTITY clearTimeDuration.suffix         "Ամենը">
+<!ENTITY clearTimeDuration.dateColumn     "Այցելման ամսաթիվը">
 <!ENTITY clearTimeDuration.nameColumn     "Անվանումը">
-
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
+
 <!ENTITY detailsProgressiveDisclosure.label     "Մանրամասներ">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ա">
 
 <!ENTITY historySection.label         "Պատմություն">
 <!ENTITY dataSection.label            "Տվյալներ">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Նավարկման և Բեռնումների Մատյան">
-<!ENTITY itemHistoryAndDownloads.accesskey "Ն">
-<!ENTITY itemBrowsingHistory.label         "Նավարկման Հուշամատյան">
-<!ENTITY itemBrowsingHistory.accesskey     "b">
-<!ENTITY itemFormSearchHistory.label       "Ձևերի և որոնման պատմություն">
+<!ENTITY itemHistoryAndDownloads.label     "Հաճախումների &amp; բեռնումների պատմությունը">
+<!ENTITY itemHistoryAndDownloads.accesskey "Հ">
+<!ENTITY itemFormSearchHistory.label       "Ձևերի &amp; Որոնման պատմությունը">
 <!ENTITY itemFormSearchHistory.accesskey   "Ձ">
 <!ENTITY itemPasswords.label               "Պահպանված Գաղտնաբառերը">
-<!ENTITY itemPasswords.accesskey           "P">
-<!ENTITY itemCookies.label                 "Պատրաստուքները">
+<!ENTITY itemPasswords.accesskey           "Գ">
+<!ENTITY itemCookies.label                 "Cookie-ները">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Պահոցը">
-<!ENTITY itemCache.accesskey               "a">
-<!ENTITY itemOfflineApps.label             "Վեբ Կայքերի Օֆլյն Տվյալներ">
-<!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Բեռնավորման Մատյանը">
-<!ENTITY itemDownloadHistory.accesskey     "d">
+<!ENTITY itemCache.accesskey               "ա">
+<!ENTITY itemOfflineApps.label             "Վեբ կայքերի անցանց տվյալներ">
+<!ENTITY itemOfflineApps.accesskey         "Վ">
 <!ENTITY itemActiveLogins.label            "Ակտիվ Մուտքեր">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "Մ">
 <!ENTITY itemSitePreferences.label         "Կայքի նախըտրանքներ">
 <!ENTITY itemSitePreferences.accesskey     "Կ">
-
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Այս գործողությունը չի կարող լինել անավարտ:">
 
-<!ENTITY dialog.width                 "32em">
-<!ENTITY column.width                 "14em">
+<!ENTITY sanitizeEverythingUndoWarning     "Այս գործողությունը չի կարող ետարկվել:">
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+     Clear History on Shutdown dialogs.  Should be large enough to contain
+     the item* strings above on a single line.  The column width should be set
+     at half of the dialog width. -->
+
+<!ENTITY dialog.width2                 "34em">
+<!ENTITY column.width2                 "17em">

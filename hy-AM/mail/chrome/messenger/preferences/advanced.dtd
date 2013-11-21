@@ -1,0 +1,125 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "Ընդհանուր">
+<!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
+<!ENTITY itemUpdate.label        "Թարմացնել">
+<!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
+<!ENTITY itemCertificates.label  "Հավաստագրեր">
+
+<!-- General Settings -->
+
+<!ENTITY submitTelemetry.label         "Հաստատել արտադրողական տվյալը">
+<!ENTITY submitTelemetry.accesskey     "Հ">
+<!ENTITY telemetryInfoLink.label       "Մանրամասն Telemetry-ի մասին">
+<!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
+<!ENTITY enableGlodaSearch.accesskey   "Մ">
+
+<!ENTITY scrolling.label               "Թերթումը">
+<!ENTITY useAutoScroll.label           "Օգտագործել ինքնավար թերթում">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Օգտագործել կոկիկ թերթում">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
+<!ENTITY systemIntegration.label       "Համակարգային ինտեգրում">
+<!ENTITY alwaysCheckDefault.label      "Բացելիս միշտ ստուգել, թե արդյոք &brandShortName;-ը փոստային հիմնական ծրագիրն է">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
+<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY checkDefaultsNow.label        "Ստուգել...">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Ընդլայնված կարգավորում">
+<!ENTITY configEdit.label              "Խմբագրիչի կարգ...">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Որոշեք, թե &brandShortName;-ը ինչպես վարվի ստացականների հետ։">
+<!ENTITY showReturnReceipts.label      "Ստացականներ...">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Ընթերցում">
+<!ENTITY display.caption               "Ցուցադրել">
+<!ENTITY showCondensedAddresses.label  "Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը ">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label          "Նշել նամակները ընթերցված՝">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Միանգամից, երբ նայում ես">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Ժամանակ անց՝">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "վայրկյան">
+<!ENTITY openMsgIn.label               "Բացել նամակը՝">
+<!ENTITY openMsgInNewTab.label         "Նոր էջ">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "Նոր պատուհանում">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "Տվյալ պատուհանում">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Փակել նամակի էջը/պատուհանը ջնջելուց հետո">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Ստուգել թարմացումները՝">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Տեղադրված Հավելումներ">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
+<!ENTITY whenUpdatesFound.label         "Եթե հասանելի են &brandShortName;-ի թարմացումները՝">
+<!ENTITY modeAskMe.label                "Հարցնել ինձ">
+<!ENTITY modeAskMe.accesskey            "m">
+<!ENTITY modeAutomatic.label            "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "Զգուշացնել, եթե որևէ հավելում պետք է անջատվի">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
+<!ENTITY showUpdates.label              "Ցուցադրել թարմացումների պատմությունը">
+<!ENTITY showUpdates.accesskey          "S">
+
+<!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
+<!ENTITY useService.accesskey            "b">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Կարգավորումներ...">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը մուտք գործի համացանց">
+<!ENTITY connectionsInfo.caption       "Միացում">
+<!ENTITY offlineInfo.caption           "Անցանց">
+<!ENTITY offlineInfo.label             "Կարգավորել անցանցը">
+<!ENTITY showOffline.label             "Անցանց...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Ազատ տեղ">
+<!ENTITY offlineCompactFolders.label     "Սեղմել թղթապանակները, եթե դա կխնայի՝ ">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "ՄԲ ընդամենը">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "ՄԲ պահոցի համար">
+<!ENTITY clearCacheNow.label             "Մաքրել Հիմա">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Երբ սպասարկիչը պահանջում է հավաստագիր.">
+<!ENTITY certs.auto                      "Ընտրել որևէ մեկը">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewCRLs.label                 "Վավերազրկման Ցանկեր">
+<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY validation.label               "Հավաստում">
+<!ENTITY validation.accesskey           "V">
+<!ENTITY viewSecurityDevices.label      "Անվտանգության սարքեր">
+<!ENTITY viewSecurityDevices.accesskey  "S">
