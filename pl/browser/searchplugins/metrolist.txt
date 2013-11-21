@@ -1,4 +1,7 @@
-bingmetrofx
 googlemetrofx
-wikipedia
-yahoo
+wp-pl
+allegro-pl
+wikipedia-pl
+pwn-pl
+merlin-pl
+wolnelektury-pl
