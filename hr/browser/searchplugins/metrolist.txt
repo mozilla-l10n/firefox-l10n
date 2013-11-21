@@ -1,0 +1,8 @@
+amazon-en-GB
+bingmetrofx
+eBay-en-GB
+eudict
+googlemetrofx
+twitter
+wikipedia-hr
+yahoo
