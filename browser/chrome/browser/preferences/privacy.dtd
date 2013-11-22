@@ -20,8 +20,13 @@
 <!ENTITY  rememberHistory2.accesskey  "p">
 
 <!ENTITY tracking.label                 "Uzskaite internetā">
-<!ENTITY doNotTrack.label                "Teikt mājas lapām, ka nevēlos, lai tās mani uzskaita">
-<!ENTITY doNotTrack.accesskey            "t">
+<!ENTITY dntTrackingNopref.label2        "Neteikt lapām neko par maniem uzskaites iestatījumiem">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2       "Teikt lapām, ka nevēlos, lai mani uzskaita">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2          "Teikt lapām, lai uzskaita mani">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Uzzināt vairāk">
 
 <!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -30,8 +35,11 @@
 <!ENTITY acceptCookies.label "Pieņemt sīkdatnes no lapām">
 <!ENTITY acceptCookies.accesskey "i">
 
-<!ENTITY acceptThirdParty.label "Pieņemt trešo pušu sīkdatnes">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY  acceptThirdParty.pre.label      "Pieņemt trešo pušu sīkdatnes:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "s">
+<!ENTITY  acceptThirdParty.always.label   "Vienmēr">
+<!ENTITY  acceptThirdParty.never.label    "Nekad">
+<!ENTITY  acceptThirdParty.visited.label  "Tikai no lapām, kuras esmu apmeklējis">
 
 <!ENTITY keepUntil.label "Glabāt līdz:">
 <!ENTITY keepUntil.accesskey "G">

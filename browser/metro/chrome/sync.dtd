@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Izmantojiet grāmatzīmes, paroles un atvērtās cilnes visās savās ierīcēs">
+<!ENTITY sync.flyout.presetup.setup.label      "Iestatīt &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Iestatīt &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Ja jums jau ir &syncBrand.shortName.label;s konts, izvēlieties &quot;Pievienot ierīci&quot; savā otrā ierīcē un ievadiet šo kodu.">
+<!ENTITY sync.flyout.setup.description2        "Ja jums vēl nav &syncBrand.shortName.label;s konta, jūs to varat izveidot no &brandShortName; pārlūka uz datora.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Es neesmu pie datora…">
+<!ENTITY sync.flyout.setup.description3        "Piezīme:">
+<!ENTITY sync.flyout.setup.description4_2      "Lai atrastu &quot;Pievienot ierīci&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[No datora] Atveriet &quot;Iestatījumi&quot; un izvēlieties &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[No Android] Vairāk &gt; Iestatījumi &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Lūdzu ievadiet sava &syncBrand.shortName.label;s konta informāciju un atgūšanas atslēgu, kas tika izveidota jūsu datoram">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Jūsu lietotājvārds">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Parole">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Atgūšanas atslēga">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Pievienot">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Jūs tikko pievienojāt &brandShortName; savam &syncBrand.shortName.label;s kontam">
+<!ENTITY sync.flyout.setupsuccess.description2      "Jūsu &syncBrand.shortName.label; dati šobrīd tiek lejuplādēti. Sinhronizētās cilnes ir pieejamas &brandShortName; sākuma lapā">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; nevarēja pievienoties jūsu &syncBrand.shortName.label;s kontam.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Atcelt">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Mēģināt vēlreiz">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Konts:">
+<!ENTITY sync.flyout.connected.device                     "Jūsu ierīce:">
+<!ENTITY sync.flyout.connected.disconnect                 "Atvienoties">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Atvienot ierīci no &syncBrand.shortName.label;s?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Jūsu privātie dati gan šajā ierīcē, gan &syncBrand.shortName.label;s kontā paliks neskarti.">
+<!ENTITY sync.flyout.connected.cancel                     "Atcelt">
+<!ENTITY sync.flyout.connected.pair                       "Pievienot ierīci">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Jaunajā ierīcē, kuru vēlaties pievienot, izvēlieties &quot;Iestatīt  &syncBrand.shortName.label;&quot; un ievadiet ierīces izveidoto kodu">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Pievienot">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Piezīme:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Lai atrastu kodu,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[No datora] Atveriet &quot;Iestatījumi&quot; un sekojiet norādēm: &syncBrand.shortName.label; -&gt; Iestatīt &syncBrand.shortName.label; -&gt; Man jau ir konts">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[No Android] Vairāk &gt; Iestatījumi &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Lūdzu mēģiniet vēlreiz">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Jaunā ierīce ir veiksmīgi pievienota.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Jūsu &syncBrand.shortName.label; dati tiek lejuplādēti. Attālinātās cilnes būs pieejamas &brandShortName; sākuma lapā.">

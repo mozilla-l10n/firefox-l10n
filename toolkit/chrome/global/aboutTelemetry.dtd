@@ -9,7 +9,7 @@
 ">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetrija <span>nav aktivisēta</span>.
+  Telemetrija <span>nav aktivizēta</span>.
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
@@ -22,6 +22,17 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammas
+">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Papildinājumu informācija
+">
+
+
+<!ENTITY aboutTelemetry.lateWritesSection "
+
+  Vēlie rakstījumi
+
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "

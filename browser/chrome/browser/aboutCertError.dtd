@@ -18,7 +18,7 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Jūs lūdzāt &brandShortName; droši pieslēgties 
 <b>#1</b>, bet mēs nevaram apstiprināt, ka šis savienojums ir drošs.">
-<!ENTITY certerror.introPara2 "Parasti, kad jūs mēģinat droši pieslēgties,
+<!ENTITY certerror.introPara2 "Parasti, kad jūs mēģināt droši pieslēgties,
 lapas piedāva identifikācijas informāciju par sevi, lai pierādītu, ka jūs
 dodaties uz pareizo vietu. Taču šīs lapas identitāti nevar pārbaudīt.">
 
@@ -30,7 +30,7 @@ par šo uzticamo lapu. Šādā gadījumā jums nevajadzētu turpināt.">
 
 <!ENTITY certerror.expert.heading "Es apzinos riskus">
 <!ENTITY certerror.expert.content "Ja jūs saprotat, kas notiek, jūs varat 
-pateikt, lai &brandShortName; turpmāk uzticas šīs lapas identitifikācijai.
+pateikt, lai &brandShortName; turpmāk uzticas šīs lapas identifikācijai.
 <b>Pat ja jūs uzticaties šai lapai, šī kļūda varētu nozīmēt, ka kāds mēģina
 veikt neatļautas darbības ar jūsu savienojumu.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumus, ja vien 
