@@ -1,0 +1,7 @@
+amazon-en-GB
+bingmetrofx
+bok-NO
+googlemetrofx
+qxl-NO
+gulesider-NO
+wikipedia-NN

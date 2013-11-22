@@ -31,7 +31,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "d">
 <!ENTITY setDefault.label                "Bruk &brandShortName; som standard nettlesar">
 <!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; er vald som standard nettlesar">
+<!ENTITY isDefault.label                 "&brandShortName; er valt som standard nettlesar">
 
 <!ENTITY dataChoicesTab.label            "Datainnstillingar">
 
