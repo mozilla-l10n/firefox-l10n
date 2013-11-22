@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Іздеуді немесе адресті еңгізіңіз">
+
+<!ENTITY back.label            "Артқа">
+<!ENTITY forward.label         "Алға">
+<!ENTITY newtab.label          "Жаңа бет">
+<!ENTITY closetab.label        "Бетті жабу">
+
+<!ENTITY autocompleteResultsHeader.label  "Сіздің нәтиже">
+
+<!ENTITY appbarErrorConsole.label   "Қате консолін ашу">
+<!ENTITY appbarJSShell.label        "JavaScript қоршамын ашу">
+<!ENTITY appbarFindInPage2.label    "Беттен табу">
+<!ENTITY appbarViewOnDesktop2.label "Жұмыс үстелде көрсету">
+<!ENTITY appbarMSMetaData2.label    "Бұл сайт үшін қолданбаны алу">
+
+<!ENTITY topSitesHeader.label        "Топ сайттары">
+<!ENTITY bookmarksHeader.label       "Бетбелгілер">
+<!ENTITY recentHistoryHeader.label   "Жуырдағы тарихы">
+<!ENTITY remoteTabsHeader.label      "Басқа құрылғылардан браузер беттері">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Топ сайттары">
+<!ENTITY narrowBookmarksHeader.label     "Бетбелгілер">
+<!ENTITY narrowRecentHistoryHeader.label "Жуырдағы тарихы">
+<!ENTITY narrowRemoteTabsHeader.label    "Қашық беттер">
+
+<!ENTITY downloadsHeader.label     "Жүктемелер">
+<!ENTITY downloadShowPage.label    "Параққа өту">
+<!ENTITY downloadShow2.label       "Табу">
+<!ENTITY downloadOpen2.label       "Ашу">
+<!ENTITY downloadCancel.label      "Бас тарту">
+<!ENTITY downloadPause.label       "Аялдату">
+<!ENTITY downloadResume.label      "Жалғастыру">
+<!ENTITY downloadRetry.label       "Қайталау">
+<!ENTITY downloadRemove.label      "Өшіру">
+<!ENTITY downloadDelete.label      "Өшіру">
+<!ENTITY downloadFailed.label      "Қате">
+
+<!ENTITY allBookmarks.label        "Бүкіл бетбелгілерді қарау">
+
+<!ENTITY consoleHeader.label       "Қателер консолі">
+<!ENTITY consoleAll.label          "Барлығы">
+<!ENTITY consoleErrors.label       "Қателер">
+<!ENTITY consoleWarnings.label     "Ескертулер">
+<!ENTITY consoleMessages.label     "Хабарламалар">
+<!ENTITY consoleCodeEval.label     "Код:">
+<!ENTITY consoleClear.label        "Тазарту">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Көзі:">
+<!ENTITY consoleErrLine.label      "Жол:">
+<!ENTITY consoleErrColumn.label    "Баған:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Қиып алу">
+<!ENTITY contextTextCopy.label             "Көшіру">
+<!ENTITY contextTextPaste.label            "Кірістіру">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Кірістіру және өту">
+<!ENTITY contextTextSelect.label           "Таңдау">
+<!ENTITY contextTextSelectAll.label        "Барлығын ерекшелеу">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Сілтемені жаңа бетте ашу">
+<!ENTITY contextCopyLinkHref.label         "Сілтемені көшіру">
+<!ENTITY contextBookmarkLinkHref.label     "Бетбелгiлер сілтемесі">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Сұрет жинаққа сақтау">
+<!ENTITY contextCopyImage.label            "Суретті көшіру">
+<!ENTITY contextCopyImageLocation.label    "Сурет сілтемесін көшіру">
+<!ENTITY contextOpenImageTab.label         "Суретті жаңа бетте ашу">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Видео жинағына сақтау">
+<!ENTITY contextCopyVideoLocation.label    "Видеоның сілтемесін көшіру">
+<!ENTITY contextOpenVideoTab.label         "Видеоны жаңа бетте ашу">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY reload.key "r">
+
+<!ENTITY urlbar.accesskey "з">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

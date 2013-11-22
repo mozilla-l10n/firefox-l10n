@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY tableTab.label                   "Кесте">
+<!ENTITY cellTab.label                    "Ұяшықтар">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY tableSpacing.label               "Аралығы:">
+<!ENTITY tableSpacing.accessKey           "А">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY tableCaptionNone.label           "Ешнәрсе">
+
+
+<!ENTITY cellSelection.label              "Таңдау">
+<!ENTITY cellSelectCell.label             "Ұяшық">
+<!ENTITY cellSelectRow.label              "Жол">
+<!ENTITY cellSelectColumn.label           "Баған">
+<!ENTITY cellSelectNext.label             "Келесі">
+<!ENTITY cellSelectNext.accessKey         "К">
+<!ENTITY cellSelectPrevious.label         "Алдыңғысы">
+<!ENTITY cellSelectPrevious.accessKey     "А">
+
+
+
+
+
+
+
+
+<!ENTITY cellNormal.label                 "Қалыпты">
+<!ENTITY cellHeader.label                 "Жоғарғы колонтитул">
+
+
+
+
+<!ENTITY cellAlignTop.label               "Жоғары">
+<!ENTITY cellAlignMiddle.label            "Ортаңғы">
+<!ENTITY cellAlignBottom.label            "Төмен">
+<!ENTITY cellAlignJustify.label           "Енi бойынша">
+
+
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label                       "Өлшемі">
+<!ENTITY pixels.label                     "пиксель">
+
+
+<!ENTITY AlignLeft.label                  "Сол жақ">
+<!ENTITY AlignCenter.label                "Ортасы">
+<!ENTITY AlignRight.label                 "Оң жақ">

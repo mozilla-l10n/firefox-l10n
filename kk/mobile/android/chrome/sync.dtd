@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Синхрондау">
+<!ENTITY sync.notconnected          "Байланыспаған">
+<!ENTITY sync.connect               "Байланысу">
+<!ENTITY sync.connected             "Байланысқан">
+<!ENTITY sync.details               "Көбірек білу">
+<!ENTITY sync.deviceName            "Бұл құрылғы">
+<!ENTITY sync.disconnect            "Байланысты үзу">
+<!ENTITY sync.syncNow               "Қазір синхрондау">
+
+<!ENTITY sync.setup.title           "Sync торабына қосылу">
+<!ENTITY sync.setup.pair            "Белсендіру үшін, құрылғынызда &quot;Құрылғыны жұптау&quot; таңдаңыз.">
+<!ENTITY sync.fallback              "Мен өз компьютерімнің қасында емеспін…">
+<!ENTITY sync.setup.manual          "Өзіңіздің Sync тіркелгі ақпаратын енгізіңіз">
+<!ENTITY sync.account               "Тіркелгі атауы">
+<!ENTITY sync.password              "Паролі">
+<!ENTITY sync.recoveryKey           "Қалпына келтіру кілті">
+<!ENTITY sync.customServer          "Таңдауыңызша серверді қолдану">
+<!ENTITY sync.serverURL             "Сервер сілтемесі">
+<!ENTITY sync.setup.connect         "Байланысу">
+<!ENTITY sync.setup.cancel          "Бас тарту">
+<!ENTITY sync.setup.tutorial        "Қазір көрсету">
+<!ENTITY sync.setup.waiting2        "Басқа құрылғыны күту…">
+
+<!ENTITY sync.pair.title            "Құрылғыны жұптау">
+<!ENTITY sync.pair.description      "Жаңа құрылғыны белсендіру үшін, құрылғыда &quot;Sync баптау&quot; таңдаңыз.">
+<!ENTITY sync.setup.close           "Жабу">
+<!ENTITY sync.setup.waitingdownload "Сіздің деректеріңіз фонда жүктеліп жатыр. Бұл терезені жабуға болады.">

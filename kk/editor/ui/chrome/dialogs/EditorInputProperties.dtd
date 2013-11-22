@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY windowTitleImage.label "Сурет қасиеттерді құру">
+
+
+<!ENTITY text.value "Мәтін">
+<!ENTITY password.value "Пароль">
+<!ENTITY checkbox.value "Жалауша">
+
+
+
+<!ENTITY file.value "Файл">
+<!ENTITY hidden.value "Жасырын">
+<!ENTITY image.value "Сурет">
+<!ENTITY button.value "Батырма">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

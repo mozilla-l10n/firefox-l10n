@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Жіберу баптаулары">
+<!ENTITY sendMail.title               "Мәтін пішімі">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY HTMLTab.label                "HTML домендері">
+<!ENTITY HTMLTab.accesskey            "H">
+
+
+<!ENTITY AddHtmlDomain.label          "Қосу…">
+<!ENTITY AddHtmlDomain.accesskey      "о">
+<!ENTITY AddPlainText.label           "Қосу…">
+<!ENTITY AddPlainText.accesskey       "о">
+<!ENTITY DeleteHtmlDomain.label       "Өшіру">
+<!ENTITY DeleteHtmlDomain.accesskey   "ш">
+<!ENTITY DeletePlainText.label        "Өшіру">
+<!ENTITY DeletePlainText.accesskey    "ш">
+
+<!ENTITY add.htmltitle                "HTML домен атын қосу">
+<!ENTITY add.htmldomain               "HTML домен аты:">
+
+

@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Window title -->
+
+<!ENTITY dimensionsBox.label "Өлшемдері">
+
+
+
+
+<!ENTITY pixelsPopup.value "пиксель">
+
+<!ENTITY leftRadio.label "Сол жақ">
+<!ENTITY leftRadio.accessKey "С">
+
+
+<!ENTITY rightRadio.label "Оң жақ">
+<!ENTITY rightRadio.accessKey "О">
+
+
+<!ENTITY saveSettings.label "Бастапқы ретінде қолдану">
+<!ENTITY saveSettings.accessKey "т">
+

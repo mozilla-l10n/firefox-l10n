@@ -1,10 +1,19 @@
-<!ENTITY inspectorHTMLCopyInner.label       "Ішкі HTML көшіру"> 
+<!ENTITY inspectorHTMLEdit.label       "HTML ретінде түзету">
+<!ENTITY inspectorHTMLEdit.accesskey   "е">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Ішкі HTML көшіру">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "к">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Сыртқы HTML көшіру"> 
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "с">
+<!ENTITY inspectorHTMLCopyOuter.label       "Сыртқы HTML көшіру">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "С">
 
-<!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру"> 
+<!ENTITY inspectorCopyUniqueSelector.label       "Бірегей селекторды көшіріп алу">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "Б">
+
+<!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру">
 <!ENTITY inspectorHTMLDelete.accesskey      "ш">
 
-<!ENTITY inspector.selectButton.tooltip     "Элементті тышқанмен таңдау"> 
+<!ENTITY inspector.selectButton.tooltip     "Элементті тышқанмен таңдау">
+
+<!ENTITY inspectorSearchHTML.label          "HTML іздеу">
+<!ENTITY inspectorSearchHTML.key            "F">
