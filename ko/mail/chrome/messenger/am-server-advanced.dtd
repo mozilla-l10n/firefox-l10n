@@ -4,7 +4,7 @@
 
 <!ENTITY serverAdvanced.label "고급 계정 설정">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP 서버 디렉토리:">
+<!ENTITY serverDirectory.label "IMAP 서버 디렉터리:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "구독 허가한 폴더만 보이기">
 <!ENTITY usingSubscription.accesskey "w">

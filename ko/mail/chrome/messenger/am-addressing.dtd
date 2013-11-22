@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "글로벌 LDAP 서버에서 계정 가져오기">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "디렉토리 편집…">
+<!ENTITY editDirectories.label     "디렉터리 편집…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "다른 LDAP 서버 사용:">

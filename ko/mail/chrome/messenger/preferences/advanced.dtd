@@ -41,7 +41,7 @@
 <!ENTITY showCondensedAddresses.label  "주소록에서 사람에 대한 표시명만 보이기">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "메시지를 자동으로 읽은 것으로 표시">
+<!ENTITY autoMarkAsRead.label          "읽은 메시지로 자동 표시">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "출력 후 즉시">
 <!ENTITY markAsReadNoDelay.accesskey   "o">
@@ -58,7 +58,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "기존 메시지 창">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label		"이동시 또는 삭제시 메세지 창 또는 탭 닫기">
+<!ENTITY closeMsgOnMoveOrDelete.label		"이동시 또는 삭제시 메시지 창 또는 탭 닫기">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey	"C">
 
 <!-- Update -->

@@ -13,7 +13,7 @@
 <!ENTITY chat.noAccount.description		"&brandShortName;는 채팅 계정 설정을 진행합니다.">
 <!ENTITY chat.accountWizard.button		"설정 시작">
 <!ENTITY chat.noConnectedAccount.title		"채팅 계정이 접속되지 않습니다.">
-<!ENTITY chat.noConnectedAccount.description	"'인스턴트 메세지 상태' 대화에 접속할 수 있습니다:">
+<!ENTITY chat.noConnectedAccount.description	"'인스턴트 메시지 상태' 대화에 접속할 수 있습니다:">
 <!ENTITY chat.showAccountManager.button		"채팅 상태 표시">
 
 <!ENTITY chat.participants			"참여자:">

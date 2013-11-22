@@ -544,9 +544,9 @@
 <!ENTITY fileButton.tooltip "선택한 메시지 파일">
 <!ENTITY archiveButton.tooltip "선택한 메시지 보관">
 <!ENTITY nextButton.tooltip "다음 읽지 않은 메일로 이동">
-<!ENTITY nextMsgButton.tooltip		"다음 메세지로 이동">
+<!ENTITY nextMsgButton.tooltip		"다음 메시지로 이동">
 <!ENTITY previousButton.tooltip "읽지 않은 이전 메시지로 이동">
-<!ENTITY previousMsgButton.tooltip		"이전 메세지로 이동">
+<!ENTITY previousMsgButton.tooltip		"이전 메시지로 이동">
 <!ENTITY goForwardButton.tooltip "한 메시지 앞으로 가기">
 <!ENTITY goBackButton.tooltip "한 메시지 뒤로 가기">
 <!ENTITY deleteButton.tooltip "선택한 메시지나 폴더 삭제">

@@ -77,7 +77,7 @@
 <!ENTITY insecureServer.tooltip.title    "경고! 이 서버는 보안 서버가 아닙니다.">
 <!ENTITY insecureServer.tooltip.details  "circle을 클릭하면 상세 사항을 보실 수 있습니다.">
 
-<!ENTITY insecureUnencrypted.description "메일과 인증이 암호화 되지 않은 채 전송이 되므로, 다른 사람이 당신의 암호(와 메시지)를 읽을 수도 있습니다. &brandShortName;로 메일을 가져올 수 있지만, 보안 연결을 지원하는 이메일 제공자를 이용
+<!ENTITY insecureUnencrypted.description "메일과 인증이 암호화되지 않은 채 전송이 되므로, 다른 사람이 당신의 암호(와 메시지)를 읽을 수도 있습니다. &brandShortName;로 메일을 가져올 수 있지만, 보안 연결을 지원하는 이메일 제공자를 이용
 하는 것을 권장 합니다.">
 
 <!ENTITY insecureSelfSigned.description  "서버가 신뢰할 수 없는 인증서를 사용 하고 있으므로, 누군가 &brandShortName;와 서버 사이의 전송 내용을 가로챌 소지가 있습니다. &brandShortName;로 메일을 받을 수는 있지만, 신뢰할 수 있는 인증서를 사용한 서버를 설정하기 위하여 관리자나 메일 제공자에게 문의해야 합니다.">
