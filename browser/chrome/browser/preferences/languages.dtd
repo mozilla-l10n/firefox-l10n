@@ -1,13 +1,19 @@
-<!ENTITY window.width "30em">
-<!ENTITY languages.customize.Header "Lengas">
-<!ENTITY languages.customize.prefLangDescript "De còps, d'unas paginas web son dins mai d'una lenga. Causissètz las lengas per visualizar aquestas paginas web, dins l'òrdre de preferéncia.">
-<!ENTITY languages.customize.active.label "Lengas per òrdre de preferéncia">
-<!ENTITY languages.customize.moveUp.label "Montar">
-<!ENTITY languages.customize.moveUp.accesskey "M">
-<!ENTITY languages.customize.moveDown.label "Davalar">
-<!ENTITY languages.customize.moveDown.accesskey "D">
-<!ENTITY languages.customize.deleteButton.label "Suprimir">
-<!ENTITY languages.customize.deleteButton.accesskey "S">
-<!ENTITY languages.customize.selectLanguage.label "Seleccionatz una lenga d'apondre...">
-<!ENTITY languages.customize.addButton.label "Apondre">
-<!ENTITY languages.customize.addButton.accesskey "A">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                                   "30em">
+
+<!ENTITY languages.customize.Header                     "Lengas">
+<!ENTITY languages.customize.prefLangDescript           "De còps, d'unas paginas web son dins mai d'una lenga. Causissètz las lengas per visualizar aquestas paginas web, dins l'òrdre de preferéncia.">
+<!ENTITY languages.customize.active.label               "Lengas per òrdre de preferéncia">
+<!ENTITY languages.customize.moveUp.label               "Montar">
+<!ENTITY languages.customize.moveUp.accesskey           "M">
+<!ENTITY languages.customize.moveDown.label             "Davalar">
+<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.deleteButton.label         "Suprimir">
+<!ENTITY languages.customize.deleteButton.accesskey     "S">
+<!ENTITY languages.customize.selectLanguage.label       "Seleccionatz una lenga d'apondre...">
+<!ENTITY languages.customize.addButton.label            "Apondre">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+

@@ -1,17 +1,25 @@
-<!ENTITY newprofile.title "Assistent de creacion de perfil">
-<!ENTITY window.size "width: 45em; height: 32em;">
-<!ENTITY profileCreationExplanation_1.text "&brandShortName; garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.">
-<!ENTITY profileCreationExplanation_2.text "Se partejatz aquesta còpia de &brandShortName; amb d'autres utilizaires, podètz utilizar los perfils per gardar las informacions de cada utilizaire separadas. Per aquò far, cada utilizaire deurà crear son perfil pròpri.">
-<!ENTITY profileCreationExplanation_3.text "Se sètz la sola persona qu'utilize aquesta còpia de &brandShortName;, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.">
-<!ENTITY profileCreationExplanation_4.text "Per començar la creacion de vòstre perfil, clicatz sus Seguent.">
-<!ENTITY profileCreationExplanation_4Mac.text "Per començar a crear vòstre perfil, clicatz sus Contunhar.">
-<!ENTITY profileCreationExplanation_4Gnome.text "Per començar a crear vòstre perfil, clicatz sus Seguent.">
-<!ENTITY profileCreationIntro.text "Se creatz mantun perfil, los podètz diferenciar per lor nom. Podètz utilizar lo nom prepausat o ne causir un vos-meteis.">
-<!ENTITY profilePrompt.label "Picatz lo nom del perfil novèl :">
-<!ENTITY profilePrompt.accesskey "E">
-<!ENTITY profileDirectoryExplanation.text "Vòstres paramètres d'utilizaire, preferéncias e totas vòstras donadas personalas seràn enregistrats dins :">
-<!ENTITY profileDefaultName "Utilizaire per defaut">
-<!ENTITY button.choosefolder.label "Causir un repertòri...">
-<!ENTITY button.choosefolder.accesskey "C">
-<!ENTITY button.usedefault.label "Utilizar lo dorsièr per defaut">
-<!ENTITY button.usedefault.accesskey "U">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newprofile.title             "Assistent de creacion de perfil">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.">
+<!ENTITY profileCreationExplanation_2.text  "Se partejatz aquesta còpia de &brandShortName; amb d'autres utilizaires, podètz utilizar los perfils per gardar las informacions de cada utilizaire separadas. Per aquò far, cada utilizaire deurà crear son perfil pròpri.">
+<!ENTITY profileCreationExplanation_3.text  "Se sètz la sola persona qu'utilize aquesta còpia de &brandShortName;, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.">
+<!ENTITY profileCreationExplanation_4.text  "Per començar la creacion de vòstre perfil, clicatz sus Seguent.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Per començar a crear vòstre perfil, clicatz sus Contunhar.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Per començar a crear vòstre perfil, clicatz sus Seguent.">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text      "Se creatz mantun perfil, los podètz diferenciar per lor nom. Podètz utilizar lo nom prepausat o ne causir un vos-meteis.">
+<!ENTITY profilePrompt.label            "Picatz lo nom del perfil novèl :">
+<!ENTITY profilePrompt.accesskey        "e">
+<!ENTITY profileDirectoryExplanation.text   "Vòstres paramètres d'utilizaire, preferéncias e totas vòstras donadas personalas seràn enregistrats dins :">
+<!ENTITY profileDefaultName             "Utilizaire per defaut">
+<!ENTITY button.choosefolder.label      "Causir un dorsièr...">
+<!ENTITY button.choosefolder.accesskey  "C">
+<!ENTITY button.usedefault.label        "Utilizar lo dorsièr per defaut">
+<!ENTITY button.usedefault.accesskey    "U">

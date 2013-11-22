@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 ﻿<!ENTITY junkSettings.label "Paramètres pels indesirables">
 <!ENTITY trainingWarning.label "Quand aquesta foncionalitat es activada, vos cal entraïnar d'en primièr &brandShortName; a identificar los corrièrs indesirables en utilizant lo boton « Indesirables » de la barra d'espleches per marcar los messatges coma indesirables o pas. Vos cal identificar a l'encòp los corrièrs indesirables e los qu'o son pas.">
 <!ENTITY level.label "Activar los contraròtles adaptatius de corrièrs indesirables per aqueste compte">

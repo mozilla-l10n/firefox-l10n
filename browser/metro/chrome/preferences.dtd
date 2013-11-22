@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Opcions">
+<!ENTITY optionsHeader.char.title                                "Encodatge de caractèr">
+<!ENTITY optionsHeader.char.autodetect.label                     "Deteccion automatica">
+
+
+
+<!ENTITY clearPrivateData.button                                 "Voidar la consòla">
+<!ENTITY clearPrivateData.done                                   "Acabat !">
+<!ENTITY clearPrivateData.history                                "Istoric de navigacion">
+
+<!ENTITY clearPrivateData.downloadHist                           "Istoric dels telecargaments">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Escondedor">
+<!ENTITY clearPrivateData.sitePref                               "Preferéncias del site">
+<!ENTITY clearPrivateData.formSearchHist                         "Formulari &amp; istoric de las recèrcas">
+<!ENTITY clearPrivateData.passwords                              "Senhals enregistrats">
+<!ENTITY clearPrivateData.offline                                "Donadas de site web fòra connexion">
+<!ENTITY clearPrivateData.logins                                 "Connexions activas">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Se remembrar dels senhals">
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "Raportador de plantatge">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetria">
+
