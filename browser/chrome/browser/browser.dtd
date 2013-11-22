@@ -352,6 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d'outils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Ajouter au menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Retirer de la barre d'outils">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Retirer du menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Ajouter plus d'éléments…">
