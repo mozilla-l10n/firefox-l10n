@@ -362,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
 <!ENTITY appMenuWebDeveloper.label "Développement web">
 <!ENTITY appMenuGettingStarted.label "Pour commencer">
-<!ENTITY appMenuSafeMode.label "Redémarrer avec les modules désactivés…">
+<!ENTITY appMenuSafeMode.label "Redémarrer, modules désactivés…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
