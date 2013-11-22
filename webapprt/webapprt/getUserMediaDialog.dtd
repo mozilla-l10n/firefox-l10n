@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "Compartir medios">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Compartir">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "C">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Cancelar">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "Compartir medios">
+<!ENTITY getUserMediaDialog.button.accept.label     "Compartir">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Cancelar">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-<!ENTITY getUserMediaDialog.video.label           "Seleccionar cámara">
-<!ENTITY getUserMediaDialog.video.noVideo         "Sin video">
-<!ENTITY getUserMediaDialog.audio.label           "Seleccionar micrófono">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Sin audio">
+<!ENTITY getUserMediaDialog.video.label             "Seleccionar cámara">
+<!ENTITY getUserMediaDialog.video.noVideo           "Sin video">
+<!ENTITY getUserMediaDialog.audio.label             "Seleccionar micrófono">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Sin audio">

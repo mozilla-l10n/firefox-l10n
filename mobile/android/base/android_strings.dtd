@@ -228,6 +228,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Pegar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Despegar sitio">
+<!ENTITY contextmenu_add_search_engine "Agregar un buscador">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">

@@ -340,6 +340,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
+<!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
+
+<!ENTITY customizeMenu.addToToolbar.label "Agregar a barra de herramientas">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Agregar más ítems…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Personalizar barras…">
