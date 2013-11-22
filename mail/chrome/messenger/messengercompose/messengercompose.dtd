@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Sestavi: (brez zadeve)">
 
@@ -46,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "k">
 <!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "N">
+<!ENTITY printPreviewCmd.label "Predogled tiskanja">
+<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "T">
@@ -83,6 +89,7 @@
 <!ENTITY findCmd.label "Išči in zamenjaj …">
 <!ENTITY findCmd.key "f">
 <!ENTITY findCmd.accesskey "I">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Ponovno poišči">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "p">
@@ -135,8 +142,8 @@
 <!ENTITY returnReceiptMenu.accesskey "T">
 <!ENTITY dsnMenu.label "Obvestilo o stanju dostave">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Oblika">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "Oblika za dostavo">
+<!ENTITY deliveryFormatMenu.accesskey "d">
 <!ENTITY autoFormatCmd.label "Samodejno zaznaj">
 <!ENTITY autoFormatCmd.accesskey "O">
 <!ENTITY plainTextFormatCmd.label "Le golo besedilo">

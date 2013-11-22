@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Pravila za filtriranje">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Ime filtra">
@@ -13,14 +17,18 @@
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
 <!ENTITY contextDesc.label "Uporabi filter:">
-<!ENTITY contextDesc.accesskey "f">
-<!ENTITY contextIncoming.label "Preverjanje pošte">
-<!ENTITY contextManual.label "Ročen zagon">
-<!ENTITY contextBoth.label "Preverjanje pošte ali Ročen zagon">
-<!ENTITY contextPostPlugin.label "Preverjanje pošte (po razvrščanju)">
-<!ENTITY contextPostPluginBoth.label "Preverjanje pošte (po razvrščanju) ali Ročen zagon">
+<!ENTITY contextIncomingMail.label "Preverjanje nove pošte:">
+<!ENTITY contextIncomingMail.accesskey "P">
+<!ENTITY contextManual.label "Ročni zagon">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Preverjanje pošte pred razvrščanjem">
+<!ENTITY contextAfterCls.label "Preverjanje pošte po razvrščanju">
+
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "I">
+
+<!ENTITY filterActionOrderWarning.label "Opomba: dejanja filtra se bodo izvajala v drugačnem vrstnem redu.">
+<!ENTITY filterActionOrder.label "Vrstni red izvajanja">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Prestavi sporočilo v">
@@ -40,3 +48,14 @@
 <!ENTITY ignoreSubthread.label "Prezri podnit">
 <!ENTITY watchThread.label "Opazuj nit">
 <!ENTITY stopExecution.label "Ustavi izvajanje filtra">
+
+<!ENTITY addAction.tooltip "Dodaj nov ukrep">
+<!ENTITY removeAction.tooltip "Odstrani ta ukrep">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

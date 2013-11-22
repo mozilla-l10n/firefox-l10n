@@ -1,50 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Garth Smedley <garths@oeone.com>
-   -   Mike Potter <mikep@oeone.com>
-   -   Chris Charabaruk <coldacid@meldstar.com>
-   -   ArentJan Banck <ajbanck@planet.nl>
-   -   Eric Belhaire <belhaire@ief.u-psud.fr>
-   -   Matthew Willis <mattwillis@gmail.com>
-   -   Simon Paquet <bugzilla@babylonsounds.com>
-   -   Stefan Sitter <ssitter@gmail.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Diego Mira David <diegomd86@gmail.com>
-   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
-   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Koledar">
@@ -70,19 +26,32 @@
 <!ENTITY calendar.events.filter.next31Days.label "Dogodki prihodnjih 31 dni">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Dogodki v tem koledarskem mesecu">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Končaj">
+<!ENTITY calendar.unifinder.tree.done.label          "Končano">
+<!ENTITY calendar.unifinder.tree.done.tooltip        "Razporedi po Končano">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioriteta">
+<!ENTITY calendar.unifinder.tree.priority.tooltip    "Razporedi po Prioriteti">
 <!ENTITY calendar.unifinder.tree.title.label         "Naslov">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; dokončan">
+<!ENTITY calendar.unifinder.tree.title.tooltip       "Razporedi po Naslovu">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; dokončano">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Razporedi po &#37; dokončano">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Pričetek">
-<!ENTITY calendar.unifinder.tree.enddate.label       "End">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip   "Razporedi po Začetku">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Konec">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip     "Razporedi po Koncu">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Rok">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip     "Razporedi po Roku">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Dokončano">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Razporedi po Dokončano">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
-<!ENTITY calendar.unifinder.tree.location.label      "Naslov">
+<!ENTITY calendar.unifinder.tree.categories.tooltip  "Razporedi po Kategoriji">
+<!ENTITY calendar.unifinder.tree.location.label      "Lokacija">
+<!ENTITY calendar.unifinder.tree.location.tooltip    "Razporedi po Lokaciji">
 <!ENTITY calendar.unifinder.tree.status.label        "Stanje">
+<!ENTITY calendar.unifinder.tree.status.tooltip      "Razporedi po Stanju">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Ime koledarja">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Razporedi po Koledarju">
 <!ENTITY calendar.unifinder.tree.duration.label      "Zapade">
+<!ENTITY calendar.unifinder.tree.duration.tooltip    "Razporedi po Zapade">
 <!ENTITY calendar.unifinder.close.tooltip            "Zapri iskanje dogodkov in seznam dogodkov">
 
 <!ENTITY calendar.today.button.tooltip          "Pojdi na današnji dan">

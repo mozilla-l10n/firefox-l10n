@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Iskanje">
+<!ENTITY newpref.label          "Dodaj novo nastavitev">
+<!ENTITY addpref.name           "Ime">
+<!ENTITY addpref.value          "Vrednost">
+
+<!ENTITY cancel.label           "Prekliči">
+<!ENTITY reset.label            "Ponastavi">
+<!ENTITY done.label             "Končano">
+
+<!ENTITY integer.label          "Celo število">
+<!ENTITY string.label           "Niz znakov">
+<!ENTITY boolean.label          "Logična vrednost">

@@ -1,4 +1,8 @@
-<!ENTITY addressbookWindow.title                        "Adresar">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+   <!ENTITY addressbookWindow.title                        "Adresar">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteka">
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "I">
 <!ENTITY PrimaryEmail.label                             "E-pošta">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Ime strani">
-<!ENTITY ScreenName.accesskey                           "b">
+<!ENTITY ChatName.label                                 "Ime za klepet">
+<!ENTITY ChatName.accesskey                             "K">
 <!ENTITY Company.label                                  "Organizacija">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Vzdevek">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Stik">
 <!ENTITY home.heading                                   "Domov">
 <!ENTITY other.heading                                  "Drugo">
+<!ENTITY chat.heading                                   "Klepet">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Služba">
 <!-- Special Box Headings, for mailing lists -->

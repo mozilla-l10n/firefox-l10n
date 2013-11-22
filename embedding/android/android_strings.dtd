@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_screen_loading "Nalaganje">
+<!ENTITY  splash_screen_installing_libs "Nameščanje knjižnic\u2026">
+<!ENTITY  splash_firstrun "Nastavljanje &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Ni dovolj prostora, da bi &brandShortName; lahko zagnal.">
+<!ENTITY  error_loading_file "Med nalaganjem datotek, ki so potrebne za izvajanje &brandShortName;a, je prišlo do napake.">
+
+<!ENTITY  crash_reporter_title "&brandShortName; - Poročevalec o sesutju">
+<!ENTITY  crash_message "&brandShortName; se je sesul. Vaši zavihki bi ob ponovnem zagonu &brandShortName;a morali biti navedeni na začetni strani.">
+<!ENTITY  crash_help_message "Pomagajte nam ta problem rešiti!">
+<!ENTITY  crash_send_report_message "Pošljite Mozilli sporočilo o sesutju">
+<!ENTITY  crash_include_url "Dodaje me naslov strani">
+<!ENTITY  crash_close_label "Zapri">
+<!ENTITY  crash_restart_label "Zaženi znova &brandShortName;">
+<!ENTITY  sending_crash_report "Pošiljanje sporočila o sesutju\u2026">
+<!ENTITY  exit_label "Izhod">
+<!ENTITY  continue_label "Nadaljuj">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; spletne aplikacije">
+<!ENTITY  launcher_shortcuts_empty "Spletnih aplikacij ni mogoče najti">
+
+<!ENTITY choose_file "Izberite datoteko.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -16,18 +20,23 @@
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Ponovno naloži vse zavihke">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Zapri zavihke na desni">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Zapri ostale zavihke">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pripni zavihek">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Odpni zavihek">
-<!ENTITY  unpinAppTab.accesskey              "O">
+<!ENTITY  pinTab.label                    "Pripni zavihek">
+<!ENTITY  pinTab.accesskey                "P">
+<!ENTITY  unpinTab.label                  "Odpni zavihek">
+<!ENTITY  unpinTab.accesskey              "O">
 <!ENTITY  moveToGroup.label                  "Premakni v skupino">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Nova skupina">
@@ -35,8 +44,13 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
-<!ENTITY  undoCloseTab.label                 "Prekliči zapiranje zavihka">
+<!ENTITY  undoCloseTab.label                 "Razveljavi zapiranje zavihka">
 <!ENTITY  undoCloseTab.accesskey             "h">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Razveljavi zapiranje zavihkov">
 <!ENTITY  closeTab.label                     "Zapri zavihek">
 <!ENTITY  closeTab.accesskey                 "Z">
 
@@ -77,6 +91,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Celoten zaslon">
+<!ENTITY enterFullScreenCmd.accesskey "C">
+<!ENTITY exitFullScreenCmd.label "Končaj celoten zaslon">
+<!ENTITY exitFullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,7 +110,12 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Končaj celoten zaslon">
 <!ENTITY fullScreenExit.accesskey "C">
-<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izhod iz celotnega zaslona">
+<!ENTITY fullscreenAllowButton.label "Dovoli">
+<!ENTITY fullscreenExitButton.label "Zavrni">
+
+<!ENTITY fullscreenExitHint2.value "Za izhod lahko kadarkoli pritisnete ESC.">
+<!ENTITY leaveDOMFullScreen.label "Končaj celoten zaslon">
+<!ENTITY leaveDOMFullScreen.accesskey "j">
 
 <!ENTITY closeWindow.label "Zapri okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -99,6 +124,18 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "Z">
 <!ENTITY bookmarkThisPageCmd.label "Dodaj stran med zaznamke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Deli to stran">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "d">
+<!ENTITY shareLinkCmd.label "Deli to povezavo">
+<!ENTITY shareLinkCmd.accesskey "d">
+<!ENTITY shareImageCmd.label "Deli to sliko">
+<!ENTITY shareImageCmd.accesskey "d">
+<!ENTITY shareSelectCmd.label "Deli ta izbor">
+<!ENTITY shareSelectCmd.accesskey "d">
+<!ENTITY shareVideoCmd.label "Deli ta video">
+<!ENTITY shareVideoCmd.accesskey "d">
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
@@ -144,7 +181,6 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label "Zaznamki">
 <!ENTITY bookmarksButton.tooltip "Prikaže vaše zaznamke">
-<!ENTITY bookmarksButton.accesskey  "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zaznamki">
@@ -161,7 +197,6 @@ can reach it easily. -->
 
 <!ENTITY historyButton.label "Zgodovina">
 <!ENTITY historyButton.tooltip "Prikaže strani, ki ste jih obiskali v bližnji preteklosti">
-<!ENTITY historySidebarCmd.accesskey "Z">
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Orodja">
@@ -169,8 +204,6 @@ can reach it easily. -->
 
 <!ENTITY keywordfield.label "Dodaj ključno besedo k iskanju …">
 <!ENTITY keywordfield.accesskey "K">
-<!ENTITY search.label "Spletno iskanje">
-<!ENTITY search.accesskey "O">
 <!ENTITY downloads.label "Prenosi">
 <!ENTITY downloads.tooltip "Prikaži napredek trenutnih prenosov">
 <!ENTITY downloads.accesskey "P">
@@ -183,20 +216,27 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
 
-<!ENTITY errorConsoleCmd.label "Konzola JavaScript">
-<!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY webConsoleCmd.label          "Spletna konzola">
-<!ENTITY webConsoleCmd.accesskey      "l">
-<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY devtoolsConnect.label        "Poveži …">
+<!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY inspectMenu.label            "Preglej">
-<!ENTITY inspectMenu.accesskey        "g">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY errorConsoleCmd.label "Konzola napak">
+<!ENTITY errorConsoleCmd.accesskey "N">
+
+<!ENTITY remoteWebConsoleCmd.label    "Oddaljena spletna konzola">
+
+<!ENTITY browserConsoleCmd.label      "Konzola brskalnika">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
+
+<!ENTITY responsiveDesignTool.label            "Odziven način">
+<!ENTITY responsiveDesignTool.accesskey        "O">
+<!ENTITY responsiveDesignTool.commandkey       "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -213,32 +253,25 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Zapri pregledovalnik">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Razhroščevalnik brskalnika">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
-<!ENTITY inspectorHTMLCopyInner.label       "Kopiraj notranji HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY devToolbarCloseButton.tooltiptext "Zapri orodno vrstico za razvoj">
+<!ENTITY devToolbarMenu.label              "Orodna vrstica za razvoj">
+<!ENTITY devToolbarMenu.accesskey          "t">
+<!ENTITY devAppMgrMenu.label               "Upravitelj aplikacij">
+<!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Preklopi orodja">
+<!ENTITY devToolboxMenuItem.accesskey      "P">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Kopiraj zunanji HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "Odstrani element">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "Pogled 3D">
-<!ENTITY inspect3DViewButton.accesskey "D">
-
-<!ENTITY inspectStyleButton.label     "Slog">
-<!ENTITY inspectStyleButton.accesskey "S">
-
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Urejevalnik sloga">
-<!ENTITY styleeditor.accesskey        "U">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
+<!ENTITY devToolbarToolsButton.tooltip     "Preklopi razvojna orodja">
+<!ENTITY devToolbarOtherToolsButton.label  "Več orodij">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "r">
@@ -248,6 +281,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label "Novo okno">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPrivateWindow.label     "Novo zasebno okno">
+<!ENTITY newPrivateWindow.accesskey "z">
 
 <!ENTITY editMenu.label "Urejanje">
 <!ENTITY editMenu.accesskey "E">
@@ -278,13 +313,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY clearRecentHistory.label            "Počisti nedavno zgodovino">
-<!ENTITY clearRecentHistory.accesskey        "Z">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Vključi zasebno brskanje">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
-<!ENTITY privateBrowsingCmd.stop.label          "Izključi zasebno brskanje">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Pogled">
@@ -307,7 +336,6 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zaprta okna">
 <!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
 
-<!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
 <!ENTITY showAllHistoryCmd.commandkey "S">
 
@@ -323,7 +351,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "P">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder           "Obiščite spletno stran">
+<!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Preklopi na zavihek:">
 
@@ -353,12 +381,14 @@ can reach it easily. -->
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmd.label "Odpri povezavo v novem oknu">
-<!ENTITY openLinkCmd.accesskey "N">
-<!ENTITY openLinkCmdInCurrent.label     "Odpri povezavo">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Odpri povezavo v novem zavihku">
 <!ENTITY openLinkCmdInTab.accesskey "Z">
+<!ENTITY openLinkCmd.label "Odpri povezavo v novem oknu">
+<!ENTITY openLinkCmd.accesskey "N">
+<!ENTITY openLinkInPrivateWindowCmd.label "Odpri povezavo v novem zasebnem oknu">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkCmdInCurrent.label     "Odpri povezavo">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmd.label "Odpri okvir v novem oknu">
 <!ENTITY openFrameCmd.accesskey "V">
 <!ENTITY openFrameCmdInTab.label "Odpri okvir v novem zavihku">
@@ -387,6 +417,8 @@ can reach it easily. -->
 <!ENTITY viewImageCmd.accesskey "I">
 <!ENTITY viewImageInfoCmd.label       "Podatki o sliki">
 <!ENTITY viewImageInfoCmd.accesskey   "o">
+<!ENTITY viewImageDescCmd.label       "Pokaži opis">
+<!ENTITY viewImageDescCmd.accesskey   "S">
 <!ENTITY viewVideoCmd.label           "Pokaži video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "Pokaži sliko za ozadje">
@@ -399,8 +431,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey "M">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Pošlji stran …">
-<!ENTITY sendPageCmd.accesskey "s">
+<!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey "A">
 <!-- alternate for content area context menu -->
@@ -412,20 +444,22 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey "N">
 <!ENTITY saveLinkCmd.label "Shrani povezavo kot …">
 <!ENTITY saveLinkCmd.accesskey "k">
-<!ENTITY sendLinkCmd.label "Pošlji povezavo …">
-<!ENTITY sendLinkCmd.accesskey "v">
 <!ENTITY saveImageCmd.label "Shrani sliko kot …">
 <!ENTITY saveImageCmd.accesskey "s">
 <!ENTITY saveVideoCmd.label           "Shrani video kot …">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Shrani zvok kot …">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label "Pošlji sliko …">
-<!ENTITY sendImageCmd.accesskey       "l">
-<!ENTITY sendVideoCmd.label           "Pošlji video …">
-<!ENTITY sendVideoCmd.accesskey       "o">
-<!ENTITY sendAudioCmd.label           "Pošlji zvok …">
-<!ENTITY sendAudioCmd.accesskey       "o">
+<!ENTITY emailImageCmd.label          "Pošlji sliko po e-pošti …">
+<!ENTITY emailImageCmd.accesskey      "o">
+<!ENTITY emailVideoCmd.label          "Pošlji video po e-pošti …">
+<!ENTITY emailVideoCmd.accesskey      "o">
+<!ENTITY emailAudioCmd.label          "Pošlji zvok po e-pošti …">
+<!ENTITY emailAudioCmd.accesskey      "o">
+<!ENTITY playPluginCmd.label          "Omogoči vtičnik">
+<!ENTITY playPluginCmd.accesskey      "m">
+<!ENTITY hidePluginCmd.label          "Skrij vtičnik">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "i">
 <!ENTITY copyImageCmd.label "Kopiraj mesto slike">
@@ -442,14 +476,36 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey "a">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Predvajaj">
 <!ENTITY mediaPlay.accesskey         "v">
 <!ENTITY mediaPause.label            "Ustavi">
 <!ENTITY mediaPause.accesskey        "v">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Nemo">
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Glasno">
 <!ENTITY mediaUnmute.accesskey       "n">
+<!ENTITY mediaPlaybackRate.label     "Hitrost predvajanja">
+<!ENTITY mediaPlaybackRate.accesskey "H">
+<!ENTITY mediaPlaybackRate050x.label "Počasen posnetek (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Običajna hitrost">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Višja hitrost (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Dvojna hitrost (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "j">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Prikaži gradnike">
 <!ENTITY mediaShowControls.accesskey "g">
 <!ENTITY mediaHideControls.label     "Skrij gradnike">
@@ -458,8 +514,11 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "C">
 <!ENTITY videoSaveImage.label        "Shrani posnetek kot …">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Prikaži statistiko">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "T">
 <!ENTITY videoHideStats.label        "Skrij statistiko">
 <!ENTITY videoHideStats.accesskey    "t">
 
@@ -511,7 +570,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label "Izhod">
 <!ENTITY quitApplicationCmd.accesskey "I">
 <!ENTITY quitApplicationCmdMac.label "Izhod">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label "Zapri">
 <!ENTITY closeCmd.key "W">
@@ -557,7 +617,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 
 <!ENTITY identity.unverifiedsite2 "Spletna stran ne vsebuje podatkov o identiteti.">
-<!ENTITY identity.connectedTo "Povezani ste na">
+<!ENTITY identity.connectedTo "Povezani ste na stran">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -569,19 +629,23 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ki jo poganja">
+<!ENTITY identity.runBy "za katero skrbi">
 
 <!ENTITY identity.moreInfoLinkText "Več podatkov …">
 
-<!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
+<!ENTITY identity.permissions "Dovoljenja">
 
-<!ENTITY allTabs.filter.emptyText "Zavihki iskanja">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!ENTITY identity.help.tooltip "Kako vem, da je moja povezaba na spletno stran varna?">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Zavihki brskalnika">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Zavihki ostalih računalnikov">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "Zavihki ostalih naprav">
 
 <!ENTITY syncBrand.shortName.label  "Usklajevanje">
 
@@ -594,14 +658,65 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico dodatkov">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
+<!ENTITY socialToolbar.title        "Gumb družbene vrstice">
+<!ENTITY social.notLoggedIn.label   "Niste prijavljeni">
 
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "Pano HTML">
+<!ENTITY social.ok.label       "V redu">
+<!ENTITY social.ok.accesskey   "V">
 
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
-toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY social.toggleSidebar.label "Prikaži stransko vrstico">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.addons.label "Upravljanje storitev …">
+
+<!ENTITY social.toggleNotifications.label "Prikaži namizna obvestila">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.description "Storitve <label/> so omogočene. Nastavitve storitev lahko spremenite v <label class='text-link'>Upravitelju dodatkov</label>.">
+<!ENTITY social.activated.undo.label "Ups, razveljavi!">
+<!ENTITY social.activated.undo.accesskey "R">
+<!ENTITY social.learnMore.label "Več o tem …">
+<!ENTITY social.learnMore.accesskey "V">
+<!ENTITY social.closeNotificationItem.label "Ne zdaj">
+
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Osredotoči klepet">
+<!ENTITY social.chatBar.accesskey "k">
+
+<!ENTITY social.markpageMenu.accesskey "S">
+<!ENTITY social.markpageMenu.label "Shrani stran na …">
+<!ENTITY social.marklinkMenu.accesskey "P">
+<!ENTITY social.marklinkMenu.label "Shrani povezavo na …">
+
+<!ENTITY getUserMedia.selectCamera.label "Uporabi kamero:">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectMicrophone.label "Uporabi mikrofon:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Dostop do kamere in mikrofona">
+<!ENTITY webrtcIndicatorButton.tooltip "Prikaži strani, katerim je trenutno dovoljena uporaba kamere in mikrofona">
+
+<!ENTITY mixedContentBlocked.helplink "Več o tem">
+<!ENTITY mixedContentBlocked.moreinfo "Večina strani bo delovala pravilo, čeprav je ta vsebina zavrnjena.">
+
+<!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
+
+<!ENTITY pluginNotification.showAll.label "Prikaži vse">
+<!ENTITY pluginNotification.showAll.accesskey "S">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Dovoli zdaj">
+<!ENTITY pluginActivateAlways.label "Dovoli in si zapomni">
+<!ENTITY pluginBlockNow.label "Zavrni vtičnik">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
+
+<!ENTITY tabCrashed.header "Zavihek se je sesul">
+<!ENTITY tabCrashed.message "No, to je pa nerodno. Nalaganje spletne strani ni uspelo, saj se ne odziva.">
+<!ENTITY tabCrashed.checkSendReport "Pošljite obvestilo o sesutju organizaciji &vendorShortName;, da ga bodo lahko odpravili.">
+<!ENTITY tabCrashed.tryAgain "Poskusi znova">

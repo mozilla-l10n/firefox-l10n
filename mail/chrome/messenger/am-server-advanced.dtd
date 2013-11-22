@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Napredne nastavitve računa">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Imenik strežnika IMAP:">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Omogoči strežniku, da razveljavi ta imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "X">
 <!ENTITY pop3Desc.label "Pri prenosu pošte pop s tega strežnika za novo pošto uporabi naslednjo mapo:" >
-<!ENTITY globalInbox.label "Globalno Prejeto (račun Krajevne mape)">
-<!ENTITY globalInbox.accesskey "o">
 <!ENTITY accountDirectory.label "Prejeto za strežnikov račun">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Prejeto za drug račun">

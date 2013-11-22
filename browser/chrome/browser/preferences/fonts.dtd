@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY fontsDialog.title "Pisave">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "47em">
@@ -8,10 +12,10 @@
 
 <!ENTITY size.label "Velikost:">
 <!ENTITY sizeProportional.accesskey "l">
-<!ENTITY sizeMonospace.accesskey "e">
+<!ENTITY sizeMonospace.accesskey "i">
 
 <!ENTITY proportional.label "Proporcionalna pisava:">
-<!ENTITY proportional.accesskey "S">
+<!ENTITY proportional.accesskey "R">
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
@@ -64,6 +68,7 @@
 <!ENTITY allowPagesToUse.label "Dovoli stranem, da uporabljajo lastne pisave namesto mojih izborov">
 <!ENTITY allowPagesToUse.accesskey "H">
 
-<!ENTITY languages.customize.Charset.grouplabel "Nabor znakov">
-<!ENTITY languages.customize.DefaultCharset.label "Privzeti nabor znakov:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "Z">
+<!ENTITY languages.customize.Fallback.grouplabel  "Nabor znakov za starejše vsebine">
+<!ENTITY languages.customize.Fallback.label       "Privzet nabor znakov:">
+<!ENTITY languages.customize.Fallback.accesskey   "Z">
+<!ENTITY languages.customize.Fallback.desc        "Ta nabor znakov se uporablja za starejše vsebine, ki nimajo navedenega nabora.">
