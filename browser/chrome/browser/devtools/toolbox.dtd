@@ -5,10 +5,17 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
-<!ENTITY closeCmd.key  "U">
+<!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Lukk utviklarverktøy">
 <!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -78,4 +85,16 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Slå på persistente loggar">
-<!ENTITY options.enablePersistentLogging.tooltip  "Viss du slår på denne innstillinga, vil nettlesarkonsollen ikkje tøme utdata kvar gong du går til ei ny side">
+<!ENTITY options.enablePersistentLogging.tooltip  "Dersom du slår på denne innstillinga, vil nettlesarkonsollen ikkje tøme utdata kvar gong du går til ei ny side">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "JavaScript-profilering">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Vis Gecko-plattformdata">
+<!ENTITY options.showPlatformData.tooltip  "Dersom du slår på denne innstillinga vil JavaScript-profilering rapportere data som også gjeld Geckos plattformsymbol">
