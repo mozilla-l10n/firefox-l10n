@@ -1,8 +1,14 @@
-<!ENTITY enter.label "Picatz una adreça web (URL) o especificatz un fichièr local que volètz dobrir :">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/openLocation.xul -->
+
+
+<!ENTITY enter.label "Picatz una adreça web (URL) o especificatz un fichièr local que volètz dobrir :">  
 <!ENTITY chooseFile.label "Causir un fichièr...">
-<!ENTITY newWindow.label "Fenèstra novèla">
 <!ENTITY newTab.label "Onglet novèl">
-<!ENTITY topWindow.label "Fenèstra actuala">
+<!ENTITY newWindow.label "Fenèstra novèla">
+<!ENTITY topTab.label "Onglet actual">
 <!ENTITY caption.label "Dobrir un emplaçament web">
 <!ENTITY openWhere.label "Dobrir dins :">
 <!ENTITY openBtn.label "Dobrir">

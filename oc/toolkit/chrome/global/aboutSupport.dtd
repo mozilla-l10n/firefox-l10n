@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Informacions de depanatge">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas
+quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions
+ correntas sus &brandShortName;, consultatz nòstre <a id='supportLink'>site Web d'assisténcia</a>.">
+
+<!ENTITY aboutSupport.crashes.title "Rapòrts de plantatge">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Identificant del rapòrt">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.allReports "Rapòrts de plantatge">
+
+
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "Nom">
+<!ENTITY aboutSupport.extensionEnabled "Activat">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsName "Nome">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Istoric de las mesas a jorn">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afichar l'istoric de las mesas a jorn">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dorsièr de perfil">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activats">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
+
+<!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Dobrir lo dorsièr correspondent">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferéncias modificadas importantas">
+<!ENTITY aboutSupport.modifiedPrefsName "Nom">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valor">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "preféréncias de user.js">
+<!ENTITY aboutSupport.userJSDescription "Vòtre dorsièr de perfil possedís un <a id='prefs-user-js-link'>fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per &brandShortName;.">
+
+<!ENTITY aboutSupport.graphicsTitle "Acceleracion grafica">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Amassamicas incremental">
+
+<!ENTITY aboutSupport.a11yTitle "Accessibilitat">
+<!ENTITY aboutSupport.a11yActivated "Activar">
+<!ENTITY aboutSupport.a11yForceDisabled "Limitar l'accessibilitat">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.updateHistoryTitle "Istoric de las mesas a jorn">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las informacions brutas dins lo quichapapièrs">

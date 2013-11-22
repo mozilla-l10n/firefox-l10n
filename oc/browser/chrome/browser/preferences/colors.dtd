@@ -1,19 +1,26 @@
-<!ENTITY colorsDialog.title "Colors">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "41em">
-<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
-<!ENTITY allowPagesToUse.accesskey "A">
-<!ENTITY color "Tèxt e fons">
-<!ENTITY textColor.label "Tèxt :">
-<!ENTITY textColor.accesskey "t">
-<!ENTITY backgroundColor.label "Fons :">
-<!ENTITY backgroundColor.accesskey "F">
-<!ENTITY useSystemColors.label "Utilizar las colors del sistèma">
-<!ENTITY useSystemColors.accesskey "S">
-<!ENTITY underlineLinks.label "Soslinhar los ligams">
-<!ENTITY underlineLinks.accesskey "o">
-<!ENTITY links "Colors dels ligams">
-<!ENTITY linkColor.label "Ligams pas visitats :">
-<!ENTITY linkColor.accesskey "l">
-<!ENTITY visitedLinkColor.label "Ligams visitats :">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Colors">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çaisús">
+<!ENTITY  allowPagesToUse.accesskey       "A">
+
+<!ENTITY  color                           "Tèxte e rèire plan">
+<!ENTITY  textColor.label                 "Tèxte :">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "Rèire plan :">
+<!ENTITY  backgroundColor.accesskey       "a">
+<!ENTITY  useSystemColors.label           "Utilizar las colors del sistèma">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Soslinhar los ligams">
+<!ENTITY  underlineLinks.accesskey        "o">
+<!ENTITY  links                           "Colors dels ligams">
+<!ENTITY  linkColor.label                 "Ligams pas visitats :">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Ligams visitats :">
+<!ENTITY  visitedLinkColor.accesskey      "v">

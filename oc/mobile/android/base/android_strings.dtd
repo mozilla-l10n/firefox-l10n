@@ -1,0 +1,346 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\u0027aviar.">
+<!ENTITY  error_loading_file "Una error s\u0027es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Marcapaginas">
+
+<!ENTITY  reading_list_title "Lista de lectura">
+
+
+<!ENTITY  crash_message2 "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
+
+
+
+
+
+
+
+<!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
+<!ENTITY  crash_close_label "Tampar">
+<!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
+<!ENTITY  exit_label "Sortir">
+
+<!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Cap d\u0027aplicacion Web pas trobada">
+
+<!ENTITY choose_file "Causir un fichièr">
+
+<!ENTITY url_bar_default_text "Recèrca o adreça">
+
+<!ENTITY bookmark "Marcapaginas">
+<!ENTITY bookmark_added "Marcapaginas apondut">
+<!ENTITY bookmark_removed "Marcapaginas suprimit">
+<!ENTITY bookmark_updated "Marcapaginas mes a jorn">
+<!ENTITY bookmark_options "Opcions">
+
+<!ENTITY history_today_section "Uèi">
+<!ENTITY history_yesterday_section "Ièr">
+<!ENTITY history_week_section "Fa 7 jorns">
+<!ENTITY history_older_section "Mai de 7 jorns">
+
+<!ENTITY go "Anar">
+<!ENTITY search "Recercar">
+<!ENTITY reload "Tornar cargar">
+<!ENTITY forward "Pagina seguenta">
+<!ENTITY menu "Menú">
+<!ENTITY back "Retorn">
+<!ENTITY stop "Arrestar">
+<!ENTITY site_security "Seguretat del site">
+
+<!ENTITY close_tab "Tampar l\u0027onglet">
+<!ENTITY one_tab "1 onglet">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; onglets">
+<!ENTITY new_tab_opened "Novèl onglet dobèrt">
+
+<!ENTITY settings "Paramètres">
+<!ENTITY settings_title "Paramètres">
+
+
+
+
+
+
+
+
+
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+
+
+
+<!ENTITY pref_remember_signons "Enreg. los senhals :">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+
+
+
+
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Activat">
+<!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
+<!ENTITY pref_cookies_disabled "Desactivat">
+
+
+
+
+
+<!ENTITY pref_char_encoding "Encodatge de caractèrs">
+<!ENTITY pref_char_encoding_on "Afichar lo menú">
+<!ENTITY pref_char_encoding_off "Amagar lo menú">
+<!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
+<!ENTITY pref_plugins "Empeutons (Plugins)">
+<!ENTITY pref_plugins_enabled "Activat">
+<!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
+<!ENTITY pref_plugins_disabled "Desactivat">
+<!ENTITY pref_text_size "Talha del tèxte">
+
+
+
+
+<!ENTITY pref_font_size_tiny "Fòrça pichona">
+<!ENTITY pref_font_size_small "Pichona">
+<!ENTITY pref_font_size_medium "Mejana">
+<!ENTITY pref_font_size_large "Granda">
+<!ENTITY pref_font_size_xlarge "Fòrça granda">
+<!ENTITY pref_font_size_set "Definir">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Lo pandà rós, rapid coma un  lhauç, rebombís de delà de vòstras espèras amb mai de velocitat, mai de soplesa e mai de seguretat. En tant que fondacion de tòca non lucrativa, sèm liures d\u0027innovar per vos sens cap de pression ni cap de compromés. Aquò significa una melhora experiéncia per vos e un melhor avenidor pel Web.">
+
+<!ENTITY pref_use_master_password "Senhal principal">
+<!ENTITY pref_show_product_announcements "Anoncis del produch">
+<!ENTITY pref_sync "Sincr">
+<!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
+<!ENTITY pref_import_android "Importar dempuèi Android">
+<!ENTITY pref_private_data_history "Istoric de navigacion &amp; dels telecargaments">
+<!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
+<!ENTITY pref_private_data_passwords "Senhals enregistrats">
+<!ENTITY pref_private_data_cache "Escondedor">
+<!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
+
+<!ENTITY pref_private_data_downloadFiles "Fichièrs telecargats">
+
+
+<!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Retorns d\u0027utilizacion">
+
+<!ENTITY pref_search_default "Per manca">
+
+
+
+
+
+
+
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+
+
+
+
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+
+
+<!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
+<!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desactivat">
+<!ENTITY pref_update_autodownload_enabled "Activat">
+
+<!ENTITY quit "Quitar">
+
+<!ENTITY addons "Moduls complementaris">
+<!ENTITY downloads "Telecargaments">
+<!ENTITY apps "Apps">
+<!ENTITY char_encoding "Encodatge de caractèr">
+
+<!ENTITY share "Partejar">
+<!ENTITY share_title "Partejar amb l\u0027ajuda de">
+<!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
+<!ENTITY save_as_pdf "Enregistrar en PDF">
+<!ENTITY find_in_page "Recercar dins la pagina">
+<!ENTITY desktop_mode "Veire version ordenador">
+<!ENTITY tools "Aisinas">
+<!ENTITY new_tab "Onglet novèl">
+<!ENTITY new_private_tab "Onglet de nav. privada">
+<!ENTITY close_all_tabs "Tampar totes los onglets">
+
+<!ENTITY tabs_private "Privats">
+<!ENTITY tabs_synced "Sincronizats">
+
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Recercar dins la pagina">
+<!ENTITY find_prev "Precedent">
+<!ENTITY find_next "Seguent">
+<!ENTITY find_close "Tampar">
+
+<!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
+<!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
+<!ENTITY contextmenu_open_in_reader "Dobrir dins lo lector">
+
+<!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
+<!ENTITY contextmenu_share "Partejar">
+<!ENTITY contextmenu_pasteandgo "Pegar &amp; dobrir">
+<!ENTITY contextmenu_paste "Empegar">
+<!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
+<!ENTITY contextmenu_edit_bookmark "Modificar">
+
+
+
+<!ENTITY contextmenu_top_bookmarks_pin "Espingolar lo site">
+<!ENTITY contextmenu_top_bookmarks_unpin "Daissar anar lo site">
+
+
+
+
+<!ENTITY history_removed "Pagina suprimida">
+
+<!ENTITY bookmark_edit_title "Modificar lo marcapaginas">
+<!ENTITY bookmark_edit_name "Nom">
+<!ENTITY bookmark_edit_location "Emplaçament">
+<!ENTITY bookmark_edit_keyword "Mot clau">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_cancel       "Anullar">
+<!ENTITY site_settings_clear        "Escafar">
+<!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
+
+<!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
+<!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
+<!ENTITY reading_list_failed "Impossible d\u0027apondre la pagina a vòstra lista de lectura">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY masterpassword_create_title "Crear un senhal principal">
+<!ENTITY masterpassword_remove_title "Supression del senhal principal">
+<!ENTITY masterpassword_password "Senhal">
+<!ENTITY masterpassword_confirm "Confirmar lo senhal :">
+
+<!ENTITY button_ok "D\u0027acòrdi">
+<!ENTITY button_cancel "Anullar">
+<!ENTITY button_yes "Òc">
+<!ENTITY button_no "Non">
+<!ENTITY button_clear_data "Escafar las donadas">
+<!ENTITY button_set "Definir">
+<!ENTITY button_clear "Escafar">
+
+<!ENTITY home_top_sites_title "Sites favorits">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+
+
+<!ENTITY home_last_tabs_open "Dobrir totes los onglets">
+
+
+
+
+
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+
+
+
+<!ENTITY filepicker_title "Causir un fichièr">
+<!ENTITY filepicker_audio_title "Causir o enregistrar un son">
+<!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\u0027ecran">
+<!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Sètz connectat a">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "que lo detentor n\u0027es">
+<!-- Mixed content notifications in site identity popup -->
+
+
+
+
+
+
+
+<!ENTITY private_data_success "Donadas personalas escafadas">
+<!ENTITY private_data_fail "D\u0027unas donadas personalas pòdon pas èsser escafadas">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de 
+l\u0027istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas 
+dempuèi Android">
+<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric 
+dempuèi Android">
+<!ENTITY bookmarkhistory_import_wait "Esperatz...">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "Volètz activar las suggestions de recèrca &formatS; ?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY webapp_generic_name "App">
+
+<!ENTITY searchable_description "Marcapaginas e istoric">
+
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Mesa a jorn disponibla per &brandShortName;">
+<!ENTITY updater_start_select2 "Tocar per telecargar">
+
+<!ENTITY updater_downloading_title2 "Telecargament de &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Lo telecargament a fracassat">
+<!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
+<!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
+
+<!ENTITY updater_apply_title2 "Mesa a jorn disponibla per &brandShortName;">
+<!ENTITY updater_apply_select2 "Tocar per metre a jorn">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Contunhar">
+
+
+
+
+

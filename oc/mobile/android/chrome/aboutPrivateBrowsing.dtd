@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navigacion privada">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Avètz dobèrt un novèl onglet de navigacion privada.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Aqueste onglet es pas en mòde de navigacion privada.">
+
+<!ENTITY privatebrowsingpage.description            "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marcapaginas seràn gardats.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">

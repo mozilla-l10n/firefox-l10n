@@ -1,42 +1,37 @@
-<!ENTITY migrationWizard.title "Assistent d'importacion">
-<!ENTITY importFrom.label "Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas dempuèi :">
-<!ENTITY importFromUnix.label "Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas dempuèi :">
-<!ENTITY importFromBookmarks.label "Importar los marcapaginas dempuèi :">
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird o Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Importar pas res">
-<!ENTITY importFromNothing.accesskey "p">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "A partir d'un fichièr HTML">
-<!ENTITY importFromHTMLFile.accesskey "f">
-<!ENTITY noMigrationSources.label "Impossible de trobar un logicial que contenga de marcapaginas, un istoric o de senhals.">
-<!ENTITY importSource.title "Importar los paramètres e las donadas">
-<!ENTITY importItems.title "Elements d'importar">
-<!ENTITY importItems.label "Seleccionatz los elements d'importar :">
-<!ENTITY migrating.title "Importacion...">
-<!ENTITY migrating.label "Los elements seguents son a s'importar...">
-<!ENTITY selectProfile.title "Causissètz un perfil...">
-<!ENTITY selectProfile.label "Los perfils seguents son disponibles per èsser importats :">
-<!ENTITY done.title "Importacion acabada">
-<!ENTITY done.label "Los elements seguents son estats importats amb succès :">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Assistent d'importacion">
+
+<!ENTITY importFrom.label               "Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas dempuèi :">
+<!ENTITY importFromUnix.label           "Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas dempuèi :">
+<!ENTITY importFromBookmarks.label      "Importar los marcapaginas dempuèi :">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "Importar pas res">
+<!ENTITY importFromNothing.accesskey    "p">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
+
+<!ENTITY noMigrationSources.label       "Impossible de trobar un logicial que contenga de marcapaginas, un istoric o de senhals.">
+
+<!ENTITY importSource.title             "Importar los paramètres e las donadas">
+<!ENTITY importItems.title              "Elements d'importar">
+<!ENTITY importItems.label              "Seleccionatz los elements d'importar :">
+
+<!ENTITY migrating.title                "Importacion...">
+<!ENTITY migrating.label                "Los elements seguents son a s'importar...">
+
+<!ENTITY selectProfile.title            "Causissètz un perfil...">
+<!ENTITY selectProfile.label            "Los perfils seguents son disponibles per èsser importats :">
+
+<!ENTITY done.title                     "Importacion acabada">
+<!ENTITY done.label                     "Los elements seguents son estats importats amb succès :">
+

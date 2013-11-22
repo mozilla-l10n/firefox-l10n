@@ -1,8 +1,0 @@
-<!ENTITY incompatible.title "Elements incompatibles">
-<!ENTITY incompatible.intro "Los elements seguents son pas compatibles amb aquesta mesa a jorn de &brandShortName; e
-seràn desactivats al moment de son installacion :">
-<!ENTITY incompatible.update "&brandShortName; verificarà regularament lors mesas a jorn al cas qu'una version
-compatibla se fa disponibla.">
-<!ENTITY incompatible.suffix "Las mesas a jorn de &brandShortName; contenon de melhoraments de seguretat importants. Per vòstra proteccion, es fòrtament recomandat de metre a jorn &brandShortName; quitament se d'unas extensions o d'unes
-tèmas venon incompatibles.">
-<!ENTITY closebutton.label "Tampar">
