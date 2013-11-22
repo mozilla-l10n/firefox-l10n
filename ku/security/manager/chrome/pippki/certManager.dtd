@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Mîhengên Sertîfîkayê yên Ewlekariyê Rist Bike">
 <!ENTITY certmgr.editcacert.title             "CA Mîhengên Sertîfîkayê yên Ewlekariyê rist bike">
-<!ENTITY certmgr.editsslcert.title            "Mîhengên ewlekariyê yên rûpela torê mîheng bike">
 <!ENTITY certmgr.editcert.edittrust           "Mîhengên Ewlekariyê rist bike:">
 <!ENTITY certmgr.editcert.trustssl            "Ev sertîfîka rûpelên torê diyar dike.">
 <!ENTITY certmgr.editcert.trustemail          "Ev sertîfîka bikarhênerên peyaman salix dike.">
 <!ENTITY certmgr.editcert.trustobjsign        "Ev sertîfîka nivîsbaran diyar dike.">
-<!ENTITY certmgr.editsslcert.edittrust        "Ewlebûna li sertîfîkakirinê mîheng bike:">
-<!ENTITY certmgr.editsslcert.dotrust          "Li rastiya vê sertîfîkayê ewle be.">
-<!ENTITY certmgr.editsslcert.donttrust        "Li rastiya vê sertîfîkayê ewle nebe.">
 <!ENTITY certmgr.editemailcert.title          "Mîhengên ewlekariyê yên E-Peyamê rist bike">
 <!ENTITY certmgr.editemailcert.edittrust      "Ewlebûna li sertîfîkakirinê mîheng bike:">
 <!ENTITY certmgr.editemailcert.dotrust        "Li rastiya vê sertîfîkayê ewle be.">
@@ -61,7 +57,7 @@
 
 <!ENTITY certmgr.certname                     "Navê Sertîfîkayê">
 <!ENTITY certmgr.certserver                   "Pêşkêşkar">
-<!ENTITY certmgr.override_lifetime            "k">
+<!ENTITY certmgr.override_lifetime            "Temen">
 <!ENTITY certmgr.tokenname                    "Amûrê Ewlekariyê">
 <!ENTITY certmgr.issued                       "Dema weşanê">
 <!ENTITY certmgr.expires                      "Dema bidawîbûnê">
@@ -110,5 +106,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Rewşa belgeya pejirandinê">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Nîşan Bide...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "B">
-<!ENTITY exceptionMgr.permanent.label         "p">
-<!ENTITY exceptionMgr.permanent.accesskey     "p">
+<!ENTITY exceptionMgr.permanent.label         "Vê rewşa taybet her car tomar bike">
+<!ENTITY exceptionMgr.permanent.accesskey     "c">

@@ -8,21 +8,21 @@
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "d">
 <!ENTITY redoCmd.label             "Nû bike">
-<!ENTITY redoCmd.key               "n">
+<!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "N">
 <!ENTITY cutCmd.label              "Jê bike">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "J">
 <!ENTITY copyCmd.label             "Kopîkirin">
-<!ENTITY copyCmd.key               "j">
+<!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "K">
 <!ENTITY pasteCmd.label            "Pêve bike">
-<!ENTITY pasteCmd.key              "B">
+<!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "P">
 <!ENTITY deleteCmd.label           "Jêbirin">
 <!ENTITY deleteCmd.accesskey       "b">
 <!ENTITY selectAllCmd.label        "Gişî hilbijêre">
-<!ENTITY selectAllCmd.key          "P">
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "h">
 <!ENTITY findCmd.label             "Bibîne">
 <!ENTITY findCmd.key               "F">

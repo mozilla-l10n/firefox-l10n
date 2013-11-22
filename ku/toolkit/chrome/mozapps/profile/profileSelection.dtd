@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Profîlê jê bibe...">
 <!ENTITY            deleteButton.accesskey "j">
-
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "&brandShortName; vebijêrk û agahiyên te yên din ên di profîla bikarhêner de ne, tomar dike.">
 
 <!ENTITY            offlineState.label    "Negirêdayî bixebite">

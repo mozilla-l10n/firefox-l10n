@@ -3,25 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; Moda Ewlekariyê">
-<!ENTITY window.width                 "42em">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; vêga di moda ewlekariyê de tê xebitandin. Di vê modê de hemû mîhengên te yên taybet, tem û pêvekên te bêbandor in.">
-<!ENTITY safeModeDescription2.label   "Dikarî guhertinên li jêr çêkî:">
+<!ENTITY startSafeMode.label          "Destpêkirin di moda ewle de">
+<!ENTITY resetProfile.label           "&brandShortName;ê reset bike">
 
-<!ENTITY disableAddons.label          "Hemû add-onan neçalak bike">
-<!ENTITY disableAddons.accesskey      "n">
+<!ENTITY safeModeDescription3.label   "Moda ewle, modeke taybet ya &brandShortName;ê ye ku bo çareserkirina arîşeyan tê bikaranîn.">
+<!ENTITY safeModeDescription4.label   "Pêvek û eyarên taybet dê ji bo demeke kin dê neçalak bin.">
 
-<!ENTITY resetToolbars.label          "Darikê amûran û mîhengên kontrolê reset bike.">
-<!ENTITY resetToolbars.accesskey      "r">
+<!ENTITY resetProfileInstead.label    "Ji bo destpêkeke nû dikarî &brandShortName;ê reset bikî.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY deleteBookmarks.label        "Ji bilî yên hatî hilanîn hemû pelan jê bibe">
-<!ENTITY deleteBookmarks.accesskey    "b">
-
-<!ENTITY resetUserPrefs.label         "Hemû mîhengên bikarhêneran bîne rewşa &brandShortName; ya pêşsalixbûyî.">
-<!ENTITY resetUserPrefs.accesskey     "m">
-
-<!ENTITY restoreSearch.label          "Motorên lêgerînê yên standard veava bike">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Guhertinan bisepîne û ji nû ve bide xebitandin">
-<!ENTITY continueButton.label         "Di moda ewlekariyê de berdewam bike">
+<!ENTITY autoSafeModeDescription2.label "Dem aku &brandShortName;ê dest pê dikir bi awayekî ne bende hat girtin. Dibe ku sedem pêvek yan jî sedemine din bin. Ji bo çareserkirinê dikarî resetkirina &brandShortName;ê yan jî destpêkirina moda ewle biceribînî.">
+<!ENTITY resetProfileFooter.label       "Hemû tiştên din dê li eyarên fabrîkayê bên vegerandin.">
+<!ENTITY safeModeInstead.label          "Eger vê naxwazî, dikarî pêvekên xwe û eyarên xwe yên taybet ji bo demeke in neçalak bikî da ku tu xwe bi xwe çareser bikî.">
