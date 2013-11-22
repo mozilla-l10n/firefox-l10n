@@ -27,7 +27,7 @@
 <!ENTITY PhoneticField2.label           "성:">
 <!ENTITY DisplayName.label              "표시명:">
 <!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label		"메세지 헤더에는 항상 표시명을 우선">
+<!ENTITY preferDisplayName.label		"메시지 헤더에는 항상 표시명을 우선">
 <!ENTITY preferDisplayName.accesskey	"y">
 <!ENTITY NickName.label                 "애칭:">
 <!ENTITY NickName.accesskey             "N">

@@ -180,7 +180,7 @@
 <!ENTITY quoteButton.label "인용">
 <!ENTITY addressButton.label "주소록">
 <!ENTITY attachButton.label "첨부">
-<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메세지 맞춤법 검사하기">
+<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메시지 맞춤법 검사하기">
 <!ENTITY spellingButton.label "맞춤법 검사">
 <!ENTITY saveButton.label "저장">
 

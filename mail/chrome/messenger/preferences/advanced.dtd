@@ -58,7 +58,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "기존 메시지 창">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label		"이동시 또는 삭제시 메세지 창 또는 탭 닫기">
+<!ENTITY closeMsgOnMoveOrDelete.label		"이동시 또는 삭제시 메시지 창 또는 탭 닫기">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey	"C">
 
 <!-- Update -->
