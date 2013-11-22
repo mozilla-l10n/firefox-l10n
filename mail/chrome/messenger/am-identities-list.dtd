@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY identitiesListAdd.label  "Қосу…">
+<!ENTITY identitiesListAdd.accesskey  "о">
+<!ENTITY identitiesListEdit.label "Өзгерту…">
+<!ENTITY identitiesListEdit.accesskey "Ө">
+
+
+<!ENTITY identitiesListDelete.label "Өшіру">
+<!ENTITY identitiesListDelete.accesskey "Ө">
+<!ENTITY identitiesListClose.label "Жабу">
+<!ENTITY identitiesListClose.accesskey "Ж">

@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY PropertyName.label             "Қасиеті:">
+
+
+<!ENTITY tree.propertyHeader.label      "Қасиеті">
+<!ENTITY tree.valueHeader.label         "Мәні">
+
+
+
+
+<!ENTITY removeAttribute.label  "Өшіру">

@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutApps.title2                          "Қолданбалар">
+<!ENTITY aboutApps.header                          "Қолданбаларыңыз">
+
+<!ENTITY aboutApps.browseMarketplace "Firefox дүкенін шолу">
+<!ENTITY aboutApps.uninstall "Өшіру">
+<!ENTITY aboutApps.addToHomescreen "Үй экранына қосу">

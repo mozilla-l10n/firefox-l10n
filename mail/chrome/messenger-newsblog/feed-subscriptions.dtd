@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Subscription Dialog -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY button.addFeed.label        "Қосу">
+<!ENTITY button.addFeed.accesskey    "о">
+<!ENTITY button.editFeed.label       "Жаңарту">
+<!ENTITY button.editFeed.accesskey   "Ж">
+<!ENTITY button.removeFeed.label     "Өшіру">
+<!ENTITY button.removeFeed.accesskey "ш">
+<!ENTITY button.importOPML.label     "Импорттау">
+<!ENTITY button.importOPML.accesskey "И">
+
+
+
+
+<!ENTITY cmd.close.commandKey        "w">

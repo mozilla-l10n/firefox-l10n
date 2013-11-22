@@ -19,8 +19,15 @@
 <!ENTITY productHelp.label        "&brandShortName; көмегі">
 <!ENTITY productHelp.accesskey    "к">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Пернетақта жарлықтары">
+<!ENTITY helpKeyboardShortcuts.accesskey "е">
+
 <!ENTITY helpSafeMode.label       "Сөндірілген кеңейтулермен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey   "р">
+
+<!ENTITY healthReport.label       "&brandShortName; деңсаулық есептемесі">
+<!ENTITY healthReport.accesskey   "е">
 
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey  "а">

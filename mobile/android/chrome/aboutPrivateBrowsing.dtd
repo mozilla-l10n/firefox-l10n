@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Жекелік шолу">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Сіз жаңа жекелік шолу бетін аштыңыз.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Сіз жекелік шолу бетінде емессіз.">
+
+<!ENTITY privatebrowsingpage.description            "Жекелік шолу режиміндегі беттерде &brandShortName; шолулар, іздеулер, жүктемелер, веб формалар тарихтарын, cookies және уақытша файлдарды сақтамайтын болады. Бірақ, жүктеліп алынған файлдар және жасалған бетбелгілер сақталады.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Бұл құрылғы сіздің қаралған беттер тарихын сақтамаса да, интернет провайдеріңіз сіз қараған беттер тарихын біле алады.">

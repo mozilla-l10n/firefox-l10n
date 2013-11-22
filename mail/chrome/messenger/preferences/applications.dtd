@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Құрама түрі">
+<!ENTITY  typeColumn.accesskey        "т">
+
+<!ENTITY  actionColumn2.label         "Әрекет">
+<!ENTITY  actionColumn2.accesskey     "е">
+
+
+
+<!ENTITY  filter.placeholder          "Іздеу">
+
+<!ENTITY saveTo.label                 "Файлдарды сақтау жері">
+<!ENTITY saveTo.accesskey             "с">
+<!ENTITY alwaysAsk.label              "Файлдар сақталатын жері туралы әрқашан мені сұрау">
+<!ENTITY alwaysAsk.accesskey          "ж">
+<!ENTITY chooseFolderWin.label        "Қарап шығу...">
+<!ENTITY chooseFolderWin.accesskey    "ш">
+<!ENTITY chooseFolderMac.label        "Таңдау...">
+<!ENTITY chooseFolderMac.accesskey    "Т">
+
+<!ENTITY attachments.incoming.label   "Кіріс">
+<!ENTITY attachments.outgoing.label   "Шығыс">
+
+<!ENTITY addCloudFileAccount.label        "Қосу">
+<!ENTITY addCloudFileAccount.accesskey    "о">
+<!ENTITY addCloudFileAccount.description  "Жаңа Filelink сақтау қызметін қосу">
+<!ENTITY removeCloudFileAccount.label     "Өшіру">
+<!ENTITY removeCloudFileAccount.accesskey "ш">
+<!ENTITY authRequired.description         "Бұл сақтау қызметінің баптауларын қарау үшін сіздің авторизацияңыз керек.">
+<!ENTITY authRequired.button.label        "Авторизация беру">
+<!ENTITY authRequired.button.accesskey    "в">
+
+<!ENTITY enableCloudFileAccountOffer.label "Келесіден үлкен файлдарды сақтауды ұсыну:">
+<!ENTITY enableCloudFileAccountOffer.mb "МБ">

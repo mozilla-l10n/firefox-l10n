@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Select.label "Таңдау тiзiмi">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY Option.label "Параметр">
+<!ENTITY OptionText.label "Мәтіні:">
+<!ENTITY OptionText.accesskey "М">
+
+
+
+
+
+
+
+<!ENTITY TextHeader.label "Мәтін">
+<!ENTITY ValueHeader.label "Мәні">
+<!ENTITY SelectedHeader.label "Таңдалған">
+
+
+
+
+<!ENTITY RemoveElement.label "Өшіру">
+<!ENTITY RemoveElement.accesskey "ш">
+<!ENTITY MoveElementUp.label "Жоғарлату">
+<!ENTITY MoveElementUp.accesskey "Ж">
+<!ENTITY MoveElementDown.label "Төмендету">
+<!ENTITY MoveElementDown.accesskey "Т">

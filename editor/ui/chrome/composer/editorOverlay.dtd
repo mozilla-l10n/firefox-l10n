@@ -1,0 +1,312 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+<!-- File menu items -->
+<!-- Edit menu items -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Insert menu items -->
+
+<!ENTITY insertMenu.label "Енгізу">
+<!ENTITY insertMenu.accesskey "Е">
+
+
+
+
+
+
+
+<!ENTITY insertHLineCmd.label "Горизонталды сызық">
+<!ENTITY insertHLineCmd.accesskey "о">
+
+
+
+
+
+
+
+
+<!-- Used just in context popup. -->
+
+
+
+<!-- Font Face SubMenu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Font Size SubMenu -->
+
+
+
+<!-- < is above this key on many keyboards -->
+
+
+
+<!-- > is above this key on many keyboards -->
+
+<!ENTITY fontSizeMenu.label "Өлшемі">
+<!ENTITY fontSizeMenu.accesskey "ш">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Font Style SubMenu -->
+
+<!ENTITY styleBoldCmd.label "Қалың">
+<!ENTITY styleBoldCmd.accesskey "л">
+
+<!ENTITY styleItalicCmd.label "Көлбеу">
+<!ENTITY styleItalicCmd.accesskey "К">
+
+<!ENTITY styleUnderlineCmd.label "Астын сызу">
+<!ENTITY styleUnderlineCmd.accesskey "А">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- List menu items -->
+
+<!ENTITY noneCmd.label "Ештеме">
+<!ENTITY noneCmd.accesskey "Е">
+
+
+
+
+
+
+
+
+
+
+
+<!-- Shared in Paragraph, and Toolbar menulist -->
+
+<!-- isn't used in menu now, but may be added in future -->
+
+<!-- Align menu items -->
+
+<!ENTITY alignLeft.label "Солға">
+<!ENTITY alignLeft.accesskey "С">
+<!ENTITY alignLeft.tooltip "Солға туралау">
+
+
+<!ENTITY alignCenter.tooltip "Ортаға туралау">
+<!ENTITY alignRight.label "Оңға">
+<!ENTITY alignRight.accesskey "О">
+<!ENTITY alignRight.tooltip "Оңға туралау">
+
+
+<!ENTITY alignJustify.tooltip "Енімен туралау">
+<!-- Layer toolbar items -->
+
+<!ENTITY layer.tooltip "Қабат">
+
+<!ENTITY layerBringToFront.tooltip "Алға шығару">
+
+
+<!ENTITY increaseIndent.key "]">
+
+
+<!ENTITY decreaseIndent.key "[">
+
+
+<!-- Table Menu -->
+
+<!-- Select Submenu -->
+
+<!ENTITY tableSelectMenu.label "Таңдау">
+<!ENTITY tableSelectMenu.accesskey "а">
+
+
+
+
+
+
+<!-- Insert SubMenu -->
+
+<!ENTITY tableInsertMenu.label "Енгізу">
+<!ENTITY tableInsertMenu.accesskey "Е">
+<!ENTITY tableTable.label "Кесте">
+<!ENTITY tableTable.accesskey "К">
+<!ENTITY tableRow.label "Жол">
+
+<!ENTITY tableRow.accesskey "Ж">
+
+
+
+
+<!ENTITY tableColumn.label "Баған">
+
+<!ENTITY tableColumn.accesskey "Б">
+
+
+
+
+<!ENTITY tableCell.label "Ұяшық">
+
+<!ENTITY tableCell.accesskey "я">
+
+
+
+
+
+
+
+
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Өшіру">
+<!ENTITY tableDeleteMenu.accesskey "р">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+
+
+
+
+
+
+
+<!-- Toolbar-only items -->
+
+<!ENTITY menuBar.tooltip "Мәзір панелі">
+
+<!ENTITY cutToolbarCmd.tooltip "Қиып алу">
+<!ENTITY copyToolbarCmd.tooltip "Көшіру">
+<!ENTITY pasteToolbarCmd.tooltip "Кірістіру">
+<!ENTITY printToolbarCmd.label "Баспаға шығару">
+<!ENTITY printToolbarCmd.tooltip "Ағымдағы бетті баспаға шығару">
+<!ENTITY findToolbarCmd.label "Табу">
+
+
+
+<!ENTITY imageToolbarCmd.label "Сурет">
+
+
+
+<!ENTITY tableToolbarCmd.label "Кесте">
+
+<!ENTITY linkToolbarCmd.label "Сілтеме">
+
+<!ENTITY anchorToolbarCmd.label "Байланыс">
+
+
+
+
+
+<!-- Editor toolbar -->
+
+<!ENTITY boldToolbarCmd.tooltip "Жуан">
+<!ENTITY italicToolbarCmd.tooltip "Көлбеу">
+<!ENTITY underlineToolbarCmd.tooltip "Асты сызылған">
+
+
+
+
+
+
+
+
+
+
+<!-- Structure Toolbar Context Menu items -->
+
+<!ENTITY structSelect.label         "Таңдау">
+<!ENTITY structSelect.accesskey     "Т">
+
+
+
+
+<!-- TOC manipulation -->
+
+<!ENTITY insertTOC.label          "Енгізу">
+<!ENTITY insertTOC.accesskey      "Е">
+<!ENTITY updateTOC.label          "Жаңарту">
+<!ENTITY updateTOC.accesskey      "Ж">
+<!ENTITY removeTOC.label          "Өшіру">
+<!ENTITY removeTOC.accesskey      "ш">
+
+

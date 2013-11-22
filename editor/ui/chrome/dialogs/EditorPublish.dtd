@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Window title -->
+
+
+<!ENTITY settingsTab.label            "Баптаулар">
+
+<!-- Publish Tab Panel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY setDefaultButton.label       "Бастапқы ретінде орнату">
+<!ENTITY setDefaultButton.accesskey   "т">
+<!ENTITY removeButton.label           "Сайтты өшіру">
+<!ENTITY removeButton.accesskey       "ш">
+<!-- Settings Tab Panel -->
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY username.label               "Пайдаланушы аты:">
+<!ENTITY username.accesskey           "й">
+
+<!ENTITY password.label               "Паролі:">
+<!ENTITY password.accesskey           "р">
+
+<!ENTITY savePassword.label           "Парольді сақтау">
+<!ENTITY savePassword.accesskey       "р">
+

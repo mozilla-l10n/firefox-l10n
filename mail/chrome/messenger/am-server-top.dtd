@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from am-server-top.xul -->
+
+
+<!ENTITY messageStorage.label "Хабарламалар қоймасы">
+
+
+
+
+
+<!ENTITY userName.label "Пайдаланушы аты:">
+<!ENTITY userName.accesskey "й">
+<!ENTITY port.label "Порт:">
+<!ENTITY port.accesskey "П">
+<!ENTITY serverPortDefault.label "Бастапқы:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+
+<!ENTITY biffEnd.label "минут">
+
+
+<!ENTITY connectionSecurityType-0.label "Ешнәрсе">
+
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+
+
+
+
+
+
+
+<!ENTITY advancedButton.label "Қосымша…">
+<!ENTITY advancedButton.accesskey "о">
+
+
+
+<!ENTITY browseFolder.label "Қарап шығу…">
+<!ENTITY browseFolder.accesskey "ш">
+
+
+
+<!ENTITY accountTitle.label "Тіркелгі баптаулары">
+

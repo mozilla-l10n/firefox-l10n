@@ -1,7 +1,124 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
-<!ENTITY window.title  "Өндеушінің саймандары">
 
 <!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip    "Өндеуші саймандарын жабу">
+<!ENTITY toolboxOptionsButton.key      "а">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomIn.key2            "="> 
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+
+<!ENTITY options.context.advancedSettings "Кеңейтілген баптаулар">
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
+
+<!ENTITY options.context.inspector "Бақылаушы">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "Негізгі түс бірлігі">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "б">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "Он алтылық">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+
+<!ENTITY options.defaultColorUnit.name "Түстер аттары">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
+  -  triggers page refresh label next to the settings in the advanced settings
+  -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "Ағымдағы сессия ғана, парақты қайта жүктейді">
+<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
+  -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableChrome.label3    "chrome жөндеуін іске қосу">
+<!ENTITY options.enableChrome.tooltip   "Бұл опцияны іске қосу нәтижесінде сіз браузерде түрлі өндіруші саймандарын қолдана алатын боласыз">
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableRemote.label3    "Қашықтан жөндеуді іске қосу">
+<!ENTITY options.enableRemote.tooltip   "Бұл опцияны іске қосу нәтижесінде өндіруші саймандарына Firefox OS сияқты қашықтағы Firefox нұсқаларын жөндеу рұқсат етіледі">
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label2    "JavaScript сөндіру">
+<!ENTITY options.disableJavaScript.tooltip   "Бұл опцияны іске қосу нәтижесінде ағымдағы бетте JavaScript сөндіріледі. Егер бет немесе саймандар панелі жабылса, бұл опция ұмытылады.">
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "Үнсіз келісім бойынша Firefox өндіруші саймандары">
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the developer tools
+  -  added by add-ons. This heading is hidden when there is no developer tool
+  -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "Қосымшалармен орнатылған өндіруші саймандары">
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* Ағымдағы саймандар панелінің мақсаты үшін қолдауы жоқ">
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+  -  the heading of the radiobox corresponding to the theme of the developer
+  -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label   "DevTools темасын таңдау:">
+<!ENTITY options.darkTheme.label             "Күңгірт тема">
+<!ENTITY options.lightTheme.label            "Ашық тема">
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "Веб консолі">
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+
+<!ENTITY options.enablePersistentLogging.label    "Тұрақты журналдауды іске қосу">
+<!ENTITY options.enablePersistentLogging.tooltip  "Егер сіз бұл опцияны іске қоссаңыз, онда Веб консолі сіз әр рет жаңа бетке өткен кезде шығыс нәтижелерін тазартпайтын болады">
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+
+<!ENTITY options.profiler.label            "JavaScript профильдеушісі">
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+
+<!ENTITY options.showPlatformData.label    "Gecko платформасының мәліметтерін көрсету">
+<!ENTITY options.showPlatformData.tooltip  "Бұл опцияны іске қоссаңыз, JavaScript профильдеуші есептемелерінде 
+Gecko платформа таңбалары болады">

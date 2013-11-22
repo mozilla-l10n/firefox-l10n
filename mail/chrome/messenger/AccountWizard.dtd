@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Entities for AccountWizard -->
+
+
+<!ENTITY windowTitle.label "Тіркелгілер шебері">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!-- Entities for Account Type page -->
+<!ENTITY accountTypeTitle.label "Жаңа тіркелгіні баптау">
+
+
+<!ENTITY accountTypeMail.label "Эл. пошта тіркелгісі">
+<!ENTITY accountTypeMail.accesskey "л">
+
+
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Идентификация">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(мысалы, &quot;Қанат Қойбағаров&quot;).">
+<!ENTITY fullnameLabel.label "Сіздің атыңыз:">
+<!ENTITY fullnameLabel.accesskey "ы">
+
+<!ENTITY emailLabel.label "Эл. пошта адресі:">
+<!ENTITY emailLabel.accesskey "Э">
+<!-- Entities for Incoming Server page -->
+
+
+<!ENTITY incomingTitle.label "Кіріс сервер ақпараты">
+<!ENTITY incomingServerTypeDesc.label "Сіз қолданатын кіріс сервер түрін таңдаңыз.">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+
+
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "о">
+<!ENTITY defaultPortLabel.label "Бастапқы:">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+
+
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "Пайдаланушы аты:">
+<!ENTITY incomingUsername.accesskey "й">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+
+
+<!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "Шығыс сервер ақпараты">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+-->
+
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+-->
+
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Тіркелгі атауы">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameLabel.label "Тіркелгі атауы:">
+<!ENTITY accnameLabel.accesskey "а">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "Құттықтаймыз!">
+<!ENTITY completionText.label "Төмендегі ақпараттың дұрыстығын растаңыз.">
+<!ENTITY serverTypePrefix.label "Кіріс сервер түрі:">
+<!ENTITY serverNamePrefix.label "Шығыс сервер түрі:">
+<!ENTITY smtpServerNamePrefix.label "Шығыс серве аты (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Жаңалықтар серверінің аты (NNTP):">
+<!ENTITY downloadOnLogin.label "Хабарламаларды қазір жүктеп алу">
+<!ENTITY downloadOnLogin.accesskey "ж">
+
+
+
+<!ENTITY clickFinish.label "Бұл баптауларды сақтап, тіркелгілер шеберін жабу үшін, Аяқтау батырмасын басыңыз.">
+<!ENTITY clickFinish.labelMac "Бұл баптауларды сақтап, тіркелгілер шеберін жабу үшін, Дайын батырмасын басыңыз.">

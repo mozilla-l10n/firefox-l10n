@@ -1,0 +1,214 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookWindow.title                        "Адрестік кітапша">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label                                 "Файл">
+<!ENTITY fileMenu.accesskey                             "Ф">
+<!ENTITY newMenu.label                                  "Жаңа">
+<!ENTITY newMenu.accesskey                              "Ж">
+
+
+<!ENTITY newContact.key                                 "N">
+
+
+<!ENTITY newAddressBookCmd.label                        "Адрестік кітапша…">
+<!ENTITY newAddressBookCmd.accesskey                    "к">
+
+
+<!ENTITY newMessageCmd.label                            "Хабарлама">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "Х">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Mac OS X адрестік кітапшаны қолдану">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Жабу">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "Ж">
+<!ENTITY printSetupCmd.label                            "Парақ баптаулары…">
+<!ENTITY printSetupCmd.accesskey                        "П">
+
+
+
+
+
+
+<!ENTITY printContactCmd.key                            "P">
+
+
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label                                 "Түзету">
+<!ENTITY editMenu.accesskey                             "Т">
+<!ENTITY undoCmd.label                                  "Болдырмау">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "Б">
+<!ENTITY redoCmd.label                                  "Қайталау">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "й">
+<!ENTITY cutCmd.label                                   "Қиып алу">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "и">
+<!ENTITY copyCmd.label                                  "Көшіру">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "ш">
+<!ENTITY pasteCmd.label                                 "Кірістіру">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "р">
+<!ENTITY deleteCmd.label                                "Өшіру">
+<!ENTITY deleteCmd.accesskey                            "ш">
+
+
+
+
+
+
+<!ENTITY selectAllCmd.label                             "Барлығын ерекшелеу">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "е">
+
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "Қасиеттері…">
+<!ENTITY propertiesCmd.accesskey                        "е">
+<!ENTITY propertiesCmd.key                              "i">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label                                 "Түрі">
+<!ENTITY viewMenu.accesskey                             "р">
+<!ENTITY viewToolbarsMenu.label                         "Саймандар панельдері">
+<!ENTITY viewToolbarsMenu.accesskey                     "С"> 
+<!ENTITY menubarCmd.label                               "Мәзір жолағы">
+<!ENTITY menubarCmd.accesskey                           "М">
+
+
+<!ENTITY showTaskbarCmd.label                           "Қалып-күй жолағы">
+<!ENTITY showTaskbarCmd.accesskey                       "а">
+<!ENTITY customizeToolbar.label                         "Баптау…">
+<!ENTITY customizeToolbar.accesskey                     "а">
+<!ENTITY layoutMenu.label                               "Жайма">
+<!ENTITY layoutMenu.accesskey                           "й">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Аты Жөні">
+<!ENTITY firstLastCmd2.accesskey                        "А"> 
+
+
+
+
+
+
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label                                "Саймандар">
+<!ENTITY tasksMenu.accesskey                            "С">
+
+
+<!ENTITY messengerCmd.commandkey                        "1">
+
+
+<!ENTITY importCmd.label                                "Импорттау…">
+<!ENTITY importCmd.accesskey                            "И">
+<!ENTITY exportCmd.label                                "Экспорттау…">
+<!ENTITY exportCmd.accesskey                            "Э">
+<!ENTITY preferencesCmd.label                           "Опциялар…">
+<!ENTITY preferencesCmd.accesskey                       "О">
+<!ENTITY preferencesCmdUnix.label                       "Параметрлер">
+<!ENTITY preferencesCmdUnix.accesskey                   "м">
+<!-- Address Book Toolbar and Context Menus -->  
+
+<!ENTITY newContactButton.label                         "Жаңа контакт">
+<!ENTITY newContactButton.accesskey                     "к">
+
+
+<!ENTITY editButton2.label                              "Қасиеттері">
+<!ENTITY editButton2.accesskey                          "а">
+<!ENTITY newmsgButton.label                             "Жазу">
+<!ENTITY newmsgButton.accesskey                         "Ж">
+
+
+<!ENTITY deleteButton2.label                            "Өшіру">
+<!ENTITY deleteButton2.accesskey                        "Ө">
+<!-- Address Book Toolbar Tooltips -->
+
+
+
+
+
+<!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label                            "Адрестік кітапшалар">
+<!-- Search Bar -->
+
+
+
+<!ENTITY searchItem.title "Жылдам іздеу">
+<!-- Results Pane -->
+
+<!ENTITY GeneratedName.label                            "Аты">
+<!ENTITY GeneratedName.accesskey                        "А">
+<!ENTITY PrimaryEmail.label                             "Эл.пошта:">
+<!ENTITY PrimaryEmail.accesskey                         "Э">
+
+
+<!ENTITY Company.label                                  "Мекеме">
+<!ENTITY Company.accesskey                              "М">
+<!ENTITY NickName.label                                 "Бүркеншік аты">
+<!ENTITY NickName.accesskey                             "р">
+
+
+
+
+<!ENTITY JobTitle.label                                 "Атағы">
+<!ENTITY JobTitle.accesskey                             "А">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY sortAscending.label                            "Өсу ретімен">
+<!ENTITY sortAscending.accesskey                        "с">
+<!ENTITY sortDescending.label                           "Кему ретімен">
+<!ENTITY sortDescending.accesskey                       "К">
+
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Контакт">
+
+
+
+<!ENTITY phone.heading                                  "Телефоны">
+<!ENTITY work.heading                                   "Жұмыс">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Анықтамасы">
+<!ENTITY addresses.heading                              "Адрестер">
+<!-- For Map It! -->
+
+<!-- Status Bar -->
+
+<!ENTITY statusText.label "">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY windowMenu.label "Терезе">
+<!ENTITY minimizeWindow.label "Шақтау">
+
+<!ENTITY bringAllToFront.label "Барлығын алдына қою">
+<!ENTITY zoomWindow.label "Үлкейту">
