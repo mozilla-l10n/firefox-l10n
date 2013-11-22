@@ -17,7 +17,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey	"I">
 <!ENTITY  idleTime			"분간 계속 되면 상대에게 알림"><!-- en-US: "minutes of inactivity" -->
 
-<!ENTITY  andSetStatusToAway.label	"아래 메세지를 보내고 자리 비움 상태로 바꿈:">
+<!ENTITY  andSetStatusToAway.label	"아래 메시지를 보내고 자리 비움 상태로 바꿈:">
 <!ENTITY  andSetStatusToAway.accesskey	"A">
 
 <!ENTITY  sendTyping.label		"대화 중 입력 중이라는 상태 전송">

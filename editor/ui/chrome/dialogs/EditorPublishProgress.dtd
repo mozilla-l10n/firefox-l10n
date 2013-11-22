@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY siteUrl.label "사이트 URL:">
-<!ENTITY docSubdir.label "페이지 하위 디렉토리:">
-<!ENTITY otherSubdir.label "이미지 하위 디렉토리:">
+<!ENTITY docSubdir.label "페이지 하위 디렉터리:">
+<!ENTITY otherSubdir.label "이미지 하위 디렉터리:">
 <!ENTITY status.label "출판 중…">
 <!ENTITY fileList.label "출판 상태">
 <!ENTITY succeeded.label "완료함">

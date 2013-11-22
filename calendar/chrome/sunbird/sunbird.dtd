@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sunbird.choosedate.button.tooltip                 "선택한 날자로 이동" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "선택한 날짜로 이동" >
 <!ENTITY sunbird.cut.button.tooltip                        "잘라내기" >
 <!ENTITY sunbird.copy.button.tooltip                       "복사하기" >
 <!ENTITY sunbird.paste.button.tooltip                      "붙여넣기" >
@@ -16,7 +16,7 @@
 <!ENTITY sunbird.unifinder.button.tooltip                  "찾기/이벤트 목록" >
 <!ENTITY sunbird.edit.button.tooltip                       "선택한 이벤트 편집" >
 
-<!ENTITY sunbird.choosedate.button.label                   "날자 선택" >
+<!ENTITY sunbird.choosedate.button.label                   "날짜 선택" >
 <!ENTITY sunbird.cut.button.label                          "잘라내기" >
 <!ENTITY sunbird.copy.button.label                         "복사하기" >
 <!ENTITY sunbird.paste.button.label                        "붙여넣기" >
@@ -29,7 +29,7 @@
 <!ENTITY sunbird.unifinder.button.label                    "이벤트 찾기" >
 <!ENTITY sunbird.edit.button.label                         "편집" >
 
-<!ENTITY sunbird.flat.topbar.choosedate                    "날자 이동" >
+<!ENTITY sunbird.flat.topbar.choosedate                    "날짜 이동" >
 <!ENTITY sunbird.flat.topbar.dayview                       "일간 보기" >
 <!ENTITY sunbird.flat.topbar.weekview                      "주간 보기" >
 <!ENTITY sunbird.flat.topbar.monthview                     "월간 보기" >
@@ -41,7 +41,7 @@
 <!ENTITY sunbird.multiweekview.accesskey                   "u" >
 
 
-<!ENTITY sunbird.calendartab.label                         "날자">
+<!ENTITY sunbird.calendartab.label                         "날짜">
 <!ENTITY sunbird.listofcalendarstab.label                  "달력">
 
 <!ENTITY sunbird.find.key                                  "F">
