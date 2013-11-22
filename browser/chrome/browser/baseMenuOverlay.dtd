@@ -6,7 +6,7 @@
 <!ENTITY minimizeWindow.label     "Biçûk Bike">
 <!ENTITY bringAllToFront.label    "Hemûyan bi pêş ve bîne.">
 <!ENTITY zoomWindow.label         "Nêzîk Bike">
-<!ENTITY windowMenu.label         "Pace">
+<!ENTITY windowMenu.label         "Pencere">
 
 <!ENTITY helpMenu.label           "Alîkarî"> 
 <!ENTITY helpMenu.accesskey       "A"> 
@@ -19,8 +19,15 @@
 <!ENTITY productHelp.label        "Alîkariya &brandShortName; 'ê">
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Kurteriyên klavyeyê">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
+
 <!ENTITY helpSafeMode.label       "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
 <!ENTITY helpSafeMode.accesskey   "r">
+
+<!ENTITY healthReport.label       "Rapora Tenduristiyê ya &brandShortName;ê">
+<!ENTITY healthReport.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">

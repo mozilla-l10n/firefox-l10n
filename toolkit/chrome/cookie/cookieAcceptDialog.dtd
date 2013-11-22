@@ -8,7 +8,6 @@
 <!ENTITY     props.path.label               "Kurterê:">
 <!ENTITY     props.secure.label             "Ji Bo Vir Bişeyne:">
 <!ENTITY     props.expires.label            "Dîroka bidawîbûnê:">
-<!ENTITY     props.policy.label             "Rêgez:"> 
 
 <!ENTITY     button.allow.label             "Destûrê bide">
 <!ENTITY     button.allow.accesskey         "D">

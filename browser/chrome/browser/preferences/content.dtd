@@ -2,24 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "Paceyên bixweber vedibin asteng bike">
+<!ENTITY  blockPopups.label           "Pencereyên bixweber vedibin asteng bike">
 <!ENTITY  blockPopups.accesskey       "b">
 <!ENTITY  popupExceptions.label       "Rewşên Taybet...">
 <!ENTITY  popupExceptions.accesskey   "e">
-
-<!ENTITY  loadImages.label            "Wêneyê xweber bar bike">
-<!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Rewşên Taybet...">
-<!ENTITY  exceptions.accesskey        "R">
-
-<!ENTITY  enableJavaScript.label      "JavaScriptê çalak bike">
-<!ENTITY  enableJavaScript.accesskey  "S">
-<!ENTITY  advancedJS.label            "Pêşketî...">
-<!ENTITY  advancedJS.accesskey        "P">
-
-<!ENTITY  enableJava.label            "Java çalak">
-<!ENTITY  enableJava.accesskey        "J">
-
 
 <!ENTITY  fontsAndColors.label        "Cureyên Nivîsê  &amp; Reng">
 

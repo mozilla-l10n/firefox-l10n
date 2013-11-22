@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -19,7 +17,7 @@
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Navnîşan:">
 <!ENTITY  generalType           "Cure:">
-<!ENTITY  generalMode           ":">
+<!ENTITY  generalMode           "Moda dahûrandinê:">
 <!ENTITY  generalSize           "Mezinahî">
 <!ENTITY  generalReferrer       "URL'yên Serîlêdanê:">
 <!ENTITY  generalSource         "Çavkaniya Bîrê:">
@@ -60,13 +58,8 @@
 <!ENTITY  permAllowSession      "Ji bo daniştinê destûrê bidê">
 <!ENTITY  permBlock             "Asteng Bike">
 <!ENTITY  permissionsFor        "Destûrê ji bo:">
-<!ENTITY  permImage             "Wêneyê Bar Bike">
-<!ENTITY  permPopup             "Paceya Hilpekîn Veke">
-<!ENTITY  permCookie            "Çerezan serast bike">
-<!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
-<!ENTITY  permGeo               "Cih parve bike">
+<!ENTITY  permPlugins           "Pêvekan çalak bike">
 
-<!ENTITY  permIndexedDB              "Dewamkirina Hilanîna Negirêdayî">
 <!ENTITY  permClearStorage           "Tomargehê paqij bike">
 <!ENTITY  permClearStorage.accesskey "T">
 
@@ -75,8 +68,7 @@
 <!ENTITY  securityHeader        "Agahiyên ewlekariyê yên rûpelê">
 <!ENTITY  securityView.certView "Sertîfîkayê Nîşan Bide">
 <!ENTITY  securityView.accesskey "B">
-<!ENTITY  securityView.unknown   "_: 
-Nayê Zanîn">
+<!ENTITY  securityView.unknown   "Nayê Zanîn">
 
 
 <!ENTITY  securityView.identity.header   "Nasnameya Malperê">
@@ -84,7 +76,7 @@ Nayê Zanîn">
 <!ENTITY  securityView.identity.domain   "Malper:">
 <!ENTITY  securityView.identity.verifier "Piştrastkirin:">
 
-<!ENTITY  securityView.privacy.header                   "Dîroka takekesî a &amp; ">
+<!ENTITY  securityView.privacy.header                   "Ewlekarî û raborî">
 <!ENTITY  securityView.privacy.history                  "Gelo min îro serdana vê malperê kiribû?">
 <!ENTITY  securityView.privacy.cookies                  "Gelo ev malper di komputera min de agahiyan (çerezan ) tomar dike?">
 <!ENTITY  securityView.privacy.viewCookies              "Çerezan Nîşan Bide">
