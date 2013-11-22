@@ -14,5 +14,5 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "업데이트 다운로드">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "업데이트 설치">
 <!ENTITY aboutPage.checkForUpdates.downloading  "업데이트 다운로드 중…">
-<!ENTITY aboutPage.license.label 				"라이센스 정보">
+<!ENTITY aboutPage.license.label 				"라이선스 정보">
 <!ENTITY aboutPage.checkForUpdates.link         "최신 버전 확인">

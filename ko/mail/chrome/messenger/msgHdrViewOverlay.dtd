@@ -100,7 +100,7 @@
 <!ENTITY copyLinkCmd.label			"링크 URL 복사">
 <!ENTITY copyLinkCmd.accesskey			"C">
 
-<!ENTITY CopyMessageId.label			"메세지 ID를 카피">
+<!ENTITY CopyMessageId.label			"메시지 ID를 카피">
 <!ENTITY CopyMessageId.accesskey		"C">
 <!ENTITY OpenMessageForMsgId.label "Message-ID로 열기">
 <!ENTITY OpenMessageForMsgId.accesskey		"O">
