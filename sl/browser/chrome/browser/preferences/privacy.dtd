@@ -1,7 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Sledenje">
 
-<!ENTITY doNotTrack.label               "Spletnim stranem sporoči, naj mi ne sledijo">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label2        "Stranem ne sporočaj mojih nastavitev sledenja">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2       "Stranem sporoči, naj mi ne sledijo">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2          "Stranem sporoči, naj mi sledijo">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Več o tem">
 
 <!ENTITY  history.label "Zgodovina">
 
@@ -16,10 +25,13 @@
 <!ENTITY  locbar.nothing.label          "Nič">
 
 <!ENTITY  acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
-<!ENTITY  acceptCookies.accesskey "p">
+<!ENTITY  acceptCookies.accesskey "v">
 
-<!ENTITY  acceptThirdParty.label "Sprejemaj piškote tretjih strani">
-<!ENTITY  acceptThirdParty.accesskey "p">
+<!ENTITY  acceptThirdParty.pre.label      "Sprejemaj piškote tretjih strani:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "r">
+<!ENTITY  acceptThirdParty.always.label   "Vedno">
+<!ENTITY  acceptThirdParty.never.label    "Nikoli">
+<!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
 
 <!ENTITY  keepUntil.label "Obdrži jih:">
 <!ENTITY  keepUntil.accesskey "O">
@@ -28,14 +40,14 @@
 <!ENTITY  close.label "dokler ne zaprem &brandShortName;a">
 <!ENTITY  askEachTime.label "vsakokrat me vprašaj">
 
-<!ENTITY  cookieExceptions.label "Izjeme ...">
+<!ENTITY  cookieExceptions.label "Izjeme …">
 <!ENTITY  cookieExceptions.accesskey "Z">
 
-<!ENTITY  showCookies.label "Pokaži piškote ...">
+<!ENTITY  showCookies.label "Pokaži piškote …">
 <!ENTITY  showCookies.accesskey "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; naj:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "J">
 <!ENTITY  historyHeader.remember.label     "Shranjuje zgodovino">
 <!ENTITY  historyHeader.dontremember.label "Ne shranjuje zgodovine">
 <!ENTITY  historyHeader.custom.label       "Uporablja posebne nastavitve za zgodovino">
@@ -70,7 +82,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "i">
 
 <!ENTITY  clearOnClose.label             "Počisti zgodovino ob izhodu iz programa &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "i">
+<!ENTITY  clearOnClose.accesskey         "g">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavitve …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

@@ -1,8 +1,13 @@
-<!ENTITY aboutAddons.title                      "Upravitelj dodatkov">
-<!ENTITY aboutAddons.header2                    "Vaši dodatki">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "Dodatki">
+<!ENTITY aboutAddons.header2                    "Moji dodatki">
 <!ENTITY aboutAddons.options                    "Možnosti">
+<!ENTITY aboutAddons.browseAll                  "Prebrskaj vse dodatke za Firefox">
 
 <!ENTITY addonAction.enable                     "Omogoči">
 <!ENTITY addonAction.disable                    "Onemogoči">
 <!ENTITY addonAction.uninstall                  "Odstrani">
-<!ENTITY addonAction.cancel                     "Prekliči">
+<!ENTITY addonAction.undo                       "Razveljavi">

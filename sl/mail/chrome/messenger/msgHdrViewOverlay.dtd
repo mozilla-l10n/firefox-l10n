@@ -1,58 +1,25 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
+<!ENTITY toField4.label "za">
+<!ENTITY fromField4.label "od">
+<!ENTITY senderField4.label "pošiljatelj">
+<!ENTITY organizationField4.label "organizacija">
+<!ENTITY replyToField4.label "odgovor-za">
 
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY toField3.label "za ">
-<!ENTITY fromField3.label "od ">
-<!ENTITY senderField3.label "pošiljatelj ">
-<!ENTITY organizationField3.label "organizacija ">
-<!ENTITY replyToField3.label "odgovor-za ">
-
-<!ENTITY subjectField3.label "zadeva ">
-<!ENTITY ccField3.label "kp ">
-<!ENTITY bccField3.label "skp">
-<!ENTITY newsgroupsField3.label "novičarske skupine ">
-<!ENTITY followupToField3.label "nadaljnje delo-za ">
-<!ENTITY tagsHdr3.label "oznake ">
-<!ENTITY dateField3.label "datumu ">
-<!ENTITY userAgentField3.label "uporabnik-agent ">
-<!ENTITY referencesField3.label "sklici ">
-<!ENTITY messageIdField3.label "id sporočila ">
-<!ENTITY inReplyToField3.label "v-odgovoru-na- ">
-<!ENTITY originalWebsite3.label "spletna stran ">
+<!ENTITY subjectField4.label "zadeva">
+<!ENTITY ccField4.label "kp">
+<!ENTITY bccField4.label "skp">
+<!ENTITY newsgroupsField4.label "novičarske skupine">
+<!ENTITY followupToField4.label "nadaljnje delo-za">
+<!ENTITY tagsHdr4.label "oznake">
+<!ENTITY dateField4.label "datumu">
+<!ENTITY userAgentField4.label "uporabnik-agent">
+<!ENTITY referencesField4.label "sklici">
+<!ENTITY messageIdField4.label "id sporočila">
+<!ENTITY inReplyToField4.label "v odgovoru na">
+<!ENTITY originalWebsite4.label "spletna stran">
 
 <!ENTITY editMessageDescription.label "To je osnutek sporočila">
 <!ENTITY editMessageButton.label "Urejaj …">
@@ -60,13 +27,14 @@
 <!ENTITY hdrArchiveButton1.tooltip "arhiviraj to sporočilo">
 <!ENTITY hdrSmartReplyButton1.label "pameten odgovor">
 <!ENTITY hdrReplyButton1.label "odgovori">
-<!ENTITY hdrReplyButton1.tooltip "odgovori na to sporočilo">
+<!ENTITY hdrReplyButton2.tooltip "odgovori pošiljatelju">
 <!ENTITY hdrReplyAllButton1.label "odgovori vsem">
 <!ENTITY hdrReplyAllButton1.tooltip "odgovori pošiljatelju in vsem prejemnikom">
- <!ENTITY hdrReplyListButton1.label "odgovori po seznamu">
+<!ENTITY hdrReplyListButton1.label "odgovori po seznamu">
 <!ENTITY hdrReplyListButton1.tooltip "odgovori po poštnem seznamu">
 <!ENTITY hdrFollowupButton1.label "nadaljnje delo">
 <!ENTITY hdrFollowupButton1.tooltip "objavi nadaljnje delo v tej skupini">
+<!ENTITY hdrMenuForwardButton.label "posreduj kot">
 <!ENTITY hdrForwardButton1.label "posreduj">
 <!ENTITY hdrForwardButton1.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton1.label "neželeno">
@@ -100,6 +68,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "i">
 <!ENTITY otherActionsPrint1.label "natisni …">
 <!ENTITY otherActionsPrint1.accesskey "T">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Na začetku prikaži pano s prilogami">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Odpri">

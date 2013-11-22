@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Skrči">
 <!ENTITY bringAllToFront.label "Vse v ospredje">
@@ -15,8 +19,15 @@
 <!ENTITY productHelp.label        "Pomoč za &brandShortName;">
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Bližnjice tipk">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "Ponovno zaženi z onemogočenimi dodatki …">
 <!ENTITY helpSafeMode.accesskey   "z">
+
+<!ENTITY healthReport.label       "Zdravniško spričevalo za &brandShortName;">
+<!ENTITY healthReport.accesskey   "d">
 
 <!ENTITY helpTroubleshootingInfo.label      "Reševanje težav …">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

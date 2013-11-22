@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY playButton.playLabel "Predvajaj">
 <!ENTITY playButton.pauseLabel "Ustavi">
 <!ENTITY muteButton.muteLabel "Nemo">
@@ -13,8 +17,6 @@
 <!ENTITY stats.activityEnded "Končano">
 <!ENTITY stats.activitySeeking "(iskanje)">
 <!ENTITY stats.volume "Glasnost">
-<!ENTITY stats.channels "Kanali">
-<!ENTITY stats.sampleRate "Frekvenca vzorčenja">
 <!ENTITY stats.framesParsed "Razčlenjeni okvirji">
 <!ENTITY stats.framesDecoded "Dekodirani okvirji">
 <!ENTITY stats.framesPresented "Predstavljeni okvirji">

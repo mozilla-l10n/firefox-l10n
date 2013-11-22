@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
 
 <!ENTITY search.placeholder                   "Išči po vseh dodatkih">
@@ -29,8 +33,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vstavki posodobljeni">
-<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vstavki posodobljeni">
+<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vtičniki posodobljeni">
+<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vtičniki posodobljeni">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
@@ -87,6 +91,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "t">
 <!ENTITY cmd.disableTheme.label               "Sleci temo">
 <!ENTITY cmd.disableTheme.accesskey           "t">
+<!ENTITY cmd.askToActivate.label              "Vprašaj pred uporabo">
+<!ENTITY cmd.askToActivate.tooltip            "Pred vsako uporabo vprašaj za dovoljenje">
+<!ENTITY cmd.alwaysActivate.label             "Vedno omogoči">
+<!ENTITY cmd.alwaysActivate.tooltip           "Vedno uporabljaj ta dodatek">
+<!ENTITY cmd.neverActivate.label              "Nikoli ne omogočaj">
+<!ENTITY cmd.neverActivate.tooltip            "Nikoli ne uporabljaj tega dodatka">
+<!ENTITY cmd.stateMenu.tooltip                "Spremeni med uporabo dodatka">
 <!ENTITY cmd.installAddon.label               "Namesti">
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Odstrani">

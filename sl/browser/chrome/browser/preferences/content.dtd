@@ -1,21 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY blockPopups.label "Prepovej neželena okna">
 <!ENTITY blockPopups.accesskey "r">
 <!ENTITY popupExceptions.label "Izjeme ...">
 <!ENTITY popupExceptions.accesskey "I">
-
-<!ENTITY loadImages.label "Samodejno nalagaj slike">
-<!ENTITY loadImages.accesskey "S">
-<!ENTITY exceptions.label "Izjeme ...">
-<!ENTITY exceptions.accesskey "z">
-
-<!ENTITY enableJavaScript.label "Omogoči JavaScript">
-<!ENTITY enableJavaScript.accesskey "t">
-<!ENTITY advancedJS.label "Napredno ...">
-<!ENTITY advancedJS.accesskey "n">
-
-<!ENTITY enableJava.label "Omogoči Javo">
-<!ENTITY enableJava.accesskey "j">
-
 
 <!ENTITY fontsAndColors.label "Pisave in barve">
 

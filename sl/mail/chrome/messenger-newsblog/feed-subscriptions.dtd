@@ -1,32 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Naročnine na spletne vire">
 <!ENTITY subscriptionDesc.label      "Opomba: če mapo za spletne vire odstranite ali spremenite, to na že prenesene članke ne bo imelo nobenega vpliva.">
 
 <!ENTITY feedTitle.label             "Naslov:">
-<!ENTITY feedTitle.accesskey         "A">
+<!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL za vir:">
-<!ENTITY feedLocation.accesskey      "V">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Vnesite veljaven URL za vir">
 
 <!ENTITY feedFolder.label            "Shrani članke v:">
 <!ENTITY feedFolder.accesskey        "S">
 
 <!ENTITY quickMode.label             "Pokaži povzetek članka in ne nalagaj spletne strani">
-<!ENTITY quickMode.accesskey         "K">
+<!ENTITY quickMode.accesskey         "H">
 
-<!ENTITY locationValidate.label      "Validacija">
-<!ENTITY validateText.label          "Preveri validacijo in uporabi veljaven url.">
+<!ENTITY locationValidate.label      "Validiraj">
+<!ENTITY validateText.label          "Preveri validacijo in priskrbi veljaven url.">
 
 <!ENTITY button.addFeed.label        "Dodaj">
-<!ENTITY button.addFeed.accesskey    "D">
+<!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.editFeed.label       "Posodobitev">
-<!ENTITY button.editFeed.accesskey   "P">
+<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Odstrani">
-<!ENTITY button.removeFeed.accesskey "O">
+<!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Uvozi">
-<!ENTITY button.importOPML.accesskey "U">
+<!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Izvozi">
-<!ENTITY button.exportOPML.accesskey "I">
+<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.tooltip   "Izvozi vire s strukturo; ctrl klik ali ctrl enter za izvoz virov kot seznam">
 
 <!ENTITY cmd.close.commandKey        "w">

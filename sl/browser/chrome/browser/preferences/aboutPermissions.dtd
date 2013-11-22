@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "Upravitelj dovoljenj">
 
 <!ENTITY sites.search                    "Išči po straneh">
@@ -16,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Vedno vprašaj">
 <!ENTITY permission.allow                "Dovoli">
 <!ENTITY permission.allowForSession      "Dovoli za sejo">
+<!ENTITY permission.allowFirstPartyOnly  "Dovoli samo lastne">
 <!ENTITY permission.block                "Zavrni">
 
 <!ENTITY password.label                  "Shranjevanje gesel">
@@ -28,8 +33,13 @@
 
 <!ENTITY geo.label                       "Objava položaja">
 
+<!ENTITY plugins.label                   "Vtičniki">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Shramba za delo brez povezave">
 
 <!ENTITY popup.label                     "Odpiranje neželenih oken">
+
+<!ENTITY fullscreen.label                "Celoten zaslon">
+
