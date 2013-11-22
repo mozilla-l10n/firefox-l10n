@@ -41,7 +41,7 @@
 <!ENTITY showCondensedAddresses.label  "주소록에서 사람에 대한 표시명만 보이기">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "메시지를 자동으로 읽은 것으로 표시">
+<!ENTITY autoMarkAsRead.label          "읽은 메시지로 자동 표시">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "출력 후 즉시">
 <!ENTITY markAsReadNoDelay.accesskey   "o">

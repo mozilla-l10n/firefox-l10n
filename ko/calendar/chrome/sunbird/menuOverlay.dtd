@@ -81,7 +81,7 @@
 <!ENTITY goMenu.label                                      "이동">
 <!ENTITY goMenu.accesskey                                  "G">
 
-<!ENTITY goDateCmd.label                                   "날자…">
+<!ENTITY goDateCmd.label                                   "날짜…">
 <!ENTITY goDateCmd.accesskey                               "D">
 
 <!ENTITY toolsMenu.label                                   "도구">

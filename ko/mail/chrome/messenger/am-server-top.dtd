@@ -52,14 +52,14 @@
 <!ENTITY alwaysAuthenticate.label "서버에 접속할 때 항상 인증 요청">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 파일:">
-<!ENTITY localPath.label "로컬 디렉토리:">
+<!ENTITY localPath.label "로컬 디렉터리:">
 <!ENTITY abbreviate.label "메일 폴더에 뉴스 그룹 이름 보이기:">
 <!ENTITY abbreviateOn.label "뉴스 그룹 이름 (예: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "약어 이름 (예: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "고급…">
 <!ENTITY serverDefaultCharset.label "기본 문자 인코딩:">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localFolderPicker.label "로컬 디렉토리 위치">
+<!ENTITY localFolderPicker.label "로컬 디렉터리 위치">
 <!ENTITY browseFolder.label "찾아보기…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "newsrc 파일 위치">
