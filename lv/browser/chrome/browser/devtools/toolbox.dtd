@@ -2,8 +2,97 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "Izstrādātāju rīki">
-
 <!ENTITY closeCmd.key  "W">
-
 <!ENTITY toolboxCloseButton.tooltip  "Aizvērt izstrādātāju rīkus">
+<!ENTITY toolboxOptionsButton.key      "V">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+<!ENTITY options.context.advancedSettings "Papildu iestatījumi">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
+
+
+<!ENTITY options.context.triggersPageRefresh2  "Tikai šo sesiju, pārlādē lapu">
+
+<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
+  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label3    "Aktivēt chrome atkļūdošanu">
+<!ENTITY options.enableChrome.tooltip  "Ieslēdzot šo iespēju, jūs varēsiet izmantot izstrādātāju rīkus pārlūka kontekstā">
+
+<!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Aktivēt attālināto atkļūdošanu">
+<!ENTITY options.enableRemote.tooltip  "Ieslēdzot šo iespēju, jūs varēsiet izmantot izstrādātāju rīkus attālinātai Firefox instancei, piemēram Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tools. -->
+<!ENTITY options.selectDefaultTools.label     "Noklusētie izstrādātāju rīki">
+
+<!ENTITY options.toolNotSupported.label  "* Netiek atbalstīts konkrētajam rīkam">
+<!ENTITY options.webconsole.label            "Tīmekļa konsole">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the developer tools
+  -  added by add-ons. This heading is hidden when there is no developer tool
+  -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "Papildinājumu instalētie izstrādātāju rīki">
+
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+  -  the heading of the radiobox corresponding to the theme of the developer
+  -  tools. -->
+<!ENTITY options.selectDevToolsTheme.label   "Izvēlieties izstrādātāju rīku izskatu:">
+<!ENTITY options.darkTheme.label             "Tumšais izskats">
+<!ENTITY options.lightTheme.label            "Gaišais izskats">
+
+<!ENTITY options.disableJavaScript.label2    "Deaktivēt JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "Šī iestatījuma ieslēgšana deaktivēs JavaScript aktīvajā cilnē. Aizverot cilni vai rīku joslu šis iestatījums netiks saglabāts.">
+
+<!ENTITY options.enablePersistentLogging.label    "Aktivēt pastāvīgos paziņojumus">
+<!ENTITY options.enablePersistentLogging.tooltip  "Ja aktivēsiet šo iestatījumu Tīmekļa konsole neiztīrīs savu saturu katru reizi atverot jaunu lapu">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "JavaScript profilators">
+<!ENTITY options.context.inspector "Pārraugs">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Rādīt Gecko platformas datus">
+<!ENTITY options.showPlatformData.tooltip  "Ja aktivizēsiet šo iespēju, JavaScript profilatora ziņojumos būs iekļauti arī Gecko platformas simboli">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Noklusētā krāsu vienība">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "U">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "Hex">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+<!ENTITY options.defaultColorUnit.name "Krāsu nosaukumi">
+

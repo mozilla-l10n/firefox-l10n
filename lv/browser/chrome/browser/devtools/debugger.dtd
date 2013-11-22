@@ -11,28 +11,10 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
-  -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label2          "Skriptu atkļūdotājs">
-<!ENTITY debuggerMenu.accesskey         "D">
-
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label    "Pārlūka atkļūdotājs">
-
-<!ENTITY remoteDebuggerMenu.label    "Attālinātais atkļūdotājs">
-
-<!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
-  -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey     "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip      "Aizvērt">
-
-<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
-  -  appears in the filter panel popup as a description. -->
-<!ENTITY debuggerUI.searchPanelTitle    "Darbības">
 
 <!ENTITY debuggerUI.condBreakPanelTitle "Šis pārtraukuma punkts apturēs izpildi, tikai, ja šī izteiksme būs patiesa">
 <!ENTITY debuggerUI.optsButton.tooltip  "Atkļūdotāja iestatījumi">
@@ -67,16 +49,41 @@
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile          "Filtrēt skriptus">
 <!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
+
+<!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
+   -  the checkbox that toggles the display of original or sourcemap-derived
+   -  sources. -->
+<!ENTITY debuggerUI.showOriginalSource      "Rādīt sākotnējo pirmkodu">
+<!ENTITY debuggerUI.showOriginalSource.key  "O">
+
+<!ENTITY debuggerUI.blackBoxMessage.label "Šis kods ir melnajā kastē: tā pārtraukuma punkti ir deaktivēti un rindiņu izpilde pa solim iet šim pāri.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Pārstāt šo kodu uzskatīt par melno kasti">
+<!ENTITY debuggerUI.searchGoToLine      "Iet uz rindiņu…">
+<!ENTITY debuggerUI.searchGoToLine.key  "l">
+
+<!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
+  -  in the source editor's context menu for the function search operation. -->
+<!ENTITY debuggerUI.searchFunction      "Meklēt funkcijas definīciju">
+<!ENTITY debuggerUI.searchFunction.key  "D">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal        "Meklēt starp visiem failiem">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
-  -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchLine          "Pārlēkt uz rindiņu...">
-<!ENTITY debuggerUI.searchLine.key      "J">
+<!ENTITY debuggerUI.searchPanelOperators    "Darbības:">
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
+  -  for the button that black boxes the selected source. -->
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Pārslēgt melnās kastes režīmu">
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
+  -  button that pretty prints the selected source. -->
+<!ENTITY debuggerUI.sources.prettyPrint "Uzskaistināt kodu">
+
+<!ENTITY debuggerUI.tabs.variables      "Mainīgie">
+<!ENTITY debuggerUI.tabs.events         "Notikumi">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -100,11 +107,22 @@
 <!ENTITY debuggerUI.showVarsFilter      "Rādīt mainīgo filtrēšanas kasti">
 <!ENTITY debuggerUI.showVarsFilter.key  "f">
 
-<!ENTITY debuggerUI.stepping.resume     "VK_F6">
-<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
-<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
-<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
+<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
+<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
+<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
 
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorēt noķertos izņēmumus">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "r">
+
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokusēt mainīgo koku">
+<!ENTITY debuggerUI.focusVariables.key  "m">
 
 
 
