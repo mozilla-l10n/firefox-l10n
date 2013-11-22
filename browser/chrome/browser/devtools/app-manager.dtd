@@ -72,7 +72,7 @@
 <!ENTITY projects.debugApp "디버그">
 <!ENTITY projects.debugAppTooltip "이 앱과 연결한 개발자 도구 열기">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProjects "프로젝트가 없습니다. 아래에서 새로운 패키지형 앱(디렉토리)나 호스트형 앱(매니페스트 파일 링크)를 추가하십시오.">
+<!ENTITY projects.noProjects "프로젝트가 없습니다. 아래에서 새로운 패키지형 앱(디렉터리)나 호스트형 앱(매니페스트 파일 링크)를 추가하십시오.">
 
 <!ENTITY help.title "앱 관리자">
 <!ENTITY help.close "닫기">

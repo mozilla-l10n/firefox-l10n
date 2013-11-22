@@ -1,5 +1,5 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; 시작 페이지">
-<!ENTITY enableStartPage.label            "프로그램 시작시 메시지창에 시작 페이지 출력">
+<!ENTITY enableStartPage.label            "프로그램 시작시 메시지 창에 시작 페이지 출력">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "주소:">
 <!ENTITY location1.accesskey              "o">

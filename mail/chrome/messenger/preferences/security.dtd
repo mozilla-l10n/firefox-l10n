@@ -48,8 +48,8 @@
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;는 블로그, 뉴스 피드, 웹 사이트의 쿠키 허용여부를 지정할 수 있습니다.">
-<!ENTITY acceptCookies.label            "사이트의 쿠기 허가">
+<!ENTITY cookies.intro                  "&brandShortName;는 블로그, 뉴스 피드, 웹 사이트의 쿠키 허용 여부를 지정할 수 있습니다.">
+<!ENTITY acceptCookies.label            "사이트의 쿠키 허용">
 <!ENTITY acceptCookies.accesskey        "c">
 <!ENTITY keepUntil.label                "유지:">
 <!ENTITY keepUntil.accesskey            "K">
