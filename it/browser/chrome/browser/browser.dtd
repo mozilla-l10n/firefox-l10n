@@ -251,7 +251,11 @@
 <!ENTITY appMenuHistory.restoreSession.label "Ripristina la sessione precedente">
 <!ENTITY customizeMenu.addToToolbar.label "Aggiungi alla barra degli strumenti">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.removeFromMenu.label "Elimina dal menu">
+<!ENTITY customizeMenu.addToPanel.label "Aggiungi al menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Rimuovi dalla barra degli strumenti">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
+<!ENTITY customizeMenu.removeFromMenu.label "Rimuovi dal menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Aggiungi altri elementi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
