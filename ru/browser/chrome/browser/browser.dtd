@@ -251,6 +251,10 @@
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
+<!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
+<!ENTITY customizeMenu.addToPanel.accesskey "а">
+<!ENTITY customizeMenu.removeFromToolbar.label "Удалить с панели инструментов">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "и">
 <!ENTITY customizeMenu.removeFromMenu.label "Удалить из меню">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "и">
 <!ENTITY customizeMenu.addMoreItems.label "Добавить элементы…">
