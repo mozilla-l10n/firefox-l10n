@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Vizitku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY remindLater.label "Pripomenúť neskôr">
+<!ENTITY remindLater.accesskey "m">
 <!ENTITY closeCmd.label "Zavrieť okno">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
