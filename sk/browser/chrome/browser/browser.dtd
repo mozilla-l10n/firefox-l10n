@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
+<!ENTITY appmenu.title                       "Prispôsobenie a ovládanie prehlaidača &brandFullName;">
+<!ENTITY navbarOverflow.label                "Ďalšie nástroje…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Obnoviť kartu">
@@ -78,15 +80,13 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY menubarCmd.label "Hlavná ponuka">
 <!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Navigačný panel">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
-<!ENTITY addonBarCmd.label "Panel doplnkov">
-<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -162,31 +162,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label              "Tlačiť">
 <!ENTITY printButton.tooltip            "Umožní vytlačiť túto stránku">
 
-<!ENTITY backForwardItem.title          "Naspäť/Dopredu">
 <!ENTITY locationItem.title             "Panel s adresou">
 <!ENTITY searchItem.title               "Vyhľadávanie">
-<!ENTITY throbberItem.title             "Indikátor aktivity">
-<!ENTITY bookmarksItem.title            "Záložky">
 
 <!-- Toolbar items -->
-<!ENTITY appMenuButton.label          "Ponuka">
-<!ENTITY appMenuButton.tooltip        "Ponuka prehliadača &brandShortName;">
 <!ENTITY homeButton.label             "Domov">
 
 <!ENTITY tabGroupsButton.label        "Skupiny kariet">
 <!ENTITY tabGroupsButton.tooltip      "Zoskupte si svoje karty">
 
-<!ENTITY feedButton.label             "Odber">
-<!ENTITY feedButton.tooltip           "Prihlásiť sa k odberu kanála tejto stránky…">
-
 <!ENTITY bookmarksButton.label          "Záložky">
-<!ENTITY bookmarksButton.tooltip        "Zobraziť záložky">
+
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
 <!ENTITY bookmarksMenuButton.tooltip        "Zobraziť záložky">
 <!ENTITY bookmarksMenuButton.unsorted.label "Nezaradené záložky">
-<!ENTITY viewBookmarksSidebar.label         "Zobraziť v bočnom paneli">
+<!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -196,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label           "História">
-<!ENTITY historyButton.tooltip         "Zobraziť naposledy prezerané stránky">
 <!ENTITY historySidebarCmd.commandKey  "h">
 
 <!ENTITY toolsMenu.label               "Nástroje">
@@ -232,6 +223,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "h">
 
+<!ENTITY inspectContextMenu.label     "Preskúmať prvok">
+<!ENTITY inspectContextMenu.accesskey "m">
+
+<!ENTITY responsiveDesignTool.label   "Režim Responsive Design">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -252,12 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY chromeDebuggerMenu.label       "Ladenie prehliadača">
 <!ENTITY chromeDebuggerMenu.accesskey   "L">
 
-<!ENTITY inspectContextMenu.label     "Preskúmať prvok">
-<!ENTITY inspectContextMenu.accesskey "m">
-
-<!ENTITY responsiveDesignTool.label   "Režim Responsive Design">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavrieť panel nástrojov Vývojár">
 <!ENTITY devToolbarMenu.label "Panel nástrojov Vývojár">
@@ -327,8 +320,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label "Prispôsobiť…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
-<!ENTITY viewTabsOnTop.label            "Karty navrchu">
-<!ENTITY viewTabsOnTop.accesskey        "K">
 
 <!ENTITY historyMenu.label "História">
 <!ENTITY historyMenu.accesskey "H">
@@ -340,21 +331,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Úpravy">
 <!ENTITY appMenuCustomize.label "Prispôsobiť">
-<!ENTITY appMenuToolbarLayout.label "Rozloženie panela nástrojov…">
-<!ENTITY appMenuSidebars.label "Bočné panely">
-<!ENTITY appMenuFind.label "Hľadať…">
-<!ENTITY appMenuUnsorted.label "Nezaradené záložky">
-<!ENTITY appMenuWebDeveloper.label "Webový vývojár">
-<!ENTITY appMenuGettingStarted.label "Začíname">
-<!ENTITY appMenuSafeMode.label "Reštartovať a zakázať doplnky…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuHistory.label "História">
+<!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
+<!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
+<!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
+
+<!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
+<!ENTITY customizeMenu.addToToolbar.accesskey "s">
+<!ENTITY customizeMenu.addToPanel.label "Pridať do ponuky">
+<!ENTITY customizeMenu.addToPanel.accesskey "n">
+<!ENTITY customizeMenu.removeFromToolbar.label "Odstrániť z panela nástrojov">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "O">
+<!ENTITY customizeMenu.removeFromMenu.label "Odstrániť z ponuky">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "d">
+<!ENTITY customizeMenu.addMoreItems.label "Pridať ďalšie položky…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "P">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
+
+<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
+     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
+     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -553,15 +556,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
 
-<!ENTITY cutButton.tooltip              "Vystrihnúť">
-<!ENTITY copyButton.tooltip             "Kopírovať">
-<!ENTITY pasteButton.tooltip            "Prilepiť">
-
 <!ENTITY fullScreenButton.tooltip       "Zobrazí stránku na celú obrazovku">
-
-<!ENTITY zoomOutButton.tooltip          "Vzdialiť">
-<!ENTITY zoomInButton.tooltip           "Priblížiť">
-<!ENTITY zoomControls.label             "Lupa">
 
 <!ENTITY quitApplicationCmdWin.label    "Skončiť">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
@@ -655,9 +650,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncToolbarButton.label      "Synchronizácia">
 
-<!ENTITY addonBarCloseButton.tooltip  "Zavrieť panel doplnkov">
-<!ENTITY toggleAddonBarCmd.key        "/">
-
 <!ENTITY socialToolbar.title        "Tlačidlo Sociálne siete">
 <!ENTITY social.notLoggedIn.label   "Neprihlásený">
 
@@ -678,6 +670,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Ďalšie informácie…">
 <!ENTITY social.learnMore.accesskey "a">
 <!ENTITY social.closeNotificationItem.label "Teraz nie">
+
+
+
+<!ENTITY customizeMode.tabTitle "Prispôsobenie &brandShortName;u">
+<!ENTITY customizeMode.menuAndToolbars.label "Ponuka a paneli s nástrojmi">
+<!ENTITY customizeMode.menuAndToolbars.header "Ďalšie nástroje, ktoré si môžete pridať na panel nástrojov alebo do ponuky">
+<!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">
@@ -720,3 +719,43 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Tak toto je nepríjemné. Pokúsili sme sa zobraziť túto webovú stránku, ale bohužial stránka neodpovedá.">
 <!ENTITY tabCrashed.checkSendReport "Oznámiť spoločnosti &vendorShortName; toto zlyhanie, aby ho bolo možné opraviť.">
 <!ENTITY tabCrashed.tryAgain "Skúsiť znova">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "Panel doplnkov">
+<!ENTITY addonBarCmd.accesskey         "d">
+<!ENTITY throbberItem.title            "Indikátor aktivity">
+<!ENTITY appMenuButton.label           "Ponuka">
+<!ENTITY appMenuButton.tooltip         "Ponuka prehliadača &brandShortName;">
+<!ENTITY feedButton.label              "Odber">
+<!ENTITY feedButton.tooltip            "Prihlásiť sa k odberu kanála tejto stránky…">
+<!ENTITY bookmarksButton.tooltip       "Zobraziť záložky">
+<!ENTITY historyButton.tooltip         "Zobraziť naposledy prezerané stránkyy">
+<!ENTITY viewTabsOnTop.label           "Karty navrchu">
+<!ENTITY viewTabsOnTop.accesskey       "K">
+<!ENTITY appMenuEdit.label             "Úpravy">
+<!ENTITY appMenuToolbarLayout.label    "Rozloženie panela nástrojov…">
+<!ENTITY appMenuSidebars.label         "Bočné panely">
+<!ENTITY appMenuFind.label             "Hľadať…">
+<!ENTITY appMenuUnsorted.label         "Nezaradené záložky">
+<!ENTITY appMenuWebDeveloper.label     "Webový vývojár">
+<!ENTITY appMenuGettingStarted.label   "Začíname">
+<!ENTITY appMenuSafeMode.label         "Reštartovať a zakázať doplnky…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY cutButton.tooltip             "Vystrihnúť">
+<!ENTITY copyButton.tooltip            "Kopírovať">
+<!ENTITY pasteButton.tooltip           "Prilepiť">
+<!ENTITY zoomOutButton.tooltip         "Vzdialiť">
+<!ENTITY zoomInButton.tooltip          "Priblížiť">
+<!ENTITY zoomControls.label            "Lupa">
+<!ENTITY addonBarCloseButton.tooltip   "Zavrieť panel doplnkov">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Naspäť/Dopredu">
+<!ENTITY viewBookmarksSidebar.label    "Zobraziť v bočnom paneli">
+<!ENTITY bookmarksItem.title           "Záložky">
+<!-- end of strings to be removed post-Australis -->
+
