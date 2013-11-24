@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Kontrola pravopisu">
 <!ENTITY  event.toolbar.privacy.label                     "Súkromie">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Uložiť a zavrieť">
+<!ENTITY  event.toolbar.delete.tooltip                    "Odstrániť">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Pozvať účastníkov">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Kontrola pravopisu">
+<!ENTITY  event.toolbar.attachments.tooltip               "Pridať prílohy">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Zmeniť súkromie">
+<!ENTITY  event.toolbar.priority.tooltip                  "Zmeniť prioritu">
+<!ENTITY  event.toolbar.status.tooltip                    "Zmeniť stav">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Zmeniť čas zaneprázdnený/dostupný">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Názov:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
@@ -212,6 +222,9 @@
 
 <!ENTITY event.reminder.multiple.label                    "Viacnásobné pripomienky…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Čas ako:">
+<!ENTITY event.statusbarpanel.privacy.label               "Súkromie:">
+    
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Úprava opakovaní">
 
