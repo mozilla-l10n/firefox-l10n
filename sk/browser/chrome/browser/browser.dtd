@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip             "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label              "Tlačiť">
-<!ENTITY printButton.tooltip            "Tlačiť túto stránku">
+<!ENTITY printButton.tooltip            "Umožní vytlačiť túto stránku">
 
 <!ENTITY backForwardItem.title          "Naspäť/Dopredu">
 <!ENTITY locationItem.title             "Panel s adresou">
@@ -341,7 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Úpravy">
-<!ENTITY appMenuCustomize.label "Prispôsobenie">
+<!ENTITY appMenuCustomize.label "Prispôsobiť">
 <!ENTITY appMenuToolbarLayout.label "Rozloženie panela nástrojov…">
 <!ENTITY appMenuSidebars.label "Bočné panely">
 <!ENTITY appMenuFind.label "Hľadať…">
@@ -549,26 +549,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
-<!ENTITY newTabButton.tooltip           "Otvoriť novú kartu">
-<!ENTITY newWindowButton.tooltip        "Otvoriť nové okno">
+<!ENTITY newTabButton.tooltip           "Otvorí novú kartu">
+<!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
 
 <!ENTITY cutButton.tooltip              "Vystrihnúť">
 <!ENTITY copyButton.tooltip             "Kopírovať">
 <!ENTITY pasteButton.tooltip            "Prilepiť">
 
-<!ENTITY fullScreenButton.tooltip       "Zobraziť okno na celú obrazovku">
+<!ENTITY fullScreenButton.tooltip       "Zobrazí stránku na celú obrazovku">
 
 <!ENTITY zoomOutButton.tooltip          "Vzdialiť">
 <!ENTITY zoomInButton.tooltip           "Priblížiť">
 <!ENTITY zoomControls.label             "Lupa">
 
-<!ENTITY quitApplicationCmdWin.label    "Koniec">
-<!ENTITY quitApplicationCmdWin.accesskey "K">
+<!ENTITY quitApplicationCmdWin.label    "Skončiť">
+<!ENTITY quitApplicationCmdWin.accesskey "k">
 <!ENTITY goBackCmd.commandKey          "[">
 <!ENTITY goForwardCmd.commandKey       "]">
-<!ENTITY quitApplicationCmd.label      "Koniec">
-<!ENTITY quitApplicationCmd.accesskey  "K">
+<!ENTITY quitApplicationCmd.label      "Skončiť">
+<!ENTITY quitApplicationCmd.accesskey  "k">
 <!ENTITY quitApplicationCmdMac.label    "Ukončiť &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
