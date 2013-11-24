@@ -72,6 +72,8 @@
 <!ENTITY projects.updateAppTooltip "Vykoná kontrolu a aktualizáciu aplikácie na pripojenom zariadení">
 <!ENTITY projects.debugApp "Ladenie">
 <!ENTITY projects.debugAppTooltip "Otvorí Vývojárske aplikácie pripojené k tejto aplikácii">
+<!ENTITY projects.saveManifest "Uložiť">
+<!ENTITY projects.saveManifestTooltip "Uloží obsah Editora manifestu">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://priklad.sk/aplikacia/manifest.webapp">
 <!ENTITY projects.noProjects "Zatiaľ žiadne proejkty. Pridajte svoju prvú zbalenú aplikáciu (lokálny priečinok) alebo hostovanú aplikáciu (odkaz na súbor manifestu).">
 <!ENTITY projects.manifestEditor "Editor manifestu">
