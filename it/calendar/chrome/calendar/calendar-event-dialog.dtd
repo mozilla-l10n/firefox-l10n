@@ -130,6 +130,15 @@
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
 <!ENTITY event.toolbar.spellcheck.label "Correttore ortografico">
 <!ENTITY event.toolbar.privacy.label "Privacy">
+<!ENTITY event.toolbar.save.tooltip "Salva ed esci">
+<!ENTITY event.toolbar.delete.tooltip "Elimina">
+<!ENTITY event.toolbar.attendees.tooltip "Invita partecipanti">
+<!ENTITY event.toolbar.spellcheck.tooltip "Correttore ortografico">
+<!ENTITY event.toolbar.attachments.tooltip "Aggiungi allegati">
+<!ENTITY event.toolbar.privacy.tooltip "Cambia privacy">
+<!ENTITY event.toolbar.priority.tooltip "Cambia priorità">
+<!ENTITY event.toolbar.status.tooltip "Cambia stato">
+<!ENTITY event.toolbar.freebusy.tooltip "Cambia tempo libero/occupato">
 <!ENTITY event.title.textbox.label "Titolo:">
 <!ENTITY event.title.textbox.accesskey "T">
 <!ENTITY event.location.label "Luogo:">
@@ -191,6 +200,8 @@
 <!ENTITY event.reminder.1week.before.label "1 settimana prima">
 <!ENTITY event.reminder.custom.label "Personalizzato…">
 <!ENTITY event.reminder.multiple.label "Promemoria multipli…">
+<!ENTITY event.statusbarpanel.freebusy.label "Tempo come:">
+<!ENTITY event.statusbarpanel.privacy.label "Privacy:">
 <!ENTITY recurrence.title.label "Modifica ricorrenza">
 <!ENTITY event.repeat.does.not.repeat.label "Nessuna ricorrenza">
 <!ENTITY event.repeat.daily.label "Giornaliera">
