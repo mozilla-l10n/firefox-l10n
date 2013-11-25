@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "i-brandShortName; iNgxelo">
+<!ENTITY pageTitle                 "&brandShortName; Ingxelo">
 
 <!ENTITY intro.header              "Unawo umzuzu?">
 <!ENTITY intro.message             "Sixelele okucingayo nge-&brandShortName; kwi-Android ukuza kuthi ga ngoku.">
@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
 <!ENTITY support.pre2              "Kwakhona ungatyelela ">
-<!ENTITY support.link              "i-brandShortName; iNkxaso">
+<!ENTITY support.link              "&brandShortName; Inkxaso">
 <!ENTITY support.post2             " ukuze ufumane inkcazelo engakumbi.">
 
 <!ENTITY happy.header              "Kuhle ukuva ngoko!">
