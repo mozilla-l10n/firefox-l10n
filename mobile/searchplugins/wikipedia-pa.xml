@@ -11,9 +11,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://pa.wikipedia.org/wiki/Special:Search">
+<Url type="text/html" method="GET" template="http://pa.wikipedia.org/wiki/ਖ਼ਾਸ:ਖੋਜੋ">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://pa.wikipedia.org/wiki/Special:Search</SearchForm>
+<SearchForm>http://pa.wikipedia.org/wiki/ਖ਼ਾਸ:ਖੋਜੋ</SearchForm>
 </SearchPlugin>
