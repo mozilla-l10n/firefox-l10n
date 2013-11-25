@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey     "O ">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ni še nobenega uporabniškega računa">
-<!ENTITY accountManager.noAccount.description "Kliknite na gumb accountManager.newAccount.label;, da vam &brandShortName; pomaga odpreti račun.">
+<!ENTITY accountManager.noAccount.description "Kliknite na gumb &accountManager.newAccount.label;, da vam &brandShortName; pomaga odpreti račun.">
 <!ENTITY account.autoSignOn.label     "Prijava ob zagonu">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Poveži">
