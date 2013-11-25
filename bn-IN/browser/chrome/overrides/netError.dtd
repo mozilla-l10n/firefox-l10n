@@ -17,13 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>ঠিকানা টাইপ করার সময় হওয়া ভুলত্রুটি পরীক্ষা করুন যেমন 
-<strong>www</strong>.example.com-র পরিবর্তে 
-<strong>ww</strong>.example.com</li> 
-<li>একটিও পেজ লোড করা সম্ভব না হলে কম্পিউটারের সাথে নেটওয়ার্কের সংযোগ পরীক্ষা করুন।</li> 
-<li>আপনার কম্পিউটার যদি কোনো ফায়ারওয়াল অথবা প্রক্সির আড়ালে স্থাপিত হয় তাহলে &brandShortName;-কে ওয়েবে সংযোগ করার অনুমতি প্রদান করুন।</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>ঠিকানা টাইপ করার সময় হওয়া ভুলত্রুটি পরীক্ষা করুন যেমন<strong>www</strong>.example.com-র পরিবর্তে<strong>ww</strong>.example.com</li> <li>একটিও পেজ লোড করা সম্ভব না হলে কম্পিউটারের সাথে নেটওয়ার্কের সংযোগ পরীক্ষা করুন।</li><li>আপনার কম্পিউটার যদি কোনো ফায়ারওয়াল অথবা প্রক্সির আড়ালে স্থাপিত হয় তাহলে &brandShortName;-কে ওয়েবে সংযোগ করার অনুমতি প্রদান করুন।</li> </ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -76,22 +70,14 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "প্রক্সি সার্ভার সংযোগ প্রত্যাখ্যান করছে">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>প্রক্সি সংক্রান্ত বৈশিষ্ট্য সঠিকরূপে স্থাপিত হয়েছে কিনা তা পরীক্ষা করুন।</li> 
-<li>আপনার দ্বারা ব্যবহৃত প্রক্সি সার্ভার সঠিকরূপে চলছে কিনা জানতে নেটওয়ার্ক অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।</li> 
+<!ENTITY proxyConnectFailure.longDesc "<ul><li>প্রক্সি সংক্রান্ত বৈশিষ্ট্য সঠিকরূপে স্থাপিত হয়েছে কিনা তা পরীক্ষা করুন।</li><li>আপনার দ্বারা ব্যবহৃত প্রক্সি সার্ভার সঠিকরূপে চলছে কিনা জানতে নেটওয়ার্ক অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>প্রক্সি সংক্রান্ত বৈশিষ্ট্য সঠিকরূপে স্থাপিত হয়েছে কিনা তা পরীক্ষা করুন।</li> 
-<li>পরীক্ষা করুন আপনার কম্পিউটারের সাথে সঠিকরূপে নেটওয়ার্কের সংযোগ স্থাপিত রয়েছে কিনা।</li> 
-<li>আপনার কম্পিউটার যদি কোনো ফায়ারওয়াল অথবা প্রক্সির আড়ালে স্থাপিত হয় তাহলে &brandShortName;-কে ওয়েবে সংযোগ করার অনুমতি প্রদান করুন।</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>প্রক্সি সংক্রান্ত বৈশিষ্ট্য সঠিকরূপে স্থাপিত হয়েছে কিনা তা পরীক্ষা করুন।</li><li>পরীক্ষা করুন আপনার কম্পিউটারের সাথে সঠিকরূপে নেটওয়ার্কের সংযোগ স্থাপিত রয়েছে কিনা।</li><li>আপনার কম্পিউটার যদি কোনো ফায়ারওয়াল অথবা প্রক্সির আড়ালে স্থাপিত হয় তাহলে &brandShortName;-কে ওয়েবে সংযোগ করার অনুমতি প্রদান করুন।</li> </ul>">
 
 <!ENTITY redirectLoop.title "পেজ থেকে সঠিকরূপে অনুরোধ প্রেরিত হচ্ছে না">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা দেখা দেওয়ার সম্ভাবনা রয়েছে।</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা দেখা দেওয়ার সম্ভাবনা রয়েছে।</li></ul>">
 
 <!ENTITY unknownSocketType.title "সার্ভার থেকে প্রাপ্ত অপ্রত্যাশিত প্রতিক্রিয়া">
 <!ENTITY unknownSocketType.longDesc "<ul> 
@@ -143,7 +129,10 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>সম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করা হলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত না প্রদর্শিত হলে, ব্যতিক্রম যোগ না করা বাঞ্ছনীয়।</p>">
+<!ENTITY securityOverride.warningContent "<p>Yসম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করা হলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত না প্রদর্শিত হলে, ব্যতিক্রম যোগ না করা বাঞ্ছনীয়।</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "দূরবর্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">

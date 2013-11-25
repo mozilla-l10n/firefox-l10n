@@ -60,7 +60,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
-<!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে রয়েছে একটি <a id='prefs-user-js-link'>user.js ফাইল, পছন্দসমূহ অন্তর্ভুক্ত করে যে brandShortNameএর মধ্যে তৈরি করা হয়নি">
+<!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে রয়েছে একটি <a id='prefs-user-js-link'>user.js file</a>, পছন্দসমূহ অন্তর্ভুক্ত করে যে &brandShortName; এর মধ্যে তৈরি করা হয়নি.">
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 
