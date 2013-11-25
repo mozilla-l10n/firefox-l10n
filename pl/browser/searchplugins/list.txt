@@ -4,4 +4,4 @@ allegro-pl
 wikipedia-pl
 pwn-pl
 merlin-pl
-fbc-pl
+wolnelektury-pl
