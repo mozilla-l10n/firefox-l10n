@@ -9,6 +9,16 @@
 จะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; 
 ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
 
+<!ENTITY aboutSupport.crashes.title "การรายงานข้อขัดข้อง">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "หมายเลขรายงาน">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.sendDate "รายงานแล้ว">
+<!ENTITY aboutSupport.crashes.allReports "รายงานข้อขัดข้องทั้งหมด">
+<!ENTITY aboutSupport.crashes.noConfig "โปรแกรมนี้ไม่ได้ตั้งค่าให้แสดงผลรายงานข้อขัดข้อง">
+
 <!ENTITY aboutSupport.extensionsTitle "ส่วนเสริม">
 <!ENTITY aboutSupport.extensionName "ชื่อ">
 <!ENTITY aboutSupport.extensionEnabled "เปิดใช้งาน">
@@ -33,7 +43,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "โปรแกรมเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs "รายงานข้อผิดพลาด">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 
 <!ENTITY aboutSupport.showDir.label "เปิดไดเรกทอรี">
