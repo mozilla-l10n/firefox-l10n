@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
 <!ENTITY appmenuNewContactCmd.label "Adresboekcontact…">
 <!ENTITY appmenuEditMenu.label "Bewerken">
-<!ENTITY appmenuQFBMenu.label "Snelfilterbalk">
 <!ENTITY appmenuToolbarLayout.label "Werkbalkindeling…">
 <!ENTITY appmenuSelectThread.label "Conversatie selecteren">
 <!ENTITY appmenuSelectFlagged.label "Berichten met ster selecteren">
