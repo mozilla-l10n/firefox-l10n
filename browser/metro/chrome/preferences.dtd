@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY optionsHeader.title "Inpostaçioìn">
-<!ENTITY optionsHeader.startup.title "Avertûa">
-<!ENTITY optionsHeader.homepage.title "Quande s'àrve o &brandShortName; móstra:">
-<!ENTITY optionsHeader.homepage.startPage.button "pàgina iniçiâ">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "féuggi de l'ùrtima ezegoçión">
 <!ENTITY optionsHeader.char.title "Codìfica caràteri">
 <!ENTITY optionsHeader.char.autodetect.label "Riconosciménto outomàtico">
 <!ENTITY optionsHeader.char.options.label "Fànni védde e inpostaçioìn codifica inta bâra">
@@ -26,11 +22,12 @@
 <!ENTITY clearPrivateData.logins "Accèssi fæti">
 <!ENTITY optionsHeader.privacy.passwords.label "Aregòrda paròlla segrêta">
 <!ENTITY doNotTrack.title "Antitraciaménto">
-<!ENTITY doNotTrack.desc "Opçioìn:">
-<!ENTITY doNotTrack.options.trackingNotOkay "domànda de no êse traciòu">
-<!ENTITY doNotTrack.options.noPreference "no comunicâ nisciùnn-a preferénsa in sciô traciaménto">
-<!ENTITY doNotTrack.options.trackingOkay "comunica la disponibilità a essere tracciato">
 <!ENTITY optionsHeader.reporting.title "Report di ciànti">
 <!ENTITY optionsHeader.reporting.crashes.label "Mànda a Mozilla segnalaçioìn in sci ciànti anòmali de &brandShortName; pe megiorâne a stabilitæ e-a seguéssa">
 <!ENTITY optionsHeader.telemetry.title "Telemetrîa">
 <!ENTITY optionsHeader.telemetry.label "Condivìddi con Mozilla e statìstiche in sce l'ûzo de &brandShortName; pe agiutâ a megiorâ o navegatô">
+
+<!ENTITY doNotTrack.options.doNotTrack "Domànda a-i scîti web de no êse traciòu">
+<!ENTITY doNotTrack.options.doTrack "Dìnni a-i scîti web a disponibilitæ d'êse traciòu">
+<!ENTITY doNotTrack.options.default "No comunicâ a-i scîti web nisciùnn-a preferénsa de traciaménto">
+<!ENTITY doNotTrack.learnMoreLink "Âtre informaçioìn…">
