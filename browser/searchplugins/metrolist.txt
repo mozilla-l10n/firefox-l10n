@@ -1,4 +1,5 @@
-bingmetrofx
 googlemetrofx
-wikipedia
-yahoo
+sapo
+priberam
+wikipedia-ptpt
+amazon-en-GB
