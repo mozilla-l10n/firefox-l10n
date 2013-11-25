@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "จบแล้ว">
 <!ENTITY stats.activitySeeking "(กำลังค้นหา)">
 <!ENTITY stats.volume "ระดับเสียง">
-<!ENTITY stats.channels "ช่องสัญญาณ">
-<!ENTITY stats.sampleRate "อัตราสุ่ม">
 <!ENTITY stats.framesParsed "เฟรมที่วิเคราะห์แล้ว">
 <!ENTITY stats.framesDecoded "เฟรมที่ถอดรหัสแล้ว">
 <!ENTITY stats.framesPresented "เฟรมที่แสดงผลแล้ว">

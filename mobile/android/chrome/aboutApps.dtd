@@ -4,12 +4,6 @@
 
 <!ENTITY aboutApps.title2                          "แอป">
 <!ENTITY aboutApps.header                          "แอปของคุณ">
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-
-<!ENTITY aboutApps.noApps.pre "ไม่มีเว็บแอปติดตั้งไว้ หามาติดตั้งได้จาก ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "เปิดดู Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "ถอนการติดตั้ง">
 <!ENTITY aboutApps.addToHomescreen "เพิ่มลงหน้าจอแรก">

@@ -2,28 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "เกี่ยวกับเครือข่าย">
+<!ENTITY aboutNetworking.warning               "ยังอยู่ในขั้นทดลอง ควรมีผู้ปกครองดูแลการใช้งาน">
 <!ENTITY aboutNetworking.showNextTime          "แสดงการเตือนนี้ทุกครั้ง">
 <!ENTITY aboutNetworking.ok                    "ตกลง">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "เรียกใหม่">
+<!ENTITY aboutNetworking.autoRefresh           "เรียกใหม่ทุก 3 วินาที">
+<!ENTITY aboutNetworking.hostname              "ชื่อโฮสต์">
+<!ENTITY aboutNetworking.port                  "พอร์ต">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Active">
 <!ENTITY aboutNetworking.idle                  "หยุดรอ">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.host                  "Host">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "ส่ง">
+<!ENTITY aboutNetworking.received              "รับ">
+<!ENTITY aboutNetworking.family                "Family">
+<!ENTITY aboutNetworking.addresses             "Addresses">
+<!ENTITY aboutNetworking.expires               "Expires (Seconds)">
+<!ENTITY aboutNetworking.messagesSent          "ข้อความถูกส่ง">
+<!ENTITY aboutNetworking.messagesReceived      "ข้อความได้รับ">
+<!ENTITY aboutNetworking.bytesSent             "ไบต์ถูกส่ง">
+<!ENTITY aboutNetworking.bytesReceived         "ไบต์ได้รับ">
