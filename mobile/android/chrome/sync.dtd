@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sync.title                 "Sync">
 
 
 
@@ -13,15 +14,17 @@
 
 
 
+<!ENTITY sync.account               "Naziv računa">
+<!ENTITY sync.password              "Lozinka">
+<!ENTITY sync.recoveryKey           "Ključ popravka">
+<!ENTITY sync.customServer          "Koristi prilagođeni poslužitelj">
+<!ENTITY sync.serverURL             "URL poslužitelja">
 
+<!ENTITY sync.setup.cancel          "Odustani">
 
+<!ENTITY sync.setup.waiting2        "Čekanje na drugi uređaj…">
 
-
-
-
-
-
-
+<!ENTITY sync.pair.title            "Upari uređaj">
 
 
 

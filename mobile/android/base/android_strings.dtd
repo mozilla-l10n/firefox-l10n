@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+<!ENTITY  no_space_to_start_error "Nema dovoljno prostora za pokretanje &brandShortName;.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
+<!ENTITY  bookmarks_title "Zabilješke">
+
+<!ENTITY  reading_list_title "Popis čitanja">
 
 
 
@@ -27,8 +33,7 @@
 
 
 
-
-
+<!ENTITY bookmark_options "Mogućnosti">
 
 
 
@@ -106,7 +111,7 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
-
+<!ENTITY pref_sync "Sync">
 
 
 
@@ -210,9 +215,10 @@ size. -->
      They are not visible in the UI. -->
 
 
+<!ENTITY masterpassword_password "Lozinka">
 
 
-
+<!ENTITY button_ok "OK">
 
 
 
