@@ -72,13 +72,18 @@
 </ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li> இந்த சர்வரின் கட்டமைப்பு சிக்கல் இருக்க வேண்டும், அல்லது அது 
+  யாராவது சர்வர் ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள். </li> 
+<li> நீங்கள் இதற்கு முன்பு வெற்றிகரமாக இந்த சேவையகத்துடன் இணைந்து இருந்தால், இந்த பிழை 
+தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பின்னர் மீண்டும் முயற்சி செய்யலாம். </li> 
+</ul>">
 
 
-
-
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
 
 <!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
-
+<!ENTITY corruptedContentError.longDesc "<p>தரவுப் பரிமாற்றத்தில் ஒரு பிழை கண்டறியப்பட்டுள்ளதால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</p><ul><li>இணைய உரிமையாளர்களைத் தொடர்பு கொண்டு இந்த பிரச்சனை குறித்து தெரிவிக்கவும்.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Or you can add an exception...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Get Me Out of Here">

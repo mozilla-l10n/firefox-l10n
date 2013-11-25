@@ -22,7 +22,7 @@
 <!ENTITY  crash_comment "கருத்தை சேர்க்கவும் (கருத்துக்கள் எல்லாரும் பார்க்கும்படியிருக்கும்)">
 <!ENTITY  crash_allow_contact2 "இந்த அறிக்கைக்கு &vendorShortName; என்னை அனுகுமாறு விடு">
 <!ENTITY  crash_email "உங்கள் மின்னஞ்சல்">
-<!ENTITY  crash_closing_alert "சிதைவு அறிக்கையை அனுப்பாமலே வெளியேறவா ?">
+<!ENTITY  crash_closing_alert "சிதைவு அறிக்கையை அனுப்பாமலே வெளியேறவா?">
 <!ENTITY  sending_crash_report "சிதைவு அறிக்கை அனுப்பப்படுகிறது\u2026">
 <!ENTITY  crash_close_label "மூடு">
 <!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
@@ -146,7 +146,7 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
-
+<!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
 <!ENTITY pref_search_set_default "முன்னிருப்பாக அமை">
 <!ENTITY pref_search_default "முன்னிருப்பு">
@@ -276,7 +276,7 @@ size. -->
 
 <!ENTITY home_history_title "வரலாறு">
 <!ENTITY home_bookmarks_empty "நீங்கள் சேமித்து வைத்த புத்தகக்குறிகள் இங்கே காட்டும்.">
-
+<!ENTITY home_last_tabs_title "இறுதியாகப் பயன்படுத்தியக் கீற்று">
 <!ENTITY home_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
 <!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்">
 <!ENTITY home_most_recent_title "மிக அண்மைய">
@@ -363,7 +363,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "விருந்தினர் அமர்விலிருந்து வெளியேறு">
 <!ENTITY guest_session_dialog_continue "தொடரவும்">
 <!ENTITY guest_session_dialog_cancel "இரத்துசெய்">
-
+<!ENTITY new_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
 
 
 <!ENTITY exit_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
