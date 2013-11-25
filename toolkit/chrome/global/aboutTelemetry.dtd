@@ -4,9 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "টেলিমেট্রি ডেটা">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "টেলিমেট্রি <span> সক্রিয় করা হয় </ span>.">
+<!ENTITY aboutTelemetry.telemetryEnabled "  টেলিমেট্রি <span>সক্রিয় করা হয়</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "টেলিমেট্রি <span>নিষ্ক্রিয় করা হয়েছে </ span> .">
+<!ENTITY aboutTelemetry.telemetryDisabled "  টেলিমেট্রি <span>নিষ্ক্রিয় করা হয়েছে</span>.">
 
 <!ENTITY aboutTelemetry.slowSqlSection "স্লো এসকিউএল স্টেটমেন্ট">
 
