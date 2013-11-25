@@ -291,7 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: sla artikelen op naar uw leeslijst door uw vinger op de lezermodusknop te houden zodra deze in de titelbalk verschijnt.">
 
-<!ENTITY pin_sites_dialog_hint "Voer een zoekterm in">
+<!ENTITY pin_site_dialog_hint "Voer een zoekterm in">
 
 <!ENTITY filepicker_title "Bestand kiezen">
 <!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
