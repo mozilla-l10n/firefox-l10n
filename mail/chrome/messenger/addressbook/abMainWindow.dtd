@@ -1,12 +1,8 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# secarica <orice@secarica.ro>
+# raulmalea <raul.malea@gmail.com>
 # purica <haliciu@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
@@ -17,8 +13,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
 
 <!-- File Menu -->
@@ -31,11 +32,11 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "O listă nouă de expediție…">
 <!ENTITY newListCmd.accesskey                           "l">
-<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte…">
+<!ENTITY newAddressBookCmd.label                        "O nouă listă de contacte…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
-<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Un nou director LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
-<!ENTITY newMessageCmd.label                            "un mesaj nou">
+<!ENTITY newMessageCmd.label                            "Un mesaj nou">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
@@ -59,9 +60,9 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Desfă">
+<!ENTITY undoCmd.label                                  "Anulează">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "D">
+<!ENTITY undoCmd.accesskey                              "l">
 <!ENTITY redoCmd.label                                  "Restaurează">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
@@ -71,7 +72,7 @@
 <!ENTITY copyCmd.label                                  "Copiază">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Inserează">
+<!ENTITY pasteCmd.label                                 "Lipește">
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Șterge">
@@ -100,7 +101,7 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
-<!ENTITY menubarCmd.label                               "Bara meniului">
+<!ENTITY menubarCmd.label                               "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Bara cu contacte">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
@@ -118,8 +119,8 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "First Last">
-<!ENTITY firstLastCmd2.accesskey                        "F"> 
+<!ENTITY firstLastCmd2.label                            "Prenume Nume">
+<!ENTITY firstLastCmd2.accesskey                        "p"> 
 <!ENTITY lastFirstCmd.label                             "Nume, Prenume">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Nume de afișat">
@@ -181,8 +182,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Numele pentru mesagerie">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Nume chat">
+<!ENTITY ChatName.accesskey                             "n">
 <!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Pseudonim">
@@ -215,6 +216,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Acasă">
 <!ENTITY other.heading                                  "Altele">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Serviciu">
 <!-- Special Box Headings, for mailing lists -->

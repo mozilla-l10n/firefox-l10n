@@ -1,10 +1,7 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -12,8 +9,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
@@ -22,12 +24,12 @@
 <!ENTITY menu_securitySign.label "Semnează electronic mesajul">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Informații securitate">
+<!ENTITY menu_securityStatus.label "Vizualizare informații despre securitate">
 <!ENTITY menu_securityStatus.accesskey "o">
 
 <!ENTITY securityButton.label "Securitate">
 <!ENTITY securityButton.tooltip "Vedeți sau schimbați setările de securitate">
 
-<!ENTITY menu_viewSecurityStatus.label "Informații securitate mesaj">
+<!ENTITY menu_viewSecurityStatus.label "Informații despre securitatea mesajului">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
 

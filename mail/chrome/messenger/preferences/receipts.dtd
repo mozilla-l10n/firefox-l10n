@@ -1,19 +1,21 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                  "Confirmări de primire">
 <!ENTITY requestReceipt.label          "La trimiterea unui mesaj, solicită întotdeauna confirmare de primire">
 <!ENTITY requestReceipt.accesskey      "L">
@@ -31,7 +33,7 @@
 <!ENTITY notInToCc.accesskey           "D">
 <!ENTITY outsideDomain.label           "Dacă expeditorul nu este în domeniul meu:">
 <!ENTITY outsideDomain.accesskey       "t">
-<!ENTITY otherCases.label              "Altfel:">
+<!ENTITY otherCases.label              "În toate celelalte cazuri:">
 <!ENTITY otherCases.accesskey          "A">
 <!ENTITY askMe.label                   "Întreabă-mă">
 <!ENTITY alwaysSend.label              "Trimite">

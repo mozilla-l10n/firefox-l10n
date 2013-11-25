@@ -1,0 +1,29 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navigare fără urme">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Ați deschis o filă nouă fără urme.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Nu sunteți în filă fără urme.">
+
+<!ENTITY privatebrowsingpage.description            "În filele fără urme, &brandShortName; nu va memora istoricul navigării, căutărilor, descărcărilor, formularelor web, cookie-urilor sau fișierelor temporare de internet. Cu toate acestea, fișierele descărcate și semnele de carte vor fi memorate.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "În timp ce acest dispozitiv nu are o înregistrare a istoricului de navigare, furnizorul dumneavoastră de servicii internet poate încă să urmărească paginile pe care le vizitați.">
+

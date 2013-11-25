@@ -1,15 +1,22 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY viewLog.title "Jurnal filtre">
-<!ENTITY viewLogInfo.text "Jurnalul filtrelor este un fișier care dă detalii despre ce filtre au fost aplicate.  Activați jurnalul folosind bifa de mai jos.">
+<!ENTITY viewLogInfo.text "Jurnalul filtrelor este un fișier care dă detalii despre ce filtre au fost aplicate pentru acest cont.  Activați jurnalul folosind căsuța de mai jos.">
 <!ENTITY clearLog.label "Golește jurnalul">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY enableLog.label "Activează jurnalul filtrelor">

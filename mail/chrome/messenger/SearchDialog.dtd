@@ -1,21 +1,25 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # strainu <narro@strainu.ro>
 # turcan <nicturcan@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
@@ -31,10 +35,10 @@
 <!ENTITY deleteButton.accesskey      "g">
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
 <!ENTITY results.label               "Rezultate">
-<!ENTITY fileHereMenu.label          "Îndosariază aici">
-<!ENTITY fileHereMenu.accesskey      "n">
-<!ENTITY fileButton.label            "Îndosariază">
-<!ENTITY fileButton.accesskey        "n">
+<!ENTITY moveHereMenu.label          "Mutați aici">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Mută în">
+<!ENTITY moveButton.accesskey        "m">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">
@@ -61,13 +65,13 @@
 <!ENTITY accountColumn.label "Cont">
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Mărime">
-<!ENTITY junkStatusColumn.label "Este nesolicitat">
+<!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
 <!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
-<!ENTITY locationColumn.label "Amplasare">
+<!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordine de primire">
 
 <!-- Thread Pane Tooltips -->

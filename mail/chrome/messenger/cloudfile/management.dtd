@@ -1,9 +1,22 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Privacy Policy">
-<!ENTITY cloudfileMgmt.termsOfService "Terms of Service">
-<!ENTITY cloudfileMgmt.usedSpace "Used Space:">
-<!ENTITY cloudfileMgmt.unusedSpace "Unused Space:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Get more space">
+<!ENTITY cloudfileMgmt.privacyPolicy "Politică de confidențialitate">
+<!ENTITY cloudfileMgmt.termsOfService "Termeni ai serviciului">
+<!ENTITY cloudfileMgmt.usedSpace "Spațiu folosit:">
+<!ENTITY cloudfileMgmt.unusedSpace "Spațiu neutilizat:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Obține mai mult spațiu">
 

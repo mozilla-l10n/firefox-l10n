@@ -44,10 +44,10 @@
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
-<!ENTITY openToolbarCmd.label "Open">
-<!ENTITY openToolbarCmd.tooltip "Open a local file">
-<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
-<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY newToolbarCmd.label "Nou">
+<!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
+<!ENTITY openToolbarCmd.label "Deschide">
+<!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
+<!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
+<!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
 

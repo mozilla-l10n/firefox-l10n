@@ -3,6 +3,7 @@
 #
 # xdaiana <xdaiana@yahoo.com>
 # janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -10,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -40,7 +42,7 @@
 <!ENTITY scope.accesskey                   "I">
 <!ENTITY scopeOneLevel.label               "Un nivel">
 <!ENTITY scopeOneLevel.accesskey           "n">
-<!ENTITY scopeSubtree.label                "Sub-arborele">
+<!ENTITY scopeSubtree.label                "Sub-arbore">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Nu întoarce mai mult de">
 <!ENTITY return.accesskey                  "r">

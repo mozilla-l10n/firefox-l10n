@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
@@ -10,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -28,7 +30,7 @@
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Tastați numele fișierului sau locația imaginii">
 <!ENTITY title.label "Indiciu:">
-<!ENTITY title.accessKey "T">
+<!ENTITY title.accessKey "d">
 <!ENTITY title.tooltip "Atributul HTML 'title', care se afișează ca indicație rapidă (tooltip)">
 <!ENTITY altText.label "Text alternativ:">
 <!ENTITY altText.accessKey "A">

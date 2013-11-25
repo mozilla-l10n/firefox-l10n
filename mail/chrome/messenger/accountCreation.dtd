@@ -1,11 +1,8 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
 # silviubogan <silviubogan@yahoo.com>
@@ -18,13 +15,18 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Setarea contului de email">
 <!ENTITY name.label                      "Numele dumneavoastră:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "First Last">
-<!ENTITY name.text                       "Numele dumneavoastră, așa cum e afișat altora">
+<!ENTITY name.placeholder                "Prenume Nume">
+<!ENTITY name.text                       "Numele dumneavoastră așa cum este afișat altora">
 <!ENTITY email.label                     "Adresa de email:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder               "email@exemplu.ro">
@@ -87,8 +89,8 @@
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label               "Done">
-<!ENTITY doneAccount.accesskey           "D">
+<!ENTITY doneAccount.label               "Gata">
+<!ENTITY doneAccount.accesskey           "g">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

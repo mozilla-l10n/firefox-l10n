@@ -67,7 +67,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; folosește servicii de informare bazate pe web (&quot;Servicii&quot;) pentru a vă furniza unele funcționalități în această copie binară de &brandShortName; sub condițiile descrise mai jos. Dacă nu doriți să folosiți unul sau mai multe servicii sau condițiile de mai jos sunt inacceptabile, puteți dezactiva funcționalitatea sau serviciul respectiv. Instrucțiuni pentru dezactivarea fiecărei funcționalități sau serviciu în parte pot fi găsite la ">
 <!ENTITY rights2.webservices-b "aici">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Alte funcționalități și Servicii pot fi dezactivate în preferințele aplicației.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navigare sigură: ">

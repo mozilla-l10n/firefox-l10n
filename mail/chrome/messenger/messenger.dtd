@@ -1,28 +1,34 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Nicu <kneekoo@yahoo.com>
 # purica <haliciu@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
 # strainu <narro@strainu.ro>
 # nicubunu <nicubunu@gmail.com>
 # stas <stas@nerd.ro>
-# janimo <jani@ubuntu.com>
 # turcan <nicturcan@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# xdaiana <xdaiana@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Ursan Marius Bogdan <Creationn@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -51,12 +57,14 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cont existent de email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.label "Cont de chat…">
+<!ENTITY newIMAccountCmd.accesskey "c">
+<!ENTITY newFeedAccountCmd.label "Cont de flux…">
+<!ENTITY newFeedAccountCmd.accesskey "f">
+<!ENTITY newIMContactCmd.label "Contact chat…">
+<!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
-<!ENTITY openAttachmentCmd.label "Anexe">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Salvează ca">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Fișier">
@@ -72,7 +80,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
 <!ENTITY getNextNMsgCmd.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Trimite mesajele netrimise">
+<!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
 <!ENTITY sendUnsentCmd.accesskey "T">
 <!ENTITY subscribeCmd.label "Abonare…">
 <!ENTITY subscribeCmd.accesskey "b">
@@ -141,8 +149,8 @@
 <!ENTITY redoCopyMsgCmd.label "Copiază mesajul din nou">
 <!ENTITY undoMarkAllCmd.label "Anulează marcarea tuturor ca citite">
 <!ENTITY redoMarkAllCmd.label "Refă marcarea tuturor ca citite">
-<!ENTITY undoDefaultCmd.label "Desfă">
-<!ENTITY undoDefaultCmd.accesskey "D">
+<!ENTITY undoDefaultCmd.label "Anulează">
+<!ENTITY undoDefaultCmd.accesskey "l">
 <!ENTITY redoDefaultCmd.label "Refă">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
@@ -175,7 +183,7 @@
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Necitite">
 <!ENTITY unreadFolders.accesskey "N">
-<!ENTITY favoriteFolders.label "Favorit">
+<!ENTITY favoriteFolders.label "Favorite">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
@@ -199,7 +207,7 @@
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Etichete">
 <!ENTITY sortByTagsCmd.accesskey "h">
-<!ENTITY sortByJunkStatusCmd.label "Este nesolicitat">
+<!ENTITY sortByJunkStatusCmd.label "Mesaj nesolicitat">
 <!ENTITY sortByJunkStatusCmd.accesskey "E">
 <!ENTITY sortBySubjectCmd.label "Subiect">
 <!ENTITY sortBySubjectCmd.accesskey "b">
@@ -227,7 +235,7 @@
 <!ENTITY threads.accesskey "C">
 <!ENTITY allMsgsCmd.label "Toate">
 <!ENTITY allMsgsCmd.accesskey "a">
-<!ENTITY expandAllThreadsCmd.label "Desfășoară toate conversațiile">
+<!ENTITY expandAllThreadsCmd.label "Extinde toate conversațiile">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Pliază toate conversațiile">
@@ -270,33 +278,6 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "Afișează anexele în interiorul mesajului">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Mărește">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "M">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Micșorează">
-<!ENTITY fullZoomReduceCmd.accesskey    "o">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Normal">
-<!ENTITY fullZoomResetCmd.accesskey     "r">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Scalare">
-<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY pageSourceCmd.label "Sursă mesaj">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -346,15 +327,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "Mesaj necitit">
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Înaintează">
+<!ENTITY goForwardCmd.label "Înainte">
 <!ENTITY goForwardCmd.accesskey "a">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Înapoi">
 <!ENTITY goBackCmd.accesskey "p">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.accesskey "h">
+<!ENTITY goChatCmd.key "h">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Dosar">
@@ -383,8 +364,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "R">
 <!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
-<!ENTITY replyNewsgroupCmd2.accesskey  "u">
+<!ENTITY replyNewsgroupCmd2.label "Răspundeți la grupul de discuții">
+<!ENTITY replyNewsgroupCmd2.accesskey  "g">
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "R">
@@ -474,12 +455,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Deschide în conversație">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "e">
-<!ENTITY openFeedMessage.label "Deschide mesajul de flux">
-<!ENTITY openFeedMessage.accesskey "D">
-<!ENTITY openFeedWebPageInWindow.label "Pagină web în fereastră nouă">
-<!ENTITY openFeedWebPageInWindow.accesskey "w">
-<!ENTITY openFeedSummaryInWindow.label "Sumarul în fereastră nouă">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openAttachmentListCmd.label "Atașamente">
+<!ENTITY openAttachmentListCmd.accesskey "t">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Deschide ca pagină web">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Deschide ca sumar">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Alternează pagina web și sumarul în panoul de mesaj">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 
@@ -498,12 +481,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Gestionar de activitate">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY imAccountsStatus.label "Chat status">
-<!ENTITY imAccountsStatus.accesskey "C">
-<!ENTITY imStatus.available          "Available">
-<!ENTITY imStatus.unavailable        "Unavailable">
-<!ENTITY imStatus.offline            "Offline">
-<!ENTITY imStatus.showAccounts       "Show Accounts…">
+<!ENTITY imAccountsStatus.label "Stare chat">
+<!ENTITY imAccountsStatus.accesskey "s">
+<!ENTITY imStatus.available          "Disponibil">
+<!ENTITY imStatus.unavailable        "Indisponibil">
+<!ENTITY imStatus.offline            "Deconectat">
+<!ENTITY imStatus.showAccounts       "Afișează conturile…">
+<!ENTITY joinChatCmd.label "Conectează-te la chat…">
+<!ENTITY joinChatCmd.accesskey "C">
 <!ENTITY savedFiles.label "Fișiere salvate">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -524,27 +509,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Curăță istoricul recent…">
+<!ENTITY clearRecentHistory.accesskey "r">
 <!ENTITY accountManagerCmd.label "Setările conturilor…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "r">
+<!ENTITY allowRemoteDebugging.label "Permite depanarea de la distanță">
+<!ENTITY allowRemoteDebugging.accesskey "d">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Primește">
+<!ENTITY getMsgButton1.label "Adu mesajele">
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
-<!ENTITY replyAllButton.label "Tuturor">
+<!ENTITY replyAllButton.label "Răspunde tuturor">
 <!ENTITY replyListButton.label "Răspunde listei">
 <!ENTITY forwardButton.label "Înaintează">
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY archiveButton.label "Arhivează">
 <!ENTITY nextButton.label "Următorul">
-<!ENTITY nextButtonToolbarItem.label "Next Unread">
-<!ENTITY nextMsgButton.label "Next">
+<!ENTITY nextButtonToolbarItem.label "Următorul necitit">
+<!ENTITY nextMsgButton.label "Următor">
 <!ENTITY previousButton.label "Precedentul">
-<!ENTITY previousButtonToolbarItem.label "Previous Unread">
-<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButtonToolbarItem.label "Anteriorul necitit">
+<!ENTITY previousMsgButton.label "Precedent">
 <!ENTITY backButton1.label "Înapoi">
 <!ENTITY goForwardButton1.label "Înainte">
 <!ENTITY deleteItem.title "Șterge">
@@ -565,6 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Amplasare dosar">
 <!ENTITY tagButton.label "Etichetă">
 <!ENTITY compactButton.label "Compactează">
+<!ENTITY appmenuButton.label "Meniu aplicație">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Căutare avansată în mesaje">
@@ -576,12 +566,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
 <!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
+<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
+<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
-<!ENTITY nextMsgButton.tooltip "Move to the next message">
+<!ENTITY nextMsgButton.tooltip "Mergi la următorul mesaj">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
-<!ENTITY previousMsgButton.tooltip "Move to the previous message">
+<!ENTITY previousMsgButton.tooltip "Mergi la mesajul anterior">
 <!ENTITY goForwardButton.tooltip "Mergi la mesajul următor">
 <!ENTITY goBackButton.tooltip "Mergi la mesajul precedent">
 <!ENTITY deleteButton.tooltip "Șterge mesajul sau dosarul selectat">
@@ -592,13 +584,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
-<!ENTITY chatButton.tooltip "Show the Chat tab">
+<!ENTITY chatButton.tooltip "Afișează fila pentru Chat">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
+<!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Redirecționează intercalat">
+<!ENTITY buttonMenuForwardAsAttachment.label "Redirecționați ca atașament">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Mesaj nou">
+<!ENTITY appmenuNewContactCmd.label "Contact în agendă…">
+<!ENTITY appmenuEditMenu.label "Editare">
+<!ENTITY appmenuQFBMenu.label "Bară de filtrare rapidă">
+<!ENTITY appmenuToolbarLayout.label "Aranjamentul barei de unelte…">
+<!ENTITY appmenuSelectThread.label "Selectează firul">
+<!ENTITY appmenuSelectFlagged.label "Selectează mesajele cu steluță">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etichetă nouă…">
 <!ENTITY addNewTag.accesskey "n">
+<!ENTITY manageTags.label "Gestionează etichetele…">
+<!ENTITY manageTags.accesskey "g">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Nume">
@@ -607,8 +615,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Adu mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
-<!ENTITY folderContextOpenNewWindow.label "Deschide">
-<!ENTITY folderContextOpenNewWindow.accesskey "D">
+<!ENTITY folderContextOpenInNewWindow.label "Deschide în fereastră nouă">
+<!ENTITY folderContextOpenInNewWindow.accesskey "d">
 <!ENTITY folderContextOpenNewTab.label "Deschide în filă nouă">
 <!ENTITY folderContextOpenNewTab.accesskey "D">
 <!ENTITY folderContextNew.label "Subdosar nou…">
@@ -623,7 +631,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextEmptyTrash.accesskey "G">
 <!ENTITY folderContextEmptyJunk.label "Golește dosarul cu nesolicitate">
 <!ENTITY folderContextEmptyJunk.accesskey "G">
-<!ENTITY folderContextSendUnsentMessages.label "Trimite mesajele netrimise">
+<!ENTITY folderContextSendUnsentMessages.label "Trimite mesajele neexpediate">
 <!ENTITY folderContextSendUnsentMessages.accesskey "T">
 <!ENTITY folderContextUnsubscribe.label "Dezabonează-mă">
 <!ENTITY folderContextUnsubscribe.accesskey "z">
@@ -633,11 +641,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Abonare…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
-<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Caută mesaje…">
+<!ENTITY folderContextSearchForMessages.accesskey "c">
 <!ENTITY folderContextProperties.label "Proprietăți…">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Dosar favorite">
+<!ENTITY folderContextFavoriteFolder.label "Dosar favorit">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Setări…">
 <!ENTITY folderContextSettings.accesskey "e">
@@ -669,13 +677,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.label "Cont">
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Dimensiune">
-<!ENTITY junkStatusColumn.label "Este nesolicitat">
+<!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
 <!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
-<!ENTITY locationColumn.label "Loc">
+<!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Anexe">
 
@@ -718,22 +726,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyNewsgroup2.label "Răspundeți la grupul de discuții">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Răspunde tuturor">
 <!ENTITY contextReplyAll.accesskey "s">
 <!ENTITY contextReplyList.label "Răspunde listei">
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Înaintează">
 <!ENTITY contextForward.accesskey "a">
-<!ENTITY contextForwardAsAttachment.label "Retrimite ca anexă">
-<!ENTITY contextForwardAsAttachment.accesskey "m">
+<!ENTITY contextForwardAsMenu.label "Înaintează ca">
+<!ENTITY contextForwardAsMenu.accesskey "n">
+<!ENTITY contextForwardAsInline.label "Mesaj inclus">
+<!ENTITY contextForwardAsInline.accesskey "i">
+<!ENTITY contextForwardAsAttachmentItem.label "Anexă">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextMultiForwardAsAttachment.label "Retrimite ca anexă">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "r">
 <!ENTITY contextMoveMsgMenu.label "Mută în">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copiază în">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Ignoră conversația">
+<!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.label "Ignoră conversația din interior">
+<!ENTITY contextWatchThreadMenu.label "Urmărește conversația">
 <!ENTITY contextSaveAs.label "Salvează ca…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Tipărește…">
@@ -799,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "A">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Mesaje nesolicitate">
+<!ENTITY junkBarMessage2.label "&brandShortName; crede că acest mesaj este spam.">
 <!ENTITY junkBarButton1.label "Nu e nesolicitat">
 <!ENTITY junkInfoButton.label "?">
 
@@ -834,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Search… #1">
+<!ENTITY search.label.base "Căutare… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in

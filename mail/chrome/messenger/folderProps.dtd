@@ -1,14 +1,18 @@
 <!--
 # Translator(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # rz <rz@r2dev.ro>
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -20,7 +24,7 @@
 <!ENTITY generalInfo.label                       "Informații generale">
 <!ENTITY folderCharsetTab.label                  "Codare caractere implicită:">
 <!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
+<!ENTITY folderCharsetOverride.label             "Aplică această codare implicită tuturor mesajelor din dosar (se vor ignora setările privind codarea din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
 <!ENTITY folderRebuildSummaryFile2.label         "Repară dosarul">
@@ -57,7 +61,7 @@
 <!ENTITY offlineFolder.button.label              "Descarcă acum">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selectează acest grup de news pentru uz offline">
+<!ENTITY selectofflineNewsgroup.check.label      "Selectează acest grup de discuții pentru utilizare offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Descarcă acum">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
@@ -77,4 +81,11 @@
 <!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Stare:">
+
+<!ENTITY numberOfMessages.label                  "Număr de mesaje:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "necunoscut">
+<!ENTITY sizeOnDisk.label                        "Spațiu pe disc:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "necunoscut">
 
