@@ -5,43 +5,102 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Greška pri učitavanju stranice">
+<!ENTITY retry.label "Pokušajte ponovno">
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "Povezivanje nije moguće">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Ova adresa je ograničena">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Poslužitelj nije pronađen">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Provjerite postoje li greške u pisanju adrese kao 
+<strong>ww</strong>.primjer.com umjesto 
+<strong>www</strong>.primjer.com</li> 
+<li>Ukoliko ne možete učitati niti jednu stranicu, provjerite mobilnu podatkovnu vezu ili Wi-Fi vezu.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Datoteka nije pronađena">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> 
+<li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> 
+</ul>">
 
 
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>Iz nekog razloga &brandShortName; ne može učitati ovu stranicu.</p>">
 
+<!ENTITY malformedURI.title "Adresa nije ispravna">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Adrese web stranica se uobičajeno pišu kao 
+<strong>http://www.primjer.com/</strong></li> 
+<li>Provjerite koristite li kose crte prema naprijed (tj. 
+<strong>/</strong>).</li> 
+</ul>">
 
+<!ENTITY netInterrupt.title "Veza je prekinuta">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Dokument je istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; priručnoj memoriji.</p><ul><li>Radi sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušajte ponovno da biste zatražili dokument od web stranice.</li></ul>">
 
+<!ENTITY netOffline.title "Izvanmrežni rad">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Pokušajte ponovno. &brandShortName; će pokušati otvoriti vezu i ponovno učitati stranicu.</li> 
+</ul>">
 
+<!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
+</ul>">
 
+<!ENTITY unsafeContentType.title "Nesigurni tip datoteke">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
+</ul>">
 
+<!ENTITY netReset.title "Veza je prekinuta">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
+<!ENTITY netTimeout.title "Vezi je isteklo vrijeme čekanja">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
+<!ENTITY protocolNotFound.title "Adresa nije prepoznata">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Možda trebate instalirati drugi program za otvaranje ove adrese.</li> 
+</ul>">
 
+<!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbija veze">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Provjerite proxy postavke i potvrdite da su ispravne.</li> 
+<li>Kako biste provjerili radi li proxy poslužitelj, kontaktirajte svojeg mrežnog 
+administratora.</li> 
+</ul>">
 
+<!ENTITY proxyResolveFailure.title "Proxy poslužitelj nije pronađen">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Provjerite proxy postavke i potvrdite da su ispravne.</li> 
+<li>Provjerite radi li podatkovna ili Wi-Fi veza bez problema.</li> 
+</ul>">
 
+<!ENTITY redirectLoop.title "Stranica ne preusmjerava ispravno">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ovaj problem ponekad može biti uzrokovan onemogućavanjem ili odbijanjem prihvaćanja 
+kolačića.</li> 
+</ul>">
 
+<!ENTITY unknownSocketType.title "Neočekivani odgovor od poslužitelja">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Provjerite je li na vašem računalu instaliran Personal Security Manager 
+</li> 
+<li>Ovo može biti uzrokovano neuobičajenim postavkama na poslužitelju.</li> 
+</ul>">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY nssFailure2.title "Sigurna veza nije uspjela">
 
 
 
