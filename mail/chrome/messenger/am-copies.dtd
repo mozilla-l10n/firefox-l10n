@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopje &amp; Dosje">
@@ -8,7 +12,7 @@
 <!ENTITY bccAddress.label "Bcc për këto adresa email:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
-<!ENTITY saveMessageDlg.accesskey "q">
+<!ENTITY saveMessageDlg.accesskey "f">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dosje &quot;Të dërguar&quot; në:">
 <!ENTITY sentFolderOn.accesskey "d">
@@ -24,22 +28,23 @@
 <!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Tjetër:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Skica dhe Gjedhe">
-<!ENTITY keepDrafts.label "Mbaj skica mesazhesh në:">
-<!ENTITY keepTempltes.label "Mbaj gjedhe mesazhesh në:">
-<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjesh">
+<!ENTITY keepTemplates.label "Gjedhet për mesazhe mbaji në:">
+<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjjen te dosja e mesazhit të cilit po i përgjigjem">
 <!ENTITY fccReplyFollowsParent.accesskey "V">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc këto venddodhje email:">
+<!ENTITY ccAddress.label "Cc këto adresa email:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Ndajini adresat me presje">
 <!ENTITY bccAddressList.placeholder "Ndajini adresat me presje">
-
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Dosje &quot;Arkivash&quot; te:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Tjetër:">
-<!ENTITY archiveInOtherFolder.accesskey "r">
-
+<!ENTITY archivesTitle.label "Arkiva Mesazhesh">
 <!ENTITY keepArchives.label "Arkivat e mesazheve mbaji te:">
-
+<!ENTITY keepArchives.accesskey "A">
+<!ENTITY archiveHierarchyButton.label "Mundësi arkivimi…">
+<!ENTITY archiveHierarchyButton.accesskey "M">
+<!ENTITY archivesFolderOn.label "Dosje &quot;Arkivash&quot; te:">
+<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archiveInOtherFolder.label "Tjetër:">
+<!ENTITY archiveInOtherFolder.accesskey "T">
+<!ENTITY specialFolders.label "Skica dhe Gjedhe">
+<!ENTITY keepDrafts.label "Skicat për mesazhe mbaji në:">

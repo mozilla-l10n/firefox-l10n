@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizo">
 <!ENTITY bringAllToFront.label    "Silli të Tërë Para">
@@ -28,6 +32,9 @@
 
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi Të tëra">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY healthReport.label       "Raport Mbi Shëndetin e &brandShortName;-it">
+<!ENTITY healthReport.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Të dhëna Diagnostikimi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

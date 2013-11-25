@@ -1,16 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!-- entities split out from browser.dtd -->
 <!ENTITY next.label "Pasuese">
 <!ENTITY next.accesskey "P">
-<!ENTITY next.tooltip "Gjej hasjen pasuese të togfjalëshit">
+<!ENTITY next.tooltip "Gjeni hasjen pasuese të togfjalëshit">
 <!ENTITY previous.label "E mëparshme">
 <!ENTITY previous.accesskey "m">
-<!ENTITY previous.tooltip "Gjej hasjen e mëparshme të togfjalëshit">
-<!ENTITY findCloseButton.tooltip "Mbyll shtyllë Gjetjesh">
+<!ENTITY previous.tooltip "Gjeni hasjen e mëparshme të togfjalëshit">
+<!ENTITY findCloseButton.tooltip "Mbyllni shtyllën e Gjetjeve">
 <!ENTITY highlight.label "Theksoji krejt">
 <!ENTITY highlight.accesskey "T">
-<!ENTITY highlight.tooltiptext "Thekso krejt hasjet e togfjalëshit">
+<!ENTITY highlight.tooltiptext "Theksoni krejt hasjet e togfjalëshit">
 <!ENTITY caseSensitiveCheckbox.label "Siç është shkruajtur">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">

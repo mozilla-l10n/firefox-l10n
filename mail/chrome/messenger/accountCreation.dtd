@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Rregullim Llogarie Poste">
 <!ENTITY name.label                      "Emri juaj:">
 <!ENTITY name.accesskey                  "e">
@@ -49,7 +53,8 @@
 <!ENTITY half-manual-test.accesskey      "R">
 <!ENTITY manual-edit.label               "Formësim dorazi">
 <!ENTITY manual-edit.accesskey           "m">
-
+<!ENTITY switch-to-provisioner.label     "Hapni një llogari të re">
+<!ENTITY switch-to-provisioner.accesskey "H">
 
 <!ENTITY warning.label                   "Kujdes!">
 <!ENTITY incomingSettings.label          "Rregullime për shërbyesin marrës:">
@@ -60,11 +65,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "I kuptoj rreziqet.">
 <!ENTITY confirmWarning.accesskey        "I">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Krijoni Llogarinë">
-<!ENTITY createAccount.accesskey         "K">
+<!ENTITY doneAccount.label               "U bë">
+<!ENTITY doneAccount.accesskey           "U">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

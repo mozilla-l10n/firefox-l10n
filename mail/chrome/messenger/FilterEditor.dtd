@@ -1,5 +1,9 @@
-<!ENTITY window.title "Rregulla Filtrash">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Rregulla Filtrash">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Emër filtri:">
 <!ENTITY filterName.accesskey "E">
 
@@ -13,10 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Më e madhe">
 
 <!ENTITY contextDesc.label "Zbatoje filtrin kur:">
-<!ENTITY contextDesc.accesskey "Z">
-<!ENTITY contextIncoming.label "Kontrollohet për Postë">
+<!ENTITY contextIncomingMail.label "Merret Postë e Re:">
+<!ENTITY contextIncomingMail.accesskey "M">
 <!ENTITY contextManual.label "Xhirohet Dorazi">
-<!ENTITY contextBoth.label "Kontrollohet për Postë ose Xhirohet Dorazi">
+<!ENTITY contextManual.accesskey "D">
+<!ENTITY contextBeforeCls.label "Filtroji përpara Klasifikimit Si të Pavlera">
+<!ENTITY contextAfterCls.label "Filtroji pas Klasifikimit Si të Pavlera">
+
 <!ENTITY filterActionDesc.label "Kryej këto veprime:">
 <!ENTITY filterActionDesc.accesskey "K">
 
@@ -26,6 +33,7 @@
 <!ENTITY forwardTo.label "Përcillja Mesazhin">
 <!ENTITY replyWithTemplate.label "Përgjigju me Gjedhe">
 <!ENTITY markMessageRead.label "Shënoje Si Të lexuar">
+<!ENTITY markMessageUnread.label "Shënoje Si Të palexuar">
 <!ENTITY markMessageStarred.label "Shto Yllkë">
 <!ENTITY setPriority.label "Vërja Përparësinë">
 <!ENTITY addTag.label "Etiketoje Mesazhin Si">
@@ -38,5 +46,13 @@
 <!ENTITY watchThread.label "Vëzhgoje Rrjedhën">
 <!ENTITY stopExecution.label "Ndale Përmbushjen e Filtrit">
 
-<!ENTITY contextPostPlugin.label "Kontrollim Poste (pas klasifikimi)">
-<!ENTITY contextPostPluginBoth.label "Kontrollim Poste (pas klasifikimi) ose Xhirim Dorazi">
+<!ENTITY addAction.tooltip "Shtoni një veprim të ri">
+<!ENTITY removeAction.tooltip "Hiqeni këtë veprim">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

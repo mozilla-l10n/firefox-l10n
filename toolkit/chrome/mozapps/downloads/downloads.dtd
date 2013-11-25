@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 <!ENTITY closeWhenDone.label "Mbylle kur përfundojnë shkarkimet">
-<!ENTITY closeWhenDone.tooltip "Mbyll dritaren e Shkarkimeve kur të ketë përfunduar shkarkimi për tërë kartelat">
+<!ENTITY closeWhenDone.tooltip "Mbylleni dritaren e Shkarkimeve kur të ketë përfunduar shkarkimi për tërë kartelat">
 <!ENTITY cmd.cancel.accesskey "A">
 <!ENTITY cmd.cancel.label "Anuloje">
-<!ENTITY cmd.clearList.accesskey "p">
-<!ENTITY cmd.clearList.label "Pastro">
-<!ENTITY cmd.clearList.tooltip "Heq prej listës shkarkime të plotësuar, anuluar ose të dështuar">
+<!ENTITY cmd.clearList.label "Pastroje">
+<!ENTITY cmd.clearList.accesskey "P">
+<!ENTITY cmd.clearList.tooltip "Hiqni prej listës shkarkime të plotësuar, anuluar ose të dështuar">
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
@@ -14,8 +18,8 @@
 <!ENTITY cmd.open.label "Hape">
 <!ENTITY cmd.openWith.accesskey "m">
 <!ENTITY cmd.openWith.label "Hapeni Me…">
-<!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.pause.label "Pushim">
+<!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.resume.label "Rimerr">
 <!ENTITY cmd.retry.accesskey "R">

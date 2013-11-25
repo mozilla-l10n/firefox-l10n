@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY fromColumn.label "Nga">
 <!ENTITY fromColumn.tooltip "Klikoni për t&apos;i renditur sipas Nga">
 <!ENTITY receivedColumn.label "Marrë më">
@@ -31,7 +35,7 @@
 <!ENTITY abSearchHeading.accesskey   "o">
 <!ENTITY propertiesButton.label      "Veti">
 <!ENTITY propertiesButton.accesskey  "V">
-<!ENTITY composeButton.label         "Shkruaj">
+<!ENTITY composeButton.label         "Shkruani">
 <!ENTITY composeButton.accesskey     "S">
 <!ENTITY abSearchDialogTitle.label   "Kërkim i Mëtejshëm në Libër Adresash">
 

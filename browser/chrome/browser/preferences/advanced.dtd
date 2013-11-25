@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Të përgjithshme">
 
 <!ENTITY accessibility.label             "Hyrshmëri">
 
-<!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lundrim brenda faqesh">
+<!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lëvizje brenda faqesh">
 <!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchStartTyping.label         "Kërko për tekst kur filloj të shtyp">
 <!ENTITY searchStartTyping.accesskey     "K">
@@ -16,21 +20,38 @@
 <!ENTITY useAutoScroll.label             "Përdor vetërrëshqitje">
 <!ENTITY useAutoScroll.accesskey         "v">
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
-<!ENTITY useSmoothScrolling.accesskey    "q">
+<!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
 <!ENTITY checkSpelling.accesskey         "o">
-<!ENTITY doNotTrack.label                "Thuaju &quot;site&quot;-eve web që nuk dua të më gjurmojnë">
-<!ENTITY doNotTrack.accesskey            "u">
 
 <!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
 <!ENTITY alwaysCheckDefault.label        "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "h">
-<!ENTITY checkNow.label                  "Kontrollo Tani">
-<!ENTITY checkNow.accesskey              "T">
-<!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
-<!ENTITY submitCrashes.accesskey         "a">
+<!ENTITY setDefault.label                "Kaloje &brandShortName;-in si shfletuesin parazgjedhje">
+<!ENTITY setDefault.accesskey            "K">
+<!ENTITY isDefault.label                 "&brandShortName;-i është shfletuesi juaj parazgjedhje">
+
+<!ENTITY dataChoicesTab.label            "Mundësi Për të Dhënat">
+
+<!ENTITY healthReportSection.label       "Raport Mbi Shëndetin e &brandShortName;-it">
+<!ENTITY healthReportDesc.label          "Ju ndihmon të vlerësoni funksionimin e shfletuesit tuaj dhe të ndani me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj">
+<!ENTITY enableHealthReport.label        "Aktivizoji Raportet Mbi Shëndetin e &brandShortName;-it">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Mësoni Më Tepër">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Ndani me &vendorShortName;-an të dhëna rreth funksionimit, përdorimit, hardware-it dhe personalizimeve të shfletuesit tuaj, që të ndihmoni në përmirësimin e &brandShortName;-it">
+<!ENTITY enableTelemetry.label           "Aktivizoje Telemetry-në">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Mësoni Më Tepër">
+
+<!ENTITY crashReporterSection.label      "Njoftues Vithisjesh">
+<!ENTITY crashReporterDesc.label         "&brandShortName;-i parashtron te &vendorShortName; njoftime vithisjesh që të ndihmojë për ta bërë shfletuesin tuaj më të qëndrueshëm dhe më të sigurt">
+<!ENTITY enableCrashReporter.label       "Aktivizoje Njoftuesin e Vithisjeve">
+<!ENTITY enableCrashReporter.accesskey   "V">
+<!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!ENTITY networkTab.label                "Rrjet">
 
@@ -40,7 +61,7 @@
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
-<!ENTITY offlineStorage.label            "Depozitim &quot;Offline&quot;">
+<!ENTITY offlineAppsList2.label          "&quot;Site&quot;-eve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -52,35 +73,42 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "K">
 <!ENTITY limitCacheSizeAfter.label       "MB hapësirë">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
-<!ENTITY clearCacheNow.accesskey         "T">        
+<!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Pastroje Tani">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">        
 <!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Përditësim">
 
-<!ENTITY autoCheck.label                 "Kontrollo vetvetiu për përditësime për:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;-in">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Shtojca">
-<!ENTITY enableAddonsUpdate2.accesskey   "S">
-<!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
-<!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Kur gjenden përditësime të &brandShortName;-it:">
-<!ENTITY askMe.label                     "Pyetmë se çfarë dua të bëj">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Shkarko dhe instalo përditësimet vetvetiu">
-<!ENTITY modeAutomatic.accesskey         "k">
-<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
-<!ENTITY modeAutoAddonWarn.accesskey     "Z">
+<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i:">
+<!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Kontrollo për përditësime, por më lejo të zgjedh t&apos;i instaloj a jo ato">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
+<!ENTITY updateManual.accesskey          "M">
+
+<!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë ndonjë shtesë">
+<!ENTITY updateAutoAddonWarn.accesskey   "S">
+
 <!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
 <!ENTITY updateHistory.accesskey         "H">
+
+<!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
+<!ENTITY useService.accesskey            "P">
+
+<!ENTITY updateOthers.label              "Përditëso vetvetiu:">
+
+<!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
+<!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Bëma të ditur kur një &quot;site&quot; web kërkon të depozitojë të dhëna për përdorim &quot;offline&quot;">
 <!ENTITY offlineNotify.accesskey         "B">
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
+<!ENTITY offlineAppsList2.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
@@ -106,3 +134,6 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey   "P">
+
+<!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">
+<!ENTITY offlineStorage2.label           "Lëndë Web &quot;Offline&quot; dhe të Dhëna Përdoruesi">

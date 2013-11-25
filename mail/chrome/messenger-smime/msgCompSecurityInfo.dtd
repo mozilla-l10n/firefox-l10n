@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Siguri Mesazhi">
-<!ENTITY subject.plaintextWarning "Ju lutem, vini re: Nuk kodohen kurrë  rreshtat e subjekteve email.">
+<!ENTITY subject.plaintextWarning "Ju lutem, vini re: Rreshtat e subjekteve email nuk kodohen kurrë.">
 <!ENTITY status.heading "Përmbajtja e mesazhit tuaj do të dërgohet si vijon:">
 <!ENTITY status.signed "Nënshkruar numerikisht:">
 <!ENTITY status.encrypted "Koduar:">

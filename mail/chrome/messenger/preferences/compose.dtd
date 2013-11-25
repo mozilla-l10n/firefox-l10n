@@ -1,4 +1,8 @@
-<!ENTITY addExtension.label                   "shto prapashtesë te emri i kartelës">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addExtension.label                   "Shto prapashtesë te emri i kartelës">
 <!ENTITY addExtension.accesskey               "s">
 <!ENTITY directoriesNone.label                 "Asnjë">
 
@@ -15,7 +19,7 @@
 <!ENTITY spellCheckInline1.accesskey          "d">
 <!ENTITY languagePopup.label                  "Gjuhë:">
 <!ENTITY languagePopup.accessKey              "G">
-<!ENTITY downloadDictionaries.label           "Shkarkoni Më tepër Fjalorë">
+<!ENTITY downloadDictionaries.label           "Shkarkoni Më Tepër Fjalorë">
 
 <!ENTITY warnOnSendAccelKey.label             "Ripohoni përdorimin e shkurtoreve për dërgim mesazhi">
 <!ENTITY warnOnSendAccelKey.accesskey         "R">

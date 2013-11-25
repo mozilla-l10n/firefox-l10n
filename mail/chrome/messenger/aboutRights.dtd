@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Mbi Të Drejtat Tuaja">
@@ -14,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName;-i ju jepet sipas kushteve të ">
 <!ENTITY rights.intro-point1b "Lejes Publike Mozilla">
-<!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe shpërndani te të tjerë.  Mirëpresim po ashtu ndryshimet e kodit burim të &brandShortName;-it nga ana juaj, që të përputhet me nevojat tuaja. Leja Publike Mozilla ju jep gjithashtu të drejtën të shpërndani versionet e ndryshuara.">
+<!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe shpërndani te të tjerë. Mirëpresim po ashtu ndryshimet e kodit burim të &brandShortName;-it nga ana juaj, që të përputhet me nevojat tuaja. Leja Publike Mozilla ju jep gjithashtu të drejtën të shpërndani versionet e ndryshuara.">
 
 <!ENTITY rights.intro-point2a "Mozilla nuk ju jep ndonjë të drejtë mbi shenjat tregtare dhe logot e Mozilla-s dhe Thunderbird-it. Të dhëna shtesë mbi Shenjat Tregtare mund të gjenden ">
 <!ENTITY rights.intro-point2b "këtu">
@@ -60,7 +64,7 @@
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; mund t&apos;i ndërpresë apo ndryshojë Shërbimet sipas dëshirës së vet.">
 <!ENTITY rights.webservices-term2 "Mirëpresim nga ana juaj përdorimin e këtyre Shërbimeve me versionin shoqërues të &brandShortName;-it, dhe gëzoni tërë të drejtat e domosdoshme për ta bërë këtë.  &vendorShortName; dhe të lejuarit prej saj ruajnë tërë të drejtat e tjera te Shërbimet.  Këto kushte nuk kanë për qëllim të kufizojnë çfarëdo të drejte të dhënë nën leje burimi të hapur, të zbatueshme mbi &brandShortName;-in dhe versionet përkatëse të kodit burim të &brandShortName;-it.">
-<!ENTITY rights.webservices-term3 "Shërbimet jepen &quot;siç janë.&quot;  &vendorShortName;, kontribuesit e saj, të lejuarit prej saj, dhe shpërndarësit e produkteve të saj, nuk marrin përsipër asnjë garanci, qoftë kjo shprehimisht apo e nënkuptuar, përfshirë pa kufizime, garancira se Shërbimet janë të tregtueshme dhe të përshtatshme për qëllimet tuaja të veçanta.  E merrni vetë përsipër tërë rreziqet e përzgjedhjes së Shërbimeve për qëllimet tuaja, si dhe të cilësisë dhe punimit të Shërbimeve. Disa juridiksione nuk e lejojnë përjashtimin apo kufizimin e garancive të nënkuptuara, ndaj ky mospranim përgjegjësish mund të jetë i pazbatueshëm për rastin tuaj.">
+<!ENTITY rights.webservices-term3 "Shërbimet jepen &quot;siç janë.&quot;  &vendorShortName;, kontribuesit e saj, të lejuarit prej saj, dhe shpërndarësit e produkteve të saj, nuk marrin përsipër asnjë garanci, qoftë kjo shprehimisht apo e nënkuptuar, përfshirë pa kufizime, garancira se Shërbimet janë të tregtueshme dhe të përshtatshme për qëllimet tuaja të veçanta.  I merrni vetë përsipër tërë rreziqet e përzgjedhjes së Shërbimeve për qëllimet tuaja, si dhe të cilësisë dhe punimit të Shërbimeve. Disa juridiksione nuk e lejojnë përjashtimin apo kufizimin e garancive të nënkuptuara, ndaj ky mospranim përgjegjësish mund të jetë i pazbatueshëm për rastin tuaj.">
 <!ENTITY rights.webservices-term4 "Hiq rastet kur e kërkon ligji, &vendorShortName;, kontribuesit e saj, të lejuarit prej saj, dhe shpërndarësit e produkteve të saj nuk do të jenë përgjegjës për asnjë dëm të tërthortë, special, të ardhur si incident, si pasojë, si ndëshkim, ose si shembull, që ka rrjedhur prej ose lidhet në çfarëdo mënyre me përdorimin e &brandShortName;-it dhe Shërbimeve.  Detyrimi kolektiv sipas këtyre kushteve nuk ka për të tejkaluar vlerën $500 (pesëqind dollarë). Disa juridiksione nuk e lejojnë përjashtimin ose kufizimin e disa dëmeve, ndaj ky përjashtim dhe kufizim mund të jetë i pazbatueshëm për rastin tuaj.">
 <!ENTITY rights.webservices-term5 "&vendorShortName;, kohë pas kohe, mund t&apos;i përditësojë këto kushte sipas nevojës. Këto kushte nuk mund të ndryshohen apo bëhen të pavlefshme pa një marrëveshje me shkrim nga &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "këto kushte administrohen nga ligjet e shtetit të Kalifornisë, Sh.B.A., përjashto përplasje të tyre me dispozita ligjore. Nëse çfarëdo pjese e këtyre kushteve shihet si e pavlefshme ose se nuk mund detyrohet, pjesët e mbetura do të mbesin në fuqi deri më një. Në rast përplasjesh midis versionit të përkthyer të këtyre kushteve dhe versionit në gjuhën Angleze, kontrollin e merr versioni në gjuhën Angleze.">

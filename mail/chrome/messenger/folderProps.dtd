@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label           "Veti">
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
 <!ENTITY folderCharsetTab.label                  "Kodim Shkronjash Parazgjedhje:">
@@ -64,3 +68,9 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Përfshiji mesazhet e kësaj dosjeje në përfundime Kërkimi Global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
 
+<!ENTITY numberOfMessages.label                  "Numër mesazhesh:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "i panjohur">
+<!ENTITY sizeOnDisk.label                        "Madhësi në disk:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "e panjohur">

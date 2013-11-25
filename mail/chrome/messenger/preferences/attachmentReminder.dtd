@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title   "Fjalëkyça Kujtuesi Bashkangjitjesh">
 <!ENTITY attachKeywordText.label          "&brandShortName;-i do t&apos;ju sinjalizojë rreth bashkangjitjesh që mungojnë, po qe se jeni duke dërguar një e-mail që përmban ndonjë nga këta fjalëkyça.">
 <!ENTITY addKeywordButton.label           "Shtoni">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Rregullime">
@@ -17,13 +21,13 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Vëzhgime të Përfunduara">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Përfundime Vëzhgimi">
 <!ENTITY testpilot.studiesWindow.settings.label         "Rregullime">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutem prisni…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutem, prisni…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Të dhëna të Papërpunuara">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Mbylle">
+<!ENTITY testpilot.notification.close.tooltip            "Mbylleni">
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Aktivizo Vëzhgime Përdoruesi">

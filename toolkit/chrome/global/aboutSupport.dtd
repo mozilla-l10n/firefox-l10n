@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Të dhëna Diagnostikimi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -17,24 +21,49 @@
 <!ENTITY aboutSupport.appBasicsName "Emër">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsProfileDir "Drejtoria e Profilit">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosje Profili">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Shtojca të Aktivizuara">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Formësim Montimi">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agjent Përdoruesi">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Njoftime Vithisjesh">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Përdorim Kujtese">
 
-<!ENTITY aboutSupport.show.label "Hap Dosjen Që e Përmban">
+<!ENTITY aboutSupport.showDir.label "Hap Drejtorinë">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Shfaqe te Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Shfaq Drejtorinë">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Parapëlqime të Ndryshuara">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Parapëlqime të Rëndësishme të Ndryshuara">
 <!ENTITY aboutSupport.modifiedPrefsName "Emër">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vlerë">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Parapëlqime për user.js">
+<!ENTITY aboutSupport.userJSDescription "Dosja juaj e profilit përmban një <a id='prefs-user-js-link'>kartelë user.js</a>, e cila përfshin parapëlqime që nuk janë krijuar nga &brandShortName;-i.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafikë">
-<!ENTITY aboutSupport.appBasicsUserAgent "Agjent Përdoruesi">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC Rritës">
+
+<!ENTITY aboutSupport.a11yTitle "Përdorshmëri">
+<!ENTITY aboutSupport.a11yActivated "E aktivizuar">
+<!ENTITY aboutSupport.a11yForceDisabled "Parandaloje Përdorshmërinë">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versione Librarie">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
 <!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopjoje krejt në të papastër">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopjoje tekstin te e papastra">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopjo të dhëna të papërpunuara te e papastra">

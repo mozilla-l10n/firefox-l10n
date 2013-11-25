@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Rregulloni &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
@@ -11,28 +15,31 @@
 <!ENTITY manageAccount.label          "Administroni Llogarinë">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Shihni Kuotat">
-<!ENTITY changePassword.label         "Ndryshoni Fjalëkalimin">
-<!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
-<!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
-<!ENTITY addDevice.label              "Shtoni një Pajisje">
+<!ENTITY changePassword2.label        "Ndryshoni Fjalëkalimin…">
+<!ENTITY myRecoveryKey.label          "Kyçi Im për Riparimin">
+<!ENTITY resetSync2.label             "Rirregulloni Sync-un…">
+
+<!ENTITY pairDevice.label             "Përshoqëroni një Pajisje">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
-<!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY deactivateDevice.label       "Çaktivizoje Këtë Pajisje">
+<!ENTITY syncDeviceName.label       "Emri i Pajisjes:">
+<!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">
-<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
+<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label          "Skedat e Mia">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Fjalëkalimet e Mij">
+<!ENTITY engine.passwords.label     "Fjalëkalimet e Mi">
 <!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Skedat">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kushtet e Shërbimit">
-<!ENTITY prefs.ppLink.label         "Rregulla Vetësie">
+<!ENTITY prefs.ppLink.label         "Rregulla Privatësie">

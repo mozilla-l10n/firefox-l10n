@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Rregullime Llogarie">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adresë për Përgjigju:">
 <!ENTITY replyTo.accesskey "u">
+<!ENTITY replyTo.placeholder "Marrësit do të përgjigjen te kjo adresë tjetër">
 <!ENTITY organization.label "Organizëm:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst nënshkrimi:">

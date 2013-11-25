@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Editor Smiley Overlay.
-   -
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2003
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -    Neil Rashbrook <neil@parkwaycc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smiley">
@@ -41,50 +8,50 @@
 
 <!ENTITY smiley1Cmd.label "Buzëqeshje">
 <!ENTITY smiley1Cmd.accesskey "S">
-<!ENTITY smiley1Cmd.tooltip "Fut një fytyrë që buzëqesh">
+<!ENTITY smiley1Cmd.tooltip "Futni një fytyrë që buzëqesh">
 <!ENTITY smiley2Cmd.label "I vrenjtur">
 <!ENTITY smiley2Cmd.accesskey "V">
-<!ENTITY smiley2Cmd.tooltip "Fut një fytyrë të vrenjtur">
+<!ENTITY smiley2Cmd.tooltip "Futni një fytyrë të vrenjtur">
 <!ENTITY smiley3Cmd.label "Syshkelur">
 <!ENTITY smiley3Cmd.accesskey "Y">
-<!ENTITY smiley3Cmd.tooltip "Fyt një fytyrë që shkel syrin">
+<!ENTITY smiley3Cmd.tooltip "Futni një fytyrë që shkel syrin">
 <!ENTITY smiley4Cmd.label "Gjuhëpërjashta">
 <!ENTITY smiley4Cmd.accesskey "G">
-<!ENTITY smiley4Cmd.tooltip "Fut një fytyrë gjuhëpërjashta">
+<!ENTITY smiley4Cmd.tooltip "Futni një fytyrë gjuhëpërjashta">
 <!ENTITY smiley5Cmd.label "I zgërdhirë">
 <!ENTITY smiley5Cmd.accesskey "Z">
-<!ENTITY smiley5Cmd.tooltip "Fut një fytyrë që zgërdhihet">
+<!ENTITY smiley5Cmd.tooltip "Futni një fytyrë që zgërdhihet">
 <!ENTITY smiley6Cmd.label "I turpëruar">
 <!ENTITY smiley6Cmd.accesskey "T">
-<!ENTITY smiley6Cmd.tooltip "Fut një fytyrë të turpëruar">
+<!ENTITY smiley6Cmd.tooltip "Futni një fytyrë të turpëruar">
 <!ENTITY smiley7Cmd.label "I pavendosur">
 <!ENTITY smiley7Cmd.accesskey "P">
-<!ENTITY smiley7Cmd.tooltip "Fut një fytyrë të pavendosur">
+<!ENTITY smiley7Cmd.tooltip "Futni një fytyrë të pavendosur">
 <!ENTITY smiley8Cmd.label "I befasuar">
 <!ENTITY smiley8Cmd.accesskey "B">
-<!ENTITY smiley8Cmd.tooltip "Fut një fytyrë të befasuar">
+<!ENTITY smiley8Cmd.tooltip "Futni një fytyrë të befasuar">
 <!ENTITY smiley9Cmd.label "Puthje">
 <!ENTITY smiley9Cmd.accesskey "U">
-<!ENTITY smiley9Cmd.tooltip "Fut një fytyrë që puth">
+<!ENTITY smiley9Cmd.tooltip "Futni një fytyrë që puth">
 <!ENTITY smiley10Cmd.label "Bërtitës">
 <!ENTITY smiley10Cmd.accesskey "R">
-<!ENTITY smiley10Cmd.tooltip "Fut një fytyrë që bërtet">
+<!ENTITY smiley10Cmd.tooltip "Futni një fytyrë që bërtet">
 <!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley11Cmd.accesskey "C">
-<!ENTITY smiley11Cmd.tooltip "Fut një fytyrë cool">
+<!ENTITY smiley11Cmd.tooltip "Futni një fytyrë cool">
 <!ENTITY smiley12Cmd.label "Money-Mouth">
 <!ENTITY smiley12Cmd.accesskey "H">
-<!ENTITY smiley12Cmd.tooltip "Fut një fytyrë money-mouth">
+<!ENTITY smiley12Cmd.tooltip "Futni një fytyrë money-mouth">
 <!ENTITY smiley13Cmd.label "Foot-in-Mouth">
 <!ENTITY smiley13Cmd.accesskey "o">
-<!ENTITY smiley13Cmd.tooltip "Fut një fytyrë foot-in-mouth">
+<!ENTITY smiley13Cmd.tooltip "Futni një fytyrë foot-in-mouth">
 <!ENTITY smiley14Cmd.label "I pafajshëm">
 <!ENTITY smiley14Cmd.accesskey "I">
-<!ENTITY smiley14Cmd.tooltip "Fut një fytyrë të pafajshme">
+<!ENTITY smiley14Cmd.tooltip "Futni një fytyrë të pafajshme">
 <!ENTITY smiley15Cmd.label "Qaraman">
 <!ENTITY smiley15Cmd.accesskey "Q">
-<!ENTITY smiley15Cmd.tooltip "Fut një fytyrë qaramani">
+<!ENTITY smiley15Cmd.tooltip "Futni një fytyrë qaramani">
 <!ENTITY smiley16Cmd.label "Buzëqepur">
 <!ENTITY smiley16Cmd.accesskey "E">
-<!ENTITY smiley16Cmd.tooltip "Fut një fytyrë buzëqepur">
-<!ENTITY SmileButton.tooltip "Fut një &quot;smiley&quot;">
+<!ENTITY smiley16Cmd.tooltip "Futni një fytyrë buzëqepur">
+<!ENTITY SmileButton.tooltip "Futni një &quot;smiley&quot;">

@@ -1,0 +1,132 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  splash_settingup "Rregullimi i &brandShortName;-it tuaj">
+<!ENTITY  splash_bookmarks_history "Po përditësojmë faqerojtësit dhe historikun tuaj, çka mund të marrë një a dy minuta.">
+
+<!ENTITY pref_plugins "Shtojca">
+<!ENTITY pref_plugins_enabled "Aktive">
+<!ENTITY pref_plugins_tap_to_play "Prekeni që të luhet">
+<!ENTITY pref_plugins_disabled "E çaktivizuar">
+
+<!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
+<!ENTITY  error_loading_file "Ndodhi një gabim kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;-ut">
+
+<!ENTITY  awesomebar_all_pages_title "Site-et Kryesues">
+<!ENTITY  awesomebar_bookmarks_title "Faqerojtësa">
+<!ENTITY  awesomebar_history_title "Historik">
+<!ENTITY  awesomebar_search_engine "Kërkoni për \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh">
+<!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
+<!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
+<!ENTITY  crash_include_url "Përfshije adresën e faqes">
+<!ENTITY  crash_close_label "Mbylle">
+<!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
+<!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
+<!ENTITY  exit_label "Dil">
+<!ENTITY  continue_label "Vazhdo">
+
+<!ENTITY  launcher_shortcuts_title "Zbatime Web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nuk u gjetën zbatime web">
+
+<!ENTITY choose_file "Zgjidhni Kartelë">
+
+<!ENTITY awesomebar_default_text "Jepni Term Kërkimi ose Adresë">
+
+<!ENTITY remote_tabs "Skeda të Njëkohësuara">
+<!ENTITY remote_tabs_show_all "Shfaqi krejt skedat">
+
+<!ENTITY bookmark "Faqeruaje">
+<!ENTITY bookmark_added "Faqerojtësi u shtua">
+<!ENTITY bookmark_removed "Faqerojtësi u hoq">
+<!ENTITY bookmark_updated "Faqeruajtësi u përditësua">
+
+<!ENTITY history_today_section "Sot">
+<!ENTITY history_yesterday_section "Dje">
+<!ENTITY history_week_section "7 ditë më parë">
+<!ENTITY history_older_section "Më të vjetër se 7 ditë">
+
+<!ENTITY reload "Ringarkoje">
+<!ENTITY forward "Përpara">
+
+<!ENTITY new_tab "Skedë e Re">
+<!ENTITY new_tab_opened "U hap skedë e re">
+
+<!ENTITY settings "Rregullime">
+<!ENTITY settings_title "Rregullime">
+<!ENTITY pref_category_general "Të përgjithshme">
+<!ENTITY pref_category_privacy "Privatësi &amp; Siguri">
+<!ENTITY pref_category_content "Lëndë">
+<!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
+<!ENTITY pref_do_not_track "Thuaju site-ve të mos më gjurmojnë">
+<!ENTITY pref_telemetry "Dërgo të dhëna funksionimi">
+<!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
+<!ENTITY pref_cookies "Aktivizoni cookies">
+<!ENTITY pref_char_encoding "Kodim shkronjash">
+<!ENTITY pref_char_encoding_on "Shfaqe menunë">
+<!ENTITY pref_char_encoding_off "Mos e shfaq menunë">
+<!ENTITY pref_clear_history "Pastro historikun">
+<!ENTITY pref_clear_history_confirm "Historiku i shfletimit do të fshihet">
+<!ENTITY pref_clear_private_data "Pastro të dhëna vetjake">
+<!ENTITY pref_clear_private_data_confirm "Rregullimet për shfletimin, përfshi fjalëkalimet dhe cookie-t, do të fshihen">
+<!ENTITY pref_text_size "Madhësi teksti">
+<!ENTITY pref_font_size_tiny "Shumë të vogla">
+<!ENTITY pref_font_size_small "Të vogla">
+<!ENTITY pref_font_size_medium "Të mesme">
+<!ENTITY pref_font_size_large "Të mëdha">
+<!ENTITY pref_font_size_xlarge "Shumë të mëdha">
+<!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
+<!ENTITY pref_sync "Njëkohëso">
+
+<!ENTITY quit "Dil">
+
+<!ENTITY addons "Shtesa">
+<!ENTITY downloads "Shkarkime">
+<!ENTITY char_encoding "Kodim Shkronjash">
+
+<!ENTITY share "Ndajeni me të tjerët">
+<!ENTITY share_title "Ndajeni me të tjerët përmes">
+<!ENTITY save_as_pdf "Ruaje si PDF">
+
+<!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
+<!ENTITY contextmenu_remove_bookmark "Hiqe">
+<!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
+<!ENTITY contextmenu_share "Ndajeni me të tjerët">
+<!ENTITY contextmenu_edit_bookmark "Përpunojeni">
+
+<!ENTITY bookmark_edit_title "Përpunoni Faqerojtësin">
+<!ENTITY bookmark_edit_name "Emër">
+<!ENTITY bookmark_edit_location "Vend">
+<!ENTITY bookmark_edit_keyword "Fjalëkyç">
+
+
+<!ENTITY site_settings_title        "Pastroji Rregullimet për Site-e">
+<!ENTITY site_settings_cancel       "Anuloje">
+<!ENTITY site_settings_clear        "Pastroje">
+<!ENTITY site_settings_no_settings  "Nuk ka rregullime, që të mund të pastrohet ndonjë.">
+
+<!ENTITY masterpassword_create_title "Krijo Fjalëkalim të Përgjithshëm">
+<!ENTITY masterpassword_remove_title "Hiqe Fjalëkalimin e Përgjithshëm">
+<!ENTITY masterpassword_password "Fjalëkalim">
+<!ENTITY masterpassword_confirm "Ripohoni fjalëkalimin">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Anuloje">
+
+<!ENTITY abouthome_addons_title "Shtesa për &brandShortName;-in tuaj">
+<!ENTITY abouthome_addons_browse "Shfletoni krejt shtesat për &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Skedat tuaja të herës së fundit">
+<!ENTITY abouthome_last_tabs_open "Hap krejt skedat e herës së fundit">
+<!ENTITY abouthome_top_sites_title "\&quot;Site\&quot;-et Kryesues">
+<!ENTITY abouthome_top_sites_browse "Shfletoni krejt \&quot;site\&quot;-et tuaj kryesues">
+<!ENTITY abouthome_no_top_sites "Nuk keni ende \&quot;site\&quot;-e kryesues. Që të filloni shfletimin prekni Shtyllën e Titullit.">
+<!ENTITY abouthome_about_sync "Rregulloni Firefox Sync-un që të mund të përdorni faqerojtësit, historikun dhe skedat prej pajisjeve tuaja të tjera">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Zgjidhni Kartelë">
+<!ENTITY filepicker_audio_title "Zgjidhni ose regjistroni një tingull">
+<!ENTITY filepicker_image_title "Zgjidhni ose bëni një foto">
+<!ENTITY filepicker_video_title "Zgjidhni ose regjistroni një video">

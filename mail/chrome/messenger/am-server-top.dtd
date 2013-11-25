@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Depozitim Mesazhesh">
 <!ENTITY securitySettings.label "Rregullime Sigurie">
 <!ENTITY serverSettings.label "Rregullime Shërbyesi">
 <!ENTITY serverType.label "Lloj Shërbyesi:">
@@ -51,7 +56,7 @@
 	 of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
-<!ENTITY maxMessagesStart.accesskey "p">
+<!ENTITY maxMessagesStart.accesskey "P">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mesazhe">
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
@@ -78,3 +83,6 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+
+<!ENTITY accountTitle.label "Rregullime Llogarie">
+<!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale.  Nuk ka identitete që i përshoqërohen asaj.">

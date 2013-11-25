@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Libër Adresash">
 
 <!-- File Menu -->
@@ -66,13 +70,18 @@
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Panele">
 <!ENTITY viewToolbarsMenu.accesskey                     "P"> 
+<!ENTITY menubarCmd.label                               "Shtyllë Menush">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Adresash">
 <!ENTITY showAbToolbarCmd.accesskey                     "L">
-
 <!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
 <!ENTITY printPreviewContactCmd.accesskey               "a">
-<!ENTITY showContactPane.label                          "Kuadrat Përmbledhjeje Kontakti">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY showDirectoryPane.label                        "Kuadrat Liste">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY layoutMenu.label                               "Skemë">
+<!ENTITY layoutMenu.accesskey                           "Ë">
+<!ENTITY showContactPane2.label                          "Kuadrat Kontakti">
+<!ENTITY showContactPane2.accesskey                      "u">
 
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "G">
@@ -80,8 +89,10 @@
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
-<!ENTITY firstLastCmd.label                             "Emër, Mbiemër">
-<!ENTITY firstLastCmd.accesskey                         "E"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Emër Mbiemër">
+<!ENTITY firstLastCmd2.accesskey                        "E"> 
 <!ENTITY lastFirstCmd.label                             "Mbiemër, Emër">
 <!ENTITY lastFirstCmd.accesskey                         "M">
 <!ENTITY displayNameCmd.label                           "Emër i Shfaqur">
@@ -113,7 +124,7 @@
 <!ENTITY newmsgButton.label                             "Shkruani">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Mesazh i Atypëratyshëm">
-<!ENTITY newIM.accesskey                                "y">
+<!ENTITY newIM.accesskey                                "M">
 <!ENTITY deleteButton2.label                            "Fshije">
 <!ENTITY deleteButton2.accesskey                        "F">
 
@@ -121,7 +132,7 @@
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
 <!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
-<!ENTITY deleteButton2.tooltip                          "Fshije objektin e përzgjedhur">
+<!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Libra Adresash">
@@ -142,8 +153,8 @@
 <!ENTITY GeneratedName.accesskey                        "E">
 <!ENTITY PrimaryEmail.label                             "Email-esh">
 <!ENTITY PrimaryEmail.accesskey                         "m">
-<!ENTITY ScreenName.label                               "Emrash në Ekran">
-<!ENTITY ScreenName.accesskey                           "a">
+<!ENTITY ChatName.label                                 "Emrash Fjalosjeje">
+<!ENTITY ChatName.accesskey                             "F">
 <!ENTITY Company.label                                  "Organizmash">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Nofkash">
@@ -178,6 +189,7 @@
 <!ENTITY other.heading                                  "Tjetër">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "E punës">
+<!ENTITY chat.heading                                   "Fjalosje">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
 <!ENTITY addresses.heading                              "Adresë">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label             "Formatim">
 <!ENTITY itemTags.label                   "Etiketa">
 <!ENTITY style.label                      "Stil:">
@@ -38,7 +42,7 @@
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Shkronja">
 <!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
-<!ENTITY defaultFont.accesskey   "p">
+<!ENTITY defaultFont.accesskey   "a">
 <!ENTITY defaultSize.label       "Madhësi:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "S">

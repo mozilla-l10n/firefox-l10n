@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY closeCmd.accesskey "M">
 <!ENTITY closeCmd.commandkey "W">
 <!ENTITY closeCmd.label "Mbylle">
@@ -38,7 +42,7 @@
 <!ENTITY findAgainCmd.label  "Gjeje Sërish">
 <!ENTITY findOnCmd.label     "Gjeni në Këtë Faqe…">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "G">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY reloadCmd.label "Ringarkoje">
@@ -58,3 +62,8 @@
 <!ENTITY forwardCmd.accesskey "P">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
+<!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyEmailCmd.label "Kopjo Adresën Email">
+<!ENTITY copyEmailCmd.accesskey "E">
