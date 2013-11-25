@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Pagina verwijderd">
 
-<!ENTITY bookmark_add "Een bladwijzer toevoegen">
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
 <!ENTITY bookmark_edit_name "Naam">
 <!ENTITY bookmark_edit_location "Locatie">
