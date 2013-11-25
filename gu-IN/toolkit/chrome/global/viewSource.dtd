@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "નો સ્ત્રોત:">
+<!ENTITY mainWindow.preface "સ્ત્રોત: ">
 <!ENTITY fileMenu.label "ફાઇલ">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "પાનું આ નામથી સંગ્રહો...">
