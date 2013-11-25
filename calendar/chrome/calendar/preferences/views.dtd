@@ -8,19 +8,22 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Geral">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Vista diária e semanal">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vista do Dia e da Semana">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multi-semanal">
-<!ENTITY pref.calendar.view.workweek.caption "Semana de trabalho">
+<!ENTITY pref.calendar.view.workweek.caption "Semana de Trabalho">
+
 <!ENTITY pref.weekstarts.label "Início da semana:">
 <!ENTITY pref.weekstarts.accesskey "I">
 <!ENTITY pref.daysoff.label "Incluir estes dias na semana de trabalho:">
-<!ENTITY pref.calendar.view.daystart.label "Dia inicia:">
+
+<!ENTITY pref.calendar.view.daystart.label "Dia começa a:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
-<!ENTITY pref.calendar.view.dayend.label "Dia termina:">
+<!ENTITY pref.calendar.view.dayend.label "Dia finaliza a:">
 <!ENTITY pref.calendar.view.dayend.accesskey "f">
 <!ENTITY pref.calendar.view.visiblehours.label "Mostrar:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "horas de cada vez">
+
 <!ENTITY pref.numberofweeks.label "Número de semanas a mostrar (incluindo semanas anteriores):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Semanas anteriores a mostrar:">

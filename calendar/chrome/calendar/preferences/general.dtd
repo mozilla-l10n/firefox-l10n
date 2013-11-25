@@ -7,15 +7,16 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "Definições gerais" >
-<!ENTITY pref.dateformat.label "Formato da data:" >
+<!ENTITY pref.mainbox.label "Definições Gerais" >
+<!ENTITY pref.dateformat.label "Formato de texto da Data:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
-<!ENTITY pref.defaultlength.label "Duração pré-definida do evento:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Duração pré-definida da pausa:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "s">
+<!ENTITY pref.defaultlength.label "Duração Pré-definida do Evento:" >
+<!ENTITY pref.defaultlength.accesskey "D">
+<!ENTITY pref.defaultsnoozelength.label "Duração Pré-definida do Snooze:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
+
 <!ENTITY pref.accessibility.label "Acessibilidade" >
-<!ENTITY pref.systemcolors.label "Otimizar cores para acessibilidade" >
+<!ENTITY pref.systemcolors.label "Optimizar cores para acessibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">
