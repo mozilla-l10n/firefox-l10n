@@ -1,11 +1,8 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # janimo <jani@ubuntu.com>
 #
 -->
@@ -13,8 +10,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
@@ -26,9 +28,9 @@
 
 <!ENTITY editMenu.label          "Editare">
 <!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Desfă">
+<!ENTITY undoCmd.label            "Anulează">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY undoCmd.accesskey          "l">
 <!ENTITY redoCmd.label            "Refă">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">

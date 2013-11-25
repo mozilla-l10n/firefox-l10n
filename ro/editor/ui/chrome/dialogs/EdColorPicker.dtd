@@ -1,7 +1,14 @@
 <!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -14,7 +21,7 @@
 <!ENTITY setColor1.label "Apăsați pe o culoare sau">
 <!ENTITY setColor2.label "introduceți o culoare HTML">
 <!ENTITY setColor2.accessKey "h">
-<!ENTITY setColorExample.label "(ex.: &quot;#0000ff&quot; sau &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">
 <!ENTITY default.label "Implicit">
 <!ENTITY default.accessKey "I">
 <!ENTITY palette.label "Paleta:">

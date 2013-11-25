@@ -1,7 +1,14 @@
 <!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -13,7 +20,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Server repertoar LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Alegeți un repertoar LDAP:">
+<!ENTITY directoriesText.label     "Alegeți un server de directoare LDAP:">
 <!ENTITY directoriesText.accesskey "A">
 <!ENTITY addDirectory.label        "Adaugă">
 <!ENTITY addDirectory.accesskey    "A">

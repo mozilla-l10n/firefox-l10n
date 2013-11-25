@@ -1,6 +1,7 @@
 <!--
 # Translator(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -8,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -26,9 +28,9 @@
 <!ENTITY cut.label              "Taie">
 <!ENTITY copy.label             "Copiază">
 <!ENTITY paste.label            "Lipește">
-<!ENTITY print.label            "Imprimă">
+<!ENTITY print.label            "Tipărește">
 <!ENTITY find.label             "Caută">
-<!ENTITY image.label            "imagine">
+<!ENTITY image.label            "Imagine">
 <!ENTITY hline.label            "Linie">
 <!ENTITY table.label            "Tabel">
 <!ENTITY link.label             "Legătură">

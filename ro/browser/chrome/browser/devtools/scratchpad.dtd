@@ -46,7 +46,7 @@
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Deschide un fișier…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.accesskey        "u">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Deschide fișiere recente">
@@ -78,7 +78,7 @@
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Afișează">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.accesskey            "f">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -111,8 +111,8 @@
 <!ENTITY helpMenuWin.label            "Ajutor">
 <!ENTITY helpMenuWin.accesskey        "j">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+<!ENTITY documentationLink.label      "Ajutor pentru Editor Javascript pe MDN">
+<!ENTITY documentationLink.accesskey  "A">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
@@ -121,9 +121,9 @@
 <!ENTITY resetContext2.label          "Resetează variabilele">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+<!ENTITY reloadAndRun.label           "Reîncarcă și execută">
+<!ENTITY reloadAndRun.accesskey       "R">
+<!ENTITY reloadAndRun.key             "R">
 
 <!ENTITY executeMenu.label            "Execută">
 <!ENTITY executeMenu.accesskey        "x">

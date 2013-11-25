@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
@@ -9,6 +5,10 @@
 # evinteler <emil_vinteler2000@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # secarica <orice@secarica.ro>
+# Marin Bînzari <spartakusmd@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# janimo <jani@ubuntu.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -16,8 +16,13 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonamente la fluxuri">
 <!ENTITY subscriptionDesc.label      "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
@@ -25,18 +30,18 @@
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.label          "URL flux:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+<!ENTITY feedLocation.placeholder    "Introduceți un url de flux valid pentru a fi adăugat">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Stochează articolele în:">
+<!ENTITY feedFolder.accesskey        "s">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
+<!ENTITY quickMode.accesskey         "u">
 
-<!ENTITY locationValidate.label      "Validate">
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY locationValidate.label      "Validează">
+<!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">
@@ -48,6 +53,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportă">
 <!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.tooltip   "Exportați fluxuri cu structură de dosar; ctrl clic sau ctrl enter pentru a exporta fluxuri ca o listă">
 
 <!ENTITY cmd.close.commandKey        "w">
 

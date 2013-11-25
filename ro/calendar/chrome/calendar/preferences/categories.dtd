@@ -3,12 +3,14 @@
 #
 # Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Marin Bînzari <spartakusmd@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -30,7 +32,7 @@
 <!ENTITY pref.categories.removeButton.accesskey "r">
 <!ENTITY pref.categories.name.label "Nume">
 <!ENTITY pref.categories.color.label "Culoare">
-<!ENTITY pref.categories.usecolor.label "Colorează">
+<!ENTITY pref.categories.usecolor.label "Folosește culoarea">
 <!ENTITY pref.categories.none.label "(niciuna)">
 <!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta.\n Doriți să o suprascrieți?">
 <!ENTITY pref.categories.overwrite.title "Avertisment: nume duplicat">

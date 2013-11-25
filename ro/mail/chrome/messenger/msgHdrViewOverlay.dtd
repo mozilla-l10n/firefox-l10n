@@ -5,6 +5,9 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # secarica <orice@secarica.ro>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# nicubunu <nicubunu@gmail.com>
 #
 -->
 <!--
@@ -12,30 +15,31 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Către">
-<!ENTITY fromField3.label "De la">
-<!ENTITY senderField3.label "Expeditor">
-<!ENTITY organizationField3.label "Organizație">
-<!ENTITY replyToField3.label "Răspuns către">
+<!ENTITY toField4.label "Către">
+<!ENTITY fromField4.label "De la">
+<!ENTITY senderField4.label "Expeditor">
+<!ENTITY organizationField4.label "Organizația">
+<!ENTITY replyToField4.label "Răspuns la">
 
-<!ENTITY subjectField3.label "Subiect">
-<!ENTITY ccField3.label "Copie">
-<!ENTITY bccField3.label "Copie ascunsă">
-<!ENTITY newsgroupsField3.label "Grupuri de discuții ">
-<!ENTITY followupToField3.label "Urmare la">
-<!ENTITY tagsHdr3.label "Etichete">
-<!ENTITY dateField3.label "Data">
-<!ENTITY userAgentField3.label "Agent de utilizator">
-<!ENTITY referencesField3.label "Referințe ">
-<!ENTITY messageIdField3.label "ID-ul mesajului">
-<!ENTITY inReplyToField3.label "Ca răspuns la">
-<!ENTITY originalWebsite3.label "Sait web ">
+<!ENTITY subjectField4.label "Subiect">
+<!ENTITY ccField4.label "Copie">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Grupuri de discuții">
+<!ENTITY followupToField4.label "Răspundeți la">
+<!ENTITY tagsHdr4.label "Etichete">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Agent utilizator">
+<!ENTITY referencesField4.label "Referințe">
+<!ENTITY messageIdField4.label "ID mesaj">
+<!ENTITY inReplyToField4.label "Ca răspuns la">
+<!ENTITY originalWebsite4.label "Sait web">
 
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">
@@ -43,13 +47,14 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
 <!ENTITY hdrSmartReplyButton1.label "Răspuns rapid">
 <!ENTITY hdrReplyButton1.label "Răspunde">
-<!ENTITY hdrReplyButton1.tooltip "Răspunde acestui mesaj">
+<!ENTITY hdrReplyButton2.tooltip "Răspunde expeditorului acestui mesaj">
 <!ENTITY hdrReplyAllButton1.label "Răspunde tuturor">
 <!ENTITY hdrReplyAllButton1.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.label "Urmărește">
+<!ENTITY hdrFollowupButton1.tooltip "Postează un răspuns la acest grup de discuții">
+<!ENTITY hdrMenuForwardButton.label "Înaintează ca">
 <!ENTITY hdrForwardButton1.label "Înaintează">
 <!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
 <!ENTITY hdrJunkButton1.label "Nesolicitat">
@@ -83,6 +88,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Tipărește…">
 <!ENTITY otherActionsPrint1.accesskey "p">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Deschide">

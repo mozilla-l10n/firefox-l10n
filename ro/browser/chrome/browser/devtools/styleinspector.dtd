@@ -2,8 +2,8 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# alexef <alex@eftimie.ro>
 # raulmalea <raul.malea@gmail.com>
+# alexef <alex@eftimie.ro>
 #
 -->
 <!--
@@ -42,15 +42,7 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Nicio proprietate CSS găsită.">
 
-<!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch): For each style
-  -  property the panel shows the rules containing that property. For every
-  -  rule, the rule status is also displayed: a rule can be the best match, a
-  -  match or a parent match. -->
-<!ENTITY bestMatch             "Cea mai bună potrivire">
-<!ENTITY matched               "Potrivire">
-<!ENTITY parentMatch           "Potrivire cu părintele">
-
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Calculat">
+<!ENTITY computedViewTitle     "Evaluat">
 <!ENTITY ruleViewTitle         "Reguli">
 

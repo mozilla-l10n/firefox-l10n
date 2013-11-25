@@ -76,9 +76,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Resetează toate suplimentele la actualizare automată">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Resetează toate suplimentele să se actualizeze automat">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Resetează toate suplimentele la actualizare manuală">
+<!ENTITY updates.resetUpdatesToManual.label          "Resetează toate suplimentele să se actualizeze manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Se actualizează suplimentele">
 <!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
@@ -109,6 +109,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "P">
 <!ENTITY cmd.disableTheme.label               "Nu mai purta tema">
 <!ENTITY cmd.disableTheme.accesskey           "N">
+<!ENTITY cmd.askToActivate.label              "Întreabă pentru activare">
+<!ENTITY cmd.askToActivate.tooltip            "Întreabă de fiecare dată pentru a utiliza acest supliment">
+<!ENTITY cmd.alwaysActivate.label             "Întotdeauna activat">
+<!ENTITY cmd.alwaysActivate.tooltip           "Utilizează întotdeauna această extensie">
+<!ENTITY cmd.neverActivate.label              "Niciodată activat">
+<!ENTITY cmd.neverActivate.tooltip            "Nu utiliza niciodată această extensie">
+<!ENTITY cmd.stateMenu.tooltip                "Schimbă unde acest supliment rulează">
 <!ENTITY cmd.installAddon.label               "Instalează">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Elimină">
@@ -217,7 +224,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor asupra ediției.">
 
-<!ENTITY addon.createdBy.label                "De către ">
+<!ENTITY addon.createdBy.label                "Creat de ">
 
 <!ENTITY eula.title                           "Acord de licențiere cu utilizatorul">
 <!ENTITY eula.width                           "560px">

@@ -1,21 +1,26 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # iulianv <iulianv@email.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
+# xdaiana <xdaiana@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Reguli filtrare">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nume filtru:">
@@ -31,14 +36,18 @@
 <!ENTITY highestPriorityCmd.label "Cea mai mare">
 
 <!ENTITY contextDesc.label "Aplică filtrul când:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Se verifică mesajele">
+<!ENTITY contextIncomingMail.label "Obține mail nou:">
+<!ENTITY contextIncomingMail.accesskey "m">
 <!ENTITY contextManual.label "Rulează manual">
-<!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
-<!ENTITY contextPostPlugin.label "Se verifică mesajele (după clasificare)">
-<!ENTITY contextPostPluginBoth.label "Se verifică mesajele (după clasificare) sau rulare manuală">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj spam">
+<!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj spam">
+
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
+
+<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrder.label "Vedeți ordinea de execuție">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mută mesajul în">
@@ -46,7 +55,7 @@
 <!ENTITY forwardTo.label "Înaintează mesajul către">
 <!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
 <!ENTITY markMessageRead.label "Marchează ca citit">
-<!ENTITY markMessageUnread.label "Mark As Unread">
+<!ENTITY markMessageUnread.label "Marchează ca necitit">
 <!ENTITY markMessageStarred.label "Adaugă steluță">
 <!ENTITY setPriority.label "Schimbă prioritatea în">
 <!ENTITY addTag.label "Etichetează mesaj">
@@ -58,4 +67,15 @@
 <!ENTITY ignoreSubthread.label "Ignoră conversația din interior">
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
+
+<!ENTITY addAction.tooltip "Adăugați o secțiune nouă">
+<!ENTITY removeAction.tooltip "Elimină această acțiune">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
 

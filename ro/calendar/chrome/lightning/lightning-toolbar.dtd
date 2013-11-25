@@ -3,12 +3,16 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# strainu <narro@strainu.ro>
+# ed62 <eduard.pintilie@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -16,35 +20,39 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Bară de unelte pentru calendar">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Bara de unelte pentru sarcini">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
-<!ENTITY lightning.toolbar.sync.label "Sincronizează">
-<!ENTITY lightning.toolbar.delete.label "Delete">
-<!ENTITY lightning.toolbar.edit.label "Edit">
-<!ENTITY lightning.toolbar.gototoday.label "Go to Today">
-<!ENTITY lightning.toolbar.print.label "Print">
+<!ENTITY lightning.toolbar.sync.label "Sincronizare">
+<!ENTITY lightning.toolbar.delete.label "Ștergere">
+<!ENTITY lightning.toolbar.edit.label "Editare">
+<!ENTITY lightning.toolbar.gototoday.label "Mergi la ziua de azi">
+<!ENTITY lightning.toolbar.print.label "Tipărire">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Mail">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "Calendar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
-<!ENTITY lightning.toolbar.task.label         "Tasks">
-<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Comutare la fila calendar">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Sarcini">
+<!ENTITY lightning.toolbar.task.tooltip       "Comutare la fila sarcini">
+<!ENTITY lightning.toolbar.task.accesskey     "S">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Event">
-<!ENTITY lightning.toolbar.newtask.label      "Task">
+<!ENTITY lightning.toolbar.newevent.label     "Eveniment">
+<!ENTITY lightning.toolbar.newtask.label      "Sarcină">
 
 <!-- Calendar and Task Mode Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Day">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Week">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Month">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
+<!ENTITY lightning.toolbar.day.label                 "Ziua">
+<!ENTITY lightning.toolbar.day.accesskey             "Z">
+<!ENTITY lightning.toolbar.week.label                "Săptămâna">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Mai multe săptămâni">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "m">
+<!ENTITY lightning.toolbar.month.label               "Lună">
+<!ENTITY lightning.toolbar.month.accesskey           "l">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Meniu aplicație">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Afișare meniu &brandShortName;">
 

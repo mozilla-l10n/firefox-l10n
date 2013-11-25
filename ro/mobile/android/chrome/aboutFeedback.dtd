@@ -1,0 +1,72 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+<!ENTITY pageTitle                 "Reacții legate de &brandShortName;">
+
+<!ENTITY intro.header              "Aveți un minut?">
+<!ENTITY intro.message             "Spuneți-ne ce credeți până acum despre &brandShortName; pentru Android.">
+<!ENTITY intro.happyLink           "Îmi  place">
+<!ENTITY intro.sadLink             "Am întâmpinat anumite probleme">
+<!ENTITY intro.maybeLater          "Poate mai târziu">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre2              "De asemenea puteți vizita ">
+<!ENTITY support.link              "Suport &brandShortName;">
+<!ENTITY support.post2             " pentru mai multe informații.">
+
+<!ENTITY happy.header              "Asta e minunat să aud!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+<!ENTITY happy.message             "Doriți să împărtășiți dragostea față de noi dându-ne o evaluare de 5 stele în Google Play?">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+<!ENTITY happy.finePrint           "Ia mai puțin de un minut și se simte grozav.">
+
+<!ENTITY happy.ratingLink          "Da, mergi la Google Play">
+<!ENTITY happy.maybeLater2         "Poate mai târziu">
+<!ENTITY happy.noThanks            "Nu mulțumesc">
+
+<!ENTITY sad.message               "Ne pare rău că ați avut niște probleme cu &brandShortName;. Spuneți-ne ce s-a întâmplat astfel să remediem problema.">
+<!ENTITY sad.placeholder           "Introduceți opinia dumneavoastră aici">
+<!ENTITY sad.lastSite              "Ultimul sait vizitat (opțional)">
+
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Vă mulțumim pentru informare.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+<!ENTITY sad.thanksMessageTop      "Muncim mereu ca să facem &brandShortName; mai bun. Fiți siguri că persoane reale se vor uita la opinia dumneavoastră și vor face tot posibilul pentru a vă rezolva problema.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+<!ENTITY sad.thanksMessageBottom   "sau alta.">
+
+<!ENTITY feedback.privacy          "Pentru confidențialitatea dumneavoastră, nu includeți nicio informație personală ușor de identificat în opinia dumneavoastră.">
+<!ENTITY feedback.send             "Trimite opiniile">
+
