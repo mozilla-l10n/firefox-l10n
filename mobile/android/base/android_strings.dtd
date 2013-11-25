@@ -275,6 +275,7 @@ size. -->
 <!ENTITY home_top_sites_add "Een website toevoegen">
 
 <!ENTITY home_history_title "Geschiedenis">
+<!ENTITY home_bookmarks_empty "Opgeslagen bladwijzers verschijnen hier.">
 <!ENTITY home_last_tabs_title "Tabbladen van de vorige keer">
 <!ENTITY home_last_tabs_open "Alle tabbladen van de vorige keer openen">
 <!ENTITY home_last_tabs_empty "Uw recente tabbladen verschijnen hier.">
