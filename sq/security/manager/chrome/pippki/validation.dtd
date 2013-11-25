@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  validation.crlmanager.label             "Administroni LShD-ra">
 <!ENTITY  validation.crlmanager.description       "Në bazën tuaj të të dhënave rreth dëshmish keni të depozituara këto Lista Shfuqizimesh Dëshmish (LShD):">
 <!ENTITY  validation.crlname.label                "Emër">
@@ -19,7 +23,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Përditësoje çdo">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Ditë">
 <!ENTITY  validation.crl.autoupdate.url.label     "LShD-ja do të duhej të importohej Prej:">
-<!ENTITY  crl.import.status.title                 "Gjendje Importimi LSHD-je">
+<!ENTITY  crl.import.status.title                 "Gjendje Importimi LShD-je">
 <!ENTITY  crl.import.success.message              "Lista e Shfuqizimit të Dëshmive (LShD) u importua me sukses.">
 <!ENTITY  crl.issuer.label                        "LShD e Lëshuar Prej:">
 <!ENTITY  crl.issuer.org.label                    "Organizëm: ">

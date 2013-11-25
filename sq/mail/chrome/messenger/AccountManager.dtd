@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Rregullime Llogarie">
@@ -6,11 +10,13 @@
 <!ENTITY accountActionsButton.accesskey "V">
 <!ENTITY addMailAccountButton.label "Shtoni Llogari Poste…">
 <!ENTITY addMailAccountButton.accesskey "S">
+<!ENTITY addIMAccountButton.label "Shtoni Llogari Fjalosjeje…">
+<!ENTITY addIMAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Shtoni Llogari Tjetër…">
 <!ENTITY addOtherAccountButton.accesskey "T">
 <!ENTITY setDefaultButton.label "Vëre si Parazgjedhje">
 <!ENTITY setDefaultButton.accesskey "P">
-<!ENTITY removeButton.label "Hiqni Llogari">
+<!ENTITY removeButton.label "Hiqe Llogarinë">
 <!ENTITY removeButton.accesskey "H">
 
 <!-- AccountManager.xul -->

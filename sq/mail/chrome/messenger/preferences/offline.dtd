@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY offlineDialog.title "Rregullime për I palidhur">
 
 <!ENTITY textStartUp "Kur bëhet nisja:">
 <!ENTITY radioRememberPrevState.label "Kujto gjendjen e mëparshme për &quot;i lidhur&quot; ">
 <!ENTITY radioRememberPrevState.accesskey "K">
 <!ENTITY radioAskMe.label "Pyetmë gjatë nisjes për gjendjen &quot;i lidhur&quot;">
-<!ENTITY radioAskMe.accesskey "g">
+<!ENTITY radioAskMe.accesskey "e">
 <!ENTITY radioAlwaysOnline.label "Nisu përherë &quot;i lidhur&quot;">
 <!ENTITY radioAlwaysOnline.accesskey "N">
 
@@ -14,11 +18,11 @@
 <!ENTITY radioNotSend.label "Jo">
 <!ENTITY radioNotSend.accesskey "J">
 <!ENTITY radioAskUnsent.label "Pyetmë">
-<!ENTITY radioAskUnsent.accesskey "y">
+<!ENTITY radioAskUnsent.accesskey "t">
 <!ENTITY textGoingOffline "Të shkarkohen mesazhet për përdorim të palidhur kur kalohet &quot;i palidhur&quot;?">
 <!ENTITY radioAutoDownload.label "Po">
 <!ENTITY radioAutoDownload.accesskey "P">
 <!ENTITY radioNotDownload.label "Jo">
 <!ENTITY radioNotDownload.accesskey "j">
 <!ENTITY radioAskDownload.label "Pyetmë">
-<!ENTITY radioAskDownload.accesskey "y">
+<!ENTITY radioAskDownload.accesskey "m">

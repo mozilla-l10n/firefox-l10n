@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY allpagesRadio.label "Tërë Faqet">
 <!ENTITY allpagesRadio.accesskey "T">
 <!ENTITY aslaidoutRadio.label "Siç është hartuar në ekran">
@@ -5,12 +9,12 @@
 <!ENTITY copies.label "Kopje">
 <!ENTITY eachframesepRadio.label "Çdo kornizë veçmas">
 <!ENTITY eachframesepRadio.accesskey  "Ç">
-<!ENTITY fpDialog.title "Ruaj Kartelë">
+<!ENTITY fpDialog.title "Ruajtje Kartelë">
 <!ENTITY frompageInput.label "prej">
 <!ENTITY frompageInput.accesskey  "p">
 <!ENTITY numCopies.label "Numër kopjesh:">
 <!ENTITY numCopies.accesskey "n">
-<!ENTITY printButton.label "Shtyp">
+<!ENTITY printButton.label "Shtype">
 <!ENTITY printDialog.title "Shtyp">
 <!ENTITY printer.label "Shtypës">
 <!ENTITY printerInput.label "Shtypës:">

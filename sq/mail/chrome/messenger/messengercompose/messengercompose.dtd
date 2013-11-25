@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Shkruani: (pa subjekt)">
 
@@ -16,6 +20,7 @@
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Faqe Web…">
 <!ENTITY attachPageCmd.accesskey "F">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -71,12 +76,14 @@
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Fshije">
 <!ENTITY deleteCmd.accesskey "f">
+<!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkangjitjen…">
+<!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "K"> 
 <!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "g">
+<!ENTITY findCmd.accesskey "G">
 <!ENTITY findAgainCmd.label "Gjeje Sërish">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "s">
@@ -91,6 +98,8 @@
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "n"> 
+<!ENTITY menubarCmd.label "Shtyllë Menush">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
 <!ENTITY showCompositionToolbarCmd.accesskey "H">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
@@ -109,7 +118,7 @@
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
-<!ENTITY optionsMenu.accesskey "M">
+<!ENTITY optionsMenu.accesskey "u">
 <!ENTITY checkSpellingCmd2.label "Kontrolloni Drejtshkrimin…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
@@ -128,8 +137,8 @@
 <!ENTITY returnReceiptMenu.accesskey "k">
 <!ENTITY dsnMenu.label "Njoftim Gjendjeje Shpërndarjeje">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "Format Shpërndarjeje">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Vetëzbulo">
 <!ENTITY autoFormatCmd.accesskey "v">
 <!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">
@@ -139,7 +148,7 @@
 <!ENTITY bothFormatCmd.label "Tekst të Thjeshtë dhe të Pasur (HTML)">
 <!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Përparësi">
-<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Përparësi:">
 <!ENTITY lowestPriorityCmd.label "Më e Ulta">
 <!ENTITY lowestPriorityCmd.accesskey "u">
@@ -187,19 +196,22 @@
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 
-
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Dërgoje këtë mesazh tani"> 
-<!ENTITY sendlaterButton.tooltip "Dërgoje këtë mesazh më vonë"> 
-<!ENTITY quoteButton.tooltip "Përmend mesazhin e mëparshëm"> 
+<!ENTITY sendButton.tooltip "Dërgojeni këtë mesazh tani"> 
+<!ENTITY sendlaterButton.tooltip "Dërgojeni këtë mesazh më vonë"> 
+<!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm"> 
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
 <!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
-<!ENTITY saveButton.tooltip "Ruaje këtë mesazh"> 
-<!ENTITY cutButton.tooltip              "Prije">
-<!ENTITY copyButton.tooltip             "Kopjoje">
-<!ENTITY pasteButton.tooltip            "Ngjite">
+<!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
+<!ENTITY saveButton.tooltip "Ruajeni këtë mesazh"> 
+<!ENTITY cutButton.tooltip              "Prijeni">
+<!ENTITY copyButton.tooltip             "Kopjojeni">
+<!ENTITY pasteButton.tooltip            "Ngjiteni">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Prej:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Për:"> 
@@ -236,7 +248,7 @@
 <!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
 <!ENTITY spellCheckIgnoreWord.accesskey "S">
 <!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
-<!ENTITY spellCheckAddToDictionary.accesskey "j">
+<!ENTITY spellCheckAddToDictionary.accesskey "o">
 <!ENTITY undo.label "Zhbëje">
 <!ENTITY undo.accesskey "Z">
 <!ENTITY cut.label "Prije">
@@ -258,8 +270,18 @@
 <!ENTITY selectAll.accesskey "T">
 <!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "F">
+<!ENTITY convertCloud.label "Shndërrojeni në…">
+<!ENTITY convertCloud.accesskey "S">
+<!ENTITY cancelUpload.label "Anuloje Ngarkimin">
+<!ENTITY cancelUpload.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Bashkangjitje e Rregullt">
+<!ENTITY convertRegularAttachment.accesskey "B">
 <!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
-<!ENTITY attachPage.accesskey "Q">
+<!ENTITY attachPage.accesskey "q">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakte">
@@ -267,7 +289,6 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY removeAttachment.accesskey "H">
 <!ENTITY removeAttachment.label "Hiqe Bashkangjitjen">
-
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">

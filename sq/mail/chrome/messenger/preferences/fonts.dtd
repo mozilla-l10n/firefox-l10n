@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Shkronja &amp; Kodime">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -26,7 +30,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltike">
 <!ENTITY  font.langGroup.el                       "Greke">
 <!ENTITY  font.langGroup.turkish                  "Turke">
-<!ENTITY  font.langGroup.unicode                  "Gjuhë të Tjera">
+<!ENTITY  font.langGroup.unicode1                  "Unikod">
 <!ENTITY  font.langGroup.user-def                 "Përcaktuar nga Përdoruesi">
 <!ENTITY  font.langGroup.thai                     "Tailandeze">
 <!ENTITY  font.langGroup.hebrew                   "Hibru">

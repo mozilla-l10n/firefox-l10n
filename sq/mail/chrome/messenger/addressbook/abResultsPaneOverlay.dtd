@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY GeneratedName.label                   "Emër">
 <!ENTITY GeneratedName.accesskey               "E">
 <!ENTITY PrimaryEmail.label                    "Email">
@@ -23,9 +27,9 @@
 <!ENTITY HomePhone.label                       "Telefon Banese">
 <!ENTITY HomePhone.accesskey                   "s">
 <!ENTITY WorkPhone.label                       "Telefon Pune">
-<!ENTITY WorkPhone.accesskey                   "p">
-<!ENTITY ScreenName.label                      "Emër në Ekran">
-<!ENTITY ScreenName.accesskey                  "k">
+<!ENTITY WorkPhone.accesskey                   "P">
+<!ENTITY ChatName.label                        "Emër Fjalosjeje">
+<!ENTITY ChatName.accesskey                    "a">
 <!ENTITY sortAscending.label                   "Rritës">
 <!ENTITY sortAscending.accesskey               "r">
 <!ENTITY sortDescending.label                  "Zbritës">

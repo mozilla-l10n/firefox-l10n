@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -14,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName;-i bëhet publik për ju sipas kushteve të ">
 <!ENTITY rights.intro-point1b "Lejes Publike Mozilla">
-<!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe tua shpërndani të tjerëve.  Jeni gjithashtu të lirë ta ndryshoni kodin burim të &brandShortName;-it në përputhje me nevojat tuaja. Leja Publike Mozilla ju jep po ashtu të drejtën të shpërndani versionet tuaj të ndryshuar.">
+<!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe tua shpërndani të tjerëve. Jeni gjithashtu të lirë ta ndryshoni kodin burim të &brandShortName;-it në përputhje me nevojat tuaja. Leja Publike Mozilla ju jep po ashtu të drejtën të shpërndani versionet tuaj të ndryshuar.">
 
 <!ENTITY rights.intro-point2-a "Mozilla nuk ju jep ndonjë të drejtë mbi shenjat tregtare ose mbi lejet mbi shenjat tregtare të Mozilla Foundation-it ose të çfarëdo pale të tretë, përfshi pa kufizim emrin dhe stemën e Firefox-it.Mund të gjeni më tepër të dhëna rreth shenjave tregtare (trademarks) ">
 <!ENTITY rights.intro-point2-b "këtu">
@@ -76,7 +80,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Çfarëdo kushtesh shërbimi të zbatueshëm për këtë produkt do të duhej të radhiteshin këtu.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; dhe pjesëmarrësit e saj, të lejuarit prej saj dhe partnerët përpiqen të ofrojnë të Shërbimet më të përpikta dhe më të përditësuara. Sidoqoftë, nuk garantojmë dot që këto të dhëna janë të plota dhe pa gabim. Për shembull Shërbimi i Shfletimi të Sigurt, gabimisht, mundet të mos identifikojë dot disa &quot;site&quot;-e me rrezik dhe, në lidhje me Shërbimin Shfletim i  Ndjeshëm ndaj Vendit, krejt vendet e furnizuara nga shërbimi ynë janë vetëm propozime dhe as ne, e as mundësuesit tanë të shërbimit nuk garantojnë përpikmërinë e të dhënave të furnizuara.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; dhe pjesëmarrësit e saj, të lejuarit prej saj dhe partnerët përpiqen të ofrojnë të Shërbimet më të përpikta dhe më të përditësuara. Sidoqoftë, nuk garantojmë dot që këto të dhëna janë të plota dhe pa gabim. Për shembull Shërbimi i Shfletimi të Sigurt, gabimisht, mundet të mos identifikojë dot disa &quot;site&quot;-e me rrezik dhe, në lidhje me Shërbimin Shfletim i Ndjeshëm ndaj Vendit, krejt vendet e furnizuara nga shërbimi ynë janë vetëm propozime dhe as ne, e as mundësuesit tanë të shërbimit nuk garantojnë përpikmërinë e të dhënave të furnizuara.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; mund t&apos;i ndërpresë ose ndryshojë Shërbimet kur e si të dojë.">
 <!ENTITY rights2.webservices-term3 "Mirëpresim përdorimin e këtyre Shërbimeve me versionin shoqërues të &brandShortName;-it, dhe gëzoni tërë të drejtat e nevojshme në lidhje me këtë.  &vendorShortName; dhe të lejuarit prej saj ruajnë tërë të drejtat e tjera mbi Shërbimet.  Këto kushte nuk janë hartuar për kufizimin e ndonjë të drejte dhënë sipas lejesh burimi të hapur, të zbatueshme mbi &brandShortName;-in dhe versionet përgjegjëse të kodit burim të &brandShortName;-it.">
 <!ENTITY rights.webservices-term4 "Shërbimet jepen &quot;siç janë.&quot;  &vendorShortName;, pjesëmarrësit në të, të lejuarit prej saj, dhe shpërndarësit, nuk marrin përsipër asnjë garanci, qoftë shprehimisht apo të nënkuptuar, përfshi pa kufizime, garancira që Shërbimet janë të tregtueshme dhe të përshtatshme për qëllimet tuaja të veçanta.  Merrni mbi vete tërë rrezikun e përzgjedhjes së Shërbimeve për qëllimet tuaja dhe për cilësinë dhe funksionimin e Shërbimeve. Disa juridiksione nuk e lejojnë përjashtimin ose kufizimin e garancive të nënkuptuara, ndaj kjo klauzolë mund të mos ketë vlerë për rastin tuaj.">

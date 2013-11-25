@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY filterMenuList.accesskey "t">
 <!ENTITY filterMenuList.label "Kartela të llojit:">
-<!ENTITY folderHome.tooltiptext "Shko në hyrje">
+<!ENTITY folderHome.tooltiptext "Shkoni në hyrje">
 <!ENTITY folderNew.tooltiptext "Krijoni drejtori të re">
-<!ENTITY folderUp.tooltiptext "Ngjitu një nivel">
+<!ENTITY folderUp.tooltiptext "Ngjituni një nivel">
 <!ENTITY lastModified.label "Ndryshuar së Fundmi">
 <!ENTITY lookInMenuList.accesskey "I">
 <!ENTITY lookInMenuList.label "Shih në:">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "E pavlerë">
 <!ENTITY itemPhishing.label      "Sajesa E-mail">
 <!ENTITY itemPasswords.label     "Fjalëkalime">
@@ -13,10 +17,11 @@
 <!ENTITY manualMarkModeDelete.accesskey "F">
 <!ENTITY markAsReadOnSpam.label "Mesazhet, për të cilat është përcaktuar se janë Të pavlera, shënoji si të lexuar">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
+
 <!ENTITY openJunkLog.label "Shfaq regjistrimin">
-<!ENTITY openJunkLog.accesskey "q">
+<!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Rirregulloni të Dhëna Stërvitjeje">
 <!ENTITY resetTrainingData.accesskey "R">
 
@@ -55,7 +60,10 @@
 <!ENTITY close.label                    "deri sa të mbyll &brandShortName;-in">
 <!ENTITY askEachTime.label              "pyetmë çdo herë">
 <!ENTITY cookieExceptions.label         "Përjashtime…">
-<!ENTITY cookieExceptions.accesskey     "j">
+<!ENTITY cookieExceptions.accesskey     "ë">
 <!ENTITY showCookies.label              "Shfaqni &quot;Cookie&quot;-t…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tregoju site-eve web që nuk dua të më gjurmojnë">
+<!ENTITY doNotTrack.accesskey           "T">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Rreth Postës së Pavlerë">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName;-i zbulon automatikisht mesazhe ardhës që duket të jenë postë e pavlerë (njohur edhe si spam). Për mesazhe që &brandShortName;-i mendon se janë të pavlerë do të shfaqet një ikonë hedhurinash">

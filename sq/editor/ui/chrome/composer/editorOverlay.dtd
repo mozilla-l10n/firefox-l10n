@@ -1,81 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Kartelë">
-<!ENTITY fileMenu.accesskey "K">
-<!ENTITY newBlankPageCmd.label "Faqe Hartuesi">
-<!ENTITY newBlankPageCmd.accesskey "F" >
-<!ENTITY newMenu.label "E re">
-<!ENTITY openFileCmd.label "Hapni Kartelë…">
-<!ENTITY openFileCmd.accesskey "H">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Hapni Vendndodhje Web…">
-<!ENTITY openRemoteCmd.accesskey "V">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Faqe Së Fundmi">
-<!ENTITY fileRecentMenu.accesskey "U">
-<!ENTITY fileRevert.label "Riktheje">
-<!ENTITY fileRevert.accesskey "j">
-<!ENTITY saveCmd.label "Ruaje">
-<!ENTITY saveCmd.accesskey "R">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Ruajeni Si…">
-<!ENTITY saveAsCmd.accesskey "S">
-
-<!ENTITY publishCmd.label "Botoje">
-<!ENTITY publishCmd.accesskey "B">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Botojeni Si…">
-<!ENTITY publishAsCmd.accesskey "S">
-<!ENTITY exportToTextCmd.label "Eksportojeni si Tekst…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY saveAsChangeEncodingCmd.label "Ruaje dhe Ndërroji Kodimin e Shkronjave">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "R">
-<!ENTITY previewCmd.label "Shfletoni Faqen">
-<!ENTITY previewCmd.accesskey "q">
-<!ENTITY sendPageCmd.label "Dërgoni Faqe…">
-<!ENTITY sendPageCmd.accesskey "D">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Shtypni…">
-<!ENTITY printCmd.accesskey "y">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Mbylle">
-<!ENTITY closeCmd.accesskey "M">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Përpunim">
-<!ENTITY editMenu.accesskey "P">
 <!ENTITY pasteNoFormatting.label "Ngjite Pa Formatim">
 <!ENTITY pasteNoFormatting.accesskey "a">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Ngjite Si">
 <!ENTITY pasteAs.accesskey "s">
-<!ENTITY publishSettings.label "Rregullime &quot;Site&quot;-i Botimi…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
-<!ENTITY findCmd.accesskey "G">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Gjej Sërish">
-<!ENTITY findAgainCmd.accesskey "r">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Gjej të Mëparshmen">
-<!ENTITY findPrevCmd.accesskey "m">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Vleftëso HTML-në">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Futje">
@@ -95,37 +41,14 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Shenja dhe Simbole…">
 <!ENTITY insertCharsCmd.accesskey "S">
-<!ENTITY insertBreakAllCmd.label "Ndërprerje Nën Figurë(at)">
+<!ENTITY insertBreakAllCmd.label "Ndërprerje Nën Figurë">
 <!ENTITY insertBreakAllCmd.accesskey "N">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Nuk u Gjetën Këshillime)">
-<!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
-<!ENTITY spellCheckIgnoreWord.accesskey "S">
-<!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
-<!ENTITY spellCheckAddToDictionary.accesskey "t">
 <!ENTITY createLinkCmd.label "Krijoni Lidhje…">
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Përpunojeni Lidhjen në Hartues të Ri">
 <!ENTITY editLinkCmd.accesskey "P">
-
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Zhbëje">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Ribëje">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY deleteCmd.label "Fshije">
-<!ENTITY deleteCmd.accesskey "F">
-<!ENTITY clearCmd.label "Pastroje">
-<!ENTITY clearCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
-<!ENTITY selectAllCmd.accesskey "j">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Zgjidhni shkronja">
@@ -147,11 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Zgjidhni madhësi shkronjash">
 <!ENTITY decreaseFontSize.label "Më të vogla">
 <!ENTITY decreaseFontSize.accesskey "v">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Më të mëdhaja">
 <!ENTITY increaseFontSize.accesskey "m">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 
 <!ENTITY fontSizeMenu.label "Madhësi">
@@ -217,7 +141,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Hiq Spiranca të Emërtuara">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "A">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -269,21 +193,21 @@
 <!ENTITY alignMenu.accesskey "V">
 <!ENTITY alignLeft.label "Majtas">
 <!ENTITY alignLeft.accesskey "M">
-<!ENTITY alignLeft.tooltip "Vendose Majtas">
+<!ENTITY alignLeft.tooltip "Vendoseni Majtas">
 <!ENTITY alignCenter.label "Qendër">
 <!ENTITY alignCenter.accesskey "Q">
-<!ENTITY alignCenter.tooltip "Vendose në Qendër">
+<!ENTITY alignCenter.tooltip "Vendoseni në Qendër">
 <!ENTITY alignRight.label "Djathtas">
 <!ENTITY alignRight.accesskey "D">
-<!ENTITY alignRight.tooltip "Vendose Djathtas">
+<!ENTITY alignRight.tooltip "Vendoseni Djathtas">
 <!ENTITY alignJustify.label "Përligj">
 <!ENTITY alignJustify.accesskey "P">
 <!ENTITY alignJustify.tooltip "Drejtim i Përligjur">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Shtresë">
-<!ENTITY layerSendToBack.tooltip "Shpjere Prapa">
-<!ENTITY layerBringToFront.tooltip "Bjere Përpara">
+<!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
+<!ENTITY layerBringToFront.tooltip "Bjereni Përpara">
 
 <!ENTITY increaseIndent.label "Rrit Hapësirë Kryeradhe">
 <!ENTITY increaseIndent.accesskey "R">
@@ -291,12 +215,6 @@
 <!ENTITY decreaseIndent.label "Zvogëlo Hapësirë Kryeradhe">
 <!ENTITY decreaseIndent.accesskey "Z">
 <!ENTITY decreaseIndent.key "[">
-
-<!ENTITY grid.label "Rrjetë vendosjeje">
-<!ENTITY grid.accesskey "R">
-
-<!ENTITY pageProperties.label "Titull dhe Veti Faqeje…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Sfond dhe Ngjyra Faqeje…">
 <!ENTITY colorsAndBackground.accesskey "s">
 
@@ -331,7 +249,7 @@
 <!ENTITY tableColumns.label "Shtyllë(a)">
 <!ENTITY tableColumn.accesskey "y">
 <!ENTITY tableColumnBefore.label "Shtyllë Para">
-<!ENTITY tableColumnBefore.accesskey "p">
+<!ENTITY tableColumnBefore.accesskey "P">
 <!ENTITY tableColumnAfter.label "Shtyllë Pas">
 <!ENTITY tableColumnAfter.accesskey "S">
 <!ENTITY tableCell.label "Kuti">
@@ -363,23 +281,18 @@
 <!ENTITY tableProperties.label "Veti Tabele…">
 <!ENTITY tableProperties.accesskey "v">
 
-
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Shtyllë Menuje">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
-<!ENTITY newToolbarCmd.tooltip "Krijo një faqe të re Hartuesi">
-<!ENTITY openToolbarCmd.label "Hap">
-<!ENTITY openToolbarCmd.tooltip "Hap një kartelë vendore">
-<!ENTITY saveToolbarCmd.tooltip "Ruaje kartelën te një vendndodhje vendore">
-<!ENTITY publishToolbarCmd.tooltip "Ngarko kartelë te një vendndodhje e largët">
-<!ENTITY previewToolbarCmd.label "Shfletoni">
-<!ENTITY previewToolbarCmd.tooltip "Ngarkoje këtë faqe në shfletues">
+<!ENTITY cutToolbarCmd.tooltip "Prijeni">
+<!ENTITY copyToolbarCmd.tooltip "Kopjojeni">
+<!ENTITY pasteToolbarCmd.tooltip "Ngjiteni">
 <!ENTITY printToolbarCmd.label "Shtype">
-<!ENTITY printToolbarCmd.tooltip "Shtype këtë faqe">
+<!ENTITY printToolbarCmd.tooltip "Shtypeni këtë faqe">
 <!ENTITY findToolbarCmd.label "Gjej">
-<!ENTITY findToolbarCmd.tooltip "Gjej tekst në faqe">
+<!ENTITY findToolbarCmd.tooltip "Gjeni tekst në faqe">
 <!ENTITY spellToolbarCmd.label "Drejtshkrim">
-<!ENTITY spellToolbarCmd.tooltip "Kontroll drejtshkrimi për përzgjedhjen ose tërë faqen">
+<!ENTITY spellToolbarCmd.tooltip "Kontrolloni drejtshkrimin për përzgjedhjen ose tërë faqen">
 <!ENTITY imageToolbarCmd.label "Figurë">
 <!ENTITY imageToolbarCmd.tooltip "Futni figurë të re ose përpunoni vetitë e figurës së përzgjedhur">
 <!ENTITY hruleToolbarCmd.label "Rresht H.">
@@ -389,7 +302,7 @@
 <!ENTITY linkToolbarCmd.label "Lidhje">
 <!ENTITY linkToolbarCmd.tooltip "Futni lidhje të re ose përpunoni vetitë e lidhjes së përzgjedhur">
 <!ENTITY anchorToolbarCmd.label "Spirancë">
-<!ENTITY anchorToolbarCmd.tooltip "Fusni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
+<!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
 <!ENTITY throbber.tooltip "Shko tek faqja hyrëse e &vendorShortName;-it">
@@ -401,16 +314,16 @@
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
 <!ENTITY italicToolbarCmd.tooltip "të Pjerrëta">
 <!ENTITY underlineToolbarCmd.tooltip "të Nënvizuara">
-<!ENTITY bulletListToolbarCmd.tooltip "Vendos ose hiq listë me shenjë">
-<!ENTITY numberListToolbarCmd.tooltip "Vendos ose hiq listë me numra">
+<!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
+<!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst jashtazi (zhvendose majtas)">
 <!ENTITY indentToolbarCmd.tooltip "Tekst brendazi (zhvendose djathtas)">
 <!ENTITY AlignPopupButton.tooltip "Zgjidhni drejtim teksti">
 <!ENTITY InsertPopupButton.tooltip "Futni një Lidhje, Spirancë, Figurë, Vijë Horizontale, ose Tabelë">
-<!ENTITY alignLeftButton.tooltip "Vendose tekstin përgjatë mënjanash majtas">
-<!ENTITY alignCenterButton.tooltip "Vendose tekstin në qendër">
-<!ENTITY alignRightButton.tooltip "Vendose tekstin përgjatë mënjanash djathtas">
-<!ENTITY alignJustifyButton.tooltip "Vendose tekstin përgjatë mënjanash majtas dhe djathtas">
+<!ENTITY alignLeftButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas">
+<!ENTITY alignCenterButton.tooltip "Vendoseni tekstin në qendër">
+<!ENTITY alignRightButton.tooltip "Vendoseni tekstin përgjatë mënjanash djathtas">
+<!ENTITY alignJustifyButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas dhe djathtas">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Përzgjidhni">

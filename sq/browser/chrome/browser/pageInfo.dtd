@@ -1,3 +1,8 @@
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -6,7 +11,7 @@
 <!ENTITY  copy.label            "Kopjoje">
 <!ENTITY  copy.accesskey        "K">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Përzgjidhe të Tërën">
+<!ENTITY  selectall.label       "Përzgjidhe Krejt">
 <!ENTITY  selectall.accesskey   "T">
 <!ENTITY  closeWindow.key       "w">
 
@@ -55,19 +60,12 @@
 <!ENTITY  permImage             "Ngarkim Figurash">
 <!ENTITY  permPopup             "Hapje Dritaresh Flluska">
 <!ENTITY  permCookie            "Rregullime për &quot;Cookie&quot;-t">
+<!ENTITY  permNotifications     "Shfaq Njoftime">
 <!ENTITY  permInstall           "Instalim Zgjerimesh ose Temash">
 <!ENTITY  permGeo               "Lejo Tregim Vendi">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  permPlugins           "Aktivizo Shtojcat">
+<!ENTITY  permFullscreen        "Kalo Në Mënyrën Krejt Ekrani">
+<!ENTITY  permPointerLock       "Fshihe Treguesin">
 
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">
@@ -75,7 +73,6 @@
 <!ENTITY  securityView.certView "Shihini Dëshminë">
 <!ENTITY  securityView.accesskey "S">
 <!ENTITY  securityView.unknown   "E panjohur">
-
 
 <!ENTITY  securityView.identity.header   "Identitet &quot;Site&quot;-i Web">
 <!ENTITY  securityView.identity.owner    "Pronar: ">

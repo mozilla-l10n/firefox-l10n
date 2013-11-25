@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -42,7 +46,7 @@
 <ul>
   <li>Adresat Web zakonisht shkruhen si
     <strong>http://www.shembull.com/</strong></li>
-  <li>Sigurohuni që po përdorni pjerrëse djathtas (d.m.th.
+  <li>Sigurohuni që po përdorni pjerrake djathtas (d.m.th.
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -50,15 +54,13 @@
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet më prej fshehtinës së &brandShortName;-it.</p><ul><li>Si masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumenta me spec.</li><li>Klikoni mbi Riprovoni që ta rikërkoni dokumentin pre site-it web.</li></ul>">
+
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Hiqini shenjën zërit &quot;Punoni i Palidhur&quot; të menusë, mandej riprovoni.</li>
+  <li>Shtypni &quot;Riprovoni&quot; që të kalohet në mënyrën online dhe të ringarkohet faqja.</li>
 </ul>
 ">
 
@@ -162,6 +164,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga një Rregull mbi Sigurinë e Lëndës">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin prej kësaj faqeje në këtë mënyrë ngaqë faqja përmban një rregull sigurie që nuk e lejon.</p>">
 
+<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e site-it web për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
@@ -178,3 +182,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL i Largët">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web që t'i njoftoni për këtë problem.</li></ul></p>">

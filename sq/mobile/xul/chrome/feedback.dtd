@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Mjete Përshtypjesh">
+
+<!ENTITY feedback.communicate.title     "Komunikoni me Ne!">
+<!ENTITY feedback.feedback.title        "Jepni përshtypjet">
+<!ENTITY feedback.feedback.good         "Mirë">
+<!ENTITY feedback.feedback.bad          "Keq">
+
+<!ENTITY feedback.tools.title           "Mjete">
+<!ENTITY feedback.allowTelemetry.title  "Dërgo të dhëna punimi">
+<!ENTITY feedback.forceCompat.title     "Përputhshmëri shtesash e detyruar">
+<!ENTITY feedback.errorConsole.title    "Aktivizo Konsol Gabimesh">

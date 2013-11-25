@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lightning.toolbar.calendar.name "Panel Kalendari">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.name "Panel Punësh">
+<!ENTITY lightning.toolbar.task.name.accesskey "P">
+
+<!ENTITY lightning.toolbar.task.accesskey "P">
+
+<!ENTITY lightning.toolbar.sync.label "Njëkohësoje">
+<!ENTITY lightning.toolbar.delete.label "Fshije">
+<!ENTITY lightning.toolbar.edit.label "Përpunojeni">
+<!ENTITY lightning.toolbar.gototoday.label "Shko te i Sotshmi">
+<!ENTITY lightning.toolbar.print.label "Shtype">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.calendar.label     "Kalendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Kaloni te skeda e kalendarit">
+<!ENTITY lightning.toolbar.task.label         "Punë">
+<!ENTITY lightning.toolbar.task.tooltip       "Kaloni te skeda e punëve">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Ngjarje">
+<!ENTITY lightning.toolbar.newtask.label      "Punë">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Ditë">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Javë">
+<!ENTITY lightning.toolbar.week.accesskey            "J">
+<!ENTITY lightning.toolbar.multiweek.label           "Shumëjavëshe">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "S">
+<!ENTITY lightning.toolbar.month.label               "Muaj">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Menu Zbatimesh">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Shfaq Menunë e &brandShortName;-it">

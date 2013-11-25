@@ -1,0 +1,65 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Të dhëna Telemetry-e">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "
+  Telemetry-a është <span>e aktivizuar</span>.
+">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "
+  Telemetry-a është <span>e çaktivizuar</span>.
+">
+
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Deklarime SQL të Ngadalta
+">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Ngecje të Shfletuesit
+">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  Histograme
+">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  Matje të Thjeshta
+">
+
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Shkrime të Vonshme
+">
+
+<!ENTITY aboutTelemetry.systemInfoSection "
+  Të dhëna Sistemi
+">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "
+  Histograme të Grumbulluara nga Shtesat
+">
+
+<!ENTITY aboutTelemetry.toggleOn "
+  Klikoni që të zgjerohet ndarja
+">
+
+<!ENTITY aboutTelemetry.toggleOff "
+  Klikoni që të tkurret ndarja
+">
+
+<!ENTITY aboutTelemetry.emptySection "
+  (Nuk ka të dhëna të grumbulluara)
+">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  SHËNIM: Diagnostikimi i Ngadalësisë në SQL është i aktivizuar. Vargjet e plota SQL mund të shfaqen më poshtë, por ato nuk do t'i parashtrohen Telemetry-së.
+">
+
+<!ENTITY aboutTelemetry.fetchSymbols "
+  Sill emra funksionesh nga stack-e ngecjesh
+">
+
+<!ENTITY aboutTelemetry.hideSymbols "
+  Shfaq të dhëna ngecjesh të papërpunuara
+">

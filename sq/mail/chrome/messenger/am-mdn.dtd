@@ -1,8 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Kthim Faturash">
 <!ENTITY useGlobalPrefs.label         "Përdor për këtë llogari parapëlqimet e mia të përgjithshme për kthim faturash">
 <!ENTITY useGlobalPrefs.accesskey     "P">
+<!ENTITY globalReceipts.label         "Parapëlqime të Përgjithshme…">
+<!ENTITY globalReceipts.accesskey     "a">
 <!ENTITY useCustomPrefs.label         "Përshtatni kthim faturash për këtë llogari">
-<!ENTITY useCustomPrefs.accesskey     "a">
+<!ENTITY useCustomPrefs.accesskey     "ë">
 <!ENTITY requestReceipt.label         "Kur dërgon mesazhe, kërko përherë një faturë kthimi">
 <!ENTITY requestReceipt.accesskey     "K">
 <!ENTITY receiptArrive.label          "Kur mbrrin një faturë:">
@@ -17,9 +23,9 @@
 <!ENTITY never.label                  "Mos dërgo kurrë një faturë kthimi">
 <!ENTITY never.accesskey              "M">
 <!ENTITY notInToCc.label              "Nëse nuk jam tek Për ose Cc e mesazhit:">
-<!ENTITY notInToCc.accesskey          "N">
+<!ENTITY notInToCc.accesskey          "n">
 <!ENTITY outsideDomain.label          "Nëse dërguesi është jashtë përkatësisë sime:">
-<!ENTITY outsideDomain.accesskey      "j">
+<!ENTITY outsideDomain.accesskey      "u">
 <!ENTITY otherCases.label             "Në tërë rastet e tjerë:">
 <!ENTITY otherCases.accesskey         "t">
 <!ENTITY askMe.label                  "Pyetmë">

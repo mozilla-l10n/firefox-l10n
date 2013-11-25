@@ -1,46 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Kalendar">
@@ -60,33 +20,47 @@
 <!ENTITY calendar.events.filter.today.label "Ngjarjet e Sotme">
 <!ENTITY calendar.events.filter.future.label "Tërë Ngjarjet e Ardhshme">
 <!ENTITY calendar.events.filter.current.label "Ditën e Përzgjedhur Tani">
+<!ENTITY calendar.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
 <!ENTITY calendar.events.filter.next7Days.label "Ngjarjet për 7 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next14Days.label "Ngjarjet për 14 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Ngjarjet në këtë Muaj Kalendarik">
 
-<!ENTITY calendar.unifinder.tree.done.label          "U bë">
-<!ENTITY calendar.unifinder.tree.priority.label      "Përparësi">
-<!ENTITY calendar.unifinder.tree.title.label         "Titull">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "Plotësuar &#37;">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Fillim">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Fund">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Mbarim">
-<!ENTITY calendar.unifinder.tree.completeddate.label "E plotësuar">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
-<!ENTITY calendar.unifinder.tree.location.label      "Vend">
-<!ENTITY calendar.unifinder.tree.status.label        "Gjendje">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Emër Kalendari">
-<!ENTITY calendar.unifinder.tree.duration.label      "Mbaron më">
-<!ENTITY calendar.unifinder.close.tooltip            "Mbyll kërkim ngjarjesh dhe listë ngjarjesh">
+<!ENTITY calendar.unifinder.tree.done.label              "I kryer">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klikoni që të renditen sipas Kryerjesh">
+<!ENTITY calendar.unifinder.tree.priority.label          "Përparësi">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klikoni që të renditen sipas Përparësish">
+<!ENTITY calendar.unifinder.tree.title.label             "Titull">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klikoni që të renditen sipas Titujsh">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; Plotësuar">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klikoni që të renditen sipas &#37; Plotësimesh">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Fillim">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klikoni që të renditen sipas Datash Fillimi">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Fund">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klikoni që të renditen sipas Datash Përfundimi">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Mbarim">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klikoni që të renditen sipas Datash Mbarimi">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "I plotësuar">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klikoni që të renditen sipas Plotësimesh">
+<!ENTITY calendar.unifinder.tree.categories.label        "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klikoni që të renditen sipas Kategorish">
+<!ENTITY calendar.unifinder.tree.location.label          "Vend">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klikoni që të renditen sipas Vendesh">
+<!ENTITY calendar.unifinder.tree.status.label            "Gjendje">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klikoni që të renditen sipas Gjendjesh">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Emër Kalendari">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klikoni që të renditen sipas Emrash Kalendarësh">
+<!ENTITY calendar.unifinder.tree.duration.label          "Mbaron më">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klikoni që të renditen sipas Mbarimesh">
+<!ENTITY calendar.unifinder.close.tooltip            "Mbyllni kërkim ngjarjesh dhe listë ngjarjesh">
 
-<!ENTITY calendar.today.button.tooltip            "Shko te e sotmja" >
-<!ENTITY calendar.todaypane.button.tooltip        "Shfaq kutinë për të Sotmen" >
+<!ENTITY calendar.today.button.tooltip            "Shkoni te e sotmja" >
+<!ENTITY calendar.todaypane.button.tooltip        "Shfaqni kutinë për të Sotmen" >
 
-<!ENTITY calendar.day.button.tooltip            "Kalo te pamje e ditës" >
-<!ENTITY calendar.week.button.tooltip           "Kalo te pamje e javës" >
-<!ENTITY calendar.month.button.tooltip          "Kalo te pamje e muajit" >
-<!ENTITY calendar.multiweek.button.tooltip      "Kalo te pamje shumëjavëshe" >
+<!ENTITY calendar.day.button.tooltip            "Kaloni te pamje e ditës" >
+<!ENTITY calendar.week.button.tooltip           "Kaloni te pamje e javës" >
+<!ENTITY calendar.month.button.tooltip          "Kaloni te pamje e muajit" >
+<!ENTITY calendar.multiweek.button.tooltip      "Kaloni te pamje shumëjavëshe" >
 
 <!ENTITY calendar.nextday.label                 "Dita Pasuese" >
 <!ENTITY calendar.prevday.label                 "Dita e Mëparshme" >
@@ -140,7 +114,7 @@
 <!ENTITY calendar.list.header.label                 "Kalendar">
 
 <!ENTITY calendar.task.filter.title.label           "Shfaq">
-<!ENTITY calendar.task.filter.all.label             "Tërë">
+<!ENTITY calendar.task.filter.all.label             "Krejt">
 <!ENTITY calendar.task.filter.all.accesskey         "T">
 <!ENTITY calendar.task.filter.today.label           "Sot">
 <!ENTITY calendar.task.filter.today.accesskey       "S">
@@ -168,11 +142,13 @@
 <!ENTITY calendar.task-details.start.label           "datë fillimi">
 <!ENTITY calendar.task-details.due.label             "datë mbarimi">
 
-
-
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizoni punët">
-<!ENTITY calendar.task.complete.button.tooltip  "Shënoji punët e përzgjedhura si të plotësuara">
+<!ENTITY calendar.task.complete.button.tooltip  "Shënojini punët e përzgjedhura si të plotësuara">
 <!ENTITY calendar.task.priority.button.tooltip  "Ndryshojini përparësinë">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtroni punët… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: U bë">
@@ -180,8 +156,8 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Hape">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "H">
-<!ENTITY calendar.context.modifyorviewtask.label      "Hapni Punë…">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "P">
+<!ENTITY calendar.context.modifyorviewtask.label      "Filloni Punë…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "F">
 <!ENTITY calendar.context.newevent.label              "Ngjarje e Re…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Punë e Re…">
@@ -189,7 +165,7 @@
 <!ENTITY calendar.context.deletetask.label            "Fshije Punën">
 <!ENTITY calendar.context.deletetask.accesskey        "i">
 <!ENTITY calendar.context.deleteevent.label           "Fshije Ngjarjen">
-<!ENTITY calendar.context.deleteevent.accesskey       "g">
+<!ENTITY calendar.context.deleteevent.accesskey       "a">
 <!ENTITY calendar.context.cutevent.label              "Prije">
 <!ENTITY calendar.context.cutevent.accesskey          "P">
 <!ENTITY calendar.context.copyevent.label             "Kopjoje">
@@ -199,7 +175,7 @@
 <!ENTITY calendar.context.button.label                "Kutia për Sot" >
 <!ENTITY calendar.context.button.accesskey            "K" >
 <!ENTITY calendar.context.attendance.menu.label       "Pjesëmarrje" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "j" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "e" >
 <!ENTITY calendar.context.attendance.occurrence.label "Këtë Herë" >
 <!ENTITY calendar.context.attendance.all.label        "Gjithë Herët" >
 
@@ -208,6 +184,9 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Përparësi">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Shtyje Punën Për Më Vonë">
+<!ENTITY calendar.context.postpone.accesskey          "S">
+
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -226,7 +205,7 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "E pacaktuar">
-<!ENTITY priority.level.none.accesskey      "p">
+<!ENTITY priority.level.none.accesskey      "c">
 <!ENTITY priority.level.low                 "E ulët">
 <!ENTITY priority.level.low.accesskey       "u">
 <!ENTITY priority.level.normal              "Normale">
@@ -241,8 +220,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "G" >
 <!ENTITY calendar.context.deleteserver.label           "Fshije Kalendarin">
 <!ENTITY calendar.context.deleteserver.accesskey       "F">
-<!ENTITY calendar.context.reloadserver.label           "Ringarko Kalendarë të Largët">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "Njëkohëso Kalendarët">
+<!ENTITY calendar.context.synccalendars.accesskey      "N">
 <!ENTITY calendar.context.publish.label                "Botoni Kalendar…">
 <!ENTITY calendar.context.publish.accesskey            "B">
 <!ENTITY calendar.context.export.label                 "Eksportoni Kalendar…">
@@ -304,7 +283,7 @@
 <!ENTITY calendarproperties.name.label                     "Emër:">
 <!ENTITY calendarproperties.readonly.label                 "Vetëm Lexim">
 <!ENTITY calendarproperties.firealarms.label               "Shfaq Alarme">
-<!ENTITY calendarproperties.cache.label                    "Fshehtinë (EKSPERIMENTALE, lyp rinisje)">
+<!ENTITY calendarproperties.cache3.label                   "Mbulim Offline">
 <!ENTITY calendarproperties.enabled.label                  "Vëre këtë kalendar në punë">
 <!ENTITY calendarproperties.forceDisabled.label            "Ofruesi i këtij kalendari nuk u gjet dot. Shpesh, kjo ndodh nëse keni çaktivizuar apo çinstaluar disa shtesa.">
 <!ENTITY calendarproperties.unsubscribe.label              "Çpajtomë">
@@ -355,6 +334,17 @@
 <!ENTITY calendar.task.filter.current.accesskey     "P">
 <!ENTITY calendar.task.filter.repeating.label       "Punë që Përsëriten">
 <!ENTITY calendar.task.filter.repeating.accesskey   "R">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Orë">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "O">
+<!ENTITY calendar.context.postpone.1day.label       "1 Ditë">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Javë">
+<!ENTITY calendar.context.postpone.1week.accesskey  "J">
+
+<!ENTITY calendar.copylink.label       "Kopjo Vend Lidhjeje">
+<!ENTITY calendar.copylink.accesskey   "K">
+
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
