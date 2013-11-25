@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutApps.title2                          "நிரலிகள்">
+<!ENTITY aboutApps.header                          "உங்களுடைய பயன்பாடுகள்">
+
+<!ENTITY aboutApps.browseMarketplace "பயர்பாக்ஸின் சந்தையில் உலாவு">
+<!ENTITY aboutApps.uninstall "நிறுவுல் நீக்கு">
+<!ENTITY aboutApps.addToHomescreen "முகப்பு திரையில் சேர்">

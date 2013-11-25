@@ -1,8 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "மென்பொருள் நிறுவல்">
-<!ENTITY dialog.style            "அகலம்: 45em">
-<!ENTITY warningPrimary.label    "நீங்கள் நம்பும் ஆசிரியரிற் கூடுதல் இணைப்புகளை மட்டுமே நிறுவவும்.">
-<!ENTITY warningSecondary.label  "முறையற்ற மென்பொருட்கள் உங்கள் கணினியை சேதப்படுத்தும் அல்லது உங்கள் இரகசியத்தை மீறும்.">
-
-<!ENTITY from.label "ஆரம்பம்:">

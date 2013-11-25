@@ -1,0 +1,93 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "பக்கத்தை ஏற்றுவதில் சிக்கல்">
+<!ENTITY retry.label "மீண்டும் முயற்சிக்கவும்">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "இணைக்க முடியவில்லை">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "இந்த முகவரி தடுக்கப்பட்டுள்ளது">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "சேவையகத்தை காண முடியவில்லை">
+
+
+<!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalization or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
+
+
+<!ENTITY generic.title "அச்சச்சோ.">
+
+
+<!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
+<!ENTITY malformedURI.longDesc "<ul> <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li> <li>Make sure that you're using forward slashes (i.e. <strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.title "இணைப்பில் தடங்கல் உள்ளது">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.</li></ul>">
+
+<!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
+
+
+<!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> 
+</ul>">
+
+<!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
+<!ENTITY protocolNotFound.longDesc "<ul> <li>You might need to install other software to open this address.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Contact your network administrator to make sure the proxy server is working.</li> </ul>">
+
+
+
+<!ENTITY redirectLoop.longDesc "<ul> <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li> </ul>">
+
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Check to make sure your system has the Personal Security Manager installed.</li> <li>This might be due to a non-standard configuration on the server.</li> </ul>">
+
+<!ENTITY nssFailure2.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
+<li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
+
+
+
+
+
+<!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
+
+
+<!ENTITY securityOverride.linkText "Or you can add an exception...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Get Me Out of Here">
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY remoteXUL.title "தொலைநிலை XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>இந்த பிரச்னையை தெரியபடுத்த வலைதள உரிமையாளரை தொடர்புகொள்ளவும்.</li></ul></p>">
+

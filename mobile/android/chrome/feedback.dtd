@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "பின்னூட்ட கருவிகள்">
+
+<!ENTITY feedback.communicate.title     "எங்களுக்கு தெரிவியுங்கள்!">
+<!ENTITY feedback.feedback.title        "கருத்து தெரிவிக்கவும்">
+<!ENTITY feedback.feedback.good         "நன்று">
+<!ENTITY feedback.feedback.bad          "தீய">
+
+<!ENTITY feedback.tools.title           "கருவிகள்">
+<!ENTITY feedback.allowTelemetry.title  "செயல்திறன் தரவைச் சமர்ப்பி">
+<!ENTITY feedback.forceCompat.title     "கூடுதல் இணைப்புகளின் ஏற்புடைமையை கட்டாயப்படுத்து">
+<!ENTITY feedback.errorConsole.title    "பிழை பணியகத்தை செயற்படுத்து">

@@ -1,17 +1,34 @@
-<!ENTITY restorepage.tabtitle       "அமர்வை மறுசேமி">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "அமர்வை மீட்டமை">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "சரி, இது தொந்தரவானது.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; உங்கள் சாளரங்கள் மற்றும் தத்தல்களை மீட்பதில் சிக்கலை கொண்டுள்ளது. இது சமீபத்தில் திறக்கப்பட்ட இணைய பக்கத்தால் ஏற்படுகிறது.">
+<!ENTITY restorepage.tryThis        "நீங்கள் முயற்சிக்கலாம்:">
 <!ENTITY restorepage.restoreSome    "ஒன்று அல்லது பல தத்தல்களை நீக்குவதை நீங்கள் சிக்கல் உண்டாக்கலாம் என நினைக்கலாம்">
 <!ENTITY restorepage.startNew       "முழுவதும் ஒரு புதிய உலாவும் அமர்வை துவக்குகிறது">
-<!ENTITY restorepage.tryThis        "நீங்கள் முயற்சிக்கலாம்:">
+
 <!ENTITY restorepage.tryagainButton "மறுசேமி">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "புதிய அமர்வை துவக்கு">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "மூடு">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "மறுசேமிப்பு">
 <!ENTITY restorepage.listHeader     "சாளரங்கள் மற்றும் தத்தல்கள்">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "சாளரம் &#37;S">
+<!ENTITY restorepage.windowLabel    "சாளரம் &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "மீண்டும் வருக!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "மீண்டும் வருக!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; உங்களின் விவரக்குறிப்பானது வெற்றிகரமாக மீட்டமைக்கப்பட்டது. கீழேயுள்ளவை நீங்கள் திறந்து வைத்துள்ள சாளரங்கள் மற்றும் தத்தல்களின் பட்டியல்; நீங்கள் அவைகளை மறுசேமிப்பு செய்யலாம் அல்லது சுத்தமாக நிலையில் துவக்கலாம்.">
