@@ -11,9 +11,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://th.wikipedia.org/wiki/พิเศษ:Search">
+<Url type="text/html" method="GET" template="http://th.wikipedia.org/wiki/พิเศษ:ค้นหา">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://th.wikipedia.org/wiki/พิเศษ:Search</SearchForm>
+<SearchForm>http://th.wikipedia.org/wiki/พิเศษ:ค้นหา</SearchForm>
 </SearchPlugin>
