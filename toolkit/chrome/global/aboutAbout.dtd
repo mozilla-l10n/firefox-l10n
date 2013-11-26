@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAbout.title  "Sobre sobre">
-<!ENTITY aboutAbout.note   "Isto é uma lista de páginas “Sobre” para sua informação.<br/>
-                            Algumas delas poderão ser confusas. Algumas são apenas para diagnóstico.<br/>
-                            E algumas são omitidas porque precisam de dados de entrada.">
+<!ENTITY aboutAbout.note   "Isto Ã© uma lista de pÃ¡ginas â€œSobreâ€ para sua informaÃ§Ã£o.<br/>
+                            Algumas delas poderÃ£o ser confusas. Algumas sÃ£o apenas para diagnÃ³stico.<br/>
+                            E algumas sÃ£o omitidas porque precisam de dados de entrada.">
