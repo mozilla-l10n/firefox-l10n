@@ -4,11 +4,11 @@
 
 <!ENTITY window.title  "Entrar no Canal">
 
-<!ENTITY network.label     "Rede:">
-<!ENTITY network.accesskey "e">
+<!ENTITY network.label     "Rede :">
+<!ENTITY network.accesskey "R">
 
-<!ENTITY channel.label     "Canal:">
-<!ENTITY channel.accesskey "C">
+<!ENTITY channel.label     "Sala :">
+<!ENTITY channel.accesskey "S">
 
 <!ENTITY topics.label     "Pesquisar tópicos assim como nomes dos canais">
 <!ENTITY topics.accesskey "t">
@@ -25,7 +25,7 @@
 <!ENTITY refresh.label     "Recarregar Agora">
 <!ENTITY refresh.accesskey "">
 
-<!ENTITY network.hint.label "Escreva um qualquer rede ou nome do servidor (pode incluir uma porta) e um canal para se juntar.">
+<!ENTITY network.hint.label "Escreva um nome de uma rede ou servidor (pode incluir uma porta) e um canal para se ligar.">
 
 <!ENTITY col.network "Rede">
 <!ENTITY col.name  "Nome">

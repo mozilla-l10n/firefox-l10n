@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Erro no carregamento da página">
 <!ENTITY retry.label "Tentar novamente">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Falhou ao ligar">
