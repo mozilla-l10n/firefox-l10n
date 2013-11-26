@@ -1,40 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 2001
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-     Jeff Beckley <beckley@qualcomm.com>
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -44,36 +10,41 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
-<!ENTITY importDialog.windowTitle "İçe aktar">
-<!ENTITY importAll.label "Her şeyi içe aktar">
-<!ENTITY importAll.accesskey "H">
-<!ENTITY importMail.label "E-posta">
-<!ENTITY importMail.accesskey "E">
-<!ENTITY importAddressbook.label "Adres defterleri">
+<!ENTITY importDialog.windowTitle "İçeri Aktarma">
+<!ENTITY importAll.label          "Her şeyi içe aktar">
+<!ENTITY importAll.accesskey      "H">
+<!ENTITY importMail.label         "E-posta">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importFeeds.label        "Besleme abonelikleri">
+<!ENTITY importFeeds.accesskey    "m">
+<!ENTITY importAddressbook.label  "Adres defterleri">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label "Ayarlar">
+<!ENTITY importSettings.label     "Ayarlar">
 <!ENTITY importSettings.accesskey "y">
-<!ENTITY importFilters.label "Süzgeçler">
-<!ENTITY importFilters.accesskey "S">
+<!ENTITY importFilters.label      "Süzgeçler">
+<!ENTITY importFilters.accesskey  "S">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "&brandShortName; Posta İçeri Aktarma Sihirbazı">
-<!ENTITY importShortDesc.label "Diğer uygulamalardan iletileri, adres defterlerini, ayarları ve süzgeçleri içe aktar">
+<!ENTITY importTitle.label        "&brandShortName; İçeri Aktarma Sihirbazı">
+<!ENTITY importShortDesc.label    "Diğer uygulamalardan iletileri, adres defterlerini, ayarları ve süzgeçleri içe aktar">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Bu sihirbaz; diğer e-posta programlarındaki ve sık kullanılan adres defteri biçimlerindeki posta iletilerini, adres defteri kayıtlarını, tercihleri ve/veya süzgeçleri &brandShortName; içine alacaktır.">
+<!ENTITY importDescription2.label "İçeri alınan kayıtlara daha sonra &brandShortName; içinden erişebileceksiniz.">
 
-<!ENTITY selectDescription.label "İçeri aktarmak istediğiniz yazılımı seçin:">
+<!ENTITY selectDescription.label  "İçeri aktarmak istediğiniz dosya türünü seçin:">
+<!ENTITY selectDescriptionB.label "Lütfen mevcut bir hesap seçin veya yeni bir hesap oluşturun:">
 <!ENTITY selectDescription.accesskey "a">
+<!ENTITY acctName.label           "İsim:">
+<!ENTITY acctName.accesskey       "s">
 
-<!ENTITY back.label "&lt; Geri">
-<!ENTITY forward.label "Sonraki &gt;">
-<!ENTITY finish.label "Bitir">
-<!ENTITY cancel.label "Vazgeç">
+<!ENTITY back.label               "&lt; Geri">
+<!ENTITY forward.label            "İleri &gt;">
+<!ENTITY finish.label             "Bitir">
+<!ENTITY cancel.label             "Vazgeç">
 
-<!ENTITY select.label "İçeri aktarmak istediklerim:">
+<!ENTITY select.label             "veya içe aktarmak istediklerini seç:">
 
-<!ENTITY title.label "Başlık">
-<!ENTITY processing.label "İçeri aktarılıyor…">
+<!ENTITY title.label              "Başlık">
+<!ENTITY processing.label         "İçeri aktarılıyor…">

@@ -1,4 +1,8 @@
-﻿<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Wikipedia (tr)</ShortName>
 <Description>Tümleşik arama</Description>
 <InputEncoding>UTF-8</InputEncoding>
@@ -7,9 +11,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://tr.wikipedia.org/wiki/%C3%96zel:Ara">
+<Url type="text/html" method="GET" template="http://tr.wikipedia.org/wiki/Özel:Ara">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://tr.wikipedia.org/wiki/%C3%96zel:Ara</SearchForm>
+<SearchForm>http://tr.wikipedia.org/wiki/Özel:Ara</SearchForm>
 </SearchPlugin>

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "Eklentiler">
+<!ENTITY aboutAddons.header2                    "Eklentileriniz">
+<!ENTITY aboutAddons.options                    "Seçenekler">
+<!ENTITY aboutAddons.browseAll                  "Tüm Firefox eklentilerine göz atın">
+
+<!ENTITY addonAction.enable                     "Etkinleştir">
+<!ENTITY addonAction.disable                    "Devre dışı bırak">
+<!ENTITY addonAction.uninstall                  "Kaldır">
+<!ENTITY addonAction.undo                       "Geri al">

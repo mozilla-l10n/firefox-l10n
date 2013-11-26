@@ -1,44 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is calendar views.
-   -
-   - The Initial Developer of the Original Code is
-   - Oracle Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Shaver <shaver@mozilla.org>
-   -   Simon Paquet <bugzilla@babylonsounds.com>
-   -   Matthew Willis <mattwillis@mac.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
-   -   Berend Cornelius <berend.cornelius@sun.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
@@ -46,60 +8,36 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "Takvim">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label "Etkinlik...">
+<!ENTITY lightning.menupopup.new.event.label    "Etkinlik...">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label "Görev…">
+<!ENTITY lightning.menupopup.new.task.label     "Görev…">
 <!ENTITY lightning.menupopup.new.task.accesskey "G">
 <!ENTITY lightning.menupopup.new.calendar.label "Takvim…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "T">
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label "Aç">
-<!ENTITY lightning.menupopup.open.accesskey "A">
-<!ENTITY lightning.menupopup.open.message.label "Kayıtlı iletiler…">
-<!ENTITY lightning.menupopup.open.message.accesskey "i">
-<!ENTITY lightning.menupopup.open.calendar.label "Takvim dosyası…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "T">
+<!ENTITY lightning.menupopup.open.label               "Aç">
+<!ENTITY lightning.menupopup.open.accesskey           "A">
+<!ENTITY lightning.menupopup.open.message.label       "Kayıtlı iletiler…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "i">
+<!ENTITY lightning.menupopup.open.calendar.label      "Takvim dosyası…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "T">
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label "Takvim">
-<!ENTITY lightning.menu.view.calendar.accesskey "T">
-<!ENTITY lightning.menu.view.tasks.label "Görevler">
-<!ENTITY lightning.menu.view.tasks.accesskey "G">
+<!ENTITY lightning.menu.view.calendar.label            "Takvim">
+<!ENTITY lightning.menu.view.calendar.accesskey        "T">
+<!ENTITY lightning.menu.view.tasks.label               "Görevler">
+<!ENTITY lightning.menu.view.tasks.accesskey           "G">
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label "Etkinlik ve görevler">
-<!ENTITY lightning.menu.eventtask.accesskey "n">
-<!-- Mode Toolbar -->
-
-<!ENTITY lightning.toolbar.mail.label "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
-<!ENTITY lightning.toolbar.calendar.label "Takvim">
-<!ENTITY lightning.toolbar.calendar.accesskey "T">
-<!ENTITY lightning.toolbar.task.label "Görevler">
-<!ENTITY lightning.toolbar.task.accesskey "G">
-<!-- Toolbar write button -->
-
-<!ENTITY lightning.toolbar.newevent.label "Etkinlik">
-<!ENTITY lightning.toolbar.newtask.label "Görev">
-<!-- Messenger Toolbar -->
-
-<!ENTITY lightning.toolbar.day.label "Gün">
-<!ENTITY lightning.toolbar.day.accesskey "G">
-<!ENTITY lightning.toolbar.week.label "Hafta">
-<!ENTITY lightning.toolbar.week.accesskey "H">
-<!ENTITY lightning.toolbar.multiweek.label "Çoklu haftalı">
-<!ENTITY lightning.toolbar.multiweek.accesskey "o">
-<!ENTITY lightning.toolbar.month.label "Ay">
-<!ENTITY lightning.toolbar.month.accesskey "y">
+<!ENTITY lightning.menu.eventtask.label                "Etkinlik ve görevler">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Bugün panelinde etkinlikleri göster">
-<!ENTITY lightning.calendarproperties.showtasks.label "Görevleri bugün panelinde ve görev kipinde göster">
-<!ENTITY lightning.calendarproperties.email.label "E-posta:">
+<!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.description "Bu ileti bir etkinliğe davetiyedir.">
@@ -117,7 +55,7 @@
 <!ENTITY todaypane.showMinimonth.label "Küçük ay takvimi göster">
 <!ENTITY todaypane.showMinimonth.accesskey "K">
 <!ENTITY todaypane.showMiniday.label "Günü Kısaca Göster">
-<!ENTITY todaypane.showMiniday.accesskey "G">
+<!ENTITY todaypane.showMiniday.accesskey  "G">
 <!ENTITY todaypane.showNone.label "Hiçbirini Gösterme">
 <!ENTITY todaypane.showNone.accesskey "H">
 <!ENTITY todaypane.showTodayPane.label "Bugünün Panelini Göster">

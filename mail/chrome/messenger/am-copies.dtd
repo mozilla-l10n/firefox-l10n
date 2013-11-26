@@ -1,46 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Kopyalar ve dizinler">
-<!ENTITY sendingPrefix.label "Postaları otomatik gönderirken">
+
+<!ENTITY copyAndFolderTitle.label "Kopyalar ve Dizinler">
+<!ENTITY sendingPrefix.label "İletileri gönderirken otomatik olarak: ">
 <!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
 <!ENTITY fccMailFolder.accesskey "p">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.label "Bu e-posta adreslerini Cc'ye ekle:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddressList.placeholder "Adresleri virgülle ayırın">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Adresi Bcc'ye ekle:">
+<!ENTITY bccAddress.label "Bu e-posta adreslerini Bcc'ye ekle:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
+<!ENTITY bccAddressList.placeholder "Adresleri virgülle ayırın">
+<!ENTITY saveMessageDlg.label "İletiler kaydedildiğinde onay penceresini göster">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Giden&quot; dizini:">
 <!ENTITY sentFolderOn.accesskey "e">
-<!ENTITY sentInOtherFolder.label "Diğer">
+<!ENTITY sentInOtherFolder.label "Diğer:">
 <!ENTITY sentInOtherFolder.accesskey "D">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archivesTitle.label "İleti arşivleri">
+<!ENTITY keepArchives.label "İleti arşivleri tutma yeri:">
+<!ENTITY keepArchives.accesskey "r">
+<!ENTITY archiveHierarchyButton.label "Arşivleme seçenekleri...">
 <!ENTITY archiveHierarchyButton.accesskey "A">
 <!ENTITY archivesFolderOn.label "&quot;Arşiv&quot; dizini:">
 <!ENTITY archivesFolderOn.accesskey "d">
 <!ENTITY archiveInOtherFolder.label "Diğer:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "E-postaları Taslak içinde bırak:">
+<!ENTITY specialFolders.label "Taslaklar ve şablonlar">
+<!ENTITY keepDrafts.label "İleti taslaklarının tutulacağı yer:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">
 <!ENTITY draftsFolderOn.accesskey "T">
-<!ENTITY draftInOtherFolder.label "Diğer">
+<!ENTITY draftInOtherFolder.label "Diğer:">
 <!ENTITY draftInOtherFolder.accesskey "D">
-<!ENTITY keepTemplates.label "E-postaların şablonlarını burda sakla:">
+<!ENTITY keepTemplates.label "İleti şablonlarının tutulacağı yer:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; dizini:">
-<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templatesFolderOn.label "&quot;Şablonlar&quot; dizini:">
+<!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Diğer:">
 <!ENTITY templateInOtherFolder.accesskey "r">

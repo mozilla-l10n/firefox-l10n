@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+<!ENTITY urlbar.emptytext      "Aranacak terim veya adres girin">
+
+<!ENTITY back.label            "Geri">
+<!ENTITY forward.label         "İleri">
+<!ENTITY newtab.label          "Yeni sekme">
+<!ENTITY closetab.label        "Sekmeyi kapat">
+
+<!ENTITY autocompleteResultsHeader.label  "Sonuçlarınız">
+
+<!ENTITY appbarErrorConsole.label   "Hata konsolunu aç">
+<!ENTITY appbarJSShell.label        "JavaScript kabuğunu aç">
+<!ENTITY appbarFindInPage2.label    "Sayfada bul">
+<!ENTITY appbarViewOnDesktop2.label "Masaüstünde görüntüle">
+<!ENTITY appbarMSMetaData2.label    "Bu sitenin uygulamasını indir">
+
+<!ENTITY topSitesHeader.label        "Sık Kullandıklarınız">
+<!ENTITY bookmarksHeader.label       "Yer İmleri">
+<!ENTITY recentHistoryHeader.label   "Yakın Geçmiş">
+<!ENTITY remoteTabsHeader.label      "Diğer Aygıtlardaki Sekmeler">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+<!ENTITY narrowTopSitesHeader.label      "Sık Kullandıklarınız">
+<!ENTITY narrowBookmarksHeader.label     "Yer İmleri">
+<!ENTITY narrowRecentHistoryHeader.label "Yakın Geçmiş">
+<!ENTITY narrowRemoteTabsHeader.label    "Uzak Sekmeler">
+
+<!ENTITY downloadsHeader.label     "İndirilenler">
+<!ENTITY downloadShowPage.label    "Sayfaya git">
+<!ENTITY downloadShow2.label       "Bul">
+<!ENTITY downloadOpen2.label       "Aç">
+<!ENTITY downloadCancel.label      "Vazgeç">
+<!ENTITY downloadPause.label       "Duraklat">
+<!ENTITY downloadResume.label      "Devam et">
+<!ENTITY downloadRetry.label       "Yeniden dene">
+<!ENTITY downloadRemove.label      "Kaldır">
+<!ENTITY downloadDelete.label      "Sil">
+<!ENTITY downloadFailed.label      "Hatalı">
+
+<!ENTITY allBookmarks.label        "Tüm yer imlerini göster">
+
+<!ENTITY consoleHeader.label       "Hata Konsolu">
+<!ENTITY consoleAll.label          "Tümü">
+<!ENTITY consoleErrors.label       "Hatalar">
+<!ENTITY consoleWarnings.label     "Uyarılar">
+<!ENTITY consoleMessages.label     "İletiler">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Temizle">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kaynak dosya:">
+<!ENTITY consoleErrLine.label      "Satır:">
+<!ENTITY consoleErrColumn.label    "Sütun:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "Kes">
+<!ENTITY contextTextCopy.label             "Kopyala">
+<!ENTITY contextTextPaste.label            "Yapıştır">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Yapıştır ve git">
+<!ENTITY contextTextSelect.label           "Seç">
+<!ENTITY contextTextSelectAll.label        "Tümünü seç">
+<!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Bağlantıyı yeni sekmede aç">
+<!ENTITY contextCopyLinkHref.label         "Bağlantıyı kopyala">
+<!ENTITY contextBookmarkLinkHref.label     "Bağlantıyı yer imlerine ekle">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Resmi kitaplığa kaydet">
+<!ENTITY contextCopyImage.label            "Resmi kopyala">
+<!ENTITY contextCopyImageLocation.label    "Resim konumunu kopyala">
+<!ENTITY contextOpenImageTab.label         "Resmi yeni sekmede aç">
+<!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Videoyu kitaplığa kaydet">
+<!ENTITY contextCopyVideoLocation.label    "Video konumunu kopyala">
+<!ENTITY contextOpenVideoTab.label         "Videoyu yeni sekmede aç">
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+

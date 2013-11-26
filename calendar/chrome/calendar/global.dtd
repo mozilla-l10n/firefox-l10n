@@ -1,91 +1,59 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY time.midnight "Gece yarısı">
-<!ENTITY time.noon "Öğlen">
+<!ENTITY time.midnight "Gece yarısı" >
+<!ENTITY time.noon "Öğlen" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-<!ENTITY day.1.Ddd "Paz">
+<!ENTITY day.1.Ddd "Paz" >
 <!ENTITY day.1.Ddd.accesskey "P">
-<!ENTITY day.2.Ddd "Pzt">
+<!ENTITY day.2.Ddd "Pzt" >
 <!ENTITY day.2.Ddd.accesskey "Z">
-<!ENTITY day.3.Ddd "Sal">
+<!ENTITY day.3.Ddd "Sal" >
 <!ENTITY day.3.Ddd.accesskey "S">
-<!ENTITY day.4.Ddd "Çar">
+<!ENTITY day.4.Ddd "Çar" >
 <!ENTITY day.4.Ddd.accesskey "a">
-<!ENTITY day.5.Ddd "Per">
+<!ENTITY day.5.Ddd "Per" >
 <!ENTITY day.5.Ddd.accesskey "e">
-<!ENTITY day.6.Ddd "Cum">
+<!ENTITY day.6.Ddd "Cum" >
 <!ENTITY day.6.Ddd.accesskey "C">
-<!ENTITY day.7.Ddd "Cmt">
+<!ENTITY day.7.Ddd "Cmt" >
 <!ENTITY day.7.Ddd.accesskey "m">
 
-<!ENTITY day.1.name "Pazar">
-<!ENTITY day.2.name "Pazartesi">
-<!ENTITY day.3.name "Salı">
-<!ENTITY day.4.name "Çarşamba">
-<!ENTITY day.5.name "Perşembe">
-<!ENTITY day.6.name "Cuma">
-<!ENTITY day.7.name "Cumartesi">
+<!ENTITY day.1.name "Pazar" >
+<!ENTITY day.2.name "Pazartesi" >
+<!ENTITY day.3.name "Salı" >
+<!ENTITY day.4.name "Çarşamba" >
+<!ENTITY day.5.name "Perşembe" >
+<!ENTITY day.6.name "Cuma" >
+<!ENTITY day.7.name "Cumartesi" >
 <!-- Units -->
 
-<!ENTITY calendar.global.units.minute "dakika">
-<!ENTITY calendar.global.units.minutes "dakika">
-<!ENTITY calendar.global.units.hour "saat">
-<!ENTITY calendar.global.units.hours "saat">
-<!ENTITY calendar.global.units.day "gün">
-<!ENTITY calendar.global.units.days "gün">
+<!ENTITY calendar.global.units.minute   "dakika">
+<!ENTITY calendar.global.units.minutes  "dakika">
+<!ENTITY calendar.global.units.hour     "saat">
+<!ENTITY calendar.global.units.hours    "saat">
+<!ENTITY calendar.global.units.day      "gün">
+<!ENTITY calendar.global.units.days     "gün">
 
-<!ENTITY month.1.name "Ocak">
-<!ENTITY month.2.name "Şubat">
-<!ENTITY month.3.name "Mart">
-<!ENTITY month.4.name "Nisan">
-<!ENTITY month.5.name "Mayıs">
-<!ENTITY month.6.name "Haziran">
-<!ENTITY month.7.name "Temmuz">
-<!ENTITY month.8.name "Ağustos">
-<!ENTITY month.9.name "Eylül">
-<!ENTITY month.10.name "Ekim">
-<!ENTITY month.11.name "Kasım">
-<!ENTITY month.12.name "Aralık">
+<!ENTITY month.1.name "Ocak" >
+<!ENTITY month.2.name "Şubat" >
+<!ENTITY month.3.name "Mart" >
+<!ENTITY month.4.name "Nisan" >
+<!ENTITY month.5.name "Mayıs" >
+<!ENTITY month.6.name "Haziran" >
+<!ENTITY month.7.name "Temmuz" >
+<!ENTITY month.8.name "Ağustos" >
+<!ENTITY month.9.name "Eylül" >
+<!ENTITY month.10.name "Ekim" >
+<!ENTITY month.11.name "Kasım" >
+<!ENTITY month.12.name "Aralık" >
 
-<!ENTITY onemonthbackward.tooltip "Bir ay geri">
-<!ENTITY onemonthforward.tooltip "Bir ay ileri">
+<!ENTITY onemonthbackward.tooltip "Bir ay geri" >
+<!ENTITY onemonthforward.tooltip "Bir ay ileri" >
 <!ENTITY showToday.tooltip "Bugüne git">
 <!ENTITY onedayforward.tooltip "Bir gün ileri">
 <!ENTITY onedaybackward.tooltip "Bir gün geri">

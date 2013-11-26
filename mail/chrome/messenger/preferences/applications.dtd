@@ -1,19 +1,38 @@
-<!ENTITY typeColumn.label "İçerik tipi">
-<!ENTITY typeColumn.accesskey "t">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY actionColumn2.label "Eylem">
-<!ENTITY actionColumn2.accesskey "E">
+<!ENTITY  typeColumn.label            "İçerik türü">
+<!ENTITY  typeColumn.accesskey        "t">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY  actionColumn2.label         "Eylem">
+<!ENTITY  actionColumn2.accesskey     "E">
 
-<!ENTITY filter.placeholder "Ara">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY saveTo.label "Dosyaları kaydetme konumu">
-<!ENTITY saveTo.accesskey "k">
-<!ENTITY alwaysAsk.label "Kaydetme konumu için bana sor">
-<!ENTITY alwaysAsk.accesskey "K">
-<!ENTITY chooseFolderWin.label "Gözat…">
-<!ENTITY chooseFolderWin.accesskey "G">
-<!ENTITY chooseFolderMac.label "Seç…">
-<!ENTITY chooseFolderMac.accesskey "S">
+<!ENTITY  filter.placeholder          "Ara">
+
+<!ENTITY saveTo.label                 "Dosyaları kaydetme konumu">
+<!ENTITY saveTo.accesskey             "k">
+<!ENTITY alwaysAsk.label              "Dosyaların nereye kaydedileceğini her zaman sor">
+<!ENTITY alwaysAsk.accesskey          "s">
+<!ENTITY chooseFolderWin.label        "Gözat…">
+<!ENTITY chooseFolderWin.accesskey    "G">
+<!ENTITY chooseFolderMac.label        "Seç…">
+<!ENTITY chooseFolderMac.accesskey    "S">
+
+<!ENTITY attachments.incoming.label   "Gelen">
+<!ENTITY attachments.outgoing.label   "Giden">
+
+<!ENTITY addCloudFileAccount.label        "Ekle">
+<!ENTITY addCloudFileAccount.accesskey    "E">
+<!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama servisi ekle">
+<!ENTITY removeCloudFileAccount.label     "Kaldır">
+<!ENTITY removeCloudFileAccount.accesskey "K">
+<!ENTITY authRequired.description         "Bu depolama servisinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
+<!ENTITY authRequired.button.label        "Yetkilendir">
+<!ENTITY authRequired.button.accesskey    "Y">
+
+<!ENTITY enableCloudFileAccountOffer.label "Şu boyuttan büyük dosyaları paylaşmayı öner:">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

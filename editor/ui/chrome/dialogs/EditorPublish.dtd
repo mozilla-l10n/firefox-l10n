@@ -1,98 +1,65 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Sayfa yayınla">
-<!ENTITY windowTitleSettings.label "Yayın ayarları">
-<!ENTITY publishTab.label "Yayınla">
-<!ENTITY settingsTab.label "Ayarlar">
-<!ENTITY publishButton.label "Yayınla">
+<!ENTITY windowTitle.label            "Sayfayı yayımla">
+<!ENTITY windowTitleSettings.label    "Yayın ayarları">
+<!ENTITY publishTab.label             "Yayımla">
+<!ENTITY settingsTab.label            "Ayarlar">
+<!ENTITY publishButton.label          "Yayımla">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label "Site Adı:">
-<!ENTITY siteList.accesskey "e">
-<!ENTITY siteList.tooltip "Yayınlamak istediğiniz sayfayı seçin">
-<!ENTITY newSiteButton.label "Yeni sayfa">
-<!ENTITY newSiteButton.accesskey "n">
-<!ENTITY docDirList.label "Bu sayfa için sayfa altdizini:">
-<!ENTITY docDirList.accesskey "s">
-<!ENTITY docDirList.tooltip "Bu sayfa için bir dizin seçin veya girin">
-<!ENTITY publishImgCheckbox.label "İmgeleri ve diğer dosyaları dahil et">
-<!ENTITY publishImgCheckbox.accesskey "g">
-<!ENTITY publishImgCheckbox.tooltip "Bu sayfanın dosyalarını referanse eden grafik ve diğerlerini yayınla">
-<!ENTITY sameLocationRadio.label "Sayfa ile aynı adresi kullan">
-<!ENTITY sameLocationRadio.accesskey "u">
-<!ENTITY sameLocationRadio.tooltip "Sayfadaki adresdeki gibi dosyaları yayınla">
-<!ENTITY useSubdirRadio.label "Bu sayfa altdizinini kullan:">
-<!ENTITY useSubdirRadio.accesskey "d">
-<!ENTITY useSubdirRadio.tooltip "Seçilen alt dizinleri yayınla">
-<!ENTITY otherDirList.tooltip "Dosyaların kaydedileceği alt dizini seçin veya girin">
-<!ENTITY pageTitle.label "Sayfa başlığı:">
-<!ENTITY pageTitle.accesskey "f">
-<!ENTITY pageTitle.tooltip "Penceredeki ve Yer imlerindeki sayfaları belirlemek için bir başlık adı verin">
-<!ENTITY pageTitleExample.label "örn.: &quot;Benim Web Sayfam&quot;">
-<!ENTITY filename.label "Dosya adı:">
-<!ENTITY filename.accesskey "a">
-<!ENTITY filename.tooltip "Bu dosya için '.html' şeklinde Websayfa ismini verin">
-<!ENTITY filenameExample.label "örn,: &quot;mypage.html&quot;">
-<!ENTITY setDefaultButton.label "Öntanımlı olarak seç">
-<!ENTITY setDefaultButton.accesskey "l">
-<!ENTITY removeButton.label "Sayfa Kaldır">
-<!ENTITY removeButton.accesskey "r">
+<!ENTITY siteList.label               "Site adı:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip             "Yayımlamak istediğiniz siteyi seçin">
+<!ENTITY newSiteButton.label          "Yeni site">
+<!ENTITY newSiteButton.accesskey      "n">
+<!ENTITY docDirList.label             "Bu sayfa için site alt dizini:">
+<!ENTITY docDirList.accesskey         "s">
+<!ENTITY docDirList.tooltip           "Bu sayfa için uzak dizini seçin veya girin">
+<!ENTITY publishImgCheckbox.label     "Resimleri ve diğer dosyaları dâhil et">
+<!ENTITY publishImgCheckbox.accesskey "d">
+<!ENTITY publishImgCheckbox.tooltip   "Bu sayfaya bağlanmış resimleri ve diğer dosyaları yayımla">
+<!ENTITY sameLocationRadio.label      "Sayfa ile aynı konumu kullan">
+<!ENTITY sameLocationRadio.accesskey  "u">
+<!ENTITY sameLocationRadio.tooltip    "Dosyaları sayfayla aynı konumda yayımla">
+<!ENTITY useSubdirRadio.label         "Bu site alt dizinini kullan:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Dosyaları seçilen uzak alt dizinde yayımla">
+<!ENTITY otherDirList.tooltip         "Dosyaların yayımlanacağı uzak alt dizini seçin veya girin">
+<!ENTITY pageTitle.label              "Sayfa başlığı:">
+<!ENTITY pageTitle.accesskey          "f">
+<!ENTITY pageTitle.tooltip            "Sayfayı pencerede ve yer imlerinde tanımlamak için bir başlık girin">
+<!ENTITY pageTitleExample.label       "örnek: &quot;Web sayfam&quot;">
+<!ENTITY filename.label               "Dosya adı:">
+<!ENTITY filename.accesskey           "a">
+<!ENTITY filename.tooltip             "Bu dosya için bir isim girin. Web sayfaları '.html' ile bitmelidir.">
+<!ENTITY filenameExample.label        "örnek: &quot;sayfam.html&quot;">
+<!ENTITY setDefaultButton.label       "Varsayılan olarak ayarla">
+<!ENTITY setDefaultButton.accesskey   "V">
+<!ENTITY removeButton.label           "Siteyi kaldır">
+<!ENTITY removeButton.accesskey       "r">
 <!-- Settings Tab Panel -->
 
-<!ENTITY publishSites.label "Yayınlanan Siteler">
-<!ENTITY serverInfo.label "Sunucu bilgileri">
-<!ENTITY loginInfo.label "Bağlantı Bilgileri">
-<!ENTITY siteName.label "Sayfa Adı:">
-<!ENTITY siteName.accesskey "d">
-<!ENTITY siteName.tooltip "Yayınlama sayfasını tanımlayan takma bir isim verin (örn: 'Benimsitem')">
-<!ENTITY siteUrl.label "URL Yayınlama (örn. 'ftp://ftp.myisp.com/myusername'):">
-<!ENTITY siteUrl.accesskey "a">
-<!ENTITY siteUrl.tooltip "ISS veya Web Hosting Servisi tarfından sizin hizmetinize sunulan FTP://- veya HTTP://- Adresi">
-<!ENTITY browseUrl.label "Homepage sayfanızın adresi (örn.: 'http://www.myisp.com/myusername'):">
-<!ENTITY browseUrl.accesskey "H">
-<!ENTITY browseUrl.tooltip "Ana dizininizin HTTP://-Adresi (dosya ismi vermeyin)">
-<!ENTITY username.label "Kullanıcı adı:">
-<!ENTITY username.accesskey "u">
-<!ENTITY username.tooltip "ISS veya Web Hosting Servisi için kullandığınız kullanıcı adı">
-<!ENTITY password.label "Parola:">
-<!ENTITY password.accesskey "P">
-<!ENTITY password.tooltip "Kullanıcı ismine ait parola">
-<!ENTITY savePassword.label "Parolayı kaydet">
-<!ENTITY savePassword.accesskey "k">
-<!ENTITY savePassword.tooltip "Parolanızı , parola yöneticisi ile kaydetmek için bunu seçin.">
+<!ENTITY publishSites.label           "Yayın siteleri">
+<!ENTITY serverInfo.label             "Sunucu bilgileri">
+<!ENTITY loginInfo.label              "Oturum açma bilgileri">
+<!ENTITY siteName.label               "Site adı:">
+<!ENTITY siteName.accesskey           "d">
+<!ENTITY siteName.tooltip             "Yayımlama sitesini tanımlayan takma bir isim (örnek: 'BenimSitem')">
+<!ENTITY siteUrl.label                "Yayın adresi (örnek: 'ftp://ftp.adresim.com/kullaniciadi'):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "İSS'niz veya barındırma sağlayıcınız tarafından size verilen FTP:// veya HTTP:// adresi">
+<!ENTITY browseUrl.label              "Ana sayfanızın HTTP adresi (örn.: 'http://www.adresim.com/kullaniciadi'):">
+<!ENTITY browseUrl.accesskey          "H">
+<!ENTITY browseUrl.tooltip            "Ana dizininizin HTTP:// adresi (dosya ismi vermeyin)">
+<!ENTITY username.label               "Kullanıcı adı:">
+<!ENTITY username.accesskey           "u">
+<!ENTITY username.tooltip             "İSS'nize veya barındırma sağlayıcınıza oturum açmak için kullandığınız kullanıcı adı">
+<!ENTITY password.label               "Parola:">
+<!ENTITY password.accesskey           "P">
+<!ENTITY password.tooltip             "Kullanıcı ismine ait parola">
+<!ENTITY savePassword.label           "Parolayı kaydet">
+<!ENTITY savePassword.accesskey       "k">
+<!ENTITY savePassword.tooltip         "Parolanızı , parola yöneticisi ile kaydetmek için bunu seçin.">

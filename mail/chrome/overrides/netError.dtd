@@ -1,52 +1,55 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
-<!ENTITY retry.label "Yeniden Dene">
+<!ENTITY retry.label "Yeniden dene">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Bağlanamıyor">
+<!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Adres erişimi kısıtlanmış">
+<!ENTITY deniedPortAccess.title "Bu adres kısıtlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Sunucu bulunamamıştı">
+<!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li><strong>www</strong>.siteadresi.com yerine 
-<strong>ww</strong>.siteadresi.com 
-adres yanlış yazılmış olabilir.</li> 
+<li>Adres <strong>www</strong>.sunucu.com yerine 
+<strong>ww</strong>.sunucu.com 
+gibi yanlış yazılmış olabilir.</li> 
 <li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
 <li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Dosya isminindeki büyük küçük harf yanlışı gibi yazı yanlışlarını kontrol ediniz.</li> 
-<li>Dosyanın taşındığını, adını değiştirdiğini veya silindiğini kontrol ediniz.</li> 
+<!ENTITY fileNotFound.longDesc " <ul> 
+<li>Dosya isminindeki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
+<li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
 </ul>">
 
-<!ENTITY generic.title "Ops.">
+<!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bazı nedenlerden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc '<ul> 
-<li>Web adreslerinin kullanımı aşağıdaki gibidir: 
-<strong>http://www.lapis.org/</strong></li> 
-<li>Lütfen <strong> "/" </strong> işaretini doğru bir şekilde kullandığınızdan emin olun. 
-/).</li> 
-</ul>'>
+<!ENTITY malformedURI.longDesc " <ul> 
+<li>Web adresleri genellikle <strong>http://www.mozilla.org.tr/</strong> şeklinde yazılır.</li> 
+<li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> 
+</ul>">
 
-<!ENTITY netInterrupt.title "Bağlantı kesilmiş">
+<!ENTITY netInterrupt.title "Bağlantı kesintiye uğradı">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Çevrim dışı bağlantı">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY notCached.title "Belge zaman aşımına uğradı">
+<!ENTITY notCached.longDesc "<p>Talep edilen belge önbellekte mevcut değil.</p><ul><li>&brandShortName; bir güvenlik önlemi olarak, hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
+
+<!ENTITY netOffline.title "Çevrim dışı kip">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -58,51 +61,51 @@ adres yanlış yazılmış olabilir.</li>
 <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
 </ul>">
 
-<!ENTITY netReset.title "Bağlantı sıfırlanmış">
+<!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Bağlantı zaman aşımına uğramış">
+<!ENTITY netTimeout.title "Bağlantı zaman aşımına uğradı">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adres türü desteklenmiyor">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Bu adresi açmak için başka bir uygulama kurmanız gerekebilir.</li> 
+<!ENTITY protocolNotFound.title "Adres anlaşılamadı">
+<!ENTITY protocolNotFound.longDesc " <ul> 
+<li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Vekil sunucusu bağlantıyı reddediyor">
+<!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantıları reddediyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Vekil sunucu ayarlarının doğruluğunu kontrol edin.</li> 
 <li>Sistem yöneticiniz ile irtibata geçin ve vekil sunucunuzu kontrol ettirin.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Vekil sunucusu bulunamıyor">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Vekil sunucusu ayarlarının doğru olduğundan emin olun.</li> 
+<!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
+<!ENTITY proxyResolveFailure.longDesc " <ul> 
+<li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> 
 <li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
-<li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> 
+<li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Bazen bu sorunun nedeni  çerezlerin etkisizleştirilmesi veya 
-reddi olabiliyor.</li> 
+<!ENTITY redirectLoop.longDesc " <ul> 
+<li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya 
+reddedilmesi olabilmektedir.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kişisel güvenlik yöneticisinin kurulu olduğundan emin olunuz</li> 
-<li>Standart olmayan sunucu ayarlarından kaynaklanabilir.</li> 
+<!ENTITY unknownSocketType.longDesc " <ul> 
+<li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
+<li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Bağlanmaya çalıştığınız sayfanın içerik güvenilirliği doğrulanamadığı için gösterilemiyor.</li> 
+<!ENTITY nssFailure2.longDesc " <ul> 
+<li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> 
 <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatası">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
+<!ENTITY nssBadCert.longDesc2 " <ul> 
+<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan veya birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
 <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
 </ul>">
 
@@ -122,11 +125,11 @@ bağlantısını kontrol edin.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
 <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
+<!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz içerik gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
@@ -143,4 +146,4 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">

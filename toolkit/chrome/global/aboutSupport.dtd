@@ -1,11 +1,21 @@
-<!ENTITY aboutSupport.pageTitle "Sorun çözme bilgisi">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. &brandShortName; hakkında genel sorularla ilgili yanıt arıyorsanız <a id='supportLink'>destek sitemizi</a> ziyaret edin.">
+
+<!ENTITY aboutSupport.crashes.title "Çökme Raporları">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Rapor kimliği">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.sendDate "Gönderim">
+<!ENTITY aboutSupport.crashes.allReports "Tüm Çökme Raporları">
+<!ENTITY aboutSupport.crashes.noConfig "Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.">
 
 <!ENTITY aboutSupport.extensionsTitle "Eklentiler">
 <!ENTITY aboutSupport.extensionName "Adı">
@@ -16,27 +26,53 @@
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Güncelleme geçmişi">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Güncelleme geçmişini göster">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik dizini">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profil klasörü">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Devredeki yan uygulamalar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
 <!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı aracı">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Bellek kullanımı">
 
-<!ENTITY aboutSupport.show.label "Bulunduğu dizini aç">
+<!ENTITY aboutSupport.showDir.label "Dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Finder'da göster">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Klasörü göster">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Değiştirilen tercihler">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Değiştirilmiş önemli tercihler">
 <!ENTITY aboutSupport.modifiedPrefsName "Adı">
 <!ENTITY aboutSupport.modifiedPrefsValue "Değer">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js Tercihleri">
+<!ENTITY aboutSupport.userJSDescription "Profil klasörünüz, &brandShortName; tarafından oluşturulmamış tercihler içeren bir <a id='prefs-user-js-link'>user.js dosyası</a> içeriyor.">
 
 <!ENTITY aboutSupport.graphicsTitle "Çizimler">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
-<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Artırımlı GC">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Tümünü panoya kopyala">
+<!ENTITY aboutSupport.a11yTitle "Erişilebilirlik">
+<!ENTITY aboutSupport.a11yActivated "Etkinleştirildi">
+<!ENTITY aboutSupport.a11yForceDisabled "Erişilebilirliği engelle">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Kitaplık sürümleri">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
+<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme Geçmişi">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Metni panoya kopyala">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Ham metni panoya kopyala">

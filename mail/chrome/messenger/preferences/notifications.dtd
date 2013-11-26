@@ -1,11 +1,22 @@
-<!ENTITY notificationsDialog2.title "Yeni ileti uyarısı ayarları">
-<!ENTITY window.width "36em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY alertCustomization.intro "Uyarılarda hangi alanların gösterileceğini seçin:">
-<!ENTITY previewText.label "İleti önizleme metni">
-<!ENTITY previewText.accesskey "İ">
-<!ENTITY subject.label "Konu">
-<!ENTITY subject.accesskey "K">
-<!ENTITY sender.label "Gönderen">
-<!ENTITY sender.accesskey "e">
+<!ENTITY notificationsDialog2.title       "Yeni Posta Uyarısını Özelleştir">
+<!ENTITY window.width                     "30em">
 
+<!ENTITY alertCustomization.intro         "Uyarı bildiriminde hangi alanların gösterileceğini seçin:">
+<!ENTITY previewText.label                "İleti ön izleme metni">
+<!ENTITY previewText.accesskey            "İ">
+<!ENTITY subject.label                    "Konu">
+<!ENTITY subject.accesskey                "K">
+<!ENTITY sender.label                     "Gönderen">
+<!ENTITY sender.accesskey                 "e">
+<!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
+there's a field where the user can enter a number, and totalOpenTimeEnd.label
+is displayed at the end of the line. The translations of the
+totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
+the exact same thing as in English; please try instead to translate the whole
+sentence. -->
+
+<!ENTITY  totalOpenTimeEnd.label          "saniye sonra">

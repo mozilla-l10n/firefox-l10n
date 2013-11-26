@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Seçenekler">
+<!ENTITY optionsHeader.char.title                                "Karakter Kodlaması">
+<!ENTITY optionsHeader.char.autodetect.label                     "Otomatik algıla">
+<!ENTITY optionsHeader.char.options.label                        "Kodlama seçeneklerini Uygulama Çubuğu'nda göster">
+
+<!ENTITY clearPrivateData.title                                  "Özel Verileri Temizle">
+<!ENTITY clearPrivateData.label                                  "Bu aygıttaki tarama geçmişinizi, parolaları, çerezleri ve form verilerini temizleyin">
+<!ENTITY clearPrivateData.button                                 "Temizle">
+<!ENTITY clearPrivateData.done                                   "Bitti!">
+<!ENTITY clearPrivateData.history                                "Tarama geçmişi">
+<!ENTITY clearPrivateData.otherdata                              "Diğer veriler (parolalar, önbellek, çerezler vb.)">
+<!ENTITY clearPrivateData.downloadHist                           "İndirme geçmişi">
+<!ENTITY clearPrivateData.cookies                                "Çerezler">
+<!ENTITY clearPrivateData.cache                                  "Önbellek">
+<!ENTITY clearPrivateData.sitePref                               "Site tercihleri">
+<!ENTITY clearPrivateData.formSearchHist                         "Form ve arama geçmişi">
+<!ENTITY clearPrivateData.passwords                              "Kayıtlı parolalar">
+<!ENTITY clearPrivateData.offline                                "Çevrim dışı site verileri">
+<!ENTITY clearPrivateData.logins                                 "Etkin oturumlar">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
+<!ENTITY doNotTrack.title                                        "Beni İzleme">
+<!ENTITY doNotTrack.options.doNotTrack                           "Web sitelerine izlenmek istemediğimi söyle">
+<!ENTITY doNotTrack.options.doTrack                              "Web sitelerine izlenmek istediğimi söyle">
+<!ENTITY doNotTrack.options.default                              "Web sitelerine izleme tercihlerimle ilgili bir şey söyleme">
+<!ENTITY doNotTrack.learnMoreLink                                "Daha fazla bilgi alın&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Çökme Habercisi">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;, Mozilla'nın tarayıcınızı daha kararlı ve güvenli hâle getirmesine yardımcı olmak için çökme raporlarını gönderir">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                            "Tarayıcınızı iyileştirmemize yardımcı olmak için &brandShortName; kullanım istatistiklerini Mozilla ile paylaşır">

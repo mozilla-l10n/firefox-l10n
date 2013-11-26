@@ -1,108 +1,73 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Resim Dosyası Özellikleri">
+<!ENTITY windowTitle.label "Resim Özellikleri">
 
 <!ENTITY pixelsPopup.value "piksel">
 <!-- These are in the Location tab panel -->
 
-<!ENTITY locationEditField.label "Resim dosyası adresi:">
+<!ENTITY locationEditField.label "Resim konumu:">
 <!ENTITY locationEditField.accessKey "R">
-<!ENTITY locationEditField.tooltip "Görüntünün adını ve konumunu yazın">
-<!ENTITY title.label "Tip:">
-<!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "Görüntülenen 'title' özniteliğini tip olarak">
+<!ENTITY locationEditField.tooltip "Resmin dosya adını veya konumunu yazın">
+<!ENTITY title.label "Bilgi notu:">
+<!ENTITY title.accessKey "B">
+<!ENTITY title.tooltip "Fareyle üzerine gelindiğinde görünecek html 'title' özniteliği">
 <!ENTITY altText.label "Alternatif metin:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Görüntünün yerinde görüntülenecek olan metni yazın">
+<!ENTITY altTextEditField.tooltip "Resmin yerinde görüntülenecek olan metni yazın">
 <!ENTITY noAltText.label "Alternatif metin kullanma">
-<!ENTITY noAltText.accessKey "A">
+<!ENTITY noAltText.accessKey "k">
 
-<!ENTITY previewBox.label "Resim dosyası önizleme">
+<!ENTITY previewBox.label "Resim önizleme">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
 <!ENTITY actualSize.label "Gerçek boyut:">
 <!ENTITY actualSizeRadio.label "Gerçek boyut">
 <!ENTITY actualSizeRadio.accessKey "e">
-<!ENTITY actualSizeRadio.tooltip "Görüntüyü gerçek boyutlarına döndür">
+<!ENTITY actualSizeRadio.tooltip "Resmin gerçek boyutlarına dön">
 <!ENTITY customSizeRadio.label "Özel Boyut">
 <!ENTITY customSizeRadio.accessKey "l">
-<!ENTITY customSizeRadio.tooltip "Görüntünün boyutunu sayfada göründüğü gibi değiştir">
+<!ENTITY customSizeRadio.tooltip "Resmin boyutunu sayfada göründüğü gibi değiştir">
 <!ENTITY heightEditField.label "Yükseklik:">
 <!ENTITY heightEditField.accessKey "Y">
 <!ENTITY widthEditField.label "Genişlik:">
 <!ENTITY widthEditField.accessKey "G">
 <!ENTITY constrainCheckbox.label "Zorla">
 <!ENTITY constrainCheckbox.accessKey "l">
-<!ENTITY constrainCheckbox.tooltip "Görüntünün orantısını ayarla">
+<!ENTITY constrainCheckbox.tooltip "Resmin en boy oranını koru">
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Görüntü Haritası">
 <!ENTITY removeImageMapButton.label "Kaldır">
 <!ENTITY removeImageMapButton.accessKey "K">
-<!ENTITY editImageMapButton.label "Düzenle…">
-<!ENTITY editImageMapButton.tooltip "Bu görüntü için tıklanabilir noktalar oluştur">
 <!-- These are the options for image alignment -->
 
-<!ENTITY alignment.label "Metni görüntüye yerleştir">
+<!ENTITY alignment.label "Metni resme hizala">
 <!ENTITY bottomPopup.value "Altta">
 <!ENTITY topPopup.value "Üstte">
 <!ENTITY centerPopup.value "Ortada">
-<!ENTITY wrapRightPopup.value "Sağa kaydır">
-<!ENTITY wrapLeftPopup.value "Sola kaydır">
+<!ENTITY wrapRightPopup.value "Sağa yasla">
+<!ENTITY wrapLeftPopup.value "Sola yasla">
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Aralık">
-<!ENTITY leftRightEditField.label "Sol ve Sağ:">
+<!ENTITY leftRightEditField.label "Sol ve sağ:">
 <!ENTITY leftRightEditField.accessKey "l">
-<!ENTITY topBottomEditField.label "Üst ve Alt:">
+<!ENTITY topBottomEditField.label "Üst ve alt:">
 <!ENTITY topBottomEditField.accessKey "s">
-<!ENTITY borderEditField.label "Katı Çerçeve:">
-<!ENTITY borderEditField.accessKey "r">
+<!ENTITY borderEditField.label "Kesintisiz kenarlık:">
+<!ENTITY borderEditField.accessKey "s">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Bağlantılı görüntünün etrafında çerçeve göster">
-<!ENTITY showImageLinkBorder.accessKey "v">
-<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY showImageLinkBorder.label "Bağlantılı resmin etrafında kenarlık göster">
+<!ENTITY showImageLinkBorder.accessKey "g">
+<!ENTITY LinkAdvancedEditButton.label "Gelişmiş bağlantı düzenleme…">
+<!ENTITY LinkAdvancedEditButton.accessKey "G">
 <!ENTITY LinkAdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
 <!-- These tabs are currently used in the image input dialog -->
 

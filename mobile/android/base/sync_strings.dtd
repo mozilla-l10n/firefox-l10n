@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;\u0027e bağlan">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; hesabı ekle">
+<!ENTITY sync.title.pair.label "Aygıt eşleştir">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\u0027i kur”u seçin.">
+<!ENTITY sync.subtitle.header2.label "Bu kodu diğer aygıtınıza girin">
+<!ENTITY sync.subtitle.connectlocation2.label "Diğer cihazınızın Firefox ayarlarındaki &syncBrand.shortName.label; bölümünden “&sync.title.pair.label;”yi seçin.">
+<!ENTITY sync.subtitle.pair.label "Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Nasıl yapılacağını göster.">
+<!ENTITY sync.link.advancedsetup.label "Gelişmiş kurulum...">
+<!ENTITY sync.link.nodevice.label "Aygıt yanımda değil…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Diğer aygıt bekleniyor…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "&syncBrand.fullName.label; hesap bilgilerinizi girin">
+<!ENTITY sync.input.username.label "Hesap adı">
+<!ENTITY sync.input.password.label "Parola">
+<!ENTITY sync.input.key.label "Kurtarma anahtarı">
+<!ENTITY sync.checkbox.server.label "Özel sunucu kullan">
+<!ENTITY sync.input.server.label "Sunucu adresi">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; kurulamadı">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; sunucuya bağlanamadı. Tekrar denemek ister misiniz?">
+<!ENTITY sync.button.tryagain.label "Yeniden dene">
+<!ENTITY sync.button.manual.label "Elle kurulum">
+<!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yok.">
+<!ENTITY sync.subtitle.failaccount.label "Aygıtınızda hesap oluşturma başarısız oldu.">
+<!ENTITY sync.subtitle.failmultiple.label "Birden fazla Firefox kurulumunuz mu var? Şimdilik &syncBrand.fullName.label; aynı anda tek bir Firefox kurulumunu destekliyor. &syncBrand.shortName.label;\u0027ı kullanmak için lütfen diğer kurulumları kaldırın.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Kurulum tamamlandı">
+<!ENTITY sync.subtitle.success.label1 "Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar kısmına gidebilir veya &brandShortName; ile gezinmeye başlayabilirsiniz.">
+<!ENTITY sync.settings.label "Ayarlar">
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar kısmına gidebilir veya &brandShortName; uygulamasını açabilirsiniz.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Lütfen tekrar deneyin.">
+<!ENTITY sync.pair.connectlocation.label "Yeni aygıtınızı etkinleştirmek için, “&syncBrand.shortName.label; kurulumu”nu seçin ve ardından “Hesabım var” ı seçin.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Seçenekler">
+<!ENTITY sync.summary.pair.label "&syncBrand.shortName.label; hesabınıza başka bir aygıtı bağlayın">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Eşitlenecek ögeler">
+<!ENTITY sync.configure.engines.sync.my.title.label "Aşağıdakileri eşitle:">
+<!ENTITY sync.configure.engines.title.bookmarks "Yer imleri">
+<!ENTITY sync.configure.engines.title.passwords "Parolalar">
+<!ENTITY sync.configure.engines.title.history "Geçmiş">
+<!ENTITY sync.configure.engines.title.tabs "Sekmeler">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "İptal">
+<!ENTITY sync.button.connect.label "Bağlan">
+<!ENTITY sync.button.ok.label "Tamam">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Yer imleri menüsü">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Etiketler">
+<!ENTITY bookmarks.folder.toolbar.label "Yer imi araç çubuğu">
+<!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış yer imleri">
+<!ENTITY bookmarks.folder.desktop.label "Masaüstü yer imleri">
+<!ENTITY bookmarks.folder.mobile.label "Mobil yer imleri">
+<!ENTITY bookmarks.folder.readinglist.label "Okuma listesi">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Sabitlenmiş">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.">
+<!ENTITY sync.notification.configure.saved "Seçimleriniz kaydedildi.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Yanlış hesap adı veya parola.">
+<!ENTITY sync.invalidserver.label "Lütfen geçerli bir sunucu adresi girin">
+<!ENTITY sync.verifying.label "Doğrulanıyor…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Kurtarma anahtarı yanlış. Lütfen tekrar deneyin.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Sekmeyi aygıtlara gönder">
+<!ENTITY sync.button.send.label "Gönder">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;\u0027i kur">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Sekme göndermek için &syncBrand.shortName.label;\u0027i kurun">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Diğer aygıtlara sekme göndermek için aygıtınızda &syncBrand.fullName.label;\u0027i kurun.">
+<!ENTITY sync.text.tab.sent.label "Sekmeniz gönderildi!">
+<!ENTITY sync.text.tab.not.sent.label "Sekmeniz gönderilirken bir sorun oluştu.">

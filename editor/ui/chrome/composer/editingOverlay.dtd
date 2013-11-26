@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- File menu items -->
+
+<!ENTITY openFileCmd.label "Dosya aç…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.key "o">
+<!ENTITY openRemoteCmd.label "Web konumu aç…">
+<!ENTITY openRemoteCmd.accesskey "k">
+<!ENTITY openRemoteCmd.key "W">
+<!ENTITY fileRecentMenu.label "Son sayfalar">
+<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY saveCmd.label "Kaydet">
+<!ENTITY saveCmd.accesskey "K">
+<!ENTITY saveAsCmd.label "Farklı kaydet…">
+<!ENTITY saveAsCmd.accesskey "F">
+<!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+<!ENTITY publishCmd.label "Yayımla">
+<!ENTITY publishCmd.accesskey "Y">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Farklı yayımla…">
+<!ENTITY publishAsCmd.accesskey "y">
+<!ENTITY fileRevert.label "Geri al">
+<!ENTITY fileRevert.accesskey "G">
+<!-- Edit menu items -->
+
+<!ENTITY publishSettings.label "Yayın sitesi ayarları">
+<!ENTITY publishSettings.accesskey "Y">
+<!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "Yeni">
+<!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
+<!ENTITY openToolbarCmd.label "Aç ">
+<!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
+<!ENTITY saveToolbarCmd.tooltip "Dosyayı yerel bir konuma kaydet">
+<!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
