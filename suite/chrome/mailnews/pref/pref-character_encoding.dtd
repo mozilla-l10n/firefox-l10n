@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Tekenset">
 <!ENTITY messageDisplay.caption          "Berichtenweergave">
-<!ENTITY viewDefaultCharset.label        "Standaard tekenset:">
-<!ENTITY viewDefaultCharset.accesskey    "S">
+<!ENTITY viewFallbackCharset.label       "Terugval tekenset:">
+<!ENTITY viewFallbackCharset.accesskey   "t">
+<!ENTITY viewFallbackCharset.desc        "Deze tekenset wordt gebruikt voor legacy-inhoud die geen eigen tekeset kan declareren.)">
 
 <!ENTITY composingMessages.caption       "Berichten opstellen">
 <!ENTITY useMIME.label                   "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
