@@ -24,7 +24,7 @@
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "端口:">
 <!ENTITY  HTTPPort.accesskey            "o">
-<!ENTITY  advanced.label                "字体…">
+<!ENTITY  advanced.label                "高级…">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "不使用代理:">
 <!ENTITY  noproxy.accesskey             "N">

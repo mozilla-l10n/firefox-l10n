@@ -522,7 +522,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY advancedButton.label "字体…">
+<!ENTITY advancedButton.label "高级…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY searchButton.label "搜索消息…">
 <!ENTITY searchButton.accesskey "S">

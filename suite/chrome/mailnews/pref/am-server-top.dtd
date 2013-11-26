@@ -72,7 +72,7 @@
 <!ENTITY abbreviate.label "在“邮件夹”中显示新闻组名为：">
 <!ENTITY abbreviateOn.label "全名（例如，'netscape.public.mozilla.mail-news'）">
 <!ENTITY abbreviateOff.label "缩写名（例如，'n.p.m.mail-news'）">
-<!ENTITY advancedButton.label "字体…">
+<!ENTITY advancedButton.label "高级…">
 <!ENTITY serverDefaultCharset.label "默认字符编码:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "本地目录：">
