@@ -3,18 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY aboutHeader.title          "Sobre">
-<!ENTITY aboutHeader.product.label  "&brandShortName;">
-<!ENTITY aboutHeader.company.label  "pela &vendorShortName;">
-<!ENTITY aboutHeader.policy.label   "Ler a política de privacidade do the &brandShortName; online">
+<!ENTITY aboutHeader.title                        "Sobre o ">
+<!ENTITY aboutHeader.product.label                "&brandShortName; ">
+<!ENTITY aboutHeader.company.label                "da &vendorShortName;">
+<!ENTITY aboutHeader.policy.label                 "Ler a política de privacidade do &brandShortName;">
+
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "A procurar atualizações…">
+<!ENTITY update.checkingForUpdates                "Procurar atualizações...">
+
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "A verificar a compatibilidade dos extras…">
+<!ENTITY update.checkingAddonCompat               "A verificar compatibilidade dos extras...">
+
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado">
+<!ENTITY update.noUpdatesFound                    "O &brandShortName; está atualizado">
+
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Atualizações desativadas pelo seu administrador">
+<!ENTITY update.adminDisabled                     "Atualizações desativadas pelo  administrador">
+
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates      "O &brandShortName; está a ser atualizado por outro processo">
 
@@ -23,30 +28,28 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Atualização falhada. ">
-<!ENTITY update.failed.linkText     "Transfira a última versão">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.start                      "Atualização falhada. ">
+<!ENTITY update.failed.linkText                   "Transferir a última versão">
+<!ENTITY update.failed.end                        "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Atualizações disponíveis em ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.start                      "Atualizações disponíveis em ">
+<!ENTITY update.manual.end                        "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "A transferir atualização — ">
-<!ENTITY update.downloading.end     "">
-
-<!ENTITY update.applying            "A aplicar atualização…">
+<!ENTITY update.downloading.start                 "A transferir atualização — ">
+<!ENTITY update.downloading.end                   "">
+<!ENTITY update.applying                          "A aplicar atualização...">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "De momento está no ">
-<!ENTITY channel.description.end    " canal de atualização. ">
-
+<!ENTITY channel.description.start                "Você está no canal de atualização">
+<!ENTITY channel.description.end                  " .">
