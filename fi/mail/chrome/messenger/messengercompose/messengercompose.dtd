@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey  "h">
 <!ENTITY printSetupCmd.label  "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey  "e">
+<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
+<!ENTITY printPreviewCmd.accesskey "T">
 <!ENTITY printCmd.label  "Tulosta…">
 <!ENTITY printCmd.key  "P">
 <!ENTITY printCmd.accesskey  "o">
