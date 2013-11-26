@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+<!ENTITY safeb.palm.accept.label "Lasu min foriri el ĉi tie!">
+<!ENTITY safeb.palm.decline.label "Ignori tiun ĉi atentigon">
+<!ENTITY safeb.palm.notforgery.label2 "Tio ĉi ne estas reta falsaĵo…">
+<!ENTITY safeb.palm.reportPage.label "Kial tiu ĉi retejo estis blokita?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "Denuncita ataka retejo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "La retejo ĉe <span id='malware_sitename'/> estis denuncita kiel ataka retejo, kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatajn informojn, uzas vian komputilon por ataki aliajn aŭ difektas vian sistemon.</p><p>Kelkaj retejoj intence distribuas difektan programaron, sed multaj estas uzataj sen la scio aŭ permeso de ĝiaj posedantoj.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Suspected Web Forgery!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Retfalsaĵo suspektata!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Enigi personajn informojn en tiu ĉi paĝo povas rezulti ŝtelo de idento aŭ aliaj trompŝteloj.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tiu ĉi tipo de teksaĵaj falsaĵoj estas uzataj en trompoplanoj, konataj kiel rettrompaj atakoj, en kiuj trompaj paĝoj kaj retpoŝtoj estas uzataj por imiti fontojn, kiujn vi fidas.</p>">
