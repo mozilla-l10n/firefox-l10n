@@ -5,14 +5,11 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 <!ENTITY urlbar.emptytext "Escreva a pesquisa ou endereço">
-
 <!ENTITY back.label "Recuar">
 <!ENTITY forward.label "Avançar">
 <!ENTITY newtab.label "Novo separador">
 <!ENTITY closetab.label "Fechar separador">
-
 <!ENTITY autocompleteResultsHeader.label "Os seus resultados">
-
 <!ENTITY appbarErrorConsole.label "Abrir consola de erros">
 <!ENTITY appbarJSShell.label "Abrir consola JavaScript">
 <!ENTITY appbarFindInPage2.label "Localizar na página">
@@ -24,7 +21,6 @@
 <!ENTITY bookmarksHeader.label "Marcadores">
 <!ENTITY recentHistoryHeader.label "Histórico recente">
 <!ENTITY remoteTabsHeader.label "Separadores de outros dispositivos">
-
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -36,7 +32,6 @@
 <!ENTITY narrowBookmarksHeader.label "Marcadores">
 <!ENTITY narrowRecentHistoryHeader.label "Histórico recente">
 <!ENTITY narrowRemoteTabsHeader.label "Separadores remotos">
-
 <!ENTITY downloadsHeader.label "Transferênciass">
 <!ENTITY downloadShowPage.label "Ir para página">
 <!ENTITY downloadShow2.label "Localizar">
@@ -48,9 +43,7 @@
 <!ENTITY downloadRemove.label "Remover">
 <!ENTITY downloadDelete.label "Eliminar">
 <!ENTITY downloadFailed.label "Falhou">
-
 <!ENTITY allBookmarks.label "Ver todos os marcadores">
-
 <!ENTITY consoleHeader.label "Consola de erros">
 <!ENTITY consoleAll.label "Tudo">
 <!ENTITY consoleErrors.label "Erros">
