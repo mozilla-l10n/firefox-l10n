@@ -1,4 +1,4 @@
 bingmetrofx
 googlemetrofx
-wikipedia
-yahoo
+wikipedia-zh-CN
+baidu

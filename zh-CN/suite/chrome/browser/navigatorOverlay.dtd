@@ -26,7 +26,7 @@
 <!ENTITY findOnCmd.label "在当前页查找…">
 
 <!-- View Menu -->
-<!ENTITY toolbarsCmd.label "显示／隐藏 (w)">
+<!ENTITY toolbarsCmd.label "显示/隐藏">
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY tabbarCmd.label "标签页栏 (T)">
 <!ENTITY tabbarCmd.accesskey "T">
