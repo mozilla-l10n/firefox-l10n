@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Uusi viesti">
 <!ENTITY appmenuNewContactCmd.label "Osoitekirjan yhteistyö…">
 <!ENTITY appmenuEditMenu.label "Muokkaa">
-<!ENTITY appmenuQFBMenu.label "Pikasuodatuspalkki">
 <!ENTITY appmenuToolbarLayout.label "Työkalupalkin asettelu…">
 <!ENTITY appmenuSelectThread.label "Valitse viestiketju">
 <!ENTITY appmenuSelectFlagged.label "Valitse tähdellä merkityt viestit">
