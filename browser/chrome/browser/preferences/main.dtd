@@ -2,31 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label                  "Arranque">
+<!ENTITY startup.label             "Início">
 
-<!ENTITY startupPage.label              "Ao iniciar o &brandShortName;:">
-<!ENTITY startupPage.accesskey          "i">
-<!ENTITY startupHomePage.label          "Mostrar página inicial">
-<!ENTITY startupBlankPage.label         "Mostrar página vazia">
-<!ENTITY startupLastSession.label       "Mostrar janelas e separadores da última sessão">
+<!ENTITY startupPage.label         "Quando o &brandShortName; inicia:">
+<!ENTITY startupPage.accesskey     "I">
+<!ENTITY startupHomePage.label     "Mostrar a minha página inicial">
+<!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
+<!ENTITY startupLastSession.label  "Mostrar as minhas janelas e separadores abertos da última vez">
 
-<!ENTITY homepage.label                 "Página inicial:">
-<!ENTITY homepage.accesskey             "P">
-<!ENTITY useCurrentPage.label           "Utilizar a página atual">
-<!ENTITY useCurrentPage.accesskey       "u">
-<!ENTITY useMultiple.label              "Utilizar as páginas atuais">
-<!ENTITY chooseBookmark.label           "Utilizar marcador">
-<!ENTITY chooseBookmark.accesskey       "m">
-<!ENTITY restoreDefault.label           "Repor valor original">
-<!ENTITY restoreDefault.accesskey       "R">
+<!ENTITY homepage.label            "Página Inicial:">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Utilizar a página actual">
+<!ENTITY useCurrentPage.accesskey  "u">
+<!ENTITY useMultiple.label         "Utilizar as páginas atuais">
+<!ENTITY chooseBookmark.label      "Utilizar marcador">
+<!ENTITY chooseBookmark.accesskey  "m">
+<!ENTITY restoreDefault.label      "Repor valor de origem">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label                "Transferências">
+<!ENTITY downloads.label     "Transferências">
 
-<!ENTITY saveTo.label                   "Gravar ficheiros em">
-<!ENTITY saveTo.accesskey               "v">
-<!ENTITY chooseFolderWin.label          "Procurar...">
-<!ENTITY chooseFolderWin.accesskey      "N">
-<!ENTITY chooseFolderMac.label          "Escolher...">
-<!ENTITY chooseFolderMac.accesskey      "E">
-<!ENTITY alwaysAsk.label                "Perguntar sempre o local de gravação">
-<!ENTITY alwaysAsk.accesskey            "s">
+<!ENTITY showWhenDownloading.label     "Mostrar a janela de Transferências durante a transferência de um ficheiro">
+<!ENTITY showWhenDownloading.accesskey "T">
+<!ENTITY closeWhenDone.label "Fechar a janela quando todas as transferências terminarem">
+<!ENTITY closeWhenDone.accesskey "F">
+<!ENTITY saveTo.label "Gravar ficheiros em">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Navegar...">
+<!ENTITY chooseFolderWin.accesskey    "N">
+<!ENTITY chooseFolderMac.label        "Escolher...">
+<!ENTITY chooseFolderMac.accesskey    "E">
+<!ENTITY alwaysAsk.label "Perguntar sempre onde gravar os ficheiros">
+<!ENTITY alwaysAsk.accesskey "s">
