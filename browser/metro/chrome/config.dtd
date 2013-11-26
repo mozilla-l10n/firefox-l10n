@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
-<!ENTITY addpref.name           "Name">
-<!ENTITY addpref.value          "Value">
+<!ENTITY empty.label            "Serĉi">
+<!ENTITY newpref.label          "Aldoni novan preferon">
+<!ENTITY addpref.name           "Nomo">
+<!ENTITY addpref.value          "Valoro">
 
-<!ENTITY cancel.label           "Cancel">
+<!ENTITY cancel.label           "Nuligi">
 <!ENTITY reset.label            "Rekomenci">
-<!ENTITY done.label             "Done">
+<!ENTITY done.label             "Preta">
 
 <!ENTITY integer.label          "Numero">
 <!ENTITY string.label           "Teksto">
