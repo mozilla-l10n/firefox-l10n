@@ -8,12 +8,12 @@
 <!ENTITY setColor1.label "Clique numa cor ou">
 <!ENTITY setColor2.label "introduza um código de cor HTML">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; ou &quot;blue&quot;):">
-<!ENTITY default.label "Pré-Definido">
-<!ENTITY default.accessKey "D">
+<!ENTITY setColorExample.label "(ex.: &quot;#0000ff&quot; ou &quot;blue&quot;):">
+<!ENTITY default.label "Pré-definido">
+<!ENTITY default.accessKey "d">
 <!ENTITY palette.label "Palete:">
-<!ENTITY standardPalette.label "Normalizada">
-<!ENTITY webPalette.label "Todas as cores da web">
+<!ENTITY standardPalette.label "Padrão">
+<!ENTITY webPalette.label "Todas as cores web">
 <!ENTITY background.label "Fundo para:">
 <!ENTITY background.accessKey "F">
 <!ENTITY table.label "Tabela">
