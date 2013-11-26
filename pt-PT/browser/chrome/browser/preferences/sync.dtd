@@ -10,20 +10,22 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label           "Atualizar">
-<!ENTITY resetPass.label            "Reiniciar">
+<!ENTITY updatePass.label             "Atualizar">
+<!ENTITY resetPass.label              "Reiniciar">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label        "Gerir conta">
-<!ENTITY manageAccount.accesskey    "a">
-<!ENTITY viewQuota.label            "Ver quota">
-<!ENTITY changePassword2.label      "Alterar senha">
-<!ENTITY myRecoveryKey.label        "A minha chave de recuperação">
-<!ENTITY resetSync2.label           "Reiniciar o Sync">
-<!ENTITY pairDevice.label           "Emparelhar um dispositivo">
-<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY manageAccount.label          "Gerir conta">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "Ver quota">
+<!ENTITY changePassword2.label        "Alterar senha">
+<!ENTITY myRecoveryKey.label          "A minha chave de recuperação">
+<!ENTITY resetSync2.label             "Reiniciar o Sync">
+
+<!ENTITY pairDevice.label             "Emparelhar um dispositivo">
+
+<!ENTITY syncMy.label               "Sincronizar os meus">
 <!ENTITY engine.bookmarks.label     "Marcadores">
-<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Separadores">
 <!ENTITY engine.tabs.accesskey      "p">
 <!ENTITY engine.history.label       "Histórico">
@@ -38,7 +40,7 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nome do dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "s">
-<!ENTITY unlinkDevice.label         "Desvincular este dispositivo">
+<!ENTITY unlinkDevice.label           "Desligar este dispositivo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos do serviço">

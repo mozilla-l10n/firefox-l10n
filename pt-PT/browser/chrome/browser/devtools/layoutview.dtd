@@ -18,6 +18,6 @@
 
 <!ENTITY title                  "Modelo de caixa">
 <!ENTITY margins.tooltip        "margens">
-<!ENTITY borders.tooltip        "contornos">
+<!ENTITY borders.tooltip        "limites">
 <!ENTITY padding.tooltip        "padding">
 <!ENTITY content.tooltip        "conteúdo">
