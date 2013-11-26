@@ -1,38 +1,49 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Küçült">
-<!ENTITY bringAllToFront.label "Hepsini ön plana getir">
-<!ENTITY zoomWindow.label "Yakınlaştır">
-<!ENTITY windowMenu.label "Pencere">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY helpMenu.label "Yardım">
-<!ENTITY helpMenu.accesskey "Y">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Küçült">
+<!ENTITY bringAllToFront.label    "Hepsini ön plana getir">
+<!ENTITY zoomWindow.label         "Yakınlaştır">
+<!ENTITY windowMenu.label         "Pencere">
+
+<!ENTITY helpMenu.label           "Yardım"> 
+<!ENTITY helpMenu.accesskey       "Y"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Yardım">
-<!ENTITY helpMenuWin.accesskey "Y">
-<!ENTITY aboutProduct.label "&brandShortName; hakkında">
-<!ENTITY aboutProduct.accesskey "h">
-<!ENTITY productHelp.label "&brandShortName; yardımı">
-<!ENTITY productHelp.accesskey "y">
-<!ENTITY helpMac.commandkey "?">
-<!ENTITY helpSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
-<!ENTITY helpSafeMode.accesskey "b">
+<!ENTITY helpMenuWin.label        "Yardım"> 
+<!ENTITY helpMenuWin.accesskey    "Y">
+<!ENTITY aboutProduct.label       "&brandShortName; hakkında">
+<!ENTITY aboutProduct.accesskey   "h">
+<!ENTITY productHelp.label        "&brandShortName; yardımı">
+<!ENTITY productHelp.accesskey    "y">
+<!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
-<!ENTITY helpTroubleshootingInfo.accesskey "S">
+<!ENTITY helpKeyboardShortcuts.label     "Klavye kısayolları">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpFeedbackPage.label "Geri bildirim gönder...">
-<!ENTITY helpFeedbackPage.accesskey "G">
+<!ENTITY helpSafeMode.label       "Eklentileri devre dışı bırakıp tekrar başlat…">
+<!ENTITY helpSafeMode.accesskey   "b">
 
-<!ENTITY preferencesCmdMac.label "Tercihler…">
-<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY healthReport.label       "&brandShortName; Sağlık Raporu">
+<!ENTITY healthReport.accesskey   "S">
 
-<!ENTITY servicesMenuMac.label "Servisler">
+<!ENTITY helpTroubleshootingInfo.label      "Sorun giderme bilgileri">
+<!ENTITY helpTroubleshootingInfo.accesskey  "S">
 
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; uygulamasını gizle">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY helpFeedbackPage.label      "Geri bildirim gönder…">
+<!ENTITY helpFeedbackPage.accesskey  "G">
 
-<!ENTITY hideOtherAppsCmdMac.label "Diğerlerini gizle">
+<!ENTITY preferencesCmdMac.label        "Tercihler…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Servisler">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; uygulamasını gizle">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Diğerlerini gizle">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label "Tümünü göster">
+<!ENTITY showAllAppsCmdMac.label        "Tümünü göster">

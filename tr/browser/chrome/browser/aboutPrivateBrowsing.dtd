@@ -1,24 +1,21 @@
-<!ENTITY privatebrowsingpage.title "Gizli tarama">
-<!ENTITY privatebrowsingpage.title.normal "Gizli taramayı başlatmak ister misiniz?">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
-<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; hâlihazırda gizli taramada değil.">
+<!ENTITY privatebrowsingpage.title                 "Gizli tarama">
+<!ENTITY privatebrowsingpage.title.normal          "Gizli taramayı başlatmak ister misiniz?">
 
-<!ENTITY privatebrowsingpage.description "&brandShortName; gizli tarama boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydı tutulmayacaklara dahildir. İndirdiğiniz dosyalar ya da kaydettiğiniz yer imleri ise korunacaktır.">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; bu pencereye ait geçmişi hatırlamayacaktır.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Şu anda gizi bir pencerede değilsiniz.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "İşe ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner "yakın zamandaki tarama kayıtlarını silerek">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter " başlayabilirsiniz.">
+<!ENTITY privatebrowsingpage.perwindow.description     "Gizli tarama penceresinde &brandShortName; hiçbir tarayıcı geçmişini, arama geçmişini, indirme geçmişini, web formu geçmişini, çerezleri ve geçici internet dosyalarını saklamayacaktır. Sadece indirdiğiniz dosyalar ve yer imlerinize eklediğiniz sayfalar korunacaktır.">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Gizli taramayı başlat">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "G">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Gizli pencere aç">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "G">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2 "Gizli taramadan çıkmak için &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; yolunu izleyin ya da &brandShortName; uygulamasını kapatın.">
-<!ENTITY privatebrowsingpage.howToStart2 "Gizli taramayı başlatmak için &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; yolunu da izleyebilirsiniz.">
+<!ENTITY privatebrowsingpage.howToStart3               "Gizli taramayı başlatmak için &basePBMenu.label; &gt; &newPrivateWindow.label;'yi de seçebilirsiniz.">
+<!ENTITY privatebrowsingpage.howToStop3                "Gizli taramayı sonlandırmak için bu pencereyi kapatabilirsiniz.">
 
-<!ENTITY privatebrowsingpage.moreInfo "Tarama geçmişinizle ilgili kayıtlar bu bilgisayar tarafından tutulmayacak olsa bile, internet servis sağlayıcınız ya da işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">
-<!ENTITY privatebrowsingpage.learnMore "Daha fazla bilgi">
+<!ENTITY privatebrowsingpage.moreInfo                  "Tarama geçmişinizle ilgili kayıtlar bu bilgisayar tarafından tutulmayacak olsa bile, internet servis sağlayıcınız veya işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">
+<!ENTITY privatebrowsingpage.learnMore                 "Daha fazla bilgi">

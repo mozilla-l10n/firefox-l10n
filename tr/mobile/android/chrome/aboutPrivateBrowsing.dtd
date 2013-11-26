@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Gizli Tarama">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Yeni bir gizli sekme açtınız.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Gizli bir sekmede değilsiniz.">
+
+<!ENTITY privatebrowsingpage.description            "Gizli sekmelerde &brandShortName; hiçbir tarayıcı geçmişini, arama geçmişini, indirme geçmişini, web formu geçmişini, çerezleri ve geçici internet dosyalarını saklamayacaktır. Sadece indirdiğiniz dosyalar ve yer imlerinize eklediğiniz sayfalar korunacaktır.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Tarama geçmişinizle ilgili kayıtlar bu aygıtta tutulmayacak olsa bile, internet servis sağlayıcınız veya işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">

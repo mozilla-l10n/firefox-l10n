@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Gereksiz posta ayarları">
 <!ENTITY trainingWarning.label "Eğer bu özellik açılmışsa, Gereksiz ileti araç çubuğunu kullanarak &brandShortName; uygulamasına iletileri gereksiz olarak işaretleyip, işaretlemeyeceğini göstermelisiniz. Gereksiz ve gerekli iletileri tanımlamalısınız.">
 <!ENTITY level.label "Gereksiz posta kontrolünü etkinleştir">

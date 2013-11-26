@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY settings.caption "Ayarlar">
 <!ENTITY security.caption "Güvenlik ve kimlik doğrulama">
 <!ENTITY serverName.label "Sunucu adı:">
@@ -16,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP sunucusu">
 <!ENTITY serverPortDefault.label "Öntanımlı:">
-<!ENTITY authMethod.label "Authentication method:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Yetkilendirme yöntemi:">
+<!ENTITY authMethod.accesskey "Y">

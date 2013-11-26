@@ -1,17 +1,21 @@
-<!ENTITY lookInMenuList.label "İçine bak:">
-<!ENTITY lookInMenuList.accesskey "i">
-<!ENTITY textInput.label "Dosya adı:">
-<!ENTITY textInput.accesskey "D">
-<!ENTITY filterMenuList.label "Dosya türleri:">
-<!ENTITY filterMenuList.accesskey "t">
-<!ENTITY name.label "Adı">
-<!ENTITY size.label "Boyut">
-<!ENTITY lastModified.label "Son değişiklik">
-<!ENTITY showHiddenFiles.label "Gizli dosya ve dizinleri göster">
-<!ENTITY showHiddenFiles.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Burada bul:">
+<!ENTITY lookInMenuList.accesskey   "B">
+<!ENTITY textInput.label        "Dosya adı:">
+<!ENTITY textInput.accesskey        "D">
+<!ENTITY filterMenuList.label   "Dosya türleri:">
+<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY name.label             "Adı">
+<!ENTITY size.label             "Boyut">
+<!ENTITY lastModified.label     "Son değişiklik">
+<!ENTITY showHiddenFiles.label  "Gizli dosya ve dizinleri göster">
+<!ENTITY showHiddenFiles.accesskey  "d">
 
 <!ENTITY noPermissionError.label "Bu dizinleri izleme için gerekli haklarınız yok.">
 
-<!ENTITY folderUp.tooltiptext "Bir basamak üste git">
+<!ENTITY folderUp.tooltiptext   "Bir basamak üste git">
 <!ENTITY folderHome.tooltiptext "Başa git">
-<!ENTITY folderNew.tooltiptext "Yeni dizin oluştur">
+<!ENTITY folderNew.tooltiptext  "Yeni dizin oluştur">

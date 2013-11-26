@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Yer imlerinize, parolalarınıza ve açık sekmelerinize tüm aygıtlarınızdan erişin">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label;'i kur">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;'i kur">
+<!ENTITY sync.flyout.setup.description1        "Zaten &syncBrand.shortName.label; hesabınız varsa diğer aygıtınızdan &quot;Aygıt eşleştir&quot;i seçip bu kodu girin.">
+<!ENTITY sync.flyout.setup.description2        "&syncBrand.shortName.label; hesabınız yoksa masaüstü &brandShortName; tarayıcısını kullanarak hesap oluşturabilirsiniz.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Bilgisayarımın yakınında değilim...">
+<!ENTITY sync.flyout.setup.description3        "Not:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;Aygıt eşleştir&quot;i bulmak için">
+<!ENTITY sync.flyout.setup.description5_2      "[Masaüstü] &quot;Seçenekler&quot; veya &quot;Tercihler&quot;i açıp &quot;&syncBrand.shortName.label;&quot;i seçin">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Daha fazla &gt; Ayarlar &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Lütfen &syncBrand.shortName.label; hesap bilgilerinizi ve bilgisayarınız tarafından üretilen kurtarma anahtarını girin">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Hesap adı">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Parola">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Kurtarma anahtarı">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Bağlan">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; tarayıcısını &syncBrand.shortName.label; hesabına bağladınız">
+<!ENTITY sync.flyout.setupsuccess.description2      "&syncBrand.shortName.label; verileriniz şu anda arka planda indiriliyor. Eşitlenen sekmeleriniz &brandShortName; Başlangıç Sayfası'nda belirecektir.">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;, &syncBrand.shortName.label; hesabınıza bağlanamadı.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "İptal">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Yeniden dene">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Hesap:">
+<!ENTITY sync.flyout.connected.device                     "Aygıtınız:">
+<!ENTITY sync.flyout.connected.disconnect                 "Bağlantıyı kes">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Cihazınızın &syncBrand.shortName.label; bağlantısı kesilsin mi?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Hem bu cihazdaki hem de &syncBrand.shortName.label; hesabınızdaki tüm kişisel verileriniz olduğu gibi kalacaktır.">
+<!ENTITY sync.flyout.connected.cancel                     "İptal">
+<!ENTITY sync.flyout.connected.pair                       "Aygıt eşleştir">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Eşleştirmek istediğiniz yeni aygıtta &quot;&syncBrand.shortName.label;&apos;i kur&quot;u seçip, aygıtın ürettiği kodu girin">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Eşleştir">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Not:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Kodu bulmak için">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Masaüstü] &quot;Seçenekler&quot; veya &quot;Tercihler&quot;i açıp şu adımları izleyin: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label;&apos;ı kur -&gt; Hesabım var">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Daha fazla &gt; Ayarlar &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Lütfen tekrar deneyin">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Yeni aygıt başarıyla eklendi.">
+<!ENTITY sync.flyout.pairSuccess.description2             "&syncBrand.shortName.label; verileriniz şu anda arka planda indiriliyor. Uzak sekmeleriniz &brandShortName; Başlangıç Sayfası'nda belirecektir.">

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Bağlı değil">
+<!ENTITY sync.connect               "Bağlan">
+<!ENTITY sync.connected             "Bağlı">
+<!ENTITY sync.details               "Ayrıntılar">
+<!ENTITY sync.deviceName            "Bu cihaz">
+<!ENTITY sync.disconnect            "Bağlantıyı kes">
+<!ENTITY sync.syncNow               "Şimdi eşitle">
+
+<!ENTITY sync.setup.title           "Eşitleme sunucusuna bağlan">
+<!ENTITY sync.setup.pair            "Etkinleştirmek için, diğer aygıtınızdan &quot;Aygıt eşleştir&quot;i seçin.">
+<!ENTITY sync.fallback              "Bilgisayarımın yakınında değilim...">
+<!ENTITY sync.setup.manual          "Sync hesap bilgilerinizi girin">
+<!ENTITY sync.account               "Hesap adı">
+<!ENTITY sync.password              "Parola">
+<!ENTITY sync.recoveryKey           "Kurtarma anahtarı">
+<!ENTITY sync.customServer          "Özel sunucu kullan">
+<!ENTITY sync.serverURL             "Sunucu adresi">
+<!ENTITY sync.setup.connect         "Bağlan">
+<!ENTITY sync.setup.cancel          "İptal">
+<!ENTITY sync.setup.tutorial        "Nasıl yapılacağını göster">
+<!ENTITY sync.setup.waiting2        "Diğer aygıt bekleniyor…">
+
+<!ENTITY sync.pair.title            "Aygıt eşleştir">
+<!ENTITY sync.pair.description      "Yeni aygtınızı etkinleştirmek için, diğer aygıttan &quot;Eşitlemeyi kur&quot;u seçin.">
+<!ENTITY sync.setup.close           "Kapat">
+<!ENTITY sync.setup.waitingdownload "Verileriniz şu anda arka planda indiriliyor. Bu pencereyi istediğiniz zaman kapatabilirsiniz.">

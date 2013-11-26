@@ -1,13 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandFullName; başlangıç sayfası">
+<!ENTITY abouthome.pageTitle "&brandFullName; Başlangıç Sayfası">
 
 <!ENTITY abouthome.searchEngineButton.label "Arama">
-
-<!ENTITY abouthome.aboutMozilla "Mozilla hakkında">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -16,4 +20,14 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefox'u istediğiniz şekilde özelleştirmeniz çok kolay <a>Binlerce eklentiden istediklerinizi seçin</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox'u istediğiniz şekilde özelleştirmeniz çok kolay. <a>Binlerce eklentiden dilediğinizi seçin</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "Kâr amacı gütmeyen Mozilla Vakfı tarafından sunulan &brandFullName;, özgür ve açık kaynaklı bir yazılımdır.<a>Haklarınızı bilin…</a>">
+
+<!ENTITY abouthome.bookmarksButton.label "Yer İmleri">
+<!ENTITY abouthome.historyButton.label   "Geçmiş">
+<!ENTITY abouthome.settingsButton.label  "Ayarlar">
+<!ENTITY abouthome.addonsButton.label    "Eklentiler">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "İndirilenler">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
