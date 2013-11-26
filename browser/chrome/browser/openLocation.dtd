@@ -1,8 +1,14 @@
-<!ENTITY caption.label "Вэб хаяг нээ">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/openLocation.xul -->
+
+
+<!ENTITY enter.label "Вэб хаягаа оруул, эсвэл нээх дотоод файлынхаа байрлалыг заана уу:">  
 <!ENTITY chooseFile.label "Файл сонго…">
-<!ENTITY enter.label "Вэб хаягаа оруул, эсвэл нээх дотоод файлынхаа байрлалыг заана уу:">
-<!ENTITY newTab.label "Шинэ тэйб">
+<!ENTITY newTab.label "Шинэ самбар">
 <!ENTITY newWindow.label "Шинэ цонх">
-<!ENTITY openBtn.label "Нээ">
+
+<!ENTITY caption.label "Вэб хаяг нээ">
 <!ENTITY openWhere.label "Нээгдэх газар:">
-<!ENTITY topTab.label "Одоогийн тэйб">
+<!ENTITY openBtn.label "Нээ">

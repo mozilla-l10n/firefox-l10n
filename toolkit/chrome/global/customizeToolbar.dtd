@@ -1,12 +1,14 @@
-<!ENTITY addNewToolbar.label		"Шинэ багажит самбар нэм">
-<!ENTITY dialog.title				"Багажит самбарыг өөрчил">
-<!ENTITY dialog.style				"width: 715px; height: 400px;">
-<!ENTITY icons.label				"Зураг">
-<!ENTITY iconsAndText.label			"Зураг ба текст">
-<!ENTITY instructions.description	"Та самбараас юм арилгах эсвэл нэмэхдээ чирж тавин гүйцэтгэж болно.">
-<!ENTITY restoreDefaultSet.label	"Анхны тохиргоог сэргээ">
-<!ENTITY saveChanges.label			"Хадгалсан">
-<!ENTITY show.label					"Харуул:">
-<!ENTITY text.label					"Текст">
-<!ENTITY undoChanges.label			"Өөрчлөлтийг буцаа">
-<!ENTITY useSmallIcons.label		"Зураг хэрэглэ">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY instructions.description "Та самбараас юм арилгах эсвэл нэмэхдээ чирж тавин гүйцэтгэж болно.">
+<!ENTITY show.label               "Харуул:">
+<!ENTITY iconsAndText.label       "Зураг ба текст">
+<!ENTITY icons.label              "Зураг">
+<!ENTITY text.label               "Текст">
+<!ENTITY useSmallIcons.label      "Зураг хэрэглэ">
+<!ENTITY restoreDefaultSet.label  "Анхны тохиргоог сэргээ">
+<!ENTITY addNewToolbar.label      "Шинэ багажит самбар нэм">
+<!ENTITY saveChanges.label        "Хадгалсан">
+<!ENTITY undoChanges.label        "Өөрчлөлтийг буцаа">

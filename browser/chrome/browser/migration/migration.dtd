@@ -1,3 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY migrationWizard.title          "Импортлох цонх">
 
 <!ENTITY importFrom.label               "Сонголт, хаяг, түүх, нууц үгсийг импортлох байршил:">
@@ -6,20 +11,14 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-
 <!ENTITY importFromNothing.label        "Юу ч бүү импортол">
 <!ENTITY importFromNothing.accesskey    "Ю">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
-
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 
-<!ENTITY importFromHTMLFile.label       "HTML файлаас">
-<!ENTITY importFromHTMLFile.accesskey   "й">
+
+
+
 
 <!ENTITY noMigrationSources.label       "Хаяг, зорчсон түүх эсвэл нууц үг агуулсан програм олдсонгүй.">
 

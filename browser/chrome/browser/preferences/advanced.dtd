@@ -1,101 +1,120 @@
-<!-- Note: due to bug 143065, the only remainaing accesskeys available to be used in this file are: "b", "i", "j", "q", "z" -->
-<!ENTITY generalTab.label               "Ердийн">
-<!ENTITY accessibility.label            "Хандалт">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Ердийн">
+
+<!ENTITY accessibility.label             "Хандалт">
 
 <!ENTITY useCursorNavigation.label       "Хуудсанд зорчих үед үргэлж хулганы заагчийг хэрэглэ">
 <!ENTITY useCursorNavigation.accesskey   "у">
-<!ENTITY searchStartTyping.label         "Намайг бичиж эхлэнгүүт текстийг хайж эхэл">
-<!ENTITY searchStartTyping.accesskey     "й">
-<!ENTITY blockAutoRefresh.label          "Вэб хуудас дахин дуудагдах юмуу өөр хуудас луу дамжуулагдах үед надад анхааруул">
-<!ENTITY blockAutoRefresh.accesskey      "х">
+
+
+
+
+
 <!ENTITY browsing.label                  "Вэбд зорчих">
+
 <!ENTITY useAutoScroll.label             "Хуудсанд автомат гулгуур хэрэглэ">
 <!ENTITY useAutoScroll.accesskey         "в">
 <!ENTITY useSmoothScrolling.label        "Хуудсанд зөөлөн гулгуур хэрэглэ">
 <!ENTITY useSmoothScrolling.accesskey    "с">
-<!ENTITY checkSpelling.label             "Намайг бичиж байх үед үгийн алдааг шалга">
-<!ENTITY checkSpelling.accesskey         "й">
+<!ENTITY allowHWAccel.label              "Хэрэв боломжтой бол техник хангамжын хурдасгуурыг ашиглах">
+<!ENTITY allowHWAccel.accesskey          "r">
+
 
 
 <!ENTITY systemDefaults.label            "Системийн анхдагч">
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; нь анхдагч хөтлөгч эсэхийг эхлэх бүрд шалга"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "ч">
-<!ENTITY checkNow.label                  "Одоо шалга">
-<!ENTITY checkNow.accesskey              "г">
+<!--XXX-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY networkTab.label                "Сүлжээ">
+
 <!ENTITY connection.label                "Холболт">
+
 <!ENTITY connectionDesc.label            "&brandShortName; интернэтэд хэрхэн холбогдохыг тохируул">
-<!ENTITY connectionSettings.label        "Тохируулга…">
-<!ENTITY connectionSettings.accesskey    "а">
-<!ENTITY offlineStorage.label            "Салангид үеийн хадгалалт">
+
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
 
 <!ENTITY clearCacheNow.label             "Одоо цэвэрлэ">
 <!ENTITY clearCacheNow.accesskey         "д">
 
+
+
+
+
 <!ENTITY updateTab.label                 "Шинэчлэл">
-<!ENTITY autoCheck.label                 "Автоматаар шалгах зүйлс:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableSearchUpdate.label        "Интернэтэд хайлт хийгчид">
-<!ENTITY enableSearchUpdate.accesskey    "р">
 
-<!ENTITY whenUpdatesFound.label          "Хэрэв &brandShortName; дээр шинэчлэл олдвол:">
-<!ENTITY askMe.label                     "Надаас юу хийхийг минь асуу">
-<!ENTITY askMe.accesskey                 "а">
-<!ENTITY modeAutomatic.label             "Шинэчлэлийг автоматаар татаж аваад суулга">
-<!ENTITY modeAutomatic.accesskey         "ч">
-<!ENTITY modeAutoAddonWarn.label         "Хэрэв энэ нь суугдсан нэмэгдлийг хорих бол надад анхааруул">
-<!ENTITY modeAutoAddonWarn.accesskey     "Х">
-<!ENTITY updateHistory.label             "Шинэчлэгдсэн түүхийг харуул">
-<!ENTITY updateHistory.accesskey         "ү">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
 
 
-<!ENTITY offlineNotify.label             "Вэб хуудас салангид үед хэрэглэхээр өгөгдөл хадгалах зорилготой бол надад хэл">
-<!ENTITY offlineNotify.accesskey         "х">
+
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "Хэрэв энэ нь суугдсан нэмэгдлийг хорих бол надад анхааруул">
+<!ENTITY updateAutoAddonWarn.accesskey   "Х">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY offlineNotifyExceptions.label   "Онцгой нөхцөл…">
 <!ENTITY offlineNotifyExceptions.accesskey "ц">
-<!ENTITY offlineAppsList.label           "Дараах вэб хуудаснууд салангид үед хэрэглэх зорилгоор өгөгдөл хадгалсан:">
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Устга…">
 <!ENTITY offlineAppsListRemove.accesskey "т">
 <!ENTITY offlineAppRemove.confirm        "Салангид өгөгдлийг устгах">
 
-<!ENTITY encryptionTab.label             "Нууцлал">
-<!ENTITY protocols.label                 "Дамжуулалтын зарчим">
-<!ENTITY useSSL3.label                   "SSL 3.0 хэрэглэ">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 хэрэглэ">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Гэрчилгээ">
-<!ENTITY certSelection.description		"Хэрэв вэб хуудас миний гэрчилгээг шаардвал:">
+<!ENTITY certificateTab.label            "Гэрчилгээ">
+<!ENTITY certSelection.description       "Хэрэв вэб хуудас миний гэрчилгээг шаардвал:">
 <!ENTITY certs.auto                      "Нэгийг автоматаар сонго">
-<!ENTITY certs.auto.accesskey            "в">
+
 <!ENTITY certs.ask                       "Тухай бүрд надаас асуу">
-<!ENTITY certs.ask.accesskey             "б">
-<!ENTITY viewCerts.label                 "Гэрчилгээг харах">
-<!ENTITY viewCerts.accesskey             "ч">
-<!ENTITY viewCRLs.label                  "Устгасан жагсаалт">
-<!ENTITY viewCRLs.accesskey              "с">
+
+
+
 <!ENTITY verify2.label                   "Хүчинтэй хугацаа">
 <!ENTITY verify2.accesskey               "ц">
-<!ENTITY viewSecurityDevices.label       "Нууцлалын төхөөрөмж">
-<!ENTITY viewSecurityDevices.accesskey   "ц">
 
-<!ENTITY allowHWAccel.label              "Боломжтой бол hardware хурдасгал ашиглах">
-<!ENTITY allowHWAccel.accesskey          "v">
 
-<!ENTITY enableAddonsUpdate2.label       "Нэмэгдэл зүйлс">
-<!ENTITY enableAddonsUpdate2.accesskey   "A">
-
-<!ENTITY limitCacheSizeAfter.label       "MB зай">
-
-<!ENTITY limitCacheSizeBefore.label      "Хэмжээний хязгаарлалт">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY overrideSmartCacheSize.label    "Автомат cache хэмжээг зохицуулах">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
-<!ENTITY submitCrashes.label             "Алдааны мэдээлэлийг илгээх">
-<!ENTITY submitCrashes.accesskey         "r">
-
-<!ENTITY submitTelemetry.label           "Үзүүлэлтийн мэдээллийг илгээх">
-<!ENTITY submitTelemetry.accesskey       "P">

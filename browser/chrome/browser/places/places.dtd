@@ -1,119 +1,101 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
 <!ENTITY places.library.title  "Сан">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Зохицуулах">
-<!ENTITY organize.accesskey    "ц">
-<!ENTITY organize.tooltip  "Вэб хуудас үзсэн тэмдэглэл зохицуулах">
 
-<!ENTITY file.close.label              		"Хаа">
-<!ENTITY file.close.accesskey					"Х">
-<!ENTITY cmd.close.key							"w">
-<!ENTITY views.label							"Харагдац">
-<!ENTITY views.accesskey							"г">
-<!ENTITY views.tooltip  "Харах хэлбэр өөрчлөх">
-<!ENTITY view.columns.label						"Багануудыг харуул">
-<!ENTITY view.columns.accesskey					"г">
+
+
+
+<!ENTITY file.close.label               "Хаа">
+<!ENTITY file.close.accesskey           "Х">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Харагдац">
+<!ENTITY views.accesskey                "г">
+
+<!ENTITY view.columns.label             "Багануудыг харуул">
+<!ENTITY view.columns.accesskey         "г">
 <!ENTITY view.sort.label                "Эрэмбэл">
 <!ENTITY view.sort.accesskey            "Э">
-<!ENTITY view.unsorted.label					"Эрэмбэгүй">
-<!ENTITY view.unsorted.accesskey				"й">
-<!ENTITY view.sortAscending.label				"А > Я эрэмбэрр">
-<!ENTITY view.sortAscending.accesskey			"А">
-<!ENTITY view.sortDescending.label				"Я > А эрэмбээр">
-<!ENTITY view.sortDescending.accesskey			"Я">
+<!ENTITY view.unsorted.label            "Эрэмбэгүй">
+<!ENTITY view.unsorted.accesskey        "й">
+<!ENTITY view.sortAscending.label       "А > Я эрэмбэрр">
+<!ENTITY view.sortAscending.accesskey   "А">
+<!ENTITY view.sortDescending.label      "Я > А эрэмбээр">
+<!ENTITY view.sortDescending.accesskey  "Я">
 
-<!ENTITY cmd.findInBookmarks.label      "Хаяганд хайх…">
-<!ENTITY cmd.findInBookmarks.accesskey  "я">
-<!ENTITY cmd.findCurrent.label		"Одоогийн хуудсанд хай…">
-<!ENTITY cmd.findCurrent.accesskey		"й">
 
-<!ENTITY importBookmarksFromHTML.label     "HTML-с вэб хуудас үзсэн тэмдэглэл авчрах…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "HTML-р вэб хуудас үзсэн тэмдэглэлийг экспортлох
 
-…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Өөр брауороос авчрах…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+
+
+
 
 <!ENTITY cmd.backup.label               "Нөөцөл…">
 <!ENTITY cmd.backup.accesskey           "ц">
-<!ENTITY cmd.restore2.label              "Нөөцөөс сэргээ…">
-<!ENTITY cmd.restore2.accesskey          "с">
+<!ENTITY cmd.restore2.label             "Нөөцөөс сэргээ…">
+<!ENTITY cmd.restore2.accesskey         "с">
 <!ENTITY cmd.restoreFromFile.label      "Файл сонго…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ф">
 
-<!ENTITY cmd.bookmarkLink.label			"Энэ хуудасыг вэб хуудас үзсэн тэмдэглэлд 
 
-хадгалах…">
-<!ENTITY cmd.bookmarkLink.accesskey		"B">
 <!ENTITY cmd.delete.label               "Энэ хуудсыг устга">
 <!ENTITY cmd.delete.accesskey           "т">
 <!ENTITY cmd.deleteDomainData.label     "Энэ хуудсыг март">
 <!ENTITY cmd.deleteDomainData.accesskey "м">
 
-<!ENTITY cmd.open.label		"Нээ">
-<!ENTITY cmd.open.accesskey		"Н">
-<!ENTITY cmd.open_window.label		"Шинэ цонхонд нээ">
-<!ENTITY cmd.open_window.accesskey		"Ш">
-<!ENTITY cmd.open_tab.label		"Шинэ самбарт нээ">
-<!ENTITY cmd.open_tab.accesskey		"с">
-<!ENTITY cmd.open_all_in_tabs.label		"Бүгдийг нь самбарт нээ">
-<!ENTITY cmd.open_all_in_tabs.accesskey		"н">
+<!ENTITY cmd.open.label                  "Нээ">
+<!ENTITY cmd.open.accesskey              "Н">
+<!ENTITY cmd.open_window.label           "Шинэ цонхонд нээ">
+<!ENTITY cmd.open_window.accesskey       "Ш">
+<!ENTITY cmd.open_tab.label              "Шинэ самбарт нээ">
+<!ENTITY cmd.open_tab.accesskey          "с">
+<!ENTITY cmd.open_all_in_tabs.label      "Бүгдийг нь самбарт нээ">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "н">
 
-<!ENTITY cmd.properties.label		"Шинж чанар">
-<!ENTITY cmd.properties.accesskey		"и">
+<!ENTITY cmd.properties.label      "Шинж чанар">
+<!ENTITY cmd.properties.accesskey  "и">
 
-<!ENTITY cmd.sortby_name.label		"Нэрээр эрэмбэл">
-<!ENTITY cmd.sortby_name.accesskey		"р">
-<!ENTITY cmd.context_sortby_name.accesskey		"э">
+<!ENTITY cmd.sortby_name.label              "Нэрээр эрэмбэл">
+<!ENTITY cmd.sortby_name.accesskey          "р">
+<!ENTITY cmd.context_sortby_name.accesskey  "э">
 
-<!ENTITY cmd.new_bookmark.label		"Шинэ хаяг…">
-<!ENTITY cmd.new_bookmark.accesskey		"Ш">
-<!ENTITY cmd.new_folder.label		"Шинэ сан…">
-<!ENTITY cmd.new_folder.accesskey		"с">
-<!ENTITY cmd.context_new_folder.accesskey		"а">
-<!ENTITY cmd.new_separator.label		"Шинэ тусгаарлагч">
-<!ENTITY cmd.new_separator.accesskey		"т">
-<!ENTITY cmd.reloadLivebookmark.label		"Амьд хаягийг дахин дууд">
-<!ENTITY cmd.reloadLivebookmark.accesskey		"д">
-<!ENTITY cmd.moveBookmarks.label                  "Хөдлөх…">
-<!ENTITY cmd.moveBookmarks.accesskey		"З">
+<!ENTITY cmd.new_bookmark.label            "Шинэ хаяг…">
+<!ENTITY cmd.new_bookmark.accesskey        "Ш">
+<!ENTITY cmd.new_folder.label              "Шинэ сан…">
+<!ENTITY cmd.new_folder.accesskey          "с">
+
+<!ENTITY cmd.new_separator.label           "Шинэ тусгаарлагч">
+<!ENTITY cmd.new_separator.accesskey       "т">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Амьд хаягийг дахин дууд">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "д">
+
+<!ENTITY cmd.moveBookmarks.label                  "Зөө…">
+<!ENTITY cmd.moveBookmarks.accesskey              "З">
 
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
 
-<!ENTITY search.in.label "Хүрээнд хайх:">
-<!ENTITY search.scopeFolder.label                  "Сонгосон санд">
-<!ENTITY search.scopeFolder.accesskey              "с">
-<!ENTITY search.scopeBookmarks.label               "Хаяганд">
-<!ENTITY search.scopeBookmarks.accesskey           "я">
-<!ENTITY search.scopeDownloads.label               "Татаж авалтанд">
-<!ENTITY search.scopeDownloads.accesskey           "ж">
-<!ENTITY search.scopeHistory.label                 "Түүхэнд">
-<!ENTITY search.scopeHistory.accesskey             "д">
-<!ENTITY col.url.label		"Хаяг">
-<!ENTITY col.lastvisit.label		"Зорчсон өдөр">
-<!ENTITY col.visitcount.label		"Зорчсон тоо">
-<!ENTITY col.keyword.label		"Түлхүүр үг">
-<!ENTITY col.description.label		"Тодорхойлолт">
-<!ENTITY col.dateadded.label		"Нэмэгдсэн">
-<!ENTITY col.lastmodified.label		"Сүүлд өөрчлөгдсөн">
-<!ENTITY search.label		"Хайх:">
-<!ENTITY search.accesskey		"й">
-<!ENTITY saveSearch.label		"Хадгал">
-<!ENTITY saveSearch.accesskey		"Х">
+<!ENTITY col.lastvisit.label     "Зорчсон өдөр">
+<!ENTITY col.visitcount.label    "Зорчсон тоо">
+<!ENTITY col.keyword.label       "Түлхүүр үг">
+<!ENTITY col.description.label   "Тодорхойлолт">
+<!ENTITY col.dateadded.label     "Нэмэгдсэн">
+<!ENTITY col.lastmodified.label  "Сүүлд өөрчлөгдсөн">
 
-<!ENTITY cmd.find.key		"f">
 
-<!ENTITY maintenance.label   "Импортлох болон Нөөцлөх">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "Импортлох болон Нөөцлөх">
 <!ENTITY maintenance.accesskey  "И">
-<!ENTITY maintenance.tooltip    "Вэб хуудас үзсэн тэмдэглэлээ оруулах болон backup хийх">
+
 
 <!ENTITY backButton.tooltip  "Буцна">
 
-<!ENTITY forwardButton.tooltip  "Урагшилна">
 
 <!ENTITY detailsPane.more.label "Нэмэлт">
 <!ENTITY detailsPane.more.accesskey "э">
@@ -121,17 +103,16 @@
 <!ENTITY detailsPane.less.accesskey "ө">
 <!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">
 
-<!ENTITY find.label                "Хайх:">
-<!ENTITY find.accesskey            "S">
-<!ENTITY byDate.label "Он сар өдрийн дарааллаар">
-<!ENTITY byDate.accesskey "D">
-<!ENTITY bySite.label "Сайтийн нэрийн дарааллаар">
-<!ENTITY bySite.accesskey "S">
-<!ENTITY view.label "Харах">
-<!ENTITY view.accesskey "w">
-<!ENTITY byMostVisited.label "Сүүлд үзсэн он сар өдрийн дарааллаар">
-<!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "Хамгийн сүүлд үзсэн он сар өдрийн дарааллаар">
-<!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byDayAndSite.label "Сүүлд үзсэн он сар өдөр болон сайтийн нэрийн дарааллаар">
-<!ENTITY byDayAndSite.accesskey "t">
+
+<!ENTITY view.label               "Харах">
+<!ENTITY view.accesskey           "р">
+<!ENTITY byDate.label             "Огноогоор">
+<!ENTITY byDate.accesskey         "О">
+<!ENTITY bySite.label             "Хуудсаар">
+<!ENTITY bySite.accesskey         "с">
+<!ENTITY byMostVisited.label      "Хамгийн их зорчсоноор">
+<!ENTITY byMostVisited.accesskey  "з">
+<!ENTITY byLastVisited.label      "Сүүлд зорчсоноор">
+<!ENTITY byLastVisited.accesskey  "л">
+<!ENTITY byDayAndSite.label       "Огноо ба Хуудсаар">
+<!ENTITY byDayAndSite.accesskey   "б">

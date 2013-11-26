@@ -1,19 +1,29 @@
-<!ENTITY restorepage.tabtitle       "Зорчсон хэсгээ сэргээх">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY restorepage.tabtitle       "Зорчсон хэсгээ сэргээх">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Хм, тун гайхмаар юм.">
-<!ENTITY restorepage.problemDesc      "&brandShortName; самбар болон цонхыг сэргээх үед хүндрэл гарлаа. Энэ нь ихэнхдээ сүүлд нээгдсэн вэб хуудаснаас шалтгаалж үүсдэг.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; самбар болон цонхыг сэргээх үед хүндрэл гарлаа. Энэ нь ихэнхдээ сүүлд нээгдсэн вэб хуудаснаас шалтгаалж үүсдэг.">
 <!ENTITY restorepage.tryThis        "Та үүнийг туршиж болно:">
 <!ENTITY restorepage.restoreSome    "Хүндрэлийг үүсгэсэн байж болзошгүй гэсэн нэг юмуу хэд хэдэн самбарыг хааж үзэх">
 <!ENTITY restorepage.startNew       "Шинэ хөтлөх хэсэг эхлүүлэх">
 
 <!ENTITY restorepage.tryagainButton "Сэргээ">
 <!ENTITY restorepage.restore.access "С">
-<!ENTITY restorepage.cancelButton   "Шинэ хэсэг эхлүүлэх">
-<!ENTITY restorepage.cancel.access  "Ш">
+<!ENTITY restorepage.closeButton    "Хаа">
+
 
 <!ENTITY restorepage.restoreHeader  "Сэргээх">
 <!ENTITY restorepage.listHeader     "Цонх болон самбарууд">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#37;S цонх">
+<!ENTITY restorepage.windowLabel    "&#037;S цонх">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
