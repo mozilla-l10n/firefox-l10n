@@ -2,49 +2,49 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propriedades de campo do formulário">
-<!ENTITY windowTitleImage.label "Propriedades de imagem do formulário">
+<!ENTITY windowTitle.label "Propriedades do Campo do Formulário">
+<!ENTITY windowTitleImage.label "Propriedades da Imagem do Formulário">
 
 <!ENTITY InputType.label "Tipo">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
 <!ENTITY password.value "Senha">
-<!ENTITY checkbox.value "Caixa de verificação">
-<!ENTITY radio.value "Botão de opção">
-<!ENTITY submit.value "Botão de submissão">
-<!ENTITY reset.value "Botão de reposição">
+<!ENTITY checkbox.value "Caixa de Verificação">
+<!ENTITY radio.value "Botão Rádio">
+<!ENTITY submit.value "Botão Submeter">
+<!ENTITY reset.value "Botão Reiniciar">
 <!ENTITY file.value "Ficheiro">
 <!ENTITY hidden.value "Oculto">
 <!ENTITY image.value "Imagem">
 <!ENTITY button.value "Botão">
 
-<!ENTITY InputSettings.label "Definições do campo">
-<!ENTITY InputName.label "Nome do campo:">
+<!ENTITY InputSettings.label "Configurações do Campo">
+<!ENTITY InputName.label "Nome do Campo:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nome do grupo:">
+<!ENTITY GroupName.label "Nome do Grupo:">
 <!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Valor do campo:">
+<!ENTITY InputValue.label "Valor do Campo:">
 <!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Valor inicial:">
+<!ENTITY InitialValue.label "Valor Inicial:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Verificado inicialmente">
-<!ENTITY InputChecked.accesskey "e">
-<!ENTITY InputSelected.label "Selecionado inicialmente">
+<!ENTITY InputChecked.label "Verificado Inicialmente">
+<!ENTITY InputChecked.accesskey "E">
+<!ENTITY InputSelected.label "Seleccionado Inicialmente">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Apenas leitura">
-<!ENTITY InputReadOnly.accesskey "l">
-<!ENTITY InputDisabled.label "Inativo">
-<!ENTITY InputDisabled.accesskey "I">
-<!ENTITY tabIndex.label "Índice de tabulação:">
-<!ENTITY tabIndex.accesskey "c">
-<!ENTITY TextSize.label "Tamanho do campo:">
+<!ENTITY InputReadOnly.label "Apenas de Leitura">
+<!ENTITY InputReadOnly.accesskey "L">
+<!ENTITY InputDisabled.label "Desactivado">
+<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY tabIndex.label "Index do Separador:">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY TextSize.label "Tamanho do Campo:">
 <!ENTITY TextSize.accesskey "C">
-<!ENTITY TextLength.label "Comprimento máximo:">
-<!ENTITY TextLength.accesskey "m">
-<!ENTITY AccessKey.label "Chave de acesso:">
-<!ENTITY AccessKey.accesskey "h">
-<!ENTITY Accept.label "Tipos aceites:">
-<!ENTITY Accept.accesskey "a">
+<!ENTITY TextLength.label "Comprimento Máximo:">
+<!ENTITY TextLength.accesskey "M">
+<!ENTITY AccessKey.label "Chave de Acesso:">
+<!ENTITY AccessKey.accesskey "H">
+<!ENTITY Accept.label "Tipos Aceites:">
+<!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Propriedades da imagem...">
+<!ENTITY ImageProperties.label "Propriedades da Imagem...">
 <!ENTITY ImageProperties.accesskey "R">

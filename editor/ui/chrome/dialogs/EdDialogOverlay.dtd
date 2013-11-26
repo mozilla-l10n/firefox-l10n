@@ -2,16 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Edição avançada...">
+<!ENTITY AdvancedEditButton.label "Edição Avançada...">
 <!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Adicionar ou modificar atributos HTML, atributos de estilo e de JavaScript">
-<!ENTITY chooseFileButton.label "Escolha o ficheiro...">
-<!ENTITY chooseFileButton.accessKey "f">
-<!ENTITY chooseFileLinkButton.label "Escolha o ficheiro...">
+<!ENTITY AdvancedEditButton.tooltip "Adicionar ou modificar atributos HTML, atributos de Estilo, e de JavaScript">
+<!ENTITY chooseFileButton.label "Escolher Ficheiro...">
+<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileLinkButton.label "Escolher Ficheiro...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "O URL é relativo à localização da página">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Alterar entre URL relativo e absoluto. Tem de guardar a página para poder alterar.">
+<!ENTITY makeUrlRelative.tooltip "Alterar entre URL relativo e absoluto. Tem primeiro de guardar a página para alterar.">
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Introduza a localização da página web, um ficheiro local, ou selecione uma âncora ou cabeçalho a partir da lista:">
+
+<!ENTITY LinkURLEditField.label "Introduza a localização da página web, um ficheiro local, ou seleccione uma Âncora ou cabeçalho a partir da lista pop-up:">
 <!ENTITY LinkURLEditField.accessKey "l">

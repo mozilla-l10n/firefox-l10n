@@ -5,72 +5,74 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Propriedades da imagem">
-<!ENTITY pixelsPopup.value "pixeis">
+<!ENTITY windowTitle.label "Propriedades da Imagem">
+
+<!ENTITY pixelsPopup.value "pixéis">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Localização da imagem:">
+<!ENTITY locationEditField.label "Localização da Imagem:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Escreva o nome ou a localização da imagem">
-<!ENTITY title.label "Ajuda:">
-<!ENTITY title.accessKey "A">
-<!ENTITY title.tooltip "O atributo 'título' a exibir como ajuda">
-<!ENTITY altText.label "Texto alternativo:">
-<!ENTITY altText.accessKey "x">
-<!ENTITY altTextEditField.tooltip "Escreva o  texto a mostrar em vez da imagem">
+<!ENTITY title.label "Dica:">
+<!ENTITY title.accessKey "D">
+<!ENTITY title.tooltip "O atributo 'título' html que é apresentado como dica">
+<!ENTITY altText.label "Texto Alternativo:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Escrever  texto a mostrar em vez da imagem">
 <!ENTITY noAltText.label "Não usar texto alternativo">
-<!ENTITY noAltText.accessKey "N">
-<!ENTITY previewBox.label "Pré-visualizar imagem">
+<!ENTITY noAltText.accessKey "u">
+
+<!ENTITY previewBox.label "Pré-Visualizar Imagem">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Tamanho atual:">
-<!ENTITY actualSizeRadio.label "Tamanho atual">
-<!ENTITY actualSizeRadio.accessKey "T">
-<!ENTITY actualSizeRadio.tooltip "Aplicar tamanho atual da imagem">
-<!ENTITY customSizeRadio.label "Tamanho personalizado">
-<!ENTITY customSizeRadio.accessKey "p">
-<!ENTITY customSizeRadio.tooltip "Alterar tamanho da imagem como mostrado na página">
+<!ENTITY actualSize.label "Tamanho Atual:">
+<!ENTITY actualSizeRadio.label "Tamanho Atual">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Reverter a imagem para o tamanho atual">
+<!ENTITY customSizeRadio.label "Tamanho Personalizado">
+<!ENTITY customSizeRadio.accessKey "P">
+<!ENTITY customSizeRadio.tooltip "Alterar o tamanho da imagem como apresentado na página">
 <!ENTITY heightEditField.label "Altura:">
-<!ENTITY heightEditField.accessKey "u">
+<!ENTITY heightEditField.accessKey "L">
 <!ENTITY widthEditField.label "Largura:">
-<!ENTITY widthEditField.accessKey "g">
-<!ENTITY constrainCheckbox.label "Restringir">
-<!ENTITY constrainCheckbox.accessKey "i">
-<!ENTITY constrainCheckbox.tooltip "Manter rácio da imagem">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY constrainCheckbox.label "Contrair">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Manter a razão de apresentação da imagem">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "Mapa de imagem">
+<!ENTITY imagemapBox.label "Mapa de Imagem">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Alinhar texto à imagem">
-<!ENTITY bottomPopup.value "Na base">
-<!ENTITY topPopup.value "No topo">
-<!ENTITY centerPopup.value "No centro">
-<!ENTITY wrapRightPopup.value "Translinear à direita">
-<!ENTITY wrapLeftPopup.value "Translinear à esquerda">
+<!ENTITY alignment.label "Alinhar o texto à Imagem">
+<!ENTITY bottomPopup.value "No Fundo">
+<!ENTITY topPopup.value "No Topo">
+<!ENTITY centerPopup.value "No Centro">
+<!ENTITY wrapRightPopup.value "Wrap à direita">
+<!ENTITY wrapLeftPopup.value "Wrap à esquerda">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Espaçamento">
-<!ENTITY leftRightEditField.label "Esquerda e direita:">
+<!ENTITY leftRightEditField.label "Esquerda e Direita:">
 <!ENTITY leftRightEditField.accessKey "E">
-<!ENTITY topBottomEditField.label "Topo e base:">
+<!ENTITY topBottomEditField.label "Topo e Fundo:">
 <!ENTITY topBottomEditField.accessKey "T">
-<!ENTITY borderEditField.label "Contorno sólido:">
+<!ENTITY borderEditField.label "Limite Sólido:">
 <!ENTITY borderEditField.accessKey "L">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Mostrar contorno da imagem vinculada">
+<!ENTITY showImageLinkBorder.label "Mostrar limite ao redor da ligação à imagem">
 <!ENTITY showImageLinkBorder.accessKey "M">
-<!ENTITY LinkAdvancedEditButton.label "Edição avançada da ligação...">
+<!ENTITY LinkAdvancedEditButton.label "Ligar à edição avançada…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Adicionar ou modificar atributos HTML, atributos de estilo e JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulário">
 <!ENTITY imageLocationTab.label "Localização">
-<!ENTITY imageDimensionsTab.label "Dimensão">
+<!ENTITY imageDimensionsTab.label "Dimensões">
 <!ENTITY imageAppearanceTab.label "Aparência">
 <!ENTITY imageLinkTab.label "Ligação">
