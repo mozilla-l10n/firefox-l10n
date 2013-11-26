@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "&brandShortName; kan u waarschuwingen geven over de beveiligingsstatus van de webpagina die u bekijkt. Stel &brandShortName; in om een waarschuwing te tonen en om toestemming te vragen tijdens:">
+<!ENTITY warn.description2                  "&brandShortName; kan u waarschuwingen geven over de beveiligingsstatus van de webpagina die u bekijkt. Stel &brandShortName; in om een waarschuwing te tonen als:">
 <!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling ondersteunt">
 <!ENTITY warn.enteringsecure.accesskey      "l">
 <!ENTITY warn.insecurepost                  "Het verzenden van formuliergegevens van een versleutelde naar een niet-versleutelde pagina">
