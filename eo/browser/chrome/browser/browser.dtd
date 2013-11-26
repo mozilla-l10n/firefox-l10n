@@ -334,8 +334,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 
-<!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilaro">
+<!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Aldoni al menuo">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Forigi el ilarstrio">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "f">
 <!ENTITY customizeMenu.removeFromMenu.label "Forigi el menuo">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "F">
 <!ENTITY customizeMenu.addMoreItems.label "Aldoni pli da elementoj…">
