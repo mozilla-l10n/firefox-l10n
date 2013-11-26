@@ -3,58 +3,44 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "Novo Evento…">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "N">
-
-<!ENTITY event.new.task                         "Nova Tarefa…">
-<!ENTITY event.new.task.key                     "T">
-<!ENTITY event.new.task.accesskey               "T">
-
-<!ENTITY calendar.new.server.label              "Novo Calendário…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "l">
-
-<!ENTITY calendar.print.label                   "Imprimir...">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "I">
-
-<!ENTITY calendar.import.label                  "Importar…">
-<!ENTITY calendar.import.key                    "I">
-<!ENTITY calendar.import.accesskey              "I">
-
-<!ENTITY calendar.export.label                  "Exportar…">
-<!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Exportar Selecção…">
-<!ENTITY calendar.export.selection.accesskey    "S">
-
-<!ENTITY calendar.publish.label                 "Publicar…">
-<!ENTITY calendar.publish.accesskey             "b">
-
-<!ENTITY calendar.deletecalendar.label          "Eliminar calendário seleccionado…">
-<!ENTITY calendar.deletecalendar.accesskey      "d">
-
-<!ENTITY calendar.menu.customize.label          "Personalizar...">
-<!ENTITY calendar.menu.customize.accesskey      "s">
-
-<!ENTITY showUnifinderCmd.label                 "Procurar Eventos">
-<!ENTITY showUnifinderCmd.accesskey             "P">
-
-<!ENTITY calendar.displaytodos.checkbox.label       "Mostrar tarefas no Calendário">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Tamanho da Vista de Multi-semana">
-<!ENTITY calendar.menu.numberofweeks.2          "Duas Semanas">
-<!ENTITY calendar.menu.numberofweeks.3          "Três Semanas">
-<!ENTITY calendar.menu.numberofweeks.4          "Quatro Semanas">
-<!ENTITY calendar.menu.numberofweeks.5          "Cinco Semanas">
-<!ENTITY calendar.menu.numberofweeks.6          "Seis Semanas">
-
-<!ENTITY goTodayCmd.label                       "Hoje">
-<!ENTITY goTodayCmd.accesskey                   "H">
-
-<!ENTITY showCurrentView.label                  "Vista Actual">
-<!ENTITY showCurrentView.accesskey              "V">
-
-<!ENTITY calendar.properties.label              "Propriedades do Calendário…">
-<!ENTITY calendar.properties.accesskey          "C">
+<!ENTITY event.new.event "Novo evento...">
+<!ENTITY event.new.event.key "N">
+<!ENTITY event.new.event.accesskey "n">
+<!ENTITY event.new.task "Nova tarefa...">
+<!ENTITY event.new.task.key "T">
+<!ENTITY event.new.task.accesskey "t">
+<!ENTITY calendar.new.server.label "Novo calendário...">
+<!ENTITY calendar.new.server.key "L">
+<!ENTITY calendar.new.server.accesskey "l">
+<!ENTITY calendar.print.label "Imprimir...">
+<!ENTITY calendar.print.key "P">
+<!ENTITY calendar.print.accesskey "p">
+<!ENTITY calendar.import.label "Importar...">
+<!ENTITY calendar.import.key "I">
+<!ENTITY calendar.import.accesskey "I">
+<!ENTITY calendar.export.label "Exportar...">
+<!ENTITY calendar.export.accesskey "E">
+<!ENTITY calendar.export.selection.label "Exportar seleção…">
+<!ENTITY calendar.export.selection.accesskey "s">
+<!ENTITY calendar.publish.label "Publicar...">
+<!ENTITY calendar.publish.accesskey "b">
+<!ENTITY calendar.deletecalendar.label "Eliminar calendário selecionado...">
+<!ENTITY calendar.deletecalendar.accesskey "d">
+<!ENTITY calendar.menu.customize.label "Personalizar...">
+<!ENTITY calendar.menu.customize.accesskey "z">
+<!ENTITY showUnifinderCmd.label "Localizar eventos">
+<!ENTITY showUnifinderCmd.accesskey "c">
+<!ENTITY calendar.displaytodos.checkbox.label "Mostrar tarefas no calendário">
+<!ENTITY calendar.displaytodos.checkbox.accesskey "t">
+<!ENTITY calendar.menu.numberofweeks.label "Tamanho da vista de multissemanal">
+<!ENTITY calendar.menu.numberofweeks.2 "Duas semanas">
+<!ENTITY calendar.menu.numberofweeks.3 "Três semanas">
+<!ENTITY calendar.menu.numberofweeks.4 "Quatro semanas">
+<!ENTITY calendar.menu.numberofweeks.5 "Cinco semanas">
+<!ENTITY calendar.menu.numberofweeks.6 "Seis semanas">
+<!ENTITY goTodayCmd.label "Hoje">
+<!ENTITY goTodayCmd.accesskey "H">
+<!ENTITY showCurrentView.label "Vista atual">
+<!ENTITY showCurrentView.accesskey "V">
+<!ENTITY calendar.properties.label "Propriedades do calendário...">
+<!ENTITY calendar.properties.accesskey "C">
