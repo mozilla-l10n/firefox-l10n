@@ -1,15 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "Propriedades da linha horizontal">
-<!ENTITY dimensionsBox.label "Dimensão">
+
+
+<!ENTITY windowTitle.label "Propriedades Horizontais da Linha">
+
+<!ENTITY dimensionsBox.label "Dimensões">
 <!ENTITY heightEditField.label "Altura:">
-<!ENTITY heightEditField.accessKey "A">
+<!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY pixelsPopup.value "pixeis">
+<!ENTITY pixelsPopup.value "pixéis">
 <!ENTITY alignmentBox.label "Alinhamento">
 <!ENTITY leftRadio.label "Esquerda">
 <!ENTITY leftRadio.accessKey "E">
@@ -17,8 +19,9 @@
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Direita">
 <!ENTITY rightRadio.accessKey "D">
-<!ENTITY threeDShading.label "Sombra 3D">
+
+<!ENTITY threeDShading.label "Sombra 3-D">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Usar como pré-definição">
 <!ENTITY saveSettings.accessKey "U">
-<!ENTITY saveSettings.tooltip "Guardar definições e utilizar ao inserir novas linhas horizontais">
+<!ENTITY saveSettings.tooltip "Guardar as definições para usar quando inserir novas linhas horizontais">
