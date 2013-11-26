@@ -1,13 +1,16 @@
-<!ENTITY findCloseButton.tooltip "Олох самбарыг хаана">
-<!ENTITY next.accesskey "Д">
-<!ENTITY next.label "Дараах">
-<!ENTITY next.tooltip "Хайлтын дараагийн олдцыг харуулна">
-<!ENTITY previous.accesskey "Ө">
-<!ENTITY previous.label "Өмнөх">
-<!ENTITY previous.tooltip "Хайлтын өмнөх олдцыг харуулна">
-<!ENTITY highlight.accesskey "Б">
-<!ENTITY highlight.label "Олдсон бүгдийг гэрэлтүүл">
-<!ENTITY highlight.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
-<!ENTITY caseSensitiveCheckbox.label "Яг тааруулж ол">
-<!ENTITY caseSensitiveCheckbox.accesskey "г">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
+
+<!ENTITY next.tooltip "Хайлтын дараагийн олдцыг харуулна">
+<!ENTITY previous.tooltip "Хайлтын өмнөх олдцыг харуулна">
+<!ENTITY findCloseButton.tooltip "Олох самбарыг хаах">
+<!ENTITY highlightAll.label "Бүгдийг тодотгох">
+<!ENTITY highlightAll.accesskey "Б">
+<!ENTITY highlightAll.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
+<!ENTITY caseSensitive.label "Үсгээр харьцуулах">
+<!ENTITY caseSensitive.accesskey "х">
+<!ENTITY caseSensitive.tooltiptext "Том жижиг үсгийн ялгаатай хайх">

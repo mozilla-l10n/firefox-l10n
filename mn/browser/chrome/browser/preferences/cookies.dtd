@@ -1,8 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Дараах күүкинүүд таны компьютерт хадгалагдсан байна:">
 <!ENTITY     cookiename.label               "Күүкигийн нэр">
-<!ENTITY     cookiedomain.label             "Хуудас">
+<!ENTITY     cookiedomain.label             "Хуудас"> 
+
 <!ENTITY     button.removecookie.label      "Күүкиг устга">
 <!ENTITY     button.removecookie.accesskey  "у">
 <!ENTITY     button.removeallcookies.label  "Бүх күүкиг устга">
@@ -25,5 +30,3 @@
 
 <!ENTITY     button.close.label             "Хаа">
 <!ENTITY     button.close.accesskey         "Х">
-
-<!ENTITY     button.removecookies.label     "Күүкинүүдийг устгах">

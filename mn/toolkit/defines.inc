@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Mongolian
+#define MOZ_LANG_TITLE Англи хэл (АНУ)

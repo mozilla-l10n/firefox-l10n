@@ -1,25 +1,16 @@
-<!ENTITY privatebrowsingpage.title                 "Хувийн мэдээлэл хамгаалах горим">
-<!ENTITY privatebrowsingpage.title.normal          "Хувийн мэдээлэл хамгаалах горимыг эхлүүлмээр байна уу?">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.issueDesc             "&brandShortName; нь хувийн мэдээлэл хамгаалах горимд шилжсэн үед ямар ч тэмдэглэлийг хадгалахгүй.">
-<!ENTITY privatebrowsingpage.issueDesc.normal      "&brandShortName; нь хувийн мэдээлэл хамгаалах горимд шилжээгүй байна.">
-
-<!ENTITY privatebrowsingpage.description           "Хувийн мэдээлэл хамгаалах горимд шилжсэн үед  &brandShortName; нь ямар ч мэдээлэл, вэб хуудас үзсэн тэмдэглэл, хайлтын тэмдэглэл, файл татсан тэмдэглэл, вэб загварын тэмдэглэл, күүки, түр хадгалсан файл зэргийг хадгалдаггүй.  Харин таны татаж авсан болон хадгалсан хаягнууд тань тэмдэглэгдэж үлдэх болно. Энэ горим нь олон нийтийн газар байрлуулсан компьютерийг ашиглах үед хэрэг болдог.">
-
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore       "Та мөн ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner        "сүүлд үзсэн вэб хуудасын тэмдэглэлээ устгачихаад">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter        " эхлүүлж болно.">
+<!ENTITY privatebrowsingpage.title                 "Хувийн зорчилт">
+<!ENTITY privatebrowsingpage.title.normal          "Та хувийн зорчих горимыг эхлүүлмээр байна уу?">
 
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Хувийн мэдээлэл хамгаалах горимыг эхлүүлэх">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey	"P">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "Хувийн мэдээлэл хамгаалах горимыг зогсоохыг хүсвэл &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; ыг/ийг  сонгох юмуу эсвэл &brandShortName; ыг/ийг хааж болно.">
-<!ENTITY privatebrowsingpage.howToStart2               "Хувийн мэдээлэл хамгаалах горимыг эхлүүлэхийг хүсвэл &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;ыг/ийг  сонгож болно.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Хэдийгээр таны компьютерт вэб хуудас үзсэн тэмдэглэл бичигдэж үлдэхгүй ч гэсэн, таны интернэт үйлчилгээ хангах байгууллага юмуу энэ сүлжээг зохицуулагчийн зүгээс вэб хуудас үзсэн тэмдэглэлийг тань хянах боломжтой.">
-<!ENTITY privatebrowsingpage.learnMore                 "Дэлгэрэнгүй мэдээлэлийг үзэх">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Хэдийгээр таны энэ компьютер дээр зорчсон түүх бичигдэж үлдэхгүй ч, таны интернэт үйлчилгээ хангах байгууллага юмуу энэ сүлжээг зохицуулагчийн зүгээс зорчсон хуудсыг тань хянах боломжтой.">
+<!ENTITY privatebrowsingpage.learnMore                 "Илүү мэдээлэл авах">

@@ -1,0 +1,156 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Хуудас дуудах алдаа">
+<!ENTITY retry.label "Дахин оролд">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Холбогдож чадахгүй байна">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Хаяг хязгаарлагдсан байна">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сервер олдсонгүй">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Файл олдсонгүй">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Уучлаарай.">
+<!ENTITY generic.longDesc "<p>&brandShortName; энэ хуудсыг зарим шалтгаанаар дуудаж чадахгүй байна.</p>">
+
+<!ENTITY malformedURI.title "Хаяг зөв биш байна">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Ихэнх вэб хуудас голцуу 
+<strong>http://www.example.com/</strong></li> гэсэн хэлбэртэй байдаг. 
+<li>Та хөтлөх тэмдгийг (жишээлбэл 
+<strong>/</strong>) хэрэглэж буй эсэхээ шалгана уу.</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Холболт тасарсан">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY netOffline.title "Салангид горим">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Найдваргүй файлын төрөл">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Холболт шинэчлэгдсэн">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Холболтын цаг дууссан">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "Хаяг ойлгогдоогүй">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li> 
+<li>Прокси сервер ажиллаж буй эсэхийг сүлжээ зохицуулагчаас лавлана уу.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Прокси серверийг олж чадсангүй">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Хуудсанд зөв дамжуулалт хийгдсэнгүй">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Хүсээгүй үед ирсэн серверийн хариулт">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Та компьютерт Хувийн нууцлалын зохицуулагч суулгасан эсэхээ шалгана уу.</li> 
+<li>Энэ магадгүй сервер дээр стандарт бус тохиргуулга хийсэнтэй холбоотой.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Нууцлалын холболтын алдаа">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Нууцлалын холболтын алдаа">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Энэ хүндрэл нь серверийн тохиргооноос юмуу эсвэл хэн нэгэн уг сервертэй ижил үйлдэл гүйцэтгэж буй мэт оролдлого хийсэн байж болох юм.</li> 
+<li>Хэрэв та урьд нь уг сервертэй амжилттай холбогдож байсан бол энэ алдаа нь түр зуурынх байж болох бөгөөд тийм тохиолдолд түр азнаад дахин оролдоно уу.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Эсвэл та зарим онцгой тохиолдлууд нэмж болно…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Эндээс намайг гарга!">
+<!ENTITY securityOverride.exceptionButtonLabel "Онцгойлж зааж өгөх…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+

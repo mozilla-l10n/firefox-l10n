@@ -1,12 +1,14 @@
-<!ENTITY add.label			"Нэм">
-<!ENTITY add.accessKey   	"Н">
-<!ENTITY additional.label	"Байгаа тэмдэг хувиргуурууд:">
-<!ENTITY current.label		"Идэвхитэй тэмдэг хувиргуур:">
-<!ENTITY remove.label		"Арилга">
-<!ENTITY remove.accessKey	"А">
-<!ENTITY title.label		"Тэмдгийн хувиргуурыг өөрчил">
-<!ENTITY moveUp.label    	"Дээш зөө">
-<!ENTITY moveUp.accessKey	"э">
-<!ENTITY moveDown.label  	"Доош зөө">
-<!ENTITY moveDown.accessKey	"о">
-
+<!-- -*- Mode: HTML -*- -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY current.label      "Идэвхитэй тэмдэг хувиргуур:">
+<!ENTITY remove.label       "Арилга">
+<!ENTITY remove.accessKey   "А">
+<!ENTITY additional.label   "Байгаа тэмдэг хувиргуурууд:">
+<!ENTITY add.label          "Нэм">
+<!ENTITY add.accessKey      "Н">
+<!ENTITY moveUp.label       "Дээш зөө">
+<!ENTITY moveUp.accessKey   "э">
+<!ENTITY moveDown.label     "Доош зөө">
+<!ENTITY moveDown.accessKey "о">

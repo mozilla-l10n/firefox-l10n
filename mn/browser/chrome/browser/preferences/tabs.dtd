@@ -1,17 +1,18 @@
-<!ENTITY newWindowsAsTabs.label       "Шинэ цонх нээгдэхээр бол шинэ самбарт нээ">
-<!ENTITY newWindowsAsTabs.accesskey   "Ш">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY warnCloseMultipleTabs.label  "Олон самбар хаах үед надад анхааруул">
-<!ENTITY warnCloseMultipleTabs.accesskey  "б">
+
+
 
 <!ENTITY warnOpenManyTabs.label       "Олон самбар нэг дор нээх үед &brandShortName; удаашрахаар бол надад анхааруул">
 <!ENTITY warnOpenManyTabs.accesskey   "л">
 
-<!ENTITY showTabBar.label             "Самбарын тавцанг үргэлж харуул">
-<!ENTITY showTabBar.accesskey         "м">
+<!ENTITY restoreTabsOnDemand.label        "Табуудыг сонгох хүртэл битгий ачаал">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label        "Хэрэв намайг шинэ самбарт холбоос нээвэл тэр самбарт шилж">
-<!ENTITY switchToNewTabs.accesskey    "Х">
 
-<!ENTITY showTabsInTaskbar.label          "Windows taskbar дээрээс тэйбийг урьдчилаг харах">
+
+<!ENTITY showTabsInTaskbar.label          "Виндовсийн табыг харуулах">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Самбар">

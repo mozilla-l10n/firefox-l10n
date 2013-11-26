@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  updateWizard.title              "&brandShortName;-г шинэчил">
 
 <!ENTITY  offline.title                   "&brandShortName; одоогоор салангид ажиллаж байна">
@@ -16,8 +20,8 @@
 <!ENTITY  found.wizard.title               "Тохиромжтой нэмэгдлүүд олдлоо">
 <!ENTITY  found.top.label                 "Суулгахыг хүссэн нэмэгдлээ сонгоно уу:">
 <!ENTITY  found.disabledXPinstall.label   "Эдгээр шинэчлэлүүд нь програм суулгахыг хорьсон байгаа тул суугдах боломжгүй. Та дараах тохируулгыг өөрчилж болно.">
-<!ENTITY  found.enableXPInstall.label     "Вэб хуудаснуудад програм суулгахыг зөвшөөр">
-<!ENTITY  found.enableXPInstall.accesskey "В">
+
+
 
 <!ENTITY  installing.wizard.title         "Тохиромжтой нэмэгдлүүдийг суулгаж байна">
 <!ENTITY  installing.top.label            "Таны нэмэгдлүүдийн шинэчлэлийг татаж авч суулгаж байна…">
@@ -41,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Шинэчлэлийг суулгах үед алдаа гарлаа">
 <!ENTITY  installerrors.intro.label       "&brandShortName; таны зарим нэмэгдлүүдийг шинэчлэж байх үед алдаатай тулгарлаа.">
-
 <!-- general strings used by several of the finish pages -->
+
 <!ENTITY  clickFinish.label               "Дуусга товч дээр дарж &brandShortName;-г ачаалалтыг үргэлжлүүлнэ.">
 <!ENTITY  clickFinish.labelMac            "Гүйцэтгэсэн товч дээр дарж &brandShortName;-г үргэлжлүүлнэ үү.">
 <!ENTITY  enableChecking.label            "&brandShortName; шинэчлэл шалгахыг нь зөвшөөр.">

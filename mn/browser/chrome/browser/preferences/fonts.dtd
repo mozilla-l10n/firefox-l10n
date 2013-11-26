@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsDialog.title                       "Үсгийн маяг">
 <!ENTITY  window.width                            "53em">
 <!ENTITY  window.macWidth                         "53em">
@@ -15,8 +19,8 @@
 
 <!ENTITY  serif.label                             "Сэриф:">
 <!ENTITY  serif.accesskey                         "С">
-<!ENTITY  sans-serif.label                        "Сан-Сэриф:">
-<!ENTITY  sans-serif.accesskey                    "н">
+
+
 <!ENTITY  monospace.label                         "Ижил зайтай:">
 <!ENTITY  monospace.accesskey                     "ж">
 
@@ -51,19 +55,19 @@
 <!ENTITY  font.langGroup.telugu                   "Тэлүгү">
 <!ENTITY  font.langGroup.kannada                  "Канада">
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
-<!ENTITY  font.langGroup.tibetan                  "Төвд">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Үсгийн бага хэмжээ:">
 <!ENTITY minSize.accesskey                        "ж">
 <!ENTITY minSize.none                             "Заагдаагүй">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Сэриф">
 <!ENTITY  useDefaultFontSansSerif.label           "Сан Сэриф">
 
 <!ENTITY  allowPagesToUse.label                   "Хуудсанд, миний энэ сонголтын оронд өөрийнхөө үсгийн маягаа хэрэглэхийг зөвшөөр">
 <!ENTITY  allowPagesToUse.accesskey               "д">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Тэмдэг хувиргалт">
-<!ENTITY languages.customize.DefaultCharset.label       "Анхны тэмдэг хувиргалт:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "А">
+
+
+

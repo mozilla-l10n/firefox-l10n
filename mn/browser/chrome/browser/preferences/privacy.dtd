@@ -1,83 +1,80 @@
-<!ENTITY tracking.label                 "Мөрдөх">
-<!ENTITY doNotTrack.label               "Вэб сайтаас үзсэн сайтын мөрдөлтийг зогсоохыг хүсэх">
-<!ENTITY doNotTrack.accesskey           "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  history.label                 "Үзсэн вэб хуудасын жагсаалт">
+<!ENTITY tracking.label                 "Ажиглах">
+
+<!ENTITY dntTrackingNopref.label2       "Миний тохируулгыг битгий сайтруу илгээ">
+<!ENTITY dntTrackingNopref.accesskey    "о">
+<!ENTITY dntTrackingNotOkay.label2      "Миний ачааллахыг хүсэхгүй байгаа сайтууд">
+<!ENTITY dntTrackingNotOkay.accesskey   "н">
+<!ENTITY dntTrackingOkay.label2         "Миний ачааллахыг хүсч буй сайтууд">
+<!ENTITY dntTrackingOkay.accesskey      "т">
+
+
+<!ENTITY  history.label                 "Түүх">
 
 <!ENTITY  locationBar.label             "Хаягийн самбар">
 
-<!ENTITY  locbar.pre.label              "Хаягийн самбар хэрэглэж байвал үүнийг санал болгох:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Үзсэн вэб хуудасын жагсаалт болон вэб хуудасын тэмдэгл
 
-эл">
-<!ENTITY  locbar.history.label          "Үзсэн вэб хуудасын жагсаалт">
-<!ENTITY  locbar.bookmarks.label        "Вэб хуудасын тэмдэглэл">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Зорчсон түүх болон хадгалсан хаягнаас">
+<!ENTITY  locbar.history.label          "Зорчсон түүх">
+<!ENTITY  locbar.bookmarks.label        "Хадгалсан хаягнаас">
 <!ENTITY  locbar.nothing.label          "Юуг ч санал болгохгүй">
 
 
-<!ENTITY  acceptCookies.label           "Сайтыг күүкиг зөвшөөрөх">
-<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Өөр хэрэглэгчийн күүкиг зөвшөөрөх">
-<!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY  keepUntil.label               "Хадгалах хугацаа:">
-<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  acceptThirdParty.always.label   "үргэлж">
+<!ENTITY  acceptThirdParty.never.label    "хэзээ ч үгүй">
+<!ENTITY  acceptThirdParty.visited.label  "зорчсоноос">
 
-<!ENTITY  expire.label                  "Дуусах хугацаа">
-<!ENTITY  close.label                   "&brandShortName; хаах үед">
-<!ENTITY  askEachTime.label             "Үргэлж асуух">
+<!ENTITY  keepUntil.label               "Байлгах хугацаа:">
+<!ENTITY  keepUntil.accesskey           "й">
 
-<!ENTITY  cookieExceptions.label        "Тусгай жагсаалт…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  expire.label                  "тэдний хугацаа нь дуустал">
+<!ENTITY  close.label                   "намайг &brandShortName;-г хаатал">
+<!ENTITY  askEachTime.label             "тухай бүрд надаас асуу">
 
-<!ENTITY  showCookies.label             "Күүкиг харуулах…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас…">
+<!ENTITY  cookieExceptions.accesskey    "ш">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ажилын байдал:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Үзсэн вэб хуудасын жагсаалт хадгалах">
-<!ENTITY  historyHeader.dontremember.label "Үзсэн вэб хуудасын жагсаалт хадгалахгүй байх">
-<!ENTITY  historyHeader.custom.label       "Хэрэглэгчийн хийсэн тохируулга">
+<!ENTITY  showCookies.label             "Күүкиг харуул…">
+<!ENTITY  showCookies.accesskey         "а">
+
+
+<!ENTITY  historyHeader.remember.label     "Зорчсон түүхийг хадгална">
+<!ENTITY  historyHeader.dontremember.label "Зорчсон түүхийг хадгалахгүй">
+<!ENTITY  historyHeader.custom.label       "Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ">
 <!ENTITY  historyHeader.post.label         "">
-
-<!ENTITY  rememberDescription.label      "&brandShortName; нь үзсэн вэб хуудасын жагсаалт, татаж авсан файл, бичсэн болон хайсан тэмдэглэл, үзсэн вэб хуудасын күүки гэх мэтийг хадгална.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Та хэрэв хүсвэл">
+
+<!ENTITY  rememberActions.pre.label           "Та хэрэв хүсвэл ">
 <!ENTITY  rememberActions.clearHistory.label  "сүүлд зорчсон түүхээ арилгах">
 <!ENTITY  rememberActions.middle.label        ", эсвэл ">
 <!ENTITY  rememberActions.removeCookies.label "күүки тус бүрийг нь устгаж">
 <!ENTITY  rememberActions.post.label          "болно.">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; Хувийн мэдээлэл хамгаалах горимтой ижил тохиргоо хэрэглэж үзсэн вэб хуудасын жагсаалт хадгалахгүй байх болно.">
-
-
+<!ENTITY  dontrememberDescription.label  "&brandShortName; хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Та хэрэв хүсвэл">
-<!ENTITY  dontrememberActions.clearHistory.label "бүх үзсэн вэб хуудасын жагсаалтыг арилгаж">
+
+<!ENTITY  dontrememberActions.pre.label          "Та хэрэв хүсвэл ">
+<!ENTITY  dontrememberActions.clearHistory.label "одоо байгаа бүх зорчсон түүхийг арилгаж">
 <!ENTITY  dontrememberActions.post.label         "болно.">
 
-<!ENTITY  privateBrowsingPermanent2.label "Түр хувийн мэдээлэл хамгаалах горим">
-<!ENTITY  privateBrowsingPermanent2.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Дандаа ашиглах  хувийн ачааллах загвар">
+<!ENTITY  privateBrowsingPermanent2.accesskey " ">
 
-<!ENTITY  rememberHistory.label      "Үзсэн вэб хуудасын жагсаалт санах">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "Үзсэн болон татаж авсан мэдээллийг санах">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberDownload.label         "Файл татаж авсан жагсаалт санах">
-<!ENTITY  rememberDownload.accesskey     "R">
 
-<!ENTITY  rememberSearchForm.label       "Хайлт болон бичсэн тэмдэглэл хадгалах">
-<!ENTITY  rememberSearchForm.accesskey   "h">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; хаагдах үед зорчсон түүхийг устгах">
-<!ENTITY  clearOnClose.accesskey         "n">
 
-<!ENTITY  clearOnCloseSettings.label     "Тохируулга…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+
 

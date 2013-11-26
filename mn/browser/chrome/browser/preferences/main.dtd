@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Эхлэл">
 
 <!ENTITY startupPage.label         "&brandShortName; эхлэх үед:">
@@ -5,15 +9,18 @@
 <!ENTITY startupHomePage.label     "Миний эхлэл хуудсыг харуул">
 <!ENTITY startupBlankPage.label    "Хоосон хуудас харуул">
 <!ENTITY startupLastSession.label  "Миний сүүлд зорчиж байсан цонх ба самбаруудыг харуул">
+
+
 <!ENTITY useCurrentPage.label      "Одоогийн хуудсыг хэрэглэ">
 <!ENTITY useCurrentPage.accesskey  "д">
 <!ENTITY useMultiple.label         "Одоогийн хуудаснуудыг хэрэглэ">
-<!ENTITY useBookmark.label         "Хаягнаас хэрэглэ">
-<!ENTITY useBookmark.accesskey     "г">
+
+
 <!ENTITY restoreDefault.label      "Анхны горимд сэргээ">
 <!ENTITY restoreDefault.accesskey  "с">
 
 <!ENTITY downloads.label     "Файл татаж авах үед">
+
 <!ENTITY showWhenDownloading.label     "Татаж авч байгаа цонхыг харуул">
 <!ENTITY showWhenDownloading.accesskey "в">
 <!ENTITY closeWhenDone.label "Бүх татаж авалт дуусангуут хаа">
@@ -26,12 +33,3 @@
 <!ENTITY chooseFolderMac.accesskey    "о">
 <!ENTITY alwaysAsk.label "Файл хаана хадгалахыг үргэлж асуу">
 <!ENTITY alwaysAsk.accesskey "ы">
-
-<!ENTITY addonsMgr.label               "Нэмэгдлүүд">
-<!ENTITY manageAddonsDescWin.label     "Нэмэгдлүүдийн тохиргоог өөрчлөх">
-<!ENTITY manageAddonsDescUnix2.label   "Нэмэгдлүүдийн тохиргоог өөрчлөх">
-<!ENTITY manageAddons.label            "Нэмэгдлүүдийг зохицуул…">
-<!ENTITY manageAddons.accesskey        "з">
-
-<!ENTITY homepage.label            "Нүүр хуудас:">
-<!ENTITY homepage.accesskey        "P">
