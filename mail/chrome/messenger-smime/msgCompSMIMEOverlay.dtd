@@ -10,7 +10,7 @@
 <!ENTITY menu_securitySign.label "Assinar Digitalmente esta Mensagem">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Ver Informação sobra a Segurança">
+<!ENTITY menu_securityStatus.label "Ver Informação sobre a Segurança">
 <!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "Segurança">
