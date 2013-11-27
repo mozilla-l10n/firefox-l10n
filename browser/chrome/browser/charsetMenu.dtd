@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY charsetMenu.label             "Kódovanie znakov">
+<!ENTITY charsetMenu.label             "KÃ³dovanie znakov">
 <!ENTITY charsetMenu.accesskey         "K">
-<!ENTITY charsetMenuAutodet.label      "Automatický výber">
+<!ENTITY charsetMenuAutodet.label      "AutomatickÃ½ vÃ½ber">
 <!ENTITY charsetMenuAutodet.accesskey  "m"><!-- A reserved for Arabic -->
 
-<!ENTITY charsetMenuAutodet.off.label     "(vypnuté)">
+<!ENTITY charsetMenuAutodet.off.label     "(vypnutÃ©)">
 <!ENTITY charsetMenuAutodet.off.accesskey "v">
-<!ENTITY charsetMenuAutodet.ja.label      "Japonèina">
+<!ENTITY charsetMenuAutodet.ja.label      "JaponÄina">
 <!ENTITY charsetMenuAutodet.ja.accesskey  "J">
-<!ENTITY charsetMenuAutodet.ru.label      "Ruština">
+<!ENTITY charsetMenuAutodet.ru.label      "RuÅ¡tina">
 <!ENTITY charsetMenuAutodet.ru.accesskey  "R">
-<!ENTITY charsetMenuAutodet.uk.label      "Ukrajinèina">
+<!ENTITY charsetMenuAutodet.uk.label      "UkrajinÄina">
 <!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 
