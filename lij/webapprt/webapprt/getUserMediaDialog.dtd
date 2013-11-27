@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY getUserMediaDialog.title "Condivixión moltimediâle">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Condivìddi">
+<!ENTITY getUserMediaDialog.title "CondivixiÃ³n moltimediÃ¢le">
+<!ENTITY getUserMediaDialog.buttonlabelaccept "CondivÃ¬ddi">
 <!ENTITY getUserMediaDialog.buttonaccesskeyaccept "C">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Anùlla">
+<!ENTITY getUserMediaDialog.buttonlabelcancel "AnÃ¹lla">
 <!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
-<!ENTITY getUserMediaDialog.video.label "Seleçiónn-a vidiocàmera">
-<!ENTITY getUserMediaDialog.video.noVideo "Nisciùn vidio">
-<!ENTITY getUserMediaDialog.audio.label "Seleçiónn-a micròfono">
-<!ENTITY getUserMediaDialog.audio.noAudio "Nisciùn àodio">
+<!ENTITY getUserMediaDialog.video.label "SeleÃ§iÃ³nn-a vidiocÃ mera">
+<!ENTITY getUserMediaDialog.video.noVideo "NisciÃ¹n vidio">
+<!ENTITY getUserMediaDialog.audio.label "SeleÃ§iÃ³nn-a micrÃ²fono">
+<!ENTITY getUserMediaDialog.audio.noAudio "NisciÃ¹n Ã odio">
