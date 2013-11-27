@@ -23,11 +23,11 @@
 <!ENTITY sendPageCmd.accesskey "g">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Barra de Ferramentas de Composição">
+<!ENTITY compositionToolbarCmd.label "Barra de ferramentas de composição">
 <!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Barra de Ferramentas de Formatação">
+<!ENTITY formattingToolbarCmd.label "Barra de ferramentas de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Editar Modo da barra de Ferramentas">
+<!ENTITY editmodeToolbarCmd.label "Barra de ferramentas de edição">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo de edição normal">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
+<!ENTITY NormalMode.tooltip "Mostrar limites da tabela e âncoras">
 <!ENTITY AllTagsModeTab.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.accesskey "a">

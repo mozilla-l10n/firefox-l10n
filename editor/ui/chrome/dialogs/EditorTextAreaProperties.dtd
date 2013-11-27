@@ -6,28 +6,28 @@
 
 <!ENTITY Settings.label "Definições">
 
-<!ENTITY TextAreaName.label "Nome do Campo:">
+<!ENTITY TextAreaName.label "Nome do campo:">
 <!ENTITY TextAreaName.accessKey "N">
 <!ENTITY TextAreaRows.label "Linhas:">
 <!ENTITY TextAreaRows.accessKey "L">
 <!ENTITY TextAreaCols.label "Colunas:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Apenas de Leitura">
+<!ENTITY TextAreaReadOnly.label "Apenas leitura">
 <!ENTITY TextAreaReadOnly.accessKey "A">
-<!ENTITY TextAreaDisabled.label "Desactivado">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Index do Separador:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Chave de Acesso:">
-<!ENTITY TextAreaAccessKey.accessKey "H">
-<!ENTITY InitialText.label "Texto Inicial:">
+<!ENTITY TextAreaDisabled.label "Inativo">
+<!ENTITY TextAreaDisabled.accessKey "v">
+<!ENTITY TextAreaTabIndex.label "Índice de tabulação:">
+<!ENTITY TextAreaTabIndex.accessKey "i">
+<!ENTITY TextAreaAccessKey.label "Chave de acesso:">
+<!ENTITY TextAreaAccessKey.accessKey "h">
+<!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Modo Wrap:">
-<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY TextAreaWrap.label "Translineação:">
+<!ENTITY TextAreaWrap.accessKey "s">
 <!ENTITY WrapDefault.value "Pré-definido">
 <!ENTITY WrapOff.value "Desligado">
-<!ENTITY WrapHard.value "Duro">
-<!ENTITY WrapSoft.value "Suave">
+<!ENTITY WrapHard.value "Intensa">
+<!ENTITY WrapSoft.value "Ligeira">
 <!ENTITY WrapPhysical.value "Físico">
 <!ENTITY WrapVirtual.value "Virtual">

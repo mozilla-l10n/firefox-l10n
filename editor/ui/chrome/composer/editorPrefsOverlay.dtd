@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-
 <!ENTITY editorCheck.label "Compositor">
 <!ENTITY editorCheck.accesskey "c">
-
 <!ENTITY compose.label "Compositor">
-<!ENTITY editing.label "Configurações de Nova Página">
-<!ENTITY toolbars.label "Barras de Ferramentas">
+<!ENTITY editing.label "Definições da nova página">
+<!ENTITY toolbars.label "Barra de ferramentas">
 <!ENTITY publish.label "Publicar">

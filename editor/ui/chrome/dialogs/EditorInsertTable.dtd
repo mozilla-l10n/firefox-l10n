@@ -1,18 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
-
-<!ENTITY windowTitle.label "Inserir Tabela">
-
+<!ENTITY windowTitle.label "Inserir tabela">
 <!ENTITY size.label "Tamanho">
 <!ENTITY numRowsEditField.label "Linhas:">
-<!ENTITY numRowsEditField.accessKey "N">
+<!ENTITY numRowsEditField.accessKey "h">
 <!ENTITY numColumnsEditField.label "Colunas:">
 <!ENTITY numColumnsEditField.accessKey "C">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY borderEditField.label "Limite:">
-<!ENTITY borderEditField.accessKey "I">
-<!ENTITY borderEditField.tooltip "Escreva um número para o limite da tabela, ou escreva zero (0) para nenhum limite">
-<!ENTITY pixels.label "pixéis">
+<!ENTITY borderEditField.label "Contorno:">
+<!ENTITY borderEditField.accessKey "C">
+<!ENTITY borderEditField.tooltip "Escreva um número para o contorno da tabela ou zero (0) para nenhum contorno">
+<!ENTITY pixels.label "pixeis">
