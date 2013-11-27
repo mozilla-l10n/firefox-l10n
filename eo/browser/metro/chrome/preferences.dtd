@@ -36,7 +36,6 @@
 <!ENTITY doNotTrack.options.trackingNotOkay                      "ke mi ne volas esti spurita">
 <!ENTITY doNotTrack.options.noPreference                         "nenion pri miaj preferoj de spurado">
 <!ENTITY doNotTrack.options.trackingOkay                         "ke mi volas esti spurita">
-
 <!ENTITY optionsHeader.reporting.title                           "Raportado pri paneoj">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sendas raportojn pri paneoj por helpi Mozillan igi vian retesplorilon pli stabila kaj sekura">
 <!ENTITY optionsHeader.telemetry.title                            "Telemezuro">
