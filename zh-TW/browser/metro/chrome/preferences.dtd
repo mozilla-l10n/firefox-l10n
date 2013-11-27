@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "選項">
-<!ENTITY optionsHeader.startup.title                             "啟動">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName; 啟動時，顯示">
-<!ENTITY optionsHeader.homepage.startPage.button                 "開始頁">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "上次瀏覽的分頁">
 <!ENTITY optionsHeader.char.title                                "語言及字元編碼">
 <!ENTITY optionsHeader.char.autodetect.label                     "自動偵測">
 <!ENTITY optionsHeader.char.options.label                        "在應用程式列顯示編碼選項">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "記住密碼">
 <!ENTITY doNotTrack.title                                        "不要追蹤我">
-<!ENTITY doNotTrack.desc                                         "告訴網站:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "我不想被追蹤">
-<!ENTITY doNotTrack.options.noPreference                         "不告訴網站我的追蹤偏好">
-<!ENTITY doNotTrack.options.trackingOkay                         "我想要被追蹤">
+<!ENTITY doNotTrack.options.doNotTrack                           "告訴網站我不想被追蹤">
+<!ENTITY doNotTrack.options.doTrack                              "告訴網站我想要被追蹤">
+<!ENTITY doNotTrack.options.default                              "不要告訴網站我的追蹤偏好">
+<!ENTITY doNotTrack.learnMoreLink                                "了解更多&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "程式錯誤回報員">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; 將會傳送軟體錯誤報告，以幫助 Mozilla 讓您的瀏覽器變得更穩更安全。">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
