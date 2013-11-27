@@ -3,12 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
-
 <!ENTITY status.label "Segurança da mensagem">
-<!ENTITY signatureCert.label "Exibir certificado da assinatura">
-<!ENTITY encryptionCert.label "Exibir certificado de cifra">
-
+<!ENTITY signatureCert.label "Ver certificado da assinatura">
+<!ENTITY encryptionCert.label "Ver certificado de cifra">
 <!ENTITY signer.name "Assinado por:">
 <!ENTITY recipient.name "Cifrado por:">
-<!ENTITY email.address "Endereço de correio:">
-<!ENTITY issuer.name "Certificado emitido por:">
+<!ENTITY email.address "Endereço eletrónico:">
+<!ENTITY issuer.name "Emitido por:">
