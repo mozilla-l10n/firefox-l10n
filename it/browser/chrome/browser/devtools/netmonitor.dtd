@@ -24,6 +24,7 @@
 <!ENTITY netmonitorUI.footer.filterImages "Immagini">
 <!ENTITY netmonitorUI.footer.filterMedia "Media">
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
+<!ENTITY netmonitorUI.footer.clear "Cancella">
 <!ENTITY netmonitorUI.panesButton.tooltip "Visualizza informazioni sulla rete">
 <!ENTITY netmonitorUI.summary.url "URL richiesta:">
 <!ENTITY netmonitorUI.summary.method "Metodo di richiesta:">
