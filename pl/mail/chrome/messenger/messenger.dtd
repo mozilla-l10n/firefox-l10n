@@ -562,6 +562,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Przekaż bezpośrednio">
 <!ENTITY buttonMenuForwardAsAttachment.label "Przekaż jako załącznik">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "W">
+<!ENTITY remoteContentOptionAllowForAddress.label "Wyświetlaj zdalną zawartość od tego nadawcy">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "z">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Zignoruj ostrzeżenie dla tej wiadomości">
+<!ENTITY phishingOptionIgnore.accesskey "Z">
+<!ENTITY phishingOptionDisableDetection.label "Wyłącz ostrzeżenia o próbach oszustwa dla wszystkich wiadomości">
+<!ENTITY phishingOptionDisableDetection.accesskey "W">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
 <!ENTITY appmenuNewContactCmd.label "Dodaj kontakt do książki adresowej…">
@@ -737,27 +749,6 @@
 <!ENTITY contextMute.accesskey   "z">
 <!ENTITY contextUnmute.label     "Przywróć głośność">
 <!ENTITY contextUnmute.accesskey "P">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "Program &brandShortName; uznał tę wiadomość za niechcianą.">
-<!ENTITY junkBarButton1.label  "Pożądana wiadomość">
-<!ENTITY junkInfoButton.label  "Dlaczego?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label    "W celu ochrony prywatności, zdalna zawartość została zablokowana przez program &brandShortName;.">
-<!ENTITY loadRemoteContentButton3.label "Wyświetl zdalną zawartość">
-
-<!-- Phshing Bar -->
-<!ENTITY phishingBarMessage2.label      "Ta wiadomość może być próbą oszustwa.">
-<!ENTITY removePhishingBarButton1.label "Zignoruj ostrzeżenie">
-<!ENTITY disablePhishingWarning1.label  "Wyłącz ostrzeżenia o próbach oszustwa (dla wszystkich wiadomości)">
-<!ENTITY reportPhishingError1.label     "Ta wiadomość nie wygląda na próbę oszustwa.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label     "Zignoruj">
-<!ENTITY mdnBarIgnoreButton2.accesskey "Z">
-<!ENTITY mdnBarSendButton2.label       "Prześlij potwierdzenie">
-<!ENTITY mdnBarSendButton2.accesskey   "P">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key                 "k">
