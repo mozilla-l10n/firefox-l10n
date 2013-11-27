@@ -6,10 +6,10 @@
 <!ENTITY openFileCmd.label "Abrir Ficheiro...">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Abrir localização web...">
+<!ENTITY openRemoteCmd.label "Abrir local da web...">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Páginas recentes">
+<!ENTITY fileRecentMenu.label "Páginas Recentes">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
@@ -26,13 +26,13 @@
 <!ENTITY fileRevert.accesskey "v">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Definições do sítio de publicação...">
+<!ENTITY publishSettings.label "Configurações do sítio de publicação...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Novo">
-<!ENTITY newToolbarCmd.tooltip "Criar nova página de composição">
+<!ENTITY newToolbarCmd.tooltip "Criar nova página de Composição">
 <!ENTITY openToolbarCmd.label "Abrir">
-<!ENTITY openToolbarCmd.tooltip "Abrir ficheiro local">
-<!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização local">
-<!ENTITY publishToolbarCmd.tooltip "Enviar ficheiro para uma localização remota">
+<!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro Local">
+<!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização remota">
+<!ENTITY publishToolbarCmd.tooltip "Carregar ficheiro para uma localização remota">
