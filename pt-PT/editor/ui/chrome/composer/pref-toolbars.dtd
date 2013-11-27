@@ -2,38 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title "Barras de Ferramentas">
-
-<!ENTITY composition.caption "Mostrar estes botões na Barra de Ferramentas Compor:">
-
+<!ENTITY pref.toolbars.title "Barras de ferramentas">
+<!ENTITY composition.caption "Mostrar estes botões na barra de ferramentas de composição:">
 <!ENTITY new.label "Nova">
 <!ENTITY open.label "Abrir">
 <!ENTITY save.label "Guardar">
 <!ENTITY publish.label "Publicar">
-<!ENTITY preview.label "Pré-Visualizar">
+<!ENTITY preview.label "Pré-visualizar">
 <!ENTITY cut.label "Cortar">
 <!ENTITY copy.label "Copiar">
 <!ENTITY paste.label "Colar">
 <!ENTITY print.label "Imprimir">
-<!ENTITY find.label "Procurar">
+<!ENTITY find.label "Localizar">
 <!ENTITY image.label "Imagem">
-<!ENTITY hline.label "Linha Horiz.">
+<!ENTITY hline.label "Linha hor.">
 <!ENTITY table.label "Tabela">
 <!ENTITY link.label "Ligação">
 <!ENTITY anchor.label "Âncora">
-
-<!ENTITY formatting.caption "Mostrar botões na Barra de Ferramentas Formatar:">
-
+<!ENTITY formatting.caption "Mostrar estes botões na barra de ferramentas de formatação:">
 <!ENTITY smaller.label "Menor">
 <!ENTITY larger.label "Maior">
 <!ENTITY bold.label "Negrito">
-<!ENTITY bullets.label "Bullets">
+<!ENTITY bullets.label "Marcas">
 <!ENTITY numbers.label "Números">
 <!ENTITY italic.label "Itálico">
-<!ENTITY outdent.label "Outdent">
-<!ENTITY indent.label "Indent">
+<!ENTITY outdent.label "Recuar">
+<!ENTITY indent.label "Avançar">
 <!ENTITY underline.label "Sublinhado">
-
 <!ENTITY absolutePosition.label "Posicionamento absoluto">
-<!ENTITY decreaseZIndex.label "Enviar para Trás">
-<!ENTITY increaseZIndex.label "Enviar para Frente">
+<!ENTITY decreaseZIndex.label "Enviar para trás">
+<!ENTITY increaseZIndex.label "Enviar para frente">

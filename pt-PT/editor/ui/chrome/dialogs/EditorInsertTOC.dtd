@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Window.title "Tabela de Conteúdos">
-<!ENTITY buildToc.label "Construir tabela de conteúdos a partir de:">
+<!ENTITY Window.title "Índice de conteúdo">
+<!ENTITY buildToc.label "Construir índice a partir de:">
 <!ENTITY tag.label "Etiqueta:">
 <!ENTITY class.label "Classe:">
 <!ENTITY header1.label "Nível 1">
@@ -12,5 +12,5 @@
 <!ENTITY header4.label "Nível 4">
 <!ENTITY header5.label "Nível 5">
 <!ENTITY header6.label "Nível 6">
-<!ENTITY makeReadOnly.label "Tornar a tabela de conteúdos apenas de leitura">
-<!ENTITY orderedList.label "Numerar todas as entradas da tabela de conteúdo">
+<!ENTITY makeReadOnly.label "Tornar índice apenas de leitura">
+<!ENTITY orderedList.label "Numerar todas as entradas do índice de conteúdo">

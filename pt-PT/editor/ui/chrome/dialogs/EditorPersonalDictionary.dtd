@@ -1,20 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
-
-<!ENTITY windowTitle.label "Dicionário Pessoal">
-
+<!ENTITY windowTitle.label "Dicionário oessoal">
 <!ENTITY wordEditField.label "Nova palavra:">
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Adicionar">
 <!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Palavras no Dicionário:">
+<!ENTITY DictionaryList.label "Palavras no dicionário:">
 <!ENTITY DictionaryList.accessKey "P">
 <!ENTITY ReplaceButton.label "Substituir">
 <!ENTITY ReplaceButton.accessKey "S">
 <!ENTITY RemoveButton.label "Remover">
-<!ENTITY RemoveButton.accessKey "e">
-
+<!ENTITY RemoveButton.accessKey "R">
 <!ENTITY CloseButton.label "Fechar">
 <!ENTITY CloseButton.accessKey "F">
