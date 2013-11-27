@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "開啟 JavaScript shell">
 <!ENTITY appbarFindInPage2.label    "在頁面中搜尋">
 <!ENTITY appbarViewOnDesktop2.label "用桌面模式檢視">
+<!ENTITY appbarMSMetaData2.label    "取得此網站的應用程式">
 
 <!ENTITY topSitesHeader.label        "最常瀏覽">
 <!ENTITY bookmarksHeader.label       "書籤">

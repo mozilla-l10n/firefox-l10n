@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 <!ENTITY chromeDebuggerMenu.label       "瀏覽器除錯器">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "關閉開發者工具列">
 <!ENTITY devToolbarMenu.label              "開發者工具列">
@@ -537,9 +538,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "結束"> 
+<!ENTITY quitApplicationCmd.label       "離開"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "結束 &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label    "離開 &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -604,6 +605,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "更多資訊…">
 
 <!ENTITY identity.permissions "權限">
+
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!ENTITY identity.help.tooltip "我要如何分辨到某個網站的連線是安全的？">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
