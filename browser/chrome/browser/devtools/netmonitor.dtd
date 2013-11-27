@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice2         "Efetue um pedido ou recarregue a página para ver informação detalhada sobre a atividade da rede.">
+<!ENTITY netmonitorUI.emptyNotice2         "Faça um pedido ou recarregue a página para ver informação detalhada sobre a atividade da rede.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
