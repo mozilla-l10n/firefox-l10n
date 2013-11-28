@@ -132,10 +132,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title "Servizi di geolocalizzazione di &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Aiutaci a migliorare i servizi di geolocalizzazione dell’Open Web consentendo a &brandShortName; di raccogliere e inviare dati in forma anonima sulle stazioni radio base.">
-<!ENTITY pref_update_autodownload "Aggiornamento automatico">
+<!ENTITY pref_update_autodownload2 "Scarica aggiornamenti automaticamente">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disattivato">
-<!ENTITY pref_update_autodownload_enabled "Attivo">
+<!ENTITY pref_update_autodownload_never "Mai">
+<!ENTITY pref_update_autodownload_always "Sempre">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
