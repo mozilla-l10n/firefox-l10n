@@ -16,7 +16,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "發新郵件">
+<!ENTITY newMessage.label "寫新訊息">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "資料夾…">
 <!ENTITY newFolderCmd.accesskey "F">
@@ -43,19 +43,19 @@
 <!ENTITY getNewMsgCmd.label "下載新郵件">
 <!ENTITY getNewMsgCmd.accesskey "G">
 <!ENTITY getNewMsgCmd2.key "d">
-<!ENTITY getNewMsgForCmd.label "下載新郵件:">
+<!ENTITY getNewMsgForCmd.label "下載新郵件">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "所有帳號">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "下載所有新郵件">
 <!ENTITY getAllNewMsgCmd2.key "d">
-<!ENTITY getNextNMsgCmd.label "下載 500 封新聞群組文章">
+<!ENTITY getNextNMsgCmd.label "下載下 500 封新聞群組文章">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "寄出未寄郵件">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "訂閱…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY renameFolder.label "重新命名…">
+<!ENTITY renameFolder.label "重新命名資料夾…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "壓實重整郵件匣">
 <!ENTITY compactFolders.accesskey		"F">
@@ -67,7 +67,7 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "離線模式設定…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "下載已選取的郵件">
+<!ENTITY downloadSelectedCmd.label "下載選取的郵件">
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "下載已標幟的郵件">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
@@ -79,9 +79,9 @@
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY cancelNewsMsgCmd.label "取消郵件">
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
-<!ENTITY deleteMsgsCmd.label "刪除已選的郵件">
+<!ENTITY deleteMsgsCmd.label "刪除選擇的郵件">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "救回已選郵件">
+<!ENTITY undeleteMsgsCmd.label "救回選擇的郵件">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "刪除資料夾">
 <!ENTITY deleteFolderCmd.accesskey "D">
@@ -112,7 +112,7 @@
 <!ENTITY redoDefaultCmd.label "取消「復原」">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "顯示信件工具列">
+<!ENTITY showMessengerToolbarCmd.label "郵件工具列">
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label "搜尋工具列">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
@@ -160,7 +160,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "收件者">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByUnreadCmd.label "已讀取">
+<!ENTITY sortByUnreadCmd.label "已讀">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "收件順序">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
@@ -278,7 +278,7 @@
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "郵件">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "發新郵件">
+<!ENTITY newMsgCmd.label "寫新訊息">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "郵件">
 <!ENTITY newNewMsgCmd.accesskey "M">
@@ -453,7 +453,7 @@
 <!ENTITY contextOpenNewWindow.accesskey "w">
 <!ENTITY contextOpenNewTab.label "用新分頁開啟郵件">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "另編新檔">
+<!ENTITY contextEditAsNew.label "另編新檔…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "回信給寄件者">
 <!ENTITY contextReplySender.accesskey "o">

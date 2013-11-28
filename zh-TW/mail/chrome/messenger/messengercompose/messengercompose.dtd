@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "頁面設定…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "預覽列印">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "列印…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">

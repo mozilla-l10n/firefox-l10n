@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "&brandShortName; 可以警示您有關正在檢視的網頁的安全性狀態。設定 &brandShortName; 在遇到下列情形時警告並詢問:">
+<!ENTITY warn.description2                  "&brandShortName; 可以警示您正在檢視的網頁的安全性狀態。&brandShortName; 將在遇到下面的情況時警告您: ">
 <!ENTITY warn.enteringsecure                "載入支援加密的網頁中">
 <!ENTITY warn.enteringsecure.accesskey      "L">
 <!ENTITY warn.insecurepost                  "由未加密的網頁傳送資料到未加密的網頁中">

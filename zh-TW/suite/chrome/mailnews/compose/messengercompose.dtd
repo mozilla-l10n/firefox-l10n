@@ -49,7 +49,7 @@
 <!ENTITY accountManagerCmd.accesskey "M">
 
 <!-- View menu items -->
-<!ENTITY showComposeToolbarCmd.label "顯示信件工具列">
+<!ENTITY showComposeToolbarCmd.label "郵件工具列">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "格式化工具列">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
