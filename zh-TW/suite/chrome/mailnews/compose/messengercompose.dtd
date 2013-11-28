@@ -17,7 +17,7 @@
 <!-- File menu items -->
 <!ENTITY saveCmd.label "儲存">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "另存">
+<!ENTITY saveAsCmd.label "另存新檔">
 <!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "檔案…">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -49,7 +49,7 @@
 <!ENTITY accountManagerCmd.accesskey "M">
 
 <!-- View menu items -->
-<!ENTITY showComposeToolbarCmd.label "顯示信件工具列">
+<!ENTITY showComposeToolbarCmd.label "郵件工具列">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "格式化工具列">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
@@ -99,7 +99,7 @@
 
 <!ENTITY fileCarbonCopyCmd.label "寄送副本">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "存入此處">
+<!ENTITY fileHereMenu.label "歸檔至此">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->

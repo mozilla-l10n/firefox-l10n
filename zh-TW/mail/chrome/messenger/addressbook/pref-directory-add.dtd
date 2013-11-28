@@ -9,7 +9,7 @@
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Base DN:">
 <!ENTITY directoryBaseDN.accesskey         "B">
-<!ENTITY findButton.label                  "搜尋">
+<!ENTITY findButton.label                  "尋找">
 <!ENTITY findButton.accesskey              "F">
 <!ENTITY directorySecure.label             "使用安全連線 (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
