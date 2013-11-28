@@ -45,7 +45,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "範本">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgForCmd.label "下載新郵件:">
+<!ENTITY getNewMsgForCmd.label "下載新郵件">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "所有帳號">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -59,7 +59,7 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "刪除資料夾">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "重新命名…">
+<!ENTITY renameFolder.label "重新命名資料夾…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "壓實重整郵件匣">
@@ -93,7 +93,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY deleteMsgsCmd.label "刪除選擇的郵件">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "救回已選郵件">
+<!ENTITY undeleteMsgsCmd.label "救回選擇的郵件">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "刪除資料夾">
 <!ENTITY deleteFolderCmd.accesskey "D">
@@ -170,7 +170,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "已加星號">
 <!ENTITY sortByStarCmd.accesskey "S">
-<!ENTITY sortByAttachmentsCmd.label "附件">
+<!ENTITY sortByAttachmentsCmd.label "內含附件">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "重要性">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -281,7 +281,7 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "下一封">
 <!ENTITY nextMenu.accesskey "N">
-<!ENTITY nextMsgCmd.label "郵件">
+<!ENTITY nextMsgCmd.label "訊息">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "未讀郵件">
@@ -294,7 +294,7 @@
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一封">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "郵件">
+<!ENTITY prevMsgCmd.label "訊息">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "未讀郵件">
@@ -321,11 +321,11 @@
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "郵件">
+<!ENTITY msgMenu.label "訊息">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "寫新訊息">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "郵件">
+<!ENTITY newNewMsgCmd.label "訊息">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "備存">
 <!ENTITY archiveMsgCmd.accesskey "A">
@@ -361,7 +361,7 @@
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移至">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY moveCopyMsgRecentMenu.label "最近">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -663,8 +663,8 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位">
 <!ENTITY threadColumn.tooltip "點此顯示同主題的討論串">
-<!ENTITY fromColumn.tooltip "點選依照寄件者排序">
-<!ENTITY recipientColumn.tooltip "點選以依收件者排序">
+<!ENTITY fromColumn.tooltip "點選以照寄件者排序">
+<!ENTITY recipientColumn.tooltip "點選以照收件者排序">
 <!ENTITY subjectColumn.tooltip "點選以照標題排序">
 <!ENTITY dateColumn.tooltip "點選以照日期排序">
 <!ENTITY priorityColumn.tooltip "點選以照優先權排序">
@@ -674,13 +674,13 @@
 <!ENTITY sizeColumn.tooltip "點選以照大小排序">
 <!ENTITY junkStatusColumn.tooltip "點選以照垃圾信狀態排序">
 <!ENTITY unreadColumn.tooltip "討論串中未讀訊息數量">
-<!ENTITY totalColumn.tooltip "主題中所有郵件數量">
+<!ENTITY totalColumn.tooltip "討論串中所有訊息數量">
 <!ENTITY readColumn.tooltip "點選以照已讀排序">
 <!ENTITY receivedColumn.tooltip "點選依照收件者排序">
 <!ENTITY starredColumn.tooltip "點選以照星號排序">
 <!ENTITY locationColumn.tooltip "點選以依網址排序">
 <!ENTITY idColumn.tooltip "點選以照接收時間排序">
-<!ENTITY attachmentColumn.tooltip "按此以照附件排序">
+<!ENTITY attachmentColumn.tooltip "點選以照附件排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "用新視窗開啟郵件">
@@ -717,7 +717,7 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "移至">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "最近">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "複製到">
 <!ENTITY contextCopyMsgMenu.accesskey "C">

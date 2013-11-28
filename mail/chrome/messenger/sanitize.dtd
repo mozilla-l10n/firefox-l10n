@@ -34,5 +34,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "此動作無法復原。">
 
-<!ENTITY dialog.width                 "24em">
+<!ENTITY dialog.width                 "28em">
 
