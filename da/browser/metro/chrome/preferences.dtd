@@ -6,7 +6,7 @@
 <!-- see sync.dtd -->
 
 <!-- ## Options Flyout Panel ## -->
-<!ENTITY optionsHeader.title                               "Indstillinger">
+<!ENTITY optionsHeader.title                                "Indstillinger">
 <!ENTITY optionsHeader.char.title                                "Tegnkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Detekter automatisk">
 <!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-baren">

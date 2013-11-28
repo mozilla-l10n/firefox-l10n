@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "Media-deling">
+<!ENTITY getUserMediaDialog.title                 "Deling af kamera og mikrofon">
 <!ENTITY getUserMediaDialog.buttonlabelaccept     "Del">
 <!ENTITY getUserMediaDialog.buttonaccesskeyaccept "D">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "Fortryd">
