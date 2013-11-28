@@ -183,7 +183,7 @@ size. -->
 <!ENTITY pref_update_autodownload_disabled "停用">
 <!ENTITY pref_update_autodownload_enabled "啟用">
 
-<!ENTITY quit "結束">
+<!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載項目">
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "編輯">
 <!ENTITY contextmenu_subscribe "訂閱此頁面">
 <!ENTITY contextmenu_site_settings "編輯網站設定">
-<!ENTITY contextmenu_top_bookmarks_edit "編輯">
-<!ENTITY contextmenu_top_bookmarks_pin "釘選網站">
-<!ENTITY contextmenu_top_bookmarks_unpin "解除釘選網站">
+<!ENTITY contextmenu_top_sites_edit "編輯">
+<!ENTITY contextmenu_top_sites_pin "釘選網站">
+<!ENTITY contextmenu_top_sites_unpin "解除釘選網站">
 
 <!ENTITY pref_titlebar_mode "標題列">
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "已移除頁面">
 
-<!ENTITY bookmark_add "新增書籤">
 <!ENTITY bookmark_edit_title "編輯書籤">
 <!ENTITY bookmark_edit_name "名稱">
 <!ENTITY bookmark_edit_location "網址">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "新增網站">
 
 <!ENTITY home_history_title "歷史記錄">
+<!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
 <!ENTITY home_last_tabs_title "上次開啟的分頁">
 <!ENTITY home_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
 <!ENTITY home_most_recent_title "最近開啟的分頁">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
-<!ENTITY home_most_visited_title "最常瀏覽">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "秘訣: 當標題列顯示閱讀模式按鈕時，長按該按鈕以將文章儲存至您的閱讀清單。">
 
-<!ENTITY home_most_visited_empty "您最常開啟的網站將會顯示於此">
-<!ENTITY pin_bookmark_dialog_hint "輸入搜尋關鍵字">
+<!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 
 <!ENTITY filepicker_title "選擇檔案">
 <!ENTITY filepicker_audio_title "選擇或錄製一段聲音檔">

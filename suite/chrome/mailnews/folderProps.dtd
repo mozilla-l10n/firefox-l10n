@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "屬性">
 
 <!ENTITY generalInfo.label                       "一般資訊">
-<!ENTITY folderCharsetTab.label                  "預設字元編碼方式:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "對此郵件匣內所有郵件套用預設值(忽略MIME指定的字元集charset與自動偵測結果)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderCharsetFallback.label             "備用字元編碼:">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetEnforce.label              "對資料夾中的所有訊息套用下列編碼（訊息中指定的編碼以及自動偵測設定將會被忽略）">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔案索引">
 <!ENTITY folderRebuildSummaryFile2.label         "修復資料夾">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

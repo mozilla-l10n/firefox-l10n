@@ -20,7 +20,7 @@
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "全部顯示">
-<!ENTITY quitApplicationCmd.label       "離開"> 
+<!ENTITY quitApplicationCmd.label       "離開 &brandShortName;"> 
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
