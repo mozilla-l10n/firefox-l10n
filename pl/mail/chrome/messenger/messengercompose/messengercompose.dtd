@@ -27,6 +27,8 @@
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label        "Wizytówkę">
 <!ENTITY attachVCardCmd.accesskey    "t">
+<!ENTITY remindLater.label "Przypomnij mi później">
+<!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label              "Zamknij">
 <!ENTITY closeCmd.accesskey          "Z">
 <!ENTITY closeCmd.key                "W">
