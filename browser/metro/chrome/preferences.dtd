@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "বিকল্প">
-<!ENTITY optionsHeader.startup.title                             "আৰম্ভণি">
-<!ENTITY optionsHeader.homepage.title                            "যেতিয়া &brandShortName; আৰম্ভ হব, দেখুৱাব">
-<!ENTITY optionsHeader.homepage.startPage.button                 "আৰম্ভণি পৃষ্ঠা">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "সৰ্বশেষ সময়ৰ পৰা টেবসমূহ">
 <!ENTITY optionsHeader.char.title                                "আখৰ এনক'ডিং">
 <!ENTITY optionsHeader.char.autodetect.label                     "স্বচালিতভাৱে-চিনাক্ত কৰক">
 <!ENTITY optionsHeader.char.options.label                        "এপ বাৰত এনক'ডিং বিকল্পসমূহ দেখুৱাওক">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "পাছৱাৰ্ডসমূহ মনত ৰাখক">
 <!ENTITY doNotTrack.title                                        "অনুকৰণ নকৰিব">
-<!ENTITY doNotTrack.desc                                         "ছাইটসমূহক কওক:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "মোক অনুকৰণ নকৰিব">
-<!ENTITY doNotTrack.options.noPreference                         "মোৰ অনুকৰণ পছন্দৰ বিষয়ে একো নহয়">
-<!ENTITY doNotTrack.options.trackingOkay                         "মোক অনুকৰণ কৰক">
+<!ENTITY doNotTrack.options.doNotTrack                           "ৱেবছাইটবোৰক কওক মোক অনুসৰণ কৰিব নালাগে">
+<!ENTITY doNotTrack.options.doTrack                              "ৱেবছাইটবোৰক কওক মোক অনুসৰণ কৰিব নালাগে">
+<!ENTITY doNotTrack.options.default                              "মোৰ অনুকৰণ পছন্দসমূহৰ বিষয়ে ৱেবছাইটবোৰক একো নকব">
+<!ENTITY doNotTrack.learnMoreLink                                "অধিক&#x2026; জানক">
+
 <!ENTITY optionsHeader.reporting.title                           "ক্ৰেশ সংবাদক">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে Mozilla এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">
 <!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্ৰি">

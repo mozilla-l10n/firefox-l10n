@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript শ্বেল খোলক">
 <!ENTITY appbarFindInPage2.label    "পৃষ্ঠাত সন্ধান কৰক">
 <!ENTITY appbarViewOnDesktop2.label "ডেস্কটপত দৰ্শন কৰক">
+<!ENTITY appbarMSMetaData2.label    "এই ছাইটৰ বাবে এপ প্ৰাপ্ত কৰক">
 
 <!ENTITY topSitesHeader.label        "উচ্চ ছাইটবোৰ">
 <!ENTITY bookmarksHeader.label       "পত্ৰচিহ্নসমূহ">

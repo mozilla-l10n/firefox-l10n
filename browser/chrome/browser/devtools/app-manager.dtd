@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "প্ৰাসংগিক এড-অন ডাউনল'ড কৰি চিমুলেটৰৰ এটা সংস্কৰণ ইনস্টল কৰক।">
 <!ENTITY connection.installAnotherSimulator "যোগ কৰক">
 <!ENTITY connection.installAnotherSimulatorTooltip "প্ৰাসংগিক এড-অন ডাউনল'ড কৰি চিমুলেটৰৰ এটা অতিৰিক্ত সংস্কৰণ ইনস্টল কৰক।">
+<!ENTITY connection.startRegisteredSimulator "আৰম্ভ কৰক:">
 
 <!ENTITY projects.localApps "স্থানীয় এপসমূহ">
 <!ENTITY projects.addApp "যোগ কৰক">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "এই এপৰ সৈতে সংযুক্ত উন্নয়নকাৰী সঁজুলিসমূহ খোলক">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "কোনো প্ৰকল্প নাই। তলত এটা নতুন পেকেইজ্ড এপ (স্থানীয় ডাইৰেকটৰি) অথবা এটা হস্টেড এপ (এটা মেনিফেস্ট ফাইললৈ লিঙ্ক) যোগ কৰক।">
+<!ENTITY projects.manifestEditor "মেনিফেস্ট সম্পাদক">
+<!ENTITY projects.manifestEditorTooltip "তলৰ পেনেলত আপোনাৰ এপৰ মেনিফেস্ট সম্পাদন কৰক। আপডেইট বুটামে আপোনাৰ পৰিবৰ্তনমূহ সংৰক্ষণ কৰি এপক আপডেইট কৰিব।">
+<!ENTITY projects.manifestViewer "মেনিফেস্ট দৰ্শক">
+<!ENTITY projects.manifestViewerTooltip "তলৰ পেনেলত আপোনাৰ এপৰ মেনিফেস্ট পৰিক্ষা কৰক।">
 
 <!ENTITY help.title "এপ ব্যৱস্থাপক">
 <!ENTITY help.close "বন্ধ কৰক">
