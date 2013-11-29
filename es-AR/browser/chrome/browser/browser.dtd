@@ -169,6 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY throbberItem.title "Progreso">
+<!ENTITY viewBookmarksSidebar.label    "Mostrar en barra lateral">
 <!ENTITY bookmarksItem.title "Marcadores">
 
 <!-- Toolbar items --> 
@@ -708,6 +709,13 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY social.learnMore.label "Conocer más…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No ahora">
+
+
+
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
+<!ENTITY customizeMode.menuAndToolbars.header "Más herramientas para agregar al menú y la barra">
+<!ENTITY customizeMode.restoreDefaults "Restaurar predeterminadas">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">

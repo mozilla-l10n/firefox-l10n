@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "Servicios de ubicación de &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ayudar a mejorar los servicios de geolocalización para la web abierta permitiendo que &brandShortName; recolecte y envíe datos anónimos sobre torres de celulares">
 
-<!ENTITY pref_update_autodownload "Actualizaciones automáticas">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Deshabilitadas">
-<!ENTITY pref_update_autodownload_enabled "Habilitadas">
+<!ENTITY pref_update_autodownload_never "Nunca">
+<!ENTITY pref_update_autodownload_always "Siempre">
 
 <!ENTITY quit "Salir">
 
