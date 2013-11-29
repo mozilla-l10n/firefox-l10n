@@ -93,6 +93,12 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+
+<!ENTITY securityOverride.warningContent "<p>நீங்கள் முழுமையாக நம்பாத ஒரு இணைய இணைப்பைப் பயனப்டுத்தினால் அல்லது இந்த சேவையகத்திற்கு இதற்கு முன்பு நீங்கள் இப்படி எச்சரிக்கையைப் பார்த்திருக்காவிட்டால், நீங்கள் விதிவிலக்கைச் சேர்க்கக்கூடாது.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>இந்த பிரச்னையை தெரியபடுத்த வலைதள உரிமையாளரை தொடர்புகொள்ளவும்.</li></ul></p>">
 
