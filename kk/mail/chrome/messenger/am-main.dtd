@@ -5,8 +5,8 @@
 
 
 <!ENTITY accountTitle.label "Тіркелгі баптаулары">
-
-
+<!ENTITY accountName.label "Тіркелгі атауы:">
+<!ENTITY accountName.accesskey "а">
 
 
 <!ENTITY name.label "Сіздің атыңыз:">
@@ -24,7 +24,7 @@
 
 
 
-
+<!ENTITY edit.label "Түзету…">
 <!ENTITY choose.label "Таңдау...">
 <!ENTITY choose.accesskey "Т">
 
@@ -35,4 +35,6 @@
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!ENTITY smtpName.label "Шығыс сервер (SMTP):">
+<!ENTITY smtpName.accesskey "ы">
 

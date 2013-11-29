@@ -12,13 +12,13 @@
 
 
 
+<!ENTITY digitalSign.certificate.button "Таңдау…">
 
+<!ENTITY digitalSign.certificate_clear.button "Тазарту">
 
+<!ENTITY encryption.certificate.button "Таңдау…">
 
-
-
-
-
+<!ENTITY encryption.certificate_clear.button "Тазарту">
 
 
 

@@ -57,8 +57,8 @@
 
 
 <!-- Font Size SubMenu -->
-
-
+<!ENTITY decreaseFontSize.label "Кішірек">
+<!ENTITY decreaseFontSize.accesskey "к">
 
 <!-- < is above this key on many keyboards -->
 
@@ -194,6 +194,8 @@
 
 <!-- Table Menu -->
 
+<!ENTITY tableMenu.label "Кесте">
+<!ENTITY tableMenu.accesskey "с">
 <!-- Select Submenu -->
 
 <!ENTITY tableSelectMenu.label "Таңдау">
@@ -308,5 +310,5 @@
 <!ENTITY updateTOC.accesskey      "Ж">
 <!ENTITY removeTOC.label          "Өшіру">
 <!ENTITY removeTOC.accesskey      "ш">
-
-
+<!ENTITY tocMenu.label            "Мазмұнының кестесі…">
+<!ENTITY tocMenu.accesskey        "с">

@@ -27,9 +27,9 @@
 <!ENTITY editUserDictionaryButton.accessKey "Т">
 
 
-
-
-
-
-
-
+<!ENTITY closeButton.label "Жабу">
+<!ENTITY closeButton.accessKey "Ж">
+<!ENTITY sendButton.label "Жіберу">
+<!ENTITY sendButton.accessKey "Ж">
+<!ENTITY languagePopup.label "Тілі:">
+<!ENTITY languagePopup.accessKey "Т">
