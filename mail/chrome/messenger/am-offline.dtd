@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "لتوفير مساحة القرص، يمكن أن يكون تنزيل الرسائل من الخادوم والاحتفاظ بنسخ محلية منها مقيّدًا بحجمها أو عمرها.">
 <!ENTITY allFoldersOffline.label "احتفظ برسائل هذا الحساب على الحاسوب">
 <!ENTITY allFoldersOffline.accesskey "س">
-<!ENTITY offlineNotDownload.label "الرسائل الأكبر من:">
+<!ENTITY offlineNotDownload.label "الرسائل الأكبر من">
 <!ENTITY offlineNotDownload.accesskey "ئ">
 <!ENTITY autosyncNotDownload.label "لا تنزل الرسائل الأكبر من">
 <!ENTITY autosyncNotDownload.accesskey "م">
@@ -18,7 +18,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "ء">
 <!ENTITY nntpDownloadMsg.label "الرسائل أكثر من">
 <!ENTITY nntpDownloadMsg.accesskey "س">
-<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرسائل القديمة نهائيًّا">
+<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرسائل القديمة نهائيًّا.">
 <!ENTITY retentionCleanupImap.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا من جهازك ومن الخادوم البعيد.">
 <!ENTITY retentionCleanupPop.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا، ويشمل ذلك نسخها الأصلية في الخادوم البعيد.">
 <!ENTITY retentionKeepMsg.label "احذف الرسائل الأكثر من">

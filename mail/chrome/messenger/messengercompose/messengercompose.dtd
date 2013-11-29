@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "ح">
 <!ENTITY printSetupCmd.label "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey "ع">
+<!ENTITY printPreviewCmd.label "عاين الطباعة">
+<!ENTITY printPreviewCmd.accesskey "ع">
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ط">

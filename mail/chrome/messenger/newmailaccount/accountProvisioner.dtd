@@ -30,7 +30,7 @@
 <!ENTITY successful.title "تهانينا!">
 <!ENTITY successful.successMessage "لقد أعددتَ حسابك بنجاح.">
 <!ENTITY successful.write "اكتب رسالة">
-<!ENTITY successful.write.desc "أخبِر أصدقاءك وعائلتك عن عنوان بريدك الجديد.">
+<!ENTITY successful.write.desc "أخبِر أصدقاءك وعائلتك عن عنوان بريدك الجديد.<br/>و إلا ما فائدة العنوان الجديد؟">
 <!ENTITY successful.customize "خصّص &brandShortName; مستخدمًا الإضافات الجميلة">
 <!ENTITY successful.customize.desc "هناك الآلاف من الإضافات التي تسمح لك بتخصيص &brandShortName; لجعله يتلاءم مع احتياجاتك.">
 <!ENTITY successful.attach "أضِف توقيعًا شخصيًا إلى رسائلك">

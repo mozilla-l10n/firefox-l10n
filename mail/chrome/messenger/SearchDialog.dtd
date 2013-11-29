@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "خ">
 <!ENTITY composeButton.label         "اكتب">
 <!ENTITY composeButton.accesskey     "ك">
+<!ENTITY deleteCardButton.label      "احذف">
+<!ENTITY deleteCardButton.accesskey  "ذ">
 <!ENTITY abSearchDialogTitle.label   "بحث متقدّم في دفتر العناوين">
 <!-- Thread Pane -->
 

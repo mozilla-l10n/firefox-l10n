@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "دليل خادوم IMAP:">
 <!ENTITY serverDirectory.accesskey "د">
-<!ENTITY usingSubscription.label "أظهر المجلدات المشترِكة فقط:">
+<!ENTITY usingSubscription.label "أظهر المجلدات المشترِكة فقط">
 <!ENTITY usingSubscription.accesskey "ظ">
 <!ENTITY dualUseFolders.label "يدعم الخادوم المجلدات التي تحوي مجلدات فرعيّة ورسائل">
 <!ENTITY dualUseFolders.accesskey "م">

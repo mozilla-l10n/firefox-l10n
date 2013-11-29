@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "التحرير والعنْوَنة">
+<!ENTITY addressing.label          "التحرير و العنْوَنة">
 <!ENTITY addressingGroupTitle.label "العنْوَنة">
 <!ENTITY addressingText.label      "عند البحث عن عناوين:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
