@@ -79,3 +79,8 @@
 <!ENTITY help.troubleShooting "Soluçión di problêmi">
 <!ENTITY help.simulatorAddon "Instàlla o simulatô (conp. azónto)">
 <!ENTITY help.adbHelperAddon "Instàlla Adb Helper (conp. azónto)">
+<!ENTITY connection.startRegisteredSimulator "Inàndia:">
+<!ENTITY projects.manifestEditor "Editor di manifèsti">
+<!ENTITY projects.manifestEditorTooltip "Càngia o manifèsto de l'app into panéllo sótta. O poméllo Agiórna sàrva i cangiménti e agiórna l'app.">
+<!ENTITY projects.manifestViewer "Vixoalizatô manifèsto">
+<!ENTITY projects.manifestViewerTooltip "Analìzza o manifèsto de l'app into panéllo sótta.">
