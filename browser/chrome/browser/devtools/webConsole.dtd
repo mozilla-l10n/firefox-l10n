@@ -64,6 +64,7 @@
 
 
 
+
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
@@ -73,7 +74,6 @@
 
 <!ENTITY copyURLCmd.label     "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyURLCmd.accesskey "ن">
-
 
 
 

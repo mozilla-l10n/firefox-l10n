@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "گزینه‌ها">
-<!ENTITY optionsHeader.startup.title                             "راه‌اندازی">
-
-
-
 <!ENTITY optionsHeader.char.title                                "کدگذاری نویسه‌ها">
 
 
@@ -22,6 +18,7 @@
 
 
 <!ENTITY clearPrivateData.cookies                                "کوکی‌ها">
+
 
 
 

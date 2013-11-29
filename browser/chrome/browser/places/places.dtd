@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "برچسب‌ها">
 <!ENTITY col.url.label           "مکان">
-<!ENTITY col.lastvisit.label     "تاریخ بازدید">
+
 <!ENTITY col.visitcount.label    "تعداد بازدید">
 <!ENTITY col.keyword.label       "کلیدواژه">
 <!ENTITY col.description.label   "شرح">

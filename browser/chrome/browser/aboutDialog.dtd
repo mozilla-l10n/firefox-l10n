@@ -15,19 +15,19 @@
 <!ENTITY community.exp.middle       "است">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "انجمن جهانی">
-<!ENTITY community.exp.end          "برای دسترسی و استفادۀ همه از فایرفاکس، همه با هم کار میکنیم.">
+<!ENTITY community.exp.end          "همه با هم کار میکنیم برای داشتن وب آزاد,عمومی و قابل دسترسی برای همه.">
 
-<!ENTITY community.start2           "&brandShortName; توسط ">
+<!ENTITY community.start2           "طراحی شده توسط ;brandShortName">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "اجتماع جهانی">
-<!ENTITY community.end3             "برای دسترسی و استفادۀ همه از فایرفاکس، همه با هم کار میکنیم.">
+<!ENTITY community.creditsLink      "انجمن جهانی">
+<!ENTITY community.end3             "همه باهم برای داشتن وب ازاد,عمومی و قابل دسترس برای همه کار می کنیم.">
 
 <!ENTITY contribute.start           "به نظرتان جالب می‌رسد؟ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "شما هم می‌توانید در این کار سهیم باشید!">
+<!ENTITY contribute.getInvolvedLink "مشارکت کردن!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -44,9 +44,9 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "وارسی سازگاری افزودنی‌ها…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; به‌هنگام است">
+<!ENTITY update.noUpdatesFound      "&brandShortName; به روز است">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "به‌هنگام‌سازی توسط مدیر سیستم‌تان غیرفعال گشته است">
+<!ENTITY update.adminDisabled       "به روز رسانی توسط مدیر سیستم‌تان غیرفعال گشته است">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
