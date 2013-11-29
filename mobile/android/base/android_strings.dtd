@@ -53,7 +53,7 @@
 <!ENTITY menu "Menú">
 <!ENTITY back "Atrás">
 <!ENTITY stop "Atrás">
-
+<!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
