@@ -8,8 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "Ndilumkise xa ndiivala iithebhu ezininzi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi zingacothisa i-&brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "u">
+<!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi ezingacothisa i-&brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "v">
 
 <!ENTITY restoreTabsOnDemand.label        "Musa ukulayisha iithebhu de zibe zikhethiwe">
 <!ENTITY restoreTabsOnDemand.accesskey    "u">

@@ -11,8 +11,8 @@
 <!ENTITY useCursorNavigation.label       "Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi">
 <!ENTITY useCursorNavigation.accesskey   "a">
 <!ENTITY searchStartTyping.label         "Khangela umbhalo xa ndiqalisa ukuchwetheza">
-<!ENTITY searchStartTyping.accesskey     "b">
-<!ENTITY blockAutoRefresh.label          "Ndilumnkise xa iiwebhusayithi zizama ukukhombisa kwakhona okanye ukulowuda kwakhona ikhasi">
+<!ENTITY searchStartTyping.accesskey     "K">
+<!ENTITY blockAutoRefresh.label          "Ndilumkise xa iiwebhusayithi zizama ukukhombisa kwakhona okanye ukulayisha kwakhona iphepha">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Ukubhrawuza">
@@ -78,7 +78,7 @@
 <!ENTITY clearCacheNow.label             "Susa ngoku">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!ENTITY clearOfflineAppCacheNow.label   "Gutyula ngoku">
-<!ENTITY clearOfflineAppCacheNow.accesskey "n">
+<!ENTITY clearOfflineAppCacheNow.accesskey "G">
 <!ENTITY overrideSmartCacheSize.label    "Cima ulawulo lwememori esisikhupheli ezenzekelayo">
 <!ENTITY overrideSmartCacheSize.accesskey "C">
 
@@ -103,7 +103,7 @@
 <!ENTITY updateAutoMetroWarn.label       "(Isimbo seWindows 8 &brandShortName; ayikuhloli ukuhambelana kwesongezelelo)">
 
 <!ENTITY updateHistory.label             "Bonisa iMbali yoHlaziyo">
-<!ENTITY updateHistory.accesskey         "H">
+<!ENTITY updateHistory.accesskey         "B">
 
 <!ENTITY useService.label                "Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo">
 <!ENTITY useService.accesskey            "y">
@@ -115,7 +115,7 @@
 <!ENTITY offlineNotify.label             "Ndixelele xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
 <!ENTITY offlineNotify.accesskey         "N">
 <!ENTITY offlineNotifyExceptions.label   "Izinxaxhi…">
-<!ENTITY offlineNotifyExceptions.accesskey "n">
+<!ENTITY offlineNotifyExceptions.accesskey "z">
 
 <!ENTITY offlineAppsList2.label          "Ezi webhusayithi zilandelayo zivunyelwe ukugcina iingcombolo ezisetyenziswa ngaphandle kwenethiwekhi:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -128,9 +128,9 @@
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Ndibuze ngawo onke amaxesha">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.ask.accesskey             "d">
 <!ENTITY viewCerts.label                 "Bona iZatifiketi">
-<!ENTITY viewCerts.accesskey             "i">
+<!ENTITY viewCerts.accesskey             "Z">
 <!ENTITY verify2.label                   "Ungqinisekiso">
 <!ENTITY verify2.accesskey               "U">
 <!ENTITY viewSecurityDevices.label       "Izixhobo Zokhuseleko">

@@ -21,6 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "K">
 <!ENTITY  links                           "Nxulumanisa imibala">
 <!ENTITY  linkColor.label                 "Amakhonkco angatyelelwayo:">
-<!ENTITY  linkColor.accesskey             "A">
+<!ENTITY  linkColor.accesskey             "g">
 <!ENTITY  visitedLinkColor.label          "Amakhonkco atyelelwayo:">
-<!ENTITY  visitedLinkColor.accesskey      "A">
+<!ENTITY  visitedLinkColor.accesskey      "a">

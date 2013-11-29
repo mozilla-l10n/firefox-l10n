@@ -5,12 +5,12 @@
 <!ENTITY  blockPopups.label           "Thintela iifestile ezizivelelayo">
 <!ENTITY  blockPopups.accesskey       "T">
 <!ENTITY  popupExceptions.label       "Izinxaxhi…">
-<!ENTITY  popupExceptions.accesskey   "I">
+<!ENTITY  popupExceptions.accesskey   "z">
 
 <!ENTITY  fontsAndColors.label        "Iifonti &amp; Imibala">
 
 <!ENTITY  defaultFont.label           "Ifonti yesiseko:">
-<!ENTITY  defaultFont.accesskey       "I">
+<!ENTITY  defaultFont.accesskey       "f">
 <!ENTITY  defaultSize.label           "Ubungakanani:">
 <!ENTITY  defaultSize.accesskey       "U">
 

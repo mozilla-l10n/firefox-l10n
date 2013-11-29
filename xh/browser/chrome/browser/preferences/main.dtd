@@ -5,18 +5,18 @@
 <!ENTITY startup.label             "Qalisa">
 
 <!ENTITY startupPage.label         "Xa i-&brandShortName; iqalisa:">
-<!ENTITY startupPage.accesskey     "i">
+<!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupHomePage.label     "Bonisa ikhasi lasekhaya lam">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
 <!ENTITY startupLastSession.label  "Bonisa iifestile neethebhu zam ukususela kwixesha lokugqibela">
 
-<!ENTITY homepage.label            "IKhasi laseKhaya:">
-<!ENTITY homepage.accesskey        "I">
-<!ENTITY useCurrentPage.label      "Sebenzisa ikhasi langoku">
-<!ENTITY useCurrentPage.accesskey  "i">
+<!ENTITY homepage.label            "IPhepha laseKhaya:">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Sebenzisa iphepha langoku">
+<!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sebenzisa amakhasi angoku">
-<!ENTITY chooseBookmark.label      "Sebenzisa iSalathisi esiphawulayo…">
-<!ENTITY chooseBookmark.accesskey  "i">
+<!ENTITY chooseBookmark.label      "Sebenzisa ibhukhmakhi…">
+<!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Buyisela kwiZiseko">
 <!ENTITY restoreDefault.accesskey  "B">
 
