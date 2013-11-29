@@ -19,8 +19,6 @@
 <!ENTITY messageIdField4.label "Идентификатор">
 <!ENTITY inReplyToField4.label "В ответ на">
 <!ENTITY originalWebsite4.label "Веб-сайт">
-<!ENTITY editMessageDescription.label "Это черновик">
-<!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY hdrArchiveButton1.label "Архивировать">
 <!ENTITY hdrArchiveButton1.tooltip "Архивировать это сообщение">
 <!ENTITY hdrSmartReplyButton1.label "Умный ответ">
