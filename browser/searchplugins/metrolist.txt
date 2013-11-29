@@ -1,4 +1,7 @@
+amazon-it
 bingmetrofx
+eBay-it
 googlemetrofx
+hoepli
 wikipedia-it
 yahoo-it
