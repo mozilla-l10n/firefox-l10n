@@ -1,4 +1,9 @@
-bingmetrofx
-googlemetrofx
-wikipedia-zh-CN
+amazondotcn
+creativecommons
+eachnet
+google
 baidu
+baiduzhidao
+paipai
+wikipedia-zh-CN
+bingmetrofx
