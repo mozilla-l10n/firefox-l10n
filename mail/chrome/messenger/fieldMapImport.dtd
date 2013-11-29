@@ -5,13 +5,13 @@
 
 <!ENTITY fieldMapImport.next.label "Келесі">
 <!ENTITY fieldMapImport.next.accesskey "К">
+<!ENTITY fieldMapImport.previous.label "Алдыңғысы">
+<!ENTITY fieldMapImport.previous.accesskey "А">
 
-
-
-
-
-
-
+<!ENTITY fieldMapImport.up.label "Жоғары">
+<!ENTITY fieldMapImport.up.accesskey "Ж">
+<!ENTITY fieldMapImport.down.label "Төмен">
+<!ENTITY fieldMapImport.down.accesskey "Т">
 
 
 

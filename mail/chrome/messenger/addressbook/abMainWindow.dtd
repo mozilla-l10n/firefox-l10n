@@ -193,8 +193,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY contact.heading                                "Контакт">
 
-
-
+<!ENTITY other.heading                                  "Басқа">
+<!ENTITY chat.heading                                   "Әңгіме">
 <!ENTITY phone.heading                                  "Телефоны">
 <!ENTITY work.heading                                   "Жұмыс">
 <!-- Special Box Headings, for mailing lists -->

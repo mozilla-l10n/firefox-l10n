@@ -12,6 +12,10 @@
 
 
 
+<!ENTITY reorderUpButton.label "Жоғарыға">
+<!ENTITY reorderUpButton.accesskey "а">
+<!ENTITY reorderDownButton.label "Төменге">
+<!ENTITY reorderDownButton.accesskey "е">
 
 
 
@@ -22,18 +26,14 @@
 
 
 
+<!ENTITY stopFilters.label "Тоқтату">
+<!ENTITY stopFilters.accesskey "Т">
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY helpButton.label "Көмек">
+<!ENTITY helpButton.accesskey "К">
 
 
 

@@ -188,16 +188,16 @@
 
 
 
+<!ENTITY sortDescending.label "Кему ретімен">
+<!ENTITY sortDescending.accesskey "К">
 
 
 
 
 
 
-
-
-
-
+<!ENTITY msgsMenu.label "Хабарламалар">
+<!ENTITY msgsMenu.accesskey "Х">
 <!ENTITY threads.label "Ағындар">
 <!ENTITY threads.accesskey "н">
 <!ENTITY allMsgsCmd.label "Барлығы">
@@ -250,11 +250,13 @@
 
 <!-- Search Menu -->
 
+<!ENTITY findMenu.label "Іздеу">
+<!ENTITY findMenu.accesskey "з">
 
 
 
-
-
+<!ENTITY findAgainCmd.label "Іздеуді қайталау">
+<!ENTITY findAgainCmd.accesskey "з">
 
 
 
@@ -283,20 +285,20 @@
 
 <!ENTITY prevMenu.label "Алдыңғы">
 <!ENTITY prevMenu.accesskey "А">
+<!ENTITY prevMsgCmd.label "Хабарлама">
+<!ENTITY prevMsgCmd.accesskey "Х">
 
 
 
 
-
-
-
-
+<!ENTITY goForwardCmd.label "Алға">
+<!ENTITY goForwardCmd.accesskey "л">
 <!ENTITY goForwardCmd.commandKey "]">
-
-
+<!ENTITY goBackCmd.label "Артқа">
+<!ENTITY goBackCmd.accesskey "А">
 <!ENTITY goBackCmd.commandKey "[">
-
-
+<!ENTITY goChatCmd.label "Әңгіме">
+<!ENTITY goChatCmd.accesskey "г">
 
 
 
@@ -331,11 +333,11 @@
 
 
 
+<!ENTITY replyToListMsgCmd.label "Тізімге жауап беру">
+<!ENTITY replyToListMsgCmd.accesskey  "Т">
 
-
-
-
-
+<!ENTITY forwardMsgCmd.label "Алға">
+<!ENTITY forwardMsgCmd.accesskey "л">
 
 
 
@@ -384,6 +386,8 @@
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Белгілеу">
+<!ENTITY markMenu.accesskey "у">
 
 
 
@@ -415,10 +419,8 @@
 
 
 
-
-
-
-
+<!ENTITY openAttachmentListCmd.label "Тіркемелер">
+<!ENTITY openAttachmentListCmd.accesskey "м">
 
 
 
@@ -436,8 +438,8 @@
 <!ENTITY tasksMenu.accesskey "С">
 
 
-
-
+<!ENTITY addressBookCmd.label "Адрестік кітапша">
+<!ENTITY addressBookCmd.accesskey "к">
 
 <!ENTITY addons.label "Қосымшалар">
 <!ENTITY addons.accesskey "с">
@@ -480,6 +482,8 @@
 
 
 <!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton1.label "Хабарламаларды алу">
 <!ENTITY newMsgButton.label "Жазу">
 <!ENTITY replyButton.label "Жауап беру">
 <!ENTITY replyAllButton.label "Барлығына жауап беру">
@@ -604,6 +608,8 @@
 <!-- Gloda Search Bar -->
 <!-- Quick Search Menu Bar -->
 
+<!ENTITY searchSubjectMenu.label "Тақырыбы">
+
 
 
 
@@ -611,11 +617,13 @@
 
 <!-- Thread Pane -->
 
+<!ENTITY threadColumn.label "Жіп">
+
+<!ENTITY recipientColumn.label "Қабылдаушысы">
+<!ENTITY subjectColumn.label "Тақырыбы">
 
 
-
-
-
+<!ENTITY tagsColumn.label "Белгі">
 <!ENTITY accountColumn.label "Тіркелгі">
 <!ENTITY statusColumn.label "Күйі">
 <!ENTITY sizeColumn.label "Өлшемі">
@@ -625,7 +633,7 @@
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
 
-
+<!ENTITY locationColumn.label "Орналасуы">
 
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
@@ -669,16 +677,16 @@
 
 
 
+<!ENTITY contextReplyList.label "Тізімге жауап беру">
+<!ENTITY contextReplyList.accesskey "Т">
+<!ENTITY contextForward.label "Алға">
+<!ENTITY contextForward.accesskey "л">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY contextForwardAsInline.label "Хат бетінде">
+<!ENTITY contextForwardAsInline.accesskey "Х">
+<!ENTITY contextForwardAsAttachmentItem.label "Салыным">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "а">
 
 
 <!ENTITY contextMoveMsgMenu.label "Мынаған жылжыту">
@@ -748,11 +756,11 @@
 <!ENTITY contextPause.accesskey "А">
 <!ENTITY contextMute.label "Даусын сөндіру">
 <!ENTITY contextMute.accesskey "Д">
-
-
+<!ENTITY contextUnmute.label "Даусын шығару">
+<!ENTITY contextUnmute.accesskey "Д">
 <!-- Junk Bar -->
 
-
+<!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
 <!-- Phishing Bar -->
@@ -761,6 +769,8 @@
 
 <!-- MDN Bar -->
 
+<!ENTITY mdnBarIgnoreButton2.label "Елемеу">
+<!ENTITY mdnBarIgnoreButton2.accesskey "Е">
 
 
 <!-- Quick Search Bar -->
@@ -793,14 +803,14 @@
 
 
 
+<!ENTITY ViewContact.label "Контактты қарау">
+<!ENTITY ViewContact.accesskey "К">
 
 
 
 
-
-
-
-
+<!ENTITY CopyEmailAddress.label "Эл.пошта адресін көшіріп алу">
+<!ENTITY CopyEmailAddress.accesskey "к">
 
 
 
@@ -811,8 +821,12 @@
 
 <!-- Spell checker context menu items -->
 
+<!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
+<!ENTITY spellAddDictionaries.accesskey "С">
 <!-- Content Pane Context Menu -->
 
+<!ENTITY saveLinkAsCmd.label "Сілтемені қалайша сақтау…">
+<!ENTITY saveLinkAsCmd.accesskey "м">
 <!ENTITY saveImageAsCmd.label "Суретті қалайша сақтау…">
 <!ENTITY saveImageAsCmd.accesskey "у">
 <!ENTITY copyLinkCmd.label "Сілтемені көшіру">
@@ -837,15 +851,17 @@
 <!ENTITY minimizeWindow.label "Қайыру">
 
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
-
+<!ENTITY zoomWindow.label "Үлкейту">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!ENTITY preferencesCmdMac.label        "Баптаулар…">
 
 
+<!ENTITY servicesMenuMac.label          "Қызметтер">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; жасыру">
 
 
-
-
+<!ENTITY hideOtherAppsCmdMac.label      "Басқаларын жасыру">
 
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Барлығын көрсету">

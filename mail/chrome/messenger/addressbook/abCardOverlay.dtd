@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Contact.tab                     "Контакт">
 <!ENTITY Contact.accesskey               "">
 <!ENTITY Name.box                        "Аты">
 <!-- LOCALIZATION NOTE:
@@ -86,8 +88,8 @@
 
 
 
-
-
+<!ENTITY Company.label                  "Мекеме:">
+<!ENTITY Company.accesskey              "М">
 
 
 <!ENTITY WorkAddress2.label             "">
@@ -118,12 +120,12 @@
 
 <!ENTITY Chat.tab                       "Чат">
 
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
 
 
-
-
-
-
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
 
 
 
