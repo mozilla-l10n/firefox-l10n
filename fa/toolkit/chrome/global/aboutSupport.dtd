@@ -9,6 +9,14 @@
 به شما کمک کند.  اگر به دنبال پاسخی برای پرسش‌های معمول دربارهٔ &brandShortName; هستید، 
 از <a id='supportLink'>وب‌گاه پشتیبانی ما</a> بازدید نمایید.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "شناسهٔ گزارش">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "ضمیمه‌ها">
 <!ENTITY aboutSupport.extensionName "نام">
 <!ENTITY aboutSupport.extensionEnabled "فعال">
@@ -31,7 +39,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "متصل‌شونده‌های فعال">
 <!ENTITY aboutSupport.appBasicsBuildConfig "تنظیمات هنگام ساخت">
 <!ENTITY aboutSupport.appBasicsUserAgent "نام نمایندهٔ کاربر">
-<!ENTITY aboutSupport.appBasicsCrashIDs "گزارش‌گر فروپاشی">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استفاده حافظه">
 
 <!ENTITY aboutSupport.showDir.label "باز کردن پوشه">

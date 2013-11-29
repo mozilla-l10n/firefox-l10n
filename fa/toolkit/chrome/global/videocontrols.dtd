@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "تمام شده">
 <!ENTITY stats.activitySeeking "(جست‌و‌جو)">
 <!ENTITY stats.volume "بلندی صدا">
-<!ENTITY stats.channels "کانال‌ها">
-<!ENTITY stats.sampleRate "نرخ نمونه">
 <!ENTITY stats.framesParsed "حاشیه‌ها تجزیه شدند">
 <!ENTITY stats.framesDecoded "حاشیه‌ها رمزگشایی شدند">
 <!ENTITY stats.framesPresented "حاشیه‌ها ارائه شدند">
