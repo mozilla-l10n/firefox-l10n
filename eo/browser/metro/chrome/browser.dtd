@@ -13,12 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Viaj rezultoj">
 
-<!ENTITY appbarErrorConsole.label   "Malfermi konzolon de eraroj">
-<!ENTITY appbarJSShell.label        "Malfermi ordonlinion de JavaScript">
-<!ENTITY appbarFindInPage2.label    "Serĉi en paĝo">
-<!ENTITY appbarViewOnDesktop2.label "Vidi en labortablo">
-<!ENTITY appbarMSMetaData2.label    "Ricevi programon por tiu ĉi retejo">
-<!ENTITY appbarViewPageSource.label "Vidi fonton de paĝo">
+<!ENTITY appbarErrorConsole.label      "Malfermi konzolon de eraroj">
+<!ENTITY appbarJSShell.label           "Malfermi ordonlinion de JavaScript">
+<!ENTITY appbarFindInPage2.label       "Serĉi en paĝo">
+<!ENTITY appbarRelaunchInDesktop.label "Restartigi en labortablo">
+<!ENTITY appbarMSMetaData2.label       "Ricevi programon por tiu ĉi retejo">
+<!ENTITY appbarViewPageSource.label    "Vidi fonton de paĝo">
 
 <!ENTITY topSitesHeader.label        "La plej vizititaj retejoj">
 <!ENTITY bookmarksHeader.label       "Legosignoj">
