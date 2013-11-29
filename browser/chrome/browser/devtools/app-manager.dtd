@@ -2,22 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "Ծր. կառավարիչ">
+<!ENTITY index.projects2 "Ծրագրեր">
+<!ENTITY index.device2 "Սարք">
 
 
 
-
-
-
+<!ENTITY device.title "Սարքի կառավարման կենտրոն">
+<!ENTITY device.notConnected "Միացած չէ: Միացեք ձեր սարքին:">
 <!ENTITY device.startApp "Սկսել">
-
+<!ENTITY device.startAppTooltip "Բացել ծրագիրը սարքում:">
 <!ENTITY device.stopApp "Կանգնեցնել">
-
-
+<!ENTITY device.stopAppTooltip "Կանգնեցնել ծրագիրը սարքում:">
+<!ENTITY device.debugApp "Վրիպազերծել">
 
 <!ENTITY device.name "Անուն">
 
 
-
+<!ENTITY device.certified "Վավերացված">
 <!ENTITY device.allow "Թույլատրել">
 
 <!ENTITY device.prompt "Հրավեր">
