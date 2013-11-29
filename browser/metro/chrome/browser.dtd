@@ -11,7 +11,7 @@
 <!ENTITY appbarErrorConsole.label "Открыть консоль ошибок">
 <!ENTITY appbarJSShell.label "Открыть оболочку JavaScript">
 <!ENTITY appbarFindInPage2.label "Найти на странице">
-<!ENTITY appbarViewOnDesktop2.label "Показать на десктопе">
+<!ENTITY appbarRelaunchInDesktop.label "Перегрузиться в классический Firefox">
 <!ENTITY appbarMSMetaData2.label "Получить приложение для этого сайта">
 <!ENTITY appbarViewPageSource.label "Исходный код страницы">
 <!ENTITY topSitesHeader.label "Топ сайтов">
