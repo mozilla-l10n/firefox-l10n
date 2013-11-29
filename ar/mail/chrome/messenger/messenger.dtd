@@ -83,7 +83,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "عاين الطباعة">
 <!ENTITY printPreviewCmd.accesskey "ع">
-<!ENTITY printSetupCmd.label "إعداد الصفحة …">
+<!ENTITY printSetupCmd.label "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey "ع">
 <!-- Edit Menu -->
 
@@ -484,7 +484,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
 <!ENTITY clearRecentHistory.accesskey "س">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب …">
+<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
 <!ENTITY accountManagerCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -539,8 +539,8 @@
 <!ENTITY replyAllButton.tooltip "رُد على المُرسِل وكل المُستلمين">
 <!ENTITY replyListButton.tooltip "رُد على القائمة البريدية">
 <!ENTITY forwardButton.tooltip "مرّر الرسالة المختارة">
-<!ENTITY forwardAsInline.tooltip "مرر الرسالة المحددة ضمن المتن.">
-<!ENTITY forwardAsAttachment.tooltip "مرر الرسالة المحددة مرفقة.">
+<!ENTITY forwardAsInline.tooltip "مرر الرسالة المحددة ضمن المتن">
+<!ENTITY forwardAsAttachment.tooltip "مرر الرسالة المحددة مرفقة">
 <!ENTITY fileButton.tooltip "صُفّ الرسالة المختارة">
 <!ENTITY archiveButton.tooltip "أرشِف الرسائل المختارة">
 <!ENTITY nextButton.tooltip "الرسالة غير المقروءة التالية">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
 <!ENTITY appmenuNewContactCmd.label "متراسل دفتر العناوين…">
 <!ENTITY appmenuEditMenu.label "تحرير">
-<!ENTITY appmenuQFBMenu.label "شريط الترشيح السريع">
 <!ENTITY appmenuToolbarLayout.label "تنسيق شريط الأدوات…">
 <!ENTITY appmenuSelectThread.label "اختر نقاشًا">
 <!ENTITY appmenuSelectFlagged.label "اختر الرسائل ذات النجمة">
@@ -706,7 +705,7 @@
 <!ENTITY contextReplyList.label "ردّ على القائمة">
 <!ENTITY contextReplyList.accesskey "ق">
 <!ENTITY contextForward.label "إلى الأمام">
-<!ENTITY contextForward.accesskey "أ">
+<!ENTITY contextForward.accesskey "م">
 <!ENTITY contextForwardAsMenu.label "مرّر ك‍">
 <!ENTITY contextForwardAsMenu.accesskey "ك">
 <!ENTITY contextForwardAsInline.label "ضمن المتن">

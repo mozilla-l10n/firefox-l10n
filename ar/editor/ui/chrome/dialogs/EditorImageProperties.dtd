@@ -27,7 +27,7 @@
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
 <!ENTITY actualSize.label "الحجم الفعلي:">
-<!ENTITY actualSizeRadio.label "الحجم الفعلي:">
+<!ENTITY actualSizeRadio.label "الحجم الفعلي">
 <!ENTITY actualSizeRadio.accessKey "ح">
 <!ENTITY actualSizeRadio.tooltip "ارجع إلي حجم الصورة الفعلي">
 <!ENTITY customSizeRadio.label "حجم مخصص">
@@ -68,7 +68,7 @@
 <!ENTITY showImageLinkBorder.accessKey "ح">
 <!ENTITY LinkAdvancedEditButton.label "تحرير الوصلات المتقدم…">
 <!ENTITY LinkAdvancedEditButton.accessKey "و">
-<!ENTITY LinkAdvancedEditButton.tooltip "أضِف أو عدّل  صفات HTML وصفات السمت وجافاسكربت">
+<!ENTITY LinkAdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML وصفات السمت و جافاسكربت">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "مِن">
