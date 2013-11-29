@@ -541,7 +541,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "প্রস্থান"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "প্রস্থান">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
-<!ENTITY pluginNotification.width "২৮em">
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "ট্যাব ক্র্যাশ করেছে">
 <!ENTITY tabCrashed.message "ঘটনা টি দুর্ভাগ্যজনক। আমরা ওয়েব পেজ টি দেখাবার চেষ্টা করেছি কিন্তু সেটি সাড়া দিচ্ছেনা।">
