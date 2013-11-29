@@ -73,13 +73,13 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Soloko usebenzisa imo yokubhrawuza yangasese">
-<!ENTITY  privateBrowsingPermanent2.accesskey "y">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
 <!ENTITY  rememberHistory2.label      "Khumbula imbali yokubhrawuza nokukhuphela kwam">
-<!ENTITY  rememberHistory2.accesskey  "a">
+<!ENTITY  rememberHistory2.accesskey  "K">
 
 <!ENTITY  rememberSearchForm.label       "Khumbula imbali yokukhangela neyefom">
-<!ENTITY  rememberSearchForm.accesskey   "i">
+<!ENTITY  rememberSearchForm.accesskey   "a">
 
 <!ENTITY  clearOnClose.label             "Susa imbali xa i-&brandShortName; ivala">
 <!ENTITY  clearOnClose.accesskey         "s">

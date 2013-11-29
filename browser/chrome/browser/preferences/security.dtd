@@ -13,10 +13,10 @@
 -->
 
 <!ENTITY  blockAttackSites.label     "Thintela iisayithi zohlaselo ezixeliweyo">
-<!ENTITY  blockAttackSites.accesskey "t">
+<!ENTITY  blockAttackSites.accesskey "T">
 
 <!ENTITY  blockWebForgeries.label     "Thintela iinkohliso zewebhu ezixeliweyo">
-<!ENTITY  blockWebForgeries.accesskey "T">
+<!ENTITY  blockWebForgeries.accesskey "z">
 
 <!ENTITY  addonExceptions.label         "Izinxaxhi…">
 <!ENTITY  addonExceptions.accesskey     "I">
@@ -27,7 +27,7 @@
 <!ENTITY  rememberPasswords.label       "Khumbula iipasiwedi zeesayithi">
 <!ENTITY  rememberPasswords.accesskey   "K">
 <!ENTITY  passwordExceptions.label      "Izinxaxhi…">
-<!ENTITY  passwordExceptions.accesskey  "n">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Sebenzisa iphaswedi eyimasta">
 <!ENTITY  useMasterPassword.accesskey    "S">
