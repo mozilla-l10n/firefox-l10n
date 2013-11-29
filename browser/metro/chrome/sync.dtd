@@ -28,7 +28,7 @@
 <!-- Flyout when user has just connected -->
 
 <!ENTITY sync.flyout.setupsuccess.description1      "Upravo ste povezali &brandShortName; s &syncBrand.shortName.label; računom">
-<!ENTITY sync.flyout.setupsuccess.description2      "Vaši &syncBrand.shortName.label; podaci se upravo preuzimaju u pozadini. Vaše sinkronizirane kartice se mogu pronaći na brandShortName; početnoj stranici">
+<!ENTITY sync.flyout.setupsuccess.description2      "Vaši &syncBrand.shortName.label; podaci se upravo preuzimaju u pozadini. Vaše sinkronizirane kartice se mogu pronaći na &brandShortName; početnoj stranici">
 <!-- Flyout when setup failed -->
 
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName; se ne može povezati na vaš &syncBrand.shortName.label; račun.">
