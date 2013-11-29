@@ -69,6 +69,8 @@
 <!ENTITY projects.updateAppTooltip "Ejecutar pruebas de validación y actualizar la aplicación en el dispositivo conectado">
 <!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Abrir herramientas del desarrollador conectadas a esta aplicación">
+<!ENTITY projects.saveManifest "Guardar">
+<!ENTITY projects.saveManifestTooltip "Guardar los contenido del editor de archivos manifest de debajo.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hay proyectos. Añada una nueva aplicación empaquetada (directorio local) más abajo o una aplicación alojada (enlace a un archivo manifest).">
 <!ENTITY projects.manifestEditor "Editor de archivos manifest">
