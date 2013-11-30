@@ -200,7 +200,6 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Activar herramientas">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 <!ENTITY devToolbarToolsButton.tooltip     "Activar las herramientas de desarrollador">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
@@ -350,6 +349,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey "M">
 <!ENTITY emailPageCmd.label "Enviar enlace por correo">
 <!ENTITY emailPageCmd.accesskey "E">
+<!ENTITY switchToMetroCmd.label "Relanzar en &brandShortName; estilo Windows 8">
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.accesskey2 "P">
