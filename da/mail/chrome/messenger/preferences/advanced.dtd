@@ -23,7 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "r">
 
 <!ENTITY systemIntegration.label       "Systemintegration">
-<!ENTITY alwaysCheckDefault.label      "Undersøg altid om &brandShortName; er standardprogram, når &brandShortName; startes">
+<!ENTITY alwaysCheckDefault.label      "Undersøg altid om &brandShortName; er standardmailprogrammet, når det startes">
 <!ENTITY alwaysCheckDefault.accesskey  "U">
 <!ENTITY searchIntegration.label       "Tillad &searchIntegration.engineName; at søge efter meddelelser">
 <!ENTITY searchIntegration.accesskey   "T">
