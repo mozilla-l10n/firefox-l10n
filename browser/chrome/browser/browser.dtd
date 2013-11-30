@@ -185,7 +185,6 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Attiva strumenti">
 <!ENTITY devToolboxMenuItem.accesskey "m">
-<!ENTITY devToolboxMenuItem.keycode "I">
 <!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti per sviluppatori">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
@@ -319,6 +318,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
+<!ENTITY switchToMetroCmd.label "Riavvia &brandShortName; in modalità Windows 8">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
 <!ENTITY savePageCmd.accesskey "v">
 <!ENTITY savePageCmd.accesskey2 "g">
