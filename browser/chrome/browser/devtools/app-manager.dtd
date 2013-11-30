@@ -75,7 +75,7 @@
 <!ENTITY projects.noProjects "Nincsenek projektek. Vegyen fel új csomagolt appot alább (helyi könyvtár) vagy kiszolgálóoldali appot (hivatkozás manifest fájlra).">
 
 <!ENTITY help.title "Appkezelő">
-<!ENTITY help.close "Zárja be">
+<!ENTITY help.close "Bezárás">
 <!ENTITY help.intro "Ez az eszköz segíteni fog webappok készítésében és telepítésében a kompatibilis eszközökre (azaz Firefox OS-re). Az <strong>Appok</strong> lap segíteni fog az app ellenőrzésében és telepítésében. Az <strong>Eszköz</strong> lap információkat ad a csatlakoztatott eszközről. Használja az alsó eszköztárat az eszközhöz csatlakozásra vagy a szimulátor elindítására.">
 <!ENTITY help.usefullLinks "Hasznos hivatkozások:">
 <!ENTITY help.appMgrDoc "Dokumentáció: az Appkezelő használata">
