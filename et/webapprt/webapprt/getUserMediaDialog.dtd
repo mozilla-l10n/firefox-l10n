@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+<!ENTITY getUserMediaDialog.title                 "Seadmete jagamine">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "Jaga">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "J">
+<!ENTITY getUserMediaDialog.buttonlabelcancel     "Loobu">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "L">
+
+<!ENTITY getUserMediaDialog.video.label           "Vali kaamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "video puudub">
+<!ENTITY getUserMediaDialog.audio.label           "Vali mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio         "heli puudub">
