@@ -7,9 +7,9 @@
 <!ENTITY addpref.name           "ਨਾਂ">
 <!ENTITY addpref.value          "ਮੁੱਲ">
 
-<!ENTITY cancel.label           "Cancel">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY cancel.label           "ਰੱਦ ਕਰੋ">
+<!ENTITY reset.label            "ਮੁੜ-ਸੈੱਟ">
+<!ENTITY done.label             "ਮੁਕੰਮਲ">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
