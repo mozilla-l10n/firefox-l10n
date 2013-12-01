@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Een versie van de simulator installeren door de relevante add-on te downloaden">
 <!ENTITY connection.installAnotherSimulator "Toevoegen">
 <!ENTITY connection.installAnotherSimulatorTooltip "Een extra versie van de simulator installeren door de relevante add-on te downloaden">
+<!ENTITY connection.startRegisteredSimulator "Starten:">
 
 <!ENTITY projects.localApps "Lokale apps">
 <!ENTITY projects.addApp "Toevoegen">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Ontwikkelaarshulpmiddelen die met deze app zijn verbonden openen">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Geen projecten. Voeg hieronder een nieuwe verpakte app (lokale map) of een gehoste app (koppeling naar een manifest-bestand) toe.">
+<!ENTITY projects.manifestEditor "Manifest-editor">
+<!ENTITY projects.manifestEditorTooltip "Bewerk het manifest van uw app in het paneel hieronder. De knop Bijwerken zal uw wijzigingen opslaan en de app bijwerken.">
+<!ENTITY projects.manifestViewer "Manifest-viewer">
+<!ENTITY projects.manifestViewerTooltip "Bekijk het manifest van uw app in het paneel hieronder.">
 
 <!ENTITY help.title "App-beheerder">
 <!ENTITY help.close "Sluiten">
