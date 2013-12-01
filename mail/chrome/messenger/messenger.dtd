@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
 <!ENTITY appmenuNewContactCmd.label                    "Aadressiraamatu kontakt…">
 <!ENTITY appmenuEditMenu.label                         "Redigeerimine">
-<!ENTITY appmenuQFBMenu.label                          "Kiirfiltri riba">
 <!ENTITY appmenuToolbarLayout.label                    "Kohanda tööriistariba…">
 <!ENTITY appmenuSelectThread.label                     "Vali lõim">
 <!ENTITY appmenuSelectFlagged.label                    "Vali tähistatud kirjad">

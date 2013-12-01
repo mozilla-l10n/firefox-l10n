@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey              "h">
 <!ENTITY printSetupCmd.label                 "Printimise sätted...">
 <!ENTITY printSetupCmd.accesskey             "r">
+<!ENTITY printPreviewCmd.label               "Lehekülje eelvaade">
+<!ENTITY printPreviewCmd.accesskey           "e">
 <!ENTITY printCmd.label                      "Prindi...">
 <!ENTITY printCmd.key                        "P">
 <!ENTITY printCmd.accesskey                  "P">
