@@ -188,7 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non triés">
-<!ENTITY viewBookmarksSidebar2.label        "Afficher le panneau des marque-pages">
+<!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -710,7 +710,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.tabTitle "Personnaliser &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menu et barres d'outils">
 <!ENTITY customizeMode.menuAndToolbars.header "Outils supplémentaires à ajouter au menu et aux barres d'outils">
-<!ENTITY customizeMode.restoreDefaults "Restaurer les paramètres par défaut">
+<!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
