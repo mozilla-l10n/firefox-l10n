@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontakter …">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuQFBMenu.label "Hurtigfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Verktøylinjeutseende …">
 <!ENTITY appmenuSelectThread.label "Velg tråd">
 <!ENTITY appmenuSelectFlagged.label "Velg meldinger med stjerne">
