@@ -13,15 +13,16 @@
 
 <!ENTITY autocompleteResultsHeader.label  "ਤੁਹਾਡੇ ਲਈ ਨਤੀਜੇ">
 
-<!ENTITY appbarErrorConsole.label   "Open error console">
-<!ENTITY appbarJSShell.label        "Open JavaScript shell">
+<!ENTITY appbarErrorConsole.label   "ਗਲਤੀ ਕਨਸੋਲ  ਖੋਲ੍ਹੋ">
+<!ENTITY appbarJSShell.label        "JavaScript ਸ਼ੈੱਲ ਖੋਲ੍ਹੋ">
 <!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY appbarViewOnDesktop2.label "ਡੈਸਕਟਾਪ ਉੱਤੇ ਵੇਖੋ">
+<!ENTITY appbarMSMetaData2.label    "ਇਹ ਸਾਈਟ ਲਈ ਐਪ ਲਵੋ">
 
 <!ENTITY topSitesHeader.label        "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY bookmarksHeader.label       "ਬੁੱਕਮਾਰਕ">
 <!ENTITY recentHistoryHeader.label   "ਤਾਜ਼ਾ ਅਤੀਤ">
-<!ENTITY remoteTabsHeader.label      "Tabs from Other Devices">
+<!ENTITY remoteTabsHeader.label      "ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਟੈਬਾਂ">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -32,61 +33,61 @@
       -->
 <!ENTITY narrowTopSitesHeader.label      "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY narrowBookmarksHeader.label     "ਬੁੱਕਮਾਰਕ">
-<!ENTITY narrowRecentHistoryHeader.label "Recent History">
-<!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
+<!ENTITY narrowRecentHistoryHeader.label "ਤਾਜ਼ਾ ਅਤੀਤ">
+<!ENTITY narrowRemoteTabsHeader.label    "ਰਿਮੋਟ ਟੈਬਾਂ">
 
 <!ENTITY downloadsHeader.label     "ਡਾਊਨਲੋਡ">
 <!ENTITY downloadShowPage.label    "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
 <!ENTITY downloadShow2.label       "ਖੋਜ">
 <!ENTITY downloadOpen2.label       "ਖੋਲ੍ਹੋ">
 <!ENTITY downloadCancel.label      "ਰੱਦ ਕਰੋ">
-<!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Resume">
-<!ENTITY downloadRetry.label       "Retry">
-<!ENTITY downloadRemove.label      "Remove">
-<!ENTITY downloadDelete.label      "Delete">
-<!ENTITY downloadFailed.label      "Failed">
+<!ENTITY downloadPause.label       "ਵਿਰਾਮ">
+<!ENTITY downloadResume.label      "ਮੁੜ-ਚਾਲੂ">
+<!ENTITY downloadRetry.label       "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
+<!ENTITY downloadRemove.label      "ਹਟਾਓ">
+<!ENTITY downloadDelete.label      "ਹਟਾਓ">
+<!ENTITY downloadFailed.label      "ਫੇਲ੍ਹ">
 
-<!ENTITY allBookmarks.label        "See all bookmarks">
+<!ENTITY allBookmarks.label        "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
-<!ENTITY consoleHeader.label       "Error Console">
-<!ENTITY consoleAll.label          "All">
-<!ENTITY consoleErrors.label       "Errors">
-<!ENTITY consoleWarnings.label     "Warnings">
-<!ENTITY consoleMessages.label     "Messages">
-<!ENTITY consoleCodeEval.label     "Code:">
-<!ENTITY consoleClear.label        "Clear">
+<!ENTITY consoleHeader.label       "ਗਲਤੀ ਕਨਸੋਲ">
+<!ENTITY consoleAll.label          "ਸਭ">
+<!ENTITY consoleErrors.label       "ਗਲਤੀਆਂ">
+<!ENTITY consoleWarnings.label     "ਚੇਤਾਵਨੀਆਂ">
+<!ENTITY consoleMessages.label     "ਸੁਨੇਹੇ">
+<!ENTITY consoleCodeEval.label     "ਕੋਡ:">
+<!ENTITY consoleClear.label        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Source File:">
-<!ENTITY consoleErrLine.label      "Line:">
-<!ENTITY consoleErrColumn.label    "Column:">
+<!ENTITY consoleErrFile.label      "ਸਰੋਤ ਫਾਇਲ:">
+<!ENTITY consoleErrLine.label      "ਲਾਈਨ:">
+<!ENTITY consoleErrColumn.label    "ਕਾਲਮ:">
 
 <!--  TEXT CONTEXT MENU -->
-<!ENTITY contextTextCut.label              "Cut">
-<!ENTITY contextTextCopy.label             "Copy">
-<!ENTITY contextTextPaste.label            "Paste">
+<!ENTITY contextTextCut.label              "ਕੱਟੋ">
+<!ENTITY contextTextCopy.label             "ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextTextPaste.label            "ਚੇਪੋ">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Paste &amp; go">
-<!ENTITY contextTextSelect.label           "Select">
-<!ENTITY contextTextSelectAll.label        "Select all">
+<!ENTITY contextTextPasteAndGo.label       "ਚੇਪੋ ਤੇ ਜਾਓ">
+<!ENTITY contextTextSelect.label           "ਚੁਣੋ">
+<!ENTITY contextTextSelectAll.label        "ਸਭ ਚੁਣੋ">
 
 <!-- LINK CONTEXT MENU -->
-<!ENTITY contextOpenLinkTab.label          "Open link in new tab">
-<!ENTITY contextCopyLinkHref.label         "Copy link">
-<!ENTITY contextBookmarkLinkHref.label     "Bookmark link">
+<!ENTITY contextOpenLinkTab.label          "ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY contextCopyLinkHref.label         "ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextBookmarkLinkHref.label     "ਲਿੰਕ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
-<!ENTITY contextSaveImageLib.label         "Save to picture library">
-<!ENTITY contextCopyImage.label            "Copy image">
-<!ENTITY contextCopyImageLocation.label    "Copy image location">
-<!ENTITY contextOpenImageTab.label         "Open image in new tab">
+<!ENTITY contextSaveImageLib.label         "ਤਸਵੀਰ ਲਾਇਬਰੇਰੀ ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY contextCopyImage.label            "ਚਿੱਤਰ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextCopyImageLocation.label    "ਚਿੱਤਰ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextOpenImageTab.label         "ਚਿੱਤਰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 
 <!-- VIDEO CONTEXT MENU -->
-<!ENTITY contextSaveVideoLib.label         "Save to video library">
-<!ENTITY contextCopyVideoLocation.label    "Copy video location">
-<!ENTITY contextOpenVideoTab.label         "Open video in new tab">
+<!ENTITY contextSaveVideoLib.label         "ਵਿਡੀਓ ਲਾਇਬਰੇਰੀ ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY contextCopyVideoLocation.label    "ਵਿਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextOpenVideoTab.label         "ਵਿਡੀਓ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 
 <!-- KEYBOARD SHORTCUTS -->
 <!ENTITY reload.key "r">
