@@ -16,7 +16,6 @@
 <!ENTITY appbarErrorConsole.label   "Otvoriť chybovú konzolu">
 <!ENTITY appbarJSShell.label        "Otvoriť príkazový riadok JavaScriptu">
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
-<!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 <!ENTITY appbarRelaunchInDesktop.label "Spustiť na Ploche">
 <!ENTITY appbarMSMetaData2.label    "Získať aplikáciu pre túto stránku">
 <!ENTITY appbarViewPageSource.label "Zobraziť zdrojový kód stránky">
