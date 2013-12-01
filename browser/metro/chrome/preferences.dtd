@@ -9,7 +9,7 @@
 <!ENTITY optionsHeader.title                                "Indstillinger">
 <!ENTITY optionsHeader.char.title                                "Tegnkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Detekter automatisk">
-<!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-baren">
+<!ENTITY optionsHeader.char.options.label                        "Vis tegnkodning i app-linjen">
 
 <!ENTITY clearPrivateData.title                                  "Ryd private data">
 <!ENTITY clearPrivateData.label                                  "Ryd din browserhistorik, adgangskoder, cookies og formulardata på denne enhed">
