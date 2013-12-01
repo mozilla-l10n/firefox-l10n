@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label             "Ava JavaScripti konsool">
 <!ENTITY appbarFindInPage2.label         "Leia lehelt">
 <!ENTITY appbarViewOnDesktop2.label      "Vaata töölaua versioonis">
+<!ENTITY appbarMSMetaData2.label         "Hangi selle saidi rakendus">
 
 <!ENTITY topSitesHeader.label            "Top saidid">
 <!ENTITY bookmarksHeader.label           "Järjehoidjad">

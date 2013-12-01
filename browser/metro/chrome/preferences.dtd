@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Sätted">
-<!ENTITY optionsHeader.startup.title                             "Käivitamine">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName;i käivitamisel kuvatakse">
-<!ENTITY optionsHeader.homepage.startPage.button                 "avalehte">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "viimati avatud kaarte">
 <!ENTITY optionsHeader.char.title                                "Kodeering">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automaatne tuvastamine">
 <!ENTITY optionsHeader.char.options.label                        "Kodeeringu valikute kuvamine rakendusteribal">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Paroolid salvestatamine">
 <!ENTITY doNotTrack.title                                        "Jälitamine">
-<!ENTITY doNotTrack.desc                                         "Saitidele:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "antakse teada, et jälitamist ei soovita">
-<!ENTITY doNotTrack.options.noPreference                         "ei anta mingit teavet jälitamise eelistuste kohta">
-<!ENTITY doNotTrack.options.trackingOkay                         "antakse teada soovist olla jälitatud">
+<!ENTITY doNotTrack.options.doNotTrack                           "Veebilehtdele antakse teada, et jälitamist ei soovita">
+<!ENTITY doNotTrack.options.doTrack                              "Veebilehti teavitatakse soovist olla jälitatud">
+<!ENTITY doNotTrack.options.default                              "Veebilehtedele ei anta mingit teavet jälitamise eelistuste kohta">
+<!ENTITY doNotTrack.learnMoreLink                                "Rohkem teavet&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Vigade raporteerimine">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; saadab vearaportid Mozillale, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
 <!ENTITY optionsHeader.telemetry.title                           "Telemeetria">
