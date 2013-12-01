@@ -6,15 +6,15 @@
 <!ENTITY aboutHeader.title          "ਇਸ ਬਾਰੇ">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "&vendorShortName; ਵਲੋਂ">
-<!ENTITY aboutHeader.policy.label   "Read the &brandShortName; privacy policy online">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ ਆਨਲਾਈਨ ਪੜ੍ਹੋ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "…ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "…ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰੋ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ਅੱਪ ਟੂ ਡੇਟ ਹੈ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "ਅੱਪਡੇਟ ਲਈ ਤੁਹਾਡੇ ਸਿਸਟਮ ਐਡਮਿਨ ਵਲੋਂ ਰੋਕ ਲਗਾਈ ਹੈ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; is being updated by another instance">
 

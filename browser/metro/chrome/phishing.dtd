@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "ਮੈਨੂੰ ਇੱਥੋ ਕੱਢੋ!">
 <!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਅਣਡਿੱਠੀ ਕਰੋ">
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.notforgery.label2 "…ਇਹ ਵੈੱਬ ਧੋਖਾਧੜੀ ਨਹੀਂ ਹੈ">
 <!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
@@ -12,6 +12,6 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Suspected Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title2 "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
