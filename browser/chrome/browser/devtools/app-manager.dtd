@@ -72,6 +72,8 @@
 <!ENTITY projects.updateAppTooltip "Lancer les tests de validation et mettre à jour l'application sur l'appareil connecté">
 <!ENTITY projects.debugApp "Déboguer">
 <!ENTITY projects.debugAppTooltip "Ouvrir les outils de développement connectés à cette application">
+<!ENTITY projects.saveManifest "Enregistrer">
+<!ENTITY projects.saveManifestTooltip "Enregistrer le contenu de l'éditeur de manifeste ci-dessous.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemple.com/application/manifest.webapp">
 <!ENTITY projects.noProjects "Aucun projet. Ajoutez ci-dessous une application empaquetée (répertoire local) ou une application hébergée (lien vers un fichier manifeste).">
 <!ENTITY projects.manifestEditor "Éditeur de manifeste">
