@@ -328,6 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Anpassa">
+<!ENTITY appMenuCustomizeExit.label "Avsluta anpassning">
 <!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
