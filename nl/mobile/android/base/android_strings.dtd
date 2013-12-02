@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName;-locatieservices">
 <!ENTITY datareporting_wifi_summary "Help geolocatieservices voor het open web te verbeteren door &brandShortName; anonieme gegevens van mobiele zendmasten te laten verzamelen en verzenden">
 
-<!ENTITY pref_update_autodownload "Automatische updates">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Updates automatich downloaden">
 <!ENTITY pref_update_autodownload_wifi "Alleen via wifi">
-<!ENTITY pref_update_autodownload_disabled "Uitgeschakeld">
-<!ENTITY pref_update_autodownload_enabled "Ingeschakeld">
+<!ENTITY pref_update_autodownload_never "Nooit">
+<!ENTITY pref_update_autodownload_always "Altijd">
 
 <!ENTITY quit "Afsluiten">
 
