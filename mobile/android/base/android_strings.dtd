@@ -231,6 +231,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Bewerken">
 <!ENTITY contextmenu_top_sites_pin "Website vastmaken">
 <!ENTITY contextmenu_top_sites_unpin "Website losmaken">
+<!ENTITY contextmenu_add_search_engine "Zoekmachine toevoegen">
 
 <!ENTITY pref_titlebar_mode "Titelbalk">
 <!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
