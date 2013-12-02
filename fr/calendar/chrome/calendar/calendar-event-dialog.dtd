@@ -146,6 +146,16 @@
 <!ENTITY event.toolbar.spellcheck.label "Orthographe">
 <!ENTITY event.toolbar.privacy.label "Confidentialité">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Enregistrer et fermer">
+<!ENTITY  event.toolbar.delete.tooltip                    "Supprimer">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Inviter des participants">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Vérifier l'orthographe">
+<!ENTITY  event.toolbar.attachments.tooltip               "Ajouter des pièces jointes">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Modifier la confidentialité">
+<!ENTITY  event.toolbar.priority.tooltip                  "Modifier la priorité">
+<!ENTITY  event.toolbar.status.tooltip                    "Modifier le statut">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Modifier la disponibilité (disponible/occupé)">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titre :" >
 <!ENTITY event.title.textbox.accesskey "T">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label "Personnaliser…" >
 
 <!ENTITY event.reminder.multiple.label "Rappels multiples…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Disponibilité :">
+<!ENTITY event.statusbarpanel.privacy.label               "Confidentialité :">
 
 <!-- Recurrence dialog -->
 
