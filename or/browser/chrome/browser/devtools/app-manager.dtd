@@ -1,0 +1,84 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+<!ENTITY device.startApp "ଆରମ୍ଭ କରନ୍ତୁ">
+
+
+
+
+
+<!ENTITY device.name "ନାମ">
+
+
+
+<!ENTITY device.allow "ଅନୁମତି ଦିଅନ୍ତୁ">
+
+<!ENTITY device.prompt "ପଚାରନ୍ତୁ">
+
+
+
+
+
+<!ENTITY device.permissions "ଅନୁମତି">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.saveConnectionInfo "ସଂରକ୍ଷଣ କରନ୍ତୁ">
+
+<!ENTITY connection.connecting "ସଂଯୋଗ କରୁଅଛି…">
+
+<!ENTITY connection.cancel "ବାତିଲ କରନ୍ତୁ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.updateApp "ଅଦ୍ୟତନ କରନ୍ତୁ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
