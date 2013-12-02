@@ -371,3 +371,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; zal nu herstarten">
 <!ENTITY exit_guest_session_text "De navigatiegegevens van deze sessie zullen worden verwijderd.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Menu">
+<!ENTITY actionbar_done "Klaar">
