@@ -244,6 +244,7 @@
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Personalizza">
+<!ENTITY appMenuCustomizeExit.label "Esci da personalizzazione">
 <!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Visualizza la cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
