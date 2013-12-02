@@ -39,3 +39,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu de l'application">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Afficher le menu de &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panneau d'agenda">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Afficher le panneau d'agenda">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
