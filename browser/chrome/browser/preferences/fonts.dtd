@@ -77,7 +77,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabe">
-<!ENTITY languages.customize.Fallback.baltic      "Baltique">
+<!ENTITY languages.customize.Fallback.baltic      "Balte">
 <!ENTITY languages.customize.Fallback.ceiso       "Europe centrale (ISO)">
 <!ENTITY languages.customize.Fallback.cewindows   "Europe centrale (Microsoft)">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -108,4 +108,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamien">
-<!ENTITY languages.customize.Fallback.other       "Autre (y compris Europe de l'est)">
+<!ENTITY languages.customize.Fallback.other       "Autre (y compris Europe occidentale)">
