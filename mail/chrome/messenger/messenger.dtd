@@ -570,6 +570,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Transférer au format intégré">
 <!ENTITY buttonMenuForwardAsAttachment.label "Transférer au format pièce jointe">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Afficher le contenu distant de ce message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "h">
+<!ENTITY remoteContentOptionAllowForAddress.label "Afficher le contenu distant de cet expéditeur">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "l">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorer l'avertissement pour ce message">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Désactiver la détection de courrier frauduleux pour tous les messages">
+<!ENTITY phishingOptionDisableDetection.accesskey "s">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nouveau message">
 <!ENTITY appmenuNewContactCmd.label "Contact du carnet d'adresses…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "u">
 <!ENTITY contextUnmute.label "Audible">
 <!ENTITY contextUnmute.accesskey "A">
-
-<!-- junk bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; pense que ce message est indésirable.">
-<!ENTITY junkBarButton1.label "Acceptable">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Afin de protéger votre vie privée, les contenus distants ont été bloqués.">
-<!ENTITY loadRemoteContentButton3.label "Afficher les contenus maintenant">
-
-<!-- Phishing bar Bar -->
-<!ENTITY phishingBarMessage2.label "Ce message est peut-être frauduleux.">
-<!ENTITY removePhishingBarButton1.label "Ignorer l'avertissement">
-<!ENTITY disablePhishingWarning1.label "Désactiver la détection de courrier frauduleux pour tous les messages">
-<!ENTITY reportPhishingError1.label "Ce message ne semble pas être frauduleux">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorer">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Envoyer l'accusé de réception">
-<!ENTITY mdnBarSendButton2.accesskey "E">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
