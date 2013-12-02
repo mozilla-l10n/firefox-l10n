@@ -244,6 +244,7 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Изменить">
+<!ENTITY appMenuCustomizeExit.label "Выход из настройки">
 <!ENTITY appMenuHistory.label "Журнал">
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
 <!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
