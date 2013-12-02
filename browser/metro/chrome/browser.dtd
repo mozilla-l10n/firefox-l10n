@@ -59,6 +59,7 @@
 <!ENTITY contextSaveVideoLib.label "Sàrva in Vìdeo">
 <!ENTITY contextCopyVideoLocation.label "Còpia indirìsso vìdeo">
 <!ENTITY contextOpenVideoTab.label "Àrvi vìdeo inte 'n nêuova féuggio">
+<!ENTITY appbarMSMetaData2.label "Pìggite l'app pe sto scîto">
 <!ENTITY reload.key "r">
 <!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
