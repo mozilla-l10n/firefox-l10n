@@ -82,8 +82,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcje synchronizacji">
-<!ENTITY syncDeviceName.label         "Nazwa urządzenia:">
-<!ENTITY syncDeviceName.accesskey     "k">
+<!ENTITY syncDeviceName.label "Nazwa urządzenia:">
+<!ENTITY syncDeviceName.accesskey "N">
 
 <!ENTITY syncMy.label                   "Synchronizuj:">
 <!ENTITY engine.bookmarks.label         "zakładki">

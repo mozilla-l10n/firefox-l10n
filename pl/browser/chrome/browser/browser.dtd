@@ -86,8 +86,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i" >
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Przejdź do trybu pełnoekranowego">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "Tryb pełnoekranowy">
+<!ENTITY enterFullScreenCmd.accesskey "T">
 <!ENTITY exitFullScreenCmd.label "Opuść tryb pełnoekranowy">
 <!ENTITY exitFullScreenCmd.accesskey "O">
 <!ENTITY fullScreenCmd.label "Tryb pełnoekranowy" >
@@ -426,7 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label "Wyślij wideo…">
 <!ENTITY emailVideoCmd.accesskey "o">
 <!ENTITY emailAudioCmd.label "Wyślij dźwięk…">
-<!ENTITY emailAudioCmd.accesskey "o">
+<!ENTITY emailAudioCmd.accesskey "d">
 <!ENTITY playPluginCmd.label          "Aktywuj tę wtyczkę">
 <!ENTITY playPluginCmd.accesskey      "w">
 <!ENTITY hidePluginCmd.label          "Ukryj tę wtyczkę">
