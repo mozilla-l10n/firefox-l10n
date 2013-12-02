@@ -26,26 +26,28 @@
 <!ENTITY printButton.tooltip            "ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ">
 <!ENTITY closeWindow.commandkey         "W">
 
+<!ENTITY search.emptytext               "ସନ୍ଧାନ କରନ୍ତୁ">
+<!ENTITY searchHeader.label             "ଫଳାଫଳ ସନ୍ଧାନ କରନ୍ତୁ">
 <!ENTITY toctab.label                   "ସୂଚୀ">
 <!ENTITY toctab.accesskey               "C">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY helpSearch.commandkey          "k">
-<!ENTITY search.emptytext               "ସନ୍ଧାନ କରନ୍ତୁ">
-<!ENTITY searchHeader.label             "ଫଳାଫଳ ସନ୍ଧାନ କରନ୍ତୁ">
+
 <!ENTITY zLevel.label                   "ସର୍ବଦା ଉପରେ">
 <!ENTITY zLevel.accesskey               "T">
 
