@@ -90,8 +90,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে (প্রস্তাবিত: উন্নত নিরাপত্তার খাতিরে)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateAutoMetro.label           "ডেস্কটপ থেকে স্বয়ংক্রিয় ভাবে আপডেট হবে এবং উইন্ডোজ ৮ স্টাইল এবং &brandShortName;">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "আপডেট পরীক্ষা করা হবে, কিন্তু ইনস্টল করা হবে কি না তা ব্যবহারকারী স্বয়ং নির্বাচন করবেন">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "কখনো আপডেট পরীক্ষা করা হবে না (প্রস্তাবিত নয়: বিপজ্জনক)">
