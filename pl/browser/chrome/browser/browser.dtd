@@ -15,6 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
+<!ENTITY appmenu.title "Dostosuj i kontroluj program &brandFullName;">
+
 <!-- Tab context menu -->
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
 <!ENTITY reloadTab.accesskey                 "d" >
@@ -320,6 +322,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Dostosuj">
+<!ENTITY appMenuBack.label "Cofnij">
+<!ENTITY appMenuBookmarks.label "Zakładki">
 
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder2          "Wprowadź adres lub szukaj">
@@ -635,6 +639,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "D">
 <!ENTITY social.closeNotificationItem.label "Nie teraz">
 
+<!ENTITY customizeMode.tabTitle "Dostosowywanie programu &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menu i paski narzędzi">
+<!ENTITY customizeMode.menuAndToolbars.header "Więcej narzędzi do dodania do menu i pasków narzędzi">
+<!ENTITY customizeMode.appearance.label "Wygląd">
+<!ENTITY customizeMode.appearance.header "Bling!">
+<!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
+<!ENTITY customizeMode.done "Gotowe">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Przenieś zaznaczenie do czatów">
 <!ENTITY social.chatBar.accesskey "c">
@@ -704,6 +716,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomOutButton.tooltip         "Pomniejsz">
 <!ENTITY zoomInButton.tooltip          "Powiększ">
 <!ENTITY zoomControls.label            "Zmiana powiększenia">
+<!ENTITY zoomReset.label "100&#37;">
+<!ENTITY zoomReset.tooltip "Rozmiar pierwotny">
 <!ENTITY addonBarCloseButton.tooltip   "Zamknij pasek dodatków">
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->
