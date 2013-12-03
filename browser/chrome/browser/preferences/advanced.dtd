@@ -61,7 +61,7 @@
 <!ENTITY updateApp.label "Обновления &brandShortName;:">
 <!ENTITY updateAuto1.label "Автоматически устанавливать обновления (рекомендовано: повышает безопасность)">
 <!ENTITY updateAuto1.accesskey "м">
-<!ENTITY updateAutoMetro.label "Автоматически обновляться в обоих режимах &brandShortName; - рабочего стола и в стиле Windows 8">
+<!ENTITY updateAutoMetro.label "Автоматически обновляться в обоих режимах &brandShortName; — рабочего стола и в стиле Windows 8">
 <!ENTITY updateAutoMetro.accesskey "о">
 <!ENTITY updateCheck.label "Проверять наличие обновлений, но позволять мне решать, устанавливать ли их или нет">
 <!ENTITY updateCheck.accesskey "в">
