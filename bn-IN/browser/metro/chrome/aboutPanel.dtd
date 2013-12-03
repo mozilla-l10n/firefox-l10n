@@ -5,7 +5,7 @@
 
 <!ENTITY aboutHeader.title          "পরিচিতি">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-
+<!ENTITY aboutHeader.company.label  "&vendorShortName; দ্বারা">
 <!ENTITY aboutHeader.policy.label   "পড়ুন &brandShortName;Privacy Policy অনলাইন">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে…">
