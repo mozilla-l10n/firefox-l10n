@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opcions">
-<!ENTITY optionsHeader.startup.title                             "Inicio">
-<!ENTITY optionsHeader.homepage.title                            "Amostrar en que s'inicie o &brandShortName;">
-<!ENTITY optionsHeader.homepage.startPage.button                 "pachina d'inicio">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "pestanyas d'a zaguera sesión">
 <!ENTITY optionsHeader.char.title                                "Codificación de caracters">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autodetectar">
 <!ENTITY optionsHeader.char.options.label                        "Amostrar opcions de codificación en a barra d'aplicacions">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar as claus">
 <!ENTITY doNotTrack.title                                        "No quiero que me sigan o bayo">
-<!ENTITY doNotTrack.desc                                         "Fer saber a os puestos web que:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "No quiero que me sigan o bayo">
-<!ENTITY doNotTrack.options.noPreference                         "Brenca sobre as mías preferencias de seguimiento">
-<!ENTITY doNotTrack.options.trackingOkay                         "Quiero que se me siga o bayo">
+<!ENTITY doNotTrack.options.doNotTrack                           "Indicar a os puestos web que no quiero que me sigan o bayo">
+<!ENTITY doNotTrack.options.doTrack                              "Indicar a os puestos web que quiero que me sigan o bayo">
+<!ENTITY doNotTrack.options.default                              "No indicar a os puestos web garra cosa sobre as mías preferencias de bayo">
+<!ENTITY doNotTrack.learnMoreLink                                "Saber-ne mas&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Informe de fallos">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ninvia informes de fallo ta aduyar a Mozilla a fer un navegador mas estable y seguro">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetría">

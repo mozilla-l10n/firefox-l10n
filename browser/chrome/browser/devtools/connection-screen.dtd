@@ -19,4 +19,11 @@
 <!ENTITY errorTimeout "Error: s'ha acorau o tiempo d'a connexión.">
 <!ENTITY errorRefused "Error: s'ha refusau a connexión.">
 <!ENTITY errorUnexpected "Error desconoixiu.">
-<!ENTITY help "Con as ferramientas ta desembolicadors se puede depurar os dispositivos remotos (como por eixemplo, o Firefox ta Android y ta Firefox OS). Comprebe que ha activau a opción 'Depuración remota' en o suyo dispositivo remoto. Mire-se a <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentación</a> ta saber-ne mas.">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "As ferramientas de desembolicamiento de Firefox pueden depurar dispositivos remotos (Firefox ta Android y Firefox OS, por eixemplo). Asegure-se que ha activau a opción &quot;Depuración remota&quot; en o dispositivo remoto. Ta mas información consulte a ">
+<!ENTITY remoteDocumentation "documentación">
+<!ENTITY remoteHelpSuffix ".">
+
