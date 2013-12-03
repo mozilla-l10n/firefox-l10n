@@ -148,6 +148,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Sprawdzanie pisowni">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
 
+<!ENTITY event.toolbar.save.tooltip "Zapisz i zamknij">
+<!ENTITY event.toolbar.delete.tooltip "Usuń">
+<!ENTITY event.toolbar.attendees.tooltip "Zaproś uczestników">
+<!ENTITY event.toolbar.spellcheck.tooltip "Sprawdź pisownię">
+<!ENTITY event.toolbar.attachments.tooltip "Dodaj załączniki">
+<!ENTITY event.toolbar.privacy.tooltip "Zmień ustawienia prywatności">
+<!ENTITY event.toolbar.priority.tooltip "Zmień priorytet">
+<!ENTITY event.toolbar.status.tooltip "Zmień status">
+<!ENTITY event.toolbar.freebusy.tooltip "Zmień czas zajęty lub wolny">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Nazwa:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
@@ -214,6 +224,9 @@
 <!ENTITY event.reminder.custom.label                      "Ustaw…" >
 
 <!ENTITY event.reminder.multiple.label                    "Przypomnienia wielokrotne…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label "Status:">
+<!ENTITY event.statusbarpanel.privacy.label "Prywatność:">
 
 <!-- Recurrence dialog -->
 
