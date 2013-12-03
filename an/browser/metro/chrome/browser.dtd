@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Ubrir o interprete de Javascript">
 <!ENTITY appbarFindInPage2.label    "Buscar en a pachina">
 <!ENTITY appbarViewOnDesktop2.label "Veyer en o escritorio">
+<!ENTITY appbarMSMetaData2.label    "Obtener l'aplicación d'iste puesto">
 
 <!ENTITY topSitesHeader.label        "Os mas destacaus">
 <!ENTITY bookmarksHeader.label       "Marcapachinas">

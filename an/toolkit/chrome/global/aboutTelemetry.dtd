@@ -16,6 +16,8 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Midas simples">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalles d'o complemento">
+
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras rezagadas">
 
 <!ENTITY aboutTelemetry.systemInfoSection "  Información d'o sistema">

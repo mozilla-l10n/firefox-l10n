@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instalar una versión d'o simulador descargando o complemento apropiau.">
 <!ENTITY connection.installAnotherSimulator "Adhibir">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instalar una versión adicional d'o simulador descargando o complemento apropiau.">
+<!ENTITY connection.startRegisteredSimulator "Enchegar:">
 
 <!ENTITY projects.localApps "Aplicacions locals">
 <!ENTITY projects.addApp "Adhibir">
@@ -73,10 +74,14 @@
 <!ENTITY projects.debugAppTooltip "Ubrir as ferramientas d'o desembolicador connectadas a ista aplicación">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No i hai garra prochecto. Anyada una nueva aplicación empaquetada (directorio local) mas abaixo u una aplicación alochada (vinclo a un fichero manifest).">
+<!ENTITY projects.manifestEditor "Editor de fichers manifest">
+<!ENTITY projects.manifestEditorTooltip "Edite o fichero manifest d'a suya aplicación en o panel de debaixo. O botón Esviellar alzará os suyos cambios y esviellará l'aplicación.">
+<!ENTITY projects.manifestViewer "Visor de fichers manifest">
+<!ENTITY projects.manifestViewerTooltip "Examine o fichero manifest d'a suya aplicación en o panel de debaixo.">
 
 <!ENTITY help.title "Chestor d'aplicacions">
 <!ENTITY help.close "Zarrar">
-<!ENTITY help.intro "Ista ferramienta li aduyará a chenerar y instalar aplicacions web en dispositivos compatibles (i.y. Firefox TOS). A pestanya <strong>Aplicacions</strong> le aduyará en o proceso de validación y instalación d'a suya aplicación. A pestanya <strong>Dispositivo</strong> le dará información sobre o dispositivo connectau. Use a barra de ferramientas de debaixo ta connectar-se a un dispositivo u encetar o simulador.">
+<!ENTITY help.intro "Ista ferramienta li aduyará a chenerar y instalar aplicacions web en dispositivos compatibles (i.e. Firefox OS). A pestanya <strong>Aplicacions</strong> li aduyará en o proceso de validación y instalación d'a suya aplicación. A pestanya <strong>Dispositivo</strong> li dará información sobre o dispositivo connectau. Faiga servir a barra de ferramientas de debaixo ta connectar-se a un dispositivo u enchegar o simulador.">
 <!ENTITY help.usefullLinks "Vinclos utils:">
 <!ENTITY help.appMgrDoc "Documentación: Cómo usar o Chestor d'aplicacions">
 <!ENTITY help.configuringDevice "Cómo configurar o suyo dispositivo Firefox TOS">

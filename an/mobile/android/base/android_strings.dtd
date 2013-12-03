@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!ENTITY contextmenu_subscribe "Conducir-se a la pachina">
 <!ENTITY contextmenu_site_settings "Modificar os parametros d\u0027o sitio">
-<!ENTITY contextmenu_top_bookmarks_edit "Editar">
-<!ENTITY contextmenu_top_bookmarks_pin "Clavar o puesto">
-<!ENTITY contextmenu_top_bookmarks_unpin "Desclavar o puesto">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Clavar o puesto">
+<!ENTITY contextmenu_top_sites_unpin "Desclavar o puesto">
 
 <!ENTITY pref_titlebar_mode "Barra de titol">
 <!ENTITY pref_titlebar_mode_title "Amostrar o titol d\u0027a pachina">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "S\u0027ha eliminau a pachina">
 
-<!ENTITY bookmark_add "Adhibir un marcapachinas">
 <!ENTITY bookmark_edit_title "Editar o marcapachinas">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Ubicación">
@@ -270,13 +269,18 @@ size. -->
 <!ENTITY button_set "Configurar">
 <!ENTITY button_clear "Limpiar">
 
+<!ENTITY home_top_sites_title "Mas visitaus">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Anyader un puesto">
+
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
 <!ENTITY home_last_tabs_title "Pestanyas d\u0027a zaguera sesión">
 <!ENTITY home_last_tabs_open "Ubrir todas as pestanyas d\u0027a zaguera vegada">
 <!ENTITY home_last_tabs_empty "As suyas pestanyas recients s\u0027amostrarán aquí.">
 <!ENTITY home_most_recent_title "Mas recients">
 <!ENTITY home_most_recent_empty "Os puestos web que ha visitau en zagueras s\u0027amostrarán aquí.">
-<!ENTITY home_most_visited_title "Mas visitaus">
 <!ENTITY home_reading_list_empty "Os articlos que alce ta veyer-los mas enta debant amaneixerán aquí.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -287,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "CONSELLO: alce articlos en a suya lista de lectura con una pretada larga sobre o botón d\u0027o modo de lectura quan amaneixca en a barra de titol.">
 
-<!ENTITY home_most_visited_empty "Os puestos web que visite mas a ormino s\u0027amostrarán aquí.">
-<!ENTITY pin_bookmark_dialog_hint "Escriba una parola clau de busca">
+<!ENTITY pin_site_dialog_hint "Escriba una parola clau de busca">
 
 <!ENTITY filepicker_title "Trigue un fichero">
 <!ENTITY filepicker_audio_title "Trigue un grave un soniu">
