@@ -698,6 +698,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      for mozilla-aurora. -->
 <!ENTITY addonBarCmd.label             "Pasek dodatków">
 <!ENTITY addonBarCmd.accesskey         "a">
-<!ENTITY addonBarCloseButton.tooltip   "Zamknij pasek dodatków">
-<!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->
