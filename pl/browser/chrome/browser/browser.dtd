@@ -158,7 +158,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę" >
 
-<!ENTITY backForwardItem.title        "Wstecz/Do przodu">
 <!ENTITY locationItem.title "Adres" >
 <!ENTITY searchItem.title "Znajdź" >
 <!ENTITY bookmarksItem.title "Zakładki" >
