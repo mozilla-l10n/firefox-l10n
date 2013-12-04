@@ -11,7 +11,7 @@
 <!ENTITY appbarErrorConsole.label "Apri console errori">
 <!ENTITY appbarJSShell.label "Apri shell JavaScript">
 <!ENTITY appbarFindInPage2.label "Trova nella pagina">
-<!ENTITY appbarRelaunchInDesktop.label "Riavvia in versione desktop">
+<!ENTITY appbarRelaunchInDesktop.label "Riapri in modalità desktop">
 <!ENTITY appbarMSMetaData2.label "Ottieni app per questo sito">
 <!ENTITY appbarViewPageSource.label "Visualizza sorgente pagina">
 <!ENTITY topSitesHeader.label "Siti principali">
