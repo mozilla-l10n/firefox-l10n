@@ -694,7 +694,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Wskaźnik aktywności" >
 <!ENTITY feedButton.label              "Subskrybuj">
 <!ENTITY feedButton.tooltip            "Subskrybuj tę stronę…">
-<!ENTITY bookmarksButton.tooltip       "Wyświetl zakładki">
 <!ENTITY historyButton.tooltip         "Wyświetl ostatnio oglądane strony">
 <!ENTITY viewTabsOnTop.label           "Karty na górze">
 <!ENTITY viewTabsOnTop.accesskey       "K">
