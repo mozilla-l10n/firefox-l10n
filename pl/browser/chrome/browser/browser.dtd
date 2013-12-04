@@ -328,6 +328,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
+<!ENTITY customizeMenu.addToPanel.label "Dodaj do menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Usuń z paska narzędzi">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "n">
 <!ENTITY customizeMenu.removeFromMenu.label "Usuń z menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "U">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj więcej…">
