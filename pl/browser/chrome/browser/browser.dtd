@@ -329,6 +329,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 
+<!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
+<!ENTITY customizeMenu.addToToolbar.accesskey "D">
+<!ENTITY customizeMenu.removeFromMenu.label "Usuń z menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "U">
+<!ENTITY customizeMenu.addMoreItems.label "Dodaj więcej…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "w">
+
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder2          "Wprowadź adres lub szukaj">
 <!ENTITY urlbar.accesskey "d" >
