@@ -691,7 +691,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      for mozilla-aurora. -->
 <!ENTITY addonBarCmd.label             "Pasek dodatków">
 <!ENTITY addonBarCmd.accesskey         "a">
-<!ENTITY throbberItem.title            "Wskaźnik aktywności" >
 <!ENTITY feedButton.label              "Subskrybuj">
 <!ENTITY feedButton.tooltip            "Subskrybuj tę stronę…">
 <!ENTITY historyButton.tooltip         "Wyświetl ostatnio oglądane strony">
