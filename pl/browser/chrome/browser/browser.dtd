@@ -341,6 +341,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey "d" >
 <!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
 
+<!ENTITY toggleMenuPanel.key "m">
+<!ENTITY toggleMenuPanelMac.key "m">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
