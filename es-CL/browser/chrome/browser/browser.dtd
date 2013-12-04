@@ -189,8 +189,8 @@
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY chromeDebuggerMenu.label       "Depurador del navegador">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!ENTITY browserToolboxMenu.label     "Herramientas del navegador">
+<!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
@@ -262,6 +262,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuCustomizeExit.label "Dejar de cambiar">
 
 <!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Mostrar historial completo">
