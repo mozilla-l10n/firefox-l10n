@@ -324,9 +324,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "Dostosuj">
 <!ENTITY appMenuBookmarks.label "Zakładki">
 <!ENTITY appMenuHistory.label "Historia">
-<!ENTITY appMenuHistory.moreLabel "Wyświetl całą historię">
-<!ENTITY appMenuHistory.clearRecentLabel "Wyczyść historię przeglądania…">
-<!ENTITY appMenuHistory.restoreSession "Przywróć poprzednią sesję">
+<!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
+<!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
+<!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder2          "Wprowadź adres lub szukaj">
