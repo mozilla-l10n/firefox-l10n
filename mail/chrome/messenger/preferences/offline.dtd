@@ -1,28 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY offlineDialog.title "Configurações do Modo Desligado">
-
+<!ENTITY offlineDialog.title "Definições do modo desligado">
 <!ENTITY textStartUp "Ao iniciar:">
-<!ENTITY radioRememberPrevState.label "Lembrar o último estado">
-<!ENTITY radioRememberPrevState.accesskey "L">
-<!ENTITY radioAskMe.label "Perguntar-me qual o estado ao iniciar">
-<!ENTITY radioAskMe.accesskey "g">
-<!ENTITY radioAlwaysOnline.label "Iniciar Sempre Ligado">
-<!ENTITY radioAlwaysOnline.accesskey "i">
-
-<!ENTITY textGoingOnline "Enviar mensagens ao ficar Ligado?">
+<!ENTITY radioRememberPrevState.label "Memorizar o último estado">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe.label "Perguntar o estado ao iniciar">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Iniciar sempre ligado">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ligar?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Perguntar-me">
-<!ENTITY radioAskUnsent.accesskey "p">
-<!ENTITY textGoingOffline "Transferir mensagens para uso quando estiver no Modo Desligado?">
+<!ENTITY radioAskUnsent.label "Perguntar">
+<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY textGoingOffline "Receber mensagens para utilizar no modo desligado?">
 <!ENTITY radioAutoDownload.label "Sim">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "Não">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Perguntar-me">
+<!ENTITY radioAskDownload.label "Perguntar">
 <!ENTITY radioAskDownload.accesskey "e">

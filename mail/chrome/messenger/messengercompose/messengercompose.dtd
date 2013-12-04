@@ -27,8 +27,10 @@
 <!ENTITY attachPageCmd.accesskey "w">
 
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "vCard">
+<!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY remindLater.label "Lembrar mais tarde">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "c">
@@ -115,6 +117,7 @@
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalizar">
 <!ENTITY customizeToolbar.accesskey "P">
+
 <!ENTITY addressSidebar.label "Painel de contactos">
 <!ENTITY addressSidebar.accesskey "o">
 
@@ -137,6 +140,7 @@
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Anexar vCard">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "Recibo de leitura">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Notificação de entrega">
@@ -266,6 +270,7 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY paste.accesskey "l">
 <!ENTITY pasteQuote.label "Colar como citação">
 <!ENTITY pasteQuote.accesskey "i">
+
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Eliminar">
@@ -295,3 +300,4 @@ to the strings in attachmentCount in composeMsgs.properties -->
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
+
