@@ -16,6 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
 <!ENTITY appmenu.title "Dostosuj i kontroluj program &brandFullName;">
+<!ENTITY navbarOverflow.label "Więcej narzędzi…">
 
 <!-- Tab context menu -->
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
