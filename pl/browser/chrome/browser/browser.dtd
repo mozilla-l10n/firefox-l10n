@@ -686,8 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
      for mozilla-aurora. -->
-
-<!ENTITY navbarCmd.accesskey           "n">
 <!ENTITY addonBarCmd.label             "Pasek dodatków">
 <!ENTITY addonBarCmd.accesskey         "a">
 <!ENTITY throbberItem.title            "Wskaźnik aktywności" >
@@ -709,4 +707,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip   "Zamknij pasek dodatków">
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->
-
