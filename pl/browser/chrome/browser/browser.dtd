@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
 <!ENTITY bookmarksMenuButton.tooltip        "Wyświetl zakładki">
 <!ENTITY bookmarksMenuButton.unsorted.label "Zakładki nieprzypisane">
-<!ENTITY viewBookmarksSidebar.label         "Wyświetl w panelu bocznym">
+<!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -322,7 +322,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Dostosuj">
-<!ENTITY appMenuBookmarks.label "Zakładki">
 <!ENTITY appMenuHistory.label "Historia">
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
@@ -728,4 +727,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip "Zamknij pasek dodatków">
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY backForwardItem.title "Wstecz/Do przodu">
+<!ENTITY viewBookmarksSidebar.label "Wyświetl w panelu bocznym">
+<!ENTITY appMenuBookmarks.label "Zakładki">
 <!-- end of strings to be removed post-Australis -->
