@@ -2,21 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Configurações da Ligação">
+<!ENTITY connectionsDialog.title "Definições de ligação">
 <!ENTITY window.width "42em">
-
-<!ENTITY proxyTitle.label "Configurar Proxies para Aceder à Internet">
+<!ENTITY proxyTitle.label "Configurar proxy para aceder à Internet">
 <!ENTITY noProxyTypeRadio.label "Sem proxy">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "Usar definições do proxy do sistema">
-<!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Detectar configurações automaticamente para esta rede">
-<!ENTITY WPADTypeRadio.accesskey "d">
-<!ENTITY manualTypeRadio.label "Configuração Manual do proxy:">
+<!ENTITY systemTypeRadio.label "Utilizar definições de proxy do sistema">
+<!ENTITY systemTypeRadio.accesskey "U">
+<!ENTITY WPADTypeRadio.label "Deteção automática para esta rede">
+<!ENTITY WPADTypeRadio.accesskey "D">
+<!ENTITY manualTypeRadio.label "Configuração manual do proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL de Configuração Automatica do proxy:">
-<!ENTITY autoTypeRadio.accesskey "U">
-<!ENTITY reload.label "Actualizar">
+<!ENTITY autoTypeRadio.label "URL de configuração automática do proxy:">
+<!ENTITY autoTypeRadio.accesskey "R">
+<!ENTITY reload.label "Recarregar">
 <!ENTITY reload.accesskey "a">
 <!ENTITY http.label "Proxy HTTP:">
 <!ENTITY http.accesskey "t">
@@ -32,10 +31,10 @@
 <!ENTITY HTTPport.accesskey "p">
 <!ENTITY SSLport.label "Porta:">
 <!ENTITY SSLport.accesskey "o">
-<!ENTITY SOCKSport.label "Porta">
+<!ENTITY SOCKSport.label "Porta:">
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Nenhum Proxy para:">
+<!ENTITY noproxy.label "Nenhum proxy para:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Usar este servidor proxy para todos os protocolos">
+<!ENTITY shareproxy.label "Utilizar este proxy para todos os protocolos">
 <!ENTITY shareproxy.accesskey "x">
