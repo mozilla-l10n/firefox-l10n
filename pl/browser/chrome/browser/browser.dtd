@@ -727,6 +727,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY backForwardItem.title "Wstecz/Do przodu">
 <!ENTITY viewBookmarksSidebar.label "Wyświetl w panelu bocznym">
-<!ENTITY appMenuBookmarks.label "Zakładki">
 <!ENTITY bookmarksItem.title "Zakładki">
 <!-- end of strings to be removed post-Australis -->
