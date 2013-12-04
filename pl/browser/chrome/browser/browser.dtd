@@ -693,8 +693,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCmd.accesskey         "a">
 <!ENTITY feedButton.label              "Subskrybuj">
 <!ENTITY feedButton.tooltip            "Subskrybuj tę stronę…">
-<!ENTITY viewTabsOnTop.label           "Karty na górze">
-<!ENTITY viewTabsOnTop.accesskey       "K">
 <!ENTITY addonBarCloseButton.tooltip   "Zamknij pasek dodatków">
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->
