@@ -422,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
 <!ENTITY emailPageCmd.label "Wyślij odnośnik…">
 <!ENTITY emailPageCmd.accesskey "n">
+<!ENTITY switchToMetroCmd.label "Przejdź do programu &brandShortName; w stylu Windows 8">
 <!ENTITY savePageCmd.label "Zapisz stronę jako…" >
 <!ENTITY savePageCmd.accesskey "p" >
 <!-- alternate for content area context menu -->
