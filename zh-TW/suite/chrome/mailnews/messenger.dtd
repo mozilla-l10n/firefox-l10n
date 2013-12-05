@@ -43,7 +43,7 @@
 <!ENTITY getNewMsgCmd.label "下載新郵件">
 <!ENTITY getNewMsgCmd.accesskey "G">
 <!ENTITY getNewMsgCmd2.key "d">
-<!ENTITY getNewMsgForCmd.label "下載新郵件:">
+<!ENTITY getNewMsgForCmd.label "下載新郵件">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "所有帳號">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -81,7 +81,7 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "刪除選擇的郵件">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "救回已選郵件">
+<!ENTITY undeleteMsgsCmd.label "救回選擇的郵件">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "刪除資料夾">
 <!ENTITY deleteFolderCmd.accesskey "D">
@@ -182,7 +182,7 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "展開所有討論串">
+<!ENTITY expandAllThreadsCmd.label "展開所有主題">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "收起所有討論串">
