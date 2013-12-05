@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Įdiegti simuliatorių, parsiunčiant reikiamą priedą.">
 <!ENTITY connection.installAnotherSimulator "Pridėti">
 <!ENTITY connection.installAnotherSimulatorTooltip "Įdiegti papildomą simuliatoriaus versiją, parsiunčiant reikiamą priedą.">
+<!ENTITY connection.startRegisteredSimulator "Paleisti:">
 
 <!ENTITY projects.localApps "Vietinės programos">
 <!ENTITY projects.addApp "Pridėti">
