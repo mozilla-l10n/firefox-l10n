@@ -250,7 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Przełącz narzędzia">
 <!ENTITY devToolboxMenuItem.accesskey      "n">
-<!ENTITY devToolboxMenuItem.keycode        "n">
 <!ENTITY devToolboxMenuItem.keytext        "n">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Przełącz narzędzia dla programistów">
