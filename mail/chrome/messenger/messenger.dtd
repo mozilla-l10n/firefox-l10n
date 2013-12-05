@@ -45,7 +45,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "範本">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgForCmd.label "下載新郵件:">
+<!ENTITY getNewMsgForCmd.label "下載新郵件">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "所有帳號">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -93,7 +93,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY deleteMsgsCmd.label "刪除選擇的郵件">
 <!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "救回已選郵件">
+<!ENTITY undeleteMsgsCmd.label "救回選擇的郵件">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "刪除資料夾">
 <!ENTITY deleteFolderCmd.accesskey "D">
@@ -662,8 +662,8 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位">
 <!ENTITY threadColumn.tooltip "點此顯示同主題的討論串">
-<!ENTITY fromColumn.tooltip "點選依照寄件者排序">
-<!ENTITY recipientColumn.tooltip "點選以依收件者排序">
+<!ENTITY fromColumn.tooltip "點選以照寄件者排序">
+<!ENTITY recipientColumn.tooltip "點選以照收件者排序">
 <!ENTITY subjectColumn.tooltip "點選以照標題排序">
 <!ENTITY dateColumn.tooltip "點選以照日期排序">
 <!ENTITY priorityColumn.tooltip "點選以照優先權排序">
@@ -673,13 +673,13 @@
 <!ENTITY sizeColumn.tooltip "點選以照大小排序">
 <!ENTITY junkStatusColumn.tooltip "點選以照垃圾信狀態排序">
 <!ENTITY unreadColumn.tooltip "討論串中未讀訊息數量">
-<!ENTITY totalColumn.tooltip "主題中所有郵件數量">
+<!ENTITY totalColumn.tooltip "討論串中所有訊息數量">
 <!ENTITY readColumn.tooltip "點選以照已讀排序">
 <!ENTITY receivedColumn.tooltip "點選依照收件者排序">
 <!ENTITY starredColumn.tooltip "點選以照星號排序">
-<!ENTITY locationColumn.tooltip "點選以依網址排序">
+<!ENTITY locationColumn.tooltip "點選以照網址排序">
 <!ENTITY idColumn.tooltip "點選以照接收時間排序">
-<!ENTITY attachmentColumn.tooltip "按此以照附件排序">
+<!ENTITY attachmentColumn.tooltip "點選以照附件排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "用新視窗開啟郵件">

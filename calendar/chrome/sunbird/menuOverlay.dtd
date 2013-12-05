@@ -34,7 +34,7 @@
 <!ENTITY calendar.quit.label                               "離開">
 <!ENTITY calendar.quit.accesskey                           "Q">
 <!ENTITY calendar.quit.key                                 "Q">
-<!ENTITY calendar.quit.label.mac                           "結束 &brandShortName;">
+<!ENTITY calendar.quit.label.mac                           "離開 &brandShortName;">
 
 <!ENTITY calendar.exit.label                               "結束">
 <!ENTITY calendar.exit.accesskey                           "x">
