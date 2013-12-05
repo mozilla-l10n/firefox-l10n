@@ -320,6 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Dostosuj">
+<!ENTITY appMenuCustomizeExit.label "Zakończ dostosowywanie">
 <!ENTITY appMenuHistory.label "Historia">
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
