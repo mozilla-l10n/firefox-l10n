@@ -6,9 +6,6 @@
 
 pref("general.useragent.locale", "@AB_CD@");
 
-//Fix bug 443588
-pref("browser.fixup.use-utf8", true);
-
 #ifdef XP_WIN
 
 // overwrite zh-CN defaults with zh-TW ones in win32 Firefox. (see bug 603549)
