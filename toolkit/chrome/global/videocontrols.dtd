@@ -9,7 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fuld skærm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Forlad fuld skærm">
 
-<!ENTITY stats.media "Medie">
+<!ENTITY stats.media "Medieindhold">
 <!ENTITY stats.size "Størrelse">
 <!ENTITY stats.activity "Aktivitet">
 <!ENTITY stats.activityPaused "Pauset">
