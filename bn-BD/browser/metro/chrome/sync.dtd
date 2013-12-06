@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "syncBrand.shortName.label;(s)">
+<!-- Flyout when not connected -->
+
+<!-- Flyout when setting up sync -->
+
+
+
+<!ENTITY sync.flyout.setup.description3        "নোট:">
+
+
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.account.placeholder "অ্যাকাউন্টের নাম">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "পাসওয়ার্ড">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "পুনরুদ্ধার কী">
+<!ENTITY sync.flyout.manualsetup.connect.label           "সংযুক্ত করুন">
+<!-- Flyout when user has just connected -->
+
+<!-- Flyout when setup failed -->
+
+
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "অ্যাকাউন্ট">
+<!ENTITY sync.flyout.connected.device                     "আপনার ডিভাইস:">
+<!ENTITY sync.flyout.connected.disconnect                 "বিচ্ছিন্ন করুন">
+
+
+
+<!ENTITY sync.flyout.connected.pair                       "একটি ডিভাইস পেয়ার করুন">
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.pair                   "জোড়া">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "নোট:">
+
+
+
+
+<!-- Flyout when a device has been successfully paired -->
+
