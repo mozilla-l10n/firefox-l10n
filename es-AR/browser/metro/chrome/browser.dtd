@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label   "Abrir consola de errores">
 <!ENTITY appbarJSShell.label        "Abrir terminal JavaScript">
 <!ENTITY appbarFindInPage2.label    "Buscar en página">
-<!ENTITY appbarViewOnDesktop2.label "Ver en escritorio">
+<!ENTITY appbarRelaunchInDesktop.label "Reiniciar en escritorio">
 <!ENTITY appbarMSMetaData2.label    "Obtener aplicación para este sitio">
 <!ENTITY appbarViewPageSource.label "Ver fuente de la página">
 
