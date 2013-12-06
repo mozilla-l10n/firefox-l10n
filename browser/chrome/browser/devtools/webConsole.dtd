@@ -68,7 +68,7 @@
 
 <!ENTITY btnPageLogging.label   "ଲଗ କରୁଅଛି">
 <!ENTITY btnPageLogging.tooltip "window.console ବସ୍ତୁ ପାଖକୁ ପଠାଯାଇଥିବା ଲଗ ସନ୍ଦେଶଗୁଡ଼ିକ">
-
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "ତ୍ରୁଟିଗୁଡ଼ିକ">
 <!ENTITY btnConsoleInfo         "ସୂଚନା">
 <!ENTITY btnConsoleWarnings     "ଚେତାବନୀଗୁଡ଼ିକ">
@@ -95,4 +95,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-
+<!ENTITY clearOutputCtrl.key  "L">

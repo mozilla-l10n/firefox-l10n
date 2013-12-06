@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "ଆପଣଙ୍କୁ Mozilla ଅନୁଷ୍ଠାନ କିମ୍ବା ଅନ୍ୟ କୌଣସି ପକ୍ଷ ତରଫରୁ କୌଣସି ବ୍ୟବସାୟୀକ ଚିହ୍ନ ଅଧିକାର କିମ୍ବା ଅନୁମତି ପ୍ରଦାନ କରାଯାଇନଥାଏ , Firefox ନାମ କିମ୍ବା ପ୍ରତୀକକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି। ବ୍ୟବସାୟୀକ ଚିହ୍ନ ବିଷୟରେ ଅତିରିକ୍ତ ସୂଚନା  ">
 <!ENTITY rights.intro-point2-b "ଏଠାରେ ମିଳି ପାରିବ">
-<!ENTITY rights.intro-point2-c "।">
+<!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 " &brandShortName; ରେ ଥିବା କିଛି ବିଶେଷଗୁଣ, ଯେପରିକି ନଷ୍ଟ ବିବରଣୀ, ଆପଣଙ୍କୁ &vendorShortName; କୁ ମତାମତ ଦେବା ପାଇଁ ବିକଳ୍ପ ପ୍ରଦାନ କରିଥାଏ। ମତାମତ ଦାଖଲ କରିବା ପାଇଁ ବାଛିବା ଦ୍ୱାରା, ଆପଣ &vendorShortName; କୁ ଏହାର ଉତ୍ପାଦନ ବୃଦ୍ଧିକରିବା ପାଇଁ ମତାମତକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, ଏହାର ୱେବସାଇଟରେ ମତାମତକୁ ପ୍ରକାଶ କରିବା ପାଇଁ, ଏବଂ ମତାମତକୁ ବଣ୍ଟନ କରିବା ପାଇଁ  ଅନୁମତି ଦେଇଥାନ୍ତି।">
@@ -29,7 +29,7 @@
 
 <!ENTITY rights2.intro-point3a " &vendorShortName;ରେ &brandShortName; ମାଧ୍ଯମରେ ଦାଖଲ ହୋଇଥିବା ବ୍ୟକ୍ତିଗତ ସୂଚନା ଏବଂ ମତାମତକୁ କିପରି ବ୍ୟବହାର କରାଯିବ ତାହା ଏଠାରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି ">
 <!ENTITY rights2.intro-point3b "&brandShortName; ଗୋପନୀୟତା ନିତୀ">
-<!ENTITY rights.intro-point3c "।">
+<!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
 <!ENTITY rights.intro-point3-unbranded "ଏହି ଉତ୍ପାଦ ପାଇଁ କୌଣସି ଉପଯୁକ୍ତ ଗୋପନୀୟ ନିତି ଏଠାରେ ତାଲିକାଭୁକ୍ତ ହେବା ଉଚିତ।">

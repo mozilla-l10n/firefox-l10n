@@ -70,7 +70,7 @@
 
 <!ENTITY  dontrememberActions.pre.label          "ଆପଣ ମଧ୍ଯ ସମସ୍ତ ସାମ୍ପ୍ରତିକ ପୁରୁଣା ତଥ୍ୟକୁ ">
 <!ENTITY  dontrememberActions.clearHistory.label "ସଫା କରିବା ପାଇଁ ଇଚ୍ଛା କରିପାରନ୍ତି">
-<!ENTITY  dontrememberActions.post.label         "।">
+<!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

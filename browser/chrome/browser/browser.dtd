@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  closeTab.label                     "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "ଅନୁମତି ଦିଅନ୍ତୁ">
 <!ENTITY fullscreenExitButton.label "ବାରଣ କରନ୍ତୁ">
 
+<!ENTITY fullscreenExitHint2.value "ଯେକୌଣସି ସମୟରେ ପ୍ରସ୍ଥାନ କରିବା ପାଇଁ ESC ଦବାନ୍ତୁ।">
 <!ENTITY leaveDOMFullScreen.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -135,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 <!ENTITY showAllBookmarks2.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-
+<!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY backCmd.label                "ପଛକୁ">
@@ -204,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ୱେବ ବିକାଶକ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "ସଂଯୋଗ କରନ୍ତୁ…">
@@ -242,18 +245,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
+<!ENTITY chromeDebuggerMenu.label       "ବ୍ରାଉଜର ତ୍ରୁଟିନିବାରକ (e)">
+<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "ପ୍ରୟୋଗ ପରିଚାଳକ (A)">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolbarOtherToolsButton.label  "ଅଧିକ ସାଧନଗୁଡ଼ିକ">
@@ -287,7 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "ଅପସାରଣ କରନ୍ତୁ">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -391,8 +396,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ପ୍ରତିଛବି ସୂଚନାକୁ ଦେଖନ୍ତୁ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "ଦୃଶ୍ୟ ଏବଂ ବର୍ଣ୍ଣନା">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ଭିଡ଼ିଓ ଦେଖନ୍ତୁ">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବି ଦେଖନ୍ତୁ">
@@ -604,6 +609,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "ଏକ ୱେବସାଇଟରେ ମୋର ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି କି ନାହିଁ ତାହା କିପରି କହିବି?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -645,9 +652,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "ଚାର୍ଟଗୁଡ଼ିକୁ ଲକ୍ଷ୍ଯ କରନ୍ତୁ">
 <!ENTITY social.chatBar.accesskey "c">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "P">
+<!ENTITY social.markpageMenu.label "ଏହି ପୃଷ୍ଠାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (P)…">
+<!ENTITY social.marklinkMenu.accesskey "L">
+<!ENTITY social.marklinkMenu.label "ସଂଯୋଗିକୀକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (L)…">
 
 <!ENTITY getUserMedia.selectCamera.label "ସହଭାଗ କରିବା ପାଇଁ କ୍ୟାମେରା:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -675,8 +683,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY pluginNotification.width "28em">
 
-
+<!ENTITY tabCrashed.header "ଟ୍ୟାବଟି କ୍ରାସ ହୋଇଛି">
+<!ENTITY tabCrashed.message "ଏହା ଲଜ୍ଜ୍ୟାଜନକ ଅଟେ। ଆମେ ଏହି ୱେବପୃଷ୍ଠାକୁ ଦର୍ଶାଇବା ପାଇଁ ଚେଷ୍ଟା କରିଥିଲୁ, କିନ୍ତୁ ଏହା ଉତ୍ତର ଦେଉ ନାହିଁ।">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; କୁ ଏହି କ୍ରାସ ବିଷୟରେ ଅବଗତ କରାନ୍ତୁ ଯାହାଫଳରେ ସେମାନେ ଏହାର ସମାଧାନ କରିପାରିବେ।">
 <!ENTITY tabCrashed.tryAgain "ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on

@@ -8,7 +8,7 @@
    - menus/menuitems. -->
 
 
-<!ENTITY fileMenu.label                     "ଫାଇଲ">
+<!ENTITY fileMenu.label                     "ଫାଇଲ (F)">
 <!ENTITY fileMenu.accesskey                 "F">
 
 <!ENTITY quitApplicationCmdWin.label        "ପ୍ରସ୍ଥାନ">
@@ -23,6 +23,8 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
+
+<!ENTITY quitApplicationCmdUnix.key          "Q">
 
 <!ENTITY editMenu.label                     "ସମ୍ପାଦନ କରନ୍ତୁ">
 <!ENTITY editMenu.accesskey                 "E">
