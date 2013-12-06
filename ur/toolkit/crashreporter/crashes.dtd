@@ -6,6 +6,6 @@
 <!ENTITY id.heading                 "رپورٹ شناخت">
 <!ENTITY date.heading               "ارسال کردہ تاریخ">
 <!ENTITY noReports.label            "کوی تباہ رپورٹ ارسال نہی کی گی۔">
-
+<!ENTITY noConfig.label             "یہ ایپلی کیشن تباہ کردہ رپورٹس کو دکھانے کے لیے تشکیل کردہ نہں کی گیی. ترجیح کردہ <code>breakpad.reportURL</code> ضرور سیٹ ہونا چاہیے. ">
 <!ENTITY clearAllReports.label      "تمام رپورٹیں کو ہٹائیں">
 

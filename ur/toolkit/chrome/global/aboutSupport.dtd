@@ -9,13 +9,15 @@
  فائدہ مند ہو سکتی ہے۔ اگر آپ ;brandShortName کے بارے میں عمومی سوالات کے جوابات تلاش کر رہے ہیں، 
  تو ہماری <a id='supportLink'>معاونت ویب سائٹ</a> کو چیک کرے۔">
 
+<!ENTITY aboutSupport.crashes.title "کریش رپورٹیں">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "رپورٹ شناخت">
+<!ENTITY aboutSupport.crashes.id "شناخت رپورٹ کریں">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like date.heading in crashes.dtd. -->
-
-
+<!ENTITY aboutSupport.crashes.sendDate "ارسال کردہ">
+<!ENTITY aboutSupport.crashes.allReports "تمام کریش رپورٹیں">
+<!ENTITY aboutSupport.crashes.noConfig "یہ ایپلی کیشن کریش رپورٹیں دکھانے کے لیے تشکیل کردہ نہیں ہے۔">
 
 <!ENTITY aboutSupport.extensionsTitle "توسیعات">
 <!ENTITY aboutSupport.extensionName "نام">

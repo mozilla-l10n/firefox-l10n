@@ -14,4 +14,4 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "ویب نقل کا شبہ!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "اس صفحہ پر ذاتی معلومات داخل کرنے سے تشخص چوری یا دیگر فراڈ ہو سکتے ہیں۔">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ویب کی اس جعلسازی کو فشنگ اٹیک کے نام سے جانا جاتا ہے، جس میں آپ کے معتبر ویب مصادر کے صفحات اور ای میلز کی نقل کی جاتی ہے۔</p>">

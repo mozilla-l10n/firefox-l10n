@@ -20,20 +20,20 @@
 <!ENTITY clearPrivateData.downloadHist                           "سابقات ڈاؤن لوڈ کریں">
 <!ENTITY clearPrivateData.cookies                                "کوکیاں">
 <!ENTITY clearPrivateData.cache                                  "کیسہ">
-
+<!ENTITY clearPrivateData.sitePref                               "سائٹ ترجیحات">
 <!ENTITY clearPrivateData.formSearchHist                         "فارم &amp; تلاش سابقات">
-
-
+<!ENTITY clearPrivateData.passwords                              "محفوظ شدہ پاس ورڈ">
+<!ENTITY clearPrivateData.offline                                "آف لائن ویب سائٹ کوائف">
 <!ENTITY clearPrivateData.logins                                 "متحرک لاگ ان">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "پاس ورڈ یاد رکھیں">
 <!ENTITY doNotTrack.title                                        "سراغ راہ نہیں کریں">
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "ویب سائٹ کو بتا دو کہ میں سراغ کاری نہیں ہونا چاہتا">
+<!ENTITY doNotTrack.options.doTrack                              "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
+<!ENTITY doNotTrack.options.default                              "میرے سراغ کاری ترجیحات کے بارے میں ویب سائٹس کو کچھ مت بتانا">
 <!ENTITY doNotTrack.learnMoreLink                                "مزید سیکھیں&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "کریش رپورٹر">
 
 <!ENTITY optionsHeader.telemetry.title                            "ٹیلیمٹری">
-
+<!ENTITY optionsHeader.telemetry.label                            "&brandShortName; کے بارے میں اپنی استعمال شدہ شماریات موزیلا کے ساتھ بانٹیں تاکہ ہم آپ کے براؤزر کو بہتر بنانے میں مدد کر سکیں">

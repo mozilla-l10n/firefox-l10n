@@ -80,7 +80,7 @@
 
 <!ENTITY debuggerUI.searchFile          "نوشتہ فلٹر کریں">
 <!ENTITY debuggerUI.searchFile.key      "پی">
-
+<!ENTITY debuggerUI.searchFile.altkey   "او">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
@@ -147,10 +147,10 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
+<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 
-
-
+<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 
 <!ENTITY debuggerUI.stepping.stepIn2    "وی کے٫نیم وقفہ">
 
-
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
