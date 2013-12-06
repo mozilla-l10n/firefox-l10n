@@ -31,7 +31,7 @@ was trying to connect. -->
 ଆପଣଙ୍କ ସଂଯୋଗକୁ ଗୁପ୍ତରେ ବ୍ୟବହାର କରୁଅଛି।</b>">
 <!ENTITY certerror.expert.contentPara2 "କୌଣସି ବ୍ୟତିକ୍ରମ ଯୋଗ କରନ୍ତୁ ନାହିଁ ଯଦି ଆପଣଙ୍କ ପାଖରେ ଯଥେଷ୍ଟ କାରଣ ନାହିଁ ଯେ 
 ଏହି ସାଇଟ କଣ ପାଇଁ ବିଶ୍ୱସ୍ତ ପରିଚୟ ବ୍ୟବହାର କରୁଅଛି।">
-
-
+<!ENTITY certerror.addTemporaryException.label "ସାଇଟ ପରିଦର୍ଶନ କରନ୍ତୁ">
+<!ENTITY certerror.addPermanentException.label "ସ୍ଥାୟୀ ବ୍ୟତିକ୍ରମ ଯୋଗ କରନ୍ତୁ">
 
 <!ENTITY certerror.technical.heading "ଯାନ୍ତ୍ରିକ ବିବରଣୀ">

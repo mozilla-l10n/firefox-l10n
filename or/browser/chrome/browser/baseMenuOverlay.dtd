@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "କିବୋର୍ଡ ସକ୍ଷିପ୍ତପଥ (K)">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…">
 <!ENTITY helpSafeMode.accesskey   "R">

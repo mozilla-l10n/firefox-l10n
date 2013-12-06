@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "HTML ଭାବରେ ସମ୍ପାଦନ କରନ୍ତୁ (E)">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "ଆଭ୍ୟନ୍ତରୀଣ HTML କୁ ନକଲ କରନ୍ତୁ">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">

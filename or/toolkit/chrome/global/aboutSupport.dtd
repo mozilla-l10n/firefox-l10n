@@ -9,13 +9,15 @@
 ଯଦି ଆପଣ  &brandShortName; ବିଷୟରେ ସାଧାରଣ ପ୍ରଶ୍ନର ଉତ୍ତରଖୋଜୁଥାନ୍ତି , ତେବେ ଆମର <a id='supportLink'>ସହାୟତା ୱେବସାଇଟ</a> କୁ 
 ଅନୁସରଣ କରନ୍ତୁ।">
 
+<!ENTITY aboutSupport.crashes.title "କ୍ରାସ ବିବରଣୀ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ବିବରଣୀ ପରିଚୟ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like date.heading in crashes.dtd. -->
-
-
+<!ENTITY aboutSupport.crashes.sendDate "ଦାଖଲ କରାଯାଇଛି">
+<!ENTITY aboutSupport.crashes.allReports "ସମସ୍ତ କ୍ରାସ ବିବରଣୀଗୁଡ଼ିକ">
+<!ENTITY aboutSupport.crashes.noConfig "ଏହି ପ୍ରୟୋଗକୁ କ୍ରାସ ବିବରଣୀ ଦର୍ଶାଇବା ପାଇଁ ବିନ୍ୟାସ କରାଯାଇ ନାହିଁ।">
 
 <!ENTITY aboutSupport.extensionsTitle "ଅନୁଲଗ୍ନଗୁଡ଼ିକ">
 <!ENTITY aboutSupport.extensionName "ନାମ">

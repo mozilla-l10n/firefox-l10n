@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "ବିବରଣୀ">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "&vendorShortName; ଦ୍ୱାରା">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; ଗୋପନୀୟତା ନିତୀକୁ ଅନଲାଇନରେ ପଢ଼ନ୍ତୁ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରୁଅଛି…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "ଏଡ-ଅନ ସୁସଂଗତତାକୁ ଯାଞ୍ଚ କରୁଅଛି…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->

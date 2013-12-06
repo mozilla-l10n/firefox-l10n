@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "ନାମ">
 <!ENTITY col.tags.label          "ଟ୍ୟାଗଗୁଡିକ">
 <!ENTITY col.url.label           "ସ୍ଥାନ">
-
+<!ENTITY col.mostrecentvisit.label "ନିକଟରେ ପରିଦର୍ଶିତ">
 <!ENTITY col.visitcount.label    "ପରିଦର୍ଶନ ସଂଖ୍ଯା">
 <!ENTITY col.keyword.label       "ସୂଚକ ଶବ୍ଦ">
 <!ENTITY col.description.label   "ବର୍ଣ୍ଣନା">
