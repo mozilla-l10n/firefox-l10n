@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Telepítse a szimulátort a megfelelő kiegészítő letöltésével.">
 <!ENTITY connection.installAnotherSimulator "Hozzáadás">
 <!ENTITY connection.installAnotherSimulatorTooltip "Telepítse a szimulátor további verzióját a megfelelő kiegészítő letöltésével.">
+<!ENTITY connection.startRegisteredSimulator "Kezdet:">
 
 <!ENTITY projects.localApps "Helyi appok">
 <!ENTITY projects.addApp "Hozzáadás">
@@ -72,10 +73,14 @@
 <!ENTITY projects.debugApp "Hibakeresés">
 <!ENTITY projects.debugAppTooltip "Az apphoz kapcsolt fejlesztői eszközök megnyitása">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProjects "Nincsenek projektek. Vegyen fel új csomagolt appot alább (helyi könyvtár) vagy kiszolgálóoldali app (hivatkozás manifest fájlra).">
+<!ENTITY projects.noProjects "Nincsenek projektek. Vegyen fel új csomagolt appot alább (helyi könyvtár) vagy kiszolgálóoldali appot (hivatkozás manifest fájlra).">
+<!ENTITY projects.manifestEditor "Manifest szerkesztő">
+<!ENTITY projects.manifestEditorTooltip "Szerkessze az app manifest fájlját a lenti panelen. A Frissítés gomb menti a módosításokat, és frissíti az appot.">
+<!ENTITY projects.manifestViewer "Manifest megjelenítő">
+<!ENTITY projects.manifestViewerTooltip "Az app manifest fájljának vizsgálata a lenti panelen.">
 
 <!ENTITY help.title "Appkezelő">
-<!ENTITY help.close "Zárja be">
+<!ENTITY help.close "Bezárás">
 <!ENTITY help.intro "Ez az eszköz segíteni fog webappok készítésében és telepítésében a kompatibilis eszközökre (azaz Firefox OS-re). Az <strong>Appok</strong> lap segíteni fog az app ellenőrzésében és telepítésében. Az <strong>Eszköz</strong> lap információkat ad a csatlakoztatott eszközről. Használja az alsó eszköztárat az eszközhöz csatlakozásra vagy a szimulátor elindítására.">
 <!ENTITY help.usefullLinks "Hasznos hivatkozások:">
 <!ENTITY help.appMgrDoc "Dokumentáció: az Appkezelő használata">

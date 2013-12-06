@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Beállítások">
-<!ENTITY optionsHeader.startup.title                             "Indítás">
-<!ENTITY optionsHeader.homepage.title                            "A &brandShortName; indításakor jelenjen meg:">
-<!ENTITY optionsHeader.homepage.startPage.button                 "kezdőoldal">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "utoljára nyitott lapok">
 <!ENTITY optionsHeader.char.title                                "Karakterkódolás">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatikus">
 <!ENTITY optionsHeader.char.options.label                        "Kódolási beállítások megjelenítése az alkalmazássávon">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Jelszavak megjegyzése">
 <!ENTITY doNotTrack.title                                        "Ne kövessenek">
-<!ENTITY doNotTrack.desc                                         "Az oldalakkal közölje:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Nem akarom, hogy kövessenek">
-<!ENTITY doNotTrack.options.noPreference                         "Semmit a követési preferenciáimról">
-<!ENTITY doNotTrack.options.trackingOkay                         "Szeretném, ha követnének">
+<!ENTITY doNotTrack.options.doNotTrack                           "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY doNotTrack.options.doTrack                              "Azt akarom, hogy a webhelyek kövessenek">
+<!ENTITY doNotTrack.options.default                              "A weboldalakkal ne közölje a követési preferenciáimat">
+<!ENTITY doNotTrack.learnMoreLink                                "További tudnivalók&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Összeomlás-jelentő">
 <!ENTITY optionsHeader.reporting.crashes.label                   "A &brandShortName; összeomlás-jelentéseket küld, hogy a Mozilla stabilabbá és biztonságosabbá tehesse a böngészőjét">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">

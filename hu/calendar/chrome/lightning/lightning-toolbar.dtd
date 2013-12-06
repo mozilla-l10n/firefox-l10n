@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Alkalmazásmenü">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "A &brandShortName; menü megjelenítése">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "A &brandShortName; menü megjelenítése">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Naptár ablaktábla">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "N">
+<!ENTITY lightning.toolbar.calendarpane.label        "A naptár ablaktábla megjelenítése">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "N">
