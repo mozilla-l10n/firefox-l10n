@@ -50,7 +50,7 @@
 <!ENTITY connection.disconnecting "Girêdan tê qutkirin…">
 <!ENTITY connection.cancel "Betal">
 <!ENTITY connection.cancelConnectTooltip "Girêdana pêkhatî qut bike.">
-
+<!ENTITY connection.cancelShowSimulatorTooltip "Ji rewşa girêdana Sîmûlator derkeve û vegere halê berê.">
 <!ENTITY connection.or "yan">
 <!ENTITY connection.noSimulatorInstalled "Tu sîmulator nehatiye sazkirin.">
 <!ENTITY connection.installOneSimulator "Sîmulatorê saz bike">

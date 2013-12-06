@@ -43,14 +43,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "û">
 <!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.description.label "Ji bo garantiya hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîta vekirina şîfreya daneyan nehate barkirin.">
+<!ENTITY recoveryKeyEntry.label        "Kilîta Rizgarkirinê">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label  "Kilîteke nû biafirîne">
 
 
-
-
-
-
-<!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">
-<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.print.label     "Çap bike…">
+<!ENTITY button.syncKeyBackup.print.accesskey "Ç">
 <!ENTITY button.syncKeyBackup.save.label      "Tomar bike…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "T">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->

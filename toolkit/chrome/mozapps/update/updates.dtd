@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Rojanekirina Nivîsbariyê">
 
 <!ENTITY  checking.title                  "Li Rojanekirinan Digere">
-<!ENTITY  updateCheck.label               "Li guhertoya nû vedinêre ji bo &brandShortName;…">
+<!ENTITY  updateCheck.label               "Li versiyonên nû yên &brandShortName;ê digere…">
 
 <!ENTITY  pluginupdatesfound.title        "Ji bo Pluginan Rojanekirin hene">
 <!ENTITY  pluginupdatesfound.label        "Ji bo yek an jî zêdetir pluginên te guhertoya nûtir amade ye.">
