@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; সহায়তা (H)">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "কীবোর্ড শর্টকাট K">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু… (R)">
 <!ENTITY helpSafeMode.accesskey   "R">
 

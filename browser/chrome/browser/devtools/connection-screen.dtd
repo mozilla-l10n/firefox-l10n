@@ -19,4 +19,9 @@
 <!ENTITY errorTimeout "ত্রুটি: সংযোগের সময় শেষ।">
 <!ENTITY errorRefused "ত্রুটি: সংযোগ বাতিল করা হয়েছে।">
 <!ENTITY errorUnexpected "অপ্রত্যাশিত ত্রুটি &#037;S।">
-<!ENTITY help "ফায়ারফক্স ডেভলপার টুলস রিমোট ডিভাইস ডিবাগ করতে পারে (যেমন, ফায়ারফক্স ওএস এবং অ্যান্ড্রয়েডের জন্যে ফায়ারফক্স)। দূরবর্তী ডিভাইসটিতে 'Remote debugging' অপশন সচল রয়েছে কিনা, নিশ্চিত করুন। বিস্তারিত জানতে <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>সহায়িকা</a> দেখুন।">
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelpSuffix ".">
+

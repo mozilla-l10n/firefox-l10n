@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "নাম">
 <!ENTITY col.tags.label          "ট্যাগ">
 <!ENTITY col.url.label           "অবস্থান">
-<!ENTITY col.lastvisit.label     "পরিদর্শনের তারিখ">
+
 <!ENTITY col.visitcount.label    "পরিদর্শনের সংখ্যা">
 <!ENTITY col.keyword.label       "কীওয়ার্ড">
 <!ENTITY col.description.label   "বর্ণনা">

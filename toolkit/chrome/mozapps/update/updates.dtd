@@ -25,6 +25,9 @@
 ডাউনলোড করার প্রয়োজনীয় জায়গা আপনার নেই।">
 <!ENTITY  manualUpdateGetMsg.label        "আপনি সর্বদা &brandShortName; এর সর্বশেষ সংস্করণ পাবেন এখানে:">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "অ্যাড-অনের উপযুক্ততা পরীক্ষা করা হচ্ছে">
 <!ENTITY  incompatibleCheck.label         "আপনার অ্যাড-অনের নতুন সংস্করণ খোঁজা হচ্ছে…">
 

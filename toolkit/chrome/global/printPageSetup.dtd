@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "আকার পরিবর্তন: (S)">
 <!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+
 
 <!ENTITY shrinkToFit.label   "পৃষ্ঠার প্রস্থের সাথে মানানসই করার জন্য সংকোচন করা হবে (W)">
 <!ENTITY shrinkToFit.accesskey "W">
