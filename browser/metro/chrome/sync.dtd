@@ -7,10 +7,10 @@
 <!-- Flyout when not connected -->
 
 <!ENTITY sync.flyout.presetup.description1     "Մուտք ունեցեք ձեր էջանիշերին, գաղտնաբառերին և բացեք ներդիրներ ձեր բոլոր սարքերից">
-<!ENTITY sync.flyout.presetup.setup.label      "Կարգավորել &syncBrand.fullName.label;ը">
+<!ENTITY sync.flyout.presetup.setup.label      "Կարգավորել &syncBrand.shortName.label;ը">
 <!-- Flyout when setting up sync -->
 
-<!ENTITY sync.flyout.setup.title               "Կարգավորել &syncBrand.fullName.label;ը">
+<!ENTITY sync.flyout.setup.title               "Կարգավորել &syncBrand.shortName.label;ը">
 <!ENTITY sync.flyout.setup.description1        "Եթե ունեք &syncBrand.shortName.label;-ի հաշիվ, ապա ընտրեք &quot;Միացում սարքին&quot; ձեր այլ սարքում և մուտքագրեք կոդը:">
 <!ENTITY sync.flyout.setup.description2        "Եթե չունե&apos;ք &syncBrand.shortName.label;-ի հաշիվ, ապա կարող եք ստեղծել այն &brandShortName;-ում:">
 <!ENTITY sync.flyout.setup.manual.label_2      "Ե&apos;ս իմ համակարգչի մոտ չեմ…">
