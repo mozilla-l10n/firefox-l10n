@@ -6,7 +6,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&vendorShortName;-ലേക്കു് ഓട്ടോമാറ്റിക്കായി പ്രവര്‍ത്തനം, ഹാര്‍ഡ്‌വെയര്‍, ഉപയോഗം എന്നിങ്ങനെയുള്ള വിവരങ്ങള്‍ അയയ്ക്കുന്നു, ഇതു് &brandShortName;-നെ കൂടുതല്‍ മെച്ചപ്പെടുത്തുന്നു.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName;-നെ കൂടുതല്‍ മെച്ചപ്പെടുത്താനായി &vendorShortName;-ലേക്കു് പ്രവര്‍ത്തനം, ഹാര്‍ഡ്‌വെയര്‍, ഉപയോഗം, സ്വന്തംമെച്ചപ്പെടുത്തലുകള്‍ എന്നിങ്ങനെയുള്ള വിവരങ്ങള്‍ യാന്ത്രികമായി ഇത് അയയ്ക്കുന്നു.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -14,12 +14,12 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ഒരു">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "ഗ്ലോബല്‍ സമൂഹം">
-<!ENTITY community.exp.end          " വെബ് ഓപ്പണും പബ്ലിയ്ക്കാക്കുന്നതിനും എല്ലാര്‍ക്കും ലഭ്യമാക്കുന്നതിനും ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
+<!ENTITY community.exp.creditsLink  "ആഗോളകൂട്ടായ്മ">
+<!ENTITY community.exp.end          " വെബ് തുറന്നതും പൊതുവും ഏവര്‍ക്കും ലഭ്യമായതും ആക്കിമാറ്റുന്നതിനു് കൂട്ടായി പ്രയത്നിക്കുന്നു .">
 
 <!ENTITY community.start2           "&brandShortName; രൂപവത്കരിച്ചതു് ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName; ആകുന്നു.">
+<!ENTITY community.mozillaLink      "&brandShortName; ചിത്രീകരിച്ചതു്">
 <!ENTITY community.middle2          ", ഇതു് ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "വലിയൊരു കൂട്ടായ്മയാണു്.">

@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "സുരക്ഷ സര്‍ട്ടിഫിക്കറ്റുകളുടെ സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
 <!ENTITY certmgr.editcacert.title             "CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
-<!ENTITY certmgr.editsslcert.title            "വെബ്-സൈറ്റ് സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
 <!ENTITY certmgr.editcert.edittrust           "വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക:">
 <!ENTITY certmgr.editcert.trustssl            "ഈ സര്‍ട്ടിഫികറ്റിനു വെബ്-സൈറ്റുകള്‍ തിരിച്ചറിയാന്‍ സാധിക്കും.">
 <!ENTITY certmgr.editcert.trustemail          "ഈ സര്‍ട്ടിഫികറ്റിനു മെയില്‍ ഉപയുക്താക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.">
 <!ENTITY certmgr.editcert.trustobjsign        "ഈ സര്‍ട്ടിഫികറ്റിനു സോഫ്റ്റ്വെയര്‍ നിര്‍മ്മാതാക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.">
-<!ENTITY certmgr.editsslcert.edittrust        "സര്‍ട്ടിഫിക്കറ്റ് വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക:">
-<!ENTITY certmgr.editsslcert.dotrust          "ഈ സര്‍ട്ടിഫിക്കറ്റിന്റെ ആധികാരികത വിശ്വസിക്കക.">
-<!ENTITY certmgr.editsslcert.donttrust        "ഈ സര്‍ട്ടിഫിക്കറ്റിന്റെ ആധികാരികത വിശ്വസിക്കരുത്.">
 <!ENTITY certmgr.editemailcert.title          "ഇ-മെയില്‍ സര്‍ട്ടിഫിക്കറ്റ് വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
 <!ENTITY certmgr.editemailcert.edittrust      "സര്‍ട്ടിഫിക്കറ്റ് വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക:">
 <!ENTITY certmgr.editemailcert.dotrust        "ഈ സര്‍ട്ടിഫിക്കറ്റിന്റെ ആധികാരികത വിശ്വസിക്കക.">
