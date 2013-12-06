@@ -8,7 +8,7 @@
 <!ENTITY addpref.value "Valor">
 <!ENTITY cancel.label "Cancelar">
 <!ENTITY reset.label "Restablecer">
-<!ENTITY done.label "Terminarq">
+<!ENTITY done.label "Hecho">
 <!ENTITY integer.label "entero">
 <!ENTITY string.label "cadena">
 <!ENTITY boolean.label "sí/no">
