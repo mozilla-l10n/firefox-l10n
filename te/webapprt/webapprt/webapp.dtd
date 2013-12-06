@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "అన్నిటినీ చూపు">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "సరికూర్చు">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "చేయవద్దు">

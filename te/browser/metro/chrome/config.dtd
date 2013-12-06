@@ -3,13 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "వెతుకు">
-
+<!ENTITY newpref.label          "కొత్త అభీష్టం జతచేయి">
 <!ENTITY addpref.name           "పేరు">
 <!ENTITY addpref.value          "విలువ">
 
 <!ENTITY cancel.label           "రద్దుచేయి">
-
+<!ENTITY reset.label            "తిరిగివుంచు">
 <!ENTITY done.label             "అయినది">
 
-
-
+<!ENTITY integer.label          "పూర్ణాంకం">
+<!ENTITY string.label           "పదబంధం">
+<!ENTITY boolean.label          "బులియన్">

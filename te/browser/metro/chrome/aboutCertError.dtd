@@ -31,7 +31,7 @@ was trying to connect. -->
 యీ దోషమునకు కారణం యెవరో మీ అనుసంధానంను చెరచడానికి ప్రయత్నిస్తున్నారు.</b>">
 <!ENTITY certerror.expert.contentPara2 "ఈ సైటు నమ్మదగిన గుర్తింపును వుపయోగించక పోవుటకు మంచి కారణం వుందని మీకు తెలిస్తే తప్ప 
 ఆక్షేపణను జతచేయవద్దు.">
-
-
+<!ENTITY certerror.addTemporaryException.label "సైటును దర్శించు">
+<!ENTITY certerror.addPermanentException.label "శాశ్వత ఆక్షేపణ జతచేయి">
 
 <!ENTITY certerror.technical.heading "సాంకేతిక వివరాలు">

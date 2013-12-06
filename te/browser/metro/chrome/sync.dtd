@@ -6,39 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "మీ ఇష్టాంశాలను, సంకేతపదాలను, మరియు మీ పరికరాలనందు తెరచిన టాబ్లను ఏక్సెస్ చేయుము">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; అమర్పు">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; అమర్పు">
+<!ENTITY sync.flyout.setup.description1        "మీరు &syncBrand.shortName.label; ఖాతా కలిగివుంటే, మీ వేరే పరికరంపైన &quot;ఒక పరికరం జతపరచు&quot; ఎంపికచేసి ఈ కోడ్ ప్రవేశపెట్టండి.">
+<!ENTITY sync.flyout.setup.description2        "మీరు &syncBrand.shortName.label; ఖాతా కలిగి వుండకపోతే, మీరు మీ &brandShortName; డెస్కుటాప్ విహారిణి పైన ఒకటి సృష్టించవచ్చు.">
+<!ENTITY sync.flyout.setup.manual.label_2      "నేను నా కంప్యూటర్ దగ్గర లేను…">
+<!ENTITY sync.flyout.setup.description3        "గమనిక:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;ఒక పరికరం జతపరచు&quot; కనుగొనుటకు,">
+<!ENTITY sync.flyout.setup.description5_2      "[డెస్కుటాప్] &quot;ఐచ్చికాలు&quot; లేదా &quot;అభీష్టాలు&quot; తెరచి &quot;&syncBrand.shortName.label;&quot; ఎంపికచేయుము">
+<!ENTITY sync.flyout.setup.description6_2      "[ఏండ్రాయిడ్] మరిన్ని &gt; అమరికలు &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "దయచేసి మీ &syncBrand.shortName.label; ఖాతా సమాచారం మరియు మీ కంప్యూటర్ చేత జనియింపచేసిన రికవరీ కీ ప్రవేశపెట్టుము">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "ఖాతా పేరు">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "సంకేతపదం">
-
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "రికవరీ కీ">
 <!ENTITY sync.flyout.manualsetup.connect.label           "సంధానం">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "మీరు  &brandShortName; ను &syncBrand.shortName.label; ఖాతాకు అనుసంధానించారు">
+<!ENTITY sync.flyout.setupsuccess.description2      "మీ &syncBrand.shortName.label; దత్తాంశం ఇప్పుడు బ్యాక్‌గ్రౌండ్ నందు దిగుమతైను. మీ సింకైన టాబ్లు &brandShortName; ప్రారంభ పేజీ పై కనుగొనవచ్చు.">
 <!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; మీ &syncBrand.shortName.label; ఖాతాకు అనుసంధానం కాలేదు.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "రద్దుచేయి">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "మళ్ళీ ప్రయత్నించు">
 <!-- Flyout when connected and functioning normally -->
 
 <!ENTITY sync.flyout.connected.account                    "ఖాతా:">
 <!ENTITY sync.flyout.connected.device                     "మీ పరికరం:">
-
-
-
+<!ENTITY sync.flyout.connected.disconnect                 "అననుసంధానించు">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; తో మీ పరికరం అనుసంధానం తీసివేయాలా?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "ఈ పరికరంపైని మరియు &syncBrand.shortName.label; ఖాతా నందలి మీ వ్యక్తిగత దత్తాంశం అంటుకోబడదు.">
 <!ENTITY sync.flyout.connected.cancel                     "రద్దుచేయి">
 <!ENTITY sync.flyout.connected.pair                       "ఒక పరికరంను జోడీచేయి">
 <!-- Flyout when pairing a device -->
 
+<!ENTITY sync.flyout.pairNewDevice.description            "మీరు జత కట్టాలనుకొన్న కొత్త పరికరంపై, &quot;&syncBrand.shortName.label; అమర్చు&quot; ఎంపికచేసి పరికరం ఇచ్చే కోడ్ ప్రవేశపెట్టుము">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "జతపరచు">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "గమనిక:">
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "కోడ్ కనుగొనుటకు,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[డెస్కుటాప్] &quot;ఐచ్చికాలు&quot; లేదా &quot;అభీష్టాలు&quot; తెరచి కింది స్టెప్పులను అనుసరించు: &syncBrand.shortName.label; -&gt; &syncBrand.shortName.label; అమర్చు -&gt; నేను ఖాతా కలిగివున్నాను">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[ఏండ్రాయిడ్] మరిన్ని &gt; అమరికలు &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "దయచేసి మళ్ళీ ప్రయత్నించండి">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "కొత్త పరికరం సఫలవంతంగా జత చేయబడెను.">
+<!ENTITY sync.flyout.pairSuccess.description2             "మీ &syncBrand.shortName.label; దత్తాంశం ఇప్పుడు బ్యాక్‌గ్రౌండ్ నందు దిగుమతైను. మీ రిమోట్ టాబ్లు &brandShortName; ప్రారంభ పేజీ పై కనుగొనవచ్చు..">

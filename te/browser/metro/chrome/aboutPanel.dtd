@@ -5,8 +5,8 @@
 
 <!ENTITY aboutHeader.title          " గురించి">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-
-
+<!ENTITY aboutHeader.company.label  "&vendorShortName; చేత">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; గోప్యతా విధానం ఆన్‌లైన్లో చదువుము">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు పరిశీలించుచున్నది…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -42,6 +42,7 @@
 <!ENTITY update.downloading.start   "నవీకరణను డౌన్‌లోడ్ చేయుచున్నది — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "నవీకరణ వర్తింపచేస్తోంది">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

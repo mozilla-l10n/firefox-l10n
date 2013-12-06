@@ -3,11 +3,15 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                 "మాద్యమ భాగస్వామ్యం">
 <!ENTITY getUserMediaDialog.buttonlabelaccept     "అనుమతించు">
-
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "రద్దుచేయి">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
 
-
+<!ENTITY getUserMediaDialog.video.label           "కేమెరా ఎంపికచేయి">
 <!ENTITY getUserMediaDialog.video.noVideo         "వీడియో లేదు">
-
-
+<!ENTITY getUserMediaDialog.audio.label           "మైక్రోఫోన్ ఎంపికచేయి">
+<!ENTITY getUserMediaDialog.audio.noAudio         "శ్రవ్యకం లేదు">
