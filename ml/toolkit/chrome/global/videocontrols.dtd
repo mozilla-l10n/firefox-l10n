@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "കഴിഞ്ഞിരിയ്ക്കുന്നു">
 <!ENTITY stats.activitySeeking "(തെരയുന്നു)">
 <!ENTITY stats.volume "ശബ്ദം">
-<!ENTITY stats.channels "ചാനലുകള്‍">
-<!ENTITY stats.sampleRate "മാതൃക റേറ്റ്">
 <!ENTITY stats.framesParsed "പാഴ്സ് ചെയ്ത ഫ്രെയിമുകള്‍">
 <!ENTITY stats.framesDecoded "ഡീകോഡ് ചെയ്ത ഫ്രെയിമുകള്‍">
 <!ENTITY stats.framesPresented "ലഭ്യമാക്കിയ ചെയ്ത ഫ്രെയിമുകള്‍">

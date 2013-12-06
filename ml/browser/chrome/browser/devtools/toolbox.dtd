@@ -9,19 +9,49 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "ഡവലപ്പര്‍ പ്രയോഗങ്ങള്‍ അടയ്ക്കുക">
 <!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+
+<!ENTITY toolboxZoomIn.key             "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY toolboxZoomIn.key2            "="> 
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
 <!ENTITY options.context.advancedSettings "അധികമായ സജ്ജീകരണങ്ങള്‍">
-<!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
-  -  restart label at right of settings that require a browser restart to be
-  -  effective. -->
+<!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
+  -  the heading of the Inspector group in the options panel. -->
 
-<!ENTITY options.context.requiresRestart2  "ബ്രൌസര്‍ വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്">
-<!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
-  -  restart button next to options.context.requiresRestart2 label. -->
+<!ENTITY options.context.inspector "നിരീക്ഷകന്‍">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
+  -  dropdown list that controls the default color unit used in the inspector.
+  -  This label is visible in the options panel. -->
 
-<!ENTITY options.restartButton.label  "ഉടന്‍ വീണ്ടും ആരംഭിയ്ക്കുക">
+<!ENTITY options.defaultColorUnit.label "സ്വതവേയുള്ള നിറം">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
+  -  key for a dropdown list that controls the default color unit used in the
+  -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "U">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "ഹെക്സ്">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
+  -  the 'Default color unit' dropdown list and is visible in the options panel.
+  -  -->
+
+<!ENTITY options.defaultColorUnit.name "നിറത്തിന്റെ പേരുകള്‍">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
@@ -79,3 +109,15 @@
 
 <!ENTITY options.enablePersistentLogging.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY options.enablePersistentLogging.tooltip  "ഈ ഐച്ഛികം പ്രവര്‍ത്തന സജ്ജമാക്കിയാല്‍, ഒരോ പുതിയ താളിലേക്കു് പോകുമ്പോഴും വെബ് കണ്‍സോള്‍ ഔട്ട്പുട്ട് വെടിപ്പാക്കുന്നതല്ല.">
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+
+<!ENTITY options.profiler.label            "ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍">
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+
+<!ENTITY options.showPlatformData.label    "ജക്കോ പ്ലാറ്റ്ഫോ ഡേറ്റാ കാണിയ്ക്കുക">
+<!ENTITY options.showPlatformData.tooltip  "ഈ ഐച്ഛികം സജ്ജമാക്കിയാല്‍, ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ റിപോര്‍ട്ടില്‍ ജെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങളും ഉള്‍പ്പെടുന്നു">
