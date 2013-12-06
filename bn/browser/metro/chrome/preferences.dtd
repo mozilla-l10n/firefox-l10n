@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "অপশন">
+<!ENTITY optionsHeader.char.title                                "ক্যারেক্টার এনকোডিং">
+<!ENTITY optionsHeader.char.autodetect.label                     "স্বয়ংক্রিয়-সনাক্তকরণ">
+<!ENTITY optionsHeader.char.options.label                        "অ্যাপ বারে এনকোডিং অপশন দেখান">
+
+<!ENTITY clearPrivateData.title                                  "ব্যক্তিগত তথ্য মুছুন">
+
+<!ENTITY clearPrivateData.button                                 "মুছে ফেলুন">
+<!ENTITY clearPrivateData.done                                   "সম্পন্ন!">
+<!ENTITY clearPrivateData.history                                "ব্রাউজ ইতিহাস">
+<!ENTITY clearPrivateData.otherdata                              "অন্যান্য তথ্য (পাসওয়ার্ড, ক্যাশ, কুকি, ইত্যাদি)">
+<!ENTITY clearPrivateData.downloadHist                           "ডাউনলোড ইতিহাস">
+<!ENTITY clearPrivateData.cookies                                "কুকি">
+<!ENTITY clearPrivateData.cache                                  "ক্যাশ">
+<!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসমূহ">
+
+
+<!ENTITY clearPrivateData.offline                                "অফলাইন ওয়েবসাইটের তথ্য">
+<!ENTITY clearPrivateData.logins                                 "সক্রিয় লগইন">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "পাসওয়ার্ড মনে রাখুন">
+<!ENTITY doNotTrack.title                                        "ট্র্যাক করবেন না">
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "ক্র্যাশ প্রতিবেদক">
+
+<!ENTITY optionsHeader.telemetry.title                            "দূরমাপন">
+

@@ -1,0 +1,87 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "অ্যাপ ম্যানেজার">
+<!ENTITY index.projects2 "অ্যাপস">
+<!ENTITY index.device2 "ডিভাইস">
+<!ENTITY index.help "সাহায্য">
+
+<!ENTITY device.screenshot "স্ক্রিনশট">
+<!ENTITY device.screenshotTooltip "ডিভাইসের বর্তমান অবস্থার একটি স্ক্রিনশট নতুন ট্যাবে খোলো।">
+<!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
+
+<!ENTITY device.startApp "আরম্ভ">
+
+<!ENTITY device.stopApp "থামাও">
+
+
+
+<!ENTITY device.name "নাম">
+
+
+
+<!ENTITY device.allow "অনুমোদন">
+
+<!ENTITY device.prompt "প্রম্পট">
+
+<!ENTITY device.deny "প্রত্যাখ্যান">
+
+
+
+<!ENTITY device.permissions "অনুমোদন (P)">
+
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "সাহায্য">
+
+<!ENTITY connection.disconnect "বিচ্ছিন্ন">
+
+<!ENTITY connection.notConnected2 "সংযুক্ত নয়।">
+<!ENTITY connection.connectTo "সংযোগ করুন:">
+<!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি। একটি ডিভাইস যুক্ত করুন">
+<!ENTITY connection.changeHostAndPort "পরিবর্তন">
+
+<!ENTITY connection.startSimulator "সিমুলেটর চালু করুন">
+
+<!ENTITY connection.saveConnectionInfo "সংরক্ষণ">
+
+<!ENTITY connection.connecting "সংযুক্ত করা হচ্ছে …">
+<!ENTITY connection.disconnecting "বিচ্ছিন্ন করা হচ্ছে...">
+<!ENTITY connection.cancel "বাতিল">
+
+
+<!ENTITY connection.or "অথবা">
+<!ENTITY connection.noSimulatorInstalled "কোনো সিমুলেটর ইনস্টল করা নেই।">
+<!ENTITY connection.installOneSimulator "সিমুলেটর ইন্সটল করুন">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.title "স্থানীয় অ্যাপ">
+
+
+
+
+<!ENTITY projects.debugApp "ডিবাগ">
+
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
+
+
+
+
+
+
+
+<!ENTITY help.usefullLinks "উপকারী লিংক সমূহ:">
+
+
+
+<!ENTITY help.simulatorAddon "সিমুলেটর অ্যাড-অন ইন্সটল করুন">
+

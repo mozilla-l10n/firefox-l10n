@@ -9,6 +9,14 @@
 সময় আপনার জন্য উপকারী হতে পারে। আপনি যদি &brandShortName; 
 সম্পর্কিত কোনো সাধারণ প্রশ্নের উত্তর খুঁজতে থাকেন তবে, আমাদের <a id='supportLink'> সাপোর্ট ওয়েব সাইট পরীক্ষা করে দেখেন</a>।">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "প্রতিবেদন আইডি">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "এক্সটেনশন">
 <!ENTITY aboutSupport.extensionName "নাম">
 <!ENTITY aboutSupport.extensionEnabled "সক্রিয়">
@@ -18,6 +26,9 @@
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের প্রাথমিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "প্রোফাইল ডিরেক্টরি">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -28,7 +39,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "সক্রিয় প্লাগইন">
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ড কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যবহারকারী এজেন্ট">
-<!ENTITY aboutSupport.appBasicsCrashIDs "ক্র্যাশ প্রতিবেদক">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমোরির ব্যবহার">
 
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
@@ -60,7 +70,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরী সংস্করণসমূহ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের ইতিহাস">
-<!ENTITY aboutSupport.updateHistoryTitle "হালনাগাদের ইতিহাস">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ক্লিপবোর্ডে সব অনুলিপি করুন">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন">
