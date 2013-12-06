@@ -34,8 +34,12 @@
 <!ENTITY debuggerUI.optsButton.tooltip  "Mogućnosti Debuggera">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Uključi/isključi crnu kutiju">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "Ulijepšaj izvorni kôd">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -127,6 +131,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
   -  appears in the debugger's instruments pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.variables      "Varijable">
+<!ENTITY debuggerUI.tabs.events         "Događaji">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 

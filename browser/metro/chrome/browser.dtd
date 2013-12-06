@@ -17,7 +17,7 @@
 <!ENTITY appbarJSShell.label        "Otvori JavaScript shell">
 <!ENTITY appbarFindInPage2.label    "Pronađi na stranici">
 <!ENTITY appbarViewOnDesktop2.label "Prikaži na radnoj površini">
-
+<!ENTITY appbarMSMetaData2.label    "Nabavite aplikaciju za ovu stranicu">
 
 <!ENTITY topSitesHeader.label        "Najpopularnije">
 <!ENTITY bookmarksHeader.label       "Zabilješke">

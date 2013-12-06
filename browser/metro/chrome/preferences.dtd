@@ -28,10 +28,10 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamti lozinke">
 <!ENTITY doNotTrack.title                                        "Ne prati me">
-
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "Obavijesti stranice da me ne prate">
+<!ENTITY doNotTrack.options.doTrack                              "Obavijesti stranice da me prate">
+<!ENTITY doNotTrack.options.default                              "Ne obaviještavaj stranice o mojim postavkama praćenja">
+<!ENTITY doNotTrack.learnMoreLink                                "Saznajte više&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Izvjestitelj rušenja">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; šalje izvještaje o rušenju kako bi Mozilla; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
