@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY empty.label            "Փնտրել">
+<!ENTITY newpref.label          "Հավելել նոր նախապատվություն">
 <!ENTITY addpref.name           "Անուն">
 <!ENTITY addpref.value          "Արժեքը">
 
 <!ENTITY cancel.label           "Չեղարկել">
-
+<!ENTITY reset.label            "Ետարկել">
 <!ENTITY done.label             "Պատրաստ է">
 
-
-
+<!ENTITY integer.label          "Ամբողջական">
+<!ENTITY string.label           "Տողը">
+<!ENTITY boolean.label          "Բուլյան">

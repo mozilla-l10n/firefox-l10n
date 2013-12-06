@@ -4,18 +4,25 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "Փնտրեք կամ գրեք հասցեն">
 
+<!ENTITY back.label            "Նախորդը">
+<!ENTITY forward.label         "Հաջորդը">
+<!ENTITY newtab.label          "Նոր Ներդիր">
+<!ENTITY closetab.label        "Փակել ներդիրը">
 
+<!ENTITY autocompleteResultsHeader.label  "Արդյունքները">
 
-
-
+<!ENTITY appbarErrorConsole.label   "Բացել սխալի կառավարակետը">
+<!ENTITY appbarJSShell.label        "Բացել JavaScript-ի թաղանթը">
 <!ENTITY appbarFindInPage2.label    "Գտնել էջում">
+<!ENTITY appbarViewOnDesktop2.label "Դիտել աշխատասեղանին">
+<!ENTITY appbarMSMetaData2.label    "Ծրագիր այս կայքի համար">
 
-
-
-
-
-
+<!ENTITY topSitesHeader.label        "Լավագույնները">
+<!ENTITY bookmarksHeader.label       "Էջանիշեր">
+<!ENTITY recentHistoryHeader.label   "Պատմությունը">
+<!ENTITY remoteTabsHeader.label      "Ներդիրներ այլ սարքերից">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -24,28 +31,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Լավագույնները">
+<!ENTITY narrowBookmarksHeader.label     "Էջանիշեր">
+<!ENTITY narrowRecentHistoryHeader.label "Պատմությունը">
+<!ENTITY narrowRemoteTabsHeader.label    "Հեռակա Ներդիրներ">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "Բեռնումներ">
+<!ENTITY downloadShowPage.label    "Անցնել էջի">
+<!ENTITY downloadShow2.label       "Փնտրել">
 <!ENTITY downloadOpen2.label       "Բացել">
 <!ENTITY downloadCancel.label      "Չեղարկել">
-
+<!ENTITY downloadPause.label       "Ընդմիջել">
 <!ENTITY downloadResume.label      "Շարունակել">
 <!ENTITY downloadRetry.label       "Կրկնել">
 <!ENTITY downloadRemove.label      "Հեռացնել">
-
+<!ENTITY downloadDelete.label      "Ջնջել">
 <!ENTITY downloadFailed.label      "Խափանում">
 
+<!ENTITY allBookmarks.label        "Ցուցադրել բոլոր էջանիշերը">
 
+<!ENTITY consoleHeader.label       "Սխալների Կառավարակետ">
 <!ENTITY consoleAll.label          "Բոլորը">
 <!ENTITY consoleErrors.label       "Սխալմունքներ">
 <!ENTITY consoleWarnings.label     "Զգուշացումներ">
-
-
-
-
+<!ENTITY consoleMessages.label     "Գրություններ">
+<!ENTITY consoleCodeEval.label     "Գրություններ">
+<!ENTITY consoleClear.label        "Մաքրել">
+<!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "Ֆայլ Աղբյուր.">
 <!ENTITY consoleErrLine.label      "Տող.">
 <!ENTITY consoleErrColumn.label    "Սյուն.">
@@ -55,33 +67,44 @@
 <!ENTITY contextTextCopy.label             "Պատճենել">
 <!ENTITY contextTextPaste.label            "Մեջբերել">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Տեղադրել &amp; առաջ">
 <!ENTITY contextTextSelect.label           "Ընտրել">
-
+<!ENTITY contextTextSelectAll.label        "Նշել բոլորը">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "Հղումը Բացել Նոր Ներդիրում">
+<!ENTITY contextCopyLinkHref.label         "Պատճենել հղումը">
+<!ENTITY contextBookmarkLinkHref.label     "Էջանշել Հղումը">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Պահպանել Պատկերադարանում">
+<!ENTITY contextCopyImage.label            "Պատճենել Նկարը">
+<!ENTITY contextCopyImageLocation.label    "Պատճենել Նկարի Հասցեն">
+<!ENTITY contextOpenImageTab.label         "Հղումը Բացել Նոր Ներդիրում">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Պահպանել Տեսադարանում">
+<!ENTITY contextCopyVideoLocation.label    "Պատճենել Տեսանյութի Հասցեն">
+<!ENTITY contextOpenVideoTab.label         "Տեսանյութը Բացել Նոր Ներդիրում">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
