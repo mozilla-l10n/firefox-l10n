@@ -9,7 +9,7 @@
 <!ENTITY optionsHeader.title                                     "Opsies">
 <!ENTITY optionsHeader.char.title                                "Karakterenkodering">
 <!ENTITY optionsHeader.char.autodetect.label                     "Outospeur">
-
+<!ENTITY optionsHeader.char.options.label                        "Wys enkoderingkeuses op die toep-balk">
 
 <!ENTITY clearPrivateData.title                                  "Skrap private data">
 <!ENTITY clearPrivateData.label                                  "Maak u blaaigeskiedenis, wagwoorde, koekies en vormdata skoon op dié toestel">
@@ -28,9 +28,9 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Onthou wagwoorde">
 <!ENTITY doNotTrack.title                                        "Moenie volg nie">
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "Vertel webwerwe dat ek nie gemonitor wil word nie">
+<!ENTITY doNotTrack.options.doTrack                              "Vertel webwerwe dat ek nie gemonitor wil word nie">
+<!ENTITY doNotTrack.options.default                              "Moenie werwe vertel oor my voorkeure oor monitering nie">
 <!ENTITY doNotTrack.learnMoreLink                                "Meer inligting &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Omvalrapporteerder">
