@@ -57,7 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "प्रासंगिक ऐड - ऑन डाउनलोड करके सिम्युलेटर के एक संस्करण स्थापित करें.">
 <!ENTITY connection.installAnotherSimulator "जोड़ें ">
 <!ENTITY connection.installAnotherSimulatorTooltip "प्रासंगिक ऐड - ऑन डाउनलोड करके सिम्युलेटर का एक अतिरिक्त संस्करण को स्थापित करें.">
-
+<!ENTITY connection.startRegisteredSimulator "प्रारंभ:">
 
 <!ENTITY projects.localApps "स्थानीय अनुप्रयोग">
 <!ENTITY projects.addApp "जोड़ें ">
@@ -74,14 +74,14 @@
 <!ENTITY projects.debugAppTooltip "ओपन डेवलपर उपकरण इस अनुप्रयोग से जुड़े हैं">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "कोई परियोजनाओं नहीं. नीचे एक नए पैकेजयुक्त अनुप्रयोग (स्थानीय निर्देशिका) या एक होस्ट अनुप्रयोग (एक प्रकट फ़ाइल को लिंक करने के लिए) जोड़ें.">
+<!ENTITY projects.manifestEditor "मेनिफेस्ट संपादक">
 
-
-
+<!ENTITY projects.manifestViewer "मेनिफेस्ट दर्शक">
 
 
 <!ENTITY help.title "अनुप्रयोग प्रबंधक">
 <!ENTITY help.close "बंद करें">
-
+<!ENTITY help.intro "यह उपकरण आपको संगत उपकरणों (यानी फ़ायरफ़ॉक्स ओएस) पर वेब एप्प का निर्माण और स्थापित करने में मदद मिलेगी. <strong>अनुप्रयोग</strong> टैब अपने अनुप्रयोग के सत्यापन और स्थापना की प्रक्रिया में मदद करेंगे. <strong>युक्ति</strong> टैब आप जुड़े डिवाइस के बारे में जानकारी देंगे. </strong>डिवाइस</strong>से कनेक्ट या सिम्युलेटर शुरू करने के लिए नीचे उपकरण पट्टी का उपयोग करें.">
 <!ENTITY help.usefullLinks "उपयोगी कड़ियाँ:">
 <!ENTITY help.appMgrDoc "दस्तावेजीकरण: अनुप्रयोग प्रबंधक का उपयोग करके">
 <!ENTITY help.configuringDevice "अपने फ़ायरफ़ॉक्स ओएस युक्ति स्थापित कैसे करेगें।">

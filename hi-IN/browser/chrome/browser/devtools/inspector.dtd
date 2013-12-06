@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "बतौर HTML संपादित करें (E)">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नक़ल लें">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">

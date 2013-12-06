@@ -23,7 +23,12 @@
 <!ENTITY restorepage.windowLabel    "विंडो &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "आपका फिर स्वागत है!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "आपका फिर स्वागत है!">
 
