@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Ստուգել թարմացումները  »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Թարմացումների որոնում…">
 <!ENTITY aboutPage.checkForUpdates.none         "Թարմացումներ չկան">
-
-
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Բեռնել թարմացումը">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Թարմացումը բեռնվում է...">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Տեղադրել թարմացումը">
 <!ENTITY aboutPage.faq.label                    "ՀՃՀ">
 <!ENTITY aboutPage.support.label                "Աջակցություն">
 <!ENTITY aboutPage.privacyPolicy.label          "Գաղտնիության Դրույթները">
