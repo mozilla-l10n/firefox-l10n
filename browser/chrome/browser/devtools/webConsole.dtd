@@ -68,16 +68,16 @@
 
 <!ENTITY btnPageLogging.label   "लॉगिंग ">
 <!ENTITY btnPageLogging.tooltip "window.console वस्तु में लॉग संदेश भेजा गया">
-
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "त्रुटि">
 <!ENTITY btnConsoleInfo         "सूचना">
 <!ENTITY btnConsoleWarnings     "चेतावनी">
 <!ENTITY btnConsoleLog          "लॉग">
 
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
-
+<!ENTITY btnClear.label        "साफ़ करें (r)">
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट को साफ़ करें">
-
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -95,4 +95,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-
+<!ENTITY clearOutputCtrl.key  "L">
