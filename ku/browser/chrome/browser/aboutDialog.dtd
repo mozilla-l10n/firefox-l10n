@@ -22,7 +22,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;ê ve hatiye dîzaynkirin ">
 <!ENTITY community.middle2          "ku ew ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "komeke gerdûyî ye û">
+<!ENTITY community.creditsLink      "komeke gerdûnî">
 <!ENTITY community.end3             " ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.">
 
 <!ENTITY contribute.start           "Balkêş e, ma ne? ">
