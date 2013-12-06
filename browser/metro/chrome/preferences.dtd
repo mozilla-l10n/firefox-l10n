@@ -4,31 +4,36 @@
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "ఎంపికలు">
 <!ENTITY optionsHeader.char.title                                "అక్షర సంహితీకరణ">
+<!ENTITY optionsHeader.char.autodetect.label                     "స్వయంచాలకంగా-గుర్తించు">
+<!ENTITY optionsHeader.char.options.label                        "అనువర్తన పట్టీపైన ఎన్కోడింగ్ ఐచ్చికాలు చూపుము">
 
-
-
-
+<!ENTITY clearPrivateData.title                                  "వ్యక్తిగత దత్తాంశం శుభ్రంచేయి">
+<!ENTITY clearPrivateData.label                                  "మీ పరికరంపైని అన్వేషణ చరిత్ర, సంకేతపదాలు, కుకీలు, మరియు ఫారము దత్తాంశం శుబ్రంచేయి">
 <!ENTITY clearPrivateData.button                                 "శుభ్రం">
 <!ENTITY clearPrivateData.done                                   "పూర్తయ్యింది!">
 <!ENTITY clearPrivateData.history                                "విహరణ చరిత్ర">
-
+<!ENTITY clearPrivateData.otherdata                              "ఇతర దత్తాంశం (సంకేతపదాలు, క్యాచీ, కుకీలు, మొదలగునవి)">
 <!ENTITY clearPrivateData.downloadHist                           "దింపుకోళ్ళ చరిత్ర">
 <!ENTITY clearPrivateData.cookies                                "కుకీలు">
-
-
-
+<!ENTITY clearPrivateData.cache                                  "క్యాచి">
+<!ENTITY clearPrivateData.sitePref                               "సైటు అభీష్టాలు">
+<!ENTITY clearPrivateData.formSearchHist                         "ఫారాలు &amp; వెతుకుడు చరిత్ర">
 <!ENTITY clearPrivateData.passwords                              "భద్రపరచబడిన సంకేతపదాలు">
-
-
+<!ENTITY clearPrivateData.offline                                "ఆఫ్‌లైన్ వెబ్‌సైటు దత్తాంశం">
+<!ENTITY clearPrivateData.logins                                 "క్రియాశీల లాగిన్లు">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "సంకేతపదాలను గుర్తుంచుకో">
+<!ENTITY doNotTrack.title                                        "జాడ పట్టవద్దు">
+<!ENTITY doNotTrack.options.doNotTrack                           "నా గురించిన ఆరా కలిగివుండవద్దని వెబ్‌సైట్లకు చెప్పు">
+<!ENTITY doNotTrack.options.doTrack                              "నా గురించిన ఆరా కలిగివుండమని వెబ్‌సైట్లకు చెప్పు">
+<!ENTITY doNotTrack.options.default                              "నా ట్రాకింగ్ అభీష్టాల గురించి వెబ్‌సైట్లకు ఏమీ చెప్పవద్దు">
+<!ENTITY doNotTrack.learnMoreLink                                "మరింత తెలుసుకోండి&#x2026;">
 
-
-
-
-
-
-
+<!ENTITY optionsHeader.reporting.title                           "క్రాష్ నివేదికి">
+<!ENTITY optionsHeader.reporting.crashes.label                   "మీ విహరిణి మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను మొజిల్లాకు అప్పగించును.">
 <!ENTITY optionsHeader.telemetry.title                            "టెలీమెట్రీ">
-
+<!ENTITY optionsHeader.telemetry.label                            "మీ విహరిణిని ఉత్తమంగా చేయుటలో మాకు సహాయపడుటకు &brandShortName; గురించిన వాడుక గణాంకాలను మొజిల్లాతో పంచుకొనును">

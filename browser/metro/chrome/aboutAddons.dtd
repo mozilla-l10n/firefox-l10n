@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-
+<!ENTITY aboutAddons.title              "&brandShortName; పొడిగింతలు పురోగతినందు వున్నాయి">
+<!ENTITY aboutAddons.messageTitle       "ఆ-ఓహ్">
+<!ENTITY aboutAddons.message            "క్షమించండి, మీ కొరకు పొడిగింతల తోడ్పాటును ఇచ్చే పని వత్తిడిలో &brandShortName; వుంది.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-
-
+<!ENTITY aboutAddons.goBackToStartStart "వెనక్కి వెళ్ళు">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; మొదటి పేజీ">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

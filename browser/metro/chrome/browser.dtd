@@ -4,17 +4,23 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "వెతికే పదాన్ని లేదా చిరునామాను ఇవ్వండి">
 
-
+<!ENTITY back.label            "వెనుకకు">
+<!ENTITY forward.label         "ముందుకు">
+<!ENTITY newtab.label          "కొత్త టాబు">
+<!ENTITY closetab.label        "టాబ్ మూసివేయి">
 
 <!ENTITY autocompleteResultsHeader.label  "మీ ఫలితాలు">
 
-
+<!ENTITY appbarErrorConsole.label   "దోష కన్సోల్ తెరువుము">
+<!ENTITY appbarJSShell.label        "జావాస్క్రిప్ట్ షెల్ తెరువుము">
 <!ENTITY appbarFindInPage2.label    "పేజీతో వెతకండి">
+<!ENTITY appbarViewOnDesktop2.label "డెస్కుటాప్ పైన దర్శించు">
+<!ENTITY appbarMSMetaData2.label    "ఈ సైటు కొరకు అనువర్తనం పొందు">
 
-
-
-
+<!ENTITY topSitesHeader.label        "ముఖ్య సైట్లు">
+<!ENTITY bookmarksHeader.label       "ఇష్టాంశములు">
 <!ENTITY recentHistoryHeader.label   "ఇటీవలి చరిత్ర">
 <!ENTITY remoteTabsHeader.label      "ఇతర పరికరాల నుండి ట్యాబులు">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
@@ -25,29 +31,33 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "ముఖ్య సైట్లు">
+<!ENTITY narrowBookmarksHeader.label     "ఇష్టాంశములు">
 <!ENTITY narrowRecentHistoryHeader.label "ఇటీవలి చరిత్ర">
-
+<!ENTITY narrowRemoteTabsHeader.label    "రిమోట్ టాబ్లు">
 
 <!ENTITY downloadsHeader.label     "దింపుకోళ్ళు">
-
-
+<!ENTITY downloadShowPage.label    "పేజీకు వెళ్ళు">
+<!ENTITY downloadShow2.label       "కనుగొను…">
 <!ENTITY downloadOpen2.label       "తెరువు">
 <!ENTITY downloadCancel.label      "రద్దుచేయి">
-
+<!ENTITY downloadPause.label       "ఆపివుంచు">
 <!ENTITY downloadResume.label      "తిరిగికొనసాగించు">
 <!ENTITY downloadRetry.label       "తిరిగిప్రయత్నించు">
 <!ENTITY downloadRemove.label      "తీసివేయి">
 <!ENTITY downloadDelete.label      "తొలగించు">
 <!ENTITY downloadFailed.label      "విఫలమైంది">
 
+<!ENTITY allBookmarks.label        "అన్ని ఇష్టాంశాలను చూడండి">
 
+<!ENTITY consoleHeader.label       "దోషం తెర">
 <!ENTITY consoleAll.label          "అన్నీ">
 <!ENTITY consoleErrors.label       "దోషములు">
 <!ENTITY consoleWarnings.label     "హెచ్చరికలు">
 <!ENTITY consoleMessages.label     "సందేశాలు">
-
+<!ENTITY consoleCodeEval.label     "కోడ్:">
 <!ENTITY consoleClear.label        "శుభ్రం">
-
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "మూలమైన  ఫైల్ :">
 <!ENTITY consoleErrLine.label      "గీత:">
 <!ENTITY consoleErrColumn.label    "నిలువు వరుస:">
@@ -57,33 +67,44 @@
 <!ENTITY contextTextCopy.label             "నకలుతీయి">
 <!ENTITY contextTextPaste.label            "అతికించు">
 <!-- unique item that is only added to the url bar context menu -->
-
-
+<!ENTITY contextTextPasteAndGo.label       "అతికించు మరియు వెళ్ళు">
+<!ENTITY contextTextSelect.label           "ఎంపికచేయి">
+<!ENTITY contextTextSelectAll.label        "అన్నిటిని ఎన్నుకొనుము">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "లంకెను కొత్త ట్యాబులో తెరువు">
+<!ENTITY contextCopyLinkHref.label         "లంకెను కాపీచెయ్యి">
+<!ENTITY contextBookmarkLinkHref.label     "లంకెను ఇష్టాంశాలకు చేర్చు">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "చిత్ర లైబ్రరీకు దాయి">
+<!ENTITY contextCopyImage.label            "చిత్రాన్ని నకలు తీయుము">
+<!ENTITY contextCopyImageLocation.label    "చిత్ర స్థానాన్ని నకలు తీయుము">
+<!ENTITY contextOpenImageTab.label         "చిత్రాన్ని కొత్త టాబ్ నందు తెరువుము">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "దృశ్యకం లైబ్రరీకు దాయి">
+<!ENTITY contextCopyVideoLocation.label    "దృశ్యకం స్థానాన్ని నకలు తీయుము">
+<!ENTITY contextOpenVideoTab.label         "కొత్త  టాబ్ నందు దృశ్యకం తెరువుము">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "కీబోర్డు లఘువులు">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY helpSafeMode.accesskey   "R">
