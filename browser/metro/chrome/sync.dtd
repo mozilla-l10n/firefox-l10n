@@ -6,37 +6,53 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "Մուտք ունեցեք ձեր էջանիշերին, գաղտնաբառերին և բացեք ներդիրներ ձեր բոլոր սարքերից">
+<!ENTITY sync.flyout.presetup.setup.label      "Կարգավորել &syncBrand.fullName.label;ը">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "Կարգավորել &syncBrand.fullName.label;ը">
+<!ENTITY sync.flyout.setup.description1        "Եթե ունեք &syncBrand.shortName.label;-ի հաշիվ, ապա ընտրեք &quot;Միացում սարքին&quot; ձեր այլ սարքում և մուտքագրեք կոդը:">
+<!ENTITY sync.flyout.setup.description2        "Եթե չունե&apos;ք &syncBrand.shortName.label;-ի հաշիվ, ապա կարող եք ստեղծել այն &brandShortName;-ում:">
+<!ENTITY sync.flyout.setup.manual.label_2      "Ե&apos;ս իմ համակարգչի մոտ չեմ…">
+<!ENTITY sync.flyout.setup.description3        "Նշում.">
+<!ENTITY sync.flyout.setup.description4_2      "Գտնելու համար &quot;Միացումը սարքին&quot;՝">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Բացեք &quot;Կարգավորումները&quot; և ընտրեք &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Լր. &gt; Կարգավորումներ&gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "Մուտքագրեք ձեր &syncBrand.shortName.label; հաշվի տեղեկությունները և համակարգչի կողմից առաջարկված Վերականգնող բանալին">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Հաշիվը">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Գաղտնաբառը">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Վերականգնող իմ բանալին">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Միանալ">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "Դուք կցել եք &brandShortName;-ը &syncBrand.shortName.label; հաշվին">
+<!ENTITY sync.flyout.setupsuccess.description2      "Ձեր &syncBrand.shortName.label; տվյալները այժմ բեռնվում են խորապատկերում: Ձեր ներդիրները հասանելի են &brandShortName;-ի Մեկնարկային էջում">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;-ը չի կարողանում միանալ &syncBrand.shortName.label; հաշվին">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Չեղարկել">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Կրկին փորձել">
 <!-- Flyout when connected and functioning normally -->
 
-
-
-
-
+<!ENTITY sync.flyout.connected.account                    "Հաշիվը.">
+<!ENTITY sync.flyout.connected.device                     "Ձեր սարքը.">
+<!ENTITY sync.flyout.connected.disconnect                 "Անջատել">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Անջատե՞լ ձեր սարքը &syncBrand.shortName.label;-ից:">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Ձեր բոլոր անձնական տվյալները ձեր սարքից և &syncBrand.shortName.label; հաշվից անբողջական կմնան:">
+<!ENTITY sync.flyout.connected.cancel                     "Չեղարկել">
 <!ENTITY sync.flyout.connected.pair                       "Միացում սարքին">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "Այն սարքում, որին ցանկանում եք միանալ, ընտրեք &quot;Կարգավորել &syncBrand.shortName.label;&quot; և մուտքագրեք սարքի կոդը">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Միանալ">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Նշում.">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Կոդը գտնելու համար՝">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Բացեք &quot;Կարգավորումները&quot; և կատարեք հետևյալ քայլերը՝  &syncBrand.shortName.label; -&gt; Կարգավորել &syncBrand.shortName.label; -&gt; Ես ունեմ հաշիվ">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Լր. &gt; Կարգավորումներ &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Կրկին փորձեք">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Նոր սարքը ավելացվել է:">
+<!ENTITY sync.flyout.pairSuccess.description2             "Ձեր &syncBrand.shortName.label; տվյալները այժմ բեռնվում են խորապատկերում: Ձեր հեռակա ներդիրները կարող եք գտնել &brandShortName;-ի Մեկնարկային էջում:">

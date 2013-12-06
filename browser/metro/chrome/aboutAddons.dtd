@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-
+<!ENTITY aboutAddons.title              "&brandShortName;-ի Հավելումները աշխատում են">
+<!ENTITY aboutAddons.messageTitle       "Պահո՜">
+<!ENTITY aboutAddons.message            "&brandShortName;-ը աշխատում է հավելումների աջակցման ուղղությամբ:">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-
-
+<!ENTITY aboutAddons.goBackToStartStart "Վերադառնալ հետ՝">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandFullName;-ի մեկնարկային Էջը">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

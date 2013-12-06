@@ -31,7 +31,7 @@ was trying to connect. -->
 որ ինչ որ մեկը միջամտում է այս միացմանը:</b>">
 <!ENTITY certerror.expert.contentPara2 "Մի կատարեք բացառություն, քանի դեռ 
 չգիտեք համոզիչ հանգամանք, որի պատճառով այս կայքը չի օգտագործում ճիշտ ինքնություն:">
-
-
+<!ENTITY certerror.addTemporaryException.label "Այցելեք կայքը">
+<!ENTITY certerror.addPermanentException.label "Ավելացնել մշտական բացառություն">
 
 <!ENTITY certerror.technical.heading "Տեխնիկական մանրամասներ">

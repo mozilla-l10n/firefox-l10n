@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
 <!ENTITY chromeDebuggerMenu.label       "Դիտարկիչի Վրիպազերծիչը">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!ENTITY chromeDebuggerMenu.accesskey   "չ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
 <!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">

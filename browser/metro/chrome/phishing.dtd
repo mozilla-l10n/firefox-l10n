@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
 
+<!ENTITY safeb.palm.accept.label "Դուրս բեր ինձ այստեղից:">
+<!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
+<!ENTITY safeb.palm.notforgery.label2 "Սա խարդախ կայք չէ…">
 <!ENTITY safeb.palm.reportPage.label "Ինչու՞ էր արգելափակված այս էջը:">
 
 <!ENTITY safeb.blocked.malwarePage.title "Բողոքում եմ: Պիտակել որպես հաձակողական էջ:">
@@ -11,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Հարձակվող էջերը փորձում են տեղադրել ծրագրեր, որոնք գողանում են անձնական տվյալներ, օգտագործում են ձեր համակարգիչը այլ համակարգիչների վրա հարձակման համար:</p><p>Որոշ հարձակվող էջեր դիտմամբ են տարածում վնասակար ծրագրեր, բայց շատերը դա անում են առանց սեփականատերերի գիտության կամ համաձայնության:</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Այս կայքը կասկածվում է խաբեբայության մեջ!">
-
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Այս էջում մուտքագրված ցանկացած տեղեկատվություն կարող է գողացվել:">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Այսպիսի համակարգը օգտագործվում է խարդախների կողմից և հայտնի է ֆիշինգ անունով, որի ընթացքում օգտագործվում են ձեզ հայտնի վեբ էջեր և էլ. փոստի հասցեներ՝    ընդօրինակելու համար այն վեբ ռեսուրսներին, որոնց դուք վստահում եք:</p>">
