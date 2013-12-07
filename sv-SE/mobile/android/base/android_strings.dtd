@@ -237,6 +237,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
 <!ENTITY pref_titlebar_mode_url "Visa sidans adress">
 
+<!ENTITY pref_dynamic_toolbar "Dölj namnfältet vid skrollning">
+
 <!ENTITY history_removed "Sidan borttagen">
 
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
