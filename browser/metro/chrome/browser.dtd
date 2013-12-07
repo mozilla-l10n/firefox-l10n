@@ -77,3 +77,10 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!ENTITY firstRunTabs.label "Stai cercando le schede? Trascina verso il basso o fai clic con il tasto destro">
+<!ENTITY firstRunTopSites.label "Accedi ai siti più visitati">
+<!ENTITY firstRunBookmarks.label "Trova le pagine salvate">
+<!ENTITY firstRunMenu.label "Accedi alle opzioni e alle altre funzioni">
+<!ENTITY firstRunHistory.label "Controlla i siti che hai visitato sul Web">
+<!ENTITY firstRunWelcome.label "Benvenuto in &brandShortName;">
+<!ENTITY firstRunDifferent.label "Originale a partire dal progetto">
