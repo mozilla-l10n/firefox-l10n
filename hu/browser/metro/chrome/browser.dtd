@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript parancsértelmező megnyitása">
 <!ENTITY appbarFindInPage2.label    "Keresés az oldalon">
 <!ENTITY appbarViewOnDesktop2.label "Megjelenítés asztalon">
+<!ENTITY appbarMSMetaData2.label    "App ehhez az oldalhoz">
 
 <!ENTITY topSitesHeader.label        "Népszerű">
 <!ENTITY bookmarksHeader.label       "Könyvjelző">
