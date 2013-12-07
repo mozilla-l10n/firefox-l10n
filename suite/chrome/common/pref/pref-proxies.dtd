@@ -20,8 +20,8 @@
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Actualitza">
 <!ENTITY  reload.accesskey              "z">
-<!ENTITY  http.label                    "Servidor intermediari HTTP:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.label                    "Servidor intermediari:">
+<!ENTITY  http.accesskey                "S">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPPort.accesskey            "o">
 <!ENTITY  advanced.label                "Avançat...">

@@ -14,8 +14,8 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat del correu brossa">
-<!ENTITY unreadColumn.label "Per llegir">
-<!ENTITY totalColumn.label "Total">
+<!ENTITY unreadColumn.label "Per llegir en la conversa">
+<!ENTITY totalColumn.label "Total en la conversa">
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
 <!ENTITY flagColumn.label "Destacat">
@@ -24,7 +24,7 @@
 <!--Tooltips-->
 
 <!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges"> 
+<!ENTITY threadColumn.tooltip "Feu un clic per veure els missatges agrupats per converses"> 
 <!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
 <!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
 <!ENTITY attachmentColumn.tooltip "Feu un clic per ordenar per adjunts">
@@ -36,8 +36,8 @@
 <!ENTITY statusColumn.tooltip "Feu un clic per ordenar per estat">
 <!ENTITY sizeColumn.tooltip "Feu un clic per ordenar per mida">
 <!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per l'estat de brossa">
-<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
-<!ENTITY totalColumn.tooltip "Nombre total de missatges en conversa">
+<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir en la conversa">
+<!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per ordenar per llegit">
 <!ENTITY receivedColumn.tooltip "Feu un clic per ordenar per ordre de recepció">
 <!ENTITY flagColumn.tooltip "Feu un clic per ordenar per destacat">
