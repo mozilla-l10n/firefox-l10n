@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
 <!ENTITY appmenuNewContactCmd.label "Névjegy…">
 <!ENTITY appmenuEditMenu.label "Szerkesztés">
-<!ENTITY appmenuQFBMenu.label "Gyorsszűrő sáv">
 <!ENTITY appmenuToolbarLayout.label "Eszköztár elrendezése…">
 <!ENTITY appmenuSelectThread.label "Szál kijelölése">
 <!ENTITY appmenuSelectFlagged.label "Csillagozott üzenetek kijelölése">

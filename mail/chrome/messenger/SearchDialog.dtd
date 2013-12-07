@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "T">
 <!ENTITY composeButton.label         "Új üzenet">
 <!ENTITY composeButton.accesskey     "z">
+<!ENTITY deleteCardButton.label      "Törlés">
+<!ENTITY deleteCardButton.accesskey  "T">
 <!ENTITY abSearchDialogTitle.label   "Összetett keresés a címjegyzékben">
 
 <!-- Thread Pane -->

@@ -68,7 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Naplózás">
 <!ENTITY btnPageLogging.tooltip "A „window.console” objektumnak küldött naplóüzenetek">
-<!ENTITY btnPageLogging.accesskey "a">
+<!ENTITY btnPageLogging.accesskey3 "a">
 <!ENTITY btnConsoleErrors       "Hibák">
 <!ENTITY btnConsoleInfo         "Információ">
 <!ENTITY btnConsoleWarnings     "Figyelmeztetések">
@@ -94,4 +94,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
+<!ENTITY clearOutputCtrl.key  "L">
