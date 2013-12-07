@@ -10,25 +10,25 @@
 <!ENTITY device.screenshot "স্ক্রিনশট">
 <!ENTITY device.screenshotTooltip "ডিভাইসের বর্তমান অবস্থার একটি স্ক্রিনশট নতুন ট্যাবে খোলো।">
 <!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
-
+<!ENTITY device.notConnected "সংযুক্ত নেই। দয়া করে নিচে আপনার ডিভাইসটি সংযুক্ত করুন।">
 <!ENTITY device.startApp "আরম্ভ">
-
+<!ENTITY device.startAppTooltip "এই অ্যাপটিকে ডিভাইসে চালু করুন।">
 <!ENTITY device.stopApp "থামাও">
-
-
-
+<!ENTITY device.stopAppTooltip "এই অ্যাপটিকে ডিভাইসে বন্ধ করুন।">
+<!ENTITY device.debugApp "ডিবাগ">
+<!ENTITY device.debugAppTooltip "ডিভাইসের এই অ্যাপটিতে সংযুক্ত ডেভলপার টুল গুলোকে খুলুন।">
 <!ENTITY device.name "নাম">
+<!ENTITY device.app "অ্যাপ">
 
-
-
+<!ENTITY device.certified "অনুমোদিত">
 <!ENTITY device.allow "অনুমোদন">
-
+<!ENTITY device.allowTooltip "এই ধরনের অ্যাপসের জন্য এই অনুমতি আছে।">
 <!ENTITY device.prompt "প্রম্পট">
 
 <!ENTITY device.deny "প্রত্যাখ্যান">
 
 
-
+<!ENTITY device.installedAppsTooltip "ডিভাইসে ইনস্টল করা অ্যাপস এর তালিকা দেখুন । কিছু অ্যাপস, যেমন অনুমোদিত অ্যাপস, সম্ভবত এই প্রদর্শন থেকে বাদ দেওয়া হতে পারে ।">
 <!ENTITY device.permissions "অনুমোদন (P)">
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
@@ -44,11 +44,11 @@
 <!ENTITY connection.startSimulator "সিমুলেটর চালু করুন">
 
 <!ENTITY connection.saveConnectionInfo "সংরক্ষণ">
-
+<!ENTITY connection.saveConnectionInfoTooltip "হোস্ট এবং পোর্ট সংরক্ষণ করুন।">
 <!ENTITY connection.connecting "সংযুক্ত করা হচ্ছে …">
 <!ENTITY connection.disconnecting "বিচ্ছিন্ন করা হচ্ছে...">
 <!ENTITY connection.cancel "বাতিল">
-
+<!ENTITY connection.cancelConnectTooltip "প্রক্রিয়াধীন সংযোগ বাতিল করুন।">
 
 <!ENTITY connection.or "অথবা">
 <!ENTITY connection.noSimulatorInstalled "কোনো সিমুলেটর ইনস্টল করা নেই।">
@@ -72,10 +72,10 @@
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
+<!ENTITY projects.manifestEditor "ম্যানিফেস্ট সম্পাদক">
 
-
-
-
+<!ENTITY projects.manifestViewer "ম্যানিফেস্ট প্রদর্শক">
+<!ENTITY projects.manifestViewerTooltip "নিচের প্যানেলে আপনার অ্যাপ এর ম্যানিফেস্ট পরীক্ষা করুন।">
 
 
 
