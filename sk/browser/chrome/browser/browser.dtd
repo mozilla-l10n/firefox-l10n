@@ -331,6 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Prispôsobiť">
+<!ENTITY appMenuCustomizeExit.label "Ukončiť prispôsobenie">
 <!ENTITY appMenuHistory.label "História">
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
@@ -558,11 +559,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Zobrazí stránku na celú obrazovku">
 
-<!ENTITY quitApplicationCmdWin.label    "Skončiť">
+<!ENTITY quitApplicationCmdWin.label    "Ukončiť &brandShortName;">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
 <!ENTITY goBackCmd.commandKey          "[">
 <!ENTITY goForwardCmd.commandKey       "]">
-<!ENTITY quitApplicationCmd.label      "Skončiť">
+<!ENTITY quitApplicationCmd.label      "Ukončiť &brandShortName;">
 <!ENTITY quitApplicationCmd.accesskey  "k">
 <!ENTITY quitApplicationCmdMac.label    "Ukončiť &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
