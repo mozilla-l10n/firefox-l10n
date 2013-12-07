@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Nincs kapcsolódva">
+<!ENTITY sync.connect               "Kapcsolódás">
+<!ENTITY sync.connected             "Kapcsolódva van">
+<!ENTITY sync.details               "Részletek">
+<!ENTITY sync.deviceName            "Ez az eszköz">
+<!ENTITY sync.disconnect            "Leválás">
+<!ENTITY sync.syncNow               "Szinkronizálás">
+
+<!ENTITY sync.setup.title           "Kapcsolódás a Synchez">
+<!ENTITY sync.setup.pair            "Az aktiváláshoz válassza a másik eszközön az „Eszköz párosítása” lehetőséget.">
+<!ENTITY sync.fallback              "Nem vagyok számítógépközelben…">
+<!ENTITY sync.setup.manual          "Adja meg a Sync-fiók adatait">
+<!ENTITY sync.account               "Postafiók neve">
+<!ENTITY sync.password              "Jelszó">
+<!ENTITY sync.recoveryKey           "Helyreállítókulcs">
+<!ENTITY sync.customServer          "Egyéni kiszolgáló használata">
+<!ENTITY sync.serverURL             "Kiszolgáló URL-je">
+<!ENTITY sync.setup.connect         "Kapcsolódás">
+<!ENTITY sync.setup.cancel          "Mégse">
+<!ENTITY sync.setup.tutorial        "Hogy kell?">
+<!ENTITY sync.setup.waiting2        "Várakozás a másik eszközre…">
+
+<!ENTITY sync.pair.title            "Eszköz párosítása">
+<!ENTITY sync.pair.description      "Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása” lehetőséget.">
+<!ENTITY sync.setup.close           "Bezárás">
+<!ENTITY sync.setup.waitingdownload "Az adatai a háttérben töltődnek le. Akármikor bezárhatja ezt az ablakot.">
