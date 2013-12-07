@@ -353,6 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+
+<!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -529,7 +531,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "নতুন ট্যাব খোলা হবে">
 <!ENTITY newWindowButton.tooltip        "নতুন উইন্ডো খোলা হবে">
-
+<!ENTITY sidebarCloseButton.tooltip     "সাইডবার বন্ধ করুন">
 
 <!ENTITY fullScreenButton.tooltip       "পূর্ণ পর্দায় উইন্ডো প্রদর্শন">
 
