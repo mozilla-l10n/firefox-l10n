@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "En réponse à">
 <!ENTITY originalWebsite4.label "Site web">
 
-<!ENTITY editMessageDescription.label "Ceci est un brouillon">
-<!ENTITY editMessageButton.label "Modifier…">
 <!ENTITY hdrArchiveButton1.label "Archiver">
 <!ENTITY hdrArchiveButton1.tooltip "Archiver ce message">
 <!ENTITY hdrSmartReplyButton1.label "Répondre (contextuel)">
