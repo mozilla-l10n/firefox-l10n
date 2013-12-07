@@ -24,9 +24,9 @@
 <!ENTITY clearPrivateData.formSearchHist                         "Vormide ja otsingu ajalugu">
 <!ENTITY clearPrivateData.passwords                              "Salvestatud paroolid">
 <!ENTITY clearPrivateData.offline                                "Võrguta režiimis töötavate lehtede andmed">
-<!ENTITY clearPrivateData.logins                                 "Aktiivsed seandsid">
+<!ENTITY clearPrivateData.logins                                 "Aktiivsed seansid">
 
-<!ENTITY optionsHeader.privacy.passwords.label                   "Paroolid salvestatamine">
+<!ENTITY optionsHeader.privacy.passwords.label                   "Paroolide salvestamine">
 <!ENTITY doNotTrack.title                                        "Jälitamine">
 <!ENTITY doNotTrack.options.doNotTrack                           "Veebilehtdele antakse teada, et jälitamist ei soovita">
 <!ENTITY doNotTrack.options.doTrack                              "Veebilehti teavitatakse soovist olla jälitatud">
