@@ -238,6 +238,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
+<!ENTITY pref_dynamic_toolbar "Pri posúvaní skryť titulok okna">
+
 <!ENTITY history_removed "Stránka odstránená">
 
 <!ENTITY bookmark_edit_title "Úprava záložky">
