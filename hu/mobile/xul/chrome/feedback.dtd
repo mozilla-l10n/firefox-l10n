@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Eszközök a visszajelzéshez">
+
+<!ENTITY feedback.communicate.title     "Mondja el nekünk!">
+<!ENTITY feedback.feedback.title        "Visszajelzés">
+<!ENTITY feedback.feedback.good         "Jó">
+<!ENTITY feedback.feedback.bad          "Rossz">
+
+<!ENTITY feedback.tools.title           "Eszközök">
+<!ENTITY feedback.allowTelemetry.title  "Teljesítményadatok küldése">
+<!ENTITY feedback.forceCompat.title     "Kiegészítők kompatibilitásának kényszerítése">
+<!ENTITY feedback.errorConsole.title    "Hibakonzol engedélyezése">
