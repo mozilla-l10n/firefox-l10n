@@ -77,3 +77,10 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!ENTITY firstRunTabs.label "Ищете свои вкладки? Просто потяните вниз или щёлкните правой кнопкой">
+<!ENTITY firstRunTopSites.label "Перейдите к часто посещаемым вами сайтам">
+<!ENTITY firstRunBookmarks.label "Найдите страницы, сохранённые вами в закладки">
+<!ENTITY firstRunMenu.label "Доступ к другим функциям и настройкам">
+<!ENTITY firstRunHistory.label "Посмотрите, где вы были в Интернете">
+<!ENTITY firstRunWelcome.label "Добро пожаловать в &brandShortName;">
+<!ENTITY firstRunDifferent.label "Сделан с душой">
