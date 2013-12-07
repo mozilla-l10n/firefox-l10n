@@ -559,11 +559,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Zobrazí stránku na celú obrazovku">
 
-<!ENTITY quitApplicationCmdWin.label    "Ukončiť &brandShortName;">
+<!ENTITY quitApplicationCmdWin.label    "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
 <!ENTITY goBackCmd.commandKey          "[">
 <!ENTITY goForwardCmd.commandKey       "]">
-<!ENTITY quitApplicationCmd.label      "Ukončiť &brandShortName;">
+<!ENTITY quitApplicationCmd.label      "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmd.accesskey  "k">
 <!ENTITY quitApplicationCmdMac.label    "Ukončiť &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
