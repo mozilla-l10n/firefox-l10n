@@ -129,8 +129,10 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Lägg till villkorad brytpunkt">
 <!ENTITY debuggerUI.seMenuCondBreak.key "ä">
 
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.sources        "Källor">
+<!ENTITY debuggerUI.tabs.callstack      "Anropsstack">
 <!ENTITY debuggerUI.tabs.variables      "Variabler">
 <!ENTITY debuggerUI.tabs.events         "Händelser">
 
