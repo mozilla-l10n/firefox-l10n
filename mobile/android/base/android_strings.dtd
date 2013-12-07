@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Szerkesztés">
 <!ENTITY contextmenu_subscribe "Feliratkozás az oldalra">
 <!ENTITY contextmenu_site_settings "Webhely-beállítások szerkesztése">
-<!ENTITY contextmenu_top_bookmarks_edit "Szerkesztés">
-<!ENTITY contextmenu_top_bookmarks_pin "Oldal rögzítése">
-<!ENTITY contextmenu_top_bookmarks_unpin "Rögzítés feloldása">
+<!ENTITY contextmenu_top_sites_edit "Szerkesztés">
+<!ENTITY contextmenu_top_sites_pin "Oldal rögzítése">
+<!ENTITY contextmenu_top_sites_unpin "Rögzítés feloldása">
 
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Oldal eltávolítva">
 
-<!ENTITY bookmark_add "Könyvjelző hozzáadása">
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
 <!ENTITY bookmark_edit_location "Hely">
@@ -276,12 +275,12 @@ size. -->
 <!ENTITY home_top_sites_add "Oldal hozzáadása">
 
 <!ENTITY home_history_title "Előzmény">
+<!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
 <!ENTITY home_last_tabs_title "Legutóbbi lapok">
 <!ENTITY home_last_tabs_open "A legutóbbi lapok megnyitása">
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
 <!ENTITY home_most_recent_title "Legutóbbi">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
-<!ENTITY home_most_visited_title "Legtöbbször látogatott">
 <!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPP: az olvasási listájára elmenthet cikkeket az olvasó mód gomb hosszú megnyomásával amikor az megjelenik a címsorban.">
 
-<!ENTITY home_most_visited_empty "A leggyakrabban meglátogatott weboldalak itt jelennek meg.">
-<!ENTITY pin_bookmark_dialog_hint "Írjon be egy keresőkifejezést">
+<!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
 <!ENTITY filepicker_title "Fájlválasztás">
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">

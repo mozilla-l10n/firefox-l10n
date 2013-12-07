@@ -5,19 +5,19 @@
 <!ENTITY folderProps.windowtitle.label           "Tulajdonságok">
 
 <!ENTITY generalInfo.label                       "Általános információk">
-<!ENTITY folderCharsetTab.label                  "Alapértelmezett karakterkódolás:">
-<!ENTITY folderCharsetTab.accesskey              "A">
-<!ENTITY folderCharsetOverride.label             "Az alapértelmezés alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetFallback.label             "Tartalék karakterkódolás:">
+<!ENTITY folderCharsetFallback.accesskey         "T">
+<!ENTITY folderCharsetEnforce.label              "A kódolás alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Összefoglaló fájlindex újraépítése">
 <!ENTITY folderRebuildSummaryFile2.label         "Mappa javítása">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "M">
 <!ENTITY folderRebuildSummaryFile.explanation    "Néha a mappaindex (.msf) fájlja megsérül, és az üzenetek nem jelennek meg, vagy a törölt üzenetek megjelennek; a mappa javítása megszüntetheti ezeket a problémákat.">
 <!ENTITY folderIncludeInGlobalSearch.label       "A mappa üzeneteinek megjelenítése a globális keresés eredményei között">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+     
 <!ENTITY retention.label "Megőrzési házirend">
-<!ENTITY retentionUseAccount.label "A postafiók beállításainak megfelelően">
+<!ENTITY retentionUseAccount.label  "A postafiók beállításainak megfelelően">
 <!ENTITY retentionUseAccount.accesskey "p">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
@@ -36,8 +36,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 
 <!ENTITY folderSynchronizationTab.label          "Szinkronizálás">
-<!ENTITY folderCheckForNewMessages2.label        "Ha új üzenetet érkezik ebbe a postafiókba, mindig nézze meg ezt a mappát.">
-<!ENTITY folderCheckForNewMessages2.accesskey    "H">
+<!ENTITY folderCheckForNewMessages2.label         "Ha új üzenetet érkezik ebbe a postafiókba, mindig nézze meg ezt a mappát.">
+<!ENTITY folderCheckForNewMessages2.accesskey     "h">
 
 <!ENTITY offlineFolder.check.label               "Mappa kiválasztása kapcsolat nélküli munkához">
 <!ENTITY offlineFolder.check.accesskey           "M">
@@ -65,9 +65,9 @@
 <!ENTITY folderQuotaUsage.label                  "Használat:">
 <!ENTITY folderQuotaStatus.label                 "Állapot:">
 
-<!ENTITY numberOfMessages.label                  "Letöltött üzenetek száma:">
+<!ENTITY numberOfMessages.label                  "Üzenetek száma:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "ismeretlen">
-<!ENTITY sizeOnDisk.label                        "Helyfoglalás a lemezen:">
+<!ENTITY sizeOnDisk.label                        "Méret a lemezen:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "ismeretlen">
