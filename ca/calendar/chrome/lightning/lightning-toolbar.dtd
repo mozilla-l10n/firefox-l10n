@@ -37,4 +37,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menú d'aplicacions">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Mostra el menú del &brandShortName;">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Mostra el menú del &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Subfinestra del calendari">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "b">
+<!ENTITY lightning.toolbar.calendarpane.label        "Mostra la subfinestra del calendari">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "b">

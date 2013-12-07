@@ -97,7 +97,7 @@
 <!ENTITY helpMenu.label     "Ajuda"> 
 <!ENTITY helpMenu.accesskey    "j"> 
 
-<!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució de problemes">
+<!ENTITY helpTroubleshootingInfo.label      "Informació de resolució de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 <!ENTITY releaseCmd.label                   "Notes de la versió">
 <!ENTITY releaseCmd.accesskey               "v">

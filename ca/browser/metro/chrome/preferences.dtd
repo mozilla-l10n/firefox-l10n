@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Opcions">
-<!ENTITY optionsHeader.startup.title                             "Inici">
-<!ENTITY optionsHeader.homepage.title                            "En iniciar el &brandShortName;, mostra">
-<!ENTITY optionsHeader.homepage.startPage.button                 "la pàgina d'inici">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "les pestanyes de l'última vegada">
 <!ENTITY optionsHeader.char.title                                "Codificació de caràcters">
 <!ENTITY optionsHeader.char.autodetect.label                     "Detecció automàtica">
 <!ENTITY optionsHeader.char.options.label                        "Mostra les opcions de codificació a la barra d'aplicacions">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recorda les contrasenyes">
 <!ENTITY doNotTrack.title                                        "No vull que se'm segueixi">
-<!ENTITY doNotTrack.desc                                         "Fes saber als llocs web que:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "No vull que se'm segueixi">
-<!ENTITY doNotTrack.options.noPreference                         "No els comuniquis les meves preferències de seguiment">
-<!ENTITY doNotTrack.options.trackingOkay                         "Vull que se'm segueixi">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fes saber als llocs web que no vull que se'm segueixi">
+<!ENTITY doNotTrack.options.doTrack                              "Fes saber als llocs web que vull que se'm segueixi">
+<!ENTITY doNotTrack.options.default                              "No facis saber res als llocs web sobre les meves preferències de seguiment">
+<!ENTITY doNotTrack.learnMoreLink                                "Més informació&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Informe de fallada">
 <!ENTITY optionsHeader.reporting.crashes.label                   "El &brandShortName; tramet informes de fallada per ajudar a Mozilla a fer el navegador més estable i segur">
 <!ENTITY optionsHeader.telemetry.title                            "Telemesura">

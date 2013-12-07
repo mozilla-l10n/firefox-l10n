@@ -52,5 +52,5 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Termes del servei">
+<!ENTITY prefs.tosLink.label        "Condicions del servei">
 <!ENTITY prefs.ppLink.label         "Política de privadesa">

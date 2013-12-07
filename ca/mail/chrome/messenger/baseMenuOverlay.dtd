@@ -9,8 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "j">
-<!ENTITY helpTroubleshootingInfo.label     "Informació de problemes">
-<!ENTITY helpTroubleshootingInfo.accesskey "p">
+<!ENTITY helpTroubleshootingInfo.label     "Informació de resolució de problemes">
+<!ENTITY helpTroubleshootingInfo.accesskey "r">
 <!ENTITY helpSafeMode.label     "Reinicia amb els complements inhabilitats…">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Notes de la versió">

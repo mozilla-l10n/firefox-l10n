@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Instal·la una versió del simulador després de baixar el complement corresponent.">
 <!ENTITY connection.installAnotherSimulator "Afegeix">
 <!ENTITY connection.installAnotherSimulatorTooltip "Instal·la una versió addicional del simulador després de baixar el complement corresponent.">
+<!ENTITY connection.startRegisteredSimulator "Inici:">
 
 <!ENTITY projects.localApps "Aplicacions locals">
 <!ENTITY projects.addApp "Afegeix">
@@ -73,10 +74,14 @@
 <!ENTITY projects.debugAppTooltip "Obre les eines per a desenvolupadors connectades a aquesta aplicació">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hi ha cap projecte. Afegiu una aplicació empaquetada (directori local) a continuació o una aplicació hostatjada (enllaç a un fitxer manifest).">
+<!ENTITY projects.manifestEditor "Editor de manifest">
+<!ENTITY projects.manifestEditorTooltip "Edita el manifest de l'aplicació a la subfinestra de sota. El botó Actualitza desa els canvis i actualitza l'aplicació.">
+<!ENTITY projects.manifestViewer "Visualitzador de manifest">
+<!ENTITY projects.manifestViewerTooltip "Mostra el manifest de l'aplicació a la subfinestra de sota.">
 
 <!ENTITY help.title "Gestor d'aplicacions">
 <!ENTITY help.close "Tanca">
-<!ENTITY help.intro "Aquesta eina us ajudarà a muntar i instal·lar aplicacions web en dispositius compatibles (és a dir, el Firefox OS). La pestanya <strong>Aplicacions</strong> us guiarà en el procés de validació i instal·lació de l'aplicació. La pestanya <strong>Dispositiu</strong> conté informació del dispositiu connectat. Utilitzeu la barra d'eines de la part inferior per connectar un dispositiu o per iniciar el simulador.">
+<!ENTITY help.intro "Aquesta eina us ajudarà a crear i a instal·lar aplicacions web en dispositius compatibles (és a dir, Firefox OS). La pestanya <strong>Aplicacions</strong> us guiarà pel procés de validació i d'instal·lació de la vostra aplicació. La pestanya <strong>Dispositiu</strong> us donarà informació del dispositiu connectat. Utilitzeu la barra d'eines inferior per connectar a un dispositiu o per iniciar el simulador.">
 <!ENTITY help.usefullLinks "Enllaços útils:">
 <!ENTITY help.appMgrDoc "Documentació: Utilització del gestor d'aplicacions">
 <!ENTITY help.configuringDevice "Configuració del dispositiu Firefox OS">

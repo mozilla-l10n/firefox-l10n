@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
+<!ENTITY printPreviewCmd.label "Exemple d'impressió">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">

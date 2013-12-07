@@ -44,7 +44,7 @@
 <!ENTITY deleteMessage.label "Suprimeix el missatge">
 <!ENTITY deleteFromPOP.label "Suprimeix-lo del servidor POP">
 <!ENTITY fetchFromPOP.label "Baixa'l del servidor POP">
-<!ENTITY ignoreThread.label "Ignora tota la conversa">
+<!ENTITY ignoreThread.label "Ignora la conversa">
 <!ENTITY ignoreSubthread.label "Ignora la subconversa">
 <!ENTITY watchThread.label "Vigila la conversa">
 <!ENTITY stopExecution.label "Atura l'execució del filtre">

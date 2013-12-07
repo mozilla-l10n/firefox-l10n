@@ -8,7 +8,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "D\u0027interès">
+<!ENTITY  bookmarks_title "Adreces d\u0027interès">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Llista de lectura">
 
@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Edita">
 <!ENTITY contextmenu_subscribe "Subscriu-me a la pàgina">
 <!ENTITY contextmenu_site_settings "Edita els paràmetres del lloc">
-<!ENTITY contextmenu_top_bookmarks_edit "Edita">
-<!ENTITY contextmenu_top_bookmarks_pin "Fixa el lloc">
-<!ENTITY contextmenu_top_bookmarks_unpin "No fixis el lloc">
+<!ENTITY contextmenu_top_sites_edit "Edita">
+<!ENTITY contextmenu_top_sites_pin "Fixa el lloc">
+<!ENTITY contextmenu_top_sites_unpin "No fixis el lloc">
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "S\u0027ha suprimit la pàgina">
 
-<!ENTITY bookmark_add "Afegeix una adreça d\u0027interès">
 <!ENTITY bookmark_edit_title "Edita l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
@@ -270,18 +269,18 @@ size. -->
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 
-<!ENTITY home_top_sites_title "Llocs més importants">
+<!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
 <!ENTITY home_last_tabs_title "Pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_empty "Aquí es mostren les pestanyes recents.">
 <!ENTITY home_most_recent_title "Més recents">
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
-<!ENTITY home_most_visited_title "Més visitats">
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -292,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "CONSELL: Podeu desar articles a la llista de lectura mantenint premut el botó de mode de lectura quan aparegui a la barra de títol.">
 
-<!ENTITY home_most_visited_empty "Aquí es mostren els llocs webs que visiteu més sovint.">
-<!ENTITY pin_bookmark_dialog_hint "Escriviu una paraula clau de cerca">
+<!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
 <!ENTITY filepicker_title "Trieu un fitxer">
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
@@ -313,7 +311,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "funciona mitjançant">
+<!ENTITY identity_run_by "que pertany a">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
@@ -364,8 +362,8 @@ de l\u0027Android">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
 <!-- Guest mode -->
 
-<!ENTITY new_guest_session "Sessió de convidat nova">
-<!ENTITY exit_guest_session "Tanca la sessió de convidat">
+<!ENTITY new_guest_session "Sessió de convidat">
+<!ENTITY exit_guest_session "Tanca sessió convidat">
 <!ENTITY guest_session_dialog_continue "Continua">
 <!ENTITY guest_session_dialog_cancel "Cancel·la">
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">

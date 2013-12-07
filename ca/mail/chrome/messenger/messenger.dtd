@@ -204,23 +204,23 @@
 <!ENTITY groupBySort.accesskey "g">
 <!ENTITY msgsMenu.label "Missatges">
 <!ENTITY msgsMenu.accesskey "a">
-<!ENTITY threads.label "Cadenes">
+<!ENTITY threads.label "Converses">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
-<!ENTITY expandAllThreadsCmd.label "Amplia totes les cadenes">
+<!ENTITY expandAllThreadsCmd.label "Amplia totes les converses">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Redueix totes les cadenes">
+<!ENTITY collapseAllThreadsCmd.label "Redueix totes les converses">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Per llegir">
 <!ENTITY unreadMsgsCmd.accesskey "l">
-<!ENTITY threadsWithUnreadCmd.label "Cadenes amb missatges per llegir">
+<!ENTITY threadsWithUnreadCmd.label "Converses amb missatges per llegir">
 <!ENTITY threadsWithUnreadCmd.accesskey "t">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Cadenes vistes amb missatges per llegir">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Converses vigilades amb missatges per llegir">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "v">
-<!ENTITY ignoredThreadsCmd.label "Cadenes ignorades">
+<!ENTITY ignoredThreadsCmd.label "Converses ignorades">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Capçaleres">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Missatge nou">
 <!ENTITY appmenuNewContactCmd.label "Contacte de la llibreta d'adreces…">
 <!ENTITY appmenuEditMenu.label "Edita">
-<!ENTITY appmenuQFBMenu.label "Barra del filtre ràpid">
 <!ENTITY appmenuToolbarLayout.label "Format de la barra d'eines…">
 <!ENTITY appmenuSelectThread.label "Selecciona la conversa">
 <!ENTITY appmenuSelectFlagged.label "Selecciona els missatges amb estrella">
@@ -662,7 +661,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges">
+<!ENTITY threadColumn.tooltip "Feu un clic per veure els missatges agrupats per converses">
 <!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
 <!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
 <!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">

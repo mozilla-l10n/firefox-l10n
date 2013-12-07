@@ -75,7 +75,7 @@
 <!ENTITY modeAutomatic.accesskey        "B">
 <!ENTITY modeAutoAddonWarn.label        "Avisa'm si això faria que s'inhabilités algun dels meus complements">
 <!ENTITY modeAutoAddonWarn.accesskey    "v">
-<!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
+<!ENTITY showUpdates.label              "Mostra l'historial d'actualitzacions">
 <!ENTITY showUpdates.accesskey          "u">
 
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">

@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Obre l'intèrpret d'ordres JavaScript">
 <!ENTITY appbarFindInPage2.label    "Cerca a la pàgina">
 <!ENTITY appbarViewOnDesktop2.label "Mostra a l'escriptori">
+<!ENTITY appbarMSMetaData2.label    "Obteniu l'aplicació d'aquest lloc">
 
 <!ENTITY topSitesHeader.label        "Destacats">
 <!ENTITY bookmarksHeader.label       "Adreces d'interès">
@@ -31,7 +32,7 @@
       -->
 
 <!ENTITY narrowTopSitesHeader.label      "Destacats">
-<!ENTITY narrowBookmarksHeader.label     "D'interès">
+<!ENTITY narrowBookmarksHeader.label     "Adreces d'interès">
 <!ENTITY narrowRecentHistoryHeader.label "Historial recent">
 <!ENTITY narrowRemoteTabsHeader.label    "Pestanyes remotes">
 

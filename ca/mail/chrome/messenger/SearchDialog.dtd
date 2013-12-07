@@ -60,7 +60,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges"> 
+<!ENTITY threadColumn.tooltip "Feu un clic per veure els missatges agrupats per converses"> 
 <!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
 <!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
 <!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">

@@ -11,7 +11,7 @@
 <!ENTITY navigator.accesskey             "r">
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
-<!ENTITY enableJavaScript.label          "Habilita el Javascript per a:">
+<!ENTITY enableJavaScript.label          "Habilita el JavaScript per a:">
 <!ENTITY allowScripts.label              "Permet als scripts:">
 <!ENTITY allowScripts.accesskey          "s">
 <!ENTITY allowWindowMoveResize.label     "Moure o canviar la mida de finestres ja existents">
