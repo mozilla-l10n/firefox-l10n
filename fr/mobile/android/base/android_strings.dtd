@@ -132,7 +132,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Le panda roux, rapide comme l\u0027éclair, bondit au-delà de vos attentes avec plus de vitesse, plus de souplesse et plus de sécurité. En tant que fondation à but non lucratif, nous sommes libres d\u0027innover pour vous sans aucune pression ni aucun compromis. Cela signifie une meilleure expérience pour vous et un meilleur avenir pour le Web.">
 
 <!ENTITY pref_use_master_password "Mot de passe principal">
-<!ENTITY pref_show_product_announcements "Notifications produit">
+<!ENTITY pref_show_product_announcements "Notifications du logiciel">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
@@ -238,7 +238,7 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
 <!ENTITY pref_titlebar_mode_url "Afficher l\u0027adresse de la page">
 
-<!ENTITY pref_dynamic_toolbar "Masquer barre de titre lors du défilement">
+<!ENTITY pref_dynamic_toolbar "Barre de titre dynamique">
 
 <!ENTITY history_removed "Page supprimée">
 
