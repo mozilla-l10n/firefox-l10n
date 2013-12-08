@@ -5,10 +5,11 @@
 <!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're 
-trying to solve a problem. If you are looking for answers to common questions 
-about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
+<!ENTITY aboutSupport.pageSubtitle "Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila anda
+cuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim 
+&brandShortName;, semak <a id='supportLink'>laman web sokongan</a> kami.">
 
+<!ENTITY aboutSupport.crashes.title "Laporan Kerosakan">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Laporan">

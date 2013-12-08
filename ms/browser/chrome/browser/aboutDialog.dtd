@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " merupakan satu ">
+<!ENTITY community.exp.middle       "adalah ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komuniti global">
 <!ENTITY community.exp.end          " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
@@ -25,7 +25,7 @@
 <!ENTITY community.creditsLink      "komuniti global">
 <!ENTITY community.end3             " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
 
-<!ENTITY contribute.start           "Bunyi menarik? ">
+<!ENTITY contribute.start           "Menarik bukan? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Libatkan diri anda!">
 <!ENTITY contribute.end             "">
@@ -40,13 +40,13 @@
 <!ENTITY bottomLinks.privacy        "Dasar Privasi">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Menyemak kemas kini…">
+<!ENTITY update.checkingForUpdates  "Menyemak untuk dikemaskini…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Menyemak keserasian Add-on…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; adalah terkini">
+<!ENTITY update.noUpdatesFound      "&brandShortName; adalah yang terkini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Kemas kini dihalang oleh pentadbir sistem anda">
+<!ENTITY update.adminDisabled       "Kemaskini dihalang oleh pentadbir sistem anda">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sedang dikemaskini oleh pemegang lain">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -55,7 +55,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Kemas kini gagal. ">
+<!ENTITY update.failed.start        "Kemaskini gagal. ">
 <!ENTITY update.failed.linkText     "Muat turun versi terkini">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -73,7 +73,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "Anda tidak boleh melakukan kemas kini yang selanjutnya pada sistem ini.">
-<!ENTITY update.unsupported.linkText "Ketahui Lanjut">
+<!ENTITY update.unsupported.linkText "Ketahui lanjut">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

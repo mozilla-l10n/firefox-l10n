@@ -29,6 +29,6 @@
 
 
 <!ENTITY optionsHeader.reporting.title                           "Pelapor nahas">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; menghantar laporan kerosakan untuk membantu Mozilla menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
 
