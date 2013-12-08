@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Chcete spoločnosti Mozilla odoslať správy o zlyhaní?">
+<!ENTITY crashprompt.message         "Ospravedlňujeme sa, &brandShortName; bol práve obnovený po zlyhaní. Odoslaním správy o zlyhaní spoločnosti Mozilla pomôžete urobiť prehliadač &brandShortName; stabilnejším a bezpečnejším. Toto nastavenie môžete neskôr zmeniť v Nastaveniach prehliadača.">
+<!ENTITY crashprompt.detailsLink     "Čo obsahuje správa o zlyhaní?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Správa o zlyhaní obsahuje podrobnosti o zlyhaní, vašom zariadení, ako aj záznam stavu prehliadača v čase zlyhania.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Môže obsahovať zoznam otvorených stránok, text zadaný do formulárov a obsah otvorených správ, nedávnu históriu prehliadania alebo údaje o polohe poskytnuté stránke.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Správy o zlyhaní používame na identifikáciu a opravu problémov a vylepšovanie prehliadača. Vami poskytnuté informácie spracovávame tak, ako je popísané v">
+<!ENTITY crashprompt.privacyPolicyLink "zásadách ochrany súkromia prehliadača &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Zahrnúť adresu stránky, ktorú som práve prehliadal">
+<!ENTITY crashprompt.acceptbutton    "Odoslať správy">
+<!ENTITY crashprompt.refusebutton    "Neodosielať">
+<!ENTITY crashprompt.privacyPolicy.title "Zásady ochrany súkromia prehliadača &brandShortName;">
