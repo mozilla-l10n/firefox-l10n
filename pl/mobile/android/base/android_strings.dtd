@@ -226,6 +226,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
 <!ENTITY pref_titlebar_mode_url "Pokazuj adresy stron">
 
+<!ENTITY pref_dynamic_toolbar "Ukryj pasek tytułu przy przewijaniu">
+
 <!ENTITY history_removed "Stronę usunięto">
 
 <!ENTITY bookmark_edit_title "Zmień zakładkę">
