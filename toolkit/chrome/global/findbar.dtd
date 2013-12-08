@@ -7,10 +7,10 @@
 
 <!ENTITY next.tooltip "Cari teks frasa berkenaan yang berikut">
 <!ENTITY previous.tooltip "Cari teks frasa berkenaan yang terdahulu">
-
+<!ENTITY findCloseButton.tooltip "Tutup Bar Carian">
 
 
 <!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa berkenaan">
-
-
+<!ENTITY caseSensitive.label "Kes Sepadan">
+<!ENTITY caseSensitive.accesskey "c">
 

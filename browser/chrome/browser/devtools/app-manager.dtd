@@ -8,66 +8,66 @@
 <!ENTITY index.help "Bantuan">
 
 <!ENTITY device.screenshot "Cakupan skrin">
-
+<!ENTITY device.screenshotTooltip "Buka syot skrin keadaan terkini peranti pada tab baharu.">
 <!ENTITY device.title "Pusat Kawalan Peranti">
 <!ENTITY device.notConnected "Tidak bersambung. Sila sambungkan peranti anda di bawah.">
 <!ENTITY device.startApp "Mula">
 <!ENTITY device.startAppTooltip "Mulakan app ini pada peranti.">
 <!ENTITY device.stopApp "Berhenti">
 <!ENTITY device.stopAppTooltip "Hentikan app ini pada peranti.">
-
+<!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Buka Alatan Pembangun yang bersambung ke app ini pada peranti.">
 <!ENTITY device.name "Nama">
 <!ENTITY device.app "App">
-
-
+<!ENTITY device.privileged "Keistimewaan">
+<!ENTITY device.certified "Diperakui">
 <!ENTITY device.allow "Benarkan">
-
+<!ENTITY device.allowTooltip "Kebenaran ini dibenarkan untuk aplikasi jenis ini.">
 <!ENTITY device.prompt "Promp">
-
+<!ENTITY device.promptTooltip "Kebenaran ini memerlukan satu penggesa pengguna untuk aplikasi jenis ini.">
 <!ENTITY device.deny "Nafikan">
-
-
-
+<!ENTITY device.denyTooltip "Keizinan tidak dibenarkan untuk aplikasi jenis ini.">
+<!ENTITY device.installedApps "Aplikasi yang telah Dipasang">
+<!ENTITY device.installedAppsTooltip "Lihat senarai aplikasi yang sudah terpasang pada peranti ini. Sesetengah peranti , seperti aplikasi yang diperakui, mungkin dikecualikan daripada diperlihatkan.">
 <!ENTITY device.permissions "Kebenaran">
-
+<!ENTITY device.permissionsTooltip "Lihat jadual keizinan yang dibenarkan akses kepada jenis aplikasi yang berbeza.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambungkan peranti.">
 
-
+<!ENTITY connection.disconnectTooltip "Putuskan dari peranti semasa atau simulasi">
 <!ENTITY connection.notConnected2 "Tidak Besambung.">
 <!ENTITY connection.connectTo "Sambung ke:">
 
 <!ENTITY connection.changeHostAndPort "Ubah">
-
-
-
+<!ENTITY connection.changeHostAndPortTooltip "Tukar hos dan port yang digunakan untuk menyambung kepada peranti. (Tetapan lalai ialah localhost:6000)">
+<!ENTITY connection.startSimulator "Mulakan Simulasi">
+<!ENTITY connection.startSimulatorTooltip "Mulakan penggunaan Simulasi dan sambungkan.">
 <!ENTITY connection.saveConnectionInfo "Simpan">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Simpan hos dan port.">
 <!ENTITY connection.connecting "Menyambung…">
 <!ENTITY connection.disconnecting "Memutuskan…">
 <!ENTITY connection.cancel "Batal">
-
-
+<!ENTITY connection.cancelConnectTooltip "Batalkan proses sambungan.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Keluar daripada mod sambungan Simulasi dan kembali kepada lampiran permulaan.">
 <!ENTITY connection.or "atau">
+<!ENTITY connection.noSimulatorInstalled "Tiada simulasi terpasang.">
+<!ENTITY connection.installOneSimulator "Pasang Simulasi">
+<!ENTITY connection.installOneSimulatorTooltip "Pasang versi Simulasi dengan memuat turun add-on berkaitan.">
 
-
-
-
-
+<!ENTITY connection.installAnotherSimulatorTooltip "Pasang versi tambahan pada Simulasi dengan memuat turun addon yang berkaitan.">
 
 
 <!ENTITY projects.localApps "Apps Tempatan">
+<!ENTITY projects.addApp "Tambah">
 
-
-
-
-
+<!ENTITY projects.addPackagedTooltip "Tambah pakej aplikasi berpakej (direktori) dari komputer anda.">
+<!ENTITY projects.addHosted "Tambah Aplikasi yang dihoskan">
+<!ENTITY projects.addHostedTooltip "Tambah aplikasi baharu yang dihoskan (pautan kepada fail manifest.webapp) daripada laman web capaian jauh.">
 <!ENTITY projects.title "Apps Tempatan">
 <!ENTITY projects.appDetails "Perincian App">
-
+<!ENTITY projects.removeAppFromList "Buangkan aplikasi ini daripada senarai aplikasi yang anda sedang bangunkan. Ini tidak akan membuang aplikasi tersebut daripada peranti atau simulasi.">
 
 
 

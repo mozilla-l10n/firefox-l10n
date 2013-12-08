@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
+<!ENTITY getUserMediaDialog.title                 "Perkongsian Media">
+<!ENTITY getUserMediaDialog.buttonlabelaccept     "Kongsi">
+<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
 <!ENTITY getUserMediaDialog.buttonlabelcancel     "Batal">
+<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
 
-
-
-
-
+<!ENTITY getUserMediaDialog.video.label           "Pilih Kamera">
+<!ENTITY getUserMediaDialog.video.noVideo         "Tiada Video">
+<!ENTITY getUserMediaDialog.audio.label           "Pilih mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio         "Tiada Audio">
