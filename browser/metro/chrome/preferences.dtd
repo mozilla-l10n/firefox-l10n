@@ -34,5 +34,6 @@
 <!ENTITY doNotTrack.learnMoreLink                                "En savoir plus&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Rapports de plantage">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envoie des rapports de plantage pour aider Mozilla à rendre votre navigateur plus stable et sécurisé">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Inclure l'URL de la page où vous vous trouviez">
 <!ENTITY optionsHeader.telemetry.title                           "Télémétrie">
 <!ENTITY optionsHeader.telemetry.label                           "Envoie à Mozilla des statistiques d'utilisation de &brandShortName; pour nous aider à améliorer votre navigateur">

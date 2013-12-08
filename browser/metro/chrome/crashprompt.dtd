@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Voulez-vous envoyer des rapports de plantage à Mozilla ?">
+<!ENTITY crashprompt.message         "Nous sommes désolés, &brandShortName; vient de se remettre d'un plantage. Envoyer des rapports de plantage aidera Mozilla à rendre &brandShortName; plus stable et sécurisé. Vous pouvez modifier à tout moment vos préférences dans les Paramètres/Options.">
+<!ENTITY crashprompt.detailsLink     "Que contient un rapport de plantage ?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un rapport de plantage contient certains détails concernant le plantage et votre machine, ainsi qu'un instantané de l'état de votre navigateur au moment du plantage.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Il peut inclure différentes choses comme la liste des pages ouvertes, le texte saisi dans les formulaires et le contenu des messages ouverts, l'historique de navigation récent, ou la géolocalisation utilisée par une application ouverte.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Nous utilisons les rapports de plantage pour essayer de résoudre les problèmes et améliorer nos logiciels. Nous utilisons vos informations conformément à la ">
+<!ENTITY crashprompt.privacyPolicyLink "politique de confidentialité de &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Inclure l'URL de la page où vous vous trouviez">
+<!ENTITY crashprompt.acceptbutton    "Envoyer les rapports">
+<!ENTITY crashprompt.refusebutton    "Ne pas envoyer">
+<!ENTITY crashprompt.privacyPolicy.title "Politique de confidentialité de &brandShortName;">
