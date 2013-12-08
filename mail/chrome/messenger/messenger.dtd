@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Neue Nachricht">
 <!ENTITY appmenuNewContactCmd.label "Adressbuchkontakt…">
 <!ENTITY appmenuEditMenu.label "Bearbeiten">
-<!ENTITY appmenuQFBMenu.label "Schnellfilterleiste">
 <!ENTITY appmenuToolbarLayout.label "Symbolleisten anpassen…">
 <!ENTITY appmenuSelectThread.label "Themenbaum markieren">
 <!ENTITY appmenuSelectFlagged.label "Gekennzeichnete Nachrichten markieren">
