@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "적절한 부가 기능을 내려받아 시뮬레이터를 설치합니다.">
 <!ENTITY connection.installAnotherSimulator "추가">
 <!ENTITY connection.installAnotherSimulatorTooltip "적절한 부가 기능을 내려받아 다른 버전의 시뮬레이터를 설치합니다.">
+<!ENTITY connection.startRegisteredSimulator "시작:">
 
 <!ENTITY projects.localApps "로컬 앱">
 <!ENTITY projects.addApp "추가">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "이 앱과 연결한 개발자 도구 열기">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "프로젝트가 없습니다. 아래에서 새로운 패키지형 앱(디렉터리)나 호스트형 앱(매니페스트 파일 링크)를 추가하십시오.">
+<!ENTITY projects.manifestEditor "매니페스트 편집기">
+<!ENTITY projects.manifestEditorTooltip "아래 패널에서 앱의 매니페스트를 고칠 수 있습니다. 업데이트 버튼을 눌러 바뀐 점을 저장하고 앱을 업데이트할 수 있습니다.">
+<!ENTITY projects.manifestViewer "매니페스트 보기">
+<!ENTITY projects.manifestViewerTooltip "아래 패널에서 앱의 매니페스트를 검사합니다.">
 
 <!ENTITY help.title "앱 관리자">
 <!ENTITY help.close "닫기">

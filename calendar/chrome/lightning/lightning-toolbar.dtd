@@ -25,7 +25,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "이벤트">
 <!ENTITY lightning.toolbar.newtask.label      "태스크">
 
-<!-- Messenger Toolbar -->
+<!-- Calendar and Task Mode Toolbar  -->
 <!ENTITY lightning.toolbar.day.label                 "일별">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "주별">
@@ -34,9 +34,11 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "월별">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-
-
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "앱 메뉴">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "&brandShortName; 메뉴 표시">
+<!ENTITY lightning.toolbar.calendarmenu.label        "캘린더 창">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "캘린더 창 보기">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">

@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "새 메시지">
 <!ENTITY appmenuNewContactCmd.label "주소록 연락처…">
 <!ENTITY appmenuEditMenu.label "수정">
-<!ENTITY appmenuQFBMenu.label "빠른 필터 바">
 <!ENTITY appmenuToolbarLayout.label "툴바 레이아웃…">
 <!ENTITY appmenuSelectThread.label "글타래 선택">
 <!ENTITY appmenuSelectFlagged.label "별표 메시지 선택">

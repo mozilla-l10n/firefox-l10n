@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "JavaScript 쉘 열기">
 <!ENTITY appbarFindInPage2.label    "페이지 내 검색">
 <!ENTITY appbarViewOnDesktop2.label "데스크톱 모드에서 보기">
+<!ENTITY appbarMSMetaData2.label    "이 사이트의 앱 얻기">
 
 <!ENTITY topSitesHeader.label        "자주 방문한 사이트">
 <!ENTITY bookmarksHeader.label       "북마크">
