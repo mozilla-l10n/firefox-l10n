@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Kraschrapportör">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; skickar kraschrapporter för att hjälpa Mozilla att göra webbläsaren mer stabil och säker">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Inkludera adressen till sidan jag besökte">
 <!ENTITY optionsHeader.telemetry.title                           "Telemetri">
 <!ENTITY optionsHeader.telemetry.label                           "Delar användarstatistik om &brandShortName; med Mozilla för att hjälpa oss att förbättra webbläsaren">
