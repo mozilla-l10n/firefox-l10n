@@ -28,5 +28,6 @@
 <!ENTITY doNotTrack.learnMoreLink "Подробнее…">
 <!ENTITY optionsHeader.reporting.title "Сообщения о падениях">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; отправляет сообщения о падениях, чтобы помочь Mozilla сделать браузер стабильнее и безопаснее">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs "Включить адрес страницы на которой я был в это время">
 <!ENTITY optionsHeader.telemetry.title "Телеметрия">
 <!ENTITY optionsHeader.telemetry.label "Поделиться статистикой использования &brandShortName; с Mozilla, чтобы помочь ей улучшить браузер">
