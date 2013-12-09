@@ -6,8 +6,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
-<!ENTITY appmenu.title "Personalizza e gestisci &brandFullName;">
-<!ENTITY navbarOverflow.label "Altri strumenti…">
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
@@ -135,7 +133,6 @@
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
 <!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksMenuButton.unsorted.label "Segnalibri non catalogati">
-<!ENTITY viewBookmarksSidebar2.label "Visualizza barra laterale dei segnalibri">
 <!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -244,27 +241,10 @@
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Personalizza">
-<!ENTITY appMenuCustomizeExit.label "Esci da personalizzazione">
-<!ENTITY appMenuHistory.label "Cronologia">
-<!ENTITY appMenuHistory.showAll.label "Visualizza la cronologia">
-<!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
-<!ENTITY appMenuHistory.restoreSession.label "Ripristina la sessione precedente">
-<!ENTITY customizeMenu.addToToolbar.label "Aggiungi alla barra degli strumenti">
-<!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Aggiungi al menu">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
-<!ENTITY customizeMenu.removeFromToolbar.label "Rimuovi dalla barra degli strumenti">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
-<!ENTITY customizeMenu.removeFromMenu.label "Rimuovi dal menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "E">
-<!ENTITY customizeMenu.addMoreItems.label "Aggiungi altri elementi…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Passa alla scheda:">
-<!ENTITY toggleMenuPanel.key "m">
-<!ENTITY toggleMenuPanelMac.key "m">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -480,10 +460,6 @@
 <!ENTITY social.learnMore.label "Ulteriori informazioni…">
 <!ENTITY social.learnMore.accesskey "U">
 <!ENTITY social.closeNotificationItem.label "Non adesso">
-<!ENTITY customizeMode.tabTitle "Personalizza &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu e barre degli strumenti">
-<!ENTITY customizeMode.menuAndToolbars.header "Altri strumenti da aggiungere a menu e barra degli strumenti">
-<!ENTITY customizeMode.restoreDefaults "Ripristina predefiniti">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleziona chat">
 <!ENTITY social.chatBar.accesskey "h">
