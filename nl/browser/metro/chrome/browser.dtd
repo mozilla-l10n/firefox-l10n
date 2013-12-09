@@ -60,7 +60,7 @@
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Bronbestand:">
 <!ENTITY consoleErrLine.label      "Regel:">
-<!ENTITY consoleErrColumn.label    "kolom:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Knippen">

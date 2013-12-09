@@ -9,14 +9,14 @@
 <!ENTITY optionsHeader.title                                     "Opties">
 <!ENTITY optionsHeader.char.title                                "Tekenset">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatisch herkennen">
-<!ENTITY optionsHeader.char.options.label                        "Tekensetopties op de Appbalk tonen">
+<!ENTITY optionsHeader.char.options.label                        "Tekensetopties op de appbalk tonen">
 
 <!ENTITY clearPrivateData.title                                  "Privégegevens wissen">
 <!ENTITY clearPrivateData.label                                  "Uw geschiedenis, wachtwoorden, cookies en formuliergegevens op dit apparaat wissen">
 <!ENTITY clearPrivateData.button                                 "Wissen">
 <!ENTITY clearPrivateData.done                                   "Klaar!">
 <!ENTITY clearPrivateData.history                                "Geschiedenis">
-<!ENTITY clearPrivateData.otherdata                              "Andere gegevens (wachtwoorden, buffer, cookies, etc)">
+<!ENTITY clearPrivateData.otherdata                              "Andere gegevens (wachtwoorden, buffer, cookies etc.)">
 <!ENTITY clearPrivateData.downloadHist                           "Downloadgeschiedenis">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Buffer">
@@ -30,10 +30,10 @@
 <!ENTITY doNotTrack.title                                        "Niet volgen">
 <!ENTITY doNotTrack.options.doNotTrack                           "Websites laten weten dat ik niet gevolgd wil worden">
 <!ENTITY doNotTrack.options.doTrack                              "Websites laten weten dat ik gevolgd wil worden">
-<!ENTITY doNotTrack.options.default                              "Websites niets over mijn volgvoorkeuren laten weten">
+<!ENTITY doNotTrack.options.default                              "Websites niets vertellen over mijn volgvoorkeuren">
 <!ENTITY doNotTrack.learnMoreLink                                "Meer info&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Crashreporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; verzendt crashrapporten om Mozilla te helpen uw browser stabieler en veiliger te maken">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Deelt gegevensgebruikstatistieken over &brandShortName; met Mozilla om te helpen uw browser beter te maken">
+<!ENTITY optionsHeader.telemetry.label                            "Deelt gebruiksstatistieken over &brandShortName; met Mozilla om uw browser te helpen verbeteren">
