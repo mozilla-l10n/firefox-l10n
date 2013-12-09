@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "옵션"> <!-- 대부분의 Mozilla 제품에서는 "설정" 등으로 번역하고 있으나 Windows 8 한글판에서는 이미 위에 "설정"(Settings)에 들어가 있어 낱말이 겹치고 Windows 8에 기본으로 들어가 있는 다른 프로그램에서는 Options를 옵션이라고 번역하였기에 통일성 유지의 문제도 있어 예외를 적용합니다. -->
-<!ENTITY optionsHeader.startup.title                             "시작">
-<!ENTITY optionsHeader.homepage.title                            "&brandShortName;를 시작할 때 표시할 페이지">
-<!ENTITY optionsHeader.homepage.startPage.button                 "시작 페이지">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "이전 종료시 탭">
 <!ENTITY optionsHeader.char.title                                "문자 인코딩">
 <!ENTITY optionsHeader.char.autodetect.label                     "자동 선택">
 <!ENTITY optionsHeader.char.options.label                        "앱 바에서 인코딩 설정 보이기">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "암호 저장">
 <!ENTITY doNotTrack.title                                        "방문자 추적 중지">
-<!ENTITY doNotTrack.desc                                         "사이트에:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "방문자 추적 중지 요청 전송">
-<!ENTITY doNotTrack.options.noPreference                         "내 방문자 추적 설정을 아무것도 알려주지 않음">
-<!ENTITY doNotTrack.options.trackingOkay                         "방문자 추적을 요청">
+<!ENTITY doNotTrack.options.doNotTrack                           "웹 사이트에 방문자 추적 중지를 요청">
+<!ENTITY doNotTrack.options.doTrack                              "웹 사이트에 방문자 추적을 요청">
+<!ENTITY doNotTrack.options.default                              "웹 사이트에 내 방문자 추적 설정을 아무것도 알려주지 않음">
+<!ENTITY doNotTrack.learnMoreLink                                "더 알아보기&#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "오류 보고서">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;가 오류 보고서를 전송하여 Mozilla가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
 <!ENTITY optionsHeader.telemetry.title                            "데이터 수집">

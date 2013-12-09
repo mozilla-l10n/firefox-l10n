@@ -48,6 +48,8 @@
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "인쇄 화면 설정…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "인쇄 미리보기">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
