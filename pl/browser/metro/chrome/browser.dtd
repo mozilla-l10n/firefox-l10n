@@ -89,3 +89,11 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!ENTITY firstRunTabs.label "Karty? Wystarczy przeciągnąć z góry do dołu lub kliknąć prawym przyciskiem">
+<!ENTITY firstRunTopSites.label "Najczęściej odwiedzane strony">
+<!ENTITY firstRunBookmarks.label "Strony do których dodano zakładki">
+<!ENTITY firstRunMenu.label "Więcej funkcji i opcji">
+<!ENTITY firstRunHistory.label "Odwiedzane strony">
+<!ENTITY firstRunWelcome.label "Witamy w programie &brandShortName;">
+<!ENTITY firstRunDifferent.label "Different by design"><!-- FIXME -->
