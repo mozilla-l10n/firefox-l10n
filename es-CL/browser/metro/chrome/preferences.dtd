@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Reporte de fallos">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envía reporte de fallos para ayudar a Mozilla a hacer su navegador más estable y seguro">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir la dirección de la página en la que me encontraba">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetría">
 <!ENTITY optionsHeader.telemetry.label                            "Comparte estadísticas de uso sobre &brandShortName; con Mozilla para ayudarnos a mejorar su navegador">

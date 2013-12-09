@@ -110,3 +110,12 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!ENTITY firstRunTabs.label "¿Buscando tus pestañas? Solo arrastra hacia abajo o haz clic derecho">
+<!ENTITY firstRunTopSites.label "Ve a los sitios que más visitas">
+<!ENTITY firstRunBookmarks.label "Encuentra las páginas que has guardado para después">
+<!ENTITY firstRunMenu.label "Accede a más funciones y opciones">
+<!ENTITY firstRunHistory.label "Revisa dónde has estado en la web">
+<!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferente por diseño">
