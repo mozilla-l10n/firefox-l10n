@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title "Przesyłać Mozilli raporty z awarii?">
+<!ENTITY crashprompt.message "&brandShortName; wznowił działanie po awarii. Wysyłanie raportów z awarii ułatwa Mozilli poprawianie i udoskonalanie programu &brandShortName;. Preferencje wysyłania zawsze można zmienić w Ustawienia/Opcje.">
+<!ENTITY crashprompt.detailsLink "Co zawierają raporty z awarii?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Raporty z awarii zawierają pewne informacje o awarii, urządzeniu oraz zapis stanu przeglądarki podczas awarii.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Mogą to być rzeczy takie jak otwarte strony, tekst wprowadzony w formularze, treść otwartych wiadomości, ostatnią historę przeglądania lub informacje o położeniu udostępniane stronie.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Mozilla używa raportów z awarii do poprawiania i doskonalenia swoich produktów. Zgłoszenia obsługiwane są zgodnie z zasadami ">
+<!ENTITY crashprompt.privacyPolicyLink "polityki prywatności programu &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Dołączaj adresy wyświetlanych stron">
+<!ENTITY crashprompt.acceptbutton "Wysyłaj raporty">
+<!ENTITY crashprompt.refusebutton "Nie wysyłaj raportów">
+<!ENTITY crashprompt.privacyPolicy.title "O polityce prywatności programu &brandShortName;">
