@@ -26,26 +26,26 @@
 <!ENTITY newevent.status.needsaction.label        "Angen Gweithredu" >
 <!ENTITY newevent.status.inprogress.label         "Mewn Proses" >
 <!ENTITY newevent.status.completed.label          "Cwblhawyd" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "Cwblhau &#37;">
 
+<!ENTITY newtodo.percentcomplete.label      "Cwblhau &#037;">
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "p">
+<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "F">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Newydd">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Digwyddiad">
@@ -62,12 +62,12 @@
 <!ENTITY  event.menu.item.save.accesskey                  "C">
 <!ENTITY  event.menu.item.saveandclose.label              "Cadw a Chau">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "a">
-<!ENTITY  event.menu.item.delete.label                    "Dileu...">
+<!ENTITY  event.menu.item.delete.label                    "Dileu…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.item.page.setup.label                "Gosodiad Tudalen">
 <!ENTITY  event.menu.item.page.setup.accesskey            "T">
 <!ENTITY  event.menu.item.print.label                     "Argraffu">
-<!ENTITY  event.menu.item.print.accesskey                 "P">
+<!ENTITY  event.menu.item.print.accesskey                 "A">
 
 <!ENTITY  event.menu.edit.label                           "Golygu">
 <!ENTITY  event.menu.edit.accesskey                       "G">
@@ -76,11 +76,11 @@
 <!ENTITY  event.menu.edit.redo.label                      "Ailwneud">
 <!ENTITY  event.menu.edit.redo.accesskey                  "A">
 <!ENTITY  event.menu.edit.cut.label                       "Torri">
-<!ENTITY  event.menu.edit.cut.accesskey                   "X">
+<!ENTITY  event.menu.edit.cut.accesskey                   "T">
 <!ENTITY  event.menu.edit.copy.label                      "Copïo">
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "Gludo">
-<!ENTITY  event.menu.edit.paste.accesskey                 "V">
+<!ENTITY  event.menu.edit.paste.accesskey                 "G">
 <!ENTITY  event.menu.edit.select.all.label                "Dewis Popeth">
 <!ENTITY  event.menu.edit.select.all.accesskey            "P">
 
@@ -90,20 +90,20 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "B">
 <!ENTITY  event.menu.view.toolbars.event.label            "Bar Offer Digwyddiad">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "D">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Cyfaddasu...">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Cyfaddasu…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "y">
 <!ENTITY  event.menu.view.showlink.label                  "Dangos Dolen Gysylltiedig">
 <!ENTITY  event.menu.view.showlink.accesskey              "G">
 
 <!ENTITY  event.menu.options.label                            "Dewisiadau">
 <!ENTITY  event.menu.options.accesskey                        "D">
-<!ENTITY  event.menu.options.attendees.label                  "Gwahodd Mynychwyr">
+<!ENTITY  event.menu.options.attendees.label                  "Gwahodd Mynychwyr…">
 <!ENTITY  event.menu.options.attendees.accesskey              "M">
 <!ENTITY  event.menu.options.spellcheck.label                 "Gwirio Sillafu…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "G">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Gwirio Sillafu wrth Deipio">
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "D">
-<!ENTITY  event.menu.options.link.label                       "Ychwanegu Dolen...">
+<!ENTITY  event.menu.options.link.label                       "Ychwanegu Dolen…">
 <!ENTITY  event.menu.options.link.accesskey                   "Y">
 <!ENTITY  event.menu.options.timezone2.label                  "Dangos Cylchoedd Amser">
 <!ENTITY  event.menu.options.timezone2.accesskey              "D">
@@ -132,27 +132,29 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Rhydd">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "R">
 
-<!ENTITY event.invite.attendees.label                     "Gwahodd Mynychwyr...">
+<!ENTITY event.invite.attendees.label                     "Gwahodd Mynychwyr…">
 <!ENTITY event.invite.attendees.accesskey                 "M">
-<!ENTITY event.email.attendees.label                      "Cyfansoddi E-bost i'r Holl Fynychwyr...">
+<!ENTITY event.email.attendees.label                      "Cyfansoddi E-bost i'r Holl Fynychwyr…">
 <!ENTITY event.email.attendees.accesskey                  "H">
-<!ENTITY event.email.tentative.attendees.label            "Cyfansoddi E-bost i Fynychwyr Ansicr...">
+<!ENTITY event.email.tentative.attendees.label            "Cyfansoddi E-bost i Fynychwyr Ansicr…">
 <!ENTITY event.email.tentative.attendees.accesskey        "A">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Cadw a Chau">
 <!ENTITY  event.toolbar.delete.label                      "Dileu">
 <!ENTITY  event.toolbar.attendees.label                   "Gwahodd Mynychwyr">
 <!ENTITY  event.toolbar.spellcheck.label                  "Gwirio Sillafu">
 <!ENTITY  event.toolbar.privacy.label                     "Preifatrwydd">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Teitl:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Lleoliad:" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categori:">
 <!ENTITY event.categories.accesskey                       "a">
+<!ENTITY event.categories.textbox.label                   "Ychwanegu categori newydd" >
+<!ENTITY event.categories.textbox.accesskey               "Y">
 <!ENTITY event.calendar.label                             "Calendr:" >
 <!ENTITY event.calendar.accesskey                         "a">
 <!ENTITY event.attendees.label                            "Mynychwyr:" >
@@ -171,6 +173,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Ailadrodd:" >
 <!ENTITY event.repeat.accesskey                           "A">
+<!ENTITY event.until.label                                "Tan:">
+<!ENTITY event.until.accesskey                            "T">
 <!ENTITY event.reminder.label                             "Atgoffwr:" >
 <!ENTITY event.reminder.accesskey                         "t">
 <!ENTITY event.description.label                          "Disgrifiad:" >
@@ -179,7 +183,7 @@
 <!ENTITY event.attachments.accesskey                      "A" >
 <!ENTITY event.attachments.menubutton.label               "Atodi">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
-<!ENTITY event.attachments.url.label                      "Tudalen gwe...">
+<!ENTITY event.attachments.url.label                      "Tudalen gwe…">
 <!ENTITY event.attachments.url.accesskey                  "T">
 <!ENTITY event.attachments.popup.remove.label             "Tynnu" >
 <!ENTITY event.attachments.popup.remove.accesskey         "T" >
@@ -187,7 +191,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Tynnu Popeth" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "T" >
-<!ENTITY event.attachments.popup.attachPage.label         "Atodi Tudalen Gwe..." >
+<!ENTITY event.attachments.popup.attachPage.label         "Atodi Tudalen Gwe…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "G" >
 <!ENTITY event.url.label                                  "Dolen Gysylltiedig:" >
 <!ENTITY event.priority2.label                            "Blaenoriaeth:">
@@ -203,11 +207,11 @@
 <!ENTITY event.reminder.1day.before.label                 "1 diwrnod cyn" >
 <!ENTITY event.reminder.2days.before.label                "2 diwrnod cyn" >
 <!ENTITY event.reminder.1week.before.label                "1 wythnos cyn" >
-<!ENTITY event.reminder.custom.label                      "Cyfaddasu..." >
+<!ENTITY event.reminder.custom.label                      "Cyfaddas…" >
 
-<!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus..." >
-
+<!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus…" >
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Golygu'r ailadroddus">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nid yw'n ailadrodd">
@@ -217,7 +221,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Pythefnosol">
 <!ENTITY event.repeat.monthly.label                     "Misol">
 <!ENTITY event.repeat.yearly.label                      "Blynyddol">
-<!ENTITY event.repeat.custom.label                      "Cyfaddasu...">
+<!ENTITY event.repeat.custom.label                      "Cyfaddas…">
 
 <!ENTITY event.recurrence.pattern.label                 "Patrwm ailddigwydd">
 <!ENTITY event.recurrence.occurs.label                  "Ailadrodd" >
@@ -227,15 +231,15 @@
 <!ENTITY event.recurrence.year.label                    "blynyddol" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Pob" >
-<!ENTITY repeat.units.days.both                         "Diwrnod" >
+<!ENTITY repeat.units.days.both                         "Dydd(iau)" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Pob diwrnod wythnos" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Pob" >
-<!ENTITY repeat.units.weeks.both                        "Wythnos" >
+<!ENTITY repeat.units.weeks.both                        "Wythnos(au)" >
 <!ENTITY event.recurrence.on.label                      "Ar:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Pob" >
-<!ENTITY repeat.units.months.both                       "Mis" >
+<!ENTITY repeat.units.months.both                       "Mis(oedd)" >
 <!ENTITY event.recurrence.monthly.every.label           "Pob" >
 <!ENTITY event.recurrence.monthly.first.label           "Y Cyntaf">
 <!ENTITY event.recurrence.monthly.second.label          "Yr Ail">
@@ -250,13 +254,12 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "Iau" >
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Gwener" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sadwrn" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       "Diwrnod y Mis">
-<!ENTITY event.recurrence.repeat.recur.label            "Ail ddigwydd ar ddiwrnod">
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Diwrnod y mis">
+<!ENTITY event.recurrence.repeat.recur.label            "Ail ddigwydd ar ddydd(iau)">
 
 <!ENTITY event.recurrence.every.label                        "Pob:" >
 <!ENTITY repeat.units.years.both                             "Blwyddyn" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Pob" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -264,6 +267,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Ionawr" >
@@ -312,13 +316,13 @@
 <!ENTITY event.recurrence.appointments.label            "Apwyntiad(au)" >
 <!ENTITY event.repeat.until.label                       "Ailadrodd tan" >
 <!ENTITY event.recurrence.preview.label                 "Rhagolwg">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Gwahodd Mynychwyr">
 <!ENTITY event.organizer.label                  "Trefnydd">
 <!ENTITY event.freebusy.suggest.slot            "Cynnig cyfnod trefnu:">
-<!ENTITY event.freebusy.next.slot               "Cyfnod nesaf" >
-<!ENTITY event.freebusy.previous.slot           "Cyfnod blaenorol" >
+<!ENTITY event.freebusy.next.slot               "Cyfnod nesaf " >
+<!ENTITY event.freebusy.previous.slot           " Cyfnod blaenorol" >
 <!ENTITY event.freebusy.zoom                    "Chwyddo:">
 <!ENTITY event.freebusy.legend.free             "Rhydd" >
 <!ENTITY event.freebusy.legend.busy             "Prysur" >
@@ -333,12 +337,12 @@
 <!ENTITY event.attendee.usertype.group          "Grŵp">
 <!ENTITY event.attendee.usertype.resource       "Adnodd">
 <!ENTITY event.attendee.usertype.room           "Ystafell">
-
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Nodwch y Cylch Amser">
-<!ENTITY event.timezone.custom.label     "Rhagor o Gylchoedd Amser...">
 
+<!ENTITY timezone.title.label            "Nodwch y Cylch Amser">
+<!ENTITY event.timezone.custom.label     "Rhagor o Gylchoedd Amser…">
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "Cyffredinol">
 <!ENTITY read.only.title.label           "Teitl:">
 <!ENTITY read.only.event.start.label     "Dyddiad Cychwyn:">
@@ -359,4 +363,3 @@
 <!ENTITY read.only.description.label     "Disgrifiad">
 <!ENTITY read.only.documents.label       "Dogfennau">
 <!ENTITY read.only.link.label            "Dolenni Perthnasol">
-

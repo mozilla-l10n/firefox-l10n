@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY calendar.open.file.label                          "Agor Ffeil Calendr...">
+<!ENTITY calendar.open.file.label                          "Agor Ffeil Calendr…">
 <!ENTITY calendar.open.file.key                            "O">
 <!ENTITY calendar.open.file.accesskey                      "A">
 
-<!ENTITY event.edit.event                                  "Golygu'r Dewis...">
+<!ENTITY event.edit.event                                  "Golygu'r Dewis…">
 <!ENTITY event.edit.event.key                              "E">
 <!ENTITY event.edit.event.accesskey                        "G">
 
@@ -16,19 +16,19 @@
 <!ENTITY event.delete.tasks                                "Dileu'r Tasgau yma">
 <!ENTITY event.delete.tasks.accesskey                      "T">
 
-<!ENTITY calendar.pagesetup.label                          "Gosodiadau Tudalen...">
+<!ENTITY calendar.pagesetup.label                          "Gosodiadau Tudalen…">
 <!ENTITY calendar.pagesetup.accesskey                      "G">
 
-<!ENTITY calendar.subscribe.label                          "Tanysgrifio i Galendr Pell...">
+<!ENTITY calendar.subscribe.label                          "Tanysgrifio i Galendr Pell…">
 <!ENTITY calendar.subscribe.accesskey                      "P">
 
 <!ENTITY calendar.synccalendars.label                      "Cydweddu Calendrau">
 <!ENTITY calendar.synccalendars.key                        "R">
 <!ENTITY calendar.synccalendars.accesskey                  "y">
 
-<!ENTITY calendar.publish.calendar.label                   "Cyhoeddi Calendr...">
+<!ENTITY calendar.publish.calendar.label                   "Cyhoeddi Calendr…">
 <!ENTITY calendar.publish.calendar.accesskey               "y">
-<!ENTITY calendar.publish.selection.label                  "Cyhoeddi'r Dewis...">
+<!ENTITY calendar.publish.selection.label                  "Cyhoeddi'r Dewis…">
 <!ENTITY calendar.publish.selection.accesskey              "h">
 
 <!ENTITY calendar.quit.label                               "Gadael">
@@ -81,7 +81,7 @@
 <!ENTITY goMenu.label                                      "Mynd">
 <!ENTITY goMenu.accesskey                                  "M">
 
-<!ENTITY goDateCmd.label                                   "Dyddiad...">
+<!ENTITY goDateCmd.label                                   "Dyddiad…">
 <!ENTITY goDateCmd.accesskey                               "D">
 
 <!ENTITY toolsMenu.label                                   "Offer">
@@ -103,13 +103,13 @@
 <!ENTITY editMenu.label                                    "Golygu">
 <!ENTITY editMenu.accesskey                                "G">
 
-<!ENTITY optionsCmd.label                                  "Dewisiadau...">
+<!ENTITY optionsCmd.label                                  "Dewisiadau…">
 <!ENTITY optionsCmd.accesskey                              "D">
 
 <!ENTITY preferencesCmd.label                              "Dewisiadau">
 <!ENTITY preferencesCmd.accesskey                          "e">
-<!ENTITY preferencesCmdMac.label                           "Dewisiadau...">
-<!ENTITY preferencesCmdMac.commandkey                      "w">
+<!ENTITY preferencesCmdMac.label                           "Dewisiadau…">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
 <!ENTITY viewMenu.label                                    "Golwg">
@@ -121,20 +121,20 @@
 <!ENTITY aboutCmd.label                                    "Ynghylch &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "Y">
 
-<!ENTITY updateCmd.label                                   "Gwirio am Ddiweddariadau...">
+<!ENTITY updateCmd.label                                   "Gwirio am Ddiweddariadau…">
 <!ENTITY updateCmd.accesskey                               "G">
 
-<!ENTITY sunbird.export.calendar.label                     "Allforio Calendr...">
+<!ENTITY sunbird.export.calendar.label                     "Allforio Calendr…">
 <!ENTITY sunbird.export.calendar.accesskey                 "A">
-
 <!-- Mac OS X "Window" menu items -->
+
 <!ENTITY windowMenu.label                                  "Ffenestr">
 <!ENTITY minimizeWindow.label                              "Lleihau">
 <!ENTITY zoomWindow.label                                  "Chwyddo">
 <!ENTITY minimizeWindow.key                                "L">
 <!ENTITY bringAllToFront.label                             "Dod â'r Cyfan i'r Blaen">
-
 <!-- Mac OS X Application menu items -->
+
 <!ENTITY servicesMenuMac.label                             "Gwasanaethau">
 <!ENTITY hideThisAppCmdMac.label                           "Cuddio &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey                      "u">
@@ -143,4 +143,3 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "E">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Dangos Popeth">
-

@@ -10,4 +10,3 @@
 <!ENTITY providerUninstall.preName.label                   "Rydych wedi gofyn i ddadosod neu anablu:">
 <!ENTITY providerUninstall.postName.label                  "Bydd hyn yn achosi i'r calendrau isod gael eu hanablu.">
 <!ENTITY providerUninstall.reinstallNote.label             "Oni bai eich bod yn cynllunio i ailosod y darparwr, gallwch ddewis i ddad-danysgrifio o galendrau'r darparwr.">
-

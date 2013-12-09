@@ -1,23 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY pref.mainbox.label "Gosodiadau Cyffredinol" >
 <!ENTITY pref.dateformat.label "Fformat Testun Dyddiad:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Hir" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Byr"  >
 <!ENTITY pref.defaultlength.label "Hyd Digwyddiad Rhagosodedig:" >
 <!ENTITY pref.defaultlength.accesskey "H">
 <!ENTITY pref.defaultsnoozelength.label "Hyd Cysgu Rhagosodedig:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "C">
 
 <!ENTITY pref.accessibility.label "Hygyrchedd" >
-<!ENTITY pref.systemcolors.label "Mireinio Lliwiau ar gyfer Hygyrchedd" >
+<!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >
 <!ENTITY pref.systemcolors.accesskey "M">
-

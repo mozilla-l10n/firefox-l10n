@@ -6,7 +6,7 @@
 <!ENTITY sunbird.cut.button.tooltip                        "Torri" >
 <!ENTITY sunbird.copy.button.tooltip                       "Copïo" >
 <!ENTITY sunbird.paste.button.tooltip                      "Gludo" >
-<!ENTITY sunbird.print.button.tooltip                      "Argraffu Calendr" >
+<!ENTITY sunbird.print.button.tooltip                      "Argraffu calendr" >
 <!ENTITY sunbird.delete.button.tooltip                     "Deleu'r digwyddiadau hyn" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Ail lwytho pob calendr pell" >
 <!ENTITY sunbird.import.button.tooltip                     "Mewnforio digwyddiadau o ffeil leol" >
@@ -55,19 +55,18 @@
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 Wythnos" >
 <!ENTITY sunbird.menu.numberofweeks.5                      "5 Wythnos" >
 <!ENTITY sunbird.menu.numberofweeks.6                      "6 Wythnos" >
-
 <!-- customizable toolbars -->
-<!ENTITY sunbird.context.customize.label                   "Cyfaddasu...">
+
+<!ENTITY sunbird.context.customize.label                   "Cyfaddasu…">
 <!ENTITY sunbird.context.customize.accesskey               "y">
-<!ENTITY sunbird.menu.customize.label                      "Cyfaddasu'r Bar Offer">
+<!ENTITY sunbird.menu.customize.label                      "Cyfaddasu'r Bar Offer…">
 <!ENTITY sunbird.menu.customize.accesskey                  "O">
 <!ENTITY sunbird.maintoolbar.name                          "Prif Far Offer">
 <!ENTITY sunbird.maintoolbar.accesskey                     "M">
-
 <!-- Sunbird Help -->
+
 <!ENTITY sunbird.help.label                                "Cynnwys Cymorth">
 <!ENTITY sunbird.help.accesskey                            "h">
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title                                  "&brandFullName;">
 
+<!ENTITY mainWindow.title                                  "&brandFullName;">
