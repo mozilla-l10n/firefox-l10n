@@ -2,16 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Dewisiadau">
-<!ENTITY  prefWindow.titleGNOME   "Dewisiadau &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "Cyffredinol">
 <!ENTITY  paneAlarms.title        "Atgoffwyr">
 <!ENTITY  paneCategories.title    "Categorïau">
 <!ENTITY  paneViews.title         "Golwg">
 <!ENTITY  paneTimezones.title     "Cylch Amser">
-<!ENTITY  paneAdvanced.title      "Uwch">
-

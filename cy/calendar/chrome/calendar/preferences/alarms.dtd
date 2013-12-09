@@ -1,18 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.alarmgoesoff.label "Pan fydd Disgwyl Atgoffwr:">
 <!ENTITY pref.playasound "Canu nodyn">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Defnyddio'r sain rhagosodedig">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Pori...">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Pori…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Rhagolwg">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "R">
@@ -33,4 +33,3 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "m">
 <!ENTITY pref.defaultemail.label "Cyfeiriad rhagosodedig i anfon atgoffwyr ato:">
 <!ENTITY pref.defaulttext.label "Testun rhagosodedig ar gyfer atgoffwyr :">
-
