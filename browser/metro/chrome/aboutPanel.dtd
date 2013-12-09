@@ -6,7 +6,7 @@
 <!ENTITY aboutHeader.title          "Over">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "Van &vendorShortName;">
-<!ENTITY aboutHeader.policy.label   "Lees de &brandShortName;-Privacybeleid online">
+<!ENTITY aboutHeader.policy.label   "Lees het &brandShortName;-privacybeleid online">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Controleren op updates…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Updates zijn uitgeschakeld door uw systeembeheerder">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; wordt bijgewerkt door een andere versie">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; wordt door een ander exemplaar bijgewerkt">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -39,7 +39,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Update downloaden — ">
+<!ENTITY update.downloading.start   "Update downloaden – ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Update toepassen…">

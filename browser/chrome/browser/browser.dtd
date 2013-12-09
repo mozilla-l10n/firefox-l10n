@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserConsoleCmd.label      "Browserconsole">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.accesskey  "c">
 
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -471,7 +471,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "D">
 <!ENTITY mediaPlaybackRate.label     "Afspeelsnelheid">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.label "Slow motion (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "Normale snelheid">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
