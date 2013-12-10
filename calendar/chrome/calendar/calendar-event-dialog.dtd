@@ -228,6 +228,9 @@
 
 <!ENTITY event.reminder.multiple.label "Flere påmindelser…">
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privatliv:">
+
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Rediger gentagelse">
 
