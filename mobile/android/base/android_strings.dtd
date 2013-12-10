@@ -179,10 +179,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "Služby zisťovania polohy &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Pomáha zlepšovať služby zisťovania polohy pre otvorený web tým, že umožňuje prehliadaču &brandShortName; zbierať a odosielať anonymné celulárne informácie.">
 
-<!ENTITY pref_update_autodownload "Automatické aktualizácie">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Automaticky preberať aktualizácie">
 <!ENTITY pref_update_autodownload_wifi "Len cez sieť Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Vypnuté">
-<!ENTITY pref_update_autodownload_enabled "Zapnuté">
+<!ENTITY pref_update_autodownload_never "Nikdy">
+<!ENTITY pref_update_autodownload_always "Vždy">
 
 <!ENTITY quit "Ukončiť">
 
@@ -229,10 +232,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Upraviť">
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
+<!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
+
+<!ENTITY pref_dynamic_toolbar "Pri posúvaní skryť titulok okna">
 
 <!ENTITY history_removed "Stránka odstránená">
 
@@ -369,3 +375,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; bude teraz reštartovaný">
 <!ENTITY exit_guest_session_text "Údaje pochádzajúce z tejto relácie prehliadania budú odstránené.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Ponuka">
+<!ENTITY actionbar_done "Hotovo">

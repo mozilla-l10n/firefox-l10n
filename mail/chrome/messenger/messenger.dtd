@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Odoslať ďalej v texte">
 <!ENTITY buttonMenuForwardAsAttachment.label "Odoslať ďalej ako prílohu">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Zobraziť vzdialený obsah v tejto správe">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
+<!ENTITY remoteContentOptionAllowForAddress.label "Vždy zobraziť vzdialený obsah od tohto odosielateľa">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "d">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorovať upozornenie pre túto správu">
+<!ENTITY phishingOptionIgnore.accesskey "I">
+<!ENTITY phishingOptionDisableDetection.label "Vypnúť vyhľadávanie podvodných správ pre všetky správy">
+<!ENTITY phishingOptionDisableDetection.accesskey "V">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová správa">
 <!ENTITY appmenuNewContactCmd.label "Kontakt adresára…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "m">
 <!ENTITY contextUnmute.label "Zrušiť stlmenie">
 <!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; si myslí, že táto správa je nevyžiadaná.">
-<!ENTITY junkBarButton1.label "Nie je nevyžiadaná">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Na ochranu vášho súkromia &brandShortName; v tejto správe zablokoval vzdialený obsah.">
-<!ENTITY loadRemoteContentButton3.label "Zobraziť vzdialený obsah">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Toto môže byť podvodná správa.">
-<!ENTITY removePhishingBarButton1.label "Ignorovať upozornenie">
-<!ENTITY disablePhishingWarning1.label "Vypnúť detekciu podvodných správ pre všetky správy">
-<!ENTITY reportPhishingError1.label "Zdá sa, že toto nie je podvodná správa.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorovať">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Odoslať potvrdenie">
-<!ENTITY mdnBarSendButton2.accesskey "d">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
