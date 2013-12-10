@@ -2,6 +2,5 @@ googlemetrofx
 mailru
 ozonru
 priceru
-wikipediametrofx-ru
 yandex-slovari
 yandex
