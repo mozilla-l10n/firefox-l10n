@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "V odpovedi na">
 <!ENTITY originalWebsite4.label "Webový server">
 
-<!ENTITY editMessageDescription.label "Toto je návrh správy">
-<!ENTITY editMessageButton.label "Upraviť…">
 <!ENTITY hdrArchiveButton1.label "Archivovať">
 <!ENTITY hdrArchiveButton1.tooltip "Archivovať túto správu">
 <!ENTITY hdrSmartReplyButton1.label "Zoskupené tlačidlo Odpovedať">
