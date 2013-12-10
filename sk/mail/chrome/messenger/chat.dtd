@@ -6,7 +6,7 @@
 <!ENTITY offlineContactsHeader.label   "Kontakty offline">
 <!ENTITY conversationsHeader.label     "Konverzácie">
 <!ENTITY searchResultConversation.label "Výsledky vyhľadávania">
-<!ENTITY chat.noConv.title             "Tu sa zobrazujú konverzácie.">
+<!ENTITY chat.noConv.title             "Tu sa zobrazujú konverzácie">
 <!ENTITY chat.noConv.description       "Konverzáciu začnete použitím kontaktov v bočnom paneli.">
 <!ENTITY chat.noPreviousConv.description       "Pre tento kontakt nie sú uložené žiadne predchádzajúce konverzácie.">
 <!ENTITY chat.noAccount.title             "Zatiaľ nemáte nastavený diskusný účet.">
