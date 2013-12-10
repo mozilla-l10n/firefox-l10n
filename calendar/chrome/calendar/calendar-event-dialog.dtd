@@ -147,6 +147,16 @@
 <!ENTITY event.toolbar.spellcheck.label "Stavekontrol">
 <!ENTITY  event.toolbar.privacy.label "Privatliv">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Gem og luk">
+<!ENTITY  event.toolbar.delete.tooltip                    "Slet">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltagere">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Stavekontrol">
+<!ENTITY  event.toolbar.attachments.tooltip               "Tilføj vedhæftede filer">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Skift privatlivsindstilling">
+<!ENTITY  event.toolbar.priority.tooltip                  "Skift vigtighed">
+<!ENTITY  event.toolbar.status.tooltip                    "Skift status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Skift ledig-/optaget tid">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
 <!ENTITY event.title.textbox.accesskey "T">
