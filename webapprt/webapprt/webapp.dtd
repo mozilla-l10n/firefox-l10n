@@ -44,7 +44,7 @@
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
 <!ENTITY deleteCmd.label                    "Verwijderen">
-<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.key                      "d">
 <!ENTITY deleteCmd.accesskey                "V">
 <!ENTITY selectAllCmd.label                 "Alles selecteren">
 <!ENTITY selectAllCmd.key                   "A">
