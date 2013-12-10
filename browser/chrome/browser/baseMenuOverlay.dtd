@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Raccourcis clavier">
 <!ENTITY helpKeyboardShortcuts.accesskey "o">
 
-<!ENTITY helpSafeMode.label       "Redémarrer, modules désactivés…">
+<!ENTITY helpSafeMode.label       "Redémarrer avec les modules désactivés…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY healthReport.label       "Bilan de santé de &brandShortName;">
