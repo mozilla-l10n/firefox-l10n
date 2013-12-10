@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "個人名片 (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "待會提醒我">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "關閉">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">

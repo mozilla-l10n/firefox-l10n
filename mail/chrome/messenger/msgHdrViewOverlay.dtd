@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "回覆給">
 <!ENTITY originalWebsite4.label "網站">
 
-<!ENTITY editMessageDescription.label "這是一封草稿">
-<!ENTITY editMessageButton.label "編輯…">
 <!ENTITY hdrArchiveButton1.label "備存">
 <!ENTITY hdrArchiveButton1.tooltip "備存此訊息">
 <!ENTITY hdrSmartReplyButton1.label "智慧回覆">

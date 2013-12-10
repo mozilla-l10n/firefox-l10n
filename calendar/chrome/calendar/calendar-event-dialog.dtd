@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "拼字檢查">
 <!ENTITY  event.toolbar.privacy.label                     "隱私">
 
+<!ENTITY  event.toolbar.save.tooltip                      "儲存並關閉">
+<!ENTITY  event.toolbar.delete.tooltip                    "刪除">
+<!ENTITY  event.toolbar.attendees.tooltip                 "邀請參與者">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "拼字檢查">
+<!ENTITY  event.toolbar.attachments.tooltip               "新增附件">
+<!ENTITY  event.toolbar.privacy.tooltip                   "變更隱私性">
+<!ENTITY  event.toolbar.priority.tooltip                  "變更優先權">
+<!ENTITY  event.toolbar.status.tooltip                    "變更狀態">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "變更空閒/忙碌時間">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "標題:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "自訂…" >
 
 <!ENTITY event.reminder.multiple.label                    "多次提醒…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "時間為:">
+<!ENTITY event.statusbarpanel.privacy.label               "隱私性:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "編輯循環事件">

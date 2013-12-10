@@ -129,8 +129,10 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "新增條件式中斷點">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.sources        "來源">
+<!ENTITY debuggerUI.tabs.callstack      "呼叫堆疊">
 <!ENTITY debuggerUI.tabs.variables      "變數">
 <!ENTITY debuggerUI.tabs.events         "事件">
 
