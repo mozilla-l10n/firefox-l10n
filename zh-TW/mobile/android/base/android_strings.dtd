@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName; 地理位置服務">
 <!ENTITY datareporting_wifi_summary "請讓 &brandShortName; 取得並匿名地傳送數據網路的基地台資料，幫助我們改善開放網路的地理位置">
 
-<!ENTITY pref_update_autodownload "自動更新">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "自動下載更新">
 <!ENTITY pref_update_autodownload_wifi "僅透過 Wi-Fi 連線">
-<!ENTITY pref_update_autodownload_disabled "停用">
-<!ENTITY pref_update_autodownload_enabled "啟用">
+<!ENTITY pref_update_autodownload_never "永不">
+<!ENTITY pref_update_autodownload_always "總是">
 
 <!ENTITY quit "離開">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "編輯">
 <!ENTITY contextmenu_top_sites_pin "釘選網站">
 <!ENTITY contextmenu_top_sites_unpin "解除釘選網站">
+<!ENTITY contextmenu_add_search_engine "新增搜尋引擎">
 
 <!ENTITY pref_titlebar_mode "標題列">
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
 <!ENTITY pref_titlebar_mode_url "顯示頁面地址">
+
+<!ENTITY pref_dynamic_toolbar "捲動時隱藏標題列">
 
 <!ENTITY history_removed "已移除頁面">
 
@@ -368,4 +374,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; 現在將會重新啟動">
 <!ENTITY exit_guest_session_text "此瀏覽階段中的瀏覽資料將會被清除。">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "選單">
+<!ENTITY actionbar_done "完成">
 

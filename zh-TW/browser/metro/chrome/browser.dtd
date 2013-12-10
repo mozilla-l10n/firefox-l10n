@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "您的結果">
 
-<!ENTITY appbarErrorConsole.label   "開啟錯誤主控台">
-<!ENTITY appbarJSShell.label        "開啟 JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "在頁面中搜尋">
-<!ENTITY appbarViewOnDesktop2.label "用桌面模式檢視">
-<!ENTITY appbarMSMetaData2.label    "取得此網站的應用程式">
+<!ENTITY appbarErrorConsole.label      "開啟錯誤主控台">
+<!ENTITY appbarJSShell.label           "開啟 JavaScript shell">
+<!ENTITY appbarFindInPage2.label       "在頁面中搜尋">
+<!ENTITY appbarRelaunchInDesktop.label "在桌面中重新啟動">
+<!ENTITY appbarMSMetaData2.label       "取得此網站的應用程式">
+<!ENTITY appbarViewPageSource.label    "檢視頁面原始碼">
 
 <!ENTITY topSitesHeader.label        "最常瀏覽">
 <!ENTITY bookmarksHeader.label       "書籤">
@@ -108,4 +109,25 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "在找您的分頁嗎？只要向下拉或按右鍵">
+<!ENTITY firstRunTopSites.label "前往您最近瀏覽的網站">
+<!ENTITY firstRunBookmarks.label "尋找您儲存稍後再讀的頁面">
+<!ENTITY firstRunMenu.label "存取更多功能與選項">
+<!ENTITY firstRunHistory.label "看看您曾經瀏覽過那些網頁">
+<!ENTITY firstRunWelcome.label "歡迎使用 &brandShortName;">
+<!ENTITY firstRunDifferent.label "從設計開始就與眾不同">
 
