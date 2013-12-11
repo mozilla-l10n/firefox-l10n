@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Chcete odesílat organizaci Mozilla hlášení o pádu?">
+<!ENTITY crashprompt.message         "Omlouváme se, aplikace &brandShortName; byla právě obnovena po pádu. Odesláním hlášení o pádu pomůžete organizaci Mozilla vylepšit stabilitu a bezpečnost aplikace &brandShortName;. Vaše nastavení lze změnit v Nastavení/Možnosti.">
+<!ENTITY crashprompt.detailsLink     "Co je součástí hlášení o pádu?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Hlášení o pádu obsahuje některé detaily o pádu, vašem zařízení a též informace o stavu prohlížeče v době pádu.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Může se jednat o věci jako informace o otevřených stránkách, zadaném textu do formulářů či obsah otevřených zpráv, nedávno navštívených stránkách či informace o vašem umístění, která byla sdílena se stránkou.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Informace o pádech používáme pro opravu problémů a vylepšování našich produktů. S informacemi pracujeme tak, jak je popsáno v našich ">
+<!ENTITY crashprompt.privacyPolicyLink "zásadách ochrany soukromí aplikace &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Zahrnout adresu stránky, která byla navštívena">
+<!ENTITY crashprompt.acceptbutton    "Odeslat hlášení">
+<!ENTITY crashprompt.refusebutton    "Neodesílat hlášení">
+<!ENTITY crashprompt.privacyPolicy.title "Zásady ochrany soukromí aplikace &brandShortName;">
