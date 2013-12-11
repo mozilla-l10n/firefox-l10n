@@ -9,6 +9,7 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Attiva/disattiva isolamento sorgenti">
 <!ENTITY debuggerUI.sources.prettyPrint "Formatta sorgente">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Attiva/disattiva tutti i punti di interruzione">
 <!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
 <!ENTITY debuggerUI.pauseExceptions.key "M">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignora eccezioni individuate">
