@@ -34,5 +34,6 @@
 <!ENTITY doNotTrack.learnMoreLink                                "Pelajari Selengkapnya&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Pelapor Kerusakan">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; mengirimkan laporan mogok untuk membantu  Mozilla make agar membuat peramban lebih aman dan stabil">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Sertakan alamat laman saat mogok terjadi">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
 <!ENTITY optionsHeader.telemetry.label                            "Bagikan statistik penggunaan &brandShortName; dengan Mozilla untuk membantu menyempurnakan peramban Anda">
