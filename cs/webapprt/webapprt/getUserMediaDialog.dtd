@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                 "Sdílení média">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Sdílet">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Zrušit">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "Z">
+<!ENTITY getUserMediaDialog.button.accept.label     "Sdílet">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Zrušit">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "Z">
 
 <!ENTITY getUserMediaDialog.video.label           "Zvolte kameru">
 <!ENTITY getUserMediaDialog.video.noVideo         "Žádné video">
