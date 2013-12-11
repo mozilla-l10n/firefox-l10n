@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName; positionstjenester">
 <!ENTITY datareporting_wifi_summary "Hjælp med til at forbedre positionstjenester på det åbne web ved at lade &brandShortName; indsamle og sende anonyme oplysninger om mobilmaster.">
 
-<!ENTITY pref_update_autodownload "Automatiske opdateringer">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Hent automatisk opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Deaktiveret">
-<!ENTITY pref_update_autodownload_enabled "Aktivere">
+<!ENTITY pref_update_autodownload_never "Aldrig">
+<!ENTITY pref_update_autodownload_always "Altid">
 
 <!ENTITY quit "Afslut">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Rediger">
 <!ENTITY contextmenu_top_sites_pin "Fastgør websted">
 <!ENTITY contextmenu_top_sites_unpin "Frigør websted">
+<!ENTITY contextmenu_add_search_engine "Tilføj en søgetjeneste">
 
 <!ENTITY pref_titlebar_mode "Titellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidens titel">
 <!ENTITY pref_titlebar_mode_url "Vis sidens adresse">
+
+<!ENTITY pref_dynamic_toolbar "Skjul titellinje ved scrolling">
 
 <!ENTITY history_removed "Side fjernet">
 
@@ -372,3 +378,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session_title "&brandShortName; bliver nu genstartet">
 <!ENTITY exit_guest_session_text "Dine browsing-data fra denne session vil blive slettet.">
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Menu">
+<!ENTITY actionbar_done "Færdig">
