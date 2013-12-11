@@ -94,3 +94,8 @@
 
 <!ENTITY documentationLink.label      "Smilškastes palīdzība MDN">
 <!ENTITY documentationLink.accesskey  "D">
+
+<!ENTITY evalFunction.label "Novērtēt funkciju">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
+

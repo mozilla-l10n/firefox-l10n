@@ -6,7 +6,7 @@
 <!ENTITY index.projects2 "Aplikācijas">
 <!ENTITY index.device2 "Ierīce">
 <!ENTITY index.help "Palīdzība">
-
+ <!ENTITY device.plain "Parasta (noklusētais)">
 <!ENTITY device.screenshot "Ekrānattēls">
 <!ENTITY device.screenshotTooltip "Atvērt ierīces pašreizējā stāvokļa ekrāna attēlu jaunā cilnē.">
 <!ENTITY device.title "Ierīces kontroles centrs">
@@ -19,7 +19,6 @@
 <!ENTITY device.debugApp "Atkļūdošana">
 <!ENTITY device.debugAppTooltip "Atvērt izstrādātāju rīkus, kas būtu savienoti ar aplikāciju šajā ierīcē.">
 <!ENTITY device.name "Nosaukums">
-<!ENTITY device.app "Aplikācija">
 <!ENTITY device.privileged "Priviliģēta">
 <!ENTITY device.certified "Sertificēta">
 <!ENTITY device.allow "Atļaut">
@@ -79,6 +78,12 @@
 <!ENTITY projects.debugAppTooltip "Atvērt šai aplikācijai pievienotos izstrādātāju rīkus">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nav neviena projekta. Pievienojiet jaunu pakoto (mapi no datora) vai attālināto (saiti uz manifest failu) aplikāciju.">
+<!ENTITY projects.valid "Korekts">
+<!ENTITY projects.error "Kļūda">
+<!ENTITY projects.warning "Brīdinājums">
+<!ENTITY projects.saveManifest "Saglabāt">
+<!ENTITY projects.saveManifestTooltip "Saglabāt manifesta redaktora saturu.">
+
 
 <!ENTITY help.title "Aplikāciju pārvaldnieks">
 <!ENTITY help.close "Aizvērt">

@@ -72,3 +72,42 @@
 <!ENTITY languages.customize.Fallback.label       "Rezerves rakstzīmju kodējums:">
 <!ENTITY languages.customize.Fallback.accesskey   "k">
 <!ENTITY languages.customize.Fallback.desc        "Šis rakstzīmju kodējums tiks izmantots saturam, kurš neziņos par savu rakstu zīmju kodējumu.">
+
+<!ENTITY languages.customize.Fallback.auto        "Noklusētie izvēlētajai valodai">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+    Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+<!ENTITY languages.customize.Fallback.arabic      "Arābu">
+<!ENTITY languages.customize.Fallback.baltic      "Baltu">
+<!ENTITY languages.customize.Fallback.ceiso       "Centrāleiropas, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Centrāleiropas, Microsoft">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Ķīniešu, vienkāršotais">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "Ķīniešu, tradicionālais">
+<!ENTITY languages.customize.Fallback.cyrillic    "Kirilicas">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+    Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Grieķu">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Ebreju">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Japāņu">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Korejiešu">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tai">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turku">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Vjetnamiešu">
+<!ENTITY languages.customize.Fallback.other       "Citi (ieskaitot Rietumeiropas)">
+
