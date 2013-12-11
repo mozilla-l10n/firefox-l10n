@@ -32,6 +32,7 @@
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sūtīt avārijas ziņojumus, lai palīdzētu Mozilla padarīt jūsu pārlūku stabilāku un drošāku">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
 <!ENTITY optionsHeader.telemetry.label                            "Dalīties ar  &brandShortName; izmantošanas statistiku, lai Mozilla varētu padarīt jūsu pārlūku vēl labāku">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Iekļaut atvērtās lapas adresi">
 
 
 <!ENTITY doNotTrack.options.doNotTrack                           "Teikt lapām, ka es negribu, lai mani izseko">

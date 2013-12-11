@@ -31,7 +31,6 @@
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY devToolboxMenuItem.label          "Ieslēgt rīkus">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 <!ENTITY devtoolsConnect.label        "Pieslēgties…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -177,8 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "P">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY chromeDebuggerMenu.label       "Pārlūka atkļūdotājs">
-<!ENTITY chromeDebuggerMenu.accesskey   "k">
 <!ENTITY  closeTabsToTheEnd.label            "Aizvērt visas cilnes pa labi">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 
@@ -186,7 +183,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
       localized title of this SUMO article
       https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!ENTITY identity.help.tooltip "How do I tell if my connection to a website is secure?">
-
+<!ENTITY browserToolboxMenu.label     "Pārlūka rīki">
+<!ENTITY browserToolboxMenu.accesskey "r">
+<!ENTITY switchToMetroCmd.label       "Atvērt &brandShortName; Windows 8 stilā">
 
 <!ENTITY newPrivateWindow.label     "Jauns privātais logs">
 <!ENTITY newPrivateWindow.accesskey "v">

@@ -19,7 +19,7 @@
 
 <!ENTITY colors.label "Krāsas...">
 <!ENTITY colors.accesskey "K">
-
+<!ENTITY  popups.label                "Uzlecošie logi">
 
 <!ENTITY languages.label "Valodas">
 <!ENTITY chooseLanguage.label "Izvēlieties vēlamo valodu, kādā attēlot lapas">

@@ -16,8 +16,8 @@
 <!ENTITY appbarErrorConsole.label   "Atvērt kļūdu konsoli">
 <!ENTITY appbarJSShell.label        "Atvērt JavaScript konsoli">
 <!ENTITY appbarFindInPage2.label    "Atrast lapā">
-<!ENTITY appbarViewOnDesktop2.label "Skatīt uz datora">
 <!ENTITY appbarMSMetaData2.label    "Iegūt šīs lapas aplikāciju">
+<!ENTITY appbarRelaunchInDesktop.label "Aplūkot datora režīmā">
 
 <!ENTITY topSitesHeader.label        "Populārākās lapas">
 <!ENTITY bookmarksHeader.label       "Grāmatzīmes">
@@ -35,6 +35,7 @@
 <!ENTITY narrowBookmarksHeader.label     "Grāmatzīmes">
 <!ENTITY narrowRecentHistoryHeader.label "Nesenā vēsture">
 <!ENTITY narrowRemoteTabsHeader.label    "Attālinātās cilnes">
+<!ENTITY appbarViewPageSource.label    "Aplūkot lapas pirmkodu">
 
 <!ENTITY downloadsHeader.label     "Lejupielādes">
 <!ENTITY downloadShowPage.label    "Iet uz lapu">
@@ -108,3 +109,12 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!ENTITY firstRunTabs.label "Meklējiet savas cilnes? Pavelciet uz leju vai uzklikšķiniet ar labo taustiņu">
+<!ENTITY firstRunTopSites.label "Ejiet uz biežāk apmeklētajām lapām">
+<!ENTITY firstRunBookmarks.label "Atrodiet lapas, kas saglabātas vēlākam laikam">
+<!ENTITY firstRunMenu.label "Izmantojiet vairāk iespēju un iestatījumu">
+<!ENTITY firstRunHistory.label "Redziet, kur tīmeklī esat bijis">
+<!ENTITY firstRunWelcome.label "Laipni lūgti &brandShortName;">
+<!ENTITY firstRunDifferent.label "Atšķirīgi pēc būtības">
+

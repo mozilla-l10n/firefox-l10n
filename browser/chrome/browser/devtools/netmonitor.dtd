@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-<!ENTITY netmonitorUI.toolbar.status      "√">
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
@@ -152,6 +152,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
+<!ENTITY netmonitorUI.footer.clear  "Notīrīt">
 
 <!ENTITY netmonitorUI.context.newTab      "Atvērt jaunā cilnē">
 <!ENTITY netmonitorUI.context.newTab.accesskey  "j">

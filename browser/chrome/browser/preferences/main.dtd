@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label "Lejupielādes">
 
-<!ENTITY showWhenDownloading.label "Lejupielādējot failu, rādīt lejupielāžu logu">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "Aizvērt to, kad visas lejupielādes ir pabeigtas">
-<!ENTITY closeWhenDone.accesskey "k">
 <!ENTITY saveTo.label "Vieta, kur saglabāt failus:">
 <!ENTITY saveTo.accesskey "g">
 <!ENTITY chooseFolderWin.label "Pārlūkot...">

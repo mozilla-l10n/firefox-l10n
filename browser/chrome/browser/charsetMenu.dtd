@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY charsetMenu.label             "Simbolu kodējums">
+<!ENTITY charsetMenu.accesskey         "S">
+<!ENTITY charsetMenuAutodet.label      "Noteikt automātiski">
+<!ENTITY charsetMenuAutodet.accesskey  "t"><!-- A reserved for Arabic -->
+
+<!ENTITY charsetMenuAutodet.off.label     "(izslēgts)">
+<!ENTITY charsetMenuAutodet.off.accesskey "i">
+<!ENTITY charsetMenuAutodet.ja.label      "Japāņu">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
+<!ENTITY charsetMenuAutodet.ru.label      "Krievu">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "K">
+<!ENTITY charsetMenuAutodet.uk.label      "Ukraiņu">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
+
+

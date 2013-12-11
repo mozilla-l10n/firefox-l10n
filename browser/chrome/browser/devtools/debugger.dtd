@@ -124,9 +124,8 @@
 <!ENTITY debuggerUI.focusVariables      "Fokusēt mainīgo koku">
 <!ENTITY debuggerUI.focusVariables.key  "m">
 
-
-
-
+<!ENTITY debuggerUI.tabs.callstack      "Izsaukumu kopa">
+<!ENTITY debuggerUI.tabs.sources        "Pirmkodi">
 
 
 
