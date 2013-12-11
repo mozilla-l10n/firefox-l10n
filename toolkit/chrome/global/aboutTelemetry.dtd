@@ -44,12 +44,8 @@
   Histogram insamlade av tillägg
 ">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Klicka för att fälla ut sektion
-">
-
-<!ENTITY aboutTelemetry.toggleOff "
-  Klicka för att fälla ihop sektion
+<!ENTITY aboutTelemetry.toggle "
+  Klicka för att öppna/stänga sektion
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
@@ -66,4 +62,8 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "
   Visa rådata från hängningar
+">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filter (strängar eller /regexp/)
 ">
