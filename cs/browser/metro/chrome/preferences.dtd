@@ -34,5 +34,6 @@
 <!ENTITY doNotTrack.learnMoreLink                                "Zjistit více&#x2026;">
 <!ENTITY optionsHeader.reporting.title                           "Hlášení pádů">
 <!ENTITY optionsHeader.reporting.crashes.label                   "Aplikace &brandShortName; odesílá hlášení o pádu, které pomáhají Mozille vytvářet váš prohlížeč stabilní a bezpečný">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Zahrnout adresu, která byla navštívena">
 <!ENTITY optionsHeader.telemetry.title                            "Vzdálené měření">
 <!ENTITY optionsHeader.telemetry.label                            "Sdílí statistiky používání aplikace &brandShortName; s Mozillou, které pomáhají vylepšovat váš prohlížeč">
