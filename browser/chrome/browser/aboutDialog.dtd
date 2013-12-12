@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY aboutDialog.title "&brandFullName;">
+<!ENTITY update.updateButton.label "Riavvia per aggiornare">
+<!ENTITY update.updateButton.accesskey "R">
+<!ENTITY update.applyButtonBillboard.label "Installa aggiornamento…">
+<!ENTITY update.applyButtonBillboard.accesskey "n">
 <!ENTITY warningDesc.version "&brandShortName; è una versione sperimentale e potrebbe risultare instabile.">
 <!ENTITY warningDesc.telemetryDesc "Dati relativi a prestazioni, caratteristiche hardware, utilizzo delle funzionalità e personalizzazioni del browser vengono inviati automaticamente a &vendorShortName; per contribuire al miglioramento di &brandShortName;.">
 <!ENTITY community.exp.start "">
@@ -22,7 +26,6 @@
 <!ENTITY bottomLinks.rights "Diritti dell'utente finale">
 <!ENTITY bottomLinks.privacy "Informativa sulla privacy">
 <!ENTITY update.checkingForUpdates "Ricerca aggiornamenti…">
-<!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
 <!ENTITY update.adminDisabled "Aggiornamenti disattivati dall'amministratore di sistema">
 <!ENTITY update.otherInstanceHandlingUpdates "Aggiornamento di &brandShortName; in corso in un'altra istanza">
