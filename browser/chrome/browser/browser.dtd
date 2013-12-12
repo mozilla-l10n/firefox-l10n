@@ -17,6 +17,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
+<!ENTITY appmenu.title                       "Personnaliser et contrôler &brandFullName;">
+<!ENTITY navbarOverflow.label                "Outils supplémentaires…">
+
 <!-- Tab context menu -->
 <!ENTITY reloadTab.label "Actualiser l'onglet">
 <!ENTITY reloadTab.accesskey "A">
@@ -185,6 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non triés">
+<!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -340,7 +344,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Édition">
 <!ENTITY appMenuCustomize.label "Personnaliser">
+<!ENTITY appMenuCustomizeExit.label "Personnalisation terminée">
+<!ENTITY appMenuHistory.label "Historique">
+<!ENTITY appMenuHistory.showAll.label "Afficher l'historique">
+<!ENTITY appMenuHistory.clearRecent.label "Effacer l'historique récent…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
 
+<!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d'outils">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Ajouter au menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Retirer de la barre d'outils">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Retirer du menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Ajouter plus d'éléments…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY appMenuToolbarLayout.label "Personnaliser les barres d'outils…">
 <!ENTITY appMenuSidebars.label "Panneau latéral">
 <!ENTITY appMenuFind.label "Rechercher dans la page…">
@@ -356,6 +375,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Aller à l'onglet :">
+
+<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
+     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
+     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -681,6 +706,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "En savoir plus…">
 <!ENTITY social.learnMore.accesskey "s">
 <!ENTITY social.closeNotificationItem.label "Plus tard">
+
+
+<!ENTITY customizeMode.tabTitle "Personnaliser &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menu et barres d'outils">
+<!ENTITY customizeMode.menuAndToolbars.header "Outils supplémentaires à ajouter au menu et aux barres d'outils">
+<!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
