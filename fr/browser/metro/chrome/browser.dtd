@@ -33,7 +33,7 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 <!ENTITY narrowTopSitesHeader.label      "Plus visités">
-<!ENTITY narrowBookmarksHeader.label     "Marques-pages">
+<!ENTITY narrowBookmarksHeader.label     "Marque-pages">
 <!ENTITY narrowRecentHistoryHeader.label "Historique récent">
 <!ENTITY narrowRemoteTabsHeader.label    "Onglets distants">
 
