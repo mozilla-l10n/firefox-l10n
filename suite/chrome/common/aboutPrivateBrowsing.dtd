@@ -2,17 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title        "Privater Modus">
-<!-- LOCALIZATION NOTE: The experimental title is temporary -->
-<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; ist derzeit eine experimentelle Funktion.">
-<!ENTITY privatebrowsingpage.description  "In einem privaten Fenster wird &brandShortName; keinerlei Festplatten-Cache, Cookies, oder Browser-, Such-, Download- oder Webformular-Chronik anlegen. Allerdings werden heruntergeladene Dateien und Lesezeichen weiterhin gespeichert.">
-<!ENTITY privatebrowsingpage.moreinfo     "Während auf diesem Computer keine Spuren Ihrer Browserchronik gespeichert werden, kann Ihr Internetanbieter oder Ihr Arbeitgeber trotzdem nachverfolgen, welche Seiten Sie besuchen.">
+<!-- LOCALIZATION NOTE: where ".private" and ".normal" variants exist,
+   - the former is shown in a private browsing window and the latter in
+   - a regular (non-private) browsing window. -->
+
+<!ENTITY privatebrowsingpage.title.private       "Sie sind in einem privaten Fenster.">
+<!ENTITY privatebrowsingpage.title.normal        "Soll der private Modus gestartet werden?">
+
+<!ENTITY privatebrowsingpage.status.private      "&brandShortName; wird keine Chronik für dieses Fenster speichern.">
+<!ENTITY privatebrowsingpage.status.normal       "Sie sind derzeit in keinem privaten Fenster.">
+
+<!ENTITY privatebrowsingpage.common.description  "In einem privaten Fenster behält &brandShortName; keine Browser-, Such-, Download-, oder Webformular-Chronik, Cookies oder temporäre Internetdateien. Erstelle Lesezeichen und heruntergeladene Dateien werden aber behalten.">
+<!ENTITY privatebrowsingpage.track.warn          "Während dieser Computer keine Aufzeichnungen Ihrer Browser-Chronik behält, kann Ihr Arbeitgeber oder Internetanbieter möglicherweise noch immer mitverfolgen, welche Seiten Sie besuchen.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Weitere Informationen">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "W">
-<!ENTITY privatebrowsingpage.private      "&brandShortName; wird keinerlei Chronik für diese Sitzung anlegen. Schließen Sie das Fenster, um den privaten Modus zu beenden.">
-<!ENTITY privatebrowsingpage.switch.label        "Auf ein normales Fenster umschalten">
-<!ENTITY privatebrowsingpage.switch.accesskey    "n">
-<!ENTITY privatebrowsingpage.normal       "Sie verwenden den privaten Modus derzeit nicht.">
+
+<!ENTITY privatebrowsingpage.close.info          "Wenn Sie fertig sind, schließen Sie das Fenster, um den privaten Modus zu beenden.">
+<!ENTITY privatebrowsingpage.close.label         "Dieses Fenster jetzt schließen">
+<!ENTITY privatebrowsingpage.close.accesskey     "D">
+
+<!ENTITY privatebrowsingpage.start.info          "Um den privaten Modus zu starten, klicken Sie auf die Schaltfläche unten oder wählen Sie Datei ▶ Neu ▶ Privates Fenster von Menü.">
 <!ENTITY privatebrowsingpage.private.label       "Ein neues privates Fenster öffnen">
 <!ENTITY privatebrowsingpage.private.accesskey   "p">
-<!ENTITY privatebrowsingpage.info         "Um den privaten Modus zu starten, können Sie auch Datei ― Neu ― Privates Fenster wählen.">
