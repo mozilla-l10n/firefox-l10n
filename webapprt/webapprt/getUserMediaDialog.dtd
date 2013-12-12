@@ -6,10 +6,11 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                 "Mēdiju koplietošana">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Kopīgot">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "k">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Atcelt">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "c">
+<!ENTITY getUserMediaDialog.button.accept.label     "Kopīgot">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "K">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Atcelt">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "c">
+
 
 <!ENTITY getUserMediaDialog.video.label           "Izvēlieties kameru">
 <!ENTITY getUserMediaDialog.video.noVideo         "Nav video">
