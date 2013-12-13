@@ -146,6 +146,16 @@
 <!ENTITY event.toolbar.spellcheck.label "Kontrola pravopisu">
 <!ENTITY event.toolbar.privacy.label "Soukromí">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Uloží a zavře">
+<!ENTITY  event.toolbar.delete.tooltip                    "Smaže">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Pozve účastníky">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Zkontroluje pravopis">
+<!ENTITY  event.toolbar.attachments.tooltip               "Přidá přílohy">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Změní soukromí">
+<!ENTITY  event.toolbar.priority.tooltip                  "Změní prioritu">
+<!ENTITY  event.toolbar.status.tooltip                    "Změní stav">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Změní nastavení doby volna/práce">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Název:">
 <!ENTITY event.title.textbox.accesskey "N">
