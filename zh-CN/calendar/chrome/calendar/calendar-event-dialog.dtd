@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "拼写检查">
 <!ENTITY  event.toolbar.privacy.label                     "隐私">
 
+<!ENTITY  event.toolbar.save.tooltip                      "保存并关闭">
+<!ENTITY  event.toolbar.delete.tooltip                    "删除">
+<!ENTITY  event.toolbar.attendees.tooltip                 "邀请参与者">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "拼写检查">
+<!ENTITY  event.toolbar.attachments.tooltip               "添加附件">
+<!ENTITY  event.toolbar.privacy.tooltip                   "更改隐私设定">
+<!ENTITY  event.toolbar.priority.tooltip                  "更改优先级">
+<!ENTITY  event.toolbar.status.tooltip                    "更改状态">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "更改忙/闲时间">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "标题：" >
 <!ENTITY event.title.textbox.accesskey                    "I">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "定制…" >
 
 <!ENTITY event.reminder.multiple.label                    "多重提醒器…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "标记时间为：">
+<!ENTITY event.statusbarpanel.privacy.label               "隐私政策：">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "编辑重复事件">
