@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "安装附加组件">
-<!ENTITY intro           "在您计算机上的另一个程序想要修改 &brandShortName; 的以下附加组件：">
-<!ENTITY warning         "仅安装您所信任的作者的附加组件。">
+<!ENTITY intro           "在您计算机上的另一个程序想要修�&brandShortName; 的以下附加组件：">
+<!ENTITY warning         "仅安装您所信任的作者的附加组件�>
 <!ENTITY allow           "允许此次安装">
-<!ENTITY later           "您随时都可以去附加组件管理器改变您的决定。">
+<!ENTITY later           "您随时都可以去附加组件管理器改变您的决定�>
 <!ENTITY continue        "继续">
-<!ENTITY restartMessage  "您必须重新启动 &brandShortName; 以完成此附加组件的安装。">
+<!ENTITY restartMessage  "您必须重新启�&brandShortName; 以完成此附加组件的安装�>
 <!ENTITY restartButton   "重启 &brandShortName;">
 <!ENTITY cancelButton    "取消">

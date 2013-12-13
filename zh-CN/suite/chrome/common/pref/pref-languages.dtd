@@ -18,7 +18,7 @@
 <!ENTITY languages.customize.active.accesskey           "L">
 <!ENTITY languages.customize.others.label               "其他：">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Fallback.grouplabel        "传统内容的字符编码">
+<!ENTITY languages.customize.Fallback.grouplabel        "老式内容的字符编码">
 <!ENTITY languages.customize.Fallback.label             "后备字符编码：">
 <!ENTITY languages.customize.Fallback.accesskey         "C">
 <!ENTITY languages.customize.Fallback.desc              "为没有或声明编码失败的内容使用。">

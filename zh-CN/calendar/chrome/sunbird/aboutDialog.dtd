@@ -9,8 +9,7 @@
 <!ENTITY aboutLink.label        "&lt; 关于 &brandFullName;">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "版本">
-<!ENTITY copyrightText          "&#169;1998-2008 贡献者版权所有. Mozilla Sunbird, Sunbird, 和
-                                 Sunbird 图标属于 Mozilla 基金会版权所有.">
+<!ENTITY copyrightText          "&#169;1998-2008 贡献者版权所有。Mozilla Sunbird、Sunbird 和 Sunbird 图标均属于 Mozilla 基金会版权所有。">
 
 <!ENTITY brandMotto       "是时候了">
 <!ENTITY credit.thanks    "特别致谢">
