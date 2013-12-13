@@ -10,7 +10,7 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "书签">
 <!ENTITY  history_title "历史">
-<!ENTITY  reading_list_title "正在读取列表">
+<!ENTITY  reading_list_title "阅读列表">
 
 <!ENTITY  switch_to_tab "切换到标签页">
 
@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName; 位置服务">
 <!ENTITY datareporting_wifi_summary "允许 &brandShortName; 收集并发送匿名的蜂窝基站数据以帮助改善开放网络的地理定位服务">
 
-<!ENTITY pref_update_autodownload "自动更新">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "自动下载更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "已停用">
-<!ENTITY pref_update_autodownload_enabled "已启用">
+<!ENTITY pref_update_autodownload_never "总不">
+<!ENTITY pref_update_autodownload_always "总是">
 
 <!ENTITY quit "退出">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "编辑">
 <!ENTITY contextmenu_top_sites_pin "固定网站">
 <!ENTITY contextmenu_top_sites_unpin "解除网站固定">
+<!ENTITY contextmenu_add_search_engine "添加搜索引擎">
 
 <!ENTITY pref_titlebar_mode "标题栏">
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
 <!ENTITY pref_titlebar_mode_url "显示页面地址">
+
+<!ENTITY pref_dynamic_toolbar "滚动时隐藏标题栏">
 
 <!ENTITY history_removed "页面已移除">
 
@@ -286,7 +292,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "提示：长按标题栏中出现的 &#37; 图标保存文章到您的阅读列表。">
+<!ENTITY home_reading_list_hint "提示：长按标题栏中出现的 &#37;I 图标保存文章到您的阅读列表。">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "提示：长按标题栏中出现的阅读模式按钮保存文章到您的阅读列表。">
@@ -368,3 +374,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; 将重新启动">
 <!ENTITY exit_guest_session_text "本次会话的浏览数据将被删除。">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "菜单">
+<!ENTITY actionbar_done "完成">
