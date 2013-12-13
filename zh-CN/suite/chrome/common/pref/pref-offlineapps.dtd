@@ -15,6 +15,6 @@
 <!ENTITY offlineNotifyPermissions.label     "权限管理">
 <!ENTITY offlineNotifyPermissions.accesskey "P">
 
-<!ENTITY offlineAppsList.label              "以下网站被允许存储供离线使用的数据：">
+<!ENTITY offlineAppsList.label              "以下网站已被允许存储供离线使用的数据：">
 <!ENTITY offlineAppsListRemove.label        "清除数据… (D)">
 <!ENTITY offlineAppsListRemove.accesskey    "d">

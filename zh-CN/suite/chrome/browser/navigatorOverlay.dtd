@@ -93,7 +93,7 @@
 <!ENTITY translateMenu.label "翻译页面">
 <!ENTITY translateMenu.accesskey "T">
 
-<!ENTITY cookieMessageTitle.label "Cookie 权限已改变">
+<!ENTITY cookieMessageTitle.label "Cookie 权限已更改">
 <!ENTITY cookieDisplayCookiesCmd.label "管理已保存的Cookie">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "M">
 <!ENTITY cookieAllowCookiesCmd.label "允许来自此站点的 Cookie">
@@ -101,7 +101,7 @@
 <!ENTITY cookieAllowCookiesMsg.label "总是允许来自此站点的 Cookie。">
 <!ENTITY cookieAllowSessionCookiesCmd.label "允许来自此站点会话中的 Cookie">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
-<!ENTITY cookieAllowSessionCookiesMsg.label "允许此站点设置 Cookie (仅当前会话)">
+<!ENTITY cookieAllowSessionCookiesMsg.label "允许此站点设置 Cookie（仅当前会话）。">
 <!ENTITY cookieCookiesDefaultCmd.label "使用默认 Cookie 权限设置">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "来自此站点的 Cookie 将依据默认设置接受或阻止。">
