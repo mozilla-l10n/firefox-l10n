@@ -40,7 +40,7 @@
 <!ENTITY cookies.tree.name.label "Cookie 名称">
 <!ENTITY cookies.tree.expires.label "过期">
 
-<!ENTITY cookies.infobox.label "已选 Cookie 的信息">
+<!ENTITY cookies.infobox.label "已选定 Cookie 的信息">
 
 <!ENTITY cookies.info.name.label "名称:">
 <!ENTITY cookies.info.value.label "内容：">

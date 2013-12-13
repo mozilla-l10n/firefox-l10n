@@ -32,7 +32,7 @@
 <!ENTITY restoreDeferred.accesskey      "O">
 
 <!ENTITY homePageIntro.label            "点击 主页 按钮打开此组页面：">
-<!ENTITY useCurrent.label               "使用当前页">
+<!ENTITY useCurrent.label               "使用当前页面">
 <!ENTITY useCurrent.accesskey           "U">
 <!ENTITY useCurrentGroup.label          "用户当前所在组">
 <!ENTITY useCurrentGroup.accesskey      "G">
