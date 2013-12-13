@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "内联转发">
 <!ENTITY buttonMenuForwardAsAttachment.label "作为附件转发">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "在这个消息中显示远程内容">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "显示这个发件者的远程内容">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "忽略这个警告消息">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "对所有消息禁用欺诈检测">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "新建消息">
 <!ENTITY appmenuNewContactCmd.label "通讯录联系人…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "恢复声音">
 <!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; 认为此邮件是垃圾邮件。">
-<!ENTITY junkBarButton1.label "非垃圾">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "为了保护您的隐私, &brandShortName; 已经禁止了这个消息中的远程内容。">
-<!ENTITY loadRemoteContentButton3.label "显示远程内容">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "此消息可能是欺诈。">
-<!ENTITY removePhishingBarButton1.label "忽略警告">
-<!ENTITY disablePhishingWarning1.label "对所有消息禁用欺诈检测">
-<!ENTITY reportPhishingError1.label "此消息可能不是欺诈。">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "忽略">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "发送回执">
-<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
