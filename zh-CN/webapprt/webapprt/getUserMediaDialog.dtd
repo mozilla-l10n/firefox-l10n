@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "媒体分享">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "分享">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "取消">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "媒体共享">
+<!ENTITY getUserMediaDialog.button.accept.label     "共享">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "取消">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-<!ENTITY getUserMediaDialog.video.label           "选择摄像头">
-<!ENTITY getUserMediaDialog.video.noVideo         "没有视频">
-<!ENTITY getUserMediaDialog.audio.label           "选择麦克风">
-<!ENTITY getUserMediaDialog.audio.noAudio         "没有音频">
+<!ENTITY getUserMediaDialog.video.label             "选择摄像头">
+<!ENTITY getUserMediaDialog.video.noVideo           "没有视频">
+<!ENTITY getUserMediaDialog.audio.label             "选择麦克风">
+<!ENTITY getUserMediaDialog.audio.noAudio           "没有音频">
