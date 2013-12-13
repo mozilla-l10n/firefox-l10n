@@ -17,7 +17,7 @@
 <!ENTITY device.stopAppTooltip "Ukončit tuto aplikaci na vašem zařízení.">
 <!ENTITY device.debugApp "Debugger">
 <!ENTITY device.debugAppTooltip "Otevře Nástroje vývojáře pro tuto aplikaci na vašem zařízení.">
-<!ENTITY device.name "Název">
+<!ENTITY device.plain "Obyčejná (výchozí)">
 <!ENTITY device.app "Aplikace">
 <!ENTITY device.privileged "Práva">
 <!ENTITY device.certified "Certifikováno">
