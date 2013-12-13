@@ -267,7 +267,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Nástroje vývojáře">
 <!ENTITY devToolboxMenuItem.accesskey      "P">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolboxMenuItem.label "Nástroje vývojáře">
