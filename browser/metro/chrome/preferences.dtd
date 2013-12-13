@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "崩溃报告程序">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; 提交崩溃报告可以帮助 Mozilla 改进浏览器，让它变得更加稳定和安全。">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "包含我所在页面的地址">
 <!ENTITY optionsHeader.telemetry.title                            "遥测技术">
-<!ENTITY optionsHeader.telemetry.label                            "与 Mozilla 分享 &brandShortName; 的使用情况以帮助我们改进浏览器">
+<!ENTITY optionsHeader.telemetry.label                            "与 Mozilla 共享 &brandShortName; 的使用情况以帮助我们改进浏览器">
