@@ -15,4 +15,4 @@
      -->
 <!ENTITY aboutAddons.goBackToStartStart "返回 ">
 <!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; 开始页">
-<!ENTITY aboutAddons.goBacktoStartEnd   ".">
+<!ENTITY aboutAddons.goBacktoStartEnd   "。">

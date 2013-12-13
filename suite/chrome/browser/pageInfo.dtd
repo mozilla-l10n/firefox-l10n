@@ -113,7 +113,7 @@
 
 <!ENTITY  securityView.privacy.header                   "隐私和历史记录">
 <!ENTITY  securityView.privacy.history                  "在今天之前我访问过这个网站吗?">
-<!ENTITY  securityView.privacy.cookies                  "此网站在我的计算机上存储了Cookie信息吗？ ">
+<!ENTITY  securityView.privacy.cookies                  "此网站在我的计算机上存储了 Cookie 信息吗？ ">
 <!ENTITY  securityView.privacy.viewCookies              "查看 Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "我保存过该网站的任何密码吗？ ">

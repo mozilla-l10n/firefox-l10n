@@ -82,7 +82,7 @@
 <!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
 <!ENTITY bookmarks.folder.desktop.label '桌面书签'>
 <!ENTITY bookmarks.folder.mobile.label '移动书签'>
-<!ENTITY bookmarks.folder.readinglist.label '正在读取列表'>
+<!ENTITY bookmarks.folder.readinglist.label '阅读列表'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label '已固定'>
 
