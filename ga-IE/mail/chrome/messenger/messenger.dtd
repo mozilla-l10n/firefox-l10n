@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Cuir Ar Aghaidh Inlíne">
 <!ENTITY buttonMenuForwardAsAttachment.label "Cuir Ar Aghaidh Mar Iatán">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "m">
 <!ENTITY contextUnmute.label "Le Fuaim">
 <!ENTITY contextUnmute.accesskey "m">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "Síleann &brandShortName; gur dramhphost í an teachtaireacht seo.">
-<!ENTITY junkBarButton1.label "Post Ceart">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Le do phríobháideachas a chosaint, chuir &brandShortName; cosc ar ábhar cianda sa teachtaireacht seo.">
-<!ENTITY loadRemoteContentButton3.label "Taispeáin Ábhar Cianda">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
-<!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
-<!ENTITY disablePhishingWarning1.label "Ná déan iarracht camscéimeanna a bhrath">
-<!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Tabhair neamhaird air">
-<!ENTITY mdnBarIgnoreButton2.accesskey "i">
-<!ENTITY mdnBarSendButton2.label "Seol Admháil Léite">
-<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

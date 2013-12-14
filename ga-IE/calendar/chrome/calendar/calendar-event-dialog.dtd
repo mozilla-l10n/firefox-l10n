@@ -143,8 +143,18 @@
 <!ENTITY event.toolbar.save.label "Sábháil agus Dún">
 <!ENTITY event.toolbar.delete.label "Scrios">
 <!ENTITY event.toolbar.attendees.label "Tabhair Cuireadh Do Rannpháirtithe">
-<!ENTITY event.toolbar.spellcheck.label "Seiceáil Litrithe">
+<!ENTITY event.toolbar.spellcheck.label "Litriú">
 <!ENTITY event.toolbar.privacy.label "Príobháideachas">
+
+<!ENTITY event.toolbar.save.tooltip "Sábháil agus Dún">
+<!ENTITY event.toolbar.delete.tooltip "Scrios">
+<!ENTITY event.toolbar.attendees.tooltip "Tabhair Cuireadh Do Rannpháirtithe">
+<!ENTITY event.toolbar.spellcheck.tooltip "Litriú">
+<!ENTITY event.toolbar.attachments.tooltip "Cuir Iatáin Leis">
+<!ENTITY event.toolbar.privacy.tooltip "Athraigh Príobháideacht">
+<!ENTITY event.toolbar.priority.tooltip "Athraigh Tosaíocht">
+<!ENTITY event.toolbar.status.tooltip "Athraigh Stádas">
+<!ENTITY event.toolbar.freebusy.tooltip "Athraigh Saor/Gafa">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label "Teideal:">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label "Saincheaptha…">
 
 <!ENTITY event.reminder.multiple.label "Meabhrúcháin iolracha…">
+
+<!ENTITY event.statusbarpanel.freebusy.label "Am mar:">
+<!ENTITY event.statusbarpanel.privacy.label "Príobháideacht:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label "Cuir Atarlú in Eagar">

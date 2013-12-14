@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title "Comhroinnt Meán">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Comhroinn">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Cealaigh">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.button.accept.label "Comhroinn">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label "Cealaigh">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "e">
 
 <!ENTITY getUserMediaDialog.video.label "Roghnaigh ceamara">
 <!ENTITY getUserMediaDialog.video.noVideo "Gan fís">

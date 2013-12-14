@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title "Tuairisceoir na gClistí">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">
 <!ENTITY optionsHeader.telemetry.title "Teiliméadracht">
 <!ENTITY optionsHeader.telemetry.label "Seol staitisticí maidir le húsáid &brandShortName; chuig Mhozilla, chun cabhrú linn feabhas a chur ar do bhrabhsálaí">

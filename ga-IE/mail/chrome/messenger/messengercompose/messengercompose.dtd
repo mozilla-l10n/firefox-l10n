@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cárta Pearsanta (v-Chárta)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Remind Me Later">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Dún">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "D">

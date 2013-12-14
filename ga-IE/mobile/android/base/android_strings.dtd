@@ -177,11 +177,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
 <!ENTITY datareporting_wifi_title "Seirbhísí geoshuite &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Tabhair cead do &brandShortName; sonraí gan ainm maidir le túir cheallacha a sheoladh chugainn. Cabhróidh sé seo linn seirbhísí geoshuite ar an nGréasán oscailte a fheabhsú.">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">
+<!ENTITY pref_update_autodownload2 "Íosluchtaigh nuashonruithe go huathoibríoch">
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
-<!ENTITY pref_update_autodownload_disabled "Díchumasaithe">
-<!ENTITY pref_update_autodownload_enabled "Cumasaithe">
+<!ENTITY pref_update_autodownload_never "Riamh">
+<!ENTITY pref_update_autodownload_always "I gCónaí">
 
 <!ENTITY quit "Scoir">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Eagar">
 <!ENTITY contextmenu_top_sites_pin "Feistigh an suíomh seo">
 <!ENTITY contextmenu_top_sites_unpin "Dífheistigh an suíomh seo">
+<!ENTITY contextmenu_add_search_engine "Cuir Inneall Cuardaigh Leis">
 
 <!ENTITY pref_titlebar_mode "Barra teidil">
 <!ENTITY pref_titlebar_mode_title "Taispeáin teideal an leathanaigh">
 <!ENTITY pref_titlebar_mode_url "Taispeáin seoladh an leathanaigh">
+
+<!ENTITY pref_dynamic_toolbar "Cuir an barra teidil i bhfolach le linn scrollaithe">
 
 <!ENTITY history_removed "Leathanach bainte">
 
@@ -275,7 +281,7 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir suíomh leis">
 
 <!ENTITY home_history_title "Stair">
-<!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
+<!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
 <!ENTITY home_last_tabs_title "Cluaisíní ón seisiún roimhe seo">
 <!ENTITY home_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
@@ -343,7 +349,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "Déan cuardach ar &formatS2; le &formatS1;">
 
-<!ENTITY webapp_generic_name "Feidhmchlár">
+<!ENTITY webapp_generic_name "Aip">
 
 <!ENTITY searchable_description "Leabharmharcanna agus stair">
 
@@ -371,3 +377,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY exit_guest_session_text "Scriosfar na sonraí brabhsála ón seisiún seo.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Roghchlár">
+<!ENTITY actionbar_done "Déanta">

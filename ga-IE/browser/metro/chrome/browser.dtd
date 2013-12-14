@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label "Oscail an consól earráide">
 <!ENTITY appbarJSShell.label "Oscail blaosc JavaScript">
 <!ENTITY appbarFindInPage2.label "Aimsigh sa leathanach">
-<!ENTITY appbarViewOnDesktop2.label "Taispeáin ar an deasc">
+<!ENTITY appbarRelaunchInDesktop.label "Atosaigh ar an Deasc">
 <!ENTITY appbarMSMetaData2.label "Faigh aip le haghaidh an tsuímh seo">
+<!ENTITY appbarViewPageSource.label "Taispeáin foinse an leathanaigh">
 
 <!ENTITY topSitesHeader.label "Barrshuímh">
 <!ENTITY bookmarksHeader.label "Leabharmharcanna">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "Ar lorg do chuid cluaisíní? Tarraing anuas nó deaschliceáil">
+<!ENTITY firstRunTopSites.label "Tabhair cuairt ar na suímh is ansa leat">
+<!ENTITY firstRunBookmarks.label "Aimsaigh na leathanaigh a shábháil tú">
+<!ENTITY firstRunMenu.label "Bain feidhm as tuilleadh gnéithe agus roghanna">
+<!ENTITY firstRunHistory.label "See where you've been on the Web">
+<!ENTITY firstRunWelcome.label "Fáilte go &brandShortName;">
+<!ENTITY firstRunDifferent.label "Difriúil, d'aon turas">
