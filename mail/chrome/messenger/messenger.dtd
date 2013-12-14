@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reencaminhar como anexo">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto nesta mensagem">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY remoteContentOptionAllowForAddress.label "Mostrar conteúdo remoto deste remetente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorar aviso para esta mensagem">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Desativar deteção de scam dpara todas as mensagens">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
 <!ENTITY appmenuNewContactCmd.label "Contacto do livro de endereços...">
@@ -788,27 +800,6 @@
 <!ENTITY contextUnmute.label "Som">
 <!ENTITY contextUnmute.accesskey "m">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "O &brandShortName; acha que mensagem é lixo eletrónico.">
-<!ENTITY junkBarButton1.label "Não é lixo">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Para proteger a sua privacidade, o &brandShortName; bloqueou o conteúdo remoto nesta mensagem.">
-<!ENTITY loadRemoteContentButton3.label "Mostrar conteúdo">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Esta mensagem pode ser uma fraude.">
-<!ENTITY removePhishingBarButton1.label "Ignorar aviso">
-<!ENTITY disablePhishingWarning1.label "Desativar deteção de fraudes em todas as mensagens">
-<!ENTITY reportPhishingError1.label "Esta mensagem não parece ser fraude.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Enviar recibo de leitura">
-<!ENTITY mdnBarSendButton2.accesskey "b">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -824,7 +815,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Procurar #1">
+<!ENTITY search.label.base "Procurar… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -843,7 +834,7 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Adicionar ao livro de endereços">
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
-<!ENTITY EditContact.label "Editar contacto...">
+<!ENTITY EditContact.label "Editar contato...">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ver contato">
 <!ENTITY ViewContact.accesskey "V">
