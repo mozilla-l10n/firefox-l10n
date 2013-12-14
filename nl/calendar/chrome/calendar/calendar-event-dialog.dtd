@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Spellingcontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Opslaan en sluiten">
+<!ENTITY  event.toolbar.delete.tooltip                    "Verwijderen">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Genodigden uitnodigen">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Spellingcontrole">
+<!ENTITY  event.toolbar.attachments.tooltip               "Bijlagen toevoegen">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Privacy wijzigen">
+<!ENTITY  event.toolbar.priority.tooltip                  "Prioriteit wijzigen">
+<!ENTITY  event.toolbar.status.tooltip                    "Status wijzigen">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Beschikbaar-/Bezet-tijd wijzigen">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Aangepast…" >
 
 <!ENTITY event.reminder.multiple.label                    "Meerdere herinneringen…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Tijd als:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacy:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Herhaling bewerken">
