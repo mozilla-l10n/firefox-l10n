@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "I bhfreagra ar:">
 <!ENTITY originalWebsite4.label "Suíomh Gréasáin">
 
-<!ENTITY editMessageDescription.label "Is dréacht é seo">
-<!ENTITY editMessageButton.label "Eagar…">
 <!ENTITY hdrArchiveButton1.label "Cuir sa Chartlann">
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachtaireacht seo sa chartlann">
 <!ENTITY hdrSmartReplyButton1.label "Freagra Cliste">
