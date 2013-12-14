@@ -19,8 +19,6 @@
 <!ENTITY messageIdField4.label "Message ID">
 <!ENTITY inReplyToField4.label "En respuesta a">
 <!ENTITY originalWebsite4.label "Sitio web">
-<!ENTITY editMessageDescription.label "Este mensaje es un borrador">
-<!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar este mensaje">
 <!ENTITY hdrSmartReplyButton1.label "Responder a interesados">

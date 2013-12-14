@@ -528,6 +528,14 @@
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú &brandShortName;">
 <!ENTITY buttonMenuForwardAsInline.label "Reenviar en el cuerpo del mensaje">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reenviar como adjunto">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar el contenido remoto en este mensaje">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY remoteContentOptionAllowForAddress.label "Mostrar el contenido remoto de este remitente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
+<!ENTITY phishingOptionIgnore.label "Ignorar advertencia en este mensaje">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Desactivar toda detección de mensajes fraudulentos">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
@@ -682,19 +690,6 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar sonido">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage2.label "&brandShortName; piensa que este mensaje es correo basura.">
-<!ENTITY junkBarButton1.label "Legítimo">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "Para proteger su privacidad, &brandShortName; ha bloqueado el contenido remoto en este mensaje.">
-<!ENTITY loadRemoteContentButton3.label "Mostrar contenido remoto">
-<!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
-<!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
-<!ENTITY disablePhishingWarning1.label "Desactivar detección de mensajes fraudulentos">
-<!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
-<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Enviar acuse de recibo">
-<!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Buscar… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">

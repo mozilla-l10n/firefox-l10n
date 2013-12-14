@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY crashprompt.title "¿Le gustaría enviar informes de fallos a Mozilla?">
+<!ENTITY crashprompt.message "Lo sentimos, &brandShortName; acaba de recuperarse de un fallo. Enviar informes de fallo ayudará a Mozilla a hacer &brandShortName; más estable y seguro. Siempre puede cambiar sus preferencias en Configuración/Opciones.">
+<!ENTITY crashprompt.detailsLink "¿Qué es un informe de fallo?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallo contiene algunos detalles sobre el fallo, su máquina, así como una instantánea del estado de su navegador cuando falló.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Esto puede incluir cosas como páginas abiertas, texto rellenado en formularios y contenido de mensajes abiertos, el historial de navegación reciente o la geolocalización compartida con un sitio.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Usamos informes de fallo para intentar arreglar problemas y mejorar nuestros productos. Manejamos su información como se describe en nuestra ">
+<!ENTITY crashprompt.privacyPolicyLink "política de privacidad de &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en la que estaba">
+<!ENTITY crashprompt.acceptbutton "Enviar informes">
+<!ENTITY crashprompt.refusebutton "No enviar">
+<!ENTITY crashprompt.privacyPolicy.title "política de privacidad de &brandShortName;">

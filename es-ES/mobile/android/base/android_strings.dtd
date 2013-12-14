@@ -132,10 +132,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title "Servicios de localización de &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ayude a mejorar los servicios de geolocalización para la web abierta permitiendo a &brandShortName; recopilar y enviar datos anónimos de las torres celulares">
-<!ENTITY pref_update_autodownload "Actualizaciones automáticas">
+<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Desactivadas">
-<!ENTITY pref_update_autodownload_enabled "Activadas">
+<!ENTITY pref_update_autodownload_never "Nunca">
+<!ENTITY pref_update_autodownload_always "Siempre">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
@@ -175,9 +175,11 @@
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Eliminar sitio fijado">
+<!ENTITY contextmenu_add_search_engine "Añadir un buscador">
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
+<!ENTITY pref_dynamic_toolbar "Ocultar barra del título al bajar por la página">
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -260,3 +262,5 @@
 <!ENTITY new_guest_session_text "La persona que lo use no podrá ver ninguno de sus datos de navegación personales (como contraseñas, historial y marcadores guardados).\n\nCuando su invitado acabe, sus datos de navegación serán eliminados y se restaurará su sesión.">
 <!ENTITY exit_guest_session_title "&brandShortName; se reiniciará ahora">
 <!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión serán eliminados.">
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Terminar">
