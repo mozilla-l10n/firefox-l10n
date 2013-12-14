@@ -29,8 +29,6 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
-<!ENTITY remindLater.label "Lembrar mais tarde">
-<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "c">
