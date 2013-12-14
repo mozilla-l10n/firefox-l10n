@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY getUserMediaDialog.title "Compartir medios">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Compartir">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "C">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Cancelar">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "a">
+<!ENTITY getUserMediaDialog.button.accept.label "Compartir">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label "Cancelar">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "a">
 <!ENTITY getUserMediaDialog.video.label "Seleccione la cámara">
 <!ENTITY getUserMediaDialog.video.noVideo "No hay vídeo">
 <!ENTITY getUserMediaDialog.audio.label "Seleccione micrófono">
