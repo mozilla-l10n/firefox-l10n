@@ -2,16 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "Navegación privada">
-<!ENTITY privatebrowsingpage.experimental "La &privatebrowsingpage.title; es en este momento una característica experimental.">
-<!ENTITY privatebrowsingpage.description "En una ventana de &privatebrowsingpage.title;, &brandShortName; no guardará ningún caché de disco, cookies ni historial del navegador, búsquedas, descargas o formularios web. Sin embargo, los archivos y marcadores descargados se seguirán guardando.">
-<!ENTITY privatebrowsingpage.moreinfo "Aunque este equipo no conservará un registro de su historial de navegación, su supervisor laboral o su proveedor de servicios de Internet aún podrían rastrear las páginas que visita.">
+<!ENTITY privatebrowsingpage.title.private "Está en una ventana de navegación privada">
+<!ENTITY privatebrowsingpage.title.normal "¿Le gustaría iniciar la navegación privada?">
+<!ENTITY privatebrowsingpage.status.private "&brandShortName; no recordará ningún historial de esta ventana.">
+<!ENTITY privatebrowsingpage.status.normal "Actualmente no está en una ventana privada.">
+<!ENTITY privatebrowsingpage.common.description "En una ventana de navegación privada, &brandShortName; no conservará ningún archivo temporal de internet, cookies ni historiales de navegación, búsquedas, descargas o formularios web. Sin embargo, los marcadores creados y los archivos descargados sí se conservarán.">
+<!ENTITY privatebrowsingpage.track.warn "Aunque este equipo no tendrá un registro de su historial de navegación, sus superiores laborales y proveedores de servicio de internet aún podrían rastrear las páginas que visite.">
 <!ENTITY privatebrowsingpage.learnmore.label "Saber más">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "S">
-<!ENTITY privatebrowsingpage.private "&brandShortName; no recordará el historial de esta ventana. Cierre la ventana para detener la  &privatebrowsingpage.title;.">
-<!ENTITY privatebrowsingpage.switch.label "Cambiar a una ventana normal">
-<!ENTITY privatebrowsingpage.switch.accesskey "C">
-<!ENTITY privatebrowsingpage.normal "En este momento no está usando la &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.close.info "Una vez termine, cierre la ventana para detener la navegación privada.">
+<!ENTITY privatebrowsingpage.close.label "Cerrar esta ventana ahora">
+<!ENTITY privatebrowsingpage.close.accesskey "C">
+<!ENTITY privatebrowsingpage.start.info "Para iniciar la navegación privada, pulse el botón de debajo o seleccione Archivo ▶ Nuevo ▶ ventana privada del menú.">
 <!ENTITY privatebrowsingpage.private.label "Abrir una nueva ventana privada">
 <!ENTITY privatebrowsingpage.private.accesskey "A">
-<!ENTITY privatebrowsingpage.info "Para iniciar la &privatebrowsingpage.title;, también puede seleccionar Archivo - Nuevo - Ventana privada.">

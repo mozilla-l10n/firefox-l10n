@@ -3,6 +3,7 @@
    - This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MainWindow.title "Depurador JavaScript">
 <!ENTITY ViewFloat.tooltip "Pulsar aquí para flotar/desflotar esta vista">
 <!ENTITY ViewGrippy.tooltip "Arrastrar barra de título para mover esta vista">

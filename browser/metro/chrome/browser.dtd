@@ -11,8 +11,9 @@
 <!ENTITY appbarErrorConsole.label "Abrir consola de errores">
 <!ENTITY appbarJSShell.label "Abrir consola de JavaScript">
 <!ENTITY appbarFindInPage2.label "Buscar en la página">
-<!ENTITY appbarViewOnDesktop2.label "Ver en el escritorio">
+<!ENTITY appbarRelaunchInDesktop.label "Relanzar en escritorio">
 <!ENTITY appbarMSMetaData2.label "Obtener aplicación para este sitio">
+<!ENTITY appbarViewPageSource.label "Ver código fuente de la página">
 <!ENTITY topSitesHeader.label "Frecuentes">
 <!ENTITY bookmarksHeader.label "Marcadores">
 <!ENTITY recentHistoryHeader.label "Historial reciente">
@@ -76,3 +77,10 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!ENTITY firstRunTabs.label "¿Busca sus pestañas? Arrastre hacia abajo o pulse con el botón derecho">
+<!ENTITY firstRunTopSites.label "Vea los sitios que más visita">
+<!ENTITY firstRunBookmarks.label "Encuentre las páginas que guardó para visitar más tarde">
+<!ENTITY firstRunMenu.label "Acceda a más características y opciones">
+<!ENTITY firstRunHistory.label "Vea qué ha visitado en la Web">
+<!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferente por definición">
