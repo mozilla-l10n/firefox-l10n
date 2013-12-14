@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Vigade raporteerimine">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; saadab vearaportid Mozillale, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
 <!ENTITY optionsHeader.telemetry.title                           "Telemeetria">
 <!ENTITY optionsHeader.telemetry.label                           "Saadab sinu brauseri kasutusstatistikat Mozillale, et aidata meil &brandShortName; paremaks teha">
