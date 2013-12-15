@@ -164,7 +164,7 @@
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "收件順序">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
-<!ENTITY sortByAttachmentsCmd.label "內含附件">
+<!ENTITY sortByAttachmentsCmd.label "附件">
 <!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortAscending.label "由小到大">
 <!ENTITY sortAscending.accesskey "A">
@@ -182,7 +182,7 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "展開所有主題">
+<!ENTITY expandAllThreadsCmd.label "展開所有討論串">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "收起所有討論串">
