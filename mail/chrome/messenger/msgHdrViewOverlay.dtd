@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label                     "Vastus-kirjale">
 <!ENTITY originalWebsite4.label                    "Veebileht">
 
-<!ENTITY editMessageDescription.label              "See kiri on mustand">
-<!ENTITY editMessageButton.label                   "Redigeeri...">
 <!ENTITY hdrArchiveButton1.label                   "Arhiveeri">
 <!ENTITY hdrArchiveButton1.tooltip                 "Arhiveeri see kiri">
 <!ENTITY hdrSmartReplyButton1.label                "Tark vastamine">
