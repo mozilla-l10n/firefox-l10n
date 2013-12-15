@@ -21,17 +21,25 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "এই সোর্সটি ব্লাক বক্সড করা হয়েছে: এর ব্রেকপয়েন্ট নিষ্ক্রিয় রয়েছে, এবং যার ফলে উপেক্ষা করে এগিয়ে যাবে।">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "এই উৎসের ব্ল্যাক বাক্সিং স্থগিত করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
 <!ENTITY debuggerUI.optsButton.tooltip  "ডিবাগার অপশন">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "টগল ব্ল্যাক বক্সিং">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "উৎস সুন্দর করুন">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -39,12 +47,14 @@
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "ধৃত ব্যতিক্রম উপেক্ষা করুন">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
 <!ENTITY debuggerUI.showPanesOnInit     "স্টার্টআপে প্যান প্রদর্শন করুন">
-
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
@@ -82,7 +92,7 @@
   -  in the source editor's context menu for the function search operation. -->
 
 <!ENTITY debuggerUI.searchFunction      "ফাংশনের ডেফিনিশন খোঁজা হবে">
-
+<!ENTITY debuggerUI.searchFunction.key  "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
@@ -118,9 +128,11 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "শর্তাধীন ব্রেকপয়েন্ট যোগ করুন">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "সোর্স">
+<!ENTITY debuggerUI.tabs.callstack      "কল ষ্ট্যাক">
 <!ENTITY debuggerUI.tabs.variables      "ভেরিয়েবল">
 <!ENTITY debuggerUI.tabs.events         "ঘটনাসমূহ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
@@ -141,10 +153,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
+
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 <!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 <!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
-
+<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
-
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">

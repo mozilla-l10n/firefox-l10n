@@ -12,7 +12,7 @@
 <!ENTITY optionsHeader.char.options.label                        "অ্যাপ বারে এনকোডিং অপশন দেখান">
 
 <!ENTITY clearPrivateData.title                                  "ব্যক্তিগত তথ্য মুছুন">
-
+<!ENTITY clearPrivateData.label                                  "এই ডিভাইস থেকে আপনার ব্রাউজিং ইতিহাস,পাসওয়ার্ড,কুকি এবং ফর্মডাটাগুলো পরিষ্কার করুন">
 <!ENTITY clearPrivateData.button                                 "মুছে ফেলুন">
 <!ENTITY clearPrivateData.done                                   "সম্পন্ন!">
 <!ENTITY clearPrivateData.history                                "ব্রাউজ ইতিহাস">
@@ -21,19 +21,20 @@
 <!ENTITY clearPrivateData.cookies                                "কুকি">
 <!ENTITY clearPrivateData.cache                                  "ক্যাশ">
 <!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসমূহ">
-
-
+<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম ও অনুসন্ধানের ইতিহাস a">
+<!ENTITY clearPrivateData.passwords                              "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY clearPrivateData.offline                                "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY clearPrivateData.logins                                 "সক্রিয় লগইন">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "পাসওয়ার্ড মনে রাখুন">
 <!ENTITY doNotTrack.title                                        "ট্র্যাক করবেন না">
-
-
-
-
+<!ENTITY doNotTrack.options.doNotTrack                           "ওয়েবসাইটদের জানান আমি অনুসরিত হতে চাই না">
+<!ENTITY doNotTrack.options.doTrack                              "ওয়েবসাইটদের জানান যে আমি অনুসরিত হতে চাই">
+<!ENTITY doNotTrack.options.default                              "ওয়েবসাইটদের আমার অনুসরণের অগ্রাধিকারের ব্যাপারে কিছু জানানো হবে না">
+<!ENTITY doNotTrack.learnMoreLink                                "আরো জানুন &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "ক্র্যাশ প্রতিবেদক">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ক্র্যাশ প্রতিবেদন জমা দিয়ে মজিলা কে সাহায্য করে, এতে আপনার ব্রাউজারে আরো স্থিতিশীল ও নিরাপদ হয়">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "আমি যে পাতায় ছিলাম সেই পাতার ঠিকানা অন্তর্ভুক্ত করো                ">
 <!ENTITY optionsHeader.telemetry.title                            "দূরমাপন">
-
+<!ENTITY optionsHeader.telemetry.label                            "brandShortName সম্পর্কিত ব্যবহার পরিসংখ্যান শেয়ার করুন; মজিলার সাথে যাতে আপনার ব্রাউজার আরও ভাল করা যায়">

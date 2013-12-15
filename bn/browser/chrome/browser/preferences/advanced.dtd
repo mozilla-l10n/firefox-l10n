@@ -90,8 +90,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateAutoMetro.label           "ডেস্কটপ s হতে স্বয়ংক্রীয় হালনাগাদ এবং brandShortName উইন্ডোজ ৮ শৈলী;">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "হালনাগাদকরণ পরীক্ষা করুন, কিন্তু ইনস্টলের পূর্বে আমাকে নিশ্চিত করতে দিন C">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
@@ -100,6 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "আমাকে সতর্ক করুন যদি এটি আমার কোন অ্যাডঅনে নিষ্ক্রিয় থাকে W">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
+<!ENTITY updateAutoMetroWarn.label       "(brandShortName উইন্ডোজ ৮ শৈলী; এড-অন সামঞ্জস্যতা পরীক্ষা করে না)">
 
 <!ENTITY updateHistory.label             "হালনাগাদের ইতিহাস প্রদর্শন P">
 <!ENTITY updateHistory.accesskey         "P">
