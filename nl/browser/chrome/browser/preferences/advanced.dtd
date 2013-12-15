@@ -17,9 +17,9 @@
 
 <!ENTITY browsing.label                  "Navigeren">
 
-<!ENTITY useAutoScroll.label             "Automatisch schuiven gebruiken">
+<!ENTITY useAutoScroll.label             "Automatisch scrollen gebruiken">
 <!ENTITY useAutoScroll.accesskey         "m">
-<!ENTITY useSmoothScrolling.label        "Vloeiend schuiven gebruiken">
+<!ENTITY useSmoothScrolling.label        "Vloeiend scrollen gebruiken">
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey          "v">
