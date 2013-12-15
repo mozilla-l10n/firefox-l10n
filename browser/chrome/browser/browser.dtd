@@ -242,11 +242,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "R">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Blaaier-ontfouter">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Sluit ontwikkelingsnutsbalk">
 <!ENTITY devToolbarMenu.label              "Ontwikkelingsnutsbalk">
@@ -257,8 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Gereedskap aan/af">
 <!ENTITY devToolboxMenuItem.accesskey      "G">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ontwikkerlaargereedskap aan/af">
 <!ENTITY devToolbarOtherToolsButton.label  "Meer gereedskap">
@@ -412,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
 <!ENTITY emailPageCmd.label           "E-pos skakel…">
 <!ENTITY emailPageCmd.accesskey       "E">
+
 <!ENTITY savePageCmd.label            "Stoor bladsy as…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->

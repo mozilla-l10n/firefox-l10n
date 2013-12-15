@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Omvalrapporteerder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; dien omvalverslae in om Mozilla te help om die blaaier meer stabiel en veilig te maak">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Sluit die adres in van die bladsy wat ek besoek het">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrie">
 <!ENTITY optionsHeader.telemetry.label                            "Deel gebruikstatistiek oor &brandShortName; met Mozilla om te help die blaaier te verbeter">

@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Mediadeling">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Deel">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "D">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Kanselleer">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "K">
+<!ENTITY getUserMediaDialog.title                   "Mediadeling">
 
-<!ENTITY getUserMediaDialog.video.label           "Kies kamera">
-<!ENTITY getUserMediaDialog.video.noVideo         "Geen video">
-<!ENTITY getUserMediaDialog.audio.label           "Kies mikrofoon">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Geen klank">
+
+
+
+
+<!ENTITY getUserMediaDialog.video.label             "Kies kamera">
+<!ENTITY getUserMediaDialog.video.noVideo           "Geen video">
+<!ENTITY getUserMediaDialog.audio.label             "Kies mikrofoon">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Geen klank">
