@@ -24,6 +24,8 @@
 <!ENTITY attachPageCmd.accesskey "w">
 <!ENTITY attachVCardCmd.label "Biglietto da visita elettronico (vCard)">
 <!ENTITY attachVCardCmd.accesskey "B">
+<!ENTITY remindLater.label "Ricordalo più tardi">
+<!ENTITY remindLater.accesskey "p">
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
