@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "Stoor">
+
 
 <!ENTITY connection.connecting "Verbind tans…">
 
@@ -72,6 +72,11 @@
 
 
 
+
+
+
+<!ENTITY projects.valid "Geldig">
+<!ENTITY projects.error "Fout">
 
 
 <!ENTITY help.close "Sluit">
