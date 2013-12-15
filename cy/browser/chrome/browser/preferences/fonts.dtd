@@ -26,20 +26,20 @@
 
 <!ENTITY  font.langGroup.latin1                   "Gorllewin">
 <!ENTITY  font.langGroup.latin2                   "Canol Ewrop">
-<!ENTITY  font.langGroup.japanese                 "Siapanëeg">
+
 <!ENTITY  font.langGroup.trad-chinese             "Tsieinëeg Traddodiadol (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Tsieinëeg Syml">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tsieinëeg Traddodiadol (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Corëeg">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrilig">
-<!ENTITY  font.langGroup.baltic                   "Baltig">
-<!ENTITY  font.langGroup.el                       "Groeg">
-<!ENTITY  font.langGroup.turkish                  "Twrceg">
+
+
+
+
+
 <!ENTITY  font.langGroup.unicode                  "Ieithoedd Eraill">
 <!ENTITY  font.langGroup.user-def                 "Defnyddiwr Diffiniedig">
-<!ENTITY  font.langGroup.thai                     "Tai">
-<!ENTITY  font.langGroup.hebrew                   "Hebraeg">
-<!ENTITY  font.langGroup.arabic                   "Arabeg">
+
+
+
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamileg">
 <!ENTITY  font.langGroup.armenian                 "Armeneg">
@@ -72,3 +72,30 @@
 <!ENTITY languages.customize.Fallback.label       "Amgodiad Nod Eilradd:">
 <!ENTITY languages.customize.Fallback.accesskey   "E">
 <!ENTITY languages.customize.Fallback.desc        "Mae'r amgodiad nod hwn yn cael ei ddefnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.">
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Fietnameg">
+
