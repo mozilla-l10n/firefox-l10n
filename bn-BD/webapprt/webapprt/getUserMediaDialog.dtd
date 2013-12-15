@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "বাতিল">
+<!ENTITY getUserMediaDialog.title                   "মিডিয়া শেয়ারিং">
+<!ENTITY getUserMediaDialog.button.accept.label     "শেয়ার S">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "বাতিল n">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-
-
-
-
+<!ENTITY getUserMediaDialog.video.label             "ক্যামেরা নির্বাচন করুন">
+<!ENTITY getUserMediaDialog.video.noVideo           "কোন ভিডিও নেই">
+<!ENTITY getUserMediaDialog.audio.label             "মাইক্রোফোন নির্বাচন করুন">
+<!ENTITY getUserMediaDialog.audio.noAudio           "কোনো অডিও নেই">

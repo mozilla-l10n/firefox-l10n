@@ -13,7 +13,7 @@
 
 <!ENTITY quitApplicationCmdWin.label        "প্রস্থান (x)">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "প্রস্থান (Q)">
+<!ENTITY quitApplicationCmd.label           "প্রস্থান Q">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
@@ -24,15 +24,17 @@
 <!ENTITY showAllAppsCmdMac.label            "সব প্রদর্শন">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "পূর্বাবস্থায় ফেরানো (U)">
+<!ENTITY undoCmd.label                      "পূর্বাবস্থায় ফেরানো U">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "পুনরায় করা (R)">
+<!ENTITY redoCmd.label                      "পুনরাবৃত্তি R">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "কাটা (t)">
+<!ENTITY cutCmd.label                       "কাটা t">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
 <!ENTITY copyCmd.label                      "অনুলিপি (C)">

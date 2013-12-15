@@ -9,13 +9,13 @@
 সময় আপনার জন্য উপকারী হতে পারে। আপনি যদি &brandShortName; 
 সম্পর্কিত কোনো সাধারণ প্রশ্নের উত্তর খুঁজতে থাকেন তবে, আমাদের <a id='supportLink'> সাপোর্ট ওয়েব সাইট পরীক্ষা করে দেখেন</a>।">
 
+<!ENTITY aboutSupport.crashes.title "ক্র্যাশ প্রতিবেদন">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "প্রতিবেদন আইডি">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
-
-
+<!ENTITY aboutSupport.crashes.sendDate "প্রেরিত">
+<!ENTITY aboutSupport.crashes.allReports "সমস্ত ক্র্যাশ রিপোর্ট">
+<!ENTITY aboutSupport.crashes.noConfig "এই এপ্লিকেশনটি ক্র্যাশ রিপোর্ট প্রদর্শন এর জন্য কনফিগার করা হয় নি।">
 
 <!ENTITY aboutSupport.extensionsTitle "এক্সটেনশন">
 <!ENTITY aboutSupport.extensionName "নাম">
@@ -29,6 +29,8 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "হালনাগাদের ইতিহাস">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "হালনাগাদের ইতিহাস প্রদর্শন">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "প্রোফাইল ডিরেক্টরি">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -70,7 +72,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরী সংস্করণসমূহ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের ইতিহাস">
-
+<!ENTITY aboutSupport.updateHistoryTitle "হালনাগাদের ইতিহাস">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ক্লিপবোর্ডে সব অনুলিপি করুন">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন">

@@ -16,7 +16,9 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  সহজ পরিমাপ">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  অ্যাড-অনের বিস্তারিত">
 
+<!ENTITY aboutTelemetry.lateWritesSection "  বিলম্বিত লেখনী">
 
 <!ENTITY aboutTelemetry.systemInfoSection "  সিস্টেম সংক্রান্ত তথ্য">
 

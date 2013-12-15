@@ -42,23 +42,25 @@
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.tooltip "নেটওয়ার্ক এক্সেসে লগ করুন">
 
+<!ENTITY btnPageNet.label   "নেট N">
+<!ENTITY btnPageNet.tooltip "নেটওয়ার্ক এক্সেসে লগ করুন">
+<!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
-
+<!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip "CSS এর পার্স ত্রুটি লগ করুন">
-
-
+<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "জাভাস্ক্রিপ্টের ব্যতিক্রমে লগ করুন">
-
-
+<!ENTITY btnPageJS.accesskey  "J">
+<!ENTITY btnPageSecurity.label "নিরাপত্তা u">
 <!ENTITY btnPageSecurity.tooltip "লগ নিরাপত্তা ত্রুটি ও সতর্কীকরণ">
-
+<!ENTITY btnPageSecurity.accesskey "u">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -73,9 +75,9 @@
 <!ENTITY btnConsoleLog          "লগ">
 
 <!ENTITY filterOutput.placeholder "ফিল্টার আউটপুট">
-
+<!ENTITY btnClear.label        "মুছে ফেলুন r">
 <!ENTITY btnClear.tooltip      "ওয়েব কনসোল আউটপুট পরিষ্কার করুন">
-
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
