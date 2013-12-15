@@ -27,6 +27,7 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medições simples
 ">
+
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detalhes do extra
 ">
@@ -47,10 +48,6 @@
   Clique para expandir a secção
 ">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Clique para recolher a secção
-">
-
 <!ENTITY aboutTelemetry.emptySection "
   (Nenhuns dados obtidos)
 ">
@@ -65,4 +62,8 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "
   Mostrar dados em bruto dos bloqueios
+">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filtro (strings ou /regexp/)
 ">
