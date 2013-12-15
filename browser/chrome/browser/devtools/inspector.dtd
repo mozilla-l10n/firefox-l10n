@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "HTML হিসেবে সম্পাদনা করুন E">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "অভ্যন্তরীন HTML অনুলিপি করুন I">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">

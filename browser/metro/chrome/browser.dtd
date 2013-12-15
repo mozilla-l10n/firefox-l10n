@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "আপনার ফলাফল">
 
-<!ENTITY appbarErrorConsole.label   "ত্রুটি কনসোল খুলুন">
-<!ENTITY appbarJSShell.label        "জাভাস্ক্রিপ্ট শেল খুলুন">
-<!ENTITY appbarFindInPage2.label    "পৃষ্ঠায় খুঁজুন">
-<!ENTITY appbarViewOnDesktop2.label "ডেস্কটপে প্রদর্শন">
-<!ENTITY appbarMSMetaData2.label    "এই সাইটের জন্য অ্যাপ পান">
+<!ENTITY appbarErrorConsole.label      "ত্রুটি কনসোল খুলুন">
+<!ENTITY appbarJSShell.label           "জাভাস্ক্রিপ্ট শেল খুলুন">
+<!ENTITY appbarFindInPage2.label       "পৃষ্ঠায় খুঁজুন">
+<!ENTITY appbarRelaunchInDesktop.label "ডেস্কটপে পুনরায় চালু">
+<!ENTITY appbarMSMetaData2.label       "এই সাইটের জন্য অ্যাপ পান">
+<!ENTITY appbarViewPageSource.label    "পৃষ্ঠার সোর্স প্রদর্শন">
 
 <!ENTITY topSitesHeader.label        "শীর্ষ সাইট">
 <!ENTITY bookmarksHeader.label       "বুকমার্কসমূহ">
@@ -67,9 +68,12 @@
 <!ENTITY contextTextCopy.label             "অনুলিপি">
 <!ENTITY contextTextPaste.label            "প্রতিলেপন">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "প্রতিলেপন &amp; অগ্রসর হন">
 <!ENTITY contextTextSelect.label           "নির্বাচন">
-
+<!ENTITY contextTextSelectAll.label        "সবকিছু নির্বাচন">
 <!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "নতুন ট্যাবে লিংক খোলা হবে">
 <!ENTITY contextCopyLinkHref.label         "লিংক অনুলিপি করুন">
 <!ENTITY contextBookmarkLinkHref.label     "লিংকটি কে বুকমার্ক করুন">
 <!-- IMAGE CONTEXT MENU -->
@@ -98,8 +102,31 @@
 <!ENTITY addBookmark.key "d">
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
-
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
 
-
+<!ENTITY firstRunTabs.label "ট্যাব গুলো খুঁজছেন? শুধু নিচে নামুন অথবা ডানে ক্লিক করুন">
+<!ENTITY firstRunTopSites.label "আপনার সব থেকে বেশি পরিদর্শনকৃত সাইট গুলোতে যান">
+<!ENTITY firstRunBookmarks.label "যে পেজগুলো পরের জন্য সংরক্ষন করেছিলেন সেগুলো খুঁজুন">
+<!ENTITY firstRunMenu.label "আরও বৈশিষ্ট্য ও বিকল্প উপলব্ধি করুন">
+<!ENTITY firstRunHistory.label "দেখুন আপনি ওয়েবে কোথায় ছিলেন">
+<!ENTITY firstRunWelcome.label "স্বাগতম &brandShortName; এ">
+<!ENTITY firstRunDifferent.label "আলাদা ডিজাইন">

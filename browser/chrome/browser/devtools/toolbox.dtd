@@ -28,9 +28,13 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "ডিফল্ট রঙের একক u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -51,33 +55,47 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "কেবল বর্তমান সেশন, পৃষ্ঠা পুনরায় লোড করে">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label3    "ক্রোম ডিবাগিং সক্রিয় করুন">
+<!ENTITY options.enableChrome.tooltip   "এই অপশন চালু করলে ব্রাউজারের বিষয়বস্তুতে বিভিন্ন ধরনের ডেভেলপার টুল ব্যবহার করতে পারবেন">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "রিমোট ডিবাগিং সক্রিয় করুন">
-
+<!ENTITY options.enableRemote.tooltip   "এই অপশন চালু করার ফলে ডেভেলপার টুল রিমোট ফায়ারফক্স ইন্সটেন্স যেমন ফায়ারফক্স ওএস ডিবাগ করতে পারবে">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label2    "জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন">
+<!ENTITY options.disableJavaScript.tooltip   "এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "পূর্বনির্ধারিত ফায়ারফক্স ডেভেলপার টুল">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "এড-অন এর মাধ্যমে ইন্সটলকৃত ডেভেলপার টুল">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* বর্তমান টুলবক্স টার্গেট এর জন্য সমর্থিত নয়">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label   "ডেভটুল এর থীম পছন্দ করুন:">
 <!ENTITY options.darkTheme.label             "গাঢ় থীম">
 <!ENTITY options.lightTheme.label            "হালকা থীম">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
@@ -89,6 +107,13 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
+<!ENTITY options.enablePersistentLogging.label    "নিয়মিত লগ সক্রিয় করুন">
+<!ENTITY options.enablePersistentLogging.tooltip  "যদি আপনি ওয়েব কনসোল এই অপশনটি সক্রিয় করেন তবে তা প্রতিবার আউটপুট পরিষ্কার করবে না যখন আপনি নতুন একটি পৃষ্ঠায় যাবেন">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!ENTITY options.timestampMessages.label      "টাইমস্ট্যাম্প সক্রিয় করুন">
+<!ENTITY options.timestampMessages.tooltip    "আপনি যদি এই অপশন কমান্ড সক্রিয় করেন এবং ওয়েব কনসোলে আউটপুট হিসেবে একটি টাইমস্ট্যাম্প প্রদর্শন করবে">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
@@ -100,4 +125,5 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "গেকো প্ল্যাটফর্ম ডাটা দেখান">
-
+<!ENTITY options.showPlatformData.tooltip  "যদি আপনি এই অপশন সক্রিয় করেন তবে জাভাস্ক্রিপ্ট প্রোফাইলার গেকো প্লাটফর্ম চিহ্নে 
+অর্ন্তভূক্ত রাখবে">

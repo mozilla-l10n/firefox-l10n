@@ -5,9 +5,10 @@
 
 <!ENTITY aboutHeader.title          "সম্পর্কিত">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-
-
+<!ENTITY aboutHeader.company.label  "&vendorShortName; দ্বারা">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; এর প্রাইভেসি পলিসি অনলাইনে পড়ুন">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "হালনাগাদ পরীক্ষা করা হচ্ছে...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "অ্যাড-অন এর সামঞ্জস্যতা পরীক্ষা করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -15,7 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; অন্য স্থানে হালনাগাদ হয়েছে">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; অন্য একটি ইন্সটেন্স দ্বারা হালনাগাদ করা হয়েছে">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
