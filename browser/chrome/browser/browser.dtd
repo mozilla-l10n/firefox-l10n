@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non triés">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non classés">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
