@@ -26,11 +26,11 @@
 
 <!ENTITY  font.langGroup.latin1                   "英語／西歐語系">
 <!ENTITY  font.langGroup.latin2                   "中歐語系">
-<!ENTITY  font.langGroup.japanese                 "日文">
+<!ENTITY  font.langGroup.japanese                 "日語">
 <!ENTITY  font.langGroup.trad-chinese             "正體中文 (繁體，臺灣)">
 <!ENTITY  font.langGroup.simpl-chinese            "簡體中文">
 <!ENTITY  font.langGroup.trad-chinese-hk          "正體中文 (繁體，香港)">
-<!ENTITY  font.langGroup.korean                   "韓文">
+<!ENTITY  font.langGroup.korean                   "韓語">
 <!ENTITY  font.langGroup.cyrillic                 "俄語／斯拉夫語系">
 <!ENTITY  font.langGroup.baltic                   "波羅的語系">
 <!ENTITY  font.langGroup.el                       "希臘語">

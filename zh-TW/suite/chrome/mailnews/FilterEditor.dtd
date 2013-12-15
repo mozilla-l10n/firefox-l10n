@@ -16,7 +16,7 @@
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highestPriorityCmd.label "最高">
 
-<!ENTITY contextDesc.label "套用篩選器當:">
+<!ENTITY contextDesc.label "套用篩選條件當:">
 <!ENTITY contextIncomingMail.label "正在取回新郵件:">
 <!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "手動執行">
