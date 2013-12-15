@@ -9,6 +9,7 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Alternar modo de caja negra">
 <!ENTITY debuggerUI.sources.prettyPrint "Embellecer el código fuente">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar todos los puntos de ruptura">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignorar excepciones detectadas">
