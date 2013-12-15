@@ -20,7 +20,7 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "無襯線字型:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "等寬字:">
+<!ENTITY  monospace.label                         "等寬字型:">
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "華麗字型:">
@@ -30,7 +30,7 @@
 
 <!ENTITY  font.langGroup.latin1                   "英語／西歐語系">
 <!ENTITY  font.langGroup.latin2                   "中歐語系">
-<!ENTITY  font.langGroup.japanese                 "日文">
+<!ENTITY  font.langGroup.japanese                 "日語">
 <!ENTITY  font.langGroup.trad-chinese             "正體中文 (繁體中文，臺灣)">
 <!ENTITY  font.langGroup.simpl-chinese            "簡體中文">
 <!ENTITY  font.langGroup.trad-chinese-hk          "正體中文 (繁體中文，香港)">
