@@ -528,6 +528,14 @@
 <!ENTITY appmenuButton1.tooltip "Mostra il Menu di &brandShortName;">
 <!ENTITY buttonMenuForwardAsInline.label "Inoltra nel messaggio">
 <!ENTITY buttonMenuForwardAsAttachment.label "Inoltra come allegato">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostra i contenuti remoti di questo messaggio">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY remoteContentOptionAllowForAddress.label "Mostrare il contenuto remoto da questo mittente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "o">
+<!ENTITY phishingOptionIgnore.label "Ignora gli avvisi per questo messaggio">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Disabilita il rilevamento frodi per tutti i messaggi">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!ENTITY appmenuNewMsgCmd.label "Nuovo messaggio">
 <!ENTITY appmenuNewContactCmd.label "Contatto rubrica…">
 <!ENTITY appmenuEditMenu.label "Modifica">
@@ -682,19 +690,6 @@
 <!ENTITY contextMute.accesskey "D">
 <!ENTITY contextUnmute.label "Attiva audio">
 <!ENTITY contextUnmute.accesskey "A">
-<!ENTITY junkBarMessage2.label "&brandShortName; pensa che questo messaggio sia posta indesiderata.">
-<!ENTITY junkBarButton1.label "Non indesiderata">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "Per proteggere la tua privacy &brandShortName; ha bloccato i contenuti remoti.">
-<!ENTITY loadRemoteContentButton3.label "Mostra contenuti remoti">
-<!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode.">
-<!ENTITY removePhishingBarButton1.label "Ignorare l'avviso">
-<!ENTITY disablePhishingWarning1.label "Disattivare il rilevamento delle frodi per tutti i messaggi">
-<!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode.">
-<!ENTITY mdnBarIgnoreButton2.label "Ignora">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Inviare Ricevuta di Ritorno">
-<!ENTITY mdnBarSendButton2.accesskey "R">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Ricerca… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
