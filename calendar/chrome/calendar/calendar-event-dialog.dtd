@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY event.title.label "Editar item" >
+
 <!ENTITY event.dialog.keepDurationButton.tooltip "Manter duração ao alterar a data de fim">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
+
 <!ENTITY newevent.from.label "De" >
 <!ENTITY newevent.to.label "Para" >
 <!ENTITY newevent.attendees.notify.label "Notificar convidados">
+
 <!ENTITY newevent.status.label "Estado" >
 <!ENTITY newevent.status.accesskey "E" >
 <!ENTITY newevent.eventStatus.none.label "Não especificado" >
@@ -65,6 +68,7 @@
 <!ENTITY  event.menu.item.page.setup.accesskey "C">
 <!ENTITY  event.menu.item.print.label "Imprimir">
 <!ENTITY  event.menu.item.print.accesskey "I">
+
 <!ENTITY  event.menu.edit.label "Editar">
 <!ENTITY  event.menu.edit.accesskey "E">
 <!ENTITY  event.menu.edit.undo.label "Anular">
@@ -79,6 +83,7 @@
 <!ENTITY  event.menu.edit.paste.accesskey "o">
 <!ENTITY  event.menu.edit.select.all.label "Selecionar tudo">
 <!ENTITY  event.menu.edit.select.all.accesskey "t">
+
 <!ENTITY  event.menu.view.label "Ver">
 <!ENTITY  event.menu.view.accesskey "V">
 <!ENTITY  event.menu.view.toolbars.label "Barras de ferramentas">
@@ -89,6 +94,7 @@
 <!ENTITY  event.menu.view.toolbars.customize.accesskey "P">
 <!ENTITY  event.menu.view.showlink.label "Mostrar ligações relacionadas">
 <!ENTITY  event.menu.view.showlink.accesskey "r">
+
 <!ENTITY  event.menu.options.label "Opções">
 <!ENTITY  event.menu.options.accesskey "O">
 <!ENTITY  event.menu.options.attendees.label "Convidar participantes...">
@@ -125,6 +131,7 @@
 <!ENTITY  event.menu.options.show.time.busy.accesskey "O">
 <!ENTITY  event.menu.options.show.time.free.label "Livre">
 <!ENTITY  event.menu.options.show.time.free.accesskey "i">
+
 <!ENTITY event.invite.attendees.label "Convidar participantes...">
 <!ENTITY event.invite.attendees.accesskey "i">
 <!ENTITY event.email.attendees.label "Criar mensagem para todos participantes...">
@@ -138,6 +145,16 @@
 <!ENTITY  event.toolbar.attendees.label "Convidar participantes">
 <!ENTITY  event.toolbar.spellcheck.label "Verificação ortográfica">
 <!ENTITY  event.toolbar.privacy.label "Privacidade">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Guardar e fechar">
+<!ENTITY  event.toolbar.delete.tooltip                    "Eliminar">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Verificação de escrita">
+<!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
+<!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
+<!ENTITY  event.toolbar.status.tooltip                    "Alterar estado">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar hora de ocupado/livre">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Título:" >
@@ -188,6 +205,7 @@
 <!ENTITY event.attachments.popup.attachPage.accesskey "w" >
 <!ENTITY event.url.label "Ligação relacionada:" >
 <!ENTITY event.priority2.label "Prioridade:">
+
 <!ENTITY event.reminder.none.label "Sem lembrete " >
 <!ENTITY event.reminder.0minutes.before.label "0 minutos antes" >
 <!ENTITY event.reminder.5minutes.before.label "5 minutos antes" >
@@ -200,10 +218,15 @@
 <!ENTITY event.reminder.2days.before.label "2 dias antes" >
 <!ENTITY event.reminder.1week.before.label "1 semana antes" >
 <!ENTITY event.reminder.custom.label "Personalizar..." >
+
 <!ENTITY event.reminder.multiple.label "Múltiplos lembretes..." >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Hora como:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Editar recorrência">
+
 <!ENTITY event.repeat.does.not.repeat.label "Não repete">
 <!ENTITY event.repeat.daily.label "Diariamente">
 <!ENTITY event.repeat.weekly.label "Semanalmente">
@@ -212,18 +235,22 @@
 <!ENTITY event.repeat.monthly.label "Mensalmente">
 <!ENTITY event.repeat.yearly.label "Anualmente">
 <!ENTITY event.repeat.custom.label "Personalizar...">
+
 <!ENTITY event.recurrence.pattern.label "Padrão de recorrência">
 <!ENTITY event.recurrence.occurs.label "Repetir" >
 <!ENTITY event.recurrence.day.label "diariamente" >
 <!ENTITY event.recurrence.week.label "semanalmente" >
 <!ENTITY event.recurrence.month.label "mensalmente" >
 <!ENTITY event.recurrence.year.label "anualmente" >
+
 <!ENTITY event.recurrence.pattern.every.label "A cada" >
 <!ENTITY repeat.units.days.both "Dia(s)" >
 <!ENTITY event.recurrence.pattern.every.weekday.label "Todos os dias da semana" >
+
 <!ENTITY event.recurrence.pattern.weekly.every.label "A cada" >
 <!ENTITY repeat.units.weeks.both "Semana(s)" >
 <!ENTITY event.recurrence.on.label "Em:" >
+
 <!ENTITY event.recurrence.pattern.monthly.every.label "A cada" >
 <!ENTITY repeat.units.months.both "Mês" >
 <!ENTITY event.recurrence.monthly.every.label "A cada" >
@@ -242,6 +269,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "sábado" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label "Dia do mês">
 <!ENTITY event.recurrence.repeat.recur.label "Ocorre no(s) dia(s)">
+
 <!ENTITY event.recurrence.every.label "A cada:" >
 <!ENTITY repeat.units.years.both "Ano(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "A cada" >
@@ -254,6 +282,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label "" >
+
 <!ENTITY event.recurrence.pattern.yearly.month.1.label "janeiro" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label "fevereiro" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label "março" >
@@ -293,6 +322,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label "outubro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label "novembro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label "dezembro" >
+
 <!ENTITY event.recurrence.range.label "Período de recorrência">
 <!ENTITY event.recurrence.forever.label "Sem data de fim" >
 <!ENTITY event.recurrence.repeat.for.label "Criar" >
