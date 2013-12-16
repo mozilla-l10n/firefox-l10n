@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Raportado pri paneoj">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sendas raportojn pri paneoj por helpi Mozillan igi vian retesplorilon pli stabila kaj sekura">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Aldoni la adreson de la paĝo kie mi estis">
 <!ENTITY optionsHeader.telemetry.title                            "Telemezuro">
 <!ENTITY optionsHeader.telemetry.label                            "Tio dividas kun Mozilla statistikojn pri uzo de &brandShortName; por helpi nin plibonigi vian retesplorilon">
