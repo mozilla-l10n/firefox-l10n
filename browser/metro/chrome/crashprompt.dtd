@@ -4,7 +4,7 @@
 
 
 <!ENTITY crashprompt.title           "Ĉu vi ŝatus sendi al Mozilla raportojn pri paneoj?">
-<!ENTITY crashprompt.message         "Ni bedaŭras, &brandShortName; ĵus startis post paneo. Sendi raportojn pri paneoj helpos Mozillan igi &brandShortName; pli stabila kaj sekura. Vi ĉiam povas ŝanĝi tiun preferon en Agordoj/Elektebloj".>
+<!ENTITY crashprompt.message         "Ni bedaŭras, &brandShortName; ĵus startis post paneo. Sendi raportojn pri paneoj helpos Mozillan igi &brandShortName; pli stabila kaj sekura. Vi ĉiam povas ŝanĝi tiun preferon en Agordoj/Elektebloj.">
 <!ENTITY crashprompt.detailsLink     "Kion enhavas en raporto pri paneo?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Raporto pri paneo enhavas kelkajn detalojn pri la paneo kaj via komputilo kaj ankaŭ la staton de via retesplorilo kiam wi paneis.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Tio povas inkluzivi aferojn kiel malfermitajn pawojn, teskton tajpitan en formularoj kaj la enhavon de malfermitaj mesawoj, ĵusan retesploran historion, aŭ pozicio dividita kun retejo.">

@@ -41,6 +41,10 @@
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Aranĝi kaj deŝovi la fonton">
 
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Ebligi/malebligi ĉiujn haltopunktojn">
+
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Paŭzigi ĉe esceptoj">
@@ -129,8 +133,10 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Aldoni kondiĉan haltopunkton">
 <!ENTITY debuggerUI.seMenuCondBreak.key "k">
 
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.sources        "Fontoj">
+<!ENTITY debuggerUI.tabs.callstack      "Stako de alvoko">
 <!ENTITY debuggerUI.tabs.variables      "Variantoj">
 <!ENTITY debuggerUI.tabs.events         "Eventoj">
 
