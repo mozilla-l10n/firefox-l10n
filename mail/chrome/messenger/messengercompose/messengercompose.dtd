@@ -50,6 +50,8 @@
 <!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
+<!ENTITY printPreviewCmd.label "Førehandsvising">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">

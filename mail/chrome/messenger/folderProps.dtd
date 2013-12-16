@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenskapar">
 
 <!ENTITY generalInfo.label                       "Generell informasjon">
-<!ENTITY folderCharsetTab.label                  "Standard teiknkoding">
-<!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Bruk standard for alle meldingar i mappa (dette vil ikkje verke inn på teiknkoding til enkeltmeldingar og auto-detekterte teiknkodingar)">
-<!ENTITY folderCharsetOverride.accesskey         "B">
+<!ENTITY folderCharsetFallback.label             "Reserve-teiknkoding:">
+<!ENTITY folderCharsetFallback.accesskey         "R">
+<!ENTITY folderCharsetEnforce.label              "Bruk standardar for alle meldinger i mappa (teiknkodinga i enkeltmeldingar og auto-detekterte teiknodingar vert ignorerte)">
+<!ENTITY folderCharsetEnforce.accesskey          "B">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -65,7 +65,7 @@
 <!ENTITY folderQuotaUsage.label                  "Bruk:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
-<!ENTITY numberOfMessages.label                  "Talet på meldingar:">
+<!ENTITY numberOfMessages.label                  "Tal på meldingar:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "ukjend">
 <!ENTITY sizeOnDisk.label                        "Diskplass:">

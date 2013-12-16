@@ -57,6 +57,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "Installer ein versjon av simulatoren ved å laste ned relevant utviding.">
 <!ENTITY connection.installAnotherSimulator "Legg til">
 <!ENTITY connection.installAnotherSimulatorTooltip "Installer ein ekstra versjon av simulatoren ved å laste ned relevant utviding.">
+<!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Lokale appar">
 <!ENTITY projects.addApp "Legg til">
@@ -73,6 +74,10 @@
 <!ENTITY projects.debugAppTooltip "Opne Utviklarverktøy tilkopla denne appen">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Ingen prosjekt. Legg til ein ny innpakka app nedanfor (lokal mappe) eller ein ekstern app (lenk til ei manifest-fil).">
+<!ENTITY projects.manifestEditor "Manifest-redigering">
+<!ENTITY projects.manifestEditorTooltip "Rediger manifestet til appen din i panelet nedanfor. Oppdater-knappen vil lagre endringane og oppdatere appen.">
+<!ENTITY projects.manifestViewer "Manifest-vising">
+<!ENTITY projects.manifestViewerTooltip "Vis manifestet til appen i panelet nedanfor.">
 
 <!ENTITY help.title "App-behandlar">
 <!ENTITY help.close "Lukk">
