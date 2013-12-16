@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Ĉu vi ŝatus sendi al Mozilla raportojn pri paneoj?">
+<!ENTITY crashprompt.message         "Ni bedaŭras, &brandShortName; ĵus startis post paneo. Sendi raportojn pri paneoj helpos Mozillan igi &brandShortName; pli stabila kaj sekura. Vi ĉiam povas ŝanĝi tiun preferon en Agordoj/Elektebloj.">
+<!ENTITY crashprompt.detailsLink     "Kion enhavas en raporto pri paneo?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Raporto pri paneo enhavas kelkajn detalojn pri la paneo kaj via komputilo kaj ankaŭ la staton de via retesplorilo kiam wi paneis.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Tio povas inkluzivi aferojn kiel malfermitajn pawojn, teskton tajpitan en formularoj kaj la enhavon de malfermitaj mesawoj, ĵusan retesploran historion, aŭ pozicio dividita kun retejo.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Ni uzas raportojn pri paneoj por klopodi ripari problemojn kaj plibonigi niajn produktojn. Ni traktas viajn informojn laŭ la ">
+<!ENTITY crashprompt.privacyPolicyLink "politiko pri privateco de &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Aldoni la adreson de la paĝo kie mi estis">
+<!ENTITY crashprompt.acceptbutton    "Sendi raportojn">
+<!ENTITY crashprompt.refusebutton    "Ne sendi">
+<!ENTITY crashprompt.privacyPolicy.title "politiko pri privateco de &brandShortName;">
