@@ -3,11 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
 
-<!-- LOCALIZATION NOTE update.applyButton.*, update.upgradeButton.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
+<!ENTITY update.checkForUpdatesButton.label       "Sök efter uppdateringar">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ö">
 <!ENTITY update.updateButton.label                "Starta om för att uppdatera">
 <!ENTITY update.updateButton.accesskey            "S">
 <!ENTITY update.applyButtonBillboard.label        "Installera uppdateringen…">
