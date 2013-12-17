@@ -15,7 +15,7 @@
 
 <!ENTITY header.defaults                 "对所有站点的默认权限">
 
-<!ENTITY permissions.forgetSite          "清除此站点信息">
+<!ENTITY permissions.forgetSite          "清除有关此站点的信息">
 
 <!ENTITY permission.alwaysAsk            "总是询问">
 <!ENTITY permission.allow                "允许">
