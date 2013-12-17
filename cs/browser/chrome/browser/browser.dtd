@@ -253,10 +253,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "Debugger prohlížeče">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "Nástroje prohlížeče">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
 <!ENTITY devToolbarMenu.label "Lišta vývoje">
@@ -267,7 +267,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Nástroje vývojáře">
 <!ENTITY devToolboxMenuItem.accesskey      "P">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolboxMenuItem.label "Nástroje vývojáře">
@@ -436,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey "d">
 <!ENTITY emailPageCmd.label "Odeslat odkaz…">
 <!ENTITY emailPageCmd.accesskey "e">
+<!ENTITY switchToMetroCmd.label       "Spustit &brandShortName; ve stylu Windows 8">
 <!ENTITY savePageCmd.label "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey "U">
 <!-- alternate for content area context menu -->
