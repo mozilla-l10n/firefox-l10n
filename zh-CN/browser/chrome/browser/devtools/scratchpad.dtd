@@ -20,7 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "代码片段速记�>
+<!ENTITY window.title                 "代码片段速记器">
 
 <!ENTITY fileMenu.label               "文件">
 <!ENTITY fileMenu.accesskey           "F">
@@ -29,21 +29,21 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "打开文件�>
+<!ENTITY openFileCmd.label            "打开文件…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "打开最�>
+<!ENTITY openRecentMenu.label         "打开最近">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "还原�>
+<!ENTITY revertCmd.label              "还原…">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "保存">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "另存为�>
+<!ENTITY saveFileAsCmd.label          "另存为…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "关闭">
@@ -52,50 +52,6 @@
 
 <!ENTITY editMenu.label               "编辑">
 <!ENTITY editMenu.accesskey           "E">
-
-<!ENTITY undoCmd.label                "撤销">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "重做">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "剪切">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "复制">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "粘贴">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "全�>
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
-<!ENTITY findCmd.label                "查找�>
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "F">
-
-<!ENTITY findAgainCmd.label           "查找下一个�>
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "跳转到某行�>
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "J">
 
 <!ENTITY run.label                    "运行">
 <!ENTITY run.accesskey                "R">
@@ -131,7 +87,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "浏览�>
+<!ENTITY browserContext.label         "浏览器">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
@@ -142,7 +98,7 @@
 <!ENTITY helpMenuWin.label            "帮助">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "MDN 上的速记器帮�>
+<!ENTITY documentationLink.label      "MDN 上的速记器帮助">
 <!ENTITY documentationLink.accesskey  "D">
 
 
@@ -152,7 +108,7 @@
 <!ENTITY resetContext2.label          "重置变量">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "重新加载并运�>
+<!ENTITY reloadAndRun.label           "重新加载并运行">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
