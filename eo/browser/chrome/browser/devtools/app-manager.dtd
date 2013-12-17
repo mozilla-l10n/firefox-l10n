@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Sencimigi">
 <!ENTITY device.debugAppTooltip "Malfermi la ilojn por disvolvantoj, konektitaj al tiu ĉi programo en la aparato.">
 <!ENTITY device.name "Nomo">
-<!ENTITY device.plain "Plain (default)">
+<!ENTITY device.plain "Simpla (norme)">
 <!ENTITY device.privileged "Privilegiita">
 <!ENTITY device.certified "Atestita">
 <!ENTITY device.allow "Permesi">

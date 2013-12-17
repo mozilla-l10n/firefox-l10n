@@ -79,7 +79,7 @@
 <!ENTITY languages.customize.Fallback.arabic      "Araba">
 <!ENTITY languages.customize.Fallback.baltic      "Balta">
 <!ENTITY languages.customize.Fallback.ceiso       "Mezeŭropa, ISO">
-<!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
+<!ENTITY languages.customize.Fallback.cewindows   "Mezeŭropa, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "Ĉina, simpligita">

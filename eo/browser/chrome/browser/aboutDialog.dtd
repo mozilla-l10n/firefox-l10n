@@ -3,11 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Pri &brandFullName;">
 
-<!-- LOCALIZATION NOTE update.applyButton.*, update.upgradeButton.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
+<!ENTITY update.checkForUpdatesButton.label       "Kontroli ĉu estas ĝisdatigoj">
+<!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label                "Restartigi por ĝisdatigi">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Apliki ĝisdatigon…">
