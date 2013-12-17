@@ -465,7 +465,6 @@
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
-<!ENTITY social.notLoggedIn.label "Accesso non effettuato">
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleSidebar.label "Visualizza barra laterale">
