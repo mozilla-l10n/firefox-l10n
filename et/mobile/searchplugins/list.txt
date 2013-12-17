@@ -1,4 +1,4 @@
-amazondotcom
+amazon-co-uk
 google
 twitter
-wikipedia
+wikipedia-et
