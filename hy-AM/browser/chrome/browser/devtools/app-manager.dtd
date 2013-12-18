@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Փոխեք սարքին միանալու հոսթը և պորտը։  (Հիմնական է՝ localhost:6000)">
 <!ENTITY connection.startSimulator "Բացել Նմանակիչը">
 <!ENTITY connection.startSimulatorTooltip "Բացեք Նմանակիչը և միացեք նրան։">
-<!ENTITY connection.saveConnectionInfo "Պահպանել">
+
 <!ENTITY connection.saveConnectionInfoTooltip "Պահպանել հոսթը և պորտը:">
 <!ENTITY connection.connecting "Միանում է...">
 <!ENTITY connection.disconnecting "Անջատում...">
@@ -72,10 +72,15 @@
 
 <!ENTITY projects.debugApp "Վրիպազերծել">
 
+
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 
+
+
+<!ENTITY projects.valid "Վավեր է">
 
 
 

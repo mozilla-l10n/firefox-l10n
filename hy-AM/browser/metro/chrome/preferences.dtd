@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Վթարի զեկույց">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;-ը ուղարկում է Վթարի Զեկույց՝ օգնելու համար Mozilla-ն էլ ավելի կայուն և անվտանգ դարձնել">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ավելացնել այն էջի հասցեն, որտեղ ես գտնվում էի այդ պահին">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "&brandShortName;-ը օգտագործելու մասին վիճակագրությամբ կիսվում է Mozilla-ի հետ՝ ձեր դիտարկիչը էլ ավելի լավը դարձնելու համար">
