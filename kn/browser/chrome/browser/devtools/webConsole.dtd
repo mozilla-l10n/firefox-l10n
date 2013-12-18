@@ -64,6 +64,7 @@
 
 
 
+
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
@@ -73,7 +74,6 @@
 
 <!ENTITY copyURLCmd.label     "ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಪ್ರತಿ ಮಾಡು">
 <!ENTITY copyURLCmd.accesskey "a">
-
 
 
 

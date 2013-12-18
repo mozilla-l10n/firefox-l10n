@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "ಆಯ್ಕೆಗಳು">
-<!ENTITY optionsHeader.startup.title                             "ಆರಂಭಿಕ">
-
-
-
 <!ENTITY optionsHeader.char.title                                "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್‍ ">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "ಕುಸಿತ ವರದಿಗಾರ">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "ನಾನು ಇದ್ದ ಪುಟದ ವಿಳಾಸವನ್ನು ಸೇರಿಸು">
 <!ENTITY optionsHeader.telemetry.title                            "ಟೆಲಿಮೆಟ್ರಿ">
 
