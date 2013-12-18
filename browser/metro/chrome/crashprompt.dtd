@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY crashprompt.title           "Wil u omvalverslae aan Mozilla stuur?">
+
+
 
 
 
 
 <!ENTITY crashprompt.includeURLLabel "Sluit die adres in van die bladsy wat ek besoek het">
-
-
+<!ENTITY crashprompt.acceptbutton    "Stuur verslae">
+<!ENTITY crashprompt.refusebutton    "Moenie stuur nie">
 
