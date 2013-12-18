@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Buka Alatan Pembangun yang bersambung ke app ini pada peranti.">
 <!ENTITY device.name "Nama">
-<!ENTITY device.app "App">
+
 <!ENTITY device.privileged "Keistimewaan">
 <!ENTITY device.certified "Diperakui">
 <!ENTITY device.allow "Benarkan">
@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Tukar hos dan port yang digunakan untuk menyambung kepada peranti. (Tetapan lalai ialah localhost:6000)">
 <!ENTITY connection.startSimulator "Mulakan Simulasi">
 <!ENTITY connection.startSimulatorTooltip "Mulakan penggunaan Simulasi dan sambungkan.">
-<!ENTITY connection.saveConnectionInfo "Simpan">
+
 <!ENTITY connection.saveConnectionInfoTooltip "Simpan hos dan port.">
 <!ENTITY connection.connecting "Menyambung…">
 <!ENTITY connection.disconnecting "Memutuskan…">
@@ -72,11 +72,16 @@
 
 
 <!ENTITY projects.debugAppTooltip "Buka Alat Pembangun yang tersambung ke app ini">
+
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 
 
+
+<!ENTITY projects.valid "Sah">
+<!ENTITY projects.error "Ralat">
 
 
 <!ENTITY help.title "Pengurus App">
