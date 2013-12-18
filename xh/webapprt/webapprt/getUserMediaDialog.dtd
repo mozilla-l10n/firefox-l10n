@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Ukwabelana ngemifanekiso">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Yabelana">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Rhoxisa">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "Ukwabelana ngemifanekiso">
+<!ENTITY getUserMediaDialog.button.accept.label     "Yabelana">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "Y">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Rhoxisa">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "x">
 
-<!ENTITY getUserMediaDialog.video.label           "Khetha ikhamera">
-<!ENTITY getUserMediaDialog.video.noVideo         "Akukho vidiyo">
-<!ENTITY getUserMediaDialog.audio.label           "Khetha umboko">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Akukho sandi">
+<!ENTITY getUserMediaDialog.video.label             "Khetha ikhamera">
+<!ENTITY getUserMediaDialog.video.noVideo           "Akukho vidiyo">
+<!ENTITY getUserMediaDialog.audio.label             "Khetha umboko">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Akukho sandi">
