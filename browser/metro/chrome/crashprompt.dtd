@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Çökme raporlarını Mozilla'ya göndermek ister misiniz?">
+
+
+
+
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Çökme raporlarını, sorunları gidermek ve ürünlerimizi geliştirmek için kullanıyoruz. Bilgilerinizi ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; gizlilik ilkelerinde">
+<!ENTITY crashprompt.includeURLLabel "Bakmakta olduğum sayfanın adresini dahil et">
+<!ENTITY crashprompt.acceptbutton    "Raporları gönder">
+<!ENTITY crashprompt.refusebutton    "Gönderme">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; gizlilik ilkeleri">
