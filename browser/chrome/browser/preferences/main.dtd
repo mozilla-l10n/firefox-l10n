@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "بارگیری‌ها">
 
-<!ENTITY showWhenDownloading.label     "هنگام بارگیری، پنجرهٔ بارگیری‌ها نشان داده شود.">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "پس از اتمام بارگیری‌ها، بسته شود.">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ذخیرهٔ پرونده در">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "مرور…">
