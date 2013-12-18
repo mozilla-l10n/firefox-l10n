@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Ingxelo yokonakala">
 <!ENTITY optionsHeader.reporting.crashes.label                   "ne-&brandShortName; ifaka iingxelo zokonakala ukuze incede iMozilla yenze ibhrawuza yakho izinze yaye ikhuseleke">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Quka idilesi yephepha ebendikulo">
 <!ENTITY optionsHeader.telemetry.title                            "Ithelemetri">
 <!ENTITY optionsHeader.telemetry.label                            "Yabelana ngamanani malunga ne-&brandShortName; kunye neMozilla ukuze yenze ibhrawuza yakho ngcono">

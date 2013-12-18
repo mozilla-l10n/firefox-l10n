@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Iziphumo Zakho">
 
-<!ENTITY appbarErrorConsole.label   "Ikhonsoli evulekileyo yemposiso">
-<!ENTITY appbarJSShell.label        "Iqokobhe elivulekileyo leJavaScript">
-<!ENTITY appbarFindInPage2.label    "Fumana ephepheni">
-<!ENTITY appbarViewOnDesktop2.label "Bona kwidesktopu">
-<!ENTITY appbarMSMetaData2.label    "Fumana i-app yale sayithi">
+<!ENTITY appbarErrorConsole.label      "Ikhonsoli evulekileyo yemposiso">
+<!ENTITY appbarJSShell.label           "Iqokobhe elivulekileyo leJavaScript">
+<!ENTITY appbarFindInPage2.label       "Fumana ephepheni">
+<!ENTITY appbarRelaunchInDesktop.label "Lontsha ngokutsha kwiDesktopu">
+<!ENTITY appbarMSMetaData2.label       "Fumana i-app yale sayithi">
+<!ENTITY appbarViewPageSource.label    "Bona umthombo wephepha">
 
 <!ENTITY topSitesHeader.label        "Iisayithi eziphezulu">
 <!ENTITY bookmarksHeader.label       "Iibhukhmakhi">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "Ukhangela iithebhu zakho? Tsalela phantsi okanye ucofe imawusi ekunene">
+<!ENTITY firstRunTopSites.label "Yiya kwiisayithi ozityelela kakhulu">
+<!ENTITY firstRunBookmarks.label "Fumana amaphepha owagcinele ixesha elizayo">
+<!ENTITY firstRunMenu.label "Fikelela kwiinkalo nokhetho olungakumbi">
+<!ENTITY firstRunHistory.label "Bona indawo obukuyo kwiWebhu">
+<!ENTITY firstRunWelcome.label "Wamkelekile kwi&brandShortName;">
+<!ENTITY firstRunDifferent.label "Yenziwe ngendlela eyahlukileyo">

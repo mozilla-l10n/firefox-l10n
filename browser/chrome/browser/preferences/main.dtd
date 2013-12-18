@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Okukhutshelwayo">
 
-<!ENTITY showWhenDownloading.label     "Bonisa ifestile yokukhutshelwayo xa kukhutshelwa ifayile">
-<!ENTITY showWhenDownloading.accesskey "y">
-<!ENTITY closeWhenDone.label "Yivale xa kugqityiwe ukukhutshelwa">
-<!ENTITY closeWhenDone.accesskey "x">
 <!ENTITY saveTo.label "Gcina iifayile kwi">
 <!ENTITY saveTo.accesskey "n">
 <!ENTITY chooseFolderWin.label        "Bhrwuza…">

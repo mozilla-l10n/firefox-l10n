@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Ungathanda ukuthumela kwaMozilla iingxelo zokonakala?">
+<!ENTITY crashprompt.message         "Silusizi, i-&brandShortName; isandula ukuphuma ekonakaleni Ukuthumela iingxelo zokonakala kuya kunceda i-&#037;$S kwenze i-&#037;$S izinze yaye ikhuseleke ngakumbi. Ungasoloko ukwazi ukuguqula iipriferensi zakho kwiiSetingi/Nezinto Onokukhetha kuzo.">
+<!ENTITY crashprompt.detailsLink     "Yintoni eba kwingxelo yokonakala?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Ingxelo yokonakala iba neenkcukacha ezithile ngokonakala, umatshini wakho, kunye nomfanekiso wemo yebhrawuza yakho xa yonakele.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Oku kungaquka izinto ezifana amaphepha avulekileyo, amagama abhalwe kwifomu kunye nombandela okwimiyalezo, imbali yokubhrawuza yakutshanje, okanye indawo okuyo ekwabelwene ngayo nesayithi leyo.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Sisebenzisa ingxelo yokonakala ukuzama ukulungisa iingxaki nokuphucula iimveliso zethu. Inkcazelo yakho siyiphatha ngendlela esichaza ngayo ">
+<!ENTITY crashprompt.privacyPolicyLink "kwi-&brandShortName; umgaqo-nkqubo wethu wabucala">
+<!ENTITY crashprompt.includeURLLabel "Quka idilesi yephepha ebendikulo">
+<!ENTITY crashprompt.acceptbutton    "Thumela iingxelo">
+<!ENTITY crashprompt.refusebutton    "Musa ukuthumela">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; umgaqo-nkqubo wethu wabucala">
