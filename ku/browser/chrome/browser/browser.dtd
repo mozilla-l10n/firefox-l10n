@@ -242,11 +242,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Parzûna Çewtiyan ya Gerokê">
-<!ENTITY chromeDebuggerMenu.accesskey   "Ç">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Darikê Amûran yê pêşvebirê bigire">
 <!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebirê">
@@ -257,8 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Amûran bigire/veke">
 <!ENTITY devToolboxMenuItem.accesskey      "b">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Amûrên pêşvebir vedike/digire">
 <!ENTITY devToolbarOtherToolsButton.label  "Amûrên din">
@@ -412,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "y">
 <!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
 <!ENTITY emailPageCmd.accesskey       "e">
+
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->

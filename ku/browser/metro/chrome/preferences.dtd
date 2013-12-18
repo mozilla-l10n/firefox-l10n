@@ -33,5 +33,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Raporkara Têkçûnan">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Navnîşana malpera ku min vekiribû têxê">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 
