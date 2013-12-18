@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Přeposlat jako vložené">
 <!ENTITY buttonMenuForwardAsAttachment.label "Přeposlat jako přílohu">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Zobrazit vzdálený obsah v této zprávě">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
+<!ENTITY remoteContentOptionAllowForAddress.label "Zobrazit vzdálený obsah od tohoto odesílatele">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "b">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorovat upozornění pro tuto zprávu">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Vypnout detekování podvodných zpráv pro všechny zprávy">
+<!ENTITY phishingOptionDisableDetection.accesskey "V">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
 <!ENTITY appmenuNewContactCmd.label "Kontakt v adresáři…">
