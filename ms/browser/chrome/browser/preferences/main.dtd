@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Muat Turun">
 
-<!ENTITY showWhenDownloading.label     "Tunjuk tetingkap Muat Turun apabila memuat turun fail">
-<!ENTITY showWhenDownloading.accesskey "T">
-<!ENTITY closeWhenDone.label "Tutupkannya apabila semua muat turun selesai">
-<!ENTITY closeWhenDone.accesskey "a">
 <!ENTITY saveTo.label "Simpan fail ke">
 <!ENTITY saveTo.accesskey "f">
 <!ENTITY chooseFolderWin.label        "Lungsur…">
