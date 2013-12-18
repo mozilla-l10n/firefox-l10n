@@ -235,8 +235,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 
 <!ENTITY devToolbarCloseButton.tooltiptext "بستن نوار توسعه دهنده">
@@ -248,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ابزارها">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
 
 
 <!ENTITY devToolbarToolsButton.tooltip     "ابزارهای گسترش دهنده">
@@ -403,6 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
 <!ENTITY emailPageCmd.accesskey       "E">
+
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
 <!ENTITY savePageCmd.accesskey        "ص">
 <!-- alternate for content area context menu -->
