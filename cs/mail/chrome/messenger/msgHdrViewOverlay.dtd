@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "V odpovědi na">
 <!ENTITY originalWebsite4.label "Webový server">
 
-<!ENTITY editMessageDescription.label "Tato zpráva je koncept">
-<!ENTITY editMessageButton.label "Upravit…">
 <!ENTITY hdrArchiveButton1.label "Archivovat">
 <!ENTITY hdrArchiveButton1.tooltip "Archivuje tuto zprávu">
 <!ENTITY hdrSmartReplyButton1.label "Odpovědět chytře">
