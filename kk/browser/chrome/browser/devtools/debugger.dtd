@@ -128,8 +128,8 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Шартты үзу нүктесін қосу">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.variables      "Айнымалылар">
 <!ENTITY debuggerUI.tabs.events         "Оқиғалар">

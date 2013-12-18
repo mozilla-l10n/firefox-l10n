@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Құлау хабаршысы">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; браузеріңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды Mozilla адресіне жібереді">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Мен қарап отырған беттің адресін де қосу">
 <!ENTITY optionsHeader.telemetry.title                            "Телеметрия">
 <!ENTITY optionsHeader.telemetry.label                            "Браузеріңізді жақсартуға көмектесу мақсатында &brandShortName; қолдану статистикасымен Mozilla-мен бөліседі">
