@@ -248,10 +248,15 @@
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
 <!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
+<!ENTITY appMenuHistory.viewSidebar.label "Показать боковую панель журнала">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
-<!ENTITY customizeMenu.addToPanel.accesskey "а">
+<!ENTITY customizeMenu.addToPanel.accesskey "и">
+<!ENTITY customizeMenu.moveToToolbar.label "Переместить на панель инструментов">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "и">
+<!ENTITY customizeMenu.moveToPanel.label "Переместить в меню">
+<!ENTITY customizeMenu.moveToPanel.accesskey "и">
 <!ENTITY customizeMenu.removeFromToolbar.label "Удалить с панели инструментов">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "и">
 <!ENTITY customizeMenu.removeFromMenu.label "Удалить из меню">
@@ -465,7 +470,6 @@
 <!ENTITY syncSyncNowItem.accesskey "х">
 <!ENTITY syncToolbarButton.label "Синхронизация">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">
-<!ENTITY social.notLoggedIn.label "Не зашёл">
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleSidebar.label "Показать боковую панель">
