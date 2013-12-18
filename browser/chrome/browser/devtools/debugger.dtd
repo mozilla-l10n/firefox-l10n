@@ -128,8 +128,8 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "सशर्त विराम बिंदु जोड़ें">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.variables      "चर">
 <!ENTITY debuggerUI.tabs.events         "घटना">

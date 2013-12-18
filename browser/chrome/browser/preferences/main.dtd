@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "डाउनलोड">
 
-<!ENTITY showWhenDownloading.label     "फ़ाइल डाउनलोडिंग के दौरान डाउनलोडिंग विंडो दिखाएँ (D)">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "इसे बंद करें जब सभी डाउनलोड समाप्त हो जाता है (w)">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "यहाँ फ़ाइल सहेजें (v)">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ब्राउज करें… (o)">

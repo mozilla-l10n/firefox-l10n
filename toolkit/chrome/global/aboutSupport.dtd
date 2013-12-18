@@ -9,13 +9,13 @@
 उपयोगी हो सकता है कि तकनीकी जानकारी है. 
 &brandShortName;, के बारे में आम सवालों के जवाब की तलाश में हैं, हमारे  <a id='supportLink'>समर्थन वेबसाइट की जाँच करें.</a>">
 
+<!ENTITY aboutSupport.crashes.title "क्रैश रिपोर्ट">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "रिपोर्ट ID">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
-
-
+<!ENTITY aboutSupport.crashes.sendDate "सुपुर्द">
+<!ENTITY aboutSupport.crashes.allReports "सभी क्रैश रिपोर्ट">
+<!ENTITY aboutSupport.crashes.noConfig "इस अनुप्रयोग को क्रैश रिपोर्ट को दिखाने के लिए विन्यस्त किया गया है.">
 
 <!ENTITY aboutSupport.extensionsTitle "विस्तार">
 <!ENTITY aboutSupport.extensionName "नाम">

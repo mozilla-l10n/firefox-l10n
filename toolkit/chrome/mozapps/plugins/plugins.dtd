@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "अद्यतन के लिए जाँचें...">
 <!ENTITY disabledPlugin                                      "यह प्लगइन निष्क्रिय किया गया है.">
 <!ENTITY blockedPlugin.label                                 "यह प्लगिन आपकी सुरक्षा के लिए रोका गया है.">
-
+<!ENTITY hidePluginBtn.label                                 "प्लगइन छिपाएँ">
 <!ENTITY installPlugin                                       "प्लगइन संस्थापित करें…">
 <!ENTITY managePlugins                                       "प्लगइन प्रबंधित करें…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

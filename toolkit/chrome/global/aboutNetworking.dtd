@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "संजालन का परिचय">
-
+<!ENTITY aboutNetworking.warning               "यह काफी प्रायोगिक है. बिना व्यस्क पुनरीक्षण के इसे उपयोग मत करें.">
 <!ENTITY aboutNetworking.showNextTime          "इस चेतावनी को अगली बार दिखाएँ">
 <!ENTITY aboutNetworking.ok                    "ठीक">
 <!ENTITY aboutNetworking.http                  "Http">
@@ -11,7 +11,7 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "वेबसॉकेट">
 <!ENTITY aboutNetworking.refresh               "ताज़ा करें">
-
+<!ENTITY aboutNetworking.autoRefresh           "हर 3 सेकेंड में स्वतःफ्रेश">
 <!ENTITY aboutNetworking.hostname              "मेजबाननाम">
 <!ENTITY aboutNetworking.port                  "पोर्ट">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
@@ -24,7 +24,7 @@
 <!ENTITY aboutNetworking.received              "हस्तगत">
 <!ENTITY aboutNetworking.family                "परिवार">
 <!ENTITY aboutNetworking.addresses             "पता">
-
+<!ENTITY aboutNetworking.expires               "समय समाप्त (सेकेंड)">
 <!ENTITY aboutNetworking.messagesSent          "संदेश प्रेषित">
 <!ENTITY aboutNetworking.messagesReceived      "संदेश प्राप्त">
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स भेजा">
