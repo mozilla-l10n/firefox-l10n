@@ -245,6 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "Blwch Offer y Porwr">
+<!ENTITY browserToolboxMenu.accesskey "B">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Cau'r Offer Datblygwyr">
 <!ENTITY devToolbarMenu.label              "Bar Offer Datblygwyr">
@@ -255,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Offer Toglo">
 <!ENTITY devToolboxMenuItem.accesskey      "O">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toglo offer datblygu">
 <!ENTITY devToolbarOtherToolsButton.label  "Rhagor o Offer">
@@ -409,7 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
 <!ENTITY emailPageCmd.label           "Dolen E-bost…">
 <!ENTITY emailPageCmd.accesskey       "D">
-
+<!ENTITY switchToMetroCmd.label       "Ailgychwyn yn &brandShortName; arddull Windows 8">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!-- alternate for content area context menu -->
