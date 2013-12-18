@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "លទ្ធផល​របស់​អ្នក">
 
-<!ENTITY appbarErrorConsole.label   "បើក​កុងសូល​កំហុស">
-<!ENTITY appbarJSShell.label        "បើក​សែល JavaScript">
-<!ENTITY appbarFindInPage2.label    "រកមើល​ក្នុង​ទំព័រ">
-<!ENTITY appbarViewOnDesktop2.label "មើល​លើ​ផ្ទៃតុ">
-<!ENTITY appbarMSMetaData2.label    "យក​កម្មវិធី​សម្រាប់​បណ្ដាញ​នេះ">
+<!ENTITY appbarErrorConsole.label      "បើក​កុងសូល​កំហុស">
+<!ENTITY appbarJSShell.label           "បើក​សែល JavaScript">
+<!ENTITY appbarFindInPage2.label       "រកមើល​ក្នុង​ទំព័រ">
+<!ENTITY appbarRelaunchInDesktop.label "បើក​ឡើង​វិញ​នៅ​លើ​ផ្ទៃតុ">
+<!ENTITY appbarMSMetaData2.label       "យក​កម្មវិធី​សម្រាប់​បណ្ដាញ​នេះ">
+<!ENTITY appbarViewPageSource.label    "មើល​ប្រភព​ទំព័រ">
 
 <!ENTITY topSitesHeader.label        "តំបន់បណ្ដាញ​ពេញនិយម">
 <!ENTITY bookmarksHeader.label       "ចំណាំ">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "កំពុង​រក​មើល​ផ្ទាំង​របស់​អ្នក​ឬ? គ្រាន់តែ​ទាញ​ចុះក្រោម ឬ​ចុច​កណ្ដុរ​​ស្ដាំ">
+<!ENTITY firstRunTopSites.label "ទៅ​កាន់​តំបន់បណ្ដាញ​ដែល​អ្នក​មើល​ច្រើន​បំផុត">
+<!ENTITY firstRunBookmarks.label "រក​ទំព័រ​ដែល​អ្នក​បាន​រក្សាទុក​សម្រាប់​ពេលក្រោយ">
+<!ENTITY firstRunMenu.label "ចូល​ប្រើ​លក្ខណៈ និង​ជម្រើស​​ច្រើន​ទៀត">
+<!ENTITY firstRunHistory.label "មើល​កន្លែង​ដែល​អ្នក​ធ្លាប់​បាន​ចូល​នៅ​លើ​បណ្ដាញ">
+<!ENTITY firstRunWelcome.label "ស្វាគមន៍​មក​កាន់ &brandShortName;">
+<!ENTITY firstRunDifferent.label "ការ​រចនា​ប្លែក​គេ">
