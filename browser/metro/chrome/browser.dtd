@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "మీ ఫలితాలు">
 
-<!ENTITY appbarErrorConsole.label   "దోష కన్సోల్ తెరువుము">
-<!ENTITY appbarJSShell.label        "జావాస్క్రిప్ట్ షెల్ తెరువుము">
-<!ENTITY appbarFindInPage2.label    "పేజీతో వెతకండి">
-<!ENTITY appbarViewOnDesktop2.label "డెస్కుటాప్ పైన దర్శించు">
-<!ENTITY appbarMSMetaData2.label    "ఈ సైటు కొరకు అనువర్తనం పొందు">
+<!ENTITY appbarErrorConsole.label      "దోష కన్సోల్ తెరువుము">
+<!ENTITY appbarJSShell.label           "జావాస్క్రిప్ట్ షెల్ తెరువుము">
+<!ENTITY appbarFindInPage2.label       "పేజీతో వెతకండి">
+
+<!ENTITY appbarMSMetaData2.label       "ఈ సైటు కొరకు అనువర్తనం పొందు">
+
 
 <!ENTITY topSitesHeader.label        "ముఖ్య సైట్లు">
 <!ENTITY bookmarksHeader.label       "ఇష్టాంశములు">
@@ -108,3 +109,22 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
+
+<!ENTITY firstRunWelcome.label "&brandShortName;‌కి స్వాగతం">
+<!ENTITY firstRunDifferent.label "రూపకల్పనే విభిన్నం">
