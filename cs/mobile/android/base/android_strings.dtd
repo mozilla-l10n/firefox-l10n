@@ -182,7 +182,6 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Stahovat aktualizace automaticky">
-<!ENTITY pref_update_autodownload "Automatické aktualizace">
 <!ENTITY pref_update_autodownload_wifi "Pouze pomocí Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikdy">
 <!ENTITY pref_update_autodownload_always "Vždy">
@@ -232,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Upravit">
 <!ENTITY contextmenu_top_sites_pin "Připnout stránku">
 <!ENTITY contextmenu_top_sites_unpin "Odepnout stránku">
+<!ENTITY contextmenu_add_search_engine "Přidat vyhledávací modul">
 
 <!ENTITY pref_titlebar_mode "Hlavička okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazit adresu stránky">
+
+<!ENTITY pref_dynamic_toolbar "Při skrolování skrýt hlavičku okna">
 
 <!ENTITY history_removed "Stránka odebrána">
 

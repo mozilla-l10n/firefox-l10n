@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Osobní vizitka (vCard)">
 <!ENTITY attachVCardCmd.accesskey "O">
+<!ENTITY remindLater.label "Upozornit mě později">
+<!ENTITY remindLater.accesskey "U">
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
