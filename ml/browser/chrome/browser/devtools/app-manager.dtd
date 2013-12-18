@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "സൂക്ഷിക്കുക">
+
 
 <!ENTITY connection.connecting "കണക്ട് ചെയ്യുന്നു…">
 
@@ -71,6 +71,11 @@
 
 
 
+
+
+
+
+<!ENTITY projects.valid "വാലിഡ്‌ ">
 
 
 
