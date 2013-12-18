@@ -3,20 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+
+<!ENTITY urlbar.emptytext      "Peyva lêgerînê yan jî navnîşanê binivîse">
+
 <!ENTITY back.label            "Paş">
-
-
+<!ENTITY forward.label         "Pêşve">
+<!ENTITY newtab.label          "Hilpekîna nû">
 <!ENTITY closetab.label        "Hilpekînê bigire">
 
+<!ENTITY autocompleteResultsHeader.label  "Encamên te">
+
+<!ENTITY appbarErrorConsole.label      "Konsola çewtiyan veke">
+<!ENTITY appbarJSShell.label           "Qalikê JavaScriptê veke">
+<!ENTITY appbarFindInPage2.label       "Di rûpelê de bibîne">
+
+<!ENTITY appbarMSMetaData2.label       "Bernamekoka vê malperê bistîne">
 
 
-<!ENTITY appbarFindInPage2.label    "Di rûpelê de bibîne">
-
-
-
-
-
-
+<!ENTITY topSitesHeader.label        "Malperên Sereke">
+<!ENTITY bookmarksHeader.label       "Bijare">
+<!ENTITY recentHistoryHeader.label   "Raboriya Nêzîk">
+<!ENTITY remoteTabsHeader.label      "Hilpekînên ji Cîhazên Din">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -25,20 +32,24 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Malperên Sereke">
+<!ENTITY narrowBookmarksHeader.label     "Bijare">
+<!ENTITY narrowRecentHistoryHeader.label "Raboriya Nêzîk">
+<!ENTITY narrowRemoteTabsHeader.label    "Hilpekînên Dûr">
 
-
-
-
+<!ENTITY downloadsHeader.label     "Jêbarkirî">
+<!ENTITY downloadShowPage.label    "Here rûpelê">
 <!ENTITY downloadShow2.label       "Bibîne">
 <!ENTITY downloadOpen2.label       "Veke">
 <!ENTITY downloadCancel.label      "Betal">
 <!ENTITY downloadPause.label       "Rawestîne">
 <!ENTITY downloadResume.label      "Dubare bike">
-
+<!ENTITY downloadRetry.label       "Dubare">
 <!ENTITY downloadRemove.label      "Rake">
-
+<!ENTITY downloadDelete.label      "Jê bibe">
 <!ENTITY downloadFailed.label      "Têk çû">
 
+<!ENTITY allBookmarks.label        "Hemû bijareyan nîşan bibîne">
 
 <!ENTITY consoleHeader.label       "Konsola Çewtiyê">
 
@@ -84,6 +95,25 @@
 
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
 
 
 

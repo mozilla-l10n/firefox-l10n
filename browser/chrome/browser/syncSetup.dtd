@@ -33,8 +33,6 @@
 <!ENTITY setup.choosePassword.accesskey  "Ş">
 <!ENTITY setup.confirmPassword.label     "Şîfreyê pesend bike">
 <!ENTITY setup.confirmPassword.accesskey "Ş">
-<!ENTITY setup.setupMetro.label     "Bi &brandShortName;a bi şêweya Windows 8ê re hevcot bike">
-<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -43,7 +41,7 @@
 <!ENTITY setup.tosLink.label        "Termên servîsê">
 <!ENTITY setup.tosAgree2.label      "û">
 <!ENTITY setup.ppLink.label         "Siyaseta nepeniyê">
-<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree3.label      "qebûl dikim.">
 <!ENTITY setup.tosAgree2.accesskey  "û">
 <!-- My Recovery Key dialog -->
 

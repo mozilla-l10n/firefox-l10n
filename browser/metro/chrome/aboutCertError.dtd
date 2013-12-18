@@ -32,6 +32,6 @@ niha êrîşî girêdana te ya înternetê dikin.</b>">
 <!ENTITY certerror.expert.contentPara2 "Heta ku sedemeke te ya baş tune be, 
 li nasnameya malperên wisa ewle nebe û zêdebariyê nedê.">
 <!ENTITY certerror.addTemporaryException.label "Serdana malperê bike">
-
+<!ENTITY certerror.addPermanentException.label "Îstîsnaya mayînde lê zêde bike">
 
 <!ENTITY certerror.technical.heading "Kitekitên Teknîkî">
