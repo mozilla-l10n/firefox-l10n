@@ -11,8 +11,8 @@
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
 <!ENTITY openLinkCmd.accesskey        "i">
-<!ENTITY openLinkCmdInPrivateWindow.label     "Avaa linkki yksityisikkunaan">
-<!ENTITY openLinkCmdInPrivateWindow.accesskey "l">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Avaa tietosuojaikkunaan">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "t">
 <!ENTITY openLinkInWindowCmd.label    "Avaa">
 <!ENTITY openLinkInWindowCmd.accesskey "A">
 <!ENTITY openFrameCmd.label           "Avaa kehys uuteen ikkunaan">
