@@ -109,6 +109,9 @@
 
 <!ENTITY options.enablePersistentLogging.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY options.enablePersistentLogging.tooltip  "ഈ ഐച്ഛികം പ്രവര്‍ത്തന സജ്ജമാക്കിയാല്‍, ഒരോ പുതിയ താളിലേക്കു് പോകുമ്പോഴും വെബ് കണ്‍സോള്‍ ഔട്ട്പുട്ട് വെടിപ്പാക്കുന്നതല്ല.">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

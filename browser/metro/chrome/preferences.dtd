@@ -33,5 +33,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "സന്ദര്‍ശിച്ചുകൊണ്ടിരുന്ന താളിന്റെ വിലാസം ചേര്‍ക്കുക.">
 <!ENTITY optionsHeader.telemetry.title                            "ടെലിമെട്രി">
 

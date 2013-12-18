@@ -13,8 +13,6 @@ about &brandShortName;, check out our <a id='supportLink'>support web site</a>."
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ഐഡി രേഖപ്പെടുത്തുക">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "സമര്‍പ്പിച്ചവ">
 <!ENTITY aboutSupport.crashes.allReports "എല്ലാ തകരാര്‍ റിപ്പോര്‍ട്ടുകളും">
 <!ENTITY aboutSupport.crashes.noConfig "തകരാറിന്റെ റിപോര്‍ട്ട് കാണിയ്ക്കുന്നതിനു് ഈ പ്രയോഗം ക്രമീകരിച്ചിട്ടില്ല.">
