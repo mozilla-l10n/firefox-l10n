@@ -29,7 +29,6 @@
 <!ENTITY bookmarkAllTabs.accesskey "в">
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
 <!ENTITY undoCloseTab.accesskey "с">
-<!ENTITY undoCloseTabs.label "Восстановить закрытые вкладки">
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY closeTab.accesskey "а">
 <!ENTITY listAllTabs.label "Список всех вкладок">
