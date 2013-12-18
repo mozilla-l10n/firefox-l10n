@@ -11,13 +11,13 @@
 <!ENTITY formatGroup.label   "Forma">
 
 <!ENTITY orientation.label   "Ünvan:">
-<!ENTITY portrait.label      "Dikey">
-<!ENTITY portrait.accesskey  "e">
-<!ENTITY landscape.label     "Yatay">
-<!ENTITY landscape.accesskey "Y">
+<!ENTITY portrait.label      "Şaquli">
+<!ENTITY portrait.accesskey  "Ş">
+<!ENTITY landscape.label     "Üfiqi">
+<!ENTITY landscape.accesskey "Ü">
 
 <!ENTITY scale.label         "Ölçü:">
-<!ENTITY scale.accesskey     "S">
+<!ENTITY scale.accesskey     "Ö">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Səhifə ölçüsünə sığdır">

@@ -15,17 +15,13 @@
 <!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
 <!ENTITY useCurrentPage.accesskey  "H">
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
-<!ENTITY chooseBookmark.label      "Əlfəçin istifadə et">
+<!ENTITY chooseBookmark.label      "Əlfəcin istifadə et…">
 <!ENTITY chooseBookmark.accesskey  "Ə">
 <!ENTITY restoreDefault.label      "Standart vəziyyətə qaytar">
 <!ENTITY restoreDefault.accesskey  "S">
 
 <!ENTITY downloads.label     "Endirilənlər">
 
-<!ENTITY showWhenDownloading.label     "Fayl yüklənərkən yükləmə səhifəsini göstər">
-<!ENTITY showWhenDownloading.accesskey "y">
-<!ENTITY closeWhenDone.label "Yükləmələr başa çatanda yükləmə pəncərəsini bağla">
-<!ENTITY closeWhenDone.accesskey "b">
 <!ENTITY saveTo.label "Faylların saxlandığı yer">
 <!ENTITY saveTo.accesskey "y">
 <!ENTITY chooseFolderWin.label        "Bax…">

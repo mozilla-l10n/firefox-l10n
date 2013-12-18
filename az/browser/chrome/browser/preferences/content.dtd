@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Qəfil-Pəncərə">
+
 <!ENTITY  blockPopups.label           "Peyda olan pəncərələri blokla">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.accesskey       "b">
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
 
@@ -15,7 +17,7 @@
 <!ENTITY  defaultSize.accesskey       "B">
 
 <!ENTITY  advancedFonts.label         "Ətraflı…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.accesskey     "Ə">
 
 <!ENTITY  colors.label                "Rənglər…">
 <!ENTITY  colors.accesskey            "R">

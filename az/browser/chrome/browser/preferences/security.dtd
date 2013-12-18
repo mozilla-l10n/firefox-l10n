@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  general.label                 "Ümumi">
+
 <!ENTITY  warnAddonInstall.label        "Saytlar əlavə quraşdırmaq istəyəndə məni xəbərdar et">
 <!ENTITY  warnAddonInstall.accesskey    "u">
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -16,23 +18,23 @@
 <!ENTITY  blockAttackSites.accesskey "s">
 
 <!ENTITY  blockWebForgeries.label     "Bildirilmiş saxtakarlıq saytlarını blokla">
-<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockWebForgeries.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "İstisnalar…">
-<!ENTITY  addonExceptions.accesskey     "E">
+<!ENTITY  addonExceptions.accesskey     "İ">
 
 
 <!ENTITY  passwords.label               "Şifrələr">
 
-<!ENTITY  rememberPasswords.label       "Saytlarda daxil edilən şifrələri saxla">
-<!ENTITY  rememberPasswords.accesskey   "R">
+<!ENTITY  rememberPasswords.label       "Saytlarda daxil edilən şifrələri yadda saxla">
+<!ENTITY  rememberPasswords.accesskey   "s">
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.accesskey  "n">
 
-<!ENTITY  useMasterPassword.label        "Ana şifrədən istifadə et">
-<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  useMasterPassword.label        "Master-Şifrə istifadə et">
+<!ENTITY  useMasterPassword.accesskey    "i">
 <!ENTITY  changeMasterPassword.label     "Ana şifrəni dəyiş…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
-<!ENTITY  savedPasswords.label            "Saxlanmış şifrələr…">
-<!ENTITY  savedPasswords.accesskey        "P">
+<!ENTITY  savedPasswords.label            "Saxlanmış Şifrələr…">
+<!ENTITY  savedPasswords.accesskey        "Ş">

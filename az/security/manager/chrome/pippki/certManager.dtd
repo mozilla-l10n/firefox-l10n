@@ -19,8 +19,8 @@
 <!ENTITY certmgr.cas                          "Bu təsdiq sənədi səlahiyyətlilərini müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
 <!ENTITY certmgr.orphans                      "Heç bir sinifə aid olmayan qeydiyyatlı təsdiq sənədləriniz var:">
 
-<!ENTITY certmgr.detail.general_tab.title     "Genel">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.title     "Ümumi">
+<!ENTITY certmgr.detail.general_tab.accesskey "Ü">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Ətraflı məlumat">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 

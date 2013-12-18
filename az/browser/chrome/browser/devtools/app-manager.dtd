@@ -10,7 +10,7 @@
 
 
 
-
+<!ENTITY device.stopApp "Dur">
 
 
 
@@ -22,7 +22,7 @@
 
 <!ENTITY device.prompt "Klient">
 
-
+<!ENTITY device.deny "Rədd et">
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "Dəyişiklikləri saxla">
+
 
 <!ENTITY connection.connecting "Bağlanır…">
 
@@ -72,6 +72,11 @@
 
 
 
+
+
+
+<!ENTITY projects.valid "Etibarlıdır">
+<!ENTITY projects.error "Səhv">
 
 
 

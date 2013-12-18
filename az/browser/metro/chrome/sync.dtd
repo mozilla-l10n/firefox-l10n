@@ -5,8 +5,10 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
-
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; Quraşdır">
 <!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; Quraşdır">
 
 
 
@@ -25,6 +27,8 @@
 
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Təkrar Yoxla">
 <!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Qoşul">
 
 
 

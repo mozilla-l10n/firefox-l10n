@@ -5,8 +5,8 @@
 <!ENTITY  typeColumn.label        "Məzmun formatı">
 <!ENTITY  typeColumn.accesskey    "t">
 
-<!ENTITY  actionColumn2.label     "Hərəkət">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.label     "Əməliyyat">
+<!ENTITY  actionColumn2.accesskey "Ə">
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">

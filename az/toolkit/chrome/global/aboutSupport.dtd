@@ -10,8 +10,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Hesabat kimliyi">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
+
 
 
 
@@ -26,7 +25,7 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yeniləmə keçmişini göstər">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik qovluğu">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

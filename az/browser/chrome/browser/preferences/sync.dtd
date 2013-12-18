@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "Hesabı idarə et">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.accesskey      "ə">
 <!ENTITY viewQuota.label              "Limiti göstər">
 <!ENTITY changePassword2.label        "Şifrəni dəyiş…">
 <!ENTITY myRecoveryKey.label          "Bərpa açarım">
@@ -27,7 +27,7 @@
 <!ENTITY engine.bookmarks.label     "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label          "Vərəqlər">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Şifrələr">

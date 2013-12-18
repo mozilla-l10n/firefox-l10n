@@ -12,7 +12,7 @@
 <!ENTITY     button.allow.label             "İcazə ver">
 <!ENTITY     button.allow.accesskey         "İ">
 <!ENTITY     button.session.label           "Bu seans üçün icazə ver">
-<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.session.accesskey       "s">
 <!ENTITY     button.deny.label              "Reddet">
 <!ENTITY     button.deny.accesskey          "d">
 

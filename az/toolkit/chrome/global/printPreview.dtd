@@ -11,10 +11,10 @@
 <!ENTITY of.label             " -> ">
 <!ENTITY scale.label          "Ölçü:">
 <!ENTITY scale.accesskey      "S">
-<!ENTITY portrait.label       "Dikey">
-<!ENTITY portrait.accesskey   "k">
-<!ENTITY landscape.label      "Yatay">
-<!ENTITY landscape.accesskey  "Y">
+<!ENTITY portrait.label       "Şaquli">
+<!ENTITY portrait.accesskey   "a">
+<!ENTITY landscape.label      "Üfiqi">
+<!ENTITY landscape.accesskey  "Ü">
 <!ENTITY close.label          "Qapat">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">

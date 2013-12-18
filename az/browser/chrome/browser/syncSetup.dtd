@@ -29,12 +29,10 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Hesab məlumatları">
 <!ENTITY setup.emailAddress.label     "Poçt ünvanı">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Bir şifrə seçin">
-<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "Bir Şifrə Seçin">
+<!ENTITY setup.choosePassword.accesskey  "Ş">
 <!ENTITY setup.confirmPassword.label     "Şifrəni təsdiqləyin">
 <!ENTITY setup.confirmPassword.accesskey "d">
-<!ENTITY setup.setupMetro.label     "Windows 8 stilli &brandShortName; ilə sinxronlaşdır">
-<!ENTITY setup.setupMetro.accesskey "r">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -55,7 +53,7 @@
 <!ENTITY recoveryKeyBackup.description "Bərpa açarınız digər avadanlıqlarda &syncBrand.fullName.label; məlumatlarınızı əldə etməyə kömək edər. Lütfən onu kopyalayın. Bərpa açarınızı geri almağa kömək edə bilmərik.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çap et…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.accesskey "Ç">
 <!ENTITY button.syncKeyBackup.save.label      "Saxla…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
@@ -94,9 +92,9 @@
 <!ENTITY engine.passwords.label     "Şifrələr">
 <!ENTITY engine.passwords.accesskey "Ş">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Eklentiler">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.prefs.accesskey     "l">
+<!ENTITY engine.addons.label        "Əlavələr">
+<!ENTITY engine.addons.accesskey    "Ə">
 
 <!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Tövsiyyə edilən:">

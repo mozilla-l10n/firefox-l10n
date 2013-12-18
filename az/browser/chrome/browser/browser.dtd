@@ -75,12 +75,12 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY goOfflineCmd.label "Oflayn İşlə">
 <!ENTITY goOfflineCmd.accesskey "l">
 
-<!ENTITY menubarCmd.label "Menyu sətiri">
+<!ENTITY menubarCmd.label "Menyu sətri">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Naviqasiya alət sətiri">
+<!ENTITY navbarCmd.label "Naviqasiya alət sətri">
 <!ENTITY personalbarCmd.label "Əlfəcin Paneli">
 <!ENTITY personalbarCmd.accesskey "Ə">
-<!ENTITY bookmarksToolbarItem.label "Əlfəçin alət sətiri obyektləri">
+<!ENTITY bookmarksToolbarItem.label "Əlfəcin alət sətri obyektləri">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -176,8 +176,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
 <!ENTITY bookmarksMenuButton.tooltip        "Əlfəcinləri göstər">
 <!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış Əlfəcinlər">
-<!ENTITY viewBookmarksSidebar.label         "Kənar sətirində göstər">
-<!ENTITY viewBookmarksToolbar.label         "Əlfəçin alət sətirini göstər">
+<!ENTITY viewBookmarksSidebar.label         "Kənar sətirdə göstər">
+<!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Uyğun dizayn görünüşü">
 <!ENTITY responsiveDesignTool.accesskey "U">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -242,20 +242,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "Q">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "Səyyah Alətlər Sətri">
+<!ENTITY browserToolboxMenu.accesskey "h">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "İnkişaf etdirici alət sətirini bağla">
+<!ENTITY devToolbarCloseButton.tooltiptext "İnkişaf etdirici alət sətrini bağla">
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
 <!ENTITY devToolbarMenu.accesskey          "P">
-
-
+<!ENTITY devAppMgrMenu.label               "Proqram İdarə edicisi">
+<!ENTITY devAppMgrMenu.accesskey           "P">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keycode        "İ">
 <!ENTITY devToolboxMenuItem.keytext        "İ">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Mühəndis alətlərinini göstər/gizlət">
@@ -310,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "u">
 <!ENTITY viewToolbarsMenu.label       "Alət sətirləri"> 
 <!ENTITY viewToolbarsMenu.accesskey     "A"> 
-<!ENTITY viewSidebarMenu.label "Kənar sətiri">
+<!ENTITY viewSidebarMenu.label "Kənar sətir">
 <!ENTITY viewSidebarMenu.accesskey "K">
 <!ENTITY viewCustomizeToolbar.label       "Şəxsiləşdir…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
@@ -328,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "Özelleştir">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Ünvanl daxil et və ya axtar">
+<!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
 <!-- 
@@ -410,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Ə">
 <!ENTITY emailPageCmd.label           "Bağlantını e-poçt ilə göndər…">
 <!ENTITY emailPageCmd.accesskey       "B">
+<!ENTITY switchToMetroCmd.label       "&brandShortName; səyyahını Windows 8 stilində yenidən başlat">
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
@@ -607,6 +609,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Sayta bağlantımın təhlükəsiz olduğunu necə öyrənə bilərəm?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -629,7 +633,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Kənar sətirini göstər">
+<!ENTITY social.toggleSidebar.label "Kənar sətri göstər">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "Xidmətləri idarə et…">
@@ -648,9 +652,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Çatlara keç">
 <!ENTITY social.chatBar.accesskey "Ç">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "S">
+<!ENTITY social.markpageMenu.label "Səhifəni Saxla…">
+<!ENTITY social.marklinkMenu.accesskey "K">
+<!ENTITY social.marklinkMenu.label "Keçidi Saxla…">
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -680,8 +685,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "32em">
 
-
-
+<!ENTITY tabCrashed.header "Vərəq xətaya uğradı">
+<!ENTITY tabCrashed.message "Ehh, bu utanc vericidir. Biz veb səhifəni göstərməyə çalışdıq, amma o cavab vermir.">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName; üçün bu xəta haqda yaz və onlar ən yaxın zamanda bu problemi həll etsinlər.">
 <!ENTITY tabCrashed.tryAgain "Təkrar Yoxla">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
@@ -716,6 +722,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomOutButton.tooltip         "Uzaqlaş">
 <!ENTITY zoomInButton.tooltip          "Yaxınlaş">
 <!ENTITY zoomControls.label            "Yaxınlaşma seçimləri">
-<!ENTITY addonBarCloseButton.tooltip   "Əlavələr sətirini bağla">
+<!ENTITY addonBarCloseButton.tooltip   "Əlavələr sətrini bağla">
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!-- end of strings to be removed post-Australis -->

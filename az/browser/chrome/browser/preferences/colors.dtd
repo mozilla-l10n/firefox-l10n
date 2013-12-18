@@ -13,7 +13,7 @@
 <!ENTITY  textColor.label                 "Metin:">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Arxa fon:">
-<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Sistem rənglərinən istifadə et">
 <!ENTITY  useSystemColors.accesskey       "S">
 
@@ -23,4 +23,4 @@
 <!ENTITY  linkColor.label                 "Baxılmamış bağlantılar:">
 <!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Baxılmış bağlantılar:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "B">

@@ -12,7 +12,7 @@
 <!ENTITY languages.customize.moveDown.label             "Aşağı apar">
 <!ENTITY languages.customize.moveDown.accesskey         "A">
 <!ENTITY languages.customize.deleteButton.label         "Sil">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.deleteButton.accesskey     "S">
 <!ENTITY languages.customize.selectLanguage.label       "Əlavə ediləcək dili seçin…">
 <!ENTITY languages.customize.addButton.label            "Ekle">
 <!ENTITY languages.customize.addButton.accesskey        "E">

@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Bu xəta və problem haqqında ətraflı məlumat mövcud deyil</p>">
 
 <!ENTITY malformedURI.title "Etibarsız ünvan">
-<!ENTITY malformedURI.longDesc "<p>Daxil etdiyiniz ünvan düzgün deyil. Ünvan sətirinə baxıb mümükn səhvləri düzəltdikdən sonra yenidən yoxlayın.</p>">
+<!ENTITY malformedURI.longDesc "<p>Daxil etdiyiniz ünvan düzgün deyil. Ünvan sətrinə baxıb mümkün səhvləri düzəltdikdən sonra yenidən yoxlayın.</p>">
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
 <!ENTITY netInterrupt.longDesc "<p>Brauzer uğurla əlaqə qurdu, ancaq məlumat ötürmə zamanı əlaqə kəsildi.Lütfən təkrar yoxlayın.</p><ul><li>Digər saytları da aça bilmirsinizsə. Bağlantınızı yoxlayın.</li><li>Problem hələ də qalırsa server idarəçinizə müraciət edin.</li></ul>">

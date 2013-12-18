@@ -108,8 +108,8 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Avtomatik yenilə:">
-<!ENTITY enableSearchUpdate.label        "Axtarış motorları">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+<!ENTITY enableSearchUpdate.label        "Axtarış Mühərrikləri">
+<!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Bir sayt offline istifadə üçün məlumat saxlamaq istəsə mənə bildir">
 <!ENTITY offlineNotify.accesskey         "t">
