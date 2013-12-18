@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "ڈاؤن لوڈ">
 
-<!ENTITY showWhenDownloading.label     "مسل ڈاؤن لوڈ کرتے وقت ڈاؤن لوڈ دریچہ دکھائیں">
-<!ENTITY showWhenDownloading.accesskey "ڈ">
-<!ENTITY closeWhenDone.label "جب تمام ڈاؤن لوڈ ختم ہو جائیں تو اسے بند کریں">
-<!ENTITY closeWhenDone.accesskey "ج">
 <!ENTITY saveTo.label "مسل محفوظ کریں بر">
 <!ENTITY saveTo.accesskey "م">
 <!ENTITY chooseFolderWin.label        "براؤز کریں…">

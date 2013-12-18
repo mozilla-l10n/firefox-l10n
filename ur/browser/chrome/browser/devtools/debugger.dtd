@@ -124,8 +124,8 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "مشروط بریک پوائنٹ شامل کریں">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.variables      "متغیرات">
 <!ENTITY debuggerUI.tabs.events         "وقوعہ">
