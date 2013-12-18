@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY aboutDialog.title "О &brandFullName;">
+<!ENTITY update.checkForUpdatesButton.label "Проверить наличие обновлений">
+<!ENTITY update.checkForUpdatesButton.accesskey "о">
 <!ENTITY update.updateButton.label "Перезапустить для обновления">
 <!ENTITY update.updateButton.accesskey "е">
 <!ENTITY update.applyButtonBillboard.label "Применить обновление…">
