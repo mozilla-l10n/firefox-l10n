@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Hata ayıkla">
 <!ENTITY device.debugAppTooltip "Aygıttaki bu uygulamaya bağlı Geliştirici Araçları'nı açar.">
 <!ENTITY device.name "Adı">
-<!ENTITY device.app "Uygulama">
+
 <!ENTITY device.privileged "Ayrıcalıklı">
 <!ENTITY device.certified "Sertifikalı">
 <!ENTITY device.allow "İzin ver">
@@ -44,7 +44,7 @@
 
 <!ENTITY connection.startSimulator "Simülatörü başlat">
 <!ENTITY connection.startSimulatorTooltip "Simülatör örneğini başlat ve bağlantısını yap.">
-<!ENTITY connection.saveConnectionInfo "Kaydet">
+
 
 <!ENTITY connection.connecting "Bağlanıyor…">
 <!ENTITY connection.disconnecting "Bağlantı kesiliyor…">
@@ -53,7 +53,7 @@
 
 <!ENTITY connection.or "veya">
 <!ENTITY connection.noSimulatorInstalled "Yüklenmiş simülatör yok.">
-<!ENTITY connection.installOneSimulator "Simülatör'ü yükle">
+<!ENTITY connection.installOneSimulator "Simülatörü yükle">
 
 <!ENTITY connection.installAnotherSimulator "Ekle">
 
@@ -72,11 +72,16 @@
 
 <!ENTITY projects.debugApp "Hata ayıkla">
 <!ENTITY projects.debugAppTooltip "Bu uygulamaya bağlı Geliştirici Araçları'nı aç">
+<!ENTITY projects.saveManifest "Kaydet">
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
 
 
 
 
+
+<!ENTITY projects.valid "Geçerli">
+<!ENTITY projects.error "Hata">
 
 
 <!ENTITY help.title "Uygulama Yöneticisi">
