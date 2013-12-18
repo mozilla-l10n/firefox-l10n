@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បី​ជួយ Mozilla ឲ្យ​បង្កើន​ស្ថិរភាព និង​សុវត្ថិភាព​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "រួម​បញ្ចូល​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​បាន​បើក">
 <!ENTITY optionsHeader.telemetry.title                            "ទូរមាត្រ​វិធី">
 <!ENTITY optionsHeader.telemetry.label                            "ចែករំលែក​ស្ថិត​ប្រើប្រាស់ &brandShortName; ជាមួយ Mozilla ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ប្រសើរ​ឡើង">
