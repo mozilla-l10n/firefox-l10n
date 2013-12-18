@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "ಅಂತ್ಯಗೊಂಡಿದೆ">
 <!ENTITY stats.activitySeeking "(ಕೋರಲಾಗುತ್ತಿದೆ)">
 <!ENTITY stats.volume "ಧ್ವನಿಪ್ರಮಾಣ">
-<!ENTITY stats.channels "ಚಾನಲ್‌ಗಳು">
-<!ENTITY stats.sampleRate "ಮಾದರಿ ದರ">
 <!ENTITY stats.framesParsed "ಪಾರ್ಸ್ ಮಾಡಲಾದ ಚೌಕಟ್ಟುಗಳು">
 <!ENTITY stats.framesDecoded "ಡಿಕೋಡ್ ಮಾಡಲಾದ ಚೌಕಟ್ಟುಗಳು">
 <!ENTITY stats.framesPresented "ಒದಗಿಸಲಾದ ಚೌಕಟ್ಟುಗಳು">

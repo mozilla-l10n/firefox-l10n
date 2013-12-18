@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "ಉಳಿಸು">
+
 
 <!ENTITY connection.connecting "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…">
 
@@ -67,6 +67,16 @@
 
 
 
+<!ENTITY projects.saveManifest "ಉಳಿಸು">
+
+
+
+
+
+
+
+<!ENTITY projects.valid "ಮಾನ್ಯ">
+<!ENTITY projects.error "ದೋಷ">
 
 
 <!ENTITY help.close "ಮುಚ್ಚು">
