@@ -31,9 +31,10 @@
 <!ENTITY doNotTrack.options.doNotTrack                           "वेबसाइटों को बताएं कि मैं नहीं चाहता कि मुझे ट्रैक किया जाए">
 <!ENTITY doNotTrack.options.doTrack                              "वेबसाइटों को बताएं कि मैं चाहता हूँ कि मुझे ट्रैक किया जाए">
 <!ENTITY doNotTrack.options.default                              "वेबसाइटों को मेरी ट्रैकिंग वरीयताओं की जानकारी न दें">
-
+<!ENTITY doNotTrack.learnMoreLink                                "अधिक जानें&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; क्रैश रिपोर्ट सौंपता है ताकि मोज़िल्ला की मदद आपके ब्राउज़र को अधिक स्थायित्व और सुरक्षित बनाने में हो">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "टेलीमिति">
 

@@ -242,11 +242,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "ब्राउज़र डिबगर (e)">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "डेवलेपर टूलबार बंद करें">
 <!ENTITY devToolbarMenu.label              "डेवलेपर टूलबार (v)">
@@ -257,8 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टॉगल औज़ार (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "टॉगल डेवलेपर औज़ार">
 <!ENTITY devToolbarOtherToolsButton.label  "अधिक औज़ार">
@@ -412,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "कड़ी ईमेल करें (E)…">
 <!ENTITY emailPageCmd.accesskey       "E">
+
 <!ENTITY savePageCmd.label            "पृष्ठ ऐसे सहेजें…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->

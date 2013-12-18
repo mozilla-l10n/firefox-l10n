@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "क्या आप मोज़िल्ला क्रैश रिपोर्ट भेजना चाहते हैं?">
+
+
+
+
+
+
+<!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
+<!ENTITY crashprompt.acceptbutton    "रिपोर्ट भेजें">
+<!ENTITY crashprompt.refusebutton    "नहीं भेजें">
+

@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY empty.label            "खोजें">
+<!ENTITY newpref.label          "एक नव वरीयता जोड़ें">
 <!ENTITY addpref.name           "नाम">
 <!ENTITY addpref.value          "मान">
 
 <!ENTITY cancel.label           "रद्द करें">
-
+<!ENTITY reset.label            "फिर सेट करें">
 <!ENTITY done.label             "संपन्न">
 
-
-
+<!ENTITY integer.label          "पूर्णाँक">
+<!ENTITY string.label           "स्ट्रिंग">
+<!ENTITY boolean.label          "बुलियन">
