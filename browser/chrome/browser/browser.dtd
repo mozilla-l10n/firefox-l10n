@@ -242,11 +242,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "Խ">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Դիտարկիչի Վրիպազերծիչը">
-<!ENTITY chromeDebuggerMenu.accesskey   "չ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
 <!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">
@@ -257,7 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
 <!ENTITY devToolboxMenuItem.accesskey      "Ց">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ցուցադրել/Թաքցնել ծրագրավորողի գործիքները">
@@ -412,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
+<!ENTITY switchToMetroCmd.label       "Վերաբացել Windows 8-ի ոճով &brandShortName;-ը">
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "Ո">
 <!-- alternate for content area context menu -->
