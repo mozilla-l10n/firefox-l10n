@@ -221,6 +221,9 @@
 
 <!ENTITY event.reminder.multiple.label "Vícenásobné připomenutí…">
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Čas jako:">
+<!ENTITY event.statusbarpanel.privacy.label               "Soukromí:">
+
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Úprava opakování">
 
