@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Tus resultados">
 
-<!ENTITY appbarErrorConsole.label   "Abrir consola de errores">
-<!ENTITY appbarJSShell.label        "Abrir consola JavaScript">
-<!ENTITY appbarFindInPage2.label    "Buscar en la página">
-<!ENTITY appbarViewOnDesktop2.label "Ver en escritorio">
-<!ENTITY appbarMSMetaData2.label    "Obtener complemento para este sitio">
+<!ENTITY appbarErrorConsole.label      "Abrir consola de errores">
+<!ENTITY appbarJSShell.label           "Abrir consola JavaScript">
+<!ENTITY appbarFindInPage2.label       "Buscar en la página">
+<!ENTITY appbarRelaunchInDesktop.label "Reiniciar en escritorio">
+<!ENTITY appbarMSMetaData2.label       "Obtener complemento para este sitio">
+<!ENTITY appbarViewPageSource.label    "Ver código fuente de esta página">
 
 <!ENTITY topSitesHeader.label        "Sitios frecuentes">
 <!ENTITY bookmarksHeader.label       "Marcadores">
@@ -108,3 +109,22 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
+
+
+

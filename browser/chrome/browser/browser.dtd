@@ -242,11 +242,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Depurador del navegador">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!ENTITY browserToolboxMenu.label     "Caja de herramientas del navegador">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrollador">
@@ -257,8 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Mostrar herramientas">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keycode        "Yo">
-<!ENTITY devToolboxMenuItem.keytext        "yo">
+<!ENTITY devToolboxMenuItem.keytext        "Yo">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Activar las herramientas para desarrolladores">
 <!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
@@ -412,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "Relanzar &brandShortName; en el entorno de Windows 8">
 <!ENTITY savePageCmd.label            "Guardar como…">
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->

@@ -64,16 +64,17 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community ¡Participa!
-
 
 # LOCALIZATION NOTE (firefox_about):
+
 
 
 # link title for https://www.mozilla.org/en-US/about/
 
 
+
 #define firefox_about Acerca de nosotros
+
 
 
 #unfilter emptyLines
