@@ -6,7 +6,7 @@
 <!-- ## Options Flyout Panel ## -->
 
 
-<!ENTITY optionsHeader.title                                     "ఎంపికలు">
+<!ENTITY optionsHeader.title                                     "ఐచ్చికములు">
 <!ENTITY optionsHeader.char.title                                "అక్షర సంహితీకరణ">
 <!ENTITY optionsHeader.char.autodetect.label                     "స్వయంచాలకంగా-గుర్తించు">
 <!ENTITY optionsHeader.char.options.label                        "అనువర్తన పట్టీపైన ఎన్కోడింగ్ ఐచ్చికాలు చూపుము">
@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "కుకీలు">
 <!ENTITY clearPrivateData.cache                                  "క్యాచి">
 <!ENTITY clearPrivateData.sitePref                               "సైటు అభీష్టాలు">
-<!ENTITY clearPrivateData.formSearchHist                         "ఫారాలు &amp; వెతుకుడు చరిత్ర">
+<!ENTITY clearPrivateData.formSearchHist                         "ఫారాలు మరియు వెతుకుడు చరిత్ర">
 <!ENTITY clearPrivateData.passwords                              "భద్రపరచబడిన సంకేతపదాలు">
 <!ENTITY clearPrivateData.offline                                "ఆఫ్‌లైన్ వెబ్‌సైటు దత్తాంశం">
 <!ENTITY clearPrivateData.logins                                 "క్రియాశీల లాగిన్లు">
@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "క్రాష్ నివేదికి">
 <!ENTITY optionsHeader.reporting.crashes.label                   "మీ విహరిణి మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను మొజిల్లాకు అప్పగించును.">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "నేను వున్న పేజీ యొక్క చిరునామా కూడా చేర్చుము">
 <!ENTITY optionsHeader.telemetry.title                            "టెలీమెట్రీ">
 <!ENTITY optionsHeader.telemetry.label                            "మీ విహరిణిని ఉత్తమంగా చేయుటలో మాకు సహాయపడుటకు &brandShortName; గురించిన వాడుక గణాంకాలను మొజిల్లాతో పంచుకొనును">

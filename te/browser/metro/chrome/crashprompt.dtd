@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "మీరు మొజిల్లాకు క్రాష్ నివేదిక పంపుటకు ఇష్టపడతారా?">
+
+
+
+
+
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; గోప్యతా విధానం">
+<!ENTITY crashprompt.includeURLLabel "నేను వున్న పేజీ యొక్క చిరునామా కూడా చేర్చుము">
+<!ENTITY crashprompt.acceptbutton    "నివేదికలను పంపించు">
+<!ENTITY crashprompt.refusebutton    "పంపవద్దు">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; గోప్యతా విధానం">
