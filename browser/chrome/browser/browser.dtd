@@ -328,6 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
+<!ENTITY appMenuHistory.viewSidebar.label "Visa sidofältet Historik">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
