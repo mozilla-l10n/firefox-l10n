@@ -5,7 +5,7 @@
 <!ENTITY folderProps.windowtitle.label "Eiginleikar">
 <!ENTITY generalInfo.label "Almennar upplýsingar">
 <!ENTITY folderCharsetFallback.label "Sjálfgefin stafakóðun:">
-<!ENTITY folderCharsetFallback.accesskey "">
+<!ENTITY folderCharsetFallback.accesskey "e">
 <!ENTITY folderCharsetEnforce.label "Nota stafakóðun á póst í möppu (stafasett fyrir einstakan póst og sjálfvirk meðhöndlun verður hunsað)">
 <!ENTITY folderCharsetEnforce.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Endurbyggja yfirlitsskrá">

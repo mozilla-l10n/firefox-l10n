@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title "Samnýting efnis">
-<!ENTITY getUserMediaDialog.buttonlabelaccept "Samnýta">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel "Hætta við">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.button.accept.label "Samnýta">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label "Hætta við">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "æ">
 <!ENTITY getUserMediaDialog.video.label "Veldu myndavél">
 <!ENTITY getUserMediaDialog.video.noVideo "Engin mynd">
 <!ENTITY getUserMediaDialog.audio.label "Veldu hljóðnema">

@@ -134,6 +134,15 @@
 <!ENTITY event.toolbar.attendees.label "Bjóða þátttakendum">
 <!ENTITY event.toolbar.spellcheck.label "Skoða stafsetningu">
 <!ENTITY event.toolbar.privacy.label "Friðhelgi">
+<!ENTITY event.toolbar.save.tooltip "Vista og loka">
+<!ENTITY event.toolbar.delete.tooltip "Eyða">
+<!ENTITY event.toolbar.attendees.tooltip "Bjóða þátttakendum">
+<!ENTITY event.toolbar.spellcheck.tooltip "Skoða stafsetningu">
+<!ENTITY event.toolbar.attachments.tooltip "Bæta við viðhengjum">
+<!ENTITY event.toolbar.privacy.tooltip "Breyta friðhelgi">
+<!ENTITY event.toolbar.priority.tooltip "Breyta forgangi">
+<!ENTITY event.toolbar.status.tooltip "Breyta stöðu">
+<!ENTITY event.toolbar.freebusy.tooltip "Breyta laus/upptekin tímum">
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titill:">
 <!ENTITY event.title.textbox.accesskey "T">
@@ -196,6 +205,8 @@
 <!ENTITY event.reminder.1week.before.label "1 viku fyrir">
 <!ENTITY event.reminder.custom.label "Sérsniðið…">
 <!ENTITY event.reminder.multiple.label "Margar áminningar…">
+<!ENTITY event.statusbarpanel.freebusy.label "Tími sem:">
+<!ENTITY event.statusbarpanel.privacy.label "Friðhelgi:">
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Breyta endurtekningu">
 <!ENTITY event.repeat.does.not.repeat.label "Engin endurtekning">

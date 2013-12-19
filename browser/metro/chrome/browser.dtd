@@ -13,8 +13,9 @@
 <!ENTITY appbarErrorConsole.label "Opna villuglugga">
 <!ENTITY appbarJSShell.label "Opna JavaScript skel">
 <!ENTITY appbarFindInPage2.label "Finna á síðu">
-<!ENTITY appbarViewOnDesktop2.label "Skoða á skjáborði">
+<!ENTITY appbarRelaunchInDesktop.label "Endurkeyra á skjáborði">
 <!ENTITY appbarMSMetaData2.label "Ná í app fyrir þetta vefsvæði">
+<!ENTITY appbarViewPageSource.label "Sýna frumkóða síðu">
 <!ENTITY topSitesHeader.label "Efstu vefsvæði">
 <!ENTITY bookmarksHeader.label "Bókamerki">
 <!ENTITY recentHistoryHeader.label "Nýlegir ferlar">
@@ -95,3 +96,23 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Ertu að leyta að flipunum? Dragðu niður eða hægri smelltu">
+<!ENTITY firstRunTopSites.label "Fara á þau vefsvæði sem þú heimsækir oftast">
+<!ENTITY firstRunBookmarks.label "Finna síður sem búið er að vista niður">
+<!ENTITY firstRunMenu.label "Fá aðgang að meiri eiginleikum og stillingum">
+<!ENTITY firstRunHistory.label "Sjá hvar þú ert búinn að vera á vefnum">
+<!ENTITY firstRunWelcome.label "Velkomin í &brandShortName;">
+<!ENTITY firstRunDifferent.label "Hannaður til að vera öðruvísi">
