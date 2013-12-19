@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
+<!ENTITY appmenu.title                       "Personalizar y controlar &brandFullName;">
+<!ENTITY navbarOverflow.label                "Más herramientas…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey                "r">
@@ -166,6 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY throbberItem.title "Progreso">
+<!ENTITY viewBookmarksSidebar.label    "Mostrar en barra lateral">
 <!ENTITY bookmarksItem.title "Marcadores">
 
 <!-- Toolbar items --> 
@@ -186,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
-<!ENTITY viewBookmarksSidebar.label         "Mostrar en barra lateral">
+<!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -253,10 +257,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "Depurador del navegador">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "Barra de herramientas del navegador">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
@@ -267,7 +271,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Intercambiar herramientas de desarrollador">
@@ -340,6 +343,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuCustomizeExit.label "Salir de personalizar">
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
+<!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
+
+<!ENTITY customizeMenu.addToToolbar.label "Agregar a barra de herramientas">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Agregar al menú">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Agregar más ítems…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Personalizar barras…">
@@ -355,6 +376,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
+
+<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
+     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
+     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -436,6 +463,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
 <!ENTITY emailPageCmd.label           "Enlace por correo…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "Reiniciar &brandShortName; en estilo Windows 8">
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "a">
 <!-- alternate for content area context menu -->
@@ -642,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Cómo saber si mi conexión a un sitio web es segura?">
+<!ENTITY identity.help.tooltip "How do I tell if my connection to a website is secure?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
@@ -682,6 +710,13 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY social.learnMore.label "Conocer más…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No ahora">
+
+
+
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
+<!ENTITY customizeMode.menuAndToolbars.header "Más herramientas para agregar al menú y la barra">
+<!ENTITY customizeMode.restoreDefaults "Restaurar predeterminadas">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
