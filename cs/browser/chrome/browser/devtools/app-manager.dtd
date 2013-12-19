@@ -38,7 +38,7 @@
 <!ENTITY connection.disconnect "Odpojit">
 <!ENTITY connection.disconnectTooltip "Odpojí se od současného zařízení nebo simulátoru.">
 <!ENTITY connection.notConnected2 "Nepřipojeno.">
-<!ENTITY connection.connectTo "Připojeno k:">
+<!ENTITY connection.connectTo "Připojit k:">
 <!ENTITY connection.noDeviceFound "Nebylo nalezeno žádné zařízení. Připojte jej prosím">
 <!ENTITY connection.changeHostAndPort "Změnit">
 <!ENTITY connection.changeHostAndPortTooltip "Změní server a port použitý pro připojení k zařízení. (Výchozí na localhost:6000)">
