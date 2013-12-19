@@ -546,6 +546,16 @@
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Áframsenda innfellt">
 <!ENTITY buttonMenuForwardAsAttachment.label "Áframsenda sem viðhengi">
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Sýna fjarlægt innihald í þessum pósti">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "Sýna fjarlægt frá þessum sendanda">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Hunsa aðvörun fyrir þennan póst">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Slökkva á greiningu á svikapósti">
+<!ENTITY phishingOptionDisableDetection.accesskey "ö">
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
@@ -755,23 +765,6 @@
 <!ENTITY contextMute.accesskey "H">
 <!ENTITY contextUnmute.label "Virkja hljóð">
 <!ENTITY contextUnmute.accesskey "V">
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; heldur að þessi póstur sé ruslpóstur.">
-<!ENTITY junkBarButton1.label "Ekki ruslpóstur">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Til að verja friðhelgi þína, hefur &brandShortName; lokað á fjartengt efni í þessum pósti.">
-<!ENTITY loadRemoteContentButton3.label "Sýna fjartengt efni">
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Þessi póstur gæti verið svikapóstur.">
-<!ENTITY removePhishingBarButton1.label "Hunsa aðvörun">
-<!ENTITY disablePhishingWarning1.label "Slökkva á greiningu á svikapósti">
-<!ENTITY reportPhishingError1.label "Þessi póstur virðist ekki vera svikapóstur.">
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Hunsa">
-<!ENTITY mdnBarIgnoreButton2.accesskey "H">
-<!ENTITY mdnBarSendButton2.label "Senda staðfestingu á lestri">
-<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

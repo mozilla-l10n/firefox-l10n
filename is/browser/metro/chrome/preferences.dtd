@@ -32,5 +32,6 @@
 <!ENTITY doNotTrack.learnMoreLink "Læra meira&#x2026;">
 <!ENTITY optionsHeader.reporting.title "Tilkynna hrun">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; sendir hrunskýrslur til að hjálpa Mozilla að gera vafrann stöðugri og öruggari">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs "Bæta við netfangi síðunnar sem ég var á">
 <!ENTITY optionsHeader.telemetry.title "Fjarmæling">
 <!ENTITY optionsHeader.telemetry.label "Deildu notkunaryfirliti fyrir &brandShortName; með Mozilla þannig geturðu hjálpað okkur að gera vafrann betri">

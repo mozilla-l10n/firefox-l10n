@@ -19,8 +19,6 @@
 <!ENTITY messageIdField4.label "Auðkenni skeytis">
 <!ENTITY inReplyToField4.label "Svar við">
 <!ENTITY originalWebsite4.label "Vefsvæði">
-<!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
-<!ENTITY editMessageButton.label "Breyta…">
 <!ENTITY hdrArchiveButton1.label "Skjalageymsla">
 <!ENTITY hdrArchiveButton1.tooltip "Setja póst í skjalageymslu">
 <!ENTITY hdrSmartReplyButton1.label "Snjallsvar">
