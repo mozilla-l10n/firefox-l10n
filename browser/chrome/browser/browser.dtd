@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY bookmarkAllTabs.accesskey "d">
 <!ENTITY  undoCloseTab.label                 "Obnovit zavřený panel">
 <!ENTITY undoCloseTab.accesskey "t">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Obnovit zavřené panely">
 <!ENTITY closeTab.label "Zavřít panel">
 <!ENTITY closeTab.accesskey "Z">
 
@@ -699,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Sdílení kamery / mikrofonu">
 <!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, se kterými aktuálně sdílete kameru nebo mikrofon">
 
-<!ENTITY mixedContentBlocked.helplink "Zjisit více">
+<!ENTITY mixedContentBlocked.helplink "Zjistit více">
 <!ENTITY mixedContentBlocked.moreinfo "Většina stránek bude fungovat správně, přestože bude takovýto obsah zablokován..">
 
 <!ENTITY pointerLock.notification.message "Pro opětovné zobrazení stiskněte ESC.">
