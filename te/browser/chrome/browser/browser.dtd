@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "మూసినటాబ్ తిరిగివుంచు">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "మూసివేసిన ట్యాబులను తిరిగి తెరువు">
 <!ENTITY  closeTab.label                     "టాబ్ మూసివేయి">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -411,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ఈమెయిల్ లంకె…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
+<!ENTITY switchToMetroCmd.label       "విండోస్ 8 శైలి &brandShortName;‌లో పునఃప్రారంభించు">
 <!ENTITY savePageCmd.label            "పేజీని యిలా భద్రపరచు...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
