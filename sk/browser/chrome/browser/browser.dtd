@@ -341,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
 <!ENTITY customizeMenu.addToPanel.label "Pridať do ponuky">
+<!ENTITY customizeMenu.addToPanel.accesskey "n">
 <!ENTITY customizeMenu.moveToToolbar.label "Presunúť na panel nástrojov">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!ENTITY customizeMenu.moveToPanel.label "Presunúť do ponuky">
