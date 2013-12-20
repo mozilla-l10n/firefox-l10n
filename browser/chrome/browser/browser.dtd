@@ -256,11 +256,11 @@
 <!ENTITY customizeMenu.moveToToolbar.label "Sposta nella barra degli strumenti">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "S">
 <!ENTITY customizeMenu.moveToPanel.label "Sposta nel menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "S">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Rimuovi dalla barra degli strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
 <!ENTITY customizeMenu.removeFromMenu.label "Rimuovi dal menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "E">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Aggiungi altri elementi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY openCmd.commandkey "l">
