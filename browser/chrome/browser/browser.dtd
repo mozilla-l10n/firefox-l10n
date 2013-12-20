@@ -411,7 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey          "e">
 <!ENTITY emailPageCmd.label                      "Saada link e-postiga...">
 <!ENTITY emailPageCmd.accesskey                  "d">
-<!ENTITY switchToMetroCmd.label                  "Taaskäivita Windows 8 stiilis &brandShortName;i">
+<!ENTITY switchToMetroCmd.label                  "Lülitu Windows 8 stiilis &brandShortName;i">
 <!ENTITY savePageCmd.label                       "Salvesta veebileht kui...">
 <!ENTITY savePageCmd.accesskey                   "S">
 <!-- alternate for content area context menu -->

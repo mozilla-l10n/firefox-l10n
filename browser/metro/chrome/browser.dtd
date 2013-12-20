@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label        "Ava vigade konsool">
 <!ENTITY appbarJSShell.label             "Ava JavaScripti konsool">
 <!ENTITY appbarFindInPage2.label         "Leia lehelt">
-<!ENTITY appbarRelaunchInDesktop.label   "Taaskäivita töölauarežiimis">
+<!ENTITY appbarRelaunchInDesktop.label   "Lülitu töölauarežiimi">
 <!ENTITY appbarMSMetaData2.label         "Hangi selle saidi rakendus">
 <!ENTITY appbarViewPageSource.label      "Vaata veebilehe lähtekoodi">
 
@@ -124,9 +124,9 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 <!ENTITY firstRunTabs.label              "Otsid oma kaarte? Lihtsalt tõmba alla või tee paremklõps">
-<!ENTITY firstRunTopSites.label          "Mine saitidele, mida külastad enim">
+<!ENTITY firstRunTopSites.label          "Mine saitidele, mida kõige sagedamini külastad">
 <!ENTITY firstRunBookmarks.label         "Leia lehed, mille oled salvestanud hilisemaks">
 <!ENTITY firstRunMenu.label              "Veel võimalusi ja sätteid">
-<!ENTITY firstRunHistory.label           "Vaata, kus oled varasemalt veebis olnud">
+<!ENTITY firstRunHistory.label           "Vaata, kus oled varem veebis käinud">
 <!ENTITY firstRunWelcome.label           "Tere tulemast &brandShortName;i">
 <!ENTITY firstRunDifferent.label         "Teadlikult erinev">
