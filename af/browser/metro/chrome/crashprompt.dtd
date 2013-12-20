@@ -4,13 +4,13 @@
 
 
 <!ENTITY crashprompt.title           "Wil u omvalverslae aan Mozilla stuur?">
-
-
-
-
-
-
+<!ENTITY crashprompt.message         "Jammer, &brandShortName; het pas herstel na dit omgeval het. Deur 'n omvalverslag te stuur, help u Mozilla om &brandShortName; meer stabiel en veilig te maak. Verander gerus u voorkeur hieroor onder Voorkeure/Opsies.">
+<!ENTITY crashprompt.detailsLink     "Wat is in 'n omvalverslag?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "'n Omvalverslag bevat besonderhede oor die omvalinsident, die masjien, as ook 'n blik op die toestand van die blaaier toe dit omgeval het.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Dit sluit moontlik in: oop bladsye, teks wat in vorms getik is en die inhoud van oop boodskappe, onlangse blaaigeskiedenis, of geografiese ligging wat met 'n werf gedeel is.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Ons gebruik omvalverslae om probleme reg te stel en ons produkte te verbeter. Ons hanteer u inligting soos beskryf in ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; se privaatheidbeleid">
 <!ENTITY crashprompt.includeURLLabel "Sluit die adres in van die bladsy wat ek besoek het">
 <!ENTITY crashprompt.acceptbutton    "Stuur verslae">
 <!ENTITY crashprompt.refusebutton    "Moenie stuur nie">
-
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; se privaatheidbeleid">

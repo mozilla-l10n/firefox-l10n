@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "Open foutkonsole">
 <!ENTITY appbarJSShell.label           "Open JavaScript-opdraglyn">
 <!ENTITY appbarFindInPage2.label       "Vind in bladsy">
+<!ENTITY appbarRelaunchInDesktop.label "Herbegin in gewone &brandShortName;">
 
-
-
+<!ENTITY appbarViewPageSource.label    "Bekyk bron van bladsy">
 
 <!ENTITY topSitesHeader.label        "Topwerwe">
 <!ENTITY bookmarksHeader.label       "Boekmerke">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Op soek na oortjies? Trek af of klik regs.">
+<!ENTITY firstRunTopSites.label "Gaan na die mees besoekte werwe">
+<!ENTITY firstRunBookmarks.label "Die bladsye wat vir later gestoor is">
+<!ENTITY firstRunMenu.label "Meer funksies en keuses">
+<!ENTITY firstRunHistory.label "Kyk waar op die web u al oral was">
+<!ENTITY firstRunWelcome.label "Welkom by &brandShortName;">
+<!ENTITY firstRunDifferent.label "Verfrissend anders">
