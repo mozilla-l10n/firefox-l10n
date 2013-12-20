@@ -336,6 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
+<!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
