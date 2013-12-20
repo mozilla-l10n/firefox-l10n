@@ -33,7 +33,8 @@
 <!ENTITY doNotTrack.options.default                              "No decirle a los sitios web acerca de mis preferencias de rastreo">
 <!ENTITY doNotTrack.learnMoreLink                                "Conocer más&#x2026;">
 
-<!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
-<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
+<!ENTITY optionsHeader.reporting.title                           "Informe de errores">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envia informes de errores para ayudar a Mozilla a hacer su navegador más estable y seguro">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir la dirección de la página en la que estaba">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
+<!ENTITY optionsHeader.telemetry.label                            "Compartir estadísticas de uso de &brandShortName; con Mozilla para ayudarnos a mejorar el navegador">
