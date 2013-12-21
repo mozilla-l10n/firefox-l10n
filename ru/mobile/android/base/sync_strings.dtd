@@ -4,6 +4,7 @@
 
 <!ENTITY syncBrand.fullName.label "Синхронизация Firefox">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
+<!ENTITY fxaccountBrand.fullName.label "Учётная запись Firefox">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Соединение с &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Добавить учётную запись &syncBrand.fullName.label;">
@@ -71,3 +72,4 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
+<!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
