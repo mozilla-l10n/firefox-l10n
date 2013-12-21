@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
 <!ENTITY customizeMenu.addToPanel.label "Lägg till i menyn">
-<!ENTITY customizeMenu.addToPanel.accesskey "L">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytta till verktygsfält">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
 <!ENTITY customizeMenu.moveToPanel.label "Flytta till menyn">
