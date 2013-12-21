@@ -4,6 +4,7 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY fxaccountBrand.fullName.label "Account di Firefox">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
@@ -71,3 +72,4 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
+<!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
