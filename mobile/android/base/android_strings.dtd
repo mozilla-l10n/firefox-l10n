@@ -57,6 +57,9 @@
 <!ENTITY pref_category_datareporting "Condivisione dati">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
 <!ENTITY pref_category_add_search_providers "Aggiungi altri motori di ricerca">
+<!ENTITY pref_category_search_restore_defaults "Ripristina motori di ricerca">
+<!ENTITY pref_search_restore_defaults "Ripristina predefiniti">
+<!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
 <!ENTITY pref_search_tip "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca.">
 <!ENTITY pref_category_devtools "Strumenti per sviluppatori">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
