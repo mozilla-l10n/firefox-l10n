@@ -349,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Afficher l'historique">
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l'historique récent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
+<!ENTITY appMenuHistory.viewSidebar.label "Afficher le panneau de l'historique">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d'outils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
