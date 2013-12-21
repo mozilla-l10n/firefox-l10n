@@ -7,6 +7,8 @@
 <!ENTITY syncBrand.fullName.label 'Firefox Sync'>
 <!ENTITY syncBrand.shortName.label 'Sync'>
 
+<!ENTITY fxaccountBrand.fullName.label "Compte Firefox">
+
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Se connecter à &syncBrand.shortName.label;'>
