@@ -192,7 +192,7 @@ size. -->
 
 <!ENTITY quit "Quitter">
 
-<!ENTITY addons "Modules complém.">
+<!ENTITY addons "Modules complémentaires">
 <!ENTITY downloads "Téléchargements">
 <!ENTITY apps "Applications">
 <!ENTITY char_encoding "Encodage caractères">
@@ -201,11 +201,11 @@ size. -->
 <!ENTITY share_title "Partager à l\u0027aide de">
 <!ENTITY share_image_failed "Impossible de partager cette image">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
-<!ENTITY find_in_page "Rechercher sur la page">
+<!ENTITY find_in_page "Rechercher dans la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
-<!ENTITY new_private_tab "Onglet de nav. privée">
+<!ENTITY new_private_tab "Nouvel onglet de nav. privée">
 <!ENTITY close_all_tabs "Fermer tous les onglets">
 <!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privés">
