@@ -1,10 +1,12 @@
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
 
-<!-- LOCALIZATION NOTE update.applyButton.*, update.upgradeButton.*):
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
+<!ENTITY update.checkForUpdatesButton.label       "Rechercher des mises à jour">
+<!ENTITY update.checkForUpdatesButton.accesskey   "R">
 <!ENTITY update.updateButton.label                "Redémarrer pour appliquer la mise à jour">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Appliquer la mise à jour…">
