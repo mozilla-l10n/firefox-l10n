@@ -11,7 +11,7 @@
 <!ENTITY sync.disconnect "Disconnetti">
 <!ENTITY sync.syncNow "Sincronizza ora">
 <!ENTITY sync.setup.title "Connessione Sync">
-<!ENTITY sync.setup.pair 'Per attivare selezionare "Collega un dispositivo" sull’altro dispositivo.'>
+<!ENTITY sync.setup.pair "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
 <!ENTITY sync.fallback "Non sono vicino al computer…">
 <!ENTITY sync.setup.manual "Inserire le informazioni sull’account Sync">
 <!ENTITY sync.account "Nome account">
@@ -24,6 +24,6 @@
 <!ENTITY sync.setup.tutorial "Mostra come">
 <!ENTITY sync.setup.waiting2 "In attesa di altri dispositivi…">
 <!ENTITY sync.pair.title "Collega dispositivo">
-<!ENTITY sync.pair.description 'Per attivare un nuovo dispositivo selezionare "Configura Sync" sul dispositivo stesso.'>
+<!ENTITY sync.pair.description "Per attivare un nuovo dispositivo selezionare “Configura Sync” sul dispositivo stesso.">
 <!ENTITY sync.setup.close "Chiudi">
 <!ENTITY sync.setup.waitingdownload "Il download dei dati è attualmente in corso. È possibile chiudere questa scheda in qualunque momento.">
