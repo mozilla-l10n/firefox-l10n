@@ -25,9 +25,9 @@
 <!ENTITY options.enableRemote.label3 "Attiva debug remoto">
 <!ENTITY options.enableRemote.tooltip "Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug su istanze remote di Firefox come Firefox OS">
 <!ENTITY options.disableJavaScript.label "Disattiva JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione, JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l'impostazione verrà rimossa.">
+<!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione, JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.disableCache.label "Disattiva cache *">
-<!ENTITY options.disableCache.tooltip "Attivando questa opzione, la cache verrà disattivata per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l'impostazione verrà rimossa.">
+<!ENTITY options.disableCache.tooltip "Attivando questa opzione, la cache verrà disattivata per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.selectDefaultTools.label "Strumenti di sviluppo predefiniti di Firefox">
 <!ENTITY options.selectAdditionalTools.label "Strumenti di sviluppo installati da componenti aggiuntivi">
 <!ENTITY options.toolNotSupported.label "* Non supportato per il target corrente degli strumenti">
