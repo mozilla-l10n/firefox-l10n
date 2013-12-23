@@ -16,14 +16,14 @@
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sebenzisa amakhasi angoku">
 <!ENTITY chooseBookmark.label      "Sebenzisa ibhukhmakhi…">
-<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY chooseBookmark.accesskey  "u">
 <!ENTITY restoreDefault.label      "Buyisela kwiZiseko">
-<!ENTITY restoreDefault.accesskey  "B">
+<!ENTITY restoreDefault.accesskey  "u">
 
 <!ENTITY downloads.label     "Okukhutshelwayo">
 
 <!ENTITY saveTo.label "Gcina iifayile kwi">
-<!ENTITY saveTo.accesskey "n">
+<!ENTITY saveTo.accesskey "k">
 <!ENTITY chooseFolderWin.label        "Bhrwuza…">
 <!ENTITY chooseFolderWin.accesskey    "w">
 <!ENTITY chooseFolderMac.label        "Khetha…">

@@ -89,7 +89,7 @@
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Ifakela uhlaziyo ngokuzenzekela (kucetyiswa njalo: ukhuseleko olungaphezulu)">
-<!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateAuto1.accesskey           "f">
 <!ENTITY updateAutoMetro.label           "Hlaziya ngokuzenzekelayo kwidesktopu nesimbo seWindows 8 ne &brandShortName;">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Khangela uhlaziyo, kodwa mandikhethe ukuba ndingazifaka na">
@@ -110,10 +110,10 @@
 
 <!ENTITY updateOthers.label              "Uhlaziyo oluzenzekelayo:">
 <!ENTITY enableSearchUpdate.label        "IiNjini zokukhangela">
-<!ENTITY enableSearchUpdate.accesskey    "N">
+<!ENTITY enableSearchUpdate.accesskey    "I">
 
 <!ENTITY offlineNotify.label             "Ndixelele xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
-<!ENTITY offlineNotify.accesskey         "N">
+<!ENTITY offlineNotify.accesskey         "x">
 <!ENTITY offlineNotifyExceptions.label   "Izinxaxhi…">
 <!ENTITY offlineNotifyExceptions.accesskey "z">
 
