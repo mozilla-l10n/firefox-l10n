@@ -7,7 +7,7 @@
 <!ENTITY dntTrackingNopref.label2       "Musa ukuxelela iisayithi ngayo nantoni na ngeepriferensi zam zokulandelwa umkhondo">
 <!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Xelela iisayithi ukuba andifuni kulandelwa umkhondo wam">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingNotOkay.accesskey   "e">
 <!ENTITY dntTrackingOkay.label2         "Xelela iisayithi ukuba ndifuna ukulandwa mkhondo">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Funda ngaphezulu">
@@ -41,7 +41,7 @@
 <!ENTITY  askEachTime.label             "ndibuze ngawo onke amaxesha">
 
 <!ENTITY  cookieExceptions.label        "Izinxaxhi…">
-<!ENTITY  cookieExceptions.accesskey    "I">
+<!ENTITY  cookieExceptions.accesskey    "z">
 
 <!ENTITY  showCookies.label             "Bonisa iikhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
