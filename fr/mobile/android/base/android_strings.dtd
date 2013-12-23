@@ -73,8 +73,8 @@
 <!ENTITY pref_category_datareporting "Données collectées">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
 <!ENTITY pref_category_add_search_providers "Ajouter des moteurs de recherche">
-<!ENTITY pref_category_search_restore_defaults "Moteurs par défaut">
-<!ENTITY pref_search_restore_defaults "Restaurer les moteurs de recherche">
+<!ENTITY pref_category_search_restore_defaults "Restaurer les moteurs de recherche">
+<!ENTITY pref_search_restore_defaults "Moteurs par défaut">
 <!ENTITY pref_search_restore_defaults_summary "Restaurer les moteurs de recherche par défaut">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -205,7 +205,7 @@ size. -->
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
-<!ENTITY new_private_tab "Onglet de navigation privée">
+<!ENTITY new_private_tab "Onglet navigation privée">
 <!ENTITY close_all_tabs "Fermer tous les onglets">
 <!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privés">
