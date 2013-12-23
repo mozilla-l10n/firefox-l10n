@@ -121,7 +121,7 @@
 <!ENTITY stopCmd.accesskey "t">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Interrompi il caricamento della pagina">
-<!ENTITY goEndCap.tooltip "Vai all'url inserito nella barra degli indirizzi">
+<!ENTITY goEndCap.tooltip "Vai all’url inserito nella barra degli indirizzi">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY printButton.tooltip "Stampa questa pagina">
 <!ENTITY locationItem.title "Indirizzo">
@@ -145,7 +145,7 @@
 <!ENTITY keywordfield.label "Aggiungi una parola chiave per questa ricerca…">
 <!ENTITY keywordfield.accesskey "p">
 <!ENTITY downloads.label "Download">
-<!ENTITY downloads.tooltip "Mostra l'avanzamento dei download in corso">
+<!ENTITY downloads.tooltip "Mostra l’avanzamento dei download in corso">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -455,7 +455,7 @@
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.cancel.label "Annulla">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
-<!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
+<!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all’identità.">
 <!ENTITY identity.connectedTo "Si è connessi con">
 <!ENTITY identity.runBy "Questo sito è gestito da">
 <!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
