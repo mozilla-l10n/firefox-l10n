@@ -20,7 +20,7 @@
 <!ENTITY sync.flyout.manualsetup.connect.label "Connetti">
 <!ENTITY sync.flyout.setupsuccess.description1 "&brandShortName; è ora connesso all'account &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setupsuccess.description2 "Il download dei dati &syncBrand.shortName.label; è in corso. Le schede sincronizzate sono disponibili nella pagina iniziale di &brandShortName;.">
-<!ENTITY sync.flyout.setupfailure.description "Impossibile connettersi all'acount &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.description "Impossibile connettersi all'account &syncBrand.shortName.label;.">
 <!ENTITY sync.flyout.setupfailure.cancelButton "Annulla">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton "Riprova">
 <!ENTITY sync.flyout.connected.account "Account:">
