@@ -4,7 +4,7 @@
 
 <!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
 <!ENTITY debuggerUI.panesButton.tooltip "Attiva/disattiva pannelli">
-<!ENTITY debuggerUI.blackBoxMessage.label "Questa sorgente è isolata: i relativi punti di interruzione sono disattivati e l'esecuzione passo a passo la ignorerà.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Questa sorgente è isolata: i relativi punti di interruzione sono disattivati e l’esecuzione passo a passo la ignorerà.">
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Interrompi isolamento di questa sorgente">
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Attiva/disattiva isolamento sorgenti">
@@ -18,7 +18,7 @@
 <!ENTITY debuggerUI.pauseExceptions.key "M">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignora eccezioni individuate">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
-<!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all'avvio">
+<!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all’avvio">
 <!ENTITY debuggerUI.showPanesOnInit.key "V">
 <!ENTITY debuggerUI.showVarsFilter "Visualizza sezione filtro variabili">
 <!ENTITY debuggerUI.showVarsFilter.key "z">
@@ -42,7 +42,7 @@
 <!ENTITY debuggerUI.searchVariable.key "F">
 <!ENTITY debuggerUI.focusVariables "Seleziona albero delle variabili">
 <!ENTITY debuggerUI.focusVariables.key "v">
-<!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l'esecuzione solo se l'espressione seguente è vera">
+<!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l’esecuzione solo se l’espressione seguente è vera">
 <!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
 <!ENTITY debuggerUI.seMenuBreak.key "u">
 <!ENTITY debuggerUI.seMenuCondBreak "Aggiungi punto di interruzione condizionale">
