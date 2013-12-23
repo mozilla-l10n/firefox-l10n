@@ -5,8 +5,8 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Chiudi strumenti per sviluppatori">
 <!ENTITY toolboxOptionsButton.key "o">
-<!ENTITY toolboxNextTool.key "]">
-<!ENTITY toolboxPreviousTool.key "[">
+<!ENTITY toolboxNextTool.key "à">
+<!ENTITY toolboxPreviousTool.key "ò">
 <!ENTITY toolboxZoomIn.key "+">
 <!ENTITY toolboxZoomIn.key2 "=">
 <!ENTITY toolboxZoomOut.key "-">
