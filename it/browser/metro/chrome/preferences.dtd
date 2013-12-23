@@ -30,4 +30,4 @@
 <!ENTITY optionsHeader.reporting.crashes.label "Invia a Mozilla segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs "Includi l’indirizzo della pagina che si stava visitando">
 <!ENTITY optionsHeader.telemetry.title "Telemetria">
-<!ENTITY optionsHeader.telemetry.label "Condividi con Mozilla le statistiche sull'utilizzo di &brandShortName; per contribuire al miglioramento del browser">
+<!ENTITY optionsHeader.telemetry.label "Condividi con Mozilla le statistiche sull’utilizzo di &brandShortName; per contribuire al miglioramento del browser">
