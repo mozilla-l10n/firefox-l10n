@@ -16,7 +16,7 @@
 <!ENTITY regularSize.label                "正常">
 <!ENTITY bigger.label                     "增大">
 <!ENTITY smaller.label                    "減少">
-<!ENTITY quotedTextColor.label            "顏色:">
+<!ENTITY quotedTextColor.label            "色彩:">
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "純文字郵件">
 <!ENTITY displayText.label                "顯示引用的純文字郵件時:">
@@ -35,13 +35,13 @@
 <!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "字型與顏色">
+<!ENTITY fontsAndColors1.label   "字型與色彩">
 <!ENTITY defaultFont.label       "預設字型:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "大小:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "進階…">
-<!ENTITY colorButton.label       "顏色…">
+<!ENTITY colorButton.label       "色彩…">
 <!ENTITY colorButton.accesskey   "C">
 

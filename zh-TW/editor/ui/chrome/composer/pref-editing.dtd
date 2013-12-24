@@ -10,14 +10,14 @@
 
 <!ENTITY defaultColors.label        "使用瀏覽器的色彩設定(本網頁不指定色彩)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "使用者自訂的顏色:(由本網頁指定)">
+<!ENTITY customColors.label         "使用者自訂色彩:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "一般文字">
 <!ENTITY normalText.accesskey       "N">
 <!ENTITY linkText.label             "未瀏覽過的鏈結文字:">
 <!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "被點選的鏈結文字顏色:">
+<!ENTITY activeLinkText.label       "被點選的鏈結文字色彩:">
 <!ENTITY activeLinkText.accesskey   "A">
 <!ENTITY visitedLinkText.label      "已瀏覽過的鏈結文字:">
 <!ENTITY visitedLinkText.accesskey  "V">

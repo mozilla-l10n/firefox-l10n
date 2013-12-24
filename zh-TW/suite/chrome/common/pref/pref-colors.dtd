@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-colors.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Color management prefs -->
-<!ENTITY pref.colors.title                 "顏色">
+<!ENTITY pref.colors.title                 "色彩">
 <!ENTITY color                             "文字與背景">
 <!ENTITY textColor.label                   "文字:">
 <!ENTITY textColor.accesskey               "T">
@@ -16,7 +16,7 @@
 
 <!ENTITY underlineLinks.label              "鏈結加底線">
 <!ENTITY underlineLinks.accesskey          "U">
-<!ENTITY links                             "鏈結顏色">
+<!ENTITY links                             "鏈結色彩">
 <!ENTITY linkColor.label                   "未拜訪鏈結:">
 <!ENTITY linkColor.accesskey               "L">
 <!ENTITY activeLinkColor.label             "使用中的鏈結:">

@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "表格左邊">
 <!ENTITY tableCaptionRight.label          "表格右邊">
 <!ENTITY tableCaptionNone.label           "無">
-<!ENTITY tableInheritColor.label           "(使用頁面顏色)">
+<!ENTITY tableInheritColor.label           "（使用頁面色彩）">
 
 <!ENTITY cellSelection.label              "選取範圍">
 <!ENTITY cellSelectCell.label             "資料格">
@@ -62,7 +62,7 @@
 <!ENTITY cellAlignMiddle.label            "中間">
 <!ENTITY cellAlignBottom.label            "底部">
 <!ENTITY cellAlignJustify.label           "左右對齊">
-<!ENTITY cellInheritColor.label           "(使用表格顏色)">
+<!ENTITY cellInheritColor.label           "（使用表格色彩）">
 <!ENTITY cellUseCheckboxHelp.label        "選取核對方塊(checkbox)以決定哪些設定要套用到所有儲存格上">
 
 <!-- Used in both Table and Cell panels  -->

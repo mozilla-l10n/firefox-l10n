@@ -131,9 +131,9 @@
 <!ENTITY styleVar.label "變數">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "文字顏色…">
+<!ENTITY formatFontColor.label "文字色彩…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "表格或儲存格背景顏色..">
+<!ENTITY tableOrCellColor.label "表格或儲存格背景色彩…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -215,7 +215,7 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "頁面文字顏色及背景顏色…">
+<!ENTITY colorsAndBackground.label "頁面文字與背景色彩…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -303,10 +303,10 @@
 <!ENTITY linkToolbarCmd.tooltip "插入新鏈結或設定已選取鏈結">
 <!ENTITY anchorToolbarCmd.label "錨點">
 <!ENTITY anchorToolbarCmd.tooltip "插入新錨點或設定選取的錨點內容">
-<!ENTITY TextColorButton.tooltip "選擇文字顏色">
-<!ENTITY BackgroundColorButton.tooltip "選擇背景顏色">
+<!ENTITY TextColorButton.tooltip "選擇文字色彩">
+<!ENTITY BackgroundColorButton.tooltip "選擇背景色彩">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY HighlightColorButton.tooltip "選擇強調文字的顏色">
+<!ENTITY HighlightColorButton.tooltip "選擇強調文字的色彩">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">
