@@ -13,7 +13,7 @@
 <!ENTITY size.accesskey                   "z">
 <!ENTITY bigger.label                     "增大">
 <!ENTITY smaller.label                    "減少">
-<!ENTITY color.label                      "顏色:">
+<!ENTITY color.label                      "色彩:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "純文字訊息">
 <!ENTITY fontPlainText.label              "字型:">

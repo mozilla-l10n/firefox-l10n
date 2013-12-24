@@ -11,7 +11,7 @@
 <!ENTITY position.center.label      "置中">
 <!ENTITY position.fill.label        "填滿">
 <!ENTITY position.fit.label         "全螢幕">
-<!ENTITY picker.label               "顏色:">
+<!ENTITY picker.label               "色彩:">
 <!ENTITY picker.accesskey           "C">
 <!ENTITY preview.caption            "預覽">
 <!ENTITY apply.label                "套用">
