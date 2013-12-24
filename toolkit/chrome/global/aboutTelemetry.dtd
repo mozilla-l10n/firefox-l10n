@@ -33,11 +33,8 @@
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogramas recolectados por complementos
 ">
-<!ENTITY aboutTelemetry.toggleOn "
-  Apriete para expandir la sección
-">
-<!ENTITY aboutTelemetry.toggleOff "
-  Apriete para colapsar la sección
+<!ENTITY aboutTelemetry.toggle "
+  Click to toggle section
 ">
 <!ENTITY aboutTelemetry.emptySection "
   (No hay datos recolectados)
@@ -49,4 +46,7 @@
 ">
 <!ENTITY aboutTelemetry.hideSymbols "
   Mostrar datos en bruto para cuelges
+">
+<!ENTITY aboutTelemetry.filterText "
+  Filter (strings or /regexp/)
 ">
