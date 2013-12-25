@@ -4,6 +4,7 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY fxaccountBrand.fullName.label "Cuenta de Firefox">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Conectar a &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Añadir una cuenta de &syncBrand.fullName.label;">
@@ -71,3 +72,4 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
+<!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">

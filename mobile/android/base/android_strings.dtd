@@ -57,6 +57,9 @@
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
+<!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
+<!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_tip "CONSEJO: añada un sitio web a su lista de proveedores de búsqueda con una pulsación larga en su campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
