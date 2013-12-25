@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personal Card (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Remind Me Later">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Close">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -209,7 +211,7 @@
 <!ENTITY attachButton.tooltip "Include an attachment">
 <!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Save this message">
-<!ENTITY cutButton.tooltip              "Cut">
+<!ENTITY cutButton.tooltip              "Retallar">
 <!ENTITY copyButton.tooltip             "Copy">
 <!ENTITY pasteButton.tooltip            "Paste">
 <!-- Headers -->

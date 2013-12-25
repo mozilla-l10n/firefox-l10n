@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Informe de fallos">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ninvia informes de fallo ta aduyar a Mozilla a fer un navegador mas estable y seguro">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir l'adreza d'a pachina a on que i yera">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetría">
 <!ENTITY optionsHeader.telemetry.label                            "Comparte as estatisticas d'uso sobre &brandShortName; con Mozilla ta aduyar-nos a fer o suyo navegador millor">
