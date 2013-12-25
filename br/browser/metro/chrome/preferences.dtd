@@ -31,9 +31,10 @@
 <!ENTITY doNotTrack.options.doNotTrack                           "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
 <!ENTITY doNotTrack.options.doTrack                              "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">
 <!ENTITY doNotTrack.options.default                              "Na lavarout tra ebet d'al lec'hiennoù a-zivout ma gwellvezioù heuliañ.">
-<!ENTITY doNotTrack.learnMoreLink                                "Gouzout hiroc'h…">
+<!ENTITY doNotTrack.learnMoreLink                                "Gouzout hiroc'h&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Daneveller sac'hadennoù">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; a dreuzkas danevelloù sac'hadenn evit skoazellañ Mozilla lakaat ho merdeer da vezañ stabiloc'h ha diogeloc'h">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ouzhpennañ chomlec'h al lec'hienn edon o weladenniñ">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Rannañ stadegoù a-fet arver &brandShortName; gant Mozilla evit reiñ skoazell deomp gwellekaat ho merdeer">

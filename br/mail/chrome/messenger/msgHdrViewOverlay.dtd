@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "E respont da">
 <!ENTITY originalWebsite4.label "Lec'hienn">
 
-<!ENTITY editMessageDescription.label "Ar gemennadenn-mañ zo ur brouilhed">
-<!ENTITY editMessageButton.label "Embann…">
 <!ENTITY hdrArchiveButton1.label "Diellaouiñ">
 <!ENTITY hdrArchiveButton1.tooltip "Diellaouiñ ar gemennadenn-mañ">
 <!ENTITY hdrSmartReplyButton1.label "Respont speredek">
@@ -102,9 +100,9 @@
 <!ENTITY copyLinkCmd.label        "Eilañ lec'hiadur an ere">
 <!ENTITY copyLinkCmd.accesskey    "c">
 
-<!ENTITY CopyMessageId.label "Eilañ an hennad kemennadenn">
+<!ENTITY CopyMessageId.label "Eilañ an naoudi kemennadenn">
 <!ENTITY CopyMessageId.accesskey "E">
-<!ENTITY OpenMessageForMsgId.label "Digeriñ kemennadenn an hennad">
-<!ENTITY OpenMessageForMsgId.accesskey "h">
-<!ENTITY OpenBrowserWithMsgId.label "Digeriñ ar merdeer evit an hennad kemennadenn">
+<!ENTITY OpenMessageForMsgId.label "Digeriñ kemennadenn an naoudi">
+<!ENTITY OpenMessageForMsgId.accesskey "n">
+<!ENTITY OpenBrowserWithMsgId.label "Digeriñ ar merdeer evit an naoudi kemennadenn">
 <!ENTITY OpenBrowserWithMsgId.accesskey "m">

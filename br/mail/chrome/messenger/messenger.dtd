@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Treuzkas evel testenn enkorfet">
 <!ENTITY buttonMenuForwardAsAttachment.label "Treuzkas evel kenstagadur">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Diskouez an endalc'hadoù a-bell er gemennadenn-mañ">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
+<!ENTITY remoteContentOptionAllowForAddress.label "Diskouez an endalc'hadoù a-bell evit ar c'haser-mañ">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "a">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Leuskel ar c'hemennoù a-gostez evit ar gemennadenn-mañ">
+<!ENTITY phishingOptionIgnore.accesskey "L">
+<!ENTITY phishingOptionDisableDetection.label "Diweredekaat dinoadur ar posteloù flodus evit an holl gemennadennoù">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Heglev">
 <!ENTITY contextUnmute.accesskey "H">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "Soñjal a ra &brandShortName; ez eo ar gemennadenn-mañ ur postel lastez.">
-<!ENTITY junkBarButton1.label "Ket lastez">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "A-benn gwareziñ ho tiogelroez ez eo bet harzet gant &brandShortName; an endalc'h arbell er gemennadenn-mañ.">
-<!ENTITY loadRemoteContentButton3.label "Diskwel an endalc'h arbell">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Ar gemennadenn-mañ a c'hell bezañ ur spam.">
-<!ENTITY removePhishingBarButton1.label "Na zerc'hel kont eus an evezh">
-<!ENTITY disablePhishingWarning1.label "Diweredekaat dinoadur ar posteloù flodus evit an holl gemennadennoù">
-<!ENTITY reportPhishingError1.label "Ar gemennadenn-mañ n'eo ket ur spam war ar seblant.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Na zerc'hel kont">
-<!ENTITY mdnBarIgnoreButton2.accesskey "N">
-<!ENTITY mdnBarSendButton2.label "Kas ar c'hemenn degemer">
-<!ENTITY mdnBarSendButton2.accesskey "s">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

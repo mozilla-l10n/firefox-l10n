@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fichenn bersonel (vCard)">
 <!ENTITY attachVCardCmd.accesskey "b">
+<!ENTITY remindLater.label "Degas soñj din diwezhatoc'h">
+<!ENTITY remindLater.accesskey "d">
 <!ENTITY closeCmd.label "Serriñ">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "S">
