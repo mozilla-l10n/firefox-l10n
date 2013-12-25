@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sunbird.choosedate.button.tooltip                 "Choose date to go to" >
-<!ENTITY sunbird.cut.button.tooltip                        "Cut" >
+<!ENTITY sunbird.cut.button.tooltip                        "Retallar" >
 <!ENTITY sunbird.copy.button.tooltip                       "Copy" >
 <!ENTITY sunbird.paste.button.tooltip                      "Paste" >
 <!ENTITY sunbird.print.button.tooltip                      "Print calendar" >
@@ -17,7 +17,7 @@
 <!ENTITY sunbird.edit.button.tooltip                       "Edit selected event" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Choose Date" >
-<!ENTITY sunbird.cut.button.label                          "Cut" >
+<!ENTITY sunbird.cut.button.label                          "Retallar" >
 <!ENTITY sunbird.copy.button.label                         "Copy" >
 <!ENTITY sunbird.paste.button.label                        "Paste" >
 <!ENTITY sunbird.delete.button.label                       "Delete" >

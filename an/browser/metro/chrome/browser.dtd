@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Resultaus">
 
-<!ENTITY appbarErrorConsole.label   "Ubrir a consola d'errors">
-<!ENTITY appbarJSShell.label        "Ubrir o interprete de Javascript">
-<!ENTITY appbarFindInPage2.label    "Buscar en a pachina">
-<!ENTITY appbarViewOnDesktop2.label "Veyer en o escritorio">
-<!ENTITY appbarMSMetaData2.label    "Obtener l'aplicación d'iste puesto">
+<!ENTITY appbarErrorConsole.label      "Ubrir a consola d'errors">
+<!ENTITY appbarJSShell.label           "Ubrir o interprete de Javascript">
+<!ENTITY appbarFindInPage2.label       "Buscar en a pachina">
+<!ENTITY appbarRelaunchInDesktop.label "Reubrir en o escritorio">
+<!ENTITY appbarMSMetaData2.label       "Obtener l'aplicación d'iste puesto">
+<!ENTITY appbarViewPageSource.label    "Veyer o codigo fuent d'a pachina">
 
 <!ENTITY topSitesHeader.label        "Os mas destacaus">
 <!ENTITY bookmarksHeader.label       "Marcapachinas">
@@ -63,7 +64,7 @@
 <!ENTITY consoleErrColumn.label    "Columna:">
 <!--  TEXT CONTEXT MENU -->
 
-<!ENTITY contextTextCut.label              "Tallar">
+<!ENTITY contextTextCut.label              "Retallar">
 <!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Apegar">
 <!-- unique item that is only added to the url bar context menu -->
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "u">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "Busca as suyas pestanyas? Arrociegue enta abaixo u faiga clic con o botón dreito">
+<!ENTITY firstRunTopSites.label "Veiga os puestos que mas visita">
+<!ENTITY firstRunBookmarks.label "Trobe as pachinas que ha alzau ta visitar mas enta debant">
+<!ENTITY firstRunMenu.label "Accedeixca a mas caracteristicas y opcions">
+<!ENTITY firstRunHistory.label "Veiga qué ha visitau en a Web">
+<!ENTITY firstRunWelcome.label "Bienveniu ta &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferent por definición">
