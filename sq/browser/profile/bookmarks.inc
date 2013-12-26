@@ -4,11 +4,11 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Faqerojtësa
-#define bookmarks_heading Faqerojtësa
+#define bookmarks_title Faqerojtës
+#define bookmarks_heading Faqerojtës
 
 #define bookmarks_toolbarfolder Dosje Paneli Faqerojtësish
-#define bookmarks_toolbarfolder_description Shtoni faqerojtësa te kjo dosje që t'i shihni ata të shfaqen te Paneli i Faqerojtësve
+#define bookmarks_toolbarfolder_description Shtoni faqerojtës te kjo dosje që t'i shihni ata të shfaqen te Paneli i Faqerojtësve
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

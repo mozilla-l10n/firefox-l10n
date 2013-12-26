@@ -61,7 +61,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
 <!ENTITY fullScreenClose.tooltip "Mbylleni">
 <!ENTITY closeWindow.label "Mbylle Dritaren">
-<!ENTITY bookmarksMenu.label "Faqerojtësa">
+<!ENTITY bookmarksMenu.label "Faqerojtës">
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY sharePageCmd.commandkey "t">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
@@ -94,7 +94,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Vendndodhje">
 <!ENTITY searchItem.title             "Kërkoni">
 <!ENTITY throbberItem.title           "Tregues Veprimtarie">
-<!ENTITY bookmarksItem.title          "Faqerojtësa">
+<!ENTITY bookmarksItem.title          "Faqerojtës">
                               
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
@@ -108,9 +108,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
 
 
-<!ENTITY bookmarksButton.label          "Faqerojtësa">
+<!ENTITY bookmarksButton.label          "Faqerojtës">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
-<!ENTITY bookmarksMenuButton.unsorted.label "Faqerojtësa të Parenditur">
+<!ENTITY bookmarksMenuButton.unsorted.label "Faqerojtës të Parenditur">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtësa">
+<!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtës">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
@@ -473,7 +473,7 @@ fast. -->
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
 <!ENTITY  bookmarkAllTabs.accesskey          "S">
 
-<!ENTITY bookmarksMenuButton.label          "Faqerojtësa">
+<!ENTITY bookmarksMenuButton.label          "Faqerojtës">
 <!ENTITY bookmarksMenuButton.tooltip        "Shfaqni faqerojtësit tuaj">
 
 <!ENTITY  closeTab.label                     "Mbylle Skedën">

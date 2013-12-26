@@ -6,15 +6,15 @@
 
 <!ENTITY startupPage.label         "Kur niset &brandShortName;-i:">
 <!ENTITY startupPage.accesskey     "K">
-<!ENTITY startupHomePage.label     "Shfaq faqen time hyrëse">
+<!ENTITY startupHomePage.label     "Shfaq kreun tim">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe bosh">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
 
-<!ENTITY homepage.label            "Faqe Hyrëse:">
+<!ENTITY homepage.label            "Kreu:">
 <!ENTITY homepage.accesskey        "H">
-<!ENTITY useCurrentPage.label      "Përdor Faqen e Çastit">
+<!ENTITY useCurrentPage.label      "Përdor Faqen e Tanishme">
 <!ENTITY useCurrentPage.accesskey  "Ç">
-<!ENTITY useMultiple.label         "Përdor Faqet e Çastit">
+<!ENTITY useMultiple.label         "Përdor Faqet e Tanishme">
 <!ENTITY chooseBookmark.label      "Përdorni Faqerojtës…">
 <!ENTITY chooseBookmark.accesskey  "F">
 <!ENTITY restoreDefault.label      "Riktheje te Parazgjedhja">

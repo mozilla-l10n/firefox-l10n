@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Vendndodhje &quot;Site&quot;-i:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosje:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaqni tërë dosjet e faqerojtësave">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaqni tërë dosjet e faqerojtësve">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fshihini">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiketa:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">

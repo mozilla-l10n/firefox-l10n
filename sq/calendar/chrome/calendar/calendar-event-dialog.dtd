@@ -175,9 +175,9 @@
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Përshkrim:" >
 <!ENTITY event.description.accesskey                      "ë">
-<!ENTITY event.attachments.label                          "Bashkangjitje:" >
+<!ENTITY event.attachments.label                          "Bashkëngjitje:" >
 <!ENTITY event.attachments.accesskey                      "B" >
-<!ENTITY event.attachments.menubutton.label               "Bashkangjitni">
+<!ENTITY event.attachments.menubutton.label               "Bashkëngjitni">
 <!ENTITY event.attachments.menubutton.accesskey           "B">
 <!ENTITY event.attachments.url.label                      "Faqe Web…">
 <!ENTITY event.attachments.url.accesskey                  "W">
@@ -187,7 +187,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "a" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hiqi Krejt" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "K" >
-<!ENTITY event.attachments.popup.attachPage.label         "Bashkangjitini Faqe Web…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Bashkëngjitini Faqe Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "F" >
 <!ENTITY event.url.label                                  "Lidhje të Afërta:" >
 <!ENTITY event.priority2.label                            "Përparësi:">
@@ -206,7 +206,7 @@
 <!ENTITY event.reminder.1week.before.label                "1 javë para" >
 <!ENTITY event.reminder.custom.label                      "Përshtateni…" >
 
-<!ENTITY event.reminder.multiple.label                    "Kujtuesa të Shumëfishtë…" >
+<!ENTITY event.reminder.multiple.label                    "Kujtues të Shumëfishtë…" >
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Përpunoni Ripërsëritje">
@@ -336,7 +336,7 @@
 <!ENTITY event.attendee.usertype.room           "Sallë">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Ju lutem, Përcaktoni Zonën Kohore">
+<!ENTITY timezone.title.label            "Ju lutemi, Përcaktoni Zonën Kohore">
 <!ENTITY event.timezone.custom.label     "Më Tepër Zona Kohore…">
 
 <!-- Read-Only dialog -->

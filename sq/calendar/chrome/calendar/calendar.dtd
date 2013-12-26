@@ -138,7 +138,7 @@
 <!ENTITY calendar.task-details.status.label          "gjendje">
 <!ENTITY calendar.task-details.category.label        "kategori">
 <!ENTITY calendar.task-details.repeat.label          "përsërite">
-<!ENTITY calendar.task-details.attachments.label     "bashkangjitje">
+<!ENTITY calendar.task-details.attachments.label     "bashkëngjitje">
 <!ENTITY calendar.task-details.start.label           "datë fillimi">
 <!ENTITY calendar.task-details.due.label             "datë mbarimi">
 

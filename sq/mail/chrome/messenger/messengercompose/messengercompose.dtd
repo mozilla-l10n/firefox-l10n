@@ -76,7 +76,7 @@
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Fshije">
 <!ENTITY deleteCmd.accesskey "f">
-<!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkangjitjen…">
+<!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkëngjitjen…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
@@ -130,7 +130,7 @@
 
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Bashkangjit Kartë Vetjake (vCard)">
+<!ENTITY attachVCard.label "Bashkëngjitni Kartë Vetjake (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Kthim Faturash">
@@ -201,7 +201,7 @@
 <!ENTITY sendlaterButton.tooltip "Dërgojeni këtë mesazh më vonë"> 
 <!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm"> 
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
-<!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
+<!ENTITY attachButton.tooltip "Përfshini një bashkëngjitje"> 
 <!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
 <!ENTITY saveButton.tooltip "Ruajeni këtë mesazh"> 
 <!ENTITY cutButton.tooltip              "Prijeni">
@@ -268,7 +268,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
-<!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
+<!ENTITY attachFile.label "Bashkëngjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
@@ -278,9 +278,9 @@
 <!ENTITY convertCloud.accesskey "S">
 <!ENTITY cancelUpload.label "Anuloje Ngarkimin">
 <!ENTITY cancelUpload.accesskey "A">
-<!ENTITY convertRegularAttachment.label "Bashkangjitje e Rregullt">
+<!ENTITY convertRegularAttachment.label "Bashkëngjitje e Rregullt">
 <!ENTITY convertRegularAttachment.accesskey "B">
-<!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
+<!ENTITY attachPage.label "Bashkëngjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "q">
 
 <!-- Title for the address picker panel -->
@@ -288,7 +288,7 @@
 
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY removeAttachment.accesskey "H">
-<!ENTITY removeAttachment.label "Hiqe Bashkangjitjen">
+<!ENTITY removeAttachment.label "Hiqe Bashkëngjitjen">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
