@@ -30,7 +30,7 @@
 <!ENTITY otherDirList.tooltip         "Zgjidhni ose jepni emrin e nëndrejtorisë së largët ku të botohen kartelat">
 <!ENTITY pageTitle.label          "Titull Faqeje:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip        "Jepni një titull për identifikimin e faqes në dritare dhe në faqerojtësa">
+<!ENTITY pageTitle.tooltip        "Jepni një titull për identifikimin e faqes në dritare dhe në faqerojtës">
 <!ENTITY pageTitleExample.label   "p.sh.: &quot;Faqja Ime Web&quot;">
 <!ENTITY filename.label           "Emër kartele:">
 <!ENTITY filename.accesskey           "k">

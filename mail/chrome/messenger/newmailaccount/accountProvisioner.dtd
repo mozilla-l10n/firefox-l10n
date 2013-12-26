@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Mirë se vini te &brandShortName;-i">
 <!ENTITY header2.label "Dëshironi një adresë të re email-i?">
-<!ENTITY other.languages "Po ju shfaqim vetëm mundësuesa që ofrojnë adresa në zonën tuaj. Klikoni këtu që të shfaqen krejt mundësuesit.">
+<!ENTITY other.languages "Po ju shfaqim vetëm mundësues që ofrojnë adresa në zonën tuaj. Klikoni këtu që të shfaqen krejt mundësuesit.">
 <!ENTITY error.line1 "Na ndjeni, nuk gjetëm dot ndonjë nga adresat email të këshilluara.">
 <!ENTITY error.line2 "Që të gjeni më tepër email-e mund të provoni të kërkoni për nofka ose çfarëdo termi tjetër kërkimi">
 
@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Tungjatjeta ">
 <!ENTITY success.title.after ", mund të keni një prej adresave email vijuese:">
 <!ENTITY success.tip "(Që të gjeni më tepër email-e mund të kërkoni për nofka ose çfarëdo termi tjetër kërkimi)">
-<!ENTITY partnership.description "Nga partneriteti me disa mundësuesa, &brandShortName;-i mund t&apos;ju ofrojë në llogari të re email-i. Që t&apos;ia filloni, thjesht plotësoni emrin dhe mbiemrin tuaj, ose çfarëdo fjale tjetër që do të donit, në fushat e mësipërme.">
+<!ENTITY partnership.description "Nga partneriteti me disa mundësues, &brandShortName;-i mund t&apos;ju ofrojë në llogari të re email-i. Që t&apos;ia filloni, thjesht plotësoni emrin dhe mbiemrin tuaj, ose çfarëdo fjale tjetër që do të donit, në fushat e mësipërme.">
 <!ENTITY existing.header "Keni tashmë një adresë të cilën doni ta përdorni?">
 <!ENTITY tinyheader.title "Keni adresë?">
 <!ENTITY tinyheader.existing "Anashkaloje këtë dhe përdor email-in tim ekzistues">
@@ -34,7 +34,7 @@
 <!ENTITY successful.customize "Personalizojeni &brandShortName;-in me disa shtesa të hijshme">
 <!ENTITY successful.customize.desc "Ka me mijëra shtesa që ju lejojnë të personalizoni &brandShortName;-it për ta bërë t&apos;i përshtatet nevojave tuaj të veçanta.">
 <!ENTITY successful.attach "Shto një nënshkrim personal te email-i im">
-<!ENTITY successful.attach.desc "Në fund të çdo mesazhi që dërgoni mund të bashkangjitni vetvetiu një thënie ose të dhëna rreth vetes.">
+<!ENTITY successful.attach.desc "Në fund të çdo mesazhi që dërgoni mund të bashkëngjitni vetvetiu një thënie ose të dhëna rreth vetes.">
 <!ENTITY successful.close "Mbylle këtë dritare.">
 <!ENTITY input.namePlaceholder "Emri juaj, ose nofka">
 <!ENTITY input.search "Kërkoni">

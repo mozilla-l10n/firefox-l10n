@@ -21,7 +21,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studime të Përfunduara">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Ç'Panë Studimet">
 <!ENTITY testpilot.studiesWindow.settings.label         "Rregullime">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutem, prisni…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutemi, prisni…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Të Dhëna të Papërpunuara">

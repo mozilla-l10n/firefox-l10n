@@ -37,7 +37,7 @@
 <!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
-<!ENTITY openAttachmentCmd.label "Bashkangjitje">
+<!ENTITY openAttachmentCmd.label "Bashkëngjitje">
 <!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Ruaje Si">
 <!ENTITY saveAsMenu.accesskey "S">
@@ -176,7 +176,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "M">
 <!ENTITY sortByStarCmd.label "Yjesh">
 <!ENTITY sortByStarCmd.accesskey "Y">
-<!ENTITY sortByAttachmentsCmd.label "Bashkangjitjesh">
+<!ENTITY sortByAttachmentsCmd.label "Bashkëngjitjesh">
 <!ENTITY sortByAttachmentsCmd.accesskey "B">
 <!ENTITY sortByPriorityCmd.label "Përparësie">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -255,7 +255,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Format Parazgjedhje">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Shfaqi Bashkangjitjet Brendazi">
+<!ENTITY viewAttachmentsInlineCmd.label "Shfaqi Bashkëngjitjet Brendazi">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Burim Mesazhi">
@@ -358,7 +358,7 @@
 <!ENTITY forwardAsMenu.accesskey "S">
 <!ENTITY forwardAsInline.label "Brendazi">
 <!ENTITY forwardAsInline.accesskey "a">
-<!ENTITY forwardAsAttachmentCmd.label "Bashkangjitje">
+<!ENTITY forwardAsAttachmentCmd.label "Bashkëngjitje">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
 <!ENTITY editMsgAsNewCmd.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
@@ -654,7 +654,7 @@
 <!ENTITY starredColumn.label "Me yllkë">
 <!ENTITY locationColumn.label "Vend">
 <!ENTITY idColumn.label "Radhë sipas Marrjes">
-<!ENTITY attachmentColumn.label "Bashkangjitje">
+<!ENTITY attachmentColumn.label "Bashkëngjitje">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klikoni për përzgjedhje shtyllash për shfaqje">
@@ -676,7 +676,7 @@
 <!ENTITY starredColumn.tooltip "Klikoni për renditje sipas yllkash">
 <!ENTITY locationColumn.tooltip "Klikoni për renditje sipas vendesh">
 <!ENTITY idColumn.tooltip "Klikoni për renditje sipas radhës së mbërritjes">
-<!ENTITY attachmentColumn.tooltip "Klikoni për renditje sipas bashkangjitjesh">
+<!ENTITY attachmentColumn.tooltip "Klikoni për renditje sipas bashkëngjitjesh">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Hape Mesazhin në Dritare të Re">
@@ -699,7 +699,7 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Përcille">
 <!ENTITY contextForward.accesskey "c">
-<!ENTITY contextForwardAsAttachment.label "Përcille si Bashkangjitje">
+<!ENTITY contextForwardAsAttachment.label "Përcille si Bashkëngjitje">
 <!ENTITY contextForwardAsAttachment.accesskey "B">
 <!ENTITY contextMoveMsgMenu.label "Shpjere Te">
 <!ENTITY contextMoveMsgMenu.accesskey "e">
@@ -856,7 +856,7 @@
 <!ENTITY saveImageAsCmd.accesskey "F">
 <!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey "V">
-<!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
+<!ENTITY copyImageAllCmd.label "Kopjo Figurën">
 <!ENTITY copyImageAllCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Kopjo Adresë Email">
 <!ENTITY copyEmailCmd.accesskey "E">

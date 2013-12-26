@@ -20,7 +20,7 @@
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh">
 <!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
-<!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
+<!ENTITY  crash_help_message "Ju lutemi, na ndihmoni ta ndreqim këtë problem!">
 <!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
 <!ENTITY  crash_include_url "Përfshije adresën e faqes">
 <!ENTITY  crash_close_label "Mbylle">

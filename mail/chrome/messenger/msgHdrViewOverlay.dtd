@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey "y">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Shfaqe Fillimisht Kuadratin e Bashkangjitjeve">
+<!ENTITY startExpandedCmd.label    "Shfaqe Fillimisht Kuadratin e Bashkëngjitjeve">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
@@ -90,13 +90,13 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Fshijini Krejt…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "F">
 
-<!ENTITY openAttachment.tooltip "Hapni kartelën e bashkangjitur">
+<!ENTITY openAttachment.tooltip "Hapni kartelën e bashkëngjitur">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Ruaje">
-<!ENTITY saveAttachmentButton1.tooltip     "Ruajeni kartelën e bashkangjitur">
+<!ENTITY saveAttachmentButton1.tooltip     "Ruajeni kartelën e bashkëngjitur">
 <!ENTITY saveAllAttachmentsButton1.label   "Ruaji Krejt">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Ruajini krejt kartelat e bashkangjitura">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Ruajini krejt kartelat e bashkëngjitura">
 
 <!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey    "K">

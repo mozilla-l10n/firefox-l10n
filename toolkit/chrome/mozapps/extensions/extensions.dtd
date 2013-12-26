@@ -104,7 +104,7 @@
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Përditësuar Së Fundmi">
 <!ENTITY detail.creator.label                 "Zhvillues">
-<!ENTITY detail.homepage.label                "Faqe hyrëse">
+<!ENTITY detail.homepage.label                "Kreu">
 <!ENTITY detail.numberOfDownloads.label       "Shkarkime">
 
 <!ENTITY detail.contributions.description     "Zhvilluesi i kësaj shtese do të dëshironte që përmes një kontributi të vogël të ndihmonit zhvillimin e saj në vazhdimësi.">
@@ -116,7 +116,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Instaloni përditësimet vetvetiu">
 <!ENTITY detail.updateManual.label            "Off">
 <!ENTITY detail.updateManual.tooltip          "Mos i instaloni vetvetiu përditësimet">
-<!ENTITY detail.home                          "Faqja Hyrëse">
+<!ENTITY detail.home                          "Kreu">
 <!ENTITY detail.repository                    "Profil Shtese">
 <!ENTITY detail.size                          "Madhësi">
 
@@ -153,7 +153,7 @@
 <!ENTITY search.filter2.available.label       "Shtesa të Mundshme">
 <!ENTITY search.filter2.available.tooltip     "Shfaqni shtesa të mundshme për instalim">
 
-<!ENTITY addon.homepage                       "Faqe hyrëse">
+<!ENTITY addon.homepage                       "Kreu">
 <!ENTITY addon.details.label                  "Më Tepër">
 <!ENTITY addon.details.tooltip                "Shfaqni më tepër hollësi mbi këtë shtesë">
 <!ENTITY addon.unknownDate                    "E panjohur">

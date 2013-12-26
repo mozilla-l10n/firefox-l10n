@@ -54,7 +54,7 @@
 <!ENTITY recoveryKeyEntry.label        "Kyçi Juaj i Riparimeve">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Prodho një kyç të ri">
-<!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtëse. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
+<!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutemi, bëjini një kopje kopjeruajtëse. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -69,9 +69,9 @@
 <!ENTITY addDevice.setup.enterCode.label    "Mandej, jepni këtë kod:">
 <!ENTITY pairDevice.dialog.description.label "Që të aktivizoni pajisjen tuaj të re, te pajisja juaj përzgjidhni &#x0022;Rregulloni Sync-un&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Jepni kodin që tregon pajisja:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Ju lutem, riprovoni.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Ju lutemi, riprovoni.">
 <!ENTITY addDevice.dialog.successful.label  "Pajisja u shtua me sukses. Njëkohësimi fillestar mund të hajë disa minuta dhe do të plotësohet në prapaskenë.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Që të aktivizoni pajisjen tuaj, do t&apos;ju duhet të jepni Kyçin tuaj të Riparimeve. Ju lutem, shtypeni ose ruajeni këtë kyç dhe mbajeni me vete.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Që të aktivizoni pajisjen tuaj, do t&apos;ju duhet të jepni Kyçin tuaj të Riparimeve. Ju lutemi, shtypeni ose ruajeni këtë kyç dhe mbajeni me vete.">
 <!ENTITY addDevice.dialog.connected.label   "Pajisja u Lidh">
 
 <!-- Existing Account Page 2: Manual Login -->
