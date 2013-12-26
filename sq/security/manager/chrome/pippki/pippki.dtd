@@ -52,7 +52,7 @@
 <!ENTITY pref.security.general.manageCert.label "Administroni Dëshmi">
 <!ENTITY pref.security.general.paranoid.label "Përdor rregullime sigurie paranojaku">
 <!ENTITY pref.security.general.rHeader "Rregullime për siguri të përgjithshme">
-<!ENTITY resetPassword.text "Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyça vetjakë do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?">
+<!ENTITY resetPassword.text "Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyçe vetjakë do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?">
 <!ENTITY resetPassword.title "Ricaktoni Fjalëkalimin e Përgjithshëm">
 <!ENTITY serverCrlNextupdate.message "Ju lutem, kërkoni ndihmë nga përgjegjësi i sistemit tuaj">
 <!ENTITY setPassword.meter.label "Matës cilësie fjalëkalimesh">
