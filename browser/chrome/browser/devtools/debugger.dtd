@@ -41,6 +41,11 @@
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Snygga till källkoden">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Snygga automatiskt till minifierad källkod">
+<!ENTITY debuggerUI.autoPrettyPrint.key "S">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Aktivera/inaktivera alla brytpunkter">
@@ -66,7 +71,7 @@
 <!ENTITY debuggerUI.pauseExceptions     "Pausa för undantag">
 <!ENTITY debuggerUI.pauseExceptions.key "P">
 
-<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorera fångade undantag">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.key "n">
