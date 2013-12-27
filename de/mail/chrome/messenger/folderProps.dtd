@@ -28,7 +28,7 @@
 <!ENTITY retentionDeleteMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
-<!ENTITY retentionKeepRecent.label "Alle außer den aktuellsten">
+<!ENTITY retentionKeepRecent.label "Alle außer den neuesten">
 <!ENTITY retentionKeepRecent.accesskey "u">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Gelesene Nachrichten immer löschen (trotz der vorherigen Einstellungen!)">
