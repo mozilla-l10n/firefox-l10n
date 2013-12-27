@@ -9,6 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Attiva/disattiva isolamento sorgenti">
 <!ENTITY debuggerUI.sources.prettyPrint "Formatta sorgente">
+<!ENTITY debuggerUI.autoPrettyPrint "Formatta automaticamente sorgenti compresse (minified)">
+<!ENTITY debuggerUI.autoPrettyPrint.key "u">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Attiva/disattiva tutti i punti di interruzione">
 <!ENTITY debuggerUI.tracingNotStarted.label "Tracciamento non ancora avviato.">
 <!ENTITY debuggerUI.startTracing "Avvia tracciamento">
@@ -44,7 +46,7 @@
 <!ENTITY debuggerUI.focusVariables.key "v">
 <!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l’esecuzione solo se l’espressione seguente è vera">
 <!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
-<!ENTITY debuggerUI.seMenuBreak.key "u">
+<!ENTITY debuggerUI.seMenuBreak.key "z">
 <!ENTITY debuggerUI.seMenuCondBreak "Aggiungi punto di interruzione condizionale">
 <!ENTITY debuggerUI.seMenuCondBreak.key "u">
 <!ENTITY debuggerUI.tabs.sources "Sorgenti">
