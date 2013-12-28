@@ -9,6 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Настройки отладчика">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Поместить или вынуть из черного ящика">
 <!ENTITY debuggerUI.sources.prettyPrint "«Красивые» исходники">
+<!ENTITY debuggerUI.autoPrettyPrint "Автоматически прихорашивать минимизированные исходники">
+<!ENTITY debuggerUI.autoPrettyPrint.key "P">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Включить/отключить все точки останова">
 <!ENTITY debuggerUI.tracingNotStarted.label "Трассировка не запущена.">
 <!ENTITY debuggerUI.startTracing "Запустить трассировку">
