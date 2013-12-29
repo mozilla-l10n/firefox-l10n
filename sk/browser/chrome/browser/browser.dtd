@@ -61,8 +61,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Nová karta">
 <!ENTITY tabCmd.accesskey "a">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Otvoriť adresu…">
-<!ENTITY openLocationCmd.accesskey "u">
 <!ENTITY openFileCmd.label "Otvoriť súbor…">
 <!ENTITY openFileCmd.accesskey "s">
 <!ENTITY openFileCmd.commandkey "o">
