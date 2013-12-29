@@ -73,6 +73,9 @@
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 <!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
+<!ENTITY pref_category_search_restore_defaults "Obnoviť vyhľadávacie moduly">
+<!ENTITY pref_search_restore_defaults "Obnoviť predvolené">
+<!ENTITY pref_search_restore_defaults_summary "Obnoviť predvolené">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
