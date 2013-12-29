@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Õigekirjakontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Salvesta ja sulge">
+<!ENTITY  event.toolbar.delete.tooltip                    "Kustuta">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu osalejaid">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Õigekirjakontroll">
+<!ENTITY  event.toolbar.attachments.tooltip               "Kaasa veebilehti">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Muuda privaatsust">
+<!ENTITY  event.toolbar.priority.tooltip                  "Muuda prioriteeti">
+<!ENTITY  event.toolbar.status.tooltip                    "Muuda seisundit">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Muuda aja näitamist (hõivatud/vaba)">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
 <!ENTITY event.title.textbox.accesskey                    "P">
@@ -216,6 +226,9 @@
 <!ENTITY event.reminder.custom.label                      "kohandatud…" >
 
 <!ENTITY event.reminder.multiple.label                    "Mitu meeldetuletust…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Aega näidatakse kui:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privaatsus:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Kordumise muutmine">
