@@ -50,6 +50,22 @@
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Povoliť/zakázať všetky body prerušenia">
 
+<!-- LOCALIZATION NOTE (debuggerUI.tracingNotStarted.label): This is the text
+  -  displayed when tracing hasn't started in the debugger UI. -->
+<!ENTITY debuggerUI.tracingNotStarted.label "Trasovanie zatiaľ nebolo spustené">
+
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+<!ENTITY debuggerUI.startTracing "Spustiť trasovanie">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "Vymazať">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton.tooltip "Vymazať zozbierané trasy">
+
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pozastaviť na výnimkách">
@@ -141,6 +157,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Zdroje">
+<!ENTITY debuggerUI.tabs.traces         "Trasovanie">
 <!ENTITY debuggerUI.tabs.callstack      "Zásobník volaní">
 <!ENTITY debuggerUI.tabs.variables      "Premenné">
 <!ENTITY debuggerUI.tabs.events         "Udalosti">
