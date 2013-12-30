@@ -41,6 +41,11 @@
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Aplikovať štýly na zdrojový kód">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Automaticky aplikovať štýly na minimalizovaný zdrojový kód">
+<!ENTITY debuggerUI.autoPrettyPrint.key "A">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Povoliť/zakázať všetky body prerušenia">
@@ -50,7 +55,7 @@
 <!ENTITY debuggerUI.pauseExceptions     "Pozastaviť na výnimkách">
 <!ENTITY debuggerUI.pauseExceptions.key "P">
 
-<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorovať zachytené výnimky">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.key "I">
@@ -69,7 +74,7 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-<!ENTITY debuggerUI.showOnlyEnum        "Zobraziť len vypočítateľné premmenné">
+<!ENTITY debuggerUI.showOnlyEnum        "Zobraziť len vypočítateľné premenné">
 <!ENTITY debuggerUI.showOnlyEnum.key    "t">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
@@ -136,7 +141,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Zdroje">
-<!ENTITY debuggerUI.tabs.callstack      "Zasobník volaní">
+<!ENTITY debuggerUI.tabs.callstack      "Zásobník volaní">
 <!ENTITY debuggerUI.tabs.variables      "Premenné">
 <!ENTITY debuggerUI.tabs.events         "Udalosti">
     
