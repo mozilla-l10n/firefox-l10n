@@ -225,9 +225,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 <!ENTITY contextmenu_subscribe "Abonner på sida">
 <!ENTITY contextmenu_site_settings "Rediger nettstadinnstillingar">
-<!ENTITY contextmenu_top_bookmarks_edit "Rediger">
-<!ENTITY contextmenu_top_bookmarks_pin "Lås nettstad">
-<!ENTITY contextmenu_top_bookmarks_unpin "Opphev låsing av nettstad">
+<!ENTITY contextmenu_top_sites_edit "Rediger">
+<!ENTITY contextmenu_top_sites_pin "Lås nettstad">
+<!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
@@ -235,7 +235,6 @@ size. -->
 
 <!ENTITY history_removed "Sida fjerna">
 
-<!ENTITY bookmark_add "Legg til eit bokmerke">
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Adresse">
@@ -270,19 +269,18 @@ size. -->
 <!ENTITY button_set "Set">
 <!ENTITY button_clear "Tøm">
 
-
 <!ENTITY home_top_sites_title "Toppliste">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Legg til nettstad">
 
 <!ENTITY home_history_title "Historikk">
+<!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
 <!ENTITY home_last_tabs_title "Faner frå førre gong">
 <!ENTITY home_last_tabs_open "Opne alle faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
 <!ENTITY home_most_recent_title "Nyleg brukt">
 <!ENTITY home_most_recent_empty "Nettstad som du sist besøkte vert vist her.">
-<!ENTITY home_most_visited_title "Mest besøkt">
 <!ENTITY home_reading_list_empty "Artiklar du lagrar for seinare vert viste her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -293,8 +291,7 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPS: Lagre artiklar i leselista ved å lang-trykke på lesemodus-knappen når han er synleg i tittellinja.">
 
-<!ENTITY home_most_visited_empty "Nettstaden du besøkte sist vert vist her.">
-<!ENTITY pin_bookmark_dialog_hint "Skriv inn eit søkeord">
+<!ENTITY pin_site_dialog_hint "Skriv inn eit søkjeord">
 
 <!ENTITY filepicker_title "Vel fil">
 <!ENTITY filepicker_audio_title "Vel eller spel inn ein lyd">
