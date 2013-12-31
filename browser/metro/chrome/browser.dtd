@@ -17,6 +17,7 @@
 <!ENTITY appbarJSShell.label        "Opne JavaScript-shell">
 <!ENTITY appbarFindInPage2.label    "Finn på sida">
 <!ENTITY appbarViewOnDesktop2.label "Vis på skrivebordet">
+<!ENTITY appbarMSMetaData2.label    "Hent app for denne nettstaden">
 
 <!ENTITY topSitesHeader.label        "Toppliste">
 <!ENTITY bookmarksHeader.label       "Bokmerke">

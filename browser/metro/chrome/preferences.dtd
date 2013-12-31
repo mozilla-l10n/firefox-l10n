@@ -7,10 +7,6 @@
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Innstillingar">
-<!ENTITY optionsHeader.startup.title                             "Oppstart">
-<!ENTITY optionsHeader.homepage.title                            "Når &brandShortName; startar, vis">
-<!ENTITY optionsHeader.homepage.startPage.button                 "startside">
-<!ENTITY optionsHeader.homepage.sessionRestore.button            "faner frå sist gong">
 <!ENTITY optionsHeader.char.title                                "Teiknkoding">
 <!ENTITY optionsHeader.char.autodetect.label                     "Auto-oppdag">
 <!ENTITY optionsHeader.char.options.label                        "Vis teiknkodingsinnstillingar i verktøylinja">
@@ -32,10 +28,11 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Hugs passord">
 <!ENTITY doNotTrack.title                                        "Ikkje spor">
-<!ENTITY doNotTrack.desc                                         "Fortel nettstadar at:">
-<!ENTITY doNotTrack.options.trackingNotOkay                      "Eg ønskjer ikkje å verte spora">
-<!ENTITY doNotTrack.options.noPreference                         "Ingenting om mine sporingsønskjer">
-<!ENTITY doNotTrack.options.trackingOkay                         "Eg ønskjer å verte spora">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fortel nettstadar at eg ikkje ønskjer å verte spora">
+<!ENTITY doNotTrack.options.doTrack                              "Fortel nettstadar at eg ønskjer å verte spora">
+<!ENTITY doNotTrack.options.default                              "Ikkje fortel nettstadar om sporingsreferansane mine">
+<!ENTITY doNotTrack.learnMoreLink                                "Les meir &#x2026;">
+
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapportar for å hjelpe Mozilla med å gjere nettlesaren meir stabil og trygg">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
