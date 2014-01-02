@@ -5,21 +5,26 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 <!ENTITY urlbar.emptytext "Escreva a pesquisa ou endereço">
+
 <!ENTITY back.label "Recuar">
 <!ENTITY forward.label "Avançar">
 <!ENTITY newtab.label "Novo separador">
 <!ENTITY closetab.label "Fechar separador">
+
 <!ENTITY autocompleteResultsHeader.label "Os seus resultados">
+
 <!ENTITY appbarErrorConsole.label "Abrir consola de erros">
 <!ENTITY appbarJSShell.label "Abrir consola JavaScript">
 <!ENTITY appbarFindInPage2.label "Localizar na página">
-<!ENTITY appbarViewOnDesktop2.label "Ver no computador">
+<!ENTITY appbarRelaunchInDesktop.label "Relançar no computador">
 <!ENTITY appbarMSMetaData2.label "Obter aplicação para este sítio">
+<!ENTITY appbarViewPageSource.label "Ver código da página">
 
 <!ENTITY topSitesHeader.label "Top de sítios">
 <!ENTITY bookmarksHeader.label "Marcadores">
 <!ENTITY recentHistoryHeader.label "Histórico recente">
 <!ENTITY remoteTabsHeader.label "Separadores de outros dispositivos">
+
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -31,6 +36,7 @@
 <!ENTITY narrowBookmarksHeader.label "Marcadores">
 <!ENTITY narrowRecentHistoryHeader.label "Histórico recente">
 <!ENTITY narrowRemoteTabsHeader.label "Separadores remotos">
+
 <!ENTITY downloadsHeader.label "Transferênciass">
 <!ENTITY downloadShowPage.label "Ir para página">
 <!ENTITY downloadShow2.label "Localizar">
@@ -42,7 +48,9 @@
 <!ENTITY downloadRemove.label "Remover">
 <!ENTITY downloadDelete.label "Eliminar">
 <!ENTITY downloadFailed.label "Falhou">
+
 <!ENTITY allBookmarks.label "Ver todos os marcadores">
+
 <!ENTITY consoleHeader.label "Consola de erros">
 <!ENTITY consoleAll.label "Tudo">
 <!ENTITY consoleErrors.label "Erros">
@@ -59,7 +67,6 @@
 <!ENTITY contextTextCut.label "Cortar">
 <!ENTITY contextTextCopy.label "Copiar">
 <!ENTITY contextTextPaste.label "Colar">
-
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextPasteAndGo.label "Colar e ir">
 <!ENTITY contextTextSelect.label "Selecionar">
@@ -102,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Procura os seus separadores? Desloque para baixo ou clique direito">
+<!ENTITY firstRunTopSites.label "Ir para os sítios que mais visita">
+<!ENTITY firstRunBookmarks.label "Encontrar páginas guardadas para mais tarde">
+<!ENTITY firstRunMenu.label "Aceder mais funcionalidades e opções">
+<!ENTITY firstRunHistory.label "Veja aonde esteve na Web">
+<!ENTITY firstRunWelcome.label "Bem vindo ao &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferente por design">
