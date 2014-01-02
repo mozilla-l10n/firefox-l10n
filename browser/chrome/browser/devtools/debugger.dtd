@@ -32,6 +32,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 <!ENTITY debuggerUI.optsButton.tooltip  "Opções do depurador">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Comutar caixa negra">
@@ -39,6 +40,31 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
 button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Origem prettify">
+
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Origens Auto Prettify Minified">
+<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Ativar/desativar todos os pontos de quebra">
+
+<!-- LOCALIZATION NOTE (debuggerUI.tracingNotStarted.label): This is the text
+  -  displayed when tracing hasn't started in the debugger UI. -->
+<!ENTITY debuggerUI.tracingNotStarted.label "Tracing não iniciado.">
+
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+<!ENTITY debuggerUI.startTracing "Iniciar Tracing">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "Limpar">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton.tooltip "Limpar os traces obtidos">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
@@ -128,8 +154,11 @@ button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Adicionar ponto de quebra condicional">
 <!ENTITY debuggerUI.seMenuCondBreak.key "b">
 
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+erUI.tabs.sources        "Origens">
+<!ENTITY debuggerUI.tabs.traces         "Traces">
+<!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Variáveis">
 <!ENTITY debuggerUI.tabs.events         "Eventos">
 
