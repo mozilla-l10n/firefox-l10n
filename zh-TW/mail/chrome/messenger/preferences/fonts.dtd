@@ -58,8 +58,8 @@
 <!ENTITY minSize.none                             "無">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "有襯線 (Serif)">
-<!ENTITY  useDefaultFontSansSerif.label           "無襯線 (Sans Serif)">
+<!ENTITY  useDefaultFontSerif.label               "襯線字型 (Serif)">
+<!ENTITY  useDefaultFontSansSerif.label           "無襯線字型 (Sans Serif)">
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "字型控制">

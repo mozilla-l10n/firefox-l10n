@@ -15,7 +15,7 @@
 <!ENTITY offlineNotifyPermissions.label     "管理權限">
 <!ENTITY offlineNotifyPermissions.accesskey "P">
 
-<!ENTITY offlineAppsList.label              "下列網站已被允許在本機儲存資料供離線使用:">
+<!ENTITY offlineAppsList.label              "允許下列網站儲存資料供離線使用:">
 <!ENTITY offlineAppsListRemove.label        "清除資料…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">
 
