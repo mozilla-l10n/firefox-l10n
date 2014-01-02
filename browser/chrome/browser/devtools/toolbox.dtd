@@ -52,10 +52,10 @@
   -  -->
 <!ENTITY options.defaultColorUnit.name "Nomes de cores">
 
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh2  "Apenas sessão atual, recarrega a página">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Apenas sessão atual, recarrega a página">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -69,11 +69,17 @@
 <!ENTITY options.enableRemote.label3    "Ativar depuração remota">
 <!ENTITY options.enableRemote.tooltip  "Ao ativar esta opção permite usar as ferramentas de programação para depurar remotamente as instâncias Firefox">
 
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label2    "Desativar JavaScript">
+<!ENTITY options.disableJavaScript.label     "Desativar JavaScript">
 <!ENTITY options.disableJavaScript.tooltip   "Ao ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!ENTITY options.disableCache.label     "Desativar Cache *">
+<!ENTITY options.disableCache.tooltip   "Ativar esta opção desativará a cache no separador atual. Se o separador ou a caixa de ferramentas for fechado então esta definição será esquecida.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -108,6 +114,11 @@
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Ativar registos permanentes">
 <!ENTITY options.enablePersistentLogging.tooltip  "AO ativar esta opção a consola web não limpa a saída de cada vez que navega para uma nova página">
+
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Ativar horas">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e o resultado da consola web serão mostrados com a hora">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
