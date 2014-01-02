@@ -61,8 +61,8 @@
 <!ENTITY minSize.none                             "無">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "有襯線 (Serif)">
-<!ENTITY  useDefaultFontSansSerif.label           "無襯線 (Sans Serif)">
+<!ENTITY  useDefaultFontSerif.label               "襯線字型 (Serif)">
+<!ENTITY  useDefaultFontSansSerif.label           "無襯線字型 (Sans Serif)">
 
 <!ENTITY  useDocumentFonts.label                  "允許文件指定其它字型">
 <!ENTITY  useDocumentFonts.accesskey              "o">
