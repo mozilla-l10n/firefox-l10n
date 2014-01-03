@@ -579,8 +579,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer l'avertissement pour ce message">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Désactiver la détection de courrier frauduleux pour tous les messages">
-<!ENTITY phishingOptionDisableDetection.accesskey "s">
+<!ENTITY phishingOptionSettings.label "Modifier les options de détection des courriers frauduleux…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Modifier les préférences de détection des courriers frauduleux…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nouveau message">
