@@ -69,7 +69,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "下載選取的郵件">
 <!ENTITY downloadSelectedCmd.accesskey "t">
-<!ENTITY downloadFlaggedCmd.label "下載已標幟的郵件">
+<!ENTITY downloadFlaggedCmd.label "下載已標示的訊息">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
 
 <!-- Edit Menu -->
@@ -142,7 +142,7 @@
 <!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "已接收">
 <!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByFlagCmd.label "標幟">
+<!ENTITY sortByFlagCmd.label "標示">
 <!ENTITY sortByFlagCmd.accesskey "l">
 <!ENTITY sortByPriorityCmd.label "重要性">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -251,7 +251,7 @@
 <!ENTITY nextUnreadMsgCmd.label "未讀郵件">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextFlaggedMsgCmd.label "已標幟郵件">
+<!ENTITY nextFlaggedMsgCmd.label "已標示訊息">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnreadThread.label "未讀討論串">
 <!ENTITY nextUnreadThread.accesskey "T">
@@ -270,7 +270,7 @@
 <!ENTITY goForwardCmd.label "下一步">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY prevFlaggedMsgCmd.label "已標幟郵件">
+<!ENTITY prevFlaggedMsgCmd.label "已標示訊息">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "開始頁面">
 <!ENTITY startPageCmd.accesskey "S">
