@@ -203,6 +203,7 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Guardar">
+<!ENTITY printButton.label "Imprimir">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar mensagem agora">
@@ -215,6 +216,7 @@
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Colar">
+<!ENTITY printButton.tooltip "Imprimir esta mensagem">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning the From:, To: and
