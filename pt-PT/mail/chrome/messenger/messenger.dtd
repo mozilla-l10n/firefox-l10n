@@ -22,7 +22,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Mover para nova janela">
 <!ENTITY moveToNewWindow.accesskey "j">
-<!ENTITY newVirtualFolderCmd.label "Pesquisas gravadas...">
+<!ENTITY newVirtualFolderCmd.label "Pesquisa gravada...">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
@@ -74,9 +74,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Definições do modo desligado...">
 <!ENTITY settingsOfflineCmd.accesskey "c">
-<!ENTITY downloadSelectedCmd.label "Transferir mensagens escolhidas">
+<!ENTITY downloadSelectedCmd.label "Transferir mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Transferir mensagens marcadas">
+<!ENTITY downloadStarredCmd.label "Transferir mensagens com estrela">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "p">
@@ -95,7 +95,7 @@
 <!ENTITY deleteMsgsCmd.accesskey "l">
 <!ENTITY undeleteMsgsCmd.label "Recuperar mensagens selecionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "u">
-<!ENTITY deleteFolderCmd.label "Eliminar pasta...">
+<!ENTITY deleteFolderCmd.label "Eliminar pasta">
 <!ENTITY deleteFolderCmd.accesskey "i">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar subscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
@@ -107,7 +107,7 @@
 <!ENTITY selectThreadCmd.accesskey "c">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens com estrela">
-<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Pasta de favoritos">
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Propriedades...">
@@ -574,8 +574,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorar aviso para esta mensagem">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Desativar deteção de fraudes para todas as mensagens">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "Editar opções de deteção de fraudes...">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editar preferências de deteção de fraudes...">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
@@ -671,26 +673,26 @@
 <!ENTITY attachmentColumn.label "Anexos">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clique para selecionar as colunas a mostrar">
-<!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem">
-<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
-<!ENTITY subjectColumn.tooltip "Clique para ordenar por assunto">
-<!ENTITY dateColumn.tooltip "Clique para ordenar por data">
-<!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Clique para ordenar por conta">
-<!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
-<!ENTITY junkStatusColumn.tooltip "Clique para ordenar por estado do lixo">
-<!ENTITY unreadColumn.tooltip "Número de mensagens não lidas no tópico">
-<!ENTITY totalColumn.tooltip "Número total de mensagens no tópico">
-<!ENTITY readColumn.tooltip "Clique para ordenar por lido">
-<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de receção">
-<!ENTITY starredColumn.tooltip "Clique para ordenar por estrela">
-<!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
-<!ENTITY idColumn.tooltip "Clique para ordenar por ordem de receção">
-<!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
+<!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
+<!ENTITY fromColumn2.tooltip "Ordenar por remetente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
+<!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por conta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado do lixo eletrónico">
+<!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas no tópico">
+<!ENTITY totalColumn2.tooltip "Número total de mensagens no tópico">
+<!ENTITY readColumn2.tooltip "Ordenar por lidas">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receção">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrela">
+<!ENTITY locationColumn2.tooltip "Ordenar por localização">
+<!ENTITY idColumn2.tooltip "Ordenar por ordem de receção">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
