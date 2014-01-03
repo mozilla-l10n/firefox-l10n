@@ -430,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey   "M">
 <!ENTITY emailPageCmd.label           "Envoyer par courriel un lien vers la page…">
 <!ENTITY emailPageCmd.accesskey       "c">
-<!ENTITY switchToMetroCmd.label       "Rouvrir avec &brandShortName; pour Windows 8 tactile">
+<!ENTITY switchToMetroCmd2.label      "Rouvrir avec &brandShortName; pour Windows 8 tactile">
 <!ENTITY savePageCmd.label            "Enregistrer sous…">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
