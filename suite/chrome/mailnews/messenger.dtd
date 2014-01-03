@@ -158,10 +158,8 @@
 <!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "d">
-<!ENTITY sortByRecipientsCmd.label "Adresáti">
-<!ENTITY sortByRecipientsCmd.accesskey "A">
-<!ENTITY sortByToCmd.label "Komu">
-<!ENTITY sortByToCmd.accesskey "K">
+<!ENTITY sortByRecipientCmd.label "Adresát">
+<!ENTITY sortByRecipientCmd.accesskey "A">
 <!ENTITY sortByUnreadCmd.label "Neprečítané">
 <!ENTITY sortByUnreadCmd.accesskey "N">
 <!ENTITY sortByOrderReceivedCmd.label "Poradie doručenia">
