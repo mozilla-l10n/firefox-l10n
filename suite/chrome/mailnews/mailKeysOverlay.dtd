@@ -6,7 +6,7 @@
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label     "標幟">
+<!ENTITY markFlaggedCmd.label     "標示">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key       "i">
 
