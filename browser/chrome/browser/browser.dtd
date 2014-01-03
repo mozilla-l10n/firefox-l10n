@@ -298,7 +298,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
-<!ENTITY switchToMetroCmd.label "Riavvia &brandShortName; in modalità Windows 8 Touch">
+<!ENTITY switchToMetroCmd2.label "Riavvia &brandShortName; in modalità Windows 8 Touch">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
 <!ENTITY savePageCmd.accesskey "v">
 <!ENTITY savePageCmd.accesskey2 "g">
