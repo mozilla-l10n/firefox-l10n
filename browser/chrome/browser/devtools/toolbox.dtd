@@ -52,10 +52,10 @@
   -  -->
 <!ENTITY options.defaultColorUnit.name "Nomes de cores">
 
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "* Apenas sessão atual, recarrega a página">
+<!ENTITY options.context.triggersPageRefresh2  "* Apenas sessão atual, recarrega a página">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -72,14 +72,8 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label     "Desativar JavaScript">
+<!ENTITY options.disableJavaScript.label2     "Desativar JavaScript">
 <!ENTITY options.disableJavaScript.tooltip   "Ao ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
-
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.label     "Desativar Cache *">
-<!ENTITY options.disableCache.tooltip   "Ativar esta opção desativará a cache no separador atual. Se o separador ou a caixa de ferramentas for fechado então esta definição será esquecida.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
