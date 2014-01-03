@@ -37,6 +37,11 @@
   -  for the button that black boxes the selected source. -->
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Placer la source dans une boîte noire ou la retirer">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Formater et indenter les sources automatiquement">
+<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Formater et indenter la source">
@@ -66,7 +71,7 @@
 <!ENTITY debuggerUI.pauseExceptions     "Pause sur les exceptions">
 <!ENTITY debuggerUI.pauseExceptions.key "e">
 
-<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorer les exceptions interceptées">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.key "c">
