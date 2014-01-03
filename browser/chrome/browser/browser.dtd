@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Édition">
 <!ENTITY appMenuCustomize.label "Personnaliser">
-<!ENTITY appMenuCustomizeExit.label "Personnalisation terminée">
+<!ENTITY appMenuCustomizeExit.label "Quitter personnalisation">
 <!ENTITY appMenuHistory.label "Historique">
 <!ENTITY appMenuHistory.showAll.label "Afficher l'historique">
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l'historique récent…">
