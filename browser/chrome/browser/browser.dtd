@@ -299,6 +299,7 @@
 <!ENTITY emailPageCmd.label "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey "п">
 <!ENTITY switchToMetroCmd.label "Перезапуститься в &brandShortName; в стиле Windows 8">
+<!ENTITY switchToMetroCmd2.label "Перезапуститься в &brandShortName; с сенсорным интерфейсом Windows 8">
 <!ENTITY savePageCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.accesskey2 "р">
