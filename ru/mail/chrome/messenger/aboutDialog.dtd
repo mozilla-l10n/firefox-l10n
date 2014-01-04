@@ -1,4 +1,10 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
+<!ENTITY update.checkForUpdatesButton.label "Проверить на обновления">
+<!ENTITY update.checkForUpdatesButton.accesskey "о">
+<!ENTITY update.updateButton.label "Перезапустить для обновления">
+<!ENTITY update.updateButton.accesskey "е">
+<!ENTITY update.applyButtonBillboard.label "Применить обновление…">
+<!ENTITY update.applyButtonBillboard.accesskey "и">
 <!ENTITY community.start2 "&brandShortName; создан ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 " — ">
@@ -11,7 +17,6 @@
 <!ENTITY bottomLinks.rights "Права конечного пользователя">
 <!ENTITY bottomLinks.privacy "Политика приватности">
 <!ENTITY update.checkingForUpdates "Проверка наличия обновлений…">
-<!ENTITY update.checkingAddonCompat "Проверка совместимости дополнений…">
 <!ENTITY update.noUpdatesFound "Установлена последняя версия &brandShortName;">
 <!ENTITY update.adminDisabled "Обновления отключены вашим системным администратором">
 <!ENTITY update.failed.start "Обновление не удалось. ">

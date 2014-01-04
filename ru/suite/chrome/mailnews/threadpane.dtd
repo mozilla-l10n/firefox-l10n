@@ -21,23 +21,23 @@
 <!ENTITY flagColumn.label "Флаг">
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
-<!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
-<!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
-<!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
-<!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
-<!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
-<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
-<!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
-<!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
-<!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учётной записи">
-<!ENTITY statusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по состоянию">
-<!ENTITY sizeColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по размеру">
-<!ENTITY junkStatusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке спама">
-<!ENTITY unreadColumn.tooltip "Число непрочитанных сообщений в обсуждении">
-<!ENTITY totalColumn.tooltip "Общее число сообщений в обсуждении">
-<!ENTITY readColumn.tooltip "Нажмите здесь, чтобы отсортировать прочитанные сообщения">
-<!ENTITY receivedColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате получения">
-<!ENTITY flagColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию флага">
-<!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
-<!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
+<!ENTITY columnChooser2.tooltip "Выбрать колонки для отображения">
+<!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
+<!ENTITY fromColumn2.tooltip "Сортировать по автору">
+<!ENTITY recipientColumn2.tooltip "Сортировать по адресату">
+<!ENTITY attachmentColumn2.tooltip "Сортировать по наличию вложений">
+<!ENTITY subjectColumn2.tooltip "Сортировать по теме">
+<!ENTITY dateColumn2.tooltip "Сортировать по дате отправки">
+<!ENTITY priorityColumn2.tooltip "Сортировать по важности">
+<!ENTITY tagsColumn2.tooltip "Сортировать по меткам">
+<!ENTITY accountColumn2.tooltip "Сортировать по учётной записи">
+<!ENTITY statusColumn2.tooltip "Сортировать по состоянию">
+<!ENTITY sizeColumn2.tooltip "Сортировать по размеру">
+<!ENTITY junkStatusColumn2.tooltip "Сортировать по метке спама">
+<!ENTITY unreadColumn2.tooltip "Число непрочитанных сообщений в обсуждении">
+<!ENTITY totalColumn2.tooltip "Общее число сообщений в обсуждении">
+<!ENTITY readColumn2.tooltip "Сортировать по прочтению">
+<!ENTITY receivedColumn2.tooltip "Сортировать по дате получения">
+<!ENTITY flagColumn2.tooltip "Сортировать по наличию флага">
+<!ENTITY locationColumn2.tooltip "Сортировать по расположению">
+<!ENTITY idColumn2.tooltip "Сортировать по порядку получения">

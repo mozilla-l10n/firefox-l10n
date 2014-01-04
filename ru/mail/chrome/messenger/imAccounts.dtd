@@ -23,6 +23,8 @@
 <!ENTITY account.movedown.label "Переместить вниз">
 <!ENTITY account.cancelReconnection.label "Отменить повторное подключение">
 <!ENTITY account.cancelReconnection.accesskey "м">
+<!ENTITY account.copyDebugLog.label "Копировать лог отладки">
+<!ENTITY account.copyDebugLog.accesskey "и">
 <!ENTITY account.connecting "Подключение…">
 <!ENTITY account.disconnecting "Отключение…">
 <!ENTITY account.disconnected "Отключён">
