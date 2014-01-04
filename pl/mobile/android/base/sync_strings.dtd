@@ -7,6 +7,8 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 
+<!ENTITY fxaccountBrand.fullName.label "Konto Firefox">
+
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Połącz z &syncBrand.shortName.label;'>
@@ -104,3 +106,6 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
 <!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
 <!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
+
+<!-- Firefox Account strings -->
+<!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
