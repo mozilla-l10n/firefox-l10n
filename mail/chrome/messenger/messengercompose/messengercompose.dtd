@@ -180,6 +180,7 @@
 <!ENTITY attachButton.label "Вложить">
 <!ENTITY spellingButton.label "Орфография">
 <!ENTITY saveButton.label "Сохранить">
+<!ENTITY printButton.label "Печать">
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
 <!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение">
@@ -190,6 +191,7 @@
 <!ENTITY cutButton.tooltip "Вырезать">
 <!ENTITY copyButton.tooltip "Копировать">
 <!ENTITY pasteButton.tooltip "Вставить">
+<!ENTITY printButton.tooltip "Распечатать это сообщение">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "От:">
 <!ENTITY fromAddr.accesskey "т">
