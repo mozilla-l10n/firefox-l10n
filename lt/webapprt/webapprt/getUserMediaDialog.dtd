@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                 "Prieiga prie medijos">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Leisti">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "L">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Neleisti">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "N">
+<!ENTITY getUserMediaDialog.button.accept.label     "Leisti">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "L">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Neleisti">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "N">
 
 <!ENTITY getUserMediaDialog.video.label           "Pasirinkite kamerą">
 <!ENTITY getUserMediaDialog.video.noVideo         "Be vaizdo">

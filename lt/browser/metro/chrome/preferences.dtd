@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Strigčių pranešiklis">
 <!ENTITY optionsHeader.reporting.crashes.label                   "„&brandShortName;“ siunčia „Mozillai“ strigčių pranešimus programos stabilumo ir saugumo gerinimo tikslais">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Įtraukti lankyto tinklalapio adresą">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
 <!ENTITY optionsHeader.telemetry.label                            "Siunčia „Mozillai“ su „&brandShortName;“ naudojimu susijusią statistiką šios naršyklės tobulinimo tikslais">
