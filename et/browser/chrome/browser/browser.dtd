@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey              "L">
 <!ENTITY  undoCloseTab.label                     "Võta kaardi sulgemine tagasi">
 <!ENTITY  undoCloseTab.accesskey                 "g">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                    "Võta kaartide sulgemine tagasi">
 <!ENTITY  closeTab.label                         "Sulge kaart">
 <!ENTITY  closeTab.accesskey                     "S">
 
@@ -412,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label                      "Saada link e-postiga...">
 <!ENTITY emailPageCmd.accesskey                  "d">
 <!ENTITY switchToMetroCmd.label                  "Lülitu Windows 8 stiilis &brandShortName;i">
+<!ENTITY switchToMetroCmd2.label                 "Lülitu puutetundlikusse Windows 8 stiilis &brandShortName;i">
 <!ENTITY savePageCmd.label                       "Salvesta veebileht kui...">
 <!ENTITY savePageCmd.accesskey                   "S">
 <!-- alternate for content area context menu -->
