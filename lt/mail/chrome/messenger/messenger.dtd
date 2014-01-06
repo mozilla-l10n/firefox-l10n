@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Persiųsti tiesiogiai">
 <!ENTITY buttonMenuForwardAsAttachment.label "Persiųsti priedu">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Rodyti intarpus iš tinklo šiame laiške">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "o">
+<!ENTITY remoteContentOptionAllowForAddress.label "Rodyti intarpus iš tinklo šio siuntėjo laiškuose">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "s">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Nepaisyti įspėjimo apie šį laišką">
+<!ENTITY phishingOptionIgnore.accesskey "N">
+<!ENTITY phishingOptionDisableDetection.label "Apskritai neieškoti apgaulės laiškuose">
+<!ENTITY phishingOptionDisableDetection.accesskey "A">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Naujas laiškas">
 <!ENTITY appmenuNewContactCmd.label "Adresatas…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "r">
 <!ENTITY contextUnmute.label "Įjungti garsą">
 <!ENTITY contextUnmute.accesskey "r">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "Programa „&brandShortName;“ šį laišką laiko brukalu.">
-<!ENTITY junkBarButton1.label "Tai nėra brukalas">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Siekiant apsaugoti Jūsų privatumą, intarpai iš tinklo blokuojami." >
-<!ENTITY loadRemoteContentButton3.label "Parodyti intarpus">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Šis laiškas gali būti apgaulingas.">
-<!ENTITY removePhishingBarButton1.label "Nepaisyti įspėjimo">
-<!ENTITY disablePhishingWarning1.label "Apgaulės laiškuose daugiau nebeieškoti">
-<!ENTITY reportPhishingError1.label "Nepanašu, kad šiame laiške slypėtų apgaulė.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Nepaisyti prašymo">
-<!ENTITY mdnBarIgnoreButton2.accesskey "N">
-<!ENTITY mdnBarSendButton2.label "Išsiųsti pažymą">
-<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
