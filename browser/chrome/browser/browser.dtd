@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "Pārlūka rīki">
 <!ENTITY browserToolboxMenu.accesskey "r">
 <!ENTITY switchToMetroCmd.label       "Atvērt &brandShortName; Windows 8 stilā">
-
+<!ENTITY switchToMetroCmd2.label       "Atvērt &brandShortName; Windows 8 Touch stilā">
 <!ENTITY newPrivateWindow.label     "Jauns privātais logs">
 <!ENTITY newPrivateWindow.accesskey "v">
 <!ENTITY backCmd.label "Atpakaļ">
@@ -226,8 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY toolsMenu.label "Rīki">
 <!ENTITY toolsMenu.accesskey "R">
-<!ENTITY  undoCloseTabs.label                "Atcelt cilņu aizvēršanu">
-
 <!ENTITY keywordfield.label "Pievienot meklējuma atslēgas vārdu...">
 <!ENTITY keywordfield.accesskey "K">
 <!ENTITY downloads.label "Lejupielādes">
