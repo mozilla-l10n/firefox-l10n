@@ -9,7 +9,3 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
-<!-- LOCALIZATION NOTE (profilerNew.label): This is the label for the
-  -  button that creates a new profile. -->
-<!ENTITY profilerNew.label "નવું">

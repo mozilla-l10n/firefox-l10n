@@ -104,8 +104,6 @@
 
 <!ENTITY keywordfield.label           "આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "વેબ શોધ">
-<!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "ડાઉનલોડ">
 <!ENTITY downloads.tooltip            "ચાલુ રહેલ ડાઉનલોડની પ્રગતિ દર્શાવો">
 <!ENTITY downloads.accesskey          "D">
@@ -168,7 +166,6 @@
 <!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ">
 
 <!-- XXX places only -->
-<!ENTITY historyHomeCmd.label "ઘર">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!-- XXX remove below if places sticks -->
 
@@ -523,9 +520,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
 <!ENTITY fullscreenAllowButton.label "પરવાનગી આપો">
-<!ENTITY fullscreenApproval.value "શું પૂર્ણસ્ક્રીનની પરવાનગી આપવાની છે?">
 <!ENTITY fullscreenExitButton.label "નામંજૂર">
-<!ENTITY fullscreenExitHint.value "પૂર્ણસ્ક્રીનમાંથી બહાર નીકાળવા માટે કોઇપણ સમયે ESC ને દબાવો.">
 
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
@@ -621,12 +616,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "અત્યારે નહિં">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.learnMore.label "વધારે શીખો…">
-<!ENTITY social.marklink.accesskey "M">
-<!ENTITY social.markpage.accesskey "m">
 
 <!ENTITY browserConsoleCmd.accesskey  "B">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY chromeDebuggerMenu.label       "બ્રાઉઝર ડિબગર">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ બંધ કરો">
 <!ENTITY pluginActivateAlways.label "પરવાનગી આપો અને યાદ રાખો">
