@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Atsakymas į">
 <!ENTITY originalWebsite4.label "Svetainė">
 
-<!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
-<!ENTITY editMessageButton.label "Taisyti…">
 <!ENTITY hdrArchiveButton1.label "Archyvuoti">
 <!ENTITY hdrArchiveButton1.tooltip "Archyvuoti šį laišką">
 <!ENTITY hdrSmartReplyButton1.label "Atsakyti parenkant gavėjus">

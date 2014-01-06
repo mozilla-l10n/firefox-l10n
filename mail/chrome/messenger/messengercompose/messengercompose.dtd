@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vizitinę kortelę">
 <!ENTITY attachVCardCmd.accesskey "k">
+<!ENTITY remindLater.label "Priminti vėliau">
+<!ENTITY remindLater.accesskey "v">
 <!ENTITY closeCmd.label "Užverti">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "U">
