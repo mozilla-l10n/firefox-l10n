@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Flytta ner">
 <!ENTITY account.cancelReconnection.label         "Avbryt återanslutning">
 <!ENTITY account.cancelReconnection.accesskey     "å">
+<!ENTITY account.copyDebugLog.label     "Kopiera felsökningslogg">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Ansluter…">
 <!ENTITY account.disconnecting        "Kopplar från…">
 <!ENTITY account.disconnected         "Inte ansluten">
