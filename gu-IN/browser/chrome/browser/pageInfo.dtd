@@ -57,11 +57,6 @@
 <!ENTITY  permAllowSession      "સત્ર માટે પરવાનગી આપો">
 <!ENTITY  permBlock             "અટકાવો">
 <!ENTITY  permissionsFor        "માટેની પરવાનગીઓ:">
-<!ENTITY  permImage             "ચિત્રો લાવો">
-<!ENTITY  permPopup             "પોપઅપ વિન્ડો ખોલો">
-<!ENTITY  permCookie            "કુકીઓ સુયોજીત કરો">
-<!ENTITY  permInstall           "એક્સટેન્સનો અથવા થીમો સ્થાપિત કરો">
-<!ENTITY  permGeo               "સ્થાન વહેંચો">
 
 <!ENTITY  securityTab           "સુરક્ષા">
 <!ENTITY  securityTab.accesskey "S">
@@ -93,11 +88,5 @@
 <!ENTITY  generalSecurityDetails.accesskey "D">
 <!ENTITY  permClearStorage           "સંગ્રહ સાફ કરો">
 <!ENTITY  permClearStorage.accesskey "C">
-<!ENTITY  permIndexedDB              "ઓફલાઇન સંગ્રહને સંચાલિત કરો">
 
-<!ENTITY  permFullscreen        "પૂર્ણસ્ક્રીનને દાખલ કરો">
 <!ENTITY  permPlugins           "પ્લગઇનને સક્રિય કરો">
-
-<!ENTITY  permNotifications     "સૂચનાઓ બતાવો">
-<!ENTITY  permPointerLock2      "માઉસ પોઇંટર છુપાડો">
-

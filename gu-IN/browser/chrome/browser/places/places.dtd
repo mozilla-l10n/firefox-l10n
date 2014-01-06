@@ -78,7 +78,6 @@
 <!ENTITY col.name.label          "નામ">
 <!ENTITY col.tags.label          "ટૅબ">
 <!ENTITY col.url.label           "સ્થાન">
-<!ENTITY col.lastvisit.label     "મુલાકાત તારીખ">
 <!ENTITY col.visitcount.label    "મુલાકાત ગણતરી">
 <!ENTITY col.keyword.label       "મુખ્ય શબ્દ">
 <!ENTITY col.description.label   "વર્ણન">

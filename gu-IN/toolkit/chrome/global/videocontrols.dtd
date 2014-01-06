@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "અંત થયો">
 <!ENTITY stats.activitySeeking "(પહોંચી રહ્યા છીએ)">
 <!ENTITY stats.volume "અવાજ">
-<!ENTITY stats.channels "ચેનલો">
-<!ENTITY stats.sampleRate "નમૂના દર">
 <!ENTITY stats.framesParsed "ફ્રેમ પસાર થઇ">
 <!ENTITY stats.framesDecoded "ફ્રેમ ડિકોડ થઇ">
 <!ENTITY stats.framesPresented "ફ્રેમ રજૂ થઇ">

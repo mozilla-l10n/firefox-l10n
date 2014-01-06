@@ -120,7 +120,5 @@
 <!ENTITY confirm.client3.label         "ચેતવણી: આ ઉપકરણ પર નીચેની &brandShortName; માહિતીને કાઢી નંખાશે:">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; એ તમારાં સુમેળ ખાતામાં આ ઉપકરણની બ્રાઉઝર માહિતીને બધી ભેગી કરશે.">
 <!ENTITY setup.choicePage.existing2.label "હું પહેલેથી જ બીજા ઉપકરણ પર &syncBrand.shortName.label; ને વાપરી રહ્યા છે">
-<!ENTITY setup.setupMetro.accesskey "S">
-<!ENTITY setup.setupMetro.label     "Windows ૮ શૈલી &brandShortName; સાથે સુમેળ કરો">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
