@@ -176,10 +176,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "„Mozillos“ geografinės vietos nustatymo paslaugos">
 <!ENTITY datareporting_wifi_summary "Padėkite pagerinti atvirojo saityno vietos nustatymo paslaugas, leisdami „&brandShortName;“ kaupti ir siųsti anoniminius duomenis apie mobiliojo ryšio siųstuvus">
 
-<!ENTITY pref_update_autodownload "Automatiniai naujinimai">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Parsiųsti naujinimus automatiškai">
 <!ENTITY pref_update_autodownload_wifi "Tik belaidžiu ryšiu">
-<!ENTITY pref_update_autodownload_disabled "Išjungti">
-<!ENTITY pref_update_autodownload_enabled "Įjungti">
+<!ENTITY pref_update_autodownload_never "Niekada">
+<!ENTITY pref_update_autodownload_always "Visada">
 
 <!ENTITY quit "Baigti darbą">
 
@@ -226,10 +229,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Taisyti">
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
+<!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
 <!ENTITY pref_titlebar_mode_url "Rodyti tinklalapio adresą">
+
+<!ENTITY pref_dynamic_toolbar "Slėpti antraštės juostą, slenkant tinklalapį">
 
 <!ENTITY history_removed "Tinklalapis pašalintas">
 
@@ -369,3 +375,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY exit_guest_session_text "Šio naršymo seanso duomenys bus pašalinti.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Meniu">
+<!ENTITY actionbar_done "Baigta">
