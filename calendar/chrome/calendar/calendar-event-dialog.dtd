@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Tikrinti rašybą">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Įrašyti ir užverti">
+<!ENTITY  event.toolbar.delete.tooltip                    "Pašalinti">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Pakviesti dalyvių">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Patikrinti rašybą">
+<!ENTITY  event.toolbar.attachments.tooltip               "Pridėti priedų">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Keisti viešumą">
+<!ENTITY  event.toolbar.priority.tooltip                  "Keisti prioritetą">
+<!ENTITY  event.toolbar.status.tooltip                    "Keisti būseną">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Keisti užimtumą įvykio metu">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pavadinimas:" >
 <!ENTITY event.title.textbox.accesskey                    "P">
@@ -216,6 +226,9 @@
 <!ENTITY event.reminder.custom.label                      "parinkti kitokį…" >
 
 <!ENTITY event.reminder.multiple.label                    "Keli priminimai…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Rodyti laiką kaip:">
+<!ENTITY event.statusbarpanel.privacy.label               "Viešumas:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Kartojimosi keitimas">
