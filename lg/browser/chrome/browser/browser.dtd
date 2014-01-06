@@ -586,7 +586,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Nonya mu Muko Guno…">
 <!ENTITY findOnCmd.accesskey "N">
-<!ENTITY findOnCmd.commandkey "n">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nonya n'atte">
 <!ENTITY findAgainCmd.accesskey "t">
 <!ENTITY findAgainCmd.commandkey "g">
