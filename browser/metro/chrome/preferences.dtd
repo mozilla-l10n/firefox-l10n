@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "مُبلّغ الانهيار">
 <!ENTITY optionsHeader.reporting.crashes.label                   "يُرسل &brandShortName; بلاغات الانهيار إلى موزيلا للمساعدة في تحسين أداء متصفحك و استقراره">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "اشمل عنوان الصفحة التي كنت أزور">
 <!ENTITY optionsHeader.telemetry.title                            "تليمتري">
 <!ENTITY optionsHeader.telemetry.label                            "أطلع موزبلا على إحصائيات عن &brandShortName; لمساعدتنا في جعل متصفحك أفضل">
