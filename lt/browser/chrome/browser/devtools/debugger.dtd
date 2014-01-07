@@ -41,20 +41,45 @@
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Struktūriškai lygiuoti pirminį tekstą">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Struktūriškai lygiuoti minifikuotą pirminį tekstą">
+<!ENTITY debuggerUI.autoPrettyPrint.key "S">
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Įjungti / išjungti visus stabdos taškus">
+
+<!-- LOCALIZATION NOTE (debuggerUI.tracingNotStarted.label): This is the text
+  -  displayed when tracing hasn't started in the debugger UI. -->
+<!ENTITY debuggerUI.tracingNotStarted.label "Sekimas nepradėtas.">
+
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+<!ENTITY debuggerUI.startTracing "Pradėti sekimą">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "Valyti">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton.tooltip "Išvalyti surinktus pėdsakus">
+
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pristabdyti išimtinių situacijų atveju">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.pauseExceptions.key "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "Nepaisyti „sugautų“ išimčių">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Nepaisyti „sugautų“ išimtinių situacijų">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "N">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 <!ENTITY debuggerUI.showPanesOnInit     "Paleidžiant, rodyti polangius">
-<!ENTITY debuggerUI.showPanesOnInit.key "p">
+<!ENTITY debuggerUI.showPanesOnInit.key "r">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
@@ -66,13 +91,13 @@
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 <!ENTITY debuggerUI.showOnlyEnum        "Rodyti tik vardijamus (nepaslėptus) požymius">
-<!ENTITY debuggerUI.showOnlyEnum.key    "s">
+<!ENTITY debuggerUI.showOnlyEnum.key    "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource      "Rodyti pirminius šaltinius">
-<!ENTITY debuggerUI.showOriginalSource.key  "O">
+<!ENTITY debuggerUI.showOriginalSource.key  "š">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -92,7 +117,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction      "Ieškoti funkcijos apibrėžimo">
-<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchFunction.key  "a">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
