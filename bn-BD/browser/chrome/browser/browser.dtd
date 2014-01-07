@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "উইন্ডোজ ৮ স্টাইলে brandShortName পুনরায় চালু করুন;">
+
 <!ENTITY savePageCmd.label            "পৃষ্ঠা নতুনভাবে সংরক্ষণ… (A)">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
