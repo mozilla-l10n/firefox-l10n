@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "نقّح">
 
 <!ENTITY device.name "الاسم">
-<!ENTITY device.app "تطبيق">
+
 <!ENTITY device.privileged "ذو امتيازات">
 <!ENTITY device.certified "مُعتمد">
 <!ENTITY device.allow "اسمح">
@@ -44,7 +44,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "احفظ">
+
 
 
 
@@ -75,6 +75,11 @@
 
 
 
+
+
+
+
+<!ENTITY projects.valid "صالحة">
 
 
 

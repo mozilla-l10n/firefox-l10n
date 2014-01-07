@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "مشاركة الوسائط">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "شارِك">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "ش">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "ألغِ">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "ل">
+<!ENTITY getUserMediaDialog.title                   "مشاركة الوسائط">
 
-<!ENTITY getUserMediaDialog.video.label           "اختر كمرة">
-<!ENTITY getUserMediaDialog.video.noVideo         "لا ڤديو">
-<!ENTITY getUserMediaDialog.audio.label           "اختر ميكروفون">
-<!ENTITY getUserMediaDialog.audio.noAudio         "لا صوت">
+
+
+
+
+<!ENTITY getUserMediaDialog.video.label             "اختر كمرة">
+<!ENTITY getUserMediaDialog.video.noVideo           "لا ڤديو">
+<!ENTITY getUserMediaDialog.audio.label             "اختر ميكروفون">
+<!ENTITY getUserMediaDialog.audio.noAudio           "لا صوت">
