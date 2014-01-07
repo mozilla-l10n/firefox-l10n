@@ -35,8 +35,6 @@
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Abrir dirección…">
-<!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
@@ -248,10 +246,15 @@
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
+<!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "d">
+<!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "M">
+<!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "M">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "">
 <!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
@@ -465,7 +468,6 @@
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY socialToolbar.title "Botón de la barra de herramientas social">
-<!ENTITY social.notLoggedIn.label "Sesión no iniciada">
 <!ENTITY social.ok.label "Aceptar">
 <!ENTITY social.ok.accesskey "A">
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
