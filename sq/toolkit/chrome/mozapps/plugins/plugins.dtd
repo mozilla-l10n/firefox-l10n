@@ -6,7 +6,7 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName;-i përfundoi instalimin e shtojcave që mungonin:">
 <!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;-i po instalon shtojcat…">
 <!ENTITY pluginWizard.installPluginsPage.title "Po instalohen Shtojca">
-<!ENTITY pluginWizard.licensePage.title "Leje Shtojcash">
+<!ENTITY pluginWizard.licensePage.title "Licencë Shtojce">
 <!ENTITY pluginWizard.licensePage.accept.label "Pajtohem.">
 <!ENTITY pluginWizard.licensePage.deny.label "Nuk pajtohem (shtojca nuk do të instalohet).">
 <!ENTITY pluginWizard.title "Shërbim Gjetjeje Shtojcash">
@@ -24,7 +24,7 @@
 <!ENTITY report.please                                       "Dërgo një njoftim vithisjeje">
 <!ENTITY report.submitting                                   "Njoftimi po dërgohet…">
 <!ENTITY report.submitted                                    "Njoftimi i vithisjes u dërgua.">
-<!ENTITY report.disabled                                     "Noftimi i vithisjeve është çaktivizuar.">
+<!ENTITY report.disabled                                     "Njoftimi i vithisjeve është çaktivizuar.">
 <!ENTITY report.failed                                       "Parashtrimi dështoi.">
 <!ENTITY report.unavailable                                  "Nuk njoftim.">
 <!ENTITY report.comment                                      "Shtoni një koment (komentet janë publikisht të dukshëm)">

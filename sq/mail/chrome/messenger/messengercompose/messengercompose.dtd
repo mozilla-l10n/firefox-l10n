@@ -16,7 +16,7 @@
 <!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Kontakt Libri Adresash…">
 <!ENTITY newContact.accesskey "K">
-<!ENTITY attachMenu.label "Bashkangjisni">
+<!ENTITY attachMenu.label "Bashkangjitni">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
@@ -125,8 +125,8 @@
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Kontrollo Drejtshkrimin Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Përmende Mesazhin">
-<!ENTITY quoteCmd.accesskey "P">
+<!ENTITY quoteCmd.label "Citoje Mesazhin">
+<!ENTITY quoteCmd.accesskey "C">
 
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -173,7 +173,7 @@
 <!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Rregullime Logarish…">
+<!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
 <!ENTITY accountManagerCmd.accesskey "R">
 <!ENTITY accountManagerCmdUnix.accesskey "R">
 <!ENTITY preferencesCmd.label "Mundësi…">
@@ -190,9 +190,9 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Dërgoje">
-<!ENTITY quoteButton.label "Përmende">
+<!ENTITY quoteButton.label "Citoje">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkangjisni">
+<!ENTITY attachButton.label "Bashkangjitni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 
@@ -226,14 +226,14 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Futni një emotikon">
-<!ENTITY smiley1Cmd.label "Buzëqeshje">
+<!ENTITY smiley1Cmd.label "I buzëqeshur">
 <!ENTITY smiley2Cmd.label "I ngrysur">
 <!ENTITY smiley3Cmd.label "Syshkelur">
 <!ENTITY smiley4Cmd.label "Gjuhëpërjashta">
-<!ENTITY smiley5Cmd.label "Zgjërdhimje">
+<!ENTITY smiley5Cmd.label "I zgërdhirë">
 <!ENTITY smiley6Cmd.label "I turpëruar">
 <!ENTITY smiley7Cmd.label "I pavendosur">
-<!ENTITY smiley8Cmd.label "Befasi">
+<!ENTITY smiley8Cmd.label "I befasuar">
 <!ENTITY smiley9Cmd.label "Puthje">
 <!ENTITY smiley10Cmd.label "Gërthitje">
 <!ENTITY smiley11Cmd.label "Cool">
@@ -257,7 +257,7 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Ngjite">
 <!ENTITY paste.accesskey "N">
-<!ENTITY pasteQuote.label "Ngjite Si Përmendje">
+<!ENTITY pasteQuote.label "Ngjite Si Citim">
 <!ENTITY pasteQuote.accesskey "m">
 
 <!ENTITY openAttachment.label "Hape">

@@ -17,8 +17,8 @@
 <!ENTITY font.langGroup.latin2 "Europiane Qendrore">
 <!ENTITY font.langGroup.simpl-chinese "Kineze e Thjeshtuar">
 <!ENTITY font.langGroup.tamil "Tamileze">
-<!ENTITY font.langGroup.thai "Tailandeze">
-<!ENTITY font.langGroup.trad-chinese "Kineze Tradicionale (Taivan)">
+<!ENTITY font.langGroup.thai "Tajlandeze">
+<!ENTITY font.langGroup.trad-chinese "Kineze Tradicionale (Tajvan)">
 <!ENTITY font.langGroup.trad-chinese-hk "Kineze Tradicionale (Hong Kong)">
 <!ENTITY font.langGroup.turkish "Turke">
 <!ENTITY font.langGroup.unicode "Unikod">
@@ -46,7 +46,7 @@
 <!ENTITY monospace.accesskey "m">
 <!ENTITY monospace.label "Monospace:">
 <!ENTITY proportional.accesskey "P">
-<!ENTITY proportional.label "Përpjestimore:">
+<!ENTITY proportional.label "Përpjesëtimore:">
 
 
 
@@ -64,7 +64,7 @@
 <!ENTITY  allowPagesToUse.label                   "Lejoji faqet të përdorin shkronja të vetat, në vend të përzgjedhjeve të mia më sipër">
 <!ENTITY  allowPagesToUse.accesskey               "L">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Kodim Shkronjash për Lëndë Si Dikur">
-<!ENTITY languages.customize.Fallback.label       "Kodim Shkronjash Fallback:">
+<!ENTITY languages.customize.Fallback.grouplabel  "Kodim Shkronjash për Lëndë të Dikurshme">
+# <!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
 <!ENTITY languages.customize.Fallback.accesskey   "K">
 <!ENTITY languages.customize.Fallback.desc        "Ky kodim shkronjash përdoret për lëndë të dikurshme, për të cilën nuk ka kodim të deklaruar.">

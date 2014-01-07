@@ -66,8 +66,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "t">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
-<!ENTITY addCurPagesCmd.label "Faqeruajini Tërë Skedat…">
-<!ENTITY showAllTabsCmd.label "Shfaqini Tërë Skedat">
+<!ENTITY addCurPagesCmd.label "Faqeruajini Krejt Skedat…">
+<!ENTITY showAllTabsCmd.label "Shfaqini Krejt Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
 
 <!ENTITY backCmd.label                "Mbrapsht">
@@ -189,11 +189,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtasni…"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtatni…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P"> 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
-<!ENTITY historyUndoMenu.label "Skeda të Mbyllyra së Fundmi">
+<!ENTITY historyUndoMenu.label "Skeda të Mbyllura së Fundmi">
 <!ENTITY historyHomeCmd.label "Hyrje">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageStyleNoStyle.accesskey "P">
 <!ENTITY pageStylePersistentOnly.label "Stil Fillestar Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë &quot;website&quot;">
+<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt web">
 <!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.label         "Rimerre">
-<!ENTITY identity.moreInfoLinkText "Tregomë më tepër rreth këtij &quot;site&quot;-i web…">
+<!ENTITY identity.moreInfoLinkText "Tregomë më tepër rreth këtij sajti web…">
 <!ENTITY printFrameCmd.accesskey      "K">
 <!ENTITY printFrameCmd.label          "Shtypni Kornizën…">
 <!ENTITY showAllHistoryCmd2.label "Shfaq Krejt Historikun">
@@ -372,7 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "F">
 
 
-<!ENTITY identity.unverifiedsite2 "Ky &quot;site&quot; web nuk furnizon të dhëna identiteti.">
+<!ENTITY identity.unverifiedsite2 "Ky sajt web nuk furnizon të dhëna identiteti.">
 
 <!ENTITY fullZoomToggleCmd.label        "Zmadho Vetëm Tekstin">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -384,7 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenExitButton.label "Mos e Lejo">
 <!ENTITY fullscreenApproval.value "Të lejohet mënyra Krejt Ekrani?">
 
-<!ENTITY fullscreenExitHint.value "Shtypni ESC në çfarëdo kohe që të dilni nga mënyra Krejt Ekrani.">
+<!ENTITY fullscreenExitHint.value "Që të dilni nga mënyra Krejt Ekrani, shtypni ESC në çfarëdo kohe.">
 <!ENTITY leaveDOMFullScreen.label "Dil Nga Mënyra Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
@@ -619,15 +619,15 @@ can reach it easily. -->
 
 <!ENTITY social.addons.label "Administroni Shërbime…">
 
-<!ENTITY getUserMedia.selectCamera.label "Kamera për ndarje me të tjerët:">
+<!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Hyrje në Kamera / Mikrofon">
-<!ENTITY webrtcIndicatorButton.tooltip "Shfaqni site-et me të cilët ndani kameran ose mikrofonin">
+<!ENTITY webrtcIndicatorButton.label "Hyrje në Kamerë / Mikrofon">
+<!ENTITY webrtcIndicatorButton.tooltip "Shfaqni sajtet me të cilët ndani kamerën ose mikrofonin">
 
 <!ENTITY mixedContentBlocked.helplink "Mësoni më tepër">
-<!ENTITY mixedContentBlocked.moreinfo "Shumica e site-ve web prapë do të funksionojnë si duhet, edhe kur kjo bllokohet kjo lëndë.">
+<!ENTITY mixedContentBlocked.moreinfo "Shumica e sajteve web prapë do të funksionojnë si duhet, edhe kur kjo bllokohet kjo lëndë.">
 
-<!ENTITY pointerLock.notification.message "Shtypni ESC, në çfarëdo çasti, që të rishfaqet.">
+<!ENTITY pointerLock.notification.message "Që të rishfaqet, shtypni ESC në çfarëdo çasti.">

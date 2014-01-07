@@ -36,7 +36,7 @@
 <!ENTITY widthEditField.accessKey "G">
 <!ENTITY constrainCheckbox.label "Detyro">
 <!ENTITY constrainCheckbox.accessKey "D">
-<!ENTITY constrainCheckbox.tooltip "Mbajini përpjestimet e figurës">
+<!ENTITY constrainCheckbox.tooltip "Mbajini përpjesëtimet e figurës">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Hartë Figure">

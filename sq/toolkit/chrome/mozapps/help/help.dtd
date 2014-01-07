@@ -20,8 +20,8 @@
 <!ENTITY fullZoomEnlargeBtn.label 	"Rrit Madhësi Teksti">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 <!ENTITY closeWindow.commandkey         "W">
-<!ENTITY toctab.label       	  	"Përmbajtje">
-<!ENTITY toctab.accesskey               "P">
+<!ENTITY toctab.label       	  	"Lëndë">
+<!ENTITY toctab.accesskey               "L">
 <!ENTITY fullZoomReduceCmd.commandkey	"-">
 <!ENTITY fullZoomEnlargeCmd.commandkey	"+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + në shumë tastiera është sipër këtij tasti -->

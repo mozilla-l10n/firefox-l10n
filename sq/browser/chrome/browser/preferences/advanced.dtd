@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchStartTyping.label         "Kërko për tekst kur filloj të shtyp">
 <!ENTITY searchStartTyping.accesskey     "K">
-<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur &quot;site&quot;-e web përpiqen të ridrejtojnë apo ringarkojnë faqen">
+<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur sajte web përpiqen të ridrejtojnë apo ringarkojnë faqen">
 <!ENTITY blockAutoRefresh.accesskey      "S">
 
 <!ENTITY browsing.label                  "Shfletim">
@@ -61,7 +61,7 @@
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
-<!ENTITY offlineAppsList2.label          "&quot;Site&quot;-eve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
+<!ENTITY offlineAppsList2.label          "Sajteve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -103,16 +103,16 @@
 <!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Bëma të ditur kur një &quot;site&quot; web kërkon të depozitojë të dhëna për përdorim &quot;offline&quot;">
+<!ENTITY offlineNotify.label             "Bëma të ditur kur një sajt web kërkon të depozitojë të dhëna për përdorim të palidhur">
 <!ENTITY offlineNotify.accesskey         "B">
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList2.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
+<!ENTITY offlineAppsList2.label           "Sajtet web vijues kanë të dhëna të depozituara për përdorim të palidhur:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat &quot;offline&quot;">
+<!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat jashtë linje">
 
 <!ENTITY encryptionTab.label             "Kodim">
 <!ENTITY protocols.label                 "Protokolle">
@@ -136,4 +136,4 @@
 <!ENTITY viewSecurityDevices.accesskey   "P">
 
 <!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">
-<!ENTITY offlineStorage2.label           "Lëndë Web &quot;Offline&quot; dhe të Dhëna Përdoruesi">
+<!ENTITY offlineStorage2.label           "Lëndë Web dhe të Dhëna Përdoruesi Jashtë Linje">

@@ -23,7 +23,7 @@
 <!ENTITY day.7.Ddd "Sht" >
 <!ENTITY day.7.Ddd.accesskey "S">
 
-<!ENTITY day.1.name "e Dielë" >
+<!ENTITY day.1.name "e Diel" >
 <!ENTITY day.2.name "e Hënë" >
 <!ENTITY day.3.name "e Martë" >
 <!ENTITY day.4.name "e Mërkurë" >
@@ -57,4 +57,4 @@
 <!ENTITY showToday.tooltip "Shkoni te Sot">
 <!ENTITY onedayforward.tooltip "Një Ditë Para">
 <!ENTITY onedaybackward.tooltip "Një Ditë Mbrapsht">
-<!ENTITY showselectedday.tooltip "Shfaqni ngjarje për ditën e përzgjedhur">
+<!ENTITY showselectedday.tooltip "Shfaqni veprimtari për ditën e përzgjedhur">

@@ -23,7 +23,7 @@
 <!ENTITY lightning.toolbar.task.tooltip       "Kaloni te skeda e punëve">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Ngjarje">
+<!ENTITY lightning.toolbar.newevent.label     "Veprimtari">
 <!ENTITY lightning.toolbar.newtask.label      "Punë">
 
 <!-- Calendar and Task Mode Toolbar -->

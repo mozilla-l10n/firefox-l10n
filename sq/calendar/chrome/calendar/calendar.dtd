@@ -6,7 +6,7 @@
 <!ENTITY calendar.calendar.label     "Kalendar">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.newevent.button.tooltip         "Krijoni ngjarje të re" >
+<!ENTITY calendar.newevent.button.tooltip         "Krijoni veprimtari të re" >
 <!ENTITY calendar.newtask.button.tooltip          "Krijoni punë të re" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Punë" >
@@ -16,43 +16,43 @@
 <!ENTITY calendar.tomorrow.button.label       "Nesër">
 <!ENTITY calendar.soon.button.label           "Së afërmi">
 
-<!ENTITY calendar.events.filter.all.label "Tërë Ngjarjet">
-<!ENTITY calendar.events.filter.today.label "Ngjarjet e Sotme">
-<!ENTITY calendar.events.filter.future.label "Tërë Ngjarjet e Ardhshme">
+<!ENTITY calendar.events.filter.all.label "Tërë Veprimtaritë">
+<!ENTITY calendar.events.filter.today.label "Veprimtaritë e Sotme">
+<!ENTITY calendar.events.filter.future.label "Tërë Veprimtaritë e Ardhshme">
 <!ENTITY calendar.events.filter.current.label "Ditën e Përzgjedhur Tani">
-<!ENTITY calendar.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
-<!ENTITY calendar.events.filter.next7Days.label "Ngjarjet për 7 Ditët e Ardhshme">
-<!ENTITY calendar.events.filter.next14Days.label "Ngjarjet për 14 Ditët e Ardhshme">
-<!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Ngjarjet në këtë Muaj Kalendarik">
+<!ENTITY calendar.events.filter.currentview.label "Veprimtaritë e Skenës së Tanishme">
+<!ENTITY calendar.events.filter.next7Days.label "Veprimtaritë për 7 Ditët e Ardhshme">
+<!ENTITY calendar.events.filter.next14Days.label "Veprimtaritë për 14 Ditët e Ardhshme">
+<!ENTITY calendar.events.filter.next31Days.label "Veprimtaritë për 31 Ditët e Ardhshme">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Veprimtaritë në këtë Muaj Kalendarik">
 
 <!ENTITY calendar.unifinder.tree.done.label              "I kryer">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Klikoni që të renditen sipas Kryerjesh">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klikojeni që të renditen sipas Kryerjesh">
 <!ENTITY calendar.unifinder.tree.priority.label          "Përparësi">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klikoni që të renditen sipas Përparësish">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klikojeni që të renditen sipas Përparësish">
 <!ENTITY calendar.unifinder.tree.title.label             "Titull">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Klikoni që të renditen sipas Titujsh">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klikojeni që të renditen sipas Titujsh">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; Plotësuar">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klikoni që të renditen sipas &#37; Plotësimesh">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klikojeni që të renditen sipas &#37; Plotësimesh">
 <!ENTITY calendar.unifinder.tree.startdate.label         "Fillim">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klikoni që të renditen sipas Datash Fillimi">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klikojeni që të renditen sipas Datash Fillimi">
 <!ENTITY calendar.unifinder.tree.enddate.label           "Fund">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klikoni që të renditen sipas Datash Përfundimi">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klikojeni që të renditen sipas Datash Përfundimi">
 <!ENTITY calendar.unifinder.tree.duedate.label           "Mbarim">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klikoni që të renditen sipas Datash Mbarimi">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klikojeni që të renditen sipas Datash Mbarimi">
 <!ENTITY calendar.unifinder.tree.completeddate.label     "I plotësuar">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klikoni që të renditen sipas Plotësimesh">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klikojeni që të renditen sipas Plotësimesh">
 <!ENTITY calendar.unifinder.tree.categories.label        "Kategori">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klikoni që të renditen sipas Kategorish">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klikojeni që të renditen sipas Kategorish">
 <!ENTITY calendar.unifinder.tree.location.label          "Vend">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Klikoni që të renditen sipas Vendesh">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klikojeni që të renditen sipas Vendesh">
 <!ENTITY calendar.unifinder.tree.status.label            "Gjendje">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Klikoni që të renditen sipas Gjendjesh">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klikojeni që të renditen sipas Gjendjesh">
 <!ENTITY calendar.unifinder.tree.calendarname.label      "Emër Kalendari">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klikoni që të renditen sipas Emrash Kalendarësh">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klikojeni që të renditen sipas Emrash Kalendarësh">
 <!ENTITY calendar.unifinder.tree.duration.label          "Mbaron më">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klikoni që të renditen sipas Mbarimesh">
-<!ENTITY calendar.unifinder.close.tooltip            "Mbyllni kërkim ngjarjesh dhe listë ngjarjesh">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klikojeni që të renditen sipas Mbarimesh">
+<!ENTITY calendar.unifinder.close.tooltip            "Mbyllni kërkim veprimtarish dhe listë veprimtarish">
 
 <!ENTITY calendar.today.button.tooltip            "Shkoni te e sotmja" >
 <!ENTITY calendar.todaypane.button.tooltip        "Shfaqni kutinë për të Sotmen" >
@@ -89,7 +89,7 @@
 <!ENTITY calendar.alarm.dismissall.label            "Hidhi Tej të Tëra" >
 
 
-<!ENTITY calendar.newevent.button.label         "Ngjarje e Re" >
+<!ENTITY calendar.newevent.button.label         "Veprimtari e Re" >
 <!ENTITY calendar.newtask.button.label          "Punë e Re" >
 <!ENTITY calendar.print.button.label            "Shtype" >
 
@@ -158,13 +158,13 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "H">
 <!ENTITY calendar.context.modifyorviewtask.label      "Filloni Punë…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "F">
-<!ENTITY calendar.context.newevent.label              "Ngjarje e Re…">
+<!ENTITY calendar.context.newevent.label              "Veprimtari e Re…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Punë e Re…">
 <!ENTITY calendar.context.newtodo.accesskey           "u">
 <!ENTITY calendar.context.deletetask.label            "Fshije Punën">
 <!ENTITY calendar.context.deletetask.accesskey        "i">
-<!ENTITY calendar.context.deleteevent.label           "Fshije Ngjarjen">
+<!ENTITY calendar.context.deleteevent.label           "Fshije Veprimtarinë">
 <!ENTITY calendar.context.deleteevent.accesskey       "a">
 <!ENTITY calendar.context.cutevent.label              "Prije">
 <!ENTITY calendar.context.cutevent.accesskey          "P">
@@ -232,7 +232,7 @@
 <!ENTITY calendar.context.convertmenu.label              "Shndërroje Në">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "S">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "S">
-<!ENTITY calendar.context.convertmenu.event.label        "Ngjarje…">
+<!ENTITY calendar.context.convertmenu.event.label        "Veprimtari…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "N">
 <!ENTITY calendar.context.convertmenu.message.label      "Mesazh…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
@@ -283,7 +283,7 @@
 <!ENTITY calendarproperties.name.label                     "Emër:">
 <!ENTITY calendarproperties.readonly.label                 "Vetëm Lexim">
 <!ENTITY calendarproperties.firealarms.label               "Shfaq Alarme">
-<!ENTITY calendarproperties.cache3.label                   "Mbulim Offline">
+<!ENTITY calendarproperties.cache3.label                   "Mbulim Jashtë Linje">
 <!ENTITY calendarproperties.enabled.label                  "Vëre këtë kalendar në punë">
 <!ENTITY calendarproperties.forceDisabled.label            "Ofruesi i këtij kalendari nuk u gjet dot. Shpesh, kjo ndodh nëse keni çaktivizuar apo çinstaluar disa shtesa.">
 <!ENTITY calendarproperties.unsubscribe.label              "Çpajtomë">
@@ -306,10 +306,10 @@
 <!ENTITY calendar.print.layout.label "Skemë:">
 <!ENTITY calendar.print.range.label "Çfarë të Shtypet">
 <!ENTITY calendar.print.currentView2.label "Pamja e tanishme">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Ngjarjet/punët e përzgjedhura">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Veprimtaritë/punët e përzgjedhura">
 <!ENTITY calendar.print.tasks.label "Punët">
-<!ENTITY calendar.print.events.label "Ngjarjet">
-<!ENTITY calendar.print.selected.label "Ngjarjet e përzgjedhura">
+<!ENTITY calendar.print.events.label "Veprimtaritë">
+<!ENTITY calendar.print.selected.label "Veprimtaritë e përzgjedhura">
 <!ENTITY calendar.print.custom.label "Interval vetjak të dhënash:">
 <!ENTITY calendar.print.from.label "Nga:">
 <!ENTITY calendar.print.to.label "Deri">

@@ -7,14 +7,14 @@
 <!ENTITY sunbird.copy.button.tooltip                       "Kopjojeni" >
 <!ENTITY sunbird.paste.button.tooltip                      "Ngjiteni" >
 <!ENTITY sunbird.print.button.tooltip                      "Shtypni kalendarin" >
-<!ENTITY sunbird.delete.button.tooltip                     "Fshini ngjarjen e përzgjedhur" >
+<!ENTITY sunbird.delete.button.tooltip                     "Fshini veprimtarinë e përzgjedhur" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Ringarkoni tërë kalendarët e largët" >
-<!ENTITY sunbird.import.button.tooltip                     "Importoni ngjarje nga një kartelë vendore" >
-<!ENTITY sunbird.export.button.tooltip                     "Eksportoni ngjarje te një kartelë vendore" >
+<!ENTITY sunbird.import.button.tooltip                     "Importoni veprimtari nga një kartelë vendore" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksportoni veprimtari te një kartelë vendore" >
 <!ENTITY sunbird.subscribe.button.tooltip                  "Pajtohuni te një kartelë kalendar te një makinë e largët" >
-<!ENTITY sunbird.publish.button.tooltip                    "Publikoni ngjarje te një makinë e largët" >
-<!ENTITY sunbird.unifinder.button.tooltip                  "Gjeni dhe sillni listë ngjarjesh" >
-<!ENTITY sunbird.edit.button.tooltip                       "Përpunoni ngjarjen e përzgjedhur" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publikoni veprimtari te një makinë e largët" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Gjeni dhe sillni listë veprimtarish" >
+<!ENTITY sunbird.edit.button.tooltip                       "Përpunoni veprimtarinë e përzgjedhur" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Zgjidhni Datë" >
 <!ENTITY sunbird.cut.button.label                          "Prije" >
@@ -26,7 +26,7 @@
 <!ENTITY sunbird.export.button.label                       "Eksporto" >
 <!ENTITY sunbird.subscribe.button.label                    "Pajtohuni" >
 <!ENTITY sunbird.publish.button.label                      "Publikoje" >
-<!ENTITY sunbird.unifinder.button.label                    "Gjej Ngjarje" >
+<!ENTITY sunbird.unifinder.button.label                    "Gjej Veprimtari" >
 <!ENTITY sunbird.edit.button.label                         "Përpunim" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Shko te Data" >
@@ -65,7 +65,7 @@
 <!ENTITY sunbird.maintoolbar.accesskey                     "K">
 
 <!-- Sunbird Help -->
-<!ENTITY sunbird.help.label                                "Përmbajtje Ndihme">
+<!ENTITY sunbird.help.label                                "Lëndë Ndihme">
 <!ENTITY sunbird.help.accesskey                            "N">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
