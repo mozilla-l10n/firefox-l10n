@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "আপুনি Mozilla স্খলন সংবাদসমূহ পঠাবলৈ ইচ্ছুক নে?">
+
+
+
+
+
+
+<!ENTITY crashprompt.includeURLLabel "মই থকা পৃষ্ঠাৰ ঠিকনা অন্তৰ্ভুক্ত কৰক">
+<!ENTITY crashprompt.acceptbutton    "সংবাদসমূহ পঠাওক">
+<!ENTITY crashprompt.refusebutton    "নপঠাব">
+
