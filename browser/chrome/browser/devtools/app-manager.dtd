@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Dadfygio">
 <!ENTITY device.debugAppTooltip "Agor Offer Datblygwyr sy'n gysylltiedig â'r ap ar y ddyfais.">
 <!ENTITY device.name "Enw">
-
+<!ENTITY device.plain "Plaen (rhagosodedig)">
 <!ENTITY device.privileged "Breintiedig">
 <!ENTITY device.certified "Ardystiwyd">
 <!ENTITY device.allow "Caniatáu">
@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Newidiwch y gwesteiwr a'r porth i'w defnyddio i gysylltu â'r ddyfais. (Wedi ei ragosod i localhost:6000)">
 <!ENTITY connection.startSimulator "Cychwyn yr Efelychwr">
 <!ENTITY connection.startSimulatorTooltip "Cychwyn enghraifft o'r Efelychwr a chysylltu ag ef.">
-
+<!ENTITY connection.saveConnectionInfo "Cadw">
 <!ENTITY connection.saveConnectionInfoTooltip "Cadw'r gwesteiwr a'r porth.">
 <!ENTITY connection.connecting "Cysylltu…">
 <!ENTITY connection.disconnecting "Dad-gysylltu…">
@@ -72,8 +72,8 @@
 <!ENTITY projects.updateAppTooltip "Gweithredwch wiriadau dilysu a diweddaru'r ap i'r ddyfais gysylltiedig">
 <!ENTITY projects.debugApp "Dadfygio">
 <!ENTITY projects.debugAppTooltip "Offer Datblygwyr Agored wedi ei gysylltu i'r ap">
-
-
+<!ENTITY projects.saveManifest "Cadw">
+<!ENTITY projects.saveManifestTooltip "Cadw cynnwys y Golygydd Manifest isod.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Dim projectau. Ychwanegwch ap pecyn newydd isod (cyfeiriadur lleol) neu ap gwesteio (dolen i ffeil manifest).">
 <!ENTITY projects.manifestEditor "Golygydd y Manifest">
@@ -82,7 +82,7 @@
 <!ENTITY projects.manifestViewerTooltip "Archwiliwch fanifest eich ap yn y panel isod.">
 <!ENTITY projects.valid "Dilys">
 <!ENTITY projects.error "Gwall">
-
+<!ENTITY projects.warning "Rhybudd">
 
 <!ENTITY help.title "Rheolwr Apiau">
 <!ENTITY help.close "Cau">

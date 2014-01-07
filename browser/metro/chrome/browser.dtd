@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "Agor y consol gwall">
 <!ENTITY appbarJSShell.label           "Agor cragen JavaScript">
 <!ENTITY appbarFindInPage2.label       "Canfod yn y dudalen">
-
+<!ENTITY appbarRelaunchInDesktop.label "Ailgychwyn yn y Bwrdd Gwaith">
 <!ENTITY appbarMSMetaData2.label       "Estyn ap ar gyfer y wefan">
-
+<!ENTITY appbarViewPageSource.label    "Gweld y ffynhonell y dudalen">
 
 <!ENTITY topSitesHeader.label        "Hoff Wefannau">
 <!ENTITY bookmarksHeader.label       "Nodau Tudalen">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Chwilio am tabiau? Tynnwch i lawr neu glicio i'r dde">
+<!ENTITY firstRunTopSites.label "Mynd i wefannau rydych yn ymweld â nhw amlaf">
+<!ENTITY firstRunBookmarks.label "Cadw tudalennau rydych wedi eu cadw">
+<!ENTITY firstRunMenu.label "Defnyddio rhagor o nodweddion a dewisiadau">
+<!ENTITY firstRunHistory.label "Gweld lle rydych wedi bod ar y We">
+<!ENTITY firstRunWelcome.label "Croeso i &brandShortName;">
+<!ENTITY firstRunDifferent.label "Yn fwriadol wahanol">

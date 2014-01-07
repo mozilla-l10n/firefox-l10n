@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Rhannu Cyfrwng">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Rhannu">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "R">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Diddymu">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "D">
 
 <!ENTITY getUserMediaDialog.video.label             "Dewiswch gamera">
 <!ENTITY getUserMediaDialog.video.noVideo           "Dim fideo">

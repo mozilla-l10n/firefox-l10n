@@ -124,4 +124,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "Cloriannu'r Swyddogaeth Gyfredol">
+<!ENTITY evalFunction.accesskey "S">
+<!ENTITY evalFunction.key "e">
