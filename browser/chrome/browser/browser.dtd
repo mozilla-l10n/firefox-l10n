@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
 
+<!ENTITY appmenu.title                       "Tinkinti ir valdyti „&brandFullName;“ naršyklę">
+<!ENTITY navbarOverflow.label                "Daugiau priemonių…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey                "n">
@@ -54,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Atverti tinklavietę">
-<!ENTITY openLocationCmd.accesskey "v">
 <!ENTITY openFileCmd.label "Atverti…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -181,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Adresynas">
 <!ENTITY bookmarksMenuButton.tooltip        "Rodyti tinklalapių adresyną">
 <!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
+<!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksSidebar.label         "Rodyti parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
 
@@ -333,8 +335,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label             "Taisa">
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
+<!ENTITY appMenuCustomizeExit.label    "Baigti tvarkymą">
+<!ENTITY appMenuHistory.label "Žurnalas">
+<!ENTITY appMenuHistory.showAll.label "Parodyti visą žurnalą">
+<!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
+<!ENTITY appMenuHistory.restoreSession.label "Atkurti ankstesnįjį seansą">
+<!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
+
+<!ENTITY customizeMenu.addToToolbar.label "Pridėti į priemonių juostą">
+<!ENTITY customizeMenu.addToToolbar.accesskey "P">
+<!ENTITY customizeMenu.addToPanel.label "Pridėti į meniu">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToToolbar.label "Perkelti į priemonių juostą">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "P">
+<!ENTITY customizeMenu.moveToPanel.label "Perkelti į meniu">
+<!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!ENTITY customizeMenu.removeFromToolbar.label "Pašalinti iš priemonių juostos">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "š">
+<!ENTITY customizeMenu.removeFromMenu.label "Pašalinti iš meniu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "š">
+<!ENTITY customizeMenu.addMoreItems.label "Pridėti daugiau elementų…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "d">
+
+<!ENTITY appMenuEdit.label             "Taisa">
 <!ENTITY appMenuToolbarLayout.label    "Tvarkyti priemonių juostas…">
 <!ENTITY appMenuSidebars.label         "Parankinė">
 <!ENTITY appMenuFind.label             "Ieškoti…">
@@ -348,6 +372,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2           "Įveskite adresą arba paieškos žodžius">
 <!ENTITY urlbar.accesskey              "d">
 <!ENTITY urlbar.switchToTab.label      "Pereiti į kortelę:">
+
+<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
+     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
+     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
+<!ENTITY toggleMenuPanel.key          "m">
+<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -427,7 +457,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
 <!ENTITY switchToMetroCmd.label       "Atverti „Windows 8“ stiliaus „&brandShortName;“ programoje">
-<!ENTITY switchToMetroCmd2.label      "Atverti „Windows 8 Touch“ stiliaus „&brandShortName;“ programoje">
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
@@ -645,7 +674,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Bendravimo parankinės mygtukas">
-<!ENTITY social.notLoggedIn.label   "Neįsiregistruota">
 
 <!ENTITY social.ok.label       "Gerai">
 <!ENTITY social.ok.accesskey   "G">
@@ -664,6 +692,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Išsamiau…">
 <!ENTITY social.learnMore.accesskey "I">
 <!ENTITY social.closeNotificationItem.label "Ne dabar">
+
+<!ENTITY customizeMode.tabTitle "„&brandShortName;“ tinkinimas">
+<!ENTITY customizeMode.menuAndToolbars.label "Meniu ir priemonių juostos">
+<!ENTITY customizeMode.menuAndToolbars.header "Daugiau priemonių, talpinamų į meniu ir priemonių juostą">
+<!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusuoti pokalbius">
