@@ -42,7 +42,7 @@
 <!ENTITY addonOptions.label        "Mundësi">
 <!ENTITY addonEnable.label         "Aktivizoje">
 <!ENTITY addonDisable.label        "Çaktivizoje">
-<!ENTITY addonInstall2.label       "Shtohe te &brandShortName;-i">
+<!ENTITY addonInstall2.label       "Shtoje te &brandShortName;-i">
 <!ENTITY addonUninstall.label      "Çinstaloje">
 <!ENTITY addonCancel.label         "Anuloje">
 <!ENTITY addonShowPage.label       "Shko te Faqja">
@@ -67,7 +67,7 @@
 <!ENTITY bookmarkEdit.label        "Përpunojeni">
 <!ENTITY bookmarkShortcut.label    "Shtoje te Skena e Hyrjes">
 
-<!ENTITY identity.unverifiedsite2 "Ky &quot;site&quot; web nuk furnizon të dhëna identiti.">
+<!ENTITY identity.unverifiedsite2 "Ky sajt web nuk furnizon të dhëna identiteti.">
 <!ENTITY identity.connectedTo2 "I lidhur te">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
@@ -109,14 +109,14 @@
 <!ENTITY pageactions.saveas.pdf      "Ruaje Si PDF">
 <!ENTITY pageactions.share.page      "Ndajeni Faqen">
 <!ENTITY pageactions.password.forget "Harroje Fjalëkalimin">
-<!ENTITY pageactions.reset           "Pastro Parapëlqimet për Site-in">
+<!ENTITY pageactions.reset           "Pastro Parapëlqimet për Sajtin">
 <!ENTITY pageactions.quit            "Dil">
 <!ENTITY pageactions.findInPage      "Gjeni Tek Faqja">
 <!ENTITY pageactions.search.addNew   "Shtoni Motor Kërkimi">
 <!ENTITY pageactions.charEncoding    "Kodim Shkronjash">
 
 <!ENTITY allPagesHeader.label      "Krejt Faqet">
-<!ENTITY appMenu.siteOptions         "Mundësi &quot;Site&quot;-i">
+<!ENTITY appMenu.siteOptions         "Mundësi Sajti">
 <!ENTITY copyAll.label         "Kopjoje Krejt">
 <!ENTITY desktopHeader.label       "Desktop">
 <!ENTITY downloadDelete.label      "Fshije">

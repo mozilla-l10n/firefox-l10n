@@ -88,7 +88,7 @@
 
 <!ENTITY cmd.delete.label               "Fshije Këtë Faqe">
 <!ENTITY cmd.delete.accesskey           "F">
-<!ENTITY cmd.deleteDomainData.label     "Harroje Këtë &quot;Site&quot;">
+<!ENTITY cmd.deleteDomainData.label     "Harroje Këtë Sajt">
 <!ENTITY cmd.deleteDomainData.accesskey "H">
 <!ENTITY cmd.bookmarkLink.label         "Faqeruajeni Këtë Faqe…">
 <!ENTITY cmd.bookmarkLink.accesskey     "Q">
@@ -103,11 +103,11 @@
 <!ENTITY view.accesskey           "i">
 <!ENTITY byDate.label             "Sipas Datash">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Sipas &quot;Site&quot;-esh">
+<!ENTITY bySite.label             "Sipas Sajtesh">
 <!ENTITY bySite.accesskey         "S">
 <!ENTITY byMostVisited.label      "Sipas Më të Vizituarve">
 <!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "Sipas Vizituar Së Fundmi">
 <!ENTITY byLastVisited.accesskey  "F">
-<!ENTITY byDayAndSite.label       "Sipas Datash dhe &quot;Site&quot;-esh">
+<!ENTITY byDayAndSite.label       "Sipas Datash dhe Sajtesh">
 <!ENTITY byDayAndSite.accesskey   "t">

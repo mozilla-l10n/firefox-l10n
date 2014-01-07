@@ -8,8 +8,8 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Harto mesazhe në format HTML">
 <!ENTITY useHtml.accesskey                    "H">
-<!ENTITY autoQuote.label                      "Përmende automatikisht mesazhin origjinal kur pëgjigjesh">
-<!ENTITY autoQuote.accesskey                  "P">
+<!ENTITY autoQuote.label                      "Citoje vetvetiu mesazhin origjinal kur përgjigjesh">
+<!ENTITY autoQuote.accesskey                  "C">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Mandej,">
 <!ENTITY then.accesskey                       "M">
@@ -24,7 +24,7 @@
 <!ENTITY includeSigOnReply.label              "Përfshi nënshkrim te përgjigjet">
 <!ENTITY includeSigOnReply.accesskey          "g">
 <!ENTITY includeSigOnForward.label            "Përfshi nënshkrim te përcjelljet">
-<!ENTITY includeSigOnForward.accesskey        "c">
+<!ENTITY includeSigOnForward.accesskey        "ë">
 
 <!-- extracted from am-addressing.xul -->
 

@@ -19,11 +19,11 @@
 <!ENTITY referencesField3.label "Referenca ">
 <!ENTITY messageIdField3.label "ID mesazhi ">
 <!ENTITY inReplyToField3.label "Në përgjigje të ">
-<!ENTITY originalWebsite3.label "&quot;Site&quot; web ">
+<!ENTITY originalWebsite3.label "Sajt web ">
 
 <!ENTITY editMessageDescription.label "Kjo është një skicë mesazhi">
 <!ENTITY editMessageButton.label "Përpunojeni…">
-<!ENTITY hdrArchiveButton1.label "Arkivë">
+<!ENTITY hdrArchiveButton1.label "Arkiv">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
 <!ENTITY hdrSmartReplyButton1.label "Përgjigje e Mençur">
 <!ENTITY hdrReplyButton1.label "Përgjigjuni">

@@ -16,7 +16,7 @@
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 
-<!ENTITY scrolling.label               "Rëshqitje">
+<!ENTITY scrolling.label               "Rrëshqitje">
 <!ENTITY useAutoScroll.label           "Përdor vetërrëshqitje">
 <!ENTITY useAutoScroll.accesskey       "v">
 <!ENTITY useSmoothScrolling.label      "Përdor rrëshqitje të butë">
@@ -86,10 +86,10 @@
 <!ENTITY showSettings.accesskey        "R">
 <!ENTITY proxiesConfigure.label        "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
 <!ENTITY connectionsInfo.caption       "Lidhje">
-<!ENTITY offlineInfo.caption           "I palidhur">
-<!ENTITY offlineInfo.label             "Formësoni rregullimet për i palidhur">
-<!ENTITY showOffline.label             "I palidhur…">
-<!ENTITY showOffline.accesskey         "I">
+<!ENTITY offlineInfo.caption           "Jo në linjë">
+<!ENTITY offlineInfo.label             "Formësoni rregullimet për jo në linjë">
+<!ENTITY showOffline.label             "Jo në linjë…">
+<!ENTITY showOffline.accesskey         "J">
 
 <!ENTITY Diskspace "Hapësirë Disku">
 <!ENTITY offlineCompactFolders.label     "Ngjeshi krejt dosjet kur kjo sjell kursim vendi">

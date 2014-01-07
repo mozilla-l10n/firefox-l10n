@@ -9,7 +9,7 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Që të mund të merrni, lypset së pari të rregulloni një llogari.">
+<!ENTITY accountSetupInfo2.label "Që të mund të merrni mesazhe, lypset së pari të rregulloni një llogari.">
 <!ENTITY accountTypeTitle.label "Rregullime Llogarie të Re">
 <!ENTITY accountTypeDesc2.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
 <!ENTITY accountTypeDirections.label "Përzgjidhni llojin e llogarisë që doni të rregulloni:">
@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Shërbyesat dërgues mund t&apos;i ndryshoni te rregullimet e llogarive.">
+<!ENTITY modifyOutgoing.suffix "Shërbyesit dërgues mund t&apos;i ndryshoni te rregullimet e llogarive.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
@@ -80,7 +80,7 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Shërbyesat dërgues mund t&apos;i këmbeni te rregullimet e llogarisë.">
+<!ENTITY modifyOutgoing.suffix "Shërbyesit dërgues mund t&apos;i këmbeni te rregullimet e llogarisë.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
@@ -111,7 +111,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Përgëzime!">
-<!ENTITY completionText.label "Jul lutemi sigurohuni që të dhënat e mëposhtme janë të sakta.">
+<!ENTITY completionText.label "Ju lutemi, sigurohuni që të dhënat e mëposhtme janë të sakta.">
 <!ENTITY serverTypePrefix.label "Lloj Shërbyesi Marrës:">
 <!ENTITY serverNamePrefix.label "Emër Shërbyesi Marrës:">
 <!ENTITY smtpServerNamePrefix.label "Emër Shërbyesi Dërgues (SMTP):">
@@ -120,8 +120,8 @@
 <!ENTITY deferStorageDesc.label "Hiqini shenjën kutizës nëse doni të ruani postën për këtë llogari te drejtoria e vet. Kjo do të bëjë që kjo llogari të duket si llogaria më e sipërme. Përndryshe, do të jetë pjesë e llogarisë së Përgjithshme Të marrë te Dosje Vendore">
 <!ENTITY deferStorage.label "Përdor Të marrë të Përgjithshëm (ruaj postë në Dosje Vendore)">
 <!ENTITY deferStorage.accesskey "P">
-<!ENTITY clickFinish.label "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
-<!ENTITY clickFinish.labelMac "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
+<!ENTITY clickFinish.label "Klikoni mbi Përfundoje që të ruhen këto rregullime dhe të dilet nga Krijuesi i Llogarive.">
+<!ENTITY clickFinish.labelMac "Klikoni mbi Përfundoje që të ruhen këto rregullime dhe të dilet nga Krijuesi i  Llogarive.">
 <!ENTITY downloadOnLogin.accesskey "K">
 
 <!ENTITY incomingTitle.label "Të dhëna Shërbyesi Për Ardhësen">

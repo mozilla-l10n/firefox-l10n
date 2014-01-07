@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "Ngjarje e Re…">
+<!ENTITY event.new.event                        "Veprimtari e Re…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
@@ -37,7 +37,7 @@
 <!ENTITY calendar.menu.customize.label          "Përshtatni…">
 <!ENTITY calendar.menu.customize.accesskey      "a">
 
-<!ENTITY showUnifinderCmd.label                 "Gjeni Ngjarje">
+<!ENTITY showUnifinderCmd.label                 "Gjeni Veprimtari">
 <!ENTITY showUnifinderCmd.accesskey             "G">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Shfaqi Punët në Kalendar">

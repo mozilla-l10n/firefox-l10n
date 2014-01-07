@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Mjetet Firefox për Zhvilluesit mund të diagnostikojnë pajisje tëlargëta (Firefox për Android dhe Firefox OS, për shembull). Sigurohuni që e keni aktivizuar mundësinë 'Diagnostikim së largëti' te pajisja e largët. Për më tepër, shihni">
+<!ENTITY remoteHelp "Mjetet Firefox për Zhvilluesit mund të diagnostikojnë pajisje të largëta (Firefox për Android dhe Firefox OS, për shembull). Sigurohuni që e keni aktivizuar mundësinë 'Diagnostikim së largëti' te pajisja e largët. Për më tepër, shihni">
 <!ENTITY remoteDocumentation "dokumentimin">
 <!ENTITY remoteHelpSuffix ".">
 

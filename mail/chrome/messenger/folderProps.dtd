@@ -14,7 +14,7 @@
 <!ENTITY retentionUseAccount.accesskey "P">
 <!ENTITY daysOld.label "ditë të vjetër">
 <!ENTITY message.label "mesazhe">
-<!ENTITY retentionCleanup.label "Për të ripasur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
+<!ENTITY retentionCleanup.label "Për të ripatur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç më të fundit">
@@ -27,12 +27,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "Kur merren mesazhe të rinj për këtë llogari, kontrolloje përherë këtë dosje">
 <!ENTITY folderCheckForNewMessages2.accesskey     "K">
 
-<!ENTITY offlineFolder.check.label               "Përzgjidheni këtë dosje për përdorim të palidhur">
+<!ENTITY offlineFolder.check.label               "Përzgjidheni këtë dosje për përdorim jashtë linje">
 <!ENTITY offlineFolder.check.accesskey           "P">
 <!ENTITY offlineFolder.button.label              "Shkarko Tani">
 <!ENTITY offlineFolder.button.accesskey          "S">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Përzgjidheni këtë grup lajmesh për përdorim të palidhur">
+<!ENTITY selectofflineNewsgroup.check.label      "Përzgjidheni këtë grup lajmesh për jashtë linje">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "P">
 <!ENTITY offlineNewsgroup.button.label           "Shkarko Tani">
 <!ENTITY offlineNewsgroup.button.accesskey       "S">

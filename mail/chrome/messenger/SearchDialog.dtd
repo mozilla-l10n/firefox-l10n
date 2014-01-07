@@ -41,7 +41,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Rrjedhë">
-<!ENTITY recipientColumn.label "Marrrës">
+<!ENTITY recipientColumn.label "Marrës">
 <!ENTITY subjectColumn.label "Subjekt">
 <!ENTITY dateColumn.label "Datë">
 <!ENTITY priorityColumn.label "Përparësi">

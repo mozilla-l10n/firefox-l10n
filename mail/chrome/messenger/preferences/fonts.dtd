@@ -22,7 +22,7 @@
 <!ENTITY  font.langGroup.latin1                   "Perëndimore">
 <!ENTITY  font.langGroup.latin2                   "Europiane Qendrore">
 <!ENTITY  font.langGroup.japanese                 "Japoneze">
-<!ENTITY  font.langGroup.trad-chinese             "Kineze Tradicionale (Taivan)">
+<!ENTITY  font.langGroup.trad-chinese             "Kineze Tradicionale (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Kineze Të thjeshtuara">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Kineze Tradicionale (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreane">
@@ -32,7 +32,7 @@
 <!ENTITY  font.langGroup.turkish                  "Turke">
 <!ENTITY  font.langGroup.unicode1                  "Unikod">
 <!ENTITY  font.langGroup.user-def                 "Përcaktuar nga Përdoruesi">
-<!ENTITY  font.langGroup.thai                     "Tailandeze">
+<!ENTITY  font.langGroup.thai                     "Tajlandeze">
 <!ENTITY  font.langGroup.hebrew                   "Hibru">
 <!ENTITY  font.langGroup.arabic                   "Arabike">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">

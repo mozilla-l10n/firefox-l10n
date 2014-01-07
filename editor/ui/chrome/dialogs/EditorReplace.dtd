@@ -9,7 +9,7 @@
 <!ENTITY findField.accesskey "G">
 <!ENTITY replaceField.label "Zëvendësoje me:">
 <!ENTITY replaceField.accesskey "m">
-<!ENTITY caseSensitiveCheckbox.label "Saktësisht siç është shkruajtur">
+<!ENTITY caseSensitiveCheckbox.label "Saktësisht siç është shkruar">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Mbështille përreth">
 <!ENTITY wrapCheckbox.accesskey "b">

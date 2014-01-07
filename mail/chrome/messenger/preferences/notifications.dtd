@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title        "Përshtasni Sinjalizim për Postë të Re">
+<!ENTITY notificationsDialog2.title        "Përshtatni Sinjalizim për Postë të Re">
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Zgjidhni cilat fusha të shfaqen te shënimi për sinjalizim:">

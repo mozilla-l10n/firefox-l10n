@@ -48,7 +48,7 @@
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "I ri">
 <!ENTITY  event.menu.item.new.accesskey                   "r">
-<!ENTITY  event.menu.item.new.event.label                 "Ngjarje">
+<!ENTITY  event.menu.item.new.event.label                 "Veprimtari">
 <!ENTITY  event.menu.item.new.event.accesskey             "N">
 <!ENTITY  event.menu.item.new.task.label                  "Punë">
 <!ENTITY  event.menu.item.new.task.accesskey              "P">
@@ -87,7 +87,7 @@
 <!ENTITY  event.menu.view.accesskey                       "S">
 <!ENTITY  event.menu.view.toolbars.label                  "Panele">
 <!ENTITY  event.menu.view.toolbars.accesskey              "P">
-<!ENTITY  event.menu.view.toolbars.event.label            "Panel Ngjarjesh">
+<!ENTITY  event.menu.view.toolbars.event.label            "Panel Veprimtarish">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "N">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Përshtatni…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "a">
@@ -116,13 +116,13 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "E lartë">
 <!ENTITY  event.menu.options.priority.high.accesskey          "a">
-<!ENTITY  event.menu.options.privacy.label                    "Vetësi">
-<!ENTITY  event.menu.options.privacy.accesskey                "V">
-<!ENTITY  event.menu.options.privacy.public.label             "Ngjarje Publike">
+<!ENTITY  event.menu.options.privacy.label                    "Privatësi">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Veprimtari Publike">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "e">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Shfaq Vetëm Kohë dhe Datë">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "h">
-<!ENTITY  event.menu.options.privacy.private.label            "Ngjarje Private">
+<!ENTITY  event.menu.options.privacy.private.label            "Veprimtari Private">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
 <!ENTITY  event.menu.options.show.time.label                  "Kohën Shfaqe si">
 <!ENTITY  event.menu.options.show.time.accesskey              "o">
@@ -144,7 +144,7 @@
 <!ENTITY  event.toolbar.delete.label                      "Fshije">
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.spellcheck.label                  "Kontroll Drejtshkrimi">
-<!ENTITY  event.toolbar.privacy.label                     "Vetësi">
+<!ENTITY  event.toolbar.privacy.label                     "Privatësi">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
@@ -155,7 +155,7 @@
 <!ENTITY event.categories.accesskey                       "o">
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "l">
-<!ENTITY event.attendees.label                            "Pjesëmarrësa:" >
+<!ENTITY event.attendees.label                            "Pjesëmarrës:" >
 <!ENTITY event.attendees.accesskey                        "m" >
 <!ENTITY event.alldayevent.label                          "Gjatë Krejt ditës" >
 <!ENTITY event.alldayevent.accesskey                      "G">
@@ -315,7 +315,7 @@
 <!ENTITY event.recurrence.preview.label                 "Paraparje">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label                     "Ftoni Pjesëmarrësa">
+<!ENTITY invite.title.label                     "Ftoni Pjesëmarrës">
 <!ENTITY event.organizer.label                  "Organizues">
 <!ENTITY event.freebusy.suggest.slot            "Këshilloni kohë të përshtatshme:">
 <!ENTITY event.freebusy.next.slot               "Koha pasuese " >
@@ -358,5 +358,5 @@
 <!ENTITY read.only.reminder.label        "Kujtues:">
 <!ENTITY read.only.attendees.label       "Pjesëmarrës">
 <!ENTITY read.only.description.label     "Përshkrim">
-<!ENTITY read.only.documents.label       "Dokumenta">
+<!ENTITY read.only.documents.label       "Dokumente">
 <!ENTITY read.only.link.label            "Lidhje e Afërt">

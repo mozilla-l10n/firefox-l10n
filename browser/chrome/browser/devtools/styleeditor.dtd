@@ -17,12 +17,12 @@
 <!ENTITY window.title               "Përpunues Stili">
 
 <!ENTITY newButton.label            "I ri">
-<!ENTITY newButton.tooltip          "Krijoni dhe ngjisni te dokumenti një fletë stili të ri">
+<!ENTITY newButton.tooltip          "Krijoni dhe ngjitni te dokumenti një fletë stili të ri">
 <!ENTITY newButton.accesskey        "r">
 <!ENTITY newButton.commandkey       "n">
 
 <!ENTITY importButton.label         "Importoni…">
-<!ENTITY importButton.tooltip       "Importoni dhe ngjisni te dokumenti një fletë stili ekzistues">
+<!ENTITY importButton.tooltip       "Importoni dhe ngjitni te dokumenti një fletë stili ekzistues">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
@@ -50,7 +50,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "Ndoshta do të donit të ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "ngjisnit në fletë stili të ri">
+<!ENTITY noStyleSheet-tip-action.label "ngjitnit në fletë stili të ri">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 <!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->

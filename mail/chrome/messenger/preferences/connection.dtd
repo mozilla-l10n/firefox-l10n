@@ -5,12 +5,12 @@
 <!ENTITY  connectionsDialog.title       "Rregullime Lidhjeje">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Formësim Ndërmjetësash për Hyrje në Internet">
+<!ENTITY  proxyTitle.label              "Formësim Ndërmjetësish për Hyrje në Internet">
 <!ENTITY  WPADTypeRadio.label           "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">
 <!ENTITY  WPADTypeRadio.accesskey       "v">
-<!ENTITY  manualTypeRadio.label         "Formësim ndërmjetë dorazi:">
+<!ENTITY  manualTypeRadio.label         "Formësim ndërmjetësi dorazi:">
 <!ENTITY  manualTypeRadio.accesskey     "f">
-<!ENTITY  autoTypeRadio.label           "URL formësimi automatik për ndërmjetësin:">
+<!ENTITY  autoTypeRadio.label           "URL formësimi të vetvetishëm ndërmjetësi:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ringarkoje">
 <!ENTITY  reload.accesskey              "R">

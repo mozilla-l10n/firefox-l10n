@@ -10,8 +10,8 @@
 <!ENTITY event.edit.event.key                              "E">
 <!ENTITY event.edit.event.accesskey                        "P">
 
-<!ENTITY event.delete.event                                "Fshi Ngjarjet e Përzgjedhura">
-<!ENTITY event.delete.event.accesskey                      "N">
+<!ENTITY event.delete.event                                "Fshiji Veprimtaritë e Përzgjedhura">
+<!ENTITY event.delete.event.accesskey                      "V">
 
 <!ENTITY event.delete.tasks                                "Fshi Punët e Përzgjedhura">
 <!ENTITY event.delete.tasks.accesskey                      "F">

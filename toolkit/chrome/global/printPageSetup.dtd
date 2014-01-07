@@ -8,8 +8,8 @@
 <!ENTITY customPrompt.title "Vetjake…">
 <!ENTITY formatGroup.label "Format">
 <!ENTITY headerFooter.label "Kryefaqe &amp; Fundfaqe">
-<!ENTITY hfBlank "--bosh--">
-<!ENTITY hfCenter.label "Qendër:">
+<!ENTITY hfBlank "--e zbrazët--">
+<!ENTITY hfCenter.label "Në Qendër:">
 <!ENTITY hfCustom "Vetjake…">
 <!ENTITY hfDateAndTime "Datë/Kohë">
 <!ENTITY hfLeft.label "Majtas:">
