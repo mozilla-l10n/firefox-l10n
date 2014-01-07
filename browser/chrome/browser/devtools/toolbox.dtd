@@ -109,6 +109,9 @@
 
 <!ENTITY options.enablePersistentLogging.label    "স্থায়ী লগসমূহ সামৰ্থবান কৰক">
 <!ENTITY options.enablePersistentLogging.tooltip  "যদি আপুনি এই বিকল্প সামৰ্থবান কৰে ৱেব কনচৌলে আপুনি প্ৰতিবাৰ এটা নতুন পৃষ্ঠালৈ যাওতে আউটপুট পৰিষ্কাৰ নকৰিব">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

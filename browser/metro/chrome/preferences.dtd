@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "ক্ৰেশ সংবাদক">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে Mozilla এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "মই থকা পৃষ্ঠাৰ ঠিকনা অন্তৰ্ভুক্ত কৰক">
 <!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্ৰি">
 <!ENTITY optionsHeader.telemetry.label                            "&brandShortName; ৰ ব্যৱহাৰ পৰিসংখ্যা Mozilla ৰ সৈতে অংশীদাৰী কৰে যাতে আপোনাৰ ব্ৰাউছাৰ উন্নত হয়">
