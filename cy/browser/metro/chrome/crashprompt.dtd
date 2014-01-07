@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title           "Hoffech chi anfon adroddiadau chwalu Mozilla?">
-
-
-
-
-
-
+<!ENTITY crashprompt.title           "Hoffech chi anfon adroddiadau chwalu i Mozilla?">
+<!ENTITY crashprompt.message         "Ymddiheuriadau, mae &brandShortName; newydd ei adfer ar l chwalu. Bydd anfon adroddiadau chwalu at Mozilla yn helpu i &brandShortName; fod yn fwy sefydlog a diogel. Mae modd newid eich gosodiadau yn Gosodiadau/Dewisiadau.">
+<!ENTITY crashprompt.detailsLink     "Beth yw adroddiad chwalu?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Mae adroddiad chwalu yn cynnwys manylion am y chwalu, eich peiriant, yn ogystal â chyflwr eich porwr pan chwalodd.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Gall hyn gynnwys pethau fel tudalennau agored, testun wedi eu teipio mewn ffurflenni a chynnwys negeseuon agored, hanes pori diweddar neu geoleoliad sy'n cael ei rannu gyda gwefan.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Rydym yn defnyddio adroddiadau chwalu i geisio datrys problemau a gwella ein cynnyrch. Rydym yn trin eich data fel sy'n cael ei ddisgrifio yn ein ">
+<!ENTITY crashprompt.privacyPolicyLink "Polisi reifatrwydd &brandShortName;">
 <!ENTITY crashprompt.includeURLLabel "Cynnwys cyfeiriad y dudalen roeddwn arni">
 <!ENTITY crashprompt.acceptbutton    "Anfon adroddiadau">
 <!ENTITY crashprompt.refusebutton    "Peidio anfon">
-
+<!ENTITY crashprompt.privacyPolicy.title "Polisi preifatrwydd &brandShortName;">

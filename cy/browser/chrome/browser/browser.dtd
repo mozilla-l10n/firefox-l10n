@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "N">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Dadwneud Cau'r Tab">
 <!ENTITY  closeTab.label                     "Cau Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -412,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Dolen E-bost…">
 <!ENTITY emailPageCmd.accesskey       "D">
 <!ENTITY switchToMetroCmd.label       "Ailgychwyn yn &brandShortName; arddull Windows 8">
+
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!-- alternate for content area context menu -->
