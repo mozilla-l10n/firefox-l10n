@@ -334,6 +334,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytta till verktygsfält">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytta till menyn">
 <!ENTITY customizeMenu.moveToPanel.accesskey "F">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ta bort från verktygsfält">
