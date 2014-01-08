@@ -237,6 +237,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 
+<!ENTITY pref_dynamic_toolbar "Ocultar barra de título al desplazar">
+
 <!ENTITY history_removed "Página eliminada">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
