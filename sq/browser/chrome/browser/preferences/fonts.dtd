@@ -48,9 +48,6 @@
 <!ENTITY proportional.accesskey "P">
 <!ENTITY proportional.label "Përpjesëtimore:">
 
-
-
-
 <!ENTITY sans-serif.accesskey "e">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY serif.accesskey "r">
@@ -65,6 +62,6 @@
 <!ENTITY  allowPagesToUse.accesskey               "L">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "Kodim Shkronjash për Lëndë të Dikurshme">
-# <!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
+<!ENTITY languages.customize.Fallback.label       "Kodim Shkronjash Kur Nuk Ka Zgjidhje Tjetër:">
 <!ENTITY languages.customize.Fallback.accesskey   "K">
 <!ENTITY languages.customize.Fallback.desc        "Ky kodim shkronjash përdoret për lëndë të dikurshme, për të cilën nuk ka kodim të deklaruar.">
