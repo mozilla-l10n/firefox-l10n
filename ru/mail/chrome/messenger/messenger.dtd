@@ -641,8 +641,8 @@
 <!ENTITY contextOpenNewTab.accesskey "н">
 <!ENTITY contextOpenConversation.label "Открыть в разговоре">
 <!ENTITY contextOpenConversation.accesskey "т">
-<!ENTITY contextEditAsNew.label "Редактировать как новое…">
-<!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextEditMsgAsNew.label "Редактировать как новое сообщение">
+<!ENTITY contextEditMsgAsNew.accesskey "а">
 <!ENTITY contextArchive.label "Архивировать">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">
@@ -700,8 +700,8 @@
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddDirectlyToAddressBook.accesskey "Д">
-<!ENTITY EditContact.label "Изменение контакта…">
-<!ENTITY EditContact.accesskey "м">
+<!ENTITY EditContact1.label "Редактировать контакт">
+<!ENTITY EditContact1.accesskey "а">
 <!ENTITY ViewContact.label "Просмотр контакта">
 <!ENTITY ViewContact.accesskey "с">
 <!ENTITY SubscribeToNewsgroup.label "Подписаться на группу новостей">

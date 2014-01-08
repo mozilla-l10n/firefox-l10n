@@ -250,11 +250,11 @@
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
-<!ENTITY customizeMenu.addToPanel.accesskey "и">
+<!ENTITY customizeMenu.addToPanel.accesskey "а">
 <!ENTITY customizeMenu.moveToToolbar.label "Переместить на панель инструментов">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "и">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "е">
 <!ENTITY customizeMenu.moveToPanel.label "Переместить в меню">
-<!ENTITY customizeMenu.moveToPanel.accesskey "и">
+<!ENTITY customizeMenu.moveToPanel.accesskey "е">
 <!ENTITY customizeMenu.removeFromToolbar.label "Удалить с панели инструментов">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "и">
 <!ENTITY customizeMenu.removeFromMenu.label "Удалить из меню">
