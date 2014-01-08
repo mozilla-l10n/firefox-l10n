@@ -433,6 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Enlace por correo…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "Reiniciar &brandShortName; en estilo Windows 8">
+<!ENTITY switchToMetroCmd2.label      "Reiniciar en &brandShortName; para Windows 8 Touch">
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "a">
 <!-- alternate for content area context menu -->
