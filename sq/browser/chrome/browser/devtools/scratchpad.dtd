@@ -45,8 +45,8 @@
 <!ENTITY run.accesskey                "X">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Kontrolloje">
-<!ENTITY inspect.accesskey            "K">
+<!ENTITY inspect.label                "Shqyrtoje">
+<!ENTITY inspect.accesskey            "q">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Shfaqe">

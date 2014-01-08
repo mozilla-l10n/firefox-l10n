@@ -28,7 +28,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Fshihni ose shfaqni shtyllën e filtrit të shpejtë">
+         "Shfaqni/Fshihni shtyllën e filtrit të shpejtë">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button

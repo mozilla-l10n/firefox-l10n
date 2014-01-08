@@ -17,7 +17,7 @@
 
 <!ENTITY  generalTab            "Të përgjithshme">
 <!ENTITY  generalTab.accesskey  "P">
-<!ENTITY  generalURL            "Vendndodhje:">
+<!ENTITY  generalURL            "Adresë:">
 <!ENTITY  generalType           "Lloj:">
 <!ENTITY  generalMode           "Mënyrë Hartimi:">
 <!ENTITY  generalSize           "Madhësi:">

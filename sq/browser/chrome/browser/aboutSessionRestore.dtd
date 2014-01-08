@@ -18,3 +18,13 @@
 <!ENTITY restorepage.listHeader     "Dritare dhe Skeda">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Dritaren &#37;S">
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!ENTITY welcomeback.tabtitle       "Mirë se u kthyhet!">
+
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+<!ENTITY welcomeback.pageTitle      "Mirë se u kthyhet!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName;-i rimori me sukses profilin tuaj. Më poshtë keni një listë të dritareve dhe skedave që kishit të hapura; mund t&apos;i riktheni ose t&apos;ia filloni nga e para.">
