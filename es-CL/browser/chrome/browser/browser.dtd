@@ -323,6 +323,7 @@
 <!ENTITY emailPageCmd.label "Enviar enlace por correo">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY switchToMetroCmd.label "Relanzar en &brandShortName; estilo Windows 8">
+<!ENTITY switchToMetroCmd2.label      "Relanzar en &brandShortName; para Windows 8 Táctil">
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.accesskey2 "P">
