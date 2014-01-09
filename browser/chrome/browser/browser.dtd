@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY switchToMetroCmd.label       "Restartigi &brandShortName; kun la stilo de Windows 8">
+<!ENTITY switchToMetroCmd2.label      "Restartigi en &brandShortName; por Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
