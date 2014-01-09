@@ -60,7 +60,8 @@ PFX F   0               ultra           .
 PFX F   0               super           .
 PFX F   0               hiper           .
 
-PFX T Y 6
+PFX T Y 7
+PFX T   0               hepta           .
 PFX T   0               bi              .
 PFX T   0               tris            s
 PFX T   0               tri             [^s]
