@@ -49,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -62,8 +57,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Abrir dirección…">
-<!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -349,11 +342,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
+<!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agregar a barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Agregar al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToToolbar.label "Mover a barra de herramientas">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
@@ -691,7 +694,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Barra de herramientas sociales">
-<!ENTITY social.notLoggedIn.label   "No ingresado">
 
 <!ENTITY social.ok.label       "Aceptar">
 <!ENTITY social.ok.accesskey   "A">
