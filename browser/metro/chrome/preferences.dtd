@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Crashreporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; verzendt crashrapporten om Mozilla te helpen uw browser stabieler en veiliger te maken">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Het adres van de pagina waarop ik mij bevond bijsluiten">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Deelt gebruiksstatistieken over &brandShortName; met Mozilla om uw browser te helpen verbeteren">
