@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Uw resultaten">
 
-<!ENTITY appbarErrorConsole.label   "Foutconsole openen">
-<!ENTITY appbarJSShell.label        "JavaScript-shell openen">
-<!ENTITY appbarFindInPage2.label    "Zoeken op pagina">
-<!ENTITY appbarViewOnDesktop2.label "Op desktop bekijken">
-<!ENTITY appbarMSMetaData2.label    "App voor deze website verkrijgen">
+<!ENTITY appbarErrorConsole.label      "Foutconsole openen">
+<!ENTITY appbarJSShell.label           "JavaScript-shell openen">
+<!ENTITY appbarFindInPage2.label       "Zoeken op pagina">
+<!ENTITY appbarRelaunchInDesktop.label "Herstarten in desktop">
+<!ENTITY appbarMSMetaData2.label       "App voor deze website verkrijgen">
+<!ENTITY appbarViewPageSource.label    "Paginabron weergeven">
 
 <!ENTITY topSitesHeader.label        "Topwebsites">
 <!ENTITY bookmarksHeader.label       "Bladwijzers">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Zoekt u uw tabbladen? Trek omlaag of klik met de rechtermuisknop">
+<!ENTITY firstRunTopSites.label "Naar de websites die u het vaakst bezoekt">
+<!ENTITY firstRunBookmarks.label "Pagina’s vinden die u voor later hebt opgeslagen">
+<!ENTITY firstRunMenu.label "Meer functies en opties benaderen">
+<!ENTITY firstRunHistory.label "Zien waar u op het internet bent geweest">
+<!ENTITY firstRunWelcome.label "Welkom bij &brandShortName;">
+<!ENTITY firstRunDifferent.label "Van nature anders">

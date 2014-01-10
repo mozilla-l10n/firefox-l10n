@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Wilt u crashrapporten naar Mozilla verzenden?">
+<!ENTITY crashprompt.message         "Het spijt ons, &brandShortName; is zojuist van een crash hersteld. Het verzenden van crashrapporten helpt Mozilla om &brandShortName; stabieler en veiliger te maken. U kunt uw voorkeuren altijd wijzigen in Instellingen/Opties.">
+<!ENTITY crashprompt.detailsLink     "Wat staat er in een crashrapport?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Een crashrapport bevat enkele details over de crash, uw machine, en een momentopname van de status van uw browser toen deze crashte.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Hieronder vallen mogelijk zaken als geopende pagina’s, tekst die in formulieren is ingevuld en de inhoud van geopende berichten, recente navigatiegeschiedenis, of geolocatiegegevens die met een website worden gedeeld.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "We gebruiken crashrapporten om problemen te kunnen verhelpen en onze producten te verbeteren. We gaan met uw gegevens om zoals beschreven in ons ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName;-privacybeleid">
+<!ENTITY crashprompt.includeURLLabel "Het adres van de pagina waarop ik mij bevond bijsluiten">
+<!ENTITY crashprompt.acceptbutton    "Rapporten verzenden">
+<!ENTITY crashprompt.refusebutton    "Niet verzenden">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName;-privacybeleid">
