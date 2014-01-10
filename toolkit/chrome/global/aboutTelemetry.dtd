@@ -44,12 +44,9 @@
   Histogramas recolectados por complementos
 ">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Clic para expandir sección
-">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Clic para colapsar sección
+<!ENTITY aboutTelemetry.toggle "
+  Clic para intercambiar sección
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
@@ -66,4 +63,9 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "
   Show raw data from hangs
+">
+
+
+<!ENTITY aboutTelemetry.filterText "
+  Filtro (cadenas o /regexp/)
 ">
