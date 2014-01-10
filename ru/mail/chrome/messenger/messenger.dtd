@@ -329,9 +329,9 @@
 <!ENTITY forwardAsInline.accesskey "Ч">
 <!ENTITY forwardAsAttachmentCmd.label "Вложение">
 <!ENTITY forwardAsAttachmentCmd.accesskey "В">
-<!ENTITY editMsgAsNewCmd.label "Редактировать как новое">
-<!ENTITY editMsgAsNewCmd.accesskey "Р">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Редактировать как новое сообщение">
+<!ENTITY editAsNewMsgCmd.accesskey "е">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
 <!ENTITY moveMsgToMenu.label "Переместить в папку">

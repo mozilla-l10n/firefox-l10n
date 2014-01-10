@@ -7,8 +7,9 @@
 <!ENTITY crashprompt.detailsLink "Что находится в сообщении о падении?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Сообщение о падении содержит некоторые детали о падении и вашей машине, а также снимок состояния вашего браузера в момент его падения.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Это может включать в себя такие вещи, как открытые страницы, введенный в формы текст, содержание открытых сообщений, недавнюю историю веб-сёрфинга или отправленные сайту данные о местоположении.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Мы используем сообщения о падениях, чтобы попытаться исправить проблемы и улучшить наши продукты. Мы обрабатываем вашу информацию так, как описано в нашей ">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Мы используем сообщения о падениях, чтобы попытаться исправить проблемы и улучшить наши продукты. Мы обрабатываем вашу информацию так, как описано в нашей ">
 <!ENTITY crashprompt.privacyPolicyLink "Политике приватности &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Включить адрес страницы на которой я был в это время">
 <!ENTITY crashprompt.acceptbutton "Отправлять сообщения">
 <!ENTITY crashprompt.refusebutton "Не отправлять">
