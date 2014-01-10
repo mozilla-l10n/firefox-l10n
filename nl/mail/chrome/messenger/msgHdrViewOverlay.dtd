@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "In-antwoord-op">
 <!ENTITY originalWebsite4.label "Website">
 
-<!ENTITY editMessageDescription.label "Dit is een berichtconcept">
-<!ENTITY editMessageButton.label "Bewerken…">
 <!ENTITY hdrArchiveButton1.label "Archiveren">
 <!ENTITY hdrArchiveButton1.tooltip "Dit bericht archiveren">
 <!ENTITY hdrSmartReplyButton1.label "Slim beantwoorden">
