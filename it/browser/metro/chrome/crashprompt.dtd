@@ -7,8 +7,9 @@
 <!ENTITY crashprompt.detailsLink "Che cosa è contenuto nelle segnalazioni di errore?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Una segnalazione di errore contiene alcuni dettagli sull’arresto anomalo, il computer, così come un’instantanea del browser nel momento in cui si è bloccato.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Questo potrebbe includere informazioni come le pagine aperte, il testo inserito nei moduli e il contenuto di messaggi aperti, cronologia della navigazione, o dati di geolocalizzazione condivisi con un sito.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Utilizziamo le segnalazioni di errore per risolvere errori e migliorare i nostri prodotti. Queste informazioni vengono gestite nei modi descritti nella nostra ">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Utilizziamo le segnalazioni di errore per risolvere errori e migliorare i nostri prodotti. Queste informazioni vengono gestite con le modalità descritte nella nostra ">
 <!ENTITY crashprompt.privacyPolicyLink "informativa sulla privacy di &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Includi l’indirizzo della pagina che si stava visitando">
 <!ENTITY crashprompt.acceptbutton "Invia segnalazioni">
 <!ENTITY crashprompt.refusebutton "Non inviare">
