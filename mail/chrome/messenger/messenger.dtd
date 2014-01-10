@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Doorsturen in het bericht">
 <!ENTITY buttonMenuForwardAsAttachment.label "Doorsturen als bijlagen">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Niet-ingebedde inhoud in dit bericht tonen">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
+<!ENTITY remoteContentOptionAllowForAddress.label "Niet-ingebedde inhoud van deze afzender tonen">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "v">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Waarschuwing voor dit bericht negeren">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Scamdetectie voor alle berichten uitschakelen">
+<!ENTITY phishingOptionDisableDetection.accesskey "S">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
 <!ENTITY appmenuNewContactCmd.label "Adresboekcontact…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "D">
 <!ENTITY contextUnmute.label "Dempen uitschakelen">
 <!ENTITY contextUnmute.accesskey "D">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; denkt dat dit bericht ongewenst is.">
-<!ENTITY junkBarButton1.label "Geen ongewenst bericht">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Om uw privacy te beschermen, heeft &brandShortName; niet-ingebedde inhoud in dit bericht geblokkeerd.">
-<!ENTITY loadRemoteContentButton3.label "Niet-ingebedde inhoud tonen">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Dit bericht kan een e-mailscam zijn.">
-<!ENTITY removePhishingBarButton1.label "Waarschuwing negeren">
-<!ENTITY disablePhishingWarning1.label "E-mailscamdetectie voor alle berichten uitschakelen">
-<!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam te zijn.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Negeren">
-<!ENTITY mdnBarIgnoreButton2.accesskey "N">
-<!ENTITY mdnBarSendButton2.label "Leesbevestiging versturen">
-<!ENTITY mdnBarSendButton2.accesskey "L">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
