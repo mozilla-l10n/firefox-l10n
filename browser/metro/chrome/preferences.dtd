@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Ungelokrapportearder">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ferstjoert ûngelokrapporten om Mozilla te helpen jo browser stabiler en feiliger te meitsjen">
-<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Dielt gegevensgebrûkstatistiken oer &brandShortName; mei Mozilla om te helpen jo browser better te meitsjen">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "It adres fan de side wêrop ik wie byslute">
+<!ENTITY optionsHeader.telemetry.title                           "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                           "Dielt gegevensgebrûkstatistiken oer &brandShortName; mei Mozilla om te helpen jo browser better te meitsjen">

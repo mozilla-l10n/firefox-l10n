@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "Flaterkonsole iepenje">
 <!ENTITY appbarJSShell.label        "JavaScript-shell iepenje">
 <!ENTITY appbarFindInPage2.label    "Sykje op side">
-<!ENTITY appbarViewOnDesktop2.label "Op dektop besjen">
+<!ENTITY appbarRelaunchInDesktop.label "Werstarte yn desktop">
 <!ENTITY appbarMSMetaData2.label    "App krije foar dizze website">
+<!ENTITY appbarViewPageSource.label    "Sideboarne werjaan">
 
 <!ENTITY topSitesHeader.label        "Topwebsites">
 <!ENTITY bookmarksHeader.label       "Blêdwizers">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Sykje jo jo ljepblêden? Lûk omleech of klik mei de rjochtermûsknop">
+<!ENTITY firstRunTopSites.label "Nei de websites dy't jo it faakst besykje">
+<!ENTITY firstRunBookmarks.label "Siden fine dy't jo foar letter bewarre hawwe">
+<!ENTITY firstRunMenu.label "Mear funksjes en opsjes benaderje">
+<!ENTITY firstRunHistory.label "Sjen wêr't jo op it ynternet west binne">
+<!ENTITY firstRunWelcome.label "Wolkom by &brandShortName;">
+<!ENTITY firstRunDifferent.label "Fan natuere oars">
