@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Wolle jo ûngelokrapporten nei Mozilla ferstjoere?">
+<!ENTITY crashprompt.message         "It spyt ús, &brandShortName; is sa krekt fan in ûngelok wersteld. It ferstjoeren fan ûngelokrapporten helpt Mozilla om &brandShortName; stabiler en feiliger te meitsjen. Jo kinne jo foarkarren altyd wizigje yn Ynstellingen/Opsjes.">
+<!ENTITY crashprompt.detailsLink     "Wat stiet der yn in ûngelokrapport?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "In ûngelokrapport befettet inkele details oer it ûngelok, jo masine en in momentopname fan de steat fan jo browser doe't dizze ferûngelokke.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Hjirûnder falle mooglik saken as iepene siden, tekst dy't yn formulieren ynfold is en de ynhâld fan iepende berjochten, resinte navigaasjeskiednis, of geolokaasjegegevens dy't mei in website dield wurde.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Wy brûke ûngelokrapporten om problemen ferhelpe te kinnen en ús produkten te ferbetterjen. Wy gean mei jo gegevens om as beskreaun yn ús ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName;-privacybelied">
+<!ENTITY crashprompt.includeURLLabel "It adres fan de side wêrop ik wie byslute">
+<!ENTITY crashprompt.acceptbutton    "Rapporten ferstjoere">
+<!ENTITY crashprompt.refusebutton    "Net ferstjoere">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName;-privacybelied">
