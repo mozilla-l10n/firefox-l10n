@@ -34,7 +34,7 @@
 <!ENTITY debuggerUI.searchFile.accesskey "F">
 <!ENTITY debuggerUI.searchGlobal "Cerca in tutti i file">
 <!ENTITY debuggerUI.searchGlobal.key "F">
-<!ENTITY debuggerUI.searchGlobal.accesskey "C">
+<!ENTITY debuggerUI.searchGlobal.accesskey "e">
 <!ENTITY debuggerUI.searchFunction "Cerca definizione di funzione">
 <!ENTITY debuggerUI.searchFunction.key "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "d">
@@ -49,7 +49,7 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "r">
 <!ENTITY debuggerUI.focusVariables "Seleziona albero delle variabili">
 <!ENTITY debuggerUI.focusVariables.key "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "S">
+<!ENTITY debuggerUI.focusVariables.accesskey "a">
 <!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l’esecuzione solo se l’espressione seguente è vera">
 <!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
