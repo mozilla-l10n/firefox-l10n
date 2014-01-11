@@ -140,7 +140,7 @@
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables           "Fokusera variabelträd">
 <!ENTITY debuggerUI.focusVariables.key       "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "v">
+<!ENTITY debuggerUI.focusVariables.accesskey "k">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
