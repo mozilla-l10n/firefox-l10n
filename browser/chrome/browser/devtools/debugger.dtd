@@ -148,14 +148,14 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-<!ENTITY debuggerUI.seMenuBreak           "Ajouter un point d'arrêt">
-<!ENTITY debuggerUI.seMenuBreak.accesskey "A">
+<!ENTITY debuggerUI.seMenuBreak     "Ajouter un point d'arrêt">
+<!ENTITY debuggerUI.seMenuBreak.key "A">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-<!ENTITY debuggerUI.seMenuCondBreak           "Ajouter un point d'arrêt conditionnel">
-<!ENTITY debuggerUI.seMenuCondBreak.accesskey "A">
+<!ENTITY debuggerUI.seMenuCondBreak     "Ajouter un point d'arrêt conditionnel">
+<!ENTITY debuggerUI.seMenuCondBreak.key "A">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -167,8 +167,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch           "Expression espionne depuis la sélection">
-<!ENTITY debuggerUI.seMenuAddWatch.accesskey "e">
+<!ENTITY debuggerUI.seMenuAddWatch     "Expression espionne depuis la sélection">
+<!ENTITY debuggerUI.seMenuAddWatch.key "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
