@@ -354,9 +354,9 @@
 <!ENTITY forwardAsInline.accesskey "S">
 <!ENTITY forwardAsAttachmentCmd.label "Príloha">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
-<!ENTITY editMsgAsNewCmd.label "Upraviť správu ako novú">
-<!ENTITY editMsgAsNewCmd.accesskey "U">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Upraviť ako novú správu">
+<!ENTITY editAsNewMsgCmd.accesskey "U">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Presunúť do">
