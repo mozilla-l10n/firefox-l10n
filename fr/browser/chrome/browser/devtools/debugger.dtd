@@ -50,10 +50,6 @@
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activer/Désactiver tous les points d'arrêt">
 
-<!-- LOCALIZATION NOTE (debuggerUI.tracingNotStarted.label): This is the text
-  -  displayed when tracing hasn't started in the debugger UI. -->
-<!ENTITY debuggerUI.tracingNotStarted.label "L'enregistrement des traces n'est pas démarré.">
-
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!ENTITY debuggerUI.startTracing "Démarrer l'enregistrement des traces">
