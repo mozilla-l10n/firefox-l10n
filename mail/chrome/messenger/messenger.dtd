@@ -354,9 +354,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bilaga">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.label "Redigera som nytt meddelande">
-<!ENTITY editMsgAsNewCmd.accesskey "R">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Redigera som nytt meddelande">
+<!ENTITY editAsNewMsgCmd.accesskey "R">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Flytta till">
@@ -706,8 +706,8 @@
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Öppna meddelande i konversationen">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Redigera som nytt…">
-<!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextEditMsgAsNew.label "Redigera som nytt meddelande">
+<!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkivera">
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
@@ -836,8 +836,8 @@
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Lägg till i adressboken">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
-<!ENTITY EditContact.label "Redigera kontakt…">
-<!ENTITY EditContact.accesskey "R">
+<!ENTITY EditContact1.label "Redigera kontakt">
+<!ENTITY EditContact1.accesskey "R">
 <!ENTITY ViewContact.label "Visa kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Prenumerera på diskussionsgrupp">
