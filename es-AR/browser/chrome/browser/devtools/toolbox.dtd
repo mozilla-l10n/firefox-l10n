@@ -52,10 +52,10 @@
   -  -->
 <!ENTITY options.defaultColorUnit.name "Nombres de colores">
 
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh2  "Solo sesión actual, recarga la página">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Solo sesión actual, recarga la página">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -69,11 +69,17 @@
 <!ENTITY options.enableRemote.label3    "Habilitar depuración remota">
 <!ENTITY options.enableRemote.tooltip  "Encender esta opción permitirá que las herramientas de desarrollador depuren una instancia remota de Firefox como ser Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label2    "Deshabilitar JavaScript">
+<!ENTITY options.disableJavaScript.label     "Deshabilitar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip  "Activar esta opción deshabilitará JavaScript para la pestaña actual. Si la pestaña o la caja de herramientas se cierran, esta opción será olvidada.">
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!ENTITY options.disableCache.label     "Deshabilitar Caché *">
+<!ENTITY options.disableCache.tooltip   "Activar esta opción deshabilitará caché para la pestaña actual. Si la pestaña o la caja de herramientas son cerradas, esta configuración será olvidada.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
