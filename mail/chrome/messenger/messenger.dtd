@@ -706,8 +706,8 @@
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextOpenConversation.label "Otvoriť správu ako konverzáciu">
 <!ENTITY contextOpenConversation.accesskey "c">
-<!ENTITY contextEditAsNew.label "Upraviť ako novú…">
-<!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Upraviť ako novú správu">
+<!ENTITY contextEditMsgAsNew.accesskey "n">
 <!ENTITY contextArchive.label "Archivovať">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
@@ -836,8 +836,8 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Pridať do Adresára">
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
-<!ENTITY EditContact.label "Upraviť kontakt…">
-<!ENTITY EditContact.accesskey "U">
+<!ENTITY EditContact1.label "Upraviť kontakt">
+<!ENTITY EditContact1.accesskey "U">
 <!ENTITY ViewContact.label "Zobraziť kontakt">
 <!ENTITY ViewContact.accesskey "Z">
 <!ENTITY SubscribeToNewsgroup.label "Prihlásiť sa k odberu skupiny">
