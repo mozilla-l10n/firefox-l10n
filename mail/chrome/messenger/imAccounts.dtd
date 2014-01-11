@@ -23,6 +23,8 @@
 <!ENTITY account.movedown.label "Abajo">
 <!ENTITY account.cancelReconnection.label "Cancelar reconexión">
 <!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.copyDebugLog.label "Copiar registro de depuración">
+<!ENTITY account.copyDebugLog.accesskey "e">
 <!ENTITY account.connecting "Conectando…">
 <!ENTITY account.disconnecting "Desconectando…">
 <!ENTITY account.disconnected "No conectado">
