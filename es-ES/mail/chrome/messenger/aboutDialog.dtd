@@ -1,4 +1,10 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
+<!ENTITY update.checkForUpdatesButton.label "Buscar actualizaciones">
+<!ENTITY update.checkForUpdatesButton.accesskey "B">
+<!ENTITY update.updateButton.label "Reiniciar para actualizar">
+<!ENTITY update.updateButton.accesskey "R">
+<!ENTITY update.applyButtonBillboard.label "Aplicar actualización…">
+<!ENTITY update.applyButtonBillboard.accesskey "A">
 <!ENTITY community.start2 "&brandShortName; está diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
@@ -11,7 +17,6 @@
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
 <!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
-<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled "Actualizaciones desactivada por el administrador de su sistema">
 <!ENTITY update.failed.start "Actualización fallida. ">
