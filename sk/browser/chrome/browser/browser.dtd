@@ -337,8 +337,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.accesskey "n">
 <!ENTITY customizeMenu.moveToToolbar.label "Presunúť na panel nástrojov">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Presunúť do ponuky">
-<!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!ENTITY customizeMenu.moveToPanel.accesskey "u">
 <!ENTITY customizeMenu.removeFromToolbar.label "Odstrániť z panela nástrojov">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "O">
 <!ENTITY customizeMenu.removeFromMenu.label "Odstrániť z ponuky">
