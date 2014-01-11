@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Inclou la targeta personal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Recorda-m'ho més tard">
+<!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Tanca">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
