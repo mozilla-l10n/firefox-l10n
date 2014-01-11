@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Voleu enviar informes de fallada a Mozilla?">
+<!ENTITY crashprompt.message         "El &brandShortName; s'ha recuperat d'una fallada. Podeu enviar els informes de fallada a Mozilla per ajudar a fer el &brandShortName; més estable i segur. Sempre podeu canviar la vostra preferència a Paràmetres/Opcions.">
+<!ENTITY crashprompt.detailsLink     "Què conté un informe de fallada?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallada conté alguns detalls de la fallada i del vostre ordinador, així com una instantània de l'estat del navegador quan va fallar.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Això pot incloure coses com les pàgines obertes, el text escrit en formularis i el contingut de missatges oberts, de l'historial de navegació recent o de la geolocalització compartida amb un lloc.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Fem servir els informes de fallada per resoldre problemes i millorar els nostres productes. Gestionem la vostra informació tal com ho descrivim a la nostra ">
+<!ENTITY crashprompt.privacyPolicyLink "política de privadesa del &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Inclou l'adreça de la pàgina on estava">
+<!ENTITY crashprompt.acceptbutton    "Envia els informes">
+<!ENTITY crashprompt.refusebutton    "No els enviïs">
+<!ENTITY crashprompt.privacyPolicy.title "Política de privadesa del &brandShortName;">
