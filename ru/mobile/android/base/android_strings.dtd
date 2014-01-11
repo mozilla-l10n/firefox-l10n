@@ -56,7 +56,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
-<!ENTITY pref_category_add_search_providers "Добавить другие поисковые системы">
+<!ENTITY pref_category_add_search_providers "Добавление других поисковых систем">
 <!ENTITY pref_search_tip "СОВЕТ: Добавляйте любой веб-сайт в список поисковых систем путем долгого нажатия на его поле поиска.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
