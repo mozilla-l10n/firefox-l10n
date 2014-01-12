@@ -15,7 +15,7 @@
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Nous utilisons les rapports de plantage pour essayer de résoudre les problèmes et améliorer nos logiciels. Nous utilisons vos informations conformément à la ">
 <!ENTITY crashprompt.privacyPolicyLink "politique de confidentialité de &brandShortName;">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
-<!ENTITY crashprompt.includeURLLabel "Inclure l'URL de la page où vous vous trouviez">
+<!ENTITY crashprompt.includeURLLabel "Inclure l'adresse de la page où vous vous trouviez">
 <!ENTITY crashprompt.acceptbutton    "Envoyer les rapports">
 <!ENTITY crashprompt.refusebutton    "Ne pas envoyer">
 <!ENTITY crashprompt.privacyPolicy.title "Politique de confidentialité de &brandShortName;">
