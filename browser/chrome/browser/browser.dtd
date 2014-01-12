@@ -252,9 +252,9 @@
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "d">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
-<!ENTITY customizeMenu.moveToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "">
 <!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">

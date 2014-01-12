@@ -16,40 +16,40 @@
 <!ENTITY debuggerUI.clearButton "Limpiar">
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar las trazas recopiladas">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "P">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignorar excepciones detectadas">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "I">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al arrancar">
-<!ENTITY debuggerUI.showPanesOnInit.accesskey "">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "M">
 <!ENTITY debuggerUI.showVarsFilter "Mostrar la caja de filtro de variables">
-<!ENTITY debuggerUI.showVarsFilter.accesskey "">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "c">
 <!ENTITY debuggerUI.showOnlyEnum "Mostrar sólo las propiedades enumerables">
-<!ENTITY debuggerUI.showOnlyEnum.accesskey "">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "t">
 <!ENTITY debuggerUI.showOriginalSource "Mostrar fuentes originales">
-<!ENTITY debuggerUI.showOriginalSource.accesskey "">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "o">
 <!ENTITY debuggerUI.searchPanelOperators "Operadores:">
 <!ENTITY debuggerUI.searchFile "Filtrar scripts">
 <!ENTITY debuggerUI.searchFile.key "P">
 <!ENTITY debuggerUI.searchFile.altkey "Aceptar">
-<!ENTITY debuggerUI.searchFile.accesskey "">
+<!ENTITY debuggerUI.searchFile.accesskey "s">
 <!ENTITY debuggerUI.searchGlobal "Buscar en todos los ficheros">
 <!ENTITY debuggerUI.searchGlobal.key "F">
-<!ENTITY debuggerUI.searchGlobal.accesskey "">
+<!ENTITY debuggerUI.searchGlobal.accesskey "u">
 <!ENTITY debuggerUI.searchFunction "Buscar por la definición de la función">
 <!ENTITY debuggerUI.searchFunction.key "D">
-<!ENTITY debuggerUI.searchFunction.accesskey "">
+<!ENTITY debuggerUI.searchFunction.accesskey "d">
 <!ENTITY debuggerUI.searchToken "Buscar">
 <!ENTITY debuggerUI.searchToken.key "F">
-<!ENTITY debuggerUI.searchToken.accesskey "">
+<!ENTITY debuggerUI.searchToken.accesskey "B">
 <!ENTITY debuggerUI.searchGoToLine "Ir a la línea…">
 <!ENTITY debuggerUI.searchGoToLine.key "L">
-<!ENTITY debuggerUI.searchGoToLine.accesskey "">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "l">
 <!ENTITY debuggerUI.searchVariable "Filtrar variables">
 <!ENTITY debuggerUI.searchVariable.key "V">
-<!ENTITY debuggerUI.searchVariable.accesskey "">
+<!ENTITY debuggerUI.searchVariable.accesskey "v">
 <!ENTITY debuggerUI.focusVariables "Enfocar árbol de variables">
 <!ENTITY debuggerUI.focusVariables.key "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "">
+<!ENTITY debuggerUI.focusVariables.accesskey "f">
 <!ENTITY debuggerUI.condBreakPanelTitle "Este punto de ruptura parará la ejecución sólo si la siguiente expresión devuelve verdadero">
 <!ENTITY debuggerUI.seMenuBreak "Añadir punto de ruptura">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
@@ -63,10 +63,10 @@
 <!ENTITY debuggerUI.seMenuAddWatch "Selección para expresión de vigilancia">
 <!ENTITY debuggerUI.seMenuAddWatch.key "E">
 <!ENTITY debuggerUI.addWatch "Añadir expresión de vigilancia">
-<!ENTITY debuggerUI.addWatch.accesskey "">
+<!ENTITY debuggerUI.addWatch.accesskey "A">
 <!ENTITY debuggerUI.removeAllWatch "Eliminar todas las expresiones de vigilancia">
 <!ENTITY debuggerUI.removeAllWatch.key "E">
-<!ENTITY debuggerUI.removeAllWatch.accesskey "">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!ENTITY debuggerUI.stepping.resume1 "VK_F8">
 <!ENTITY debuggerUI.stepping.resume2 "VK_HYPHEN_MINUS">
 <!ENTITY debuggerUI.stepping.stepOver1 "VK_F10">
