@@ -52,7 +52,7 @@
 <!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
-<!ENTITY columnChooser2.tooltip "Seleccione las columnas que desea mostrar.">
+<!ENTITY columnChooser2.tooltip "Seleccione las columnas que desea mostrar">
 <!ENTITY threadColumn2.tooltip "Mostrar conversaciones de mensajes">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
