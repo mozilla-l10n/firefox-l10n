@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Ngjyrë">
-<!ENTITY lastPickedColor.label "Ngjyrë e marrë së fundmi">
+<!ENTITY lastPickedColor.label "Ngjyrë e marrë së fundi">
 <!ENTITY lastPickedColor.accessKey "N">
 <!ENTITY setColor1.label "Klikoni mbi një ngjyrë ose">
 <!ENTITY setColor2.label "jepni një varg HTML ngjyre">
