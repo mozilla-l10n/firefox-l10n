@@ -21,23 +21,23 @@
 <!ENTITY flagColumn.label "Señal">
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
-<!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
-<!ENTITY threadColumn.tooltip "Haga clic para mostrar las conversaciones de mensajes">
-<!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
-<!ENTITY attachmentColumn.tooltip "Pulse para ordenar por adjuntos">
-<!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
-<!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
-<!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
-<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Pulse para ordenar por cuenta">
-<!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo basura">
-<!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en una conversación">
-<!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
-<!ENTITY readColumn.tooltip "Pulse para ordenar por leídos">
-<!ENTITY receivedColumn.tooltip "Pulse para ordenar por fecha de recepción">
-<!ENTITY flagColumn.tooltip "Pulse para ordenar por señal">
-<!ENTITY locationColumn.tooltip "Pulse para ordenar por dirección">
-<!ENTITY idColumn.tooltip "Pulse para ordenar por orden de recepción">
+<!ENTITY columnChooser2.tooltip "Seleccione las columnas que desea mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar conversaciones de mensajes">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por fecha">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado de correo basura">
+<!ENTITY unreadColumn2.tooltip "Número de mensajes no leídos en una conversación">
+<!ENTITY totalColumn2.tooltip "Número total de mensajes en la conversación">
+<!ENTITY readColumn2.tooltip "Ordenar por leídos/no leídos">
+<!ENTITY receivedColumn2.tooltip "Ordenar por fecha de recepción">
+<!ENTITY flagColumn2.tooltip "Ordenar por señal">
+<!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
+<!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
