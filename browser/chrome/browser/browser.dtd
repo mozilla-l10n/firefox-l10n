@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Koppeling e-mailen…">
 <!ENTITY emailPageCmd.accesskey       "m">
 <!ENTITY switchToMetroCmd.label       "Herstarten in &brandShortName; in Windows 8-stijl">
+<!ENTITY switchToMetroCmd2.label      "Herstarten in &brandShortName; voor Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.accesskey        "p">
 <!-- alternate for content area context menu -->
