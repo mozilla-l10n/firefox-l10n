@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY threadColumn.label "Argomento">
 <!ENTITY fromColumn.label "Mittente">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -22,23 +21,23 @@
 <!ENTITY flagColumn.label "Spuntato">
 <!ENTITY locationColumn.label "Indirizzo">
 <!ENTITY idColumn.label "Ordine di ricezione">
-<!ENTITY columnChooser.tooltip "Fare clic per selezionare le colonne da visualizzare">
-<!ENTITY threadColumn.tooltip "Fare clic per raggruppare per argomento">
-<!ENTITY fromColumn.tooltip "Fare clic per ordinare per mittente">
-<!ENTITY recipientColumn.tooltip "Fare clic per ordinare per destinatario">
-<!ENTITY attachmentColumn.tooltip "Fare clic per ordinare per allegati">
-<!ENTITY subjectColumn.tooltip "Fare clic per ordinare per oggetto">
-<!ENTITY dateColumn.tooltip "Fare clic per ordinare per data">
-<!ENTITY priorityColumn.tooltip "Fare clic per ordinare per priorità">
-<!ENTITY tagsColumn.tooltip "Fare clic per ordinare per etichetta">
-<!ENTITY accountColumn.tooltip "Fare clic per ordinare per account">
-<!ENTITY statusColumn.tooltip "Fare clic per ordinare per stato">
-<!ENTITY sizeColumn.tooltip "Fare clic per ordinare per dimensione">
-<!ENTITY junkStatusColumn.tooltip "Fare clic per ordinare per stato spam">
-<!ENTITY unreadColumn.tooltip "Numero di messaggi non letti per argomento">
-<!ENTITY totalColumn.tooltip "Numero totale messaggi per argomento">
-<!ENTITY readColumn.tooltip "Fare clic per ordinare per messaggi letti">
-<!ENTITY receivedColumn.tooltip "Fare clic per ordinare per data di ricezione">
-<!ENTITY flagColumn.tooltip "Fare clic per ordinare per spuntati">
-<!ENTITY locationColumn.tooltip "Fare clic per ordinare per locazione">
-<!ENTITY idColumn.tooltip "Fare clic per ordinare per ordine di ricezione">
+<!ENTITY columnChooser2.tooltip "Seleziona colonne da visualizzare">
+<!ENTITY threadColumn2.tooltip "Visualizza i messaggi raggruppati per argomento">
+<!ENTITY fromColumn2.tooltip "Ordina per mittente">
+<!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
+<!ENTITY attachmentColumn2.tooltip "Ordina per allegati">
+<!ENTITY subjectColumn2.tooltip "Ordina per oggetto">
+<!ENTITY dateColumn2.tooltip "Ordina per data">
+<!ENTITY priorityColumn2.tooltip "Ordina per priorità">
+<!ENTITY tagsColumn2.tooltip "Ordina per etichette">
+<!ENTITY accountColumn2.tooltip "Ordina per account">
+<!ENTITY statusColumn2.tooltip "Ordina per stato">
+<!ENTITY sizeColumn2.tooltip "Ordina per dimensione">
+<!ENTITY junkStatusColumn2.tooltip "Ordina per stato spam">
+<!ENTITY unreadColumn2.tooltip "Numero di messaggi non letti per argomento">
+<!ENTITY totalColumn2.tooltip "Numero totale dei messaggi per argomento">
+<!ENTITY readColumn2.tooltip "Ordina per messaggio letto">
+<!ENTITY receivedColumn2.tooltip "Ordina per data di ricezione">
+<!ENTITY flagColumn2.tooltip "Ordina per marcato">
+<!ENTITY locationColumn2.tooltip "Ordina per indirizzo">
+<!ENTITY idColumn2.tooltip "Ordina per ordine di ricezione">
