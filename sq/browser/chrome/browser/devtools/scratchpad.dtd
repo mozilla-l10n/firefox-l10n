@@ -53,6 +53,10 @@
 <!ENTITY display.accesskey            "S">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Shtypje e Hijshme">
+<!ENTITY pprint.key                   "S">
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -111,4 +115,10 @@
 <!ENTITY reloadAndRun.accesskey       "o">
 <!ENTITY reloadAndRun.key             "r">
 
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+<!ENTITY evalFunction.label "Vleftësoni Funksionin e Tanishëm">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
 
