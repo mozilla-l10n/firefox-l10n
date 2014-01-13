@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Persoanlike fisitekaart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Letter werinnerje">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Slute">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "S">
