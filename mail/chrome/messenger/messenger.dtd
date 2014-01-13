@@ -560,11 +560,23 @@
 <!ENTITY addressBookButton.tooltip "Adresboek iepenje">
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
-<!ENTITY appmenuButton1.tooltip "&brandShortName;-menu toane">
+<!ENTITY appmenuButton1.tooltip "It &brandShortName;-menu toane">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Trochstjoere yn berjocht">
 <!ENTITY buttonMenuForwardAsAttachment.label "Trochstjoere as bylage">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Net-ynbedde ynhâld yn dit berjocht toane">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
+<!ENTITY remoteContentOptionAllowForAddress.label "Net-ynbedde ynhâld fan dizze ôfstjoerder toane">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Warskôging foar dit berjocht negearje">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Scamdeteksje foar alle berjochten útskeakelje">
+<!ENTITY phishingOptionDisableDetection.accesskey "S">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nij berjocht">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "L">
 <!ENTITY contextUnmute.label "Lûd oan">
 <!ENTITY contextUnmute.accesskey "o">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; tinkt dat dit berjocht net winske is.">
-<!ENTITY junkBarButton1.label "Winske berjocht">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Om jo privacy te beskermjen hat &brandShortName; eksterne ynhâld yn dit berjocht blokkearre.">
-<!ENTITY loadRemoteContentButton3.label "Eksterne ynhâld toane">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Dit berjocht kin e-mailscam wêze">
-<!ENTITY removePhishingBarButton1.label "Warskôging negearje">
-<!ENTITY disablePhishingWarning1.label "Scamdeteksje útskeakelje foar alle berjochten">
-<!ENTITY reportPhishingError1.label "Dit berjocht liket gjin e-mailscam.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Negearje">
-<!ENTITY mdnBarIgnoreButton2.accesskey "N">
-<!ENTITY mdnBarSendButton2.label "Untfangstbefestiging ferstjoere">
-<!ENTITY mdnBarSendButton2.accesskey "U">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

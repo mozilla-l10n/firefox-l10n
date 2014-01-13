@@ -22,8 +22,6 @@
 <!ENTITY inReplyToField4.label "Yn-antwurd-op">
 <!ENTITY originalWebsite4.label "Webstee">
 
-<!ENTITY editMessageDescription.label "Dit is in berjochtkonsept">
-<!ENTITY editMessageButton.label "Bewurkje…">
 <!ENTITY hdrArchiveButton1.label "Argivearje">
 <!ENTITY hdrArchiveButton1.tooltip "Argivearje dit berjocht">
 <!ENTITY hdrSmartReplyButton1.label "Tûk beantwurdzje">
