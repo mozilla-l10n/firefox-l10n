@@ -1,3 +1,6 @@
+<!ENTITY inspectorHTMLEdit.label       "Përpunojeni Si HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "P">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Kopjo HTML-në e Brendshme">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "B">
 
