@@ -50,7 +50,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Shfletuesi është formësuar të përdorë një shërbyes ndërmjetës, por ndërmjetësi nuk u gjet dot.</p><ul><li>Është i saktë formësimi i shfletuesit për ndërmjetësin? Kontrolloni rregullimet dhe provoni sërish.</li><li>A është i lidhur kompjuteri te një rrjet veprues?</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
 
 <!ENTITY redirectLoop.title "Qerthull Ridrejtues">
-<!ENTITY redirectLoop.longDesc "<p>Shfletuesi ka reshtur së provuari të marrë objektin e kërkuar. Sajti po ridrejton kërkesën në një rrugë që të mos plotësohet kurrë.</p><ul><li>I keni çaktivizuar apo bllokuar cookie-t e nevojshme për këtë sajt?</li><li><em>SHËNIM</em>: Nëse të pranuarit e cookie-ve nuk e zgjidh problemin, ka të ngjarë të jetë çështje formësimi shërbyesi dhe jo e kompjuterit tuaj.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Shfletuesi ka reshtur së provuari të marrë objektin e kërkuar. Sajti po e ridrejton kërkesën në një rrugë së cilës nuk do t'i gjehet fundi kurrë.</p><ul><li>I keni çaktivizuar apo bllokuar cookie-t e nevojshme për këtë sajt?</li><li><em>SHËNIM</em>: Nëse të pranuarit e cookie-ve nuk e zgjidh problemin, ka të ngjarë të jetë çështje formësimi shërbyesi dhe jo e kompjuterit tuaj.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Përgjigje e Pasaktë">
 <!ENTITY unknownSocketType.longDesc "<p>Sajti iu përgjigj kërkesës së rrjetit në një mënyrë të papritur dhe shfletuesi nuk vazhdon dot.</p>">
