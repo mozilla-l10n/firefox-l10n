@@ -61,13 +61,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label3    "Aktivizoni diagnostikim chrome">
-<!ENTITY options.enableChrome.tooltip   "Aktivizimi i kësaj mundësie do t&apo;ju lejojë të përdorni mjete të ndryshme zhvilluesi brenda kontekstit të një shfletuesi">
+<!ENTITY options.enableChrome.tooltip   "Aktivizimi i kësaj mundësie do t&apos;ju lejojë të përdorni mjete të ndryshme zhvilluesi brenda kontekstit të një shfletuesi">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Aktivizoni diagnostikim të largët">
-<!ENTITY options.enableRemote.tooltip   "Aktivizimi i kësaj mundësie do t&apo;u lejojë mjeteve të zhvilluesit të diagnostikojnë instanca të largëta Firefox-i, të tilla si ato Firefox OS">
+<!ENTITY options.enableRemote.tooltip   "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë instanca të largëta Firefox-i, të tilla si ato Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
