@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Mundësi">
+<!ENTITY optionsHeader.char.title                                "Kodim Shkronjash">
+<!ENTITY optionsHeader.char.autodetect.label                     "Vetëzbuloje">
+<!ENTITY optionsHeader.char.options.label                        "Shofaq mundësi kodimesh te Shtylla e Zbatimeve">
+
+<!ENTITY clearPrivateData.title                                  "Pastroni të Dhëna Vetjake">
+<!ENTITY clearPrivateData.label                                  "Pastroni në këtë pajisje historikun tuaj të shfletimit, fjalëkalimet, cookie-t, dhe të dhëna formularësh">
+<!ENTITY clearPrivateData.button                                 "Pastroji">
+<!ENTITY clearPrivateData.done                                   "U bë!">
+<!ENTITY clearPrivateData.history                                "Historik shfletimesh">
+<!ENTITY clearPrivateData.otherdata                              "Të dhëna të tjera (fjalëkalime, fshehtinë, cookies, etj)">
+<!ENTITY clearPrivateData.downloadHist                           "Historik shkarkimesh">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Fshehtinë">
+<!ENTITY clearPrivateData.sitePref                               "Parapëlqime Sajtesh">
+<!ENTITY clearPrivateData.formSearchHist                         "Historik formularësh &amp; kërkimesh">
+<!ENTITY clearPrivateData.passwords                              "Fjalëkalime të ruajtur">
+<!ENTITY clearPrivateData.offline                                "Të dhëna jo në linjë sajtesh web">
+<!ENTITY clearPrivateData.logins                                 "Hyrje aktive">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Mbaji Mend Fjalëkalimet">
+<!ENTITY doNotTrack.title                                        "Mos Më Gjurmo">
+<!ENTITY doNotTrack.options.doNotTrack                           "Thuaju sajteve web se nuk dua të gjurmohem">
+<!ENTITY doNotTrack.options.doTrack                              "Thuaju sajteve web se dua të gjurmohem">
+<!ENTITY doNotTrack.options.default                              "Mos u thuaj gjë sajteve web rreth parapëlqimeve të mia mbi gjurmimet">
+<!ENTITY doNotTrack.learnMoreLink                                "Mësoni më tepër&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Njoftues Vithisjesh">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;-i parashtron njoftime vithisjesh për ta ndihmuar Mozilla-n që ta bëjë shfletuesin tuaj më të qëndrueshëm dhe të sigurt">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Përshije adresën e faqes ku qeshë">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetry">
+<!ENTITY optionsHeader.telemetry.label                            "Ndan me Mozilla-n statistika përdorimi rreth  &brandShortName;-i që të na ndihmojë ta bëjmë shfletuesin tuaj më të mirë">

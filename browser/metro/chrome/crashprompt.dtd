@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Dëshironi të dërgohen te Mozilla njoftime vithisjesh?">
+<!ENTITY crashprompt.message         "Na ndjeni, &brandShortName;-i sapo u ripërmend pas një vithisje. Dërgimi i njoftimeve të vithisjeve do ta ndihmojë Mozilla-n ta bëjë &brandShortName;-in më të qëndrueshëm dhe të sigurt. Parapalqimin tuaj mundeni përherë ta ndryshoni te Rregullime/Mundësi.">
+<!ENTITY crashprompt.detailsLink     "Ç'përmban një njoftim vithisjesh?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Një njoftim vithisjesh përmban disa hollësi rreth vithisjes, makinës suaj, si edhe një pamje të gjendjes së shfletuesit tuaj në çastin që u vithis.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Kjo mund të përfshijë gjëra të tilla si faqe të hapura, tekst të shtypur në formularë dhe lëndë të mesazheve të pambyllur, historik shfletimesh së fundi, ose gjeovendndodhje të ndarë me një sajt.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Njoftimet e vithisjes i përdorim për të provuar ndreqjen e problemeve dhe përmirësimin e produkteve tona. Të dhënat tuaj i trajtojmë ashtu siç përshkruhet te ">
+<!ENTITY crashprompt.privacyPolicyLink "Rregullat tona të privatësisë në &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Përfshije adresën e faqes ku gjendesha">
+<!ENTITY crashprompt.acceptbutton    "Dërgo njoftime">
+<!ENTITY crashprompt.refusebutton    "Mos dërgo">
+<!ENTITY crashprompt.privacyPolicy.title "Rregullat privatësie &brandShortName;-i">
