@@ -1,3 +1,13 @@
+
+
+
+showWhenDownloading.label
+
+
+
+
+
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -21,11 +31,6 @@
 <!ENTITY restoreDefault.accesskey  "P">
 
 <!ENTITY downloads.label     "Shkarkime">
-
-<!ENTITY showWhenDownloading.label     "Shfaqe dritaren e Shkarkimeve, kur shkarkohet një kartelë">
-<!ENTITY showWhenDownloading.accesskey "d">
-<!ENTITY closeWhenDone.label "Mbylle kur përfundohen tërë shkarkimet">
-<!ENTITY closeWhenDone.accesskey "M">
 <!ENTITY saveTo.label "Ruaji kartelat te">
 <!ENTITY saveTo.accesskey "R">
 <!ENTITY chooseFolderWin.label        "Shfletoni…">
