@@ -37,10 +37,6 @@
 <!ENTITY certmgr.editemailcert.dotrust "Besoje mirëfilltësinë e kësaj dëshmie.">
 <!ENTITY certmgr.editemailcert.edittrust "Përpunoni rregullime besimi dëshmie:">
 <!ENTITY certmgr.editemailcert.title "Përpunoni rregullime besueshmërie dëshmish email-esh">
-<!ENTITY certmgr.editsslcert.donttrust "Mos e beso mirëfilltësinë e kësaj dëshmie.">
-<!ENTITY certmgr.editsslcert.dotrust "Besoje mirëfilltësinë e kësaj dëshmie.">
-<!ENTITY certmgr.editsslcert.edittrust "Përpunoni rregullime besimi dëshmie:">
-<!ENTITY certmgr.editsslcert.title "Përpunoni rregullime besueshmërie dëshmish sajtesh web">
 <!ENTITY certmgr.email "Adresë E-mail">
 <!ENTITY certmgr.expires "Skadon Më">
 <!ENTITY certmgr.fields.label "Vlerë Fushe">
