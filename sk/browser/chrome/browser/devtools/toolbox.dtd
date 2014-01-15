@@ -120,6 +120,16 @@
 <!ENTITY options.timestampMessages.label      "Povoliť časové známky">
 <!ENTITY options.timestampMessages.tooltip    "Ak povolíte túto možnosť, príkazy a výstup vo Webovej konzole budú zobrazované aj s ich časovými známkami">
 
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Editor štýlov">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Zobraziť pôvodné zdroje">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Zobrazí pôvodné zdroje (e.g. súbory Sass) v Editore štýlov a v okne Prieskumníka">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
