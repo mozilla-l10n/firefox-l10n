@@ -25,6 +25,7 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opcje debugera">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Przełącz czarną skrzynkę">
 <!ENTITY debuggerUI.sources.prettyPrint "Popraw czytelność">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
 <!ENTITY debuggerUI.pauseExceptions "Zatrzymuj na wyjątkach">
 <!ENTITY debuggerUI.pauseExceptions.key "Z">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignoruj wyłapane wyjątki">
