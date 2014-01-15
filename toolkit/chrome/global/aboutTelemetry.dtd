@@ -20,6 +20,10 @@
   Hängningar i webbläsaren
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Hängningar i trådar
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogram
 ">
