@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "Gjurmim">
 
-<!ENTITY dntTrackingNopref.label        "Mos u thuaj gjë sajteve rreth parapëlqimeve të mia për gjurmimet.">
+<!ENTITY dntTrackingNopref.label2        "Mos u thuaj gjë sajteve rreth parapëlqimeve të mia për gjurmimet.">
 <!ENTITY dntTrackingNopref.accesskey    "M">
-<!ENTITY dntTrackingNotOkay.label       "Thuaju sajteve që nuk dëshiroj të më gjurmojnë.">
+<!ENTITY dntTrackingNotOkay.label2       "Thuaju sajteve që nuk dëshiroj të më gjurmojnë.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Thuaju sajteve që dëshiroj të më gjurmojnë.">
+<!ENTITY dntTrackingOkay.label2          "Thuaju sajteve që dëshiroj të më gjurmojnë.">
 <!ENTITY dntTrackingOkay.accesskey      "d">
 <!ENTITY doNotTrackInfo.label           "Mësoni Më Tepër">
 
