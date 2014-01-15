@@ -16,11 +16,11 @@
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktief">
 <!ENTITY aboutNetworking.idle                  "Ledig">
-
+<!ENTITY aboutNetworking.host                  "Masjien">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Gestuur">
 <!ENTITY aboutNetworking.received              "Ontvang">
-
+<!ENTITY aboutNetworking.family                "Familie">
 <!ENTITY aboutNetworking.addresses             "Adresse">
 
 <!ENTITY aboutNetworking.messagesSent          "Boodskappe gestuur">

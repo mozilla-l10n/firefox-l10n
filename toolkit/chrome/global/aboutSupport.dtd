@@ -13,9 +13,9 @@ probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Verslag-ID">
-
-
-
+<!ENTITY aboutSupport.crashes.sendDate "Ingedien">
+<!ENTITY aboutSupport.crashes.allReports "Alle omvalverslae">
+<!ENTITY aboutSupport.crashes.noConfig "Hierdie program is nie opgestel om omvalverslae te wys nie.">
 
 <!ENTITY aboutSupport.extensionsTitle "Uitbreidings">
 <!ENTITY aboutSupport.extensionName "Naam">

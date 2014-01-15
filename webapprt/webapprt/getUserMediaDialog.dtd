@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Mediadeling">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Deel">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Kanselleer">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "Kies kamera">
 <!ENTITY getUserMediaDialog.video.noVideo           "Geen video">

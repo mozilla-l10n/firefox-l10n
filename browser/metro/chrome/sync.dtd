@@ -16,7 +16,7 @@
 <!ENTITY sync.flyout.setup.manual.label_2      "Ek's nie naby my rekenaar nie…">
 <!ENTITY sync.flyout.setup.description3        "Let wel:">
 
-
+<!ENTITY sync.flyout.setup.description5_2      "[Rekenaar] Gaan na &quot;Opsies&quot; of &quot;Voorkeure&quot; en kies dan &quot;&syncBrand.shortName.label;&quot;">
 
 <!-- Flyout when setting up manually -->
 
@@ -46,8 +46,8 @@
 <!-- Flyout when pairing a device -->
 
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Let wel:">
-
-
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Om die kode te kry,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Rekenaar] Gaan na &quot;Opsies&quot; of &quot;Voorkeure&quot; en volg hierdie stappe:&syncBrand.shortName.label; -&gt; Stel &syncBrand.shortName.label; op -&gt; Ek het &apos;n rekening">
 
 <!ENTITY sync.flyout.pairNewDevice.failure                "Probeer asseblief weer">
 <!-- Flyout when a device has been successfully paired -->
