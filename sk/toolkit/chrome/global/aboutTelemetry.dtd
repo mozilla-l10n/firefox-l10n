@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Zlyhania prehliadača">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "Zlyhania vlákien">
+
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduché merania">
