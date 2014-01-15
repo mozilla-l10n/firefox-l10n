@@ -9,8 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Attiva/disattiva isolamento sorgenti">
 <!ENTITY debuggerUI.sources.prettyPrint "Formatta sorgente">
-<!ENTITY debuggerUI.autoPrettyPrint "Formatta automaticamente sorgenti compresse (minified)">
-<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+<!ENTITY debuggerUI.automaticamente "Formatta automaticamente sorgenti compresse (minified)">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "c">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Attiva/disattiva tutti i punti di interruzione">
 <!ENTITY debuggerUI.startTracing "Avvia tracciamento">
 <!ENTITY debuggerUI.clearButton "Cancella">
@@ -18,11 +18,11 @@
 <!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "M">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignora eccezioni individuate">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "n">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "z">
 <!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all’avvio">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "n">
 <!ENTITY debuggerUI.showVarsFilter "Visualizza sezione filtro variabili">
-<!ENTITY debuggerUI.showVarsFilter.accesskey "z">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "s">
 <!ENTITY debuggerUI.showOnlyEnum "Visualizza solo proprietà enumerabili">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "u">
 <!ENTITY debuggerUI.showOriginalSource "Visualizza sorgenti originali">
@@ -34,7 +34,7 @@
 <!ENTITY debuggerUI.searchFile.accesskey "F">
 <!ENTITY debuggerUI.searchGlobal "Cerca in tutti i file">
 <!ENTITY debuggerUI.searchGlobal.key "F">
-<!ENTITY debuggerUI.searchGlobal.accesskey "e">
+<!ENTITY debuggerUI.searchGlobal.accesskey "f">
 <!ENTITY debuggerUI.searchFunction "Cerca definizione di funzione">
 <!ENTITY debuggerUI.searchFunction.key "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "d">
@@ -49,7 +49,7 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "r">
 <!ENTITY debuggerUI.focusVariables "Seleziona albero delle variabili">
 <!ENTITY debuggerUI.focusVariables.key "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "a">
+<!ENTITY debuggerUI.focusVariables.accesskey "b">
 <!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l’esecuzione solo se l’espressione seguente è vera">
 <!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
