@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Dolen E-bost…">
 <!ENTITY emailPageCmd.accesskey       "D">
 <!ENTITY switchToMetroCmd.label       "Ailgychwyn yn &brandShortName; arddull Windows 8">
-
+<!ENTITY switchToMetroCmd2.label      "Ailgychwyn i &brandShortName; ar gyfer Windows 8 Cyffwrdd">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!-- alternate for content area context menu -->
