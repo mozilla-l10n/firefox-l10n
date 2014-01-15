@@ -120,6 +120,16 @@
 <!ENTITY options.timestampMessages.label      "Aktivera tidsstämplar">
 <!ENTITY options.timestampMessages.tooltip    "Om du aktiverar detta alternativ kommer kommandon och utdata i webbkonsolen att visas med en tidsstämpel">
 
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Stileditor">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Visa originalkällor">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Visa originalkällor (t.ex. Sass-filer) i stileditorn och inspektören">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
