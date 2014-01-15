@@ -513,6 +513,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Zvogëloje">            
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -696,6 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCmd.accesskey         "A">
 <!ENTITY throbberItem.title            "Activity Indicator">
 <!ENTITY appMenuButton.label           "Menu">
+<!ENTITY appMenuButton.tooltip         "Hapni menunë e &brandShortName;-it">
 <!ENTITY feedButton.label              "Subscribe">
 <!ENTITY feedButton.tooltip            "Subscribe to this page…">
 <!ENTITY bookmarksButton.tooltip       "Display your bookmarks">
