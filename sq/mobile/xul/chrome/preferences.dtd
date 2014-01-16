@@ -10,7 +10,7 @@
 <!ENTITY showImages.title                          "Shfaqi figurat">
 <!ENTITY enableJavaScript.title                    "Aktivizo JavaScript-in">
 <!ENTITY privacy.title                             "Privatësi &amp; Siguri">
-<!ENTITY allowCookies.title                        "Lejo &quot;cookies&quot;">
+<!ENTITY allowCookies.title                        "Lejo cookies">
 <!ENTITY masterPassword.title                      "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY clearPrivateData2.title                   "Pastro të dhëna vetjake">
 <!ENTITY clearPrivateData.button                   "Pastroji">

@@ -25,7 +25,7 @@ that require it.  -->
 
 <!ENTITY itemPasswords.label          "Fjalëkalime të Ruajtur">
 <!ENTITY itemPasswords.accesskey      "F">
-<!ENTITY itemCookies.label            "&quot;Cookie&quot;">
+<!ENTITY itemCookies.label            "Cookie">
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemOfflineApps.label        "Të dhëna Sajti Web Jashtë Linje">
 <!ENTITY itemOfflineApps.accesskey    "T">

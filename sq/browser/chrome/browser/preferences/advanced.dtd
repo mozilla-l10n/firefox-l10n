@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "Hyrshmëri">
 
 <!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lëvizje brenda faqesh">
-<!ENTITY useCursorNavigation.accesskey   "P">
+<!ENTITY useCursorNavigation.accesskey   "t">
 <!ENTITY searchStartTyping.label         "Kërko për tekst kur filloj të shtyp">
 <!ENTITY searchStartTyping.accesskey     "K">
 <!ENTITY blockAutoRefresh.label          "Sinjalizomë kur sajte web përpiqen të ridrejtojnë apo ringarkojnë faqen">
@@ -22,18 +22,18 @@
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
 <!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
-<!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY allowHWAccel.accesskey          "u">
 <!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
 <!ENTITY checkSpelling.accesskey         "o">
 
 <!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
 <!ENTITY alwaysCheckDefault.label        "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "h">
-<!ENTITY setDefault.label                "Kaloje &brandShortName;-in si shfletuesin parazgjedhje">
-<!ENTITY setDefault.accesskey            "K">
+<!ENTITY alwaysCheckDefault.accesskey    "G">
+<!ENTITY setDefault.label                "Caktoje &brandShortName;-in shfletues parazgjedhje">
+<!ENTITY setDefault.accesskey            "C">
 <!ENTITY isDefault.label                 "&brandShortName;-i është shfletuesi juaj parazgjedhje">
 
-<!ENTITY dataChoicesTab.label            "Mundësi Për të Dhënat">
+<!ENTITY dataChoicesTab.label            "Mundësi të Dhënash">
 
 <!ENTITY healthReportSection.label       "Raport Mbi Shëndetin e &brandShortName;-it">
 <!ENTITY healthReportDesc.label          "Ju ndihmon të vlerësoni funksionimin e shfletuesit tuaj dhe të ndani me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj">
@@ -61,7 +61,9 @@
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
-<!ENTITY offlineAppsList2.label          "Sajteve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
+<!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">
+
+<!ENTITY offlineStorage2.label           "Lëndë Web dhe të Dhëna Përdoruesi Jashtë Linje">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -75,7 +77,7 @@
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY clearOfflineAppCacheNow.label   "Pastroje Tani">
-<!ENTITY clearOfflineAppCacheNow.accesskey "n">        
+<!ENTITY clearOfflineAppCacheNow.accesskey "a">        
 <!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -85,11 +87,11 @@
 <!ENTITY updateAuto1.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto1.accesskey            "I">
 <!ENTITY updateAutoMetro.label           "Përditëso vetvetiu prej &brandShortName;-i për desktop dhe për stil Windows">
-<!ENTITY updateAutoMetro.accesskey       "P">
+<!ENTITY updateAutoMetro.accesskey       "v">
 <!ENTITY updateCheck.label               "Kontrollo për përditësime, por më lejo të zgjedh t&apos;i instaloj a jo ato">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
-<!ENTITY updateManual.accesskey          "M">
+<!ENTITY updateManual.accesskey          "o">
 
 <!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë ndonjë shtesë">
 <!ENTITY updateAutoAddonWarn.accesskey   "S">
@@ -112,7 +114,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList2.label           "Sajtet web vijues kanë të dhëna të depozituara për përdorim të palidhur:">
+<!ENTITY offlineAppsList2.label          "Sajteve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
@@ -130,6 +132,3 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey   "P">
-
-<!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">
-<!ENTITY offlineStorage2.label           "Lëndë Web dhe të Dhëna Përdoruesi Jashtë Linje">

@@ -51,8 +51,8 @@
 <!ENTITY itemCookies.label       "Lëndë Web">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;-i ju lejon të përcaktoni cilëve blogje, prurje lajmesh, dhe sajtesh të tjerë web u lejohet të depozitojnë &quot;cookie&quot;.">
-<!ENTITY acceptCookies.label            "Prano &quot;cookie&quot; prej sajtesh">
+<!ENTITY cookies.intro                  "&brandShortName;-i ju lejon të përcaktoni cilëve blogje, prurje lajmesh, dhe sajtesh të tjerë web u lejohet të depozitojnë cookies.">
+<!ENTITY acceptCookies.label            "Prano cookies prej sajtesh">
 <!ENTITY acceptCookies.accesskey        "P">
 <!ENTITY keepUntil.label                "Mbaji:">
 <!ENTITY keepUntil.accesskey            "M">

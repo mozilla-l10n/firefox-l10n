@@ -8,7 +8,7 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Shkronja për:">
-<!ENTITY  language.accesskey                      "S">
+<!ENTITY  language.accesskey                      "o">
 
 <!ENTITY  size.label                              "Madhësi:">
 <!ENTITY  sizeProportional.accesskey              "d">
@@ -20,7 +20,7 @@
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 

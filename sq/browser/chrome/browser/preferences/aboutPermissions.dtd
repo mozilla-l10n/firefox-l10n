@@ -26,7 +26,7 @@
 <!ENTITY password.label                  "Ruaji Fjalëkalimet">
 <!ENTITY password.manage                 "Administroni Fjalëkalime…">
 
-<!ENTITY cookie.label                    "Depozito &quot;Cookies&quot;">
+<!ENTITY cookie.label                    "Depozito Cookies">
 <!ENTITY cookie.remove                    "Hiqi Cookie-t">
 <!ENTITY cookie.manage                   "Administroni Cookie-t…">
 <!ENTITY cookie.removeAll                 "Hiqi Krejt Cookie-t">
