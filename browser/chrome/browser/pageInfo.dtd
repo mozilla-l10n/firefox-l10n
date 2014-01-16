@@ -73,7 +73,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Privatësi &amp; Historik">
 <!ENTITY  securityView.privacy.history                  "E kam vizituar këtë sajt web më herët se sot?">
-<!ENTITY  securityView.privacy.cookies                  "A po depoziton ky sajt web të dhëna (&quot;cookies&quot;) në kompjuterin tim?">
+<!ENTITY  securityView.privacy.cookies                  "A po depoziton ky sajt web të dhëna (cookies) në kompjuterin tim?">
 <!ENTITY  securityView.privacy.viewCookies              "Shihni Cookie-t">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
 <!ENTITY  securityView.privacy.passwords                "A kam ruajtur ndonjë fjalëkalim për këtë sajt web?">
