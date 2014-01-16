@@ -71,7 +71,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource      "顯示原始來源">
+<!ENTITY debuggerUI.showOriginalSource      "顯示原始碼">
 <!ENTITY debuggerUI.showOriginalSource.key  "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
