@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
 <!ENTITY attachVCardCmd.accesskey "k">
+<!ENTITY remindLater.label "Figyelmeztetés később">
+<!ENTITY remindLater.accesskey "F">
 <!ENTITY closeCmd.label "Bezárás">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "B">
