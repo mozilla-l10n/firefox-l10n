@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                 "Gerätefreigabe">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Freigeben">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "F">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Abbrechen">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
+<!ENTITY getUserMediaDialog.button.accept.label     "Freigeben">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "F">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Abbrechen">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "A">
 
 <!ENTITY getUserMediaDialog.video.label           "Kamera auswählen">
 <!ENTITY getUserMediaDialog.video.noVideo         "Kein Video">
