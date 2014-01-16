@@ -198,7 +198,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "傳送">
 <!ENTITY quoteButton.label "引言">
-<!ENTITY addressButton.label "通訊錄">
+<!ENTITY addressButton.label "聯絡人">
 <!ENTITY attachButton.label "附件">
 <!ENTITY spellingButton.label "拼字檢查">
 <!ENTITY saveButton.label "儲存">
@@ -297,6 +297,6 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "通訊錄">
+<!ENTITY addressesSidebarTitle.label "聯絡人">
 
 
