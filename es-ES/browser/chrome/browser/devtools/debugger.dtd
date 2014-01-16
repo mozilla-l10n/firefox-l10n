@@ -10,7 +10,7 @@
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Alternar modo de caja negra">
 <!ENTITY debuggerUI.sources.prettyPrint "Embellecer el código fuente">
 <!ENTITY debuggerUI.autoPrettyPrint "Formatear automáticamente los códigos fuente minimizados.">
-<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "n">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar todos los puntos de ruptura">
 <!ENTITY debuggerUI.startTracing "Comenzar a registrar traza">
 <!ENTITY debuggerUI.clearButton "Limpiar">
