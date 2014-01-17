@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY charsetMenu.label             "Usimbaji Kibambo">
+<!ENTITY charsetMenu.accesskey         "U">
+
+<!-- A reserved for Arabic -->
+
+
+
+
+<!ENTITY charsetMenuAutodet.ru.label      "Kirusi">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+
+
+

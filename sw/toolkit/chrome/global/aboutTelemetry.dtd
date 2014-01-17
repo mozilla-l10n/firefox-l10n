@@ -4,11 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data ya Telemeta">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "      Telemeta <span>imewezeshwa</span>.">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemeta <span>imewezeshwa</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "       Telemeta <span>imelemazwa</span>.">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemeta <span>imelemazwa</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "      Chelewesha Kauli za SQL">
+<!ENTITY aboutTelemetry.slowSqlSection "  Chelewesha Kauli za SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Vikwamaji vya Kivinjari">
 

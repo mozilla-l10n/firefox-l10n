@@ -15,7 +15,7 @@
 
 
 <!-- Flyout when setting up manually -->
-
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Jina la Akaunti">
 
 
 <!ENTITY sync.flyout.manualsetup.connect.label           "Unganisha">

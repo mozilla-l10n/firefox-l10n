@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Hupakia">
 
-<!ENTITY showWhenDownloading.label     "Onyesha Dirisha ya kupakia wakati wa kupakia faili">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "Ifunge wakati kupakia kote kumemalizika">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "Hifadhi faili kwa">
 <!ENTITY saveTo.accesskey "f">
 <!ENTITY chooseFolderWin.label        "Vinjari…">

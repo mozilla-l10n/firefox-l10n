@@ -12,8 +12,6 @@ kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidi
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Kitambulishi Ripoti">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Imewasilishwa">
 
 

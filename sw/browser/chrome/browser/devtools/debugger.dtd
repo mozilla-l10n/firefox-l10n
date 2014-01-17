@@ -112,8 +112,10 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Ongeza sehemu ya kiungo yenye masharti">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+
+
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
@@ -134,7 +136,7 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
-
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 
 
 

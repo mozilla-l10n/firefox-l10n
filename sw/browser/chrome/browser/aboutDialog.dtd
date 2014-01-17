@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "ni ">
+<!ENTITY community.exp.middle       " ni ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "jamii ya ulimwengu">
 <!ENTITY community.exp.end          " kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.">
@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Visasisho vimelemazwa na msimamizi wa mfumo wako">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; inasasishwa na tukio lingine          ">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; inasasishwa na tukio lingine">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -89,5 +89,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Kwa sasa uko kwenye ">
+<!ENTITY channel.description.start  "Kwa sasa uko kwenye">
 <!ENTITY channel.description.end    " sasisha idhaa. ">

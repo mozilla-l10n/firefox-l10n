@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
 <!ENTITY  undoCloseTab.label                 "Fanyua Funga Kichupo">
 <!ENTITY  undoCloseTab.accesskey             "F">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Fanyua Funga tabo">
 <!ENTITY  closeTab.label                     "Funga Kichupo">
 <!ENTITY  closeTab.accesskey                 "F">
 
@@ -110,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Ruhusu">
 <!ENTITY fullscreenExitButton.label "Kataza">
 
-<!ENTITY fullscreenExitHint2.value "Bonyeza ESC wakati wowote ili kutoka           ">
+<!ENTITY fullscreenExitHint2.value "Bonyeza ESC wakati wowote ili kutoka.">
 <!ENTITY leaveDOMFullScreen.label "Toka kwenye Skrini Nzima">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -121,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "V">
 <!ENTITY bookmarkThisPageCmd.label "Alamisha Ukurasa Huu">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l          ">
+<!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Shiriki Ukurasa Huu">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "S">
@@ -242,11 +237,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Kieuaji cha Kivinjari">
-<!ENTITY chromeDebuggerMenu.accesskey   "K">
+<!ENTITY browserToolboxMenu.label     "Zana Sanduku la Kivinjari">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Funga Mwambaa zana ya Mwendelezi">
 <!ENTITY devToolbarMenu.label              "Zana ya Mwendelezi">
@@ -257,7 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Achia Zana">
 <!ENTITY devToolboxMenuItem.accesskey      "A">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Achia zana za mwendelezi">
@@ -412,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "i">
 <!ENTITY emailPageCmd.label           "Kiungo cha Barua pepe…">
 <!ENTITY emailPageCmd.accesskey       "B">
+<!ENTITY switchToMetroCmd.label       "Anzisha upya katika staili ya Windows 8 &brandShortName;">
+
 <!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
@@ -469,7 +465,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Nyamazishua">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate.label     "Kasi ya Kucheza          ">
+<!ENTITY mediaPlaybackRate.label     "Kasi ya Kucheza">
 <!ENTITY mediaPlaybackRate.accesskey "a">
 <!ENTITY mediaPlaybackRate050x.label "Mwendo wa Polepole (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "M">
@@ -641,9 +637,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Onyesha taarifa za eneo kazi">
 <!ENTITY social.toggleNotifications.accesskey "t">
 
+<!ENTITY social.activated.description "Huduma kutoka <label/> zimewezeshwa. Waweza badilisha mipangilio yako ya huduma katika <label class='text-link'>Meneja ya Kifaa-cha-nyongeza</label>.">
 <!ENTITY social.activated.undo.label "Pole, tendua hii!">
 <!ENTITY social.activated.undo.accesskey "t">
-<!ENTITY social.learnMore.label "Jifunze zaidi...">
+<!ENTITY social.learnMore.label "Jifunze zaidi…">
 <!ENTITY social.learnMore.accesskey "J">
 <!ENTITY social.closeNotificationItem.label "Sio Sasa">
 
@@ -652,7 +649,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "U">
-<!ENTITY social.markpageMenu.label "Hifathi Ukurasa Kwa...                ">
+<!ENTITY social.markpageMenu.label "Hifathi Ukurasa Kwa…          ">
 <!ENTITY social.marklinkMenu.accesskey "n">
 <!ENTITY social.marklinkMenu.label "Hifadhi Kiungo Kwa…">
 
@@ -669,11 +666,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pointerLock.notification.message "Bonyeza ESC wakati wowote ili uionyeshe tena.">
 
-
+<!ENTITY pluginNotification.showAll.label "Onyesha Yote">
+<!ENTITY pluginNotification.showAll.accesskey "O">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "Ruhusu Sasa">
-<!ENTITY pluginActivateAlways.label "Ruhusu na Ukumbuke                ">
+<!ENTITY pluginActivateAlways.label "Ruhusu na Ukumbuke">
 <!ENTITY pluginBlockNow.label "Zuia programu jalizi">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -684,8 +682,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Tab ilikwama">
-<!ENTITY tabCrashed.message "Hii inaaibisha. Tumejaribu kuonyesha ukurasa huu wa Wavuti, lakini hauitikii.                ">
-
+<!ENTITY tabCrashed.message "Hii inaaibisha. Tumejaribu kuonyesha ukurasa huu wa Wavuti, lakini hauitikii.               ">
+<!ENTITY tabCrashed.checkSendReport "Mwambie &JinaFupiLaMuuzaji;kuhusu ukwamaji huu ili aweze kutengeneza.">
 <!ENTITY tabCrashed.tryAgain "Jaribu Tena">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on

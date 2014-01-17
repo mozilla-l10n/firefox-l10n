@@ -43,7 +43,7 @@
 
 <!ENTITY connection.startSimulator "Anzisha Kiigaji">
 
-<!ENTITY connection.saveConnectionInfo "Hifadhi">
+
 <!ENTITY connection.saveConnectionInfoTooltip "Hifadhi kipangishaji na kituo.">
 <!ENTITY connection.connecting "Inaunganisha...">
 <!ENTITY connection.disconnecting "Inatenganua...">
@@ -71,7 +71,12 @@
 
 <!ENTITY projects.debugApp "Tatua   ">
 <!ENTITY projects.debugAppTooltip "Fungua Zana za Msanidi programu zilizounganishwa kwenye programu hii">
+
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
+
+
 
 
 

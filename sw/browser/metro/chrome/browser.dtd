@@ -9,9 +9,10 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Matokeo yako">
 
-<!ENTITY appbarErrorConsole.label   "Fungua konsoli ya hitilafu">
+<!ENTITY appbarErrorConsole.label      "Fungua konsoli ya hitilafu">
+<!ENTITY appbarJSShell.label           "Fungua ganda la HatiJava">
+<!ENTITY appbarFindInPage2.label       "Tafuta kwenye ukurasa">
 
-<!ENTITY appbarFindInPage2.label    "Tafuta kwenye ukurasa">
 
 
 
@@ -27,8 +28,10 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Saiti za Juu">
 
 
+<!ENTITY narrowRemoteTabsHeader.label    "Tab za mbali">
 
 <!ENTITY downloadShowPage.label    "Nenda kwa ukurasa">
 <!ENTITY downloadShow2.label       "Tafuta">
@@ -59,11 +62,12 @@
 <!ENTITY contextTextCopy.label             "Nakili">
 <!ENTITY contextTextPaste.label            "Bandika">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Bandika &amp;enda">
 <!ENTITY contextTextSelect.label           "Chagua">
 
 <!-- LINK CONTEXT MENU -->
 <!ENTITY contextCopyLinkHref.label         "Nakili Kiungo">
-
+<!ENTITY contextBookmarkLinkHref.label     "Alamisha kiungo">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
@@ -97,3 +101,22 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
+
+
+

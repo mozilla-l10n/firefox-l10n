@@ -10,7 +10,7 @@
 <!ENTITY syncKey.keepItSafe1.description  "Usipoteze ufunguo huu.">
 <!ENTITY syncKey.keepItSafe2.description  " Hatuhitaji kuweka nakala ya ufunguo wako (hiyo haingekuwa kuweka siri!) kwa hivyo ">
 <!ENTITY syncKey.keepItSafe3.description  "hatuwezi kukusaidia kuirejesha">
-<!ENTITY syncKey.keepItSafe4a.description "  kama imepotea. Utahitajika kutumia kibonye hiki wakati wowote unaunganisha kifaa kipya kwa &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description " kama imepotea. Utahitajika kutumia kibonye hiki wakati wowote unaunganisha kifaa kipya kwa &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Jijulishe zaidi kuhusu &syncBrand.fullName.label; na faragha yako kwa ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Masharti ya Huduma yanapatikana kwa ">

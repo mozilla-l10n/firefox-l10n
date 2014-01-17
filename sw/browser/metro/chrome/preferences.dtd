@@ -33,5 +33,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Ripoti za Mvurugo">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Jumuisha anwani ya ukurasa nilipokuwepo">
 <!ENTITY optionsHeader.telemetry.title                            "Telemeta">
 
