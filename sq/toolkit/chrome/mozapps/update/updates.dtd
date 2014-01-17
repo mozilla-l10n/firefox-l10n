@@ -64,6 +64,14 @@
 <!ENTITY  manualUpdate.space.desc         "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni hapësirë të mjaftueshme për instalimin e tij.">
 
 <!ENTITY  manualUpdateGetMsg.label        "Mund të merrni, kur të doni, versionin më të fundit të &brandShortName;-it nga:">
+
+<!ENTITY  unsupported.title               "Sistem i Pambuluar">
+<!ENTITY  unsupported.label               "&brandShortName;-i juaj është i vjetruar, por versioni më i ri nuk 
+                                           mbulohet nga sistemi juaj. Ju lutemi, përmirësoni sistemin tuaj, mandej riprovoni.
+                                           Këtë shënim nuk keni për ta parë sërish, por mundeni">
+<!ENTITY  unsupportedLink.label           "të mësoni më tepër.">
+
+
 <!ENTITY  downloadPage.title              "Po shkarkohet &brandShortName;">
 
 <!ENTITY  error.title                     "Përditësimi Dështoi">
