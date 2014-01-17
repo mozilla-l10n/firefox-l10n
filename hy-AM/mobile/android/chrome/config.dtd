@@ -2,6 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Գտնել կարգավորում">
-<!ENTITY clear.altText          "Մաքրել">
-<!ENTITY newpref.label2         "Ավելացնել նոր կարգավորում">
+
+<!ENTITY toolbar.searchPlaceholder     "Փնտրել">
+
+<!ENTITY newPref.namePlaceholder       "Անունը">
+
+<!ENTITY newPref.valueBoolean          "Բուլյան">
+<!ENTITY newPref.valueString           "Տեքստ">
+<!ENTITY newPref.valueInteger          "Ամբողջ">
+
+
+
+<!ENTITY newPref.toggleButton          "Հակառակը">
+<!ENTITY newPref.cancelButton          "Չեղարկել">
+
+

@@ -50,7 +50,7 @@
 <!ENTITY search "Փնտրել">
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
-<!ENTITY menu "Ընտրացանկ">
+
 <!ENTITY back "Նախորդ">
 <!ENTITY stop "Կանգնեցնել">
 <!ENTITY site_security "Կայքի անվտանգությունը">
@@ -177,11 +177,12 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title "&vendorShortName;-ի ծառայությունները">
 <!ENTITY datareporting_wifi_summary "Օգնեք բարելավել Բաց Վեբի գեոտեղադրության ծառայությունները՝ թույլատրելով &brandShortName;-ին հավաքելու և ուղարկելու անանուն տվյալներ">
-
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Անջատված է">
-<!ENTITY pref_update_autodownload_enabled "Միացված է">
+<!ENTITY pref_update_autodownload_never "Երբեք">
+<!ENTITY pref_update_autodownload_always "Միշտ">
 
 <!ENTITY quit "Փակել">
 
@@ -229,9 +230,11 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pin Site">
 <!ENTITY contextmenu_top_sites_unpin "Unpin Site">
 
+
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
 <!ENTITY pref_titlebar_mode_url "Ցուցադրել էջի հասցեն">
+
 
 <!ENTITY history_removed "Էջը ջնջվել է">
 
@@ -371,3 +374,6 @@ from Android">
 
 <!ENTITY exit_guest_session_title "&brandShortName;-ը կվերագործարկվի">
 <!ENTITY exit_guest_session_text "Այս աշխատաշրջանի դիտարկման պատմությունը կմաքրվի:">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "Պատրաստ է">
