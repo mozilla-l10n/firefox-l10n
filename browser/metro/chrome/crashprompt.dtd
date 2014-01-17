@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "ଆପଣ Mozilla ପାଖକୁ କ୍ରାସ ବିବରଣୀ ପଠାଇବାକୁ ଚାହୁଁଛନ୍ତି କି?">
+
+
+
+
+
+
+<!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
+<!ENTITY crashprompt.acceptbutton    "ବିବରଣୀ ପଠାନ୍ତୁ">
+<!ENTITY crashprompt.refusebutton    "ପଠାନ୍ତୁ ନାହିଁ">
+

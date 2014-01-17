@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "ଆପଣଙ୍କ ବ୍ରାଉଜରକୁ ଅଧିକ ସ୍ଥାୟୀ ଏବଂ ସୁରକ୍ଷିତ କରିବାରେ Mozilla କୁ ସହାୟତା କରିବା ପାଇଁ &brandShortName; ନଷ୍ଟ ବିବରଣୀ ଦାଖଲ କରିଥାଏ">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "ଦୂରମାପି">
 <!ENTITY optionsHeader.telemetry.label                            "ଆପଣଙ୍କ ବ୍ରାଉଜରକୁ ଉନ୍ନତ କରିବା ପାଇଁ &brandShortName; ବିଷୟରେ ବ୍ୟବହାର ପରିସଂଖ୍ୟାନକୁ Mozilla ସହିତ ସହଭାଗ କରିଥାଏ">
