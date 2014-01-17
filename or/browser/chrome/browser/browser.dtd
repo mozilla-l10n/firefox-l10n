@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  closeTab.label                     "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -242,11 +237,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "ବ୍ରାଉଜର ତ୍ରୁଟିନିବାରକ (e)">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
@@ -257,8 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolbarOtherToolsButton.label  "ଅଧିକ ସାଧନଗୁଡ଼ିକ">
@@ -412,6 +404,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…">
 <!ENTITY emailPageCmd.accesskey       "E">
+
+
 <!ENTITY savePageCmd.label            "ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->

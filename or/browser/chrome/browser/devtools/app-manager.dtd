@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "ତୃଟିମୁକ୍ତ କରନ୍ତୁ">
 <!ENTITY device.debugAppTooltip "ଏହି ପ୍ରୟୋଗ ସହିତ ସଂଯୁକ୍ତ ଉପକରଣରେ ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ।">
 <!ENTITY device.name "ନାମ">
-<!ENTITY device.app "ପ୍ରୟୋଗ">
+
 <!ENTITY device.privileged "ଅଧିକାର">
 <!ENTITY device.certified "ପ୍ରମାଣିତ">
 <!ENTITY device.allow "ଅନୁମତି ଦିଅନ୍ତୁ">
@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "ଏହି ଉପକରଣ ସହିତ ସଂଯୁକ୍ତ ହୋଷ୍ଟ ଏବଂ ପୋର୍ଟକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ। (ପୂର୍ବନିର୍ଦ୍ଧାରିତ ହେଉଛିlocalhost:6000)">
 <!ENTITY connection.startSimulator "ଅନୁକାରୀକୁ ଆରମ୍ଭ କରନ୍ତୁ">
 <!ENTITY connection.startSimulatorTooltip "ଅନୁକାରୀର ଏକ ସ୍ଥିତିକୁ ଆରମ୍ଭ କରନ୍ତୁ ଏବଂ ତାହାକୁ ସଂଯୋଗ କରନ୍ତୁ।">
-<!ENTITY connection.saveConnectionInfo "ସଂରକ୍ଷଣ କରନ୍ତୁ">
+
 <!ENTITY connection.saveConnectionInfoTooltip "ହୋଷ୍ଟ ଏବଂ ପୋର୍ଟକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ।">
 <!ENTITY connection.connecting "ସଂଯୋଗ କରୁଅଛି…">
 <!ENTITY connection.disconnecting "ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରୁଅଛି…">
@@ -72,12 +72,17 @@
 <!ENTITY projects.updateAppTooltip "ବୈଧିକରଣ ଯାଞ୍ଚକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ ଏବଂ ସଂଯୁକ୍ତ ଉପକରଣରେ ପ୍ରୟୋଗକୁ ଅଦ୍ୟତନ କରନ୍ତୁ">
 <!ENTITY projects.debugApp "ତୃଟିମୁକ୍ତ କରନ୍ତୁ">
 <!ENTITY projects.debugAppTooltip "ଏହି ପ୍ରୟୋଗ ସହିତ ସଂଯୁକ୍ତ ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
+
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "କୌଣସି ପ୍ରକଳ୍ପ ନାହିଁ। ତଳେ ନୂତନ ଏକ ପ୍ରୟୋଗ ପ୍ୟାକେଜ ଯୋଗ କରନ୍ତୁ (ସ୍ଥାନୀୟ ଡିରେକ୍ଟୋରୀ) ଅଥବା ଏକ ହୋଷ୍ଟ ହୋଇଥିବା ପ୍ରୟୋଗ(ଏକ ସୂଚୀପତ୍ର ଫାଇଲ ପ୍ରତି ସଂଯୋଗିକୀ)।">
 <!ENTITY projects.manifestEditor "ସୂଚୀପତ୍ର ସମ୍ପାଦକ">
 <!ENTITY projects.manifestEditorTooltip "ତଳେ ଥିବା ପଟ୍ଟିକରେ ଆପଣଙ୍କ ପ୍ରୟୋଗର ସୂଚୀପତ୍ରକୁ ସମ୍ପାଦନ କରନ୍ତୁ। ସେହି ଅଦ୍ୟତନ ବଟନ ଆପଣଙ୍କର ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରିବ ଏବଂ ସେହି ପ୍ରୟୋଗକୁ ଅଦ୍ୟତନ କରିବ।">
 <!ENTITY projects.manifestViewer "ସୂଚୀପତ୍ର ପ୍ରଦର୍ଶକ">
 <!ENTITY projects.manifestViewerTooltip "ତଳେ ଥିବା ପଟ୍ଟିକରେ ଆପଣଙ୍କର ପ୍ରୟୋଗର ସୂଚୀପତ୍ରକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ।">
+<!ENTITY projects.valid "ବୈଧ">
+<!ENTITY projects.error "ତ୍ରୁଟି">
+
 
 <!ENTITY help.title "ପ୍ରୟୋଗ ପରିଚାଳକ">
 <!ENTITY help.close "ବନ୍ଦକରନ୍ତୁ">

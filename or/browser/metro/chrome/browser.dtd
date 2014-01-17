@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "ଆପଣଙ୍କର ଫଳାଫଳ">
 
-<!ENTITY appbarErrorConsole.label   "ତୃଟି କୋନସୋଲ ଖୋଲନ୍ତୁ">
-<!ENTITY appbarJSShell.label        "JavaScript ସେଲ ଖୋଲନ୍ତୁ">
-<!ENTITY appbarFindInPage2.label    "ଏହି ପୃଷ୍ଠାରେ ଖୋଜନ୍ତୁ">
-<!ENTITY appbarViewOnDesktop2.label "ଡେସ୍କଟପରେ ଦେଖନ୍ତୁ">
-<!ENTITY appbarMSMetaData2.label    "ଏହି ସାଇଟ ପାଇଁ ପ୍ରୟୋଗ ଆଣନ୍ତୁ">
+<!ENTITY appbarErrorConsole.label      "ତୃଟି କୋନସୋଲ ଖୋଲନ୍ତୁ">
+<!ENTITY appbarJSShell.label           "JavaScript ସେଲ ଖୋଲନ୍ତୁ">
+<!ENTITY appbarFindInPage2.label       "ଏହି ପୃଷ୍ଠାରେ ଖୋଜନ୍ତୁ">
+
+<!ENTITY appbarMSMetaData2.label       "ଏହି ସାଇଟ ପାଇଁ ପ୍ରୟୋଗ ଆଣନ୍ତୁ">
+
 
 <!ENTITY topSitesHeader.label        "ଭଲ ସାଇଟଗୁଡ଼ିକ">
 <!ENTITY bookmarksHeader.label       "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
@@ -108,3 +109,22 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
+
+
+
