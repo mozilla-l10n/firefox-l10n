@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ఈమెయిల్ లంకె…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "విండోస్ 8 శైలి &brandShortName;‌లో పునఃప్రారంభించు">
+
 <!ENTITY savePageCmd.label            "పేజీని యిలా భద్రపరచు...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
