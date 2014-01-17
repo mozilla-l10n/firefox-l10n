@@ -143,8 +143,18 @@
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
-<!ENTITY  event.toolbar.spellcheck.label                  "Ceartachadh an litreachaidh">
+<!ENTITY  event.toolbar.spellcheck.label                  "Dearbhaich an litreachadh">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Sàbhail is dùin e">
+<!ENTITY  event.toolbar.delete.tooltip                    "Sguab às">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Thoir cuireadh do dhaoine">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Dearbhaich an litreachadh">
+<!ENTITY  event.toolbar.attachments.tooltip               "Cuir ceanglachan ris">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Atharraich a' phrìobhaideachd">
+<!ENTITY  event.toolbar.priority.tooltip                  "Atharraich am prìomhachas">
+<!ENTITY  event.toolbar.status.tooltip                    "Atharraich an staid">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Atharraich na h-amannan saora/tranga">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Gnàthaichte…" >
 
 <!ENTITY event.reminder.multiple.label                    "Cuir 'nam chuimhne iomadh turas…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "An t-àm mar:">
+<!ENTITY event.statusbarpanel.privacy.label               "Prìobhaideachd:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Deasaich an tricead">
