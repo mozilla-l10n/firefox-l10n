@@ -72,7 +72,7 @@
 <!ENTITY projects.updateAppTooltip "వాలిడేషన్ పరిశీలనలు జరిపి మరియు అనువర్తనంను అనుసంధానిత పరికరంకు నవీకరించు">
 <!ENTITY projects.debugApp "డీబగ్">
 <!ENTITY projects.debugAppTooltip "ఈ అనువర్తనంకు అనుసంధానమైన అభివృద్దికారి సాధనాలు తెరువుము">
-
+<!ENTITY projects.saveManifest "భద్రపరుచు">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "ఏ ప్రోజెక్టులు లేవు. కిందన కొత్త ప్యాకేజ్డ్ అనువర్తనం (స్థానిక సంచంయం) జతచేయి లేదా హోస్టెట్ అనువర్తనం జతచేయి (మానిఫెస్ట్ ఫైలు లింకు).">

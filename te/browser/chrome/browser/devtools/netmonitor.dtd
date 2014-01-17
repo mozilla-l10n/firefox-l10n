@@ -16,6 +16,8 @@
 <!ENTITY netmonitorUI.emptyNotice2        "నెట్వర్కు క్రియాశీలత గురించి విశదీకృత సమాచారం చూడుటకు అభ్యర్ధన చేయండి పేజీ తిరిగిలోడు చేయండి.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
