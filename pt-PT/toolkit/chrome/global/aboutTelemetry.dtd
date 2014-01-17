@@ -20,6 +20,10 @@
   O navegador bloqueia
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Tópico bloqueia
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
