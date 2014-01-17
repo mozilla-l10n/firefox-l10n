@@ -9,7 +9,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "বুকমার্কসমুহ">
-
+<!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পড়ার তালিকা">
 
 <!ENTITY  switch_to_tab " ট্যাবে সুইচ করুন   ">
@@ -50,7 +50,7 @@
 <!ENTITY search "অনুসন্ধান">
 <!ENTITY reload "পুনরায় লোড">
 <!ENTITY forward "পরবর্তী">
-<!ENTITY menu "মেনু">
+
 <!ENTITY back "পূর্ববর্তী">
 <!ENTITY stop "থামুন">
 <!ENTITY site_security "সাইটের নিরাপত্তা">
@@ -166,11 +166,12 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 
 
-
-<!ENTITY pref_update_autodownload "স্বয়ংক্রিয় হালনাগাদ">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload_wifi "শুধু ওয়াইফাই নির্ভর">
-<!ENTITY pref_update_autodownload_disabled "নিষ্ক্রিয় হয়েছে">
-<!ENTITY pref_update_autodownload_enabled "সক্রিয়">
+<!ENTITY pref_update_autodownload_never "কখনো নয়">
+
 
 <!ENTITY quit "প্রস্থান">
 
@@ -221,6 +222,8 @@ size. -->
 
 
 
+
+
 <!ENTITY history_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা">
@@ -258,8 +261,8 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
 
-<!ENTITY home_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
 
+<!ENTITY home_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
 
 
 
@@ -270,7 +273,6 @@ size. -->
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-
 
 
 <!ENTITY filepicker_title "ফাইল বেছে নিন">
@@ -341,3 +343,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "সম্পন্ন">

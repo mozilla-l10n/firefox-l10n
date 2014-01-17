@@ -2,6 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "অনুসন্ধানের সেটিং">
-<!ENTITY clear.altText          "অপসারণ করা">
-<!ENTITY newpref.label2         "নতুন বৈশিষ্ট্য যোগ করুন">
+
+<!ENTITY toolbar.searchPlaceholder     "অনুসন্ধান">
+
+<!ENTITY newPref.namePlaceholder       "নাম">
+
+<!ENTITY newPref.valueBoolean          "বুলিয়ান">
+<!ENTITY newPref.valueString           "স্ট্রিং">
+<!ENTITY newPref.valueInteger          "পূর্ণসংখ্যা">
+
+
+
+<!ENTITY newPref.toggleButton          "টোগোল">
+<!ENTITY newPref.cancelButton          "বাতিল">
+
+
