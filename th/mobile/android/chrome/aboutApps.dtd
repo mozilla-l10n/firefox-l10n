@@ -4,6 +4,7 @@
 
 <!ENTITY aboutApps.title2                          "แอป">
 <!ENTITY aboutApps.header                          "แอปของคุณ">
+
 <!ENTITY aboutApps.browseMarketplace "เปิดดู Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "ถอนการติดตั้ง">
 <!ENTITY aboutApps.addToHomescreen "เพิ่มลงหน้าจอแรก">
