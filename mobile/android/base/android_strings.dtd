@@ -9,7 +9,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Penandabuku">
-
+<!ENTITY  history_title "Sejarah">
 <!ENTITY  reading_list_title "Senarai Bacaan">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
@@ -28,6 +28,7 @@
 <!ENTITY  crash_restart_label "Mula semula &brandShortName;">
 <!ENTITY  exit_label "Keluar">
 
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
 <!ENTITY  launcher_shortcuts_empty "Tiada aplikasi web ditemui">
 
 <!ENTITY choose_file "Pilih Fail">
@@ -64,14 +65,14 @@
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
 <!ENTITY pref_category_advanced "Lanjutan">
-
+<!ENTITY pref_category_customize "Suaikan">
 <!ENTITY pref_category_search2 "Cari tetapan">
 <!ENTITY pref_category_display "Paparan">
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Pilihan data">
-
-
+<!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
+<!ENTITY pref_category_add_search_providers "Tambah lagi pembekal carian">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -80,6 +81,8 @@
 <!ENTITY pref_developer_remotedebugging_docs "Ketahui lebih lanjut">
 <!ENTITY pref_remember_signons "Ingat Kata Laluan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "Suaikan">
 <!ENTITY pref_header_display "Paparan">
 <!ENTITY pref_header_privacy_short "Privasi">
 <!ENTITY pref_header_help "Bantuan">
@@ -106,7 +109,7 @@
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
 
-
+<!ENTITY pref_restore "Tab-tab">
 
 
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
@@ -140,12 +143,12 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "Mengenai &brandShortName;">
-
+<!ENTITY pref_vendor_faqs "Soalan Lazim">
 <!ENTITY pref_vendor_feedback "Beri maklum balas">
 
 <!ENTITY pref_search_default "Lalai">
 
-
+<!ENTITY pref_search_last_toast "Anda tidak boleh mengeluarkan atau melumpuhkan enjin carian terakhir anda.">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
@@ -159,6 +162,8 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Laporan Kesihatan">
 <!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; tentang kesihatan pelayar anda dan membantu anda memahami prestasi pelayar anda">
 <!ENTITY datareporting_abouthr_title "Lihat Laporan Kesihatan saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
@@ -169,11 +174,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
 <!ENTITY datareporting_wifi_title "&vendorShortName; servis lokasi">
 
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Kemaskini automatik">
+<!ENTITY pref_update_autodownload2 "Muat turun kemaskini secara automatik">
 <!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Dilumpuhkan">
-<!ENTITY pref_update_autodownload_enabled "Hidupkan">
+
+<!ENTITY pref_update_autodownload_always "Sentiasa">
 
 <!ENTITY quit "Keluar">
 
@@ -192,10 +200,10 @@ size. -->
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Persendirian Baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
-
+<!ENTITY tabs_normal "Tab-tab">
 <!ENTITY tabs_private "Persendirian">
 
-
+<!ENTITY set_image_fail "Tidak dapat menetapkan imej">
 <!ENTITY set_image_chooser_title "Tetapkan Imej Sebagai">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -207,7 +215,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
-
+<!ENTITY contextmenu_open_in_reader "Buka di Reader">
 
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
 <!ENTITY contextmenu_share "Kongsi">
@@ -217,17 +225,19 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Sunting">
 <!ENTITY contextmenu_subscribe "Langgan ke Laman">
 <!ENTITY contextmenu_site_settings "Sunting Tetapan Laman">
-<!ENTITY contextmenu_top_bookmarks_edit "Sunting">
-<!ENTITY contextmenu_top_bookmarks_pin "Pin Laman">
-<!ENTITY contextmenu_top_bookmarks_unpin "Nyahpin Laman">
+<!ENTITY contextmenu_top_sites_edit "Sunting">
+<!ENTITY contextmenu_top_sites_pin "Pin Laman">
+<!ENTITY contextmenu_top_sites_unpin "Nyahpin Laman">
+<!ENTITY contextmenu_add_search_engine "Tambah Enjin Carian">
 
 <!ENTITY pref_titlebar_mode "Tajuk bar">
 <!ENTITY pref_titlebar_mode_title "Tunjukkan tajuk halaman">
 <!ENTITY pref_titlebar_mode_url "Tunjukkan alamat halaman">
 
+<!ENTITY pref_dynamic_toolbar "Sorok bar tajuk semasa penatalan">
+
 <!ENTITY history_removed "Halaman dikeluarkan">
 
-<!ENTITY bookmark_add "Tambah tandabuku">
 <!ENTITY bookmark_edit_title "Sunting PenandaBuku">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
@@ -265,11 +275,11 @@ size. -->
 
 <!ENTITY home_history_title "Sejarah">
 
+
 <!ENTITY home_last_tabs_open "Buka semua tab dari masa lalu">
 
-
+<!ENTITY home_most_recent_title "Paling terbaru">
 <!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
-<!ENTITY home_most_visited_title "Kerap dilawati">
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -278,8 +288,7 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 
-<!ENTITY home_most_visited_empty "Laman web yang kerap anda lawati akan dipaparkan di sini.">
-<!ENTITY pin_bookmark_dialog_hint "Masukkan kata kunci carian">
+<!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
 <!ENTITY filepicker_title "Pilih Fail">
 <!ENTITY filepicker_audio_title "Pilih atau rekod bunyi">
@@ -318,7 +327,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 dari Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Mengimport penandabuku 
 dari Android">
-
+<!ENTITY bookmarkhistory_import_history "Mengimport sejarah
+dari Android">
 <!ENTITY bookmarkhistory_import_wait "Sila tunggu...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
@@ -348,9 +358,16 @@ dari Android">
 <!ENTITY updater_apply_select2 "Sentuh untuk kemaskini">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "Sesi Tetamu Baru">
+
 <!ENTITY guest_session_dialog_continue "Sambung">
-
-
-
+<!ENTITY guest_session_dialog_cancel "Batal">
+<!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
+<!ENTITY new_guest_session_text "Orang yang menggunakannya tidak akan dapat melihat sebarang data pelayaran peribadi anda (seperti kata laluan yang disimpan, sejarah atau penanda buku). \n\nApabila tetamu anda sudah selesai, data pelayaran mereka akan dihapuskan dan sesi anda akan dikembalikan.">
 
 <!ENTITY exit_guest_session_text "Data pelayaran dari sesi ini anda dihapuskan.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menu">
+<!ENTITY actionbar_done "Selesai">
