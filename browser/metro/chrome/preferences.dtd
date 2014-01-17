@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "বিপর্যয়ের রিপোর্ট">
 <!ENTITY optionsHeader.reporting.crashes.label                   "আপনার ব্রাউজারকে আরো স্থিতিশীল এবং নিরাপদ করে তুলতে সাহাজ্য করার জন্য &brandShortName; ক্র্যাশ প্রতিবেদনগুলির কাছে জমা দেয়">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "পরিদর্শিত পৃষ্ঠার ঠিকানা অন্তর্ভুক্ত করা হবে">
 <!ENTITY optionsHeader.telemetry.title                            "টেলিমেট্রি">
 <!ENTITY optionsHeader.telemetry.label                            "শেয়ার করুন &brandShortName; ব্যবহারের পরিসংখ্যান; মজিলা সঙ্গে আপনার ব্রাউজার আরও ভাল করতে আমাদেরকে সাহায্য কররন">

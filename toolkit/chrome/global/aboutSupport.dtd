@@ -13,8 +13,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID রিপোর্ট দায়ের করুন">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "প্রেরিত">
 <!ENTITY aboutSupport.crashes.allReports "বিপর্যয়ের রিপোর্ট">
 <!ENTITY aboutSupport.crashes.noConfig "এই অ্যাপ্লিকেশনটি ক্র্যাশ প্রতিবেদনগুলি প্রদর্শন না করার জন্য কনফিগার করা হয়েছে.">

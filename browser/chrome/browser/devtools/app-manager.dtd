@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "সংরক্ষণ করুন">
+
 
 
 
@@ -71,6 +71,11 @@
 
 
 
+
+
+
+
+<!ENTITY projects.valid "মেয়াদ">
 
 
 
