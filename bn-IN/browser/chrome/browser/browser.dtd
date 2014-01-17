@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -242,11 +237,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "ব্রাউজার ডিবাগার(e)">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
@@ -257,8 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "ডেভেলপার টুলসমূহ ট্যোগল করুন">
 <!ENTITY devToolbarOtherToolsButton.label  "অতিরিক্ত সরঞ্জাম">
@@ -412,6 +404,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
 <!ENTITY emailPageCmd.accesskey       "E">
+
+
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
