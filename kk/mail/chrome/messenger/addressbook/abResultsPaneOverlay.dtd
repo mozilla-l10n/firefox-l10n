@@ -20,14 +20,14 @@
 <!ENTITY JobTitle.accesskey                    "А">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY PagerNumber.label                     "Пейджер">
+<!ENTITY PagerNumber.accesskey                 "П">
+<!ENTITY FaxNumber.label                       "Факс">
+<!ENTITY FaxNumber.accesskey                   "Ф">
+<!ENTITY HomePhone.label                       "Үй телефоны">
+<!ENTITY HomePhone.accesskey                   "Ү">
+<!ENTITY WorkPhone.label                       "Жұмыс телефоны">
+<!ENTITY WorkPhone.accesskey                   "Ж">
 
 
 <!ENTITY sortAscending.label                   "Өсу ретімен">

@@ -30,8 +30,8 @@
 
 <!ENTITY insertHLineCmd.label "Горизонталды сызық">
 <!ENTITY insertHLineCmd.accesskey "о">
-
-
+<!ENTITY insertTableCmd.label "Кесте…">
+<!ENTITY insertTableCmd.accesskey "К">
 
 
 
@@ -61,10 +61,11 @@
 <!ENTITY decreaseFontSize.accesskey "к">
 
 <!-- < is above this key on many keyboards -->
-
-
+<!ENTITY increaseFontSize.label "Үлкенірек">
+<!ENTITY increaseFontSize.accesskey "Ү">
 
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Өлшемі">
 <!ENTITY fontSizeMenu.accesskey "ш">
