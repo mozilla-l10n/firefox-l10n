@@ -680,6 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.label "Ponuka a paneli s nástrojmi">
 <!ENTITY customizeMode.menuAndToolbars.header "Ďalšie nástroje, ktoré si môžete pridať na panel nástrojov alebo do ponuky">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
+<!ENTITY customizeMode.toolbars "Zobraziť/skryť panely s nástrojmi">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">
