@@ -128,8 +128,8 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "நிபந்தனையுள்ள ப்ரேக்பாயின்ட்டைச் சேர்">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.variables      "மாறிகள்">
 <!ENTITY debuggerUI.tabs.events         "நிகழ்வுகள்">
