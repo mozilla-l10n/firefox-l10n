@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "हमें बताएँ आपको क्या लगता है &brandShortName; के बारे में एंड्रॉयड के लिए इतनी दूर है.">
 <!ENTITY intro.happyLink           "मैं इसे प्यार करता हूँ">
 <!ENTITY intro.sadLink             "मैं कुछ समस्याओं में फस गया">
+<!ENTITY intro.maybeLater          "संभवतः बाद में">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "यदि आपको मदद की जरूरत है या &brandShortName; साथ एक समस्या है , कृपया यहाँ जाएँ ">
+<!ENTITY support.pre2              "आप भी देख सकते हैं">
 <!ENTITY support.link              "&brandShortName; समर्थन">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " अधिक जानकारी के लिए.">
 
 <!ENTITY happy.header              "यह बहुत अच्छी बात है सुनने के लिए!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "इसमें एक मिनट से भी कम समय लगता है और बहुत अच्छा लगता है.">
 
 <!ENTITY happy.ratingLink          "हाँ, Google Play पर जाओ">
-<!ENTITY happy.maybeLater          "बाद में">
+<!ENTITY happy.maybeLater2         "संभवतः बाद में">
 <!ENTITY happy.noThanks            "नहीं धन्यवाद">
 
 <!ENTITY sad.message               "हमें खेद है कि आपको &brandShortName; के साथ कुछ समस्या थी. कृपया हमें बताओ कि क्या ऐसा हुआ है कि हम इसे ठीक कर सकते हैं.">

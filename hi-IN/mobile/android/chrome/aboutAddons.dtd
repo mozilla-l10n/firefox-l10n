@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "सहयुक्ति">
 <!ENTITY aboutAddons.header2                    "Your Add-ons">
 <!ENTITY aboutAddons.options                    "विकल्प">
+<!ENTITY aboutAddons.browseAll                  "सभी फ़ायरफ़ॉक्स सहयुक्तियाँ ब्राउज़ करें">
 
 <!ENTITY addonAction.enable                     "सक्रिय करें">
 <!ENTITY addonAction.disable                    "निष्क्रिय करें">
 <!ENTITY addonAction.uninstall                  "Uninstall">
 <!ENTITY addonAction.undo                       "पहले जैसा">
-

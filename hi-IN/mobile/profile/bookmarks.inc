@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title मोबाइल
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser फ़ायरफ़ॉक्स: आपके ब्राउज़र के बारे में
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons फ़ायरफ़ॉक्स : सहयुक्तियाँ मनपसंद बनाएँ
 
 
 
@@ -61,19 +61,7 @@
 
 
 
-#define bookmarks_support Firefox: Support
-
-
-
-# LOCALIZATION NOTE (bookmarks_aboutHome):
-
-
-
-# link title for about:home
-
-
-
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_support फ़ायरफ़ॉक्स: समर्थन
 
 
 
