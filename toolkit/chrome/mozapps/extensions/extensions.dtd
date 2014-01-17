@@ -77,6 +77,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Hiqja Temën">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Pyet për Aktivizim">
+<!ENTITY cmd.askToActivate.tooltip            "Pyet çdo herë për përdorimin e kësaj shtese">
+<!ENTITY cmd.alwaysActivate.label             "Aktivizoje Përherë">
+<!ENTITY cmd.alwaysActivate.tooltip           "Përdore përherë këtë shtesë">
+<!ENTITY cmd.neverActivate.label              "Mos e Aktivizo Kurrë">
+<!ENTITY cmd.neverActivate.tooltip            "Mos e përdor kurrë këtë shtesë">
+<!ENTITY cmd.stateMenu.tooltip                "Ndryshoje kur xhiron kjo shtesë">
 <!ENTITY cmd.installAddon.label               "Instaloje">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Hiqe">

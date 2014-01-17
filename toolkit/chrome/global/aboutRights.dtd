@@ -54,7 +54,8 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName;-i përdor shërbime të dhënash me bazë web (&quot;Shërbimet&quot;) që të bëjë të mundur funksionimin e disa veçorive që ju ofrohen për përdorim përmes këtij versioni dyor të &brandShortName;-it, sipas kushteve të përshkruara më poshtë. Nëse nuk dëshironi të përdorni një ose më tepër prej Shërbimeve, ose nëse kushtet më poshtë janë të papranueshme për ju, mund ta çaktivizoni veçorinë ose Shërbimin(t). Udhëzimet se si të çaktivizohet një veçori ose Shërbim i caktuar mund të gjenden ">
 <!ENTITY rights2.webservices-b "këtu">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Të tjera veçori dhe Shërbime mund të çaktivizohen te parapëlqimet e zbatimit.">
+
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
