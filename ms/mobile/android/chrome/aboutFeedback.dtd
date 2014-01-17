@@ -6,14 +6,16 @@
      your language and/or locale. More detailed notes below. -->
 
 
-
-
-
+<!ENTITY intro.happyLink           "Saya sukakannya">
+<!ENTITY intro.sadLink             "Saya menghadapai beberapa masalah">
+<!ENTITY intro.maybeLater          "Mungkin kemudian">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.link              "&brandShortName; Sokongan">
 
+<!ENTITY support.pre2              "Anda juga boleh melawat ">
+<!ENTITY support.link              "&brandShortName; Sokongan">
+<!ENTITY support.post2             " untuk maklumat lanjut.">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -21,8 +23,8 @@
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
 <!ENTITY happy.ratingLink          "Ya, pergi ke Google Play">
-
-
+<!ENTITY happy.maybeLater2         "Mungkin kemudian">
+<!ENTITY happy.noThanks            "Tidak terima kasih">
 
 <!ENTITY sad.message               "Kami meminta maaf atas masalah yang dihadapi anda dengan &brandShortName;. Sila beritahu kami apa yang terjadi supaya kami boleh membaikinya.">
 <!ENTITY sad.placeholder           "Masukkan maklum balas anda di sini">
@@ -37,4 +39,5 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
+<!ENTITY feedback.privacy          "Untuk privasi anda, sila jangan masukkan sebarang maklumat peribadi yang boleh dikenal pasti dalam maklum balas anda.">
 <!ENTITY feedback.send             "Hantar Maklum Balas">

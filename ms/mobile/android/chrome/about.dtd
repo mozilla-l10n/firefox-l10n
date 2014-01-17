@@ -1,20 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "Mengenai &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; sedang dieksperimen dan ia masih tidak stabil.">
 
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " untuk membantu menjadikan &brandShortName; lebih baik.">
+<!ENTITY aboutPage.checkForUpdates.link         "Semak untuk Kemas kini »">
 
-
-
+<!ENTITY aboutPage.checkForUpdates.none         "Tiada kemaskini didapati">
 
 <!ENTITY aboutPage.checkForUpdates.downloading  "Memuat turun kemas kini…">
-
-
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemaskini">
+<!ENTITY aboutPage.faq.label                    "Soalan lazim">
 <!ENTITY aboutPage.support.label                "Sokongan">
 <!ENTITY aboutPage.privacyPolicy.label          "Dasar Privasi">
-
+<!ENTITY aboutPage.rights.label                 "Ketahui Hak Anda">
 
 <!ENTITY aboutPage.credits.label                "Kredit">
 <!ENTITY aboutPage.license.label                "Maklumat Perlesenan">
