@@ -145,6 +145,16 @@
 <!ENTITY  event.toolbar.attendees.label                   "Gwahodd Mynychwyr">
 <!ENTITY  event.toolbar.spellcheck.label                  "Gwirio Sillafu">
 <!ENTITY  event.toolbar.privacy.label                     "Preifatrwydd">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Cadw a Chau">
+<!ENTITY  event.toolbar.delete.tooltip                    "Dileu">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Gwahodd Mynychwyr">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Gwirio Sillafu">
+<!ENTITY  event.toolbar.attachments.tooltip               "Ychwanegauu Atodiad">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Newid Preifatrwydd">
+<!ENTITY  event.toolbar.priority.tooltip                  "Newid Blaenoriaeth">
+<!ENTITY  event.toolbar.status.tooltip                    "Newid Statws">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Newid amser Rhydd/Prysur">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Cyfaddas…" >
 
 <!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Amser:">
+<!ENTITY event.statusbarpanel.privacy.label               "Newid amser Rhydd/Prysur">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Golygu'r ailadroddus">
