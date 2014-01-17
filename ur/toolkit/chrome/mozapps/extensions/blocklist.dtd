@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY blocklist.title             "آڈ آن مسلہ کر سکٹے ھے">
 
 
+<!ENTITY blocklist.softblocked       "آپ کی حفاظت کے ليے تجویز کيا جاتا ھے کی آڈ آن کو نا اہل بنانے کے ساتھ لازمی دوباره شروع کریں ">
 
 
-
+<!ENTITY blocklist.moreinfo          "مزید معلومات">
 
 <!ENTITY blocklist.accept.label      "&brandShortName; شروع کریں">
 <!ENTITY blocklist.accept.accesskey  "ش">
 
-
+<!ENTITY blocklist.blocked.label     "بلاک کیا گیا">
+<!ENTITY blocklist.checkbox.label    "نااہل">

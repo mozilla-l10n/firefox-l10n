@@ -7,11 +7,12 @@
 
 <!-- A reserved for Arabic -->
 
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.off.label     "(آف کریں)">
+<!ENTITY charsetMenuAutodet.off.accesskey "آ">
+<!ENTITY charsetMenuAutodet.ja.label      "جاپانی">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "ج">
+<!ENTITY charsetMenuAutodet.ru.label      "روسی">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "ر">
 
 
 
