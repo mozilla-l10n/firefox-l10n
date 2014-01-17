@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cerdyn Personol (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY remindLater.label "Atgoffa Fi yn Ddiweddarach">
+<!ENTITY remindLater.accesskey "D">
 <!ENTITY closeCmd.label "Cau">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "u">

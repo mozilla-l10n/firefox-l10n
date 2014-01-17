@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Anfon Ymlaen fel Mewnlin">
 <!ENTITY buttonMenuForwardAsAttachment.label "Anfon Ymlaen fel Atodiad">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Dangos cynnwys pell o fewn y neges hon">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
+<!ENTITY remoteContentOptionAllowForAddress.label "Dangos cynnwys pell gan yr anfonwr hwn">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "g">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Anwybyddu rhybudd am y neges hon">
+<!ENTITY phishingOptionIgnore.accesskey "A">
+<!ENTITY phishingOptionDisableDetection.label "Anablu canfod sbam ar gyfer pob neges">
+<!ENTITY phishingOptionDisableDetection.accesskey "n">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Neges Newydd">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "T">
 <!ENTITY contextUnmute.label "Dad-dewi">
 <!ENTITY contextUnmute.accesskey "D">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "Mae &brandShortName; yn credu mai sbam yw'r neges hon.">
-<!ENTITY junkBarButton1.label "Nid Sbam">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "I ddiogelu eich preifatrwydd, mae &brandShortName; wedi rhwystro delweddau pell yn y neges.">
-<!ENTITY loadRemoteContentButton3.label "Dangos Bynnwys Pell">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Efallai mai ffugiad yw'r neges hon.">
-<!ENTITY removePhishingBarButton1.label "Anwybyddu Rhybudd">
-<!ENTITY disablePhishingWarning1.label "Anablu canfod sbam ar gyfer pob neges">
-<!ENTITY reportPhishingError1.label "Nid yw'r neges yma'n ymddangos fel sbam.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Anwybyddu">
-<!ENTITY mdnBarIgnoreButton2.accesskey "A">
-<!ENTITY mdnBarSendButton2.label "Anfon Derbynneb Dychwelyd">
-<!ENTITY mdnBarSendButton2.accesskey "D">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

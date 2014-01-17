@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Wrth ateb i">
 <!ENTITY originalWebsite4.label "Gwefan">
 
-<!ENTITY editMessageDescription.label "Neges ddrafft yw hon">
-<!ENTITY editMessageButton.label "Golygu…">
 <!ENTITY hdrArchiveButton1.label "Archif">
 <!ENTITY hdrArchiveButton1.tooltip "Archifo'r neges">
 <!ENTITY hdrSmartReplyButton1.label "Ateb Clyfar">
