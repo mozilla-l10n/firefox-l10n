@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "Nisje">
 
 <!ENTITY startupPage.label         "Kur niset &brandShortName;-i:">
-<!ENTITY startupPage.accesskey     "n">
+<!ENTITY startupPage.accesskey     "i">
 <!ENTITY startupHomePage.label     "Shfaq kreun tim">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe të zbrazët">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
