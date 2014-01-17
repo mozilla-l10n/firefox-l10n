@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
 <!ENTITY subscriptionDesc.label      "Հիշեք. Նորությունների շղթայի թղթապանակի ջնջումը կամ փոփոխումը չի ազդի նախորդ գրառումների վրա։">
 
@@ -25,13 +25,13 @@
 <!ENTITY button.addFeed.label        "Ավելացնել">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.editFeed.label       "Թարմացնել">
-<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Հեռացնել">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Ներմուծել">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Արտածել">
-<!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.accesskey "X">
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">

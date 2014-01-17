@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Փնտրել նամակները՝">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Փնտրել ենթաթղթապանակներ">
@@ -14,7 +14,7 @@
 <!ENTITY openButton.label            "Բացել">
 <!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "Ջնջել">
-<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY deleteButton.accesskey      "Ջ">
 <!ENTITY searchDialogTitle.label     "Փնտրել նամակներ">
 <!ENTITY results.label               "Արդյունքներ">
 <!ENTITY moveHereMenu.label          "Տեղ. այստեղ">
@@ -26,23 +26,25 @@
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Պահպանել որպես փնտրման թղթ.">
 <!ENTITY saveAsVFButton.accesskey    "v">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Փնտրել՝ ">
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Հատկություններ">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Գրել">
 <!ENTITY composeButton.accesskey     "W">
+<!ENTITY deleteCardButton.label      "Ջնջել">
+<!ENTITY deleteCardButton.accesskey  "Ջ">
 <!ENTITY abSearchDialogTitle.label   "Ընդլայնված որոնում Հասցեագրքում">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Շղթան">
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
 <!ENTITY subjectColumn.label "Վերնագիրը">
 <!ENTITY dateColumn.label "Ամսաթիվ">
-<!ENTITY priorityColumn.label "Առաջնայն-ը">
+<!ENTITY priorityColumn.label "Առաջնահերթ-ը">
 <!ENTITY tagsColumn.label "Պիտակներ">
 <!ENTITY accountColumn.label "Փոստարկղ">
 <!ENTITY statusColumn.label "Վիճակը">
@@ -51,12 +53,12 @@
 <!ENTITY unreadColumn.label "Չընթերցված">
 <!ENTITY totalColumn.label "Ընդամենը">
 <!ENTITY readColumn.label "Ընթերցել">
-<!ENTITY receivedColumn.label "Ստացված">
+<!ENTITY receivedColumn.label "Ստացման">
 <!ENTITY starredColumn.label "Աստղիկով">
 <!ENTITY locationColumn.label "Տեղադրությունը">
 <!ENTITY idColumn.label "Ստացման կարգի">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
 <!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի շղթան։"> 
 <!ENTITY fromColumn.tooltip "Սեղմեք՝ խմբավորելու ումից">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Բեռնել և Համժ. նամակները">
 <!ENTITY MsgSelect.label "Անցանց օգտագործ. համար">
@@ -10,14 +10,14 @@
 <!ENTITY MsgSyncDirections.label "Բեռնել և/կամ համաժամեցնել հետևյալը.">
 <!ENTITY syncTypeMail.label "Նամակներ">
 <!ENTITY syncTypeMail.accesskey "M">
-<!ENTITY syncTypeNews.label "Նորություններ">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.label "Լրահոսը">
+<!ENTITY syncTypeNews.accesskey "Լ">
 <!ENTITY sendMessage.label "Ուղարկել չուղարկված նամակները">
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Աշխատել անցանց՝ բեռնելուց և/կամ համաժամեցնելուց հետո">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Ընտրել...">
-<!ENTITY selectButton.accesskey "e">
+<!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "Ընտրեք փոստային թղթապ. և նորությունները՝ անցանց օգտ. համար։">
 <!ENTITY MsgSelectInd.label "Բեռնել">
 <!ENTITY MsgSelectItems.label "Թղթապ. և Նորություններ">

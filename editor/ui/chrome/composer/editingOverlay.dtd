@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "Բացել ֆայլ…">
 <!ENTITY openFileCmd.accesskey "Բ">
 <!ENTITY openFileCmd.key "Բ">
@@ -24,12 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "Հ">
 <!ENTITY fileRevert.label "Ետարկել ">
 <!ENTITY fileRevert.accesskey "Ե">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "Հրապարակվող կայքի կարգավորումները...">
 <!ENTITY publishSettings.accesskey "Հ">
-
 <!-- Toolbar buttons/items -->
+
 <!ENTITY newToolbarCmd.label "Նոր">
 <!ENTITY newToolbarCmd.tooltip "Ստեղծել նոր էջ">
 <!ENTITY openToolbarCmd.label "Բացել">

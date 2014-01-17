@@ -2,10 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Կոնտակտը">
+<!ENTITY Contact.tab                     "Կոնտակտ">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Անուն">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -49,7 +49,11 @@
 
 <!ENTITY allowRemoteContent1.label      "Թույլատրել հեռադիր բով.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "HTML նամակներում հնարավոր է ներդնել բովանդակություն հեռադիր աղբյուրից։ Այսպիսի նամակ բացելիս կսկսվի միացումը արտաքին աղբյուրին։ Եթե ընտրեք սա, ապա արտաքին բովանդակոթւյունը կբացվի HTML նամակներում այս հասցեի համար։">
+<!ENTITY allowRemoteContent1.tooltip    "HTML նամակներում հնարավոր է 
+ներդնել բովանդակություն հեռադիր աղբյուրից։ Այսպիսի նամակ բացելիս կսկսվի 
+ միացումը արտաքին աղբյուրին։ Եթե ընտրեք սա, ապա 
+արտաքին բովանդակությունը կբացվի 
+ HTML նամակներում այս հասցեի համար։">
 
 <!ENTITY WorkPhone.label                "Աշխ.">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -65,7 +69,7 @@
 <!ENTITY Home.tab                       "Անձնական">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Հասցեն.">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Քաղաքը.">
@@ -92,10 +96,10 @@
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "Բաժինը.">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "Կազմակերպությունը.">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.label                  "Կազմակերպություն.">
+<!ENTITY Company.accesskey              "պ">
 <!ENTITY WorkAddress.label              "Հասցեն.">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Քաղաքը.">
@@ -157,4 +161,4 @@
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Տեղադրել կամ նշեք լուսանկարի վեբ հասցեն">
 <!ENTITY UpdatePhoto.label              "Թարմացնել">
-<!ENTITY UpdatePhoto.accesskey          "U">
+<!ENTITY UpdatePhoto.accesskey          "u">
