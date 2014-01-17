@@ -177,11 +177,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
 <!ENTITY datareporting_wifi_title "I-&vendorShortName; iinkonzo zendawo">
 <!ENTITY datareporting_wifi_summary "Inceda ekuphuculeni indawo ekuyo iWebhu Evulekileyo ngokuvumela i-&brandShortName; iqokelele ize ithumele inkcazelo engachazwanga yeMboniselo yeselula">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Izihlaziyi ezizenzekelayo">
+<!ENTITY pref_update_autodownload2 "Khuphela okwamva ngokuzenzela">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
-<!ENTITY pref_update_autodownload_disabled "Kwaphulwe isakhono">
-<!ENTITY pref_update_autodownload_enabled "Ezivunyelweyo">
+<!ENTITY pref_update_autodownload_never "Ungaze">
+<!ENTITY pref_update_autodownload_always "Qho">
 
 <!ENTITY quit "Yeka">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Hlela">
 <!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
 <!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
+<!ENTITY contextmenu_add_search_engine "Yongeza injini yokukhangela">
 
 <!ENTITY pref_titlebar_mode "Ibha yomxholo">
 <!ENTITY pref_titlebar_mode_title "Bonisa umxholo wephepha">
 <!ENTITY pref_titlebar_mode_url "Bonisa idilesi yephepha">
+
+<!ENTITY pref_dynamic_toolbar "Fihla ibha yetayitile xa uhambisa imibhalo">
 
 <!ENTITY history_removed "Iphepha lisusiwe">
 
@@ -371,3 +377,8 @@ esuka kwi-Android">
 
 <!ENTITY exit_guest_session_title "&brandShortName; iza kuqala ngoku">
 <!ENTITY exit_guest_session_text "Iingcombolo zokubhrawuza zale seshoni ziza kucinywa.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Imenyu">
+<!ENTITY actionbar_done "Kwenziwe">
