@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "بطاقة شخصية (vCard)">
 <!ENTITY attachVCardCmd.accesskey "ش">
+<!ENTITY remindLater.label "ذكّرني لاحقًا">
+<!ENTITY remindLater.accesskey "ذ">
 <!ENTITY closeCmd.label "أغلق">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
