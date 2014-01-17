@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Lapbezárás visszavonása">
 <!ENTITY undoCloseTab.accesskey             "v">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Lapok bezárásának visszavonása">
 <!ENTITY  closeTab.label                     "Lap bezárása">
 <!ENTITY closeTab.accesskey                 "b">
 
