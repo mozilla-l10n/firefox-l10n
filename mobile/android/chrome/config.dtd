@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Search Settings">
-<!ENTITY clear.altText          "Clear">
-<!ENTITY newpref.label2         "Add a New Setting">
+
+<!ENTITY toolbar.searchPlaceholder     "खोजें">
+
+<!ENTITY newPref.namePlaceholder       "नाम">
+
+<!ENTITY newPref.valueBoolean          "Boolean">
+<!ENTITY newPref.valueString           "String">
+<!ENTITY newPref.valueInteger          "Integer">
+
+<!ENTITY newPref.stringPlaceholder     "स्ट्रिंग दर्ज करें">
+<!ENTITY newPref.numberPlaceholder     "संख्या दर्ज करें">
+
+<!ENTITY newPref.toggleButton          "Toggle">
+<!ENTITY newPref.cancelButton          "रद्द करें">
+
+<!ENTITY contextMenu.copyPrefName      "नाम की नक़ल लें">
+<!ENTITY contextMenu.copyPrefValue     "मान नक़ल करें">
