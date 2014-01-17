@@ -145,6 +145,16 @@
 <!ENTITY  event.toolbar.attendees.label                   "Pozovi sudionike">
 <!ENTITY  event.toolbar.spellcheck.label                  "Provjera pravopisa">
 <!ENTITY  event.toolbar.privacy.label                     "Privatnost">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Spremi i zatvori">
+<!ENTITY  event.toolbar.delete.tooltip                    "Obriši">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Pozovi sudionike">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Provjera pravopisa">
+<!ENTITY  event.toolbar.attachments.tooltip               "Dodaj privitke">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Promijeni privatnost">
+<!ENTITY  event.toolbar.priority.tooltip                  "Promijeni prioritet">
+<!ENTITY  event.toolbar.status.tooltip                    "Promijeni status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Promijeni slobodno/zauzeto vrijeme">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Naslov:" >
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Prilagodi…" >
 
 <!ENTITY event.reminder.multiple.label                    "Višestruki podsjetnici…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Vrijeme kao:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privatnost:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Uredi ponavljanje">
