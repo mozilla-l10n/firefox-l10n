@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "ตั้งค่าการค้นหา">
-<!ENTITY clear.altText          "ล้าง">
-<!ENTITY newpref.label2         "เพิ่มการตั้งค่าใหม่">
+
+<!ENTITY toolbar.searchPlaceholder     "ค้นหา">
+
+<!ENTITY newPref.namePlaceholder       "ชื่อ">
+
+<!ENTITY newPref.valueBoolean          "บูลีน">
+<!ENTITY newPref.valueString           "สตริง">
+<!ENTITY newPref.valueInteger          "จำนวนเต็ม">
+
+<!ENTITY newPref.stringPlaceholder     "กรอกสตริง">
+<!ENTITY newPref.numberPlaceholder     "กรอกตัวเลข">
+
+<!ENTITY newPref.toggleButton          "สลับค่า">
+<!ENTITY newPref.cancelButton          "ยกเลิก">
+
+<!ENTITY contextMenu.copyPrefName      "คัดลอกชื่อ">
+<!ENTITY contextMenu.copyPrefValue     "คัดลอกค่า">
