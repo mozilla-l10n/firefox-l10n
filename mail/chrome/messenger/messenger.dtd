@@ -551,6 +551,14 @@
 
 <!-- Toolbar Button Popup -->
 
+<!-- Remote Content Button Popup -->
+
+
+
+<!-- Phishing Button Popup -->
+
+
+
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Жаңа хат">
@@ -758,21 +766,6 @@
 <!ENTITY contextMute.accesskey "Д">
 <!ENTITY contextUnmute.label "Даусын шығару">
 <!ENTITY contextUnmute.accesskey "Д">
-<!-- Junk Bar -->
-
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!-- Phishing Bar -->
-
-
-
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Елемеу">
-<!ENTITY mdnBarIgnoreButton2.accesskey "Е">
-
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

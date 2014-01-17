@@ -74,8 +74,8 @@
 
 
 
-
-
+<!ENTITY Birthday.label                 "Туған күні:">
+<!ENTITY Birthday.accesskey             "Т">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Жыл">
 <!ENTITY Or.value                       "не">
