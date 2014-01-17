@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "O que está no relatório de erro?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Um relatório de erros contém alguns detalhes sobre o erro, a sua máquina, assim como um instantâneo do estado do seu navegador no momento do erro.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Pode incluir coisas como as páginas abertas, o texto escrito nos formulários e o conteúdo das mensagens abertas, o histórico recente ou a localização partilhada com um sítio.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Usamos relatórios de erro para tentar reparar problemas e melhorar os nossos produtos. Usamos a sua informação como descrito na nossa ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Usamos relatórios de erro para tentar reparar problemas e melhorar os nossos produtos. Usamos a sua informação como descrito na nossa ">
 <!ENTITY crashprompt.privacyPolicyLink "política de privacidade do &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Incluir o endereço da página em que estava">
 <!ENTITY crashprompt.acceptbutton    "Enviar relatórios">
 <!ENTITY crashprompt.refusebutton    "Não enviar">
