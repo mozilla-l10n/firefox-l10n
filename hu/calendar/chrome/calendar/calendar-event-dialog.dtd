@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Helyesírás-ellenőrzés">
 <!ENTITY  event.toolbar.privacy.label                     "Adatvédelem">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Mentés és bezárás">
+<!ENTITY  event.toolbar.delete.tooltip                    "Törlés">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Résztvevők meghívása">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Helyesírás-ellenőrzés">
+<!ENTITY  event.toolbar.attachments.tooltip               "Mellékletek hozzáadása">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Adatvédelem módosítása">
+<!ENTITY  event.toolbar.priority.tooltip                  "Prioritás módosítása">
+<!ENTITY  event.toolbar.status.tooltip                    "Állapot módosítása">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Szabad/elfoglalt idő módosítása">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Cím:" >
 <!ENTITY event.title.textbox.accesskey                    "C">
@@ -193,7 +203,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey      "s">
 <!ENTITY event.attachments.popup.attachPage.label         "Weboldal csatolása…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W">
-<!ENTITY event.url.label                                  "Related hivatkozás:" >
+<!ENTITY event.url.label                                  "Kapcsolódó hivatkozás:" >
 <!ENTITY event.priority2.label                            "Sürgősség:">
 
 <!ENTITY event.reminder.none.label                        "Nincs emlékeztető" >
@@ -210,6 +220,8 @@
 <!ENTITY event.reminder.custom.label                      "Egyéni…" >
 
 <!ENTITY event.reminder.multiple.label                    "Több emlékeztető…" >
+<!ENTITY event.statusbarpanel.freebusy.label              "Idő mint:">
+<!ENTITY event.statusbarpanel.privacy.label               "Magánszféra:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Ismétlődés szerkesztése">
