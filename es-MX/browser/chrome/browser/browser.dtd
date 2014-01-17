@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "A">
 <!ENTITY  undoCloseTab.label                 "Deshacer el cierre de la última pestaña">
 <!ENTITY  undoCloseTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Deshacer el cierre de la última pestaña">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -412,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "Relanzar &brandShortName; en el entorno de Windows 8">
+
 <!ENTITY savePageCmd.label            "Guardar como…">
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->

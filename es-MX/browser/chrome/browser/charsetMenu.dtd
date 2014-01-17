@@ -8,7 +8,8 @@
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "D">
 
-
+<!ENTITY charsetMenuAutodet.off.label     "(apagar)">
+<!ENTITY charsetMenuAutodet.off.accesskey "o">
 <!ENTITY charsetMenuAutodet.ja.label      "Japonés">
 <!ENTITY charsetMenuAutodet.ja.accesskey  "J">
 <!ENTITY charsetMenuAutodet.ru.label      "Ruso">
