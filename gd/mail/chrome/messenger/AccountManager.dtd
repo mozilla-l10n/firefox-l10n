@@ -13,7 +13,7 @@
 <!ENTITY addIMAccountButton.label "Cuir cunntas cabadaich ris…">
 <!ENTITY addIMAccountButton.accesskey "u">
 <!ENTITY addFeedAccountButton.label "Cuir cunntas inbhir ris…">
-<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.accesskey "u">
 <!ENTITY addOtherAccountButton.label "Cuir cunntas eile ris…">
 <!ENTITY addOtherAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Suidhich e mar an roghainn bhunaiteach">

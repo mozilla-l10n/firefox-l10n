@@ -17,4 +17,4 @@
 <!ENTITY fieldMapImport.fieldListTitle "Raointean leabhar nan seòladh">
 <!ENTITY fieldMapImport.dataTitle "Dàta nan reacord a tha ri ion-phortadh">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Tha ainmean nan raointean sa chiad reacord">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "r">

@@ -9,7 +9,7 @@
 <!ENTITY fileMenu.label "Faidhle">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ùr">
-<!ENTITY newMenu.accesskey "Ù">
+<!ENTITY newMenu.accesskey "r">
 <!ENTITY newMessage.label "Teachdaireachd">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cairt phearsanta (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Cuir 'nam chuimhne an ceann tamaill">
+<!ENTITY remindLater.accesskey "l">
 <!ENTITY closeCmd.label "Dùin">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "D">
@@ -158,11 +160,11 @@
 <!ENTITY lowestPriorityCmd.label "As ìsle">
 <!ENTITY lowestPriorityCmd.accesskey "l">
 <!ENTITY lowPriorityCmd.label "Ìseal">
-<!ENTITY lowPriorityCmd.accesskey "Ì">
+<!ENTITY lowPriorityCmd.accesskey "s">
 <!ENTITY normalPriorityCmd.label "Àbhaisteach">
-<!ENTITY normalPriorityCmd.accesskey "À">
+<!ENTITY normalPriorityCmd.accesskey "b">
 <!ENTITY highPriorityCmd.label "Àrd">
-<!ENTITY highPriorityCmd.accesskey "À">
+<!ENTITY highPriorityCmd.accesskey "r">
 <!ENTITY highestPriorityCmd.label "As àirde">
 <!ENTITY highestPriorityCmd.accesskey "A">
 <!ENTITY fileCarbonCopyCmd.label "Cuir lethbhreac dheth gu">

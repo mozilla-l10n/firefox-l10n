@@ -6,15 +6,15 @@
 <!ENTITY windowTitle.label "Am faclair pearsanta">
 
 <!ENTITY wordEditField.label "Facal ùr:">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "F">
 <!ENTITY AddButton.label "Cuir ris">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "C">
 <!ENTITY DictionaryList.label "Faclan san fhaclair:">
-<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY DictionaryList.accessKey "a">
 <!ENTITY ReplaceButton.label "Cuir 'na àite">
 <!ENTITY ReplaceButton.accessKey "r">
 <!ENTITY RemoveButton.label "Thoir air falbh">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "o">
 
 <!ENTITY CloseButton.label "Dùin">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.accessKey "D">

@@ -7,11 +7,11 @@
 
 <!ENTITY misspelledWord.label "Facal air a dhroch litreachadh:">
 <!ENTITY wordEditField.label "Cuir na leanas 'na àite:">
-<!ENTITY wordEditField.accessKey "w">
+<!ENTITY wordEditField.accessKey "n">
 <!ENTITY checkwordButton.label "Ceartaich am facal seo">
-<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY checkwordButton.accessKey "C">
 <!ENTITY suggestions.label "Molaidhean:">
-<!ENTITY suggestions.accessKey "u">
+<!ENTITY suggestions.accessKey "M">
 <!ENTITY ignoreButton.label "Leig seachad">
 <!ENTITY ignoreButton.accessKey "i">
 <!ENTITY ignoreAllButton.label "Leig seachad gach aon dhiubh">
@@ -25,14 +25,14 @@
 <!ENTITY userDictionary.label "Am faclair pearsanta:">
 <!ENTITY moreDictionaries.label "Luchdaich a-nuas barrachd fhaclairean…">
 <!ENTITY addToUserDictionaryButton.label "Cuir ris facal">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.accessKey "C">
 <!ENTITY editUserDictionaryButton.label "Deasaich…">
 <!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Ath-cheartaich an duilleag">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton.accessKey "A">
 <!ENTITY closeButton.label "Dùin">
-<!ENTITY closeButton.accessKey "C">
+<!ENTITY closeButton.accessKey "D">
 <!ENTITY sendButton.label "Cuir">
-<!ENTITY sendButton.accessKey "S">
+<!ENTITY sendButton.accessKey "C">
 <!ENTITY languagePopup.label "Cànan:">
-<!ENTITY languagePopup.accessKey "L">
+<!ENTITY languagePopup.accessKey "C">

@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Obraich far loidhne">
 <!ENTITY offlineGoOfflineCmd.accesskey "O">
-<!ENTITY synchronizeOfflineCmd.label "Luchdaich a-nuas/co-thìmich an-dràsta…">
+<!ENTITY synchronizeOfflineCmd.label "Luchdaich a-nuas/sioncronaich an-dràsta…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd.label "Roghainnean obrachaidh far loidhne…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
@@ -228,7 +228,7 @@
 <!ENTITY headersAllCmd.label "A h-uile">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Àbhaisteach">
-<!ENTITY headersNormalCmd.accesskey "À">
+<!ENTITY headersNormalCmd.accesskey "b">
 <!ENTITY bodyMenu.label "Bodhaig na teachdaireachd mar">
 <!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "An HTML tùsail">
@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Sìn air adhart am broinn na loidhne">
 <!ENTITY buttonMenuForwardAsAttachment.label "Sin air adhart mar cheanglachan">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Seall an t-susbaint chèin aig an teachdaireachd seo">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "Seall susbaint chèin on t-seòladair seo">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "e">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Leig seachad an rabhadh a thaobh na teachdaireachd seo">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Cuir à comas lorg de dh'fhallsaidheachd-lìn anns gach teachdaireachd">
+<!ENTITY phishingOptionDisableDetection.accesskey "C">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachdaireachd ùr">
@@ -578,7 +590,7 @@
 <!ENTITY addNewTag.label "Taga ùr…">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY manageTags.label "Stiùirich na tagaichean…">
-<!ENTITY manageTags.accesskey "M">
+<!ENTITY manageTags.accesskey "S">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Ainm">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "T">
 <!ENTITY contextUnmute.label "Till an fhuaim">
 <!ENTITY contextUnmute.accesskey "m">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "Tha &brandShortName; dhen bheachd gur e post truilleis a tha san teachdaireachd seo.">
-<!ENTITY junkBarButton1.label "Post còir">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Chuir &brandShortName; bacadh air susbaint chèin san teachdaireachd seo gus do phrìobhaideachd a dhìon.">
-<!ENTITY loadRemoteContentButton3.label "Seall an t-susbaint chèin">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Dh'fhaodadh gu bheil an teachdaireachd seo 'na fhallsaicheachd-lìn.">
-<!ENTITY removePhishingBarButton1.label "Leig seachad an rabhadh">
-<!ENTITY disablePhishingWarning1.label "Cuir à comas lorg de dh'fhallsaidheachd-lìn anns gach teachdaireachd">
-<!ENTITY reportPhishingError1.label "Tha coltas nach eil an teachdaireachd seo 'na fhallsaidheachd-lìn.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Leig seachad">
-<!ENTITY mdnBarIgnoreButton2.accesskey "L">
-<!ENTITY mdnBarSendButton2.label "Cuir cuidhteas tillidh">
-<!ENTITY mdnBarSendButton2.accesskey "C">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

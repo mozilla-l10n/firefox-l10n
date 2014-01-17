@@ -8,20 +8,20 @@
 
 <!ENTITY dimensionsBox.label "Meudachd">
 <!ENTITY heightEditField.label "Àirde:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "r">
 <!ENTITY widthEditField.label "Leud:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "pixel">
 <!ENTITY alignmentBox.label "Co-thaobhachadh">
 <!ENTITY leftRadio.label "Clì">
 <!ENTITY leftRadio.accessKey "l">
 <!ENTITY centerRadio.label "Cuir sa mheadhan">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Deis">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.label "Deas">
+<!ENTITY rightRadio.accessKey "s">
 
 <!ENTITY threeDShading.label "Duibhreachadh 3-D">
-<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.accessKey "3">
 <!ENTITY saveSettings.label "Cleachd mar an roghainn bhunaiteach">
 <!ENTITY saveSettings.accessKey "d">
 <!ENTITY saveSettings.tooltip "Sàbhail na roghainnean seo 's cleachd iad nuair a chuireas mi a-steach loidhnichean còmhnard ùra">
