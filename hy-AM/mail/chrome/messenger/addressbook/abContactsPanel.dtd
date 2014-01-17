@@ -22,6 +22,6 @@
 <!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Ավելացնել Cc.">
-<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Ավելացնել Bcc.">
 <!ENTITY bccButton.accesskey                "B">

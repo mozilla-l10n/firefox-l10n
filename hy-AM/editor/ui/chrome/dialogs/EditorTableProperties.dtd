@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Հավասարեցում">
 <!ENTITY cellInheritColor.label           "(Աղյուսակի գույնը ցուցադրել միջով)">
 <!ENTITY cellUseCheckboxHelp.label        "Օգտագործել ընտրադաշտերը՝ որոշելու համար հատկությունների կիրառումը ընտրված վանդակներին">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Չափը">
 <!ENTITY pixels.label                     "փիքսել">
 <!ENTITY backgroundColor.label            "Խորապատկերի գույնը.">

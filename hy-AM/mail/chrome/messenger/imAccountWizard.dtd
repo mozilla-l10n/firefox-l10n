@@ -22,11 +22,11 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Տեղեկացնել նոր նամակի մասին">
 <!ENTITY accountAliasGroupbox.caption "Լոկալ մականունը">
 <!ENTITY accountAliasField.label      "Մականուններ.">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
+<!ENTITY accountAliasInfo.label       "Կցուցադրվի միայն զրուցի ժամանակ: ">
 <!ENTITY accountProxySettings.caption "Միջնորդի կարգավորումներ">
 <!ENTITY accountProxySettings.change.label     "Փոխել...">
 <!ENTITY accountProxySettings.change.accessKey "Փ">
 
 <!ENTITY accountSummaryTitle.label   "Ընդհանուր">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
+<!ENTITY accountSummaryInfo.label    "Ստորև կարող եք տեսնել մուտքագրված տեղեկությունների ամփոփումը: Ստուգեք դրանք՝ մինչև հաշիվը բացելը:">
 <!ENTITY accountSummary.connectNow.label "Միանալ փոստարկղին։">

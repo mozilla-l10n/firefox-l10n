@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Թարմացնել">
 <!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
-
 <!-- General Settings -->
+
 
 <!ENTITY submitTelemetry.label         "Հաստատել արտադրողական տվյալը">
 <!ENTITY submitTelemetry.accesskey     "Հ">
@@ -26,7 +26,7 @@
 <!ENTITY alwaysCheckDefault.label      "Բացելիս միշտ ստուգել, թե արդյոք &brandShortName;-ը փոստային հիմնական ծրագիրն է">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
-<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Ստուգել...">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Ընդլայնված կարգավորում">
@@ -35,8 +35,8 @@
 <!ENTITY returnReceiptsInfo.label      "Որոշեք, թե &brandShortName;-ը ինչպես վարվի ստացականների հետ։">
 <!ENTITY showReturnReceipts.label      "Ստացականներ...">
 <!ENTITY showReturnReceipts.accesskey  "R">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Ընթերցում">
 <!ENTITY display.caption               "Ցուցադրել">
 <!ENTITY showCondensedAddresses.label  "Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը ">
@@ -61,8 +61,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Փակել նամակի էջը/պատուհանը ջնջելուց հետո">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Ստուգել թարմացումները՝">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
@@ -80,8 +80,8 @@
 
 <!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
 <!ENTITY useService.accesskey            "b">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Կարգավորումներ...">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը մուտք գործի համացանց">
@@ -95,20 +95,20 @@
 <!ENTITY offlineCompactFolders.label     "Սեղմել թղթապանակները, եթե դա կխնայի՝ ">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "ՄԲ ընդամենը">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "ՄԲ պահոցի համար">
 <!ENTITY clearCacheNow.label             "Մաքրել Հիմա">
 <!ENTITY clearCacheNow.accesskey         "C">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Երբ սպասարկիչը պահանջում է հավաստագիր.">
 <!ENTITY certs.auto                      "Ընտրել որևէ մեկը">
 <!ENTITY certs.auto.accesskey            "m">
@@ -116,9 +116,7 @@
 <!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Վավերազրկման Ցանկեր">
-<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY viewCertificates.accesskey     "հ">
 <!ENTITY validation.label               "Հավաստում">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Անվտանգության սարքեր">
