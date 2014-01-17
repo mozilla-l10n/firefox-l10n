@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Proslijedi umetnuto">
 <!ENTITY buttonMenuForwardAsAttachment.label "Proslijedi kao privitak">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži vanjski sadržaj u ovoj poruci">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY remoteContentOptionAllowForAddress.label "Prikaži vanjski sadržaj od ovog pošiljatelja">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "k">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Zanemari upozorenje za ovu poruku">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Onemogući otkrivanje prijevara za sve poruke">
+<!ENTITY phishingOptionDisableDetection.accesskey "m">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Nova poruka">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "U">
 <!ENTITY contextUnmute.label "Uključi zvuk">
 <!ENTITY contextUnmute.accesskey "k">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "&brandShortName; misli da je ova poruka neželjena pošta.">
-<!ENTITY junkBarButton1.label "Nije neželjena pošta">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Kako bi zaštitio vašu privatnost, &brandShortName; je blokirao vanjski sadržaj u ovoj poruci.">
-<!ENTITY loadRemoteContentButton3.label "Prikaži vanjski sadržaj">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Ova poruka je možda prijevara.">
-<!ENTITY removePhishingBarButton1.label "Zanemari upozorenje">
-<!ENTITY disablePhishingWarning1.label "Onemogući otkrivanje prijevara za sve poruke">
-<!ENTITY reportPhishingError1.label "Ova poruka ne izgleda kao prijevara.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Zanemari">
-<!ENTITY mdnBarIgnoreButton2.accesskey "Z">
-<!ENTITY mdnBarSendButton2.label "Pošalji potvrdu čitanja">
-<!ENTITY mdnBarSendButton2.accesskey "P">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
