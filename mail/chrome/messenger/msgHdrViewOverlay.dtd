@@ -2,27 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "Gu ">
-<!ENTITY fromField4.label "O ">
-<!ENTITY senderField4.label "Seòladair ">
-<!ENTITY organizationField4.label "Buidheann ">
-<!ENTITY replyToField4.label "Freagairt-gu ">
+<!ENTITY toField4.label "Gu">
+<!ENTITY fromField4.label "O">
+<!ENTITY senderField4.label "Seòladair">
+<!ENTITY organizationField4.label "Buidheann">
+<!ENTITY replyToField4.label "Freagairt gu">
 
-<!ENTITY subjectField4.label "Cuspair ">
-<!ENTITY ccField4.label "Cc ">
-<!ENTITY bccField4.label "Bcc ">
-<!ENTITY newsgroupsField4.label "Buidhnean-naidheachd ">
-<!ENTITY followupToField4.label "Post leanmhainnach gu ">
-<!ENTITY tagsHdr4.label "Tagaichean ">
-<!ENTITY dateField4.label "Ceann-là ">
-<!ENTITY userAgentField4.label "Àidseant-cleachdaiche ">
-<!ENTITY referencesField4.label "Iomraidhean ">
-<!ENTITY messageIdField4.label "ID na teachdaireachd ">
-<!ENTITY inReplyToField4.label "San fhreagairt gu ">
-<!ENTITY originalWebsite4.label "Làrach-lìn ">
+<!ENTITY subjectField4.label "Cuspair">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Buidhnean-naidheachd">
+<!ENTITY followupToField4.label "Post leanmhainnach gu">
+<!ENTITY tagsHdr4.label "Tagaichean">
+<!ENTITY dateField4.label "Ceann-là">
+<!ENTITY userAgentField4.label "Àidseant-cleachdaiche">
+<!ENTITY referencesField4.label "Iomraidhean">
+<!ENTITY messageIdField4.label "ID na teachdaireachd">
+<!ENTITY inReplyToField4.label "San fhreagairt gu">
+<!ENTITY originalWebsite4.label "Làrach-lìn">
 
-<!ENTITY editMessageDescription.label "Seo dreachd teachdaireachd">
-<!ENTITY editMessageButton.label "Deasaich…">
 <!ENTITY hdrArchiveButton1.label "Tasg-lann">
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachdaireachd seo san tasg-lann">
 <!ENTITY hdrSmartReplyButton1.label "Freagairt ghlic">

@@ -5,7 +5,7 @@
 <!ENTITY  pref.editing.title        "Roghainnean duilleige ùr">
 
 <!ENTITY  authorName.label          "Ùghdar:">
-<!ENTITY  authorName.accesskey      "Ù">
+<!ENTITY  authorName.accesskey      "h">
 <!ENTITY  pageColorHeader           "Riochd bunaiteach na duilleige">
 
 <!ENTITY defaultColors.label        "Dathan bunaiteach an leughadair (Na suidhich dathan san duilleag)">

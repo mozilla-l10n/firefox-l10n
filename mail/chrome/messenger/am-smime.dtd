@@ -4,10 +4,10 @@
 
 <!ENTITY securityTitle.label "Tèarainteachd">
 <!ENTITY securityTab.label "Tèarainteachd">
-<!ENTITY securityHeading.label "Ma tha thu airson teachdaireachdan le ainm sgrìobhte no feadhainn a chaidh a dhubh-cheileadh a chur 's fhaighinn, bu chòir dhut an dà chuid teisteanas soidhneachaidh digiteach agus teisteanas dubh-cheilidh a shònrachadh.">
-<!ENTITY encryptionGroupTitle.label "Dubh-cheileadh">
-<!ENTITY encryptionChoiceLabel.label "Roghainn bhunaiteach an dubh-cheilidh a chleachdar nuair a chuireas mi teachdaireachd:">
-<!ENTITY neverEncrypt.label "Chan eil gin (na cleachd dubh-cheileadh)">
+<!ENTITY securityHeading.label "Ma tha thu airson teachdaireachdan le ainm sgrìobhte no feadhainn a chaidh a chrioptachadh a chur 's fhaighinn, bu chòir dhut an dà chuid teisteanas soidhneachaidh digiteach agus teisteanas crioptachaidh a shònrachadh.">
+<!ENTITY encryptionGroupTitle.label "Crioptachadh">
+<!ENTITY encryptionChoiceLabel.label "Roghainn bhunaiteach a' chrioptachaidh a chleachdar nuair a chuireas mi teachdaireachd:">
+<!ENTITY neverEncrypt.label "Chan eil gin (na cleachd crioptachadh)">
 <!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Riatanach (chan urrainnear teachdaireachd a chur ach ma bhios teisteanas aig gach faightear)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">

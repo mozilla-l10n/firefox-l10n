@@ -6,7 +6,7 @@
 <!ENTITY nameColumn.label "Ainm na criathraige">
 <!ENTITY activeColumn.label "Air a chur an comas">
 <!ENTITY newButton.label "Ùr…">
-<!ENTITY newButton.accesskey "Ù">
+<!ENTITY newButton.accesskey "r">
 <!ENTITY editButton.label "Deasaich…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sguab às">

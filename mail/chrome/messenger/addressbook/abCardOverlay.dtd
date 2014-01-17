@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Ainm-seallaidh:">
 <!ENTITY DisplayName.accesskey          "d">
 <!ENTITY preferDisplayName.label        "'S fhearr leam an t-ainm-taisbeanaidh seach bann-cinn na teachdaireachd an-còmhnaidh">
-<!ENTITY preferDisplayName.accesskey    "'">
+<!ENTITY preferDisplayName.accesskey    "f">
 <!ENTITY NickName.label                 "Far-ainm:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -161,4 +161,4 @@ tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an tea
 <!ENTITY PhotoURL.accesskey             "A">
 <!ENTITY PhotoURL.placeholder           "Cuir a-steach seòladh-lìn de dh'fhotograf">
 <!ENTITY UpdatePhoto.label              "Ùraich">
-<!ENTITY UpdatePhoto.accesskey          "Ù">
+<!ENTITY UpdatePhoto.accesskey          "i">

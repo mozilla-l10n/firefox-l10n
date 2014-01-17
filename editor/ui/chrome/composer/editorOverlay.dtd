@@ -339,7 +339,7 @@
 <!ENTITY insertTOC.label          "Cuir a-steach">
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "Ùraich">
-<!ENTITY updateTOC.accesskey      "Ù">
+<!ENTITY updateTOC.accesskey      "r">
 <!ENTITY removeTOC.label          "Thoir air falbh">
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "An clàr-innse…">
