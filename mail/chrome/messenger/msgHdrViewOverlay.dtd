@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "U odgovoru za">
 <!ENTITY originalWebsite4.label "Web stranica">
 
-<!ENTITY editMessageDescription.label "Ovo je skica poruke">
-<!ENTITY editMessageButton.label "Uredi…">
 <!ENTITY hdrArchiveButton1.label "Arhiviraj">
 <!ENTITY hdrArchiveButton1.tooltip "Arhiviraj ovu poruku">
 <!ENTITY hdrSmartReplyButton1.label "Pametni odgovor">
