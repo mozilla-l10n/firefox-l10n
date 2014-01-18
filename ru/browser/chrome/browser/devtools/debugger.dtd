@@ -10,7 +10,7 @@
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Поместить или вынуть из черного ящика">
 <!ENTITY debuggerUI.sources.prettyPrint "«Красивые» исходники">
 <!ENTITY debuggerUI.autoPrettyPrint "Автоматически прихорашивать минимизированные исходники">
-<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "в">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Включить/отключить все точки останова">
 <!ENTITY debuggerUI.startTracing "Запустить трассировку">
 <!ENTITY debuggerUI.clearButton "Очистить">
