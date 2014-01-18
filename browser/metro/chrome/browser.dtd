@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "Avaa virhekonsoli">
 <!ENTITY appbarJSShell.label        "Avaa JavaScript-komentotulkki">
 <!ENTITY appbarFindInPage2.label    "Etsi sivulta">
-<!ENTITY appbarViewOnDesktop2.label "Näytä työpöydällä">
-<!ENTITY appbarMSMetaData2.label    "Lataa sovelma sivustolle">
+<!ENTITY appbarRelaunchInDesktop.label "Käynnistä uudestaan työpöytäversiossa">
+<!ENTITY appbarMSMetaData2.label       "Lataa sivuston sovelma">
+<!ENTITY appbarViewPageSource.label    "Sivun lähdekoodi">
 
 <!ENTITY topSitesHeader.label        "Ykkössivustot">
 <!ENTITY bookmarksHeader.label       "Kirjanmerkit">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Etsitkö välilehtiä? Vedä ruutua alaspäin tai napsauta hiiren toisella painikkeella">
+<!ENTITY firstRunTopSites.label "Siirry sivustoille, joilla vierailet useimmin">
+<!ENTITY firstRunBookmarks.label "Etsi sivuista, jotka olet tallentanut">
+<!ENTITY firstRunMenu.label "Muut toiminnot ja valinnat">
+<!ENTITY firstRunHistory.label "Tarkastelu sivustoja, joilla olet vieraillut">
+<!ENTITY firstRunWelcome.label "Tervetuloa &brandShortName;iin">
+<!ENTITY firstRunDifferent.label "Suunniteltu erilaiseksi">
