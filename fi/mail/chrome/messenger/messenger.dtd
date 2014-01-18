@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Välitä rungossa">
 <!ENTITY buttonMenuForwardAsAttachment.label "Välitä liitteenä">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Näytä ulkoinen sisältö tässä viestissä">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "u">
+<!ENTITY remoteContentOptionAllowForAddress.label "Näytä ulkoinen sisältö tältä lähettäjältä">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "l">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ohita varoitus">
+<!ENTITY phishingOptionIgnore.accesskey "O">
+<!ENTITY phishingOptionDisableDetection.label "Poista huijausten tunnistus kaikille viesteille">
+<!ENTITY phishingOptionDisableDetection.accesskey "k">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Uusi viesti">
 <!ENTITY appmenuNewContactCmd.label "Osoitekirjan yhteistyö…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "V">
 <!ENTITY contextUnmute.label "Palauta ääni">
 <!ENTITY contextUnmute.accesskey "P">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "Viestiä epäillään roskapostiksi.">
-<!ENTITY junkBarButton1.label "Ei roskapostia">
-<!ENTITY junkInfoButton.label  "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Viestiin linkitettyä sisältöä ei ladattu tietosuojan takia.">
-<!ENTITY loadRemoteContentButton3.label "Lataa linkitetty sisältö">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Tämä viesti voi olla huijaus">
-<!ENTITY removePhishingBarButton1.label "Ohita varoitus">
-<!ENTITY disablePhishingWarning1.label "Ota huijaustentunnistus pois päältä">
-<!ENTITY reportPhishingError1.label "Tämä ei ole huijausyritys">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ohita">
-<!ENTITY mdnBarIgnoreButton2.accesskey "O">
-<!ENTITY mdnBarSendButton2.label "Lähetä kuittaus">
-<!ENTITY mdnBarSendButton2.accesskey "L">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
