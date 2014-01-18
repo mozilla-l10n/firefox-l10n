@@ -72,4 +72,48 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
+<!ENTITY firefox.accounts "Учётные записи Firefox">
 <!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
+<!ENTITY fxaccount.policy 'Продолжив, вы соглашаетесь с &lt;a
+          href="http://mozilla.com"&gt;Условиями предоставления услуг&lt;/a&gt; и &lt;a
+          href="http://mozilla.com"&gt;Политикой приватности&lt;/a&gt;.'>
+<!ENTITY fxaccount.forgot.password "Забыли пароль?">
+<!ENTITY fxaccount.create.account.button.label "Создать учётную запись">
+<!ENTITY fxaccount.sign.in.button.label "Войти">
+<!ENTITY fxaccount.email.hint "Эл. почта">
+<!ENTITY fxaccount.password.hint "Пароль">
+<!ENTITY fxaccount.password2.hint "Подтвердите пароль">
+<!ENTITY fxaccount.bad.email "Нам нужен реальный адрес эл. почты.">
+<!ENTITY fxaccount.bad.passwords "Ваши пароли должны совпадать.">
+<!ENTITY fxaccount.sign.in.instead "Уже есть учетная запись? Войдите!">
+<!ENTITY fxaccount.sign.up.instead "Нет учетной записи? Зарегистрируйтесь.">
+<!ENTITY fxaccount.sign.in "Войти">
+<!ENTITY fxaccount.create.account "Создать учётную запись">
+<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Используете &syncBrand.shortName.label; со старой версией &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.when.were.you.born "Где вы родились?">
+<!ENTITY fxaccount.year.of.birth "Год рождения">
+<!ENTITY fxaccount.icon.contentDescription "Значок учётной записи Firefox">
+<!ENTITY fxaccount.password.hide "Скрыть">
+<!ENTITY fxaccount.password.show "Показать">
+<!ENTITY fxaccount.get.started "Начать">
+<!ENTITY fxaccount.description "Войдите для резервного копирования и синхронизации все ваших настроек и закладок!">
+<!ENTITY fxaccount.sign.up "Регистрация">
+<!ENTITY fxaccount.options.title "Настройки">
+<!ENTITY fxaccount.options.configure.title "Настройка учетной записи Firefox">
+<!ENTITY fxaccount.intro.contentDescription "Вводная графика учётной записи Firefox">
+<!ENTITY fxaccount.confirmation.email.sent "Подтверждение отправлено по эл. почте!">
+<!ENTITY fxaccount.mail.contentDescription "Графика конверта учётной записи Firefox">
+<!ENTITY fxaccount.confirmation.description "Ссылка для подтверждения ждёт вас на:">
+<!ENTITY fxaccount.offer.resend.confirmation.email "Не видите письма? Отправьте заново.">
+<!ENTITY fxaccount.password.length.restriction "Должен быть не короче 8 символов.">
+<!ENTITY fxaccount.change.password "Сменить пароль">
+<!ENTITY fxaccount.status.needs.verification "Ваша учетная запись должна быть подтверждена. Нажмите здесь, чтобы подтвердить и начать синхронизацию.">
+<!ENTITY fxaccount.status.needs.credentials "Ваши реквизиты учётной записи устарели. Нажмите здесь, чтобы войти заново и возобновить синхронизацию.">
+<!ENTITY fxaccount.status.syncing "Firefox синхронизируется...">
+<!ENTITY fxaccount.status.sync "Синхронизация">
+<!ENTITY fxaccount.status.bookmarks "Закладки">
+<!ENTITY fxaccount.status.history "История">
+<!ENTITY fxaccount.status.passwords "Пароли">
+<!ENTITY fxaccount.status.tabs "Открытые вкладки">
+<!ENTITY fxaccount.update.credentials "Обновить пароль">
+<!ENTITY fxaccount.update.credentials.button.label "Заново соединиться">

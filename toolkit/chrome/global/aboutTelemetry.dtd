@@ -11,6 +11,8 @@
    Медленные SQL-инструкции ">
 <!ENTITY aboutTelemetry.chromeHangsSection "
    Зависания браузера ">
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+   Зависания нитей ">
 <!ENTITY aboutTelemetry.histogramsSection "
    Гистограммы ">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
