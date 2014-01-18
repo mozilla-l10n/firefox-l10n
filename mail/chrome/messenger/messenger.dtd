@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Videresend innbundet">
 <!ENTITY buttonMenuForwardAsAttachment.label "Videresend som vedlegg">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhold i denne meldingen">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
+<!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt innhold fra denne avsenderen">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "k">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meldingen">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Slå av svindeldeteksjon for alle meldinger">
+<!ENTITY phishingOptionDisableDetection.accesskey "a">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontakter …">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "a">
 <!ENTITY contextUnmute.label "Slå på lyd">
 <!ENTITY contextUnmute.accesskey "d">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; tror denne meldingen er uønsket.">
-<!ENTITY junkBarButton1.label "Ønsket">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Av hensyn til personvern har &brandShortName; blokkert eksternt innhold i denne meldingen.">
-<!ENTITY loadRemoteContentButton3.label "Last inn eksternt innhold">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Denne meldingen kan være en svindel">
-<!ENTITY removePhishingBarButton1.label "Ignorer advarsel">
-<!ENTITY disablePhishingWarning1.label "Slå av svindelgjenkjenning for alle meldinger">
-<!ENTITY reportPhishingError1.label "Denne meldingen ser ikke ut til å være en svindel.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorer">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Send kvittering">
-<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
