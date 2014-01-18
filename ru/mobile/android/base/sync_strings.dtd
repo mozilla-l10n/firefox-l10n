@@ -74,9 +74,9 @@
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
 <!ENTITY firefox.accounts "Учётные записи Firefox">
 <!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
-<!ENTITY fxaccount.policy 'Продолжив, вы соглашаетесь с &lt;a
-          href="http://mozilla.com"&gt;Условиями предоставления услуг&lt;/a&gt; и &lt;a
-          href="http://mozilla.com"&gt;Политикой приватности&lt;/a&gt;.'>
+<!ENTITY fxaccount.policy "Продолжив, вы соглашаетесь с &lt;a
+           href='http://mozilla.com'&gt;Условиями предоставления услуг&lt;/a&gt; и &lt;a
+           href='http://mozilla.com'&gt;Политикой приватности&lt;/a&gt;.">
 <!ENTITY fxaccount.forgot.password "Забыли пароль?">
 <!ENTITY fxaccount.create.account.button.label "Создать учётную запись">
 <!ENTITY fxaccount.sign.in.button.label "Войти">
@@ -89,7 +89,7 @@
 <!ENTITY fxaccount.sign.up.instead "Нет учетной записи? Зарегистрируйтесь.">
 <!ENTITY fxaccount.sign.in "Войти">
 <!ENTITY fxaccount.create.account "Создать учётную запись">
-<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Используете &syncBrand.shortName.label; со старой версией &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.old.firefox "&lt;a href='http://mozilla.com'&gt;Используете &syncBrand.shortName.label; со старой версией &brandShortName;?&lt;/a&gt;">
 <!ENTITY fxaccount.when.were.you.born "Где вы родились?">
 <!ENTITY fxaccount.year.of.birth "Год рождения">
 <!ENTITY fxaccount.icon.contentDescription "Значок учётной записи Firefox">
