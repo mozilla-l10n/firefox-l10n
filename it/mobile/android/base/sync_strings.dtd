@@ -72,4 +72,46 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
-<!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
+<!ENTITY firefox.accounts 'Firefox Account'>
+<!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
+<!ENTITY fxaccount.policy 'Procedendo si accettano le &lt;a href="http://mozilla.com"&gt;Condizioni di utilizzo del servizio&lt;/a&gt; e l’&lt;a href="http://mozilla.com"&gt;Informativa sulla privacy&lt;/a&gt;.'>
+<!ENTITY fxaccount.forgot.password 'Password dimenticata?'>
+<!ENTITY fxaccount.create.account.button.label 'Crea account'>
+<!ENTITY fxaccount.sign.in.button.label 'Accedi'>
+<!ENTITY fxaccount.email.hint 'Email'>
+<!ENTITY fxaccount.password.hint 'Password'>
+<!ENTITY fxaccount.password2.hint 'Conferma password'>
+<!ENTITY fxaccount.bad.email 'È necessario un indirizzo email valido.'>
+<!ENTITY fxaccount.bad.passwords 'Le password non corrispondono.'>
+<!ENTITY fxaccount.sign.in.instead 'Possiedi già un account? Accedi.'>
+<!ENTITY fxaccount.sign.up.instead 'Non hai ancora un account? Registrati.'>
+<!ENTITY fxaccount.sign.in 'Accedi'>
+<!ENTITY fxaccount.create.account 'Crea un account'>
+<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Utilizzando &syncBrand.shortName.label; con una vecchia versione di &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.when.were.you.born 'Quando sei nato?'>
+<!ENTITY fxaccount.year.of.birth 'Anno di nascita'>
+<!ENTITY fxaccount.icon.contentDescription 'Icona di Firefox Account'>
+<!ENTITY fxaccount.password.hide 'Nascondi'>
+<!ENTITY fxaccount.password.show 'Mostra'>
+<!ENTITY fxaccount.get.started 'Per iniziare'>
+<!ENTITY fxaccount.description 'Accedi per salvare e sincronizzare tutte le impostazioni e i segnalibri.'>
+<!ENTITY fxaccount.sign.up 'Registrati'>
+<!ENTITY fxaccount.options.title 'Opzioni'>
+<!ENTITY fxaccount.options.configure.title 'Configura Firefox Account'>
+<!ENTITY fxaccount.intro.contentDescription 'Grafica introduttiva per Firefox Account'>
+<!ENTITY fxaccount.confirmation.email.sent 'Email di conferma inviata.'>
+<!ENTITY fxaccount.mail.contentDescription 'Grafica busta di Firefox Account'>
+<!ENTITY fxaccount.confirmation.description 'Il link per l’attivazione è stato inviato a:'>
+<!ENTITY fxaccount.offer.resend.confirmation.email 'Non è arrivata nessuna email? Invia nuovamente.'>
+<!ENTITY fxaccount.password.length.restriction 'Deve essere lunga almeno 8 caratteri.'>
+<!ENTITY fxaccount.change.password 'Cambia password'>
+<!ENTITY fxaccount.status.needs.verification 'L’account deve essere verificato. Tocca qui per verificarlo e avviare la sincronizzazione.'>
+<!ENTITY fxaccount.status.needs.credentials 'I dettagli dell’account sono obsoleti. Tocca qui per accedere nuovamente e riprendere la sincronizzazione.'>
+<!ENTITY fxaccount.status.syncing 'Sincronizzazione di Firefox…'>
+<!ENTITY fxaccount.status.sync 'Sync' >
+<!ENTITY fxaccount.status.bookmarks 'Segnalibri'>
+<!ENTITY fxaccount.status.history 'Cronologia'>
+<!ENTITY fxaccount.status.passwords 'Password'>
+<!ENTITY fxaccount.status.tabs 'Schede aperte'>
+<!ENTITY fxaccount.update.credentials 'Aggiorna password'>
+<!ENTITY fxaccount.update.credentials.button.label 'Riconnetti'>
