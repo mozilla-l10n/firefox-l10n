@@ -34,7 +34,7 @@
 <!ENTITY  acceptThirdParty.visited.label  "Adalek lec'hiennoù gweladennet">
 
 <!ENTITY  keepUntil.label               "Mirout betek :">
-<!ENTITY  keepUntil.accesskey           "M">
+<!ENTITY  keepUntil.accesskey           "b">
 
 <!ENTITY  expire.label                  "ez echuont">
 <!ENTITY  close.label                   "ma serrin &brandShortName;">
