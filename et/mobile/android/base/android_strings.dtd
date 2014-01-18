@@ -198,7 +198,7 @@ size. -->
 <!ENTITY share_image_failed              "Selle pildi jagamine pole võimalik">
 <!ENTITY save_as_pdf                     "Salvesta PDFina">
 <!ENTITY find_in_page                    "Otsi lehelt">
-<!ENTITY desktop_mode                    "Nõua tavaarvutile mõeldud saiti">
+<!ENTITY desktop_mode                    "Töölaua versioon">
 <!ENTITY tools                           "Tööriistad">
 <!ENTITY new_tab                         "Uus kaart">
 <!ENTITY new_private_tab                 "Uus privaatne kaart">
