@@ -108,4 +108,54 @@
 <!ENTITY sync.text.tab.not.sent.label 'Det uppstod ett problem vid skickandet av fliken.'>
 
 <!-- Firefox Account strings -->
+<!ENTITY firefox.accounts 'Firefox-konton'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
+<!ENTITY fxaccount.policy 'Genom att fortsätta godkänner du &lt;a
+         href="http://mozilla.com"&gt;Tjänstevillkoren&lt;/a&gt; och &lt;a
+         href="http://mozilla.com"&gt;Integritetspolicyn&lt;/a&gt;.'>
+<!ENTITY fxaccount.forgot.password 'Glömt lösenordet?'>
+<!ENTITY fxaccount.create.account.button.label 'Skapa konto'>
+<!ENTITY fxaccount.sign.in.button.label 'Logga in'>
+<!ENTITY fxaccount.email.hint 'E-post'>
+<!ENTITY fxaccount.password.hint 'Lösenord'>
+<!ENTITY fxaccount.password2.hint 'Bekräfta lösenord'>
+<!ENTITY fxaccount.bad.email 'Vi behöver en giltig e-postadress.'>
+<!ENTITY fxaccount.bad.passwords 'Dina lösenord måste matcha.'>
+<!ENTITY fxaccount.sign.in.instead 'Har du redan ett konto? Logga in!'>
+<!ENTITY fxaccount.sign.up.instead 'Har du inget konto? Skapa ett i stället.'>
+
+<!ENTITY fxaccount.sign.in 'Logga in'>
+<!ENTITY fxaccount.create.account 'Skapa ett konto'>
+
+<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Använda &syncBrand.shortName.label; med en äldre version av &brandShortName;?&lt;/a&gt;'>
+
+<!ENTITY fxaccount.when.were.you.born 'När är du född?'>
+<!ENTITY fxaccount.year.of.birth 'Födelseår'>
+
+<!ENTITY fxaccount.icon.contentDescription 'Firefox-kontons ikon'>
+<!ENTITY fxaccount.password.hide 'Dölj'>
+<!ENTITY fxaccount.password.show 'Visa'>
+<!ENTITY fxaccount.get.started 'Kom igång'>
+<!ENTITY fxaccount.description 'Logga in för att säkerhetskopiera och synka alla dina inställningar och bokmärken!'>
+<!ENTITY fxaccount.sign.up 'Skapa konto'>
+
+<!-- Android > Accounts > [Firefox Account] Screen -->
+<!ENTITY fxaccount.options.title 'Alternativ'>
+<!ENTITY fxaccount.options.configure.title 'Inställningar för Firefox-konto'>
+<!ENTITY fxaccount.intro.contentDescription 'Firefox-kontons introduktionsbilder'>
+<!ENTITY fxaccount.confirmation.email.sent 'Bekräftelsemejl skickat!'>
+<!ENTITY fxaccount.mail.contentDescription 'Firefox-kontons brevbild'>
+<!ENTITY fxaccount.confirmation.description 'Din bekräftelselänk väntar på dig:'>
+<!ENTITY fxaccount.offer.resend.confirmation.email 'Ser du ingen e-post? Skicka igen.'>
+<!ENTITY fxaccount.password.length.restriction 'Måste vara minst 8 tecken.'>
+<!ENTITY fxaccount.change.password 'Byt lösenord'>
+<!ENTITY fxaccount.status.needs.verification 'Ditt konto måste bekräftas. Tryck här för att bekräfta och påbörja synkning.'>
+<!ENTITY fxaccount.status.needs.credentials 'Dina kontodetaljer är för gamla. Tryck här för att logga in igen och återuppta synkning.'>
+<!ENTITY fxaccount.status.syncing 'Firefox synkar …'>
+<!ENTITY fxaccount.status.sync 'Synka' >
+<!ENTITY fxaccount.status.bookmarks 'Bokmärken'>
+<!ENTITY fxaccount.status.history 'Historik'>
+<!ENTITY fxaccount.status.passwords 'Lösenord'>
+<!ENTITY fxaccount.status.tabs 'Öppna flikar'>
+<!ENTITY fxaccount.update.credentials 'Uppdatera lösenord'>
+<!ENTITY fxaccount.update.credentials.button.label 'Anslut igen'>
