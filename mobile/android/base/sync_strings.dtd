@@ -149,7 +149,7 @@
 <!ENTITY fxaccount.offer.resend.confirmation.email 'Ser du ingen e-post? Skicka igen.'>
 <!ENTITY fxaccount.password.length.restriction 'Måste vara minst 8 tecken.'>
 <!ENTITY fxaccount.change.password 'Byt lösenord'>
-<!ENTITY fxaccount.status.needs.verification 'Ditt konto måste bekräftas. Tryck här för att bekräfta och påbörja synkning.'>
+<!ENTITY fxaccount.status.needs.verification 'Ditt konto måste verifieras. Tryck här för att verifiera och påbörja synkning.'>
 <!ENTITY fxaccount.status.needs.credentials 'Dina kontodetaljer är för gamla. Tryck här för att logga in igen och återuppta synkning.'>
 <!ENTITY fxaccount.status.syncing 'Firefox synkar …'>
 <!ENTITY fxaccount.status.sync 'Synka' >
