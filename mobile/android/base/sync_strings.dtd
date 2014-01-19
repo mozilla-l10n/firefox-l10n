@@ -49,7 +49,7 @@
 <!ENTITY sync.subtitle.manage.label 'Llogaria juaj &syncBrand.fullName.label; është e rregulluar tashmë. Kaloni te Rregullimet që të administroni llogarinë tuaj.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Ju lutem, riprovoni.'>
+<!ENTITY sync.pair.tryagain.label 'Ju lutemi, riprovoni.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Mundësi'>

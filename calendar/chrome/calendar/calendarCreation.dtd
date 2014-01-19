@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Krijoni kalendar të ri" >
 <!ENTITY wizard.description       "Vendosni kalendarin tuaj" >
 
-<!ENTITY initialpage.description    "Kalendari juaj mund të depozitohet te kompjuteri juaj ose të depozitohet në një shërbyes që të mund ta përdorni së largëti ose për ta ndarë me shokë apo kolegë tuajt." >
+<!ENTITY initialpage.description    "Kalendari juaj mund të depozitohet te kompjuteri juaj ose te një shërbyes që të mund ta përdorni së largëti ose ta ndani me shokë apo kolegë tuajt." >
 <!ENTITY initialpage.computer.label  "Në Kompjuterin Tim">
 <!ENTITY initialpage.network.label  "Në Rrjet">
 
@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Fjalëkalim:" >
 
 <!ENTITY custompage.shortdescription  "Përshtateni kalendarin tuaj" >
-<!ENTITY custompage.longdescription   "Mund t&apos;i jepni kalendarit tuaj një nofkë dhe ngjarjeve prej këtij kalendari ngjyra." >
+<!ENTITY custompage.longdescription   "Mund t&apos;i jepni kalendarit tuaj një nofkë dhe veprimtarive prej këtij kalendari ngjyra." >
 
 <!ENTITY finishpage.shortdescription  "Kalendari u Krijua" >
 <!ENTITY finishpage.longdescription   "Kalendari juaj u krijua." >

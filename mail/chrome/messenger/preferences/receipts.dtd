@@ -22,7 +22,7 @@
 <!ENTITY notInToCc.accesskey           "u">
 <!ENTITY outsideDomain.label           "Nëse dërguesi është jashtë përkatësisë sime:">
 <!ENTITY outsideDomain.accesskey       "d">
-<!ENTITY otherCases.label              "Në tërë rastet e tjera:">
+<!ENTITY otherCases.label              "Në krejt rastet e tjera:">
 <!ENTITY otherCases.accesskey          "N">
 
 <!ENTITY askMe.label                   "Pyetmë">

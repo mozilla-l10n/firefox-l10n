@@ -38,7 +38,7 @@
 <!ENTITY getPassword.tokenName2.label "Pajisje Sigurie:">
 <!ENTITY pipalert.title "Gabim - nuk mund të ndreqet">
 <!ENTITY piperror.title "Gabim">
-<!ENTITY pkcs12.getpassword.message "Ju lutem, jepni fjalëkalimin që qe përdorur për të koduar këtë kopjeruajtje dëshmie.">
+<!ENTITY pkcs12.getpassword.message "Ju lutemi, jepni fjalëkalimin që qe përdorur për të koduar këtë kopjeruajtje dëshmie.">
 <!ENTITY pkcs12.getpassword.title "Dialog Dhënjeje Fjalëkalimesh">
 <!ENTITY pkcs12.setpassword.label1 "Fjalëkalim kopjeruajtjeje dëshmish:">
 <!ENTITY pkcs12.setpassword.label2 "Fjalëkalim kopjeruajtjeje dëshmish (sërish):">
@@ -54,7 +54,7 @@
 <!ENTITY pref.security.general.rHeader "Rregullime për siguri të përgjithshme">
 <!ENTITY resetPassword.text "Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyça vetjakë do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?">
 <!ENTITY resetPassword.title "Ricaktoni Fjalëkalimin e Përgjithshëm">
-<!ENTITY serverCrlNextupdate.message "Ju lutem, kërkoni ndihmë nga përgjegjësi i sistemit tuaj">
+<!ENTITY serverCrlNextupdate.message "Ju lutemi, kërkoni ndihmë nga përgjegjësi i sistemit tuaj">
 <!ENTITY setPassword.meter.label "Matës cilësie fjalëkalimesh">
 <!ENTITY setPassword.meter.loading "Po ngarkohet">
 <!ENTITY setPassword.newPassword.label "Fjalëkalimi i ri:">
@@ -64,8 +64,8 @@
 <!ENTITY setPassword.tokenName.label "Pajisje Sigurie">
 <!ENTITY examineCert.accesskey "S">
 <!ENTITY resetPasswordButtonLabel "Ricaktoje">
-<!ENTITY protectedAuth.title "Mirëfilltësim me &quot;Token&quot; i Mbrojtur">
-<!ENTITY protectedAuth.msg "Ju lutem, kryeni mirëfilltësimin karshi &quot;token&quot;-it. Metoda e mirëfilltësimit varet nga lloji i &quot;token&quot;-it tuaj.">
+<!ENTITY protectedAuth.title "Mirëfilltësim me &quot;Token&quot; të Mbrojtur">
+<!ENTITY protectedAuth.msg "Ju lutemi, kryeni mirëfilltësimin karshi token-it. Metoda e mirëfilltësimit varet nga lloji i token-it tuaj.">
 <!ENTITY protectedAuth.tokenName.label "&quot;Token&quot;:">
 <!ENTITY examineCert.label "Shihni Dëshmi">
 <!ENTITY certErrorDlg.title "Lidhja e Sigurt Dështoi">

@@ -19,7 +19,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Mesazhe më tepër se">
 <!ENTITY nntpDownloadMsg.accesskey "s">
-<!ENTITY retentionCleanup.label "Për të ripasur hapësirë disku, mesazhet e vjetër mund të fshihen përfundimisht">
+<!ENTITY retentionCleanup.label "Për të ripatur hapësirë disku, mesazhet e vjetër mund të fshihen përfundimisht">
 <!ENTITY retentionKeepMsg.label "Fshi mesazhe më të vjetër se">
 <!ENTITY retentionKeepMsg.accesskey "f">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
@@ -28,9 +28,9 @@
 <!ENTITY retentionKeepRecent.accesskey "t">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Fshi përherë mesazhet e lexuar (anashkalon rregullimet kohore)">
-<!ENTITY nntpRemoveMsgBody.label "Hiqe përmbajtjen prej mesazhesh më të vjetër se">
+<!ENTITY nntpRemoveMsgBody.label "Hiqe lëndën prej mesazhesh më të vjetër se">
 <!ENTITY nntpRemoveMsgBody.accesskey "H">
-<!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i palidhur…">
+<!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim jashtë linje…">
 <!ENTITY diskspaceGroupTitle.label "Vend në Disk">
 <!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
 <!ENTITY retentionApplyToFlagged.accesskey "y">
@@ -58,5 +58,5 @@
 
 <!ENTITY autosyncNotDownload.label "Mos shkarko mesazhe më të mëdhenj se">
 <!ENTITY autosyncNotDownload.accesskey "M">
-<!ENTITY doNotDownloadImap.label "Për të kursyer vend në disk, shkarkimi i mesazheve prej shërbyesit dhe mbajtja e kopjeve vendore për përdorim &quot;offline&quot; mund të kufizohet sipas moshës ose madhësisë.">
-<!ENTITY doNotDownloadNntp.label "Për të kursyer vend në disk, mos i shkarko për përdorim &quot;offline&quot;:">
+<!ENTITY doNotDownloadImap.label "Për të kursyer vend në disk, shkarkimi i mesazheve prej shërbyesit dhe mbajtja e kopjeve vendore për përdorim jashtë linje mund të kufizohet sipas moshës ose madhësisë.">
+<!ENTITY doNotDownloadNntp.label "Për të kursyer vend në disk, mos i shkarko për përdorim jashtë linje:">

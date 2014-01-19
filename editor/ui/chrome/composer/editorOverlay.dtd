@@ -17,9 +17,9 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
-<!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim e Sipër">
+<!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkrimi Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
-<!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
+<!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkrimi">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -72,28 +72,28 @@
 <!ENTITY decreaseFontSize.accesskey "v">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "Më të mëdhaja">
+<!ENTITY increaseFontSize.label "Më të mëdha">
 <!ENTITY increaseFontSize.accesskey "m">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 
 <!ENTITY fontSizeMenu.label "Madhësi">
-<!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "xx-small">
+<!ENTITY fontSizeMenu.accesskey "d">
+<!ENTITY size-xx-smallCmd.label "xx-të-vogla">
 <!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-small">
-<!ENTITY size-x-smallCmd.accesskey "m">
-<!ENTITY size-smallCmd.label "small">
-<!ENTITY size-smallCmd.accesskey "s">
-<!ENTITY size-mediumCmd.label "medium">
-<!ENTITY size-mediumCmd.accesskey "d">
-<!ENTITY size-largeCmd.label "large">
-<!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-large">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-large">
-<!ENTITY size-xx-largeCmd.accesskey "e">
+<!ENTITY size-x-smallCmd.label "x-të-vogla">
+<!ENTITY size-x-smallCmd.accesskey "l">
+<!ENTITY size-smallCmd.label "të vogla">
+<!ENTITY size-smallCmd.accesskey "o">
+<!ENTITY size-mediumCmd.label "mesatare">
+<!ENTITY size-mediumCmd.accesskey "s">
+<!ENTITY size-largeCmd.label "të mëdha">
+<!ENTITY size-largeCmd.accesskey "t">
+<!ENTITY size-x-largeCmd.label "x-të-mëdha">
+<!ENTITY size-x-largeCmd.accesskey "ë">
+<!ENTITY size-xx-largeCmd.label "xx-të-mëdha">
+<!ENTITY size-xx-largeCmd.accesskey "h">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil Teksti">
@@ -194,8 +194,8 @@
 <!ENTITY alignLeft.label "Majtas">
 <!ENTITY alignLeft.accesskey "M">
 <!ENTITY alignLeft.tooltip "Vendoseni Majtas">
-<!ENTITY alignCenter.label "Qendër">
-<!ENTITY alignCenter.accesskey "Q">
+<!ENTITY alignCenter.label "Në Qendër">
+<!ENTITY alignCenter.accesskey "N">
 <!ENTITY alignCenter.tooltip "Vendoseni në Qendër">
 <!ENTITY alignRight.label "Djathtas">
 <!ENTITY alignRight.accesskey "D">
@@ -234,7 +234,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "F">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Fut">
+<!ENTITY tableInsertMenu.label "Futni">
 <!ENTITY tableInsertMenu.accesskey "F">
 <!ENTITY tableTable.label "Tabelë">
 <!ENTITY tableTable.accesskey "T">
@@ -255,7 +255,7 @@
 <!ENTITY tableCell.label "Kuti">
 <!ENTITY tableCells.label "Kuti">
 <!ENTITY tableCell.accesskey "K">
-<!ENTITY tableCellContents.label "Përmbajtje Kutie">
+<!ENTITY tableCellContents.label "Lëndë Kutie">
 <!ENTITY tableCellContents.accesskey "b">
 <!ENTITY tableAllCells.label "Tërë Kutitë">
 <!ENTITY tableAllCells.accesskey "u">
@@ -305,7 +305,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
-<!ENTITY throbber.tooltip "Shko tek faqja hyrëse e &vendorShortName;-it">
+<!ENTITY throbber.tooltip "Shko tek kreu i &vendorShortName;-it">
 <!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->
@@ -334,12 +334,12 @@
 <!ENTITY structChangeTag.accesskey  "N">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "Fut">
+<!ENTITY insertTOC.label          "Futni">
 <!ENTITY insertTOC.accesskey      "F">
 <!ENTITY updateTOC.label          "Përditësoje">
 <!ENTITY updateTOC.accesskey      "P">
 <!ENTITY removeTOC.label          "Hiqe">
 <!ENTITY removeTOC.accesskey      "H">
-<!ENTITY tocMenu.label            "Përmbajtje…">
-<!ENTITY tocMenu.accesskey        "m">
+<!ENTITY tocMenu.label            "Lëndë…">
+<!ENTITY tocMenu.accesskey        "L">
 

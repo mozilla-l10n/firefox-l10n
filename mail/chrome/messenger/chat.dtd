@@ -36,9 +36,9 @@
 <!ENTITY joinChatButton.label          "Hyr Në Fjalosje">
 <!ENTITY chatAccountsButton.label      "Shfaq Llogaritë">
 
-<!ENTITY status.available          "I passhëm">
-<!ENTITY status.unavailable        "Jo i passhëm">
-<!ENTITY status.offline            "I palidhur">
+<!ENTITY status.available          "I lirë">
+<!ENTITY status.unavailable        "Jo i lirë">
+<!ENTITY status.offline            "Jo në linjë">
 
 <!ENTITY openLinkCmd.label            "Hapni Lidhje…">
 <!ENTITY openLinkCmd.accesskey        "H">

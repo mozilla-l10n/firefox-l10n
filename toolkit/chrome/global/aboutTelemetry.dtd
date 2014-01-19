@@ -29,8 +29,9 @@
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Shkrime të Vonshme
+  Shkrime të Vonëshme
 ">
+
 
 <!ENTITY aboutTelemetry.systemInfoSection "
   Të dhëna Sistemi
@@ -41,11 +42,11 @@
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
-  Klikoni që të zgjerohet ndarja
+  Klikojeni që të zgjerohet ndarja
 ">
 
 <!ENTITY aboutTelemetry.toggleOff "
-  Klikoni që të tkurret ndarja
+  Klikojeni që të tkurret ndarja
 ">
 
 <!ENTITY aboutTelemetry.emptySection "

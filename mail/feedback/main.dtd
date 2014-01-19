@@ -21,7 +21,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studime të Përfunduara">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Ç'Panë Studimet">
 <!ENTITY testpilot.studiesWindow.settings.label         "Rregullime">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutem, prisni…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutemi, prisni…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Të Dhëna të Papërpunuara">
@@ -36,5 +36,5 @@
 <!ENTITY testpilot.sad.label                            "Firefox-i Më Trishtoi, Ngaqë…">
 <!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird-i Më Kënaqi, Ngaqë…">
 <!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird-i Më Trishtoi, Ngaqë…">
-<!ENTITY testpilot.broken.label                         "Njoftoni për këtë site web si të dëmtuar…">
+<!ENTITY testpilot.broken.label                         "Njoftoni për këtë sajt web si të dëmtuar…">
 <!ENTITY testpilot.idea.label                           "Na jepni një këshillë…">

@@ -43,9 +43,9 @@
 <!ENTITY modelMoveToTrash.accesskey "s">
 <!ENTITY modelMarkDeleted.label "Thjesht shënoje si të fshirë">
 <!ENTITY modelMarkDeleted.accesskey "t">
-<!ENTITY modelDeleteImmediately.label "Hiqe atypëraty">
+<!ENTITY modelDeleteImmediately.label "Hiqe aty për aty">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Gjatë daljes Pastro (&quot;Fshij&quot;) Të Marrët">
+<!ENTITY expungeOnExit.label "Gjatë daljes Pastro (&quot;Fshiji&quot;) Të Marrët">
 <!ENTITY expungeOnExit.accesskey "P">
 <!ENTITY emptyTrashOnExit.label "Zbrazi Hedhurinat Gjatë Daljes">
 <!ENTITY emptyTrashOnExit.accesskey "Z">

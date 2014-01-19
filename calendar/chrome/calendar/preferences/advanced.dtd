@@ -21,7 +21,7 @@
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "F">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName;-i mund të mbajë mend të dhëna fjalëkalimesh për tërë kalendarët tuaj, që kështu të mos keni nevojë të rifusni të dhënat tuaja për hyrje.">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName;-i mund të mbajë mend të dhëna fjalëkalimesh për tërë kalendarët tuaj, që kështu të mos keni nevojë të rifutni të dhënat tuaja për hyrje.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Përdor një Fjalëkalim të Përgjithshëm për të koduar fjalëkalimet e depozituar">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Po qe caktuar, Fjalëkalimi i Përgjithshëm mbron tërë fjalëkalimet tuaj, por duhet ta jepni një herë për sesion.">
