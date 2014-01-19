@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Összeomlás-jelentő">
 <!ENTITY optionsHeader.reporting.crashes.label                   "A &brandShortName; összeomlás-jelentéseket küld, hogy a Mozilla stabilabbá és biztonságosabbá tehesse a böngészőjét">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "A meglátogatott oldal címének csatolása">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">
 <!ENTITY optionsHeader.telemetry.label                            "Használati statisztikákat oszt meg a &brandShortName;ról a Mozillaval, így segít jobbá tennünk a böngészőjét">
