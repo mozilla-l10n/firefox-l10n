@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Szeretne hibabejelentéseket küldeni a Mozillának?">
+<!ENTITY crashprompt.message         "Elnézést, a &brandShortName; helyreállt egy összeomlás után. A hibabejelentések küldésével segíti a Mozillát a &brandShortName; stabilabbá és biztonságosabbá tételében. Az érték megváltoztatható a Beállítások alatt.">
+<!ENTITY crashprompt.detailsLink     "Mit tartalmaz egy hibajelentés?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "A hibajelentés az összeomlással és a számítógépével kapcsolatos adatokat, valamint a böngésző állapotának az összeomláskor készített pillanatképét tartalmazza.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Ebbe a nyitott oldalak, űrlapokba beírt szöveg, és a nyitott üzenetek tartalma, a legutóbbi böngészési előzmények vagy a földrajzi hely egy oldallal megosztott adatai tartozhatnak.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "A hibajelentéseket a problémák megoldására és termékeink továbbfejlesztésére használjuk. Adatait a ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; Adatvédelmi Irányelvekben leírtak szerint kezeljük.">
+<!ENTITY crashprompt.includeURLLabel "A meglátogatott oldal címének csatolása">
+<!ENTITY crashprompt.acceptbutton    "Jelentések küldése">
+<!ENTITY crashprompt.refusebutton    "Ne küldje">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; Adatvédelmi Irányelvek">
