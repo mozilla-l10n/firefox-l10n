@@ -20,6 +20,10 @@
   Blocages du navigateur
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Blocages des fils d'exécution
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammes
 ">
