@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme kur përpiqeni
   të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
-  rreth &brandShortName;-it, shihni te <a id='supportLink'>site-i ynë web i asistencës</a>.
+  rreth &brandShortName;-it, shihni te <a id='supportLink'>sajti ynë web i asistencës</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Zgjerime">
@@ -41,7 +41,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Shfaqe te Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Shfaq Drejtorinë">
+<!ENTITY aboutSupport.showWin.label "Shfaq Dosjen">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Parapëlqime të Rëndësishme të Ndryshuara">
 <!ENTITY aboutSupport.modifiedPrefsName "Emër">

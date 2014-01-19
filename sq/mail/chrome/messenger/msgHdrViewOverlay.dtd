@@ -19,11 +19,11 @@
 <!ENTITY referencesField3.label "Referenca ">
 <!ENTITY messageIdField3.label "ID mesazhi ">
 <!ENTITY inReplyToField3.label "Në përgjigje të ">
-<!ENTITY originalWebsite3.label "&quot;Site&quot; web ">
+<!ENTITY originalWebsite3.label "Sajt web ">
 
 <!ENTITY editMessageDescription.label "Kjo është një skicë mesazhi">
 <!ENTITY editMessageButton.label "Përpunojeni…">
-<!ENTITY hdrArchiveButton1.label "Arkivë">
+<!ENTITY hdrArchiveButton1.label "Arkiv">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
 <!ENTITY hdrSmartReplyButton1.label "Përgjigje e Mençur">
 <!ENTITY hdrReplyButton1.label "Përgjigjuni">
@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey "y">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Shfaqe Fillimisht Kuadratin e Bashkangjitjeve">
+<!ENTITY startExpandedCmd.label    "Shfaqe Fillimisht Kuadratin e Bashkëngjitjeve">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
@@ -90,13 +90,13 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Fshijini Krejt…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "F">
 
-<!ENTITY openAttachment.tooltip "Hapni kartelën e bashkangjitur">
+<!ENTITY openAttachment.tooltip "Hapni kartelën e bashkëngjitur">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Ruaje">
-<!ENTITY saveAttachmentButton1.tooltip     "Ruajeni kartelën e bashkangjitur">
+<!ENTITY saveAttachmentButton1.tooltip     "Ruajeni kartelën e bashkëngjitur">
 <!ENTITY saveAllAttachmentsButton1.label   "Ruaji Krejt">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Ruajini krejt kartelat e bashkangjitura">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Ruajini krejt kartelat e bashkëngjitura">
 
 <!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey    "K">

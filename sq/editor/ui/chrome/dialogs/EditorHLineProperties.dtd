@@ -14,8 +14,8 @@
 <!ENTITY alignmentBox.label "Drejtim">
 <!ENTITY leftRadio.label "Majtas">
 <!ENTITY leftRadio.accessKey "M">
-<!ENTITY centerRadio.label "Qendër">
-<!ENTITY centerRadio.accessKey "Q">
+<!ENTITY centerRadio.label "Në Qendër">
+<!ENTITY centerRadio.accessKey "N">
 <!ENTITY rightRadio.label "Djathtas">
 <!ENTITY rightRadio.accessKey "D">
 <!ENTITY threeDShading.label "Hijezim 3-D">

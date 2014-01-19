@@ -31,9 +31,9 @@
 <!ENTITY goOfflineCmd.label "Puno i Palidhur">
 <!ENTITY goOfflineCmd.accesskey "o">
 
-<!ENTITY menubarCmd.label "Panel Menush">
+<!ENTITY menubarCmd.label "Shtyllë Menush">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Panel Lundrimi">
+<!ENTITY navbarCmd.label "Panel Lëvizjesh">
 <!ENTITY navbarCmd.accesskey "L">
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
 <!ENTITY personalbarCmd.accesskey "F">
@@ -61,7 +61,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
 <!ENTITY fullScreenClose.tooltip "Mbylleni">
 <!ENTITY closeWindow.label "Mbylle Dritaren">
-<!ENTITY bookmarksMenu.label "Faqerojtësa">
+<!ENTITY bookmarksMenu.label "Faqerojtës">
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY sharePageCmd.commandkey "t">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
@@ -85,32 +85,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ndalni ngarkimin e kësaj faqeje">
-
-<!ENTITY goEndCap.tooltip             "Shkoni te vendndodhja e dhënë te Shtylla e Vendeve">
+<!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendeve">
 <!ENTITY printButton.label            "Shtype">
-<!ENTITY printButton.tooltip          "Shtypni këtë faqe">
+<!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
 
 <!ENTITY backForwardItem.title        "Mbrapsht/Përpara">
 <!ENTITY locationItem.title           "Vendndodhje">
 <!ENTITY searchItem.title             "Kërkoni">
 <!ENTITY throbberItem.title           "Tregues Veprimtarie">
-<!ENTITY bookmarksItem.title          "Faqerojtësa">
+<!ENTITY bookmarksItem.title          "Faqerojtës">
                               
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
 <!ENTITY appMenuButton.tooltip        "Hapni menunë e &brandShortName;-it">
-<!ENTITY  homeButton.label            "Hyrje">
+<!ENTITY  homeButton.label            "Kreu">
 
-<!ENTITY tabGroupsButton.label        "Grupe Skedash">
+<!ENTITY tabGroupsButton.label        "Gruponi Skeda">
 <!ENTITY tabGroupsButton.tooltip      "Gruponi skedat tuaja">
 
 <!ENTITY feedButton.label             "Pajtohuni">
 <!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
 
 
-<!ENTITY bookmarksButton.label          "Faqerojtësa">
+<!ENTITY bookmarksButton.label          "Faqerojtës">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
-<!ENTITY bookmarksMenuButton.unsorted.label "Faqerojtësa të Parenditur">
+<!ENTITY bookmarksMenuButton.unsorted.label "Faqerojtës të Parenditur">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -189,15 +188,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtasni…"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtatni…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P"> 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
-<!ENTITY historyUndoMenu.label "Skeda të Mbyllyra së Fundmi">
+<!ENTITY historyUndoMenu.label "Skeda të Mbyllura së Fundmi">
 <!ENTITY historyHomeCmd.label "Hyrje">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Bëni kërkim ose jepni adresë">
 <!ENTITY urlbar.accesskey             "K">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
@@ -257,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "D">
 <!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kornize">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY viewImageCmd.label           "Shihni Figurë">
+<!ENTITY viewImageCmd.label           "Shiheni Figurën">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Shihni Figurë Sfondi">
 <!ENTITY viewBGImageCmd.accesskey     "i">
@@ -280,12 +278,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
-<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY playPluginCmd.label          "Aktivizoje këtë shtojcë">
 <!ENTITY playPluginCmd.accesskey      "A">
 <!ENTITY hidePluginCmd.label          "Fshihe këtë shtojcë">
 <!ENTITY hidePluginCmd.accesskey      "F">
+<!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Figure">
@@ -302,7 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyButton.tooltip             "Kopjojeni">
 <!ENTITY pasteButton.tooltip            "Ngjiteni">
 <!ENTITY quitApplicationCmdWin.label       "Dil"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
+<!ENTITY quitApplicationCmdWin.accesskey   "l">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Dil"> 
@@ -316,9 +314,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageStyleMenu.accesskey "S">
 <!ENTITY pageStyleNoStyle.label "Pa Stil">
 <!ENTITY pageStyleNoStyle.accesskey "P">
-<!ENTITY pageStylePersistentOnly.label "Stil Fillestar Faqeje">
+<!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë &quot;website&quot;">
+<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt web">
+
 <!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -340,7 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY spellAddDictionaries.label "Shtoni fjalorë…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "S">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY closeWindow.accesskey "D">
@@ -394,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtësa">
+<!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtës">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
@@ -409,20 +408,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mediaMute.accesskey         "A">
 <!ENTITY mediaUnmute.label           "Me Zë">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-<!ENTITY mediaPlaybackRate.label     "Shpejtësi Loje">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Lëvizje e Ngadaltë (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "a">
-<!ENTITY mediaPlaybackRate100x.label "Shpejtësi Normale">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Shpejtësi e Madhe (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "M">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Shpejtësi të Marrësh (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "r">
 <!ENTITY mediaShowControls.label     "Shfaqi Kontrollet">
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
@@ -473,7 +458,7 @@ fast. -->
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
 <!ENTITY  bookmarkAllTabs.accesskey          "S">
 
-<!ENTITY bookmarksMenuButton.label          "Faqerojtësa">
+<!ENTITY bookmarksMenuButton.label          "Faqerojtës">
 <!ENTITY bookmarksMenuButton.tooltip        "Shfaqni faqerojtësit tuaj">
 
 <!ENTITY  closeTab.label                     "Mbylle Skedën">
@@ -503,6 +488,8 @@ fast. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Skedash shfletuesi">
+
+<!ENTITY urlbar.placeholder2          "Kërkoni ose jepni një adresë">
 
 <!ENTITY viewBookmarksSidebar.label         "Shfaqe në Anështyllë">
 <!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
@@ -617,8 +604,6 @@ can reach it easily. -->
 <!ENTITY social.chatBar.label "Përqendrohu te fjalosjet">
 <!ENTITY social.chatBar.accesskey "f">
 
-<!ENTITY social.addons.label "Administroni Shërbime…">
-
 <!ENTITY getUserMedia.selectCamera.label "Kamera për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
@@ -628,6 +613,4 @@ can reach it easily. -->
 <!ENTITY webrtcIndicatorButton.tooltip "Shfaqni site-et me të cilët ndani kameran ose mikrofonin">
 
 <!ENTITY mixedContentBlocked.helplink "Mësoni më tepër">
-<!ENTITY mixedContentBlocked.moreinfo "Shumica e site-ve web prapë do të funksionojnë si duhet, edhe kur kjo bllokohet kjo lëndë.">
-
-<!ENTITY pointerLock.notification.message "Shtypni ESC, në çfarëdo çasti, që të rishfaqet.">
+<!ENTITY mixedContentBlocked.moreinfo "Shumica e site-eve web prapë do të funksionojnë si duhet, edhe kur bllokohet kjo lëndë.">

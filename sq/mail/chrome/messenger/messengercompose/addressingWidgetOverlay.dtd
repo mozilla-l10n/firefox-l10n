@@ -9,5 +9,5 @@
 <!ENTITY bccAddr.label  "Bcc:"> 
 <!ENTITY replyAddr.label   "Përgjigju:"> 
 <!ENTITY newsgroupsAddr.label   "Grup Lajmesh:"> 
-<!ENTITY followupAddr.label   "Followup-To:"> 
+<!ENTITY followupAddr.label   "Vazhdimi-Te:"> 
 
