@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Веб-програм не встановлено. Завітайте по них у ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Вилучити">
+<!ENTITY aboutApps.addToHomescreen "Додати на домашню сторінку">

@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Вимкнути">
 <!ENTITY addonAction.uninstall                  "Вилучити">
 <!ENTITY addonAction.undo                       "Повернути">
+<!ENTITY addonAction.setDefault                 "Встановити типовим">

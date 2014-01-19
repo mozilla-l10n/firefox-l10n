@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Перевірити оновлення »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
 <!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
-<!ENTITY aboutPage.checkForUpdates.found        "Доступне оновлення">
+<!ENTITY aboutPage.checkForUpdates.available2   "Завантажити оновлення">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Завантаження оновлення…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Встановити оновлення">
 <!ENTITY aboutPage.faq.label                    "ЧаП">
 <!ENTITY aboutPage.support.label                "Підтримка">
 <!ENTITY aboutPage.privacyPolicy.label          "Угода конфіденційності">
