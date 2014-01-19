@@ -110,10 +110,10 @@
 <!-- Firefox Account strings -->
 <!ENTITY firefox.accounts 'Comptes Firefox'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy 'En continuant vous acceptez les &lt;a
+<!ENTITY fxaccount.policy "En continuant vous acceptez les &lt;a
          href=\'http://mozilla.com\'&gt;conditions d\&apos;utilisation&lt;/a&gt; et la &lt;a
-         href=\'http://mozilla.com\'&gt;politique de confidentialité&lt;/a&gt;.'>
-<!ENTITY fxaccount.forgot.password 'Mot de passe oublié\&nbsp;?'>
+         href=\'http://mozilla.com\'&gt;politique de confidentialité&lt;/a&gt;.">
+<!ENTITY fxaccount.forgot.password 'Mot de passe oublié ?'>
 <!ENTITY fxaccount.create.account.button.label 'Créer un compte'>
 <!ENTITY fxaccount.sign.in.button.label 'Connexion'>
 <!ENTITY fxaccount.email.hint 'Adresse électronique'>
@@ -121,15 +121,15 @@
 <!ENTITY fxaccount.password2.hint 'Confirmer le mot de passe'>
 <!ENTITY fxaccount.bad.email 'Une adresse électronique valide est nécessaire.'>
 <!ENTITY fxaccount.bad.passwords 'Vos mots de passe doivent correspondre.'>
-<!ENTITY fxaccount.sign.in.instead 'Vous possédez déjà un compte\&nbsp;? Vous pouvez vous y connecter.'>
-<!ENTITY fxaccount.sign.up.instead 'Vous ne possédez pas de compte\&nbsp;? Vous pouvez en créer un.'>
+<!ENTITY fxaccount.sign.in.instead 'Vous possédez déjà un compte ? Vous pouvez vous y connecter.'>
+<!ENTITY fxaccount.sign.up.instead 'Vous ne possédez pas de compte ? Vous pouvez en créer un.'>
 
 <!ENTITY fxaccount.sign.in 'Connexion'>
 <!ENTITY fxaccount.create.account 'Créer un compte'>
 
-<!ENTITY fxaccount.old.firefox '&lt;a href=\'http://mozilla.com\'&gt;Vous utilisez &syncBrand.shortName.label; avec une version précédente de &brandShortName;\&nbsp;?&lt;/a&gt;'>
+<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Vous utilisez &syncBrand.shortName.label; avec une version précédente de &brandShortName; ?&lt;/a&gt;">
 
-<!ENTITY fxaccount.when.were.you.born 'Quelle est votre année de naissance\&nbsp;?'>
+<!ENTITY fxaccount.when.were.you.born 'Quelle est votre année de naissance ?'>
 <!ENTITY fxaccount.year.of.birth 'Année de naissance'>
 
 <!ENTITY fxaccount.icon.contentDescription 'Icône des comptes Firefox'>
@@ -145,13 +145,13 @@
 <!ENTITY fxaccount.intro.contentDescription 'Graphiques introductifs aux comptes Firefox'>
 <!ENTITY fxaccount.confirmation.email.sent 'Courriel de confirmation envoyé.'>
 <!ENTITY fxaccount.mail.contentDescription 'Enveloppe graphique des comptes Firefox'>
-<!ENTITY fxaccount.confirmation.description 'Votre lien de confirmation est en attente à l\&apos;adresse\&nbsp;:'>
-<!ENTITY fxaccount.offer.resend.confirmation.email 'Aucun courriel reçu\&nbsp;? Envoyez-le à nouveau.'>
+<!ENTITY fxaccount.confirmation.description 'Votre lien de confirmation est en attente à l\&apos;adresse :'>
+<!ENTITY fxaccount.offer.resend.confirmation.email 'Aucun courriel reçu ? Envoyez-le à nouveau.'>
 <!ENTITY fxaccount.password.length.restriction 'Doit contenir au moins 8 caractères.'>
 <!ENTITY fxaccount.change.password 'Modifier le mot de passe'>
 <!ENTITY fxaccount.status.needs.verification 'Votre compte doit être vérifié. Appuyez ici pour le vérifier et démarrer la synchronisation.'>
 <!ENTITY fxaccount.status.needs.credentials 'Les détails de votre compte ne sont pas à jour. Appuyez ici pour vous connecter à nouveau et reprendre la synchronisation.'>
-<!ENTITY fxaccount.status.syncing 'Firefox est en cours de synchronisation\&hellip;'>
+<!ENTITY fxaccount.status.syncing 'Firefox est en cours de synchronisation…'>
 <!ENTITY fxaccount.status.sync 'Synchronisation' >
 <!ENTITY fxaccount.status.bookmarks 'Marque-pages'>
 <!ENTITY fxaccount.status.history 'Historique'>
