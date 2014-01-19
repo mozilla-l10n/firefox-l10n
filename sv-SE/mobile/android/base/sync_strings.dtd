@@ -110,9 +110,9 @@
 <!-- Firefox Account strings -->
 <!ENTITY firefox.accounts 'Firefox-konton'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy 'Genom att fortsätta godkänner du &lt;a
-         href="http://mozilla.com"&gt;Tjänstevillkoren&lt;/a&gt; och &lt;a
-         href="http://mozilla.com"&gt;Integritetspolicyn&lt;/a&gt;.'>
+<!ENTITY fxaccount.policy "Genom att fortsätta godkänner du &lt;a
+         href=\'http://mozilla.com\'&gt;Tjänstevillkoren&lt;/a&gt; och &lt;a
+         href=\'http://mozilla.com\'&gt;Integritetspolicyn&lt;/a&gt;.">
 <!ENTITY fxaccount.forgot.password 'Glömt lösenordet?'>
 <!ENTITY fxaccount.create.account.button.label 'Skapa konto'>
 <!ENTITY fxaccount.sign.in.button.label 'Logga in'>
@@ -127,7 +127,7 @@
 <!ENTITY fxaccount.sign.in 'Logga in'>
 <!ENTITY fxaccount.create.account 'Skapa ett konto'>
 
-<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Använda &syncBrand.shortName.label; med en äldre version av &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Använda &syncBrand.shortName.label; med en äldre version av &brandShortName;?&lt;/a&gt;">
 
 <!ENTITY fxaccount.when.were.you.born 'När är du född?'>
 <!ENTITY fxaccount.year.of.birth 'Födelseår'>
