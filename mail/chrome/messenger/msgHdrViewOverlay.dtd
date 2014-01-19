@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Válasz erre">
 <!ENTITY originalWebsite4.label "Webhely">
 
-<!ENTITY editMessageDescription.label "Ez egy piszkozat">
-<!ENTITY editMessageButton.label "Szerkesztés…">
 <!ENTITY hdrArchiveButton1.label "Archiválás">
 <!ENTITY hdrArchiveButton1.tooltip "Üzenet archiválása">
 <!ENTITY hdrSmartReplyButton1.label "Intelligens válasz">

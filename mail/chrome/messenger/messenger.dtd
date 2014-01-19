@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Továbbítás beágyazva">
 <!ENTITY buttonMenuForwardAsAttachment.label "Továbbítás mellékletként">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Távoli tartalom megjelenítése ebben az üzenetben">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
+<!ENTITY remoteContentOptionAllowForAddress.label "Távoli tartalom megjelenítése ettől a feladótól">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Figyelmeztetés mellőzése ehhez az üzenethez">
+<!ENTITY phishingOptionIgnore.accesskey "m">
+<!ENTITY phishingOptionDisableDetection.label "Egyik üzenetben se keressen becsapást.">
+<!ENTITY phishingOptionDisableDetection.accesskey "k">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
 <!ENTITY appmenuNewContactCmd.label "Névjegy…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "N">
 <!ENTITY contextUnmute.label "Hang be">
 <!ENTITY contextUnmute.accesskey "H">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "A &brandShortName; szerint ez az üzenet levélszemét.">
-<!ENTITY junkBarButton1.label "Nem szemét">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Adatvédelmi okokból a &brandShortName; blokkolta a távoli tartalmakat ebben az üzenetben.">
-<!ENTITY loadRemoteContentButton3.label "Távoli tartalom megjelenítése">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Ez az üzenet becsapós lehet.">
-<!ENTITY removePhishingBarButton1.label "Figyelmen kívül hagyás">
-<!ENTITY disablePhishingWarning1.label "Egyik üzenetben se keressen becsapást.">
-<!ENTITY reportPhishingError1.label "Ez az üzenet nem tűnik becsapósnak.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Kihagyás">
-<!ENTITY mdnBarIgnoreButton2.accesskey "K">
-<!ENTITY mdnBarSendButton2.label "Tértivevény küldése">
-<!ENTITY mdnBarSendButton2.accesskey "T">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
