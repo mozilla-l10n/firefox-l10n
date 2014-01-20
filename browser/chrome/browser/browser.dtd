@@ -321,7 +321,7 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey "б">
 <!ENTITY emailPageCmd.label "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey "п">
-<!ENTITY switchToMetroCmd.label "Перезапуститься в &brandShortName; в стиле Windows 8">
+<!ENTITY switchToMetroCmd.label "Перезапустить &brandShortName; в стиле Windows 8">
 <!ENTITY savePageCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.accesskey2 "р">
