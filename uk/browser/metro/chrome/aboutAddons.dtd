@@ -14,5 +14,5 @@
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
 <!ENTITY aboutAddons.goBackToStartStart "Повернутись на ">
-<!ENTITY aboutAddons.goBacktoStartLink  "Почтакову сторінку &brandShortName;">
+<!ENTITY aboutAddons.goBacktoStartLink  "Початкову сторінку &brandShortName;">
 <!ENTITY aboutAddons.goBacktoStartEnd   ".">
