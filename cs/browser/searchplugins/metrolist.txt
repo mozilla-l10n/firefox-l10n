@@ -1,6 +1,6 @@
 googlemetrofx
 heureka-cz
-jyxo-cz
+mapy-cz
 seznam-cz
 slunecnice-cz
 wikipedia-cz
