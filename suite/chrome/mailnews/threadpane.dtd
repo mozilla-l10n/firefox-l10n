@@ -23,23 +23,23 @@
 <!ENTITY idColumn.label "Ordre de réception">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Sélectionner les colonnes à afficher">
-<!ENTITY threadColumn.tooltip "Afficher les fils de discussion">
-<!ENTITY fromColumn.tooltip "Trier par expéditeur">
-<!ENTITY recipientColumn.tooltip "Trier par destinataire">
-<!ENTITY attachmentColumn.tooltip "Trier par pièces jointes">
-<!ENTITY subjectColumn.tooltip "Trier par sujet">
-<!ENTITY dateColumn.tooltip "Trier par date">
-<!ENTITY priorityColumn.tooltip "Trier par priorité">
-<!ENTITY tagsColumn.tooltip "Trier par étiquette">
-<!ENTITY accountColumn.tooltip "Trier par compte">
-<!ENTITY statusColumn.tooltip "Trier par statut">
-<!ENTITY sizeColumn.tooltip "Trier par taille">
-<!ENTITY junkStatusColumn.tooltip "Trier par statut d'indésirable">
-<!ENTITY unreadColumn.tooltip "Nombre de messages non lus dans le fil">
-<!ENTITY totalColumn.tooltip "Nombre total de messages dans le fil">
-<!ENTITY readColumn.tooltip "Trier par état de lecture">
-<!ENTITY receivedColumn.tooltip "Trier par date de réception">
-<!ENTITY flagColumn.tooltip "Trier par état de cochage">
-<!ENTITY locationColumn.tooltip "Trier par adresse">
-<!ENTITY idColumn.tooltip "Trier par ordre reçu">
+<!ENTITY columnChooser2.tooltip "Sélectionner les colonnes à afficher">
+<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion">
+<!ENTITY fromColumn2.tooltip "Trier par expéditeur">
+<!ENTITY recipientColumn2.tooltip "Trier par destinataire">
+<!ENTITY attachmentColumn2.tooltip "Trier par pièces jointes">
+<!ENTITY subjectColumn2.tooltip "Trier par sujet">
+<!ENTITY dateColumn2.tooltip "Trier par date">
+<!ENTITY priorityColumn2.tooltip "Trier par priorité">
+<!ENTITY tagsColumn2.tooltip "Trier par étiquette">
+<!ENTITY accountColumn2.tooltip "Trier par compte">
+<!ENTITY statusColumn2.tooltip "Trier par statut">
+<!ENTITY sizeColumn2.tooltip "Trier par taille">
+<!ENTITY junkStatusColumn2.tooltip "Trier par statut d'indésirable">
+<!ENTITY unreadColumn2.tooltip "Nombre de messages non lus dans le fil">
+<!ENTITY totalColumn2.tooltip "Nombre total de messages dans le fil">
+<!ENTITY readColumn2.tooltip "Trier par état de lecture">
+<!ENTITY receivedColumn2.tooltip "Trier par date de réception">
+<!ENTITY flagColumn2.tooltip "Trier par état de cochage">
+<!ENTITY locationColumn2.tooltip "Trier par adresse">
+<!ENTITY idColumn2.tooltip "Trier par ordre reçu">
