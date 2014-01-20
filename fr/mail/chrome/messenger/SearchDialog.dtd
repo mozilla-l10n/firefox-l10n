@@ -59,22 +59,22 @@
 <!ENTITY idColumn.label "Ordre de réception">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Choisir les colonnes à afficher">
-<!ENTITY threadColumn.tooltip "Afficher les fils de discussion"> 
-<!ENTITY fromColumn.tooltip "Trier par expéditeur">
-<!ENTITY recipientColumn.tooltip "Trier par destinataire">
-<!ENTITY subjectColumn.tooltip "Trier par sujet">
-<!ENTITY dateColumn.tooltip "Trier par date">
-<!ENTITY priorityColumn.tooltip "Trier par priorité">
-<!ENTITY tagsColumn.tooltip "Trier par étiquettes">
-<!ENTITY accountColumn.tooltip "Trier par compte">
-<!ENTITY statusColumn.tooltip "Trier par statut">
-<!ENTITY sizeColumn.tooltip "Trier par taille">
-<!ENTITY junkStatusColumn.tooltip "Trier par statut indésirable">
-<!ENTITY unreadColumn.tooltip "Nombre de messages non lus dans le fil">
-<!ENTITY totalColumn.tooltip "Nombre total de messages dans le fil">
-<!ENTITY readColumn.tooltip "Trier par statut de lecture">
-<!ENTITY receivedColumn.tooltip "Trier par date de réception">
-<!ENTITY starredColumn.tooltip "Trier par suivi">
-<!ENTITY locationColumn.tooltip "Trier par emplacement">
-<!ENTITY idColumn.tooltip "Trier par ordre de réception">
+<!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
+<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion"> 
+<!ENTITY fromColumn2.tooltip "Trier par expéditeur">
+<!ENTITY recipientColumn2.tooltip "Trier par destinataire">
+<!ENTITY subjectColumn2.tooltip "Trier par sujet">
+<!ENTITY dateColumn2.tooltip "Trier par date">
+<!ENTITY priorityColumn2.tooltip "Trier par priorité">
+<!ENTITY tagsColumn2.tooltip "Trier par étiquettes">
+<!ENTITY accountColumn2.tooltip "Trier par compte">
+<!ENTITY statusColumn2.tooltip "Trier par statut">
+<!ENTITY sizeColumn2.tooltip "Trier par taille">
+<!ENTITY junkStatusColumn2.tooltip "Trier par statut indésirable">
+<!ENTITY unreadColumn2.tooltip "Nombre de messages non lus dans le fil">
+<!ENTITY totalColumn2.tooltip "Nombre total de messages dans le fil">
+<!ENTITY readColumn2.tooltip "Trier par statut de lecture">
+<!ENTITY receivedColumn2.tooltip "Trier par date de réception">
+<!ENTITY starredColumn2.tooltip "Trier par suivi">
+<!ENTITY locationColumn2.tooltip "Trier par emplacement">
+<!ENTITY idColumn2.tooltip "Trier par ordre de réception">
