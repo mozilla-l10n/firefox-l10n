@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
-<!ENTITY addpref.name           "Name">
-<!ENTITY addpref.value          "Value">
+<!ENTITY empty.label            "Пошук">
+<!ENTITY newpref.label          "Додати нове налаштування">
+<!ENTITY addpref.name           "Назва">
+<!ENTITY addpref.value          "Значення">
 
-<!ENTITY cancel.label           "Cancel">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY cancel.label           "Скасувати">
+<!ENTITY reset.label            "Скинути">
+<!ENTITY done.label             "Готово">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Ціле">
+<!ENTITY string.label           "Рядок">
+<!ENTITY boolean.label          "Логічне">
