@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDialog.title "O programie &brandFullName;">
+
+<!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
+<!ENTITY update.checkForUpdatesButton.accesskey "S">
 <!ENTITY update.updateButton.label "Uruchom ponownie, by zaktualizować">
 <!ENTITY update.updateButton.accesskey "U">
 <!ENTITY update.applyButtonBillboard.label "Zaktualizuj…">
