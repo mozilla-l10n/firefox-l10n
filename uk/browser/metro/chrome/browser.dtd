@@ -4,25 +4,25 @@
 
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Введіть запит чи адресу">
 
-<!ENTITY back.label            "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY back.label            "Назад">
+<!ENTITY forward.label         "Вперед">
+<!ENTITY newtab.label          "Нова вкладка">
+<!ENTITY closetab.label        "Закрити вкладку">
 
-<!ENTITY autocompleteResultsHeader.label  "Your Results">
+<!ENTITY autocompleteResultsHeader.label  "Ваші результати">
 
-<!ENTITY appbarErrorConsole.label   "Open error console">
-<!ENTITY appbarJSShell.label        "Open JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Find in page">
-<!ENTITY appbarViewOnDesktop2.label "View on desktop">
-<!ENTITY appbarMSMetaData2.label    "Get app for this site">
+<!ENTITY appbarErrorConsole.label   "Відкрити консоль помилок">
+<!ENTITY appbarJSShell.label        "Відкити консоль JavaScript">
+<!ENTITY appbarFindInPage2.label    "Шукати у сторінці">
+<!ENTITY appbarViewOnDesktop2.label "Переглянути у класичному вигляді">
+<!ENTITY appbarMSMetaData2.label    "Отримати програму для цього сайта">
 
-<!ENTITY topSitesHeader.label        "Top Sites">
-<!ENTITY bookmarksHeader.label       "Bookmarks">
-<!ENTITY recentHistoryHeader.label   "Recent History">
-<!ENTITY remoteTabsHeader.label      "Tabs from Other Devices">
+<!ENTITY topSitesHeader.label        "Часті сайти">
+<!ENTITY bookmarksHeader.label       "Закладки">
+<!ENTITY recentHistoryHeader.label   "Недавня істораія">
+<!ENTITY remoteTabsHeader.label      "Вкладки з інших пристроїв">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -31,68 +31,68 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "Top Sites">
-<!ENTITY narrowBookmarksHeader.label     "Bookmarks">
-<!ENTITY narrowRecentHistoryHeader.label "Recent History">
-<!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
+<!ENTITY narrowTopSitesHeader.label      "Часті сайти">
+<!ENTITY narrowBookmarksHeader.label     "Закладки">
+<!ENTITY narrowRecentHistoryHeader.label "Недавня історія">
+<!ENTITY narrowRemoteTabsHeader.label    "Далекі вкладки">
 
-<!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "Find">
-<!ENTITY downloadOpen2.label       "Open">
-<!ENTITY downloadCancel.label      "Cancel">
-<!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Resume">
-<!ENTITY downloadRetry.label       "Retry">
-<!ENTITY downloadRemove.label      "Remove">
-<!ENTITY downloadDelete.label      "Delete">
-<!ENTITY downloadFailed.label      "Failed">
+<!ENTITY downloadsHeader.label     "Завантаження">
+<!ENTITY downloadShowPage.label    "Перейти до сторінки">
+<!ENTITY downloadShow2.label       "Знайти">
+<!ENTITY downloadOpen2.label       "Відкрити">
+<!ENTITY downloadCancel.label      "Скасувати">
+<!ENTITY downloadPause.label       "Пауза">
+<!ENTITY downloadResume.label      "Продовжити">
+<!ENTITY downloadRetry.label       "Спробувати ще раз">
+<!ENTITY downloadRemove.label      "Вилучити">
+<!ENTITY downloadDelete.label      "Видалити">
+<!ENTITY downloadFailed.label      "Не вдалось">
 
-<!ENTITY allBookmarks.label        "See all bookmarks">
+<!ENTITY allBookmarks.label        "Показати всі закладки">
 
-<!ENTITY consoleHeader.label       "Error Console">
-<!ENTITY consoleAll.label          "All">
-<!ENTITY consoleErrors.label       "Errors">
-<!ENTITY consoleWarnings.label     "Warnings">
-<!ENTITY consoleMessages.label     "Messages">
-<!ENTITY consoleCodeEval.label     "Code:">
-<!ENTITY consoleClear.label        "Clear">
+<!ENTITY consoleHeader.label       "Консоль помилок">
+<!ENTITY consoleAll.label          "Все">
+<!ENTITY consoleErrors.label       "Помилки">
+<!ENTITY consoleWarnings.label     "Попередження">
+<!ENTITY consoleMessages.label     "Повідомлення">
+<!ENTITY consoleCodeEval.label     "Код:">
+<!ENTITY consoleClear.label        "Очистити">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Source File:">
-<!ENTITY consoleErrLine.label      "Line:">
-<!ENTITY consoleErrColumn.label    "Column:">
+<!ENTITY consoleErrFile.label      "Початковий файл:">
+<!ENTITY consoleErrLine.label      "Рядок:">
+<!ENTITY consoleErrColumn.label    "Стовпчик:">
 
 <!--  TEXT CONTEXT MENU -->
-<!ENTITY contextTextCut.label              "Cut">
-<!ENTITY contextTextCopy.label             "Copy">
-<!ENTITY contextTextPaste.label            "Paste">
+<!ENTITY contextTextCut.label              "Вирізати">
+<!ENTITY contextTextCopy.label             "Копіювати">
+<!ENTITY contextTextPaste.label            "Вставити">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Paste &amp; go">
-<!ENTITY contextTextSelect.label           "Select">
-<!ENTITY contextTextSelectAll.label        "Select all">
+<!ENTITY contextTextPasteAndGo.label       "Вставити та перейти">
+<!ENTITY contextTextSelect.label           "Вибрати">
+<!ENTITY contextTextSelectAll.label        "Вибрати все">
 
 <!-- LINK CONTEXT MENU -->
-<!ENTITY contextOpenLinkTab.label          "Open link in new tab">
-<!ENTITY contextCopyLinkHref.label         "Copy link">
-<!ENTITY contextBookmarkLinkHref.label     "Bookmark link">
+<!ENTITY contextOpenLinkTab.label          "Відкрити в новій вкладці">
+<!ENTITY contextCopyLinkHref.label         "Копіювати посилання">
+<!ENTITY contextBookmarkLinkHref.label     "Закласти посилання">
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
-<!ENTITY contextSaveImageLib.label         "Save to picture library">
-<!ENTITY contextCopyImage.label            "Copy image">
-<!ENTITY contextCopyImageLocation.label    "Copy image location">
-<!ENTITY contextOpenImageTab.label         "Open image in new tab">
+<!ENTITY contextSaveImageLib.label         "Зберегти у теку зображень">
+<!ENTITY contextCopyImage.label            "Копіювати зображення">
+<!ENTITY contextCopyImageLocation.label    "Копіювати адресу зображення">
+<!ENTITY contextOpenImageTab.label         "Відкрити зображення у новій вкладці">
 
 <!-- VIDEO CONTEXT MENU -->
-<!ENTITY contextSaveVideoLib.label         "Save to video library">
-<!ENTITY contextCopyVideoLocation.label    "Copy video location">
-<!ENTITY contextOpenVideoTab.label         "Open video in new tab">
+<!ENTITY contextSaveVideoLib.label         "Зберегти у відеотеку">
+<!ENTITY contextCopyVideoLocation.label    "Копідвати адресу відео">
+<!ENTITY contextOpenVideoTab.label         "Відкрити відео у новій вкладці">
 
 <!-- KEYBOARD SHORTCUTS -->
 <!ENTITY reload.key "r">
 <!ENTITY focusURL.key "l">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.accesskey "в">
 <!ENTITY openFile.key "o">
 <!ENTITY savePage.key "s">
 <!ENTITY find.key "f">
