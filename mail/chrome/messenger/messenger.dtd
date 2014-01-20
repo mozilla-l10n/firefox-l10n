@@ -707,8 +707,8 @@
 <!ENTITY contextOpenNewTab.accesskey "u">
 <!ENTITY contextOpenConversation.label "Ouvrir le message dans la discussion">
 <!ENTITY contextOpenConversation.accesskey "v">
-<!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Modifier comme un nouveau message">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archiver">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
@@ -835,8 +835,8 @@
 <!ENTITY AddToAddressBook.accesskey "j">
 <!ENTITY AddDirectlyToAddressBook.label "Ajouter au carnet d'adresses">
 <!ENTITY AddDirectlyToAddressBook.accesskey "o">
-<!ENTITY EditContact.label "Modifier le contact…">
-<!ENTITY EditContact.accesskey "M">
+<!ENTITY EditContact1.label "Modifier le contact">
+<!ENTITY EditContact1.accesskey "M">
 <!ENTITY ViewContact.label "Afficher le contact">
 <!ENTITY ViewContact.accesskey "A">
 <!ENTITY SubscribeToNewsgroup.label "S'abonner à un groupe de discussion">
