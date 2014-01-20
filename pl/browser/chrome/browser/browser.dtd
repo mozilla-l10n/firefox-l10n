@@ -634,7 +634,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
 
 <!ENTITY socialToolbar.title "Przycisk paska społecznościowego">
-<!ENTITY social.notLoggedIn.label "Nie zalogowano">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
