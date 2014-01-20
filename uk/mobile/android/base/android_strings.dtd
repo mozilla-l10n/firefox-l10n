@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
 <!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Часті сайти">
-<!ENTITY  awesomebar_bookmarks_title "Закладки">
-<!ENTITY  awesomebar_history_title "Історія">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Закладки">
+<!ENTITY  history_title "Історія">
+<!ENTITY  reading_list_title "Список читання">
+
+<!ENTITY  switch_to_tab "Перейти у вкладку">
 
 <!ENTITY  crash_reporter_title "Доповідач про аварії &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; зіткнувся з проблемою та впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Виберіть файл">
 
-<!ENTITY awesomebar_default_text "Введіть запит чи адресу">
-
-<!ENTITY remote_tabs "Синхронізовані вкладки">
-<!ENTITY remote_tabs_show_all "Показати усі вкладки">
+<!ENTITY url_bar_default_text "Введіть запит чи адресу">
 
 <!ENTITY bookmark "Закласти">
 <!ENTITY bookmark_added "Закладку додано">
@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Вибір даних">
 <!ENTITY pref_category_installed_search_engines "Встановлені пошуковці">
+<!ENTITY pref_category_add_search_providers "Додати інші джерела">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Підказка: Додайте будь-який сайт до вашого списку джерел пошуку, довго-натиснувши на його пошукове поле.">
 <!ENTITY pref_category_devtools "Інструменти розробника">
 <!ENTITY pref_developer_remotedebugging "Віддалена відладка">
 <!ENTITY pref_developer_remotedebugging_docs "Дізнатись більше">
@@ -107,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Переформатування тексту">
 <!ENTITY pref_restore "Вкладки">
 <!ENTITY pref_restore_always "Завжди відновлювати">
-<!ENTITY pref_restore_crash "Відновлювати після падіння">
-<!ENTITY pref_restore_never "Ніколи не відновлювати">
+<!ENTITY pref_restore_quit "Не відновлювати після виходу з &brandShortName;">
 <!ENTITY pref_font_size_tiny "Дрібний">
 <!ENTITY pref_font_size_small "Малий">
 <!ENTITY pref_font_size_medium "Середній">
@@ -144,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "Про &brandShortName;">
 <!ENTITY pref_vendor_faqs "Питання">
 <!ENTITY pref_vendor_feedback "Дати відгук">
+<!ENTITY pref_search_set_default "Встановити типовим">
+<!ENTITY pref_search_default "Типовий">
+<!ENTITY pref_search_remove "Вилучити">
+<!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній пошуковець.">
 
 <!ENTITY datareporting_notification_title "Статистика та дані &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Обрати якою інформацією ділитись">
@@ -208,16 +216,18 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
 <!ENTITY contextmenu_open_private_tab "Відкрити в потайливій вкладці">
 <!ENTITY contextmenu_open_in_reader "Відкрити в Читачі">
-<!ENTITY contextmenu_remove_history "Вилучити">
-<!ENTITY contextmenu_remove_bookmark "Вилучити">
+<!ENTITY contextmenu_remove "Вилучити">
 <!ENTITY contextmenu_add_to_launcher "Додати на домашню сторінку">
 <!ENTITY contextmenu_share "Поділитись">
 <!ENTITY contextmenu_pasteandgo "Вставити і перейти">
 <!ENTITY contextmenu_paste "Вставити">
 <!ENTITY contextmenu_copyurl "Копіювати адресу">
 <!ENTITY contextmenu_edit_bookmark "Редагувати">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
+<!ENTITY contextmenu_subscribe "Підписатись на сторінку">
+<!ENTITY contextmenu_site_settings "Редагувати налаштування сайта">
+<!ENTITY contextmenu_top_sites_edit "Редагувати">
+<!ENTITY contextmenu_top_sites_pin "Прикріпити сайт">
+<!ENTITY contextmenu_top_sites_unpin "Відкріпити сайт">
 
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
@@ -237,7 +247,6 @@ size. -->
 <!ENTITY site_settings_clear        "Вичистити">
 <!ENTITY site_settings_no_settings  "Нема чого вичищати.">
 
-<!ENTITY reading_list "Список читання">
 <!ENTITY reading_list_added "Сторінку додано у список читання">
 <!ENTITY reading_list_removed "Сторінку вилучено зі списку читання">
 <!ENTITY reading_list_failed "Не вдалось додати сторінку в ваш список читання">
@@ -260,28 +269,29 @@ size. -->
 <!ENTITY button_set "Встановити">
 <!ENTITY button_clear "Очистити">
 
-<!ENTITY abouthome_addons_title "Додатки до вашого &brandShortName;">
-<!ENTITY abouthome_addons_browse "Переглянути всі додатки &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Ваші вкладки з того разу">
-<!ENTITY abouthome_last_tabs_open "Відкрити всі вкладки з того разу">
-<!ENTITY abouthome_top_sites_title "Часті сайти">
-<!ENTITY abouthome_topsites_edit "Редагувати">
-<!ENTITY abouthome_topsites_pin "Прикріпити сайта">
-<!ENTITY abouthome_topsites_unpin "Відкріпити сайт">
+<!ENTITY home_top_sites_title "Часті сайти">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Додати сайт">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Налаштуйте Firefox Sync щоб синхронізувати закладки, історію та вкладки з ваших інших пристроїв&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Встановлюйте програми з Firefox Marketplace та відкрийте для себе все те найкраще, що може запропонувати мережа&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Історія">
+<!ENTITY home_bookmarks_empty "Ваші закладки будуть тут.">
+<!ENTITY home_last_tabs_title "Вкладки з минулого разу">
+<!ENTITY home_last_tabs_open "Відкрити всі вкладки з минулого разу">
+<!ENTITY home_last_tabs_empty "Ваші недавні вкладки будуть тут.">
+<!ENTITY home_most_recent_title "Найостанніші">
+<!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
+<!ENTITY home_reading_list_empty "Збережені вами на потім статі будуть тут.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Підказка: Зберігайте статі до вашого списку читання довгим натисканням на іконку &#37;I , коли вона з’являється в панелі адреси.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Підказка: Зберігайте статі до вашого списку читання довгим натисканням на іконку читача, коли вона з’являється в панелі адреси.">
+
+<!ENTITY pin_site_dialog_hint "Введіть пошукове скорочення">
 
 <!ENTITY filepicker_title "Виберіть файл">
 <!ENTITY filepicker_audio_title "Виберіть чи запишіть звук">
@@ -324,6 +334,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Хочете увімкнути пошукові підказки &formatS;?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Шукати &formatS2; у &formatS1;">
 
 <!ENTITY webapp_generic_name "Програми">
 
