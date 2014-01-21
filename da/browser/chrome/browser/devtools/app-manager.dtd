@@ -18,8 +18,8 @@
 <!ENTITY device.debugApp "Debug">
 <!ENTITY device.debugAppTooltip "Åbn Udviklerværktøj forbundet til denne app på enheden">
 <!ENTITY device.name "Navn">
-<!ENTITY device.plain "Enkelt (standard)">
-<!ENTITY device.privileged "Priviligeret">
+<!ENTITY device.plain "Almindelig (standard)">
+<!ENTITY device.privileged "Privilegeret">
 <!ENTITY device.certified "Certificeret">
 <!ENTITY device.allow "Tillad">
 <!ENTITY device.allowTooltip "Denne tilladelse gælder for apps af denne type.">

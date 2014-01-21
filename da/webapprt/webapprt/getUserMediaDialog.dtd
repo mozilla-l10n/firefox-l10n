@@ -6,10 +6,10 @@
    - to ask permissions in the webapp runtime. -->
 
 <!ENTITY getUserMediaDialog.title                 "Deling af kamera og mikrofon">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Del">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "D">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Fortryd">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "F">
+<!ENTITY getUserMediaDialog.button.accept.label     "Del">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Fortryd">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "F">
 
 <!ENTITY getUserMediaDialog.video.label           "Vælg kamera">
 <!ENTITY getUserMediaDialog.video.noVideo         "Ingen video">

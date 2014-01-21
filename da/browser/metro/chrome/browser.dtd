@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "Åbn fejlkonsol">
 <!ENTITY appbarJSShell.label        "Åbn JavaScript-kommandolinje">
 <!ENTITY appbarFindInPage2.label    "Find på siden">
-<!ENTITY appbarViewOnDesktop2.label "Vis på skrivebord">
+<!ENTITY appbarRelaunchInDesktop.label "Genstart på skrivebord">
 <!ENTITY appbarMSMetaData2.label    "Hent app for dette websted">
+<!ENTITY appbarViewPageSource.label    "Vis sidens kildekode">
 
 <!ENTITY topSitesHeader.label        "Foretrukne websteder">
 <!ENTITY bookmarksHeader.label       "Bogmærker">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Leder du efter dine faneblade? Du skal bare trække ned eller højreklikke">
+<!ENTITY firstRunTopSites.label "Gå til de websteder, du besøger mest">
+<!ENTITY firstRunBookmarks.label "Find sider, du har gemt til senere">
+<!ENTITY firstRunMenu.label "Få adgang til flere funktioner og indstillinger">
+<!ENTITY firstRunHistory.label "Se, hvor du har været på nettet">
+<!ENTITY firstRunWelcome.label "Velkommen til &brandShortName;">
+<!ENTITY firstRunDifferent.label "Grundlæggende anderledes">
