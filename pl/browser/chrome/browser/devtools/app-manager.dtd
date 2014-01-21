@@ -77,9 +77,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Brak projektów. Dodaj nową aplikację lokalną (folder) lub zdalną (odnośnik do pliku manifestu).">
 <!ENTITY projects.manifestEditor "Edytor manifestów">
-<!ENTITY projects.manifestEditorTooltip "Edytuj manifest aplikacji w panelu poniżej. Przycisk aktualizacji zapisze zmiany w manifeście i uaktualni aplikację.">
+<!ENTITY projects.manifestEditorTooltip "Edytuj manifest aplikacji w panelu poniżej. Przycisk aktualizacji zapisze zmiany w manifeście i uaktualni aplikację">
 <!ENTITY projects.manifestViewer "Przeglądarka manifestów">
-<!ENTITY projects.manifestViewerTooltip "Wyświetli manifest aplikacji w panelu poniżej.">
+<!ENTITY projects.manifestViewerTooltip "Wyświetli manifest aplikacji w panelu poniżej">
 <!ENTITY projects.valid "Poprawny">
 <!ENTITY projects.error "Błędny">
 <!ENTITY projects.warning "Ostrzeżenie">
