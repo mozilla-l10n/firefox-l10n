@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label        "Wyszukaj wiadomości w folderze">
 <!ENTITY searchHeading.accesskey    "s">
 <!ENTITY searchSubfolders.label     "Kontynuuj wyszukiwanie w podfolderach">
@@ -59,22 +58,22 @@
 <!ENTITY idColumn.label         "Kolejność otrzymania">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
-<!ENTITY threadColumn.tooltip     "Kliknij, aby posortować według wątków">
-<!ENTITY fromColumn.tooltip       "Kliknij, aby posortować według nadawcy">
-<!ENTITY recipientColumn.tooltip  "Kliknij, aby posortować według adresata">
-<!ENTITY subjectColumn.tooltip    "Kliknij, aby posortować według tematu">
-<!ENTITY dateColumn.tooltip       "Kliknij, aby posortować według daty">
-<!ENTITY priorityColumn.tooltip   "Kliknij, aby posortować według priorytetu">
-<!ENTITY tagsColumn.tooltip       "Kliknij, aby posortować według etykiet">
-<!ENTITY accountColumn.tooltip    "Kliknij, aby posortować według konta">
-<!ENTITY statusColumn.tooltip     "Kliknij, aby posortować według statusu">
-<!ENTITY sizeColumn.tooltip       "Kliknij, aby posortować według rozmiaru">
-<!ENTITY junkStatusColumn.tooltip "Kliknij, aby posortować według statusu niechcianej poczty">
-<!ENTITY unreadColumn.tooltip     "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
-<!ENTITY totalColumn.tooltip      "Liczba wszystkich wiadomości w wątku">
-<!ENTITY readColumn.tooltip       "Kliknij, aby posortować według ilości przeczytanych wiadomości">
-<!ENTITY receivedColumn.tooltip   "Kliknij, aby posortować według daty otrzymania">
-<!ENTITY starredColumn.tooltip    "Kliknij, aby posortować według oznaczenia gwiazdką">
-<!ENTITY locationColumn.tooltip   "Kliknij, aby posortować według adresu">
-<!ENTITY idColumn.tooltip         "Kliknij, aby posortować według kolejności otrzymania">
+<!ENTITY columnChooser2.tooltip "Zaznacz, które kolumny zostaną wyświetlone">
+<!ENTITY threadColumn2.tooltip "Sorotwanie według wątków">
+<!ENTITY fromColumn2.tooltip "Sortowanie według nadawcy">
+<!ENTITY recipientColumn2.tooltip "Sortowanie według adresata">
+<!ENTITY subjectColumn2.tooltip "Sortowanie według tematu">
+<!ENTITY dateColumn2.tooltip "Sortowanie według daty">
+<!ENTITY priorityColumn2.tooltip "Sortowanie według priorytetu">
+<!ENTITY tagsColumn2.tooltip "Sortowanie według etykiet">
+<!ENTITY accountColumn2.tooltip "Sortowanie według konta">
+<!ENTITY statusColumn2.tooltip "Sortowanie według statusu">
+<!ENTITY sizeColumn2.tooltip "Sortowanie według rozmiaru">
+<!ENTITY junkStatusColumn2.tooltip "Sortowanie według statusu niechcianej poczty">
+<!ENTITY unreadColumn2.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
+<!ENTITY totalColumn2.tooltip "Liczba wszystkich wiadomości w wątku">
+<!ENTITY readColumn2.tooltip "Sortowanie według ilości przeczytanych wiadomości">
+<!ENTITY receivedColumn2.tooltip "Sortowanie według daty otrzymania">
+<!ENTITY starredColumn2.tooltip "Sortowanie według oznaczenia gwiazdką">
+<!ENTITY locationColumn2.tooltip "Sortowanie według adresu">
+<!ENTITY idColumn2.tooltip "Sortowanie według kolejności otrzymania">
