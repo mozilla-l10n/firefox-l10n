@@ -155,7 +155,7 @@
 <!ENTITY event.toolbar.attachments.tooltip "Dodaj załączniki">
 <!ENTITY event.toolbar.privacy.tooltip "Zmień ustawienia prywatności">
 <!ENTITY event.toolbar.priority.tooltip "Zmień priorytet">
-<!ENTITY event.toolbar.status.tooltip "Zmień status">
+<!ENTITY event.toolbar.status.tooltip "Zmień stan">
 <!ENTITY event.toolbar.freebusy.tooltip "Zmień czas zajęty lub wolny">
 
 <!-- Main page -->
