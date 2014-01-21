@@ -1,5 +1,12 @@
 <!ENTITY aboutDialog.title "O programie &brandFullName;">
 
+<!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
+<!ENTITY update.checkForUpdatesButton.accesskey "S">
+<!ENTITY update.updateButton.label "Uruchom ponownie, by zaktualizować">
+<!ENTITY update.updateButton.accesskey "U">
+<!ENTITY update.applyButtonBillboard.label "Zaktualizuj…">
+<!ENTITY update.applyButtonBillboard.accesskey "Z">
+
 <!ENTITY community.start2      "">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2     ", ">
@@ -15,7 +22,6 @@
 <!ENTITY bottomLinks.privacy "Polityka prywatności">
 
 <!ENTITY update.checkingForUpdates  "Poszukiwanie aktualizacji…">
-<!ENTITY update.checkingAddonCompat "Sprawdzanie zgodności dodatków…">
 <!ENTITY update.noUpdatesFound      "Program &brandShortName; jest aktualny">
 <!ENTITY update.adminDisabled       "Aktualizacje zablokowane przez administratora">
 
