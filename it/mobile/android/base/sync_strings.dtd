@@ -115,3 +115,17 @@
 <!ENTITY fxaccount.status.tabs "Schede aperte">
 <!ENTITY fxaccount.update.credentials "Aggiorna password">
 <!ENTITY fxaccount.update.credentials.button.label "Riconnetti">
+<!ENTITY fxaccount.account.create.not.allowed "Creazione account non riuscita">
+<!ENTITY fxaccount.account.create.not.allowed.description "Per creare un Firefox account bisogna rispettare i requisiti per l’età.">
+<!ENTITY fxaccount.create.account.age.1960s "anni ’60 o precendente">
+<!ENTITY fxaccount.create.account.age.1970s "anni ’70">
+<!ENTITY fxaccount.create.account.age.1980s "anni ’80">
+<!ENTITY fxaccount.create.account.age.1990s "anni ’90">
+<!ENTITY fxaccount.create.account.age.2000 "2000">
+<!ENTITY fxaccount.create.account.age.2001 "2001">
+<!ENTITY fxaccount.create.account.age.2002 "2002">
+<!ENTITY fxaccount.create.account.age.2003 "2003">
+<!ENTITY fxaccount.create.account.age.2004 "2004">
+<!ENTITY fxaccount.create.account.age.2005 "2005">
+<!ENTITY fxaccount.create.account.age.2006 "2006">
+<!ENTITY fxaccount.create.account.age.2007 "2007">
