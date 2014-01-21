@@ -2,15 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the Script Debugger strings -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
-
-<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
-  - keep it in English, or another language commonly spoken among web developers.
-  - You want to make that choice consistent across the developer tools.
-  - A good criteria is the language in which you'd find the best
-  - documentation on web development on the web. -->
-
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip        "Zamknij">
@@ -26,6 +17,10 @@
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Przełącz czarną skrzynkę">
 <!ENTITY debuggerUI.sources.prettyPrint "Popraw czytelność">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
+<!ENTITY debuggerUI.tracingNotStarted.label "Śledzenie się nie rozpoczęło.">
+<!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
+<!ENTITY debuggerUI.clearButton "Wyczyść">
+<!ENTITY debuggerUI.clearButton.tooltip "Wyczyści zebrane ślady">
 <!ENTITY debuggerUI.pauseExceptions "Zatrzymuj na wyjątkach">
 <!ENTITY debuggerUI.pauseExceptions.key "Z">
 <!ENTITY debuggerUI.ignoreCaughtExceptions "Ignoruj wyłapane wyjątki">
@@ -92,6 +87,7 @@
 
 <!ENTITY debuggerUI.tabs.sources "Źródła">
 <!ENTITY debuggerUI.tabs.callstack "Stos wywołań">
+<!ENTITY debuggerUI.tabs.traces "Ślady stosu">
 <!ENTITY debuggerUI.tabs.variables "Zmienne">
 <!ENTITY debuggerUI.tabs.events "Zdarzenia">
 
