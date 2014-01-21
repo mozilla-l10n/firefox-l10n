@@ -12,7 +12,7 @@
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
-<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY closeOtherTabs.accesskey "h">
 <!ENTITY uploadFile.label "Carica file…">
 <!ENTITY uploadFile.accesskey "f">
 <!ENTITY printSetupCmd.label "Imposta pagina…">

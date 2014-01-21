@@ -14,7 +14,7 @@
 <!ENTITY bookmarksToolbarCmd.label "Barra strumenti dei segnalibri">
 <!ENTITY bookmarksToolbarCmd.accesskey "m">
 <!ENTITY closeWindow.label "Chiudi finestra">
-<!ENTITY closeWindow.accesskey "f">
+<!ENTITY closeWindow.accesskey "t">
 <!ENTITY minimizeButton.tooltip "Minimizza">
 <!ENTITY restoreButton.tooltip "Ripristina">
 <!ENTITY feedsMenu.label "Abbonati a questa pagina">

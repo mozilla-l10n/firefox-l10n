@@ -11,8 +11,8 @@
 <!ENTITY openDM.label "Apri Gestione download">
 <!ENTITY openDM.accesskey "d">
 <!ENTITY flashWhenOpen.label "Mostra Gestione download se è già aperta">
-<!ENTITY flashWhenOpen.accesskey "w">
-<!ENTITY downloadLocation.label "Prima di salvare un file">
+<!ENTITY flashWhenOpen.accesskey "G">
+<!ENTITY downloadLocation.label "Quando si salva un file">
 <!ENTITY saveTo.label "Salva file in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseDownloadFolder.label "Scegli cartella…">
