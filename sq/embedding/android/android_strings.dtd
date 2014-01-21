@@ -5,7 +5,7 @@
 <!ENTITY  splash_firstrun "Po rregullohet &brandShortName;-u\u2026">
 
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
-<!ENTITY  error_loading_file "Ndodhi një gabim kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;-it">
+<!ENTITY  error_loading_file "Ndodhi një gabim kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;-ut">
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;-un">
 <!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e fillimit të &brandShortName;-ut, kur ta rinisni.">
