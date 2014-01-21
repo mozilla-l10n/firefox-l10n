@@ -225,7 +225,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Przypomnienia wielokrotne…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label "Status:">
+<!ENTITY event.statusbarpanel.freebusy.label "Pokaż czas jako:">
 <!ENTITY event.statusbarpanel.privacy.label "Prywatność:">
 
 <!-- Recurrence dialog -->
