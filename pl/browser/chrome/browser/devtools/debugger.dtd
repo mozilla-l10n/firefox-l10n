@@ -16,6 +16,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opcje debugera">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Przełącz czarną skrzynkę">
 <!ENTITY debuggerUI.sources.prettyPrint "Popraw czytelność">
+<!ENTITY debuggerUI.autoPrettyPrint "Automatyczne poprawianie czytelności">
+<!ENTITY debuggerUI.autoPrettyPrint.key "A">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
 <!ENTITY debuggerUI.tracingNotStarted.label "Śledzenie się nie rozpoczęło.">
 <!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
