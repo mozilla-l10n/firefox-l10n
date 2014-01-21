@@ -14,19 +14,19 @@
 <!ENTITY sameAsVertical.accesskey "C">
 <!ENTITY doNothing.label "Non fare niente">
 <!ENTITY doNothing.accesskey "N">
-<!ENTITY doNothingHoriz.accesskey "n">
+<!ENTITY doNothingHoriz.accesskey "t">
 <!ENTITY scrollDocument.label "Scorri il documento">
 <!ENTITY scrollDocument.accesskey "S">
-<!ENTITY scrollDocumentHoriz.accesskey "S">
+<!ENTITY scrollDocumentHoriz.accesskey "d">
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
-<!ENTITY historyHoriz.accesskey "M">
+<!ENTITY historyHoriz.accesskey "u">
 <!ENTITY zoom.label "Fai zoom dentro o fuori la pagina">
 <!ENTITY zoom.accesskey "F">
 <!ENTITY zoomHoriz.accesskey "o">
 <!ENTITY wheelSpeed.label "Velocità rotellina mouse:">
-<!ENTITY wheelSpeed.accesskey "u">
-<!ENTITY wheelSpeedHoriz.accesskey "m">
+<!ENTITY wheelSpeed.accesskey "V">
+<!ENTITY wheelSpeedHoriz.accesskey "à">
 <!ENTITY reverseDirection.label "Inverti direzione">
-<!ENTITY reverseDirection.accesskey "v">
+<!ENTITY reverseDirection.accesskey "z">
 <!ENTITY reverseDirectionHoriz.accesskey "e">

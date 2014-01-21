@@ -13,7 +13,7 @@
 <!ENTITY homePageRadio.label "Pagina home">
 <!ENTITY homePageRadio.accesskey "h">
 <!ENTITY lastPageRadio.label "Ultima pagina visitata">
-<!ENTITY lastPageRadio.accesskey "U">
+<!ENTITY lastPageRadio.accesskey "v">
 <!ENTITY restoreSessionRadio.label "Ripristina sessione precedente">
 <!ENTITY restoreSessionRadio.accesskey "d">
 <!ENTITY restoreSessionIntro.label "Quando si ripristinano sessioni e finestre">
@@ -23,7 +23,7 @@
 <!ENTITY restoreTabs.accesskey "R">
 <!ENTITY restoreTabsAtATime.label "schede alla volta">
 <!ENTITY restoreDeferred.label "Ripristina le schede solo quando necessarie">
-<!ENTITY restoreDeferred.accesskey "o">
+<!ENTITY restoreDeferred.accesskey "c">
 <!ENTITY homePageIntro.label "La pressione del pulsante Home fa caricare questo gruppo di pagine:">
 <!ENTITY useCurrent.label "Utilizza pagina corrente">
 <!ENTITY useCurrent.accesskey "z">
@@ -32,10 +32,10 @@
 <!ENTITY browseFile.label "Scegli file…">
 <!ENTITY browseFile.accesskey "S">
 <!ENTITY useDefault.label "Ripristina valori predefiniti">
-<!ENTITY useDefault.accesskey "R">
+<!ENTITY useDefault.accesskey "f">
 <!ENTITY defaultBrowserGroup.label "Browser predefinito">
 <!ENTITY defaultBrowserButton.label "Imposta come browser predefinito">
-<!ENTITY defaultBrowserButton.accesskey "d">
+<!ENTITY defaultBrowserButton.accesskey "t">
 <!ENTITY alreadyDefaultText "&brandShortName; è già il tuo browser predefinito.">
 <!ENTITY defaultPendingText "&brandShortName; verrà impostato come tuo browser predefinito facendo clic su OK.">
 <!ENTITY wasMadeDefaultText "&brandShortName; è stato impostato come browser predefinito.">
