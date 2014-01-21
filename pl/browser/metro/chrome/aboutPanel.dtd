@@ -8,7 +8,7 @@
 <!ENTITY aboutHeader.policy.label "O polityce prywatności">
 
 <!ENTITY update.checkingForUpdates "Poszukiwanie aktualizacji…">
-<!ENTITY update.checkingAddonCompat "Sprawdzanie kompatybilności dodatków…">
+<!ENTITY update.checkingAddonCompat "Sprawdzanie zgodności dodatków…">
 <!ENTITY update.noUpdatesFound "Program &brandShortName; jest aktualny">
 <!ENTITY update.adminDisabled "Aktualizacje wyłączone przez administratora">
 <!ENTITY update.otherInstanceHandlingUpdates "Inna instancja właśnie aktualizuje program &brandShortName;">
