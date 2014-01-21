@@ -571,8 +571,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Zignoruj ostrzeżenie dla tej wiadomości">
 <!ENTITY phishingOptionIgnore.accesskey "Z">
-<!ENTITY phishingOptionDisableDetection.label "Wyłącz ostrzeżenia o próbach oszustwa dla wszystkich wiadomości">
-<!ENTITY phishingOptionDisableDetection.accesskey "W">
+<!ENTITY phishingOptionSettings.label "Edytuj opcje ostrzeżeń o próbach oszustwa…">
+<!ENTITY phishingOptionSettings.accesskey "E">
+<!ENTITY phishingOptionSettingsUnix.label "Edytuj preferencje ostrzeżeń o próbach oszustwa…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "E">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
