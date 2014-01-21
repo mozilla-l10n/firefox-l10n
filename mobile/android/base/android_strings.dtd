@@ -163,6 +163,10 @@
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
+<!ENTITY media_casting_to "Trasmissione a dispositivo">
+<!ENTITY media_play "Riproduci">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Interrompi">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
 <!ENTITY contextmenu_open_private_tab "Apri in scheda anonima">
 <!ENTITY contextmenu_open_in_reader "Apri in Lettore">
