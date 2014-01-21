@@ -44,7 +44,7 @@
 <!ENTITY fontfaceMenu.label "Carattere">
 <!ENTITY fontfaceMenu.accesskey "C">
 <!ENTITY fontVarWidth.label "Larghezza variabile">
-<!ENTITY fontVarWidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "h">
 <!ENTITY fontFixedWidth.label "Larghezza fissa">
 <!ENTITY fontFixedWidth.accesskey "L">
 <!ENTITY fontFixedWidth.key "T">
