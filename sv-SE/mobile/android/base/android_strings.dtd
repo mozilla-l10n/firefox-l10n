@@ -219,6 +219,13 @@ size. -->
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Skickar till enhet">
+<!ENTITY media_play "Spela">
+<!ENTITY media_pause "Paus">
+<!ENTITY media_stop "Stopp">
+
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_open_private_tab "Öppna i privat flik">
 <!ENTITY contextmenu_open_in_reader "Öppna i läsaren">
