@@ -24,7 +24,7 @@
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY printPreviewCmd.label "Anteprima di stampa">
-<!ENTITY printPreviewCmd.accesskey "A">
+<!ENTITY printPreviewCmd.accesskey "m">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "P">
