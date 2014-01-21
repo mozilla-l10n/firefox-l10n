@@ -125,5 +125,5 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 <!ENTITY evalFunction.label "Evaluerer aktuelle funktion">
-<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.accesskey "E">
 <!ENTITY evalFunction.key "e">
