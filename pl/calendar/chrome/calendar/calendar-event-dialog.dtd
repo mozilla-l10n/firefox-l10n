@@ -156,7 +156,7 @@
 <!ENTITY event.toolbar.privacy.tooltip "Zmień ustawienia prywatności">
 <!ENTITY event.toolbar.priority.tooltip "Zmień priorytet">
 <!ENTITY event.toolbar.status.tooltip "Zmień stan">
-<!ENTITY event.toolbar.freebusy.tooltip "Zmień czas zajęty lub wolny">
+<!ENTITY event.toolbar.freebusy.tooltip "Zmień czas na zajęty lub wolny">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Nazwa:" >
