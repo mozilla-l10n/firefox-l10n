@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedades">
 
 <!ENTITY generalInfo.label                       "Información general">
-<!ENTITY folderCharsetTab.label                  "Juego de caracteres predeterminado:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Aplicar la configuración predeterminada a todos los mensajes de la carpeta (ignorando la autodetección y la configuración de codificación de caracteres de cada mensaje)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetFallback.label             "Codificación de caracteres alternativa:">
+<!ENTITY folderCharsetFallback.accesskey         "e">
+<!ENTITY folderCharsetEnforce.label              "Aplicar la codificación a todos los mensajes en la carpeta (la codificación de caracteres individual y la detección automática serán ignoradas)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir archivo índice resumen">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
