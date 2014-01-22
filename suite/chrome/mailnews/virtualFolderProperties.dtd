@@ -5,7 +5,7 @@
 <!ENTITY virtualFolderProperties.title "新增即時搜尋資料夾">
 <!ENTITY name.label                    "名字:">
 <!ENTITY name.accesskey                "N">
-<!ENTITY description.label             "建立子資料夾:">
+<!ENTITY description.label             "在下列位置建立子資料夾:">
 <!ENTITY description.accesskey         "C">
 
 <!ENTITY searchTermCaption.label       "設定此即時搜尋資料夾的搜尋方式:">

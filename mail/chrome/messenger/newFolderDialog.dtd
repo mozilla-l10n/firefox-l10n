@@ -6,7 +6,7 @@
 <!ENTITY newFolderDialog.title      "新資料夾">
 <!ENTITY name.label                 "名稱:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "建立子資料夾:">
+<!ENTITY description.label          "在下列位置建立子資料夾:">
 <!ENTITY description.accesskey      "C">
 <!ENTITY folderRestriction1.label   "伺服器限制只能有兩種特殊資料夾。">
 <!ENTITY folderRestriction2.label   "您的新資料夾可以有:">
