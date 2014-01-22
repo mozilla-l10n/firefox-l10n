@@ -357,9 +357,9 @@
 <!ENTITY forwardAsInline.accesskey      "B">
 <!ENTITY forwardAsAttachmentCmd.label     "Załącznik">
 <!ENTITY forwardAsAttachmentCmd.accesskey "Z">
-<!ENTITY editMsgAsNewCmd.label           "Edytuj wiadomość jako nową">
-<!ENTITY editMsgAsNewCmd.accesskey       "E">
-<!ENTITY editMsgAsNewCmd.key             "e">
+<!ENTITY editAsNewMsgCmd.label "Edytuj jako nową wiadomość">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label              "Utwórz filtr na podstawie wiadomości…">
 <!ENTITY createFilter.accesskey          "U">
 <!ENTITY moveMsgToMenu.label             "Przenieś do">
