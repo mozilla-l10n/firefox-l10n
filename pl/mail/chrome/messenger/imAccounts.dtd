@@ -24,6 +24,8 @@
 <!ENTITY account.movedown.label "Przesuń niżej">
 <!ENTITY account.cancelReconnection.label "Anuluj ponowne łączenie">
 <!ENTITY account.cancelReconnection.accesskey "A">
+<!ENTITY account.copyDebugLog.label "Kopiuj dziennik debugowania">
+<!ENTITY account.copyDebugLog.accesskey "d">
 
 <!ENTITY account.connecting "Łączenie…">
 <!ENTITY account.disconnecting "Rozłączanie…">
