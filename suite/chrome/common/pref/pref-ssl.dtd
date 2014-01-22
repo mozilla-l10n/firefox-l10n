@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "&brandShortName; puede alertarlo acerca del estado de la seguridad de la página web que está viendo. Hacer que &brandShortName; muestre una advertencia y pida permiso antes de:">
+<!ENTITY warn.description2                  "&brandShortName; puede alertarlo acerca del estado de la seguridad de la página web que está viendo. Hacer que &brandShortName; muestre una advertencia al:">
 <!ENTITY warn.enteringsecure                "Cargar una página que soporta cifrado">
 <!ENTITY warn.enteringsecure.accesskey      "C">
 <!ENTITY warn.insecurepost                  "Enviar datos de una página sin cifrar a otra página sin cifrar">
