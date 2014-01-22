@@ -110,9 +110,9 @@
 <!-- Firefox Account strings -->
 <!ENTITY firefox.accounts 'Firefox Accounts'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy 'Pokračovaním súhlasíte s &lt;a
-         href="http://mozilla.com"&gt;podmienkami používania služby&lt;/a&gt; a &lt;a
-         href="http://mozilla.com"&gt;zásadami ochrany súkromia&lt;/a&gt;.'>
+<!ENTITY fxaccount.policy "Pokračovaním súhlasíte s &lt;a
+         href=\'http://mozilla.com\'&gt;podmienkami používania služby&lt;/a&gt; a &lt;a
+         href=\'http://mozilla.com\'&gt;zásadami ochrany súkromia&lt;/a&gt;.">
 <!ENTITY fxaccount.forgot.password 'Zabudli ste heslo?'>
 <!ENTITY fxaccount.create.account.button.label 'Vytvoriť účet'>
 <!ENTITY fxaccount.sign.in.button.label 'Prihlásiť sa'>
@@ -127,7 +127,7 @@
 <!ENTITY fxaccount.sign.in 'Prihlásiť sa'>
 <!ENTITY fxaccount.create.account 'Vytvoriť účet'>
 
-<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Používate služby &syncBrand.shortName.label; v staršej verzii prehliadača &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Používate služby &syncBrand.shortName.label; v staršej verzii prehliadača &brandShortName;?&lt;/a&gt;">
 
 <!ENTITY fxaccount.when.were.you.born 'Kedy ste sa narodili?'>
 <!ENTITY fxaccount.year.of.birth 'Rok narodenia'>
