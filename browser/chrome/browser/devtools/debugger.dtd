@@ -132,7 +132,7 @@
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "మూలాలు">
-
+<!ENTITY debuggerUI.tabs.callstack      "కాల్ స్టాక్">
 <!ENTITY debuggerUI.tabs.variables      "వేరియబుల్స్">
 <!ENTITY debuggerUI.tabs.events         "ఘటనలు">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
