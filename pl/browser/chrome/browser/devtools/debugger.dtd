@@ -14,7 +14,6 @@
 <!ENTITY debuggerUI.autoPrettyPrint "Automatyczne poprawianie czytelności">
 <!ENTITY debuggerUI.autoPrettyPrint.key "P">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
-<!ENTITY debuggerUI.tracingNotStarted.label "Śledzenie się nie rozpoczęło.">
 <!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
 <!ENTITY debuggerUI.clearButton "Wyczyść">
 <!ENTITY debuggerUI.clearButton.tooltip "Wyczyści zebrane ślady">
