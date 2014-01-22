@@ -696,8 +696,8 @@
 <!ENTITY contextOpenNewWindow.accesskey  "O">
 <!ENTITY contextOpenNewTab.label         "Otwórz wiadomość w nowej karcie">
 <!ENTITY contextOpenNewTab.accesskey     "r">
-<!ENTITY contextEditAsNew.label          "Otwórz wiadomość do edycji…">
-<!ENTITY contextEditAsNew.accesskey      "e">
+<!ENTITY contextEditMsgAsNew.label "Edytuj jako nową wiadomość">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label            "Archiwizuj">
 <!ENTITY contextArchive.accesskey        "A">
 <!ENTITY contextReplySender.label        "Odpowiedz tylko nadawcy">
@@ -763,8 +763,8 @@
 <!ENTITY AddToAddressBook.accesskey         "k">
 <!ENTITY AddDirectlyToAddressBook.label     "Dodaj do książki adresowej">
 <!ENTITY AddDirectlyToAddressBook.accesskey "D">
-<!ENTITY EditContact.label                  "Edytuj wizytówkę…">
-<!ENTITY EditContact.accesskey              "E">
+<!ENTITY EditContact1.label "Edytuj wizytówkę">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label                  "Wyświetl wizytówkę">
 <!ENTITY ViewContact.accesskey              "W">
 <!ENTITY SubscribeToNewsgroup.label         "Subskrybuj grupę">
