@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Ikhonkco leimeyile…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY switchToMetroCmd.label       "Lontsha ngokutsha imo yeWindows 8 &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "Lontsha ngokutsha kwi&brandShortName; ukulungiselela iWindows 8 Touch">
 <!ENTITY savePageCmd.label            "Gcina iphepha njenge…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
