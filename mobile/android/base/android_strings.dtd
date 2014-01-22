@@ -163,6 +163,10 @@
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Далее">
 <!ENTITY find_close "Закрыть">
+<!ENTITY media_casting_to "Перевод на устройство">
+<!ENTITY media_play "Воспроизвести">
+<!ENTITY media_pause "Приостановить">
+<!ENTITY media_stop "Остановить">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
 <!ENTITY contextmenu_open_private_tab "Открыть в приватной вкладке">
 <!ENTITY contextmenu_open_in_reader "Открыть для чтения">

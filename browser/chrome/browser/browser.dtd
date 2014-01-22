@@ -484,6 +484,8 @@
 <!ENTITY customizeMode.tabTitle "Настройка &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Меню и панели инструментов">
 <!ENTITY customizeMode.menuAndToolbars.header "Другие инструменты для добавления в меню и на панель инструментов">
+<!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
 <!ENTITY customizeMode.restoreDefaults "Восстановить значения по умолчанию">
 <!ENTITY customizeMode.toolbars "Отображать / Скрывать панели">
 <!ENTITY social.chatBar.commandkey "c">
