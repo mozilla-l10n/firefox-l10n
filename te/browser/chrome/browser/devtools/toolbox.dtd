@@ -112,6 +112,8 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "టైమ్‌స్టాంప్స్ చేతనంచేయి">
+<!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఐచ్చికం చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

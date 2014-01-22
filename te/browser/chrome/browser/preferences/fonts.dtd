@@ -73,17 +73,19 @@
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "దాని యెన్కోడింగ్ తెలియపర్చుటకు విఫలమౌతున్న గత కాంటెంట్ కొరకు యీ కారెక్టర్ యెన్కోడింగ్ వుపయోగించబడెను.">
 
+<!ENTITY languages.customize.Fallback.auto        "ప్రస్తుత స్థానికంకు అప్రమేయం">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "అరబిక్">
-
-
-
+<!ENTITY languages.customize.Fallback.baltic      "బాల్టిక్">
+<!ENTITY languages.customize.Fallback.ceiso       "సెంట్రల్ యూరోపియన్, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "సెంట్రల్ యూరోపియన్, మైక్రోసాఫ్ట్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "చైనీస్, సింప్లిఫైడ్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "చైనీ, సంప్రదాయ">
+<!ENTITY languages.customize.Fallback.traditional "చైనీస్, ట్రెడిషన్">
 <!ENTITY languages.customize.Fallback.cyrillic    "సిరిల్లిక్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
@@ -105,4 +107,5 @@
 <!ENTITY languages.customize.Fallback.turkish     "టర్కిష్">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-
+<!ENTITY languages.customize.Fallback.vietnamese  "వియత్నామీస్">
+<!ENTITY languages.customize.Fallback.other       "ఇతర (పశ్చిమ యూరోపియన్)">
