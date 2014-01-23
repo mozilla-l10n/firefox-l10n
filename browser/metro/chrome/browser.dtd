@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "¿Buscas tus pestañas? Arrastrar o hacer clic secundario">
+<!ENTITY firstRunTopSites.label "Ir a los sitios que más visitas">
+<!ENTITY firstRunBookmarks.label "Buscar las páginas guardadas">
+<!ENTITY firstRunMenu.label "Acceder a más funcionalidades y opciones">
+<!ENTITY firstRunHistory.label "Ver dónde estabas en la Web">
+<!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
+<!ENTITY firstRunDifferent.label "De todos. Para todos.">

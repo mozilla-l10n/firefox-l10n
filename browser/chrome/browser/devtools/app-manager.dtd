@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Depurar">
 <!ENTITY device.debugAppTooltip "Abrir las herramientas de desarrollador conectado a esta aplicación en el dispositivo.">
 <!ENTITY device.name "Nombre">
-
+<!ENTITY device.plain "Simple">
 <!ENTITY device.privileged "Privilegiado">
 <!ENTITY device.certified "Certificado">
 <!ENTITY device.allow "Permitir">
@@ -82,7 +82,7 @@
 <!ENTITY projects.manifestViewerTooltip "Examine el archivo manifest de su aplicación en el panel de debajo.">
 <!ENTITY projects.valid "Válido">
 <!ENTITY projects.error "Error">
-
+<!ENTITY projects.warning "Advertencia">
 
 <!ENTITY help.title "Gestor de aplicaciones">
 <!ENTITY help.close "Cerrar">

@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Compartir medios">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Compartir">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Cancelar">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "Seleccionar cámara">
 <!ENTITY getUserMediaDialog.video.noVideo           "Sin video">
