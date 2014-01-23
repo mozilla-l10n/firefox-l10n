@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Meklēt">
+<!ENTITY newpref.label          "Pievienot jaunu iestatījumu">
+<!ENTITY addpref.name           "Nosaukums">
+<!ENTITY addpref.value          "Vērtība">
+
+<!ENTITY cancel.label           "Atcelt">
+<!ENTITY reset.label            "Atjaunot">
+<!ENTITY done.label             "Gatavs">
+
+<!ENTITY integer.label          "Skaitlis">
+<!ENTITY string.label           "Teksts">
+<!ENTITY boolean.label          "Būla">

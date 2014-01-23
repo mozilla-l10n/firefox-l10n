@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Vediet mani prom no šejienes!">
+<!ENTITY safeb.palm.decline.label "Ignorēt šo brīdinājumu">
+<!ENTITY safeb.palm.notforgery.label2 "Šī nav krāpniecība…">
+<!ENTITY safeb.palm.reportPage.label "Kāpēc šī lapa tiek bloķēta?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Iespējama krāpnieku lapa!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Šo mājas lapu <span id='malware_sitename'/> cilvēki ir ziņojuši kā krāpniecisku un bīstamu, tāpēc, balstoties uz Jūsu drošības iestatījumiem, tā tiek bloķēta.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Bīstamas lapas mēģina instalēt slepenas programmas, kas zog lietotāju privātos datus, izmanto Jūsu datoru, lai uzbruktu citiem lietotājiem un dažādi citādi kaitē jūsu sistēmai.</p><p>Dažas lapas apzināti izplata kaitniecisku programmatūru, citas ir kļuvušas par upuri ļaunprāšu darbībām un neapzinās, ka tiek izmantotas.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Iespējama krāpniecība!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Personiskās informācijas ievadīšana šajā lapā var novest pie identitātes zādzības vai krāpniecības.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Šī tipa viltotas lapas tiek izmantotas tā saucamajos pikšķerēšanas uzbrukumos, kad viltotas lapas un epasti mēģina izlikties par uzticamu lapu, lai jums kaitētu.</p>">
