@@ -159,3 +159,31 @@
 <!ENTITY fxaccount.status.tabs 'Onglets ouverts'>
 <!ENTITY fxaccount.update.credentials 'Mettre à jour le mot de passe'>
 <!ENTITY fxaccount.update.credentials.button.label 'Se reconnecter'>
+<!ENTITY fxaccount.account.create.not.allowed 'Création de compte impossible'>
+<!ENTITY fxaccount.account.create.not.allowed.description 'Vous devez avoir atteint l\&apos;âge requis pour pouvoir créer un compte Firefox.'>
+
+<!-- Note to translators:
+
+These strings represent ranges of birth years, used to determine if a
+potential user is old enough to meet legal requirements. A user born
+in 1984 should understand that they should pick the translation of
+"1980s".
+
+Any years that are *not* old enough to create an account must be
+appear as individual numbers, so that they can be converted to a year
+and compared to the current year.  Year ranges (any entry that cannot
+be converted to a number) are *always* considered old enough to create
+an account.  -->
+
+<!ENTITY fxaccount.create.account.age.1960s 'Années 60 ou antérieures'>
+<!ENTITY fxaccount.create.account.age.1970s 'Années 70'>
+<!ENTITY fxaccount.create.account.age.1980s 'Années 80'>
+<!ENTITY fxaccount.create.account.age.1990s 'Années 90'>
+<!ENTITY fxaccount.create.account.age.2000 '2000'>
+<!ENTITY fxaccount.create.account.age.2001 '2001'>
+<!ENTITY fxaccount.create.account.age.2002 '2002'>
+<!ENTITY fxaccount.create.account.age.2003 '2003'>
+<!ENTITY fxaccount.create.account.age.2004 '2004'>
+<!ENTITY fxaccount.create.account.age.2005 '2005'>
+<!ENTITY fxaccount.create.account.age.2006 '2006'>
+<!ENTITY fxaccount.create.account.age.2007 '2007'>
