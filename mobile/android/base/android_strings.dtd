@@ -65,6 +65,8 @@
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
+<!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home_panels "Pannelli">
 <!ENTITY pref_header_customize "Personalizzazione">
 <!ENTITY pref_header_display "Visualizzazione">
 <!ENTITY pref_header_privacy_short "Privacy">
@@ -116,10 +118,12 @@
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Invia feedback">
-<!ENTITY pref_search_set_default "Imposta come predefinito">
-<!ENTITY pref_search_default "Predefinito">
-<!ENTITY pref_search_remove "Elimina">
+<!ENTITY pref_dialog_set_default "Imposta come predefinito">
+<!ENTITY pref_dialog_default "Predefinito">
+<!ENTITY pref_dialog_remove "Rimuovi">
 <!ENTITY pref_search_last_toast "Non è possibile rimuovere o disattivare l’ultimo motore di ricerca.">
+<!ENTITY pref_panels_show "Visualizza">
+<!ENTITY pref_panels_hide "Nascondi">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
