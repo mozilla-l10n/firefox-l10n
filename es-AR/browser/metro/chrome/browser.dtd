@@ -109,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "¿Buscando las pestañas? Tire hacia abajo o clic derecho">
+<!ENTITY firstRunTopSites.label "Ir a los sitios más visitados">
+<!ENTITY firstRunBookmarks.label "Buscar páginas guardadas para ver después">
+<!ENTITY firstRunMenu.label "Acceder más prestaciones y opciones">
+<!ENTITY firstRunHistory.label "Ver donde ha estado en la web">
+<!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferente por diseño">
