@@ -14,6 +14,6 @@
 <!ENTITY charsetMenuAutodet.ja.accesskey  "J">
 <!ENTITY charsetMenuAutodet.ru.label      "Ruso">
 <!ENTITY charsetMenuAutodet.ru.accesskey  "R">
-
-
+<!ENTITY charsetMenuAutodet.uk.label      "Ucraniano">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 

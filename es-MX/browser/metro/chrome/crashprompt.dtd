@@ -4,13 +4,13 @@
 
 
 <!ENTITY crashprompt.title           "¿Te gustaría enviar informes de fallos a Mozilla?">
-
-
-
-
-
-
-<!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página visitada">
+<!ENTITY crashprompt.message         "Lo sentimos, &brandShortName; acaba de recuperarse de un fallo. Enviar informes de fallo ayudará a Mozilla a hacer &brandShortName; más estable y seguro. Siempre puedes cambiar tus preferencias en Configuración/Opciones.">
+<!ENTITY crashprompt.detailsLink     "¿Que contiene un informe de fallo?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallo contiene algunos detalles sobre el fallo, tu equipo, así como una captura del estado de tu navegador cuando falló.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Puede incluir detalles como páginas abiertas, texto introducido en formularios y el contenido de mensajes abiertos, historial de navegación reciente, o geolocalización compartida con un sitio.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Utilizamos los informes de fallo para intentar resolver problemas y mejorar nuestros productos. Manejamos tu información como se describe en nuestro ">
+<!ENTITY crashprompt.privacyPolicyLink "Política de privacidad de &brandShortName; ">
+<!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en la que estaba">
 <!ENTITY crashprompt.acceptbutton    "Enviar reportes">
 <!ENTITY crashprompt.refusebutton    "No enviar">
-
+<!ENTITY crashprompt.privacyPolicy.title "Política de privacidad de &brandShortName; ">
