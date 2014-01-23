@@ -20,6 +20,10 @@
   Colgadas del navegador
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Colgadas del hilo
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">

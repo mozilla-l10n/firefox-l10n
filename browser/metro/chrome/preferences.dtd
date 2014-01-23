@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Caché">
 <!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
-<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; search history">
+<!ENTITY clearPrivateData.formSearchHist                         "Formularios e historial de búsquedas">
 <!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
 <!ENTITY clearPrivateData.offline                                "Offline website data">
 <!ENTITY clearPrivateData.logins                                 "Active logins">
@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir la dirección de la página que estaba visitando">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
+<!ENTITY optionsHeader.telemetry.label                            "Compartir estadísticas de uso de &brandShortName; Con Mozilla para ayudarnos a mejorar el navegador">

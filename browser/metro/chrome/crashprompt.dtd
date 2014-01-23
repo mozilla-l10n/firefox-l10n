@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "¿Qué hay en un informe de errores?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de errores contiene algunos detalles sobre la falla, su máquina, como también una captura del estado de su navegadore cuando falló.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Ésto puede incluir datos como páginas abiertas, texto ingresado en formularios y el contenido de mensajes abiertos, historial de navegación reciente o gelocalización compartida con un sitio.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Usamos los informes de errores para intentar arreglar los problemas y mejorar nuestros productos. Manejamos la información como se describe en nuestra ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Usamos los informes de errores para intentar arreglar los problemas y mejorar nuestros productos. Manejamos la información como se describe en nuestra ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; política de privacidad">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en la que estaba">
 <!ENTITY crashprompt.acceptbutton    "Enviar informes">
 <!ENTITY crashprompt.refusebutton    "No enviar">
