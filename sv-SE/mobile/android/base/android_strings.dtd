@@ -85,6 +85,9 @@
 <!ENTITY pref_developer_remotedebugging_docs "Läs mer">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
+<!ENTITY pref_category_home "Startsida">
+<!ENTITY pref_category_home_panels "Paneler">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Anpassa">
 <!ENTITY pref_header_display "Visa">
@@ -151,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanliga frågor">
 <!ENTITY pref_vendor_feedback "Ge synpunkter">
-<!ENTITY pref_search_set_default "Ange som standard">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Ta bort">
+
+<!ENTITY pref_dialog_set_default "Ange som standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Ta bort">
+
 <!ENTITY pref_search_last_toast "Du kan inte ta bort eller inaktivera din sista sökmotor.">
+
+<!ENTITY pref_panels_show "Visa">
+<!ENTITY pref_panels_hide "Dölj">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik och data">
 <!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
