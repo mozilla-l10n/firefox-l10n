@@ -83,8 +83,10 @@
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
-
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
+
+<!ENTITY pref_category_home "Accueil">
+<!ENTITY pref_category_home_panels "Panneaux">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personnalisation">
@@ -156,6 +158,9 @@ size. -->
 <!ENTITY pref_search_default "Par défaut">
 <!ENTITY pref_search_remove "Supprimer">
 <!ENTITY pref_search_last_toast "Vous ne pouvez pas supprimer ou désactiver votre dernier moteur de recherche.">
+
+<!ENTITY pref_panels_show "Afficher">
+<!ENTITY pref_panels_hide "Masquer">
 
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "choisir ce que j\u0027envoie">
