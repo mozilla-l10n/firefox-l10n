@@ -484,7 +484,10 @@
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
 <!ENTITY customizeMode.menuAndToolbars.header "Más herramientas para añadir al menú y la barra">
+<!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
+<!ENTITY customizeMode.toolbars "Mostrar / ocultar barras de herramientas">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
