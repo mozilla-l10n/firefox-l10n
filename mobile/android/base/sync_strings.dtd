@@ -72,4 +72,62 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
+<!ENTITY firefox.accounts "Cuentas de Firefox">
 <!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
+<!ENTITY fxaccount.policy 'Al continuar acepta los &lt;a
+         href="http://mozilla.com"&gt;Términos de servicio&lt;/a&gt; y la &lt;a
+         href="http://mozilla.com"&gt;Política de privacidad&lt;/a&gt;.'>
+<!ENTITY fxaccount.forgot.password "¿Ha olvidado la contraseña?">
+<!ENTITY fxaccount.create.account.button.label "Crear cuenta">
+<!ENTITY fxaccount.sign.in.button.label "Conectarse">
+<!ENTITY fxaccount.email.hint "Correo">
+<!ENTITY fxaccount.password.hint "Contraseña">
+<!ENTITY fxaccount.password2.hint "Confirmar contraseña">
+<!ENTITY fxaccount.bad.email "Necesitamos una dirección de correo real.">
+<!ENTITY fxaccount.bad.passwords "Sus contraseñas deben coincidir.">
+<!ENTITY fxaccount.sign.in.instead "¿Ya tiene una cuenta? ¡Inicie sesión!">
+<!ENTITY fxaccount.sign.up.instead "¿No tiene una cuenta? Entonces regístrese.">
+<!ENTITY fxaccount.sign.in "Conectarse">
+<!ENTITY fxaccount.create.account "Crear una cuenta">
+<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Usar &syncBrand.shortName.label; con una versión anterior de &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.when.were.you.born "¿Cuándo nació?">
+<!ENTITY fxaccount.year.of.birth "Año de nacimiento">
+<!ENTITY fxaccount.icon.contentDescription "Icono de cuentas de Firefox">
+<!ENTITY fxaccount.password.hide "Ocultar">
+<!ENTITY fxaccount.password.show "Mostrar">
+<!ENTITY fxaccount.get.started "Iniciarse">
+<!ENTITY fxaccount.description "¡Inicie sesión para hacer copia de seguridad y sincronizar todas sus preferencias y marcadores!">
+<!ENTITY fxaccount.sign.up "Registrarse">
+<!ENTITY fxaccount.options.title "Opciones">
+<!ENTITY fxaccount.options.configure.title "Configurar su cuenta de Firefox">
+<!ENTITY fxaccount.intro.contentDescription "Gráficos de introducción a Cuentas de Firefox">
+<!ENTITY fxaccount.confirmation.email.sent "¡Mensaje de confirmación enviado!">
+<!ENTITY fxaccount.mail.contentDescription "Gráfico del sobre de Cuentas de Firefox">
+<!ENTITY fxaccount.confirmation.description "Su enlace de confirmación le espera en:">
+<!ENTITY fxaccount.offer.resend.confirmation.email "¿No ve un correo? Enviar de nuevo.">
+<!ENTITY fxaccount.password.length.restriction "Debe tener al menos 8 caracteres.">
+<!ENTITY fxaccount.change.password "Cambiar contraseña">
+<!ENTITY fxaccount.status.needs.verification "Su cuenta tiene que ser verificada. Toque aquí para verificar y comenzar a sincronizar.">
+<!ENTITY fxaccount.status.needs.credentials "Los detalles de su cuenta están desactualizados. Toque aquí para iniciar sesión otra vez y seguir sincronizando.">
+<!ENTITY fxaccount.status.syncing "Firefox está sincronizando...">
+<!ENTITY fxaccount.status.sync "Sync">
+<!ENTITY fxaccount.status.bookmarks "Marcadores">
+<!ENTITY fxaccount.status.history "Historial">
+<!ENTITY fxaccount.status.passwords "Contraseñas">
+<!ENTITY fxaccount.status.tabs "Abrir pestañas">
+<!ENTITY fxaccount.update.credentials "Actualizar contraseña">
+<!ENTITY fxaccount.update.credentials.button.label "Reconectar">
+<!ENTITY fxaccount.account.create.not.allowed "No se puede crear la cuenta">
+<!ENTITY fxaccount.account.create.not.allowed.description "Debe cumplir ciertos requisitos de edad para crear una cuenta de Firefox.">
+<!ENTITY fxaccount.create.account.age.1960s "Década de 1960 o antes">
+<!ENTITY fxaccount.create.account.age.1970s "Década de 1970">
+<!ENTITY fxaccount.create.account.age.1980s "Década de 1980">
+<!ENTITY fxaccount.create.account.age.1990s "Década de 1990">
+<!ENTITY fxaccount.create.account.age.2000 "Década de 2000">
+<!ENTITY fxaccount.create.account.age.2001 "2001">
+<!ENTITY fxaccount.create.account.age.2002 "2002">
+<!ENTITY fxaccount.create.account.age.2003 "2003">
+<!ENTITY fxaccount.create.account.age.2004 "2004">
+<!ENTITY fxaccount.create.account.age.2005 "2005">
+<!ENTITY fxaccount.create.account.age.2006 "2006">
+<!ENTITY fxaccount.create.account.age.2007 "2007">

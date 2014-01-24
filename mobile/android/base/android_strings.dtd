@@ -65,6 +65,8 @@
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_category_home "Inicio">
+<!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Mostrar">
 <!ENTITY pref_header_privacy_short "Privacidad">
@@ -116,10 +118,12 @@
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
-<!ENTITY pref_search_set_default "Usar como predeterminado">
-<!ENTITY pref_search_default "Predeterminado">
-<!ENTITY pref_search_remove "Eliminar">
+<!ENTITY pref_dialog_set_default "Configurar como predet.">
+<!ENTITY pref_dialog_default "Predeterminado">
+<!ENTITY pref_dialog_remove "Eliminar">
 <!ENTITY pref_search_last_toast "No puede eliminar ni desactivar su último buscador.">
+<!ENTITY pref_panels_show "Mostrar">
+<!ENTITY pref_panels_hide "Ocultar">
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_action "Elegir qué compartir">
@@ -163,6 +167,10 @@
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
+<!ENTITY media_casting_to "Asimilando a dispositivo">
+<!ENTITY media_play "Reproducir">
+<!ENTITY media_pause "Pausar">
+<!ENTITY media_stop "Detener">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en el modo de lectura">
