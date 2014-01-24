@@ -12,7 +12,7 @@
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Przełącz czarną skrzynkę">
 <!ENTITY debuggerUI.sources.prettyPrint "Popraw czytelność">
 <!ENTITY debuggerUI.autoPrettyPrint "Automatyczne poprawianie czytelności">
-<!ENTITY debuggerUI.autoPrettyPrint.key "P">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "A">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
 <!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
 <!ENTITY debuggerUI.clearButton "Wyczyść">
