@@ -79,6 +79,10 @@
 <!ENTITY options.timestampMessages.label "Znaczniki czasy">
 <!ENTITY options.timestampMessages.tooltip "Po włączeniu tej opcji komendy i ich wyjście w konsoli WWW będą wyświetlane obok znaczników czasu">
 
+<!ENTITY options.styleeditor.label "Edytor stylów">
+<!ENTITY options.stylesheetSourceMaps.label "Pokazuj oryginalne źródła">
+<!ENTITY options.stylesheetSourceMaps.tooltip "Pokazuj oryginalne źródła (np. pliki Saas) w edytorze stylów i inspektorze">
+
 <!ENTITY options.profiler.label "Profiler JavaScript">
 
 <!ENTITY options.showPlatformData.label "Wyświetlaj informacje platformy Gecko">
