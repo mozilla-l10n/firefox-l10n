@@ -74,9 +74,9 @@
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
 <!ENTITY firefox.accounts "Cuentas de Firefox">
 <!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
-<!ENTITY fxaccount.policy 'Al continuar acepta los &lt;a
-         href="http://mozilla.com"&gt;Términos de servicio&lt;/a&gt; y la &lt;a
-         href="http://mozilla.com"&gt;Política de privacidad&lt;/a&gt;.'>
+<!ENTITY fxaccount.policy "Al continuar acepta los &lt;a
+         href='http://mozilla.com'&gt;Términos de servicio&lt;/a&gt; y la &lt;a
+         href='http://mozilla.com'&gt;Política de privacidad&lt;/a&gt;.">
 <!ENTITY fxaccount.forgot.password "¿Ha olvidado la contraseña?">
 <!ENTITY fxaccount.create.account.button.label "Crear cuenta">
 <!ENTITY fxaccount.sign.in.button.label "Conectarse">
@@ -89,7 +89,7 @@
 <!ENTITY fxaccount.sign.up.instead "¿No tiene una cuenta? Entonces regístrese.">
 <!ENTITY fxaccount.sign.in "Conectarse">
 <!ENTITY fxaccount.create.account "Crear una cuenta">
-<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Usar &syncBrand.shortName.label; con una versión anterior de &brandShortName;?&lt;/a&gt;'>
+<!ENTITY fxaccount.old.firefox "&lt;a href='http://mozilla.com'&gt;¿Está usando &syncBrand.shortName.label; con una versión anterior de &brandShortName;?&lt;/a&gt;">
 <!ENTITY fxaccount.when.were.you.born "¿Cuándo nació?">
 <!ENTITY fxaccount.year.of.birth "Año de nacimiento">
 <!ENTITY fxaccount.icon.contentDescription "Icono de cuentas de Firefox">
