@@ -129,6 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "Udostępnij to wideo">
 <!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY feedsMenu.label "Subskrybuj">
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
