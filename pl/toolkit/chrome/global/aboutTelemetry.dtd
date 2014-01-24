@@ -19,6 +19,7 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Zawieszenia przeglądarki
 ">
+<!ENTITY aboutTelemetry.threadHangStatsSection "Zawieszenia wątków">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramy
