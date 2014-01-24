@@ -65,6 +65,8 @@
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_developer_remotedebugging_docs "Подробнее">
 <!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_category_home "Дом">
+<!ENTITY pref_category_home_panels "Панели">
 <!ENTITY pref_header_customize "Настройка">
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
@@ -116,10 +118,12 @@
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
-<!ENTITY pref_search_set_default "Установить по умолчанию">
-<!ENTITY pref_search_default "По умолчанию">
-<!ENTITY pref_search_remove "Удалить">
+<!ENTITY pref_dialog_set_default "Установить по умолчанию">
+<!ENTITY pref_dialog_default "По умолчанию">
+<!ENTITY pref_dialog_remove "Удалить">
 <!ENTITY pref_search_last_toast "Вы не можете удалить или отключить вашу последнюю поисковую систему.">
+<!ENTITY pref_panels_show "Отображать">
+<!ENTITY pref_panels_hide "Скрывать">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
