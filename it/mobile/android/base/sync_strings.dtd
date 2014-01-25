@@ -4,7 +4,7 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY fxaccountBrand.fullName.label "Account di Firefox">
+<!ENTITY fxaccountBrand.fullName.label "Firefox account">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
