@@ -3,3 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.pageTitle "&brandShortName;-konton">
+
+<!ENTITY aboutAccountsSetup.description "Logga in för att säkerhetskopiera och synka dina flikar, bokmärken och annat.">
+<!ENTITY aboutAccountsSetup.startButton.label "Kom igång">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Använda Sync på en äldre version av &brandShortName;?">
