@@ -2,4 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.pageTitle "Account di &brandShortName;">
+<!ENTITY aboutAccounts.pageTitle "&brandShortName; account">
+<!ENTITY aboutAccountsSetup.description "Accedi per salvare e sincronizzare schede, segnalibri e altri elementi.">
+<!ENTITY aboutAccountsSetup.startButton.label "Inizia">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Stai utilizzando Sync su una vecchia versione di &brandShortName;?">
