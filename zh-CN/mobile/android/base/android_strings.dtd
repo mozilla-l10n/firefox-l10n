@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "切换到标签页">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
-<!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在 &brandShortName; 下次启动时的开始页面中列出。">
+<!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "我们很抱歉">
