@@ -85,6 +85,9 @@
 <!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
+<!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_panels "Panely">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
 <!ENTITY pref_header_display "Zobrazovanie">
@@ -152,10 +155,15 @@ size. -->
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
 <!ENTITY pref_vendor_feedback "Odoslať názor">
-<!ENTITY pref_search_set_default "Nastavený ako predvolený">
-<!ENTITY pref_search_default "Predvolený">
-<!ENTITY pref_search_remove "Odstrániť">
+
+<!ENTITY pref_dialog_set_default "Nastaviť ako predvolený">
+<!ENTITY pref_dialog_default "Predvolený">
+<!ENTITY pref_dialog_remove "Odstrániť">
+
 <!ENTITY pref_search_last_toast "Nie je možné odstrániť alebo zakázať posledný vyhľadávací modul.">
+
+<!ENTITY pref_panels_show "Zobraziť">
+<!ENTITY pref_panels_hide "Skryť">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
