@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "인라인 전달">
 <!ENTITY buttonMenuForwardAsAttachment.label "첨부 전달">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "이 메시지의 외부 콘텐츠 표시">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "이 사람이 보낸 메시지의 외부 콘텐츠 표시">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "이 메시지의 경고 무시">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "모든 메시지에 대해 사기 의심 메일 검색 해제">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "새 메시지">
 <!ENTITY appmenuNewContactCmd.label "주소록 연락처…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "음소거 해제">
 <!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName;가 이 메시지를 스팸으로 판단합니다.">
-<!ENTITY junkBarButton1.label "스팸 아님">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "개인 정보 보호를 위하여 &brandShortName;는 메시지에서 외부 콘텐츠를 차단합니다.">
-<!ENTITY loadRemoteContentButton3.label "외부 콘텐츠 표시">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "사기 의심 메일 입니다.">
-<!ENTITY removePhishingBarButton1.label "경고 무시">
-<!ENTITY disablePhishingWarning1.label "모든 메시지에 대해 사기 의심 메일 검색 해제">
-<!ENTITY reportPhishingError1.label "사기 메일이 아닙니다.">
-
-<!--  MDN Bar  -->
-<!ENTITY mdnBarIgnoreButton2.label	"무시">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label		"읽음 확인 보내기">
-<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
