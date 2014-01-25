@@ -16,7 +16,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "您想使用 &brandShortName; 来安全连接至 <b>#1</b>，但是我们无法确认此连接是否安全。">
+<!ENTITY certerror.introPara1 "您想使用 &brandShortName; 安全连接至 <b>#1</b>，但是我们无法确认此连接是否安全。">
 
 <!ENTITY certerror.whatShouldIDo.heading "我该怎么办？">
 <!ENTITY certerror.whatShouldIDo.content "如果您过去曾连接到此网站，并且没有发现问题，那么此错误信息表示可能有人想冒充该网站，因此您应该停止浏览。">

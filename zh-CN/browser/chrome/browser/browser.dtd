@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "撤销关闭标签页">
 <!ENTITY  closeTab.label                     "关闭标签页">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -101,7 +96,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
-<!ENTITY fullScreenRestore.tooltip "恢复">
+<!ENTITY fullScreenRestore.tooltip "还原">
 <!ENTITY fullScreenClose.tooltip "关闭">
 <!ENTITY fullScreenAutohide.label "隐藏工具栏">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -412,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "重启到 Windows 8 风格的 &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "在 Windows 8 触屏版下重启 &brandShortName;">
 <!ENTITY savePageCmd.label            "页面另存为…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
