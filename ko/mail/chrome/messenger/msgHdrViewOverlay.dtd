@@ -7,6 +7,7 @@
 <!ENTITY senderField4.label "보낸 사람 ">
 <!ENTITY organizationField4.label "조직 ">
 <!ENTITY replyToField4.label "답장 주소 ">
+
 <!ENTITY subjectField4.label "제목 ">
 <!ENTITY ccField4.label "Cc ">
 <!ENTITY bccField4.label "Bcc ">
@@ -20,8 +21,6 @@
 <!ENTITY inReplyToField4.label			"In Reply To ">
 <!ENTITY originalWebsite4.label "웹 사이트 ">
 
-<!ENTITY editMessageDescription.label "이 메시지는 초안임">
-<!ENTITY editMessageButton.label "편집…">
 <!ENTITY hdrArchiveButton1.label "보관">
 <!ENTITY hdrArchiveButton1.tooltip "이 메시지 보관">
 <!ENTITY hdrSmartReplyButton1.label		"빠른 답장">

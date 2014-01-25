@@ -26,6 +26,8 @@
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "명함 추가">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "나중에 확인">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "닫기">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
