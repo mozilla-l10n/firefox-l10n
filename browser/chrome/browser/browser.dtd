@@ -129,6 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "Z">
 <!ENTITY shareVideoCmd.label "Zdieľať toto video">
 <!ENTITY shareVideoCmd.accesskey "Z">
+<!ENTITY feedsMenu.label "Odoberať">
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
