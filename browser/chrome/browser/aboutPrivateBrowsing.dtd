@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; 不会对此窗口保存任何历史记录。">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "您当前未处于隐私浏览窗口。">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "在隐私浏览窗口中，&brandShortName; 不会保留任何浏览器历史、搜索历史、下载历史、网络表单历史、Cookie 以及临时互联网文件。不过，您下载的文件和创建的书签会被保留。">
+<!ENTITY privatebrowsingpage.perwindow.description     "在隐私浏览窗口中，&brandShortName; 不会保留任何浏览器历史、搜索历史、下载历史、网络表单历史、Cookie，以及互联网临时文件。不过，您下载的文件与添加的书签将会保留。">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "打开隐私浏览窗口">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
