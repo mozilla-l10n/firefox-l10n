@@ -96,6 +96,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Visa alla flikar">
 <!ENTITY showAllTabsCmd.accesskey "f">
 
+<!ENTITY syncPanel.descriptionSyncing "&brandShortName; synkar nu.">
+<!ENTITY syncPanel.descriptionPrefs "Du kan hantera synkning i webbläsarens inställningar.">
+
 <!ENTITY fullScreenMinimize.tooltip "Minimera">
 <!ENTITY fullScreenRestore.tooltip "Återställ">
 <!ENTITY fullScreenClose.tooltip "Stäng">
