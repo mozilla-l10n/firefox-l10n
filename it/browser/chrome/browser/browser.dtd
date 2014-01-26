@@ -68,6 +68,8 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
 <!ENTITY showAllTabsCmd.accesskey "h">
+<!ENTITY syncPanel.descriptionSyncing "Sincronizzazione di &brandShortName; in corso.">
+<!ENTITY syncPanel.descriptionPrefs "È possibile gestire le impostazioni di Sync dalle impostazioni del browser.">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
 <!ENTITY fullScreenRestore.tooltip "Ripristina">
 <!ENTITY fullScreenClose.tooltip "Chiudi">
