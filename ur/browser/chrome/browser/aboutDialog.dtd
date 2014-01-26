@@ -14,7 +14,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ہے ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "دنیائ حلقہ">
+<!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
 <!ENTITY community.exp.end          "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY community.start2           "&brandShortName; کے ڈیزائنر ہیں">
@@ -22,8 +22,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، ایک">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "عالمی برادری">
-<!ENTITY community.end3             "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
+<!ENTITY community.creditsLink      "ہمہ گیر حلقہ">
+<!ENTITY community.end3             "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ۔">
 
 <!ENTITY contribute.start           "دلچسپ لگا؟">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

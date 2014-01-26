@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ای میل ربط">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY switchToMetroCmd.label       "Windows 8 طرز کے &brandShortName; کے ساتھ پھر چالو کریں">
-
+<!ENTITY switchToMetroCmd2.label      "Windows 8 ٹچ کے لیے &brandShortName; کو دبارہ چالو کریں">
 <!ENTITY savePageCmd.label            "صفحہ محفوظ کریں بطور ...">
 <!ENTITY savePageCmd.accesskey        "ط">
 <!-- alternate for content area context menu -->

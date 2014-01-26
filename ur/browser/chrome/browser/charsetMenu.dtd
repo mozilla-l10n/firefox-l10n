@@ -4,8 +4,9 @@
 
 <!ENTITY charsetMenu.label             "کریکٹر ضابطہ بندی">
 <!ENTITY charsetMenu.accesskey         "ک">
-
+<!ENTITY charsetMenuAutodet.label      "خود-کار کھوج">
 <!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "ک">
 
 <!ENTITY charsetMenuAutodet.off.label     "(آف کریں)">
 <!ENTITY charsetMenuAutodet.off.accesskey "آ">
@@ -13,6 +14,6 @@
 <!ENTITY charsetMenuAutodet.ja.accesskey  "ج">
 <!ENTITY charsetMenuAutodet.ru.label      "روسی">
 <!ENTITY charsetMenuAutodet.ru.accesskey  "ر">
-
-
+<!ENTITY charsetMenuAutodet.uk.label      "یوکرائینی">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "ی">
 

@@ -35,6 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "کریش رپورٹر">
 
-
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "جس صفحہ پر میں تھا اس کا پتہ شامل کریں">
 <!ENTITY optionsHeader.telemetry.title                            "ٹیلیمٹری">
 <!ENTITY optionsHeader.telemetry.label                            "&brandShortName; کے بارے میں اپنی استعمال شدہ شماریات موزیلا کے ساتھ بانٹیں تاکہ ہم آپ کے براؤزر کو بہتر بنانے میں مدد کر سکیں">

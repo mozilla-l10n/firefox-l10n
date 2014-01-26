@@ -9,7 +9,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "غیر تصدیق شدہ رابطہ">
+<!ENTITY certerror.pagetitle  "غیر بھروسہ مند رابطہ">
 <!ENTITY certerror.longpagetitle "یہ رابطہ غیر تصدیق شدہ ہے">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -23,15 +23,15 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو
 اس خرابی کا مطلب ہے کوئی آپ کا بہروپ
 دھارنا چاہ رہا ہے، اور آپ مزید آگے نہ جائیں    ">
-<!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے نکالیں!">
+<!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے باہر نکالو!">
 
-<!ENTITY certerror.expert.heading "مجھے ان خطروں کی پہچان ہے">
+<!ENTITY certerror.expert.heading "مجھے خطروں کی پہچان ہے">
 <!ENTITY certerror.expert.content "اگر آپکو اس معاملے کی پہچان ہے تو آپ,
 &brandShortName; کو اس ویب سائٹ پر اعتبار کا کہہ سکتے ہیں-
 <b>اگرچہ ویب سائٹ قابل اعتبارہے، اس خرابی کامطلب ہے کہ
 کوئی آپکے رابطے کو غضب کررہاہے</b>">
 <!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں
-ناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں-">
+ناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں۔">
 <!ENTITY certerror.addException.label "اکسیپشنمیں میں اضافہ کریں…">
 
 <!ENTITY certerror.technical.heading "تکنیکی تفاصیل">

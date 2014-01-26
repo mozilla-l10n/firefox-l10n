@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "ٹھیک کریں">
 <!ENTITY device.debugAppTooltip "ڈیوائس پر اس ایپ سے جڑے ڈیولپر آلات کھولیں۔">
 <!ENTITY device.name "نام">
-
+<!ENTITY device.plain "سادہ (طےشدہ)">
 <!ENTITY device.privileged " استحقاقی">
 <!ENTITY device.certified "تصدیق شده">
 <!ENTITY device.allow "ہونے دیں">
@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "آلہ کو جڑیں بطرف کرنے والے میزبان اور پورٹ کو تبدیل کریں۔(طےشدہ مقامی میزبان :۶۰۰۰)">
 <!ENTITY connection.startSimulator "سمیولیٹر کو شروع کریں">
 <!ENTITY connection.startSimulatorTooltip "سملیٹر کی صورت شروع کریں اور جڑیں بطرف۔">
-
+<!ENTITY connection.saveConnectionInfo "محفوظ کریں">
 <!ENTITY connection.saveConnectionInfoTooltip "میزبان اور پورٹ کو محفوظ کریں۔">
 <!ENTITY connection.connecting "جوڑ رہا ہے…">
 <!ENTITY connection.disconnecting "منقطع کر رہا ہے…">
@@ -54,9 +54,9 @@
 <!ENTITY connection.or "یا">
 <!ENTITY connection.noSimulatorInstalled "کوئی سمیولیٹر تنصیب شدہ نہیں۔">
 <!ENTITY connection.installOneSimulator "سمیولیٹر کو تنصیب کریں">
-
+<!ENTITY connection.installOneSimulatorTooltip "متعلقہ اضافہ ڈاؤن لوڈ کر کے سمیلیٹر کا ایک ورژن تنصیب کریں۔">
 <!ENTITY connection.installAnotherSimulator "شامل کریں">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "متعلقہ اضافہ ڈاؤن لوڈ کر کے سمیلیٹر کا ایک اضافی ورژن تنصیب کریں۔">
 <!ENTITY connection.startRegisteredSimulator "شروع:">
 
 <!ENTITY projects.localApps "مقامی ایپس">
@@ -72,7 +72,7 @@
 <!ENTITY projects.updateAppTooltip "جواز دہی پڑتال کو نفاذ کریں اور جڑا ہوے آلہ پر ایپ کی تازہ کاری کریں">
 <!ENTITY projects.debugApp "ٹھیک کریں">
 <!ENTITY projects.debugAppTooltip "اس ایپ سے جڑے ہوے ترقی دہندہ ٹولز کو کھولیں">
-
+<!ENTITY projects.saveManifest "محفوظ کریں">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "کوئی پراجیکٹ نہیں۔ نئی پیکیج ایپ (مقامی ڈائریکٹری) یا میزبان ایپ (کھلی مسل سے ربط کریں) کا اضافہ کریں۔">
@@ -82,7 +82,7 @@
 <!ENTITY projects.manifestViewerTooltip "اپنی ایپ کے کو صریح کا نیچے دیے ہوے پینل پر معائنہ کریں۔">
 <!ENTITY projects.valid "جائز">
 <!ENTITY projects.error "نقص">
-
+<!ENTITY projects.warning "تنبیہ">
 
 <!ENTITY help.title "ایپ مینیجر">
 <!ENTITY help.close "بند کریں">
