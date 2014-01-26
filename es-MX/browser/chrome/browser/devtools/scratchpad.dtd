@@ -126,4 +126,4 @@
 
 <!ENTITY evalFunction.label "Evaluar la función actual">
 <!ENTITY evalFunction.accesskey "E">
-
+<!ENTITY evalFunction.key "e">
