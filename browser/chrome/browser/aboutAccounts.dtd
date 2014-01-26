@@ -3,3 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.pageTitle "Comptes &brandShortName;">
+
+<!ENTITY aboutAccountsSetup.description "Connectez-vous pour sauvegarder et synchroniser vos onglets, marque-pages et bien plus.">
+<!ENTITY aboutAccountsSetup.startButton.label "Démarrer">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Vous utilisez Sync avec une version précédente de &brandShortName; ?">
