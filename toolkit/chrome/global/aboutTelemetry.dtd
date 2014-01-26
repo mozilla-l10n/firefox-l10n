@@ -29,7 +29,7 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "Nota: Perlahan SQL debugging telah digunakan. Keseluruhan SQL strings boleh dipamerkan dibawah namun mereka tidak boleh dihantar kepada Telemetry.">
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Slow SQL debugging telah digunakan. Full SQL strings boleh dipamerkan dibawah namun mereka tidak boleh dihantar kepada Telemetry.">
 
 <!ENTITY aboutTelemetry.fetchSymbols "Dapatkan fungsi nama untuk hang stacks">
 

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "Mengenai">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Oleh &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Baca &brandShortName; polisi privasi dalam talian">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Menyemak kemas kini…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -39,6 +42,7 @@
 <!ENTITY update.downloading.start   "Memuat turun kemas kini — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "Memohon kemas kini...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

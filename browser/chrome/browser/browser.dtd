@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Kembalikan Tab Tertutup">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Kembalikan Tab Tertutup">
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -245,6 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "Alatan Pelayar">
+<!ENTITY browserToolboxMenu.accesskey "a">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Perkakas Pembangun">
@@ -255,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tukar Peralatan">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Tukar peralatan pemaju">
 <!ENTITY devToolbarOtherToolsButton.label  "Lagi Alat">
@@ -409,7 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "T">
 <!ENTITY emailPageCmd.label           "Emelkan Pautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
+<!ENTITY switchToMetroCmd.label       "Memulakan lancaran dengan gaya Windows 8 &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "Lancar semula dalam &brandShortName; untuk Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->

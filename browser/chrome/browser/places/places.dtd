@@ -5,7 +5,7 @@
 
 <!ENTITY places.library.title  "Perpustakaan">
 <!ENTITY places.library.width  "700">
-<!ENTITY places.library.height "470">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Atur">
 <!ENTITY organize.accesskey    "A">
 <!ENTITY organize.tooltip      "Atur tandabuku anda">
@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Nama">
 <!ENTITY col.tags.label          "Tanda-tanda">
 <!ENTITY col.url.label           "Lokasi">
-
+<!ENTITY col.mostrecentvisit.label "Antara Selalu Dilawati">
 <!ENTITY col.visitcount.label    "Bilangan Melawat">
 <!ENTITY col.keyword.label       "Kata kunci">
 <!ENTITY col.description.label   "Huraian">

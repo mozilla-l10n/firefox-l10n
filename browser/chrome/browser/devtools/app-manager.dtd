@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY index.title "Pengurus App">
-<!ENTITY index.projects2 "Apps">
+<!ENTITY index.title "Pengurusan Aplikasi">
+<!ENTITY index.projects2 "Aplikasi">
 <!ENTITY index.device2 "Peranti">
 <!ENTITY index.help "Bantuan">
 
 <!ENTITY device.screenshot "Cakupan skrin">
 <!ENTITY device.screenshotTooltip "Buka syot skrin keadaan terkini peranti pada tab baharu.">
 <!ENTITY device.title "Pusat Kawalan Peranti">
-<!ENTITY device.notConnected "Tidak bersambung. Sila sambungkan peranti anda di bawah.">
+<!ENTITY device.notConnected "Tidak bersambung. Sila sambungkan peranti anda di bawah ini.">
 <!ENTITY device.startApp "Mula">
-<!ENTITY device.startAppTooltip "Mulakan app ini pada peranti.">
-<!ENTITY device.stopApp "Berhenti">
-<!ENTITY device.stopAppTooltip "Hentikan app ini pada peranti.">
+<!ENTITY device.startAppTooltip "Mulakan aplikasi ini pada peranti.">
+<!ENTITY device.stopApp "Henti">
+<!ENTITY device.stopAppTooltip "Hentikan aplikasi ini pada peranti.">
 <!ENTITY device.debugApp "Debug">
-<!ENTITY device.debugAppTooltip "Buka Alatan Pembangun yang bersambung ke app ini pada peranti.">
+<!ENTITY device.debugAppTooltip "Buka Alatan Pembangunan yang bersambung ke aplikasi ini pada peranti.">
 <!ENTITY device.name "Nama">
-
+<!ENTITY device.plain "Kosong (lalai)">
 <!ENTITY device.privileged "Keistimewaan">
 <!ENTITY device.certified "Diperakui">
 <!ENTITY device.allow "Benarkan">
@@ -35,16 +35,16 @@
 <!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambungkan peranti.">
-
+<!ENTITY connection.disconnect "Nyahsambung">
 <!ENTITY connection.disconnectTooltip "Putuskan dari peranti semasa atau simulasi">
 <!ENTITY connection.notConnected2 "Tidak Besambung.">
 <!ENTITY connection.connectTo "Sambung ke:">
-
+<!ENTITY connection.noDeviceFound "Tiada peranti dijumpai. Masukkan peranti">
 <!ENTITY connection.changeHostAndPort "Ubah">
 <!ENTITY connection.changeHostAndPortTooltip "Tukar hos dan port yang digunakan untuk menyambung kepada peranti. (Tetapan lalai ialah localhost:6000)">
 <!ENTITY connection.startSimulator "Mulakan Simulasi">
 <!ENTITY connection.startSimulatorTooltip "Mulakan penggunaan Simulasi dan sambungkan.">
-
+<!ENTITY connection.saveConnectionInfo "Mulakan penggunaan Simulasi dan sambungkan.">
 <!ENTITY connection.saveConnectionInfoTooltip "Simpan hos dan port.">
 <!ENTITY connection.connecting "Menyambung…">
 <!ENTITY connection.disconnecting "Memutuskan…">
@@ -55,41 +55,41 @@
 <!ENTITY connection.noSimulatorInstalled "Tiada simulasi terpasang.">
 <!ENTITY connection.installOneSimulator "Pasang Simulasi">
 <!ENTITY connection.installOneSimulatorTooltip "Pasang versi Simulasi dengan memuat turun add-on berkaitan.">
-
+<!ENTITY connection.installAnotherSimulator "Tambah">
 <!ENTITY connection.installAnotherSimulatorTooltip "Pasang versi tambahan pada Simulasi dengan memuat turun addon yang berkaitan.">
+<!ENTITY connection.startRegisteredSimulator "Mula:">
 
-
-<!ENTITY projects.localApps "Apps Tempatan">
+<!ENTITY projects.localApps "Aplikasi Tempatan">
 <!ENTITY projects.addApp "Tambah">
-
+<!ENTITY projects.addPackaged "Tambah Pakej Aplikasi">
 <!ENTITY projects.addPackagedTooltip "Tambah pakej aplikasi berpakej (direktori) dari komputer anda.">
 <!ENTITY projects.addHosted "Tambah Aplikasi yang dihoskan">
 <!ENTITY projects.addHostedTooltip "Tambah aplikasi baharu yang dihoskan (pautan kepada fail manifest.webapp) daripada laman web capaian jauh.">
-<!ENTITY projects.title "Apps Tempatan">
-<!ENTITY projects.appDetails "Perincian App">
+<!ENTITY projects.title "Aplikasi Tempatan">
+<!ENTITY projects.appDetails "Butiran Aplikasi">
 <!ENTITY projects.removeAppFromList "Buangkan aplikasi ini daripada senarai aplikasi yang anda sedang bangunkan. Ini tidak akan membuang aplikasi tersebut daripada peranti atau simulasi.">
-
-
-
-<!ENTITY projects.debugAppTooltip "Buka Alat Pembangun yang tersambung ke app ini">
-
-
+<!ENTITY projects.updateApp "Kemaskini">
+<!ENTITY projects.updateAppTooltip "Jalankan semakan pengesahan dan kemaskini apl kepada peranti yang bersambung">
+<!ENTITY projects.debugApp "Debug">
+<!ENTITY projects.debugAppTooltip "Buka Alat Pembangun yang tersambung ke aplikasi ini">
+<!ENTITY projects.saveManifest "Simpan">
+<!ENTITY projects.saveManifestTooltip "Simpan kandungan daripada Editor Manifest dibawah.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-
-
-
-
-
+<!ENTITY projects.noProjects "Tiada projek. Tambah aplikasi berpakej yang baru dibawah (direktori lokal) atau aplikasi dihoskan (link kepada fail manifest).">
+<!ENTITY projects.manifestEditor "Editor Manifest">
+<!ENTITY projects.manifestEditorTooltip "Edit manifest aplikasi anda dalam penal dibawah. Butang Update akan simpan segala perubahan dan kemaskini aplikasi anda.">
+<!ENTITY projects.manifestViewer "Paparan Manifest">
+<!ENTITY projects.manifestViewerTooltip "Uji manifest aplikasi anda dalam penal dibawah.">
 <!ENTITY projects.valid "Sah">
 <!ENTITY projects.error "Ralat">
+<!ENTITY projects.warning "Amaran">
 
-
-<!ENTITY help.title "Pengurus App">
+<!ENTITY help.title "Pengurusan Aplikasi">
 <!ENTITY help.close "Tutup">
-
-
-
-
-
-
-
+<!ENTITY help.intro "Alat ini akan membantu anda membina dan memasang aplikasi web pada peranti yang serasi (iaitu Firefox OS). <strong>Aplikasi</strong> tab akan membantu anda dalam pengesahan dan pemasangan proses aplikasi anda. <strong>Alatan</strong> tab akan memberikan maklumat mengenai peranti yang bersambung. Menggunakan bar alatan dibahagian bawah untuk menyambung ke peranti atau memulakan simulasi.">
+<!ENTITY help.usefullLinks "Pautan berguna:">
+<!ENTITY help.appMgrDoc "Dokumentasi: Pengunaan Pengurusan Aplikasi">
+<!ENTITY help.configuringDevice "Bagaimana untuk menyediakan peranti Firefox OS anda">
+<!ENTITY help.troubleShooting "Masalah">
+<!ENTITY help.simulatorAddon "Memasang Simulasi Add-on">
+<!ENTITY help.adbHelperAddon "Memasang Bantuan Adb Add-on">

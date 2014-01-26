@@ -78,7 +78,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.cookies                  "Adakah laman web ini menyimpan maklumat (kuki) pada komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Papar Cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">

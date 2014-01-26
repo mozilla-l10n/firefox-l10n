@@ -94,8 +94,8 @@ pastikan yang &brandShortName; dibenarkan mencapai Web.</li>
 
 <!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari 
-menerima cookie.</li> 
+<li>Masalah ini kadangkala boleh terjadi kerana melumpuhkan atau menolak untuk menerima 
+ikan. </li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">

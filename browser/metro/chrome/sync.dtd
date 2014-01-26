@@ -18,7 +18,7 @@
 
 <!-- Flyout when setting up manually -->
 
-
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Kata laluan">
 
 <!ENTITY sync.flyout.manualsetup.connect.label           "Sambung">
 <!-- Flyout when user has just connected -->
@@ -28,7 +28,9 @@
 
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "Akaun:">
 
+<!ENTITY sync.flyout.connected.disconnect                 "Nyahsambung">
 
 
 

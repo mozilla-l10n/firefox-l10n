@@ -31,7 +31,7 @@ was trying to connect. -->
  mengganggu sambungan anda.</b>">
 <!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian melainkan 
  anda tahu ada alasan munasabah mengapa laman tidak boleh guna identifikasi yang dipercayai.">
-
-
+<!ENTITY certerror.addTemporaryException.label "Layari laman">
+<!ENTITY certerror.addPermanentException.label "Tambah pengecualian selamanya">
 
 <!ENTITY certerror.technical.heading "Maklumat Teknikal">

@@ -5,22 +5,23 @@
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.char.title                                "Pengekodan Aksara">
+<!ENTITY optionsHeader.char.autodetect.label                     "Auto-kesan">
 
 
+<!ENTITY clearPrivateData.title                                  "Padamkan Data Peribadi">
+
+<!ENTITY clearPrivateData.button                                 "Kosongkan">
 
 
-
-
-
-
-
+<!ENTITY clearPrivateData.otherdata                              "Data-data lain (kata laluan, cache, kuki, lain-lain)">
+<!ENTITY clearPrivateData.downloadHist                           "Sejarah muat turun">
 <!ENTITY clearPrivateData.cookies                                "Cookie">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Keutamaan Laman">
+<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; latar carian">
 
-
-
-
-
-
+<!ENTITY clearPrivateData.offline                                "Data laman web luar talian">
+<!ENTITY clearPrivateData.logins                                 "Login Aktif">
 
 
 

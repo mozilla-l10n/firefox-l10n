@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Bahasa Melayu
+#define MOZ_LANG_TITLE English (US)

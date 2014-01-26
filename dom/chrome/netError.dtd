@@ -58,7 +58,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Pelungsur dikonfigurkan untuk menggunakan pelayan proksi, tetapi proksi tidak dapat ditemui.</p><ul><li>Adakah konfigurasi proksi pelungsur betul? Periksa tetapan dan cuba lagi.</li><li>Adakah komputer disambungkan kepada rangkaian aktif?</li><li>Masih bermasalah? Dapatkan nasihat pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
 
 <!ENTITY redirectLoop.title "Gelung Lencongan">
-<!ENTITY redirectLoop.longDesc "<p>Pelungsur berhenti daripada cuba mendapatkan itek diminta. Laman mengalihkan permintaan dengan cara yang tidak akan selesai.</p><ul><li>Sudahkan anda melumpuhkan atau menghalang keperluan cookie oleh tapak ini?</li><li><em>NOTA</em>: Jika terima cookie dari tapak ini juga tidak dapat menyelesaikan masalah, berkemungkinan adalah masalah konfigurasi pelayan dan bukannya komputer anda.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Pelungsur berhenti daripada cuba mendapatkan item diminta. Laman mengalihkan permintaan dengan cara yang tidak akan selesai.</p><ul><li>Sudahkan anda melumpuhkan atau menghalang keperluan kuki oleh tapak ini?</li><li><em>NOTA</em>: Jika terima kuki dari tapak ini juga tidak dapat menyelesaikan masalah, berkemungkinan adalah masalah konfigurasi pelayan dan bukannya komputer anda.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Tindak Balas Salah">
 <!ENTITY unknownSocketType.longDesc "<p>Tapak membalas permintaan rangkaian dengan cara yang tidak dijangka dan pelungsur tidak dapat diteruskan.</p>">
