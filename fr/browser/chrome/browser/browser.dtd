@@ -101,6 +101,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Afficher tous les onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+<!ENTITY syncPanel.descriptionSyncing "&brandShortName; est en cours de synchronisation.">
+<!ENTITY syncPanel.descriptionPrefs "Vous pouvez gérer Sync depuis les préférences de votre navigateur.">
+
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
 <!ENTITY fullScreenClose.tooltip "Fermer">
