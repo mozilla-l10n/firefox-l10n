@@ -84,3 +84,8 @@
 <!ENTITY firstRunHistory.label "Controlla i siti che hai visitato sul Web">
 <!ENTITY firstRunWelcome.label "Benvenuto in &brandShortName;">
 <!ENTITY firstRunDifferent.label "Originale a partire dal progetto">
+<!ENTITY firstRunBack.label "Tocca per tornare alla pagina precedente">
+<!ENTITY firstRunNewTab.label "Aggiungi una nuova scheda per visualizzare un altro sito">
+<!ENTITY firstRunStar.label "Utilizza i segnalibri per salvare le pagine più interessanti">
+<!ENTITY firstRunPin.label "Aggiungi qualunque sito alla schermata Start di Windows per un accesso più rapido">
+<!ENTITY firstRunGotIt.label "Ricevuto!">
