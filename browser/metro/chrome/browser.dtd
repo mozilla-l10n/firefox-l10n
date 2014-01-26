@@ -84,3 +84,8 @@
 <!ENTITY firstRunHistory.label "Посмотрите, где вы были в Интернете">
 <!ENTITY firstRunWelcome.label "Добро пожаловать в &brandShortName;">
 <!ENTITY firstRunDifferent.label "Сделан с душой">
+<!ENTITY firstRunBack.label "Нажмите, чтобы вернуться на предыдущую страницу">
+<!ENTITY firstRunNewTab.label "Добавьте новую вкладку, чтобы исследовать новый сайт">
+<!ENTITY firstRunStar.label "Используйте закладки, чтобы открывать в будущем эти страницы">
+<!ENTITY firstRunPin.label "Закрепите любой сайт на вашем экране Пуск Windows для быстрого доступа">
+<!ENTITY firstRunGotIt.label "Понял!">

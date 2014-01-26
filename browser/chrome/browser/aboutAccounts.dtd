@@ -3,3 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.pageTitle "Учётные записи &brandShortName;">
+<!ENTITY aboutAccountsSetup.description "Войдите для резервного копирования и синхронизации ваших вкладок, закладок и другого.">
+<!ENTITY aboutAccountsSetup.startButton.label "Начать">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Используете Синхронизацию со старой версией &brandShortName;?">
