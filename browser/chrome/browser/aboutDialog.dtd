@@ -15,9 +15,9 @@
 <!ENTITY community.exp.middle       "است">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "انجمن جهانی">
-<!ENTITY community.exp.end          "همه با هم کار میکنیم برای داشتن وب آزاد,عمومی و قابل دسترسی برای همه.">
+<!ENTITY community.exp.end          "  برای باز، عمومی و قابل دسترس نگاه داشتن وب برای همه با هم کار میکنیم.">
 
-<!ENTITY community.start2           "طراحی شده توسط ;brandShortName">
+<!ENTITY community.start2           "طراحی شده توسط ;brandShortName  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
