@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "Media Sharing">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Share">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Cancel">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "ਮੀਡਿਆ ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY getUserMediaDialog.button.accept.label     "ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "ਰੱਦ ਕਰੋ">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-<!ENTITY getUserMediaDialog.video.label           "Select camera">
-<!ENTITY getUserMediaDialog.video.noVideo         "No video">
-<!ENTITY getUserMediaDialog.audio.label           "Select microphone">
-<!ENTITY getUserMediaDialog.audio.noAudio         "No audio">
+<!ENTITY getUserMediaDialog.video.label             "ਕੈਮਰਾ ਚੁਣੋ">
+<!ENTITY getUserMediaDialog.video.noVideo           "ਕੋਈ ਕੈਮਰਾ ਨਹੀਂ">
+<!ENTITY getUserMediaDialog.audio.label             "ਮਾਈਕਰੋਫੋਨ ਚੁਣੋ">
+<!ENTITY getUserMediaDialog.audio.noAudio           "ਕੋਈ ਆਡੀਓ ਨਹੀਂ">
