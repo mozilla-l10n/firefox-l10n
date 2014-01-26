@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "အမည်">
 <!ENTITY col.tags.label          "စာအမှတ်များ">
 <!ENTITY col.url.label           "တည်နေရာ">
-<!ENTITY col.lastvisit.label     "လည်ပတ်တဲ့နေ့">
+
 <!ENTITY col.visitcount.label    "လည်ပတ်မူ အရေအတွက်">
 <!ENTITY col.keyword.label       "သော့ချက် စာလုံး">
 <!ENTITY col.description.label   "ဖေါ်ပြချက်">

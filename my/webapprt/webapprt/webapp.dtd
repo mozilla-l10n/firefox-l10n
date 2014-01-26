@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "အားလုံး ဖေါ်ပြပါ">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "တည်းဖြတ်ပါ">
 <!ENTITY editMenu.accesskey                 "တ">
 <!ENTITY undoCmd.label                      "ပြန်ဖြည်ပါ">

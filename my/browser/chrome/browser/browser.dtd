@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "စာမျက်နှာအားပိတ်ပစ်ခြင်းအားမလုပ်လိုတော့ပါ။">
 <!ENTITY  undoCloseTab.accesskey             "စ">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "စာမျက်နှာအားပိတ်ပစ်ခြင်းအားမလုပ်လိုတော့ပါ။">
 <!ENTITY  closeTab.label                     "Close Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -226,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -242,21 +237,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "ဘရောက်ဇာ ဒီဘပ်ဂါ">
+<!ENTITY browserToolboxMenu.label     "eဘယောက်ဆာ တူးလ်ဘား">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "A အက်ပလီကေးရှင်း မန်နေဂျာ">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
@@ -411,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "အီးမေးလ် လင့်...">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "ဝင်းဒိုးကွန်ပျူတာစနစ်အမှတ်(၈)ပုံစံ &brandShortName;">
+
 <!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -605,6 +602,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "ပိုမို အချက်အလက်...">
 
 <!ENTITY identity.permissions "ပါမစ်ရှင်များ">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

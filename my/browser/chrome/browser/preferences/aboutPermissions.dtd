@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "အမြဲမေးပါ">
 <!ENTITY permission.allow                "ခွင့်ပြုပါ (A)">
 <!ENTITY permission.allowForSession      "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
-<!ENTITY permission.allowFirstPartyOnly  "မူလသက်ဆိုင်သူသာ ခွင့်ပြုပါ">
+<!ENTITY permission.allowFirstPartyOnly  "မူလသက်ဆိုင်သူသာ ခွင့်ပြုပါ">
 <!ENTITY permission.block                "ပိတ်ဆို့ပါ">
 
 <!ENTITY password.label                  "သိမ်းဆည်းထားသောလျှို့ဝှက်စကားလုံးများ">

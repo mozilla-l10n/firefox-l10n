@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "ပြီးဆုံးပြီ">
 <!ENTITY stats.activitySeeking "(ရှာဖွေနေပါသည်)">
 <!ENTITY stats.volume "ပမဏ(ထု)">
-<!ENTITY stats.channels "ထုတ်လွှတ်လိုင်းခွဲများ">
-<!ENTITY stats.sampleRate "နမူနာနှူန်း">
 <!ENTITY stats.framesParsed "Frames parsed">
 <!ENTITY stats.framesDecoded "Frames decoded">
 <!ENTITY stats.framesPresented "Frames presented">

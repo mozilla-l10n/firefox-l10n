@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "ရွေးစရာများ">
-<!ENTITY optionsHeader.startup.title                             "စတင်ခြင်း">
-
-
-
 <!ENTITY optionsHeader.char.title                                "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "ပျက်ဆီးချက်တင်ပြသူ">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "ကျွန်ုပ်ရောက်နေခဲ့သောစာမျက်နှာလိပ်စာပါထည့်ပေးလိုက်မည်။">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 

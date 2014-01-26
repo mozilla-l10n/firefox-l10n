@@ -26,20 +26,20 @@
 
 <!ENTITY  font.langGroup.latin1                   "အနောက်တိုင်း စာလုံး">
 <!ENTITY  font.langGroup.latin2                   "ဥရောပ အလယ်‌ပိုင်း စာလုံး">
-<!ENTITY  font.langGroup.japanese                 "ဂျပန်">
+
 <!ENTITY  font.langGroup.trad-chinese             "တရုတ်ရိုးရာ (ထိုင်ဝမ်) စာလုံး">
 <!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတဲ့ တရုတ်">
 <!ENTITY  font.langGroup.trad-chinese-hk          "တရုတ်ရိုးရာ (ဟောင်ကောင်) စာလုံး">
-<!ENTITY  font.langGroup.korean                   "ကိုးရီးယား">
-<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရိလ်လစ် စာလုံး">
-<!ENTITY  font.langGroup.baltic                   "ဘောလ်တစ် စာလုံး">
-<!ENTITY  font.langGroup.el                       "ဂရိ">
-<!ENTITY  font.langGroup.turkish                  "တာရ်ကူရှ်">
+
+
+
+
+
 <!ENTITY  font.langGroup.unicode                  "အခြား ဘာသာ စကားများ">
 <!ENTITY  font.langGroup.user-def                 "သုံးစွဲသူ အဓိပ္ပာယ် ဖော်သည်">
-<!ENTITY  font.langGroup.thai                     "ထိုင်း">
-<!ENTITY  font.langGroup.hebrew                   "ဟေဗြဲ">
-<!ENTITY  font.langGroup.arabic                   "အာရေဗိ">
+
+
+
 <!ENTITY  font.langGroup.devanagari               "ဒေဗာနာဂါရီ စာလုံး">
 <!ENTITY  font.langGroup.tamil                    "တမီးလ်">
 <!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်း">
@@ -72,3 +72,30 @@
 <!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "ဗီယက်နမ်မီး">
+

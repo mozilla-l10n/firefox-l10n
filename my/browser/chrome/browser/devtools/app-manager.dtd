@@ -2,17 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "အက်ပလီကေးရှင်း မန်နေဂျာ">
+<!ENTITY index.projects2 "အက်ပလီကေးရှင်းများ">
+<!ENTITY index.device2 "စက်ကိရိယာ">
+<!ENTITY index.help "အကူအညီ">
 
+<!ENTITY device.screenshot "မျက်နှာပြင်ရိုက်ချက်">
 
+<!ENTITY device.title "ဗဟို စက်ကိရိယာ ထိန်းချုပ်ဌာန">
+<!ENTITY device.notConnected "မချိတ်ဆက်ထားပါ။ ကျေးဇူးပြု၍ သင့်စက်ကိရိယာကို အောက်ဘက်တွင် ချိတ်ဆက်ပေးပါ။">
 
+<!ENTITY device.startAppTooltip "ဒီ အပ်(ပ်)ကို စက်ကိရိယာပေါ်တွင် စတင်လုပ်ဆောင်ပါ။">
 
-
-
-
-
-
-
-
+<!ENTITY device.stopAppTooltip "ဒီ အပ်(ပ်)ကို စက်ကိရိယာပေါ်တွင် လုပ်ဆောင်မှု ရပ်တန့်ပါ။">
+<!ENTITY device.debugApp "အမှားစစ်">
 
 <!ENTITY device.name "အမည်">
 
@@ -40,7 +43,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "သိမ်းဆည်းပါ">
+
 
 <!ENTITY connection.connecting "ချက်ဆက်နေသည်">
 
@@ -67,6 +70,16 @@
 
 
 
+<!ENTITY projects.saveManifest "သိမ်းဆည်းပါ">
+
+
+
+
+
+
+
+<!ENTITY projects.valid "ရပြီ">
+<!ENTITY projects.error "အမှား">
 
 
 

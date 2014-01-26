@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "ဆွဲချချက်များ">
 
-<!ENTITY showWhenDownloading.label     "D ဖိုင်တခုကို ဆွဲချနေစဉ် ဆွဲချစရာများ ၀င်းဒိုးကို ပြသပါ">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "w ဆွဲချစရာများ အားလုံး ပြီးစီးတဲ့အခါ ၄င်းကို ပိတ်ပါ">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "v ဖိုင်များကို သိမ်းဆည်းမဲ့နေရာ">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "oလှော်​လှန်ပါ...">

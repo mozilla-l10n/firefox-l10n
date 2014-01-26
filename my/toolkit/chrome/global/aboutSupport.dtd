@@ -9,6 +9,13 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ထုတ်ပြန်ချက် ID">
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "တိုးချဲ့ချက်များ">
 <!ENTITY aboutSupport.extensionName "အမည်">
 <!ENTITY aboutSupport.extensionEnabled "ဖွင့်ထားတယ်">
@@ -33,7 +40,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ပက်လက်အင် အားဖွင့်ပါ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration တည်ဆောက်ပါ">
 <!ENTITY aboutSupport.appBasicsUserAgent "အသုံးပြုသူ အေးဂျင့်">
-<!ENTITY aboutSupport.appBasicsCrashIDs "ပျက်စီးမှူတင်ပြချက်များ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
 
 <!ENTITY aboutSupport.showDir.label "ဖွင့်ထားသော လမ်းညွှန်">
