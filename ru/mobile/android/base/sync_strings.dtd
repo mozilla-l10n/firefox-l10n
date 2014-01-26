@@ -96,7 +96,7 @@
 <!ENTITY fxaccount.password.hide "Скрыть">
 <!ENTITY fxaccount.password.show "Показать">
 <!ENTITY fxaccount.get.started "Начать">
-<!ENTITY fxaccount.description "Войдите для резервного копирования и синхронизации все ваших настроек и закладок!">
+<!ENTITY fxaccount.description "Войдите для резервного копирования и синхронизации всех ваших настроек и закладок!">
 <!ENTITY fxaccount.sign.up "Регистрация">
 <!ENTITY fxaccount.options.title "Настройки">
 <!ENTITY fxaccount.options.configure.title "Настройка учетной записи Firefox">
