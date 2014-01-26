@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 <!ENTITY emailPageCmd.accesskey       "ம">
 <!ENTITY switchToMetroCmd.label       "விண்டோசு 8 பாணியுடன் &brandShortName; ஒத்திசை">
-
+<!ENTITY switchToMetroCmd2.label      "விண்டோஸ் 8 தொடு கணினிக்கு &brandShortName; இல் மறுதுவக்க செய்ய வேண்டும்">
 <!ENTITY savePageCmd.label            "பக்கத்தை இப்படி சேமி…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->

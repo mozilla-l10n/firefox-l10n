@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "பிழை முனையத்தைத் திற">
 <!ENTITY appbarJSShell.label           "JavaScript ஷெல்லைத் திற">
 <!ENTITY appbarFindInPage2.label       "இந்த பக்கத்தில் தேடு">
-
+<!ENTITY appbarRelaunchInDesktop.label "பணிமேடையை மீள்துவக்கு">
 <!ENTITY appbarMSMetaData2.label       "இந்த தளத்திற்க்கான பயன்பாட்டை பெறு">
-
+<!ENTITY appbarViewPageSource.label    "பக்கத்திற்க்கான மூலத்தைப் பார்">
 
 <!ENTITY topSitesHeader.label        "சிறந்த தளங்கள்">
 <!ENTITY bookmarksHeader.label       "புத்தககுறிகள்">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "உங்களுடைய கீற்றுகளை எதிர்பார்க்கிறீர்களா? கீழே இழுக்கவும் அல்லது வலுதாக சொடுக்கவும்">
+<!ENTITY firstRunTopSites.label "நீங்கள் அதிகமாக பார்வையிடும் தளங்களுக்கு செல்">
+<!ENTITY firstRunBookmarks.label "பிறகு பார்ப்பதற்க்காக நீங்கள் சேமித்த பக்கங்களை கண்டுபிடி">
+<!ENTITY firstRunMenu.label "அதிக வசதிகள் மற்றும் விருப்பங்களை அணுக">
+<!ENTITY firstRunHistory.label "நீங்கள் இணையத்தில் எங்குள்ளீர்கள் என பார்">
+<!ENTITY firstRunWelcome.label "&brandShortName; க்கு வருக">
+<!ENTITY firstRunDifferent.label "வடிவமைப்பால் வேறுபட்டது">

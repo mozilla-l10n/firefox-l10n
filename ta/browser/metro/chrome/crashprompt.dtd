@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title           "Mozilla செயலிழப்பு அறிக்கைகளை அனுப்ப வேண்டுமா?">
-
-
+<!ENTITY crashprompt.title           "மொசில்லா செயலிழப்பு அறிக்கைகளை அனுப்ப வேண்டுமா?">
+<!ENTITY crashprompt.message         "மன்னிக்கவும், &brandShortName; இப்போது தான் செயலிழப்பிலிருந்து மீட்கப்பட்டது. செயலிழப்பு அறிக்கைகளை அனுப்பினால் &brandShortName; ஐ மேலும் நிலைத்தன்மை உடையதாகவும் பாதுகாப்பானதாகவும் மாற்ற &brandShortName; க்கு உதவியாக இருக்கும். நீங்கள் விரும்பும் போது அமைவுகள்/விருப்பங்களுக்குச் சென்று உங்கள் முன்னுரிமைகளை மாற்றலாம்.">
+<!ENTITY crashprompt.detailsLink     "சிதைவு அறிக்கையில் என்ன உள்ளது?">
 
 
 

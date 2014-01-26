@@ -6,8 +6,8 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "ஊடக பகிர்வு">
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "பகிர்">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "ப">
 
 
 
