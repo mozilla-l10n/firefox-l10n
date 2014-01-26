@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "ਗਲਤੀ ਕਨਸੋਲ  ਖੋਲ੍ਹੋ">
 <!ENTITY appbarJSShell.label        "JavaScript ਸ਼ੈੱਲ ਖੋਲ੍ਹੋ">
 <!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
-<!ENTITY appbarViewOnDesktop2.label "ਡੈਸਕਟਾਪ ਉੱਤੇ ਵੇਖੋ">
+<!ENTITY appbarRelaunchInDesktop.label "Relaunch in Desktop">
 <!ENTITY appbarMSMetaData2.label    "ਇਹ ਸਾਈਟ ਲਈ ਐਪ ਲਵੋ">
+<!ENTITY appbarViewPageSource.label    "View page source">
 
 <!ENTITY topSitesHeader.label        "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY bookmarksHeader.label       "ਬੁੱਕਮਾਰਕ">
@@ -108,3 +109,25 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੱਭ ਰਹੇ ਹੋ? ਸਿਰਫ਼ ਖਿੱਚੋ ਜਾਂ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ">
+<!ENTITY firstRunTopSites.label "ਆਪਣੇ ਵਲੋਂ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੀਆਂ ਸਾਈਟਾਂ ਵੇਖੋ">
+<!ENTITY firstRunBookmarks.label "ਸਫ਼ੇ ਲੱਭੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਬਾਅਦ ਲਈ ਸੰਭਾਲੇ ਹਨ">
+<!ENTITY firstRunMenu.label "ਹੋਰ ਫੀਚਰ ਅਤੇ ਚੋਣਾਂ ਵਰਤੋਂ">
+<!ENTITY firstRunHistory.label "ਵੇਖੋ ਕਿ ਤੁਸੀਂ ਵੈੱਬ ਉੱਤੇ ਕਿੱਥੇ ਹੋ">
+<!ENTITY firstRunWelcome.label "&brandShortName; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY firstRunDifferent.label "ਡਿਜ਼ਾਇਨ ਰਾਹੀਂ ਵੱਖਰਾ">
