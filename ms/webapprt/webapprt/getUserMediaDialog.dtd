@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Perkongsian Media">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Kongsi">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "K">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Batal">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "B">
 
 <!ENTITY getUserMediaDialog.video.label             "Pilih Kamera">
 <!ENTITY getUserMediaDialog.video.noVideo           "Tiada Video">

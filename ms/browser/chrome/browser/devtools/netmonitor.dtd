@@ -10,8 +10,14 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
+
+
+
+<!ENTITY netmonitorUI.emptyNotice2        "Lakukan permintaan atau muat semula halaman untuk melihat maklumat terperinci tentang aktiviti rangkaian.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -88,6 +94,8 @@
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "Kosongkan">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
@@ -172,6 +180,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "Buka di Tab Baru">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->

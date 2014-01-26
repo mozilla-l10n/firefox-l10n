@@ -24,11 +24,11 @@
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
 <!ENTITY  locbar.nothing.label          "Tiada">
 
-<!ENTITY  acceptCookies.label           "Terima cookie dari laman web">
+<!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
 <!ENTITY  acceptCookies.accesskey       "T">
 
-<!ENTITY  acceptThirdParty.pre.label      "Menerima cookie pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "a">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
@@ -53,7 +53,7 @@
 <!ENTITY  historyHeader.custom.label       "Guna tetapan sendiri untuk sejarah">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelungsuran, muaturun, borang, dan pencarian anda serta menyimpan cookies daripada laman web yang anda layari.">
+<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelayaran web, muat turun, borang dan carian anda, dan menyimpan kuki daripada laman-laman web yang anda lawati.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -61,7 +61,7 @@
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
 <!ENTITY  rememberActions.clearHistory.label  "hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
-<!ENTITY  rememberActions.removeCookies.label "hapuskan cookies individu">
+<!ENTITY  rememberActions.removeCookies.label "hapuskan kuki individu">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
