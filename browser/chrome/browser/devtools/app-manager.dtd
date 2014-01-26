@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Cambiar el servidor y el puerto usados para conectar el dispositivos. (Por defecto a localhost:6000)">
 <!ENTITY connection.startSimulator "Iniciar simulador">
 <!ENTITY connection.startSimulatorTooltip "Iniciar una instancia del simulador y conectarlo.">
-
+<!ENTITY connection.saveConnectionInfo "Guardar">
 <!ENTITY connection.saveConnectionInfoTooltip "Guardar el servidor y el puerto.">
 <!ENTITY connection.connecting "Conectando…">
 <!ENTITY connection.disconnecting "Desconectando…">
@@ -73,7 +73,7 @@
 <!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Abrir herramientas del desarrollador conectado a esta aplicación">
 <!ENTITY projects.saveManifest "Guardar">
-
+<!ENTITY projects.saveManifestTooltip "Guardar el contenido del Editor de Manifiesto de abajo.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hay proyectos. Añade una nueva aplicación empaquetada (directorio local) más abajo o una aplicación alojada (enlace a un archivo manifest).">
 <!ENTITY projects.manifestEditor "Editor de archivos Manifest">
