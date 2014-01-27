@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Բեռնումներ">
-<!ENTITY aboutDownloads.header                     "Ձեր բեռնումները">
+<!ENTITY aboutDownloads.header                     "Ձեր Բեռնումները">
 <!ENTITY aboutDownloads.empty                      "Չկան բեռնումներ">
 
 <!ENTITY aboutDownloads.open                       "Բացել">
 <!ENTITY aboutDownloads.remove                     "Ջնջել">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.removeAll                  "Ջնջել բոլորը">
 <!ENTITY aboutDownloads.pause                      "Դադար">
 <!ENTITY aboutDownloads.resume                     "Շարունակել">
 <!ENTITY aboutDownloads.cancel                     "Չեղարկել">

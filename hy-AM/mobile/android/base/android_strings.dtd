@@ -10,12 +10,12 @@
 
 <!ENTITY  bookmarks_title "Էջանիշեր">
 <!ENTITY  history_title "Պատմություն">
-<!ENTITY  reading_list_title "Reading List">
+<!ENTITY  reading_list_title "Ընթերցումների ցանկ">
 
 <!ENTITY  switch_to_tab "Անցնել ներդիրին">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-ի Վթարի զեկուցիչ">
-<!ENTITY  crash_message2 "&brandShortName;-ը ձախողվել է։ Ձեր էջերը կերևան &brandShortName;-ում Մեկնարկային էջը վերագործարկելիս։">
+<!ENTITY  crash_message2 "&brandShortName;-ը ձախողվել է։ Ձեր ներդիրները կերևան &brandShortName;-ում՝ Մեկնարկային էջը վերամեկնարկելիս։">
 <!ENTITY  crash_send_report_message3 "Հաղորդեք &vendorShortName;-ին այս վթարի մասին՝ այն ուղղելու համար">
 <!ENTITY  crash_include_url2 "Ներառել կայքի հասցեն, որտեղ ես գտնվել եմ">
 <!ENTITY  crash_sorry "Կներեք">
@@ -33,7 +33,7 @@
 
 <!ENTITY choose_file "Ընտրել Ֆայլը">
 
-<!ENTITY url_bar_default_text "Նշեք Որոնում կամ հասցեն">
+<!ENTITY url_bar_default_text "Նշեք Որոնում կամ գրեք հասցե">
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_added "Էջանիշ է ավելացվել">
@@ -46,32 +46,32 @@
 <!ENTITY history_week_section "7 օր առաջ">
 <!ENTITY history_older_section "7 օրից հին ">
 
-<!ENTITY go "Անցնել">
+<!ENTITY go "Առաջ">
 <!ENTITY search "Փնտրել">
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
-
+<!ENTITY menu "Ցանկ">
 <!ENTITY back "Նախորդ">
 <!ENTITY stop "Կանգնեցնել">
 <!ENTITY site_security "Կայքի անվտանգությունը">
 
 <!ENTITY close_tab "Փակել Էջը">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "1 ներդիր">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "Նոր էջ է բացվել">
+<!ENTITY num_tabs2 "&formatD; ներդիրներ">
+<!ENTITY new_tab_opened "Նոր ներդիր է բացվել">
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_advanced "Լրացուցիչ">
-<!ENTITY pref_category_customize "Կարգավորել">
+<!ENTITY pref_category_customize "Կարգավորումներ">
 <!ENTITY pref_category_search2 "Գտնել կարգավորում">
-<!ENTITY pref_category_display "Ցուցադրել">
+<!ENTITY pref_category_display "Տեսքը">
 <!ENTITY pref_category_privacy_short "Գաղտնիությունը">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Ընտրել տվյալները">
-<!ENTITY pref_category_installed_search_engines "Տեղադրված որոնման հանգույցները">
+<!ENTITY pref_category_installed_search_engines "Տեղադրված Որոնիչները">
 <!ENTITY pref_category_add_search_providers "Ավելացնել որոնման հանգույցներ">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -83,8 +83,8 @@
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառը">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Կարգավորել">
-<!ENTITY pref_header_display "Ցուցադրել">
+<!ENTITY pref_header_customize "Կարգավորումներ">
+<!ENTITY pref_header_display "Տեսքը">
 <!ENTITY pref_header_privacy_short "Գաղտնիությունը">
 <!ENTITY pref_header_help "Օգնություն">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -92,7 +92,7 @@
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
 <!ENTITY pref_cookies_accept_all "Միացված">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_not_accept_foreign "Միացած է, բացի կողմնակի կայքերից">
 <!ENTITY pref_cookies_disabled "Անջատված է">
 
 <!ENTITY pref_donottrack_menu "Հետագծում">
@@ -102,11 +102,11 @@
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
-<!ENTITY pref_char_encoding_off "Չցուցադրե\լ ընտրացանկը">
+<!ENTITY pref_char_encoding_off "Չցուցադրել ցանկը">
 <!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալը">
 <!ENTITY pref_plugins "Պլագիններ">
 <!ENTITY pref_plugins_enabled "Միացված">
-<!ENTITY pref_plugins_tap_to_play "Խաղարկել">
+<!ENTITY pref_plugins_tap_to_play "Խաղարկել սեղմելիս">
 <!ENTITY pref_plugins_disabled "Անջատված">
 <!ENTITY pref_text_size "Տեքստի չափը">
 <!ENTITY pref_reflow_on_zoom4 "Տեքստի վերաձևաչափում">
@@ -118,7 +118,7 @@
 <!ENTITY pref_font_size_medium "Միջին">
 <!ENTITY pref_font_size_large "Մեծ">
 <!ENTITY pref_font_size_xlarge "Շատ մեծ">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "Նշել">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -131,18 +131,18 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_show_product_announcements "Ցուցադրել ծրագրի ծանուցումները">
 <!ENTITY pref_sync "Սինք">
 <!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
 <!ENTITY pref_import_android "Ներմուծել Android-ից">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_history "Բեռնումները և Պատմությունը">
+<!ENTITY pref_private_data_formdata "Ձևերի և Որոնումների պատմությունը">
+<!ENTITY pref_private_data_cookies2 "Cookie-ներ և ակտիվ մուտքեր">
+<!ENTITY pref_private_data_passwords "Պահպանված գաղտնաբառեր">
 <!ENTITY pref_private_data_cache "Պահոցը">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_offlineApps "Անցանց կայքերի տվյալները">
 <!ENTITY pref_private_data_siteSettings2 "Կայքի կարգավորումներ">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "Ներբեռնված ֆայլերը">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
@@ -151,7 +151,7 @@ size. -->
 <!ENTITY pref_search_set_default "Օգտագործել լռելյայն">
 <!ENTITY pref_search_default "Լռելյայն">
 <!ENTITY pref_search_remove "Ջնջել">
-<!ENTITY pref_search_last_toast "Չեք կարող ջնջել կամ անջատել որոնման միակ հանգույցը:">
+<!ENTITY pref_search_last_toast "Չեք կարող ջնջել կամ անջատել միակ որոնիչը:">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-ի վիճակի &amp; տվյալը">
 <!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը տարածել">
@@ -180,7 +180,9 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+
+<!ENTITY pref_update_autodownload2 "Թարմացումները բեռնել ինքնավար">
+<!ENTITY pref_update_autodownload_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_update_autodownload_never "Երբեք">
 <!ENTITY pref_update_autodownload_always "Միշտ">
 
@@ -188,22 +190,22 @@ size. -->
 
 <!ENTITY addons "Հավելումներ">
 <!ENTITY downloads "Բեռնումներ">
-<!ENTITY apps "Apps">
+<!ENTITY apps "Ծրագրեր">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
 
 <!ENTITY share "Տարածել">
 <!ENTITY share_title "Տարածել՝">
-<!ENTITY share_image_failed "Unable to share this image">
+<!ENTITY share_image_failed "Հնարավոր չեղավ տարածել այս նկարը">
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
 <!ENTITY find_in_page "Գտնել էջում">
-<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY desktop_mode "Ամբողջական կայքը">
 <!ENTITY tools "Գործիքներ">
-<!ENTITY new_tab "Նոր էջ">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_tab "Նոր Ներդիր">
+<!ENTITY new_private_tab "Սկսել Գաղտնի Դիտարկում">
+<!ENTITY close_all_tabs "Փակել բոլոր ներդիրները">
 <!ENTITY tabs_normal "Ներդիրներ">
 <!ENTITY tabs_private "Անձնական">
-<!ENTITY tabs_synced "Synced">
+<!ENTITY tabs_synced "Սինք">
 <!ENTITY set_image_fail "Հնարավոր չէ պահել նկարը">
 <!ENTITY set_image_chooser_title "Պահել նկարը որպես">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -214,27 +216,28 @@ size. -->
 <!ENTITY find_next "Հաջորդը">
 <!ENTITY find_close "Փակել">
 
-<!ENTITY contextmenu_open_new_tab "Բացել նոր էջում">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_new_tab "Բացել նոր ներդիրում">
+<!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
+<!ENTITY contextmenu_open_in_reader "Բացել՝ կարդալու համար">
 <!ENTITY contextmenu_remove "Ջնջել">
-<!ENTITY contextmenu_add_to_launcher "Ավելացնել Առաջին էջում">
+<!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
 <!ENTITY contextmenu_share "Տարածել">
-<!ENTITY contextmenu_pasteandgo "Տեղադրել և&amp; Առաջ">
-<!ENTITY contextmenu_paste "Տեղադրել">
-<!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_pasteandgo "Դնել և Առաջ">
+<!ENTITY contextmenu_paste "Դնել">
+<!ENTITY contextmenu_copyurl "Պատճենել հասցեն">
 <!ENTITY contextmenu_edit_bookmark "Խմբագրել">
 <!ENTITY contextmenu_subscribe "Բաժանորդագրվել Էջին">
 <!ENTITY contextmenu_site_settings "Փոխել կայքի կարգավորումը">
 <!ENTITY contextmenu_top_sites_edit "Խմբագրել">
-<!ENTITY contextmenu_top_sites_pin "Pin Site">
-<!ENTITY contextmenu_top_sites_unpin "Unpin Site">
-
+<!ENTITY contextmenu_top_sites_pin "Ամրացնել կայքը">
+<!ENTITY contextmenu_top_sites_unpin "Ապամրացնել կայքը">
+<!ENTITY contextmenu_add_search_engine "Ավելացնել որոնողական հանգույց">
 
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
 <!ENTITY pref_titlebar_mode_url "Ցուցադրել էջի հասցեն">
 
+<!ENTITY pref_dynamic_toolbar "Էջը շարժելիս հասցեի տողը թաքցնել">
 
 <!ENTITY history_removed "Էջը ջնջվել է">
 
@@ -248,12 +251,12 @@ size. -->
 <!ENTITY site_settings_title3       "Կայքի կարգավորումներ">
 <!ENTITY site_settings_cancel       "Չեղարկել">
 <!ENTITY site_settings_clear        "Մաքրել">
-<!ENTITY site_settings_no_settings  "Չկան կարգավորումներ՝ ջնջելու համար:">
+<!ENTITY site_settings_no_settings  "Մաքրելու համար կարգավորում չկա:">
 
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reading_list_duplicate "Էջը ավելացվել է Ընթերցումների ցանկում">
+<!ENTITY reading_list_added "Էջը ավելացվել է Ընթերցումների ցանկում">
+<!ENTITY reading_list_removed "Էջը հեռացվել է Ընթերցումների ցանկից">
+<!ENTITY reading_list_failed "Հնարավոր չէ էջը ավելացվել Ընթերցումների ցանկում">
+<!ENTITY reading_list_duplicate "Էջը արդեն Ընթերցումների ցանկում է">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -268,19 +271,19 @@ size. -->
 <!ENTITY button_cancel "Չեղարկել">
 <!ENTITY button_yes "Այո">
 <!ENTITY button_no "Ոչ">
-<!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
+<!ENTITY button_clear_data "Մաքրել տվյալները">
+<!ENTITY button_set "Նշել">
 <!ENTITY button_clear "Մաքրել">
 
-<!ENTITY home_top_sites_title "Հայտնի կայքերը">
+<!ENTITY home_top_sites_title "Լավագույն կայքերը">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ավելացնել կայք">
 
 <!ENTITY home_history_title "Պատմություն">
 <!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվող էջանիշերը:">
-<!ENTITY home_last_tabs_title "Ձեր բացած վերջին էջերը">
-<!ENTITY home_last_tabs_open "Բացել վերջին բոլոր էջերը">
+<!ENTITY home_last_tabs_title "Ձեր բացած վերջին ներդիրները">
+<!ENTITY home_last_tabs_open "Բացել վերջին բոլոր ներդիրները">
 <!ENTITY home_last_tabs_empty "Վերջին այցոլությունները:">
 <!ENTITY home_most_recent_title "Ամենավերջինները">
 <!ENTITY home_most_recent_empty "Ցուցադրված են Ձեր այցելած վերջին կայքերը:">
@@ -302,7 +305,7 @@ size. -->
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Դուք կապնվել էք">
+<!ENTITY identity_connected_to "Դուք կապակցված եք՝">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -314,32 +317,32 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "որը ղեկավարվում է">
+<!ENTITY identity_run_by "որի կառավարիչն է՝">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Այս էջի պարունակությունը անվտանգ չէ:">
-<!ENTITY blocked_mixed_content_message_top "&#037;S-ը արգելափակել է ոչ անվտանգ բովանդակությունը:">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը:">
 <!ENTITY blocked_mixed_content_message_bottom "Կայքերի մեծամասնությունը կշարունակի նորմալ աշխատել, անգամ եթե բովանդակությունը արգելափակված լինի:">
 <!ENTITY learn_more "Մանրամասն">
 <!ENTITY enable_protection "Միացնել պաշտպանությունը">
 <!ENTITY disable_protection "Անջատել պաշտպանությունը">
 <!ENTITY keep_blocking "Շարունակել արգելքը">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "Անձնական տվյալները մաքրվեցին">
+<!ENTITY private_data_fail "Անձնական որոշ տվյալներ հնարավոր չէ ջնջել">
 
 <!ENTITY bookmarkhistory_button_import "Ներմուծել">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history 
-from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks 
-from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history 
-from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_import_both "Էջանիշերի և Պատմության ներմուծում 
+Android-ից">
+<!ENTITY bookmarkhistory_import_bookmarks "Էջանիշերի ներմուծում 
+Android-ից">
+<!ENTITY bookmarkhistory_import_history "Պատմության ներմուծում 
+Android-ից">
+<!ENTITY bookmarkhistory_import_wait "Խնդրում ենք սպասել...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "Միացնե՞լ որոնման &formatS; առաջարկները:">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -348,32 +351,34 @@ from Android">
 
 <!ENTITY webapp_generic_name "App">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "Էջանիշներ և Պատմություն">
 
 <!ENTITY devtools_remote_debugging_forward "Չմոռանաք կարգավորել պորտի վերաուղղորդումը։">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_start_select2 "Դիպչեք՝ բեռնելու համար">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;-ը բեռնվում է">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_title_failed2 "Բեռնումը ձախողվեց">
 <!ENTITY updater_downloading_select2 "Դիպչեք՝ բեռնելուց հետո թարմացումը կիրառելու հաար">
 <!ENTITY updater_downloading_retry2 "Դիպչել՝ կրկնելու համար">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_apply_select2 "Դիպչել՝ թարմացնելու համար">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Հյուրի աշխատաշրջան">
-<!ENTITY exit_guest_session "Հյուրի աշխատաշրջանի վերջ">
+<!ENTITY exit_guest_session "Ավարտել հյուրի աշխատաշրջանը">
 <!ENTITY guest_session_dialog_continue "Շարունակել">
 <!ENTITY guest_session_dialog_cancel "Չեղարկել">
 <!ENTITY new_guest_session_title "&brandShortName;-ը կվերագործարկվի">
-<!ENTITY new_guest_session_text "Այն օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառեր, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
+<!ENTITY new_guest_session_text "Սա օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառերը, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
 
 <!ENTITY exit_guest_session_title "&brandShortName;-ը կվերագործարկվի">
 <!ENTITY exit_guest_session_text "Այս աշխատաշրջանի դիտարկման պատմությունը կմաքրվի:">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Ցանկ">
 <!ENTITY actionbar_done "Պատրաստ է">
