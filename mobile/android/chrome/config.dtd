@@ -11,9 +11,11 @@
 <!ENTITY newPref.valueString           "Տեքստ">
 <!ENTITY newPref.valueInteger          "Ամբողջ">
 
-
+<!ENTITY newPref.stringPlaceholder     "Նշեք տողը">
+<!ENTITY newPref.numberPlaceholder     "Գրեք համարը">
 
 <!ENTITY newPref.toggleButton          "Հակառակը">
 <!ENTITY newPref.cancelButton          "Չեղարկել">
 
-
+<!ENTITY contextMenu.copyPrefName      "Պատճենել անունը">
+<!ENTITY contextMenu.copyPrefValue     "Պատճենել արժեքը ">
