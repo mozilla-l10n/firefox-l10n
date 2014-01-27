@@ -50,7 +50,7 @@
 <!ENTITY search "தேடு">
 <!ENTITY reload "மீளேற்று">
 <!ENTITY forward "முன்னால்">
-<!ENTITY menu "மெனு">
+<!ENTITY menu "பட்டி">
 <!ENTITY back "பின்னோக்கு">
 <!ENTITY stop "நிறுத்து">
 <!ENTITY site_security "வலைத்தள பாதுகாப்பு">
@@ -177,11 +177,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title "&vendorShortName; இடமறியும் சேவைகள்">
 <!ENTITY datareporting_wifi_summary "புவிஇருப்பிட சேவைகள் மேம்படுத்தவும் திறந்த முறையில் இணையத்தை வளர்க்கவும் &brandShortName; மூலம் செல்லுலார் கோபுரம் தரவுகளை சேகரிக்கவும் உதவுகிறது">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "தானியாக்க புதுப்பித்தல்கள்">
+<!ENTITY pref_update_autodownload2 "புதுப்பித்தல்களைத் தானாக பதிவிறக்கு">
 <!ENTITY pref_update_autodownload_wifi "வை பை வழியாக மட்டும்">
-<!ENTITY pref_update_autodownload_disabled "முடக்கப்பட்டது">
-<!ENTITY pref_update_autodownload_enabled "செயல்படுத்தப்பட்டது">
+<!ENTITY pref_update_autodownload_never "எப்போதுமில்லை">
+<!ENTITY pref_update_autodownload_always "எப்போதும்">
 
 <!ENTITY quit "வெளியேறு">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "திருத்து">
 <!ENTITY contextmenu_top_sites_pin "தளத்தை சொருகு">
 <!ENTITY contextmenu_top_sites_unpin "தளத்தை சொருகல் நீக்கு">
+<!ENTITY contextmenu_add_search_engine "தேடும் பொறியைச் சேர்">
 
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
+
+<!ENTITY pref_dynamic_toolbar "பக்க பட்டையை உருட்டும்போது தலைப்பு பட்டை மறைக்கிறது">
 
 <!ENTITY history_removed "பக்கம் நீக்கப்பட்டது">
 
@@ -368,3 +374,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
 <!ENTITY exit_guest_session_text "இந்த அமர்வில் இருந்து உலாவின் தரவு அழிக்கப்படும்.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "முடிந்தது">

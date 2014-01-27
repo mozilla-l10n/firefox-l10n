@@ -2,6 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "அமைப்புக்களைத் தேடு">
-<!ENTITY clear.altText          "துடை">
-<!ENTITY newpref.label2         "புதிய அமைவுகளை சேர்">
+
+<!ENTITY toolbar.searchPlaceholder     "தேடு">
+
+<!ENTITY newPref.namePlaceholder       "பெயர்">
+
+
+
+
+
+
+<!ENTITY newPref.cancelButton          "விடு">
+
+
