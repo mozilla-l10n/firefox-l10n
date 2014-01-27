@@ -8,6 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Yintoni eba kwingxelo yokonakala?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Ingxelo yokonakala iba neenkcukacha ezithile ngokonakala, umatshini wakho, kunye nomfanekiso wemo yebhrawuza yakho xa yonakele.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Oku kungaquka izinto ezifana amaphepha avulekileyo, amagama abhalwe kwifomu kunye nombandela okwimiyalezo, imbali yokubhrawuza yakutshanje, okanye indawo okuyo ekwabelwene ngayo nesayithi leyo.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraph "Sisebenzisa ingxelo yokonakala ukuzama ukulungisa iingxaki nokuphucula iimveliso zethu. Inkcazelo yakho siyiphatha ngendlela esichaza ngayo ">
 <!ENTITY crashprompt.privacyPolicyLink "kwi-&brandShortName; umgaqo-nkqubo wethu wabucala">
 <!ENTITY crashprompt.includeURLLabel "Quka idilesi yephepha ebendikulo">
