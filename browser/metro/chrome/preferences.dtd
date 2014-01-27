@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Aithrisiche nan tuislidhean">
 <!ENTITY optionsHeader.reporting.crashes.label                   "Cuiridh &brandShortName; aithisgean tuislidh dha Mozilla ach an urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Cuir ann seòladh na duilleige far an robh mi">
 <!ENTITY optionsHeader.telemetry.title                            "Telemeatraidh">
 <!ENTITY optionsHeader.telemetry.label                            "Cuir fiosrachadh air do chleachdadh de &brandShortName; gu Mozilla airson 's gun urrainn dhuinn am brabhsair agad a dhèanamh nas fhearr">
