@@ -97,3 +97,9 @@
 <!ENTITY firstRunHistory.label "Odwiedzane strony">
 <!ENTITY firstRunWelcome.label "Witamy w programie &brandShortName;">
 <!ENTITY firstRunDifferent.label "Different by design"><!-- FIXME -->
+
+<!ENTITY firstRunBack.label "Przejdź do poprzedniej strony">
+<!ENTITY firstRunNewTab.label "Otwórz nową kartę">
+<!ENTITY firstRunStar.label "Dodaj zakładkę do strony">
+<!ENTITY firstRunPin.label "Przypnij stonę na ekranie startowym Windows">
+<!ENTITY firstRunGotIt.label "OK">
