@@ -7,20 +7,17 @@
 
 
 <!ENTITY optionsHeader.title                                     "ตัวเลือก">
-<!ENTITY optionsHeader.startup.title                             "เริ่มการทำงาน">
 
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "ล้างข้อมูลส่วนตัว">
+<!ENTITY clearPrivateData.label                                  "ล้างประวัติการท่องเว็บ รหัสผ่าน คุกกี้ และข้อมูลฟอร์มของคุณบนอุปกรณ์นี้">
+<!ENTITY clearPrivateData.button                                 "ล้าง">
+<!ENTITY clearPrivateData.done                                   "เสร็จ!">
+<!ENTITY clearPrivateData.history                                "ประวัติการท่องเว็บ">
+<!ENTITY clearPrivateData.otherdata                              "ข้อมูลอื่น ๆ (รหัสผ่าน แคช คุกกี้ ฯลฯ)">
+<!ENTITY clearPrivateData.downloadHist                           "ประวัติการดาวน์โหลด">
 <!ENTITY clearPrivateData.cookies                                "คุกกี้">
 <!ENTITY clearPrivateData.cache                                  "แคช">
 <!ENTITY clearPrivateData.sitePref                               "การตั้งค่าเว็บไซต์">
@@ -30,12 +27,14 @@
 <!ENTITY clearPrivateData.logins                                 "การล็อกอินที่ค้างอยู่">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "จำรหัสผ่าน">
+<!ENTITY doNotTrack.title                                        "Do Not Track">
+<!ENTITY doNotTrack.options.doNotTrack                           "บอกเว็บไซต์ว่าไม่ต้องตามรอยฉัน">
 
 
-
-
+<!ENTITY doNotTrack.learnMoreLink                                "เรียนรู้เพิ่มเติม&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "ตัวรายงานข้อขัดข้อง">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย Mozilla ทำเบราเซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "รวมที่ตั้งของหน้าที่ฉันเข้าชมอยู่ด้วย">
 <!ENTITY optionsHeader.telemetry.title                            "การวัดและส่งข้อมูลทางไกล">
-
+<!ENTITY optionsHeader.telemetry.label                            "แบ่งปันสถิติการใช้งานเกี่ยวกับ &brandShortName; กับ Mozilla เพื่อช่วยเราสร้างเว็บเบราว์เซอร์ของคุณให้ดีขึ้น">

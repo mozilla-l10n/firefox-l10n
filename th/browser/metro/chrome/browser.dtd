@@ -3,18 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+
+<!ENTITY urlbar.emptytext      "กรอกคำค้นหรือที่อยู่เว็บ">
+
 <!ENTITY back.label            "ย้อนกลับ">
 <!ENTITY forward.label         "ถัดไป">
 <!ENTITY newtab.label          "แท็บใหม่">
 <!ENTITY closetab.label        "ปิดแท็บนี้">
 
+<!ENTITY autocompleteResultsHeader.label  "ผลลัพธ์ของคุณ">
 
+<!ENTITY appbarErrorConsole.label      "เปิดหน้าจอข้อผิดพลาด">
+<!ENTITY appbarJSShell.label           "เปิดเชลล์ JavaScript">
+<!ENTITY appbarFindInPage2.label       "ค้นหาในหน้านี้">
+<!ENTITY appbarRelaunchInDesktop.label "เปิดใหม่ในพื้นโต๊ะ">
+<!ENTITY appbarMSMetaData2.label       "รับแอพสำหรับเว็บไซต์นี้">
+<!ENTITY appbarViewPageSource.label    "ดูซอร์สโค้ดหน้าเว็บ">
 
-<!ENTITY appbarFindInPage2.label    "ค้นหาในหน้านี้">
-
-
+<!ENTITY topSitesHeader.label        "เว็บเด่น">
 <!ENTITY bookmarksHeader.label       "ที่คั่นหน้า">
-
+<!ENTITY recentHistoryHeader.label   "ประวัติล่าสุด">
 <!ENTITY remoteTabsHeader.label      "แท็บจากอุปกรณ์อื่น">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -23,9 +31,11 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
+
+<!ENTITY narrowTopSitesHeader.label      "เว็บเด่น">
 <!ENTITY narrowBookmarksHeader.label     "ที่คั่นหน้า">
-
-
+<!ENTITY narrowRecentHistoryHeader.label "ประวัติล่าสุด">
+<!ENTITY narrowRemoteTabsHeader.label    "แท็บระยะไกล">
 
 <!ENTITY downloadsHeader.label     "ดาวน์โหลด">
 
@@ -67,10 +77,14 @@
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "บันทึกไปยังคลังรูปภาพ">
 <!ENTITY contextCopyImage.label            "คัดลอกภาพ">
 <!ENTITY contextCopyImageLocation.label    "คัดลอกที่ตั้งภาพ">
 <!ENTITY contextOpenImageTab.label         "เปิดลิงก์ในแท็บใหม่">
 <!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "บันทึกไปยังคลังวิดีโอ">
 <!ENTITY contextCopyVideoLocation.label    "คัดลอกที่ตั้งของวิดีโอ">
 <!ENTITY contextOpenVideoTab.label         "เปิดวิดีโอในแท็บใหม่">
 <!-- KEYBOARD SHORTCUTS -->
@@ -89,3 +103,22 @@
 
 
 
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTopSites.label "ไปยังเว็บไซต์ที่คุณเยี่ยมชมมากที่สุด">
+<!ENTITY firstRunBookmarks.label "ค้นหาหน้าที่คุณเคยบันทึกไว้ทีหลัง">
+<!ENTITY firstRunMenu.label "เข้าถึงคุณสมบัติและตัวเลือกเพิ่มเติม">
+<!ENTITY firstRunHistory.label "ดูว่าคุณเคยท่องเว็บไหนมาบ้าง">
+<!ENTITY firstRunWelcome.label "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY firstRunDifferent.label "แตกต่างด้วยการออกแบบ">

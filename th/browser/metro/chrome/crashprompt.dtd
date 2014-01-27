@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "คุณต้องการส่งรายงานข้อขัดข้องให้ Mozilla?">
+
+<!ENTITY crashprompt.detailsLink     "มีอะไรในรายงานข้อขัดข้อง?">
+
+
+
+
+<!ENTITY crashprompt.includeURLLabel "รวมที่ตั้งของหน้าที่ฉันเข้าชมอยู่ด้วย">
+
+
+
