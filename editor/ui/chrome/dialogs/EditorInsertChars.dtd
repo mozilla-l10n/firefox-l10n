@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Ներմուծել նշան">
 <!ENTITY category.label "Բաժինը">
 <!ENTITY letter.label "Letter:">
@@ -17,4 +17,3 @@
 <!ENTITY commonSymbols.label "Ընդհանուր նշաններ">
 <!ENTITY insertButton.label "Ներմուծել">
 <!ENTITY closeButton.label "Փակել">
-

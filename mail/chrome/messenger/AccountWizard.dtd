@@ -1,29 +1,26 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Փոստարկղի Վարպետ">
 <!ENTITY accountWizard.size "լայն-ը. 40em; բարձր-ը. 38em;">
-
 <!-- Entities for Account Type page -->
-
-<!ENTITY accountSetupInfo.label "Նախ կարգավորեք Էլ. փոստի կամ Նորությունների փոստարկղը։">
 <!ENTITY accountTypeTitle.label "Նոր փոստարկղի կարգավորում">
-<!ENTITY accountTypeDesc.label "Այս Վարպետը կհավաքի անհրաժեշտ տեղեկատվություն՝ կարգավորելու համար Էլ. կամ Նորությունների փոստարկղը։">
+
 <!ENTITY accountTypeDirections.label "Ընտրեք փոստարկղի տեսակը.">
 <!ENTITY accountTypeMail.label "Փոստարկղ">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Նորությունների փոստարկղ">
 <!ENTITY accountTypeNews.accesskey "w">
-
 <!-- Entities for Identity page -->
+
 
 <!ENTITY identityTitle.label "Որոշիչ">
 <!ENTITY identityDesc.label "Յուրք. փոստարկղ անհատական է, այն ուղարկում է նշված տեղեկությունը Ձեր մասին, երբ որևէ մեկը ստանում է Ձեր նամակը։">
-
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!ENTITY fullnameDesc.label "Նշեք այն անունը, որը ուղարկվող նամակների կերևա &quot;Ումից&quot; դաշտում">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,23 +32,8 @@
 
 <!ENTITY emailLabel.label "Էլ. հասցեներ.">
 <!ENTITY emailLabel.accesskey "E">
-
-<!-- Entities for Server page -->
-
-<!ENTITY serverTitle.label "Սպասարկիչի ինֆոն">
+<!-- Entities for Incoming Server page -->
 <!ENTITY incomingServerTypeDesc.label "Ընտրեք մուտքային սպասարկիչի տեսակը։">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Նշեք մուտքային սպասարկիչի անունը (օրինակ՝ &quot;mail.example.net&quot;)։">
-<!ENTITY incomingServerLabel.label "Մուտքային սպասարկիչ.">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Նշեք ելքային սպասարկիչի անունը (SMTP) (օրինակ՝ &quot;smtp.example.net&quot;)։">
-<!ENTITY smtpServerLabel.label "Ելքային սպասարկիչ.">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "Նորությունների սպասարկիչ.">
-<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,48 +42,58 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Թողնել նամակները սպասարկիչում">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Դարպասը.">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Ծրագրային.">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+
+
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
+<!ENTITY newsServerLabel.label "Նորությունների սպասարկիչ.">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- Entities for Outgoing Server page -->
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ձեր առկա ելքային սպասարկիչը (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, կօգտագործվի։ Կարող եք փոփոխել ելքային սպասարկիչը փոստարկղի կարգավորումներում։">
 
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Օգտվողի անունները">
-<!ENTITY usernameDesc.label "Նշեք մուտքայինի օգտվողի Ձեր անունը">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(օրինակ՝ &quot;jsmith&quot;)։">
-<!ENTITY usernameLabel.label "Մուտքային՝ օգտվողի անունը.">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Նշեք ելքայինի օգտվողի Ձեր անունը">
-<!ENTITY usernameSmtpLabel.label "Ելքային՝ օգտվողի անունը.">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ձեր առկա ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, կօգտագործվի։ Կարող եք փոփոխել ելքային սպասարկիչները փոստարկղի կարգավորումներում։">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, համապատասխանում է մուտքային սպասարկիչին։, կօգտագործվի օգտվողի Ձեր մուտքային անունը։Կարող եք փոփոխել ելքային սպասարկիչները փոստարկղի կարգավորումներում։">
 
 <!-- Entities for Account name page -->
+
 
 <!ENTITY accnameTitle.label "Փոստարկղի անունը">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Նշեք անունը, որին ցանանում եք կցել այս փոստարկղը (օրինակ՝ &quot;Աշխ. փոստարկղ&quot;, &quot;Տնային փոստարկղ&quot; կամ &quot;Նորությունների փոստարկղ&quot;)։">
 <!ENTITY accnameLabel.label "Փոստարկղի անունը.">
 <!ENTITY accnameLabel.accesskey "A">
-
 <!-- Entities for Done (Congratulations) page -->
+
 
 <!ENTITY completionTitle.label "Շնորհավորում ենք!">
 <!ENTITY completionText.label "Համոզվեք, որ տեղեկությունը ճիշտ է։">
@@ -116,4 +108,3 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Սեղմեք Ավարտել՝ պահպանելու համար կարգավորումները և փակելու համար Փոստարկղի Վարպետը։">
 <!ENTITY clickFinish.labelMac "Սեղմեք Պատրաստ է՝ պահպանելու համար կարգավորումները և փակելու համար Փոստարկղի Վարպետը։">
-

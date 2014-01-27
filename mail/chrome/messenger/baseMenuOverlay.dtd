@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Օգնություն">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -17,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ի՞նչն է նոր">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "Միգրացիայի օգնական">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Օգնության բովանդակությունը">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "Օ">
@@ -28,4 +26,3 @@
 
 <!ENTITY aboutMenuCmd.label "&brandShortName;-ի մասին">
 <!ENTITY aboutMenuCmd.accesskey "A">
-

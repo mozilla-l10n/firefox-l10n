@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountName.label "Փոստարկղի անունը.">
@@ -15,6 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Պատասխանել հասցեներին.">
 <!ENTITY replyTo.accesskey "s">
+
 <!ENTITY organization.label "Կազմակերպությունը.">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Ստորագրությունը.">
@@ -22,7 +23,7 @@
 <!ENTITY signatureHtml.label "Օգտ. HTML (օր.՝ &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Կցել ստորագրություն ֆայլով (տեքստ, HTML կամ նկար).">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Խմբագրել...">
 <!ENTITY choose.label "Ընտրել…">
 <!ENTITY choose.accesskey "C">
@@ -34,9 +35,8 @@
 
 <!ENTITY manageIdentities.label "Կառավարել որոշիչները...">
 <!ENTITY manageIdentities.accesskey "M">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Ելքային սպասարկիչը (SMTP).">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Օգտ. հիմնական սպասարկիչը">
-

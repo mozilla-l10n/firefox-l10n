@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+
 <!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " -  ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Ստեղծագործության գործիքաշերտը">
 <!ENTITY previewToolbarCmd.label "Ընտրել">
 <!ENTITY previewToolbarCmd.tooltip "Բացել էջը դիտարկիչում">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Արտածել տեքստով...">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Ընտրել էջը">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Ուղարկել էջը">
 <!ENTITY sendPageCmd.accesskey "d">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Ստեղծագործության գործիքաշերտը">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Գործիքաշերտի տեսակը">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Խմբագրման գործիքաշերտը">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Տեսակը">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Տեսադրման ցանցը">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "Էջի անունը և հատկությունները...">
 <!ENTITY pageProperties.accesskey "g">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "Ճիշտ HTML">
 <!ENTITY validateCmd.accesskey "V">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Նորմալ">
 <!ENTITY NormalMode.label "Խմբագրման նորմալ եղանակ">
 <!ENTITY NormalMode.accesskey "N">
@@ -65,4 +65,3 @@
 <!ENTITY PreviewMode.label "Դիտել">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Ցուցադրել որպես WYSIWYG (ինչպես որ դիտարկիչում)">
-

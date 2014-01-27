@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Հրապարակել էջը">
 <!ENTITY windowTitleSettings.label    "Հրապարակման կարգավորումներ">
 <!ENTITY publishTab.label             "Հրապարակել">
 <!ENTITY settingsTab.label            "Կարգավորումներ">
 <!ENTITY publishButton.label          "Հրապարակել">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Կայքի անունը.">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Ընտրեք այն կայքը, որը ցանկանում եք հրապարակել">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Ջնջել կայքը">
 <!ENTITY removeButton.accesskey       "R">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Կայքերի հրապարակում">
 <!ENTITY serverInfo.label             "Սպասարկիչը">
 <!ENTITY loginInfo.label              "Մուտքի տեղեկությունը">
@@ -63,4 +63,3 @@
 <!ENTITY savePassword.label           "Պահպանել գաղտնաբառը">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Ընտրեք սա՝ պահպանելու համար գաղտնաբառը Գաղտնաբառերի կառավարիչում">
-

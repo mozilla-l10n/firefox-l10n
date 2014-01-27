@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ջնջել">
 <!ENTITY deleteButton.accesskey "t">
+
+
+
 <!ENTITY reorderUpButton.label "Վեր">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "Վար">
 <!ENTITY reorderDownButton.accesskey "D">
+
+
+
 <!ENTITY filterHeader.label "Միացված ֆիլտրերը կկատարվեն միանգամից։">
 <!ENTITY filtersForPrefix.label "Ֆիլտրեր՝">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,4 +37,5 @@
 <!ENTITY helpButton.label "Օգնություն">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+
 

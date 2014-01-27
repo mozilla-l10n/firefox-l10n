@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Հորիզոնական տողի հատկություններ">
 
 <!ENTITY dimensionsBox.label "Չափերը">
 <!ENTITY heightEditField.label "Height:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "Width:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "փիքսել">
@@ -25,4 +25,3 @@
 <!ENTITY saveSettings.label "Use as Default">
 <!ENTITY saveSettings.accessKey "D">
 <!ENTITY saveSettings.tooltip "Պահպանեք այս կարգավորումները՝ նոր հորիզոնական տողերի համար">
-

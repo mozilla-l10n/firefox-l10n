@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Download and Sync Messages">
 <!ENTITY MsgSelect.label "Items for Offline Use">
@@ -17,7 +17,7 @@
 <!ENTITY workOffline.label "Աշխատել անցանց՝ բեռնելուց և/կամ համաժամեցնելուց հետո">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Ընտրել...">
-<!ENTITY selectButton.accesskey "e">
+<!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
 <!ENTITY MsgSelectInd.label "Download">
 <!ENTITY MsgSelectItems.label "Folders and Newsgroups">

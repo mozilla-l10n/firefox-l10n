@@ -55,6 +55,8 @@
 <!ENTITY manual-edit.accesskey           "M">
 
 
+
+
 <!ENTITY warning.label                   "Զգուշացում!">
 <!ENTITY incomingSettings.label          "Մուտքային կարգավորումներ.">
 <!ENTITY outgoingSettings.label          "Ելքային կարգավորումներ.">
@@ -64,11 +66,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Ես հասկանում եմ ռիսկերը։">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Ստեղծել փոստարկղ">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "Պատրաստ է">
+<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -84,4 +86,3 @@
 <!ENTITY insecureUnencrypted.description "Ձեր նամակը և վավերացումը ուղարկվել են չկոդավորված, ուստի Ձեր գաղտնաբառը (նաև նամակը) կարող են հասանելի լինել այլ մարդկանց։ &brandShortName;-ը հնարավորություն կտա ստանալ նամակներ, բայց անվտագ միացման կարգավորումների համար պետք է դիմեք էլ. փոստի Ձեր մատակարարին։">
 <!ENTITY insecureSelfSigned.description  "Սպասարկիչը օգտագործում է անվստահելի հավաստագիր և մենք չենք կարող երաշխավորել տվյալների փոխանցման անվտանգությունը &brandShortName;-ի և Ձեր սպասարկիչի միջև։ &brandShortName;-ը հնարավորություն կտա ստանալ նամակներ, բայց անվտագ միացման կարգավորումների համար պետք է դիմեք էլ. փոստի Ձեր մատակարարին։">
 <!ENTITY secureServer.description        "Շնորհավորում ենք! Սա անվտանգ սպասարկիչ է։">
-

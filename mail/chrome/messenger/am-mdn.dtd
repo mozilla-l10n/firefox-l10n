@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Պահանջել ստացական">
 <!ENTITY useGlobalPrefs.label         "Օգտ. ստացականի ուղարկման հիմնական կարգավորումները">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+
+
 <!ENTITY useCustomPrefs.label         "Ստացականի կարգավորումներ այս փոստարկղի համար">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "Նամակներ ուղարկելիս պահանջել ստացական">
@@ -29,4 +31,3 @@
 <!ENTITY askMe.label                  "Հարցնել">
 <!ENTITY alwaysSend.label             "Միշտ ուղարկել">
 <!ENTITY neverSend.label              "Երբեք չուղարկել">
-

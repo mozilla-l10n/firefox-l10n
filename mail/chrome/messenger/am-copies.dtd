@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Թղթ.-ի &amp; պատճենում">
 <!ENTITY sendingPrefix.label "Նամակը ուղարկելիս միանգամից՝">
 <!ENTITY fccMailFolder.label "Պահել կրկնօրինակը՝">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները թղթապանակում, որից պատասխանվել է">
-<!ENTITY fccReplyFollowsParent.accesskey "r">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc էլ. փոստի այս հասցեները.">
 <!ENTITY ccAddress.accesskey "C">
@@ -48,4 +48,3 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Այլ.">
 <!ENTITY templateInOtherFolder.accesskey "e">
-

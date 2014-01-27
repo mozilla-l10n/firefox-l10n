@@ -10,10 +10,9 @@
 <!ENTITY chooseFileLinkButton.label "Choose File...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL is relative to page location">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Ընտրել հարաբերական և բացարձակ հղումների միջև։ Սա փոխելու համար նախ պետք է պահպանեք էջը։">
-
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "L">
 
+<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
+<!ENTITY LinkURLEditField.accessKey "l">

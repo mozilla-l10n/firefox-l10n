@@ -7,26 +7,32 @@
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
-
 <!-- General Settings -->
+
 
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+
+
+
+
+
 <!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Check Now">
-<!ENTITY checkNow.accesskey            "N">
+
+
 <!ENTITY configEditDesc.label          "Advanced Configuration">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "C">
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label      "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey  "R">
-
 <!-- Display and Reading Settings -->
+
 <!ENTITY reading.caption               "Reading">
 <!ENTITY display.caption               "Display">
 <!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
@@ -51,8 +57,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Automatically check for updates to:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
@@ -68,7 +74,9 @@
 <!ENTITY showUpdates.label              "Show Update History">
 <!ENTITY showUpdates.accesskey          "S">
 
+
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Settings…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
@@ -78,10 +86,9 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Disk Space">
-<!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Disk Space">
+
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -89,25 +96,23 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Use up to">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB of space for the cache">
 <!ENTITY clearCacheNow.label             "Clear Now">
 <!ENTITY clearCacheNow.accesskey         "C">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "m">
+
 <!ENTITY certs.ask                       "Ask me every time">
 <!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label         "View Certificates">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "Validation">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Security Devices">
 <!ENTITY viewSecurityDevices.accesskey  "S">
-

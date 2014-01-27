@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Փնտրել նամակները՝">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Փնտրել ենթաթղթապանակներ">
@@ -13,30 +13,32 @@
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Բացել">
 <!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Ջնջել">
-<!ENTITY deleteButton.accesskey      "D">
+
+
 <!ENTITY searchDialogTitle.label     "Search Messages">
 <!ENTITY results.label               "Results">
-<!ENTITY fileHereMenu.label          "Ֆայլը այստեղ">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Ֆայլ">
-<!ENTITY fileButton.accesskey        "i">
+
+
+
+
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Բացել թղթապանակում">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Պահպանել որպես փնտրման թղթ.">
 <!ENTITY saveAsVFButton.accesskey    "v">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Փնտրել՝ ">
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Հատկություններ">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Գրել">
 <!ENTITY composeButton.accesskey     "W">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
 
+
+<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Թեմատիկա">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Ստացողը">
@@ -55,8 +57,8 @@
 <!ENTITY starredColumn.label "Starred">
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
 <!ENTITY threadColumn.tooltip "Click to display message threads"> 
 <!ENTITY fromColumn.tooltip "Click to sort by from">
@@ -76,4 +78,3 @@
 <!ENTITY starredColumn.tooltip "Click to sort by star">
 <!ENTITY locationColumn.tooltip "Click to sort by location">
 <!ENTITY idColumn.tooltip "Click to sort by order received">
-

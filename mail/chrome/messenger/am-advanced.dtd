@@ -1,14 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Ելքային սպասարկիչի (SMTP) կարգավորումներ">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Չնայած որ Դուք կարող եք որոշել մեկից ավելի ելքային սպասարկիչներ (SMTP), սակայն դա խորհուրդ կտանք միայն գիտակ օգտվողներին։">
+
+<!ENTITY smtpServer.label "Ելքային սպասարկիչի (SMTP) կարգավորումներ">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 <!ENTITY smtpListAdd.label  "Ավելացնել...">
 <!ENTITY smtpListAdd.accesskey  "d">
@@ -25,4 +23,3 @@
 <!ENTITY userName.label   "Օգտվողի անունը.">
 <!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
 <!ENTITY authMethod.label   "Վավերացման եղանակը.">
-

@@ -3,15 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Համակարգային ինտեգրում">
+
+
+
 <!ENTITY defaultClient.intro  "Օգտ. &brandShortName;-ը որպես հիմնական ծրագիր՝">
 
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Նորությունների">
 <!ENTITY feeds.label "Շղթաների">
 
+
 <!ENTITY checkOnStartup.label "&brandShortName;-ը բացելիս միշտ ստուգել այս ընտրությունը։">
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
-<!ENTITY searchIntegration.accesskey "s">
-
+<!ENTITY searchIntegration.accesskey "S">

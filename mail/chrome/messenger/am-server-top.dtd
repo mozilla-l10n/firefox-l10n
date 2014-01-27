@@ -1,9 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
-
 <!ENTITY securitySettings.label "Անվտ. կարգավորումներ">
 <!ENTITY serverSettings.label "Սպասարկիչի կարգավորումներ">
 <!ENTITY serverType.label "Սպասարկիչի տեսակը.">
@@ -67,17 +65,19 @@
 <!ENTITY alwaysAuthenticate.label "Սպասարկիչին միանալիս միշտ պահանջել վավերացում">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY localPath.label "Լոկալ թղթապանակը.">
+<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
 <!ENTITY abbreviateOn.label "Անունները (օրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY browseNewsrc.label "Ընտրել…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 
