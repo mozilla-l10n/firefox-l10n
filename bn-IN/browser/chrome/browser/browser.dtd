@@ -240,6 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "ব্রাউজার টুলবক্স">
+<!ENTITY browserToolboxMenu.accesskey "জ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
@@ -250,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ডেভেলপার টুলসমূহ ট্যোগল করুন">
 <!ENTITY devToolbarOtherToolsButton.label  "অতিরিক্ত সরঞ্জাম">
@@ -404,8 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
-
+<!ENTITY switchToMetroCmd.label       "সিঙ্ক করুন Windows 8 শৈলী সঙ্গে &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "পুনরারম্ভ করুন &brandShortName; Windows 8 টাচ জন্য">
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
