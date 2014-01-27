@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "এরোর কনসোল খুলুন">
 <!ENTITY appbarJSShell.label           "জাভাস্ক্রিপ্ট শেল খুলুন ">
 <!ENTITY appbarFindInPage2.label       "পেজে খুঁজুন">
-
+<!ENTITY appbarRelaunchInDesktop.label "ডেস্কটপ মধ্যে পুনরারম্ভ করুন">
 <!ENTITY appbarMSMetaData2.label       "এই সাইটের জন্য অ্যাপ্লিকেশন পান">
-
+<!ENTITY appbarViewPageSource.label    "ডেস্কটপ মধ্যে পুনরায় চালু করুন">
 
 <!ENTITY topSitesHeader.label        "শীর্ষ সাইটগুলো">
 <!ENTITY bookmarksHeader.label       "বুকমার্ক সংকলন">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "আপনার ট্যাব খুঁজছেন? শুধু টেনে নামিয়ে আনুন বা রাইট ক্লিক করুন">
+<!ENTITY firstRunTopSites.label "আপনি সবচেয়ে পরিদর্শিত সাইটগুলিতে যান">
+<!ENTITY firstRunBookmarks.label "আপনি পরের জন্য সংরক্ষণ করা পৃষ্ঠাগুলিকে খুঁজুন">
+<!ENTITY firstRunMenu.label "আরও বৈশিষ্ট্য এবং বিকল্প অ্যাক্সেস করুন">
+<!ENTITY firstRunHistory.label "দেখুন আপনি ওয়েবে যেখানে অাছেন">
+<!ENTITY firstRunWelcome.label "স্বাগতম &brandShortName;">
+<!ENTITY firstRunDifferent.label "স্বাধীন চিন্তায় ভিন্ন">
