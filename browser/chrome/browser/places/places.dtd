@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "ชื่อ">
 <!ENTITY col.tags.label          "ป้าย">
 <!ENTITY col.url.label           "ที่ตั้ง">
-<!ENTITY col.lastvisit.label     "วันที่เข้าชม">
+
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
 <!ENTITY col.keyword.label       "คำสำคัญ">
 <!ENTITY col.description.label   "คำอธิบาย">

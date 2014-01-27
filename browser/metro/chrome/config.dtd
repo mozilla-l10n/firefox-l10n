@@ -6,8 +6,9 @@
 <!ENTITY addpref.value          "ค่า">
 
 <!ENTITY cancel.label           "ยกเลิก">
-
+<!ENTITY reset.label            "กลับค่าเดิม">
 <!ENTITY done.label             "เสร็จ">
 
-
-
+<!ENTITY integer.label          "จำนวนเต็ม">
+<!ENTITY string.label           "สตริง">
+<!ENTITY boolean.label          "บูลีน">

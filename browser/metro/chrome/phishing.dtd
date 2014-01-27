@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่!">
 <!ENTITY safeb.palm.decline.label "ไม่สนใจคำเตือนนี้">
 <!ENTITY safeb.palm.notforgery.label2 "เว็บไซต์นี้ไม่ใช่เว็บลอกเลียน…">
 <!ENTITY safeb.palm.reportPage.label "ทำไมเว็บไซต์นี้ถึงถูกปิดกั้น">

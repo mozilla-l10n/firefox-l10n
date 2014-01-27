@@ -38,11 +38,11 @@
 
 
 
+<!ENTITY connection.changeHostAndPort "เปลี่ยน">
 
 
 
 
-<!ENTITY connection.saveConnectionInfo "บันทึก">
 
 
 
@@ -68,6 +68,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.valid "ถูกกฎ">
 
 
 
