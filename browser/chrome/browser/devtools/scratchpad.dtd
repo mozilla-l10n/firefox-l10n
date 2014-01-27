@@ -124,4 +124,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "Ағымдағы функцияны орындау">
+<!ENTITY evalFunction.accesskey "ы">
+<!ENTITY evalFunction.key "о">

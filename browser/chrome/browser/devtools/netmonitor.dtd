@@ -16,6 +16,8 @@
 <!ENTITY netmonitorUI.emptyNotice2        "Желілік белсенділік жөнінде ақпаратты қарау үшін сұранымды жасаңыз немесе парақты қайта жүктеңіз.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 

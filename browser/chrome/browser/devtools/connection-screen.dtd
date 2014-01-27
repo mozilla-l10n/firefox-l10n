@@ -22,8 +22,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "Firefox өндіруші саймандары қашықтағы құрылғыларды (мыс. Android үшін Firefox және Firefox OS) жөндей алады. Қашықтағы құрылғыда 'Қашықтан жөндеу' мүмкіндігін іске қосылғанын тексеріңіз. Көбірек білу үшін">
 <!ENTITY remoteDocumentation "құжаттаманы оқыңыз">
 <!ENTITY remoteHelpSuffix ".">
 

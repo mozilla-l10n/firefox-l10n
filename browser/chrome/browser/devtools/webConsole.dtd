@@ -68,7 +68,7 @@
 
 <!ENTITY btnPageLogging.label   "Журналдау">
 <!ENTITY btnPageLogging.tooltip "window.console объектіне жіберілген журнал хабарламалары">
-
+<!ENTITY btnPageLogging.accesskey3 "л">
 <!ENTITY btnConsoleErrors       "Қателер">
 <!ENTITY btnConsoleInfo         "Ақпарат">
 <!ENTITY btnConsoleWarnings     "Ескертулер">
