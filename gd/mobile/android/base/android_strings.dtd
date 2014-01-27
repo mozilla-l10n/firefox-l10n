@@ -135,7 +135,7 @@ size. -->
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
-<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
@@ -153,7 +153,7 @@ size. -->
 <!ENTITY pref_search_remove "Thoir air falbh">
 <!ENTITY pref_search_last_toast "Chan urrainn dhut an t-einnsean-luirg mu dheireadh agad a thoirt air falbh.">
 
-<!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
+<!ENTITY datareporting_notification_title "Stats ┐ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
 <!ENTITY datareporting_notification_action "Tagh na tha thu airson co-roinneadh">
 <!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh\u0027fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh\u0027obraicheas nas fhearr a thoirt dhut.">
@@ -170,7 +170,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Bheir seo dàta air slàinte a\u0027 bhrabhsair agad dha &vendorShortName; agus bheir e dhut fiosrachadh air dèanadas a\u0027 bhrabhsair agad">
 <!ENTITY datareporting_abouthr_title "Faic an aithisg slàinte agam">
 <!ENTITY datareporting_telemetry_title "Telemeatraidh">
-<!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a\u0027 bhrabhsair agad dha &vendorShortName; airson \u0027s gun urrainn dhuinn &brandShortName; a leasachadh">
+<!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a\u0027 bhrabhsair dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a leasachadh">
 <!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson \u0027s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -181,7 +181,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload2 "Luchdaich a-nuas na h-ùrachaidhean gu fèin-obrachail">
+<!ENTITY pref_update_autodownload2 "Fèin-luchdaich na h-ùrachaidhean">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_update_autodownload_never "Chan ann idir">
 <!ENTITY pref_update_autodownload_always "An-còmhnaidh">
