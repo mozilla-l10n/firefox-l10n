@@ -131,6 +131,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "Бастапқы кодтар">
+<!ENTITY debuggerUI.tabs.callstack      "Шақырулар стегі">
 <!ENTITY debuggerUI.tabs.variables      "Айнымалылар">
 <!ENTITY debuggerUI.tabs.events         "Оқиғалар">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that

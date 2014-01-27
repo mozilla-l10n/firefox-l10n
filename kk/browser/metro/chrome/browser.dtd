@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label      "Қате консолін ашу">
 <!ENTITY appbarJSShell.label           "JavaScript қоршамын ашу">
 <!ENTITY appbarFindInPage2.label       "Беттен табу">
-
+<!ENTITY appbarRelaunchInDesktop.label "Жұмыс үстелінде қайта жөнелту">
 <!ENTITY appbarMSMetaData2.label       "Бұл сайт үшін қолданбаны алу">
 <!ENTITY appbarViewPageSource.label    "Парақтың бастапқы кодын қарау">
 
@@ -94,13 +94,13 @@
 <!ENTITY reload.key "r">
 
 <!ENTITY urlbar.accesskey "з">
-
-
-
-
-
-
-
+<!ENTITY openFile.key "а">
+<!ENTITY savePage.key "с">
+<!ENTITY find.key "т">
+<!ENTITY findNext.key "к">
+<!ENTITY quit.key "ш">
+<!ENTITY addBookmark.key "б">
+<!ENTITY newTab.key "ж">
 
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
@@ -121,8 +121,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Беттерді іздедіңіз бе? Төмен тартыңыз, не оң жақпен шертіңіз">
+<!ENTITY firstRunTopSites.label "Ең жиі қаралатын сайттарға өтіңіз">
+<!ENTITY firstRunBookmarks.label "Кейінге сақталған парақтарды қараңыз">
+<!ENTITY firstRunMenu.label "Көбірек мүмкіндіктер және опцияларды шолыңыз">
+<!ENTITY firstRunHistory.label "Интернетте қайда болғаныңызды қараңыз">
+<!ENTITY firstRunWelcome.label "&brandShortName; өніміне қош келдіңіз">
+<!ENTITY firstRunDifferent.label "Құрылысы жағынан өзгеше">
