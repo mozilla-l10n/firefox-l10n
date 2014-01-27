@@ -56,22 +56,23 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey   "Z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label              "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
-<!ENTITY enableAppUpdate.label        "programu &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey    "T">
-<!ENTITY enableAddonsUpdate.label     "zainstalowanych dodatków">
-<!ENTITY enableAddonsUpdate.accesskey "z">
-<!ENTITY whenUpdatesFound.label       "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
-<!ENTITY modeAskMe.label              "pytaj mnie, co zrobić">
-<!ENTITY modeAskMe.accesskey          "c">
-<!ENTITY modeAutomatic.label          "automatycznie pobieraj i instaluj aktualizacje">
-<!ENTITY modeAutomatic.accesskey      "a">
-<!ENTITY modeAutoAddonWarn.label      "ostrzegaj, jeśli aktualizacja spowoduje wyłączenie dodatków">
-<!ENTITY modeAutoAddonWarn.accesskey  "o">
-<!ENTITY showUpdates.label            "Wyświetl historię aktualizacji">
-<!ENTITY showUpdates.accesskey        "W">
+<!ENTITY updateApp.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateAuto.label "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
+<!ENTITY updateAuto.accesskey "I">
+<!ENTITY updateCheck.label "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
+<!ENTITY updateCheck.accesskey "S">
+<!ENTITY updateManual.label "Nie sprawdzaj dostępności aktualizacji (niezalecane: zagrożenie bezpieczeństwa)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateAutoAddonWarn.label "Ostrzeż, jeśli spowoduje to wyłączenie któregoś z dodatków">
+<!ENTITY updateAutoAddonWarn.accesskey "O">
+<!ENTITY updateHistory.label "Wyświetl historię aktualizacji">
+<!ENTITY updateHistory.accesskey "W">
 <!ENTITY useService.label "Używaj usługi instalowania aktualizacji działającej w tle">
-<!ENTITY useService.accesskey "g">
+<!ENTITY useService.accesskey "U">
+
+<!ENTITY updateOthers.label "Aktualizacje automatyczne">
+<!ENTITY enableAddonsUpdate3.label "Dodatki">
+<!ENTITY enableAddonsUpdate3.accesskey "D">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label      "Ustawienia…">
