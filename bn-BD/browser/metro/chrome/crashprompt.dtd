@@ -8,6 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "ক্র্যাশ রিপোর্টে কি থাকবে?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "কোন ক্র্যাশ রিপোর্টে যে সমস্ত বিবরণ থাকে তা হল ক্র্যাশ সম্পর্কে বিস্তারিত, আপনার ব্রাউজার ক্র্যাশের মুহুর্তে ব্রাউজারের অবস্থা সহ আপনার মেশিনের একটি স্ন্যাপশট।">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "এর মধ্যে আরও যা থাকতে পারে তা হল খোলা পাতা, ফরমে টাইপকৃত লেখা এবং খোলা কোনো বার্তার কন্টেন্ট, ব্রাউজারের সাম্প্রতিক ইতিহাস অথবা কোন সাইটে শেয়ারকৃত ভূ-অবস্থান।">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraph "আমরা ক্র্যাশ রিপোর্ট ব্যবহার করি কোন সমস্যা সমাধানে এবং আমাদের প্রকল্প উন্নয়নে। আমরা আপনার তথ্যাদি ব্যবহার করি আমাদের বর্ণিত">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; গোপনীয়তার নীতি">
 <!ENTITY crashprompt.includeURLLabel "আমি যে পাতায় ছিলাম সেই পাতার ঠিকানা অন্তর্ভুক্ত করো">

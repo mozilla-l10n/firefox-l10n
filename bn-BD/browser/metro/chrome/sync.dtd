@@ -49,7 +49,7 @@
 <!ENTITY sync.flyout.pairNewDevice.pair                   "জোড়া">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "নোট:">
 <!ENTITY sync.flyout.pairNewDevice.note2_2                "কোড খুঁজতে,">
-<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ডেস্কটপ] &quot;অপশন&quot; অথবা &quot;অগ্রাধিকার&quot; খুলুন এবং নিম্নের ধাপগুলো অনুসরণ করুন:&syncBrand.shortName.lable;-&gt; সেট করুন &synceBrand.shortName.label;-&gt; আমার একাউন্ট আছে">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ডেস্কটপ] &quot;অপশন&quot; অথবা &quot;অগ্রাধিকার&quot; খুলুন এবং নিম্নের ধাপগুলো অনুসরণ করুন:&syncBrand.shortName.label;-&gt; সেট করুন &syncBrand.shortName.label;-&gt; আমার একাউন্ট আছে">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[এন্ড্রয়েড] আরও &gt; সেটিং &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "অনুগ্রহ করে আবার চেষ্ট করুন">
 <!-- Flyout when a device has been successfully paired -->
