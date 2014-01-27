@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Փոխարկել աղյուսակի">
 <!ENTITY instructions1.label   "Սեղմիչը ստեղծում է աղյուսակի նոր գիծ՝ յուրաքանչյուր պարագրաֆի համար։">
 <!ENTITY instructions2.label   "Ընտրեք այն նշանը որը հանդիսանում է բաժանիչ սյունների միջև.">
@@ -13,4 +13,3 @@
 <!ENTITY deleteCharCheck.label "Ջնջել բաժանիչ նշանը">
 <!ENTITY collapseSpaces.label  "Անտեսել լր. բացատները">
 <!ENTITY collapseSpaces.tooltip "Փոխարկել խառնված բացատները մեկ բաժանիչով">
-

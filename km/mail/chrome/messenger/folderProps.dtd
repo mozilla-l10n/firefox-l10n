@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Properties">
 
 <!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "Գրանշանների ծրագրային կոդավորումը.">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Կիրառել թղթապանակի բոլոր նամակների համար (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -27,7 +27,7 @@
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները ավելի քան՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
-<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլոր վերջինները">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
@@ -65,3 +65,6 @@
 <!ENTITY folderQuotaUsage.label                  "Usage:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

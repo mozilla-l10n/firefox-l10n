@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "&amp; հասցեն">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
@@ -14,12 +14,12 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Օգտ. տարբեր LDAP սպասարկիչներ.">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Ոչինչ">
-
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Նամակը">
+
+<!ENTITY compositionGroupTitle.label          "Նամակը">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Նամակները կազմել HTML տեսակի">
 <!ENTITY useHtml.accesskey                    "C">
@@ -39,4 +39,7 @@
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "Ներառել ստորագրությունը փոխանցելիս">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+
+
 

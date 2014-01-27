@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
+<!ENTITY clearLog.label "Մաքրել մատյանը">
 <!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
+<!ENTITY closeLog.label "Փակել">
 <!ENTITY closeLog.accesskey "o">
-

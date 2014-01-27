@@ -28,10 +28,9 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Work Phone">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Screen Name">
-<!ENTITY ScreenName.accesskey                  "S">
+
+
 <!ENTITY sortAscending.label                   "Ascending">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Descending">
 <!ENTITY sortDescending.accesskey              "D">
-

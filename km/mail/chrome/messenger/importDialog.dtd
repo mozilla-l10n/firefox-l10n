@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -10,11 +9,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+
 <!ENTITY importDialog.windowTitle "Ներմուծել">
 <!ENTITY importAll.label          "Ներմուծել ամեն ինչ">
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "Նամակ">
 <!ENTITY importMail.accesskey     "M">
+
+
 <!ENTITY importAddressbook.label  "Հասցեագիրք">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Կարգավորումներ">
@@ -32,7 +34,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Ընտրեք, թե ի՞նչ եք ցանկանում ներմուծել.">
+
 <!ENTITY selectDescription.accesskey "P">
+
+
 
 <!ENTITY back.label               "&lt; Back">
 <!ENTITY forward.label            "Next &gt;">
@@ -43,4 +48,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Title">
 <!ENTITY processing.label         "Importing…">
-

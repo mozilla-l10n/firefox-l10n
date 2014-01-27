@@ -5,8 +5,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "Ն">
 <!ENTITY  newMessageCmd.label             "Նամակ">
-<!ENTITY  newMessageCmd.accesskey         "M">
+<!ENTITY  newMessageCmd.accesskey         "m">
  
 <!ENTITY  newContactCmd.label             "Հասցեագրքի հասցե...">
 <!ENTITY  newContactCmd.accesskey         "C">
-

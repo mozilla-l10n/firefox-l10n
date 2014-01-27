@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
-
 <!ENTITY biffStart.label "Ստուգել թարմացումները յուրաքանչյուր՝">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "րոպե">
@@ -18,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Բլոգի &amp; Նորությունները">
 <!ENTITY feeds.wizardShortName "Շղթաներ">
 <!ENTITY feeds.wizardLongName "Բլոգի &amp; Նորությունները">
 <!ENTITY feeds.wizardLongName.accesskey "F">
-

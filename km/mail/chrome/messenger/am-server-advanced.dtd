@@ -25,12 +25,9 @@
 <!ENTITY overrideNamespaces.label "Թույլատրել սպասարկիչին կարգավորել այս անվանադաշտերը">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Pop նամակները ստանալիս օգտ. հետևյալ թղթապանակը նոր նամակների համար." >
-<!ENTITY globalInbox.label "Ընդհանուր Մուտքային (Լոկալ թղթ. փոստարկղ)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Այս սպասարկիչի փոստարկղի Մուտքայինը">
-<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Այլ փոստարկղի Մուտքայինը">
-<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "Ներառել այս սպասարկիչը՝ նոր նամակ ստանալիս">
 <!ENTITY deferGetNewMail.accesskey "I">
-

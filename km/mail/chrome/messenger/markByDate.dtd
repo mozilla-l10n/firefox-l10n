@@ -4,7 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "Նշել նամակները որպես կարդացած ըստ ամսաթվի">
 <!ENTITY markByDateLower.label "Նշել նամակները կարդացած՝">
-<!ENTITY markByDateLower.accesskey "f">
+<!ENTITY markByDateLower.accesskey "F">
 <!ENTITY markByDateUpper.label "Ում.">
 <!ENTITY markByDateUpper.accesskey "T">
-

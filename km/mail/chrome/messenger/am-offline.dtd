@@ -39,13 +39,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Նամակի համաժամեցում">
 <!ENTITY diskspaceGroupTitle.label "Պնակի տեղը">
-
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+
 <!ENTITY allAutosync.label               "Համաժամեցնել բոլոր նամակները անկախ ժամկետից">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջինը">
@@ -56,4 +56,3 @@
 <!ENTITY monthAgeInterval.label          "Ամիս">
 <!ENTITY yearAgeInterval.label           "Տարի">
 <!ENTITY ageAutosyncAfter.label          "">
-
