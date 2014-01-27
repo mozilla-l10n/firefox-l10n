@@ -3,11 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "برنامه‌ها">
+<!ENTITY aboutApps.header                          "برنامه‌های شما">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-
-
+<!ENTITY aboutApps.browseMarketplace "مرور بازار فایرفاکس">
 <!ENTITY aboutApps.uninstall "عزل">
-
+<!ENTITY aboutApps.addToHomescreen "اضافه‌کردن به صفحه خانه">
