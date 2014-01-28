@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title "Mandâ e segnalaçioìn de blòcco anòmalo a Mozilla?">
+<!ENTITY crashprompt.message "Ne spiâxe, &brandShortName; o l'é stæto repigiòu dòppo 'n blòcco. Mandâ de segnalaçioìn in sci ciànti agiùtta Mozilla a megiorâ a stabilitæ e a seguéssa de &brandShortName;. L'é de lóngo poscìbile cangiâ sta preferénsa inte inpostaçioìn.">
+<!ENTITY crashprompt.detailsLink "Che cöse gh'é drénto e segnalaçioìn d'erô?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "'Na segnalaçión d'erô a contégne quàrche detàlio in sciô blòcco anòmalo, o computer, coscì cómme 'na föto do navegatô into moménto into quæ o se'é ciatòu.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Quésto poriéiva ànche inclùdde informaçioìn cómme e pàgine avèrte, o tèsto inserîo inti mòdoli e o contegnûo di mesàggi avèrti, stöia da navegaçión, ò dæti de geolocalizaçión condivîzi co-in scîto.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Adêuviémmo e segnalaçioìn d'erô pe risólve eroî e megiorâ i nòstri prodûti. Ste informaçioìn én gestîe inti mòddi descrîti inta nòstra ">
+<!ENTITY crashprompt.privacyPolicyLink "informatîva in sciâ privacy de &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Inclùddi l’indirìsso da pàgina che t'amiâvi">
+<!ENTITY crashprompt.acceptbutton "Mànda segnalaçioìn">
+<!ENTITY crashprompt.refusebutton "No mandâ">
+<!ENTITY crashprompt.privacyPolicy.title "Informatîva in sciâ privacy de &brandShortName;">
