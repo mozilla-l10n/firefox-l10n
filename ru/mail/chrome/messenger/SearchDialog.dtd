@@ -16,8 +16,6 @@
 <!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Поиск сообщений…">
 <!ENTITY results.label "Результаты">
-<!ENTITY moveHereMenu.label "Переместить сюда">
-<!ENTITY moveHereMenu.accesskey "е">
 <!ENTITY moveButton.label "Переместить в">
 <!ENTITY moveButton.accesskey "м">
 <!ENTITY closeCmd.key "W">

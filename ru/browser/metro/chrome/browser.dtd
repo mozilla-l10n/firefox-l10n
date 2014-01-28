@@ -6,6 +6,7 @@
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Вперёд">
 <!ENTITY newtab.label "Новая вкладка">
+<!ENTITY newPrivateTab.label "Приватная вкладка">
 <!ENTITY closetab.label "Закрыть вкладку">
 <!ENTITY autocompleteResultsHeader.label "Ваши результаты">
 <!ENTITY appbarErrorConsole.label "Открыть консоль ошибок">
@@ -73,6 +74,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!ENTITY newPrivateTab.key "p">
 <!ENTITY jsConsole.key "j">
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
