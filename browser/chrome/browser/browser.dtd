@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privat surfning)">
 
-<!ENTITY appmenu.title                       "Anpassa och styr &brandFullName;">
+<!ENTITY appmenu.tooltip                     "Öppna menyn">
 <!ENTITY navbarOverflow.label                "Fler verktyg…">
 
 <!-- Tab context menu -->
