@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Bakåt">
 <!ENTITY forward.label         "Framåt">
 <!ENTITY newtab.label          "Ny flik">
+<!ENTITY newPrivateTab.label   "Ny privat flik">
 <!ENTITY closetab.label        "Stäng flik">
 
 <!ENTITY autocompleteResultsHeader.label  "Dina resultat">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
