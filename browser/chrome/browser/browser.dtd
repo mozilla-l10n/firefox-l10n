@@ -96,6 +96,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+<!ENTITY syncPanel.descriptionSyncing "&brandShortName; sa práve synchronizuje">
+<!ENTITY syncPanel.descriptionPrefs "Synchronizáciu je možné upraviť v nastaveniach prehliadača.">
+
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
 <!ENTITY fullScreenClose.tooltip "Zavrieť">
