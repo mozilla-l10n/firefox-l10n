@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "r">
 <!ENTITY searchDialogTitle.label     "Hľadanie v správach">
 <!ENTITY results.label               "Výsledky">
-<!ENTITY moveHereMenu.label          "Presunúť sem">
-<!ENTITY moveHereMenu.accesskey      "P">
 <!ENTITY moveButton.label            "Presunúť do">
 <!ENTITY moveButton.accesskey        "d">
 <!ENTITY closeCmd.key                "W">

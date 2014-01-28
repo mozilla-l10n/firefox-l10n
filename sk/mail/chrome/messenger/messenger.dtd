@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Priečinok">
 <!ENTITY folderMenu.accesskey "e">
-<!ENTITY thisFolder.label "Tento priečinok">
-<!ENTITY thisFolder.accesskey "T">
 <!ENTITY goRecentlyClosedTabs.label "Naposledy zatvorené karty">
 <!ENTITY goRecentlyClosedTabs.accesskey "a">
 <!ENTITY startPageCmd.label "Úvodná stránka">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Sledovať vlákno">
 <!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Presunúť sem">
-<!ENTITY fileHereMenu.accesskey "P">
-<!ENTITY copyHereMenu.label "Kopírovať sem">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Popis">
 <!ENTITY tagMenu.accesskey "P">
 <!ENTITY tagCmd0.key "0">
