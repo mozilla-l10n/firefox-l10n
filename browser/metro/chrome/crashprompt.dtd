@@ -4,10 +4,10 @@
 
 
 <!ENTITY crashprompt.title           "Çökme raporlarını Mozilla'ya göndermek ister misiniz?">
-
-
-
-
+<!ENTITY crashprompt.message         "&brandShortName; az önce bir çökmeden kurtarıldı. Çökme raporlarını göndermek, Mozilla'nın &brandShortName; tarayıcısını daha kararlı ve güvenli hale getirmesine yardımcı olur. İstediğiniz zaman tercihinizi Ayarlar/Seçenekler üzerinden değiştirebilirsiniz.">
+<!ENTITY crashprompt.detailsLink     "Çökme raporunda neler bulunur?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "This may include things like open pages, text typed into forms and the content of open messages, recent browsing history, or geolocation shared with a site.">
 <!ENTITY crashprompt.detailedMessage.thirdParagraph "Çökme raporlarını, sorunları gidermek ve ürünlerimizi geliştirmek için kullanıyoruz. Bilgilerinizi ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; gizlilik ilkelerinde">
 <!ENTITY crashprompt.includeURLLabel "Bakmakta olduğum sayfanın adresini dahil et">

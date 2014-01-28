@@ -16,6 +16,8 @@
 <!ENTITY netmonitorUI.emptyNotice2        "Ağ etkinliği hakkındaki ayrıntılı bilgileri görmek için bir istek yapın veya sayfayı yenileyin.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
