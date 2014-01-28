@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "о">
 <!ENTITY folderPickerPrefix.label "Запустить выбранные фильтры в папке:">
 <!ENTITY folderPickerPrefix.accesskey "ы">
-<!ENTITY choosethis.label "выбрать эту папку">
-<!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
 <!ENTITY helpButton.label "Справка">
 <!ENTITY helpButton.accesskey "к">
 <!ENTITY closeCmd.key "W">

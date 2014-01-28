@@ -290,8 +290,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
 <!ENTITY folderMenu.accesskey "к">
-<!ENTITY thisFolder.label "Эта папка">
-<!ENTITY thisFolder.accesskey "т">
 <!ENTITY goRecentlyClosedTabs.label "Недавно закрытые вкладки">
 <!ENTITY goRecentlyClosedTabs.accesskey "д">
 <!ENTITY startPageCmd.label "Начальная страница">
@@ -354,10 +352,6 @@
 <!ENTITY watchThreadMenu.label "Отслеживать обсуждение">
 <!ENTITY watchThreadMenu.accesskey "ж">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Поместить сюда">
-<!ENTITY fileHereMenu.accesskey "П">
-<!ENTITY copyHereMenu.label "Копировать сюда">
-<!ENTITY copyHereMenu.accesskey "К">
 <!ENTITY tagMenu.label "Присвоить метку">
 <!ENTITY tagMenu.accesskey "М">
 <!ENTITY tagCmd0.key "0">

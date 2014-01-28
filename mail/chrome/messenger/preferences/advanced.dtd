@@ -50,20 +50,20 @@
 <!ENTITY reuseExpRadio1.accesskey "ж">
 <!ENTITY closeMsgOnMoveOrDelete.label "Закрывать окно/вкладку сообщения при его перемещении или удалении">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "к">
-<!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "d">
-<!ENTITY enableAddonsUpdate.label "Установленных дополнений">
-<!ENTITY enableAddonsUpdate.accesskey "о">
-<!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
-<!ENTITY modeAskMe.label "Предоставлять выбор действия пользователю">
-<!ENTITY modeAskMe.accesskey "п">
-<!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
-<!ENTITY modeAutomatic.accesskey "в">
-<!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
-<!ENTITY modeAutoAddonWarn.accesskey "е">
-<!ENTITY showUpdates.label "Показать журнал обновлений">
-<!ENTITY showUpdates.accesskey "ж">
+<!ENTITY updateApp.label "Обновления &brandShortName;:">
+<!ENTITY updateAuto.label "Автоматически устанавливать обновления (рекомендовано: повышает безопасность)">
+<!ENTITY updateAuto.accesskey "м">
+<!ENTITY updateCheck.label "Проверять наличие обновлений, но позволять мне решать, устанавливать ли их или нет">
+<!ENTITY updateCheck.accesskey "в">
+<!ENTITY updateManual.label "Никогда не проверять наличие обновлений (не рекомендовано: ставит безопасность под угрозу)">
+<!ENTITY updateManual.accesskey "и">
+<!ENTITY updateAutoAddonWarn.label "Предупреждать меня, если при этом будут отключены какие-либо дополнения">
+<!ENTITY updateAutoAddonWarn.accesskey "е">
+<!ENTITY updateHistory.label "Показать журнал обновлений">
+<!ENTITY updateHistory.accesskey "ж">
+<!ENTITY updateOthers.label "Автоматически обновлять:">
+<!ENTITY enableAddonsUpdate3.label "Дополнения">
+<!ENTITY enableAddonsUpdate3.accesskey "п">
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
 <!ENTITY useService.accesskey "ф">
 <!ENTITY showSettings.label "Настроить…">
