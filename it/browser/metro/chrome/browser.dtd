@@ -6,6 +6,7 @@
 <!ENTITY back.label "Indietro">
 <!ENTITY forward.label "Avanti">
 <!ENTITY newtab.label "Nuova scheda">
+<!ENTITY newPrivateTab.label "Nuova scheda anonima">
 <!ENTITY closetab.label "Chiudi scheda">
 <!ENTITY autocompleteResultsHeader.label "Risultati">
 <!ENTITY appbarErrorConsole.label "Apri console errori">
@@ -73,6 +74,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!ENTITY newPrivateTab.key "p">
 <!ENTITY jsConsole.key "j">
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
