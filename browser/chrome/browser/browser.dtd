@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nova langeto">
 <!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Malfermi retadreson…">
-<!ENTITY openLocationCmd.accesskey "r">
 <!ENTITY openFileCmd.label "Malfermi dosieron…">
 <!ENTITY openFileCmd.accesskey "d">
 <!ENTITY openFileCmd.commandkey "o">
@@ -328,11 +326,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
+<!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
 
 <!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Aldoni al menuo">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToToolbar.label "Movi al la ilarstrio">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "i">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Movi al menuo">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Forigi el ilarstrio">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "f">
 <!ENTITY customizeMenu.removeFromMenu.label "Forigi el menuo">
