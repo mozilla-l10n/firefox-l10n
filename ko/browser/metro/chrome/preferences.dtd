@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "오류 보고서">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;가 오류 보고서를 전송하여 Mozilla가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "보고 있던 주소도 같이 보내기">
 <!ENTITY optionsHeader.telemetry.title                            "데이터 수집">
 <!ENTITY optionsHeader.telemetry.label                            "&brandShortName; 사용 통계를 Mozilla와 공유하여 브라우저가 보다 나아지도록 도움">
