@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "오류 콘솔 열기">
 <!ENTITY appbarJSShell.label        "JavaScript 쉘 열기">
 <!ENTITY appbarFindInPage2.label    "페이지 내 검색">
-<!ENTITY appbarViewOnDesktop2.label "데스크톱 모드에서 보기">
+<!ENTITY appbarRelaunchInDesktop.label "데스크톱에서 다시 열기">
 <!ENTITY appbarMSMetaData2.label    "이 사이트의 앱 얻기">
+<!ENTITY appbarViewPageSource.label    "페이지 소스">
 
 <!ENTITY topSitesHeader.label        "자주 방문한 사이트">
 <!ENTITY bookmarksHeader.label       "북마크">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "탭을 찾으십니까? 아래로 당기거나 오른쪽 클릭을 하면 됩니다">
+<!ENTITY firstRunTopSites.label "자주 방문한 사이트에 들어가보세요">
+<!ENTITY firstRunBookmarks.label "뒤에 가서 보려고 저장한 페이지를 찾아보세요">
+<!ENTITY firstRunMenu.label "더 많은 기능과 설정을 건드릴 수 있습니다">
+<!ENTITY firstRunHistory.label "웹에서 어딜 돌아다녔었는지 볼 수 있습니다">
+<!ENTITY firstRunWelcome.label "&brandShortName;를 사용해 주셔서 고맙습니다">
+<!ENTITY firstRunDifferent.label "새로운 디자인">  <!-- 사이트와 통일 -->
