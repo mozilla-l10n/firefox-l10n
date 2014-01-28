@@ -676,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle "Prispôsobenie &brandShortName;u">
 <!ENTITY customizeMode.menuAndToolbars.label "Ponuka a paneli s nástrojmi">
-<!ENTITY customizeMode.menuAndToolbars.header "Ďalšie nástroje, ktoré si môžete pridať na panel nástrojov alebo do ponuky">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Ďalšie nástroje a funkcie">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
