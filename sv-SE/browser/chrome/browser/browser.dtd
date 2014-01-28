@@ -674,7 +674,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle "Anpassa &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Meny och verktygsfält">
-<!ENTITY customizeMode.menuAndToolbars.header "Fler verktyg att lägga till i meny och verktygsfält">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Fler verktyg och funktioner">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vill du ha fler verktyg?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
