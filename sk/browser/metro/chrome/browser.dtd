@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Naspäť">
 <!ENTITY forward.label         "Dopredu">
 <!ENTITY newtab.label          "Nová karta">
+<!ENTITY newPrivateTab.label   "Nová súkromná karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
 
 <!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
