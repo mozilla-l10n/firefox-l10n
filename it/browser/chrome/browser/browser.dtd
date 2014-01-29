@@ -68,8 +68,18 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
 <!ENTITY showAllTabsCmd.accesskey "h">
-<!ENTITY syncPanel.descriptionSyncing "Sincronizzazione di &brandShortName; in corso.">
-<!ENTITY syncPanel.descriptionPrefs "È possibile gestire le impostazioni di Sync dalle impostazioni del browser.">
+<!ENTITY fxaSignIn.label "Accedi a &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "Sincronizzazione in corso di &brandShortName;.">
+<!ENTITY syncStartPanel.subTitle "È possibile gestire &syncBrand.shortName.label; nelle opzioni.">
+<!ENTITY syncStartPanel.subTitleUnix "È possibile gestire &syncBrand.shortName.label; nelle preferenze.">
+<!ENTITY syncErrorPanel.title "Impossibile connettersi a &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Accedi per riprendere la sincronizzazione.">
+<!ENTITY syncErrorPanel.prefButton.label "Opzioni">
+<!ENTITY syncErrorPanel.prefButton.accesskey "O">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Preferenze">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
+<!ENTITY syncErrorPanel.signInButton.label "Accedi">
+<!ENTITY syncErrorPanel.signInButton.accesskey "A">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
 <!ENTITY fullScreenRestore.tooltip "Ripristina">
 <!ENTITY fullScreenClose.tooltip "Chiudi">
