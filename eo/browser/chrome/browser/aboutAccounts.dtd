@@ -3,3 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.pageTitle "Kontoj de &brandShortName;">
+
+<!ENTITY aboutAccountsSetup.description "Komenci seancon por sekurkopii kaj speguli viajn langetojn, legosignojn kaj aliajn aferojn.">
+<!ENTITY aboutAccountsSetup.startButton.label "Unua paŝoj">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Ĉu vi uzas Speguli en malnova versio de &brandShortName;?">

@@ -45,3 +45,23 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kondiĉoj de uzado">
 <!ENTITY prefs.ppLink.label         "Politiko pri privateco">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Rimarko pri privateco">
+<!ENTITY determiningStatus.label    "Stato de via konto de Firefox determinata…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "ne estas konfirmita.">
+
+<!ENTITY signedInLoginFailure.beforename.label "Bonvolu komenci seancon por rekonekti">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Vi ne komencis seancon.">
+<!ENTITY signIn.label                "Komenci seancon">
+<!ENTITY manage.label                "Administri">
+<!ENTITY unlink.label                "Malligi tiun ĉi retesplorilon…">
+<!ENTITY verify.label                "Konfirmi retpoŝton">
+<!ENTITY forget.label                "Forgesi tiun ĉi retpoŝton">
+
+<!ENTITY welcome.description "Aliri viajn langetojn, legosignojn, pasvortojn kaj aliajn aferojn, kie ajn vi uzas &brandShortName;.">
+<!ENTITY welcome.startButton.label "Komenci seancon aŭ krei konton">
+<!ENTITY welcome.useOldSync.label "Ĉu vi uzas malnovan version de Speguli?">

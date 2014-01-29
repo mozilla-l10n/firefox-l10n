@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 <!ENTITY debuggerUI.autoPrettyPrint     "Aŭtomate aranĝi kaj deŝovi plejetigitajn fontojn">
-<!ENTITY debuggerUI.autoPrettyPrint.key "p">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
