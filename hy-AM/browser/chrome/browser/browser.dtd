@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "Է">
 <!ENTITY  undoCloseTab.label                 "Վերականգնել փակված էջը">
 <!ENTITY  undoCloseTab.accesskey             "Վ">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Վերականգնել փակված ներդիրը">
 <!ENTITY  closeTab.label                     "Փակել էջը">
 <!ENTITY  closeTab.accesskey                 "Փ">
 
@@ -410,6 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
 <!ENTITY switchToMetroCmd.label       "Վերաբացել Windows 8-ի ոճով &brandShortName;-ը">
+
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "Ո">
 <!-- alternate for content area context menu -->
