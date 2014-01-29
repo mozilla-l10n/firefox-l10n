@@ -96,8 +96,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
+<!ENTITY fxaSignIn.label "Zaloguj się do Sync"><!-- FIXME -->
 <!ENTITY syncPanel.descriptionSyncing "Synchronizacja danych programu &brandShortName; w toku.">
-<!ENTITY syncPanel.descriptionPrefs "Ustawienia synchronizacji można zmieniać w opcjach/preferencjach przeglądarki.">
+<!ENTITY syncPanel.descriptionPrefs "Ustawienia synchronizacji można zmieniać w preferencjach.">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
