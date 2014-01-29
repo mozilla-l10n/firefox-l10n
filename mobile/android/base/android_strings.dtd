@@ -90,7 +90,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_reflow_on_zoom4 "Adattamento del testo">
+<!ENTITY pref_reflow_on_zoom4 "Adatta il testo">
 <!ENTITY pref_restore "Schede">
 <!ENTITY pref_restore_always "Ripristina sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
@@ -103,7 +103,7 @@
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_use_master_password "Usa password principale">
-<!ENTITY pref_show_product_announcements "Visualizza annunci sul prodotto">
+<!ENTITY pref_show_product_announcements "Annunci sul prodotto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_import_android "Importa da Android">
@@ -137,9 +137,9 @@
 <!ENTITY datareporting_telemetry_summary "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title "Servizi di geolocalizzazione di &vendorShortName;">
+<!ENTITY datareporting_wifi_title "Geolocalizzazione di &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Aiutaci a migliorare i servizi di geolocalizzazione dell’Open Web consentendo a &brandShortName; di raccogliere e inviare dati in forma anonima sulle stazioni radio base.">
-<!ENTITY pref_update_autodownload2 "Scarica aggiornamenti automaticamente">
+<!ENTITY pref_update_autodownload2 "Scarica aggiornamenti">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
 <!ENTITY pref_update_autodownload_always "Sempre">
@@ -190,7 +190,7 @@
 <!ENTITY pref_titlebar_mode "Barra del titolo">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
-<!ENTITY pref_dynamic_toolbar "Nascondi barra del titolo durante scorrimento">
+<!ENTITY pref_dynamic_toolbar "Barra del titolo dinamica">
 <!ENTITY history_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_name "Nome">
