@@ -32,3 +32,18 @@
 <!ENTITY unlinkDevice.label "Отсоединить это устройство">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
+<!ENTITY fxaPrivacyNotice.link.label "Уведомление о приватности">
+<!ENTITY determiningStatus.label "Определяю статус вашей Учётной записи Firefox…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "не подтверждён.">
+<!ENTITY signedInLoginFailure.beforename.label "Войдите для повтора соединения с">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY notSignedIn.label "Вы не вошли.">
+<!ENTITY signIn.label "Войти">
+<!ENTITY manage.label "Управление">
+<!ENTITY unlink.label "Отвязать этот браузер…">
+<!ENTITY verify.label "Подтвердить эл. почту">
+<!ENTITY forget.label "Забыть об этой эл. почте">
+<!ENTITY welcome.description "Доступ к вкладкам, закладкам, паролям и другим данным из любого места, где вы используете &brandShortName;.">
+<!ENTITY welcome.startButton.label "Войти или Создать учётную запись">
+<!ENTITY welcome.useOldSync.label "Используете старую версию Sync?">

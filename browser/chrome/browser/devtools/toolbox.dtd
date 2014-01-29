@@ -42,6 +42,8 @@
 <!ENTITY options.styleeditor.label "Редактор стилей">
 <!ENTITY options.stylesheetSourceMaps.label "Показать оригинальные исходники">
 <!ENTITY options.stylesheetSourceMaps.tooltip "Показать оригинальные исходники (напр. файлы Sass) в Редакторе стилей и Инспекторе">
+<!ENTITY options.stylesheetAutocompletion.label "Автодополнение CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip "Автодополнение свойств, значений и селекторов CSS в Редакторе Стилей по мере набора">
 <!ENTITY options.profiler.label "Профайлер JavaScript">
 <!ENTITY options.showPlatformData.label "Отображать данные платформы Gecko">
 <!ENTITY options.showPlatformData.tooltip "Если вы включите эту настройку, то отчеты Профайлера JavaScript будут включать символы платформы Gecko">

@@ -4,3 +4,5 @@
 
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.fxa-singular.label "Учётная запись Firefox">
+<!ENTITY syncBrand.fxa-plural.label "Учётные записи Firefox">

@@ -68,8 +68,18 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
-<!ENTITY syncPanel.descriptionSyncing "&brandShortName; сейчас синхронизируется.">
-<!ENTITY syncPanel.descriptionPrefs "Вы можете управлять Синхронизацией из Настроек вашего браузера.">
+<!ENTITY fxaSignIn.label "Войти в &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "&brandShortName; сейчас синхронизируется.">
+<!ENTITY syncStartPanel.subTitle "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
+<!ENTITY syncStartPanel.subTitleUnix "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
+<!ENTITY syncErrorPanel.title "Не удалось соединиться с &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Войдите, чтобы возобновить синхронизацию.">
+<!ENTITY syncErrorPanel.prefButton.label "Настройки">
+<!ENTITY syncErrorPanel.prefButton.accesskey "а">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Настройки">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "и">
+<!ENTITY syncErrorPanel.signInButton.label "Войти">
+<!ENTITY syncErrorPanel.signInButton.accesskey "о">
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
 <!ENTITY fullScreenClose.tooltip "Закрыть">
