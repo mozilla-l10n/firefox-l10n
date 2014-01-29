@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Գաղտնիության Դրույթները">
-
-
-
-
+<!ENTITY cloudfileMgmt.privacyPolicy "គោលនយោបាយ​ភាព​ឯកជន">
+<!ENTITY cloudfileMgmt.termsOfService "លក្ខខណ្ឌ​ប្រើប្រាស់">
+<!ENTITY cloudfileMgmt.usedSpace "ទំហំ​ដែល​បាន​ប្រើ៖">
+<!ENTITY cloudfileMgmt.unusedSpace "ទំហំ​ដែល​មិន​បាន​ប្រើ៖">
+<!ENTITY cloudfileMgmt.upgradeOffer "បង្កើន​ទំហំ">

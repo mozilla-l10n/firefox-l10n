@@ -1,12 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
-
-
-
-
-
-
-
-
+<!ENTITY addAccountDialog.title   "រៀបចំ​តំណ​ឯកសារ">
+<!ENTITY addAccountDialog.menuTitle "ជ្រើស​សេវាកម្ម​ផ្ទុក​លើ​បណ្ដាញ">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "ឈ្មោះ​គណនី៖">
+<!ENTITY addAccountDialog.noAccountText "យើង​សូម​ទោស! ព្រោះ​កំណែ &brandShortName; បច្ចុប្បន្ន អនុញ្ញាត​តែ​មួយ​គណនី​ប៉ុណ្ណោះ​សម្រាប់​សេវាកម្ម​ផ្ទុក​លើ​បណ្ដាញ​នីមួយៗ។">
+<!ENTITY addAccountDialog.createAccountText2 "អ្នក​អាច​ផ្ញើ​ឯកសារ​ភ្ជាប់​ធំ​បាន​ដោយ​ប្រើ​សេវាកម្ម​ផ្ទុក​លើ​បណ្ដាញ​មួយ​ក្នុង​ចំណោម​នេះ។ អាច​រៀបចំ​ទាំង​គណនី​ដែល​មាន​ស្រាប់ ឬ​ចុះឈ្មោះ​សម្រាប់​គណនី​ថ្មី។">
+<!ENTITY addAccountDialog.authorizing "កំពុង​ពិនិត្យ​ការ​អនុញ្ញាត...">
+<!ENTITY addAccountDialog.error "មាន​កំហុស​បាន​កើតឡើង​ពេល​រៀបចំ​គណនី!">
+<!ENTITY addAccountDialog.acceptButton.label "រៀបចំ​គណនី">
+<!ENTITY addAccountDialog.learnMore "ស្វែងយល់​បន្ថែម...">

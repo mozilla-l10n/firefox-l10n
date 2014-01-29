@@ -21,7 +21,8 @@
 <!ENTITY customizeMailAlert.label         "Customize…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-
+<!ENTITY showTrayIcon.label               "បង្ហាញ​រូបតំណាង​ថាស">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Play">
 <!ENTITY play.accesskey                   "P">

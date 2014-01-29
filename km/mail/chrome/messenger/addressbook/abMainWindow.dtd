@@ -19,7 +19,7 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Message">
-
+<!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
@@ -52,7 +52,7 @@
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "Copy">
-
+<!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Paste">
 <!ENTITY pasteCmd.key                                   "V">
@@ -67,7 +67,7 @@
 <!ENTITY deleteItemsCmd.label                           "Delete Items">
 <!ENTITY selectAllCmd.label                             "Select All">
 <!ENTITY selectAllCmd.key                               "A">
-
+<!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "A">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
@@ -83,8 +83,8 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Toolbars">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
-
-
+<!ENTITY menubarCmd.label                               "របារ​ម៉ឺនុយ">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Status Bar">
@@ -93,15 +93,16 @@
 <!ENTITY customizeToolbar.accesskey                     "C">
 <!ENTITY layoutMenu.label                               "Լայնքը">
 <!ENTITY layoutMenu.accesskey                           "L">
-
-
-
-
+<!ENTITY showDirectoryPane.label                        "ផ្ទាំង​ថត">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "ផ្ទាំង​ទំនាក់ទំនង">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Show Name As">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-
+<!ENTITY firstLastCmd2.label                            "ដំបូង ចុងក្រោយ">
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "Last, First">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Display Name">
@@ -163,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-
-
+<!ENTITY ChatName.label                                 "ឈ្មោះ​ការ​ជជែក">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organization">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Nickname">
@@ -197,7 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Home">
 <!ENTITY other.heading                                  "Other">
-
+<!ENTITY chat.heading                                   "ជជែក">
 <!ENTITY phone.heading                                  "Phone">
 <!ENTITY work.heading                                   "Work">
 <!-- Special Box Headings, for mailing lists -->

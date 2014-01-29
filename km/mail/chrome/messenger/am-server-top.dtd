@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-server-top.xul -->
+
+
+<!ENTITY messageStorage.label "ការ​ផ្ទុក​សារ">
 <!ENTITY securitySettings.label "Անվտ. կարգավորումներ">
 <!ENTITY serverSettings.label "Սպասարկիչի կարգավորումներ">
 <!ENTITY serverType.label "Սպասարկիչի տեսակը.">
@@ -80,4 +83,4 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
-
+<!ENTITY accountSettingsDesc.label "ខាង​ក្រោម​នេះ​ជា​គណនី​ពិសេស។ គ្មាន​អត្តសញ្ញាណ​​ភ្ជាប់​ជា​មួយ។">

@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY  startupAction.label         "ពេល &brandShortName; ចាប់ផ្ដើម៖">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "រក្សា​គណនី​ជជែក​របស់​ខ្ញុំ​ឲ្យ​នៅ​ក្រៅ​បណ្ដាញ">
+<!ENTITY  startupConnectAuto.label    "តភ្ជាប់​គណនី​ជជែក​របស់​ខ្ញុំ​ដោយ​ស្វ័យប្រវត្តិ">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -11,8 +13,12 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
+<!ENTITY  reportIdleAfter.label         "ឲ្យ​ទំនាក់ទំនង​របស់​ខ្ញុំ​ដឹង​ថា​ខ្ញុំ​ទំនេរ​បន្ទាប់ពី">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "នាទី​នៃ​អសកម្ម">
 
+<!ENTITY  andSetStatusToAway.label      "រួច​កំណត់​ស្ថានភាព​របស់​ខ្ញុំ​ថា​បាន​ចាក​ឆ្ងាយ ដោយ​ប្រើ​សារ​ស្ថានភាព​នេះ៖">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
-
-
-
+<!ENTITY  sendTyping.label              "ផ្ញើ​ការ​ជូនដំណឹង​វាយ​អក្សរ​នៅ​ក្នុង​ការ​សន្ទនា">
+<!ENTITY  sendTyping.accesskey          "t">

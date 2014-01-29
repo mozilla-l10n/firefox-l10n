@@ -18,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-
-
+<!ENTITY enableAdaptiveJunkLogging.label "បើក​ការ​ចុះកំណត់ហេតុ​តម្រង​សារ​ឥតបានការ​ដែល​ប្រែប្រួល">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Show log">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Reset Training Data">
@@ -62,3 +62,5 @@
 <!ENTITY showCookies.accesskey          "S">
 <!-- Do Not Track -->
 
+<!ENTITY doNotTrack.label               "ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​​ឲ្យ​គេ​តាមដាន">
+<!ENTITY doNotTrack.accesskey           "d">

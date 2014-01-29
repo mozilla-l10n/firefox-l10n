@@ -6,16 +6,21 @@
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
 <!ENTITY subscriptionDesc.label      "Հիշեք. Նորությունների շղթայի թղթապանակի ջնջումը կամ փոփոխումը չի ազդի նախորդ գրառումների վրա։">
 
+<!ENTITY feedTitle.label             "ចំណង​ជើង៖">
+<!ENTITY feedTitle.accesskey         "T">
 
+<!ENTITY feedLocation.label          "URL អត្ថបទ​ព័ត៌មាន​៖">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "បញ្ចូល​ url អត្ថបទ​ព័ត៌មាន​ត្រឹមត្រូវ​ត្រូវ​បន្ថែម">
 
+<!ENTITY feedFolder.label            "រក្សាទុក​អត្ថបទ​ក្នុង៖">
+<!ENTITY feedFolder.accesskey        "S">
 
+<!ENTITY quickMode.label             "បង្ហាញ​ការ​សង្ខេបអត្ថបទ​ជំនួយ​ឲ្យ​​ផ្ទុក​ទំព័រ​បណ្ដាញ">
+<!ENTITY quickMode.accesskey         "h">
 
-
-
-
-
-
-
+<!ENTITY locationValidate.label      "ធ្វើ​ឲ្យ​មាន​សុពលភាព">
+<!ENTITY validateText.label          "ពិនិត្យ​សុពលភាព និង​ទៅ​យក url ត្រឹមត្រូវ។">
 
 <!ENTITY button.addFeed.label        "Ավելացնել">
 <!ENTITY button.addFeed.accesskey    "A">
@@ -27,6 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Արտածել">
 <!ENTITY button.exportOPML.accesskey "X">
-
+<!ENTITY button.exportOPML.tooltip   "នាំចេញ​អត្ថបទព័ត៌មាន​ជា​មួយរចនាសម្ព័ន្ធ​ថត បញ្ជា(ctrl) ចុច ឬ​បញ្ជា(ctrl) បញ្ចូល(enter) ដើម្បី​នាំចេញ​អត្ថបទ​ព័ត៌មាន​ជា​បញ្ជី">
 
 <!ENTITY cmd.close.commandKey        "w">

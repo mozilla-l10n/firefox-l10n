@@ -8,15 +8,16 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Name or Email">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY deleteAddrBookCard.label           "លុប​">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY addrBookCardProperties.label       "​លក្ខណ​សម្បត្តិ​">
+<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addtoToFieldMenu.label             "បន្ថែម​ទៅ​វាល​ជូន​ចំពោះ">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "បន្ថែម​ទៅ​វាល Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "បន្ថែម​ទៅ​វាល Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">

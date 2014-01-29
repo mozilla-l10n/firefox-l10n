@@ -21,8 +21,8 @@
 <!ENTITY pop3Long.label                  "POP3 (նամակները կպահվեն համակարգչում)">
 
 <!ENTITY incoming.label                  "Մուտքային.">
-<!ENTITY outgoing.label                  "Ելքային.">
-<!ENTITY username.label                  "Մականուն.">
+<!ENTITY outgoing.label                  "ចេញ៖">
+<!ENTITY username.label                  "ឈ្មោះ​អ្នកប្រើ៖">
 <!ENTITY hostname.label                  "Սպասարկիչի հոսթի անունը">
 <!ENTITY port.label                      "Պորտը">
 <!ENTITY ssl.label                       "SSL">
@@ -53,8 +53,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
 <!ENTITY manual-edit.accesskey           "M">
-
-
+<!ENTITY switch-to-provisioner.label     "បង្កើត​គណនី​ថ្មី">
+<!ENTITY switch-to-provisioner.accesskey "G">
 
 
 <!ENTITY warning.label                   "Զգուշացում!">

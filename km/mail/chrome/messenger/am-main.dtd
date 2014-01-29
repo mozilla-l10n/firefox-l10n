@@ -15,7 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Պատասխանել հասցեներին.">
 <!ENTITY replyTo.accesskey "s">
-
+<!ENTITY replyTo.placeholder "អ្នក​ទទួល​នឹង​ឆ្លើយតប​ទៅ​អាសយដ្ឋាន​ផ្សេង​នេះ">
 <!ENTITY organization.label "Կազմակերպությունը.">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Ստորագրությունը.">

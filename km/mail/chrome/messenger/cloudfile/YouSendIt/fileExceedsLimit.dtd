@@ -1,12 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
-
-
-
-
-
-
-
-
+<!ENTITY fileExceedsLimit.title   "YouSendIt">
+<!ENTITY fileExceedsLimit.thatsBigFile   "ការ​ផ្ញើ​ឯកសារ​ធំជាង ៥០ មេកាបៃ">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "គឺជា​លក្ខណៈ​ល្អ​ជាងគេ។">
+<!ENTITY fileExceedsLimit.accept "បង្កើន​ទំហំ">
+<!ENTITY fileExceedsLimit.cancel "បោះបង់">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "ធ្វើ​បច្ចុប្បន្នភាព​ឥឡូវ​ដើម្បី​ផ្ញើ​ឯកសារ​បន្ថែម​នេះ៖">
+<!ENTITY fileExceedsLimit.pros1 "ផ្ញើ​ឯកសារ ឬ​ថត​បាន​រហូតដល់ ២ ជីកាបៃ">
+<!ENTITY fileExceedsLimit.pros2 "ផ្ទុក​ឯកសារ​លើ​បណ្ដាញ​ដោយ​គ្មាន​ដែន​កំណត់">
+<!ENTITY fileExceedsLimit.pros3 "ចូល​ប្រើ និង​ចែករំលែក​ពី​ទី​ណា​ក៏បាន">
