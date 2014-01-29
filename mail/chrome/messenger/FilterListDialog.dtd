@@ -11,16 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ջնջել">
 <!ENTITY deleteButton.accesskey "t">
-
-
-
+<!ENTITY reorderTopButton "ផ្លាស់ទី​ទៅ​​លើ">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "រៀបចំ​តម្រង​ឡើងវិញ ដូច្នេះ​វា​ប្រតិបត្តិ​មុន​អ្នក​ផ្សេង​ទាំងអស់">
 <!ENTITY reorderUpButton.label "Վեր">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "Վար">
 <!ENTITY reorderDownButton.accesskey "D">
-
-
-
+<!ENTITY reorderBottomButton "ផ្លាស់ទី​ទៅ​ក្រោម">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "រៀបចំ​តម្រង​ឡើងវិញ ដូច្នេះ​វា​ប្រតិបត្តិ​បន្ទាប់​​តម្រង​ផ្សេង​ទាំងអស់">
 <!ENTITY filterHeader.label "Միացված ֆիլտրերը կկատարվեն միանգամից։">
 <!ENTITY filtersForPrefix.label "Ֆիլտրեր՝">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -37,5 +37,5 @@
 <!ENTITY helpButton.label "Օգնություն">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
-
+<!ENTITY searchBox.emptyText "ស្វែងរក​តម្រង​តាម​ឈ្មោះ...">
 

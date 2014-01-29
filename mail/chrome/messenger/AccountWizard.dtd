@@ -5,10 +5,13 @@
 
 
 <!ENTITY windowTitle.label "Փոստարկղի Վարպետ">
-<!ENTITY accountWizard.size "լայն-ը. 40em; բարձր-ը. 38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!-- Entities for Account Type page -->
-<!ENTITY accountTypeTitle.label "Նոր փոստարկղի կարգավորում">
 
+
+<!ENTITY accountSetupInfo2.label "ដើម្បី​ទទួល​សារ ជា​ដំបូង​អ្នក​ត្រូវ​បង្កើត​គណនី។">
+<!ENTITY accountTypeTitle.label "Նոր փոստարկղի կարգավորում">
+<!ENTITY accountTypeDesc2.label "អ្នកជំនួយការ​នេះ​នឹង​ប្រមូល​ព័ត៌មាន​ចាំបាច់​ដើម្បី​បង្កើត​គណនី។ បើ​អ្នក​មិន​ដឹង​ពី​ព័ត៌មាន​ដែល​បាន​ស្នើ​ទេ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ ក្រុមហ៊ុន​ផ្ដល់​សេវា​អ៊ីនធឺណិត​របស់​អ្នក។">
 <!ENTITY accountTypeDirections.label "Ընտրեք փոստարկղի տեսակը.">
 <!ENTITY accountTypeMail.label "Փոստարկղ">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -33,6 +36,9 @@
 <!ENTITY emailLabel.label "Էլ. հասցեներ.">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
+
+
+<!ENTITY incomingTitle.label "ព័ត៌មាន​ម៉ាស៊ីន​មេ​ចូល">
 <!ENTITY incomingServerTypeDesc.label "Ընտրեք մուտքային սպասարկիչի տեսակը։">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -47,43 +53,51 @@
 <!ENTITY defaultPortLabel.label "Ծրագրային.">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-
-
+<!ENTITY incomingServer.description "បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​មេ​ចូល​របស់​អ្នក (ឧទាហរណ៍៖ &quot;mail.example.net&quot;)។">
+<!ENTITY incomingServer.label "ម៉ាស៊ីន​មេ​ចូល៖">
+<!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-
-
+<!ENTITY incomingUsername.description "បញ្ចូល​ឈ្មោះ​អ្នកប្រើ​ចូល​ដែល​បាន​ផ្ដល់​ឲ្យ​អ្នក​ដោយ​ក្រុមហ៊ុន​ផ្ដល់​សេវា​អ៊ីមែល (ឧទាហរណ៍៖ &quot;jsmith&quot;)។">
+<!ENTITY incomingUsername.label "ឈ្មោះ​អ្នកប្រើ៖">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
 <!ENTITY newsServerLabel.label "Նորությունների սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "ព័ត៌មាន​ម៉ាស៊ីន​មេ​ចេញ">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-
-
-
-
-
+<!ENTITY outgoingServer.description "បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​មេ​ចេញ​របស់​អ្នក (SMTP) (ឧទាហរណ៍៖ &quot;smtp.example.net&quot;)។">
+<!ENTITY outgoingServer.label "ម៉ាស៊ីន​មេ​ចេញ៖">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "បញ្ចូល​ឈ្មោះ​អ្នកប្រើ​ចេញ​ដែល​បាន​ផ្ដល់​ដោយ​ក្រុមហ៊ុន​ផ្ដល់​សេវា​អ៊ីមែល​របស់​អ្នក (វា​គឺ​ដូចគ្នា​នឹង​ឈ្មោះ​អ្នកប្រើ​ចូល​របស់​អ្នក​ដែរ)។">
+<!ENTITY outgoingUsername.label "ឈ្មោះ​អ្នកប្រើ​ចេញ៖">
+<!ENTITY outgoingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+
+<!ENTITY modifyOutgoing.suffix "អ្នក​អាច​ប្ដូរ​ម៉ាស៊ីន​មេ​នៅ​ក្នុង​ការ​កំណត់​គណនី។">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ձեր առկա ելքային սպասարկիչը (SMTP), &quot;">
-
+<!ENTITY haveSmtp1.suffix3 "&quot;, នឹង​ត្រូវ​បាន​ប្រើ។">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ձեր առկա ելքային (SMTP) սպասարկիչը, &quot;">
-
+<!ENTITY haveSmtp2.suffix3 "&quot;, នឹង​ត្រូវ​បាន​ប្រើ។">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
-
+<!ENTITY haveSmtp3.suffix3 "&quot;, គឺ​ដូចគ្នា​បេះបិទ​នឹង​ម៉ាស៊ីន​មេ​ចូល​របស់​អ្នក ឈ្មោះ​អ្នកប្រើ​ចូល​របស់​អ្នក​នឹង​ត្រូវ​បាន​ប្រើ​ដើម្បី​ដំណើរការ​វា។">
 <!-- Entities for Account name page -->
 
 

@@ -10,21 +10,25 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label         "ដាក់​ស្នើ​ទិន្នន័យ​ដំណើរការ">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "ព័ត៌មាន​បន្ថែម​អំពី​ទូរមាត្រ">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 
-
-
-
-
+<!ENTITY scrolling.label               "រមូរ">
+<!ENTITY useAutoScroll.label           "ប្រើ​រមូរ​ស្វ័យប្រវត្តិ">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "ប្រើ​រមូរ​រលូន">
+<!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
 <!ENTITY searchIntegration.accesskey   "s">
-
-
+<!ENTITY checkDefaultsNow.label        "ពិនិត្យ​មើល​​ឥឡូវ...">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Advanced Configuration">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "C">
@@ -74,7 +78,8 @@
 <!ENTITY showUpdates.label              "Show Update History">
 <!ENTITY showUpdates.accesskey          "S">
 
-
+<!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
+<!ENTITY useService.accesskey            "b">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Settings…">
@@ -87,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Disk Space">
-
-
-
+<!ENTITY offlineCompactFolders.label     "បង្ហាប់​ថត​ទាំងអស់​ពេល​វា​បាន​រក្សាទុក​រួច">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "សរុប​ជា​មេកាបៃ">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -106,7 +111,7 @@
 
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-
+<!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Ask me every time">
 <!ENTITY certs.ask.accesskey             "A">
 

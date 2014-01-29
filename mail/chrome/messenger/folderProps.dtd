@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Properties">
 
 <!ENTITY generalInfo.label                       "General Information">
-
-
-
-
+<!ENTITY folderCharsetFallback.label             "ការ​អ៊ិនកូដ តួអក្សរ​ត្រឡប់​ក្រោយ៖">
+<!ENTITY folderCharsetFallback.accesskey         "ត">
+<!ENTITY folderCharsetEnforce.label              "អនុវត្ត​ការ​អ៊ិនកូដ​សារ​ទាំងអស់​ក្នុង​ថត (ការកំណត់​អ៊ិនកូដ​តួអក្សរ​សារ​នីមួយៗ និង​ការ​រក​ឃើញ​ស្វ័យ​ប្រវត្តិ​នឹង​ត្រូវ​បាន​មិន​អើពើ)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -65,6 +65,9 @@
 <!ENTITY folderQuotaUsage.label                  "Usage:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
+<!ENTITY numberOfMessages.label                  "ចំនួន​សារ៖">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-
+<!ENTITY numberUnknown.label                     "មិន​ស្គាល់">
+<!ENTITY sizeOnDisk.label                        "ទំហំ​លើថាស៖">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "មិន​ស្គាល់">

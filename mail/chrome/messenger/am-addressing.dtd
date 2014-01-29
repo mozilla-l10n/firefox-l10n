@@ -40,6 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Ներառել ստորագրությունը փոխանցելիս">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
+<!ENTITY globalComposingPrefs.label           "ចំណូលចិត្ត​ការ​តែង​សារ​សាកល...">
+<!ENTITY globalComposingPrefs.accesskey       "G">
 
-
-
+<!ENTITY globalAddressingPrefs.label          "ចំណូលចិត្ត​ការ​កំណត់​អាសយដ្ឋាន​សាកល...">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

@@ -70,12 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Ընտրեք տառի չափը">
 <!ENTITY decreaseFontSize.label "Փոքր">
 <!ENTITY decreaseFontSize.accesskey "r">
-
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Մեծ">
 <!ENTITY increaseFontSize.accesskey "g">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Չափը">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -140,7 +142,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Հեռացնել խարսխի անունը">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Պարագրաֆ">
 <!ENTITY paragraphMenu.accesskey "P">

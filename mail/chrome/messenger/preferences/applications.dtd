@@ -22,14 +22,17 @@
 <!ENTITY chooseFolderMac.label        "Ընտրել…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
+<!ENTITY attachments.incoming.label   "ចូល​​">
+<!ENTITY attachments.outgoing.label   "ចេញ​">
 
+<!ENTITY addCloudFileAccount.label        "បន្ថែម">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "បន្ថែម​សេវាកម្ម​ផ្ទុក​តំណ​ឯកសារ​ថ្មី">
+<!ENTITY removeCloudFileAccount.label     "យកចេញ​">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "បាន​ទាមទារ​ការ​ផ្ទៀងផ្ទាត់​របស់​អ្នក ដើម្បី​មើល​ការ​កំណត់​សម្រាប់​សេវាកម្ម​ផ្ទុក​នេះ។">
+<!ENTITY authRequired.button.label        "ផ្ទៀងផ្ទាត់">
+<!ENTITY authRequired.button.accesskey    "U">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY enableCloudFileAccountOffer.label "អនុញ្ញាត​ឲ្យ​ចែករំលែក​ឯកសារ​ធំ​ជាង">
+<!ENTITY enableCloudFileAccountOffer.mb "មេកាបៃ">

@@ -2,25 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
+<!ENTITY accountsWindow.title                "ស្ថានភាព​សារ​បន្ទាន់">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
+<!ENTITY accountManager.newAccount.label     "គណនី​ថ្មី">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "បិទ">
+<!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY accountManager.noAccount.title      "គ្មាន​គណនីបាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ឡើយ​ទេ">
+<!ENTITY accountManager.noAccount.description "ចុច​ប៊ូតុង &accountManager.newAccount.label; ដើម្បី​ឲ្យ &brandShortName; នាំ​អ្នក​ទៅ​ដំណើរការ​កំណត់​រចនាសម្ព័ន្ធ។">
+<!ENTITY account.autoSignOn.label     "ចូល​ពេលចាប់ផ្ដើម">
+<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.connect.label        "តភ្ជាប់​">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "ផ្ដាច់">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.edit.label           "​លក្ខណ​សម្បត្តិ​">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "ផ្លាស់​ទី​ឡើង​លើ">
+<!ENTITY account.movedown.label       "ផ្លាស់ទី​ចុះ​ក្រោម">
+<!ENTITY account.cancelReconnection.label         "បោះបង់​ការ​តភ្ជាប់">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "កំពុង​តភ្ជាប់…">
+<!ENTITY account.disconnecting        "កំពុង​ផ្ដាច់...">
+<!ENTITY account.disconnected         "មិន​បាន​តភ្ជាប់​​">

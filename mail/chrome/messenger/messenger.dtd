@@ -12,8 +12,8 @@
 <!ENTITY closeTabCmd2.accesskey "C">
 <!ENTITY closeOtherTabsCmd2.label "Փակել մնացած էջերը">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
-
-
+<!ENTITY recentlyClosedTabsCmd.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -26,16 +26,16 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Այլ փոստարկղեր...">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newCreateEmailAccountCmd.label "យក​គណនី​អ៊ីមែល​ថ្មី…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "គណនី​អ៊ីមែល​ដែល​មាន​ស្រាប់…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "គណនី​ជជែក…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "គណនី​អត្ថបទ​ព័ត៌មាន…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "គណនី​ជជែក…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Բացել պահպանված նամակը...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Պահպանել Որպես">
@@ -128,6 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Գործիքներ">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Կարգավորել…">
@@ -141,8 +143,8 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "Ուղղահայաց տեսքով">
 <!ENTITY messagePaneVertical.accesskey "V">
-
-
+<!ENTITY showFolderPaneCmd.label "ផ្ទាំង​ថត">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Նամակի վահանակը">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -211,7 +213,7 @@
 <!ENTITY expandAllThreadsCmd.key "Բ">
 <!ENTITY collapseAllThreadsCmd.label "Հավաքել բոլորը">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
-<!ENTITY collapseAllThreadsCmd.key "Հ">
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Չկարդացած">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "Թեմատիկաները չկարդացածների հետ">
@@ -252,9 +254,9 @@
 
 <!ENTITY pageSourceCmd.label "Նամակի աղբյուրը">
 <!ENTITY pageSourceCmd.accesskey "o">
-
-
-
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Փնտրել">
@@ -264,7 +266,7 @@
 <!ENTITY findCmd.key "Փ">
 <!ENTITY findAgainCmd.label "Կրկին փնտրել">
 <!ENTITY findAgainCmd.accesskey "g">
-
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
@@ -284,12 +286,12 @@
 <!ENTITY nextMsgCmd.key "Ն">
 <!ENTITY nextUnreadMsgCmd.label "Չկարդացած նամակ">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
-
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Աստղիկով նամակ">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Չկարդացած թեմատիկա">
 <!ENTITY nextUnreadThread.accesskey "T">
-
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Նախորդը">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Նամակ">
@@ -304,17 +306,17 @@
 <!ENTITY goBackCmd.label "Հետ">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "Հ">
-
-
-
+<!ENTITY goChatCmd.label "ជជែក">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Աստղիկով նամակ">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Թղթապանակ">
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY thisFolder.label "Այս թղթապանակը">
 <!ENTITY thisFolder.accesskey "F">
-
-
+<!ENTITY goRecentlyClosedTabs.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Մեկնարկային էջը">
 <!ENTITY startPageCmd.accesskey "S">
 <!-- Message Menu -->
@@ -335,8 +337,8 @@
 <!ENTITY replyMsgCmd.key  "Պ">
 <!ENTITY replySenderCmd.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY replySenderCmd.accesskey "R">
-
-
+<!ENTITY replyNewsgroupCmd2.label "បន្ត​ទៅ​វេទិកា​ព័ត៌មាន">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Պատասխանել բոլորին">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "Պ">
@@ -348,10 +350,10 @@
 <!ENTITY forwardMsgCmd.key  "Փ">
 <!ENTITY forwardAsMenu.label "Փոխանցել որպես">
 <!ENTITY forwardAsMenu.accesskey "w">
-
-
-
-
+<!ENTITY forwardAsInline.label "ក្នុង​តួ">
+<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsAttachmentCmd.label "​ឯកសារ​ភ្ជាប់">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "Խմբագրել որպես նորը">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "Խ">
@@ -368,8 +370,8 @@
 <!ENTITY moveToFolderAgain.label "Կրկնել">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-
-
+<!ENTITY killThreadMenu.label "មិន​អើពើ​សែស្រឡាយ">
+<!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "Ա">
 <!ENTITY killSubthreadMenu.label "Անտեսել ենթաթեմատիկան">
 <!ENTITY killSubthreadMenu.accesskey "S">
@@ -411,7 +413,7 @@
 <!ENTITY markAllReadCmd.key "Բ">
 <!ENTITY markStarredCmd.label "Ավելացնել աստղ">
 <!ENTITY markStarredCmd.accesskey "S">
-
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Որպես խլամ">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "Ո">
@@ -426,14 +428,14 @@
 <!ENTITY openConversationCmd.label "Բացել պատուհանում">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "Բ">
-
-
-
-
-
-
-
-
+<!ENTITY openAttachmentListCmd.label "ឯកសារ​ភ្ជាប់">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "នៅ​ពេល​បើក​សារ​មតិ​ព័ត៌មាន">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "បើក​ជា​ទំព័រ​បណ្ដាញ">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "បើក​ជា​សេចក្ដី​សង្ខេប">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Փոփոխել վեբ էջը և արդյունքը գրության վահանակում">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
@@ -452,14 +454,14 @@
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Ակտիվության կառավարիչ">
 <!ENTITY activitymanager.accesskey "v">
-
-
-
-
-
-
-
-
+<!ENTITY imAccountsStatus.label "ស្ថានភាព​ជជែក">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "មាន">
+<!ENTITY imStatus.unavailable        "មិន​មាន">
+<!ENTITY imStatus.offline            "ក្រៅ​បណ្ដាញ">
+<!ENTITY imStatus.showAccounts       "បង្ហាញ​គណនី...">
+<!ENTITY joinChatCmd.label "ចូលរួម​ជជែក...">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Պահպանված ֆայլեր">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "Պ">
@@ -477,18 +479,21 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Ներմուծել…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Սխալների ցուցակ">
+<!ENTITY errorConsoleCmd.label "កុងសូល​កំហុស">
 <!ENTITY errorConsoleCmd.accesskey "E">
-
-
-
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "សម្អាត​ប្រវត្តិ​បច្ចុប្បន្ន...">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Փոստարկղի կարգավորումներ...">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
-
-
+<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "អនុញ្ញាត​ឲ្យ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton1.label "យក​សារ">
 <!ENTITY newMsgButton.label "Write">
 <!ENTITY replyButton.label "Reply">
 <!ENTITY replyAllButton.label "Reply All">
@@ -497,32 +502,32 @@
 <!ENTITY fileButton.label "File">
 <!ENTITY archiveButton.label "Archive">
 <!ENTITY nextButton.label "Next">
-
-
+<!ENTITY nextButtonToolbarItem.label "​មិន​ទាន់​អាន​បន្ទាប់">
+<!ENTITY nextMsgButton.label "បន្ទាប់">
 <!ENTITY previousButton.label "Previous">
-
-
+<!ENTITY previousButtonToolbarItem.label "មិន​ទាន់​អាន​មុន">
+<!ENTITY previousMsgButton.label "មុន">
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
-
+<!ENTITY deleteItem.title "​លុប​">
 <!ENTITY deleteButton.label "Delete">
 <!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Mark">
 <!ENTITY printButton.label "Print">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Activity Indicator">
-
+<!ENTITY junkItem.title "ឥត​បាន​ការ">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Address Book">
-
+<!ENTITY chatButton.label "ជជែក">
 <!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
 <!ENTITY folderLocationToolbarItem.title "Folder Location">
 <!ENTITY tagButton.label "Tag">
 <!ENTITY compactButton.label "Compact">
-
+<!ENTITY appmenuButton.label "ម៉ឺនុយ​កម្មវិធី">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Նամակի ընդլայնված որոնում">
@@ -534,14 +539,14 @@
 <!ENTITY replyAllButton.tooltip "Reply to sender and all recipients">
 <!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Forward selected message">
-
-
+<!ENTITY forwardAsInline.tooltip "បញ្ជូន​បន្ត​សារ​ដែល​បាន​ជ្រើស​ជា​អត្ថបទ​ក្នុង​តួ">
+<!ENTITY forwardAsAttachment.tooltip "បញ្ជូន​បន្ត​សារ​ដែល​បាន​ជ្រើស​ជា​ឯកសារ​ភ្ជាប់">
 <!ENTITY fileButton.tooltip "File selected message">
 <!ENTITY archiveButton.tooltip "Archive selected messages">
 <!ENTITY nextButton.tooltip "Move to the next unread message">
-
+<!ENTITY nextMsgButton.tooltip "ទៅកាន់​សារ​បន្ទាប់">
 <!ENTITY previousButton.tooltip "Move to the previous unread message">
-
+<!ENTITY previousMsgButton.tooltip "ទៅកាន់​សារ​មុន">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
 <!ENTITY deleteButton.tooltip "Delete selected message or folder">
@@ -552,32 +557,40 @@
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
-
+<!ENTITY chatButton.tooltip "បង្ហាញ​ផ្ទាំង​ជជែក">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
-
+<!ENTITY appmenuButton1.tooltip "បង្ហាញ​ម៉ឺនុយ &brandShortName;">
 <!-- Toolbar Button Popup -->
 
+<!ENTITY buttonMenuForwardAsInline.label "បញ្ជូន​បន្ត​ក្នុង​តួ">
+<!ENTITY buttonMenuForwardAsAttachment.label "បញ្ជូន​បន្ត​ជា​ឯកសារ​ភ្ជាប់">
 <!-- Remote Content Button Popup -->
 
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "បង្ហាញ​មាតិកា​ពី​ចម្ងាយ​នៅ​ក្នុង​សារ​នេះ">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "បង្ហាញ​មាតិកា​ពី​ចម្ងាយ​ពី​​អ្នក​ផ្ញើ​នេះ">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
 <!-- Phishing Button Popup -->
 
-
-
+<!ENTITY phishingOptionIgnore.label "មិន​អើពើ​ការ​ព្រមាន​សម្រាប់​សារ​នេះ">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "បិទ​ការ​រក​ឃើញ​ការ​បន្លំ​សម្រាប់​សារ​ទាំងអស់">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!-- AppMenu Popup -->
 
-
-
-
-
+<!ENTITY appmenuNewMsgCmd.label "សារ​ថ្មី">
+<!ENTITY appmenuNewContactCmd.label "ទំនាក់ទំនង​សៀវភៅ​អាសយដ្ឋាន…">
+<!ENTITY appmenuEditMenu.label "កែសម្រួល​">
+<!ENTITY appmenuToolbarLayout.label "ប្លង់​របារ​ឧបករណ៍…">
+<!ENTITY appmenuSelectThread.label "ជ្រើស​​ប្រធានបទ​តែមួយ">
+<!ENTITY appmenuSelectFlagged.label "ជ្រើស​សារ​ដែល​បាន​ដាក់​ផ្កាយ">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Նոր պիտակ...">
 <!ENTITY addNewTag.accesskey "N">
-
-
+<!ENTITY manageTags.label "គ្រប់គ្រង​ស្លាក...">
+<!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Անուն">
@@ -586,8 +599,8 @@
 
 <!ENTITY folderContextGetMessages.label "Ստանալ նամակները">
 <!ENTITY folderContextGetMessages.accesskey "G">
-
-
+<!ENTITY folderContextOpenInNewWindow.label "បើក​ក្នុង​បង្អួច​ថ្មី">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Բացել նոր էջում">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Նոր ենթաթղթապանակ...">
@@ -612,8 +625,8 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրվել...">
 <!ENTITY folderContextSubscribe.accesskey "b">
-
-
+<!ENTITY folderContextSearchForMessages.label "ស្វែងរក​សារ...">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Հատկություններ...">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակը">
@@ -656,7 +669,7 @@
 <!ENTITY starredColumn.label "Starred">
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
-
+<!ENTITY attachmentColumn.label "ឯកសារ​ភ្ជាប់">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
@@ -697,32 +710,32 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY contextReplySender.accesskey "R">
-
-
+<!ENTITY contextReplyNewsgroup2.label "បន្ត​ទៅ​វេទិកា​ព័ត៌មាន...">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Պատասխանել բոլորին">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Պատասխանել ցանկում">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Փոխանցել">
 <!ENTITY contextForward.accesskey "F">
-
-
-
-
-
-
-
-
+<!ENTITY contextForwardAsMenu.label "បញ្ជូន​បន្ត​ជា">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "ក្នុង​តួ">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "​ឯកសារ​ភ្ជាប់">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "បញ្ជូន​បន្ត​ជា​ឯកសារ​ភ្ជាប់">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Տեղափոխել՝">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Վերջին">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Պատճենել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-
-
-
-
+<!ENTITY contextKillThreadMenu.label "មិន​អើពើ​​សែស្រឡាយ">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "មិន​អើពើ​​ប្រធានបទ​តែ​មួយ​រង">
+<!ENTITY contextWatchThreadMenu.label "មើល​សែស្រឡាយ">
 <!ENTITY contextSaveAs.label "Պահպանել որպես…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Տպել…">
@@ -802,16 +815,19 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base "ស្វែងរក… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Ավելացնել Հասցեագրքում...">

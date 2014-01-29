@@ -8,17 +8,24 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
+<!ENTITY fullZoomEnlargeCmd.label       "​ពង្រីក">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-
-
+<!ENTITY fullZoomReduceCmd.label        "បង្រួម">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-
-
+<!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-
-
-
+<!ENTITY fullZoomToggleCmd.label        "ពង្រីក​តែ​អត្ថបទ">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "ពង្រីក ">
+<!ENTITY fullZoom.accesskey             "Z">

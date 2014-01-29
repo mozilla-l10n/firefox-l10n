@@ -1,4 +1,4 @@
-
+<!ENTITY aboutDialog.title          "អំពី &brandFullName;">
 
 <!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -10,17 +10,17 @@
 
 <!ENTITY contribute.start           "Հետաքրքրե՞ց: ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Միացի՛ր!">
+<!ENTITY contribute.getInvolvedLink "ចូលរួម!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Լիցենզիոն տեղեկություն">
+<!ENTITY bottomLinks.license        "ព័ត៌មាន​អាជ្ញាប័ណ្ណ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Օգտագործողի Իրավունքները">
+<!ENTITY bottomLinks.rights         "សិទ្ធិ​អ្នកប្រើ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Գաղտնիության Դրույթները">
+<!ENTITY bottomLinks.privacy        "គោល​នយោបាយ​ភាព​ឯកជន">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Ստուգվում են թարմացումները...">
@@ -54,6 +54,8 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
+<!ENTITY update.unsupported.start    "អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្ន​ភាព​បាន​ទៀត​ឡើយ​នៅ​លើ​ប្រព័ន្ធ​នេះ។ ">
+<!ENTITY update.unsupported.linkText "ស្វែងយល់​បន្ថែម">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -64,6 +66,7 @@
 <!ENTITY update.downloading.start   "Թարմացումը բեռնվում է — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "កំពុង​អនុវត្ត​បច្ចុប្បន្នភាព…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

@@ -66,8 +66,8 @@
 
 <!ENTITY showImageLinkBorder.label "Show border around linked image">
 <!ENTITY showImageLinkBorder.accessKey "b">
-
-
+<!ENTITY LinkAdvancedEditButton.label "ភ្ជាប់​ការ​កែសម្រួល​កម្រិតខ្ពស់…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Ավելացնել կամ փոփոխել HTML հատկությունները, ոճի հատկությունները և JavaScript-ը">
 <!-- These tabs are currently used in the image input dialog -->
 

@@ -2,22 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Ստուգել թարմացումները յուրաքանչյուր՝">
+<!ENTITY biffStart.label "ពិនិត្យ​អត្ថបទថ្មីៗ​រៀងរាល់">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "րոպե">
+<!ENTITY biffEnd.label "នាទី">
 
-<!ENTITY loginAtStartup.label "Բացելիս ստուգել նորությունները"> 
+<!ENTITY loginAtStartup.label "ពិនិត្យ​អត្ថបទ​ថ្មី​ៗពេល​ចាប់ផ្ដើម"> 
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "Ըստ ծրագրայինի ցուցադրել հոդվածի ընդհանուր պատկերը, այլ ոչ վեբ էջը:"> 
+<!ENTITY useQuickMode.label "តាម​លំនា​ដើម បង្ហាញ​ការ​សង្ខេប​អត្ថបទ​ជំនួស​ឲ្យ​ការ​ផ្ទុក​ទំព័រ​បណ្ដាញ"> 
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Կառավարել բաժանորդագրությունները...."> 
+<!ENTITY manageSubscriptions.label "គ្រប់គ្រង​ការ​ជាវ..."> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
+<!ENTITY feedWindowTitle.label "អ្នក​ជំនួយការ​គណនី​អត្ថបទ​ព័ត៌មាន">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Բլոգի &amp; Նորությունները">
-<!ENTITY feeds.wizardShortName "Շղթաներ">
+<!ENTITY feeds.accountName "ប្លក់ &amp; អត្ថបទ​ព័ត៌មាន">
+<!ENTITY feeds.wizardShortName "អត្ថបទ​ព័ត៌មាន">
 <!ENTITY feeds.wizardLongName "Բլոգի &amp; Նորությունները">
 <!ENTITY feeds.wizardLongName.accesskey "F">

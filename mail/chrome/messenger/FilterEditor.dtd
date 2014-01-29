@@ -17,17 +17,18 @@
 <!ENTITY highestPriorityCmd.label "Highest">
 
 <!ENTITY contextDesc.label "Կիրառել ֆիլտրը, երբ՝">
-
-
-
-
-
-
+<!ENTITY contextIncomingMail.label "ទទួល​អ៊ីមែល​ថ្មី៖">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "ដំណើរការ​ដោយ​ដៃ">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "ត្រង​មុន​ពេលចាត់ថ្នាក់​សារ​ឥត​បាន​ការ">
+<!ENTITY contextAfterCls.label "ត្រង​បន្ទាប់ពី​ចាត់ថ្នាក់សារ​ឥតបាន​ការ">
 
 <!ENTITY filterActionDesc.label "Կատարել այս գործողությունը.">
 <!ENTITY filterActionDesc.accesskey "P">
 
-
+<!ENTITY filterActionOrderWarning.label "ចំណាំ៖ ត្រង​សកម្មភាព​នឹង​ត្រូវ​បាន​ដំណើរការ​ក្នុង​លំដាប់​ផ្សេង។">
+<!ENTITY filterActionOrder.label "មើល​លំដាប់ប្រតិបត្តិ">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Տեղափոխել նամակը՝">
@@ -35,7 +36,7 @@
 <!ENTITY forwardTo.label "Փոխանցել՝">
 <!ENTITY replyWithTemplate.label "Պատասխանել Նմուշով">
 <!ENTITY markMessageRead.label "Mark As Read">
-
+<!ENTITY markMessageUnread.label "សម្គាល់​ថា​អាន​រួច">
 <!ENTITY markMessageStarred.label "Add Star">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
@@ -48,10 +49,13 @@
 <!ENTITY watchThread.label "Watch Thread">
 <!ENTITY stopExecution.label "Stop Filter Execution">
 
-
+<!ENTITY addAction.tooltip "បន្ថែម​សកម្មភាព​ថ្មី">
+<!ENTITY removeAction.tooltip "យក​សកម្មភាព​នេះ​ចេញ">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
 
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

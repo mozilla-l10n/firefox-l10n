@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unknown">
-
+<!ENTITY chatName.label                 "ឈ្មោះ​ការ​ជជែក៖">
 
 <!ENTITY allowRemoteContent1.label      "Allow remote content.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -126,25 +126,26 @@ content in HTML messages from this contact.">
 <!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY Chat.tab                       "ជជែក">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "លេខ​សម្គាល់ Jabber ៖">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "សម្មតិនាម IRC ៖">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Photo">
 <!ENTITY Photo.accesskey                "o">

@@ -13,14 +13,14 @@
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Բացել">
 <!ENTITY openButton.accesskey        "n">
-
-
+<!ENTITY deleteButton.label          "លុប​">
+<!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Search Messages">
 <!ENTITY results.label               "Results">
-
-
-
-
+<!ENTITY moveHereMenu.label          "ផ្លាស់ទី​នៅ​ទីនេះ">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "ផ្លាស់ទី​ទៅ">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Բացել թղթապանակում">
 <!ENTITY openInFolder.accesskey      "r">
@@ -34,8 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Գրել">
 <!ENTITY composeButton.accesskey     "W">
-
-
+<!ENTITY deleteCardButton.label      "លុប​">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
 <!-- Thread Pane -->
 
