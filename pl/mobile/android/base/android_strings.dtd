@@ -212,6 +212,12 @@ size. -->
 <!ENTITY find_next "Następny">
 <!ENTITY find_close "Zamknij">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Przekazywanie do urządzenia">
+<!ENTITY media_play "Odtwórz">
+<!ENTITY media_pause "Pauza">
+<!ENTITY media_stop "Zatrzymaj">
+
 <!ENTITY close_all_tabs "Zamknij wszystkie karty">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
