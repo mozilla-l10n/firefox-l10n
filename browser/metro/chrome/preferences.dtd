@@ -4,33 +4,37 @@
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
 <!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Pilihan">
 <!ENTITY optionsHeader.char.title                                "Pengekodan Aksara">
 <!ENTITY optionsHeader.char.autodetect.label                     "Auto-kesan">
-
+<!ENTITY optionsHeader.char.options.label                        "Tunjuk pilihan pengkodan pada Bar App">
 
 <!ENTITY clearPrivateData.title                                  "Padamkan Data Peribadi">
-
+<!ENTITY clearPrivateData.label                                  "Lapangkan sejarah pelayaran web, kata laluan, kuki, dan borang data anda pada peranti ini">
 <!ENTITY clearPrivateData.button                                 "Kosongkan">
-
-
+<!ENTITY clearPrivateData.done                                   "Selesai!">
+<!ENTITY clearPrivateData.history                                "Sejarah pelungsuran">
 <!ENTITY clearPrivateData.otherdata                              "Data-data lain (kata laluan, cache, kuki, lain-lain)">
 <!ENTITY clearPrivateData.downloadHist                           "Sejarah muat turun">
 <!ENTITY clearPrivateData.cookies                                "Cookie">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Keutamaan Laman">
 <!ENTITY clearPrivateData.formSearchHist                         "Form &amp; latar carian">
-
+<!ENTITY clearPrivateData.passwords                              "Kata laluan disimpan">
 <!ENTITY clearPrivateData.offline                                "Data laman web luar talian">
 <!ENTITY clearPrivateData.logins                                 "Login Aktif">
 
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "Ingat Kata Laluan">
+<!ENTITY doNotTrack.title                                        "Jangan Jejaki">
+<!ENTITY doNotTrack.options.doNotTrack                           "Beritahu laman yang saya tidak mahu dijejaki">
+<!ENTITY doNotTrack.options.doTrack                              "Beritahu laman yang saya mahu dijejaki">
+<!ENTITY doNotTrack.options.default                              "Jangan beritahu laman mengenai sebarang tetapan penjejakan saya">
+<!ENTITY doNotTrack.learnMoreLink                                "Lebih lanjut&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Pelapor nahas">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; menghantar laporan kerosakan untuk membantu Mozilla menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Sertakan alamat laman di mana saya berada">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
-
+<!ENTITY optionsHeader.telemetry.label                            "Kongsikan statistik penggunaan tentang &brandShortName; kepada Mozilla bagi membantu kami menjadikan pelayar anda lebih baik">

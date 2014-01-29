@@ -44,18 +44,24 @@
 <!ENTITY netmonitorUI.toolbar.waterfall   "Garis masa">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
+
+<!ENTITY netmonitorUI.tab.headers         "Pengepala">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
 <!ENTITY netmonitorUI.tab.cookies         "Cookie">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
+
+<!ENTITY netmonitorUI.tab.params          "Param">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
 
 <!ENTITY netmonitorUI.tab.response        "Respons">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
+
+<!ENTITY netmonitorUI.tab.timings         "Pemasaan">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -98,6 +104,8 @@
 <!ENTITY netmonitorUI.footer.clear  "Kosongkan">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
+
+<!ENTITY netmonitorUI.panesButton.tooltip "Togol info rangkaian">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
 
@@ -116,6 +124,8 @@
 <!ENTITY netmonitorUI.summary.version     "Versi:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
+
+<!ENTITY netmonitorUI.summary.size        "Saiz pengepala:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 
@@ -173,6 +183,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend      "Sunting dan Hantar Semula">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 
@@ -193,10 +205,16 @@
 <!ENTITY netmonitorUI.custom.newRequest   "Permintaan Baru">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.query        "Rentetan Pertanyaan:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "Permintaan Pengepala:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "Permintaan Kandungan:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 

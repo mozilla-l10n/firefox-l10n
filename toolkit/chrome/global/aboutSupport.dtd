@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila anda
+<!ENTITY aboutSupport.pageSubtitle "  Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila anda
 cuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim 
 &brandShortName;, semak <a id='supportLink'>laman web sokongan</a> kami.">
 
@@ -13,9 +13,9 @@ cuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Laporan">
-
-
-
+<!ENTITY aboutSupport.crashes.sendDate "Dihantar">
+<!ENTITY aboutSupport.crashes.allReports "Semua Pelapor Nahas">
+<!ENTITY aboutSupport.crashes.noConfig "APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.">
 
 <!ENTITY aboutSupport.extensionsTitle "Sambungan">
 <!ENTITY aboutSupport.extensionName "Nama">

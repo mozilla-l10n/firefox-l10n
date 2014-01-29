@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Tetimbul">
+
 <!ENTITY  blockPopups.label           "Sekat tetingkap timbul">
-<!ENTITY  blockPopups.accesskey       "S">
+<!ENTITY  blockPopups.accesskey       "t">
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "e">
 
-<!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
+<!ENTITY  fontsAndColors.label        "Font &amp; Warna">
 
-<!ENTITY  defaultFont.label           "Fon asal:">
-<!ENTITY  defaultFont.accesskey       "a">
+<!ENTITY  defaultFont.label           "Font asal:">
+<!ENTITY  defaultFont.accesskey       "F">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">
 

@@ -26,13 +26,13 @@ tidak mempunya ruang yang cukup untuk memasangnya.">
 <!ENTITY  manualUpdateGetMsg.label        "Anda sentiasa boleh mendapatkan versi terkini &brandShortName; di:">
 
 <!ENTITY  unsupported.title               "Sistem Tak Disokong">
-<!ENTITY  unsupported.label               "&brandShortName; anda telah lapuk, tetapi versi yang terbaru tidak 
+<!ENTITY  unsupported.label               "&brandShortName; Anda telah lapuk, tetapi versi yang terbaru tidak 
  disokong oleh sistem anda. Sila tatar sistem anda, kemudian cuba lagi. 
- Anda tidak akan melihat notis ini lagi, tetapi anda boleh ">
+ Anda tidak akan melihat notis ini lagi, tetapi anda boleh">
 <!ENTITY  unsupportedLink.label           "ketahui lebih lanjut.">
 
 <!ENTITY  incompatibleCheck.title         "Memeriksa kesesuaian Add-on">
-<!ENTITY  incompatibleCheck.label         "Sedang mencari versi yang lebih baru untuk add-on anda... ">
+<!ENTITY  incompatibleCheck.label         "Sedang mencari versi yang lebih baru untuk add-on anda...">
 
 <!ENTITY  clickHere.label                 "Lihat maklumat lanjut perihal kemaskinian ini">
 
@@ -66,7 +66,7 @@ pakej kemaskinian lengkap.">
 <!ENTITY  error.title                     "Kemaskini Gagal">
 
 <!ENTITY  error.label                     "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian 
-ini. &brandShortName; tidak dapat dikemaskini disebabkan: ">
+ini. &brandShortName; tidak dapat dikemaskini disebabkan:">
                                            
 <!ENTITY  errorManual.label               "Anda boleh kemaskini manual &brandShortName; dengan melawati pautan ini 
 dan muaturun versi terkini:">

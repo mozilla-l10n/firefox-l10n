@@ -10,7 +10,7 @@
 
 <!ENTITY charsetMenuAutodet.off.label     "(tutup)">
 <!ENTITY charsetMenuAutodet.off.accesskey "t">
-<!ENTITY charsetMenuAutodet.ja.label      "Jepun ">
+<!ENTITY charsetMenuAutodet.ja.label      "Jepun">
 <!ENTITY charsetMenuAutodet.ja.accesskey  "J">
 <!ENTITY charsetMenuAutodet.ru.label      "Rusia">
 <!ENTITY charsetMenuAutodet.ru.accesskey  "R">

@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Penyediaan boleh diubahsuai dengan munggunakan tab Aplikasi di &brandShortName;'s Keutamaan.">
+<!ENTITY  settingsChangePreferences.label  "Tetapan boleh diubah dengan menggunakan tab Aplikasi di Keutamaan &brandShortName;.">
 <!ENTITY  settingsChangeOptions.label      "Penyediaan boleh diubahsuai dengan menggunakan tab Aplikasi di &brandShortName;'s Pilihan.">

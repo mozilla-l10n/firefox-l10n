@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "adalah ">
+<!ENTITY community.exp.middle       " adalah ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komuniti global">
 <!ENTITY community.exp.end          " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
@@ -72,7 +72,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Anda tidak boleh melakukan kemas kini yang selanjutnya pada sistem ini.">
+<!ENTITY update.unsupported.start    "Anda tidak boleh melakukan kemas kini yang selanjutnya pada sistem ini. ">
 <!ENTITY update.unsupported.linkText "Ketahui lanjut">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
