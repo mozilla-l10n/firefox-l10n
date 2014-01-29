@@ -241,7 +241,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
 <!ENTITY pref_titlebar_mode_url "Pokazuj adresy stron">
 
-<!ENTITY pref_dynamic_toolbar "Ukryj pasek tytułu przy przewijaniu">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Przewijaj pasek tytułu">
 
 <!ENTITY history_removed "Stronę usunięto">
 
