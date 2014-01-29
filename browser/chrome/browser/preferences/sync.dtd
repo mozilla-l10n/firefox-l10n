@@ -32,3 +32,18 @@
 <!ENTITY unlinkDevice.label "Scollega questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
+<!ENTITY fxaPrivacyNotice.link.label "Informativa sulla privacy">
+<!ENTITY determiningStatus.label "Verifica stato di Firefox account…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "non è verificato.">
+<!ENTITY signedInLoginFailure.beforename.label "Accedi per riattivare la connessione">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY notSignedIn.label "Accesso non effettuato.">
+<!ENTITY signIn.label "Accedi">
+<!ENTITY manage.label "Gestisci">
+<!ENTITY unlink.label "Scollega questo browser…">
+<!ENTITY verify.label "Verifica email">
+<!ENTITY forget.label "Dimentica questa email">
+<!ENTITY welcome.description "Accedi ovunque con &brandShortName; a schede, segnalibri, password e molto altro ancora.">
+<!ENTITY welcome.startButton.label "Accedi o crea un account">
+<!ENTITY welcome.useOldSync.label "Stai utilizzando una vecchia versione di Sync?">
