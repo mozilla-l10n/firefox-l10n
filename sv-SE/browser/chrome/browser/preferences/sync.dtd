@@ -45,3 +45,23 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">
 <!ENTITY prefs.ppLink.label         "Sekretesspolicy">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Integritetsinfo">
+<!ENTITY determiningStatus.label    "Undersöker status för ditt Firefox-konto…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "är inte verifierat.">
+
+<!ENTITY signedInLoginFailure.beforename.label "Logga in för att återansluta">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Du är inte inloggad.">
+<!ENTITY signIn.label                "Logga in">
+<!ENTITY manage.label                "Hantera">
+<!ENTITY unlink.label                "Koppla bort den här webbläsaren…">
+<!ENTITY verify.label                "Verifiera e-postadress">
+<!ENTITY forget.label                "Glöm den här e-postadressen">
+
+<!ENTITY welcome.description "Kom åt dina flikar, bokmärken, lösenord och annat var du än använder &brandShortName;.">
+<!ENTITY welcome.startButton.label "Logga in eller skapa ett konto">
+<!ENTITY welcome.useOldSync.label "Använder en äldre version av Sync?">
