@@ -8,8 +8,8 @@
 <!ENTITY getUserMediaDialog.title                   "ஊடக பகிர்வு">
 <!ENTITY getUserMediaDialog.button.accept.label     "பகிர்">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "ப">
-
-
+<!ENTITY getUserMediaDialog.button.cancel.label     "ரத்து செய்">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "ர">
 
 <!ENTITY getUserMediaDialog.video.label             "புகைப்பட கருவியை தேர்ந்தெடு">
 <!ENTITY getUserMediaDialog.video.noVideo           "வீடியோ இல்லை">

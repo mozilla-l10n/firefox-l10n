@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "சாதனத்திற்கு இணைக்கப் பயன்படுத்தப்படும் வழங்கி மற்றும் முனையத்தை மாற்றவும். (முன்னிருப்பு localhost:6000)">
 <!ENTITY connection.startSimulator "சிமுலேட்டரைத் தொடங்கு">
 <!ENTITY connection.startSimulatorTooltip "சிமுலேட்டர் நேர்வு ஒன்றைத் தொடங்கி, அதனுடன் இணைக்கவும்.">
-
+<!ENTITY connection.saveConnectionInfo "சேமி">
 <!ENTITY connection.saveConnectionInfoTooltip "வழங்கி மற்றும் முனையத்தைச் சேமி.">
 <!ENTITY connection.connecting "இணைக்கிறது...">
 <!ENTITY connection.disconnecting "துண்டிக்கிறது…">

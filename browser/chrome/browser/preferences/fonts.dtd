@@ -26,20 +26,20 @@
 
 <!ENTITY  font.langGroup.latin1                   "மேற்கத்திய">
 <!ENTITY  font.langGroup.latin2                   "மத்திய ஐரோப்பா">
-
+<!ENTITY  font.langGroup.japanese                 "ஜப்பானிய">
 <!ENTITY  font.langGroup.trad-chinese             "மரபார்ந்த சீனம் (தைவான்)">
 <!ENTITY  font.langGroup.simpl-chinese            "எளிய சீனம்">
 <!ENTITY  font.langGroup.trad-chinese-hk          "மரபார்ந்த சீனா (ஹாங்காங்)">
-
-
-
+<!ENTITY  font.langGroup.korean                   "கொரியன்">
+<!ENTITY  font.langGroup.cyrillic                 "சிரில்லிக்">
+<!ENTITY  font.langGroup.baltic                   "பால்டிக்">
 <!ENTITY  font.langGroup.el                       "கிரேக்கம்">
 <!ENTITY  font.langGroup.turkish                  "துருக்கி">
 <!ENTITY  font.langGroup.unicode                  "மற்ற மொழிகள்">
 <!ENTITY  font.langGroup.user-def                 "பயனர் குறிப்பீடு">
-
+<!ENTITY  font.langGroup.thai                     "தாய்">
 <!ENTITY  font.langGroup.hebrew                   "ஹீப்ரு">
-
+<!ENTITY  font.langGroup.arabic                   "அரபு">
 <!ENTITY  font.langGroup.devanagari               "தேவநாகரி">
 <!ENTITY  font.langGroup.tamil                    "தமிழ்">
 <!ENTITY  font.langGroup.armenian                 "அர்மேனியன்">
@@ -73,6 +73,7 @@
 <!ENTITY languages.customize.Fallback.accesskey   "எ">
 <!ENTITY languages.customize.Fallback.desc        "தனது குறியீடாக்கத்தை அறிவிக்காத பழமையான உள்ளடக்கத்திற்கு இந்த எழுத்துக்குறி குறியீடாக்கம் பயன்படுத்தப்படும்.">
 
+<!ENTITY languages.customize.Fallback.auto        "தற்பொதைய மொழிக்கு முன்னிருப்பு">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "அராபிக்">
@@ -81,6 +82,7 @@
 <!ENTITY languages.customize.Fallback.cewindows   "மத்திய ஐரோப்பா, மைக்ரோசாப்ட்">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "எளிய சீனம்">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "பாரம்பரிய சீனம்">
@@ -106,4 +108,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "வியட்னாமிய">
-
+<!ENTITY languages.customize.Fallback.other       "மற்றவை(மேற்கத்திய ஐரோப்பவையும் உள்ளடக்கியவை)">

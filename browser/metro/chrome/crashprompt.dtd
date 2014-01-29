@@ -6,11 +6,18 @@
 <!ENTITY crashprompt.title           "மொசில்லா செயலிழப்பு அறிக்கைகளை அனுப்ப வேண்டுமா?">
 <!ENTITY crashprompt.message         "மன்னிக்கவும், &brandShortName; இப்போது தான் செயலிழப்பிலிருந்து மீட்கப்பட்டது. செயலிழப்பு அறிக்கைகளை அனுப்பினால் &brandShortName; ஐ மேலும் நிலைத்தன்மை உடையதாகவும் பாதுகாப்பானதாகவும் மாற்ற &brandShortName; க்கு உதவியாக இருக்கும். நீங்கள் விரும்பும் போது அமைவுகள்/விருப்பங்களுக்குச் சென்று உங்கள் முன்னுரிமைகளை மாற்றலாம்.">
 <!ENTITY crashprompt.detailsLink     "சிதைவு அறிக்கையில் என்ன உள்ளது?">
-
-
-
-
+<!ENTITY crashprompt.detailedMessage.firstParagraph "ஒரு சிதைவு அறிக்கையானது அதைப்பற்றிய தகவல்கள், உங்கள் கணினி, நிலைகுலையும் பொருட்டு உலாவியின் நிலை போன்றவற்றையும் உள்ளடக்கிருக்கும்.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "இது திறந்துள்ள பக்கங்கள், படிவத்தில் தட்டிய வார்த்தைகள் மேலும் திறந்த செய்திகள், கடைசியாக உலாவிய வரலாறு அல்லது தளத்துடன் பகிர்ந்தபுவியிருப்பிட தகவல்களை உள்ளடக்கியது.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "நாங்கள் சிதைவு அறிக்கைகளை பயன்படுத்தி பிரச்சனைகளை தீர்க்கவும் தயாரிப்புகளை செம்மையாக படைக்கவும்செய்கிறோம். நாங்கள் குறிப்பிட்டப்படி உங்களுடைய தகவல்களை கையாளுகிறோம் ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; தனியுரிமக் கொள்கை">
 <!ENTITY crashprompt.includeURLLabel "நான் இருந்த பக்கத்தின் முகவரியைச் சேர்க்கவும்">
 <!ENTITY crashprompt.acceptbutton    "அறிக்கைகளை அனுப்பு">
 <!ENTITY crashprompt.refusebutton    "அனுப்பாதே">
-
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; தனியுரிமக் கொள்கை">
