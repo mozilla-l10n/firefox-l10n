@@ -85,6 +85,9 @@
 <!ENTITY pref_developer_remotedebugging_docs "Dowiedz się więcej">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
 
+<!ENTITY pref_category_home "Strona domowa">
+<!ENTITY pref_category_home_panels "Panele">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
 <!ENTITY pref_header_display "Wyświetlanie">
@@ -152,6 +155,9 @@ size. -->
 <!ENTITY pref_search_default "Domyślna">
 <!ENTITY pref_search_remove "Usuń">
 <!ENTITY pref_search_last_toast "Nie można usunąć lub wyłączyć ostatniego silnika wyszukiwania.">
+
+<!ENTITY pref_panels_show "Pokaż">
+<!ENTITY pref_panels_hide "Ukryj">
 
 <!ENTITY datareporting_notification_title "&brandShortName;: statystyki i dane">
 <!ENTITY datareporting_notification_action "Wybierz, co chcesz udostępniać">
