@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Kion enhavas en raporto pri paneo?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Raporto pri paneo enhavas kelkajn detalojn pri la paneo kaj via komputilo kaj ankaŭ la staton de via retesplorilo kiam wi paneis.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Tio povas inkluzivi aferojn kiel malfermitajn pawojn, teskton tajpitan en formularoj kaj la enhavon de malfermitaj mesawoj, ĵusan retesploran historion, aŭ pozicio dividita kun retejo.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Ni uzas raportojn pri paneoj por klopodi ripari problemojn kaj plibonigi niajn produktojn. Ni traktas viajn informojn laŭ la ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Ni uzas raportojn pri paneoj por klopodi solvi problemojn kaj plibonigi niajn produktojn. Ni traktas viajn datumojn tiel, kiel ni priskribas en nia ">
 <!ENTITY crashprompt.privacyPolicyLink "politiko pri privateco de &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Aldoni la adreson de la paĝo kie mi estis">
 <!ENTITY crashprompt.acceptbutton    "Sendi raportojn">
 <!ENTITY crashprompt.refusebutton    "Ne sendi">

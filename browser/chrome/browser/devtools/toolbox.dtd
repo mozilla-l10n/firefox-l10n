@@ -120,6 +120,21 @@
 <!ENTITY options.timestampMessages.label      "Aktivigi tempostampojn">
 <!ENTITY options.timestampMessages.tooltip    "Se vi aktivigas tiun ĉi elekteblon, ordonoj kaj eligo en la Teksaĵa konzolo montros tempostampon">
 
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Redaktilo de stiloj">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Montri originalajn fontojn">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Montri originalajn fontojn (ekz. dosierojn Sass) en la Redaktilo de stiloj kaj Inspektilo">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Aŭtomate kompletigi CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Dum vi tajpas, aŭtomate kompletigi atributojn, valorojn kaj elektilojn de CSS en la Redaktilo de stiloj kaj Inspektilo">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

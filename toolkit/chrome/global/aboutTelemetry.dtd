@@ -17,7 +17,11 @@
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  La retesplorilo paneas
+  Paneoj de retesplorilo
+">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Penoj de fadenoj
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "

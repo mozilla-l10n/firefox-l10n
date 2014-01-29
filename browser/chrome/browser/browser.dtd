@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
 
-<!ENTITY appmenu.title                       "Persone agordi, regi &brandFullName;">
+<!ENTITY appmenu.tooltip                     "Malfermi menuon">
 <!ENTITY navbarOverflow.label                "Pli da iloj…">
 
 <!-- Tab context menu -->
@@ -96,6 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Montri ĉiujn langetojn">
 <!ENTITY showAllTabsCmd.accesskey "m">
 
+<!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "&brandShortName; nun spegulas.">
+<!ENTITY syncStartPanel.subTitle "Vi povas administri &syncBrand.shortName.label; en Elektebloj.">
+<!ENTITY syncStartPanel.subTitleUnix "Vi povas administri &syncBrand.shortName.label; en Preferoj.">
+<!ENTITY syncErrorPanel.title "Ne eblas konekti &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Bonvolu komenci seancon por daŭrigi la speguladon.">
+<!ENTITY syncErrorPanel.prefButton.label "Elektebloj">
+<!ENTITY syncErrorPanel.prefButton.accesskey "E">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Preferoj">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
+<!ENTITY syncErrorPanel.signInButton.label "Komenci seancon">
+<!ENTITY syncErrorPanel.signInButton.accesskey "K">
+
+
 <!ENTITY fullScreenMinimize.tooltip "Malplejgrandigi">
 <!ENTITY fullScreenRestore.tooltip "Normala grando">
 <!ENTITY fullScreenClose.tooltip "Fermi">
@@ -129,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "e">
 <!ENTITY shareVideoCmd.label "Dividi filmeton">
 <!ENTITY shareVideoCmd.accesskey "f">
+<!ENTITY feedsMenu.label "Aboni">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj langetoj…">
@@ -352,12 +367,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Iri al langeto:">
-
-<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
-     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
-     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
-<!ENTITY toggleMenuPanel.key          "m">
-<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -676,8 +685,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle "Persone agordi &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menuo kaj ilaraj strioj">
-<!ENTITY customizeMode.menuAndToolbars.header "Pli da iloj aldoneblaj al la menuo kaj ilaraj strioj">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Aldonaj iloj kaj trajtoj">
+<!ENTITY customizeMode.menuAndToolbars.empty "Ĉu vi volas pli da iloj?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
+<!ENTITY customizeMode.toolbars "Montri / kaŝi ilarojn">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
