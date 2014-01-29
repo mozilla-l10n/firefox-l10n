@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupHomePage.label     "Bonisa ikhasi lasekhaya lam">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
-<!ENTITY startupLastSession.label  "Bonisa iifestile neethebhu zam ukususela kwixesha lokugqibela">
+<!ENTITY startupLastSession.label  "Bonisa iifestile neethebhu ukususela ukugqibela kwam">
 
 <!ENTITY homepage.label            "IPhepha laseKhaya:">
 <!ENTITY homepage.accesskey        "P">
