@@ -108,10 +108,55 @@
 <!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
 
 <!-- Firefox Account strings -->
+<!ENTITY firefox.accounts 'Konta Firefox'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
+<!ENTITY fxaccount.policy 'Przechodząc dalej, wyrażasz zgodę na &lt;a href="http://mozilla.com"&gt;warunki korzystania z usługi&lt;/a&gt; i &lt;a href="http://mozilla.com"&gt;politykę prywatności&lt;/a&gt;.'>
+<!ENTITY fxaccount.forgot.password 'Nie pamiętasz hasła?'>
+<!ENTITY fxaccount.create.account.button.label 'Utwórz konto'>
+<!ENTITY fxaccount.sign.in.button.label 'Zaloguj się'>
+<!ENTITY fxaccount.email.hint 'E-mail'>
+<!ENTITY fxaccount.password.hint 'Hasło'>
+<!ENTITY fxaccount.password2.hint 'Powtórz hasło'>
+<!ENTITY fxaccount.bad.email 'Potrzebny nam prawdziwy adres e-mail.'>
+<!ENTITY fxaccount.bad.passwords 'Hasła muszą być takie same.'>
+<!ENTITY fxaccount.sign.in.instead 'Masz już konto? Zaloguj się!'>
+<!ENTITY fxaccount.sign.up.instead 'Nie masz konta? Zarejestruj się.'>
 
+<!ENTITY fxaccount.sign.in 'Zaloguj się'>
+<!ENTITY fxaccount.create.account 'Utwórz konto'>
+
+<!ENTITY fxaccount.old.firefox '&lt;a href="http://mozilla.com"&gt;Korzystasz z usługi &syncBrand.shortName.label; w starszej wersji przeglądarki &brandShortName;?&lt;/a&gt;'>
+
+<!ENTITY fxaccount.when.were.you.born 'Z jakiego jesteś rocznika?'>
+<!ENTITY fxaccount.year.of.birth 'Rok urodzin'>
+
+<!ENTITY fxaccount.icon.contentDescription 'Ikona kont Firefox'>
+<!ENTITY fxaccount.password.hide 'Ukryj'>
+<!ENTITY fxaccount.password.show 'Pokaż'>
+<!ENTITY fxaccount.get.started 'Pierwsze kroki'>
+<!ENTITY fxaccount.description 'Zarejestruj się i utwórz kopię zapasową wszystkich swoich ustawień i zakładek!'>
+<!ENTITY fxaccount.sign.up 'Zarejestruj się'>
+
+<!-- Android > Accounts > [Firefox Account] Screen -->
+<!ENTITY fxaccount.options.title 'Opcje'>
+<!ENTITY fxaccount.options.configure.title 'Ustawienia konta Firefox'>
+<!ENTITY fxaccount.intro.contentDescription 'Grafika przedstawiająca konta Firefox'>
+<!ENTITY fxaccount.confirmation.email.sent 'Wysłaliśmy potwierdzenie!'>
+<!ENTITY fxaccount.mail.contentDescription 'Grafika koperty kont Firefox'>
+<!ENTITY fxaccount.confirmation.description 'Tu znajdziesz swój odnośnik z weryfikacją:'>
+<!ENTITY fxaccount.offer.resend.confirmation.email 'E-mail nie przyszedł? Wyślij go ponownie!'>
+<!ENTITY fxaccount.password.length.restriction 'Hasło musi mieć przynajmniej 8 znaków'>
+<!ENTITY fxaccount.change.password 'Zmień hasło'>
+<!ENTITY fxaccount.status.needs.verification 'Twoje konto wymaga weryfikacji. Stuknij tutaj, aby je zweryfikować i rozpocząć synchronizację.'>
+<!ENTITY fxaccount.status.needs.credentials 'Szczegóły twojego konta są nieaktualne. Stuknij tutaj, aby zalogować się ponownie i wznowić synchronizację.'>
+<!ENTITY fxaccount.status.syncing 'Trwa synchronizacja Firefoksa…'>
+<!ENTITY fxaccount.status.sync 'Sync' >
+<!ENTITY fxaccount.status.bookmarks 'Zakładki'>
+<!ENTITY fxaccount.status.history 'Historia'>
+<!ENTITY fxaccount.status.passwords 'Hasła'>
+<!ENTITY fxaccount.status.tabs 'Otwarte karty'>
 <!ENTITY fxaccount.account.create.not.allowed 'Nie można utworzyć konta'>
-<!ENTITY fxaccount.account.create.not.allowed.description 'Najmłodsi użytkownicy nie mogą utworzyć konta Firefoksa.'>
+<!ENTITY fxaccount.account.create.not.allowed.description 'Najmłodsi użytkownicy nie mogą utworzyć konta Firefox.'>
 
 <!-- Note to translators:
 
