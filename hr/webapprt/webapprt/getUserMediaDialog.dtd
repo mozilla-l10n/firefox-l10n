@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Dijeljenje multimedije">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Podijeli">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "o">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Odustani">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "Dijeljenje multimedije">
 
-<!ENTITY getUserMediaDialog.video.label           "Odaberi kameru">
-<!ENTITY getUserMediaDialog.video.noVideo         "Bez videa">
-<!ENTITY getUserMediaDialog.audio.label           "Odaberi mikrofon">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Bez zvuka">
+
+
+
+
+<!ENTITY getUserMediaDialog.video.label             "Odaberi kameru">
+<!ENTITY getUserMediaDialog.video.noVideo           "Bez videa">
+<!ENTITY getUserMediaDialog.audio.label             "Odaberi mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Bez zvuka">

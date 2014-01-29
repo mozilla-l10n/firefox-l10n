@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Izvjestitelj rušenja">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; šalje izvještaje o rušenju kako bi Mozilla; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Uključi adresu stranice na kojoj sam se nalazio">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
 <!ENTITY optionsHeader.telemetry.label                            "Dijeli statistike o korištenju &brandShortName; s Mozillom, kako bismo mogli vaš preglednik učiniti još boljim">
