@@ -22,7 +22,7 @@
 <!ENTITY view.sort.accesskey            "s">
 <!ENTITY view.unsorted.label            "Tidak terisih">
 <!ENTITY view.unsorted.accesskey        "T">
-<!ENTITY view.sortAscending.label       "A>Z Isihan Tertib Menaik ">
+<!ENTITY view.sortAscending.label       "A> Z Isihan Tertib Menaik">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z>A Isihan Tertib Menurun">
 <!ENTITY view.sortDescending.accesskey  "Z">

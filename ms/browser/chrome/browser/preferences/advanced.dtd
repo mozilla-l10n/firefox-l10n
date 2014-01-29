@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
 <!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.label          "Ingatkan saya jika laman web cuba untuk mengalihkan atau mengulang muat laman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Melungsur">
@@ -48,10 +48,10 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Ketahui Lebih Lanjut">
 
-<!ENTITY crashReporterSection.label      "Pelapor nahas">
+<!ENTITY crashReporterSection.label      "Pelapor Nahas">
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
-<!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Ranap">
-<!ENTITY enableCrashReporter.accesskey   "R">
+<!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Nahas">
+<!ENTITY enableCrashReporter.accesskey   "N">
 <!ENTITY crashReporterLearnMore.label    "Ketahui Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Rangkaian">
@@ -102,8 +102,8 @@
 
 <!ENTITY updateAutoMetroWarn.label       "(Windows 8 gaya &brandShortName; tidak memeriksa keserasian add-on)">
 
-<!ENTITY updateHistory.label             "Pamer Latar Kemaskini">
-<!ENTITY updateHistory.accesskey         "a">
+<!ENTITY updateHistory.label             "Pamer Sejarah Kemaskini">
+<!ENTITY updateHistory.accesskey         "P">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
@@ -115,7 +115,7 @@
 <!ENTITY offlineNotify.label             "Beritahu saya apabila laman ini menanyakan untuk simpan data ke kegunaan luar talian">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
-<!ENTITY offlineNotifyExceptions.accesskey "P">
+<!ENTITY offlineNotifyExceptions.accesskey "e">
 
 <!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk penggunaan luar talian:">
 <!ENTITY offlineAppsList.height          "7em">

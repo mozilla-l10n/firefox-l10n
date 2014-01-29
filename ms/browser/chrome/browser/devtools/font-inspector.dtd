@@ -7,6 +7,6 @@
 
 <!ENTITY title "fon">
 <!ENTITY showAllFonts "Pamer semua tulisan digunakan dalam laman ini">
-<!ENTITY usedAs "Digunakan sebagai:">
+<!ENTITY usedAs "Digunakan sebagai: ">
 <!ENTITY system "sistem">
 <!ENTITY remote "remote">

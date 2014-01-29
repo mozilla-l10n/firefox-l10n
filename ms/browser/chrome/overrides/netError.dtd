@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Tidak dapat menyambung ">
+<!ENTITY connectionFailure.title "Tidak dapat menyambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
@@ -74,8 +74,8 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 
 <!ENTITY protocolNotFound.title "Alamat tidak difahami">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> 
-  </ul>">
+<li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -94,8 +94,8 @@ pastikan yang &brandShortName; dibenarkan mencapai Web.</li>
 
 <!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Masalah ini kadangkala boleh terjadi kerana melumpuhkan atau menolak untuk menerima 
-ikan. </li> 
+<li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari 
+menerima cookie.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">

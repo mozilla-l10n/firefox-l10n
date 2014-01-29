@@ -8,8 +8,8 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigur Proksi untuk Capaian Internet">
-<!ENTITY  noProxyTypeRadio.label        "Tiada proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.label        "Tiada proksi">
+<!ENTITY  noProxyTypeRadio.accesskey    "d">
 <!ENTITY  systemTypeRadio.label         "Guna tetapan proksi sistem">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Auto-kesan tetapan proksi untuk rangkaian ini">
@@ -17,7 +17,7 @@
 <!ENTITY  manualTypeRadio.label         "Konfigurasi proksi manual:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL konfigurasi proksi automatik:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  autoTypeRadio.accesskey       "L">
 <!ENTITY  reload.label                  "Muat semula">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "Proksi FTP:">

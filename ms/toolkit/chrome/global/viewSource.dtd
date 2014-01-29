@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Sumber daripada:">
+<!ENTITY mainWindow.preface "Sumber daripada: ">
 
 <!ENTITY fileMenu.label "Fail">
 <!ENTITY fileMenu.accesskey "F">

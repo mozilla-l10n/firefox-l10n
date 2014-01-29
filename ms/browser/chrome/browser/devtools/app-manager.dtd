@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Tukar hos dan port yang digunakan untuk menyambung kepada peranti. (Tetapan lalai ialah localhost:6000)">
 <!ENTITY connection.startSimulator "Mulakan Simulasi">
 <!ENTITY connection.startSimulatorTooltip "Mulakan penggunaan Simulasi dan sambungkan.">
-<!ENTITY connection.saveConnectionInfo "Mulakan penggunaan Simulasi dan sambungkan.">
+<!ENTITY connection.saveConnectionInfo "Simpan">
 <!ENTITY connection.saveConnectionInfoTooltip "Simpan hos dan port.">
 <!ENTITY connection.connecting "Menyambung…">
 <!ENTITY connection.disconnecting "Memutuskan…">

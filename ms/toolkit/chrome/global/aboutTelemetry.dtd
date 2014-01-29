@@ -6,31 +6,32 @@
 
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry telah <span>dipasang</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri ialah <span>dilumpuhkan</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "Penyata SQL Lambat">
+<!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "Pelayar Tergantung">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
 
-<!ENTITY aboutTelemetry.histogramsSection "Hikstogram">
+<!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Mudah">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Perincian Add-on">
 
-<!ENTITY aboutTelemetry.lateWritesSection "Tulis Lewat">
+<!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
 
-<!ENTITY aboutTelemetry.systemInfoSection "Sistem Informasi">
+<!ENTITY aboutTelemetry.systemInfoSection "  Sistem Informasi">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "Hikstogram dikumpul oleh Addon">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
 
-<!ENTITY aboutTelemetry.toggleOn "Klik untuk mengembangkan seksyen">
+<!ENTITY aboutTelemetry.toggleOn "  Klik untuk kembangkan seksyen">
 
-<!ENTITY aboutTelemetry.toggleOff "Klik untuk collapse seksyen">
+<!ENTITY aboutTelemetry.toggleOff "  Klik untuk kuncupkan seksyen">
 
 <!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Slow SQL debugging telah digunakan. Full SQL strings boleh dipamerkan dibawah namun mereka tidak boleh dihantar kepada Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "Dapatkan fungsi nama untuk hang stacks">
+<!ENTITY aboutTelemetry.fetchSymbols "  Dapatkan fungsi nama untuk hang stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "Pamer data mentah daripada hangs">
+<!ENTITY aboutTelemetry.hideSymbols "  Pamer data mentah daripada hangs">

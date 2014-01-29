@@ -36,7 +36,7 @@
 <!ENTITY action.update.heading       "Addon berikut akan dikemaskini:">
 <!ENTITY action.enable.heading       "Addon berikut akan diaktifkan:">
 
-<!ENTITY update.heading              "Mengemaskini Addon anda ">
+<!ENTITY update.heading              "Mengemaskini Addon anda">
 <!ENTITY update.progress.label       "Memuat turun dan memasang kemaskini perisian untuk pilihan addon anda.">
 
 <!ENTITY errors.heading              "&brandShortName; tidak boleh mengemaskini beberapa addon anda.">

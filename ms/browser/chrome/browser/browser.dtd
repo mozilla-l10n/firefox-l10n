@@ -65,7 +65,7 @@ can reach it easily. -->
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.commandkey "C">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Kerja Luar Talian">
 <!ENTITY goOfflineCmd.accesskey "a">
@@ -217,7 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "K">
 
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
-<!ENTITY inspectContextMenu.accesskey "P">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Paparan rekabentuk responsif">
 <!ENTITY responsiveDesignTool.accesskey "r">
@@ -692,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "Bar Add-on ">
+<!ENTITY addonBarCmd.label             "Bar Add-on">
 <!ENTITY addonBarCmd.accesskey         "A">
 <!ENTITY throbberItem.title            "Penunjuk Aktiviti">
 <!ENTITY appMenuButton.label           "Menu">
@@ -704,7 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabsOnTop.label           "Tab-tab diatas">
 <!ENTITY viewTabsOnTop.accesskey       "T">
 <!ENTITY appMenuEdit.label             "Edit">
-<!ENTITY appMenuToolbarLayout.label    "Bentangan Bar Alatan ">
+<!ENTITY appMenuToolbarLayout.label    "Bentangan Bar Alatan...">
 <!ENTITY appMenuSidebars.label         "Bar sebelah">
 <!ENTITY appMenuFind.label             "Cari…">
 <!ENTITY appMenuUnsorted.label         "Tidak isihan penandabuku">

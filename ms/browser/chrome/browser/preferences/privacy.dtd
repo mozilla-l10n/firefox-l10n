@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Penjejakan">
 
 <!ENTITY dntTrackingNopref.label2       "Jangan beritahu laman mengenai sebarang tetapan penjejakan saya">
-<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.accesskey    "J">
 <!ENTITY dntTrackingNotOkay.label2      "Beritahu laman saya tidak mahu dijejaki">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "Beritahu laman yang saya mahu dijejaki">
@@ -28,7 +28,7 @@
 <!ENTITY  acceptCookies.accesskey       "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+<!ENTITY  acceptThirdParty.pre.accesskey  "m">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">

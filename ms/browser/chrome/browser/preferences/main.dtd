@@ -11,9 +11,9 @@
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
 <!ENTITY homepage.label            "Laman Utama:">
-<!ENTITY homepage.accesskey        "L">
+<!ENTITY homepage.accesskey        "U">
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
-<!ENTITY useCurrentPage.accesskey  "S">
+<!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gunakan Laman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Penandabuku…">
 <!ENTITY chooseBookmark.accesskey  "b">

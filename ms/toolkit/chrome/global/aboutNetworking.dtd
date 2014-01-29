@@ -12,7 +12,7 @@
 <!ENTITY aboutNetworking.websockets            "WebSocket">
 <!ENTITY aboutNetworking.refresh               "Segarkan">
 <!ENTITY aboutNetworking.autoRefresh           "Segarkan secara automatik setiap 3 saat">
-
+<!ENTITY aboutNetworking.hostname              "Nama hos">
 <!ENTITY aboutNetworking.port                  "Port">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
@@ -21,11 +21,11 @@
 <!ENTITY aboutNetworking.host                  "Hos">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Dihantar">
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.received              "Diterima">
+<!ENTITY aboutNetworking.family                "Keluarga">
+<!ENTITY aboutNetworking.addresses             "Alamat">
+<!ENTITY aboutNetworking.expires               "Luput (Saat)">
+<!ENTITY aboutNetworking.messagesSent          "Mesej Dihantar">
+<!ENTITY aboutNetworking.messagesReceived      "Mesej Diterima">
+<!ENTITY aboutNetworking.bytesSent             "Bait Dihantar">
+<!ENTITY aboutNetworking.bytesReceived         "Bait Diterima">

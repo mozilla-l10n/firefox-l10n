@@ -28,48 +28,74 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "Unit warna lalai">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "U">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "Hex">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
+
+<!ENTITY options.defaultColorUnit.name "Nama Warna">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "Sessi semasa sahaja, ulang muat laman">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label3    "Bolehkan menyahpepijat chrome">
+<!ENTITY options.enableChrome.tooltip   "Menghidupkan pilihan ini akan membenarkan anda untuk menggunakan pelbagai alatan pembangun dalam konteks pelayar">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableRemote.label3    "Bolehkan menyahpepijat jauh">
+<!ENTITY options.enableRemote.tooltip   "Menghidupkan pilihan ini akan membenarkan alatan pembangun untuk menyahpepijat misalan Firefox jauh seperti FIrefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label2    "Hidupkan JavaScript">
-
+<!ENTITY options.disableJavaScript.tooltip   "Menghidupkan pilihan ini akan melumpuhkan JavaScript untuk tab semasa. Jika tab atau kekotak alatan ditutup maka tetapan akan dilupakan. ">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "Alatan Pembangun Firefox Lalai">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "Alatan Pembangun dipasang oleh add-on">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* Tidak disokong untuk sasaran kekotak alatan semasa">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label   "PIlih tema DevTools:">
 <!ENTITY options.darkTheme.label             "Tema gelap">
 <!ENTITY options.lightTheme.label            "Tema cerah">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
@@ -81,14 +107,23 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
+<!ENTITY options.enablePersistentLogging.label    "Bolehkan log kekal">
+<!ENTITY options.enablePersistentLogging.tooltip  "Jika anda membolehkan pilihan ini Konsol Web tidak akan melapangkan output setiap kali anda melayari laman baru">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "Bolehkan cop masa">
+<!ENTITY options.timestampMessages.tooltip    "Jika anda bolehkan pilihan ini arahan dan output dalam Konsol Web akan memaparkan cop masa">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
+
+<!ENTITY options.profiler.label            "Pemprofil JavaScript">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
+<!ENTITY options.showPlatformData.label    "Tunjuk data platform Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Jika anda bolehkan pilihan ini laporan Pemprofil JavaScript akan 
+memasukkan simbol platform Gecko ">

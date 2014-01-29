@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "Edit Sebagai HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Salin Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">

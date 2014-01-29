@@ -15,8 +15,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemui sebarang add-on yang berpasangan">
 <!ENTITY listEmpty.button.label               "Ketahui lebih lanjut mengenai add-on">
-<!ENTITY installAddonFromFile.label           "Pasang Add-on Dari Fail... ">
-<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY installAddonFromFile.label           "Pasang Add-on Dari Fail...">
+<!ENTITY installAddonFromFile.accesskey       "P">
 <!ENTITY toolsMenu.tooltip                    "Alatan untuk semua add-on">
 
 <!ENTITY cmd.back.tooltip                     "Pergi kembali laman sebelum">
@@ -121,8 +121,8 @@
 <!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with 
 kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName; 
 anda sendiri.">
-<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke Internet, anak tetingkap ini akan 
- memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba. ">
+<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke internet, anak tetingkap ini akan 
+ memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versi">

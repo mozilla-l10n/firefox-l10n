@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "Mengimport dan melampirkan lembaran gaya yang sedia ada kepada dokumen itu">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   " Togol keterlihatan lembaran gaya">
+<!ENTITY visibilityToggle.tooltip   "Togol keterlihatan lembaran gaya">
 
 <!ENTITY saveButton.label           "Simpan">
 <!ENTITY saveButton.tooltip         "Simpan lembaran gaya ini ke dalam fail">

@@ -17,8 +17,8 @@
 <!ENTITY  blockAttackSites.label     "Halang laman web serangan yang dilaporkan">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "Halangi pemalsuan lamab web yang dilaporkan">
-<!ENTITY  blockWebForgeries.accesskey "b">
+<!ENTITY  blockWebForgeries.label     "Halangi pemalsuan laman web yang dilaporkan">
+<!ENTITY  blockWebForgeries.accesskey "n">
 
 <!ENTITY  addonExceptions.label         "Pengecualian…">
 <!ENTITY  addonExceptions.accesskey     "P">
@@ -29,12 +29,12 @@
 <!ENTITY  rememberPasswords.label       "Ingat katalaluan untuk laman">
 <!ENTITY  rememberPasswords.accesskey   "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
-<!ENTITY  passwordExceptions.accesskey  "g">
+<!ENTITY  passwordExceptions.accesskey  "e">
 
 <!ENTITY  useMasterPassword.label        "Guna katalaluan induk">
 <!ENTITY  useMasterPassword.accesskey    "u">
 <!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk…">
-<!ENTITY  changeMasterPassword.accesskey "I">
+<!ENTITY  changeMasterPassword.accesskey "T">
 
 <!ENTITY  savedPasswords.label            "Kata laluan Disimpan…">
-<!ENTITY  savedPasswords.accesskey        "p">
+<!ENTITY  savedPasswords.accesskey        "D">
