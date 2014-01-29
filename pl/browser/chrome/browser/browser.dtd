@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
-<!ENTITY appmenu.title "Dostosuj i kontroluj program &brandFullName;">
+<!ENTITY appmenu.tooltip "Otwórz menu">
 <!ENTITY navbarOverflow.label "Więcej narzędzi…">
 
 <!-- Tab context menu -->
