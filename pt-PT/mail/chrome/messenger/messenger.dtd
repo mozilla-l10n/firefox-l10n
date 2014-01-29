@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Pasta">
 <!ENTITY folderMenu.accesskey "P">
-<!ENTITY thisFolder.label "Esta pasta">
-<!ENTITY thisFolder.accesskey "t">
 <!ENTITY goRecentlyClosedTabs.label "Separadores fechados recentemente">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Página inicial">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Monitorizar tópico">
 <!ENTITY watchThreadMenu.accesskey "p">
 <!ENTITY watchThreadMenu.key "W">
-<!ENTITY fileHereMenu.label "Ficheiro aqui">
-<!ENTITY fileHereMenu.accesskey "h">
-<!ENTITY copyHereMenu.label "Copiar aqui">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "q">
 <!ENTITY tagCmd0.key "0">

@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "P">
 <!ENTITY folderPickerPrefix.label "Executar o(s) filtro(s) selecionado(s) em:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "escolher esta pasta">
-<!ENTITY choosethisnewsserver.label "escolher este servidor de notícias">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "U">
 <!ENTITY closeCmd.key "W">
