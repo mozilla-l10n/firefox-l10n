@@ -110,7 +110,9 @@
 <!-- Firefox Account strings -->
 <!ENTITY firefox.accounts 'Konta Firefox'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy 'Przechodząc dalej, wyrażasz zgodę na &lt;a href="http://mozilla.com"&gt;warunki korzystania z usługi&lt;/a&gt; i &lt;a href="http://mozilla.com"&gt;politykę prywatności&lt;/a&gt;.'>
+<!ENTITY fxaccount.policy 'Przechodząc dalej, wyrażasz zgodę na &lt;a
+         href="http://mozilla.com"&gt;Warunki użytkowania&lt;/a&gt; oraz &lt;a
+         href="http://mozilla.com"&gt;Politykę prywatności&lt;/a&gt;.'>
 <!ENTITY fxaccount.forgot.password 'Nie pamiętasz hasła?'>
 <!ENTITY fxaccount.create.account.button.label 'Utwórz konto'>
 <!ENTITY fxaccount.sign.in.button.label 'Zaloguj się'>
@@ -155,6 +157,8 @@
 <!ENTITY fxaccount.status.history 'Historia'>
 <!ENTITY fxaccount.status.passwords 'Hasła'>
 <!ENTITY fxaccount.status.tabs 'Otwarte karty'>
+<!ENTITY fxaccount.update.credentials 'Zaktualizuj hasło'>
+<!ENTITY fxaccount.update.credentials.button.label 'Połącz ponownie'>
 <!ENTITY fxaccount.account.create.not.allowed 'Nie można utworzyć konta'>
 <!ENTITY fxaccount.account.create.not.allowed.description 'Najmłodsi użytkownicy nie mogą utworzyć konta Firefox.'>
 
