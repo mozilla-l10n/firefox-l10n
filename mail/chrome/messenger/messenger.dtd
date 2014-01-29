@@ -518,7 +518,7 @@
 <!ENTITY throbberItem.title "Ակտիվության ինդիկատոր">
 <!ENTITY junkItem.title "Փոստաղբ">
 <!ENTITY junkButton.label "Թափոն">
-
+<!ENTITY notJunkButton.label "Թափոն չէ">
 <!ENTITY addressBookButton.label "Հասցեագիրք">
 <!ENTITY chatButton.label "Զրույց">
 <!ENTITY glodaSearch.title "Գլոբալ որոնում">
@@ -567,12 +567,16 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Փոխանցել որպես կցորդ">
 <!-- Remote Content Button Popup -->
 
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Ցուցադրել այս նամակի հեռադիր բովանդակությունը">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Ց">
+<!ENTITY remoteContentOptionAllowForAddress.label "Ցուցադրել այս ուղարկողի հեռադիր բովանդակությունը">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "ո">
 <!-- Phishing Button Popup -->
 
-
-
+<!ENTITY phishingOptionIgnore.label "Անտեսել զգուշացումը այս նամակի համար">
+<!ENTITY phishingOptionIgnore.accesskey "ե">
+<!ENTITY phishingOptionDisableDetection.label "Անջատել խաբկանքի որոշումը բոլորի համար">
+<!ENTITY phishingOptionDisableDetection.accesskey "Ա">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Նոր նամակ">
