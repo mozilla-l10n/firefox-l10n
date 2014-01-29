@@ -96,8 +96,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Visa alla flikar">
 <!ENTITY showAllTabsCmd.accesskey "f">
 
-<!ENTITY syncPanel.descriptionSyncing "&brandShortName; synkar nu.">
-<!ENTITY syncPanel.descriptionPrefs "Du kan hantera synkning i webbläsarens inställningar.">
+<!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "&brandShortName; synkar nu.">
+<!ENTITY syncStartPanel.subTitle "Du kan hantera &syncBrand.shortName.label; i Inställningar.">
+<!ENTITY syncStartPanel.subTitleUnix "Du kan hantera &syncBrand.shortName.label; i Inställningar.">
+<!ENTITY syncErrorPanel.title "Kan inte ansluta till &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Logga in för att återuppta synkning.">
+<!ENTITY syncErrorPanel.prefButton.label "Inställningar">
+<!ENTITY syncErrorPanel.prefButton.accesskey "I">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Inställningar">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "I">
+<!ENTITY syncErrorPanel.signInButton.label "Logga in">
+<!ENTITY syncErrorPanel.signInButton.accesskey "L">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimera">
 <!ENTITY fullScreenRestore.tooltip "Återställ">
