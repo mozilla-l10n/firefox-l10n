@@ -659,7 +659,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle "Dostosowywanie programu &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menu i paski narzędzi">
-<!ENTITY customizeMode.menuAndToolbars.header "Więcej narzędzi do dodania do menu i pasków narzędzi">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Dodatkowe funkcje i opcje">
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
