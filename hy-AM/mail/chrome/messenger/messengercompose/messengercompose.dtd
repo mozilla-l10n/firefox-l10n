@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Անձնական քարտ (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
-
-
+<!ENTITY remindLater.label "Հիշեցնել ավելի ուշ">
+<!ENTITY remindLater.accesskey "ո">
 <!ENTITY closeCmd.label "Փակել">
 <!ENTITY closeCmd.key "Փ">
 <!ENTITY closeCmd.accesskey "c">
