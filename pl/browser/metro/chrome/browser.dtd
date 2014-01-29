@@ -7,6 +7,7 @@
 <!ENTITY back.label "Wstecz">
 <!ENTITY forward.label "Naprzód">
 <!ENTITY newtab.label "Nowa karta">
+<!ENTITY newPrivateTab.label "Nowa karta w trybie prywatnym">
 <!ENTITY closetab.label "Zamknij kartę">
 
 <!ENTITY autocompleteResultsHeader.label "Znaleziono">
@@ -85,6 +86,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!ENTITY newPrivateTab.key "p">
 <!ENTITY jsConsole.key "j">
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
