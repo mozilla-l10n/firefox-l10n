@@ -101,7 +101,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Afficher tous les onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "Connexion à Sync">
+<!ENTITY fxaSignIn.label "Connexion à &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "&brandShortName; est en cours de synchronisation.">
+<!ENTITY syncStartPanel.subTitle "Vous pouvez gérer &syncBrand.shortName.label; depuis les options.">
+<!ENTITY syncStartPanel.subTitleUnix "Vous pouvez gérer &syncBrand.shortName.label; depuis les préférences.">
+<!ENTITY syncErrorPanel.title "Connexion à &syncBrand.shortName.label; impossible">
+<!ENTITY syncErrorPanel.subTitle "Veuillez vous connecter pour reprendre la synchronisation.">
+<!ENTITY syncErrorPanel.prefButton.label "Options">
+<!ENTITY syncErrorPanel.prefButton.accesskey "O">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Préférences">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
+<!ENTITY syncErrorPanel.signInButton.label "Connexion">
+<!ENTITY syncErrorPanel.signInButton.accesskey "C">
 
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
