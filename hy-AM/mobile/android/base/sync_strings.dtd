@@ -21,8 +21,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Ցույց տվեք, թե ինչպես:">
-<!ENTITY sync.link.advancedsetup.label "Ընդլայնված...">
-<!ENTITY sync.link.nodevice.label "Ես չ\u0027ունեմ սարք ինձ մոտ...">
+<!ENTITY sync.link.advancedsetup.label "Լրացուցիչ...">
+<!ENTITY sync.link.nodevice.label "Ես ինձ մոտ չունեմ սարք...">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Սպասում է այլ սարքի...">
@@ -31,8 +31,8 @@
 <!ENTITY sync.subtitle.account.label "Նշեք Ձեր &syncBrand.fullName.label; հաշվեկշռի տեղեկությունը">
 <!ENTITY sync.input.username.label "Փոստարկղի անունը">
 <!ENTITY sync.input.password.label "Գաղտնաբառը">
-<!ENTITY sync.input.key.label "Վերականգնել բանալին">
-<!ENTITY sync.checkbox.server.label "Օգտ. ընտրված սպասարկիչը">
+<!ENTITY sync.input.key.label "Վերականգնող բանալին">
+<!ENTITY sync.checkbox.server.label "Օգտ. ընտրված սպասարկիչ">
 <!ENTITY sync.input.server.label "Սպասարկիչի URL-ն">
 <!-- Setup Fail -->
   
@@ -51,7 +51,7 @@
 <!ENTITY sync.subtitle.manage.label1 "Ձեր &syncBrand.fullName.label; հաշիվը արդեն կարգավորված է: Ձեր հաշիվը կարող եք կառավարել Կարգավորումներում կամ բացեք &brandShortName;-ը:">
 <!-- Pair Device -->
 
-<!ENTITY sync.pair.tryagain.label "Խնդրում ենք, կրկին փորձեք:">
+<!ENTITY sync.pair.tryagain.label "Խնդրում ենք կրկին փորձել:">
 <!ENTITY sync.pair.connectlocation.label "Նոր սարքը ակտիվացնելու համար ընտրեք “Կարգավորել &syncBrand.shortName.label;ը” և ապա՝ “Ես ունեմ Հաշիվ”:">
 <!-- Firefox SyncAdapter Settings Screen -->
 
@@ -94,7 +94,7 @@
 <!ENTITY sync.invalidcreds.label "Հաշվի անունը կամ գաղտնաբառը սխալ են:">
 <!ENTITY sync.invalidserver.label "Խնդրում ենք, ներմուծեք ստույգ սպասարկիչի URL">
 <!ENTITY sync.verifying.label "Ստուգում…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Վերականգնման բանալին սխալ է: կրկին փորձեք:">
+<!ENTITY sync.new.recoverykey.status.incorrect "Վերականգնող բանալին սխալ է: Կրկին փորձեք:">
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.send.tab.label "Էջանիշը ուղարկվում է այլ սարքին">

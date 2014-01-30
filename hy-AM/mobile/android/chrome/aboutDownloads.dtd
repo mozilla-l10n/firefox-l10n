@@ -9,7 +9,7 @@
 <!ENTITY aboutDownloads.open                       "Բացել">
 <!ENTITY aboutDownloads.remove                     "Ջնջել">
 <!ENTITY aboutDownloads.removeAll                  "Ջնջել բոլորը">
-<!ENTITY aboutDownloads.pause                      "Դադար">
+<!ENTITY aboutDownloads.pause                      "Ընդմիջել">
 <!ENTITY aboutDownloads.resume                     "Շարունակել">
 <!ENTITY aboutDownloads.cancel                     "Չեղարկել">
 <!ENTITY aboutDownloads.retry                      "Կրկնել">
