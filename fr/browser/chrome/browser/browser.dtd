@@ -102,7 +102,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Connexion à Sync">
-<!ENTITY syncPanel.descriptionSyncing "&brandShortName; est en cours de synchronisation.">
 
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
