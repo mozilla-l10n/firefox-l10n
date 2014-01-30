@@ -17,12 +17,12 @@
 <!ENTITY sync.subtitle.connect.label "برای فعال کردن دستگاه جدید خود “Set up &syncBrand.shortName.label;” را در دستگاه خود انتخاب کنید.">
 <!ENTITY sync.subtitle.header2.label "این کد را در دستگاه دیگر خود وارد کنید">
 <!ENTITY sync.subtitle.connectlocation2.label "در قسمت &syncBrand.shortName.label; از ترجیحات فایرفاکس دستگاه دیگر خود مورد «&sync.title.pair.label;» انتخاب کنید.">
-
+<!ENTITY sync.subtitle.pair.label "برای فعال‌سازی، «همگام‌سازی یک دستگاه» در دستگاه دیگر را انتخاب کنید.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "نمایش روش کار">
 <!ENTITY sync.link.advancedsetup.label "راه‌اندازی پیشرفته…">
-
+<!ENTITY sync.link.nodevice.label "هم‌اکنون دستگاه همراهم نیست...">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "در انتظار دستگاه‌های دیگر…">
@@ -31,8 +31,8 @@
 <!ENTITY sync.subtitle.account.label "اطلاعات حساب &syncBrand.fullName.label; خود را وارد کنید">
 <!ENTITY sync.input.username.label "نام حساب">
 <!ENTITY sync.input.password.label "گذرواژه">
-
-
+<!ENTITY sync.input.key.label "کلید بازیابی">
+<!ENTITY sync.checkbox.server.label "استفاده از یک کارگزار خاص">
 <!ENTITY sync.input.server.label "کارگزار نشانی وب">
 <!-- Setup Fail -->
   
@@ -62,15 +62,17 @@
 <!ENTITY sync.configure.engines.title.label "چه‌چیزی هم‌گام‌سازی شود">
 <!ENTITY sync.configure.engines.sync.my.title.label "هم‌گام‌سازی...">
 <!ENTITY sync.configure.engines.title.bookmarks "نشانک‌ها">
-
+<!ENTITY sync.configure.engines.title.passwords "گذرواژه">
 <!ENTITY sync.configure.engines.title.history "تاریخچه">
-
+<!ENTITY sync.configure.engines.title.tabs "زبانه‌ها">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "انصراف">
-
+<!ENTITY sync.button.connect.label "اتصال">
 <!ENTITY sync.button.ok.label "تأیید">
 <!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "منوی نشانک‌ها">
@@ -88,6 +90,8 @@
 <!ENTITY sync.notification.oneaccount.label "فقط یک حساب &syncBrand.fullName.label; پشتیبانی می‌شود.">
 <!ENTITY sync.notification.configure.saved "موارد انتخاب شده شما ذخیره شده‌اند.">
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "نام حساب یا گذرواژه اشتباه است">
 <!ENTITY sync.invalidserver.label "لطفاً یک نشانی پایگاه صحیح وارد کنید">
 <!ENTITY sync.verifying.label "در حال وارسی…">
 <!ENTITY sync.new.recoverykey.status.incorrect "کلید بازیابی نادرست است. لطفاً دوباره تلاش کنید.">
@@ -95,7 +99,7 @@
 
 <!ENTITY sync.title.send.tab.label "ارسال زبانه به دستگاه‌ها">
 <!ENTITY sync.button.send.label "ارسال">
-
+<!ENTITY sync.button.set.up.sync.label "تنظیم &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "تنظیم &syncBrand.shortName.label; برای ارسال زبانه‌ها">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "تنظیم &syncBrand.fullName.label; بر روی دستگاه شما برای ارسال زبانه‌ها به دستگاه‌های دیگر.">
 <!ENTITY sync.text.tab.sent.label "زبانه شما ارسال شد!">
