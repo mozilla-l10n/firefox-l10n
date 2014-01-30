@@ -729,6 +729,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Faites votre choix parmi des milliers de modules complémentaires">
 <!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
 <!ENTITY customizeMode.toolbars "Afficher/Masquer les barres d'outils">
+<!ENTITY customizeMode.titlebar "Barre de titre">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
