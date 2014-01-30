@@ -4,6 +4,6 @@
 
 <!ENTITY aboutAccounts.pageTitle "Comptes &brandShortName;">
 
-<!ENTITY aboutAccountsSetup.description "Connectez-vous pour sauvegarder et synchroniser vos onglets, marque-pages et bien plus.">
-<!ENTITY aboutAccountsSetup.startButton.label "Démarrer">
-<!ENTITY aboutAccountsSetup.useOldSync.label "Vous utilisez Sync avec une version précédente de &brandShortName; ?">
+<!ENTITY aboutAccountsConfig.description "Connectez-vous pour synchroniser vos onglets, marque-pages, mots de passe et bien plus.">
+<!ENTITY aboutAccountsConfig.startButton.label "Démarrer">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
