@@ -336,12 +336,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Anpassa">
+<!ENTITY appMenuCustomize.tooltip "Anpassa menyn och verktygsfälten">
 <!ENTITY appMenuCustomizeExit.label "Avsluta anpassning">
+<!ENTITY appMenuCustomizeExit.tooltip "Slutför anpassningen">
 <!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
 <!ENTITY appMenuHistory.viewSidebar.label "Visa sidofältet Historik">
+<!ENTITY appMenuHelp.tooltip "Öppna Hjälp-menyn">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -690,6 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
 <!ENTITY customizeMode.toolbars "Visa / Dölj verktygsfält">
+<!ENTITY customizeMode.titlebar "Namnfältet">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusera på chattar">
