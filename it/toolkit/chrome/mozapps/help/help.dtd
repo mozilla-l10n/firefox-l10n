@@ -37,7 +37,7 @@
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "Sempre in primo piano">
 <!ENTITY zLevel.accesskey "S">
-<!ENTITY fullZoomReduceBtn.label "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomReduceBtn.label "Riduci zoom">
+<!ENTITY fullZoomReduceBtn.accesskey "o">
+<!ENTITY fullZoomEnlargeBtn.label "Aumenta zoom">
+<!ENTITY fullZoomEnlargeBtn.accesskey "z">
