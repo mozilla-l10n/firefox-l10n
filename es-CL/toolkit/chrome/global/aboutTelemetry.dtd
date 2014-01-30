@@ -15,6 +15,9 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Cuelges del navegador
 ">
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Cuelgues de hilos
+">
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
