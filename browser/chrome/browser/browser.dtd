@@ -336,12 +336,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Persone agordi">
+<!ENTITY appMenuCustomize.tooltip "Persone agordi la menuon kaj ilarstriojn">
 <!ENTITY appMenuCustomizeExit.label "Fini persone agordi">
+<!ENTITY appMenuCustomizeExit.tooltip "Fini la personan agordon">
 <!ENTITY appMenuHistory.label "Historio">
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
+<!ENTITY appMenuHelp.tooltip "Malfermi menuon de helpo">
 
 <!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -690,6 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
 <!ENTITY customizeMode.toolbars "Montri / kaŝi ilarojn">
+<!ENTITY customizeMode.titlebar "Titolstrio">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
