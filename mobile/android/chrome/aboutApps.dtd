@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "Apps">
-
+<!ENTITY aboutApps.header                          "Apps Anda">
 
 <!ENTITY aboutApps.uninstall "Nyahpasang">
 <!ENTITY aboutApps.addToHomescreen "Tambah ke Skrin Utama">
