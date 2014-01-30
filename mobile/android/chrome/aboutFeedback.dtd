@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "&brandShortName;-ի Հետադարձ կապը">
 
 <!ENTITY intro.header              "Ունե՞ք մեկ րոպե">
-<!ENTITY intro.message             "Հայտնեք մեզ, ե ինչ եք կարծում &brandShortName; Android-ի մասին:">
+<!ENTITY intro.message             "Հայտնեք մեզ, թե ինչ եք կարծում &brandShortName; Android-ի մասին:">
 <!ENTITY intro.happyLink           "Այն լավն է">
 <!ENTITY intro.sadLink             "Ես հանդիպել եմ որոշ խնդիրների">
 <!ENTITY intro.maybeLater          "Ավելի ուշ">

@@ -25,7 +25,7 @@
 <!ENTITY  crash_closing_alert "Փակե՞լ առանց զեկույցը ուղարկելու:">
 <!ENTITY  sending_crash_report "Վթարման զեկույցը ուղարկվում է\u2026">
 <!ENTITY  crash_close_label "Փակել">
-<!ENTITY  crash_restart_label "Վերսկսել &brandShortName; -ը">
+<!ENTITY  crash_restart_label "Վերամեկնարկել &brandShortName; -ը">
 <!ENTITY  exit_label "Փակել">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Վեբ Ծրագրեր">
@@ -36,7 +36,7 @@
 <!ENTITY url_bar_default_text "Նշեք Որոնում կամ գրեք հասցե">
 
 <!ENTITY bookmark "Էջանիշ">
-<!ENTITY bookmark_added "Էջանիշ է ավելացվել">
+<!ENTITY bookmark_added "Էջանիշը ավելացվել է">
 <!ENTITY bookmark_removed "Էջանիշը հեռացվել է">
 <!ENTITY bookmark_updated "Էջանիշը թարմացվել է">
 <!ENTITY bookmark_options "Ընտրանքներ">
@@ -44,14 +44,14 @@
 <!ENTITY history_today_section "Այսօր">
 <!ENTITY history_yesterday_section "Երեկ">
 <!ENTITY history_week_section "7 օր առաջ">
-<!ENTITY history_older_section "7 օրից հին ">
+<!ENTITY history_older_section "7 օրից շուտ">
 
 <!ENTITY go "Առաջ">
 <!ENTITY search "Փնտրել">
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
 <!ENTITY menu "Ցանկ">
-<!ENTITY back "Նախորդ">
+<!ENTITY back "Նախորդը">
 <!ENTITY stop "Կանգնեցնել">
 <!ENTITY site_security "Կայքի անվտանգությունը">
 
@@ -66,17 +66,17 @@
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
-<!ENTITY pref_category_search2 "Գտնել կարգավորում">
+<!ENTITY pref_category_search2 "Որոնել կարգավորումներ">
 <!ENTITY pref_category_display "Տեսքը">
-<!ENTITY pref_category_privacy_short "Գաղտնիությունը">
+<!ENTITY pref_category_privacy_short "Անվտանգությունը">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Ընտրել տվյալները">
 <!ENTITY pref_category_installed_search_engines "Տեղադրված Որոնիչները">
-<!ENTITY pref_category_add_search_providers "Ավելացնել որոնման հանգույցներ">
+<!ENTITY pref_category_add_search_providers "Ավելացնել որոնիչներ">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "Հուշում. Ավելացրեք որոնելու հանգույցը՝ սեղմած պահելով որոնելու դաշտում:">
+<!ENTITY pref_search_tip "Հուշում. Որոնիչ կարող եք ավելացնել սեղմած պահելով որոնելու դաշտում:">
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_developer_remotedebugging_docs "Մանրամասն">
@@ -85,15 +85,15 @@
 
 <!ENTITY pref_header_customize "Կարգավորումներ">
 <!ENTITY pref_header_display "Տեսքը">
-<!ENTITY pref_header_privacy_short "Գաղտնիությունը">
+<!ENTITY pref_header_privacy_short "Անվտանգությունը">
 <!ENTITY pref_header_help "Օգնություն">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Ծրագրավորողի գործիքներ">
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
 <!ENTITY pref_cookies_accept_all "Միացված">
-<!ENTITY pref_cookies_not_accept_foreign "Միացած է, բացի կողմնակի կայքերից">
-<!ENTITY pref_cookies_disabled "Անջատված է">
+<!ENTITY pref_cookies_not_accept_foreign "Միացված է՝ բացառելով կողմնակի կայքերը">
+<!ENTITY pref_cookies_disabled "Անջատված">
 
 <!ENTITY pref_donottrack_menu "Հետագծում">
 <!ENTITY pref_donottrack_disallow_tracking "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն:">
@@ -103,7 +103,7 @@
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
 <!ENTITY pref_char_encoding_off "Չցուցադրել ցանկը">
-<!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալը">
+<!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալները">
 <!ENTITY pref_plugins "Պլագիններ">
 <!ENTITY pref_plugins_enabled "Միացված">
 <!ENTITY pref_plugins_tap_to_play "Խաղարկել սեղմելիս">
@@ -130,7 +130,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
+<!ENTITY pref_use_master_password "Օգտ. Հիմնական գաղտնաբառ">
 <!ENTITY pref_show_product_announcements "Ցուցադրել ծրագրի ծանուցումները">
 <!ENTITY pref_sync "Սինք">
 <!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
@@ -148,7 +148,7 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
 <!ENTITY pref_vendor_faqs "ՀՏՀ">
 <!ENTITY pref_vendor_feedback "Ձեր Արձագանքը">
-<!ENTITY pref_search_set_default "Օգտագործել լռելյայն">
+<!ENTITY pref_search_set_default "Օգտագործել լռելյայնը">
 <!ENTITY pref_search_default "Լռելյայն">
 <!ENTITY pref_search_remove "Ջնջել">
 <!ENTITY pref_search_last_toast "Չեք կարող ջնջել կամ անջատել միակ որոնիչը:">
@@ -218,8 +218,8 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր ներդիրում">
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
-<!ENTITY contextmenu_open_in_reader "Բացել՝ կարդալու համար">
-<!ENTITY contextmenu_remove "Ջնջել">
+<!ENTITY contextmenu_open_in_reader "Բացել կարդալու համար">
+<!ENTITY contextmenu_remove "Հեռացնել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
 <!ENTITY contextmenu_share "Տարածել">
 <!ENTITY contextmenu_pasteandgo "Դնել և Առաջ">
@@ -281,10 +281,10 @@ size. -->
 <!ENTITY home_top_sites_add "Ավելացնել կայք">
 
 <!ENTITY home_history_title "Պատմություն">
-<!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվող էջանիշերը:">
+<!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվում են էջանիշերը:">
 <!ENTITY home_last_tabs_title "Ձեր բացած վերջին ներդիրները">
 <!ENTITY home_last_tabs_open "Բացել վերջին բոլոր ներդիրները">
-<!ENTITY home_last_tabs_empty "Վերջին այցոլությունները:">
+<!ENTITY home_last_tabs_empty "Վերջին այցելությունները:">
 <!ENTITY home_most_recent_title "Ամենավերջինները">
 <!ENTITY home_most_recent_empty "Ցուցադրված են Ձեր այցելած վերջին կայքերը:">
 <!ENTITY home_reading_list_empty "Հոդվածները, որոնք պահել եք հետո կարդալու համար:">
@@ -292,15 +292,15 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Հուշում. Եթե ցանկանում եք հոդվածները պահել և հետո կարդալ, ապա սեղմած պահեք &#037;I պատկերակին, երբ այն երևում է գլխագրում:">
+<!ENTITY home_reading_list_hint "Հուշում. Եթե ցանկանում եք հոդվածները պահել և հետո կարդալ, ապա սեղմած պահեք &#037;I պատկերակին՝ երբ այն երևում է գլխագրում:">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք հոդվածները Ընթերցումների ցանկում՝ սեղմած պահելով ընթերցելու կոճակին, երբ այն հայտնվի գլխագրում։">
+<!ENTITY home_reading_list_hint_accessible "Հուշում. Պահեք հոդվածները Ընթերցումների ցանկում՝ սեղմած պահելով ընթերցելու կոճակը՝ երբ այն երևում է գլխագրում։">
 
-<!ENTITY pin_site_dialog_hint "Նշեք, թե ինչ փնտրել">
+<!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ փնտրել">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
-<!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք ձայն">
+<!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
 <!ENTITY filepicker_image_title "Ընտրեք կամ նկարեք">
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
 <!-- Site identity popup -->
@@ -349,7 +349,7 @@ Android-ից">
 
 <!ENTITY suggestion_for_engine "Փնտրել &formatS2;-ը &formatS1;-ում">
 
-<!ENTITY webapp_generic_name "App">
+<!ENTITY webapp_generic_name "Ծրագիր">
 
 <!ENTITY searchable_description "Էջանիշներ և Պատմություն">
 
@@ -372,10 +372,10 @@ Android-ից">
 <!ENTITY exit_guest_session "Ավարտել հյուրի աշխատաշրջանը">
 <!ENTITY guest_session_dialog_continue "Շարունակել">
 <!ENTITY guest_session_dialog_cancel "Չեղարկել">
-<!ENTITY new_guest_session_title "&brandShortName;-ը կվերագործարկվի">
+<!ENTITY new_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY new_guest_session_text "Սա օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառերը, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
 
-<!ENTITY exit_guest_session_title "&brandShortName;-ը կվերագործարկվի">
+<!ENTITY exit_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY exit_guest_session_text "Այս աշխատաշրջանի դիտարկման պատմությունը կմաքրվի:">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
