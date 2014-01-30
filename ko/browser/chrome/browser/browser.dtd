@@ -406,8 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "Windows 8에 어울리는 &brandShortName;으로 다시 열기">
-<!ENTITY switchToMetroCmd2.label      "&brandShortName;를 for Windows 8 터치에 맞게 다시 열기">
+<!ENTITY switchToMetroCmd.label       "&brandShortName; 메트로 버전 전환">
+<!ENTITY switchToMetroCmd2.label      "윈도8 &brandShortName;로 전환">
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
