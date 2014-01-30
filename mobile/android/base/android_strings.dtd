@@ -255,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
 <!ENTITY pref_titlebar_mode_url "Visa sidans adress">
 
-<!ENTITY pref_dynamic_toolbar "Dölj namnfältet vid skrollning">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Skrolla namnfältet">
 
 <!ENTITY history_removed "Sidan borttagen">
 
