@@ -7,15 +7,15 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegación privada)">
 
-<!ENTITY appmenu.title                       "Personaliza y controla a &brandFullName;">
+<!ENTITY appmenu.tooltip                     "Abrir menú">
 <!ENTITY navbarOverflow.label                "Más herramientas…">
 
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "A">
-<!ENTITY  closeTabsToTheEnd.label            "Cerrar pestañas a la derecha">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY closeTabsToTheEnd.label            "Cerrar pestañas a la derecha">
+<!ENTITY closeTabsToTheEnd.accesskey        "i">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY pinTab.label "Pegar pestaña">
@@ -37,8 +37,6 @@
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Abrir dirección…">
-<!ENTITY openLocationCmd.accesskey "A">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -75,6 +73,20 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
 <!ENTITY showAllTabsCmd.accesskey "a">
+
+<!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "&brandShortName; se está sincronizando.">
+<!ENTITY syncStartPanel.subTitle "Puede administrar &syncBrand.shortName.label; en Opciones.">
+<!ENTITY syncStartPanel.subTitleUnix "Puede administrar &syncBrand.shortName.label; en Preferencias.">
+<!ENTITY syncErrorPanel.title "No se puede conectar a &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Por favor, conéctese para continuar la sincronización.">
+<!ENTITY syncErrorPanel.prefButton.label "Opciones">
+<!ENTITY syncErrorPanel.prefButton.accesskey "O">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Preferencias">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
+<!ENTITY syncErrorPanel.signInButton.label "Conectarse">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
+
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Cerrar">
@@ -105,6 +117,7 @@
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "Compartir este video">
 <!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY feedsMenu.label "Suscribirse">
 <!ENTITY subscribeToPageMenupopup.label "Suscribe a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribir a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
@@ -259,15 +272,18 @@
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomizeExit.label "Dejar de cambiar">
-
+<!ENTITY appMenuCustomize.tooltip "Personalizar el Menú y las Barras de herramientas">
+<!ENTITY appMenuCustomizeExit.label "Dejar de modificar">
+<!ENTITY appMenuCustomizeExit.tooltip "Finalizar personalización">
 <!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Mostrar historial completo">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
+<!ENTITY appMenuHelp.tooltip "Abrir menú de Ayuda">
 
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a barra">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -296,9 +312,6 @@
 <!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a pestaña:">
-
-<!ENTITY toggleMenuPanel.key          "m">
-<!ENTITY toggleMenuPanelMac.key       "m">
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
@@ -525,8 +538,11 @@
 
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
-<!ENTITY customizeMode.menuAndToolbars.header "Más herramientas para añadir al menú y a la barra de herramientas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y funciones adicionales">
+<!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escoja entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
+<!ENTITY customizeMode.toolbars "Mostrar / Ocultar barras">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
