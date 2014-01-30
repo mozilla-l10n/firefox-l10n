@@ -8,7 +8,7 @@
 
 <!ENTITY aboutDownloads.open                       "Buka">
 <!ENTITY aboutDownloads.remove                     "Padam">
-
+<!ENTITY aboutDownloads.removeAll                  "Padam Semua">
 <!ENTITY aboutDownloads.pause                      "Jeda">
 <!ENTITY aboutDownloads.resume                     "Sambung">
 <!ENTITY aboutDownloads.cancel                     "Batal">

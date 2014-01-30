@@ -32,29 +32,29 @@
 <!ENTITY sync.input.username.label "Nama Akaun">
 <!ENTITY sync.input.password.label "Katalaluan">
 <!ENTITY sync.input.key.label "Kekunci Pemulihan">
-
-
+<!ENTITY sync.checkbox.server.label "Gunakan pelayan langganan">
+<!ENTITY sync.input.server.label "Pelayan URL">
 <!-- Setup Fail -->
-
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; tidak dapat dihubungkan ke pelayan. Adakah anda ingin mencuba lagi?">
 <!ENTITY sync.button.tryagain.label "Cuba lagi">
-
-
-
+<!ENTITY sync.button.manual.label "Penyediaan Manual">
+<!ENTITY sync.subtitle.nointernet.label "Tiada sambungan internet yang didapati.">
+<!ENTITY sync.subtitle.failaccount.label "Ciptaan akaun pada peranti anda gagal.">
 
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Setup Selesai">
 
 <!ENTITY sync.settings.label "Tetapan">
-
+<!ENTITY sync.subtitle.manage.label1 "Akaun &syncBrand.fullName.label; anda sudah disediakan. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau melancarkan &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Sila cuba sekali lagi.">
-
+<!ENTITY sync.pair.connectlocation.label "Untuk mengaktifkan peranti baru anda, pilih \&quot;Sediakan &syncBrand.shortName.label;\&quot; pada peranti, kemudian pilih \&quot;Saya Mempunyai Akaun.\&quot;">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opsyen">
-
+<!ENTITY sync.summary.pair.label "Paut peranti lain ke akaun &syncBrand.shortName.label; anda">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.bookmarks "Penandabuku">
@@ -95,7 +95,7 @@
 <!ENTITY sync.title.send.tab.label "Hantar Tab Ke Peranti">
 <!ENTITY sync.button.send.label "Hantar">
 
-
-
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Sediakan &syncBrand.shortName.label; untuk menghantar tab">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Sediakan &syncBrand.fullName.label; pada peranti anda untuk menghantar tab ke peranti lain.">
 <!ENTITY sync.text.tab.sent.label "Tab anda telah dihantar!">
 <!ENTITY sync.text.tab.not.sent.label "Terdapat masalah semasa menghantar tab anda.">

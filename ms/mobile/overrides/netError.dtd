@@ -17,7 +17,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
-
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Semak alamat untuk ralat menaip seperti 
+<strong>ww</strong>.example.com yang sepatutnya 
+<strong>www</strong>.example.com</li> 
+<li>Jika anda tidak dapat memuatkan mana-mana halaman, periksa data peranti anda atau sambungan Wi-Fi.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul> 

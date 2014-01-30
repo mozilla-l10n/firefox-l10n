@@ -6,6 +6,9 @@
      your language and/or locale. More detailed notes below. -->
 
 
+<!ENTITY pageTitle                 "&brandShortName; Maklum Balas">
+
+<!ENTITY intro.message             "Beritahu kami pandangan anda mengenai &brandShortName; untuk Android setakat ini.">
 <!ENTITY intro.happyLink           "Saya sukakannya">
 <!ENTITY intro.sadLink             "Saya menghadapai beberapa masalah">
 <!ENTITY intro.maybeLater          "Mungkin kemudian">
@@ -35,9 +38,13 @@
 <!ENTITY sad.thanksHeader          "Terima kasih kerana memberitahu kami.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+
+<!ENTITY sad.thanksMessageTop      "Kami sentiasa berusaha untuk menjadikan &brandShortName; lebih baik. Yakinlah bahawa maklum balas anda akan dilihat dan mereka akan melakukan yang terbaik untuk menyelesaikan isu anda.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+
+<!ENTITY sad.thanksMessageBottom   "Tidak kira apa pun.">
 
 <!ENTITY feedback.privacy          "Untuk privasi anda, sila jangan masukkan sebarang maklumat peribadi yang boleh dikenal pasti dalam maklum balas anda.">
 <!ENTITY feedback.send             "Hantar Maklum Balas">
