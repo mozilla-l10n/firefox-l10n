@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "ତୃଟି କୋନସୋଲ ଖୋଲନ୍ତୁ">
 <!ENTITY appbarJSShell.label           "JavaScript ସେଲ ଖୋଲନ୍ତୁ">
 <!ENTITY appbarFindInPage2.label       "ଏହି ପୃଷ୍ଠାରେ ଖୋଜନ୍ତୁ">
-
+<!ENTITY appbarRelaunchInDesktop.label "ଡେସ୍କଟପରେ ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ">
 <!ENTITY appbarMSMetaData2.label       "ଏହି ସାଇଟ ପାଇଁ ପ୍ରୟୋଗ ଆଣନ୍ତୁ">
-
+<!ENTITY appbarViewPageSource.label    "ପୃଷ୍ଠା ଉତ୍ସକୁ ଦେଖନ୍ତୁ">
 
 <!ENTITY topSitesHeader.label        "ଭଲ ସାଇଟଗୁଡ଼ିକ">
 <!ENTITY bookmarksHeader.label       "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "ଆପଣଙ୍କର ଟ୍ୟାବଗୁଡ଼ିକୁ ଦେଖୁଅଛି? କେବଳ ତଳକୁ ଟାଣନ୍ତୁ କିମ୍ବା ଡାହାଣ କ୍ଲିକ କରନ୍ତୁ">
+<!ENTITY firstRunTopSites.label "ଆପଣ ଅଧିକାଂଶ ଥର ପରିଦର୍ଶନ କରିବାକୁ ଚାହୁଁଥିବା ସାଇଟଗୁଡ଼ିକୁ ପରିଦର୍ଶନ କରନ୍ତୁ">
+<!ENTITY firstRunBookmarks.label "ଭବିଷ୍ୟତ ପାଇଁ ସଂରକ୍ଷଣ କରି ରଖିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY firstRunMenu.label "ଅଧିକ ବିଶେଷତା ଏବଂ ବିକଳ୍ପଗୁଡ଼ିକୁ ଅଭିଗମ୍ୟ କରନ୍ତୁ">
+<!ENTITY firstRunHistory.label "ୱେବରେ ଆପଣ କେଉଁଠି ଅଛନ୍ତି ଦେଖନ୍ତୁ">
+<!ENTITY firstRunWelcome.label "&brandShortName; ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ">
+<!ENTITY firstRunDifferent.label "ରଚନା ଅନୁଯାୟୀ ଭିନ୍ନ">

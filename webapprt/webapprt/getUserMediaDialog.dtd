@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "ମେଡିଆ ସହଭାଗ">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "ସହଭାଗ (S)">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "ବାତିଲ କରନ୍ତୁ (n)">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "କ୍ଯାମେରା ବାଛନ୍ତୁ">
 <!ENTITY getUserMediaDialog.video.noVideo           "କୌଣସି ଭିଡ଼ିଓ ନାହିଁ">

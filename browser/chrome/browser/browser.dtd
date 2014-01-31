@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ ">
+<!ENTITY  reloadTab.label                    "ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (R)">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY  reloadAllTabs.accesskey            "A">
@@ -240,6 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "ବ୍ରାଉଜର ସାଧନ ବାକ୍ସ (e)">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
@@ -250,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
 <!ENTITY devToolbarOtherToolsButton.label  "ଅଧିକ ସାଧନଗୁଡ଼ିକ">
@@ -404,8 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
-
+<!ENTITY switchToMetroCmd.label       "Windows 8 ଶୈଳୀର &brandShortName; ରେ ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ">
+<!ENTITY switchToMetroCmd2.label      "Windows 8 ସ୍ପର୍ଶ ପାଇଁ &brandShortName; ରେ ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ">
 <!ENTITY savePageCmd.label            "ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
