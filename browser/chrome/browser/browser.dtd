@@ -144,7 +144,6 @@
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
-<!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksMenuButton.unsorted.label "Segnalibri non catalogati">
 <!ENTITY viewBookmarksSidebar2.label "Visualizza barra laterale segnalibri">
 <!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
@@ -539,6 +538,7 @@
 <!ENTITY appMenuButton.tooltip "Apri il menu &brandShortName;">
 <!ENTITY feedButton.label "Abbonati">
 <!ENTITY feedButton.tooltip "Abbonati a questa pagina…">
+<!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
 <!ENTITY viewTabsOnTop.label "Visualizza le schede in alto">
 <!ENTITY viewTabsOnTop.accesskey "V">
