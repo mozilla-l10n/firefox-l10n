@@ -184,7 +184,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
-<!ENTITY bookmarksMenuButton.tooltip        "Visar dina bokmärken">
 <!ENTITY bookmarksMenuButton.unsorted.label "Osorterade bokmärken">
 <!ENTITY viewBookmarksSidebar2.label        "Visa i sidofältet Bokmärken">
 <!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
