@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "মাধ্যমৰ অংশীদাৰী">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "অংশীদাৰী কৰক">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "বাতিল কৰক">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "কেমেৰা বাছক">
 <!ENTITY getUserMediaDialog.video.noVideo           "কোনো ভিডিঅ' নাই">
