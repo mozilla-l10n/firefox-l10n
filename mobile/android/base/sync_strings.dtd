@@ -72,62 +72,70 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
-<!ENTITY firefox.accounts "Учётные записи Firefox">
-<!ENTITY fxaccount.label "&fxaccountBrand.fullName.label;">
-<!ENTITY fxaccount.policy "Продолжив, вы соглашаетесь с &lt;a
-          href=\'http://mozilla.com\'&gt;Условиями предоставления услуг&lt;/a&gt; и &lt;a
-          href=\'http://mozilla.com\'&gt;Политикой приватности&lt;/a&gt;.">
-<!ENTITY fxaccount.forgot.password "Забыли пароль?">
-<!ENTITY fxaccount.create.account.button.label "Создать учётную запись">
-<!ENTITY fxaccount.sign.in.button.label "Войти">
-<!ENTITY fxaccount.email.hint "Эл. почта">
-<!ENTITY fxaccount.password.hint "Пароль">
-<!ENTITY fxaccount.password2.hint "Подтвердите пароль">
-<!ENTITY fxaccount.bad.email "Нам нужен реальный адрес эл. почты.">
-<!ENTITY fxaccount.bad.passwords "Ваши пароли должны совпадать.">
-<!ENTITY fxaccount.sign.in.instead "Уже есть учетная запись? Войдите!">
-<!ENTITY fxaccount.sign.up.instead "Нет учетной записи? Зарегистрируйтесь.">
-<!ENTITY fxaccount.sign.in "Войти">
-<!ENTITY fxaccount.create.account "Создать учётную запись">
-<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Используете &syncBrand.shortName.label; со старой версией &brandShortName;?&lt;/a&gt;">
-<!ENTITY fxaccount.when.were.you.born "Где вы родились?">
-<!ENTITY fxaccount.year.of.birth "Год рождения">
-<!ENTITY fxaccount.icon.contentDescription "Значок учётной записи Firefox">
-<!ENTITY fxaccount.password.hide "Скрыть">
-<!ENTITY fxaccount.password.show "Показать">
-<!ENTITY fxaccount.get.started "Начать">
-<!ENTITY fxaccount.description "Войдите для резервного копирования и синхронизации всех ваших настроек и закладок!">
-<!ENTITY fxaccount.sign.up "Регистрация">
-<!ENTITY fxaccount.options.title "Настройки">
-<!ENTITY fxaccount.options.configure.title "Настройка учетной записи Firefox">
-<!ENTITY fxaccount.intro.contentDescription "Вводная графика учётной записи Firefox">
-<!ENTITY fxaccount.confirmation.email.sent "Подтверждение отправлено по эл. почте!">
-<!ENTITY fxaccount.mail.contentDescription "Графика конверта учётной записи Firefox">
-<!ENTITY fxaccount.confirmation.description "Ссылка для подтверждения ждёт вас на:">
-<!ENTITY fxaccount.offer.resend.confirmation.email "Не видите письма? Отправьте заново.">
-<!ENTITY fxaccount.password.length.restriction "Должен быть не короче 8 символов.">
-<!ENTITY fxaccount.change.password "Сменить пароль">
-<!ENTITY fxaccount.status.needs.verification "Ваша учетная запись должна быть подтверждена. Нажмите здесь, чтобы подтвердить и начать синхронизацию.">
-<!ENTITY fxaccount.status.needs.credentials "Ваши реквизиты учётной записи устарели. Нажмите здесь, чтобы войти заново и возобновить синхронизацию.">
-<!ENTITY fxaccount.status.syncing "Firefox синхронизируется...">
-<!ENTITY fxaccount.status.sync "Синхронизация">
-<!ENTITY fxaccount.status.bookmarks "Закладки">
-<!ENTITY fxaccount.status.history "История">
-<!ENTITY fxaccount.status.passwords "Пароли">
-<!ENTITY fxaccount.status.tabs "Открытые вкладки">
-<!ENTITY fxaccount.update.credentials "Обновить пароль">
-<!ENTITY fxaccount.update.credentials.button.label "Заново соединиться">
-<!ENTITY fxaccount.account.create.not.allowed "Не могу создать учётную запись">
-<!ENTITY fxaccount.account.create.not.allowed.description "Для создания Учётной записи Firefox ваш возраст должен соответствовать определенным требованиям.">
-<!ENTITY fxaccount.create.account.age.1960s "1960-е или ранее">
-<!ENTITY fxaccount.create.account.age.1970s "1970-е">
-<!ENTITY fxaccount.create.account.age.1980s "1980-е">
-<!ENTITY fxaccount.create.account.age.1990s "1990-е">
-<!ENTITY fxaccount.create.account.age.2000 "2000">
-<!ENTITY fxaccount.create.account.age.2001 "2001">
-<!ENTITY fxaccount.create.account.age.2002 "2002">
-<!ENTITY fxaccount.create.account.age.2003 "2003">
-<!ENTITY fxaccount.create.account.age.2004 "2004">
-<!ENTITY fxaccount.create.account.age.2005 "2005">
-<!ENTITY fxaccount.create.account.age.2006 "2006">
-<!ENTITY fxaccount.create.account.age.2007 "2007">
+<!ENTITY firefox_accounts "Учётные записи Firefox">
+<!ENTITY firefox_account "Учётная запись Firefox">
+<!ENTITY fxaccount_checkbox_contentDescription "Флажок учётных записей Firefox">
+<!ENTITY fxaccount_icon_contentDescription "Значок учётных записей Firefox">
+<!ENTITY fxaccount_intro_contentDescription "Вводная графика учётных записей Firefox">
+<!ENTITY fxaccount_mail_contentDescription "Графика конверта учётных записей Firefox">
+<!ENTITY fxaccount_email_hint "Эл. почта">
+<!ENTITY fxaccount_password_hint "Пароль">
+<!ENTITY fxaccount_password_hide "Скрыть">
+<!ENTITY fxaccount_password_show "Показать">
+<!ENTITY fxaccount_policy_linktos "Условия службы">
+<!ENTITY fxaccount_policy_linkprivacy "Уведомление о приватности">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Добро пожаловать в &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Войдите для синхронизации ваших вкладок, закладок, паролей и многого другого.">
+<!ENTITY fxaccount_getting_started_get_started "Начать">
+<!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_create_account_sub_header "Создать учётную запись">
+<!ENTITY fxaccount_create_account_password_length_restriction "Должен быть не короче 8 символов">
+<!ENTITY fxaccount_create_account_year_of_birth "Год рождения">
+<!ENTITY fxaccount_create_account_policy_text "Продолжив, я принимаю &formatS1; и &formatS2; онлайновых служб Firefox.">
+<!ENTITY fxaccount_create_account_button "Далее">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Выбрать, что синхронизировать">
+<!ENTITY fxaccount_create_account_sign_in_instead "Уже есть учетная запись? Войдите">
+<!ENTITY fxaccount_create_account_1950_or_earlier "1950 или ранее">
+<!ENTITY fxaccount_create_account_unknown_error "Не удалось создать учётную запись">
+<!ENTITY fxaccount_account_create_not_allowed "Не могу создать учётную запись">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Для создания учётной записи ваш возраст должен соответствовать определенным требованиям.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Подробнее">
+<!ENTITY fxaccount_confirm_account_header "Подтвердите свою учётную запись">
+<!ENTITY fxaccount_confirm_account_verification_link "Ссылка для подтверждения была отправлена на &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Повторить отправку письма">
+<!ENTITY fxaccount_confirm_account_verification_link_sent "Послана свежая ссылка для подтверждения">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent "Не удалось послать свежую ссылку для подтверждения">
+<!ENTITY fxaccount_sign_in_sub_header "Войти">
+<!ENTITY fxaccount_sign_in_button_label "Войти">
+<!ENTITY fxaccount_sign_in_forgot_password "Забыли пароль?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Создать учётную запись">
+<!ENTITY fxaccount_sign_in_unknown_error "Не удалось войти">
+<!ENTITY fxaccount_account_verified_sub_header "Учётная запись подтверждена">
+<!ENTITY fxaccount_account_verified_description "Теперь вы готовы использовать &syncBrand.shortName.label;.">
+<!ENTITY fxaccount_update_credentials_sub_header "Войдите для продолжения">
+<!ENTITY fxaccount_update_credentials_button_label "Войти">
+<!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: включена">
+<!ENTITY fxaccount_status_needs_verification "Ваша учетная запись должна быть подтверждена. Нажмите для подтверждения.">
+<!ENTITY fxaccount_status_needs_credentials "Не удалось соединиться. Нажмите для входа.">
+<!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
+<!ENTITY fxaccount_status_bookmarks "Закладки">
+<!ENTITY fxaccount_status_history "История">
+<!ENTITY fxaccount_status_passwords "Пароли">
+<!ENTITY fxaccount_status_tabs "Открытые вкладки">
+<!ENTITY fxaccount_status_legal "Юридическая информация">
+<!ENTITY fxaccount_label "&fxaccountBrand.fullName.label;">
+<!ENTITY fxaccount_options_title "Настройки &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "Настройка &syncBrand.shortName.label;">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Вам нужно обновить Firefox">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS "Учётная запись уже существует">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Неверный адрес эл. почты или пароль">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Неверный адрес эл. почты или пароль">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Учётная запись не подтверждена">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Сервер занят, подождите и попробуйте ещё раз">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер занят, подождите и попробуйте ещё раз">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Возникла проблема">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Не удается соединиться с сетью">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title "&syncBrand.fullName.label; не подсоединился">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text "Нажмите, чтобы войти в &formatS;">
