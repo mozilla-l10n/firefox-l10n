@@ -40,19 +40,19 @@
 <!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar anda dan kongsi data dengan &vendorShortName; berkaitan kesihatan pelayar anda">
 <!ENTITY enableHealthReport.label        "Hidupkan &brandShortName; Laporan Kesihatan">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Ketahui Lebih Lanjut">
+<!ENTITY healthReportLearnMore.label     "Pelajari Lagi">
 
 <!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
 <!ENTITY enableTelemetry.label           "Hidupkan Telemetri">
 <!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Ketahui Lebih Lanjut">
+<!ENTITY telemetryLearnMore.label        "Pelajari Lagi">
 
 <!ENTITY crashReporterSection.label      "Pelapor Nahas">
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Nahas">
 <!ENTITY enableCrashReporter.accesskey   "N">
-<!ENTITY crashReporterLearnMore.label    "Ketahui Lebih Lanjut">
+<!ENTITY crashReporterLearnMore.label    "Pelajari Lagi">
 
 <!ENTITY networkTab.label                "Rangkaian">
 
@@ -123,11 +123,11 @@
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
-<!ENTITY certificateTab.label            "Sijil-sijil">
+<!ENTITY certificateTab.label            "Sijil">
 <!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
 <!ENTITY certs.auto                      "Pilih satu automatik">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Tanya saya setiap masa">
+<!ENTITY certs.ask                       "Sentiasa tanya saya">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Lihat Sijil">
 <!ENTITY viewCerts.accesskey             "S">
