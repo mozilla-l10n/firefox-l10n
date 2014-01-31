@@ -68,7 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Regjistrim">
 <!ENTITY btnPageLogging.tooltip "Regjistro mesazhe dërguar objektit window.console">
-<!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors       "Gabime">
 <!ENTITY btnConsoleInfo         "Të dhëna">
 <!ENTITY btnConsoleWarnings     "Sinjalizime">
