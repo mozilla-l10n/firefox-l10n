@@ -242,7 +242,7 @@
 <!ENTITY copyToolbarCmd.tooltip "Копировать">
 <!ENTITY pasteToolbarCmd.tooltip "Вставить">
 <!ENTITY printToolbarCmd.label "Печать">
-<!ENTITY printToolbarCmd.tooltip "Напечатать эту страницу">
+<!ENTITY printToolbarCmd.tooltip "Распечатать эту страницу">
 <!ENTITY findToolbarCmd.label "Найти">
 <!ENTITY findToolbarCmd.tooltip "Найти текст на странице">
 <!ENTITY spellToolbarCmd.label "Орфография">

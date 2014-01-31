@@ -69,6 +69,7 @@
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY fxaSignIn.label "Войти в &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Присоединиться заново к &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel.title "&brandShortName; сейчас синхронизируется.">
 <!ENTITY syncStartPanel.subTitle "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
 <!ENTITY syncStartPanel.subTitleUnix "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
@@ -143,7 +144,6 @@
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
-<!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksMenuButton.unsorted.label "Неподшитые закладки">
 <!ENTITY viewBookmarksSidebar2.label "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
@@ -254,12 +254,15 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Изменить">
+<!ENTITY appMenuCustomize.tooltip "Настроить меню и панели инструментов">
 <!ENTITY appMenuCustomizeExit.label "Выход из настройки">
+<!ENTITY appMenuCustomizeExit.tooltip "Завершить настройку">
 <!ENTITY appMenuHistory.label "Журнал">
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
 <!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY appMenuHistory.viewSidebar.label "Показать боковую панель журнала">
+<!ENTITY appMenuHelp.tooltip "Открыть меню Справки">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
@@ -499,6 +502,7 @@
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
 <!ENTITY customizeMode.restoreDefaults "Восстановить значения по умолчанию">
 <!ENTITY customizeMode.toolbars "Отображать / Скрывать панели">
+<!ENTITY customizeMode.titlebar "Панель заголовка">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Переключаться на чаты">
 <!ENTITY social.chatBar.accesskey "ч">
@@ -525,6 +529,7 @@
 <!ENTITY tabCrashed.message "Ой, вот ведь незадача. Мы пытались показать вам эту веб-страницу, а она не отзывается.">
 <!ENTITY tabCrashed.checkSendReport "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить.">
 <!ENTITY tabCrashed.tryAgain "Попробовать снова">
+<!ENTITY uiTour.infoPanel.close "Закрыть">
 <!ENTITY navbarCmd.accesskey "в">
 <!ENTITY addonBarCmd.label "Панель дополнений">
 <!ENTITY addonBarCmd.accesskey "д">
