@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Deseja enviar relatórios de travamento para a Mozilla?">
+<!ENTITY crashprompt.message         "Nos desculpe, o &brandShortName; acabou de recuperar-se de um travamento. O envio de relatórios de travamento ajudará a Mozilla a tornar o &brandShortName; mais estável e seguro. Você pode alterar suas preferências em Configurações/Opções.">
+<!ENTITY crashprompt.detailsLink     "O que consta em um relatório de travamento?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Um relatório contém detalhes do travamento, do seu dispositivo e também informações sobre o estado do navegador quando travou.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Isto pode incluir itens como páginas abertas, texto digitado em formulários e o conteúdo de mensagens abertas, histórico recente ou a geolocalização compartilhada com o site.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Nós usamos os relatórios de travamento para tentar corrigir problemas e melhorar nossos produtos. Nós gerenciamos suas informações como descrito em nossa ">
+<!ENTITY crashprompt.privacyPolicyLink "Política de Privacidade do &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Incluir o endereço da página em que eu estava">
+<!ENTITY crashprompt.acceptbutton    "Enviar relatórios">
+<!ENTITY crashprompt.refusebutton    "Não enviar">
+<!ENTITY crashprompt.privacyPolicy.title "Política de Privacidade do &brandShortName;">
