@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "철자 검사">
 <!ENTITY  event.toolbar.privacy.label                     "공개여부">
 
+<!ENTITY  event.toolbar.save.tooltip                      "저장하고 닫기">
+<!ENTITY  event.toolbar.delete.tooltip                    "삭제">
+<!ENTITY  event.toolbar.attendees.tooltip                 "참석자 초대하기">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "맞춤법 검사">
+<!ENTITY  event.toolbar.attachments.tooltip               "첨부하기">
+<!ENTITY  event.toolbar.privacy.tooltip                   "공개 범위 바꾸기">
+<!ENTITY  event.toolbar.priority.tooltip                  "중요도 바꾸기">
+<!ENTITY  event.toolbar.status.tooltip                    "상태 바꾸기">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "일정 상태 바꾸기">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "제목:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "설정…" >
 
 <!ENTITY event.reminder.multiple.label                    "다중 알림…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "일정 상태:">
+<!ENTITY event.statusbarpanel.privacy.label               "공개여부:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "되풀이 편집">

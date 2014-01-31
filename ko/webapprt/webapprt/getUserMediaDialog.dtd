@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "미디어 공유">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "공유">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "S">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "취소">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "n">
+<!ENTITY getUserMediaDialog.title                   "미디어 공유">
+<!ENTITY getUserMediaDialog.button.accept.label     "공유">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "취소">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-<!ENTITY getUserMediaDialog.video.label           "카메라 선택">
-<!ENTITY getUserMediaDialog.video.noVideo         "동영상 없음">
-<!ENTITY getUserMediaDialog.audio.label           "마이크 선택">
-<!ENTITY getUserMediaDialog.audio.noAudio         "오디오 없음">
+<!ENTITY getUserMediaDialog.video.label             "카메라 선택">
+<!ENTITY getUserMediaDialog.video.noVideo           "동영상 없음">
+<!ENTITY getUserMediaDialog.audio.label             "마이크 선택">
+<!ENTITY getUserMediaDialog.audio.noAudio           "오디오 없음">
