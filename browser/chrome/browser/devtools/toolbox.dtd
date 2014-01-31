@@ -41,6 +41,11 @@
 <!ENTITY options.enablePersistentLogging.tooltip  "Si usted activa esta opción la consola Web no limpiará  el texto de salida cada vez que navegue a una página nueva">
 <!ENTITY options.timestampMessages.label      "Activar marcas de tiempo">
 <!ENTITY options.timestampMessages.tooltip    "Si activa esta opción los comandos y mensajes de la consola web aparecerán con una marca de tiempo">
+<!ENTITY options.styleeditor.label            "Editor de estilo">
+<!ENTITY options.stylesheetSourceMaps.label      "Mostrar fuentes originales">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar fuentes originales (por ejemplo: archivos Sass) en el Editor de estilo y en el Inspector">
+<!ENTITY options.stylesheetAutocompletion.label      "Autocompletar CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Autocompletar propiedades, valores y selectores CSS en el Editor de estilo al escribir">
 <!ENTITY options.profiler.label            "Perfilador JavaScript">
 <!ENTITY options.showPlatformData.label    "Mostrar datos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Si usted activa esta opción los reportes del perfilador JavaScript incluirán

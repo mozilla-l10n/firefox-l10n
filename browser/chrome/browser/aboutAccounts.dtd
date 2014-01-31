@@ -4,6 +4,6 @@
 
 <!ENTITY aboutAccounts.pageTitle "Bienvenido a Sync">
 
-<!ENTITY aboutAccountsSetup.description "Regístrese para respaldar y sincronizar sus pestaás, marcadores y más.">
-<!ENTITY aboutAccountsSetup.startButton.label "Comenzar">
-<!ENTITY aboutAccountsSetup.useOldSync.label "¿Usando Sync en una versión anterior de Sync?">
+<!ENTITY aboutAccountsConfig.description "Conéctese para sincronizar sus pestañas, marcadores, contraseñas y más.">
+<!ENTITY aboutAccountsConfig.startButton.label "Empezar">
+<!ENTITY aboutAccountsConfig.useOldSync.label "¿Usando una versión anterior de Sync?">

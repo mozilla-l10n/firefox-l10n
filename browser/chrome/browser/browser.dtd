@@ -75,6 +75,7 @@
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconectarse a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel.title "&brandShortName; se está sincronizando.">
 <!ENTITY syncStartPanel.subTitle "Puede administrar &syncBrand.shortName.label; en Opciones.">
 <!ENTITY syncStartPanel.subTitleUnix "Puede administrar &syncBrand.shortName.label; en Preferencias.">
@@ -158,7 +159,6 @@
 <!ENTITY bookmarksButton.tooltip "Muestra sus marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
-<!ENTITY bookmarksMenuButton.tooltip "Muestra sus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
 <!ENTITY viewBookmarksSidebar.label "Mostrar en barra lateral">
 <!ENTITY viewBookmarksSidebar2.label "Ver barra lateral de marcadores">
@@ -576,3 +576,4 @@
 <!ENTITY tabCrashed.message "Esto es vergonzoso. Hemos intentado mostrar esta página Web, pero no está respondiendo.">
 <!ENTITY tabCrashed.checkSendReport "Contarle a &vendorShortName; sobre este fallo para que lo puedan reparar.">
 <!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
+<!ENTITY uiTour.infoPanel.close "Cerrar">
