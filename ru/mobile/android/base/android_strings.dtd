@@ -190,7 +190,7 @@
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
-<!ENTITY pref_dynamic_toolbar "При прокрутке скрывать панель заголовка">
+<!ENTITY pref_scroll_title_bar "Прокручивать панель заголовка">
 <!ENTITY history_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
