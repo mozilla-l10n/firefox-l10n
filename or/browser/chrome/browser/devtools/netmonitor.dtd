@@ -16,6 +16,8 @@
 <!ENTITY netmonitorUI.emptyNotice2        "ନେଟୱର୍କ କାର୍ଯ୍ୟକଳାପ ବିଷୟରେ ବିସ୍ତୃତ ସୂଚନା ଦେଖିବା ପାଇଁ ଏକ ଅନୁରୋଧ କରନ୍ତୁ କିମ୍ବା ଏହି ପୃଷ୍ଠାକୁ ପୁନର୍ଦ୍ଧାରଣ କରନ୍ତୁ।">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 

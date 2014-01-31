@@ -131,6 +131,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "ଉତ୍ସ">
+<!ENTITY debuggerUI.tabs.callstack      "ସ୍ଟାକକୁ ଡାକ">
 <!ENTITY debuggerUI.tabs.variables      "ପ୍ରାଚଳଗୁଡ଼ିକ">
 <!ENTITY debuggerUI.tabs.events         "ଘଟଣାଗୁଡିକ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
