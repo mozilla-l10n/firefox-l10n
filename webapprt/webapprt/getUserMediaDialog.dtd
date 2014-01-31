@@ -8,8 +8,8 @@
 <!ENTITY getUserMediaDialog.title                   "Մեդիայի տարածում">
 
 
-
-
+<!ENTITY getUserMediaDialog.button.cancel.label     "Չեղարկել">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "ղ">
 
 <!ENTITY getUserMediaDialog.video.label             "Ընտրեք խցիկը">
 <!ENTITY getUserMediaDialog.video.noVideo           "Չկա տեսանյութ">
