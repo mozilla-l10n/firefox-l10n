@@ -4,14 +4,16 @@
 
 <!ENTITY charsetMenu.label             "Գրանշանների Կոդավորում">
 <!ENTITY charsetMenu.accesskey         "Գ">
-
+<!ENTITY charsetMenuAutodet.label      "Ինքնաբացահայտել">
 <!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "հ">
 
-
-
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.off.label     "(անջ.)">
+<!ENTITY charsetMenuAutodet.off.accesskey "ա">
+<!ENTITY charsetMenuAutodet.ja.label      "Ճապոներեն">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "Ճ">
+<!ENTITY charsetMenuAutodet.ru.label      "Ռուսերեն">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "Ռ">
+<!ENTITY charsetMenuAutodet.uk.label      "Ուկրաիներեն">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "Ո">
 
