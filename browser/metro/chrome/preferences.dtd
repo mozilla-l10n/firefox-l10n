@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Relatórios de travamento">
 <!ENTITY optionsHeader.reporting.crashes.label                   "O &brandShortName; envia relatórios de travamento para auxiliar a Mozilla a tornar seu navegador mais estável e seguro.">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir o endereço da página em que eu estava">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetria">
 <!ENTITY optionsHeader.telemetry.label                            "Compartilha informações de uso do &brandShortName; com a Mozilla para ajudar-nos a tornar seu navegador melhor.">

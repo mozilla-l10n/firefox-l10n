@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Seus resultados">
 
-<!ENTITY appbarErrorConsole.label   "Abrir console de erros">
-<!ENTITY appbarJSShell.label        "Open JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Localizar na página">
-<!ENTITY appbarViewOnDesktop2.label "Exibir na área de trabalho">
-<!ENTITY appbarMSMetaData2.label    "Instale um aplicativo para este site">
+<!ENTITY appbarErrorConsole.label      "Abrir console de erros">
+<!ENTITY appbarJSShell.label           "Open JavaScript shell">
+<!ENTITY appbarFindInPage2.label       "Localizar na página">
+<!ENTITY appbarRelaunchInDesktop.label "Abrir no modo desktop">
+<!ENTITY appbarMSMetaData2.label       "Instalar um aplicativo para este site">
+<!ENTITY appbarViewPageSource.label    "Exibir código-fonte">
 
 <!ENTITY topSitesHeader.label        "Sites principais">
 <!ENTITY bookmarksHeader.label       "Favoritos">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "O">
 <!ENTITY syncFlyout.key "S">
 <!ENTITY aboutFlyout.key "A">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Procurando pelas suas abas? Basta mover para baixo ou clicar com o botão direito">
+<!ENTITY firstRunTopSites.label "Abra os sites que você mais visita">
+<!ENTITY firstRunBookmarks.label "Encontre as páginas que você salvou para acessar depois">
+<!ENTITY firstRunMenu.label "Acesse mais recursos e opções">
+<!ENTITY firstRunHistory.label "Veja onde você esteve na web">
+<!ENTITY firstRunWelcome.label "Bem-vindo ao &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diferente desde o projeto">
