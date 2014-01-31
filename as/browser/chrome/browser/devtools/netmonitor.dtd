@@ -16,6 +16,8 @@
 <!ENTITY netmonitorUI.emptyNotice2        "নেটৱাৰ্ক প্ৰক্ৰিয়াৰ বিষয়ে বিৱৰিত তথ্য চাবলে এটা অনুৰোধ দিয়ক অথবা পৃষ্ঠা পুনৰ ল'ড কৰক।">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
