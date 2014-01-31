@@ -539,7 +539,6 @@
 <!ENTITY appMenuButton.tooltip "Apri il menu &brandShortName;">
 <!ENTITY feedButton.label "Abbonati">
 <!ENTITY feedButton.tooltip "Abbonati a questa pagina…">
-<!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
 <!ENTITY viewTabsOnTop.label "Visualizza le schede in alto">
 <!ENTITY viewTabsOnTop.accesskey "V">
