@@ -97,6 +97,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "m">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel.title "&brandShortName; nun spegulas.">
 <!ENTITY syncStartPanel.subTitle "Vi povas administri &syncBrand.shortName.label; en Elektebloj.">
 <!ENTITY syncStartPanel.subTitleUnix "Vi povas administri &syncBrand.shortName.label; en Preferoj.">
@@ -183,7 +184,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
-<!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
 <!ENTITY bookmarksMenuButton.unsorted.label "Neordigitaj legosignoj">
 <!ENTITY viewBookmarksSidebar2.label        "Montri flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
@@ -736,6 +736,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Nu, tio estas hontiga. Ni klopodis montri tiun retpaĝon, sed ĝi ne reagas.">
 <!ENTITY tabCrashed.checkSendReport "Raporti al &vendorShortName; pri tiu ĉi paneo, tiel ke ili povos fari ion por eviti ĝin.">
 <!ENTITY tabCrashed.tryAgain "Klopodi denove">
+
+<!ENTITY uiTour.infoPanel.close "Fermi">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
