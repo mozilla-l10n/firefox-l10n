@@ -262,7 +262,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Удалить недавнюю историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY appMenuHistory.viewSidebar.label "Показать боковую панель журнала">
-<!ENTITY appMenuHelp.tooltip "Открыть меню Справки">
+<!ENTITY appMenuHelp.tooltip "Открыть меню Справка">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
