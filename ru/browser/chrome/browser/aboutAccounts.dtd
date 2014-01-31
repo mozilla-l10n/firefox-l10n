@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.pageTitle "Учётные записи &brandShortName;">
-<!ENTITY aboutAccountsSetup.description "Войдите для резервного копирования и синхронизации ваших вкладок, закладок и другого.">
-<!ENTITY aboutAccountsSetup.startButton.label "Начать">
-<!ENTITY aboutAccountsSetup.useOldSync.label "Используете Синхронизацию в старой версии &brandShortName;?">
+<!ENTITY aboutAccounts.pageTitle "Добро пожаловать в Синхронизацию">
+<!ENTITY aboutAccountsConfig.description "Войдите для синхронизации ваших вкладок, закладок, паролей и другого.">
+<!ENTITY aboutAccountsConfig.startButton.label "Начать">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Используете старую версию Синхронизации?">

@@ -35,7 +35,7 @@
 <!ENTITY goButton.label "Перейти">
 <!ENTITY goButton.tooltip "Введите адрес в поле адреса и нажмите «Перейти»">
 <!ENTITY printButton.label "Печать">
-<!ENTITY printButton.tooltip "Напечатать эту страницу">
+<!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY locationBar.tooltip "Введите выражение для поиска, краткое имя закладки или веб-адрес">
 <!ENTITY locationBar.accesskey "д">
