@@ -108,82 +108,110 @@
 <!ENTITY sync.text.tab.not.sent.label 'Det uppstod ett problem vid skickandet av fliken.'>
 
 <!-- Firefox Account strings -->
-<!ENTITY firefox.accounts 'Firefox-konton'>
-<!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy "Genom att fortsätta godkänner du &lt;a
-         href=\'http://mozilla.com\'&gt;Tjänstevillkoren&lt;/a&gt; och &lt;a
-         href=\'http://mozilla.com\'&gt;Integritetspolicyn&lt;/a&gt;.">
-<!ENTITY fxaccount.forgot.password 'Glömt lösenordet?'>
-<!ENTITY fxaccount.create.account.button.label 'Skapa konto'>
-<!ENTITY fxaccount.sign.in.button.label 'Logga in'>
-<!ENTITY fxaccount.email.hint 'E-post'>
-<!ENTITY fxaccount.password.hint 'Lösenord'>
-<!ENTITY fxaccount.password2.hint 'Bekräfta lösenord'>
-<!ENTITY fxaccount.bad.email 'Vi behöver en giltig e-postadress.'>
-<!ENTITY fxaccount.bad.passwords 'Dina lösenord måste matcha.'>
-<!ENTITY fxaccount.sign.in.instead 'Har du redan ett konto? Logga in!'>
-<!ENTITY fxaccount.sign.up.instead 'Har du inget konto? Skapa ett i stället.'>
 
-<!ENTITY fxaccount.sign.in 'Logga in'>
-<!ENTITY fxaccount.create.account 'Skapa ett konto'>
+<!-- Localization note: this is the brand title, shown at the top of most screens. -->
+<!ENTITY firefox_accounts 'Firefox-konton'>
 
-<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Använda &syncBrand.shortName.label; med en äldre version av &brandShortName;?&lt;/a&gt;">
+<!-- Localization note: this refers to a single Firefox Account, shown
+     at the top of the account status activity. That activity allows
+     to configure the current Firefox Account. -->
+<!ENTITY firefox_account 'Firefox-konto'>
 
-<!ENTITY fxaccount.when.were.you.born 'När är du född?'>
-<!ENTITY fxaccount.year.of.birth 'Födelseår'>
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+<!ENTITY fxaccount_checkbox_contentDescription 'Firefox-kontons kryssrutebild'>
+<!ENTITY fxaccount_icon_contentDescription 'Firefox-kontons ikon'>
+<!ENTITY fxaccount_intro_contentDescription 'Firefox-kontons introduktionsbilder'>
+<!ENTITY fxaccount_mail_contentDescription 'Firefox-kontons brevbild'>
 
-<!ENTITY fxaccount.icon.contentDescription 'Firefox-kontons ikon'>
-<!ENTITY fxaccount.password.hide 'Dölj'>
-<!ENTITY fxaccount.password.show 'Visa'>
-<!ENTITY fxaccount.get.started 'Kom igång'>
-<!ENTITY fxaccount.description 'Logga in för att säkerhetskopiera och synka alla dina inställningar och bokmärken!'>
-<!ENTITY fxaccount.sign.up 'Skapa konto'>
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_email_hint 'E-post'>
+<!ENTITY fxaccount_password_hint 'Lösenord'>
+<!ENTITY fxaccount_password_hide 'Dölj'>
+<!ENTITY fxaccount_password_show 'Visa'>
 
-<!-- Android > Accounts > [Firefox Account] Screen -->
-<!ENTITY fxaccount.options.title 'Alternativ'>
-<!ENTITY fxaccount.options.configure.title 'Inställningar för Firefox-konto'>
-<!ENTITY fxaccount.intro.contentDescription 'Firefox-kontons introduktionsbilder'>
-<!ENTITY fxaccount.confirmation.email.sent 'Bekräftelsemejl skickat!'>
-<!ENTITY fxaccount.mail.contentDescription 'Firefox-kontons brevbild'>
-<!ENTITY fxaccount.confirmation.description 'Din bekräftelselänk väntar på dig:'>
-<!ENTITY fxaccount.offer.resend.confirmation.email 'Ser du ingen e-post? Skicka igen.'>
-<!ENTITY fxaccount.password.length.restriction 'Måste vara minst 8 tecken.'>
-<!ENTITY fxaccount.change.password 'Byt lösenord'>
-<!ENTITY fxaccount.status.needs.verification 'Ditt konto måste verifieras. Tryck här för att verifiera och påbörja synkning.'>
-<!ENTITY fxaccount.status.needs.credentials 'Dina kontodetaljer är för gamla. Tryck här för att logga in igen och återuppta synkning.'>
-<!ENTITY fxaccount.status.syncing 'Firefox synkar …'>
-<!ENTITY fxaccount.status.sync 'Synka' >
-<!ENTITY fxaccount.status.bookmarks 'Bokmärken'>
-<!ENTITY fxaccount.status.history 'Historik'>
-<!ENTITY fxaccount.status.passwords 'Lösenord'>
-<!ENTITY fxaccount.status.tabs 'Öppna flikar'>
-<!ENTITY fxaccount.update.credentials 'Uppdatera lösenord'>
-<!ENTITY fxaccount.update.credentials.button.label 'Anslut igen'>
-<!ENTITY fxaccount.account.create.not.allowed 'Kan inte skapa konto'>
-<!ENTITY fxaccount.account.create.not.allowed.description 'Du måste uppfylla vissa ålderskrav för att skapa ett Firefox-konto.'>
+<!ENTITY fxaccount_policy_linktos 'Tjänstevillkor'>
+<!ENTITY fxaccount_policy_linkprivacy 'Integritetspolicy'>
 
-<!-- Note to translators:
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Välkommen till &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description 'Logga in för att synka dina flikar, bokmärken, lösenord och annat.'>
+<!ENTITY fxaccount_getting_started_get_started 'Kom igång'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Använder du en äldre version av &syncBrand.shortName.label;?'>
 
-These strings represent ranges of birth years, used to determine if a
-potential user is old enough to meet legal requirements. A user born
-in 1984 should understand that they should pick the translation of
-"1980s".
+<!ENTITY fxaccount_create_account_sub_header 'Skapa ett konto'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Måste vara minst 8 tecken'>
+<!ENTITY fxaccount_create_account_year_of_birth 'Födelseår'>
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text 'Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox onlinetjänster.'>
+<!ENTITY fxaccount_create_account_button 'Nästa'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Välj vad som ska synkas'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Har du redan ett konto? Logga in'>
+<!ENTITY fxaccount_create_account_1950_or_earlier '1950 eller tidigare'>
+<!ENTITY fxaccount_create_account_unknown_error 'Kunde inte skapa något konto'>
 
-Any years that are *not* old enough to create an account must be
-appear as individual numbers, so that they can be converted to a year
-and compared to the current year.  Year ranges (any entry that cannot
-be converted to a number) are *always* considered old enough to create
-an account.  -->
+<!ENTITY fxaccount_account_create_not_allowed 'Kan inte skapa konto'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Du måste uppfylla vissa ålderskrav för att skapa ett konto.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Läs mer'>
 
-<!ENTITY fxaccount.create.account.age.1960s '1960-talet eller tidigare'>
-<!ENTITY fxaccount.create.account.age.1970s '1970-talet'>
-<!ENTITY fxaccount.create.account.age.1980s '1980-talet'>
-<!ENTITY fxaccount.create.account.age.1990s '1990-talet'>
-<!ENTITY fxaccount.create.account.age.2000 '2000'>
-<!ENTITY fxaccount.create.account.age.2001 '2001'>
-<!ENTITY fxaccount.create.account.age.2002 '2002'>
-<!ENTITY fxaccount.create.account.age.2003 '2003'>
-<!ENTITY fxaccount.create.account.age.2004 '2004'>
-<!ENTITY fxaccount.create.account.age.2005 '2005'>
-<!ENTITY fxaccount.create.account.age.2006 '2006'>
-<!ENTITY fxaccount.create.account.age.2007 '2007'>
+<!ENTITY fxaccount_confirm_account_header 'Bekräfta ditt konto'>
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'En bekräftelselänk har skickats till &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Skicka igen'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent 'Skickat en bekräftelselänk'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent 'Kunde inte skicka någon bekräftelselänk'>
+
+<!ENTITY fxaccount_sign_in_sub_header 'Logga in'>
+<!ENTITY fxaccount_sign_in_button_label 'Logga in'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Glömt lösenordet?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Skapa ett konto'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Kunde inte logga in'>
+
+<!ENTITY fxaccount_account_verified_sub_header 'Kontot verifierat'>
+<!ENTITY fxaccount_account_verified_description 'Du kan nu börja använda &syncBrand.shortName.label;.'>
+
+<!ENTITY fxaccount_update_credentials_sub_header 'Logga in för att fortsätta'>
+<!ENTITY fxaccount_update_credentials_button_label 'Logga in'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Kunde inte logga in'>
+
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktiverat'>
+<!ENTITY fxaccount_status_needs_verification 'Ditt konto måste verifieras. Tryck för att verifiera.'>
+<!ENTITY fxaccount_status_needs_credentials 'Kan inte ansluta. Tryck för att logga in.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Du måste uppgradera &brandShortName; för att logga in.'>
+<!ENTITY fxaccount_status_bookmarks 'Bokmärken'>
+<!ENTITY fxaccount_status_history 'Historik'>
+<!ENTITY fxaccount_status_passwords 'Lösenord'>
+<!ENTITY fxaccount_status_tabs 'Öppna flikar'>
+<!ENTITY fxaccount_status_legal 'Juridisk information' >
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. It should be singular. -->
+<!ENTITY fxaccount_label '&fxaccountBrand.fullName.label;'>
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-alternativ'>
+<!ENTITY fxaccount_options_configure_title 'Anpassa &syncBrand.shortName.label;'>
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Du måste uppgradera Firefox'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS 'Kontot finns redan'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ogiltig e-postadress eller lösenord'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ogiltig e-postadress eller lösenord'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Kontot är inte verifierat'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servern är upptagen, försök igen senare'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servern är upptagen, försök igen senare'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Det uppstod ett problem'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan inte ansluta till nätverket'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title '&syncBrand.fullName.label; är inte ansluten'>
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text 'Tryck för att logga in till &formatS;'>
