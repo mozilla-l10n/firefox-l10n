@@ -32,3 +32,24 @@
 <!ENTITY unlinkDevice.label "Desvincular este dispositivo">
 <!ENTITY prefs.tosLink.label "Términos del servicio">
 <!ENTITY prefs.ppLink.label "Política de privacidad">
+
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidad">
+<!ENTITY determiningStatus.label    "Determinando el estado de su cuenta de Firefox…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "no está verificada.">
+
+<!ENTITY signedInLoginFailure.beforename.label "Por favor, conéctese para reconectar">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "No está conectado.">
+<!ENTITY signIn.label                "Conectarse">
+<!ENTITY manage.label                "Administrar">
+<!ENTITY unlink.label                "Desvincular este navegador…">
+<!ENTITY verify.label                "Verificar correo">
+<!ENTITY forget.label                "Olvidar este correo">
+
+<!ENTITY welcome.description "Acceda a sus pestañas, marcadores, contraseñas y más siempre que use &brandShortName;.">
+<!ENTITY welcome.startButton.label "Conéctese o cree una cuenta">
+<!ENTITY welcome.useOldSync.label "¿Usando una versión anterior de Sync?">
