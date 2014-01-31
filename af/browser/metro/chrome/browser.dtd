@@ -16,7 +16,7 @@
 <!ENTITY appbarErrorConsole.label      "Open foutkonsole">
 <!ENTITY appbarJSShell.label           "Open JavaScript-opdraglyn">
 <!ENTITY appbarFindInPage2.label       "Vind in bladsy">
-<!ENTITY appbarRelaunchInDesktop.label "Herbegin in gewone &brandShortName;">
+
 
 <!ENTITY appbarViewPageSource.label    "Bekyk bron van bladsy">
 
@@ -83,12 +83,12 @@
 <!ENTITY contextSaveImageLib.label         "Stoor na prentebiblioteek">
 <!ENTITY contextCopyImage.label            "Kopieer prent">
 <!ENTITY contextCopyImageLocation.label    "Kopieer prentligging">
-<!ENTITY contextOpenImageTab.label         "Open skakel in nuwe oortjie">
+<!ENTITY contextOpenImageTab.label         "Open beeld in nuwe oortjie">
 <!-- VIDEO CONTEXT MENU -->
 
 <!ENTITY contextSaveVideoLib.label         "Stoor na videobiblioteek">
 <!ENTITY contextCopyVideoLocation.label    "Kopieer videoligging">
-<!ENTITY contextOpenVideoTab.label         "Open skakel in nuwe oortjie">
+<!ENTITY contextOpenVideoTab.label         "Open video in nuwe oortjie">
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY reload.key "r">
