@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Atrás">
 <!ENTITY forward.label         "Adelante">
 <!ENTITY newtab.label          "Nueva pestaña">
+<!ENTITY newPrivateTab.label   "Nueva pestaña privada">
 <!ENTITY closetab.label        "Cerrar pestaña">
 
 <!ENTITY autocompleteResultsHeader.label  "Sus resultados">
@@ -104,6 +105,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -119,3 +121,9 @@
 <!ENTITY firstRunHistory.label "Revisa dónde has estado en la web">
 <!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
 <!ENTITY firstRunDifferent.label "Diferente por diseño">
+
+<!ENTITY firstRunBack.label "Toca para regresar a la página anterior">
+<!ENTITY firstRunNewTab.label "Añade una pestaña para explorar un nuevo sitio">
+<!ENTITY firstRunStar.label "Usa marcadores para guardar páginas para más tarde">
+<!ENTITY firstRunPin.label "Ancla un sitio a la pantalla de Inicio de Windows para acceder rápidamente él">
+<!ENTITY firstRunGotIt.label "¡Entendido!">

@@ -8,8 +8,9 @@
 <!ENTITY crashprompt.detailsLink     "¿Qué hay dentro de un reporte de errores?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Un reporte de errores contiene algunos detalles sobre el fallo, su máquina, como también una captura del estado de su navegador en el momento en que falló.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Este puede incluir cosas como páginas abiertas, texto escrito en formularios y el contenido de mensajes abiertos, el historial de navegación reciente, o la ubicación compartida con un sitio.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Usamos reportes de errores para intentar arreglar problemas y mejorar nuestros productos. Manejamos su información tal como lo describimos en nuestra ">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Podemos usar los reportes de errores para intentar resolver problema y mejorar nuestros productos. Manejamos su información tal como lo describimos en nuestra ">
 <!ENTITY crashprompt.privacyPolicyLink "política de privacidad de &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en que me encontraba">
 <!ENTITY crashprompt.acceptbutton    "Enviar reportes">
 <!ENTITY crashprompt.refusebutton    "No enviar">
