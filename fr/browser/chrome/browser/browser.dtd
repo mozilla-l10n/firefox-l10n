@@ -774,6 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Informer &vendorShortName; de ce problème pour qu'il puisse être corrigé.">
 <!ENTITY tabCrashed.tryAgain "Réessayer">
 
+<!ENTITY uiTour.infoPanel.close "Fermer">
 
 <!ENTITY viewBookmarksSidebar.label   "Afficher le panneau des marque-pages">
 <!ENTITY backForwardItem.title        "Page précédente/suivante">
