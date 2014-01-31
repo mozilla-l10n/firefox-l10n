@@ -10,7 +10,7 @@
 
 <!ENTITY intro.header              "Tem um minutinho?">
 <!ENTITY intro.message             "Diga-nos o que achou do &brandShortName; para Android até o momento.">
-<!ENTITY intro.happyLink           "Adorei">
+<!ENTITY intro.happyLink           "Excelente">
 <!ENTITY intro.sadLink             "Tive alguns problemas">
 <!ENTITY intro.maybeLater          "Talvez depois">
 
@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "É rapidinho e não custa nada.">
+<!ENTITY happy.finePrint           "É rápido e é legal.">
 
 <!ENTITY happy.ratingLink          "Sim, abrir o Google Play">
 <!ENTITY happy.maybeLater2         "Talvez depois">
