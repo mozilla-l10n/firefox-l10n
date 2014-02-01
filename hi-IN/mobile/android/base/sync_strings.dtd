@@ -14,7 +14,7 @@
 <!ENTITY sync.title.pair.label "युक्ति युग्मित करें">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "अपनी नई युक्ति को सक्रिय करने के लिए, “Set up &syncBrandshortName.label;” को इस युक्ति पर चुनें.">
+<!ENTITY sync.subtitle.connect.label "अपनी नई युक्ति को सक्रिय करने के लिए, “Set up &syncBrand.shortName.label;” को इस युक्ति पर चुनें.">
 <!ENTITY sync.subtitle.header2.label "अपने अन्य डिवाइस पर इस कोड को दर्ज करें">
 <!ENTITY sync.subtitle.connectlocation2.label "अपने डेस्कटॉप फ़ायरफ़ॉक्स विकल्पों में से अनुभाग &syncBrand.shortName.label; में “&sync.title.pair.label;” पर चुनें.">
 <!ENTITY sync.subtitle.pair.label "सक्रिय करने के लिए, अपने अन्य डिवाइस पर \&quot;एक युक्ति जोड़ी\&quot; को चुनें.">
