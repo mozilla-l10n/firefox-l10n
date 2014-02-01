@@ -3,13 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Lêgerîn">
-
+<!ENTITY newpref.label          "Vebijarkeke nû lê zêde bike">
 <!ENTITY addpref.name           "Nav">
 <!ENTITY addpref.value          "Nirx">
 
 <!ENTITY cancel.label           "Betal">
+<!ENTITY reset.label            "Reset bike">
+<!ENTITY done.label             "Qediya">
 
-
-
-
-
+<!ENTITY integer.label          "Hejmara Tam">
+<!ENTITY string.label           "Rêzik">
+<!ENTITY boolean.label          "Boolean">

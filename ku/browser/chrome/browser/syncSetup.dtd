@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Te berê &syncBrand.fullName.label; bi kar anî?">
 <!ENTITY setup.choicePage.new.label       "Min &syncBrand.shortName.label; berê bi kar neanî">
-<!ENTITY setup.choicePage.existing2.label "Ez jixwe li ser cîhazeke din &syncBrand.fullName.label;ê bi kar tînim">
+<!ENTITY setup.choicePage.existing2.label "Ez jixwe li ser cîhazeke din &syncBrand.shortName.label;ê bi kar tînim">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Pêşkêşkar">
@@ -50,7 +50,7 @@
 <!ENTITY recoveryKeyEntry.label        "Kilîta Rizgarkirinê">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Kilîteke nû biafirîne">
-<!ENTITY recoveryKeyBackup.description "Kilîta rizgarkirinê ji bo hindê pêwîst e ku ji cîhazên din xwe bigihînî &brandShortName;ê. Tika ye kopyeyeke yedek çêke. Em nikarin ji bo vegerandina kilîta rizgarkirinê bibin alîkar.">
+
 
 <!ENTITY button.syncKeyBackup.print.label     "Çap bike…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Ç">
@@ -103,7 +103,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Pesendkirin">
-<!ENTITY confirm.merge2.label    "&syncBrand.shortName.label; dê niha hemû daneyên geroka vê cîhazê bi hesabê Syncê re hevcot bike.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; dê niha hemû daneyên geroka vê cîhazê bi hesabê Syncê re hevcot bike.">
 <!ENTITY confirm.client3.label         "Hişyarî: Daneyên jêrê yên &brandShortName;a li ser vê cîhazê   dê bên jêbirin">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; dê daneyên &syncBrand.fullName.label;ê paşê li vê cîhazê kopî bike.">
 <!ENTITY confirm.server2.label         "Hişyarî: Daneyên te yên herêmî dê li ser van cîhazan bên nivîsandin:">

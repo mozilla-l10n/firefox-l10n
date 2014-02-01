@@ -4,14 +4,16 @@
 
 <!ENTITY charsetMenu.label             "Kodkirina Karakteran">
 <!ENTITY charsetMenu.accesskey         "K">
-
+<!ENTITY charsetMenuAutodet.label      "Naskirina bixweber">
 <!-- A reserved for Arabic -->
+<!ENTITY charsetMenuAutodet.accesskey  "N">
 
-
-
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.off.label     "(girtî)">
+<!ENTITY charsetMenuAutodet.off.accesskey "g">
+<!ENTITY charsetMenuAutodet.ja.label      "Japonî">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
+<!ENTITY charsetMenuAutodet.ru.label      "Rûsî">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+<!ENTITY charsetMenuAutodet.uk.label      "Ukraynî">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 
