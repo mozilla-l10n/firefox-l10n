@@ -70,15 +70,11 @@
 <!ENTITY showAllTabsCmd.accesskey "h">
 <!ENTITY fxaSignIn.label "Accedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconnetti a &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.title "Sincronizzazione in corso di &brandShortName;.">
+<!ENTITY syncStartPanel.heading "Sincronizzazione in corso di &brandShortName;">
 <!ENTITY syncStartPanel.subTitle "È possibile gestire &syncBrand.shortName.label; nelle opzioni.">
 <!ENTITY syncStartPanel.subTitleUnix "È possibile gestire &syncBrand.shortName.label; nelle preferenze.">
-<!ENTITY syncErrorPanel.title "Impossibile connettersi a &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.heading "Impossibile connettersi a &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Accedi per riprendere la sincronizzazione.">
-<!ENTITY syncErrorPanel.prefButton.label "Opzioni">
-<!ENTITY syncErrorPanel.prefButton.accesskey "O">
-<!ENTITY syncErrorPanel.prefButtonUnix.label "Preferenze">
-<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
 <!ENTITY syncErrorPanel.signInButton.label "Accedi">
 <!ENTITY syncErrorPanel.signInButton.accesskey "A">
 <!ENTITY fullScreenMinimize.tooltip "Riduci a icona">
@@ -98,6 +94,7 @@
 <!ENTITY bookmarksMenu.label "Segnalibri">
 <!ENTITY bookmarksMenu.accesskey "e">
 <!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri…">
+<!ENTITY editThisBookmarkCmd.label "Modifica segnalibro">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Condividi questa pagina">

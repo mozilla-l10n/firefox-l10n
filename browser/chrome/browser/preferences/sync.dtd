@@ -41,9 +41,10 @@
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
 <!ENTITY manage.label "Gestisci">
-<!ENTITY unlink.label "Scollega questo browser…">
+<!ENTITY disconnect.label "Disconnetti…">
 <!ENTITY verify.label "Verifica email">
 <!ENTITY forget.label "Dimentica questa email">
 <!ENTITY welcome.description "Accedi ovunque con &brandShortName; a schede, segnalibri, password e molto altro ancora.">
-<!ENTITY welcome.startButton.label "Accedi o crea un account">
+<!ENTITY welcome.signIn.label "Accedi">
+<!ENTITY welcome.createAccount.label "Crea account">
 <!ENTITY welcome.useOldSync.label "Stai utilizzando una vecchia versione di Sync?">

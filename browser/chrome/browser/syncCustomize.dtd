@@ -5,8 +5,8 @@
 <!ENTITY syncCustomize.dialog.title "Elementi da sincronizzare">
 <!ENTITY syncCustomize.acceptButton.label "Avvia">
 <!ENTITY syncCustomize.title "Che cosa si desidera sincronizzare?">
-<!ENTITY syncCustomize.subTitle "È possibile modificare questa selezione nelle opzioni.">
-<!ENTITY syncCustomize.subTitleUnix "È possibile modificare questa selezione nelle preferenze.">
+<!ENTITY syncCustomize.description "È possibile modificare questa selezione nelle opzioni.">
+<!ENTITY syncCustomizeUnix.description "È possibile modificare questa selezione nelle preferenze.">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "S">
 <!ENTITY engine.history.label "Cronologia">
