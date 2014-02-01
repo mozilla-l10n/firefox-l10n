@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label 'OK'>
 
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (för gammal)'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (förlegad)'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bokmärken-menyn'>
@@ -142,15 +142,15 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Måste vara minst 8 tecken'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Födelseår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox onlinetjänster.'>
+<!ENTITY fxaccount_create_account_policy_text 'Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox nättjänster.'>
 <!ENTITY fxaccount_create_account_button 'Nästa'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Välj vad som ska synkas'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Har du redan ett konto? Logga in'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 eller tidigare'>
 <!ENTITY fxaccount_create_account_unknown_error 'Kunde inte skapa något konto'>
 
-<!ENTITY fxaccount_account_create_not_allowed 'Kan inte skapa konto'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Du måste uppfylla vissa ålderskrav för att skapa ett konto.'>
+<!ENTITY fxaccount_account_create_not_allowed 'Kan inte skapa kontot'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Du måste uppfylla vissa ålderskrav för att få skapa ett konto.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Läs mer'>
 
 <!ENTITY fxaccount_confirm_account_header 'Bekräfta ditt konto'>
