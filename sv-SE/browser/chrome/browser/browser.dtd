@@ -103,10 +103,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel.subTitleUnix "Du kan hantera &syncBrand.shortName.label; i Inställningar.">
 <!ENTITY syncErrorPanel.heading "Kan inte ansluta till &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Logga in för att återuppta synkning.">
-<!ENTITY syncErrorPanel.prefButton.label "Inställningar">
-<!ENTITY syncErrorPanel.prefButton.accesskey "I">
-<!ENTITY syncErrorPanel.prefButtonUnix.label "Inställningar">
-<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "I">
 <!ENTITY syncErrorPanel.signInButton.label "Logga in">
 <!ENTITY syncErrorPanel.signInButton.accesskey "L">
 
