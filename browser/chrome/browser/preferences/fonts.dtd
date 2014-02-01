@@ -26,20 +26,20 @@
 
 <!ENTITY  font.langGroup.latin1                   "Ewropaya Rojava">
 <!ENTITY  font.langGroup.latin2                   "Ewropaya Navîn">
-
+<!ENTITY  font.langGroup.japanese                 "Japonî">
 <!ENTITY  font.langGroup.trad-chinese             "Çîniya Dêrîn (Taywan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Çîniya Hêsan">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Çîniya Dêrîn Çince (Hong Kong)">
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "Koreyî">
+<!ENTITY  font.langGroup.cyrillic                 "Kîrîlî">
+<!ENTITY  font.langGroup.baltic                   "Baltîkî">
+<!ENTITY  font.langGroup.el                       "Yewnanî">
+<!ENTITY  font.langGroup.turkish                  "Tirkî">
 <!ENTITY  font.langGroup.unicode                  "Zimanên Din">
 <!ENTITY  font.langGroup.user-def                 "Li Gorî Salixdana Bikarhêner">
-
-
-
+<!ENTITY  font.langGroup.thai                     "Zimanê Tayî">
+<!ENTITY  font.langGroup.hebrew                   "Îbranî">
+<!ENTITY  font.langGroup.arabic                   "Erebî">
 <!ENTITY  font.langGroup.devanagari               "Devanagarî">
 <!ENTITY  font.langGroup.tamil                    "Zimanê Tamil">
 <!ENTITY  font.langGroup.armenian                 "Ermenkî">
@@ -73,29 +73,39 @@
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "Ev kodkirina karakteran, ji bo naverokên mîrate yên ku nikarin kodkirina xwe pênase bikin, tê bikaranîn.">
 
+<!ENTITY languages.customize.Fallback.auto        "Ji bo ciyê heyî standard">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "Erebî">
+<!ENTITY languages.customize.Fallback.baltic      "Baltîkî">
+<!ENTITY languages.customize.Fallback.ceiso       "Ewropaya Navîn, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Ewropaya Navîn, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Çînî, Hêsankirî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-
+<!ENTITY languages.customize.Fallback.traditional "Çînî, Kevneşopî">
+<!ENTITY languages.customize.Fallback.cyrillic    "Kîrîlî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Yewnanî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Îbranî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Japonî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Koreyî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Zimanê Tayî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Tirkî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Wiyetnamî">
-
+<!ENTITY languages.customize.Fallback.other       "Wekî din (Ewropiya Rojava jî di nav de)">

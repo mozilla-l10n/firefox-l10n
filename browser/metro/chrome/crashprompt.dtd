@@ -3,11 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
+<!ENTITY crashprompt.title           "Tu dixwazî rapora hilweşînê bişînî Mozillayê?">
+<!ENTITY crashprompt.message         "Li me bibore, &brandShortName;ê şikest xwar. Eger rapora hilweşînê bişînî Mozillayê, &brandShortName; dê xwe çêtir bike. Tu dikarî vê vebijarkê her tim ji Eyar/Vebijarkan biguherînî. ">
+<!ENTITY crashprompt.detailsLink     "Rapora hilweşînê çi ye?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Di rapora hilweşînê de agahiyên derbarê hilweşînê û makîneya te de hene, û her wisa wêneyekî kêliya hilweşînê jî tê de heye.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Dibe ku di nav de tiştên wisa hebin: rûpelên vekirî, nivîsên forman yan, naveroka peyaman raboriya dawî ya gerê yan jî ciyê te yê cografîk ku te bi malperekê re parve kiriye.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Em rapora hilweşînê ji bo çareserkirina pirsgirêkan û pmşvebirina berhemê bi kar tînin. Agahiyên te ">
+<!ENTITY crashprompt.privacyPolicyLink "bi peymana nepeniyê ya &brandShortName;ê">
 <!ENTITY crashprompt.includeURLLabel "Navnîşana malpera ku min vekiribû têxê">
-
-
-
+<!ENTITY crashprompt.acceptbutton    "Raporan bişîne">
+<!ENTITY crashprompt.refusebutton    "Neşîne">
+<!ENTITY crashprompt.privacyPolicy.title "peymana nepeniyê ya &brandShortName;ê">

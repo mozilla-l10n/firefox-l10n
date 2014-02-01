@@ -6,6 +6,7 @@
 <!ENTITY search.placeholder                   "Li hemû add-onan bigere">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Tê barkirin…">
 <!ENTITY listEmpty.installed.label            "Tu add-onên te yên sazkirî yên ji vê cureyê nîn in">
@@ -31,6 +32,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan">
 <!-- global informations -->
 
+<!ENTITY info.plugincheck.label                 "Binêre ka pêvekên te nû ne yan na">
+<!ENTITY info.plugincheck.tooltip               "Kontrol bike ka pêvekên te nû ne yan ya">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Lêgerîn">
@@ -87,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "w">
 <!ENTITY cmd.disableTheme.label               "Lixwekirina dirbê rawestîne">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.label              "Binêre ka pêvekên te nû ne yan na">
+<!ENTITY cmd.askToActivate.tooltip            "Bikaranîna vê pêvekê hemû caran bipirse">
+<!ENTITY cmd.alwaysActivate.label             "Hemû caran çalak bike">
+<!ENTITY cmd.alwaysActivate.tooltip           "Hemû caran vê pêvekê bi kar bîne">
+<!ENTITY cmd.neverActivate.label              "Hîç çalak neke">
+<!ENTITY cmd.neverActivate.tooltip            "Vê pêvekê hîç bi kar neyne">
+<!ENTITY cmd.stateMenu.tooltip                "Dema ev pêvek bê xebitandin biguherîne">
 <!ENTITY cmd.installAddon.label               "Sazkirin">
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rake">

@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "Te xwest ku vê vekî:">
 <!ENTITY  from.label                  "Ji vê:">
 <!ENTITY  actionQuestion.label        "&brandShortName; wê bi vê pelê çi bike?">
 
@@ -14,6 +16,7 @@
 <!ENTITY  rememberChoice.label        "Ji bo pelên vê cureyê her tim vî karî bisepîne">
 <!ENTITY  rememberChoice.accesskey    "b">
 
+<!ENTITY  whichIs.label              "cure:">
 
 <!ENTITY  chooseHandlerMac.label      "Hilbijêre...">
 <!ENTITY  chooseHandlerMac.accesskey  "H">

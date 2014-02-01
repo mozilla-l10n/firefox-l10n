@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "Konsola çewtiyan veke">
 <!ENTITY appbarJSShell.label           "Qalikê JavaScriptê veke">
 <!ENTITY appbarFindInPage2.label       "Di rûpelê de bibîne">
-
+<!ENTITY appbarRelaunchInDesktop.label "Li ser Sermaseyê dîsa veke">
 <!ENTITY appbarMSMetaData2.label       "Bernamekoka vê malperê bistîne">
-
+<!ENTITY appbarViewPageSource.label    "Çavkaniya rûpelê nîşan bide">
 
 <!ENTITY topSitesHeader.label        "Malperên Sereke">
 <!ENTITY bookmarksHeader.label       "Bijare">
@@ -52,13 +52,13 @@
 <!ENTITY allBookmarks.label        "Hemû bijareyan nîşan bibîne">
 
 <!ENTITY consoleHeader.label       "Konsola Çewtiyê">
-
-
-
-
-
-
-
+<!ENTITY consoleAll.label          "Hemû">
+<!ENTITY consoleErrors.label       "Çewtî">
+<!ENTITY consoleWarnings.label     "Hişyarî">
+<!ENTITY consoleMessages.label     "Peyam">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Paqij bike">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Pela Çavkanî:">
 <!ENTITY consoleErrLine.label      "Xet:">
 <!ENTITY consoleErrColumn.label    "Stûn:">
@@ -68,36 +68,47 @@
 <!ENTITY contextTextCopy.label             "Kopîkirin">
 <!ENTITY contextTextPaste.label            "Pêve bike">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Pê ve bike û here">
 <!ENTITY contextTextSelect.label           "Hilbijêre">
-
+<!ENTITY contextTextSelectAll.label        "Hemûyan hilbijêre">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "Girêdanê di hilpekîneke nû de veke">
+<!ENTITY contextCopyLinkHref.label         "Girêdankê kopî bike">
+<!ENTITY contextBookmarkLinkHref.label     "Girêdankê bixe nav bijareyan">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Li pirtûkxaneya wêneyan tomar bike">
+<!ENTITY contextCopyImage.label            "Wêneyî kopî bike">
+<!ENTITY contextCopyImageLocation.label    "Ciyê wêneyî kopî bike">
+<!ENTITY contextOpenImageTab.label         "Wêneyî di hilpekîneke nû de veke">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Li pirtûkxaneyan vîdeoyan tomar bike">
+<!ENTITY contextCopyVideoLocation.label    "Li pirtûkxaneya vîdeoyan tomar bike">
+<!ENTITY contextOpenVideoTab.label         "Vîdeoyê di hilpekîneke nû de veke">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "D">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -112,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Li hilpekînan digerî? Bi jêrê ve kaş bike yan jî rast bitikîne">
+<!ENTITY firstRunTopSites.label "Here malperên herî pir hatine vekirin">
+<!ENTITY firstRunBookmarks.label "Rûpelên ku te tomar kirine bibîne">
+<!ENTITY firstRunMenu.label "Xwe bigihîne taybetî û vebijarkên din">
+<!ENTITY firstRunHistory.label "Bibîne ka li ser Webê li ku derê geriyayî">
+<!ENTITY firstRunWelcome.label "Bi xêr hatî &brandShortName;ê">
+<!ENTITY firstRunDifferent.label "Sêwirîneke cuda">
