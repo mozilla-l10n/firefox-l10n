@@ -4,5 +4,4 @@
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 <!ENTITY syncBrand.fullName.label   "Firefox Sync">
-<!ENTITY syncBrand.fxa-singular.label "Compte Firefox">
-<!ENTITY syncBrand.fxa-plural.label "Comptes Firefox">
+<!ENTITY syncBrand.fxAccount.label  "Compte Firefox">
