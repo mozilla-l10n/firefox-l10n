@@ -173,7 +173,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
-<!ENTITY bookmarksMenuButton.tooltip        "Zobraziť záložky">
 <!ENTITY bookmarksMenuButton.unsorted.label "Nezaradené záložky">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
