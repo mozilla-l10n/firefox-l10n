@@ -108,6 +108,8 @@
 <!ENTITY debuggerUI.searchVariable.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables      "متغیرہ شجر پر ماسکہ کریں">
 <!ENTITY debuggerUI.focusVariables.key  "وی">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -156,5 +158,5 @@
 <!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 <!ENTITY debuggerUI.stepping.stepIn2    "وی کے٫نیم وقفہ">
-
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">

@@ -30,7 +30,7 @@
 <!ENTITY device.installedApps "تنصیب شدہ ایپ">
 <!ENTITY device.installedAppsTooltip "اس آلہ پر تنصیب شدہ ایپس کی فہرست دیکھیں. کچھ ایپس، جیسے تصدیق شدہ ایپس، اس نظارہ سے شاید خارج کر دی گیں. ">
 <!ENTITY device.permissions "اجازتیں">
-
+<!ENTITY device.permissionsTooltip "مختلف اقسام کی ایپ کون سی اجازتیں رسائی کر سکتی ہیں اس کا جدول دیکھیں۔">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "مدد">
 
@@ -73,7 +73,7 @@
 <!ENTITY projects.debugApp "ٹھیک کریں">
 <!ENTITY projects.debugAppTooltip "اس ایپ سے جڑے ہوے ترقی دہندہ ٹولز کو کھولیں">
 <!ENTITY projects.saveManifest "محفوظ کریں">
-
+<!ENTITY projects.saveManifestTooltip "Manifest تدوین کار کے مشمولات محفوظ کریں۔">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "کوئی پراجیکٹ نہیں۔ نئی پیکیج ایپ (مقامی ڈائریکٹری) یا میزبان ایپ (کھلی مسل سے ربط کریں) کا اضافہ کریں۔">
 <!ENTITY projects.manifestEditor "کو صریح تدوین کار">
@@ -89,7 +89,7 @@
 
 <!ENTITY help.usefullLinks "مفید روابط:">
 <!ENTITY help.appMgrDoc "دستاویزی: ایپ مینیجر کا استعمال">
-
+<!ENTITY help.configuringDevice "Firefox OS کے آلہ کو کیسے سیٹ اپ کریں گے">
 <!ENTITY help.troubleShooting "ازالہ کاری">
 <!ENTITY help.simulatorAddon "سمیلیٹر ایڈاون تنصیب کریں">
 <!ENTITY help.adbHelperAddon "اےڑی بی دستگیر اضافہ کو تنصیب کریں">
