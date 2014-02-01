@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Benarkan laman memilih warnanya, bukannya pilihan saya di atas">
-<!ENTITY  allowPagesToUse.accesskey       "B">
+<!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
 <!ENTITY  textColor.label                 "Teks:">
@@ -21,6 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Pautan Warna">
 <!ENTITY  linkColor.label                 "Pautan Belum Dilawat:">
-<!ENTITY  linkColor.accesskey             "B">
+<!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Pautan Dilawat:">
 <!ENTITY  visitedLinkColor.accesskey      "w">
