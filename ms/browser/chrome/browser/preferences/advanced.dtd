@@ -91,9 +91,9 @@
 <!ENTITY updateAuto1.label               "Kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateAutoMetro.label           "Kemaskini secara automatik dari desktop dan Windows 8 gaya &brandShortName;">
-<!ENTITY updateAutoMetro.accesskey       "s">
+<!ENTITY updateAutoMetro.accesskey       "d">
 <!ENTITY updateCheck.label               "Semak sebarang kemaskini, tetapi biarkan saya pilih untuk memasangnya">
-<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "n">
 
