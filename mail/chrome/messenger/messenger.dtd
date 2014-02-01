@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "ä">
 <!ENTITY folderMenu.label "Mapp">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Den här mappen">
-<!ENTITY thisFolder.accesskey "D">
 <!ENTITY goRecentlyClosedTabs.label "Nyligen stängda flikar">
 <!ENTITY goRecentlyClosedTabs.accesskey "l">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Bevaka tråd">
 <!ENTITY watchThreadMenu.accesskey "B">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Hit">
-<!ENTITY fileHereMenu.accesskey "H">
-<!ENTITY copyHereMenu.label "Kopiera hit">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etikett">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
