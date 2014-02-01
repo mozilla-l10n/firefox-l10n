@@ -48,7 +48,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Integritetsinfo">
-<!ENTITY determiningStatus.label    "Undersöker status för ditt Firefox-konto…">
+<!ENTITY determiningStatus.label     "Undersöker status för ditt Firefox-konto…">
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "är inte verifierat.">
 
@@ -58,10 +58,12 @@
 <!ENTITY notSignedIn.label           "Du är inte inloggad.">
 <!ENTITY signIn.label                "Logga in">
 <!ENTITY manage.label                "Hantera">
-<!ENTITY unlink.label                "Koppla bort den här webbläsaren…">
+<!ENTITY disconnect.label            "Koppla ifrån…">
 <!ENTITY verify.label                "Verifiera e-postadress">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
 
 <!ENTITY welcome.description "Kom åt dina flikar, bokmärken, lösenord och annat var du än använder &brandShortName;.">
-<!ENTITY welcome.startButton.label "Logga in eller skapa ett konto">
+<!ENTITY welcome.signIn.label "Logga In">
+<!ENTITY welcome.createAccount.label "Skapa konto">
+
 <!ENTITY welcome.useOldSync.label "Använder en äldre version av Sync?">
