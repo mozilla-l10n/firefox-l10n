@@ -9,6 +9,13 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "अहवाल ID">
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "वाढ">
 <!ENTITY aboutSupport.extensionName "नाव">
 <!ENTITY aboutSupport.extensionEnabled "समर्थीत">
@@ -33,7 +40,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "समर्थीत प्लगईंस्">
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड् संरचना">
 <!ENTITY aboutSupport.appBasicsUserAgent "युजर एजेंट">
-<!ENTITY aboutSupport.appBasicsCrashIDs "क्रॅश अहवाल">
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरिचा वापर">
 
 <!ENTITY aboutSupport.showDir.label "डिरेक्ट्रि उघडा">

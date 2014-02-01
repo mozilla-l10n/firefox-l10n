@@ -39,18 +39,14 @@
 
 <!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र रचना संपादित करा">
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वासर्ह रचना संपादित करा">
-<!ENTITY certmgr.editsslcert.title            "संकेत स्थळ प्रमाणपत्र विश्वासर्ह रचना संपादित करा">
 <!ENTITY certmgr.editcert.edittrust           "विश्वासर्ह रचना संपादित करा:">
 <!ENTITY certmgr.editcert.trustssl            "हे प्रमाणपत्र संकेत स्थळं ओळखू शकते.">
 <!ENTITY certmgr.editcert.trustemail          "हे प्रमाणपत्र मेल वापरकर्त्यांना ओळखू शकते.">
 <!ENTITY certmgr.editcert.trustobjsign        "हे प्रमाणपत्र सॉफ्टवेअर निर्मात्यांना ओळखू शकते.">
-<!ENTITY certmgr.editsslcert.edittrust        "प्रमाणपत्र विश्वासर्ह रचना संपादित करा:">
-<!ENTITY certmgr.editsslcert.dotrust          "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवा.">
-<!ENTITY certmgr.editsslcert.donttrust        "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवू नका.">
 <!ENTITY certmgr.editemailcert.title          "ईमेल प्रमाणपत्र विश्वासर्ह रचना संपादित करा">
-<!ENTITY certmgr.editemailcert.edittrust      "प्रमाणपत्र विश्वासर्ह रचना संपादित करा:">
-<!ENTITY certmgr.editemailcert.dotrust        "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवा.">
-<!ENTITY certmgr.editemailcert.donttrust      "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवू नका..">
+
+
+<!ENTITY certmgr.editemailcert.donttrust      "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवू नका.">
 
 <!ENTITY certmgr.deletecert.title             "काढून टाका प्रमाणपत्र">
 <!ENTITY certmgr.deletecert.beforename        "आपण हे प्रमाणपत्र काढून टाकण्याची विनंती केली आहे:">

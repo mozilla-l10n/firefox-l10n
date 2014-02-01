@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "नेटवर्किंग विषयी">
+<!ENTITY aboutNetworking.warning               "हे अतिशय प्रायोगिक आहे. प्रौढांच्या निरिक्षणाशिवाय वापरु नये.">
+<!ENTITY aboutNetworking.showNextTime          "सावधानता पुढच्यावेळी दर्शवा">
+<!ENTITY aboutNetworking.ok                    "ठिक आहे">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "सॉकेट्स">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "वेबसॉकेट्स">
+<!ENTITY aboutNetworking.refresh               "ताजे करा">
+<!ENTITY aboutNetworking.autoRefresh           "दर ३ सेकंदाला स्वतः ताजे करा.">
+<!ENTITY aboutNetworking.hostname              "यजमाननाव">
+<!ENTITY aboutNetworking.port                  "पोर्ट">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+
+<!ENTITY aboutNetworking.idle                  "निष्क्रिय">
+
+
+
+
+
+
+
+
+
+
+

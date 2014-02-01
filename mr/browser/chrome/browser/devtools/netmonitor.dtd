@@ -14,10 +14,8 @@
 
 
 <!ENTITY netmonitorUI.emptyNotice2        "नेटवर्क कार्यविषयी तपशील माहितीकरिता पृष्ठकरिता विनंती करा किंवा पृष्ठ पुन्हा लोड करा.">
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-
-<!ENTITY netmonitorUI.toolbar.status      "√">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -98,6 +96,8 @@
   -  in the network details footer for the "Flash" filtering button. -->
 
 <!ENTITY netmonitorUI.footer.filterFlash  "फ्लॅश">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
+  -  in the network details footer for the "Clear" button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -176,15 +176,17 @@
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend): This is the label displayed
-  -  on the button in the headers tab that opens a form to resend the currently
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
+  -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
-
-<!ENTITY netmonitorUI.summary.resend      "पुन्हा पाठवा">
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend.accesskey): This is the access key
-  -  for the Resend menu item displayed in the context menu for a request -->
-
-<!ENTITY netmonitorUI.summary.resend.accesskey  "R">
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
+  -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container  -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 

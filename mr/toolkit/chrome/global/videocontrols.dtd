@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "समाप्त झाले">
 <!ENTITY stats.activitySeeking "(सिकिंग)">
 <!ENTITY stats.volume "आवाज">
-<!ENTITY stats.channels "वाहिन्या">
-<!ENTITY stats.sampleRate "सॅम्पल रेट">
 <!ENTITY stats.framesParsed "वाचलेले फ्रेम्स्">
 <!ENTITY stats.framesDecoded "डिकोड केलेले फ्रेम्स्">
 <!ENTITY stats.framesPresented "प्रस्तुत केलेले फ्रेम्स्">

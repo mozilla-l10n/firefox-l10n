@@ -1,0 +1,89 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+<!ENTITY device.startApp "सुरू करा">
+
+<!ENTITY device.stopApp "बंद करा">
+
+
+
+<!ENTITY device.name "नाव">
+
+
+
+<!ENTITY device.allow "स्वीकारा">
+
+<!ENTITY device.prompt "विचारा">
+
+<!ENTITY device.deny "नकार करा">
+
+
+
+<!ENTITY device.permissions "परवानगी">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY connection.connecting "जोडणी करत आहे…">
+
+<!ENTITY connection.cancel "रद्द करा">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.valid "वैधता">
+
+
+
+
+
+
+
+
+
+
+
