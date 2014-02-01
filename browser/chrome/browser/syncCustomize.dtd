@@ -5,8 +5,8 @@
 <!ENTITY syncCustomize.dialog.title "Выбор синхронизируемых данных">
 <!ENTITY syncCustomize.acceptButton.label "Начать">
 <!ENTITY syncCustomize.title "Что вы хотите синхронизировать?">
-<!ENTITY syncCustomize.subTitle "Вы можете управлять этим выбором из Настроек.">
-<!ENTITY syncCustomize.subTitleUnix "Вы можете управлять этим выбором из Настроек.">
+<!ENTITY syncCustomize.description "Вы можете управлять этим выбором из Настроек.">
+<!ENTITY syncCustomizeUnix.description "Вы можете управлять этим выбором из Настроек.">
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "а">
 <!ENTITY engine.history.label "История">

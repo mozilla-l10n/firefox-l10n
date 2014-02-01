@@ -41,9 +41,10 @@
 <!ENTITY notSignedIn.label "Вы не вошли.">
 <!ENTITY signIn.label "Войти">
 <!ENTITY manage.label "Управление">
-<!ENTITY unlink.label "Отвязать этот браузер…">
+<!ENTITY disconnect.label "Отсоединить…">
 <!ENTITY verify.label "Подтвердить эл. почту">
 <!ENTITY forget.label "Забыть об этой эл. почте">
 <!ENTITY welcome.description "Доступ к вкладкам, закладкам, паролям и другим данным из любого места, где вы используете &brandShortName;.">
-<!ENTITY welcome.startButton.label "Войти или Создать учётную запись">
+<!ENTITY welcome.signIn.label "Войти">
+<!ENTITY welcome.createAccount.label "Создать учётную запись">
 <!ENTITY welcome.useOldSync.label "Используете старую версию Sync?">
