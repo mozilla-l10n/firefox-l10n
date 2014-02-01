@@ -50,8 +50,8 @@
 
 <!ENTITY crashReporterSection.label      "Pelapor Nahas">
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
-<!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Nahas">
-<!ENTITY enableCrashReporter.accesskey   "N">
+<!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Kerosakan">
+<!ENTITY enableCrashReporter.accesskey   "K">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lagi">
 
 <!ENTITY networkTab.label                "Rangkaian">
