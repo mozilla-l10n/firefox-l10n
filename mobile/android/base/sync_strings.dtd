@@ -4,7 +4,6 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY fxaccountBrand.fullName.label "Firefox account">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
@@ -49,7 +48,7 @@
 <!ENTITY sync.button.cancel.label "Annulla">
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.button.ok.label "OK">
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecato)">
 <!ENTITY bookmarks.folder.menu.label "Menu segnalibri">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etichette">
@@ -72,30 +71,29 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
-<!ENTITY firefox_accounts "Firefox account">
-<!ENTITY firefox_account "Firefox account">
-<!ENTITY fxaccount_checkbox_contentDescription "Grafica casella di controllo Firefox account">
-<!ENTITY fxaccount_icon_contentDescription "Icona di Firefox account">
-<!ENTITY fxaccount_intro_contentDescription "Grafica introduttiva di Firefox account">
-<!ENTITY fxaccount_mail_contentDescription "Grafica busta Firefox account">
+<!ENTITY fxaccount_checkbox_contentDescription2 "Grafica casella di controllo account Firefox">
+<!ENTITY fxaccount_icon_contentDescription2 "Icona account Firefox">
+<!ENTITY fxaccount_intro_contentDescription2 "Grafica introduttiva account Firefox">
+<!ENTITY fxaccount_mail_contentDescription2 "Grafica busta account Firefox">
 <!ENTITY fxaccount_email_hint "Email">
 <!ENTITY fxaccount_password_hint "Password">
 <!ENTITY fxaccount_password_hide "Nascondi">
 <!ENTITY fxaccount_password_show "Mostra">
+<!ENTITY fxaccount_back_to_browsing "Torna alla navigazione">
 <!ENTITY fxaccount_policy_linktos "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_policy_linkprivacy "Informativa sulla privacy">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Benvenuto in &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Accedi per sincronizzare schede, segnalibri, password e altri elementi.">
 <!ENTITY fxaccount_getting_started_get_started "Inizia">
 <!ENTITY fxaccount_getting_started_old_firefox "Stai utilizzando una vecchia versione di &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_sub_header "Crea un account">
+<!ENTITY fxaccount_create_account_header "Crea un account Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deve essere lunga almeno 8 caratteri">
 <!ENTITY fxaccount_create_account_year_of_birth "Anno di nascita">
 <!ENTITY fxaccount_create_account_policy_text "Procedendo si accettano le &formatS1; e l’&formatS2; dei servizi online di Firefox.">
 <!ENTITY fxaccount_create_account_button "Avanti">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Scegli cosa sincronizzare">
 <!ENTITY fxaccount_create_account_sign_in_instead "Possiedi già un account? Accedi">
-<!ENTITY fxaccount_create_account_1950_or_earlier "1950 o prima">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 o prima">
 <!ENTITY fxaccount_create_account_unknown_error "Impossibile creare account">
 <!ENTITY fxaccount_account_create_not_allowed "Impossibile creare account">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Per creare un account bisogna rispettare dei requisiti per l’età.">
@@ -103,21 +101,22 @@
 <!ENTITY fxaccount_confirm_account_header "Conferma account">
 <!ENTITY fxaccount_confirm_account_verification_link "Un link di verifica è stato inviato a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reinvia email">
-<!ENTITY fxaccount_confirm_account_verification_link_sent "Nuovo link di verifica inviato">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent "Impossibile inviare un nuovo link di verifica">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email di verifica inviata">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Impossibile inviare l’email di verifica">
 <!ENTITY fxaccount_sign_in_sub_header "Accedi">
 <!ENTITY fxaccount_sign_in_button_label "Accedi">
 <!ENTITY fxaccount_sign_in_forgot_password "Password dimenticata?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Crea un account">
 <!ENTITY fxaccount_sign_in_unknown_error "Impossibile accedere">
 <!ENTITY fxaccount_account_verified_sub_header "Account verificato">
-<!ENTITY fxaccount_account_verified_description "È ora possibile utilizzare &syncBrand.shortName.label;.">
-<!ENTITY fxaccount_update_credentials_sub_header "Accedi per continuare">
+<!ENTITY fxaccount_account_verified_description2 "La sincronizzazione dei dati inizierà a breve.">
+<!ENTITY fxaccount_update_credentials_header "Accedi">
 <!ENTITY fxaccount_update_credentials_button_label "Accedi">
 <!ENTITY fxaccount_update_credentials_unknown_error "Impossibile accedere">
+<!ENTITY fxaccount_status_header "Account Firefox">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: attivo">
-<!ENTITY fxaccount_status_needs_verification "L’account deve essere verificato. Tocca per procedere con la verifica.">
+<!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
 <!ENTITY fxaccount_status_needs_credentials "Impossibile connettersi. Tocca per accedere.">
 <!ENTITY fxaccount_status_needs_upgrade "È necessario aggiornare &brandShortName; per accedere.">
 <!ENTITY fxaccount_status_bookmarks "Segnalibri">
@@ -125,11 +124,11 @@
 <!ENTITY fxaccount_status_passwords "Password">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
 <!ENTITY fxaccount_status_legal "Note legali">
-<!ENTITY fxaccount_label "&fxaccountBrand.fullName.label;">
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configura &syncBrand.shortName.label;">
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "È necessario aggiornare Firefox">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS "Account già esistente">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Account già esistente. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email o password non validi">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email o password non validi">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Account non verificato">
@@ -137,5 +136,5 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server occupato, riprovare più tardi">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Si è verificato un problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Impossibile accedere alla rete">
-<!ENTITY fxaccount_sync_sign_in_error_notification_title "&syncBrand.fullName.label; non è connesso">
-<!ENTITY fxaccount_sync_sign_in_error_notification_text "Tocca per accedere con &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; non è connesso">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tocca per accedere come &formatS;">
