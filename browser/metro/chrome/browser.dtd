@@ -1,0 +1,107 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+
+
+
+
+
+
+<!ENTITY appbarFindInPage2.label       "पानामध्ये शोधा">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+
+
+
+
+
+
+<!ENTITY downloadOpen2.label       "उघडा">
+<!ENTITY downloadCancel.label      "रद्द करा">
+
+<!ENTITY downloadResume.label      "पुन्हा चालु करा">
+<!ENTITY downloadRetry.label       "पुनःप्रयत्न करा">
+<!ENTITY downloadRemove.label      "काढून टाका">
+
+<!ENTITY downloadFailed.label      "अपयशी">
+
+
+<!ENTITY consoleAll.label          "सर्व">
+<!ENTITY consoleErrors.label       "त्रुटी">
+<!ENTITY consoleWarnings.label     "सावधानता">
+
+
+
+
+<!ENTITY consoleErrFile.label      "स्त्रोत फाइल:">
+<!ENTITY consoleErrLine.label      "ओळ:">
+<!ENTITY consoleErrColumn.label    "रकाना:">
+<!--  TEXT CONTEXT MENU -->
+
+<!ENTITY contextTextCut.label              "कापा">
+<!ENTITY contextTextCopy.label             "प्रत बनवा">
+<!ENTITY contextTextPaste.label            "चिकटवा">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextSelect.label           "निवडा">
+
+<!-- LINK CONTEXT MENU -->
+
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+
+
+<!-- VIDEO CONTEXT MENU -->
+
+
+<!-- KEYBOARD SHORTCUTS -->
+
+<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+
+
+
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+
+
+
+
+
