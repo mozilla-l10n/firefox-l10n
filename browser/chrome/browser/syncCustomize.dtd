@@ -6,8 +6,8 @@
 <!ENTITY syncCustomize.acceptButton.label "Starta">
 
 <!ENTITY syncCustomize.title              "Vad vill du synka?">
-<!ENTITY syncCustomize.subTitle           "Du kan hantera dessa val i Inställningar.">
-<!ENTITY syncCustomize.subTitleUnix       "Du kan hantera dessa val i Inställningar.">
+<!ENTITY syncCustomize.description        "Du kan hantera dessa val i Inställningar.">
+<!ENTITY syncCustomizeUnix.description    "Du kan hantera dessa val i Inställningar.">
 
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
