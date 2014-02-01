@@ -57,10 +57,11 @@
 <!ENTITY notSignedIn.label           "Vous n'êtes pas connecté.">
 <!ENTITY signIn.label                "Connexion">
 <!ENTITY manage.label                "Gérer">
-<!ENTITY unlink.label                "Retirer ce navigateur…">
+<!ENTITY disconnect.label            "Se déconnecter…">
 <!ENTITY verify.label                "Vérifier l'adresse électronique">
 <!ENTITY forget.label                "Oublier cette adresse électronique">
 
 <!ENTITY welcome.description "Accédez à vos onglets, marque-pages, mots de passe et bien plus, quel que soit l'appareil sur lequel vous utilisez &brandShortName;.">
-<!ENTITY welcome.startButton.label "Se connecter ou créer un compte">
+<!ENTITY welcome.signIn.label "Se connecter">
+<!ENTITY welcome.createAccount.label "Créer un compte">
 <!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
