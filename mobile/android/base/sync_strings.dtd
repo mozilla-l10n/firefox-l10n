@@ -169,7 +169,7 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Kontot bekräftat'>
 <!ENTITY fxaccount_account_verified_description2 'Din data kommer snart att börja synkas.'>
 
-<!ENTITY fxaccount_update_credentials_sub_header 'Logga in för att fortsätta'>
+<!ENTITY fxaccount_update_credentials_header 'Logga in'>
 <!ENTITY fxaccount_update_credentials_button_label 'Logga in'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kunde inte logga in'>
 
