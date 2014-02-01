@@ -328,12 +328,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Prispôsobiť">
+<!ENTITY appMenuCustomize.tooltip "Umožní prispôsobiť ponuku a panely s nástrojmi">
 <!ENTITY appMenuCustomizeExit.label "Ukončiť prispôsobenie">
+<!ENTITY appMenuCustomizeExit.tooltip "Ukončí režim prispôsobenia">
 <!ENTITY appMenuHistory.label "História">
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
+<!ENTITY appMenuHelp.tooltip "Otvorí ponuku Pomocník">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
