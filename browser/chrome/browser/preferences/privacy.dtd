@@ -25,7 +25,7 @@
 <!ENTITY  locbar.nothing.label          "Tiada">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
-<!ENTITY  acceptCookies.accesskey       "a">
+<!ENTITY  acceptCookies.accesskey       "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
@@ -47,7 +47,7 @@
 <!ENTITY  showCookies.accesskey         "C">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
-<!ENTITY  historyHeader.pre.accesskey      "a">
+<!ENTITY  historyHeader.pre.accesskey      "k">
 <!ENTITY  historyHeader.remember.label     "Mengingati sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan sendiri untuk sejarah">

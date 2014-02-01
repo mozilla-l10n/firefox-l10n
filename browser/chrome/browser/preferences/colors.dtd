@@ -13,7 +13,7 @@
 <!ENTITY  textColor.label                 "Teks:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Latar:">
-<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  backgroundColor.accesskey       "t">
 <!ENTITY  useSystemColors.label           "Guna warna sistem">
 <!ENTITY  useSystemColors.accesskey       "s">
 
@@ -21,6 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Pautan Warna">
 <!ENTITY  linkColor.label                 "Pautan Belum Dilawat:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "B">
 <!ENTITY  visitedLinkColor.label          "Pautan Dilawat:">
 <!ENTITY  visitedLinkColor.accesskey      "w">
