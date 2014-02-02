@@ -94,7 +94,7 @@
 <!ENTITY col.name.label          "Nume">
 <!ENTITY col.tags.label          "Etichete">
 <!ENTITY col.url.label           "Adresă">
-<!ENTITY col.mostrecentvisit.label "Most Recent Visit">
+<!ENTITY col.lastvisit.label     "Data vizitării">
 <!ENTITY col.visitcount.label    "Nr. de vizite">
 <!ENTITY col.keyword.label       "Cuvânt cheie">
 <!ENTITY col.description.label   "Descriere">
