@@ -290,8 +290,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Carpeta">
 <!ENTITY folderMenu.accesskey "a">
-<!ENTITY thisFolder.label "Esta carpeta">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Pestañas cerradas recientemente">
 <!ENTITY goRecentlyClosedTabs.accesskey "P">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
@@ -354,10 +352,6 @@
 <!ENTITY watchThreadMenu.label "Observar conversación">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Archivar aquí">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY copyHereMenu.label "Copiar aquí">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiquetar">
 <!ENTITY tagMenu.accesskey "u">
 <!ENTITY tagCmd0.key "0">
