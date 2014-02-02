@@ -85,7 +85,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Înregistrare în jurnal">
 <!ENTITY btnPageLogging.tooltip "Jurnal mesaje trimise la obiectul window.console">
-<!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnPageLogging.accesskey "L">
 <!ENTITY btnConsoleErrors       "Erori">
 <!ENTITY btnConsoleInfo         "Informații">
 <!ENTITY btnConsoleWarnings     "Avertismente">
@@ -111,5 +111,5 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY clearOutputCmd.key   "K">
 
