@@ -10,7 +10,7 @@
 <!ENTITY toolboxCloseButton.tooltip  "Luk udviklerværktøjer">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "Ø">
-<!ENTITY toolboxPreviousTool.key       "Å">
+<!ENTITY toolboxPreviousTool.key       "Æ">
 
 <!ENTITY toolboxZoomIn.key             "+">
 <!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
