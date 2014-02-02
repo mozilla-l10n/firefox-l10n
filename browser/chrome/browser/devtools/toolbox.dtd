@@ -130,6 +130,11 @@
 <!ENTITY options.stylesheetSourceMaps.label      "Afficher les sources originales">
 <!ENTITY options.stylesheetSourceMaps.tooltip    "Afficher les sources originales (les fichiers Sass, par exemple) dans l'éditeur de styles et l'inspecteur">
 
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Compléter automatiquement le CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Compléter automatiquement les propriétés, valeurs et sélecteurs CSS dans l'éditeur de style lors de la saisie">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
