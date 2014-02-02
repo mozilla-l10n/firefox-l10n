@@ -4,10 +4,10 @@
 
 
 <!ENTITY crashprompt.title           "Želite li slati Mozilli izvješća o rušenju?">
-
-
-
-
+<!ENTITY crashprompt.message         "Ispričavamo se, ali &brandShortName; se upravo oporavio od rušenja. Slanje izvještaja o rušenju će pomoći Mozilli učiniti &brandShortName; stabilnijim i sigurnijim. Postavke uvijek možete promijeniti u Postavke/Mogućnosti.">
+<!ENTITY crashprompt.detailsLink     "Što sadrži izvještaj rušenja?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Sadržaj rušenja sadrži detalje o rušenju, vašem računalu, kao i snimak stanja vašeg preglednika u trenutku rušenja.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "To može uključivati stvari poput otvorenih stranica, teksta upisanog u obrascu i sadržaj otvorenih poruka, nedavnu povijest pregledavanja ili geolokaciju podijeljenju s web stranicom.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
      These two entities form a single sentence. crashprompt.privacyPolicyLink is a
      clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
@@ -15,8 +15,9 @@
      move "&brandShortName; privacy policy." to the first sentence, and use a
      generic "More information" for the link. These strings will be updated in the
      next version of Firefox. -->
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Izvještaje rušenja koristimo kako bismo ispravili greške i unaprijedili naše proizvode. S vašim informacijama postupamo kao što je opisano u našoj ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; politici privatnosti">
 <!ENTITY crashprompt.includeURLLabel "Uključi adresu stranice na kojoj sam se nalazio">
 <!ENTITY crashprompt.acceptbutton    "Šalji izvješća">
 <!ENTITY crashprompt.refusebutton    "Ne šalji">
-
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; politici privatnosti">
