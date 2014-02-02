@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Page précédente">
 <!ENTITY forward.label         "Page suivante">
 <!ENTITY newtab.label          "Nouvel onglet">
+<!ENTITY newPrivateTab.label   "Nouvel onglet de navigation privée">
 <!ENTITY closetab.label        "Fermer l'onglet">
 
 <!ENTITY autocompleteResultsHeader.label  "Vos résultats">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -130,3 +133,21 @@
 <!ENTITY firstRunHistory.label "Découvrez où vous êtes allé sur le Web">
 <!ENTITY firstRunWelcome.label "Bienvenue dans &brandShortName;">
 <!ENTITY firstRunDifferent.label "Différent par nature">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Appuyez pour revenir à la page précédente">
+<!ENTITY firstRunNewTab.label "Ajoutez un nouvel onglet pour explorer un nouveau site">
+<!ENTITY firstRunStar.label "Utilisez des marque-pages pour mettre de côté des pages pour plus tard">
+<!ENTITY firstRunPin.label "Épinglez des sites à l'écran d'accueil de Windows pour un accès rapide">
+<!ENTITY firstRunGotIt.label "J'ai compris">
