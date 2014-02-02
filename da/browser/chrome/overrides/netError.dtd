@@ -58,7 +58,7 @@
 <!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
-<!ENTITY netOffline.title "Offline-mode">
+<!ENTITY netOffline.title "Offline-tilstand">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
