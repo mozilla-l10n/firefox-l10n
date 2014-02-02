@@ -39,6 +39,10 @@
   Măsurători simple
 ">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">
+
 <!ENTITY aboutTelemetry.lateWritesSection "  
    Scrieri întârziate
 
