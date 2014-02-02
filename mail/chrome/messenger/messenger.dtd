@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Hent/Synkroniser nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Offline indstillinger…">
+<!ENTITY settingsOfflineCmd.label "Offline-indstillinger…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Hent valgte meddelelser">
 <!ENTITY downloadSelectedCmd.accesskey "l">
