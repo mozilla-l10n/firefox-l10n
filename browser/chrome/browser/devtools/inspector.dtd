@@ -13,9 +13,6 @@
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
-<!ENTITY inspectorHTMLEdit.label       "Edit As HTML">
-<!ENTITY inspectorHTMLEdit.accesskey   "E">
-
 <!ENTITY inspectorHTMLCopyInner.label       "Copiază codul HTML din interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "h">
 
