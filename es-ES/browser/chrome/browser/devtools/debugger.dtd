@@ -32,7 +32,7 @@
 <!ENTITY debuggerUI.searchFile.key "P">
 <!ENTITY debuggerUI.searchFile.altkey "Aceptar">
 <!ENTITY debuggerUI.searchFile.accesskey "s">
-<!ENTITY debuggerUI.searchGlobal "Buscar en todos los ficheros">
+<!ENTITY debuggerUI.searchGlobal "Buscar en todos los archivos">
 <!ENTITY debuggerUI.searchGlobal.key "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "u">
 <!ENTITY debuggerUI.searchFunction "Buscar por la definición de la función">

@@ -42,6 +42,8 @@
 <!ENTITY options.styleeditor.label "Editor de estilos">
 <!ENTITY options.stylesheetSourceMaps.label "Mostrar fuentes originales">
 <!ENTITY options.stylesheetSourceMaps.tooltip "Mostrar fuentes originales (p.e., archivos Sass) en el editor y el inspector de estilos">
+<!ENTITY options.stylesheetAutocompletion.label "Autocompletar CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip "Autocompletar propiedades, valores y selectores CSS en el editor de estilos a medida que escribe">
 <!ENTITY options.profiler.label "Analizador JavaScript">
 <!ENTITY options.showPlatformData.label "Mostrar datos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Si activa esta opción los informes del analizador JavaScript incluirán los símbolos de la plataforma Gecko">
