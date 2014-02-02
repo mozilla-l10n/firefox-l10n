@@ -22,6 +22,14 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Această pagină conține informații tehnice care ar putea fi utile atunci când încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune despre &brandShortName;, verificați <a id='supportLink'>saitul nostru pentru asistență</a>.">
 
+<!ENTITY aboutSupport.crashes.title "Crash Reports">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Report ID">
+<!ENTITY aboutSupport.crashes.sendDate "Submitted">
+<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
+<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+
 <!ENTITY aboutSupport.extensionsTitle "Extensii">
 <!ENTITY aboutSupport.extensionName "Nume">
 <!ENTITY aboutSupport.extensionEnabled "Activat">
@@ -46,7 +54,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Module activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Rapoarte de defecte">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
 <!ENTITY aboutSupport.showDir.label "Deschide directorul">
