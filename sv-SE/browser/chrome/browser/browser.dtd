@@ -175,7 +175,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Startsida">
 
 <!ENTITY tabGroupsButton.label        "Flikgrupper">
-<!ENTITY tabGroupsButton.tooltip      "Gruppera dina flikar">
 
 <!ENTITY bookmarksButton.label          "Bokmärken">
 <!ENTITY bookmarksCmd.commandkey        "b">
