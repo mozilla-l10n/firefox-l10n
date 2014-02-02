@@ -1,6 +1,4 @@
-googlemetrofx
-yahoo
 bingmetrofx
-amazondotcom
-wikipediaro
-eBay
+googlemetrofx
+wikipediametrofx
+yahoometrofx
