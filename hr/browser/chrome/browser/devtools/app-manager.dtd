@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Otklanjanje grešaka">
 <!ENTITY device.debugAppTooltip "Otvori alate za razvijatelje koji su povezani s ovom aplikacijom na uređaju.">
 <!ENTITY device.name "Naziv">
-
+<!ENTITY device.plain "Obično (zadano)">
 <!ENTITY device.privileged "Povlaštena">
 <!ENTITY device.certified "Certificirana">
 <!ENTITY device.allow "Dozvoli">
@@ -44,7 +44,7 @@
 <!ENTITY connection.changeHostAndPortTooltip "Promijenite adresu i ulaz poslužitelja koji se koristi za povezivanje na uređaj (prema zadanim postavkama to je localhost:6000).">
 <!ENTITY connection.startSimulator "Pokreni Simulator">
 <!ENTITY connection.startSimulatorTooltip "Pokreće instancu Simulatora i povezuje se na njega.">
-
+<!ENTITY connection.saveConnectionInfo "Spremi">
 <!ENTITY connection.saveConnectionInfoTooltip "Sprema adresu i ulaz poslužitelja.">
 <!ENTITY connection.connecting "Povezivanje…">
 <!ENTITY connection.disconnecting "Prekidanje veze…">
@@ -72,8 +72,8 @@
 <!ENTITY projects.updateAppTooltip "Izvršava provjere i ažurira aplikaciju na povezanom uređaju">
 <!ENTITY projects.debugApp "Debug">
 <!ENTITY projects.debugAppTooltip "Otvara alate za razvijatelje povezane s ovom aplikacijom">
-
-
+<!ENTITY projects.saveManifest "Spremi">
+<!ENTITY projects.saveManifestTooltip "Spremi sadržaj uređivača manifesta.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nema projekta. Dodajte novu zapakiranu aplikaciju ispod (lokalni direktorij) ili hostanu aplikaciju (poveznica do manifest datoteke).">
 <!ENTITY projects.manifestEditor "Uređivač manifesta">
@@ -82,7 +82,7 @@
 <!ENTITY projects.manifestViewerTooltip "Ispitajte manifest svoje aplikacije u okviru ispod.">
 <!ENTITY projects.valid "Vrijedi">
 <!ENTITY projects.error "Greška">
-
+<!ENTITY projects.warning "Upozorenje">
 
 <!ENTITY help.title "App Manager">
 <!ENTITY help.close "Zatvori">

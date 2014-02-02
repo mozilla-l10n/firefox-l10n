@@ -16,9 +16,9 @@
 <!ENTITY appbarErrorConsole.label      "Otvori konzolu grešaka">
 <!ENTITY appbarJSShell.label           "Otvori JavaScript shell">
 <!ENTITY appbarFindInPage2.label       "Pronađi na stranici">
-
+<!ENTITY appbarRelaunchInDesktop.label "Ponovno pokreni u Desktop inačici">
 <!ENTITY appbarMSMetaData2.label       "Nabavite aplikaciju za ovu stranicu">
-
+<!ENTITY appbarViewPageSource.label    "Prikaži izvorni kôd stranice">
 
 <!ENTITY topSitesHeader.label        "Najpopularnije">
 <!ENTITY bookmarksHeader.label       "Zabilješke">
@@ -123,8 +123,10 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Tražite vaše kartice? Samo povucite prema dolje ili kliknite desnom tipkom miša">
+<!ENTITY firstRunTopSites.label "Odite na stranice koje najčešće posjećujete">
+<!ENTITY firstRunBookmarks.label "Pronađite stranice koje ste spremili za kasniji pregled">
+<!ENTITY firstRunMenu.label "Pristupite dodatnim mogućnostima i opcijama">
+<!ENTITY firstRunHistory.label "Pogledajte gdje ste bili na webu">
+<!ENTITY firstRunWelcome.label "Dobrodošli u &brandShortName;">
+<!ENTITY firstRunDifferent.label "Drugačiji s razlogom">
