@@ -52,14 +52,10 @@
 
 <!ENTITY certmgr.editcert.title               "Editare parametri certificat securitate">
 <!ENTITY certmgr.editcacert.title             "Editare parametri credit certificat AC">
-<!ENTITY certmgr.editsslcert.title            "Editare parametri credit certificat sait web">
 <!ENTITY certmgr.editcert.edittrust           "Editare parametri credit:">
 <!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica saituri web.">
 <!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Acest certificat poate identifica creatori de software.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editare parametri credit certificat:">
-<!ENTITY certmgr.editsslcert.dotrust          "Acreditează autenticitatea acestui certificat.">
-<!ENTITY certmgr.editsslcert.donttrust        "Nu acorda încredere în autenticitatea acestui certificat.">
 <!ENTITY certmgr.editemailcert.title          "Editare parametri credit certificat email">
 <!ENTITY certmgr.editemailcert.edittrust      "Editare parametri credit certificat:">
 <!ENTITY certmgr.editemailcert.dotrust        "Acreditează autenticitatea acestui certificat.">
