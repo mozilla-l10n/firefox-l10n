@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Posreduj medvrstično">
 <!ENTITY buttonMenuForwardAsAttachment.label "Posreduj kot prilogo">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži oddaljeno vsebino tega sporočila">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "P">
+<!ENTITY remoteContentOptionAllowForAddress.label "Prikaži oddaljeno vsebino tega pošiljatelja">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "T">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Prezri opozorilo za to sporočilo">
+<!ENTITY phishingOptionIgnore.accesskey "r">
+<!ENTITY phishingOptionDisableDetection.label "Onemogoči zaznavanje prevar za vsa sporočila">
+<!ENTITY phishingOptionDisableDetection.accesskey "O">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
 <!ENTITY appmenuNewContactCmd.label "Stik iz imenika …">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "m">
 <!ENTITY contextUnmute.label "Glasno">
 <!ENTITY contextUnmute.accesskey "G">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; misli, da je to sporočilo smeti.">
-<!ENTITY junkBarButton1.label "Niso smeti">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Da zaščiti vaše zasebnost, je &brandShortName; v tem sporočilu preprečil prikaz spletne vsebine.">
-<!ENTITY loadRemoteContentButton3.label "Pokaži spletno vsebino">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "To sporočilo je morda prevara.">
-<!ENTITY removePhishingBarButton1.label "Prezri opozorilo">
-<!ENTITY disablePhishingWarning1.label "Onemogoči odkrivanje prevare za vsa sporočila">
-<!ENTITY reportPhishingError1.label "Za to sporočilo ni videti, da bi bilo prevara.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Prezri">
-<!ENTITY mdnBarIgnoreButton2.accesskey "i">
-<!ENTITY mdnBarSendButton2.label "Pošlji povratnico">
-<!ENTITY mdnBarSendButton2.accesskey "P">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
