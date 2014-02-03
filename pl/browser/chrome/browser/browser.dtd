@@ -751,4 +751,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardItem.title "Wstecz/Do przodu">
 <!ENTITY viewBookmarksSidebar.label "Wyświetl w panelu bocznym">
 <!ENTITY bookmarksItem.title "Zakładki">
+<!ENTITY openLocationCmd.label "Otwórz adres…">
+<!ENTITY openLocationCmd.accesskey "a">
+<!ENTITY bookmarksMenuButton.tooltip "Wyświetl zakładki">
+<!ENTITY switchToMetroCmd2.label "Przejdź do programu &brandShortName; w stylu Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip "Pogrupuj karty">
 <!-- end of strings to be removed post-Australis -->
