@@ -7,6 +7,7 @@
 
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "O &brandShortName; não guardará o histórico desta página.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Atualmente não está numa janela privada.">
+
 <!ENTITY privatebrowsingpage.perwindow.description     	"Numa janela de navegação privada, o &brandShortName; não guarda o histórico de navegação, pesquisa, transferências, formulários web, cookies ou ficheiros temporários. No entanto, os ficheiros que transferir e os marcadores que criar serão mantidos.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label 	"Abrir uma janela privada">
@@ -18,3 +19,8 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Apesar de não ser mantido o histórico, o seu fornecedor de serviços ou o empregador podem monitorizar as páginas acedidas.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saber mais">
+
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "Para iniciar a navegação privada, também pode selecionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">

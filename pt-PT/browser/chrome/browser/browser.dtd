@@ -367,12 +367,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey 			  "a">
 <!ENTITY urlbar.switchToTab.label 	  "Mudar para o separador:">
 
-
-
-
-
-
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -739,6 +733,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Reportar este erro à &vendorShortName; para que o possam corrigir.">
 <!ENTITY tabCrashed.tryAgain "Tentar novamente">
 
+<!ENTITY uiTour.infoPanel.close "Fechar">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -776,5 +772,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardItem.title         	"Avançar/Recuar">
 <!ENTITY viewBookmarksSidebar.label    	"Mostrar na barra lateral">
 <!ENTITY bookmarksItem.title           	"Marcadores">
+<!ENTITY openLocationCmd.label         "Abrir local…">
+<!ENTITY openLocationCmd.accesskey     "l">
+<!ENTITY bookmarksMenuButton.tooltip   "Mostra os seus marcadores">
+<!ENTITY switchToMetroCmd2.label       "Relançar o &brandShortName; para o Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip       "Agrupar os seus separadores">
 <!-- end of strings to be removed post-Australis -->
 
