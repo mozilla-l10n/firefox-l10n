@@ -129,7 +129,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Zakładki" >
 <!ENTITY bookmarksMenu.accesskey "Z" >
-<!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę…" >
+<!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę" >
+<!ENTITY editThisBookmarkCmd.label "Edytuj zakładkę">
 <!ENTITY bookmarkThisPageCmd.commandkey "d" >
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Udostępnij tę stronę">
