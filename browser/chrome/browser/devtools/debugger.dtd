@@ -64,7 +64,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions           "Paŭzigi ĉe esceptoj">
+<!ENTITY debuggerUI.pauseExceptions           "Paŭzi ĉe esceptoj">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
@@ -138,7 +138,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables           "Enfokusigi la arbon de variaĵoj">
+<!ENTITY debuggerUI.focusVariables           "Enfokusigi la arbon de variantoj">
 <!ENTITY debuggerUI.focusVariables.key       "v">
 <!ENTITY debuggerUI.focusVariables.accesskey "a">
 
