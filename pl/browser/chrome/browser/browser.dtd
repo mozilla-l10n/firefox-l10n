@@ -96,9 +96,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
-<!ENTITY fxaSignIn.label "Zaloguj się do Sync"><!-- FIXME -->
-<!ENTITY syncPanel.descriptionSyncing "Synchronizacja danych programu &brandShortName; w toku.">
-<!ENTITY syncPanel.descriptionPrefs "Ustawienia synchronizacji można zmieniać w preferencjach.">
+<!ENTITY fxaSignIn.label "Zaloguj się do &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.title "Synchronizacja danych programu &brandShortName; w toku.">
+<!ENTITY syncStartPanel.subTitle "Ustawienia &syncBrand.shortName.label; można zmieniać w opcjach.">
+<!ENTITY syncStartPanel.subTitleUnix "Ustawienia &syncBrand.shortName.label; można zmieniać w preferencjach.">
+<!ENTITY syncErrorPanel.title "Nie można połączyć się z &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Zaloguj się, aby wznowić synchronizację.">
+<!ENTITY syncErrorPanel.prefButton.label "Opcje">
+<!ENTITY syncErrorPanel.prefButton.accesskey "O">
+<!ENTITY syncErrorPanel.prefButtonUnix.label "Preferencje">
+<!ENTITY syncErrorPanel.prefButtonUnix.accesskey "P">
+<!ENTITY syncErrorPanel.signInButton.label "Zaloguj się">
+<!ENTITY syncErrorPanel.signInButton.accesskey "Z">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
