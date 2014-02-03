@@ -4,7 +4,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1 "• Fare clic sul">
 <!ENTITY netmonitorUI.perfNotice2 "pulsante per avviare l’analisi delle prestazioni.">
-<!ENTITY netmonitorUI.emptyNotice3 "• Invia una richiesta o ricarica la pagina per visualizzare informazioni dettagliate sull’attività di rete.">
+<!ENTITY netmonitorUI.emptyNotice3 "• Inviare una richiesta o ricaricare la pagina per visualizzare informazioni dettagliate sull’attività di rete.">
 <!ENTITY netmonitorUI.toolbar.status2 "✓">
 <!ENTITY netmonitorUI.toolbar.method "Metodo">
 <!ENTITY netmonitorUI.toolbar.file "File">
