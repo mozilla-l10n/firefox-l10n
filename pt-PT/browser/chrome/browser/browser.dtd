@@ -15,7 +15,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privada)">
 
-<!ENTITY appmenu.title                       "Personalizar e controlar o &brandFullName;">
 <!ENTITY navbarOverflow.label                "Mais ferramentas…">
 
 <!-- Tab context menu -->
@@ -101,7 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Fechar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de ferramentas">
 <!ENTITY fullScreenAutohide.accesskey "e">
-<!ENTITY fullScreenExit.label "Sair do ´modo de ecrã completo">
+<!ENTITY fullScreenExit.label "Sair do modo de ecrã completo">
 <!ENTITY fullScreenExit.accesskey "i">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Recusar">
@@ -321,28 +320,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomizeExit.label "Sair da personalização">
-<!ENTITY appMenuHistory.label "Histórico">
-<!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
-<!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
-<!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
-
-<!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
-<!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Adicionar ao Menu">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Mover para a barra de ferramentas">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "M">
-<!ENTITY customizeMenu.moveToPanel.label "Mover para o Menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "M">
-<!ENTITY customizeMenu.removeFromToolbar.label "Remover da barra de ferramentas">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Remover do Menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "A">
-
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Procurar ou introduzir endereço">
 <!ENTITY urlbar.accesskey "a">
@@ -351,8 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
      toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
      and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
-<!ENTITY toggleMenuPanel.key          "m">
-<!ENTITY toggleMenuPanelMac.key       "m">
+
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -669,11 +645,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu e barra de ferramentas">
-<!ENTITY customizeMode.menuAndToolbars.header "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
-<!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">
-
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">
 <!ENTITY social.chatBar.accesskey "c">
@@ -753,5 +724,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardItem.title         "Avançar/Retroceder">
 <!ENTITY viewBookmarksSidebar.label    "Mostrar na barra lateral">
 <!ENTITY bookmarksItem.title           "Marcadores">
+<!ENTITY openLocationCmd.label         "Abrir local…">
+<!ENTITY openLocationCmd.accesskey     "l">
+<!ENTITY bookmarksMenuButton.tooltip   "Mostra os seus marcadores">
+<!ENTITY switchToMetroCmd2.label       "Relançar o &brandShortName; para o Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip       "Agrupar os seus separadores">
 <!-- end of strings to be removed post-Australis -->
 
