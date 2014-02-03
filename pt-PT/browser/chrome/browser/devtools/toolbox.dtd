@@ -61,25 +61,25 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label3   "Ativar depuração chrome">
-<!ENTITY options.enableChrome.tooltip  "Ao ativar esta opção permite usar várias ferramentas de programação no contexto do navegador">
+<!ENTITY options.enableChrome.tooltip  "Se ativar esta opção pode utilizar várias ferramentas de programação no contexto do navegador">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ativar depuração remota">
-<!ENTITY options.enableRemote.tooltip  "Ao ativar esta opção permite usar as ferramentas de programação para depurar remotamente as instâncias Firefox">
+<!ENTITY options.enableRemote.tooltip  	"Se ativar esta opção pode utilizar as ferramentas de programação para depurar remotamente as instâncias Firefox">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Desativar JavaScript">
-<!ENTITY options.disableJavaScript.tooltip   "Ao ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
+<!ENTITY options.disableJavaScript.tooltip   "Se ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
 
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 <!ENTITY options.disableCache.label     "Desativar Cache *">
-<!ENTITY options.disableCache.tooltip   "Ativar esta opção desativará a cache no separador atual. Se o separador ou a caixa de ferramentas for fechado então esta definição será esquecida.">
+<!ENTITY options.disableCache.tooltip   "Se ativar esta opção desativará a cache no separador atual. Se o separador ou a caixa de ferramentas for fechado então esta definição será esquecida.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -100,7 +100,7 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "Escolha o tema  DevTools:">
+<!ENTITY options.selectDevToolsTheme.label   "Escolha o tema DevTools:">
 <!ENTITY options.darkTheme.label             "Tema escuro">
 <!ENTITY options.lightTheme.label            "Tema claro">
 
@@ -113,7 +113,7 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Ativar registos permanentes">
-<!ENTITY options.enablePersistentLogging.tooltip  "AO ativar esta opção a consola web não limpa a saída de cada vez que navega para uma nova página">
+<!ENTITY options.enablePersistentLogging.tooltip  "Se ativar esta opção a consola web não limpa a saída de cada vez que navega para uma nova página">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
@@ -129,6 +129,10 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Mostrar fontes originais">
 <!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar fontes originais (ex. ficheiros Sass) no editor de estilos e no Inspector">
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Completar CSS automaticamente">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Completa automaticamente as propriedades CSS, os valores e os seletores no editor de estilos assim que forme escritos">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
