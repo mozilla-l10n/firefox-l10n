@@ -33,7 +33,7 @@
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
 <!ENTITY fxaPrivacyNotice.link.label "Уведомление о приватности">
-<!ENTITY determiningStatus.label "Определяю статус вашей Учётной записи Firefox…">
+<!ENTITY determiningAcctStatus.label "Определение статуса вашей учетной записи…">
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "не подтверждён.">
 <!ENTITY signedInLoginFailure.beforename.label "Войдите для повтора соединения с">

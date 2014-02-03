@@ -137,7 +137,6 @@
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
-<!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
@@ -559,3 +558,8 @@
 <!ENTITY backForwardItem.title "Назад/Вперёд">
 <!ENTITY viewBookmarksSidebar.label "Показать в боковой панели">
 <!ENTITY bookmarksItem.title "Закладки">
+<!ENTITY openLocationCmd.label "Открыть адрес…">
+<!ENTITY openLocationCmd.accesskey "ы">
+<!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
+<!ENTITY switchToMetroCmd2.label "Перезапустить &brandShortName; в стиле Windows 8">
+<!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
