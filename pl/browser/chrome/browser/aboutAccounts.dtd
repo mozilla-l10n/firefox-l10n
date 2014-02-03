@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccountsSetup.description "Zaloguj się, by synchornizować i robić kopie zapasowe kart, zakładek i innych rzeczy.">
+<!ENTITY aboutAccounts.pageTitle "Synchronizacja">
+<!ENTITY aboutAccountsSetup.description "Zaloguj się, by synchornizować karty, zakładki i inne rzeczy.">
 <!ENTITY aboutAccountsSetup.startButton.label "Konfiguruj">
-<!ENTITY aboutAccountsSetup.useOldSync.label "Używasz synchronizacji na starszej wersji programu &brandShortName;?">
+<!ENTITY aboutAccountsSetup.useOldSync.label "Używasz starszej wersji synchornizacji?">
