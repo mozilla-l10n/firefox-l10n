@@ -6,8 +6,8 @@
 <!ENTITY syncCustomize.acceptButton.label "Rozpocznij">
 
 <!ENTITY syncCustomize.title "Wybór rzeczy do synchronizacji">
-<!ENTITY syncCustomize.subTitle "Ustawienia synchronizacji można zmieniać w opcjach.">
-<!ENTITY syncCustomize.subTitleUnix "Ustawienia synchronizacji można zmieniać w preferencjach.">
+<!ENTITY syncCustomize.description "Ustawienia synchronizacji można zmieniać w opcjach.">
+<!ENTITY syncCustomizeUnix.description "Ustawienia synchronizacji można zmieniać w preferencjach.">
 
 <!ENTITY engine.bookmarks.label "Zakładki">
 <!ENTITY engine.bookmarks.accesskey "Z">

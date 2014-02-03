@@ -56,10 +56,11 @@
 <!ENTITY notSignedIn.label "Nie zalogowano">
 <!ENTITY signIn.label "Zaloguj">
 <!ENTITY manage.label "Zarządzaj">
-<!ENTITY unlink.label "Usuń tę przeglądarkę z synchronizowanych…">
+<!ENTITY disconnect.label "Rozłącz…">
 <!ENTITY verify.label "Zweryfikuj adres e-mail">
 <!ENTITY forget.label "Usuń adres e-mail">
 
 <!ENTITY welcome.description "Uzyskaj dostęp do kart, zakładek, haseł i innych rzeczy gdziekolwiek korzystasz z programu &brandShortName;.">
-<!ENTITY welcome.startButton.label "Zaloguj się lub utwórz konto">
+<!ENTITY welcome.signIn.label "Zaloguj się">
+<!ENTITY welcome.createAccount.label "Utwórz konto">
 <!ENTITY welcome.useOldSync.label "Używasz starszej wersji synchronizacji?">
