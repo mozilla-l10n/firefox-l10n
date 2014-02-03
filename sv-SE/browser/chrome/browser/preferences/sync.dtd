@@ -48,7 +48,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Integritetsinfo">
-<!ENTITY determiningStatus.label     "Undersöker status för ditt Firefox-konto…">
+<!ENTITY determiningAcctStatus.label "Undersöker status för ditt konto…">
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "är inte verifierat.">
 
