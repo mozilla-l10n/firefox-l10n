@@ -6,8 +6,8 @@
 <!ENTITY syncCustomize.acceptButton.label "Komenci">
 
 <!ENTITY syncCustomize.title              "Kion vi ŝatus speguli?">
-<!ENTITY syncCustomize.subTitle           "Vi povas ŝanĝi tiun ĉi elekton en Elektebloj.">
-<!ENTITY syncCustomize.subTitleUnix       "Vi povas ŝanĝi tiun ĉi elekton en Preferoj.">
+<!ENTITY syncCustomize.description        "Vi povas ŝanĝi tiun ĉi elekton en Elektebloj.">
+<!ENTITY syncCustomizeUnix.description    "Vi povas ŝanĝi tiun ĉi elekton en Preferoj.">
 
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
