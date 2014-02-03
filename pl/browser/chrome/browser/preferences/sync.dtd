@@ -46,7 +46,7 @@
 
 
 <!ENTITY fxaPrivacyNotice.link.label "Uwagi dotyczące prywatności">
-<!ENTITY determiningStatus.label "Uzyskiwanie informacji o stanie konta…">
+<!ENTITY determiningAcctStatus.label "Uzyskiwanie informacji o stanie konta…">
 
 <!ENTITY signedInUnverified.beforename.label "Konto">
 <!ENTITY signedInUnverified.aftername.label "nie zostało zweryfikowane.">
