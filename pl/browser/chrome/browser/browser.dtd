@@ -331,12 +331,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Dostosuj">
+<!ENTITY appMenuCustomize.tooltip "Dostosuj menu i paski narzędzi">
 <!ENTITY appMenuCustomizeExit.label "Zakończ dostosowywanie">
+<!ENTITY appMenuCustomizeExit.tooltip "Zakończ dostosowywanie">
 <!ENTITY appMenuHistory.label "Historia">
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 <!ENTITY appMenuHistory.viewSidebar.label "Wyświetl historię w panelu bocznym">
+<!ENTITY appMenuHelp.tooltip "Otwórz menu pomoc">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
