@@ -19,3 +19,8 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Även om det inte kommer att sparas någon information om din webbläsarhistorik på din dator kan din internetleverantör eller arbetsgivare ändå spåra vilka sidor du besöker.">
 <!ENTITY privatebrowsingpage.learnMore                 "Mer info">
+
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "För att starta privat surfning kan du även välja &basePBMenu.label; &gt; &newPrivateWindow.label;.">
