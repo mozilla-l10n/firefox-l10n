@@ -174,7 +174,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Strona startowa" >
 
 <!ENTITY tabGroupsButton.label        "Grupy kart">
-<!ENTITY tabGroupsButton.tooltip      "Pogrupuj karty">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksCmd.commandkey        "b">
