@@ -21,6 +21,9 @@
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY redoCmd.key "Z">
+<!ENTITY showHideSidebarCmd.key "S">
+<!ENTITY toggleFolderPaneCmd.key "S">
+<!ENTITY toggleDirectoryPaneCmd.key "S">
 <!ENTITY historyCmd.key "C">
 <!ENTITY findTypeTextCmd.key "">
 <!ENTITY findTypeLinksCmd.key "">
