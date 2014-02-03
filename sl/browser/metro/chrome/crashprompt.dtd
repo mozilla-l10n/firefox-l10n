@@ -1,0 +1,23 @@
+ <!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Želite Mozilli pošiljati poročila o sesutju?">
+<!ENTITY crashprompt.message         "&brandShortName; si je pravkar opomogel po sesutju. Če pošljete poročilo o sesutju Mozilli, boste pripomogli k bolj stabilnemu in varnemu &brandShortName;u. Svoje nastavitve lahko kadarkoli spremenite.">
+<!ENTITY crashprompt.detailsLink     "Kaj vsebuje poročilo o sesutju?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Poročilo o sesutju vsebuje nekaj podrobnosti o sesutju in vaši napravi, pa tudi posnetek stanja brskalnika, ko se je sesul.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "To lahko vključuje odprte strani, besedilo, vneseno v obrazce, vsebino odprtih sporočil, nedavno zgodovino brskanja in geolokacijske podatke, ki ste jih objavili na odprtih straneh.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Poročila o sesutju uporabljamo za popravilo napak in izboljšave naših izdelkov. Za vaše podatke skrbimo v skladu s ">
+<!ENTITY crashprompt.privacyPolicyLink "politiko zasebnosti &brandShortName;a">
+<!ENTITY crashprompt.includeURLLabel "Vključi naslov strani, ki sem jo obiskal">
+<!ENTITY crashprompt.acceptbutton    "Pošiljaj poročila">
+<!ENTITY crashprompt.refusebutton    "Ne pošiljaj">
+<!ENTITY crashprompt.privacyPolicy.title "Politika zasebnosti &brandShortName;a">

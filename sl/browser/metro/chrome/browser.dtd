@@ -16,8 +16,9 @@
 <!ENTITY appbarErrorConsole.label   "Odpri konzolo napak">
 <!ENTITY appbarJSShell.label        "Odpri lupino JavaScripta">
 <!ENTITY appbarFindInPage2.label    "Najdi na strani">
-<!ENTITY appbarViewOnDesktop2.label "Prikaži na namizju">
+<!ENTITY appbarRelaunchInDesktop.label "Ponovno zaženi na namizju">
 <!ENTITY appbarMSMetaData2.label    "Prenesi aplikacijo za to stran">
+<!ENTITY appbarViewPageSource.label    "Pokaži izvorno kodo strani">
 
 <!ENTITY topSitesHeader.label        "Glavna mesta">
 <!ENTITY bookmarksHeader.label       "Zaznamki">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Iščete zavihke? Potegnite navzdol ali desno kliknite">
+<!ENTITY firstRunTopSites.label "Obiščite najbolj priljubljene strani">
+<!ENTITY firstRunBookmarks.label "Poiščite strani, ki ste jih shranili">
+<!ENTITY firstRunMenu.label "Dodatne možnosti in zmogljivosti">
+<!ENTITY firstRunHistory.label "Oglejte si, kje na spletu ste že bili">
+<!ENTITY firstRunWelcome.label "Pozdravljeni v &brandShortName;u">
+<!ENTITY firstRunDifferent.label "Drugačen z razlogom">
