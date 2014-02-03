@@ -38,3 +38,8 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Меню приложения">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Показать меню &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Панель календаря">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "к">
+<!ENTITY lightning.toolbar.calendarpane.label        "Показать панель календаря">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "П">
+

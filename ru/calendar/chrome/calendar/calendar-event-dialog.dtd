@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Проверка орфографии">
 <!ENTITY  event.toolbar.privacy.label                     "Приватность">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Сохранить и закрыть">
+<!ENTITY  event.toolbar.delete.tooltip                    "Удалить">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Пригласить участников">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Проверка орфографии">
+<!ENTITY  event.toolbar.attachments.tooltip               "Добавить вложение">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Изменить приватность">
+<!ENTITY  event.toolbar.priority.tooltip                  "Изменить приоритет">
+<!ENTITY  event.toolbar.status.tooltip                    "Изменить состояние">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Изменить время свободен/занят">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Название:" >
 <!ENTITY event.title.textbox.accesskey                    "з">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Настроить…" >
 
 <!ENTITY event.reminder.multiple.label                    "Множественные напоминания…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Время как:">
+<!ENTITY event.statusbarpanel.privacy.label               "Приватность:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Изменить повторения">
@@ -363,3 +376,4 @@
 <!ENTITY read.only.description.label     "Описание">
 <!ENTITY read.only.documents.label       "Документы">
 <!ENTITY read.only.link.label            "Связанная ссылка">
+
