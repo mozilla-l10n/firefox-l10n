@@ -561,6 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY quitApplicationCmdWin.label     "Zakończ" >
 <!ENTITY quitApplicationCmdWin.accesskey "k" >
+<!ENTITY quitApplicationCmdWin.tooltip "Zakończ program &brandShortName;">
 <!ENTITY goBackCmd.commandKey           "[" >
 <!ENTITY goForwardCmd.commandKey        "]" >
 <!ENTITY quitApplicationCmd.label       "Zakończ" >
