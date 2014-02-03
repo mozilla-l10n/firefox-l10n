@@ -137,7 +137,6 @@
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY tabGroupsButton.label "Gruppi di schede">
-<!ENTITY tabGroupsButton.tooltip "Raggruppa le schede">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
@@ -559,7 +558,8 @@
 <!ENTITY backForwardItem.title "Indietro/Avanti">
 <!ENTITY viewBookmarksSidebar.label "Visualizza nella barra laterale">
 <!ENTITY bookmarksItem.title "Segnalibri">
-<!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
 <!ENTITY openLocationCmd.label "Apri indirizzo…">
 <!ENTITY openLocationCmd.accesskey "r">
+<!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
 <!ENTITY switchToMetroCmd2.label "Riavvia &brandShortName; in modalità Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip "Raggruppa le schede">
