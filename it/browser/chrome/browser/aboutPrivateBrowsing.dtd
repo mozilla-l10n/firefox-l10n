@@ -13,3 +13,4 @@
 <!ENTITY privatebrowsingpage.howToStop3 "Per interrompere la Navigazione anonima è sufficiente chiudere la finestra.">
 <!ENTITY privatebrowsingpage.moreInfo "Anche se questo computer non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY privatebrowsingpage.learnMore "Ulteriori informazioni">
+<!ENTITY privatebrowsingpage.howToStart3 "È possibile avviare la Navigazione anonima anche selezionando &basePBMenu.label; &gt; &newPrivateWindow.label;.">

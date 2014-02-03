@@ -559,3 +559,7 @@
 <!ENTITY backForwardItem.title "Indietro/Avanti">
 <!ENTITY viewBookmarksSidebar.label "Visualizza nella barra laterale">
 <!ENTITY bookmarksItem.title "Segnalibri">
+<!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
+<!ENTITY openLocationCmd.label "Apri indirizzo…">
+<!ENTITY openLocationCmd.accesskey "r">
+<!ENTITY switchToMetroCmd2.label "Riavvia &brandShortName; in modalità Windows 8 Touch">
