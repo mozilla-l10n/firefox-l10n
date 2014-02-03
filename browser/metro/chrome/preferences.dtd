@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Poročevalec o sesutju">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; pošilja poročila o sesutju Mozilli, da lahko naredi brskalnik bolj varen in zanesljiv">
-<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
-<!ENTITY optionsHeader.telemetry.label                            "Pošilja statistične podatke o uporabi &brandShortName;a Mozilli, da lahko naredi vaš brskalnik boljši">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Vključi naslov strani, ki sem jo obiskal">
+<!ENTITY optionsHeader.telemetry.title                           "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                           "Pošilja statistične podatke o uporabi &brandShortName;a Mozilli, da lahko naredi vaš brskalnik boljši">
