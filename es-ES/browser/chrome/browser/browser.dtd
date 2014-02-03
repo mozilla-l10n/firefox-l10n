@@ -558,3 +558,8 @@
 <!ENTITY backForwardItem.title "Atrás/Adelante">
 <!ENTITY viewBookmarksSidebar.label "Mostrar en la barra lateral">
 <!ENTITY bookmarksItem.title "Marcadores">
+<!ENTITY openLocationCmd.label "Abrir dirección…">
+<!ENTITY openLocationCmd.accesskey "">
+<!ENTITY bookmarksMenuButton.tooltip "Mostrar sus marcadores">
+<!ENTITY switchToMetroCmd2.label "Relanzar en &brandShortName; para Windows 8 táctil">
+<!ENTITY tabGroupsButton.tooltip "Agrupe sus pestañas">
