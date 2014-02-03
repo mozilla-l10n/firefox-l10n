@@ -677,6 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
 <!ENTITY customizeMode.toolbars "Pokaż/ukryj paski narzędzi">
+<!ENTITY customizeMode.titlebar "Pasek tytułu">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Przenieś zaznaczenie do czatów">
