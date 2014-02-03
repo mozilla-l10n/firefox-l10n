@@ -179,7 +179,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
-<!ENTITY bookmarksMenuButton.tooltip        "Wyświetl zakładki">
 <!ENTITY bookmarksMenuButton.unsorted.label "Zakładki nieprzypisane">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
