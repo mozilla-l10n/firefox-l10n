@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Kör markerade filter på:">
 <!ENTITY folderPickerPrefix.accesskey "å">
-<!ENTITY choosethis.label "välj denna mapp">
-<!ENTITY choosethisnewsserver.label "välj denna diskussionsgrupp-server">
 <!ENTITY helpButton.label "Hjälp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

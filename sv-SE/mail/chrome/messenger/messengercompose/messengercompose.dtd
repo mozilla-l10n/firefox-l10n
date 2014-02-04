@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Bifoga">
 <!ENTITY spellingButton.label "Stavning">
 <!ENTITY saveButton.label "Spara">
+<!ENTITY printButton.label "Skriv ut">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Skickar meddelandet nu"> 
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopiera">
 <!ENTITY pasteButton.tooltip            "Klistra in">
+<!ENTITY printButton.tooltip "Skriv ut det här meddelandet">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

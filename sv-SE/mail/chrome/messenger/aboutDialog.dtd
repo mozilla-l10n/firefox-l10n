@@ -1,5 +1,18 @@
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
 
+
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Sök efter uppdateringar">
+<!ENTITY update.checkForUpdatesButton.accesskey   "S">
+<!ENTITY update.updateButton.label                "Starta om för att uppdatera">
+<!ENTITY update.updateButton.accesskey            "o">
+<!ENTITY update.applyButtonBillboard.label        "Tillämpa uppdatering…">
+<!ENTITY update.applyButtonBillboard.accesskey    "T">
+
 <!ENTITY community.start2           "&brandShortName; är skapad av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
@@ -24,8 +37,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Söker efter uppdateringar…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Kontrollerar om tilläggen är kompatibla…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; är redan uppdaterad">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
