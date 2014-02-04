@@ -131,15 +131,12 @@ labels. -->
 <!ENTITY fxaccount_password_hide 'Ukryj'>
 <!ENTITY fxaccount_password_show 'Pokaż'>
 
-<!ENTITY fxaccount_link_tos 'https://accounts.firefox.com/legal/terms'>
-<!ENTITY fxaccount_link_pn 'https://accounts.firefox.com/legal/privacy'>
 <!ENTITY fxaccount_policy_linktos 'Warunki użytkowania'>
 <!ENTITY fxaccount_policy_linkprivacy 'Politykę prywatności'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Witaj w usłudze &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description 'Zarejestruj się i synchronizuj swoje karty, zakładki, hasła i więcej.'>
 <!ENTITY fxaccount_getting_started_get_started 'Pierwsze kroki'>
-<!ENTITY fxaccount_getting_started_link_old_firefox 'https://support.mozilla.org/kb/use-sync-with-an-older-version-of-firefox'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_create_account_sub_header 'Utwórz konto'>
@@ -155,7 +152,6 @@ labels. -->
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nie można utworzyć konta'>
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Musisz osiągnąć pewien wiek, aby móc utworzyć konto.'>
-<!ENTITY fxaccount_link_create_not_allowed 'http://www.ftc.gov/news-events/media-resources/protecting-consumer-privacy/kids-privacy-coppa'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Dowiedz się więcej'>
 
 <!ENTITY fxaccount_confirm_account_header 'Zweryfikuj swoje konto'>
