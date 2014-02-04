@@ -111,7 +111,7 @@
 <!ENTITY pref_text_size "Veľkosť textu">
 <!ENTITY pref_reflow_on_zoom4 "Zaostriť text">
 <!ENTITY pref_restore "Karty">
-<!ENTITY pref_restore_always "Vždy karty">
+<!ENTITY pref_restore_always "Vždy obnoviť karty">
 <!ENTITY pref_restore_quit "Neobnovovať po ukončení &brandShortName;u">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
