@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Malantaŭen">
 <!ENTITY forward.label         "Antaŭen">
 <!ENTITY newtab.label          "Nova langeto">
+<!ENTITY newPrivateTab.label   "Nova privata langeto">
 <!ENTITY closetab.label        "Fermi langeton">
 
 <!ENTITY autocompleteResultsHeader.label  "Viaj rezultoj">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -118,10 +121,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTabs.label "Ĉu vi serĉas viajn langetojn? Simple tiru malsupren aŭ dekstre klaki">
 <!ENTITY firstRunTopSites.label "Iru al la retejoj kiujn vi plej multe vizitas">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Vidu kie vi estis en la Teksaĵo">
 <!ENTITY firstRunWelcome.label "Bonvenon al &brandShortName;">
 <!ENTITY firstRunDifferent.label "Intence aparta">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Tuŝetu por iri al la antaŭa paĝo">
+<!ENTITY firstRunNewTab.label "Aldoni novan langeton por esplori novan retejon">
+<!ENTITY firstRunStar.label "Uzu legosignojn por havi paĝojn ĉemane poste">
+<!ENTITY firstRunPin.label "Alpinglu iun ajn retejon al via ekrano de Windows Start por rapide aliri ĝin">
+<!ENTITY firstRunGotIt.label "Mi komprenis!">
