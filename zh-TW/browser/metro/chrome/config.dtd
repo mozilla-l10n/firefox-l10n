@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "搜尋">
-<!ENTITY newpref.label          "新增一筆偏好設定">
 <!ENTITY addpref.name           "名稱">
-<!ENTITY addpref.value          "值">
 
 <!ENTITY cancel.label           "取消">
-<!ENTITY reset.label            "重設">
-<!ENTITY done.label             "完成">
+<!ENTITY toggle.label           "切換">
 
 <!ENTITY integer.label          "整數">
 <!ENTITY string.label           "字串">
 <!ENTITY boolean.label          "布林（Boolean）值">
+
+<!ENTITY string.placeholder     "請輸入字串">
+<!ENTITY number.placeholder     "請輸入數字">
 

@@ -26,4 +26,8 @@
 # link title for https://support.mozilla.org/mobile
 #define bookmarks_support Firefox: 技術支援
 
+# LOCALIZATION NOTE (bookmarks_marketplace):
+# link title for https://marketplace.firefox.com
+#define bookmarks_marketplace Firefox Marketplace
+
 #unfilter emptyLines

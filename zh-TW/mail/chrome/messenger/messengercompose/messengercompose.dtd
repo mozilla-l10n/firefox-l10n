@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "附件">
 <!ENTITY spellingButton.label "拼字檢查">
 <!ENTITY saveButton.label "儲存">
+<!ENTITY printButton.label "列印">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "立刻寄出此封郵件">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
 <!ENTITY pasteButton.tooltip            "貼上">
+<!ENTITY printButton.tooltip "列印此訊息">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
