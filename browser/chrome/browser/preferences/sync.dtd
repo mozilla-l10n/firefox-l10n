@@ -66,4 +66,4 @@
 <!ENTITY welcome.signIn.label "Logga In">
 <!ENTITY welcome.createAccount.label "Skapa konto">
 
-<!ENTITY welcome.useOldSync.label "Använder en äldre version av Sync?">
+<!ENTITY welcome.useOldSync.label "Använder du en äldre version av Sync?">
