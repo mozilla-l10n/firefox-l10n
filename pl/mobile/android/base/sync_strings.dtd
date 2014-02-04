@@ -200,7 +200,8 @@ Account. -->
 has been made to the remote server, and an error of some type has
 been returned. -->
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Konieczna jest aktualizacja Firefoksa'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS 'Konto już istnieje'>
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto już istnieje. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nieprawidłowy adres e-mail lub hasło'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nieprawidłowy adres e-mail lub hasło>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konto nie zostało zweryfikowane'>
