@@ -110,9 +110,13 @@
 <!-- Firefox Account strings -->
 <!ENTITY firefox.accounts 'Konta Firefox'>
 <!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.policy 'Przechodząc dalej, wyrażasz zgodę na &lt;a
-         href="http://mozilla.com"&gt;Warunki użytkowania&lt;/a&gt; oraz &lt;a
-         href="http://mozilla.com"&gt;Politykę prywatności&lt;/a&gt;.'>
+<!ENTITY fxaccount.link.tos 'https://accounts.firefox.com/legal/terms'>
+<!ENTITY fxaccount.link.pn 'https://accounts.firefox.com/legal/privacy'>
+<!ENTITY fxaccount.policy.linktos 'Warunki użytkowania'>
+<!ENTITY fxaccount.policy.linkprivacy 'Politykę prywatności'>
+
+<!-- Localization note: &formatS1; is fxaccount.policy.linktos, &formatS2; is fxaccount.policy.linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount.policy.text 'Przechodząc dalej, wyrażasz zgodę na &formatS1; oraz &formatS2;.'>
 <!ENTITY fxaccount.forgot.password 'Nie pamiętasz hasła?'>
 <!ENTITY fxaccount.create.account.button.label 'Utwórz konto'>
 <!ENTITY fxaccount.sign.in.button.label 'Zaloguj się'>
