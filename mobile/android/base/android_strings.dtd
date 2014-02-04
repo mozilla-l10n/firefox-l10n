@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_advanced "Avancerat">
 <!ENTITY pref_category_customize "Anpassa">
-<!ENTITY pref_category_search2 "Sökinställningar">
+<!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_display "Visa">
 <!ENTITY pref_category_privacy_short "Integritet">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataalternativ">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
 <!ENTITY pref_category_add_search_providers "Lägg till fler söktjänster">
+<!ENTITY pref_category_search_restore_defaults "Återställ sökmotorer">
+<!ENTITY pref_search_restore_defaults "Återställ standard">
+<!ENTITY pref_search_restore_defaults_summary "Återställ standard">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Fjärravlusning">
 <!ENTITY pref_developer_remotedebugging_docs "Läs mer">
 <!ENTITY pref_remember_signons "Spara lösenord">
+
+<!ENTITY pref_category_home "Startsida">
+<!ENTITY pref_category_home_panels "Paneler">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Anpassa">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanliga frågor">
 <!ENTITY pref_vendor_feedback "Ge synpunkter">
-<!ENTITY pref_search_set_default "Ange som standard">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Ta bort">
+
+<!ENTITY pref_dialog_set_default "Ange som standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Ta bort">
+
 <!ENTITY pref_search_last_toast "Du kan inte ta bort eller inaktivera din sista sökmotor.">
+
+<!ENTITY pref_panels_show "Visa">
+<!ENTITY pref_panels_hide "Dölj">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik och data">
 <!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Skickar till enhet">
+<!ENTITY media_play "Spela">
+<!ENTITY media_pause "Paus">
+<!ENTITY media_stop "Stopp">
+
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_open_private_tab "Öppna i privat flik">
 <!ENTITY contextmenu_open_in_reader "Öppna i läsaren">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
 <!ENTITY pref_titlebar_mode_url "Visa sidans adress">
 
-<!ENTITY pref_dynamic_toolbar "Dölj namnfältet vid skrollning">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Skrolla namnfältet">
 
 <!ENTITY history_removed "Sidan borttagen">
 
