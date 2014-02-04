@@ -425,6 +425,7 @@
 <!ENTITY fullScreenButton.tooltip "Visualizza la finestra a schermo intero">
 <!ENTITY quitApplicationCmdWin.label "Esci">
 <!ENTITY quitApplicationCmdWin.accesskey "E">
+<!ENTITY quitApplicationCmdWin.tooltip "Chiudi &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Esci">
