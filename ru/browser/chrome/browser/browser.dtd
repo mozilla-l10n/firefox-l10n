@@ -425,6 +425,7 @@
 <!ENTITY fullScreenButton.tooltip "Раскрыть окно на полный экран">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
+<!ENTITY quitApplicationCmdWin.tooltip "Выход из &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Выход">
