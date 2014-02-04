@@ -108,80 +108,112 @@
 <!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
 
 <!-- Firefox Account strings -->
-<!ENTITY firefox.accounts 'Konta Firefox'>
-<!ENTITY fxaccount.label '&fxaccountBrand.fullName.label;'>
-<!ENTITY fxaccount.link.tos 'https://accounts.firefox.com/legal/terms'>
-<!ENTITY fxaccount.link.pn 'https://accounts.firefox.com/legal/privacy'>
-<!ENTITY fxaccount.policy.linktos 'Warunki użytkowania'>
-<!ENTITY fxaccount.policy.linkprivacy 'Politykę prywatności'>
+<!-- Localization note: this is the brand title, shown at the top of most screens. -->
+<!ENTITY firefox_accounts 'Konta Firefox'>
 
-<!-- Localization note: &formatS1; is fxaccount.policy.linktos, &formatS2; is fxaccount.policy.linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount.policy.text 'Przechodząc dalej, wyrażasz zgodę na &formatS1; oraz &formatS2;.'>
-<!ENTITY fxaccount.forgot.password 'Nie pamiętasz hasła?'>
-<!ENTITY fxaccount.create.account.button.label 'Utwórz konto'>
-<!ENTITY fxaccount.sign.in.button.label 'Zaloguj się'>
-<!ENTITY fxaccount.email.hint 'E-mail'>
-<!ENTITY fxaccount.password.hint 'Hasło'>
-<!ENTITY fxaccount.password2.hint 'Powtórz hasło'>
-<!ENTITY fxaccount.bad.email 'Potrzebny nam prawdziwy adres e-mail.'>
-<!ENTITY fxaccount.bad.passwords 'Hasła muszą być takie same.'>
-<!ENTITY fxaccount.sign.in.instead 'Masz już konto? Zaloguj się!'>
-<!ENTITY fxaccount.sign.up.instead 'Nie masz konta? Zarejestruj się.'>
+<!-- Localization note: this refers to a single Firefox Account, shown
+at the top of the account status activity. That activity allows
+to configure the current Firefox Account. -->
+<!ENTITY firefox_account 'Konto Firefox'>
 
-<!ENTITY fxaccount.sign.in 'Zaloguj się'>
-<!ENTITY fxaccount.create.account 'Utwórz konto'>
+<!-- Localization note: these describe icons and graphics, and are
+consumed by assistive devices. -->
+<!ENTITY fxaccount_checkbox_contentDescription 'Grafika rubryki kont Firefox'>
+<!ENTITY fxaccount_icon_contentDescription 'Ikona kont Firefox'>
+<!ENTITY fxaccount_intro_contentDescription 'Grafika wprowadzająca konta Firefox'>
+<!ENTITY fxaccount_mail_contentDescription 'Grafika koperty kont Firefox'>
 
-<!ENTITY fxaccount.link.old.firefox 'https://support.mozilla.org/kb/use-sync-with-an-older-version-of-firefox'>
-<!ENTITY fxaccount.old.firefox 'Korzystasz z usługi &syncBrand.shortName.label; w starszej wersji przeglądarki &brandShortName;?'>
+<!-- Localization note: these are shown in all screens that query the
+user for an email address and password. Hide and show are button
+labels. -->
+<!ENTITY fxaccount_email_hint 'Adres e-mail'>
+<!ENTITY fxaccount_password_hint 'Hasło'>
+<!ENTITY fxaccount_password_hide 'Ukryj'>
+<!ENTITY fxaccount_password_show 'Pokaż'>
 
-<!ENTITY fxaccount.when.were.you.born 'Z jakiego jesteś rocznika?'>
-<!ENTITY fxaccount.year.of.birth 'Rok urodzin'>
+<!ENTITY fxaccount_link_tos 'https://accounts.firefox.com/legal/terms'>
+<!ENTITY fxaccount_link_pn 'https://accounts.firefox.com/legal/privacy'>
+<!ENTITY fxaccount_policy_linktos 'Warunki użytkowania'>
+<!ENTITY fxaccount_policy_linkprivacy 'Politykę prywatności'>
 
-<!ENTITY fxaccount.icon.contentDescription 'Ikona kont Firefox'>
-<!ENTITY fxaccount.password.hide 'Ukryj'>
-<!ENTITY fxaccount.password.show 'Pokaż'>
-<!ENTITY fxaccount.get.started 'Pierwsze kroki'>
-<!ENTITY fxaccount.description 'Zarejestruj się i utwórz kopię zapasową wszystkich swoich ustawień i zakładek!'>
-<!ENTITY fxaccount.sign.up 'Zarejestruj się'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Witaj w usłudze &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description 'Zarejestruj się i synchronizuj swoje karty, zakładki, hasła i więcej.'>
+<!ENTITY fxaccount_getting_started_get_started 'Pierwsze kroki'>
+<!ENTITY fxaccount_getting_started_link_old_firefox 'https://support.mozilla.org/kb/use-sync-with-an-older-version-of-firefox'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?'>
 
-<!-- Android > Accounts > [Firefox Account] Screen -->
-<!ENTITY fxaccount.options.title 'Opcje'>
-<!ENTITY fxaccount.options.configure.title 'Ustawienia konta Firefox'>
-<!ENTITY fxaccount.intro.contentDescription 'Grafika przedstawiająca konta Firefox'>
-<!ENTITY fxaccount.confirmation.email.sent 'Wysłaliśmy potwierdzenie!'>
-<!ENTITY fxaccount.mail.contentDescription 'Grafika koperty kont Firefox'>
-<!ENTITY fxaccount.confirmation.description 'Tu znajdziesz swój odnośnik z weryfikacją:'>
-<!ENTITY fxaccount.offer.resend.confirmation.email 'E-mail nie przyszedł? Wyślij go ponownie!'>
-<!ENTITY fxaccount.password.length.restriction 'Hasło musi mieć przynajmniej 8 znaków'>
-<!ENTITY fxaccount.change.password 'Zmień hasło'>
-<!ENTITY fxaccount.status.needs.verification 'Twoje konto wymaga weryfikacji. Stuknij tutaj, aby je zweryfikować i rozpocząć synchronizację.'>
-<!ENTITY fxaccount.status.needs.credentials 'Szczegóły twojego konta są nieaktualne. Stuknij tutaj, aby zalogować się ponownie i wznowić synchronizację.'>
-<!ENTITY fxaccount.status.syncing 'Trwa synchronizacja Firefoksa…'>
-<!ENTITY fxaccount.status.sync 'Sync' >
-<!ENTITY fxaccount.status.bookmarks 'Zakładki'>
-<!ENTITY fxaccount.status.history 'Historia'>
-<!ENTITY fxaccount.status.passwords 'Hasła'>
-<!ENTITY fxaccount.status.tabs 'Otwarte karty'>
-<!ENTITY fxaccount.update.credentials 'Zaktualizuj hasło'>
-<!ENTITY fxaccount.update.credentials.button.label 'Połącz ponownie'>
-<!ENTITY fxaccount.account.create.not.allowed 'Nie można utworzyć konta'>
-<!ENTITY fxaccount.account.create.not.allowed.description 'Najmłodsi użytkownicy nie mogą utworzyć konta Firefox.'>
+<!ENTITY fxaccount_create_account_sub_header 'Utwórz konto'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Hasło musi mieć przynajmniej 8 znaków'>
+<!ENTITY fxaccount_create_account_year_of_birth 'Rok urodzenia'>
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text 'Przechodząc dalej, wyrażasz zgodę na &formatS1; oraz &formatS2; usług internetowych Firefoksa.'>
+<!ENTITY fxaccount_create_account_button 'Dalej'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Wybierz, co chcesz synchronizować'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Masz już konto? Zaloguj się'>
+<!ENTITY fxaccount_create_account_1950_or_earlier '1950 lub wcześniej'>
+<!ENTITY fxaccount_create_account_unknown_error 'Nie udało się utworzyć konta'>
 
-<!-- Note to translators:
+<!ENTITY fxaccount_account_create_not_allowed 'Nie można utworzyć konta'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Musisz osiągnąć pewien wiek, aby móc utworzyć konto.'>
+<!ENTITY fxaccount_link_create_not_allowed 'http://www.ftc.gov/news-events/media-resources/protecting-consumer-privacy/kids-privacy-coppa'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Dowiedz się więcej'>
 
-These strings represent ranges of birth years, used to determine if a potential user is old enough to meet legal requirements. A user born in 1984 should understand that they should pick the translation of "1980s".
+<!ENTITY fxaccount_confirm_account_header 'Zweryfikuj swoje konto'>
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'Odnośnik weryfikujący wysłano na &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Wyślij ponownie'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent 'Wysłano nowy odnośnik weryfikujący'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent 'Nie udało się wysłać nowego odnośnika weryfikującego'>
 
-Any years that are *not* old enough to create an account must be appear as individual numbers, so that they can be converted to a year and compared to the current year.  Year ranges (any entry that cannot be converted to a number) are *always* considered old enough to create an account.  -->
+<!ENTITY fxaccount_sign_in_sub_header 'Zaloguj się'>
+<!ENTITY fxaccount_sign_in_button_label 'Zaloguj się'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Nie pamiętasz hasła?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Utwórz konto'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Logowanie nie powiodło się'>
 
-<!ENTITY fxaccount.create.account.age.1960s '1969 lub wcześniej'>
-<!ENTITY fxaccount.create.account.age.1970s '1970-1979'>
-<!ENTITY fxaccount.create.account.age.1980s '1980-1989'>
-<!ENTITY fxaccount.create.account.age.1990s '1990-1999'>
-<!ENTITY fxaccount.create.account.age.2000 '2000'>
-<!ENTITY fxaccount.create.account.age.2001 '2001'>
-<!ENTITY fxaccount.create.account.age.2002 '2002'>
-<!ENTITY fxaccount.create.account.age.2003 '2003'>
-<!ENTITY fxaccount.create.account.age.2004 '2004'>
-<!ENTITY fxaccount.create.account.age.2005 '2005'>
-<!ENTITY fxaccount.create.account.age.2006 '2006'>
-<!ENTITY fxaccount.create.account.age.2007 '2007'>
+<!ENTITY fxaccount_account_verified_sub_header 'Konto zweryfikowano'>
+<!ENTITY fxaccount_account_verified_description 'Możesz teraz korzystać z usługi &syncBrand.shortName.label;.'>
+
+<!ENTITY fxaccount_update_credentials_sub_header 'Zaloguj się, aby kontynuować'>
+<!ENTITY fxaccount_update_credentials_button_label 'Zaloguj się'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Logowanie nie powiodło się'>
+
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: włączone'>
+<!ENTITY fxaccount_status_needs_verification 'Musisz zweryfikować swoje konto. Stuknij, aby zweryfikować.'>
+<!ENTITY fxaccount_status_needs_credentials 'Nie udało się nawiązać połączenia. Stuknij, aby się zalogować'>
+<!ENTITY fxaccount_status_needs_upgrade '&brandShortName; wymaga aktualizacji, aby umożliwić logowanie.'>
+<!ENTITY fxaccount_status_bookmarks 'Zakładki'>
+<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_passwords 'Hasła'>
+<!ENTITY fxaccount_status_tabs 'Otwarte karty'>
+<!ENTITY fxaccount_status_legal 'Podstawa prawna' >
+ 
+ <!-- Localization note: this is the name shown by the Android system
+itself for a Firefox Account. It should be singular. -->
+<!ENTITY fxaccount_label '&fxaccountBrand.fullName.label;'>
+
+<!-- Localization note: these are shown by the Android system itself,
+when the user navigates to the Android > Accounts > [Firefox
+Account] Screen. The link takes the user to the Firefox Account
+status activity, which lets them manage their Firefox
+Account. -->
+<!ENTITY fxaccount_options_configure_title 'Ustawienia usługi &syncBrand.shortName.label;'>
+
+<!-- Localization note: these error messages are shown after a request
+has been made to the remote server, and an error of some type has
+been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Konieczna jest aktualizacja Firefoksa'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS 'Konto już istnieje'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nieprawidłowy adres e-mail lub hasło'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nieprawidłowy adres e-mail lub hasło>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konto nie zostało zweryfikowane'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serwer jest zajęty, spróbuj ponownie później'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serwer jest zajęty, spróbuj ponownie później'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Wystąpił problem'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Brak połączenia z siecią'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title '&syncBrand.fullName.label; nie może się połączyć'>
+<!-- Note to translators: the format string below will be replaced
+with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text 'Stuknij, aby zalogować się do konta &formatS;'>
