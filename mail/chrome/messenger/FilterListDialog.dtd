@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "執行篩選條件於:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "選取這個資料夾">
-<!ENTITY choosethisnewsserver.label "選取此新聞伺服器">
 <!ENTITY helpButton.label "說明">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

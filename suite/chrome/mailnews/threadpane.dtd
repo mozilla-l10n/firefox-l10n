@@ -23,24 +23,24 @@
 <!ENTITY idColumn.label "收件順序">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位">
-<!ENTITY threadColumn.tooltip "點此顯示同主題的討論串"> 
-<!ENTITY fromColumn.tooltip "點選以照寄件者排序">
-<!ENTITY recipientColumn.tooltip "點選以照收件者排序">
-<!ENTITY attachmentColumn.tooltip "點選以照附件排序">
-<!ENTITY subjectColumn.tooltip "點選以照標題排序">
-<!ENTITY dateColumn.tooltip "點選以照日期排序">
-<!ENTITY priorityColumn.tooltip "點選以照優先權排序">
-<!ENTITY tagsColumn.tooltip "點選以照標籤排序">
-<!ENTITY accountColumn.tooltip "點選以照帳號排序">
-<!ENTITY statusColumn.tooltip "點選以照狀態排序">
-<!ENTITY sizeColumn.tooltip "點選以照大小排序">
-<!ENTITY junkStatusColumn.tooltip "點選以照垃圾信狀態排序">
-<!ENTITY unreadColumn.tooltip "討論串中未讀訊息數量">
-<!ENTITY totalColumn.tooltip "討論串中所有訊息數量">
-<!ENTITY readColumn.tooltip "點選以照已讀排序">
-<!ENTITY receivedColumn.tooltip "點選依照收件者排序">
-<!ENTITY flagColumn.tooltip "點選以照旗標排序">
-<!ENTITY locationColumn.tooltip "點選以照網址排序">
-<!ENTITY idColumn.tooltip "點選以照接收時間排序">
+<!ENTITY columnChooser2.tooltip "選擇要顯示的欄位">
+<!ENTITY threadColumn2.tooltip "顯示訊息討論串">
+<!ENTITY fromColumn2.tooltip "依照寄件者排序">
+<!ENTITY recipientColumn2.tooltip "依照收件者排序">
+<!ENTITY attachmentColumn2.tooltip "依照附件排序">
+<!ENTITY subjectColumn2.tooltip "依照主旨排序">
+<!ENTITY dateColumn2.tooltip "依照日期排序">
+<!ENTITY priorityColumn2.tooltip "依照優先權排序">
+<!ENTITY tagsColumn2.tooltip "依照標籤排序">
+<!ENTITY accountColumn2.tooltip "依照帳號排序">
+<!ENTITY statusColumn2.tooltip "依照狀態排序">
+<!ENTITY sizeColumn2.tooltip "依照大小排序">
+<!ENTITY junkStatusColumn2.tooltip "依照垃圾信狀態排序">
+<!ENTITY unreadColumn2.tooltip "討論串中未讀訊息數量">
+<!ENTITY totalColumn2.tooltip "討論串中所有訊息數量">
+<!ENTITY readColumn2.tooltip "依照是否已讀排序">
+<!ENTITY receivedColumn2.tooltip "依照接收日期排序">
+<!ENTITY flagColumn2.tooltip "依照標示排序">
+<!ENTITY locationColumn2.tooltip "依照位置">
+<!ENTITY idColumn2.tooltip "依照接收順序排序">
 
