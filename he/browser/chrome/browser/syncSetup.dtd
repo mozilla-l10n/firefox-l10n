@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
 <!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
-<!ENTITY setup.choicePage.existing.label  "אני עושה שימוש ב־&syncBrand.shortName.label; במחשב אחר">
+<!ENTITY setup.choicePage.existing2.label  "אני עושה שימוש ב־&syncBrand.shortName.label; בהתקן אחר">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "שרת">
