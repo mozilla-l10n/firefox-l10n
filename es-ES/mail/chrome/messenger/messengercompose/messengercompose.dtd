@@ -14,7 +14,7 @@
 <!ENTITY newContact.label "Contacto de la libreta de direcciones…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjuntar">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
 <!ENTITY attachFileCmd.accesskey "v">
 <!ENTITY attachFileCmd.key "A">
@@ -180,6 +180,7 @@
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
+<!ENTITY printButton.label "Imprimir">
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
 <!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
 <!ENTITY quoteButton.tooltip "Citar el mensaje anterior">
@@ -190,6 +191,7 @@
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Pegar">
+<!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">

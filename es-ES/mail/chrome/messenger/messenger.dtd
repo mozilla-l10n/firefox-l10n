@@ -290,8 +290,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Carpeta">
 <!ENTITY folderMenu.accesskey "a">
-<!ENTITY thisFolder.label "Esta carpeta">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Pestañas cerradas recientemente">
 <!ENTITY goRecentlyClosedTabs.accesskey "P">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
@@ -329,9 +327,9 @@
 <!ENTITY forwardAsInline.accesskey "i">
 <!ENTITY forwardAsAttachmentCmd.label "Adjunto">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editMsgAsNewCmd.label "Editar mensaje como nuevo">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Editar como mensaje nuevo">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Crear filtro a partir del mensaje…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
@@ -354,10 +352,6 @@
 <!ENTITY watchThreadMenu.label "Observar conversación">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Archivar aquí">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY copyHereMenu.label "Copiar aquí">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiquetar">
 <!ENTITY tagMenu.accesskey "u">
 <!ENTITY tagCmd0.key "0">
@@ -534,8 +528,10 @@
 <!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
 <!ENTITY phishingOptionIgnore.label "Ignorar advertencia en este mensaje">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Desactivar toda detección de mensajes fraudulentos">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "Editar opciones de detección de fraudes…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editar preferencias de detección de fraudes…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
@@ -613,34 +609,34 @@
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 <!ENTITY attachmentColumn.label "Adjuntos">
-<!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
-<!ENTITY threadColumn.tooltip "Pulse para mostrar los mensajes agrupados por conversaciones">
-<!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
-<!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
-<!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
-<!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
-<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
-<!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo no deseado">
-<!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en la conversación">
-<!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
-<!ENTITY readColumn.tooltip "Pulse para ordenar los mensajes leídos">
-<!ENTITY receivedColumn.tooltip "Pulse para ordenar por fecha de recepción">
-<!ENTITY starredColumn.tooltip "Pulse para ordenar por estrella">
-<!ENTITY locationColumn.tooltip "Pulse para ordenar por ubicación">
-<!ENTITY idColumn.tooltip "Pulse para ordenar por orden de recepción">
-<!ENTITY attachmentColumn.tooltip "Pulse para ordenar por adjuntos">
+<!ENTITY columnChooser2.tooltip "Seleccione las columnas que desea mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar conversaciones de mensajes">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por fecha">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado de correo basura">
+<!ENTITY unreadColumn2.tooltip "Número de mensajes no leídos en una conversación">
+<!ENTITY totalColumn2.tooltip "Número total de mensajes en la conversación">
+<!ENTITY readColumn2.tooltip "Ordenar por leídos/no leídos">
+<!ENTITY receivedColumn2.tooltip "Ordenar por fecha de recepción">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
+<!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
+<!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir el mensaje en una pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensaje en la conversación">
 <!ENTITY contextOpenConversation.accesskey "c">
-<!ENTITY contextEditAsNew.label "Editar como nuevo…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Editar como mensaje nuevo">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
@@ -698,8 +694,8 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Añadir a la libreta de direcciones">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Editar contacto…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "Editar contacto">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Suscribirse a grupo de noticias">

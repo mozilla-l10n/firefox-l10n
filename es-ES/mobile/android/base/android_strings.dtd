@@ -50,18 +50,23 @@
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_search2 "Ajustes de búsqueda">
+<!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
+<!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
+<!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_tip "CONSEJO: añada un sitio web a su lista de proveedores de búsqueda con una pulsación larga en su campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_category_home "Inicio">
+<!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Mostrar">
 <!ENTITY pref_header_privacy_short "Privacidad">
@@ -113,13 +118,15 @@
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
-<!ENTITY pref_search_set_default "Usar como predeterminado">
-<!ENTITY pref_search_default "Predeterminado">
-<!ENTITY pref_search_remove "Eliminar">
+<!ENTITY pref_dialog_set_default "Configurar como predet.">
+<!ENTITY pref_dialog_default "Predeterminado">
+<!ENTITY pref_dialog_remove "Eliminar">
 <!ENTITY pref_search_last_toast "No puede eliminar ni desactivar su último buscador.">
+<!ENTITY pref_panels_show "Mostrar">
+<!ENTITY pref_panels_hide "Ocultar">
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
-<!ENTITY datareporting_notification_action "Elegir qué compartir">
+<!ENTITY datareporting_notification_action "Elija qué compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -160,6 +167,10 @@
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
+<!ENTITY media_casting_to "Asimilando a dispositivo">
+<!ENTITY media_play "Reproducir">
+<!ENTITY media_pause "Pausar">
+<!ENTITY media_stop "Detener">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en el modo de lectura">
@@ -179,7 +190,7 @@
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
-<!ENTITY pref_dynamic_toolbar "Ocultar barra del título al bajar por la página">
+<!ENTITY pref_scroll_title_bar "Desplazar barra del título">
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
