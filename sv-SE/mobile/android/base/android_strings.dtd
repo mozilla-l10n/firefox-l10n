@@ -15,8 +15,8 @@
 <!ENTITY  switch_to_tab "Byt till flik">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
-<!ENTITY  crash_message2 "&brandShortName; hade ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
-<!ENTITY  crash_send_report_message3 "Meddela &vendorShortName; om den här kraschen så de kan fixa den">
+<!ENTITY  crash_message2 "&brandShortName; fick ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
+<!ENTITY  crash_send_report_message3 "Meddela &vendorShortName; om den här kraschen så att de kan fixa den">
 <!ENTITY  crash_include_url2 "Inkludera adressen till sidan jag var på">
 <!ENTITY  crash_sorry "Vi är ledsna">
 <!ENTITY  crash_comment "Lägg till en kommentar (kommentarer är synliga för alla)">
