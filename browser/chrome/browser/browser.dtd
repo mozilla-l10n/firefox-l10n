@@ -425,6 +425,7 @@
 <!ENTITY fullScreenButton.tooltip "Mostrar la ventana en pantalla completa">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
+<!ENTITY quitApplicationCmdWin.tooltip "Salir de brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Salir">
@@ -559,7 +560,7 @@
 <!ENTITY viewBookmarksSidebar.label "Mostrar en la barra lateral">
 <!ENTITY bookmarksItem.title "Marcadores">
 <!ENTITY openLocationCmd.label "Abrir dirección…">
-<!ENTITY openLocationCmd.accesskey "">
+<!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY bookmarksMenuButton.tooltip "Mostrar sus marcadores">
 <!ENTITY switchToMetroCmd2.label "Relanzar en &brandShortName; para Windows 8 táctil">
 <!ENTITY tabGroupsButton.tooltip "Agrupe sus pestañas">
