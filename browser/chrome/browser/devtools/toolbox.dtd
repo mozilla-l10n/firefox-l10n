@@ -2,8 +2,59 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "כלי פיתוח">
+<!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
 <!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip  "סגירת כלי הפיתוח">
+
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!ENTITY options.context.advancedSettings "הגדרות מתקדמות">
+
+<!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
+  -  restart label at right of settings that require a browser restart to be
+  -  effective. -->
+<!ENTITY options.context.requiresRestart2  "נדרשת הפעלת הדפדפן מחדש">
+
+<!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
+  -  restart button next to options.context.requiresRestart2 label. -->
+<!ENTITY options.restartButton.label  "הפעלה מחדש כעת">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
+  -  triggers page refresh label next to the settings in the advanced settings
+  -  group in the options panel which trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh2  "הפעלה זו בלבד, הדף ייטען מחדש">
+
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "הפעלת מנפה שגיאות מרוחק">
+<!ENTITY options.enableRemote.tooltip   "הפעלת אפשרות זו תאפשר לכלי המפתחים לבצע ניפוי שגיאות לעותק מרוחק של Firefox כגון Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label2    "נטרול JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "הפעלת אפשרות זו תנטרל את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.">
+
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tools. -->
+<!ENTITY options.selectDefaultTools.label     "כלי מפתחים בררת מחדל">
+
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the developer tools
+  -  added by add-ons. This heading is hidden when there is no developer tool
+  -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "כלי מפתחים שהותקנו על־ידי תוספות">
+
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* לא נתמך עבור המטרה הנוכחית של ארגז הכלים">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "מסוף רשת">
