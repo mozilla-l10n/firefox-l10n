@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Anonymní prohlížení)">
 
+<!ENTITY appmenu.tooltip                     "Otevře nabídku">
+<!ENTITY navbarOverflow.label                "Další nástroje…">
+
 <!-- Tab context menu -->
 <!ENTITY reloadTab.label "Obnovit panel">
 <!ENTITY reloadTab.accesskey "O">
@@ -54,9 +57,8 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nový panel">
 <!ENTITY tabCmd.accesskey "p">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Otevřít adresu…">
-<!ENTITY openLocationCmd.accesskey "O">
 <!ENTITY openFileCmd.label "Otevřít soubor…">
+
 <!ENTITY openFileCmd.accesskey "s">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
@@ -73,12 +75,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Lišta navigace">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Lišta záložek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
-<!ENTITY addonBarCmd.label "Lišta doplňků">
-<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "k">
@@ -97,6 +96,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Zobrazit všechny panely">
 <!ENTITY showAllTabsCmd.accesskey "b">
+
+<!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; is now syncing">
+<!ENTITY syncStartPanel.subTitle "Spravovat &syncBrand.shortName.label; můžete v dialogu Možnosti.">
+<!ENTITY syncStartPanel.subTitleUnix "Spravovat &syncBrand.shortName.label; můžete v dialogu Předvolby.">
+<!ENTITY syncErrorPanel.heading "Není možné se připojit k &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Pro pokračování synchronizace se prosím přihlašte.">
+<!ENTITY syncErrorPanel.signInButton.label "Přihlásit">
+<!ENTITY syncErrorPanel.signInButton.accesskey "P">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
@@ -118,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
+<!ENTITY editThisBookmarkCmd.label "Úprava záložky">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Sdílet stránku">
@@ -131,6 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "Sdílet video">
 <!ENTITY shareVideoCmd.accesskey "S">
+<!ENTITY feedsMenu.label "Odebírat">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
@@ -157,31 +168,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label "Tisk">
 <!ENTITY printButton.tooltip "Vytiskne tuto stránku">
 
-<!ENTITY backForwardItem.title "Zpět/Vpřed">
 <!ENTITY locationItem.title "Adresa">
 <!ENTITY searchItem.title "Hledání">
-<!ENTITY throbberItem.title "Ukazatel činnosti">
-<!ENTITY bookmarksItem.title "Záložky">
 
 <!-- Toolbar items -->
-<!ENTITY appMenuButton.label "Nabídka">
-<!ENTITY appMenuButton.tooltip "Otevře nabídku aplikace &brandShortName;">
-<!ENTITY homeButton.label "Domů">
+<!ENTITY homeButton.label             "Nabídka">
 
 <!ENTITY tabGroupsButton.label "Skupiny panelů">
-<!ENTITY tabGroupsButton.tooltip "Umožní seskupit panely">
 
-<!ENTITY feedButton.label "Odebírat">
-<!ENTITY feedButton.tooltip "Přihlásí k odběru kanálu na této stránce…">
 
 <!ENTITY bookmarksButton.label "Záložky">
-<!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label "Záložky">
-<!ENTITY bookmarksMenuButton.tooltip "Zobrazí záložky">
 <!ENTITY bookmarksMenuButton.unsorted.label "Netříděné záložky">
-<!ENTITY viewBookmarksSidebar.label "Zobrazit v postranní liště">
+<!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label "Zobrazit lištu záložek">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -191,7 +192,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Historie">
-<!ENTITY historyButton.tooltip "Zobrazí stránky navštívené v poslední době">
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Nástroje">
@@ -270,6 +270,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarToolsButton.tooltip "Přepne nástroje vývojáře">
 <!ENTITY devToolbarOtherToolsButton.label "Další nástroje">
 
+
+
 <!ENTITY getMoreDevtoolsCmd.label "Získat další nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey "d">
 
@@ -280,6 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY newPrivateWindow.label "Nové anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
+
 
 <!ENTITY editMenu.label "Úpravy">
 <!ENTITY editMenu.accesskey "a">
@@ -678,6 +681,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "Z">
 <!ENTITY social.closeNotificationItem.label "Nyní ne">
 
+<!ENTITY customizeMode.tabTitle "Přizpůsobení aplikace &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Nabídka a lišty">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Další nástroje a funkce">
+<!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Zvolte si některý z tisíce doplňků">
+<!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
+<!ENTITY customizeMode.toolbars "Zobrazit / skrýt lišty">
+<!ENTITY customizeMode.titlebar "Hlavička okna">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Přepnout na chat">
 <!ENTITY social.chatBar.accesskey "C">
@@ -719,3 +731,49 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Ale toto je nepříjemné. Pokusili jsme se zobrazit webovou stránku, ale ta neodpovídá.">
 <!ENTITY tabCrashed.checkSendReport "Řekněte organizaci &vendorShortName; o pádu, aby ho mohla opravit.">
 <!ENTITY tabCrashed.tryAgain "Zkusit znovu">
+
+<!ENTITY uiTour.infoPanel.close "Zavřít">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey         "A">
+<!ENTITY throbberItem.title            "Activity Indicator">
+<!ENTITY appMenuButton.label           "Menu">
+<!ENTITY appMenuButton.tooltip         "Open &brandShortName; menu">
+<!ENTITY feedButton.label              "Subscribe">
+<!ENTITY feedButton.tooltip            "Subscribe to this page…">
+<!ENTITY bookmarksButton.tooltip       "Display your bookmarks">
+<!ENTITY historyButton.tooltip         "Display pages you've viewed recently">
+<!ENTITY viewTabsOnTop.label           "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey       "T">
+<!ENTITY appMenuEdit.label             "Edit">
+<!ENTITY appMenuToolbarLayout.label    "Toolbar Layout…">
+<!ENTITY appMenuSidebars.label         "Sidebars">
+<!ENTITY appMenuFind.label             "Find…">
+<!ENTITY appMenuUnsorted.label         "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label     "Web Developer">
+<!ENTITY appMenuGettingStarted.label   "Getting Started">
+<!ENTITY appMenuSafeMode.label         "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY cutButton.tooltip             "Cut">
+<!ENTITY copyButton.tooltip            "Copy">
+<!ENTITY pasteButton.tooltip           "Paste">
+<!ENTITY zoomOutButton.tooltip         "Zoom out">
+<!ENTITY zoomInButton.tooltip          "Zoom in">
+<!ENTITY zoomControls.label            "Zoom Controls">
+<!ENTITY addonBarCloseButton.tooltip   "Close Add-on Bar">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Back/Forward">
+<!ENTITY viewBookmarksSidebar.label    "Show in Sidebar">
+<!ENTITY bookmarksItem.title           "Bookmarks">
+<!ENTITY openLocationCmd.label         "Open Location…">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "Display your bookmarks">
+<!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip       "Group your tabs">
+<!-- end of strings to be removed post-Australis -->
