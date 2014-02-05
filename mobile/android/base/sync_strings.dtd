@@ -48,7 +48,7 @@
 <!ENTITY sync.button.cancel.label "Cancelar">
 <!ENTITY sync.button.connect.label "Conectar">
 <!ENTITY sync.button.ok.label "Aceptar">
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (obsoleto)">
 <!ENTITY bookmarks.folder.menu.label "Menú de marcadores">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
@@ -71,3 +71,70 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
+<!ENTITY fxaccount_checkbox_contentDescription2 "Gráfico de casilla de verificación de cuenta de Firefox">
+<!ENTITY fxaccount_icon_contentDescription2 "Icono de cuentas de Firefox">
+<!ENTITY fxaccount_intro_contentDescription2 "Gráficos de introducción a las cuentas de Firefox">
+<!ENTITY fxaccount_mail_contentDescription2 "Gráfico de sobre de cuentas de Firefox">
+<!ENTITY fxaccount_email_hint "Correo">
+<!ENTITY fxaccount_password_hint "Contraseña">
+<!ENTITY fxaccount_password_hide "Ocultar">
+<!ENTITY fxaccount_password_show "Mostrar">
+<!ENTITY fxaccount_back_to_browsing "Volver a navegar">
+<!ENTITY fxaccount_policy_linktos "Términos del Servicio">
+<!ENTITY fxaccount_policy_linkprivacy "Nota sobre privacidad">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Bienvenido a &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Inicie sesión para sincronizar sus pestañas, marcadores, contraseñas y más.">
+<!ENTITY fxaccount_getting_started_get_started "Iniciarse">
+<!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_create_account_header "Crear una cuenta de Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "Debe tener al menos 8 caracteres">
+<!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
+<!ENTITY fxaccount_create_account_policy_text "Al continuar, acepto el &formatS1; y &formatS2; de los servicios en línea de Firefox.">
+<!ENTITY fxaccount_create_account_button "Siguiente">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Elija qué sincronizar">
+<!ENTITY fxaccount_create_account_sign_in_instead "¿Ya tiene una cuenta? Inicie sesión">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 o anterior">
+<!ENTITY fxaccount_create_account_unknown_error "No se pudo crear la cuenta">
+<!ENTITY fxaccount_account_create_not_allowed "No se puede crear la cuenta">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Debe cumplir ciertos requisitos de edad para crear una cuenta.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Saber más">
+<!ENTITY fxaccount_confirm_account_header "Confirme su cuenta">
+<!ENTITY fxaccount_confirm_account_verification_link "Se ha enviado un enlace de verificación a &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Enviar mensaje de nuevo">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensaje de verificación enviado">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No se ha podido enviar el mensaje de verificación">
+<!ENTITY fxaccount_sign_in_sub_header "Conectarse">
+<!ENTITY fxaccount_sign_in_button_label "Conectarse">
+<!ENTITY fxaccount_sign_in_forgot_password "¿Ha olvidado la contraseña?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Crear una cuenta">
+<!ENTITY fxaccount_sign_in_unknown_error "No se ha podido iniciar sesión">
+<!ENTITY fxaccount_account_verified_sub_header "Cuenta verificada">
+<!ENTITY fxaccount_account_verified_description2 "Sus datos comenzarán a sincronizarse en unos momentos.">
+<!ENTITY fxaccount_update_credentials_header "Conectarse">
+<!ENTITY fxaccount_update_credentials_button_label "Conectarse">
+<!ENTITY fxaccount_update_credentials_unknown_error "No se ha podido iniciar sesión">
+<!ENTITY fxaccount_status_header "Cuenta de Firefox">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
+<!ENTITY fxaccount_status_needs_verification2 "Su cuenta necesita ser verificada. Toque para volver a enviar el mensaje de verificación.">
+<!ENTITY fxaccount_status_needs_credentials "No se puede conectar. Toque para iniciar sesión.">
+<!ENTITY fxaccount_status_needs_upgrade "Necesita actualizar &brandShortName; para iniciar sesión.">
+<!ENTITY fxaccount_status_bookmarks "Marcadores">
+<!ENTITY fxaccount_status_history "Historial">
+<!ENTITY fxaccount_status_passwords "Contraseñas">
+<!ENTITY fxaccount_status_tabs "Abrir pestañas">
+<!ENTITY fxaccount_status_legal "Legal">
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!ENTITY fxaccount_options_title "Opciones de &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "Configurar &syncBrand.shortName.label;">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Necesita actualizar Firefox">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "La cuenta ya existe. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Dirección de correo o contraseña no válidos">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Dirección de correo o contraseña no válidos">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "La cuenta no está verificada">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, inténtelo de nuevo en poco tiempo">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, inténtelo de nuevo en poco tiempo">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Hubo un problema">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No se puede conectar a la red">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; no está conectada">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para iniciar sesión como &formatS;">
