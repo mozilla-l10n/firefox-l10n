@@ -111,7 +111,7 @@
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
 <!ENTITY pref_reflow_on_zoom4 "Přeformátovávat text">
-<!ENTITY pref_restore "Panaly">
+<!ENTITY pref_restore "Panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
 <!ENTITY pref_font_size_tiny "Drobné">
