@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Indstillinger">
 <!ENTITY pref_category_advanced "Avanceret">
 <!ENTITY pref_category_customize "Tilpas">
-<!ENTITY pref_category_search2 "Søgeindstillinger">
+<!ENTITY pref_category_search3 "Søg">
 <!ENTITY pref_category_display "Vis">
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
 <!ENTITY pref_category_add_search_providers "Tilføj flere søgetjenester">
+<!ENTITY pref_category_search_restore_defaults "Gendan søgetjenester">
+<!ENTITY pref_search_restore_defaults "Gendan oprindelige indstillinger">
+<!ENTITY pref_search_restore_defaults_summary "Gendan oprindelige indstillinger">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Læs mere">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
+
+<!ENTITY pref_category_home "Hjem">
+<!ENTITY pref_category_home_panels "Paneler">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpas">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Giv os din mening">
-<!ENTITY pref_search_set_default "Brug som standard">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Fjern">
+
+<!ENTITY pref_dialog_set_default "Brug som standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Fjern">
+
 <!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere din sidste søgetjeneste.">
+
+<!ENTITY pref_panels_show "Vis">
+<!ENTITY pref_panels_hide "Skjul">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
 <!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Næste">
 <!ENTITY find_close "Luk">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Send til enhed">
+<!ENTITY media_play "Afspil">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Stop">
+
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
 <!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
 <!ENTITY contextmenu_open_in_reader "Åbn i Læser">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Vis sidens titel">
 <!ENTITY pref_titlebar_mode_url "Vis sidens adresse">
 
-<!ENTITY pref_dynamic_toolbar "Skjul titellinje ved scrolling">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Titellinje ved scrolling">
 
 <!ENTITY history_removed "Side fjernet">
 
