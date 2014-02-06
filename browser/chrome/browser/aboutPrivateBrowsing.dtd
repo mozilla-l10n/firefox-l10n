@@ -20,3 +20,7 @@
 
 <!ENTITY privatebrowsingpage.moreInfo "Bien que cet ordinateur ne conserve aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
 <!ENTITY privatebrowsingpage.learnMore "En savoir plus">
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "Pour démarrer la navigation privée, vous pouvez aussi sélectionner &basePBMenu.label; > &newPrivateWindow.label;.">
