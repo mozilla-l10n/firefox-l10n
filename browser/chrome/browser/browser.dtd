@@ -31,7 +31,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Fermer les onglets situés à droite">
 <!ENTITY  closeTabsToTheEnd.accesskey        "m">
 <!ENTITY closeOtherTabs.label "Fermer les autres onglets">
-<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY closeOtherTabs.accesskey "t">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
