@@ -124,9 +124,9 @@
      used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
      -->
 <!ENTITY firstRunTabs.label "Suchen Sie Ihre Tabs? Ziehen Sie nach unten oder klicken Sie mit der rechten Maustaste.">
-<!ENTITY firstRunTopSites.label "Rufen Sie die von Ihnen am meisten besuchten Seiten auf">
-<!ENTITY firstRunBookmarks.label "Finden Sie Seiten, die Sie für später gespeichert haben">
-<!ENTITY firstRunMenu.label "Greifen Sie auf weitere Funktionen und Einstellungen zu">
-<!ENTITY firstRunHistory.label "Schauen Sie sich an, was Sie im Internet besucht haben">
+<!ENTITY firstRunTopSites.label "Rufen Sie die von Ihnen am meisten besuchten Seiten auf.">
+<!ENTITY firstRunBookmarks.label "Finden Sie Seiten, die Sie für später gespeichert haben.">
+<!ENTITY firstRunMenu.label "Greifen Sie auf weitere Funktionen und Einstellungen zu.">
+<!ENTITY firstRunHistory.label "Schauen Sie sich an, was Sie im Internet besucht haben.">
 <!ENTITY firstRunWelcome.label "Willkommen bei &brandShortName;">
 <!ENTITY firstRunDifferent.label "Absichtlich anders">
