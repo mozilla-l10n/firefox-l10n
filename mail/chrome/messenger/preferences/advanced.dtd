@@ -15,11 +15,13 @@
 <!ENTITY telemetryInfoLink.label "Mais informações sobre telemetria">
 <!ENTITY enableGlodaSearch.label "Ativar procura global e indexador">
 <!ENTITY enableGlodaSearch.accesskey "i">
+
 <!ENTITY scrolling.label "Deslocamento">
 <!ENTITY useAutoScroll.label "Utilizar deslocação automática">
 <!ENTITY useAutoScroll.accesskey "U">
 <!ENTITY useSmoothScrolling.label "Utilizar deslocação suave">
 <!ENTITY useSmoothScrolling.accesskey "u">
+
 <!ENTITY systemIntegration.label "Integração de sistemas">
 <!ENTITY alwaysCheckDefault.label "Ao iniciar, verificar se o &brandShortName; é o programa de correio pré-definido">
 <!ENTITY alwaysCheckDefault.accesskey "o">
@@ -39,11 +41,11 @@
 <!ENTITY display.caption "Exibição">
 <!ENTITY showCondensedAddresses.label "Mostrar apenas o nome para pessoas nos meus contactos">
 <!ENTITY showCondensedAddresses.accesskey "m">
+
 <!ENTITY autoMarkAsRead.label "Marcar mensagens como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey "a">
 <!ENTITY markAsReadNoDelay.label "Logo após a exibição">
 <!ENTITY markAsReadNoDelay.accesskey "g">
-
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
@@ -61,22 +63,23 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "F">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Procurar automaticamente se há atualizações para:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Extras instalados">
-<!ENTITY enableAddonsUpdate.accesskey "E">
-<!ENTITY whenUpdatesFound.label "Ao encontrar atualizações do &brandShortName;:">
-<!ENTITY modeAskMe.label "Perguntar o que fazer">
-<!ENTITY modeAskMe.accesskey "m">
-<!ENTITY modeAutomatic.label "Transferir e instalar atualização automaticamente">
-<!ENTITY modeAutomatic.accesskey "z">
-<!ENTITY modeAutoAddonWarn.label "Avisar-me caso desative algum dos extras">
-<!ENTITY modeAutoAddonWarn.accesskey "A">
-<!ENTITY showUpdates.label "Mostrar histórico de atualizações">
-<!ENTITY showUpdates.accesskey "h">
-<!ENTITY useService.label "Utilizar um serviço em segundo plano para instalar atualizações">
-<!ENTITY useService.accesskey "z">
+<!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: segurança melhorada)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Procurar atualizações, mas deixar-me escolher quais instalar">
+<!ENTITY updateCheck.accesskey           "ç">
+<!ENTITY updateManual.label              "Nunca procurar atualizações (não recomendado: risco de segurança)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avisar-me se isto desativar algum dos meus extras">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+<!ENTITY updateHistory.label             "Mostrar histórico de atualizações">
+<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateOthers.label              "Atualizar automaticamente:">
+<!ENTITY enableAddonsUpdate3.label       "Extras">
+<!ENTITY enableAddonsUpdate3.accesskey   "E">
+
+<!ENTITY useService.label                "Utilizar um serviço em segundo plano para instalar atualizações">
+<!ENTITY useService.accesskey            "z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label "Definições...">
@@ -87,6 +90,7 @@
 <!ENTITY offlineInfo.label "Configurar o modo desligado">
 <!ENTITY showOffline.label "Desligado...">
 <!ENTITY showOffline.accesskey "D">
+
 <!ENTITY Diskspace "Espaço em disco">
 <!ENTITY offlineCompactFolders.label "Compactar todas as pastas quando se puder libertar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "a">
@@ -95,6 +99,7 @@
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
+
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label "Utilizar até">

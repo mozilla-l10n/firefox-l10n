@@ -3,78 +3,76 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Procurar mensagens em:">
-<!ENTITY searchHeading.accesskey "r">
-<!ENTITY searchSubfolders.label "Procurar em subpastas">
-<!ENTITY searchSubfolders.accesskey "o">
-<!ENTITY searchOnServer.label "Procurar no servidor">
-<!ENTITY searchOnServer.accesskey "u">
-<!ENTITY resetButton.label "Limpar">
-<!ENTITY resetButton.accesskey "L">
-<!ENTITY openButton.label "Abrir">
-<!ENTITY openButton.accesskey "A">
-<!ENTITY deleteButton.label "Eliminar">
-<!ENTITY deleteButton.accesskey "l">
-<!ENTITY searchDialogTitle.label "Procurar mensagens">
-<!ENTITY results.label "Resultados">
-<!ENTITY moveHereMenu.label "Mover aqui">
-<!ENTITY moveHereMenu.accesskey "u">
-<!ENTITY moveButton.label "Mover para">
-<!ENTITY moveButton.accesskey "v">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Abrir na pasta">
-<!ENTITY openInFolder.accesskey "r">
-<!ENTITY saveAsVFButton.label "Guardar como pasta de procura">
-<!ENTITY saveAsVFButton.accesskey "c">
+<!ENTITY searchHeading.label 		"Procurar mensagens em:">
+<!ENTITY searchHeading.accesskey 	"n">
+<!ENTITY searchSubfolders.label 	"Procurar em subpastas">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label 		"Procurar no servidor">
+<!ENTITY searchOnServer.accesskey 	"u">
+<!ENTITY resetButton.label 			"Limpar">
+<!ENTITY resetButton.accesskey 		"L">
+<!ENTITY openButton.label 			"Abrir">
+<!ENTITY openButton.accesskey 		"A">
+<!ENTITY deleteButton.label 		"Eliminar">
+<!ENTITY deleteButton.accesskey 	"m">
+<!ENTITY searchDialogTitle.label 	"Procurar mensagens">
+<!ENTITY results.label 				"Resultados">
+<!ENTITY moveButton.label 			"Mover para">
+<!ENTITY moveButton.accesskey 		"v">
+<!ENTITY closeCmd.key 				"W">
+<!ENTITY openInFolder.label 		"Abrir na pasta">
+<!ENTITY openInFolder.accesskey 	"r">
+<!ENTITY saveAsVFButton.label 		"Guardar como pasta de procura">
+<!ENTITY saveAsVFButton.accesskey 	"c">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Procurar em:">
-<!ENTITY abSearchHeading.accesskey "u">
-<!ENTITY propertiesButton.label "Propriedades">
+<!ENTITY abSearchHeading.label 		"Procurar em:">
+<!ENTITY abSearchHeading.accesskey 	"u">
+<!ENTITY propertiesButton.label 	"Propriedades">
 <!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Escrever">
-<!ENTITY composeButton.accesskey "s">
-<!ENTITY deleteCardButton.label      "Eliminar">
-<!ENTITY deleteCardButton.accesskey  "l">
-<!ENTITY abSearchDialogTitle.label "Procura avançada no livro de endereços">
+<!ENTITY composeButton.label 		"Escrever">
+<!ENTITY composeButton.accesskey 	"s">
+<!ENTITY deleteCardButton.label     "Eliminar">
+<!ENTITY deleteCardButton.accesskey "l">
+<!ENTITY abSearchDialogTitle.label 	"Procura avançada no livro de endereços">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Tópico">
-<!ENTITY fromColumn.label "De">
-<!ENTITY recipientColumn.label "Destinatário">
-<!ENTITY subjectColumn.label "Assunto">
-<!ENTITY dateColumn.label "Data">
-<!ENTITY priorityColumn.label "Prioridade">
-<!ENTITY tagsColumn.label "Etiquetas">
-<!ENTITY accountColumn.label "Conta">
-<!ENTITY statusColumn.label "Estado">
-<!ENTITY sizeColumn.label "Tamanho">
-<!ENTITY junkStatusColumn.label "Estado do lixo eletrónico">
-<!ENTITY unreadColumn.label "Não lidas">
-<!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Lidas">
-<!ENTITY receivedColumn.label "Recebidas">
-<!ENTITY starredColumn.label "Com estrela">
-<!ENTITY locationColumn.label "Localização">
-<!ENTITY idColumn.label "Ordem de receção">
+<!ENTITY threadColumn.label 		"Tópico">
+<!ENTITY fromColumn.label 			"De">
+<!ENTITY recipientColumn.label 		"Destinatário">
+<!ENTITY subjectColumn.label 		"Assunto">
+<!ENTITY dateColumn.label 			"Data">
+<!ENTITY priorityColumn.label 		"Prioridade">
+<!ENTITY tagsColumn.label 			"Etiquetas">
+<!ENTITY accountColumn.label 		"Conta">
+<!ENTITY statusColumn.label 		"Estado">
+<!ENTITY sizeColumn.label 			"Tamanho">
+<!ENTITY junkStatusColumn.label 	"Estado de lixo eletrónico">
+<!ENTITY unreadColumn.label 		"Não lidas">
+<!ENTITY totalColumn.label 			"Total">
+<!ENTITY readColumn.label 			"Lidas">
+<!ENTITY receivedColumn.label 		"Recebidas">
+<!ENTITY starredColumn.label 		"Com estrela">
+<!ENTITY locationColumn.label 		"Localização">
+<!ENTITY idColumn.label 			"Ordem de receção">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clique para selecionar as colunas a mostrar">
-<!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem">
-<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
-<!ENTITY subjectColumn.tooltip "Clique para ordenar por assunto">
-<!ENTITY dateColumn.tooltip "Clique para ordenar por data">
-<!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Clique para ordenar por conta">
-<!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
-<!ENTITY junkStatusColumn.tooltip "Clique para ordenar por estado do lixo eletrónico">
-<!ENTITY unreadColumn.tooltip "Número de mensagens não lidas no tópico">
-<!ENTITY totalColumn.tooltip "Número total de mensagens no tópico">
-<!ENTITY readColumn.tooltip "Clique para ordenar por lidas">
-<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de receção">
-<!ENTITY starredColumn.tooltip "Clique para ordenar por estrela">
-<!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
-<!ENTITY idColumn.tooltip "Clique para ordenar por ordem de receção">
+<!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
+<!ENTITY fromColumn2.tooltip "Ordenar por remetente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
+<!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por conta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado do lixo eletrónico">
+<!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas no tópico">
+<!ENTITY totalColumn2.tooltip "Número total de mensagens no tópico">
+<!ENTITY readColumn2.tooltip "Ordenar por lidas">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receção">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrela">
+<!ENTITY locationColumn2.tooltip "Ordenar por localização">
+<!ENTITY idColumn2.tooltip "Ordenar por ordem de receção">
