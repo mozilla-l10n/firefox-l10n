@@ -39,7 +39,7 @@
 <!ENTITY folderCheckForNewMessages2.label        "要檢查這個帳號的新訊息時，永遠檢查這個資料夾">
 <!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
-<!ENTITY offlineFolder.check.label               "選擇這個資料夾以供離線使用">
+<!ENTITY offlineFolder.check.label               "離線閱讀此郵件匣">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "立刻下載">
 <!ENTITY offlineFolder.button.accesskey          "D">

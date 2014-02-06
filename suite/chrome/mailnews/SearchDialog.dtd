@@ -5,7 +5,7 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "搜尋郵件:">
 <!ENTITY searchHeading.accesskey     "e">
-<!ENTITY searchSubfolders.label      "搜尋子郵件匣">
+<!ENTITY searchSubfolders.label      "搜尋子資料夾">
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnHeading.label       "於下列位置搜尋:">
 <!ENTITY searchOnHeading.accesskey   "P">
