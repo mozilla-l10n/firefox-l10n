@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Donner votre avis…">
 <!ENTITY helpFeedbackPage.accesskey  "D">
 
+<!ENTITY helpShowTour.label             "Visite guidée de &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "V">
+
 <!ENTITY preferencesCmdMac.label        "Préférences…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
