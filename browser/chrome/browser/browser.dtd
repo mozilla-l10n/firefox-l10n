@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
 
+<!ENTITY appmenu.tooltip                     "פתיחת תפריט">
+<!ENTITY navbarOverflow.label                "כלים נוספים…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "טעינת לשונית מחדש">
 <!ENTITY  reloadTab.accesskey                "ט">
@@ -42,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "קבוצה חדשה">
 <!ENTITY  moveToNewWindow.label              "העבר לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
-<!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות...">
+<!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות…">
 <!ENTITY  bookmarkAllTabs.accesskey          "צ">
 <!ENTITY  undoCloseTab.label                 "בטל סגירת לשונית">
 <!ENTITY  undoCloseTab.accesskey             "ב">
@@ -59,16 +62,14 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "פתח מיקום">
-<!ENTITY openLocationCmd.accesskey "מ">
-<!ENTITY openFileCmd.label "פתח קובץ...">
+<!ENTITY openFileCmd.label "פתיחת קובץ…">
 <!ENTITY openFileCmd.accesskey "ק">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "הגדרת עמוד...">
+<!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
-<!ENTITY printPreviewCmd.label "הצג לפני הדפסה">
+<!ENTITY printPreviewCmd.label "הצגה לפני הדפסה">
 <!ENTITY printPreviewCmd.accesskey "נ">
-<!ENTITY printCmd.label "הדפסה...">
+<!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "p">
 
@@ -100,6 +101,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "הצג את כל הלשוניות">
 <!ENTITY showAllTabsCmd.accesskey "כ">
 
+<!ENTITY fxaSignIn.label "התחברות אל &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; כעת מסתנכרן">
+<!ENTITY syncStartPanel.subTitle "ניתן לנהל את &syncBrand.shortName.label; במסך האפשרויות.">
+<!ENTITY syncStartPanel.subTitleUnix "ניתן לנהל את &syncBrand.shortName.label; במסך ההעדפות.">
+<!ENTITY syncErrorPanel.heading "לא ניתן להתחבר אל &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "בבקשה להיכנס לחשבון כדי לחדש את הסינכון. ">
+<!ENTITY syncErrorPanel.signInButton.label "התחברות">
+<!ENTITY syncErrorPanel.signInButton.accesskey "ה">
+
 <!ENTITY fullScreenMinimize.tooltip "מזער">
 <!ENTITY fullScreenRestore.tooltip "שחזר">
 <!ENTITY fullScreenClose.tooltip "סגור">
@@ -120,6 +131,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
 <!ENTITY bookmarkThisPageCmd.label "צור סימנייה לדף זה">
+<!ENTITY editThisBookmarkCmd.label "עריכת סימנייה זו">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "שיתוף דף זה">
@@ -133,36 +145,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "ש">
 <!ENTITY shareVideoCmd.label "שיתוף וידאו זה">
 <!ENTITY shareVideoCmd.accesskey "ש">
-<!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
-<!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
-<!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
-<!ENTITY showAllBookmarks2.label "הצג את כל הסימניות">
+<!ENTITY feedsMenu.label "הרשמה">
+<!ENTITY subscribeToPageMenupopup.label "הרשמה לדף זה">
+<!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
+<!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
+<!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
 <!ENTITY unsortedBookmarksCmd.label "סימניות לא ממוינות">
-<!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
+<!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
 <!ENTITY backCmd.accesskey            "ח">
-<!ENTITY backButton.tooltip           "חזור דף אחד אחורה">
+<!ENTITY backButton.tooltip           "חזרה דף אחד אחורה">
 <!ENTITY forwardCmd.label             "קדימה">
 <!ENTITY forwardCmd.accesskey         "ק">
-<!ENTITY forwardButton.tooltip        "התקדם דף אחד קדימה">
+<!ENTITY forwardButton.tooltip        "התקדמות דף אחד קדימה">
 <!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
 <!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
-<!ENTITY reloadCmd.label              "טען מחדש">
+<!ENTITY reloadCmd.label              "טעינה מחדש">
 <!ENTITY reloadCmd.accesskey          "ט">
-<!ENTITY reloadButton.tooltip         "טען מחדש דף נוכחי">
-<!ENTITY stopCmd.label                "עצור">
+<!ENTITY reloadButton.tooltip         "טעינה מחדש של דף נוכחי">
+<!ENTITY stopCmd.label                "עצירה">
 <!ENTITY stopCmd.accesskey            "צ">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "הפסק לטעון דף זה">
-<!ENTITY goEndCap.tooltip             "עבור לכתובת שבסרגל המיקום">
+<!ENTITY stopButton.tooltip           "הפסקת טעינת דף זה">
+<!ENTITY goEndCap.tooltip             "מעבר לכתובת שבסרגל המיקום">
 <!ENTITY printButton.label            "הדפסה">
-<!ENTITY printButton.tooltip          "הדפס דף זה">
+<!ENTITY printButton.tooltip          "הדפסת דף זה">
 
 <!ENTITY backForwardItem.title        "אחורה/קדימה">
 <!ENTITY locationItem.title           "מיקום">
-<!ENTITY searchItem.title             "חפש">
-<!ENTITY bookmarksItem.title          "סימניות">
+<!ENTITY searchItem.title             "חיפוש">
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "דף הבית">
@@ -174,10 +186,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
-<!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
 <!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממוינות">
-<!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
-<!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
+<!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
+<!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -191,11 +202,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "כלים">
 <!ENTITY toolsMenu.accesskey          "כ"> 
 
-<!ENTITY keywordfield.label           "הוסף מילת מפתח לחיפוש זה...">
+<!ENTITY keywordfield.label           "הוספת מילת מפתח לחיפוש זה…">
 <!ENTITY keywordfield.accesskey       "ס">
 
 <!ENTITY downloads.label              "הורדות">
-<!ENTITY downloads.tooltip            "מציג את התקדמות ההורדות הקיימות שלך">
+<!ENTITY downloads.tooltip            "הצגת התקדמות ההורדות הקיימות שלך">
 <!ENTITY downloads.accesskey          "ד">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -243,9 +254,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "מנפה שגיאות בדפדפן">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "ארגז הכלים של הדפדפן">
+<!ENTITY browserToolboxMenu.accesskey "א">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "סגירת סרגל כלים מפתחים">
 <!ENTITY devToolbarMenu.label              "סרגל כלים מפתחים">
@@ -313,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ם"> 
 <!ENTITY viewSidebarMenu.label "סרגל צד">
 <!ENTITY viewSidebarMenu.accesskey "ג">
-<!ENTITY viewCustomizeToolbar.label       "התאמה אישית..."> 
+<!ENTITY viewCustomizeToolbar.label       "התאמה אישית…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ה">
 
 <!ENTITY historyMenu.label "היסטוריה">
@@ -327,6 +339,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "התאמה אישית">
+
+<!ENTITY appMenuCustomize.tooltip "התאמה אישית של התפריט וסרגלי הכלים">
+<!ENTITY appMenuCustomizeExit.label "יציאה ממצב ההתאמה האישית">
+<!ENTITY appMenuCustomizeExit.tooltip "סיום ההתאמה האישית">
+<!ENTITY appMenuHistory.label "היסטוריה">
+<!ENTITY appMenuHistory.showAll.label "הצגת כול ההיסטוריה">
+<!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
+<!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
+<!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
+<!ENTITY appMenuHelp.tooltip "פתיחת תפריט העזרה">
+
+<!ENTITY customizeMenu.addToToolbar.label "הוספה לסרגל כלים">
+<!ENTITY customizeMenu.addToToolbar.accesskey "ר">
+<!ENTITY customizeMenu.addToPanel.label "הוספה לתפריט">
+<!ENTITY customizeMenu.addToPanel.accesskey "ת">
+<!ENTITY customizeMenu.moveToToolbar.label "העברה לסרגל כלים">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "ס">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "העברה לתפריט">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ע">
+<!ENTITY customizeMenu.removeFromToolbar.label "הסרה מסרגל כלים">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "ר">
+<!ENTITY customizeMenu.removeFromMenu.label "הסרה מתפריט">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "ר">
+<!ENTITY customizeMenu.addMoreItems.label "הוספת פריטים נוספים…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "נ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
@@ -401,7 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "צ">
 <!ENTITY viewBGImageCmd.label         "הצגת תמונת רקע">
 <!ENTITY viewBGImageCmd.accesskey     "ת">
-<!ENTITY setDesktopBackgroundCmd.label      "קביעה כתמונת רקע...">
+<!ENTITY setDesktopBackgroundCmd.label      "קביעה כתמונת רקע בשולחן העבודה…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
 <!ENTITY bookmarkPageCmd2.label       "יצירת סימנייה לדף זה">
 <!ENTITY bookmarkPageCmd2.accesskey   "ס">
@@ -411,18 +453,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
-<!ENTITY savePageCmd.label            "שמירת דף בשם...">
+<!ENTITY switchToMetroCmd.label       "הפעלה מחדש של &brandShortName; במצב Windows 8">
+<!ENTITY savePageCmd.label            "שמירת דף בשם…">
 <!ENTITY savePageCmd.accesskey        "ר">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "ב">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "שמירת מסגרת בשם...">
+<!ENTITY saveFrameCmd.label           "שמירת מסגרת בשם…">
 <!ENTITY saveFrameCmd.accesskey       "מ">
-<!ENTITY printFrameCmd.label          "הדפסת מסגרת...">
+<!ENTITY printFrameCmd.label          "הדפסת מסגרת…">
 <!ENTITY printFrameCmd.accesskey      "ה">
-<!ENTITY saveLinkCmd.label            "שמירת קישור בשם...">
+<!ENTITY saveLinkCmd.label            "שמירת קישור בשם…">
 <!ENTITY saveLinkCmd.accesskey        "מ">
-<!ENTITY saveImageCmd.label           "שמירת תמונה בשם...">
+<!ENTITY saveImageCmd.label           "שמירת תמונה בשם…">
 <!ENTITY saveImageCmd.accesskey       "ב">
 <!ENTITY saveVideoCmd.label           "שמירת וידאו בשם…">
 <!ENTITY saveVideoCmd.accesskey       "מ">
@@ -535,6 +578,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "יציאה"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "צ">
+<!ENTITY quitApplicationCmdWin.tooltip     
+"יציאה מ־&brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "יציאה"> 
@@ -560,8 +605,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "ערוך העדפות חסימת חלונות קופצים...">
-<!ENTITY editPopupSettings.label "ערוך אפשרויות חסימת חלונות קופצים...">
+<!ENTITY editPopupSettingsUnix.label "עריכת העדפות חסימת חלונות קופצים…">
+<!ENTITY editPopupSettings.label "עריכת אפשרויות חסימת חלונות קופצים…">
 <!ENTITY editPopupSettings.accesskey "ע">
 <!ENTITY dontShowMessage.accesskey "א">
 
@@ -571,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "מצא בדף זה...">
+<!ENTITY findOnCmd.label     "מצא בדף זה…">
 <!ENTITY findOnCmd.accesskey "מ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "מצא שוב">
@@ -579,7 +624,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "הוסף מילונים...">
+<!ENTITY spellAddDictionaries.label "הוספת מילונים…">
 <!ENTITY spellAddDictionaries.accesskey "ה">
 
 <!ENTITY editBookmark.done.label                     "סיום">
@@ -604,7 +649,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "מידע נוסף…">
 
 <!ENTITY identity.permissions "הרשאות">
-
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!ENTITY identity.help.tooltip "כיצד לדעת אם החיבור שלי לאתר מאובטח?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
@@ -640,7 +688,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "מידע נוסף…">
 <!ENTITY social.learnMore.accesskey "מ">
 <!ENTITY social.closeNotificationItem.label "לא כעת">
-
+<!ENTITY customizeMode.tabTitle "התאמה אישית של &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "תפריט וסרגלי כלים">
+<!ENTITY customizeMode.menuAndToolbars.header2 "סרגלי כלים ותכונות נוספות">
+<!ENTITY customizeMode.menuAndToolbars.empty "מעוניינים בכלים נוספים?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "">
+<!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
+<!ENTITY customizeMode.toolbars "הצגה והסתרה של סרגלי כלים">
+<!ENTITY customizeMode.titlebar "שורת כותרת">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "התמקדות על הצ׳אטים">
 <!ENTITY social.chatBar.accesskey "צ">
@@ -680,8 +735,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "לשונית קרסה">
 <!ENTITY tabCrashed.message "טוב, זה מביך. אנו מנסים להציג את דף האינטרנט הזה, אבל הוא אינו מגיב.">
-<!ENTITY tabCrashed.checkSendReport "דווח ל־&amp;vendorShortName; על קריסה זו כדי שיוכלו לתקן אותה.">
+<!ENTITY tabCrashed.checkSendReport "דווח ל־&vendorShortName; על קריסה זו כדי שיוכלו לתקן אותה.">
 <!ENTITY tabCrashed.tryAgain "נסה שוב">
+<!ENTITY uiTour.infoPanel.close "סגירה">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
@@ -717,5 +773,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "הגדרות מרחק מתצוגה">
 <!ENTITY addonBarCloseButton.tooltip   "סגירת שורת התוספות">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "אחורה/קדימה">
+<!ENTITY viewBookmarksSidebar.label    "הצג בסרגל הצד">
+<!ENTITY bookmarksItem.title           "סימניות">
+<!ENTITY openLocationCmd.label         "פתח מיקום">
+<!ENTITY openLocationCmd.accesskey     "מ">
+<!ENTITY bookmarksMenuButton.tooltip   "הצגת הסימניות שלך">
+<!ENTITY switchToMetroCmd2.label       "הפעלה מחדש של &brandShortName; במצב Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip       "קבץ את הלשוניות שלך">
 <!-- end of strings to be removed post-Australis -->
 
