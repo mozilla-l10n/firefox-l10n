@@ -194,7 +194,7 @@
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
-<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Indstillinger'>
+<!ENTITY fxaccount_options_title 'Indstillinger for &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Indstil &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
