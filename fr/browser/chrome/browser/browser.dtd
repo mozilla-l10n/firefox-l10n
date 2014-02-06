@@ -601,6 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY quitApplicationCmdWin.label       "Quitter">
 <!ENTITY quitApplicationCmdWin.accesskey   "Q">
+<!ENTITY quitApplicationCmdWin.tooltip     "Quitter &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Quitter">
