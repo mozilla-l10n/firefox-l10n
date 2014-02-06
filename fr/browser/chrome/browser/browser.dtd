@@ -777,3 +777,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewBookmarksSidebar.label   "Afficher le panneau des marque-pages">
 <!ENTITY backForwardItem.title        "Page précédente/suivante">
 <!ENTITY bookmarksItem.title          "Marque-pages">
+<!ENTITY openLocationCmd.label         "Ouvrir une adresse…">
+<!ENTITY openLocationCmd.accesskey     "a">
