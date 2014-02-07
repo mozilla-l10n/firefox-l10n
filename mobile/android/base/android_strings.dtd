@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName;-Standortdienste">
 <!ENTITY datareporting_wifi_summary "Helfen Sie bei der Verbesserung von Standortdiensten für das Offene Internet, indem Sie &brandShortName; Mobilfunkmastdaten sammeln und anonym senden lassen.">
 
-<!ENTITY pref_update_autodownload "Automatische Updates">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Updates automatisch herunterladen">
 <!ENTITY pref_update_autodownload_wifi "Nur über WLAN">
-<!ENTITY pref_update_autodownload_disabled "Deaktiviert">
-<!ENTITY pref_update_autodownload_enabled "Aktiviert">
+<!ENTITY pref_update_autodownload_never "Nie">
+<!ENTITY pref_update_autodownload_always "Immer">
 
 <!ENTITY quit "Beenden">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Bearbeiten">
 <!ENTITY contextmenu_top_sites_pin "Seite anheften">
 <!ENTITY contextmenu_top_sites_unpin "Seite ablösen">
+<!ENTITY contextmenu_add_search_engine "Suchmaschine hinzufügen">
 
 <!ENTITY pref_titlebar_mode "Titelleiste">
 <!ENTITY pref_titlebar_mode_title "Seitentitel anzeigen">
 <!ENTITY pref_titlebar_mode_url "Seitenadresse anzeigen">
+
+<!ENTITY pref_dynamic_toolbar "Titelleiste bei Bildlauf ausblenden">
 
 <!ENTITY history_removed "Seite vergessen">
 
@@ -370,3 +376,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; startet jetzt neu">
 <!ENTITY exit_guest_session_text "Die Browser-Daten der letzten Sitzung werden gelöscht.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Menü">
+<!ENTITY actionbar_done "Fertig">
