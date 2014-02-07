@@ -23,23 +23,23 @@
 <!ENTITY idColumn.label "Empfangsreihenfolge">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
-<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Threads anzuzeigen"> 
-<!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
-<!ENTITY recipientColumn.tooltip "Klicken Sie hier, um nach Empfänger zu sortieren">
-<!ENTITY attachmentColumn.tooltip "Klicken, um nach Anhängen zu sortieren">
-<!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
-<!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
-<!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">
-<!ENTITY tagsColumn.tooltip "Klicken, um nach Tags zu sortieren">
-<!ENTITY accountColumn.tooltip "Klicken, um nach Account zu sortieren">
-<!ENTITY statusColumn.tooltip "Klicken, um nach Status zu sortieren">
-<!ENTITY sizeColumn.tooltip "Klicken, um nach Größe zu sortieren">
-<!ENTITY junkStatusColumn.tooltip "Klicken, um nach Junk-Status zu sortieren">
-<!ENTITY unreadColumn.tooltip "Anzahl der ungelesenen Nachrichten im Thread">
-<!ENTITY totalColumn.tooltip "Gesamtzahl der Nachrichten im Thread">
-<!ENTITY readColumn.tooltip "Klicken, um nach Gelesen-Status zu sortieren">
-<!ENTITY receivedColumn.tooltip "Klicken, um nach Empfangsdatum zu sortieren">
-<!ENTITY flagColumn.tooltip "Klicken, um nach Kennzeichnung zu sortieren">
-<!ENTITY locationColumn.tooltip "Klicken, um nach Adresse zu sortieren">
-<!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">
+<!ENTITY columnChooser2.tooltip "Wählen Sie die anzuzeigenden Spalten">
+<!ENTITY threadColumn2.tooltip "Nachrichtenthreads anzeigen">
+<!ENTITY fromColumn2.tooltip "Nach Von sortieren">
+<!ENTITY recipientColumn2.tooltip "Nach Empfänger sortieren">
+<!ENTITY attachmentColumn2.tooltip "Nach Anhängen sortieren">
+<!ENTITY subjectColumn2.tooltip "Nach Betreff sortieren">
+<!ENTITY dateColumn2.tooltip "Nach Datum sortieren">
+<!ENTITY priorityColumn2.tooltip "Nach Priorität sortieren">
+<!ENTITY tagsColumn2.tooltip "Nach Tags sortieren">
+<!ENTITY accountColumn2.tooltip "Nach Account sortieren">
+<!ENTITY statusColumn2.tooltip "Nach Status sortieren">
+<!ENTITY sizeColumn2.tooltip "Nach Größe sortieren">
+<!ENTITY junkStatusColumn2.tooltip "Nach Junk-Status sortieren">
+<!ENTITY unreadColumn2.tooltip "Anzahl an ungelesenen Nachrichten im Thread">
+<!ENTITY totalColumn2.tooltip "Gesamte Anzahl an Nachrichten im Thread">
+<!ENTITY readColumn2.tooltip "Nach Gelesen sortieren">
+<!ENTITY receivedColumn2.tooltip "Nach Empfangsdatum sortieren">
+<!ENTITY flagColumn2.tooltip "Nach Kennzeichnung sortieren">
+<!ENTITY locationColumn2.tooltip "Nach Adresse sortieren">
+<!ENTITY idColumn2.tooltip "Nach Empfangsreihenfolge sortieren">
