@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Als eingebundenen Text">
 <!ENTITY buttonMenuForwardAsAttachment.label "Als Anhang">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Externe Inhalte in dieser Nachricht anzeigen">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
+<!ENTITY remoteContentOptionAllowForAddress.label "Externe Inhalte von diesem Absender immer anzeigen">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "A">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Warnung für diese Nachricht ignorieren">
+<!ENTITY phishingOptionIgnore.accesskey "d">
+<!ENTITY phishingOptionDisableDetection.label "Warnungen vor Betrugsversuchen für alle Nachrichten deaktivieren">
+<!ENTITY phishingOptionDisableDetection.accesskey "a">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Neue Nachricht">
 <!ENTITY appmenuNewContactCmd.label "Adressbuchkontakt…">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "T">
 <!ENTITY contextUnmute.label "Ton an">
 <!ENTITY contextUnmute.accesskey "T">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; hat diese Nachricht als Junk eingestuft.">
-<!ENTITY junkBarButton1.label "Kein Junk">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Das Nachladen externer Inhalte wurde blockiert, um Ihre Privatsphäre zu schützen.">
-<!ENTITY loadRemoteContentButton3.label "Externe Inhalte anzeigen">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
-<!ENTITY removePhishingBarButton1.label "Warnung ignorieren">
-<!ENTITY disablePhishingWarning1.label "Erkennung von Betrugsversuchen deaktivieren">
-<!ENTITY reportPhishingError1.label "Diese Nachricht ist scheinbar kein Betrugsversuch">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorieren">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Bestätigung senden">
-<!ENTITY mdnBarSendButton2.accesskey "B">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
