@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Export von Feeds mit Ordnerstruktur; Strg-Klick oder Strg-Enter, um Feeds als List zu exportieren">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Schließen">
