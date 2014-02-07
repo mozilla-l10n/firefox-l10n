@@ -160,7 +160,7 @@
 <!ENTITY sortByFromCmd.accesskey "V">
 <!ENTITY sortByRecipientCmd.label "Empfänger">
 <!ENTITY sortByRecipientCmd.accesskey "E">
-<!ENTITY sortByUnreadCmd.label "Gelesenen">
+<!ENTITY sortByUnreadCmd.label "Gelesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Empfangsreihenfolge">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
