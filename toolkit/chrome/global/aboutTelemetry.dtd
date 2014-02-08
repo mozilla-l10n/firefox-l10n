@@ -67,3 +67,7 @@
 <!ENTITY aboutTelemetry.hideSymbols "
   Onbewerkte gegevens van vastlopers tonen
 ">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filter (strings of /regexp/)
+">
