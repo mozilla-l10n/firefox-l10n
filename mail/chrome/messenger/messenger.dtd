@@ -317,8 +317,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Dossier">
 <!ENTITY folderMenu.accesskey "o">
-<!ENTITY thisFolder.label "Ce dossier">
-<!ENTITY thisFolder.accesskey "C">
 <!ENTITY goRecentlyClosedTabs.label "Onglets récemment fermés">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Page de démarrage">
@@ -383,10 +381,6 @@
 <!ENTITY watchThreadMenu.label "Surveiller la discussion">
 <!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Classer ici">
-<!ENTITY fileHereMenu.accesskey "a">
-<!ENTITY copyHereMenu.label "Copier ici">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Étiquette">
 <!ENTITY tagMenu.accesskey "q">
 <!ENTITY tagCmd0.key "0">
