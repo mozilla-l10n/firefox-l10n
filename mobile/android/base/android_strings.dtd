@@ -66,7 +66,7 @@
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_customize "Personnalisation">
-<!ENTITY pref_category_search2 "Paramètres de recherche">
+<!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_display "Affichage">
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_vendor "&vendorShortName;">
