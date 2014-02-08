@@ -203,6 +203,7 @@
 <!ENTITY attachButton.label "Vedhæft">
 <!ENTITY spellingButton.label "Stavekontrol">
 <!ENTITY saveButton.label "Gem">
+<!ENTITY printButton.label "Udskriv">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send meddelelsen nu">
@@ -215,6 +216,7 @@
 <!ENTITY cutButton.tooltip "Klip">
 <!ENTITY copyButton.tooltip "Kopier">
 <!ENTITY pasteButton.tooltip "Sæt ind">
+<!ENTITY printButton.tooltip "Udskriv denne meddelelse">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

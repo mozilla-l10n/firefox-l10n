@@ -63,20 +63,21 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Kontroller automatisk for opdateringer til:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Installerede tilføjelser">
-<!ENTITY enableAddonsUpdate.accesskey   "I">
-<!ENTITY whenUpdatesFound.label         "Når opdateringer til &brandShortName; er tilgængelige,">
-<!ENTITY modeAskMe.label                "Spørg mig, hvad der skal gøres">
-<!ENTITY modeAskMe.accesskey            "S">
-<!ENTITY modeAutomatic.label "Hent automatisk og påbegynd installation">
-<!ENTITY modeAutomatic.accesskey "H">
-<!ENTITY modeAutoAddonWarn.label        "Advar mig, hvis dette deaktiverer nogle af mine tilføjelser">
-<!ENTITY modeAutoAddonWarn.accesskey    "A">
-<!ENTITY showUpdates.label "Vis opdateringshistorik">
-<!ENTITY showUpdates.accesskey "V">
+<!ENTITY updateApp.label                 "Opdateringer til &brandShortName;:">
+<!ENTITY updateAuto.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Søg efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
+<!ENTITY updateManual.accesskey          "ø">
+<!ENTITY updateAutoAddonWarn.label       "Advar mig, hvis dette vil deaktivere nogle af mine tilføjelser">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateHistory.label             "Vis opdateringshistorik">
+<!ENTITY updateHistory.accesskey         "V">
+<!ENTITY updateOthers.label              "Opdater automatisk:">
+<!ENTITY enableAddonsUpdate3.label       "Tilføjelser">
+<!ENTITY enableAddonsUpdate3.accesskey   "T">
+
 <!ENTITY useService.label                "Installér opdateringer i baggrunden">
 <!ENTITY useService.accesskey            "b">
 
