@@ -255,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
 <!ENTITY pref_titlebar_mode_url "Afficher l\u0027adresse de la page">
 
-<!ENTITY pref_dynamic_toolbar "Barre de titre dynamique">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Barre de titre dynamique">
 
 <!ENTITY history_removed "Page supprimée">
 
