@@ -208,7 +208,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "U">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
