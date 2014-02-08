@@ -61,20 +61,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "F">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Rechercher automatiquement des mises à jour pour :">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "les modules installés">
-<!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY whenUpdatesFound.label         "Quand des mises à jour pour &brandShortName; sont disponibles :">
-<!ENTITY modeAskMe.label                "demander ce qu'il faut faire">
-<!ENTITY modeAskMe.accesskey            "d">
-<!ENTITY modeAutomatic.label            "télécharger et installer automatiquement les mises à jour">
-<!ENTITY modeAutomatic.accesskey        "c">
-<!ENTITY modeAutoAddonWarn.label        "avertir si cela désactive des modules">
-<!ENTITY modeAutoAddonWarn.accesskey    "v">
-<!ENTITY showUpdates.label              "Afficher l'historique des mises à jour">
-<!ENTITY showUpdates.accesskey          "A">
+<!ENTITY updateApp.label                 "Mises à jour de &brandShortName; :">
+<!ENTITY updateAuto.label                "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Vérifier l'existence de mises à jour mais me laisser décider de leur installation">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Ne jamais vérifier les mises à jour (déconseillé, cela représente un risque de sécurité)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Me prévenir si cela désactive certains de mes modules">
+<!ENTITY updateAutoAddonWarn.accesskey   "M">
+<!ENTITY updateHistory.label             "Afficher l'historique des mises à jour">
+<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateOthers.label              "Mettre à jour automatiquement :">
+<!ENTITY enableAddonsUpdate3.label       "les modules complémentaires">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
 <!ENTITY useService.accesskey            "s">
