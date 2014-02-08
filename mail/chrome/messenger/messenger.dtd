@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenConversation.label "Åbn meddelelsen i korrespondancevisning">
 <!ENTITY contextOpenConversation.accesskey "Å">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny meddelelse">
-<!ENTITY contextEditMsgAsNew.accesskey "R">
+<!ENTITY contextEditMsgAsNew.accesskey "y">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
