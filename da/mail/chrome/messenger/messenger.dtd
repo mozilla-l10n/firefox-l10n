@@ -319,8 +319,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappe">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Denne mappe">
-<!ENTITY thisFolder.accesskey "D">
 <!ENTITY goRecentlyClosedTabs.label "Senest lukkede faneblade">
 <!ENTITY goRecentlyClosedTabs.accesskey "e">
 <!ENTITY startPageCmd.label "Startsiden">
@@ -360,9 +358,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Vedhæftet fil">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Rediger meddelelsen som ny">
-<!ENTITY editMsgAsNewCmd.accesskey "R">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Rediger meddelelsen som ny">
+<!ENTITY editAsNewMsgCmd.accesskey "R">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Opret filter…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Flyt til">
@@ -385,10 +383,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "Overvåg tråden">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Gem her">
-<!ENTITY fileHereMenu.accesskey "G">
-<!ENTITY copyHereMenu.label "Kopier hertil">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Mærkat">
 <!ENTITY tagMenu.accesskey "æ">
 <!ENTITY tagCmd0.key "0">
@@ -577,13 +571,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt indhold i denne meddelelse">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
 <!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt indhold fra denne afsender">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "a">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "i">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meddelelse">
 <!ENTITY phishingOptionIgnore.accesskey "I">
-<!ENTITY phishingOptionDisableDetection.label "Slå tjekket for mailsvindel fra for alle meddelelser">
-<!ENTITY phishingOptionDisableDetection.accesskey "a">
+<!ENTITY phishingOptionSettings.label "Rediger indstillinger for mailsvindel…">
+<!ENTITY phishingOptionSettings.accesskey "R">
+<!ENTITY phishingOptionSettingsUnix.label "Rediger indstillinger for mailsvindel…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "R">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
@@ -679,26 +675,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "Vedhæftede filer">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Vælg hvilke kolonner der skal vises">
-<!ENTITY threadColumn.tooltip "Vis meddelelser i tråde">
-<!ENTITY fromColumn.tooltip "Sorter efter afsender">
-<!ENTITY recipientColumn.tooltip "Sorter efter modtager">
-<!ENTITY subjectColumn.tooltip "Sorter efter emne">
-<!ENTITY dateColumn.tooltip "Sorter efter dato">
-<!ENTITY priorityColumn.tooltip "Sorter efter prioritet">
-<!ENTITY tagsColumn.tooltip "Sorter efter mærkater">
-<!ENTITY accountColumn.tooltip "Sorter efter konto">
-<!ENTITY statusColumn.tooltip "Sorter efter status">
-<!ENTITY sizeColumn.tooltip "Sorter efter størrelse">
-<!ENTITY junkStatusColumn.tooltip "Sorter efter spam-status">
-<!ENTITY unreadColumn.tooltip "Antal ulæste meddelelser i tråden">
-<!ENTITY totalColumn.tooltip "Samlede antal meddelelser i tråden">
-<!ENTITY readColumn.tooltip "Sorter efter læst">
-<!ENTITY receivedColumn.tooltip "Sorter efter modtagelsesdato">
-<!ENTITY starredColumn.tooltip "Sorter efter stjernemarkering">
-<!ENTITY locationColumn.tooltip "Sorter efter placering">
-<!ENTITY idColumn.tooltip "Sorter efter modtagelsesorden">
-<!ENTITY attachmentColumn.tooltip "Sorter efter vedhæftede filer">
+<!ENTITY columnChooser2.tooltip "Vælg hvilke kolonner der skal vises">
+<!ENTITY threadColumn2.tooltip "Vis meddelelser i tråde">
+<!ENTITY fromColumn2.tooltip "Sorter efter afsender">
+<!ENTITY recipientColumn2.tooltip "Sorter efter modtager">
+<!ENTITY subjectColumn2.tooltip "Sorter efter emne">
+<!ENTITY dateColumn2.tooltip "Sorter efter dato">
+<!ENTITY priorityColumn2.tooltip "Sorter efter prioritet">
+<!ENTITY tagsColumn2.tooltip "Sorter efter mærkater">
+<!ENTITY accountColumn2.tooltip "Sorter efter konto">
+<!ENTITY statusColumn2.tooltip "Sorter efter status">
+<!ENTITY sizeColumn2.tooltip "Sorter efter størrelse">
+<!ENTITY junkStatusColumn2.tooltip "Sorter efter spam-status">
+<!ENTITY unreadColumn2.tooltip "Antal ulæste meddelelser i tråden">
+<!ENTITY totalColumn2.tooltip "Samlede antal meddelelser i tråden">
+<!ENTITY readColumn2.tooltip "Sorter efter læst">
+<!ENTITY receivedColumn2.tooltip "Sorter efter modtagelsesdato">
+<!ENTITY starredColumn2.tooltip "Sorter efter stjernemarkering">
+<!ENTITY locationColumn2.tooltip "Sorter efter placering">
+<!ENTITY idColumn2.tooltip "Sorter efter modtagelsesorden">
+<!ENTITY attachmentColumn2.tooltip "Sorter efter vedhæftede filer">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åbn meddelelsen i et nyt vindue">
@@ -707,8 +703,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Åbn meddelelsen i korrespondancevisning">
 <!ENTITY contextOpenConversation.accesskey "Å">
-<!ENTITY contextEditAsNew.label "Rediger som ny…">
-<!ENTITY contextEditAsNew.accesskey "y">
+<!ENTITY contextEditMsgAsNew.label "Rediger som ny meddelelse">
+<!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
@@ -837,8 +833,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "t">
 <!ENTITY AddDirectlyToAddressBook.label "Føj til adressebog">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact.label "Rediger kontakt…">
-<!ENTITY EditContact.accesskey "e">
+<!ENTITY EditContact1.label "Rediger kontakt">
+<!ENTITY EditContact1.accesskey "e">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Abonner på nyhedsgruppe">

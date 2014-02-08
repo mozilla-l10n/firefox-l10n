@@ -3,6 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label "vælg dette for den overordnede">
 <!ENTITY filemessageschoosethis.label "vælg denne mappe">
 <!ENTITY recentfolders.label            "Seneste">
