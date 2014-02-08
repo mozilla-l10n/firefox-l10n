@@ -114,6 +114,16 @@
 <!ENTITY options.timestampMessages.label      "Tijdstempels inschakelen">
 <!ENTITY options.timestampMessages.tooltip    "Als u deze optie inschakelt, zullen opdrachten en uitvoer in de webconsole een tijdstempel weergeven">
 
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Stijleditor">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Orginele bronnen tonen">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Orginele bronnen (bv. Sass-bestanden) in de Stijleditor en Inspector tonen">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
