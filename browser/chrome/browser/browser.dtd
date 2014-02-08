@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.tooltip           "S'abonner à cette page…">
 
 <!ENTITY bookmarksButton.label      "Marque-pages">
-<!ENTITY bookmarksButton.tooltip    "Afficher le panneau des marque-pages">
+<!ENTITY bookmarksButton.tooltip    "Afficher panneau des marque-pages">
 <!ENTITY bookmarksCmd.commandkey    "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
