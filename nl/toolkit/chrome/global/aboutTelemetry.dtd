@@ -20,6 +20,10 @@
   Browservastlopers
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Conversatievastlopers
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammen
 ">
