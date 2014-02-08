@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "r">
 <!ENTITY folderPickerPrefix.label "Exécuter le(s) filtre(s) sélectionné(s) sur :">
 <!ENTITY folderPickerPrefix.accesskey "l">
-<!ENTITY choosethis.label "choisir ce dossier">
-<!ENTITY choosethisnewsserver.label "choisir ce serveur de groupes">
 <!ENTITY helpButton.label "Aide">
 <!ENTITY helpButton.accesskey "e">
 <!ENTITY closeCmd.key "W">
