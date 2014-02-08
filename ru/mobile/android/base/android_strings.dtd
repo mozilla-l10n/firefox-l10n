@@ -154,6 +154,7 @@
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
+<!ENTITY page "Страница">
 <!ENTITY tools "Инструменты">
 <!ENTITY new_tab "Новая вкладка">
 <!ENTITY new_private_tab "Приватная вкладка">
