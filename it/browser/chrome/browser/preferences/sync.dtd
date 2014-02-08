@@ -44,7 +44,7 @@
 <!ENTITY disconnect.label "Disconnetti…">
 <!ENTITY verify.label "Verifica email">
 <!ENTITY forget.label "Dimentica questa email">
-<!ENTITY welcome.description "Accedi ovunque con &brandShortName; a schede, segnalibri, password e molto altro ancora.">
+<!ENTITY welcome.description "Schede, segnalibri, password e altre informazioni accessibili in qualunque situazione utilizzando &brandShortName;.">
 <!ENTITY welcome.signIn.label "Accedi">
-<!ENTITY welcome.createAccount.label "Crea account">
-<!ENTITY welcome.useOldSync.label "Stai utilizzando una vecchia versione di Sync?">
+<!ENTITY welcome.createAccount.label "Crea un account">
+<!ENTITY welcome.useOldSync.label "Informazioni per gli utenti che utilizzano una vecchia versione di Sync">

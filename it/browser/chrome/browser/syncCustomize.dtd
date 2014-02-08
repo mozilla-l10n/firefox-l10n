@@ -17,5 +17,5 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.addons.label "Componenti aggiuntivi desktop">
 <!ENTITY engine.addons.accesskey "C">
-<!ENTITY engine.prefs.label "I">
-<!ENTITY engine.prefs.accesskey "Impostazioni desktop">
+<!ENTITY engine.prefs.label "Impostazioni desktop">
+<!ENTITY engine.prefs.accesskey "I">
