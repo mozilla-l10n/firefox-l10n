@@ -131,7 +131,8 @@
 <!ENTITY fxaccount.sign.in 'Prihlásiť sa'>
 <!ENTITY fxaccount.create.account 'Vytvoriť účet'>
 
-<!ENTITY fxaccount.old.firefox "&lt;a href=\'http://mozilla.com\'&gt;Používate služby &syncBrand.shortName.label; v staršej verzii prehliadača &brandShortName;?&lt;/a&gt;">
+<!ENTITY fxaccount.link.old.firefox 'https://support.mozilla.org/kb/use-sync-with-an-older-version-of-firefox'>
+<!ENTITY fxaccount.old.firefox 'Používate služby &syncBrand.shortName.label; v staršej verzii prehliadača &brandShortName;?'>
 
 <!ENTITY fxaccount.when.were.you.born 'Kedy ste sa narodili?'>
 <!ENTITY fxaccount.year.of.birth 'Rok narodenia'>
