@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "下载项">
-<!ENTITY aboutDownloads.header                     "您的下载">
+<!ENTITY aboutDownloads.header                     "您的下载项">
 <!ENTITY aboutDownloads.empty                      "没有下载">
 
 <!ENTITY aboutDownloads.open                       "打开">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "查找">
-<!ENTITY newpref.label          "添加新首选项">
 <!ENTITY addpref.name           "名称">
-<!ENTITY addpref.value          "值">
 
 <!ENTITY cancel.label           "取消">
-<!ENTITY reset.label            "重置">
-<!ENTITY done.label             "完成">
+<!ENTITY toggle.label           "切换">
 
 <!ENTITY integer.label          "整数">
 <!ENTITY string.label           "字符串">
 <!ENTITY boolean.label          "布尔">
+
+<!ENTITY string.placeholder     "输入一个字符串">
+<!ENTITY number.placeholder     "输入一个数字">

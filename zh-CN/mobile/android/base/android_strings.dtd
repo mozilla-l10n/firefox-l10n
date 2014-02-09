@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "切换到标签页">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
-<!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在 &brandShortName; 下次启动时的开始页面中列出。">
+<!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "我们很抱歉">
@@ -66,13 +66,16 @@
 <!ENTITY settings_title "设置">
 <!ENTITY pref_category_advanced "高级">
 <!ENTITY pref_category_customize "自定义">
-<!ENTITY pref_category_search2 "搜索设置">
+<!ENTITY pref_category_search3 "搜索">
 <!ENTITY pref_category_display "显示">
 <!ENTITY pref_category_privacy_short "隐私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "反馈">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
 <!ENTITY pref_category_add_search_providers "添加更多搜索提供商">
+<!ENTITY pref_category_search_restore_defaults "恢复搜索引擎">
+<!ENTITY pref_search_restore_defaults "恢复默认设置">
+<!ENTITY pref_search_restore_defaults_summary "恢复默认设置">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "远程调试">
 <!ENTITY pref_developer_remotedebugging_docs "详细了解">
 <!ENTITY pref_remember_signons "记住密码">
+
+<!ENTITY pref_category_home "主页">
+<!ENTITY pref_category_home_panels "面板">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "自定义">
@@ -98,7 +104,7 @@
 <!ENTITY pref_donottrack_menu "跟踪">
 <!ENTITY pref_donottrack_disallow_tracking "告诉网站我不想被跟踪">
 <!ENTITY pref_donottrack_allow_tracking "告诉网站我想被跟踪">
-<!ENTITY pref_donottrack_no_pref "不要告诉网站我对跟踪的任何偏好">
+<!ENTITY pref_donottrack_no_pref "不要告诉网站我对跟踪的偏好">
 
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常见问题">
 <!ENTITY pref_vendor_feedback "提供反馈">
-<!ENTITY pref_search_set_default "设为默认">
-<!ENTITY pref_search_default "默认">
-<!ENTITY pref_search_remove "移除">
+
+<!ENTITY pref_dialog_set_default "设为默认">
+<!ENTITY pref_dialog_default "默认值">
+<!ENTITY pref_dialog_remove "移除">
+
 <!ENTITY pref_search_last_toast "您可以移除或禁用您最少使用的搜索引擎。">
+
+<!ENTITY pref_panels_show "显示">
+<!ENTITY pref_panels_hide "隐藏">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
 <!ENTITY datareporting_notification_action_long "选择想分享的信息">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "下一个">
 <!ENTITY find_close "关闭">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "正在投射到设备">
+<!ENTITY media_play "播放">
+<!ENTITY media_pause "暂停">
+<!ENTITY media_stop "停止">
+
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
 <!ENTITY contextmenu_open_private_tab "在隐私浏览标签页打开">
 <!ENTITY contextmenu_open_in_reader "在阅读器中打开">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
 <!ENTITY pref_titlebar_mode_url "显示页面地址">
 
-<!ENTITY pref_dynamic_toolbar "滚动时隐藏标题栏">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "滚动标题栏">
 
 <!ENTITY history_removed "页面已移除">
 

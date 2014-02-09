@@ -6,7 +6,7 @@
 <!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "配置访问国际互联网的代理">
-<!ENTITY  noProxyTypeRadio.label        "无代理">
+<!ENTITY  noProxyTypeRadio.label        "不使用代理">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "使用系统代理设置">
 <!ENTITY  systemTypeRadio.accesskey     "u">
