@@ -8,15 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "崩溃报告里有什么内容？">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "崩溃报告包含一些有关此次崩溃发生时您的机器及您的浏览器状态的快照。">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "这有可能包含像打开的页面、输入到表单的文本，以及打开的内容、最近的浏览历史、与网站共享的地理位置等。">
-<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
-     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
-     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
-     If the structure of the English strings doesn't work for your locale, you can
-     move "&brandShortName; privacy policy." to the first sentence, and use a
-     generic "More information" for the link. These strings will be updated in the
-     next version of Firefox. -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "我们会使用崩溃报告来尝试解决问题和改善我们的产品。我们处理您的信息时遵循 ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "我们会使用崩溃报告来尝试解决问题和改善我们的产品。我们处理您的信息时遵循 ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; 隐私权政策">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "包含我所在页面的地址">
 <!ENTITY crashprompt.acceptbutton    "发送报告">
 <!ENTITY crashprompt.refusebutton    "不要发送">

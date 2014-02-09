@@ -4,11 +4,12 @@
 
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
-<!ENTITY urlbar.emptytext      "输入搜索或地址">
+<!ENTITY urlbar.emptytext      "搜索或输入网址">
 
 <!ENTITY back.label            "后退">
 <!ENTITY forward.label         "前进">
 <!ENTITY newtab.label          "新建标签页">
+<!ENTITY newPrivateTab.label   "新建隐私浏览标签页">
 <!ENTITY closetab.label        "关闭标签页">
 
 <!ENTITY autocompleteResultsHeader.label  "您的结果">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -118,10 +121,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTabs.label "找不见你的标签页？试试下拉手势或者单击右键">
 <!ENTITY firstRunTopSites.label "这里是您最常访问的网站">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "查看你的网上足迹">
 <!ENTITY firstRunWelcome.label "欢迎使用 &brandShortName;">
 <!ENTITY firstRunDifferent.label "设计·与众不同">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "点按返回上一页面">
+<!ENTITY firstRunNewTab.label "添加一个新标签页探索新网站">
+<!ENTITY firstRunStar.label "使用书签保存以后要阅读的页面">
+<!ENTITY firstRunPin.label "固定任意网站到您的 Windows 开始屏幕以供快速访问">
+<!ENTITY firstRunGotIt.label "明白！">
