@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "下移">
 <!ENTITY account.cancelReconnection.label         "取消重连">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.copyDebugLog.label     "复制调试日志">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "正在连接…">
 <!ENTITY account.disconnecting        "正在断开…">
 <!ENTITY account.disconnected         "没有连接">
