@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccountsSetup.description "Prihláste sa a môžete zálohovať a synchronizovať svoje karty, záložky a ďalšie.">
-<!ENTITY aboutAccountsSetup.startButton.label "Začať">
-<!ENTITY aboutAccountsSetup.useOldSync.label "Používate službu Sync v staršej verzii prehliadača &brandShortName;?">
+<!ENTITY aboutAccounts.pageTitle "Víta Vás služba Sync">
+
+<!ENTITY aboutAccountsConfig.description "Prihláste sa a môžete synchronizovať svoje karty, záložky a ďalšie.">
+<!ENTITY aboutAccountsConfig.startButton.label "Poďme na to">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Používate staršiu verziu služby Sync?">
