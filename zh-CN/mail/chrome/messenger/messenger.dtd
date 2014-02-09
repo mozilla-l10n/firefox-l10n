@@ -218,7 +218,7 @@
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "有未读消息的话题">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "已关注未读的话题">
+<!ENTITY watchedThreadsWithUnreadCmd.label "有未读消息的已跟踪话题">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "已忽略的话题">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "文件夹">
 <!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.label "此文件夹">
-<!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "最近关闭的标签页">
 <!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "邮件起始页">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "附件">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "作为新消息编辑">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "作为新消息编辑">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "根据消息创建过滤器…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移动到">
@@ -376,13 +374,9 @@
 <!ENTITY killSubthreadMenu.label "忽略子话题">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "关注话题">
+<!ENTITY watchThreadMenu.label "跟踪话题">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "移动至此处">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "复制至此处">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "标签">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "忽略这个警告消息">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "对所有消息禁用欺诈检测">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "编辑欺诈检测选项…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "编辑欺诈检测偏好…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "新建消息">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "附件">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "点击选择要显示的列">
-<!ENTITY threadColumn.tooltip "点击显示消息话题">
-<!ENTITY fromColumn.tooltip "点击按发件人排序">
-<!ENTITY recipientColumn.tooltip "点击按收件人排序">
-<!ENTITY subjectColumn.tooltip "点击按标题排序">
-<!ENTITY dateColumn.tooltip "点击按日期排序">
-<!ENTITY priorityColumn.tooltip "点击按优先级排序">
-<!ENTITY tagsColumn.tooltip "点击按标签排序">
-<!ENTITY accountColumn.tooltip "点击按帐户排序">
-<!ENTITY statusColumn.tooltip "点击按状态排序">
-<!ENTITY sizeColumn.tooltip "点击按大小排序">
-<!ENTITY junkStatusColumn.tooltip "点击按垃圾状态排序">
-<!ENTITY unreadColumn.tooltip "话题中未读的消息数">
-<!ENTITY totalColumn.tooltip "话题中消息的总数">
-<!ENTITY readColumn.tooltip "点击按是否已读排序">
-<!ENTITY receivedColumn.tooltip "点击按接收日期排序">
-<!ENTITY starredColumn.tooltip "点击按星标排序">
-<!ENTITY locationColumn.tooltip "点击按地址排序">
-<!ENTITY idColumn.tooltip "点击按接收顺序排序">
-<!ENTITY attachmentColumn.tooltip "点击对附件排序">
+<!ENTITY columnChooser2.tooltip "选择要显示的列">
+<!ENTITY threadColumn2.tooltip "显示消息话题">
+<!ENTITY fromColumn2.tooltip "按发件人排序">
+<!ENTITY recipientColumn2.tooltip "按收件人排序">
+<!ENTITY subjectColumn2.tooltip "按主题排序">
+<!ENTITY dateColumn2.tooltip "按日期排序">
+<!ENTITY priorityColumn2.tooltip "按优先级排序">
+<!ENTITY tagsColumn2.tooltip "按标签排序">
+<!ENTITY accountColumn2.tooltip "按账户排序">
+<!ENTITY statusColumn2.tooltip "按状态排序">
+<!ENTITY sizeColumn2.tooltip "按大小排序">
+<!ENTITY junkStatusColumn2.tooltip "按垃圾邮件状态排序">
+<!ENTITY unreadColumn2.tooltip "话题中未读的消息数">
+<!ENTITY totalColumn2.tooltip "话题中消息的总数">
+<!ENTITY readColumn2.tooltip "按已读排序">
+<!ENTITY receivedColumn2.tooltip "按接收日期排序">
+<!ENTITY starredColumn2.tooltip "按星标排序">
+<!ENTITY locationColumn2.tooltip "按位置排序">
+<!ENTITY idColumn2.tooltip "按接收顺序排序">
+<!ENTITY attachmentColumn2.tooltip "按附件排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "在会话中打开消息">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "作为新消息编辑…">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "作为新消息编辑">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "归档">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回复发件人">
@@ -735,7 +731,7 @@
 <!ENTITY contextKillThreadMenu.label "忽略话题">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "忽略子话题">
-<!ENTITY contextWatchThreadMenu.label "观察论题">
+<!ENTITY contextWatchThreadMenu.label "跟踪话题">
 <!ENTITY contextSaveAs.label "另存为…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "打印…">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "添加至地址簿">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "编辑联系人…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "编辑联系人">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "查看联系人">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "订阅至新闻组">
