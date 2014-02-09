@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label          "DNS distant">
+<!ENTITY  socksRemoteDNS.accesskey      "n">
 <!ENTITY  port.label                    "Port :">
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.accesskey             "o">
