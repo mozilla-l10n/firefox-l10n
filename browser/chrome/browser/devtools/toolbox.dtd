@@ -123,12 +123,12 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "Éditeur de styles">
+<!ENTITY options.styleeditor.label            "Éditeur de style">
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Afficher les sources originales">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Afficher les sources originales (les fichiers Sass, par exemple) dans l'éditeur de styles et l'inspecteur">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Afficher les sources originales (les fichiers Sass, par exemple) dans l'éditeur de style et l'inspecteur">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
