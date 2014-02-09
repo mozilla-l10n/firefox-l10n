@@ -34,3 +34,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exporter les flux avec la structure des dossiers ; Ctrl+clic ou Ctrl+Entrée pour exporter les flux en tant que liste">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Fermer">
