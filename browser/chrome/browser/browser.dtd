@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "K vyhledávání přiřadit klíčové slovo">
 <!ENTITY keywordfield.accesskey "h">
+
 <!ENTITY downloads.label "Správce stahování">
 <!ENTITY downloads.tooltip "Zobrazí průběh stahování">
 <!ENTITY downloads.accesskey "t">
@@ -264,53 +265,47 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "P">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolboxMenuItem.label "Nástroje vývojáře">
-<!ENTITY devToolboxMenuItem.accesskey "N">
-
 <!ENTITY devToolbarToolsButton.tooltip "Přepne nástroje vývojáře">
 <!ENTITY devToolbarOtherToolsButton.label "Další nástroje">
-
-
 
 <!ENTITY getMoreDevtoolsCmd.label "Získat další nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey "d">
 
-<!ENTITY fileMenu.label "Soubor">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY newNavigatorCmd.label "Nové okno">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "N">
-<!ENTITY newPrivateWindow.label "Nové anonymní okno">
+<!ENTITY fileMenu.label         "Soubor"> 
+<!ENTITY fileMenu.accesskey       "S">
+<!ENTITY newNavigatorCmd.label        "Nové okno">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nové anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
 
-
-<!ENTITY editMenu.label "Úpravy">
-<!ENTITY editMenu.accesskey "a">
-<!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "o">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "m">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd2.label "Možnosti">
-<!ENTITY preferencesCmd2.accesskey "M">
-<!ENTITY preferencesCmdUnix.label "Předvolby">
-<!ENTITY preferencesCmdUnix.accesskey "v">
+<!ENTITY editMenu.label         "Úpravy"> 
+<!ENTITY editMenu.accesskey       "a"> 
+<!ENTITY undoCmd.label            "Zpět">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "Z"> 
+<!ENTITY redoCmd.label            "Znovu">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "o"> 
+<!ENTITY cutCmd.label           "Vyjmout">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "y"> 
+<!ENTITY copyCmd.label            "Kopírovat">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "K"> 
+<!ENTITY pasteCmd.label           "Vložit">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "l"> 
+<!ENTITY deleteCmd.label          "Smazat">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "m"> 
+<!ENTITY selectAllCmd.label         "Vybrat vše">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY preferencesCmd2.label       "Možnosit">
+<!ENTITY preferencesCmd2.accesskey     "M">
+<!ENTITY preferencesCmdUnix.label       "Předvolby">
+<!ENTITY preferencesCmdUnix.accesskey     "v"> 
 
 <!ENTITY clearRecentHistory.label "Vymazat nedávnou historii…">
 
@@ -326,8 +321,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "P">
 <!ENTITY viewCustomizeToolbar.label "Nastavit lišty…">
 <!ENTITY viewCustomizeToolbar.accesskey "V">
-<!ENTITY viewTabsOnTop.label "Panely navrchu">
-<!ENTITY viewTabsOnTop.accesskey "a">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyMenu.accesskey "H">
@@ -339,16 +332,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Upravit">
+
 <!ENTITY appMenuCustomize.label "Přizpůsobit">
-<!ENTITY appMenuToolbarLayout.label "Upravit lišty…">
-<!ENTITY appMenuSidebars.label "Postranní lišty">
-<!ENTITY appMenuFind.label "Najít…">
-<!ENTITY appMenuUnsorted.label "Netříděné záložky">
-<!ENTITY appMenuWebDeveloper.label "Vývoj webu">
-<!ENTITY appMenuGettingStarted.label "Začínáme">
-<!ENTITY appMenuSafeMode.label "Restartovat se zakázanými doplňky…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuCustomize.tooltip "Přizpůsobí nabídku a lišty">
+<!ENTITY appMenuCustomizeExit.label "Ukončit přizpůsobení">
+<!ENTITY appMenuCustomizeExit.tooltip "Ukončí přizpůsobení">
+<!ENTITY appMenuHistory.label "Historie">
+<!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
+<!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
+<!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
+<!ENTITY appMenuHistory.viewSidebar.label "Zobrazit postranní panel">
+<!ENTITY appMenuHelp.tooltip "Otevře nabídku s nápovědou">
+
+<!ENTITY customizeMenu.addToToolbar.label "Přidat na lištu">
+<!ENTITY customizeMenu.addToToolbar.accesskey "l">
+<!ENTITY customizeMenu.addToPanel.label "Přidat do nabídky">
+<!ENTITY customizeMenu.addToPanel.accesskey "n">
+<!ENTITY customizeMenu.moveToToolbar.label "Přesunout na lištu">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "e">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Přesunout do nabídky">
+<!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!ENTITY customizeMenu.removeFromToolbar.label "Odebrat z lišty">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "d">
+<!ENTITY customizeMenu.removeFromMenu.label "Odebrat z nabídky">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "n">
+<!ENTITY customizeMenu.addMoreItems.label "Přidat více položek…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "v">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Hledat nebo vložit adresu">
@@ -434,7 +448,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label "Odeslat odkaz…">
 <!ENTITY emailPageCmd.accesskey "e">
 <!ENTITY switchToMetroCmd.label       "Spustit v prohlížeči &brandShortName; pro Windows 8">
-<!ENTITY switchToMetroCmd2.label      "Spustit v prohlížeči &brandShortName; pro Windows 8 Touch">
 <!ENTITY savePageCmd.label "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey "U">
 <!-- alternate for content area context menu -->
@@ -555,18 +568,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip "Otevře nové okno">
 <!ENTITY sidebarCloseButton.tooltip "Zavře postranní lištu">
 
-<!ENTITY cutButton.tooltip "Vyjmout">
-<!ENTITY copyButton.tooltip "Kopírovat">
-<!ENTITY pasteButton.tooltip "Vložit">
-
 <!ENTITY fullScreenButton.tooltip "Zobrazí okno v režimu celé obrazovky">
-
-<!ENTITY zoomOutButton.tooltip "Oddálí">
-<!ENTITY zoomInButton.tooltip "Přiblíží">
-<!ENTITY zoomControls.label "Lupa">
 
 <!ENTITY quitApplicationCmdWin.label "Ukončit">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
+<!ENTITY quitApplicationCmdWin.tooltip     "Ukončí &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Ukončit">
@@ -657,11 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Zavře lištu doplňků">
-<!ENTITY toggleAddonBarCmd.key "/">
-
 <!ENTITY socialToolbar.title "Tlačítko sdílení">
-<!ENTITY social.notLoggedIn.label "Nepřihlášen">
 
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
@@ -777,3 +779,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
 <!ENTITY tabGroupsButton.tooltip       "Group your tabs">
 <!-- end of strings to be removed post-Australis -->
+

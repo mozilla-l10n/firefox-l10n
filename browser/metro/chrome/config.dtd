@@ -3,14 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Hledat">
-<!ENTITY newpref.label          "Přidat novou předvolbu">
 <!ENTITY addpref.name           "Název">
-<!ENTITY addpref.value          "Hodnota">
 
 <!ENTITY cancel.label           "Zrušit">
-<!ENTITY reset.label            "Obnovit">
-<!ENTITY done.label             "Hotovo">
+<!ENTITY toggle.label           "Přepnout">
 
 <!ENTITY integer.label          "Číslo">
 <!ENTITY string.label           "Řetězec">
 <!ENTITY boolean.label          "Logická hodnota">
+
+<!ENTITY string.placeholder     "Vložte řetězec">
+<!ENTITY number.placeholder     "Vložte číslo">
+
+
