@@ -37,3 +37,7 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Získat názvy funkcí v zásobníku zatuhnutí">
 
 <!ENTITY aboutTelemetry.hideSymbols "Zobrazit surová data ze zatuhnutí">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filtr (řetězce nebo /regexp/)
+">
