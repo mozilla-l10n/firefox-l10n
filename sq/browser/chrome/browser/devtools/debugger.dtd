@@ -109,7 +109,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable      "Filtro ndryshoret">
-<!ENTITY debuggerUI.searchVariable.key  "y">
+<!ENTITY debuggerUI.searchVariable.key  "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
