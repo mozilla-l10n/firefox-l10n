@@ -23,23 +23,23 @@
 <!ENTITY idColumn.label "Por ordem recebido">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
-<!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem"> 
-<!ENTITY fromColumn.tooltip "Clique para ordenar por de">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
-<!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
-<!ENTITY subjectColumn.tooltip "Clique para ordenar por Assunto">
-<!ENTITY dateColumn.tooltip "Clique para ordenar por data ">
-<!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Clique para ordenar por conta">
-<!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
-<!ENTITY junkStatusColumn.tooltip "Clique para ordenar pelo estado do lixo">
-<!ENTITY unreadColumn.tooltip "Número de mensagens no lidas neste tópico">
-<!ENTITY totalColumn.tooltip "Número total de mensagens neste tópico">
-<!ENTITY readColumn.tooltip "Clique para ordenar por lidas">
-<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de recepção">
-<!ENTITY flagColumn.tooltip "Clique para ordenar por marca">
-<!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
-<!ENTITY idColumn.tooltip "Clique para ordenar por ordem de chegada">
+<!ENTITY columnChooser2.tooltip "Seleccionar as colunas a mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar os tópicos da mensagem"> 
+<!ENTITY fromColumn2.tooltip "Ordenar por de">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
+<!ENTITY subjectColumn2.tooltip "Ordenar por Assunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por data ">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por conta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar pelo estado do lixo">
+<!ENTITY unreadColumn2.tooltip "Número de mensagens no lidas neste tópico">
+<!ENTITY totalColumn2.tooltip "Número total de mensagens neste tópico">
+<!ENTITY readColumn2.tooltip "Ordenar por lidas">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de recepção">
+<!ENTITY flagColumn2.tooltip "Ordenar por marca">
+<!ENTITY locationColumn2.tooltip "Ordenar por localização">
+<!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">
