@@ -50,20 +50,20 @@
 <!ENTITY reuseExpRadio1.accesskey "n">
 <!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si elimina">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-<!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
-<!ENTITY enableAddonsUpdate.accesskey "C">
-<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;,">
-<!ENTITY modeAskMe.label "Chiedi che cosa fare">
-<!ENTITY modeAskMe.accesskey "e">
-<!ENTITY modeAutomatic.label "Scarica ed installa automaticamente l'aggiornamento">
-<!ENTITY modeAutomatic.accesskey "S">
-<!ENTITY modeAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
-<!ENTITY modeAutoAddonWarn.accesskey "A">
-<!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
-<!ENTITY showUpdates.accesskey "M">
+<!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
+<!ENTITY updateAuto.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
+<!ENTITY updateAuto.accesskey "n">
+<!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all'utente di scegliere se installarli">
+<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
+<!ENTITY updateAutoAddonWarn.accesskey "A">
+<!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
+<!ENTITY updateHistory.accesskey "S">
+<!ENTITY updateOthers.label "Aggiorna automaticamente:">
+<!ENTITY enableAddonsUpdate3.label "Componenti aggiuntivi">
+<!ENTITY enableAddonsUpdate3.accesskey "o">
 <!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
 <!ENTITY useService.accesskey "U">
 <!ENTITY showSettings.label "Impostazioni…">

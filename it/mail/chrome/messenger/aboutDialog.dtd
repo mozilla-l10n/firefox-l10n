@@ -1,4 +1,10 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
+<!ENTITY update.checkForUpdatesButton.label "Controlla aggiornamenti">
+<!ENTITY update.checkForUpdatesButton.accesskey "C">
+<!ENTITY update.updateButton.label "Riavvia per aggiornare">
+<!ENTITY update.updateButton.accesskey "R">
+<!ENTITY update.applyButtonBillboard.label "Installa aggiornamento…">
+<!ENTITY update.applyButtonBillboard.accesskey "I">
 <!ENTITY community.start2 "&brandShortName; è progettato da ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
@@ -11,7 +17,6 @@
 <!ENTITY bottomLinks.rights "Diritti dell'utente finale">
 <!ENTITY bottomLinks.privacy "Informativa sulla privacy">
 <!ENTITY update.checkingForUpdates "Controllo aggiornamenti…">
-<!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
 <!ENTITY update.adminDisabled "Aggiornamenti disabilitati dall'amministratore di sistema">
 <!ENTITY update.failed.start "Aggiornamento non riuscito. ">
@@ -21,7 +26,7 @@
 <!ENTITY update.manual.linkText "l'ultima versione">
 <!ENTITY update.manual.end "">
 <!ENTITY update.unsupported.start "Impossibile eseguire ulteriori aggiornamenti su questo sistema.">
-<!ENTITY update.unsupported.linkText "Altre informazioni…">
+<!ENTITY update.unsupported.linkText "Altre informazioni">
 <!ENTITY update.unsupported.end "">
 <!ENTITY update.downloading.start "Ricezione aggiornamento — ">
 <!ENTITY update.downloading.end "">
