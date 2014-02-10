@@ -59,7 +59,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "R">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Përshoqëroni një Pajisje">
+<!ENTITY pairDevice.title.label             "Çiftoni një Pajisje">
 <!ENTITY addDevice.showMeHow.label          "Tregomë se si.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nuk e kam me vete pajisjen">
 <!ENTITY pairDevice.setup.description.label  "Për ta aktivizuar, përzgjidhni te pajisja juaj tjetër &#x0022;Përshoqëroni një Pajisje&#x0022;.">
