@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Bylage">
 <!ENTITY spellingButton.label "Stavering">
 <!ENTITY saveButton.label "Bewarje">
+<!ENTITY printButton.label "Ofdrukke">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dit berjocht no ferstjoere">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip "Knippe">
 <!ENTITY copyButton.tooltip "Kopiearje">
 <!ENTITY pasteButton.tooltip "Plakke">
+<!ENTITY printButton.tooltip "Dit berjocht ôfdrukke">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
