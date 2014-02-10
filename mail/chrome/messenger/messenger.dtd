@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Map">
 <!ENTITY folderMenu.accesskey "a">
-<!ENTITY thisFolder.label "Dizze map">
-<!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Koartlyn sluten ljepblêden">
 <!ENTITY goRecentlyClosedTabs.accesskey "K">
 <!ENTITY startPageCmd.label "E-mail-startside">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "Y">
 <!ENTITY forwardAsAttachmentCmd.label "Bylage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.label "Berjocht as nij bewurkje">
-<!ENTITY editMsgAsNewCmd.accesskey "b">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editMsgAsNewMsg.label "As nij berjocht bewurkje">
+<!ENTITY editMsgAsNewMsg.accesskey "b">
+<!ENTITY editMsgAsNewMsg.key "e">
 <!ENTITY createFilter.label "Filter meitsje op basis fan berjocht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Ferpleatse nei">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Petear folgje">
 <!ENTITY watchThreadMenu.accesskey "f">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Hjir bewarje">
-<!ENTITY fileHereMenu.accesskey "H">
-<!ENTITY copyHereMenu.label "Hjirhinne kopiearje">
-<!ENTITY copyHereMenu.accesskey "k">
 <!ENTITY tagMenu.label "Labelje">
 <!ENTITY tagMenu.accesskey "L">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Warskôging foar dit berjocht negearje">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Scamdeteksje foar alle berjochten útskeakelje">
-<!ENTITY phishingOptionDisableDetection.accesskey "S">
+<!ENTITY phishingOptionSettings.label "Opsjes foar scamdeteksje bewurkje…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Foarkarren foar scamdeteksje bewurkje…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nij berjocht">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Bylagen">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen">
-<!ENTITY threadColumn.tooltip "Klik om berjochtpetearen te toanen">
-<!ENTITY fromColumn.tooltip "Klik om te sortearjen op fan">
-<!ENTITY recipientColumn.tooltip "Klik om te sortearjen op ûntfanger">
-<!ENTITY subjectColumn.tooltip "Klik om te sortearjen op ûnderwerp">
-<!ENTITY dateColumn.tooltip "Klik om te sortearjen op datum">
-<!ENTITY priorityColumn.tooltip "Klik om te sortearjen op prioriteit">
-<!ENTITY tagsColumn.tooltip "Klik om te sortearjen op labels">
-<!ENTITY accountColumn.tooltip "Klik om te sortearjen op account">
-<!ENTITY statusColumn.tooltip "Klik om te sortearjen op steat">
-<!ENTITY sizeColumn.tooltip "Klik om te sortearjen op grutte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sortearjen op net-winske-berjochtsteat">
-<!ENTITY unreadColumn.tooltip "Oantal net lêzen berjochten yn petear">
-<!ENTITY totalColumn.tooltip "Totaal oantal berjochten yn petear">
-<!ENTITY readColumn.tooltip "Klik om te sortearjen op lêzen">
-<!ENTITY receivedColumn.tooltip "Klik om te sortearjen op ûntfangstdatum">
-<!ENTITY starredColumn.tooltip "Klik om te sortearjen op stjer">
-<!ENTITY locationColumn.tooltip "Klik om te sortearjen op lokaasje">
-<!ENTITY idColumn.tooltip "Klik om te sortearjen op folchoarder fan ûntfangst">
-<!ENTITY attachmentColumn.tooltip "Klik om te sortearjen op bylagen">
+<!ENTITY columnChooser2.tooltip "Selektearje kolommen om te toanen">
+<!ENTITY threadColumn2.tooltip "Berjochtpetearen toane">
+<!ENTITY fromColumn2.tooltip "Sortearje op fan">
+<!ENTITY recipientColumn2.tooltip "Sortearje op ûntfanger">
+<!ENTITY subjectColumn2.tooltip "Sortearje op ûnderwerp">
+<!ENTITY dateColumn2.tooltip "Sortearje op datum">
+<!ENTITY priorityColumn2.tooltip "Sortearje op prioriteit">
+<!ENTITY tagsColumn2.tooltip "Sortearje op labels">
+<!ENTITY accountColumn2.tooltip "Sortearje op account">
+<!ENTITY statusColumn2.tooltip "Sortearje op steat">
+<!ENTITY sizeColumn2.tooltip "Sortearje op grutte">
+<!ENTITY junkStatusColumn2.tooltip "Sortearje op net-winske-berjochtsteat">
+<!ENTITY unreadColumn2.tooltip "Oantal net lêzen berjochten yn petear">
+<!ENTITY totalColumn2.tooltip "Totaal oantal berjochten yn petear">
+<!ENTITY readColumn2.tooltip "Sortearje op lêzen">
+<!ENTITY receivedColumn2.tooltip "Sortearje op ûntfangstdatum">
+<!ENTITY starredColumn2.tooltip "Sortearje op stjer">
+<!ENTITY locationColumn2.tooltip "Sortearje op lokaasje">
+<!ENTITY idColumn2.tooltip "Sortearje op folchoarder fan ûntfangst">
+<!ENTITY attachmentColumn2.tooltip "Sortearje op bylagen">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Berjocht iepenje yn nij finster">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "l">
 <!ENTITY contextOpenConversation.label "Berjocht iepenje yn Petear">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "As nij bewurkje…">
-<!ENTITY contextEditAsNew.accesskey "b">
+<!ENTITY contextEditMsgAsNew.label "As nij berjocht bewurkje">
+<!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Argivearje">
 <!ENTITY contextArchive.accesskey "g">
 <!ENTITY contextReplySender.label "Ofstjoerder beantwurdzje">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "f">
 <!ENTITY AddDirectlyToAddressBook.label "Tafoegje oan adresboek">
 <!ENTITY AddDirectlyToAddressBook.accesskey "f">
-<!ENTITY EditContact.label "Kontakt bewurkje…">
-<!ENTITY EditContact.accesskey "b">
+<!ENTITY EditContact1.label "Kontakt bewurkje">
+<!ENTITY EditContact1.accesskey "b">
 <!ENTITY ViewContact.label "Kontakt besjen">
 <!ENTITY ViewContact.accesskey "K">
 <!ENTITY SubscribeToNewsgroup.label "Abonnearje op nijsgroep">
