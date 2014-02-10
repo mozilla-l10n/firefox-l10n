@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Omleech ferpleatse">
 <!ENTITY account.cancelReconnection.label         "Opnij ferbine annulearje">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.copyDebugLog.label     "Kopiearje Debuglog">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Ferbine…">
 <!ENTITY account.disconnecting        "Ferbining ferbrekke…">
 <!ENTITY account.disconnected         "Net ferbûn">

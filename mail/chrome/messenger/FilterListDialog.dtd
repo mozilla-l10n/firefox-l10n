@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Selektearre filter(s) tapasse op:">
 <!ENTITY folderPickerPrefix.accesskey "S">
-<!ENTITY choosethis.label "Dizze map kieze">
-<!ENTITY choosethisnewsserver.label "Dizze nijstsjinner kieze">
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
