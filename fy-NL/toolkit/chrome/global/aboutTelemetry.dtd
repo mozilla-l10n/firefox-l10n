@@ -67,3 +67,7 @@
 <!ENTITY aboutTelemetry.hideSymbols "
   Toan rûge gegevens fan fêstrinners
 ">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filter (rigels of /regexp/)
+">
