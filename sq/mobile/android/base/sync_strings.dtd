@@ -11,13 +11,13 @@
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Lidhu me &syncBrand.shortName.label;-un'>
 <!ENTITY sync.title.adddevice.label 'Krijoni një Llogari &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Përshoqëroni një Pajisje'>
+<!ENTITY sync.title.pair.label 'Çiftoni një Pajisje'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”.'>
 <!ENTITY sync.subtitle.header.label 'Jepeni këtë kod te kompjuteri juaj'>
 <!ENTITY sync.subtitle.connectlocation.label 'Përzgjidhni “&sync.title.pair.label;” te ndarja &syncBrand.shortName.label; e mundësive Firefox për desktopin.'>
-<!ENTITY sync.subtitle.pair.label 'Që ta aktivizoni, përzgjidhni te pajisja juaj “Përshoqëroni një pajisje”.'>
+<!ENTITY sync.subtitle.pair.label 'Që ta aktivizoni, përzgjidhni te pajisja juaj “Çiftoni një pajisje”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Tregomë se si.'>
