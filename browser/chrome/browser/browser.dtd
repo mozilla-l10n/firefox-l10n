@@ -570,6 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label 	"Sair">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
+<!ENTITY quitApplicationCmdWin.tooltip     "Sair do &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label 		"Sair">
