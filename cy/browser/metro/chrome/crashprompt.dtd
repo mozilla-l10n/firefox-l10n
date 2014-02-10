@@ -8,15 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Beth yw adroddiad chwalu?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Mae adroddiad chwalu yn cynnwys manylion am y chwalu, eich peiriant, yn ogystal â chyflwr eich porwr pan chwalodd.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Gall hyn gynnwys pethau fel tudalennau agored, testun wedi eu teipio mewn ffurflenni a chynnwys negeseuon agored, hanes pori diweddar neu geoleoliad sy'n cael ei rannu gyda gwefan.">
-<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
-     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
-     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
-     If the structure of the English strings doesn't work for your locale, you can
-     move "&brandShortName; privacy policy." to the first sentence, and use a
-     generic "More information" for the link. These strings will be updated in the
-     next version of Firefox. -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Rydym yn defnyddio adroddiadau chwalu i geisio datrys problemau a gwella ein cynnyrch. Rydym yn trin eich data fel sy'n cael ei ddisgrifio yn ein ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Rydym yn defnyddio adroddiadau chwalu i geisio datrys problemau a gwella ein cynnyrch. Rydym yn trin eich data fel sy'n cael ei ddisgrifio yn ein ">
 <!ENTITY crashprompt.privacyPolicyLink "Polisi reifatrwydd &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Cynnwys cyfeiriad y dudalen roeddwn arni">
 <!ENTITY crashprompt.acceptbutton    "Anfon adroddiadau">
 <!ENTITY crashprompt.refusebutton    "Peidio anfon">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Chwilio">
-<!ENTITY newpref.label          "Ychwanegu Dewis Newydd">
 <!ENTITY addpref.name           "Enw">
-<!ENTITY addpref.value          "Gwerth">
 
 <!ENTITY cancel.label           "Diddymu">
-<!ENTITY reset.label            "Ailosod">
-<!ENTITY done.label             "Gorffen">
+<!ENTITY toggle.label           "Toglo">
 
 <!ENTITY integer.label          "Cyfanrif">
 <!ENTITY string.label           "Llinyn">
 <!ENTITY boolean.label          "Booleaidd">
+
+<!ENTITY string.placeholder     "Rhowch linyn">
+<!ENTITY number.placeholder     "Rhowch rif">
