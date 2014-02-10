@@ -32,3 +32,4 @@
 <!ENTITY button.exportOPML.tooltip "Eksport źródeł subskrypcji z zachowaniem struktury folderów; eksport jako lista z przytrzymanym klawiszem ctrl">
 
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label "Zamknij">
