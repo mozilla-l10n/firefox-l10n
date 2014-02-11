@@ -22,6 +22,10 @@
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpShowTour.label             "&brandShortName; ekskursija">
+<!ENTITY helpShowTour.accesskey         "r">
+
+
 <!ENTITY healthReport.label       "&brandShortName; veselības ziņojums">
 <!ENTITY healthReport.accesskey   "e">
 
