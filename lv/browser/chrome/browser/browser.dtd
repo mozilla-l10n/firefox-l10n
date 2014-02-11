@@ -12,6 +12,54 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY appMenuCustomize.label "Pielāgot">
+<!ENTITY appMenuCustomize.tooltip "Pielāgot izvēlni un rīkjoslas">
+<!ENTITY appMenuCustomizeExit.label "Iziet no pielāgošanas">
+<!ENTITY appMenuCustomizeExit.tooltip "Beigt pielāgošanu">
+<!ENTITY appMenuHistory.label "Vēsture">
+<!ENTITY appMenuHistory.showAll.label "Rādīt visu vēsturi">
+<!ENTITY appMenuHistory.clearRecent.label "Notīrīt neseno vēsturi…">
+<!ENTITY appMenuHistory.restoreSession.label "Atjaunot iepriekšējo sesiju">
+<!ENTITY appMenuHistory.viewSidebar.label "Rādīt vēstures sānjoslu">
+<!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
+
+<!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Pievienot izvēlnei">
+<!ENTITY customizeMenu.addToPanel.accesskey "N">
+<!ENTITY customizeMenu.moveToToolbar.label "Pārvietot uz rīkjoslu">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Pārvietot uz izvēlni">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Aizvākt no rīkjoslas">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Aizvākt no izvēlnes">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "z">
+<!ENTITY customizeMenu.addMoreItems.label "Pievienot citas lietas…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY editThisBookmarkCmd.label "Rediģēt šo grāmatzīmi">
+<!ENTITY feedsMenu.label "Pierakstīties">
+
+<!ENTITY fxaSignIn.label "Pierakstīties &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Atkārtoti savienoties ar &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; šobrīd sinhronizējas">
+<!ENTITY syncStartPanel.subTitle "Jūs varat pārvaldīt &syncBrand.shortName.label; iestatījumos.">
+<!ENTITY syncStartPanel.subTitleUnix "Jūs varat pārvaldīt &syncBrand.shortName.label; iestatījumos.">
+<!ENTITY syncErrorPanel.heading "Nevar savienoties ar &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Lūdzu pierakstieties, lai turpinātu sinhronizēšanu.">
+<!ENTITY syncErrorPanel.signInButton.label "Pierakstīties">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
+<!ENTITY navbarOverflow.label                "Citi rīki…">
+<!ENTITY quitApplicationCmdWin.tooltip     "Aizvērt &brandShortName;">
+<!ENTITY uiTour.infoPanel.close "Aizvērt">
+<!ENTITY viewBookmarksSidebar2.label        "Atvēŗt grāmatzīmes sānjoslā">
+
+
 <!ENTITY tabCmd.label "Jauna cilne">
 <!ENTITY tabCmd.accesskey "C">
 <!ENTITY tabCmd.commandkey "t">
