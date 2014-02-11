@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "F">
 <!ENTITY searchDialogTitle.label     "Berjochten sykje">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY moveHereMenu.label          "Hjirnei ferpleatse">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Ferpleats nei">
 <!ENTITY moveButton.accesskey        "n">
 <!ENTITY closeCmd.key                "W">

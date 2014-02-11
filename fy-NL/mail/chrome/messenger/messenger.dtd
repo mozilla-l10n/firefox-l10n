@@ -352,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "Y">
 <!ENTITY forwardAsAttachmentCmd.label "Bylage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewMsg.label "As nij berjocht bewurkje">
-<!ENTITY editMsgAsNewMsg.accesskey "b">
-<!ENTITY editMsgAsNewMsg.key "e">
+<!ENTITY editAsNewMsgCmd.label "As nij berjocht bewurkje">
+<!ENTITY editAsNewMsgCmd.accesskey "b">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Filter meitsje op basis fan berjocht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Ferpleatse nei">
