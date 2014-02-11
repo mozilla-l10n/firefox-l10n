@@ -23,6 +23,8 @@
 <!ENTITY account.movedown.label "Sposta giù">
 <!ENTITY account.cancelReconnection.label "Annulla la riconnessione">
 <!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.copyDebugLog.label "Copia il log di debug">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting "Connessione…">
 <!ENTITY account.disconnecting "Disconnessione…">
 <!ENTITY account.disconnected "Non collegato">

@@ -180,6 +180,7 @@
 <!ENTITY attachButton.label "Allega">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salva">
+<!ENTITY printButton.label "Stampa">
 <!ENTITY sendButton.tooltip "Invia il messaggio ora">
 <!ENTITY sendlaterButton.tooltip "invia più tardi">
 <!ENTITY quoteButton.tooltip "Cita il messaggio precedente">
@@ -190,6 +191,7 @@
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Incolla">
+<!ENTITY printButton.tooltip "Stampa questo messaggio">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "a">
