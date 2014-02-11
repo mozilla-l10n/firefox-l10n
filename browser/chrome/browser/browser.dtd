@@ -251,8 +251,8 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuCustomize.tooltip "Personalizza menu e barre degli strumenti">
-<!ENTITY appMenuCustomizeExit.label "Esci da personalizzazione">
-<!ENTITY appMenuCustomizeExit.tooltip "Termina personalizzazione">
+<!ENTITY appMenuCustomizeExit.label "Termina personalizzazione">
+<!ENTITY appMenuCustomizeExit.tooltip "Chiudi la scheda personalizzazione">
 <!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Visualizza la cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
