@@ -16,8 +16,6 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Ricerca messaggi">
 <!ENTITY results.label "Risultati">
-<!ENTITY moveHereMenu.label "Sposta qua">
-<!ENTITY moveHereMenu.accesskey "S">
 <!ENTITY moveButton.label "Sposta in">
 <!ENTITY moveButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
@@ -52,22 +50,22 @@
 <!ENTITY starredColumn.label "Speciale">
 <!ENTITY locationColumn.label "Posizione">
 <!ENTITY idColumn.label "Ordine di ricezione">
-<!ENTITY columnChooser.tooltip "Scegli le colonne da visualizzare">
-<!ENTITY threadColumn.tooltip "Raggruppa per discussione">
-<!ENTITY fromColumn.tooltip "Ordina per mittente">
-<!ENTITY recipientColumn.tooltip "Ordina per destinatario">
-<!ENTITY subjectColumn.tooltip "Ordina per oggetto">
-<!ENTITY dateColumn.tooltip "Ordina per data">
-<!ENTITY priorityColumn.tooltip "Ordina per priorità">
-<!ENTITY tagsColumn.tooltip "Ordina per etichetta">
-<!ENTITY accountColumn.tooltip "Ordina per account">
-<!ENTITY statusColumn.tooltip "Ordina per stato">
-<!ENTITY sizeColumn.tooltip "Ordina per dimensione">
-<!ENTITY junkStatusColumn.tooltip "Ordina per posta indesiderata">
-<!ENTITY unreadColumn.tooltip "Numero di messaggi non letti nella discussione">
-<!ENTITY totalColumn.tooltip "Numero totale di messaggi nella discussione">
-<!ENTITY readColumn.tooltip "Ordina per letto">
-<!ENTITY receivedColumn.tooltip "Ordina per data di ricezione">
-<!ENTITY starredColumn.tooltip "Ordina per speciale">
-<!ENTITY locationColumn.tooltip "Ordina per posizione">
-<!ENTITY idColumn.tooltip "Ordina per ricezione">
+<!ENTITY columnChooser2.tooltip "Selezionare le colonne da mostrare">
+<!ENTITY threadColumn2.tooltip "Mostra le discussioni">
+<!ENTITY fromColumn2.tooltip "Ordina per campo 'da'">
+<!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
+<!ENTITY subjectColumn2.tooltip "Ordina per oggetto">
+<!ENTITY dateColumn2.tooltip "Ordina per nome">
+<!ENTITY priorityColumn2.tooltip "Ordina per priorità">
+<!ENTITY tagsColumn2.tooltip "Ordina per etichette">
+<!ENTITY accountColumn2.tooltip "Ordina per account">
+<!ENTITY statusColumn2.tooltip "Ordina per nome">
+<!ENTITY sizeColumn2.tooltip "Ordina per nome">
+<!ENTITY junkStatusColumn2.tooltip "Ordina per indesiderato">
+<!ENTITY unreadColumn2.tooltip "Numero totale di messaggi non letti nella discussione">
+<!ENTITY totalColumn2.tooltip "Numero totale di messaggi nella discussione">
+<!ENTITY readColumn2.tooltip "Ordina per letto">
+<!ENTITY receivedColumn2.tooltip "Ordina per data di ricevimento">
+<!ENTITY starredColumn2.tooltip "Ordina per nome">
+<!ENTITY locationColumn2.tooltip "Indirizzo">
+<!ENTITY idColumn2.tooltip "Ordina per ordine di ricevimento">
