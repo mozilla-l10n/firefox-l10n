@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Nastavenia">
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
-<!ENTITY pref_category_search2 "Nastavenia vyhľadávania">
+<!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 <!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
+<!ENTITY pref_category_search_restore_defaults "Obnoviť vyhľadávacie moduly">
+<!ENTITY pref_search_restore_defaults "Obnoviť predvolené">
+<!ENTITY pref_search_restore_defaults_summary "Obnoviť predvolené">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
+
+<!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_panels "Panely">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
@@ -149,10 +155,15 @@ size. -->
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
 <!ENTITY pref_vendor_feedback "Odoslať názor">
-<!ENTITY pref_search_set_default "Nastavený ako predvolený">
-<!ENTITY pref_search_default "Predvolený">
-<!ENTITY pref_search_remove "Odstrániť">
+
+<!ENTITY pref_dialog_set_default "Nastaviť ako predvolený">
+<!ENTITY pref_dialog_default "Predvolený">
+<!ENTITY pref_dialog_remove "Odstrániť">
+
 <!ENTITY pref_search_last_toast "Nie je možné odstrániť alebo zakázať posledný vyhľadávací modul.">
+
+<!ENTITY pref_panels_show "Zobraziť">
+<!ENTITY pref_panels_hide "Skryť">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
@@ -217,6 +228,13 @@ size. -->
 <!ENTITY find_next "Ďalší">
 <!ENTITY find_close "Zavrieť">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Prehráva sa do zariadenia">
+<!ENTITY media_play "Prehrať">
+<!ENTITY media_pause "Pozastaviť">
+<!ENTITY media_stop "Zastaviť">
+
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
@@ -238,7 +256,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
-<!ENTITY pref_dynamic_toolbar "Pri posúvaní skryť titulok okna">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Posúvať titulok okna">
 
 <!ENTITY history_removed "Stránka odstránená">
 

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Hľadať">
-<!ENTITY newpref.label          "Pridať novú predvoľbu">
 <!ENTITY addpref.name           "Názov">
-<!ENTITY addpref.value          "Hodnota">
 
 <!ENTITY cancel.label           "Zrušiť">
-<!ENTITY reset.label            "Obnoviť predvolenú hodnotu">
-<!ENTITY done.label             "Hotovo">
+<!ENTITY toggle.label           "Prepnúť">
 
 <!ENTITY integer.label          "Číslo">
 <!ENTITY string.label           "Reťazec">
 <!ENTITY boolean.label          "Logická">
+
+<!ENTITY string.placeholder     "Zadajte reťazec">
+<!ENTITY number.placeholder     "Zadajte číslo">

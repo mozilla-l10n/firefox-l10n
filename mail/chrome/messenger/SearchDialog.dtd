@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "r">
 <!ENTITY searchDialogTitle.label     "Hľadanie v správach">
 <!ENTITY results.label               "Výsledky">
-<!ENTITY moveHereMenu.label          "Presunúť sem">
-<!ENTITY moveHereMenu.accesskey      "P">
 <!ENTITY moveButton.label            "Presunúť do">
 <!ENTITY moveButton.accesskey        "d">
 <!ENTITY closeCmd.key                "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label              "Poradie prijatia">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip       "Kliknutím vyberiete stĺpce, ktoré chcete zobraziť">
-<!ENTITY threadColumn.tooltip        "Kliknutím zoskupíte správy do vlákien">
-<!ENTITY fromColumn.tooltip          "Kliknutím usporiadate podľa odosielateľa">
-<!ENTITY recipientColumn.tooltip     "Kliknutím usporiadate podľa adresáta">
-<!ENTITY subjectColumn.tooltip       "Kliknutím usporiadate podľa predmetu">
-<!ENTITY dateColumn.tooltip          "Kliknutím usporiadate podľa dátumu">
-<!ENTITY priorityColumn.tooltip      "Kliknutím usporiadate podľa priority">
-<!ENTITY tagsColumn.tooltip          "Kliknutím usporiadate podľa popisu">
-<!ENTITY accountColumn.tooltip       "Kliknutím usporiadate podľa účtov">
-<!ENTITY statusColumn.tooltip        "Kliknutím usporiadate podľa stavu">
-<!ENTITY sizeColumn.tooltip          "Kliknutím usporiadate podľa veľkosti">
-<!ENTITY junkStatusColumn.tooltip    "Kliknutím zoskupíte podľa príznaku SPAM (nevyžiadaná pošta)">
-<!ENTITY unreadColumn.tooltip        "Počet nečítaných správ vo vlákne">
-<!ENTITY totalColumn.tooltip         "Celkový počet správ vo vlákne">
-<!ENTITY readColumn.tooltip          "Kliknutím usporiadate podľa príznaku prečítania správy">
-<!ENTITY receivedColumn.tooltip      "Kliknutím usporiadate podľa dátumu prijatia">
-<!ENTITY starredColumn.tooltip       "Kliknutím zoskupíte správy vyznačené hviezdičkou">
-<!ENTITY locationColumn.tooltip      "Kliknutím usporiadate podľa umiestnenia">
-<!ENTITY idColumn.tooltip            "Kliknutím usporiadate podľa poradia, v akom boli správy prijaté">
+<!ENTITY columnChooser2.tooltip      "Zvoliť stĺpce, ktoré chcete zobraziť">
+<!ENTITY threadColumn2.tooltip       "Zoskupiť správy do vlákien">
+<!ENTITY fromColumn2.tooltip         "Usporiadať podľa odosielateľa">
+<!ENTITY recipientColumn2.tooltip   "Usporiadať podľa adresáta">
+<!ENTITY subjectColumn2.tooltip      "Usporiadať podľa predmetu">
+<!ENTITY dateColumn2.tooltip         "Usporiadať podľa dátumu">
+<!ENTITY priorityColumn2.tooltip     "Usporiadať podľa priority">
+<!ENTITY tagsColumn2.tooltip         "Usporiadať podľa popisu">
+<!ENTITY accountColumn2.tooltip      "Usporiadať podľa účtov">
+<!ENTITY statusColumn2.tooltip       "Usporiadať podľa stavu">
+<!ENTITY sizeColumn2.tooltip         "Usporiadať podľa veľkosti">
+<!ENTITY junkStatusColumn2.tooltip   "Kliknutím zoskupíte podľa príznaku SPAM (nevyžiadaná pošta)">
+<!ENTITY unreadColumn2.tooltip       "Počet nečítaných správ vo vlákne">
+<!ENTITY totalColumn2.tooltip        "Celkový počet správ vo vlákne">
+<!ENTITY readColumn2.tooltip         "Usporiadať podľa príznaku prečítania správy">
+<!ENTITY receivedColumn2.tooltip     "Usporiadať podľa dátumu prijatia">
+<!ENTITY starredColumn2.tooltip      "Zoskupiť správy vyznačené hviezdičkou">
+<!ENTITY locationColumn2.tooltip     "Usporiadať podľa umiestnenia">
+<!ENTITY idColumn2.tooltip           "Usporiadať podľa poradia, v akom boli správy prijaté">

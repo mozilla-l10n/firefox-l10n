@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Platnosť dokumentu vypršala">
-<!ENTITY notCached.longDesc "<p>Požadovaný dokument sa vo vyrovnávacej pamäti nenachádza.</p><ul><li>Z bezpečnostných dôvodov program automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Požadovaný dokument sa vo vyrovnávacej pamäti nenachádza.</p><ul><li>Z bezpečnostných dôvodov &brandShortName; automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "
