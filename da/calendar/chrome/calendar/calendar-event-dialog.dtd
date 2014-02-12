@@ -346,7 +346,7 @@
 <!ENTITY event.freebusy.zoom "Zoom:">
 <!ENTITY event.freebusy.legend.free "Ledig">
 <!ENTITY event.freebusy.legend.busy "Optaget">
-<!ENTITY event.freebusy.legend.busy_tentative "Gentagelse">
+<!ENTITY event.freebusy.legend.busy_tentative "Foreløbig">
 <!ENTITY event.freebusy.legend.busy_unavailable "Ikke til stede">
 <!ENTITY event.freebusy.legend.unknown "Ingen information">
 <!ENTITY event.attendee.role.required "Nødvendig deltager">
