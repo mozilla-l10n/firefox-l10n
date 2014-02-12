@@ -21,9 +21,9 @@
 <!ENTITY calendar.events.filter.future.label "Alle fremtidige begivenheder">
 <!ENTITY calendar.events.filter.current.label "Aktuel markeret dag">
 <!ENTITY calendar.events.filter.currentview.label "Begivenheder i aktuel visning">
-<!ENTITY calendar.events.filter.next7Days.label "Begivenheder for de næste 7 dage">
-<!ENTITY calendar.events.filter.next14Days.label "Begivenheder for de næste 14 dage">
-<!ENTITY calendar.events.filter.next31Days.label "Begivenheder for de næste 31 dage">
+<!ENTITY calendar.events.filter.next7Days.label "Begivenheder i de næste 7 dage">
+<!ENTITY calendar.events.filter.next14Days.label "Begivenheder i de næste 14 dage">
+<!ENTITY calendar.events.filter.next31Days.label "Begivenheder i de næste 31 dage">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Begivenheder for denne kalendermåned">
 
 <!ENTITY calendar.unifinder.tree.done.label "Færdig">
