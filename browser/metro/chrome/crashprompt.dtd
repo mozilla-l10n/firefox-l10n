@@ -3,14 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title           "¿Quiere enviar los informes de errores a Mozilla?">
-<!ENTITY crashprompt.message         "Lo sentimos, &brandShortName; se acaba de recuperar de un error. Enviar los informes de errores ayudará Mozilla a hacer que &brandShortName; sea más estable y seguro. Siempre podrá cambiar sus preferencias en Settings/Options.">
+<!ENTITY crashprompt.title           "¿Desea enviar los informes de errores a Mozilla?">
+<!ENTITY crashprompt.message         "Lo sentimos, &brandShortName; se recuperó de una falla. Enviar informes de errores ayudará a Mozilla a hacer un &brandShortName; más estable y seguro. Siempre puede cambiar sus preferencias en Settings/Options.">
 <!ENTITY crashprompt.detailsLink     "¿Qué hay en un informe de errores?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de errores contiene algunos detalles sobre el error, su máquina y una instantánea del estado del navegador en el momento del error.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "Ésto puede incluir cosas como páginas abiertas, texto escrito en formularios y el contenido de mensajes abiertos, historial reciente o ubicación geográfica compartida con un sitio.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Usamos los informes de errores para intentar arreglar problemas y mejorar nuestros productos. Manejaremos su información como se describe en nuestra ">
-<!ENTITY crashprompt.privacyPolicyLink "política de privacidad de &brandShortName;">
-<!ENTITY crashprompt.includeURLLabel "Includir la dirección de la página en la que estaba">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de errores contiene algunos detalles sobre la falla, su máquina, como también una captura del estado de su navegadore cuando falló.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Ésto puede incluir datos como páginas abiertas, texto ingresado en formularios y el contenido de mensajes abiertos, historial de navegación reciente o gelocalización compartida con un sitio.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Usamos los informes de errores para intentar arreglar los problemas y mejorar nuestros productos. Manejamos la información como se describe en nuestra ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; política de privacidad">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en la que estaba">
 <!ENTITY crashprompt.acceptbutton    "Enviar informes">
 <!ENTITY crashprompt.refusebutton    "No enviar">
 <!ENTITY crashprompt.privacyPolicy.title "Política de privacidad de &brandShortName;">
