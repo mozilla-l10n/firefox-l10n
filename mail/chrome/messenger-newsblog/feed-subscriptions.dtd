@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exportovať kanály vrátane súborovej štruktúry. Pomocou skratiek Ctrl+kliknutie alebo Ctrl+enter je možné kanály vyexportovať ako zoznam.">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Zavrieť">
