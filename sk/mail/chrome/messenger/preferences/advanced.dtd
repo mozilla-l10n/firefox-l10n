@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "d">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Pravidelne kontrolovať aktualizácie pre:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Nainštalované doplnky">
-<!ENTITY enableAddonsUpdate.accesskey   "N">
-<!ENTITY whenUpdatesFound.label         "Ak sú dostupné aktualizácie pre &brandShortName;:">
-<!ENTITY modeAskMe.label                "Vždy sa opýtať, čo urobiť">
-<!ENTITY modeAskMe.accesskey            "o">
-<!ENTITY modeAutomatic.label            "Automaticky aktualizácie prevziať a nainštalovať">
-<!ENTITY modeAutomatic.accesskey        "A">
-<!ENTITY modeAutoAddonWarn.label        "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
-<!ENTITY modeAutoAddonWarn.accesskey    "U">
-<!ENTITY showUpdates.label              "Zobraziť históriu aktualizácií">
-<!ENTITY showUpdates.accesskey          "Z">
+<!ENTITY updateApp.label                 "Aktualizácie programu &brandShortName;:">
+<!ENTITY updateAuto.label                "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
+<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY updateAutoAddonWarn.accesskey   "U">
+<!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
+<!ENTITY updateHistory.accesskey         "Z">
+<!ENTITY updateOthers.label              "Automaticky aktualizovať:">
+<!ENTITY enableAddonsUpdate3.label       "Doplnky">
+<!ENTITY enableAddonsUpdate3.accesskey   "D">
 
 <!ENTITY useService.label                "Na inštaláciu aktualizácií použiť službu na pozadí">
 <!ENTITY useService.accesskey            "k">

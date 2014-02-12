@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Priložiť">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložiť">
+<!ENTITY printButton.label "Tlačiť">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Odoslať správu">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip "Vystrihnúť">
 <!ENTITY copyButton.tooltip "Kopírovať">
 <!ENTITY pasteButton.tooltip "Prilepiť">
+<!ENTITY printButton.tooltip "Vytlačiť túto správu">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
