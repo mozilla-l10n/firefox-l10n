@@ -156,7 +156,7 @@
 <!ENTITY fxaccount_confirm_account_header 'Confirm your account'>
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Un lien de vérification a été envoyé à &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Envoyer à nouveau'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Renvoyer le courriel'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Courriel de vérification envoyé'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Impossible d\u0027envoyer le courriel de vérification'>
 
