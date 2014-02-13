@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Dit navn som andre skal se det">
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
-<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY email.placeholder               "email@eksempel.dk">
 <!ENTITY password.label                  "Adgangskode:">
 <!ENTITY password.accesskey              "d">
 <!ENTITY password.placeholder            "Adgangskode">
