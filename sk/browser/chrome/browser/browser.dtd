@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Domov">
 
 <!ENTITY tabGroupsButton.label        "Skupiny kariet">
-<!ENTITY tabGroupsButton.tooltip      "Zoskupte si svoje karty">
 
 <!ENTITY bookmarksButton.label          "Záložky">
 
@@ -764,5 +763,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardItem.title         "Naspäť/Dopredu">
 <!ENTITY viewBookmarksSidebar.label    "Zobraziť v bočnom paneli">
 <!ENTITY bookmarksItem.title           "Záložky">
+<!ENTITY openLocationCmd.label         "Otvoriť adresu…">
+<!ENTITY openLocationCmd.accesskey     "u">
+<!ENTITY bookmarksMenuButton.tooltip   "Zobraziť záložky">
+<!ENTITY switchToMetroCmd2.label       "Spustiť v prehliadači &brandShortName; pre Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip      "Zoskupte si svoje karty">
 <!-- end of strings to be removed post-Australis -->
 
