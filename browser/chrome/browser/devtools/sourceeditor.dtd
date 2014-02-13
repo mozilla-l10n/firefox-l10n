@@ -18,9 +18,3 @@
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "S">
 
-jumpToLine.commandkey = J
-toggleComment.commandkey = /
-indentLess.commandkey = [
-indentMore.commandkey = ]
-moveLineUp.commandkey = Alt-giù
-moveLineDown.commandkey = Alt-su
