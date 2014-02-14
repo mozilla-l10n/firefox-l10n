@@ -4,5 +4,5 @@ answers
 creativecommons
 eBay
 googlemetrofx
-yahoo
+yahoometrofx
 wikipedia-mk
