@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-
+<!ENTITY aboutAddons.title              "Add-onên &brandShortName;ê tên pêşvebirin">
+<!ENTITY aboutAddons.messageTitle       "Aha!">
+<!ENTITY aboutAddons.message            "Bibore, &brandShortName; hê jî li ser desteka pêvekan dixebite.">
 <!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
      These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
      aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
      -->
-
-
+<!ENTITY aboutAddons.goBackToStartStart "Vegere ">
+<!ENTITY aboutAddons.goBacktoStartLink  "rûpela destpêka &brandShortName;ê">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">

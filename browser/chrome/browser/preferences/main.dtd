@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Jêbarkirî">
 
-<!ENTITY showWhenDownloading.label     "Dema ku jêbarkirin dest pê bike, pencereya Jêbarkiriyan nîşan bide">
-<!ENTITY showWhenDownloading.accesskey "p">
-<!ENTITY closeWhenDone.label "Dema ku jêbarkirin qediya, pencereya Jêbarkiriyan bigire">
-<!ENTITY closeWhenDone.accesskey "g">
 <!ENTITY saveTo.label "Pelan tomar bike li">
 <!ENTITY saveTo.accesskey "t">
 <!ENTITY chooseFolderWin.label        "Bigere...">

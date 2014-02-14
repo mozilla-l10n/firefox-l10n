@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "Tu mafê te li ser bikaranîna marka û lîsansa Fona Mozilalyê tuneyê, an jî li ser logoya Firefoxê tune ye. Ji bo zêdetir agahî ">
 <!ENTITY rights.intro-point2-b "li virê">
-
+<!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "Hin taybetiyên di &brandShortName;ê de yên wekî Raporkirina Têkçûnan dihêle ku tu bi raporkirinan piştgiriyê bidî &vendorShortName;ê. Bi hilbijartina xwedîkirinê tu destûrê didî &vendorShortName;ê ku bi pêşniyar û raporên te xwe bi pêş de bibe û wan li ser malpera xwe biweşîne.">
@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; ji bo bidestxistina hin taybetiyan ji bo te agahiyên servîsên bingeh-web (&quot;Services&quot;) bi kar tîne. Eger nexwazî yek an jî hin ji van servîsan bi kar bînî divê wê/wan neçalak bikî. Rêbaza neçalakirinê li vê ne: ">
 <!ENTITY rights2.webservices-b "li vir">
-
+<!ENTITY rights3.webservices-c ". Taybetî û Xizmetên din ji vebijarkên sepanê tên neçalakirin.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "GeraEwle: ">

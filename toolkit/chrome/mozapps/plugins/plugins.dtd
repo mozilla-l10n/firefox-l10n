@@ -24,19 +24,23 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Ji bo ku pêvek bixebitin divê &brandShortName; bê girtin û vekirin.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "Li me bibore, lê &brandShortName; nikare li ser vê cîhazê Flashan bide xebitandin. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Zêdetir bixwîne…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY missingPlugin                                       "Ji bo nîşandana vê naverokê pêvekek divê.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-
-
-
+<!ENTITY tapToPlayPlugin                                     "Ji bo çalakirina pêvekê virê bipelîne.">
+<!ENTITY clickToActivatePlugin                               "Pêvekê çalak bike">
+<!ENTITY checkForUpdates                                     "Li nûkirinan bigere…">
+<!ENTITY disabledPlugin                                      "Ev pêvek neçalak e.">
 <!ENTITY blockedPlugin.label                                 "Pêvek ji bo ewlehiya te hat astengkirin.">
-
-
+<!ENTITY hidePluginBtn.label                                 "Pêvekê veşêre">
+<!ENTITY installPlugin                                       "Pêvekê saz bike…">
 <!ENTITY managePlugins                                       "Pêvekan bi rê ve bibe…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -53,6 +57,7 @@
 <!ENTITY report.failed                                       "Şandin biserneket.">
 <!ENTITY report.unavailable                                  "Rapor tune.">
 <!ENTITY report.comment                                      "Şîroveyekê binivîse (her kes dikare şîroveyan bibîne)">
+<!ENTITY report.pageURL                                      "Navnîşana rûpelê jî têxê">
 
-
-
+<!ENTITY plugin.file                                         "Pel">
+<!ENTITY plugin.mimeTypes                                    "Cureyên MIME">

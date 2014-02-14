@@ -4,7 +4,10 @@
 <!-- extracted from institems.xul -->
 
 
-
+<!ENTITY dialog.title            "Sazkirina Nivîsbariyê">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Tenê pêvekên nivîskarên pêbawer saz bike.">
+<!ENTITY warningSecondary.label  "Bernameyên niyetxirab dikarin zirarê bidin kompîtera te û nepeniya te binpê bikin.">
 
 <!ENTITY from.label "Ji vê:">
 

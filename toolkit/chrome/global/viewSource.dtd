@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Çavkanî:">
+<!ENTITY mainWindow.preface "Çavkanî: ">
 
 <!ENTITY fileMenu.label "Pel">
 <!ENTITY fileMenu.accesskey "P">
@@ -79,6 +79,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-
+<!ENTITY copyLinkCmd.label "Ciyê girêdanê ji ber bigire">
+<!ENTITY copyLinkCmd.accesskey "b">
 <!ENTITY copyEmailCmd.label "Navnîşana E-Peyamê Ji Ber Bigire">
 <!ENTITY copyEmailCmd.accesskey "E">

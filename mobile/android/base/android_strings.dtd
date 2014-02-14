@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "Biçe hilpekînê">
 
 <!ENTITY  crash_reporter_title "Raporkera Şikestinê ya &brandShortName;">
-
+<!ENTITY  crash_message2 "&brandShortName; rastî pirsgirêkekê hat û têk çû. Dema ku ji nû ve bidî destpêkirin, hilpekînên te dê di rûpela destpêkê ya &brandShortName;ê de bên lîstekirin.">
 <!ENTITY  crash_send_report_message3 "Vê têkçûnê bo &brandShortName;ê ragihîne ku bê çareserkirin">
 <!ENTITY  crash_include_url2 "Navnîşana vê rûpela ez tê de, têxê">
 <!ENTITY  crash_sorry "Bibore">
@@ -28,10 +28,12 @@
 <!ENTITY  crash_restart_label "&brandShortName;ê venû bike">
 <!ENTITY  exit_label "Derkeve">
 
-
+<!ENTITY  launcher_shortcuts_title "Bernamekokên Webê yên &brandShortName;ê">
+<!ENTITY  launcher_shortcuts_empty "Hîç bernamekoka webê nehat dîtin">
 
 <!ENTITY choose_file "Pelî Hilbijêre">
 
+<!ENTITY url_bar_default_text "Peyveke lêgerînê yan jî navnîşanekê binivîse">
 
 <!ENTITY bookmark "Bijare">
 <!ENTITY bookmark_added "Bijare lê hat zêdekirin">
@@ -48,7 +50,7 @@
 <!ENTITY search "Lê bigere">
 <!ENTITY reload "Nû bike">
 <!ENTITY forward "Pêşve">
-<!ENTITY menu "Menu">
+
 <!ENTITY back "Paşve">
 <!ENTITY stop "Bisekinîne">
 <!ENTITY site_security "Ewlekariya Malperê">
@@ -70,46 +72,52 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Vebijarkên daneyan">
 <!ENTITY pref_category_installed_search_engines "Motorên lêgerînê yên barkirî">
-
+<!ENTITY pref_category_add_search_providers "Zêdetir peydakerên lêgerînê lê zêde bike">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-
-
-
-
+<!ENTITY pref_search_tip "HÊSANKARÎ: Eger bi dirêjî li ser qada lêgerînê ya malperekê bitikînî ew ê bikeve nav lîsteya peydakerên lêgerînê.">
+<!ENTITY pref_category_devtools "Amûrên pêşvebiran">
+<!ENTITY pref_developer_remotedebugging "Ji dûr ve parzûnkirina çewtiyan">
+<!ENTITY pref_developer_remotedebugging_docs "Bêtir bizane">
+<!ENTITY pref_remember_signons "Şîfreyan bi bîr bîne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_customize "Taybet bike">
+<!ENTITY pref_header_display "Xuyank">
+<!ENTITY pref_header_privacy_short "Nepenî">
+<!ENTITY pref_header_help "Alîkarî">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Amûrên pêşvebiran">
 
-
-
-
-
+<!ENTITY pref_cookies_menu "Çerez">
 <!ENTITY pref_cookies_accept_all "Çalak">
+<!ENTITY pref_cookies_not_accept_foreign "Çalak, ji bî partiyên 3yemîn">
+<!ENTITY pref_cookies_disabled "Neçalak">
 
+<!ENTITY pref_donottrack_menu "Şopandin">
+<!ENTITY pref_donottrack_disallow_tracking "Ji malperan re ragihîne ku naxwazim bêm şopandin">
+<!ENTITY pref_donottrack_allow_tracking "Ji malperan re ragihîne ku dixwazim bêm şopandin">
+<!ENTITY pref_donottrack_no_pref "Derbarê vebijêrkên min ên şopandinê de tu tiştî ranegihîne malperan">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_char_encoding "Kodkirina karakteran">
+<!ENTITY pref_char_encoding_on "Menuyê nîşan bide">
+<!ENTITY pref_char_encoding_off "Menuyê nîşan nede">
+<!ENTITY pref_clear_private_data "Daneyên taybet jê bibe">
+<!ENTITY pref_plugins "Pêvek">
 <!ENTITY pref_plugins_enabled "Çalak">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_plugins_tap_to_play "Bipelîne ku bê lêxistin">
+<!ENTITY pref_plugins_disabled "Neçalak">
+<!ENTITY pref_text_size "Mezinahiya nivîsê">
+<!ENTITY pref_reflow_on_zoom4 "Herikîna nivîsê">
+<!ENTITY pref_restore "Hilpekîn">
+<!ENTITY pref_restore_always "Her tim vegerîne">
+<!ENTITY pref_restore_quit "Piştî derketinê venegerîne &brandShortName;">
+<!ENTITY pref_font_size_tiny "Pir biçûk">
+<!ENTITY pref_font_size_small "Biçûk">
+<!ENTITY pref_font_size_medium "Nîvçe">
+<!ENTITY pref_font_size_large "Mezin">
+<!ENTITY pref_font_size_xlarge "Pir mezin">
 
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -139,11 +147,12 @@ size. -->
 
 
 
-
-
-
-
-
+<!ENTITY datareporting_notification_title "Îstatîstîk û daneyên &brandShortName;ê">
+<!ENTITY datareporting_notification_action_long "Agahiyên ku dê bên parvekirin hilbijêre">
+<!ENTITY datareporting_notification_action "Tiştên parve bikî hilbijêre">
+<!ENTITY datareporting_notification_summary "Ji bo pêşvebirina azmûna te, &brandShortName; hin agahiyan xweber ji &vendorShortName;ê re dişîne">
+<!ENTITY datareporting_notification_summary_short "Ji bo pêşvebirina azmûnên te &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -151,20 +160,27 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "Rapora Tenduristiyê ya &brandShortName;ê">
+<!ENTITY datareporting_fhr_summary2 "Daneyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike û dibe alîkar ku tu performansa geroka xwe fêm bikî">
+<!ENTITY datareporting_abouthr_title "Rapora min ya Tenduristiyê Nîşan bide">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Ji bo pêşvebirina geroka &brandShortName;ê daneyên têkildarî performans, bikaranîn, reqalav û taybetkirinan bi &vendorShortName;ê re parve dike">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName;, ji bo ku geroka te hevgirtîtir û ewletir be raporên têkçûnê ji &vendorShortName;ê re dişîne">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Raporkara Têkçûnê">
+<!ENTITY datareporting_wifi_title "Servîsên ciyê cografîk yên &vendorShortName;ê">
+<!ENTITY datareporting_wifi_summary "Destûrê bide &brandShortName;ê ku daneyên îstasyona bazê yên giştî berhev bike û bişîne da ku em dikaribin servîsên xwe yên ji bo ciyê cografîk pêşvetir bibin">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload_wifi "Tenê bi riya Wi-Fiyê">
 
 
 
+<!ENTITY quit "Derkeve">
 
-
-<!ENTITY pref_update_autodownload_enabled "Çalak">
-
-
+<!ENTITY addons "Add-on">
 
 
 
@@ -186,25 +202,29 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
+<!ENTITY find_next "Pêşve">
 <!ENTITY find_close "Bigire">
 
+<!ENTITY contextmenu_open_new_tab "Di hilpekîneke nû de veke">
+<!ENTITY contextmenu_open_private_tab "Di Hilpekîna Nepen de Veke">
+<!ENTITY contextmenu_open_in_reader "Bi xwînerê veke">
+<!ENTITY contextmenu_remove "Rake">
+<!ENTITY contextmenu_add_to_launcher "Têxe Ekrana Giştî">
+<!ENTITY contextmenu_share "Parve bike">
+<!ENTITY contextmenu_pasteandgo "Pê ve bike &amp; Herê">
+<!ENTITY contextmenu_paste "Pê ve bike">
+<!ENTITY contextmenu_copyurl "Navnîşanê ji ber bigire">
+<!ENTITY contextmenu_edit_bookmark "Serast bike">
+<!ENTITY contextmenu_subscribe "Li rûpelê bibe abone">
+<!ENTITY contextmenu_site_settings "Eyarên malperê serast bike">
+<!ENTITY contextmenu_top_sites_edit "Serast bike">
+<!ENTITY contextmenu_top_sites_pin "Malperê sabît bike">
+<!ENTITY contextmenu_top_sites_unpin "Malperê nesabît bike">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_titlebar_mode "Darikê Sernavî">
+<!ENTITY pref_titlebar_mode_title "Sernavê rûpelê nîşan bide">
+<!ENTITY pref_titlebar_mode_url "Navnîşana rûpelê nîşan bide">
 
 
 
@@ -306,4 +326,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
 
