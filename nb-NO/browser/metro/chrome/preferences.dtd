@@ -28,12 +28,13 @@
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Husk passord">
 <!ENTITY doNotTrack.title                                        "Ikke spor">
-<!ENTITY doNotTrack.options.doNotTrack                           "Fortell nettsted at jeg ikke ønsker å spores">
-<!ENTITY doNotTrack.options.doTrack                              "Fortell nettsted at jeg ønsker å spores">
-<!ENTITY doNotTrack.options.default                              "Ikke fortell nettsted noe om mine sporingsønsker">
+<!ENTITY doNotTrack.options.doNotTrack                           "Fortell nettsider at jeg ikke ønsker å spores">
+<!ENTITY doNotTrack.options.doTrack                              "Fortell nettsider at jeg ønsker å spores">
+<!ENTITY doNotTrack.options.default                              "Ikke fortell nettsider om mine sporingspreferanser">
 <!ENTITY doNotTrack.learnMoreLink                                "Les mer &#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapporter for å hjelpe Mozilla gjøre nettleseren mer stabil og sikker">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ta med adressen til siden jeg var på i rapporten">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
 <!ENTITY optionsHeader.telemetry.label                            "Deler bruksstatistikk fra &brandShortName; med Mozilla for å hjelpe oss gjøre nettleseren bedre">
