@@ -2,5 +2,5 @@ googlemetrofx
 bingmetrofx
 wikipedia-es
 mercadolibre-cl
-yahoo-cl
+yahoo-clmetrofx
 drae
