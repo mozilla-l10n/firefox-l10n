@@ -2,5 +2,5 @@ eBay-in
 googlemetrofx
 gujaratilexicon
 wikipedia-gu
-yahoo-in
+yahoo-inmetrofx
 bingmetrofx
