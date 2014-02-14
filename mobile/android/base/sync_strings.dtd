@@ -76,7 +76,7 @@
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Menú Marcadores">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "Menú de marcadores">
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra de herramientas">
 <!ENTITY bookmarks.folder.unfiled.label "Marcadores sin clasificar">
