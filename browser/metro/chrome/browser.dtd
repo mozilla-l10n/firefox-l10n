@@ -47,6 +47,7 @@
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
+<!ENTITY consoleFollowCheckbox.label "Procedi">
 <!ENTITY contextTextCut.label "Taglia">
 <!ENTITY contextTextCopy.label "Copia">
 <!ENTITY contextTextPaste.label "Incolla">
