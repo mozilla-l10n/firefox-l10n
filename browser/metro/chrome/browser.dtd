@@ -59,6 +59,7 @@
 <!ENTITY consoleMessages.label     "Meddelanden">
 <!ENTITY consoleCodeEval.label     "Kod:">
 <!ENTITY consoleClear.label        "Rensa">
+<!ENTITY consoleCopyAll.label      "Kopiera">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Källfil:">
 <!ENTITY consoleErrLine.label      "Rad:">
