@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
 <!ENTITY  undoCloseTab.accesskey             "H">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Hilpekîna hat girtin şûnde bîne">
 <!ENTITY  closeTab.label                     "Hilpekînê bigire">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -242,11 +237,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Parzûna Çewtiyan ya Gerokê">
-<!ENTITY chromeDebuggerMenu.accesskey   "Ç">
+<!ENTITY browserToolboxMenu.label     "Darikê Amûran yê Gerokê">
+<!ENTITY browserToolboxMenu.accesskey "A">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Darikê Amûran yê pêşvebirê bigire">
 <!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebirê">
@@ -257,7 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Amûran bigire/veke">
 <!ENTITY devToolboxMenuItem.accesskey      "b">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Amûrên pêşvebir vedike/digire">
@@ -412,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "y">
 <!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
 <!ENTITY emailPageCmd.accesskey       "e">
+<!ENTITY switchToMetroCmd.label       "&brandShortName;ê bi şêweya Windows 8ê veke">
+<!ENTITY switchToMetroCmd2.label      "Di &brandShortName;ê de bo Windows 8 Touchê dîsa veke">
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->

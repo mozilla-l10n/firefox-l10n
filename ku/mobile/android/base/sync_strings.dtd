@@ -48,7 +48,7 @@
 <!ENTITY sync.configure.engines.title.bookmarks "Bijare">
 <!ENTITY sync.configure.engines.title.passwords "Şîfre">
 <!ENTITY sync.configure.engines.title.history "Raborî">
-
+<!ENTITY sync.configure.engines.title.tabs "Hilpekîn">
 <!-- Common text -->
 
 <!ENTITY sync.button.ok.label "OK">

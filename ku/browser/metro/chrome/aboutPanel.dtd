@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "Derbarê">
+<!ENTITY aboutHeader.product.label  "&brandShortName;ê de">
+<!ENTITY aboutHeader.company.label  "Pêşvebir: &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Rêgezên Nepeniyê yên &brandShortName;ê bixwîne">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Li nûkirinan digere…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Li hevgirtinên Add-onan vedinêre…">
+<!ENTITY update.checkingAddonCompat "Hevgirtinên Add-onan tên kontrolkirin…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; nû ye">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -21,7 +24,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Rpjanekirin têk çû. ">
-<!ENTITY update.failed.linkText     "Guhertoya dawî daxe">
+<!ENTITY update.failed.linkText     "Versiyona dawiyê jêbar bike">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -36,7 +39,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Nûkirin tê daxistin — ">
+<!ENTITY update.downloading.start   "Nûkirin tê jêbarkirin — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Nûkirin tê sepandin…">

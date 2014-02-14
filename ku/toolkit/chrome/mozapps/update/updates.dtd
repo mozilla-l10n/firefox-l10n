@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Rojanekirina Nivîsbariyê">
 
 <!ENTITY  checking.title                  "Li Rojanekirinan Digere">
-<!ENTITY  updateCheck.label               "Li guhertoya nû vedinêre ji bo &brandShortName;…">
+<!ENTITY  updateCheck.label               "Li versiyonên nû yên &brandShortName;ê digere…">
 
 <!ENTITY  pluginupdatesfound.title        "Ji bo Pluginan Rojanekirin hene">
 <!ENTITY  pluginupdatesfound.label        "Ji bo yek an jî zêdetir pluginên te guhertoya nûtir amade ye.">
@@ -25,8 +25,11 @@ komputerê biceribîne.">
 ciyê vala tune ye.">
 <!ENTITY  manualUpdateGetMsg.label        "Tu her dem dikarî guhertoya dawîn a &brandShortName;ê bistînî li:">
 
-
-
+<!ENTITY  unsupported.title               "Pergala Nayê Destekirin">
+<!ENTITY  unsupported.label               "&brandShortName;a te kevn e, lê versiyona nû ji hêla pergala te ve 
+nayê destekirin. Tika ye pergala xwe bilind bike, û paşê dîsa biceribîne. 
+Tu yê vê hişyariyê careke din nebînî, lê tu dikarî">
+<!ENTITY  unsupportedLink.label           "agahiyên din bistînî.">
 
 <!ENTITY  incompatibleCheck.title         "Hevgirtina Add-onê Kontrol Dike">
 <!ENTITY  incompatibleCheck.label         "Li guhertoyên nûtir ên add-onên te digere…">

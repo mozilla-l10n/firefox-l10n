@@ -6,27 +6,28 @@
 <!ENTITY playButton.pauseLabel "Rawestîne">
 <!ENTITY muteButton.muteLabel "Bêdeng">
 <!ENTITY muteButton.unmuteLabel "Bideng">
-
-
+<!ENTITY fullscreenButton.enterfullscreenlabel "Dîmenter Tijî">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Ji moda Dîmender Tijî derkeve">
 
 <!ENTITY stats.media "Medya">
 <!ENTITY stats.size "Mezinahî">
+<!ENTITY stats.activity "Çalakî">
+<!ENTITY stats.activityPaused "Hate rawestandin">
+<!ENTITY stats.activityPlaying "Tê lêdan">
+<!ENTITY stats.activityEnded "Qediya">
+<!ENTITY stats.activitySeeking "(vedinêre)">
+<!ENTITY stats.volume "Deng">
+<!ENTITY stats.framesParsed "Kareyên kartêkirî">
+<!ENTITY stats.framesDecoded "Kareyên dekodekirî">
+<!ENTITY stats.framesPresented "Kareyên pêşkêşkirî">
+<!ENTITY stats.framesPainted "Kareyên xêzkirî">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY error.aborted "Barkirina vîdeoyê hat sekinandin.">
+<!ENTITY error.network "Ji ber çewtiyeke torê vîdeo hat betalkirin.">
+<!ENTITY error.decode "Ji ber ku pel xirabe ye vîdeo nayê lêdan.">
+<!ENTITY error.srcNotSupported "Formata vîdeoyê yan jî cureyê MIMEyê nayê destekirin.">
+<!ENTITY error.noSource2 "Tu vîdeoyên bi formata destekirî ya jî bi cureyê MIME nehat dîtin.">
+<!ENTITY error.generic "Ji ber çewtiyeke nenas lêdana vîdeoyê hat betalkirin.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
