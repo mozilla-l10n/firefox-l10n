@@ -25,6 +25,6 @@
 <!ENTITY sync.setup.waiting2        "மற்றொரு சாதனத்துக்காக காத்திருக்கவும்...">
 
 <!ENTITY sync.pair.title            "ஒரு சாதனத்தை இணைசேர்">
-
+<!ENTITY sync.pair.description      "உங்கள் புதிய சாதனத்தைச் செயல்படுத்த, &quot;சாதனத்தில் ஒத்திசைவை அமை&quot;என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.setup.close           "மூடு">
 
