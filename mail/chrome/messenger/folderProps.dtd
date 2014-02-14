@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Egenskaper">
 
 <!ENTITY generalInfo.label                       "Generell informasjon">
-<!ENTITY folderCharsetTab.label                  "Standard tegnkoding:">
-<!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ikke bli berørt)">
-<!ENTITY folderCharsetOverride.accesskey         "B">
+<!ENTITY folderCharsetFallback.label             "Reserve-tegnkoding:">
+<!ENTITY folderCharsetFallback.accesskey         "R">
+<!ENTITY folderCharsetEnforce.label              "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ignorereres)">
+<!ENTITY folderCharsetEnforce.accesskey          "B">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
