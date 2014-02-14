@@ -130,6 +130,11 @@
 <!ENTITY options.stylesheetSourceMaps.label      "Zobraziť pôvodné zdroje">
 <!ENTITY options.stylesheetSourceMaps.tooltip    "Zobrazí pôvodné zdroje (e.g. súbory Sass) v Editore štýlov a v okne Prieskumníka">
 
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Automatické dokončovanie CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Počas písania v okne Editora štýlov automaticky dokončuje vlastnosti CSS, hodnoty a selektory">
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
