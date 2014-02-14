@@ -1,5 +1,5 @@
 googlemetrofx
-yahoo-en-GB
+yahoo-en-GBmetrofx
 bbc-alba
 amazon-en-GB
 faclair-beag
