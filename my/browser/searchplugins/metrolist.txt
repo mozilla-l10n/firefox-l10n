@@ -4,4 +4,4 @@ eBay
 googlemetrofx
 twitter
 wikipedia-my
-yahoo
+yahoometrofx
