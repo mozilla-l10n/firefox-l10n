@@ -112,7 +112,7 @@
 <!ENTITY fxaccount_checkbox_contentDescription2 'Grafické zaškrtávací pole pro Firefox accounts'>
 <!ENTITY fxaccount_icon_contentDescription2 'Ikona Firefox accounts'>
 <!ENTITY fxaccount_intro_contentDescription2 'Úvodní grafika Firefox accounts'>
-<!ENTITY fxaccount_mail_contentDescription2 'Obálka grafiky Firefox accounts>
+<!ENTITY fxaccount_mail_contentDescription2 'Obálka grafiky Firefox accounts'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
