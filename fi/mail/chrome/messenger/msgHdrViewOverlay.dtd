@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Vastauksena viestiin ">
 <!ENTITY originalWebsite4.label "Verkkosivu ">
 
-<!ENTITY editMessageDescription.label "Tämä on luonnos">
-<!ENTITY editMessageButton.label "Muokkaa…">
 <!ENTITY hdrArchiveButton1.label "Arkistoi">
 <!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
 <!ENTITY hdrSmartReplyButton1.label "Älyvastaus">

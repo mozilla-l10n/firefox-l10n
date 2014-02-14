@@ -27,6 +27,13 @@
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Pikasuodatuspalkki">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
+     The tooltip to display when hovering over the button on the tab bar that
+     toggles the visibility of the quick filter bar.
+     -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
          "Ota tai poista pikasuodatuspalkki käytöstä">
 

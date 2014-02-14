@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Kaatumisilmoitukset">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; lähettää tiedot kaatumisista Mozillalle, jotta voimme tehdä selaimestasi vakaamman ja turvallisemman">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Liitä ilmoitukseen kaatumishetkellä avoimen sivun osoite">
 <!ENTITY optionsHeader.telemetry.title                            "Kaukomittaustiedot">
 <!ENTITY optionsHeader.telemetry.label                            "Lähetä Mozillalle tietoja &brandShortName;ista, jotta voimme tehdä selaimesta entistä paremman">
