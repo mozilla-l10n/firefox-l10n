@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "گزینه‌ها">
-<!ENTITY optionsHeader.startup.title                             "راه‌اندازی">
-
-
-
 <!ENTITY optionsHeader.char.title                                "کدگذاری نویسه‌ها">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "گزارش‌گر فروپاشی">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "نشانی صفحه‌ای که مشغول به بازدید از آن بودم نیز گزارش شود">
 
 

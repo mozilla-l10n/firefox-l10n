@@ -9,18 +9,20 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "نشانک‌ها">
-
+<!ENTITY  history_title "تاریخچه">
 <!ENTITY  reading_list_title "لیست خواندن">
 
+<!ENTITY  switch_to_tab "پرش به زبانه">
 
-
-
-
-
-
-
-
-
+<!ENTITY  crash_reporter_title "گزارشگر فروپاشی &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; مشکلی داشت و فروپاشید. پس از راه‌اندازی مجدد، زبانه‌های شما باید در &brandShortName; در صفحه شروع فهرست شده باشند.">
+<!ENTITY  crash_send_report_message3 "درباره این فروپاشی به &vendorShortName; اطلاع دهید تا بتوانند آن را برطرف کنند">
+<!ENTITY  crash_include_url2 "نشانی صفحه‌ای که در آن بودن اضافه شود">
+<!ENTITY  crash_sorry "متأسفیم">
+<!ENTITY  crash_comment "افزودن یک توضیح (توضیحات برای عموم قابل دیدن هستند)">
+<!ENTITY  crash_allow_contact2 "به &vendorShortName; اجازه بده تا برای این گزارش بتواند با من تماس بگیرد">
+<!ENTITY  crash_email "پست‌الکترونیکی شما">
+<!ENTITY  crash_closing_alert "خروج بدون ارسال گزارش فروپاشی؟">
 <!ENTITY  sending_crash_report "درحال گزارش درهم شکستن\u2026">
 <!ENTITY  crash_close_label "بستن">
 <!ENTITY  crash_restart_label "راه‌اندازی مجدد &brandShortName;">
@@ -57,55 +59,60 @@
 <!ENTITY one_tab "1 زبانه">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; زبانه">
 <!ENTITY new_tab_opened "زبانۀ جدید باز شد">
 
 <!ENTITY settings "تنظیمات">
 <!ENTITY settings_title "تنظیمات">
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_advanced "پیشرفته">
+<!ENTITY pref_category_customize "سفارشی‌سازی">
+<!ENTITY pref_category_search2 "جستجو تنظیمات">
+<!ENTITY pref_category_display "نمایش">
+<!ENTITY pref_category_privacy_short "حریم‌خصوصی">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "انتخاب داده‌ها">
+<!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
+<!ENTITY pref_category_add_search_providers "اضافه کردن بیشتر تامین‌کننده‌های جستجو">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-
-
-
+<!ENTITY pref_search_tip "نکته: هرگاه پایگاه وبی را با فشردن طولانی بر روی فیلد جستجو آن به فهرست تامین کننده‌های جستجو اضافه کنید.">
+<!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
+<!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
+<!ENTITY pref_developer_remotedebugging_docs "اطلاعات بیشتر">
 <!ENTITY pref_remember_signons "به خاطر سپردن گذرواژه‌ها">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
+<!ENTITY pref_header_customize "سفارشی‌سازی">
+<!ENTITY pref_header_display "نمایش">
+<!ENTITY pref_header_privacy_short "حریم‌خصوصی">
+<!ENTITY pref_header_help "راهنما">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ابزارهای توسعه">
 
 <!ENTITY pref_cookies_menu "کوکی‌ها">
+<!ENTITY pref_cookies_accept_all "فعال شد">
+<!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
+<!ENTITY pref_cookies_disabled "غیرفعال شد">
 
-
-
-
-
-
-
+<!ENTITY pref_donottrack_menu "درحال ردیابی">
+<!ENTITY pref_donottrack_disallow_tracking "به سایت‌ها بگو که نمی‌خواهم ردیابی شوم">
+<!ENTITY pref_donottrack_allow_tracking "به وب‌سایت‌ها بگویید که می‌خواهید ردیابی شوید">
+<!ENTITY pref_donottrack_no_pref "به وب‌سایت‌ها هیچ چیزی در مورد تنظیمات ردیابی من نگو">
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
-
+<!ENTITY pref_char_encoding_off "منو را نمایش نده">
 <!ENTITY pref_clear_private_data "پاک‌سازی اطلاعات خصوصی">
 <!ENTITY pref_plugins "افزونه‌ها">
-
+<!ENTITY pref_plugins_enabled "فعال شد">
 <!ENTITY pref_plugins_tap_to_play "برای اجرا، فشار دهید">
-
+<!ENTITY pref_plugins_disabled "غیر فعال شد">
 <!ENTITY pref_text_size "اندازهٔ متن">
-
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "جهت متن">
+<!ENTITY pref_restore "زبانه‌ها">
+<!ENTITY pref_restore_always "همیشه برگردان">
+<!ENTITY pref_restore_quit "پس از خروج از &brandShortName; بازآوری نکن">
 <!ENTITY pref_font_size_tiny "ریز">
 <!ENTITY pref_font_size_small "کوچک">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -121,6 +128,8 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "روباه سریع نارنجی بالاتر از انتظارات شما با سرعت بیشتر می‌پرد، انعطاف‌پذیری بیشتر و امنیت بالاتر. ما به عنوان یک سازمان غیر انتفاعی، ما برای نوآوری از جانب شما بدون هر گونه فشار به سازش آزاد هستیم. این یعنی تجربه‌ای بهتر برای شما و آینده‌ای بهتر برای وب.">
+
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_show_product_announcements "نمایش اطلاعیه‌های محصول">
 <!ENTITY pref_sync "هم‌گام‌سازی">
@@ -132,23 +141,24 @@ size. -->
 <!ENTITY pref_private_data_passwords "گذرواژه‌های ذخیره شده">
 <!ENTITY pref_private_data_cache "حافظهٔ نهان">
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
-
-
+<!ENTITY pref_private_data_siteSettings2 "تنظیمات سایت">
+<!ENTITY pref_private_data_downloadFiles "پرونده‌های بارگیری شده">
 
 
 <!ENTITY pref_about_firefox "دربارهٴ &brandShortName;">
+<!ENTITY pref_vendor_faqs "پرسش‌های متداول">
+<!ENTITY pref_vendor_feedback "دادن بازخورد">
+<!ENTITY pref_search_set_default "تنظیم به عنوان پیش‌فرض">
+<!ENTITY pref_search_default "پیش‌فرض">
+<!ENTITY pref_search_remove "حذف">
+<!ENTITY pref_search_last_toast "شما آخرین موتور جست‌وجو را نمی‌توانید حذف یا غیرفعال کنید.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "&brandShortName; آمار &amp; داده">
+<!ENTITY datareporting_notification_action_long "انتخاب کنید چه اطلاعاتی به‌اشتراک گذاشته شود">
+<!ENTITY datareporting_notification_action "انتخاب کنید چه چیزی به‌اشتراک گذاشته شود">
+<!ENTITY datareporting_notification_summary "برای بهبود تجربه شما &brandShortName; به‌طور خودکار اطلاعاتی به &vendorShortName; ارسال می‌کند.">
+<!ENTITY datareporting_notification_summary_short "برای بهبود تجربه شما &brandShortName; …">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -156,18 +166,25 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "گزارش سلامت &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "اطلاعات مربوط به سلامت مرورگر را با &vendorShortName; به‌اشتراک می‌گذارد و به شما کمک می‌کند عملکرد مرورگر خود را متوجه شوید">
+<!ENTITY datareporting_abouthr_title "گزارش سلامت مرا نشان بده">
+<!ENTITY datareporting_telemetry_title "دور سنجی">
+<!ENTITY datareporting_telemetry_summary "اطلاعات عملکرد، کاربری، سخت‌افزار و سفارشی‌سازی مرورگر شما را با &vendorShortName; به‌اشتراک می‌گذارد تا به ما کمک کند &brandShortName; را بهتر کنیم">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; گزارشهای فروپاشی را ثبت می‌کند تا به &vendorShortName; که مرورگر شما را پایدارتر و ایمن‌تر کند">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "گزارش‌گر فروپاشی">
+<!ENTITY datareporting_wifi_title "&vendorShortName; خدمات مکان">
+<!ENTITY datareporting_wifi_summary "کمک به بهبود خدمات منطقه جغرافیایی Open Web با اجازه دادن به &brandShortName; جهت جمع‌آوری و ارسال ناشناس داده‌های آنتن‌های سلولی">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-
-
-
-
-
+<!ENTITY pref_update_autodownload2 "بروزرسانی‌ها را به صورت خودکار بارگیری کن">
+<!ENTITY pref_update_autodownload_wifi "فقط با وای-فای">
+<!ENTITY pref_update_autodownload_never "هرگز">
+<!ENTITY pref_update_autodownload_always "همیشه">
 
 <!ENTITY quit "خروج">
 
@@ -179,18 +196,18 @@ size. -->
 <!ENTITY share "اشتراک‌گذاری">
 <!ENTITY share_title "بوسیله‌ی اشتراک‌گذاری">
 <!ENTITY share_image_failed "نمی‌تواند این تصویر را به اشتراک بگذارد">
-
-
+<!ENTITY save_as_pdf "ذخیره به صورت PDF">
+<!ENTITY find_in_page "پیدا کردن در صفحه">
 <!ENTITY desktop_mode "درخواست وب‌سایت دسکتاپ">
 <!ENTITY tools "ابزارها">
 <!ENTITY new_tab "زبانهٔ جدید">
-
-
-
-
-
-
-
+<!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
+<!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
+<!ENTITY tabs_normal "زبانه‌ها">
+<!ENTITY tabs_private "خصوصی">
+<!ENTITY tabs_synced "همگام‌سازی شد">
+<!ENTITY set_image_fail "ناتوانی در تنظیم تصویر">
+<!ENTITY set_image_chooser_title "تنظیم تصویر به عنوان">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -200,24 +217,29 @@ size. -->
 <!ENTITY find_close "بستن">
 
 <!ENTITY contextmenu_open_new_tab "باز کردن در زبانهٔ جدید">
-
+<!ENTITY contextmenu_open_private_tab "باز کردن در زبانه‌ی خصوصی">
 <!ENTITY contextmenu_open_in_reader "باز کردن در Reader">
-
-
-
-
+<!ENTITY contextmenu_remove "حذف">
+<!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
+<!ENTITY contextmenu_share "اشتراک‌گذاری">
+<!ENTITY contextmenu_pasteandgo "چسباندن و رفتن">
 <!ENTITY contextmenu_paste "چسباندن">
+<!ENTITY contextmenu_copyurl "رونوشت از نشانی">
+<!ENTITY contextmenu_edit_bookmark "ویرایش">
+<!ENTITY contextmenu_subscribe "اشتراک در صفحه">
+<!ENTITY contextmenu_site_settings "ویرایش تنظیمات سایت">
+<!ENTITY contextmenu_top_sites_edit "ویرایش">
+<!ENTITY contextmenu_top_sites_pin "سنجاق کردن سایت">
+<!ENTITY contextmenu_top_sites_unpin "بازکردن سنجاق سایت">
+<!ENTITY contextmenu_add_search_engine "افزودن موتور جست‌وجو">
 
+<!ENTITY pref_titlebar_mode "نوار عنوان">
+<!ENTITY pref_titlebar_mode_title "نمایش عنوان صفحه">
+<!ENTITY pref_titlebar_mode_url "نمایش آدرس صفحه">
 
+<!ENTITY pref_dynamic_toolbar "نوار عنوان را هنگام حرکت دادن صفحه محو کن">
 
-
-
-
-
-
-
-
-
+<!ENTITY history_removed "صفحه حذف شده">
 
 <!ENTITY bookmark_edit_title "ویرایش نشانک">
 <!ENTITY bookmark_edit_name "نام">
@@ -225,6 +247,8 @@ size. -->
 <!ENTITY bookmark_edit_keyword "کلیدواژه">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "تنظیمات سایت">
 <!ENTITY site_settings_cancel       "انصراف">
 <!ENTITY site_settings_clear        "پاک کردن">
 <!ENTITY site_settings_no_settings  "هیج تنظیماتی برای پاک کردن نیست.">
@@ -232,9 +256,11 @@ size. -->
 <!ENTITY reading_list_added "صفحه به لیست خواندن اضافه شد">
 <!ENTITY reading_list_removed "صفحه از لیست خواندن حذف شد">
 <!ENTITY reading_list_failed "خطا هنگام اضافه کردن صفحه به لیست خواندن">
-
+<!ENTITY reading_list_duplicate "صفحه از قبل در فهرست خواندن شما است">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "کنش‌های اضافی">
 
 <!ENTITY masterpassword_create_title "ثبت گذرواژهٔ اصلی">
 <!ENTITY masterpassword_remove_title "حذف گذرواژهٔ اصلی">
@@ -249,25 +275,34 @@ size. -->
 <!ENTITY button_set "تنظیم کردن">
 <!ENTITY button_clear "پاک کردن">
 
+<!ENTITY home_top_sites_title "سایت‌های برتر">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "افزودن یک سایت">
 
-
-
-
-
-
-
+<!ENTITY home_history_title "تاریخچه">
+<!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
+<!ENTITY home_last_tabs_title "زبانه‌های مربوط به آخرین بار">
+<!ENTITY home_last_tabs_open "همه‌ی زبانه‌های مربوط به آخرین بار را باز کن">
+<!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
+<!ENTITY home_most_recent_title "موارد اخیر">
+<!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
+<!ENTITY home_reading_list_empty "مقاله‌هایی را که برای بعد ذخیره کرده‌اید، در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "نکته: مقالات را با فشردن طولانی آیکن &#037;I در هنگامی که بر روی نوار عنوان ظاهر می‌شود به فهرست خواندن خود اضافه کنید.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "نکته: مقالات را با فشردن طولانی مدت دکمه «حالت خواندن» هنگامی که در نوار عنوان ظاهر می‌شود در فهرست خواندن خود اضافه کنید.">
 
+<!ENTITY pin_site_dialog_hint "ثبت یک کلید‌واژه جست‌وجو">
 
-
-
-
-
+<!ENTITY filepicker_title "انتخاب پرونده">
+<!ENTITY filepicker_audio_title "انتخاب یا ضبط یک صدا">
+<!ENTITY filepicker_image_title "انتخاب یا عکس گرفتن">
+<!ENTITY filepicker_video_title "انتخاب یا ضبط یک ویدیو">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "پایگاهی که به آن متصل هستید:">
@@ -285,11 +320,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "اداره کننده:">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "این صفحه محتویاتی را نمایش می‌دهد که ایمن نیست.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; به دلیل ناامن بودن دارای محتویات بلوکه شده است.">
+<!ENTITY blocked_mixed_content_message_bottom "اکثر پایگاه‌ها هنوز به درستی کار خواهند کرد حتی زمانی که این محتویات بلوکه‌شده باشد.">
 <!ENTITY learn_more "بیشتر بدانید">
-
-
-
+<!ENTITY enable_protection "فعال‌سازی حفاظت">
+<!ENTITY disable_protection "غیرفعال سازی حفاظت">
+<!ENTITY keep_blocking "بلوکه شده نگه‌ دار">
 
 <!ENTITY private_data_success "داده‌های شخصی پاک شده‌اند">
 <!ENTITY private_data_fail "بعضی از داده‌های شخصی نمی‌توانند پاک شوند">
@@ -304,27 +341,44 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "لطفاً صبر کنید...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "آیا می‌خواهید پیشنهادهای جستجوی &formatS; را روشن کنید؟">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "جست‌وجو &formatS1; برای &formatS2;">
+
 <!ENTITY webapp_generic_name "برنامه">
 
+<!ENTITY searchable_description "نشانک‌ها و تاریخچه">
 
-<!-- Updater notifications -->
+<!ENTITY devtools_remote_debugging_forward "راه اندازی انتقال درگاه را فراموش نکن!">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "بروزرسانی برای &brandShortName; موجود است">
+<!ENTITY updater_start_select2 "برای بارگیری لمس کنید">
 
 <!ENTITY updater_downloading_title2 "در حال بارگیری &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "بارگیری‌ شکست خورد">
+<!ENTITY updater_downloading_select2 "برای اعمال بروزرسانی پس از بارگیری، لمس کنید">
+<!ENTITY updater_downloading_retry2 "برای تلاش مجدد لمس کنید">
 
-
-
-
-
+<!ENTITY updater_apply_title2 "بروزرسانی برای &brandShortName; موجود است">
+<!ENTITY updater_apply_select2 "برای بروزرسانی لمس کنید">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "نشست جدید مهمان">
+<!ENTITY exit_guest_session "خروج از نشست مهمان">
 <!ENTITY guest_session_dialog_continue "ادامه">
+<!ENTITY guest_session_dialog_cancel "انصراف">
+<!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
+<!ENTITY new_guest_session_text "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
 
+<!ENTITY exit_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
+<!ENTITY exit_guest_session_text "داده‌های مرور شده در این نشست حذف خواهند شد.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
 
-
-
-
+<!ENTITY actionbar_menu "منو">
+<!ENTITY actionbar_done "انجام شد">

@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "بستن زبانه‌ها به راست">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ر">
 <!ENTITY  closeOtherTabs.label               "بستن زبانه‌های دیگر">
 <!ENTITY  closeOtherTabs.accesskey           "گ">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -45,10 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "ن">
 <!ENTITY  undoCloseTab.label                 "واگرد بستن زبانه">
 <!ENTITY  undoCloseTab.accesskey             "و">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "بستن زبانه">
 <!ENTITY  closeTab.accesskey                 "ب">
 
@@ -108,6 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "اجازه دادن">
 <!ENTITY fullscreenExitButton.label "رد کردن">
 
+<!ENTITY fullscreenExitHint2.value "در هر زمانی برای خروج دکمه ESC را فشار دهید.">
 <!ENTITY leaveDOMFullScreen.label "خروج از حالت تمام‌صفحه">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -118,18 +116,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "به‌اشتراک‌گذاری این صفحه">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "ب">
+<!ENTITY shareLinkCmd.label "به‌اشتراک‌گذاری این پیوند">
+<!ENTITY shareLinkCmd.accesskey "ب">
+<!ENTITY shareImageCmd.label "به‌اشتراک‌گذاری این عکس">
+<!ENTITY shareImageCmd.accesskey "ب">
+<!ENTITY shareSelectCmd.label "به‌اشتراک‌گذاری انتخاب شده">
+<!ENTITY shareSelectCmd.accesskey "ب">
+<!ENTITY shareVideoCmd.label "به‌اشتراک‌گذاری این ویدئو">
+<!ENTITY shareVideoCmd.accesskey "ب">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
@@ -160,7 +158,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "مکان">
 <!ENTITY searchItem.title             "جست‌وجو">
 <!ENTITY bookmarksItem.title          "نشانک‌ها">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "خانه">
 
 <!ENTITY tabGroupsButton.label        "گروه‌بندی زبانه‌ها">
 <!ENTITY tabGroupsButton.tooltip      "زبانه‌های موجود را گروه‌بندی کنید">
@@ -201,6 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "وصل شدن...">
@@ -211,15 +212,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "کنسول وب از راه دور">
 
-
-
+<!ENTITY browserConsoleCmd.label      "پایانه مرورگر">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "م">
 
 <!ENTITY inspectContextMenu.label     "بازرسی عناصر">
 <!ENTITY inspectContextMenu.accesskey "ًًQ">
 
 <!ENTITY responsiveDesignTool.label   "نمای طراحی پاسخگو">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -235,22 +237,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "اشکال‌زدای مرورگر">
+<!ENTITY browserToolboxMenu.label     "جعبه‌ابزار مرورگر">
+<!ENTITY browserToolboxMenu.accesskey "و">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "بستن نوار توسعه دهنده">
 <!ENTITY devToolbarMenu.label              "نوار توسعه دهنده">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "مدیر برنامه">
+<!ENTITY devAppMgrMenu.accesskey           "م">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ابزارها">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ابزارهای گسترش دهنده">
 <!ENTITY devToolbarOtherToolsButton.label  "ابزار بیشتر">
@@ -268,9 +270,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "ویرایش"> 
 <!ENTITY editMenu.accesskey       "و"> 
-
+<!ENTITY undoCmd.label            "برگردان">  
 <!ENTITY undoCmd.key            "Z">  
-
+<!ENTITY undoCmd.accesskey          "گ"> 
 <!ENTITY redoCmd.label            "از نو">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ز"> 
@@ -388,8 +390,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "ت">
 <!ENTITY viewImageInfoCmd.label       "نمایش اطلاعات تصویر">
 <!ENTITY viewImageInfoCmd.accesskey   "ص">
-
-
+<!ENTITY viewImageDescCmd.label       "نمایش توضیحات">
+<!ENTITY viewImageDescCmd.accesskey   "ت">
 <!ENTITY viewVideoCmd.label           "مشاهدهٔ ویدیو">
 <!ENTITY viewVideoCmd.accesskey       "م">
 <!ENTITY viewBGImageCmd.label         "نمایش تصویر پس‌زمینه">
@@ -404,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "راه‌اندازی مجدد با سبک ویندوز ۸ &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "راه‌اندازی مجدد در &brandShortName; برای ویندوز ۸ لمسی">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
 <!ENTITY savePageCmd.accesskey        "ص">
 <!-- alternate for content area context menu -->
@@ -461,18 +465,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ق">
 <!ENTITY mediaUnmute.label           "وصل صدا">
 <!ENTITY mediaUnmute.accesskey       "و">
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate.label     "سرعت پخش">
+<!ENTITY mediaPlaybackRate.accesskey "پ">
+<!ENTITY mediaPlaybackRate050x.label "حرکت آهسته (۰.۵×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "ح">
+<!ENTITY mediaPlaybackRate100x.label "سرعت عادی">
+<!ENTITY mediaPlaybackRate100x.accesskey "ع">
+<!ENTITY mediaPlaybackRate150x.label "سرعت بالا(۱.۵×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "ب">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x.label "سرعت جنون‌آمیز(۲×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "ج">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -534,6 +539,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "ت">
 <!ENTITY quitApplicationCmdMac.label    "ترک &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "بستن">  
 <!ENTITY closeCmd.key                   "W">  
@@ -596,6 +602,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "اطلاعات بیشتر…">
 
 <!ENTITY identity.permissions "مجوزها">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "چطور می‌تونم بگم که اتصالم به یک پایگاه‌وب امن است؟">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -621,37 +632,47 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "نمایش نوار جانبی">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "مدیریت سرویس‌ها…">
 
 <!ENTITY social.toggleNotifications.label "نمایش میزکار و اطلاعیه‌ها">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-
-
-
-
+<!ENTITY social.activated.description "مدیریت سرویس‌ها…">
+<!ENTITY social.activated.undo.label "اوه، این را برگردان!">
+<!ENTITY social.activated.undo.accesskey "ب">
+<!ENTITY social.learnMore.label "اطلاعات بیشتر…">
+<!ENTITY social.learnMore.accesskey "ط">
 <!ENTITY social.closeNotificationItem.label "اکنون نه">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "تمرکز بر روی گپ‌ها">
+<!ENTITY social.chatBar.accesskey "ت">
 
+<!ENTITY social.markpageMenu.accesskey "ص">
+<!ENTITY social.markpageMenu.label "دخیره صفحه در…">
+<!ENTITY social.marklinkMenu.accesskey "پ">
+<!ENTITY social.marklinkMenu.label "ذخیره پیوند در…">
 
+<!ENTITY getUserMedia.selectCamera.label "دوربین جهت به‌اشتراک‌گذاری:">
+<!ENTITY getUserMedia.selectCamera.accesskey "د">
+<!ENTITY getUserMedia.selectMicrophone.label "میکروفون جهت به‌اشتراک‌گذاری:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "م">
 
+<!ENTITY webrtcIndicatorButton.label "دسترسی دوربین/میکروفون">
+<!ENTITY webrtcIndicatorButton.tooltip "نمایش سایت‌هایی که شما در حال حاضر دوربین و میکروفون خود را با آن‌ها به‌اشتراک گذاشته‌اید">
 
+<!ENTITY mixedContentBlocked.helplink "اطلاعات بیشتر">
+<!ENTITY mixedContentBlocked.moreinfo "بیشتر سایت‌ها حتی با بلوکه شدن این محتویات باز هم به درستی کار می‌کنند.">
 
+<!ENTITY pointerLock.notification.message "برای نمایش مجدد در هر زمانی دکمه ESC را فشار دهید.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pluginNotification.showAll.label "نمایش همه">
+<!ENTITY pluginNotification.showAll.accesskey "ن">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "الان اجازه بده">
+<!ENTITY pluginActivateAlways.label "اجازه بده و به‌خاطر بسپار">
+<!ENTITY pluginBlockNow.label "بلوکه کردن متصل‌شونده">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -660,9 +681,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-
-
-
+<!ENTITY tabCrashed.header "زبانه فروپاشید">
+<!ENTITY tabCrashed.message "خب، یکم خجالت آوره. سعی کردیم که این صفحه وب رو نمایش بدیم، اما ظاهرا پاسخگو نیست.">
+<!ENTITY tabCrashed.checkSendReport "به &vendorShortName; در مورد این فروپاشی اطلاع دهید تا آن را اصلاح کنند.">
+<!ENTITY tabCrashed.tryAgain "تلاش مجدد">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

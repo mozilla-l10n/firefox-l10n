@@ -40,11 +40,12 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "ذخیره">
+
 
 <!ENTITY connection.connecting "در حال اتصال…">
 
 <!ENTITY connection.cancel "انصراف">
+
 
 
 
@@ -67,6 +68,15 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY projects.valid "معتبر">
+<!ENTITY projects.error "خطا">
 
 
 <!ENTITY help.close "بستن">
