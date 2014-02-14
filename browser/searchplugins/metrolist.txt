@@ -2,5 +2,5 @@ amazondotcom
 answers
 bingmetrofx
 googlemetrofx
-yahoo
+yahoometrofx
 wikipedia-fa
