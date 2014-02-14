@@ -3,4 +3,4 @@ freelang
 googlemetrofx
 klask
 wikipedia-br
-yahoo-france
+yahoo-francemetrofx
