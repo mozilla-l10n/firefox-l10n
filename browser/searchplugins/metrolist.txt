@@ -1,6 +1,6 @@
 googlemetrofx
 twitter
-yahoo-en-GB
+yahoo-en-GBmetrofx
 amazon-en-GB
 eBay-en-GB
 answers
