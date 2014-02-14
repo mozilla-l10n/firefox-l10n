@@ -1,5 +1,5 @@
 googlemetrofx
-yahoo-zh-TW
+yahoo-zh-TWmetrofx
 yahoo-answer-zh-TW
 yahoo-bid-zh-TW
 findbook-zh-TW
