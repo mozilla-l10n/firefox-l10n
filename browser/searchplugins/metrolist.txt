@@ -2,6 +2,6 @@ amazondotcom
 creativecommons
 eBay-in
 googlemetrofx
-yahoo-in
+yahoo-inmetrofx
 wikipedia-te
 wiktionary-te
