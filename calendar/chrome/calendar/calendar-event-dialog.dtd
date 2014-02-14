@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Ende">
 <!ENTITY newevent.attendees.notify.label    "Teilnehmer benachrichtigen">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Teilnehmer in Einladungen nicht bekanntgeben">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Wenn aktiviert, können Teilnehmer einander in Einladungen nicht sehen. Dies gilt nur für Einladungen per E-Mail.">
+
 <!ENTITY newevent.status.label                     "Status">
 <!ENTITY newevent.status.accesskey                 "S">
 <!ENTITY newevent.eventStatus.none.label           "Nicht angegeben">
