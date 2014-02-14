@@ -6,10 +6,15 @@
 <!ENTITY crashprompt.title           "Çökme raporlarını Mozilla'ya göndermek ister misiniz?">
 <!ENTITY crashprompt.message         "&brandShortName; az önce bir çökmeden kurtarıldı. Çökme raporlarını göndermek, Mozilla'nın &brandShortName; tarayıcısını daha kararlı ve güvenli hale getirmesine yardımcı olur. İstediğiniz zaman tercihinizi Ayarlar/Seçenekler üzerinden değiştirebilirsiniz.">
 <!ENTITY crashprompt.detailsLink     "Çökme raporunda neler bulunur?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "This may include things like open pages, text typed into forms and the content of open messages, recent browsing history, or geolocation shared with a site.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Çökme raporlarını, sorunları gidermek ve ürünlerimizi geliştirmek için kullanıyoruz. Bilgilerinizi ">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Çökme raporu, çökme ve bilgisayarınız hakkında bazı ayrıntıların yanı sıra çökme anında tarayıcınızın durumunu gösteren değerleri içerir.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Tarayıcı durumu değerleri arasında açık sayfalar, formlara yazılmış yazılar ve açık mesajların içerikleri, yakın tarama geçmişiniz veya bir siteyle paylaştığınız coğrafi konum bilginiz bulunabilir.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Çökme raporlarını, sorunları gidermek ve ürünlerimizi geliştirmek için kullanıyoruz. Bilgilerinizi ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; gizlilik ilkelerinde">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Bakmakta olduğum sayfanın adresini dahil et">
 <!ENTITY crashprompt.acceptbutton    "Raporları gönder">
 <!ENTITY crashprompt.refusebutton    "Gönderme">
