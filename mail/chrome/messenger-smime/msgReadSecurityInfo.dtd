@@ -6,9 +6,9 @@
 
 <!ENTITY status.label "Tèarainteachd na teachdaireachd">
 <!ENTITY signatureCert.label "Seall teisteanas an ainm sgrìobhte">
-<!ENTITY encryptionCert.label "Seall teisteanas an dubh-cheilidh">
+<!ENTITY encryptionCert.label "Seall teisteanas a' chrioptachaidh">
 
 <!ENTITY signer.name "Ainm sgrìobhte le:">
-<!ENTITY recipient.name "Air a dhubh-cheileadh airson:">
+<!ENTITY recipient.name "Air a chrioptachadh airson:">
 <!ENTITY email.address "Seòladh a' phuist-dhealain:">
 <!ENTITY issuer.name "Teisteanas air fhoillseachadh le:">

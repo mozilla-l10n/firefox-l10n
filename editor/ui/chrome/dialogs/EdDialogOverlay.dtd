@@ -8,7 +8,7 @@
 <!ENTITY chooseFileButton.label "Tagh faidhle…">
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Tagh faidhle…">
-<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY chooseFileLinkButton.accessKey "a">
 <!ENTITY makeUrlRelative.label "Tha an t-URL dàimheach a thaobh àite na duilleige">
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Atharrachadh eadar URL dàimheach is absaloideach. Feumaidh tu an duilleag a shàbhalachadh an toiseach mus urrainn dhut seo atharrachadh.">

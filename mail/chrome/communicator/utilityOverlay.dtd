@@ -9,7 +9,7 @@
 <!ENTITY fileMenu.label          "Faidhle">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Ùr">
-<!ENTITY newMenu.accesskey          "Ù">
+<!ENTITY newMenu.accesskey          "r">
 
 <!ENTITY editMenu.label          "Deasaich">
 <!ENTITY editMenu.accesskey        "e">

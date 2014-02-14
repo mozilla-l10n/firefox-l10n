@@ -244,7 +244,7 @@
 <!ENTITY calendar.context.publish.label                "Foillsich mìosachan…">
 <!ENTITY calendar.context.publish.accesskey            "F">
 <!ENTITY calendar.context.export.label                 "Às-phortaich mìosachan…">
-<!ENTITY calendar.context.export.accesskey             "À">
+<!ENTITY calendar.context.export.accesskey             "m">
 <!ENTITY calendar.context.properties.label             "Roghainnean">
 <!ENTITY calendar.context.properties.accesskey         "R">
 

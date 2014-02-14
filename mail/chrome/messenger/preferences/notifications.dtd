@@ -20,5 +20,5 @@ the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 
 <!ENTITY  totalOpenTimeBefore.label       "Seall am brath mu phost ùr fad">
-<!ENTITY  totalOpenTimeBefore.accesskey   "N">
+<!ENTITY  totalOpenTimeBefore.accesskey   "m">
 <!ENTITY  totalOpenTimeEnd.label          "diog(an)">

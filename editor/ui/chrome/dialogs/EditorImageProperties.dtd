@@ -14,7 +14,7 @@
 <!ENTITY locationEditField.accessKey "l">
 <!ENTITY locationEditField.tooltip "Cuir a-steach ainm no seòladh an deilbh">
 <!ENTITY title.label "Gliocas-inneil:">
-<!ENTITY title.accessKey "T">
+<!ENTITY title.accessKey "G">
 <!ENTITY title.tooltip "Seo am feart html 'title' a nochdas mar ghliocas-inneil">
 <!ENTITY altText.label "Roghainn teacsa eile:">
 <!ENTITY altText.accessKey "a">
@@ -31,12 +31,12 @@
 <!ENTITY actualSizeRadio.accessKey "A">
 <!ENTITY actualSizeRadio.tooltip "Aisig meud fìor an deilbh">
 <!ENTITY customSizeRadio.label "Meud gnàthaichte">
-<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.accessKey "n">
 <!ENTITY customSizeRadio.tooltip "Atharraich meud an deilbh mar a chithear e san duilleag">
 <!ENTITY heightEditField.label "Àirde:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "d">
 <!ENTITY widthEditField.label "Leud:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Cuir co-èiginn air">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "Glèidh co-mheas an deilbh">
@@ -59,9 +59,9 @@
 <!ENTITY leftRightEditField.label "Clì 's deis:">
 <!ENTITY leftRightEditField.accessKey "l">
 <!ENTITY topBottomEditField.label "Bun is barr:">
-<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY topBottomEditField.accessKey "i">
 <!ENTITY borderEditField.label "Iomall soladach:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.accessKey "s">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Seall iomall mun dealbh cheangailte">
