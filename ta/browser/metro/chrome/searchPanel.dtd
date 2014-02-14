@@ -3,15 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "தேடு">
-
-<!ENTITY newPref.namePlaceholder       "பெயர்">
-
-
-
-
-
-
-<!ENTITY newPref.cancelButton          "விடு">
-
-
+<!ENTITY searchFlyoutHeader.title  "தேடு">
+<!ENTITY searchSetting.title  "இயல்புநிலை தேடல் வழங்குநர்">
