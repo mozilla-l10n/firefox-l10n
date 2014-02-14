@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
+<!ENTITY  error_loading_file "Ocurrió un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
-<!ENTITY  reading_list_title "Reading List">
+<!ENTITY  reading_list_title "Lista de lectura">
 
 <!ENTITY  switch_to_tab "Cambiar a la pestaña">
 
@@ -23,47 +23,47 @@
 <!ENTITY  crash_allow_contact2 "Permitir a &vendorShortName; contactarme en relación a este reporte">
 <!ENTITY  crash_email "Tu correo electrónico">
 <!ENTITY  crash_closing_alert "¿Salir sin enviar un informe de fallo?">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  sending_crash_report "Enviando reporte de fallo\u2026">
+<!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
 <!ENTITY  exit_label "Salir">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "Web Apps de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "No se encontraron aplicaciones web">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Elegir archivo">
 
-<!ENTITY url_bar_default_text "Enter Search or Address">
+<!ENTITY url_bar_default_text "Ingresar dirección o búsqueda">
 
 <!ENTITY bookmark "Marcador">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_added "Marcador agregado">
+<!ENTITY bookmark_removed "Marcador eliminado">
+<!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "Hace 7 días">
+<!ENTITY history_older_section "Más de 7 días">
 
-<!ENTITY go "Go">
+<!ENTITY go "Ir">
 <!ENTITY search "Buscar">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
+<!ENTITY reload "Recargar">
+<!ENTITY forward "Siguiente">
 <!ENTITY menu "Menú">
 <!ENTITY back "Atrás">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
+<!ENTITY stop "Atrás">
+<!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY num_tabs2 "&formatD; pestañas">
+<!ENTITY new_tab_opened "Nueva pestaña abierta">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
+<!ENTITY settings "Configuración">
+<!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_search2 "Configuración de las búsquedas">
@@ -72,15 +72,15 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
-<!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
+<!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsqueda">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "CONSEJO: añade un sitio web a tu lista de proveedores de búsqueda con una pulsación larga en el campo de búsqueda.">
+<!ENTITY pref_search_tip "CONSEJO: Agrega un sitio web a tu lista de proveedores de búsqueda con una pulsación larga en el campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Aprender más">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_remember_signons "Recordar contraseñas">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizar">
@@ -142,11 +142,11 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "Archivos descargados">
 
 
 <!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "Preguntas Más Frecuentes">
 <!ENTITY pref_vendor_feedback "Give feedback">
 <!ENTITY pref_search_set_default "Establecer como predeterminado">
 <!ENTITY pref_search_default "Predeterminado">
@@ -177,11 +177,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Informador de fallos">
 <!ENTITY datareporting_wifi_title "&vendorShortName; servicios de ubicación">
 <!ENTITY datareporting_wifi_summary "Ayuda a mejorar los servicios de geolocalización para la Web Abierta y permitir que &brandShortName; recopile y envíe datos anónimos de torre de datos celulares">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload_never "Nunca">
+<!ENTITY pref_update_autodownload_always "Siempre">
 
 <!ENTITY quit "Quit">
 
@@ -203,8 +206,8 @@ size. -->
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Private">
 <!ENTITY tabs_synced "Synced">
-
-
+<!ENTITY set_image_fail "No se puede colocar la imagen">
+<!ENTITY set_image_chooser_title "Establece imagen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -216,21 +219,25 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Open in New Tab">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Open in Reader">
-
+<!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
 <!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Edit">
-
-
+<!ENTITY contextmenu_subscribe "Suscríbete a la página">
+<!ENTITY contextmenu_site_settings "Editar configuración del sitio">
 <!ENTITY contextmenu_top_sites_edit "Edit">
 <!ENTITY contextmenu_top_sites_pin "Pin Site">
 <!ENTITY contextmenu_top_sites_unpin "Unpin Site">
+<!ENTITY contextmenu_add_search_engine "Añadir un Motor de Búsqueda">
 
+<!ENTITY pref_titlebar_mode "Barra de título">
+<!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
+<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 
-
+<!ENTITY pref_dynamic_toolbar "Ocultar la barra de titulo cuando se esté desplazando">
 
 <!ENTITY history_removed "Page removed">
 
@@ -253,6 +260,8 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Acciones Adicionales">
+
 <!ENTITY masterpassword_create_title "Create Master Password">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
@@ -269,7 +278,9 @@ size. -->
 <!ENTITY home_top_sites_title "Top Sites">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Añadir al sitio">
 
+<!ENTITY home_history_title "Historial">
 <!ENTITY home_bookmarks_empty "Los marcadores que salvaste se mostrarán aquí.">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
 <!ENTITY home_last_tabs_open "Open all tabs from last time">
@@ -310,12 +321,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
-
-
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; se bloqueó el contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
 <!ENTITY learn_more "Learn More">
-
-
-
+<!ENTITY enable_protection "Activar protección">
+<!ENTITY disable_protection "Desactivar protección">
+<!ENTITY keep_blocking "Mantener bloqueado">
 
 <!ENTITY private_data_success "Private data cleared">
 <!ENTITY private_data_fail "Some private data could not be cleared">
@@ -336,10 +347,13 @@ from Android">
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "Buscar &formatS1; para &formatS2;">
+
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bookmarks and history">
 
+<!ENTITY devtools_remote_debugging_forward "¡No olvides configurar el reenvío de puertos!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
@@ -354,10 +368,17 @@ from Android">
 <!ENTITY updater_apply_select2 "Touch to update">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "Nueva sesión de invitado">
+<!ENTITY exit_guest_session "Salir de la sesión de invitado">
 <!ENTITY guest_session_dialog_continue "Continuar">
-
+<!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; ahora reiniciará">
 <!ENTITY new_guest_session_text "La persona que lo use no podrá ver ninguno de tus datos de navegación personales (como contraseñas, historial y marcadores guardados).\n\nCuando tu invitado acabe, sus datos de navegación serán eliminados y se restaurará tu sesión.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ahora reiniciará">
 <!ENTITY exit_guest_session_text "Los datos de búsqueda de esta sesión serán eliminados.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Done">
