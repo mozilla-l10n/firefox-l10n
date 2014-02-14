@@ -19,7 +19,7 @@
 <!ENTITY HTMLTab.label                "Àrainnean HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Àrainnean teacsa luim">
-<!ENTITY PlainTextTab.accesskey       "À">
+<!ENTITY PlainTextTab.accesskey       "t">
 <!ENTITY AddHtmlDomain.label          "Cuir ris…">
 <!ENTITY AddHtmlDomain.accesskey      "C">
 <!ENTITY AddPlainText.label           "Cuir ris…">

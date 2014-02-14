@@ -4,8 +4,8 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
-<!ENTITY menu_securityEncryptRequire.label "Dubh-cheil an teachdaireachd seo">
-<!ENTITY menu_securityEncryptRequire.accesskey "e">
+<!ENTITY menu_securityEncryptRequire.label "Crioptaich an teachdaireachd seo">
+<!ENTITY menu_securityEncryptRequire.accesskey "p">
 
 <!ENTITY menu_securitySign.label "Cuir ainm sgrìobhte digiteach ris an teachdaireachd seo">
 <!ENTITY menu_securitySign.accesskey "m">

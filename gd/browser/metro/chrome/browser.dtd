@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Na toraidhean">
 
-<!ENTITY appbarErrorConsole.label   "Fosgail consoil nam mearachd">
-<!ENTITY appbarJSShell.label        "Fosgail JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Lorg air an duilleag">
-<!ENTITY appbarViewOnDesktop2.label "Seall air an deasga">
-<!ENTITY appbarMSMetaData2.label    "Faigh aplacaid airson na làraich seo">
+<!ENTITY appbarErrorConsole.label      "Fosgail consoil nam mearachd">
+<!ENTITY appbarJSShell.label           "Fosgail JavaScript shell">
+<!ENTITY appbarFindInPage2.label       "Lorg air an duilleag">
+<!ENTITY appbarRelaunchInDesktop.label "Cuir gu dol a-rithist san tionndadh desktop">
+<!ENTITY appbarMSMetaData2.label       "Faigh aplacaid airson na làraich seo">
+<!ENTITY appbarViewPageSource.label    "Seall bun-tùs na duilleige">
 
 <!ENTITY topSitesHeader.label        "Gràinnean-mullaich nan làrach">
 <!ENTITY bookmarksHeader.label       "Comharran-lìn">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "A bheil na tabaichean a dhìth ort? Cha leig thu leas ach tarraing a-nuas no briogadh deas a dhèanamh">
+<!ENTITY firstRunTopSites.label "Rach gu na làraichean a chleachdas tu as trice">
+<!ENTITY firstRunBookmarks.label "Lorg duilleagan a shàbhail thu airson sùil a thoirt orra uaireigin eile">
+<!ENTITY firstRunMenu.label "Faigh cothrom air barrachd fheartan is roghainnean">
+<!ENTITY firstRunHistory.label "Faic càit an robh thu air an lìon">
+<!ENTITY firstRunWelcome.label "Fàilte gu &brandShortName;">
+<!ENTITY firstRunDifferent.label "Tha an diofar san dealbhadh">

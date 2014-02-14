@@ -24,7 +24,7 @@
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Às-phortaich…">
-<!ENTITY calendar.export.accesskey              "À">
+<!ENTITY calendar.export.accesskey              "p">
 <!ENTITY calendar.export.selection.label        "Às-phortaich na thagh thu…">
 <!ENTITY calendar.export.selection.accesskey    "s">
 

@@ -5,10 +5,10 @@
 
 
 <!ENTITY title.label "Tèarainteachd na teachdaireachd">
-<!ENTITY subject.plaintextWarning "An aire: Cha bhi loidhnichean cuspair de theachdaireachdain puist-dhealain air an dubh-cheileadh idir.">
+<!ENTITY subject.plaintextWarning "An aire: Cha bhi loidhnichean cuspair de theachdaireachdan puist-dhealain air an crioptachadh idir.">
 <!ENTITY status.heading "Thàid susbaint do theachdaireachd a chur mar seo:">
 <!ENTITY status.signed "Le ainm digiteach:">
-<!ENTITY status.encrypted "Air a dhubh-cheileadh:">
+<!ENTITY status.encrypted "Crioptaichte:">
 <!ENTITY status.certificates "Teisteanasan:">
 <!ENTITY view.label "Sealladh">
 <!ENTITY view.accesskey "S">

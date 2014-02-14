@@ -8,7 +8,7 @@
 <!ENTITY fileMenu.label                                 "Faidhle">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ùr">
-<!ENTITY newMenu.accesskey                              "Ù">
+<!ENTITY newMenu.accesskey                              "r">
 <!ENTITY newContact.label                               "Neach-aithne ann an leabhar nan seòladh…">
 <!ENTITY newContact.accesskey                           "c">
 <!ENTITY newContact.key                                 "N">
@@ -121,7 +121,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.label                                "Ion-phortaich…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Às-phortaich…">
-<!ENTITY exportCmd.accesskey                            "À">
+<!ENTITY exportCmd.accesskey                            "s">
 <!ENTITY preferencesCmd.label                           "Roghainnean…">
 <!ENTITY preferencesCmd.accesskey                       "o">
 <!ENTITY preferencesCmdUnix.label                       "Roghainnean">

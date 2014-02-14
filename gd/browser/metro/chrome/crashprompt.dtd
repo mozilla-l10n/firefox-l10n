@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "A bheil thu ag iarraidh aithisgean tuislidh a chur gu Mozilla?">
+<!ENTITY crashprompt.message         "Tha sinn duilich gun do thuislich &brandShortName; ort. Ma chuireas tu aithisg tuislidh thugainn, cuidichidh seo Mozilla a&apos; leasachadh &brandShortName; airson &apos;s gum bi e nas seasmhaiche agus nas tèarainte san àm ri teachd. &apos;S urrainn dhut na roghainnean seo atharrachadh uair sam bith sna &quot;Roghainnean&quot;.">
+<!ENTITY crashprompt.detailsLink     "Dè tha ann an aithisg tuislidh?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Tha beagan fiosrachaidh mun tuisleadh ann an aithisg tuislidh, mun inneal agus agus snapshot de staid a' bhrabhsair agad mar a bha e nuair a thuislich e.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Faodaidh seo gabhail a-steach rudan mar dhuilleagan a bha fosgailte, teacsa a chuir thu ann am foirmean agus susbaint de theachdaireachdan fosgailte, an eachdraidh brabhsaidh faisg ort no geò-dàta a tha thu a' co-roinneadh le làrach.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Cleachdaidh sinn na h-aithisgean tuislidh gus duilgheadasan a rèiteachadh agus am bathar againn a leasachadh. Làimhsichidh sinn am fiosrachadh agad mar a mhìnich sinn ann am ">
+<!ENTITY crashprompt.privacyPolicyLink "poileasaidh prìobhaideachd &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Cuir ann seòladh na duilleige far an robh mi">
+<!ENTITY crashprompt.acceptbutton    "Cuir na h-aithisgean">
+<!ENTITY crashprompt.refusebutton    "Na cuir iad">
+<!ENTITY crashprompt.privacyPolicy.title "poileasaidh prìobhaideachd &brandShortName;">

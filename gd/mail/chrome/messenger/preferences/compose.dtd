@@ -30,7 +30,7 @@
 <!ENTITY spellCheckInline.label               "Ceartaich an litreachadh fhad 's a bhios mi a' sgrìobhadh">
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Cànan:">
-<!ENTITY languagePopup.accessKey              "L">
+<!ENTITY languagePopup.accessKey              "C">
 <!ENTITY downloadDictionaries.label           "Luchdaich a-nuas barrachd fhaclairean">
 
 <!ENTITY warnOnSendAccelKey.label             "Iarr dearbhadh ma thèid ath-ghoirid a' mheur-chlàir a chleachdadh gus teachdaireachd a chur">

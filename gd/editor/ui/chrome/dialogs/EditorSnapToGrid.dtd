@@ -10,6 +10,6 @@
 <!ENTITY enableSnapToGrid.accessKey "e">
 
 <!ENTITY sizeEditField.label "Meud:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.accessKey "e">
 
 <!ENTITY pixelsLabel.value "pixel">

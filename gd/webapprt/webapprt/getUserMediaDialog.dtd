@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Co-roinneadh mheadhanan">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Co-roinn">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "o">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Sguir dheth">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "d">
+<!ENTITY getUserMediaDialog.title                   "Co-roinneadh mheadhanan">
+<!ENTITY getUserMediaDialog.button.accept.label     "Co-roinn">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "C">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Sguir dheth">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "u">
 
-<!ENTITY getUserMediaDialog.video.label           "Tagh camara">
-<!ENTITY getUserMediaDialog.video.noVideo         "Gun video">
-<!ENTITY getUserMediaDialog.audio.label           "Tagh micreofon">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Gun fhuaim">
+<!ENTITY getUserMediaDialog.video.label             "Tagh camara">
+<!ENTITY getUserMediaDialog.video.noVideo           "Gun video">
+<!ENTITY getUserMediaDialog.audio.label             "Tagh micreofon">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Gun fhuaim">
