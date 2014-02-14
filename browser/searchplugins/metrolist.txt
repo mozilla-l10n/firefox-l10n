@@ -3,4 +3,4 @@ bingmetrofx
 eBay
 googlemetrofx
 wikipedia-sq
-yahoo
+yahoometrofx
