@@ -3,4 +3,4 @@ bingmetrofx
 eBay
 googlemetrofx
 wikipedia-af
-yahoo
+yahoometrofx
