@@ -63,6 +63,7 @@
 <!ENTITY consoleErrFile.label      "Källfil:">
 <!ENTITY consoleErrLine.label      "Rad:">
 <!ENTITY consoleErrColumn.label    "Kolumn:">
+<!ENTITY consoleFollowCheckbox.label "Följ">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Klipp ut">
