@@ -2,5 +2,5 @@ googlemetrofx
 amazondotcom
 bingmetrofx
 eBay-in
-yahoo-in
+yahoo-inmetrofx
 wikipedia-or
