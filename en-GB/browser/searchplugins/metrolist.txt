@@ -5,4 +5,4 @@ eBay-en-GB
 googlemetrofx
 twitter
 wikipedia
-yahoo-en-GB
+yahoo-en-GBmetrofx
