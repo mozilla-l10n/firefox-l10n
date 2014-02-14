@@ -5,4 +5,4 @@ eudict
 googlemetrofx
 twitter
 wikipedia-hr
-yahoo
+yahoometrofx
