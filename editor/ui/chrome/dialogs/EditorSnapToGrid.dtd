@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "اجذب إلى الشبكة">
 
 <!ENTITY enableSnapToGrid.label "مكّن Snap to Grid">
 <!ENTITY enableSnapToGrid.accessKey "ن">

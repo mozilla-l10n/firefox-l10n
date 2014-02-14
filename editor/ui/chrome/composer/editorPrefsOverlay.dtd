@@ -5,7 +5,7 @@
 
 
 <!ENTITY editorCheck.label "Composer">
-
+<!ENTITY editorCheck.accesskey "ف">
 
 <!ENTITY compose.label "منشئ الرسائل">
 <!ENTITY editing.label "إعدادات الصفحة الجديدة">

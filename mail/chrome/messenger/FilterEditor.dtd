@@ -17,7 +17,7 @@
 <!ENTITY highestPriorityCmd.label "القصوى">
 
 <!ENTITY contextDesc.label "طبّق المُرشّح عند:">
-<!ENTITY contextIncomingMail.label "وصول بريد جديد">
+<!ENTITY contextIncomingMail.label "وصول بريد جديد:">
 <!ENTITY contextIncomingMail.accesskey "ص">
 <!ENTITY contextManual.label "التشغيل اليدوي">
 <!ENTITY contextManual.accesskey "ش">

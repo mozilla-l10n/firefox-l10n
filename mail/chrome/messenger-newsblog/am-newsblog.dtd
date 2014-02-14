@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "مرشد حسابات التلقيمات">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "تلقيمات المدونات والأخبار">
+<!ENTITY feeds.accountName "تلقيمات المدونات و الأخبار">
 <!ENTITY feeds.wizardShortName "التلقيمات">
-<!ENTITY feeds.wizardLongName "تلقيمات المدونات والأخبار">
+<!ENTITY feeds.wizardLongName "تلقيمات المدونات و الأخبار">
 <!ENTITY feeds.wizardLongName.accesskey "ت">

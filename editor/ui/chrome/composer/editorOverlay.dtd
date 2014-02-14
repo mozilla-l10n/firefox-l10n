@@ -11,19 +11,21 @@
 <!ENTITY pasteNoFormatting.label "ألصق بلا تنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ألصق على صيغة…">
-<!ENTITY pasteAs.accesskey "ص">
+<!ENTITY pasteAs.label "ألصق ك‍">
+<!ENTITY pasteAs.accesskey "ل">
 <!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ابحث واستبدل…">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
-<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء">
+<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء…">
 <!ENTITY checkSpellingCmd2.accesskey "ء">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
+<!ENTITY insertMenu.label "أدرج">
+<!ENTITY insertMenu.accesskey "د">
 <!ENTITY insertLinkCmd.label "وصلة…">
 <!ENTITY insertLinkCmd.accesskey "ص">
 <!ENTITY insertLinkCmd.key "l">

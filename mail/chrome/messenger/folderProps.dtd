@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "الخصائص">
 
 <!ENTITY generalInfo.label                       "معلومات عامة">
-<!ENTITY folderCharsetTab.label                  "ترميز المحارف المبدئي:">
-<!ENTITY folderCharsetTab.accesskey              "ت">
-<!ENTITY folderCharsetOverride.label             "طبِّق المبدئي على كل الرسائل في المجلد (سيتجاهل إعدادات ترميز المحارف لكل رسالة والتعرّف التلقائي)">
-<!ENTITY folderCharsetOverride.accesskey         "ط">
+<!ENTITY folderCharsetFallback.label             "ترميز المحارف الاحتياط:">
+<!ENTITY folderCharsetFallback.accesskey         "ت">
+<!ENTITY folderCharsetEnforce.label              "طبّق الترميز على كل الرسائل في المجلد (سيتجاهل إعدادات الترميز المستقلة لكل رسالة و كذلك الاكتشاف التلقائي)">
+<!ENTITY folderCharsetEnforce.accesskey          "ط">
 <!ENTITY folderRebuildSummaryFileTip2.label      "أعد بناء فهرس ملف الملخص">
 <!ENTITY folderRebuildSummaryFile2.label         "أصلِح المجلد">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ص">
@@ -21,7 +21,7 @@
 <!ENTITY retentionUseAccount.accesskey "ت">
 <!ENTITY daysOld.label "أيّام">
 <!ENTITY message.label "رسائل">
-<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرسائل القديمة نهائيًّا">
+<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرسائل القديمة نهائيًّا.">
 <!ENTITY retentionCleanupImap.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا من جهازك ومن الخادوم البعيد.">
 <!ENTITY retentionCleanupPop.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا، ويشمل ذلك نسخها الأصلية في الخادوم البعيد.">
 <!ENTITY retentionDeleteMsg.label "احذف الرسائل التي تزيد عن">

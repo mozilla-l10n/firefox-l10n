@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "الخطوط والترميزات">
+<!ENTITY  fontsAndEncodingsDialog.title           "الخطوط و الترميزات">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
@@ -58,8 +58,8 @@
 <!ENTITY minSize.none                             "لا شيء">
 <!-- default font type -->
 
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "مذيّل">
+<!ENTITY  useDefaultFontSansSerif.label           "غير مذيّل">
 <!-- fonts in message -->
 
 <!ENTITY  fontControl.label                       "التحكم بالخطوط">

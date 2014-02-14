@@ -27,7 +27,7 @@
 <!ENTITY closeCmd.label                                 "أغلق">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "غ">
-<!ENTITY printSetupCmd.label                            "إعداد الصفحة …">
+<!ENTITY printSetupCmd.label                            "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey                        "ع">
 <!ENTITY printPreviewContactCmd.label                   "عاين طباعة المراسل">
 <!ENTITY printPreviewContactCmd.accesskey               "ط">
@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "أدوات">
 <!ENTITY tasksMenu.accesskey                            "د">
-<!ENTITY messengerCmd.label                             "البريد و مجموعات الأخبار">
+<!ENTITY messengerCmd.label                             "البريد و مجموعات الأخبار">
 <!ENTITY messengerCmd.accesskey                         "ب">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "ابحث في العناوين…">
