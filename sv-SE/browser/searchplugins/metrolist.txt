@@ -4,4 +4,4 @@ googlemetrofx
 prisjakt-sv-SE
 tyda-sv-SE
 wikipedia-sv-SE
-yahoo-sv-SE
+yahoo-sv-SEmetrofx
