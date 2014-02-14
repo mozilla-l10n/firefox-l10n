@@ -29,7 +29,8 @@ was trying to connect. -->
 می‌توانید از &brandShortName; بخواهید که به هویت این پایگاه اطمینان کند. 
 <b>حتی اگر به این پایگاه اطمینان دارید، این پیغام خطا ممکن است به معنی آن باشد 
 که شخصی در حال مداخله در اتصال شما است.</b>">
-
+<!ENTITY certerror.expert.contentPara2 "هیچ استثنایی اضافه نکنید مگر اینکه
+واقعا می‌دانید که چرا این سایت از یک شناسایی معتبر استفاده نمی‌کند.">
 <!ENTITY certerror.addTemporaryException.label "بازدید از وب‌گاه">
 <!ENTITY certerror.addPermanentException.label "افزودن استثناء دائمی">
 
