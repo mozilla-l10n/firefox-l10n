@@ -11,7 +11,6 @@
 <!ENTITY appbarErrorConsole.label "Àrvi console di eroî">
 <!ENTITY appbarJSShell.label "Àrvi shell JavaScript">
 <!ENTITY appbarFindInPage2.label "Trova nella pagina">
-<!ENTITY appbarViewOnDesktop2.label "Àrvi in Desktop">
 <!ENTITY topSitesHeader.label "Siti principali">
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY recentHistoryHeader.label "Cronologia recente">
@@ -76,3 +75,14 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!ENTITY appbarRelaunchInDesktop.label "Àrvi tórna in mòddo desktop">
+<!ENTITY appbarViewPageSource.label "Véddi sorgénte pàgina">
+<!ENTITY firstRunBookmarks.label "Trêuva e pàgine sarvæ>
+<!ENTITY firstRunDifferent.label "Originâle a partî da-o progétto">
+<!ENTITY firstRunHistory.label "Contròlla i scîti che t'æ vixitòu in sciâ Ræ">
+<!ENTITY firstRunMenu.label "Acêdi a-e opçioìn e a-e âtre fonçioìn">
+<!ENTITY firstRunTabs.label "No ti trêuvi ciù i féuggi? Rebêla in zu ò fànni clic co-o poméllo dèstro">
+<!ENTITY firstRunTopSites.label "Acêdi a-i scîti ciù vixitæ">
+<!ENTITY firstRunWelcome.label "Benvegnûo in &brandShortName;">
+
