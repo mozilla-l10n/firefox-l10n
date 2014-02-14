@@ -2,5 +2,5 @@ googlemetrofx
 amazon-en-GB
 bingmetrofx
 eBay-en-GB
-yahoo
+yahoometrofx
 wikipedia-el
