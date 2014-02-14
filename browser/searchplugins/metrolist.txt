@@ -5,4 +5,4 @@ googlemetrofx
 palasprint
 termau
 wikipedia-cy
-yahoo-en-GB
+yahoo-en-GBmetrofx
