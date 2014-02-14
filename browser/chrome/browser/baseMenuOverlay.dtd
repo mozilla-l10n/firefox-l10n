@@ -21,7 +21,7 @@
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "קיצורי מקלדת">
-<!ENTITY helpKeyboardShortcuts.accesskey "ע">
+<!ENTITY helpKeyboardShortcuts.accesskey "ק">
 
 <!ENTITY helpSafeMode.label       "הפעלה מחדש עם תוספות מנוטרלות…">
 <!ENTITY helpSafeMode.accesskey   "מ">
@@ -40,10 +40,10 @@
 
 <!ENTITY servicesMenuMac.label          "שירותים">
 
-<!ENTITY hideThisAppCmdMac.label        "הסתר את &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.label        "הסתרת &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "ה">
 
-<!ENTITY hideOtherAppsCmdMac.label      "הסתר אחרים">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label      "הסתרת אחרים">
+<!ENTITY hideOtherAppsCmdMac.commandkey "א">
 
 <!ENTITY showAllAppsCmdMac.label        "הראה הכול">
