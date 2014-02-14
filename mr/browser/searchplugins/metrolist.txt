@@ -1,7 +1,7 @@
 googlemetrofx
 amazondotcom
 eBay-in
-yahoo-in
+yahoo-inmetrofx
 creativecommons
 wikipedia-mr
 rediff
