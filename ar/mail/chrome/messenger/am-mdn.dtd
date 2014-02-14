@@ -26,7 +26,7 @@
 <!ENTITY notInToCc.accesskey          "ل">
 <!ENTITY outsideDomain.label          "إذا كان المرسل خارج نطاقي:">
 <!ENTITY outsideDomain.accesskey      "خ">
-<!ENTITY otherCases.label             "في كلّ الحالات الأخرى">
+<!ENTITY otherCases.label             "في كلّ الحالات الأخرى:">
 <!ENTITY otherCases.accesskey         "خ">
 <!ENTITY askMe.label                  "اسألني">
 <!ENTITY alwaysSend.label             "أرسل دائمًا">

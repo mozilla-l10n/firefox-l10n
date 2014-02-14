@@ -83,7 +83,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "عاين الطباعة">
 <!ENTITY printPreviewCmd.accesskey "ع">
-<!ENTITY printSetupCmd.label "إعداد الصفحة …">
+<!ENTITY printSetupCmd.label "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey "ع">
 <!-- Edit Menu -->
 
@@ -484,7 +484,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
 <!ENTITY clearRecentHistory.accesskey "س">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب …">
+<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
 <!ENTITY accountManagerCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -539,8 +539,8 @@
 <!ENTITY replyAllButton.tooltip "رُد على المُرسِل وكل المُستلمين">
 <!ENTITY replyListButton.tooltip "رُد على القائمة البريدية">
 <!ENTITY forwardButton.tooltip "مرّر الرسالة المختارة">
-<!ENTITY forwardAsInline.tooltip "مرر الرسالة المحددة ضمن المتن.">
-<!ENTITY forwardAsAttachment.tooltip "مرر الرسالة المحددة مرفقة.">
+<!ENTITY forwardAsInline.tooltip "مرر الرسالة المحددة ضمن المتن">
+<!ENTITY forwardAsAttachment.tooltip "مرر الرسالة المحددة مرفقة">
 <!ENTITY fileButton.tooltip "صُفّ الرسالة المختارة">
 <!ENTITY archiveButton.tooltip "أرشِف الرسائل المختارة">
 <!ENTITY nextButton.tooltip "الرسالة غير المقروءة التالية">
@@ -565,12 +565,23 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "مرِّر ضمن المتن">
 <!ENTITY buttonMenuForwardAsAttachment.label "مرِّر مرفقة">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "أظهر المحتوى البعيد في هذه الرسالة">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "ظ">
+<!ENTITY remoteContentOptionAllowForAddress.label "أظهر المحتوى البعيد من هذا المُرسِل">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "م">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "تجاهل التحذير لهذه الرسالة">
+<!ENTITY phishingOptionIgnore.accesskey "ت">
+<!ENTITY phishingOptionDisableDetection.label "عطّل الكشف عن الاحتيال لجميع الرسائل">
+<!ENTITY phishingOptionDisableDetection.accesskey "ع">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
 <!ENTITY appmenuNewContactCmd.label "متراسل دفتر العناوين…">
 <!ENTITY appmenuEditMenu.label "تحرير">
-<!ENTITY appmenuQFBMenu.label "شريط الترشيح السريع">
 <!ENTITY appmenuToolbarLayout.label "تنسيق شريط الأدوات…">
 <!ENTITY appmenuSelectThread.label "اختر نقاشًا">
 <!ENTITY appmenuSelectFlagged.label "اختر الرسائل ذات النجمة">
@@ -706,7 +717,7 @@
 <!ENTITY contextReplyList.label "ردّ على القائمة">
 <!ENTITY contextReplyList.accesskey "ق">
 <!ENTITY contextForward.label "إلى الأمام">
-<!ENTITY contextForward.accesskey "أ">
+<!ENTITY contextForward.accesskey "م">
 <!ENTITY contextForwardAsMenu.label "مرّر ك‍">
 <!ENTITY contextForwardAsMenu.accesskey "ك">
 <!ENTITY contextForwardAsInline.label "ضمن المتن">
@@ -788,27 +799,6 @@
 <!ENTITY contextMute.accesskey "ت">
 <!ENTITY contextUnmute.label "أطلِق الصوت">
 <!ENTITY contextUnmute.accesskey "و">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "يظن &brandShortName; أن هذه رسالة سخام.">
-<!ENTITY junkBarButton1.label "ليست سُخامًا">
-<!ENTITY junkInfoButton.label "؟">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "لحماية خصوصيتك، منع &brandShortName; المحتوى البعيد في هذه الرسالة.">
-<!ENTITY loadRemoteContentButton3.label "أظهِر المحتوى البعيد">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "هذه الرسالة قد تكون خدعة.">
-<!ENTITY removePhishingBarButton1.label "تجاهَل التحذير">
-<!ENTITY disablePhishingWarning1.label "عطَل الكشف عن الاحتيال لجميع الرسائل">
-<!ENTITY reportPhishingError1.label "لا يبدو على هذه الرسالة أنها خدعة.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "تجاهل">
-<!ENTITY mdnBarIgnoreButton2.accesskey "ه">
-<!ENTITY mdnBarSendButton2.label "أرسِل إيصال الارتجاع">
-<!ENTITY mdnBarSendButton2.accesskey "ص">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

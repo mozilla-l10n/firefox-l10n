@@ -9,7 +9,7 @@
 <!ENTITY directoryHostname.accesskey       "م">
 <!ENTITY directoryBaseDN.label             "‏DN الأساسي:">
 <!ENTITY directoryBaseDN.accesskey         "ا">
-<!ENTITY findButton.label                  "ابحث:">
+<!ENTITY findButton.label                  "ابحث">
 <!ENTITY findButton.accesskey              "ب">
 <!ENTITY directorySecure.label             "استخدم اتصالا آمنا (SSL)">
 <!ENTITY directorySecure.accesskey         "ص">
@@ -24,7 +24,7 @@
 <!ENTITY searchFilter.accesskey            "ش">
 <!ENTITY scope.label                       "الهدف:">
 <!ENTITY scope.accesskey                   "ه">
-<!ENTITY scopeOneLevel.label               "مستوى واحد:">
+<!ENTITY scopeOneLevel.label               "مستوى واحد">
 <!ENTITY scopeOneLevel.accesskey           "ى">
 <!ENTITY scopeSubtree.label                "شجرة فرعيّة">
 <!ENTITY scopeSubtree.accesskey            "ف">
@@ -36,7 +36,7 @@
 <!ENTITY saslMechanism.accesskey           "و">
 <!ENTITY saslOff.label                     "بسيطة">
 <!ENTITY saslOff.accesskey                 "س">
-<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.label                  "‪Kerberos (GSSAPI)‬">
 <!ENTITY saslGSSAPI.accesskey              "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely

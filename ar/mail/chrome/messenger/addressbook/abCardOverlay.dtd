@@ -53,11 +53,11 @@
 
 <!ENTITY WorkPhone.label                "العمل:">
 <!ENTITY WorkPhone.accesskey            "ع">
-<!ENTITY HomePhone.label                "المنزل">
+<!ENTITY HomePhone.label                "المنزل:">
 <!ENTITY HomePhone.accesskey            "م">
 <!ENTITY FaxNumber.label                "الفاكس:">
 <!ENTITY FaxNumber.accesskey            "ف">
-<!ENTITY PagerNumber.label              "جهاز الاستدعاء">
+<!ENTITY PagerNumber.label              "جهاز الاستدعاء:">
 <!ENTITY PagerNumber.accesskey          "ج">
 <!ENTITY CellularNumber.label           "المحمول:">
 <!ENTITY CellularNumber.accesskey       "م">

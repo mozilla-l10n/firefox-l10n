@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "عام">
-<!ENTITY itemDisplay.label       "القراءة والعرض">
+<!ENTITY itemDisplay.label       "القراءة و العرض">
 <!ENTITY itemUpdate.label        "التحديث">
-<!ENTITY itemNetworking.label    "الشبكة ومساحة القرص">
+<!ENTITY itemNetworking.label    "الشبكة و مساحة القرص">
 <!ENTITY itemCertificates.label  "الشهادات">
 <!-- General Settings -->
 

@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "ردًا على">
 <!ENTITY originalWebsite4.label "الموقع">
 
-<!ENTITY editMessageDescription.label "هذه رسالة مسوّدة">
-<!ENTITY editMessageButton.label "حرّر…">
 <!ENTITY hdrArchiveButton1.label "أرشِف">
 <!ENTITY hdrArchiveButton1.tooltip "أرشِف هذه الرسالة">
 <!ENTITY hdrSmartReplyButton1.label "ردّ ذكي">

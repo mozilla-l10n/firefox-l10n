@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "نتائجك">
 
-<!ENTITY appbarErrorConsole.label   "افتح مِعراض الأخطاء">
-<!ENTITY appbarJSShell.label        "افتح صدفة جافاسكربت">
-<!ENTITY appbarFindInPage2.label    "بحث في الصفحة">
-<!ENTITY appbarViewOnDesktop2.label "اعرض على سطح المكتب">
-<!ENTITY appbarMSMetaData2.label    "احصل على تطبيق لهذا الموقع">
+<!ENTITY appbarErrorConsole.label      "افتح مِعراض الأخطاء">
+<!ENTITY appbarJSShell.label           "افتح صدفة جافاسكربت">
+<!ENTITY appbarFindInPage2.label       "بحث في الصفحة">
+<!ENTITY appbarRelaunchInDesktop.label "شغّل في سطح المكتب">
+<!ENTITY appbarMSMetaData2.label       "احصل على تطبيق لهذا الموقع">
+<!ENTITY appbarViewPageSource.label    "اعرض مصدر الصفحة">
 
 <!ENTITY topSitesHeader.label        "المواقع الأكثر زيارة">
 <!ENTITY bookmarksHeader.label       "العلامات">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "هل تبحث عن ألسنتك؟ اسحب لأسفل أو انقر بالزر الأيمن">
+<!ENTITY firstRunTopSites.label "اذهب إلى المواقع التي تزورها أكثر من غيرها">
+<!ENTITY firstRunBookmarks.label "اعثر على الصفحات التي حفظتها لمطالعتها لاحقًا">
+<!ENTITY firstRunMenu.label "المزيد من الخصائص و الخيارات">
+<!ENTITY firstRunHistory.label "اطّلع على الأماكن التي زُرتها على الوب">
+<!ENTITY firstRunWelcome.label "مرحبًا مع &brandShortName;">
+<!ENTITY firstRunDifferent.label "مختلف من الأساس">

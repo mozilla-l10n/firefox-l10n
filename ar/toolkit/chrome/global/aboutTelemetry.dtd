@@ -30,5 +30,8 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (لم تُجمع أي بيانات)">
 
+<!ENTITY aboutTelemetry.fullSqlWarning "  ملاحظة: تنقيح SQL البطيء مُفعّل. قد تظهر نصوص SQL كاملة أدناه، لكن لن تُرسل إلى تليمتري.">
 
+<!ENTITY aboutTelemetry.fetchSymbols "  اجلب أسماء الدوال من مكدّس التعليق">
 
+<!ENTITY aboutTelemetry.hideSymbols "  أظهر البيانات الخام من التعليق">
