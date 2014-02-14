@@ -15,10 +15,10 @@
 <!ENTITY manageSubscriptions.label "Կառավարել բաժանորդագրությունները...."> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "Feed Account Wizard">
-
+<!ENTITY feedWindowTitle.label "Սնման հաշվի Օգնական">
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Բլոգի &amp; Նորությունները">
+
+<!ENTITY feeds.accountName "Նորությունների ալիքներ">
 <!ENTITY feeds.wizardShortName "Շղթաներ">
-<!ENTITY feeds.wizardLongName "Բլոգի &amp; Նորությունները">
+<!ENTITY feeds.wizardLongName "Նորությունների ալիքներ">
 <!ENTITY feeds.wizardLongName.accesskey "F">

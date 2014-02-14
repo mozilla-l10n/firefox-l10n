@@ -48,9 +48,9 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Մանրամասն">
 
-<!ENTITY crashReporterSection.label      "Վթարների Զեկուցող">
+<!ENTITY crashReporterSection.label      "Վթարի Զեկույց">
 <!ENTITY crashReporterDesc.label         "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
-<!ENTITY enableCrashReporter.label       "Միացնել Վթարների Զեկույցը">
+<!ENTITY enableCrashReporter.label       "Միացնել Վթարի Զեկույցը">
 <!ENTITY enableCrashReporter.accesskey   "Վ">
 <!ENTITY crashReporterLearnMore.label    "Մանրամասն">
 

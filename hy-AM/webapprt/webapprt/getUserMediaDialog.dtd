@@ -5,9 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Չեղարկել">
+<!ENTITY getUserMediaDialog.title                   "Մեդիայի տարածում">
 
 
+<!ENTITY getUserMediaDialog.button.cancel.label     "Չեղարկել">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "ղ">
 
-
-
+<!ENTITY getUserMediaDialog.video.label             "Ընտրեք խցիկը">
+<!ENTITY getUserMediaDialog.video.noVideo           "Չկա տեսանյութ">
+<!ENTITY getUserMediaDialog.audio.label             "Ընտրեք բարձրախոսը">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Չկա ձայն">

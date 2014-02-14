@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Հատկություններ">
 
 <!ENTITY generalInfo.label                       "Գլխավոր տեղեկությունը">
-<!ENTITY folderCharsetTab.label                  "Գրանշանների ծրագրային կոդավորումը.">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Կիրառել թղթապանակի բոլոր նամակների համար (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetFallback.label             "Վերականգնել Գրանշանների կոդավորումը.">
+<!ENTITY folderCharsetFallback.accesskey         "կ">
+<!ENTITY folderCharsetEnforce.label              "Կիրառել կոդավորումը թղթապանակի բոլոր նամակներին (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
+<!ENTITY folderCharsetEnforce.accesskey          "Կ">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել ֆայլի ինդեքսի արդյունքը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -27,7 +27,7 @@
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
-<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլոր վերջինները">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->

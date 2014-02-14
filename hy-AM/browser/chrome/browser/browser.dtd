@@ -46,11 +46,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "Է">
 <!ENTITY  undoCloseTab.label                 "Վերականգնել փակված էջը">
 <!ENTITY  undoCloseTab.accesskey             "Վ">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Վերականգնել փակված ներդիրը">
 <!ENTITY  closeTab.label                     "Փակել էջը">
 <!ENTITY  closeTab.accesskey                 "Փ">
 
@@ -226,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -242,20 +237,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "Խ">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
 <!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">
 <!ENTITY devToolbarMenu.accesskey          "գ">
-
-
+<!ENTITY devAppMgrMenu.label               "Ծր. կառավարիչ">
+<!ENTITY devAppMgrMenu.accesskey           "Ծ">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
 <!ENTITY devToolboxMenuItem.accesskey      "Ց">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ցուցադրել/Թաքցնել ծրագրավորողի գործիքները">
@@ -410,6 +404,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
+<!ENTITY switchToMetroCmd.label       "Վերաբացել Windows 8-ի ոճով &brandShortName;-ը">
+
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "Ո">
 <!-- alternate for content area context menu -->
@@ -607,6 +603,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Ինչպե՞ս հաղորդեմ, եթե իմ միացումը կայքին անվտանգ է:">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -634,8 +632,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.addons.label "Կառավարել ծառայությունները…">
 
-<!ENTITY social.toggleNotifications.label "Ցուցադրել աշխատասեղանի տեղեկացումները">
-<!ENTITY social.toggleNotifications.accesskey "տ">
+<!ENTITY social.toggleNotifications.label "Ցուցադրել աշխատասեղանի ծանուցումները">
+<!ENTITY social.toggleNotifications.accesskey "ծ">
 
 <!ENTITY social.activated.description "Ծառայությունները <label/>-ից միացվել են: Կարող եք փոփոխել կարգավորումները ծառայությունների համար <label class='text-link'>Հավելումների կառավարիչից</label>:">
 <!ENTITY social.activated.undo.label "Ախ, չեղյալ համարել սա                ">
@@ -648,9 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
 <!ENTITY social.chatBar.accesskey "ց">
 
-
-
-
+<!ENTITY social.markpageMenu.accesskey "է">
+<!ENTITY social.markpageMenu.label "Պահպանել էջը...">
+<!ENTITY social.marklinkMenu.accesskey "հ">
+<!ENTITY social.marklinkMenu.label "Պահպանել հղումը...">
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտքը ապարատին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
@@ -678,8 +677,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY pluginNotification.width "28em">
 
-
+<!ENTITY tabCrashed.header "Ներդիրը վթարվել է">
+<!ENTITY tabCrashed.message "Այո, սա անհարմար է: Մենք փորձում ենք ցուցադրել այս վեբ էջը, բայց այն չի պատասխանում:">
+<!ENTITY tabCrashed.checkSendReport "&vendorShortName;-ին հաղորդեք այս վթարի մասին, որ մենք կարողանաք ուղղել այն:">
 <!ENTITY tabCrashed.tryAgain "Կրկին փորձել">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on

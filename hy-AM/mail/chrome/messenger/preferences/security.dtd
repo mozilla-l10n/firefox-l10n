@@ -7,8 +7,8 @@
 <!ENTITY itemPasswords.label     "Գաղտնաբառեր">
 <!ENTITY itemAntiVirus.label     "Հակավիրուս">
 <!ENTITY itemCookies.label       "Վեբ բովանդակություն">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
 <!ENTITY manualMark.label "Երբ ես նշում եմ նամակը որպես թափոն՝">
 <!ENTITY manualMark.accesskey "W">
@@ -24,15 +24,15 @@
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Ետարկել ուսուցման տվյալը">
 <!ENTITY resetTrainingData.accesskey "R">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "&brandShortName;-ը կարող է ստուգել նամակները՝ որոշելու համար խաբկանք նամակները։">
 <!ENTITY enablePhishingDetector1.label    "Տեղեկացնել, երբ որևէ նամակը կասկածվում է որպես խաբկանք">
 <!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "Օգտագործել խաբկանք նամակների բեռնված ցանկը">
 <!ENTITY useDownloadedList.accesskey "U">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "&brandShortName;-ը կարող է հիշել Ձեր բոլոր փոստարկղերի գաղտնաբառերը։">
 <!ENTITY useMasterPassword.label        "Օգտագործել գաղտնաբառ վարպետին">
 <!ENTITY useMasterPassword.accesskey    "U">
@@ -41,13 +41,13 @@
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "Պահպանված գաղտնաբառեր…">
 <!ENTITY savedPasswords.accesskey       "S">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ բեռնելը։">
 <!ENTITY antiVirus.label      "Թույլատրել հակավիրուսին նամակները տեղափոխել կարանտին։">
 <!ENTITY antiVirus.accesskey  "A">
-
 <!-- Cookies -->
+
 <!ENTITY cookies.intro                  "&brandShortName;-ը հաղորդում է, թե որ բլոգները, նորության շղթաները կամ վեբ կայքերն են թույլատրում cookie-ներ։">
 <!ENTITY acceptCookies.label            "Ընդունել cookie-ներ կայքերից՝">
 <!ENTITY acceptCookies.accesskey        "c">
@@ -60,7 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Ցուցադրել Cookie-ները...">
 <!ENTITY showCookies.accesskey          "S">
-
 <!-- Do Not Track -->
+
 <!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
 <!ENTITY doNotTrack.accesskey           "d">

@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "Խմբագրել որպես HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "Խ">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Պատճենել ներքին HTML-ն">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "ն">

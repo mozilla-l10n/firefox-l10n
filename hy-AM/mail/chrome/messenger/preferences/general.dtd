@@ -16,8 +16,8 @@
 <!ENTITY newMessagesArrive.label          "Նոր նամակ ստանալիս.">
 <!ENTITY playSound.label                  "Խաղարկել ձայն">
 <!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժ-կ">
-<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժամանակ">
+<!ENTITY showAnimatedAlert.accesskey      "Ց">
 <!ENTITY customizeMailAlert.label         "Կարգավորել…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 

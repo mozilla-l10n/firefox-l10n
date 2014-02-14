@@ -2,5 +2,5 @@ amazondotcom
 eBay
 googlemetrofx
 wikipedia-hy
-yahoo
+yahoometrofx
 list-am

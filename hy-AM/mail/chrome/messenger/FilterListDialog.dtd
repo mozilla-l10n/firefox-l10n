@@ -11,7 +11,7 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ջնջել">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderTopButton "Move to Top">
+<!ENTITY reorderTopButton "Տեղափոխել առջև">
 <!ENTITY reorderTopButton.accessKey "o">
 <!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
 <!ENTITY reorderUpButton.label "Վեր">
@@ -38,6 +38,4 @@
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Search filters by name…">
-
-
 
