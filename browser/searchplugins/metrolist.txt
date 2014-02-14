@@ -3,5 +3,5 @@ amazon-france
 bingmetrofx
 wikipedia-oc
 eBay-france
-yahoo-france
+yahoo-francemetrofx
 wiktionary-oc
