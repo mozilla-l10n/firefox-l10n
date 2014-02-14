@@ -2,5 +2,5 @@ amazondotcom
 googlemetrofx
 bingmetrofx
 wikipedia-kn
-yahoo-in
+yahoo-inmetrofx
 kannadastore
