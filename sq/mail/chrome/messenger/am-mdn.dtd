@@ -11,7 +11,7 @@
 <!ENTITY useCustomPrefs.accesskey     "ë">
 <!ENTITY requestReceipt.label         "Kur dërgon mesazhe, kërko përherë një faturë kthimi">
 <!ENTITY requestReceipt.accesskey     "K">
-<!ENTITY receiptArrive.label          "Kur mbrrin një faturë:">
+<!ENTITY receiptArrive.label          "Kur mbërrin një faturë:">
 <!ENTITY leaveIt.label                "Lëre tek Të marrë">
 <!ENTITY leaveIt.accesskey            "L">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
@@ -26,7 +26,7 @@
 <!ENTITY notInToCc.accesskey          "n">
 <!ENTITY outsideDomain.label          "Nëse dërguesi është jashtë përkatësisë sime:">
 <!ENTITY outsideDomain.accesskey      "u">
-<!ENTITY otherCases.label             "Në tërë rastet e tjerë:">
+<!ENTITY otherCases.label             "Në krejt rastet e tjerë:">
 <!ENTITY otherCases.accesskey         "t">
 <!ENTITY askMe.label                  "Pyetmë">
 <!ENTITY alwaysSend.label             "Dërgo përherë">

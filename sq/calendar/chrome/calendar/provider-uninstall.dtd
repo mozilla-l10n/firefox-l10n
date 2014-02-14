@@ -9,4 +9,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "M">
 <!ENTITY providerUninstall.preName.label                   "Keni kërkuar që të çinstalohet ose çaktivizohet:">
 <!ENTITY providerUninstall.postName.label                  "Kjo do të shkaktojë çaktivizimin e kalendarëve më poshtë.">
-<!ENTITY providerUninstall.reinstallNote.label             "Hiq rastin kur keni në plan të rinstaloni këtë mundësues, mund të zgjidhni çpajtimin prej kalendarëve të këtij mundësuesi.">
+<!ENTITY providerUninstall.reinstallNote.label             "Hiq rastin kur keni në plan të instaloni sërish këtë mundësues, mund të zgjidhni çpajtimin prej kalendarëve të këtij mundësuesi.">

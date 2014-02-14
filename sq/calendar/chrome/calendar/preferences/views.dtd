@@ -18,7 +18,7 @@
 
 <!ENTITY pref.calendar.view.daystart.label "Dita fillon më:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
-<!ENTITY pref.calendar.view.dayend.label "Dita mabron më:">
+<!ENTITY pref.calendar.view.dayend.label "Dita mbaron më:">
 <!ENTITY pref.calendar.view.dayend.accesskey "a">
 <!ENTITY pref.calendar.view.visiblehours.label "Shfaq:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "s">

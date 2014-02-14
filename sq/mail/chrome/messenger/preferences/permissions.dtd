@@ -5,13 +5,13 @@
 <!ENTITY window.title                 "Përjashtime">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "&quot;Site&quot;">
+<!ENTITY treehead.sitename.label      "Sajt">
 <!ENTITY treehead.status.label        "Gjendje">
-<!ENTITY removepermission.label       "Hiqe &quot;Site&quot;-in">
+<!ENTITY removepermission.label       "Hiqe Sajtin">
 <!ENTITY removepermission.accesskey   "H">
-<!ENTITY removeallpermissions.label   "Hiqi Tërë &quot;Site&quot;-et">
+<!ENTITY removeallpermissions.label   "Hiqi Tërë Sajtet">
 <!ENTITY removeallpermissions.accesskey "T">
-<!ENTITY address.label                "Adresë e &quot;site&quot;-it web:">
+<!ENTITY address.label                "Adresë sajti web:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Bllokoje">
 <!ENTITY block.accesskey              "B">

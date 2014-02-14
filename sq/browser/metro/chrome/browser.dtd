@@ -1,0 +1,132 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Jepni Kërkim ose Vendndodhje">
+
+<!ENTITY back.label            "Mbrapsht">
+<!ENTITY forward.label         "Para">
+<!ENTITY newtab.label          "Skedë e Re">
+<!ENTITY closetab.label        "Mbylle Skedën">
+
+<!ENTITY autocompleteResultsHeader.label  "Përfundimet Tuaja">
+
+<!ENTITY appbarErrorConsole.label      "Hap konsol gabimesh">
+<!ENTITY appbarJSShell.label           "Hap shell JavaScript">
+<!ENTITY appbarFindInPage2.label       "Gjej në faqe">
+<!ENTITY appbarRelaunchInDesktop.label "Rinise në Desktop">
+<!ENTITY appbarMSMetaData2.label       "Merrni zbatim për këtë sajt">
+<!ENTITY appbarViewPageSource.label    "Shihni burim faqeje">
+
+<!ENTITY topSitesHeader.label        "Sajte Kryesues">
+<!ENTITY bookmarksHeader.label       "Faqerojtës">
+<!ENTITY recentHistoryHeader.label   "Historik Së Fundi">
+<!ENTITY remoteTabsHeader.label      "Skeda prej Pajisjesh të Tjera">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Sajte Kryesues">
+<!ENTITY narrowBookmarksHeader.label     "Faqerojtës">
+<!ENTITY narrowRecentHistoryHeader.label "Historik Së Fundi">
+<!ENTITY narrowRemoteTabsHeader.label    "Skeda të Largëta">
+
+<!ENTITY downloadsHeader.label     "Shkarkime">
+<!ENTITY downloadShowPage.label    "Shko te Faqja">
+<!ENTITY downloadShow2.label       "Gjej">
+<!ENTITY downloadOpen2.label       "Hap">
+<!ENTITY downloadCancel.label      "Anuloje">
+<!ENTITY downloadPause.label       "Ndale">
+<!ENTITY downloadResume.label      "Rimerre">
+<!ENTITY downloadRetry.label       "Riprovo">
+<!ENTITY downloadRemove.label      "Hiqe">
+<!ENTITY downloadDelete.label      "Fshije">
+<!ENTITY downloadFailed.label      "Dështoi">
+
+<!ENTITY allBookmarks.label        "Shihni krejt faqerojtësit">
+
+<!ENTITY consoleHeader.label       "Konsol Gabimesh">
+<!ENTITY consoleAll.label          "Krejt">
+<!ENTITY consoleErrors.label       "Gabime">
+<!ENTITY consoleWarnings.label     "Sinjalizime">
+<!ENTITY consoleMessages.label     "Mesazhe">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Pastroje">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kartela Burim:">
+<!ENTITY consoleErrLine.label      "Rresht:">
+<!ENTITY consoleErrColumn.label    "Shtyllë:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Prije">
+<!ENTITY contextTextCopy.label             "Kopjoje">
+<!ENTITY contextTextPaste.label            "Ngjite">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Ngjite &amp; shko te">
+<!ENTITY contextTextSelect.label           "Përzgjidhe">
+<!ENTITY contextTextSelectAll.label        "Përzgjidhe krejt">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Hape lidhjen në skedë të re">
+<!ENTITY contextCopyLinkHref.label         "Kopjoje Lidhje">
+<!ENTITY contextBookmarkLinkHref.label     "Faqeruaje Lidhjen">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Ruaje në fototekë">
+<!ENTITY contextCopyImage.label            "Kopjo figurën">
+<!ENTITY contextCopyImageLocation.label    "Kopjo vend figure">
+<!ENTITY contextOpenImageTab.label         "Hape figurën në skedë të re">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Ruaje në videotekë">
+<!ENTITY contextCopyVideoLocation.label    "Kopjo vend videoje">
+<!ENTITY contextOpenVideoTab.label         "Hape videon në skedë të re">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Po kërkoni skedat tuaja? Thjesht tërhiqeni poshtë ose djathtasklikojeni">
+<!ENTITY firstRunTopSites.label "Shkoni te sajtet që vizitoni më shumë">
+<!ENTITY firstRunBookmarks.label "Gjeni faqet që ruajtët për më vonë">
+<!ENTITY firstRunMenu.label "Përdorni më tepër veçori dhe mundësi">
+<!ENTITY firstRunHistory.label "Shihni nga keni qenë në Web">
+<!ENTITY firstRunWelcome.label "Mirë se vini te &brandShortName;-i">
+<!ENTITY firstRunDifferent.label "I ndryshëm që në konceptim">

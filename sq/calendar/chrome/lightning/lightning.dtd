@@ -11,7 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Kalendar">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Ngjarje…">
+<!ENTITY lightning.menupopup.new.event.label    "Veprimtari…">
 <!ENTITY lightning.menupopup.new.event.accesskey "N">
 <!ENTITY lightning.menupopup.new.task.label     "Punë…">
 <!ENTITY lightning.menupopup.new.task.accesskey "P">
@@ -31,7 +31,7 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Ky mesazh përmban ftesë për një ngjarje.">
+<!ENTITY lightning.imipbar.description "Ky mesazh përmban ftesë për një veprimtari.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
@@ -55,7 +55,7 @@
 
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Ngjarje dhe Punë">
+<!ENTITY lightning.menu.eventtask.label                "Veprimtari dhe Punë">
 <!ENTITY lightning.menu.eventtask.accesskey            "N">
 
 <!-- View Menu -->
