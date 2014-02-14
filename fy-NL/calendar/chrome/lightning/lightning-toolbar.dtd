@@ -25,7 +25,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "Barren">
 <!ENTITY lightning.toolbar.newtask.label      "Taak">
 
-<!-- Calendar and Task Mode Toolbar -->
+<!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dei">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Wike">
@@ -38,7 +38,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "It &brandShortName;-menu toane">
-<!ENTITY lightning.toolbar.calendarmenu.label        "Agindapaniel">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Agindafinster">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "A">
-<!ENTITY lightning.toolbar.calendarpane.label        "Toan Agindapaniel">
-<!ENTITY lightning.toolbar.calendarpane.accesskey    "T">
+<!ENTITY lightning.toolbar.calendarpane.label        "Agindafinster toane">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "A">
