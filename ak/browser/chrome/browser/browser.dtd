@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brawsen A Ɛyɛ Praevet)">
+
+<!ENTITY appmenu.tooltip                     "Bue mɛnu">
+<!ENTITY navbarOverflow.label                "Ntuul bio a wɔka ho…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "San Lood Tab Yi">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Nnyɛ Tab Nto Mu">
 <!ENTITY  undoCloseTab.accesskey             "N">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Nnyɛ tab nto-mu">
 <!ENTITY  closeTab.label                     "To Tab No Mu">
 <!ENTITY  closeTab.accesskey                 "o">
 
@@ -59,8 +57,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Tab foforo">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Bue Lokehyɛn…">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Bue Fael…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "o">
@@ -100,9 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Kyerɛ Ntab Nyinara">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+<!ENTITY fxaSignIn.label "Kɔ &syncBrand.shortName.label; mu">
+<!ENTITY fxaSignInError.label "San-kɔ &syncBrand.shortName.label; mu">
+<!ENTITY syncStartPanel.heading "&brandShortName; resynk seisei">
+<!ENTITY syncStartPanel.subTitle "Wo bɛtumi ahwɛ &syncBrand.shortName.label; so wɔ Nɔphyɛn mɛnu mu.">
+<!ENTITY syncStartPanel.subTitleUnix "Wo bɛtumi ahwɛ &syncBrand.shortName.label; so wɔ Nhyehyɛe mɛnu mu.">
+<!ENTITY syncErrorPanel.heading "Nntumi nnkɔnɛkt nnkɔ &syncBrand.shortName.label; mu">
+<!ENTITY syncErrorPanel.subTitle "Yɛsrɛ wo sɛ san-bra mu na toa synk so.">
+<!ENTITY syncErrorPanel.signInButton.label "Bra mu">
+<!ENTITY syncErrorPanel.signInButton.accesskey "B">
+
+
 <!ENTITY fullScreenMinimize.tooltip "Yɛ-ketewa">
 <!ENTITY fullScreenRestore.tooltip "Siesie">
-<!ENTITY fullScreenClose.tooltip "To mu">
+<!ENTITY fullScreenClose.tooltip "To-mu">
 <!ENTITY fullScreenAutohide.label "Suma Ntuulbaa">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Pue Firi Skreen Tɛtrɛtɛɛ Mood Mu">
@@ -120,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Mbukmaak">
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Bukmaake Krataafa Yi">
+<!ENTITY editThisBookmarkCmd.label "Sesa Bukmaak Yi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Kyɛ Kratafa Yi">
@@ -133,6 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "K">
 <!ENTITY shareVideoCmd.label "Kyɛ Sini Yi">
 <!ENTITY shareVideoCmd.accesskey "K">
+<!ENTITY feedsMenu.label "Kyerɛw-din">
 <!ENTITY subscribeToPageMenupopup.label "Kyerɛw Wo Din Ka Krataafa Yi Ho">
 <!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
 <!ENTITY addCurPagesCmd.label "Bukmaake Ntab Nyinara…">
@@ -159,24 +168,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Prente">
 <!ENTITY printButton.tooltip          "Prente krataafa yi">
 
-<!ENTITY backForwardItem.title        "Ekyiri/Enim">
 <!ENTITY locationItem.title           "Lokehyɛn">
 <!ENTITY searchItem.title             "Hwehwɛ">
-<!ENTITY bookmarksItem.title          "Mbukmaak">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Fie">
 
 <!ENTITY tabGroupsButton.label        "Tab nkuw">
-<!ENTITY tabGroupsButton.tooltip      "Boa wo Ntab Ano">
 
 <!ENTITY bookmarksButton.label          "Mbukmaak">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Mbukmaak">
-<!ENTITY bookmarksMenuButton.tooltip        "Kyerɛ wo mbukmaak">
 <!ENTITY bookmarksMenuButton.unsorted.label "Mbukmaak a Wɔnnhyehyɛe">
-<!ENTITY viewBookmarksSidebar.label         "Kyerɛ wɔ saedbaa mu">
+<!ENTITY viewBookmarksSidebar2.label        "Hwɛ saedbaa a wɔde sie mbukmaak">
 <!ENTITY viewBookmarksToolbar.label         "Hwɛ TuulBaa A Wɔde Sie Mbukmaak">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -242,10 +247,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Brawsa ne sɔftwɛɛ-mboaba-sɛefo-fidie">
+<!ENTITY browserToolboxMenu.label     "Brawsa ntuul-adaka">
+<!ENTITY browserToolboxMenu.accesskey "t">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "To sɔftwɛɛ bɔfo tuulbaa mu">
 <!ENTITY devToolbarMenu.label              "Sɔftwɛɛ bɔfo tuulbaa">
@@ -256,7 +262,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tɔgel Adwumayɛde">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Tɔgel ndeyɛe ndwumayɛde">
@@ -321,12 +326,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Ntab a Wo Ato Mu Ndansa Yi Ara">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ntokura a wo ato mu ndansa yi ara">
-<!ENTITY historyRestoreLastSession.label "Sankɔ sehyen dada no">
+<!ENTITY historyRestoreLastSession.label "Fa sɛhyɛn dadaw no san bra">
 
-<!ENTITY showAllHistoryCmd2.label "Kyerɛ Abakɔsɛm Nyinara">
+<!ENTITY showAllHistoryCmd2.label "Kyerɛ abakɔsɛm nyinara">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Kɔstɔmaez">
+<!ENTITY appMenuCustomize.tooltip "Hyehyɛ mɛnu ne ntuulbaa te sɛ nea wo pɛ">
+<!ENTITY appMenuCustomizeExit.label "Pue firi kɔstɔmaez tebea mu">
+<!ENTITY appMenuCustomizeExit.tooltip "Wie sɛ wo rehyehyɛ nea wo pɛ">
+<!ENTITY appMenuHistory.label "Abakɔsɛm">
+<!ENTITY appMenuHistory.showAll.label "Kyerɛ abakɔsɛm nyinara">
+<!ENTITY appMenuHistory.clearRecent.label "Pepa ndansa-yi-ara n'abakɔsɛm…">
+<!ENTITY appMenuHistory.restoreSession.label "Fa sɛhyɛn dadaw no san bra.">
+<!ENTITY appMenuHistory.viewSidebar.label "Hwɛ abakɔsɛm saedbaa">
+<!ENTITY appMenuHelp.tooltip "Bue mboa mɛnu">
+
+<!ENTITY customizeMenu.addToToolbar.label "Fa ka tuulbaa no ho">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Fa ka mɛnu no ho">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToToolbar.label "Ma so kɔ tuulbaa no so">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "s">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Ma so kɔ mɛnu no so">
+<!ENTITY customizeMenu.moveToPanel.accesskey "s">
+<!ENTITY customizeMenu.removeFromToolbar.label "Yi firi tuulbaa">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "Y">
+<!ENTITY customizeMenu.removeFromMenu.label "Yi firi mɛnu no mu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "Y">
+<!ENTITY customizeMenu.addMoreItems.label "Fa ndeɛma bio ka ho…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Hwehwɛ anaaso kyerɛw adrɛs">
@@ -411,6 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Emel link…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "San-bue wɔ Windows 8 stael mu &brandShortName;">
 <!ENTITY savePageCmd.label            "Sie Krataafa Sɛ…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -536,6 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Pue"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "u">
+<!ENTITY quitApplicationCmdWin.tooltip     "Pue firi &brandShortName; mu">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Gyae"> 
@@ -605,6 +641,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Infɔmehyɛn a Wɔkeka Ho…">
 
 <!ENTITY identity.permissions "Akwanya">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Me bɛyɛ dɛn akyerɛ sɛ me kɔnɛkhyɛn kɔ wɛbsaet bi ho banbɔ di mu?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -622,7 +663,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Synk">
 
 <!ENTITY socialToolbar.title        "Tuulbaa fɛkuw baten">
-<!ENTITY social.notLoggedIn.label   "Nnwuraa mu">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -642,14 +682,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "S">
 <!ENTITY social.closeNotificationItem.label "Nnyɛ Seiseiara">
 
+
+
+<!ENTITY customizeMode.tabTitle "Hyehyɛ &brandShortName; te sɛ nea wo pɛ">
+<!ENTITY customizeMode.menuAndToolbars.label "Mɛnu ne ntuulbaa">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Ntuul ne mfikya a wɔ keka ho">
+<!ENTITY customizeMode.menuAndToolbars.empty "Wo pɛ ntuul bio?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Paw firi nkaho mpem mpem mu">
+<!ENTITY customizeMode.restoreDefaults "Siesie kɔ kane">
+<!ENTITY customizeMode.toolbars "Kyerɛ anaaso suma ntuulbaa">
+<!ENTITY customizeMode.titlebar "Tisɛm baa">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fa nkɔmbɔ bra enim">
 <!ENTITY social.chatBar.accesskey "b">
 
 <!ENTITY social.markpageMenu.accesskey "k">
 <!ENTITY social.markpageMenu.label "Sie krataafa kɔ…">
-
-
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Sie link kɔ…">
 
 <!ENTITY getUserMedia.selectCamera.label "Mfonin-fidie a wo pɛ sɛ wo kyɛ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
@@ -679,9 +730,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-
-
+<!ENTITY tabCrashed.header "Tab no awu">
+<!ENTITY tabCrashed.message "Asɛm o, enimguasesɛm bɛn so ni. Yɛ bɔɔ mbɔden sɛ yɛbɛkyerɛ wɛb krataafa yi, naaso ɔnngye hɛn so.">
+<!ENTITY tabCrashed.checkSendReport "Ka asɛm yi kyerɛ &vendorShortName; ama wɔn etumi ayɛ ho biribi de asiesie no.">
 <!ENTITY tabCrashed.tryAgain "San Sɔ Hwɛ">
+
+<!ENTITY uiTour.infoPanel.close "To-mu">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -717,4 +771,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Zuum ayɛde">
 <!ENTITY addonBarCloseButton.tooltip   "Ka nkaho baa no to mu">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Ekyiri/Enim">
+<!ENTITY viewBookmarksSidebar.label    "Kyerɛ wɔ saedbaa mu">
+<!ENTITY bookmarksItem.title           "Mbukmaak">
+<!ENTITY openLocationCmd.label         "Bue Lokehyɛn…">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "Kyerɛ wo mbukmaak">
+<!ENTITY switchToMetroCmd2.label       "San-bue wɔ Windows 8 Touch ne &brandShortName; mu ">
+<!ENTITY tabGroupsButton.tooltip       "Boa wo Ntab Ano">
 <!-- end of strings to be removed post-Australis -->

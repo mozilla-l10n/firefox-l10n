@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Esi">
 <!ENTITY stats.activitySeeking "(rehwehwɛ)">
 <!ENTITY stats.volume "Vɔlum">
-<!ENTITY stats.channels "Kyanɛl">
-<!ENTITY stats.sampleRate "Mprɛ Dodoɔ Ɛfatoho">
 <!ENTITY stats.framesParsed "Frem dodoɔ a wɔapaase">
 <!ENTITY stats.framesDecoded "Frem dodoɔ a wɔakyerɛaseɛ">
 <!ENTITY stats.framesPresented "Frem dodoɔ a wɔeyi akyerɛ">

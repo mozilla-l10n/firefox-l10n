@@ -9,6 +9,13 @@
 pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi 
 a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Bɔ ahyɛnsode ho amane">
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Ntrɛtrɛmu">
 <!ENTITY aboutSupport.extensionName "Din">
 <!ENTITY aboutSupport.extensionEnabled "Ekenyan">
@@ -31,7 +38,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mplagin a wɔasɔ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "esi nhyehyɛe">
 <!ENTITY aboutSupport.appBasicsUserAgent "Odi dwuma Gyinamusini">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Egyae-yɛ amaneɛbɔ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mɛmri Adwumadi">
 
 <!ENTITY aboutSupport.showDir.label "Daerɛktri a Ebue">

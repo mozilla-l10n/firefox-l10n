@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "Sie">
+
 
 <!ENTITY connection.connecting "Rekɔnɛkt…">
 
@@ -70,6 +70,16 @@
 
 
 
+
+
+
+
+
+<!ENTITY projects.valid "Ɛda edi">
+<!ENTITY projects.error "Mfomso">
+
+
+<!ENTITY help.close "To-mu">
 
 
 

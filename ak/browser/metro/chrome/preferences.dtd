@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Nɔphyɛn">
-<!ENTITY optionsHeader.startup.title                             "Nhyɛase">
-
-
-
 <!ENTITY optionsHeader.char.title                                "Akyerɛwde ndanee">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "Egyae-yɛ amaneɛbɔ-ni">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Fa kratafa a na mewɔ so no adrɛs nso ka ho">
 <!ENTITY optionsHeader.telemetry.title                            "Tɛlimɛtri">
 

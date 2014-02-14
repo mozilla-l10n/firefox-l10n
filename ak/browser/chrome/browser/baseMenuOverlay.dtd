@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Sabmet wo fiidbak…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour.label             "&brandShortName; hwɛ-na-sua">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "Nhyehyɛe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

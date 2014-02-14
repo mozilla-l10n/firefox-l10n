@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Bue Tokuro Praevet">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "T">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Sɛ wo pɛ sɛ wo hyɛ Brawsen Praevet ase a, wo betumi afa &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "Wo pɛ sɛ wo hyɛ Ankorankorɛ Brawsen ase a, wo be tumi ato tokyro yi mu.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Ɛwɔ mu sɛ wo kɔmputa rennsie wo brawsen abakɔsɛm, naaso wɔn a wɔma wo Intanɛt betumi ehu nkrataafa a wo kɔ.">
 <!ENTITY privatebrowsingpage.learnMore                 "Sua Bio">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "Sɛ wo pɛ sɛ wo hyɛ Brawsen Praevet ase a, wo betumi afa &basePBMenu.label; &gt; &newPrivateWindow.label;.">

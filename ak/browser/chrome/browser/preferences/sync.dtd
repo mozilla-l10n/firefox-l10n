@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Ɛfene a yɛde som wo">
 <!ENTITY prefs.ppLink.label         "Siesɛm mbra">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Bra mu">
+
+
