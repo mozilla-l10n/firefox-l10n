@@ -3,4 +3,4 @@ creativecommons
 eBay-es
 googlemetrofx
 wikipedia-gl
-yahoo-es
+yahoo-esmetrofx
