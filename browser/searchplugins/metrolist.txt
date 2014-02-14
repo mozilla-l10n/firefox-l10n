@@ -1,6 +1,6 @@
 googlemetrofx
 bingmetrofx
-yahoo-es
+yahoo-esmetrofx
 eBay-es
 wikipedia-ast
 diccionariu-alla
