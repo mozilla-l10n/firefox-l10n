@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label  "Käyntikortti (Vcard)">
 <!ENTITY attachVCardCmd.accesskey  "K">
+<!ENTITY remindLater.label "Muistuta minua myöhemmin">
+<!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label  "Sulje">
 <!ENTITY closeCmd.key  "W">
 <!ENTITY closeCmd.accesskey  "S">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey  "h">
 <!ENTITY printSetupCmd.label  "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey  "e">
+<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
+<!ENTITY printPreviewCmd.accesskey "T">
 <!ENTITY printCmd.label  "Tulosta…">
 <!ENTITY printCmd.key  "P">
 <!ENTITY printCmd.accesskey  "o">
