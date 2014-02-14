@@ -12,7 +12,7 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "I gjatë" >
 <!ENTITY pref.dateformat.short "I shkurtër"  >
-<!ENTITY pref.defaultlength.label "Zgjatje Parazgjedhje e Ngjarjes:" >
+<!ENTITY pref.defaultlength.label "Zgjatje Parazgjedhje e Veprimtarisë:" >
 <!ENTITY pref.defaultlength.accesskey "N">
 <!ENTITY pref.defaultsnoozelength.label "Zgjatje Parazgjedhje e Dremitjes:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">

@@ -10,12 +10,12 @@
 <!ENTITY publishButton.label      "Botoje">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label           "Emër &quot;Site&quot;-i:">
+<!ENTITY siteList.label           "Emër Sajti:">
 <!ENTITY siteList.accesskey       "E">
-<!ENTITY siteList.tooltip         "Zgjidhni &quot;site&quot;-in te i cili doni të botohet">
-<!ENTITY newSiteButton.label      "&quot;Site&quot; i Ri">
+<!ENTITY siteList.tooltip         "Zgjidhni sajtin te i cili doni të botohet">
+<!ENTITY newSiteButton.label      "Sajt i Ri">
 <!ENTITY newSiteButton.accesskey      "S">
-<!ENTITY docDirList.label         "Nëndrejtori &quot;site&quot;-i për këtë faqe:">
+<!ENTITY docDirList.label         "Nëndrejtori sajti për këtë faqe:">
 <!ENTITY docDirList.accesskey         "N">
 <!ENTITY docDirList.tooltip           "Zgjidhni ose jepni emrin e nëndrejtorisë së largët për këtë faqe">
 <!ENTITY publishImgCheckbox.label "Përfshi figura dhe kartela të tjera">
@@ -24,13 +24,13 @@
 <!ENTITY sameLocationRadio.label  "Përdor të njëjtën vendndodhje si faqja">
 <!ENTITY sameLocationRadio.accesskey  "f">
 <!ENTITY sameLocationRadio.tooltip "Kartelat botojini te e njëjta vendndodhje si faqja">
-<!ENTITY useSubdirRadio.label     "Përdor këtë nëndrejtori &quot;site&quot;-i:">
+<!ENTITY useSubdirRadio.label     "Përdor këtë nëndrejtori sajti:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Botojini kartelat te drejtoria e largët e përzgjedhur">
 <!ENTITY otherDirList.tooltip         "Zgjidhni ose jepni emrin e nëndrejtorisë së largët ku të botohen kartelat">
 <!ENTITY pageTitle.label          "Titull Faqeje:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip        "Jepni një titull për identifikimin e faqes në dritare dhe në faqerojtësa">
+<!ENTITY pageTitle.tooltip        "Jepni një titull për identifikimin e faqes në dritare dhe në faqerojtës">
 <!ENTITY pageTitleExample.label   "p.sh.: &quot;Faqja Ime Web&quot;">
 <!ENTITY filename.label           "Emër kartele:">
 <!ENTITY filename.accesskey           "k">
@@ -38,16 +38,16 @@
 <!ENTITY filenameExample.label    "p.sh,: &quot;faqjaime.html&quot;">
 <!ENTITY setDefaultButton.label   "Vëre si Parazgjedhje">
 <!ENTITY setDefaultButton.accesskey   "V">
-<!ENTITY removeButton.label       "Hiq &quot;Site&quot;">
+<!ENTITY removeButton.label       "Hiqe Sajtin">
 <!ENTITY removeButton.accesskey       "H">
 
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label   "&quot;Site&quot;-e Botimi">
+<!ENTITY publishSites.label   "Sajte Botimi">
 <!ENTITY serverInfo.label     "Të dhëna Shërbyesi">
 <!ENTITY loginInfo.label      "Të dhëna Hyrjeje">
-<!ENTITY siteName.label       "Emër &quot;Site&quot;-i:">
+<!ENTITY siteName.label       "Emër Sajti:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip     "Nofkë që identifikon këtë &quot;site&quot; botimi (p.sh.: 'Imi')">
+<!ENTITY siteName.tooltip     "Nofkë që identifikon këtë sajt botimi (p.sh.: 'Imi')">
 <!ENTITY siteUrl.label        "Adresë botimi (p.sh.: 'ftp://ftp.ispjaim.com/emriimipërdoruesit'):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip      "Adresa FTP:// ose HTTP:// dhënë juve prej ISP-së tuaj apo shërbimi i strehimeve web">

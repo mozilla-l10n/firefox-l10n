@@ -10,9 +10,9 @@
 <!ENTITY letter.accessKey "S">
 <!ENTITY character.label "Shkronjë me shenjë:">
 <!ENTITY character.accessKey "s">
-<!ENTITY accentUpper.label "Të mëdhaja me Theks">
+<!ENTITY accentUpper.label "Të mëdha me Theks">
 <!ENTITY accentLower.label "Të vogla me Theks">
-<!ENTITY otherUpper.label "Të tjera të Mëdhaja">
+<!ENTITY otherUpper.label "Të tjera të Mëdha">
 <!ENTITY otherLower.label "Të tjera të Vogla">
 <!ENTITY commonSymbols.label "Simbole të Rëndomtë">
 <!ENTITY insertButton.label "Fute">

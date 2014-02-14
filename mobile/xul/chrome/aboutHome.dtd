@@ -4,7 +4,7 @@
 
 <!ENTITY aboutHome.header                       "<span id='header-suffix'>Nisje </span><span>&brandShortName;-u</span>">
 <!ENTITY aboutHome.recentTabs                   "Skedat tuaja nga hera e fundit">
-<!ENTITY aboutHome.remoteTabs                   "Skeda prej kompjuterave tuaj të tjerë">
+<!ENTITY aboutHome.remoteTabs                   "Skeda prej kompjuterëve tuaj të tjerë">
 <!ENTITY aboutHome.recommendedAddons2           "Shtesa për &brandShortName;-un">
 <!ENTITY aboutHome.giveFeedback                 "Jepni Përshtypjet">
 <!ENTITY aboutHome.getHelp                      "Merrni Ndihmë">
@@ -32,4 +32,4 @@
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.syncPairDevice       "Përshoqëroni një Pajisje">
+<!ENTITY aboutHome.syncPairDevice       "Çiftoni një Pajisje">

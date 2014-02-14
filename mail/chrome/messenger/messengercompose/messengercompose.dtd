@@ -16,7 +16,7 @@
 <!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Kontakt Libri Adresash…">
 <!ENTITY newContact.accesskey "K">
-<!ENTITY attachMenu.label "Bashkangjisni">
+<!ENTITY attachMenu.label "Bashkangjitni">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
@@ -76,7 +76,7 @@
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Fshije">
 <!ENTITY deleteCmd.accesskey "f">
-<!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkangjitjen…">
+<!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkëngjitjen…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
@@ -125,12 +125,12 @@
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Kontrollo Drejtshkrimin Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Përmende Mesazhin">
-<!ENTITY quoteCmd.accesskey "P">
+<!ENTITY quoteCmd.label "Citoje Mesazhin">
+<!ENTITY quoteCmd.accesskey "C">
 
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Bashkangjit Kartë Vetjake (vCard)">
+<!ENTITY attachVCard.label "Bashkëngjitni Kartë Vetjake (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Kthim Faturash">
@@ -173,7 +173,7 @@
 <!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Rregullime Logarish…">
+<!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
 <!ENTITY accountManagerCmd.accesskey "R">
 <!ENTITY accountManagerCmdUnix.accesskey "R">
 <!ENTITY preferencesCmd.label "Mundësi…">
@@ -190,9 +190,9 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Dërgoje">
-<!ENTITY quoteButton.label "Përmende">
+<!ENTITY quoteButton.label "Citoje">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkangjisni">
+<!ENTITY attachButton.label "Bashkangjitni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 
@@ -201,7 +201,7 @@
 <!ENTITY sendlaterButton.tooltip "Dërgojeni këtë mesazh më vonë"> 
 <!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm"> 
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
-<!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
+<!ENTITY attachButton.tooltip "Përfshini një bashkëngjitje"> 
 <!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
 <!ENTITY saveButton.tooltip "Ruajeni këtë mesazh"> 
 <!ENTITY cutButton.tooltip              "Prijeni">
@@ -226,14 +226,14 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Futni një emotikon">
-<!ENTITY smiley1Cmd.label "Buzëqeshje">
+<!ENTITY smiley1Cmd.label "I buzëqeshur">
 <!ENTITY smiley2Cmd.label "I ngrysur">
 <!ENTITY smiley3Cmd.label "Syshkelur">
 <!ENTITY smiley4Cmd.label "Gjuhëpërjashta">
-<!ENTITY smiley5Cmd.label "Zgjërdhimje">
+<!ENTITY smiley5Cmd.label "I zgërdhirë">
 <!ENTITY smiley6Cmd.label "I turpëruar">
 <!ENTITY smiley7Cmd.label "I pavendosur">
-<!ENTITY smiley8Cmd.label "Befasi">
+<!ENTITY smiley8Cmd.label "I befasuar">
 <!ENTITY smiley9Cmd.label "Puthje">
 <!ENTITY smiley10Cmd.label "Gërthitje">
 <!ENTITY smiley11Cmd.label "Cool">
@@ -257,7 +257,7 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Ngjite">
 <!ENTITY paste.accesskey "N">
-<!ENTITY pasteQuote.label "Ngjite Si Përmendje">
+<!ENTITY pasteQuote.label "Ngjite Si Citim">
 <!ENTITY pasteQuote.accesskey "m">
 
 <!ENTITY openAttachment.label "Hape">
@@ -268,7 +268,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
-<!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
+<!ENTITY attachFile.label "Bashkëngjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
@@ -278,9 +278,9 @@
 <!ENTITY convertCloud.accesskey "S">
 <!ENTITY cancelUpload.label "Anuloje Ngarkimin">
 <!ENTITY cancelUpload.accesskey "A">
-<!ENTITY convertRegularAttachment.label "Bashkangjitje e Rregullt">
+<!ENTITY convertRegularAttachment.label "Bashkëngjitje e Rregullt">
 <!ENTITY convertRegularAttachment.accesskey "B">
-<!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
+<!ENTITY attachPage.label "Bashkëngjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "q">
 
 <!-- Title for the address picker panel -->
@@ -288,7 +288,7 @@
 
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY removeAttachment.accesskey "H">
-<!ENTITY removeAttachment.label "Hiqe Bashkangjitjen">
+<!ENTITY removeAttachment.label "Hiqe Bashkëngjitjen">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">

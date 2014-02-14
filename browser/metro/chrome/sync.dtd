@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Përdorni nëpër pajisjet tuaja faqerojtësit, fjalëkalimet dhe skedat tuaja të hapura">
+
+<!ENTITY sync.flyout.presetup.setup.label      "Rregulloni &syncBrand.shortName.label;-un">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Rregulloni &syncBrand.shortName.label;-un">
+<!ENTITY sync.flyout.setup.description1        "Nëse keni një llogari &syncBrand.shortName.label;-u, përzgjidhni te pajisja juaj tjetër &quot;Çiftoni një Pajisje&quot; dhe jepni këtë kod.">
+<!ENTITY sync.flyout.setup.description2        "Nëse s&apos;keni llogari &syncBrand.shortName.label;-u, mund të krijoni një te shfletuesi juaj &brandShortName; për desktop.">
+<!ENTITY sync.flyout.setup.manual.label_2      "S&apos;jam afër kompjuterit tim…">
+<!ENTITY sync.flyout.setup.description3        "Shënim:">
+<!ENTITY sync.flyout.setup.description4_2      "Që të gjeni &quot;Çiftoni një Pajisje&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[në Desktop] Hapni &quot;Mundësi&quot; ose &quot;Parapëlqime&quot; dhe mandej përzgjidhni &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[në Android] Më tepër &gt; Rregullime &gt; &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1_2  "Ju lutemi, jepni të dhënat e llogarisë suaj &syncBrand.shortName.label; dhe Kyçin e Riparimit të prodhuar nga kompjuteri juaj">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Emër Llogarie">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Fjalëkalim">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Kyç Riparimi">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Lidhu">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Sapo e lidhët &brandShortName;-in me llogarinë &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Të dhënat tuaja &syncBrand.shortName.label; tani po shkarkohen në prapaskenë. Skedat tuaja të njëkohësuara mund të gjenden te Faqja e Fillimit e &brandShortName;-it">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName;-i nuk u lidh dot te llogaria juaj &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Anuloje">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Riprovoni">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Llogari:">
+<!ENTITY sync.flyout.connected.device                     "Pajisja juaj:">
+<!ENTITY sync.flyout.connected.disconnect                 "Shkëpute">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Të shkëputet pajisja juaj nga &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Krejt të dhënat tuaja personale si tek kjo pajisje, ashtu edhe te llogaria &syncBrand.shortName.label; dotë mbetetn të paprekura.">
+<!ENTITY sync.flyout.connected.cancel                     "Anuloje">
+<!ENTITY sync.flyout.connected.pair                       "Çiftoni një Pajisje">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Te pajisja e re me të cilën doni të bëhet çiftimi, përzgjidhni &quot;Rregullo &syncBrand.shortName.label;-un&quot; dhe jepni kodin që prodhon pajisja">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Çiftoje">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Shënim:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Që të gjeni kodin,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[në Desktop] Hapni &quot;Mundësi&quot; ose &quot;Parapëlqime&quot; dhe madjen ndiqni hapat: &syncBrand.shortName.label; -&gt; Rregullojeni &syncBrand.shortName.label; -&gt; Kam një llogari">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[në Android] Më tepër &gt; Rregullime &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Ju lutemi, riprovoni">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "Pajisja e re u shtua me sukses.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Të dhënat tuaja &syncBrand.shortName.label; tani po shkarkohen në prapaskenë. Skedat tuaja të njëkohësuara mund të gjenden te Faqja e Fillimit e &brandShortName;-it.">

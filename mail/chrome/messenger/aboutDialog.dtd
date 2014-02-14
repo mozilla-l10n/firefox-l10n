@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          ", një ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
-<!ENTITY community.end2             " që punon tok për ta bërë Internetin më të mirë. Ne besojmë se Interneti do të duhej të ishte i hapur, publik, dhe i mundshmëm për këdo pa asnjë kufizim.">
+<!ENTITY community.end2             " që punon tok për ta bërë Internetin më të mirë. Ne besojmë se Interneti do të duhej të ishte i hapur, publik, dhe i mundshëm për këdo pa asnjë kufizim.">
 
 <!ENTITY contribute.start           "Ju intereson? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

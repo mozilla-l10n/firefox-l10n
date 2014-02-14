@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Emër">
 <!ENTITY aboutSupport.accountsIncomingServer "Shërbyes marrës">
-<!ENTITY aboutSupport.accountsOutgoingServers "Shërbyesa dërgues">
+<!ENTITY aboutSupport.accountsOutgoingServers "Shërbyes dërgues">
 <!ENTITY aboutSupport.accountsServerName "Emër">
 <!ENTITY aboutSupport.accountsConnSecurity "Siguri lidhjeje">
 <!ENTITY aboutSupport.accountsAuthMethod "Metodë mirëfilltësimi">

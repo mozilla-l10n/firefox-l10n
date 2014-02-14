@@ -13,7 +13,7 @@
 <!ENTITY sendHTML.accesskey           "D">
 <!ENTITY sendBoth.label               "Dërgoje mesazhin si tekst të thjeshtë dhe si HTML">
 <!ENTITY sendBoth.accesskey           "m">
-<!ENTITY override.label               "Shënim: Përdorni Librin e Adresave për të treguar formate teksti të parapëlqyer nga marrësat.">
+<!ENTITY override.label               "Shënim: Përdorni Librin e Adresave për të treguar formate teksti të parapëlqyer nga marrësit.">
 
 <!ENTITY domaindesc.label             "Kur dërgoni mesazh te një adresë me një nga emrat e përkatësisë te lista më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
 <!ENTITY HTMLTab.label                "Përkatësi HTML">

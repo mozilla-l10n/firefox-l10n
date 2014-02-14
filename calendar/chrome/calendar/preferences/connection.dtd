@@ -11,7 +11,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Formësoni Ndërmjetësa për Hyrje në Internet">
+<!ENTITY  proxyTitle.label              "Formësoni Ndërmjetës për Hyrje në Internet">
 <!ENTITY  directTypeRadio.label         "Lidhje e drejtpërdrejtë në Internet">
 <!ENTITY  directTypeRadio.accesskey     "d">
 <!ENTITY  WPADTypeRadio.label           "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">
