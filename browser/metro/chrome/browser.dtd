@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Geri">
 <!ENTITY forward.label         "İleri">
 <!ENTITY newtab.label          "Yeni sekme">
+<!ENTITY newPrivateTab.label   "Yeni gizli sekme">
 <!ENTITY closetab.label        "Sekmeyi kapat">
 
 <!ENTITY autocompleteResultsHeader.label  "Sonuçlarınız">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +120,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "Sekmelerinizi mi arıyorsunuz? Aşağı çekin veya sağ tıklayın">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Web'de nerelerde gezindiğinizi görün">
 <!ENTITY firstRunWelcome.label "&brandShortName; tarayıcısına hoş geldiniz">
 <!ENTITY firstRunDifferent.label "Felsefesi farklı">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+<!ENTITY firstRunBack.label "Önceki sayfaya dönmek için dokunun">
+<!ENTITY firstRunNewTab.label "Yeni bir sitede gezinmek için yeni sekme açın">
+<!ENTITY firstRunStar.label "Sayfaları daha sonra incelemek için yer imlerini kullanın">
+<!ENTITY firstRunPin.label "Hızlı erişim için istediğiniz için Windows Başlangıç ekranına sabitleyin">
+<!ENTITY firstRunGotIt.label "Anladım!">

@@ -45,3 +45,25 @@
 
 <!ENTITY prefs.tosLink.label        "Kullanım Koşulları">
 <!ENTITY prefs.ppLink.label         "Gizlilik Anlaşması">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "Gizlilik Bildirimi">
+<!ENTITY determiningAcctStatus.label     "Hesap durumunuz öğreniliyor…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "doğrulanmamış.">
+
+<!ENTITY signedInLoginFailure.beforename.label "Yeniden bağlanmak için lütfen oturum açın">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Oturum açmadınız.">
+<!ENTITY signIn.label                "Oturum aç">
+<!ENTITY manage.label                "Yönet">
+<!ENTITY disconnect.label            "Bağlantıyı kes…">
+<!ENTITY verify.label                "E-postayı doğrula">
+<!ENTITY forget.label                "Bu e-postayı unut">
+
+<!ENTITY welcome.description "&brandShortName; kullandığınız her yerde sekmelerinize, yer imlerinize, parolalarınıza ve daha fazlasına erişin.">
+<!ENTITY welcome.signIn.label "Oturum aç">
+<!ENTITY welcome.createAccount.label "Hesap oluştur">
+
+<!ENTITY welcome.useOldSync.label "Sync'in eski bir sürümünü mü kullanıyorsunuz?">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Arama">
-<!ENTITY newpref.label          "Yeni tercih ekle">
 <!ENTITY addpref.name           "Adı">
-<!ENTITY addpref.value          "Değer">
 
 <!ENTITY cancel.label           "Vazgeç">
-<!ENTITY reset.label            "Sıfırla">
-<!ENTITY done.label             "Bitti">
+<!ENTITY toggle.label           "Değiştir">
 
 <!ENTITY integer.label          "Tamsayı">
 <!ENTITY string.label           "Dizgi">
 <!ENTITY boolean.label          "Boolean">
+
+<!ENTITY string.placeholder     "Bir dizgi girin">
+<!ENTITY number.placeholder     "Bir sayı girin">
