@@ -19,7 +19,7 @@
 <!ENTITY image.label            "Նկար">
 <!ENTITY hline.label            "H. Line">
 <!ENTITY table.label            "Աղյուսակ">
-<!ENTITY link.label             "Հղումը">
+<!ENTITY link.label             "Հղում">
 <!ENTITY anchor.label           "Խարիսխ">
 
 <!ENTITY formatting.caption     "Ցուցադրել կոճակները Խմբագրման գործիքաշերտում.">

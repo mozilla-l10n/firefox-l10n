@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
-<!ENTITY aboutPage.warningVersion               "&brandShortName;-ը փորձնական է և կայուն չի աշխատի:">
-<!ENTITY aboutPage.telemetryStart               "Միանգամից տեղեկություն է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;-ն փորձնական է և կայուն չի աշխատի:">
+<!ENTITY aboutPage.telemetryStart               " Ծրագիրը ինքնաշխատ տեղեկություններ է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "&brandShortName;-ը էլ ավելի կատարելագործելու համար:">
+<!ENTITY aboutPage.telemetryEnd                 " &brandShortName;-ն էլ ավելի կատարելագործելու նպատակով:">
 <!ENTITY aboutPage.checkForUpdates.link         "Ստուգել թարմացումները  »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Թարմացումների որոնում…">
+<!ENTITY aboutPage.checkForUpdates.checking     "Թարմացումների ստուգում…">
 <!ENTITY aboutPage.checkForUpdates.none         "Թարմացումներ չկան">
-
-
-
-<!ENTITY aboutPage.faq.label                    "ՀՃՀ">
+<!ENTITY aboutPage.checkForUpdates.available2   "Բեռնել թարմացումը">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Թարմացումը բեռնվում է...">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Տեղադրել թարմացումը">
+<!ENTITY aboutPage.faq.label                    "ՀՏՀ">
 <!ENTITY aboutPage.support.label                "Աջակցություն">
 <!ENTITY aboutPage.privacyPolicy.label          "Գաղտնիության Դրույթները">
 <!ENTITY aboutPage.rights.label                 "Իմացե՛ք Ձեր իրավունքները">
 <!ENTITY aboutPage.relNotes.label               "Թողարկման նշումները">
 <!ENTITY aboutPage.credits.label                "Հեղինակներ">
-<!ENTITY aboutPage.license.label                "Լիցենզիոն տեղեկություն">
+<!ENTITY aboutPage.license.label                "Արտոնագրի մասին">

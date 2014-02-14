@@ -5,7 +5,7 @@
 <!ENTITY sync.title                 "Սինք">
 <!ENTITY sync.notconnected          "Միացած չէ">
 <!ENTITY sync.connect               "Միանալ">
-<!ENTITY sync.connected             "Միացված է">
+<!ENTITY sync.connected             "Կապակցված է">
 <!ENTITY sync.details               "Մանրամասներ">
 <!ENTITY sync.deviceName            "Այս սարքը">
 <!ENTITY sync.disconnect            "Անջատվել">
@@ -14,11 +14,11 @@
 <!ENTITY sync.setup.title           "Միանալ Սինքին">
 <!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &quot;Սարքի միացում&quot; Ձեր սարքում։">
 <!ENTITY sync.fallback              "Ես իմ համակարգչի կողքին չեմ...">
-<!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվեկշռի ինֆոն">
+<!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվի ինֆոն">
 <!ENTITY sync.account               "Փոստարկղի անունը">
 <!ENTITY sync.password              "Գաղտնաբառը">
-<!ENTITY sync.recoveryKey           "Վերականգնել բանալին">
-<!ENTITY sync.customServer          "Օգտ. ընտրված սպասարկիչը">
+<!ENTITY sync.recoveryKey           "Վերականգնող բանալին">
+<!ENTITY sync.customServer          "Օգտ. ընտրված սպասարկիչ">
 <!ENTITY sync.serverURL             "Սպասարկիչի URL-ն">
 <!ENTITY sync.setup.connect         "Միանալ">
 <!ENTITY sync.setup.cancel          "Չեղարկել">

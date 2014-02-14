@@ -34,8 +34,12 @@
 <!ENTITY debuggerUI.optsButton.tooltip  "Վրիպազերծիչի ընտրանքները">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Անջ./Միաց. սև արկղը">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "Կարճեցված աղբյուրը">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -44,6 +48,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Անտեսել գտնված բացառությունը">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -122,9 +128,13 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Ավելացնել պայմանական ընդհատակետ">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "Աղբյուրներ">
+<!ENTITY debuggerUI.tabs.callstack      "Զանգերի ցանկ">
+<!ENTITY debuggerUI.tabs.variables      "Փոփոխականներ">
+<!ENTITY debuggerUI.tabs.events         "Իրադարձություններ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 

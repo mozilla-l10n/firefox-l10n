@@ -29,8 +29,8 @@
 
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
 <!ENTITY filterActionOrder.label "See execution order">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Տեղափոխել նամակը՝">
 <!ENTITY copyMessage.label "Պատճենել՝">
 <!ENTITY forwardTo.label "Փոխանցել՝">
@@ -38,7 +38,7 @@
 <!ENTITY markMessageRead.label "Նշել որպես ընթերցված">
 <!ENTITY markMessageUnread.label "Նշել որպես ընթերցված">
 <!ENTITY markMessageStarred.label "Ավելացնել աստղ">
-<!ENTITY setPriority.label "Առաջնայնությունը՝">
+<!ENTITY setPriority.label "Առաջնահերթ-ը՝">
 <!ENTITY addTag.label "Պիտակված նամակ">
 <!ENTITY setJunkScore.label "Տալ թափոնի վիճակ՝">
 <!ENTITY deleteMessage.label "Ջնջել նամակը">
@@ -46,16 +46,16 @@
 <!ENTITY fetchFromPOP.label "Ընտրել POP սպասարկիչից">
 <!ENTITY ignoreThread.label "Անտեսել շղթան">
 <!ENTITY ignoreSubthread.label "Անտեսել ենթաշղթան">
-<!ENTITY watchThread.label "Նայել շղթան">
+<!ENTITY watchThread.label "Հետևել շղթային">
 <!ENTITY stopExecution.label "Կանգնեցնել ֆիլտրը">
 
 <!ENTITY addAction.tooltip "Նոր գործողություն">
 <!ENTITY removeAction.tooltip "Հեռացնել գործողությունը">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">

@@ -26,20 +26,20 @@
 
 <!ENTITY  font.langGroup.latin1                   "Արևմտյան">
 <!ENTITY  font.langGroup.latin2                   "ԿենտրոնաԵվրոպական">
-<!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
+
 <!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
 <!ENTITY  font.langGroup.simpl-chinese            "Պարզեցված Չիներեն">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Ավանդական Չիներեն (Հոնգ­Կոնգ)">
-<!ENTITY  font.langGroup.korean                   "Կորեական">
-<!ENTITY  font.langGroup.cyrillic                 "Կիրիլյան">
-<!ENTITY  font.langGroup.baltic                   "Բալթիկ">
-<!ENTITY  font.langGroup.el                       "Հունարեն">
-<!ENTITY  font.langGroup.turkish                  "Թրքերեն">
+
+
+
+
+
 <!ENTITY  font.langGroup.unicode                  "Յունիքոդ">
 <!ENTITY  font.langGroup.user-def                 "Օգտվողի Նշած">
-<!ENTITY  font.langGroup.thai                     "Թայլանդերեն">
-<!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
-<!ENTITY  font.langGroup.arabic                   "Արաբերեն">
+
+
+
 <!ENTITY  font.langGroup.devanagari               "Դևանագարի">
 <!ENTITY  font.langGroup.tamil                    "Թամիլերեն">
 <!ENTITY  font.langGroup.armenian                 "ՀԱՅԵՐԵՆ">
@@ -72,3 +72,31 @@
 <!ENTITY languages.customize.Fallback.label       "Վերականգնել Գրանշանների կոդավորումը.">
 <!ENTITY languages.customize.Fallback.accesskey   "Վ">
 <!ENTITY languages.customize.Fallback.desc        "Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:">
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "Չիներեն, Պարզեցված">
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Վիետնամերեն">
+
