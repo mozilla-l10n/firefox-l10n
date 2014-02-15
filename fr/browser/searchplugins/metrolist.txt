@@ -3,5 +3,5 @@ googlemetrofx
 amazon-france
 wikipedia-fr
 eBay-france
-yahoo-france
+yahoo-francemetrofx
 cnrtl-tlfi-fr
