@@ -91,7 +91,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
-<!ENTITY debuggerUI.searchFunction      "Пошук означень функцій">
+<!ENTITY debuggerUI.searchFunction      "Пошук означення функції">
 <!ENTITY debuggerUI.searchFunction.key  "з">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
@@ -106,17 +106,17 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable      "Змінні відсіювання">
+<!ENTITY debuggerUI.searchVariable      "Відсіяти змінні">
 <!ENTITY debuggerUI.searchVariable.key  "в">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables      "Дерево зосередження на змінні">
+<!ENTITY debuggerUI.focusVariables      "Дерево зосередження на змінних">
 <!ENTITY debuggerUI.focusVariables.key  "Д">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Цей пункт зупинки зупинить виконання тільки за умови, що цей вираз правдивий">
+<!ENTITY debuggerUI.condBreakPanelTitle "Цей пункт зупинки зупинить виконання тільки за умови, якщо цей вираз правдивий">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
