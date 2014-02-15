@@ -13,7 +13,7 @@
   <Param name="p" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
   <Param name="ei" value="UTF-8"/>
-  <MozParam name="fr" condition="pref" pref="fr" />
+  <MozParam name="fr" condition="pref" pref="yahoo-fr" />
 </Url>
 <SearchForm>http://in.search.yahoo.com/</SearchForm>
 </SearchPlugin>
