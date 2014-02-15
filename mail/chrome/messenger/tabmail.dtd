@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Stäng flik">
 <!ENTITY  listAllTabs.label        "Listar alla flikar">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Hem">
