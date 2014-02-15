@@ -42,10 +42,12 @@
 <!ENTITY consoleMessages.label "Сообщения">
 <!ENTITY consoleCodeEval.label "Код:">
 <!ENTITY consoleClear.label "Очистить">
+<!ENTITY consoleCopyAll.label "Копировать">
 <!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
+<!ENTITY consoleFollowCheckbox.label "Следовать">
 <!ENTITY contextTextCut.label "Вырезать">
 <!ENTITY contextTextCopy.label "Копировать">
 <!ENTITY contextTextPaste.label "Вставить">

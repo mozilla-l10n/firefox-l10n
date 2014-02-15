@@ -17,6 +17,7 @@
 <!ENTITY netmonitorUI.tab.params "Параметры">
 <!ENTITY netmonitorUI.tab.response "Ответ">
 <!ENTITY netmonitorUI.tab.timings "Тайминги">
+<!ENTITY netmonitorUI.tab.preview "Предпросмотр">
 <!ENTITY netmonitorUI.footer.filterAll "Все">
 <!ENTITY netmonitorUI.footer.filterHTML "HTML">
 <!ENTITY netmonitorUI.footer.filterCSS "CSS">

@@ -4,3 +4,4 @@
 
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY listAllTabs.label "Список всех вкладок">
+<!ENTITY defaultTabTitle.label "Дом">
