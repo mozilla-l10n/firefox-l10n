@@ -173,7 +173,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
-<!ENTITY netmonitorUI.timings.connect     "Anslutning:">
+<!ENTITY netmonitorUI.timings.connect     "Ansluter:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
@@ -183,7 +183,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
-<!ENTITY netmonitorUI.timings.wait        "Väntan:">
+<!ENTITY netmonitorUI.timings.wait        "Väntar:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
