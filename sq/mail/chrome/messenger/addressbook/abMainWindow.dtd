@@ -185,7 +185,7 @@ because displayed names don't have the comma in between. -->
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Kontakte">
-<!ENTITY home.heading                                   "Hyrje">
+<!ENTITY home.heading                                   "Shtëpie">
 <!ENTITY other.heading                                  "Tjetër">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "E punës">
