@@ -4,4 +4,4 @@ googlemetrofx
 mercadolivre
 twitter
 wikipedia-br
-yahoo-br
+yahoo-brmetrofx
