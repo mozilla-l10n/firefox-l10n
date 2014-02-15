@@ -23,25 +23,23 @@
 <!ENTITY idColumn.label "Mottagningsföljd">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Klicka för att välja vilka kolumner som ska visas"> 
-<!ENTITY threadColumn.tooltip "Klicka för att visa meddelandetråden"> 
-<!ENTITY fromColumn.tooltip "Klicka för att ordna efter frånraden">
-<!ENTITY recipientColumn.tooltip "Klicka för att ordna efter mottagare">
-<!ENTITY attachmentColumn.tooltip "Klicka för att ordna efter bilagor">
-<!ENTITY subjectColumn.tooltip "Klicka för att ordna efter ämne">
-<!ENTITY dateColumn.tooltip "Klicka för att ordna efter datum">
-<!ENTITY priorityColumn.tooltip "Klicka för att ordna efter prioritet">
-<!ENTITY tagsColumn.tooltip "Klicka för att ordna efter etiketter">
-<!ENTITY accountColumn.tooltip "Klicka för att ordna efter konto">
-<!ENTITY statusColumn.tooltip "Klicka för att ordna efter status">
-<!ENTITY sizeColumn.tooltip "Klicka för att ordna efter storlek">
-<!ENTITY junkStatusColumn.tooltip "Klicka för att ordna efter skräppoststatus">
-<!ENTITY unreadColumn.tooltip "Antal olästa meddelanden i tråden">
-<!ENTITY totalColumn.tooltip "Totalt antal meddelanden i tråden">
-<!ENTITY readColumn.tooltip "Klicka för att ordna efter lästa">
-<!ENTITY receivedColumn.tooltip "Klicka för att ordna efter mottagningsdatum">
-<!ENTITY flagColumn.tooltip "Klicka för att ordna efter flaggade">
-<!ENTITY locationColumn.tooltip "Klicka för att ordna efter plats">
-<!ENTITY idColumn.tooltip "Klicka för att ordna efter mottagningsföljd">
-
-
+<!ENTITY columnChooser2.tooltip "Välj vilka kolumner som ska visas">
+<!ENTITY threadColumn2.tooltip "Visa meddelandtråden">
+<!ENTITY fromColumn2.tooltip "Ordna efter frånraden">
+<!ENTITY recipientColumn2.tooltip "Ordna efter mottagare">
+<!ENTITY attachmentColumn2.tooltip "Ordna efter bilagor">
+<!ENTITY subjectColumn2.tooltip "Ordna efter ämne">
+<!ENTITY dateColumn2.tooltip "Ordna efter datum">
+<!ENTITY priorityColumn2.tooltip "Ordna efter prioritet">
+<!ENTITY tagsColumn2.tooltip "Ordna efter etiketter">
+<!ENTITY accountColumn2.tooltip "Ordna efter konto">
+<!ENTITY statusColumn2.tooltip "Ordna efter status">
+<!ENTITY sizeColumn2.tooltip "Ordna efter storlek">
+<!ENTITY junkStatusColumn2.tooltip "Ordna efter skräppoststatus">
+<!ENTITY unreadColumn2.tooltip "Antal olästa meddelanden i tråden">
+<!ENTITY totalColumn2.tooltip "Totalt antal meddelanden i tråden">
+<!ENTITY readColumn2.tooltip "Ordna efter lästa">
+<!ENTITY receivedColumn2.tooltip "Ordna efter mottagningsdatum">
+<!ENTITY flagColumn2.tooltip "Ordna efter flaggade">
+<!ENTITY locationColumn2.tooltip "Ordna efter plats">
+<!ENTITY idColumn2.tooltip "Ordna efter mottagningsföljd">
