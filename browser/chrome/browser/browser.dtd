@@ -426,7 +426,7 @@
 <!ENTITY fullScreenButton.tooltip "Mostrar la ventana en pantalla completa">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmdWin.tooltip "Salir de brandShortName;">
+<!ENTITY quitApplicationCmdWin.tooltip "Salir de &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Salir">
