@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "Z">
 <!ENTITY folderPickerPrefix.label "Ručně spustit vybraný filtr na složce:">
 <!ENTITY folderPickerPrefix.accesskey "R">
-<!ENTITY choosethis.label "vyberte tuto složku">
-<!ENTITY choosethisnewsserver.label "vyberte diskusní server">
 <!ENTITY helpButton.label "Nápověda">
 <!ENTITY helpButton.accesskey "v">
 <!ENTITY closeCmd.key "W">
