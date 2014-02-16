@@ -24,7 +24,7 @@
 <!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
-<!ENTITY url_bar_default_text "Introduzca dirección o términos de búsqueda">
+<!ENTITY url_bar_default_text "Introduzca dirección o búsqueda">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
@@ -51,7 +51,7 @@
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_search3 "Buscar">
-<!ENTITY pref_category_display "Mostrar">
+<!ENTITY pref_category_display "Visualización">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elección de datos">
@@ -68,14 +68,14 @@
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_header_customize "Personalizar">
-<!ENTITY pref_header_display "Mostrar">
+<!ENTITY pref_header_display "Visualización">
 <!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_help "Ayuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
-<!ENTITY pref_cookies_not_accept_foreign "Activadas, excluyendo la de terceras partes">
+<!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
 <!ENTITY pref_donottrack_menu "Rastreo">
 <!ENTITY pref_donottrack_disallow_tracking "Indicar a los sitios que no quiero ser rastreado">
@@ -99,7 +99,7 @@
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
-<!ENTITY pref_font_size_set "Configurar">
+<!ENTITY pref_font_size_set "Usar">
 <!ENTITY pref_font_size_adjust_char "r">
 <!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
@@ -113,7 +113,7 @@
 <!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
-<!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
+<!ENTITY pref_private_data_siteSettings2 "Configuración de sitios">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -137,7 +137,7 @@
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
-<!ENTITY datareporting_wifi_title "Servicios de localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_title "Serv. localización de &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ayude a mejorar los servicios de geolocalización para la web abierta permitiendo a &brandShortName; recopilar y enviar datos anónimos de las torres celulares">
 <!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
@@ -156,7 +156,7 @@
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY tools "Herramientas">
 <!ENTITY new_tab "Pestaña nueva">
-<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY new_private_tab "Pestaña privada nueva">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
@@ -190,7 +190,7 @@
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
-<!ENTITY pref_scroll_title_bar "Desplazar barra del título">
+<!ENTITY pref_scroll_title_bar "Desplazar barra de título">
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
