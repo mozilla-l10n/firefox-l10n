@@ -59,6 +59,7 @@
 <!ENTITY consoleMessages.label     "Správy">
 <!ENTITY consoleCodeEval.label     "Kód:">
 <!ENTITY consoleClear.label        "Vymazať">
+<!ENTITY consoleCopyAll.label      "Kopírovať">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Zdrojový súbor:">
 <!ENTITY consoleErrLine.label      "Riadok:">
