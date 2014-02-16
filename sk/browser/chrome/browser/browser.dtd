@@ -571,6 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label    "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
+<!ENTITY quitApplicationCmdWin.tooltip     "Ukončiť prehliadač &brandShortName;">
 <!ENTITY goBackCmd.commandKey          "[">
 <!ENTITY goForwardCmd.commandKey       "]">
 <!ENTITY quitApplicationCmd.label      "Ukončiť prehliadač">
