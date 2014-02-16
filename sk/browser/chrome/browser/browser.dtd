@@ -96,8 +96,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
-<!ENTITY syncPanel.descriptionSyncing "&brandShortName; sa práve synchronizuje">
-<!ENTITY syncPanel.descriptionPrefs "Synchronizáciu je možné upraviť v nastaveniach prehliadača.">
+<!ENTITY fxaSignIn.label "Prihlásiť sa k službe &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; sa práve synchronizuje">
+<!ENTITY syncStartPanel.subTitle "Službu &syncBrand.shortName.label; môžete spravovať v nastaveniach prehliadača.">
+<!ENTITY syncStartPanel.subTitleUnix "Službu &syncBrand.shortName.label; môžete spravovať v nastaveniach prehliadača.">
+<!ENTITY syncErrorPanel.heading "Nie je možné pripojiť k službe &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Prihlásením sa umožníte pokračovať k synchronizácii.">
+<!ENTITY syncErrorPanel.signInButton.label "Prihlásiť sa">
+<!ENTITY syncErrorPanel.signInButton.accesskey "P">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
