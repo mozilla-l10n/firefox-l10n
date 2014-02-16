@@ -64,6 +64,7 @@
 <!ENTITY consoleErrFile.label      "Zdrojový súbor:">
 <!ENTITY consoleErrLine.label      "Riadok:">
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
+<!ENTITY consoleFollowCheckbox.label "Sledovať">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Vystrihnúť">
