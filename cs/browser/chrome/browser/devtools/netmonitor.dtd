@@ -18,7 +18,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice2        "Pro zobrazení detailních informací o síťové aktivitě proveďte dotaz či obnovení stránky.">
+<!ENTITY netmonitorUI.emptyNotice3        "• Pro zobrazení detailních informací o síťové aktivitě proveďte dotaz či obnovení stránky.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
