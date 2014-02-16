@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (zavrženo)'>
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "Nabídka záložek">

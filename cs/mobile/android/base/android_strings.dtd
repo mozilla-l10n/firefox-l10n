@@ -74,6 +74,9 @@
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
 <!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
+<!ENTITY pref_category_search_restore_defaults "Obnovit vyhledávací moduly">
+<!ENTITY pref_search_restore_defaults "Obnovit výchozí">
+<!ENTITY pref_search_restore_defaults_summary "Obnovit výchozí">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -82,6 +85,9 @@
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_developer_remotedebugging_docs "Zjistit více">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
+
+<!ENTITY pref_category_home "Domů">
+<!ENTITY pref_category_home_panels "Panely">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Přizpůsobení">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Zpětná vazba">
-<!ENTITY pref_search_set_default "Nastavit jako výchozí">
-<!ENTITY pref_search_default "Výchozí">
-<!ENTITY pref_search_remove "Odebrat">
+
+<!ENTITY pref_dialog_set_default "Nastavit jako výchozí">
+<!ENTITY pref_dialog_default "Výchozí">
+<!ENTITY pref_dialog_remove "Odebrat">
+
 <!ENTITY pref_search_last_toast "Nemůžete odebrat nebo zakázat váš poslední vyhledávací modul.">
+
+<!ENTITY pref_panels_show "Zobrazit">
+<!ENTITY pref_panels_hide "Skrýt">
 
 <!ENTITY datareporting_notification_title "Statistiky a data k aplikaci &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Zvolte, jaké informace chcete sdílet">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Další">
 <!ENTITY find_close "Zavřít">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_play "Přehrát">
+<!ENTITY media_pause "Pozastavit">
+<!ENTITY media_stop "Zastavit">
+
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
 <!ENTITY contextmenu_open_private_tab "Otevřít v anonymním panelu">
 <!ENTITY contextmenu_open_in_reader "Otevřít ve čtečce">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazit adresu stránky">
 
-<!ENTITY pref_dynamic_toolbar "Při skrolování skrýt hlavičku okna">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rolovací hlavička okna">
 
 <!ENTITY history_removed "Stránka odebrána">
 
