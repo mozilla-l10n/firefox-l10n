@@ -459,7 +459,6 @@
 <!ENTITY findAgainCmd.accesskey "й">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY editBookmark.done.label "Готово">
