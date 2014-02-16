@@ -45,7 +45,7 @@
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
 <!ENTITY num_tabs2 "&formatD; pestañas">
-<!ENTITY new_tab_opened "Nueva pestaña abierta">
+<!ENTITY new_tab_opened "Pestaña nueva abierta">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzado">
