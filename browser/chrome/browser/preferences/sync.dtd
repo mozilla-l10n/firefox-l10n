@@ -48,7 +48,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Poznámka k súkromiu">
-<!ENTITY determiningStatus.label     "Získava sa stav účtu Firefox Account…">
+<!ENTITY determiningAcctStatus.label     "Získava sa stav účtu…">
 <!ENTITY signedInUnverified.beforename.label "Adresa">
 <!ENTITY signedInUnverified.aftername.label "nie je overená.">
 
