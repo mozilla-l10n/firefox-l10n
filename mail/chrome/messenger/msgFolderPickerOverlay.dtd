@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label "Vyberte nadřazenou složku">
 <!ENTITY filemessageschoosethis.label "Vybrat složku">
 <!ENTITY recentfolders.label "Poslední">
 
