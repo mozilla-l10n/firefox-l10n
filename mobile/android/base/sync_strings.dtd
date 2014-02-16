@@ -81,17 +81,17 @@
 <!ENTITY fxaccount_password_show "Mostrar">
 <!ENTITY fxaccount_back_to_browsing "Volver a navegar">
 <!ENTITY fxaccount_policy_linktos "Términos del Servicio">
-<!ENTITY fxaccount_policy_linkprivacy "Nota sobre privacidad">
+<!ENTITY fxaccount_policy_linkprivacy "Aviso sobre privacidad">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienvenido a &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Inicie sesión para sincronizar sus pestañas, marcadores, contraseñas y más.">
-<!ENTITY fxaccount_getting_started_get_started "Iniciarse">
+<!ENTITY fxaccount_getting_started_get_started "Comenzar">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_create_account_header "Crear una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Debe tener al menos 8 caracteres">
 <!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
-<!ENTITY fxaccount_create_account_policy_text "Al continuar, acepto el &formatS1; y &formatS2; de los servicios en línea de Firefox.">
+<!ENTITY fxaccount_create_account_policy_text "Al continuar, acepto los &formatS1; y el &formatS2; de los servicios en línea de Firefox.">
 <!ENTITY fxaccount_create_account_button "Siguiente">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Elija qué sincronizar">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Elegir qué sincronizar">
 <!ENTITY fxaccount_create_account_sign_in_instead "¿Ya tiene una cuenta? Inicie sesión">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 o anterior">
 <!ENTITY fxaccount_create_account_unknown_error "No se pudo crear la cuenta">
