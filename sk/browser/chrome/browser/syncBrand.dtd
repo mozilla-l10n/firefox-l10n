@@ -5,5 +5,3 @@
 <!ENTITY syncBrand.shortName.label  "Sync">
 <!ENTITY syncBrand.fullName.label   "Firefox Sync">
 <!ENTITY syncBrand.fxAccount.label  "Firefox Account">
-<!ENTITY syncBrand.fxa-singular.label "Firefox Account">
-<!ENTITY syncBrand.fxa-plural.label "Firefox Accounts">
