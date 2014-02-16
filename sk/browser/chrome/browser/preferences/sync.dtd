@@ -63,6 +63,6 @@
 <!ENTITY forget.label                "Zabudnúť na túto e-mailovú adresu">
 
 <!ENTITY welcome.description "Pristupujte k svojim kartám, záložkám, heslám a ďalším položkám kdekoľvek používate prehliadač &brandShortName;.">
-<!ENTITY welcome.startButton.label "Prihláste sa alebo vytvorte si svoj účet">
+<!ENTITY welcome.useOldSync.label "Používate staršiu verziu služby Sync?">
 <!ENTITY welcome.signIn.label "Prihlásiť sa">
 <!ENTITY welcome.createAccount.label "Vytvoriť účet">
