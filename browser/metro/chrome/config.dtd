@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Traži:">
-<!ENTITY newpref.label          "Dodaj novu preferencu">
 <!ENTITY addpref.name           "Naziv">
-<!ENTITY addpref.value          "Vrijednost">
 
 <!ENTITY cancel.label           "Odustani">
-<!ENTITY reset.label            "Poništi">
-<!ENTITY done.label             "Gotovo">
+
 
 <!ENTITY integer.label          "Cijeli broj">
 <!ENTITY string.label           "Izraz">
 <!ENTITY boolean.label          "Boolean">
+
+
