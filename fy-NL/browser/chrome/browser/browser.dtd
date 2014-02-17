@@ -656,7 +656,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Sosjale-arkbalkeknop">
-<!ENTITY social.notLoggedIn.label   "Net oanmeld">
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
