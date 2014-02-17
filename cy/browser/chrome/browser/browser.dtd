@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Ychwanegu i'r Bar Offer">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Y">
 <!ENTITY customizeMenu.addToPanel.label "Ychwanegu i'r Ddewislen">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.addToPanel.accesskey "D">
 <!ENTITY customizeMenu.moveToToolbar.label "Symud i'r Bar Offer">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "y">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -359,7 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.removeFromMenu.label "Tynnu o'r Ddewislen">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "T">
-<!ENTITY customizeMenu.addMoreItems.label "Ychwanegu Rhagor o Eitemau...">
+<!ENTITY customizeMenu.addMoreItems.label "Ychwanegu Rhagor o Eitemau…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Y">
 
 <!ENTITY openCmd.commandkey           "l">
