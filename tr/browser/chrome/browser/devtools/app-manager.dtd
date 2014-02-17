@@ -50,21 +50,21 @@
 <!ENTITY connection.disconnecting "Bağlantı kesiliyor…">
 <!ENTITY connection.cancel "Vazgeç">
 <!ENTITY connection.cancelConnectTooltip "Devam eden bağlantıyı iptal et">
-<!ENTITY connection.cancelShowSimulatorTooltip "Simülatör bağlantı modundan çıkıp ilk kotum istemine döner.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Simülatör bağlantı modundan çıkıp ilk kotum istemine dön">
 <!ENTITY connection.or "veya">
 <!ENTITY connection.noSimulatorInstalled "Yüklenmiş simülatör yok.">
 <!ENTITY connection.installOneSimulator "Simülatörü yükle">
-<!ENTITY connection.installOneSimulatorTooltip "İlgili eklentiyi indirerek bir Simülatör sürümünü yükler.">
+<!ENTITY connection.installOneSimulatorTooltip "İlgili eklentiyi indirerek bir Simülatör sürümünü yükle">
 <!ENTITY connection.installAnotherSimulator "Ekle">
-<!ENTITY connection.installAnotherSimulatorTooltip "İlgili eklentiyi indirerek ek bir Simülatör sürümünü yükler.">
+<!ENTITY connection.installAnotherSimulatorTooltip "İlgili eklentiyi indirerek ek bir Simülatör sürümünü yükle">
 <!ENTITY connection.startRegisteredSimulator "Başlat:">
 
 <!ENTITY projects.localApps "Yerel Uygulamalar">
 <!ENTITY projects.addApp "Ekle">
 <!ENTITY projects.addPackaged "Paketlenmiş uygulama ekle">
-<!ENTITY projects.addPackagedTooltip "Bilgisayarınızdan yeni bir paketlenmiş uygulama (dizin) ekleyin.">
+<!ENTITY projects.addPackagedTooltip "Bilgisayarımdan yeni bir paketlenmiş uygulama (dizin) ekle">
 <!ENTITY projects.addHosted "Barındırılan uygulama ekle">
-<!ENTITY projects.addHostedTooltip "Uzak bir web sitesinden yeni bir barındırlan uygulama (manifest.webapp dosyası linki) ekler.">
+<!ENTITY projects.addHostedTooltip "Uzak bir web sitesinden yeni bir barındırlan uygulama (manifest.webapp dosyası linki) ekle">
 <!ENTITY projects.title "Yerel Uygulamalar">
 <!ENTITY projects.appDetails "Uygulama Ayrıntıları">
 <!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
