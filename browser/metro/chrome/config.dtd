@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Carian">
-<!ENTITY newpref.label          "Tambahkan Keutamaan Baru">
 <!ENTITY addpref.name           "Nama">
-<!ENTITY addpref.value          "Nilai">
 
 <!ENTITY cancel.label           "Batal">
-<!ENTITY reset.label            "Set semula">
-<!ENTITY done.label             "Selesai">
+
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "Rentetan">
 <!ENTITY boolean.label          "Boolean">
+
+

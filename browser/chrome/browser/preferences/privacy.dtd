@@ -25,7 +25,7 @@
 <!ENTITY  locbar.nothing.label          "Tiada">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
-<!ENTITY  acceptCookies.accesskey       "T">
+<!ENTITY  acceptCookies.accesskey       "e">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">

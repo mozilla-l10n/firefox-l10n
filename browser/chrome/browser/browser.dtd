@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Melungsur Secara Peribadi)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Memuat Semula Tab">
@@ -54,8 +56,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Buka Lokasi…">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Buka Fail…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "b">
@@ -95,9 +95,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Pamer Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "S">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "Pengurangan">
 <!ENTITY fullScreenRestore.tooltip "Baik pulih">
-<!ENTITY fullScreenClose.tooltip "Tutup">
+
 <!ENTITY fullScreenAutohide.label "Sorok Bar Alatan">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar Mod Skrin Penuh">
@@ -115,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Penandabuku">
 <!ENTITY bookmarksMenu.accesskey "P">
 <!ENTITY bookmarkThisPageCmd.label "Penandabuku Laman Ini">
+<!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
@@ -128,6 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "K">
 <!ENTITY shareVideoCmd.label "Kongsi Video Ini">
 <!ENTITY shareVideoCmd.accesskey "K">
+
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
@@ -154,24 +166,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
-<!ENTITY backForwardItem.title        "Undur/Maju Hadapan">
 <!ENTITY locationItem.title           "Lokasi">
 <!ENTITY searchItem.title             "Carian">
-<!ENTITY bookmarksItem.title          "Penandabuku">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Utama">
 
 <!ENTITY tabGroupsButton.label        "Tab Kumpulan">
-<!ENTITY tabGroupsButton.tooltip      "Kumpul tab-tab anda">
 
 <!ENTITY bookmarksButton.label          "Penandabuku">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Penandabuku">
-<!ENTITY bookmarksMenuButton.tooltip        "Papar penandabuku anda">
 <!ENTITY bookmarksMenuButton.unsorted.label "Tidak isihan penandabuku">
-<!ENTITY viewBookmarksSidebar.label         "Pamer dalam Bar disebelah">
+
 <!ENTITY viewBookmarksToolbar.label         "Lihat Penandabuku Bar Alatan">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -180,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Latar">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alatan">
@@ -296,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Keutamaan">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Buang Latar Semasa…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -316,12 +322,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Tab yang ditutup semasa">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Tetingkap yang ditutup semasa">
-<!ENTITY historyRestoreLastSession.label "Pulih Sesi yang sebelum ini">
 
-<!ENTITY showAllHistoryCmd2.label "Pamer Semua Latar">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
@@ -407,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Emelkan Pautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "Memulakan lancaran dengan gaya Windows 8 &brandShortName;">
-<!ENTITY switchToMetroCmd2.label      "Lancar semula dalam &brandShortName; untuk Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -533,6 +564,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Keluar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Keluar"> 
@@ -624,7 +656,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">
-<!ENTITY social.notLoggedIn.label   "Tidak log masuk">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -643,6 +674,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Ketahui Lanjut…">
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
+
+
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
@@ -685,6 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Baiklah, ini sesuatu yang memalukan. Kami telah mencuba untuk memaparkan laman Web ini, tetapi ia tidak bertindak balas.">
 <!ENTITY tabCrashed.checkSendReport "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
 <!ENTITY tabCrashed.tryAgain "Cuba Lagi">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -697,7 +737,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Penunjuk Aktiviti">
 <!ENTITY appMenuButton.label           "Menu">
 <!ENTITY appMenuButton.tooltip         "Buka &brandShortName; menu">
-<!ENTITY feedButton.label              "Langgan">
+
 <!ENTITY feedButton.tooltip            "Langgan ke laman ini…">
 <!ENTITY bookmarksButton.tooltip       "Papar penandabuku anda">
 <!ENTITY historyButton.tooltip         "Papar laman yang anda telah lihat baru ini">
@@ -720,4 +760,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Kawalan Zum">
 <!ENTITY addonBarCloseButton.tooltip   "Tutupkan Bar Add-on">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Undur/Maju Hadapan">
+<!ENTITY viewBookmarksSidebar.label    "Pamer dalam Bar disebelah">
+<!ENTITY bookmarksItem.title           "Penandabuku">
+<!ENTITY openLocationCmd.label         "Buka Lokasi…">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "Papar penandabuku anda">
+<!ENTITY switchToMetroCmd2.label       "Lancar semula dalam &brandShortName; untuk Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip       "Kumpul tab-tab anda">
 <!-- end of strings to be removed post-Australis -->
