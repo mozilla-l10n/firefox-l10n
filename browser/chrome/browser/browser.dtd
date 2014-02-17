@@ -97,7 +97,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "а">
 
 
-
+<!ENTITY syncStartPanel.heading "&brandShortName; енді синхрондауда">
 <!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label; опцияларда басқаруға болады.">
 <!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; баптауларда басқаруға болады.">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; байлансты орнату сәтсіз аяқталды">
@@ -684,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle " &brandShortName; баптау">
-
+<!ENTITY customizeMode.menuAndToolbars.label "Мәзір мен құрал панелдері">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Қосымша құралдар мен ерекшіліктер">
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">

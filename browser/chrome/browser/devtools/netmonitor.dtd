@@ -13,6 +13,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
+
+<!ENTITY netmonitorUI.emptyNotice3        "• Желілік белсенділік жөнінде ақпаратты қарау үшін сұранымды жасаңыз немесе парақты қайта жүктеңіз.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -238,3 +240,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "Бас тарту">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "Артқа">

@@ -8,7 +8,7 @@
 <!ENTITY index.help "Көмек">
 
 <!ENTITY device.screenshot "Скриншот">
-
+<!ENTITY device.screenshotTooltip "Ағымдағы жағдайда жасалған құрылғының скриншотын жаңа бетте ашу">
 <!ENTITY device.title "Құрылғылар басқару орталығы">
 <!ENTITY device.notConnected "Байланыс жоқ. Төмендегі құрылғыны қосыңыз.">
 <!ENTITY device.startApp "Бастау">
@@ -79,7 +79,7 @@
 <!ENTITY projects.manifestEditor "Манифест түзетушісі">
 <!ENTITY projects.manifestEditorTooltip "Қолданбаңыздың манифестін төмендегі панельде түзетіңіз. Жаңарту батырмасы өзгерістерді сақтайды және қолданбаңызды жаңартады.">
 <!ENTITY projects.manifestViewer "Манифест көрсетушісі">
-
+<!ENTITY projects.manifestViewerTooltip "Қолданбаңыздың манифестін төмендегі панельден қарап шығыңыз">
 <!ENTITY projects.valid "Мерзімі">
 <!ENTITY projects.error "Қате">
 <!ENTITY projects.warning "Ескерту">

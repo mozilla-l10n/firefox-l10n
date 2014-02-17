@@ -170,6 +170,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "Барлық бақылау өрнектерін өшіру">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
