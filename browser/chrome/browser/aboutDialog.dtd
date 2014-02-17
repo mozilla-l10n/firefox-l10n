@@ -2,7 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "เกี่ยวกับ &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+
+<!ENTITY update.checkForUpdatesButton.label       "ตรวจหาการปรับปรุง">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ต">
+<!ENTITY update.updateButton.label                "เริ่มใหม่เพื่อปรับปรุง">
+<!ENTITY update.updateButton.accesskey            "ม">
+<!ENTITY update.applyButtonBillboard.label        "เรียกใช้การปรับปรุง…">
+<!ENTITY update.applyButtonBillboard.accesskey    "ร">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
 
 <!ENTITY warningDesc.version        "&brandShortName; เป็นรุ่นทดสอบที่อาจยังไม่เสถียร">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
@@ -41,8 +54,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "ตรวจสอบการปรับรุ่น…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "ตรวจสอบส่วนเสริม…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -90,4 +101,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "คุณกำลังอยู่บนช่องทางปรับรุ่น ">
-
+<!ENTITY channel.description.end    " update channel. ">

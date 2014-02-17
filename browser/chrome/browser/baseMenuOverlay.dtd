@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "ส่งคำแนะนำ…">
 <!ENTITY helpFeedbackPage.accesskey  "ส">
 
+<!ENTITY helpShowTour.label             "นำชม &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "ช">
+
 <!ENTITY preferencesCmdMac.label        "ปรับแต่ง…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
