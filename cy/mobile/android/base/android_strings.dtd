@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Gosodiadau">
 <!ENTITY pref_category_advanced "Uwch">
 <!ENTITY pref_category_customize "Cyfaddasu">
-<!ENTITY pref_category_search2 "Gosodiadau chwilio">
+<!ENTITY pref_category_search3 "Chwilio">
 <!ENTITY pref_category_display "Dangosydd">
 <!ENTITY pref_category_privacy_short "Preifatrwydd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
 <!ENTITY pref_category_add_search_providers "Ychwanegu rhagor o ddarparwyr chwilio">
+<!ENTITY pref_category_search_restore_defaults "Adfer peiriannau chwilio">
+<!ENTITY pref_search_restore_defaults "Adfer y rhagosodiadau">
+<!ENTITY pref_search_restore_defaults_summary "Adfer y rhagosodiadau">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_developer_remotedebugging_docs "Dysgu rhagor">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
+
+<!ENTITY pref_category_home "Cartref">
+<!ENTITY pref_category_home_panels "Paneli">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Cyfaddasu">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
-<!ENTITY pref_search_set_default "Gosod fel y rhagosodedig">
-<!ENTITY pref_search_default "Rhagosodedig">
-<!ENTITY pref_search_remove "Tynnu">
+
+<!ENTITY pref_dialog_set_default "Gosod fel y rhagosodedig">
+<!ENTITY pref_dialog_default "Rhagosodedig">
+<!ENTITY pref_dialog_remove "Tynnu">
+
 <!ENTITY pref_search_last_toast "Nid oes modd tynnu nac analluogi eich peiriant chwilio olaf.">
+
+<!ENTITY pref_panels_show "Dangos">
+<!ENTITY pref_panels_hide "Cuddio">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
 <!ENTITY find_close "Cau">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Lledu i Ddyfais">
+<!ENTITY media_play "Chwarae">
+<!ENTITY media_pause "Oedi">
+<!ENTITY media_stop "Atal">
 
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
 <!ENTITY pref_titlebar_mode_url "Dangos cyfeiriad tudalen">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Cuddio bar teitl wrth sgrolio">
+<!ENTITY pref_scroll_title_bar "Sgrolio\u0027r bar teitl">
 
 <!ENTITY history_removed "Wedi tynnu\u0027r dudalen">
 
