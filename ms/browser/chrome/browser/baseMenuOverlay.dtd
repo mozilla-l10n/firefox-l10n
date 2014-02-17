@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; Lawatan">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "Keutamaan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

@@ -47,17 +47,21 @@
 <!ENTITY prefs.ppLink.label         "Dasar Privasi">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "Notis Privasi">
+<!ENTITY determiningAcctStatus.label     "Menentukan status akaun anda…">
 <!ENTITY signedInUnverified.beforename.label "">
 
 
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+<!ENTITY manage.label                "Urus">
 
 
+<!ENTITY forget.label                "Lupakan Emel ini">
 
-
-
+<!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
 <!ENTITY welcome.signIn.label "Daftar Masuk">
+<!ENTITY welcome.createAccount.label "Cipta Akaun">
 
-
+<!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">

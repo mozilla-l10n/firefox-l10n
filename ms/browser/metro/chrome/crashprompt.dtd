@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Kami menggunakan laporan kemalangan untuk cuba bagi menyelesaikan masalah dan memperbaiki produk kami. Kami mengendalikan maklumat anda sebagaimana yang kami terangkan di dalam ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; dasar persendirian">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Sertakan alamat laman di mana saya berada">
 <!ENTITY crashprompt.acceptbutton    "Hantar laporan">
 <!ENTITY crashprompt.refusebutton    "Jangan hantar">
