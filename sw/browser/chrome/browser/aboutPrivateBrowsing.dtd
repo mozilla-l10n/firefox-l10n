@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Fungua Window ya Kibinaafsi">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "K">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Ili kuanza Kuvinjari kwa Kibinafsi, unaweza pia kuteua &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "Ili kukomesha Kuvinjari kwa Kibinafsi, unaweza kufunga dirisha hii.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Wakati tarakilishi hii haitakuwa na historia ya kuvinjari kwako, mtoaji huduma yako ya mtandao au mwajiri wako anaweza bado fuatilia kurasa unazotembelea.">
 <!ENTITY privatebrowsingpage.learnMore                 "Jifunze Zaidi">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "Ili kuanza Kuvinjari kwa Kibinafsi, unaweza pia kuteua &basePBMenu.label; &gt; &newPrivateWindow.label;.">

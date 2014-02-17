@@ -33,6 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "y">
 <!ENTITY setup.confirmPassword.label     "Dhibitisha Nywila">
 <!ENTITY setup.confirmPassword.accesskey "s">
+
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 

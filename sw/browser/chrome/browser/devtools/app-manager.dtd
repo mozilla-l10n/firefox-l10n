@@ -8,11 +8,11 @@
 
 
 <!ENTITY device.screenshot "Kielelezo-skrini">
-<!ENTITY device.screenshotTooltip "Fungua picha ya skrini ya hali ya sasa ya kifaa katika kichupo kipya.">
+
 <!ENTITY device.title "Kituo cha Kudhibiti Kifaa">
 <!ENTITY device.notConnected "Haijaunganishwa. Tafadhali unganisha kifaa chako.">
 <!ENTITY device.startApp "Anza">
-<!ENTITY device.startAppTooltip "Anzisha programu tumizi hii kwa kifaa hiki.">
+
 
 
 
@@ -22,20 +22,20 @@
 
 <!ENTITY device.certified "Imehakikishwa">
 <!ENTITY device.allow "Ruhusu">
-<!ENTITY device.allowTooltip "Ruhusa hii inakubaliwa kwa programu za aina hii.">
+
 <!ENTITY device.prompt "Kisituo">
-<!ENTITY device.promptTooltip "Ruhusa hii inahitaji maulizo ya mtumiaji kwa programu za aina hii.">
+
 <!ENTITY device.deny "Kataza">
-<!ENTITY device.denyTooltip "Ruhusa hii imekataliwa kwa programu za aina hii.">
+
 
 <!ENTITY device.installedAppsTooltip "Tazama orodha ya programu zilizosakinishwa katika kifaa hiki. Baadhi ya programu, kama vile programu zilizothibitishwa, zinaweza kutengwa kutoka kwa mtazamo huu.                ">
 <!ENTITY device.permissions "Ruhusa">
-<!ENTITY device.permissionsTooltip "Tazama jedwali la ruhusa zinazoweza kupatikana kwa aina tofauti za programu.">
+
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
 
 
-<!ENTITY connection.disconnectTooltip "Tenganisha kwenye kifaa au kiigaji cha sasa.">
+
 <!ENTITY connection.notConnected2 "Haijaunganishwa.">
 <!ENTITY connection.connectTo "Imeunganishwa kwa:">
 
@@ -44,11 +44,11 @@
 <!ENTITY connection.startSimulator "Anzisha Kiigaji">
 
 
-<!ENTITY connection.saveConnectionInfoTooltip "Hifadhi kipangishaji na kituo.">
+
 <!ENTITY connection.connecting "Inaunganisha...">
 <!ENTITY connection.disconnecting "Inatenganua...">
 <!ENTITY connection.cancel "Katiza">
-<!ENTITY connection.cancelConnectTooltip "Ghairi muunganisho unaoendelea.">
+
 
 <!ENTITY connection.or "ama">
 <!ENTITY connection.noSimulatorInstalled "Hakuna kiigaji kilichosakinishwa.">
@@ -61,7 +61,7 @@
 <!ENTITY projects.localApps "Programu za Ndani">
 
 <!ENTITY projects.addPackaged "Ongeza Programu Zilizofunganishwa">
-<!ENTITY projects.addPackagedTooltip "Ongeza programu mpya iliyofunganishwa (saraka) kutoka kwenye kompyuta yako.">
+
 <!ENTITY projects.addHosted "Ongeza Programu Iliyopangishwa">
 
 <!ENTITY projects.title "Programu za Ndani">

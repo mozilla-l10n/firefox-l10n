@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Masharti ya Huduma">
 <!ENTITY prefs.ppLink.label         "Sera ya Faragha">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Ingia">
+
+
