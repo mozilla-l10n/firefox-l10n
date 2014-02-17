@@ -45,3 +45,22 @@
 
 <!ENTITY prefs.tosLink.label        "Condicions d'utilizacion">
 <!ENTITY prefs.ppLink.label         "Politica de confidencialitat">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "Politica de confidencialitat">
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY signIn.label                "Connexion">
+<!ENTITY manage.label                "Gerir">
+<!ENTITY disconnect.label            "Desconnectar...">
+
+
+
+<!ENTITY welcome.signIn.label "Connexion">
+
+
+<!ENTITY welcome.useOldSync.label "Utilizatz una anciana version de Sync ?">

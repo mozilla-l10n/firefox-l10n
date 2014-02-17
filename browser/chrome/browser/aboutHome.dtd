@@ -22,6 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Podètz personalizar Firefox exactament coma vos agrada. <a>Causissètz demest de milierats de moduls complementaris</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; es un logicial liure e open source de la fondacion de tòca non lucrativa Mozilla Foundation. Vòstres dreches…">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcapaginas">
 <!ENTITY abouthome.historyButton.label   "Istoric">

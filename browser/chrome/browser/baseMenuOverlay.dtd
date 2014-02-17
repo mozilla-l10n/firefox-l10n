@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
 <!ENTITY helpFeedbackPage.accesskey  "B">
 
+<!ENTITY helpShowTour.label             "Visita guidada de &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "V">
+
 <!ENTITY preferencesCmdMac.label        "Preferéncias...">
 <!ENTITY preferencesCmdMac.commandkey   "Preferéncias...">
 
