@@ -7,6 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Anda telah membuka tab peribadi baru.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Anda bukan di tab peribadi.">
 
+<!ENTITY privatebrowsingpage.description            "Dalam tab peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelayaran, sejarah carian, sejarah muat turun, sejarah borang web, kuki, atau fail-fail sementara internet. Namun begitu, fail yang dimuat turun dan penanda yang anda buat akan disimpan.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "Walaupun peranti ini tidak menyimpan sebarang rekod mengenai sejarah pelayaran anda, pembekal perkhidmatan internet anda masih dapat mengesan halaman yang anda lawati.">

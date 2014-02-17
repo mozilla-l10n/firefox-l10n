@@ -14,21 +14,21 @@
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Kerosakan">
-<!ENTITY  crash_message2 "&brandShortName; mengalami masalah. Tab anda akan disenaraikan pada &brandShortName; Mula muka surat semasa mula semula.">
+<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Nahas">
+<!ENTITY  crash_message2 "&brandShortName; mengalami masalah dan berlaku nahas. Tab anda akan sepatutnya tersenarai di &brandShortName; Mulakan laman semasa ulang mula.">
 <!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
-
-<!ENTITY  crash_sorry "Kami minta maaf">
-<!ENTITY  crash_comment "Tambah komen (komen boleh dilihat oleh umum)">
+<!ENTITY  crash_include_url2 "Termasuk alamat laman sekarang ini">
+<!ENTITY  crash_sorry "Kami mohon maaf">
+<!ENTITY  crash_comment "Tambah komen (komen boleh dilihat umum)">
 <!ENTITY  crash_allow_contact2 "Benarkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
 <!ENTITY  crash_email "Emel anda">
-<!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan kerosakan?">
-<!ENTITY  sending_crash_report "Menghantar laporan kerosakan\u2026">
+<!ENTITY  crash_closing_alert "Keluar tanpa menghantar laporan nahas?">
+<!ENTITY  sending_crash_report "Menghantar laporan nahas\u2026">
 <!ENTITY  crash_close_label "Tutup">
-<!ENTITY  crash_restart_label "Mula semula &brandShortName;">
+<!ENTITY  crash_restart_label "Ulang mula &brandShortName;">
 <!ENTITY  exit_label "Keluar">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; App Web">
 <!ENTITY  launcher_shortcuts_empty "Tiada aplikasi web ditemui">
 
 <!ENTITY choose_file "Pilih Fail">
@@ -39,19 +39,19 @@
 <!ENTITY bookmark_added "Penandabuku ditambah">
 <!ENTITY bookmark_removed "Penandabuku dikeluarkan">
 <!ENTITY bookmark_updated "Penandabuku dikemaskini">
-<!ENTITY bookmark_options "Opsyen">
+<!ENTITY bookmark_options "Pilihan">
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Semalam">
-<!ENTITY history_week_section "7 hari yang lepas">
+<!ENTITY history_week_section "7 hari lalu">
 <!ENTITY history_older_section "Lebih dari 7 hari">
 
 <!ENTITY go "Pergi">
 <!ENTITY search "Carian">
-<!ENTITY reload "Muat Semula">
+<!ENTITY reload "Ulang muat">
 <!ENTITY forward "Maju">
 <!ENTITY menu "Menu">
-<!ENTITY back "Kembali">
+<!ENTITY back "Undur">
 <!ENTITY stop "Berhenti">
 <!ENTITY site_security "Laman Keselamatan">
 
@@ -59,28 +59,34 @@
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; tab">
 <!ENTITY new_tab_opened "Tab baru dibuka">
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
 <!ENTITY pref_category_advanced "Lanjutan">
 <!ENTITY pref_category_customize "Suaikan">
-<!ENTITY pref_category_search2 "Cari tetapan">
+<!ENTITY pref_category_search3 "Carian">
 <!ENTITY pref_category_display "Paparan">
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Pilihan data">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
-<!ENTITY pref_category_add_search_providers "Tambah lagi pembekal carian">
+<!ENTITY pref_category_add_search_providers "Tambah lagi penyedia carian">
+<!ENTITY pref_category_search_restore_defaults "Enjin carian dipulihkan">
+<!ENTITY pref_search_restore_defaults "Pulihkan kepada lalai">
+<!ENTITY pref_search_restore_defaults_summary "Pulihkan kepada lalai">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
 <!ENTITY pref_search_tip "PETUA: Tambah sebarang laman web ke senarai pembekal carian anda dengan menekan lama di ruangan carian.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
 <!ENTITY pref_developer_remotedebugging "Penyahpepijatan jauh">
-<!ENTITY pref_developer_remotedebugging_docs "Ketahui lebih lanjut">
-<!ENTITY pref_remember_signons "Ingat Kata Laluan">
+<!ENTITY pref_developer_remotedebugging_docs "Ketahui lagi">
+<!ENTITY pref_remember_signons "Ingat kata laluan">
+
+<!ENTITY pref_category_home "Utama">
+<!ENTITY pref_category_home_panels "Panel">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Suaikan">
@@ -90,27 +96,27 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Alatan pembangun">
 
-<!ENTITY pref_cookies_menu "Cecikut">
+<!ENTITY pref_cookies_menu "Kuki">
 <!ENTITY pref_cookies_accept_all "Bolehkan">
 <!ENTITY pref_cookies_not_accept_foreign "Dibolehkan, tidak termasuk pihak ke-3">
 <!ENTITY pref_cookies_disabled "Dilumpuhkan">
 
 <!ENTITY pref_donottrack_menu "Penjejakan">
 <!ENTITY pref_donottrack_disallow_tracking "Beritahu laman yang saya tidak mahu dijejaki">
-<!ENTITY pref_donottrack_allow_tracking "Beitahu laman yang saya mahu dijejaki">
+<!ENTITY pref_donottrack_allow_tracking "Beritahu laman yang saya mahu dijejaki">
 <!ENTITY pref_donottrack_no_pref "Jangan beritahu laman mengenai sebarang keutamaan penjejakan saya">
 
-<!ENTITY pref_char_encoding "Pengekodan Aksara">
+<!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
 <!ENTITY pref_clear_private_data "Bersihkan data peribadi">
-<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Bolehkan">
 <!ENTITY pref_plugins_tap_to_play "Sentuh untuk main">
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
-
-<!ENTITY pref_restore "Tab-tab">
+<!ENTITY pref_reflow_on_zoom4 "Atur semula teks">
+<!ENTITY pref_restore "Tab">
 <!ENTITY pref_restore_always "Sentiasa memulihkan">
 <!ENTITY pref_restore_quit "Jangan memulihkan selepas berhenti &brandShortName;">
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Mengenai &brandShortName;">
 <!ENTITY pref_vendor_faqs "Soalan Lazim">
 <!ENTITY pref_vendor_feedback "Beri maklum balas">
-<!ENTITY pref_search_set_default "Tetapkan sebagai lalai">
-<!ENTITY pref_search_default "Lalai">
-<!ENTITY pref_search_remove "Keluarkan">
+
+<!ENTITY pref_dialog_set_default "Tetapkan sebagai lalai">
+<!ENTITY pref_dialog_default "Lalai">
+<!ENTITY pref_dialog_remove "Singkir">
+
 <!ENTITY pref_search_last_toast "Anda tidak boleh mengeluarkan atau melumpuhkan enjin carian terakhir anda.">
+
+<!ENTITY pref_panels_show "Tunjuk">
+<!ENTITY pref_panels_hide "Sembunyi">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
@@ -183,7 +194,7 @@ size. -->
 
 <!ENTITY pref_update_autodownload2 "Muat turun kemaskini secara automatik">
 <!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
-
+<!ENTITY pref_update_autodownload_never "Tidak sekali">
 <!ENTITY pref_update_autodownload_always "Sentiasa">
 
 <!ENTITY quit "Keluar">
@@ -205,7 +216,7 @@ size. -->
 <!ENTITY close_all_tabs "Tutup Semua Tab">
 <!ENTITY tabs_normal "Tab-tab">
 <!ENTITY tabs_private "Persendirian">
-
+<!ENTITY tabs_synced "Diselaras">
 <!ENTITY set_image_fail "Tidak dapat menetapkan imej">
 <!ENTITY set_image_chooser_title "Tetapkan Imej Sebagai">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Sebelumnya">
 <!ENTITY find_next "Seterusnya">
 <!ENTITY find_close "Tutup">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Pemutusan kepada PEranti">
+<!ENTITY media_play "Memainkan">
+<!ENTITY media_pause "Jeda">
+<!ENTITY media_stop "Henti">
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
@@ -230,14 +248,16 @@ size. -->
 <!ENTITY contextmenu_site_settings "Sunting Tetapan Laman">
 <!ENTITY contextmenu_top_sites_edit "Sunting">
 <!ENTITY contextmenu_top_sites_pin "Pin Laman">
-
+<!ENTITY contextmenu_top_sites_unpin "Nyahsemat Laman">
 <!ENTITY contextmenu_add_search_engine "Tambah Enjin Carian">
 
 <!ENTITY pref_titlebar_mode "Tajuk bar">
 <!ENTITY pref_titlebar_mode_title "Tunjukkan tajuk halaman">
 <!ENTITY pref_titlebar_mode_url "Tunjukkan alamat halaman">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Sorok bar tajuk semasa penatalan">
+<!ENTITY pref_scroll_title_bar "Gulung bar tajuk">
 
 <!ENTITY history_removed "Halaman dikeluarkan">
 
@@ -250,9 +270,10 @@ size. -->
 
 <!ENTITY site_settings_title3       "Tetapan Laman">
 <!ENTITY site_settings_cancel       "Batal">
-
+<!ENTITY site_settings_clear        "Bersih">
 <!ENTITY site_settings_no_settings  "Tiada tetapan untuk dibersihkan.">
 
+<!ENTITY reading_list_added "Laman ditambah ke Senarai Pembacaan anda">
 <!ENTITY reading_list_removed "Halaman dikeluarkan dari Senarai Pembacaan anda">
 <!ENTITY reading_list_failed "Gagal untuk menambah halaman ke Senarai Pembacaan anda">
 <!ENTITY reading_list_duplicate "Halaman telah sedia ada di Senarai Pembacaan anda">
@@ -271,8 +292,8 @@ size. -->
 <!ENTITY button_yes "Ya">
 <!ENTITY button_no "Tidak">
 <!ENTITY button_clear_data "Bersihkan data">
-
-
+<!ENTITY button_set "Tetapkan">
+<!ENTITY button_clear "Bersih">
 
 <!ENTITY home_top_sites_title "Laman Web Popular">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -281,12 +302,12 @@ size. -->
 
 <!ENTITY home_history_title "Sejarah">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
-
+<!ENTITY home_last_tabs_title "Tab terakhir anda">
 <!ENTITY home_last_tabs_open "Buka semua tab dari masa lalu">
 <!ENTITY home_last_tabs_empty "Tab terbaru anda dipaparkan di sini.">
 <!ENTITY home_most_recent_title "Paling terbaru">
 <!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
-
+<!ENTITY home_reading_list_empty "Artikel yang anda simpan untuk paparan kemudian dipaparkan di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
@@ -352,6 +373,7 @@ dari Android">
 
 <!ENTITY searchable_description "Penandabuku dan sejarah">
 
+<!ENTITY devtools_remote_debugging_forward "Jangan lupa untuk menetapkan port teraju!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Kemaskini tersedia untuk &brandShortName;">

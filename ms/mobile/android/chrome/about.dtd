@@ -9,7 +9,7 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Semak untuk Kemas kini »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari kemas kini…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tiada kemaskini didapati">
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Kemas kini muat turun">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Memuat turun kemas kini…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Pasang kemaskini">
 <!ENTITY aboutPage.faq.label                    "Soalan lazim">

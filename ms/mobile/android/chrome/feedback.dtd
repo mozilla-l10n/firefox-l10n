@@ -12,4 +12,4 @@
 <!ENTITY feedback.tools.title           "Alatan">
 <!ENTITY feedback.allowTelemetry.title  "Hantar data prestasi">
 <!ENTITY feedback.forceCompat.title     "Paksa keserasian add-ons">
-
+<!ENTITY feedback.errorConsole.title    "Hidupkan Konsol Ralat">
