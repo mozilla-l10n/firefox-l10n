@@ -9,7 +9,7 @@
 <!ENTITY back.label            "Air ais">
 <!ENTITY forward.label         "Air adhart">
 <!ENTITY newtab.label          "Taba ùr">
-
+<!ENTITY newPrivateTab.label   "Taba prìobhaideach ùr">
 <!ENTITY closetab.label        "Dùin an taba">
 
 <!ENTITY autocompleteResultsHeader.label  "Na toraidhean">
@@ -105,6 +105,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -142,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "Thoir gnogag airson tilleadh gun duilleag roimhpe">
+<!ENTITY firstRunNewTab.label "Cuir taba ùr ris airson làrach ùr a rùrachadh">
+<!ENTITY firstRunStar.label "Cleachd comharran-lìn airson duilleagan a shàbhaladh air an coimhead thu a-rithist">
+<!ENTITY firstRunPin.label "Prìnich làrach sam bith ri sgrìn tòiseachadh Windows airson grad-chothrom fhaighinn oirre">
 <!ENTITY firstRunGotIt.label "Tha mi agaibh a-nis!">

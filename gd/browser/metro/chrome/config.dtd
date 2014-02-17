@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Ainm">
 
 <!ENTITY cancel.label           "Sguir dheth">
-
+<!ENTITY toggle.label           "Toglaich">
 
 <!ENTITY integer.label          "Àireamh shlàn">
 <!ENTITY string.label           "Sreang">
 <!ENTITY boolean.label          "Booleanach">
 
-
+<!ENTITY string.placeholder     "Cuir sreang a-steach">
+<!ENTITY number.placeholder     "Cuir àireamh a-steach">
