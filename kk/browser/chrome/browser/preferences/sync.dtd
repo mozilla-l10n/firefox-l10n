@@ -47,17 +47,19 @@
 <!ENTITY prefs.ppLink.label         "Жекелік саясаты">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "Жекелік ескертуы">
+<!ENTITY determiningAcctStatus.label     "Сіздің тіркелгінің статусы анықталуда…">
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "расталған жоқ">
 
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
 <!ENTITY manage.label                "Басқару">
-
-
-
+<!ENTITY disconnect.label            "Байланысты үзу…">
+<!ENTITY verify.label                "Эл. поштаны растау">
+<!ENTITY forget.label                "Бұл эл. поштаны алып тастау">
 
 <!ENTITY welcome.signIn.label "Кіру">
-
+<!ENTITY welcome.createAccount.label "Тіркелгіні құру">
 
