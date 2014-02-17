@@ -1,0 +1,69 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+
+<!ENTITY rights.intro-header    "Tungkol sa Iyong mga Karapatan">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+
+
+<!ENTITY rights.intro-point2-a "Ikaw ay hindi nabigyan ng anumang mga karapatan sa trademark o lisensya sa trademark ng Mozilla Foundation o anumang partido, kasama ang walang limitasyon ang Firefox pangalan o logo. Maaaring matagpuan ang karagdagang impormasyon sa mga trademark">
+<!ENTITY rights.intro-point2-b "dito">
+<!ENTITY rights.intro-point2-c ".">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "Ang iilang features sa &brandShortName;, kabilang na ang Crash Reporter, ay humihingi ng pahintulot bago magbigay ng feedback sa &vendorShortName;. Kung pumayag kayo magbigay ng feedback, pinapahintulutan din ninyo ang &vendorShortName; na gamitin ang feedback upang mapabuti ang mga produkto nito, i-publish ang feedback sa mga website nito, at ipamahagi ang feedback.">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "Kung paano namin ginagamit ang inyong personal information at feedback na pinadala sa &vendorShortName; gamit ang &brandShortName; ay nakasulat sa ">
+
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
+
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-b "Hindi pagpapagana sa Ligtas na Pagba-browse ng tampok ay hindi inirerekomenda bilang ito ay maaaring magresulta sa ka pagpunta sa hindi ligtas na mga site. Kung nais mong ganap na hindi paganahin ang tampok, sundin ang mga hakbang na ito:">
+
+
+
+<!ENTITY rights.safebrowsing-term4 "Disabled ang Safe Browsing">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-term1a "Sa URL bar, mag-type ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Mag-type geo.enabled">
+
+<!ENTITY rights.locationawarebrowsing-term4 "'Di na pinapagana ang Location-Aware Browsing">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!-- point 1 text for unbranded builds -->
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights2.webservices-term3 "Ikaw ay malugod na pagdating sa gumamit ng mga Serbisyo na may kasamang bersyon ng  brandShortName;, at ang  vendorShortName; nagbibigay ka ng mga karapatan nito na gawin ito.  vendorShortName; at ang mga tagapaglisensya nito magreserba lahat ng iba pang mga karapatan sa mga Serbisyo. Ang mga kataga na ito ay hindi inilaan upang limitahan ang anumang mga karapatan na ipinagkaloob sa ilalim ng bukas na mga lisensya ng pinagmulan naaangkop sa  brandShortName; at sa mga nararapat na mga bersyon ng pinagmulan ng code ng  brandShortName;.">
+
+
+
+

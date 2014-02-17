@@ -1,0 +1,699 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+
+
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "I-load ang Tab muli">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tab">
+<!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
+
+
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+
+
+<!ENTITY  moveToGroup.label                  "Ilipat sa Grupo">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Bagong Grupo">
+
+
+<!ENTITY  bookmarkAllTabs.label              "I-bookmark ang lahat ng mga tab…">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTab.label                 "I-Undo ang Pagsara ng Tab">
+<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
+<!ENTITY tabCmd.label "Bagong Tab">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openFileCmd.label "Magbukas ng file…">
+<!ENTITY openFileCmd.accesskey "b">
+<!ENTITY openFileCmd.commandkey "o">
+
+
+
+
+<!ENTITY printCmd.label "I-print...">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "p">
+
+
+
+
+
+<!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
+
+<!ENTITY pageSourceCmd.label "Source code ng web page">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Lumabas sa pagka-Full Screen">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Buong Screen">
+<!ENTITY fullScreenCmd.accesskey "B">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Ipakita ang Lahat ng Mga Tab">
+<!ENTITY showAllTabsCmd.accesskey "a">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY fullScreenRestore.tooltip "Ibalik">
+
+<!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
+<!ENTITY fullScreenAutohide.accesskey "I">
+<!ENTITY fullScreenExit.label "Itigil ang pag-gamit ng buong screen">
+<!ENTITY fullScreenExit.accesskey "I">
+<!ENTITY fullscreenAllowButton.label "Payagan">
+<!ENTITY fullscreenExitButton.label "Itakwil">
+
+<!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!ENTITY closeWindow.label "Isara ang Window">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "Mga bukmark">
+<!ENTITY bookmarksMenu.accesskey "b">
+<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang web page na ito">
+<!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY subscribeToPageMenupopup.label "Mag-subscribe sa web page na ito">
+<!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
+<!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
+<!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
+<!ENTITY unsortedBookmarksCmd.label "Bookmark na Hindi Magkasunod">
+<!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
+
+
+<!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
+
+
+<!ENTITY forwardButton.tooltip        "Pumunta sa susunod na web page">
+<!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
+
+
+
+<!ENTITY reloadButton.tooltip         "I-reload ang kasalukuyang web page">
+<!ENTITY stopCmd.label                "Tigil">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Ihinto ang pagkakarga ng pahina">
+<!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
+
+
+
+<!ENTITY locationItem.title           "Lokasyon">
+<!ENTITY searchItem.title             "Hanapin">
+<!-- Toolbar items -->
+
+<!ENTITY tabGroupsButton.label        "Mga Grupo ng Tab">
+
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.unsorted.label "Bookmark na Hindi Magkasunod">
+
+<!ENTITY viewBookmarksToolbar.label         "Tingnan ang Bookmarks Toolbar">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "H">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Mga Tools">
+<!ENTITY toolsMenu.accesskey          "T"> 
+
+<!ENTITY keywordfield.label           "Magdagdag ng Keyword para sa Search na ito...">
+<!ENTITY keywordfield.accesskey       "K">
+
+<!ENTITY downloads.label              "Mga Download">
+<!ENTITY downloads.tooltip            "Ipakita ang nangyayari sa mga kasalukuyang download">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Mga Add-ons">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
+
+
+
+<!ENTITY devToolsCmd.keytext          "F12">
+
+
+
+
+
+
+
+
+
+<!ENTITY inspectContextMenu.accesskey "I">
+
+
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Isara ang Developer Toolbar">
+
+
+
+
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
+
+
+
+
+
+
+
+
+<!ENTITY newNavigatorCmd.label        "Bagong Window">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "n">
+
+
+
+
+
+<!ENTITY undoCmd.key            "Z">  
+
+<!ENTITY redoCmd.label            "I-redo">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+
+<!ENTITY cutCmd.key             "X">  
+
+
+<!ENTITY copyCmd.key            "C">  
+
+
+<!ENTITY pasteCmd.key           "V">  
+
+<!ENTITY deleteCmd.label          "Burahin">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "B"> 
+
+<!ENTITY selectAllCmd.key         "A">  
+
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "Mga Preferences">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+
+<!ENTITY privateBrowsingCmd.commandkey          "M">
+
+<!ENTITY viewMenu.label         "Tingnan"> 
+<!ENTITY viewMenu.accesskey       "T"> 
+<!ENTITY viewTabGroups.label            "Mga Grupo ng Tab">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewToolbarsMenu.label       "Mga Toolbars"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+
+
+<!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "c">
+
+
+
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Bagong Sarang mga Window">
+
+
+<!ENTITY showAllHistoryCmd.commandkey "I">
+
+<!ENTITY appMenuCustomize.label "I-Customize">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
+
+<!ENTITY openCmd.commandkey           "l">
+
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Buksan ang Link sa Bagong Tab">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Buksan ang Link sa Bagong Window">
+<!ENTITY openLinkCmd.accesskey        "W">
+
+
+<!ENTITY openLinkCmdInCurrent.label     "Buksan ang Link">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openFrameCmdInTab.label      "Buksan ang Frame sa Bagong Tab">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
+<!ENTITY showOnlyThisFrameCmd.accesskey "k">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "I-load ang Frame muli">
+<!ENTITY reloadFrameCmd.accesskey     "l">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ipakita ang Source Code ng Selection">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Ipakita ang Source Code ng MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Tingnan ang source code ng web page">
+<!ENTITY viewPageSourceCmd.accesskey  "T">
+<!ENTITY viewFrameSourceCmd.label     "Ipakita ang Source Code ng Frame">
+<!ENTITY viewFrameSourceCmd.accesskey "k">
+<!ENTITY viewPageInfoCmd.label        "Tingnan ang impormasyon tungkol sa web page">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Ipakita ang Impormasyon ng Frame">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY reloadImageCmd.label         "I-load ang Imahe muli">
+<!ENTITY reloadImageCmd.accesskey     "l">
+<!ENTITY viewImageCmd.label           "Tanawan ang Imahe">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Ipakita ang Impormasyon ng Imahe">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+
+
+<!ENTITY viewVideoCmd.label           "Tanawan ang Bidyo">
+<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewBGImageCmd.label         "Ipakita ang Imahe ng Background">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
+<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang web page na ito">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
+
+
+<!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
+<!ENTITY savePageCmd.accesskey        "a">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "M">
+
+<!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "I-print ang Frame…">
+<!ENTITY printFrameCmd.accesskey      "p">
+
+
+
+
+<!ENTITY saveVideoCmd.label           "I-Save ang Video Bilang…">
+<!ENTITY saveVideoCmd.accesskey       "V">
+<!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
+<!ENTITY copyImageCmd.accesskey       "o">
+
+
+<!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+
+
+<!ENTITY thisFrameMenu.label              "Itong Frame">
+<!ENTITY thisFrameMenu.accesskey          "h">
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
+<!ENTITY mediaPause.label            "I-pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Ipakita ang Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Itago ang mga Kontrol">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "Buong Screen">
+<!ENTITY videoFullScreen.accesskey   "B">
+<!ENTITY videoSaveImage.label        "I-save ang Snapshot Bilang…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Ipakita ang mga Statistics">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Itago ang Statistics">
+<!ENTITY videoHideStats.accesskey    "S">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+
+<!ENTITY newTabButton.tooltip           "Buksan ang panibagong tab">
+<!ENTITY newWindowButton.tooltip        "Magbukas ng bagong window">
+
+
+<!ENTITY fullScreenButton.tooltip       "Ipakita ang window sa buong screen">
+
+
+
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+
+
+
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+
+<!ENTITY closeCmd.key                   "W">  
+
+
+<!ENTITY pageStyleMenu.label "Style ng Page">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "Walang Style">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+
+
+
+<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this web site">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Baguhin ang mga Prefences sa Pop-up Blocker…">
+<!ENTITY editPopupSettings.label "Baguhin ang mga Opsyon sa Pop-up Blocker…">
+<!ENTITY editPopupSettings.accesskey "e">
+<!ENTITY dontShowMessage.accesskey "d">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Lumipat ng Page Direction">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Lumipat ng Text Direction">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
+<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.commandkey "f">
+
+
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+
+
+
+
+
+<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
+<!ENTITY identity.connectedTo "Ikaw ay konektado sa">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "na pinapatakbo ni/ng">
+
+<!ENTITY identity.moreInfoLinkText "Karagdagang Impormasyon…">
+
+<!ENTITY identity.permissions "Pahintulot">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+
+<!ENTITY tabsToolbar.label "Mga tab ng browser">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
+
+<!ENTITY syncSetup.label              "I-Setup ang &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY social.closeNotificationItem.label "Hindi Ngayon">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Ulitin">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+
+
+<!ENTITY appMenuButton.tooltip         "Buksan ang menu ng &brandShortName;">
+
+<!ENTITY feedButton.tooltip            "Mag-subscribe sa web page na ito…">
+<!ENTITY bookmarksButton.tooltip       "Ipakita ang iyong mga bookmark">
+<!ENTITY historyButton.tooltip         "Ipakita ang mga pahinang binuksan mo kailan lang">
+<!ENTITY viewTabsOnTop.label           "Tabs sa Itaas">
+<!ENTITY viewTabsOnTop.accesskey       "T">
+
+
+
+<!ENTITY appMenuFind.label             "Hanapin…">
+<!ENTITY appMenuUnsorted.label         "Bookmark na Hindi Magkasunod">
+
+<!ENTITY appMenuGettingStarted.label   "Pagsisimula">
+
+
+
+
+
+
+
+<!ENTITY zoomControls.label            "Controls ng Zoom">
+<!ENTITY addonBarCloseButton.tooltip   "Isara ang Add-on Bar">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Urong/Sulong">
+<!ENTITY viewBookmarksSidebar.label    "Ipakita sa Sidebar">
+<!ENTITY bookmarksItem.title           "Mga bukmark">
+<!ENTITY openLocationCmd.label         "Magbukas ng lokasyon…">
+<!ENTITY openLocationCmd.accesskey     "l">
+<!ENTITY bookmarksMenuButton.tooltip   "Ipakita ang iyong mga bookmark">
+
+<!ENTITY tabGroupsButton.tooltip       "Magtipon ng mga tab">
+<!-- end of strings to be removed post-Australis -->

@@ -1,0 +1,57 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Pagsasangayon">
+<!ENTITY resetPass.label              "I-reset">
+<!-- Manage Account -->
+
+
+<!ENTITY changePassword2.label        "Palitang ang Password">
+<!ENTITY myRecoveryKey.label          "Aking Pampanumalik na Susi">
+
+
+<!ENTITY pairDevice.label             "I-pares sa isa pang Aparato">
+
+<!ENTITY syncMy.label               "Sync ang aking">
+<!ENTITY engine.bookmarks.label     "Mga Bukmark">
+<!ENTITY engine.bookmarks.accesskey "m">
+
+
+
+
+
+
+<!ENTITY engine.prefs.label         "Mga Preferences">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Mga Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
+<!-- Device Settings -->
+
+<!ENTITY unlinkDevice.label           "I-unlink ang Device na Ito">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Tuntunin ng Serbisyo">
+<!ENTITY prefs.ppLink.label         "Patakaran sa Privacy">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Mag-sign In">
+
+

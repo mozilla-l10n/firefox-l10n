@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title  "Palitan ang Master Password">
+
+<!ENTITY setPassword.oldPassword.label "Kasalukuyang na password:">
+<!ENTITY setPassword.newPassword.label "Bagong password:">
+<!ENTITY setPassword.reenterPassword.label "Bagong password (ulit):">
+
+
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "I-reset">
+<!ENTITY resetPassword.title  "Ireset ang Master Password">
+<!ENTITY resetPassword.text  "Pag nireset mo ang master password, makakalimutan lahat ng nakatagong web at email passwords, form data, personal certificates, at private keys. Gusto mo ba talagang ireset ang master password mo?">
+<!-- Values for getpassword.xul -->
+
+
+<!-- These should be common -->
+
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Seguridad">
+<!ENTITY pref.security.general.rHeader "Mga Seting ng Pangkalahatang Seguridad">
+<!ENTITY pref.security.general.header "Mga Seting ng Pangkalahatang Seguridad">
+
+
+
+
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "Kinukuha ang Sertipiko">
+
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
+
+
+<!ENTITY downloadCert.message3 "Bago ng magtiwala dito sa  CA  para sa anumang layunin, dapat mong suriin ang sertipiko at ang patakaran at pamamaraan (kung kinakailangan).">
+
+<!ENTITY downloadCert.viewPolicy.label "patakaran">
+
+
+<!-- Strings for the SSL client auth ask dialog -->
+<!ENTITY clientAuthAsk.message1 "Ang site na ito ay humiling sa iyo na makilala ang iyong sarili sa isang sertipiko:">
+
+
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Piliin ang Sertipiko">
+
+
+
+<!ENTITY pkcs12.setpassword.message  "Poprotektahan ng certificate backup password ang backup file na gagawin mo. Kailangan mong magset ng password para magpatuloy sa pagbackup.">
+
+
+<!ENTITY pkcs12.setpassword.reminder "Mahalaga: Kung nakalimutan mo ang iyong password sa backup certificate, hindi mo magagawang ibalik ang backup na ito mamaya. Paki-record ang mga ito sa isang ligtas na lokasyon.">
+
+<!ENTITY pkcs12.getpassword.message "Mangyaring ipasok ang password na ginamit sa encryption itong certificate backup.">
+
+<!ENTITY chooseToken.message1 "Mamili ng token.">
+
+<!ENTITY escrowWarn.message1 "Mahalaga: Ang certificate authority na ito ay tatanungin upang makagawa ng isang backup ng iyong encryption private key.">
+<!ENTITY escrowWarn.benefit1 "Pag nawalan ka ng access sa encryption private key mo, makakapag-request ka ng kopya mula sa certificate authority na ito.">
+<!ENTITY escrowWarn.message2 "Sa kabilang dako, nakatago sa certificate authority ang encryption private key mo, at maaaring gamitin upang mabasa ang iyong encrypted mail nang walang pahintulot sa iyo.">
+<!ENTITY examineCert.label "Tingnan ang Sertipiko">
+<!ENTITY examineCert.accesskey "V">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+
+<!-- Form Signing confirmation prompt -->
+<!ENTITY formSigning.cert "Paglagda ng Sertipiko">
+
+<!-- Strings for protectedAuth dialog -->
+
+
+
+<!ENTITY certErrorDlg.title "Nagbigo ang Panatag na Koneksiyon">
+<!ENTITY certErrorDlg.info1 "Possibleng may problema sa configuration ng server o 'di kaya ay may nais magpanggap bilang yung server na tinutukoy.">
+<!ENTITY certErrorDlg.info2 "Kung ikaw ay matagumpay na nakakonekta sa server na ito sa nakalipas, maaaring pansamantala lamang ang problema. Subukan mo ulit pagkalipas ng ilang minuto. ">

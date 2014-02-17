@@ -1,0 +1,31 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY            windowtitle.label      "&brandShortName; - Piliin ang User Profile">
+
+<!ENTITY            profilename.label      "Ngalan ng Profile:">
+
+<!ENTITY            start.label            "Simulan ang &brandShortName;">
+
+
+<!ENTITY            availprofiles.label    "Mga Magagamit na Pangunahing File">
+
+<!ENTITY            newButton.label        "Gumawa ang Profile…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "I-rename ang Profile…">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Burahin ang Profile…">
+<!ENTITY            deleteButton.accesskey "B">
+<!-- manager entities -->
+
+<!ENTITY            pmDescription.label    "&brandShortName; nakaimbak na impormasyon tungkol sayong pinagmulan at kagustohang pagkakilanlan.">
+
+<!ENTITY            offlineState.label    "Gumawa nang offline">
+<!ENTITY            offlineState.accesskey "o">
+
+<!ENTITY            autoSelect.label       "Huwag magtanong sa umpisa">
+<!ENTITY            autoSelect.accesskey   "s">

@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY window.maxWidth              "400">
+
+
+
+<!ENTITY safeModeDescription3.label   "Safe Mode ay isang espesyal na mode ng brandShortName ; na maaaring magamit upang i-troubleshoot ang isyu.">
+<!ENTITY safeModeDescription4.label   "Ang iyong mga add-ons at pasadyang mga setting ay panandaliang hindi gagana.">
+
+<!ENTITY resetProfileInstead.label    "Maaari mo ring I-reset ang brandShortName ; kung nais mong magsimula muli.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription2.label " brandShortName; ay sarado inaasahang habang nagsisimula. Ito ay maaaring sanhi ng mga add-ons o iba pang mga problema. Maaari mong subukan upang lutasans ang problema sa pamamagitan ng pag-reset  brandShortName; sa default na estado o pag-troubleshoot sa Safe Mode.">
+<!ENTITY resetProfileFooter.label       "Lahat ng iba pa ay na-reset sa mga factory defaults.">
+<!ENTITY safeModeInstead.label          "Kung hindi mo ito gusto, maaari mong ipagpatuloy sa Safe Mode upang gawin ang iyong sariling pag-troubleshoot sa iyong mga add-ons at pasadyang mga setting ng panandaliang hindi pinagana.">

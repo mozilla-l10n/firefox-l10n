@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "Pangkalahatan">
+
+<!ENTITY  warnAddonInstall.label        "Bigyan ako ng babala kapag nag-i-install ang mga site ng add-ons">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+
+<!ENTITY  blockAttackSites.label     "Iharang ang naiulat na mga site na umaatake">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "Harangin ang mga inuulat na palsipikadong web">
+<!ENTITY  blockWebForgeries.accesskey "b">
+
+<!ENTITY  addonExceptions.label         "Mga exceptions...">
+<!ENTITY  addonExceptions.accesskey     "e">
+
+
+<!ENTITY  passwords.label               "Passwords">
+
+<!ENTITY  rememberPasswords.label       "Tandaan ang passwords para sa mga sites">
+<!ENTITY  rememberPasswords.accesskey   "r">
+<!ENTITY  passwordExceptions.label      "Mga exceptions...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "Gamitin ng master password">
+<!ENTITY  useMasterPassword.accesskey    "G">
+<!ENTITY  changeMasterPassword.label     "Palitan ang Master Password...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+

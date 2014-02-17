@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                 "Private Browsing">
+<!ENTITY privatebrowsingpage.title.normal          "Gusto mo bang simulan ang Private Browsing?">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Bagamat hindi dinodokumento nitong computer ang iyong browsing history puwede pa ring malaman ng iyong internet service provider o kumpanya ang mga binibista mong website.">
+<!ENTITY privatebrowsingpage.learnMore                 "Alamin pa">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->

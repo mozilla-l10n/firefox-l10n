@@ -1,0 +1,104 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+<!ENTITY certmgr.tab.orphan2                  "Iba pa">
+
+
+
+<!ENTITY certmgr.mine                         "Mayroon kang mga sertipiko mula sa mga organisasyong ito na makilala mo:">
+<!ENTITY certmgr.others                       "Mayroon kang mga sertipiko sa file na makilala ang mga taong ito:">
+<!ENTITY certmgr.websites2                    "Mayroon kang mga sertipiko sa file na kilalanin ang mga server:">
+<!ENTITY certmgr.cas                          "Mayroon kang mga sertipiko sa file na kilalanin ng mga certificate authorities na ito:">
+<!ENTITY certmgr.orphans                      "Mayroon kang mga sertipiko sa file na hindi magkasya sa anumang iba pang mga kategorya:">
+
+
+
+
+
+<!ENTITY certmgr.pending.label                "Kasalukuyan pang beneberipika ang certificate...">
+
+
+
+
+<!ENTITY certmgr.certdetail.title             "Detalye ng Sertipiko">
+
+<!ENTITY certmgr.certdetail.o                 "Organisasyon (O)">
+
+
+
+
+
+<!ENTITY certmgr.editcert.title               "I-edit ang Security Certificate Settings">
+<!ENTITY certmgr.editcacert.title             "I-edit ang CA certificate trust settings">
+<!ENTITY certmgr.editcert.edittrust           "I-edit ang trust settings:">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
+
+<!ENTITY certmgr.editcert.trustobjsign        "Ang certificate na ito ay may kakayahan na i-identify ang mga may gawa ng software.">
+<!ENTITY certmgr.editemailcert.title          "I-edit ang email certificate trust settings">
+
+
+
+
+<!ENTITY certmgr.deletecert.title             "Burahin ang Sertipiko">
+<!ENTITY certmgr.deletecert.beforename        "Ikaw ay nakiusap na alisin ang sertipikong ito:">
+<!ENTITY certmgr.deletecert.aftername         "Sigurado ka bang gusto mong burahin ang sertipiko na ito?">
+<!ENTITY certmgr.deleteusercert.title         "Burahin ang Iyong Sertipiko">
+<!ENTITY certmgr.deleteusercert.beforename    "Ikaw ay nakiusap na alisin ang sertipikong ito:">
+<!ENTITY certmgr.deleteusercert.aftername     "Kapag dini-lete mo ang sertipikong ito, hindi mo na mababasa ang mga e-mail na-encrypt gamit ito.">
+
+<!ENTITY certmgr.certname                     "Pangalan ng Sertipiko">
+
+
+
+
+
+
+
+
+
+<!ENTITY certmgr.view2.label                  "Tingnan…">
+<!ENTITY certmgr.view2.accesskey              "V">
+
+
+
+
+<!ENTITY certmgr.add.label                    "Idagdag">
+<!ENTITY certmgr.add.accesskey                "a">
+<!ENTITY certmgr.export.label                 "I-export...">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Burahin…">
+<!ENTITY certmgr.delete2.accesskey            "D">
+
+
+
+
+<!ENTITY certmgr.backupall2.label             "I-backup ang Lahat…">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "I-import...">
+<!ENTITY certmgr.restore2.accesskey           "m">
+
+
+
+
+
+
+
+
+
+<!ENTITY exceptionMgr.title                   "Magdagdag ng Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.label   "I-Confirm ang Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Ang mga totoong bangko, tindahan, at iba pang public sites ay hindi ipagagawa ang ganito sa iyo.">
+
+<!ENTITY exceptionMgr.certlocation.url        "Lokasyon:">
+<!ENTITY exceptionMgr.certlocation.download   "Manguha ng Certificate">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+
+<!ENTITY exceptionMgr.certstatus.viewCert     "Tingnan…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "v">
+
+

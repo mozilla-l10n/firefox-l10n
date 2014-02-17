@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY paperInput.label "Laki ng Papel:">
+<!ENTITY paperInput.accesskey "P">
+
+
+
+
+
+
+
+
+
+<!ENTITY colorGroup.label "Kulay:">
+
+
+<!ENTITY colorRadio.label "Kulay">
+<!ENTITY colorRadio.accesskey "C">
+
+
+
+
+
+
+<!ENTITY topInput.label "Tuktok:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "Ilalim:">
+<!ENTITY bottomInput.accesskey "I">
+<!ENTITY leftInput.label "Kaliwa:">
+<!ENTITY leftInput.accesskey "l">
+<!ENTITY rightInput.label "Kanan:">
+<!ENTITY rightInput.accesskey "R">

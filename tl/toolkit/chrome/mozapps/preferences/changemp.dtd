@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY setPassword.title                 "Palitan ang Master Password">
+
+<!ENTITY setPassword.oldPassword.label     "Kasalukuyang na password:">
+<!ENTITY setPassword.newPassword.label     "Ilagay ang bagong password:">
+<!ENTITY setPassword.reenterPassword.label "Ilagay-ulit and password:">
+
+
+<!ENTITY masterPasswordDescription.label   "Ang Master Password ay ginagamit para maprotektahan ang mga maseselang impormasyon tulad ng site passwords. Kung ikaw ay gagawa ng master password, ikaw ay tatanungin na mag-enter ng isa kada oras kung brandshortname; ibinalik ang sinave na impormasyon na protektado ng isang passowrd.">
+<!ENTITY masterPasswordWarning.label       "Mangyaring tiyakin na natandaan mo ang Master Password na itinakda mo. Kung nakalimutan mo ang iyong Password sa Master, hindi muna maaring ma-access ang anumang impormasyon na protektado sa pamamagitan nito.">

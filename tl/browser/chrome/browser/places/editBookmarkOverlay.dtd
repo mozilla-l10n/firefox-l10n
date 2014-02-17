@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "Pangalan:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Lokasyon:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Lokasyon ng Feed:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasyon ng Site:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ipakita ang Lahat ng mga Bookmark Folder">
+
+
+
+
+<!ENTITY editBookmarkOverlay.description.label               "Paglalarawan:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+
+
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ipakita ang lahat ng tags">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "I-load ang bookmark na ito sa sidebar">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "Mamili">
+
+

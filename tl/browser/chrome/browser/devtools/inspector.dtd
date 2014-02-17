@@ -1,0 +1,18 @@
+
+
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopyahin ang Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopyahin ang Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+
+
+<!ENTITY inspectorHTMLDelete.label          "Burahin ang Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "d">
+
+<!ENTITY inspector.selectButton.tooltip     "Piliin ang elemento gamit ang mouse">
+
+
+

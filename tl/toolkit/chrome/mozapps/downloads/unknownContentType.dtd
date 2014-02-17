@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  actionQuestion.label        "Ano dapat gawin ng &brandShortName; sa file na ito?">
+
+<!ENTITY  openWith.label              "I-Open gamit ang">
+<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  other.label                 "Iba…">
+
+
+
+<!ENTITY  rememberChoice.label        "Gawin ito nang awtomatiko para sa mga file na tulad nito mula ngayon.">
+<!ENTITY  rememberChoice.accesskey    "a">
+
+
+<!ENTITY  chooseHandlerMac.label      "Mamili">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+
+
+
+<!ENTITY  unknownPromptText.label     "Nais mo bang i-save ang file na ito?">

@@ -1,0 +1,71 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  checking.title                  "Sinusuri para sa mga Update">
+<!ENTITY  updateCheck.label               "Hinahanap para sa bagong mga bersyon ng &brandShortName;…">
+
+<!ENTITY  pluginupdatesfound.title        "Hinanap ang Update para sa mga Plugin">
+<!ENTITY  pluginupdatesfound.label        "Bagong bersyon ng isa o marami pa ng iyong plugins ang nahanap.">
+<!ENTITY  pluginupdateslink.label         "Tingnan kung paano i-upgrade ang iyong plugins.">
+
+<!ENTITY  noupdatesfound.title            "Hindi Nahanap ang mga Update">
+<!ENTITY  noupdatesautoenabled.intro      "Walang mga update magagamit.&brandShortName; ay suriin pana-panahon para sa mga update.">
+<!ENTITY  noupdatesautodisabled.intro     "Walang mga update magagamit.Mangyaring suriin muli sa paglaon o paganahin ang &brandShortName; awtomatikong pag-update ng pagsuri.">
+
+<!ENTITY  manualUpdate.title              "Hindi Maka-update">
+
+
+<!ENTITY  manualUpdateGetMsg.label        "Makukuha mo ang pinakabagong bersyon ng &brandShortName; sa:">
+
+
+
+
+<!ENTITY  incompatibleCheck.title         "Sinusuri ang kompatibilidad ng mga add-on">
+<!ENTITY  incompatibleCheck.label         "Hinahanap para sa bagong mga bersyon ng mga add-on mo…">
+
+<!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
+
+<!ENTITY  evangelism.desc                 "Mahigpit na inirerekomenda na mag-aplay mo ito 
+i-update ang para &brandShortName; sa lalong madaling panahon.">
+
+
+<!ENTITY  license.introText               "Tuntunin at Kondisyon sa paggamit ng software na ito.">
+<!ENTITY  license.instructionText         "Pakibasa ang sumusunod na kasunduan. Gamitin ang scroll bar para mabasa ang buong kasunduan.">
+<!ENTITY  license.accept                  "Tinatanggap ko ang mga tuntunin ng Kasunduan">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "Hindi ko tinatanggap ang mga tuntunin ng Kasunduan">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "hindi akma na Add-ons ang nahanap.">
+
+<!ENTITY  downloading.intro               "Dina-download na ang update">
+<!ENTITY  connecting.label                "Kumokonek sa update server…">
+
+
+<!ENTITY  viewDetails.tooltip             "Tingnan ang mga detalye para sa update na ito">
+
+
+
+<!ENTITY  error.label                     "May mga problema check para, download, o i-install ito 
+update. brandShortName.">
+                                           
+<!ENTITY  errorManual.label               "Maaari mong i-update ng mano-mano  brandShortName;  sa pamamagitan ng pagbisita sa link na ito 
+at-download ang pinakabagong bersyon:">
+
+
+<!ENTITY  errorCertAttrNoUpdate2.label    "Isang bagay ang pumipigil mula sa pag-update ng ligtas. Mangyaring siguraduhin na mayroon kang mga pinakabagong bersyon ng  brandShortName; mula sa:">
+<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan kang lansihin  brandShortName; sa pagtanggap ng isang 
+hindi secure na-update. Mangyaring makipag-ugnayan sa iyong network provider at humingi ng tulong.">
+
+<!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
+
+
+<!ENTITY  finishedBackground.name         "I-update:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+
+<!ENTITY  installed.intro                 "Ang update ay matagumpay na na-install.">
+<!ENTITY  whatsnew.label                  "Magbasa nang higit pa tungkol sa kung ano ang bago...">
+
+
+

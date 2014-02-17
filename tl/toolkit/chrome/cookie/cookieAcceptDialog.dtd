@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+<!ENTITY     button.allow.label             "Payagan">
+<!ENTITY     button.allow.accesskey         "a">
+
+
+<!ENTITY     button.deny.label              "Itakwil">
+<!ENTITY     button.deny.accesskey          "D">
+
+<!ENTITY     dialog.title                   "Pumayag na gumawa ng cookie">
+<!ENTITY     dialog.remember.label          "Gamitin sa lahat ng mga cookie mula sa site na ito ang kagustuhan ko">
+<!ENTITY     dialog.remember.accesskey      "u">

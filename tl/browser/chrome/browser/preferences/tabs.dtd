@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "Sa halip, buksan ang mga bagong window sa bagong tab">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Bigyan ako ng babala kung isasara lahat ng tabs">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "Bigyan ako ng babala kapag nagbubukas ng maramihang mga tab na maaaring makapagpabagal sa &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+
+
+<!ENTITY switchToNewTabs.label        "Kapag nagbukas ako ng link sa bagong tab, ilipat agad ito doon">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Ipakita ang paunang-tingin na tab sa Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Tabs">

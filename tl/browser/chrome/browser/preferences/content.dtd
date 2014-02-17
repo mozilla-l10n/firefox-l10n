@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  blockPopups.label           "Harangin ang mga pop-up windows">
+<!ENTITY  blockPopups.accesskey       "H">
+<!ENTITY  popupExceptions.label       "Mga Exceptions...">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  fontsAndColors.label        "Mga Fonts at Mga Kulay">
+
+<!ENTITY  defaultFont.label           "Default font:">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "Sukat:">
+<!ENTITY  defaultSize.accesskey       "S">
+
+<!ENTITY  advancedFonts.label         "Advanced…">
+<!ENTITY  advancedFonts.accesskey     "A">
+
+<!ENTITY  colors.label                "Mga Kulay…">
+<!ENTITY  colors.accesskey            "M">
+
+
+<!ENTITY languages.label              "Mga Wika">
+<!ENTITY chooseLanguage.label         "Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina">
+<!ENTITY chooseButton.label           "Mamili">
+<!ENTITY chooseButton.accesskey       "o">

@@ -1,0 +1,53 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  offline.toggleOffline.label     "Mag-online na ngayon.">
+<!ENTITY  offline.toggleOffline.accesskey "g">
+
+<!ENTITY  mismatch.win.title              "Incompatible na Add-ons">
+<!ENTITY  mismatch.top.label              "Ang mga sumusunod na add-ons ay hindi compatible sa version na ito ng &brandShortName; kaya't naka-disable:">
+
+
+<!ENTITY  checking.wizard.title           "Naghahanap ng Compatible na Add-ons">
+<!ENTITY  checking.top.label              "Naghahanap ng updates para sa add-ons na incompatible…">
+<!ENTITY  checking.status                 "Maghintay po ng ilang sandali…">
+
+<!ENTITY  found.wizard.title               "Nahanap ang mga Compatible na Add-on">
+<!ENTITY  found.top.label                 "Piliin ang add-ons na gusto mong iinstall:">
+<!ENTITY  found.disabledXPinstall.label   "Ang mga update na ito ay hindi maaaring i-install dahil ang software na-install ay kasalukuyang 
+hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
+<!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
+<!ENTITY  found.enableXPInstall.accesskey "A">
+
+<!ENTITY  installing.wizard.title         "Ini-install ang mga Compatible na Add-on">
+<!ENTITY  installing.top.label            "Kinukuha at ini-install ang mga update sa iyong mga add-on…">
+
+<!ENTITY  noupdates.wizard.title          "Walang Nahanap ang mga Compatible na Add-on">
+<!ENTITY  noupdates.intro.desc            " brandShortName; ay hindi makahanap ng mga update sa iyong 
+tugma upang magdagdag ng-ons.">
+<!ENTITY  noupdates.error.desc            "Nagkaroon ng problema habang naghahanap ng updates.">
+<!ENTITY  noupdates.checkEnabled.desc     "brandshorname ; ay hindi upang makahanap ng mga update sa iyong                                            hindi tugma magdagdag ng-ons.">
+
+
+
+
+
+<!ENTITY  adminDisabled.wizard.title      "Hindi makapag-check ng updates">
+<!ENTITY  adminDisabled.warning.label     "Ito ay hindi posible upang suriin para sa mga update sa hindi tugma add-ons 
+dahil ang pag-install ng software para sa ang &brandShortName; ay hindi pinagana. 
+Mangyaring makipag-ugnay sa inyong System Administrator para sa tulong.">
+
+<!ENTITY  versioninfo.wizard.title        "Tinitingnan ang Compatibility ng Add-ons">
+<!ENTITY  versioninfo.top.label           "Sinusuri ang iyong mga add-ons para bagang na ito 
+brandShortName.">
+<!ENTITY  versioninfo.waiting             "Maghintay po ng ilang sandali…">
+
+<!ENTITY  installerrors.wizard.title      "Nagkaproblema habang iniinstall ang updates">
+
+<!-- general strings used by several of the finish pages -->
+
+<!ENTITY  clickFinish.label               "Lagatikin ang Tapos upang magpatuloy sa &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Lagatikin ang Tigil upang magpatuloy sa &brandShortName;.">
+

@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/openLocation.xul -->
+
+
+<!ENTITY enter.label "Magbigay ng web location (URL), o itukoy ang local na file na gustong buksan:">  
+<!ENTITY chooseFile.label "Pumili ng File…">
+<!ENTITY newTab.label "Bagong Tab">
+<!ENTITY newWindow.label "Bagong Window">
+<!ENTITY topTab.label "Kasalukuyang Tab">
+<!ENTITY caption.label "Magbukas ng Web Location">
+<!ENTITY openWhere.label "Buksan sa:">
+<!ENTITY openBtn.label "Buksan">

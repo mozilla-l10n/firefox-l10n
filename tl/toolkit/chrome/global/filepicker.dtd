@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Hanapin sa:">
+<!ENTITY lookInMenuList.accesskey   "L">
+
+
+
+
+<!ENTITY name.label             "Pangalan">
+<!ENTITY size.label             "Sukat">
+<!ENTITY lastModified.label     "Huling Binago">
+<!ENTITY showHiddenFiles.label  "Ipakita ang tagong files at directoies">
+<!ENTITY showHiddenFiles.accesskey  "s">
+
+<!ENTITY noPermissionError.label "Wala kayong pahintulot na tingnan ang directory na ito.">
+
+
+<!ENTITY folderNew.tooltiptext  "Gumawa ng bagong direktory">
