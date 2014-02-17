@@ -9,6 +9,7 @@
 <!ENTITY back.label "Siar">
 <!ENTITY forward.label "Ar Aghaidh">
 <!ENTITY newtab.label "Cluaisín Nua">
+<!ENTITY newPrivateTab.label "Cluaisín Nua Príobháideach">
 <!ENTITY closetab.label "Dún Cluaisín">
 
 <!ENTITY autocompleteResultsHeader.label "Do Chuid Torthaí">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +120,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "Ar lorg do chuid cluaisíní? Tarraing anuas nó deaschliceáil">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "See where you've been on the Web">
 <!ENTITY firstRunWelcome.label "Fáilte go &brandShortName;">
 <!ENTITY firstRunDifferent.label "Difriúil, d'aon turas">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+<!ENTITY firstRunBack.label "Tap to go back to the previous page">
+<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
+<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
+<!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
+<!ENTITY firstRunGotIt.label "Tuigim!">

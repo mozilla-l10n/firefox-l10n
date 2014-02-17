@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Cuardaigh Teachtaireachtaí">
 <!ENTITY results.label "Torthaí">
-<!ENTITY moveHereMenu.label "Bog Anseo">
-<!ENTITY moveHereMenu.accesskey "A">
 <!ENTITY moveButton.label "Bog Go">
 <!ENTITY moveButton.accesskey "G">
 <!ENTITY closeCmd.key "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Ord Fála">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáint">
-<!ENTITY threadColumn.tooltip "Cliceáil chun snáitheanna na dteachtaireachtaí a thaispeáint">
-<!ENTITY fromColumn.tooltip "Cliceáil chun sórtáil de réir Ó">
-<!ENTITY recipientColumn.tooltip "Cliceáil chun sórtáil de réir faighteora">
-<!ENTITY subjectColumn.tooltip "Cliceáil chun sórtáil de réir ábhair">
-<!ENTITY dateColumn.tooltip "Cliceáil chun sórtáil de réir dáta">
-<!ENTITY priorityColumn.tooltip "Cliceáil chun sórtáil de réir tosaíochta">
-<!ENTITY tagsColumn.tooltip "Cliceáil chun sórtáil de réir clibe">
-<!ENTITY accountColumn.tooltip "Cliceáil chun sórtáil de réir cuntais">
-<!ENTITY statusColumn.tooltip "Cliceáil chun sórtáil de réir stádais">
-<!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir méide">
-<!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádais dramhphoist">
-<!ENTITY unreadColumn.tooltip "Teachtaireachtaí gan léamh sa snáithe">
-<!ENTITY totalColumn.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
-<!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádais léite">
-<!ENTITY receivedColumn.tooltip "Cliceáil chun sórtáil de réir dáta fála">
-<!ENTITY starredColumn.tooltip "Cliceáil chun sórtáil de réir réiltín">
-<!ENTITY locationColumn.tooltip "Cliceáil chun sórtáil de réir suímh">
-<!ENTITY idColumn.tooltip "Cliceáil chun sórtáil de réir ord fála">
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Teachtaireachtaí gan léamh sa snáithe">
+<!ENTITY totalColumn2.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">

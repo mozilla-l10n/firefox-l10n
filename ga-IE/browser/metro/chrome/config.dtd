@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label "Cuardaigh">
-<!ENTITY newpref.label "Cuir Sainrogha Nua Leis">
 <!ENTITY addpref.name "Ainm">
-<!ENTITY addpref.value "Luach">
 
 <!ENTITY cancel.label "Cealaigh">
-<!ENTITY reset.label "Bánaigh">
-<!ENTITY done.label "Déanta">
+<!ENTITY toggle.label "Scoránaigh">
 
 <!ENTITY integer.label "Slánuimhir">
 <!ENTITY string.label "Teaghrán">
 <!ENTITY boolean.label "Boole">
+
+<!ENTITY string.placeholder "Cuir teaghrán isteach">
+<!ENTITY number.placeholder "Cuir uimhir isteach">

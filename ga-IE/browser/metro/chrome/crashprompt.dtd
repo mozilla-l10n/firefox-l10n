@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink "What's in a crash report?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "This may include things like open pages, text typed into forms and the content of open messages, recent browsing history, or geolocation shared with a site.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Úsáidimid na tuairiscí seo chun fadhbanna a réiteach agus feabhas a chur ar ár gcuid táirgí. Úsáidimid do chuid faisnéise de réir na dtéarmaí inár ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Úsáidimid na tuairiscí seo chun fadhbanna a réiteach agus feabhas a chur ar ár gcuid táirgí. Úsáidimid do chuid faisnéise de réir na dtéarmaí inár ">
 <!ENTITY crashprompt.privacyPolicyLink "bpolasaí príobháideachta &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">
 <!ENTITY crashprompt.acceptbutton "Seol tuairiscí">
 <!ENTITY crashprompt.refusebutton "Ná seol">
