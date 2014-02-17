@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Oedi Porwr">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Trywydd Crog">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramau">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramau Wedi eu Casglu gan Ategion">
 
+<!ENTITY aboutTelemetry.toggle "  Cliciwch i doglo'r dewis">
 
 <!ENTITY aboutTelemetry.emptySection "  (Heb gasglu data)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Dangos data bras o'r oedi">
 
+<!ENTITY aboutTelemetry.filterText "  Hidl (llinyn neu /regexp/)">
