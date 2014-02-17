@@ -4,7 +4,7 @@
 
 <!ENTITY charsetMenu.label             "Simvol Kodlaşdırması">
 <!ENTITY charsetMenu.accesskey         "S">
-
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
 <!-- A reserved for Arabic -->
 
 

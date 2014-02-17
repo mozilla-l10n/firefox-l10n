@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Məxfi Pəncərə Aç">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Gizli baxışı başlatmaq üçün &basePBMenu.label; &gt; &newPrivateWindow.label;.-ni də seçə bilərsiniz.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "Gizli səyahəti dayandırmaq üçün bu pəncərəni bağlaya bilərsiniz.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Baxış keçmişinizlə bağlı qeydlər bu komputerdə saxlanmasa belə, internet provayderiniz və ya işverəniniz yenə də açdığınız səhifələri görə bilər.">
-<!ENTITY privatebrowsingpage.learnMore                 "Daha çox məlumat alın">
+<!ENTITY privatebrowsingpage.moreInfo                  "Baxış keçmişinizlə bağlı qeydlər bu komputerdə saxlanmasa belə, internet provayderiniz və ya işə götürəniniz yenə də açdığınız səhifələri görə bilər.">
+<!ENTITY privatebrowsingpage.learnMore                 "Ətraflı Öyrən">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "Gizli baxışı başlatmaq üçün &basePBMenu.label; &gt; &newPrivateWindow.label;.-ni də seçə bilərsiniz.">

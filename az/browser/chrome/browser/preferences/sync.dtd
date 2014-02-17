@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "İstifadə Şərtləri">
 <!ENTITY prefs.ppLink.label         "Gizlilik Siyasəti">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Hesabını aç">
+
+

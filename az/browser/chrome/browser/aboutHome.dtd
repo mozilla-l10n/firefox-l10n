@@ -9,7 +9,7 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandFullName; başlanğıc səhifəsi">
+<!ENTITY abouthome.pageTitle "&brandFullName; Başlanğıc Səhifəsi">
 
 <!ENTITY abouthome.searchEngineButton.label "Axtarış">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
@@ -26,8 +26,8 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Əlfəcinlər">
 <!ENTITY abouthome.historyButton.label   "Tarixcə">
-<!ENTITY abouthome.settingsButton.label  "Seçənəklər">
+<!ENTITY abouthome.settingsButton.label  "Tənzimləmələr">
 <!ENTITY abouthome.addonsButton.label    "Əlavələr">
-<!ENTITY abouthome.appsButton.label      "Dükan">
+<!ENTITY abouthome.appsButton.label      "Mağaza">
 <!ENTITY abouthome.downloadsButton.label "Yükləmələr">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli baxış)">
+
+<!ENTITY appmenu.tooltip                     "Menyunu Aç">
+<!ENTITY navbarOverflow.label                "Daha çox alət…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Vərəqi Yenilə">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
 <!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri aç">
 <!ENTITY  undoCloseTab.accesskey             "a">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Bağlanmış vərəqləri geri al">
 <!ENTITY  closeTab.label                     "Vərəqi Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
 
@@ -59,8 +57,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Yeni Vərəq">
 <!ENTITY tabCmd.accesskey "V">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Ünvanı Aç…">
-<!ENTITY openLocationCmd.accesskey "Ü">
 <!ENTITY openFileCmd.label "Fayl Aç…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -100,9 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Bütün vərəqləri göstər">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; Daxil ol">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; Yenidən bağlan">
+<!ENTITY syncStartPanel.heading "&brandShortName; artıq sinxronizasiya edir">
+<!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label; Tənzimləmələri üçün Süçənəklərə baxın.">
+<!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; Tənzimləmələri üçün Nizamlamalara baxın.">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ilə bağlana bilmirəm">
+<!ENTITY syncErrorPanel.subTitle "Sinxronizasiyaya qayıtmaq üçün, zəhmət olmasa, daxil olun.">
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "Kiçilt">
 <!ENTITY fullScreenRestore.tooltip "Geri qaytar">
-<!ENTITY fullScreenClose.tooltip "Qapat">
+
 <!ENTITY fullScreenAutohide.label "Alət sətirlərini gizlə">
 <!ENTITY fullScreenAutohide.accesskey "g">
 <!ENTITY fullScreenExit.label "Tam ekran rejimdən çıx">
@@ -120,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Əlfəcinlər">
 <!ENTITY bookmarksMenu.accesskey "Ə">
 <!ENTITY bookmarkThisPageCmd.label "Səhifəni Əlfəcinlə">
+<!ENTITY editThisBookmarkCmd.label "Bu əlfəçini redaktə et">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Səhifəni Paylaş">
@@ -133,6 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "P">
 <!ENTITY shareVideoCmd.label "Videonu Paylaş">
 <!ENTITY shareVideoCmd.accesskey "P">
+
 <!ENTITY subscribeToPageMenupopup.label "Bu səhifəyə abunə ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
 <!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
@@ -159,24 +168,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Çap Et">
 <!ENTITY printButton.tooltip          "Bu səhifəni çap et">
 
-<!ENTITY backForwardItem.title        "Geri/İrəli">
 <!ENTITY locationItem.title           "Ünvan">
 <!ENTITY searchItem.title             "Axtar">
-<!ENTITY bookmarksItem.title          "Əlfəcinlər">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Ev">
 
 <!ENTITY tabGroupsButton.label        "Vərəq Qrupları">
-<!ENTITY tabGroupsButton.tooltip      "Vərəqlərinizi qruplandırın">
 
 <!ENTITY bookmarksButton.label          "Əlfəcinlər">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
-<!ENTITY bookmarksMenuButton.tooltip        "Əlfəcinləri göstər">
 <!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış Əlfəcinlər">
-<!ENTITY viewBookmarksSidebar.label         "Kənar sətirdə göstər">
+
 <!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -185,7 +190,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Keçmiș">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alətlər">
@@ -301,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Seçimlər">
 <!ENTITY preferencesCmdUnix.accesskey     "i"> 
 
-<!ENTITY clearRecentHistory.label               "Son tarixçəni təmizlə…">
+<!ENTITY clearRecentHistory.label               "Son Tarixçəni Təmizlə…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "F">
 
@@ -321,12 +325,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Yeni bağlanmış vərəqlər">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Yeni bağlanmış pəncərələr">
-<!ENTITY historyRestoreLastSession.label "Əvvəlki seansı bərpa et">
+<!ENTITY historyRestoreLastSession.label "Əvvəlki Seansı Bərpa et">
 
-<!ENTITY showAllHistoryCmd2.label "Bütün keçmişi göstər">
+<!ENTITY showAllHistoryCmd2.label "Bütün Keçmişi Göstər">
 <!ENTITY showAllHistoryCmd.commandkey "K">
 
 <!ENTITY appMenuCustomize.label "Özelleştir">
+<!ENTITY appMenuCustomize.tooltip "Menyu və Ələt sətrini şəxsiləşdir">
+<!ENTITY appMenuCustomizeExit.label "Şəxsiləşdirməni tərk et">
+<!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">
+<!ENTITY appMenuHistory.label "Tarixçə">
+<!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
+<!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Sil…">
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+<!ENTITY customizeMenu.addMoreItems.label "Daha çox element Əlavə et">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Ə">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
@@ -537,6 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ı">
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName;dan Çıx">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Çık"> 
@@ -628,7 +660,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sinxronlaşdırma">
 
 <!ENTITY socialToolbar.title        "Sosial Alət Sətiri Düyməsi">
-<!ENTITY social.notLoggedIn.label   "Hesab açılmayıb">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -647,6 +678,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Daha ətraflı…">
 <!ENTITY social.learnMore.accesskey "ə">
 <!ENTITY social.closeNotificationItem.label "İndi Yox">
+
+
+
+<!ENTITY customizeMode.tabTitle "&brandShortName;u Şəxsiləşdir">
+<!ENTITY customizeMode.menuAndToolbars.label "Menyu və alət sətri">
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Çatlara keç">
@@ -689,6 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Ehh, bu utanc vericidir. Biz veb səhifəni göstərməyə çalışdıq, amma o cavab vermir.">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; üçün bu xəta haqda yaz və onlar ən yaxın zamanda bu problemi həll etsinlər.">
 <!ENTITY tabCrashed.tryAgain "Təkrar Yoxla">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -701,7 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Fəaliyyət göstəricisi">
 <!ENTITY appMenuButton.label           "Menyu">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; menyusunu aç">
-<!ENTITY feedButton.label              "Abunə ol">
+
 <!ENTITY feedButton.tooltip            "Bu səhifəyə abunə ol…">
 <!ENTITY bookmarksButton.tooltip       "Sizin əlfəcinlərinizi göstər">
 <!ENTITY historyButton.tooltip         "Yaxında baxılan səhifələri göstər">
@@ -724,4 +767,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Yaxınlaşma seçimləri">
 <!ENTITY addonBarCloseButton.tooltip   "Əlavələr sətrini bağla">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Geri/İrəli">
+<!ENTITY viewBookmarksSidebar.label    "Kənar sətirdə göstər">
+<!ENTITY bookmarksItem.title           "Əlfəcinlər">
+<!ENTITY openLocationCmd.label         "Ünvanı Aç…">
+<!ENTITY openLocationCmd.accesskey     "Ü">
+<!ENTITY bookmarksMenuButton.tooltip   "Əlfəcinləri göstər">
+
+<!ENTITY tabGroupsButton.tooltip       "Vərəqlərinizi qruplandırın">
 <!-- end of strings to be removed post-Australis -->

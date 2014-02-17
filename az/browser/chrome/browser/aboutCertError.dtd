@@ -15,15 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; tərəfindən təqdim olunan <b>#1</b> şəbəkəsinə qoşulmaq istəyirsiniz, amma sizin bağlantınızın güvənli olduğunu təsdiqləyə bilmirik.">
+<!ENTITY certerror.introPara1 "&brandShortName; tərəfindən təqdim olunan <b>#1</b> şəbəkəsinə qoşulmaq istəyirsiniz, amma sizin bağlantınızın təhlükəsiz olduğunu təsdiqləyə bilmirik.">
 <!ENTITY certerror.introPara2 "Normal halda, təhlükəsiz olaraq bağlanmaq istəyəndə, 
 bağlanılmaq istənən sayt həqiətən doğru yerə getdiyinizi təsdiqləyəcək olan etibarlı 
 kimlik məlumatı təqdim etməlidir. Ancaq bu saytın kimliyi təsdiqlənə bilmir.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Ne yapmalıyım?">
+<!ENTITY certerror.whatShouldIDo.heading "Nə Etməliyəm?">
 <!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem 
 olmadan bağlana bilirdinizsə, bu dəfə başqa bir nəfər bu saytın adından 
-istifadə etmiş ola bilər, qısacası davam etməməlisiniz.">
+istifadə etmiş ola bilər, və siz davam etməməlisiniz.">
 <!ENTITY certerror.getMeOutOfHere.label "Məni burdan xilas et!">
 
 <!ENTITY certerror.expert.heading "Təhlükəni anlayıram">
@@ -35,4 +35,4 @@ oynadığını mənasını verə bilər.</b>">
 üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
 <!ENTITY certerror.addException.label "İstisnalıq ver…">
 
-<!ENTITY certerror.technical.heading "Teknik ayrıntılar">
+<!ENTITY certerror.technical.heading "Texniki Detallar">

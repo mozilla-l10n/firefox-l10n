@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Fikirlərinizi Bölüşün…">
 <!ENTITY helpFeedbackPage.accesskey  "B">
 
+<!ENTITY helpShowTour.label             "&brandShortName; Tur">
+<!ENTITY helpShowTour.accesskey         "T">
+
 <!ENTITY preferencesCmdMac.label        "Seçənəklər…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

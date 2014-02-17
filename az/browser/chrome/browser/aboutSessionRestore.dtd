@@ -23,7 +23,10 @@
 <!ENTITY restorepage.windowLabel    "&#037;S. pəncərə">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Təkrar xoşgəldiniz!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
-
+<!ENTITY welcomeback.pageInfo       "&brandShortName; uğurla profilinizi sıfırladı. Aşağıda açdığınız pəncərə və vərəqlərin siyahısı var; siz onları bərpa edə və ya təmiz vərəqlə başlaya bilərsiniz.">
