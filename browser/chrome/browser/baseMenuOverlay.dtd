@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label "Seol Aiseolas Chugainn…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
+<!ENTITY helpShowTour.label "&brandShortName; Tour">
+<!ENTITY helpShowTour.accesskey "o">
+
 <!ENTITY preferencesCmdMac.label "Sainroghanna…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 

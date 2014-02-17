@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Breiseáin shuiteáilte">
-<!ENTITY enableAddonsUpdate.accesskey "r">
-<!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe,">
-<!ENTITY modeAskMe.label "fiafraigh díom cad atá le déanamh">
-<!ENTITY modeAskMe.accesskey "e">
-<!ENTITY modeAutomatic.label "Íosluchtaigh agus suiteáil an nuashonrú go huathoibríoch">
-<!ENTITY modeAutomatic.accesskey "l">
-<!ENTITY modeAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
-<!ENTITY modeAutoAddonWarn.accesskey "T">
-<!ENTITY showUpdates.label "Taispeáin Stair na Nuashonruithe">
-<!ENTITY showUpdates.accesskey "s">
+<!ENTITY updateApp.label "Nuashonruithe &brandShortName;:">
+<!ENTITY updateAuto.label "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
+<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateCheck.label "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
+<!ENTITY updateCheck.accesskey "L">
+<!ENTITY updateManual.label "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
+<!ENTITY updateAutoAddonWarn.accesskey "T">
+<!ENTITY updateHistory.label "Taispeáin Stair na Nuashonruithe">
+<!ENTITY updateHistory.accesskey "p">
+<!ENTITY updateOthers.label "Nuashonraigh go huathoibríoch:">
+<!ENTITY enableAddonsUpdate3.label "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey "o">
 
 <!ENTITY useService.label "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey "b">

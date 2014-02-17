@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brabhsáil Phríobháideach)">
+
+<!ENTITY appmenu.tooltip "Oscail roghchlár">
+<!ENTITY navbarOverflow.label "Tuilleadh uirlisí…">
 <!-- Tab context menu -->
 
 <!ENTITY reloadTab.label "Athluchtaigh Cluaisín">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY bookmarkAllTabs.accesskey "C">
 <!ENTITY undoCloseTab.label "Cealaigh Dúnadh an Chluaisín">
 <!ENTITY undoCloseTab.accesskey "C">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY undoCloseTabs.label "Cealaigh Dúnadh na gCluaisíní">
 <!ENTITY closeTab.label "Dún Cluaisín">
 <!ENTITY closeTab.accesskey "D">
 
@@ -59,8 +57,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Cluaisín Nua">
 <!ENTITY tabCmd.accesskey "C">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Oscail Suíomh Gréasáin…">
-<!ENTITY openLocationCmd.accesskey "u">
 <!ENTITY openFileCmd.label "Oscail Comhad…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -100,6 +96,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Taispeáin Gach Cluaisín">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+<!ENTITY fxaSignIn.label "Sign in to &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; is now syncing">
+<!ENTITY syncStartPanel.subTitle "You can manage &syncBrand.shortName.label; in Options.">
+<!ENTITY syncStartPanel.subTitleUnix "You can manage &syncBrand.shortName.label; in Preferences.">
+<!ENTITY syncErrorPanel.heading "Cannot connect to &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Please sign in to resume syncing.">
+<!ENTITY syncErrorPanel.signInButton.label "Logáil Isteach">
+<!ENTITY syncErrorPanel.signInButton.accesskey "L">
+
+
 <!ENTITY fullScreenMinimize.tooltip "Íoslaghdaigh">
 <!ENTITY fullScreenRestore.tooltip "Athchóirigh">
 <!ENTITY fullScreenClose.tooltip "Dún">
@@ -120,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Leabharmharcanna">
 <!ENTITY bookmarksMenu.accesskey "L">
 <!ENTITY bookmarkThisPageCmd.label "Cruthaigh Leabharmharc don Leathanach Seo">
+<!ENTITY editThisBookmarkCmd.label "Cuir an Leabharmharc Seo in Eagar">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Comhroinn an leathanach seo">
@@ -133,6 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "C">
 <!ENTITY shareVideoCmd.label "Comhroinn an físeán seo">
 <!ENTITY shareVideoCmd.accesskey "C">
+<!ENTITY feedsMenu.label "Liostáil">
 <!ENTITY subscribeToPageMenupopup.label "Liostáil leis an Leathanach Seo">
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
@@ -159,24 +168,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY printButton.tooltip "Priontáil an leathanach seo">
 
-<!ENTITY backForwardItem.title "Siar/Ar Aghaidh">
 <!ENTITY locationItem.title "Suíomh">
 <!ENTITY searchItem.title "Cuardaigh">
-<!ENTITY bookmarksItem.title "Leabharmharcanna">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label "Baile">
 
 <!ENTITY tabGroupsButton.label "Grúpaí Cluaisíní">
-<!ENTITY tabGroupsButton.tooltip "Grúpáil do chuid cluaisíní">
 
 <!ENTITY bookmarksButton.label "Leabharmharcanna">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label "Leabharmharcanna">
-<!ENTITY bookmarksMenuButton.tooltip "Taispeáin do leabharmharcanna">
 <!ENTITY bookmarksMenuButton.unsorted.label "Leabharmharcanna Gan Sórtáil">
-<!ENTITY viewBookmarksSidebar.label "Taispeáin sa Bharra Taoibh">
+<!ENTITY viewBookmarksSidebar2.label "View Bookmarks Sidebar">
 <!ENTITY viewBookmarksToolbar.label "Féach ar Bharra Leabharmharc">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -301,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
+<!ENTITY clearRecentHistory.label "Clear Recent History…">
 
 <!ENTITY privateBrowsingCmd.commandkey "M">
 
@@ -321,12 +326,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Cluaisíní a Dúnadh Le Déanaí">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fuinneoga a Dúnadh Le Déanaí">
-<!ENTITY historyRestoreLastSession.label "Athchóirigh an Seisiún Roimhe Seo">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
-<!ENTITY showAllHistoryCmd2.label "Taispeáin an Stair Iomlán">
+<!ENTITY showAllHistoryCmd2.label "Show All History">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Saincheap">
+<!ENTITY appMenuCustomize.tooltip "Customize the Menu and Toolbars">
+<!ENTITY appMenuCustomizeExit.label "Exit Customize">
+<!ENTITY appMenuCustomizeExit.tooltip "Finish Customizing">
+<!ENTITY appMenuHistory.label "Stair">
+<!ENTITY appMenuHistory.showAll.label "Show All History">
+<!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
+<!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
+<!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
+<!ENTITY appMenuHelp.tooltip "Open Help Menu">
+
+<!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Add to Menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Move to Toolbar">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Move to Menu">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remove from Toolbar">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Remove from Menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Add More Items…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Cuardaigh nó cuir seoladh isteach">
@@ -537,6 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label "Scoir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
+<!ENTITY quitApplicationCmdWin.tooltip "Exit &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Scoir">
@@ -628,7 +663,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label "Sync">
 
 <!ENTITY socialToolbar.title "Cnaipe Barra Shóisialta">
-<!ENTITY social.notLoggedIn.label "Níl tú logáilte isteach">
 
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
@@ -647,6 +681,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Tuilleadh eolais…">
 <!ENTITY social.learnMore.accesskey "T">
 <!ENTITY social.closeNotificationItem.label "Níl Anois">
+
+
+
+<!ENTITY customizeMode.tabTitle "Customize &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menu and toolbars">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Additional Tools and Features">
+<!ENTITY customizeMode.menuAndToolbars.empty "Want more tools?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Choose from thousands of add-ons">
+<!ENTITY customizeMode.restoreDefaults "Restore Defaults">
+<!ENTITY customizeMode.toolbars "Show / Hide Toolbars">
+<!ENTITY customizeMode.titlebar "Title Bar">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Cuir comhráite i bhfócas">
@@ -689,6 +734,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Bhuel, cuireann sé seo náire orainn. Rinneamar iarracht an leathanach seo a thaispeáint, ach níl aon fhreagra uaidh.">
 <!ENTITY tabCrashed.checkSendReport "Inis do &vendorShortName; faoin fhadhb seo sa chaoi go mbeidh siad in ann í a réiteach.">
 <!ENTITY tabCrashed.tryAgain "Déan Iarracht Arís">
+
+<!ENTITY uiTour.infoPanel.close "Dún">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -724,4 +771,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label "Rialtáin Súmála">
 <!ENTITY addonBarCloseButton.tooltip "Dún Barra na mBreiseán">
 <!ENTITY toggleAddonBarCmd.key "/">
+<!ENTITY backForwardItem.title "Siar/Ar Aghaidh">
+<!ENTITY viewBookmarksSidebar.label "Taispeáin sa Bharra Taoibh">
+<!ENTITY bookmarksItem.title "Leabharmharcanna">
+<!ENTITY openLocationCmd.label "Oscail Suíomh Gréasáin…">
+<!ENTITY openLocationCmd.accesskey "u">
+<!ENTITY bookmarksMenuButton.tooltip "Taispeáin do leabharmharcanna">
+<!ENTITY switchToMetroCmd2.label "Relaunch in &brandShortName; for Windows 8 Touch">
+<!ENTITY tabGroupsButton.tooltip "Grúpáil do chuid cluaisíní">
 <!-- end of strings to be removed post-Australis -->

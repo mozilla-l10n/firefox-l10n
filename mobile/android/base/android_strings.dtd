@@ -47,12 +47,12 @@
 <!ENTITY history_older_section "Níos sine ná 7 lá">
 
 <!ENTITY go "Ar Aghaidh">
-<!ENTITY search "Cuardaigh">
+<!ENTITY search "Search">
 <!ENTITY reload "Athluchtaigh">
 <!ENTITY forward "Ar Aghaidh">
 <!ENTITY menu "Roghchlár">
 <!ENTITY back "Siar">
-<!ENTITY stop "Stad">
+<!ENTITY stop "Stop">
 <!ENTITY site_security "Slándáil Suímh">
 
 <!ENTITY close_tab "Dún Cluaisín">
@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Socruithe">
 <!ENTITY pref_category_advanced "Ardroghanna">
 <!ENTITY pref_category_customize "Saincheap">
-<!ENTITY pref_category_search2 "Socruithe cuardaigh">
+<!ENTITY pref_category_search3 "Search">
 <!ENTITY pref_category_display "Taispeáint">
 <!ENTITY pref_category_privacy_short "Príobháideachas">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghanna sonraí">
 <!ENTITY pref_category_installed_search_engines "Innill chuardaigh suiteáilte">
 <!ENTITY pref_category_add_search_providers "Cuir innill chuardaigh leis">
+<!ENTITY pref_category_search_restore_defaults "Restore search engines">
+<!ENTITY pref_search_restore_defaults "Restore defaults">
+<!ENTITY pref_search_restore_defaults_summary "Restore defaults">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
 <!ENTITY pref_developer_remotedebugging_docs "Tuilleadh eolais">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
+
+<!ENTITY pref_category_home "Baile">
+<!ENTITY pref_category_home_panels "Panels">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Saincheap">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Maidir le &brandShortName;">
 <!ENTITY pref_vendor_faqs "CCanna">
 <!ENTITY pref_vendor_feedback "Seol aiseolas">
-<!ENTITY pref_search_set_default "Réamhshocraigh">
-<!ENTITY pref_search_default "Réamhshocrú">
-<!ENTITY pref_search_remove "Bain">
+
+<!ENTITY pref_dialog_set_default "Réamhshocraigh">
+<!ENTITY pref_dialog_default "Réamhshocrú">
+<!ENTITY pref_dialog_remove "Remove">
+
 <!ENTITY pref_search_last_toast "Níl cead agat an t-inneall cuardaigh is déanaí a dhíchumasú.">
+
+<!ENTITY pref_panels_show "Taispeáin">
+<!ENTITY pref_panels_hide "Folaigh">
 
 <!ENTITY datareporting_notification_title "Staitisticí agus sonraí ó &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Roghnaigh cad a roinnfidh tú">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Siar">
 <!ENTITY find_next "Ar Aghaidh">
 <!ENTITY find_close "Dún">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_play "Seinn">
+<!ENTITY media_pause "Cuir ar Shos">
+<!ENTITY media_stop "Stop">
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
 <!ENTITY contextmenu_open_private_tab "Oscail i gCluaisín Príobháideach">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra teidil">
 <!ENTITY pref_titlebar_mode_title "Taispeáin teideal an leathanaigh">
 <!ENTITY pref_titlebar_mode_url "Taispeáin seoladh an leathanaigh">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Cuir an barra teidil i bhfolach le linn scrollaithe">
+<!ENTITY pref_scroll_title_bar "Scroll title bar">
 
 <!ENTITY history_removed "Leathanach bainte">
 
