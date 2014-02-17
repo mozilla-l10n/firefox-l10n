@@ -30,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Նշեք Ձեր &syncBrand.fullName.label; հաշվեկշռի տեղեկությունը">
 <!ENTITY sync.input.username.label "Փոստարկղի անունը">
-<!ENTITY sync.input.password.label "Գաղտնաբառը">
+<!ENTITY sync.input.password.label "Գաղտնաբառ">
 <!ENTITY sync.input.key.label "Վերականգնող բանալին">
 <!ENTITY sync.checkbox.server.label "Օգտ. ընտրված սպասարկիչ">
 <!ENTITY sync.input.server.label "Սպասարկիչի URL-ն">
@@ -71,10 +71,10 @@
 <!ENTITY sync.button.connect.label "Միանալ">
 <!ENTITY sync.button.ok.label "ԼԱՎ">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (արժեզրկված)">
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "Էջանիշերի Ցանկ">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Կցապիտակներ">
@@ -104,3 +104,115 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Կարգավորել &syncBrand.fullName.label;-ը ձեր սարքում՝ ներդիր ուղարկելու համար:">
 <!ENTITY sync.text.tab.sent.label "Ներդիրը ուղարկվել է:">
 <!ENTITY sync.text.tab.not.sent.label "Հնարավոր չեղավ ուղարկել ներդիրը:">
+<!-- Firefox account strings. -->
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+
+
+<!ENTITY fxaccount_checkbox_contentDescription2 "Firefox-ի հաշիվների ընտրությունը">
+<!ENTITY fxaccount_icon_contentDescription2 "Firefox-ի հաշիվների պատկերակը">
+<!ENTITY fxaccount_intro_contentDescription2 "Firefox-ի հաշիվների ներածական գրաֆը">
+<!ENTITY fxaccount_mail_contentDescription2 "Firefox-ի հաշիվների բացիկ գրաֆը">
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_email_hint "Էլ. փոստ">
+<!ENTITY fxaccount_password_hint "Գաղտնաբառ">
+<!ENTITY fxaccount_password_hide "Թաքցնել">
+<!ENTITY fxaccount_password_show "Ցուցադրել">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Անցնել դիտարկմանը">
+
+<!ENTITY fxaccount_policy_linktos "Ծառայության պայմանները">
+<!ENTITY fxaccount_policy_linkprivacy "Գաղտնիության Դրույթները">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Բարի Գալուստ &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Մուտք գործեք՝ ներդիրները, էջանիշերը, գաղտնաբառերը համաժամեցնելու համար:">
+<!ENTITY fxaccount_getting_started_get_started "Սկսել">
+<!ENTITY fxaccount_getting_started_old_firefox "Օգտագործում եք &syncBrand.shortName.label;ի հին տարբերա՞կը:">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+
+<!ENTITY fxaccount_create_account_header "Ստեղծել Firefox-ի հաշիվ">
+<!ENTITY fxaccount_create_account_password_length_restriction "Պետք է լինի 8 գրանշան">
+<!ENTITY fxaccount_create_account_year_of_birth "Ծննդյան ամսաթիվ">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text "Շարունակելուց առաջ համաձայնվում եք &formatS1; և &formatS2; Firefox-ի առցանց ծառայություններին:">
+<!ENTITY fxaccount_create_account_button "Հաջորդը">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Ինչը համաժամեցնել">
+<!ENTITY fxaccount_create_account_sign_in_instead "Արդեն ունե՞ք հաշիվ: Մուտք գործեք">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 կամ ավելի շուտ">
+<!ENTITY fxaccount_create_account_unknown_error "Հնարավոր չէ ստեղծել հաշիվ">
+
+<!ENTITY fxaccount_account_create_not_allowed "Հնարավոր չէ ստեղծել հաշիվ">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Պետք է նշեք ձեր տարիքը:">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Մանրամասն">
+
+<!ENTITY fxaccount_confirm_account_header "Հաստատել հաշիվը">
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Հաստատման հղումը ուղարկվել է &formatS;-ին">
+<!ENTITY fxaccount_confirm_account_resend_email "Կրկնել">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Հաստատումը ուղարկվել է">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Չհաջողվեց ուղարկել">
+
+<!ENTITY fxaccount_sign_in_sub_header "Մուտք գործել">
+<!ENTITY fxaccount_sign_in_button_label "Մուտք գործել">
+<!ENTITY fxaccount_sign_in_forgot_password "Մոռացե՞լ եք գաղտնաբառը">
+<!ENTITY fxaccount_sign_in_create_account_instead "Ստեղծել հաշիվ">
+<!ENTITY fxaccount_sign_in_unknown_error "Չհաջողվեց մուտք գործել">
+
+<!ENTITY fxaccount_account_verified_sub_header "Հաշիվը հաստատված է">
+<!ENTITY fxaccount_account_verified_description2 "Տվյալները միանգամից կհամաժամեցվեն:">
+
+<!ENTITY fxaccount_update_credentials_header "Մուտք գործել">
+<!ENTITY fxaccount_update_credentials_button_label "Մուտք գործել ">
+<!ENTITY fxaccount_update_credentials_unknown_error "Չհաջողվեց մուտք գործել ">
+
+<!ENTITY fxaccount_status_header "Firefox-ի հաշիվ">
+<!ENTITY fxaccount_status_sync "&syncBrand.fullName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: միացած է">
+<!ENTITY fxaccount_status_needs_verification2 "Ձեր հաշիվը պետք է հաստատել: Կրկին ուղարկել հաստատումը:">
+<!ENTITY fxaccount_status_needs_credentials "Չհաջողվեց միանալ: Մուտք գործել:">
+<!ENTITY fxaccount_status_needs_upgrade "Մուտք գործելու համար պետք է արդիացնեք &brandShortName;-ը:">
+<!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
+<!ENTITY fxaccount_status_history "Պատմություն">
+<!ENTITY fxaccount_status_passwords "Գաղտնաբառեր">
+<!ENTITY fxaccount_status_tabs "Բացել ներդիրները">
+<!ENTITY fxaccount_status_legal "Օրինական" >
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label;ի Ընտրանքները">
+<!ENTITY fxaccount_options_configure_title "Կարգավորել &syncBrand.shortName.label;ը">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Պետք է արդիացնեք Firefox-ը">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Հաշիվը արդեն կա: &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Էլ. փոստը կամ գաղտնաբառը սխալ են">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Էլ. փոստը կամ գաղտնաբառը սխալ են ">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Հաշիվը չի հաստատվել">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Սպասարկիչը զբաղված է, կրկին փորձեք:">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Սպասարկիչը զբաղված է, կրկին փորձեք">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Խնդիր է առկա">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Հնարավոր չէ միանալ ցանցին">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label;ը կապված չէ">
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Սեղմեք՝ որպես &formatS; մուտք գործելու համար">
