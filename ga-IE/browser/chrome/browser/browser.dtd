@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
-<!ENTITY tabView.commandkey "e">
+<!ENTITY tabView.commandkey "P">
 
 <!ENTITY openLinkCmdInTab.label "Oscail an Nasc i gCluaisín Nua">
 <!ENTITY openLinkCmdInTab.accesskey "C">
