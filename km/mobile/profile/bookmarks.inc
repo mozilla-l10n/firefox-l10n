@@ -65,4 +65,16 @@
 
 
 
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+#define bookmarks_marketplace កន្លែង​ផ្ទុក​កម្មវិធី​របស់ Firefox
+
+
+
 #unfilter emptyLines

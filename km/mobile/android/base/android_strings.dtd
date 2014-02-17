@@ -66,13 +66,16 @@
 <!ENTITY settings_title "ការ​កំណត់">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
-<!ENTITY pref_category_search2 "ការ​កំណត់​ការ​ស្វែងរក">
+<!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_display "បង្ហាញ">
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
 <!ENTITY pref_category_add_search_providers "បន្ថែម​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
+<!ENTITY pref_category_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
+<!ENTITY pref_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
+<!ENTITY pref_search_restore_defaults_summary "ស្ដារ​លំនាំដើម">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_developer_remotedebugging_docs "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
+
+<!ENTITY pref_category_home "ដើម">
+<!ENTITY pref_category_home_panels "បន្ទះ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
 <!ENTITY pref_vendor_feedback "ផ្ដល់​មតិ​អ្នកប្រើ">
-<!ENTITY pref_search_set_default "កំណត់​ជា​លំនាំដើម">
-<!ENTITY pref_search_default "លំនាំ​ដើម">
-<!ENTITY pref_search_remove "យកចេញ">
+
+<!ENTITY pref_dialog_set_default "កំណត់​ជា​លំនាំដើម">
+<!ENTITY pref_dialog_default "លំនាំ​ដើម">
+<!ENTITY pref_dialog_remove "លុប​ចេញ">
+
 <!ENTITY pref_search_last_toast "អ្នក​មិន​អាច​យកចេញ ឬ​បិទ​ម៉ាស៊ីន​ស្វែងរក​ចុងក្រោយ​របស់​អ្នក​បាន​ទេ។">
+
+<!ENTITY pref_panels_show "បង្ហាញ">
+<!ENTITY pref_panels_hide "លាក់">
 
 <!ENTITY datareporting_notification_title "ទិន្នន័យ &brandShortName; stats &amp;">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "មុន">
 <!ENTITY find_next "បន្ទាប់">
 <!ENTITY find_close "បិទ">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "ចាកចេញ​​ពី​​ឧបករណ៍">
+<!ENTITY media_play "ចាក់">
+<!ENTITY media_pause "ផ្អាក">
+<!ENTITY media_stop "បញ្ឈប់">
 
 <!ENTITY contextmenu_open_new_tab "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
 <!ENTITY pref_titlebar_mode_url "បង្ហាញ​អាសយដ្ឋាន​ទំព័រ">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "លាក់​របារ​ចំណងជើង​ពេល​រមូរ">
+<!ENTITY pref_scroll_title_bar "រមូរ​របារ​ចំណងជើង">
 
 <!ENTITY history_removed "បាន​យក​ទំព័រ​ចេញ">
 
