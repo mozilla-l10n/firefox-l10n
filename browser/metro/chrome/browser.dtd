@@ -9,6 +9,7 @@
 <!ENTITY back.label            "ថយក្រោយ">
 <!ENTITY forward.label         "ទៅមុខ">
 <!ENTITY newtab.label          "ផ្ទាំង​ថ្មី">
+
 <!ENTITY closetab.label        "បិទ​ផ្ទាំង​">
 
 <!ENTITY autocompleteResultsHeader.label  "លទ្ធផល​របស់​អ្នក">
@@ -103,6 +104,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +119,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "កំពុង​រក​មើល​ផ្ទាំង​របស់​អ្នក​ឬ? គ្រាន់តែ​ទាញ​ចុះក្រោម ឬ​ចុច​កណ្ដុរ​​ស្ដាំ">
@@ -130,3 +129,19 @@
 <!ENTITY firstRunHistory.label "មើល​កន្លែង​ដែល​អ្នក​ធ្លាប់​បាន​ចូល​នៅ​លើ​បណ្ដាញ">
 <!ENTITY firstRunWelcome.label "ស្វាគមន៍​មក​កាន់ &brandShortName;">
 <!ENTITY firstRunDifferent.label "ការ​រចនា​ប្លែក​គេ">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "បាន​ទទួល !">

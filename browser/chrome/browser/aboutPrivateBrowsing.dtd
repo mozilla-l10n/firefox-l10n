@@ -12,10 +12,15 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "បើក​បង្អួច​ឯកជន">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "ដើម្បី​ចាប់ផ្ដើម​ការ​រុករក​ឯកជន អ្នក​អាច​ជ្រើស &basePBMenu.label; &gt; &newPrivateWindow.label; ។">
+<!ENTITY privatebrowsingpage.howToStart4               "ដើម្បី​ចាប់ផ្ដើម​ការ​រក​​ឯកជន, អ្នក​អាច​ជ្រើស &newPrivateWindow.label; ពី​ម៉ឺនុយ។">
 <!ENTITY privatebrowsingpage.howToStop3                "អ្នក​អាច​បិទ​បង្អួច​នេះ ដើម្បី​បញ្ឈប់​ការ​រុករក​ឯកជន ។">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "ខណៈ​ដែល​កុំព្យូទ័រ​មិន​ទាន់​មាន​កំណត់ត្រា​នៃ​ប្រវត្តិ​រកមើល​របស់​អ្នក ក្រុមហ៊ុន​ផ្ដល់​សេវាកម្ម​អ៊ីនធឺណិត ឬ​និយោជក​របស់​អ្នក​ នៅ​តែ​អាច​តាមដាន​ទំព័រ​ដែល​អ្នក​បាន​ចូល​ទស្សនា​ដដែរ ។">
 <!ENTITY privatebrowsingpage.learnMore                 "ស្វែងយល់​បន្ថែម">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "ដើម្បី​ចាប់ផ្ដើម​ការ​រុករក​ឯកជន អ្នក​អាច​ជ្រើស &basePBMenu.label; &gt; &newPrivateWindow.label; ។">

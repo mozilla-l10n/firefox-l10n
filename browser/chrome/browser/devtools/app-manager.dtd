@@ -22,7 +22,7 @@
 <!ENTITY device.privileged "បាន​ផ្ដល់​សិទ្ធិ">
 <!ENTITY device.certified "បាន​បញ្ជាក់">
 <!ENTITY device.allow "អនុញ្ញាត">
-<!ENTITY device.allowTooltip "សិទ្ធិ​នេះ​បាន​អនុញ្ញាត​សម្រាប់​កម្មវិធី។">
+<!ENTITY device.allowTooltip "សិទ្ធិ​នេះ​បាន​អនុញ្ញាត​សម្រាប់​កម្មវិធី​ប្រភេទ​នេះ។">
 <!ENTITY device.prompt "ជូនដំណឹង">
 <!ENTITY device.promptTooltip "សិទ្ធិ​នេះ​ទាមទារ​ការ​បញ្ជាក់​អ្នកប្រើ​សម្រាប់​កម្មវិធី​ប្រភេទ​នេះ។">
 <!ENTITY device.deny "បដិសេធ">
@@ -34,27 +34,26 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "ជំនួយ">
 
-<!ENTITY connection.connectTooltip "តភ្ជាប់​ទៅ​ឧបករណ៍។">
 <!ENTITY connection.disconnect "ផ្ដាច់​">
-<!ENTITY connection.disconnectTooltip "ផ្ដាច់​ពី​ឧបករណ៍ ឬ​កម្មវិធី​និម្មិត​បច្ចុប្បន្ន។">
+
 <!ENTITY connection.notConnected2 "មិន​បាន​តភ្ជាប់។">
 <!ENTITY connection.connectTo "​តភ្ជាប់​ទៅ៖">
 <!ENTITY connection.noDeviceFound "រក​មិន​ឃើញ​ឧបករណ៍។ ដោត​ឧបករណ៍">
 <!ENTITY connection.changeHostAndPort "ប្ដូរ">
-<!ENTITY connection.changeHostAndPortTooltip "ប្ដូរ​ម៉ាស៊ីន និង​ច្រក​ដែល​បាន​ប្រើ​ដើម្បី​តភ្ជាប់​ទៅ​ឧបករណ៍។ (លំនាំដើម​ទៅ localhost:6000)">
+
 <!ENTITY connection.startSimulator "ចាប់ផ្ដើម​កម្មវិធី​និម្មិត">
-<!ENTITY connection.startSimulatorTooltip "ចាប់​ធាតុ​កម្មវិធី​និម្មិត រួច​តភ្ជាប់​ទៅកាន់​វា។">
+
 <!ENTITY connection.saveConnectionInfo "រក្សា​ទុក">
-<!ENTITY connection.saveConnectionInfoTooltip "រក្សាទុក​ម៉ាស៊ីន និង​ច្រក។">
+
 <!ENTITY connection.connecting "កំពុង​តភ្ជាប់…">
 <!ENTITY connection.disconnecting "កំពុង​ផ្ដាច់...">
 <!ENTITY connection.cancel "បោះបង់">
-<!ENTITY connection.cancelConnectTooltip "កំពុង​ដំណើរការ​ការ​បោះបង់​ការ​តភ្ជាប់។">
-<!ENTITY connection.cancelShowSimulatorTooltip "ចេញពី​របៀប​ការ​តភ្ជាប់​និម្មិត រួច​ត្រឡប់​ទៅ​ប្រអប់​បញ្ចូល​ដំបូង">
+
+
 <!ENTITY connection.or "ឬ">
 <!ENTITY connection.noSimulatorInstalled "មិន​បាន​ដំឡើង​កម្មវិធី​និម្មិត។">
 <!ENTITY connection.installOneSimulator "ដំឡើង​កម្មវិធី​និម្មិត">
-<!ENTITY connection.installOneSimulatorTooltip "ដំឡើង​កំណែ​កម្មវិធី​និម្មិត​ដោយ​ទាញ​យក​កម្មវិធី​បន្ថែម​ដែល​ពាក់ព័ន្ធ។">
+
 <!ENTITY connection.installAnotherSimulator "បន្ថែម">
 <!ENTITY connection.installAnotherSimulatorTooltip "ដំឡើង​កំណែ​បន្ថែម​របស់​កម្មវិធី​និម្មិត​ដោយ​ទាញ​យក​កម្មវិធី​បន្ថែម​ដែល​ពាក់ព័ន្ធ។">
 <!ENTITY connection.startRegisteredSimulator "ចាប់ផ្ដើម៖">

@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "ដាក់​ស្នើ​មតិ​អ្នកប្រើ...">
 <!ENTITY helpFeedbackPage.accesskey  "ដ">
 
+<!ENTITY helpShowTour.label             "&brandShortName; Tour">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "ចំណូល​ចិត្ត...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
