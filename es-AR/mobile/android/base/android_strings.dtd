@@ -145,9 +145,9 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Archivos descargados">
 
 
-<!ENTITY pref_about_firefox "ACerca &brandShortName;">
+<!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
-<!ENTITY pref_vendor_feedback "Dar opinicón">
+<!ENTITY pref_vendor_feedback "Dar opinión">
 <!ENTITY pref_search_set_default "Hacer predeterminado">
 <!ENTITY pref_search_default "Predeterminado">
 <!ENTITY pref_search_remove "Eliminar">
