@@ -52,11 +52,9 @@
   -  -->
 
 <!ENTITY options.defaultColorUnit.name "রঙের নামসমূহ">
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh2  "কেবল বর্তমান সেশন, পৃষ্ঠা পুনরায় লোড করে">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -69,12 +67,14 @@
 
 <!ENTITY options.enableRemote.label3    "রিমোট ডিবাগিং সক্রিয় করুন">
 <!ENTITY options.enableRemote.tooltip   "এই অপশন চালু করার ফলে ডেভেলপার টুল রিমোট ফায়ারফক্স ইন্সটেন্স যেমন ফায়ারফক্স ওএস ডিবাগ করতে পারবে">
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-
-<!ENTITY options.disableJavaScript.label2    "জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন">
 <!ENTITY options.disableJavaScript.tooltip   "এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।">
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -114,6 +114,19 @@
 
 <!ENTITY options.timestampMessages.label      "টাইমস্ট্যাম্প সক্রিয় করুন">
 <!ENTITY options.timestampMessages.tooltip    "আপনি যদি এই অপশন কমান্ড সক্রিয় করেন এবং ওয়েব কনসোলে আউটপুট হিসেবে একটি টাইমস্ট্যাম্প প্রদর্শন করবে">
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "স্টাইল সম্পাদনা">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "মূল উৎস প্রদর্শন করা হবে">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

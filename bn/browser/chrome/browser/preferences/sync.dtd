@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "সেবার শর্ত">
 <!ENTITY prefs.ppLink.label         "গোপনীয়তা নীতি">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "সাইন ইন">
+
+
