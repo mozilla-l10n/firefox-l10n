@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
+
+
 <!ENTITY preferencesCmdMac.label        "Keutamaan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

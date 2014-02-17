@@ -52,11 +52,9 @@
   -  -->
 
 <!ENTITY options.defaultColorUnit.name "Nama Warna">
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh2  "Sessi semasa sahaja, ulang muat laman">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -69,12 +67,14 @@
 
 <!ENTITY options.enableRemote.label3    "Bolehkan menyahpepijat jauh">
 <!ENTITY options.enableRemote.tooltip   "Menghidupkan pilihan ini akan membenarkan alatan pembangun untuk menyahpepijat misalan Firefox jauh seperti FIrefox OS">
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-
-<!ENTITY options.disableJavaScript.label2    "Hidupkan JavaScript">
 <!ENTITY options.disableJavaScript.tooltip   "Menghidupkan pilihan ini akan melumpuhkan JavaScript untuk tab semasa. Jika tab atau kekotak alatan ditutup maka tetapan akan dilupakan.">
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -114,6 +114,19 @@
 
 <!ENTITY options.timestampMessages.label      "Bolehkan cop masa">
 <!ENTITY options.timestampMessages.tooltip    "Jika anda bolehkan pilihan ini arahan dan output dalam Konsol Web akan memaparkan cop masa">
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "Gaya Pengubah">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "Tunjukkan sumber-sumber asal">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

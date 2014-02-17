@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Terma dan Syarat Perkhidmatan">
 <!ENTITY prefs.ppLink.label         "Dasar Privasi">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Daftar Masuk">
+
+

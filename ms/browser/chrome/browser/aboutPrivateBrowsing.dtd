@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "Untuk menghentikan Pelayaran Peribadi, anda boleh menutup tetingkap ini.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ketahui Lanjut">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &newPrivateWindow.label;.">
