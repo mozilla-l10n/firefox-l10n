@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
@@ -23,9 +24,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">
 
-<!ENTITY aboutTelemetry.toggleOn "  Clicatz per desvolopar la seccion">
-
-<!ENTITY aboutTelemetry.toggleOff "  Clicatz per redusir la seccion">
+<!ENTITY aboutTelemetry.toggle "  Clicatz per redusir la seccion">
 
 <!ENTITY aboutTelemetry.emptySection "  (Cap de donada pas collectada)">
 
@@ -34,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Recuperar los noms de foncions per las pilas dels blocatges">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Afichar las donadas brutas dels blocatges">
+

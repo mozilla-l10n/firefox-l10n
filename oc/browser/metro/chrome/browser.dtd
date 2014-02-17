@@ -6,18 +6,20 @@
 <!ENTITY back.label            "Precedent">
 <!ENTITY forward.label         "Seguent">
 <!ENTITY newtab.label          "Onglet novèl">
+
 <!ENTITY closetab.label        "Tampar l'onglet">
 
 <!ENTITY autocompleteResultsHeader.label  "Vòstres resultats">
 
-<!ENTITY appbarErrorConsole.label   "Dobrir la consòla d'errors">
+<!ENTITY appbarErrorConsole.label      "Dobrir la consòla d'errors">
 
-<!ENTITY appbarFindInPage2.label    "Recercar dins la pagina">
+<!ENTITY appbarFindInPage2.label       "Recercar dins la pagina">
 
 
+<!ENTITY appbarViewPageSource.label    "Visualizar lo còde font de la pagina">
 
 <!ENTITY bookmarksHeader.label       "Marcapaginas">
-
+<!ENTITY recentHistoryHeader.label   "Istoric recent">
 <!ENTITY remoteTabsHeader.label      "Onglets d'autres aparelhs">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -88,7 +90,40 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
 
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "Ai comprés !">

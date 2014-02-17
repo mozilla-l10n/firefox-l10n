@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Telecargaments">
 
-<!ENTITY showWhenDownloading.label     "Afichar la fenèstra dels Telecargaments quand telecargatz un fichièr">
-<!ENTITY showWhenDownloading.accesskey "f">
-<!ENTITY closeWhenDone.label "La tampar quand totes los telescargaments son acabats">
-<!ENTITY closeWhenDone.accesskey "L">
 <!ENTITY saveTo.label "Enregistrar los fichièrs dins lo dorsièr">
 <!ENTITY saveTo.accesskey "n">
 <!ENTITY chooseFolderWin.label        "Percórrer…">

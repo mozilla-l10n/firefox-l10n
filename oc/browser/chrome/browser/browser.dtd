@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigacion privada)">
+
+<!ENTITY navbarOverflow.label                "Autras aisinas...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Tornar cargar l'onglet">
@@ -23,7 +25,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "Tampar los onglets situats a drecha">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -45,11 +48,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Anullar la tampadura dels onglets">
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -58,8 +56,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Dobrir una adreça...">
-<!ENTITY openLocationCmd.accesskey "a">
 <!ENTITY openFileCmd.label "Dobrir un fichièr...">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
@@ -99,6 +95,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Afichar totes los onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+<!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
+
+
+
+
+
+<!ENTITY syncErrorPanel.signInButton.label "Connexion">
+<!ENTITY syncErrorPanel.signInButton.accesskey "C">
+
+
 <!ENTITY fullScreenMinimize.tooltip "Redusir">
 <!ENTITY fullScreenRestore.tooltip "Restablir">
 <!ENTITY fullScreenClose.tooltip "Tampar">
@@ -119,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
+<!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Partejar aquesta pagina">
@@ -132,6 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "P">
 <!ENTITY shareVideoCmd.label "Partejar aquesta vidèo">
 <!ENTITY shareVideoCmd.accesskey "P">
+<!ENTITY feedsMenu.label "S'abonar">
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
@@ -158,24 +167,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
-<!ENTITY backForwardItem.title        "Pagina precedenta/seguenta">
 <!ENTITY locationItem.title           "Adreça">
 <!ENTITY searchItem.title             "Recercar">
-<!ENTITY bookmarksItem.title          "Marcapaginas">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Acuèlh">
 
 <!ENTITY tabGroupsButton.label        "Gropes d'onglets">
-<!ENTITY tabGroupsButton.tooltip      "Organizar los onglets per gropes">
 
 <!ENTITY bookmarksButton.label          "Marcapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
-<!ENTITY bookmarksMenuButton.tooltip        "Marcapaginas">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcapaginas pas triats">
-<!ENTITY viewBookmarksSidebar.label         "Afichar lo panèl dels marcapaginas">
+<!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -241,11 +246,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "a">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "VK_F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Desbugador del navigador">
-<!ENTITY chromeDebuggerMenu.accesskey   "e">
+<!ENTITY browserToolboxMenu.label     "Bóstia d'aisinas del navigador">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Tampar la Barra de desvolopament">
@@ -256,7 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "VK_F2">
 <!ENTITY devToolboxMenuItem.label          "Aisinas">
 <!ENTITY devToolboxMenuItem.accesskey      "s">
-<!ENTITY devToolboxMenuItem.keycode        "I">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Dobrir/tampar las aisinas pels desvolopaires">
@@ -321,12 +325,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Istoric">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
-<!ENTITY historyRestoreLastSession.label "Fenèstras tampadas recentament">
+<!ENTITY historyRestoreLastSession.label "Restablir la sesilha precedenta">
 
 <!ENTITY showAllHistoryCmd2.label "Afichar tot l'istoric">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
+
+
+
+<!ENTITY appMenuHistory.label "Istoric">
+<!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
+<!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
+<!ENTITY appMenuHistory.restoreSession.label "Restablir la sesilha precedenta">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Picar un tèrme de recercar o una adreça">
@@ -411,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
+<!ENTITY switchToMetroCmd.label       "Tornar dobrir amb &brandShortName; per Windows 8 tactile">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
@@ -468,10 +500,10 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Ausible">
 <!ENTITY mediaUnmute.accesskey       "u">
-
-
-
-
+<!ENTITY mediaPlaybackRate.label     "Velocitat de lectura">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Alentit (×0,5)">
+<!ENTITY mediaPlaybackRate050x.accesskey "n">
 <!ENTITY mediaPlaybackRate100x.label "Velocitat Normala">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
 <!ENTITY mediaPlaybackRate150x.label "Velocitat Nauta (1.5×)">
@@ -479,7 +511,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x.label "Velocitat desmesurada (×2)">
+<!ENTITY mediaPlaybackRate200x.accesskey "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -535,6 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Quitar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "Q">
+<!ENTITY quitApplicationCmdWin.tooltip     "Sortir de &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Quitar"> 
@@ -607,6 +641,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+<!ENTITY identity.help.tooltip "Cossí pòdi saber se ma connexion cap a un site web es securizada ?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -624,7 +660,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY socialToolbar.title        "Boton de la barra d'aisinas dels mèdias socials">
-<!ENTITY social.notLoggedIn.label   "Pas connectat">
 
 <!ENTITY social.ok.label       "D'acòrdi">
 <!ENTITY social.ok.accesskey   "c">
@@ -637,11 +672,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Afichar las notificacions sul burèu">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-
-
+<!ENTITY social.activated.description "Los servicis de <label/> son estats activats. Podètz modificar los paramètres dels servicis dempuèi <label class='text-link'> lo gestionari de moduls complementaris</label>.">
+<!ENTITY social.activated.undo.label "Ops, anullatz aquò !">
+<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Ne saber mai…">
 <!ENTITY social.learnMore.accesskey "s">
 <!ENTITY social.closeNotificationItem.label "Ne saber mai…">
+
+
+
+
+
+<!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleccionar las discussions">
@@ -649,8 +693,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.markpageMenu.accesskey "s">
 <!ENTITY social.markpageMenu.label "Enregistrar la pagina jos...">
-
-
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Enregistrar lo ligam jos...">
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
@@ -663,13 +707,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.helplink "Afichar los sites amb los quals partejatz actualament vòstra webcam o vòstre microfòn">
 <!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">
 
+<!ENTITY pointerLock.notification.message "Quichatz sus Escap a tot moment per l'afichar tornarmai.">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "Autorizar ara">
-
+<!ENTITY pluginActivateAlways.label "Activar totjorn">
 <!ENTITY pluginBlockNow.label "Blocar lo plugin">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -680,9 +725,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "28em">
-
-
+<!ENTITY tabCrashed.message "Bon, es tracassant. Avèm ensajat d'afichar aquesta pagina web, mas respond pas.">
+<!ENTITY tabCrashed.checkSendReport "Informatz &vendorShortName; d'aqueste problèma per que pòsca èsser corregit.">
 <!ENTITY tabCrashed.tryAgain "Ensajatz tornarmai">
+
+<!ENTITY uiTour.infoPanel.close "Tampar">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -718,4 +765,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Nivèl de zoom">
 <!ENTITY addonBarCloseButton.tooltip   "Tampar la barra dels moduls">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Pagina precedenta/seguenta">
+<!ENTITY viewBookmarksSidebar.label    "Afichar lo panèl dels marcapaginas">
+<!ENTITY bookmarksItem.title           "Marcapaginas">
+<!ENTITY openLocationCmd.label         "Dobrir una adreça...">
+<!ENTITY openLocationCmd.accesskey     "a">
+<!ENTITY bookmarksMenuButton.tooltip   "Marcapaginas">
+<!ENTITY switchToMetroCmd2.label       "Tornar dobrir amb &brandShortName; per Windows 8 tactile">
+<!ENTITY tabGroupsButton.tooltip       "Organizar los onglets per gropes">
 <!-- end of strings to be removed post-Australis -->

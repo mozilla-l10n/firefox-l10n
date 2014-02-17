@@ -25,6 +25,7 @@ d'installar de logiciels sus aqueste ordenador.">
 mas dispausatz pas d'un espaci de disc sufisent per l'installar.">
 <!ENTITY  manualUpdateGetMsg.label        "Podètz obténer totjorn la darrièra version de &brandShortName; sus :">
 
+<!ENTITY  unsupported.title               "Sistèma pas suportat">
 
 <!ENTITY  unsupportedLink.label           "ne saber mai.">
 
