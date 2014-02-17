@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Tebek">
 <!ENTITY forward.label         "Foarút">
 <!ENTITY newtab.label          "Nij ljepblêd">
+<!ENTITY newPrivateTab.label   "Nij priveeljepblêd">
 <!ENTITY closetab.label        "Ljepblêd slute">
 
 <!ENTITY autocompleteResultsHeader.label  "Jo resultaten">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -130,3 +133,21 @@
 <!ENTITY firstRunHistory.label "Sjen wêr't jo op it ynternet west binne">
 <!ENTITY firstRunWelcome.label "Wolkom by &brandShortName;">
 <!ENTITY firstRunDifferent.label "Fan natuere oars">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Tik om werom te gean nei de foarige side">
+<!ENTITY firstRunNewTab.label "Foegje in nij ljepblêd ta om in nije site te ûntdekken">
+<!ENTITY firstRunStar.label "Brûk blêdwizers om siden te bewarjen foar letter">
+<!ENTITY firstRunPin.label "Pin eltse site ta jo Windows Startskerm foar flugge tagong">
+<!ENTITY firstRunGotIt.label "Ik snap it!">
