@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
-<!ENTITY pref_category_search2 "Arama ayarları">
+<!ENTITY pref_category_search3 "Ara">
 <!ENTITY pref_category_display "Görünüm">
 <!ENTITY pref_category_privacy_short "Gizlilik">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
 <!ENTITY pref_category_add_search_providers "Daha fazla arama sağlayıcı ekle">
+<!ENTITY pref_category_search_restore_defaults "Arama motorlarını geri yükle">
+<!ENTITY pref_search_restore_defaults "Varsayılanları geri yükle">
+<!ENTITY pref_search_restore_defaults_summary "Varsayılanları geri yükle">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_docs "Daha fazla bilgi">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
+
+<!ENTITY pref_category_home "Başlangıç">
+<!ENTITY pref_category_home_panels "Paneller">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Özelleştir">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_vendor_faqs "SSS">
 <!ENTITY pref_vendor_feedback "Geri bildirim gönder">
-<!ENTITY pref_search_set_default "Varsayılan yap">
-<!ENTITY pref_search_default "Varsayılan">
-<!ENTITY pref_search_remove "Kaldır">
+
+<!ENTITY pref_dialog_set_default "Varsayılan yap">
+<!ENTITY pref_dialog_default "Varsayılan">
+<!ENTITY pref_dialog_remove "Kaldır">
+
 <!ENTITY pref_search_last_toast "Son arama motorunuzu kaldıramaz veya devre dışı bırakamazsınız.">
+
+<!ENTITY pref_panels_show "Göster">
+<!ENTITY pref_panels_hide "Gizle">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
 <!ENTITY datareporting_notification_action_long "Hangi bilgilerin paylaşılacağını seç">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Önceki">
 <!ENTITY find_next "Sonraki">
 <!ENTITY find_close "Kapat">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Cihaza yayın">
+<!ENTITY media_play "Yürüt">
+<!ENTITY media_pause "Duraklat">
+<!ENTITY media_stop "Durdur">
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
 <!ENTITY contextmenu_open_private_tab "Gizli sekmede aç">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
 <!ENTITY pref_titlebar_mode_url "Sayfa adresini göster">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Kaydırırken başlık çubuğunu gizle">
+<!ENTITY pref_scroll_title_bar "Başlık çubuğunu kaydır">
 
 <!ENTITY history_removed "Sayfa silindi">
 
