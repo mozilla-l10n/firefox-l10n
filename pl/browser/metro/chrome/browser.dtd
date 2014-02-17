@@ -49,6 +49,7 @@
 <!ENTITY consoleMessages.label "Wiadomości">
 <!ENTITY consoleCodeEval.label "Kod:">
 <!ENTITY consoleClear.label "Wyczyść">
+<!ENTITY consoleCopyAll.label "Kopiuj">
 <!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Plik źródłowy:">
 <!ENTITY consoleErrLine.label "Linia:">
