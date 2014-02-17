@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Tidak dapat menyambung ">
-
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -30,44 +30,51 @@
 <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> 
 </ul>">
 
-<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini kerana sebab tertentu.</p>">
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini atas sebab tertentu.</p>">
 
 <!ENTITY malformedURI.title "Alamat tidak sah">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Alamat Web biasanya ditulis seperti 
-<strong>http://www.example.com/</strong></li> 
-<li>Pstikan yang anda menggunakan slash (cth. 
+<li>Alamat Web kebiasaannya ditulis seperti 
+<strong>http://www.contoh.com/</strong></li> 
+<li>Pastikan yang anda menggunakan slash (cth. 
 <strong>/</strong>).</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "Sambungan diganggu">
-
+<!ENTITY netInterrupt.title "Sambungan terganggu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Dokumen Luput">
-<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Sekali Lagi untuk meminta dokumen daripada laman web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Lagi untuk meminta semula dokumen daripada laman web.</li></ul>">
 
-<!ENTITY netOffline.title "Mod luat talian">
+<!ENTITY netOffline.title "Mod luar talian">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Cuba lagi. &brandShortName; akan cuba membuka sambungan dan ulangmuat laman.</li> 
+</ul>">
 
-
-<!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
+<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> 
 </ul>">
 
-<!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
-
+<!ENTITY unsafeContentType.title "Jenis Fail Tidak Selamat">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Sambungan diulang tetap">
-
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
-
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Alamat tidak difahami">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li>  </ul>">
+<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> 
+</ul>">
 
-<!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
+<!ENTITY proxyConnectFailure.title "Pelayan proksi menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li> 
 <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi 
@@ -75,7 +82,11 @@ berfungsi.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
-
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Semak tetapan proksi untuk memastikan yang ianya adalah betul</li> 
+<li>Semak untuk memastikan peranti anda mempunyai sambungan data atau
+Wi-Fi yang berfungsi.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -90,38 +101,45 @@ Sekuriti Peribadi yang terpasang.</li>
 <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> 
 </ul>">
 
+<!ENTITY nssFailure2.title "Sambungan yang Selamat Gagal">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Laman yang anda cuba paparkan tidak dapat ditunjukkan kerana kesahihan data yang diterima tidak dapat disahkan.</li> 
-<li>Sila hubungi pemilik-pemilik lamanweb untuk memaklumkan masalah ini. Alternatifnya adalah dengan menggunakan arahan yang boleh dijumpai pada menu bantuan untuk melaporkan laman bermasalah ini.</li> 
+<li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini. Alternatifnya, gunakan arahan yang boleh ditemui pada menu bantuan untuk melaporkan laman bermasalah ini.</li> 
 </ul>">
 
+<!ENTITY nssBadCert.title "Sambungan yang Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Ini mungkin masalah konfigurasi server, atau 
  seseorang cuba meniru jadi server.</li>
-<li>Jika kamu telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin 
+<li>Jika anda telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin 
  sementara, dan anda boleh cuba lagi kemudian.</li>
 </ul>">
 
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Laman mungkin tiada buat sementara waktu atau sibuk. Cuba lagi dalam beberapa ketika.</li> 
+<li>Jika anda tidak dapat memuat sebarang laman, periksa sambungan data atau Wi-Fi peranti mudah alih anda.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentError.title "Ralat Kandungan Rosak">
-<!ENTITY corruptedContentError.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya daripada sini!">
-<!ENTITY securityOverride.exceptionButtonLabel "Tambah Kecuali">
+<!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya dari sini!">
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Kamu tidak sepatutnya menambah pengecualian jika kamu menggunakan sambungan internet yang kamu tidak percayai sepenuhnya atau kamu tidak biasa lagi melihat amaran untuk server ini.</p> 
+<!ENTITY securityOverride.warningContent "<p>Anda tidak sepatutnya menambah pengecualian anda menggunakan sambungan internet yang anda tidak percayai sepenuhnya atau anda tidak biasa melihat amaran untuk pelayan ini.</p> 
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
+<!ENTITY remoteXUL.title "XUL Jarak Jauh">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik tapak web dan beritahu mereka mengenai masalah ini.</li></ul></p>">
 

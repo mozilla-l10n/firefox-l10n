@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title Bimbit
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,11 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser Firefox: Perihal pelayar anda
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
-
 
 
 
@@ -47,6 +49,7 @@
 
 
 
+#define bookmarks_addons Firefox: Sesuaikan dengan add-on
 
 
 
@@ -54,14 +57,23 @@
 
 
 
-
-
-
 # link title for https://support.mozilla.org/mobile
 
 
 
+#define bookmarks_support Firefox: Sokongan
 
+
+
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+#define bookmarks_marketplace Firefox Marketplace
 
 
 

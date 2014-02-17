@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "Add-ons">
-<!ENTITY aboutAddons.header2                    "Add-ons anda">
-<!ENTITY aboutAddons.options                    "Opsyen">
-
+<!ENTITY aboutAddons.title2                     "Add-on">
+<!ENTITY aboutAddons.header2                    "Add-on Anda">
+<!ENTITY aboutAddons.options                    "Pilihan">
+<!ENTITY aboutAddons.browseAll                  "Layari semua Add-on Firefox">
 
 <!ENTITY addonAction.enable                     "Bolehkan">
 <!ENTITY addonAction.disable                    "Lumpuhkan">
