@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Баптаулар">
 <!ENTITY pref_category_advanced "Кеңейтілген">
 <!ENTITY pref_category_customize "Баптау">
-<!ENTITY pref_category_search2 "Іздеу баптаулары">
+<!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_display "Көрсету">
 <!ENTITY pref_category_privacy_short "Жекелік">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
 <!ENTITY pref_category_add_search_providers "Көбірек іздеу жүйелерін қосу">
+<!ENTITY pref_category_search_restore_defaults "Іздеу жүйелерін қалпына келтіру">
+<!ENTITY pref_search_restore_defaults "Бастапқы түрін қалпына келтіру">
+<!ENTITY pref_search_restore_defaults_summary "Бастапқы түрін қалпына келтіру">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,8 @@
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_docs "Көбірек білу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
+
+<!ENTITY pref_category_home_panels "Панельдер">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
@@ -148,10 +153,15 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Кері байланыс хабарламасын жіберу">
-<!ENTITY pref_search_set_default "Үнсіз келісім ретінде орнату">
-<!ENTITY pref_search_default "Үнсiз келiсiм бойынша">
-<!ENTITY pref_search_remove "Өшіру">
+
+<!ENTITY pref_dialog_set_default "Үнсіз келісім ретінде орнату">
+<!ENTITY pref_dialog_default "Үнсiз келiсiм бойынша">
+<!ENTITY pref_dialog_remove "Өшіру">
+
 <!ENTITY pref_search_last_toast "Соңғы іздеу жүйесін өшіру не сөндіруге болмайды.">
+
+<!ENTITY pref_panels_show "Көрсету">
+<!ENTITY pref_panels_hide "Жасыру">
 
 <!ENTITY datareporting_notification_title "&brandShortName; статистика және деректері">
 <!ENTITY datareporting_notification_action_long "Бөлісетін мәліметіңізді таңдаңыз">
@@ -215,6 +225,13 @@ size. -->
 <!ENTITY find_prev "Алдыңғы">
 <!ENTITY find_next "Келесі">
 <!ENTITY find_close "Жабу">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Құрылғыға шақыру">
+<!ENTITY media_play "Ойнау">
+<!ENTITY media_pause "Аялдату">
+<!ENTITY media_stop "Тоқтату">
 
 <!ENTITY contextmenu_open_new_tab "Жаңа бетте ашу">
 <!ENTITY contextmenu_open_private_tab "Жекелік бетте ашу">
@@ -236,8 +253,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
 <!ENTITY pref_titlebar_mode_url "Парақ адресін көрсету">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Айналдыру кезінде атау жолағын жасыру">
+<!ENTITY pref_scroll_title_bar "Атау жолағын айналдыру">
 
 <!ENTITY history_removed "Парақ өшірілді">
 
