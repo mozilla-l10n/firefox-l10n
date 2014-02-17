@@ -9,18 +9,20 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcapaginas">
-
+<!ENTITY  history_title "Istoric">
 <!ENTITY  reading_list_title "Lista de lectura">
 
+<!ENTITY  switch_to_tab "Anar a l\u0027onglet">
 
+<!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
-
-
-
-
-
-
-
+<!ENTITY  crash_send_report_message3 "Assabentar &#037;s d\u0027aqueste problèma per que pòsca èsser corregit">
+<!ENTITY  crash_include_url2 "Inclure l\u0027URL de la pagina ont vos trobàvetz">
+<!ENTITY  crash_sorry "O planhèm">
+<!ENTITY  crash_comment "Apondre un comentari (los comentaris son visibles publicament)">
+<!ENTITY  crash_allow_contact2 "Permetre a &vendorShortName; de vos contactar a prepaus d\u0027aqueste rapòrt">
+<!ENTITY  crash_email "Vòstra adreça electronica">
+<!ENTITY  crash_closing_alert "Quitar sens mandar cap de rapòrt de plantatge ?">
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
@@ -62,37 +64,46 @@
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
-
-
-
-
-
-
-
+<!ENTITY pref_category_advanced "Avançat">
+<!ENTITY pref_category_customize "Personalizar">
+<!ENTITY pref_category_search3 "Recercar">
+<!ENTITY pref_category_display "Afichar">
+<!ENTITY pref_category_privacy_short "Vida privada">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Donadas collectadas">
+<!ENTITY pref_category_installed_search_engines "Motors de recèrca installats">
+<!ENTITY pref_category_add_search_providers "Apondre de motors de recèrca">
+<!ENTITY pref_category_search_restore_defaults "Restablir los motors de recèrca">
 
 
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-
-
-
+<!ENTITY pref_search_tip "ASTÚCIA : Apondètz quin site que siá a vòstra lista de motors de recèrca en efectuant una quichada longa sus lor camp de recèrca.">
+<!ENTITY pref_category_devtools "Aisinas de desvolopament">
+<!ENTITY pref_developer_remotedebugging "Desbugatge distant">
+<!ENTITY pref_developer_remotedebugging_docs "Ne saber mai…">
 <!ENTITY pref_remember_signons "Enreg. los senhals :">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
+<!ENTITY pref_header_customize "Personalizar">
+<!ENTITY pref_header_display "Afichar">
+<!ENTITY pref_header_privacy_short "Vida privada">
+<!ENTITY pref_header_help "Ajuda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Aisinas de desvolopament">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activat">
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
 
-
-
-
+<!ENTITY pref_donottrack_menu "Pistatge">
+<!ENTITY pref_donottrack_disallow_tracking "Indicar als sites Web que vòli pas èsser pistat">
+<!ENTITY pref_donottrack_allow_tracking "Indicar als sites Web que vòli pas èsser pistat">
+<!ENTITY pref_donottrack_no_pref "Indicar pas res als sites a prepaus de mas preferéncias de pistatge">
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
@@ -103,9 +114,9 @@
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
 <!ENTITY pref_plugins_disabled "Desactivat">
 <!ENTITY pref_text_size "Talha del tèxte">
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "Encadenaments de tèxte">
+<!ENTITY pref_restore "Onglets">
+<!ENTITY pref_restore_always "Restablir totjorn">
 
 <!ENTITY pref_font_size_tiny "Fòrça pichona">
 <!ENTITY pref_font_size_small "Pichona">
@@ -135,21 +146,25 @@ size. -->
 <!ENTITY pref_private_data_passwords "Senhals enregistrats">
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
-
+<!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
 <!ENTITY pref_private_data_downloadFiles "Fichièrs telecargats">
 
 
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
-
+<!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Retorns d\u0027utilizacion">
 
-<!ENTITY pref_search_default "Per manca">
+<!ENTITY pref_dialog_set_default "Definir per defaut">
+<!ENTITY pref_dialog_default "Per manca">
+<!ENTITY pref_dialog_remove "Suprimir">
 
 
+<!ENTITY pref_panels_show "Afichar">
 
 
-
-
+<!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
+<!ENTITY datareporting_notification_action "Causir çò que mandi">
+<!ENTITY datareporting_notification_summary "Per melhorar vòstra navigacion, &brandShortName; manda automaticament certanas informacions a &vendorShortName;.">
 
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -159,6 +174,8 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
+<!ENTITY datareporting_fhr_title "Rapòrt de plantatge de &brandShortName;">
+
 
 
 
@@ -167,11 +184,14 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 
 
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
+<!ENTITY pref_update_autodownload2 "Telecargar automaticament las mesas a jorn">
 <!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Desactivat">
-<!ENTITY pref_update_autodownload_enabled "Activat">
+<!ENTITY pref_update_autodownload_never "Pas jamai">
+<!ENTITY pref_update_autodownload_always "Totjorn">
 
 <!ENTITY quit "Quitar">
 
@@ -190,11 +210,11 @@ size. -->
 <!ENTITY new_tab "Onglet novèl">
 <!ENTITY new_private_tab "Onglet de nav. privada">
 <!ENTITY close_all_tabs "Tampar totes los onglets">
-
+<!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privats">
 <!ENTITY tabs_synced "Sincronizats">
-
-
+<!ENTITY set_image_fail "Impossible de partejar aqueste imatge">
+<!ENTITY set_image_chooser_title "Enregistrar l\u0027imatge jos">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -202,25 +222,34 @@ size. -->
 <!ENTITY find_prev "Precedent">
 <!ENTITY find_next "Seguent">
 <!ENTITY find_close "Tampar">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Lectura">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Arrestar">
 
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
 <!ENTITY contextmenu_open_in_reader "Dobrir dins lo lector">
-
+<!ENTITY contextmenu_remove "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
 <!ENTITY contextmenu_share "Partejar">
 <!ENTITY contextmenu_pasteandgo "Pegar &amp; dobrir">
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
+<!ENTITY contextmenu_subscribe "S\u0027abonar a aquesta pagina">
+<!ENTITY contextmenu_site_settings "Editar los paramètres del Site">
+<!ENTITY contextmenu_top_sites_edit "Modificar">
+<!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
+<!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
+<!ENTITY contextmenu_add_search_engine "Apondre un motor de recèrca">
 
+<!ENTITY pref_titlebar_mode "Barra de títol">
+<!ENTITY pref_titlebar_mode_title "Afichar lo títol de la pagina">
 
-
-<!ENTITY contextmenu_top_bookmarks_pin "Espingolar lo site">
-<!ENTITY contextmenu_top_bookmarks_unpin "Daissar anar lo site">
-
-
-
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY history_removed "Pagina suprimida">
 
@@ -230,6 +259,8 @@ size. -->
 <!ENTITY bookmark_edit_keyword "Mot clau">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "Paramètres del site">
 <!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
 <!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
@@ -237,7 +268,7 @@ size. -->
 <!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
 <!ENTITY reading_list_failed "Impossible d\u0027apondre la pagina a vòstra lista de lectura">
-
+<!ENTITY reading_list_duplicate "Pagina ja aponduda a vòstra lista de lectura">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -258,20 +289,20 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
+<!ENTITY home_history_title "Istoric">
 
+<!ENTITY home_last_tabs_title "Vòstres darrièrs onglets dobèrts">
 <!ENTITY home_last_tabs_open "Dobrir totes los onglets">
 
-
-
-
-
+<!ENTITY home_most_recent_title "Los mai recents">
+<!ENTITY home_most_recent_empty "Los sites visitats recentament s\u0027afichan aicí.">
+<!ENTITY home_reading_list_empty "Los articles enregistrats per pus tard s\u0027afichan aicí. ">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-
 
 
 <!ENTITY filepicker_title "Causir un fichièr">
@@ -296,7 +327,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 
-
+<!ENTITY learn_more "Ne saber mai">
 
 
 
@@ -339,8 +370,13 @@ dempuèi Android">
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "Contunhar">
+<!ENTITY guest_session_dialog_cancel "Anullar">
 
 
 
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
 
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Acabat">
