@@ -66,13 +66,16 @@
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
-<!ENTITY pref_category_search2 "การตั้งค่าการค้นหา">
+<!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_display "การแสดงผล">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
 <!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
+<!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
+<!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
+<!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
 <!ENTITY pref_developer_remotedebugging_docs "เรียนรู้เพิ่ม">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
+
+<!ENTITY pref_category_home "หน้าหลัก">
+<!ENTITY pref_category_home_panels "แผง">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
 <!ENTITY pref_vendor_feedback "ส่งข้อเสนอแนะ">
-<!ENTITY pref_search_set_default "ตั้งเป็นค่าปริยาย">
-<!ENTITY pref_search_default "ค่าปริยาย">
-<!ENTITY pref_search_remove "เอาออก">
+
+<!ENTITY pref_dialog_set_default "ตั้งเป็นค่าปริยาย">
+<!ENTITY pref_dialog_default "ค่าปริยาย">
+<!ENTITY pref_dialog_remove "เอาออก">
+
 <!ENTITY pref_search_last_toast "คุณไม่สามารถลบหรือปิดการทำงานของเครื่องมือค้นหาอันสุดท้ายได้">
+
+<!ENTITY pref_panels_show "แสดง">
+<!ENTITY pref_panels_hide "ซ่อน">
 
 <!ENTITY datareporting_notification_title "สถิติและข้อมูลของ &brandShortName;">
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "ก่อนหน้า">
 <!ENTITY find_next "ถัดไป">
 <!ENTITY find_close "ปิด">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "ถ่ายทอดไปยังอุปกรณ์">
+<!ENTITY media_play "เล่น">
+<!ENTITY media_pause "หยุดพัก">
+<!ENTITY media_stop "หยุด">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
 <!ENTITY pref_titlebar_mode_url "แสดงที่อยู่เว็บ">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "ซ่อนแถบหัวเรื่องขณะเลื่อนหน้าจอ">
+<!ENTITY pref_scroll_title_bar "เลื่อนแถบหัวเรื่อง">
 
 <!ENTITY history_removed "หน้าเว็บถูกลบ">
 
