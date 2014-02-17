@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "মন্তব্য প্রদান… (S)">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+
+
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

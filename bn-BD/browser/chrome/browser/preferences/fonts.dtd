@@ -36,7 +36,6 @@
 <!ENTITY  font.langGroup.el                       "গ্রিক">
 <!ENTITY  font.langGroup.turkish                  "তুর্কি">
 <!ENTITY  font.langGroup.unicode                  "অন্যান্য ভাষা">
-<!ENTITY  font.langGroup.user-def                 "ব্যবহারকারী নির্বাচিত">
 <!ENTITY  font.langGroup.thai                     "থাই">
 <!ENTITY  font.langGroup.hebrew                   "হিব্রু">
 <!ENTITY  font.langGroup.arabic                   "আরবি">
