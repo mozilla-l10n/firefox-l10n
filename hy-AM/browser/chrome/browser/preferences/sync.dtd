@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմանները">
 <!ENTITY prefs.ppLink.label         "Գաղտնիության Դրույթները">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Մտնել">
+
+
