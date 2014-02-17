@@ -57,20 +57,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.label "Loka póstglugga/flipa þegar verið er að færa eða eyða">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 <!-- Update -->
-<!ENTITY autoCheck.label "Athuga sjálfkrafa uppfærslur fyrir:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "T">
-<!ENTITY enableAddonsUpdate.label "Uppsettar viðbætur">
-<!ENTITY enableAddonsUpdate.accesskey "U">
-<!ENTITY whenUpdatesFound.label "Þegar uppfærslur fyrir &brandShortName; finnast,">
-<!ENTITY modeAskMe.label "Spyrja hvað á að gera">
-<!ENTITY modeAskMe.accesskey "S">
-<!ENTITY modeAutomatic.label "Hlaða niður sjálfkrafa og setja inn uppfærsluna">
-<!ENTITY modeAutomatic.accesskey "H">
-<!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
-<!ENTITY modeAutoAddonWarn.accesskey "V">
-<!ENTITY showUpdates.label "Sýna uppfærslusögu">
-<!ENTITY showUpdates.accesskey "ö">
+<!ENTITY updateApp.label "&brandShortName; uppfærslur:">
+<!ENTITY updateAuto.label "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
+<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateCheck.label "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
+<!ENTITY updateCheck.accesskey "A">
+<!ENTITY updateManual.label "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
+<!ENTITY updateManual.accesskey "A">
+<!ENTITY updateAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY updateAutoAddonWarn.accesskey "V">
+<!ENTITY updateHistory.label "Sýna uppfærslusögu">
+<!ENTITY updateHistory.accesskey "p">
+<!ENTITY updateOthers.label "Uppfæra sjálfvirkt:">
+<!ENTITY enableAddonsUpdate3.label "Viðbætur">
+<!ENTITY enableAddonsUpdate3.accesskey "V">
 <!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey "b">
 <!-- Networking and Disk Space -->
