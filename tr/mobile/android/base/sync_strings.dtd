@@ -71,10 +71,10 @@
 <!ENTITY sync.button.connect.label "Bağlan">
 <!ENTITY sync.button.ok.label "Tamam">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (eski)">
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "Yer imleri menüsü">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiketler">
@@ -104,3 +104,98 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Diğer aygıtlara sekme göndermek için aygıtınızda &syncBrand.fullName.label;\u0027i kurun.">
 <!ENTITY sync.text.tab.sent.label "Sekmeniz gönderildi!">
 <!ENTITY sync.text.tab.not.sent.label "Sekmeniz gönderilirken bir sorun oluştu.">
+<!-- Firefox account strings. -->
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+
+
+<!ENTITY fxaccount_checkbox_contentDescription2 "Firefox hesapları onay kutusu grafiği">
+<!ENTITY fxaccount_icon_contentDescription2 "Firefox hesapları simgesi">
+<!ENTITY fxaccount_intro_contentDescription2 "Firefox hesapları tanıtım grafikleri">
+<!ENTITY fxaccount_mail_contentDescription2 "Firefox hesapları zarf grafiği">
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_email_hint "E-posta">
+<!ENTITY fxaccount_password_hint "Parola">
+<!ENTITY fxaccount_password_hide "Gizle">
+<!ENTITY fxaccount_password_show "Göster">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Tarayıcıya dön">
+
+<!ENTITY fxaccount_policy_linktos "Hizmet koşulları">
+<!ENTITY fxaccount_policy_linkprivacy "Gizlilik ilkeleri">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;\u0027e hoş geldiniz">
+<!ENTITY fxaccount_getting_started_description "Sekmelerinizi, yer imlerinizi, parolalarınızı ve dahasını eşitlemek için oturum açın.">
+<!ENTITY fxaccount_getting_started_get_started "Başlayın">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;\u0027in eski bir sürümünü mü kullanıyorsunuz?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+
+<!ENTITY fxaccount_create_account_header "Firefox hesabı açın">
+<!ENTITY fxaccount_create_account_password_length_restriction "En az 8 karakter olmalıdır">
+<!ENTITY fxaccount_create_account_year_of_birth "Doğum yılı">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text "Devam ederek, Firefox çevrimiçi hizmetlerinin &formatS1; ve &formatS2;ni kabul ediyorum.">
+<!ENTITY fxaccount_create_account_button "Sonraki">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Nelerin eşitleneceğini seçin">
+<!ENTITY fxaccount_create_account_sign_in_instead "Zaten hesabınız var mı? Oturum açın">
+
+
+
+
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Daha fazla bilgi">
+
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->
