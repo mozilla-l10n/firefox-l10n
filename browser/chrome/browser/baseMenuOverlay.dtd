@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "கருத்துக்களை சமர்ப்பிக்கவும்…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+
+
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
