@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; dê raboriya vê pencereyê bi bîr neyne.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Tu niha ne di pencereyeke taybet de yî.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "Di pencereya Gera Taybet de, brandShortName raboriya gerok, lêgerîn, jêbarkirin û formên webê û çerez yan jî pelên înterneta derbasdar tomar nake.  Lê, pelên ku tu jêbar bikî û bijareyên te dê bên tomrkirin.">
+<!ENTITY privatebrowsingpage.perwindow.description     "Di pencereya Gera Taybet de, &brandShortName; raboriya gerok, lêgerîn, jêbarkirin û formên webê û çerez yan jî pelên înterneta derbasdar tomar nake.  Lê, pelên ku tu jêbar bikî û bijareyên te dê bên tomrkirin.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Pencereyeke Nepen ya nû veke">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "N">
