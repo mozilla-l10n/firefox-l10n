@@ -45,3 +45,24 @@
 
 <!ENTITY prefs.tosLink.label        "Teirmichean na Seirbheise">
 <!ENTITY prefs.ppLink.label         "Am Poileasaidh Prìobhaideachd">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "Sanas prìobhaideachd">
+<!ENTITY determiningAcctStatus.label     "A' dearbhadh staid a' chunntais agad…">
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.beforename.label "Clàraich a-steach airson ceangal ris a-rithist">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Cha do rinn thu clàradh a-steach.">
+
+<!ENTITY manage.label                "Stiùirich">
+
+
+
+
+<!ENTITY welcome.signIn.label "Clàraich a-steach">
+
+
+<!ENTITY welcome.useOldSync.label "A bheil tionndadh nas sine de Sync agad?">
