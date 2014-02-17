@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY syncCustomize.acceptButton.label "தொடங்கு">
+
+
+
+<!--
+  These engine names are the same as in browser/preferences/sync.dtd except
+  for the last two that are marked as being specific to Desktop browsers.
+-->
+
+<!ENTITY engine.bookmarks.label           "புத்தகக்குறிகள்">
+<!ENTITY engine.bookmarks.accesskey       "m">
+<!ENTITY engine.history.label             "வரலாறு">
+<!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label                "தத்தல்கள்">
+<!ENTITY engine.tabs.accesskey            "T">
+<!ENTITY engine.passwords.label           "கடவுச்சொற்கள்">
+<!ENTITY engine.passwords.accesskey       "P">
+
+
+
+

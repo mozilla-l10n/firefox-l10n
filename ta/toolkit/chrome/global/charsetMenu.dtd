@@ -4,6 +4,9 @@
 
 <!ENTITY charsetMenu.label             "எழுத்து குறிமுறை">
 <!ENTITY charsetMenu.accesskey         "எ">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
 <!ENTITY charsetMenuAutodet.label      "தானியங்கு-கண்டுபிடிப்பு">
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "க">

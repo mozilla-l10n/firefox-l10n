@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">
 <!ENTITY prefs.ppLink.label         "தனிப்பட்ட கொள்கை">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "உள்நுழை">
+
+
