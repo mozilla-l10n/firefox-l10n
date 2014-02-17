@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Cleachdaidh sinn na h-aithisgean tuislidh gus duilgheadasan a rèiteachadh agus am bathar againn a leasachadh. Làimhsichidh sinn am fiosrachadh agad mar a mhìnich sinn ann am ">
 <!ENTITY crashprompt.privacyPolicyLink "poileasaidh prìobhaideachd &brandShortName;">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Cuir ann seòladh na duilleige far an robh mi">
 <!ENTITY crashprompt.acceptbutton    "Cuir na h-aithisgean">
 <!ENTITY crashprompt.refusebutton    "Na cuir iad">

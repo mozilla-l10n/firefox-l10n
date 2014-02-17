@@ -45,11 +45,11 @@
 <!ENTITY connection.startSimulator "Start Simulator">
 <!ENTITY connection.startSimulatorTooltip "Start an instance of the Simulator and connect to it">
 <!ENTITY connection.saveConnectionInfo "Save">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Save the host and port">
 <!ENTITY connection.connecting "A' ceangal…">
 <!ENTITY connection.disconnecting "Disconnecting…">
 <!ENTITY connection.cancel "Sguir dheth">
-
+<!ENTITY connection.cancelConnectTooltip "Cancel the connection in progress">
 <!ENTITY connection.cancelShowSimulatorTooltip "Exit the Simulator connection mode and return to the initial prompt">
 <!ENTITY connection.or "or">
 <!ENTITY connection.noSimulatorInstalled "No simulator installed.">
