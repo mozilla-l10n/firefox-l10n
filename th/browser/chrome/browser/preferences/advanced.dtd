@@ -88,8 +88,8 @@
 <!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
-<!ENTITY updateAuto1.label               "ติดตั้งการปรับรุ่นอัตโนมัติ (แนะนำ: ช่วยเพื่อความปลอดภัย)">
-<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAuto1.label               "ติดตั้งการปรับรุ่นอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
+<!ENTITY updateAuto1.accesskey           "ต">
 <!ENTITY updateAutoMetro.label           "ปรับรุ่นอัตโนมัติจากเครื่องตั้งโต๊ะและ &brandShortName; สำหรับ Windows 8">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "ตรวจสอบการปรับรุ่นแต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">

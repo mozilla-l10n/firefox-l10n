@@ -45,3 +45,20 @@
 
 <!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
 <!ENTITY prefs.ppLink.label         "นโยบายความเป็นส่วนตัว">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+<!ENTITY manage.label                "จัดการ">
+
+
+
+
+<!ENTITY welcome.signIn.label "Sign In">
+
+
+<!ENTITY welcome.useOldSync.label "ใช้ Sync รุ่นเก่าอยู่?">

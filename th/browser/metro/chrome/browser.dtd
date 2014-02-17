@@ -9,6 +9,7 @@
 <!ENTITY back.label            "ย้อนกลับ">
 <!ENTITY forward.label         "ถัดไป">
 <!ENTITY newtab.label          "แท็บใหม่">
+
 <!ENTITY closetab.label        "ปิดแท็บนี้">
 
 <!ENTITY autocompleteResultsHeader.label  "ผลลัพธ์ของคุณ">
@@ -99,6 +100,7 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
@@ -111,10 +113,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTopSites.label "ไปยังเว็บไซต์ที่คุณเยี่ยมชมมากที่สุด">
 <!ENTITY firstRunBookmarks.label "ค้นหาหน้าที่คุณเคยบันทึกไว้ทีหลัง">
@@ -122,3 +121,19 @@
 <!ENTITY firstRunHistory.label "ดูว่าคุณเคยท่องเว็บไหนมาบ้าง">
 <!ENTITY firstRunWelcome.label "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstRunDifferent.label "แตกต่างด้วยการออกแบบ">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "เข้าใจแล้ว!">
