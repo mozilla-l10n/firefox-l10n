@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Sykje">
-<!ENTITY newpref.label          "Nije foarkar tafoegje">
 <!ENTITY addpref.name           "Namme">
-<!ENTITY addpref.value          "Wearde">
 
 <!ENTITY cancel.label           "Annulearje">
-<!ENTITY reset.label            "Werinisjalisearje">
-<!ENTITY done.label             "Klear">
+<!ENTITY toggle.label           "Wikselje">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
+
+<!ENTITY string.placeholder     "Typ in tekst">
+<!ENTITY number.placeholder     "Typ in nûmer">
