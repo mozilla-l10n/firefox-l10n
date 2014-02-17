@@ -21,11 +21,11 @@
 <!ENTITY rights.intro-point2b "hérna">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Finna má friðhelgisreglur fyrir &vendorShortName; vörur ">
+<!ENTITY rights.intro-point3a "Finna má reglur um meðferð persónuupplýsinga fyrir &vendorShortName; vörur ">
 <!ENTITY rights.intro-point3b "hérna">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Allar viðeigandi friðhelgisreglur fyrir þessa vöru ættu að vera sýndar hér.">
+<!ENTITY rights.intro-point3-unbranded "Allar viðeigandi reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að vera sýndar hér.">
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "Aukalega býður &brandShortName; upp á þjónustur fyrir vefsvæðisupplýsingar, eins og öryggisupplýsinga þjónustuna; en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100&#37; nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í ">
 <!ENTITY rights.intro-point4b "þjónustuskilmálum">
