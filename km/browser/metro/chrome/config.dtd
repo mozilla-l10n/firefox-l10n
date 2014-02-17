@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "ស្វែងរក">
-<!ENTITY newpref.label          "បន្ថែម​ចំណូលចិត្ត​ថ្មី">
 <!ENTITY addpref.name           "ឈ្មោះ">
-<!ENTITY addpref.value          "តម្លៃ">
 
 <!ENTITY cancel.label           "បោះបង់">
-<!ENTITY reset.label            "កំណត់​ឡើងវិញ">
-<!ENTITY done.label             "ធ្វើ​រួច">
+
 
 <!ENTITY integer.label          "ចំនួន​គត់">
 <!ENTITY string.label           "តួអក្សរ">
 <!ENTITY boolean.label          "ប៊ូលីន">
+
+
