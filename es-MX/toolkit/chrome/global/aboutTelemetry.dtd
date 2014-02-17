@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  El navegador se cuelga">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medidas simples">
@@ -24,9 +25,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recopilados por complementos">
 
-<!ENTITY aboutTelemetry.toggleOn "  Pulse para desplegar la sección">
-
-<!ENTITY aboutTelemetry.toggleOff "  Pulse para replegar la sección">
 
 <!ENTITY aboutTelemetry.emptySection "  (No se han recopilado datos)">
 
@@ -35,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Recuperar nombres de función de las pilas de cuelgue">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Mostrar datos no procesados de cuelgues">
+

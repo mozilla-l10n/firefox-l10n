@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Enviar comentarios...">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
+
+
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
