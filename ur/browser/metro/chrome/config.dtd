@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "تلاش کریں">
-<!ENTITY newpref.label          "نئی ترجیح داخل کریں">
 <!ENTITY addpref.name           "نام">
-<!ENTITY addpref.value          "قدر">
 
 <!ENTITY cancel.label           "منسوخ کریں">
-<!ENTITY reset.label            "پھر سیٹ کریں">
-<!ENTITY done.label             "ختم">
+
 
 <!ENTITY integer.label          "سالم عدد">
 <!ENTITY string.label           "سٹرنگ">
 <!ENTITY boolean.label          "بولیائی">
+
+

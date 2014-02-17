@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "آیک نجی دریچہ کھولیں">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &lt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "نجی براؤزنگ روکنے کے لیے، آپ یہ دریچہ بند کر سکتے ہیں۔ ">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "اس کمپیوٹر کے پاس آپ کے براؤزنگ سابقات کا کوئی ریکارڈ نہیں ہو گا، لیکن آپ کا انٹرنیٹ سروس پرووائڈر یا باس پھر بھی آپ کے دیکھے گئے صفحات کا سراغ راہ لگا سکتے ہیں۔">
 <!ENTITY privatebrowsingpage.learnMore                 "مزید سیکھیں">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &lt; &newPrivateWindow.label; بھی منتخب کر سکتے ہیں۔">

@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "سروس کی ٹرمز">
 <!ENTITY prefs.ppLink.label         "پالیسی نجی نوعیت">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+<!ENTITY manage.label                "بندوبست کریں">
+
+
+
+
+<!ENTITY welcome.signIn.label " سائن ان کریں">
+
+

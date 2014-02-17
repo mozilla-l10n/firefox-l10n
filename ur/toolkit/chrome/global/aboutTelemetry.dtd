@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  براؤزر جاتا ہے">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  سادہ پیمائشیں">
@@ -24,9 +25,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
 
-<!ENTITY aboutTelemetry.toggleOn "  صیغہ وسیع کرنے کے لیے کلک کریں">
-
-<!ENTITY aboutTelemetry.toggleOff "  صیغہ غائب کرنے کے لیے کلک کریں">
 
 <!ENTITY aboutTelemetry.emptySection "  (کوئی کوائف جمع نہیں ہوئے)">
 
@@ -35,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  رکے سٹیک کے لیے فنکشن نام لائیں">
 
 <!ENTITY aboutTelemetry.hideSymbols "  رکاوٹوں کے خام کوائف دکھائیں">
+

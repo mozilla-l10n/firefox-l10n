@@ -38,116 +38,106 @@
   -  button that pretty prints the selected source. -->
 
 <!ENTITY debuggerUI.sources.prettyPrint "ماخذ سںوارنا ">
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "تخریھن شروع کریں">
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "جمع شدہ نشانات خالی کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions     "استثنیات پر توقف کریں">
-<!ENTITY debuggerUI.pauseExceptions.key "ای">
-<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "پکڑے گئے استثنیات کو نظر انداز کریں">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.key "سی">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit     "آغاز پر جھروکے دکھائیں">
-<!ENTITY debuggerUI.showPanesOnInit.key "س">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
-<!ENTITY debuggerUI.showVarsFilter      "متغیرہ فلٹر خانہ دکھائیں">
-<!ENTITY debuggerUI.showVarsFilter.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum        "صرف شمار پزیر خواص دکھائیں">
-<!ENTITY debuggerUI.showOnlyEnum.key    "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "اصل ماخذ دکھائیں">
-<!ENTITY debuggerUI.showOriginalSource.key  "او">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
 <!ENTITY debuggerUI.searchPanelOperators    "عمل کار:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+<!ENTITY debuggerUI.searchFile.key       "پی">
+<!ENTITY debuggerUI.searchFile.altkey    "او">
 
-<!ENTITY debuggerUI.searchFile          "نوشتہ فلٹر کریں">
-<!ENTITY debuggerUI.searchFile.key      "پی">
-<!ENTITY debuggerUI.searchFile.altkey   "او">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 
-<!ENTITY debuggerUI.searchGlobal        "تمام مسلوں میں تلاش کریں">
-<!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "تلاش براۓ تفائل تعریف">
-<!ENTITY debuggerUI.searchFunction.key  "ڈ">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken         "ڈھونڈیں">
-<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchToken           "ڈھونڈیں">
+<!ENTITY debuggerUI.searchToken.key       "F">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchGoToLine      "سطر پر جائیں…">
-<!ENTITY debuggerUI.searchGoToLine.key  "ل">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
+<!ENTITY debuggerUI.searchVariable.key       "V">
 
-<!ENTITY debuggerUI.searchVariable      "متغیرہ فلٹر کریں">
-<!ENTITY debuggerUI.searchVariable.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables.key       "وی">
 
-<!ENTITY debuggerUI.focusVariables      "متغیرہ شجر پر ماسکہ کریں">
-<!ENTITY debuggerUI.focusVariables.key  "وی">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
 <!ENTITY debuggerUI.condBreakPanelTitle "یہ بریک پوائنٹ صرف مندرجہ ذیل ایکسپریشن کے صحیح ہونے پر عمل کاری روکے گا">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuBreak         "بریک پوائنٹ شامل کریں">
-<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuCondBreak     "مشروط بریک پوائنٹ شامل کریں">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "ماخذ">
+
 <!ENTITY debuggerUI.tabs.callstack      "کال تھاک">
 <!ENTITY debuggerUI.tabs.variables      "متغیرات">
 <!ENTITY debuggerUI.tabs.events         "وقوعہ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-
-<!ENTITY debuggerUI.seMenuAddWatch      "ترکیب نگہبانی کا انتخاب کریں">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "واچ اکسپریشن ڈالیں">
-<!ENTITY debuggerUI.addWatch.key        "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 
-<!ENTITY debuggerUI.removeAllWatch      "تمام تراکیب نگہبانی ہٹائیں">
-<!ENTITY debuggerUI.removeAllWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->

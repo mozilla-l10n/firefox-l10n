@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(نجی براوزنگ)">
+
+<!ENTITY appmenu.tooltip                     "مینیو کھولیں">
+<!ENTITY navbarOverflow.label                "مزید ٹول…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ٹیب پھر لوڈ کریں">
@@ -54,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "نیا ٹیب">
 <!ENTITY tabCmd.accesskey "ٹ">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "محل وقوع کھولیں...">
-<!ENTITY openLocationCmd.accesskey "م">
 <!ENTITY openFileCmd.label "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey "م">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,6 +96,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "تمام ٹیب دکھائیں">
 <!ENTITY showAllTabsCmd.accesskey "ت">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
 <!ENTITY fullScreenRestore.tooltip "بحال کریں">
 <!ENTITY fullScreenClose.tooltip "بند کریں">
@@ -115,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "نشانیاں">
 <!ENTITY bookmarksMenu.accesskey "ن">
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
+<!ENTITY editThisBookmarkCmd.label "یہ نشانی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "ن">
 <!ENTITY sharePageCmd.label "اس صفحہ کو بانٹیں">
@@ -128,6 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "ب">
 <!ENTITY shareVideoCmd.label "یہ وڈیو بانٹیں">
 <!ENTITY shareVideoCmd.accesskey "ب">
+<!ENTITY feedsMenu.label "رکن بنیں">
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
@@ -154,24 +167,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "چھاپیں">
 <!ENTITY printButton.tooltip          "یہ صفحہ چھاپیں">
 
-<!ENTITY backForwardItem.title        "پیچھے/آگے">
 <!ENTITY locationItem.title           "محل وقوع">
 <!ENTITY searchItem.title             "تلاش کریں">
-<!ENTITY bookmarksItem.title          "نشانیاں">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "گھر">
 
 <!ENTITY tabGroupsButton.label        "گروپ ٹیب کریں">
-<!ENTITY tabGroupsButton.tooltip      "اپنے گروپ ٹیب کریں">
 
 <!ENTITY bookmarksButton.label          "نشانیاں">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "نشانیاں">
-<!ENTITY bookmarksMenuButton.tooltip        "اپنی نشانیا نمائش کریں">
 <!ENTITY bookmarksMenuButton.unsorted.label "غیر چھانٹی شدہ نشانیاں">
-<!ENTITY viewBookmarksSidebar.label         "سائڈ بار میں دکھائیں">
+<!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -322,6 +331,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "تخصیص کریں">
+<!ENTITY appMenuCustomize.tooltip "مینیو اور ٹول باریں تخصیص کریں">
+
+<!ENTITY appMenuCustomizeExit.tooltip "تخصیص کرنا تکمیل کریں">
+<!ENTITY appMenuHistory.label "سابقات">
+<!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
+<!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
+<!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
+<!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
+<!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "ک">
 <!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
@@ -407,7 +443,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ای میل ربط">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY switchToMetroCmd.label       "Windows 8 طرز کے &brandShortName; کے ساتھ پھر چالو کریں">
-<!ENTITY switchToMetroCmd2.label      "Windows 8 ٹچ کے لیے &brandShortName; کو دبارہ چالو کریں">
 <!ENTITY savePageCmd.label            "صفحہ محفوظ کریں بطور ...">
 <!ENTITY savePageCmd.accesskey        "ط">
 <!-- alternate for content area context menu -->
@@ -533,6 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
@@ -624,7 +660,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "ہمہ وار">
 
 <!ENTITY socialToolbar.title        "سوشل ٹول بار بٹن">
-<!ENTITY social.notLoggedIn.label   "لاگ ان نہیں">
 
 <!ENTITY social.ok.label       "ٹھیک ہے">
 <!ENTITY social.ok.accesskey   "ٹ">
@@ -643,6 +678,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "اور سیکھیں…">
 <!ENTITY social.learnMore.accesskey "س">
 <!ENTITY social.closeNotificationItem.label "ابھی نہیں">
+
+<!ENTITY customizeMode.menuAndToolbars.label "مینیو اور ٹول باریں">
+<!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
+<!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں اضافہ سے انتخاب کریں">
+
+<!ENTITY customizeMode.toolbars "دکھائیں / چھپائیں ٹول باریں">
+<!ENTITY customizeMode.titlebar "عنوان بار">
 
 <!ENTITY social.chatBar.commandkey "چ">
 <!ENTITY social.chatBar.label "بات چیت پر فوکس لائیں">
@@ -685,6 +728,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "ہم شرمندہ ہیں کا ہم تکنیکی وجوہات کی بناء پر یہ صفحہ نہیں دکھا سکے-">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; کواس خرابی کے بارے میں بتائیں تاکہ وہ ٹھیک کر سکے-">
 <!ENTITY tabCrashed.tryAgain "دوبارہ کوشش کریں">
+
+<!ENTITY uiTour.infoPanel.close "بند کریں">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -720,4 +765,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "کنٹرول زوم کریں">
 <!ENTITY addonBarCloseButton.tooltip   "ایڈ اون بار بند کریں">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "پیچھے/آگے">
+<!ENTITY viewBookmarksSidebar.label    "سائڈ بار میں دکھائیں">
+<!ENTITY bookmarksItem.title           "نشانیاں">
+<!ENTITY openLocationCmd.label         "محل وقوع کھولیں...">
+<!ENTITY openLocationCmd.accesskey     "م">
+<!ENTITY bookmarksMenuButton.tooltip   "اپنی نشانیا نمائش کریں">
+<!ENTITY switchToMetroCmd2.label       "Windows 8 ٹچ کے لیے &brandShortName; کو دبارہ چالو کریں">
+<!ENTITY tabGroupsButton.tooltip       "اپنے گروپ ٹیب کریں">
 <!-- end of strings to be removed post-Australis -->

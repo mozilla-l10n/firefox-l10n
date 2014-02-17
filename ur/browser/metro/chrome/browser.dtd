@@ -9,6 +9,7 @@
 <!ENTITY back.label            "پیچھے">
 <!ENTITY forward.label         "آگے">
 <!ENTITY newtab.label          "نیا صفحہ بند">
+
 <!ENTITY closetab.label        "صفحہ بند, بند کر دیں">
 
 <!ENTITY autocompleteResultsHeader.label  "آپ کے نتائج">
@@ -103,6 +104,7 @@
 <!ENTITY newTab.key "ٹ">
 <!ENTITY newTab2.key "ن">
 <!ENTITY closeTab.key "و">
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "ج">
@@ -117,10 +119,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "اپنے ٹیب ڈھونڈ رہے ہیں؟ بس نیچے کھینچیں یا دایاں کلک کریں">
@@ -130,3 +129,19 @@
 <!ENTITY firstRunHistory.label "مزید فیچر اور اختیارات تک رسائی کریں">
 <!ENTITY firstRunWelcome.label "&brandShortName; میں خوش آمدید">
 <!ENTITY firstRunDifferent.label "ڈیزائن میں مختلف">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "مل گیا!">
