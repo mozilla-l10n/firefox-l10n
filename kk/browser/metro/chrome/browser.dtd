@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Артқа">
 <!ENTITY forward.label         "Алға">
 <!ENTITY newtab.label          "Жаңа бет">
+<!ENTITY newPrivateTab.label   "Жаңа жекелік беті">
 <!ENTITY closetab.label        "Бетті жабу">
 
 <!ENTITY autocompleteResultsHeader.label  "Сіздің нәтиже">
@@ -103,6 +104,7 @@
 <!ENTITY newTab.key "ж">
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
@@ -115,10 +117,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "Беттерді іздедіңіз бе? Төмен тартыңыз, не оң жақпен шертіңіз">
@@ -128,3 +127,19 @@
 <!ENTITY firstRunHistory.label "Интернетте қайда болғаныңызды қараңыз">
 <!ENTITY firstRunWelcome.label "&brandShortName; өніміне қош келдіңіз">
 <!ENTITY firstRunDifferent.label "Құрылысы жағынан өзгеше">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "Түсіндім!">

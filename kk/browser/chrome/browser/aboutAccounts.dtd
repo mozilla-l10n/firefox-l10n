@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncBrand.shortName.label  "Синхрондау">
-<!ENTITY syncBrand.fullName.label   "Firefox синхрондау">
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; қош келдіңіз">
 
+<!ENTITY aboutAccountsConfig.startButton.label "Бастаңыз">
+
+<!ENTITY aboutAccountsConfig.manage.label "Басқару">
