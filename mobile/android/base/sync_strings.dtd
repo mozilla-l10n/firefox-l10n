@@ -71,10 +71,8 @@
 <!ENTITY sync.button.connect.label "Se connectar">
 <!ENTITY sync.button.ok.label "D\u0027acòrdi">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "Menú dels marcapaginas">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
@@ -104,3 +102,87 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\u0027onglets a d\u0027autres aparelhs.">
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
 <!ENTITY sync.text.tab.not.sent.label "Un problèma s\u0027es produch al moment del mandadís de vòstre onglet.">
+<!-- Firefox account strings. -->
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+
+
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_password_hint "Senhal">
+
+<!ENTITY fxaccount_password_show "Afichar">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_policy_linkprivacy "Politica de confidencialitat">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Se connectar a &syncBrand.shortName.label;">
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_button "Seguent">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Causir çò que mandi">
+
+
+
+
+
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Ne saber mai…">
+
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY fxaccount_status_sync "&syncBrand.fullName.label;">
+
+
+
+
+<!ENTITY fxaccount_status_bookmarks "Marcapaginas">
+<!ENTITY fxaccount_status_history "Istoric">
+
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->
