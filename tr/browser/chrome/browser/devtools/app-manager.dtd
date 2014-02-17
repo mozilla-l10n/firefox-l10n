@@ -67,29 +67,29 @@
 <!ENTITY projects.addHostedTooltip "Uzak bir web sitesinden yeni bir barındırlan uygulama (manifest.webapp dosyası linki) ekle">
 <!ENTITY projects.title "Yerel Uygulamalar">
 <!ENTITY projects.appDetails "Uygulama Ayrıntıları">
-<!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
+
 <!ENTITY projects.updateApp "Güncelle">
-<!ENTITY projects.updateAppTooltip "Execute validation checks and update the app to the connected device">
+
 <!ENTITY projects.debugApp "Hata ayıkla">
 <!ENTITY projects.debugAppTooltip "Bu uygulamaya bağlı Geliştirici Araçları'nı aç">
 <!ENTITY projects.saveManifest "Kaydet">
-<!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below">
+
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
-<!ENTITY projects.noProjects "No projects. Add a new packaged app below (local directory) or a hosted app (link to a manifest file).">
-<!ENTITY projects.manifestEditor "Manifest Editor">
-<!ENTITY projects.manifestEditorTooltip "Edit your app's manifest in the panel below. The Update button will save your changes and update the app.">
-<!ENTITY projects.manifestViewer "Manifest Viewer">
-<!ENTITY projects.manifestViewerTooltip "Examine your app's manifest in the panel below">
+
+
+
+
+
 <!ENTITY projects.valid "Geçerli">
 <!ENTITY projects.error "Hata">
-<!ENTITY projects.warning "Uyarı:">
+
 
 <!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
-<!ENTITY help.intro "This tool will help you build and install web apps on compatible devices (i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the validation and installation process of your app. The <strong>Device</strong> tab will give you information about the connected device. Use the bottom toolbar to connect to a device or start the simulator.">
+
 <!ENTITY help.usefullLinks "İşe yarar bağantılar:">
-<!ENTITY help.appMgrDoc "Documentation: Using the App Manager">
-<!ENTITY help.configuringDevice "How to setup your Firefox OS device">
+
+
 <!ENTITY help.troubleShooting "Sorun Giderme">
-<!ENTITY help.simulatorAddon "Install Simulator Add-on">
-<!ENTITY help.adbHelperAddon "Install Adb Helper Add-on">
+
+
