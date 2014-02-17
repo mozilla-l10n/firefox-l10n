@@ -13,6 +13,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart4               "Untuk memulakan Pelayaran Peribadi, anda boleh memilih &newPrivateWindow.label; dari menu.">
 <!ENTITY privatebrowsingpage.howToStop3                "Untuk menghentikan Pelayaran Peribadi, anda boleh menutup tetingkap ini.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
