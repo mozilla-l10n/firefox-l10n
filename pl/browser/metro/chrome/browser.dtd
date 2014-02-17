@@ -53,6 +53,7 @@
 <!ENTITY consoleErrFile.label "Plik źródłowy:">
 <!ENTITY consoleErrLine.label "Linia:">
 <!ENTITY consoleErrColumn.label "Kolumna:">
+<!ENTITY consoleFollowCheckbox.label "Obserwuj">
 
 <!ENTITY contextTextCut.label "Wytnij">
 <!ENTITY contextTextCopy.label "Kopiuj">
