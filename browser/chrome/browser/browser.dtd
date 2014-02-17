@@ -777,6 +777,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLocationCmd.label         "Konumu aç…">
 <!ENTITY openLocationCmd.accesskey     "K">
 <!ENTITY bookmarksMenuButton.tooltip   "Yer imlerini göster">
-<!ENTITY switchToMetroCmd2.label       "Windows 8 Dokunma modunda yeniden aç">
+<!ENTITY switchToMetroCmd2.label       "Windows 8 için dokunmatik &brandShortName; tarayıcısını aç">
 <!ENTITY tabGroupsButton.tooltip       "Sekmelerinizi gruplandırın">
 <!-- end of strings to be removed post-Australis -->
