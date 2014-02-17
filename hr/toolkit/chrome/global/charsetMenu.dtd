@@ -4,6 +4,9 @@
 
 <!ENTITY charsetMenu.label             "Kodna stranica">
 <!ENTITY charsetMenu.accesskey         "K">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
 <!ENTITY charsetMenuAutodet.label      "Automatsko otkrivanje">
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "k">

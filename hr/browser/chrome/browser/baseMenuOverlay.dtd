@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Pošalji povratne informacije…">
 <!ENTITY helpFeedbackPage.accesskey  "e">
 
+
+
 <!ENTITY preferencesCmdMac.label        "Postavke...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

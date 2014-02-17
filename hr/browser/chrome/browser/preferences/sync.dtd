@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Uvjeti korištenja">
 <!ENTITY prefs.ppLink.label         "Politika privatnosti">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Prijava">
+
+
