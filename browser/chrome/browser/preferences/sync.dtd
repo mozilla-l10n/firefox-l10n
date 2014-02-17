@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Imiqathango yenkonzo">
 <!ENTITY prefs.ppLink.label         "noMgaqo-nkqubo Wabucala">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Sayina uNgene">
+
+

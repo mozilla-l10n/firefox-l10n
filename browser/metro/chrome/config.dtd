@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Khangela">
-<!ENTITY newpref.label          "Yongeza ipriferensi entsha">
 <!ENTITY addpref.name           "Igama">
-<!ENTITY addpref.value          "Ixabiso">
 
 <!ENTITY cancel.label           "Rhoxisa">
-<!ENTITY reset.label            "Phinda umisele">
-<!ENTITY done.label             "Kwenziwe">
+
 
 <!ENTITY integer.label          "Inani elipheleleyo">
 <!ENTITY string.label           "Umtya">
 <!ENTITY boolean.label          "I-Boolean">
+
+
