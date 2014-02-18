@@ -8,9 +8,12 @@
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Zachowaj czas trwania, zmieniając datę zakończenia">
 <!ENTITY event.dialog.keepDurationButton.accesskey "c">
 
-<!ENTITY newevent.from.label                "Od:" >
-<!ENTITY newevent.to.label                  "Do:" >
-<!ENTITY newevent.attendees.notify.label    "Powiadom uczestników">
+<!ENTITY newevent.from.label "Od:">
+<!ENTITY newevent.to.label "Do:">
+
+<!ENTITY newevent.attendees.notify.label "Powiadom uczestników">
+<!ENTITY newevent.attendees.notifyundisclosed.label "Nie ujawniaj uczestników w zaproszeniach">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy nie zobaczą siebie nawzajem w zaproszeniach. Ma zastosowanie jedynie do zaproszeń e-mail.">
 
 <!ENTITY newevent.status.label                    "Stan:" >
 <!ENTITY newevent.status.accesskey                "a" >
