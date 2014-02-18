@@ -540,7 +540,7 @@
 <!ENTITY appmenuSelectFlagged.label "Seleziona i messaggi speciali">
 <!ENTITY addNewTag.label "Nuova etichetta…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Gestisci i Tag…">
+<!ENTITY manageTags.label "Gestisci le etichette…">
 <!ENTITY manageTags.accesskey "s">
 <!ENTITY folderColumn.label "Nome">
 <!ENTITY folderSizeColumn.label "Dimensione">
