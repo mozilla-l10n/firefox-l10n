@@ -20,12 +20,13 @@
 <!ENTITY autoCompleteMatchWordsFirst "Везде, отдавая предпочтение границам слов">
 <!ENTITY autoCompleteMatchWords "Только на границах слов">
 <!ENTITY autoCompleteMatchStart "Только в начале ссылки или заголовка">
+<!ENTITY showInternetSearch.label "Показывать поисковую систему Интернета по умолчанию">
+<!ENTITY showInternetSearch.accesskey "к">
 <!ENTITY formatting.label "Форматирование">
 <!ENTITY domainFormatting.label "Подсвечивать эффективный домен для веб-сайтов и FTP-серверов">
 <!ENTITY domainFormatting.accesskey "е">
-<!ENTITY searchEngine.label "Поисковая система Интернета">
-<!ENTITY showSearchEngine.label "Показывать поисковую систему по умолчанию">
-<!ENTITY showSearchEngine.accesskey "к">
+<!ENTITY highlightSecure.label "Подсвечивать веб-страницы с высоким уровнем защиты соединения">
+<!ENTITY highlightSecure.accesskey "и">
 <!ENTITY unknownLocations.label "Неизвестные адреса">
 <!ENTITY domainGuessing.label "Добавлять «www.» и «.com» к адресу, если веб-страница с исходным адресом не найдена.">
 <!ENTITY domainGuessing.accesskey "а">
