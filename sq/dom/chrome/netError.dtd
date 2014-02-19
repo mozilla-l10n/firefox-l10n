@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Hëpërhë nuk ka të dhëna shtesë gati rreth këtij problemi apo gabimi.</p>">
 
 <!ENTITY malformedURI.title "Adresë e Pavlefshme">
-<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendndodhjeve dhe riprovoni.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendeve dhe riprovoni.</p>">
 
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
 <!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
