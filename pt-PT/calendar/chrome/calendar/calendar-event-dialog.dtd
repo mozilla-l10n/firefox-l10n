@@ -4,70 +4,73 @@
 
 <!ENTITY event.title.label "Editar item" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "Manter duração ao alterar a data de fim">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Manter duração ao alterar a data de fim">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
-<!ENTITY newevent.from.label "De" >
-<!ENTITY newevent.to.label "Para" >
-<!ENTITY newevent.attendees.notify.label "Notificar convidados">
+<!ENTITY newevent.from.label 				"De" >
+<!ENTITY newevent.to.label 					"Para" >
+<!ENTITY newevent.attendees.notify.label    "Notificar convidados">
 
-<!ENTITY newevent.status.label "Estado" >
-<!ENTITY newevent.status.accesskey "E" >
-<!ENTITY newevent.eventStatus.none.label "Não especificado" >
-<!ENTITY newevent.eventStatus.none.accesskey "o" >
-<!ENTITY newevent.todoStatus.none.label "Não especificado" >
-<!ENTITY newevent.eventStatus.cancelled.label "Cancelado" >
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Manter anonimato dos participantes nos convites">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Se ativar esta opção, os participantes do evento não serão informados dos restantes participantes. Apenas aplicável para convites por correio eletrónico.">
+
+<!ENTITY newevent.status.label 					"Estado" >
+<!ENTITY newevent.status.accesskey 				"E" >
+<!ENTITY newevent.eventStatus.none.label 		"Não especificado" >
+<!ENTITY newevent.eventStatus.none.accesskey 	"o" >
+<!ENTITY newevent.todoStatus.none.label 		"Não especificado" >
+<!ENTITY newevent.eventStatus.cancelled.label 	"Cancelado" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
-<!ENTITY newevent.todoStatus.cancelled.label "Cancelado" >
-<!ENTITY newevent.status.tentative.label "Tentativa" >
-<!ENTITY newevent.status.tentative.accesskey "T" >
-<!ENTITY newevent.status.confirmed.label "Confirmado" >
-<!ENTITY newevent.status.confirmed.accesskey "C" >
-<!ENTITY newevent.status.needsaction.label "Requer ação" >
-<!ENTITY newevent.status.inprogress.label "Em curso" >
-<!ENTITY newevent.status.completed.label "Terminada a" >
+<!ENTITY newevent.todoStatus.cancelled.label 	"Cancelado" >
+<!ENTITY newevent.status.tentative.label 		"Tentativa" >
+<!ENTITY newevent.status.tentative.accesskey 	"T" >
+<!ENTITY newevent.status.confirmed.label 		"Confirmado" >
+<!ENTITY newevent.status.confirmed.accesskey 	"C" >
+<!ENTITY newevent.status.needsaction.label 		"Requer ação" >
+<!ENTITY newevent.status.inprogress.label 		"Em curso" >
+<!ENTITY newevent.status.completed.label 		"Terminado a" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label "&#37; concluído">
+<!ENTITY newtodo.percentcomplete.label 		"&#37; concluído">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2 "I">
-<!ENTITY event.dialog.new.task.key2 "D">
-<!ENTITY event.dialog.new.message.key2 "N">
-<!ENTITY event.dialog.close.key "f">
-<!ENTITY event.dialog.save.key "g">
-<!ENTITY event.dialog.saveandclose.key "h">
-<!ENTITY event.dialog.print.key "P">
-<!ENTITY event.dialog.undo.key "Z">
-<!ENTITY event.dialog.redo.key "Y">
-<!ENTITY event.dialog.cut.key "X">
-<!ENTITY event.dialog.copy.key "C">
-<!ENTITY event.dialog.paste.key "V">
-<!ENTITY event.dialog.select.all.key "t">
+<!ENTITY event.dialog.new.event.key2 			"I">
+<!ENTITY event.dialog.new.task.key2 			"D">
+<!ENTITY event.dialog.new.message.key2 			"N">
+<!ENTITY event.dialog.close.key 				"f">
+<!ENTITY event.dialog.save.key 					"g">
+<!ENTITY event.dialog.saveandclose.key 			"h">
+<!ENTITY event.dialog.print.key 				"P">
+<!ENTITY event.dialog.undo.key 					"Z">
+<!ENTITY event.dialog.redo.key 					"Y">
+<!ENTITY event.dialog.cut.key 					"X">
+<!ENTITY event.dialog.copy.key 					"C">
+<!ENTITY event.dialog.paste.key 				"V">
+<!ENTITY event.dialog.select.all.key 			"t">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.item.new.label "Novo">
-<!ENTITY  event.menu.item.new.accesskey "N">
-<!ENTITY  event.menu.item.new.event.label "Evento">
-<!ENTITY  event.menu.item.new.event.accesskey "E">
-<!ENTITY  event.menu.item.new.task.label "Tarefa">
-<!ENTITY  event.menu.item.new.task.accesskey "T">
-<!ENTITY  event.menu.item.new.message.label "Mensagem">
+<!ENTITY  event.menu.item.new.label 			"Novo">
+<!ENTITY  event.menu.item.new.accesskey 		"N">
+<!ENTITY  event.menu.item.new.event.label 		"Evento">
+<!ENTITY  event.menu.item.new.event.accesskey 	"E">
+<!ENTITY  event.menu.item.new.task.label 		"Tarefa">
+<!ENTITY  event.menu.item.new.task.accesskey 	"T">
+<!ENTITY  event.menu.item.new.message.label 	"Mensagem">
 <!ENTITY  event.menu.item.new.message.accesskey "M">
-<!ENTITY  event.menu.item.new.contact.label "Contacto do livro de endereços">
+<!ENTITY  event.menu.item.new.contact.label 	"Contacto do livro de endereços">
 <!ENTITY  event.menu.item.new.contact.accesskey "C">
-<!ENTITY  event.menu.item.close.label "Fechar">
-<!ENTITY  event.menu.item.close.accesskey "F">
-<!ENTITY  event.menu.item.save.label "Guardar">
-<!ENTITY  event.menu.item.save.accesskey "G">
-<!ENTITY  event.menu.item.saveandclose.label "Guardar e fechar">
-<!ENTITY  event.menu.item.saveandclose.accesskey "f">
-<!ENTITY  event.menu.item.delete.label "Eliminar…">
-<!ENTITY  event.menu.item.delete.accesskey "l">
-<!ENTITY  event.menu.item.page.setup.label "Configurar página">
-<!ENTITY  event.menu.item.page.setup.accesskey "C">
-<!ENTITY  event.menu.item.print.label "Imprimir">
-<!ENTITY  event.menu.item.print.accesskey "I">
+<!ENTITY  event.menu.item.close.label 			"Fechar">
+<!ENTITY  event.menu.item.close.accesskey 		"F">
+<!ENTITY  event.menu.item.save.label 			"Guardar">
+<!ENTITY  event.menu.item.save.accesskey 		"G">
+<!ENTITY  event.menu.item.saveandclose.label 	"Guardar e fechar">
+<!ENTITY  event.menu.item.saveandclose.accesskey 	"f">
+<!ENTITY  event.menu.item.delete.label 			"Eliminar">
+<!ENTITY  event.menu.item.delete.accesskey 		"l">
+<!ENTITY  event.menu.item.page.setup.label 		"Configurar página">
+<!ENTITY  event.menu.item.page.setup.accesskey 	"C">
+<!ENTITY  event.menu.item.print.label 			"Imprimir">
+<!ENTITY  event.menu.item.print.accesskey 		"I">
 
 <!ENTITY  event.menu.edit.label "Editar">
 <!ENTITY  event.menu.edit.accesskey "E">
