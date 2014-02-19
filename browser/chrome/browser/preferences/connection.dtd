@@ -42,3 +42,6 @@
 <!ENTITY noproxyExplain.label "Esempio: .mozilla.org, .net.it">
 <!ENTITY shareproxy.label "Utilizza lo stesso proxy per tutti i protocolli">
 <!ENTITY shareproxy.accesskey "c">
+<!ENTITY autologinproxy.label "Non richiedere l’autenticazione se la password è salvata">
+<!ENTITY autologinproxy.accesskey "c">
+<!ENTITY autologinproxy.tooltip "Questa opzione permette di autenticarsi direttamente con un proxy se risultano salvate delle credenziali. La richiesta verrà visualizzata in caso di errore.">
