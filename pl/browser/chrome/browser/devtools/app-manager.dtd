@@ -83,6 +83,8 @@
 <!ENTITY projects.valid "Poprawny">
 <!ENTITY projects.error "Błędny">
 <!ENTITY projects.warning "Ostrzeżenie">
+<!ENTITY projects.hosted "Zdalna">
+<!ENTITY projects.packaged "Lokalna">
 
 <!ENTITY help.title "Menedżer aplikacji">
 <!ENTITY help.close "Zamknij">
