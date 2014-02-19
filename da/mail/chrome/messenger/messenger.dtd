@@ -429,7 +429,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "å">
 <!ENTITY openAttachmentListCmd.label "Vedhæftede filer">
-<!ENTITY openAttachmentListCmd.accesskey "V">
+<!ENTITY openAttachmentListCmd.accesskey "d">
 <!ENTITY openFeedMessage1.label "Ved åbning af feed-meddelelser">
 <!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Åbn som webside">
