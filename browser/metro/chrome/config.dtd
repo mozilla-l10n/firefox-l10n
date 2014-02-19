@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Ieškoti">
-<!ENTITY newpref.label          "Pridėti nuostatą">
 <!ENTITY addpref.name           "Vardas">
-<!ENTITY addpref.value          "Reikšmė">
 
 <!ENTITY cancel.label           "Atsisakyti">
-<!ENTITY reset.label            "Atstatyti">
-<!ENTITY done.label             "Gerai">
+<!ENTITY toggle.label           "Perjungti">
 
 <!ENTITY integer.label          "Sveikasis skaičius">
 <!ENTITY string.label           "Simbolių eilutė">
 <!ENTITY boolean.label          "Loginis">
+
+<!ENTITY string.placeholder     "Įveskite tekstą">
+<!ENTITY number.placeholder     "Įveskite skaičių">
