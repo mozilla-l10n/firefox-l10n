@@ -11,9 +11,17 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+  -  in the network table when empty to start performance analysis. -->
+<!ENTITY netmonitorUI.perfNotice1         "• Klikšķiniet uz">
+<!ENTITY netmonitorUI.perfNotice2         "pogas lai sāktu veiktspējas analīzi.">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice2         "Veiciet pieprasījumu vai pārlādējiet lapu, lai redzētu detalizētu informāciju par tīkla aktivitāti.">
+<!ENTITY netmonitorUI.emptyNotice3        "• Veiciet pieprasījumu vai pārlādējiet lapu, lai redzētu detalizētu informāciju par tīkla aktivitāti.">
+
+<!ENTITY netmonitorUI.footer.filterOther  "Cits">
+<!ENTITY netmonitorUI.footer.perf   "Pārslēgt veiktspējas analīzi...">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -182,3 +190,21 @@
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 <!ENTITY netmonitorUI.custom.cancel       "Atcelt">
+
+<!ENTITY netmonitorUI.backButton          "Atpakaļ">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
+  -  on the context menu that copies the selected image as data uri -->
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopēt attēla datu adresi">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
+  -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
+  -  on the context menu that shows the performance analysis tools -->
+<!ENTITY netmonitorUI.context.perfTools   "Sākt veiktspējas analīzi...">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
+  -  for the performance analysis menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.perfTools.accesskey "S">

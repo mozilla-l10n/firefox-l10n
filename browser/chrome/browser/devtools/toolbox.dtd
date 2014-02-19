@@ -15,7 +15,7 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 
-<!ENTITY options.context.triggersPageRefresh2  "Tikai šo sesiju, pārlādē lapu">
+<!ENTITY options.context.triggersPageRefresh  "* Tikai šo sesiju, pārlādē lapu">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -28,6 +28,13 @@
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Aktivēt attālināto atkļūdošanu">
 <!ENTITY options.enableRemote.tooltip  "Ieslēdzot šo iespēju, jūs varēsiet izmantot izstrādātāju rīkus attālinātai Firefox instancei, piemēram Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!ENTITY options.disableCache.label     "Deaktivizēt kešatmiņu *">
+<!ENTITY options.disableCache.tooltip   "Ieslēdzot šo iespēju kešatmiņa tiks deaktivēta tikai pašreizējai cilnei. Aizverot cilni vai šo rīku iespējas stāvoklis tiks aizmirsts.">
+
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -50,7 +57,7 @@
 <!ENTITY options.darkTheme.label             "Tumšais izskats">
 <!ENTITY options.lightTheme.label            "Gaišais izskats">
 
-<!ENTITY options.disableJavaScript.label2    "Deaktivēt JavaScript">
+<!ENTITY options.disableJavaScript.label    "Deaktivēt JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Šī iestatījuma ieslēgšana deaktivēs JavaScript aktīvajā cilnē. Aizverot cilni vai rīku joslu šis iestatījums netiks saglabāts.">
 
 <!ENTITY options.enablePersistentLogging.label    "Aktivēt pastāvīgos paziņojumus">
@@ -101,4 +108,18 @@
 <!ENTITY options.timestampMessages.label      "Aktivizēt laika atzīmes">
 <!ENTITY options.timestampMessages.tooltip    "Ja izvēlēsieties šo iespēju, komandas un izvads konsolē attēlos arī laika atzīmes">
 
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+<!ENTITY options.styleeditor.label            "Stila redaktors">
+
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+<!ENTITY options.stylesheetSourceMaps.label      "Rādī sākotnējo kodu">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Rādīt sākotnējo kodu (e.g. piem Sass failus) Stila redaktorā un Inspektorā">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "Automātiski pabeigt CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Rakstos automātiski pabeigt CSS likumus, to vērtības un selektorus">
 
