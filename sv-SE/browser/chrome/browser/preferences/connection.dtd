@@ -44,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
 <!ENTITY  shareproxy.accesskey          "ä">
+<!ENTITY  autologinproxy.label          "Fråga inte efter autentisering om lösenordet är sparat">
+<!ENTITY  autologinproxy.accesskey      "å">
+<!ENTITY  autologinproxy.tooltip        "Det här alternativet autentiserar dig automatiskt till proxyer när du har sparat inloggningar för dem. Du tillfrågas endast om autentiseringen misslyckas.">
