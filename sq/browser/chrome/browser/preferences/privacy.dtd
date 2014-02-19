@@ -75,7 +75,7 @@
 <!ENTITY  historyHeader.custom.label       "Do të përdorë rregullime vetjake për historikun">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  locationBar.label             "Shtyllë Vendndodhjesh">
+<!ENTITY  locationBar.label             "Shtyllë Vendesh">
 
 <!ENTITY  clearOnClose.label             "Pastroje historikun kur mbyllet &brandShortName;-i">
 <!ENTITY  clearOnClose.accesskey         "y">

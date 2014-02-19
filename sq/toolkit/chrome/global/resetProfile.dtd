@@ -4,7 +4,7 @@
 
 <!ENTITY resetProfile.dialog.title        "Rikthim i &brandShortName;-it te parazgjedhjet">
 <!ENTITY resetProfile.dialog.description  "Jeni i sigurt se doni ta riktheni &brandShortName;-n te gjendja e tij fillestare?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName;-i nga të tuajat do të provojë të ruajë:">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName;-i nga gjërat tuaja do të provojë të ruajë:">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName;-i do të riniset dhe gjithçka tjetër do të hiqet.">
 <!ENTITY resetProfile.dialog.button.label "Riktheje &brandShortName;-in te parazgjedhjet">
 
