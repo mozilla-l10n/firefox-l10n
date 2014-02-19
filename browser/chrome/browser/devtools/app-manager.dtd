@@ -83,6 +83,8 @@
 <!ENTITY projects.valid "Giltigt">
 <!ENTITY projects.error "Fel">
 <!ENTITY projects.warning "Varning">
+<!ENTITY projects.hosted "På webben">
+<!ENTITY projects.packaged "Paketerad">
 
 <!ENTITY help.title "Hantera appar">
 <!ENTITY help.close "Stäng">
