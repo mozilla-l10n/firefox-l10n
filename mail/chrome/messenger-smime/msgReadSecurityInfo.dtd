@@ -6,9 +6,9 @@
 
 <!ENTITY status.label "Siguri Mesazhi">
 <!ENTITY signatureCert.label "Shihni Dëshmi Nënshkrimi">
-<!ENTITY encryptionCert.label "Shihni Dëshmi Kodimi">
+<!ENTITY encryptionCert.label "Shihni Dëshmi Shifrimi">
 
 <!ENTITY signer.name "Nënshkruar prej:">
-<!ENTITY recipient.name "Koduar për:">
+<!ENTITY recipient.name "Shifruar për:">
 <!ENTITY email.address "Adresë Email:">
 <!ENTITY issuer.name "Dëshmi lëshuar prej:">

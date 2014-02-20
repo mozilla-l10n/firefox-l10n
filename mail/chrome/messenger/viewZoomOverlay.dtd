@@ -24,7 +24,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zmadho ose Zvogëlo Vetëm Tekst">
+<!ENTITY fullZoomToggleCmd.label        "Zmadho ose Zvogëlo Vetëm Tekstin">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Zmadho/Zvogëlo">
 <!ENTITY fullZoom.accesskey             "Z">

@@ -522,7 +522,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zmadho Vetëm Tekstin">
+<!ENTITY fullZoomToggleCmd.label        "Zmadho ose Zvogëlo Vetëm Tekstin">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Zmadhim/Zvogëlim">
 <!ENTITY fullZoom.accesskey             "Z">
