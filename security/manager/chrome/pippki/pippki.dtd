@@ -64,15 +64,15 @@
 <!ENTITY pkcs12.setpassword.reminder "E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjeje dëshmish, nuk do të jeni në gjendje të riktheni më vonë këtë kopjeruajtje.  Ju lutemi, regjistrojeni në një vend të sigurt.">
 
 <!ENTITY pkcs12.getpassword.title "Dialog Dhënieje Fjalëkalimesh">
-<!ENTITY pkcs12.getpassword.message "Ju lutemi, jepni fjalëkalimin që qe përdorur për të koduar këtë kopjeruajtje dëshmie.">
+<!ENTITY pkcs12.getpassword.message "Ju lutemi, jepni fjalëkalimin që qe përdorur për të shifruar këtë kopjeruajtje dëshmie.">
 
 <!ENTITY chooseToken.title "Zgjidhni Dialog Token-i">
 <!ENTITY chooseToken.message1 "Ju lutemi, zgjidhni një &quot;token&quot;.">
 
-<!ENTITY escrowWarn.title "Kopje Kyçi Kodimesh">
-<!ENTITY escrowWarn.message1 "E rëndësishme: Ky autoritet dëshmish ka kërkuar të bëjë një kopjeruajtje të kyçit tuaj vetjak të kodimeve.">
-<!ENTITY escrowWarn.benefit1 "Përfitimi është që nëse humbni hyrje në kyç vetjak kodimi, mund të kërkoni një kopje prej këtij autoriteti dëshmish.">
-<!ENTITY escrowWarn.message2 "Sidoqoftë, kyçi juaj vetjak për kodime do të ruhet nga autoritet dëshmish, dhe mund të përdorej për të lexuar pa lejen tuaj email apo dokumente tuajt të koduar.">
+<!ENTITY escrowWarn.title "Kopje Kyçi Shifrimesh">
+<!ENTITY escrowWarn.message1 "E rëndësishme: Ky autoritet dëshmish ka kërkuar të bëjë një kopjeruajtje të kyçit tuaj vetjak të shifrimeve.">
+<!ENTITY escrowWarn.benefit1 "Përfitimi është që nëse humbni hyrje në kyç vetjak shifrimi, mund të kërkoni një kopje prej këtij autoriteti dëshmish.">
+<!ENTITY escrowWarn.message2 "Sidoqoftë, kyçi juaj vetjak për shifrime do të ruhet nga autoritet dëshmish, dhe mund të përdorej për të lexuar pa lejen tuaj email apo dokumente tuajt të shifruar.">
 <!ENTITY examineCert.label "Shihni Dëshmi">
 <!ENTITY examineCert.accesskey "S">
 
