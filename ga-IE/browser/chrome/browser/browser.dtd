@@ -412,6 +412,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label "Seol an Nasc trí Ríomhphost…">
 <!ENTITY emailPageCmd.accesskey "S">
 <!ENTITY switchToMetroCmd.label "Atosaigh &brandShortName; i bhfaisean Windows 8">
+<!ENTITY switchToMetroCmd2.label "Atosaigh &brandShortName; le haghaidh Windows 8 Touch">
 <!ENTITY savePageCmd.label "Sábháil an Leathanach Mar…">
 <!ENTITY savePageCmd.accesskey "M">
 <!-- alternate for content area context menu -->
