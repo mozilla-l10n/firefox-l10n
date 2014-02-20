@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label 'Aceptar'>
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (obsoleto)'>
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Menú de marcadores'>
