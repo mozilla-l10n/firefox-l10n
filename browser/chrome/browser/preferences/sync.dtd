@@ -50,14 +50,16 @@
 <!ENTITY fxaPrivacyNotice.link.label "Notis Privasi">
 <!ENTITY determiningAcctStatus.label     "Menentukan status akaun anda…">
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "tidak disahkan.">
 
-
+<!ENTITY signedInLoginFailure.beforename.label "Sila daftar masuk untuk menyambung semula">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
+<!ENTITY signIn.label                "Daftar masuk">
 <!ENTITY manage.label                "Urus">
-
-
+<!ENTITY disconnect.label            "Terputus…">
+<!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
 <!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">

@@ -55,6 +55,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* Sesi semasa sahaja, ulang muat laman">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -70,11 +72,15 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "Lumpuhkan JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Menghidupkan pilihan ini akan melumpuhkan JavaScript untuk tab semasa. Jika tab atau kekotak alatan ditutup maka tetapan akan dilupakan.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label     "Lumpuhkan Cache *">
+<!ENTITY options.disableCache.tooltip   "Menghidupkan pilihan ini akan melumpuhkan cache untuk tab semasa. Jika tab atau kotak peralatan ditutup maka tetapan ini akan dilupakan.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -123,10 +129,12 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Tunjukkan sumber-sumber asal">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Tunjuk kod sumber (cth. fail Sass) di dalam Editor Gaya dan Inspektor">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
+<!ENTITY options.stylesheetAutocompletion.label      "Autocomplete CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Ciri, nilai dan pemilih autocomplete CSS dalam Editor Gaya sebaik sahaja anda menaip">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

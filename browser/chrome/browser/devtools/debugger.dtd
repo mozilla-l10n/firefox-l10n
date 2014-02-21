@@ -51,15 +51,21 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Bolehkan/lumpuhkan semua breakpoint">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "Mula Menyurih">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
 <!ENTITY debuggerUI.clearButton "Kosongkan">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "Lapangkan surihan  yang dikumpul">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
+<!ENTITY debuggerUI.pauseExceptions           "Jeda pada Pengecualian">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
@@ -94,17 +100,23 @@
 <!ENTITY debuggerUI.searchPanelOperators    "Operator:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "Tapis Skrip">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
-
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal.key       "F">
 
+<!ENTITY debuggerUI.searchGlobal           "Cari dalam Semua Fail">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
-<!ENTITY debuggerUI.searchFunction.key       "D">
 
+<!ENTITY debuggerUI.searchFunction           "Carian untuk Fungsi Definisi">
+<!ENTITY debuggerUI.searchFunction.key       "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
@@ -164,6 +176,8 @@
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "Singkir semua ungkapan pemerhatian">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
