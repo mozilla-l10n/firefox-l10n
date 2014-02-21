@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Kiweko cha mtandao wa mbali">
 
-<!ENTITY browserConsoleCmd.label      "Kiweko cha Kivinjari">
+<!ENTITY browserConsoleCmd.label      "Konsoli ya Kitembeleaji">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "K">
 
@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Funga Mwambaa zana ya Mwendelezi">
 <!ENTITY devToolbarMenu.label              "Zana ya Mwendelezi">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Kidhibiti cha Programu">
+<!ENTITY devAppMgrMenu.label               "Kidhibiti cha Programu tumizi">
 <!ENTITY devAppMgrMenu.accesskey           "K">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -422,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "P">
 <!ENTITY viewImageInfoCmd.label       "Angalia maelezo ya Picha">
 <!ENTITY viewImageInfoCmd.accesskey   "c">
-<!ENTITY viewImageDescCmd.label       "Tazama Maelezo         ">
+<!ENTITY viewImageDescCmd.label       "Tazama Maelezo">
 <!ENTITY viewImageDescCmd.accesskey   "T">
 <!ENTITY viewVideoCmd.label           "Angalia Video">
 <!ENTITY viewVideoCmd.accesskey       "n">
@@ -688,7 +688,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "U">
-<!ENTITY social.markpageMenu.label "Hifathi Ukurasa Kwa…          ">
+<!ENTITY social.markpageMenu.label "Hifathi Ukurasa Kwa…">
 <!ENTITY social.marklinkMenu.accesskey "n">
 <!ENTITY social.marklinkMenu.label "Hifadhi Kiungo Kwa…">
 
@@ -721,8 +721,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Tab ilikwama">
-<!ENTITY tabCrashed.message "Hii inaaibisha. Tumejaribu kuonyesha ukurasa huu wa Wavuti, lakini hauitikii.               ">
-<!ENTITY tabCrashed.checkSendReport "Mwambie &JinaFupiLaMuuzaji;kuhusu ukwamaji huu ili aweze kutengeneza.">
+<!ENTITY tabCrashed.message "Hii ni ya kuaibisha. Tumejaribu kuonyesha ukurasa huu wa mtandao, lakini Hauitikii.             ">
+<!ENTITY tabCrashed.checkSendReport "Ambia &vendorShortName; kuhusu ukwamaji huu ili aweze kutengeneza.">
 <!ENTITY tabCrashed.tryAgain "Jaribu Tena">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
