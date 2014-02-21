@@ -173,33 +173,43 @@
 <!ENTITY fxaccount_status_header "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: іске қосулы">
-
-
-
+<!ENTITY fxaccount_status_needs_verification2 "Тіркелгіңізді растау керек. Растау эл. хатын қайта жіберу үшін шертіңіз.">
+<!ENTITY fxaccount_status_needs_credentials "Байланысу мүмкін емес. Кіру үшін шертіңіз.">
+<!ENTITY fxaccount_status_needs_upgrade "Кіру үшін сізге &brandShortName; жаңарту керек.">
 <!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
 <!ENTITY fxaccount_status_history "Тарихы">
 <!ENTITY fxaccount_status_passwords "Парольдер">
 <!ENTITY fxaccount_status_tabs "Ашық беттер">
-
+<!ENTITY fxaccount_status_legal "Құқықтық ақпарат" >
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; опциялары">
 <!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; баптау">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefox-ты жаңартуыңыз керек">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Тіркелгі бар болып тұр. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Эл. пошта немесе пароль қате">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Эл. пошта немесе пароль қате">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Тіркелгі расталмаған">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Сервер тым жүктелген, кейінірек қайталап көріңіз">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер тым жүктелген, кейінірек қайталап көріңіз">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Мәселе орын алды">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Желіге байланысу мүмкін емес">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; желіге байланыспаған">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ретінде кіру үшін шертіңіз">
