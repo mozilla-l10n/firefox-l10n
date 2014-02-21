@@ -20,9 +20,9 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង">
-<!ENTITY  reloadTab.accesskey                "ផ">
-<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ ​ទាំងអស់">
-<!ENTITY  reloadAllTabs.accesskey            "​">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ និង​​ទាំងអស់">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -36,7 +36,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ផ្ទាំង​ខ្ទាស់">
+<!ENTITY  pinTab.label                       "ផ្ទាំង Pin">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
 <!ENTITY  unpinTab.accesskey                 "b">
@@ -96,14 +96,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
-
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "ចូល​ទៅ​កាន់ &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅ​កាន់ &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; ឥឡូវ​នេះ​កំពុង​ធ្វើ​សមកាលកម្ម">
+<!ENTITY syncStartPanel.subTitle "អ្នក​អាច​គ្រប់គ្រង &syncBrand.shortName.label; ជា​ជម្រើស។">
+<!ENTITY syncStartPanel.subTitleUnix "អ្នក​អាច​គ្រប់គ្រង &syncBrand.shortName.label; តាម​ចំណូលចិត្ត។">
+<!ENTITY syncErrorPanel.heading "មិន​អាច​តភ្ជាប់​ទៅ​កាន់ &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "សូម​ចូល​ដើម្បី​បន្ត​ការ​ធ្វើ​សមកាលកម្ម។">
+<!ENTITY syncErrorPanel.signInButton.label "ចូល">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "បង្រួម​អប្បបរមា">
@@ -332,12 +333,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY appMenuCustomize.tooltip "ប្ដូរ​របារ​ឧបករណ៍ និង​ម៉ឺនុយ​តាម​តម្រូវ​ការ">
-
-
-
-
-
-
+<!ENTITY appMenuCustomizeExit.label "ចេញ​តាម​តម្រូវ​ការ">
+<!ENTITY appMenuCustomizeExit.tooltip "បញ្ចប់​តាម​តម្រូវ​ការ">
+<!ENTITY appMenuHistory.label "ប្រវត្តិ">
+<!ENTITY appMenuHistory.showAll.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
+<!ENTITY appMenuHistory.clearRecent.label "សម្អាត​ប្រវត្តិ​បច្ចុប្បន្ន...">
+<!ENTITY appMenuHistory.restoreSession.label "ស្ដារ​សម័យ​ពីមុន">
 <!ENTITY appMenuHistory.viewSidebar.label "របារ​ប្រវត្តិ">
 <!ENTITY appMenuHelp.tooltip "បើក​ម៉ឺនុយ​ជំនួយ">
 
@@ -570,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "ចេញ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "ចេញ &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "បិទ"> 
@@ -683,7 +684,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY customizeMode.tabTitle "ប្ដូរ​​តាម​តម្រូវ​ការ &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "ម៉ឺនុយ និង​របារ">
+<!ENTITY customizeMode.menuAndToolbars.header2 "លក្ខណៈ និង​ឧបករណ៍​បន្ថែម">
+<!ENTITY customizeMode.menuAndToolbars.empty "ចង់​បាន​ឧបករណ៍​បន្ថែម​ឬ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY customizeMode.toolbars "បង្ហាញ / លាក់ របារ​ឧបករណ៍">

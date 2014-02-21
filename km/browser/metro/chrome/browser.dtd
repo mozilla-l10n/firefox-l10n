@@ -9,7 +9,7 @@
 <!ENTITY back.label            "ថយក្រោយ">
 <!ENTITY forward.label         "ទៅមុខ">
 <!ENTITY newtab.label          "ផ្ទាំង​ថ្មី">
-
+<!ENTITY newPrivateTab.label   "ផ្ទាំង​ឯកជន​ថ្មី">
 <!ENTITY closetab.label        "បិទ​ផ្ទាំង​">
 
 <!ENTITY autocompleteResultsHeader.label  "លទ្ធផល​របស់​អ្នក">
@@ -105,6 +105,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -142,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "ប៉ះ​ដើម្បី​ត្រឡប់​ទៅ​ទំព័រ​មុន">
+<!ENTITY firstRunNewTab.label "បន្ថែម​ផ្ទាំង​ថ្មី​ដើម្បី​រុករក​តំបន់​បណ្ដាញ​ថ្មី">
+<!ENTITY firstRunStar.label "ប្រើ​ចំណាំ​ដើម្បី​រក្សាទុក​ទំព័រ​ពេលក្រោយ">
+<!ENTITY firstRunPin.label "លេខ​កូដ Pin តំបន់​បណ្ដាញ​មួយ​ចំនួន​​ទៅ​អេក្រង់​ចាប់ផ្ដើម​បង្អួច​របស់​អ្នក​សម្រាប់​ការ​ចូល​ដំណើរការ​រហ័ស">
 <!ENTITY firstRunGotIt.label "បាន​ទទួល !">

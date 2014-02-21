@@ -42,6 +42,8 @@
 <!ENTITY debuggerUI.sources.prettyPrint "ធ្វើឲ្យ​ប្រភព​ប្រសើរ​ឡើង">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "ប្រភព Prettify Minified ស្វ័យប្រវត្តិ">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -49,28 +51,42 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "បើក/បិទ ចំណុច​បំបែក​ទាំង​អស់">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "ចាប់ផ្ដើម​ការ​តាមដាន">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
 <!ENTITY debuggerUI.clearButton "សម្អាត">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "សម្អាត​ការ​តាមដាន​ដែល​បាន​ប្រមូល">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
+<!ENTITY debuggerUI.pauseExceptions           "ផ្អាក​​លើ​ករណី​លើកលែង">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "មិន​អើពើ​​ករណី​លើកលែង​ដែល​បាន​ចាប់">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
+<!ENTITY debuggerUI.showPanesOnInit           "បង្ហាញ​ស្លាប​ព្រិល​នៅ​ពេល​ចាប់ផ្ដើម">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
+<!ENTITY debuggerUI.showVarsFilter           "បង្ហាញ​ប្រអប់​តម្រង​អថេរ">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+
+<!ENTITY debuggerUI.showOnlyEnum           "បង្ហាញ​តែ​លក្ខណៈ​ដែល​អាច​រាយ​ឈ្មោះ​បាន">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -106,17 +122,23 @@
 
 <!ENTITY debuggerUI.searchToken           "រក">
 <!ENTITY debuggerUI.searchToken.key       "F">
-
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-
+<!ENTITY debuggerUI.searchGoToLine           "ទៅ​កាន់​បន្ទាត់…">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable.key       "V">
 
+<!ENTITY debuggerUI.searchVariable           "តម្រង​​អថេរ">
+<!ENTITY debuggerUI.searchVariable.key       "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables           "ផ្ដោត​មែកធាង​អថេរ">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
