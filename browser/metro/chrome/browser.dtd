@@ -9,6 +9,7 @@
 <!ENTITY back.label            "వెనుకకు">
 <!ENTITY forward.label         "ముందుకు">
 <!ENTITY newtab.label          "కొత్త టాబు">
+
 <!ENTITY closetab.label        "టాబ్ మూసివేయి">
 
 <!ENTITY autocompleteResultsHeader.label  "మీ ఫలితాలు">
@@ -103,6 +104,7 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +119,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "టాబ్ల కొరకు చూస్తున్నారా? కిందకు లాగండి లేదా కుడి-నొక్కు నొక్కండి">
@@ -130,3 +129,19 @@
 <!ENTITY firstRunHistory.label "మీరు వెబ్ పైన ఎక్కడ ఉన్నారో చూడండి">
 <!ENTITY firstRunWelcome.label "&brandShortName;‌కి స్వాగతం">
 <!ENTITY firstRunDifferent.label "రూపకల్పనే విభిన్నం">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "అది పొందాను!">

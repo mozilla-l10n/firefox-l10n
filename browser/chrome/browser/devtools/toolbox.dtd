@@ -52,11 +52,9 @@
   -  -->
 
 <!ENTITY options.defaultColorUnit.name "రంగుల పేర్లు">
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh2  "ప్రస్తుత సెషన్ మాత్రమే, పేజీ తిరిగిలోడుచేయును">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -69,12 +67,14 @@
 
 <!ENTITY options.enableRemote.label3    "రిమోట్ డీబగ్గింగ్ చేతనంచేయి">
 <!ENTITY options.enableRemote.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన రిమోట్ ఫైర్‌ఫాక్స్ పై ఫైర్‌ఫాక్స్ OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును.">
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-
-<!ENTITY options.disableJavaScript.label2    "జావాస్క్రిప్ట్ ను అచేతనంచేయి">
 <!ENTITY options.disableJavaScript.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన ఈ ప్రస్తుత టాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ టాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -114,6 +114,19 @@
 
 <!ENTITY options.timestampMessages.label      "టైమ్‌స్టాంప్స్ చేతనంచేయి">
 <!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఐచ్చికం చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "శైలి సరికూర్పరి">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "వాస్తవ మూలాలను చూపు">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

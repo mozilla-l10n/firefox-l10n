@@ -4,6 +4,9 @@
 
 <!ENTITY charsetMenu.label             "అక్షరపు ఎన్కోడింగ్">
 <!ENTITY charsetMenu.accesskey         "C">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
 <!ENTITY charsetMenuAutodet.label      "స్వయంచాలకంగా-గుర్తించు">
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "D">

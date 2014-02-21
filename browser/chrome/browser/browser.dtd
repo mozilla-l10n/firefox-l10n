@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(అంతరంగిక విహారణ)">
+
+<!ENTITY appmenu.tooltip                     "మెనుని తెరువు">
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "టాబ్ తిరిగి లోడ్‌చేయి">
@@ -54,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "కొత్త టాబ్">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "స్థానాన్ని తెరువు...">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "ఫైల్  తెరువు...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,9 +96,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "చిన్నదిచేయు">
 <!ENTITY fullScreenRestore.tooltip "తిరిగివుంచు">
-<!ENTITY fullScreenClose.tooltip "మూయి">
+
 <!ENTITY fullScreenAutohide.label "సాధనపట్టీలను మరుగుపరచుము">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
@@ -115,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "ఇష్టాంశాలు (B)">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
+<!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి (S)">
@@ -128,6 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ఈ వీడియోను పంచుకోండి (S)">
 <!ENTITY shareVideoCmd.accesskey "S">
+
 <!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
@@ -154,24 +167,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
-<!ENTITY backForwardItem.title        "వెనుకకు/ముందుకు">
 <!ENTITY locationItem.title           "స్థానము">
 <!ENTITY searchItem.title             "వెతుకు">
-<!ENTITY bookmarksItem.title          "ఇష్టాంశములు">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "ముంగిలి">
 
 <!ENTITY tabGroupsButton.label        "టాబ్ సమూహములు">
-<!ENTITY tabGroupsButton.tooltip      "మీ టాబ్‌లను సమూహపరచుము">
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
-<!ENTITY bookmarksMenuButton.tooltip        "మీ యిష్టాంశములను ప్రదర్శించుము">
 <!ENTITY bookmarksMenuButton.unsorted.label "క్రమపరచని యిష్టాంశములు">
-<!ENTITY viewBookmarksSidebar.label         "పక్క పట్టీనందు చూపుము">
+
 <!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -296,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "అభిరుచులు (n)">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "ఇటీవలి చరిత్రము శుభ్రపరచుము…">
+<!ENTITY clearRecentHistory.label               "ఇటీవలి చరిత్రను తుడిచివేయి…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -316,12 +325,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "ఇటీవల మూసిన టాబులు">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
-<!ENTITY historyRestoreLastSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
 
-<!ENTITY showAllHistoryCmd2.label "చరిత్ర మొత్తం చూపుము">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "మలచుము">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
@@ -407,7 +442,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ఈమెయిల్ లంకె…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "విండోస్ 8 శైలి &brandShortName;‌లో పునఃప్రారంభించు">
-<!ENTITY switchToMetroCmd2.label      "విండోస్ 8 టచ్ కొరకు &brandShortName; వలె పునఃప్రారంభించు">
 <!ENTITY savePageCmd.label            "పేజీని యిలా భద్రపరచు...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -533,6 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "నిష్క్రమించు"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "నిష్క్రమించు"> 
@@ -624,7 +659,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "సింక్">
 
 <!ENTITY socialToolbar.title        "సోషన్ సాధనపట్టీ బటన్">
-<!ENTITY social.notLoggedIn.label   "లాగిన్ అయిలేరు">
 
 <!ENTITY social.ok.label       "సరే">
 <!ENTITY social.ok.accesskey   "O">
@@ -643,6 +677,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "మరింత తెలుసుకోండి… (L)">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ఇప్పుడు కాదు">
+
+
+
+<!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "సంభాషణలపై దృష్టిసారించు">
@@ -685,6 +727,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "ఇది ఇబ్బందికరంగా వుంది. ఈ వెబ్ పేజీ ప్రదర్శించుటకు మేము ప్రయత్నించాము, అయితే అది స్పందించుటలేదు.">
 <!ENTITY tabCrashed.checkSendReport "ఈ క్రాష్ గురించి &vendorShortName; కు చెప్పండి వారు దీనిని పరిష్కరించగలరు.">
 <!ENTITY tabCrashed.tryAgain "మళ్ళీ ప్రయత్నించు">
+
+<!ENTITY uiTour.infoPanel.close "మూసివేయి">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -697,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "చురుకుదనము సూచిక">
 <!ENTITY appMenuButton.label           "మెనూ">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; మెనూ తెరువుము">
-<!ENTITY feedButton.label              "చందాచేరు">
+
 <!ENTITY feedButton.tooltip            "ఈ పేజీకి చందాదారు గా మారు…">
 <!ENTITY bookmarksButton.tooltip       "మీ ఇష్టాంశములు ప్రదర్శించుము">
 <!ENTITY historyButton.tooltip         "మీరు ఇటీవల దర్శించిన పేజీలను ప్రదర్శించుము">
@@ -720,4 +764,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "జూమ్ నియంత్రికలు">
 <!ENTITY addonBarCloseButton.tooltip   "పొడిగింత బార్ మూయి">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "వెనుకకు/ముందుకు">
+<!ENTITY viewBookmarksSidebar.label    "పక్క పట్టీనందు చూపుము">
+<!ENTITY bookmarksItem.title           "ఇష్టాంశములు">
+<!ENTITY openLocationCmd.label         "స్థానాన్ని తెరువు...">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "మీ యిష్టాంశములను ప్రదర్శించుము">
+<!ENTITY switchToMetroCmd2.label       "విండోస్ 8 టచ్ కొరకు &brandShortName; వలె పునఃప్రారంభించు">
+<!ENTITY tabGroupsButton.tooltip       "మీ టాబ్‌లను సమూహపరచుము">
 <!-- end of strings to be removed post-Australis -->
