@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Pelapor Nahas">
-<!ENTITY  crash_message2 "&brandShortName; mengalami masalah dan berlaku nahas. Tab anda akan sepatutnya tersenarai di &brandShortName; Mulakan laman semasa ulang mula.">
+<!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.                ">
 <!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
 <!ENTITY  crash_include_url2 "Termasuk alamat laman sekarang ini">
 <!ENTITY  crash_sorry "Kami mohon maaf">
@@ -293,7 +293,7 @@ size. -->
 <!ENTITY button_no "Tidak">
 <!ENTITY button_clear_data "Bersihkan data">
 <!ENTITY button_set "Tetapkan">
-<!ENTITY button_clear "Bersih">
+<!ENTITY button_clear "Bersihkan">
 
 <!ENTITY home_top_sites_title "Laman Web Popular">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
