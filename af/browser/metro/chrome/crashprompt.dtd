@@ -8,15 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Wat is in 'n omvalverslag?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "'n Omvalverslag bevat besonderhede oor die omvalinsident, die masjien, as ook 'n blik op die toestand van die blaaier toe dit omgeval het.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Dit sluit moontlik in: oop bladsye, teks wat in vorms getik is en die inhoud van oop boodskappe, onlangse blaaigeskiedenis, of geografiese ligging wat met 'n werf gedeel is.">
-<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
-     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
-     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
-     If the structure of the English strings doesn't work for your locale, you can
-     move "&brandShortName; privacy policy." to the first sentence, and use a
-     generic "More information" for the link. These strings will be updated in the
-     next version of Firefox. -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Ons gebruik omvalverslae om probleme reg te stel en ons produkte te verbeter. Ons hanteer u inligting soos beskryf in ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Ons gebruik omvalverslae om probleme reg te stel en ons produkte te verbeter. Ons hanteer u inligting soos beskryf in ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; se privaatheidbeleid">
+
 <!ENTITY crashprompt.includeURLLabel "Sluit die adres in van die bladsy wat ek besoek het">
 <!ENTITY crashprompt.acceptbutton    "Stuur verslae">
 <!ENTITY crashprompt.refusebutton    "Moenie stuur nie">

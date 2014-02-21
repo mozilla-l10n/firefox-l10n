@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "Diensbepalings">
 <!ENTITY prefs.ppLink.label         "Privaatheidbeleid">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Meld aan">
+
+

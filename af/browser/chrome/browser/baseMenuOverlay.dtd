@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Dien terugvoer in…">
 <!ENTITY helpFeedbackPage.accesskey  "D">
 
+<!ENTITY helpShowTour.label             "&brandShortName;-toer">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "Voorkeure…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
