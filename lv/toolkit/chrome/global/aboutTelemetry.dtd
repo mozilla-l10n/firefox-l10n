@@ -28,6 +28,10 @@
   Papildinājumu informācija
 ">
 
+<!ENTITY aboutTelemetry.toggle "
+  Klikšķiniet lai pārslēgtu izvēli
+">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "
 
@@ -47,14 +51,6 @@
   Papildinājumu apkopotās histogrammas
 ">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Klikšķiniet, lai izvērstu sadaļu
-">
-
-<!ENTITY aboutTelemetry.toggleOff "
-  Klikšķiniet, lai sakļautu sadaļu
-">
-
 <!ENTITY aboutTelemetry.emptySection "
   (Nav datu)
 ">
@@ -69,5 +65,13 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "
   Parādīt neapstrādātus ieķērumu datus
+">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Pavedienu uzkāršanās
+">
+
+<!ENTITY aboutTelemetry.filterText "
+  Filtrs (virkne vai /regexp/)
 ">
 

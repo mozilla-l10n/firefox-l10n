@@ -61,7 +61,7 @@
 <!ENTITY syncDeviceName.accesskey   "n">
 
 
-<!ENTITY syncMy.label               "Sinhronizēt manas">
+<!ENTITY syncMy.label               "Ko sinhronizēt">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Cilnes">
@@ -123,3 +123,6 @@
 
 <!ENTITY changeOptions.label "Jūs varat izmainīt šos iestatījumus izvēloties zemāk redzamo Atgūšanas iestatījumu iespēju.">
 <!ENTITY continueUsing.label "Jūs tagad varat turpināt &brandShortName; izmantošanu.">
+
+<!ENTITY setup.setupMetro.label     "Sinhronizēties ar Windows 8 stila &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">

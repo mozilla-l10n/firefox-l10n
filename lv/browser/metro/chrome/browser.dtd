@@ -49,6 +49,17 @@
 <!ENTITY downloadDelete.label      "Dzēst">
 <!ENTITY downloadFailed.label      "Neizdevās">
 
+<!ENTITY firstRunBack.label "Pieskatieties te, lai ietu atpakaļ uz iepriekšējo lapu">
+<!ENTITY firstRunNewTab.label "Pievienojiet jaunu cilni, lai aplūkotu jaunu lapu">
+<!ENTITY firstRunStar.label "Izmantojiet grāmatzīmes, lai saglabātu lapu vēlākam laikam">
+<!ENTITY firstRunPin.label "Lai varētu ātrāk atvērt īpašas lapas, pielipiniet tās Windows sākuma ekrānam">
+<!ENTITY firstRunGotIt.label "Viss skaidrs!">
+
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.label   "Jauna privātā cilne">
+<!ENTITY newPrivateTab.key "p">
+
+
 <!ENTITY allBookmarks.label        "Apskatīt visas grāmatzīmes">
 
 <!ENTITY consoleHeader.label       "Kļūdu konsole">

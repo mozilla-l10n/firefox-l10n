@@ -25,7 +25,7 @@
 <!ENTITY syncDeviceName.accesskey   "i">
 <!ENTITY unlinkDevice.label           "Atvienot šo ierīci">
 
-<!ENTITY syncMy.label               "Sinhronizēt manas">
+<!ENTITY syncMy.label               "Ko sinhronizēt">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Cilnes">
@@ -43,3 +43,25 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
 <!ENTITY prefs.ppLink.label         "Privātuma politika">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Privātuma piezīme">
+<!ENTITY determiningAcctStatus.label     "Nosaka Jūsu konta statusu…">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "nav apstiprināts.">
+
+<!ENTITY signedInLoginFailure.beforename.label "Lūdzu pieslēdzieties, lai atjaunotu savienojumu">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Jūs neesat pieslēdzies.">
+<!ENTITY signIn.label                "Pieslēgties">
+<!ENTITY manage.label                "Pārvaldīt">
+<!ENTITY disconnect.label            "Atslēgties…">
+<!ENTITY verify.label                "Apstiprināt epastu">
+<!ENTITY forget.label                "Aizmirst šo epastu">
+
+<!ENTITY welcome.description "Izmantojiet cilnes, grāmatzīmes un paroles visur, kur Jums ir &brandShortName;.">
+<!ENTITY welcome.signIn.label "Pieslēgties">
+<!ENTITY welcome.createAccount.label "Izveidot kontu">
+
+<!ENTITY welcome.useOldSync.label "Izmantojat veco sinhronizācijas versiju?">

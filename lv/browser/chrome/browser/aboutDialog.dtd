@@ -26,7 +26,6 @@
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globāla kopiena">
 <!ENTITY community.exp.end          ", kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.">
-<!ENTITY update.checkingAddonCompat "Pārbauda papildinājumus…">
 
 <!ENTITY contribute.start           "Izklausās interesanti? ">
 <!ENTITY contribute.getInvolvedLink "Iesaisties!">
