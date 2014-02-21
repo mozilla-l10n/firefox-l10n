@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "ឈ្មោះ">
 
 <!ENTITY cancel.label           "បោះបង់">
-
+<!ENTITY toggle.label           "បិទ/​បើក">
 
 <!ENTITY integer.label          "ចំនួន​គត់">
 <!ENTITY string.label           "តួអក្សរ">
 <!ENTITY boolean.label          "ប៊ូលីន">
 
-
+<!ENTITY string.placeholder     "បញ្ចូល​ឃ្លា">
+<!ENTITY number.placeholder     "បញ្ចូល​លេខ">

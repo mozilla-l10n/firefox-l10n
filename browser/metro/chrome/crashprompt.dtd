@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "យើង​ប្រើ​របាយការណ៍​ភាព​ជាប់​គាំង​ដើម្បី​ព្យាយាម​ដោះស្រាយ​បញ្ហា និង​​កែ​លម្អ​ផលិតផល​របស់​យើង។ យើង​​ប្រើ​ព័ត៌មាន​របស់​អ្នក​ទៅ​តាម​អ្វី​ដែល​យើង​រៀបរាប់​នៅ​ក្នុង">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; គោលនយោបាយ​ភាព​ឯកជន">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "រួម​ទាំង​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​បាន​ស្ថិតនៅ">
 <!ENTITY crashprompt.acceptbutton    "ផ្ញើ​របាយការណ៍">
 <!ENTITY crashprompt.refusebutton    "កុំ​ផ្ញើ">
