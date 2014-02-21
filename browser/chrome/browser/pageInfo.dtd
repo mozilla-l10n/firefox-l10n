@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-<!ENTITY  pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.height "520">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopieer">
@@ -83,6 +83,6 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Het ek enige wagwoorde vir hierdie webwerf gestoor?">
 <!ENTITY  securityView.privacy.viewPasswords            "Bekyk gestoorde wagwoorde">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "k">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Tegniese details">
