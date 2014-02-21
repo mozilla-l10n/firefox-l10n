@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">
-<!ENTITY attachMenu.label "Ek">
-<!ENTITY attachMenu.accesskey "E">
+
+
 <!ENTITY attachFileCmd.label "Dosya(lar)…">
 <!ENTITY attachFileCmd.accesskey "o">
 <!ENTITY attachFileCmd.key "A">
@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kişisel kart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "K">
+
+
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "K">
@@ -200,6 +202,7 @@
 <!ENTITY attachButton.label "Ek">
 <!ENTITY spellingButton.label "Yazım denetimi">
 <!ENTITY saveButton.label "Kaydet">
+<!ENTITY printButton.label "Yazdır">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Bu iletiyi şimdi gönder">
@@ -212,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
 <!ENTITY pasteButton.tooltip            "Yapıştır">
+<!ENTITY printButton.tooltip "Bu iletiyi yazdır">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

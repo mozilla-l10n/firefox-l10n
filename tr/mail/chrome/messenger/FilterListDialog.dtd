@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "D">
 <!ENTITY folderPickerPrefix.label "Seçili süzgeçleri bu dizinde uygula:">
 <!ENTITY folderPickerPrefix.accesskey "i">
-<!ENTITY choosethis.label "bu dizini seç">
-<!ENTITY choosethisnewsserver.label "bu haber sunucusunu seç">
 <!ENTITY helpButton.label "Yardım">
 <!ENTITY helpButton.accesskey "Y">
 <!ENTITY closeCmd.key "W"> 

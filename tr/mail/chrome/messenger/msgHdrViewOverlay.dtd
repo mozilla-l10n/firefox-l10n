@@ -21,8 +21,6 @@
 
 
 
-<!ENTITY editMessageDescription.label "Bu ileti bir taslaktır">
-<!ENTITY editMessageButton.label "Düzenle…">
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
 <!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">

@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY folderMenu.label "Dizin">
 <!ENTITY folderMenu.accesskey "D">
-<!ENTITY thisFolder.label "Bu dizin">
-<!ENTITY thisFolder.accesskey "B">
 <!ENTITY goRecentlyClosedTabs.label "Yeni kapatılan sekmeler">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Posta başlangıç sayfası">
@@ -354,9 +352,9 @@
 
 
 
-<!ENTITY editMsgAsNewCmd.label "Yeni ileti olarak düzenle">
-<!ENTITY editMsgAsNewCmd.accesskey "d">
-<!ENTITY editMsgAsNewCmd.key "e">
+
+
+
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "s">
 <!ENTITY moveMsgToMenu.label "Taşı">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Dizii izle">
 <!ENTITY watchThreadMenu.accesskey "z">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Buraya dosyala">
-<!ENTITY fileHereMenu.accesskey "d">
-<!ENTITY copyHereMenu.label "Buraya kopyala">
-<!ENTITY copyHereMenu.accesskey "k">
 <!ENTITY tagMenu.label "Etiket">
 <!ENTITY tagMenu.accesskey "k">
 <!ENTITY tagCmd0.key "0">
@@ -515,7 +509,7 @@
 <!ENTITY throbberItem.title "Etkinlik göstergesi">
 <!ENTITY junkItem.title "Gereksiz">
 <!ENTITY junkButton.label "Gereksiz">
-<!ENTITY notJunkButton.label "Gereksiz değil">
+
 <!ENTITY addressBookButton.label "Adres defteri">
 <!ENTITY chatButton.label "Sohbet">
 <!ENTITY glodaSearch.title "Global arama">
@@ -559,6 +553,16 @@
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">
 
 <!-- Toolbar Button Popup -->
+
+<!-- Remote Content Button Popup -->
+
+
+
+<!-- Phishing Button Popup -->
+
+
+
+
 
 <!-- AppMenu Popup -->
 
@@ -655,26 +659,24 @@
 
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları seçin">
-<!ENTITY threadColumn.tooltip "Posta dizilerini görüntülemek için tıklayın">
-<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
-<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
-<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
-<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
-<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
-<!ENTITY tagsColumn.tooltip "Etikete göre sıralamak için tıklayın">
-<!ENTITY accountColumn.tooltip "Hesaba göre sıralamak için tıklayın">
-<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
-<!ENTITY sizeColumn.tooltip "Boyuta göre sıralamak için tıklayın">
-<!ENTITY junkStatusColumn.tooltip "Gereksiz durumuna göre sıralamak için tıklayın">
-<!ENTITY unreadColumn.tooltip "Dizideki okunmamış iletilerin sayısı">
-<!ENTITY totalColumn.tooltip "Dizideki iletilerin toplam sayısı">
-<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
-<!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
-<!ENTITY starredColumn.tooltip "Yıldıza göre sıralamak için tıklayın">
-<!ENTITY locationColumn.tooltip "Konuma göre sıralamak için tıklayın">
-<!ENTITY idColumn.tooltip "Alınma sırasına göre sıralamak için tıklayın">
-<!ENTITY attachmentColumn.tooltip "Eklere göre sıralamak için tıklayın">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY unreadColumn2.tooltip "Dizideki okunmamış iletilerin sayısı">
+<!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
+
+
+
+
+
+
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "İletiyi yeni pencerede aç">
@@ -687,8 +689,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextOpenConversation.label "İletiyi dizi görünümünde aç">
 <!ENTITY contextOpenConversation.accesskey "d">
-<!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
-<!ENTITY contextEditAsNew.accesskey "ü">
+
+
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
@@ -782,27 +784,6 @@
 <!ENTITY contextMute.accesskey "k">
 <!ENTITY contextUnmute.label "Sesi aç">
 <!ENTITY contextUnmute.accesskey "e">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "&brandShortName; bu iletinin gereksiz posta olduğunu düşünüyor.">
-<!ENTITY junkBarButton1.label "Gereksiz değil">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Gizliliğinizi korumak için &brandShortName; bu iletideki uzak içeriği engellemiştir.">
-<!ENTITY loadRemoteContentButton3.label "Harici içeriği göster">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "İleti, sahtekârlık girişimi olabilir.">
-<!ENTITY removePhishingBarButton1.label "Uyarıyı görmezden gel">
-<!ENTITY disablePhishingWarning1.label "Dolandırıcılık tespitini tüm iletiler için devre dışı bırak">
-<!ENTITY reportPhishingError1.label "Bu ileti, sahtekârlık girişimine benzemiyor.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Görmezden gel">
-<!ENTITY mdnBarIgnoreButton2.accesskey "G">
-<!ENTITY mdnBarSendButton2.label "Alındı bilgisi gönder">
-<!ENTITY mdnBarSendButton2.accesskey "b">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -838,8 +819,8 @@
 <!ENTITY AddToAddressBook.accesskey "d">
 <!ENTITY AddDirectlyToAddressBook.label "Adres defterine ekle">
 <!ENTITY AddDirectlyToAddressBook.accesskey "d">
-<!ENTITY EditContact.label "Kişiyi düzenle…">
-<!ENTITY EditContact.accesskey "d">
+
+
 <!ENTITY ViewContact.label "Kişiyi göster">
 <!ENTITY ViewContact.accesskey "g">
 <!ENTITY SubscribeToNewsgroup.label "Haber grubuna abone ol">
