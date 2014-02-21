@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">
 <!ENTITY folderMenu.accesskey "P">
-<!ENTITY thisFolder.label "Am pasgan seo">
-<!ENTITY thisFolder.accesskey "A">
 <!ENTITY goRecentlyClosedTabs.label "Tabaichean a dhùin thu o chionn ghoirid">
 <!ENTITY goRecentlyClosedTabs.accesskey "d">
 <!ENTITY startPageCmd.label "Duilleag tòiseachadh a' phuist">
@@ -345,8 +343,8 @@
 <!ENTITY replyToListMsgCmd.label "Freagair an liosta">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
-<!ENTITY forwardMsgCmd.label "Air adhart">
-<!ENTITY forwardMsgCmd.accesskey "A">
+<!ENTITY forwardMsgCmd.label "Sìn air adhart">
+<!ENTITY forwardMsgCmd.accesskey "S">
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Sìn air adhart mar">
 <!ENTITY forwardAsMenu.accesskey "S">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "i">
 <!ENTITY forwardAsAttachmentCmd.label "Ceanglachan">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editMsgAsNewCmd.label "Deasaich mar theachdaireachd ùr">
-<!ENTITY editMsgAsNewCmd.accesskey "e">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Deasaich mar theachdaireachd ùr">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Cruthaich criathrag on teachdaireachd…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Gluais gu">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Cum sùil air an t-snàth">
 <!ENTITY watchThreadMenu.accesskey "C">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Faidhle an-seo">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Cuir an lethbhreac an-seo">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Taga">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -498,7 +492,7 @@
 <!ENTITY replyButton.label "Freagair">
 <!ENTITY replyAllButton.label "Freagair a h-uile">
 <!ENTITY replyListButton.label "Freagair an liosta">
-<!ENTITY forwardButton.label "Air adhart">
+<!ENTITY forwardButton.label "Sìn air adhart">
 <!ENTITY fileButton.label "Faidhle">
 <!ENTITY archiveButton.label "Tasg-lann">
 <!ENTITY nextButton.label "Air adhart">
@@ -575,8 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Leig seachad an rabhadh a thaobh na teachdaireachd seo">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Cuir à comas lorg de dh'fhallsaidheachd-lìn anns gach teachdaireachd">
-<!ENTITY phishingOptionDisableDetection.accesskey "C">
+<!ENTITY phishingOptionSettings.label "Deasaich na roghainnean airson mothachadh foill…">
+<!ENTITY phishingOptionSettings.accesskey "D">
+<!ENTITY phishingOptionSettingsUnix.label "Deasaich na roghainnean airson mothachadh foill…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "D">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachdaireachd ùr">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Ceanglachain">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh">
-<!ENTITY threadColumn.tooltip "Briog airson snàithean nan teachdaireachdan a thaisbeanadh">
-<!ENTITY fromColumn.tooltip "Briog gus a sheòrsachadh a-rèir an t-seòladair">
-<!ENTITY recipientColumn.tooltip "Briog airson a sheòrsachadh a-rèir faighteir">
-<!ENTITY subjectColumn.tooltip "Briog gus a sheòrsachadh a-rèir cuspair">
-<!ENTITY dateColumn.tooltip "Briog gus a sheòrsachadh a-rèir cinn-là">
-<!ENTITY priorityColumn.tooltip "Briog gus a sheòrsachadh a-rèir prìomhachais">
-<!ENTITY tagsColumn.tooltip "Briog gus a sheòrsachadh a-rèir nan taga">
-<!ENTITY accountColumn.tooltip "Briog gus a sheòrsachadh a-rèir cunntais">
-<!ENTITY statusColumn.tooltip "Briog gus a sheòrsachadh a-rèir cor">
-<!ENTITY sizeColumn.tooltip "Briog gus a sheòrsachadh a-rèir meud">
-<!ENTITY junkStatusColumn.tooltip "Briog gus a sheòrsachadh a-rèir na h-inbhe truilleis">
-<!ENTITY unreadColumn.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
-<!ENTITY totalColumn.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
-<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra &quot;gun leughadh/air a leughadh&quot;">
-<!ENTITY receivedColumn.tooltip "Briog gus a sheòrsachadh a-rèir a' chinn-là nuair a fhuaradh e">
-<!ENTITY starredColumn.tooltip "Briog gus a sheòrsachadh a-rèir rionnagan">
-<!ENTITY locationColumn.tooltip "Briog gus a sheòrsachadh a-rèir seòlaidh">
-<!ENTITY idColumn.tooltip "Briog gus a sheòrsachadh a-rèir an òrduigh san d' fhuaradh iad">
-<!ENTITY attachmentColumn.tooltip "Briog gus a sheòrsachadh a-rèir cheanglachan">
+<!ENTITY columnChooser2.tooltip "Tagh na cuilbh a thèid a thaisbeanadh">
+<!ENTITY threadColumn2.tooltip "Seall snàithleanan nan teachdaireachdan">
+<!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
+<!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
+<!ENTITY subjectColumn2.tooltip "Seòrsaich a-rèir cuspair">
+<!ENTITY dateColumn2.tooltip "Seòrsaich a-rèir cinn-là">
+<!ENTITY priorityColumn2.tooltip "Seòrsaich a-rèir prìomhachais">
+<!ENTITY tagsColumn2.tooltip "Seòrsaich a-rèir taga">
+<!ENTITY accountColumn2.tooltip "Seòrsaich a-rèir cunntais">
+<!ENTITY statusColumn2.tooltip "Seòrsaich a-rèir staid">
+<!ENTITY sizeColumn2.tooltip "Seòrsaich a-rèir meud">
+<!ENTITY junkStatusColumn2.tooltip "Seòrsaich a-rèir inbhe truilleis">
+<!ENTITY unreadColumn2.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
+<!ENTITY totalColumn2.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
+<!ENTITY readColumn2.tooltip "Seòrsaich a-rèir na staid leughaidh">
+<!ENTITY receivedColumn2.tooltip "Seòrsaich a-rèir an latha a fhuaras">
+<!ENTITY starredColumn2.tooltip "Seòrsaich a-rèir rionnaige">
+<!ENTITY locationColumn2.tooltip "Seòrsaich a-rèir ionaid">
+<!ENTITY idColumn2.tooltip "Seòrsaich a-rèir cuin a fhuaras">
+<!ENTITY attachmentColumn2.tooltip "Seòrsaich a-rèir ceanglachain">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Fosgail an teachdaireachd ann an uinneag ùr">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Fosgail an teachdaireachd ann an còmhradh">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Deasaich mar thè ùr…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Deasaich mar theachdaireachd ùr">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Tasg-lann">
 <!ENTITY contextArchive.accesskey "T">
 <!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Cuir ri leabhar nan seòladh">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact.label "Deasaich an neach-aithne…">
-<!ENTITY EditContact.accesskey "e">
+<!ENTITY EditContact1.label "Deasaich an neach-aithne">
+<!ENTITY EditContact1.accesskey "e">
 <!ENTITY ViewContact.label "Seall an neach-aithne">
 <!ENTITY ViewContact.accesskey "S">
 <!ENTITY SubscribeToNewsgroup.label "Fo-sgrìobh gun bhuidheann-naidheachd">
