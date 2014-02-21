@@ -11,6 +11,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY appmenu.tooltip                     "Atvērt izvēlni">
 
 <!ENTITY appMenuCustomize.label "Pielāgot">
 <!ENTITY appMenuCustomize.tooltip "Pielāgot izvēlni un rīkjoslas">
@@ -711,7 +712,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Sociālo rīku joslas poga">
-<!ENTITY social.notLoggedIn.label   "Nav autorizācijas">
+
+<!ENTITY customizeMode.tabTitle "Pielāgot &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Izvēlnes un rīkjoslas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Papildus rīki un iespējas">
+<!ENTITY customizeMode.menuAndToolbars.empty "Gribat vairāk rīku?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Izvēlieties kādu no tūkstošiem papildinājumu">
+<!ENTITY customizeMode.restoreDefaults "Atjaunot noklusēto">
+<!ENTITY customizeMode.toolbars "Parādīt vai paslēpt rīkjoslas">
+<!ENTITY customizeMode.titlebar "Virsraksta josla">
 
 <!ENTITY social.toggleSidebar.label "Rādīt sānu joslu">
 <!ENTITY social.toggleSidebar.accesskey "s">

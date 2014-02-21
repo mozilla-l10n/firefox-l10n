@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Atsauksmju rīki">
+
+<!ENTITY feedback.communicate.title     "Komunicējiet ar mums!">
+<!ENTITY feedback.feedback.title        "Pastāstiet savu viedokli">
+<!ENTITY feedback.feedback.good         "Labs">
+<!ENTITY feedback.feedback.bad          "Slikts">
+
+<!ENTITY feedback.tools.title           "Rīki">
+<!ENTITY feedback.allowTelemetry.title  "Sūtīt veiktspējas datus">
+<!ENTITY feedback.forceCompat.title     "Piespiedu saderība papildinājumiem">
+<!ENTITY feedback.errorConsole.title    "Aktivizēt kļūdu konsoli">

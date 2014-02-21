@@ -8,8 +8,10 @@
 <!ENTITY crashprompt.detailsLink     "Kas ir avārijas ziņojumi?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Avārijas ziņojums satur informāciju par avāriju, jūsu datoru un pārlūka stāvokli avārijas brīdī.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Tas var saturēt informāciju par atvērtajām lapām, tekstu, kas ievadīts interneta formās, uz ekrāna redzamo paziņojumu saturu pārlūkošanas vēsturi un atrašanās vietas datus, kas tikusi iedoti mājas lapām.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Mēs izmantojam avārijas ziņojumu datus, lai meklētu risinājumus avārijas cēloņiem. Tas kā mēs apejamies ar Jūsu datiem ir aprakstīts ">
+
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Mēs izmantojam avārijas ziņojumu datus, lai meklētu risinājumus avārijas cēloņiem. Tas kā mēs apejamies ar Jūsu datiem ir aprakstīts ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; privātuma politikā">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Iekļaut atvērtās lapas adresi">
 <!ENTITY crashprompt.acceptbutton    "Sūtīt ziņojumus">
 <!ENTITY crashprompt.refusebutton    "Nesūtīt">

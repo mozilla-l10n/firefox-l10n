@@ -18,4 +18,4 @@
 <!ENTITY inspectorHTMLEdit.label       "Rediģēt kā HTML">
 <!ENTITY inspectorHTMLEdit.accesskey   "E">
 
-
+<!ENTITY inspectorCopyImageDataUri.label       "Kopēt attēla datu adresi">
