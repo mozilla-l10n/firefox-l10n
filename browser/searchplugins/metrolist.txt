@@ -1,5 +1,5 @@
 googlemetrofx
-yahoo-de
+yahoo-demetrofx
 bingmetrofx
 amazondotcom-de
 eBay-de
