@@ -63,20 +63,18 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Güncellemeleri düzenli olarak denetle:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Kurulu eklentiler">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY whenUpdatesFound.label         "&brandShortName; için güncelleme bulunduğunda">
-<!ENTITY modeAskMe.label                "Ne yapılacağını bana sor">
-<!ENTITY modeAskMe.accesskey            "a">
-<!ENTITY modeAutomatic.label            "Güncellemeyi otomatik olarak indir ve kur">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
-<!ENTITY modeAutoAddonWarn.accesskey    "B">
-<!ENTITY showUpdates.label              "Güncelleme geçmişini göster">
-<!ENTITY showUpdates.accesskey          "n">
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
+<!ENTITY updateAutoAddonWarn.accesskey   "B">
+
+
+
+
+
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "G">
