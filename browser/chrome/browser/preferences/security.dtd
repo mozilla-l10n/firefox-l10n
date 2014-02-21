@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  general.label                 "සාමාන්‍ය">
+
 <!ENTITY  warnAddonInstall.label        "අඩවිය ඇඩෝන ස්ථාපනයට සැරසෙන විට මට අවවාද කරන්න">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):

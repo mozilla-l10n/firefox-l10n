@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY connection.saveConnectionInfo "සුරකින්න">
+
 
 <!ENTITY connection.connecting "සම්බන්ධ වෙයි…">
 
@@ -67,6 +67,16 @@
 
 
 
+
+
+
+
+
+
+
+
+<!ENTITY projects.valid "නිවැරදි">
+<!ENTITY projects.error "දෝෂය">
 
 
 
