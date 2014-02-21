@@ -143,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "Tap untuk kembali kepada laman sebelum">
+<!ENTITY firstRunNewTab.label "Tambah tab baru untuk jelajah laman baru">
+<!ENTITY firstRunStar.label "Gunakan penandabuku untuk menyimpan halaman pada masa lain">
+<!ENTITY firstRunPin.label "Pin mana-mana laman ke skrin Windows Mula anda untuk mengakses secara cepat">
 <!ENTITY firstRunGotIt.label "Dah dapat!">

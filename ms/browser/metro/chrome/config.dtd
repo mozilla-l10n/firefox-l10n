@@ -12,4 +12,5 @@
 <!ENTITY string.label           "Rentetan">
 <!ENTITY boolean.label          "Boolean">
 
-
+<!ENTITY string.placeholder     "Masukan string">
+<!ENTITY number.placeholder     "Masukkan nombor">

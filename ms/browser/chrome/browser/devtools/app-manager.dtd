@@ -14,9 +14,9 @@
 <!ENTITY device.startApp "Mula">
 <!ENTITY device.startAppTooltip "Mulakan aplikasi ini pada peranti">
 <!ENTITY device.stopApp "Henti">
-
+<!ENTITY device.stopAppTooltip "Hentikan aplikasi ini pada peranti">
 <!ENTITY device.debugApp "Debug">
-
+<!ENTITY device.debugAppTooltip "Buka Alatan Pembangunan yang bersambung ke aplikasi ini pada peranti">
 <!ENTITY device.name "Nama">
 <!ENTITY device.plain "Kosong (lalai)">
 <!ENTITY device.privileged "Keistimewaan">
