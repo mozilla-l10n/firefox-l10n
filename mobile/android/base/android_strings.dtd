@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Einstellungen">
 <!ENTITY pref_category_advanced "Erweitert">
 <!ENTITY pref_category_customize "Anpassung">
-<!ENTITY pref_category_search2 "Sucheinstellungen">
+<!ENTITY pref_category_search3 "Suche">
 <!ENTITY pref_category_display "Ansicht">
 <!ENTITY pref_category_privacy_short "Privatsphäre">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datenübermittlung">
 <!ENTITY pref_category_installed_search_engines "Installierte Suchmaschinen">
 <!ENTITY pref_category_add_search_providers "Weitere Suchmaschinen hinzufügen">
+<!ENTITY pref_category_search_restore_defaults "Suchmaschinen wiederherstellen">
+<!ENTITY pref_search_restore_defaults "Standards wiederherstellen">
+<!ENTITY pref_search_restore_defaults_summary "Standardsuchmaschinen wiederherstellen">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Externes Debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Weitere Informationen">
 <!ENTITY pref_remember_signons "Passwörter speichern">
+
+<!ENTITY pref_category_home "Startbildschirm">
+<!ENTITY pref_category_home_panels "Ansichten">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Anpassung">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Über &brandShortName;">
 <!ENTITY pref_vendor_faqs "Häufig gestellte Fragen">
 <!ENTITY pref_vendor_feedback "Feedback senden">
-<!ENTITY pref_search_set_default "Als Standard verwenden">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Entfernen">
+
+<!ENTITY pref_dialog_set_default "Als Standard verwenden">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Entfernen">
+
 <!ENTITY pref_search_last_toast "Die letzte verbliebene Suchmaschine kann nicht entfernt oder deaktiviert werden.">
+
+<!ENTITY pref_panels_show "Anzeigen">
+<!ENTITY pref_panels_hide "Ausblenden">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-Statistiken &amp; -Daten">
 <!ENTITY datareporting_notification_action_long "Wählen Sie die zu übermittelnden Informationen">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Weitersuchen">
 <!ENTITY find_close "Schließen">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "An Gerät weiterleiten">
+<!ENTITY media_play "Wiedergabe">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Stopp">
+
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
 <!ENTITY contextmenu_open_private_tab "In privatem Tab öffnen">
 <!ENTITY contextmenu_open_in_reader "Im Lesemodus öffnen">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Seitentitel anzeigen">
 <!ENTITY pref_titlebar_mode_url "Seitenadresse anzeigen">
 
-<!ENTITY pref_dynamic_toolbar "Titelleiste bei Bildlauf ausblenden">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Titelleiste nur am Seitenanfang">
 
 <!ENTITY history_removed "Seite vergessen">
 
