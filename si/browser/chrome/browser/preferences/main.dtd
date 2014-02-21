@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "බාගැනිම්">
 
-<!ENTITY showWhenDownloading.label     "ගොනු බාගැනිමේදී බාගැනිම් කවුළුව පෙන්වන්න">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "සියලු බාගැනිම් හමාර වූ විට එය වසන්න">
-<!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ගොනු සුරකින්නේ">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ගවේෂණය...">

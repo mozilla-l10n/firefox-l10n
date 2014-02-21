@@ -9,8 +9,10 @@
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
 
 <!ENTITY privatebrowsingpage.moreInfo                  "මෙම පරිගණකය ඔබගේ ගවේෂණ තොරතුරු රඳවා නොගත්තද, ඔබගේ අන්තර්ජාල සේවා සපයන්නාට හෝ සේවා ආයතනයට ඔබගේ ගවේෂණ තොරතුරු සටහන් කරගත හැකිය.">
 <!ENTITY privatebrowsingpage.learnMore                 "වැඩිදුරටත් දැනුවත්වන්න">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->

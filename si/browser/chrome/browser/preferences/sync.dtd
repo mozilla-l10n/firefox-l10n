@@ -41,3 +41,19 @@
 
 <!ENTITY prefs.tosLink.label        "සේවා කොන්දේසි">
 <!ENTITY prefs.ppLink.label         "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "ඇතුළු වන්න (Sign In)">
+
+

@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(පෞද්ගලික ගවේෂණය)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ටැබ් ප්‍රතිපූරණය කරන්න">
@@ -43,10 +45,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "ටැබ වසන්න">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -55,8 +53,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "ස්ථානයක් විවෘත කරන්න...">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,9 +91,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "සියළු ටැබ් පෙන්වන්න">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "හකුළන්න">
 <!ENTITY fullScreenRestore.tooltip "ප්‍රතිස්ථාපනය">
-<!ENTITY fullScreenClose.tooltip "වසන්න">
+
 <!ENTITY fullScreenAutohide.label "මෙවලම් තීරු සඟවන්න">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "පූර්ණතිර ආකාරයෙන් ඉවත් වන්න">
@@ -113,7 +119,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY bookmarkThisPageCmd.label "මෙම පිටුව සලකුණු කරගන්න">
+<!ENTITY editThisBookmarkCmd.label "මෙම පිටු සලකුණ සකසන්න">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+
 
 
 
@@ -152,21 +160,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "මුද්‍රණය">
 <!ENTITY printButton.tooltip          "පිටුව මුද්‍රණය">
 
-<!ENTITY backForwardItem.title        "පසුපසට/ඉදිරියට">
 <!ENTITY locationItem.title           "ස්ථානය">
 <!ENTITY searchItem.title             "සොයන්න">
-<!ENTITY bookmarksItem.title          "පිටු සලකුණු">
 <!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "ටැබ් සමූහ">
-<!ENTITY tabGroupsButton.tooltip      "ඔබගේ ටැබ් සමූහගත කරන්න">
 
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "පිටුලකුණු">
-<!ENTITY bookmarksMenuButton.tooltip        "ඔබගේ පිටුසළකුණු පෙන්වන්න">
 <!ENTITY bookmarksMenuButton.unsorted.label "පිළිවෙළ නොකළ පිටුලකුණු">
-<!ENTITY viewBookmarksSidebar.label         "පැතීතීරුව තුළ පෙන්වන්න">
+
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -175,7 +179,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "අතීතය">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "මෙවලම්">
@@ -228,10 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Browser Debugger">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
@@ -240,7 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY devToolbar.keytext                "F2">
-
 
 
 
@@ -305,12 +306,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "මෑතකදි වැසු ටැබ්">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "මෑතකදී වැසූ කවුළු">
-<!ENTITY historyRestoreLastSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න">
 
-<!ENTITY showAllHistoryCmd2.label "සම්පූර්ණ අතීතය පෙන්වන්න">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "රිසිකරණය">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 
@@ -391,6 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "මෙම රාමුව පිටු සලකුණුගත කරන්න">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 
 
 <!ENTITY savePageCmd.label            "පිටුව සුරකින්න...">
@@ -517,6 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "පිට‌වෙන්න"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "පිටවෙන්න"> 
@@ -584,6 +613,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "බොහෝ තොරතුරු…">
 
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -597,6 +629,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "දැන් සම්මුහුර්ත කරන්න">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
+
+
+
+
+
+
+
 
 
 
@@ -645,6 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY tabCrashed.tryAgain "නැවත උත්සාහ කරන්න">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -657,7 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "ක්‍රියාකාරකම් දක්වනය">
 <!ENTITY appMenuButton.label           "මෙනුව">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; මෙනුව විවෘත කරන්න">
-<!ENTITY feedButton.label              "දායකත්වය ලබාගන්න">
+
 <!ENTITY feedButton.tooltip            "මෙම පිටුවට දායකත්වය ලබාගන්න…">
 <!ENTITY bookmarksButton.tooltip       "ඔබගේ පිටු සලකුණු පෙන්වීමට">
 <!ENTITY historyButton.tooltip         "ඔබ මෑතකදී ලබාගත් පිටු පෙන්වීමට">
@@ -680,4 +720,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "විශාලන පාලක">
 <!ENTITY addonBarCloseButton.tooltip   "ඇඩෝන තීරුව වසන්න">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "පසුපසට/ඉදිරියට">
+<!ENTITY viewBookmarksSidebar.label    "පැතීතීරුව තුළ පෙන්වන්න">
+<!ENTITY bookmarksItem.title           "පිටු සලකුණු">
+<!ENTITY openLocationCmd.label         "ස්ථානයක් විවෘත කරන්න...">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "ඔබගේ පිටුසළකුණු පෙන්වන්න">
+
+<!ENTITY tabGroupsButton.tooltip       "ඔබගේ ටැබ් සමූහගත කරන්න">
 <!-- end of strings to be removed post-Australis -->

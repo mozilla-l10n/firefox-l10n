@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "විකල්ප">
-<!ENTITY optionsHeader.startup.title                             "ආරම්භය">
-
-
-
 <!ENTITY optionsHeader.char.title                                "අක්‍ෂර කේතාංකනය">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "බිදවැටුම් වාර්තාව">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 
 

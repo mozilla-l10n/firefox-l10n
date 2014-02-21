@@ -67,6 +67,7 @@
 
 
 
+
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
@@ -76,7 +77,6 @@
 
 <!ENTITY copyURLCmd.label     "පුරුකේ ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyURLCmd.accesskey "a">
-
 
 
 
