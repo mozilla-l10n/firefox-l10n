@@ -9,18 +9,18 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Trang ưa thích">
-
+<!ENTITY  history_title "Lược sử">
 
 
 <!ENTITY  switch_to_tab "Chuyển sang thẻ">
 
 <!ENTITY  crash_reporter_title "Trình báo cáo lỗi &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; đã gặp sự cố. Thẻ của bạn sẽ được liệt kê trên trang Khởi động &brandShortName; khi bạn khởi động lại.">
-
+<!ENTITY  crash_send_report_message3 "Hãy thông báo với &vendorShortName; về sự cố này để họ có thể sửa chữa.">
 <!ENTITY  crash_include_url2 "Thêm vào địa chỉ của trang tôi đã truy cập">
-
+<!ENTITY  crash_sorry "Chúng tôi thành thật xin lỗi">
 <!ENTITY  crash_comment "Thêm bình luận (các bình luận sẽ được hiển thị công khai)">
-
+<!ENTITY  crash_allow_contact2 "Cho phép @vendorShortName; liên hệ với bạn về bản báo cáo lỗi này.">
 <!ENTITY  crash_email "Email của bạn">
 <!ENTITY  crash_closing_alert "Thoát và không gửi báo cáo sự cố?">
 <!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
@@ -50,9 +50,9 @@
 <!ENTITY search "Tìm kiếm">
 <!ENTITY reload "Tải lại">
 <!ENTITY forward "Tiến">
-<!ENTITY menu "Trình đơn">
+
 <!ENTITY back "Lùi">
-<!ENTITY stop "Dừng">
+
 <!ENTITY site_security "Bảo mật trang">
 
 <!ENTITY close_tab "Đóng Thẻ">
@@ -64,13 +64,16 @@
 
 <!ENTITY settings "Thiết lập">
 <!ENTITY settings_title "Thiết lập">
-
-
-
-
-
-
+<!ENTITY pref_category_advanced "Nâng cao">
+<!ENTITY pref_category_customize "Tùy chỉnh">
+<!ENTITY pref_category_search3 "Tìm kiếm">
+<!ENTITY pref_category_display "Hiển thị">
+<!ENTITY pref_category_privacy_short "Riêng tư">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
+
+
+
 
 
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -80,6 +83,8 @@
 
 
 <!ENTITY pref_remember_signons "Ghi nhớ mật khẩu">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -145,6 +150,9 @@ size. -->
 
 
 
+<!ENTITY pref_panels_show "Hiện">
+
+
 
 
 
@@ -165,9 +173,11 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 
 
-
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload_wifi "Chỉ thông qua Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Thoát">
+<!ENTITY pref_update_autodownload_never "Không bao giờ">
 
 
 <!ENTITY quit "Thoát">
@@ -196,6 +206,11 @@ size. -->
 <!ENTITY find_prev "Trước">
 <!ENTITY find_next "Tiếp">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Chơi">
+<!ENTITY media_pause "Tạm dừng">
+
 
 
 
@@ -209,11 +224,14 @@ size. -->
 
 
 
-<!ENTITY contextmenu_top_bookmarks_pin "Ghim trang web">
-<!ENTITY contextmenu_top_bookmarks_unpin "Bỏ ghim trang web">
 
 
 
+
+
+
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 
 <!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
@@ -249,8 +267,8 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
 
-<!ENTITY home_last_tabs_open "Mở tất cả các thẻ trong lần sử dụng cuối">
 
+<!ENTITY home_last_tabs_open "Mở tất cả các thẻ trong lần sử dụng cuối">
 
 
 
@@ -261,7 +279,6 @@ size. -->
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-
 
 
 
@@ -321,3 +338,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "Xong">
