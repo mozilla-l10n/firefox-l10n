@@ -42,6 +42,7 @@
 <!ENTITY back "Indietro">
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Sicurezza del sito">
+<!ENTITY save "Salva">
 <!ENTITY close_tab "Chiudi scheda">
 <!ENTITY one_tab "1 scheda">
 <!ENTITY num_tabs2 "&formatD; schede">
@@ -201,6 +202,7 @@
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
+<!ENTITY reading_list_add "Aggiungi a Elenco lettura">
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
