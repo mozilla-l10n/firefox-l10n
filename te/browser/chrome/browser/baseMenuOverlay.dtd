@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "స్పందనను తెలుపండి…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour.label             "&brandShortName; పర్యటన (o)">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "అభిరుచులు…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

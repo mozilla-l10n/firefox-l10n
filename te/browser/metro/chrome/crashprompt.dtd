@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "క్రాష్ నివేదిక నందు ఏమి వుంది?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "క్రాష్ నివేదిక అనునది మీ క్రాష్ గురించి, మీ మిషన్ గురించి, మరియు క్రాషైనప్పుడు మీ విహారిణి స్థితి యొక్క స్నాప్‌షాట్ గురించి వివరాలు కలిగివుంటుంది.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "వీటినందు తెరిచిన పేజీలు, ఫారాలలో మీరు టైపు చేసిన పాఠం మరియు తెరిచిన సందేశాల కాంటెంట్, ఇటవరీ బ్రౌజింగ్ చరిత్ర, లేదా సైటుతో పంచుకొంటున్న భౌగోళికస్థానం వివరాలు కలిగివుండవచ్చు.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "సమస్యలను పరిష్కరించి మా ఉత్పత్తులను మెరుగుపరచుటకు మేము క్రాష్ నివేదికలను ఉపయోగిస్తాము. మేము మీ సమాచారాన్ని ఇక్కడ వివరించినట్లు ఉపయోగిస్తాము">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "సమస్యలను పరిష్కరించి మా ఉత్పత్తులను మెరుగుపరచుటకు మేము క్రాష్ నివేదికలను ఉపయోగిస్తాము. మేము మీ సమాచారాన్ని ఇక్కడ వివరించినట్లు ఉపయోగిస్తాము">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; గోప్యతా విధానం">
+
 <!ENTITY crashprompt.includeURLLabel "నేను వున్న పేజీ యొక్క చిరునామా కూడా చేర్చుము">
 <!ENTITY crashprompt.acceptbutton    "నివేదికలను పంపించు">
 <!ENTITY crashprompt.refusebutton    "పంపవద్దు">

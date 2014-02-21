@@ -40,116 +40,104 @@
   -  button that pretty prints the selected source. -->
 
 <!ENTITY debuggerUI.sources.prettyPrint "మూలం ప్రెట్టిఫై చేయి">
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "శుభ్రం">
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions     "ఆక్షేపణలపై నిలుపుదల">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
-<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "పట్టిన ఆక్షేపణలు విస్మరించు">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit     "ప్రారంభంనందు పేన్‌లను చూపు">
-<!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
-<!ENTITY debuggerUI.showVarsFilter      "వేరియబుల్ ఫిల్టర్ పెట్టె చూపు">
-<!ENTITY debuggerUI.showVarsFilter.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum        "ఎన్యూమరబుల్ లక్షణాలను మాత్రమే చూపు">
-<!ENTITY debuggerUI.showOnlyEnum.key    "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "వాస్తవ మూలాలను చూపు">
-<!ENTITY debuggerUI.showOriginalSource.key  "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
 <!ENTITY debuggerUI.searchPanelOperators    "ఆపరేటర్స్:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.altkey    "O">
 
-<!ENTITY debuggerUI.searchFile          "ఫిల్టర్ స్క్రిప్టులు">
-<!ENTITY debuggerUI.searchFile.key      "P">
-<!ENTITY debuggerUI.searchFile.altkey   "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 
-<!ENTITY debuggerUI.searchGlobal        "అన్ని ఫైళ్ళనందు శోధించు">
-<!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "ఫంక్షన్ నిర్వచనం కొరకు శోధించు">
-<!ENTITY debuggerUI.searchFunction.key  "D">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken         "కనుగొను">
-<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchToken           "కనుగొను">
+<!ENTITY debuggerUI.searchToken.key       "F">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchGoToLine      "లైనుకు వెళ్ళు…">
-<!ENTITY debuggerUI.searchGoToLine.key  "L">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
+<!ENTITY debuggerUI.searchVariable.key       "V">
 
-<!ENTITY debuggerUI.searchVariable      "ఫిల్టర్ వేరియబుల్స్">
-<!ENTITY debuggerUI.searchVariable.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables.key       "V">
 
-<!ENTITY debuggerUI.focusVariables      "వేరియబుల్స్ ట్రీ ఫోకస్ చేయి">
-<!ENTITY debuggerUI.focusVariables.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
 <!ENTITY debuggerUI.condBreakPanelTitle "ఈ కింది ఎక్సుప్రెషన్ true అయితే మాత్రమే ఈ బ్రేక్‌పాయింట్ అనునది నిర్వర్తనాన్ని ఆపుతుంది">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuBreak         "బ్రేక్‌పాయింట్ జతచేయి">
-<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuCondBreak     "నియంత్రణ బ్రేక్‌పాయింట్ జతచేయి">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "మూలాలు">
+
 <!ENTITY debuggerUI.tabs.callstack      "కాల్ స్టాక్">
 <!ENTITY debuggerUI.tabs.variables      "వేరియబుల్స్">
 <!ENTITY debuggerUI.tabs.events         "ఘటనలు">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-
-<!ENTITY debuggerUI.seMenuAddWatch      "ఎక్సుప్రెషన్ వాచ్ చేయుటకు యెంపిక">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "వాచ్ యెక్సుప్రెషన్ జతచేయి">
-<!ENTITY debuggerUI.addWatch.key        "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 
-<!ENTITY debuggerUI.removeAllWatch      "అన్ని వాచ్ యెక్సుప్రెషన్లను తీసివేయి">
-<!ENTITY debuggerUI.removeAllWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->

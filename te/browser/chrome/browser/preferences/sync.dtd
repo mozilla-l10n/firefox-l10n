@@ -45,3 +45,19 @@
 
 <!ENTITY prefs.tosLink.label        "సేవా నిభందనలు">
 <!ENTITY prefs.ppLink.label         "గోప్యతా విదానం">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "లోపలకు వెళ్ళు">
+
+
