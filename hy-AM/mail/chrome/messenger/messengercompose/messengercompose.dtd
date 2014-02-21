@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Հասցեագրքի Կոնտակտ...">
 <!ENTITY newContact.accesskey "Կ">
-<!ENTITY attachMenu.label "Կցել">
-<!ENTITY attachMenu.accesskey "t">
+
+
 <!ENTITY attachFileCmd.label "Ֆայլեր...">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Կցել">
 <!ENTITY spellingButton.label "Ուղղագրությունը">
 <!ENTITY saveButton.label "Պահպանել">
+<!ENTITY printButton.label "Տպել">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Ուղարկել հիմա">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Կտրել">
 <!ENTITY copyButton.tooltip             "Պատճենել">
 <!ENTITY pasteButton.tooltip            "Տեղադրել">
+<!ENTITY printButton.tooltip "Տպել այս նամակը">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

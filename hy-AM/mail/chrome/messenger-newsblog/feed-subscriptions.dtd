@@ -19,7 +19,7 @@
 <!ENTITY quickMode.label             "Ցուցադրել հոդվածի ընդհանուր պատկերը` վեբ էջի փոխարեն">
 <!ENTITY quickMode.accesskey         "Ց">
 
-<!ENTITY locationValidate.label      "Validate">
+<!ENTITY locationValidate.label      "Վավերացնել">
 <!ENTITY validateText.label          "Ստուգել և ստանալ ճիշտ վեբ հղում։">
 
 <!ENTITY button.addFeed.label        "Ավելացնել">

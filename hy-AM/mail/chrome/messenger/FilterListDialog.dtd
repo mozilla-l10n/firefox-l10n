@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Կատարել ընտրված ֆիլտրերը.">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "ընտրեք այս թղթապանակը">
-<!ENTITY choosethisnewsserver.label "ընտրել նորությունների այս սպասարկիչը">
 <!ENTITY helpButton.label "Օգնություն">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

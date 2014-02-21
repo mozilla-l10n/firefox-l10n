@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Վար">
 <!ENTITY account.cancelReconnection.label         "Չեղարկել վերամիացումը">
 <!ENTITY account.cancelReconnection.accesskey     "Չ">
+
+
 <!ENTITY account.connecting           "Միանում է...">
 <!ENTITY account.disconnecting        "Անջատվում է...">
 <!ENTITY account.disconnected         "Միացած չէ">

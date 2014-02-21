@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "Ջ">
 <!ENTITY searchDialogTitle.label     "Փնտրել նամակներ">
 <!ENTITY results.label               "Արդյունքներ">
-<!ENTITY moveHereMenu.label          "Տեղ. այստեղ">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Տեղափոխել՝">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,20 @@
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
-<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի շղթան։"> 
-<!ENTITY fromColumn.tooltip "Սեղմեք՝ խմբավորելու ումից">
-<!ENTITY recipientColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացողի">
-<!ENTITY subjectColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վերնագրի">
-<!ENTITY dateColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ամսաթվի">
-<!ENTITY priorityColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ առաջն-ան">
-<!ENTITY tagsColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ պիտակի">
-<!ENTITY accountColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ փոստարկղի">
-<!ENTITY statusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վիճակի">
-<!ENTITY sizeColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ չափի">
-<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ թափոնի վիճակի">
-<!ENTITY unreadColumn.tooltip "Չընթերցված նամակների քանակը շղթայում">
-<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
-<!ENTITY readColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ընթերցման ">
-<!ENTITY receivedColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման ">
-<!ENTITY starredColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ աստղիկի ">
-<!ENTITY locationColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ տեղի ">
-<!ENTITY idColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման կարգի ">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY unreadColumn2.tooltip "Չընթերցված նամակների քանակը շղթայում">
+<!ENTITY totalColumn2.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
+
+
+
+
+
