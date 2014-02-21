@@ -4,22 +4,22 @@
 
 <!ENTITY toField4.label "Ում">
 <!ENTITY fromField4.label "Ումից">
-<!ENTITY senderField4.label "Sender">
-<!ENTITY organizationField4.label "Organization">
-<!ENTITY replyToField4.label "Reply to">
+<!ENTITY senderField4.label "Ուղարկողը">
+<!ENTITY organizationField4.label "Կազմակերպություն">
+<!ENTITY replyToField4.label "Պատասխանել">
 
 <!ENTITY subjectField4.label "Վերնագիրը">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Newsgroups">
-<!ENTITY followupToField4.label "Followup to">
+<!ENTITY newsgroupsField4.label "Նորությունների խումբ">
+<!ENTITY followupToField4.label "Հետևել">
 <!ENTITY tagsHdr4.label "Պիտակներ">
-<!ENTITY dateField4.label "Date">
-<!ENTITY userAgentField4.label "User agent">
-<!ENTITY referencesField4.label "References">
-<!ENTITY messageIdField4.label "Message ID">
-<!ENTITY inReplyToField4.label "In reply to">
-<!ENTITY originalWebsite4.label "Website">
+<!ENTITY dateField4.label "Ամսաթիվ">
+<!ENTITY userAgentField4.label "Ծրագիրը">
+<!ENTITY referencesField4.label "Հղումները">
+<!ENTITY messageIdField4.label "Հաղորդագրության ID-ին">
+<!ENTITY inReplyToField4.label "Պատասխանել">
+<!ENTITY originalWebsite4.label "Կայք">
 
 <!ENTITY hdrArchiveButton1.label "Արխիվ">
 <!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Պատ. ուղարկողին և մյուսներին">
 <!ENTITY hdrReplyListButton1.label "Պատասխանը">
 <!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
-<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.label "Հետևել">
 <!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrMenuForwardButton.label "Փոխանցել որպես">
 <!ENTITY hdrForwardButton1.label "Փոխանցել">
