@@ -25,7 +25,7 @@
 <!ENTITY syncDeviceName.accesskey   "i">
 <!ENTITY unlinkDevice.label           "Atvienot šo ierīci">
 
-<!ENTITY syncMy.label               "Sinhronizēt manas">
+<!ENTITY syncMy.label               "Ko sinhronizēt">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Cilnes">
