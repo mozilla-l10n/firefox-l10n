@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Lorgar ùrachaidhean airson na leanas leis fhèin:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Tuilleadain a chaidh a stàladh">
-<!ENTITY enableAddonsUpdate.accesskey   "a">
-<!ENTITY whenUpdatesFound.label         "Nuair a thèid ùrachadh a lorg airson &brandShortName;,">
-<!ENTITY modeAskMe.label                "Faighnich dhìom na tha mi airson dèanamh">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
-<!ENTITY modeAutoAddonWarn.accesskey    "T">
-<!ENTITY showUpdates.label              "Seall eachdraidh nan ùrachaidhean">
-<!ENTITY showUpdates.accesskey          "S">
+<!ENTITY updateApp.label                 "Ùrachaidhean &brandShortName;:">
+<!ENTITY updateAuto.label                "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b’ fhearr)">
+<!ENTITY updateAuto.accesskey            "S">
+<!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
+<!ENTITY updateCheck.accesskey           "b">
+<!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
+<!ENTITY updateAutoAddonWarn.accesskey   "T">
+<!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
+<!ENTITY updateHistory.accesskey         "S">
+<!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
+<!ENTITY enableAddonsUpdate3.label       "Tuilleadain">
+<!ENTITY enableAddonsUpdate3.accesskey   "a">
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "b">
