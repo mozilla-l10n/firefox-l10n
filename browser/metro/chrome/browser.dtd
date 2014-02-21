@@ -123,7 +123,7 @@
 
 <!ENTITY firstRunTabs.label "Sekmelerinizi mi arıyorsunuz? Aşağı çekin veya sağ tıklayın">
 <!ENTITY firstRunTopSites.label "En çok ziyaret ettiğiniz sitelere gidin">
-<!ENTITY firstRunBookmarks.label "Daha sonra bakmak için kaydettiğiniz sayfaları bulun">
+<!ENTITY firstRunBookmarks.label "Kaydettiğiniz sayfaları bulun">
 <!ENTITY firstRunMenu.label "Diğer özelliklere ve seçeneklere erişin">
 <!ENTITY firstRunHistory.label "Web'de nerelerde gezindiğinizi görün">
 <!ENTITY firstRunWelcome.label "&brandShortName; tarayıcısına hoş geldiniz">
