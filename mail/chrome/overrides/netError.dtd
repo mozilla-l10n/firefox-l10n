@@ -70,11 +70,10 @@
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "La conexión ha caducado">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-<!ENTITY protocolNotFound.title "La dirección no resulta comprensible">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "No se ha comprendido la dirección">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Podría necesitar instalar otro software para abrir esta
-   dirección.</li>
+  <li>Podría tener que instalar otro software para abrir esta dirección.</li>
 </ul>
 ">
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
