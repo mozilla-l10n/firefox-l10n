@@ -76,10 +76,12 @@
 <!ENTITY pref_category_search_restore_defaults "Återställ sökmotorer">
 <!ENTITY pref_search_restore_defaults "Återställ standard">
 <!ENTITY pref_search_restore_defaults_summary "Återställ standard">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
 <!ENTITY pref_developer_remotedebugging "Fjärravlusning">
 <!ENTITY pref_developer_remotedebugging_docs "Läs mer">
