@@ -42,6 +42,7 @@
 <!ENTITY back "Anterior">
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Seguridad del sitio">
+<!ENTITY save "Guardar">
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
 <!ENTITY num_tabs2 "&formatD; pestañas">
@@ -60,7 +61,7 @@
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
 <!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
-<!ENTITY pref_search_tip "CONSEJO: añada un sitio web a su lista de proveedores de búsqueda con una pulsación larga en su campo de búsqueda.">
+<!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber más">
@@ -154,6 +155,7 @@
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
+<!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
 <!ENTITY new_tab "Pestaña nueva">
 <!ENTITY new_private_tab "Pestaña privada nueva">
@@ -200,6 +202,7 @@
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
 <!ENTITY site_settings_no_settings "No hay configuraciones para limpiar.">
+<!ENTITY reading_list_add "Añadir a la lista de lectura">
 <!ENTITY reading_list_added "Página añadida a su lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de su lista de lectura">
 <!ENTITY reading_list_failed "Ha fallado la adición de esta página a su Lista de lectura">
@@ -226,7 +229,7 @@
 <!ENTITY home_most_recent_title "Más recientes">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
-<!ENTITY home_reading_list_hint "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &#037;I cuando aparezca en la barra de título.">
+<!ENTITY home_reading_list_hint2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &formatI; cuando aparezca en la barra de título.">
 <!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
 <!ENTITY pin_site_dialog_hint "Introduzca una palabra clave de búsqueda">
 <!ENTITY filepicker_title "Elegir archivo">
