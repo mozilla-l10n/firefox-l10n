@@ -80,6 +80,8 @@
 <!ENTITY projects.valid "Válido">
 <!ENTITY projects.error "Error">
 <!ENTITY projects.warning "Advertencias">
+<!ENTITY projects.hosted "Alojado">
+<!ENTITY projects.packaged "Empaquetado">
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
 <!ENTITY help.intro "Esta herramienta le ayudará a generar e instalar aplicaciones web en dispositivos compatibles (i.e. Firefox OS). La pestaña <strong>Aplicaciones</strong> le ayudará en el proceso de validación e instalación de su aplicación. La pestaña <strong>Dispositivo</strong> le dará información sobre el dispositivo conectado. Use la barra de herramientas de debajo para conectarse a un dispositivo o iniciar el simulador.">
