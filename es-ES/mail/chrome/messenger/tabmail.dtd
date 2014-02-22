@@ -4,3 +4,4 @@
 
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
+<!ENTITY defaultTabTitle.label "Inicio">
