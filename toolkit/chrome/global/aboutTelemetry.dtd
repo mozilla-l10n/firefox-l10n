@@ -48,8 +48,8 @@
   Histogrammer samlet av utvidelser
 ">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Trykk for å slå sammen seksjonen
+<!ENTITY aboutTelemetry.toggle "
+  Trykk for å slå av/på seksjonen
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
