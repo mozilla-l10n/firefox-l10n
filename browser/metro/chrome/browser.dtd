@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Atrás">
 <!ENTITY forward.label         "Adelante">
 <!ENTITY newtab.label          "Nueva pestaǹa">
+<!ENTITY newPrivateTab.label   "Nueva pestaña privada">
 <!ENTITY closetab.label        "Cerrar pestaña">
 
 <!ENTITY autocompleteResultsHeader.label  "Sus resultados">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -130,3 +133,18 @@
 <!ENTITY firstRunHistory.label "Ver donde ha estado en la web">
 <!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
 <!ENTITY firstRunDifferent.label "Diferente por diseño">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+<!ENTITY firstRunBack.label "Toque para ir a la página anterior">
+<!ENTITY firstRunNewTab.label "Agregue una nueva pestaña para explorar un sitio nuevo">
+<!ENTITY firstRunStar.label "Use marcadores para guardar páginas para ver después">
+<!ENTITY firstRunPin.label "Pegue cualquier sitio a la pantalla de inicio de Windows para un acceso rápido">
+<!ENTITY firstRunGotIt.label "¡Ya está!">
