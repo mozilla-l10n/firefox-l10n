@@ -42,6 +42,7 @@
 <!ENTITY back "Назад">
 <!ENTITY stop "Стоп">
 <!ENTITY site_security "Защита сайта">
+<!ENTITY save "Сохранить">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs2 "&formatD; вкладок">
@@ -60,7 +61,7 @@
 <!ENTITY pref_category_search_restore_defaults "Восстановить поисковые системы">
 <!ENTITY pref_search_restore_defaults "Восстановить по умолчанию">
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
-<!ENTITY pref_search_tip "СОВЕТ: Добавляйте любой веб-сайт в список поисковых систем путем долгого нажатия на его поле поиска.">
+<!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_developer_remotedebugging_docs "Подробнее">
@@ -201,6 +202,7 @@
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
+<!ENTITY reading_list_add "Добавить в Список для чтения">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
@@ -227,8 +229,8 @@
 <!ENTITY home_most_recent_title "Недавно посещённые">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
-<!ENTITY home_reading_list_hint "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на значок &#037;I, когда он появится в строке заголовка.">
-<!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на кнопку режима чтения, когда она появится в строке заголовка.">
+<!ENTITY home_reading_list_hint2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в строке заголовка.">
+<!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
