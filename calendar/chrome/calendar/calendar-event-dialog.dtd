@@ -8,6 +8,8 @@
 <!ENTITY newevent.from.label "Desde">
 <!ENTITY newevent.to.label "Hasta">
 <!ENTITY newevent.attendees.notify.label "Notificar asistentes">
+<!ENTITY newevent.attendees.notifyundisclosed.label "Mantener asistente oculto en las invitaciones">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Si está activado, los asistentes no se verán los unos a los otros en las invitaciones. Sólo se aplica a las invitaciones de correo.">
 <!ENTITY newevent.status.label "Estado">
 <!ENTITY newevent.status.accesskey "E">
 <!ENTITY newevent.eventStatus.none.label "No especificado">
