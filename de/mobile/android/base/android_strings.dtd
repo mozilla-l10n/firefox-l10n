@@ -257,7 +257,7 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Titelleiste nur am Seitenanfang">
+<!ENTITY pref_scroll_title_bar "Titelleiste nicht permanent">
 
 <!ENTITY history_removed "Seite vergessen">
 
