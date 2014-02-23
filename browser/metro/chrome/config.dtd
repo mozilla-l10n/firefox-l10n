@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Otsi">
-<!ENTITY newpref.label          "Lisa uus eelistus">
 <!ENTITY addpref.name           "Nimi">
-<!ENTITY addpref.value          "Väärtus">
 
 <!ENTITY cancel.label           "Loobu">
-<!ENTITY reset.label            "Lähtesta">
-<!ENTITY done.label             "Valmis">
+<!ENTITY toggle.label           "Vastanda">
 
 <!ENTITY integer.label          "Täisarv">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Tõeväärtus">
+
+<!ENTITY string.placeholder     "Sisesta string">
+<!ENTITY number.placeholder     "Sisesta number">
