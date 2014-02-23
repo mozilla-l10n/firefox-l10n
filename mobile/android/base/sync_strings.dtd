@@ -142,7 +142,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mindestens 8 Zeichen'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Geburtsjahr'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Mit dem Fortfahren erkläre ich mich mit den &formatS1; und dem &formatS2; der Firefox-Online-Dienste einverstanden.'>
+<!ENTITY fxaccount_create_account_policy_text 'Mit dem Fortfahren erklären Sie sich mit den &formatS1; und dem &formatS2; der Firefox-Online-Dienste einverstanden.'>
 <!ENTITY fxaccount_create_account_button 'Weiter'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Zu synchronisierende Daten auswählen'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Haben Sie bereits ein Konto? Melden Sie sich an.'>
