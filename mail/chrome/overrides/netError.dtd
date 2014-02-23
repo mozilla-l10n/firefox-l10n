@@ -56,12 +56,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível em cache.</p><ul><li>Por precaução, o &brandShortName; não efetua automáticamente um novo pedidode documentos sensíveis.</li><li>Clique Tentar novamente um novo pedido do documento do sítio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível em cache.</p><ul><li>Por precaução, o &brandShortName; não efetua automaticamente um novo pedido de documentos sensíveis.</li><li>Clique Tentar novamente para efetuar um novo pedido do documento ao sítio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>>Pressione &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li>
+  <li>>Prima &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li>
 </ul>
 ">
 
@@ -85,17 +85,17 @@
 <!ENTITY netTimeout.title "A ligação expirou">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "O endereço não foi compreendido">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Endereço não compreendido">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Poderá ter que instalar outro software para abrir este endereço.</li>
+  <li>Poderá ter que instalar outra aplicação para abrir este endereço.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy está a recusar ligações">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Verifique se as definições proxy estão corretas.</li>
+  <li>Verifique se as definições do proxy estão corretas.</li>
   <li>Contacte o seu administrador de rede para ter a certeza de que o servidor proxy está
     a funcionar.</li>
 </ul>
@@ -192,4 +192,4 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os donos do sítio web para os informar sobre este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte o dono do sítio web para o informar sobre este problema.</li></ul></p>">
