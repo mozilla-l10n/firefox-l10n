@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Oikoluku">
 <!ENTITY  event.toolbar.privacy.label                     "Tietosuoja">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Tallenna ja sulje">
+<!ENTITY  event.toolbar.delete.tooltip                    "Poista">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu henkilöitä">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Oikolue">
+<!ENTITY  event.toolbar.attachments.tooltip               "Lisää liitetiedostoja">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Muuta tietosuoja-asetusta">
+<!ENTITY  event.toolbar.priority.tooltip                  "Muuta tärkeysastetta">
+<!ENTITY  event.toolbar.status.tooltip                    "Muuta tilaa">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Muuta vapaa/varattu -aikaa">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Otsikko:" >
 <!ENTITY event.title.textbox.accesskey                    "k">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Oma…" >
 
 <!ENTITY event.reminder.multiple.label                    "Useita muistutuksia…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Aika:">
+<!ENTITY event.statusbarpanel.privacy.label               "Tietosuoja:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Muokkaa toistuvuutta">
