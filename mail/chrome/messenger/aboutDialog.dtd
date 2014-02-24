@@ -1,5 +1,18 @@
 <!ENTITY aboutDialog.title           "&brandFullName;i teave">
 
+
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Kontrolli uuendusi">
+<!ENTITY update.checkForUpdatesButton.accesskey   "K">
+<!ENTITY update.updateButton.label                "Uuendamiseks taaskäivita">
+<!ENTITY update.updateButton.accesskey            "U">
+<!ENTITY update.applyButtonBillboard.label        "Rakenda uuendus…">
+<!ENTITY update.applyButtonBillboard.accesskey    "R">
+
 <!ENTITY community.start2           "&brandShortName; on loodud ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
@@ -24,8 +37,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Uuenduste olemasolu kontrollimine…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Lisade ühilduvuse kontrollimine…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Kasutusel on &brandShortName;i uusim versioon">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

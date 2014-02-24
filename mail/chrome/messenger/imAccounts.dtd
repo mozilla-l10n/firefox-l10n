@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label               "Liiguta alla">
 <!ENTITY account.cancelReconnection.label     "Katkesta taasühendamine">
 <!ENTITY account.cancelReconnection.accesskey "d">
+<!ENTITY account.copyDebugLog.label           "Kopeeri debugimise logi">
+<!ENTITY account.copyDebugLog.accesskey       "o">
 <!ENTITY account.connecting                   "Ühendamine…">
 <!ENTITY account.disconnecting                "Ühenduse katkestamine…">
 <!ENTITY account.disconnected                 "Pole ühendatud">
