@@ -90,7 +90,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey            "t">
 <!ENTITY exitFullScreenCmd.label                 "Välju täisekraanirežiimist">
 <!ENTITY exitFullScreenCmd.accesskey             "V">
-<!ENTITY fullScreenCmd.label                     "Täisekraanirežiim">
+<!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
 <!ENTITY fullScreenCmd.macCommandKey             "f">
 <!ENTITY showAllTabsCmd.label                    "Kuva kõiki kaarte">
@@ -274,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label                   "Uus aken">
 <!ENTITY newNavigatorCmd.key                     "N">
 <!ENTITY newNavigatorCmd.accesskey               "U">
-<!ENTITY newPrivateWindow.label                  "Uus privaatse veebilehitsemise aken">
+<!ENTITY newPrivateWindow.label                  "Uus privaatne aken">
 <!ENTITY newPrivateWindow.accesskey              "p">
 
 <!ENTITY editMenu.label                          "Redigeerimine">
