@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label "Posunout dolů">
 <!ENTITY account.cancelReconnection.label "Zrušit připojení">
 <!ENTITY account.cancelReconnection.accesskey "r">
+<!ENTITY account.copyDebugLog.label     "Kopírovat ladící log">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting "Připojování…">
 <!ENTITY account.disconnecting "Odpojování…">
 <!ENTITY account.disconnected "Není připojeno">
