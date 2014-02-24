@@ -569,7 +569,7 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorovat upozornění pro tuto zprávu">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Vypnout detekování podvodných zpráv pro všechny zprávy">
+<!ENTITY phishingOptionSettings.label "Upravit nastavení detekování podvodných zpráv…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Upravit nastavení detekování podvodných zpráv…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
@@ -687,7 +687,7 @@
 <!ENTITY starredColumn2.tooltip "Seřadíte podle praporku">
 <!ENTITY locationColumn2.tooltip "Seřadíte podle umístění">
 <!ENTITY idColumn2.tooltip "Seřadíte podle pořadí přijetí">
-<!ENTITY attachmentColumn.tooltip "Seřadíte podle příloh">
+<!ENTITY attachmentColumn2.tooltip "Seřadíte podle příloh">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
