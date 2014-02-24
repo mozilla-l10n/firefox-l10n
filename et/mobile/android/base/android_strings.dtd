@@ -66,13 +66,16 @@
 <!ENTITY settings_title                  "Sätted">
 <!ENTITY pref_category_advanced          "Muud sätted">
 <!ENTITY pref_category_customize         "Kohandamine">
-<!ENTITY pref_category_search2           "Otsingu sätted">
+<!ENTITY pref_category_search3           "Otsing">
 <!ENTITY pref_category_display           "Kuvamine">
 <!ENTITY pref_category_privacy_short     "Privaatsus">
 <!ENTITY pref_category_vendor            "&vendorShortName;">
 <!ENTITY pref_category_datareporting     "Saadetavad andmed">
 <!ENTITY pref_category_installed_search_engines "Paigaldatud otsingumootorid">
-<!ENTITY pref_category_add_search_providers "Lisa otsingumootoreid">
+<!ENTITY pref_category_add_search_providers "Otsingumootorite lisamine">
+<!ENTITY pref_category_search_restore_defaults "Otsingumootorite taastamine">
+<!ENTITY pref_search_restore_defaults    "Taasta vaikeväärtused">
+<!ENTITY pref_search_restore_defaults_summary "Taasta vaikeväärtused">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging  "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Learn more">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
+
+<!ENTITY pref_category_home              "Avaleht">
+<!ENTITY pref_category_home_panels       "Paneelid">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize           "Kohandamine">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox              "&brandShortName;ist">
 <!ENTITY pref_vendor_faqs                "KKK">
 <!ENTITY pref_vendor_feedback            "Anna tagasisidet">
-<!ENTITY pref_search_set_default         "Määra vaikeväärtuseks">
-<!ENTITY pref_search_default             "Vaikimisi">
-<!ENTITY pref_search_remove              "Eemalda">
+
+<!ENTITY pref_dialog_set_default         "Määra vaikeväärtuseks">
+<!ENTITY pref_dialog_default             "vaikeväärtus">
+<!ENTITY pref_dialog_remove              "Eemalda">
+
 <!ENTITY pref_search_last_toast          "Viimast otsingumootorit ei saa eemaldada või keelata.">
+
+<!ENTITY pref_panels_show                "Kuva">
+<!ENTITY pref_panels_hide                "Peida">
 
 <!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
 <!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next                       "Järgmine">
 <!ENTITY find_close                      "Sulge">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to                "Edastamine seadmele">
+<!ENTITY media_play                      "Esita">
+<!ENTITY media_pause                     "Paus">
+<!ENTITY media_stop                      "Peata">
+
 <!ENTITY contextmenu_open_new_tab        "Ava uuel kaardil">
 <!ENTITY contextmenu_open_private_tab    "Ava privaatsel kaardil">
 <!ENTITY contextmenu_open_in_reader      "Ava lugeris">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title        "kuvatakse lehe pealkirja">
 <!ENTITY pref_titlebar_mode_url          "kuvatakse lehe aadressi">
 
-<!ENTITY pref_dynamic_toolbar            "Kerimisel tiitliriba peidetakse">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar           "Kerimisel tiitliriba peidetakse">
 
 <!ENTITY history_removed                 "Leht eemaldatud">
 
