@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "K">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                  "Järgmisi uuendusi kontrollitakse automaatselt:">
-<!ENTITY enableAppUpdate.label            "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey        "h">
-<!ENTITY enableAddonsUpdate.label         "Paigaldatud lisad">
-<!ENTITY enableAddonsUpdate.accesskey     "t">
-<!ENTITY whenUpdatesFound.label           "Kui &brandShortName;ile leitakse uuendusi:">
-<!ENTITY modeAskMe.label                  "küsitakse, mida teha">
-<!ENTITY modeAskMe.accesskey              "k">
-<!ENTITY modeAutomatic.label              "uuendused laaditakse automaatselt alla ja paigaldatakse">
-<!ENTITY modeAutomatic.accesskey          "t">
-<!ENTITY modeAutoAddonWarn.label          "Hoiatatakse, kui see keelab mõne lisa">
-<!ENTITY modeAutoAddonWarn.accesskey      "e">
-<!ENTITY showUpdates.label                "Näita uuenduste ajalugu">
-<!ENTITY showUpdates.accesskey            "j">
+<!ENTITY updateApp.label                  "&brandShortName;i uuendused:">
+<!ENTITY updateAuto.label                 "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
+<!ENTITY updateAuto.accesskey             "e">
+<!ENTITY updateCheck.label                "Kontrollitakse uuenduste olemasolu, aga küsitakse, kas need paigaldada">
+<!ENTITY updateCheck.accesskey            "K">
+<!ENTITY updateManual.label               "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvalisuse risk)">
+<!ENTITY updateManual.accesskey           "U">
+<!ENTITY updateAutoAddonWarn.label        "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY updateAutoAddonWarn.accesskey    "H">
+<!ENTITY updateHistory.label              "Näita uuenduste ajalugu">
+<!ENTITY updateHistory.accesskey          "j">
+<!ENTITY updateOthers.label               "Automaatne uuendamine:">
+<!ENTITY enableAddonsUpdate3.label        "Lisad">
+<!ENTITY enableAddonsUpdate3.accesskey    "L">
 
 <!ENTITY useService.label                 "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey             "U">

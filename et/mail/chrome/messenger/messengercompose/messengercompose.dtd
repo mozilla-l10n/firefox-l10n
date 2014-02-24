@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label                  "Lisa">
 <!ENTITY spellingButton.label                "Õigekiri">
 <!ENTITY saveButton.label                    "Salvesta">
+<!ENTITY printButton.label                   "Prindi">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip                  "Saada kiri kohe">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip                   "Lõika">
 <!ENTITY copyButton.tooltip                  "Kopeeri">
 <!ENTITY pasteButton.tooltip                 "Aseta">
+<!ENTITY printButton.tooltip                 "Prindi see kiri">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
