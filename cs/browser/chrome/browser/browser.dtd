@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title "Hledání">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Nabídka">
+<!ENTITY homeButton.label             "Domů">
 
 <!ENTITY tabGroupsButton.label "Skupiny panelů">
 
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Nové anonymní okno">
+<!ENTITY newPrivateWindow.label     "Anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
 
 <!ENTITY editMenu.label         "Úpravy"> 

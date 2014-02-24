@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label2    "Zakázat JavaScript">
+<!ENTITY options.disableJavaScript.label     "Zakázat JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Přepnutí této volby zakáže pro aktuální panel JavaScript. Jakmile bude panel nebo nástroje uzavřeny, bude nastavení zapomenuto.">
 
 <!-- LOCALIZATION NOTE (options.disableCache.label,

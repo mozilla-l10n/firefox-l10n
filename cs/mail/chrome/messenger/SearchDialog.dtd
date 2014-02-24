@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey "m">
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">
-<!ENTITY moveHereMenu.label "Přesunout sem">
-<!ENTITY moveHereMenu.accesskey "n">
 <!ENTITY moveButton.label "Přesunout do">
 <!ENTITY moveButton.accesskey "p">
 <!ENTITY closeCmd.key "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Pořadí přijetí">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
-<!ENTITY threadColumn.tooltip "Klepnutím zobrazíte vlákna zpráv">
-<!ENTITY fromColumn.tooltip "Klepnutím seřadíte podle odesílatele">
-<!ENTITY recipientColumn.tooltip "Klepnutím seřadíte podle příjemce">
-<!ENTITY subjectColumn.tooltip "Klepnutím seřadíte podle předmětu">
-<!ENTITY dateColumn.tooltip "Klepnutím seřadíte podle data">
-<!ENTITY priorityColumn.tooltip "Klepnutím seřadíte podle priority">
-<!ENTITY tagsColumn.tooltip "Klepnutím seřadíte podle štítku">
-<!ENTITY accountColumn.tooltip "Klepnutím seřadíte podle účtu">
-<!ENTITY statusColumn.tooltip "Klepnutím seřadíte podle stavu">
-<!ENTITY sizeColumn.tooltip "Klepnutím seřadíte podle velikosti">
-<!ENTITY junkStatusColumn.tooltip "Klepnutím seřadíte podle druhu zprávy">
-<!ENTITY unreadColumn.tooltip "Počet nepřečtených zpráv ve vlákně">
-<!ENTITY totalColumn.tooltip "Celkový počet zpráv ve vlákně">
-<!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
-<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle data doručení">
-<!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
-<!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle umístění">
-<!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
+<!ENTITY columnChooser2.tooltip "Vyberte sloupce pro zobrazení">
+<!ENTITY threadColumn2.tooltip "Zobrazíte vlákna zpráv">
+<!ENTITY fromColumn2.tooltip "Seřadíte podle odesílatele">
+<!ENTITY recipientColumn2.tooltip "Seřadíte podle příjemce">
+<!ENTITY subjectColumn2.tooltip "Seřadíte podle předmětu">
+<!ENTITY dateColumn2.tooltip "Seřadíte podle data">
+<!ENTITY priorityColumn2.tooltip "Seřadíte podle priority">
+<!ENTITY tagsColumn2.tooltip "Seřadíte podle štítku">
+<!ENTITY accountColumn2.tooltip "Seřadíte podle účtu">
+<!ENTITY statusColumn2.tooltip "Seřadíte podle stavu">
+<!ENTITY sizeColumn2.tooltip "Seřadíte podle velikosti">
+<!ENTITY junkStatusColumn2.tooltip "Seřadíte podle druhu zprávy">
+<!ENTITY unreadColumn2.tooltip "Seřadíte dle počtu nepřečtených zpráv ve vlákně">
+<!ENTITY totalColumn2.tooltip "Seřadíte dle celkového počtu zpráv ve vlákně">
+<!ENTITY readColumn2.tooltip "Seřadíte podle přečtených">
+<!ENTITY receivedColumn2.tooltip "Seřadíte podle data doručení">
+<!ENTITY starredColumn2.tooltip "Seřadíte podle praporku">
+<!ENTITY locationColumn2.tooltip "Seřadíte podle umístění">
+<!ENTITY idColumn2.tooltip "Seřadíte podle pořadí přijetí">
