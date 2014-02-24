@@ -10,7 +10,6 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Wyświetla lub ukrywa pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.sticky.tooltip                     "Określa, czy automatycznie filtrować nowo otwierane foldery">
 
-<!ENTITY quickFilterBar.barLabel.label     "Szybkie filtrowanie:">
 <!ENTITY quickFilterBar.unread.label       "Nieprzeczytane">
 <!ENTITY quickFilterBar.unread.tooltip     "Wyświetl wyłącznie wiadomości oznaczone jako nieprzeczytane">
 <!ENTITY quickFilterBar.starred.label      "Z gwiazdką">
