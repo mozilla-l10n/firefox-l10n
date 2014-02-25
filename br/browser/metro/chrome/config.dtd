@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Klask">
-<!ENTITY newpref.label          "Ouzhpennañ ur gwellvez nevez">
 <!ENTITY addpref.name           "Anv">
-<!ENTITY addpref.value          "Gwerzh">
 
 <!ENTITY cancel.label           "Nullañ">
-<!ENTITY reset.label            "Adderaouekaat">
-<!ENTITY done.label             "Graet">
+<!ENTITY toggle.label           "Trec'haoliñ">
 
 <!ENTITY integer.label          "Niver kevan">
 <!ENTITY string.label           "Hedad">
 <!ENTITY boolean.label          "Boulean ">
+
+<!ENTITY string.placeholder     "Bizskrivit un hedad">
+<!ENTITY number.placeholder     "Bizskrivit un niver">

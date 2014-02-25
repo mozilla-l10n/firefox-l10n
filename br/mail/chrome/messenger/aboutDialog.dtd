@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "A-zivout &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "Gwiriañ mar bez hizivadurioù d'ober">
+<!ENTITY update.checkForUpdatesButton.accesskey   "G">
+<!ENTITY update.updateButton.label                "Adloc'hañ evit hizivaat">
+<!ENTITY update.updateButton.accesskey            "A">
+<!ENTITY update.applyButtonBillboard.label        "Seveniñ an hizivadur…">
+<!ENTITY update.applyButtonBillboard.accesskey    "S">
 
 <!ENTITY community.start2           "Ergrafet eo &brandShortName; gant ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "O klask hizivadennoù…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "O wiriañ keverlec'hded an askouezh…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Hizivaet eo bet &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

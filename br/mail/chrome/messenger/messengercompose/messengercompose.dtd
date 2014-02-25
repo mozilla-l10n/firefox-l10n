@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Kenstagañ">
 <!ENTITY spellingButton.label "Reizhskrivañ">
 <!ENTITY saveButton.label "Enrollañ">
+<!ENTITY printButton.label "Moullañ">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Kas ar gemennadenn-mañ diouzhtu">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Troc'hañ">
 <!ENTITY copyButton.tooltip             "Eilañ">
 <!ENTITY pasteButton.tooltip            "Pegañ">
+<!ENTITY printButton.tooltip "Moullañ ar gemennadenn-mañ">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

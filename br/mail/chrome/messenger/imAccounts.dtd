@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Kas en traoñ">
 <!ENTITY account.cancelReconnection.label         "Nullañ an adkennaskañ">
 <!ENTITY account.cancelReconnection.accesskey     "N">
+<!ENTITY account.copyDebugLog.label     "Eilañ restr ar c'herzhlevr diveugañ">
+<!ENTITY account.copyDebugLog.accesskey "E">
 <!ENTITY account.connecting           "O kennaskañ…">
 <!ENTITY account.disconnecting        "O tigennaskañ…">
 <!ENTITY account.disconnected         "N'eo ket kennasket">

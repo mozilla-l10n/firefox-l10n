@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Kent">
 <!ENTITY forward.label         "War-lerc'h">
 <!ENTITY newtab.label          "Ivinell nevez">
+<!ENTITY newPrivateTab.label   "Ivinell prevez nevez">
 <!ENTITY closetab.label        "Serriñ an ivinell">
 
 <!ENTITY autocompleteResultsHeader.label  "Ho tisoc'hoù">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "i">
 <!ENTITY newTab2.key "l">
 <!ENTITY closeTab.key "i">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +120,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "Emaoc'h o klask hoc'h ivinelloù ? Sachit etrezek an traoñ pe grit ur c'hlik dehou">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Gwelit pelec'h oc'h bet war ar genrouedad">
 <!ENTITY firstRunWelcome.label "Donemat war &brandShortName;">
 <!ENTITY firstRunDifferent.label "Disheñvel dre ergraf">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+<!ENTITY firstRunBack.label "Stokit evit mont d'ar bajenn gent">
+<!ENTITY firstRunNewTab.label "Ouzhpennañ un ivinell nevez evit ergerzhout ul lec'hienn nevez">
+<!ENTITY firstRunStar.label "Arverit ar sinedoù evit mirout pajennoù da weladenniñ diwezhatoc'h">
+<!ENTITY firstRunPin.label "Spilhennit lec'hiennoù d'ho skramm degemer Windows evit haeziñ anezho buan">
+<!ENTITY firstRunGotIt.label "Komprenet em eus !">

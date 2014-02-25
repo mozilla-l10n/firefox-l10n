@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Teuliad">
 <!ENTITY folderMenu.accesskey "T">
-<!ENTITY thisFolder.label "An teuliad-mañ">
-<!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret nevez zo">
 <!ENTITY goRecentlyClosedTabs.accesskey "n">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Kenstagadurioù">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editMsgAsNewCmd.label "Embann ar gemennadenn evel unan nevez">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Embann evel ur gemennadenn nevez">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Sevel ur sil diouzh ar gemennadenn…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Dilec'hiañ etrezek">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Sellout ouzh an neudennad">
 <!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Kargañ amañ">
-<!ENTITY fileHereMenu.accesskey "a">
-<!ENTITY copyHereMenu.label "Eilañ amañ">
-<!ENTITY copyHereMenu.accesskey "m">
 <!ENTITY tagMenu.label "Merk">
 <!ENTITY tagMenu.accesskey "M">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Leuskel ar c'hemennoù a-gostez evit ar gemennadenn-mañ">
 <!ENTITY phishingOptionIgnore.accesskey "L">
-<!ENTITY phishingOptionDisableDetection.label "Diweredekaat dinoadur ar posteloù flodus evit an holl gemennadennoù">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "Embann an dibarzhioù evit dinoadur ar posteloù flodus">
+<!ENTITY phishingOptionSettings.accesskey "E">
+<!ENTITY phishingOptionSettingsUnix.label "Embann ar gwellvezioù evit dinoadur ar posteloù flodus…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "E">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Kenstagadurioù">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Klikañ evit diuzañ ar bannoù da skrammañ">
-<!ENTITY threadColumn.tooltip "Klikañ evit diskouez neudennadoù ar c'hemennadennoù">
-<!ENTITY fromColumn.tooltip "Klikañ evit rummañ dre ar c'haser">
-<!ENTITY recipientColumn.tooltip "Klikañ evit rummañ dre an degemererien">
-<!ENTITY subjectColumn.tooltip "Klikañ evit rummañ dre an danvez">
-<!ENTITY dateColumn.tooltip "Klikañ evit rummañ dre an deiziad">
-<!ENTITY priorityColumn.tooltip "Klikañ evit rummañ dre an tevet">
-<!ENTITY tagsColumn.tooltip "Klikit evit rummañ dre verkoù">
-<!ENTITY accountColumn.tooltip "Klikañ evit rummañ dre ar gont">
-<!ENTITY statusColumn.tooltip "Klikañ evit rummañ dre ar stad">
-<!ENTITY sizeColumn.tooltip "Klikañ evit rummañ dre ar vent">
-<!ENTITY junkStatusColumn.tooltip "Klikañ evit rummañ dre ar stad Lastez">
-<!ENTITY unreadColumn.tooltip "Niver a gemennadennoù nevez en neudennad">
-<!ENTITY totalColumn.tooltip "Hollad kemennadennoù en neudennad-mañ">
-<!ENTITY readColumn.tooltip "Klikañ evit rummañ dre ar stad Lennet">
-<!ENTITY receivedColumn.tooltip "Klikañ evit rummañ dre an deiziad degemer">
-<!ENTITY starredColumn.tooltip "Klikit evit rummañ dre ar steredenn">
-<!ENTITY locationColumn.tooltip "Klikañ evit rummañ dre al lec'hiadur">
-<!ENTITY idColumn.tooltip "Klikañ evit rummañ dre an urzh degemer">
-<!ENTITY attachmentColumn.tooltip "Klikañ evit rummañ dre genstagadurioù">
+<!ENTITY columnChooser2.tooltip "Diuzañ ar bannoù da ziskouez">
+<!ENTITY threadColumn2.tooltip "Diskouez neudennadoù ar c'hemennadennoù">
+<!ENTITY fromColumn2.tooltip "Rummañ dre gaser">
+<!ENTITY recipientColumn2.tooltip "Rummañ dre zegemerer">
+<!ENTITY subjectColumn2.tooltip "Rummañ dre zanvez">
+<!ENTITY dateColumn2.tooltip "Rummañ dre zeiziad">
+<!ENTITY priorityColumn2.tooltip "Rummañ dre devet">
+<!ENTITY tagsColumn2.tooltip "Rummañ dre verkoù">
+<!ENTITY accountColumn2.tooltip "Rummañ dre gont">
+<!ENTITY statusColumn2.tooltip "Rummañ dre stad">
+<!ENTITY sizeColumn2.tooltip "Rummañ dre vent">
+<!ENTITY junkStatusColumn2.tooltip 'Rummañ dre stad "lastez"'>
+<!ENTITY unreadColumn2.tooltip "Niver a gemennadennoù nevez en neudennad">
+<!ENTITY totalColumn2.tooltip "Hollad kemennadennoù en neudennad-mañ">
+<!ENTITY readColumn2.tooltip 'Rummañ dre stad "lenn"'>
+<!ENTITY receivedColumn2.tooltip "Rummañ dre zeiziad degemer">
+<!ENTITY starredColumn2.tooltip 'Rummañ dre stad "steredennet"'>
+<!ENTITY locationColumn2.tooltip "Rummañ dre lec'hiadur">
+<!ENTITY idColumn2.tooltip "Rummañ dre urzh degemer">
+<!ENTITY attachmentColumn2.tooltip "Rummañ dre genstagadurioù">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Digeriñ ar gemennadenn e-barzh ur prenestr nevez">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "m">
 <!ENTITY contextOpenConversation.label "Digeriñ ar gemennadenn e-barzh ar gaozeadenn">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Embann evel Nevez…">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "Embann evel ur gemennadenn nevez">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Diellaouiñ">
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Respont d'ar c'haser hepken">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "O">
 <!ENTITY AddDirectlyToAddressBook.label "Ouzhpennañ d'ar c'harned chomlec'hioù…">
 <!ENTITY AddDirectlyToAddressBook.accesskey "u">
-<!ENTITY EditContact.label "Embann an darempred…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "Embann an darempred">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Gwelout an darempred">
 <!ENTITY ViewContact.accesskey "G">
 <!ENTITY SubscribeToNewsgroup.label "Koumanantiñ d'ur strollad-keleier">
