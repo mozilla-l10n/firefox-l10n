@@ -374,10 +374,10 @@
 <!ENTITY read.only.category.label "Kategori:">
 <!ENTITY read.only.organizer.label "Arrangør:">
 <!ENTITY read.only.reply.label "Svar:">
-<!ENTITY read.only.accept.label "Jeg vil deltage">
-<!ENTITY read.only.decline.label "Jeg vil ikke deltage">
-<!ENTITY read.only.tentative.label "Jeg vil måske deltage">
-<!ENTITY read.only.needs.action.label "Jeg vil bekræfte senere">
+<!ENTITY read.only.accept.label "Jeg deltager">
+<!ENTITY read.only.decline.label "Jeg deltager ikke">
+<!ENTITY read.only.tentative.label "Jeg deltager måske">
+<!ENTITY read.only.needs.action.label "Jeg bekræfter senere">
 <!ENTITY read.only.reminder.label "Påmindelse:">
 <!ENTITY read.only.attendees.label "Deltagere">
 <!ENTITY read.only.description.label "Beskrivelse">
