@@ -1,8 +1,8 @@
-amazondotcom
-aol-web-search
-bing
-eBay
 google
+heureka-cz
+mapy-cz
+seznam-cz
+slunecnice-cz
+wikipedia-cz
+bing
 twitter
-wikipedia
-yahoo
