@@ -21,6 +21,7 @@
 <!ENTITY clearPrivateData.offline "Dati non in linea dei siti web">
 <!ENTITY clearPrivateData.logins "Accessi effettuati">
 <!ENTITY optionsHeader.privacy.passwords.label "Ricorda password">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Mostra pulsanti di navigazione">
 <!ENTITY doNotTrack.title "Antitracciamento">
 <!ENTITY doNotTrack.options.doNotTrack "Richiedi ai siti web di non essere tracciato">
 <!ENTITY doNotTrack.options.doTrack "Comunica ai siti web la disponibilità a essere tracciato">
