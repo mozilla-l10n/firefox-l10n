@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktiva inloggningar">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Spara lösenord">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Visa navigeringsknappar">
 <!ENTITY doNotTrack.title                                        "Spårning">
 <!ENTITY doNotTrack.options.doNotTrack                           "Be webbplatser att inte spåra mig">
 <!ENTITY doNotTrack.options.doTrack                              "Tillåt webbplatser att spåra mig">
