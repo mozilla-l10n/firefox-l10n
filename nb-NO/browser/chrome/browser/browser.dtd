@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerker">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerker">
-<!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
+<!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
