@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sinhronizēšana">
+<!ENTITY sync.notconnected          "Nav pieslēgta">
+<!ENTITY sync.connect               "Pieslēgt">
+<!ENTITY sync.connected             "Pieslēgta">
+<!ENTITY sync.details               "Informācija">
+<!ENTITY sync.deviceName            "Šī ierīce">
+<!ENTITY sync.disconnect            "Atslēgt">
+<!ENTITY sync.syncNow               "Sinhronizēt">
+
+<!ENTITY sync.setup.title           "Pieslēgt, lai sinhronizētu">
+<!ENTITY sync.setup.pair            "Lai aktivētu, izvēlieties &#x0022;Pievienot ierīci&#x0022; jūsu otā ierīcē.">
+<!ENTITY sync.fallback              "Neesmu pie datora…">
+<!ENTITY sync.setup.manual          "Ievadiet sinhronizācijas konta informāciju">
+<!ENTITY sync.account               "Konta nosaukums">
+<!ENTITY sync.password              "Parole">
+<!ENTITY sync.recoveryKey           "Atgūšanas atslēga">
+<!ENTITY sync.customServer          "Izmantot citu serveri">
+<!ENTITY sync.serverURL             "Servera adrese">
+<!ENTITY sync.setup.connect         "Pieslēgt">
+<!ENTITY sync.setup.cancel          "Atcelt">
+<!ENTITY sync.setup.tutorial        "Parādiet kā">
+<!ENTITY sync.setup.waiting2        "Gaida otru ierīci…">
+
+<!ENTITY sync.pair.title            "Pievienot ierīci">
+<!ENTITY sync.pair.description      "Lai aktivētu jaunu ierīci, izvēlieties &#x0022;Iestatīt sinhronizāciju&#x0022; otrā ierīcē.">
+<!ENTITY sync.setup.close           "Aizvērt">
+<!ENTITY sync.setup.waitingdownload "Jūsu dati tiek lejupielādēti. Jūs varat aizvērt šo logu">
