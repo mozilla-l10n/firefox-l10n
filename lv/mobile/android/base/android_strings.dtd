@@ -62,8 +62,13 @@
 <!ENTITY num_tabs2 "&formatD; cilnes">
 <!ENTITY new_tab_opened "Atvēŗta jauna cilne">
 
-<!ENTITY settings Iestatījumi">
-<!ENTITY settings_title Iestatījumi">
+<!ENTITY settings "Iestatījumi">
+<!ENTITY pref_category_search2 "Meklēšanas iestatījumi">
+<!ENTITY pref_dynamic_toolbar "Ritināt virsraksta joslu">
+<!ENTITY pref_search_default "Noklusētais">
+<!ENTITY pref_search_remove "Aizvākt">
+<!ENTITY pref_search_set_default "Iestatīt par noklusēto">
+<!ENTITY settings_title "Iestatījumi">
 <!ENTITY pref_category_advanced "Papildus">
 <!ENTITY pref_category_customize "Pielāgot">
 <!ENTITY pref_category_search3 "Meklēt">
