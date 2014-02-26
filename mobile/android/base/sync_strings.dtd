@@ -73,6 +73,7 @@
 
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (novecojis)'>
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Grāmatzīmju izvēlne'>
