@@ -21,6 +21,7 @@
 <!ENTITY clearPrivateData.offline "Данные автономных веб-сайтов">
 <!ENTITY clearPrivateData.logins "Активные сеансы">
 <!ENTITY optionsHeader.privacy.passwords.label "Запоминать пароли">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Отображать кнопки навигации">
 <!ENTITY doNotTrack.title "Отказ от отслеживания">
 <!ENTITY doNotTrack.options.doNotTrack "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
 <!ENTITY doNotTrack.options.doTrack "Сообщать сайтам, что я хочу, чтобы меня отслеживали">
