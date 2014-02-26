@@ -62,8 +62,8 @@
 <!ENTITY num_tabs2 "&formatD; cilnes">
 <!ENTITY new_tab_opened "Atvēŗta jauna cilne">
 
-<!ENTITY settings Iestatījumi">
-<!ENTITY settings_title Iestatījumi">
+<!ENTITY settings "Iestatījumi">
+<!ENTITY settings_title "Iestatījumi">
 <!ENTITY pref_category_advanced "Papildus">
 <!ENTITY pref_category_customize "Pielāgot">
 <!ENTITY pref_category_search3 "Meklēt">
