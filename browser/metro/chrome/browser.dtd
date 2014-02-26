@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Tilbake">
 <!ENTITY forward.label         "Frem">
 <!ENTITY newtab.label          "Ny fane">
+<!ENTITY newPrivateTab.label   "Ny privat fane">
 <!ENTITY closetab.label        "Lukk fane">
 
 <!ENTITY autocompleteResultsHeader.label  "Dine resultater">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -118,10 +121,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTabs.label "SEr du etter fanene dine? Bare trekk ned eller høyreklikk">
 <!ENTITY firstRunTopSites.label "Gå til nettsidene du besøker oftest">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Se hvor du har vært på nettet">
 <!ENTITY firstRunWelcome.label "Velkommen til &brandShortName;">
 <!ENTITY firstRunDifferent.label "Annerledes fra grunnen av">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Trykk for å gå tilbake til forrige side">
+<!ENTITY firstRunNewTab.label "Legg til en ny fane for å utforske et annet nettsted">
+<!ENTITY firstRunStar.label "Bruk bokmerker for å ta vare på sider for senere">
+<!ENTITY firstRunPin.label "Lås et nettsted til Windows-startskjermen for rask tilgang">
+<!ENTITY firstRunGotIt.label "Skjønner!">
