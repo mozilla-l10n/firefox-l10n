@@ -202,18 +202,20 @@
 <!ENTITY attachButton.label "Legg ved">
 <!ENTITY spellingButton.label "Staving">
 <!ENTITY saveButton.label "Lagre">
+<!ENTITY printButton.label "Skriv ut">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Send meldingen nå"> 
-<!ENTITY sendlaterButton.tooltip "Send meldingen senere"> 
+<!ENTITY sendButton.tooltip "Send meldingen nå">
+<!ENTITY sendlaterButton.tooltip "Send meldingen senere">
 <!ENTITY quoteButton.tooltip "Siter forrige melding"> 
-<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok"> 
-<!ENTITY attachButton.tooltip "Ta med vedlegg"> 
+<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
+<!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
-<!ENTITY saveButton.tooltip "Lagre meldingen"> 
+<!ENTITY saveButton.tooltip "Lagre meldingen">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
+<!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -221,12 +223,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Til:"> 
-<!ENTITY ccAddr.label "Kopi til:"> 
-<!ENTITY bccAddr.label "Blind kopi til:"> 
-<!ENTITY replyAddr.label "Svar til:"> 
-<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:"> 
-<!ENTITY followupAddr.label "Oppfølging til:"> 
+<!ENTITY toAddr.label "Til:">
+<!ENTITY ccAddr.label "Kopi til:">
+<!ENTITY bccAddr.label "Blind kopi til:">
+<!ENTITY replyAddr.label "Svar til:">
+<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:">
+<!ENTITY followupAddr.label "Oppfølging til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
