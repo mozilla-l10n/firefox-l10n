@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Innstillinger">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
-<!ENTITY pref_category_search2 "Søkeinnstillinger">
+<!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_display "Visning">
 <!ENTITY pref_category_privacy_short "Personvern">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datavalg">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
 <!ENTITY pref_category_add_search_providers "Legg til flere søketilbydere">
+<!ENTITY pref_category_search_restore_defaults "Tilbakestill søketilbydere">
+<!ENTITY pref_search_restore_defaults "Tilbakestill standardverdier">
+<!ENTITY pref_search_restore_defaults_summary "Tilbakestill standardverdier">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Les mer">
 <!ENTITY pref_remember_signons "Husk passord">
+
+<!ENTITY pref_category_home "Hjem">
+<!ENTITY pref_category_home_panels "Paneler">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpass">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gi tilbakemelding">
-<!ENTITY pref_search_set_default "Sett som standard">
-<!ENTITY pref_search_default "Standard">
-<!ENTITY pref_search_remove "Fjern">
+
+<!ENTITY pref_dialog_set_default "Sett som standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Fjern">
+
 <!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere den siste søkemotoren.">
+
+<!ENTITY pref_panels_show "Vis">
+<!ENTITY pref_panels_hide "Skjul">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
 <!ENTITY datareporting_notification_action_long "Velg hvilken info som deles">
@@ -178,6 +189,9 @@ size. -->
 <!ENTITY datareporting_wifi_title "&vendorShortName; stedsangivelse">
 <!ENTITY datareporting_wifi_summary "Hjelp å forbedre geoplasseringstjenester for den åpne webben ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
 
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload "Automatiske oppdateringer">
 <!ENTITY pref_update_autodownload_wifi "Bare over Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Avslått">
@@ -213,6 +227,13 @@ size. -->
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Caster til enhet">
+<!ENTITY media_play "Spill av">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Stopp">
+
 <!ENTITY contextmenu_open_new_tab "Åpne i ny fane">
 <!ENTITY contextmenu_open_private_tab "Åpne i privat fane">
 <!ENTITY contextmenu_open_in_reader "Åpne i Reader">
@@ -228,10 +249,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Rediger">
 <!ENTITY contextmenu_top_sites_pin "Lås nettsted">
 <!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
+<!ENTITY contextmenu_add_search_engine "Legg til en søkemotor">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
 <!ENTITY pref_titlebar_mode_url "Vis sideadresse">
+
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rullering av tittellinje">
 
 <!ENTITY history_removed "Siden fjernet">
 
@@ -371,3 +397,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; vil nå starte på nytt">
 <!ENTITY exit_guest_session_text "Nettleserdata fra denne økten vil bli slettet.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Meny">
+<!ENTITY actionbar_done "Ferdig">

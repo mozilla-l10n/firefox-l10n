@@ -104,3 +104,21 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Sett opp &syncBrand.fullName.label; på enheten din for å sende faner til andre enheter.'>
 <!ENTITY sync.text.tab.sent.label 'Fanearket ble sendt!'>
 <!ENTITY sync.text.tab.not.sent.label 'Et problem oppstod ved sending av fane.'>
+
+<!-- Firefox account strings. -->
+
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts avkryssingsboks'>
+<!ENTITY fxaccount_icon_contentDescription2 'Firefox accounts ikon'>
+<!ENTITY fxaccount_intro_contentDescription2 'Firefox accounts introduksjonsgrafikk'>
+<!ENTITY fxaccount_mail_contentDescription2 'Firefox accounts konvolutt grafikk'>
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_email_hint 'E-post'>
+<!ENTITY fxaccount_password_hint 'Passord'>
+<!ENTITY fxaccount_password_hide 'Skjul'>
+<!ENTITY fxaccount_password_show 'Vis'>
+
