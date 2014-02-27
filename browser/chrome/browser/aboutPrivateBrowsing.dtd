@@ -19,3 +19,8 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Aunque esta computadora no tenga un registro de su historial de navegación, su proveedor de internet aún puede rastrear las páginas que visite.">
 <!ENTITY privatebrowsingpage.learnMore                 "Conocer más">
+
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "Para iniciar la navegación privada, también puede seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
