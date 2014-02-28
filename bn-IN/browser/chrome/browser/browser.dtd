@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ব্যক্তিগত ব্রাউজিং ব্যবস্থা)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড করুন">
@@ -54,8 +56,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "নতুন ট্যাব">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "অবস্থান খুলুন...">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "ফাইল খুলুন...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,9 +95,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "সকল ট্যাব প্রদর্শন">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "আড়াল করুন">
 <!ENTITY fullScreenRestore.tooltip "পূর্ববর্তী অবস্থা">
-<!ENTITY fullScreenClose.tooltip "বন্ধ করুন">
+
 <!ENTITY fullScreenAutohide.label "টুল-বার আড়াল করুন">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "সম্পূর্ণ পর্দায় প্রদর্শন থেকে প্রস্থান করুন">
@@ -115,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "বুকমার্ক">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
+<!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠাটি শেয়ার করুন (S)">
@@ -128,6 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন (S)">
 <!ENTITY shareVideoCmd.accesskey "S">
+
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
@@ -154,24 +166,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "প্রিন্ট করুন">
 <!ENTITY printButton.tooltip          "বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন">
 
-<!ENTITY backForwardItem.title        "পূর্ববর্তী/পরবর্তী">
 <!ENTITY locationItem.title           "অবস্থান">
 <!ENTITY searchItem.title             "অনুসন্ধান">
-<!ENTITY bookmarksItem.title          "বুকমার্ক">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "হোম">
 
 <!ENTITY tabGroupsButton.label        "ট্যাবের শ্রেণী">
-<!ENTITY tabGroupsButton.tooltip      "ট্যাবগুলিকে শ্রেণীভুক্ত করুন">
 
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
-<!ENTITY bookmarksMenuButton.tooltip        "নিজের বুকমার্কগুলি দেখুন">
 <!ENTITY bookmarksMenuButton.unsorted.label "অবিন্যস্ত বুকমার্ক">
-<!ENTITY viewBookmarksSidebar.label         "সাইড-বারে প্রদর্শিত হবে">
+
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -180,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "পূর্বে প্রদর্শিত পৃষ্ঠা">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "সরঞ্জাম">
@@ -296,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "বিবিধ বৈশিষ্ট্য">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -316,12 +322,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "সম্প্রতি বন্ধ করা উইন্ডো">
-<!ENTITY historyRestoreLastSession.label "পূর্ববর্তী সেশান পুনরুদ্ধার করুন">
 
-<!ENTITY showAllHistoryCmd2.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "স্বনির্ধারণ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন">
@@ -407,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY switchToMetroCmd.label       "সিঙ্ক করুন Windows 8 শৈলী সঙ্গে &brandShortName;">
-<!ENTITY switchToMetroCmd2.label      "পুনরারম্ভ করুন &brandShortName; Windows 8 টাচ জন্য">
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -533,6 +564,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "প্রস্থান"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "প্রস্থান"> 
@@ -624,7 +656,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "সুসংগতি">
 
 <!ENTITY socialToolbar.title        "Social টুল-বার বাটন">
-<!ENTITY social.notLoggedIn.label   "লগ-ইন করা হয়নি">
 
 <!ENTITY social.ok.label       "ঠিক আছে">
 <!ENTITY social.ok.accesskey   "O">
@@ -643,6 +674,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "আরও জানুন (L)...">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এই মুহূর্তে নয়">
+
+
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চ্যাটে কেন্দ্র করুন (c)">
@@ -685,6 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "ঘটনা টি দুর্ভাগ্যজনক। আমরা ওয়েব পেজ টি দেখাবার চেষ্টা করেছি কিন্তু সেটি সাড়া দিচ্ছেনা।">
 <!ENTITY tabCrashed.checkSendReport "বলুন &vendorShortName; এই বিপর্যয় সম্পর্কে ,তারা এটা ঠিক করতে পারে।">
 <!ENTITY tabCrashed.tryAgain "পুনরায় চেষ্টা করুন">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -697,7 +737,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "কর্ম চিহ্নকারী">
 <!ENTITY appMenuButton.label           "মেনু">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; মেনু খুলুন">
-<!ENTITY feedButton.label              "সাবস্ক্রাইব করুন">
+
 <!ENTITY feedButton.tooltip            "এই পৃষ্ঠায় সাবস্ক্রাইব করুন…">
 <!ENTITY bookmarksButton.tooltip       "আপনার নির্মিত বুকমার্কগুলি প্রদর্শন করুন">
 <!ENTITY historyButton.tooltip         "সম্প্রতি প্রত্যক্ষ করা পৃষ্ঠা প্রদর্শন করা হবে">
@@ -720,4 +760,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "প্রদর্শনের মাপ নিয়ন্ত্রণ">
 <!ENTITY addonBarCloseButton.tooltip   "Add-on বার বন্ধ করুন">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "পূর্ববর্তী/পরবর্তী">
+<!ENTITY viewBookmarksSidebar.label    "সাইড-বারে প্রদর্শিত হবে">
+<!ENTITY bookmarksItem.title           "বুকমার্ক">
+<!ENTITY openLocationCmd.label         "অবস্থান খুলুন...">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "নিজের বুকমার্কগুলি দেখুন">
+<!ENTITY switchToMetroCmd2.label       "পুনরারম্ভ করুন &brandShortName; Windows 8 টাচ জন্য">
+<!ENTITY tabGroupsButton.tooltip       "ট্যাবগুলিকে শ্রেণীভুক্ত করুন">
 <!-- end of strings to be removed post-Australis -->

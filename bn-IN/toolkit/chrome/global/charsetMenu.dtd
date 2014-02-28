@@ -4,6 +4,9 @@
 
 <!ENTITY charsetMenu.label             "ক্যারেক্টার এনকোডিং">
 <!ENTITY charsetMenu.accesskey         "C">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
 <!ENTITY charsetMenuAutodet.label      "স্বয়ংক্রিয়রূপে সনাক্ত">
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "স">

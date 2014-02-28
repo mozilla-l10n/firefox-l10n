@@ -33,6 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "পাসওয়ার্ড নিশ্চিত করুন">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "সিঙ্ক করুন উইন্ডোজ 8 শৈলী সঙ্গে &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -98,7 +100,7 @@
 
 <!ENTITY choice2a.merge.main.label       "এই ডিভাইসে ডাটা একত্রীকরণ করুন অামার &syncBrand.shortName.label; সাথে">
 <!ENTITY choice2.merge.recommended.label "প্রস্তাবিত পন্থা:">
-<!ENTITY choice2a.client.main.label      "এই ডিভাইসে ডেটা প্রতিস্থাপন করুন অামার syncBrand.shortName.label সাথে; data">
+
 <!ENTITY choice2a.server.main.label      "এই ডিভাইস এর তথ্য সহ অন্যান্য সকল ডিভাইস প্রতিস্থাপন করুন">
 <!-- Confirm Merge Options -->
 
