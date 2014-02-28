@@ -9,6 +9,7 @@
 <!ENTITY back.label            "পিছলৈ">
 <!ENTITY forward.label         "আগলৈ">
 <!ENTITY newtab.label          "নতুন টেব">
+<!ENTITY newPrivateTab.label   "নতুন ব্যক্তিগত টেব">
 <!ENTITY closetab.label        "টেব বন্ধ কৰক">
 
 <!ENTITY autocompleteResultsHeader.label  "আপোনাৰ ফলাফলসমূহ">
@@ -16,9 +17,9 @@
 <!ENTITY appbarErrorConsole.label      "ত্ৰুটি কনচৌল খোলক">
 <!ENTITY appbarJSShell.label           "JavaScript শ্বেল খোলক">
 <!ENTITY appbarFindInPage2.label       "পৃষ্ঠাত সন্ধান কৰক">
-
+<!ENTITY appbarRelaunchInDesktop.label "ডেস্কটপত পুনৰ লঞ্চ কৰক">
 <!ENTITY appbarMSMetaData2.label       "এই ছাইটৰ বাবে এপ প্ৰাপ্ত কৰক">
-
+<!ENTITY appbarViewPageSource.label    "পৃষ্ঠাৰ উৎস দৰ্শন কৰক">
 
 <!ENTITY topSitesHeader.label        "উচ্চ ছাইটবোৰ">
 <!ENTITY bookmarksHeader.label       "পত্ৰচিহ্নসমূহ">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,14 +120,31 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
+<!ENTITY firstRunTabs.label "আপোনাৰ টেববোৰ বিচাৰিছে? তললৈ টানক অথবা ৰাইট-ক্লিক কৰক">
+<!ENTITY firstRunTopSites.label "আপুনি সৰ্বাধিক ভ্ৰমণ কৰা ছাইটসমূহলৈ যাওক">
+<!ENTITY firstRunBookmarks.label "আপুনি পিছত ভ্ৰমণ কৰিবলৈ সংৰক্ষিত পৃষ্ঠাসমূহ সন্ধান কৰক">
+<!ENTITY firstRunMenu.label "অধিক বৈশিষ্ট্য আৰু বিকল্প অভিগম কৰক">
+<!ENTITY firstRunHistory.label "আপুনি ৱেবত ক'ত ভ্ৰমণ কৰিছিল চাওক">
+<!ENTITY firstRunWelcome.label "&brandShortName; লৈ স্বাগতম">
+<!ENTITY firstRunDifferent.label "ৰূপাঙ্কণত ভিন্ন">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
 
-
-
-
-
+<!ENTITY firstRunBack.label "পূৰ্বৱৰ্তী পৃষ্ঠালৈ উভতি যাবলৈ টেপ কৰক">
+<!ENTITY firstRunNewTab.label "এটা নতুন ছাইট ভ্ৰমণ কৰিবলৈ এটা নতুন টেব যোগ কৰক">
+<!ENTITY firstRunStar.label "পিছত ভ্ৰমণ কৰিবলৈ পৃষ্ঠাসমূহ সংৰক্ষণ কৰিবলৈ পত্ৰচিহ্নসমূহ ব্যৱহাৰ কৰক">
+<!ENTITY firstRunPin.label "দ্ৰুত অভিগমৰ বাবে এটা ছাইটক আপোনাৰ Windows আৰম্ভণি পৰ্দালৈ পিন কৰক">
+<!ENTITY firstRunGotIt.label "বুজি পালো!">
