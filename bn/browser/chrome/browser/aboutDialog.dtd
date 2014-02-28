@@ -8,10 +8,12 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই C">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "হালনাগাদ করার জন্য পুনরায় চালু করা হবে R">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "হালানাগাদ প্রয়োগ… P">
+<!ENTITY update.applyButtonBillboard.accesskey    "P">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

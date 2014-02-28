@@ -30,4 +30,4 @@
 <!ENTITY abouthome.addonsButton.label    "অ্যাড-অন">
 <!ENTITY abouthome.appsButton.label      "মার্কেটপ্লেস">
 <!ENTITY abouthome.downloadsButton.label "ডাউনলোড">
-<!ENTITY abouthome.syncButton.label      "syncBrand.shortName.label;(s)">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

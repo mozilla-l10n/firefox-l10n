@@ -21,4 +21,4 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 
-<!ENTITY privatebrowsingpage.howToStart3               "একান্ত ব্রাউজিং আরম্ভ করতে , basePBMenu.label ও নির্বাচন করতে পারেন; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStart3               "একান্ত ব্রাউজিং আরম্ভ করতে, &basePBMenu.label; &gt; &newPrivateWindow.label; নির্বাচন করতে পারেন।">

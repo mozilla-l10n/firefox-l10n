@@ -18,7 +18,7 @@
 <!ENTITY connectionError "ত্রুটি:">
 <!ENTITY errorTimeout "ত্রুটি: সংযোগের সময় শেষ।">
 <!ENTITY errorRefused "ত্রুটি: সংযোগ বাতিল করা হয়েছে।">
-<!ENTITY errorUnexpected "অপ্রত্যাশিত ত্রুটি &#037;S।">
+<!ENTITY errorUnexpected "অপ্রত্যাশিত ত্রুটি।">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
