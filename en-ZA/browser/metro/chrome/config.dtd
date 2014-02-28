@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Name">
 
 <!ENTITY cancel.label           "Cancel">
-
+<!ENTITY toggle.label           "Toggle">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
 
-
+<!ENTITY string.placeholder     "Enter a string">
+<!ENTITY number.placeholder     "Enter a number">
