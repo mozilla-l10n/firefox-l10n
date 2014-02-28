@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItem.accesskey    "y">
-<!ENTITY syncToolbarButton.label      "Cydweddu">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Botwm Bar Offer Cymdeithasol">
 

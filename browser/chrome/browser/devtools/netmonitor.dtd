@@ -13,8 +13,8 @@
 
 
 
-<!ENTITY netmonitorUI.perfNotice1         "• Clicio ar y">
-<!ENTITY netmonitorUI.perfNotice2         "botwm i gychwyn dadansoddi perfformiad.">
+<!ENTITY netmonitorUI.perfNotice1         "• Clicio ar y botwm">
+<!ENTITY netmonitorUI.perfNotice2         "i gychwyn dadansoddi perfformiad.">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 

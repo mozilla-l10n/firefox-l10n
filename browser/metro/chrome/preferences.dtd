@@ -27,10 +27,10 @@
 <!ENTITY clearPrivateData.logins                                 "Mewngofnodion gweithredol">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Cofio Cyfrineiriau">
-<!ENTITY doNotTrack.title                                        "Peidiwch Dilyn">
-<!ENTITY doNotTrack.options.doNotTrack                           "Dweud wrth wefannau: dim tracio">
-<!ENTITY doNotTrack.options.doTrack                              "Dweud wrth wefannau: croeso i chi dracio">
-<!ENTITY doNotTrack.options.default                              "Peidio dweud dim wrth wefannau am fy newidiadau tracio">
+<!ENTITY doNotTrack.title                                        "Peidio Tracio">
+<!ENTITY doNotTrack.options.doNotTrack                           "Dweud wrth wefannau: Peidio tracio">
+<!ENTITY doNotTrack.options.doTrack                              "Dweud wrth wefannau: Croeso i chi dracio">
+<!ENTITY doNotTrack.options.default                              "Peidio dweud dim wrth wefannau am fy newisiadau tracio">
 <!ENTITY doNotTrack.learnMoreLink                                "Dysgu rhagor&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "Adroddwr Chwalu">
