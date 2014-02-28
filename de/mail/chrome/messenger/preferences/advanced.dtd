@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "h">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Add-ons">
-<!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "Wenn Updates für &brandShortName; verfügbar sind:">
-<!ENTITY modeAskMe.label                "Nachfragen, was getan werden soll">
-<!ENTITY modeAskMe.accesskey            "N">
-<!ENTITY modeAutomatic.label            "Das Update automatisch herunterladen und installieren">
-<!ENTITY modeAutomatic.accesskey        "D">
-<!ENTITY modeAutoAddonWarn.label        "Warnen, falls dadurch Add-ons deaktiviert werden">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "Update-Chronik anzeigen">
-<!ENTITY showUpdates.accesskey          "U">
+<!ENTITY updateApp.label                 "&brandShortName;-Updates:">
+<!ENTITY updateAuto.label                "Updates automatisch installieren (empfohlen: erhöhte Sicherheit)">
+<!ENTITY updateAuto.accesskey            "U">
+<!ENTITY updateCheck.label               "Nach Updates suchen, aber Installation manuell durchführen">
+<!ENTITY updateCheck.accesskey           "N">
+<!ENTITY updateManual.label              "Nicht nach Updates suchen (nicht empfohlen: Sicherheitsrisiko)">
+<!ENTITY updateManual.accesskey          "d">
+<!ENTITY updateAutoAddonWarn.label       "Warnen, falls dadurch Add-ons deaktiviert werden">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Update-Chronik anzeigen">
+<!ENTITY updateHistory.accesskey         "C">
+<!ENTITY updateOthers.label              "Automatisch aktualisieren:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "A">
 
 <!ENTITY useService.label                "Einen Hintergrunddienst zum Installieren von Updates verwenden">
 <!ENTITY useService.accesskey            "H">
