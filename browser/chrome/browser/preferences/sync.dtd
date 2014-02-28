@@ -45,3 +45,20 @@
 
 <!ENTITY prefs.tosLink.label        "Terms of Service">
 <!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "Sign In">
+
+
+<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">

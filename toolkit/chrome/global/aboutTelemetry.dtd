@@ -12,9 +12,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Browser Hangs">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Simple Measurements">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Late Writes">
 
@@ -22,9 +24,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms Collected by Add-ons">
 
-<!ENTITY aboutTelemetry.toggleOn "  Click to expand section">
-
-<!ENTITY aboutTelemetry.toggleOff "  Click to collapse section">
 
 <!ENTITY aboutTelemetry.emptySection "  (No data collected)">
 
@@ -33,3 +32,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Fetch function names for hang stacks">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Show raw data from hangs">
+
