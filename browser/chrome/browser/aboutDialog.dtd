@@ -12,8 +12,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "B">
 <!ENTITY update.updateButton.label                "Reiniciar para actualizar">
 <!ENTITY update.updateButton.accesskey            "R">
-
-
+<!ENTITY update.applyButtonBillboard.label        "Aplicar actualización…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

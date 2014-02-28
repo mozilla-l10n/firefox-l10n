@@ -47,18 +47,23 @@
 <!ENTITY prefs.ppLink.label         "Política de privacidad">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "Política de privacidad">
+<!ENTITY determiningAcctStatus.label     "Determinando el estado de tu cuenta…">
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "no está verificado.">
 
-
+<!ENTITY signedInLoginFailure.beforename.label "Inicia sesión para reconectar">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "No has iniciado sesión.">
+<!ENTITY signIn.label                "Iniciar sesión">
 <!ENTITY manage.label                "Administrar">
+<!ENTITY disconnect.label            "Desconectar…">
+<!ENTITY verify.label                "Verificar correo electrónico">
+<!ENTITY forget.label                "Olvidar este correo electrónico">
 
-
-
-
+<!ENTITY welcome.description "Accede a tus pestañas, marcadores, contraseñas y más siempre que uses &brandShortName;.">
 <!ENTITY welcome.signIn.label "Iniciar sesión">
+<!ENTITY welcome.createAccount.label "Crear cuenta">
 
-
-<!ENTITY welcome.useOldSync.label "¿Estás usando una antigua versión de Sync?">
+<!ENTITY welcome.useOldSync.label "¿Estás usando un versión anterior de Sync?">
