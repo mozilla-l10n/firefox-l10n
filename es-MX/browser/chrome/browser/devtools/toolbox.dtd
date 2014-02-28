@@ -55,6 +55,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* Sólo la sesión actual, recarga la página">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -70,10 +72,14 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "Deshabilitar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Usando esta opción deshabilitará JavaScript para la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces esta configuración se deshabilitará.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
+
+<!ENTITY options.disableCache.label     "Desactivar caché *">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -127,6 +133,8 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
+<!ENTITY options.stylesheetAutocompletion.label      "Autocompletar CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Autocompletar propiedades, valores y selectores CSS en el editor de estilos a medida que escribes">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

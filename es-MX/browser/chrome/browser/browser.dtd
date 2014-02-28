@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación Privada)">
 
-
+<!ENTITY appmenu.tooltip                     "Abrir menú">
+<!ENTITY navbarOverflow.label                "Más herramientas…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
@@ -95,19 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
 <!ENTITY showAllTabsCmd.accesskey "t">
 
-
-
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "Iniciar sesión con &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; está ahora sincronizado">
+<!ENTITY syncStartPanel.subTitle "Puedes administrar &syncBrand.shortName.label; en las opciones.">
+<!ENTITY syncStartPanel.subTitleUnix "Puedes administrar &syncBrand.shortName.label; en las preferencias.">
+<!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Por favor, inicia sesión para continuar sincronizando.">
+<!ENTITY syncErrorPanel.signInButton.label "Iniciar sesión">
+<!ENTITY syncErrorPanel.signInButton.accesskey "I">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
-
+<!ENTITY fullScreenClose.tooltip "Cerrar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de herramientas">
 <!ENTITY fullScreenAutohide.accesskey "O">
 <!ENTITY fullScreenExit.label "Salir del modo pantalla completa">
@@ -139,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "C">
 <!ENTITY shareVideoCmd.label "Compartir este video">
 <!ENTITY shareVideoCmd.accesskey "C">
-
+<!ENTITY feedsMenu.label "Suscribirse">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
@@ -179,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin clasificar">
-
+<!ENTITY viewBookmarksSidebar2.label        "Ver la barra de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -188,6 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Historial">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Herramientas">
@@ -303,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "f"> 
 
+<!ENTITY clearRecentHistory.label               "Borrar el historial reciente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -322,38 +326,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 
-
+<!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herrramientas">
+<!ENTITY appMenuCustomizeExit.label "Terminar personalización">
+<!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
+<!ENTITY appMenuHistory.clearRecent.label "Borrar el historial reciente…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
+<!ENTITY appMenuHistory.viewSidebar.label "Ver barra de historial">
+<!ENTITY appMenuHelp.tooltip "Abrir el menú de ayuda">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Agregar al Menú">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Quitar de la barra de herramientas">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Quitar del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Agregar más elementos…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
@@ -564,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Salir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "Salir de &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Salir"> 
@@ -677,11 +684,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
-
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menús y barras de herramientas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y características adicionales">
+<!ENTITY customizeMode.menuAndToolbars.empty "¿Quieres más herramientas?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Selecciona entre miles de complementos">
+<!ENTITY customizeMode.restoreDefaults "Restaurar los valores predeterminados">
+<!ENTITY customizeMode.toolbars "Mostrar / Ocultar barras de herramientas">
+<!ENTITY customizeMode.titlebar "Barra de título">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar chats">
@@ -725,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Decir a &vendorShortName; acerca de este error así ellos podrán repararlo.">
 <!ENTITY tabCrashed.tryAgain "Reintentar">
 
+<!ENTITY uiTour.infoPanel.close "Cerrar">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -737,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Progreso">
 <!ENTITY appMenuButton.label           "Menú">
 <!ENTITY appMenuButton.tooltip         "Abrir menú &brandShortName;">
-
+<!ENTITY feedButton.label              "Suscribir">
 <!ENTITY feedButton.tooltip            "Suscribirse a esta página…">
 <!ENTITY bookmarksButton.tooltip       "Mostrar tus marcadores">
 <!ENTITY historyButton.tooltip         "Mostrar las páginas vistas recientemente">
