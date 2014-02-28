@@ -32,7 +32,7 @@ that require it.  -->
 <!ENTITY historySection.label         "ইতিহাস">
 <!ENTITY dataSection.label            "তথ্য">
 
-<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং ও ডাউনলোড ইতিহাস (B)">
+<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং &amp; ডাউনলোড ইতিহাস (B)">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "ফর্ম ও অনুসন্ধানের ইতিহাস (F)">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

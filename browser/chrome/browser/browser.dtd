@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(একান্ত ব্রাউজিং)">
 
-
+<!ENTITY appmenu.tooltip                     "মেনু খুলুন">
+<!ENTITY navbarOverflow.label                "আরও টুল…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড R">
@@ -95,14 +96,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "সব ট্যাব দেখানো হবে (A)">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; এ সাইন ইন করুন">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; এ পুনরায় সংযুক্ত হউন">
+<!ENTITY syncStartPanel.heading "&brandShortName; এখন সিঙ্ক হচ্ছে">
+<!ENTITY syncStartPanel.subTitle "আপনি অপশনস থেকে &syncBrand.shortName.label; পরিচালনা করতে পারবেন।">
 
-
-
-
-
-
-
-
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; এ সংযুক্ত হওয়া যাচ্ছে না">
+<!ENTITY syncErrorPanel.subTitle "সিঙ্ক পুনরায় আরম্ভ করতে দয়া করে সাইন ইন করুন।">
+<!ENTITY syncErrorPanel.signInButton.label "সাইন ইন S">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ন্যূনতম বিস্তার">
@@ -139,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন S">
 <!ENTITY shareVideoCmd.accesskey "S">
-
+<!ENTITY feedsMenu.label "সাবস্ক্রাইব">
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
@@ -179,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
 <!ENTITY bookmarksMenuButton.unsorted.label "অসংরক্ষিত বুকমার্ক">
-
+<!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -303,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
+<!ENTITY clearRecentHistory.label               "সাম্প্রতিক ইতিহাস অপসারণ…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -322,38 +325,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "সম্প্রতি বন্ধ করা উইন্ডো">
+<!ENTITY historyRestoreLastSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
 
-
+<!ENTITY showAllHistoryCmd2.label "সব ইতিহাস প্রদর্শন">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "স্বনির্ধারণ">
+<!ENTITY appMenuCustomize.tooltip "মেনু এবং টুলবার সাজান">
+<!ENTITY appMenuCustomizeExit.label "সাজানো থেকে প্রস্থান">
+<!ENTITY appMenuCustomizeExit.tooltip "সাজানো সম্পন্ন">
 
 
+<!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
+<!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
+<!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইডবার প্রদর্শন">
+<!ENTITY appMenuHelp.tooltip "সহায়তা মেনু খুলুন">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "টুলবারে যোগ করুন A">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "মেনুতে যোগ করুন M">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "টুলবারে স্থানান্তর করুন o">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "মেনুতে স্থানান্তর করুন o">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "টুলবার থেকে সরিয়ে ফেলুন R">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "মেনু থেকে সরিয়ে ফেলুন R">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "আরো আইটেম যোগ করুন… A">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ঠিকানা দিন অথবা অনুসন্ধান করুন">
@@ -438,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "উইন্ডোজ ৮ স্টাইলে brandShortName পুনরায় চালু করুন;">
+<!ENTITY switchToMetroCmd.label       "উইন্ডোজ ৮ স্টাইলে &brandShortName; পুনরায় চালু করুন">
 <!ENTITY savePageCmd.label            "পৃষ্ঠা নতুনভাবে সংরক্ষণ… (A)">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -649,7 +655,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "সিঙ্ক">
 
-<!ENTITY syncSetup.label              "syncBrand.shortName.label;নির্ধারন… (s)">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; নির্ধারন…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "এখন সিঙ্ক (S)">
 <!ENTITY syncSyncNowItem.accesskey    "S">
