@@ -9,7 +9,7 @@
 <!ENTITY back.label            "Back">
 <!ENTITY forward.label         "Forward">
 <!ENTITY newtab.label          "New Tab">
-
+<!ENTITY newPrivateTab.label   "New Private Tab">
 <!ENTITY closetab.label        "Close Tab">
 
 <!ENTITY autocompleteResultsHeader.label  "Your Results">
@@ -17,9 +17,9 @@
 <!ENTITY appbarErrorConsole.label      "Open error console">
 <!ENTITY appbarJSShell.label           "Open JavaScript shell">
 <!ENTITY appbarFindInPage2.label       "Find in page">
-
-
-
+<!ENTITY appbarRelaunchInDesktop.label "Relaunch in Desktop">
+<!ENTITY appbarMSMetaData2.label       "Get app for this site">
+<!ENTITY appbarViewPageSource.label    "View page source">
 
 <!ENTITY topSitesHeader.label        "Top Sites">
 <!ENTITY bookmarksHeader.label       "Bookmarks">
@@ -105,6 +105,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -122,11 +123,13 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Looking for your tabs? Just pull down or right-click">
+<!ENTITY firstRunTopSites.label "Go to the sites you visit most">
+<!ENTITY firstRunBookmarks.label "Find pages you've saved for later">
+<!ENTITY firstRunMenu.label "Access more features and options">
+<!ENTITY firstRunHistory.label "See where you've been on the Web">
+<!ENTITY firstRunWelcome.label "Welcome to &brandShortName;">
+<!ENTITY firstRunDifferent.label "Different by design">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -140,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "Tap to go back to the previous page">
+<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
+<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
+<!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
 <!ENTITY firstRunGotIt.label "Got it!">
