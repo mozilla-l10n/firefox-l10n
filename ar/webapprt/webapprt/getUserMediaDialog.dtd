@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "مشاركة الوسائط">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "شارِك">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "ش">
+<!ENTITY getUserMediaDialog.button.cancel.label     "ألغِ">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "ل">
 
 <!ENTITY getUserMediaDialog.video.label             "اختر كمرة">
 <!ENTITY getUserMediaDialog.video.noVideo           "لا ڤديو">

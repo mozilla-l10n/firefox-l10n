@@ -45,3 +45,21 @@
 
 <!ENTITY prefs.tosLink.label        "بنود الخدمة">
 <!ENTITY prefs.ppLink.label         "سياسة الخصوصية">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "تنويه الخصوصية">
+<!ENTITY determiningAcctStatus.label     "يحدد حالة حسابك…">
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+<!ENTITY welcome.signIn.label "ولوج">
+
+
