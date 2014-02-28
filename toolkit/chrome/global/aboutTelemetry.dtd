@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "ব্রাউজার হ্যাং">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "স্তম্ভচিত্র">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "সরল মাপ">
@@ -24,9 +25,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "অ্যাড-অনস দ্বারা সংগৃহীত স্তম্ভচিত্র">
 
-<!ENTITY aboutTelemetry.toggleOn "সেকসান প্রসারিত করারা জন্য ক্লিক করুন">
-
-<!ENTITY aboutTelemetry.toggleOff "সেকসান ভেঙ্গে দেখার জন্য ক্লিক করুন">
 
 <!ENTITY aboutTelemetry.emptySection "(No data collected)">
 
@@ -35,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Hang stacks জন্য ফাংশন নাম গ্রহণ করা হবে">
 
 <!ENTITY aboutTelemetry.hideSymbols "hangs থেকে কাঁচা ডেটা দেখান">
+
