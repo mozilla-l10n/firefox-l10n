@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "মন্তব্য প্রদান… (S)">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; সফর T">
+<!ENTITY helpShowTour.accesskey         "T">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

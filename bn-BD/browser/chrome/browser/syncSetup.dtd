@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "স্বাগতম! পূর্বে; আপনি যদি কখনও syncBrand.fullName.label ব্যবহার না করেন, আপনাকে একটি নতুন একাউন্ট খুলতে হবে।">
+<!ENTITY setup.pickSetupType.description2 "স্বাগতম! পূর্বে; আপনি যদি কখনও &syncBrand.fullName.label; ব্যবহার না করেন, আপনাকে একটি নতুন একাউন্ট খুলতে হবে।">
 <!ENTITY button.createNewAccount.label "নতুন অ্যাকাউন্ট তৈরি">
 <!ENTITY button.haveAccount.label      "আমার একটি একাউন্ট আছে">
 
@@ -33,7 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "পাসওয়ার্ড নিশ্চিত (m)">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.setupMetro.label     "Sync করুন brandShortName উইন্ডোজ এইট শৈলীর সাথে;">
+<!ENTITY setup.setupMetro.label     "Sync করুন &brandShortName; উইন্ডোজ এইট শৈলীর সাথে">
 <!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->

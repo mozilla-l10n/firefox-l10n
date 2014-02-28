@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Flyout -->
 
-<!ENTITY sync.flyout.title                     "syncBrand.shortName.label;(s)">
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
 <!ENTITY sync.flyout.presetup.description1     "আপনার ডিভাইসসমূহে বুকমার্ক,পাসওয়ার্ড এবং খোলা ট্যাবসমূহের প্রবেশাধিকার পান">
@@ -13,7 +13,7 @@
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;সেটআপ">
 <!ENTITY sync.flyout.setup.description1        "যদি আপনার একটি &syncBrand.shortName.label; একাউন্ট থাকে,তবে &quot;ডিভাইস যুগলবন্দি করুন&quot; নির্বাচন করুন আপনার অন্য ডিভাইসে এবং এই কোডটি প্রবেশ করান।">
 <!ENTITY sync.flyout.setup.description2        "যদি আপনার কোন &syncBrand.shortName.label; একাউন্ট না থাকে , তবএ আপনি আপনার brandShortName ডেস্কটপ ব্রাউজার এ একটি তৈরী করতে পারেন।">
-<!ENTITY sync.flyout.setup.manual.label_2      "আমি আমার কম্পিউটার এর সামনে নেই... a">
+<!ENTITY sync.flyout.setup.manual.label_2      "I&apos;m আমার কম্পিউটার এর সামনে নেই...">
 <!ENTITY sync.flyout.setup.description3        "নোট:">
 <!ENTITY sync.flyout.setup.description4_2      "খোঁজার জন্য &quot;ডিভাইস যুগলবন্দি করুন&quot;,">
 <!ENTITY sync.flyout.setup.description5_2      "[ডেস্কটপ] &quot;অপশন&quot; বা &quot;অগ্রাধিকার&quot; খুলুন এবং এর পর &quot;&syncBrand.shortName.label;&quot; নির্বাচন করুন">

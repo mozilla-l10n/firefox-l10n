@@ -32,7 +32,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY setDefault.label                "&brandShortName; পূর্বনির্ধারিত ব্রাউজার তৈরি করুন d">
 <!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার b">
+<!ENTITY isDefault.label                 "&brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার">
 
 <!ENTITY dataChoicesTab.label            "ডাটা পছন্দ">
 
@@ -43,7 +43,7 @@
 <!ENTITY healthReportLearnMore.label     "আরও জানুন…">
 
 <!ENTITY telemetrySection.label          "দূরমাপন">
-<!ENTITY telemetryDesc.label             "শেয়ার কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং  আপনার ব্রাউজার দিয়ে স্বনির্ধারণ সম্পর্কে তথ্য এবং বিক্রেতার সংক্ষিপ্ত নাম;আমাদের সাহায্য করতে পণ্যচিহ্ন এর নাম; উত্তম v">
+<!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
 <!ENTITY enableTelemetry.label           "টেলিমেট্রি সক্রিয় করুন T">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন…">
@@ -90,7 +90,7 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "ডেস্কটপ s হতে স্বয়ংক্রীয় হালনাগাদ এবং brandShortName উইন্ডোজ ৮ শৈলী;">
+<!ENTITY updateAutoMetro.label           "ডেস্কটপ s হতে স্বয়ংক্রীয় হালনাগাদ এবং &brandShortName; উইন্ডোজ ৮ শৈলী">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "হালনাগাদকরণ পরীক্ষা করুন, কিন্তু ইনস্টলের পূর্বে আমাকে নিশ্চিত করতে দিন C">
 <!ENTITY updateCheck.accesskey           "C">
