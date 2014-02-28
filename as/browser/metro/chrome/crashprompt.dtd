@@ -8,15 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "এটা স্খলন সংবাদ কি?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "এটা স্খলন সংবাদে স্খলন, আপোনাৰ মেচিন, লগতে আপোনাৰ ব্ৰাউছাৰৰ স্খলন হওতে তাৰ অৱস্থাৰ এটা স্নেপশ্বটৰ বিৱৰণ অন্তৰ্ভুক্ত কৰে।">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "ই খোলা পৃষ্ঠা, ফৰ্মত টাইপ কৰা লিখনী আৰু মুক্ত বাৰ্তাৰ সমল, শেহতীয়া ব্ৰাউছিং ইতিহাস, অথবা এটা ছাইটৰ সৈতে অংশীদাৰী কৰা ভূঅৱস্থান অন্তৰ্ভুক্ত কৰিব পাৰে।">
-<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
-     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
-     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
-     If the structure of the English strings doesn't work for your locale, you can
-     move "&brandShortName; privacy policy." to the first sentence, and use a
-     generic "More information" for the link. These strings will be updated in the
-     next version of Firefox. -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "আমি স্খলন সংবাদসমূহক সমস্যাবোৰ ঠিক কৰিবলৈ আৰু আমাৰ উৎপাদনসমূহ উন্নত কৰিবলৈ ব্যৱহাৰ কৰো। আমি আপোনাৰ তথ্যক চিহ্নিত বস্তুত বিৱৰণ দিয়া ধৰণে ব্যৱস্থাপনা কৰো ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "আমি স্খলন সংবাদসমূহক সমস্যাবোৰ ঠিক কৰিবলৈ আৰু আমাৰ উৎপাদনসমূহ উন্নত কৰিবলৈ ব্যৱহাৰ কৰো। আমি আপোনাৰ তথ্যক চিহ্নিত বস্তুত বিৱৰণ দিয়া ধৰণে ব্যৱস্থাপনা কৰো ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; গোপনীয়তা নীতি">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "মই থকা পৃষ্ঠাৰ ঠিকনা অন্তৰ্ভুক্ত কৰক">
 <!ENTITY crashprompt.acceptbutton    "সংবাদসমূহ পঠাওক">
 <!ENTITY crashprompt.refusebutton    "নপঠাব">
