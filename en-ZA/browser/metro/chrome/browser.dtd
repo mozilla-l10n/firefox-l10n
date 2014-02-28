@@ -9,14 +9,17 @@
 <!ENTITY back.label            "Back">
 <!ENTITY forward.label         "Forward">
 <!ENTITY newtab.label          "New Tab">
+
 <!ENTITY closetab.label        "Close Tab">
 
 <!ENTITY autocompleteResultsHeader.label  "Your Results">
 
-<!ENTITY appbarErrorConsole.label   "Open error console">
-<!ENTITY appbarJSShell.label        "Open JavaScript shell">
-<!ENTITY appbarFindInPage2.label    "Find in page">
-<!ENTITY appbarViewOnDesktop2.label "View on desktop">
+<!ENTITY appbarErrorConsole.label      "Open error console">
+<!ENTITY appbarJSShell.label           "Open JavaScript shell">
+<!ENTITY appbarFindInPage2.label       "Find in page">
+
+
+
 
 <!ENTITY topSitesHeader.label        "Top Sites">
 <!ENTITY bookmarksHeader.label       "Bookmarks">
@@ -101,9 +104,42 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "Got it!">
