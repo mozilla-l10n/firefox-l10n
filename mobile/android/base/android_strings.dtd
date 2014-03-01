@@ -85,6 +85,7 @@
 <!ENTITY pref_developer_remotedebugging_docs "Көбірек білу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
 
+<!ENTITY pref_category_home "Үй">
 <!ENTITY pref_category_home_panels "Панельдер">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
