@@ -8,8 +8,10 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
+<!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు (C)">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "తాజాకరించడానికి పునఃప్రారంభించు (R)">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "నవీకరణను వర్తింపచేయి (A)…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -20,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "&brandShortName;‌ను మరింతగా మెరుగుపరచడానికి ఉపయోగపడే పనితనం, హార్డువేర్, వాడుక మరియు అనురూపనల గురించిన సమాచారాన్ని &vendorShortName;కు స్వయంచాలకంగా పంపిస్తుంది.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "&brandShortName;‌ను మరింతగా మెరుగుపరచడానికి ఉపయోగపడే పనితనం, హార్డువేర్, వాడుక మరియు అనురూపనల గురించిన సమాచారాన్ని &vendorShortName;కు స్వయంచాలకంగా పంపిస్తుంది.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " అనేది ">
@@ -39,7 +41,7 @@
 <!ENTITY contribute.start           "ఆసక్తిగా ఉందా? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "పాలుపంచుకోండి!">
-<!ENTITY contribute.end             "">
+<!ENTITY contribute.end             "పాలుపంచుకోండి!">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారం">
@@ -83,7 +85,7 @@
 
 <!ENTITY update.unsupported.start    "ఈ వ్యవస్థపై మీరు ఇంకేమీ తాజాకరణలు చెయ్యలేరు. ">
 <!ENTITY update.unsupported.linkText "మరింత నేర్చుకోండి">
-<!ENTITY update.unsupported.end      "">
+<!ENTITY update.unsupported.end      "మరింత తెలుసుకోండి">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is

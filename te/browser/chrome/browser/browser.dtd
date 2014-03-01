@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(అంతరంగిక విహారణ)">
 
 <!ENTITY appmenu.tooltip                     "మెనుని తెరువు">
-
+<!ENTITY navbarOverflow.label                "మరిన్ని పనిముట్లు…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "టాబ్ తిరిగి లోడ్‌చేయి">
