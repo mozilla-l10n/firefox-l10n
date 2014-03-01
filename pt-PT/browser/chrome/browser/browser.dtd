@@ -106,6 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncErrorPanel.signInButton.label "Iniciar sessão">
 <!ENTITY syncErrorPanel.signInButton.accesskey "s">
 
+
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Fechar">
@@ -613,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey					"n">
 <!ENTITY findAgainCmd.commandkey				"g">
 <!ENTITY findAgainCmd.commandkey2				"VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label				"Adicionar dicionários...">
 <!ENTITY spellAddDictionaries.accesskey			"A">
@@ -668,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.addons.label "Gerir serviços">
+<!ENTITY social.addons.label "Gerir serviços...">
 
 <!ENTITY social.toggleNotifications.label "Mostrar notificações no ambiente de trabalho">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -679,6 +681,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Saber mais">
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
+
+
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.label "Menu e barra de ferramentas">
