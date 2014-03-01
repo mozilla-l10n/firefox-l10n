@@ -46,17 +46,18 @@
 <!ENTITY prefs.tosLink.label        "సేవా నిభందనలు">
 <!ENTITY prefs.ppLink.label         "గోప్యతా విదానం">
 <!-- Firefox Accounts stuff -->
-
+<!ENTITY determiningAcctStatus.label     "మీ ఖాతా స్థితిని నిర్ధారిస్తున్నాం…">
 <!ENTITY signedInUnverified.beforename.label "">
 
 
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "మీరు ప్రవేశించి లేరు.">
+<!ENTITY signIn.label                "ప్రవేశించండి">
+<!ENTITY manage.label                "నిర్వహించండి">
 
 
-
-
-
+<!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 
 <!ENTITY welcome.signIn.label "లోపలకు వెళ్ళు">
 
