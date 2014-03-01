@@ -76,10 +76,12 @@
 <!ENTITY pref_category_search_restore_defaults "Obnoviť vyhľadávacie moduly">
 <!ENTITY pref_search_restore_defaults "Obnoviť predvolené">
 <!ENTITY pref_search_restore_defaults_summary "Obnoviť predvolené">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
