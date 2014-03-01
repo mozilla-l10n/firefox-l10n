@@ -146,36 +146,43 @@
 <!ENTITY fxaccount_create_account_button "Sonraki">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Nelerin eşitleneceğini seçin">
 <!ENTITY fxaccount_create_account_sign_in_instead "Zaten hesabınız var mı? Oturum açın">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 veya daha öncesi">
+<!ENTITY fxaccount_create_account_unknown_error "Hesap oluşturulamadı">
 
-
-
-
+<!ENTITY fxaccount_account_create_not_allowed "Hesap oluşturulamıyor">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Hesap açabilmeniz için belirlenen yaşta olmalısınız.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Daha fazla bilgi">
 
+<!ENTITY fxaccount_confirm_account_header "Hesabınızı doğrulayın">
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "formatS adresine doğrulama bağlantısı gönderildi">
+
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Doğrulama e-postası gönderilemedi">
+
+<!ENTITY fxaccount_sign_in_sub_header "Oturum aç">
+<!ENTITY fxaccount_sign_in_button_label "Oturum aç">
+<!ENTITY fxaccount_sign_in_forgot_password "Parolanızı mı unuttunuz?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Hesap oluştur">
+<!ENTITY fxaccount_sign_in_unknown_error "Oturum açılamadı">
+
+<!ENTITY fxaccount_account_verified_sub_header "Hesap onaylandı">
 
 
+<!ENTITY fxaccount_update_credentials_header "Oturum aç">
+<!ENTITY fxaccount_update_credentials_button_label "Oturum aç">
+<!ENTITY fxaccount_update_credentials_unknown_error "Oturum açılamadı">
+
+<!ENTITY fxaccount_status_header "Firefox hesabı">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: etkinleştirildi">
+<!ENTITY fxaccount_status_needs_verification2 "Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_bookmarks "Yer imleri">
+<!ENTITY fxaccount_status_history "Geçmiş">
+<!ENTITY fxaccount_status_passwords "Parolalar">
+<!ENTITY fxaccount_status_tabs "Açık sekmeler">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
@@ -199,3 +206,4 @@
 
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum için dokunun">
