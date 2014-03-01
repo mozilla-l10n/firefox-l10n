@@ -83,6 +83,8 @@
 <!ENTITY projects.valid "Platné">
 <!ENTITY projects.error "Chyba">
 <!ENTITY projects.warning "Upozornenie">
+<!ENTITY projects.hosted "Hostovaná">
+<!ENTITY projects.packaged "Zbalená">
 
 <!ENTITY help.title "Správca aplikácií">
 <!ENTITY help.close "Zavrieť">
