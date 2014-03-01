@@ -161,7 +161,7 @@
 
 <!ENTITY fxaccount_status_bookmarks "Marcapaginas">
 <!ENTITY fxaccount_status_history "Istoric">
-
+<!ENTITY fxaccount_status_passwords "Senhals">
 
 
 <!-- Localization note: this is the name shown by the Android system
@@ -172,6 +172,8 @@
      status activity, which lets them manage their Firefox
      account. -->
 
+<!ENTITY fxaccount_options_title "Opcions de &syncBrand.fullName.label;">
+<!ENTITY fxaccount_options_configure_title "Configurar &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
