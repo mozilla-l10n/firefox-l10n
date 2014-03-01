@@ -82,7 +82,7 @@
 
 <!ENTITY projects.valid "Geçerli">
 <!ENTITY projects.error "Hata">
-
+<!ENTITY projects.warning "Uyarı">
 
 <!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
@@ -91,5 +91,5 @@
 
 
 <!ENTITY help.troubleShooting "Sorun Giderme">
-
+<!ENTITY help.simulatorAddon "Simülatör eklentisini kur">
 
