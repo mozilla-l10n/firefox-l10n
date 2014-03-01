@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Yeb yi">
 
-<!ENTITY showWhenDownloading.label     "Wone palanteeru yeb yi bu ñu dee yeb ab dencukaay">
-<!ENTITY showWhenDownloading.accesskey "o">
-<!ENTITY closeWhenDone.label "Tëjal palanteer bi bu yeb yépp sottee">
-<!ENTITY closeWhenDone.accesskey "l">
 <!ENTITY saveTo.label "Aar dencukaay yi ci biir wayndare bi">
 <!ENTITY saveTo.accesskey "n">
 <!ENTITY chooseFolderWin.label        "Seet…">

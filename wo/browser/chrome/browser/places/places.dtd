@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Tur">
 <!ENTITY col.tags.label          "Etiket yi">
 <!ENTITY col.url.label           "Màkkaan">
-<!ENTITY col.lastvisit.label     "Besu gane">
+
 <!ENTITY col.visitcount.label    "Waññu gane yi">
 <!ENTITY col.keyword.label       "Caabi baat">
 <!ENTITY col.description.label   "Nettali bi">

@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Njoowum biir)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Yeesal koñ bi">
@@ -45,10 +47,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "a">
 <!ENTITY  undoCloseTab.label                 "Neenal tëjum koñ bi">
 <!ENTITY  undoCloseTab.accesskey             "N">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Tëj koñ bi">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -57,8 +55,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Koñ bu bees">
 <!ENTITY tabCmd.accesskey "K">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Ubbi benn màkkaan…">
-<!ENTITY openLocationCmd.accesskey "a">
 <!ENTITY openFileCmd.label "Ubbi benn dencukaay…">
 <!ENTITY openFileCmd.accesskey "U">
 <!ENTITY openFileCmd.commandkey "o">
@@ -98,9 +94,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wone koñ yépp">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "Wàññi">
 <!ENTITY fullScreenRestore.tooltip "Delloo na woon">
-<!ENTITY fullScreenClose.tooltip "Tëj">
+
 <!ENTITY fullScreenAutohide.label "Nëbb banqaasi jumtukaay yi">
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Génn anamu yambalaŋ">
@@ -117,7 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Mandarga xët yi">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Mandargaal xët wi">
+<!ENTITY editThisBookmarkCmd.label "Soppali mandarga xët wile">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+
 
 
 
@@ -156,22 +164,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Móol">
 <!ENTITY printButton.tooltip          "Móol xët bii">
 
-<!ENTITY backForwardItem.title        "Xët bi jiitu/bi ci topp">
 <!ENTITY locationItem.title           "Màkkaan">
 <!ENTITY searchItem.title             "Wut">
-<!ENTITY bookmarksItem.title          "Mandarga xët yi">
 <!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Juugi koñ">
-<!ENTITY tabGroupsButton.tooltip      "Defaral say koñ ay juug">
 
 <!ENTITY bookmarksButton.label          "Mandarga xët yi">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
-<!ENTITY bookmarksMenuButton.tooltip        "Wone say mandarga xët">
 <!ENTITY bookmarksMenuButton.unsorted.label "Mandarga xët yu ñu ràññatlaatewul">
-<!ENTITY viewBookmarksSidebar.label         "Wone pano mandarga xët yi">
+
 <!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -180,7 +184,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Jaar jaar">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Jumtukaay yi">
@@ -234,17 +237,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "A">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Dindikatu bog bu joowkat bi">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
 <!ENTITY devToolbarMenu.label              "Banqaasu tallal">
 <!ENTITY devToolbarMenu.accesskey          "q">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-
 
 
 
@@ -309,12 +312,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Koñ yi tëju leegi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">
-<!ENTITY historyRestoreLastSession.label "Delloosi sesiyoŋ bi jiitu">
 
-<!ENTITY showAllHistoryCmd2.label "Wone jaar jaar bi">
+
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuCustomize.label "Solal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 
@@ -397,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
 <!ENTITY emailPageCmd.label           "Buumu imeel…">
 <!ENTITY emailPageCmd.accesskey       "B">
+
 <!ENTITY savePageCmd.label            "Aar ci…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -521,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Génn"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "G">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Génn"> 
@@ -589,6 +620,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Yeneen xibaar…">
 
 <!ENTITY identity.permissions "Ndigal yi">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -606,7 +640,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Jàppante">
 
 <!ENTITY socialToolbar.title        "Butoŋu banqaasu jumtukaay mbooloo">
-<!ENTITY social.notLoggedIn.label   "Jokkoowul">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -624,10 +657,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+<!ENTITY customizeMode.restoreDefaults "Restore Natural Order">
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 
 
-<!-- labels are set dynamically, see browser.properties -->
+
+
+
 
 
 
@@ -644,6 +687,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "30em">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Jéemaatal">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -656,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Wanekatu yëngu yëngu">
 <!ENTITY appMenuButton.label           "Njël">
 <!ENTITY appMenuButton.tooltip         "Ubbi njëlu &brandShortName;">
-<!ENTITY feedButton.label              "Takkoo">
+
 <!ENTITY feedButton.tooltip            "Takkoo ak xët wile…">
 <!ENTITY bookmarksButton.tooltip       "Wone say mandarga xët">
 <!ENTITY historyButton.tooltip         "Wone xët yi ñu seet bu yaggul">
@@ -679,4 +734,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Tollu tollu yambalaŋ">
 <!ENTITY addonBarCloseButton.tooltip   "Tëj banqaasu modil yi">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Xët bi jiitu/bi ci topp">
+<!ENTITY viewBookmarksSidebar.label    "Wone pano mandarga xët yi">
+<!ENTITY bookmarksItem.title           "Mandarga xët yi">
+<!ENTITY openLocationCmd.label         "Ubbi benn màkkaan…">
+<!ENTITY openLocationCmd.accesskey     "a">
+<!ENTITY bookmarksMenuButton.tooltip   "Wone say mandarga xët">
+
+<!ENTITY tabGroupsButton.tooltip       "Defaral say koñ ay juug">
 <!-- end of strings to be removed post-Australis -->

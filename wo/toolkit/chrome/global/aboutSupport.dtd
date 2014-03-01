@@ -9,6 +9,12 @@
 boo bëggee saafara benn jafe jafe. Soo bëggee ay tontu ci laaj yi gëna bari 
 ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Yokk yi">
 <!ENTITY aboutSupport.extensionName "Tur">
 <!ENTITY aboutSupport.extensionEnabled "Suqaliku">
@@ -31,7 +37,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins yi ñu suqali">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Raapoori Crash">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
 
 <!ENTITY aboutSupport.showDir.label "Ubbi wayndare bi mu andal">

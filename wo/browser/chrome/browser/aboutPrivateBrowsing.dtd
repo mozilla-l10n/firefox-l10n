@@ -9,8 +9,10 @@
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Doonte ordinatëër bi du denc sa jaar jaaru joow, sa joxekatu yoon internet walla sa njiit mën nañu xam xët yi nga gane.">
 <!ENTITY privatebrowsingpage.learnMore                 "Gën cee jàngaat">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
