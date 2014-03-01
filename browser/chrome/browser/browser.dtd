@@ -682,7 +682,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle                  "&brandShortName;i kohandamine">
 <!ENTITY customizeMode.menuAndToolbars.label     "Menüü ja tööriistaribad">
-<!ENTITY customizeMode.menuAndToolbars.header2   "Täiendavad tööriistad ja võimaldused">
+<!ENTITY customizeMode.menuAndToolbars.header2   "Täiendavad tööriistad ja võimalused">
 <!ENTITY customizeMode.menuAndToolbars.empty     "Soovid rohkem tööriistu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
 <!ENTITY customizeMode.restoreDefaults           "Taasta vaikeväärtused">
