@@ -47,7 +47,7 @@
 <!ENTITY history_older_section "أقدم من 7 أيام">
 
 <!ENTITY go "اذهب">
-<!ENTITY search "بحث">
+<!ENTITY search "ابحث">
 <!ENTITY reload "أعد التحميل">
 <!ENTITY forward "أمام">
 <!ENTITY menu "القائمة">
@@ -66,13 +66,16 @@
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
-<!ENTITY pref_category_search2 "إعدادات البحث">
+<!ENTITY pref_category_search3 "ابحث">
 <!ENTITY pref_category_display "العرض">
 <!ENTITY pref_category_privacy_short "الخصوصية">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
 <!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
+<!ENTITY pref_category_search_restore_defaults "استعد محركات البحث">
+<!ENTITY pref_search_restore_defaults "استعد الإعدادات المبدئية">
+<!ENTITY pref_search_restore_defaults_summary "استعد الإعدادات المبدئية">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,8 @@
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_developer_remotedebugging_docs "اطّلع على المزيد">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
@@ -148,10 +153,15 @@ size. -->
 <!ENTITY pref_about_firefox "عن &brandShortName;">
 <!ENTITY pref_vendor_faqs "الأسئلة الأكثر شيوعًا">
 <!ENTITY pref_vendor_feedback "أخبرنا بتعليقاتك">
-<!ENTITY pref_search_set_default "اجعله المبدئي">
-<!ENTITY pref_search_default "المبدئي">
-<!ENTITY pref_search_remove "أزِل">
+
+<!ENTITY pref_dialog_set_default "اجعله المبدئي">
+<!ENTITY pref_dialog_default "المبدئي">
+
+
 <!ENTITY pref_search_last_toast "لا تستطيع إزالة أو تعطيل آخر محرك بحث.">
+
+<!ENTITY pref_panels_show "أظهِر">
+
 
 <!ENTITY datareporting_notification_title "بيانات و إحصائيات &brandShortName;">
 <!ENTITY datareporting_notification_action_long "اختر أي المعلومات تشارِك">
@@ -215,6 +225,11 @@ size. -->
 <!ENTITY find_prev "السابق">
 <!ENTITY find_next "التالي">
 <!ENTITY find_close "أغلق">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "شغّل">
+<!ENTITY media_pause "ألبِث">
+
 
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
@@ -236,8 +251,8 @@ size. -->
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
 <!ENTITY pref_titlebar_mode_url "أظهر مسار الصفحة">
-
-<!ENTITY pref_dynamic_toolbar "أخفِ شريط العنوان أثناء التمرير">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY history_removed "أزِيلت الصفحة">
 
