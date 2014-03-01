@@ -15,8 +15,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privada)">
 
-<!ENTITY navbarOverflow.label                "Mais ferramentas…">
-
 <!-- Tab context menu -->
 <!ENTITY reloadTab.label "Recarregar separador">
 <!ENTITY reloadTab.accesskey "R">
@@ -56,6 +54,8 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "p">
 <!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Abrir localização…">
+<!ENTITY openLocationCmd.accesskey "l">
 <!ENTITY openFileCmd.label "Abrir ficheiro...">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
@@ -154,8 +154,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
+<!ENTITY backForwardItem.title        "Retroceder/Avançar">
 <!ENTITY locationItem.title           "Localização">
 <!ENTITY searchItem.title             "Procurar">
+<!ENTITY bookmarksItem.title          "Marcadoress">
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Página inicial">
@@ -325,11 +327,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey "a">
 <!ENTITY urlbar.switchToTab.label "Mudar para o separador:">
 
-<!-- LOCALIZATION NOTE (toggleMenuPanelMac.key) ideally this should be the same as
-     toggleMenuPanel. However, the modifier is different on mac (cmd+shift rather than ctrl)
-     and so you may need to pick a different key to avoid conflicts with other shortcuts. -->
-
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -409,6 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label "Enviar ligação...">
 <!ENTITY emailPageCmd.accesskey "l">
 <!ENTITY switchToMetroCmd.label       "Relançar o &brandShortName; no estilo do Windows 8">
+<!ENTITY switchToMetroCmd2.label       "Relançar o &brandShortName; para o Windows 8 touch">
 <!ENTITY savePageCmd.label "Guardar página como...">
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->
@@ -624,6 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label "Sincronizar">
 
 <!ENTITY socialToolbar.title "Botão da barra de ferramentas social">
+<!ENTITY social.notLoggedIn.label   "Sem sessão iniciada">
 
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
@@ -642,8 +641,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "Saber mais">
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
-
-
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">
@@ -721,13 +718,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label "Controlos de ampliação">
 <!ENTITY addonBarCloseButton.tooltip "Fechar barra de extras">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY backForwardItem.title         "Avançar/Retroceder">
-<!ENTITY viewBookmarksSidebar.label    "Mostrar na barra lateral">
-<!ENTITY bookmarksItem.title           "Marcadores">
-<!ENTITY openLocationCmd.label         "Abrir local…">
-<!ENTITY openLocationCmd.accesskey     "l">
-<!ENTITY bookmarksMenuButton.tooltip   "Mostra os seus marcadores">
-<!ENTITY switchToMetroCmd2.label       "Relançar o &brandShortName; para o Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Agrupar os seus separadores">
 <!-- end of strings to be removed post-Australis -->
 
