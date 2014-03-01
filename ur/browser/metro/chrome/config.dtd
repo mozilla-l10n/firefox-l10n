@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "نام">
 
 <!ENTITY cancel.label           "منسوخ کریں">
-
+<!ENTITY toggle.label           "بدلیں">
 
 <!ENTITY integer.label          "سالم عدد">
 <!ENTITY string.label           "سٹرنگ">
 <!ENTITY boolean.label          "بولیائی">
 
-
+<!ENTITY string.placeholder     "سٹرنگ داخل کریں">
+<!ENTITY number.placeholder     "نمبر داخل کریں">

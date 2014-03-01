@@ -21,10 +21,10 @@
 
 
 
-
-
-
-
+<!ENTITY networkPanel.responseBodyUnknownType     "نامعلوم قسم کا مواد">
+<!ENTITY networkPanel.responseNoBody              "کوئی جوابی جسد نہیں">
+<!ENTITY networkPanel.responseImage               "نقش موصولہ">
+<!ENTITY networkPanel.responseImageCached         "کیسہ بند نقش">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -39,15 +39,16 @@
   -  filters. -->
 
 <!ENTITY btnPageNet.label   "نیٹ">
-
+<!ENTITY btnPageNet.tooltip "نیٹ ورک رسائی لاگ کریں">
 <!ENTITY btnPageNet.accesskey "ن">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageNet.accesskeyMacOSX "ت">
 
-
+<!ENTITY btnPageCSS.tooltip "CSS کے نحوی جانچ کاری نقائص لاگ کریں">
 
 
 
@@ -66,8 +67,9 @@
 <!ENTITY btnConsoleWarnings     "تنبیہات">
 
 
+<!ENTITY filterOutput.placeholder "آؤٹ پٹ فلٹر کریں">
 
-
+<!ENTITY btnClear.tooltip      "ویب کنسول کی آؤٹ پٹ صاف کریں">
 
 
 <!-- + is above this key on many keyboards -->
@@ -75,6 +77,7 @@
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "۰">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "ربط محل وقوع نقل کریں">

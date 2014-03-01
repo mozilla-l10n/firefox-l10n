@@ -9,7 +9,7 @@
 <!ENTITY back.label            "پیچھے">
 <!ENTITY forward.label         "آگے">
 <!ENTITY newtab.label          "نیا صفحہ بند">
-
+<!ENTITY newPrivateTab.label   "نیا نجی ٹیب">
 <!ENTITY closetab.label        "صفحہ بند, بند کر دیں">
 
 <!ENTITY autocompleteResultsHeader.label  "آپ کے نتائج">
@@ -105,6 +105,7 @@
 <!ENTITY newTab2.key "ن">
 <!ENTITY closeTab.key "و">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "ن">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "ج">
@@ -142,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "پچھلے صفحہ پر جانے کے لیے ٹیپ کریں">
+<!ENTITY firstRunNewTab.label "نئی سائٹ دریافت کرنے کے لیے نیا ٹیب کھولیں">
+<!ENTITY firstRunStar.label "بعد کے لیے صفحات محفوظ کرنے کے لیے نشانیاں استعمال کریں">
+<!ENTITY firstRunPin.label "سریع رسائی کے لیے کوئی بھی سائٹ اپنی Window شروع سکرین پر لگائیں">
 <!ENTITY firstRunGotIt.label "مل گیا!">

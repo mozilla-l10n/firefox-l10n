@@ -96,14 +96,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "تمام ٹیب دکھائیں">
 <!ENTITY showAllTabsCmd.accesskey "ت">
 
-
-
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; سائن ان کریں">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; سے پھر جڑیں">
+<!ENTITY syncStartPanel.heading "&brandShortName; اب ہموار بنا رہا ہے">
+<!ENTITY syncStartPanel.subTitle "آپ اختیارات میں &syncBrand.shortName.label; کا بندوبست کر سکتے ہیں۔">
+<!ENTITY syncStartPanel.subTitleUnix "آپ ترجیحات میں &syncBrand.shortName.label; بندوبست کر سکتے ہیں۔">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; سے رابطہ قائم نہیں کر سکتے ہیں">
+<!ENTITY syncErrorPanel.subTitle "ہموار بنانا پھر شروع کرنے کے لیے سائن ان کریں۔">
+<!ENTITY syncErrorPanel.signInButton.label "ؑؑسائن ان کریں">
+<!ENTITY syncErrorPanel.signInButton.accesskey "س">
 
 
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
@@ -332,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "تخصیص کریں">
 <!ENTITY appMenuCustomize.tooltip "مینیو اور ٹول باریں تخصیص کریں">
-
+<!ENTITY appMenuCustomizeExit.label "تخصیص کریں سے خروج کریں">
 <!ENTITY appMenuCustomizeExit.tooltip "تخصیص کرنا تکمیل کریں">
 <!ENTITY appMenuHistory.label "سابقات">
 <!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
@@ -341,23 +342,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
+<!ENTITY customizeMenu.addToToolbar.accesskey "ڈ">
+<!ENTITY customizeMenu.addToPanel.label "مینیو میں ڈالیں">
+<!ENTITY customizeMenu.addToPanel.accesskey "م">
+<!ENTITY customizeMenu.moveToToolbar.label "ٹول بار میں لائیں">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "ل">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "مینیو میں لائیں">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ل">
+<!ENTITY customizeMenu.removeFromToolbar.label "ٹول بار سے ہٹائیں">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "ہ">
+<!ENTITY customizeMenu.removeFromMenu.label "مینیو سے ہٹائیں">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "ہ">
+<!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "ڈ">
 
 <!ENTITY openCmd.commandkey           "ک">
 <!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
@@ -679,11 +682,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "س">
 <!ENTITY social.closeNotificationItem.label "ابھی نہیں">
 
+
+
+<!ENTITY customizeMode.tabTitle "brandShortName تخصیص کریں؛">
 <!ENTITY customizeMode.menuAndToolbars.label "مینیو اور ٹول باریں">
 <!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں اضافہ سے انتخاب کریں">
-
+<!ENTITY customizeMode.restoreDefaults "طےشدہ بحال کریں">
 <!ENTITY customizeMode.toolbars "دکھائیں / چھپائیں ٹول باریں">
 <!ENTITY customizeMode.titlebar "عنوان بار">
 

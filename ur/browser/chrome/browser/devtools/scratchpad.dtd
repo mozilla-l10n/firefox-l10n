@@ -27,11 +27,11 @@
 
 <!ENTITY newWindowCmd.label           "نیا دریچہ">
 <!ENTITY newWindowCmd.accesskey       "ن">
-
+<!ENTITY newWindowCmd.commandkey      "ن">
 
 <!ENTITY openFileCmd.label            "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey        "م">
-
+<!ENTITY openFileCmd.commandkey       "ہ">
 
 
 
@@ -39,13 +39,13 @@
 
 <!ENTITY saveFileCmd.label            "محفوظ کریں">
 <!ENTITY saveFileCmd.accesskey        "م">
-
+<!ENTITY saveFileCmd.commandkey       "س">
 
 <!ENTITY saveFileAsCmd.label          "محفوظ کریں بطور…">
 <!ENTITY saveFileAsCmd.accesskey      "ب">
 
 <!ENTITY closeCmd.label               "بند کریں">
-
+<!ENTITY closeCmd.key                 "و">
 <!ENTITY closeCmd.accesskey           "ب">
 
 <!ENTITY editMenu.label               "تدوین">
@@ -58,10 +58,11 @@
 <!ENTITY inspect.accesskey            "ت">
 
 
+<!ENTITY display.label                "نمایش">
+<!ENTITY display.accesskey            "ی">
+<!ENTITY display.key                  "ِی">
 
-
-
-
+<!ENTITY pprint.key                   "پ">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -86,8 +87,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
+<!ENTITY helpMenu.label               "مدد">
+<!ENTITY helpMenu.accesskey           "م">
+<!ENTITY helpMenuWin.label            "مدد">
+<!ENTITY helpMenuWin.accesskey        "م">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer

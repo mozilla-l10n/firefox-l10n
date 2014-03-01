@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  براؤزر جاتا ہے">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  ڈوری پھنس جاتی ہے">
 
 <!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
 
+<!ENTITY aboutTelemetry.toggle "  صیغہ غائب کرنے یا دکھانے کے لیے کلک کریں">
 
 <!ENTITY aboutTelemetry.emptySection "  (کوئی کوائف جمع نہیں ہوئے)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  رکاوٹوں کے خام کوائف دکھائیں">
 
+<!ENTITY aboutTelemetry.filterText "  فلٹر (سٹرنگز یا /regexp/)">

@@ -14,7 +14,7 @@
 <!ENTITY device.startApp "شروع کریں">
 <!ENTITY device.startAppTooltip "اپنے آلہ پر ایپ شروع کریں">
 <!ENTITY device.stopApp "روکیں">
-
+<!ENTITY device.stopAppTooltip "اپنے آلہ پر اس ایپ کو روکیں">
 <!ENTITY device.debugApp "ٹھیک کریں">
 <!ENTITY device.debugAppTooltip "ڈیوائس پر اس ایپ سے جڑے ڈیولپر آلات کھولیں">
 <!ENTITY device.name "نام">
@@ -24,18 +24,19 @@
 <!ENTITY device.allow "ہونے دیں">
 <!ENTITY device.allowTooltip "یہ اجازت اس قسم کی ایپ  کے لئے منظور ہے           ">
 <!ENTITY device.prompt "لقمیا">
-
+<!ENTITY device.promptTooltip "اس قسم کی ایپلی کیشنز کی اجازت کے لیے ایک صارف لقمیا کی ظرورت ہے">
 <!ENTITY device.deny "انکار کریں">
 <!ENTITY device.denyTooltip "یہ اجازت اس قسم کی ایپس کے لیےنا منظور کر دی گیی ہے.         ">
 <!ENTITY device.installedApps "تنصیب شدہ ایپ">
 <!ENTITY device.installedAppsTooltip "اس آلہ پر تنصیب شدہ ایپس کی فہرست دیکھیں. کچھ ایپس، جیسے تصدیق شدہ ایپس، اس نظارہ سے شاید خارج کر دی گیں. ">
 <!ENTITY device.permissions "اجازتیں">
-
+<!ENTITY device.permissionsTooltip "مختلف اقسام کی ایپ کون سی اجازتیں رسائی کر سکتی ہیں اس کا تيبل دیکھیں">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "مدد">
 
+<!ENTITY connection.connectTooltip "آلہ سے رابطہ قائم کریں">
 <!ENTITY connection.disconnect "منقطع کریں">
-
+<!ENTITY connection.disconnectTooltip "موجودہ آلہ یا سمیلیٹر سے رابطہ منقطع کریں">
 <!ENTITY connection.notConnected2 "جڑا ہوا نہیں۔">
 <!ENTITY connection.connectTo "جڑیں بطرف:">
 <!ENTITY connection.noDeviceFound "کوئی آلہ نہیی ملا۔ آلہ کو لگایئں">
@@ -72,13 +73,13 @@
 <!ENTITY projects.debugApp "ٹھیک کریں">
 <!ENTITY projects.debugAppTooltip "اس ایپ سے جڑے ہوے ترقی دہندہ ٹولز کو کھولیں">
 <!ENTITY projects.saveManifest "محفوظ کریں">
-
+<!ENTITY projects.saveManifestTooltip "Manifest تدوین کار کے مشمولات محفوظ کریں">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "کوئی پراجیکٹ نہیں۔ نئی پیکیج ایپ (مقامی ڈائریکٹری) یا میزبان ایپ (کھلی مسل سے ربط کریں) کا اضافہ کریں۔">
 <!ENTITY projects.manifestEditor "کو صریح تدوین کار">
 <!ENTITY projects.manifestEditorTooltip "نیچے پینل میں اپنی ایپس مینیفسٹ کی تدوین کریں. تازہ کاری بٹن آپ کی تبدلی کو محفوظ اور ایپ کی تازہ کاری کر دے گا. ">
 <!ENTITY projects.manifestViewer "کو صریح ناظر">
-
+<!ENTITY projects.manifestViewerTooltip "اپنی ایپ کے Manifest کو صریح کا نیچے دیے ہوے پینل پر معائنہ کریں">
 <!ENTITY projects.valid "جائز">
 <!ENTITY projects.error "نقص">
 <!ENTITY projects.warning "تنبیہ">

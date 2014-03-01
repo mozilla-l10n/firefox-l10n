@@ -13,7 +13,7 @@
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; نجی نوعیت کی پالیسی">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink "۔">
 <!ENTITY crashprompt.includeURLLabel "میں جس صفحہ پر تھا اس کا پتہ شامل کرو">
 <!ENTITY crashprompt.acceptbutton    "رپوٹیں بھیجیں">
 <!ENTITY crashprompt.refusebutton    "مت بھیجیں">

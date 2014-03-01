@@ -47,17 +47,22 @@
 <!ENTITY prefs.ppLink.label         "پالیسی نجی نوعیت">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "اطلاع نامہ نجی نوعیت">
+<!ENTITY determiningAcctStatus.label     "آپ کے اکاؤنٹ کی حالت کا اندازہ لگا رہا ہے…">
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "توثیق شدہ نہیں ہے۔">
 
-
+<!ENTITY signedInLoginFailure.beforename.label "پھر جڑنے کے لیے سائن ان کریں">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
+<!ENTITY signIn.label                "سائن ان کریں">
 <!ENTITY manage.label                "بندوبست کریں">
 
-
-
+<!ENTITY verify.label                "ای میل توثیق کریں">
+<!ENTITY forget.label                "اس ای میل کو بھول جائیں">
 
 <!ENTITY welcome.signIn.label " سائن ان کریں">
+<!ENTITY welcome.createAccount.label "اکاؤنٹ بنائیں">
 
-
+<!ENTITY welcome.useOldSync.label "Sync کا کوئی پرانا ورژن استعمال کر رہے ہیں؟">
