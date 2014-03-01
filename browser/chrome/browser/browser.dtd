@@ -15,6 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigacion privada)">
 
+<!ENTITY appmenu.tooltip                     "Dobrir lo menú">
 <!ENTITY navbarOverflow.label                "Autras aisinas...">
 <!-- Tab context menu -->
 
@@ -97,11 +98,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
-
-
-
-
-
+<!ENTITY syncStartPanel.heading "&brandShortName; es en cors de sincronizacion">
+<!ENTITY syncStartPanel.subTitle "Podètz gerir &syncBrand.shortName.label; dempuèi las opcions.">
+<!ENTITY syncStartPanel.subTitleUnix "Podètz gerir &syncBrand.shortName.label; dempuèi las preferéncias.">
+<!ENTITY syncErrorPanel.heading "Connexion a &syncBrand.shortName.label; impossibla">
+<!ENTITY syncErrorPanel.subTitle "Connectatz-vos per reprene la sincronizacion.">
 <!ENTITY syncErrorPanel.signInButton.label "Connexion">
 <!ENTITY syncErrorPanel.signInButton.accesskey "C">
 
@@ -331,33 +332,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
-
-
-
+<!ENTITY appMenuCustomize.tooltip "Personalizar lo menú e las barras d'aisinas">
+<!ENTITY appMenuCustomizeExit.label "Quitar la personalizacion">
+<!ENTITY appMenuCustomizeExit.tooltip "Terminar la personalizacion">
 <!ENTITY appMenuHistory.label "Istoric">
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la sesilha precedenta">
+<!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
+<!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Apondre al Menú">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Desplaçar cap a la barra d'aisinas">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "Desplaçar cap al menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Levar de la barra d'aisinas">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Levar del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Picar un tèrme de recercar o una adreça">
@@ -681,11 +684,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menú e barras d'aisinas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Aisinas e foncionalitats suplementàrias">
+<!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
-
-
+<!ENTITY customizeMode.toolbars "Afichar/Amagar las barras d'aisinas">
+<!ENTITY customizeMode.titlebar "Barra de títol">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleccionar las discussions">
