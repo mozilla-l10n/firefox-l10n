@@ -107,7 +107,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey             "P">
 <!ENTITY displayNameCmd.label               "Kuvatav nimi">
 <!ENTITY displayNameCmd.accesskey           "K">
-<!ENTITY sortMenu.label                     "Sorteerimine">
+<!ENTITY sortMenu.label                     "Sortimine">
 <!ENTITY sortMenu.accesskey                 "S">
 
 <!-- Tools Menu -->
