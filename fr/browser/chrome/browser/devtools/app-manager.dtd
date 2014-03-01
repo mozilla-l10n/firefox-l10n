@@ -83,6 +83,8 @@
 <!ENTITY projects.valid "Valide">
 <!ENTITY projects.error "Erreur">
 <!ENTITY projects.warning "Avertissement">
+<!ENTITY projects.hosted "Hébergée">
+<!ENTITY projects.packaged "Empaquetée">
 
 <!ENTITY help.title "Gestionnaire d'applications">
 <!ENTITY help.close "Fermer">
