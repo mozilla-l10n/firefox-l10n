@@ -96,11 +96,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Барлық беттерді көрсету">
 <!ENTITY showAllTabsCmd.accesskey "а">
 
-
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; үшін қайта байланысу">
 <!ENTITY syncStartPanel.heading "&brandShortName; енді синхрондауда">
 <!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label; опцияларда басқаруға болады.">
 <!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; баптауларда басқаруға болады.">
-<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; байлансты орнату сәтсіз аяқталды">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; үшін байланысты орнату сәтсіз аяқталды">
 <!ENTITY syncErrorPanel.subTitle "Синхрондауды жалғастыру үшін кіру қажет.">
 <!ENTITY syncErrorPanel.signInButton.label "Кіру">
 <!ENTITY syncErrorPanel.signInButton.accesskey "К">
@@ -338,7 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
 <!ENTITY appMenuHistory.clearRecent.label "Соңғы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
-<!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бұйір панелін көрсету">
+<!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
 <!ENTITY customizeMenu.addToToolbar.label "Құралдар панеліне қосу">
@@ -685,7 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.tabTitle " &brandShortName; баптау">
 <!ENTITY customizeMode.menuAndToolbars.label "Мәзір мен құрал панелдері">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Қосымша құралдар мен ерекшіліктер">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Қосымша құралдар мен мүмкіндіктер">
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
@@ -776,6 +777,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLocationCmd.label         "Адресті ашу...">
 <!ENTITY openLocationCmd.accesskey     "А">
 <!ENTITY bookmarksMenuButton.tooltip   "Бетбелгілеріңізді көрсету">
-
+<!ENTITY switchToMetroCmd2.label       "Windows 8 Touch үшін &brandShortName; ішінде қайта жөнелту">
 <!ENTITY tabGroupsButton.tooltip       "Браузер беттерін топтау">
 <!-- end of strings to be removed post-Australis -->

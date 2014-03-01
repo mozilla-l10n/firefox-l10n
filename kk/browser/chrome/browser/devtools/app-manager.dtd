@@ -73,7 +73,7 @@
 <!ENTITY projects.debugApp "Жөндеу">
 <!ENTITY projects.debugAppTooltip "Бұл қолданбаға байланысқан Өндіруші саймандарын ашу">
 <!ENTITY projects.saveManifest "Сақтау">
-
+<!ENTITY projects.saveManifestTooltip "Төмендегі манифест түзетушісінің құрамасын сақтау">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Жобалар жоқ. Төменде дестеленген (жергілікті бума) немесе сақталған қолданбаны (манифест файлына сілтеме) қосыңыз.">
 <!ENTITY projects.manifestEditor "Манифест түзетушісі">

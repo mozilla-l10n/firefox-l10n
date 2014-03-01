@@ -134,7 +134,7 @@
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS автотолтыруы">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Стильдер түзеткіште CSS қасиеттерді, мәндерді және таңдаушыларды еңгізген кезде, оларды автотолтыру">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Стильдер түзеткіште CSS қасиеттерді, мәндерді және таңдаушыларды енгізген кезде, оларды автотолтыру">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->

@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Біз құлау жөніндегі хабаламаларды мәселелерді шешу және өнімдерімізді жақсарту үшін қолданамыз. Жеке ақпаратыңызды біз қалай өндейтініміз ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; жекелік саясатында сипатталған">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Мен қарап отырған беттің адресін де қосу">
 <!ENTITY crashprompt.acceptbutton    "Хабарламаларды жіберу">
 <!ENTITY crashprompt.refusebutton    "Жібермеу">

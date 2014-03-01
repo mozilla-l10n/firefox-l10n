@@ -20,7 +20,7 @@
 <!ENTITY sync.flyout.setup.description6_2      "[Android] Көбірек &gt; Баптаулар &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-<!ENTITY sync.flyout.manualsetup.description1_2  "Сіздің &syncBrand.shortName.label; тіркелгі туралы ақпаратты және компьютеріңізбен жасалған қалпына келтіру кілтін еңгізіңіз">
+<!ENTITY sync.flyout.manualsetup.description1_2  "Өзіңіздің &syncBrand.shortName.label; тіркелгісі ақпаратын және компьютеріңізбен жасалған қалпына келтіру кілтін енгізіңіз">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Тіркелгі аты">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Қалпына келтіру кілті">
@@ -31,7 +31,7 @@
 <!ENTITY sync.flyout.setupsuccess.description2      "Сіздің &syncBrand.shortName.label; мәліметтері қазір фон үрдісімен жүктелуде. Сіздің синхрондалған беттерді &brandShortName; іске қосылу бетте табуға болады.">
 <!-- Flyout when setup failed -->
 
-<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; сіздің &syncBrand.shortName.label; тіркелгіңізге байланусы мүмкін емес.">
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; сіздің &syncBrand.shortName.label; тіркелгіңізге байланыса алмады.">
 <!ENTITY sync.flyout.setupfailure.cancelButton      "Бас тарту">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Қайтадан көру">
 <!-- Flyout when connected and functioning normally -->
