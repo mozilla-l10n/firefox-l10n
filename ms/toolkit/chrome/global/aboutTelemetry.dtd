@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Bebenang Tergantung">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
 
+<!ENTITY aboutTelemetry.toggle "Klik untuk buka seksyen">
 
 <!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Pamer data mentah daripada hangs">
 
+<!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
