@@ -79,8 +79,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Penandabuku Bar Alatan Benda">
 
 <!ENTITY pageSourceCmd.label "Sumber Laman">
-<!ENTITY pageSourceCmd.accesskey "a">
-<!ENTITY pageSourceCmd.commandkey "a">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Info Laman">
 <!ENTITY pageInfoCmd.accesskey "L">
 <!ENTITY pageInfoCmd.commandkey "L">
