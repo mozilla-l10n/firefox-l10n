@@ -2,7 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName; အကြောင်း">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+
+<!ENTITY update.checkForUpdatesButton.label       "အဆင့်မြှင့်တင်ရန် လိုအပ်နေလား စစ်ကြည့်မည်။">
+<!ENTITY update.checkForUpdatesButton.accesskey   "အ">
+<!ENTITY update.updateButton.label                "R အပ်ဒိပ်လုပ်ဖို့ ပြန်စတင်ပါ">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Aအသစ်များအားအသုံးချ ...">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
 
 <!ENTITY warningDesc.version        "&brandShortName; သည်စမ်းသပ်ဆဲ ကာလဖြစ်ပြီး မတည်ငြိမ်မှူဖြစ်ကောင်း ဖြစ်နိုင်သည်။">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
@@ -41,8 +54,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "အသစ်ပြုပြင်ခြင်းများရှိနေပြီလားစစ်ဆေးနေပါသည်။">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "အတ်ဒ်အွန်များအဆင်ပြေမပြေစစ်ဆေးနေသည်.....">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ဟာယခုဆိုရင်နောက်ဆုံးအသစ်ခေတ်မှီသွားပြီဖြစ်သည်။">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

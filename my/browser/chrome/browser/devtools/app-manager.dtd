@@ -12,9 +12,9 @@
 <!ENTITY device.title "ဗဟို စက်ကိရိယာ ထိန်းချုပ်ဌာန">
 <!ENTITY device.notConnected "မချိတ်ဆက်ထားပါ။ ကျေးဇူးပြု၍ သင့်စက်ကိရိယာကို အောက်ဘက်တွင် ချိတ်ဆက်ပေးပါ။">
 
-<!ENTITY device.startAppTooltip "ဒီ အပ်(ပ်)ကို စက်ကိရိယာပေါ်တွင် စတင်လုပ်ဆောင်ပါ။">
 
-<!ENTITY device.stopAppTooltip "ဒီ အပ်(ပ်)ကို စက်ကိရိယာပေါ်တွင် လုပ်ဆောင်မှု ရပ်တန့်ပါ။">
+
+
 <!ENTITY device.debugApp "အမှားစစ်">
 
 <!ENTITY device.name "အမည်">

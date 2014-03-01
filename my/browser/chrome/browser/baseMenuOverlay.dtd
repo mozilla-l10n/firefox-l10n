@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "အကြုံပြုချက်အား ပေးပို့မည်။">
 <!ENTITY helpFeedbackPage.accesskey  "အ">
 
+<!ENTITY helpShowTour.label             "&brandShortName; အလည်အပတ် o">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "ဦးစားပေးချက်များ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
