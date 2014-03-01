@@ -45,24 +45,24 @@
 <!ENTITY connection.startSimulator "Aviar lo simulator">
 <!ENTITY connection.startSimulatorTooltip "Aviar una instància del simulator e s'i connectar">
 <!ENTITY connection.saveConnectionInfo "Enregistrar">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Enregistrar l'òste e lo pòrt">
 <!ENTITY connection.connecting "Connexion…">
 <!ENTITY connection.disconnecting "Desconnexion...">
 <!ENTITY connection.cancel "Anullar">
-
-
+<!ENTITY connection.cancelConnectTooltip "Anullar la connexion en cors">
+<!ENTITY connection.cancelShowSimulatorTooltip "Quitar lo mòde de connexion al simulator e tornar al formulari de despart">
 <!ENTITY connection.or "o">
 <!ENTITY connection.noSimulatorInstalled "o">
-
-
+<!ENTITY connection.installOneSimulator "Installar lo Simulator">
+<!ENTITY connection.installOneSimulatorTooltip "Installar una version del simulator en telecargant un modul complementari">
 <!ENTITY connection.installAnotherSimulator "Apondre">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "Installar una version suplementària del simulator en telecargant un modul complementari">
 <!ENTITY connection.startRegisteredSimulator "Aviar :">
 
 <!ENTITY projects.localApps "Aplicacions localas">
 <!ENTITY projects.addApp "Apondre">
-
-
+<!ENTITY projects.addPackaged "Apondre una aplicacion empaquetada">
+<!ENTITY projects.addPackagedTooltip "Apondre una novèla aplicacion empaquetada (un repertòri) dempuèi vòstre ordenador">
 <!ENTITY projects.addHosted "Apondre una aplicacion albergada">
 <!ENTITY projects.addHostedTooltip "Apondre una novèla aplicacion albergada (ligam cap a un fichièr manifest.webapp) dempuèi un site web distant">
 <!ENTITY projects.title "Aplicacions localas">
@@ -89,7 +89,7 @@
 <!ENTITY help.intro "Aquesta aisina vos ajudarà a crear e installar d'aplicacions web sus d'aparelhs compatibles (per exemple Firefox OS). L'onglet Aplicacions vos guidarà pendent lo processus d'installacion e la validacion de vòstra aplicacion. L'onglet Aparelh vos provesirà d'informacions sus l'aparelh connectat. Utilizatz la barra d'aisinas situada en bas de l'ecran per connectar un aparelh o aviar lo simulator.">
 <!ENTITY help.usefullLinks "Ligams utiles :">
 <!ENTITY help.appMgrDoc "Documentacion : utilizar lo gestionari d'aplicacions.">
-
-
-
-
+<!ENTITY help.configuringDevice "Cossí configurar vòstre aparelh Firefox OS">
+<!ENTITY help.troubleShooting "Depanatge">
+<!ENTITY help.simulatorAddon "Installar lo modul complementari Simulator">
+<!ENTITY help.adbHelperAddon "Installar lo modul complementari Adb Helper">

@@ -30,34 +30,48 @@
 <!ENTITY debuggerUI.optsButton.tooltip  "Opcions del desbugador">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Plaçar la font dins una bóstia negra o la levar">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "Formatar e indentar la font">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 
+<!ENTITY debuggerUI.autoPrettyPrint     "Formatar e indentar las fonts automaticament">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/Desactivar totes los punts d'arrèst">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "Aviar l'enregistrament de las traças">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
 <!ENTITY debuggerUI.clearButton "Voidar">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "Escafar las traças collectadas">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           "Pausa sus las excepcions">
-
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignorar las excepcions interceptadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
 <!ENTITY debuggerUI.showPanesOnInit           "Panèls desvolopats a l'aviada">
-
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
@@ -90,35 +104,37 @@
 
 <!ENTITY debuggerUI.searchGlobal           "Recercar dins totes los fichièrs">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
-
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
-<!ENTITY debuggerUI.searchFunction.key       "D">
 
+<!ENTITY debuggerUI.searchFunction           "Recercar una definicion de foncion">
+<!ENTITY debuggerUI.searchFunction.key       "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken           "Recercar">
 <!ENTITY debuggerUI.searchToken.key       "F">
-
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
 <!ENTITY debuggerUI.searchGoToLine           "Anar a la linha...">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
-
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
 <!ENTITY debuggerUI.searchVariable           "Filtrar las variablas">
 <!ENTITY debuggerUI.searchVariable.key       "V">
-
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "Seleccionar las variablas de l'arbre">
 <!ENTITY debuggerUI.focusVariables.key       "V">
-
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -138,7 +154,7 @@
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "Fonts">
-
+<!ENTITY debuggerUI.tabs.traces         "Traças">
 <!ENTITY debuggerUI.tabs.callstack      "Pila d'apèls">
 <!ENTITY debuggerUI.tabs.variables      "Variablas">
 <!ENTITY debuggerUI.tabs.events         "Eveniments">
@@ -151,7 +167,7 @@
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.addWatch            "Apondre una expression espiona">
-
+<!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 

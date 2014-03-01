@@ -15,7 +15,7 @@
 
 
 <!ENTITY aboutNetworking.active                "Actiu">
-
+<!ENTITY aboutNetworking.idle                  "Inactiu">
 <!ENTITY aboutNetworking.host                  "Òste">
 
 <!ENTITY aboutNetworking.sent                  "Mandat">
