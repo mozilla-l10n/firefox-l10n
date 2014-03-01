@@ -162,7 +162,7 @@
 <!ENTITY recentFolders.accesskey                       "H">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label                                "Sorteerimine">
+<!ENTITY sortMenu.label                                "Sortimine">
 <!ENTITY sortMenu.accesskey                            "S">
 <!ENTITY sortByDateCmd.label                           "Kuupäev">
 <!ENTITY sortByDateCmd.accesskey                       "e">
@@ -200,7 +200,7 @@
 <!ENTITY sortThreaded.accesskey                        "i">
 <!ENTITY sortUnthreaded.label                          "Lõimedeta">
 <!ENTITY sortUnthreaded.accesskey                      "õ">
-<!ENTITY groupBySort.label                             "Grupeeritud sorteerimise järgi">
+<!ENTITY groupBySort.label                             "Grupeeritud sortimise järgi">
 <!ENTITY groupBySort.accesskey                         "G">
 <!ENTITY msgsMenu.label                                "Kirjad">
 <!ENTITY msgsMenu.accesskey                            "K">
@@ -670,24 +670,24 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip                        "Vali kuvatavad veerud">
 <!ENTITY threadColumn2.tooltip                         "Kuva kirju lõimedena">
-<!ENTITY fromColumn2.tooltip                           "Sorteeri saatja järgi">
-<!ENTITY recipientColumn2.tooltip                      "Sorteeri adressaadi järgi">
-<!ENTITY subjectColumn2.tooltip                        "Sorteeri teema järgi">
-<!ENTITY dateColumn2.tooltip                           "Sorteeri kuupäeva järgi">
-<!ENTITY priorityColumn2.tooltip                       "Sorteeri prioriteedi järgi">
-<!ENTITY tagsColumn2.tooltip                           "Sorteeri siltide järgi">
-<!ENTITY accountColumn2.tooltip                        "Sorteeri kontode järgi">
-<!ENTITY statusColumn2.tooltip                         "Sorteeri oleku järgi">
-<!ENTITY sizeColumn2.tooltip                           "Sorteeri suuruse järgi">
-<!ENTITY junkStatusColumn2.tooltip                     "Sorteeri rämpspostiks olemise järgi">
+<!ENTITY fromColumn2.tooltip                           "Sordi saatja järgi">
+<!ENTITY recipientColumn2.tooltip                      "Sordi adressaadi järgi">
+<!ENTITY subjectColumn2.tooltip                        "Sordi teema järgi">
+<!ENTITY dateColumn2.tooltip                           "Sordi kuupäeva järgi">
+<!ENTITY priorityColumn2.tooltip                       "Sordi prioriteedi järgi">
+<!ENTITY tagsColumn2.tooltip                           "Sordi siltide järgi">
+<!ENTITY accountColumn2.tooltip                        "Sordi kontode järgi">
+<!ENTITY statusColumn2.tooltip                         "Sordi oleku järgi">
+<!ENTITY sizeColumn2.tooltip                           "Sordi suuruse järgi">
+<!ENTITY junkStatusColumn2.tooltip                     "Sordi rämpspostiks olemise järgi">
 <!ENTITY unreadColumn2.tooltip                         "Lugemata kirjade arv lõimes">
 <!ENTITY totalColumn2.tooltip                          "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn2.tooltip                           "Sorteeri loetuse järgi">
-<!ENTITY receivedColumn2.tooltip                       "Sorteeri saabumise aja järgi">
-<!ENTITY starredColumn2.tooltip                        "Sorteeri tähistuse järgi">
-<!ENTITY locationColumn2.tooltip                       "Sorteeri asukoha järgi">
-<!ENTITY idColumn2.tooltip                             "Sorteeri kättesaamise järgi">
-<!ENTITY attachmentColumn2.tooltip                     "Sorteeri manuste järgi">
+<!ENTITY readColumn2.tooltip                           "Sordi loetuse järgi">
+<!ENTITY receivedColumn2.tooltip                       "Sordi saabumise aja järgi">
+<!ENTITY starredColumn2.tooltip                        "Sordi tähistuse järgi">
+<!ENTITY locationColumn2.tooltip                       "Sordi asukoha järgi">
+<!ENTITY idColumn2.tooltip                             "Sordi kättesaamise järgi">
+<!ENTITY attachmentColumn2.tooltip                     "Sordi manuste järgi">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label                    "Ava kiri uues aknas">

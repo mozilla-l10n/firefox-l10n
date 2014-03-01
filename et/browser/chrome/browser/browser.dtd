@@ -145,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudistevoog...">
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY showAllBookmarks2.label                 "Kuva kõiki järjehoidjaid">
-<!ENTITY unsortedBookmarksCmd.label              "Sorteerimata järjehoidjad">
+<!ENTITY unsortedBookmarksCmd.label              "Sortimata järjehoidjad">
 <!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
 
 <!ENTITY backCmd.label                           "Tagasi">
@@ -179,7 +179,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey                 "b">
 
 <!ENTITY bookmarksMenuButton.label               "Järjehoidjad">
-<!ENTITY bookmarksMenuButton.unsorted.label      "Sorteerimata järjehoidjad">
+<!ENTITY bookmarksMenuButton.unsorted.label      "Sortimata järjehoidjad">
 <!ENTITY viewBookmarksSidebar2.label             "Kuva järjehoidjate külgriba">
 <!ENTITY viewBookmarksToolbar.label              "Kuva järjehoidjariba">
 
@@ -754,7 +754,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuToolbarLayout.label              "Tööriistariba paigutus…">
 <!ENTITY appMenuSidebars.label                   "Külgribad">
 <!ENTITY appMenuFind.label                       "Leia…">
-<!ENTITY appMenuUnsorted.label                   "Sorteerimata järjehoidjad">
+<!ENTITY appMenuUnsorted.label                   "Sortimata järjehoidjad">
 <!ENTITY appMenuWebDeveloper.label               "Veebiarendajale">
 <!ENTITY appMenuGettingStarted.label             "Alustamisjuhend">
 <!ENTITY appMenuSafeMode.label                   "Taaskäivita koos lisade keelamisega…">

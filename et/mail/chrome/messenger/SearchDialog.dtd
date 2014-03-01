@@ -59,20 +59,20 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip     "Vali kuvatavad veerud">
 <!ENTITY threadColumn2.tooltip      "Kuva kirju lõimedena">
-<!ENTITY fromColumn2.tooltip        "Sorteeri saatja järgi">
-<!ENTITY recipientColumn2.tooltip   "Sorteeri saaja järgi">
-<!ENTITY subjectColumn2.tooltip     "Sorteeri teema järgi">
-<!ENTITY dateColumn2.tooltip        "Sorteeri kuupäeva järgi">
-<!ENTITY priorityColumn2.tooltip    "Sorteeri tähtsuse järgi">
-<!ENTITY tagsColumn2.tooltip        "Sorteeri siltide järgi">
-<!ENTITY accountColumn2.tooltip     "Sorteeri konto järgi">
-<!ENTITY statusColumn2.tooltip      "Sorteeri oleku järgi">
-<!ENTITY sizeColumn2.tooltip        "Sorteeri suuruse järgi">
-<!ENTITY junkStatusColumn2.tooltip  "Sorteeri rämpspostiks olemise järgi">
+<!ENTITY fromColumn2.tooltip        "Sordi saatja järgi">
+<!ENTITY recipientColumn2.tooltip   "Sordi saaja järgi">
+<!ENTITY subjectColumn2.tooltip     "Sordi teema järgi">
+<!ENTITY dateColumn2.tooltip        "Sordi kuupäeva järgi">
+<!ENTITY priorityColumn2.tooltip    "Sordi tähtsuse järgi">
+<!ENTITY tagsColumn2.tooltip        "Sordi siltide järgi">
+<!ENTITY accountColumn2.tooltip     "Sordi konto järgi">
+<!ENTITY statusColumn2.tooltip      "Sordi oleku järgi">
+<!ENTITY sizeColumn2.tooltip        "Sordi suuruse järgi">
+<!ENTITY junkStatusColumn2.tooltip  "Sordi rämpspostiks olemise järgi">
 <!ENTITY unreadColumn2.tooltip      "Lugemata kirjade arv lõimes">
 <!ENTITY totalColumn2.tooltip       "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn2.tooltip        "Sorteeri loetuse järgi">
-<!ENTITY receivedColumn2.tooltip    "Sorteeri saabumise aja järgi">
-<!ENTITY starredColumn2.tooltip     "Sorteeri tähistuse järgi">
-<!ENTITY locationColumn2.tooltip    "Sorteeri asukoha järgi">
-<!ENTITY idColumn2.tooltip          "Sorteeri kättesaamise järgi">
+<!ENTITY readColumn2.tooltip        "Sordi loetuse järgi">
+<!ENTITY receivedColumn2.tooltip    "Sordi saabumise aja järgi">
+<!ENTITY starredColumn2.tooltip     "Sordi tähistuse järgi">
+<!ENTITY locationColumn2.tooltip    "Sordi asukoha järgi">
+<!ENTITY idColumn2.tooltip          "Sordi kättesaamise järgi">
