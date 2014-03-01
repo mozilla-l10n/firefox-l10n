@@ -43,3 +43,6 @@
 <!ENTITY noproxyExplain.label           "Príklad: .mozilla.org, .net.nz">
 <!ENTITY shareproxy.label               "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY shareproxy.accesskey           "x">
+<!ENTITY  autologinproxy.label          "Nevyžadovať zadanie autorizačných údajov, ak ich má prehliadač uložené">
+<!ENTITY  autologinproxy.accesskey      "l">
+<!ENTITY  autologinproxy.tooltip        "Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač si údaje vypýta.">
