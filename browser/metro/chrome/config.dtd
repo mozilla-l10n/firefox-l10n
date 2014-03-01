@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "ଖୋଜନ୍ତୁ">
-<!ENTITY newpref.label          "ନୂତନ ପସନ୍ଦ ଯୋଗକରନ୍ତୁ">
 <!ENTITY addpref.name           "ନାମ">
-<!ENTITY addpref.value          "ମୂଲ୍ୟ">
 
 <!ENTITY cancel.label           "ବାତିଲ କରନ୍ତୁ">
-<!ENTITY reset.label            "ପୁନଃ ସ୍ଥାପନ">
-<!ENTITY done.label             "ସମାପ୍ତ">
+
 
 <!ENTITY integer.label          "ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା">
 <!ENTITY string.label           "ବାକ୍ୟ ଖଣ୍ଡ">
 <!ENTITY boolean.label          "ବୁଲିଆନ">
+
+

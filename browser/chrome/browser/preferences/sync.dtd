@@ -45,3 +45,20 @@
 
 <!ENTITY prefs.tosLink.label        "ସର୍ଭିସ ନିୟମାବଳୀ">
 <!ENTITY prefs.ppLink.label         "ଗୋପନୀୟତା ନିତୀ">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+<!ENTITY manage.label                "ପରିଚାଳନ କରନ୍ତୁ">
+
+
+
+
+<!ENTITY welcome.signIn.label "ସାଇନ ଇନ">
+
+
+<!ENTITY welcome.useOldSync.label "ସନ୍ତୁଳନର ପୁରୁଣା ସଂସ୍କରଣ ବ୍ୟବହାର କରୁଛନ୍ତି କି?">
