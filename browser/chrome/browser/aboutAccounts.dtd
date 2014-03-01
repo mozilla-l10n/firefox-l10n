@@ -4,6 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; қош келдіңіз">
 
+<!ENTITY aboutAccountsConfig.description "Беттер, бетбелгілер, парольдерді синхрондау және т.б. үшін кіріңіз.">
 <!ENTITY aboutAccountsConfig.startButton.label "Бастаңыз">
-
+<!ENTITY aboutAccountsConfig.useOldSync.label "Sync ескірген нұсқасын қолданудасыз ба?">
 <!ENTITY aboutAccountsConfig.manage.label "Басқару">

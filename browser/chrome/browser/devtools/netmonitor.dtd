@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• Өнімділік анализін бастау үшін">
+<!ENTITY netmonitorUI.perfNotice2         "батырмаға басыңыз.">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 
@@ -109,6 +113,8 @@
 <!ENTITY netmonitorUI.footer.clear  "Тазарту">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "Өнімділік анализдеуін іске қосу/сөндіру...">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -181,8 +187,12 @@
 <!ENTITY netmonitorUI.timings.receive     "Алуда:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "Өнімділік анализдеуін бастау...">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "с">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
@@ -193,8 +203,12 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "С">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Суретті Data URI ретінде көшіру">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "е">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->

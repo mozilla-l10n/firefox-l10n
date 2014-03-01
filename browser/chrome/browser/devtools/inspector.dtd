@@ -18,3 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "HTML іздеу">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "Суреттің Data-URL көшіру">

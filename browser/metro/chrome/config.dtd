@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Аты">
 
 <!ENTITY cancel.label           "Бас тарту">
-
+<!ENTITY toggle.label           "Ауыстыру">
 
 <!ENTITY integer.label          "Бүтін">
 <!ENTITY string.label           "Жол">
 <!ENTITY boolean.label          "Логикалық">
 
-
+<!ENTITY string.placeholder     "Жолды енгізіңіз">
+<!ENTITY number.placeholder     "Нөмірді енгізіңіз">
