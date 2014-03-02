@@ -20,12 +20,13 @@
 <!ENTITY autoCompleteMatchWordsFirst "ovunque ma preferendo gli estremi delle parole">
 <!ENTITY autoCompleteMatchWords "solo agli estremi delle parole">
 <!ENTITY autoCompleteMatchStart "solo all'inizio dell'indirizzo o del titolo">
+<!ENTITY showInternetSearch.label "Mostra il motore di ricerca predefinito per Internet">
+<!ENTITY showInternetSearch.accesskey "M">
 <!ENTITY formatting.label "Formattazione">
 <!ENTITY domainFormatting.label "Evidenzia il dominio effettivo per i siti web e i server FTP">
 <!ENTITY domainFormatting.accesskey "d">
-<!ENTITY searchEngine.label "Motore di ricerca sul web">
-<!ENTITY showSearchEngine.label "Visualizza il motore di ricerca predefinito">
-<!ENTITY showSearchEngine.accesskey "V">
+<!ENTITY highlightSecure.label "Evidenzia pagine web con un livello di sicurezza della connessione alto">
+<!ENTITY highlightSecure.accesskey "E">
 <!ENTITY unknownLocations.label "Indirizzi sconosciuti">
 <!ENTITY domainGuessing.label "Aggiungi &quot;www.&quot; e &quot;.com&quot; all'indirizzo se la pagina web non viene trovata">
 <!ENTITY domainGuessing.accesskey "u">

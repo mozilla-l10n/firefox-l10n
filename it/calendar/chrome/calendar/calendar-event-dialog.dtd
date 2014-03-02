@@ -8,6 +8,8 @@
 <!ENTITY newevent.from.label "Da">
 <!ENTITY newevent.to.label "A">
 <!ENTITY newevent.attendees.notify.label "Notifica partecipanti">
+<!ENTITY newevent.attendees.notifyundisclosed.label "Mantieni partecipante come ignoto negli inviti">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Se abilitato, i partecipanti non si vedranno tra di loro negli inviti. Si applica solo agli inviti via e-mail.">
 <!ENTITY newevent.status.label "Stato">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Non specificato">
