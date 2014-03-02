@@ -45,5 +45,5 @@
 <!ENTITY  shareproxy.label              "Utiliser ce serveur proxy pour tous les protocoles">
 <!ENTITY  shareproxy.accesskey          "i">
 <!ENTITY  autologinproxy.label          "Ne pas me demander de m'authentifier si le mot de passe est enregistré">
-<!ENTITY  autologinproxy.accesskey      "e">
+<!ENTITY  autologinproxy.accesskey      "g">
 <!ENTITY  autologinproxy.tooltip        "Cette option vous authentifie automatiquement sur les serveurs proxy dont le mot de passe est enregistré. Si l'authentification échoue, le mot de passe vous sera demandé.">
