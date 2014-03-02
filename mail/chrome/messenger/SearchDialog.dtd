@@ -50,7 +50,7 @@
 <!ENTITY junkStatusColumn.label "Junk-Status">
 <!ENTITY unreadColumn.label "Ungelesen">
 <!ENTITY totalColumn.label "Gesamt">
-<!ENTITY readColumn.label "Gelesen">
+<!ENTITY readColumn.label "Gelesen / Ungelesen">
 <!ENTITY receivedColumn.label "Empfangen">
 <!ENTITY starredColumn.label "Kennzeichnung">
 <!ENTITY locationColumn.label "Ablageort">
