@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Cari">
-<!ENTITY newpref.label          "Tambahkan Item Preferensi Baru">
 <!ENTITY addpref.name           "Nama">
-<!ENTITY addpref.value          "Nilai">
 
 <!ENTITY cancel.label           "Batalkan">
-<!ENTITY reset.label            "Setel Ulang">
-<!ENTITY done.label             "Selesai">
+<!ENTITY toggle.label           "Aktif/Nonaktifkan">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
+
+<!ENTITY string.placeholder     "Masukkan string">
+<!ENTITY number.placeholder     "Masukkan bilangan">
