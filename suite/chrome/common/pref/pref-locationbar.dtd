@@ -26,14 +26,15 @@
 <!ENTITY autoCompleteMatchWordsFirst "N'importe où mais en préférant les extrémités de mot">
 <!ENTITY autoCompleteMatchWords "Seulement sur les extrémités de mots">
 <!ENTITY autoCompleteMatchStart "Seulement au début de l'adresse ou du titre de page">
+<!ENTITY showInternetSearch.label "Afficher le moteur de recherche par défaut">
+<!ENTITY showInternetSearch.accesskey "m">
 
 <!ENTITY formatting.label "Formatage">
 <!ENTITY domainFormatting.label "Mettre en valeur le nom de domaine pour les sites web et les serveurs FTP">
 <!ENTITY domainFormatting.accesskey "d">
 
-<!ENTITY searchEngine.label "Moteur de recherche Internet">
-<!ENTITY showSearchEngine.label "Afficher le moteur de recherche par défaut">
-<!ENTITY showSearchEngine.accesskey "m">
+<!ENTITY highlightSecure.label "Mettre en valeur les pages web avec une connexion sécurisée de haut niveau">
+<!ENTITY highlightSecure.accesskey "v">
 
 <!ENTITY unknownLocations.label "Adresses inconnues">
 <!ENTITY domainGuessing.label "Ajouter automatiquement « www. » et « .com » à l'adresse si une page web n'est pas trouvée.">
