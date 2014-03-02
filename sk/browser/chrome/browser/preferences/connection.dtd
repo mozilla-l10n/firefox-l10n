@@ -32,7 +32,7 @@
 <!ENTITY socks5.label                   "SOCKS v5">
 <!ENTITY socks5.accesskey               "v">
 <!ENTITY socksRemoteDNS.label           "Vzdialené DNS">
-<!ENTITY socksRemoteDNS.accesskey       "z">
+<!ENTITY socksRemoteDNS.accesskey       "l">
 <!ENTITY port.label                     "Port:">
 <!ENTITY HTTPport.accesskey             "t">
 <!ENTITY SSLport.accesskey              "o">
@@ -44,5 +44,5 @@
 <!ENTITY shareproxy.label               "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY shareproxy.accesskey           "x">
 <!ENTITY  autologinproxy.label          "Nevyžadovať zadanie autorizačných údajov, ak ich má prehliadač uložené">
-<!ENTITY  autologinproxy.accesskey      "l">
+<!ENTITY  autologinproxy.accesskey      "z">
 <!ENTITY  autologinproxy.tooltip        "Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač si údaje vypýta.">
