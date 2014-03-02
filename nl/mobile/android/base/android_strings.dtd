@@ -148,9 +148,11 @@ size. -->
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
 <!ENTITY pref_vendor_feedback "Feedback geven">
-<!ENTITY pref_search_set_default "Instellen als standaard">
-<!ENTITY pref_search_default "Standaard">
-<!ENTITY pref_search_remove "Verwijderen">
+
+<!ENTITY pref_dialog_set_default "Instellen als standaard">
+<!ENTITY pref_dialog_default "Standaard">
+<!ENTITY pref_dialog_remove "Verwijderen">
+
 <!ENTITY pref_search_last_toast "U kunt uw laatste zoekmachine niet verwijderen of uitschakelen.">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistieken &amp; -gegevens">
