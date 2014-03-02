@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Flytt ned">
 <!ENTITY account.cancelReconnection.label         "Avbryt ny tilkobling">
 <!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Kopier debug-logg">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Kobler til …">
 <!ENTITY account.disconnecting        "Kobler fra …">
 <!ENTITY account.disconnected         "Ikke tilkoblet">

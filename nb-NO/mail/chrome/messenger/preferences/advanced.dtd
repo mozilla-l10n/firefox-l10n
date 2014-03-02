@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisk søk etter oppdateringer for:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Mine utvidelser og temaer">
-<!ENTITY enableAddonsUpdate.accesskey   "M">
-<!ENTITY whenUpdatesFound.label         "Når oppdateringer til &brandShortName; blir funnet,">
-<!ENTITY modeAskMe.label                "Spør meg hva som skal gjøres">
-<!ENTITY modeAskMe.accesskey            "r">
-<!ENTITY modeAutomatic.label            "Automatisk last ned og installer oppdateringen">
-<!ENTITY modeAutomatic.accesskey        "A">
-<!ENTITY modeAutoAddonWarn.label        "Advar dersom dette vil slå av utvidelser eller temaer">
-<!ENTITY modeAutoAddonWarn.accesskey    "d">
-<!ENTITY showUpdates.label              "Vis oppdateringshistorikk">
-<!ENTITY showUpdates.accesskey          "V">
+<!ENTITY updateApp.label                 "&brandShortName;-oppdateringer:">
+<!ENTITY updateAuto.label                "Automatisk installer oppdateringer (anbefalt: bedre sikkerhet)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Søk etter oppdateringer, men la meg velge om de skal installeres">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Aldri søk etter oppdateringer (ikke anbefalt: sikkerhetsrisiko)">
+<!ENTITY updateManual.accesskey          "A">
+<!ENTITY updateAutoAddonWarn.label       "Advar meg dersom dette vil slå av noen installerte utvidelser">
+<!ENTITY updateAutoAddonWarn.accesskey   "d">
+<!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
+<!ENTITY updateHistory.accesskey         "V">
+<!ENTITY updateOthers.label              "Automatisk oppdater:">
+<!ENTITY enableAddonsUpdate3.label       "Utvidelser">
+<!ENTITY enableAddonsUpdate3.accesskey   "U">
 
 <!ENTITY useService.label                "Bruk en bakgrunnstjeneste for å installere oppdateringer">
 <!ENTITY useService.accesskey            "B">

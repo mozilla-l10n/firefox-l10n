@@ -5,4 +5,4 @@ googlemetrofx
 qxl-NO
 gulesider-NO
 wikipedia-NO
-yahoo-NO
+yahoo-NOmetrofx
