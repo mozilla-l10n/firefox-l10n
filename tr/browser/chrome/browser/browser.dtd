@@ -412,6 +412,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-posta ile gönder…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY switchToMetroCmd.label       "Windows 8 stilinde yeniden aç">
+<!ENTITY switchToMetroCmd2.label      "Windows 8 dokunmatik modunda yeniden aç">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
