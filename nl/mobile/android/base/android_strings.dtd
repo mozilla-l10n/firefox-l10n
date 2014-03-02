@@ -216,6 +216,13 @@ size. -->
 <!ENTITY find_next "Volgende">
 <!ENTITY find_close "Sluiten">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Casting naar apparaat">
+<!ENTITY media_play "Afspelen">
+<!ENTITY media_pause "Pauzeren">
+<!ENTITY media_stop "Stoppen">
+
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
 <!ENTITY contextmenu_open_private_tab "Openen in privétabblad">
 <!ENTITY contextmenu_open_in_reader "Openen in lezer">
