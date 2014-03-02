@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Denne mappen">
-<!ENTITY thisFolder.accesskey "e">
 <!ENTITY goRecentlyClosedTabs.label "Nylig lukkede faner">
 <!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Startside">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Vedlegg">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Rediger som ny">
-<!ENTITY editMsgAsNewCmd.accesskey "R">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Rediger som ny melding">
+<!ENTITY editAsNewMsgCmd.accesskey "R">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Lag filter fra melding">
 <!ENTITY createFilter.accesskey "L">
 <!ENTITY moveMsgToMenu.label "Flytt til">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Overvåk tråd">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Hit">
-<!ENTITY fileHereMenu.accesskey "H">
-<!ENTITY copyHereMenu.label "Kopier hit">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etikett">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meldingen">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Slå av svindeldeteksjon for alle meldinger">
-<!ENTITY phishingOptionDisableDetection.accesskey "a">
+<!ENTITY phishingOptionSettings.label "Rediger svindeloppdagelse-innstillinger …">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Rediger svindeloppdagelse-innstillinger …">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Vedlegg-status">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Trykk her for å velge kolonner du vil vise">
-<!ENTITY threadColumn.tooltip "Trykk her for å vise meldingstråder">
-<!ENTITY fromColumn.tooltip "Trykk her for å sortere etter fra">
-<!ENTITY recipientColumn.tooltip "Trykk her for å sortere etter mottaker">
-<!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
-<!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
-<!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
-<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter etikett">
-<!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
-<!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
-<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
-<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønsket-status">
-<!ENTITY unreadColumn.tooltip "Antall uleste meldinger i tråden">
-<!ENTITY totalColumn.tooltip "Totalt antall meldinger i tråden">
-<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
-<!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
-<!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
-<!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
-<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottaksrekkefølge">
-<!ENTITY attachmentColumn.tooltip "Trykk her for å sortere etter vedlegg">
+<!ENTITY columnChooser2.tooltip "Velg kolonner du vil vise">
+<!ENTITY threadColumn2.tooltip "Vis meldingstråder">
+<!ENTITY fromColumn2.tooltip "Sorter etter fra">
+<!ENTITY recipientColumn2.tooltip "Sorter etter mottaker">
+<!ENTITY subjectColumn2.tooltip "Sorter etter emne">
+<!ENTITY dateColumn2.tooltip "Sorter etter dato">
+<!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">
+<!ENTITY tagsColumn2.tooltip "Sorter etter etikett">
+<!ENTITY accountColumn2.tooltip "Sorter etter konto">
+<!ENTITY statusColumn2.tooltip "Sorter etter status">
+<!ENTITY sizeColumn2.tooltip "Sorter etter størrelse">
+<!ENTITY junkStatusColumn2.tooltip "Sorter etter uønsket-status">
+<!ENTITY unreadColumn2.tooltip "Antall uleste meldinger i tråden">
+<!ENTITY totalColumn2.tooltip "Totalt antall meldinger i tråden">
+<!ENTITY readColumn2.tooltip "Sorter etter lest-tilstand">
+<!ENTITY receivedColumn2.tooltip "Sorter etter dato mottatt">
+<!ENTITY starredColumn2.tooltip "Sorter etter stjerne">
+<!ENTITY locationColumn2.tooltip "Sorter etter plassering">
+<!ENTITY idColumn2.tooltip "Sorter etter mottaksrekkefølge">
+<!ENTITY attachmentColumn2.tooltip "Sorter etter vedlegg">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åpne melding i nytt vindu">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Åpne melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Rediger som ny …">
-<!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
+<!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsender">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Legg til i adressebok">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
-<!ENTITY EditContact.label "Rediger kontakt …">
-<!ENTITY EditContact.accesskey "R">
+<!ENTITY EditContact1.label "Rediger kontakt">
+<!ENTITY EditContact1.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Abonner på nyhetsgruppe">
