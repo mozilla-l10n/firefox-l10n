@@ -155,6 +155,9 @@ size. -->
 
 <!ENTITY pref_search_last_toast "U kunt uw laatste zoekmachine niet verwijderen of uitschakelen.">
 
+<!ENTITY pref_panels_show "Tonen">
+<!ENTITY pref_panels_hide "Verbergen">
+
 <!ENTITY datareporting_notification_title "&brandShortName;-statistieken &amp; -gegevens">
 <!ENTITY datareporting_notification_action_long "Kies welke gegevens u wilt delen">
 <!ENTITY datareporting_notification_action "Kies wat u wilt delen">
