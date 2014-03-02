@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Zoeken">
-<!ENTITY newpref.label          "Nieuwe voorkeur toevoegen">
 <!ENTITY addpref.name           "Naam">
-<!ENTITY addpref.value          "Waarde">
 
 <!ENTITY cancel.label           "Annuleren">
-<!ENTITY reset.label            "Herinitialiseren">
-<!ENTITY done.label             "Klaar">
+<!ENTITY toggle.label           "Omschakelen">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
+
+<!ENTITY string.placeholder     "Voer een string in">
+<!ENTITY number.placeholder     "Voer een getal in">
