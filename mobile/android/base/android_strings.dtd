@@ -237,7 +237,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
 <!ENTITY pref_titlebar_mode_url "Pagina-adres tonen">
 
-<!ENTITY pref_dynamic_toolbar "Titelbalk verbergen tijdens scrollen">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Titelbalk scrollen">
 
 <!ENTITY history_removed "Pagina verwijderd">
 
