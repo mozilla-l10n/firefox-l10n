@@ -36,7 +36,7 @@
 <!ENTITY url_bar_default_text "Ievadiet adresi vai meklējamo frāzi">
 
 <!ENTITY bookmark "Grāmatzīme">
-<!ENTITY bookmark_added "Krāmatzīme pievienota">
+<!ENTITY bookmark_added "Grāmatzīme pievienota">
 <!ENTITY bookmark_removed "Grāmatzīme aizvākta">
 <!ENTITY bookmark_updated "Grāmatzīme atjaunināta">
 <!ENTITY bookmark_options "Iestatījumi">
@@ -60,19 +60,19 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; cilnes">
-<!ENTITY new_tab_opened "Atvēŗta jauna cilne">
+<!ENTITY new_tab_opened "Atvērta jauna cilne">
 
 <!ENTITY settings "Iestatījumi">
 <!ENTITY settings_title "Iestatījumi">
 <!ENTITY pref_category_advanced "Papildus">
-<!ENTITY pref_category_customize "Pielāgot">
-<!ENTITY pref_category_search3 "Meklēt">
+<!ENTITY pref_category_customize "Pielāgošana">
+<!ENTITY pref_category_search3 "Meklēšana">
 <!ENTITY pref_category_display "Attēlošana">
 <!ENTITY pref_category_privacy_short "Privātums">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datu izvēles">
-<!ENTITY pref_category_installed_search_engines "Instalētie meklētāji">
-<!ENTITY pref_category_add_search_providers "Pievienot vairāk meklētājus">
+<!ENTITY pref_category_installed_search_engines "Pieejamie meklētāji">
+<!ENTITY pref_category_add_search_providers "Pievienot meklētājus">
 <!ENTITY pref_category_search_restore_defaults "Atjaunot meklētājus">
 <!ENTITY pref_search_restore_defaults "Atjaunot noklusēto">
 <!ENTITY pref_search_restore_defaults_summary "Atjaunot noklusēto">
@@ -89,7 +89,7 @@
 <!ENTITY pref_category_home_panels "Paneļi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Pielāgot">
+<!ENTITY pref_header_customize "Pielāgošana">
 <!ENTITY pref_header_display "Attēlošana">
 <!ENTITY pref_header_privacy_short "Privātums">
 <!ENTITY pref_header_help "Palīdzība">
@@ -97,9 +97,9 @@
 <!ENTITY pref_header_devtools "Izstrādātāju rīki">
 
 <!ENTITY pref_cookies_menu "Sīkdatnes">
-<!ENTITY pref_cookies_accept_all "Aktivēts">
-<!ENTITY pref_cookies_not_accept_foreign "Aktivēts, neskaitot 3 puses">
-<!ENTITY pref_cookies_disabled "Deaktivēts">
+<!ENTITY pref_cookies_accept_all "Aktivētas">
+<!ENTITY pref_cookies_not_accept_foreign "Aktivētas, neskaitot 3 pušu">
+<!ENTITY pref_cookies_disabled "Deaktivētas">
 
 <!ENTITY pref_donottrack_menu "Sekošana">
 <!ENTITY pref_donottrack_disallow_tracking "Teikt mājas lapām, ka nevēlos, lai mani izseko">
@@ -147,7 +147,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Saglabātās paroles">
 <!ENTITY pref_private_data_cache "Kešatmiņu">
 <!ENTITY pref_private_data_offlineApps "Mājas lapu saglabātos datus">
-<!ENTITY pref_private_data_siteSettings2 "LApu iestatījumus">
+<!ENTITY pref_private_data_siteSettings2 "Lapu iestatījumus">
 <!ENTITY pref_private_data_downloadFiles "Lejupielādētos failus">
 
 
@@ -192,8 +192,8 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Automātiska atjauninājumu lejupielāde">
-<!ENTITY pref_update_autodownload_wifi "Tikap pa Wi-fi">
+<!ENTITY pref_update_autodownload2 "Automātiska atjauninājumu ielāde">
+<!ENTITY pref_update_autodownload_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nekad">
 <!ENTITY pref_update_autodownload_always "Vienmēr">
 
@@ -209,7 +209,7 @@ size. -->
 <!ENTITY share_image_failed "Nevar dalīties ar šo attēlu">
 <!ENTITY save_as_pdf "Saglabāt kā PDF">
 <!ENTITY find_in_page "Meklēt lapā">
-<!ENTITY desktop_mode "Pāriet uz pilno lapu">
+<!ENTITY desktop_mode "Izmantot lapas pilno versiju">
 <!ENTITY tools "Rīki">
 <!ENTITY new_tab "Jauna cilne">
 <!ENTITY new_private_tab "Jauna privātā cilne">
