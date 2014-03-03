@@ -23,6 +23,7 @@
 <!ENTITY clearPrivateData.logins "Aktywne zalogowania">
 
 <!ENTITY optionsHeader.privacy.passwords.label "Pamiętaj hasła">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Wyświetlaj przyciski nawigacji">
 <!ENTITY doNotTrack.title "Ograniczanie śledzenia">
 <!ENTITY doNotTrack.options.doNotTrack "Informuj witryny, że użytkownik nie chce być śledzony">
 <!ENTITY doNotTrack.options.doTrack "Informuj witryny, że użytkownik chce być śledzony">
