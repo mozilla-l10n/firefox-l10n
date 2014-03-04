@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personleg adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Påminn meg seinare">
+<!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
@@ -167,7 +169,7 @@
 <!ENTITY highestPriorityCmd.accesskey "ø">
 <!ENTITY fileCarbonCopyCmd.label "Send ein kopi til">
 <!ENTITY fileCarbonCopyCmd.accesskey "k">
-<!ENTITY fileHereMenu.label "Arkiver her">
+<!ENTITY fileHereMenu.label "Lagre her">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
