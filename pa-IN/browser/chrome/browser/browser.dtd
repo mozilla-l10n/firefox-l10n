@@ -597,13 +597,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 <!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰੀਨ'ਚ ਵੇਖੋ">
 
-
 <!ENTITY zoomOutButton.tooltip          "ਜ਼ੂਮ ਆਉਟ">
 <!ENTITY zoomInButton.tooltip           "ਜ਼ੂਮ ਇਨ">
 <!ENTITY zoomControls.label             "ਜ਼ੂਮ ਕੰਟਰੋਲ">
 
 <!ENTITY quitApplicationCmdWin.label       "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+<!ENTITY quitApplicationCmdWin.tooltip     "Exit &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ਬਾਹਰ"> 
@@ -738,6 +738,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "ਹੁਣੇ ਨਹੀਂ">
 
+<!ENTITY customizeMode.tabTitle "Customize &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.label "Menu and toolbars">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Additional Tools and Features">
+<!ENTITY customizeMode.menuAndToolbars.empty "Want more tools?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Choose from thousands of add-ons">
+<!ENTITY customizeMode.restoreDefaults "Restore Defaults">
+<!ENTITY customizeMode.toolbars "Show / Hide Toolbars">
+<!ENTITY customizeMode.titlebar "Title Bar">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ਗੱਲਬਾਤ ਫੋਕਸ">
 <!ENTITY social.chatBar.accesskey "c">
@@ -781,3 +790,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!ENTITY uiTour.infoPanel.close "Close">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+<!ENTITY appMenuEdit.label             "Edit">
+<!ENTITY appMenuFind.label             "Find…">
+<!ENTITY appMenuGettingStarted.label   "Getting Started">
+<!ENTITY appMenuSafeMode.label         "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY appMenuSidebars.label         "Sidebars">
+<!ENTITY appMenuToolbarLayout.label    "Toolbar Layout…">
+<!ENTITY appMenuUnsorted.label         "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label     "Web Developer">

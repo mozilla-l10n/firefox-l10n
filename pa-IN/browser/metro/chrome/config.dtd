@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "ਖੋਜ">
-<!ENTITY newpref.label          "ਨਵੀਂ ਪਸੰਦ ਸ਼ਾਮਲ">
-<!ENTITY addpref.name           "ਨਾਂ">
-<!ENTITY addpref.value          "ਮੁੱਲ">
+<!ENTITY empty.label            "Search">
+<!ENTITY addpref.name           "Name">
 
-<!ENTITY cancel.label           "ਰੱਦ ਕਰੋ">
-<!ENTITY reset.label            "ਮੁੜ-ਸੈੱਟ">
-<!ENTITY done.label             "ਮੁਕੰਮਲ">
+<!ENTITY cancel.label           "Cancel">
+<!ENTITY toggle.label           "Toggle">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
+
+<!ENTITY string.placeholder     "Enter a string">
+<!ENTITY number.placeholder     "Enter a number">
