@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Dine resultat">
 
-<!ENTITY appbarErrorConsole.label   "Opne feilkonsoll">
-<!ENTITY appbarJSShell.label        "Opne JavaScript-shell">
-<!ENTITY appbarFindInPage2.label    "Finn på sida">
-<!ENTITY appbarViewOnDesktop2.label "Vis på skrivebordet">
-<!ENTITY appbarMSMetaData2.label    "Hent app for denne nettstaden">
+<!ENTITY appbarErrorConsole.label      "Opne feilkonsoll">
+<!ENTITY appbarJSShell.label           "Opne JavaScript-shell">
+<!ENTITY appbarFindInPage2.label       "Finn på sida">
+<!ENTITY appbarRelaunchInDesktop.label "Start igjen på skrivebordet">
+<!ENTITY appbarMSMetaData2.label       "Hent app for denne nettstaden">
+<!ENTITY appbarViewPageSource.label    "Vis kjeldekode">
 
 <!ENTITY topSitesHeader.label        "Toppliste">
 <!ENTITY bookmarksHeader.label       "Bokmerke">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Ser du etter fanene dine? Trekk ned eller høgreklikk">
+<!ENTITY firstRunTopSites.label "Gå til nettstadane du besøkjer oftast">
+<!ENTITY firstRunBookmarks.label "Finn sider du har lagra for seinare bruk">
+<!ENTITY firstRunMenu.label "Få tilgang til fleire funksjonar og innstillingar">
+<!ENTITY firstRunHistory.label "Sjå kvar du har vore på nettet">
+<!ENTITY firstRunWelcome.label "Velkomen til &brandShortName;">
+<!ENTITY firstRunDifferent.label "Annleis frå grunnen av">

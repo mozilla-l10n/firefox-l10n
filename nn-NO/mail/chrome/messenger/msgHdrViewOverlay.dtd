@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Som svar til">
 <!ENTITY originalWebsite4.label "Nettstad">
 
-<!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
-<!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldinga">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
