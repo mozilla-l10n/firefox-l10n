@@ -89,7 +89,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Ikkje støttet for dette toolbox-målet">
+<!ENTITY options.toolNotSupported.label  "* Ikkje støtta for dette toolbox-målet">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -100,7 +100,7 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
-<!ENTITY options.webconsole.label            "Nettlesarkonsoll">
+<!ENTITY options.webconsole.label            "Webkonsoll">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console,
@@ -108,6 +108,11 @@
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Slå på persistente loggar">
 <!ENTITY options.enablePersistentLogging.tooltip  "Dersom du slår på denne innstillinga, vil nettlesarkonsollen ikkje tøme utdata kvar gong du går til ei ny side">
+
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Enable timestamps">
+<!ENTITY options.timestampMessages.tooltip    "If you enable this option commands and output in the Web Console will display a timestamp">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
@@ -118,5 +123,5 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Vis Gecko-plattformdata">
+<!ENTITY options.showPlatformData.label    "Vis Gecko-plattform-data">
 <!ENTITY options.showPlatformData.tooltip  "Dersom du slår på denne innstillinga vil JavaScript-profilering rapportere data som også gjeld Geckos plattformsymbol">
