@@ -18,14 +18,16 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: About your browser
 
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: Customize with add-ons
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.org/mobile
 #define bookmarks_support Firefox: Support
 
+# LOCALIZATION NOTE (bookmarks_marketplace):
+# link title for https://marketplace.firefox.com
+#define bookmarks_marketplace Firefox Marketplace
 
 #unfilter emptyLines
