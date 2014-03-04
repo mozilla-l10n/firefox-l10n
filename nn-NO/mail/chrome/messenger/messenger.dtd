@@ -128,7 +128,7 @@
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Menylinje">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Meldingslinje">
 <!ENTITY showMessengerToolbarCmd.accesskey "e">
@@ -566,6 +566,18 @@
 <!ENTITY buttonMenuForwardAsInline.label "Vidaresend innbunde">
 <!ENTITY buttonMenuForwardAsAttachment.label "Vidaresend som vedlegg">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
@@ -716,8 +728,8 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "d">
 <!ENTITY contextMoveMsgMenu.label "Flytt til">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Nyleg">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Sist brukt">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
@@ -788,27 +800,6 @@
 <!ENTITY contextUnmute.label "Slå på lyd">
 <!ENTITY contextUnmute.accesskey "å">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; trur denne meldinga er uønskt.">
-<!ENTITY junkBarButton1.label "Ønskt">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Av omsyn til personvern har &brandShortName; blokkert eksternt innhald i denne meldinga.">
-<!ENTITY loadRemoteContentButton3.label "Last inn eksternt innhald">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Denne meldinga kan vere svindel">
-<!ENTITY removePhishingBarButton1.label "Ignorer åtvaring">
-<!ENTITY disablePhishingWarning1.label "Slå av svindelattkjenning for alle meldingar">
-<!ENTITY reportPhishingError1.label "Denne meldinga ser ikkje ut til å vere svindel.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorer">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Send kvittering">
-<!ENTITY mdnBarSendButton2.accesskey "S">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -869,7 +860,7 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagre lenke som …">
 <!ENTITY saveLinkAsCmd.accesskey "r">
-<!ENTITY saveImageAsCmd.label "Lagre bildet som …">
+<!ENTITY saveImageAsCmd.label "Lagre bilde som …">
 <!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">

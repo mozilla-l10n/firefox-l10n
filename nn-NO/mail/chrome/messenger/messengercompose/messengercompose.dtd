@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personleg adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Minn meg på det seinare">
+<!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
@@ -277,7 +279,7 @@
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
-<!ENTITY attachFile.label "Legg ved fil(er) …">
+<!ENTITY attachFile.label "Legg ved filer …">
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachCloud.label "Filelink …">
 <!ENTITY attachCloud.accesskey "i">
