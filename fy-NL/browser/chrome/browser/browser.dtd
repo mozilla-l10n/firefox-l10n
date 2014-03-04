@@ -181,8 +181,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Blêdwizers">
 <!ENTITY bookmarksMenuButton.unsorted.label "Net sortearre blêdwizers">
-<!ENTITY viewBookmarksSidebar.label         "Yn sidebalke toane">
-<!ENTITY viewBookmarksToolbar.label         "Blêdwizerarkbalke besjen">
+<!ENTITY viewBookmarksSidebar2.label        "Blêdwizersydbalke werjaan">
+<!ENTITY viewBookmarksToolbar.label         "Blêdwizerarkbalke werjaan">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
