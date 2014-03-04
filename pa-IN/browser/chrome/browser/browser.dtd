@@ -14,6 +14,11 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
+
+<!ENTITY appmenu.tooltip                     "Open menu">
+<!ENTITY navbarOverflow.label                "More tools…">
+
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -91,6 +96,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ਸਭ ਟੈਬ ਵੇਖੋ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+<!ENTITY fxaSignIn.label "Sign in to &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "&brandShortName; is now syncing">
+<!ENTITY syncStartPanel.subTitle "You can manage &syncBrand.shortName.label; in Options.">
+<!ENTITY syncStartPanel.subTitleUnix "You can manage &syncBrand.shortName.label; in Preferences.">
+<!ENTITY syncErrorPanel.heading "Cannot connect to &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Please sign in to resume syncing.">
+<!ENTITY syncErrorPanel.signInButton.label "Sign In">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
+
 <!ENTITY fullScreenMinimize.tooltip "ਨਿਊਨਤਮ">
 <!ENTITY fullScreenRestore.tooltip "ਮੁੜ ਸਟੋਰ">
 <!ENTITY fullScreenClose.tooltip "ਬੰਦ ਕਰੋ">
@@ -111,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY editThisBookmarkCmd.label "Edit This Bookmark">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "ਇਹ ਪੇਜ਼ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY sharePageCmd.commandkey "S">
@@ -123,6 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ਇਹ ਵਿਡੀਓ ਸਾਂਝੀ ਕਰੋ">
 <!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY feedsMenu.label "Subscribe">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenuitem.label "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
@@ -175,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 <!ENTITY bookmarksMenuButton.unsorted.label "ਨਾ-ਲੜੀਬੱਧ ਹੋਏ ਬੁੱਕਮਾਰਕ">
 <!ENTITY viewBookmarksSidebar.label         "ਬਾਹੀ 'ਚ ਵੇਖੋ">
+<!ENTITY viewBookmarksSidebar2.label        "View Bookmarks Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -339,16 +357,36 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "ਸਭ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "ਸੋਧ">
-<!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
-<!ENTITY appMenuToolbarLayout.label "…ਟੂਲਬਾਰ ਲੇਆਉਟ">
-<!ENTITY appMenuSidebars.label "ਬਾਹੀ">
-<!ENTITY appMenuFind.label "…ਖੋਜ">
-<!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
-<!ENTITY appMenuWebDeveloper.label "ਵੈੱਬ ਡਿਵੈਲਪਰ">
-<!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
-<!ENTITY appMenuSafeMode.label "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ ਚਲਾਓ">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuCustomize.tooltip "Customize the Menu and Toolbars">
+<!ENTITY appMenuCustomizeExit.label "Exit Customize">
+<!ENTITY appMenuCustomizeExit.tooltip "Finish Customizing">
+<!ENTITY appMenuHistory.label "History">
+<!ENTITY appMenuHistory.showAll.label "Show All History">
+<!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
+<!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
+<!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
+<!ENTITY appMenuHelp.tooltip "Open Help Menu">
+
+<!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Add to Menu">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Move to Toolbar">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Move to Menu">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remove from Toolbar">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Remove from Menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Add More Items…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 
 <!ENTITY openCmd.commandkey           "l">
@@ -674,7 +712,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY socialToolbar.title        "ਸਮਾਜਿਕ ਟੂਲਬਾਰ ਬਟਨ">
-<!ENTITY social.notLoggedIn.label   "ਲਾਗਇਨ ਨਹੀਂ ਹੈ">
 
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
@@ -742,3 +779,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "ਇਹ ਸ਼ਰਮਨਾਕ ਹੈ। ਅਸੀਂ ਇਹ ਵੈੱਬ ਪੇਜ਼ ਵੇਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਅਤੇ ਇਹ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ।">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕਣ।">
 <!ENTITY tabCrashed.tryAgain "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
+
+<!ENTITY uiTour.infoPanel.close "Close">
