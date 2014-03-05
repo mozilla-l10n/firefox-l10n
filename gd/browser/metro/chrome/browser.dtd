@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Air ais">
 <!ENTITY forward.label         "Air adhart">
 <!ENTITY newtab.label          "Taba ùr">
+<!ENTITY newPrivateTab.label   "Taba prìobhaideach ùr">
 <!ENTITY closetab.label        "Dùin an taba">
 
 <!ENTITY autocompleteResultsHeader.label  "Na toraidhean">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +120,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "A bheil na tabaichean a dhìth ort? Cha leig thu leas ach tarraing a-nuas no briogadh deas a dhèanamh">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Faic càit an robh thu air an lìon">
 <!ENTITY firstRunWelcome.label "Fàilte gu &brandShortName;">
 <!ENTITY firstRunDifferent.label "Tha an diofar san dealbhadh">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+<!ENTITY firstRunBack.label "Thoir gnogag airson tilleadh gun duilleag roimhpe">
+<!ENTITY firstRunNewTab.label "Cuir taba ùr ris airson làrach ùr a rùrachadh">
+<!ENTITY firstRunStar.label "Cleachd comharran-lìn airson duilleagan a shàbhaladh air an coimhead thu a-rithist">
+<!ENTITY firstRunPin.label "Prìnich làrach sam bith ri sgrìn tòiseachadh Windows airson grad-chothrom fhaighinn oirre">
+<!ENTITY firstRunGotIt.label "Tha mi agaibh a-nis!">

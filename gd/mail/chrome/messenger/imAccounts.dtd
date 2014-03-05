@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Gluais sìos">
 <!ENTITY account.cancelReconnection.label         "Sguir dhen ath-cheangal">
 <!ENTITY account.cancelReconnection.accesskey     "S">
+<!ENTITY account.copyDebugLog.label     "Dèan lethbhreac de loga an dì-bhugachaidh">
+<!ENTITY account.copyDebugLog.accesskey "c">
 <!ENTITY account.connecting           "A' ceangal…">
 <!ENTITY account.disconnecting        "A' dì-cheangal…">
 <!ENTITY account.disconnected         "Gun cheangal">

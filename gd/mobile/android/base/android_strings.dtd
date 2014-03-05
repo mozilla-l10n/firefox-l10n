@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
-<!ENTITY pref_category_search2 "Roghainnean luirg">
+<!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_display "Taisbeanadh">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
 <!ENTITY pref_category_add_search_providers "Cuir barrachd solaraichean luirg ris">
+<!ENTITY pref_category_search_restore_defaults "Aisig na h-einnseanan-luirg">
+<!ENTITY pref_search_restore_defaults "Aisig na bun-roghainnean">
+<!ENTITY pref_search_restore_defaults_summary "Aisig na bun-roghainnean ">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_developer_remotedebugging_docs "Barrachd fiosrachaidh">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
+
+<!ENTITY pref_category_home "Dhachaigh">
+<!ENTITY pref_category_home_panels "Panailean">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
-<!ENTITY pref_search_set_default "Suidhich mar a\u0027 bhun-roghainn">
-<!ENTITY pref_search_default "Bunaiteach">
-<!ENTITY pref_search_remove "Thoir air falbh">
+
+<!ENTITY pref_dialog_set_default "Suidhich mar a\u0027 bhun-roghainn">
+<!ENTITY pref_dialog_default "Bunaiteach">
+<!ENTITY pref_dialog_remove "Thoir air falbh">
+
 <!ENTITY pref_search_last_toast "Chan urrainn dhut an t-einnsean-luirg mu dheireadh agad a thoirt air falbh.">
+
+<!ENTITY pref_panels_show "Seall">
+<!ENTITY pref_panels_hide "Falaich">
 
 <!ENTITY datareporting_notification_title "Stats ┐ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Air ais">
 <!ENTITY find_next "Air adhart">
 <!ENTITY find_close "Dùin">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "A\u0027 tilgeil gun uidheam">
+<!ENTITY media_play "Cluich">
+<!ENTITY media_pause "Cuir \u0027na stad">
+<!ENTITY media_stop "Sguir dheth">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
 <!ENTITY pref_titlebar_mode_url "Seall seòladh na duilleige">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "Falaich bàr an tiotail nuair a nithear sgroladh">
+<!ENTITY pref_scroll_title_bar "Sgrolaich bàr an tiotail">
 
 <!ENTITY history_removed "Duilleag air a thoirt air falbh">
 

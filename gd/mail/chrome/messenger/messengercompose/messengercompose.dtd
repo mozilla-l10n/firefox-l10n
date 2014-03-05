@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "Neach-aithne ann an leabhar nan seòladh…">
 <!ENTITY newContact.accesskey "e">
 <!ENTITY attachMenu.label "Cuir ris">
-<!ENTITY attachMenu.accesskey "C">
+<!ENTITY attachMenu.accesskey "u">
 <!ENTITY attachFileCmd.label "Faidhl(ichean)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Cuir ris">
 <!ENTITY spellingButton.label "Litreachadh">
 <!ENTITY saveButton.label "Sàbhail">
+<!ENTITY printButton.label "Clò-bhuail">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Cuir an teachdaireachd an-dràsta">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Gearr às">
 <!ENTITY copyButton.tooltip             "Dèan lethbhreac">
 <!ENTITY pasteButton.tooltip            "Cuir ann">
+<!ENTITY printButton.tooltip "Clò-bhuail an teachdaireachd seo">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
