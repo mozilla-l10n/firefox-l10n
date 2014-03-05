@@ -252,7 +252,7 @@
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuCustomize.tooltip "Personalizza menu e barre degli strumenti">
 <!ENTITY appMenuCustomizeExit.label "Termina personalizzazione">
-<!ENTITY appMenuCustomizeExit.tooltip "Chiudi la scheda personalizzazione">
+<!ENTITY appMenuCustomizeExit.tooltip "Chiudi la scheda di personalizzazione">
 <!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Visualizza la cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
