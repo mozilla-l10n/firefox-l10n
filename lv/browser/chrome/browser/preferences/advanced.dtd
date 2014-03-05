@@ -104,9 +104,9 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Uzzināt vairāk">
 
-<!ENTITY healthReportSection.label       "&brandShortName; veselības ziņojums">
-<!ENTITY healthReportDesc.label          "Palīdz izprast jūsu pārlūka veiktspēju un sūta šos datus par pārlūka veselību &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; veselības ziņojumu">
+<!ENTITY healthReportSection.label       "&brandShortName; stāvokļa ziņojums">
+<!ENTITY healthReportDesc.label          "Palīdz izprast jūsu pārlūka veiktspēju un sūta šos datus par pārlūka stāvokli &vendorShortName;">
+<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; stāvokļa ziņojumu">
 <!ENTITY enableHealthReport.accesskey    "v">
 <!ENTITY healthReportLearnMore.label     "Uzzināt vairāk">
 
