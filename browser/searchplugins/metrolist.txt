@@ -1,6 +1,7 @@
-googlemetrofx
-yahoo-en-GBmetrofx
-bbc-alba
 amazon-en-GB
+bbc-alba
+duckduckgo
 faclair-beag
+googlemetrofx
 wikipedia-gd
+yahoo-en-GBmetrofx
