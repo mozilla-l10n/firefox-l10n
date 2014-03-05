@@ -83,7 +83,7 @@
 <!ENTITY fontSizeMenu.accesskey "M">
 <!ENTITY size-xx-smallCmd.label "anabarrach beag">
 <!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "fìor bheag">
+<!ENTITY size-x-smallCmd.label "fìor-bheag">
 <!ENTITY size-x-smallCmd.accesskey "f">
 <!ENTITY size-smallCmd.label "beag">
 <!ENTITY size-smallCmd.accesskey "b">
@@ -91,7 +91,7 @@
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "mòr">
 <!ENTITY size-largeCmd.accesskey "m">
-<!ENTITY size-x-largeCmd.label "fìor mhòr">
+<!ENTITY size-x-largeCmd.label "fìor-mhòr">
 <!ENTITY size-x-largeCmd.accesskey "f">
 <!ENTITY size-xx-largeCmd.label "anabarrach mòr">
 <!ENTITY size-xx-largeCmd.accesskey "a">

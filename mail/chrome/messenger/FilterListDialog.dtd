@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Cuir na leanas tro na criathragan a thagh thu:">
 <!ENTITY folderPickerPrefix.accesskey "C">
-<!ENTITY choosethis.label "tagh am pasgan seo">
-<!ENTITY choosethisnewsserver.label "tagh am frithealaiche naidheachdan seo">
 <!ENTITY helpButton.label "Cobhair">
 <!ENTITY helpButton.accesskey "h">
 <!ENTITY closeCmd.key "W"> 

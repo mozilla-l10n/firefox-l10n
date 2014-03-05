@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Rannsaich na teachdaireachdan">
 <!ENTITY results.label               "Toraidhean">
-<!ENTITY moveHereMenu.label          "Gluais an-seo">
-<!ENTITY moveHereMenu.accesskey      "G">
 <!ENTITY moveButton.label            "Gluais gu">
 <!ENTITY moveButton.accesskey        "u">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh">
-<!ENTITY threadColumn.tooltip "Briog airson snàithean nan teachdaireachdan a thaisbeanadh"> 
-<!ENTITY fromColumn.tooltip "Briog gus a sheòrsachadh a-rèir an t-seòladair">
-<!ENTITY recipientColumn.tooltip "Briog airson a sheòrsachadh a-rèir faighteir">
-<!ENTITY subjectColumn.tooltip "Briog gus a sheòrsachadh a-rèir cuspair">
-<!ENTITY dateColumn.tooltip "Briog gus a sheòrsachadh a-rèir cinn-là">
-<!ENTITY priorityColumn.tooltip "Briog gus a sheòrsachadh a-rèir prìomhachais">
-<!ENTITY tagsColumn.tooltip "Briog gus a sheòrsachadh a-rèir nan taga">
-<!ENTITY accountColumn.tooltip "Briog gus a sheòrsachadh a-rèir cunntais">
-<!ENTITY statusColumn.tooltip "Briog gus a sheòrsachadh a-rèir cor">
-<!ENTITY sizeColumn.tooltip "Briog gus a sheòrsachadh a-rèir meud">
-<!ENTITY junkStatusColumn.tooltip "Briog gus a sheòrsachadh a-rèir na h-inbhe truilleis">
-<!ENTITY unreadColumn.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
-<!ENTITY totalColumn.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
-<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra &quot;gun leughadh/air a leughadh&quot;">
-<!ENTITY receivedColumn.tooltip "Briog gus a sheòrsachadh a-rèir a' chinn-là nuair a fhuaradh e">
-<!ENTITY starredColumn.tooltip "Briog gus a sheòrsachadh a-rèir rionnagan">
-<!ENTITY locationColumn.tooltip "Briog gus a sheòrsachadh a-rèir seòlaidh">
-<!ENTITY idColumn.tooltip "Briog gus a sheòrsachadh a-rèir an òrduigh san d' fhuaradh iad">
+<!ENTITY columnChooser2.tooltip "Tagh na colbhan a thèid a thaisbeanadh">
+<!ENTITY threadColumn2.tooltip "Taisbean snàithleanan nan teachdaireachd">
+<!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
+<!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
+<!ENTITY subjectColumn2.tooltip "Seòrsaich a-rèir cuspair">
+<!ENTITY dateColumn2.tooltip "Seòrsaich a-rèir cinn-là">
+<!ENTITY priorityColumn2.tooltip "Seòrsaich a-rèir prìomhachais">
+<!ENTITY tagsColumn2.tooltip "Seòrsaich a-rèir taga">
+<!ENTITY accountColumn2.tooltip "Seòrsaich a-rèir cunntais">
+<!ENTITY statusColumn2.tooltip "Seòrsaich a-rèir staid">
+<!ENTITY sizeColumn2.tooltip "Seòrsaich a-rèir meud">
+<!ENTITY junkStatusColumn2.tooltip "Seòrsaich a-rèir inbhe truilleis">
+<!ENTITY unreadColumn2.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
+<!ENTITY totalColumn2.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
+<!ENTITY readColumn2.tooltip "Seòrsaich a-rèir na staid leughaidh">
+<!ENTITY receivedColumn2.tooltip "Seòrsaich a-rèir cuin a fhuaras">
+<!ENTITY starredColumn2.tooltip "Seòrsaich a-rèir rionnaige">
+<!ENTITY locationColumn2.tooltip "Seòrsaich a-rèir ionaid">
+<!ENTITY idColumn2.tooltip "Seòrsaich a-rèir an òrdugh air an d'fhuaras">

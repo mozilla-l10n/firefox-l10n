@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Lorg">
-<!ENTITY newpref.label          "Cuir roghainn ùr ris">
 <!ENTITY addpref.name           "Ainm">
-<!ENTITY addpref.value          "Luach">
 
 <!ENTITY cancel.label           "Sguir dheth">
-<!ENTITY reset.label            "Ath-shuidhich">
-<!ENTITY done.label             "Deiseil">
+<!ENTITY toggle.label           "Toglaich">
 
 <!ENTITY integer.label          "Àireamh shlàn">
 <!ENTITY string.label           "Sreang">
 <!ENTITY boolean.label          "Booleanach">
+
+<!ENTITY string.placeholder     "Cuir sreang a-steach">
+<!ENTITY number.placeholder     "Cuir àireamh a-steach">
