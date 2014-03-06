@@ -17,7 +17,7 @@
 <!ENTITY appbarErrorConsole.label   "ਗਲਤੀ ਕਨਸੋਲ  ਖੋਲ੍ਹੋ">
 <!ENTITY appbarJSShell.label        "JavaScript ਸ਼ੈੱਲ ਖੋਲ੍ਹੋ">
 <!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
-<!ENTITY appbarRelaunchInDesktop.label "Relaunch in Desktop">
+<!ENTITY appbarRelaunchInDesktop.label "ਡੈਸਕਟਾਪ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY appbarMSMetaData2.label    "ਇਹ ਸਾਈਟ ਲਈ ਐਪ ਲਵੋ">
 <!ENTITY appbarViewPageSource.label    "View page source">
 
@@ -147,8 +147,8 @@
        of how they are used:
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
-<!ENTITY firstRunBack.label "Tap to go back to the previous page">
-<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
-<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
-<!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
-<!ENTITY firstRunGotIt.label "Got it!">
+<!ENTITY firstRunBack.label "ਪਿਛਲੇ ਸਫ਼ੇ ਉੱਤੇ ਜਾਣ ਲਈ ਪਿੱਛੇ ਜਾਓ ਨੂੰ ਛੂਹੋ">
+<!ENTITY firstRunNewTab.label "ਨਵੀਂ ਸਾਈਟ ਖੋਲ੍ਹਣ ਲਈ ਨਵੀਂ ਟੈਬ ਜੋੜੋ">
+<!ENTITY firstRunStar.label "ਸਫ਼ੇ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਵੇਖਣ ਲਈ ਬੁੱਕਮਾਰਕ ਵਰਤੋਂ">
+<!ENTITY firstRunPin.label "ਤੁਰੰਤ ਵਰਤੋਂ ਕਰਨ ਲਈ ਕਿਸੇ ਵੀ ਸਾਈਟ ਨੂੰ ਆਪਣੀ Windows Start ਸਕਰੀਨ ਵਿੱਚ ਪਿੰਨ ਕਰੋ">
+<!ENTITY firstRunGotIt.label "ਪਤਾ ਲੱਗ ਗਿਆ!">

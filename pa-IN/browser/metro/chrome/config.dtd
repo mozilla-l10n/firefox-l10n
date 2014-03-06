@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "Search">
-<!ENTITY addpref.name           "Name">
+<!ENTITY empty.label            "ਖੋਜ">
+<!ENTITY addpref.name           "ਨਾਂ">
 
-<!ENTITY cancel.label           "Cancel">
-<!ENTITY toggle.label           "Toggle">
+<!ENTITY cancel.label           "ਰੱਦ ਕਰੋ">
+<!ENTITY toggle.label           "ਬਦਲੋ">
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">

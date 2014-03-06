@@ -8,11 +8,11 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Check for updates">
+<!ENTITY update.checkForUpdatesButton.label       "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "Restart to Update">
+<!ENTITY update.updateButton.label                "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Apply Update…">
+<!ENTITY update.applyButtonBillboard.label        "…ਅੱਪਡੇਟ ਲਾਗੂ ਕਰੋ">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
