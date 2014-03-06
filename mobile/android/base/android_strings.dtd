@@ -85,8 +85,8 @@
 <!ENTITY pref_developer_remotedebugging_docs "ਹੋਰ ਜਾਣੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
-<!ENTITY pref_category_home "Home">
-<!ENTITY pref_category_home_panels "Panels">
+<!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
+<!ENTITY pref_category_home_panels "ਪੈਨਲ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "ਕਸਟਮਾਈਜ਼">
@@ -243,9 +243,9 @@ size. -->
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_casting_to "Casting to Device">
-<!ENTITY media_play "Play">
-<!ENTITY media_pause "Pause">
-<!ENTITY media_stop "Stop">
+<!ENTITY media_play "ਚਲਾਓ">
+<!ENTITY media_pause "ਵਿਰਾਮ">
+<!ENTITY media_stop "ਰੋਕੋ">
 
 <!ENTITY contextmenu_open_new_tab "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_open_private_tab "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
