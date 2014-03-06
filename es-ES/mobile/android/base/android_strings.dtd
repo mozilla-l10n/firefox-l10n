@@ -68,6 +68,8 @@
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_panels "Paneles">
+<!ENTITY pref_home_add_panel "Añadir panel">
+<!ENTITY home_add_panel_title "Añadir panel nuevo">
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Visualización">
 <!ENTITY pref_header_privacy_short "Privacidad">

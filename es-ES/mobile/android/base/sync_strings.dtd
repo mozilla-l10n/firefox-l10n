@@ -114,6 +114,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "Conectarse">
 <!ENTITY fxaccount_update_credentials_unknown_error "No se ha podido iniciar sesión">
 <!ENTITY fxaccount_status_header "Cuenta de Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Conectado como">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
 <!ENTITY fxaccount_status_needs_verification2 "Su cuenta necesita ser verificada. Toque para volver a enviar el mensaje de verificación.">
