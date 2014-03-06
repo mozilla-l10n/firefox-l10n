@@ -70,10 +70,6 @@
 <!ENTITY useService.label "Używaj usługi instalowania aktualizacji działającej w tle">
 <!ENTITY useService.accesskey "U">
 
-<!ENTITY updateOthers.label "Aktualizacje automatyczne">
-<!ENTITY enableAddonsUpdate3.label "Dodatki">
-<!ENTITY enableAddonsUpdate3.accesskey "D">
-
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label      "Ustawienia…">
 <!ENTITY showSettings.accesskey  "U">
