@@ -83,8 +83,8 @@
 <!ENTITY netTimeout.title "Przekroczono limit czasu połączenia">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Nieznany protokół">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Nieznany protokół">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Możliwe, że aby otworzyć ten adres, konieczna jest instalacja dodatkowego oprogramowania.</li>
 </ul>
