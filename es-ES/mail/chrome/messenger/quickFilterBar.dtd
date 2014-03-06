@@ -8,7 +8,6 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Barra de filtrado rápido">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Mostrar/ocultar la barra de filtrado rápido">
 <!ENTITY quickFilterBar.sticky.tooltip "Mantener filtros aplicados al cambiar de carpetas">
-<!ENTITY quickFilterBar.barLabel.label "Filtro rápido:">
 <!ENTITY quickFilterBar.unread.label "No leídos">
 <!ENTITY quickFilterBar.unread.tooltip "Mostrar sólo los mensajes no leídos">
 <!ENTITY quickFilterBar.starred.label "Con estrella">
