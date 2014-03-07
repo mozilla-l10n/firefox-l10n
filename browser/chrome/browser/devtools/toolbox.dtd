@@ -30,6 +30,7 @@
 <!ENTITY options.disableCache.tooltip "Attivando questa opzione, la cache verrà disattivata per la scheda corrente. Se la scheda o gli strumenti per sviluppatori vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.selectDefaultTools.label "Strumenti di sviluppo predefiniti di Firefox">
 <!ENTITY options.selectAdditionalTools.label "Strumenti di sviluppo installati da componenti aggiuntivi">
+<!ENTITY options.selectEnabledToolboxButtons.label "Pulsanti disponibili">
 <!ENTITY options.toolNotSupported.label "* Non supportato per il target corrente degli strumenti">
 <!ENTITY options.selectDevToolsTheme.label "Scelta del tema:">
 <!ENTITY options.darkTheme.label "Tema scuro">
