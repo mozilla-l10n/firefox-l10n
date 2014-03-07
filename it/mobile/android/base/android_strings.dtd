@@ -69,6 +69,7 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_panels "Pannelli">
 <!ENTITY pref_home_add_panel "Aggiungi pannello">
+<!ENTITY home_add_panel_empty "Non è stato trovato alcun pannello da aggiungere.">
 <!ENTITY home_add_panel_title "Nuovo pannello">
 <!ENTITY pref_header_customize "Personalizzazione">
 <!ENTITY pref_header_display "Visualizzazione">
