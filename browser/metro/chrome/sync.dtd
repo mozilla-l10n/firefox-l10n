@@ -36,9 +36,9 @@
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!-- Flyout when connected and functioning normally -->
-<!ENTITY sync.flyout.connected.account                    "Account:">
-<!ENTITY sync.flyout.connected.device                     "Your device:">
-<!ENTITY sync.flyout.connected.disconnect                 "Disconnect">
+<!ENTITY sync.flyout.connected.account                    "ਅਕਾਊਂਟ:">
+<!ENTITY sync.flyout.connected.device                     "ਤੁਹਾਡਾ ਜੰਤਰ:">
+<!ENTITY sync.flyout.connected.disconnect                 "ਡਿਸ-ਕੁਨੈਕਟ">
 <!ENTITY sync.flyout.connected.disconnectWarningHeader    "Disconnect your device with &syncBrand.shortName.label;?">
 <!ENTITY sync.flyout.connected.disconnectWarning          "All your personal data on both this device and &syncBrand.shortName.label; account will remain intact.">
 <!ENTITY sync.flyout.connected.cancel                     "ਰੱਦ ਕਰੋ">
@@ -54,5 +54,5 @@
 <!ENTITY sync.flyout.pairNewDevice.failure                "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!-- Flyout when a device has been successfully paired -->
-<!ENTITY sync.flyout.pairSuccess.description1             "The new device has been successfully added.">
+<!ENTITY sync.flyout.pairSuccess.description1             "ਨਵਾਂ ਜੰਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਜੋੜਿਆ ਜਾ ਚੁੱਕਾ ਹੈ।">
 <!ENTITY sync.flyout.pairSuccess.description2             "Your &syncBrand.shortName.label; data is now being downloaded in the background. Your remote tabs can be found on &brandShortName; Start Page.">

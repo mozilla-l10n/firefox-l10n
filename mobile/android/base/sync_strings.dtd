@@ -133,32 +133,32 @@
 <!ENTITY fxaccount_policy_linkprivacy 'ਪਰਾਈਵੇਸੀ ਨੀਤੀ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
-<!ENTITY fxaccount_getting_started_description 'Sign in to sync your tabs, bookmarks, passwords &amp; more.'>
+<!ENTITY fxaccount_getting_started_description 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੀਏ'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header 'ਫਾਇਰਫਾਕਸ ਅਕਾਊਂਟ ਬਣਾਓ'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Must be at least 8 characters'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox online services.'>
+<!ENTITY fxaccount_create_account_policy_text 'ਅੱਗੇ ਜਾਣ ਨਾਲ, ਮੈਂ  ਫਾਇਰਫਾਕਸ ਆਨਲਾਈਨ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਤੇ &formatS2; ਨਾਲ ਸਹਿਮਤ ਹਾਂ'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Already have an account? Sign in'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਅਕਾਊਂਟ ਹੈ? ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 ਜਾਂ ਪਹਿਲਾਂ'>
-<!ENTITY fxaccount_create_account_unknown_error 'Could not create account'>
+<!ENTITY fxaccount_create_account_unknown_error 'ਅਕਾਊਂਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ'>
 
-<!ENTITY fxaccount_account_create_not_allowed 'Cannot create account'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'You must meet certain age requirements to create an account.'>
+<!ENTITY fxaccount_account_create_not_allowed 'ਅਕਾਊਂਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'ਤੁਹਾਨੂੰ ਇੱਕ ਅਕਾਊਂਟ ਬਣਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਸ਼ਰਤਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'ਹੋਰ ਜਾਣੋ'>
 
 <!ENTITY fxaccount_confirm_account_header 'ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ'>
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'A verification link has been sent to &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Resend email'>
+<!ENTITY fxaccount_confirm_account_verification_link 'ਜਾਂਚ ਲਿੰਕ &formatS; ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ'>
+<!ENTITY fxaccount_confirm_account_resend_email 'ਈਮੇਲ ਫੇਰ ਭੇਜੋl'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verification email sent'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Couldn\&apos;t send verification email'>
 

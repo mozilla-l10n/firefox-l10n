@@ -9,7 +9,7 @@
 <!ENTITY back.label            "ਪਿੱਛੇ">
 <!ENTITY forward.label         "ਅੱਗੇ">
 <!ENTITY newtab.label          "ਨਵੀਂ ਟੈਬ">
-<!ENTITY newPrivateTab.label   "New Private Tab">
+<!ENTITY newPrivateTab.label   "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ">
 <!ENTITY closetab.label        "ਟੈਬ ">
 
 <!ENTITY autocompleteResultsHeader.label  "ਤੁਹਾਡੇ ਲਈ ਨਤੀਜੇ">
@@ -19,7 +19,7 @@
 <!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY appbarRelaunchInDesktop.label "ਡੈਸਕਟਾਪ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY appbarMSMetaData2.label    "ਇਹ ਸਾਈਟ ਲਈ ਐਪ ਲਵੋ">
-<!ENTITY appbarViewPageSource.label    "View page source">
+<!ENTITY appbarViewPageSource.label    "ਪੇਜ਼ ਸਰੋਤ ਵੇਖੋ">
 
 <!ENTITY topSitesHeader.label        "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY bookmarksHeader.label       "ਬੁੱਕਮਾਰਕ">
