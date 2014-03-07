@@ -9,10 +9,10 @@
 <!ENTITY optionsHeader.title                                     "ਚੋਣਾਂ">
 <!ENTITY optionsHeader.char.title                                "ਅੱਖਰ ਇੰਕੋਡਿੰ">
 <!ENTITY optionsHeader.char.autodetect.label                     "ਆਪੇ-ਖੋਜ">
-<!ENTITY optionsHeader.char.options.label                        "Show encoding options on the App Bar">
+<!ENTITY optionsHeader.char.options.label                        "ਐਪ ਪੱਟੀ ਉੱਤੇ ਇੰਕੋਡਿੰਗ ਚੋਣਾਂ ਵੇਖਾਓ">
 
 <!ENTITY clearPrivateData.title                                  "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateData.label                                  "Clear your browsing history, passwords, cookies, and form data on this device">
+<!ENTITY clearPrivateData.label                                  "ਇਹ ਜੰਤਰ ਲਈ ਆਪਣਾ ਬਰਾਊਜ਼ਰ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਤੇ ਫਾਰਮ ਡਾਟਆ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearPrivateData.button                                 "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearPrivateData.done                                   "ਮੁਕੰਮਲ!">
 <!ENTITY clearPrivateData.history                                "ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ">
@@ -29,11 +29,11 @@
 <!ENTITY optionsHeader.privacy.passwords.label                   "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 <!ENTITY doNotTrack.title                                        "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY doNotTrack.options.doNotTrack                           "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ">
-<!ENTITY doNotTrack.options.doTrack                              "Tell websites that I want to be tracked">
-<!ENTITY doNotTrack.options.default                              "Do not tell websites anything about my tracking preferences">
+<!ENTITY doNotTrack.options.doTrack                              "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ">
+<!ENTITY doNotTrack.options.default                              "ਟਰੈਕ ਹੋਣ ਸਬੰਧੀ ਮੇਰੀ ਪਸੰਦ ਬਾਰੇ ਕਿਸੇ ਨੂੰ ਕੁਝ ਨਾ ਦੱਸੋ">
 <!ENTITY doNotTrack.learnMoreLink                                "ਹੋਰ ਜਾਣੋ&#x2026;">
 
-<!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
+<!ENTITY optionsHeader.reporting.title                           "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "ਟੈਲੀਮੈਂਟਰੀ">

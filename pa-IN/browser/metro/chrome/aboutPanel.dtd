@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "ਅੱਪਡੇਟ ਲਈ ਤੁਹਾਡੇ ਸਿਸਟਮ ਐਡਮਿਨ ਵਲੋਂ ਰੋਕ ਲਗਾਈ ਹੈ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; is being updated by another instance">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; ਨੂੰ ਕਿਸੇ ਹੋਰ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
