@@ -691,6 +691,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Synchroniser maintenant">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Se reconnecter à &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Synchroniser">
 
 <!ENTITY addonBarCloseButton.tooltip  "Fermer la barre des modules">
