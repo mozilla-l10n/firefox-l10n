@@ -79,7 +79,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar pré-definições">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
+     search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "DICA: Adicione qualquer sítio web à sua lista de fornecedores com um toque longo no seu campo de pesquisa.">
@@ -198,10 +198,10 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload "Atualizações automáticas">
+<!ENTITY pref_update_autodownload2 "Transferir atualizações automaticamente">
 <!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Desativado">
-<!ENTITY pref_update_autodownload_enabled "Ativado">
+<!ENTITY pref_update_autodownload_never "Nunca">
+<!ENTITY pref_update_autodownload_always "Sempre">
 
 <!ENTITY quit "Desistir">
 
