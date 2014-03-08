@@ -114,6 +114,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "Войти">
 <!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_status_header "Учётная запись Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Вошёл как">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: включена">
 <!ENTITY fxaccount_status_needs_verification2 "Ваша учетная запись должна быть подтверждена. Нажмите, чтобы снова отправить письмо для подтверждения.">
