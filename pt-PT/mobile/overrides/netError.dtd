@@ -83,8 +83,8 @@
 <!ENTITY netTimeout.title "A ligação expirou">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "O endereço não foi compreendido">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Poderá ter que instalar outro software para abrir este endereço.</li>
 </ul>
