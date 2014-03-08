@@ -478,6 +478,8 @@
 <!ENTITY syncSetup.accesskey "с">
 <!ENTITY syncSyncNowItem.label "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey "х">
+<!ENTITY syncReAuthItem.label "Присоединиться заново к &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey "и">
 <!ENTITY syncToolbarButton.label "Синхро­низация">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">
 <!ENTITY social.ok.label "OK">
