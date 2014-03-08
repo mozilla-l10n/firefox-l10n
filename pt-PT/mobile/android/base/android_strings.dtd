@@ -54,33 +54,45 @@
 <!ENTITY back "Retroceder">
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Segurança do sítio">
+<!ENTITY save "Guardar">
 
 <!ENTITY close_tab "Fechar separador">
 <!ENTITY one_tab "1 separador">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&#037;d separadores">
+<!ENTITY num_tabs2 "&formatD; separadores">
 <!ENTITY new_tab_opened "Aberto novo separador">
 
 <!ENTITY settings "Definições">
 <!ENTITY settings_title "Definições">
 <!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_search2 "Definições da pesquisa">
+<!ENTITY pref_category_search3 "Pesquisar">
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais fornecedores de pesquisa">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Restaurar motores de pesquisa">
+<!ENTITY pref_search_restore_defaults "Restaurar pré-definições">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar pré-definições">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "DICA: Adicione qualquer sítio web à sua lista de fornecedores com um toque longo no seu campo de pesquisa.">
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "DICA: Adicione qualquer sítio web à sua lista de fornecedores com um toque longo no seu campo de pesquisa.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber mais">
 <!ENTITY pref_remember_signons "Lembrar senhas">
+
+<!ENTITY pref_category_home "Página inicial">
+<!ENTITY pref_category_home_panels "Painéis">
+<!ENTITY pref_home_add_panel "Adicionar painel">
+<!ENTITY home_add_panel_title "Adicionar novo painel">
+<!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizar">
@@ -148,10 +160,15 @@ size. -->
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Dar feedback">
-<!ENTITY pref_search_set_default "Pré-definir">
-<!ENTITY pref_search_default "Pré-definido">
-<!ENTITY pref_search_remove "Remover">
+
+<!ENTITY pref_dialog_set_default "Pré-definir">
+<!ENTITY pref_dialog_default "Pré-definido">
+<!ENTITY pref_dialog_remove "Remover">
+
 <!ENTITY pref_search_last_toast "Não pode remover ou desativar o seu último motor de pesquisa.">
+
+<!ENTITY pref_panels_show "Mostrar">
+<!ENTITY pref_panels_hide "Ocultar">
 
 <!ENTITY datareporting_notification_title "Estatísticas &amp; dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
@@ -160,7 +177,7 @@ size. -->
 <!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, &brandShortName;">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
@@ -178,6 +195,9 @@ size. -->
 <!ENTITY datareporting_wifi_title "Serviços de localização da &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ajude a melhorar a geolocalização da web permitindo ao &brandShortName; obter e enviar dados anónimos da torre celular">
 
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload "Atualizações automáticas">
 <!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desativado">
@@ -196,6 +216,7 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
 <!ENTITY desktop_mode "Pedir sítio do Desktop">
+<!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Novo separador">
 <!ENTITY new_private_tab "Novo separador privado">
@@ -213,6 +234,13 @@ size. -->
 <!ENTITY find_next "Seguinte">
 <!ENTITY find_close "Fechar">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Casting no dispositivo">
+<!ENTITY media_play "Reproduzir">
+<!ENTITY media_pause "Pausar">
+<!ENTITY media_stop "Parar">
+
 <!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
 <!ENTITY contextmenu_open_private_tab "Abrir num separador privado">
 <!ENTITY contextmenu_open_in_reader "Abrir no leitor">
@@ -228,10 +256,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Pin do sítio">
 <!ENTITY contextmenu_top_sites_unpin "Unpin do sítio">
+<!ENTITY contextmenu_add_search_engine "Adicionar motor de pesquisa">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título da página">
 <!ENTITY pref_titlebar_mode_url "Mostrar endereço da página">
+
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Deslocar barra de título">
 
 <!ENTITY history_removed "Página removida">
 
@@ -247,6 +280,7 @@ size. -->
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
 
+<!ENTITY reading_list_add "Adicionar à lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
@@ -275,8 +309,8 @@ size. -->
 <!ENTITY home_top_sites_add "Adicionar um sítio">
 
 <!ENTITY home_history_title "Histórico">
-<!ENTITY home_bookmarks_empty "Os marcadores que guarda estão aqui.">
-<!ENTITY home_last_tabs_title "Os seus separadores da última vez">
+<!ENTITY home_bookmarks_empty "Marcadores que guarda estão aqui.">
+<!ENTITY home_last_tabs_title "Separadores da última vez">
 <!ENTITY home_last_tabs_open "Abrir todos os separadores da última vez">
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
 <!ENTITY home_most_recent_title "Mais recentes">
@@ -284,9 +318,9 @@ size. -->
 <!ENTITY home_reading_list_empty "Artigos que guarda para ver são apresentados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "DICA: Guarde artigos para a sua lista de leitura com um toque longo no ícone &#37;I quando ele aparecer na barra de título.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "DICA: Guarde artigos para a sua lista de leitura com um toque longo no ícone &formatI; quando ele aparecer na barra de título.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Dica: Guarde os artigos na lista de leitura carregando, quando aparecer na barra de título, no botão do modo de leitura.">
@@ -371,3 +405,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "O &brandShortName; vai reiniciar">
 <!ENTITY exit_guest_session_text "Os dados da navegação desta sessão serão eliminados.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Menu">
+<!ENTITY actionbar_done "Feito">
