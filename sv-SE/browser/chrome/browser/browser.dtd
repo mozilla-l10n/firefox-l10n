@@ -660,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "ä">
 <!ENTITY syncSyncNowItem.label        "Synka nu">
 <!ENTITY syncSyncNowItem.accesskey    "n">
+<!ENTITY syncReAuthItem.label         "Återanslut till &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "Å">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Socialt verktygsfält">
