@@ -478,6 +478,8 @@
 <!ENTITY syncSetup.accesskey "y">
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
 <!ENTITY syncSyncNowItem.accesskey "z">
+<!ENTITY syncReAuthItem.label "Riconnetti a &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
 <!ENTITY social.ok.label "OK">
