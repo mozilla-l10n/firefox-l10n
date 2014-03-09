@@ -77,4 +77,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Kirjaudu sisään">
 <!ENTITY welcome.createAccount.label "Luo tili">
 
-<!ENTITY welcome.useOldSync.label "Käytätkö Sync-palvelun vanhempaa versiota?">
+<!ENTITY welcome.useOldSync.label "Käytätkö vanhempaa versiota Sync-palvelusta?">

@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                 "Hae päivityksiä väliajoin:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;iin">
-<!ENTITY enableAppUpdate.accesskey       "T">
-<!ENTITY enableAddonsUpdate.label       "Asennettuihin lisäosiin">
-<!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label          "Kun päivityksiä &brandShortName;iin löytyy:">
-<!ENTITY modeAskMe.label                 "Kysy, mitä tehdään">
-<!ENTITY modeAskMe.accesskey             "K">
-<!ENTITY modeAutomatic.label             "Lataa ja asenna päivitykset automaattisesti">
-<!ENTITY modeAutomatic.accesskey         "L">
-<!ENTITY modeAutoAddonWarn.label        "Varoita, jos päivitys poistaa käytöstä lisäosia">
-<!ENTITY modeAutoAddonWarn.accesskey    "V">
-<!ENTITY showUpdates.label               "Näytä päivityshistoria">
-<!ENTITY showUpdates.accesskey           "N">
+<!ENTITY updateApp.label                 "&brandShortName;in päivitykset:">
+<!ENTITY updateAuto.label                "Asenna päivitykset automaattisesti (suositeltu: turvallisin)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
+<!ENTITY updateCheck.accesskey           "H">
+<!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
+<!ENTITY updateManual.accesskey          "Ä">
+<!ENTITY updateAutoAddonWarn.label       "Varoita, jos päivitys poistaa käytöstä lisäosia">
+<!ENTITY updateAutoAddonWarn.accesskey   "V">
+<!ENTITY updateHistory.label             "Näytä päivityshistoria">
+<!ENTITY updateHistory.accesskey         "N">
+<!ENTITY updateOthers.label              "Päivitä automaattisesti:">
+<!ENTITY enableAddonsUpdate3.label       "Lisäosat">
+<!ENTITY enableAddonsUpdate3.accesskey   "L">
 
 <!ENTITY useService.label                "Asenna päivitykset taustapalvelun avulla">
 <!ENTITY useService.accesskey            "u">
