@@ -43,7 +43,7 @@
 <!ENTITY setup.tosLink.label        "Términos del servicio">
 <!ENTITY setup.tosAgree2.label      "y la">
 <!ENTITY setup.ppLink.label         "Política de privacidad">
-<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree3.label      "Política de Privacidad">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 

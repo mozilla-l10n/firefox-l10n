@@ -556,7 +556,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "Inicial">
 <!ENTITY fullZoomResetCmd.accesskey     "I">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "Solo cambiar texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">

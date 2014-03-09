@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Utilizamos los informes de fallo para intentar resolver problemas y mejorar nuestros productos. Manejamos tu información como se describe en nuestro ">
 <!ENTITY crashprompt.privacyPolicyLink "Política de privacidad de &brandShortName; ">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Incluir la dirección de la página en la que estaba">
 <!ENTITY crashprompt.acceptbutton    "Enviar reportes">
 <!ENTITY crashprompt.refusebutton    "No enviar">

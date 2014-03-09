@@ -32,7 +32,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Actualizaciones disponibles en ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          "Actualizaciones disponibles en">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -40,7 +40,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Descargando actualización — ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "Descargando actualización —">
 
 <!ENTITY update.applying            "Aplicando actualización…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
