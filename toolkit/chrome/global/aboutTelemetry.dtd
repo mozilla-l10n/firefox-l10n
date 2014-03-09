@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Ukubhrawuza kuyajinga">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Ithredi iyajinga">
 
 <!ENTITY aboutTelemetry.histogramsSection "  IiHistogrem">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  IiHistogrem ziqokelelwe zizongezelelo">
 
+<!ENTITY aboutTelemetry.toggle "  Cofa ukuze utogole icandelo">
 
 <!ENTITY aboutTelemetry.emptySection "  (Akukho zingcombolo ziqokelelweyo)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Bonisa iingcombolo ezingahlelwanga kwezijingayo">
 
+<!ENTITY aboutTelemetry.filterText "  Hluza (izitringi okanye /regexp/)">
