@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ಜಾಲವೀಕ್ಷಕವು ಹ್ಯಾಂಗ್ ಆಗುತ್ತದೆ">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  ಹಿಸ್ಟೊಗ್ರಾಮ್‌ಗಳು">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ಸರಳವಾದ ಅಳತೆಗಳು">
@@ -23,9 +24,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ಆಡ್-ಆನ್‌ಗಲಿಂದ ಸಂಗ್ರಹಿಸಲಾದ ಹಿಸ್ಟೊಗ್ರಾಮ್‌ಗಳು">
 
-<!ENTITY aboutTelemetry.toggleOn "  ವಿಭಾಗವನ್ನು ವಿಸ್ತರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ">
-
-<!ENTITY aboutTelemetry.toggleOff "  ವಿಭಾಗವನ್ನು ವಿಸ್ತರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ">
 
 <!ENTITY aboutTelemetry.emptySection "  (ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ)">
 
@@ -34,3 +32,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  ಹ್ಯಾಂಗ್‌ ಸ್ಟ್ಯಾಕ್‌ಗಳಿಗಾಗಿ ಕ್ರಿಯೆಯ ಹೆಸರುಗಳನ್ನು ಪಡೆದುಕೊ">
 
 <!ENTITY aboutTelemetry.hideSymbols "  ಹ್ಯಾಂಗ್‌ಗಳಿಗಾಗಿ ಕಚ್ಛಾದ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
+
