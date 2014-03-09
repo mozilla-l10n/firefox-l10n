@@ -21,9 +21,13 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "Aquesta font es plaçada dins una bóstia negra : sos punts d'arrèst son desactivats e es ignorada per l'execucion pas a pas.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Levar aquesta font de la bóstia negra">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -76,18 +80,20 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Afichar la bóstia de filtratge de las variablas">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
 <!ENTITY debuggerUI.showOnlyEnum           "Afichar unicament las proprietats enumerablas">
-
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource           "Afichar las fonts originalas">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -98,7 +104,7 @@
 <!ENTITY debuggerUI.searchFile           "Filtrar los escripts">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
-
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
@@ -173,7 +179,7 @@
 
 <!ENTITY debuggerUI.removeAllWatch           "Suprimir totas las expressions espionas">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
-
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
