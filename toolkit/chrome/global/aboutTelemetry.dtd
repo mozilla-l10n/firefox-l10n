@@ -21,6 +21,9 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Простыя вымярэнні
 ">
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Падрабязнасці дадатка
+">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Апошнія запісы
 ">

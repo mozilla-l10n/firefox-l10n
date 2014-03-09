@@ -5,8 +5,8 @@
 <!ENTITY aboutAddons.title2 "Дадаткі">
 <!ENTITY aboutAddons.header2 "Вашы дадаткі">
 <!ENTITY aboutAddons.options "Наладжванні">
+<!ENTITY aboutAddons.browseAll "Азірнуць усе дадаткі Firefox">
 <!ENTITY addonAction.enable "Дазволіць">
 <!ENTITY addonAction.disable "Забараніць">
 <!ENTITY addonAction.uninstall "Высталяваць">
 <!ENTITY addonAction.undo "Адмяніць">
-<!ENTITY addonAction.setDefault "Прызначыць змоўчным">

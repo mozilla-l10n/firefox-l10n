@@ -173,15 +173,17 @@
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY chromeDebuggerMenu.label "Наладнік азіральніка">
+<!ENTITY browserToolboxMenu.label "Прыладаскрынка азіральніка">
+<!ENTITY browserToolboxMenu.accesskey "с">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыць прыладапаліцу распрацаўніка">
 <!ENTITY devToolbarMenu.label "Прыладапаліца распрацаўніка">
 <!ENTITY devToolbarMenu.accesskey "р">
+<!ENTITY devAppMgrMenu.label "Кіраўнік прыстасаванняў">
+<!ENTITY devAppMgrMenu.accesskey "п">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Паказаць/схаваць прылады">
 <!ENTITY devToolboxMenuItem.accesskey "п">
-<!ENTITY devToolboxMenuItem.keycode "I">
 <!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolbarToolsButton.tooltip "Паказаць/схаваць прылады распрацаўніка">
 <!ENTITY devToolbarOtherToolsButton.label "Іншыя прылады">
@@ -243,7 +245,7 @@
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Шукаць ці ўвесці адрас">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.accesskey "а">
 <!ENTITY urlbar.switchToTab.label "Пераключыцца ў устаўку:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
@@ -299,6 +301,8 @@
 <!ENTITY bookmarkThisFrameCmd.accesskey "р">
 <!ENTITY emailPageCmd.label "Даслаць спасылку…">
 <!ENTITY emailPageCmd.accesskey "с">
+<!ENTITY switchToMetroCmd.label "Перазапусціць &brandShortName; у стылі Windows 8">
+<!ENTITY switchToMetroCmd2.label "Перазапусціць у &brandShortName; для Windows 8 Touch">
 <!ENTITY savePageCmd.label "Захаваць старонку як…">
 <!ENTITY savePageCmd.accesskey "Я">
 <!ENTITY savePageCmd.accesskey2 "с">
@@ -435,6 +439,7 @@
 <!ENTITY identity.runBy "які падтрымліваецца">
 <!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
 <!ENTITY identity.permissions "Дазволы">
+<!ENTITY identity.help.tooltip "Як даведацца, ці з'яўляецца маё злучэнне з сеціўнай пляцоўкай бяспечным?">
 <!ENTITY tabsToolbar.label "Устаўкі азіральніка">
 <!ENTITY syncTabsMenu2.label "Устаўкі з іншых збудоваў">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -461,8 +466,10 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Гаворкі">
 <!ENTITY social.chatBar.accesskey "г">
-<!ENTITY social.markpage.accesskey "с">
-<!ENTITY social.marklink.accesskey "ы">
+<!ENTITY social.markpageMenu.accesskey "с">
+<!ENTITY social.markpageMenu.label "Захаваць старонку як…">
+<!ENTITY social.marklinkMenu.accesskey "л">
+<!ENTITY social.marklinkMenu.label "Захаваць спасылку як…">
 <!ENTITY getUserMedia.selectCamera.label "Здымач для падзелу:">
 <!ENTITY getUserMedia.selectCamera.accesskey "З">
 <!ENTITY getUserMedia.selectMicrophone.label "Мікрафон для падзелу:">
@@ -478,6 +485,10 @@
 <!ENTITY pluginActivateAlways.label "Дазволіць і запомніць">
 <!ENTITY pluginBlockNow.label "Заблакаваць убудову">
 <!ENTITY pluginNotification.width "35em">
+<!ENTITY tabCrashed.header "Крах устаўкі">
+<!ENTITY tabCrashed.message "Нам сорамна. Мы спрабавалі адюлюстраваць старонку Сеціва, але яна не адказвае.">
+<!ENTITY tabCrashed.checkSendReport "Расказаць &vendorShortName; пра гэты крах, каб ён быў выпраўлены.">
+<!ENTITY tabCrashed.tryAgain "Паспрабаваць зноў">
 <!ENTITY navbarCmd.accesskey "Н">
 <!ENTITY addonBarCmd.label "Паліца дадаткаў">
 <!ENTITY addonBarCmd.accesskey "д">

@@ -4,8 +4,9 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-<!ENTITY aboutAddons.title "Дадаткі: праца ў развіцці">
+<!ENTITY aboutAddons.title "Дадаткі &brandShortName;: праца ў развіцці">
 <!ENTITY aboutAddons.messageTitle "Вой!">
-<!ENTITY aboutAddons.message "Прабачце, &brandShortName; заняты працай над патрымкай дадаткаў для вас!">
-<!ENTITY aboutAddons.goBackToStart "Вярнуцца на">
-<!ENTITY aboutAddons.startPageLinkTitle "Пачатковая старонка &brandShortName;">
+<!ENTITY aboutAddons.message "Прабачце, &brandShortName; заняты працай над патрымкай дадаткаў для вас.">
+<!ENTITY aboutAddons.goBackToStartStart "Вярнуцца да ">
+<!ENTITY aboutAddons.goBacktoStartLink "Пачатковая старонка &brandShortName;">
+<!ENTITY aboutAddons.goBacktoStartEnd ".">
