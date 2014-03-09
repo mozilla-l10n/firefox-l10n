@@ -26,7 +26,7 @@
 <!ENTITY printButton.tooltip            "یہ صفحہ چھاپیں">
 
 
-
+<!ENTITY searchHeader.label             "تلاش کے نتائج">
 <!ENTITY toctab.label                   "مشمولات">
 <!ENTITY toctab.accesskey               "م">
 <!-- LOCALIZATION NOTE :
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
+<!ENTITY fullZoomResetCmd.commandkey    "۰">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY helpSearch.commandkey          "k">

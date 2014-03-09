@@ -10,11 +10,17 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
+
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• پر دبائیں">
 <!ENTITY netmonitorUI.perfNotice2         "سرانجام دہی تجزیہ شروع کرنے کے لیئے بٹن۔">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -49,6 +55,8 @@
 <!ENTITY netmonitorUI.tab.cookies         "کوکیاں">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
+
+<!ENTITY netmonitorUI.tab.params          "مساوات">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
 

@@ -11,16 +11,18 @@
 <!ENTITY window.title "ویب کنسول">
 <!ENTITY browserConsole.title "براؤزر کنسول">
 
+<!ENTITY networkPanel.requestURLColon             "یو آر ایل کی درخواست ">
+<!ENTITY networkPanel.requestMethodColon          "طریقہ فرمائش">
+<!ENTITY networkPanel.statusCodeColon             "صورت حال کا ضابطہ">
 
 
+<!ENTITY networkPanel.requestBody                 "جسد کی درخواست کریں">
 
 
-
-
-
-
-
-
+<!ENTITY networkPanel.responseHeaders             "جوابی عمل سر تحریر">
+<!ENTITY networkPanel.responseCookie              "موصولہ کوکی">
+<!ENTITY networkPanel.responseBody                "جوابی عمل جسد">
+<!ENTITY networkPanel.responseBodyCached          "کیسہ بند کوائف">
 <!ENTITY networkPanel.responseBodyUnknownType     "نامعلوم قسم کا مواد">
 <!ENTITY networkPanel.responseNoBody              "کوئی جوابی جسد نہیں">
 <!ENTITY networkPanel.responseImage               "نقش موصولہ">
@@ -62,8 +64,8 @@
   -  console.error(). -->
 
 
-
-
+<!ENTITY btnConsoleErrors       "نقائص">
+<!ENTITY btnConsoleInfo         "معلومات">
 <!ENTITY btnConsoleWarnings     "تنبیہات">
 
 
@@ -72,9 +74,12 @@
 <!ENTITY btnClear.tooltip      "ویب کنسول کی آؤٹ پٹ صاف کریں">
 
 
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.commandkey    "۰">
@@ -83,5 +88,6 @@
 <!ENTITY copyURLCmd.label     "ربط محل وقوع نقل کریں">
 <!ENTITY copyURLCmd.accesskey "ق">
 
-
-
+<!ENTITY closeCmd.key         "و">
+<!ENTITY findCmd.key          "ف">
+<!ENTITY clearOutputCtrl.key  "ل">

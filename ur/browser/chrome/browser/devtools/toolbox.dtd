@@ -4,6 +4,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
+<!ENTITY toolboxCloseButton.tooltip    "ترقی دہندہ ٹول بند کریں">
 
 
 
@@ -32,6 +33,8 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
+
+<!ENTITY options.defaultColorUnit.name "رنگ کے نام">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
@@ -39,9 +42,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label3    "کروم ٹھیک کر رہا ہے اہل بنائیں">
+<!ENTITY options.enableChrome.tooltip   "یہ اختیار اہل بنانے سے آپ دیگر ترقی دہندہ ٹول براؤزر سیاق میں استعمال کر سکتے ہیں">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableRemote.label3    "بعید ٹھیک کر رہا ہے اہل بنائیں">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -54,6 +61,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "طےشدہ Firefox ترقی دہندہ ٹول">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -90,6 +99,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
+<!ENTITY options.stylesheetAutocompletion.label      "CSS خود تکمیل کریں">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options

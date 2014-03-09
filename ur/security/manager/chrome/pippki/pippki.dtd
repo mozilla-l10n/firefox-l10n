@@ -4,7 +4,7 @@
 <!-- Values for changepassword.xul -->
 
 <!ENTITY setPassword.title  "ماسٹر پاس ورڈ تبدیل کریں">
-
+<!ENTITY setPassword.tokenName.label "سلامتی آلہ">
 <!ENTITY setPassword.oldPassword.label "حالیہ پاس ورڈ:">
 <!ENTITY setPassword.newPassword.label "نیا پاس ورڈ:">
 <!ENTITY setPassword.reenterPassword.label "نیا پاس ورڈ (دوبارہ):">
@@ -37,7 +37,7 @@
 
 <!ENTITY downloadCert.title "تصدیق نامہ ڈاؤن لوڈ کر رہا ہے">
 <!ENTITY downloadCert.message1 "آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔">
-
+<!ENTITY downloadCert.trustSSL "ویب سائٹیں شناخت کرنے کے لیے اس CA پر بھروسا کریں۔">
 <!ENTITY downloadCert.trustEmail "ای میل صارفین شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
 <!ENTITY downloadCert.trustObjSign "سافٹ ویئر تکمیل کار شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
 <!ENTITY downloadCert.message3 "کسی مقصد کے لیے اس مصدق پر بھروسے سے قبل آپ کو اس کے تصدیق نامے اور اس کی پالیسی وطریق عمل کا معائنہ کرنا چاہیے(اگردستیاب ہو)۔">
@@ -87,7 +87,10 @@
 <!ENTITY formSigning.confirmPassword "تصدیق کرنے کے لیے کہ آپ اپنا منتخب کردہ تصدیق نامہ استعمال کرتے ہوئے یہ متن پیغام دستخط کرنے پر آمادہ ہیں، ماسٹر پاس ورڈ داخل کرتے ہوئے تصدیق کریں:">
 <!-- Strings for protectedAuth dialog -->
 
+<!ENTITY protectedAuth.title "تحفظ شدہ ٹوکن توثیق کاری">
 
+<!ENTITY protectedAuth.tokenName.label "ٹوکن:">
 
-
-
+<!ENTITY certErrorDlg.title "محفوظ کنکشن ناکام ہوا">
+<!ENTITY certErrorDlg.info1 "یہ مسلہ پیش کار کی تشکیل کا ہو سکتا ہے یا پھر کوئی پیش کار کا روپ بھرنے کی کوشش کر رہا ہے۔">
+<!ENTITY certErrorDlg.info2 "اگر آپ ماضی میں اس پیش کار کے ساتھ کامیابی سے جڑے تھے تو پھر یہ نقص شاید عارضی ہے اور آپ پھر کوشش کریں۔">

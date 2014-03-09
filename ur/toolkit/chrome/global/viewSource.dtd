@@ -50,7 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.accesskey       "ن">
 <!ENTITY reloadCmd.label "پھر لوڈ کریں">
 <!ENTITY reloadCmd.accesskey "پ">
-
+<!ENTITY reloadCmd.commandkey "ر">
 <!ENTITY menu_wrapLongLines.title "لمبی سطریں ملفوف کریں"> 
 <!ENTITY menu_wrapLongLines.accesskey "ل">
 <!ENTITY menu_highlightSyntax.label "نحو نمایاں کاری">
@@ -66,10 +66,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
 <!ENTITY findOnCmd.accesskey "ڈ">
-
+<!ENTITY findOnCmd.commandkey "ف">
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
 <!ENTITY findAgainCmd.accesskey "د">
-
+<!ENTITY findAgainCmd.commandkey "گ">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "واپس">

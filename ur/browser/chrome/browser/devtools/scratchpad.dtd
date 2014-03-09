@@ -33,9 +33,11 @@
 <!ENTITY openFileCmd.accesskey        "م">
 <!ENTITY openFileCmd.commandkey       "ہ">
 
+<!ENTITY openRecentMenu.label         "Recent کھولیں">
+<!ENTITY openRecentMenu.accesskey     "R">
 
-
-
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "محفوظ کریں">
 <!ENTITY saveFileCmd.accesskey        "م">
@@ -51,17 +53,19 @@
 <!ENTITY editMenu.label               "تدوین">
 <!ENTITY editMenu.accesskey           "ت">
 
-
-
+<!ENTITY run.label                    "بھاگیں">
+<!ENTITY run.accesskey                "ب">
+<!ENTITY run.key                      "آر">
 
 <!ENTITY inspect.label                "تحقیق">
 <!ENTITY inspect.accesskey            "ت">
-
+<!ENTITY inspect.key                  "آئی">
 
 <!ENTITY display.label                "نمایش">
 <!ENTITY display.accesskey            "ی">
 <!ENTITY display.key                  "ِی">
 
+<!ENTITY pprint.label                 "خوبصورت پرنٹ">
 <!ENTITY pprint.key                   "پ">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -70,6 +74,8 @@
   -  (browser).
   -->
 
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "مشمولات">
@@ -99,15 +105,17 @@
 
 
 
-
+<!ENTITY reloadAndRun.key             "ر">
 
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+
+<!ENTITY errorConsoleCmd.commandkey   "ج">
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.key "ع">

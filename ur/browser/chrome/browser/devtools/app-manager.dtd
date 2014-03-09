@@ -41,30 +41,30 @@
 <!ENTITY connection.connectTo "جڑیں بطرف:">
 <!ENTITY connection.noDeviceFound "کوئی آلہ نہیی ملا۔ آلہ کو لگایئں">
 <!ENTITY connection.changeHostAndPort "تبدیل کریں">
-
+<!ENTITY connection.changeHostAndPortTooltip "آلہ کو جڑیں بطرف کرنے والے میزبان اور پورٹ کو تبدیل کریں۔(طےشدہ مقامی میزبان:6000)">
 <!ENTITY connection.startSimulator "سمیولیٹر کو شروع کریں">
-
+<!ENTITY connection.startSimulatorTooltip "سملیٹر کی صورت شروع کریں اور جڑیں بطرف">
 <!ENTITY connection.saveConnectionInfo "محفوظ کریں">
-
+<!ENTITY connection.saveConnectionInfoTooltip "میزبان اور پورٹ کو محفوظ کریں">
 <!ENTITY connection.connecting "جوڑ رہا ہے…">
 <!ENTITY connection.disconnecting "منقطع کر رہا ہے…">
 <!ENTITY connection.cancel "منسوخ کریں">
-
-
+<!ENTITY connection.cancelConnectTooltip "موجودہ کنکشن کی پیش روی منسوخ کریں">
+<!ENTITY connection.cancelShowSimulatorTooltip "سمیولیٹر کنکشن موڈ سے خروج کریں اور ابتدائی لقمیا پر واپس آئیں">
 <!ENTITY connection.or "یا">
 <!ENTITY connection.noSimulatorInstalled "کوئی سمیولیٹر تنصیب شدہ نہیں۔">
 <!ENTITY connection.installOneSimulator "سمیولیٹر کو تنصیب کریں">
-
+<!ENTITY connection.installOneSimulatorTooltip "متعلقہ اضافہ ڈاؤن لوڈ کر کے سمیلیٹر کا ایک ورژن تنصیب کریں">
 <!ENTITY connection.installAnotherSimulator "شامل کریں">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "متعلقہ اضافہ ڈاؤن لوڈ کر کے سمیلیٹر کا ایک اضافی ورژن تنصیب کریں">
 <!ENTITY connection.startRegisteredSimulator "شروع:">
 
 <!ENTITY projects.localApps "مقامی ایپس">
 <!ENTITY projects.addApp "شامل کریں">
 <!ENTITY projects.addPackaged "پیکج شدہ ایپ جمع کریں">
-
+<!ENTITY projects.addPackagedTooltip "اپنے کمپیوٹر سے نئے پیکج شدہ ایپ(ایک ڈائریکٹری) کو جمع کریں">
 <!ENTITY projects.addHosted "میزبان شدہ ایپ جمع کریں">
-
+<!ENTITY projects.addHostedTooltip "بعید ویب سائٹ سے ایک نئ میزبان ایپ داخل کریں(manifest.webapp مسل تک ربط) ">
 <!ENTITY projects.title "مقامی اپلی کیشن">
 <!ENTITY projects.appDetails "اپلی کیشن تفاصیل">
 <!ENTITY projects.removeAppFromList "اپلی کیشن کو ہٹائیں آس فہرست سے جس میں آُپ کام کر راے ہیں۔ یہ آلہے اور سمیلیٹر سے نہیں ہٹایا جاے گا۔ ">

@@ -49,8 +49,19 @@
 
 <!ENTITY fxaPrivacyNotice.link.label "اطلاع نامہ نجی نوعیت">
 <!ENTITY determiningAcctStatus.label     "آپ کے اکاؤنٹ کی حالت کا اندازہ لگا رہا ہے…">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "توثیق شدہ نہیں ہے۔">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 
 <!ENTITY signedInLoginFailure.beforename.label "پھر جڑنے کے لیے سائن ان کریں">
 <!ENTITY signedInLoginFailure.aftername.label "">
@@ -58,10 +69,11 @@
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
 <!ENTITY signIn.label                "سائن ان کریں">
 <!ENTITY manage.label                "بندوبست کریں">
-
+<!ENTITY disconnect.label            "منقطع کریں…">
 <!ENTITY verify.label                "ای میل توثیق کریں">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
 
+<!ENTITY welcome.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید کی رسائی کریں جہاں پر بھی آپ &brandShortName; استعمال کری۔">
 <!ENTITY welcome.signIn.label " سائن ان کریں">
 <!ENTITY welcome.createAccount.label "اکاؤنٹ بنائیں">
 
