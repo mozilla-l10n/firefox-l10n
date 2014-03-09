@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label  "Liitä">
 <!ENTITY spellingButton.label  "Oikoluku">
 <!ENTITY saveButton.label  "Tallenna">
+<!ENTITY printButton.label "Tulosta">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip  "Lähetä tämä viesti nyt">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
+<!ENTITY printButton.tooltip "Tulosta tämä viesti">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

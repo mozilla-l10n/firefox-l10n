@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey       "o">
 <!ENTITY searchDialogTitle.label      "Etsi viesteistä">
 <!ENTITY results.label                "Tulokset">
-<!ENTITY moveHereMenu.label           "Siirrä tänne">
-<!ENTITY moveHereMenu.accesskey       "t">
 <!ENTITY moveButton.label             "Siirrä kohteeseen">
 <!ENTITY moveButton.accesskey         "k">
 <!ENTITY closeCmd.key                 "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label  "Saapumisjärjestys">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
-<!ENTITY threadColumn.tooltip  "Napsauta näyttääksesi viestiketjut">
-<!ENTITY fromColumn.tooltip  "Napsauta järjestääksesi lähettäjän mukaan">
-<!ENTITY recipientColumn.tooltip  "Napsauta järjestääksesi vastaanottajan mukaan">
-<!ENTITY subjectColumn.tooltip  "Napsauta järjestääksesi aiheen mukaan">
-<!ENTITY dateColumn.tooltip  "Napsauta järjestääksesi päiväyksen mukaan">
-<!ENTITY priorityColumn.tooltip  "Napsauta järjestääksesi tärkeysasteen mukaan">
-<!ENTITY tagsColumn.tooltip  "Napsauta järjestääksesi tunnusten mukaan">
-<!ENTITY accountColumn.tooltip  "Napsauta järjestääksesi tilin mukaan">
-<!ENTITY statusColumn.tooltip  "Napsauta järjestääksesi tilan mukaan">
-<!ENTITY sizeColumn.tooltip  "Napsauta järjestääksesi koon mukaan">
-<!ENTITY junkStatusColumn.tooltip  "Napsauta järjestääksesi roskapostitilan mukaan">
-<!ENTITY unreadColumn.tooltip  "Viestiketjun lukematta olevien viestien määrä.">
-<!ENTITY totalColumn.tooltip  "Viestien määrä viestiketjussa">
-<!ENTITY readColumn.tooltip  "Napsauta järjestääksesi luettujen mukaan">
-<!ENTITY receivedColumn.tooltip "Napsauta järjestääksesi vastaanottopäivän mukaan">
-<!ENTITY starredColumn.tooltip  "Napsauta järjestääksesi tähden olemassaolon mukaan">
-<!ENTITY locationColumn.tooltip  "Napsauta järjestääksesi sijainnin mukaan">
-<!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">
+<!ENTITY columnChooser2.tooltip "Valitse näkyvät sarakkeet">
+<!ENTITY threadColumn2.tooltip "Näytä viestiketjut">
+<!ENTITY fromColumn2.tooltip "Järjestä lähettäjän mukaan">
+<!ENTITY recipientColumn2.tooltip "Järjestä vastaanottajan mukaan">
+<!ENTITY subjectColumn2.tooltip "Järjestä aiheen mukaan">
+<!ENTITY dateColumn2.tooltip "Järjestä päiväyksen mukaan">
+<!ENTITY priorityColumn2.tooltip "Järjestä tärkeysasteen mukaan">
+<!ENTITY tagsColumn2.tooltip "Järjestä tunnuksen mukaan">
+<!ENTITY accountColumn2.tooltip "Järjestä tilin mukaan">
+<!ENTITY statusColumn2.tooltip "Järjestä tilan mukaan">
+<!ENTITY sizeColumn2.tooltip "Järjestä koon mukaan">
+<!ENTITY junkStatusColumn2.tooltip "Järjestä roskapostitilan mukaan">
+<!ENTITY unreadColumn2.tooltip "Viestiketjun lukematta olevien viestien määrä">
+<!ENTITY totalColumn2.tooltip "Viestien määrä viestiketjussa">
+<!ENTITY readColumn2.tooltip "Järjestä luettujen mukaan">
+<!ENTITY receivedColumn2.tooltip "Järjestä vastaanottopäivän mukaan">
+<!ENTITY starredColumn2.tooltip "Järjestä tähden olemassaolon mukaan">
+<!ENTITY locationColumn2.tooltip "Järjestä sijainnin mukaan">
+<!ENTITY idColumn2.tooltip "Järjestä saapumisjärjestyksen mukaan">

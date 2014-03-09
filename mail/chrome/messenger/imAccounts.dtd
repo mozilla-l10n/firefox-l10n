@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Siirrä alas">
 <!ENTITY account.cancelReconnection.label         "Peruuta yhteyden palautus">
 <!ENTITY account.cancelReconnection.accesskey     "e">
+<!ENTITY account.copyDebugLog.label     "Kopioi virheenjäljitysloki">
+<!ENTITY account.copyDebugLog.accesskey "v">
 <!ENTITY account.connecting           "Muodostetaan yhteyttä…">
 <!ENTITY account.disconnecting        "Katkaistaan yhteyttä…">
 <!ENTITY account.disconnected         "Ei yhteyttä">
