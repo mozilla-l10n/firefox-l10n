@@ -26,19 +26,19 @@
 
 <!ENTITY  font.langGroup.latin1                   "Արևմտյան">
 <!ENTITY  font.langGroup.latin2                   "ԿենտրոնաԵվրոպական">
-
+<!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
 <!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
 <!ENTITY  font.langGroup.simpl-chinese            "Պարզեցված Չիներեն">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Ավանդական Չիներեն (Հոնգ­Կոնգ)">
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "Կորեերեն">
+<!ENTITY  font.langGroup.cyrillic                 "Կիրիլյան">
+<!ENTITY  font.langGroup.baltic                   "Բալթյան">
+<!ENTITY  font.langGroup.el                       "Հունարեն">
+<!ENTITY  font.langGroup.turkish                  "Թրքերեն">
 <!ENTITY  font.langGroup.unicode                  "Յունիքոդ">
-
-
-
+<!ENTITY  font.langGroup.thai                     "Թայլանդերեն">
+<!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
+<!ENTITY  font.langGroup.arabic                   "Արաբերեն">
 <!ENTITY  font.langGroup.devanagari               "Դևանագարի">
 <!ENTITY  font.langGroup.tamil                    "Թամիլերեն">
 <!ENTITY  font.langGroup.armenian                 "ՀԱՅԵՐԵՆ">
@@ -72,30 +72,39 @@
 <!ENTITY languages.customize.Fallback.accesskey   "Վ">
 <!ENTITY languages.customize.Fallback.desc        "Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:">
 
+<!ENTITY languages.customize.Fallback.auto        "Ծրագրայինը տվյալ լեզվի համար">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "Արաբերեն">
+<!ENTITY languages.customize.Fallback.baltic      "Բալթյան">
+<!ENTITY languages.customize.Fallback.ceiso       "Կենտրոնաեվրոպական, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Կենտրոնաեվրոպական, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Չինարեն, Պարզեցված">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Չիներեն, Պարզեցված">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "Կիրիլյան">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Հունարեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Եբրայերեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Ճապոներեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Կորեերեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Թայլանդերեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Թրքերեն">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Վիետնամերեն">
-
+<!ENTITY languages.customize.Fallback.other       "Այլ (ներ. Արևմտաեվրոպականը)">

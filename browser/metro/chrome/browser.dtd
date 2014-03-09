@@ -9,7 +9,7 @@
 <!ENTITY back.label            "Նախորդը">
 <!ENTITY forward.label         "Հաջորդը">
 <!ENTITY newtab.label          "Նոր Ներդիր">
-
+<!ENTITY newPrivateTab.label   "Սկսել Գաղտնի դիտարկում">
 <!ENTITY closetab.label        "Փակել ներդիրը">
 
 <!ENTITY autocompleteResultsHeader.label  "Արդյունքները">
@@ -17,9 +17,9 @@
 <!ENTITY appbarErrorConsole.label      "Բացել սխալի կառավարակետը">
 <!ENTITY appbarJSShell.label           "Բացել JavaScript-ի թաղանթը">
 <!ENTITY appbarFindInPage2.label       "Գտնել էջում">
-
+<!ENTITY appbarRelaunchInDesktop.label "Վերսկսել Դեքսթոփով">
 <!ENTITY appbarMSMetaData2.label       "Ծրագիր այս կայքի համար">
-
+<!ENTITY appbarViewPageSource.label    "Դիտել Էջի Կոդը">
 
 <!ENTITY topSitesHeader.label        "Լավագույնները">
 <!ENTITY bookmarksHeader.label       "Էջանիշեր">
@@ -105,6 +105,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -122,11 +123,13 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Փնտրու՞մ եք ձեր ներդիրները: Պտտեք ներքև կամ սեղմեք աջ կոճակը">
+<!ENTITY firstRunTopSites.label "Բացեք այն կայքերը, որոնք հաճախ եք այցելում">
+<!ENTITY firstRunBookmarks.label "Գտեք այն էջերը, որոնք պահել եք հետո կարդալու համար">
+<!ENTITY firstRunMenu.label "Մուտք լր. հնարավորությունների կամ ընտրանքների">
+<!ENTITY firstRunHistory.label "Տեսեք, թե ինչ կայքեր եք այցելել">
+<!ENTITY firstRunWelcome.label "Բարի գալուստ &brandShortName;">
+<!ENTITY firstRunDifferent.label "Տարբերվում է իր տեսքով">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -140,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "Հպվեք՝ նախորդ էջին վերադառնալու համար">
+<!ENTITY firstRunNewTab.label "Ավելացնել նոր ներդիր՝ նոր կայք բացելու համար">
+<!ENTITY firstRunStar.label "Օգտ. էջանիշերը՝ էջերը պահելու հաար">
+<!ENTITY firstRunPin.label "Գամեք ցանկացած կայք Windows Start-ի էկրանին՝ արագ մուտք ունենալու համար">
 <!ENTITY firstRunGotIt.label "Հասկագա!">

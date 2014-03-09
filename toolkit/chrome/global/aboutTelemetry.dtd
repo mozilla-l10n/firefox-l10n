@@ -25,6 +25,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Հավելումների կողմից հավաքած գծապատկերներ">
 
+<!ENTITY aboutTelemetry.toggle "  Սեղմեք՝ փոփոխելու համար">
 
 <!ENTITY aboutTelemetry.emptySection "  (տվյալները չեն հավաքվել)">
 
@@ -34,3 +35,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Ցուցադրել կախվելու մասին հում տվյալները">
 
+<!ENTITY aboutTelemetry.filterText "  Զտիչ (տողը կամ /regexp/)">

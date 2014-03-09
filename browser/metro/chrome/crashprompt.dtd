@@ -4,17 +4,18 @@
 
 
 <!ENTITY crashprompt.title           "Ուղարկե՞լ վթարի մասին զեկույցը Mozilla-ին:">
-
-
-
-
+<!ENTITY crashprompt.message         "&brandShortName;-ը վերականգնվել է վթարից հետո: Վթարի մասին զեկույցի ուղարկումը կօգնի Mozilla-ին էլ ավելի լավարկելու և կայունացնելու &brandShortName;-ը: Ձեր նախապատվությունները կարող եք փոփոխել Կարգավորումներ/Ընտրանքներում:">
+<!ENTITY crashprompt.detailsLink     "Ի՞նչ է գրված վթարի զեկույցում:">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Վթարի զեկույցում առկա է տեղեկություն վթարի, ձեր համակարգչի մասին, ինչպես նաև դիտարկիչի ճեպապատկեր վթարի պահին:">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Այն կարող է ներառել տեղեկություններ բացված ներդիրների, ձևերում լրացված տեքստի տեսակի և հաղորդագրությունների բովանդակության, դիտարկման պատմության կամ կայքին ձեր գտնվելու վայրի մասին տեղեկության վերաբերյալ:">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
-
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Մենք օգտագործում ենք վթարի զեկույցները՝ ծագած խնդիրները վերացնելու կամ ծրագիրը լավարկելու համար: Մենք օգտագործում ենք ձեր տեղեկությունները ըստ վերը նշվածի՝ ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName;-ի Անվտանգության քաղաքականությունը">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Ավելացնել այն էջի հասցեն, որտեղ ես գտնվում էի այդ պահին">
 <!ENTITY crashprompt.acceptbutton    "Ուղարկել">
 <!ENTITY crashprompt.refusebutton    "Չուղարկել">
-
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName;-ի Անվտանգության քաղաքականությունը">
