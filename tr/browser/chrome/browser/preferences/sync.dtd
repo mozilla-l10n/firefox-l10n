@@ -49,8 +49,19 @@
 
 <!ENTITY fxaPrivacyNotice.link.label "Gizlilik Bildirimi">
 <!ENTITY determiningAcctStatus.label     "Hesap durumunuz öğreniliyor…">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "doğrulanmamış.">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 
 <!ENTITY signedInLoginFailure.beforename.label "Yeniden bağlanmak için lütfen oturum açın">
 <!ENTITY signedInLoginFailure.aftername.label "">
