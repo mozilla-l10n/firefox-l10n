@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவல்)">
 
-
+<!ENTITY appmenu.tooltip                     "பட்டியை திற">
+<!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "தத்தலை மீளேற்று">
@@ -99,10 +100,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label;-ஐ இணைக்கமுடியவில்லை">
 
-
-
-
+<!ENTITY syncErrorPanel.signInButton.label "உள்நுழை">
+<!ENTITY syncErrorPanel.signInButton.accesskey "உ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "குறைத்தல்">
@@ -179,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksMenuButton.unsorted.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
-
+<!ENTITY viewBookmarksSidebar2.label        "புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு">
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -303,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
+<!ENTITY clearRecentHistory.label               "சமீபத்திய வரலாற்றைத் துடை...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -328,16 +330,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "தனிபயனாக்கு">
 
+<!ENTITY appMenuCustomizeExit.label "தனிபயனாக்கதிலிருந்து வெளியேறு">
 
 
 
+<!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
 
+<!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
+<!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
 
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
+<!ENTITY customizeMenu.addToToolbar.accesskey "க">
 
 
 
