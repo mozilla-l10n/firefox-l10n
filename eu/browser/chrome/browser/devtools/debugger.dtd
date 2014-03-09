@@ -128,9 +128,11 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Gehitu baldintzazko eten-puntua">
 <!ENTITY debuggerUI.seMenuCondBreak.key "b">
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.sources        "Iturburuak">
+<!ENTITY debuggerUI.tabs.callstack      "Deiaren pila">
 <!ENTITY debuggerUI.tabs.variables      "Aldagaiak">
 <!ENTITY debuggerUI.tabs.events         "Gertaerak">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that

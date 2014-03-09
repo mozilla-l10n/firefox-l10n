@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Hutsegite-txostenak bidali nahi dituzu Mozillara?">
+<!ENTITY crashprompt.message         "Sentitzen dugu, hutsegite batetik berreskuratu berri da &brandShortName;. Hutsegite-txostenak bidaltzean, &brandShortName; egonkor eta seguruagoa egiten laguntzen zaio Mozillari.">
+<!ENTITY crashprompt.detailsLink     "Zer dauka hutsegite-txostenak?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Hutsegitearen eta zure makinaren xehetasun batzuk eta hutsegitea gertatu zen uneko nabigatzailearen egoera-irudia dauka hutsegite-txostenak.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Honen barruan egon daitezke irekitako orriak, inprimakietan eta irekitako mezuetan idatzitako testua, azken nabigatze-historia edo guneekin partekatutako geolokalizazio-datuak.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
+     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
+     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
+     If the structure of the English strings doesn't work for your locale, you can
+     move "&brandShortName; privacy policy." to the first sentence, and use a
+     generic "More information" for the link. These strings will be updated in the
+     next version of Firefox. -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Arazoak konpondu eta gure produktuak hobetzeko erabiltzen ditugu hutsegite-txostenak. Zure informazioaren trataerari buruzko xehetasunak ezagutzeko, irakurri ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName;(r)en pribatutasun-politika">
+<!ENTITY crashprompt.includeURLLabel "Sartu bisitatzen ari nintzen orriaren helbidea">
+<!ENTITY crashprompt.acceptbutton    "Bidali txostenak">
+<!ENTITY crashprompt.refusebutton    "Ez bidali">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName;(r)en pribatutasun-politika">

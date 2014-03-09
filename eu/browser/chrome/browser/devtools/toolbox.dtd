@@ -109,6 +109,11 @@
 
 <!ENTITY options.enablePersistentLogging.label    "Gaitu log iraunkorrak">
 <!ENTITY options.enablePersistentLogging.tooltip  "Aukera hau gaituz gero, web kontsolak ez du irteera garbituko orri berri batera nabigatzen duzun bakoitzean">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!ENTITY options.timestampMessages.label      "Gaitu denbora-markak">
+<!ENTITY options.timestampMessages.tooltip    "Aukera hau gaituz gero, web kontsolako komandoek eta irteerak denbora-marka bistaratuko dute">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
