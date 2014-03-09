@@ -85,8 +85,6 @@
 <!ENTITY projects.valid "Válido">
 <!ENTITY projects.error "Error">
 <!ENTITY projects.warning "Advertencia">
-<!ENTITY projects.hosted "Hospedado">
-<!ENTITY projects.packaged "Empacado">
 
 <!ENTITY help.title "Administrador de aplicaciones">
 <!ENTITY help.close "Cerrar">
