@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Emaitzak">
 
-<!ENTITY appbarErrorConsole.label   "Ireki errore-kontsola">
-<!ENTITY appbarJSShell.label        "Ireki JavaScript kontsola">
-<!ENTITY appbarFindInPage2.label    "Bilatu orrian">
-<!ENTITY appbarViewOnDesktop2.label "Ikusi mahaigainean">
-<!ENTITY appbarMSMetaData2.label    "Eskuratu gune honetarako aplikazioa">
+<!ENTITY appbarErrorConsole.label      "Ireki errore-kontsola">
+<!ENTITY appbarJSShell.label           "Ireki JavaScript kontsola">
+<!ENTITY appbarFindInPage2.label       "Bilatu orrian">
+<!ENTITY appbarRelaunchInDesktop.label "Berrabiarazi mahaigainean">
+<!ENTITY appbarMSMetaData2.label       "Eskuratu gune honetarako aplikazioa">
+<!ENTITY appbarViewPageSource.label    "Ikusi orriaren iturburua">
 
 <!ENTITY topSitesHeader.label        "Gune erabilienak">
 <!ENTITY bookmarksHeader.label       "Laster-markak">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+
+<!ENTITY firstRunTabs.label "Zure fitxen bila? Ekarri behera edo egin eskuin-klika">
+<!ENTITY firstRunTopSites.label "Joan gehien bisitatzen dituzun guneetara">
+<!ENTITY firstRunBookmarks.label "Bilatu gerorako gorde dituzun orriak">
+<!ENTITY firstRunMenu.label "Atzitu eginbide gehiago eta aukerak">
+<!ENTITY firstRunHistory.label "Ikusi webean nondik ibili zaren">
+<!ENTITY firstRunWelcome.label "Ongi etorri &brandShortName;(e)ra">
+<!ENTITY firstRunDifferent.label "Desberdina diseinuz">
