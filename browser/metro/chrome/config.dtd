@@ -12,4 +12,5 @@
 <!ENTITY string.label           "Cadena">
 <!ENTITY boolean.label          "Booleano">
 
+<!ENTITY string.placeholder     "Ingresar una cadena">
 <!ENTITY number.placeholder     "Ingresa un número">

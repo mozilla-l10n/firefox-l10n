@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  El navegador se cuelga">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Cuelgues de hilos">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recopilados por complementos">
 
+<!ENTITY aboutTelemetry.toggle "  Pulsa para replegar la sección">
 
 <!ENTITY aboutTelemetry.emptySection "  (No se han recopilado datos)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Mostrar datos no procesados de cuelgues">
 
+<!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas o /regexp/)">

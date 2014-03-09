@@ -80,7 +80,7 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label     "Desactivar caché *">
-
+<!ENTITY options.disableCache.tooltip   "Activar esta opción causará que se desactive la caché de la pestaña actual. Si la pestaña o la caja de herramientas está cerrado entonces esta configuración será olvidada.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -129,7 +129,7 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Mostrar la capa original">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar las fuentes originales (por ejemplo, archivos de Sass) en el Editor de estilos e Inspector">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
