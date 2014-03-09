@@ -3,6 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Acerca de &brandFullName;">
 
+<!ENTITY update.checkForUpdatesButton.label       "Buscar actualizaciones">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "Reiniciar para actualizar">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Aplicar actualización…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
+
 <!ENTITY warningDesc.version        "&brandShortName; es experimental y puede ser inestable.">
 <!ENTITY warningDesc.telemetryDesc  "Envía automáticamente información sobre rendimiento, hardware, uso y personalizaciones a &vendorShortName; para ayudar a mejorar &brandShortName;.">
 
@@ -27,7 +34,6 @@
 <!ENTITY bottomLinks.privacy        "Política de privacidad">
 
 <!ENTITY update.checkingForUpdates  "Buscando actualizaciones…">
-<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de agregados…">
 <!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled       "Actualizaciones deshabilitadas por el administrador de sistemas">
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; esta siendo actualizado por otra instancia">
