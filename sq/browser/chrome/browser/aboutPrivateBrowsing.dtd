@@ -17,5 +17,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Hapni një Dritare Vetjake">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "H">
 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart4               "Që të filloni Shfletim Vetjak, mundeni edhe të përzgjidhni &newPrivateWindow.label; prej menusë.">
 <!ENTITY privatebrowsingpage.moreInfo                  "Ndërkohë që ky kompjuter nuk do të ketë ndonjë regjistrim të historikut tuaj të shfletimit, mundësuesi juaj i shërbimit internet, ose punëdhënësi juaj, prapë munden t'i gjurmojnë faqet që vizitoni.">
 <!ENTITY privatebrowsingpage.learnMore                 "Mësoni Më Tepër">
