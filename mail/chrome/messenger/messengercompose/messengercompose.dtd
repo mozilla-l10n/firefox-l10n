@@ -24,6 +24,8 @@
 <!ENTITY attachPageCmd.accesskey "С">
 <!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "А">
+<!ENTITY remindLater.label "Напомніць мне пазней">
+<!ENTITY remindLater.accesskey "п">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">
@@ -46,6 +48,8 @@
 <!ENTITY sendLaterCmd.accesskey "П">
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "л">
+<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
+<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">

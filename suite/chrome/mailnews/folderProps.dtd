@@ -4,10 +4,10 @@
 
 <!ENTITY folderProps.windowtitle.label "Уласцівасці">
 <!ENTITY generalInfo.label "Агульныя звесткі">
-<!ENTITY folderCharsetTab.label "Змоўчная кадоўка знакаў:">
-<!ENTITY folderCharsetTab.accesskey "к">
-<!ENTITY folderCharsetOverride.label "Ужыць для ўсіх лістоў у папцы (асабістыя наладжванні кадоўкі знакаў ліста і самавызначэнне будуць ігнаравацца)">
-<!ENTITY folderCharsetOverride.accesskey "у">
+<!ENTITY folderCharsetFallback.label "Запасная кадоўка знакаў:">
+<!ENTITY folderCharsetFallback.accesskey "З">
+<!ENTITY folderCharsetEnforce.label "Ужыць кадоўку для ўсіх лістоў у гэтай папцы (наладжванні кадоўкі знакаў асобных лістоў і самавызначэнне будуць ігнаравацца)">
+<!ENTITY folderCharsetEnforce.accesskey "У">
 <!ENTITY folderRebuildSummaryFileTip2.label "Перабудова паказальніка зводкавага файла">
 <!ENTITY folderRebuildSummaryFile2.label "Выправіць папку">
 <!ENTITY folderRebuildSummaryFile2.accesskey "В">
