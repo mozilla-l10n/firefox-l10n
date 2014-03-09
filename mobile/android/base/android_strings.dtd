@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Asetukset">
 <!ENTITY pref_category_advanced "Lisäasetukset">
 <!ENTITY pref_category_customize "Muokkaa">
-<!ENTITY pref_category_search2 "Hakuasetukset">
+<!ENTITY pref_category_search3 "Haku">
 <!ENTITY pref_category_display "Näyttö">
 <!ENTITY pref_category_privacy_short "Tietosuoja">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Tietojen lähettäminen">
 <!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
 <!ENTITY pref_category_add_search_providers "Lisää hakukoneita">
+<!ENTITY pref_category_search_restore_defaults "Palauta hakukoneet">
+<!ENTITY pref_search_restore_defaults "Palauta oletukset">
+<!ENTITY pref_search_restore_defaults_summary "Palauta oletukset">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Learn more">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
+
+<!ENTITY pref_category_home "Yleiset">
+<!ENTITY pref_category_home_panels "Paneelit">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Muokkaa">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_vendor_faqs "UKK">
 <!ENTITY pref_vendor_feedback "Anna palautetta">
-<!ENTITY pref_search_set_default "Aseta oletukseksi">
-<!ENTITY pref_search_default "Oletus">
-<!ENTITY pref_search_remove "Poista">
+
+<!ENTITY pref_dialog_set_default "Aseta oletukseksi">
+<!ENTITY pref_dialog_default "Oletus">
+<!ENTITY pref_dialog_remove "Poista">
+
 <!ENTITY pref_search_last_toast "Et voi poistaa tai ottaa pois käytöstä viimeistä hakukonetta.">
+
+<!ENTITY pref_panels_show "Näytä">
+<!ENTITY pref_panels_hide "Piilota">
 
 <!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
 <!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Seuraava">
 <!ENTITY find_close "Sulje">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Toistetaan laitteella">
+<!ENTITY media_play "Toista">
+<!ENTITY media_pause "Pysäytä">
+<!ENTITY media_stop "Lopeta">
+
 <!ENTITY contextmenu_open_new_tab "Avaa uuteen välilehteen">
 <!ENTITY contextmenu_open_private_tab "Avaa yksityiseen välilehteen">
 <!ENTITY contextmenu_open_in_reader "Avaa lukutilaan">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Näytä sivun otsikko">
 <!ENTITY pref_titlebar_mode_url "Näytä sivun osoite">
 
-<!ENTITY pref_dynamic_toolbar "Piilota otsikkopalkki vieritettäessä sivua">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rullaava otsikkopalkki">
 
 <!ENTITY history_removed "Sivu poistettiin">
 

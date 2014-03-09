@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (vanhentunut)'>
   
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Kirjanmerkkivalikko'>
@@ -103,4 +103,116 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Määritä &syncBrand.shortName.label; lähettääksesi välilehtiä'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Määritä &syncBrand.fullName.label; laitteellasi lähettääksesi välilehtiä toisiin laitteisiin.'>
 <!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>
-<!ENTITY sync.text.tab.not.sent.label 'Välilehden lähetettäminen ei onnistunut.'>
+<!ENTITY sync.text.tab.not.sent.label 'Välilehden lähettäminen ei onnistunut.'>
+
+<!-- Firefox account strings. -->
+
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox-tilin valintakuvitus'>
+<!ENTITY fxaccount_icon_contentDescription2 'Firefox-tilin kuvake'>
+<!ENTITY fxaccount_intro_contentDescription2 'Firefox-tilin esittelykuvitus'>
+<!ENTITY fxaccount_mail_contentDescription2 'Firefox-tilin kirjekuorikuvitus'>
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_email_hint 'Sähköpostiosoite'>
+<!ENTITY fxaccount_password_hint 'Salasana'>
+<!ENTITY fxaccount_password_hide 'Piilota'>
+<!ENTITY fxaccount_password_show 'Näytä'>
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Palaa selaamisen pariin'>
+
+<!ENTITY fxaccount_policy_linktos 'käyttöehdot'>
+<!ENTITY fxaccount_policy_linkprivacy 'tietosuojahuomautuksen'>
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Tervetuloa &syncBrand.shortName.label;-palveluun'>
+<!ENTITY fxaccount_getting_started_description 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, salasanat ja muut tiedot.'>
+<!ENTITY fxaccount_getting_started_get_started 'Aloitetaan'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Käytätkö vanhempaa versiota &syncBrand.shortName.label;-palvelusta?'>
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+<!ENTITY fxaccount_create_account_header 'Luo Firefox-tili'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Vähintään 8 merkkiä'>
+<!ENTITY fxaccount_create_account_year_of_birth 'Syntymävuosi'>
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
+<!ENTITY fxaccount_create_account_button 'Seuraava'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Valitse synkronoitavat tiedot'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Onko sinulla jo tili? Kirjaudu sisään'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 tai aiemmin'>
+<!ENTITY fxaccount_create_account_unknown_error 'Ei voitu luoda tiliä'>
+
+<!ENTITY fxaccount_account_create_not_allowed 'Ei voida luoda tiliä'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Tilin luominen on mahdollista vain jos täytät tietyt ikärajoitukset.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Lue lisää'>
+
+<!ENTITY fxaccount_confirm_account_header 'Vahvista tilisi'>
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'Vahvistussähköposti lähetettiin osoitteeseen &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Lähetä uudestaan'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Vahvistussähköposti lähetetty'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Vahvistussähköpostin lähettäminen ei onnistunut'>
+
+<!ENTITY fxaccount_sign_in_sub_header 'Kirjaudu sisään'>
+<!ENTITY fxaccount_sign_in_button_label 'Kirjaudu sisään'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Salasana unohtunut?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Luo tili'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Ei voitu kirjautua sisään'>
+
+<!ENTITY fxaccount_account_verified_sub_header 'Tili vahvistettu'>
+<!ENTITY fxaccount_account_verified_description2 'Tietojesi synkronointi alkaa hetken päästä.'>
+
+<!ENTITY fxaccount_update_credentials_header 'Kirjaudu sisään'>
+<!ENTITY fxaccount_update_credentials_button_label 'Kirjaudu sisään'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Ei voitu kirjautua sisään'>
+
+<!ENTITY fxaccount_status_header 'Firefox-tili'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: käytössä'>
+<!ENTITY fxaccount_status_needs_verification2 'Tilisi täytyy vahvistaa. Kosketa lähettääksesi vahvistussähköpostin.'>
+<!ENTITY fxaccount_status_needs_credentials 'Ei voida muodostaa yhteyttä. Kosketa kirjautuaksesi sisään.'>
+<!ENTITY fxaccount_status_needs_upgrade '&brandShortName; täytyy päivittää, jotta voit kirjautua sisään.'>
+<!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
+<!ENTITY fxaccount_status_history 'Sivuhistoria'>
+<!ENTITY fxaccount_status_passwords 'Salasanat'>
+<!ENTITY fxaccount_status_tabs 'Avoimet välilehdet'>
+<!ENTITY fxaccount_status_legal 'Lakiteksti' >
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-palvelun asetukset'>
+<!ENTITY fxaccount_options_configure_title 'Määritä &syncBrand.shortName.label;-palvelu'>
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Firefox täytyy päivittää'>
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Tili on jo olemassa. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Virheellinen sähköpostiosoite tai salasana'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Virheellinen sähköpostiosoite tai salasana'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Tiliä ei ole vahvistettu'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Palvelin ruuhkautunut, yritä hetken päästä uudestaan'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Palvelin ruuhkautunut, yritä hetken päästä uudestaan'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Tapahtui virhe'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Verkkoyhteyden muodostus epäonnistui'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-palveluun ei ole yhteyttä'>
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Kosketa kirjautuaksesi tilille &formatS;'>
