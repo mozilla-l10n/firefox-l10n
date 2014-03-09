@@ -72,6 +72,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "Aisinas de desvolopament per defaut">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -104,12 +106,16 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
+<!ENTITY options.stylesheetSourceMaps.label      "Afichar las fonts originalas">
+
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
+
+<!ENTITY options.profiler.label            "Perfilador JavaScript">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

@@ -101,8 +101,12 @@
 <!ENTITY netmonitorUI.footer.clear  "Netejar">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "Veire l'analisi de las performàncias…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
+
+<!ENTITY netmonitorUI.panesButton.tooltip "Afichar/Amagar las informacions de la ret">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
 
@@ -171,8 +175,12 @@
 <!ENTITY netmonitorUI.timings.receive     "Recepcion :">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "Aviar l'analisi de las performàncias…">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
@@ -183,11 +191,17 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Copiar l'imatge coma Data URI">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend "Modificar e renviar">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 
@@ -208,6 +222,8 @@
 <!ENTITY netmonitorUI.custom.newRequest   "Requèsta novèla">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.query        "Cadena de requèsta :">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
 
@@ -226,3 +242,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "Anullar">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "Pagina precedenta">
