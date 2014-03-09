@@ -101,8 +101,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel.heading "&brandShortName; သည် ယခု ချိတ်ဆက်ရယူနေသှ်">
 <!ENTITY syncStartPanel.subTitle "သင် &syncBrand.shortName.label; အား အပြင်အဆင်များ ဖြင့် စီမံနိုင်သှ်">
 <!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; အား အပြင်အဆင် ထဲတွင် ပြုပြင် စီမံနိုင်သှ်">
-
-
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; အားမချိတ်ဆက်နိုင်">
+<!ENTITY syncErrorPanel.subTitle "ကျေးဇူးပြုပြီး ပြန်လည် ချိတ်ဆက်ရန် ဝင်ရောက်ပါ">
 
 
 
