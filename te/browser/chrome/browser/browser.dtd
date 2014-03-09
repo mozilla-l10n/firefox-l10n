@@ -96,19 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
+<!ENTITY syncStartPanel.heading "&brandShortName; ఇప్పుడు సింక్రనిస్తూంది">
 
 
-
-
-
-
-
-
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label;కి అనుసంధానించలేకున్నాం">
+<!ENTITY syncErrorPanel.subTitle "సింక్రనించడాన్ని కొనసాగించడానికి ప్రవేశించండి.">
+<!ENTITY syncErrorPanel.signInButton.label "ప్రవేశించండి (S)">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "చిన్నదిచేయు">
 <!ENTITY fullScreenRestore.tooltip "తిరిగివుంచు">
-
+<!ENTITY fullScreenClose.tooltip "మూసివేయి">
 <!ENTITY fullScreenAutohide.label "సాధనపట్టీలను మరుగుపరచుము">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
@@ -140,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ఈ వీడియోను పంచుకోండి (S)">
 <!ENTITY shareVideoCmd.accesskey "S">
-
+<!ENTITY feedsMenu.label "చందాచేరు">
 <!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
@@ -327,20 +328,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
 
 
+<!ENTITY showAllHistoryCmd2.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "మలచుము">
 
 
 
+<!ENTITY appMenuHistory.label "చరిత్ర">
+<!ENTITY appMenuHistory.showAll.label "మొత్తం చరిత్రను చూపించు">
+<!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
+<!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
+<!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
+<!ENTITY appMenuHelp.tooltip "సహాయం మెనుని తెరువు">
 
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి (A)">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 
 
 
@@ -355,8 +358,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
+<!ENTITY customizeMenu.addMoreItems.label "మరిన్ని అంశాలను చేర్చండి… (A)">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
@@ -567,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "నిష్క్రమించు"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName;ను చాలించు">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "నిష్క్రమించు"> 
@@ -741,7 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "చురుకుదనము సూచిక">
 <!ENTITY appMenuButton.label           "మెనూ">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; మెనూ తెరువుము">
-
+<!ENTITY feedButton.label              "చందాచేరు">
 <!ENTITY feedButton.tooltip            "ఈ పేజీకి చందాదారు గా మారు…">
 <!ENTITY bookmarksButton.tooltip       "మీ ఇష్టాంశములు ప్రదర్శించుము">
 <!ENTITY historyButton.tooltip         "మీరు ఇటీవల దర్శించిన పేజీలను ప్రదర్శించుము">
