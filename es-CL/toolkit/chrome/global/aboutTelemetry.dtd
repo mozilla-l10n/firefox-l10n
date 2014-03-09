@@ -37,7 +37,7 @@
   Histogramas recolectados por complementos
 ">
 <!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
+  Clic para alternar selección
 ">
 <!ENTITY aboutTelemetry.emptySection "
   (No hay datos recolectados)
@@ -51,5 +51,5 @@
   Mostrar datos en bruto para cuelges
 ">
 <!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
+  Filtro (cadenas o /regexp/)
 ">
