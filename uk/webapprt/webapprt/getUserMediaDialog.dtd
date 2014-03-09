@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "Доступ до медіа">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Дозволити">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "Д">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Скасувати">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "С">
+<!ENTITY getUserMediaDialog.title                   "Доступ до медіа">
+<!ENTITY getUserMediaDialog.button.accept.label     "Дозволити">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "Д">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Скасувати">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "С">
 
-<!ENTITY getUserMediaDialog.video.label           "Виберіть камеру">
-<!ENTITY getUserMediaDialog.video.noVideo         "Нема відео">
-<!ENTITY getUserMediaDialog.audio.label           "Виберіть мікрофон">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Нема мікрофону">
+<!ENTITY getUserMediaDialog.video.label             "Виберіть камеру">
+<!ENTITY getUserMediaDialog.video.noVideo           "Нема відео">
+<!ENTITY getUserMediaDialog.audio.label             "Виберіть мікрофон">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Нема мікрофону">
