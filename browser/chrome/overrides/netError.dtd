@@ -74,7 +74,6 @@
 </ul>
 ">
 
-">
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando conexiones">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -131,8 +130,8 @@
 ">
 <!ENTITY phishingBlocked.title "¡Sitio web sospechoso de suplantación!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ingresar cualquier dato personal en esta págian peude resultar en un robo de identidad u otro fraude.</p>
-<p>Este tipo de web falsas son usadas en estadas conocidas como ataques phishing, en los que páginas fraudulentas y correos son usados para imitar fuentes en que usted confía.</p>
+<p>Ingresar cualquier dato personal en esta página puede resultar en un robo de identidad u otro fraude.</p>
+<p>Este tipo de web falsas son usadas en estafas conocidas como ataques phishing, en los que páginas fraudulentas y correos son usados para imitar fuentes en que usted confía.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; previnió esta página de cargar de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
@@ -141,9 +140,7 @@
 <!ENTITY securityOverride.linkText "O usted puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
-<!ENTITY securityOverride.warningContent "
-<p>Usted no debiera agregar una excepción si esta usando una conexión de internet en la que no confía completamente o si usted no está acostumbrado a ver una advertencia para este servidor.</p>
-
+<!ENTITY securityOverride.warningContent "<p>Usted no debiera agregar una excepción si esta usando una conexión de internet en la que no confía completamente o si usted no está acostumbrado a ver una advertencia para este servidor.</p>
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
