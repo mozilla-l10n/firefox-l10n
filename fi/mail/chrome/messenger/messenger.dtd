@@ -700,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextOpenConversation.label "Avaa viesti keskusteluna">
 <!ENTITY contextOpenConversation.accesskey "k">
-<!ENTITY contextEditAsNew.label  "Muokkaa uutena…">
-<!ENTITY contextEditAsNew.accesskey  "M">
+<!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
+<!ENTITY contextEditMsgAsNew.accesskey "M">
 <!ENTITY contextArchive.label "Arkistoi">
 <!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label  "Vastaa vain lähettäjälle">
