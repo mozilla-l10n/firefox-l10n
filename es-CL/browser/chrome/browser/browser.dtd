@@ -498,7 +498,6 @@
 <!ENTITY findAgainCmd.accesskey "B">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -518,8 +517,6 @@
 <!ENTITY syncSetup.accesskey "Y">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
-<!ENTITY syncReAuthItem.label         "Reconectar a &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label "Sincronizar">
 <!ENTITY addonBarCloseButton.tooltip "Cerrar barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
