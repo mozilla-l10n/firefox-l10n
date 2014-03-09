@@ -62,7 +62,7 @@
 <!ENTITY verify.label                "Gwiriañ ar chomlec'h postel">
 <!ENTITY forget.label                "Ankouaat ar chomlec'h postel-mañ">
 
-<!ENTITY welcome.description "Haezit hoc'h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn e forzh pelec'h e arverit &brandShortName;.">
+<!ENTITY welcome.description "Haezit hoc'h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn e forzh pelec'h ez arverit &brandShortName;.">
 <!ENTITY welcome.signIn.label "En em gennaskañ">
 <!ENTITY welcome.createAccount.label "Krouiñ ur gont">
 

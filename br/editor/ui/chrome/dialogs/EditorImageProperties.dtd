@@ -13,9 +13,9 @@
 <!ENTITY locationEditField.label "Lec'hiadur ar skeudenn :">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Biziata anv restr ar skeudenn pe he lec'hiadur">
-<!ENTITY title.label "Tun ar binvioù :">
+<!ENTITY title.label "Tun ostilhoù :">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "An doareenn 'titl' mod html hag a skramm evel un tun eus ar binvioù">
+<!ENTITY title.tooltip "An doareenn 'titl' mod html a zo skrammet evel un tun ostilhoù">
 <!ENTITY altText.label "Testenn all :">
 <!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Biziata an destenn da skrammañ e lec'h ar skeudenn">

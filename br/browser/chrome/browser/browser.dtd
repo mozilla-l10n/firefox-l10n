@@ -193,8 +193,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Roll istor">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Binvioù">
-<!ENTITY toolsMenu.accesskey          "B"> 
+<!ENTITY toolsMenu.label              "Ostilhoù">
+<!ENTITY toolsMenu.accesskey          "O"> 
 
 <!ENTITY keywordfield.label           "Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …">
 <!ENTITY keywordfield.accesskey       "k">

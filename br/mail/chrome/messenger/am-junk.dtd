@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Na verkañ ar posteloù evel lastez ent emgefreek mard emañ ar c'haser war :">
 <!ENTITY whitelistHeader.accesskey "d">
 
-<!ENTITY ispHeadersWarning.label "Ma'z eo gweredekaet e vo sellet ar c'hemennadennoù merket gant ar benveg diavaez-mañ evel lastez gant &brandShortName;.">
+<!ENTITY ispHeadersWarning.label "Ma'z eo gweredekaet e vo sellet ar c'hemennadennoù merket gant an ostilh diavaez-mañ evel lastez gant &brandShortName;.">
 <!ENTITY ispHeaders.label "Fiziout talbennoù ar posteloù lastez arventennet gant :">
 <!ENTITY ispHeaders.accesskey "t">
 
