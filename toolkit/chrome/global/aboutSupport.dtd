@@ -9,6 +9,13 @@
 etoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe 
  baɗte &brandShortName;, ƴeewto wallitorde amen <a id='supportLink'>lowre wallitorde</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID Jaŋtol">
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Timmitte">
 <!ENTITY aboutSupport.extensionName "Innde">
 <!ENTITY aboutSupport.extensionEnabled "Daaƴtaaɗo">
@@ -33,7 +40,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ceŋe Daaƴtaaɗe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Taf Teeltannde">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ajajo Kuutoro">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Jaŋtooje Kooke">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kuutorogol Tesko">
 
 <!ENTITY aboutSupport.showDir.label "Uddit Runngere">

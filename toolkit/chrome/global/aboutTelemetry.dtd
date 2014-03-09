@@ -12,9 +12,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Kooke Wanngorde">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
 
@@ -22,9 +24,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Asdiiwe ɗe Ɓeyditte Ndoɓindii">
 
-<!ENTITY aboutTelemetry.toggleOn "  Dobo ngam wertude teƴre">
-
-<!ENTITY aboutTelemetry.toggleOff "  Dobo ngam taggude taƴre">
 
 <!ENTITY aboutTelemetry.emptySection "  (Alaa keɓe ndoɓindaa)">
 
@@ -33,3 +32,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Afftoyo inɗe golluuje take">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Hollu keɓe kecce iwɗe e kooke">
+
