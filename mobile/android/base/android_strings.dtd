@@ -71,6 +71,10 @@
 <!ENTITY pref_home_add_panel "Добавить панель">
 <!ENTITY home_add_panel_title "Добавить новую панель">
 <!ENTITY home_add_panel_empty "К сожалению, мы не смогли найти ни одной панели для добавления.">
+<!ENTITY pref_category_home_content_settings "Параметры содержимого">
+<!ENTITY pref_home_updates "Автоматическое обновление">
+<!ENTITY pref_home_updates_enabled "Включено">
+<!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
 <!ENTITY pref_header_customize "Настройка">
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
