@@ -7,10 +7,6 @@
 
 
 <!ENTITY optionsHeader.title                                     "Cuɓe">
-<!ENTITY optionsHeader.startup.title                             "Kurmital">
-
-
-
 <!ENTITY optionsHeader.char.title                                "Dokkitannde Alkule">
 
 
@@ -34,7 +30,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "Jaŋtorde Kooke">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ɗisor heen hello ngo ngonnoo-mi ngoo">
 <!ENTITY optionsHeader.telemetry.title                            "Telemeetiri">
 
