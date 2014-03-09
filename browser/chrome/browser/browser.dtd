@@ -518,6 +518,8 @@
 <!ENTITY syncSetup.accesskey "Y">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncReAuthItem.label         "Reconectar a &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label "Sincronizar">
 <!ENTITY addonBarCloseButton.tooltip "Cerrar barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
