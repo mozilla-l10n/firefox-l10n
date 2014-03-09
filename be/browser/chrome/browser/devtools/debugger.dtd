@@ -7,8 +7,12 @@
 <!ENTITY debuggerUI.blackBoxMessage.label "Гэты зыходнік зацемнены: яго перапыняльнікі забаронены і крочанне пераступае іх.">
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Спыніць зацямненне гэтага зыходніка">
 <!ENTITY debuggerUI.optsButton.tooltip "Наладжванні наладчыка">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Пераключыць зацямненне">
+<!ENTITY debuggerUI.sources.prettyPrint "Убраць зыходнік">
 <!ENTITY debuggerUI.pauseExceptions "Прыпыняць падчас выключэнняў">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Ігнараваць злоўленыя выключэнні">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!ENTITY debuggerUI.showPanesOnInit "Паказ шыбаў падчас запуску">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showVarsFilter "Паказаць скрынку сіта зменных">
@@ -38,6 +42,10 @@
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!ENTITY debuggerUI.seMenuCondBreak "Дадаць умоўны перапыняльнік">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.tabs.sources "Зыходнікі">
+<!ENTITY debuggerUI.tabs.callstack "Стос выклікаў">
+<!ENTITY debuggerUI.tabs.variables "Зменныя">
+<!ENTITY debuggerUI.tabs.events "Падзеі">
 <!ENTITY debuggerUI.seMenuAddWatch "Дадааць выраз для назірання для вылучэння">
 <!ENTITY debuggerUI.seMenuAddWatch.key "E">
 <!ENTITY debuggerUI.addWatch "Дадаць выраз для назірання">

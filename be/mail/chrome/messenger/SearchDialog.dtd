@@ -31,6 +31,8 @@
 <!ENTITY propertiesButton.accesskey "л">
 <!ENTITY composeButton.label "Укласці">
 <!ENTITY composeButton.accesskey "У">
+<!ENTITY deleteCardButton.label "Выдаліць">
+<!ENTITY deleteCardButton.accesskey "д">
 <!ENTITY abSearchDialogTitle.label "Удасканалены пошук у адраснай кнізе">
 <!ENTITY threadColumn.label "Нізка">
 <!ENTITY fromColumn.label "Ад">

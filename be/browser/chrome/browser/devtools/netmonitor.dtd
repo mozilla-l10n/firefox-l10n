@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY netmonitorUI.emptyNotice2 "Выканаць запыт або перазагрузіць старонку, каб пабачыць падрабязныя звесткі пра сеткавую дзейнасць.">
-<!ENTITY netmonitorUI.toolbar.status "√">
+<!ENTITY netmonitorUI.toolbar.status2 "✓">
 <!ENTITY netmonitorUI.toolbar.method "Сродак">
 <!ENTITY netmonitorUI.toolbar.file "Файл">
 <!ENTITY netmonitorUI.toolbar.domain "Дамен">
@@ -24,6 +24,7 @@
 <!ENTITY netmonitorUI.footer.filterImages "Выявы">
 <!ENTITY netmonitorUI.footer.filterMedia "Медыя">
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
+<!ENTITY netmonitorUI.footer.clear "Ачысціць">
 <!ENTITY netmonitorUI.panesButton.tooltip "Пераключыць звесткі пра сетку">
 <!ENTITY netmonitorUI.summary.url "URL запыту:">
 <!ENTITY netmonitorUI.summary.method "Метад запыту:">
@@ -42,8 +43,10 @@
 <!ENTITY netmonitorUI.timings.receive "Атрыманне:">
 <!ENTITY netmonitorUI.context.copyUrl "Скапіваць URL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "к">
-<!ENTITY netmonitorUI.summary.resend "Перадаслаць">
-<!ENTITY netmonitorUI.summary.resend.accesskey "П">
+<!ENTITY netmonitorUI.summary.editAndResend "Паправіць і перадаслаць">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "п">
+<!ENTITY netmonitorUI.context.newTab "Адчыніць у новай устаўцы">
+<!ENTITY netmonitorUI.context.newTab.accesskey "А">
 <!ENTITY netmonitorUI.custom.newRequest "Новы запыт">
 <!ENTITY netmonitorUI.custom.query "Радок запыту:">
 <!ENTITY netmonitorUI.custom.headers "Загалоўкі запыту:">

@@ -8,11 +8,11 @@
 <!ENTITY quitApplicationCmdWin.accesskey "ы">
 <!ENTITY quitApplicationCmd.label "Выйсці">
 <!ENTITY quitApplicationCmd.accesskey "В">
-<!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">
 <!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
 <!ENTITY hideOtherAppsCmdMac.key "H">
 <!ENTITY showAllAppsCmdMac.label "Паказаць усе">
+<!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">
