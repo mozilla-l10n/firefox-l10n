@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "نستخدم تقارير الانهيارات لمساعدتنا في إصلاح مشاكل منتجاتنا و تحسينها. نتعامل مع معلومات كما هو مذكور في ">
 <!ENTITY crashprompt.privacyPolicyLink "سياسة خصوصية &brandShortName;">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "اشمل عنوان الصفحة التي كنت أزور">
 <!ENTITY crashprompt.acceptbutton    "أرسل التقارير">
 <!ENTITY crashprompt.refusebutton    "لا ترسل">

@@ -25,6 +25,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  رسومات بيانية جمعتها الإضافات">
 
+<!ENTITY aboutTelemetry.toggle "  انقر لتبديل القسم">
 
 <!ENTITY aboutTelemetry.emptySection "  (لم تُجمع أي بيانات)">
 
