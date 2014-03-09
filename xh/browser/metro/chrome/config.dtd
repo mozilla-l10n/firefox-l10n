@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Igama">
 
 <!ENTITY cancel.label           "Rhoxisa">
-
+<!ENTITY toggle.label           "Isixhobo esitshintshwa ngokufanayo">
 
 <!ENTITY integer.label          "Inani elipheleleyo">
 <!ENTITY string.label           "Umtya">
 <!ENTITY boolean.label          "I-Boolean">
 
-
+<!ENTITY string.placeholder     "Faka umtya">
+<!ENTITY number.placeholder     "Faka inani">
