@@ -6,8 +6,8 @@
 <!ENTITY syncCustomize.acceptButton.label "Iniciar">
 
 <!ENTITY syncCustomize.title              "¿Qué es lo que quiere sincronizar?">
-<!ENTITY syncCustomize.subTitle           "Puede modificar esta selección en Opciones.">
-<!ENTITY syncCustomize.subTitleUnix       "Puede modificar esta selección en Preferencias.">
+<!ENTITY syncCustomize.description        "Puedes modificar esta selección en Opciones.">
+<!ENTITY syncCustomizeUnix.description    "Puedes modificar esta selección en Preferencias.">
 
 <!ENTITY engine.bookmarks.label           "Marcadores">
 <!ENTITY engine.bookmarks.accesskey       "m">
