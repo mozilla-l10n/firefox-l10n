@@ -8,25 +8,25 @@
 <!ENTITY index.help "Օգնություն">
 
 <!ENTITY device.screenshot "Պատկերը">
-
+<!ENTITY device.screenshotTooltip "Տվյալ սարքի գործող վիճակի պատկերը բացել նոր ներդիրում">
 <!ENTITY device.title "Սարքի կառավարման կենտրոն">
 <!ENTITY device.notConnected "Միացած չէ: Միացեք ձեր սարքին:">
 <!ENTITY device.startApp "Սկսել">
-
+<!ENTITY device.startAppTooltip "Բացել ծրագիրը սարքում">
 <!ENTITY device.stopApp "Կանգնեցնել">
-
+<!ENTITY device.stopAppTooltip "Կանգնեցնել ծրագիրը սարքում">
 <!ENTITY device.debugApp "Վրիպազերծել">
-
+<!ENTITY device.debugAppTooltip "Բացել այս ծրագրի հետ կապված Ծրագրավորման գործիքները այս սարքում">
 <!ENTITY device.name "Անուն">
-
+<!ENTITY device.plain "Պարզ (հիմնականը)">
 <!ENTITY device.privileged "Արտոնված">
 <!ENTITY device.certified "Վավերացված">
 <!ENTITY device.allow "Թույլատրել">
-
+<!ENTITY device.allowTooltip "Այս թույլտվությունը վերաբերում է հետևյալ տեսակի ծրագրերին">
 <!ENTITY device.prompt "Հրավեր">
-
+<!ENTITY device.promptTooltip "Այս թույլտվությունը պահանջում է օգտվողի հարցում">
 <!ENTITY device.deny "Արգելել">
-
+<!ENTITY device.denyTooltip "Լիազորումը մերժվել է այս տեսակի ծրագրերի համար">
 <!ENTITY device.installedApps "Տեղադրված ծրագրեր">
 <!ENTITY device.installedAppsTooltip "Դիտեք տեղադրված ծրագրեի ցանկը: Որոշ ծրագրեր կարող են բացառվել այս ցանկից:">
 <!ENTITY device.permissions "Իրավունքներ">
@@ -34,43 +34,44 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.help "Օգնություն">
 
+<!ENTITY connection.connectTooltip "Միանալ սարքին">
 <!ENTITY connection.disconnect "Անջատել">
-
+<!ENTITY connection.disconnectTooltip "Անջատել սարքը կամ նմանակիչը">
 <!ENTITY connection.notConnected2 "Միացված չէ:">
 <!ENTITY connection.connectTo "Միացում.">
 <!ENTITY connection.noDeviceFound "Չկա սարք: Միացրեք սարք">
 <!ENTITY connection.changeHostAndPort "Փոխել">
-
+<!ENTITY connection.changeHostAndPortTooltip "Փոխեք սարքին միանալու հոսթը և պորտը  (Հիմնական է՝ localhost:6000)">
 <!ENTITY connection.startSimulator "Բացել Նմանակիչը">
-
+<!ENTITY connection.startSimulatorTooltip "Բացեք Նմանակիչը և միացեք նրան">
 <!ENTITY connection.saveConnectionInfo "Պահպանել">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Պահպանել հոսթը և պորտը">
 <!ENTITY connection.connecting "Միանում է...">
 <!ENTITY connection.disconnecting "Անջատում...">
 <!ENTITY connection.cancel "Չեղարկել">
-
+<!ENTITY connection.cancelConnectTooltip "Չեղարկել միացումը">
 
 <!ENTITY connection.or "կամ">
 <!ENTITY connection.noSimulatorInstalled "Չկա նմանակիչ։">
 <!ENTITY connection.installOneSimulator "Տեղադրել Նմանակիչ">
-
+<!ENTITY connection.installOneSimulatorTooltip "Տեղադրեք Նմանակիչի տարբերակը՝ ներբեռնելով համապատասխան հավելումը">
 <!ENTITY connection.installAnotherSimulator "Ավելացնել">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "Տեղադրեք Նմանակիչլրացուցիչ տարբերակը՝ բեռնելով համապատասխան հավելումը">
 <!ENTITY connection.startRegisteredSimulator "Մեկնարկել.">
 
 <!ENTITY projects.localApps "Ծրագրերը">
 <!ENTITY projects.addApp "Ավելացնել">
 <!ENTITY projects.addPackaged "Ավելացնել փաթեթով">
-
+<!ENTITY projects.addPackagedTooltip "Ավելացնել նոր փաթեթով (թղթապանակից) համակարգչից">
 <!ENTITY projects.addHosted "Ավելացնել հոսթից">
 
-
-
+<!ENTITY projects.title "Ծրագրերը">
+<!ENTITY projects.appDetails "Ծրագրի մանրամասները">
 
 <!ENTITY projects.updateApp "Թարմացնել">
 
 <!ENTITY projects.debugApp "Վրիպազերծել">
-
+<!ENTITY projects.debugAppTooltip "Բացել այս ծրագրի հետ կապված Ծրագրավորողի գործիքները">
 <!ENTITY projects.saveManifest "Պահպանել">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">

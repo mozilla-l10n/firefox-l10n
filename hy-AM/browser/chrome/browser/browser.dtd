@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Գաղտնի Դիտարկում)">
 
-
+<!ENTITY appmenu.tooltip                     "Բացել ցանկը">
+<!ENTITY navbarOverflow.label                "Լր. գործիքներ...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Թարմացնել էջը">
@@ -95,19 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
 <!ENTITY showAllTabsCmd.accesskey "բ">
 
-
-
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "Մուտք գործել &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Վերակապակցվել &syncBrand.shortName.label;ին">
+<!ENTITY syncStartPanel.heading "&brandShortName;-ը այժմ սինք է կատարում">
+<!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label;ը կարող եք կառավարել Ընտրանքներում։">
+<!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label;ը կարող եք կառավարել Կարգավորումներում։">
+<!ENTITY syncErrorPanel.heading "Չհաջողվեց կապակցվել &syncBrand.shortName.label;ին">
+<!ENTITY syncErrorPanel.subTitle "Մուտք գործեք՝ սինքը շարունակելու համար։">
+<!ENTITY syncErrorPanel.signInButton.label "Մուտք գործել">
+<!ENTITY syncErrorPanel.signInButton.accesskey "Մ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
 <!ENTITY fullScreenRestore.tooltip "Վերականգնել">
-
+<!ENTITY fullScreenClose.tooltip "Փակել">
 <!ENTITY fullScreenAutohide.label "Թաքցնել Վահանակները">
 <!ENTITY fullScreenAutohide.accesskey "Թ">
 <!ENTITY fullScreenExit.label "Դուրս գալ Լիաէկրան վիճակից">
@@ -139,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "Տ">
 <!ENTITY shareVideoCmd.label "Տարածել տեսանյութը">
 <!ENTITY shareVideoCmd.accesskey "Տ">
-
+<!ENTITY feedsMenu.label "Բաժանորդագրվել">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
@@ -179,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
 <!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
-
+<!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -188,6 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Պատմություն">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Գործիքներ">
@@ -303,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "ր"> 
 
+<!ENTITY clearRecentHistory.label               "Մաքրել Վերջին Պատմությունը...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -322,38 +326,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Վերջին փակված ներդիրները">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Վերջին փակված պատուհանները">
+<!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 
-
+<!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Կազմաձևել">
+<!ENTITY appMenuCustomize.tooltip "Կարգավորել Ցանկը և Գործիքավահանակները">
+<!ENTITY appMenuCustomizeExit.label "Փակել կարգավորումը">
+<!ENTITY appMenuCustomizeExit.tooltip "Ավարտել կարգավորումը">
+<!ENTITY appMenuHistory.label "Պատմություն">
+<!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմությունը">
+<!ENTITY appMenuHistory.clearRecent.label "Մաքրել Վերջին Պատմությունը...">
+<!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
+<!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
+<!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Ավելացնել  գործիքավահանակում">
+<!ENTITY customizeMenu.addToToolbar.accesskey "Ա">
+<!ENTITY customizeMenu.addToPanel.label "Ավելացնել Ցանկում">
+<!ENTITY customizeMenu.addToPanel.accesskey "Ց">
+<!ENTITY customizeMenu.moveToToolbar.label "Տեղափոխել Գործիքավահանակ">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "ե">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "Տեղափոխել Ցանկ">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ե">
+<!ENTITY customizeMenu.removeFromToolbar.label "Հեռացնել Գործիքավահանակից">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "Հ">
+<!ENTITY customizeMenu.removeFromMenu.label "Հեռացնել Ցանկից">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "Հ">
+<!ENTITY customizeMenu.addMoreItems.label "Ավելացնել այլ տարրեր...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Ա">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Փնտրեք կամ գրեք հասցեն">
@@ -564,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Փակել"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ա">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "Փակել &brandShortName;-ը">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Փակել"> 
@@ -677,11 +684,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
-
+<!ENTITY customizeMode.tabTitle "Կարգավորել &brandShortName;-ը">
+<!ENTITY customizeMode.menuAndToolbars.label "Ցանկ և գործիքավահանակներ">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Լրացուցիչ գործիքներ և հնարավորություններ">
+<!ENTITY customizeMode.menuAndToolbars.empty "Ի՞նչ լրացուցիչ գործիք">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Ընտրություն կատարեք հազարավոր հավելումներից">
+<!ENTITY customizeMode.restoreDefaults "Վերականգնել ծրագրայինը">
+<!ENTITY customizeMode.toolbars "Ցուցադրել կամ թաքցնել գործիքավահանակները">
+<!ENTITY customizeMode.titlebar "Անվանագոտի">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
@@ -725,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName;-ին հաղորդեք այս վթարի մասին, որ մենք կարողանաք ուղղել այն:">
 <!ENTITY tabCrashed.tryAgain "Կրկին փորձել">
 
+<!ENTITY uiTour.infoPanel.close "Փակել">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -737,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Գործողության ինդիկատոր">
 <!ENTITY appMenuButton.label           "Ընտրացանկը">
 <!ENTITY appMenuButton.tooltip         "Բացել &brandShortName; ընտրացանկը">
-
+<!ENTITY feedButton.label              "Բաժանորդագրվել">
 <!ENTITY feedButton.tooltip            "Բաժանորդագրվել այս էջին...">
 <!ENTITY bookmarksButton.tooltip       "Ցուցադրել ձեր էջանիշները">
 <!ENTITY historyButton.tooltip         "Ցուցադրել ձեր այցելած վերջին էջերը">
@@ -766,6 +777,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLocationCmd.label         "Բացել Հասցեն…">
 <!ENTITY openLocationCmd.accesskey     "Հ">
 <!ENTITY bookmarksMenuButton.tooltip   "Ցուցադրել ձեր էջանիշները">
-<!ENTITY switchToMetroCmd2.label       "Վերամեկնարկել &brandShortName; Windows 8 Touch-ի համար">
+<!ENTITY switchToMetroCmd2.label       "Վերբացել &brandShortName;-ը Windows 8 Touch-ով">
 <!ENTITY tabGroupsButton.tooltip       "Խմբավորեք Ձեր էջերը">
 <!-- end of strings to be removed post-Australis -->
