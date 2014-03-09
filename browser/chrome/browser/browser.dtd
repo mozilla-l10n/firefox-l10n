@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ಖಾಸಗಿ ವೀಕ್ಷಣೆ)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ಟ್ಯಾಬ್ ಅನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
@@ -46,11 +48,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
 <!ENTITY  closeTab.label                     "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -59,8 +56,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "ಹೊಸ ಟ್ಯಾಬ್">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "ತಾಣವನ್ನು ತೆರೆ...">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "ಕಡತವನ್ನು ತೆರೆ...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -100,9 +95,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "ಕುಗ್ಗಿಸು">
 <!ENTITY fullScreenRestore.tooltip "ಮತ್ತೊಮ್ಮೆ ಸ್ಥಾಪಿಸು">
-<!ENTITY fullScreenClose.tooltip "ಮುಚ್ಚು">
+
 <!ENTITY fullScreenAutohide.label "ಉಪಕರಣಪಟ್ಟಿಗಳನ್ನು ಅಡಗಿಸು">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ">
@@ -120,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು">
+<!ENTITY editThisBookmarkCmd.label "ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "ಈ ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
@@ -133,6 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ಈ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY shareVideoCmd.accesskey "s">
+
 <!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
@@ -159,24 +166,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ಮುದ್ರಿಸು">
 <!ENTITY printButton.tooltip          "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
 
-<!ENTITY backForwardItem.title        "ಹಿಂದಕ್ಕೆ/ಮುಂದಕ್ಕೆ">
 <!ENTITY locationItem.title           "ಸ್ಥಳ">
 <!ENTITY searchItem.title             "ಹುಡುಕು">
-<!ENTITY bookmarksItem.title          "ಪುಟಗುರುತುಗಳು">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "ನೆಲೆ">
 
 <!ENTITY tabGroupsButton.label        "ಟ್ಯಾಬ್‌ ಗುಂಪುಗಳು">
-<!ENTITY tabGroupsButton.tooltip      "ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಗುಂಪುಗೂಡಿಸಿ">
 
 <!ENTITY bookmarksButton.label          "ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ಪುಟಗುರುತುಗಳು">
-<!ENTITY bookmarksMenuButton.tooltip        "ನಿಮ್ಮ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸಿ">
 <!ENTITY bookmarksMenuButton.unsorted.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಪುಟಗುರುತುಗಳು">
-<!ENTITY viewBookmarksSidebar.label         "ಬದಿಪಟ್ಟಿಕೆಯಲ್ಲಿ ನೋಡು">
+
 <!ENTITY viewBookmarksToolbar.label         "ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -185,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "ಇತಿಹಾಸ">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ಉಪಕರಣಗಳು">
@@ -299,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -319,12 +320,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ಇತ್ತೀಚಿಗೆ ಮುಚ್ಚಲಾದ ಕಿಟಕಿಗಳು">
-<!ENTITY historyRestoreLastSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 
-<!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "ಇಚ್ಛೆಗೆ ಅನುಸಾರವಾಗಿ ಬದಲಾಯಿಸು">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವ ನಮೂದಿಸು">
@@ -535,6 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು"> 
@@ -626,7 +654,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌ ಮಾಡು">
 
 <!ENTITY socialToolbar.title        "ಸಾಮಾಜಿಕ ಉಪಕರಣಪಟ್ಟಿ ಗುಂಡಿ">
-<!ENTITY social.notLoggedIn.label   "ಪ್ರವೇಶಿಸಲಾಗಿಲ್ಲ">
 
 <!ENTITY social.ok.label       "ಸರಿ">
 <!ENTITY social.ok.accesskey   "O">
@@ -645,6 +672,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
+
+
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ಮಾತುಕತೆಗಳತ್ತ ಗಮನ ಹರಿಸು">
@@ -687,6 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "ಇದು ನಿಜಕ್ಕೂ ಮುಜುಗರದ ವಿಷಯ. ನಾವು ಈ ಜಾಲಪುಟವನ್ನು ತೋರಿಸಲು ಪ್ರಯತ್ನಿಸಿದೆವು, ಆದರೆ ಅದು ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತಿಲ್ಲ.">
 <!ENTITY tabCrashed.checkSendReport "ಇದನ್ನು ಸರಿಪಡಿಸುವಂತೆ ಈ ಕುಸಿತದ ಕುರಿತು &vendorShortName; ಗೆ ತಿಳಿಸಿ.">
 <!ENTITY tabCrashed.tryAgain "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -699,7 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "ಕ್ರಿಯಾಶೀಲತೆಯ ಸೂಚಕ">
 <!ENTITY appMenuButton.label           "ಮೆನು">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; ಅನ್ನು ತೆರೆ">
-<!ENTITY feedButton.label              "ಚಂದಾದಾರನಾಗಿಸು">
+
 <!ENTITY feedButton.tooltip            "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರರಾಗಿ…">
 <!ENTITY bookmarksButton.tooltip       "ನಿಮ್ಮ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು ">
 <!ENTITY historyButton.tooltip         "ನೀವು ಇತ್ತೀಚೆಗೆ ನೋಡಿದ ಪುಟವನ್ನು ತೋರಿಸು">
@@ -722,4 +758,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "ಗಾತ್ರಬದಲಾವಣೆ ನಿಯಂತ್ರಣಗಳು">
 <!ENTITY addonBarCloseButton.tooltip   "ಆಡ್‌-ಆನ್ ಪಟ್ಟಿಕೆಯನ್ನು ಮುಚ್ಚು">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "ಹಿಂದಕ್ಕೆ/ಮುಂದಕ್ಕೆ">
+<!ENTITY viewBookmarksSidebar.label    "ಬದಿಪಟ್ಟಿಕೆಯಲ್ಲಿ ನೋಡು">
+<!ENTITY bookmarksItem.title           "ಪುಟಗುರುತುಗಳು">
+<!ENTITY openLocationCmd.label         "ತಾಣವನ್ನು ತೆರೆ...">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "ನಿಮ್ಮ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸಿ">
+
+<!ENTITY tabGroupsButton.tooltip       "ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಗುಂಪುಗೂಡಿಸಿ">
 <!-- end of strings to be removed post-Australis -->

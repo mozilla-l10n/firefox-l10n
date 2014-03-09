@@ -4,7 +4,7 @@
 
 <!ENTITY charsetMenu.label             "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY charsetMenu.accesskey         "C">
-
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
 <!-- A reserved for Arabic -->
 
 
