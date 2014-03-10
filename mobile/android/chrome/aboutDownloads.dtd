@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDownloads.title                      "ଆହରଣଗୁଡ଼ିକ">
+
+
+
+<!ENTITY aboutDownloads.remove                     "ଅପସାରଣ କରନ୍ତୁ">
+
+<!ENTITY aboutDownloads.pause                      "ବିରତି">
+<!ENTITY aboutDownloads.resume                     "ପୁନଃ ଚଳନ">
+<!ENTITY aboutDownloads.cancel                     "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY aboutDownloads.retry                      "ପୁନଃପ୍ରୟାସ କରନ୍ତୁ">
