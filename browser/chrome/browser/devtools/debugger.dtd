@@ -129,8 +129,10 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Додати умову пункту зупинки">
 <!ENTITY debuggerUI.seMenuCondBreak.key "у">
 
-<!-- LOCALIZATION NOTE (debuggerUI.instruments.*): This is the text that
-  -  appears in the debugger's instruments pane tabs. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.sources        "Sources">
+<!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Змінні">
 <!ENTITY debuggerUI.tabs.events         "Події">
 
