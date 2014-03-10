@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title మొబైలు
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,17 +37,15 @@
 
 
 
+#define bookmarks_aboutBrowser ఫైర్‌ఫాక్స్: మీ విహారిణి గురించి
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
 
 
 
-
-
 # link title for https://addons.mozilla.org/en-US/mobile
-
-
 
 
 
@@ -55,12 +55,27 @@
 
 
 
-
-
 # link title for https://support.mozilla.org/mobile
 
 
 
+
+#define bookmarks_support ఫైర్‌ఫాక్స్: తోడ్పాటు
+
+
+
+
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+
+#define bookmarks_marketplace ఫైర్‌ఫాక్స్ అంగడి
 
 
 

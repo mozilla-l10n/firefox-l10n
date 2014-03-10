@@ -1,20 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "&brandShortName; గురించి">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ప్రయోగాత్మకమైనది మరియు స్థిరంగా వుండకపోవచ్చు.">
-
+<!ENTITY aboutPage.telemetryStart               "పనితనం, హార్డువేర్ మరియు ఇష్టానుసార మలపులకు సంబందించిన సమాచారంను ఇది స్వయంచాలకంగా పంపును">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPage.telemetryEnd                 "&brandShortName; ఉత్తంమంగా చేయుటలో సహాయపడుటకు.">
+<!ENTITY aboutPage.checkForUpdates.link         "నవీకరణల కొరకు పరిశీలించుతోంది »">
+<!ENTITY aboutPage.checkForUpdates.checking     "నవీకరణల కొరకు పరిశీలించుచున్నది...">
+<!ENTITY aboutPage.checkForUpdates.none         "ఏ నవీకరణలు అందుబాటులోలేవు">
+<!ENTITY aboutPage.checkForUpdates.available2   "నవీకరణం దింపు">
+<!ENTITY aboutPage.checkForUpdates.downloading  "నవీకరణం దించుతోంది...">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "నవీకరణను స్థాపించు">
+<!ENTITY aboutPage.faq.label                    "సందేహాలు">
+<!ENTITY aboutPage.support.label                "తోడ్పాటు">
 <!ENTITY aboutPage.privacyPolicy.label          "గోప్యతా విదానం">
-
-
-
-
+<!ENTITY aboutPage.rights.label                 "మీ హక్కులు తెలుసుకోండి">
+<!ENTITY aboutPage.relNotes.label               "విడుదల విశేషాలు">
+<!ENTITY aboutPage.credits.label                "పరపతులు">
+<!ENTITY aboutPage.license.label                "లైసెన్సింగ్ సమాచారం">

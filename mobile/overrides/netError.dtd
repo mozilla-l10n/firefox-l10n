@@ -6,12 +6,12 @@
 %brandDTD;
 
 <!ENTITY loadError.label "పేజీని లోడుచేయడంలో సమస్య">
-
+<!ENTITY retry.label "మళ్ళీ ప్రయత్నించు">
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
-
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "ఈచిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -37,25 +37,31 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-
+<!ENTITY notCached.title "పత్రం కాలంచెల్లింది">
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>మళ్ళీ ప్రయత్నించండి. అనుంధానించి మళ్ళీ ఈ పేజీని తెరవడానికి &brandShortName; ప్రయత్నిస్తుంది.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్యగురించి తెలియజెప్పండి.</li> 
 </ul>">
 
-
+<!ENTITY unsafeContentType.title "సురక్షితం కాని దస్త్రపు రకం">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>ఈ సమస్యను తెలియజేయడానికి దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించండి.</li> 
+</ul>">
 
 <!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
-
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
-
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "ఆచిరునామా అర్ధం కావడంలేదు">
 <!ENTITY protocolNotFound.longDesc "<ul> 
