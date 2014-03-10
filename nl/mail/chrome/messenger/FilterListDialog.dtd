@@ -32,5 +32,7 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) toepassen op:">
 <!ENTITY folderPickerPrefix.accesskey "p">
+<!ENTITY helpButton.label "Help">
+<!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Filters op naam zoeken…">
