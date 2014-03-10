@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Symud i lawr">
 <!ENTITY account.cancelReconnection.label         "Diddymu ailgysylltu">
 <!ENTITY account.cancelReconnection.accesskey     "D">
+<!ENTITY account.copyDebugLog.label     "Copïo'r Cofnod Dadfygio">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Cysylltu…">
 <!ENTITY account.disconnecting        "Datgysylltu…">
 <!ENTITY account.disconnected         "Heb Gysylltu">

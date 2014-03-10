@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Chwilio drwy'r Negeseuon">
 <!ENTITY results.label               "Canlyniadau">
-<!ENTITY moveHereMenu.label          "Symud Yma">
-<!ENTITY moveHereMenu.accesskey      "Y">
 <!ENTITY moveButton.label            "Symud I">
 <!ENTITY moveButton.accesskey        "I">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Trefn Derbyniwyd">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
-<!ENTITY threadColumn.tooltip "Cliciwch i ddangos edafedd negeseuon"> 
-<!ENTITY fromColumn.tooltip "Cliciwch i drefnu oddi wrth">
-<!ENTITY recipientColumn.tooltip "Cliciwch i drefnu yn ôl derbynnydd">
-<!ENTITY subjectColumn.tooltip "Cliciwch i drefnu yn ôl pwnc">
-<!ENTITY dateColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad">
-<!ENTITY priorityColumn.tooltip "Cliciwch i drefnu yn ôl blaenoriaeth">
-<!ENTITY tagsColumn.tooltip "Cliciwch i drefnu yn ôl tagiau">
-<!ENTITY accountColumn.tooltip "Cliciwch i drefnu yn ôl cyfrif">
-<!ENTITY statusColumn.tooltip "Cliciwch i drefnu yn ôl statws">
-<!ENTITY sizeColumn.tooltip "Cliciwch i drefnu yn ôl maint">
-<!ENTITY junkStatusColumn.tooltip "Cliciwch i drefnu yn ôl statws sbam">
-<!ENTITY unreadColumn.tooltip "Nifer y negeseuon heb eu darllen yn y edefyn">
-<!ENTITY totalColumn.tooltip "Cyfanswm y nifer o negeseuon yn yr edefyn">
-<!ENTITY readColumn.tooltip "Cliciwch i drefnu yn ôl wedi'u darllen">
-<!ENTITY receivedColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad derbyn">
-<!ENTITY starredColumn.tooltip "Cliciwch i drefnu yn ôl seren">
-<!ENTITY locationColumn.tooltip "Cliciwch i drefnu yn ôl lleoliad">
-<!ENTITY idColumn.tooltip "Cliciwch i drefnu yn ôl trefn derbyniwyd">
+<!ENTITY columnChooser2.tooltip "Dewis colofnau i'w dangos">
+<!ENTITY threadColumn2.tooltip "Ehangu edafedd negeseuon">
+<!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
+<!ENTITY recipientColumn2.tooltip "Trefnu yn ôl derbynnydd">
+<!ENTITY subjectColumn2.tooltip "Trefnu yn ôl pwnc">
+<!ENTITY dateColumn2.tooltip "Trefnu yn ôl dyddiad">
+<!ENTITY priorityColumn2.tooltip "Trefnu yn ôl blaenoriaeth">
+<!ENTITY tagsColumn2.tooltip "Trefnu yn ôl tagiau">
+<!ENTITY accountColumn2.tooltip "Trefnu yn ôl cyfrif">
+<!ENTITY statusColumn2.tooltip "Trefnu yn ôl statws">
+<!ENTITY sizeColumn2.tooltip "Trefnu yn ôl maint">
+<!ENTITY junkStatusColumn2.tooltip "Trefnu yn ôl statws sbam">
+<!ENTITY unreadColumn2.tooltip "Nifer y negeseuon heb eu darllen yn y edefyn">
+<!ENTITY totalColumn2.tooltip "Cyfanswm y nifer o negeseuon yn yr edefyn">
+<!ENTITY readColumn2.tooltip "Trefnu yn ôl darllenwyd">
+<!ENTITY receivedColumn2.tooltip "Trefnu yn ôl dyddiad derbyniwyd">
+<!ENTITY starredColumn2.tooltip "Trefnu yn ôl seren">
+<!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
+<!ENTITY idColumn2.tooltip "Trefnu yn ôl trefn derbyniwyd">

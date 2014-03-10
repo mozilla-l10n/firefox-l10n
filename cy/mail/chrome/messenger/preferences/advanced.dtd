@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Gwirio'n awtomatig am ddiweddariadau i:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Ychwanegion wedi'u Gosod">
-<!ENTITY enableAddonsUpdate.accesskey   "Y">
-<!ENTITY whenUpdatesFound.label         "Pan fydd diweddariad o &brandShortName; wedi'i ganfod,">
-<!ENTITY modeAskMe.label                "Gofyn beth rwyf eisiau ei wneud">
-<!ENTITY modeAskMe.accesskey            "G">
-<!ENTITY modeAutomatic.label            "Llwytho'n awtomatig i lawr a gosod y diweddariad">
-<!ENTITY modeAutomatic.accesskey        "L">
-<!ENTITY modeAutoAddonWarn.label        "Rhybuddio os fydd hwn yn anablu ychwanegion">
-<!ENTITY modeAutoAddonWarn.accesskey    "R">
-<!ENTITY showUpdates.label              "Dangos Hanes Diweddaru">
-<!ENTITY showUpdates.accesskey          "D">
+<!ENTITY updateApp.label                 "Diweddariadau &brandShortName;:">
+<!ENTITY updateAuto.label                "Gosod diweddariadau'n awtomatig (argymell: gwella diogelwch)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Byth gwirio am ddiweddariadau (ddim yn argymell: perygl diogelwch)">
+<!ENTITY updateManual.accesskey          "B">
+<!ENTITY updateAutoAddonWarn.label       "Rhybuddio os fydd hwn yn anablu ychwanegion">
+<!ENTITY updateAutoAddonWarn.accesskey   "R">
+<!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
+<!ENTITY updateHistory.accesskey         "D">
+<!ENTITY updateOthers.label              "Diweddaru'n awtomatig:">
+<!ENTITY enableAddonsUpdate3.label       "Ychwanegion">
+<!ENTITY enableAddonsUpdate3.accesskey   "a">
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "e">

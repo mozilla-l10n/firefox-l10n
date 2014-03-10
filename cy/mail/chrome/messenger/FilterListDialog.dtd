@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "A">
 <!ENTITY folderPickerPrefix.label "Rhedeg yr hidl(au) ar:">
 <!ENTITY folderPickerPrefix.accesskey "R">
-<!ENTITY choosethis.label "dewis y ffolder hon">
-<!ENTITY choosethisnewsserver.label "dewis y gweinydd newyddion hwn">
 <!ENTITY helpButton.label "Cymorth">
 <!ENTITY helpButton.accesskey "y">
 <!ENTITY closeCmd.key "W"> 

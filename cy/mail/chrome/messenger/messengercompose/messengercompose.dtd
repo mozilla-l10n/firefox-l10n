@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Atodi">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Ffeil(iau)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Atodi">
 <!ENTITY spellingButton.label "Sillafu">
 <!ENTITY saveButton.label "Cadw">
+<!ENTITY printButton.label "Argraffu">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Anfon y neges nawr">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Torri">
 <!ENTITY copyButton.tooltip             "Copïo">
 <!ENTITY pasteButton.tooltip            "Gludo">
+<!ENTITY printButton.tooltip "Argraffu'r neges">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
