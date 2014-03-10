@@ -63,18 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-
-
-
-
-
+<!ENTITY updateApp.label                 "&brandShortName;-ի թարմացումները.">
+<!ENTITY updateAuto.label                "Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)">
+<!ENTITY updateAuto.accesskey            "Ի">
+<!ENTITY updateCheck.label               "Ստուգել թարմացումները, բայց ես ինքս կորոշեմ տեղադրել, թե ոչ">
+<!ENTITY updateCheck.accesskey           "Ս">
+<!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
+<!ENTITY updateManual.accesskey          "Ե">
 <!ENTITY updateAutoAddonWarn.label       "Զգուշացնել, եթե որևէ հավելում պետք է անջատվի">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-
-
-
-
-
+<!ENTITY updateHistory.label             "Ցուցադրել թարմացումների պատմությունը">
+<!ENTITY updateHistory.accesskey         "ա">
+<!ENTITY updateOthers.label              "Ինքնաշխատ թարմացում.">
+<!ENTITY enableAddonsUpdate3.label       "Հավելումներ">
+<!ENTITY enableAddonsUpdate3.accesskey   "ւ">
 
 <!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
 <!ENTITY useService.accesskey            "b">

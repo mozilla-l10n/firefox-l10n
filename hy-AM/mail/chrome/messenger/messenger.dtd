@@ -352,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Կցորդ">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-
-
-
+<!ENTITY editAsNewMsgCmd.label "Խմբագրել որպես նոր նամակ">
+<!ENTITY editAsNewMsgCmd.accesskey "Խ">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Ստեղծել ֆիլտր նամակից...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
@@ -569,10 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Անտեսել զգուշացումը այս նամակի համար">
 <!ENTITY phishingOptionIgnore.accesskey "ե">
-
-
-
-
+<!ENTITY phishingOptionSettings.label "Խմբագրել խաբեբայության որոշման ընտրանքները...">
+<!ENTITY phishingOptionSettings.accesskey "բ">
+<!ENTITY phishingOptionSettingsUnix.label "Խմբագրել խաբեբայության որոշման կարգավորումները...">
+<!ENTITY phishingOptionSettingsUnix.accesskey "բ">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Նոր նամակ">
@@ -668,24 +668,26 @@
 <!ENTITY attachmentColumn.label "Կցորդներ">
 <!-- Thread Pane Tooltips -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Ընտրեք, թե որ սյուները ցուցադրել">
+<!ENTITY threadColumn2.tooltip "Ցուցադրել նամակների կապերը">
+<!ENTITY fromColumn2.tooltip "Խմբավորել ըստ՝ ումից">
+<!ENTITY recipientColumn2.tooltip "Խմբավորել ըստ՝ ստացողի">
+<!ENTITY subjectColumn2.tooltip "Խմբավորել ըստ՝ վերնագրի">
+<!ENTITY dateColumn2.tooltip "Խմբավորել ըստ՝ ամսաթվի">
+<!ENTITY priorityColumn2.tooltip "Խմբավորել ըստ՝ առաջնահերթության">
+<!ENTITY tagsColumn2.tooltip "Խմբավորել ըստ՝ պիտակի">
+<!ENTITY accountColumn2.tooltip "Խմբավորել ըստ՝ փոստարկղի">
+<!ENTITY statusColumn2.tooltip "Խմբավորել ըստ՝ կարգավիճակի">
+<!ENTITY sizeColumn2.tooltip "Խմբավորել ըստ՝ չափի">
+<!ENTITY junkStatusColumn2.tooltip "Խմբավորել ըստ՝ թափոնի կարգավիճակի">
 <!ENTITY unreadColumn2.tooltip "Չընթերցված նամակների քանակը շղթայում">
 <!ENTITY totalColumn2.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
-
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Խմբավորել ըստ՝ ընթերցելու">
+<!ENTITY receivedColumn2.tooltip "Խմբավորել ըստ՝ ստանալու ամսաթվի">
+<!ENTITY starredColumn2.tooltip "Խմբավորել ըստ՝ աստղի">
+<!ENTITY locationColumn2.tooltip "Խմբավորել ըստ՝ տեղադրության">
+<!ENTITY idColumn2.tooltip "Խմբավորել ըստ՝ ստանալու հերթականության">
+<!ENTITY attachmentColumn2.tooltip "Խմբավորել ըստ՝ կցորդների">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Նամակը բացել նոր պատուհանով">
@@ -698,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ն">
 <!ENTITY contextOpenConversation.label "Բացել նամակը երկխոսությունում">
 <!ENTITY contextOpenConversation.accesskey "n">
-
-
+<!ENTITY contextEditMsgAsNew.label "Խմբագրել որպես նոր նամակ">
+<!ENTITY contextEditMsgAsNew.accesskey "Խ">
 <!ENTITY contextArchive.label "Արխիվ">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
@@ -828,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "Ավելացնել Հասցեագրքում">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-
-
+<!ENTITY EditContact1.label "Խմբագրել կոնտակտը">
+<!ENTITY EditContact1.accesskey "Խ">
 <!ENTITY ViewContact.label "Նայել կոնտակտը">
 <!ENTITY ViewContact.accesskey "Ն">
 <!ENTITY SubscribeToNewsgroup.label "Բաժանորդագվել խմբին">
