@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Priloži">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Spremi">
+<!ENTITY printButton.label "Ispiši">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Pošalji poruku sada">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
 <!ENTITY pasteButton.tooltip            "Zalijepi">
+<!ENTITY printButton.tooltip "Ispiši ovu poruku">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

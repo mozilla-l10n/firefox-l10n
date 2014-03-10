@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Mapa">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Ova mapa">
-<!ENTITY thisFolder.accesskey "v">
 <!ENTITY goRecentlyClosedTabs.label "Nedavno zatvorene kartice">
 <!ENTITY goRecentlyClosedTabs.accesskey "z">
 <!ENTITY startPageCmd.label "Početna stranica pošte">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "m">
 <!ENTITY forwardAsAttachmentCmd.label "Privitak">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editMsgAsNewCmd.label "Uredi poruku kao novu">
-<!ENTITY editMsgAsNewCmd.accesskey "e">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Uredi kao novu poruku">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
 <!ENTITY createFilter.accesskey "v">
 <!ENTITY moveMsgToMenu.label "Premjesti u">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Prati temu">
 <!ENTITY watchThreadMenu.accesskey "u">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Pohrani ovdje">
-<!ENTITY fileHereMenu.accesskey "h">
-<!ENTITY copyHereMenu.label "Kopiraj ovdje">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Oznaka">
 <!ENTITY tagMenu.accesskey "O">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Zanemari upozorenje za ovu poruku">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Onemogući otkrivanje prijevara za sve poruke">
-<!ENTITY phishingOptionDisableDetection.accesskey "m">
+<!ENTITY phishingOptionSettings.label "Uredi mogućnosti za otkrivanje prijevara…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Uredi postavke za otkrivanje prijevara…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Nova poruka">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Privici">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Kliknite da biste odabrali stupce za prikaz">
-<!ENTITY threadColumn.tooltip "Kliknite za prikaz tema poruka">
-<!ENTITY fromColumn.tooltip "Kliknite za sortiranje prema pošiljatelju">
-<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje prema primatelju">
-<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje prema naslovu">
-<!ENTITY dateColumn.tooltip "Kliknite za sortiranje prema datumu">
-<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje prema prioritetu">
-<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje prema oznaci">
-<!ENTITY accountColumn.tooltip "Kliknite za sortiranje prema računu">
-<!ENTITY statusColumn.tooltip "Kliknite za sortiranje prema statusu">
-<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje prema veličini">
-<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje prema statusu neželjene pošte">
-<!ENTITY unreadColumn.tooltip "Broj nepročitanih poruka u temi">
-<!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
-<!ENTITY readColumn.tooltip "Kliknite za sortiranje prema pročitanom">
-<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje prema datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje prema zvjezdici">
-<!ENTITY locationColumn.tooltip "Kliknite za sortiranje prema lokaciji">
-<!ENTITY idColumn.tooltip "Kliknite za sortiranje prema redoslijedu primanja">
-<!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje prema privicima">
+<!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
+<!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
+<!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
+<!ENTITY recipientColumn2.tooltip "Sortiraj prema primatelju">
+<!ENTITY subjectColumn2.tooltip "Sortiraj prema naslovu">
+<!ENTITY dateColumn2.tooltip "Sortiraj prema datumu">
+<!ENTITY priorityColumn2.tooltip "Sortiraj po prioritetu">
+<!ENTITY tagsColumn2.tooltip "Sortiraj prema oznakama">
+<!ENTITY accountColumn2.tooltip "Sortiraj prema računu">
+<!ENTITY statusColumn2.tooltip "Sortiraj prema statusu">
+<!ENTITY sizeColumn2.tooltip "Sortiraj prema veličini">
+<!ENTITY junkStatusColumn2.tooltip "Sortiraj prema statusu neželjene pošte">
+<!ENTITY unreadColumn2.tooltip "Broj nepročitanih poruka u temi">
+<!ENTITY totalColumn2.tooltip "Ukupan broj poruka u temi">
+<!ENTITY readColumn2.tooltip "Sortiraj prema pročitanom">
+<!ENTITY receivedColumn2.tooltip "Sortiraj prema datumu primitka">
+<!ENTITY starredColumn2.tooltip "Sortiraj prema zvjezdici">
+<!ENTITY locationColumn2.tooltip "Sortiraj prema lokaciji">
+<!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primanja">
+<!ENTITY attachmentColumn2.tooltip "Sortiraj prema privitcima">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Otvori poruku u novom prozoru">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Otvori poruku kao razgovor">
 <!ENTITY contextOpenConversation.accesskey "r">
-<!ENTITY contextEditAsNew.label "Uredi kao novo…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Uredi kao novu poruku">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "D">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj u adresar">
 <!ENTITY AddDirectlyToAddressBook.accesskey "D">
-<!ENTITY EditContact.label "Uredi kontakt…">
-<!ENTITY EditContact.accesskey "e">
+<!ENTITY EditContact1.label "Uredi kontakt">
+<!ENTITY EditContact1.accesskey "e">
 <!ENTITY ViewContact.label "Prikaži kontakt">
 <!ENTITY ViewContact.accesskey "r">
 <!ENTITY SubscribeToNewsgroup.label "Pretplati se na interesnu grupu">
