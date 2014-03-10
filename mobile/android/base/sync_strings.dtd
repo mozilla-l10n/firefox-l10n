@@ -8,88 +8,162 @@
 <!ENTITY syncBrand.shortName.label "ಸಿಂಕ್">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+
+<!ENTITY sync.title.pair.label "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+
+
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.advancedsetup.label "ಸುಧಾರಿತ ಸಂಯೋಜನೆಗಳು...">
+
 <!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
 <!-- Account Login Screen -->
+<!ENTITY sync.input.username.label "ಖಾತೆಯ ಹೆಸರು">
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label "ಗುಪ್ತಪದ">
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+
+
+<!ENTITY sync.input.server.label "ಪರಿಚಾರಕದ URL">
 <!-- Setup Fail -->
-  
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+
 <!ENTITY sync.button.tryagain.label "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+
+
+
+
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+
 <!ENTITY sync.settings.label "ಸಿದ್ಧತೆಗಳು">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ಆಯ್ಕೆಗಳು">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+
+<!-- Configure Engines -->
+
+
+
+
+
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "ರದ್ದು ಮಾಡು">
-<!ENTITY sync.button.connect.label 'Connect'>
+
 <!ENTITY sync.button.ok.label "ಸರಿ">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY bookmarks.folder.toolbar.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ">
 <!ENTITY bookmarks.folder.unfiled.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+
 <!ENTITY bookmarks.folder.mobile.label "ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.readinglist.label "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
 <!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
 <!ENTITY sync.invalidserver.label "ಒಂದು ಮಾನ್ಯವಾದ ಪರಿಚಾರಕ URL ಅನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.verifying.label "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+
+
+
+
+
+<!-- Firefox account strings. -->
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+
+
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_password_hide "ಅಡಗಿಸು">
+<!ENTITY fxaccount_password_show "ತೋರಿಸು">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_policy_linktos "ಸೇವೆಯ ನಿಯಮಗಳು">
+
+
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+
+
+
+
+
+
+
+
+
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->

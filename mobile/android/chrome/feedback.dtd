@@ -2,14 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "Feedback Tools">
+<!ENTITY feedbackHeader2.label          "ಸಲಹೆ ಸಲಕರಣೆಗಳು">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "ನಮ್ಮೊಂದಿಗೆ ಮಾತನಾಡಿ! ">
+<!ENTITY feedback.feedback.title        "ಸಲಹೆ ನೋಡಿ">
+<!ENTITY feedback.feedback.good         "ಉತ್ತಮ">
+<!ENTITY feedback.feedback.bad          "ಸರಿಯಿಲ್ಲ">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "Send performance data">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+
+<!ENTITY feedback.forceCompat.title     "ಆಡ್-ಆನುಗಳು ಬಲವಂತದಿಂದ ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಮಾಡಿ">
+<!ENTITY feedback.errorConsole.title    "ಎರ್ರರ್ ಕನ್ಸೋಲ್ ಎನೇಬಲ್ ಮಾಡಿ">

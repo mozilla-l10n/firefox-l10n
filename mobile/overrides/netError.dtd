@@ -6,25 +6,18 @@
 %brandDTD;
 
 <!ENTITY loadError.label "ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ">
-<!ENTITY retry.label "Try Again">
+
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "ಈ ವಿಳಾಸವು ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY fileNotFound.title "ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -45,17 +38,12 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
+
 <!ENTITY notCached.longDesc "<p>ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು &brandShortName; ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</p><ul><li>As a security precautionಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.</li><li>ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</li></ul>">
 
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -63,17 +51,13 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "ಅಸುರಕ್ಷಿತ ಕಡತದ ಬಗೆ">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY netReset.title "ಸಂಪರ್ಕವು ಮರಳಿ ಹೊಂದಿಸಲ್ಪಟ್ಟಿತು">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "ಸಂಪರ್ಕದ ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY protocolNotFound.title "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -87,12 +71,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY redirectLoop.title "ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -116,12 +95,6 @@
 <li>ಇದು  ಪರಿಚಾರಕದ ಸಂರಚನೆಯಲ್ಲಿನ ಒಂದು ತೊಂದರೆ ಇರಬಹುದು, ಅಥವ ಯಾರಾದರೂ ಪರಿಚಾರಕದಂತೆ ವರ್ತಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರಬಹುದು.</li> 
 <li>ಈ ಮೊದಲು ನೀವು ಪರಿಚಾರಕಕ್ಕೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿದ್ದಲ್ಲಿ, ಈಗಿನ ದೋಷವು ತಾತ್ಕಾಲಿಕವಾಗಿರಬಹುದು, ಹಾಗು ನೀವು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY cspFrameAncestorBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
@@ -144,5 +117,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
 
