@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Հասցեագրքի Կոնտակտ...">
 <!ENTITY newContact.accesskey "Կ">
-
-
+<!ENTITY attachMenu.label "Կցել">
+<!ENTITY attachMenu.accesskey "լ">
 <!ENTITY attachFileCmd.label "Ֆայլեր...">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
