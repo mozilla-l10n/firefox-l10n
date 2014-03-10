@@ -145,6 +145,16 @@
 <!ENTITY  event.toolbar.attendees.label                   "Gonbidatu partaideak">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ortografia">
 <!ENTITY  event.toolbar.privacy.label                     "Pribatutasuna">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Gorde eta itxi">
+<!ENTITY  event.toolbar.delete.tooltip                    "Ezabatu">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Gonbidatu partaideak">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Ortografia-egiaztapena">
+<!ENTITY  event.toolbar.attachments.tooltip               "Gehitu eranskinak">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Aldatu pribatutasuna">
+<!ENTITY  event.toolbar.priority.tooltip                  "Aldatu lehentasuna">
+<!ENTITY  event.toolbar.status.tooltip                    "Aldatu egoera">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Aldatu libre/lanpetuta denbora">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
@@ -209,7 +219,10 @@
 <!ENTITY event.reminder.1week.before.label                "aste 1 lehenago" >
 <!ENTITY event.reminder.custom.label                      "Pertsonalizatua…" >
 
-<!ENTITY event.reminder.multiple.label                    "Gogorarazle anitz…" >
+<!ENTITY event.reminder.multiple.label                    "Hainbat gogorarazle…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Denbora honela:">
+<!ENTITY event.statusbarpanel.privacy.label               "Pribatutasuna:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Errepikatzea editatu">

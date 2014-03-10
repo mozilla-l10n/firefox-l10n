@@ -565,6 +565,18 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Birbidali barnean">
 <!ENTITY buttonMenuForwardAsAttachment.label "Birbidali eranskin gisa">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Erakutsi mezu honetako urruneko edukia">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "E">
+<!ENTITY remoteContentOptionAllowForAddress.label "Erakutsi bidaltzaile honen urruneko edukia">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "b">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Ezikusi abisua mezu honetarako">
+<!ENTITY phishingOptionIgnore.accesskey "E">
+<!ENTITY phishingOptionDisableDetection.label "Desgaitu iruzurren detekzioa mezu guztietarako">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Ez mututu">
 <!ENTITY contextUnmute.accesskey "m">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "&brandShortName;(e)k uste du mezu hau zabor-posta dela.">
-<!ENTITY junkBarButton1.label "Ez da zaborra">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Zure pribatutasuna babesteko, &brandShortName;(e)k mezu honetako urruneko edukia blokeatu du.">
-<!ENTITY loadRemoteContentButton3.label "Erakutsi urruneko edukia">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Mezu hau iruzur bat izan daiteke.">
-<!ENTITY removePhishingBarButton1.label "Ezikusi abisua">
-<!ENTITY disablePhishingWarning1.label "Desgaitu iruzurren detekzioa mezu guztientzat">
-<!ENTITY reportPhishingError1.label "Ez dirudi mezu hau iruzur bat denik.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Baztertu">
-<!ENTITY mdnBarIgnoreButton2.accesskey "B">
-<!ENTITY mdnBarSendButton2.label "Bidali hartu-agiria">
-<!ENTITY mdnBarSendButton2.accesskey "B">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
