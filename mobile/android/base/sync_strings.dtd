@@ -158,31 +158,31 @@
 <!ENTITY fxaccount_confirm_account_verification_link 'Een verificatielink is verzonden naar &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'E-mail Opnieuw verzenden'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verificatie-e-mail verzonden'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'KanCouldn\&apos;t send verification email'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kan geen verificatie-e-mail verzenden'>
 
-<!ENTITY fxaccount_sign_in_sub_header 'Sign in'>
-<!ENTITY fxaccount_sign_in_button_label 'Sign in'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Forgot password?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Create an account'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Could not sign in'>
+<!ENTITY fxaccount_sign_in_sub_header 'Aanmelden'>
+<!ENTITY fxaccount_sign_in_button_label 'Aanmelden'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Wachtwoord vergeten?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Account aanmaken'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Kan niet aanmelden'>
 
-<!ENTITY fxaccount_account_verified_sub_header 'Account verified'>
-<!ENTITY fxaccount_account_verified_description2 'Your data will begin syncing momentarily.'>
+<!ENTITY fxaccount_account_verified_sub_header 'Account geverifieerd'>
+<!ENTITY fxaccount_account_verified_description2 'over een moemnt zullen we beginnen met het synchroniseren van uw gegevens.'>
 
-<!ENTITY fxaccount_update_credentials_header 'Sign in'>
-<!ENTITY fxaccount_update_credentials_button_label 'Sign in'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Could not sign in'>
+<!ENTITY fxaccount_update_credentials_header 'Aanmelden'>
+<!ENTITY fxaccount_update_credentials_button_label 'Aanmelden'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Kan niet aanmelden'>
 
-<!ENTITY fxaccount_status_header 'Firefox account'>
+<!ENTITY fxaccount_status_header 'Firefox-account'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
-<!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
-<!ENTITY fxaccount_status_needs_credentials 'Cannot connect. Tap to sign in.'>
-<!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
-<!ENTITY fxaccount_status_bookmarks 'Bookmarks'>
-<!ENTITY fxaccount_status_history 'History'>
-<!ENTITY fxaccount_status_passwords 'Passwords'>
-<!ENTITY fxaccount_status_tabs 'Open tabs'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ingeschakeld'>
+<!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden bevestigd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
+<!ENTITY fxaccount_status_needs_credentials 'KAn niet verbinden. Tik om aan te melden.'>
+<!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om aan te melden.'>
+<!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
+<!ENTITY fxaccount_status_history 'Geschiendenis'>
+<!ENTITY fxaccount_status_passwords 'Wachtwoorden'>
+<!ENTITY fxaccount_status_tabs 'Open tabbladen'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 
 <!-- Localization note: this is the name shown by the Android system
@@ -194,25 +194,25 @@
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
-<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Options'>
-<!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-opties'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; configureren'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'You need to upgrade Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'U dient Firefox te upgraden'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account already exists. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is not verified'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server busy, try again soon'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server busy, try again soon'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'There was a problem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Cannot connect to network'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account bestaat al. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ongeldige e-mail of wachtwoord'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ongeldige e-mail of wachtwoord'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is niet bevestigd'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezig, probeer het opnieuw'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezigy, probeer het opnieuw'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er is een probleem'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met het netwerk'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is not connected'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om aan te melden als &formatS;'>
