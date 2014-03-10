@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label          "Przywróć domyślną">
 <!ENTITY useDefault.accesskey      "d">
 
-<!ENTITY bounceSystemDockIcon.label     "Włącz animacje dla ikony w doku">
-<!ENTITY bounceSystemDockIcon.accesskey "c">
+<!ENTITY changeDockIconOptions.label "Zmień preferencje ikony aplikacji">
+<!ENTITY dockOptions.label "Opcje ikony aplikacji…">
+<!ENTITY dockOptions.accesskey "i">
 
 <!ENTITY newMessagesArrive.label      "Po odebraniu nowej wiadomości:">
 <!ENTITY playSound.label              "odtwarzaj dźwięk">
