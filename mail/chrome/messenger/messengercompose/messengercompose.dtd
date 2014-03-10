@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Gogora iezadazu beranduago">
+<!ENTITY remindLater.accesskey "b">
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "I">
