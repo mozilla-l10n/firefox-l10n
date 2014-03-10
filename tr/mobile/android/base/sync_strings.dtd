@@ -156,7 +156,7 @@
 <!ENTITY fxaccount_confirm_account_header "Hesabınızı doğrulayın">
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "formatS adresine doğrulama bağlantısı gönderildi">
-
+<!ENTITY fxaccount_confirm_account_resend_email "E-postayı tekrar gönder">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Doğrulama e-postası gönderilemedi">
 
@@ -167,7 +167,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Oturum açılamadı">
 
 <!ENTITY fxaccount_account_verified_sub_header "Hesap onaylandı">
-
+<!ENTITY fxaccount_account_verified_description2 "Verileriniz az sonra eşitlenmeye başlayacak.">
 
 <!ENTITY fxaccount_update_credentials_header "Oturum aç">
 <!ENTITY fxaccount_update_credentials_button_label "Oturum aç">
@@ -177,33 +177,42 @@
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: etkinleştirildi">
 <!ENTITY fxaccount_status_needs_verification2 "Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.">
-
-
+<!ENTITY fxaccount_status_needs_credentials "Bağlanılamadı. Oturum açmak için dokunun.">
+<!ENTITY fxaccount_status_needs_upgrade "Oturum açmak için &brandShortName; tarayıcınızı yükseltmelisiniz.">
 <!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">
 <!ENTITY fxaccount_status_passwords "Parolalar">
 <!ENTITY fxaccount_status_tabs "Açık sekmeler">
-
+<!ENTITY fxaccount_status_legal "Yasal" >
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Seçenekleri">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label;\u0027u yapılandır">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefox\u0027u yükseltmeniz gerekiyor">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Zaten hesabınız var. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Geçersiz e-posta veya parola">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Geçersiz e-posta veya parola">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Hesap doğrulanmamış">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Sunucu meşgul, daha sonra tekrar deneyin">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Sunucu meşgul, daha sonra tekrar deneyin">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bir sorun oluştu">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ağa bağlanılamıyor">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; bağlı değil">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum için dokunun">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum açmak için dokunun">
