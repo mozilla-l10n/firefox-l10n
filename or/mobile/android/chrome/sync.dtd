@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+
+
+
+<!ENTITY sync.details               "ବିବରଣୀ">
+
+
+<!ENTITY sync.syncNow               "ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ">
+
+
+
+
+<!ENTITY sync.account               "ଖାତା ନାମ">
+
+
+
+<!ENTITY sync.serverURL             "ସର୍ଭର URL">
+
+<!ENTITY sync.setup.cancel          "ବାତିଲ କରନ୍ତୁ">
+
+<!ENTITY sync.setup.waiting2        "ଅନ୍ୟ ଉପକରଣକୁ ଅପେକ୍ଷା କରୁଛି…">
+
+<!ENTITY sync.pair.title            "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
+
+<!ENTITY sync.setup.close           "ବନ୍ଦକରନ୍ତୁ">
+
