@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Shihni nga keni qenë në Web">
 <!ENTITY firstRunWelcome.label "Mirë se vini te &brandShortName;-i">
 <!ENTITY firstRunDifferent.label "I ndryshëm që në konceptim">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Prekeni që të ktheheni mbrapsht te faqja e mëparshme">
+<!ENTITY firstRunNewTab.label "Shtoni një skedë të re që të eksploroni një sajt të ri">
+<!ENTITY firstRunStar.label "Përdorni faqerojtësit që të ruani faqe për më vonë">
+<!ENTITY firstRunPin.label "Fiksoni çfarëdo sajti te skena juaj Windows Start për hapje të shpejtë">
+<!ENTITY firstRunGotIt.label "Got it!">
