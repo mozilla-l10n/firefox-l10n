@@ -66,21 +66,27 @@
 <!ENTITY settings_title "அமைப்புகள்">
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
-<!ENTITY pref_category_search2 "அமைப்புகளை தேடு">
+<!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_display "காண்பி">
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
 <!ENTITY pref_category_add_search_providers "கூடுதல் தேடல் வழங்குநர்களைச் சேர்க்க">
+<!ENTITY pref_category_search_restore_defaults "தேடு பொறிகளை மீட்டெடு">
+<!ENTITY pref_search_restore_defaults "முன்னிருப்பை மீட்டெடு">
+<!ENTITY pref_search_restore_defaults_summary "முன்னிருப்பை மீட்டெடு">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "துப்பு: ஏதாவது இணையத்தளத்தை உங்கள் தேடல் சேவை வழங்குநர் பட்டியலில் சேர்க்க  அங்குள்ள புலத்தைத் தொடர்ந்து அழுத்துங்கள்.">
+<!ENTITY pref_search_tip "துப்பு: ஏதாவது இணையத்தளத்தை உங்கள் தேடல் சேவை வழங்குநர் பட்டியலில் சேர்க்க அங்குள்ள புலத்தைத் தொடர்ந்து அழுத்துங்கள்.">
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 <!ENTITY pref_developer_remotedebugging_docs "மேலும் அறிய">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினைவில் வைத்திரு">
+
+<!ENTITY pref_category_home "முகப்பு">
+<!ENTITY pref_category_home_panels "பலகைகள்">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "தனிபயனாக்கு">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
-<!ENTITY pref_search_set_default "முன்னிருப்பாக அமை">
-<!ENTITY pref_search_default "முன்னிருப்பு">
-<!ENTITY pref_search_remove "நீக்கு">
-<!ENTITY pref_search_last_toast "நீங்கள் இறுதியாகப் பயன்படுத்திய தேடல் பொறியை முடக்கவோ நீக்கவோ முடியாது">
+
+<!ENTITY pref_dialog_set_default "முன்னிருப்பாக அமை">
+<!ENTITY pref_dialog_default "முன்னிருப்பு">
+<!ENTITY pref_dialog_remove "நீக்கு">
+
+<!ENTITY pref_search_last_toast "நீங்கள் இறுதியாகப் பயன்படுத்திய தேடல் பொறியை முடக்கவோ நீக்கவோ முடியாது.">
+
+<!ENTITY pref_panels_show "காண்பி">
+<!ENTITY pref_panels_hide "மறை">
 
 <!ENTITY datareporting_notification_title "&brandShortName; நிலவரம் &amp; தரவு">
 <!ENTITY datareporting_notification_action_long "பகிர்வுக்கு எந்த தகவலை தெரிவுசெய்">
@@ -167,11 +178,11 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; சுகாதார அறிக்கை">
-<!ENTITY datareporting_fhr_summary2 "vendorShortName உடன் தரவை பகிர்கிறது; உங்களுடைய உலாவியின் உடல்நிலைப்பற்றியும் உலாவியின் செயற்ப்பாட்டை புரிந்துக்கொள்ளவும் உதவுகிறது">
+<!ENTITY datareporting_fhr_summary2 "&vendorShortName; உடன் தரவை பகிர்வது உங்களுடைய உலாவியின் உடல்நிலைப்பற்றியும் உலாவியின் செயற்ப்பாட்டை புரிந்துக்கொள்ளவும் உதவுகிறது">
 <!ENTITY datareporting_abouthr_title "என் சுகாதார அறிக்கையை பார்">
 <!ENTITY datareporting_telemetry_title "தொலைத்தொடர்பு">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; ஐ சிறந்ததாக்க உங்களுடைய உலாவி பற்றிய செயல்திறன், பயனளவு, வன்பொருள் மற்றும் தனிப்பயனாக்க தரவு &vendorShortName; உடன் பகிர்கிறது">
-<!ENTITY datareporting_crashreporter_summary "&vendorShortName; க்கு உதவி செய்ய செயலிழப்பு அறிக்கையை &brandShortName;  செலுத்தி உங்களுடைய உலாவியை உறுதியாக்கவும் பாதுகாப்பாக இருக்கவும் செய்கிறது">
+<!ENTITY datareporting_crashreporter_summary "&vendorShortName; க்கு உதவி செய்ய செயலிழப்பு அறிக்கையை &brandShortName; செலுத்தி உங்களுடைய உலாவியை உறுதியாக்கவும் பாதுகாப்பாக இருக்கவும் செய்கிறது">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
@@ -215,6 +226,13 @@ size. -->
 <!ENTITY find_prev "முந்தையது">
 <!ENTITY find_next "அடுத்து">
 <!ENTITY find_close "மூடு">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "சாதனத்துக்கு வார்க்கப்படுகிறது">
+<!ENTITY media_play "இயக்கு">
+<!ENTITY media_pause "இடைநிறுத்து">
+<!ENTITY media_stop "நிறுத்து">
 
 <!ENTITY contextmenu_open_new_tab "புதிய தத்தலில் திறக்கவும்">
 <!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
@@ -224,7 +242,7 @@ size. -->
 <!ENTITY contextmenu_share "பகிர்">
 <!ENTITY contextmenu_pasteandgo "ஒட்டு &amp; செல்">
 <!ENTITY contextmenu_paste "ஒட்டு">
-<!ENTITY contextmenu_copyurl "முகவரியை  நகல் எடு">
+<!ENTITY contextmenu_copyurl "முகவரியை நகல் எடு">
 <!ENTITY contextmenu_edit_bookmark "திருத்து">
 <!ENTITY contextmenu_subscribe "பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY contextmenu_site_settings "தள அமைப்புகளை திருத்து">
@@ -236,8 +254,10 @@ size. -->
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_dynamic_toolbar "பக்க பட்டையை உருட்டும்போது தலைப்பு பட்டை மறைக்கிறது">
+<!ENTITY pref_scroll_title_bar "தலைப்பு பட்டையை உருட்டு">
 
 <!ENTITY history_removed "பக்கம் நீக்கப்பட்டது">
 
@@ -251,10 +271,10 @@ size. -->
 <!ENTITY site_settings_title3       "தள அமைப்புகள்">
 <!ENTITY site_settings_cancel       "ரத்துசெய்">
 <!ENTITY site_settings_clear        "துடை">
-<!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை">
+<!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
 
 <!ENTITY reading_list_added "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் சேர்க்கப்பட்டுள்ளது">
-<!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது ">
+<!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது">
 <!ENTITY reading_list_failed "உங்கள் வாசிப்பு பட்டியலில் பக்கத்தைச் சேர்க்கமுடியவில்லை">
 <!ENTITY reading_list_duplicate "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் ஏற்கனவே உள்ளது">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -284,7 +304,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "நீங்கள் சேமித்து வைத்த புத்தகக்குறிகள் இங்கே காட்டும்.">
 <!ENTITY home_last_tabs_title "இறுதியாகப் பயன்படுத்தியக் கீற்று">
 <!ENTITY home_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
-<!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்">
+<!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்.">
 <!ENTITY home_most_recent_title "மிக அண்மைய">
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
 <!ENTITY home_reading_list_empty "நீங்கள் சேமித்த கட்டுரைகள் பின்னர் இங்கே காண்பிக்கப்படும்.">
@@ -292,8 +312,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "குறிப்பு: கட்டுரைகளை உங்களின் படிக்கும் பட்டியலில் சேமிக்க &#037;I சின்னம் தலைப்பு பட்டையில் தோன்றும்பொது நீண்ட நேரம் அமுக்கவும்.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "குறிப்பு: கட்டுரைகளை உங்களின் படிக்கும் பட்டியலில் சேமிக்க படி என்ற பொத்தான் தலைப்பு பட்டையில் தோன்றும்பொது நீண்ட நேரம் அமுக்கவும்.">
 
 <!ENTITY pin_site_dialog_hint "தேட ஒரு முக்கிய சொல்லை உள்ளிடு">
 
@@ -315,7 +337,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "-ஆல் இயங்கப்படுகிறது">
+<!ENTITY identity_run_by "இதுவால் இயக்கப்படுகிறது">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "இந்த பக்கத்தில் தோன்றும் உள்ளடக்கங்கள் பாதுகாப்பானது அல்ல.">
@@ -345,12 +367,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "formatS2 க்காக &formatS1; ஐ தேடு">
+<!ENTITY suggestion_for_engine "&formatS2; க்காக &formatS1; ஐ தேடு">
 
 <!ENTITY webapp_generic_name "பயன்பாடு">
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 
+<!ENTITY devtools_remote_debugging_forward "சேவை முனை முன்செலுத்தலை அமைக்க மறக்காதீர்கள்!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;இற்கு புதுபித்தல் கிடைக்கிறது">
@@ -370,10 +393,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "தொடரவும்">
 <!ENTITY guest_session_dialog_cancel "இரத்துசெய்">
 <!ENTITY new_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
-
+<!ENTITY new_guest_session_text "இதை பயன்படுத்த நபர் உங்களுடைய தனிப்பட்ட உலாவின் தரவுகளை(அதாவது சேமித்த கடவுச்சொல், வரலாறு அல்லது புத்தகக்குறிகள்).\n\nஉங்களின் விருந்தினர் அமர்விற்கு பிறகு, அவர்களுடைய தரவுகள் நீக்கப்பட்டு உங்களுடைய அமர்வு மீட்டமைக்கப்படும்.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
 <!ENTITY exit_guest_session_text "இந்த அமர்வில் இருந்து உலாவின் தரவு அழிக்கப்படும்.">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "பட்டி">
 <!ENTITY actionbar_done "முடிந்தது">
