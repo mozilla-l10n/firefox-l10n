@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Зневадити">
 <!ENTITY device.debugAppTooltip "Відкрити «Інструменти розробника», які під'єднано до цієї програми на пристрої.">
 <!ENTITY device.name "Назва">
-<!ENTITY device.app "Програма">
+<!ENTITY device.plain "Проста (типово)">
 <!ENTITY device.privileged "Привілейована">
 <!ENTITY device.certified "Сертифікована">
 <!ENTITY device.allow "Дозвіл">
@@ -72,12 +72,17 @@
 <!ENTITY projects.updateAppTooltip "Виконати перевіряння та оновлення програми до під'єднаного пристрою">
 <!ENTITY projects.debugApp "Зневадити">
 <!ENTITY projects.debugAppTooltip "Відкрити «Інструменти розробника», що під'єднано до цієї програми">
+<!ENTITY projects.saveManifest "Зберегти">
+<!ENTITY projects.saveManifestTooltip "Зберегти вміст Редактора маніфестів нижче.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Немає проектів. Додайте нову запаковану програму нижче (локальний каталог) або віддалену програму (посиланням на файл маніфесту).">
 <!ENTITY projects.manifestEditor "Редактор маніфестів">
 <!ENTITY projects.manifestEditorTooltip "Редагувати маніфести програм у панелі нижче. Кнопка «Оновити» збереже ваші зміни і оновлення програми.">
 <!ENTITY projects.manifestViewer "Переглядач маніфестів">
 <!ENTITY projects.manifestViewerTooltip "Дослідити маніфест програми в панелі нижче.">
+<!ENTITY projects.valid "Дійсний">
+<!ENTITY projects.error "Помилка">
+<!ENTITY projects.warning "Попереждення">
 
 <!ENTITY help.title "Додати менеджера">
 <!ENTITY help.close "Закрити">
