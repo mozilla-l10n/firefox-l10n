@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
-<!ENTITY enableAddonsUpdate.accesskey   "G">
-<!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
-<!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
-<!ENTITY modeAskMe.accesskey            "M">
-<!ENTITY modeAutomatic.label            "Automatisch de update downloaden en installeren">
-<!ENTITY modeAutomatic.accesskey        "A">
-<!ENTITY modeAutoAddonWarn.label        "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
-<!ENTITY modeAutoAddonWarn.accesskey    "w">
-<!ENTITY showUpdates.label              "Updategeschiedenis tonen">
-<!ENTITY showUpdates.accesskey          "U">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Updates automatisch installeren (aanbevolen: verbeterde veiligheid)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Controleer op updates, maar laat me kiezen of ik ze wil installeren">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Controleer nooit op updates (niet aanbevolen: veilgheidsrisico)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Waarschuw me als dit add-ons uitschakelt">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Toon Update-geschiedenis">
+<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateOthers.label              "Update automatisch:">
+<!ENTITY enableAddonsUpdate3.label       "Geïnstalleerde add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "G">
 
 <!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
 <!ENTITY useService.accesskey            "a">

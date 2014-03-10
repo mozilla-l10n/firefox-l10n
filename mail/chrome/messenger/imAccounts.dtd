@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Omlaag verplaatsen">
 <!ENTITY account.cancelReconnection.label         "Opnieuw verbinden annuleren">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.copyDebugLog.label     "Debug Logbestand kopiëren">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Verbinden…">
 <!ENTITY account.disconnecting        "Verbinding verbreken…">
 <!ENTITY account.disconnected         "Niet verbonden">
