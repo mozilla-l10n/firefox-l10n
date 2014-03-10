@@ -59,6 +59,7 @@ can reach it easily. -->
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Hapni Vendndodhje…">
 <!ENTITY openLocationCmd.accesskey "V">
+
 <!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "K">
 <!ENTITY openFileCmd.commandkey "o">
@@ -171,6 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
 
 <!ENTITY backForwardItem.title        "Mbrapsht/Përpara">
+<!ENTITY viewBookmarksSidebar.label    "Shfaqe në Anështyllë">
 <!ENTITY locationItem.title           "Vendndodhje">
 <!ENTITY searchItem.title             "Kërkoni">
 <!ENTITY bookmarksItem.title          "Faqerojtës">
