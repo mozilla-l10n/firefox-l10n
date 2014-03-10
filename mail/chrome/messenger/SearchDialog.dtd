@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Traži poruke">
 <!ENTITY results.label               "Rezultati">
-<!ENTITY moveHereMenu.label          "Premjesti ovdje">
-<!ENTITY moveHereMenu.accesskey      "d">
 <!ENTITY moveButton.label            "Premjesti u">
 <!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Redoslijed primanja">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Kliknite da biste odabrali stupce za prikaz">
-<!ENTITY threadColumn.tooltip "Kliknite za prikaz tema poruka"> 
-<!ENTITY fromColumn.tooltip "Kliknite za sortiranje prema pošiljatelju">
-<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje prema primatelju">
-<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje prema naslovu">
-<!ENTITY dateColumn.tooltip "Kliknite za sortiranje prema datumu">
-<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje prema prioritetu">
-<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje prema oznaci">
-<!ENTITY accountColumn.tooltip "Kliknite za sortiranje prema računu">
-<!ENTITY statusColumn.tooltip "Kliknite za sortiranje prema statusu">
-<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje prema veličini">
-<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje prema statusu neželjene pošte">
-<!ENTITY unreadColumn.tooltip "Broj nepročitanih poruka u temi">
-<!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
-<!ENTITY readColumn.tooltip "Kliknite za sortiranje prema pročitanom">
-<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje prema datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje prema zvjezdici">
-<!ENTITY locationColumn.tooltip "Kliknite za sortiranje prema lokaciji">
-<!ENTITY idColumn.tooltip "Kliknite za sortiranje prema redoslijedu primanja">
+<!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
+<!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
+<!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
+<!ENTITY recipientColumn2.tooltip "Sortiraj prema primatelju">
+<!ENTITY subjectColumn2.tooltip "Sortiraj prema naslovu">
+<!ENTITY dateColumn2.tooltip "Sortiraj prema datumu">
+<!ENTITY priorityColumn2.tooltip "Sortiraj prema prioritetu">
+<!ENTITY tagsColumn2.tooltip "Sortiraj prema oznakama">
+<!ENTITY accountColumn2.tooltip "Sortiraj prema računu">
+<!ENTITY statusColumn2.tooltip "Sortiraj prema statusu">
+<!ENTITY sizeColumn2.tooltip "Sortiraj prema veličini">
+<!ENTITY junkStatusColumn2.tooltip "Sortiraj prema statusu neželjene pošte">
+<!ENTITY unreadColumn2.tooltip "Broj nepročitanih poruka u temi">
+<!ENTITY totalColumn2.tooltip "Ukupan broj poruka u temi">
+<!ENTITY readColumn2.tooltip "Sortiraj prema pročitanom">
+<!ENTITY receivedColumn2.tooltip "Sortiraj prema datumu primitka">
+<!ENTITY starredColumn2.tooltip "Sortiraj prema zvjezdici">
+<!ENTITY locationColumn2.tooltip "Sortiraj prema lokaciji">
+<!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primitka">
