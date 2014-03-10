@@ -13,11 +13,12 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Ваші результати">
 
-<!ENTITY appbarErrorConsole.label   "Відкрити консоль помилок">
-<!ENTITY appbarJSShell.label        "Відкити консоль JavaScript">
-<!ENTITY appbarFindInPage2.label    "Шукати у сторінці">
-<!ENTITY appbarViewOnDesktop2.label "Переглянути у класичному вигляді">
-<!ENTITY appbarMSMetaData2.label    "Отримати програму для цього сайта">
+<!ENTITY appbarErrorConsole.label      "Відкрити консоль помилок">
+<!ENTITY appbarJSShell.label           "Відкити консоль JavaScript">
+<!ENTITY appbarFindInPage2.label       "Шукати у сторінці">
+<!ENTITY appbarRelaunchInDesktop.label "Перезапустити у класичному вигляді">
+<!ENTITY appbarMSMetaData2.label       "Отримати програму для цього сайта">
+<!ENTITY appbarViewPageSource.label    "Переглянути початковий код">
 
 <!ENTITY topSitesHeader.label        "Часті сайти">
 <!ENTITY bookmarksHeader.label       "Закладки">
@@ -108,3 +109,24 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.  The code
+     to display these strings is not enabled yet, but will be soon.
+     For now, you can see this mockup for an example of how they are
+     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     -->
+<!ENTITY firstRunTabs.label "Looking for your tabs? Just pull down or right-click">
+<!ENTITY firstRunTopSites.label "Go to the sites you visit most">
+<!ENTITY firstRunBookmarks.label "Find pages you've saved for later">
+<!ENTITY firstRunMenu.label "Access more features and options">
+<!ENTITY firstRunHistory.label "See where you've been on the Web">
+<!ENTITY firstRunWelcome.label "Welcome to &brandShortName;">
+<!ENTITY firstRunDifferent.label "Different by design">
