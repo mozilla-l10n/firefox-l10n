@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Ffolder">
 <!ENTITY folderMenu.accesskey "o">
-<!ENTITY thisFolder.label "Y Ffolder Hwn">
-<!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "Tabiau Wedi'u Cau'n Ddiweddar">
 <!ENTITY goRecentlyClosedTabs.accesskey "T">
 <!ENTITY startPageCmd.label "Tudalen Cychwyn E-bost">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "M">
 <!ENTITY forwardAsAttachmentCmd.label "Atodiad">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Golygu Neges fel Newydd">
-<!ENTITY editMsgAsNewCmd.accesskey "G">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Golygu fel Neges Newydd">
+<!ENTITY editAsNewMsgCmd.accesskey "G">
+<!ENTITY editAsNewMsgCmd.key "g">
 <!ENTITY createFilter.label "Creu Hidl o'r Neges…">
 <!ENTITY createFilter.accesskey "H">
 <!ENTITY moveMsgToMenu.label "Symud i">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Gwylio'r Edefyn">
 <!ENTITY watchThreadMenu.accesskey "w">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Ffeilio Yma">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Copïo Yma">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Tag">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Anwybyddu rhybudd am y neges hon">
 <!ENTITY phishingOptionIgnore.accesskey "A">
-<!ENTITY phishingOptionDisableDetection.label "Anablu canfod sbam ar gyfer pob neges">
-<!ENTITY phishingOptionDisableDetection.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Golygu dewisiadau canfod twyll…">
+<!ENTITY phishingOptionSettings.accesskey "o">
+<!ENTITY phishingOptionSettingsUnix.label "Golygu dewisiadau canfod twyll…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "o">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Neges Newydd">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Atodiadau">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
-<!ENTITY threadColumn.tooltip "Cliciwch i ddangos edafedd negeseuon">
-<!ENTITY fromColumn.tooltip "Cliciwch i drefnu yn ôl">
-<!ENTITY recipientColumn.tooltip "Cliciwch i drefnu yn ôl derbynnydd">
-<!ENTITY subjectColumn.tooltip "Cliciwch i drefnu yn ôl pwnc">
-<!ENTITY dateColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad">
-<!ENTITY priorityColumn.tooltip "Cliciwch i drefnu yn ôl blaenoriaeth">
-<!ENTITY tagsColumn.tooltip "Cliciwch i drefnu yn ôl tagiau">
-<!ENTITY accountColumn.tooltip "Cliciwch i drefnu yn ôl cyfrif">
-<!ENTITY statusColumn.tooltip "Cliciwch i drefnu yn ôl statws">
-<!ENTITY sizeColumn.tooltip "Cliciwch i drefnu yn ôl maint">
-<!ENTITY junkStatusColumn.tooltip "Cliciwch i drefnu yn ôl statws sbam">
-<!ENTITY unreadColumn.tooltip "Nifer y negeseuon heb eu darllen yn yr edafedd">
-<!ENTITY totalColumn.tooltip "Cyfanswm y nifer o negeseuon yn yr edafedd">
-<!ENTITY readColumn.tooltip "Cliciwch i drefnu yn ôl wedi'u darllen">
-<!ENTITY receivedColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad derbyn">
-<!ENTITY starredColumn.tooltip "Cliciwch i drefnu yn ôl seren">
-<!ENTITY locationColumn.tooltip "Cliciwch i drefnu yn ôl lleoliad">
-<!ENTITY idColumn.tooltip "Cliciwch i drefnu yn ôl trefn derbyniwyd">
-<!ENTITY attachmentColumn.tooltip "Cliciwch i drefnu yn ôl atodiadau">
+<!ENTITY columnChooser2.tooltip "Dewis colofnau i'w dangos">
+<!ENTITY threadColumn2.tooltip "Dangos edafedd negeseuon">
+<!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
+<!ENTITY recipientColumn2.tooltip "Trefnu yn ôl derbyniwr">
+<!ENTITY subjectColumn2.tooltip "Trefnu yn ôl pwnc">
+<!ENTITY dateColumn2.tooltip "Trefnu yn ôl dyddiad">
+<!ENTITY priorityColumn2.tooltip "Trefnu yn ôl blaenoriaeth">
+<!ENTITY tagsColumn2.tooltip "Trefnu yn ôl tagiau">
+<!ENTITY accountColumn2.tooltip "Trefnu yn ôl cyfrif">
+<!ENTITY statusColumn2.tooltip "Trefnu yn ôl statws">
+<!ENTITY sizeColumn2.tooltip "Trefnu yn ôl maint">
+<!ENTITY junkStatusColumn2.tooltip "Trefnu yn ôl statws sbam">
+<!ENTITY unreadColumn2.tooltip "Nifer y negeseuon heb eu darllen yn yr edafedd">
+<!ENTITY totalColumn2.tooltip "Cyfanswm y nifer o negeseuon yn yr edafedd">
+<!ENTITY readColumn2.tooltip "Trefnu yn ôl darllenwyd">
+<!ENTITY receivedColumn2.tooltip "Trefnu yn ôl dyddiad derbyniwyd">
+<!ENTITY starredColumn2.tooltip "Trefnu yn ôl seren">
+<!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
+<!ENTITY idColumn2.tooltip "Trefnu yn ôl y drefn derbyniwyd">
+<!ENTITY attachmentColumn2.tooltip "Trefnu yn ôl atodiad">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Agor Neges mewn Ffenestr Newydd">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Agor Neges mewn Trafodaeth">
 <!ENTITY contextOpenConversation.accesskey "s">
-<!ENTITY contextEditAsNew.label "Golygu fel Newydd…">
-<!ENTITY contextEditAsNew.accesskey "G">
+<!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
+<!ENTITY contextEditMsgAsNew.accesskey "N">
 <!ENTITY contextArchive.label "Archif">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Ateb yr Anfonwr yn Unig">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY AddDirectlyToAddressBook.accesskey "C">
-<!ENTITY EditContact.label "Golygu Cysylltiad…">
-<!ENTITY EditContact.accesskey "G">
+<!ENTITY EditContact1.label "Golygu Cysylltiad">
+<!ENTITY EditContact1.accesskey "G">
 <!ENTITY ViewContact.label "Gweld Cysylltiad">
 <!ENTITY ViewContact.accesskey "w">
 <!ENTITY SubscribeToNewsgroup.label "Tanysgrifio i Grŵp Newyddion">

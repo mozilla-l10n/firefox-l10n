@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "Ynghylch &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "Gwirio am Ddiweddariadau">
+<!ENTITY update.checkForUpdatesButton.accesskey   "D">
+<!ENTITY update.updateButton.label                "Ailgychwyn i Ddiweddaru">
+<!ENTITY update.updateButton.accesskey            "A">
+<!ENTITY update.applyButtonBillboard.label        "Gosod Diweddariad…">
+<!ENTITY update.applyButtonBillboard.accesskey    "G">
 
 <!ENTITY community.start2           "Cynlluniwyd &brandShortName; gan ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Gwirio am ddiweddariadau…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Gwirio cydweddiad Ychwanegyn…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Mae &brandShortName; yn gyfredol">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
