@@ -215,6 +215,7 @@
 <!ENTITY cutButton.tooltip "Knippen">
 <!ENTITY copyButton.tooltip "Kopiëren">
 <!ENTITY pasteButton.tooltip "Plakken">
+<!ENTITY printButton.tooltip "Dit bericht afdrukken">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
