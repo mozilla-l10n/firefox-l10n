@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Map">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Deze map">
-<!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY goRecentlyClosedTabs.accesskey "O">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.label "Bericht als nieuw bewerken">
-<!ENTITY editMsgAsNewCmd.accesskey "b">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Bericht als nieuw bewerken">
+<!ENTITY editAsNewMsgCmd.accesskey "b">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Verplaatsen naar">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Conversatie volgen">
 <!ENTITY watchThreadMenu.accesskey "v">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Hier opslaan">
-<!ENTITY fileHereMenu.accesskey "H">
-<!ENTITY copyHereMenu.label "Hierheen kopiëren">
-<!ENTITY copyHereMenu.accesskey "k">
 <!ENTITY tagMenu.label "Labelen">
 <!ENTITY tagMenu.accesskey "L">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Waarschuwing voor dit bericht negeren">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Scamdetectie voor alle berichten uitschakelen">
-<!ENTITY phishingOptionDisableDetection.accesskey "S">
+<!ENTITY phishingOptionSettings.label "Scamdetectie-opties bewerken…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Scamdetectie-voorkeuren bewerken…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Bijlagen">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
-<!ENTITY threadColumn.tooltip "Klik om berichtconversaties weer te geven">
-<!ENTITY fromColumn.tooltip "Klik om te sorteren op van">
-<!ENTITY recipientColumn.tooltip "Klik om te sorteren op ontvanger">
-<!ENTITY subjectColumn.tooltip "Klik om te sorteren op onderwerp">
-<!ENTITY dateColumn.tooltip "Klik om te sorteren op datum">
-<!ENTITY priorityColumn.tooltip "Klik om te sorteren op prioriteit">
-<!ENTITY tagsColumn.tooltip "Klik om te sorteren op labels">
-<!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
-<!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
-<!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
-<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
-<!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
-<!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
-<!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
-<!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
-<!ENTITY attachmentColumn.tooltip "Klik om te sorteren op bijlagen">
+<!ENTITY columnChooser.tooltip2 "Weer te geven kolommen selecteren">
+<!ENTITY threadColumn2.tooltip "Berichtconversaties weergeven">
+<!ENTITY fromColumn2.tooltip "Op afzender sorteren">
+<!ENTITY recipientColumn2.tooltip "Op ontvanger sorteren">
+<!ENTITY subjectColumn2.tooltip "Op onderwerp sorteren">
+<!ENTITY dateColumn2.tooltip "Op datum sorteren">
+<!ENTITY priorityColumn2.tooltip "Op prioriteit sorteren">
+<!ENTITY tagsColumn2.tooltip "Op labels sorteren">
+<!ENTITY accountColumn.tooltip2 "Op account sorteren">
+<!ENTITY statusColumn2.tooltip "Op status sorteren">
+<!ENTITY sizeColumn2.tooltip "Op grootte sorteren">
+<!ENTITY junkStatusColumn2.tooltip "Op ongewenstberichtstatus sorteren">
+<!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
+<!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
+<!ENTITY readColumn2.tooltip "Op gelezen sorteren">
+<!ENTITY receivedColumn2.tooltip "Op ontvangstdatum sorteren">
+<!ENTITY starredColumn2.tooltip "Op ster sorteren">
+<!ENTITY locationColumn2.tooltip "Op locatie sorteren">
+<!ENTITY idColumn2.tooltip "Op volgorde van ontvangst sorteren">
+<!ENTITY attachmentColumn.tooltip2 "Op bijlagen sorteren">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "v">
 <!ENTITY AddDirectlyToAddressBook.label "Toevoegen aan adresboek">
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
-<!ENTITY EditContact.label "Contact bewerken…">
-<!ENTITY EditContact.accesskey "C">
+<!ENTITY EditContact1.label "Contact bewerken">
+<!ENTITY EditContact1.accesskey "C">
 <!ENTITY ViewContact.label "Contact bekijken">
 <!ENTITY ViewContact.accesskey "e">
 <!ENTITY SubscribeToNewsgroup.label "Abonneren op nieuwsgroep">

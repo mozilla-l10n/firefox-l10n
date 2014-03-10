@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY moveHereMenu.label          "Verplaatsen naar hier">
-<!ENTITY moveHereMenu.accesskey      "h">
 <!ENTITY moveButton.label            "Verplaatsen naar">
 <!ENTITY moveButton.accesskey        "n">
 <!ENTITY closeCmd.key                "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
-<!ENTITY threadColumn.tooltip "Klik om berichtconversaties weer te geven">
-<!ENTITY fromColumn.tooltip "Klik om te sorteren op van">
-<!ENTITY recipientColumn.tooltip "Klik om te sorteren op ontvanger">
-<!ENTITY subjectColumn.tooltip "Klik om te sorteren op onderwerp">
-<!ENTITY dateColumn.tooltip "Klik om te sorteren op datum">
-<!ENTITY priorityColumn.tooltip "Klik om te sorteren op prioriteit">
-<!ENTITY tagsColumn.tooltip "Klik om te sorteren op labels">
-<!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
-<!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
-<!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
-<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
-<!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
-<!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
-<!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
-<!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
+<!ENTITY columnChooser2.tooltip "Selecteer weer te geven kolommen">
+<!ENTITY threadColumn2.tooltip "Geef berichtconversaties weer">
+<!ENTITY fromColumn2.tooltip "Op van sorteren">
+<!ENTITY recipientColumn2.tooltip "Op ontvanger sorteren">
+<!ENTITY subjectColumn2.tooltip "Op onderwerp sorteren">
+<!ENTITY dateColumn2.tooltip "Op datum sorteren">
+<!ENTITY priorityColumn2.tooltip "Op prioriteit sorteren">
+<!ENTITY tagsColumn2.tooltip "Op labels sorteren">
+<!ENTITY accountColumn2.tooltip "Op account sorteren">
+<!ENTITY statusColumn2.tooltip "Op status sorteren">
+<!ENTITY sizeColumn2.tooltip "Op grootte sorteren">
+<!ENTITY junkStatusColumn2.tooltip "KOp ongewenstberichtstatus sorteren">
+<!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
+<!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
+<!ENTITY readColumn2.tooltip "Op gelezen sorteren">
+<!ENTITY receivedColumn2.tooltip "Op ontvangstdatum sorteren">
+<!ENTITY starredColumn2.tooltip "Op ster sorteren">
+<!ENTITY locationColumn2.tooltip "Op locatie sorteren">
+<!ENTITY idColumn2.tooltip "Op volgorde van ontvangst sorteren">
