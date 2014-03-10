@@ -6,31 +6,49 @@
      your language and/or locale. More detailed notes below. -->
 
 
+<!ENTITY pageTitle                 "&brandShortName; స్పందన">
 
-
-
+<!ENTITY intro.header              "ఒక నిమిషం సమయం ఉందా?">
+<!ENTITY intro.message             "ఆండ్రాయిడ్ కొరకు &brandShortName; మీరు ఎలావుందని అనుకుంటున్నారో మాకు చెప్పండి.">
+<!ENTITY intro.happyLink           "నేను ఇష్టపడుతున్నాను">
+<!ENTITY intro.sadLink             "నాకు కొన్ని సమస్యలు వచ్చాయి">
+<!ENTITY intro.maybeLater          "తరువాత చెప్తాను">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre2              "ఇది కూడా సందర్శించవచ్చు">
+<!ENTITY support.link              "&brandShortName; తోడ్పాటు">
+<!ENTITY support.post2             "మరింత సమాచారం కొరకు.">
 
-
+<!ENTITY happy.header              "వింటానికి గొప్పగా ఉంది!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "గూగుల్ ప్లే నందు మాకు 5 స్టార్ గుర్తింపును ఇచ్చి మాపట్ల మీ అభిమానాన్ని తెలుపాలని అనుకొంటున్నారా?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.finePrint           "గొప్పగా ఉంటుంది మరియు నిమిషం కన్నా తక్కువ సమయం తీసుకొంటుంది.">
 
+<!ENTITY happy.ratingLink          "సరే, గూగుల్ ప్లే కు వెళ్ళు">
+<!ENTITY happy.maybeLater2         "తరువాత చూద్దాం">
+<!ENTITY happy.noThanks            "అడిగినందుకు ధన్యవాదాలు, వద్దు">
 
-
-
-
+<!ENTITY sad.message               "&brandShortName; తో మీకు సమస్యలు వచ్చినందుకు మేము చింతిస్తున్నాము. ఏమైందో మాకు చెప్పండి అది మేము పరిష్కరించుతాము.">
+<!ENTITY sad.placeholder           "మీ స్పందనను ఇక్కడ ప్రవేశపెట్టండి">
+<!ENTITY sad.lastSite              "చివరిగా దర్శించన సమయం (ఐచ్చికం)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "మాకు తెలియజేసినందుకు కృతజ్ఞతలు.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+
+<!ENTITY sad.thanksMessageTop      "&brandShortName; ను ఉత్తమంగా చేయుటకు మేము ఎల్లప్పుడూ పనిచేస్తున్నాము. మీ స్పందనను వాస్తవికంగా పరిశీలించు మరియు దానిని పరిష్కరించుటకు మా శాయశక్తులా ప్రయత్నిస్తాము.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-
+<!ENTITY feedback.privacy          "మీ గోప్యత కొరకు, మీ స్పందన నందు వ్యక్తిగత గుర్తింపు సమాచారం చేర్చవద్దు.">
+<!ENTITY feedback.send             "స్పందనను పంపు">

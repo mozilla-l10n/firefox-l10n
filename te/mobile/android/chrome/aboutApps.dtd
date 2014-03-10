@@ -2,10 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.title2                          "అనువర్తనాలు">
+<!ENTITY aboutApps.header                          "మీ అనువర్తనాలు">
 
-
-
-
+<!ENTITY aboutApps.browseMarketplace "ఫైర్‌ఫాక్స్ మార్కెట్‌ప్లేస్ అన్వేషించు">
+<!ENTITY aboutApps.uninstall "నిర్మూలించు">
+<!ENTITY aboutApps.addToHomescreen "నివాస తెరకు జతచేయి">
