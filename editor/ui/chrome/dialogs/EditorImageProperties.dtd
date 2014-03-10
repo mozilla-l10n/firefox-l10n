@@ -73,7 +73,7 @@
 <!ENTITY showImageLinkBorder.accessKey "р">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Направи ја странтат позадина">
+<!ENTITY makePageBackgroundCheckbox.label "Направи ја страната позадина">
 <!ENTITY makePageBackgroundCheckbox.tooltip "Користете слика како позадина на Вашата страница">
 <!ENTITY editImageButton.label "Измени слика">
 <!ENTITY editImageButton.tooltip "Изменете ја сликата во друга програма">
