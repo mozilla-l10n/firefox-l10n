@@ -11,9 +11,9 @@
 <!ENTITY update.checkForUpdatesButton.label       "Controleren op updates">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label                "Herstart om bij te werken">
-<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.updateButton.accesskey            "H">
 <!ENTITY update.applyButtonBillboard.label        "Update toepassen…">
-<!ENTITY update.applyButtonBillboard.accesskey    "t">
+<!ENTITY update.applyButtonBillboard.accesskey    "U">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
