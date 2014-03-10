@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "انقل لأسفل">
 <!ENTITY account.cancelReconnection.label         "ألغِ إعادة الاتصال">
 <!ENTITY account.cancelReconnection.accesskey     "ل">
+<!ENTITY account.copyDebugLog.label     "انسخ سجل التنقيح">
+<!ENTITY account.copyDebugLog.accesskey "ن">
 <!ENTITY account.connecting           "يتّصل…">
 <!ENTITY account.disconnecting        "يقطع الاتصال…">
 <!ENTITY account.disconnected         "غير متصل">
