@@ -178,10 +178,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "Служби місцезнаходження &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Допоможіть нам покращити геолокаційні служби для Відкритої Мережі дозволивши &brandShortName;’у збирати та надсилати анонімні дані про мобільні вежі.">
 
-<!ENTITY pref_update_autodownload "Автоматичні оновлення">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Завантажувати оновлення автоматично">
 <!ENTITY pref_update_autodownload_wifi "Лише по Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Вимкнені">
-<!ENTITY pref_update_autodownload_enabled "Увімкнені">
+<!ENTITY pref_update_autodownload_never "Ніколи">
+<!ENTITY pref_update_autodownload_always "Завжди">
 
 <!ENTITY quit "Вийти">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Редагувати">
 <!ENTITY contextmenu_top_sites_pin "Прикріпити сайт">
 <!ENTITY contextmenu_top_sites_unpin "Відкріпити сайт">
+<!ENTITY contextmenu_add_search_engine "Додати пошуковий рушій">
 
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
 <!ENTITY pref_titlebar_mode_url "Показувати адресу сторінки">
+
+<!ENTITY pref_dynamic_toolbar "Прокручувати заголовок">
 
 <!ENTITY history_removed "Сторінку вилучено">
 
@@ -368,3 +374,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; буде перезапущено">
 <!ENTITY exit_guest_session_text "Дані цього сеансу перегляду будуть видалені.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Меню">
+<!ENTITY actionbar_done "Готово">
