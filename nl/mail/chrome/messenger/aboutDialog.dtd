@@ -1,5 +1,17 @@
 <!ENTITY aboutDialog.title          "Over &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Controleren op updates">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "Herstart om bij te werken">
+<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.applyButtonBillboard.label        "Update toepassen…">
+<!ENTITY update.applyButtonBillboard.accesskey    "t">
+
 <!ENTITY community.start2           "&brandShortName; is ontworpen door ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
