@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label			"아래로 이동">
 <!ENTITY account.cancelReconnection.label	"재접속 취소">
 <!ENTITY account.cancelReconnection.accesskey	"a">
+<!ENTITY account.copyDebugLog.label     "디버그 로그 복사하기">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting			"접속 중…">
 <!ENTITY account.disconnecting			"연결 해제 중…">
 <!ENTITY account.disconnected			"연결 해제 완료">

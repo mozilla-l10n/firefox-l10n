@@ -1,5 +1,18 @@
 <!ENTITY aboutDialog.title "&brandFullName; 정보">
 
+
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "업데이트 확인하기">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "업데이트를 위해 재시작하기">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "업데이트 적용하기…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
+
 <!ENTITY community.start2 "&brandShortName;는 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
@@ -24,8 +37,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates) : try to make the localized text short (see bug 596813 for screenshots) -->
 <!ENTITY update.checkingForUpdates "소프트웨어 업데이트를 확인 중…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat) : try to make the localized text short (see bug 596813 for screenshots) -->
-<!ENTITY update.checkingAddonCompat "부가 기능 호환성 확인 중…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound) : try to make the localized text short (see bug 596813 for screenshots) -->
 <!ENTITY update.noUpdatesFound "&brandShortName;는 최신 버전임">
 <!-- LOCALIZATION NOTE (update.adminDisabled) : try to make the localized text short (see bug 596813 for screenshots) -->

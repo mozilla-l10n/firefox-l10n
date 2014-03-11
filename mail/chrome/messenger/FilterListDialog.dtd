@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "폴더에 선택한 필터 실행:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "폴더 선택">
-<!ENTITY choosethisnewsserver.label "뉴스 서버 선택">
 <!ENTITY helpButton.label "도움말">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

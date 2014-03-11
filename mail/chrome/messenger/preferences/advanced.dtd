@@ -62,20 +62,21 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey	"C">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "자동으로 업데이트 검사:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "설치된 부가 기능">
-<!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "&brandShortName;의 업데이트를 찾으면:">
-<!ENTITY modeAskMe.label                "물어 보기">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "자동으로 업데이트 설치">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "부가 기능을 사용할 수 없을 경우 경고하기">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "업데이트 기록 보기">
-<!ENTITY showUpdates.accesskey          "S">
+<!ENTITY updateApp.label                 "&brandShortName; 업데이트:">
+<!ENTITY updateAuto.label                "자동으로 업데이트 설치하기 (추천방식: 보안이 강화됨)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "새 업데이트를 체크하고 설치여부 묻기">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "새 업데이트 체크하지 않기(추천하지 않음: 보안 위험)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "부가 기능이 비활성화 될 때 경고하기">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "업데이트 기록 보기">
+<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateOthers.label              "자동으로 업데이트하기:">
+<!ENTITY enableAddonsUpdate3.label       "설치된 부가 기능">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+
 <!ENTITY useService.label	"업데이트 설치를 위해 백그라운드 서비스를 이용">
 <!ENTITY useService.accesskey			"b">
 

@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "메시지 검색">
 <!ENTITY results.label               "결과">
-<!ENTITY moveHereMenu.label          "여기로 이동">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "이동">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label              "받은 순서">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip       "표시할 항목 선택">
-<!ENTITY threadColumn.tooltip        "메시지 표시">
-<!ENTITY fromColumn.tooltip          "보낸 사람 순으로 정렬">
-<!ENTITY recipientColumn.tooltip     "받는 사람으로 정렬">
-<!ENTITY subjectColumn.tooltip       "제목으로 정렬">
-<!ENTITY dateColumn.tooltip          "날짜로 정렬">
-<!ENTITY priorityColumn.tooltip      "중요도로 정렬">
-<!ENTITY tagsColumn.tooltip          "태그로 정렬하기">
-<!ENTITY accountColumn.tooltip       "계정별로 정렬">
-<!ENTITY statusColumn.tooltip        "메일 상태로 정렬">
-<!ENTITY sizeColumn.tooltip          "크기로 정렬">
-<!ENTITY junkStatusColumn.tooltip    "스팸 상태로 정렬">
-<!ENTITY unreadColumn.tooltip        "글타래의 읽지 않은 메일 수">
-<!ENTITY totalColumn.tooltip         "메시지 전체 개수">
-<!ENTITY readColumn.tooltip          "읽은 상태로 정렬">
-<!ENTITY receivedColumn.tooltip      "받은 날짜 순으로 정렬">
-<!ENTITY starredColumn.tooltip       "별표로 정렬">
-<!ENTITY locationColumn.tooltip      "주소로 정렬">
-<!ENTITY idColumn.tooltip            "받은 순서로 정렬">
+<!ENTITY columnChooser2.tooltip       "표시할 항목 선택">
+<!ENTITY threadColumn2.tooltip        "메시지 표시">
+<!ENTITY fromColumn2.tooltip          "보낸 사람 순으로 정렬">
+<!ENTITY recipientColumn2.tooltip     "받는 사람으로 정렬">
+<!ENTITY subjectColumn2.tooltip       "제목으로 정렬">
+<!ENTITY dateColumn2.tooltip          "날짜로 정렬">
+<!ENTITY priorityColumn2.tooltip      "중요도로 정렬">
+<!ENTITY tagsColumn2.tooltip          "태그로 정렬하기">
+<!ENTITY accountColumn2.tooltip       "계정별로 정렬">
+<!ENTITY statusColumn2.tooltip        "메일 상태로 정렬">
+<!ENTITY sizeColumn2.tooltip          "크기로 정렬">
+<!ENTITY junkStatusColumn2.tooltip    "스팸 상태로 정렬">
+<!ENTITY unreadColumn2.tooltip        "글타래의 읽지 않은 메일 수">
+<!ENTITY totalColumn2.tooltip         "메시지 전체 개수">
+<!ENTITY readColumn2.tooltip          "읽은 상태로 정렬">
+<!ENTITY receivedColumn2.tooltip      "받은 날짜 순으로 정렬">
+<!ENTITY starredColumn2.tooltip       "별표로 정렬">
+<!ENTITY locationColumn2.tooltip      "주소로 정렬">
+<!ENTITY idColumn2.tooltip            "받은 순서로 정렬">
