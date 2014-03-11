@@ -54,6 +54,7 @@
 <!ENTITY back "Terug">
 <!ENTITY stop "Stoppen">
 <!ENTITY site_security "Websitebeveiliging">
+<!ENTITY save "Opslaan">
 
 <!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY one_tab "1 tabblad">
@@ -284,6 +285,7 @@ size. -->
 <!ENTITY site_settings_clear        "Wissen">
 <!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
+<!ENTITY reading_list_add "Aan leeslijst toevoegen">
 <!ENTITY reading_list_added "Pagina aan uw leeslijst toegevoegd">
 <!ENTITY reading_list_removed "Pagina van uw leeslijst verwijderd">
 <!ENTITY reading_list_failed "Pagina aan uw leeslijst toevoegen mislukt">
