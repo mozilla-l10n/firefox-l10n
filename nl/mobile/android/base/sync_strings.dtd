@@ -131,7 +131,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Privacyverklaring (en)'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Welkom bij &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Meld u aan om uw tabbladen, bladwijzers, wachtwoorden & meer te synchroniseren.'>
+<!ENTITY fxaccount_getting_started_description 'Meld u aan om uw tabbladen, bladwijzers, wachtwoorden &amp; meer te synchroniseren.'>
 <!ENTITY fxaccount_getting_started_get_started 'Beginnen'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Gebruikt u een oudere versie van &syncBrand.shortName.label;?'>
 
