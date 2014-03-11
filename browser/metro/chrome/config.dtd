@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Kërkim">
-<!ENTITY newpref.label          "Shtoni Parapëlqim të Ri">
 <!ENTITY addpref.name           "Emër">
-<!ENTITY addpref.value          "Vlerë">
 
 <!ENTITY cancel.label           "Anuloje">
-<!ENTITY reset.label            "Riktheje">
-<!ENTITY done.label             "U bë">
+<!ENTITY toggle.label           "Aktivizoje/Çaktivizoje">
 
 <!ENTITY integer.label          "Numër i plotë">
 <!ENTITY string.label           "Varg">
 <!ENTITY boolean.label          "Buleane">
+
+<!ENTITY string.placeholder     "Jepni një varg">
+<!ENTITY number.placeholder     "Jepni një numër">
