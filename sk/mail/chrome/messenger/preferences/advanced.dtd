@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "U">
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "Z">
-<!ENTITY updateOthers.label              "Automaticky aktualizovať:">
-<!ENTITY enableAddonsUpdate3.label       "Doplnky">
-<!ENTITY enableAddonsUpdate3.accesskey   "D">
 
 <!ENTITY useService.label                "Na inštaláciu aktualizácií použiť službu na pozadí">
 <!ENTITY useService.accesskey            "k">
