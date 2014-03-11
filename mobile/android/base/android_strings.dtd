@@ -90,6 +90,8 @@
 
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_panels "Panely">
+<!ENTITY pref_home_add_panel "Pridať panel">
+<!ENTITY home_add_panel_title "Pridať nový panel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
