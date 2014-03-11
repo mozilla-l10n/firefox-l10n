@@ -36,7 +36,6 @@
 <!ENTITY font.langGroup.el                       "Græsk">
 <!ENTITY font.langGroup.turkish                  "Tyrkisk">
 <!ENTITY font.langGroup.unicode                  "Andre sprog">
-<!ENTITY font.langGroup.user-def                 "Brugerdefineret">
 <!ENTITY font.langGroup.thai                     "Thai">
 <!ENTITY font.langGroup.hebrew                   "Hebræisk">
 <!ENTITY font.langGroup.arabic                   "Arabisk">
