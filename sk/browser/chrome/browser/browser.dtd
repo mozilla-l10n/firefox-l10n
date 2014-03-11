@@ -661,6 +661,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "N">
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
 <!ENTITY syncSyncNowItem.accesskey    "N">
+<!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Synchronizácia">
 
 <!ENTITY socialToolbar.title        "Tlačidlo Sociálne siete">
