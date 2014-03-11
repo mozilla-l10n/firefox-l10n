@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Mbrapsht">
 <!ENTITY forward.label         "Para">
 <!ENTITY newtab.label          "Skedë e Re">
+<!ENTITY newPrivateTab.label   "Skedë e re Vetjake">
 <!ENTITY closetab.label        "Mbylle Skedën">
 
 <!ENTITY autocompleteResultsHeader.label  "Përfundimet Tuaja">
@@ -103,6 +104,9 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
