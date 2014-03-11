@@ -70,6 +70,7 @@
 <!ENTITY pref_category_home_panels "Pannelli">
 <!ENTITY pref_home_add_panel "Aggiungi pannello">
 <!ENTITY home_add_panel_empty "Non è stato trovato alcun pannello da aggiungere.">
+<!ENTITY home_add_panel_installed "“&formatS;” aggiunto alla pagina iniziale">
 <!ENTITY pref_category_home_content_settings "Impostazioni contenuti">
 <!ENTITY pref_home_updates "Aggiornamento automatico">
 <!ENTITY pref_home_updates_enabled "Attivo">
