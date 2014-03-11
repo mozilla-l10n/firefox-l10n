@@ -82,6 +82,9 @@
 <!ENTITY pref_developer_remotedebugging_docs "Meer info">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
+<!ENTITY pref_category_home "Startpagina">
+<!ENTITY pref_category_home_panels "Panelen">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Aanpassen">
 <!ENTITY pref_header_display "Weergave">
