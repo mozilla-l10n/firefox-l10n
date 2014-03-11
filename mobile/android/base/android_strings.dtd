@@ -93,6 +93,10 @@
 <!ENTITY pref_home_add_panel "Lägg till panel">
 <!ENTITY home_add_panel_title "Lägg till ny panel">
 <!ENTITY home_add_panel_empty "Tyvärr, vi hittade inga paneler att lägga till.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "”&formatS;” lades till på startsidan">
 <!ENTITY pref_category_home_content_settings "Innehåll">
 <!ENTITY pref_home_updates "Automatiska uppdateringar">
 <!ENTITY pref_home_updates_enabled "Aktiverat">
