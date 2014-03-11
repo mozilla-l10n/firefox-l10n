@@ -40,6 +40,6 @@
 <!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn2.tooltip "Op gelezen sorteren">
 <!ENTITY receivedColumn2.tooltip "Op ontvangstdatum sorteren">
-<!ENTITY starredColumn2.tooltip "Op ster sorteren">
+<!ENTITY flagColumn2.tooltip "Op gemarkeerd sorteren">
 <!ENTITY locationColumn2.tooltip "Op locatie sorteren">
 <!ENTITY idColumn2.tooltip "Op volgorde van ontvangst sorteren">
