@@ -89,6 +89,7 @@
 <!ENTITY pref_category_home_panels "Panelen">
 <!ENTITY pref_home_add_panel "Paneel toevoegen">
 <!ENTITY home_add_panel_title "Nieuw paneel toevoegen">
+<!ENTITY home_add_panel_empty "Sorry, we kunnen geen panelen voor u vinden om toe te voegen.">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Aanpassen">
