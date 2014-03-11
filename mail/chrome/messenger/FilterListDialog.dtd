@@ -20,8 +20,8 @@
 <!ENTITY reorderDownButton.accesskey "l">
 <!ENTITY reorderBottomButton "Onderaan plaatsen">
 <!ENTITY reorderBottomButton.accessKey "O">
-<!ENTITY reorderBottomButton.toolTip "Verplaats filter zodat het als laatste uitgevoerd wordt"><!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
-<!ENTITY filterHeader.label "Actieve filters worden automatisch uitgevoerd in de hieronder getoonde volgorde.">
+<!ENTITY reorderBottomButton.toolTip "Verplaats filter zodat het als laatste uitgevoerd wordt">
+<!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
 <!ENTITY filtersForPrefix.label "Filters voor:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogboek">
