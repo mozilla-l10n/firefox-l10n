@@ -93,6 +93,10 @@
 <!ENTITY pref_home_add_panel "Pridať panel">
 <!ENTITY home_add_panel_title "Pridať nový panel">
 <!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
+<!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
+<!ENTITY pref_home_updates "Automatické aktualizácie">
+<!ENTITY pref_home_updates_enabled "Povolené">
+<!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
