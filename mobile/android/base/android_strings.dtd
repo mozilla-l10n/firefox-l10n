@@ -14,7 +14,7 @@
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
+<!ENTITY  crash_reporter_title "&brandShortName; Fejlrapportør">
 <!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startsiden, når du genstarter.">
 <!ENTITY  crash_send_report_message3 "Fortæl &vendorShortName; om nedbruddet, så de kan rette fejlen">
 <!ENTITY  crash_include_url2 "Inkluder webadressen til den besøgte side">

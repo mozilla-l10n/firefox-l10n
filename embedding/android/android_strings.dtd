@@ -7,7 +7,7 @@
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
+<!ENTITY  crash_reporter_title "&brandShortName; Fejlrapportør">
 <!ENTITY  crash_message "&brandShortName; gik ned. Dine faneblade bør blive vist på &brandShortName; Start-siden når du genstarter.">
 <!ENTITY  crash_help_message "Hjælp os med at rette dette problem!">
 <!ENTITY  crash_send_report_message "Send Mozilla en fejlrapport">
