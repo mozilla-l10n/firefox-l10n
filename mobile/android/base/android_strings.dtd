@@ -92,6 +92,7 @@
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY pref_home_add_panel "Pridať panel">
 <!ENTITY home_add_panel_title "Pridať nový panel">
+<!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
