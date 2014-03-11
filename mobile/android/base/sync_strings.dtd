@@ -174,6 +174,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kan niet aanmelden'>
 
 <!ENTITY fxaccount_status_header 'Firefox-account'>
+<!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ingeschakeld'>
 <!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden bevestigd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
