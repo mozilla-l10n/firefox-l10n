@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Tilbage">
 <!ENTITY forward.label         "Frem">
 <!ENTITY newtab.label          "Nyt faneblad">
+<!ENTITY newPrivateTab.label   "Nyt pivat faneblad">
 <!ENTITY closetab.label        "Luk fanebladet">
 
 <!ENTITY autocompleteResultsHeader.label  "Dine resultater">
@@ -103,6 +104,24 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (cont  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Tap to go back to the previous page">
+<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
+<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
+<!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
+<!ENTITY firstRunGotIt.label "Got it!">rol+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -130,3 +149,21 @@
 <!ENTITY firstRunHistory.label "Se, hvor du har været på nettet">
 <!ENTITY firstRunWelcome.label "Velkommen til &brandShortName;">
 <!ENTITY firstRunDifferent.label "Grundlæggende anderledes">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Tryk for at gå tilbage til forrige side">
+<!ENTITY firstRunNewTab.label "Tilføj et nyt faneblad for at besøge et nyt websted">
+<!ENTITY firstRunStar.label "Brug bogmærker til at gemme websider til senere">
+<!ENTITY firstRunPin.label "Fastgør ethvert websted til din startskærm for hurtig adgang til webstedet">
+<!ENTITY firstRunGotIt.label "Forstået!">

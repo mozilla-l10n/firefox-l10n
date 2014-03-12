@@ -18,4 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "Søg i HTML">
 <!ENTITY inspectorSearchHTML.key            "H">
 
-<!ENTITY inspectorCopyImageDataUri.label       "Kopier data-URL">
+<!ENTITY inspectorCopyImageDataUri.label       "Kopier billeddata-URL">

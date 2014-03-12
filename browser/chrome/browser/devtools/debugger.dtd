@@ -41,9 +41,26 @@
   -  button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.sources.prettyPrint "Læsevenlig udgave">
 
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Lav automatisk læsevenlig udgave">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "L">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Aktiver/deaktiver alle breakpoints">
+
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+<!ENTITY debuggerUI.startTracing "Start tracing">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "Ryd">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton.tooltip "Ryd indsamlede traces">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
