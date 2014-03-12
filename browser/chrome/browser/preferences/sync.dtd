@@ -16,7 +16,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account beheren">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Quota bekijken">
+<!ENTITY viewQuota.label              "Quotum bekijken">
 <!ENTITY changePassword2.label        "Wachtwoord wijzigen…">
 <!ENTITY myRecoveryKey.label          "Mijn herstelsleutel">
 <!ENTITY resetSync2.label             "Sync herinitialiseren…">
