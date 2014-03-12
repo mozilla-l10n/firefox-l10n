@@ -24,8 +24,7 @@
 <!ENTITY warn.insecurepost.accesskey "ф">
 <!ENTITY warn.leavingsecure "уходом со страницы, поддерживающей шифрование">
 <!ENTITY warn.leavingsecure.accesskey "у">
-<!ENTITY warn.viewmixed "просмотром страницы со смешанным содержанием">
-<!ENTITY warn.viewmixed.accesskey "м">
+<!ENTITY mixed.description "Зашифрованные страницы могут содержать незашифрованное содержимое, для которого существует угроза перехвата или подделки. &brandShortName; может его обнаружить и заблокировать:">
 <!ENTITY warn.mixedactivecontent "Предупреждать, когда зашифрованные страницы содержат небезопасное содержимое">
 <!ENTITY warn.mixedactivecontent.accesskey "е">
 <!ENTITY block.activecontent "Не загружать небезопасное содержимое на зашифрованных страницах">
