@@ -16,6 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
 
 <!ENTITY appmenu.tooltip                     "Åbn menu">
+<!ENTITY navbarOverflow.label                "Flere værktøjer…">
 
 
 <!-- Tab context menu -->
