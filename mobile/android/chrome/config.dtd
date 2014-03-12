@@ -8,10 +8,10 @@
 <!ENTITY newPref.namePlaceholder       "Navn">
 
 <!ENTITY newPref.valueBoolean          "Boolsk">
-<!ENTITY newPref.valueString           "Søgeterm">
+<!ENTITY newPref.valueString           "Streng">
 <!ENTITY newPref.valueInteger          "Heltal">
 
-<!ENTITY newPref.stringPlaceholder     "Indtast en søgeterm">
+<!ENTITY newPref.stringPlaceholder     "Indtast en streng">
 <!ENTITY newPref.numberPlaceholder     "Indtast et tal">
 
 <!ENTITY newPref.toggleButton          "Skift">
