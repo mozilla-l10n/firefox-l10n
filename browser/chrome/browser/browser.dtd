@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
 
+<!ENTITY appmenu.tooltip                     "Åbn menu">
+
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Genindlæs faneblad">
 <!ENTITY  reloadTab.accesskey                "e">
@@ -172,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
 <!ENTITY backForwardItem.title        "Frem/Tilbage">
+<!ENTITY viewBookmarksSidebar.label   "Vis i sidebjælken">
 <!ENTITY locationItem.title           "Adressefelt">
 <!ENTITY searchItem.title             "Søgefelt">
 <!ENTITY throbberItem.title           "Aktivitetsindikator">
@@ -607,6 +611,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Afslut">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
+<!ENTITY quitApplicationCmdWin.tooltip     "Afslut &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Afslut">
@@ -701,7 +706,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key        "'">
 
 <!ENTITY socialToolbar.title        "Social værktøjsknap">
-<!ENTITY social.notLoggedIn.label   "Ikke logget ind">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
