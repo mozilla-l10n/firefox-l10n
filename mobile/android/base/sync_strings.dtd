@@ -109,10 +109,10 @@
 
 <!-- Localization note: these describe icons and graphics, and are
      consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts checkbox graphic'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox accounts icon'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox accounts introduction graphics'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox accounts envelope graphic'>
+<!ENTITY fxaccount_checkbox_contentDescription2 'Afbeelding Firefox-accounts-selectievakje'>
+<!ENTITY fxaccount_icon_contentDescription2 'Pictogram Firefox-accounts'>
+<!ENTITY fxaccount_intro_contentDescription2 'Afbeeldingen Firefox-accounts-introductie'>
+<!ENTITY fxaccount_mail_contentDescription2 'Afbeelding Firefox-accounts-envelop'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -131,7 +131,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Privacyverklaring (en)'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Welkom bij &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Meld u aan om uw tabbladen, bladwijzers, wachtwoorden &amp; meer te synchroniseren.'>
+<!ENTITY fxaccount_getting_started_description 'Meld u aan om uw tabbladen, bladwijzers, wachtwoorden en meer te synchroniseren.'>
 <!ENTITY fxaccount_getting_started_get_started 'Beginnen'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Gebruikt u een oudere versie van &syncBrand.shortName.label;?'>
 
@@ -142,21 +142,21 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Moet minstens 8 tekens zijn'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Geboortejaar'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Ik accepteer de &formatS1; en &formatS2; van de Firefox-onlineservices door door te gaan.'>
+<!ENTITY fxaccount_create_account_policy_text 'Door verder te gaan accepteer ik de &formatS1; en &formatS2; van de Firefox-onlineservices.'>
 <!ENTITY fxaccount_create_account_button 'Volgende'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Hies wat te synchroniseren'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Kies wat te synchroniseren'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Al een account? Aanmelden'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 of eerder'>
 <!ENTITY fxaccount_create_account_unknown_error 'Kan geen account aanmaken'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Kan geen account aanmaken'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'U moet aan leeftijdsvoorwaarden voldoen om een account aan te maken.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'U moet aan bepaalde leeftijdsvoorwaarden voldoen om een account aan te maken.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Meer info'>
 
 <!ENTITY fxaccount_confirm_account_header 'Bevestig uw account'>
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Een verificatielink is verzonden naar &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'E-mail Opnieuw verzenden'>
+<!ENTITY fxaccount_confirm_account_verification_link 'Er is een verificatiekoppeling verzonden naar &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'E-mail opnieuw verzenden'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verificatie-e-mail verzonden'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kan geen verificatie-e-mail verzenden'>
 
@@ -167,7 +167,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error 'Kan niet aanmelden'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'Account geverifieerd'>
-<!ENTITY fxaccount_account_verified_description2 'over een moemnt zullen we beginnen met het synchroniseren van uw gegevens.'>
+<!ENTITY fxaccount_account_verified_description2 'Het synchroniseren van uw gegevens zal over enkele ogenblikken beginnen.'>
 
 <!ENTITY fxaccount_update_credentials_header 'Aanmelden'>
 <!ENTITY fxaccount_update_credentials_button_label 'Aanmelden'>
@@ -177,14 +177,14 @@
 <!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ingeschakeld'>
-<!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden bevestigd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
-<!ENTITY fxaccount_status_needs_credentials 'KAn niet verbinden. Tik om aan te melden.'>
-<!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om aan te melden.'>
+<!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden geverifieerd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
+<!ENTITY fxaccount_status_needs_credentials 'Kan niet verbinden. Tik om u aan te melden.'>
+<!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
-<!ENTITY fxaccount_status_history 'Geschiendenis'>
+<!ENTITY fxaccount_status_history 'Geschiedenis'>
 <!ENTITY fxaccount_status_passwords 'Wachtwoorden'>
-<!ENTITY fxaccount_status_tabs 'Open tabbladen'>
-<!ENTITY fxaccount_status_legal 'Legal' >
+<!ENTITY fxaccount_status_tabs 'Geopende tabbladen'>
+<!ENTITY fxaccount_status_legal 'Juridisch' >
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
@@ -205,15 +205,15 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account bestaat al. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ongeldige e-mail of wachtwoord'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ongeldige e-mail of wachtwoord'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is niet bevestigd'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezig, probeer het opnieuw'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezigy, probeer het opnieuw'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er is een probleem'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ongeldig e-mailadres of wachtwoord'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ongeldig e-mailadres of wachtwoord'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is niet geverifieerd'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezet, probeer het later opnieuw'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezet, probeer het later opnieuw'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er was een probleem'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met het netwerk'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om aan te melden als &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om u aan te melden als &formatS;'>

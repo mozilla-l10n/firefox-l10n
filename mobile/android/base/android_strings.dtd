@@ -74,7 +74,7 @@
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
 <!ENTITY pref_category_add_search_providers "Meer zoekproviders toevoegen">
-<!ENTITY pref_category_search_restore_defaults "Standaard zoekmachines herstellen">
+<!ENTITY pref_category_search_restore_defaults "Zoekmachines herstellen">
 <!ENTITY pref_search_restore_defaults "Standaardwaarden herstellen">
 <!ENTITY pref_search_restore_defaults_summary "Standaardwaarden herstellen">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -84,7 +84,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden en tik vervolgens de &formatI; pictogram.">
 <!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
-<!ENTITY pref_developer_remotedebugging "Remote-debugging">
+<!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Meer info">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
