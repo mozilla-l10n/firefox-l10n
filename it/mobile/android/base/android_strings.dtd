@@ -52,6 +52,7 @@
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_customize "Personalizzazione">
 <!ENTITY pref_category_search3 "Ricerca">
+<!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
