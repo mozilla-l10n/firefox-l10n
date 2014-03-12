@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Vetjak)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Privat)">
 
 <!ENTITY appmenu.tooltip                     "Hape menunë">
 <!ENTITY navbarOverflow.label                "Më tepër mjete…">
@@ -404,7 +404,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "S">
 <!ENTITY openLinkCmd.label            "Hape Lidhjen në Dritare të Re">
 <!ENTITY openLinkCmd.accesskey        "D">
-<!ENTITY openLinkInPrivateWindowCmd.label "Hape Lidhjen në Dritare të Re Vetjake">
+<!ENTITY openLinkInPrivateWindowCmd.label "Hape Lidhjen në Dritare të Re Private">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "V">
 <!ENTITY openLinkCmdInCurrent.label     "Hape Lidhjen">
 <!ENTITY openLinkCmdInCurrent.accesskey "H">
