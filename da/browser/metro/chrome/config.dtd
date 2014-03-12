@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Søg">
-<!ENTITY newpref.label          "Tilføj en ny præference">
 <!ENTITY addpref.name           "Navn">
-<!ENTITY addpref.value          "Værdi">
 
-<!ENTITY cancel.label           "Fortryd">
-<!ENTITY reset.label            "Nulstil">
-<!ENTITY done.label             "Færdig">
+<!ENTITY cancel.label           "Annuller">
+<!ENTITY toggle.label           "Skift">
 
 <!ENTITY integer.label          "Heltal">
 <!ENTITY string.label           "Streng">
 <!ENTITY boolean.label          "Boolsk værdi">
+
+<!ENTITY string.placeholder     "Indtast en streng">
+<!ENTITY number.placeholder     "Indtast et tal">

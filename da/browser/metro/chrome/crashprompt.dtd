@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Hvad indeholder en fejlrapport?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "En fejlrapport indeholder nogle detaljer om den opståede fejl og om din computer, samt et øjebliksbillede af din browsers tilstand, da den gik ned.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Dette kan inkludere åbne sider, tekst indtastet i formularer og indholdet i åbne beskeder, nylig browserhistorik eller positionsdata delt med et websted.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Vi bruger fejlrapporter til at forsøge at løse problemer og forbedre vores produkter. Vi håndterer dine informationer som beskrevet i vores ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Vi bruger fejlrapporter til at forsøge at løse problemer og forbedre vores produkter. Vi håndterer dine informationer som beskrevet i vores ">
 <!ENTITY crashprompt.privacyPolicyLink "privatlivspolitik for &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Inkluder adressen til det websted, jeg besøgte">
 <!ENTITY crashprompt.acceptbutton    "Send rapporter">
 <!ENTITY crashprompt.refusebutton    "Send ikke rapporter">
