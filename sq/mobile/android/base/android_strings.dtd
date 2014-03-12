@@ -70,7 +70,7 @@
 <!ENTITY pref_char_encoding_off "Mos e shfaq menunë">
 <!ENTITY pref_clear_history "Pastro historikun">
 <!ENTITY pref_clear_history_confirm "Historiku i shfletimit do të fshihet">
-<!ENTITY pref_clear_private_data "Pastro të dhëna vetjake">
+<!ENTITY pref_clear_private_data "Pastro të dhëna private">
 <!ENTITY pref_clear_private_data_confirm "Rregullimet për shfletimin, përfshi fjalëkalimet dhe cookie-t, do të fshihen">
 <!ENTITY pref_text_size "Madhësi teksti">
 <!ENTITY pref_font_size_tiny "Shumë të vogla">

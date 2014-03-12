@@ -11,7 +11,7 @@
 <!ENTITY optionsHeader.char.autodetect.label                     "Vetëzbuloje">
 <!ENTITY optionsHeader.char.options.label                        "Shofaq mundësi kodimesh te Shtylla e Zbatimeve">
 
-<!ENTITY clearPrivateData.title                                  "Pastroni të Dhëna Vetjake">
+<!ENTITY clearPrivateData.title                                  "Pastroni të Dhëna Private">
 <!ENTITY clearPrivateData.label                                  "Pastroni në këtë pajisje historikun tuaj të shfletimit, fjalëkalimet, cookie-t, dhe të dhëna formularësh">
 <!ENTITY clearPrivateData.button                                 "Pastroji">
 <!ENTITY clearPrivateData.done                                   "U bë!">
