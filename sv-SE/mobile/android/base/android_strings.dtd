@@ -89,6 +89,7 @@
 <!ENTITY pref_remember_signons "Spara lösenord">
 
 <!ENTITY pref_category_home "Startsida">
+<!ENTITY pref_category_home_summary "Anpassa startsidan">
 <!ENTITY pref_category_home_panels "Paneler">
 <!ENTITY pref_home_add_panel "Lägg till panel">
 <!ENTITY home_add_panel_title "Lägg till ny panel">
