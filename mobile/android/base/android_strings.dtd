@@ -52,6 +52,7 @@
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
 <!ENTITY pref_category_search3 "Поиск">
+<!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
 <!ENTITY pref_category_privacy_short "Приватность">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -67,10 +68,12 @@
 <!ENTITY pref_developer_remotedebugging_docs "Подробнее">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_category_home "Дом">
+<!ENTITY pref_category_home_summary "Настройка вашей домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
 <!ENTITY pref_home_add_panel "Добавить панель">
 <!ENTITY home_add_panel_title "Добавить новую панель">
 <!ENTITY home_add_panel_empty "К сожалению, мы не смогли найти ни одной панели для добавления.">
+<!ENTITY home_add_panel_installed "\'&formatS;\' добавлено на домашнюю страницу">
 <!ENTITY pref_category_home_content_settings "Параметры содержимого">
 <!ENTITY pref_home_updates "Автоматическое обновление">
 <!ENTITY pref_home_updates_enabled "Включено">
