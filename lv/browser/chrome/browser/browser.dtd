@@ -566,14 +566,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Lapas pamata stils">
 <!ENTITY pageStylePersistentOnly.accesskey "m">
 
-<!ENTITY pageReportIcon.tooltip "Izmainīt uznirstošo logu bloķēšanas iestatījumus šai lapai">
+<!ENTITY pageReportIcon.tooltip "Izmainīt jauno logu bloķēšanas iestatījumus šai lapai">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
-<!ENTITY editPopupSettings.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettingsUnix.label "Rediģēt jauno logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettings.label "Rediģēt jauno logu bloķētāja iestatījumus...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
