@@ -67,7 +67,8 @@
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
-<!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home "Pagina iniziale">
+<!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
 <!ENTITY pref_category_home_panels "Pannelli">
 <!ENTITY pref_home_add_panel "Aggiungi pannello">
 <!ENTITY home_add_panel_empty "Non è stato trovato alcun pannello da aggiungere.">
