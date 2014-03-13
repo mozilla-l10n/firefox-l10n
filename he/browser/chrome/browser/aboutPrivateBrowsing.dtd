@@ -13,10 +13,15 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "פ">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStart3               "כדי להתחיל בגלישה פרטית, ניתן לבחור באפשרות &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart4               "כדי להתחיל בגלישה פרטית, ניתן גם לבחור באפשרות &newPrivateWindow.label; מהתפריט.">
 <!ENTITY privatebrowsingpage.howToStop3                "להפסקת גלישה פרטית ניתן לסגור את החלון.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "למרות שמחשב זה לא ישמור את היסטורית הגלישה שלך, ספק שירותי האינטרנט שלך או המעסיק עדיין יוכלו לעקוב אחר הדפים שאתה מבקר בהם.">
 <!ENTITY privatebrowsingpage.learnMore                 "מידע נוסף">
 
+
+
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "כדי להתחיל בגלישה פרטית, ניתן לבחור באפשרות &basePBMenu.label; &gt; &newPrivateWindow.label;.">
