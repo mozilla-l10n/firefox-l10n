@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "פתיחת אחרונים">
 <!ENTITY openRecentMenu.accesskey     "א">
 
+<!ENTITY revertCmd.label              "החזרה…">
+<!ENTITY revertCmd.accesskey          "ח">
+
 <!ENTITY saveFileCmd.label            "שמירה">
 <!ENTITY saveFileCmd.accesskey        "ש">
 <!ENTITY saveFileCmd.commandkey       "ש">
@@ -61,6 +64,9 @@
 <!ENTITY display.label                "תצוגה">
 <!ENTITY display.accesskey            "ת">
 <!ENTITY display.key                  "l">
+
+<!ENTITY pprint.label                 "הדפסה יפה">
+<!ENTITY pprint.key                   "p">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -101,6 +107,10 @@
   -->
 <!ENTITY resetContext2.label          "איפוס משתנים">
 <!ENTITY resetContext2.accesskey      "א">
+
+<!ENTITY reloadAndRun.label           "טעינה מחדש והפעלה">
+<!ENTITY reloadAndRun.accesskey       "ט">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ביצוע">
 <!ENTITY executeMenu.accesskey        "ב">
