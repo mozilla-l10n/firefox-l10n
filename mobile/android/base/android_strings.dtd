@@ -93,6 +93,10 @@
 <!ENTITY pref_home_add_panel "Ajouter un panneau">
 <!ENTITY home_add_panel_title "Nouveau panneau">
 <!ENTITY home_add_panel_empty "Désolé, aucun panneau à ajouter n\u0027a été trouvé.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "« &formatS; » ajouté à l\u0027écran d\u0027accueil">
 <!ENTITY pref_category_home_content_settings "Paramètres du contenu">
 <!ENTITY pref_home_updates "Mises à jour automatiques">
 <!ENTITY pref_home_updates_enabled "Activées">
