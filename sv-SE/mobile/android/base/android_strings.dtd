@@ -378,9 +378,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          från Android">
 <!ENTITY bookmarkhistory_import_wait "Vänta …">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Vill du aktivera &formatS; sökförslag?">
+<!ENTITY suggestions_prompt3 "Vill du aktivera sökförslag?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
