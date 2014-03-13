@@ -40,7 +40,7 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
-<!ENTITY manage.label "Gestisci">
+<!ENTITY manage.label "Gestione account">
 <!ENTITY disconnect.label "Disconnetti…">
 <!ENTITY verify.label "Verifica email">
 <!ENTITY forget.label "Dimentica questa email">
