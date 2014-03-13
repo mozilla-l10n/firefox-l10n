@@ -17,7 +17,7 @@
 <!ENTITY appbarErrorConsole.label      "開啟錯誤主控台">
 <!ENTITY appbarJSShell.label           "開啟 JavaScript shell">
 <!ENTITY appbarFindInPage2.label       "在頁面中搜尋">
-<!ENTITY appbarRelaunchInDesktop.label "在桌面中重新啟動">
+<!ENTITY appbarRelaunchInDesktop.label "切換回桌面版">
 <!ENTITY appbarMSMetaData2.label       "取得此網站的應用程式">
 <!ENTITY appbarViewPageSource.label    "檢視頁面原始碼">
 
