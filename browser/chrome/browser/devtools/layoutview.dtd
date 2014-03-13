@@ -17,8 +17,8 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY title                  "מודל הקופסה">
-<!ENTITY margins.tooltip        "שוליים">
+<!ENTITY margins.tooltip        "שולים">
 <!ENTITY borders.tooltip        "גבולות">
-<!ENTITY padding.tooltip        "רייפוד">
+<!ENTITY padding.tooltip        "רפוד">
 <!ENTITY content.tooltip        "תוכן">
 
