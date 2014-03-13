@@ -71,10 +71,6 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
-<!ENTITY fxaccount_checkbox_contentDescription2 "Grafica casella di controllo account Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Icona account Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Grafica introduttiva account Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Grafica busta account Firefox">
 <!ENTITY fxaccount_email_hint "Email">
 <!ENTITY fxaccount_password_hint "Password">
 <!ENTITY fxaccount_password_hide "Nascondi">
