@@ -85,7 +85,7 @@
 <!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
-<!ENTITY pref_category_home "Accueil">
+<!ENTITY pref_category_home "Écran d\u0027accueil">
 <!ENTITY pref_category_home_panels "Panneaux">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
