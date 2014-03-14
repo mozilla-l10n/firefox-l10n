@@ -110,7 +110,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "Accedi">
 <!ENTITY fxaccount_update_credentials_unknown_error "Impossibile accedere">
 <!ENTITY fxaccount_status_header2 "Firefox Account">
-<!ENTITY fxaccount_status_signed_in_as 'Identificato come'>
+<!ENTITY fxaccount_status_signed_in_as "Identificato come">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: attivo">
 <!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
