@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Buscar">
-<!ENTITY newpref.label          "Adhibir una nueva preferencia">
 <!ENTITY addpref.name           "Nombre">
-<!ENTITY addpref.value          "Valura">
 
 <!ENTITY cancel.label           "Cancelar">
-<!ENTITY reset.label            "Restablir">
-<!ENTITY done.label             "Feito">
+<!ENTITY toggle.label           "Commutar">
 
 <!ENTITY integer.label          "Entero">
 <!ENTITY string.label           "Cadena">
 <!ENTITY boolean.label          "Booleano">
+
+<!ENTITY string.placeholder     "Escribir una cadena">
+<!ENTITY number.placeholder     "Escribir un numero">
