@@ -85,7 +85,7 @@
 <!ENTITY fxaccount_create_account_header "Crea un account Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deve essere lunga almeno 8 caratteri">
 <!ENTITY fxaccount_create_account_year_of_birth "Anno di nascita">
-<!ENTITY fxaccount_create_account_policy_text "Procedendo si accettano le &formatS1; e l’&formatS2; dei servizi online di Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Procedendo si accettano le &formatS1; e l’&formatS2; dei servizi cloud di Firefox.">
 <!ENTITY fxaccount_create_account_button "Avanti">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Scegli cosa sincronizzare">
 <!ENTITY fxaccount_create_account_sign_in_instead "Possiedi già un account? Accedi">
