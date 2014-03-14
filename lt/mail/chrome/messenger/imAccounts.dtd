@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Nuleisti">
 <!ENTITY account.cancelReconnection.label         "Nutraukti bandymą prisijungti">
 <!ENTITY account.cancelReconnection.accesskey     "t">
+<!ENTITY account.copyDebugLog.label     "Kopijuoti derinimo žurnalą">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Prisijungiama…">
 <!ENTITY account.disconnecting        "Atsijungiama…">
 <!ENTITY account.disconnected         "Neprisijungta">

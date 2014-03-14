@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey    "v">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
-<!ENTITY enableAppUpdate.label          "programai „&brandShortName;“">
-<!ENTITY enableAppUpdate.accesskey      "p">
-<!ENTITY enableAddonsUpdate.label       "įdiegtiems programos priedams">
-<!ENTITY enableAddonsUpdate.accesskey   "r">
-<!ENTITY whenUpdatesFound.label         "Radus „&brandShortName;“ naujinimų:">
-<!ENTITY modeAskMe.label                "pranešti ir paklausti, ką daryti">
-<!ENTITY modeAskMe.accesskey            "k">
-<!ENTITY modeAutomatic.label            "naujinimus atsiųsti ir įdiegti automatiškai">
-<!ENTITY modeAutomatic.accesskey        "n">
-<!ENTITY modeAutoAddonWarn.label        "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
-<!ENTITY modeAutoAddonWarn.accesskey    "s">
-<!ENTITY showUpdates.label              "Rodyti atnaujinimo žurnalą">
-<!ENTITY showUpdates.accesskey          "ž">
+<!ENTITY updateApp.label                 "Programos „&brandShortName;“ atnaujinimas:">
+<!ENTITY updateAuto.label                "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
+<!ENTITY updateCheck.accesskey           "T">
+<!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Įspėti, jei naujinimas nesuderinamas su įdiegtais priedais">
+<!ENTITY updateAutoAddonWarn.accesskey   "s">
+<!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
+<!ENTITY updateHistory.accesskey         "R">
+<!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
+<!ENTITY enableAddonsUpdate3.label       "priedus">
+<!ENTITY enableAddonsUpdate3.accesskey   "p">
 
 <!ENTITY useService.label               "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey           "f">

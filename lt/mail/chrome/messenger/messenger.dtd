@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "Ž">
 <!ENTITY folderMenu.label "Į aplanką">
 <!ENTITY folderMenu.accesskey "l">
-<!ENTITY thisFolder.label "Į šį aplanką">
-<!ENTITY thisFolder.accesskey "š">
 <!ENTITY goRecentlyClosedTabs.label "Paskiausiai užvertos kortelės">
 <!ENTITY goRecentlyClosedTabs.accesskey "u">
 <!ENTITY startPageCmd.label "Į pašto pradžios tinklalapį">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "t">
 <!ENTITY forwardAsAttachmentCmd.label "Priedu">
 <!ENTITY forwardAsAttachmentCmd.accesskey "p">
-<!ENTITY editMsgAsNewCmd.label "Paruošti laišką siuntimui">
-<!ENTITY editMsgAsNewCmd.accesskey "s">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Paruošti laišką siuntimui">
+<!ENTITY editAsNewMsgCmd.accesskey "s">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Sukurti filtrą pagal laišką…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Perkelti į aplanką">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Peržiūrima gija">
 <!ENTITY watchThreadMenu.accesskey "g">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Perkelti čia">
-<!ENTITY fileHereMenu.accesskey "č">
-<!ENTITY copyHereMenu.label "Kopijuoti čia">
-<!ENTITY copyHereMenu.accesskey "a">
 <!ENTITY tagMenu.label "Gairė">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Nepaisyti įspėjimo apie šį laišką">
 <!ENTITY phishingOptionIgnore.accesskey "N">
-<!ENTITY phishingOptionDisableDetection.label "Apskritai neieškoti apgaulės laiškuose">
-<!ENTITY phishingOptionDisableDetection.accesskey "A">
+<!ENTITY phishingOptionSettings.label "Keisti apgaulės laiškuose aptikimo nuostatas…">
+<!ENTITY phishingOptionSettings.accesskey "K">
+<!ENTITY phishingOptionSettingsUnix.label "Keisti apgaulės laiškuose aptikimo nuostatas…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "K">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Naujas laiškas">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Priedai">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
-<!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
-<!ENTITY fromColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal siuntėją">
-<!ENTITY recipientColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavėją">
-<!ENTITY subjectColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško temą">
-<!ENTITY dateColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal datą">
-<!ENTITY priorityColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal prioritetą">
-<!ENTITY tagsColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gaires">
-<!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
-<!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
-<!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
-<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal brukalo statusą">
-<!ENTITY unreadColumn.tooltip "Gijos neskaitytų laiškų skaičius">
-<!ENTITY totalColumn.tooltip "Gijos laiškų skaičius">
-<!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus">
-<!ENTITY receivedColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo datą">
-<!ENTITY starredColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal žvaigždutę">
-<!ENTITY locationColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal vietą">
-<!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">
-<!ENTITY attachmentColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priedus">
+<!ENTITY columnChooser2.tooltip "Rinktis rodomus stulpelius">
+<!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
+<!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">
+<!ENTITY recipientColumn2.tooltip "Rikiuoti pagal gavėją">
+<!ENTITY subjectColumn2.tooltip "Rikiuoti pagal temą">
+<!ENTITY dateColumn2.tooltip "Rikiuoti pagal datą">
+<!ENTITY priorityColumn2.tooltip "Rikiuoti pagal prioritetą">
+<!ENTITY tagsColumn2.tooltip "Rikiuoti pagal gaires">
+<!ENTITY accountColumn2.tooltip "Rikiuoti pagal paskyrą">
+<!ENTITY statusColumn2.tooltip "Rikiuoti pagal būseną">
+<!ENTITY sizeColumn2.tooltip "Rikiuoti pagal dydį">
+<!ENTITY junkStatusColumn2.tooltip "Rikiuoti pagal brukalo požymį">
+<!ENTITY unreadColumn2.tooltip "Neskaitytų laiškų šioje gijoje skaičius">
+<!ENTITY totalColumn2.tooltip "Bendras laiškų šioje gijoje skaičius">
+<!ENTITY readColumn2.tooltip "Rikiuoti pagal perskaitymo požymį">
+<!ENTITY receivedColumn2.tooltip "Rikiuoti pagal gavimo datą">
+<!ENTITY starredColumn2.tooltip "Rikiuoti pagal žvaigždutę">
+<!ENTITY locationColumn2.tooltip "Rikiuoti pagal vietą">
+<!ENTITY idColumn2.tooltip "Rikiuoti pagal gavimo eilę">
+<!ENTITY attachmentColumn2.tooltip "Rikiuoti pagal priedus">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Atverti laišką diskusijoje">
 <!ENTITY contextOpenConversation.accesskey "d">
-<!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
-<!ENTITY contextEditAsNew.accesskey "u">
+<!ENTITY contextEditMsgAsNew.label "Paruošti siuntimui">
+<!ENTITY contextEditMsgAsNew.accesskey "u">
 <!ENTITY contextArchive.label "Archyvuoti">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Atsakyti siuntėjui">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "t">
 <!ENTITY AddDirectlyToAddressBook.label "Įtraukti į adresų knygą">
 <!ENTITY AddDirectlyToAddressBook.accesskey "t">
-<!ENTITY EditContact.label "Taisyti adresatą…">
-<!ENTITY EditContact.accesskey "a">
+<!ENTITY EditContact1.label "Taisyti adresatą">
+<!ENTITY EditContact1.accesskey "a">
 <!ENTITY ViewContact.label "Rodyti adresatą">
 <!ENTITY ViewContact.accesskey "o">
 <!ENTITY SubscribeToNewsgroup.label "Prenumeruoti naujienų grupę">
