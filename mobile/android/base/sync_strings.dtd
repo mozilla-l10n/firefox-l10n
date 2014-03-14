@@ -71,10 +71,10 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
 <!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l’invio della scheda.">
-<!ENTITY fxaccount_checkbox_contentDescription2 "Grafica casella di controllo account Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Icona account Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Grafica introduttiva account Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Grafica busta account Firefox">
+<!ENTITY fxaccount_checkbox_contentDescription2 "Grafica casella di controllo Firefox Account">
+<!ENTITY fxaccount_icon_contentDescription2 "Icona Firefox Account">
+<!ENTITY fxaccount_intro_contentDescription2 "Grafica introduttiva Firefox Account">
+<!ENTITY fxaccount_mail_contentDescription2 "Grafica busta Firefox Account">
 <!ENTITY fxaccount_email_hint "Email">
 <!ENTITY fxaccount_password_hint "Password">
 <!ENTITY fxaccount_password_hide "Nascondi">
@@ -86,7 +86,7 @@
 <!ENTITY fxaccount_getting_started_description "Accedi per sincronizzare schede, segnalibri, password e altri elementi.">
 <!ENTITY fxaccount_getting_started_get_started "Inizia">
 <!ENTITY fxaccount_getting_started_old_firefox "Stai utilizzando una vecchia versione di &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_header "Crea un account Firefox">
+<!ENTITY fxaccount_create_account_header "Crea un Firefox Account">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deve essere lunga almeno 8 caratteri">
 <!ENTITY fxaccount_create_account_year_of_birth "Anno di nascita">
 <!ENTITY fxaccount_create_account_policy_text "Procedendo si accettano le &formatS1; e l’&formatS2; dei servizi online di Firefox.">
@@ -113,7 +113,7 @@
 <!ENTITY fxaccount_update_credentials_header "Accedi">
 <!ENTITY fxaccount_update_credentials_button_label "Accedi">
 <!ENTITY fxaccount_update_credentials_unknown_error "Impossibile accedere">
-<!ENTITY fxaccount_status_header "Account Firefox">
+<!ENTITY fxaccount_status_header "Firefox Account">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: attivo">
 <!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
