@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Pažymėtus filtrus taikyti aplankui:">
 <!ENTITY folderPickerPrefix.accesskey "f">
-<!ENTITY choosethis.label "pasirinkti šį aplanką">
-<!ENTITY choosethisnewsserver.label "pasirinkti šį naujienų serveriį">
 <!ENTITY helpButton.label "Žinynas">
 <!ENTITY helpButton.accesskey "Ž">
 <!ENTITY closeCmd.key "W">

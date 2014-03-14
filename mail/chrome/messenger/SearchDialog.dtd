@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "š">
 <!ENTITY searchDialogTitle.label     "Laiškų paieška">
 <!ENTITY results.label               "Paieškos rezultatai">
-<!ENTITY moveHereMenu.label          "Perkelti čia">
-<!ENTITY moveHereMenu.accesskey      "r">
 <!ENTITY moveButton.label            "Perkelti į aplanką">
 <!ENTITY moveButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Gavimo eilė">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
-<!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
-<!ENTITY fromColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal siuntėją">
-<!ENTITY recipientColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavėją">
-<!ENTITY subjectColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško temą">
-<!ENTITY dateColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal datą">
-<!ENTITY priorityColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal prioritetą">
-<!ENTITY tagsColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gaires">
-<!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
-<!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
-<!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
-<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal brukalo statusą">
-<!ENTITY unreadColumn.tooltip "Gijos neskaitytų laiškų skaičius">
-<!ENTITY totalColumn.tooltip "Gijos laiškų skaičius">
-<!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus">
-<!ENTITY receivedColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo datą">
-<!ENTITY starredColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal žvaigždutę">
-<!ENTITY locationColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal vietą">
-<!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">
+<!ENTITY columnChooser2.tooltip "Rinktis rodomus stulpelius">
+<!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
+<!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">
+<!ENTITY recipientColumn2.tooltip "Rikiuoti pagal gavėją">
+<!ENTITY subjectColumn2.tooltip "Rikiuoti pagal temą">
+<!ENTITY dateColumn2.tooltip "Rikiuoti pagal datą">
+<!ENTITY priorityColumn2.tooltip "Rikiuoti pagal prioritetą">
+<!ENTITY tagsColumn2.tooltip "Rikiuoti pagal gaires">
+<!ENTITY accountColumn2.tooltip "Rikiuoti pagal paskyrą">
+<!ENTITY statusColumn2.tooltip "Rikiuoti pagal būseną">
+<!ENTITY sizeColumn2.tooltip "Rikiuoti pagal dydį">
+<!ENTITY junkStatusColumn2.tooltip "Rikiuoti pagal brukalo požymį">
+<!ENTITY unreadColumn2.tooltip "Neskaitytų laiškų šioje gijoje skaičius">
+<!ENTITY totalColumn2.tooltip "Bendras laiškų šioje gijoje skaičius">
+<!ENTITY readColumn2.tooltip "Rikiuoti pagal perskaitymo požymį">
+<!ENTITY receivedColumn2.tooltip "Rikiuoti pagal gavimo datą">
+<!ENTITY starredColumn2.tooltip "Rikiuoti pagal žvaigždutę">
+<!ENTITY locationColumn2.tooltip "Rikiuoti pagal vietą">
+<!ENTITY idColumn2.tooltip "Rikiuoti pagal gavimo eilę">
