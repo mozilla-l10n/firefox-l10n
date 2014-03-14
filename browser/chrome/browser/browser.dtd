@@ -70,9 +70,8 @@
 <!ENTITY showAllTabsCmd.accesskey "h">
 <!ENTITY fxaSignIn.label "Accedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconnetti a &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "Sincronizzazione in corso di &brandShortName;">
-<!ENTITY syncStartPanel.subTitle "È possibile gestire &syncBrand.shortName.label; nelle opzioni.">
-<!ENTITY syncStartPanel.subTitleUnix "È possibile gestire &syncBrand.shortName.label; nelle preferenze.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; attivato">
+<!ENTITY syncStartPanel2.subTitle "La sincronizzazione di &brandShortName; inizierà a breve.">
 <!ENTITY syncErrorPanel.heading "Impossibile connettersi a &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Accedi per riprendere la sincronizzazione.">
 <!ENTITY syncErrorPanel.signInButton.label "Accedi">
