@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Was befindet sich in einem Absturzbericht?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Ein Absturzbericht enthält einige Informationen über den Absturz und über Ihren Rechner sowie ein Abbild des Zustandes Ihres Browsers zum Zeitpunkt des Absturzes.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Diese Informationen können Dinge wie geöffnete Seiten, in Formulare eingegebener Text, der Inhalt geöffneter Nachrichten, die neueste Browser-Chronik sowie an eine Seite weitergegebene Standortinformationen sein.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Wir verwenden Absturzberichte zur Unterstützung beim Beheben von Problemen und zum Verbessern unserer Produkte. Wir behandeln Ihre Informationen wie beschrieben in unserer ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Wir verwenden Absturzberichte zur Unterstützung beim Beheben von Problemen und zum Verbessern unserer Produkte. Wir behandeln Ihre Informationen wie in unserer ">
 <!ENTITY crashprompt.privacyPolicyLink "Datenschutzerklärung für &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink " beschrieben.">
 <!ENTITY crashprompt.includeURLLabel "Die Adresse der Seite hinzufügen, die gerade geladen war">
 <!ENTITY crashprompt.acceptbutton    "Berichte senden">
 <!ENTITY crashprompt.refusebutton    "Nicht senden">
