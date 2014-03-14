@@ -65,12 +65,12 @@ button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Pausar en excepciones">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignore caught exceptions">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "c">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -80,20 +80,20 @@ button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 <!ENTITY debuggerUI.showVarsFilter      "Mostrar filtro de variables">
-<!ENTITY debuggerUI.showVarsFilter.key  "v">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 <!ENTITY debuggerUI.showOnlyEnum        "Mostrar solamente propiedades enumerables">
-<!ENTITY debuggerUI.showOnlyEnum.key    "p">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource      "Mostrar fuentes originales">
-<!ENTITY debuggerUI.showOriginalSource.key  "o">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "o">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -104,37 +104,44 @@ button that pretty prints the selected source. -->
 <!ENTITY debuggerUI.searchFile          "Filtrar scripts">
 <!ENTITY debuggerUI.searchFile.key      "P">
 <!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchFile.accesskey "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal        "Buscar en todos los archivos">
 <!ENTITY debuggerUI.searchGlobal.key    "v">
+<!ENTITY debuggerUI.searchGlobal.accesskey "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction      "Buscar definición de función">
 <!ENTITY debuggerUI.searchFunction.key  "u">
+<!ENTITY debuggerUI.searchFunction.accesskey "d">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken         "Buscar">
 <!ENTITY debuggerUI.searchToken.key     "B">
+<!ENTITY debuggerUI.searchToken.accesskey "B">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine      "Ir a línea…">
 <!ENTITY debuggerUI.searchGoToLine.key  "I">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "l">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable      "Filtrar variables">
 <!ENTITY debuggerUI.searchVariable.key  "v">
+<!ENTITY debuggerUI.searchVariable.accesskey "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables      "Árbol de variables en foco">
 <!ENTITY debuggerUI.focusVariables.key  "v">
+<!ENTITY debuggerUI.focusVariables.accesskey "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -154,6 +161,7 @@ button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Fuentes">
+<!ENTITY debuggerUI.tabs.traces         "Rastreos">
 <!ENTITY debuggerUI.tabs.callstack      "Pila de llamadas">
 <!ENTITY debuggerUI.tabs.variables      "Variables">
 <!ENTITY debuggerUI.tabs.events         "Eventos">
@@ -172,6 +180,7 @@ button that pretty prints the selected source. -->
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch      "Remove all watch expressions">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
