@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Caché">
 <!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
-<!ENTITY clearPrivateData.formSearchHist                         "Formularios e historial de búsquedas">
+<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; search history">
 <!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
 <!ENTITY clearPrivateData.offline                                "Offline website data">
 <!ENTITY clearPrivateData.logins                                 "Active logins">
@@ -33,8 +33,8 @@
 <!ENTITY doNotTrack.options.default                              "No decirle a los sitios web acerca de mis preferencias de rastreo">
 <!ENTITY doNotTrack.learnMoreLink                                "Conocer más&#x2026;">
 
-<!ENTITY optionsHeader.reporting.title                           "Crash Reporter">
-<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
-<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir la dirección de la página que estaba visitando">
+<!ENTITY optionsHeader.reporting.title                           "Informe de errores">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envia informes de errores para ayudar a Mozilla a hacer su navegador más estable y seguro">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir la dirección de la página en la que estaba">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-<!ENTITY optionsHeader.telemetry.label                            "Compartir estadísticas de uso de &brandShortName; Con Mozilla para ayudarnos a mejorar el navegador">
+<!ENTITY optionsHeader.telemetry.label                            "Compartir estadísticas de uso de &brandShortName; con Mozilla para ayudarnos a mejorar el navegador">
