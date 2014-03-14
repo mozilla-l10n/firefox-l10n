@@ -23,4 +23,8 @@
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: pagalba
 
+# LOCALIZATION NOTE (bookmarks_marketplace):
+# link title for https://marketplace.firefox.com
+#define bookmarks_marketplace „Firefox“ krautuvė
+
 #unfilter emptyLines
