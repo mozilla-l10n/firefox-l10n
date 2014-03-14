@@ -64,14 +64,17 @@
 <!ENTITY settings "Nuostatos">
 <!ENTITY settings_title "Nuostatos">
 <!ENTITY pref_category_advanced "Kitkas">
-<!ENTITY pref_category_customize "Tinkinti">
-<!ENTITY pref_category_search2 "Paieškos nuostatos">
+<!ENTITY pref_category_customize "Individualizavimas">
+<!ENTITY pref_category_search3 "Paieška">
 <!ENTITY pref_category_display "Rodymas">
 <!ENTITY pref_category_privacy_short "Privatumas">
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
 <!ENTITY pref_category_installed_search_engines "Įdiegtos ieškyklės">
 <!ENTITY pref_category_add_search_providers "Pridėti daugiau ieškyklių">
+<!ENTITY pref_category_search_restore_defaults "Atstatyti numatytąsias ieškykles">
+<!ENTITY pref_search_restore_defaults "Atstatyti numatytąsias">
+<!ENTITY pref_search_restore_defaults_summary "Atstatyti numatytąsias">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,8 +84,11 @@
 <!ENTITY pref_developer_remotedebugging_docs "Sužinoti daugiau">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 
+<!ENTITY pref_category_home "Pradžia">
+<!ENTITY pref_category_home_panels "Skiltys">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Tinkinti">
+<!ENTITY pref_header_customize "Individualizavimas">
 <!ENTITY pref_header_display "Rodymas">
 <!ENTITY pref_header_privacy_short "Privatumas">
 <!ENTITY pref_header_help "Pagalba">
@@ -146,10 +152,15 @@ size. -->
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
 <!ENTITY pref_vendor_feedback "Palikti atsiliepimą">
-<!ENTITY pref_search_set_default "Skirti numatytąja">
-<!ENTITY pref_search_default "Numatytoji">
-<!ENTITY pref_search_remove "Pašalinti">
+
+<!ENTITY pref_dialog_set_default "Skirti numatytąja">
+<!ENTITY pref_dialog_default "Numatytoji">
+<!ENTITY pref_dialog_remove "Pašalinti">
+
 <!ENTITY pref_search_last_toast "Pašalinti arba išjungti paskutinės ieškyklės neleidžiama.">
+
+<!ENTITY pref_panels_show "Rodyti">
+<!ENTITY pref_panels_hide "Hide">
 
 <!ENTITY datareporting_notification_title "„&brandShortName;“ statistika ir duomenys">
 <!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
@@ -196,7 +207,7 @@ size. -->
 <!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
-<!ENTITY desktop_mode "Prašyti svetainės kompiuterio ekranui">
+<!ENTITY desktop_mode "Prašyti ne mobiliosios svetainės">
 <!ENTITY tools "Priemonės">
 <!ENTITY new_tab "Nauja kortelė">
 <!ENTITY new_private_tab "Nauja privačioji kortelė">
@@ -213,6 +224,13 @@ size. -->
 <!ENTITY find_prev "Ankstenis">
 <!ENTITY find_next "Tolesnis">
 <!ENTITY find_close "Užverti">
+
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Transliavimas į įrenginį">
+<!ENTITY media_play "Groti">
+<!ENTITY media_pause "Pauzė">
+<!ENTITY media_stop "Stabdyti">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
@@ -235,7 +253,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
 <!ENTITY pref_titlebar_mode_url "Rodyti tinklalapio adresą">
 
-<!ENTITY pref_dynamic_toolbar "Slėpti antraštės juostą, slenkant tinklalapį">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Slinkti antraštės juostą">
 
 <!ENTITY history_removed "Tinklalapis pašalintas">
 
