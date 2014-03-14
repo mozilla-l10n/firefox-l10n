@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Enta zaga">
 <!ENTITY forward.label         "Enta debant">
 <!ENTITY newtab.label          "Nueva pestanya">
+<!ENTITY newPrivateTab.label   "Nueva pestanya privada">
 <!ENTITY closetab.label        "Zarrar pestanya">
 
 <!ENTITY autocompleteResultsHeader.label  "Resultaus">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +120,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "Busca as suyas pestanyas? Arrociegue enta abaixo u faiga clic con o botón dreito">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Veiga qué ha visitau en a Web">
 <!ENTITY firstRunWelcome.label "Bienveniu ta &brandShortName;">
 <!ENTITY firstRunDifferent.label "Diferent por definición">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+
+<!ENTITY firstRunBack.label "Toque ta tornar ta la pachina anterior">
+<!ENTITY firstRunNewTab.label "Adhiba unatra pestanya ta explorar un puesto nuevo">
+<!ENTITY firstRunStar.label "Faiga servir os marcapachins pa alzar pachinas pa mas ta debant">
+<!ENTITY firstRunPin.label "Penche qualsequier puesto en a suya pantalla d'inicio de windows ta un acceso rapido">
+<!ENTITY firstRunGotIt.label "Ya lo tiengo!">

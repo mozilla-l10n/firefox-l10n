@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Qué ye un reporte de fallo?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Un reporte de fallo contién bells detalles sobre o fallo, a suya maquina, asinas como una instantania d'o estau d'o suyo navegador quan ha fallau.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Isto puede incluir cosas como pachinas ubiertas, texto escrito en os formularios y o conteniu d'os mensaches ubiertos, o historial de navegación recient u a cheolocalización compartida con un puesto.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Femos servir reportes de fallo ta mirar d'apanyar problemas y amillorar os nuestros productos. Maniamos a suya información como se describe en a nuestra ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Femos servir reportes de fallo ta mirar d'apanyar problemas y amillorar os nuestros productos. Maniamos a suya información como se describe en a nuestra ">
 <!ENTITY crashprompt.privacyPolicyLink "politica de privadeza de &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Incluir l'adreza d'a pachina a on que i yera">
 <!ENTITY crashprompt.acceptbutton    "Ninviar reportes">
 <!ENTITY crashprompt.refusebutton    "No ninviar-ne">

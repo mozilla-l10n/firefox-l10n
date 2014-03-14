@@ -69,7 +69,7 @@
 <!ENTITY netTimeout.title "S'ha acotolau o tiempo d'aspera d'a connexión">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "No s'ha replecau l'adreza">
+<!ENTITY protocolNotFound.title "No s'ha entendiu l'adreza">
 <!ENTITY protocolNotFound.longDesc "<ul> 
 <li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li>  </ul>">
 
