@@ -70,9 +70,8 @@
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; está sincronizando ahora">
-<!ENTITY syncStartPanel.subTitle "Puede administrar &syncBrand.shortName.label; en Opciones.">
-<!ENTITY syncStartPanel.subTitleUnix "Puede administrar &syncBrand.shortName.label; en Preferencias.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; comenzará a sincronizar en breves momentos.">
 <!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Por favor, inicie sesión para continuar sincronizando.">
 <!ENTITY syncErrorPanel.signInButton.label "Conectarse">
@@ -478,6 +477,8 @@
 <!ENTITY syncSetup.accesskey "f">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "z">
+<!ENTITY syncReAuthItem.label "Reconectar a &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY socialToolbar.title "Botón de la barra de herramientas social">
 <!ENTITY social.ok.label "Aceptar">
