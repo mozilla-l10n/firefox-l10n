@@ -70,9 +70,8 @@
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY fxaSignIn.label "Войти в &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Присоединиться заново к &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; сейчас синхронизируется">
-<!ENTITY syncStartPanel.subTitle "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
-<!ENTITY syncStartPanel.subTitleUnix "Вы можете управлять &syncBrand.shortName.label; из Настроек.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; включена">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
 <!ENTITY syncErrorPanel.heading "Не удалось соединиться с &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Войдите, чтобы возобновить синхронизацию.">
 <!ENTITY syncErrorPanel.signInButton.label "Войти">
