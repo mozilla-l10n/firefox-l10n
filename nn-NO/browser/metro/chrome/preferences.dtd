@@ -12,14 +12,14 @@
 <!ENTITY optionsHeader.char.options.label                        "Vis teiknkodingsinnstillingar i verktøylinja">
 
 <!ENTITY clearPrivateData.title                                  "Slett private data">
-<!ENTITY clearPrivateData.label                                  "">
+<!ENTITY clearPrivateData.label                                  "Slettar nettlarhistorikk, passord, infokapslar, og skjemahistorikk på denne eininga">
 <!ENTITY clearPrivateData.button                                 "Tøm">
 <!ENTITY clearPrivateData.done                                   "Ferdig!">
 <!ENTITY clearPrivateData.history                                "Nettlesarhistorikk">
-<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, hurtiglager, infokapslar, osv.)">
+<!ENTITY clearPrivateData.otherdata                              "Andre data (passord, snøgglager, infokapslar, osv.)">
 <!ENTITY clearPrivateData.downloadHist                           "Nedlastingshistorikk">
 <!ENTITY clearPrivateData.cookies                                "Infokapslar">
-<!ENTITY clearPrivateData.cache                                  "Hurtiglager">
+<!ENTITY clearPrivateData.cache                                  "Snøgglager">
 <!ENTITY clearPrivateData.sitePref                               "Nettstadinnstillingar">
 <!ENTITY clearPrivateData.formSearchHist                         "Skjema- og søkehistorikk">
 <!ENTITY clearPrivateData.passwords                              "Lagra passord">
@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Krasjrapportering">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; sender krasjrapportar for å hjelpe Mozilla med å gjere nettlesaren meir stabil og trygg">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Ta med adressa til sida eg var på i rapporten">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetri">
 <!ENTITY optionsHeader.telemetry.label                            "Deler bruksstatistikk frå &brandShortName; med Mozilla for å hjelpe oss med å gjere nettlesaren betre">
