@@ -71,10 +71,6 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
 <!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
-<!ENTITY fxaccount_checkbox_contentDescription2 "Gráfico de casilla de verificación de cuenta de Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Icono de cuentas de Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Gráficos de introducción a las cuentas de Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Gráfico de sobre de cuentas de Firefox">
 <!ENTITY fxaccount_email_hint "Correo">
 <!ENTITY fxaccount_password_hint "Contraseña">
 <!ENTITY fxaccount_password_hide "Ocultar">
@@ -86,10 +82,10 @@
 <!ENTITY fxaccount_getting_started_description "Inicie sesión para sincronizar sus pestañas, marcadores, contraseñas y más.">
 <!ENTITY fxaccount_getting_started_get_started "Comenzar">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_header "Crear una cuenta de Firefox">
+<!ENTITY fxaccount_create_account_header2 "Crear una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Debe tener al menos 8 caracteres">
 <!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
-<!ENTITY fxaccount_create_account_policy_text "Al continuar, acepto los &formatS1; y el &formatS2; de los servicios en línea de Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Al continuar, acepto los &formatS1; y el &formatS2; de los servicios en la nube de Firefox.">
 <!ENTITY fxaccount_create_account_button "Siguiente">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Elegir qué sincronizar">
 <!ENTITY fxaccount_create_account_sign_in_instead "¿Ya tiene una cuenta? Inicie sesión">
@@ -113,7 +109,7 @@
 <!ENTITY fxaccount_update_credentials_header "Conectarse">
 <!ENTITY fxaccount_update_credentials_button_label "Conectarse">
 <!ENTITY fxaccount_update_credentials_unknown_error "No se ha podido iniciar sesión">
-<!ENTITY fxaccount_status_header "Cuenta de Firefox">
+<!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activada">
@@ -125,6 +121,8 @@
 <!ENTITY fxaccount_status_passwords "Contraseñas">
 <!ENTITY fxaccount_status_tabs "Abrir pestañas">
 <!ENTITY fxaccount_status_legal "Legal">
+<!ENTITY fxaccount_status_linktos "Términos del Servicio">
+<!ENTITY fxaccount_status_linkprivacy "Aviso sobre privacidad">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opciones de &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configurar &syncBrand.shortName.label;">

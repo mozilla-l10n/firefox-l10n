@@ -52,6 +52,7 @@
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_search3 "Buscar">
+<!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -67,9 +68,16 @@
 <!ENTITY pref_developer_remotedebugging_docs "Saber más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_category_home "Inicio">
+<!ENTITY pref_category_home_summary "Personalizar su página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_home_add_panel "Añadir panel">
 <!ENTITY home_add_panel_title "Añadir panel nuevo">
+<!ENTITY home_add_panel_empty "Lo siento, no hemos podido encontrar ningún panel para que lo añada.">
+<!ENTITY home_add_panel_installed "\'&formatS;\' añadido a la página de inicio">
+<!ENTITY pref_category_home_content_settings "Ajustes de contenido">
+<!ENTITY pref_home_updates "Actualizaciones automáticas">
+<!ENTITY pref_home_updates_enabled "Activadas">
+<!ENTITY pref_home_updates_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Visualización">
 <!ENTITY pref_header_privacy_short "Privacidad">
@@ -233,6 +241,7 @@
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
 <!ENTITY home_reading_list_hint2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &formatI; cuando aparezca en la barra de título.">
 <!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
+<!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY pin_site_dialog_hint "Introduzca una palabra clave de búsqueda">
 <!ENTITY filepicker_title "Elegir archivo">
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
@@ -257,7 +266,7 @@
 <!ENTITY bookmarkhistory_import_history "Importar historial
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Espere…">
-<!ENTITY suggestions_prompt2 "¿Le gustaría activar las sugerencias de búsqueda de &formatS;?">
+<!ENTITY suggestions_prompt3 "¿Le gustaría activar las sugerencias de búsqueda?">
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
