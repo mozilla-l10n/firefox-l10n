@@ -74,7 +74,7 @@
 <!ENTITY calendar.newevent.button.label "Nuevo evento">
 <!ENTITY calendar.newtask.button.label "Nueva tarea">
 <!ENTITY calendar.print.button.label "Imprimir">
-<!ENTITY calendar.export.calendar "Exportar calendario...">
+<!ENTITY calendar.print.button.accesskey "P">
 <!ENTITY calendar.day.button.label "Día">
 <!ENTITY calendar.week.button.label "Semana">
 <!ENTITY calendar.month.button.label "Mes">
@@ -106,8 +106,6 @@
 <!ENTITY calendar.task.filter.open.accesskey "m">
 <!ENTITY calendar.task.filter.current.label "Tareas actuales">
 <!ENTITY calendar.task.filter.current.accesskey "a">
-<!ENTITY calendar.task.filter.repeating.label "Tareas repetitivas">
-<!ENTITY calendar.task.filter.repeating.accesskey "s">
 <!ENTITY calendar.task-details.title.label "título">
 <!ENTITY calendar.task-details.organizer.label "de">
 <!ENTITY calendar.task-details.priority.label "prioridad">
@@ -126,7 +124,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base "Filtrar tareas… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Mayús+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;⇧⌘K&gt;">
-<!ENTITY statusText.label "Documento: finalizado">
 <!ENTITY calendar.context.modifyorviewitem.label "Abrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "A">
 <!ENTITY calendar.context.modifyorviewtask.label "Abrir tarea…">
@@ -187,7 +184,6 @@
 <!ENTITY calendar.copylink.label "Copiar la dirección del enlace">
 <!ENTITY calendar.copylink.accesskey "C">
 <!ENTITY calendar.taskview.delete.label "Eliminar">
-<!ENTITY calendar.taskview.delete.accesskey "E">
 <!ENTITY calendar.context.newserver.label "Nuevo calendario…">
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Encontrar calendario…">
@@ -265,7 +261,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/tareas seleccionados">
 <!ENTITY calendar.print.tasks.label "Tareas">
 <!ENTITY calendar.print.events.label "Eventos">
-<!ENTITY calendar.print.selected.label "Eventos seleccionados">
 <!ENTITY calendar.print.custom.label "Rango de fechas personalizado:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "A:">

@@ -89,12 +89,6 @@
 <!ENTITY event.menu.options.accesskey "O">
 <!ENTITY event.menu.options.attendees.label "Invitar a asistentes…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
-<!ENTITY event.menu.options.spellcheck.label "Revisar ortografía…">
-<!ENTITY event.menu.options.spellcheck.accesskey "v">
-<!ENTITY event.menu.options.inline.spellcheck.label "Revisar ortografía según se escribe">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "S">
-<!ENTITY event.menu.options.link.label "Añadir enlace…">
-<!ENTITY event.menu.options.link.accesskey "L">
 <!ENTITY event.menu.options.timezone2.label "Mostrar zonas horarias">
 <!ENTITY event.menu.options.timezone2.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Prioridad">
@@ -130,12 +124,10 @@
 <!ENTITY event.toolbar.save.label "Guardar y cerrar">
 <!ENTITY event.toolbar.delete.label "Eliminar">
 <!ENTITY event.toolbar.attendees.label "Invitar a asistentes">
-<!ENTITY event.toolbar.spellcheck.label "Revisar ortografía">
 <!ENTITY event.toolbar.privacy.label "Privacidad">
 <!ENTITY event.toolbar.save.tooltip "Guardar y cerrar">
 <!ENTITY event.toolbar.delete.tooltip "Eliminar">
 <!ENTITY event.toolbar.attendees.tooltip "Invitar a asistentes">
-<!ENTITY event.toolbar.spellcheck.tooltip "Revisar ortografía">
 <!ENTITY event.toolbar.attachments.tooltip "Añadir adjuntos">
 <!ENTITY event.toolbar.privacy.tooltip "Cambiar privacidad">
 <!ENTITY event.toolbar.priority.tooltip "Cambiar prioridad">
@@ -148,7 +140,6 @@
 <!ENTITY event.categories.label "Categoría:">
 <!ENTITY event.categories.accesskey "C">
 <!ENTITY event.categories.textbox.label "Añadir una nueva categoría">
-<!ENTITY event.categories.textbox.accesskey "A">
 <!ENTITY event.calendar.label "Calendario:">
 <!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Asistentes:">
@@ -331,5 +322,4 @@
 <!ENTITY read.only.reminder.label "Recordatorio:">
 <!ENTITY read.only.attendees.label "Asistentes">
 <!ENTITY read.only.description.label "Descripción">
-<!ENTITY read.only.documents.label "Documentos">
 <!ENTITY read.only.link.label "Enlace relacionado">
