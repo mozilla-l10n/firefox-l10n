@@ -9,8 +9,9 @@
 <!ENTITY location1.accesskey "D">
 <!ENTITY useDefault.label "Restablecer predeterminado">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY bounceSystemDockIcon.label "Animar el icono de notificación">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY changeDockIconOptions.label "Cambiar preferencias del icono de la aplicación">
+<!ENTITY dockOptions.label "Opciones del icono de la aplicación…">
+<!ENTITY dockOptions.accesskey "c">
 <!ENTITY newMessagesArrive.label "Cuando lleguen mensajes nuevos:">
 <!ENTITY playSound.label "Reproducir un sonido">
 <!ENTITY playSound1.accesskey "o">
