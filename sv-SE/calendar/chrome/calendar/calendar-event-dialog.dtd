@@ -46,15 +46,6 @@
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
 
-<!-- Alarm -->
-
-<!ENTITY event.invite.attendees.label                     "Bjud in deltagare…">
-<!ENTITY event.invite.attendees.accesskey                 "B">
-<!ENTITY event.email.attendees.label                      "Skicka e-post till alla deltagare…">
-<!ENTITY event.email.attendees.accesskey                  "S">
-<!ENTITY event.email.tentative.attendees.label            "Skicka e-post till alla preliminära deltagare…">
-<!ENTITY event.email.tentative.attendees.accesskey        "e">
-
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Ny">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
@@ -142,12 +133,29 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Ledig">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
+<!ENTITY event.invite.attendees.label                     "Bjud in deltagare…">
+<!ENTITY event.invite.attendees.accesskey                 "B">
+<!ENTITY event.email.attendees.label                      "Skicka e-post till alla deltagare…">
+<!ENTITY event.email.attendees.accesskey                  "S">
+<!ENTITY event.email.tentative.attendees.label            "Skicka e-post till alla preliminära deltagare…">
+<!ENTITY event.email.tentative.attendees.accesskey        "e">
+
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Spara och stäng">
 <!ENTITY  event.toolbar.delete.label                      "Radera">
 <!ENTITY  event.toolbar.attendees.label                   "Bjud in deltagare">
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavningskontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Sekretess">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Spara och stäng">
+<!ENTITY  event.toolbar.delete.tooltip                    "Radera">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Bjud in deltagare">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Stavningskontrollera">
+<!ENTITY  event.toolbar.attachments.tooltip               "Lägg till bilagor">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Ändra sekretess">
+<!ENTITY  event.toolbar.priority.tooltip                  "Ändra prioritet">
+<!ENTITY  event.toolbar.status.tooltip                    "Ändra status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Ändra ledig/upptagen tid">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
@@ -156,6 +164,8 @@
 <!ENTITY event.location.accesskey                         "P">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "i">
+<!ENTITY event.categories.textbox.label                   "Lägg till ny kategori" >
+<!ENTITY event.categories.textbox.accesskey               "L">
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Deltagare:" >
@@ -174,6 +184,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Upprepa:" >
 <!ENTITY event.repeat.accesskey                           "U">
+<!ENTITY event.until.label                                "Till och med:">
+<!ENTITY event.until.accesskey                            "o">
 <!ENTITY event.reminder.label                             "Påminnelse:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Beskrivning:" >
@@ -209,6 +221,9 @@
 <!ENTITY event.reminder.custom.label                      "Anpassad…" >
 
 <!ENTITY event.reminder.multiple.label                    "Flera påminnelser…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Tiden är:">
+<!ENTITY event.statusbarpanel.privacy.label               "Sekretess:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Redigera upprepning">
