@@ -75,7 +75,7 @@ button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 <!ENTITY debuggerUI.showPanesOnInit     "Mostrar vistas al iniciar">
-<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "o">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
@@ -93,7 +93,7 @@ button that pretty prints the selected source. -->
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource      "Mostrar fuentes originales">
-<!ENTITY debuggerUI.showPanesOnInit.accesskey "o">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "o">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
