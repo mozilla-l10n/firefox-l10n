@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Måste vara minst 8 tecken'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Födelseår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox nättjänster.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox molntjänster.'>
 <!ENTITY fxaccount_create_account_button 'Nästa'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Välj vad som ska synkas'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Har du redan ett konto? Logga in'>
