@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Alternativ för programsymbol">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Animera programsymbol när nytt meddelande kommer">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Räkna nya meddelanden">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Räkna olästa meddelanden">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "o">
+<!ENTITY dockIconBadge.label                   "Programsymbolsmärke">
+<!ENTITY dockIconShow.label                    "Märk programsymbol med:">
