@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Återanslut till &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; synkar nu">
-<!ENTITY syncStartPanel.subTitle "Du kan hantera &syncBrand.shortName.label; i Inställningar.">
-<!ENTITY syncStartPanel.subTitleUnix "Du kan hantera &syncBrand.shortName.label; i Inställningar.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiverat">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; kommer strax att börja synka.">
 <!ENTITY syncErrorPanel.heading "Kan inte ansluta till &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Logga in för att återuppta synkning.">
 <!ENTITY syncErrorPanel.signInButton.label "Logga in">
