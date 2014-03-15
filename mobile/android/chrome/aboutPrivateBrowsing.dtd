@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Mode Penjelajahan Pribadi">
+<!ENTITY privatebrowsingpage.title                  "Penjelajahan Pribadi">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "You have opened a new private tab.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "You are not in a private tab.">
+<!ENTITY privatebrowsingpage.issueDesc.private      "Anda telah membuka tab pribadi baru.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Anda tidak sedang dalam tab pribadi.">
 
-<!ENTITY privatebrowsingpage.description            "In private tabs, &brandShortName; won't keep any browser history, search history, download history, web form history, cookies, or temporary internet files. However, files you download and bookmarks you make will be kept.">
+<!ENTITY privatebrowsingpage.description            "Pada tab pribadi, &brandShortName; tidak akan menyimpan riwayat peramban, riwayat pencarian, riwayat unduhan, riwayat isian formulir, kuki, atau berkas internet sementara. Tetapi, berkas yang diunduh dan markah akan tetap disimpan.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "While this device won't have a record of your browsing history, your internet service provider can still track the pages you visit.">
+<!ENTITY privatebrowsingpage.moreInfo               "Walau pun perangkat ini tidak akan memiliki rekaman riwayat penjelajahan Anda, pihak penyedia layanan jasa internet Anda masih tetap dapat melacak halaman yang Anda kunjungi.">

@@ -21,7 +21,7 @@
 <li>Periksa kesalahan pengetikan pada alamat seperti 
 <strong>ww</strong>.example.com yang seharusnya 
 <strong>www</strong>.example.com</li> 
-<li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi Anda.</li> 
+<li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
@@ -50,7 +50,7 @@
 
 <!ENTITY netOffline.title "Mode luring">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Coba lagi.&brandShortName; akan mencoba untuk membuat sambungan dan memuat ulang laman.</li> 
+<li>Coba lagi. &brandShortName; akan mencoba membuka sambungan dan memuat ulang lamannya.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
@@ -83,12 +83,12 @@
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Periksa pengaturan proxy, pastikan sudah benar.</li> 
-<li>Pastikan perangkat Anda dapat tersambung ke sambungan data atau Wi-Fi dengan baik.</li> 
+<li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima cookie.</li> 
+<li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima kuki.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Jawaban yang tidak diharapkan dari server">
@@ -111,7 +111,7 @@
 
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li> 
-<li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi Anda.</li> 
+<li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi perangkat Anda.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
@@ -119,6 +119,7 @@
 
 <!ENTITY corruptedContentError.title "Galat Konten Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
@@ -136,4 +137,3 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
-
