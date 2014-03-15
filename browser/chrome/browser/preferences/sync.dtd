@@ -47,7 +47,7 @@
 <!ENTITY prefs.ppLink.label         "Zásady ochrany súkromia">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Poznámka k súkromiu">
+<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany osobných údajov">
 <!ENTITY determiningAcctStatus.label     "Získava sa stav účtu…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
