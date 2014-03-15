@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">
 <!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.label "현재 폴더">
-<!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "최근에 닫은 탭">
 <!ENTITY goRecentlyClosedTabs.accesskey	"R">
 <!ENTITY startPageCmd.label		"시작 페이지">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "첨부">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "메시지 편집">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "메시지 편집">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "메시지로부터 규칙 만들기">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "다른 폴더로 이동">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "글타래 보기">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "현재 파일">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "여기로 복사">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "태그">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "이 메시지의 경고 무시">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "모든 메시지에 대해 사기 의심 메일 검색 해제">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "사기 의심 메일 검색 옵션…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "사기 의심 메일 검색 설정…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "새 메시지">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "첨부">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "표시할 항목 선택">
-<!ENTITY threadColumn.tooltip "글타래 메시지 표시">
-<!ENTITY fromColumn.tooltip "보낸 사람 순으로 정렬">
-<!ENTITY recipientColumn.tooltip "받는 사람으로 정렬">
-<!ENTITY subjectColumn.tooltip "제목으로 정렬">
-<!ENTITY dateColumn.tooltip "날짜로 정렬">
-<!ENTITY priorityColumn.tooltip "중요도로 정렬">
-<!ENTITY tagsColumn.tooltip "태그로 정렬하기">
-<!ENTITY accountColumn.tooltip "계정별로 정력">
-<!ENTITY statusColumn.tooltip "메일 상태로 정렬">
-<!ENTITY sizeColumn.tooltip "크기로 정렬">
-<!ENTITY junkStatusColumn.tooltip "스팸 상태로 정렬">
-<!ENTITY unreadColumn.tooltip "글타래의 읽지 않은 메시지 수">
-<!ENTITY totalColumn.tooltip "글타래의 메시지 전체 수">
-<!ENTITY readColumn.tooltip "읽은 상태로 정렬">
-<!ENTITY receivedColumn.tooltip "받은 날짜 순으로 정렬">
-<!ENTITY starredColumn.tooltip "별표로 정렬">
-<!ENTITY locationColumn.tooltip "주소로 정렬">
-<!ENTITY idColumn.tooltip "받은 순서로 정렬">
-<!ENTITY attachmentColumn.tooltip "첨부 파일로 정렬">
+<!ENTITY columnChooser2.tooltip "표시할 항목 선택">
+<!ENTITY threadColumn2.tooltip "글타래 메시지 표시">
+<!ENTITY fromColumn2.tooltip "보낸 사람 순으로 정렬">
+<!ENTITY recipientColumn2.tooltip "받는 사람으로 정렬">
+<!ENTITY subjectColumn2.tooltip "제목으로 정렬">
+<!ENTITY dateColumn2.tooltip "날짜로 정렬">
+<!ENTITY priorityColumn2.tooltip "중요도로 정렬">
+<!ENTITY tagsColumn2.tooltip "태그로 정렬하기">
+<!ENTITY accountColumn2.tooltip "계정별로 정력">
+<!ENTITY statusColumn2.tooltip "메일 상태로 정렬">
+<!ENTITY sizeColumn2.tooltip "크기로 정렬">
+<!ENTITY junkStatusColumn2.tooltip "스팸 상태로 정렬">
+<!ENTITY unreadColumn2.tooltip "글타래의 읽지 않은 메시지 수">
+<!ENTITY totalColumn2.tooltip "글타래의 메시지 전체 수">
+<!ENTITY readColumn2.tooltip "읽은 상태로 정렬">
+<!ENTITY receivedColumn2.tooltip "받은 날짜 순으로 정렬">
+<!ENTITY starredColumn2.tooltip "별표로 정렬">
+<!ENTITY locationColumn2.tooltip "주소로 정렬">
+<!ENTITY idColumn2.tooltip "받은 순서로 정렬">
+<!ENTITY attachmentColumn2.tooltip "첨부 파일로 정렬">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "새 창에 메시지 열기">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label		"새 탭으로 대화 열기"><!--  en-US: "Open Message in Conversation"  -->
 <!ENTITY contextOpenConversation.accesskey	"n">
-<!ENTITY contextEditAsNew.label "새로 편집…">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "새로 편집…">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "보관">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "회신">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "주소록에 바로 추가">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "연락처 편집…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "연락처 편집…">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "연락처 보기">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "뉴스그룹 구독">

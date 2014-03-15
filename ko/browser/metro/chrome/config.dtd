@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "검색">
-<!ENTITY newpref.label          "새 설정 추가">
 <!ENTITY addpref.name           "이름">
-<!ENTITY addpref.value          "값">
 
 <!ENTITY cancel.label           "취소">
-<!ENTITY reset.label            "재설정">
-<!ENTITY done.label             "완료">
+<!ENTITY toggle.label           "켜고 끄기">
 
 <!ENTITY integer.label          "정수">
 <!ENTITY string.label           "문자열">
 <!ENTITY boolean.label          "불린">
+
+<!ENTITY string.placeholder     "문자열을 입력하십시오">
+<!ENTITY number.placeholder     "수를 입력하십시오">
