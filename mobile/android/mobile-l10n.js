@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-newPref.createButton=Buat
-newPref.changeButton=Ubah
+#filter substitution
 
-pref.toggleButton=Aktifkan/Nonaktifkan
-pref.resetButton=Setel Ulang
+pref("general.useragent.locale", "@AB_CD@");

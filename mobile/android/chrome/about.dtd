@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tentang &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; bersifat eksperimental dan mungkin tidak stabil.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Secara otomatis data kinerja, perangkat keras, penggunaan, dan pengubahsuaian akan dikirimkan ke">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.telemetryEnd                 " dalam rangka membantu menyempurnakan &brandShortName;.">
+<!ENTITY aboutPage.checkForUpdates.link         "Periksa versi baru »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari versi baru…">
-<!ENTITY aboutPage.checkForUpdates.none         "Tidak ada versi baru tersedia">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
-<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.checkForUpdates.none         "Versi baru tidak tersedia">
+<!ENTITY aboutPage.checkForUpdates.available2   "Unduh versi baru">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Mengunduh versi baru">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Instal versi baru">
+<!ENTITY aboutPage.faq.label                    "TanyaJawab">
 <!ENTITY aboutPage.support.label                "Layanan Dukungan">
 <!ENTITY aboutPage.privacyPolicy.label          "Kebijakan Privasi">
 <!ENTITY aboutPage.rights.label                 "Ketahui Hak Anda">
