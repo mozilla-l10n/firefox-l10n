@@ -352,3 +352,10 @@
 <!ENTITY calendar.error.code "Felkod:">
 <!ENTITY calendar.error.description "Beskrivning:">
 <!ENTITY calendar.error.title "Ett fel har uppstått">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Lägg till som händelse">
+<!ENTITY calendar.extract.task.button          "Lägg till som uppgift">
+<!ENTITY calendar.extract.event.button.tooltip "Plocka ut kalenderinformation från meddelandet och lägg till det i din kalender som en händelse">
+<!ENTITY calendar.extract.task.button.tooltip  "Plocka ut kalenderinformation från meddelandet och lägg till det i din kalender som en uppgift">
+
