@@ -120,8 +120,13 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Tillbaka till webbläsaren'>
 
-<!ENTITY fxaccount_policy_linktos 'Tjänstevillkor'>
-<!ENTITY fxaccount_policy_linkprivacy 'Integritetspolicy'>
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos 'tjänstevillkoren'>
+<!ENTITY fxaccount_policy_linkprivacy 'integritetspolicyn'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Välkommen till &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description 'Logga in för att synka dina flikar, bokmärken, lösenord och annat.'>
@@ -178,6 +183,12 @@
 <!ENTITY fxaccount_status_passwords 'Lösenord'>
 <!ENTITY fxaccount_status_tabs 'Öppna flikar'>
 <!ENTITY fxaccount_status_legal 'Juridisk information' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Tjänstevillkor'>
+<!ENTITY fxaccount_status_linkprivacy 'Integritetspolicy'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
