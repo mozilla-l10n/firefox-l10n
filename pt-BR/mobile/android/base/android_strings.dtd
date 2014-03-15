@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Configurações">
 <!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_search2 "Configurações de pesquisa">
+<!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_display "Aparência">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicione mais mecanismos de pesquisa">
+<!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
+<!ENTITY pref_search_restore_defaults "Restaurar padrões">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar padrões">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saiba mais">
 <!ENTITY pref_remember_signons "Memorizar senhas">
+
+<!ENTITY pref_category_home "Página inicial">
+<!ENTITY pref_category_home_panels "Painéis">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizar">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "Dúvidas frequentes">
 <!ENTITY pref_vendor_feedback "Qual a sua opinião?">
-<!ENTITY pref_search_set_default "Definir como padrão">
-<!ENTITY pref_search_default "Padrão">
-<!ENTITY pref_search_remove "Excluir">
+
+<!ENTITY pref_dialog_set_default "Definir como padrão">
+<!ENTITY pref_dialog_default "Padrão">
+<!ENTITY pref_dialog_remove "Excluir">
+
 <!ENTITY pref_search_last_toast "Não é possível excluir ou desativar o único mecanismo de pesquisa que restou.">
+
+<!ENTITY pref_panels_show "Exibir">
+<!ENTITY pref_panels_hide "Ocultar">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Próxima">
 <!ENTITY find_close "Fechar">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Transmitindo para dispositivo">
+<!ENTITY media_play "Executar">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Parar">
+
 <!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
 <!ENTITY contextmenu_open_private_tab "Abrir em aba privativa">
 <!ENTITY contextmenu_open_in_reader "Abrir no leitor">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
 <!ENTITY pref_titlebar_mode_url "Exibir endereço da página">
 
-<!ENTITY pref_dynamic_toolbar "Ocultar barra ao rolar tela">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rolar barra de título">
 
 <!ENTITY history_removed "Página excluída">
 
