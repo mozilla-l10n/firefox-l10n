@@ -105,7 +105,7 @@
 <!ENTITY sync.text.tab.sent.label 'Fliken skickades!'>
 <!ENTITY sync.text.tab.not.sent.label 'Det uppstod ett problem vid skickandet av fliken.'>
 
-<!-- Firefox account strings. -->
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -130,8 +130,8 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Skapa ett Firefox-konto'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Skapa ett Firefox-konto'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Måste vara minst 8 tecken'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Födelseår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -147,7 +147,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Läs mer'>
 
 <!ENTITY fxaccount_confirm_account_header 'Bekräfta ditt konto'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'En bekräftelselänk har skickats till &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Skicka igen'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Skickat ett bekräftelsemejl'>
@@ -166,7 +166,7 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Logga in'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kunde inte logga in'>
 
-<!ENTITY fxaccount_status_header 'Firefox-konto'>
+<!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Inloggad som'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktiverat'>
@@ -180,14 +180,14 @@
 <!ENTITY fxaccount_status_legal 'Juridisk information' >
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-alternativ'>
 <!ENTITY fxaccount_options_configure_title 'Anpassa &syncBrand.shortName.label;'>
 
@@ -208,5 +208,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; är inte ansluten'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tryck för att logga in som &formatS;'>
