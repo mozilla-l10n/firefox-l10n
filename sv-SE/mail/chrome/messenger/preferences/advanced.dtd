@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "V">
 <!ENTITY updateHistory.label             "Visa uppdateringshistorik">
 <!ENTITY updateHistory.accesskey         "h">
-<!ENTITY updateOthers.label              "Uppdatera automatiskt:">
-<!ENTITY enableAddonsUpdate3.label       "Tillägg">
-<!ENTITY enableAddonsUpdate3.accesskey   "T">
 
 <!ENTITY useService.label               "Använd en bakgrundstjänst för att installera uppdateringar">
 <!ENTITY useService.accesskey           "b">
