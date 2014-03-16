@@ -10,14 +10,15 @@
 <!ENTITY useDefault.label                 "Réinitialiser">
 <!ENTITY useDefault.accesskey             "i">
 
-<!ENTITY bounceSystemDockIcon.label       "Animer l'icône du dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "n">
+<!ENTITY changeDockIconOptions.label      "Modifier les préférences de l'icône de l'application">
+<!ENTITY dockOptions.label                "Options de l'icône de l'application…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Quand un nouveau message arrive :">
 <!ENTITY playSound.label                  "Jouer un son">
 <!ENTITY playSound1.accesskey             "J">
 <!ENTITY showAnimatedAlert.label          "Afficher un avertissement">
-<!ENTITY showAnimatedAlert.accesskey      "A">
+<!ENTITY showAnimatedAlert.accesskey      "f">
 <!ENTITY customizeMailAlert.label         "Personnaliser…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
