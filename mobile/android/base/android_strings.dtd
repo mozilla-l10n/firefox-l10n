@@ -335,6 +335,10 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre de titre.">
 
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Pas de contenu disponible pour ce panneau.">
+
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
 <!ENTITY filepicker_title "Choisir un fichier">
