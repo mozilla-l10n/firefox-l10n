@@ -333,6 +333,10 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
 
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Pre tento panel nebol nájdený žiadny obsah.">
+
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
 <!ENTITY filepicker_title "Výber súboru">
