@@ -114,11 +114,11 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
-<!ENTITY netmonitorUI.footer.perf   "Slå ydelsesanalyse til/fra">
+<!ENTITY netmonitorUI.footer.perf   "Start ydelsesanalyse">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
-<!ENTITY netmonitorUI.panesButton.tooltip "Slå netværksinformation til/fra">
+<!ENTITY netmonitorUI.panesButton.tooltip "Vis/skjul netværksinformation">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
