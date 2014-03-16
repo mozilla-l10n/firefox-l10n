@@ -175,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
+<!ENTITY viewBookmarksSidebar.label   "Vis i sidebjælke">
 <!ENTITY backForwardItem.title        "Frem/Tilbage">
 <!ENTITY viewBookmarksSidebar2.label   "Vis i sidebjælken">
 <!ENTITY locationItem.title           "Adressefelt">
