@@ -121,7 +121,7 @@ Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Wróć do przeglądarki'>
 
 <!-- Localization note: the following two strings are interpolated
-into fxaccount_create_account_policy_text; see note for that
+into fxaccount_create_account_policy_text2; see note for that
 string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
 these strings are separated to accommodate languages that decline
 the two uses differently. -->
@@ -140,7 +140,7 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_password_length_restriction 'Hasło musi mieć przynajmniej 8 znaków'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok urodzenia'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Przechodząc dalej, wyrażasz zgodę na warunki, które opisują &formatS1; oraz &formatS2; usług internetowych Firefoksa.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Przechodząc dalej, wyrażasz zgodę na warunki, które opisują &formatS1; oraz &formatS2; usług przechowywania danych Firefoksa.'>
 <!ENTITY fxaccount_create_account_button 'Dalej'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Wybierz, co chcesz synchronizować'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Masz już konto? Zaloguj się'>
