@@ -92,6 +92,7 @@
 <!ENTITY pref_category_home_panels "Panele">
 <!ENTITY pref_home_add_panel "Dodaj panel">
 <!ENTITY home_add_panel_title "Dodaj nowy panel">
+<!ENTITY home_add_panel_empty "Niestety nie znaleźliśmy żadnych paneli do dodania.">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
