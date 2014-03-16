@@ -16,8 +16,6 @@
 <!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Пошук лістоў">
 <!ENTITY results.label "Вынікі">
-<!ENTITY moveHereMenu.label "Перамясціцца сюды">
-<!ENTITY moveHereMenu.accesskey "с">
 <!ENTITY moveButton.label "Перамясціць у">
 <!ENTITY moveButton.accesskey "у">
 <!ENTITY closeCmd.key "W">
@@ -31,6 +29,8 @@
 <!ENTITY propertiesButton.accesskey "л">
 <!ENTITY composeButton.label "Укласці">
 <!ENTITY composeButton.accesskey "У">
+<!ENTITY deleteCardButton.label "Выдаліць">
+<!ENTITY deleteCardButton.accesskey "д">
 <!ENTITY abSearchDialogTitle.label "Удасканалены пошук у адраснай кнізе">
 <!ENTITY threadColumn.label "Нізка">
 <!ENTITY fromColumn.label "Ад">
@@ -50,22 +50,22 @@
 <!ENTITY starredColumn.label "З зоркаю">
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "Парадак атрымання">
-<!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання">
-<!ENTITY threadColumn.tooltip "Пстрыкніце, каб адлюстраваць нізкі лістоў">
-<!ENTITY fromColumn.tooltip "Пстрыкніце, каб размяркоўваць па адпраўнікам">
-<!ENTITY recipientColumn.tooltip "Пстрыкніце, каб размяркоўваць па атрымальнікам">
-<!ENTITY subjectColumn.tooltip "Пстрыкніце, каб размеркаваць паводле тэмаў">
-<!ENTITY dateColumn.tooltip "Пстрыкніце, каб размеркаваць паводле датаў">
-<!ENTITY priorityColumn.tooltip "Пстрыкніце, каб размеркаваць паводле прыярытэтаў">
-<!ENTITY tagsColumn.tooltip "Пстрыкніце, каб размеркаваць паводле метак">
-<!ENTITY accountColumn.tooltip "Пстрыкніце, каб размеркаваць па рахункам">
-<!ENTITY statusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу">
-<!ENTITY sizeColumn.tooltip "Пстрыкніце, каб размеркаваць паводле памеру">
-<!ENTITY junkStatusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу лухты">
-<!ENTITY unreadColumn.tooltip "Колькасць непрачытаных лістоў у нізцы">
-<!ENTITY totalColumn.tooltip "Усяго лістоў у нізцы">
-<!ENTITY readColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу чытання">
-<!ENTITY receivedColumn.tooltip "Пстрыкніце, каб размяркоўваць па даце атрымання">
-<!ENTITY starredColumn.tooltip "Пстрыкніце, каб размеркаваць паводле зорак">
-<!ENTITY locationColumn.tooltip "Пстрыкніце, каб размеркаваць паводле месцазнаходжанняў">
-<!ENTITY idColumn.tooltip "Пстрыкніце, каб размеркаваць у парадку атрымання">
+<!ENTITY columnChooser2.tooltip "Вылучыць слупкі для адлюстравання">
+<!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
+<!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
+<!ENTITY recipientColumn2.tooltip "Размеркаваць па атрымальнікам">
+<!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмам">
+<!ENTITY dateColumn2.tooltip "Размеркаваць па датам">
+<!ENTITY priorityColumn2.tooltip "Размеркаваць па прыярытэтам">
+<!ENTITY tagsColumn2.tooltip "Размеркаваць па мецінам">
+<!ENTITY accountColumn2.tooltip "Размеркаваць па рахункам">
+<!ENTITY statusColumn2.tooltip "Размеркаваць па статусам">
+<!ENTITY sizeColumn2.tooltip "Размеркаваць па памерам">
+<!ENTITY junkStatusColumn2.tooltip "Размеркаваць па статусу лухты">
+<!ENTITY unreadColumn2.tooltip "Колькасць непрачытаных лістоў у нізцы">
+<!ENTITY totalColumn2.tooltip "Агульная колькасць лістоў у нізцы">
+<!ENTITY readColumn2.tooltip "Размеркаваць па статусу чытання">
+<!ENTITY receivedColumn2.tooltip "Размеркаваць па даце атрымання">
+<!ENTITY starredColumn2.tooltip "Размеркаваць па зоркам">
+<!ENTITY locationColumn2.tooltip "Размеркаваць па месцазнаходжанню">
+<!ENTITY idColumn2.tooltip "Размеркаваць па парадку атрымання">

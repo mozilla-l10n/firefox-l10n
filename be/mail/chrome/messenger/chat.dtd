@@ -4,11 +4,11 @@
 
 <!ENTITY onlineContactsHeader.label "Сувязі ў сетцы">
 <!ENTITY offlineContactsHeader.label "Сувязі па-за сеткаю">
-<!ENTITY conversationsHeader.label "Размовы">
+<!ENTITY conversationsHeader.label "Гутаркі">
 <!ENTITY searchResultConversation.label "Вынікі пошуку">
-<!ENTITY chat.noConv.title "Размовы будуць адлюстроўвацца тут.">
-<!ENTITY chat.noConv.description "Ужывайце спіс сувязяў на левай панэлі">
-<!ENTITY chat.noPreviousConv.description "&brandShortName; зараз не мае ніводнай размовы, захованай для гэтай сувязі.">
+<!ENTITY chat.noConv.title "Гутаркі будуць адлюстроўвацца тут.">
+<!ENTITY chat.noConv.description "Ужывайце спіс сувязяў на левай панэлі, каб пачаць гутарку.">
+<!ENTITY chat.noPreviousConv.description "&brandShortName; зараз не мае ніводнай гутаркі, захованай для гэтай сувязі.">
 <!ENTITY chat.noAccount.title "Вы пакуль не наладзілі рахунак гутаркі.">
 <!ENTITY chat.noAccount.description "Дазволіць &brandShortName; настаўляць вас падчас наладжвання вашага гутарковага рахунку.">
 <!ENTITY chat.accountWizard.button "Пачаць">
@@ -16,18 +16,18 @@
 <!ENTITY chat.noConnectedAccount.description "Вы можаце злучыцца з імі ў дыялогу 'Статус гутаркі':">
 <!ENTITY chat.showAccountManager.button "Паказаць статус гутаркі">
 <!ENTITY chat.participants "Удзельнікі:">
-<!ENTITY chat.previousConversations "Папярэднія размовы:">
-<!ENTITY chat.ongoingConversation "Цяперашнія размовы">
-<!ENTITY openConversationCmd.label "Пачаць размову">
-<!ENTITY openConversationCmd.accesskey "р">
-<!ENTITY closeConversationCmd.label "Закрыць размову">
+<!ENTITY chat.previousConversations "Папярэднія гутаркі:">
+<!ENTITY chat.ongoingConversation "Цяперашнія гутаркі">
+<!ENTITY openConversationCmd.label "Пачаць гутарку">
+<!ENTITY openConversationCmd.accesskey "П">
+<!ENTITY closeConversationCmd.label "Закрыць гутарку">
 <!ENTITY closeConversationCmd.accesskey "к">
 <!ENTITY aliasCmd.label "Перайменаваць">
 <!ENTITY aliasCmd.accesskey "П">
 <!ENTITY deleteCmd.label "Выдаліць сувязь">
 <!ENTITY deleteCmd.accesskey "д">
-<!ENTITY openConversationButton.tooltip "Пачаць размову">
-<!ENTITY closeConversationButton.tooltip "Закрыць размову">
+<!ENTITY openConversationButton.tooltip "Пачаць гутарку">
+<!ENTITY closeConversationButton.tooltip "Закрыць гутарку">
 <!ENTITY addBuddyButton.label "Дадаць сувязь">
 <!ENTITY joinChatButton.label "Пачаць гутарыць">
 <!ENTITY chatAccountsButton.label "Паказаць рахункі">

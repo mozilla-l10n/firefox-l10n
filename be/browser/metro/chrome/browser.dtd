@@ -3,17 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY urlbar.emptytext "Увядзіце тэрміны для пошуку або адрас">
-<!ENTITY urlbar.accesskey "У">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Наперад">
 <!ENTITY newtab.label "Новая ўстаўка">
+<!ENTITY newPrivateTab.label "Новая адасобленая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
 <!ENTITY autocompleteResultsHeader.label "Вашы вынікі">
-<!ENTITY autocompleteSearchesHeader.label "Пошук у Інтэрнэце">
 <!ENTITY appbarErrorConsole.label "Адчыніць кансоль памылак">
 <!ENTITY appbarJSShell.label "Адчыніць абалонку JavaScript">
 <!ENTITY appbarFindInPage2.label "Знайсці на старонцы">
-<!ENTITY appbarViewOnDesktop2.label "Прагляд на працоўным стале">
+<!ENTITY appbarRelaunchInDesktop.label "Перазапусціць на настольніку">
+<!ENTITY appbarMSMetaData2.label "Атрымаць прыстасаванні для пляцоўкі">
+<!ENTITY appbarViewPageSource.label "Праглядзець зыходнік старонкі">
 <!ENTITY topSitesHeader.label "Найнаведвальныя пляцоўкі">
 <!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY recentHistoryHeader.label "Нядаўняя гісторыя">
@@ -49,7 +50,7 @@
 <!ENTITY contextTextCopy.label "Капіяваць">
 <!ENTITY contextTextPaste.label "Уставіць">
 <!ENTITY contextTextPasteAndGo.label "Уставіць і пайсці">
-<!ENTITY contextTextSelect.label "Выбраць">
+<!ENTITY contextTextSelect.label "Вылучыць">
 <!ENTITY contextTextSelectAll.label "Вылучыць усё">
 <!ENTITY contextOpenLinkTab.label "Адчыніць спасылку ў новай устаўцы">
 <!ENTITY contextCopyLinkHref.label "Скапіяваць спасылку">
@@ -61,3 +62,32 @@
 <!ENTITY contextSaveVideoLib.label "Захаваць у бібліятэцы выдэя">
 <!ENTITY contextCopyVideoLocation.label "Капіяваць месцазнаходжанне відэя">
 <!ENTITY contextOpenVideoTab.label "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "У">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!ENTITY newPrivateTab.key "p">
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
+<!ENTITY firstRunTabs.label "Шукаеце вашы ўстаўкі? Пацягніце ўніз або зрабіце правы пстрык">
+<!ENTITY firstRunTopSites.label "Найбольш наведвальныя пляцоўкі">
+<!ENTITY firstRunBookmarks.label "Знайсці старонкі, захаваныя на пасля">
+<!ENTITY firstRunMenu.label "Больш асаблівасцяў і наладжванняў">
+<!ENTITY firstRunHistory.label "Гісторыя вашых наведванняў Сеціва">
+<!ENTITY firstRunWelcome.label "Калі ласка да &brandShortName;">
+<!ENTITY firstRunDifferent.label "Наўмысна адрозны">
+<!ENTITY firstRunBack.label "Ляпніце, каб перайсці на папярэднюю старонку">
+<!ENTITY firstRunNewTab.label "Дадаць новую ўстаўку, каб наведаць новую пляцоўку">
+<!ENTITY firstRunStar.label "Ужывайце закладкі, каб захоўваць старонкі на потым">
+<!ENTITY firstRunPin.label "Прышпільвайце пляцоўкі на экран запуску Windows для хуткага доступу">
+<!ENTITY firstRunGotIt.label "Зразумеў!">

@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accounts.title "Рахункі  - &brandShortName;">
+<!ENTITY accountManager.width "460">
+<!ENTITY accountManager.newAccount.label "Стварыць рахунак">
+<!ENTITY accountManager.newAccount.accesskey "С">
+<!ENTITY accountManager.close.label "Зачыніць">
+<!ENTITY accountManager.close.accesskey "ч">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "Няма наладжаных рахункаў!">
+<!ENTITY accountManager.noAccount.description 'Пстрыкніце кнопку "&accountManager.newAccount.label;", каб дазволіць &brandShortName; настаўляць вас падчас наладжвання новага рахунку.'>
+<!ENTITY account.autoSignOn.label "Увайсці падчас запуску">
+<!ENTITY account.autoSignOn.accesskey "У">
+<!ENTITY account.connect.label "Злучыцца">
+<!ENTITY account.connect.accesskey "З">
+<!ENTITY account.disconnect.label "Разлучыцца">
+<!ENTITY account.disconnect.accesskey "Р">
+<!ENTITY account.delete.label "Выдаліць">
+<!ENTITY account.delete.accesskey "В">
+<!ENTITY account.edit.label "Уласцівасці">
+<!ENTITY account.edit.accesskey "У">
+<!ENTITY account.moveup.label "Рухаць угору">
+<!ENTITY account.movedown.label "Рухаць уніз">
+<!ENTITY account.cancelReconnection.label "Скасаваць перазлучэнне">
+<!ENTITY account.cancelReconnection.accesskey "С">
+<!ENTITY account.copyDebugLog.label "Скапіяваць метрыку наладкі">
+<!ENTITY account.copyDebugLog.accesskey "к">
+<!ENTITY account.connecting "Злучэнне…">
+<!ENTITY account.disconnecting "Разлучэнне…">
+<!ENTITY account.disconnected "Не злучана">

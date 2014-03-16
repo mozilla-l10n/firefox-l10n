@@ -21,6 +21,9 @@
 <!ENTITY printSetupCmd.label "Усталяванне старонкі…">
 <!ENTITY printSetupCmd.accesskey "У">
 <!ENTITY redoCmd.key "Z">
+<!ENTITY showHideSidebarCmd.key "S">
+<!ENTITY toggleFolderPaneCmd.key "S">
+<!ENTITY toggleDirectoryPaneCmd.key "S">
 <!ENTITY historyCmd.key "H">
 <!ENTITY findTypeTextCmd.key "">
 <!ENTITY findTypeLinksCmd.key "">

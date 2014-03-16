@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messageStyleTab.title "Стылі паведамленняў">
+<!ENTITY messageStylePreview.label "Перадпрагляд:">
+<!ENTITY messageStyleTheme.label "Тэма:">
+<!ENTITY messageStyleTheme.accesskey "Т">
+<!ENTITY messageStyleBubblesTheme.label "Бурбалкі">
+<!ENTITY messageStyleDarkTheme.label "Цёмная">
+<!ENTITY messageStylePaperSheetsTheme.label "Папяровая паверхня">
+<!ENTITY messageStyleSimpleTheme.label "Простая">
+<!ENTITY messageStyleDefaultTheme.label "Змоўчная">
+<!ENTITY messageStyleVariant.label "Варыянт:">
+<!ENTITY messageStyleVariant.accesskey "В">
+<!ENTITY messageStyleShowHeader.label "Паказваць загаловак">
+<!ENTITY messageStyleShowHeader.accesskey "з">
+<!ENTITY messageStyleNoPreview.title "Няма перадпрагляду">
+<!ENTITY messageStyleNoPreview.description "Гэятая тэма няспраўная або недаступная зараз (забаронены дадатак, бяспечны рэжым, …).">
+<!ENTITY messageStyleGetMore.label "Атрымаць іншыя стылі паведамленняў…">
+<!ENTITY messageStyleNoExtraThemes.label "(няма дадатковых усталяваных тэмаў)">
+<!ENTITY emoticonsTab.title "Пачуццезнакі">
+<!ENTITY emoticonsTheme.label "Тэмы пачуццезнакаў:">
+<!ENTITY emoticonsTheme.accesskey "п">
+<!ENTITY emoticonsDefaultTheme.label "Змоўчная">
+<!ENTITY emoticonsDisabled.label "Забаронена">
+<!ENTITY emoticonsPreview.description "Гэтыя тэкставыя коды паказваюцца як пачуццеадзнакі ў вашых гутарках:">
+<!ENTITY emoticonsImageColumn.label "Пачуццезнак">
+<!ENTITY emoticonsTextCodesColumn.label "Тэкставы код">
+<!ENTITY emoticonsGetMore.label "Атрымаць іншыя пачуццезнакі…">
+<!ENTITY emoticonsNoExtraThemes.label "(няма дадатковых усталяваных тэмаў)">

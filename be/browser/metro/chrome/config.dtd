@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label "Пошук">
-<!ENTITY newpref.label "Дадаць новую перавагу">
 <!ENTITY addpref.name "Назва">
-<!ENTITY addpref.value "Значэнне">
 <!ENTITY cancel.label "Скасаваць">
-<!ENTITY reset.label "Узнавіць">
-<!ENTITY done.label "Гатова">
+<!ENTITY toggle.label "Пераключыць">
 <!ENTITY integer.label "Цэлы">
 <!ENTITY string.label "Радок">
 <!ENTITY boolean.label "Лагічны">
+<!ENTITY string.placeholder "Увядзіце радок">
+<!ENTITY number.placeholder "Увядзіце лік">

@@ -1,0 +1,125 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY convWindow.title "Гутаркі - &brandShortName;">
+<!ENTITY convWindow.titlemodifiermenuseparator " - ">
+<!ENTITY convWindow.titlemodifier "&brandShortName;">
+<!ENTITY logsWindow.title "Метрыкі гутарак - &brandShortName;">
+<!ENTITY logsWindow.titlemodifiermenuseparator " - ">
+<!ENTITY logsWindow.titlemodifier "&brandShortName;">
+<!ENTITY logsWindow.corruptlogfile "Пусты або пашкоджаны файл метрыкі.">
+<!ENTITY file.menu "Файл">
+<!ENTITY file.accesskey "Ф">
+<!ENTITY quitApplicationCmdWin.label "Выйсці">
+<!ENTITY quitApplicationCmdWin.accesskey "В">
+<!ENTITY quitApplicationCmd.label "Выйсці">
+<!ENTITY quitApplicationCmd.accesskey "В">
+<!ENTITY quitApplicationCmdMac.label "Выйсці з &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY addContact "Дадаць сувязь…">
+<!ENTITY addContact.commandkey "b">
+<!ENTITY addContact.accesskey "Д">
+<!ENTITY joinChat "Далучыцца да гутакі…">
+<!ENTITY joinChat.commandkey "j">
+<!ENTITY joinChat.accesskey "л">
+<!ENTITY newtab "Новая гутарка…">
+<!ENTITY newtab.commandkey "t">
+<!ENTITY newtab.accesskey "Н">
+<!ENTITY setStatusTo "Прызначыць статус…">
+<!ENTITY setStatusTo.accesskey "с">
+<!ENTITY available "Даступны">
+<!ENTITY available.accesskey "Д">
+<!ENTITY unavailable "Недаступны">
+<!ENTITY unavailable.accesskey "Н">
+<!ENTITY offline "Па-за сеткаю">
+<!ENTITY offline.accesskey "з">
+<!ENTITY tools.menu "Прылады">
+<!ENTITY tools.accesskey "П">
+<!ENTITY accountManager "Рахункі">
+<!ENTITY account.commandkey "a">
+<!ENTITY account.accesskey "Р">
+<!ENTITY contacts.label "Сувязі">
+<!ENTITY contacts.accesskey "С">
+<!ENTITY contacts.commandkey "c">
+<!ENTITY addonManager "Дадаткі">
+<!ENTITY addonManager.accesskey "Д">
+<!ENTITY addonManager.commandkey "d">
+<!ENTITY addonManager.key "d">
+<!ENTITY checkForUpdates "Праверка існавання абнаўленняў">
+<!ENTITY help.menu "Даведка">
+<!ENTITY help.accesskey "Д">
+<!ENTITY helpWin.menu "Даведка">
+<!ENTITY helpWin.accesskey "Д">
+<!ENTITY about.menu "Пра &brandShortName;">
+<!ENTITY about.accesskey "П">
+<!ENTITY conversation.contextMenu.close "Зачыніць устаўку">
+<!ENTITY chat.participants "Удзельнікі:">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY preferencesCmd.label "Наладжванні…">
+<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmdUnix.label "Перавагі">
+<!ENTITY preferencesCmdUnix.accesskey "в">
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY openLinkCmd.label "Адкрыць спасылку…">
+<!ENTITY openLinkCmd.accesskey "с">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "м">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.accesskey "э">
+<!ENTITY engineManagerCmd.label "Наладзіць машыны пошуку…">
+<!ENTITY userIcon.label "Змяніць ваш значок">
+<!ENTITY contactsHeader.label "Сувязі">
+<!ENTITY convsHeader.label "Адкладзеныя гутаркі">
+<!ENTITY openConversationCmd.label "Пачаць гутарку">
+<!ENTITY openConversationCmd.accesskey "П">
+<!ENTITY showConversationCmd.label "Паказаць гутарку">
+<!ENTITY showConversationCmd.accesskey "П">
+<!ENTITY closeConversationCmd.label "Закрыць гутарку">
+<!ENTITY closeConversationCmd.accesskey "к">
+<!ENTITY aliasCmd.label "Перайменаваць">
+<!ENTITY aliasCmd.accesskey "й">
+<!ENTITY detachCmd.label "Адлучыцца ад сувязі">
+<!ENTITY detachCmd.accesskey "А">
+<!ENTITY deleteCmd.label "Выдаліць">
+<!ENTITY deleteCmd.accesskey "В">
+<!ENTITY tagsCmd.label "Меціны…">
+<!ENTITY tagsCmd.accesskey "ц">
+<!ENTITY addNewTagCmd.label "Дадаць новую меціну…">
+<!ENTITY addNewTagCmd.accesskey "н">
+<!ENTITY showLogsCmd.label "Паказаць метрыкі">
+<!ENTITY showLogsCmd.accesskey "м">
+<!ENTITY hideTagCmd.label "Схаваць устаўку">
+<!ENTITY hideTagCmd.accesskey "х">
+<!ENTITY visibleTagsCmd.label "Бачныя ўстаўкі…">
+<!ENTITY visibleTagsCmd.accesskey "Б">
+<!ENTITY showOfflineContactsCmd.label "Паказаць пазасеткавыя сувязі">
+<!ENTITY showOfflineContactsCmd.accesskey "з">
+<!ENTITY expandContactTooltip "Разгарнуць">
+<!ENTITY collapseContactTooltip "Згарнуць">
+<!ENTITY contactDropTarget2 "Упусціць іншую сувязь, каб зліць іх.">
+<!ENTITY hideGroupTooltip "Схаваць">
+<!ENTITY windowMenu.label "Акно">
+<!ENTITY minimizeWindow.label "Мінімізаваць">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
+<!ENTITY zoomWindow.label "Павялічыць">
+<!ENTITY preferencesCmdMac.label "Перавагі…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY servicesMenuMac.label "Службы">
+<!ENTITY hideThisAppCmdMac.label "Схаваць &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY showAllAppsCmdMac.label "Паказаць усе">

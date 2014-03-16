@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY proxiesDialog.title "Наладжванні пасярэдніка">
+<!ENTITY proxiesDialogHeader.title "Наладжванні пасярэдніка">
+<!ENTITY proxiesDialogHeader.description "Для гэтага рахунку">
+<!ENTITY proxiesDialog.useGlobalSettings "Ужываць агульныя наладжванні">
+<!ENTITY proxiesDialog.directConnection "Непасрэднае злучэнне з Інтэрнэтам">
+<!ENTITY proxiesDialog.noProxy "(Няма пасярэдніка)">
+<!ENTITY proxiesDialog.useEnvironment "Ужываць наладжванні асяроддзя">
+<!ENTITY proxiesDialog.noProxyInEnvironment "Наладжванні пасярэдніка ня знойдзены ў асяроддзі">
+<!ENTITY proxiesDialog.otherSetting "Іншыя…">
+<!ENTITY proxiesDialog.http.label "HTTP">
+<!ENTITY proxiesDialog.socks4.label "SOCKS 4">
+<!ENTITY proxiesDialog.socks5.label "SOCKS 5">
+<!ENTITY proxiesDialog.hostname.label "Назва трымальніка:">
+<!ENTITY proxiesDialog.hostname.defaultValue "Назва трымальніка">
+<!ENTITY proxiesDialog.port.label "Порт:">
+<!ENTITY proxiesDialog.username.label "Імя карыстальніка:">
+<!ENTITY proxiesDialog.password.label "Пароль:">
+<!ENTITY proxiesDialog.useAsGlobal.label "Ужываць гэтыя наладжванні для ўсіх рахункаў (Змяніць агульныя)">

@@ -486,14 +486,3 @@
 <!ENTITY searchButton.accesskey "П">
 <!ENTITY all.label "Усе">
 <!ENTITY all.accesskey "У">
-<!ENTITY junkBarMessage.label "&brandShortName; лічыць, што гэты ліст – паштовая лухта.">
-<!ENTITY junkBarButton.label "Гэта не лухта">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage.label "Каб захаваць ваша адасабленне, &brandShortName; блакаваў адлеглае змесціва ў гэтым лісце.">
-<!ENTITY loadRemoteContentButton.label "Паказаць адлеглае змесціва">
-<!ENTITY phishingBarMessage.label "&brandShortName; лічыць, што гэты ліст – э-паштовая ашука.">
-<!ENTITY removePhishingBarButton.label "Не ашука">
-<!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
-<!ENTITY mdnBarIgnoreButton.accesskey "І">
-<!ENTITY mdnBarSendButton.label "Даслаць квіток">
-<!ENTITY mdnBarSendButton.accesskey "к">

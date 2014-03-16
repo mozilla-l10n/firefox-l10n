@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Пра &brandFullName;">
+<!ENTITY credits.label "Удзельнікі">
+<!ENTITY credits.accesskey "У">
+<!ENTITY aboutLink.label "&lt; Пра &brandShortName;">
+<!ENTITY aboutLink.accesskey "П">
+<!ENTITY aboutVersion "версія">
+<!ENTITY geckoVersion "Gecko">
+<!ENTITY libpurpleVersion "libpurple">
+<!ENTITY copyrightText2 "©2007-&copyrightYear; укладчыкі. Гэта свабодная праграма; вы можаце распаўсюджваць яе і/або змяняць згодна ліцэнзіі GNU GPL версіі 2.0 або больш позняй.">

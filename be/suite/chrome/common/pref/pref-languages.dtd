@@ -16,9 +16,10 @@
 <!ENTITY languages.customize.active.accesskey "М">
 <!ENTITY languages.customize.others.label "Іншыя:">
 <!ENTITY languages.customize.others.accesskey "І">
-<!ENTITY languages.customize.Charset.grouplabel "Змоўчная кадоўка знакаў">
-<!ENTITY languages.customize.DefaultCharset.label "Кадоўка знакаў:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "К">
+<!ENTITY languages.customize.Fallback.grouplabel "Кадоўка знакаў для спадчыннага змесціва">
+<!ENTITY languages.customize.Fallback.label "Запасная кадоўка знакаў:">
+<!ENTITY languages.customize.Fallback.accesskey "З">
+<!ENTITY languages.customize.Fallback.desc "Ужываецца для спадчыннага змесціва, якое не абвяшчае сваю кадоўку.">
 <!ENTITY languages.customize.others.examples "напрыклад: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label "Рухаць угору">
 <!ENTITY languages.customize.moveUp.accesskey "г">

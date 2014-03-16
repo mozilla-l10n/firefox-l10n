@@ -290,8 +290,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
 <!ENTITY folderMenu.accesskey "а">
-<!ENTITY thisFolder.label "Гэтая папка">
-<!ENTITY thisFolder.accesskey "п">
 <!ENTITY goRecentlyClosedTabs.label "Нядаўна зачыненыя ўстаўкі">
 <!ENTITY goRecentlyClosedTabs.accesskey "Н">
 <!ENTITY startPageCmd.label "Пачатковая старонка Пошты">
@@ -329,9 +327,9 @@
 <!ENTITY forwardAsInline.accesskey "б">
 <!ENTITY forwardAsAttachmentCmd.label "Далучэнне">
 <!ENTITY forwardAsAttachmentCmd.accesskey "Д">
-<!ENTITY editMsgAsNewCmd.label "Рэдагаваць ліст як новы">
-<!ENTITY editMsgAsNewCmd.accesskey "Р">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Правіць як новы ліст">
+<!ENTITY editAsNewMsgCmd.accesskey "П">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
 <!ENTITY moveMsgToMenu.label "Перамясціць у">
@@ -354,10 +352,6 @@
 <!ENTITY watchThreadMenu.label "Сачыць за нізкай">
 <!ENTITY watchThreadMenu.accesskey "С">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Пакласці тут">
-<!ENTITY fileHereMenu.accesskey "П">
-<!ENTITY copyHereMenu.label "Капіяваць сюды">
-<!ENTITY copyHereMenu.accesskey "К">
 <!ENTITY tagMenu.label "Метка">
 <!ENTITY tagMenu.accesskey "М">
 <!ENTITY tagCmd0.key "0">
@@ -528,10 +522,19 @@
 <!ENTITY appmenuButton1.tooltip "Адлюстраваць меню &brandShortName; Menu">
 <!ENTITY buttonMenuForwardAsInline.label "Накіраваць усярэдзіне">
 <!ENTITY buttonMenuForwardAsAttachment.label "Накіраваць як далучэнне">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Паказаць адлеглае змесціва ў гэтым лісце">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "П">
+<!ENTITY remoteContentOptionAllowForAddress.label "Паказаць адлеглае змесціва ад гэтага дасылальніка">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "а">
+<!ENTITY phishingOptionIgnore.label "Ігнараваць папярэджанне для гэтага ліста">
+<!ENTITY phishingOptionIgnore.accesskey "І">
+<!ENTITY phishingOptionSettings.label "Правіць наладжванні выяўлення ашукаў…">
+<!ENTITY phishingOptionSettings.accesskey "р">
+<!ENTITY phishingOptionSettingsUnix.label "Правіць перавагі выяўлення ашукаў…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "р">
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
-<!ENTITY appmenuQFBMenu.label "Паліца хуткага сіта">
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY appmenuSelectThread.label "Вылучыць нізку">
 <!ENTITY appmenuSelectFlagged.label "Вылучыць пазначаныя зоркамі лісты">
@@ -606,34 +609,34 @@
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "Парадак атрымання">
 <!ENTITY attachmentColumn.label "Далучэнні">
-<!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання">
-<!ENTITY threadColumn.tooltip "Пстрыкніце, каб адлюстраваць нізкі лістоў">
-<!ENTITY fromColumn.tooltip "Пстрыкніце, каб размяркоўваць па адпраўнікам">
-<!ENTITY recipientColumn.tooltip "Пстрыкніце, каб размяркоўваць па атрымальнікам">
-<!ENTITY subjectColumn.tooltip "Пстрыкніце, каб размеркаваць паводле тэмаў">
-<!ENTITY dateColumn.tooltip "Пстрыкніце, каб размеркаваць паводле датаў">
-<!ENTITY priorityColumn.tooltip "Пстрыкніце, каб размеркаваць паводле прыярытэтаў">
-<!ENTITY tagsColumn.tooltip "Пстрыкніце, каб размеркаваць паводле метак">
-<!ENTITY accountColumn.tooltip "Пстрыкніце, каб размеркаваць па рахункам">
-<!ENTITY statusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу">
-<!ENTITY sizeColumn.tooltip "Пстрыкніце, каб размеркаваць паводле памеру">
-<!ENTITY junkStatusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу лухты">
-<!ENTITY unreadColumn.tooltip "Колькасць непрачытаных лістоў у нізцы">
-<!ENTITY totalColumn.tooltip "Усяго лістоў у нізцы">
-<!ENTITY readColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу чытання">
-<!ENTITY receivedColumn.tooltip "Пстрыкніце, каб размяркоўваць па даце атрымання">
-<!ENTITY starredColumn.tooltip "Пстрыкніце, каб размеркаваць паводле зорак">
-<!ENTITY locationColumn.tooltip "Пстрыкніце, каб размеркаваць паводле месцазнаходжанняў">
-<!ENTITY idColumn.tooltip "Пстрыкніце, каб размеркаваць у парадку атрымання">
-<!ENTITY attachmentColumn.tooltip "Пстрыкніце, каб размеркаваць паводле далучэнняў">
+<!ENTITY columnChooser2.tooltip "Вылучыць слупкі для адлюстравання">
+<!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
+<!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
+<!ENTITY recipientColumn2.tooltip "Размеркаваць па атрымальнікам">
+<!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмам">
+<!ENTITY dateColumn2.tooltip "Размеркаваць па датам">
+<!ENTITY priorityColumn2.tooltip "Размеркаваць па прыярытэтам">
+<!ENTITY tagsColumn2.tooltip "Размеркаваць па мецінам">
+<!ENTITY accountColumn2.tooltip "Размеркаваць па рахункам">
+<!ENTITY statusColumn2.tooltip "Размеркаваць па статусам">
+<!ENTITY sizeColumn2.tooltip "Размеркаваць па памерам">
+<!ENTITY junkStatusColumn2.tooltip "Размеркаваць па статусу лухты">
+<!ENTITY unreadColumn2.tooltip "Колькасць непрачытаных лістоў у нізцы">
+<!ENTITY totalColumn2.tooltip "Агульная колькасць лістоў у нізцы">
+<!ENTITY readColumn2.tooltip "Размеркаваць па статусу чытання">
+<!ENTITY receivedColumn2.tooltip "Размеркаваць па даце атрымання">
+<!ENTITY starredColumn2.tooltip "Размеркаваць па зоркам">
+<!ENTITY locationColumn2.tooltip "Размеркаваць па месцазнаходжанню">
+<!ENTITY idColumn2.tooltip "Размеркаваць па парадку атрымання">
+<!ENTITY attachmentColumn2.tooltip "Размеркаваць па далучэнням">
 <!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!ENTITY contextOpenNewTab.label "Адчыніць ліст у новай устаўцы">
 <!ENTITY contextOpenNewTab.accesskey "у">
 <!ENTITY contextOpenConversation.label "Адкрыць ліст у гутарцы">
 <!ENTITY contextOpenConversation.accesskey "г">
-<!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
-<!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextEditMsgAsNew.label "Правіць як новы ліст">
+<!ENTITY contextEditMsgAsNew.accesskey "П">
 <!ENTITY contextArchive.label "Архіў">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
@@ -683,19 +686,6 @@
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Уключыць гук">
 <!ENTITY contextUnmute.accesskey "У">
-<!ENTITY junkBarMessage2.label "&brandShortName; лічыць, што гэты ліст пошта-лухта.">
-<!ENTITY junkBarButton1.label "Не лухта">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "Каб захаваць ваша адасабленне, &brandShortName; блакаваў адлеглае змесціва ў гэтым лісце.">
-<!ENTITY loadRemoteContentButton3.label "Паказаць адлеглае змесціва">
-<!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
-<!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
-<!ENTITY disablePhishingWarning1.label "Забараніць вызначэнне ашукаў для ўсіх лістоў">
-<!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
-<!ENTITY mdnBarIgnoreButton2.label "Ігнараваць">
-<!ENTITY mdnBarIgnoreButton2.accesskey "І">
-<!ENTITY mdnBarSendButton2.label "Даслаць квіток атрымання">
-<!ENTITY mdnBarSendButton2.accesskey "Д">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Пошук… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
@@ -704,8 +694,8 @@
 <!ENTITY AddToAddressBook.accesskey "к">
 <!ENTITY AddDirectlyToAddressBook.label "Дадаць у адрасную кнігу">
 <!ENTITY AddDirectlyToAddressBook.accesskey "к">
-<!ENTITY EditContact.label "Правіць сувязь…">
-<!ENTITY EditContact.accesskey "П">
+<!ENTITY EditContact1.label "Праўка сувязі">
+<!ENTITY EditContact1.accesskey "П">
 <!ENTITY ViewContact.label "Прагляд сувязі">
 <!ENTITY ViewContact.accesskey "г">
 <!ENTITY SubscribeToNewsgroup.label "Падпісацца на навінакупу">

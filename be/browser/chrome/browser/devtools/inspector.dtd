@@ -1,3 +1,5 @@
+<!ENTITY inspectorHTMLEdit.label "Правіць як HTML">
+<!ENTITY inspectorHTMLEdit.accesskey "H">
 <!ENTITY inspectorHTMLCopyInner.label "Скапіяваць унутраны HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "у">
 <!ENTITY inspectorHTMLCopyOuter.label "Скапіяваць вонкавы HTML">
@@ -9,3 +11,4 @@
 <!ENTITY inspector.selectButton.tooltip "Вылучыць адзінку мышшу">
 <!ENTITY inspectorSearchHTML.label "Пошук HTML">
 <!ENTITY inspectorSearchHTML.key "F">
+<!ENTITY inspectorCopyImageDataUri.label "Copy Image Data-URL">

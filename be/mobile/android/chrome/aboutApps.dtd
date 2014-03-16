@@ -4,8 +4,6 @@
 
 <!ENTITY aboutApps.title2 "Прыстасаванні">
 <!ENTITY aboutApps.header "Вашы прыстасаванні">
-<!ENTITY aboutApps.noApps.pre "Няма ўсталяваных сеціўных прыстасавання. Знайсці ў ">
-<!ENTITY aboutApps.noApps.middle3 "Рынак Firefox">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Азірнуць рынак Firefox">
 <!ENTITY aboutApps.uninstall "Высталяваць">
 <!ENTITY aboutApps.addToHomescreen "Дадаць на хатні экран">

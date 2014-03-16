@@ -19,8 +19,6 @@
 <!ENTITY messageIdField4.label "Вызначальнік-Ліста">
 <!ENTITY inReplyToField4.label "У адказ на">
 <!ENTITY originalWebsite4.label "Пляцоўка Сеціва">
-<!ENTITY editMessageDescription.label "Чарнавік ліста">
-<!ENTITY editMessageButton.label "Праўка…">
 <!ENTITY hdrArchiveButton1.label "У архіў">
 <!ENTITY hdrArchiveButton1.tooltip "Архіваваць гэты ліст">
 <!ENTITY hdrSmartReplyButton1.label "Кемны адказ">

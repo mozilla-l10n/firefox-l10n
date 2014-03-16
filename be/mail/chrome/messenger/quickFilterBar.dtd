@@ -5,6 +5,7 @@
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Хуткі пошук">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Паліца хуткага сіта">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "х">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Паліца хуткага сіта">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Пераключыць паліцу хуткага сіта">
 <!ENTITY quickFilterBar.sticky.tooltip "Захоўваць ужытыя сіты пры змяненні папак">
 <!ENTITY quickFilterBar.barLabel.label "Хуткі пошук:">
