@@ -76,9 +76,8 @@
 
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectarse a &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; se está sincronizando">
-<!ENTITY syncStartPanel.subTitle "Puede administrar &syncBrand.shortName.label; en Opciones.">
-<!ENTITY syncStartPanel.subTitleUnix "Puede administrar &syncBrand.shortName.label; en Preferencias.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; empezará a sincronizarse momentáneamente.">
 <!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Por favor, conéctese para continuar la sincronización.">
 <!ENTITY syncErrorPanel.signInButton.label "Conectarse">
@@ -539,7 +538,6 @@
 <!ENTITY social.closeNotificationItem.label "No ahora">
 
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y funciones adicionales">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escoja entre miles de complementos">
