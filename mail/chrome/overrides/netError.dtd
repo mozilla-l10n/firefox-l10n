@@ -66,7 +66,7 @@ el &brandShortName; té permís per accedir al web.</li>
 <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "La connexió s'ha tallat">
+<!ENTITY netReset.title "S'ha reiniciat la connexió">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "La connexió no respon">
@@ -137,7 +137,7 @@ que el &brandShortName; tingui permís per accedir al web.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contingut corromput">
+<!ENTITY corruptedContentError.title "Error de contingut malmès">
 <!ENTITY corruptedContentError.longDesc "<p>El contingut que intenteu visualitzar no es pot mostrar perquè s'ha detectat un error en la transmissió de dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">

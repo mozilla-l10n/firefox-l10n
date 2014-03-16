@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Paràmetres">
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
-<!ENTITY pref_category_search2 "Paràmetres de cerca">
+<!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_display "Visualització">
 <!ENTITY pref_category_privacy_short "Privadesa">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
 <!ENTITY pref_category_add_search_providers "Afegiu més proveïdors de cerca">
+<!ENTITY pref_category_search_restore_defaults "Restaura els motors de cerca">
+<!ENTITY pref_search_restore_defaults "Restaura els motors per defecte">
+<!ENTITY pref_search_restore_defaults_summary "Restaura els motors per defecte">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_developer_remotedebugging_docs "Més informació">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
+
+<!ENTITY pref_category_home "Inici">
+<!ENTITY pref_category_home_panels "Subfinestres">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalitza">
@@ -108,7 +114,7 @@
 <!ENTITY pref_plugins_enabled "Habilitats">
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
-<!ENTITY pref_text_size "Mida de la lletra">
+<!ENTITY pref_text_size "Mida del text">
 <!ENTITY pref_reflow_on_zoom4 "Reajusta el text">
 <!ENTITY pref_restore "Pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
 <!ENTITY pref_vendor_faqs "PMF">
 <!ENTITY pref_vendor_feedback "Doneu la vostra opinió">
-<!ENTITY pref_search_set_default "Defineix per defecte">
-<!ENTITY pref_search_default "Per defecte">
-<!ENTITY pref_search_remove "Suprimeix">
+
+<!ENTITY pref_dialog_set_default "Defineix per defecte">
+<!ENTITY pref_dialog_default "Per defecte">
+<!ENTITY pref_dialog_remove "Suprimeix">
+
 <!ENTITY pref_search_last_toast "No podeu suprimir ni inhabilitar el darrer motor de cerca.">
+
+<!ENTITY pref_panels_show "Mostra">
+<!ENTITY pref_panels_hide "Amaga">
 
 <!ENTITY datareporting_notification_title "Estadístiques i dades del &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Trieu quina informació voleu compartir">
@@ -177,11 +188,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Informes de fallada">
 <!ENTITY datareporting_wifi_title "Serveis d\u0027ubicació de &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ajudeu a millorar els serveis d\u0027ubicació per al web obert permetent a &brandShortName; recollir dades anònimes de les antenes de telefonia">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
+<!ENTITY pref_update_autodownload2 "Baixa actualitzacions automàticament">
 <!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
-<!ENTITY pref_update_autodownload_disabled "Inhabilitades">
-<!ENTITY pref_update_autodownload_enabled "Habilitades">
+<!ENTITY pref_update_autodownload_never "Mai">
+<!ENTITY pref_update_autodownload_always "Sempre">
 
 <!ENTITY quit "Surt">
 
@@ -212,6 +226,13 @@ size. -->
 <!ENTITY find_prev "Enrere">
 <!ENTITY find_next "Endavant">
 <!ENTITY find_close "Tanca">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "S\u0027està transmetent al dispositiu">
+<!ENTITY media_play "Reprodueix">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Atura">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
@@ -228,10 +249,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Edita">
 <!ENTITY contextmenu_top_sites_pin "Fixa el lloc">
 <!ENTITY contextmenu_top_sites_unpin "No fixis el lloc">
+<!ENTITY contextmenu_add_search_engine "Afegeix un motor de cerca">
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
 <!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Desplaça la barra de títol">
 
 <!ENTITY history_removed "S\u0027ha suprimit la pàgina">
 
@@ -371,3 +397,8 @@ de l\u0027Android">
 
 <!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Fet">
