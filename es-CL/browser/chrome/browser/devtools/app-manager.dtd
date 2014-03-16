@@ -46,7 +46,7 @@
 
 <!ENTITY connection.notConnected2 "No conectado.">
 <!ENTITY connection.connectTo "Conectar a:">
-<!ENTITY connection.noDeviceFound "No se encontró ningún dispositivo. Conecte uno">
+<!ENTITY connection.noDeviceFound "No se encontró ningún dispositivo. Conectar uno">
 <!ENTITY connection.changeHostAndPort "Cambiar">
 <!ENTITY connection.changeHostAndPortTooltip "Cambia el servidor y puerto usados para conectar al dispositivo (por defecto es localhost:6000)">
 <!ENTITY connection.startSimulator "Iniciar simulador">
@@ -101,4 +101,4 @@
 <!ENTITY help.configuringDevice "Cómo configurar su dispositivo Firefox OS">
 <!ENTITY help.troubleShooting "Solución a errores">
 <!ENTITY help.simulatorAddon "Instalar el complemento del Simulador">
-<!ENTITY help.adbHelperAddon "Instalar el complemento Adb Helper">
+<!ENTITY help.adbHelperAddon "Instalar el complemento ADB Helper">
