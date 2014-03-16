@@ -68,6 +68,7 @@
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
 <!ENTITY pref_category_search3 "Vyhľadávanie">
+<!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
