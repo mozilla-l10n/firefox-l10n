@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
-<!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label    "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey "i">
-<!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
-<!ENTITY modeAskMe.label                "Preguntarme qué hacer">
-<!ENTITY modeAskMe.accesskey            "h">
-<!ENTITY modeAutomatic.label            "Descargar e instalar automáticamente la actualización">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label             "Advertirme si se deshabilitarán extensiones o temas">
-<!ENTITY modeAutoAddonWarn.accesskey         "t">
-<!ENTITY showUpdates.label              "Mostrar el historial de actualizaciones">
-<!ENTITY showUpdates.accesskey          "u">
+<!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: seguridad mejorada)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme decidir si las instalo">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca buscar actualizaciones (norecomendado: riesgo de seguridad)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará alguno de mis complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+<!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
+<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey            "z">

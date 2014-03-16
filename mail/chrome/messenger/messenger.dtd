@@ -315,8 +315,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Carpeta">
 <!ENTITY folderMenu.accesskey "C">
-<!ENTITY thisFolder.label "Esta carpeta">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Pestañas recientemente cerradas">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Página de inicio">
@@ -672,26 +670,26 @@
 <!ENTITY attachmentColumn.label "Adjuntos">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clic para seleccionar las columnas a mostrar">
-<!ENTITY threadColumn.tooltip "Clic para mostrar los mensajes agrupados por conversaciones">
-<!ENTITY fromColumn.tooltip "Clic para ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Clic para ordenar por destinatario">
-<!ENTITY subjectColumn.tooltip "Clic para ordenar por asunto">
-<!ENTITY dateColumn.tooltip "Clic para ordenar por fecha">
-<!ENTITY priorityColumn.tooltip "Clic para ordenar por prioridad">
-<!ENTITY tagsColumn.tooltip "Clic para ordenar por etiquetas">
-<!ENTITY accountColumn.tooltip "Clic para ordenar por cuenta">
-<!ENTITY statusColumn.tooltip "Clic para ordenar por estado">
-<!ENTITY sizeColumn.tooltip "Clic para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Clic para ordenar por estado de correo basura">
-<!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en la conversación">
-<!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
-<!ENTITY readColumn.tooltip "Clic para ordenar los mensajes leídos">
-<!ENTITY receivedColumn.tooltip "Clic para ordenar por fecha de recepción">
-<!ENTITY starredColumn.tooltip "Clic para ordenar por destacado">
-<!ENTITY locationColumn.tooltip "Clic para ordenar por ubicación">
-<!ENTITY idColumn.tooltip "Clic para ordenar por orden de recepción">
-<!ENTITY attachmentColumn.tooltip "Clic para ordenar por adjuntos">
+<!ENTITY columnChooser2.tooltip "Seleccionar las columnas a mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar los mensajes agrupados por conversaciones">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por fecha">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado de correo basura">
+<!ENTITY unreadColumn2.tooltip "Número de mensajes no leídos en la conversación">
+<!ENTITY totalColumn2.tooltip "Número total de mensajes en la conversación">
+<!ENTITY readColumn2.tooltip "Ordenar los mensajes leídos">
+<!ENTITY receivedColumn2.tooltip "Ordenar por fecha de recepción">
+<!ENTITY starredColumn2.tooltip "Ordenar por destacado">
+<!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
+<!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
@@ -772,19 +770,6 @@
    move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Carpeta y sus hijas…">
-<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
-  -->
-<!ENTITY columnPicker.thisFolder.label "Esta carpeta">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Reproducir">
@@ -830,8 +815,8 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Agregar a la libreta de direcciones">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Editar contacto…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "Editar contacto">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Suscribirse a grupo de noticias">
