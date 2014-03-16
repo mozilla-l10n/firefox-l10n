@@ -38,7 +38,7 @@
 <!ENTITY btnPageSecurity.accesskey "Б">
 <!ENTITY btnPageLogging.label "Метрыка">
 <!ENTITY btnPageLogging.tooltip "Запісваць паведамленні, дасланыя аб'екту window.console">
-<!ENTITY btnPageLogging.accesskey "М">
+<!ENTITY btnPageLogging.accesskey3 "М">
 <!ENTITY btnConsoleErrors "Памылкі">
 <!ENTITY btnConsoleInfo "Звесткі">
 <!ENTITY btnConsoleWarnings "Папярэджанні">
@@ -58,4 +58,4 @@
 <!ENTITY copyURLCmd.accesskey "К">
 <!ENTITY closeCmd.key "W">
 <!ENTITY findCmd.key "F">
-<!ENTITY clearOutputCmd.key "K">
+<!ENTITY clearOutputCtrl.key "L">

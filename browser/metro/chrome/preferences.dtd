@@ -3,10 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY optionsHeader.title "Наладжванні">
-<!ENTITY optionsHeader.startup.title "Запуск">
-<!ENTITY optionsHeader.homepage.title "Пасля запуску &brandShortName; паказаць">
-<!ENTITY optionsHeader.homepage.startPage.button "Пачатковая старонка">
-<!ENTITY optionsHeader.homepage.sessionRestore.button "устаўкі, якія ў мяне былі апошнім разам">
 <!ENTITY optionsHeader.char.title "Кадоўка знакаў">
 <!ENTITY optionsHeader.char.autodetect.label "Сама-вызначэнне">
 <!ENTITY optionsHeader.char.options.label "Паказваць наладжванні кадоўкі на паліцы прыстасавання">
@@ -26,11 +22,12 @@
 <!ENTITY clearPrivateData.logins "Дзейныя ўваходы">
 <!ENTITY optionsHeader.privacy.passwords.label "Памятаць паролі">
 <!ENTITY doNotTrack.title "Не сачыць">
-<!ENTITY doNotTrack.desc "Загадваць пляцоўкам:">
-<!ENTITY doNotTrack.options.trackingNotOkay "Я не жадаю, каб за мною сачылі">
-<!ENTITY doNotTrack.options.noPreference "Нічога пра маё стаўленне да сачэння">
-<!ENTITY doNotTrack.options.trackingOkay "Я жадаю, каб за мною сачылі">
+<!ENTITY doNotTrack.options.doNotTrack "Паведамляць пляцоўкам сеціва, што я не жадаю, каб за мною сачылі.">
+<!ENTITY doNotTrack.options.doTrack "Паведамляць пляцоўкам сеціва, што я жадаю, каб за мною сачылі.">
+<!ENTITY doNotTrack.options.default "Не паведамляць пляцоўкам сеціва нічога пра мае перавагі сачэння.">
+<!ENTITY doNotTrack.learnMoreLink "Падрабязней…">
 <!ENTITY optionsHeader.reporting.title "Паведамляльнік пра крахі">
 <!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; падае справаздачы пра крахі, каб дапамагчы Mozilla зрабіць ваш азіральнік больш устойлівым і бяспечным">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs "Уключыць адрас старонкі, на якой я быў">
 <!ENTITY optionsHeader.telemetry.title "Тэлеметрыя">
 <!ENTITY optionsHeader.telemetry.label "Падзел статыстыкай ужывання &brandShortName; з Mozilla дапаможа нам зрабіць азіральнік лепшым">

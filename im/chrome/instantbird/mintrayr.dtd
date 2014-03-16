@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY mintrayr.minimize "Паменшыць у латок">
+<!ENTITY mintrayr.minimize.tip "Паменшыць гэтачасовае акно ў сістэмны латок">
+<!ENTITY mintrayr.minimize.accesskey "м">
+<!ENTITY mintrayr.restore "Аднавіць">
+<!ENTITY mintrayr.restore.accesskey "А">
+<!ENTITY mintrayr.keys.minimize.keycode "VK_F9">
+<!ENTITY mintrayr.keys.minimize.modifiers "">

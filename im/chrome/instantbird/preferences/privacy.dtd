@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY status.label "Статус">
+<!ENTITY sendTyping.label "Дасылаць апавяшчэнне набору ў гутарках">
+<!ENTITY sendTyping.accesskey "н">
+<!ENTITY reportIdleAfter.label "Паведаміць маім сябрам, што я бяздзейны пасля">
+<!ENTITY reportIdleAfter.accesskey "б">
+<!ENTITY idleTime "хвілінаў бяздзейнасці">
+<!ENTITY andSetStatusToAway.label 'і прызначыць статус "Зніклы" з гэтым паведамленнем:'>
+<!ENTITY andSetStatusToAway.accesskey "З">
+<!ENTITY logsGroup.label "Запісы">
+<!ENTITY logConversations.label "Трымаць запісы маіх гутарак">
+<!ENTITY logConversations.accesskey "Т">
+<!ENTITY logSystem.label "Запісваць злучэнні, разлучэнні і змяненні статусаў">
+<!ENTITY logSystem.accesskey "п">
+<!ENTITY logShowFolder.description "Адчыніць папку, якая змяшчае файлы запісаў">
+<!ENTITY logShowFolderButton.label "Паказаць папку метрык…">
+<!ENTITY logShowFolderButton.accesskey "м">
+<!ENTITY passwords.label "Паролі">
+<!ENTITY savedPasswords.intro "&brandShortName; можа запомніць паролі для ўсіх вашых рахункаў.">
+<!ENTITY useMasterPassword.label "Ужываць галоўны пароль">
+<!ENTITY useMasterPassword.accesskey "г">
+<!ENTITY masterPassword.intro "Галоўны пароль абараняе ўсе вашы паролі - аднак вы мусіце ўвесці яго аднойчы за сэсію.">
+<!ENTITY changeMasterPassword.label "Змяніць галоўны пароль…">
+<!ENTITY changeMasterPassword.accesskey "м">
+<!ENTITY savedPasswords.label "Захаваныя паролі…">
+<!ENTITY savedPasswords.accesskey "З">

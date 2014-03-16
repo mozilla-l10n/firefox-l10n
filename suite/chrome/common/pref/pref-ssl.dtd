@@ -17,7 +17,7 @@
 <!ENTITY limit.tls11.accesskey "1">
 <!ENTITY limit.tls12.label "TLS 1.2">
 <!ENTITY limit.tls12.accesskey "2">
-<!ENTITY warn.description "&brandShortName; можа папярэджваць вас пра статус бяспекі старонкі сеціва, якую вы праглядаеце. Наладзіць &brandShortName; паказваць папярэджванне і запытваць дазвол перад:">
+<!ENTITY warn.description2 "&brandShortName; можа папярэджваць вас пра стан бяспекі старонак, якія вы праглядваеце. Наладзіць &brandShortName; паказваць папярэджанне, калі:">
 <!ENTITY warn.enteringsecure "Загрузкай старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.enteringsecure.accesskey "З">
 <!ENTITY warn.insecurepost "Дасыланнем даных формы з незашыфраванай старонкі на незашыфраваную старонку">

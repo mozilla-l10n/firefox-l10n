@@ -4,10 +4,10 @@
 
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
-<!ENTITY awesomebar_all_pages_title "Найнаведвальныя пляцоўкі">
-<!ENTITY awesomebar_bookmarks_title "Закладкі">
-<!ENTITY awesomebar_history_title "Гісторыя">
-<!ENTITY awesomebar_switch_to_tab "Пераключыцца ў устаўку">
+<!ENTITY bookmarks_title "Закладкі">
+<!ENTITY history_title "Гісторыя">
+<!ENTITY reading_list_title "Спіс чытання">
+<!ENTITY switch_to_tab "Пераключыцца ў устаўку">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; зазнаў хібу і пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
 <!ENTITY crash_send_report_message3 "Расказаць &vendorShortName; пра гэты крах, каб ён быў выпраўлены">
@@ -24,9 +24,7 @@
 <!ENTITY launcher_shortcuts_title "Сеціўныя прыстасаванні &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "Сеціўныя прыстасаванні не знойдзены">
 <!ENTITY choose_file "Выбар файла">
-<!ENTITY awesomebar_default_text "Увод тэрмінаў для пошуку або адраса">
-<!ENTITY remote_tabs "Сіхнранізаваныя ўстаўкі">
-<!ENTITY remote_tabs_show_all "Паказаць усе ўстаўкі">
+<!ENTITY url_bar_default_text "Увядзіце тэрміны для пошуку або адрас">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Дададзена закладка">
 <!ENTITY bookmark_removed "Закладка выдалена">
@@ -52,16 +50,23 @@
 <!ENTITY settings_title "Наладжванні">
 <!ENTITY pref_category_advanced "Пашыраны">
 <!ENTITY pref_category_customize "Уладкаваць">
-<!ENTITY pref_category_search2 "Наладжванні пошуку">
+<!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_display "Адлюстраванне">
 <!ENTITY pref_category_privacy_short "Адасабленне">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбар здаткаў">
 <!ENTITY pref_category_installed_search_engines "Усталяваныя машыны пошуку">
+<!ENTITY pref_category_add_search_providers "Дадаць іншых дастаўшыкоў пошуку">
+<!ENTITY pref_category_search_restore_defaults "Restore search engines">
+<!ENTITY pref_search_restore_defaults "Аднавіць змоўчныя">
+<!ENTITY pref_search_restore_defaults_summary "Аднавіць змоўчныя">
+<!ENTITY pref_search_tip "Парада: дадавайце сеціўную пляцоўку ў ваш спіс дастаўшыкоў пошуку, доўга націскаючы яго поле пошуку.">
 <!ENTITY pref_category_devtools "Прылады распрацаўніка">
 <!ENTITY pref_developer_remotedebugging "Адлеглая наладка">
 <!ENTITY pref_developer_remotedebugging_docs "Падрабязней">
 <!ENTITY pref_remember_signons "Памятаць паролі">
+<!ENTITY pref_category_home "Дадому">
+<!ENTITY pref_category_home_panels "Старонкі">
 <!ENTITY pref_header_customize "Уладкаваць">
 <!ENTITY pref_header_display "Адлюстраванне">
 <!ENTITY pref_header_privacy_short "Адасабленне">
@@ -88,8 +93,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Перарысоўка тэксту">
 <!ENTITY pref_restore "Устаўкі">
 <!ENTITY pref_restore_always "Заўсёды аднаўляць">
-<!ENTITY pref_restore_crash "Аднаўляць пасля краху">
-<!ENTITY pref_restore_never "Ніколі не аднаўляць">
+<!ENTITY pref_restore_quit "Не аднаўляць пасля выхаду з &brandShortName;">
 <!ENTITY pref_font_size_tiny "Звыш-малы">
 <!ENTITY pref_font_size_small "Малы">
 <!ENTITY pref_font_size_medium "Сярэдні">
@@ -114,6 +118,12 @@
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
 <!ENTITY pref_vendor_feedback "Даць водгук">
+<!ENTITY pref_dialog_set_default "Прызначыць змоўчным">
+<!ENTITY pref_dialog_default "Змоўчная">
+<!ENTITY pref_dialog_remove "Выдаліць">
+<!ENTITY pref_search_last_toast "Вы не можаце выдаліць або забараніць вашу астатнюю машыну пошуку.">
+<!ENTITY pref_panels_show "Паказаць">
+<!ENTITY pref_panels_hide "Схаваць">
 <!ENTITY datareporting_notification_title "Статыстыка і здаткі &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Выбар звестак для падзелу">
 <!ENTITY datareporting_notification_action "Выбраць, чым дзяліцца">
@@ -129,10 +139,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
 <!ENTITY datareporting_wifi_title "Службы месцазнаходжання &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Дапамагае палепшыць службы геамесцазнаходжання адкрытага Сеціва дазваляючы &brandShortName; збіраць і дасылаць безыменныя здаткі ў выглядзе клеткавых веж">
-<!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
+<!ENTITY pref_update_autodownload2 "Сцягваць абнаўленні самастойна">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Забаронены">
-<!ENTITY pref_update_autodownload_enabled "Дазволены">
+<!ENTITY pref_update_autodownload_never "Ніколі">
+<!ENTITY pref_update_autodownload_always "Заўсёды">
 <!ENTITY quit "Выйсці">
 <!ENTITY addons "Дадаткі">
 <!ENTITY downloads "Загрузкі">
@@ -157,11 +167,14 @@
 <!ENTITY find_prev "Папярэдняя">
 <!ENTITY find_next "Наступная">
 <!ENTITY find_close "Закрыць">
+<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_play "Граць">
+<!ENTITY media_pause "Прыпыніць">
+<!ENTITY media_stop "Прыпыніць">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
 <!ENTITY contextmenu_open_private_tab "Адчыніць у адасобленай устаўцы">
 <!ENTITY contextmenu_open_in_reader "Адкрыць у чытачу">
-<!ENTITY contextmenu_remove_history "Выдаліць">
-<!ENTITY contextmenu_remove_bookmark "Прыняць">
+<!ENTITY contextmenu_remove "Выдаліць">
 <!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_share "Дзяліцца">
 <!ENTITY contextmenu_pasteandgo "Уставіць і пайсці">
@@ -170,9 +183,14 @@
 <!ENTITY contextmenu_edit_bookmark "Праўка">
 <!ENTITY contextmenu_subscribe "Падпісацца на старонку">
 <!ENTITY contextmenu_site_settings "Праўка наладжванняў пляцоўкі">
+<!ENTITY contextmenu_top_sites_edit "Праўка">
+<!ENTITY contextmenu_top_sites_pin "Прышпіліць пляцоўку">
+<!ENTITY contextmenu_top_sites_unpin "Адшпіліць пляцоўку">
+<!ENTITY contextmenu_add_search_engine "Дадаць машыну пошуку">
 <!ENTITY pref_titlebar_mode "Паліца загалоўка">
 <!ENTITY pref_titlebar_mode_title "Паказваць загаловак старонкі">
 <!ENTITY pref_titlebar_mode_url "Паказваць адрас старонкі">
+<!ENTITY pref_scroll_title_bar "Scroll title bar">
 <!ENTITY history_removed "Старонка выдалена">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
@@ -182,7 +200,6 @@
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
 <!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
-<!ENTITY reading_list "Спіс чытання">
 <!ENTITY reading_list_added "Старонка дададзена ў ваш спіс чытання">
 <!ENTITY reading_list_removed "Старонка выдалена з вашага спісу чытання">
 <!ENTITY reading_list_failed "Няўдача дадавання старонкі ў ваш спіс чытання">
@@ -199,18 +216,19 @@
 <!ENTITY button_clear_data "Ачысціць здаткі">
 <!ENTITY button_set "Прызначыць">
 <!ENTITY button_clear "Ачысціць">
-<!ENTITY abouthome_addons_title "Дадаткі для вашага &brandShortName;">
-<!ENTITY abouthome_addons_browse "Азірнуць усе дадткі &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Вашы апошнія ўстаўкі">
-<!ENTITY abouthome_last_tabs_open "Адкрыць усе вашы апошнія ўстаўкі">
-<!ENTITY abouthome_top_sites_title "Найнаведвальныя пляцоўкі">
-<!ENTITY abouthome_topsites_edit "Праўка">
-<!ENTITY abouthome_topsites_pin "Прышпіліць пляцоўку">
-<!ENTITY abouthome_topsites_unpin "Адшпіліць пляцоўку">
-<!ENTITY abouthome_about_sync3 "Наладзіць Firefox Sync, каб даступацца да закладак, гісторыі і ўставак з іншых збудоваў »">
-<!ENTITY abouthome_about_apps3 "Атрымаць прыстасаванні з рынка Firefox і даведацца, што мае Сеціва прапанаваць »">
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Рынак Firefox">
+<!ENTITY home_top_sites_title "Найнаведвальныя пляцоўкі">
+<!ENTITY home_top_sites_add "Дадаць пляцоўку">
+<!ENTITY home_history_title "Гісторыя">
+<!ENTITY home_bookmarks_empty "Захаваныя вамі закладкі паказваюцца тут.">
+<!ENTITY home_last_tabs_title "Устаўкі, якія ў мяне былі апошнім разам">
+<!ENTITY home_last_tabs_open "Адчыніць усе мае ўстаўкі, якія ў мяне былі апошнім разам">
+<!ENTITY home_last_tabs_empty "Вашы апошнія ўстаўкі знаходзяцца тут.">
+<!ENTITY home_most_recent_title "Найапошнія">
+<!ENTITY home_most_recent_empty "Сеціўныя пляцоўкі, якія вы наведвалі нядаўна, знаходзяцца тут.">
+<!ENTITY home_reading_list_empty "Артыкулы, якія вы пакінулі на потым, знаходзяцца тут.">
+<!ENTITY home_reading_list_hint "Парада: Пакідвайце артыкулы ў вашым спісу чытання, доўга націскаючы значок &#037;I, які паяўляецца на паліцы-загалоўку.">
+<!ENTITY home_reading_list_hint_accessible "Парада: Пакідвайце артыкулы ў вашым спісу чытання, доўга націскаючы кнопку рэжыму чытання, якая паяўляецца на паліцы-загалоўку.">
+<!ENTITY pin_site_dialog_hint "Увядзіце тэрмін для пошуку">
 <!ENTITY filepicker_title "Выбар файла">
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
 <!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
@@ -235,6 +253,7 @@
                                          з Android">
 <!ENTITY bookmarkhistory_import_wait "Пачакайце, калі ласка...">
 <!ENTITY suggestions_prompt2 "Хочаце ўключыць прапановы пошуку &formatS;?">
+<!ENTITY suggestion_for_engine "Шукаць &formatS2; з дапамогаю &formatS1;">
 <!ENTITY webapp_generic_name "Прыстасаванне">
 <!ENTITY searchable_description "Закладкі і гісторыя">
 <!ENTITY devtools_remote_debugging_forward "Не забудзьце спыніць перанакіраванне парта!">
@@ -254,3 +273,5 @@
 <!ENTITY new_guest_session_text "Асоба, якая карыстаецца ім, не будзе здольная пабачыць вашы асабістыя азіральныя здаткі (захаваныя паролі, гісторыя або закладкі).\n\nКалі гасцявая сэсія скончыцца, яе азіральныя здаткі будуць выдалены і ваша сэсія адновіцца.">
 <!ENTITY exit_guest_session_title "&brandShortName; зараз перазапусціцца">
 <!ENTITY exit_guest_session_text "Здаткі азірання гэтай сэсіі будуць выдалены.">
+<!ENTITY actionbar_menu "Меню">
+<!ENTITY actionbar_done "Гатова">

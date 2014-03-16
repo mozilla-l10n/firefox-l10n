@@ -11,5 +11,5 @@
 <!ENTITY idleTime "хвілінаў бяздзейнасці">
 <!ENTITY andSetStatusToAway.label 'і прызначыць статус "Зніклы" з гэтым паведамленнем:'>
 <!ENTITY andSetStatusToAway.accesskey "ы">
-<!ENTITY sendTyping.label "Дасылаць апавяшчэнне набору ў гутаках">
+<!ENTITY sendTyping.label "Дасылаць апавяшчэнне набору ў гутарках">
 <!ENTITY sendTyping.accesskey "н">

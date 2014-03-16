@@ -23,5 +23,5 @@
 <!ENTITY accountProxySettings.change.label "Змяніць…">
 <!ENTITY accountProxySettings.change.accessKey "З">
 <!ENTITY accountSummaryTitle.label "Зводка">
-<!ENTITY accountSummaryInfo.label "Зводка звестак, уведзенных вамі, адлюстроўваюцца ніжэй. Парверце іх, калі ласка, перад стварэннем рахунку.">
+<!ENTITY accountSummaryInfo.label "Зводка звестак, уведзенных вамі, адлюстроўваюцца ніжэй. Праверце іх, калі ласка, перад стварэннем рахунку.">
 <!ENTITY accountSummary.connectNow.label "Злучыцца з рахункам зараз.">

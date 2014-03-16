@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY generalTab.label "Агульныя">
+<!ENTITY accessibility.label "Даступнасць">
+<!ENTITY useCursorNavigation.label "Заўсёды ўжываць клавішы паказальніка, каб перамяшчацца ў змесціве гутарак">
+<!ENTITY useCursorNavigation.accesskey "ў">
+<!ENTITY searchStartTyping.label "Шукаць тэкст, які я пачынаю набіраць">
+<!ENTITY searchStartTyping.accesskey "Ш">
+<!ENTITY conversations.label "Гутаркі">
+<!ENTITY useAutoScroll.label "Ужываць самапракручванне">
+<!ENTITY useAutoScroll.accesskey "с">
+<!ENTITY useSmoothScrolling.label "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY checkSpelling.label "Правяраць правапіс падчас набору">
+<!ENTITY checkSpelling.accesskey "п">
+<!ENTITY searchEnginesGroup.label "Машыны пошуку">
+<!ENTITY searchEnginesDesc.label "Змяніць наладжванні машынаў пошуку">
+<!ENTITY searchEngines.label "Наладзіць машыны пошуку…">
+<!ENTITY searchEngines.accesskey "ш">
+<!ENTITY configEditDesc.label "Пашыраная наладка">
+<!ENTITY configEdit.label "Праўнік наладкі…">
+<!ENTITY configEdit.accesskey "н">
+<!ENTITY networkTab.label "Сетка">
+<!ENTITY connection.label "Злучэнне">
+<!ENTITY connectionDesc.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
+<!ENTITY connectionInfoDesc.label "Наступныя часткі будуць злітыя ў апошняй версіі.">
+<!ENTITY connectionLibpurpleDesc.label "Для рахункаў, заснаваных на libpurple">
+<!ENTITY connectionOtherDesc.label "Для ўсяго іншага (абнаўленні, дадаткі, …)">
+<!ENTITY connectionSettings.label "Наладжванні…">
+<!ENTITY connectionSettings.accesskey "Н">
+<!ENTITY connectionSettings2.accesskey "л">
+<!ENTITY updateTab.label "Абнаўленне">
+<!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "I">
+<!ENTITY enableAddonsUpdate.label "Усталяваныя дадаткі">
+<!ENTITY enableAddonsUpdate.accesskey "У">
+<!ENTITY enableSearchUpdate.label "Машыны пошуку">
+<!ENTITY enableSearchUpdate.accesskey "ш">
+<!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
+<!ENTITY askMe.label "Спытаць мяне, што рабіць">
+<!ENTITY askMe.accesskey "м">
+<!ENTITY modeAutomatic.label "Самастойна сцягнуць і ўсталяваць абнаўленне">
+<!ENTITY modeAutomatic.accesskey "С">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
+<!ENTITY modeAutoAddonWarn.accesskey "П">
+<!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
+<!ENTITY updateHistory.accesskey "г">
+<!ENTITY encryptionTab.label "Шыфраванне">
+<!ENTITY protocols.label "Пратаколы">
+<!ENTITY useSSL3.label "Ужываць SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Ужываць TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Пасведчанні">
+<!ENTITY certSelection.description "Калі паслугач патрабуе маё асабістае пасведчанне:">
+<!ENTITY certs.auto "Выбраць адзін самастойна">
+<!ENTITY certs.auto.accesskey "с">
+<!ENTITY certs.ask "Пытацца ў мяне кожны раз">
+<!ENTITY certs.ask.accesskey "к">
+<!ENTITY viewCerts.label "Прагляд пасведчанняў">
+<!ENTITY viewCerts.accesskey "г">
+<!ENTITY viewCRLs.label "Спісы адклікання">
+<!ENTITY viewCRLs.accesskey "а">
+<!ENTITY verify2.label "Пацвярджэнне">
+<!ENTITY verify2.accesskey "ц">
+<!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
+<!ENTITY viewSecurityDevices.accesskey "б">

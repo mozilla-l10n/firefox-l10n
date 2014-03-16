@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label "Запуск">
+<!ENTITY startupAction.label "Пасля запуску &brandShortName;:">
+<!ENTITY startupAction.accesskey "з">
+<!ENTITY startupOffline.label "Адчыніць кіраўнік рахункаў">
+<!ENTITY startupConnectAuto.label "Злучыцца з маімі рахункамі самастойна">
+<!ENTITY accountsMgr.label "Рахункі">
+<!ENTITY manageAccountsDescWin.label "Змяніць наладжванні маіх рахункаў">
+<!ENTITY manageAccountsDescUnix2.label "Змяніць перавагі маіх рахункаў">
+<!ENTITY manageAccounts.label "Кіраваць рахункамі…">
+<!ENTITY manageAccounts.accesskey "р">
+<!ENTITY newMessage.label "Падчас атрымання новага паведамлення">
+<!ENTITY getAttention.label "Бліснуць адзінкай паліцы задачаў">
+<!ENTITY getAttention.accesskey "Б">
+<!ENTITY getAttentionMac.label "Ажывіць значок у латку">
+<!ENTITY getAttentionMac.accesskey "ж">
+<!ENTITY unreadCountInDock.label "Паказваць лік непрачытаных паведамленняў у латку">
+<!ENTITY unreadCountInDock.accesskey "н">
+<!ENTITY notifyOfNewMessages.label "Папярэджваць пра паведамленні, атрыманыя ў бяздзейных вокнах">
+<!ENTITY notifyOfNewMessages.accesskey "П">
+<!ENTITY sounds.label "Гукі">
+<!ENTITY playSoundsMessage.label "Граць гукі падчас паведамляльных падзеяў">
+<!ENTITY playSoundsMessage.accesskey "Г">
+<!ENTITY playSoundsBlist.label "Граць гукі падчас падзеяў у спісе сяброў">
+<!ENTITY playSoundsBlist.accesskey "с">
+<!ENTITY systray.label "Значок сістэмнага латка">
+<!ENTITY alwaysShowTrayIcon.label "Заўсёды паказваць значок у сістэмным латку">
+<!ENTITY alwaysShowTrayIcon.accesskey "ў">
+<!ENTITY minimizeToTray.label "Паменшаць акно сувязяў у латок:">
+<!ENTITY minimizeToTray.accesskey "л">
+<!ENTITY minimizeOn.never.label "Ніколі (толькі ў меню)">
+<!ENTITY minimizeOn.minimize.label "Падчас памяншэння">
+<!ENTITY minimizeOn.close.label "Замест закрыцця">
+<!ENTITY minimizeOn.both.label "Замест закрыцця і падчас памяншэння">
+<!ENTITY addonsMgr.label "Дадаткі">
+<!ENTITY manageAddonsDescWin.label "Змяніць наладжванні вашых дадаткаў">
+<!ENTITY manageAddonsDescUnix2.label "Змяніць перавагі вашых дадаткаў">
+<!ENTITY manageAddons.label "Кіраваць дадаткамі…">
+<!ENTITY manageAddons.accesskey "К">

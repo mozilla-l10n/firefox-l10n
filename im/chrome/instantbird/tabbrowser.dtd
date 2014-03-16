@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY untitledTab "(Без загалоўка)">
+<!ENTITY newTab.label "Новая ўстаўка">
+<!ENTITY newTab.accesskey "Н">
+<!ENTITY closeTab.label "Зачыніць устаўку">
+<!ENTITY closeTab.accesskey "ч">
+<!ENTITY closeOtherTabs.accesskey "ы">
+<!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
+<!ENTITY openTabInNewWindow.label "Адчыніць у новым акне">
+<!ENTITY openTabInNewWindow.accesskey "а">
+<!ENTITY listAllTabs.label "Пералічыць усе ўстаўкі">
+<!ENTITY newTabButton.tooltip "Адкрыць новую ўстаўку">

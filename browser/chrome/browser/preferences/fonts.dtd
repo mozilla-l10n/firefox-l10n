@@ -31,7 +31,6 @@
 <!ENTITY font.langGroup.el "Грэцкая">
 <!ENTITY font.langGroup.turkish "Турэцкая">
 <!ENTITY font.langGroup.unicode "Іншыя мовы">
-<!ENTITY font.langGroup.user-def "Вызначаны карыстальнікам">
 <!ENTITY font.langGroup.thai "Тайская">
 <!ENTITY font.langGroup.hebrew "Габрэйская">
 <!ENTITY font.langGroup.arabic "Арабская">
@@ -62,3 +61,19 @@
 <!ENTITY languages.customize.Fallback.label "Запасная кадоўка знакаў:">
 <!ENTITY languages.customize.Fallback.accesskey "з">
 <!ENTITY languages.customize.Fallback.desc "Гэтая кадоўка знакаў будзе ўжывацца для спадчыннага змесціва, калі яно не вызначае яго кадоўкі.">
+<!ENTITY languages.customize.Fallback.auto "Змоўчна для гэтай мясцовасці">
+<!ENTITY languages.customize.Fallback.arabic "Арабская">
+<!ENTITY languages.customize.Fallback.baltic "Балтыйская">
+<!ENTITY languages.customize.Fallback.ceiso "Цэнтральна-Еўрапейская (ISO)">
+<!ENTITY languages.customize.Fallback.cewindows "Цэнтральна-Еўрапейская (Microsoft)">
+<!ENTITY languages.customize.Fallback.simplified "Кітайская спрошчаная">
+<!ENTITY languages.customize.Fallback.traditional "Кітайская традыцыйная">
+<!ENTITY languages.customize.Fallback.cyrillic "Кірыліца">
+<!ENTITY languages.customize.Fallback.greek "Элінская">
+<!ENTITY languages.customize.Fallback.hebrew "Габрэйская">
+<!ENTITY languages.customize.Fallback.japanese "Японская">
+<!ENTITY languages.customize.Fallback.korean "Карэйская">
+<!ENTITY languages.customize.Fallback.thai "Тайская">
+<!ENTITY languages.customize.Fallback.turkish "Турэцкая">
+<!ENTITY languages.customize.Fallback.vietnamese "В'етнамская">
+<!ENTITY languages.customize.Fallback.other "Іншая (укл. Заходне-Еўрапейскія)">

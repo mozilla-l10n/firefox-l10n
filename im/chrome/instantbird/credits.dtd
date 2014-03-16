@@ -1,0 +1,12 @@
+<!ENTITY credit.title "&brandFullName;: удзел">
+<!ENTITY credit.lead "Галоўны распрацаўнік">
+<!ENTITY credit.contributors "Укладчыкі">
+<!ENTITY credit.thanks "Асаблівая падзяка">
+<!ENTITY credit.license "ліцэнзіі">
+<!ENTITY credit.translation "">
+<!ENTITY credit.poweredByGecko "Падрымліваецца Gecko&trade; і libpurple">
+<!ENTITY license.part0 "аўтарскае права">
+<!ENTITY license.part1 "яго ">
+<!ENTITY license.contrib "ўкладчыкаў">
+<!ENTITY license.part2 "згодна ўмовам у">
+<!ENTITY license.part3 "дакуменце. Усе правы засцярожаны.">
