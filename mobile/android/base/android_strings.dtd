@@ -177,11 +177,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title "&vendorShortName; kokapen-zerbitzuak">
 <!ENTITY datareporting_wifi_summary "Lagundu web irekirako geolokalizazio zerbitzuak hobetzen dorre mugikorren datu anonimoak biltzen eta bidaltzen utziz &brandShortName;(r)i">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
+<!ENTITY pref_update_autodownload2 "Deskargatu eguneraketak automatikoki">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
-<!ENTITY pref_update_autodownload_disabled "Desgaituta">
-<!ENTITY pref_update_autodownload_enabled "Gaituta">
+<!ENTITY pref_update_autodownload_never "Inoiz ez">
+<!ENTITY pref_update_autodownload_always "Beti">
 
 <!ENTITY quit "Irten">
 
@@ -228,10 +231,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Editatu">
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
+<!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
 <!ENTITY pref_titlebar_mode_url "Erakutsi orriaren helbidea">
+
+<!ENTITY pref_dynamic_toolbar "Korritu titulu-barra">
 
 <!ENTITY history_removed "Orria kenduta">
 
@@ -371,3 +377,8 @@ Android-etik">
 
 <!ENTITY exit_guest_session_title "&brandShortName; berrabiarazi egingo da orain">
 <!ENTITY exit_guest_session_text "Saio honetako arakatze-datuak ezabatu egingo dira.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menua">
+<!ENTITY actionbar_done "Eginda">
