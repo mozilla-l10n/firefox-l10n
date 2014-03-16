@@ -26,8 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey "v">
 <!ENTITY warn.leavingsecure "la fermeture d'une page qui prend en charge le chiffrement des données">
 <!ENTITY warn.leavingsecure.accesskey "u">
-<!ENTITY warn.viewmixed "l'ouverture d'une page contenant un mélange de données chiffrées et non chiffrées">
-<!ENTITY warn.viewmixed.accesskey "o">
+
+<!ENTITY mixed.description                  "Les pages chiffrées peuvent contenir du contenu non chiffré vulnérable à l'espionnage et aux contrefaçons. &brandShortName; peut le détecter et le bloquer :">
 
 <!ENTITY warn.mixedactivecontent            "M'avertir lorsque des pages chiffrées possèdent du contenu non sécurisé">
 <!ENTITY warn.mixedactivecontent.accesskey  "M">
