@@ -105,7 +105,7 @@
 <!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>
 <!ENTITY sync.text.tab.not.sent.label 'Pri odosielaní karty sa vyskytla chyba.'>
 
-<!-- Firefox account strings. -->
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -135,8 +135,8 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Vytvorenie účtu Firefox account'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Vytvorenie účtu Firefox Account'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Minimálne 8 znakov'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok narodenia'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -152,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Ďalšie informácie'>
 
 <!ENTITY fxaccount_confirm_account_header 'Potvrďte svoj účet'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Overovací odkaz bol odoslaný na adresu &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Znova odoslať e-mail'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Overovací e-mail bol odoslaný'>
@@ -171,7 +171,7 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Prihlásiť sa'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Nepodarilo sa prihlásiť'>
 
-<!ENTITY fxaccount_status_header 'Účet Firefox account'>
+<!ENTITY fxaccount_status_header2 'Účet Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Prihlásený ako'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolené'>
@@ -191,14 +191,14 @@
 <!ENTITY fxaccount_status_linkprivacy 'Zásady ochrany súkromia'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title 'Nastavenia &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Nastavenie &syncBrand.shortName.label;'>
 
@@ -219,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Služba &syncBrand.shortName.label; nie je pripojená'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Ťuknutím sa pripojíte ako &formatS;'>
