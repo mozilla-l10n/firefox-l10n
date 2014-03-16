@@ -146,6 +146,15 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Ortografía">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidad">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Guardar y cerrar">
+<!ENTITY  event.toolbar.delete.tooltip                    "Borrar">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Invitar participantes">
+<!ENTITY  event.toolbar.attachments.tooltip               "Agregar adjuntos">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Cambiar privacidad">
+<!ENTITY  event.toolbar.priority.tooltip                  "Cambiar prioridad">
+<!ENTITY  event.toolbar.status.tooltip                    "Cambiar estado">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Cambiar tiempo libre/ocupado">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
@@ -216,6 +225,9 @@
 <!ENTITY event.reminder.custom.label                      "Personalizar…" >
 
 <!ENTITY event.reminder.multiple.label                    "Recordatorios múltiples…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Hora como:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacidad:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Editar recurrencia">
