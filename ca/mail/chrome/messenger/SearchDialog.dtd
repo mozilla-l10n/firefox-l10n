@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "u">
 <!ENTITY searchDialogTitle.label     "Cerca missatges">
 <!ENTITY results.label               "Resultats">
-<!ENTITY moveHereMenu.label          "Mou aquí">
-<!ENTITY moveHereMenu.accesskey      "a">
 <!ENTITY moveButton.label            "Mou a">
 <!ENTITY moveButton.accesskey        "u">
 <!ENTITY closeCmd.key                "W"> 
@@ -49,7 +47,7 @@
 <!ENTITY accountColumn.label "Compte">
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
-<!ENTITY junkStatusColumn.label "Estat del correu brossa">
+<!ENTITY junkStatusColumn.label "Estat de correu brossa">
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Ordre de recepció">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per veure els missatges agrupats per converses"> 
-<!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
-<!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
-<!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">
-<!ENTITY dateColumn.tooltip "Feu un clic per ordenar per data">
-<!ENTITY priorityColumn.tooltip "Feu un clic per ordenar per prioritat">
-<!ENTITY tagsColumn.tooltip "Feu un clic per ordenar per etiquetes">
-<!ENTITY accountColumn.tooltip "Feu un clic per ordenar per compte">
-<!ENTITY statusColumn.tooltip "Feu un clic per ordenar per estat">
-<!ENTITY sizeColumn.tooltip "Feu un clic per ordenar per mida">
-<!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per l'estat de brossa">
-<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
-<!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
-<!ENTITY readColumn.tooltip "Feu un clic per ordenar per llegit">
-<!ENTITY receivedColumn.tooltip "Feu un clic per ordenar per data de recepció">
-<!ENTITY starredColumn.tooltip "Feu un clic per ordenar per destacat">
-<!ENTITY locationColumn.tooltip "Feu un clic per ordenar per ubicació">
-<!ENTITY idColumn.tooltip "Feu un clic per ordenar per ordre de recepció">
+<!ENTITY columnChooser2.tooltip "Tria les columnes que es mostraran">
+<!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
+<!ENTITY fromColumn2.tooltip "Ordena per remitent">
+<!ENTITY recipientColumn2.tooltip "Ordena per destinatari">
+<!ENTITY subjectColumn2.tooltip "Ordena per assumpte">
+<!ENTITY dateColumn2.tooltip "Ordena per data">
+<!ENTITY priorityColumn2.tooltip "Ordena per prioritat">
+<!ENTITY tagsColumn2.tooltip "Ordena per etiquetes">
+<!ENTITY accountColumn2.tooltip "Ordena per compte">
+<!ENTITY statusColumn2.tooltip "Ordena per estat">
+<!ENTITY sizeColumn2.tooltip "Ordena per mida">
+<!ENTITY junkStatusColumn2.tooltip "Ordena per estat de correu brossa">
+<!ENTITY unreadColumn2.tooltip "Nombre de missatges per llegir a la conversa">
+<!ENTITY totalColumn2.tooltip "Nombre total de missatges en la conversa">
+<!ENTITY readColumn2.tooltip "Ordena per llegit">
+<!ENTITY receivedColumn2.tooltip "Ordena per data de recepció">
+<!ENTITY starredColumn2.tooltip "Ordena per destacat">
+<!ENTITY locationColumn2.tooltip "Ordena per ubicació">
+<!ENTITY idColumn2.tooltip "Ordena per ordre de recepció">

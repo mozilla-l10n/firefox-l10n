@@ -8,7 +8,7 @@
 
 <!ENTITY dimensionsBox.label "Dimensions">
 <!ENTITY heightEditField.label "Alçada:">
-<!ENTITY heightEditField.accessKey "ç">
+<!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Amplada:">
 <!ENTITY widthEditField.accessKey "A">
 <!ENTITY pixelsPopup.value "píxels">

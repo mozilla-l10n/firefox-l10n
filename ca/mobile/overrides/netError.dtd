@@ -21,7 +21,7 @@
 <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p. ex. 
 <strong>ww</strong>.exemple.com en comptes de 
 <strong>www</strong>.exemple.com</li> 
-<li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> 
+<li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre dispositiu.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
@@ -83,7 +83,7 @@ funcionant.</li>
 <!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Verifiqueu que els paràmetres del servidor intermediari siguin correctes.</li> 
-<li>Comproveu la connexió a la xarxa del vostre ordinador.</li> 
+<li>Comproveu la connexió a la xarxa del vostre dispositiu.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "La pàgina no està redirigint adequadament">
@@ -121,7 +121,7 @@ ser temporal, i podeu tornar-ho a provar més tard.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
-<!ENTITY corruptedContentError.title "Error en el contingut">
+<!ENTITY corruptedContentError.title "Error de contingut malmès">
 <!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">

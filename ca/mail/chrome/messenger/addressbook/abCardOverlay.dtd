@@ -69,7 +69,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY Home.tab                       "Particular">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adreça:">
-<!ENTITY HomeAddress.accesskey          "ç">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Població:">

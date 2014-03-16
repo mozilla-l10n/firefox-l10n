@@ -1,4 +1,6 @@
+amazondotcom
 google
 twitter
-wikipedia-ca
-diec2
+wikipedia
+yahoo
+bing

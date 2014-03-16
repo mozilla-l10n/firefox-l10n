@@ -21,7 +21,7 @@
 <!ENTITY radioAskUnsent.accesskey "D">
 <!ENTITY textGoingOffline "Voleu que es baixin els missatges per llegir-los fora de línia abans de posar-s'hi?">
 <!ENTITY radioAutoDownload.label "Sí">
-<!ENTITY radioAutoDownload.accesskey "í">
+<!ENTITY radioAutoDownload.accesskey "S">
 <!ENTITY radioNotDownload.label "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload.label "Demana-m'ho">

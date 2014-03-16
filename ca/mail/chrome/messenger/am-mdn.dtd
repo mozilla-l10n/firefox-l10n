@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Deixa-la a la safata d'entrada">
 <!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Mou-la a la carpeta de correu enviat">
+<!ENTITY moveToSent.label             "Mou-la a la carpeta «Enviats»">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "Quan rebi una sol·licitud per a una confirmació de recepció:">
 <!ENTITY returnSome.label             "Permet-la per a alguns missatges">

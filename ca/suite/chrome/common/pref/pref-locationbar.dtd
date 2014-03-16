@@ -36,7 +36,7 @@
 <!ENTITY showSearchEngine.accesskey            "e">
 
 <!ENTITY unknownLocations.label                "Ubicacions desconegudes">
-<!ENTITY domainGuessing.label                  "Afegeix &quot;www.&quot; i &quot;.com&quot; a la ubicació si no es troba la pàgina web">
+<!ENTITY domainGuessing.label                  "Afegeix «www.» i «.com» a la ubicació si no es troba la pàgina web">
 <!ENTITY domainGuessing.accesskey              "f">
 <!ENTITY keywords.label                        "Realitza una cerca web quan el text introduït no sigui una ubicació web">
 <!ENTITY keywords.accesskey                    "R">

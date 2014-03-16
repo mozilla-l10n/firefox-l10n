@@ -9,7 +9,7 @@
 <!ENTITY ListType.label "Tipus de llista">
 <!ENTITY bulletStyle.label "Estil de pic:">
 <!ENTITY startingNumber.label "Comença a:">
-<!ENTITY startingNumber.accessKey "ç">
+<!ENTITY startingNumber.accessKey "C">
 <!ENTITY none.value "Cap">
 <!ENTITY bulletList.value "Llista de pics (sense numerar)">
 <!ENTITY numberList.value "Llista numerada">
