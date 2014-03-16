@@ -332,9 +332,7 @@ it is applicable. -->
 <!ENTITY set_image_fail "Nie można ustawić obrazu">
 <!ENTITY set_image_chooser_title "Ustaw obraz jako">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Włączyć podpowiedzi z wyszukiwarki &formatS;?">
+<!ENTITY suggestions_prompt3 "Włączyć podpowiedzi wyszukiwania?">
 
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
