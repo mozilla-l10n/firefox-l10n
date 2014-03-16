@@ -166,7 +166,7 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_update_credentials_button_label 'Zaloguj się'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Logowanie nie powiodło się'>
 
-<!ENTITY fxaccount_status_header 'Konto Firefox'>
+<!ENTITY fxaccount_status_header2 'Konto Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: włączone'>
