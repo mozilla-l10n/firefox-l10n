@@ -1,7 +1,6 @@
-amazondotcom
-bing
-eBay
 google
+bing
 twitter
-wikipedia
-yahoo
+wikipedia-ca
+diec2
+

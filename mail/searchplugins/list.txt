@@ -1,7 +1,5 @@
-amazondotcom
-aol-web-search
 bing
-eBay
-twitter
-wikipedia
-yahoo
+huubs
+diec2
+wikipedia-ca
+llibres

@@ -1,4 +1,6 @@
-bingmetrofx
 googlemetrofx
-wikipediametrofx
-yahoometrofx
+bingmetrofx
+twitter
+wikipedia-ca
+diec2
+
