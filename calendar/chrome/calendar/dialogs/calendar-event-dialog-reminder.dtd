@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Podrobnosti pripomienky">
 <!ENTITY reminder.action.label                             "Vyberte akciu pripomienky">
 
-<!ENTITY reminder.relation.before.label                    "pred" >
-<!ENTITY reminder.relation.after.label                     "po" >
-
 <!ENTITY reminder.action.alert.label                       "Zobraziť upozornenie">
 <!ENTITY reminder.action.email.label                       "Odoslať e-mail">
 

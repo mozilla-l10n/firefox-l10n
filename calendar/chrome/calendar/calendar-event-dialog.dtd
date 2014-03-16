@@ -102,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                    "M">
 <!ENTITY  event.menu.options.attendees.label              "Pozvať účastníkov…">
 <!ENTITY  event.menu.options.attendees.accesskey          "P">
-<!ENTITY  event.menu.options.spellcheck.label             "Kontrola pravopisu…">
-<!ENTITY  event.menu.options.spellcheck.accesskey         "K">
-<!ENTITY  event.menu.options.inline.spellcheck.label      "Automatická kontrola pravopisu">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey  "A">
-<!ENTITY  event.menu.options.link.label                   "Pridať odkaz…">
-<!ENTITY  event.menu.options.link.accesskey               "o">
 <!ENTITY  event.menu.options.timezone2.label              "Zobraziť časové pásma">
 <!ENTITY  event.menu.options.timezone2.accesskey          "a">
 <!ENTITY  event.menu.options.priority2.label              "Priorita">
@@ -146,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Uložiť a zavrieť">
 <!ENTITY  event.toolbar.delete.label                      "Odstrániť">
 <!ENTITY  event.toolbar.attendees.label                   "Pozvať účastníkov">
-<!ENTITY  event.toolbar.spellcheck.label                  "Kontrola pravopisu">
 <!ENTITY  event.toolbar.privacy.label                     "Súkromie">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Uložiť a zavrieť">
 <!ENTITY  event.toolbar.delete.tooltip                    "Odstrániť">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozvať účastníkov">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Kontrola pravopisu">
 <!ENTITY  event.toolbar.attachments.tooltip               "Pridať prílohy">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Zmeniť súkromie">
 <!ENTITY  event.toolbar.priority.tooltip                  "Zmeniť prioritu">
@@ -167,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategória:">
 <!ENTITY event.categories.accesskey                       "g">
 <!ENTITY event.categories.textbox.label                   "Pridať novú kategóriu" >
-<!ENTITY event.categories.textbox.accesskey               "r">
 <!ENTITY event.calendar.label                             "Kalendár:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Účastníci:" >
@@ -378,5 +369,4 @@
 <!ENTITY read.only.reminder.label        "Pripomienka:">
 <!ENTITY read.only.attendees.label       "Účastníci">
 <!ENTITY read.only.description.label     "Popis">
-<!ENTITY read.only.documents.label       "Dokumenty">
 <!ENTITY read.only.link.label            "Súvisiaci odkaz">
