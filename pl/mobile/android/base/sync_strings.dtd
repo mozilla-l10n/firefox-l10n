@@ -136,7 +136,7 @@ the two uses differently. -->
 <!-- Localization note: the Firefox below should not change with the
  particular version of Firefox installed (Release, Beta, Aurora,
 etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Utwórz konto Firefox'>
+<!ENTITY fxaccount_create_account_header2 'Utwórz konto Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Hasło musi mieć przynajmniej 8 znaków'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok urodzenia'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
