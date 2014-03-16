@@ -4,7 +4,7 @@
 
 <!ENTITY gdata-provider.label "Google Calendar">
 
-<!ENTITY gdata.privacy.default.label "Per defecte de Google">
+<!ENTITY gdata.privacy.default.label "Google per defecte">
 <!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migració de calendaris de només lectura">

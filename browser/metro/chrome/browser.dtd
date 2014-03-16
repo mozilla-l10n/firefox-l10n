@@ -13,12 +13,11 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Resultats">
 
-<!ENTITY appbarErrorConsole.label      "Obre la consola d'errors">
-<!ENTITY appbarJSShell.label           "Obre l'intèrpret d'ordres JavaScript">
-<!ENTITY appbarFindInPage2.label       "Cerca a la pàgina">
-<!ENTITY appbarRelaunchInDesktop.label "Reinicia en mode d'escriptori">
-<!ENTITY appbarMSMetaData2.label       "Obteniu l'aplicació d'aquest lloc">
-<!ENTITY appbarViewPageSource.label    "Codi font de la pàgina">
+<!ENTITY appbarErrorConsole.label   "Obre la consola d'errors">
+<!ENTITY appbarJSShell.label        "Obre l'intèrpret d'ordres JavaScript">
+<!ENTITY appbarFindInPage2.label    "Cerca a la pàgina">
+<!ENTITY appbarViewOnDesktop2.label "Mostra a l'escriptori">
+<!ENTITY appbarMSMetaData2.label    "Obteniu l'aplicació d'aquest lloc">
 
 <!ENTITY topSitesHeader.label        "Destacats">
 <!ENTITY bookmarksHeader.label       "Adreces d'interès">
@@ -109,24 +108,3 @@
 <!ENTITY optionsFlyout.key "o">
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
-<!-- FIRT RUN EXPERIENCE -->
-<!-- LOCALIZATION NOTE (firstRunTabs.label,
-                        firstRunTopSites.label,
-                        firstRunBookmarks.label,
-                        firstRunMenu.label,
-                        firstRunHistory.label )
-     These strings appear on the Firefox Start page the first time
-     Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
-     -->
-
-<!ENTITY firstRunTabs.label "No trobeu les pestanyes? Arrossegueu cap avall o feu clic amb el botó dret">
-<!ENTITY firstRunTopSites.label "Vegeu els llocs que visiteu més sovint">
-<!ENTITY firstRunBookmarks.label "Vegeu les pàgines que heu desat per llegir-les més tard">
-<!ENTITY firstRunMenu.label "Accediu a més funcions i opcions">
-<!ENTITY firstRunHistory.label "Vegeu els llocs web que heu visitat">
-<!ENTITY firstRunWelcome.label "Us donem la benvinguda al &brandShortName;">
-<!ENTITY firstRunDifferent.label "Diferent per disseny">
