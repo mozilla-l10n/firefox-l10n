@@ -684,10 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "a">
 <!ENTITY social.closeNotificationItem.label "Teraz nie">
 
-
-
 <!ENTITY customizeMode.tabTitle "Prispôsobenie &brandShortName;u">
-<!ENTITY customizeMode.menuAndToolbars.label "Ponuka a paneli s nástrojmi">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ďalšie nástroje a funkcie">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
