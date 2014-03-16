@@ -49,7 +49,7 @@
 <!ENTITY accountColumn.label "Compte">
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
-<!ENTITY junkStatusColumn.label "Estat de correu brossa">
+<!ENTITY junkStatusColumn.label "Estat del correu brossa">
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
@@ -70,7 +70,7 @@
 <!ENTITY accountColumn.tooltip "Feu un clic per ordenar per compte">
 <!ENTITY statusColumn.tooltip "Feu un clic per ordenar per estat">
 <!ENTITY sizeColumn.tooltip "Feu un clic per ordenar per mida">
-<!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per estat de correu brossa">
+<!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per l'estat de brossa">
 <!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
 <!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per ordenar per llegit">

@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Títol de la pàgina:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introduïu un títol per identificar la pàgina en la finestra i en les adreces d'interès">
-<!ENTITY pageTitleExample.label       "P. ex.: «El meu lloc web»">
+<!ENTITY pageTitleExample.label       "P. ex.: &quot;El meu lloc web&quot;">
 <!ENTITY filename.label               "Nom de fitxer:">
 <!ENTITY filename.accesskey           "f">
 <!ENTITY filename.tooltip             "Introduïu un nom per a aquest fitxer, incloent «.html» si es tracta d'una pàgina web">
-<!ENTITY filenameExample.label        "p. ex.,: «lamevapàgina.html»">
+<!ENTITY filenameExample.label        "p. ex.,: &quot;lamevapàgina.html&quot;">
 <!ENTITY setDefaultButton.label       "Defineix per defecte">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Suprimeix el lloc">

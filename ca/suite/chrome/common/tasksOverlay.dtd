@@ -47,7 +47,7 @@
 <!ENTITY addOnsManagerCmd.accesskey "G">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
-<!ENTITY switchProfileCmd.label "Canvia de perfil…">
+<!ENTITY switchProfileCmd.label "Commuta el perfil…">
 <!ENTITY switchProfileCmd.accesskey "p">
 
 <!ENTITY syncBrand.shortName.label "Sync">

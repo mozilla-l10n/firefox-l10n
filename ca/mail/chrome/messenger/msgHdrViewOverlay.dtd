@@ -21,6 +21,8 @@
 <!ENTITY inReplyToField4.label "En resposta a">
 <!ENTITY originalWebsite4.label "Lloc web">
 
+<!ENTITY editMessageDescription.label "Esteu en un esborrany">
+<!ENTITY editMessageButton.label "Edita…">
 <!ENTITY hdrArchiveButton1.label "Arxiva">
 <!ENTITY hdrArchiveButton1.tooltip "Arxiva aquest missatge">
 <!ENTITY hdrSmartReplyButton1.label "Resposta intel·ligent">
@@ -32,10 +34,10 @@
 <!ENTITY hdrReplyListButton1.tooltip "Respon a la llista de correus">
 <!ENTITY hdrFollowupButton1.label "Segueix">
 <!ENTITY hdrFollowupButton1.tooltip "Publica al grup de notícies">
-<!ENTITY hdrMenuForwardButton.label "Reenvia com a">
+<!ENTITY hdrMenuForwardButton.label "Reenvia com">
 <!ENTITY hdrForwardButton1.label "Reenvia">
 <!ENTITY hdrForwardButton1.tooltip "Reenvia aquest missatge">
-<!ENTITY hdrJunkButton1.label "Correu brossa">
+<!ENTITY hdrJunkButton1.label "Brossa">
 <!ENTITY hdrJunkButton1.tooltip "Marca aquest missatge com a correu brossa">
 <!ENTITY hdrTrashButton1.label "Suprimeix">
 <!ENTITY hdrTrashButton1.tooltip "Suprimeix aquest missatge">

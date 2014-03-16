@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Paraules clau del recordatori d'adjunció">
-<!ENTITY attachKeywordText.label          "El &brandShortName; us avisarà que us falta adjuntar algun fitxer quan estigueu a punt d'enviar un correu que contingui una de les paraules següents.">
+<!ENTITY attachmentReminderDialog.title   "Paraules clau del recordatori">
+<!ENTITY attachKeywordText.label          "El &brandShortName; us avisarà quan us falti adjuntar algun fitxer quan estigueu apunt d'enviar un correu amb algunes de les paraules següents.">
 <!ENTITY addKeywordButton.label           "Afegeix">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Edita">

@@ -351,11 +351,11 @@
 <!ENTITY markAllReadCmd.label "Tots llegits">
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAsJunkCmd.label "Que és correu brossa">
+<!ENTITY markAsJunkCmd.label "Com a correu brossa">
 <!ENTITY markAsJunkCmd.accesskey "b">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Que no és correu brossa">
-<!ENTITY markAsNotJunkCmd.accesskey "r">
+<!ENTITY markAsNotJunkCmd.label "Com a correu legítim">
+<!ENTITY markAsNotJunkCmd.accesskey "l">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Executa els controls del correu brossa">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
@@ -419,7 +419,7 @@
 <!ENTITY markButton.label "Marca">
 <!ENTITY stopButton.label "Atura">
 <!ENTITY junkButton.label "Correu brossa">
-<!ENTITY notJunkButton.label "No és correu brossa">
+<!ENTITY notJunkButton.label "És correu legítim">
 <!ENTITY searchButton.title "Cerca avançada">
 <!-- Tooltips -->
 
@@ -442,8 +442,8 @@
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
 <!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
-<!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a correu brossa">
-<!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a correu legítim">
+<!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
+<!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Fet">
