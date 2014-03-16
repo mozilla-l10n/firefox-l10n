@@ -142,7 +142,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Minimálne 8 znakov'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok narodenia'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Pokračovaním súhlasíte s &formatS1; a &formatS2; služieb online pre prehliač Firefox.'>
+<!ENTITY fxaccount_create_account_policy_text 'Pokračovaním súhlasíte s &formatS1; a &formatS2; služieb online pre prehliadač Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Ďalej'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete sychronizovať'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Máte už účet? Prihláste sa'>
