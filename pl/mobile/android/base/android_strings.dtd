@@ -319,6 +319,9 @@ it is applicable. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk trybu czytania po jego pojawieniu się na pasku tytułu.">
 
+<!-- Localization note (home_default_empty): This string is used as the default text when there is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Nie znaleźliśmy treści do wyświetlenia na tym panelu.">
+
 <!ENTITY pin_site_dialog_hint "Wpisz słowo-klucz">
 
 <!ENTITY filepicker_title "Wybierz plik">
