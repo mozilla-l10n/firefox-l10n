@@ -93,6 +93,10 @@
 <!ENTITY pref_home_add_panel "Dodaj panel">
 <!ENTITY home_add_panel_title "Dodaj nowy panel">
 <!ENTITY home_add_panel_empty "Niestety nie znaleźliśmy żadnych paneli do dodania.">
+<!-- Localization note (home_add_panel_installed):
+he &formatS; will be replaced with the name of the new panel the user just
+selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Dodano „&formatS;” do strony domowej">
 <!ENTITY pref_category_home_content_settings "Ustawienia treści">
 <!ENTITY pref_home_updates "Automatyczne aktualizacje">
 <!ENTITY pref_home_updates_enabled "Włączone">
