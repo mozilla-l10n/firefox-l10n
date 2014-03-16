@@ -89,6 +89,7 @@
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY pref_home_add_panel "Pridať panel">
 <!ENTITY home_add_panel_title "Pridať nový panel">
