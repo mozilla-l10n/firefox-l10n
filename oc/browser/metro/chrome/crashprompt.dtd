@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY crashprompt.title           "Volètz mandar de rapòrts de plantatge a Mozilla ?">
+
+
 
 
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
@@ -12,6 +15,6 @@
 <!ENTITY crashprompt.privacyPolicyLink "politica de confidencialitat de &brandShortName;">
 
 <!ENTITY crashprompt.includeURLLabel "Inclure l'URL de la pagina ont vos trobavatz">
-
-
+<!ENTITY crashprompt.acceptbutton    "Mandadís del rapòrt">
+<!ENTITY crashprompt.refusebutton    "Mandar pas">
 <!ENTITY crashprompt.privacyPolicy.title "politica de confidencialitat de &brandShortName;">

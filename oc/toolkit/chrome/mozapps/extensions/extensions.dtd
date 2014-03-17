@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Levar lo tèma">
 <!ENTITY cmd.disableTheme.accesskey           "e">
-
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.label              "Demandar per activar">
+<!ENTITY cmd.askToActivate.tooltip            "Demandar a cada còp la permission d'utilizar aqueste modul complementari">
+<!ENTITY cmd.alwaysActivate.label             "Activar totjorn">
+<!ENTITY cmd.alwaysActivate.tooltip           "Utilizar totjorn aqueste modul complementari">
+<!ENTITY cmd.neverActivate.label              "Activar pas jamai">
+<!ENTITY cmd.neverActivate.tooltip            "Utilizar pas jamai aqueste modul complementari">
+<!ENTITY cmd.stateMenu.tooltip                "Causir quora utilizar aqueste modul complementari">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">

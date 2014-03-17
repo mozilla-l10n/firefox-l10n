@@ -59,7 +59,7 @@
 <!ENTITY btnPageJS.tooltip  "Jornalizar las excepcions JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Seguretat">
-
+<!ENTITY btnPageSecurity.tooltip "Jornalizar las errors de seguretat e los avertiments">
 <!ENTITY btnPageSecurity.accesskey "u">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on

@@ -4,7 +4,7 @@
 <!ENTITY syncCustomize.acceptButton.label "Aviar">
 
 
-
+<!ENTITY syncCustomizeUnix.description    "Podètz modificar la seleccion dins las preferéncias.">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
@@ -18,7 +18,7 @@
 <!ENTITY engine.tabs.accesskey            "o">
 <!ENTITY engine.passwords.label           "Los senhals">
 <!ENTITY engine.passwords.accesskey       "h">
-
-
+<!ENTITY engine.addons.label              "Los moduls complementaris (ordenador)">
+<!ENTITY engine.addons.accesskey          "A">
 <!ENTITY engine.prefs.label               "Dobrir las preferéncias del burèu">
 <!ENTITY engine.prefs.accesskey           "e">

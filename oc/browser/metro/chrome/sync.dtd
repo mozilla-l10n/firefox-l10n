@@ -5,10 +5,10 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
-<!ENTITY sync.flyout.presetup.setup.label      "Configurar &syncBrand.fullName.label;">
+<!ENTITY sync.flyout.presetup.setup.label      "Configurar &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
 
-<!ENTITY sync.flyout.setup.title               "Configurar &syncBrand.fullName.label;">
+<!ENTITY sync.flyout.setup.title               "Configurar &syncBrand.shortName.label;">
 
 
 
@@ -17,7 +17,7 @@
 
 
 <!-- Flyout when setting up manually -->
-
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nom del compte">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Senhal">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clau de recuperacion">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Se connectar">
@@ -29,9 +29,9 @@
 <!-- Flyout when connected and functioning normally -->
 
 <!ENTITY sync.flyout.connected.account                    "Compte">
-
+<!ENTITY sync.flyout.connected.device                     "Vòstre aparelh :">
 <!ENTITY sync.flyout.connected.disconnect                 "Desconnectar">
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Desconnectar vòstre aparelh de &syncBrand.shortName.label; ?">
 
 <!ENTITY sync.flyout.connected.cancel                     "Anullar">
 <!ENTITY sync.flyout.connected.pair                       "Associar un aparelh">

@@ -12,4 +12,5 @@
 <!ENTITY string.label           "Cadena">
 <!ENTITY boolean.label          "Valor booleana">
 
+<!ENTITY string.placeholder     "Picar una cadena de caractèrs">
 <!ENTITY number.placeholder     "Picatz un nombre">
