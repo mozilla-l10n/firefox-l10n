@@ -26,33 +26,36 @@
 <!ENTITY calendar.events.filter.next31Days.label        "Termine in den nächsten 31 Tagen">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Termine in diesem Kalendermonat">
 
-<!ENTITY calendar.unifinder.tree.done.label              "Fertig">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Klicken, um nach Fertig zu sortieren">
-<!ENTITY calendar.unifinder.tree.priority.label          "Priorität">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klicken, um nach Priorität zu sortieren">
-<!ENTITY calendar.unifinder.tree.title.label             "Titel">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Klicken, um nach Titel zu sortieren">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#037; fertig">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klicken, um nach &#037; fertig zu sortieren">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Beginn">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klicken, um nach Beginn zu sortieren">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Ende">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klicken, um nach Ende zu sortieren">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Fällig">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klicken, um nach Fällig zu sortieren">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Abgeschlossen">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klicken, um nach Abgeschlossen zu sortieren">
-<!ENTITY calendar.unifinder.tree.categories.label        "Kategorie">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klicken, um nach Kategorie zu sortieren">
-<!ENTITY calendar.unifinder.tree.location.label          "Ort">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Klicken, um nach Ort zu sortieren">
-<!ENTITY calendar.unifinder.tree.status.label            "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Klicken, um nach Status zu sortieren">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Kalendername">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klicken, um nach Kalendername zu sortieren">
-<!ENTITY calendar.unifinder.tree.duration.label          "Fällig in">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klicken, um nach Fällig in zu sortieren">
-<!ENTITY calendar.unifinder.close.tooltip                "Terminsuche/-liste schließen">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+  -- This label and tooltip is used for the column with the checkbox in the
+  -- task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label               "Fertig">
+<!ENTITY calendar.unifinder.tree.done.tooltip2            "Nach Fertig sortieren">
+<!ENTITY calendar.unifinder.tree.priority.label           "Priorität">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2        "Nach Priorität sortieren">
+<!ENTITY calendar.unifinder.tree.title.label              "Titel">
+<!ENTITY calendar.unifinder.tree.title.tooltip2           "Nach Titel sortieren">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label    "&#037; fertig">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2 "Nach &#037; fertig sortieren">
+<!ENTITY calendar.unifinder.tree.startdate.label          "Beginn">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2       "Nach Beginn sortieren">
+<!ENTITY calendar.unifinder.tree.enddate.label            "Ende">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2         "Nach Ende sortieren">
+<!ENTITY calendar.unifinder.tree.duedate.label            "Fällig">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2         "Nach Fällig sortieren">
+<!ENTITY calendar.unifinder.tree.completeddate.label      "Abgeschlossen">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2   "Nach Abgeschlossen sortieren">
+<!ENTITY calendar.unifinder.tree.categories.label         "Kategorie">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2      "Nach Kategorie sortieren">
+<!ENTITY calendar.unifinder.tree.location.label           "Ort">
+<!ENTITY calendar.unifinder.tree.location.tooltip2        "Nach Ort sortieren">
+<!ENTITY calendar.unifinder.tree.status.label             "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2          "Nach Status sortieren">
+<!ENTITY calendar.unifinder.tree.calendarname.label       "Kalendername">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2    "Nach Kalendername sortieren">
+<!ENTITY calendar.unifinder.tree.duration.label           "Fällig in">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2        "Nach Fällig in sortieren">
+<!ENTITY calendar.unifinder.close.tooltip                 "Terminsuche/-liste schließen">
 
 <!ENTITY calendar.today.button.tooltip            "Zu Heute wechseln">
 <!ENTITY calendar.todaypane.button.tooltip        "Tagesplan anzeigen">
