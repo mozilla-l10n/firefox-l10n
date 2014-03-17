@@ -670,7 +670,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Nie teraz">
 
 <!ENTITY customizeMode.tabTitle "Dostosowywanie programu &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu i paski narzędzi">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Dodatkowe funkcje i opcje">
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
