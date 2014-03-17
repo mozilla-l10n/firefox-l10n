@@ -167,7 +167,7 @@ size. -->
 <!ENTITY datareporting_notification_title "Data &amp; statistik &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Pilih informasi yang ingin dibagikan">
 <!ENTITY datareporting_notification_action "Pilih yang dibagikan">
-<!ENTITY datareporting_notification_summary "Untuk menningkatkan pengalaman Anda, &brandShortName; mengirim beberapa informasi ke &vendorShortName; secara otomatis.">
+<!ENTITY datareporting_notification_summary "Untuk meningkatkan pengalaman Anda, &brandShortName; mengirim beberapa informasi ke &vendorShortName; secara otomatis.">
 <!ENTITY datareporting_notification_summary_short "Untuk meningkatkan pengalaman Anda, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
