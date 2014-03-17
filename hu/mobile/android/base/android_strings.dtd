@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
-<!ENTITY pref_category_search2 "Keresés beállításai">
+<!ENTITY pref_category_search3 "Keresés">
 <!ENTITY pref_category_display "Megjelenítés">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
 <!ENTITY pref_category_datareporting "Adatválasztások">
 <!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
 <!ENTITY pref_category_add_search_providers "További keresők hozzáadása">
+<!ENTITY pref_category_search_restore_defaults "Keresők visszaállítása">
+<!ENTITY pref_search_restore_defaults "Alaphelyzet">
+<!ENTITY pref_search_restore_defaults_summary "Alaphelyzet">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_developer_remotedebugging_docs "További információ">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
+
+<!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home_panels "Panelek">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Testreszabás">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
-<!ENTITY pref_search_set_default "Legyen ez az alapértelmezett">
-<!ENTITY pref_search_default "Alapértelmezett">
-<!ENTITY pref_search_remove "Eltávolítás">
+
+<!ENTITY pref_dialog_set_default "Legyen ez az alapértelmezett">
+<!ENTITY pref_dialog_default "Alapértelmezett">
+<!ENTITY pref_dialog_remove "Eltávolítás">
+
 <!ENTITY pref_search_last_toast "Nem távolíthatja el vagy tilthatja le az utolsó keresőt.">
+
+<!ENTITY pref_panels_show "Megjelenítés">
+<!ENTITY pref_panels_hide "Elrejtés">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
 <!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Következő">
 <!ENTITY find_close "Bezárás">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Vetítés eszközre">
+<!ENTITY media_play "Lejátszás">
+<!ENTITY media_pause "Szünet">
+<!ENTITY media_stop "Leállítás">
+
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
 <!ENTITY contextmenu_open_private_tab "Megnyitás privát lapon">
 <!ENTITY contextmenu_open_in_reader "Megnyitás az Olvasóban">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
 <!ENTITY pref_titlebar_mode_url "Oldal webcímének megjelenítése ">
 
-<!ENTITY pref_dynamic_toolbar "Címsor elrejtése görgetéskor">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Címsor görgetése">
 
 <!ENTITY history_removed "Oldal eltávolítva">
 
