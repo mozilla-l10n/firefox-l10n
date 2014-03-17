@@ -495,7 +495,6 @@
 <!ENTITY social.learnMore.accesskey "о">
 <!ENTITY social.closeNotificationItem.label "Не сейчас">
 <!ENTITY customizeMode.tabTitle "Настройка &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Меню и панели инструментов">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
