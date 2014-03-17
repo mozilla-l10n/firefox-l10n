@@ -2,28 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "Ko abbitii e geese.">
+<!ENTITY aboutNetworking.warning               "Ɗum ko jarribuya tan, Woto huutoro tawa mawɗo tawaaka.">
 <!ENTITY aboutNetworking.showNextTime          "Hollu ngoo reentino laawol garowol">
 <!ENTITY aboutNetworking.ok                    "OK">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "Ceŋirɗe">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "GeeseSoket">
+<!ENTITY aboutNetworking.refresh               "Wultin">
+<!ENTITY aboutNetworking.autoRefresh           "Wultin hoore mum kala maje 3">
+<!ENTITY aboutNetworking.hostname              "Innde mooftoowo">
+
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+
+<!ENTITY aboutNetworking.idle                  "Aami">
+
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Nelaaɗe">
+<!ENTITY aboutNetworking.received              "Keɓaaɗe">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.expires               "Buuntata (Maje)">
+<!ENTITY aboutNetworking.messagesSent          "Ɓatakuuji nuldaaɗi">
+<!ENTITY aboutNetworking.messagesReceived      "Ɓatakuuji keɓaaɗi">
+<!ENTITY aboutNetworking.bytesSent             "Bayte nuldaaɗe">
+<!ENTITY aboutNetworking.bytesReceived         "Bayte Keɓaaɗe">

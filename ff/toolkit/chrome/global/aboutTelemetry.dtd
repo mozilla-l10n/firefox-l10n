@@ -12,11 +12,13 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Kooke Wanngorde">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Ɓeydude e cariika">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
 
@@ -33,3 +35,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Hollu keɓe kecce iwɗe e kooke">
 
+<!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">

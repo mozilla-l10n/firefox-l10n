@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "B">
 <!ENTITY aboutProduct.label       "Baɗte &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "B">
-<!ENTITY productHelp.label        "Ballal &brandShortName;">
-<!ENTITY productHelp.accesskey    "B">
+<!ENTITY productHelp.label        "ballal &brandShortName;">
+<!ENTITY productHelp.accesskey    "b">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Codorɗe Tappirde">
