@@ -4,7 +4,7 @@
 
 
 <!ENTITY  no_space_to_start_error "Nepietiek brīvās vietas, lai palaistu &brandShortName;.">
-<!ENTITY  error_loading_file "Ielādējot &brandShortName; palaišanai nepieciešamos failus notikusi kļūda">
+<!ENTITY  error_loading_file "Ielādējot &brandShortName; palaišanai nepieciešamos failus, notikusi kļūda">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -12,24 +12,24 @@
 <!ENTITY  history_title "Vēsture">
 <!ENTITY  reading_list_title "Lasīšanas saraksts">
 
-<!ENTITY  switch_to_tab "Pārslēgties uz cilni">
+<!ENTITY  switch_to_tab "Pāriet uz cilni">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Avārijas ziņojumi">
-<!ENTITY  crash_message2 "&brandShortName; saskārās ar problēmu un avarēja. Jūsu cilnēm vajadzētu būt &brandShortName; sākuma lapā, kad pārstartēsiet.">
-<!ENTITY  crash_send_report_message3 "Pastāstiet &vendorShortName; par šo avāriju, lai viņi var to salabot">
+<!ENTITY  crash_message2 "&brandShortName; saskārās ar problēmu un avarēja. Pēc pārstartēšanas jūsu cilnēm vajadzētu būt &brandShortName; sākuma lapā.">
+<!ENTITY  crash_send_report_message3 "Pastāstiet &vendorShortName; par šo avāriju, lai viņi varētu to izlabot">
 <!ENTITY  crash_include_url2 "Sūtīt arī atvērtās lapas adresi">
 <!ENTITY  crash_sorry "Mums patiešām žēl">
 <!ENTITY  crash_comment "Pievienot komentāru (komentāri ir redzami publiski)">
 <!ENTITY  crash_allow_contact2 "Ļaut &vendorShortName; sazināties ar mani par šo ziņojumu">
-<!ENTITY  crash_email "Jūsu epasts">
-<!ENTITY  crash_closing_alert "Aizvērt nesūtot avārijas ziņojumu?">
+<!ENTITY  crash_email "Jūsu e-pasts">
+<!ENTITY  crash_closing_alert "Aizvērt, nesūtot avārijas ziņojumu?">
 <!ENTITY  sending_crash_report "Notiek avārijas ziņojuma sūtīšana\u2026">
 <!ENTITY  crash_close_label "Aizvērt">
 <!ENTITY  crash_restart_label "Pārstartēt &brandShortName;">
 <!ENTITY  exit_label "Iziet">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; aplikācijas">
-<!ENTITY  launcher_shortcuts_empty "Nav nevienas aplikācijas">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; lietotnes">
+<!ENTITY  launcher_shortcuts_empty "Nav nevienas lietotnes">
 
 <!ENTITY choose_file "Izvēlieties failu">
 
@@ -37,14 +37,14 @@
 
 <!ENTITY bookmark "Grāmatzīme">
 <!ENTITY bookmark_added "Grāmatzīme pievienota">
-<!ENTITY bookmark_removed "Grāmatzīme aizvākta">
+<!ENTITY bookmark_removed "Grāmatzīme izņemta">
 <!ENTITY bookmark_updated "Grāmatzīme atjaunināta">
 <!ENTITY bookmark_options "Iestatījumi">
 
 <!ENTITY history_today_section "Šodien">
 <!ENTITY history_yesterday_section "Vakar">
 <!ENTITY history_week_section "Pirms 7 dienām">
-<!ENTITY history_older_section "Vairāk kā pirms 7 dienām">
+<!ENTITY history_older_section "Senāk par 7 dienām">
 
 <!ENTITY go "Iet">
 <!ENTITY search "Meklēt">
@@ -71,15 +71,15 @@
 <!ENTITY pref_category_privacy_short "Privātums">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datu izvēles">
-<!ENTITY pref_category_installed_search_engines "Pieejamie meklētāji">
+<!ENTITY pref_category_installed_search_engines "Instalētie meklētāji">
 <!ENTITY pref_category_add_search_providers "Pievienot meklētājus">
 <!ENTITY pref_category_search_restore_defaults "Atjaunot meklētājus">
-<!ENTITY pref_search_restore_defaults "Atjaunot noklusēto">
-<!ENTITY pref_search_restore_defaults_summary "Atjaunot noklusēto">
+<!ENTITY pref_search_restore_defaults "Atjaunot noklusējuma">
+<!ENTITY pref_search_restore_defaults_summary "Atjaunot noklusējuma">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "Padoms: Pievienojiet jebkuru lapu meklētājiem ilgāku laiku paturot pirkstu uz tās meklēšanas lauka.">
+<!ENTITY pref_search_tip "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka.">
 <!ENTITY pref_category_devtools "Izstrādātāju rīki">
 <!ENTITY pref_developer_remotedebugging "Attālinātā atkļūdošana">
 <!ENTITY pref_developer_remotedebugging_docs "Uzzināt vairāk">
@@ -98,22 +98,22 @@
 
 <!ENTITY pref_cookies_menu "Sīkdatnes">
 <!ENTITY pref_cookies_accept_all "Aktivētas">
-<!ENTITY pref_cookies_not_accept_foreign "Aktivētas, neskaitot 3 pušu">
+<!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
 <!ENTITY pref_donottrack_menu "Sekošana">
-<!ENTITY pref_donottrack_disallow_tracking "Teikt mājas lapām, ka nevēlos, lai mani izseko">
-<!ENTITY pref_donottrack_allow_tracking "Teikt mājas lapām, ka vēlos, lai mani izseko">
+<!ENTITY pref_donottrack_disallow_tracking "Teikt lapām, ka nevēlos, lai mani izseko">
+<!ENTITY pref_donottrack_allow_tracking "Teikt lapām, ka vēlos, lai mani izseko">
 <!ENTITY pref_donottrack_no_pref "Neteikt neko lapām par manām izsekošanas vēlmēm">
 
-<!ENTITY pref_char_encoding "Simbolu kodēšana">
+<!ENTITY pref_char_encoding "Rakstzīmju kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
 <!ENTITY pref_char_encoding_off "Nerādīt izvēlni">
 <!ENTITY pref_clear_private_data "Dzēst privātos datus">
-<!ENTITY pref_plugins "Papildinājumi">
-<!ENTITY pref_plugins_enabled "Aktivēts">
-<!ENTITY pref_plugins_tap_to_play "Pieskarieties te, lai atskaņotu">
-<!ENTITY pref_plugins_disabled "Deaktivēts">
+<!ENTITY pref_plugins "Spraudņi">
+<!ENTITY pref_plugins_enabled "Aktivēti">
+<!ENTITY pref_plugins_tap_to_play "Pieskarties, lai atskaņotu">
+<!ENTITY pref_plugins_disabled "Deaktivēti">
 <!ENTITY pref_text_size "Teksta izmērs">
 <!ENTITY pref_reflow_on_zoom4 "Teksta pārlāde">
 <!ENTITY pref_restore "Cilnes">
@@ -124,7 +124,7 @@
 <!ENTITY pref_font_size_medium "Vidējs">
 <!ENTITY pref_font_size_large "Liels">
 <!ENTITY pref_font_size_xlarge "Ļoti liels">
-<!ENTITY pref_font_size_set "Izvēlēties">
+<!ENTITY pref_font_size_set "Iestatīt">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -134,7 +134,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Mazā oranžā lapsa pārlēca pāri glāžšķūņa rūķeļiem ātrāk, veiklāk un drošāk. Kā bezpeļņas organizācija, mēs atļaujamies inovēt bez kompromisiem. Tas nozīmē patīkamāku pārlūkošanu jums un gaišāku nākotni tīmeklim.">
 
 <!ENTITY pref_use_master_password "Izmantot galveno paroli">
 <!ENTITY pref_show_product_announcements "Rādīt produktu paziņojumus">
@@ -146,7 +146,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Sīkdatnes un aktīvās autorizācijas sesijas">
 <!ENTITY pref_private_data_passwords "Saglabātās paroles">
 <!ENTITY pref_private_data_cache "Kešatmiņu">
-<!ENTITY pref_private_data_offlineApps "Mājas lapu saglabātos datus">
+<!ENTITY pref_private_data_offlineApps "Lapu saglabātos datus">
 <!ENTITY pref_private_data_siteSettings2 "Lapu iestatījumus">
 <!ENTITY pref_private_data_downloadFiles "Lejupielādētos failus">
 
@@ -155,19 +155,19 @@ size. -->
 <!ENTITY pref_vendor_faqs "BUJ">
 <!ENTITY pref_vendor_feedback "Iesniegt atsauksmi">
 
-<!ENTITY pref_dialog_set_default "Iestatīt kā noklusēto">
-<!ENTITY pref_dialog_default "Noklusētais">
-<!ENTITY pref_dialog_remove "Aizvākt">
+<!ENTITY pref_dialog_set_default "Iestatīt kā noklusējuma">
+<!ENTITY pref_dialog_default "Noklusējuma">
+<!ENTITY pref_dialog_remove "Izņemt">
 
-<!ENTITY pref_search_last_toast "Jūs nevarat ne aizvākt, ne deaktivēt pēdējo meklētāju.">
+<!ENTITY pref_search_last_toast "Pēdējo meklētāju nevar ne izņemt, ne deaktivēt.">
 
 <!ENTITY pref_panels_show "Rādīt">
 <!ENTITY pref_panels_hide "Slēpt">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistika un dati">
-<!ENTITY datareporting_notification_action_long "Izvēlieties kādu informāciju atklāt">
-<!ENTITY datareporting_notification_action "Izvēlieties ko atklāt">
-<!ENTITY datareporting_notification_summary "Lai uzlabotu jūsu pārlūkošanas baudījumu, &brandShortName; automātiski sūta zināmus datus &vendorShortName;.">
+<!ENTITY datareporting_notification_action_long "Izvēlieties, kādu informāciju atklāt">
+<!ENTITY datareporting_notification_action "Izvēlieties, ko atklāt">
+<!ENTITY datareporting_notification_summary "Lai uzlabotu pārlūkošanas kvalitāti, &brandShortName; automātiski sūta zināmus datus &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Lai uzlabotu pārlūkošanu, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
@@ -178,7 +178,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; stāvokļa ziņojums">
-<!ENTITY datareporting_fhr_summary2 "Atklāj &vendorShortName; informāciju par pārlūka stāvokli un palīdz jums izprast pārlūka veiktspēju">
+<!ENTITY datareporting_fhr_summary2 "Dod &vendorShortName; informāciju par pārlūka stāvokli un palīdz jums izprast pārlūka veiktspēju">
 <!ENTITY datareporting_abouthr_title "Aplūkot manu stāvokļa ziņojumu">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Atklāj &vendorShortName; datus par pārlūka veiktspēju, izmantošanu, aparatūru un pielāgojumiem, lai palīdzētu mums uzlabot &brandShortName;">
@@ -187,7 +187,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Avārijas ziņojums">
 <!ENTITY datareporting_wifi_title "&vendorShortName; atrašanās vietas serviss">
-<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumu atvērtajam internetam, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē sastopamajiem mobilo sakaru torņiem">
+<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumus atvērtajam tīmeklim, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē sastopamajiem mobilo sakaru torņiem">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -201,15 +201,15 @@ size. -->
 
 <!ENTITY addons "Papildinājumi">
 <!ENTITY downloads "Lejupielādes">
-<!ENTITY apps "Aplikācijas">
-<!ENTITY char_encoding "Simbolu kodējums">
+<!ENTITY apps "Lietotnes">
+<!ENTITY char_encoding "Rakstzīmju kodējums">
 
 <!ENTITY share "Dalīties">
 <!ENTITY share_title "Dalīties caur...">
-<!ENTITY share_image_failed "Nevar dalīties ar šo attēlu">
+<!ENTITY share_image_failed "Neizdevās dalīties ar šo attēlu">
 <!ENTITY save_as_pdf "Saglabāt kā PDF">
 <!ENTITY find_in_page "Meklēt lapā">
-<!ENTITY desktop_mode "Izmantot lapas pilno versiju">
+<!ENTITY desktop_mode "Pāriet uz lapas pilno versiju">
 <!ENTITY tools "Rīki">
 <!ENTITY new_tab "Jauna cilne">
 <!ENTITY new_private_tab "Jauna privātā cilne">
@@ -217,7 +217,7 @@ size. -->
 <!ENTITY tabs_normal "Cilnes">
 <!ENTITY tabs_private "Privātās">
 <!ENTITY tabs_synced "Sinhronizētās">
-<!ENTITY set_image_fail "Nevar iestatīt attēlu">
+<!ENTITY set_image_fail "Neizdevās iestatīt attēlu">
 <!ENTITY set_image_chooser_title "Iestatīt attēlu kā">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -229,15 +229,15 @@ size. -->
 
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Casting to Device">
-<!ENTITY media_play "Play">
-<!ENTITY media_pause "Pause">
-<!ENTITY media_stop "Stop">
+<!ENTITY media_casting_to "Raidīšana uz ierīci">
+<!ENTITY media_play "Atskaņot">
+<!ENTITY media_pause "Pauzēt">
+<!ENTITY media_stop "Apturēt">
 
 <!ENTITY contextmenu_open_new_tab "Atvērt jaunā cilnē">
-<!ENTITY contextmenu_open_private_tab "Atvērt privātajā cilnē">
+<!ENTITY contextmenu_open_private_tab "Atvērt privātā cilnē">
 <!ENTITY contextmenu_open_in_reader "Atvērt lasītājā">
-<!ENTITY contextmenu_remove "Aizvākt">
+<!ENTITY contextmenu_remove "Izņemt">
 <!ENTITY contextmenu_add_to_launcher "Pievienot sākuma ekrānam">
 <!ENTITY contextmenu_share "Dalīties">
 <!ENTITY contextmenu_pasteandgo "Ielīmēt un atvērt">
@@ -247,47 +247,47 @@ size. -->
 <!ENTITY contextmenu_subscribe "Pierakstīties uz lapu">
 <!ENTITY contextmenu_site_settings "Rediģēt lapas iestatījumus">
 <!ENTITY contextmenu_top_sites_edit "Rediģēt">
-<!ENTITY contextmenu_top_sites_pin "Pielīmēt lapu">
-<!ENTITY contextmenu_top_sites_unpin "Aizvākt lapu">
+<!ENTITY contextmenu_top_sites_pin "Piespraust lapu">
+<!ENTITY contextmenu_top_sites_unpin "Izņemt lapu">
 <!ENTITY contextmenu_add_search_engine "Pievienot meklētāju">
 
 <!ENTITY pref_titlebar_mode "Virsraksta josla">
-<!ENTITY pref_titlebar_mode_title "Rādī lapas virsrakstu">
+<!ENTITY pref_titlebar_mode_title "Rādīt lapas virsrakstu">
 <!ENTITY pref_titlebar_mode_url "Rādīt lapas adresi">
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar "Ritināt virsraksta joslu">
 
-<!ENTITY history_removed "Lapa aizvākta">
+<!ENTITY history_removed "Lapa izņemta">
 
 <!ENTITY bookmark_edit_title "Grāmatzīmes rediģēšana">
 <!ENTITY bookmark_edit_name "Nosaukums">
 <!ENTITY bookmark_edit_location "Adrese">
-<!ENTITY bookmark_edit_keyword "Atslēgas vārdi">
+<!ENTITY bookmark_edit_keyword "Atslēgvārdi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Lapas iestatījumi">
 <!ENTITY site_settings_cancel       "Atcelt">
 <!ENTITY site_settings_clear        "Notīrīt">
-<!ENTITY site_settings_no_settings  "Nav iestatījumu ko notīrīt.">
+<!ENTITY site_settings_no_settings  "Nav iestatījumu, ko notīrīt.">
 
-<!ENTITY reading_list_added "Lapa pievienot lasīšanas sarakstam">
-<!ENTITY reading_list_removed "Lapa aizvākta no lasīšanas saraksta">
-<!ENTITY reading_list_failed "Neizdevās pielikt lapu lasīšanas sarakstam">
+<!ENTITY reading_list_added "Lapa pievienota lasīšanas sarakstam">
+<!ENTITY reading_list_removed "Lapa izņemta no lasīšanas saraksta">
+<!ENTITY reading_list_failed "Neizdevās pievienot lapu lasīšanas sarakstam">
 <!ENTITY reading_list_duplicate "Lapa jau ir jūsu lasīšanas sarakstā">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Additional Actions">
+<!ENTITY page_action_dropmarker_description "Papildu darbības">
 
 <!ENTITY masterpassword_create_title "Izveidot galveno paroli">
-<!ENTITY masterpassword_remove_title "Aizvākt galveno paroli">
+<!ENTITY masterpassword_remove_title "Noņemt galveno paroli">
 <!ENTITY masterpassword_password "Parole">
 <!ENTITY masterpassword_confirm "Apstipriniet paroli">
 
-<!ENTITY button_ok "OK">
+<!ENTITY button_ok "Labi">
 <!ENTITY button_cancel "Atcelt">
 <!ENTITY button_yes "Jā">
 <!ENTITY button_no "Nē">
@@ -301,21 +301,21 @@ size. -->
 <!ENTITY home_top_sites_add "Pievienot lapu">
 
 <!ENTITY home_history_title "Vēsture">
-<!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes attēlojas te.">
+<!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes pārādās te.">
 <!ENTITY home_last_tabs_title "Cilnes no iepriekšējās reizes">
 <!ENTITY home_last_tabs_open "Atvērt visas cilnes no iepriekšējās reizes">
-<!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes attēlojas te.">
+<!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes pārādās te.">
 <!ENTITY home_most_recent_title "Nesenās">
-<!ENTITY home_most_recent_empty "Nesen aplūkotās mājas lapas attēlojas te.">
-<!ENTITY home_reading_list_empty "Vēlākai lasīšanai saglabātie raksti attēlojas te.">
+<!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes pārādās te.">
+<!ENTITY home_reading_list_empty "Vēlākai lasīšanai saglabātie raksti pārādās te.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Padoms: Saglabājiet rakstus vēlākai lasīšanai ilgi paturot &#37;I ikonu, kad tā parādās virsraksta joslā.">
+<!ENTITY home_reading_list_hint "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &#37;I ikonu, kad tā parādās virsraksta joslā.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
+<!ENTITY home_reading_list_hint_accessible "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot lasīšanas režīma pogu, kad tā parādās virsraksta joslā.">
 
 <!ENTITY pin_site_dialog_hint "Ievadiet meklējamo frāzi">
 
@@ -325,7 +325,7 @@ size. -->
 <!ENTITY filepicker_video_title "Izvēlieties vai ierakstiet video">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "Jūs esat pieslēdzies">
+<!ENTITY identity_connected_to "Ir savienojums ar">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -342,14 +342,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Šī lapa attēlo saturu, kas nav drošs.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; bloķēja nedrošo saturu.">
-<!ENTITY blocked_mixed_content_message_bottom "Lielākā daļā mājas lapu darbosies korekti arī kad šis saturs tiek bloķēts.">
+<!ENTITY blocked_mixed_content_message_bottom "Vairums lapu darbosies korekti arī tad, ja šis saturs ir bloķēts.">
 <!ENTITY learn_more "Uzzināt vairāk">
 <!ENTITY enable_protection "Aktivēt aizsardzību">
 <!ENTITY disable_protection "Deaktivēt aizsardzību">
 <!ENTITY keep_blocking "Turpināt bloķēt">
 
 <!ENTITY private_data_success "Privātie dati ir notīrīti">
-<!ENTITY private_data_fail "Dažus privātos datus nevar notīrīt">
+<!ENTITY private_data_fail "Dažus privātos datus neizdevās notīrīt">
 
 <!ENTITY bookmarkhistory_button_import "Importēt">
 <!ENTITY bookmarkhistory_import_both "Importē grāmatzīmes un vēsturi
@@ -358,7 +358,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            no Android">
 <!ENTITY bookmarkhistory_import_history "Importē vēsturi
                                          no Android">
-<!ENTITY bookmarkhistory_import_wait "Lūdzu uzgaidiet...">
+<!ENTITY bookmarkhistory_import_wait "Lūdzu, uzgaidiet...">
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
@@ -367,9 +367,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-<!ENTITY suggestion_for_engine "Meklējam &formatS1; frāzi &formatS2;">
+<!ENTITY suggestion_for_engine "Meklē &formatS1; frāzi &formatS2;">
 
-<!ENTITY webapp_generic_name "Aplikācija">
+<!ENTITY webapp_generic_name "Lietotne">
 
 <!ENTITY searchable_description "Grāmatzīmes un vēsture">
 
@@ -377,12 +377,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Ir pieejams &brandShortName; atjauninājums">
-<!ENTITY updater_start_select2 "Pieskarieties te, lai lejupielādētu">
+<!ENTITY updater_start_select2 "Pieskarieties, lai lejupielādētu">
 
 <!ENTITY updater_downloading_title2 "Lejupielādē &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Lejupielāde neizdevās">
-<!ENTITY updater_downloading_select2 "Pieskarieties te, lai veiktu atjaunināšanu, pēc lejupielādes pabeigšanās">
-<!ENTITY updater_downloading_retry2 "Pieskarieties te, lai atkārtotu">
+<!ENTITY updater_downloading_select2 "Pieskarieties te, lai veiktu atjaunināšanu uzreiz pēc lejupielādes">
+<!ENTITY updater_downloading_retry2 "Pieskarieties te, lai mēģinātu vēlreiz">
 
 <!ENTITY updater_apply_title2 "Ir pieejams &brandShortName; atjauninājums">
 <!ENTITY updater_apply_select2 "Pieskarieties te, lai atjauninātu">
@@ -393,12 +393,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Turpināt">
 <!ENTITY guest_session_dialog_cancel "Atcelt">
 <!ENTITY new_guest_session_title "&brandShortName; tagad pārstartēsies">
-<!ENTITY new_guest_session_text "Cilvēks, kas to izmantos nevarēs redzēt jūsu pārlūkošanas datus (piemēram paroles, vēsturi un grāmatzīmes).\n\nKAd jūšu viesis būs beidzis darbu, viņa pārlūkošanas dati tiks izdzēsti un tiks atjaunota jūsu sesija.">
+<!ENTITY new_guest_session_text "Cilvēks, kas to izmantos, nevarēs redzēt jūsu pārlūkošanas datus (piemēram paroles, vēsturi un grāmatzīmes).\n\nKad jūsu viesis būs beidzis darbu, viņa pārlūkošanas dati tiks dzēsti, un tiks atjaunota jūsu sesija.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; tagad pārstartēsies">
 <!ENTITY exit_guest_session_text "Šīs sesijas pārlūkošanas dati tiks izdzēsti.">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-<!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "Done">
+<!ENTITY actionbar_menu "Izvēlne">
+<!ENTITY actionbar_done "Darīts">

@@ -9,20 +9,20 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Pieslēgties &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label 'Savienoties ar &syncBrand.shortName.label;'>
 <!ENTITY sync.title.adddevice.label 'Pievienot &syncBrand.fullName.label; kontu'>
-<!ENTITY sync.title.pair.label 'Pievienot ierīci'>
+<!ENTITY sync.title.pair.label 'Sapārot ierīci'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Lai aktivizētu jauno ierīci, izvēlieties “Iestatīt &syncBrand.shortName.label;” otrā ierīcē.'>
 <!ENTITY sync.subtitle.header2.label 'Ievadiet šo kodu otrā ierīcē'>
 <!ENTITY sync.subtitle.connectlocation2.label 'Izvēlieties “&sync.title.pair.label;” otras ierīces Firefox iestatījumu sadaļā &syncBrand.shortName.label;.'>
-<!ENTITY sync.subtitle.pair.label 'Lai aktivētu, izvēlieties “Pievienot ierīci” otrā ierīcē.'>
+<!ENTITY sync.subtitle.pair.label 'Lai aktivētu, izvēlieties “Sapārot ierīci” otrā ierīcē.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Parādiet kā.'>
-<!ENTITY sync.link.advancedsetup.label 'Papildus iestatījumi…'>
-<!ENTITY sync.link.nodevice.label 'Ierīce šobrīd nav ar mani…'>
+<!ENTITY sync.link.show.label 'Atvērt pamācību.'>
+<!ENTITY sync.link.advancedsetup.label 'Papildu iestatījumi…'>
+<!ENTITY sync.link.nodevice.label 'Ierīce man šobrīd nav līdzi…'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Gaida otru ierīci…'>
@@ -37,26 +37,26 @@
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Nevar iestatīt &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nevar pieslēgties serverim. Vai gribat mēģināt vēlreiz?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nevar savienoties ar serveri. Vai vēlaties mēģināt vēlreiz?'>
 <!ENTITY sync.button.tryagain.label 'Mēģināt vēlreiz'>
 <!ENTITY sync.button.manual.label 'Manuālā iestatīšana'>
 <!ENTITY sync.subtitle.nointernet.label 'Nav interneta savienojuma.'>
-<!ENTITY sync.subtitle.failaccount.label 'Neizdevās izveidot kontu Jūsu ierīcē.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Vai jums ir uzinstalēta vairāk kā viena Firefox versija? Šobrīd &syncBrand.fullName.label; atbalsta tikai vienu Firefox versiju. Lūdzu atinstalējiet citas versijas, lai varētu izmantot &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failaccount.label 'Neizdevās izveidot kontu jūsu ierīcē.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Vai jums ir uzinstalēta vairāk kā viena Firefox versija? Šobrīd &syncBrand.fullName.label; atbalsta tikai vienu Firefox versiju. Lūdzu, atinstalējiet citas versijas, lai varētu izmantot &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Iestatīšana pabeigta'>
-<!ENTITY sync.subtitle.success.label1 'Jūsu dati šobrīd tiek ielādēti. Varat iet uz Iestatījumiem, lai pārvaldītu savus kontus vai vienkārši turpiniet lietot &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Jūsu dati šobrīd tiek ielādēti. Varat atvērt iestatījumus, lai pārvaldītu savus kontus, vai vienkārši turpiniet lietot &brandShortName;.'>
 <!ENTITY sync.settings.label 'Iestatījumi'>
-<!ENTITY sync.subtitle.manage.label1 'Jūsu &syncBrand.fullName.label; konts jau ir iestatīts. Lai pārvaldītu to ejiet uz Iestatījumiem vai vienkārši palaidiet &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 'Jūsu &syncBrand.fullName.label; konts jau ir iestatīts. Lai to pārvaldītu, atveriet iestatījumus, vai vienkārši palaidiet &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Lūdzu mēģiniet vēlreiz.'>
+<!ENTITY sync.pair.tryagain.label 'Lūdzu, mēģiniet vēlreiz.'>
 <!ENTITY sync.pair.connectlocation.label 'Lai aktivētu jauno ierīci, izvēlieties “Iestatīt &syncBrand.shortName.label;” ierīcē un izvēlieties  “Man jau ir konts.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Iestatījumi'>
-<!ENTITY sync.summary.pair.label 'Piesaistī vēl vienu ierīci &syncBrand.shortName.label; kontam'>
+<!ENTITY sync.summary.pair.label 'Piesaistīt vēl vienu ierīci &syncBrand.shortName.label; kontam'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label 'Ko sinhronizēt'>
@@ -68,8 +68,8 @@
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Atcelt'>
-<!ENTITY sync.button.connect.label 'Pieslēgties'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.connect.label 'Savienoties'>
+<!ENTITY sync.button.ok.label 'Labi'>
 
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (novecojis)'>
@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label 'Mobilās grāmatzīmes'>
 <!ENTITY bookmarks.folder.readinglist.label 'Lasīšanas saraksts'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pielīmētās'>
+<!ENTITY bookmarks.folder.pinned.label 'Piespraustās'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Tikai viens &syncBrand.fullName.label; konts ir atbalstīts.'>
@@ -92,32 +92,32 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Nepareizs konta nosaukums vai parole.'>
-<!ENTITY sync.invalidserver.label 'Lūdzu pārbaudiet servera adresi'>
+<!ENTITY sync.invalidserver.label 'Lūdzu, pārbaudiet servera adresi'>
 <!ENTITY sync.verifying.label 'Notiek pārbaude…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Atgūšanas atslēga nav derīga. Lūdzu mēģiniet vēlreiz.'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Atgūšanas atslēga nav derīga. Lūdzu, mēģiniet vēlreiz.'>
 
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Nosūtīt cilni ierīcēm'>
 <!ENTITY sync.button.send.label 'Nosūtīt'>
 <!ENTITY sync.button.set.up.sync.label 'Iestatīt &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Iestatīt &syncBrand.shortName.label; lai nosūtītu cilnes'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Iestatīt &syncBrand.shortName.label;, lai nosūtītu cilnes'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Iestatīt &syncBrand.fullName.label; ierīcē, lai nosūtītu cilnes citām ierīcēm.'>
-<!ENTITY sync.text.tab.sent.label 'Cilne veiksmīgi nosūtīta!'>
-<!ENTITY sync.text.tab.not.sent.label 'Kļūda sūtot cilni.'>
+<!ENTITY sync.text.tab.sent.label 'Cilne sekmīgi nosūtīta!'>
+<!ENTITY sync.text.tab.not.sent.label 'Sūtot cilni, gadījās kļūda.'>
 
 <!-- Firefox account strings. -->
 
 <!-- Localization note: these describe icons and graphics, and are
      consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts checkbox graphic'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox accounts icon'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox accounts introduction graphics'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox accounts envelope graphic'>
+<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox kontu atzīmes rūtiņas grafika'>
+<!ENTITY fxaccount_icon_contentDescription2 'Firefox kontu ikona'>
+<!ENTITY fxaccount_intro_contentDescription2 'Firefox kontu ievada grafika'>
+<!ENTITY fxaccount_mail_contentDescription2 'Firefox kontu aploksnes grafika'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-<!ENTITY fxaccount_email_hint 'Epasts'>
+<!ENTITY fxaccount_email_hint 'E-pasts'>
 <!ENTITY fxaccount_password_hint 'Parole'>
 <!ENTITY fxaccount_password_hide 'Paslēpt'>
 <!ENTITY fxaccount_password_show 'Parādīt'>
@@ -125,14 +125,14 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Atpakaļ uz pārlūkošanu'>
+<!ENTITY fxaccount_back_to_browsing 'Turpināt pārlūkošanu'>
 
 <!ENTITY fxaccount_policy_linktos 'Lietošanas noteikumi'>
 <!ENTITY fxaccount_policy_linkprivacy 'Privātuma atruna'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Esiet sveicināti &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Pieslēdzieties, lai sinhronizētu cilnes, grāmatzīmes, paroles un citas lietas.'>
-<!ENTITY fxaccount_getting_started_get_started 'Ar ko sākt'>
+<!ENTITY fxaccount_getting_started_description 'Ierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles u.c.'>
+<!ENTITY fxaccount_getting_started_get_started 'Sākt'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Izmantojat vecāku &syncBrand.shortName.label; versiju?'>
 
 <!-- Localization note: the Firefox below should not change with the
@@ -145,40 +145,40 @@
 <!ENTITY fxaccount_create_account_policy_text 'Turpinot, es piekrītu Firefox pakalpojumu &formatS1; un &formatS2;.'>
 <!ENTITY fxaccount_create_account_button 'Turpināt'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Izvēlieties, ko sinhronizēt'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Jums jau ir konts? Pieslēdzieties'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Jums jau ir konts? Ierakstieties'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 vai agrāk'>
-<!ENTITY fxaccount_create_account_unknown_error 'Nevar izveidot kontu'>
+<!ENTITY fxaccount_create_account_unknown_error 'Neizdevās izveidot kontu'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nevar izveidot kontu'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Kontu izveide ir pieejama tikai cilvēkiem zināmā vecumā.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Kontu izveide ir pieejama tikai cilvēkiem noteiktā vecumā.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Uzzināt vairāk'>
 
 <!ENTITY fxaccount_confirm_account_header 'Apstipriniet kontu'>
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Apstiprinājuma saite ir nosūtīta uz &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Nosūtī vēlreiz'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Apstiprinājuma epasts ir nosūtīs'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nevar nosūtīt apstiprinājuma epastu'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Nosūtīt vēlreiz'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Apstiprinājuma e-pasts ir nosūtīts'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Neizdevās nosūtīt apstiprinājuma e-pastu'>
 
-<!ENTITY fxaccount_sign_in_sub_header 'Pieslēgties'>
-<!ENTITY fxaccount_sign_in_button_label 'Pieslēgties'>
+<!ENTITY fxaccount_sign_in_sub_header 'Ierakstieties'>
+<!ENTITY fxaccount_sign_in_button_label 'Ierakstīties'>
 <!ENTITY fxaccount_sign_in_forgot_password 'Aizmirsāt paroli?'>
 <!ENTITY fxaccount_sign_in_create_account_instead 'Izveidot kontu'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Nevar pieslēgties'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Neizdevās ierakstīties'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'Konts ir apstiprināts'>
-<!ENTITY fxaccount_account_verified_description2 'Jūsu dati sāks sinhronizēties jau pēc mirkļa.'>
+<!ENTITY fxaccount_account_verified_description2 'Jūsu dati tūlīt tiks sinhronizēti.'>
 
-<!ENTITY fxaccount_update_credentials_header 'Pieslēgties'>
-<!ENTITY fxaccount_update_credentials_button_label 'Pieslēgties'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Nevar pieslēgties'>
+<!ENTITY fxaccount_update_credentials_header 'Ierakstieties'>
+<!ENTITY fxaccount_update_credentials_button_label 'Ierakstīties'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Neizdevās ierakstīties'>
 
 <!ENTITY fxaccount_status_header 'Firefox konts'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktivēts'>
-<!ENTITY fxaccount_status_needs_verification2 'Jūsu kontu ir jāapstiprina. Pieskarieties te, lai nosūtītu atkārtoti nosūtītu apstiprinājuma epastu.'>
-<!ENTITY fxaccount_status_needs_credentials 'Nevar savienoties. Pieskarieties te, lai pieslēgtos.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Nepieciešams &brandShortName; atjauninājums, pieskarieties, lai pieslēgtos.'>
+<!ENTITY fxaccount_status_needs_verification2 'Jūsu konts ir jāapstiprina. Pieskarieties te, lai atkārtoti nosūtītu apstiprinājuma e-pastu.'>
+<!ENTITY fxaccount_status_needs_credentials 'Nevar savienoties. Pieskarieties te, lai ierakstītos.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Nepieciešams &brandShortName; atjauninājums, lai ierakstītos.'>
 <!ENTITY fxaccount_status_bookmarks 'Grāmatzīmes'>
 <!ENTITY fxaccount_status_history 'Vēsture'>
 <!ENTITY fxaccount_status_passwords 'Paroles'>
@@ -204,15 +204,15 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konts jau eksistē. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nederīgs epasts vai parole'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nederīgs epasts vai parole'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nederīgs e-pasts vai parole'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nederīgs e-pasts vai parole'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konts nav apstiprināts'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveris pārslogots, mēģiniet vēlreiz pēc mirkļa'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveris pārslogots, mēģiniet vēlreiz pēc mirkļa'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveris pārslogots, mēģiniet vēlreiz pēc brīža'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveris pārslogots, mēģiniet vēlreiz pēc brīža'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Radusies problēma'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nevar pieslēgties tīklam'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nevar savienoties ar tīklu'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nav pieslēgts'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nav savienots'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Pieskarieties te, lai pieslēgtos ar &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Pieskarieties te, lai ierakstītos kā &formatS;'>
