@@ -102,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "E">
 <!ENTITY  event.menu.options.attendees.label                  "Teilnehmer einladen…">
 <!ENTITY  event.menu.options.attendees.accesskey              "T">
-<!ENTITY  event.menu.options.spellcheck.label                 "Rechtschreibprüfung…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "R">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Sofort-Rechtschreibprüfung">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Link hinzufügen…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "Zeitzonen anzeigen">
 <!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Priorität">
@@ -146,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Speichern und schließen">
 <!ENTITY  event.toolbar.delete.label                      "Löschen">
 <!ENTITY  event.toolbar.attendees.label                   "Teilnehmer einladen">
-<!ENTITY  event.toolbar.spellcheck.label                  "Rechtschreibprüfung">
 <!ENTITY  event.toolbar.privacy.label                     "Privatsphäre">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Speichern und schließen">
 <!ENTITY  event.toolbar.delete.tooltip                    "Löschen">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Teilnehmer einladen">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Rechtschreibprüfung">
 <!ENTITY  event.toolbar.attachments.tooltip               "Anhänge anfügen">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Privatsphäre ändern">
 <!ENTITY  event.toolbar.priority.tooltip                  "Priorität ändern">
@@ -167,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategorie:">
 <!ENTITY event.categories.accesskey                       "i">
 <!ENTITY event.categories.textbox.label                   "Neue Kategorie anlegen">
-<!ENTITY event.categories.textbox.accesskey               "N">
 <!ENTITY event.calendar.label                             "Kalender:">
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Teilnehmer:">
@@ -379,5 +370,4 @@
 <!ENTITY read.only.reminder.label        "Alarm:">
 <!ENTITY read.only.attendees.label       "Teilnehmer">
 <!ENTITY read.only.description.label     "Beschreibung">
-<!ENTITY read.only.documents.label       "Dokumente">
 <!ENTITY read.only.link.label            "Zugehöriger Link">

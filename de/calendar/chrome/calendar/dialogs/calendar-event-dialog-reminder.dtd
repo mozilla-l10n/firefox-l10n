@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Erinnerungsdetails">
 <!ENTITY reminder.action.label                             "Erinnerungsfunktion auswählen">
 
-<!ENTITY reminder.relation.before.label                    "bevor" >
-<!ENTITY reminder.relation.after.label                     "nachdem" >
-
 <!ENTITY reminder.action.alert.label                       "Alarm anzeigen">
 <!ENTITY reminder.action.email.label                       "E-Mail senden">
 
