@@ -97,9 +97,9 @@
 <!ENTITY pref_header_devtools "Herramientas de desarrollador">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_accept_all "Habilitado">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
+<!ENTITY pref_cookies_disabled "Deshabilitado">
 
 <!ENTITY pref_donottrack_menu "Rastreo">
 <!ENTITY pref_donottrack_disallow_tracking "Decir a los sitios Web que no deseo ser rastreado">
@@ -207,25 +207,25 @@ size. -->
 <!ENTITY share "Share">
 <!ENTITY share_title "Share via">
 <!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
+<!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY tools "Tools">
-<!ENTITY new_tab "New Tab">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tools "Herramientas">
+<!ENTITY new_tab "Nueva pestaña">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY tabs_normal "Pestañas">
-<!ENTITY tabs_private "Private">
+<!ENTITY tabs_private "Privada">
 <!ENTITY tabs_synced "Synced">
 <!ENTITY set_image_fail "No se puede colocar la imagen">
 <!ENTITY set_image_chooser_title "Establece imagen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Find in Page">
+<!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
-<!ENTITY find_close "Close">
+<!ENTITY find_close "Cerrar">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -234,12 +234,12 @@ size. -->
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Detener">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_new_tab "Abrir en una nueva pestaña">
+<!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Open in Reader">
 <!ENTITY contextmenu_remove "Eliminar">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
+<!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
+<!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copy Address">
@@ -259,43 +259,43 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar "Desplazar barra de título">
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY history_removed "Página eliminada">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
-<!ENTITY bookmark_edit_location "Location">
+<!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Configuración del sitio">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "Limpiar">
+<!ENTITY site_settings_no_settings  "No hay configuraciones para limpiar.">
 
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list_added "Página añadida a tu lista de lectura">
+<!ENTITY reading_list_removed "Página eliminada de tu lista de lectura">
+<!ENTITY reading_list_failed "Ha fallado la adición de esta página a tu lista de lectura">
 <!ENTITY reading_list_duplicate "Página agregada a tu Lista de lectura">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
 <!ENTITY page_action_dropmarker_description "Acciones Adicionales">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_confirm "Confirmar contraseña">
 
 <!ENTITY button_ok "Aceptar">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "Cancelar">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_clear "Limpiar">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "Sitios frecuentes">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Añadir al sitio">
@@ -303,7 +303,7 @@ size. -->
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_bookmarks_empty "Los marcadores que salvaste se mostrarán aquí.">
 <!ENTITY home_last_tabs_title "Pestañas de la última vez">
-<!ENTITY home_last_tabs_open "Open all tabs from last time">
+<!ENTITY home_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_most_recent_title "Más recientes">
 <!ENTITY home_most_recent_empty "Los sitios Web que visitaste recientemente se mostrarán aquí.">
@@ -319,10 +319,10 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "Elegir archivo">
+<!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
+<!ENTITY filepicker_image_title "Elegir o tomar una foto">
+<!ENTITY filepicker_video_title "Elegir o grabar un video">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "Estás conectado a">
@@ -348,44 +348,44 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Desactivar protección">
 <!ENTITY keep_blocking "Mantener bloqueado">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "Datos privados limpiados">
+<!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history 
-from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks 
-from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history 
-from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importar marcadores e historial 
+desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importar marcadores 
+desde Android">
+<!ENTITY bookmarkhistory_import_history "Importar historial 
+desde Android">
+<!ENTITY bookmarkhistory_import_wait "Por favor, espera…">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "¿Te gustaría activar las sugerencias de búsqueda de &formatS;?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
 <!ENTITY suggestion_for_engine "Buscar &formatS1; para &formatS2;">
 
-<!ENTITY webapp_generic_name "App">
+<!ENTITY webapp_generic_name "Aplicación">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "Marcadores e historial">
 
 <!ENTITY devtools_remote_debugging_forward "¡No olvides configurar el reenvío de puertos!">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
+<!ENTITY updater_start_select2 "Toca para descargar">
 
 <!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_title_failed2 "La descarga ha fallado">
+<!ENTITY updater_downloading_select2 "Toca para aplicar la actualización una vez descargada">
+<!ENTITY updater_downloading_retry2 "Toca para reintentar">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
+<!ENTITY updater_apply_select2 "Toca para actualizar">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nueva sesión de invitado">
@@ -401,4 +401,4 @@ from Android">
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menú">
-<!ENTITY actionbar_done "Done">
+<!ENTITY actionbar_done "Hecho">
