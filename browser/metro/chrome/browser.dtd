@@ -3,21 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
+
+<!ENTITY urlbar.emptytext      "Picar un tèrme de recercar o una adreça">
+
 <!ENTITY back.label            "Precedent">
 <!ENTITY forward.label         "Seguent">
 <!ENTITY newtab.label          "Onglet novèl">
-
+<!ENTITY newPrivateTab.label   "Novèl onglet de nav. privada">
 <!ENTITY closetab.label        "Tampar l'onglet">
 
 <!ENTITY autocompleteResultsHeader.label  "Vòstres resultats">
 
 <!ENTITY appbarErrorConsole.label      "Dobrir la consòla d'errors">
-
+<!ENTITY appbarJSShell.label           "Dobrir JavaScript Shell">
 <!ENTITY appbarFindInPage2.label       "Recercar dins la pagina">
-
-
+<!ENTITY appbarRelaunchInDesktop.label "Tornar dobrir sul Burèu">
+<!ENTITY appbarMSMetaData2.label       "Obténer l'aplicacion d'aqueste site">
 <!ENTITY appbarViewPageSource.label    "Visualizar lo còde font de la pagina">
 
+<!ENTITY topSitesHeader.label        "Sites favorits">
 <!ENTITY bookmarksHeader.label       "Marcapaginas">
 <!ENTITY recentHistoryHeader.label   "Istoric recent">
 <!ENTITY remoteTabsHeader.label      "Onglets d'autres aparelhs">
@@ -28,9 +32,11 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
+
+<!ENTITY narrowTopSitesHeader.label      "Sites favorits">
 <!ENTITY narrowBookmarksHeader.label     "Marcapaginas">
 <!ENTITY narrowRecentHistoryHeader.label "Istoric recent">
-
+<!ENTITY narrowRemoteTabsHeader.label    "Onglets distants">
 
 <!ENTITY downloadsHeader.label     "Telecargaments">
 <!ENTITY downloadShowPage.label    "Anar a la pagina">
@@ -44,6 +50,7 @@
 <!ENTITY downloadDelete.label      "Suprimir">
 <!ENTITY downloadFailed.label      "Pas capitat">
 
+<!ENTITY allBookmarks.label        "Afichar totes los marcapaginas">
 
 <!ENTITY consoleHeader.label       "Consòla d'errors">
 <!ENTITY consoleAll.label          "Tot">
@@ -52,7 +59,7 @@
 <!ENTITY consoleMessages.label     "Messatges">
 <!ENTITY consoleCodeEval.label     "Còde :">
 <!ENTITY consoleClear.label        "Voidar la consòla">
-
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fichier font :">
 <!ENTITY consoleErrLine.label      "Linha :">
 <!ENTITY consoleErrColumn.label    "Colomna :">
@@ -62,39 +69,49 @@
 <!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Pegar e anar">
 <!ENTITY contextTextSelect.label           "Seleccionar">
 <!ENTITY contextTextSelectAll.label        "Seleccionar tot">
 <!-- LINK CONTEXT MENU -->
 
 <!ENTITY contextOpenLinkTab.label          "Dobrir lo ligam dins un onglet novèl">
-
-
+<!ENTITY contextCopyLinkHref.label         "Copiar lo ligam">
+<!ENTITY contextBookmarkLinkHref.label     "Ligam de marcapagina">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+
+<!ENTITY contextSaveImageLib.label         "Enregistrar dins la galariá d'imatges">
 <!ENTITY contextCopyImage.label            "Copiar l'imatge">
 <!ENTITY contextCopyImageLocation.label    "Copiar l'adreça de l'imatge">
 <!ENTITY contextOpenImageTab.label         "Dobrir l'imatge dins un onglet novèl">
 <!-- VIDEO CONTEXT MENU -->
+
+<!ENTITY contextSaveVideoLib.label         "Enregistrar dins la galariá vidèo">
 <!ENTITY contextCopyVideoLocation.label    "Copiar l'emplaçament vidèo">
 <!ENTITY contextOpenVideoTab.label         "Dobrir la vidèo dins un onglet novèl">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -106,8 +123,10 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
+<!ENTITY firstRunTabs.label "Cercatz vòstres onglets ? Tiratz lo naut de l'ecran o fasètz un clic drech">
+<!ENTITY firstRunTopSites.label "Percorrètz vòstres sites los mai visitats">
+<!ENTITY firstRunBookmarks.label "Retrobatz vòstras paginas enregistradas per mai tard">
+<!ENTITY firstRunMenu.label "Accedissètz a d'autras foncionalitats e opcions">
 
 
 
@@ -124,6 +143,8 @@
        https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
        -->
 
-
-
+<!ENTITY firstRunBack.label "Quichatz per tornar a la pagina precedenta">
+<!ENTITY firstRunNewTab.label "Apondètz un onglet novèl per explorar un site novèl">
+<!ENTITY firstRunStar.label "Utilizatz de marcapaginas per metre de costat de paginas per mai tard">
+<!ENTITY firstRunPin.label "Espingolatz de sites a l'ecran d'acuèlh de Windows per un accès rapid">
 <!ENTITY firstRunGotIt.label "Ai comprés !">

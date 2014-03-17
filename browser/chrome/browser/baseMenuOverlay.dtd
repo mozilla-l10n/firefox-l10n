@@ -44,7 +44,7 @@
 <!ENTITY servicesMenuMac.label          "Servicis">
 
 <!ENTITY hideThisAppCmdMac.label        "Amagar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "Amagar &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

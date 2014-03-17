@@ -11,10 +11,18 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• Clicatz sul">
+<!ENTITY netmonitorUI.perfNotice2         "boton per aviar l'analisi de las performàncias.">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
+
+<!ENTITY netmonitorUI.emptyNotice3        "• Efectuatz una requèsta o recargatz la pagina per veire d'informacions detalhadas a prepaus de l'activitat de la ret.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -37,6 +45,8 @@
 <!ENTITY netmonitorUI.toolbar.size        "Talha">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
+
+<!ENTITY netmonitorUI.toolbar.waterfall   "Cronologia">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
@@ -55,6 +65,8 @@
 <!ENTITY netmonitorUI.tab.response        "Responsa">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
+
+<!ENTITY netmonitorUI.tab.timings         "Minutatges">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 

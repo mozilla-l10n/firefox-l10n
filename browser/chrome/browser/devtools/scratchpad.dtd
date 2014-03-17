@@ -65,6 +65,7 @@
 <!ENTITY display.accesskey            "A">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Formatar e indentar">
 <!ENTITY pprint.key                   "p">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -123,4 +124,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "Evaluar la foncion correnta">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
