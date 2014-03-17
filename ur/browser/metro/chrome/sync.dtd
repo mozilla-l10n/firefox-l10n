@@ -12,7 +12,7 @@
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label;  قائم کریں">
 <!ENTITY sync.flyout.setup.description1        "اگر آپ کے پاس &syncBrand.shortName.label; اکاؤنٹ ہے،آپنے دیگر آلہ پر &quot;آلے کے ساتھ جوڑی بنائیں&quot; منتخب کریں اور یہ کوڈ داخل کریں.  ">
-
+<!ENTITY sync.flyout.setup.description2        "اگر آپ کے پاس &syncBrand.shortName.label; اکاؤنٹ نہیں ہے، تو آپ اپنے &brandShortName; ڈیسک ٹاپ براؤزر پر ایک بنا سکتے ہیں۔">
 <!ENTITY sync.flyout.setup.manual.label_2      "میں &apos; کمپیوٹر کے پاس نہیں ہوں۔۔۔">
 <!ENTITY sync.flyout.setup.description3        "نوٹ">
 <!ENTITY sync.flyout.setup.description4_2      "ڈھونڈیں &quot;آلہ جوڑا کریں&quot;،">
@@ -27,7 +27,7 @@
 <!ENTITY sync.flyout.manualsetup.connect.label           "جڑیں">
 <!-- Flyout when user has just connected -->
 
-<!ENTITY sync.flyout.setupsuccess.description1      "آپ نے جڑا کیا brandShortName سے &syncBrand.shortName.label; اکاؤنٹ تک">
+<!ENTITY sync.flyout.setupsuccess.description1      "آپ نے ابھی &brandShortName; کو &syncBrand.shortName.label; لیبل سے جوڑا ہے">
 <!ENTITY sync.flyout.setupsuccess.description2      "آپ کا &syncBrand.shortName.label; کوائف اب پس منظر میں ڈاؤن لوڈ کیا گیا ہے. آپ کی ہم وقت ساز ٹیبیں &brandShortName; کے شروع کے صفحہ پر مل سکتی ہیں">
 <!-- Flyout when setup failed -->
 

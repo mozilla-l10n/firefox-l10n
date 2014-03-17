@@ -10,8 +10,8 @@
 
 <!ENTITY all.label          "تمام">
 <!ENTITY all.accesskey      "ت">
-
-
+<!ENTITY errors.label       "نقائص">
+<!ENTITY errors.accesskey   "ن">
 <!ENTITY warnings.label     "تنبیہیں">
 <!ENTITY warnings.accesskey "ت">
 <!ENTITY messages.label     "پیغامات">
@@ -22,8 +22,8 @@
 
 <!ENTITY evaluate.label     "جائزہ لیں">
 <!ENTITY evaluate.accesskey "ج">
-
-
+<!ENTITY filter2.label      "فلٹر:">
+<!ENTITY filter2.accesskey  "ف">
 
 <!ENTITY copyCmd.label       "نقل کریں">  
 <!ENTITY copyCmd.accesskey   "ن"> 

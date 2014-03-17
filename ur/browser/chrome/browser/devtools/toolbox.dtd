@@ -54,6 +54,8 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label     "جاوا سکرپٹ نااہل بنائیں *">
+
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->

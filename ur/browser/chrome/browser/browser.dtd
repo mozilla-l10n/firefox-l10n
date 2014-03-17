@@ -251,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 <!ENTITY browserToolboxMenu.label     "براوزر ٹول خانہ">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.accesskey "ر">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
@@ -684,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY customizeMode.tabTitle "brandShortName تخصیص کریں؛">
+<!ENTITY customizeMode.tabTitle "&brandShortName; تخصیص کریں">
 <!ENTITY customizeMode.menuAndToolbars.label "مینیو اور ٹول باریں">
 <!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
@@ -697,10 +697,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "بات چیت پر فوکس لائیں">
 <!ENTITY social.chatBar.accesskey "ف">
 
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "صفحہ محفوظ کریں ...">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "کڑی محفوظ کریں">
+<!ENTITY social.markpageMenu.accesskey "ص">
+<!ENTITY social.markpageMenu.label "صفحہ محفوظ کریں…">
+<!ENTITY social.marklinkMenu.accesskey "ر">
+<!ENTITY social.marklinkMenu.label "ربط محفوظ کریں بر…">
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">

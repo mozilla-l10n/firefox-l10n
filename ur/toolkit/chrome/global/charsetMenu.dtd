@@ -11,8 +11,8 @@
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "ک">
 
-<!ENTITY charsetMenuAutodet.off.label     "(آف کریں)">
-<!ENTITY charsetMenuAutodet.off.accesskey "آ">
+<!ENTITY charsetMenuAutodet.off.label     "(off)">
+<!ENTITY charsetMenuAutodet.off.accesskey "o">
 <!ENTITY charsetMenuAutodet.ja.label      "جاپانی">
 <!ENTITY charsetMenuAutodet.ja.accesskey  "ج">
 <!ENTITY charsetMenuAutodet.ru.label      "روسی">
