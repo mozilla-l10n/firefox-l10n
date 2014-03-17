@@ -445,7 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
 <!ENTITY emailPageCmd.label           "Jokkol Iimeel…">
 <!ENTITY emailPageCmd.accesskey       "J">
-
+<!ENTITY switchToMetroCmd.label       "Gollitin e pannol Windows 8 &brandShortName;">
 <!ENTITY savePageCmd.label            "Danndu Hello e Innde…">
 <!ENTITY savePageCmd.accesskey        "I">
 <!-- alternate for content area context menu -->
@@ -645,7 +645,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 
-<!ENTITY identity.help.tooltip "Hol no mbi'rat-mi so tawii ceŋagol am ena hisa">
+<!ENTITY identity.help.tooltip "Hol no mbi'rat-mi so tawii ceŋagol am ena hisa?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -698,9 +698,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "o">
 
 <!ENTITY social.markpageMenu.accesskey "H">
-<!ENTITY social.markpageMenu.label "Daɗndu Hello to">
+<!ENTITY social.markpageMenu.label "Daɗndu Hello to…">
 <!ENTITY social.marklinkMenu.accesskey "k">
-<!ENTITY social.marklinkMenu.label "Daɗndu Jokkol to">
+<!ENTITY social.marklinkMenu.label "Daɗndu Jokkol to…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -731,8 +731,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Tabbere yannde">
-<!ENTITY tabCrashed.message "Eh, ɗuum de ena haawnii. Min etiima hollirde ngoo hello, kono ngo jaɓaani">
-<!ENTITY tabCrashed.checkSendReport "Wi'i &vendorShortName; ko feewti e nguu njanngu haa feewta">
+<!ENTITY tabCrashed.message "Eh, ɗuum de ena haawnii. Min etiima hollirde ngoo hello, kono ngo jaɓaani.">
+<!ENTITY tabCrashed.checkSendReport "Wi'i &vendorShortName; ko feewti e nguu njanngu haa feewta.">
 <!ENTITY tabCrashed.tryAgain "Enndit">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
