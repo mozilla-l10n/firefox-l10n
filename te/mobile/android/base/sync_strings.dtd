@@ -35,8 +35,8 @@
 <!-- Setup Fail -->
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; సేవకికి అనుసంధానం అవలేకపోయింది. మళ్ళీ పయత్నిస్తారా?">
 <!ENTITY sync.button.tryagain.label "మరలా ప్రయత్నించు">
-
-
+<!ENTITY sync.button.manual.label "మానవీయ అమర్పు">
+<!ENTITY sync.subtitle.nointernet.label "అంతర్జాల అనుసంధానం అందుబాటులోలేదు.">
 <!ENTITY sync.subtitle.failaccount.label "మీ పరికరంలో ఖాతా సృష్టింపు విఫలమైంది.">
 
 <!-- Setup Success -->
@@ -71,13 +71,14 @@
 
 <!ENTITY bookmarks.folder.menu.label "ఇష్టాంశముల మోనూ">
 <!ENTITY bookmarks.folder.places.label ''>
-
+<!ENTITY bookmarks.folder.tags.label "ట్యాగులు">
 <!ENTITY bookmarks.folder.toolbar.label "ఇష్టాంశముల సాధనపట్టీ">
 <!ENTITY bookmarks.folder.unfiled.label "క్రమబద్దీకరించని యిష్టాంశములు">
 
 <!ENTITY bookmarks.folder.mobile.label "మొబైల్ యిష్టాంశములు">
 <!ENTITY bookmarks.folder.readinglist.label "చదివే జాబితా">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "పిన్‌చేసినవి">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "ఒక్క &syncBrand.fullName.label; ఖాతాకు మాత్రమే తోడ్పాటు ఉంది.">
@@ -90,20 +91,22 @@
 
 <!-- Send tab to device. -->
 <!ENTITY sync.button.send.label "పంపించు">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; అమర్పు">
 
 
 
-
-
+<!ENTITY sync.text.tab.not.sent.label "మీ ట్యాబును పంపడంలో ఏదో సమస్య ఉంది.">
 <!-- Firefox account strings. -->
 <!-- Localization note: these describe icons and graphics, and are
      consumed by assistive devices. -->
-
-
+<!ENTITY fxaccount_icon_contentDescription2 "ఫైర్‌ఫాక్స్ ఖాతాల ప్రతీకం">
+<!ENTITY fxaccount_intro_contentDescription2 "ఫైర్‌ఫాక్స్ ఖాతాల పరిచయ రేఖాచిత్రాలు">
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
+<!ENTITY fxaccount_email_hint "ఈమెయిలు">
 <!ENTITY fxaccount_password_hint "సంకేతపదం">
 <!ENTITY fxaccount_password_hide "దాచు">
 <!ENTITY fxaccount_password_show "చూపించు">
@@ -123,6 +126,8 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
+
+<!ENTITY fxaccount_create_account_header "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించుకోండి">
 <!ENTITY fxaccount_create_account_password_length_restriction "కనీసం 8 అక్షరాలు ఉండాలి">
 <!ENTITY fxaccount_create_account_year_of_birth "పుట్టిన సంవత్సరం">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -144,9 +149,10 @@
 
 
 <!ENTITY fxaccount_sign_in_forgot_password "సంకేతపదం మరచిపోయారా?">
+<!ENTITY fxaccount_sign_in_create_account_instead "ఒక ఖాతాను సృష్టించు">
 
 
-
+<!ENTITY fxaccount_account_verified_sub_header "ఖాతా నిర్ధారణ అయ్యింది">
 
 
 
@@ -155,14 +161,14 @@
 <!ENTITY fxaccount_status_header "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: చేతనం">
-
+<!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
 
 
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
 
-
+<!ENTITY fxaccount_status_legal "చట్టబద్ధం" >
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
 
@@ -178,14 +184,19 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "మీరు ఫైర్‌ఫాక్స్‌ను నవీకరించుకోవాలి">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "ఖాతా ఇప్పటికే ఉంది. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "చెల్లని ఈమెయిలు లేదా సంకేతపదం">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "చెల్లని ఈమెయిలు లేదా సంకేతపదం">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ఖాతా నిర్ధారణ కాలేదు">
 
 
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ఏదో సమస్య ఉంది">
 
 
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->

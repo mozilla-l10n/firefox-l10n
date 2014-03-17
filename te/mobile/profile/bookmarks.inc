@@ -49,9 +49,11 @@
 
 
 
+#define bookmarks_addons ఫైర్‌ఫాక్స్: ఆడాన్లతో తగినట్టు మలచుకోండి
+
+
 
 # LOCALIZATION NOTE (bookmarks_support):
-
 
 
 
@@ -59,9 +61,7 @@
 
 
 
-
 #define bookmarks_support ఫైర్‌ఫాక్స్: తోడ్పాటు
-
 
 
 
@@ -69,14 +69,11 @@
 
 
 
-
 # link title for https://marketplace.firefox.com
 
 
 
-
 #define bookmarks_marketplace ఫైర్‌ఫాక్స్ అంగడి
-
 
 
 
