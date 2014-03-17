@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "ಅನ್ವಯಗಳು">
+<!ENTITY aboutApps.header                          "ನಿಮ್ಮ ಅನ್ವಯಿಕಗಳು">
 
-
+<!ENTITY aboutApps.browseMarketplace "ಫೈರ್ ಫಾಕ್ಸ್ ಮಾರುಕಟ್ಟೆಯನ್ನು ಜಾಲಾಡಿ">
 
 <!ENTITY aboutApps.addToHomescreen "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
