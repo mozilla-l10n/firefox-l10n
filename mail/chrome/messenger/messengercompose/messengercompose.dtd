@@ -72,7 +72,7 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Պատճենել">
 <!ENTITY copyCmd.key "Պ">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "Պ">
 <!ENTITY pasteCmd.label "Տեղադրել">
 <!ENTITY pasteCmd.key "Տ">
 <!ENTITY pasteCmd.accesskey "p">
@@ -265,7 +265,7 @@
 <!ENTITY cut.label "Կտրել">
 <!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Պատճենել">
-<!ENTITY copy.accesskey "C">
+<!ENTITY copy.accesskey "Պ">
 <!ENTITY paste.label "Տեղադրել">
 <!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Տեղադրել որպես մեջբերում">

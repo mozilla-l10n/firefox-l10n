@@ -98,7 +98,7 @@
 <!ENTITY saveAllAttachmentsButton1.tooltip "Պահպանել բոլոր կցված ֆայլերը">
 
 <!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY copyLinkCmd.accesskey    "Պ">
 
 <!ENTITY CopyMessageId.label "Պատճենել նամակի ID-ին">
 <!ENTITY CopyMessageId.accesskey "Պ">
