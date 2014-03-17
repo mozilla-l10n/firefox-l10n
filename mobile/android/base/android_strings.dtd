@@ -48,7 +48,7 @@
 
 <!ENTITY go "వెళ్ళు">
 <!ENTITY search "వెతుకు">
-
+<!ENTITY reload "రీలోడుచెయ్యి">
 <!ENTITY forward "ముందుకు">
 <!ENTITY menu "మెనూ">
 <!ENTITY back "వెనుకకు">
@@ -60,7 +60,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ట్యాబులు">
-
+<!ENTITY new_tab_opened "కొత్త ట్యాబు తెరుచుకుంది">
 
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
@@ -72,20 +72,21 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
-
-
-
+<!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాలతను చేర్చండి">
+<!ENTITY pref_category_search_restore_defaults "సెర్చింజన్లను పునరుద్ధరించు">
+<!ENTITY pref_search_restore_defaults "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY pref_search_restore_defaults_summary "అప్రమేయాలను పునరుద్ధరించు">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
+<!ENTITY pref_search_tip "చిట్కా: ఏ వెబ్‌సైటునైనా శోధన ప్రదాతల జాబితాకు చేర్చడానికి ఆ సైటు వెతుకుడు పెట్టె దీన దీర్ఘంగా-నొక్కండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
-
+<!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_docs "మరింత తెలుసుకోండి">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
 
 <!ENTITY pref_category_home "ముంగిలి">
-
+<!ENTITY pref_category_home_panels "ప్యానెళ్ళు">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_display "ప్రదర్శన">
 <!ENTITY pref_header_privacy_short "గోప్యత">
@@ -94,13 +95,14 @@
 <!ENTITY pref_header_devtools "అభివృద్ధికారుల పనిముట్లు">
 
 <!ENTITY pref_cookies_menu "కుకీలు">
+<!ENTITY pref_cookies_accept_all "చేతనం">
+<!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
+<!ENTITY pref_cookies_disabled "అచేతనం">
 
-
-
-
+<!ENTITY pref_donottrack_menu "ట్రాకింగ్">
 <!ENTITY pref_donottrack_disallow_tracking "నా జాడ తెలుసుకోవద్దని సైట్లకు చెప్పు">
-
-
+<!ENTITY pref_donottrack_allow_tracking "నా జాడ తెలుసుకోమని సైట్లకు చెప్పు">
+<!ENTITY pref_donottrack_no_pref "నా ట్రాకింగ్ అభీష్టాల గురించి సైట్లకు ఏమీ చెప్పవద్దు">
 
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
@@ -136,7 +138,7 @@ size. -->
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
 <!ENTITY pref_private_data_history "విహరణ &amp; దింపుకోలు చరిత్ర">
-
+<!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
 
 <!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
 
@@ -158,9 +160,10 @@ size. -->
 <!ENTITY pref_panels_show "చూపించు">
 <!ENTITY pref_panels_hide "దాచు">
 
+<!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు &amp; భోగట్టా">
 <!ENTITY datareporting_notification_action_long "ఏయే సమాచారాన్ని పంచుకోవాలో ఎంచుకోండి">
 <!ENTITY datareporting_notification_action "ఏమేం పంచుకోవాలో ఎంచుకోండి">
-
+<!ENTITY datareporting_notification_summary "మీ అనుభవాన్ని మెరుగుపరచడానికి, కొంత సమాచారాన్ని &brandShortName; ఆటోమెటిగ్గా &vendorShortName;కు పంపిస్తుంది.">
 <!ENTITY datareporting_notification_summary_short "మీ ఆనుభవాన్ని మెరుగుపరచడానికి, &brandShortName;…">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -185,6 +188,8 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
+<!ENTITY pref_update_autodownload2 "నవీకరణలను ఆటోమెటిగ్గా దించుకో">
+<!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
 
@@ -195,6 +200,7 @@ size. -->
 <!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
+<!ENTITY share "పంచుకో">
 
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
@@ -202,8 +208,8 @@ size. -->
 
 <!ENTITY tools "పనిముట్లు">
 <!ENTITY new_tab "కొత్త ట్యాబ్">
-
-
+<!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
+<!ENTITY close_all_tabs "అన్ని ట్యాబులసు మూసివేయి">
 <!ENTITY tabs_normal "ట్యాబులు">
 <!ENTITY tabs_private "అంతరంగికం">
 
@@ -220,14 +226,15 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "ఆడు">
 
+<!ENTITY media_stop "ఆపు">
 
-
-
-
+<!ENTITY contextmenu_open_new_tab "కొత్త ట్యాబులో తెరువు">
+<!ENTITY contextmenu_open_private_tab "అంతరంగిక ట్యాబులో తెరువు">
+<!ENTITY contextmenu_open_in_reader "రీడరులో తెరువు">
 <!ENTITY contextmenu_remove "తొలగించు">
 <!ENTITY contextmenu_add_to_launcher "నివాస తెరకు జతచేయి">
-
-
+<!ENTITY contextmenu_share "పంచుకో">
+<!ENTITY contextmenu_pasteandgo "అతికించి &amp; వెళ్ళు">
 <!ENTITY contextmenu_paste "అతికించు">
 <!ENTITY contextmenu_copyurl "చిరునామాను కాపీచెయ్యి">
 <!ENTITY contextmenu_edit_bookmark "సరిచేయు">
@@ -245,6 +252,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 
+<!ENTITY bookmark_edit_title "ఇష్టాంశాన్ని సవరించు">
 <!ENTITY bookmark_edit_name "పేరు">
 <!ENTITY bookmark_edit_location "స్థానము">
 <!ENTITY bookmark_edit_keyword "కీపదం">
@@ -277,17 +285,19 @@ size. -->
 
 <!ENTITY button_clear "తుడిచివేయి">
 
+<!ENTITY home_top_sites_title "పై సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
 
 <!ENTITY home_history_title "చరిత్ర">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
-
-
-
-
-
-
+<!ENTITY home_last_tabs_title "చివరిసారి ట్యాబులు">
+<!ENTITY home_last_tabs_open "పోయినసారి తెరచివున్న ట్యాబులన్నీ తెరువు">
+<!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
+<!ENTITY home_most_recent_title "ఇటీవలివి">
+<!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
+<!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
@@ -315,12 +325,12 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ఏదైతే దీనిద్వారా నడుస్తుందో">
 <!-- Mixed content notifications in site identity popup -->
-
-
+<!ENTITY blocked_mixed_content_message_top "సురక్షితం కాని విషయాన్ని &brandShortName; నిరోధించింది.">
+<!ENTITY blocked_mixed_content_message_bottom "ఈ విషయాన్ని నిరోధించినా చాలా వెబ్‌సైట్లు సరిగానే పనిచేస్తాయి.">
 <!ENTITY learn_more "మరింతగా తెలుసుకో">
-
-
-
+<!ENTITY enable_protection "సంరక్షణను చేతనంచేయి">
+<!ENTITY disable_protection "సంరక్షణను ఆపివేయి">
+<!ENTITY keep_blocking "నిరోధిస్తూనేవుండు">
 
 
 
@@ -331,10 +341,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "దయచేసి వేచివుండండి… ">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "&formatS; వెతుకుడు సలహాలను చూపించమంటారా?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "&formatS2; కోసం &formatS1;‌‌లో వెతుకు">
+
+<!ENTITY webapp_generic_name "ఆప్">
 
 <!ENTITY searchable_description "ఇష్టాంశాలు మరియు చరిత్ర">
 
@@ -354,9 +369,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
+<!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 
 
-
+<!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
