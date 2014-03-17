@@ -260,6 +260,7 @@ size. -->
 
 <!ENTITY history_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 
+<!ENTITY bookmark_edit_title "ಪುಟ ಗುರುತನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY bookmark_edit_name "ಹೆಸರು">
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
@@ -267,9 +268,9 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "ತಾಣದ ಸಂಯೋಜನೆಗಳು">
-<!ENTITY site_settings_cancel       "ರದ್ದು ಮಾಡು">
+<!ENTITY site_settings_cancel       "ರದ್ದು">
 
-<!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಂಯೋಜನೆಗಳಿಲ್ಲ.">
+<!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
 
 <!ENTITY reading_list_added "ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ ಪುಟವನ್ನು ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.">
@@ -281,12 +282,12 @@ size. -->
 <!ENTITY page_action_dropmarker_description "ಹೆಚ್ಚುವರಿ ಕ್ರಿಯೆಗಳು">
 
 <!ENTITY masterpassword_create_title "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಸೃಷ್ಟಿಸಿ">
-<!ENTITY masterpassword_remove_title "ಮುಖ್ಯಗುಪ್ತಪದವನ್ನು ತೆಗೆದು ಹಾಕು">
+<!ENTITY masterpassword_remove_title "ಮುಖ್ಯಗುಪ್ತಪದವನ್ನು ತೆಗೆಯಿರಿ">
 <!ENTITY masterpassword_password "ಗುಪ್ತಪದ">
 
 
 <!ENTITY button_ok "ಸರಿ">
-
+<!ENTITY button_cancel "ರದ್ದು">
 <!ENTITY button_yes "ಹೌದು">
 <!ENTITY button_no "ಇಲ್ಲ">
 <!ENTITY button_clear_data "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
@@ -303,7 +304,7 @@ size. -->
 <!ENTITY home_last_tabs_open "ಕಳೆದ ಬಾರಿಯ ಎಲ್ಲ ಪುಟಗಳನ್ನು ತೆರೆ">
 <!ENTITY home_last_tabs_empty "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಪುಟಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_most_recent_title "ಅತಿ ಇತ್ತೀಚಿನ">
-
+<!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -315,9 +316,9 @@ size. -->
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
 
 <!ENTITY filepicker_title "ಕಡತವನ್ನು ಆರಿಸು">
-
+<!ENTITY filepicker_audio_title "ಆರಿಸಿ ಅಥವಾ ಶಬ್ದವೊಂದನ್ನು ದಾಖಲಿಸಿ">
 <!ENTITY filepicker_image_title "ಚಿತ್ರವೊಂದನ್ನು ಆಯ್ಕೆಮಾಡು ಅಥವಾ ತೆಗೆ">
-
+<!ENTITY filepicker_video_title "ಆರಿಸಿ ಅಥವಾ ವಿಡಿಯೋ ಒಂದನ್ನು ದಾಖಲಿಸಿ">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "ನೀವು ಇದರೊಂದಿಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ">
@@ -335,47 +336,62 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "ಈ ಪುಟವು ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದೆ.">
+<!ENTITY blocked_mixed_content_message_bottom "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 <!ENTITY learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY enable_protection "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY disable_protection "ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY keep_blocking "ನಿರ್ಬಂಧಿಸುವುದನ್ನು ಮುಂದುವರೆಸು">
 
 <!ENTITY private_data_success "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
+<!ENTITY private_data_fail "ಕೆಲವು ಖಾಸಗಿ ದತ್ತಾಂಶಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.">
 
-
-
+<!ENTITY bookmarkhistory_button_import "ಆಮದು">
+<!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ 
+ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ 
 ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ">
-
+<!ENTITY bookmarkhistory_import_history "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಇತಿಹಾಸವನ್ನು 
+ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ">
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "ನೀವು &formatS; ಹುಡುಕು ಸಲಹೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "&formatS1; ಅನ್ನು &formatS2; ಗಾಗಿ ಹುಡುಕಿ">
 
+<!ENTITY webapp_generic_name "ಅನ್ವಯ">
 
-<!-- Updater notifications -->
+<!ENTITY searchable_description "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸ">
 
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; ಗೆ ಉನ್ನತೀಕರಣ ಲಭ್ಯವಿದೆ.">
+<!ENTITY updater_start_select2 "ನಕಲಿಳಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY updater_downloading_title_failed2 "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ">
+<!ENTITY updater_downloading_select2 "ಪರಿಷ್ಕರಣೆಯನ್ನು ಹೊಂದಿಸಲು ನಕ್ಲಲಿಳಿಸಿದ ನಂತರ ಸ್ಪರ್ಶಿಸಿ">
+<!ENTITY updater_downloading_retry2 "ಮರುಪ್ರಯತ್ನಕ್ಕೆ ಸ್ಪರ್ಶಿಸಿ">
 
-
-
-
+<!ENTITY updater_apply_title2 "&brandShortName; ಕ್ಕೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ">
+<!ENTITY updater_apply_select2 "ಪರಿಷ್ಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
 
 <!ENTITY guest_session_dialog_continue "ಮುಂದುವರೆ">
-
+<!ENTITY guest_session_dialog_cancel "ರದ್ದು">
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
+<!ENTITY new_guest_session_text "ಇದನ್ನು ಬಳಸುವ ವ್ಯಕ್ತಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಜಾಲಾಟದ ದತ್ತಾಂಶ ( ಉ.ದಾ. ಉಳಿಸಿದ ಪ್ರವೇಶಪದಗಳು, ಇತಿಹಾಸ ಅಥವಾ ಪುಟಗುರುತುಗಳು) ಕಾಣಲು ಸಾಧ್ಯವಿಲ್ಲ. \n\n ನಿಮ್ಮ ಅತಿಥಿಗಳ ಕೆಲಸ ಮುಗಿದ ನಂತರ ಅವರ ಜಾಲಾಟದ ದತ್ತಾಂಶವು ಅಳಿಸಲ್ಪಟ್ಟು ನಿಮ್ಮ ಅಧಿವೇಶನ ಪುನರಾರಂಭಗೊಳ್ಳುತ್ತದೆ.">
 
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; ಈಗ ಪುನರಾರಂಭವಾಗುತ್ತದೆ">
+<!ENTITY exit_guest_session_text "ಈ ಅಧಿವೇಶನದಿಂದ ಜಾಲಾವೀಕ್ಷಣೆ ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ.">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

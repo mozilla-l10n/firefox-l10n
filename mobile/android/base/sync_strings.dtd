@@ -8,57 +8,69 @@
 <!ENTITY syncBrand.shortName.label "ಸಿಂಕ್">
 <!-- Main titles. -->
 
-
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಜೋಡಿಸಿ">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label;ನ ಒಂದು ಖಾತೆ ಸೇರಿಸಿ">
 <!ENTITY sync.title.pair.label "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!-- J-PAKE Key Screen -->
 
-
-
+<!ENTITY sync.subtitle.connect.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ”ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.">
+<!ENTITY sync.subtitle.header2.label "ನಿಮ್ಮ ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಈ ಸಂಕೇತವನ್ನು ನಮೂದಿಸಿ">
+<!ENTITY sync.subtitle.connectlocation2.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನದ ಫೈರ್ ಫಾಕ್ಸ್ ಸಂಯೋಜನೆಗಳ &syncBrand.shortName.label; ವಿಭಾಗದಲ್ಲಿ “&sync.title.pair.label;” ಅನ್ನು ಆರಿಸಿ.">
+<!ENTITY sync.subtitle.pair.label "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ \&quot;ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ\&quot;ಯನ್ನು ಆರಿಸಿ.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
 <!ENTITY sync.link.advancedsetup.label "ಸುಧಾರಿತ ಸಂಯೋಜನೆಗಳು...">
 
 <!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "ಇನ್ನೊಂದು ಸಾಧನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ...">
 <!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "ನಿಮ್ಮ &syncBrand.fullName.label; ಖಾತೆಯ ವಿವರವನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.input.username.label "ಖಾತೆಯ ಹೆಸರು">
 
 
 
 <!ENTITY sync.input.server.label "ಪರಿಚಾರಕದ URL">
 <!-- Setup Fail -->
-
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಲಾಗಲಿಲ್ಲ">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ಸರ್ವರ್ ಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ನೀವು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಲು ಬಯಸುವಿರಾ?">
 <!ENTITY sync.button.tryagain.label "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
-
-
-
+<!ENTITY sync.subtitle.nointernet.label "ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಲಭ್ಯವಿಲ್ಲ.">
+<!ENTITY sync.subtitle.failaccount.label "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಖಾತೆ ರಚನೆ ವಿಫಲವಾಗಿದೆ.">
+<!ENTITY sync.subtitle.failmultiple.label "ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಫೈರ್ ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಾ? ಸಧ್ಯಕ್ಕೆ &syncBrand.fullName.label; ಕೇವಲ ಒಮ್ಮೆಗೆ ಒಂದು ಫೈರ್ ಫಾಕ್ಸ್  ಸ್ಥಾಪನೆಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ. &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಲು ದಯವಿಟ್ಟು ಇತರೆ ಸ್ಥಾಪನೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
-
+<!ENTITY sync.subtitle.success.label1 "ಈಗ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಕಲಿಳಿಸಲಾಗುತ್ತಿದೆ. ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ ನಿರ್ವಹಿಸಬಹುದು, ಅಥವಾ &brandShortName; ನೊಂದಿಗೆ ಜಾಲಾಟ ಆರಂಭಿಸಬಹುದು.">
 <!ENTITY sync.settings.label "ಸಿದ್ಧತೆಗಳು">
-
+<!ENTITY sync.subtitle.manage.label1 "ನಿಮ್ಮ &syncBrand.fullName.label; ಖಾತೆ ಈಗಾಗಲೇ ಸಿದ್ಧವಾಗಿದೆ. ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ ನಿರ್ವಹಿಸಬಹುದು, ಅಥವಾ &brandShortName; ಅನ್ನು ಚಾಲನೆಗೊಳಿಸಬಹುದು.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
-
+<!ENTITY sync.pair.connectlocation.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ “&syncBrand.shortName.label; ಸಿದ್ಧಗೊಳಿಸಿ” ಅನ್ನು ಆರಿಸಿ, ಹಾಗೂ ನಂತರ “ನಾನು ಖಾತೆಯೊಂದನ್ನು ಹೊಂದಿರುವೆ.” ಅನ್ನು ಆರಿಸಿ.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ಆಯ್ಕೆಗಳು">
-
+<!ENTITY sync.summary.pair.label "ನಿಮ್ಮ &syncBrand.shortName.label; ಖಾತೆಗೆ ಮತ್ತೊಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ.">
 <!-- Configure Engines -->
 
+<!ENTITY sync.configure.engines.title.bookmarks "ಪುಟಗುರುತುಗಳು">
+<!ENTITY sync.configure.engines.title.passwords "ಗುಪ್ತಪದಗಳು">
 
-
-
-
+<!ENTITY sync.configure.engines.title.tabs "ಹಾಳೆಗಳು">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "ರದ್ದು ಮಾಡು">
 
 <!ENTITY sync.button.ok.label "ಸರಿ">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (ಹಳತಾದ)">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
@@ -66,19 +78,23 @@
 <!ENTITY bookmarks.folder.tags.label "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY bookmarks.folder.toolbar.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ">
 <!ENTITY bookmarks.folder.unfiled.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
-
+<!ENTITY bookmarks.folder.desktop.label "ಡೆಸ್ಕ್ ಟಾಪ್ ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarks.folder.mobile.label "ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY bookmarks.folder.readinglist.label "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
+<!ENTITY sync.notification.oneaccount.label "ಕೇವಲ ಒಂದು &syncBrand.fullName.label; ಖಾತೆ ಮಾತ್ರ ಬೆಂಬಲಿತವಾಗಿದೆ">
+<!ENTITY sync.notification.configure.saved "ನಿಮ್ಮ ಆಯ್ಕೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.">
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "ಸರಿಯಲ್ಲದ ಖಾತೆಯ ಹೆಸರು ಅಥವ ಗುಪ್ತಪದ.">
 <!ENTITY sync.invalidserver.label "ಒಂದು ಮಾನ್ಯವಾದ ಪರಿಚಾರಕ URL ಅನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.verifying.label "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "ಮರುಗಳಿಕೆ (ರಿಕವರಿ) ಕೀಲಿಪದ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
 <!-- Send tab to device. -->
 
-
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ">
 
 
 
@@ -88,10 +104,15 @@
      consumed by assistive devices. -->
 
 
-
+<!ENTITY fxaccount_checkbox_contentDescription2 "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಗಳ ಚೆಕ್ ಬಾಕ್ಸ್ ಚಿತ್ರಿಕೆ">
+<!ENTITY fxaccount_icon_contentDescription2 "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಗಳ ಲಾಂಛನ">
+<!ENTITY fxaccount_intro_contentDescription2 "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಗಳ ಪ್ರಸ್ತಾವನೆ ಚಿತ್ರಿಕೆ(ಗ್ರಾಫಿಕ್)ಗಳು">
+<!ENTITY fxaccount_mail_contentDescription2 "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಗಳ ಲಕೋಟೆ ಚಿತ್ರಿಕೆ(ಗ್ರಾಫಿಕ್)">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
+<!ENTITY fxaccount_email_hint "ಇಮೇಲ್">
 
 <!ENTITY fxaccount_password_hide "ಅಡಗಿಸು">
 <!ENTITY fxaccount_password_show "ತೋರಿಸು">
@@ -99,71 +120,92 @@
      created or signed in to an account, and take the user back to
      Firefox. -->
 
+<!ENTITY fxaccount_back_to_browsing "ಜಾಲಾಟಕ್ಕೆ ಹಿಂತಿರುಗಿ">
+
 <!ENTITY fxaccount_policy_linktos "ಸೇವೆಯ ನಿಯಮಗಳು">
 
 
-
-
-
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
+<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
+<!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
 
-
+<!ENTITY fxaccount_create_account_header "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಯನ್ನು ರಚಿಸಿ">
+<!ENTITY fxaccount_create_account_password_length_restriction "ಕನಿಷ್ಟ 8 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು">
+<!ENTITY fxaccount_create_account_year_of_birth "ಹುಟ್ಟಿದ ವರ್ಷ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text "ಮುಂದುವರೆಯುವುದರಿಂದ, ನಾನು ಫೈರ್ ಫಾಕ್ಸ್  ಅಂತರ್ಜಾಲ ಸೇವೆಗಳ  &formatS1; ಮತ್ತು &formatS2; ಅನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇನೆ.">
+<!ENTITY fxaccount_create_account_button "ಮುಂದೆ">
+
+<!ENTITY fxaccount_create_account_sign_in_instead "ಈಗಾಗಲೇ ಖಾತೆಯೊಂದನ್ನು ಹೊಂದಿರುವಿರಾ? ಪ್ರವೇಶಿಸಿ ( ಸೈನ್ ಇನ್)">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 ಅಥವಾ ಮುನ್ನ">
+<!ENTITY fxaccount_create_account_unknown_error "ಖಾತೆಯನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
+
+<!ENTITY fxaccount_account_create_not_allowed "ಖಾತೆಯನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ಖಾತೆಯನ್ನು ರಚಿಸಲು ನೀವು ಕೆಲವು ವಯಸ್ಸಿನ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸಬೇಕಾಗುತ್ತದೆ.">
 
 
-
-
-
-
-
-
-
+<!ENTITY fxaccount_confirm_account_header "ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಿ">
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "ಒಂದು ಪರಿಶೀಲನಾ ಕೊಂಡಿಯನ್ನು &formatS; ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ">
+<!ENTITY fxaccount_confirm_account_resend_email "ಮಿಂಚೆಯನ್ನು ಮರು-ಕಳುಹಿಸಿ">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಿದೆ">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ">
 
+<!ENTITY fxaccount_sign_in_sub_header "ಪ್ರವೇಶಿಸಿ">
+<!ENTITY fxaccount_sign_in_button_label "ಪ್ರವೇಶಿಸಿ">
+<!ENTITY fxaccount_sign_in_forgot_password "ಪ್ರವೇಶಪದ ಮರೆತಿರುವಿರಾ?">
+<!ENTITY fxaccount_sign_in_create_account_instead "ಖಾತೆಯೊಂದನ್ನು ರಚಿಸಿ">
+<!ENTITY fxaccount_sign_in_unknown_error "ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ">
 
+<!ENTITY fxaccount_account_verified_sub_header "ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿದೆ">
+<!ENTITY fxaccount_account_verified_description2 "ನಿಮ್ಮ ಮಾಹಿತಿ ಈಗಲೇ ಮೇಳೈಸಲು ಆರಂಭವಾಗುವುದು.">
 
+<!ENTITY fxaccount_update_credentials_header "ಸೈನ್ ಇನ್">
+<!ENTITY fxaccount_update_credentials_button_label "ಸೈನ್ ಇನ್">
+<!ENTITY fxaccount_update_credentials_unknown_error "ಸೈನ್ ಇನ್ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
+<!ENTITY fxaccount_status_header "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
+<!ENTITY fxaccount_status_needs_credentials "ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
+<!ENTITY fxaccount_status_needs_upgrade "ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.">
+<!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_passwords "ಗುಪ್ತಪದಗಳು">
+<!ENTITY fxaccount_status_tabs "ತೆರೆದ ಹಾಳೆಗಳು">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "ಫೈರ್ಫಾಕ್ಸ್">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox account
      status activity, which lets them manage their Firefox
      account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ಆಯ್ಕೆಗಳು">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; ಅನ್ನು ಸಂಯೋಜಿಸಿ">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "ನೀವು ಫೈರ್ಫಾಕ್ಸನ್ನು ಅಪ್ಗ್ರೇಡ್ ಮಾಡಬೇಕು">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "ಖಾತೆ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ತಪ್ಪಾದ ಇಮೇಲ್ ಅಥವಾ ಗುಪ್ತಪದ">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ತಪ್ಪಾದ ಇಮೇಲ್ ಅಥವಾ ಗುಪ್ತಪದ ">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ಸರ್ವರ್ ಕಾರ್ಯನಿರತವಾಗಿದೆ, ಕೆಲಸಮಯದ ನಂತರ ಮರು ಪ್ರಯತ್ನಿಸಿ">
 
 
-
-
-
-
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ಸಂಪರ್ಕಜಾಲದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
