@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Аат">
 <!ENTITY col.tags.label          "Бэлиэлэр">
 <!ENTITY col.url.label           "Аадырыс">
-<!ENTITY col.lastvisit.label     "Киирии күнэ-дьыла">
+
 <!ENTITY col.visitcount.label    "Киирии ахсаана">
 <!ENTITY col.keyword.label       "Күлүүс тыл">
 <!ENTITY col.description.label   "Сиһилии">

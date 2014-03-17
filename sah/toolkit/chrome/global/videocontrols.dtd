@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Бүппүт">
 <!ENTITY stats.activitySeeking "(көрдөөһүн)">
 <!ENTITY stats.volume "Улахана">
-<!ENTITY stats.channels "Ханааллар">
-<!ENTITY stats.sampleRate "Тэтим">
 <!ENTITY stats.framesParsed "Бачча каадыр ырытылынна">
 <!ENTITY stats.framesDecoded "Бачча каадыр расшифровкаланна">
 <!ENTITY stats.framesPresented "Бачча каадыр көрдөрүлүннэ">

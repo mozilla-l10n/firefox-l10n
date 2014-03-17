@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Бэйэҥ санааҕын ыыт…">
 <!ENTITY helpFeedbackPage.accesskey  "Б">
 
+<!ENTITY helpShowTour.label             "&brandShortName; Көмө">
+<!ENTITY helpShowTour.accesskey         "К">
+
 <!ENTITY preferencesCmdMac.label        "Туруоруулар...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

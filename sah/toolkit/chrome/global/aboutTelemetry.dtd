@@ -12,9 +12,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "   Браузер ыйаныыта ">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "   Гистограмма ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Судургу кээмэйдээһин ">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Хойукку суруктар">
 
@@ -22,9 +24,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Эбиискэлэр хомуйбут гистограммалара ">
 
-<!ENTITY aboutTelemetry.toggleOn "   Салааны көрөргө баттаа ">
-
-<!ENTITY aboutTelemetry.toggleOff "   Салааны көстүбэт гынарга баттаа ">
 
 <!ENTITY aboutTelemetry.emptySection "   (хомуллубатах) ">
 
@@ -33,3 +32,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "   Ыйаныы стектарын функцияларын ааттарын киллэр ">
 
 <!ENTITY aboutTelemetry.hideSymbols "   Ыйаныылар тустарынан ситэтэ суох дааннайдары көрдөрүү ">
+

@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Саһан көрөөһүн)">
+
+<!ENTITY appmenu.tooltip                     "Менюну арый">
+<!ENTITY navbarOverflow.label                "Атын тэриллэр...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Кыбытыгы саҥарт">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "б">
 <!ENTITY  undoCloseTab.label                 "Сабыллыбыт кыбытыгы төннөр">
 <!ENTITY  undoCloseTab.accesskey             "С">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Сабыллыбыт кыбытыгы сөргүт">
 <!ENTITY  closeTab.label                     "Кыбытыгы сап">
 <!ENTITY  closeTab.accesskey                 "К">
 
@@ -59,8 +57,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Саҥа кыбытык">
 <!ENTITY tabCmd.accesskey "к">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Аадырыһы арый…">
-<!ENTITY openLocationCmd.accesskey "а">
 <!ENTITY openFileCmd.label "Билэни арый…">
 <!ENTITY openFileCmd.accesskey "Б">
 <!ENTITY openFileCmd.commandkey "o">
@@ -100,9 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Бары кыбытыктары көрдөр">
 <!ENTITY showAllTabsCmd.accesskey "к">
 
+<!ENTITY fxaSignIn.label "Киир уонна &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Маны хат холбоо &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel.heading "Маны &brandShortName; билигин синхроннаа">
+<!ENTITY syncStartPanel.subTitle "Маны &syncBrand.shortName.label; Туруоруулартан эмиэ салайыахха сөп.">
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "Кыччат">
 <!ENTITY fullScreenRestore.tooltip "Хат улаатыннар">
-<!ENTITY fullScreenClose.tooltip "Сап">
+
 <!ENTITY fullScreenAutohide.label "Үстүрүмүөннэри кистээ">
 <!ENTITY fullScreenAutohide.accesskey "Ү">
 <!ENTITY fullScreenExit.label "Толору экраантан таҕыс">
@@ -120,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Бэлиэлэр">
 <!ENTITY bookmarksMenu.accesskey "Б">
 <!ENTITY bookmarkThisPageCmd.label "Бу сирэйи бэлиэтээ">
+<!ENTITY editThisBookmarkCmd.label "Бэлиэни уларытыы">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Бу сирэйи тарҕатарга">
@@ -133,6 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "Т">
 <!ENTITY shareVideoCmd.label "Бу видеону тарҕат">
 <!ENTITY shareVideoCmd.accesskey "Б">
+
 <!ENTITY subscribeToPageMenupopup.label "Бу сирэйгэ суруттар">
 <!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
@@ -159,24 +168,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Бэчээт">
 <!ENTITY printButton.tooltip          "Бу сирэйи бэчээттээ">
 
-<!ENTITY backForwardItem.title        "Кэлин/Илин">
 <!ENTITY locationItem.title           "Аадырыс">
 <!ENTITY searchItem.title             "Көрдөөһүн">
-<!ENTITY bookmarksItem.title          "Бэлиэлэр">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Дьиэ-сирэйгэ">
 
 <!ENTITY tabGroupsButton.label        "Кыбытыктар бөлөхтөрө">
-<!ENTITY tabGroupsButton.tooltip      "Кыбытыктары бөлөхтүүргэ">
 
 <!ENTITY bookmarksButton.label          "Бэлиэлэр">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Бэлиэлэр">
-<!ENTITY bookmarksMenuButton.tooltip        "Бэлиэтээбиккин көрдөр">
 <!ENTITY bookmarksMenuButton.unsorted.label "Наардамматах бэлиэлэр">
-<!ENTITY viewBookmarksSidebar.label         "Ойоҕос панельга көрдөр">
+
 <!ENTITY viewBookmarksToolbar.label         "Бэлиэтиир тэрили көрдөр">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -185,7 +190,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Сурунаал">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Үстүрүмүөннэр">
@@ -226,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Уларыйар дизайн">
 <!ENTITY responsiveDesignTool.accesskey "У">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -242,20 +246,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "J">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Браузеры көннөрөөччү">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
 <!ENTITY devToolbarMenu.label              "Сайыннарыы хаптала">
 <!ENTITY devToolbarMenu.accesskey          "а">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Тэриллэрин көрдөр/кистээ">
 <!ENTITY devToolboxMenuItem.accesskey      "Т">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Оҥорооччу тэриллэрин көрдөр/кистээ">
 <!ENTITY devToolbarOtherToolsButton.label  "Атын тэриллэр">
@@ -299,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Туруоруулар">
 <!ENTITY preferencesCmdUnix.accesskey     "Т"> 
 
-<!ENTITY clearRecentHistory.label               "Соторутааҥы сурунаалы сот…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -319,12 +322,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Соторутааҕыта сабыллыбыт кыбытыктар">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Соторутааҕыта сабыллыбыт түннүктэр">
-<!ENTITY historyRestoreLastSession.label "Бу иннинээҕи сиэссийэни сөргүт">
 
-<!ENTITY showAllHistoryCmd2.label "Сурунаалы барытын көрдөр">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Уларыт">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Көрдөт эбэтэр аадырыһы ук">
@@ -409,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "с">
 <!ENTITY emailPageCmd.label           "Email сигэ…">
 <!ENTITY emailPageCmd.accesskey       "E">
+
 <!ENTITY savePageCmd.label            "Маннык бигэргэт...">
 <!ENTITY savePageCmd.accesskey        "б">
 <!-- alternate for content area context menu -->
@@ -534,6 +564,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Тахсыы"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "с">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Таҕыс"> 
@@ -603,6 +634,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Сиһилии...">
 
 <!ENTITY identity.permissions "Көҥүллээһин">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -620,7 +654,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Синхронизация">
 
 <!ENTITY socialToolbar.title        "Социал-ситимнэр хапталлара">
-<!ENTITY social.notLoggedIn.label   "Бэлиэтэммэтэххин">
 
 <!ENTITY social.ok.label       "Сөп">
 <!ENTITY social.ok.accesskey   "С">
@@ -640,13 +673,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "С">
 <!ENTITY social.closeNotificationItem.label "Кэнники">
 
+
+
+
+
+
+
+
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Чааттарга барыы">
 <!ENTITY social.chatBar.accesskey "т">
-<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Каамераны холбооһун:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
@@ -668,6 +709,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Билигин көҥүллээ">
 <!ENTITY pluginActivateAlways.label "Көҥүллээ уонна өйдөөн кэбис">
 <!ENTITY pluginBlockNow.label "Плагин хааччаҕа">
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Хатылаан көр">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -680,7 +733,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Дьаныар индикаатора">
 <!ENTITY appMenuButton.label           "Меню">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; арый">
-<!ENTITY feedButton.label              "Суруттар">
+
 <!ENTITY feedButton.tooltip            "Бу сирэйгэ суруттар...">
 <!ENTITY bookmarksButton.tooltip       "Бэлиэтээбит сирдэргин көрдөр">
 <!ENTITY historyButton.tooltip         "Соторутааҕыта көрүллүбүт сирэйдэр тиһиктэрин көрдөр">
@@ -703,4 +756,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Бөдөҥүн салайыы">
 <!ENTITY addonBarCloseButton.tooltip   "Эбиискэ хаптаһынын сап">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Кэлин/Илин">
+<!ENTITY viewBookmarksSidebar.label    "Ойоҕос панельга көрдөр">
+<!ENTITY bookmarksItem.title           "Бэлиэлэр">
+<!ENTITY openLocationCmd.label         "Аадырыһы арый…">
+<!ENTITY openLocationCmd.accesskey     "а">
+<!ENTITY bookmarksMenuButton.tooltip   "Бэлиэтээбиккин көрдөр">
+
+<!ENTITY tabGroupsButton.tooltip       "Кыбытыктары бөлөхтүүргэ">
 <!-- end of strings to be removed post-Australis -->

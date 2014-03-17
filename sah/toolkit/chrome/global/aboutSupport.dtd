@@ -7,6 +7,12 @@
 
 <!ENTITY aboutSupport.pageSubtitle "   Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. &brandShortName; програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a id='supportLink'>өйүүр ситим-сирбитигэр</a> киир. ">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Кэҥэтиилэр">
 <!ENTITY aboutSupport.extensionName "Аата">
 <!ENTITY aboutSupport.extensionEnabled "Холбоммут">
@@ -31,7 +37,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Холбоммут плагииннар">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Торум (build) конфигурацията">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Саахал туһунан отчуот">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
 
 <!ENTITY aboutSupport.showDir.label "Паапканы арый">

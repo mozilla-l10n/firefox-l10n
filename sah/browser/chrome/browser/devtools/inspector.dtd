@@ -1,3 +1,6 @@
+
+
+
 <!ENTITY inspectorHTMLCopyInner.label       "Ис HTML-ы төгүллээ">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "т">
 
@@ -8,6 +11,7 @@
 
 <!ENTITY inspectorHTMLDelete.label          "Түмүгү сот">
 <!ENTITY inspectorHTMLDelete.accesskey      "Т">
+
 
 
 

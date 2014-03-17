@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Хачайдааһыннар">
 
-<!ENTITY showWhenDownloading.label     "Хачайдааһыны көрдөрөр түннүгү көрдөр">
-<!ENTITY showWhenDownloading.accesskey "к">
-<!ENTITY closeWhenDone.label "Хачайдааһыннар бүттэхтэринэ сабарга">
-<!ENTITY closeWhenDone.accesskey "б">
 <!ENTITY saveTo.label "Билэни угуу суола">
 <!ENTITY saveTo.accesskey "л">
 <!ENTITY chooseFolderWin.label        "Көрүү…">
