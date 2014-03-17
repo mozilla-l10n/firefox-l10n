@@ -96,19 +96,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
-
-
-
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; உடன் மறுமுறை இணைக்கவும்">
+<!ENTITY syncStartPanel.heading "&brandShortName; ஆனது தற்போது ஒத்திசைக்கிறது">
+<!ENTITY syncStartPanel.subTitle "நீங்கள் விருப்பங்களிலிருந்து &syncBrand.shortName.label; ஐ நிர்வகிக்க முடியும்.">
+<!ENTITY syncStartPanel.subTitleUnix "நீங்கள் முன்னுரிமைகளிலிருந்து &syncBrand.shortName.label; ஐ நிர்வகிக்க முடியும்.">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label;-ஐ இணைக்கமுடியவில்லை">
-
+<!ENTITY syncErrorPanel.subTitle "ஒத்திசைவை தொடர தயவுச்செய்து உள்நுழையவும்.">
 <!ENTITY syncErrorPanel.signInButton.label "உள்நுழை">
 <!ENTITY syncErrorPanel.signInButton.accesskey "உ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "குறைத்தல்">
 <!ENTITY fullScreenRestore.tooltip "மறுசேமிப்பு">
-
+<!ENTITY fullScreenClose.tooltip "மூடுக">
 <!ENTITY fullScreenAutohide.label "கருவிப்பட்டைகளை மறை">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
@@ -140,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "இந்த வீடியோவைப் பகிர்">
 <!ENTITY shareVideoCmd.accesskey "s">
-
+<!ENTITY feedsMenu.label "சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
 <!ENTITY addCurPagesCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியீடு…">
@@ -189,6 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "வரலாறு">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "கருவிகள்">
@@ -324,39 +326,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
+<!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 
-
+<!ENTITY showAllHistoryCmd2.label "அனைத்து வரலாற்றையும் காட்டு">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "தனிபயனாக்கு">
-
+<!ENTITY appMenuCustomize.tooltip "பட்டி மற்றும் கருவிப்பட்டைகளை தனிபயனாக்கு">
 <!ENTITY appMenuCustomizeExit.label "தனிபயனாக்கதிலிருந்து வெளியேறு">
-
-
-
+<!ENTITY appMenuCustomizeExit.tooltip "தனிப்பயனாக்கத்தை முடி">
+<!ENTITY appMenuHistory.label "வரலாறு">
+<!ENTITY appMenuHistory.showAll.label "அனைத்து வரலாற்றையும் காட்டு">
 <!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
-
+<!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
-
-
-
-
+<!ENTITY customizeMenu.addToPanel.label "பட்டியில் சேர்">
+<!ENTITY customizeMenu.addToPanel.accesskey "ப">
+<!ENTITY customizeMenu.moveToToolbar.label "கருவிப்பட்டிக்கு நகர்த்து">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "க">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "பட்டியில் சேர்க்க">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ப">
+<!ENTITY customizeMenu.removeFromToolbar.label "கருவிப்பட்டையிலிருந்து நீக்கு">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "ந">
+<!ENTITY customizeMenu.removeFromMenu.label "பட்டியிலிருந்து நீக்கு">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "ந">
+<!ENTITY customizeMenu.addMoreItems.label "மேலும் உருப்பிடிகளை சேர்க்க...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "ச">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
@@ -567,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "வெளியேறு"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; இலிருந்து வெளியேறு">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
@@ -680,11 +684,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
-
+<!ENTITY customizeMode.tabTitle "&brandShortName; ஐ தனிபயனாக்கு">
+<!ENTITY customizeMode.menuAndToolbars.label "பட்டி மற்றும் கருவிப்பட்டைகள்">
+<!ENTITY customizeMode.menuAndToolbars.header2 "கூடுதலான கருவிகளும் வசதிகளும்">
+<!ENTITY customizeMode.menuAndToolbars.empty "கூடுதலாக கருவிகள் வேண்டுமா?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "ஆயிரக்கணக்கான இணைப்பு நீட்சிகளிலருந்து தேர்ந்தெடு">
+<!ENTITY customizeMode.restoreDefaults "முன்னிருப்பை மீட்டமைக்கவும்">
+<!ENTITY customizeMode.toolbars "கருவிபட்டைகளை காட்டு / மறை">
+<!ENTITY customizeMode.titlebar "தலைப்பு பட்டி">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
@@ -728,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; க்கு இந்த செயலிழப்பு பற்றி தெரிவிக்கவும், அவர்கள் சரி செய்யலாம்.">
 <!ENTITY tabCrashed.tryAgain "மீண்டும் முயற்சிக்கவும்">
 
+<!ENTITY uiTour.infoPanel.close "மூடுக">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -740,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "செயல் அறிவிப்பி">
 <!ENTITY appMenuButton.label           "மெனு">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; மெனுவை தேடு">
-
+<!ENTITY feedButton.label              "சந்தாப்படுத்து">
 <!ENTITY feedButton.tooltip            "இந்தப் பக்கத்தை சந்தாப்படுத்தவும்…">
 <!ENTITY bookmarksButton.tooltip       "உங்கள் புத்தகக்குறிகளை காட்டவும்">
 <!ENTITY historyButton.tooltip         "நீங்கள் சமீபத்தில் பார்த்த பக்கங்களை காட்டு">
