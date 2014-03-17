@@ -104,12 +104,6 @@
 <!ENTITY  event.menu.options.accesskey                         "e">
 <!ENTITY  event.menu.options.attendees.label                   "Zaproś uczestników…">
 <!ENTITY  event.menu.options.attendees.accesskey               "Z">
-<!ENTITY  event.menu.options.spellcheck.label                  "Sprawdzanie pisowni…">
-<!ENTITY  event.menu.options.spellcheck.accesskey              "S">
-<!ENTITY  event.menu.options.inline.spellcheck.label           "Sprawdzaj pisownię podczas pisania">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey       "p">
-<!ENTITY  event.menu.options.link.label                        "Dodaj odnośnik…">
-<!ENTITY  event.menu.options.link.accesskey                    "D">
 <!ENTITY  event.menu.options.timezone2.label                   "Pokaż strefy czasowe">
 <!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                   "Priorytet">
@@ -148,13 +142,11 @@
 <!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
 <!ENTITY  event.toolbar.delete.label                      "Usuń">
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
-<!ENTITY  event.toolbar.spellcheck.label                  "Sprawdzanie pisowni">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
 
 <!ENTITY event.toolbar.save.tooltip "Zapisz i zamknij">
 <!ENTITY event.toolbar.delete.tooltip "Usuń">
 <!ENTITY event.toolbar.attendees.tooltip "Zaproś uczestników">
-<!ENTITY event.toolbar.spellcheck.tooltip "Sprawdź pisownię">
 <!ENTITY event.toolbar.attachments.tooltip "Dodaj załączniki">
 <!ENTITY event.toolbar.privacy.tooltip "Zmień ustawienia prywatności">
 <!ENTITY event.toolbar.priority.tooltip "Zmień priorytet">
@@ -169,7 +161,6 @@
 <!ENTITY event.categories.label                           "Kategoria:">
 <!ENTITY event.categories.accesskey                       "g">
 <!ENTITY event.categories.textbox.label "Dodaj nową kategorię">
-<!ENTITY event.categories.textbox.accesskey "w">
 <!ENTITY event.calendar.label                             "Kalendarz:" >
 <!ENTITY event.calendar.accesskey                         "z">
 <!ENTITY event.attendees.label                            "Uczestnicy:" >
@@ -383,5 +374,4 @@
 <!ENTITY read.only.reminder.label        "Przypomnij:">
 <!ENTITY read.only.attendees.label       "Uczestnicy">
 <!ENTITY read.only.description.label     "Opis">
-<!ENTITY read.only.documents.label       "Dokumenty">
 <!ENTITY read.only.link.label            "Powiązany odnośnik">

@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Nowe wydarzenie…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "w">
 
 <!ENTITY event.new.task                         "Nowe zadanie…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "z">
 
-<!ENTITY calendar.new.server.label              "Nowy kalendarz…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Drukuj aktywny kalendarz…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "r">
-
 <!ENTITY calendar.import.label                  "Importuj z pliku…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Eksportuj…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Eksportuj zaznaczone…">
-<!ENTITY calendar.export.selection.accesskey    "t">
 
 <!ENTITY calendar.publish.label                 "Publikuj…">
 <!ENTITY calendar.publish.accesskey             "b">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Wyświetlaj zadania w kalendarzu">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "z">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Zakres widoku wielu tygodni">
-<!ENTITY calendar.menu.numberofweeks.2          "Dwa tygodnie">
-<!ENTITY calendar.menu.numberofweeks.3          "Trzy tygodnie">
-<!ENTITY calendar.menu.numberofweeks.4          "Cztery tygodnie">
-<!ENTITY calendar.menu.numberofweeks.5          "Pięć tygodni">
-<!ENTITY calendar.menu.numberofweeks.6          "Sześć tygodni">
 
 <!ENTITY goTodayCmd.label                       "Dzisiaj">
 <!ENTITY goTodayCmd.accesskey                   "z">
