@@ -31,6 +31,10 @@
 <!ENTITY device.permissions "Permisos">
 <!ENTITY device.permissionsTooltip "Ver una tabla de los permisos accesibles para los diferentes tipos de aplicaciones">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Pestañas del navegador">
+<!ENTITY device.browserTabsTooltip "Ver una lista de pestañas en el navegador del dispositivo conectado">
+<!ENTITY device.debugBrowserTab "Depurar">
+<!ENTITY device.debugBrowserTabTooltip "Abrir las herramientas de desarrolladores conectadas a esta pestaña del navegador en el dispositivo">
 <!ENTITY device.help "Ayuda">
 <!ENTITY connection.connectTooltip "Conectarse al dispositivo">
 <!ENTITY connection.disconnect "Desconectar">

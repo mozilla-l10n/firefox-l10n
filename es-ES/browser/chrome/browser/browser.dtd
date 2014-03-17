@@ -495,7 +495,6 @@
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No ahora">
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menú y barras de herramientas">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y características adicionales">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
