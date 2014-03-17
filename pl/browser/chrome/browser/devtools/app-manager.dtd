@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Uprawnienia">
 <!ENTITY device.permissionsTooltip "Wyświetla tabelę uprawnień dostępnych dla różnych typów aplikacji">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Karty przeglądarki">
+<!ENTITY device.browserTabsTooltip "Wyświetla listę kart przeglądarki podłączonego urządzenia">
+<!ENTITY device.debugBrowserTab "Debuguj">
+<!ENTITY device.debugBrowserTabTooltip "Otwiera narzędzia dla programistów dla karty przeglądarki podłączonego urządzenia">
 <!ENTITY device.help "Pomoc">
 
 <!ENTITY connection.connectTooltip "Łączy z urządzeniem">
