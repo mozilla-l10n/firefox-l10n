@@ -31,6 +31,10 @@
 <!ENTITY device.permissions "Разрешения">
 <!ENTITY device.permissionsTooltip "Просмотреть таблицу разрешений доступных разным типам приложений">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Вкладки браузера">
+<!ENTITY device.browserTabsTooltip "Просмотр списка вкладок в браузере на подсоединенном устройстве">
+<!ENTITY device.debugBrowserTab "Отладка">
+<!ENTITY device.debugBrowserTabTooltip "Открыть Инструменты разработчика, подсоединенные к этой вкладке браузера на устройстве">
 <!ENTITY device.help "Справка">
 <!ENTITY connection.connectTooltip "Подсоединиться к устройству">
 <!ENTITY connection.disconnect "Отсоединить">
