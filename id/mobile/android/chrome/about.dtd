@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tentang &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; bersifat eksperimental dan mungkin tidak stabil.">
-<!ENTITY aboutPage.telemetryStart               " Secara otomatis data kinerja, perangkat keras, penggunaan, dan pengubahsuaian akan dikirimkan ke">
+<!ENTITY aboutPage.telemetryStart               " Secara otomatis data kinerja, perangkat keras, penggunaan, dan pengubahsuaian akan dikirimkan ke ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " dalam rangka membantu menyempurnakan &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Periksa versi baru »">
