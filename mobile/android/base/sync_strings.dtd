@@ -105,14 +105,7 @@
 <!ENTITY sync.text.tab.sent.label '已送出您的分頁！'>
 <!ENTITY sync.text.tab.not.sent.label '傳送您的分頁時發生問題。'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox 帳號選取盒圖片'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox 帳號圖示'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox 帳號說明圖片'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox 帳號信封圖片'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -127,6 +120,11 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing '回到瀏覽器'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos '服務條款'>
 <!ENTITY fxaccount_policy_linkprivacy '隱私權保護政策'>
 
@@ -137,12 +135,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header '建立 Firefox 帳號'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 '註冊 Firefox 帳號'>
 <!ENTITY fxaccount_create_account_password_length_restriction '至少要有 8 個字元長'>
 <!ENTITY fxaccount_create_account_year_of_birth '出生年'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text '若繼續，代表您同意 Firefox 線上服務的 &formatS1; 與 &formatS2;。'>
+<!ENTITY fxaccount_create_account_policy_text2 '若繼續，代表您同意 Firefox 雲端服務的 &formatS1; 與 &formatS2;。'>
 <!ENTITY fxaccount_create_account_button '下一步'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync '選擇要同步的項目'>
 <!ENTITY fxaccount_create_account_sign_in_instead '已經有帳號了？在此登入'>
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more '詳細資訊'>
 
 <!ENTITY fxaccount_confirm_account_header '確認您的帳號'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link '已將驗證連結寄送至 &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email '重寄驗證郵件'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '已寄出驗證郵件'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label '登入'>
 <!ENTITY fxaccount_update_credentials_unknown_error '無法登入'>
 
-<!ENTITY fxaccount_status_header 'Firefox 帳號'>
+<!ENTITY fxaccount_status_header2 'Firefox 帳號'>
+<!ENTITY fxaccount_status_signed_in_as '已登入為'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已啟用'>
 <!ENTITY fxaccount_status_needs_verification2 '需要驗證您的帳號，請點擊此處以重寄驗證郵件。'>
@@ -184,16 +183,22 @@
 <!ENTITY fxaccount_status_passwords '密碼'>
 <!ENTITY fxaccount_status_tabs '開啟分頁'>
 <!ENTITY fxaccount_status_legal '使用條款' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos '服務條款'>
+<!ENTITY fxaccount_status_linkprivacy '隱私權保護政策'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 選項'>
 <!ENTITY fxaccount_options_configure_title '設定 &syncBrand.shortName.label;'>
 
@@ -214,6 +219,6 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未連線'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '點擊以登入為 &formatS;'>
 

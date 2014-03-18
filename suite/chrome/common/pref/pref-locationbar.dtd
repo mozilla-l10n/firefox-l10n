@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "皆可，但偏好於字尾">
 <!ENTITY autoCompleteMatchWords                "只在字尾">
 <!ENTITY autoCompleteMatchStart                "只於網址或標題的開頭">
+<!ENTITY showInternetSearch.label              "顯示預設搜尋引擎">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "格式">
 <!ENTITY domainFormatting.label                "強調網站與 FTP 伺服器的實際網域名稱">
 <!ENTITY domainFormatting.accesskey            "d">
-
-<!ENTITY searchEngine.label                    "網際網路搜尋引擎">
-<!ENTITY showSearchEngine.label                "顯示預設搜尋引擎">
-<!ENTITY showSearchEngine.accesskey            "e">
+<!ENTITY highlightSecure.label                 "強調顯示使用較高等級連線安全性的網頁">
+<!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "未知位置">
 <!ENTITY domainGuessing.label                  "找不到網頁時，在網址中加上「www.」與「.com」">

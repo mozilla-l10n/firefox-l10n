@@ -54,6 +54,7 @@
 <!ENTITY back "上一頁">
 <!ENTITY stop "停止">
 <!ENTITY site_security "網站安全">
+<!ENTITY save "儲存">
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY one_tab "一個分頁">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "進階">
 <!ENTITY pref_category_customize "自訂">
 <!ENTITY pref_category_search3 "搜尋">
+<!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
 <!ENTITY pref_category_display "顯示">
 <!ENTITY pref_category_privacy_short "個人隱私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "還原搜尋引擎">
 <!ENTITY pref_search_restore_defaults "還原預設值">
 <!ENTITY pref_search_restore_defaults_summary "還原預設值">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "秘訣: 長按網頁中的搜尋欄位以將其新增至您的搜尋引擎清單。">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_developer_remotedebugging_docs "詳細資訊">
 <!ENTITY pref_remember_signons "記住密碼">
 
 <!ENTITY pref_category_home "首頁">
+<!ENTITY pref_category_home_summary "自訂您的首頁">
 <!ENTITY pref_category_home_panels "面板">
+<!ENTITY pref_home_add_panel "新增面板">
+<!ENTITY home_add_panel_title "新增面板">
+<!ENTITY home_add_panel_empty "抱歉，我們無法為您加入任何面板。">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "已將「&formatS;」新增至首頁">
+<!ENTITY pref_category_home_content_settings "內容選項">
+<!ENTITY pref_home_updates "自動更新">
+<!ENTITY pref_home_updates_enabled "啟用">
+<!ENTITY pref_home_updates_wifi "僅透過 Wi-Fi 連線">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "自訂">
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "儲存為 PDF">
 <!ENTITY find_in_page "在頁面中搜尋">
 <!ENTITY desktop_mode "開啟桌面版網站">
+<!ENTITY page "頁面">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "開新分頁">
 <!ENTITY new_private_tab "開新隱私瀏覽分頁">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
+<!ENTITY reading_list_add "新增至閱讀清單">
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "秘訣: 長點標題列中的 &#37;I 圖示，將文件儲存到您的閱讀清單。">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "秘訣: 在標題列出現 &formatI; 圖示時長按該圖示來將文章儲存至您的閱讀清單。">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "秘訣: 當標題列顯示閱讀模式按鈕時，長按該按鈕以將文章儲存至您的閱讀清單。">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "找不到此面板的內容。">
 
 <!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 
@@ -357,9 +379,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在自 Android 匯入歷史紀錄">
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "您想要開啟 &formatS; 的搜尋建議功能嗎？">
+<!ENTITY suggestions_prompt3 "您想要開啟搜尋建議嗎？">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

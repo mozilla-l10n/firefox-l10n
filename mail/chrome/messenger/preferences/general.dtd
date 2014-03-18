@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "回復預設值">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "動態 Dock 圖示">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "修改應用程式圖示的偏好設定">
+<!ENTITY dockOptions.label                "應用程式圖示選項…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "當有新郵件時:">
 <!ENTITY playSound.label                  "播放音效">

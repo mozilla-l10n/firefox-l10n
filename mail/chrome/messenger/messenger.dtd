@@ -895,3 +895,6 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "全部顯示">
 
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "應用程式圖示選項…">
+
