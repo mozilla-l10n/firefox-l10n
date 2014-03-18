@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre2              "U kunt ook ">
-<!ENTITY support.link              "&brandShortName;-ondersteuning">
+<!ENTITY support.link              "&brandShortName; Support">
 <!ENTITY support.post2             " bezoeken voor meer informatie.">
 
 <!ENTITY happy.header              "Da’s goed om te horen!">
