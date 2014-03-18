@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Opties programmasymbool">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Het programmasymbool animeren als u een nieuw bericht ontvangt">
+<!ENTITY bounceSystemDockIcon.accesskey        "p">
+<!ENTITY newMessagesCountDock.label            "Aantal nieuwe berichten">
+<!ENTITY newMessagesCountDock.accesskey        "b">
+<!ENTITY showAllUnreadMessagesCount.label      "Aantal ongelezen berichten">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "o">
+<!ENTITY dockIconBadge.label                   "Programmasymbool kenteken">
+<!ENTITY dockIconShow.label                    "Programmasymbool markeren met:">
