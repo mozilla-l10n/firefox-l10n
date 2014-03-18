@@ -12,6 +12,9 @@
 <!ENTITY newevent.to.label "Til">
 <!ENTITY newevent.attendees.notify.label "Send meddelelse til deltagerne">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Skjul deltagerne i invitationer">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Hvis du aktiverer dette, vil deltagerne ikke kunne se hinanden i invitationer. Dette gælder kun for mailinvitationer.">
+
 <!ENTITY newevent.status.label "Status">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Ikke angivet" >
@@ -100,12 +103,6 @@
 <!ENTITY event.menu.options.accesskey "I">
 <!ENTITY event.menu.options.attendees.label "Inviter deltagere…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
-<!ENTITY event.menu.options.spellcheck.label "Stavekontrol…">
-<!ENTITY event.menu.options.spellcheck.accesskey "S">
-<!ENTITY event.menu.options.inline.spellcheck.label "Løbende stavekontrol">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "L">
-<!ENTITY event.menu.options.link.label "Tilføj link…">
-<!ENTITY event.menu.options.link.accesskey "L">
 <!ENTITY event.menu.options.timezone2.label "Tidszone">
 <!ENTITY event.menu.options.timezone2.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Prioritet">
@@ -144,13 +141,11 @@
 <!ENTITY event.toolbar.save.label "Gem og luk">
 <!ENTITY event.toolbar.delete.label "Slet">
 <!ENTITY event.toolbar.attendees.label "Inviter deltagere">
-<!ENTITY event.toolbar.spellcheck.label "Stavekontrol">
 <!ENTITY  event.toolbar.privacy.label "Privatliv">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Gem og luk">
 <!ENTITY  event.toolbar.delete.tooltip                    "Slet">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltagere">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Stavekontrol">
 <!ENTITY  event.toolbar.attachments.tooltip               "Tilføj vedhæftede filer">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Skift privatlivsindstilling">
 <!ENTITY  event.toolbar.priority.tooltip                  "Skift vigtighed">
@@ -165,7 +160,6 @@
 <!ENTITY event.categories.label "Kategori:">
 <!ENTITY event.categories.accesskey "K">
 <!ENTITY event.categories.textbox.label "Tilføj en ny kategori" >
-<!ENTITY event.categories.textbox.accesskey "ø">
 <!ENTITY event.calendar.label "Kalender:">
 <!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Deltagere:">
@@ -381,5 +375,4 @@
 <!ENTITY read.only.reminder.label "Påmindelse:">
 <!ENTITY read.only.attendees.label "Deltagere">
 <!ENTITY read.only.description.label "Beskrivelse">
-<!ENTITY read.only.documents.label "Dokumenter">
 <!ENTITY read.only.link.label "Relateret link">
