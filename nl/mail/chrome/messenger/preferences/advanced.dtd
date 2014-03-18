@@ -63,18 +63,18 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Updates automatisch installeren (aanbevolen: verbeterde veiligheid)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Controleer op updates, maar laat me kiezen of ik ze wil installeren">
+<!ENTITY updateApp.label                 "&brandShortName;-updates:">
+<!ENTITY updateAuto.label                "Updates automatisch installeren (aanbevolen: verbeterde beveiliging)">
+<!ENTITY updateAuto.accesskey            "U">
+<!ENTITY updateCheck.label               "Controleren op updates, maar mij laten kiezen of ik deze wil installeren">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Controleer nooit op updates (niet aanbevolen: veilgheidsrisico)">
+<!ENTITY updateManual.label              "Nooit controleren op updates (niet aanbevolen: beveiligingsrisico)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Waarschuw me als dit add-ons uitschakelt">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-<!ENTITY updateHistory.label             "Toon Update-geschiedenis">
-<!ENTITY updateHistory.accesskey         "p">
-<!ENTITY updateOthers.label              "Update automatisch:">
+<!ENTITY updateAutoAddonWarn.label       "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY updateAutoAddonWarn.accesskey   "w">
+<!ENTITY updateHistory.label             "Updategeschiedenis tonen">
+<!ENTITY updateHistory.accesskey         "d">
+<!ENTITY updateOthers.label              "Automatisch bijwerken:">
 <!ENTITY enableAddonsUpdate3.label       "Geïnstalleerde add-ons">
 <!ENTITY enableAddonsUpdate3.accesskey   "G">
 
