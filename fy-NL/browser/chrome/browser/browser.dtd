@@ -100,7 +100,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Opnij ferbine mei &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ynskeakele">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sil ynkoarten starte mei syngronisearjen.">
-<!ENTITY syncStartPanel.subTitleUnix "Jo kinne &syncBrand.shortName.label; beheare yn Foarkarren.">
 <!ENTITY syncErrorPanel.heading "Kin gjin ferbining meitsje mei &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Meld jo oan om it syngronisearjen te ferfetsjen.">
 <!ENTITY syncErrorPanel.signInButton.label "Oanmelde">
