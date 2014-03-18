@@ -107,13 +107,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Afkrydsningsfelter til Firefox-konti'>
-<!ENTITY fxaccount_icon_contentDescription2 'Ikoner til Firefox-konti'>
-<!ENTITY fxaccount_intro_contentDescription2 'Introduktion til Firefox-konti'>
-<!ENTITY fxaccount_mail_contentDescription2 'Kuverter til Firefox-konti'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -137,12 +130,11 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Opret en Firefox-konto'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Skal være på mindst 8 tegn'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Opret en Firefox-konto'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Fødselsår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Fortsætter du, accepterer du &formatS1; og &formatS2; for Firefox online-tjenester.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Fortsætter du, accepterer du &formatS1; og &formatS2; for Firefox online-tjenester.'>
 <!ENTITY fxaccount_create_account_button 'Fortsæt'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Vælg hvad der skal synkroniseres'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Har du allerede en konto? Log ind'>
@@ -173,7 +165,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Log ind'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kunne ikke logge ind'>
 
-<!ENTITY fxaccount_status_header 'Firefox-konto'>
+<!ENTITY fxaccount_status_header2 'Firefox-konto'>
+<!ENTITY fxaccount_status_signed_in_as 'Logget ind som'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktiveret'>
 <!ENTITY fxaccount_status_needs_verification2 'Din konto skal bekræftes. Tryk for at få sendt en bekræftelsesmail.'>
@@ -184,6 +177,12 @@
 <!ENTITY fxaccount_status_passwords 'Adgangskoder'>
 <!ENTITY fxaccount_status_tabs 'Åbne faneblade'>
 <!ENTITY fxaccount_status_legal 'Juridisk' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Tjenestevilkår'>
+<!ENTITY fxaccount_status_linkprivacy 'Privatlivspolitik'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
