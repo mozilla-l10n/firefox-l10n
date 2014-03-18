@@ -54,6 +54,7 @@
 <!ENTITY back "Retour">
 <!ENTITY stop "Arrêter">
 <!ENTITY site_security "Sécurité du site">
+<!ENTITY save "Enregistrer">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
 <!ENTITY one_tab "1 onglet">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_customize "Personnalisation">
 <!ENTITY pref_category_search3 "Recherche">
+<!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
 <!ENTITY pref_category_display "Affichage">
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "Restaurer les moteurs de recherche">
 <!ENTITY pref_search_restore_defaults "Restaurer moteurs par défaut">
 <!ENTITY pref_search_restore_defaults_summary "Restaurer les moteurs de recherche par défaut">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l\u0027icône &formatI;.">
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
-<!ENTITY pref_category_home "Écran d\u0027accueil">
+<!ENTITY pref_category_home "Accueil">
+<!ENTITY pref_category_home_summary "Personnaliser l\u0027écran d\u0027accueil">
 <!ENTITY pref_category_home_panels "Panneaux">
+<!ENTITY pref_home_add_panel "Ajouter un panneau">
+<!ENTITY home_add_panel_title "Nouveau panneau">
+<!ENTITY home_add_panel_empty "Désolé, aucun panneau à ajouter n\u0027a été trouvé.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "« &formatS; » ajouté à l\u0027écran d\u0027accueil">
+<!ENTITY pref_category_home_content_settings "Paramètres du contenu">
+<!ENTITY pref_home_updates "Mises à jour automatiques">
+<!ENTITY pref_home_updates_enabled "Activées">
+<!ENTITY pref_home_updates_wifi "Seulement par Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personnalisation">
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY find_in_page "Rechercher dans la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
+<!ENTITY page "Page">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
 <!ENTITY new_private_tab "Nouvel onglet nav. privée">
@@ -245,11 +262,11 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 <!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
-<!ENTITY contextmenu_site_settings "Modifier les paramètres de site">
+<!ENTITY contextmenu_site_settings "Modifier paramètres de site">
 <!ENTITY contextmenu_top_sites_edit "Modifier">
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
 <!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
-<!ENTITY contextmenu_add_search_engine "Ajouter un moteur de recherche">
+<!ENTITY contextmenu_add_search_engine "Ajouter moteur de recherche">
 
 <!ENTITY pref_titlebar_mode "Barre de titre">
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Aucun paramètre à effacer.">
 
+<!ENTITY reading_list_add "Ajouter à la liste de lecture">
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
@@ -308,14 +326,18 @@ size. -->
 <!ENTITY home_most_recent_title "Les plus récents">
 <!ENTITY home_most_recent_empty "Les sites récemment visités s\u0027affichent ici.">
 <!ENTITY home_reading_list_empty "Les articles enregistrés pour plus tard s\u0027affichent ici.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &#37;I lorsque celle-ci apparaît dans la barre de titre.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &formatI; lorsque celle-ci apparaît dans la barre de titre.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre de titre.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Pas de contenu disponible pour ce panneau.">
 
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
@@ -357,9 +379,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
 <!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Voulez-vous activer les suggestions de recherche &formatS; ?">
+<!ENTITY suggestions_prompt3 "Voulez-vous activer les suggestions de recherche ?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
