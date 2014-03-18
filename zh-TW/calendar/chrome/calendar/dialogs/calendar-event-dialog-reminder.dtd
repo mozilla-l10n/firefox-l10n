@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "提醒內容">
 <!ENTITY reminder.action.label                             "選擇提醒動作">
 
-<!ENTITY reminder.relation.before.label                    "此日期之前" >
-<!ENTITY reminder.relation.after.label                     "此日期之後" >
-
 <!ENTITY reminder.action.alert.label                       "通知我">
 <!ENTITY reminder.action.email.label                       "寄送電子郵件">
 

@@ -4,4 +4,7 @@
 
 <!ENTITY  closeTab.label           "關閉分頁">
 <!ENTITY  listAllTabs.label        "列出所有分頁">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "首頁">
 

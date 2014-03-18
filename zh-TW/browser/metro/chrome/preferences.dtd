@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "已登入的連線">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "記住密碼">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "顯示導覽按鈕">
 <!ENTITY doNotTrack.title                                        "不要追蹤我">
 <!ENTITY doNotTrack.options.doNotTrack                           "告訴網站我不想被追蹤">
 <!ENTITY doNotTrack.options.doTrack                              "告訴網站我想要被追蹤">

@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "訊息">
 <!ENTITY consoleCodeEval.label     "程式碼:">
 <!ENTITY consoleClear.label        "清除">
+<!ENTITY consoleCopyAll.label      "複製">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "原始檔:">
 <!ENTITY consoleErrLine.label      "行號:">
 <!ENTITY consoleErrColumn.label    "欄數:">
+<!ENTITY consoleFollowCheckbox.label "跟隨">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "剪下">
@@ -136,12 +138,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 <!ENTITY firstRunBack.label "點擊以回到上一頁">
 <!ENTITY firstRunNewTab.label "開新分頁以瀏覽新網站">

@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "到" >
 <!ENTITY newevent.attendees.notify.label    "通知參與者">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "在邀請中隱藏參加者">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "若啟用，參加者將不會在邀請中看到彼此，僅對郵件邀請有效。">
+
 <!ENTITY newevent.status.label                    "狀態" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "未指定" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "邀請參與者…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "檢查拼字…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "即時拼字檢查">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "新增鏈結…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "顯示時區">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "重要性">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "儲存並關閉">
 <!ENTITY  event.toolbar.delete.label                      "刪除">
 <!ENTITY  event.toolbar.attendees.label                   "邀請參與者">
-<!ENTITY  event.toolbar.spellcheck.label                  "拼字檢查">
 <!ENTITY  event.toolbar.privacy.label                     "隱私">
 
 <!ENTITY  event.toolbar.save.tooltip                      "儲存並關閉">
 <!ENTITY  event.toolbar.delete.tooltip                    "刪除">
 <!ENTITY  event.toolbar.attendees.tooltip                 "邀請參與者">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "拼字檢查">
 <!ENTITY  event.toolbar.attachments.tooltip               "新增附件">
 <!ENTITY  event.toolbar.privacy.tooltip                   "變更隱私性">
 <!ENTITY  event.toolbar.priority.tooltip                  "變更優先權">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "分類:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "新增分類" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "行事曆:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "與會者:" >
@@ -374,6 +368,5 @@
 <!ENTITY read.only.reminder.label        "提醒:">
 <!ENTITY read.only.attendees.label       "與會者">
 <!ENTITY read.only.description.label     "描述">
-<!ENTITY read.only.documents.label       "文件">
 <!ENTITY read.only.link.label            "相關鏈結">
 
