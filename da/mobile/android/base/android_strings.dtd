@@ -54,6 +54,7 @@
 <!ENTITY back "Tilbage">
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Webstedssikkerhed">
+<!ENTITY save "Gem">
 
 <!ENTITY close_tab "Luk faneblad">
 <!ENTITY one_tab "1 faneblad">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Avanceret">
 <!ENTITY pref_category_customize "Tilpas">
 <!ENTITY pref_category_search3 "Søg">
+<!ENTITY pref_category_search_summary "Tilpas dine søgetjenester">
 <!ENTITY pref_category_display "Vis">
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,32 @@
 <!ENTITY pref_category_search_restore_defaults "Gendan søgetjenester">
 <!ENTITY pref_search_restore_defaults "Gendan oprindelige indstillinger">
 <!ENTITY pref_search_restore_defaults_summary "Gendan oprindelige indstillinger">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_devtools "Udviklerværktøjer">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Læs mere">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
 
 <!ENTITY pref_category_home "Hjem">
+<!ENTITY pref_category_home_summary "Tilpas din startside">
 <!ENTITY pref_category_home_panels "Paneler">
+<!ENTITY pref_home_add_panel "Tilføj panel">
+<!ENTITY home_add_panel_title "Tilføj et nyt panel">
+<!ENTITY home_add_panel_empty "Der var ingen paneler, der kan tilføjes.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' blev føjet til startsiden">
+<!ENTITY pref_category_home_content_settings "Indstillinger for indhold">
+<!ENTITY pref_home_updates "Automatiske opdateringer">
+<!ENTITY pref_home_updates_enabled "Aktiveret">
+<!ENTITY pref_home_updates_wifi "Kun via Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpas">
@@ -210,6 +227,7 @@ size. -->
 <!ENTITY save_as_pdf "Gem som PDF">
 <!ENTITY find_in_page "Find på siden">
 <!ENTITY desktop_mode "Anmod om desktopversion">
+<!ENTITY page "Side">
 <!ENTITY tools "Funktioner">
 <!ENTITY new_tab "Nyt faneblad">
 <!ENTITY new_private_tab "Nyt faneblad med privat browsing">
@@ -273,6 +291,7 @@ size. -->
 <!ENTITY site_settings_clear        "Ryd">
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
+<!ENTITY reading_list_add "Føj til læseliste">
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
 <!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
@@ -310,12 +329,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på ikonen &#37;I, når den vises i titellinjen.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på ikonet &formatI;, når det vises i titellinjen.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på Læser-knappen, når den vises i titellinjen.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Der blev ikke fundet indhold til dette panel.">
 
 <!ENTITY pin_site_dialog_hint "Indtast søgeterm">
 
@@ -360,9 +383,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          fra Android">
 <!ENTITY bookmarkhistory_import_wait "Vent...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Vil du slå søgeforslag til for &formatS;?">
+<!ENTITY suggestions_prompt3 "Vil du aktivere søgeforslag?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
