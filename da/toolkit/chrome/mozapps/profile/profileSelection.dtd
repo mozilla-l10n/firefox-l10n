@@ -27,5 +27,5 @@
 <!ENTITY offlineState.label    "Arbejd offline">
 <!ENTITY offlineState.accesskey "A">
 
-<!ENTITY autoSelect.label       "Spørg ikke ved opstart">
-<!ENTITY autoSelect.accesskey   "p">
+<!ENTITY            useSelected.label       "Brug den valgte profil uden at spørge ved opstart">
+<!ENTITY            useSelected.accesskey   "B">
