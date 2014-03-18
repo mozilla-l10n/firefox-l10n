@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Connexions actives">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Enreg. mots de passe">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Boutons de navigation">
 <!ENTITY doNotTrack.title                                        "Ne pas me pister">
 <!ENTITY doNotTrack.options.doNotTrack                           "Indiquer aux sites que je ne souhaite pas être pisté">
 <!ENTITY doNotTrack.options.doTrack                              "Indiquer aux sites que je souhaite être pisté">
