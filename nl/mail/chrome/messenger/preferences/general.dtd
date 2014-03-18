@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Wijzig eigenschappen van het programmasymbool">
+<!ENTITY dockOptions.label                "Opties programmasymbool…">
+<!ENTITY dockOptions.accesskey            "p">
 
 <!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
@@ -34,4 +35,3 @@
 <!ENTITY customsound.accesskey            "v">
 <!ENTITY browse.label                     "Bladeren…">
 <!ENTITY browse.accesskey                 "B">
-

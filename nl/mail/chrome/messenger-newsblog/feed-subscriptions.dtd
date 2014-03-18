@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Feeds exporteren met mapstructuur; Ctrl+klikken of Ctrl+Enter om feeds als een lijst te exporteren">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Sluiten">

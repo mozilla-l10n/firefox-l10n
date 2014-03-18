@@ -4,3 +4,6 @@
 
 <!ENTITY closeTab.label             "Tabblad sluiten">
 <!ENTITY listAllTabs.label          "Alle tabbladtitels weergeven">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Startpagina">
