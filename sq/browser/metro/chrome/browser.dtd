@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Mesazhe">
 <!ENTITY consoleCodeEval.label     "Kod:">
 <!ENTITY consoleClear.label        "Pastroje">
+<!ENTITY consoleCopyAll.label      "Kopjoje">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kartela Burim:">
 <!ENTITY consoleErrLine.label      "Rresht:">
 <!ENTITY consoleErrColumn.label    "Shtyllë:">
+<!ENTITY consoleFollowCheckbox.label "Ndiqe">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Prije">
