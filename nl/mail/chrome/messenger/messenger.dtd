@@ -569,9 +569,9 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Waarschuwing voor dit bericht negeren">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Scamdetectie-opties bewerken…">
+<!ENTITY phishingOptionSettings.label "Scamdetectieopties bewerken…">
 <!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Scamdetectie-voorkeuren bewerken…">
+<!ENTITY phishingOptionSettingsUnix.label "Scamdetectievoorkeuren bewerken…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
@@ -670,24 +670,24 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Weer te geven kolommen selecteren">
 <!ENTITY threadColumn2.tooltip "Berichtconversaties weergeven">
-<!ENTITY fromColumn2.tooltip "Op afzender sorteren">
-<!ENTITY recipientColumn2.tooltip "Op ontvanger sorteren">
-<!ENTITY subjectColumn2.tooltip "Op onderwerp sorteren">
-<!ENTITY dateColumn2.tooltip "Op datum sorteren">
-<!ENTITY priorityColumn2.tooltip "Op prioriteit sorteren">
-<!ENTITY tagsColumn2.tooltip "Op labels sorteren">
-<!ENTITY accountColumn2.tooltip "Op account sorteren">
-<!ENTITY statusColumn2.tooltip "Op status sorteren">
-<!ENTITY sizeColumn2.tooltip "Op grootte sorteren">
-<!ENTITY junkStatusColumn2.tooltip "Op ongewenstberichtstatus sorteren">
+<!ENTITY fromColumn2.tooltip "Sorteren op van">
+<!ENTITY recipientColumn2.tooltip "Sorteren op ontvanger">
+<!ENTITY subjectColumn2.tooltip "Sorteren op onderwerp">
+<!ENTITY dateColumn2.tooltip "Sorteren op datum">
+<!ENTITY priorityColumn2.tooltip "Sorteren op prioriteit">
+<!ENTITY tagsColumn2.tooltip "Sorteren op labels">
+<!ENTITY accountColumn2.tooltip "Sorteren op account">
+<!ENTITY statusColumn2.tooltip "Sorteren op status">
+<!ENTITY sizeColumn2.tooltip "Sorteren op grootte">
+<!ENTITY junkStatusColumn2.tooltip "Sorteren op ongewenstberichtstatus">
 <!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
 <!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
-<!ENTITY readColumn2.tooltip "Op gelezen sorteren">
-<!ENTITY receivedColumn2.tooltip "Op ontvangstdatum sorteren">
-<!ENTITY starredColumn2.tooltip "Op ster sorteren">
-<!ENTITY locationColumn2.tooltip "Op locatie sorteren">
-<!ENTITY idColumn2.tooltip "Op volgorde van ontvangst sorteren">
-<!ENTITY attachmentColumn2.tooltip "Op bijlagen sorteren">
+<!ENTITY readColumn2.tooltip "Sorteren op gelezen">
+<!ENTITY receivedColumn2.tooltip "Sorteren op ontvangstdatum">
+<!ENTITY starredColumn2.tooltip "Sorteren op ster">
+<!ENTITY locationColumn2.tooltip "Sorteren op locatie">
+<!ENTITY idColumn2.tooltip "Sorteren op volgorde van ontvangst">
+<!ENTITY attachmentColumn2.tooltip "Sorteren op bijlagen">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
@@ -706,7 +706,7 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
-<!ENTITY contextReplyNewsgroup2.label "Reageer naar nieuwsgroep">
+<!ENTITY contextReplyNewsgroup2.label "Reageren naar nieuwsgroep">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
