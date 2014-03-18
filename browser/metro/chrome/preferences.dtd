@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Hyrje aktive">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Mbaji Mend Fjalëkalimet">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Shfaq Butona Lëvizjeje">
 <!ENTITY doNotTrack.title                                        "Mos Më Gjurmo">
 <!ENTITY doNotTrack.options.doNotTrack                           "Thuaju sajteve web se nuk dua të gjurmohem">
 <!ENTITY doNotTrack.options.doTrack                              "Thuaju sajteve web se dua të gjurmohem">
