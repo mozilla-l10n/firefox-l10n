@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Berichtenfilters">
 <!ENTITY nameColumn.label "Filternaam">
-<!ENTITY activeColumn.label "Actief">
+<!ENTITY activeColumn.label "Ingeschakeld">
 <!ENTITY newButton.label "Nieuw…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Bewerken…">
@@ -13,15 +13,15 @@
 <!ENTITY deleteButton.accesskey "V">
 <!ENTITY reorderTopButton "Bovenaan plaatsen">
 <!ENTITY reorderTopButton.accessKey "B">
-<!ENTITY reorderTopButton.toolTip "Verplaats filter zodat het als eerste uitgevoerd wordt">
+<!ENTITY reorderTopButton.toolTip "Filter verplaatsen, zodat het als eerste wordt uitgevoerd">
 <!ENTITY reorderUpButton.label "Omhoog verplaatsen">
 <!ENTITY reorderUpButton.accesskey "m">
 <!ENTITY reorderDownButton.label "Omlaag verplaatsen">
 <!ENTITY reorderDownButton.accesskey "l">
 <!ENTITY reorderBottomButton "Onderaan plaatsen">
 <!ENTITY reorderBottomButton.accessKey "O">
-<!ENTITY reorderBottomButton.toolTip "Verplaats filter zodat het als laatste uitgevoerd wordt">
-<!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
+<!ENTITY reorderBottomButton.toolTip "Filter verplaatsen, zodat het als laatste wordt uitgevoerd">
+<!ENTITY filterHeader.label "Ingeschakelde filters worden automatisch in de onderstaande volgorde uitgevoerd.">
 <!ENTITY filtersForPrefix.label "Filters voor:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogboek">
@@ -35,4 +35,4 @@
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
-<!ENTITY searchBox.emptyText "Filters op naam zoeken…">
+<!ENTITY searchBox.emptyText "Filters zoeken op naam…">
