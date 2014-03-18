@@ -79,7 +79,8 @@
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka.">
+<!ENTITY pref_search_hint "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka un tad piespiežot &formatI; iconu.">
+
 <!ENTITY pref_category_devtools "Izstrādātāju rīki">
 <!ENTITY pref_developer_remotedebugging "Attālinātā atkļūdošana">
 <!ENTITY pref_developer_remotedebugging_docs "Uzzināt vairāk">
@@ -87,6 +88,18 @@
 
 <!ENTITY pref_category_home "Sākums">
 <!ENTITY pref_category_home_panels "Paneļi">
+<!ENTITY pref_category_home_content_settings "Satura iestatījumi">
+<!ENTITY pref_category_home_summary "Sākumlapas pielāgojumi">
+<!ENTITY pref_home_add_panel "Pievienot paneli">
+<!ENTITY home_add_panel_title "Pievienot jaunu paneli">
+<!ENTITY home_add_panel_empty "Atvainojiet, mums neizdevās atrast nevienu paneli, ko pievienot.">
+<!ENTITY home_add_panel_installed "\'&formatS;\' pievienot sākumlapai">
+<!ENTITY home_default_empty "Šim panelim neizdevās atrast saturu.">
+<!ENTITY pref_home_updates "Automātiskie atjauninājumi">
+<!ENTITY pref_home_updates_enabled "Aktivēti">
+<!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
+<!ENTITY reading_list_add "Pievienot lasīšanas sarakstam">
+<!ENTITY save "Saglabāt">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Pielāgošana">
@@ -211,6 +224,7 @@ size. -->
 <!ENTITY find_in_page "Meklēt lapā">
 <!ENTITY desktop_mode "Pāriet uz lapas pilno versiju">
 <!ENTITY tools "Rīki">
+<!ENTITY page "Lapa">
 <!ENTITY new_tab "Jauna cilne">
 <!ENTITY new_private_tab "Jauna privātā cilne">
 <!ENTITY close_all_tabs "Aizvērt visas cilnes">
@@ -315,7 +329,7 @@ size. -->
 <!ENTITY home_reading_list_hint "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &#37;I ikonu, kad tā parādās virsraksta joslā.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot lasīšanas režīma pogu, kad tā parādās virsraksta joslā.">
+<!ENTITY home_reading_list_hint2 "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &formatI; pogu, kad tā parādās virsraksta joslā.">
 
 <!ENTITY pin_site_dialog_hint "Ievadiet meklējamo frāzi">
 
@@ -360,9 +374,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          no Android">
 <!ENTITY bookmarkhistory_import_wait "Lūdzu, uzgaidiet...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Vai vēlaties ieslēgt &formatS; meklēšanas ieteikumus?">
+<!ENTITY suggestions_prompt3 "Vai vēlaties ieslēgt meklēšanas ieteikumus?">
+
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
