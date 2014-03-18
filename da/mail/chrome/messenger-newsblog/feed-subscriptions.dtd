@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Eksporter feed med mappestruktur; Brug Ctrl+klik eller Ctrl+Enter til at eksportere feedet som en liste">
 
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label          "Luk">
