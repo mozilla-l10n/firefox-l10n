@@ -91,13 +91,6 @@
 <!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Adrese netika saprasta">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>Iespējams, jums jāinstalē kāda papildu programma, lai apstrādātu šī tipa adreses.</li>
-</ul>
-">
-
 <!ENTITY proxyConnectFailure.title "Starpniekserveris nepieņem savienojumus">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
