@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Mewngofnodion gweithredol">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Cofio Cyfrineiriau">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Dangos Botymau Symud">
 <!ENTITY doNotTrack.title                                        "Peidio Tracio">
 <!ENTITY doNotTrack.options.doNotTrack                           "Dweud wrth wefannau: Peidio tracio">
 <!ENTITY doNotTrack.options.doTrack                              "Dweud wrth wefannau: Croeso i chi dracio">
