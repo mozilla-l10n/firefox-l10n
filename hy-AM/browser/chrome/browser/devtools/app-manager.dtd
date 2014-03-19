@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Իրավունքներ">
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "Օգնություն">
 
 <!ENTITY connection.connectTooltip "Միանալ սարքին">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "Վավեր է">
 <!ENTITY projects.error "Սխալ">
 <!ENTITY projects.warning "Զգուշացում">
+
+
 
 <!ENTITY help.title "Ծր. կառավարիչ">
 <!ENTITY help.close "Փակել">
