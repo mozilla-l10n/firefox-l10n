@@ -59,17 +59,19 @@
 <!ENTITY consoleMessages.label     "Mesej">
 <!ENTITY consoleCodeEval.label     "Kod:">
 <!ENTITY consoleClear.label        "Kosongkan">
+<!ENTITY consoleCopyAll.label      "Salin">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fail Sumber:">
 <!ENTITY consoleErrLine.label      "Baris:">
 <!ENTITY consoleErrColumn.label    "Kolum">
+<!ENTITY consoleFollowCheckbox.label "Ikut">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Potong">
 <!ENTITY contextTextCopy.label             "Salin">
 <!ENTITY contextTextPaste.label            "Tampal">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Tampal &amp; pergi">
+<!ENTITY contextTextPasteAndGo.label       "Tampal  pergi">
 <!ENTITY contextTextSelect.label           "Pilih">
 <!ENTITY contextTextSelectAll.label        "Pilih semua">
 <!-- LINK CONTEXT MENU -->
@@ -135,12 +137,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "Tap untuk kembali kepada laman sebelum">

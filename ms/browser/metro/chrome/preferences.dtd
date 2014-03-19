@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Cookie">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Keutamaan Laman">
-<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; latar carian">
+
 <!ENTITY clearPrivateData.passwords                              "Kata laluan disimpan">
 <!ENTITY clearPrivateData.offline                                "Data laman web luar talian">
 <!ENTITY clearPrivateData.logins                                 "Login Aktif">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Ingat Kata Laluan">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Tunjuk Butang Navigasi">
 <!ENTITY doNotTrack.title                                        "Jangan Jejaki">
 <!ENTITY doNotTrack.options.doNotTrack                           "Beritahu laman yang saya tidak mahu dijejaki">
 <!ENTITY doNotTrack.options.doTrack                              "Beritahu laman yang saya mahu dijejaki">

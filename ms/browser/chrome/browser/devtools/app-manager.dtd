@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Kebenaran">
 <!ENTITY device.permissionsTooltip "Lihat jadual keizinan yang boleh dicapai pada aplikasi dari jenis yang berbeza">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+<!ENTITY device.browserTabsTooltip "Lihat senarai tab dalam pelayar pada peranti yang disambung">
+
+
 <!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambung ke peranti">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "Sah">
 <!ENTITY projects.error "Ralat">
 <!ENTITY projects.warning "Amaran">
+<!ENTITY projects.hosted "Dihoskan">
+<!ENTITY projects.packaged "Dipakejkan">
 
 <!ENTITY help.title "Pengurusan Aplikasi">
 <!ENTITY help.close "Tutup">

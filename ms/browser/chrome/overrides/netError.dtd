@@ -72,8 +72,8 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Alamat tidak difahami">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li> 
 </ul>">
 

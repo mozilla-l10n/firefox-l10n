@@ -76,7 +76,7 @@
 <!ENTITY  securityView.identity.domain   "Web site:">
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
 
-<!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
+<!ENTITY  securityView.privacy.header                   "Peribadi  Sejarah">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
 <!ENTITY  securityView.privacy.cookies                  "Adakah laman web ini menyimpan maklumat (kuki) pada komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Papar Cookies">

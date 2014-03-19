@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Serlahkan semua">
 <!ENTITY highlightAll.accesskey "s">
 <!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa berkenaan">
-<!ENTITY caseSensitive.label "Kes Sepadan">
-<!ENTITY caseSensitive.accesskey "K">
+
+
 <!ENTITY caseSensitive.tooltiptext "Cari dengan sensitiviti klausa">
