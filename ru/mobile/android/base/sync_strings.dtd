@@ -66,8 +66,8 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Некорректный ключ восстановления. Пожалуйста, попробуйте ещё раз.">
 <!ENTITY sync.title.send.tab.label "Отправка вкладки на устройства">
 <!ENTITY sync.button.send.label "Отправить">
-<!ENTITY sync.button.set.up.sync.label "Настроить &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Настройка &syncBrand.shortName.label; для отправки вкладок">
+<!ENTITY sync.button.set.up.sync.label "Настроить Синхронизацию">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Настройка Синхронизации для отправки вкладок">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
 <!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
@@ -82,10 +82,10 @@
 <!ENTITY fxaccount_back_to_browsing "Вернуться к веб-сёрфингу">
 <!ENTITY fxaccount_policy_linktos "Условия службы">
 <!ENTITY fxaccount_policy_linkprivacy "Уведомление о приватности">
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Добро пожаловать в &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Добро пожаловать в Синхронизацию">
 <!ENTITY fxaccount_getting_started_description "Войдите для синхронизации ваших вкладок, закладок, паролей и многого другого.">
 <!ENTITY fxaccount_getting_started_get_started "Начать">
-<!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию Синхронизации?">
 <!ENTITY fxaccount_create_account_header "Создать учётную запись Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Должен быть не короче 8 символов">
 <!ENTITY fxaccount_create_account_year_of_birth "Год рождения">
@@ -115,7 +115,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_status_header "Учётная запись Firefox">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: включена">
+<!ENTITY fxaccount_status_sync_enabled "Синхронизация: включена">
 <!ENTITY fxaccount_status_needs_verification2 "Ваша учетная запись должна быть подтверждена. Нажмите, чтобы снова отправить письмо для подтверждения.">
 <!ENTITY fxaccount_status_needs_credentials "Не удалось соединиться. Нажмите для входа.">
 <!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
@@ -125,8 +125,8 @@
 <!ENTITY fxaccount_status_tabs "Открытые вкладки">
 <!ENTITY fxaccount_status_legal "Юридическая информация">
 <!ENTITY fxaccount_account_type_label "Firefox">
-<!ENTITY fxaccount_options_title "Настройки &syncBrand.shortName.label;">
-<!ENTITY fxaccount_options_configure_title "Настройка &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_title "Настройки Синхронизации">
+<!ENTITY fxaccount_options_configure_title "Настройка Синхронизации">
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Вам нужно обновить Firefox">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Учётная запись уже существует. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Неверный адрес эл. почты или пароль">
@@ -136,5 +136,5 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер занят, подождите и попробуйте ещё раз">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Возникла проблема">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Не удается соединиться с сетью">
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; не подсоединился">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Нет соединения с сервером Синхронизации">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Нажмите, чтобы войти как &formatS;">
