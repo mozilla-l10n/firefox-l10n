@@ -10,7 +10,7 @@
 <!ENTITY sync.deviceName "Это устройство">
 <!ENTITY sync.disconnect "Разъединиться">
 <!ENTITY sync.syncNow "Синхронизировать">
-<!ENTITY sync.setup.title "Соединение с Sync">
+<!ENTITY sync.setup.title "Соединение с Синхронизацией">
 <!ENTITY sync.setup.pair "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY sync.fallback "Я не рядом с моим компьютером…">
 <!ENTITY sync.setup.manual "Введите данные вашей учётной записи синхронизации">

@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-    %brandDTD;
-
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
 <!ENTITY syncProgress.pageTitle "Ваша первая синхронизация">
 <!ENTITY syncProgress.textBlurb "Ваши данные сейчас шифруются и выгружаются в фоновом режиме. Вы можете закрыть эту вкладку и продолжить использовать &brandShortName;.">
 <!ENTITY syncProgress.closeButton "Закрыть">

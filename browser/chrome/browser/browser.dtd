@@ -68,11 +68,11 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
-<!ENTITY fxaSignIn.label "Войти в &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Присоединиться заново к &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; включена">
+<!ENTITY fxaSignIn.label "Войти в Синхронизацию">
+<!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
+<!ENTITY syncStartPanel2.heading "Синхронизация включена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
-<!ENTITY syncErrorPanel.heading "Не удалось соединиться с &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.heading "Не удалось соединиться с сервером Синхронизации">
 <!ENTITY syncErrorPanel.subTitle "Войдите, чтобы возобновить синхронизацию.">
 <!ENTITY syncErrorPanel.signInButton.label "Войти">
 <!ENTITY syncErrorPanel.signInButton.accesskey "о">
@@ -472,12 +472,12 @@
 <!ENTITY identity.help.tooltip "Как я могу узнать, что мое соединение с веб-сайтом является защищённым?">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
-<!ENTITY syncBrand.shortName.label "Синхронизация">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Настроить синхронизацию…">
 <!ENTITY syncSetup.accesskey "с">
 <!ENTITY syncSyncNowItem.label "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey "х">
-<!ENTITY syncReAuthItem.label "Присоединиться заново к &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label "Присоединиться заново к Синхронизации…">
 <!ENTITY syncReAuthItem.accesskey "и">
 <!ENTITY syncToolbarButton.label "Синхро­низация">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">

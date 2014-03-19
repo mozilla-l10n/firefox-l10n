@@ -12,7 +12,7 @@
 <!ENTITY viewQuota.label "Просмотреть квоту">
 <!ENTITY changePassword2.label "Сменить пароль…">
 <!ENTITY myRecoveryKey.label "Мой ключ восстановления">
-<!ENTITY resetSync2.label "Заменить или объединить данные Sync…">
+<!ENTITY resetSync2.label "Заменить или объединить данные синхронизации…">
 <!ENTITY pairDevice.label "Соединиться с устройством">
 <!ENTITY syncMy.label "Синхронизировать мои">
 <!ENTITY engine.bookmarks.label "Закладки">
@@ -47,4 +47,4 @@
 <!ENTITY welcome.description "Доступ к вкладкам, закладкам, паролям и другим данным из любого места, где вы используете &brandShortName;.">
 <!ENTITY welcome.signIn.label "Войти">
 <!ENTITY welcome.createAccount.label "Создать учётную запись">
-<!ENTITY welcome.useOldSync.label "Используете старую версию Sync?">
+<!ENTITY welcome.useOldSync.label "Используете старую версию Синхронизации?">
