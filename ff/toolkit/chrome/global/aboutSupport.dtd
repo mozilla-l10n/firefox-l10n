@@ -20,7 +20,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Innde">
 <!ENTITY aboutSupport.extensionEnabled "Daaƴtaaɗo">
 <!ENTITY aboutSupport.extensionVersion "Yamre">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Cifagol">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Hello jaɓɓorgo">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Beeɓtuɗe Jaaɓnirgal">
 <!ENTITY aboutSupport.appBasicsName "Innde">

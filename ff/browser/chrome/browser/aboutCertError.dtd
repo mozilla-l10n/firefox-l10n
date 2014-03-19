@@ -9,7 +9,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Ceŋol Hoolaaka">
+<!ENTITY certerror.pagetitle  "Ceŋol ngol Hoolaaka">
 <!ENTITY certerror.longpagetitle "Ngol Ceŋol Hoolaaka">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -26,7 +26,7 @@ ndee lowre tawa alaa caɗeele, ndeen juumre ena waawi firde won
 etotooɗo jamfaade lowre ndee, te a fotaani jokkude.">
 <!ENTITY certerror.getMeOutOfHere.label "Yaltin am ɗoo, a haalii bone!">
 
-<!ENTITY certerror.expert.heading "Miɗo Faami Nawaaje ɗee">
+<!ENTITY certerror.expert.heading "Miɗo Faami Ñawooje ɗee">
 <!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa 
 waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innital ndee lowre. 
 <b>Hay so aɗa hoolii lowre ndee, ndeen juumre ena waawi firde wonde won 

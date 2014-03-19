@@ -22,7 +22,7 @@
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Nelaaɗe">
 <!ENTITY aboutNetworking.received              "Keɓaaɗe">
-
+<!ENTITY aboutNetworking.family                "Galle">
 
 <!ENTITY aboutNetworking.expires               "Buuntata (Maje)">
 <!ENTITY aboutNetworking.messagesSent          "Ɓatakuuji nuldaaɗi">

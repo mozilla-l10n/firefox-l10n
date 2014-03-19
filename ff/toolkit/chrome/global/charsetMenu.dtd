@@ -7,11 +7,12 @@
 <!-- The strings below are unused on m-c. They will be removed post-Australis -->
 <!-- A reserved for Arabic -->
 
+<!ENTITY charsetMenuAutodet.off.label     "(ñifɗo)">
+<!ENTITY charsetMenuAutodet.off.accesskey "ñ">
 
 
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.ru.label      "Riisiŋkoore">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+<!ENTITY charsetMenuAutodet.uk.label      "Ukereneere">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
 
