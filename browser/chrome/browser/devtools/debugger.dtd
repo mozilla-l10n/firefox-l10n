@@ -10,10 +10,6 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-
-
-
-<!ENTITY debuggerUI.closeButton.tooltip "மூடு">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
 
@@ -21,32 +17,20 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.label "இதன் மூலமானது கருப்பு பெட்டகம்: இதன் தடுப்பு புள்ளிகள் செயலாக்கத்தில் இல்லை, அதனால் இதனூடாக கடந்து செல்கிறேன்.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "இந்த மூலத்தின் கருப்பு பெட்டகத்தை நிறுத்து">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-
-<!ENTITY debuggerUI.optsButton.tooltip  "வழுநீக்கி விருப்பங்கள்">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-
-<!ENTITY debuggerUI.sources.blackBoxTooltip "கருப்பு பெட்டியாக்கத்தில் நிலைமாறு">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-
-<!ENTITY debuggerUI.sources.prettyPrint "ப்ரிட்டிஃபை மூலம்">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
-
-<!ENTITY debuggerUI.sources.toggleBreakpoints "அனைத்து ப்ரேக்பாயின்ட்டுகளையும் செயற்படுத்து/முடக்கு">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
@@ -78,8 +62,6 @@
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-
-<!ENTITY debuggerUI.searchPanelOperators    "செயல்படுத்திகள்:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile.key       "P">
@@ -95,8 +77,6 @@
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
-
-<!ENTITY debuggerUI.searchToken           "கண்டுபிடி">
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
@@ -113,8 +93,6 @@
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-
-<!ENTITY debuggerUI.condBreakPanelTitle "பின்வரும் தொடர்கள் மெய் என்றபட்சத்தில் மட்டுமே இந்த ப்ரேக்பாயின்ட்டானது செயல்படுத்தலை நிறுத்தும்">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak.key "B">
@@ -124,9 +102,7 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
-<!ENTITY debuggerUI.tabs.sources        "மூலங்கள்">
-<!ENTITY debuggerUI.tabs.traces         "தடயங்கள்">
+<!ENTITY debuggerUI.tabs.traces         "தடையங்கள்">
 <!ENTITY debuggerUI.tabs.callstack      "அழைப்பு படுகை">
 <!ENTITY debuggerUI.tabs.variables      "மாறிகள்">
 <!ENTITY debuggerUI.tabs.events         "நிகழ்வுகள்">

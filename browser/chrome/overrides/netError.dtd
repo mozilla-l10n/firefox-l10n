@@ -64,8 +64,8 @@
 <!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>You might need to install other software to open this address.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>You might need to install other software to open this address.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Contact your network administrator to make sure the proxy server is working.</li> </ul>">
