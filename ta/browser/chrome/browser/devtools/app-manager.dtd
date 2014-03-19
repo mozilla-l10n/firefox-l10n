@@ -8,11 +8,11 @@
 <!ENTITY index.help "உதவி">
 
 <!ENTITY device.screenshot "திரைப்பிடிப்பு">
-
+<!ENTITY device.screenshotTooltip "சாதனத்தின் நடப்பு நிலையின் திரைப்பிடிப்பை ஒரு புதிய கீற்றில் காண்பி.">
 <!ENTITY device.title "சாதன கட்டுப்பாட்டு மையம்">
 <!ENTITY device.notConnected "இணைக்கப்படவில்லை. கீழே உங்கள் சாதனத்தை இணைக்கவும்.">
 <!ENTITY device.startApp "தொடங்கு">
-
+<!ENTITY device.startAppTooltip "சாதனத்தில் இந்தப் பயன்பாட்டைத் தொடங்கவும்">
 <!ENTITY device.stopApp "நிறுத்து">
 <!ENTITY device.stopAppTooltip "சாதனத்தில் இந்தப் பயன்பாட்டை நிறுத்தவும்">
 <!ENTITY device.debugApp "வழுநீக்கு">
@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "அனுமதிகள்">
 <!ENTITY device.permissionsTooltip "வெவ்வேறு வகை பயன்பாடுகளால் அணுகக்கூடிய அனுமதிகளின் அட்டவணையைக் காணவும்">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "உதவி">
 
 <!ENTITY connection.connectTooltip "சாதனத்துடன் இணைக்கவும்">
@@ -41,7 +45,7 @@
 <!ENTITY connection.connectTo "இதற்கு இணைக்கவும்:">
 <!ENTITY connection.noDeviceFound "சாதனம் இல்லை. ஒரு சாதனத்தைச் செருகவும்">
 <!ENTITY connection.changeHostAndPort "மாற்று">
-
+<!ENTITY connection.changeHostAndPortTooltip "சாதனத்திற்கு இணைக்கப் பயன்படுத்தப்படும் வழங்கி மற்றும் சேவை எண்ணை மாற்றவும். (முன்னிருப்பு localhost:6000)">
 <!ENTITY connection.startSimulator "சிமுலேட்டரைத் தொடங்கு">
 <!ENTITY connection.startSimulatorTooltip "சிமுலேட்டர் நேர்வு ஒன்றைத் தொடங்கி, அதனுடன் இணைக்கவும்">
 <!ENTITY connection.saveConnectionInfo "சேமி">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "சரியானது">
 <!ENTITY projects.error "பிழை">
 <!ENTITY projects.warning "எச்சரிக்கை">
+
+
 
 <!ENTITY help.title "பயன்பாடு நிர்வாகி">
 <!ENTITY help.close "மூடு">

@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "பெயர்">
 
 <!ENTITY cancel.label           "விடு">
-
+<!ENTITY toggle.label           "நிலைமாற்று">
 
 <!ENTITY integer.label          "முழு எண்">
 <!ENTITY string.label           "சரம்">
 <!ENTITY boolean.label          "பூலியன்">
 
-
+<!ENTITY string.placeholder     "ஒரு சரத்தை உள்ளிடு">
+<!ENTITY number.placeholder     "ஒரு எண்ணை உள்ளிடு">
