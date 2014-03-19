@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncBrand.fullName.label "Синхронизация Firefox">
-<!ENTITY syncBrand.shortName.label "Синхронизация">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Соединение с &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "Соединение с Синхронизацией">
 <!ENTITY sync.title.adddevice.label "Добавить учётную запись &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Соединиться с устройством">
-<!ENTITY sync.subtitle.connect.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;».">
+<!ENTITY sync.subtitle.connect.label "Для активации вашего нового устройства выберите на устройстве «Настроить Синхронизацию».">
 <!ENTITY sync.subtitle.header2.label "Введите этот код на другом вашем устройстве">
-<!ENTITY sync.subtitle.connectlocation2.label "Выберите “&sync.title.pair.label;” в разделе &syncBrand.shortName.label; настроек Firefox на другом вашем устройстве.">
+<!ENTITY sync.subtitle.connectlocation2.label "Выберите “&sync.title.pair.label;” в разделе Синхронизация настроек Firefox на другом вашем устройстве.">
 <!ENTITY sync.subtitle.pair.label "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -24,21 +24,21 @@
 <!ENTITY sync.input.key.label "Ключ восстановления">
 <!ENTITY sync.checkbox.server.label "Использовать свой сервер">
 <!ENTITY sync.input.server.label "URL сервера">
-<!ENTITY sync.title.fail.label "Не удалось настроить &syncBrand.shortName.label;">
+<!ENTITY sync.title.fail.label "Не удалось настроить Синхронизацию">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; не удалось соединиться с сервером. Вы хотите попробовать снова?">
 <!ENTITY sync.button.tryagain.label "Попробовать снова">
 <!ENTITY sync.button.manual.label "Настройка вручную">
 <!ENTITY sync.subtitle.nointernet.label "Нет соединения с Интернетом.">
 <!ENTITY sync.subtitle.failaccount.label "Не удалось создать учётную запись на вашем устройстве.">
-<!ENTITY sync.subtitle.failmultiple.label "У вас установлено более одного Firefox? В настоящее время, &syncBrand.fullName.label; поддерживает работу только с одной установкой Firefox. Чтобы использовать &syncBrand.shortName.label;, пожалуйста, удалите другие установки.">
+<!ENTITY sync.subtitle.failmultiple.label "У вас установлено более одного Firefox? В настоящее время,  поддерживает работу только с одной установкой Firefox. Чтобы использовать Синхронизацию, пожалуйста, удалите другие установки.">
 <!ENTITY sync.title.success.label "Настройка завершена">
 <!ENTITY sync.subtitle.success.label1 "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью, или начать сёрфинг в &brandShortName;.">
 <!ENTITY sync.settings.label "Параметры">
 <!ENTITY sync.subtitle.manage.label1 "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью, или запустить &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Пожалуйста, попробуйте снова.">
-<!ENTITY sync.pair.connectlocation.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;», а затем выберите «У меня есть учётная запись».">
+<!ENTITY sync.pair.connectlocation.label "Для активации вашего нового устройства выберите на устройстве «Настроить Синхронизацию», а затем выберите «У меня есть учётная запись».">
 <!ENTITY sync.settings.options.label "Настройки">
-<!ENTITY sync.summary.pair.label "Связать другое устройство с вашей учётной записью &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Связать другое устройство с вашей учётной записью Синхронизации">
 <!ENTITY sync.configure.engines.title.label "Что синхронизировать">
 <!ENTITY sync.configure.engines.sync.my.title.label "Синхронизировать ваши…">
 <!ENTITY sync.configure.engines.title.bookmarks "Закладки">
