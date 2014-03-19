@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "សារ">
 <!ENTITY consoleCodeEval.label     "កូដ៖">
 <!ENTITY consoleClear.label        "សម្អាត">
+<!ENTITY consoleCopyAll.label      "ចម្លង">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ឯកសារ​ប្រភព ៖">
 <!ENTITY consoleErrLine.label      "បន្ទាត់ ៖">
 <!ENTITY consoleErrColumn.label    "ជួរឈរ ៖">
+<!ENTITY consoleFollowCheckbox.label "អនុវត្ត​តាម">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "កាត់">
-<!ENTITY contextTextCopy.label             "ចម្លង">
+
 <!ENTITY contextTextPaste.label            "បិទភ្ជាប់">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "បិទភ្ជាប់ &amp; ទៅ">
 <!ENTITY contextTextSelect.label           "ជ្រើស">
 <!ENTITY contextTextSelectAll.label        "ជ្រើស​ទាំងអស់">
 <!-- LINK CONTEXT MENU -->
@@ -135,12 +136,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "ប៉ះ​ដើម្បី​ត្រឡប់​ទៅ​ទំព័រ​មុន">
