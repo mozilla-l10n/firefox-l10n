@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "​ខូគី">
 <!ENTITY clearPrivateData.cache                                  "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY clearPrivateData.sitePref                               "ចំណូលចិត្ត​តំបន់​បណ្ដាញ">
-<!ENTITY clearPrivateData.formSearchHist                         "សំណុំ​បែបបទ &amp; ប្រវត្តិ​ស្វែងរក">
+<!ENTITY clearPrivateData.formSearchHist                         "ទម្រង់  ប្រវត្តិ​ស្វែងរក">
 <!ENTITY clearPrivateData.passwords                              "​ពាក្យសម្ងាត់​ដែល​បាន​រក្សា​ទុក">
 <!ENTITY clearPrivateData.offline                                "ទិន្នន័យ​តំបន់បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY clearPrivateData.logins                                 "ការ​ចូល​សកម្ម">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "ចងចាំ​ពាក្យសម្ងាត់">
+
 <!ENTITY doNotTrack.title                                        "កុំ​តាមដាន">
 <!ENTITY doNotTrack.options.doNotTrack                           "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​មិន​ចង់​ឲ្យ​គេ​តាមដាន​ទេ">
 <!ENTITY doNotTrack.options.doTrack                              "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​ចង់​ឲ្យ​គេ​តាមដាន">
