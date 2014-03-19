@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Istoric">
 <!ENTITY dataSection.label            "Donadas">
 
-<!ENTITY itemHistoryAndDownloads.label     "Istoric de navigacion &amp; dels telecargaments">
-<!ENTITY itemHistoryAndDownloads.accesskey "I">
-<!ENTITY itemFormSearchHistory.label       "Istoric dels formularis &amp; de las recèrcas">
-<!ENTITY itemFormSearchHistory.accesskey   "f">
+
+
+
 <!ENTITY itemPasswords.label               "Senhals enregistrats">
 <!ENTITY itemPasswords.accesskey           "h">
 <!ENTITY itemCookies.label                 "Cookies">

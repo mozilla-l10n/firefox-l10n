@@ -1,9 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncCustomize.dialog.title       "Seleccion de la sincronizacion">
 <!ENTITY syncCustomize.acceptButton.label "Aviar">
 
-
+<!ENTITY syncCustomize.title              "Qué volètz sincronizar ?">
+<!ENTITY syncCustomize.description        "Podètz modificar la seleccion dins las preferéncias.">
 <!ENTITY syncCustomizeUnix.description    "Podètz modificar la seleccion dins las preferéncias.">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except

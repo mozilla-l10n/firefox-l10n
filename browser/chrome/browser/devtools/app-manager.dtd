@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Permissions">
 <!ENTITY device.permissionsTooltip "Afichar un tablèu de las permissions accessiblas als diferents tipes d'aplicacions">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "Ajuda">
 
 <!ENTITY connection.connectTooltip "Se connectar a l'aparelh.">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "Valid">
 <!ENTITY projects.error "Error">
 <!ENTITY projects.warning "Avertiment">
+
+
 
 <!ENTITY help.title "Gestionari d'aplicacions">
 <!ENTITY help.close "Tampar">

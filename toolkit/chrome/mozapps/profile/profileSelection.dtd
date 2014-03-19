@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "Trabalhar sens connexion">
 <!ENTITY            offlineState.accesskey "c">
 
-<!ENTITY            autoSelect.label       "Demandar pas a l'aviada">
-<!ENTITY            autoSelect.accesskey   "s">
+
