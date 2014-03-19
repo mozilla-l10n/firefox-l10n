@@ -72,8 +72,8 @@ que &brandShortName; a l'autorizacion d'accedir a internet.</li>
 <!ENTITY netTimeout.title "Relambi d'espèra passat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "La connexion es pas estada compresa">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Benlèu qu'es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> 
 </ul>">
 

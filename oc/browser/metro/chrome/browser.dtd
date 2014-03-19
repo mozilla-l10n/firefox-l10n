@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "Messatges">
 <!ENTITY consoleCodeEval.label     "Còde :">
 <!ENTITY consoleClear.label        "Voidar la consòla">
+
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fichier font :">
 <!ENTITY consoleErrLine.label      "Linha :">
 <!ENTITY consoleErrColumn.label    "Colomna :">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Talhar">
-<!ENTITY contextTextCopy.label             "Copiar">
+
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Pegar e anar">
 <!ENTITY contextTextSelect.label           "Seleccionar">
 <!ENTITY contextTextSelectAll.label        "Seleccionar tot">
 <!-- LINK CONTEXT MENU -->
@@ -127,20 +128,17 @@
 <!ENTITY firstRunTopSites.label "Percorrètz vòstres sites los mai visitats">
 <!ENTITY firstRunBookmarks.label "Retrobatz vòstras paginas enregistradas per mai tard">
 <!ENTITY firstRunMenu.label "Accedissètz a d'autras foncionalitats e opcions">
-
-
-
+<!ENTITY firstRunHistory.label "Descobrissètz ont sètz anat sul Web">
+<!ENTITY firstRunWelcome.label "Benvengut dins &brandShortName;">
+<!ENTITY firstRunDifferent.label "De concepcion diferenta">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "Quichatz per tornar a la pagina precedenta">
