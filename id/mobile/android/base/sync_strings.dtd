@@ -107,13 +107,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Gambar centang akun Firefox'>
-<!ENTITY fxaccount_icon_contentDescription2 'Ikon akun Firefox'>
-<!ENTITY fxaccount_intro_contentDescription2 'Gambar perkenalan akun Firefox'>
-<!ENTITY fxaccount_mail_contentDescription2 'Gambar sampul akun Firefox'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -137,12 +130,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Buat akun Firefox'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Buat Akun Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Paling sedikit 8 huruf'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Tahun lahir'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Dengan melanjutkan, saya menyetujui &formatS1; dan &formatS2; layanan daring Firefox.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Dengan melanjutkan, saya menyetujui &formatS1; dan &formatS2; layanan awan Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Lanjut'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Pilih yang ingin disinkronkan'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Sudah punya akun? Masuk'>
@@ -173,7 +166,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Masuk'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Tidak dapat masuk'>
 
-<!ENTITY fxaccount_status_header 'Akun Firefox'>
+<!ENTITY fxaccount_status_header2 'Akun Firefox'>
+<!ENTITY fxaccount_status_signed_in_as 'Masuk sebagai'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktif'>
 <!ENTITY fxaccount_status_needs_verification2 'Akun Anda harus diverifikasi terlebih dulu. Sentuh untuk mengirim ulang email verifikasi.'>
@@ -184,6 +178,12 @@
 <!ENTITY fxaccount_status_passwords 'Sandi'>
 <!ENTITY fxaccount_status_tabs 'Tab terbuka'>
 <!ENTITY fxaccount_status_legal 'Tentang Legal' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Ketentuan Layanan'>
+<!ENTITY fxaccount_status_linkprivacy 'Kebijakan Privasi'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
