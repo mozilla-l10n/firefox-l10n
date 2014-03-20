@@ -27,6 +27,14 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versie">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.experimentsTitle "experimentele functies">
+<!ENTITY aboutSupport.experimentName "Naam">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Beschrijving">
+<!ENTITY aboutSupport.experimentActive "Actief">
+<!ENTITY aboutSupport.experimentEndDate "Einddatum">
+<!ENTITY aboutSupport.experimentHomepage "Homepage">
+
 <!ENTITY aboutSupport.appBasicsTitle "Toepassingsbasics">
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
