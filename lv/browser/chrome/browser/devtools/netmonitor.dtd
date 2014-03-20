@@ -22,6 +22,7 @@
 
 <!ENTITY netmonitorUI.footer.filterOther  "Cits">
 <!ENTITY netmonitorUI.footer.perf   "Pārslēgt veiktspējas analīzi...">
+<!ENTITY netmonitorUI.tab.preview         "Priekšskatījums">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
