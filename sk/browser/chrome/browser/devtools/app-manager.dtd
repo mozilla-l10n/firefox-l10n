@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Povolenia">
 <!ENTITY device.permissionsTooltip "Zobrazí tabuľku povolení pre rôzne typy aplikácií">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Karty prehliadača">
+<!ENTITY device.browserTabsTooltip "Zobrazí zoznam kariet prehliadača v pripojenom zariadení">
+<!ENTITY device.debugBrowserTab "Ladenie">
+<!ENTITY device.debugBrowserTabTooltip "Otvorí Vývojárske nástroje pripojené k tejto karte prehliadača na zariadení">
 <!ENTITY device.help "Pomocník">
 
 <!ENTITY connection.connectTooltip "Pripojí sa k zariadeniu">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "Platné">
 <!ENTITY projects.error "Chyba">
 <!ENTITY projects.warning "Upozornenie">
+<!ENTITY projects.hosted "Hostovaná">
+<!ENTITY projects.packaged "Zbalená">
 
 <!ENTITY help.title "Správca aplikácií">
 <!ENTITY help.close "Zavrieť">

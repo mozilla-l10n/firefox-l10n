@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "m">
 <!ENTITY warn.leavingsecure                 "opustí zašifrovanú stránku">
 <!ENTITY warn.leavingsecure.accesskey       "u">
-<!ENTITY warn.viewmixed                     "zobrazí stránku so zmiešaným zašifrovaným/nezašifrovaným obsahom">
-<!ENTITY warn.viewmixed.accesskey           "z">
 
+<!ENTITY mixed.description                  "Zašifrované stránky môžu obsahovať nezašifrovaný obsah, ktorý je možné sledovať či odpočúvať. &brandShortName; je schopný ho zachytiť a zablokovať:">
 <!ENTITY warn.mixedactivecontent            "Upozorniť ma, ak zabezpečená stránka obsahuje nezabezpečený obsah">
 <!ENTITY warn.mixedactivecontent.accesskey  "b">
 <!ENTITY block.activecontent                "Nenačítavať nezabezpečený obsah na zabezpečených stránkach">

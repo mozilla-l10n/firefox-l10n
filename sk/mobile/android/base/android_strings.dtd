@@ -54,6 +54,7 @@
 <!ENTITY back "Naspäť">
 <!ENTITY stop "Zastaviť">
 <!ENTITY site_security "Zabezpečenie stránky">
+<!ENTITY save "Uložiť">
 
 <!ENTITY close_tab "Zavrieť kartu">
 <!ENTITY one_tab "1 karta">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
 <!ENTITY pref_category_search3 "Vyhľadávanie">
+<!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,18 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "Obnoviť vyhľadávacie moduly">
 <!ENTITY pref_search_restore_defaults "Obnoviť predvolené">
 <!ENTITY pref_search_restore_defaults_summary "Obnoviť predvolené">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
 <!ENTITY pref_category_home_panels "Panely">
-
+<!ENTITY pref_home_add_panel "Pridať panel">
+<!ENTITY home_add_panel_title "Pridať nový panel">
+<!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
+<!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
+<!ENTITY pref_home_updates "Automatické aktualizácie">
+<!ENTITY pref_home_updates_enabled "Povolené">
+<!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
 <!ENTITY pref_header_display "Zobrazovanie">
@@ -211,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Plná verzia stránky">
+<!ENTITY page "Stránka">
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_private_tab "Nová súkromná karta">
@@ -274,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
+<!ENTITY reading_list_add "Pridať do Zoznamu na prečítanie">
 <!ENTITY reading_list_added "Stránka pridaná do Zoznamu na prečítanie">
 <!ENTITY reading_list_removed "Stránka bola odstránená zo Zoznamu na prečítanie">
 <!ENTITY reading_list_failed "Pridanie stránky do Zoznamu na prečítanie sa nepodarilo">
@@ -309,14 +326,18 @@ size. -->
 <!ENTITY home_most_recent_title "Najnovšie">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
 <!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním ikony &#37;I, keď sa táto zobrazí v titulku okna.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním ikony &formatI;, keď sa táto zobrazí v titulku okna.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Pre tento panel nebol nájdený žiadny obsah.">
 
 <!ENTITY pin_site_dialog_hint "Zadajte kľúčové slovo vyhľadávania">
 
@@ -358,9 +379,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importuje sa história z Androidu">
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Chcete zapnúť zobrazovanie návrhov vyhľadávania v module &formatS;?">
+<!ENTITY suggestions_prompt3 "Chcete zapnúť zobrazovanie návrhov vyhľadávania?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
