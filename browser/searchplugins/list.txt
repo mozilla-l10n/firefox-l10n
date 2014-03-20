@@ -1,7 +1,7 @@
-google
-yahoo
-be.wikipedia.org
 be-x-old.wikipedia.org
+be.wikipedia.org
+google
 ru.wikipedia.org-be
 tut.by
+yahoo
 yandex.by
