@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Pesan">
 <!ENTITY consoleCodeEval.label     "Kode:">
 <!ENTITY consoleClear.label        "Bersihkan">
+<!ENTITY consoleCopyAll.label      "Salin">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Berkas Sumber:">
 <!ENTITY consoleErrLine.label      "Baris:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
+<!ENTITY consoleFollowCheckbox.label "Ikuti">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Potong">
