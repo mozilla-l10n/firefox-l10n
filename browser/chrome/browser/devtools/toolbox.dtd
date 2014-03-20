@@ -86,6 +86,11 @@
   -  tools. -->
 <!ENTITY options.selectDefaultTools.label     "Predvolené vývojárske nástroje Firefoxu">
 
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
+<!ENTITY options.selectEnabledToolboxButtons.label     "Dostupné tlačidlá Vývojárskych nástrojov">
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

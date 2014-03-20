@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Obnoviť predvolenú">
 <!ENTITY useDefault.accesskey             "d">
 
-<!ENTITY bounceSystemDockIcon.label       "Animovať ikonu v doku">
-<!ENTITY bounceSystemDockIcon.accesskey   "m">
+<!ENTITY changeDockIconOptions.label      "Zmena nastavení ikony aplikácie">
+<!ENTITY dockOptions.label                "Nastavenia ikony aplikácie…">
+<!ENTITY dockOptions.accesskey            "e">
 
 <!ENTITY newMessagesArrive.label          "Pri prijatí novej správy">
 <!ENTITY playSound.label                  "Prehrať zvuk">
