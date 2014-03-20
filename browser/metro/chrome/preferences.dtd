@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Info masuk aktif">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Ingat Sandi">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Tampilkan Tombol Navigasi">
 <!ENTITY doNotTrack.title                                        "Jangan Lacak">
 <!ENTITY doNotTrack.options.doNotTrack                           "Beritahukan situs bahwa saya tidak ingin dilacak">
 <!ENTITY doNotTrack.options.doTrack                              "Beritahukan situs bahwa saya ingin dilacak">
