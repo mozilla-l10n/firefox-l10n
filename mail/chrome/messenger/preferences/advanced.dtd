@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "w">
 <!ENTITY updateHistory.label             "Updategeschiedenis tonen">
 <!ENTITY updateHistory.accesskey         "d">
-<!ENTITY updateOthers.label              "Automatisch bijwerken:">
-<!ENTITY enableAddonsUpdate3.label       "Geïnstalleerde add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "G">
 
 <!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
 <!ENTITY useService.accesskey            "a">
