@@ -112,8 +112,8 @@
      labels. -->
 <!ENTITY fxaccount_email_hint 'E-pasts'>
 <!ENTITY fxaccount_password_hint 'Parole'>
-<!ENTITY fxaccount_password_hide 'Paslēpt'>
-<!ENTITY fxaccount_password_show 'Parādīt'>
+<!ENTITY fxaccount_password_hide 'Slēpt'>
+<!ENTITY fxaccount_password_show 'Rādīt'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
