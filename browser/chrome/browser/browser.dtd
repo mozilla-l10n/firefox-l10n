@@ -472,7 +472,7 @@
 <!ENTITY identity.help.tooltip "Как я могу узнать, что мое соединение с веб-сайтом является защищённым?">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY syncSetup.label "Настроить синхронизацию…">
 <!ENTITY syncSetup.accesskey "с">
 <!ENTITY syncSyncNowItem.label "Синхронизировать">
