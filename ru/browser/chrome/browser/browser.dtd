@@ -497,9 +497,9 @@
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
-<!ENTITY customizeMode.restoreDefaults "Восстановить значения по умолчанию">
-<!ENTITY customizeMode.toolbars "Отображать / Скрывать панели">
-<!ENTITY customizeMode.titlebar "Панель заголовка">
+<!ENTITY customizeMode.restoreDefaults "По умолчанию">
+<!ENTITY customizeMode.toolbars "Показать / Скрыть панели">
+<!ENTITY customizeMode.titlebar "Заголовок">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Переключаться на чаты">
 <!ENTITY social.chatBar.accesskey "ч">
