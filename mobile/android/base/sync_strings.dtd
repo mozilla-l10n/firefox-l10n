@@ -135,7 +135,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Jābūt vismaz 8 simbolus garai'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Dzimšanas gads'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Turpinot, es piekrītu Firefox mākoņu pakalpojumu &formatS1; un &formatS2;.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Firefox mākoņu pakalpojumu &formatS1; un &formatS2;. Turpinot, Jūs tiem piekrītat'>
 <!ENTITY fxaccount_create_account_button 'Turpināt'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Izvēlieties, ko sinhronizēt'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Jums jau ir konts? Ierakstieties'>
