@@ -81,7 +81,8 @@
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY pprint.label                 "Glītā izdruka">
-<!ENTITY pprint.key                   "G">
+<!ENTITY pprint.key                   "P">
+<!ENTITY pprint.accesskey             "G">
 
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"

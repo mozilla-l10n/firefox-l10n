@@ -16,7 +16,7 @@
 <!ENTITY clearPrivateData.button                                 "Dzēst">
 <!ENTITY clearPrivateData.done                                   "Darīts!">
 <!ENTITY clearPrivateData.history                                "Pārlūkošanas vēsture">
-<!ENTITY clearPrivateData.otherdata                              "Citi dati (paroles, kešatmiņa, sīkdatnes, uc)">
+<!ENTITY clearPrivateData.otherdata                              "Citi dati (paroles, kešatmiņa, sīkdatnes, u.c.)">
 <!ENTITY clearPrivateData.downloadHist                           "Lejupielāžu vēsture">
 <!ENTITY clearPrivateData.cookies                                "Sīkdatnes">
 <!ENTITY clearPrivateData.cache                                  "Kešatmiņa">
@@ -25,6 +25,7 @@
 <!ENTITY clearPrivateData.passwords                              "Saglabātās paroles">
 <!ENTITY clearPrivateData.offline                                "Saglabātos mājas lapu datus">
 <!ENTITY clearPrivateData.logins                                 "Aktīvos pieslēgumus">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Rādīt navigācijas pogas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Atcerēties paroles">
 <!ENTITY doNotTrack.title                                        "Lūdzu neizspiegot mani">

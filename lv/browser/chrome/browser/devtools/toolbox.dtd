@@ -13,6 +13,7 @@
 <!ENTITY toolboxZoomIn.key2            "="> <!-- + is above this key on many keyboards -->
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
+<!ENTITY options.selectEnabledToolboxButtons.label     "Pieejamās rīku pogas">
 
 
 <!ENTITY options.context.triggersPageRefresh  "* Tikai šo sesiju, pārlādē lapu">
