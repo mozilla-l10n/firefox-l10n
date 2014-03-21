@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Zurück">
 <!ENTITY forward.label         "Vor">
 <!ENTITY newtab.label          "Neuer Tab">
+<!ENTITY newPrivateTab.label   "Neuer privater Tab">
 <!ENTITY closetab.label        "Tab schließen">
 
 <!ENTITY autocompleteResultsHeader.label  "Ihre Ergebnisse">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -118,15 +121,30 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTabs.label "Suchen Sie Ihre Tabs? Ziehen Sie nach unten oder klicken Sie mit der rechten Maustaste.">
-<!ENTITY firstRunTopSites.label "Rufen Sie die von Ihnen am meisten besuchten Seiten auf">
-<!ENTITY firstRunBookmarks.label "Finden Sie Seiten, die Sie für später gespeichert haben">
-<!ENTITY firstRunMenu.label "Greifen Sie auf weitere Funktionen und Einstellungen zu">
-<!ENTITY firstRunHistory.label "Schauen Sie sich an, was Sie im Internet besucht haben">
+<!ENTITY firstRunTopSites.label "Rufen Sie die von Ihnen am meisten besuchten Seiten auf.">
+<!ENTITY firstRunBookmarks.label "Finden Sie Seiten, die Sie für später gespeichert haben.">
+<!ENTITY firstRunMenu.label "Greifen Sie auf weitere Funktionen und Einstellungen zu.">
+<!ENTITY firstRunHistory.label "Schauen Sie sich an, was Sie im Internet besucht haben.">
 <!ENTITY firstRunWelcome.label "Willkommen bei &brandShortName;">
 <!ENTITY firstRunDifferent.label "Absichtlich anders">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Antippen, um zur vorherigen Seite zurückzukehren">
+<!ENTITY firstRunNewTab.label "Öffnen Sie einen neuen Tab, um sich darin eine neue Seite anzusehen.">
+<!ENTITY firstRunStar.label "Verwenden Sie Lesezeichen, um sich Seiten für später zu merken.">
+<!ENTITY firstRunPin.label "Fügen Sie beliebige Seiten zum Windows-Startbildschirm hinzu, um schnell darauf zugreifen zu können.">
+<!ENTITY firstRunGotIt.label "Verstanden!">
