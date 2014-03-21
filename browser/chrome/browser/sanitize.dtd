@@ -33,8 +33,8 @@ that require it.  -->
 <!ENTITY dataSection.label            "Donadas">
 
 
-
-
+<!ENTITY itemFormSearchHistory.label       "Istoric dels formularis e de las recèrcas">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Senhals enregistrats">
 <!ENTITY itemPasswords.accesskey           "h">
 <!ENTITY itemCookies.label                 "Cookies">

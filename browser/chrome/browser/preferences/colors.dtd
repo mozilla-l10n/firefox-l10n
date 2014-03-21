@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "Tèxte e rèire plan">
-
-
+<!ENTITY  textColor.label                 "Tèxte :">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Rèire plan :">
 <!ENTITY  backgroundColor.accesskey       "a">
 <!ENTITY  useSystemColors.label           "Utilizar las colors del sistèma">

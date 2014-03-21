@@ -32,9 +32,9 @@
 <!ENTITY device.permissions "Permissions">
 <!ENTITY device.permissionsTooltip "Afichar un tablèu de las permissions accessiblas als diferents tipes d'aplicacions">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Onglets del navigador">
 
-
-
+<!ENTITY device.debugBrowserTab "Desbugar">
 
 <!ENTITY device.help "Ajuda">
 
