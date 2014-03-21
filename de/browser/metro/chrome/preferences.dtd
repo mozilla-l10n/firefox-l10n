@@ -37,4 +37,4 @@
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; übermittelt Absturzberichte, um Mozilla dabei zu helfen, den Browser stabiler und sicherer zu machen.">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Adresse der Seite hinzufügen, die geöffnet war">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetrie">
-<!ENTITY optionsHeader.telemetry.label                            "Nutzungsstatistiken über &brandShortName; an Mozilla senden, um uns beim Verbessern Ihres Browsers zu helfen">
+<!ENTITY optionsHeader.telemetry.label                            "Nutzungsstatistiken über &brandShortName; an Mozilla senden, um beim Verbessern des Browsers zu helfen">

@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Nach unten">
 <!ENTITY account.cancelReconnection.label         "Wiederverbinden abbrechen">
 <!ENTITY account.cancelReconnection.accesskey     "b">
+<!ENTITY account.copyDebugLog.label     "Debug-Protokoll kopieren">
+<!ENTITY account.copyDebugLog.accesskey "D">
 <!ENTITY account.connecting           "Verbinden…">
 <!ENTITY account.disconnecting        "Verbindung trennen…">
 <!ENTITY account.disconnected         "Nicht verbunden">
