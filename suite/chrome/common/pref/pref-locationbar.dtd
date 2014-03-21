@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Überall, aber bevorzugt an Wortgrenzen">
 <!ENTITY autoCompleteMatchWords                "Nur an Wortgrenzen">
 <!ENTITY autoCompleteMatchStart                "Nur am Beginn von Adresse oder Titel">
+<!ENTITY showInternetSearch.label              "Standard-Internet-Suchmaschine anzeigen">
+<!ENTITY showInternetSearch.accesskey          "S">
 
 <!ENTITY formatting.label                      "Formatierung">
 <!ENTITY domainFormatting.label                "Die effektive Domain für Websites und FTP-Server hervorheben">
 <!ENTITY domainFormatting.accesskey            "D">
-
-<!ENTITY searchEngine.label                    "Internet-Suchmaschine">
-<!ENTITY showSearchEngine.label                "Standard-Suchmaschine anzeigen">
-<!ENTITY showSearchEngine.accesskey            "S">
+<!ENTITY highlightSecure.label                 "Webseiten mit einem hohen Verbindungssicherheitsniveau hervorheben">
+<!ENTITY highlightSecure.accesskey             "V">
 
 <!ENTITY unknownLocations.label                "Unbekannte Adressen">
 <!ENTITY domainGuessing.label                  "&quot;www.&quot; und &quot;.com&quot; an die Adresse anhängen, wenn eine Webseite nicht gefunden wird">

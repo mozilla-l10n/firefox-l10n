@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Verlassen einer Seite, die Verschlüsselung unterstützt">
 <!ENTITY warn.leavingsecure.accesskey       "V">
-<!ENTITY warn.viewmixed                     "Ansehen einer Seite mit einer Mischung von sicheren und unsicheren Inhalten">
-<!ENTITY warn.viewmixed.accesskey           "A">
 
+<!ENTITY mixed.description                  "Verschlüsselte Seiten könnten unverschlüsselte Inhalte enthalten, die auf Abhören oder Betrug anfällig sein könnten. &brandShortName; kann diese erkennen und blockieren:">
 <!ENTITY warn.mixedactivecontent            "Warnen, wenn verschlüsselte Seiten unsichere Inhalte enthalten">
 <!ENTITY warn.mixedactivecontent.accesskey  "W">
 <!ENTITY block.activecontent                "Unsichere Inhalte auf verschlüsselten Seiten nicht laden">
