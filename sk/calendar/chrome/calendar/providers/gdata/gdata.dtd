@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Kalendár Google">
+
+<!ENTITY gdata.privacy.default.label "Predvolený">
+<!ENTITY gdata.privacy.default.accesskey "d">
+
+<!ENTITY gdata.migration.title "Import kalendárov len na čítanie">
+<!ENTITY gdata.migration.description "Poskytovať služby Kalendár Google zistil, že máte vytvorené kalendáre, ku ktorým môže služba Kalendár Google pristupovať len v režime Len na čítanie. Ak chcete aktualizovať niektorý z týchto kalendárov, vyberte ho nižšie.">
+<!ENTITY gdata.migration.upgrade.label "Aktualizovať">
+<!ENTITY gdata.migration.upgrade.accesskey "A">
+<!ENTITY gdata.migration.showagain.label "Kontrolovať vždy ">
+
+<!ENTITY gdata.reminder.action.sms.label "Odoslať textovú správu">

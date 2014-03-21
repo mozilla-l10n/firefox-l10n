@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDialog.title      "O programe &brandFullName;">
+<!ENTITY copyright.label        "Tvorcovia">
+<!ENTITY copyright.accesskey    "T">
+<!ENTITY aboutLink.label        "&lt; O programe &brandFullName;">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "verzia">
+<!ENTITY copyrightText          "&#169;1998-2010 Prispievatelia. Všetky práva vyhradené. Mozilla Sunbird, Sunbird a logá Sunbird sú
+                                 ochranné známky patriace Mozilla Foundation. Všetky práva vyhradené.">
+
+<!ENTITY brandMotto       "Ide o čas">
+<!ENTITY credit.thanks    "Špeciálne poďakovanie">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Preklad do slovenčiny</h3><ul><li>Branislav Rozbora</li><li>Vlado Valaštiak (wladow)</li></ul><h3>Korektúry</h3><ul><li>SlovakSoft</li></ul>">
+
+
+<!ENTITY credit.powered     "Poháňané jadrom">
+<!ENTITY license.and        "a">
+<!ENTITY cmdClose.macKey  "W">
+

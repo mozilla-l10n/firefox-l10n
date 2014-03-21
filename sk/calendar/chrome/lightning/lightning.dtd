@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
+<!ENTITY lightning.preferencesLabel "Kalendár">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Udalosť…">
+<!ENTITY lightning.menupopup.new.event.accesskey "U">
+<!ENTITY lightning.menupopup.new.task.label     "Úloha…">
+<!ENTITY lightning.menupopup.new.task.accesskey "h">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalendár…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "a">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Otvoriť">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.message.label       "Uloženú správu…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "U">
+<!ENTITY lightning.menupopup.open.calendar.label      "Súbor kalendára…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
+
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalendár">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Úlohy">
+<!ENTITY lightning.menu.view.tasks.accesskey           "o">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Udalosti a úlohy">
+<!ENTITY lightning.menu.eventtask.accesskey            "d">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Táto správa obsahuje pozvánku na udalosť.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "U">
+<!ENTITY lightning.keys.todo.new "h">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Vytvoriť nový kalendár">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Zobraziť Mini Mesiac">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Zobraziť Mini Deň">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Nezobrazovať nič">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Zobraziť panel Dnes">
+<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Panel Dnes">
