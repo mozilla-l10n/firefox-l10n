@@ -64,6 +64,9 @@
 <!ENTITY consoleErrLine.label      "Ligne :">
 <!ENTITY consoleErrColumn.label    "Colonne :">
 
+<!ENTITY consoleFollowCheckbox.label "Procéder">
+<!ENTITY consoleCopyAll.label        "Copier">
+
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Couper">
 <!ENTITY contextTextCopy.label             "Copier">
