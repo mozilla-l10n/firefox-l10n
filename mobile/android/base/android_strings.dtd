@@ -54,6 +54,7 @@
 <!ENTITY back "Atrás">
 <!ENTITY stop "Detener">
 <!ENTITY site_security "Seguridad del sitio">
+<!ENTITY save "Guardar">
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
@@ -76,17 +77,31 @@
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
 <!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Conocer más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!ENTITY pref_category_home "Inicio">
+<!ENTITY pref_category_home_summary "Personalizá tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
+<!ENTITY pref_home_add_panel "Agregar paneles">
+<!ENTITY home_add_panel_title "Agregar un panel nuevo">
+<!ENTITY home_add_panel_empty "Lo sentimos, no podemos encontrar ningún panel para agregar.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' agregado a la página de inicio">
+<!ENTITY pref_category_home_content_settings "Configuración de contenido">
+<!ENTITY pref_home_updates "Actualizaciones automáticas">
+<!ENTITY pref_home_updates_enabled "Habilitadas">
+<!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizar">
@@ -210,6 +225,7 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
+<!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY new_private_tab "Nueva pestaña privada">
@@ -310,9 +326,9 @@ size. -->
 <!ENTITY home_reading_list_empty "Los artículos guardados para ver más tarde aparecen acá.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el ícono &#37;I cuando aparezca en la barra de título.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el ícono  &formatI; cuando aparezca en la barra de título.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el botón de modo lectura cuando aparezca en la barra de título.">
@@ -360,9 +376,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
+<!ENTITY suggestions_prompt3 "¿Querés habilitar las sugerencias de búsqueda?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
