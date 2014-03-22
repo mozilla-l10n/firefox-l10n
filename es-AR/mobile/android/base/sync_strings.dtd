@@ -107,13 +107,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts checkbox graphic'>
-<!ENTITY fxaccount_icon_contentDescription2 'Icono de cuentas de Firefox'>
-<!ENTITY fxaccount_intro_contentDescription2 'Gráfico de introducción de cuentas de Firefox'>
-<!ENTITY fxaccount_mail_contentDescription2 'Gráfico de sobre de cuentas de Firefox'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -137,12 +130,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Crear una cuenta de Firefox'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Crear una cuenta de Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Debe tener al menos  8 caracteres'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Año de nacimiento'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox online services.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Al avanzar, acepto la &formatS1; y &formatS2; de los servicios en la nube de Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Next'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Choose what to sync'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Already have an account? Sign in'>
@@ -167,23 +160,30 @@
 <!ENTITY fxaccount_sign_in_unknown_error 'Could not sign in'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'Cuenta verificada'>
-<!ENTITY fxaccount_account_verified_description2 'Your data will begin syncing momentarily.'>
+<!ENTITY fxaccount_account_verified_description2 'Tus datos comenzarán a sincronizarse momentáneamente.'>
 
-<!ENTITY fxaccount_update_credentials_header 'Sign in'>
-<!ENTITY fxaccount_update_credentials_button_label 'Sign in'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Could not sign in'>
+<!ENTITY fxaccount_update_credentials_header 'Ingresar'>
+<!ENTITY fxaccount_update_credentials_button_label 'Ingresar'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'No se puede ingresar'>
 
-<!ENTITY fxaccount_status_header 'Cuenta de Firefox'>
+<!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
+<!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: habilitado'>
-<!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
-<!ENTITY fxaccount_status_needs_credentials 'Cannot connect. Tap to sign in.'>
-<!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
+<!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Tocá para reenviar el correo electrónico de verificación.'>
+<!ENTITY fxaccount_status_needs_credentials 'No se puede conectar. Tocá para ingresar.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Necesitás actualizar &brandShortName; para ingresar.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords 'Contraseñas'>
 <!ENTITY fxaccount_status_tabs 'Pestañas abiertas'>
 <!ENTITY fxaccount_status_legal 'Legal' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'términos del servicio'>
+<!ENTITY fxaccount_status_linkprivacy 'nota de privacidad'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
@@ -204,9 +204,9 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'La cuenta ya existe. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is not verified'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Correo o contraseña invalidos'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Correo o contraseña inválidos'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Cuenta no verificada'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servidor ocupado, intentá nuevamente'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, intentá nuevamente'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Hubo un problema'>
@@ -215,4 +215,4 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; no está conectado'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tocá para ingresar como &formatS;'>
