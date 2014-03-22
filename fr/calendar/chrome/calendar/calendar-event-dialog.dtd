@@ -9,7 +9,13 @@
 
 <!ENTITY newevent.from.label "Du" >
 <!ENTITY newevent.to.label "Au" >
-<!ENTITY newevent.attendees.notify.label "Notifier les participants">
+
+<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY newevent.attendees.notify.label               "Informer les participants">
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Invitation séparée pour chaque participant">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Cette option envoie un courriel d'invitation à chaque participant. Chaque invitation est adressée à un seul participant afin que les autres participants restent inconnus.">
 
 <!ENTITY newevent.status.label                    "Statut" >
 <!ENTITY newevent.status.accesskey                "S" >
