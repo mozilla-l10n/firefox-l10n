@@ -341,6 +341,10 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Revenir à &formatS;">
+
 <!ENTITY filepicker_title "Choisir un fichier">
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
 <!ENTITY filepicker_image_title "Choisir une image ou faire une copie d\u0027écran">
