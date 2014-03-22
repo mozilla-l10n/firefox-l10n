@@ -242,6 +242,7 @@
 <!ENTITY home_reading_list_hint2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в строке заголовка.">
 <!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
+<!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
@@ -284,5 +285,6 @@
 <!ENTITY new_guest_session_text "Человек, использующий гостевую сессию, не увидит ничего из ваших личных данных веб-сёрфинга (таких как сохранённые пароли, история или закладки).\n\nКогда ваш гость закончит, его данные веб-сёрфинга будут удалены, а ваша сессия будет восстановлена.">
 <!ENTITY exit_guest_session_title "&brandShortName; сейчас будет перезапущен">
 <!ENTITY exit_guest_session_text "Данные веб-серфинга из этой сессии будут удалены.">
+<!ENTITY ellipsis "…">
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
