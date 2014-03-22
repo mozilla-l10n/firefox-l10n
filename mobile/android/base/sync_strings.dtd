@@ -147,7 +147,7 @@
 <!ENTITY fxaccount_create_account_unknown_error 'Création de compte impossible'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Création de compte impossible'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Vous devez avoir atteint l\&apos;âge requis pour pouvoir créer un compte.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Vous devez avoir atteint l\u0027âge requis pour pouvoir créer un compte.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'En savoir plus'>
 
 <!ENTITY fxaccount_confirm_account_header 'Confirmer votre compte'>
