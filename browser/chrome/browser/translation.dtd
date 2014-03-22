@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY translation.thisPageIsIn.label         "Cette page est en">
+<!ENTITY translation.translateThisPage.label    "Traduire cette page ?">
+<!ENTITY translation.translate.button           "Traduire">
+<!ENTITY translation.notNow.button              "Plus tard">
+
+<!ENTITY translation.translatingContent.label   "Traduction du contenu de la page…">
+
+<!ENTITY translation.translatedFrom.label       "Cette page a été traduite depuis">
+<!ENTITY translation.translatedTo.label         "vers">
+<!ENTITY translation.showOriginal.button        "Afficher l'original">
+<!ENTITY translation.showTranslation.button     "Afficher la traduction">
+
+<!ENTITY translation.errorTranslating.label     "Une erreur s'est produite lors de la traduction de cette page.">
+<!ENTITY translation.tryAgain.button            "Réessayer">
+
+<!ENTITY translation.options.menu               "Options">
