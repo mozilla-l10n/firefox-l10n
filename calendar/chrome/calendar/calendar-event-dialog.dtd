@@ -99,12 +99,6 @@
 <!ENTITY event.menu.options.accesskey "O">
 <!ENTITY event.menu.options.attendees.label "Inviter des participants…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
-<!ENTITY event.menu.options.spellcheck.label "Correcteur orthographique…">
-<!ENTITY event.menu.options.spellcheck.accesskey "C">
-<!ENTITY event.menu.options.inline.spellcheck.label "Vérifier l'orthographe lors de la saisie">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "V">
-<!ENTITY event.menu.options.link.label "Ajouter un lien…">
-<!ENTITY event.menu.options.link.accesskey "A">
 <!ENTITY event.menu.options.timezone2.label "Afficher les fuseaux horaires">
 <!ENTITY event.menu.options.timezone2.accesskey "f">
 <!ENTITY event.menu.options.priority2.label "Priorité">
@@ -143,13 +137,11 @@
 <!ENTITY event.toolbar.save.label "Enregistrer et fermer">
 <!ENTITY event.toolbar.delete.label "Supprimer">
 <!ENTITY event.toolbar.attendees.label "Participants">
-<!ENTITY event.toolbar.spellcheck.label "Orthographe">
 <!ENTITY event.toolbar.privacy.label "Confidentialité">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Enregistrer et fermer">
 <!ENTITY  event.toolbar.delete.tooltip                    "Supprimer">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter des participants">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Vérifier l'orthographe">
 <!ENTITY  event.toolbar.attachments.tooltip               "Ajouter des pièces jointes">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Modifier la confidentialité">
 <!ENTITY  event.toolbar.priority.tooltip                  "Modifier la priorité">
@@ -164,7 +156,6 @@
 <!ENTITY event.categories.label "Catégorie :">
 <!ENTITY event.categories.accesskey "C">
 <!ENTITY event.categories.textbox.label                   "Ajouter une nouvelle catégorie" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label "Agenda :" >
 <!ENTITY event.calendar.accesskey "g">
 <!ENTITY event.attendees.label "Participants :" >
@@ -374,5 +365,4 @@
 <!ENTITY read.only.reminder.label "Rappel :">
 <!ENTITY read.only.attendees.label "Participants">
 <!ENTITY read.only.description.label "Description">
-<!ENTITY read.only.documents.label "Documents">
 <!ENTITY read.only.link.label "Lien">
