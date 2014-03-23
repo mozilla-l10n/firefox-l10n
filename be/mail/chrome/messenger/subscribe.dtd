@@ -11,8 +11,8 @@
 <!ENTITY newGroupsTab.accesskey "Н">
 <!ENTITY refreshButton.label "Паднавіць">
 <!ENTITY refreshButton.accesskey "н">
-<!ENTITY stopButton.label "Прыпыніць">
-<!ENTITY stopButton.accesskey "П">
+<!ENTITY stopButton.label "Спыніць">
+<!ENTITY stopButton.accesskey "С">
 <!ENTITY server.label "Рахунак:">
 <!ENTITY server.accesskey "Р">
 <!ENTITY subscribedHeader.label "Падпіска">

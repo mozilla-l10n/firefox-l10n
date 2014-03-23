@@ -48,7 +48,7 @@
 <!ENTITY sync.button.cancel.label "Скасаваць">
 <!ENTITY sync.button.connect.label "Злучыцца">
 <!ENTITY sync.button.ok.label "Добра">
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecated)">
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (асуджана)">
 <!ENTITY bookmarks.folder.menu.label "Меню закладак">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Меціны">
@@ -71,70 +71,70 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
 <!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
 <!ENTITY sync.text.tab.not.sent.label "Здарылася праблема падчас дасылання ўстаўкі.">
-<!ENTITY fxaccount_checkbox_contentDescription2 "Firefox accounts checkbox graphic">
-<!ENTITY fxaccount_icon_contentDescription2 "Firefox accounts icon">
-<!ENTITY fxaccount_intro_contentDescription2 "Firefox accounts introduction graphics">
-<!ENTITY fxaccount_mail_contentDescription2 "Firefox accounts envelope graphic">
+<!ENTITY fxaccount_checkbox_contentDescription2 "Графіка скрынак адзнакі рахункаў Firefox">
+<!ENTITY fxaccount_icon_contentDescription2 "Значок рахункаў Firefox">
+<!ENTITY fxaccount_intro_contentDescription2 "Графіка азнаямлення рахункаў Firefox">
+<!ENTITY fxaccount_mail_contentDescription2 "Графіка абалонкі рахункаў Firefox">
 <!ENTITY fxaccount_email_hint "Э-пошта">
 <!ENTITY fxaccount_password_hint "Пароль">
 <!ENTITY fxaccount_password_hide "Схаваць">
 <!ENTITY fxaccount_password_show "Паказаць">
-<!ENTITY fxaccount_back_to_browsing "Back to browsing">
+<!ENTITY fxaccount_back_to_browsing "Вярнуцца да азірання">
 <!ENTITY fxaccount_policy_linktos "Умовы абслугоўвання">
 <!ENTITY fxaccount_policy_linkprivacy "Палітыка адасаблення">
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Welcome to &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Sign in to sync your tabs, bookmarks, passwords &amp; more.">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Калі ласка да &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, паролі і іншае.">
 <!ENTITY fxaccount_getting_started_get_started "Пачаць">
-<!ENTITY fxaccount_getting_started_old_firefox "Using an older version of &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_header "Create a Firefox account">
-<!ENTITY fxaccount_create_account_password_length_restriction "Must be at least 8 characters">
-<!ENTITY fxaccount_create_account_year_of_birth "Year of birth">
-<!ENTITY fxaccount_create_account_policy_text "By proceeding, I agree to the &formatS1; and &formatS2; of Firefox online services.">
+<!ENTITY fxaccount_getting_started_old_firefox "Ужываеце старэйшую версію &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_create_account_header "Стварыць рахунак Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "Павінна быць прынамсі 8 знакаў">
+<!ENTITY fxaccount_create_account_year_of_birth "Год нараджэння">
+<!ENTITY fxaccount_create_account_policy_text "Працягваючы, я згодны з &formatS1; і &formatS2; сеткавых службаў Firefox.">
 <!ENTITY fxaccount_create_account_button "Далей">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Выбраць, чым дзяліцца">
-<!ENTITY fxaccount_create_account_sign_in_instead "Already have an account? Sign in">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 or earlier">
-<!ENTITY fxaccount_create_account_unknown_error "Could not create account">
-<!ENTITY fxaccount_account_create_not_allowed "Cannot create account">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "You must meet certain age requirements to create an account.">
+<!ENTITY fxaccount_create_account_sign_in_instead "Ужо маеце рахунак? Увайсці">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 або ранейшы">
+<!ENTITY fxaccount_create_account_unknown_error "Немагчыма стварыць рахунак">
+<!ENTITY fxaccount_account_create_not_allowed "Немагчыма стварыць рахунак">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Вы павіны мець пэўны ўзрост, каб стварыць рахунак.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Падрабязней">
-<!ENTITY fxaccount_confirm_account_header "Confirm your account">
-<!ENTITY fxaccount_confirm_account_verification_link "A verification link has been sent to &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Resend email">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Verification email sent">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Couldn\&apos;t send verification email">
-<!ENTITY fxaccount_sign_in_sub_header "Увайсці">
+<!ENTITY fxaccount_confirm_account_header "Пацвярджэнне рахунку">
+<!ENTITY fxaccount_confirm_account_verification_link "Спасылка пацверджання даслана да &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Перадаслаць э-ліст">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Ліст пацверджання дасланы">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Немагчыма даслаць э-ліст пацверджання">
+<!ENTITY fxaccount_sign_in_sub_header "Уваход">
 <!ENTITY fxaccount_sign_in_button_label "Увайсці">
-<!ENTITY fxaccount_sign_in_forgot_password "Forgot password?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Стварыць новы рахунак">
-<!ENTITY fxaccount_sign_in_unknown_error "Could not sign in">
-<!ENTITY fxaccount_account_verified_sub_header "Account verified">
-<!ENTITY fxaccount_account_verified_description2 "Your data will begin syncing momentarily.">
-<!ENTITY fxaccount_update_credentials_header "Увайсці">
+<!ENTITY fxaccount_sign_in_forgot_password "Забылі пароль?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Стварыць рахунак">
+<!ENTITY fxaccount_sign_in_unknown_error "Немагчыма ўвайсці">
+<!ENTITY fxaccount_account_verified_sub_header "Рахунак пацверджаны">
+<!ENTITY fxaccount_account_verified_description2 "Вашы здаткі пачнуць сінхранізавацца неадкладна.">
+<!ENTITY fxaccount_update_credentials_header "Уваход">
 <!ENTITY fxaccount_update_credentials_button_label "Увайсці">
-<!ENTITY fxaccount_update_credentials_unknown_error "Could not sign in">
-<!ENTITY fxaccount_status_header "Firefox account">
+<!ENTITY fxaccount_update_credentials_unknown_error "Немагчыма ўвайсці">
+<!ENTITY fxaccount_status_header "Рахунак Firefox">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: enabled">
-<!ENTITY fxaccount_status_needs_verification2 "Your account needs to be verified. Tap to resend verification email.">
-<!ENTITY fxaccount_status_needs_credentials "Cannot connect. Tap to sign in.">
-<!ENTITY fxaccount_status_needs_upgrade "You need to upgrade &brandShortName; to sign in.">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: дазволены">
+<!ENTITY fxaccount_status_needs_verification2 "Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.">
+<!ENTITY fxaccount_status_needs_credentials "Немагчыма злучыцца. Ляпніце, каб увайсці.">
+<!ENTITY fxaccount_status_needs_upgrade "Вы павінны ўзняць &brandShortName;, каб увайсці.">
 <!ENTITY fxaccount_status_bookmarks "Закладкі">
 <!ENTITY fxaccount_status_history "Гісторыя">
 <!ENTITY fxaccount_status_passwords "Паролі">
-<!ENTITY fxaccount_status_tabs "Адкрыць устаўкі">
-<!ENTITY fxaccount_status_legal "Legal">
+<!ENTITY fxaccount_status_tabs "Адчыненыя ўстаўкі">
+<!ENTITY fxaccount_status_legal "Легальны">
 <!ENTITY fxaccount_account_type_label "Firefox">
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Options">
-<!ENTITY fxaccount_options_configure_title "Злучыцца з &syncBrand.shortName.label;">
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "You need to upgrade Firefox">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Account already exists. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Invalid email or password">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Invalid email or password">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Account is not verified">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server busy, try again soon">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server busy, try again soon">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "There was a problem">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cannot connect to network">
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; is not connected">
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tap to sign in as &formatS;">
+<!ENTITY fxaccount_options_title "Наладжванні &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "Наладжванне &syncBrand.shortName.label;">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Вы павінны ўзняць Firefox">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Рахунак ужо існуе. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Крывы адрас э-пошты або пароль">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Крывы адрас э-пошты або пароль">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Рахунак не паверджаны">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Паслугач заняты, паспрабуйе зноў крыху пазней">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Паслугач заняты, паспрабуйе зноў крыху пазней">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Здарылася праблема">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Немагчыма злучыцца з сеткай">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; не злучаны">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Ляпніце, каб увайсці як &formatS;">

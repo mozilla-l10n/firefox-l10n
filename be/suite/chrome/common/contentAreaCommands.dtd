@@ -31,8 +31,8 @@
 <!ENTITY reloadCmd.label "Абнавіць">
 <!ENTITY reloadCmd.accesskey "в">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY stopCmd.label "Прыпыніць">
-<!ENTITY stopCmd.accesskey "ы">
+<!ENTITY stopCmd.label "Спыніць">
+<!ENTITY stopCmd.accesskey "С">
 <!ENTITY reloadFrameCmd.label "Абнавіць рамку">
 <!ENTITY reloadFrameCmd.accesskey "ь">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
