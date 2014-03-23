@@ -84,13 +84,6 @@
 <!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
-
 <!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
