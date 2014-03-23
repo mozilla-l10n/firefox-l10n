@@ -9,7 +9,7 @@
 <!ENTITY account.name "Nom d'utilisateur :">
 <!ENTITY account.password "Mot de passe :">
 <!ENTITY account.alias "Alias :">
-<!ENTITY account.newMailNotification "Notifier les nouveaux courriels">
+<!ENTITY account.newMailNotification "Signaler les nouveaux courriels">
 <!ENTITY account.autojoin "Rejoindre automatiquement les salons :">
 <!ENTITY account.proxySettings.caption "Paramètre de proxy :">
 <!ENTITY account.proxySettings.change.label "Modifier…">
