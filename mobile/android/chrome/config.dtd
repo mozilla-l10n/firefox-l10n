@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "શોધ સુયોજનો">
-<!ENTITY clear.altText          "સાફ કરો">
-<!ENTITY newpref.label2         "નવું સુયોજન ઉમેરો">
+
+<!ENTITY toolbar.searchPlaceholder     "શોધો">
+
+<!ENTITY newPref.namePlaceholder       "નામ">
+
+<!ENTITY newPref.valueBoolean          "બુલિયન">
+<!ENTITY newPref.valueString           "શબ્દમાળા">
+<!ENTITY newPref.valueInteger          "પૂર્ણાંક">
+
+<!ENTITY newPref.stringPlaceholder     "શબ્દમાળા દાખલ કરો">
+<!ENTITY newPref.numberPlaceholder     "સંખ્યા દાખલ કરો">
+
+<!ENTITY newPref.toggleButton          "ફેરવો">
+<!ENTITY newPref.cancelButton          "રદ કરો">
+
+<!ENTITY contextMenu.copyPrefName      "નામની નકલ કરો">
+<!ENTITY contextMenu.copyPrefValue     "કિંમતની નકલ કરો">
