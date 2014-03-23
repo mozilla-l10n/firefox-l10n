@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
+<!ENTITY helpShowTour.label             "&brandShortName;(r)en itzulia">
+<!ENTITY helpShowTour.accesskey         "u">
+
 <!ENTITY preferencesCmdMac.label        "Hobespenak…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
