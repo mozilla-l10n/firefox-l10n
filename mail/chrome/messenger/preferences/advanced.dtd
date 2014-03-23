@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "I">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Bilatu eguneraketak automatikoki honentzat:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Instalatutako gehigarriak">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY whenUpdatesFound.label         "&brandShortName;(r)en eguneraketak topatzen direnean:">
-<!ENTITY modeAskMe.label                "Galdetu zer egin nahi dudan">
-<!ENTITY modeAskMe.accesskey            "G">
-<!ENTITY modeAutomatic.label            "Deskargatu eta instalatu automatikoki eguneraketa">
-<!ENTITY modeAutomatic.accesskey        "D">
-<!ENTITY modeAutoAddonWarn.label        "Ohar nazazu nire gehigarriren bat ezgaitzea badakar">
-<!ENTITY modeAutoAddonWarn.accesskey    "g">
-<!ENTITY showUpdates.label              "Erakutsi eguneraketen historia">
-<!ENTITY showUpdates.accesskey          "u">
+<!ENTITY updateApp.label                 "&brandShortName;(r)en eguneraketak:">
+<!ENTITY updateAuto.label                "Instalatu eguneraketak automatikoki (gomendatua: hobetutako segurtasuna)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Egiaztatu eguneraketarik dagoen baina galdetu instalatu nahi ditudan">
+<!ENTITY updateCheck.accesskey           "E">
+<!ENTITY updateManual.label              "Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua: segurtasun arriskua)">
+<!ENTITY updateManual.accesskey          "n">
+<!ENTITY updateAutoAddonWarn.label       "Abisatu nire gehigarriak desgaituko baditu">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateHistory.label             "Erakutsi eguneraketen historia">
+<!ENTITY updateHistory.accesskey         "n">
+<!ENTITY updateOthers.label              "Eguneratu automatikoki:">
+<!ENTITY enableAddonsUpdate3.label       "Gehigarriak">
+<!ENTITY enableAddonsUpdate3.accesskey   "G">
 
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
