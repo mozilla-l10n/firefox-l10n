@@ -475,7 +475,7 @@
 <!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
 <!ENTITY printButton.label "Друкаваць">
-<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.label "Спыніць">
 <!ENTITY throbberItem.title "Паказнік дзейнасці">
 <!ENTITY junkItem.title "Лухта">
 <!ENTITY junkButton.label "Лухта">
@@ -724,8 +724,8 @@
 <!ENTITY copyImageAllCmd.accesskey "я">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
-<!ENTITY stopCmd.label "Прыпыніць">
-<!ENTITY stopCmd.accesskey "П">
+<!ENTITY stopCmd.label "Спыніць">
+<!ENTITY stopCmd.accesskey "С">
 <!ENTITY reloadCmd.label "Абнавіць">
 <!ENTITY reloadCmd.accesskey "А">
 <!ENTITY openInBrowser.label "Адкрыць у азіральніку">

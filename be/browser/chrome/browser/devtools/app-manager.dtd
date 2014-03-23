@@ -12,7 +12,7 @@
 <!ENTITY device.notConnected "Не злучаны. Злучыце, калі ласка, вашу збудову ніжэй.">
 <!ENTITY device.startApp "Запуск">
 <!ENTITY device.startAppTooltip "Запусціць прыстасаванне на збудове">
-<!ENTITY device.stopApp "Прыпыніць">
+<!ENTITY device.stopApp "Спыніць">
 <!ENTITY device.stopAppTooltip "Прыпыніць прыстасаванне на збудове">
 <!ENTITY device.debugApp "Наладка">
 <!ENTITY device.debugAppTooltip "Адчыніць распрацоўныя прылады, злучаныя з гэтым прыстасаваннем на збудове">

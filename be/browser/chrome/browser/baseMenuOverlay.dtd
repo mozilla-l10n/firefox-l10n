@@ -26,8 +26,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY helpFeedbackPage.label "Падаць водгук…">
 <!ENTITY helpFeedbackPage.accesskey "в">
-<!ENTITY helpShowTour.label "Эмблема &brandShortName;">
-<!ENTITY helpShowTour.accesskey "o">
+<!ENTITY helpShowTour.label "Знаёмства з &brandShortName;">
+<!ENTITY helpShowTour.accesskey "з">
 <!ENTITY preferencesCmdMac.label "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Службы">
