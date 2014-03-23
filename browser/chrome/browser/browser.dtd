@@ -126,8 +126,8 @@
 <!ENTITY reloadCmd.label "Абнавіць">
 <!ENTITY reloadCmd.accesskey "в">
 <!ENTITY reloadButton.tooltip "Абнавіць гэтую старонку">
-<!ENTITY stopCmd.label "Прыпыніць">
-<!ENTITY stopCmd.accesskey "ы">
+<!ENTITY stopCmd.label "Спыніць">
+<!ENTITY stopCmd.accesskey "С">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Прыпыніць загрузку гэтай старонкі">
 <!ENTITY goEndCap.tooltip "Пайсці па адрасу, які на паліцы месцазнаходжання">

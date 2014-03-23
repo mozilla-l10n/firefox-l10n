@@ -385,7 +385,7 @@
 <!ENTITY deleteButton.label "Выдаліць">
 <!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
-<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.label "Спыніць">
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY searchButton.title "Пашыраны пошук">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY netmonitorUI.perfNotice1 "• Click on the">
-<!ENTITY netmonitorUI.perfNotice2 "button to start performance analysis.">
-<!ENTITY netmonitorUI.emptyNotice3 "• Perform a request or reload the page to see detailed information about network activity.">
+<!ENTITY netmonitorUI.perfNotice1 "• Пстрыкніце кнопку ">
+<!ENTITY netmonitorUI.perfNotice2 ", каб пачаць даследаванне працавыніковасці.">
+<!ENTITY netmonitorUI.emptyNotice3 "• Выканайце запыт або абнавіце старонку, каб пабачыць падрабязныя звесткі пра дзейнасць сеткі.">
 <!ENTITY netmonitorUI.toolbar.status2 "✓">
 <!ENTITY netmonitorUI.toolbar.method "Сродак">
 <!ENTITY netmonitorUI.toolbar.file "Файл">
@@ -28,7 +28,7 @@
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
 <!ENTITY netmonitorUI.footer.filterOther "Іншае">
 <!ENTITY netmonitorUI.footer.clear "Ачысціць">
-<!ENTITY netmonitorUI.footer.perf "Toggle performance analysis...">
+<!ENTITY netmonitorUI.footer.perf "Пераключыць даследаванне працавыніковасці...">
 <!ENTITY netmonitorUI.panesButton.tooltip "Пераключыць звесткі пра сетку">
 <!ENTITY netmonitorUI.summary.url "URL запыту:">
 <!ENTITY netmonitorUI.summary.method "Метад запыту:">
@@ -45,11 +45,11 @@
 <!ENTITY netmonitorUI.timings.send "Дасыланне:">
 <!ENTITY netmonitorUI.timings.wait "Чаканне:">
 <!ENTITY netmonitorUI.timings.receive "Атрыманне:">
-<!ENTITY netmonitorUI.context.perfTools "Start Performance Analysis...">
-<!ENTITY netmonitorUI.context.perfTools.accesskey "S">
-<!ENTITY netmonitorUI.context.copyUrl "Скапіваць URL">
+<!ENTITY netmonitorUI.context.perfTools "Запусціць даследаванне працавыніковасці...">
+<!ENTITY netmonitorUI.context.perfTools.accesskey "З">
+<!ENTITY netmonitorUI.context.copyUrl "Капіваць URL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "к">
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "Copy Image as Data URI">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Капіяваць выяку як Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "I">
 <!ENTITY netmonitorUI.summary.editAndResend "Паправіць і перадаслаць">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "п">
