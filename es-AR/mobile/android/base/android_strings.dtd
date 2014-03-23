@@ -68,6 +68,7 @@
 <!ENTITY pref_category_advanced "Avanzada">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_search3 "Buscar">
+<!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -289,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
+<!ENTITY reading_list_add "Agregar a lista de lectura">
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
@@ -332,6 +334,10 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "CONSEJO: Guardá artículos en tu lista de lectura con una presión larga en el botón de modo lectura cuando aparezca en la barra de título.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "No se encontró contenido para este panel.">
 
 <!ENTITY pin_site_dialog_hint "Ingresá una palabra a buscar">
 
