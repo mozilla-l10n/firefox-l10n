@@ -35,5 +35,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Hutsegiteen berriemailea">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu Mozillara nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Sartu bisitatzen ari nintzen orriaren helbidea">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Partekatu Mozillarekin &brandShortName;(r)en erabilpen-estatistikak nabigatzailea hobetzen laguntzeko">
