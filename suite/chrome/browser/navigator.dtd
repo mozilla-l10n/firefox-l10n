@@ -28,7 +28,7 @@
 <!ENTITY forwardButton.tooltip "Наступная старонка">
 <!ENTITY reloadButton.label "Абнавіць">
 <!ENTITY reloadButton.tooltip "Абнавіць гэтую старонку">
-<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.label "Спыніць">
 <!ENTITY stopButton.tooltip "Прыпыніць загрузку гэтай старонкі">
 <!ENTITY searchButton.label "Пошук">
 <!ENTITY searchButton.tooltip "Увядзіце слова ў поле злева і пстрыкніце Пошук">

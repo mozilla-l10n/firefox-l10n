@@ -57,7 +57,7 @@
 <!ENTITY pref_category_datareporting "Выбар здаткаў">
 <!ENTITY pref_category_installed_search_engines "Усталяваныя машыны пошуку">
 <!ENTITY pref_category_add_search_providers "Дадаць іншых дастаўшыкоў пошуку">
-<!ENTITY pref_category_search_restore_defaults "Restore search engines">
+<!ENTITY pref_category_search_restore_defaults "Аднавіць машыны пошуку">
 <!ENTITY pref_search_restore_defaults "Аднавіць змоўчныя">
 <!ENTITY pref_search_restore_defaults_summary "Аднавіць змоўчныя">
 <!ENTITY pref_search_tip "Парада: дадавайце сеціўную пляцоўку ў ваш спіс дастаўшыкоў пошуку, доўга націскаючы яго поле пошуку.">
@@ -65,8 +65,8 @@
 <!ENTITY pref_developer_remotedebugging "Адлеглая наладка">
 <!ENTITY pref_developer_remotedebugging_docs "Падрабязней">
 <!ENTITY pref_remember_signons "Памятаць паролі">
-<!ENTITY pref_category_home "Дадому">
-<!ENTITY pref_category_home_panels "Старонкі">
+<!ENTITY pref_category_home "Хатняя">
+<!ENTITY pref_category_home_panels "Панэлі">
 <!ENTITY pref_header_customize "Уладкаваць">
 <!ENTITY pref_header_display "Адлюстраванне">
 <!ENTITY pref_header_privacy_short "Адасабленне">
@@ -119,7 +119,7 @@
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
 <!ENTITY pref_vendor_feedback "Даць водгук">
 <!ENTITY pref_dialog_set_default "Прызначыць змоўчным">
-<!ENTITY pref_dialog_default "Змоўчная">
+<!ENTITY pref_dialog_default "Змоўчны">
 <!ENTITY pref_dialog_remove "Выдаліць">
 <!ENTITY pref_search_last_toast "Вы не можаце выдаліць або забараніць вашу астатнюю машыну пошуку.">
 <!ENTITY pref_panels_show "Паказаць">
@@ -167,10 +167,10 @@
 <!ENTITY find_prev "Папярэдняя">
 <!ENTITY find_next "Наступная">
 <!ENTITY find_close "Закрыць">
-<!ENTITY media_casting_to "Casting to Device">
+<!ENTITY media_casting_to "Перакінуць на збудову">
 <!ENTITY media_play "Граць">
 <!ENTITY media_pause "Прыпыніць">
-<!ENTITY media_stop "Прыпыніць">
+<!ENTITY media_stop "Спыніць">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
 <!ENTITY contextmenu_open_private_tab "Адчыніць у адасобленай устаўцы">
 <!ENTITY contextmenu_open_in_reader "Адкрыць у чытачу">
@@ -190,7 +190,7 @@
 <!ENTITY pref_titlebar_mode "Паліца загалоўка">
 <!ENTITY pref_titlebar_mode_title "Паказваць загаловак старонкі">
 <!ENTITY pref_titlebar_mode_url "Паказваць адрас старонкі">
-<!ENTITY pref_scroll_title_bar "Scroll title bar">
+<!ENTITY pref_scroll_title_bar "Пракручваць паліцу загалоўка">
 <!ENTITY history_removed "Старонка выдалена">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
