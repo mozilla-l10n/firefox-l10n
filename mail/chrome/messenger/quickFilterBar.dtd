@@ -8,7 +8,6 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Паліца хуткага сіта">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Пераключыць паліцу хуткага сіта">
 <!ENTITY quickFilterBar.sticky.tooltip "Захоўваць ужытыя сіты пры змяненні папак">
-<!ENTITY quickFilterBar.barLabel.label "Хуткі пошук:">
 <!ENTITY quickFilterBar.unread.label "Непрачытаныя">
 <!ENTITY quickFilterBar.unread.tooltip "Паказваць толькі непрачытаныя лісты">
 <!ENTITY quickFilterBar.starred.label "З зоркамі">

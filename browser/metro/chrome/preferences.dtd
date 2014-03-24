@@ -21,6 +21,7 @@
 <!ENTITY clearPrivateData.offline "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY clearPrivateData.logins "Дзейныя ўваходы">
 <!ENTITY optionsHeader.privacy.passwords.label "Памятаць паролі">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Паказваць навігацыйныя кнопкі">
 <!ENTITY doNotTrack.title "Не сачыць">
 <!ENTITY doNotTrack.options.doNotTrack "Паведамляць пляцоўкам сеціва, што я не жадаю, каб за мною сачылі.">
 <!ENTITY doNotTrack.options.doTrack "Паведамляць пляцоўкам сеціва, што я жадаю, каб за мною сачылі.">

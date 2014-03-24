@@ -110,6 +110,10 @@
 <!ENTITY collapseContactTooltip "Згарнуць">
 <!ENTITY contactDropTarget2 "Упусціць іншую сувязь, каб зліць іх.">
 <!ENTITY hideGroupTooltip "Схаваць">
+<!ENTITY chooseIconCmd.label "Выбраць выяву…">
+<!ENTITY chooseIconCmd.accesskey "В">
+<!ENTITY removeIconCmd.label "Выдаліць">
+<!ENTITY removeIconCmd.accesskey "д">
 <!ENTITY windowMenu.label "Акно">
 <!ENTITY minimizeWindow.label "Мінімізаваць">
 <!ENTITY minimizeWindow.key "m">

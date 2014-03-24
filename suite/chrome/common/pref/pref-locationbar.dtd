@@ -20,12 +20,13 @@
 <!ENTITY autoCompleteMatchWordsFirst "Усюды, але пераважна ў межах словаў">
 <!ENTITY autoCompleteMatchWords "Толькі ў межах словаў">
 <!ENTITY autoCompleteMatchStart "Толькі ў пачатку месцазнаходжання або загалоўка">
+<!ENTITY showInternetSearch.label "Паказаць змоўчную машыну пошуку Інтэрнэту">
+<!ENTITY showInternetSearch.accesskey "м">
 <!ENTITY formatting.label "Фарматаванне">
 <!ENTITY domainFormatting.label "Падфарбоўваць дзейны выніковы дамен для сеціўных пляцовак і паслугачоў FTP">
 <!ENTITY domainFormatting.accesskey "ф">
-<!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнэт">
-<!ENTITY showSearchEngine.label "Паказаць змоўчную машыну пошуку">
-<!ENTITY showSearchEngine.accesskey "м">
+<!ENTITY highlightSecure.label "Падфарбоўваць сеціўныя старонкі з высокім узроўнем бяспекі злучэння">
+<!ENTITY highlightSecure.accesskey "ф">
 <!ENTITY unknownLocations.label "Невядомыя месцазнаходжанні">
 <!ENTITY domainGuessing.label "Дадаваць &quot;www.&quot; і &quot;.com&quot; да адрасу, калі старонка не знойдзена">
 <!ENTITY domainGuessing.accesskey "Д">

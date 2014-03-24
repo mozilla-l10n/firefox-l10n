@@ -9,8 +9,9 @@
 <!ENTITY location1.accesskey "е">
 <!ENTITY useDefault.label "Узнавіць першапачатковую">
 <!ENTITY useDefault.accesskey "У">
-<!ENTITY bounceSystemDockIcon.label "Ажывіць значок у латку">
-<!ENTITY bounceSystemDockIcon.accesskey "а">
+<!ENTITY changeDockIconOptions.label "Змянненне перавагаў значка прыстасавання">
+<!ENTITY dockOptions.label "Наладжванні значка прыстасавання…">
+<!ENTITY dockOptions.accesskey "д">
 <!ENTITY newMessagesArrive.label "Калі прыбываюць новыя лісты:">
 <!ENTITY playSound.label "Граць гук">
 <!ENTITY playSound1.accesskey "г">

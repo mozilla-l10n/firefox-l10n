@@ -62,8 +62,6 @@
 <!ENTITY certs.ask.accesskey "к">
 <!ENTITY viewCerts.label "Прагляд пасведчанняў">
 <!ENTITY viewCerts.accesskey "г">
-<!ENTITY viewCRLs.label "Спісы адклікання">
-<!ENTITY viewCRLs.accesskey "а">
 <!ENTITY verify2.label "Пацвярджэнне">
 <!ENTITY verify2.accesskey "ц">
 <!ENTITY viewSecurityDevices.label "Збудовы бяспекі">

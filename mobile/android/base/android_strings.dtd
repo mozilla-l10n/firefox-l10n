@@ -42,6 +42,7 @@
 <!ENTITY back "Назад">
 <!ENTITY stop "Спыніць">
 <!ENTITY site_security "Бяспека пляцоўкі">
+<!ENTITY save "Захаваць">
 <!ENTITY close_tab "Зачыніць устаўку">
 <!ENTITY one_tab "1 устаўка">
 <!ENTITY num_tabs2 "&formatD; уставак">
@@ -51,6 +52,7 @@
 <!ENTITY pref_category_advanced "Пашыраны">
 <!ENTITY pref_category_customize "Уладкаваць">
 <!ENTITY pref_category_search3 "Пошук">
+<!ENTITY pref_category_search_summary "Уладкаванне вашых дастаўшчыкоў пошуку">
 <!ENTITY pref_category_display "Адлюстраванне">
 <!ENTITY pref_category_privacy_short "Адасабленне">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -60,13 +62,22 @@
 <!ENTITY pref_category_search_restore_defaults "Аднавіць машыны пошуку">
 <!ENTITY pref_search_restore_defaults "Аднавіць змоўчныя">
 <!ENTITY pref_search_restore_defaults_summary "Аднавіць змоўчныя">
-<!ENTITY pref_search_tip "Парада: дадавайце сеціўную пляцоўку ў ваш спіс дастаўшыкоў пошуку, доўга націскаючы яго поле пошуку.">
+<!ENTITY pref_search_hint "Парада: Дадавайце любую сеціўную пляцоўку ў спіс дастаўшчыкоў пошуку доўгім націскам на яе поле пошуку і наятупнага ляпання значка &formatI;.">
 <!ENTITY pref_category_devtools "Прылады распрацаўніка">
 <!ENTITY pref_developer_remotedebugging "Адлеглая наладка">
 <!ENTITY pref_developer_remotedebugging_docs "Падрабязней">
 <!ENTITY pref_remember_signons "Памятаць паролі">
 <!ENTITY pref_category_home "Хатняя">
+<!ENTITY pref_category_home_summary "Уладкаванне вашай хатняй старонкі">
 <!ENTITY pref_category_home_panels "Панэлі">
+<!ENTITY pref_home_add_panel "Дадаць панэль">
+<!ENTITY home_add_panel_title "Даданне новай панэлі">
+<!ENTITY home_add_panel_empty "Прабачце, мы не можам знайсці ніякай панэлі для вас для дадання.">
+<!ENTITY home_add_panel_installed "\'&formatS;\' дададзена на хатнюю старонку">
+<!ENTITY pref_category_home_content_settings "Наладжванні змесціва">
+<!ENTITY pref_home_updates "Самастойныя абнаўленні">
+<!ENTITY pref_home_updates_enabled "Дазволена">
+<!ENTITY pref_home_updates_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_header_customize "Уладкаваць">
 <!ENTITY pref_header_display "Адлюстраванне">
 <!ENTITY pref_header_privacy_short "Адасабленне">
@@ -154,6 +165,7 @@
 <!ENTITY save_as_pdf "Захаваць як PDF">
 <!ENTITY find_in_page "Знайсці на старонцы">
 <!ENTITY desktop_mode "Запыт настольнай пляцоўкі">
+<!ENTITY page "Старонка">
 <!ENTITY tools "Прылады">
 <!ENTITY new_tab "Новая ўстаўка">
 <!ENTITY new_private_tab "Новая адасобленая ўстаўка">
@@ -200,6 +212,7 @@
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
 <!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
+<!ENTITY reading_list_add "Дадаць у спіс для чытання">
 <!ENTITY reading_list_added "Старонка дададзена ў ваш спіс чытання">
 <!ENTITY reading_list_removed "Старонка выдалена з вашага спісу чытання">
 <!ENTITY reading_list_failed "Няўдача дадавання старонкі ў ваш спіс чытання">
@@ -226,8 +239,9 @@
 <!ENTITY home_most_recent_title "Найапошнія">
 <!ENTITY home_most_recent_empty "Сеціўныя пляцоўкі, якія вы наведвалі нядаўна, знаходзяцца тут.">
 <!ENTITY home_reading_list_empty "Артыкулы, якія вы пакінулі на потым, знаходзяцца тут.">
-<!ENTITY home_reading_list_hint "Парада: Пакідвайце артыкулы ў вашым спісу чытання, доўга націскаючы значок &#037;I, які паяўляецца на паліцы-загалоўку.">
+<!ENTITY home_reading_list_hint2 "Парада: Пакідвайце артыкулы ў вашым спісу чытання, доўга націскаючы значок &formatI;, які паяўляецца на паліцы-загалоўку.">
 <!ENTITY home_reading_list_hint_accessible "Парада: Пакідвайце артыкулы ў вашым спісу чытання, доўга націскаючы кнопку рэжыму чытання, якая паяўляецца на паліцы-загалоўку.">
+<!ENTITY home_default_empty "Немагчыма знайсці змесціва для гэтай панэлі.">
 <!ENTITY pin_site_dialog_hint "Увядзіце тэрмін для пошуку">
 <!ENTITY filepicker_title "Выбар файла">
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
@@ -252,7 +266,7 @@
 <!ENTITY bookmarkhistory_import_history "Імпартаванне закладак і гісторыі
                                          з Android">
 <!ENTITY bookmarkhistory_import_wait "Пачакайце, калі ласка...">
-<!ENTITY suggestions_prompt2 "Хочаце ўключыць прапановы пошуку &formatS;?">
+<!ENTITY suggestions_prompt3 "Вы хочаце ўключыць прапановы пошуку?">
 <!ENTITY suggestion_for_engine "Шукаць &formatS2; з дапамогаю &formatS1;">
 <!ENTITY webapp_generic_name "Прыстасаванне">
 <!ENTITY searchable_description "Закладкі і гісторыя">
