@@ -17,3 +17,6 @@
 <!ENTITY            introStart.label         "För att få åtkomst till din personliga profil, som innehåller dina lagrade meddelanden, inställningar och annan personlig information, välj din profil ur listan, och klicka på &start.label; för att påbörja sessionen.">
 <!ENTITY            introSwitch.label        "För att byta till en annan profil, som innehåller lagrade meddelanden, inställningar och annan personlig information, välj den profilen ur listan, och klicka på &select.label; för att börja använda den profilen.">
 <!ENTITY            profileManagerText.label "&brandShortName; lagrar information om dina inställningar, bokmärken, lagrade meddelanden och andra användarposter i din användarprofil.">
+
+<!ENTITY            autoSelect.label         "Använd denna profil som standard">
+<!ENTITY            autoSelect.accesskey     "s">

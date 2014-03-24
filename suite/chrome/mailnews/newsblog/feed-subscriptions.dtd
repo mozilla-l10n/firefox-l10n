@@ -5,6 +5,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Kanalprenumerationer">
 <!ENTITY subscriptionDesc.label "OBS! Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
+
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
@@ -34,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exportera flöden med mappstruktur; ctrl och klick eller ctrl-enter för att exportera flöden som en lista">
 
 <!ENTITY cmd.close.commandKey             "w">
+<!ENTITY button.close.label          "Stäng">
