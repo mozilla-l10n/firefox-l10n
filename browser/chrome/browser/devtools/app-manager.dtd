@@ -84,8 +84,8 @@
 <!ENTITY projects.valid "Valido">
 <!ENTITY projects.error "Errore">
 <!ENTITY projects.warning "Avviso">
-<!ENTITY projects.hosted "Hosted">
-<!ENTITY projects.packaged "Packaged">
+<!ENTITY projects.hosted "Remota">
+<!ENTITY projects.packaged "Locale">
 <!ENTITY help.title "Gestore app">
 <!ENTITY help.close "Chiudi">
 <!ENTITY help.intro "Questo strumento semplifica lo sviluppo e l’installazione di web app su dispositivi compatibili con Firefox OS. La scheda <strong>App</strong> serve per il processo di validazione e installazione dell’applicazione. La scheda <strong>Dispositivo</strong> fornisce informazioni sul dispositivo collegato. Utilizzare la barra degli strumenti per connettere un dispositivo o avviare il simulatore.">
