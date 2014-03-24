@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Mensajes">
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpiar">
+<!ENTITY consoleCopyAll.label      "Copiar">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Archivo fuente:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+<!ENTITY consoleFollowCheckbox.label "Seguir">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Cortar">
