@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Active logins">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Mostrar botones de navegación">
 <!ENTITY doNotTrack.title                                        "No rastrear">
 <!ENTITY doNotTrack.options.doNotTrack                           "Decirle a los sitios web que no quiero ser rastreado">
 <!ENTITY doNotTrack.options.doTrack                              "Decirle a los sitios web que quiero ser rastreado">
