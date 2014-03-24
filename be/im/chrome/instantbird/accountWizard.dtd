@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Чараўнік Рахункаў">
-<!ENTITY accountWelcomeTitle.label "Калі ласка">
-<!ENTITY accountWelcomeInfo.label "Гэты чараўнік дапаможа вам наладзіць рахунак вокамгненных паведамленняў для карыстання ў &brandShortName;.">
 <!ENTITY accountProtocolTitle.label "Пратакол">
 <!ENTITY accountProtocolInfo.label2 "Выберыце, калі ласка, пратакол рахунку вокамгненных паведамленняў.">
 <!ENTITY accountProtocolGetMore.label "Болей…">

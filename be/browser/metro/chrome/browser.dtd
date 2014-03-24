@@ -42,10 +42,12 @@
 <!ENTITY consoleMessages.label "Паведамленні">
 <!ENTITY consoleCodeEval.label "Код:">
 <!ENTITY consoleClear.label "Ачысціць">
+<!ENTITY consoleCopyAll.label "Капіяваць">
 <!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Зыходны файл:">
 <!ENTITY consoleErrLine.label "Радок:">
 <!ENTITY consoleErrColumn.label "Слупок:">
+<!ENTITY consoleFollowCheckbox.label "Сачыць">
 <!ENTITY contextTextCut.label "Выразаць">
 <!ENTITY contextTextCopy.label "Капіяваць">
 <!ENTITY contextTextPaste.label "Уставіць">

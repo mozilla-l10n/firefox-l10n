@@ -748,3 +748,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Паказаць усе">
+<!ENTITY dockOptions.label "Наладжванні значка прыстасавання…">

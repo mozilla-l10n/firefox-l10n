@@ -27,3 +27,4 @@
 <!ENTITY button.exportOPML.accesskey "Э">
 <!ENTITY button.exportOPML.tooltip "Экспарт жывільнікаў у папках; ctrl-пстрык або ctrl-увод экспартуюць жывільнікі як спіс">
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label "Зачыніць">

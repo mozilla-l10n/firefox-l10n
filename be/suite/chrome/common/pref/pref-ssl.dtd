@@ -24,8 +24,7 @@
 <!ENTITY warn.insecurepost.accesskey "Д">
 <!ENTITY warn.leavingsecure "Пакіданнем старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.leavingsecure.accesskey "к">
-<!ENTITY warn.viewmixed "Праглядам старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
-<!ENTITY warn.viewmixed.accesskey "П">
+<!ENTITY mixed.description "Тайнапісныя старонкі могуць змяшчаць нетайнапіснае змесціва, прыступнае для падслухоўвання або падробкі. &brandShortName; можа выяўляць і блакаваць яго:">
 <!ENTITY warn.mixedactivecontent "Папярэджваць мяне, калі тайнапісная старонка ўтрымлівае небяспенае змесціва">
 <!ENTITY warn.mixedactivecontent.accesskey "П">
 <!ENTITY block.activecontent "Не загружаць небяспечнае змесціва на тайнапісныя старонкі">

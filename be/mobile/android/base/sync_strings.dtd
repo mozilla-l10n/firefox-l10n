@@ -71,10 +71,6 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
 <!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
 <!ENTITY sync.text.tab.not.sent.label "Здарылася праблема падчас дасылання ўстаўкі.">
-<!ENTITY fxaccount_checkbox_contentDescription2 "Графіка скрынак адзнакі рахункаў Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Значок рахункаў Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Графіка азнаямлення рахункаў Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Графіка абалонкі рахункаў Firefox">
 <!ENTITY fxaccount_email_hint "Э-пошта">
 <!ENTITY fxaccount_password_hint "Пароль">
 <!ENTITY fxaccount_password_hide "Схаваць">
@@ -86,10 +82,10 @@
 <!ENTITY fxaccount_getting_started_description "Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, паролі і іншае.">
 <!ENTITY fxaccount_getting_started_get_started "Пачаць">
 <!ENTITY fxaccount_getting_started_old_firefox "Ужываеце старэйшую версію &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_header "Стварыць рахунак Firefox">
+<!ENTITY fxaccount_create_account_header2 "Стварыць рахунак Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Павінна быць прынамсі 8 знакаў">
 <!ENTITY fxaccount_create_account_year_of_birth "Год нараджэння">
-<!ENTITY fxaccount_create_account_policy_text "Працягваючы, я згодны з &formatS1; і &formatS2; сеткавых службаў Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Працягваючы, я згодны з &formatS1; і &formatS2; воблачных службаў Firefox.">
 <!ENTITY fxaccount_create_account_button "Далей">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Выбраць, чым дзяліцца">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ужо маеце рахунак? Увайсці">
@@ -113,7 +109,8 @@
 <!ENTITY fxaccount_update_credentials_header "Уваход">
 <!ENTITY fxaccount_update_credentials_button_label "Увайсці">
 <!ENTITY fxaccount_update_credentials_unknown_error "Немагчыма ўвайсці">
-<!ENTITY fxaccount_status_header "Рахунак Firefox">
+<!ENTITY fxaccount_status_header2 "Рахунак Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Увайшоўшы як">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: дазволены">
 <!ENTITY fxaccount_status_needs_verification2 "Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.">
@@ -124,6 +121,8 @@
 <!ENTITY fxaccount_status_passwords "Паролі">
 <!ENTITY fxaccount_status_tabs "Адчыненыя ўстаўкі">
 <!ENTITY fxaccount_status_legal "Легальны">
+<!ENTITY fxaccount_status_linktos "Умовы абслугоўвання">
+<!ENTITY fxaccount_status_linkprivacy "Папярэджанне адасаблення">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Наладжванні &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Наладжванне &syncBrand.shortName.label;">

@@ -61,9 +61,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey "я">
 <!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey "г">
-<!ENTITY updateOthers.label "Самастойна абнаўляць:">
-<!ENTITY enableAddonsUpdate3.label "Дадаткі">
-<!ENTITY enableAddonsUpdate3.accesskey "Д">
 <!ENTITY useService.label "Ужываць фонаваю службу для ўсталявання абналенняў">
 <!ENTITY useService.accesskey "У">
 <!ENTITY showSettings.label "Наладжванні…">
