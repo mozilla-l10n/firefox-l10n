@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "En sida som stöder kryptering lämnas">
 <!ENTITY warn.leavingsecure.accesskey       "d">
-<!ENTITY warn.viewmixed                     "En sida med en mix av krypterad/okrypterad information visas">
-<!ENTITY warn.viewmixed.accesskey           "x">
 
+<!ENTITY mixed.description                  "Krypterade sidor kan innehålla okrypterat innehåll som är möjligt att avlyssna eller förfalska. &brandShortName; kan upptäcka och blockera det:">
 <!ENTITY warn.mixedactivecontent            "Varna mig när en krypterad sida innehåller osäkert innehåll">
 <!ENTITY warn.mixedactivecontent.accesskey  "a">
 <!ENTITY block.activecontent                "Ladda inte osäkert innehåll på krypterade sidor">
