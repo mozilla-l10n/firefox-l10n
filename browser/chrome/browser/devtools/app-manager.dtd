@@ -21,11 +21,11 @@
 <!ENTITY device.privileged "Privilegiata">
 <!ENTITY device.certified "Certificata">
 <!ENTITY device.allow "Permetti">
-<!ENTITY device.allowTooltip "Questo permesso viene garantito per app di questo tipo">
+<!ENTITY device.allowTooltip "Questo permesso viene garantito automaticamente per questa tipologia di app">
 <!ENTITY device.prompt "Chiedi">
-<!ENTITY device.promptTooltip "Questo permesso richiede una conferma dell’utente per app di questo tipo">
+<!ENTITY device.promptTooltip "Questo permesso richiede una conferma dell’utente per questa tipologia di app">
 <!ENTITY device.deny "Nega">
-<!ENTITY device.denyTooltip "Questo permesso viene negato per app di questo tipo">
+<!ENTITY device.denyTooltip "Questo permesso viene negato automaticamente per questa tipologia di app">
 <!ENTITY device.installedApps "App installate">
 <!ENTITY device.installedAppsTooltip "Visualizza un elenco delle app installate sul dispositivo. Alcune app, come ad esempio le app certificate, potrebbero essere escluse da questa visualizzazione.">
 <!ENTITY device.permissions "Permessi">
@@ -62,10 +62,10 @@
 <!ENTITY connection.startRegisteredSimulator "Avvia:">
 <!ENTITY projects.localApps "App locali">
 <!ENTITY projects.addApp "Aggiungi">
-<!ENTITY projects.addPackaged "Aggiungi app packaged">
-<!ENTITY projects.addPackagedTooltip "Aggiungi una nuova app packaged (una cartella) dal computer">
-<!ENTITY projects.addHosted "Aggiungi app hosted">
-<!ENTITY projects.addHostedTooltip "Aggiungi una nuova app hosted (link al file manifest.webapp) da un sito web remoto">
+<!ENTITY projects.addPackaged "Aggiungi app locale (packaged)">
+<!ENTITY projects.addPackagedTooltip "Aggiungi una nuova app locale (una cartella) dal computer">
+<!ENTITY projects.addHosted "Aggiungi app remota (hosted)">
+<!ENTITY projects.addHostedTooltip "Aggiungi una nuova app remota (link al file manifest.webapp) da un sito web">
 <!ENTITY projects.title "App locali">
 <!ENTITY projects.appDetails "Dettagli app">
 <!ENTITY projects.removeAppFromList "Rimuovi questa app dall’elenco di app su cui si sta lavorando. Questo non rimuoverà l’app dal dispositivo o dal simulatore.">
@@ -76,16 +76,16 @@
 <!ENTITY projects.saveManifest "Salva">
 <!ENTITY projects.saveManifestTooltip "Salva il contenuto dell’editor manifesti">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProjects "Nessun progetto presente. Aggiungere un’app packaged (una cartella) o un’app hosted (link al file manifesto).">
+<!ENTITY projects.noProjects "Nessun progetto presente. Aggiungere un’app locale (una cartella) o un’app remota (link al file manifesto).">
 <!ENTITY projects.manifestEditor "Editor manifesti">
-<!ENTITY projects.manifestEditorTooltip "Modifica il manifesto dell’app nel pannello sottostante. Il pulsante Aggiorna salva le modifiche e aggiorna l’app.">
+<!ENTITY projects.manifestEditorTooltip "Modifica il file manifesto dell’app nel pannello sottostante. Il pulsante Aggiorna salva le modifiche e aggiorna l’app.">
 <!ENTITY projects.manifestViewer "Visualizzatore manifesto">
 <!ENTITY projects.manifestViewerTooltip "Analizza il manifesto dell’app nel pannello sottostante">
 <!ENTITY projects.valid "Valido">
 <!ENTITY projects.error "Errore">
 <!ENTITY projects.warning "Avviso">
-<!ENTITY projects.hosted "Hosted">
-<!ENTITY projects.packaged "Packaged">
+<!ENTITY projects.hosted "Remota">
+<!ENTITY projects.packaged "Locale">
 <!ENTITY help.title "Gestore app">
 <!ENTITY help.close "Chiudi">
 <!ENTITY help.intro "Questo strumento semplifica lo sviluppo e l’installazione di web app su dispositivi compatibili con Firefox OS. La scheda <strong>App</strong> serve per il processo di validazione e installazione dell’applicazione. La scheda <strong>Dispositivo</strong> fornisce informazioni sul dispositivo collegato. Utilizzare la barra degli strumenti per connettere un dispositivo o avviare il simulatore.">
