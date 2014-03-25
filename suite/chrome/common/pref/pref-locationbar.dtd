@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst "Kdekoliv, ale preferovat hranice slov">
 <!ENTITY autoCompleteMatchWords "Pouze na hranicích slov">
 <!ENTITY autoCompleteMatchStart "Pouze na začátku adresy nebo titulku">
+<!ENTITY showInternetSearch.label              "Zobrazit výchozí vyhledávací modul">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label "Formátování">
 <!ENTITY domainFormatting.label "Zvýraznit hlavní doménu webových a FTP serverů">
 <!ENTITY domainFormatting.accesskey "h">
-
-<!ENTITY searchEngine.label "Vyhledávací moduly">
-<!ENTITY showSearchEngine.label "Zobrazit výchozí modul">
-<!ENTITY showSearchEngine.accesskey "m">
+<!ENTITY highlightSecure.label                 "Zvýraznit webové stránky s vysokou úrovní zabezpečeného připojení">
+<!ENTITY highlightSecure.accesskey             "Z">
 
 <!ENTITY unknownLocations.label "Neznámá adresa">
 <!ENTITY domainGuessing.label "Pokud není nalezena webová adresa, automaticky přidat k názvu „www.“ a „.cz“">
