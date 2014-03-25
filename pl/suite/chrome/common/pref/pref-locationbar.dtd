@@ -10,25 +10,25 @@
 <!ENTITY autoCompleteAutoFill.label "Automatycznie uzupełniaj najodpowiedniejszą propozycją">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
 <!ENTITY autoCompleteShowPopup.label "Pokazuj listę pasujących wyników">
-<!ENTITY autoCompleteShowPopup.accesskey "P">
+<!ENTITY autoCompleteShowPopup.accesskey "o">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "r">
 <!ENTITY autoCompleteMatchOnlyURLs.label "Wyłącznie w adresach (bez tytułów stron)">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "a">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "z">
 <!ENTITY autoCompleteMatch.label "Szukaj">
 <!ENTITY autoCompleteMatch.accesskey "S">
 <!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
 <!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, ale preferuj granice słów">
 <!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
 <!ENTITY autoCompleteMatchStart "Wyłącznie na początku adresu bądź tytułu">
+<!ENTITY showInternetSearch.label "Wyświetlaj domyślną wyszukiwarkę internetową">
+<!ENTITY showInternetSearch.accesskey "e">
 
 <!ENTITY formatting.label "Formatowanie">
 <!ENTITY domainFormatting.label "Wyróżniaj domeny witryn i serwerów FTP">
 <!ENTITY domainFormatting.accesskey "W">
-
-<!ENTITY searchEngine.label "Wyszukiwarka internetowa">
-<!ENTITY showSearchEngine.label "Wyświetlaj domyślną wyszukiwarkę internetową">
-<!ENTITY showSearchEngine.accesskey "e">
+<!ENTITY highlightSecure.label "Wyróżniaj strony z wysokim poziomem bezpieczeństwa połączenia">
+<!ENTITY highlightSecure.accesskey "n">
 
 <!ENTITY unknownLocations.label "Nieznane adresy">
 <!ENTITY domainGuessing.label "Automatycznie dodawaj „www.” oraz „.com” do wprowadzonego adresu, jeżeli odnalezienie witryny nie jest możliwe">
