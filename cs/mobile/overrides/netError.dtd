@@ -90,13 +90,6 @@
 </ul>
 ">
 
-<!ENTITY protocolNotFound.title "Neznámý protokol">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>Pro otevření této adresy je možná potřeba nainstalovat dodatečný software.</li>
-</ul>
-">
-
 <!ENTITY proxyConnectFailure.title "Proxy server odmítl spojení">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>

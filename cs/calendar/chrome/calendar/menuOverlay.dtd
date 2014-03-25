@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event "Nová událost…">
-<!ENTITY event.new.event.key "N">
 <!ENTITY event.new.event.accesskey "u">
 
 <!ENTITY event.new.task "Nový úkol…">
-<!ENTITY event.new.task.key "T">
 <!ENTITY event.new.task.accesskey "N">
 
-<!ENTITY calendar.new.server.label "Nový kalendář…">
-<!ENTITY calendar.new.server.key "L">
-<!ENTITY calendar.new.server.accesskey "k">
-
-<!ENTITY calendar.print.label "Tisk…">
-<!ENTITY calendar.print.key "P">
-<!ENTITY calendar.print.accesskey "T">
-
 <!ENTITY calendar.import.label "Importovat…">
-<!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "I">
 
 <!ENTITY calendar.export.label "Exportovat…">
 <!ENTITY calendar.export.accesskey "E">
-<!ENTITY calendar.export.selection.label "Exportovat výběr…">
-<!ENTITY calendar.export.selection.accesskey "v">
 
 <!ENTITY calendar.publish.label "Publikovat…">
 <!ENTITY calendar.publish.accesskey "b">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label "Zobrazit úkoly v kalendáři">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ú">
-
-<!ENTITY calendar.menu.numberofweeks.label "Velikost více-týdenního zobrazení">
-<!ENTITY calendar.menu.numberofweeks.2 "2 týdny">
-<!ENTITY calendar.menu.numberofweeks.3 "3 týdny">
-<!ENTITY calendar.menu.numberofweeks.4 "4 týdny">
-<!ENTITY calendar.menu.numberofweeks.5 "5 týdnů">
-<!ENTITY calendar.menu.numberofweeks.6 "6 týdnů">
 
 <!ENTITY goTodayCmd.label "Dnes">
 <!ENTITY goTodayCmd.accesskey "n">
