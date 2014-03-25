@@ -55,6 +55,7 @@
 <!ENTITY back "Zpět">
 <!ENTITY stop "Zastavit">
 <!ENTITY site_security "Zabezpečení stránky">
+<!ENTITY save "Uložit">
 
 <!ENTITY close_tab "Zavřít panel">
 <!ENTITY one_tab "1 panel">
@@ -328,12 +329,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Články, které jste si uložili na později, se zobrazí zde.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Tip: Uložte články do vašeho seznamu ke čtení dlouhým stisknutím ikony &#37;I, jakmile se zobrazí v hlavičce okna.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Tip: Uložte články do vašeho seznamu ke čtení dlouhým stisknutím ikony &#37;I, jakmile se zobrazí v hlavičce okna.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Tip: Uložte článek do vašeho seznamu ke čtení dlouhým stisknutím tlačítka režimu pro čtení, jakmile se zobrazí v hlavičce okna.">
+<!ENTITY home_reading_list_hint_accessible "Tip: Uložte článek do svého seznamu ke čtení dlouhým stisknutím tlačítka režimu pro čtení, jakmile se zobrazí v hlavičce okna.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Pro tento panel nebyl nalezen žádný obsah.">
 
 <!ENTITY pin_site_dialog_hint "Vložení hledaného klíčového slova">
 
@@ -378,9 +383,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_import_wait "Prosím čekejte...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Chcete zapnout našeptávač vyhledávače &formatS;?">
+<!ENTITY suggestions_prompt3 "Chcete zapnout našeptávač vyhledávání?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
