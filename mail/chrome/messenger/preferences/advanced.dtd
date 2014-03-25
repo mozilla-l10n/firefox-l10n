@@ -68,9 +68,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey "V">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
-<!ENTITY updateOthers.label "Uppfæra sjálfvirkt:">
-<!ENTITY enableAddonsUpdate3.label "Viðbætur">
-<!ENTITY enableAddonsUpdate3.accesskey "V">
 <!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey "b">
 <!-- Networking and Disk Space -->

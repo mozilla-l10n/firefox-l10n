@@ -9,8 +9,6 @@
 <!ENTITY reminder.remove.accesskey "F">
 <!ENTITY reminder.reminderDetails.label "Upplýsingar fyrir áminningu">
 <!ENTITY reminder.action.label "Veldu áminningu">
-<!ENTITY reminder.relation.before.label "áður">
-<!ENTITY reminder.relation.after.label "eftir">
 <!ENTITY reminder.action.alert.label "Sýna aðvörun">
 <!ENTITY reminder.action.email.label "Senda póst">
 <!ENTITY alarm.units.minutes "mínútur">
