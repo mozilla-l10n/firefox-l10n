@@ -88,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label "Nová událost">
 <!ENTITY calendar.newtask.button.label "Nový úkol">
 <!ENTITY calendar.print.button.label "Tisk">
-
-<!ENTITY calendar.export.calendar "Exportovat kalendář…">
+<!ENTITY calendar.print.button.accesskey        "T">
 
 <!ENTITY calendar.day.button.label "Den">
 <!ENTITY calendar.week.button.label "Týden">
@@ -331,7 +330,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Vybrané události/úkoly">
 <!ENTITY calendar.print.tasks.label "Úkoly">
 <!ENTITY calendar.print.events.label "Události">
-<!ENTITY calendar.print.selected.label "Vybrané události">
 <!ENTITY calendar.print.custom.label "Vlastní:">
 <!ENTITY calendar.print.from.label "Od:">
 <!ENTITY calendar.print.to.label "Do:">
