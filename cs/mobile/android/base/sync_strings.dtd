@@ -107,13 +107,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Grafické zaškrtávací pole pro Firefox accounts'>
-<!ENTITY fxaccount_icon_contentDescription2 'Ikona Firefox accounts'>
-<!ENTITY fxaccount_intro_contentDescription2 'Úvodní grafika Firefox accounts'>
-<!ENTITY fxaccount_mail_contentDescription2 'Obálka grafiky Firefox accounts'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -127,6 +120,11 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Zpět na prohlížení'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos 'Podmínky služby'>
 <!ENTITY fxaccount_policy_linkprivacy 'Poznámka k soukromí'>
 
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Přihlásit'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Přihlášení se nezdařilo'>
 
-<!ENTITY fxaccount_status_header 'Firefox Account'>
+<!ENTITY fxaccount_status_header2 'Firefox Account'>
+<!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolen'>
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>
@@ -184,6 +183,12 @@
 <!ENTITY fxaccount_status_passwords 'Hesla'>
 <!ENTITY fxaccount_status_tabs 'Otevřené panely'>
 <!ENTITY fxaccount_status_legal 'Právní informace' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Podmínky služby'>
+<!ENTITY fxaccount_status_linkprivacy 'Poznámka k soukromí'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->

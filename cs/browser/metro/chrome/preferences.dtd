@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktivní přihlášení">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Pamatovat si hesla">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Zobrazit navigační tlačítka">
 <!ENTITY doNotTrack.title                                        "Do Not Track">
 <!ENTITY doNotTrack.options.doNotTrack                           "Říci webovým stránkám, že nechci být sledován">
 <!ENTITY doNotTrack.options.doTrack                              "Říci webovým stránkám, že mě mohou sledovat">

@@ -1,4 +1,7 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -11,7 +14,9 @@
 
 <!ENTITY availableProfiles.label "Dostupné profily">
 
-
 <!ENTITY introStart.label "Pro zahájení relace s profilem, který obsahuje vaše nastavení, uložené zprávy a další osobní informace, zvolte jeho název ze seznamu a klepněte na tlačítko &start.label;.">
 <!ENTITY introSwitch.label "Pro přepnutí relace na jiný profil, který obsahuje vaše nastavení, uložené zprávy a další osobní informace, zvolte jeho název ze seznamu a klepněte na tlačítko &select.label;.">
 <!ENTITY profileManagerText.label "&brandShortName; ukládá informace o vašem nastavení, předvolbách, záložkách, uložených zpráv a ostatní osobní data do vašeho osobního profilu.">
+
+<!ENTITY            autoSelect.label         "Použít profil jako výchozí">
+<!ENTITY            autoSelect.accesskey     "P">

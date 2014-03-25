@@ -58,10 +58,12 @@
 <!ENTITY consoleMessages.label     "Zprávy">
 <!ENTITY consoleCodeEval.label     "Kód:">
 <!ENTITY consoleClear.label        "Vymazat">
+<!ENTITY consoleCopyAll.label      "Kopírovat">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Zdrojový soubor:">
 <!ENTITY consoleErrLine.label      "Řádek:">
 <!ENTITY consoleErrColumn.label    "Sloupec:">
+<!ENTITY consoleFollowCheckbox.label "Sledovat">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Vyjmout">
