@@ -52,10 +52,12 @@
 <!ENTITY consoleMessages.label "Skilaboð">
 <!ENTITY consoleCodeEval.label "Kóði:">
 <!ENTITY consoleClear.label "Hreinsa">
+<!ENTITY consoleCopyAll.label "Afrita">
 <!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Upprunarskrá:">
 <!ENTITY consoleErrLine.label "Lína:">
 <!ENTITY consoleErrColumn.label "Dálkur:">
+<!ENTITY consoleFollowCheckbox.label "Fylgja">
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label "Klippa">
 <!ENTITY contextTextCopy.label "Afrita">
@@ -123,12 +125,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 <!ENTITY firstRunBack.label "Smelltu til að fara til baka á fyrri síðu">
 <!ENTITY firstRunNewTab.label "Bættu við nýjum flipa til að skoða nýtt vefsvæði">

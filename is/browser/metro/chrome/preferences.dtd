@@ -25,6 +25,7 @@
 <!ENTITY clearPrivateData.offline "Ónettengd vefgögn">
 <!ENTITY clearPrivateData.logins "Virkar innskráningar">
 <!ENTITY optionsHeader.privacy.passwords.label "Muna lykilorð">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Sýna flakkhnappa">
 <!ENTITY doNotTrack.title "Ekki fylgjast með">
 <!ENTITY doNotTrack.options.doNotTrack "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
 <!ENTITY doNotTrack.options.doTrack "Segja vefsvæðum að ég vilji láta fylgjast með mér">

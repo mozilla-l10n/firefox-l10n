@@ -8,6 +8,8 @@
 <!ENTITY newevent.from.label "Frá">
 <!ENTITY newevent.to.label "Til">
 <!ENTITY newevent.attendees.notify.label "Tilkynna þátttakendum">
+<!ENTITY newevent.attendees.notifyundisclosed.label "Ekki gefa upp þátttakanda í fundarboðum">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Ef þetta er virtk, þá munu þátttakandur ekki geta séð hvorn annan í fundarboðum. Er bara fyrir fundarboð í tölvupósti.">
 <!ENTITY newevent.status.label "Staða">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Ekki skilgreint">
@@ -90,12 +92,6 @@
 <!ENTITY event.menu.options.accesskey "V">
 <!ENTITY event.menu.options.attendees.label "Bjóða þátttakendum…">
 <!ENTITY event.menu.options.attendees.accesskey "B">
-<!ENTITY event.menu.options.spellcheck.label "Yfirfara stafsetningu…">
-<!ENTITY event.menu.options.spellcheck.accesskey "Y">
-<!ENTITY event.menu.options.inline.spellcheck.label "Athuga stafsetningu í innslætti">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "s">
-<!ENTITY event.menu.options.link.label "Bæta við tengli…">
-<!ENTITY event.menu.options.link.accesskey "l">
 <!ENTITY event.menu.options.timezone2.label "Sýna Tímabbelti">
 <!ENTITY event.menu.options.timezone2.accesskey "b">
 <!ENTITY event.menu.options.priority2.label "Forgangur">
@@ -132,12 +128,10 @@
 <!ENTITY event.toolbar.save.label "Vista og loka">
 <!ENTITY event.toolbar.delete.label "Eyða">
 <!ENTITY event.toolbar.attendees.label "Bjóða þátttakendum">
-<!ENTITY event.toolbar.spellcheck.label "Skoða stafsetningu">
 <!ENTITY event.toolbar.privacy.label "Friðhelgi">
 <!ENTITY event.toolbar.save.tooltip "Vista og loka">
 <!ENTITY event.toolbar.delete.tooltip "Eyða">
 <!ENTITY event.toolbar.attendees.tooltip "Bjóða þátttakendum">
-<!ENTITY event.toolbar.spellcheck.tooltip "Skoða stafsetningu">
 <!ENTITY event.toolbar.attachments.tooltip "Bæta við viðhengjum">
 <!ENTITY event.toolbar.privacy.tooltip "Breyta friðhelgi">
 <!ENTITY event.toolbar.priority.tooltip "Breyta forgangi">
@@ -151,7 +145,6 @@
 <!ENTITY event.categories.label "Flokkur:">
 <!ENTITY event.categories.accesskey "F">
 <!ENTITY event.categories.textbox.label "Bæta við nýjum flokki">
-<!ENTITY event.categories.textbox.accesskey "a">
 <!ENTITY event.calendar.label "Dagatal:">
 <!ENTITY event.calendar.accesskey "D">
 <!ENTITY event.attendees.label "Þátttakendur:">
@@ -332,7 +325,7 @@
 <!ENTITY read.only.event.start.label "Byrjunardagsetning:">
 <!ENTITY read.only.task.start.label "Byrjunardagsetning:">
 <!ENTITY read.only.event.end.label "Lokadagsetning:">
-<!ENTITY read.only.task.due.label "Endadagsetning:">
+<!ENTITY read.only.task.due.label "Framkvæmist fyrir:">
 <!ENTITY read.only.repeat.label "Endurtaka:">
 <!ENTITY read.only.location.label "Staðsetning:">
 <!ENTITY read.only.category.label "Flokkur:">
@@ -345,5 +338,4 @@
 <!ENTITY read.only.reminder.label "Áminning:">
 <!ENTITY read.only.attendees.label "Þátttakendur">
 <!ENTITY read.only.description.label "Lýsing">
-<!ENTITY read.only.documents.label "Skjöl">
 <!ENTITY read.only.link.label "Tengdur hlekkur">

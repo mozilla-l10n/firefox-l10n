@@ -9,8 +9,9 @@
 <!ENTITY location1.accesskey "S">
 <!ENTITY useDefault.label "Endurheimta sjálfgildi">
 <!ENTITY useDefault.accesskey "E">
-<!ENTITY bounceSystemDockIcon.label "Nota hreyfimynd í tilkynningasvæði">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY changeDockIconOptions.label "Breyta stillingum fyrir app icon">
+<!ENTITY dockOptions.label "App Icon valkostir…">
+<!ENTITY dockOptions.accesskey "n">
 <!ENTITY newMessagesArrive.label "Þegar nýr póstur er móttekin:">
 <!ENTITY playSound.label "Spila hljóð">
 <!ENTITY playSound1.accesskey "h">

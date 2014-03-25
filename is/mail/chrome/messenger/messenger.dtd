@@ -853,3 +853,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Sýna allt">
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label "App Icon valkostir…">
