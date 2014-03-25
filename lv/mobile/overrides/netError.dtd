@@ -26,6 +26,14 @@
 </ul>
 ">
 
+<!ENTITY unknownProtocolFound.title "Nepazīstama adrese">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Iespējams jāuzinstalē kāda programma, lai atvērtu šo adresi.</li>
+</ul>
+">
+
+
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -82,13 +90,6 @@
 
 <!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
-
-<!ENTITY protocolNotFound.title "Adrese netika saprasta">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>Iespējams, jums jāinstalē kāda papildu programma, lai apstrādātu šī tipa adreses.</li>
-</ul>
-">
 
 <!ENTITY proxyConnectFailure.title "Starpniekserveris nepieņem savienojumus">
 <!ENTITY proxyConnectFailure.longDesc "

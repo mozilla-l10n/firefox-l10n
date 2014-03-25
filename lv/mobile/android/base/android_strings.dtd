@@ -79,7 +79,8 @@
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
-<!ENTITY pref_search_tip "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka.">
+<!ENTITY pref_search_hint "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka un tad piespiežot &formatI; iconu.">
+
 <!ENTITY pref_category_devtools "Izstrādātāju rīki">
 <!ENTITY pref_developer_remotedebugging "Attālinātā atkļūdošana">
 <!ENTITY pref_developer_remotedebugging_docs "Uzzināt vairāk">
@@ -87,6 +88,18 @@
 
 <!ENTITY pref_category_home "Sākums">
 <!ENTITY pref_category_home_panels "Paneļi">
+<!ENTITY pref_category_home_content_settings "Satura iestatījumi">
+<!ENTITY pref_category_home_summary "Sākumlapas pielāgojumi">
+<!ENTITY pref_home_add_panel "Pievienot paneli">
+<!ENTITY home_add_panel_title "Pievienot jaunu paneli">
+<!ENTITY home_add_panel_empty "Atvainojiet, mums neizdevās atrast nevienu paneli, ko pievienot.">
+<!ENTITY home_add_panel_installed "\'&formatS;\' pievienot sākumlapai">
+<!ENTITY home_default_empty "Šim panelim neizdevās atrast saturu.">
+<!ENTITY pref_home_updates "Automātiskie atjauninājumi">
+<!ENTITY pref_home_updates_enabled "Aktivēti">
+<!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
+<!ENTITY reading_list_add "Pievienot lasīšanas sarakstam">
+<!ENTITY save "Saglabāt">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Pielāgošana">
@@ -186,8 +199,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Avārijas ziņojums">
-<!ENTITY datareporting_wifi_title "&vendorShortName; atrašanās vietas serviss">
-<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumus atvērtajam tīmeklim, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē sastopamajiem mobilo sakaru torņiem">
+<!ENTITY datareporting_wifi_title "&vendorShortName; atrašanās vietas">
+<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumus atvērtajam tīmeklim, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē redzamajiem mobilo sakaru torņiem">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -209,8 +222,9 @@ size. -->
 <!ENTITY share_image_failed "Neizdevās dalīties ar šo attēlu">
 <!ENTITY save_as_pdf "Saglabāt kā PDF">
 <!ENTITY find_in_page "Meklēt lapā">
-<!ENTITY desktop_mode "Pāriet uz lapas pilno versiju">
+<!ENTITY desktop_mode "Izmantot lapu pilnās versijas">
 <!ENTITY tools "Rīki">
+<!ENTITY page "Lapa">
 <!ENTITY new_tab "Jauna cilne">
 <!ENTITY new_private_tab "Jauna privātā cilne">
 <!ENTITY close_all_tabs "Aizvērt visas cilnes">
@@ -254,6 +268,7 @@ size. -->
 <!ENTITY pref_titlebar_mode "Virsraksta josla">
 <!ENTITY pref_titlebar_mode_title "Rādīt lapas virsrakstu">
 <!ENTITY pref_titlebar_mode_url "Rādīt lapas adresi">
+<!ENTITY pref_category_search_summary "Pielāgot meklētājus">
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -301,21 +316,17 @@ size. -->
 <!ENTITY home_top_sites_add "Pievienot lapu">
 
 <!ENTITY home_history_title "Vēsture">
-<!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes pārādās te.">
+<!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
 <!ENTITY home_last_tabs_title "Cilnes no iepriekšējās reizes">
 <!ENTITY home_last_tabs_open "Atvērt visas cilnes no iepriekšējās reizes">
-<!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes pārādās te.">
+<!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes parādās te.">
 <!ENTITY home_most_recent_title "Nesenās">
-<!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes pārādās te.">
-<!ENTITY home_reading_list_empty "Vēlākai lasīšanai saglabātie raksti pārādās te.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &#37;I ikonu, kad tā parādās virsraksta joslā.">
+<!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes parādās te.">
+<!ENTITY home_reading_list_empty "Vēlākai lasīšanai saglabātie raksti parādās te.">
+<!ENTITY home_reading_list_hint_accessible "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot lasītāja ikonu, kad tā parādās virsraksta joslā.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot lasīšanas režīma pogu, kad tā parādās virsraksta joslā.">
+<!ENTITY home_reading_list_hint2 "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &formatI; pogu, kad tā parādās virsraksta joslā.">
 
 <!ENTITY pin_site_dialog_hint "Ievadiet meklējamo frāzi">
 
@@ -360,9 +371,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          no Android">
 <!ENTITY bookmarkhistory_import_wait "Lūdzu, uzgaidiet...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Vai vēlaties ieslēgt &formatS; meklēšanas ieteikumus?">
+<!ENTITY suggestions_prompt3 "Vai vēlaties ieslēgt meklēšanas ieteikumus?">
+
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
