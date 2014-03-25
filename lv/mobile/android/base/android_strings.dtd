@@ -11,6 +11,9 @@
 <!ENTITY  bookmarks_title "Grāmatzīmes">
 <!ENTITY  history_title "Vēsture">
 <!ENTITY  reading_list_title "Lasīšanas saraksts">
+<!ENTITY pref_search_tip "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka.">
+<!ENTITY datareporting_wifi_title "&vendorShortName; atrašanās vietas serviss">
+<!ENTITY datareporting_wifi_summary "Palīdziet uzlabot ģeolokācijas pakalpojumus atvērtajam tīmeklim, ļaujot &brandShortName; vākt anonīmus datus par apkārtnē sastopamajiem mobilo sakaru torņiem">
 
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
 

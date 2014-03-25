@@ -42,6 +42,13 @@
 </ul>
 ">
 
+<!ENTITY protocolNotFound.title "Adrese netika saprasta">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Iespējams, jums jāinstalē kāda papildu programma, lai apstrādātu šī tipa adreses.</li>
+</ul>
+">
+
 
 <!ENTITY generic.title "Ak vai!">
 <!ENTITY generic.longDesc "

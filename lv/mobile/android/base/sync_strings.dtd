@@ -213,3 +213,14 @@
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Pieskarieties te, lai ierakstītos kā &formatS;'>
+
+
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox kontu atzīmes rūtiņas grafika'>
+<!ENTITY fxaccount_icon_contentDescription2 'Firefox kontu ikona'>
+<!ENTITY fxaccount_intro_contentDescription2 'Firefox kontu ievada grafika'>
+<!ENTITY fxaccount_mail_contentDescription2 'Firefox kontu aploksnes grafika'>
+<!ENTITY fxaccount_create_account_header 'Izveidot Firefox kontu'>
+<!ENTITY fxaccount_create_account_policy_text 'Turpinot, es piekrītu Firefox pakalpojumu &formatS1; un &formatS2;.'>
+<!ENTITY fxaccount_status_header 'Firefox konts'>
