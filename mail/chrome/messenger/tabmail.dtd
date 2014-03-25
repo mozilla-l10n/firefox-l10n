@@ -4,3 +4,6 @@
 
 <!ENTITY closeTab.label "Zavřít panel">
 <!ENTITY listAllTabs.label "Seznam všech panelů">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Panel">

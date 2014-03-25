@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label "Do">
 <!ENTITY newevent.attendees.notify.label "Upozornit účastníky">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "V pozvánkách ponechat účastníky utajené">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Pokud je povoleno, nebudou se účastníci v pozvánkách vzájemně vidět. Platí pouze pro e-mailové pozvánky.">
+
 <!ENTITY newevent.status.label "Stav">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Neurčeno">
@@ -99,12 +102,6 @@
 <!ENTITY event.menu.options.accesskey "M">
 <!ENTITY event.menu.options.attendees.label "Pozvat účastníky…">
 <!ENTITY event.menu.options.attendees.accesskey "P">
-<!ENTITY event.menu.options.spellcheck.label "Kontrola pravopisu…">
-<!ENTITY event.menu.options.spellcheck.accesskey "K">
-<!ENTITY event.menu.options.inline.spellcheck.label "Automatická kontrola pravopisu">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "A">
-<!ENTITY event.menu.options.link.label "Přidat odkaz…">
-<!ENTITY event.menu.options.link.accesskey "P">
 <!ENTITY event.menu.options.timezone2.label "Zobrazit časové zóny">
 <!ENTITY event.menu.options.timezone2.accesskey "Z">
 <!ENTITY event.menu.options.priority2.label "Priorita">
@@ -143,13 +140,11 @@
 <!ENTITY event.toolbar.save.label "Uložit a zavřít">
 <!ENTITY event.toolbar.delete.label "Smazat">
 <!ENTITY event.toolbar.attendees.label "Pozvat účastníky">
-<!ENTITY event.toolbar.spellcheck.label "Kontrola pravopisu">
 <!ENTITY event.toolbar.privacy.label "Soukromí">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Uloží a zavře">
 <!ENTITY  event.toolbar.delete.tooltip                    "Smaže">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozve účastníky">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Zkontroluje pravopis">
 <!ENTITY  event.toolbar.attachments.tooltip               "Přidá přílohy">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Změní soukromí">
 <!ENTITY  event.toolbar.priority.tooltip                  "Změní prioritu">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label "Kategorie:">
 <!ENTITY event.categories.accesskey "t">
 <!ENTITY event.categories.textbox.label                   "Přidat novou kategorii" >
-<!ENTITY event.categories.textbox.accesskey               "P">
 <!ENTITY event.calendar.label "Kalendář:">
 <!ENTITY event.calendar.accesskey "l">
 <!ENTITY event.attendees.label "Účastníci:">
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label "Připomenutí:">
 <!ENTITY read.only.attendees.label "Účastníci">
 <!ENTITY read.only.description.label "Popis">
-<!ENTITY read.only.documents.label "Dokumenty">
 <!ENTITY read.only.link.label "Související odkaz">
