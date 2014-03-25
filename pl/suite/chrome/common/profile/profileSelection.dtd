@@ -17,3 +17,7 @@
 <!ENTITY introStart.label "Wszystkie ustawienia własne, zakładki, zachowana poczta oraz inne dane użytkownika przechowywane są w profilach osobistych. Wybierz swój profil z listy, a następnie naciśnij przycisk &start.label;.">
 <!ENTITY introSwitch.label "Aby zmienić profil, w którym przechowywane są ustawienia własne, zakładki, zachowana poczta oraz inne dane użytkownika, należy wybrać nazwę profilu, a następnie nacisnąć przycisk &select.label;.">
 <!ENTITY profileManagerText.label "Program &brandShortName; wykorzystuje profile użytkowników do przechowywania ustawień, zakładek, zachowanych wiadomości, książek adresowych oraz innych osobistych danych użytkowników.">
+
+<!ENTITY autoSelect.label "Domyślnie (bez pytania) używaj zaznaczonego profilu przy uruchamianiu">
+<!ENTITY autoSelect.accesskey "D">
+
