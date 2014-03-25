@@ -415,3 +415,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Izvēlne">
 <!ENTITY actionbar_done "Darīts">
+<!ENTITY home_reading_list_hint "Padoms: Saglabājiet rakstus vēlākai lasīšanai, ilgāk piespiežot &#37;I ikonu, kad tā parādās virsraksta joslā.">
+<!ENTITY suggestions_prompt2 "Vai vēlaties ieslēgt &formatS; meklēšanas ieteikumus?">
