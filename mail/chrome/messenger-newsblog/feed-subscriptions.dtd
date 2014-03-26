@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Exportar canales con estructura de carpetas; ctrl clic o ctrl intro para exportar canales como una lista">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Cerrar">
