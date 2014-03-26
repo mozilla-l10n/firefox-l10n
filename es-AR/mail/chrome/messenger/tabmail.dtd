@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Cerrar pestaña">
 <!ENTITY  listAllTabs.label        "Listar todas las pestañas">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Inicio">
