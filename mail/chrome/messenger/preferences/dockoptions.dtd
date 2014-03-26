@@ -11,5 +11,5 @@
 <!ENTITY newMessagesCountDock.accesskey        "P">
 <!ENTITY showAllUnreadMessagesCount.label      "Počet neprečítaných správ">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "n">
-<!ENTITY dockIconBadge.label                   "Ikona notifikácie">
-<!ENTITY dockIconShow.label                    "Šírka ikony notifikácie:">
+<!ENTITY dockIconBadge.label                   "Notifikácie na ikone aplikácie">
+<!ENTITY dockIconShow.label                    "Na ikonu aplikácie pridať nasledovnú notifikáciu:">
