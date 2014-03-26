@@ -37,6 +37,7 @@
 <!ENTITY btnPageSecurity.tooltip "Registra errori e avvisi di sicurezza">
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY btnPageLogging.label "Registrazione">
+<!ENTITY btnConsoleReflows "Reflow">
 <!ENTITY btnPageLogging.tooltip "Registra i messaggi inviati all’oggetto window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors "Errori">
