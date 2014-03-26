@@ -1,5 +1,17 @@
 <!ENTITY aboutDialog.title          "A &brandFullName; névjegye">
 
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
+<!ENTITY update.checkForUpdatesButton.accesskey   "update.checkForUpdatesButton.accesskey_F">
+<!ENTITY update.updateButton.label                "Újraindítás a frissítéshez">
+<!ENTITY update.updateButton.accesskey            "update.updateButton.accesskey_r">
+<!ENTITY update.applyButtonBillboard.label        "Frissítés alkalmazása…">
+<!ENTITY update.applyButtonBillboard.accesskey    "update.applyButtonBillboard.accesskey_a">
+
 <!ENTITY community.start2           "A &brandShortName;ot a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
@@ -24,8 +36,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Frissítések keresése…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Kiegészítő kompatibilitásának ellenőrzése…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "A &brandShortName; naprakész">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
