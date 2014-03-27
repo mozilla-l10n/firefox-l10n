@@ -134,6 +134,9 @@
 <!ENTITY pref_search_last_toast "Non è possibile rimuovere o disattivare l’ultimo motore di ricerca.">
 <!ENTITY pref_panels_show "Visualizza">
 <!ENTITY pref_panels_hide "Nascondi">
+<!ENTITY pref_panels_reorder "Modifica ordine">
+<!ENTITY pref_panels_move_up "Sposta in alto">
+<!ENTITY pref_panels_move_down "Sposta in basso">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
