@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Dejar una página que soporta cifrado">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "Ver una página con una mezcla de cifrado/sin cifrar">
-<!ENTITY warn.viewmixed.accesskey           "V">
 
+<!ENTITY mixed.description                  "Las páginas cifradas pueden tener contenido sin cifrar que es vulnerable al espionaje o la falsificación. &brandShortName; puede detectarlo y bloquearlo:">
 <!ENTITY warn.mixedactivecontent            "Advertirme cuando páginas web cifradas contengan contenido inseguro">
 <!ENTITY warn.mixedactivecontent.accesskey  "w">
 <!ENTITY block.activecontent                "No cargar contenido inseguro en páginas cifradas">
