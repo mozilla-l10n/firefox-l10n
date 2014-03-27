@@ -17,7 +17,7 @@
 <!ENTITY  blockAttackSites.accesskey "k">
 
 <!ENTITY  blockWebForgeries.label     "Bloķēt krāpnieku lapu">
-<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockWebForgeries.accesskey "l">
 
 <!ENTITY addonExceptions.label "Izņēmumi...">
 <!ENTITY addonExceptions.accesskey "I">
@@ -31,9 +31,9 @@
 <!ENTITY passwordExceptions.accesskey "z">
 
 <!ENTITY useMasterPassword.label "Izmantot galveno paroli">
-<!ENTITY useMasterPassword.accesskey "I">
+<!ENTITY useMasterPassword.accesskey "z">
 <!ENTITY changeMasterPassword.label "Nomainīt galveno paroli...">
 <!ENTITY changeMasterPassword.accesskey "M">
 
 <!ENTITY savedPasswords.label "Saglabātās paroles...">
-<!ENTITY savedPasswords.accesskey "P">
+<!ENTITY savedPasswords.accesskey "g">

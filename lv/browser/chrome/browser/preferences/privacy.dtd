@@ -33,10 +33,10 @@
 
 
 <!ENTITY acceptCookies.label "Pieņemt sīkdatnes no lapām">
-<!ENTITY acceptCookies.accesskey "i">
+<!ENTITY acceptCookies.accesskey "l">
 
 <!ENTITY  acceptThirdParty.pre.label      "Pieņemt trešo pušu sīkdatnes:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "s">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Vienmēr">
 <!ENTITY  acceptThirdParty.never.label    "Nekad">
 <!ENTITY  acceptThirdParty.visited.label  "Tikai no lapām, kuras esmu apmeklējis">
@@ -70,7 +70,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vienmēr izmantot privātās pārlūkošanas režīmu">
-<!ENTITY  privateBrowsingPermanent2.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.accesskey "v">
 
 <!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
 <!ENTITY  locbar.pre.accessKey          "A">
