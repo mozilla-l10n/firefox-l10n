@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Od" >
 <!ENTITY newevent.to.label                  "Do" >
-<!ENTITY newevent.attendees.notify.label    "Upozorniť účastníkov">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "V pozvánkach ponechať účastníkov utajených">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Ak je povolené, účastníci sa v pozvánkach vzájomne nebudú vidieť. Platí len pre e-mailové pozvánky">
 
 <!ENTITY newevent.status.label                    "Stav" >
 <!ENTITY newevent.status.accesskey                "S" >
