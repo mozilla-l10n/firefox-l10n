@@ -14,7 +14,7 @@
 <!ENTITY calendar.soon.button.label "Bráðlega">
 <!ENTITY calendar.events.filter.all.label "Allir atburðir">
 <!ENTITY calendar.events.filter.today.label "Atburðir dagsins">
-<!ENTITY calendar.events.filter.future.label "Framtíðaratburðir">
+<!ENTITY calendar.events.filter.future.label "Atburðir í framtíðinni">
 <!ENTITY calendar.events.filter.current.label "Núverandi valinn dagur">
 <!ENTITY calendar.events.filter.currentview.label "Atburðir í núverandi sýn">
 <!ENTITY calendar.events.filter.next7Days.label "Atburðir næstu 7 daga">
