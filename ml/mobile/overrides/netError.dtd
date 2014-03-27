@@ -17,14 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "സെര്‍വര്‍ കണ്ടെത്താനായില്ല">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -51,25 +44,12 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName; -ന്റെ ക്യാഷില്‍ ആവശ്യപ്പെട്ട രേഖ ലഭ്യമല്ല.</p><ul><li>സുരക്ഷ എന്ന നിലയില്‍, സെന്‍സിറ്റീവ് രേഖകള്‍ക്കായി &brandShortName; ഓട്ടോമാറ്റിക്കായി വീണ്ടും ആവശ്യപ്പെടുന്നില്ല.</li><li>വെബ്സൈറ്റില്‍ നിന്നും രേഖ വീണ്ടും ആവശ്യപ്പെടുന്നതിനായി വീണ്ടും ശ്രമിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</li></ul>">
 
 <!ENTITY netOffline.title "ഓഫ്‌ലൈന്‍ മോഡ്‌">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
+
 
 <!ENTITY unsafeContentType.title "സുരക്ഷിതമല്ലാത്ത തരത്തിലുള്ള ഫയല്‍">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY netReset.title "കണക്ഷന്‍ റീസെറ്റ്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു ">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -77,21 +57,13 @@
 <!ENTITY netTimeout.title "കണക്ഷന്റെ സമയം കഴിഞ്ഞിരിക്കുന്നു">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "വിലാസം മനസ്സിലാക്കുവാന്‍ സാധിച്ചില്ല">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>ഈ വിലാസം തുറക്കുവാനായി മറ്റ്‌ സോഫ്റ്റ്‌വെയറുകള്‍ ഇന്‍‌സ്റ്റോള്‍ ചെയ്യേണ്ടതായി വന്നേക്കാം </li> 
-</ul>">
+
 
 <!ENTITY proxyConnectFailure.title "പ്രോക്സി സെര്‍വര്‍ കണക്ഷനുകള്‍ നിഷേധിക്കുന്നു">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>പ്രോക്സി സെറ്റിങ്ങുകള്‍ ശരിയാണ്‌ എന്ന് ഉറപ്പുവരുത്തുക.</li><li> പ്രോക്സി സെര്‍വര്‍ പ്രവര്‍ത്തിക്കുന്നുവെന്ന് ഉറപ്പ്‌ വരുത്തുവാനായി നെറ്റ്‌വര്‍ക്‌ ഉപ്ദേഷ്ടാവുമായി ബന്ധപ്പെടുക</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "പ്രോക്സി സെര്‍വര്‍ കണ്ടെത്താനായില്ല ">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+
 
 <!ENTITY redirectLoop.title "ഈ താള്‍ ശരിയായി റീഡയറക്ട്‌ ചെയുന്നില്ല ">
 <!ENTITY redirectLoop.longDesc "<ul><li>ഈ പ്രശ്നം ചിലപ്പോള്‍ കുക്കികള്‍ നിഷേധിക്കുന്നതു കൊണ്ടോ, കുക്കികള്‍ നിര്‍വീര്യമാക്കുന്നതു കൊണ്ടോ സംഭവിക്കുന്നതാവാം</li></ul>">
@@ -103,30 +75,20 @@
 <li> എത്‌ ചിലപ്പോള്‍ സെര്‍വറിന്റെ നിലവാരമില്ലാത്ത ക്രമീകരണം മൂലമാകാം.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>നിങ്ങള്‍ കാണുവാന്‍ ശ്രമിക്കുന്ന താളിന്റെ ആധികാരികത ഉറപ്പല്ലാത്തതിനാല്‍ നിങ്ങള്‍ക്കു് അതു് കാണുവാന്‍ സാധ്യമല്ല.</li> 
 <li>ദയവായി വെബ്സൈറ്റ് ഉടമസ്ഥരെ ഈ പ്രശ്നം അറിയിക്കുക. കൂടാതെ, സഹായത്തിനുള്ള മെനുവിലുള്ള കമാന്‍ഡ് ഉപയോഗിച്ചു് ഈ സൈറ്റിനെപ്പറ്റി റിപോര്‍ട്ട് രേഖപ്പെടുത്തുക.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>സര്‍വറിന്റെ ക്രമീകരണത്തിലുള്ള പിശക് അല്ലെങ്കില്‍ ആരെങ്കിലും സര്‍വറിലേക്കു് അനധികൃതമായി കടക്കുവാന്‍ ശ്രമിക്കുന്നതാവും കാരണം.</li> 
 <li>നിങ്ങള്‍ക്കു് ഇതിനു് മുമ്പു് ഈ സര്‍വറിലേക്കു് കണക്ട് ചെയ്യുവാന്‍ സാധിച്ചു എങ്കില്‍, ഇതു് വെറും ഒരു താല്‍ക്കാലിക പ്രശ്നം മാത്രം ആവാം, അതുകൊണ്ടു് ദയവായി പിന്നീടു് ശ്രമിക്കുക.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>ഈ താളിന്റെ ഉള്ളടക്ക സുരക്ഷാ പോളിസി ഈ തരത്തില്‍ താള്‍ ലഭ്യമാക്കുന്നതു് അനുവദിയ്ക്കുന്നതല്ല, അതിനാല്‍ &brandShortName; ഇതു് തടയുന്നു.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "അല്ലെങ്കില്‍ നിങ്ങള്‍ക്കു് ഒരു എക്സെപ്ഷന്‍ ചേര്‍ക്കാം…">
 <!ENTITY securityOverride.getMeOutOfHereButton "പുറത്തു് കടക്കുവാന്‍ സഹായിക്കുക!">
