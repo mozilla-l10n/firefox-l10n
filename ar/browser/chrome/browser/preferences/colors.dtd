@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "س">
 
 <!ENTITY  color                           "النّصّ و الخلفيّة">
-<!ENTITY  textColor.label                 "النّص:">
-<!ENTITY  textColor.accesskey             "ن">
+
+
 <!ENTITY  backgroundColor.label           "الخلفية:">
 <!ENTITY  backgroundColor.accesskey       "خ">
 <!ENTITY  useSystemColors.label           "استخدم ألوان النظام">

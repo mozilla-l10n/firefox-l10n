@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "الرسائل">
 <!ENTITY consoleCodeEval.label     "الكود:">
 <!ENTITY consoleClear.label        "امسح">
+
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "الملفّ المصدر:">
 <!ENTITY consoleErrLine.label      "سطر:">
 <!ENTITY consoleErrColumn.label    "عمود:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "قصّ">
-<!ENTITY contextTextCopy.label             "انسخ">
+
 <!ENTITY contextTextPaste.label            "ألصق">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "ألصق و اذهب">
 <!ENTITY contextTextSelect.label           "اختر">
 <!ENTITY contextTextSelectAll.label        "اختر الكل">
 <!-- LINK CONTEXT MENU -->
@@ -135,12 +136,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "انقر للعودة إلى الصفحة السابقة">

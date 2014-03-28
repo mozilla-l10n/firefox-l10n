@@ -9,7 +9,6 @@
 <!ENTITY  popupExceptions.label       "الاستثناءات…">
 <!ENTITY  popupExceptions.accesskey   "ت">
 
-<!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
 
 <!ENTITY  defaultFont.label           "الخط المبدئي:">
 <!ENTITY  defaultFont.accesskey       "ط">

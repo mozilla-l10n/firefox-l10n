@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "إعداد الصّفحة">
 
-<!ENTITY basic.tab           "التنسيق و الخصائص">
 
 <!ENTITY formatGroup.label   "التنسيق">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "الخيارات">
 
-<!ENTITY printBG.label       "اطبع الخلفيّة (الألوان و الصّور)">
-<!ENTITY printBG.accesskey   "خ">
 
-<!ENTITY advanced.tab        "الهوامش و التّرويسة/التّذييل">
+
 
 <!ENTITY marginGroup.label   "الهوامش (#1)">
 <!ENTITY marginUnits.inches  "بوصة">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "يمين:">
 <!ENTITY marginRight.accesskey "ي">
 
-<!ENTITY headerFooter.label  "التّرويسة و التّذييل">
 
 <!ENTITY hfLeft.label        "يسار:">
 <!ENTITY hfCenter.label      "وسط:">
