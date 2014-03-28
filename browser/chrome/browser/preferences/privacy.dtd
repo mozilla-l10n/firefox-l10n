@@ -25,7 +25,7 @@
 <!ENTITY dntTrackingNotOkay.label2       "Teikt lapām, ka nevēlos, lai mani uzskaita">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2          "Teikt lapām, lai uzskaita mani">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingOkay.accesskey      "m">
 <!ENTITY doNotTrackInfo.label           "Uzzināt vairāk">
 
 <!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
