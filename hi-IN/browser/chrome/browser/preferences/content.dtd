@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "अपवाद... (E)">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "फ़ॉन्ट व रंग">
 
 <!ENTITY  defaultFont.label           "तयशुदा फ़ॉन्ट: (D)">
 <!ENTITY  defaultFont.accesskey       "D">

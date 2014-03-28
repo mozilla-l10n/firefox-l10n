@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "पाठ व पृष्ठभूमि">
-<!ENTITY  textColor.label                 "पाठ: (T)">
-<!ENTITY  textColor.accesskey             "T">
+
+
 <!ENTITY  backgroundColor.label           "पृष्ठभूमि: (B)">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "सिस्टम रंग का प्रयोग करें (s)">
