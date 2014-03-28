@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Utilizam los rapòrts de fracàs per ensajar de resòlvre los problèmas e melhorar nòstres logicials. Utilizam vòstras informacions conformadament a la ">
 <!ENTITY crashprompt.privacyPolicyLink "politica de confidencialitat de &brandShortName;">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Inclure l'URL de la pagina ont vos trobavatz">
 <!ENTITY crashprompt.acceptbutton    "Mandadís del rapòrt">
 <!ENTITY crashprompt.refusebutton    "Mandar pas">

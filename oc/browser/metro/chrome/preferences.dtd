@@ -21,13 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Escondedor">
 <!ENTITY clearPrivateData.sitePref                               "Preferéncias del site">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Istoric dels formularis e de las recèrcas">
 <!ENTITY clearPrivateData.passwords                              "Senhals enregistrats">
 <!ENTITY clearPrivateData.offline                                "Donadas de site web fòra connexion">
 <!ENTITY clearPrivateData.logins                                 "Connexions activas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Se remembrar dels senhals">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Botons de navigacion">
 <!ENTITY doNotTrack.title                                        "Me pistar pas">
 <!ENTITY doNotTrack.options.doNotTrack                           "Indicar als sites Web de que vòli pas èsser pistat">
 <!ENTITY doNotTrack.options.doTrack                              "Indicar als sites Web que vòli pas èsser pistat">

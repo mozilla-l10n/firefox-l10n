@@ -13,9 +13,9 @@ quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de question
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Identificant del rapòrt">
-
+<!ENTITY aboutSupport.crashes.sendDate "Data de mandadís">
 <!ENTITY aboutSupport.crashes.allReports "Rapòrts de plantatge">
-
+<!ENTITY aboutSupport.crashes.noConfig "Aquesta aplicacion es pas estada configurada per afichar los rapòrts de plantatge.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensions">
 <!ENTITY aboutSupport.extensionName "Nom">
