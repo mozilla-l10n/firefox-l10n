@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "ဝတ်စာမျက်နှာအပြင်အဆင်">
 
-<!ENTITY basic.tab           "အမျိုးအစား &amp; ရွေးစရာများ">
+<!ENTITY basic.tab           "အမျိုးအစားများ နှင့် ရွေးစရာများ">
 
 <!ENTITY formatGroup.label   "အမျိုးအစား">
 
@@ -25,10 +25,10 @@
 
 <!ENTITY optionsGroup.label  "ရွေးစရာများ">
 
-<!ENTITY printBG.label       "ပုံနှိုပ်ချက် နောက်ခံ (အရောင်များ &amp; ရုပ်ပုံများ)">
+<!ENTITY printBG.label       "ပုံနှိုပ်ချက် Bနောက်ခံ (အရောင်များ နှင့် ရုပ်ပုံများ)">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "ဘေးမျဉ်းများ &amp; ခေါင်းစည်းမှတ်ချက်/အောက်ခြေမှတ်ချက်">
+<!ENTITY advanced.tab        "ဘေးမျဉ်းများ နှင့် ခေါင်းစည်းမှတ်ချက်/အောက်ခြေမှတ်ချက်">
 
 <!ENTITY marginGroup.label   "မာဂျင် (#1)">
 <!ENTITY marginUnits.inches  "လက်မများ">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "ညာဘက် -">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "ခေါင်းစီး​​​​​​​​​​​​စာတန်းများ &amp; အောက်ခြေစာတမ်းများ">
+<!ENTITY headerFooter.label  "ခေါင်းစီး​​​​​​​​​​​​စာတန်းများ နှင့် အောက်ခြေစာတမ်းများ">
 
 <!ENTITY hfLeft.label        "ဘယ်ဘက် -">
 <!ENTITY hfCenter.label      "အလယ်ဗဟို -">

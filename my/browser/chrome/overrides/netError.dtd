@@ -72,8 +72,8 @@ that &brandShortName; is permitted to access the Web.</li>
 <!ENTITY netTimeout.title "ချိတ်ဆက်မှု အချိန်ကုန်သွားတယ်။">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "အမည်မသိ နည်းလမ်း">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "အမည်မသိ နည်းလမ်း">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>You might need to install other software to open this address.</li> 
 </ul>">
 

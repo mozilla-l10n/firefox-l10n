@@ -31,8 +31,9 @@
 
 
 
-<!ENTITY optionsHeader.reporting.title                           "ပျက်ဆီးချက်တင်ပြသူ">
 
+<!ENTITY optionsHeader.reporting.title                           "ပျက်ဆီးချက်တင်ပြသူ">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; သည် ပျက်ဆီးခြင်း မှတ်တမ်းများအား မိုဇီလာ​သို့ပေးပို့ခြင်းအားဖြင့် သင့် ဘယောက်ဆာ အား ပိုကောင်းအောင်လုပ်ပေးသည်။">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "ကျွန်ုပ်ရောက်နေခဲ့သောစာမျက်နှာလိပ်စာပါထည့်ပေးလိုက်မည်။">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 

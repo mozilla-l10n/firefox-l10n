@@ -76,7 +76,7 @@
 <!ENTITY  securityView.identity.domain   "၀တ်ဆိုက်၊">
 <!ENTITY  securityView.identity.verifier "ဤအဖွဲ့အစည်းဖြင့်စီစစ်ထားသည်၊">
 
-<!ENTITY  securityView.privacy.header                   "ပရိုက်ဗစ်ဆီ&amp;မှတ်ဉာဏ်သိုမှီးရာ">
+<!ENTITY  securityView.privacy.header                   "လုံခြုံမှူ နှင့် မှတ်တမ်းများ">
 <!ENTITY  securityView.privacy.history                  "ဒီနေ့ရှေ့ပိုင်းတွင်ဒီ၀တ်ဆိုက်အားအလည်သွားဘူးပါသလား?">
 <!ENTITY  securityView.privacy.cookies                  "ယခု၀တ်ဆိုက်သည်မိမိကွန်ပျူတာတွင် သတင်း(ကွတ်ကီးများ)များသိမ်းဆည်းပါသလား?">
 <!ENTITY  securityView.privacy.viewCookies              "ကွတ်ကီးများအားကြည့်မည်">

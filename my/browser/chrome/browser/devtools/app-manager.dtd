@@ -45,6 +45,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.connecting "ချက်ဆက်နေသည်">
 
 <!ENTITY connection.cancel "ပယ်​ဖျက်ပါ">
@@ -83,6 +87,8 @@
 
 
 
+
+<!ENTITY help.close "ပိတ်ပါ ">
 
 
 

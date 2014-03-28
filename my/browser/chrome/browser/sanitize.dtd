@@ -32,10 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "မှတ်တမ်း">
 <!ENTITY dataSection.label            "အချက်အလက်ကြမ်း">
 
-<!ENTITY itemHistoryAndDownloads.label     "Bလှော်လှန်ခြင်းနဲ့&amp;ဆွဲချ မှတ်တမ်း">
+<!ENTITY itemHistoryAndDownloads.label     "B​ အင်တာနက်ရှာဖွေသုံးဆွဲခြင်း နှင့် ဒေါင်းလုဒ်ရယူခြင်းမှတ်တမ်း">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "Fဖြည့်စွတ်ပုံစံနဲ့ ရှာဖွေရေး မှတ်တမ်း">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+
+
 <!ENTITY itemPasswords.label               "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY itemPasswords.accesskey           "စ">
 <!ENTITY itemCookies.label                 "Cကွတ်ကီးများ">

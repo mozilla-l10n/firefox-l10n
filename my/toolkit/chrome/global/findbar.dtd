@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "A အားလုံးကို ဟိုက်လိုက် လုပ်ပါ">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "စကားစုရဲ့ ​ဖြစ်ပွားမှုအားလုံးကို မျဉ်းသားပါ">
-<!ENTITY caseSensitive.label "C တူသော စာစုများ">
-<!ENTITY caseSensitive.accesskey "C">
+<!ENTITY caseSensitive.label "cစာလုံး တိုက်ဆိုင်ပါ">
+<!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "တင်းကြပ်သော ကေစ့်ဖြင့် ရှာပါ">

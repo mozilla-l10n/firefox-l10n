@@ -20,7 +20,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "အမည်">
 <!ENTITY aboutSupport.extensionEnabled "ဖွင့်ထားတယ်">
 <!ENTITY aboutSupport.extensionVersion "မူအဆင့်">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "ဖေါ်ပြချက်">
+<!ENTITY aboutSupport.experimentActive "ဖွင့်ထားပါ">
+
+<!ENTITY aboutSupport.experimentHomepage "မူလအစ">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "အပ္ပလီကေးရှင်း အခြေခံ">
 <!ENTITY aboutSupport.appBasicsName "အမည်">
