@@ -178,6 +178,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Afficher">
 <!ENTITY pref_panels_hide "Masquer">
+<!ENTITY pref_panels_reorder "Modifier l\u0027ordre">
+<!ENTITY pref_panels_move_up "Monter">
+<!ENTITY pref_panels_move_down "Descendre">
 
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "choisir ce que j\u0027envoie">
