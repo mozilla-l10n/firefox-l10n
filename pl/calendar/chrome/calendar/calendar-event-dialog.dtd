@@ -12,8 +12,8 @@
 <!ENTITY newevent.to.label "Do:">
 
 <!ENTITY newevent.attendees.notify.label "Powiadom uczestników">
-<!ENTITY newevent.attendees.notifyundisclosed.label "Nie ujawniaj uczestników w zaproszeniach">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy nie zobaczą siebie nawzajem w zaproszeniach. Ma zastosowanie jedynie do zaproszeń e-mail.">
+<!ENTITY newevent.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
 
 <!ENTITY newevent.status.label                    "Stan:" >
 <!ENTITY newevent.status.accesskey                "a" >
