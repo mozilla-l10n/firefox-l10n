@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "Y">
 
 <!ENTITY  color                           "Binndol e Cakkital">
-
-
+<!ENTITY  textColor.label                 "Binndol:">
+<!ENTITY  textColor.accesskey             "d">
 <!ENTITY  backgroundColor.label           "Cakkital:">
 <!ENTITY  backgroundColor.accesskey       "C">
 <!ENTITY  useSystemColors.label           "Huutoro nooneeji yuɓɓo">

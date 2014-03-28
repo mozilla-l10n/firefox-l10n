@@ -9,6 +9,7 @@
 <!ENTITY  popupExceptions.label       "Paltooje…">
 <!ENTITY  popupExceptions.accesskey   "P">
 
+<!ENTITY  fontsAndColors.label        "Ponte  Nooneeji">
 
 <!ENTITY  defaultFont.label           "Fontere woowaande:">
 <!ENTITY  defaultFont.accesskey       "F">
