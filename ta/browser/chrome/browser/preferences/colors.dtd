@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "உரை மற்றும் பின்னணி">
-
-
+<!ENTITY  textColor.label                 "உரை:">
+<!ENTITY  textColor.accesskey             "உ">
 <!ENTITY  backgroundColor.label           "பின்னணி:">
 <!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "கணினி நிறங்களை பயன்படுத்து">
