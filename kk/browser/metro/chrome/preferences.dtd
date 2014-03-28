@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Куки">
 <!ENTITY clearPrivateData.cache                                  "Веб кэші">
 <!ENTITY clearPrivateData.sitePref                               "Сайт баптаулары">
-<!ENTITY clearPrivateData.formSearchHist                         "Формалардың іздеу тарихы">
+<!ENTITY clearPrivateData.formSearchHist                         "Формалар және іздеу тарихы">
 <!ENTITY clearPrivateData.passwords                              "Сақталып тұрған парольдер">
 <!ENTITY clearPrivateData.offline                                "Веб сайттардың дербес ақпараты">
 <!ENTITY clearPrivateData.logins                                 "Белсенді кірулер">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Парольдерді сақтау">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Навигация батырмаларын көрсету">
 <!ENTITY doNotTrack.title                                        "Бақыламау">
 <!ENTITY doNotTrack.options.doNotTrack                           "Веб сайттарға мені бақыламауды қалайтынымды айту">
 <!ENTITY doNotTrack.options.doTrack                              "Веб сайттарға мені бақылауды қалайтынымды айту">
