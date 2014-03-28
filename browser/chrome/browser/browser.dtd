@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Mbylle Skedën">
 <!ENTITY  closeTab.accesskey                 "M">
 
-<!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
+<!ENTITY  listAllTabs.label      "Paraqiti krejt skedat">
 
 <!ENTITY tabCmd.label "Skedë e Re">
 <!ENTITY tabCmd.accesskey "S">
@@ -94,7 +94,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "K">
 <!ENTITY exitFullScreenCmd.label "Dilni nga Mënyra Krejt Ekrani">
 <!ENTITY exitFullScreenCmd.accesskey "K">
-<!ENTITY fullScreenCmd.label "Krejt Ekranin">
+<!ENTITY fullScreenCmd.label "Krejt Ekrani">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Shfaqini Krejt Skedat">
@@ -114,13 +114,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Mbylleni">
 <!ENTITY fullScreenAutohide.label "Fshihi Panelet">
 <!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Dil nga Mënyra Krejt Ekrani">
+<!ENTITY fullScreenExit.label "Dilni nga Mënyra Krejt Ekrani">
 <!ENTITY fullScreenExit.accesskey "T">
 <!ENTITY fullscreenAllowButton.label "Lejoje">
 <!ENTITY fullscreenExitButton.label "Mos e Lejo">
 
 <!ENTITY fullscreenExitHint2.value "Që të dilni, shtypni ESC në çfarëdo kohe.">
-<!ENTITY leaveDOMFullScreen.label "Dil Nga Mënyra Krejt Ekrani">
+<!ENTITY leaveDOMFullScreen.label "Dilni Nga Mënyra Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
 <!ENTITY closeWindow.label "Mbylle Dritaren">
