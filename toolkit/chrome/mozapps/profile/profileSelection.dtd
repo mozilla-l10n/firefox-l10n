@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "اعمل دون اتّصال">
 <!ENTITY            offlineState.accesskey "ع">
 
-<!ENTITY            autoSelect.label       "لا تسأل عند بداية التشغيل">
-<!ENTITY            autoSelect.accesskey   "س">
+

@@ -34,6 +34,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.disconnect "اقطع الاتصال">
 
 <!ENTITY connection.notConnected2 "غير متصل.">
@@ -79,6 +83,8 @@
 
 
 <!ENTITY projects.valid "صالحة">
+
+
 
 
 
