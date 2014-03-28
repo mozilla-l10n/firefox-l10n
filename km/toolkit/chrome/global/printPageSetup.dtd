@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "ការ​រៀបចំ​ទំព័រ">
 
+<!ENTITY basic.tab           "ទ្រង់ទ្រាយ  ជម្រើស">
 
 <!ENTITY formatGroup.label   "ទ្រង់ទ្រាយ">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "ជម្រើស">
 
+<!ENTITY printBG.label       "បោះពុម្ព ផ្ទៃ​ខាងក្រោយ (ពណ៌  រូបភាព)">
+<!ENTITY printBG.accesskey   "ផ">
 
-
+<!ENTITY advanced.tab        "បោះពុម្ព​ផ្ទៃ​ខាងក្រោយ (ពណ៌  រូបភាព)">
 
 <!ENTITY marginGroup.label   "រឹមទំព័រ (#1)">
 <!ENTITY marginUnits.inches  "អ៊ិន្ឈ៍">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "ស្ដាំ ៖">
 <!ENTITY marginRight.accesskey "ស">
 
+<!ENTITY headerFooter.label  "បឋមកថា  បាតកថា">
 
 <!ENTITY hfLeft.label        "ឆ្វេង ៖">
 <!ENTITY hfCenter.label      "កណ្តាល ៖">

@@ -132,8 +132,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "&brandShortName; នឹង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ឥឡូវ​នេះ។">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-
-
+<!ENTITY shareLinkCmd.label "ចែករំលែក​​តំណ​​នេះ">
+<!ENTITY shareLinkCmd.accesskey "s">
 <!ENTITY shareImageCmd.label "ចែករំលែក This">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "ចែករំលែក​​ជម្រើស">
