@@ -19,7 +19,6 @@
 <!ENTITY appbarFindInPage2.label    "Encontrar en la página">
 <!ENTITY appbarRelaunchInDesktop.label "Relanzar en escritorio">
 
-
 <!ENTITY appbarMSMetaData2.label    "Obtener app para este sitio">
 <!ENTITY appbarViewPageSource.label "Ver fuente de la página">
 
@@ -61,10 +60,13 @@
 <!ENTITY consoleMessages.label     "Mensajes">
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpiar">
+<!ENTITY consoleCopyAll.label      "Copiar">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Archivo fuente:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+<!ENTITY consoleFollowCheckbox.label "Seguir">
+
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Cortar">
