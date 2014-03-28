@@ -57,7 +57,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetiešu">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimālais fonta izmērs:">
-<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.accesskey "t">
 <!ENTITY minSize.none "Nekāds">
 <!-- default font type -->
 
