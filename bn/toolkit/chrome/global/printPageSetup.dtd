@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "পৃষ্ঠার সেটআপ">
 
-<!ENTITY basic.tab           "বিন্যাস ও অপশন">
 
 <!ENTITY formatGroup.label   "বিন্যাস">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "অপশন">
 
-<!ENTITY printBG.label       "পটভূমি মুদ্রণ করা হবে (রং ও ছবি) (B)">
-<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "মার্জিন ও শীর্ষচরণ/পাদচরণ">
+
 
 <!ENTITY marginGroup.label   "মার্জিন (#1)">
 <!ENTITY marginUnits.inches  "ইঞ্চি">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "ডান: (R)">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "শীর্ষচরণ ও পাদচরণ">
 
 <!ENTITY hfLeft.label        "বাম:">
 <!ENTITY hfCenter.label      "কেন্দ্র:">

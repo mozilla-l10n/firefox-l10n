@@ -86,6 +86,9 @@
   -  installed by add-ons. -->
 
 <!ENTITY options.selectAdditionalTools.label  "এড-অন এর মাধ্যমে ইন্সটলকৃত ডেভেলপার টুল">
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->

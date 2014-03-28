@@ -28,7 +28,7 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ডানদিকের ট্যাব বন্ধ করুন i">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ O">
+<!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন O">
 <!ENTITY  closeOtherTabs.accesskey           "O">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; এ সাইন ইন করুন">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; এ পুনরায় সংযুক্ত হউন">
-<!ENTITY syncStartPanel.heading "&brandShortName; এখন সিঙ্ক হচ্ছে">
-<!ENTITY syncStartPanel.subTitle "আপনি অপশনস থেকে &syncBrand.shortName.label; পরিচালনা করতে পারবেন।">
-
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সক্রিয়">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; কিছুক্ষনের মধ্যে সিঙ্ক করা শুরু করবে।">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; এ সংযুক্ত হওয়া যাচ্ছে না">
 <!ENTITY syncErrorPanel.subTitle "সিঙ্ক পুনরায় আরম্ভ করতে দয়া করে সাইন ইন করুন।">
 <!ENTITY syncErrorPanel.signInButton.label "সাইন ইন S">
@@ -109,7 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "ন্যূনতম বিস্তার">
 <!ENTITY fullScreenRestore.tooltip "পূর্বাবস্থায় ফেরানো">
-
+<!ENTITY fullScreenClose.tooltip "বন্ধ">
 <!ENTITY fullScreenAutohide.label "টুলবার আড়াল (H)">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান (F)">
@@ -130,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "বুকমার্ক সম্পাদনা">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "এই পৃষ্ঠা শেয়ার করুন S">
+<!ENTITY sharePageCmd.label "এই পৃষ্ঠা শেয়ার করুন s">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "S">
-<!ENTITY shareLinkCmd.label "এই লিংক শেয়ার করুন S">
-<!ENTITY shareLinkCmd.accesskey "S">
-<!ENTITY shareImageCmd.label "এই ছবি শেয়ার করুন S">
-<!ENTITY shareImageCmd.accesskey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "এই লিংক শেয়ার করুন s">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "এই ছবি শেয়ার করুন s">
+<!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "নির্বাচিত অংশ শেয়ার করুন S">
 <!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন S">
-<!ENTITY shareVideoCmd.accesskey "S">
+<!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন s">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "সাবস্ক্রাইব">
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
@@ -190,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "ইতিহাস">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "টুল (T)">
@@ -255,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ডেভেলপার টুলবার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডেভেলপার টুলবার v">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "অ্যাপ ব্যবস্থাপক A">
-<!ENTITY devAppMgrMenu.accesskey           "A">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুল T">
@@ -458,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ছবি নতুনভাবে সংরক্ষণ… (v)">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "ভিডিও নতুনভাবে সংরক্ষণ… (V)">
-<!ENTITY saveVideoCmd.accesskey       "V">
+
+
 <!ENTITY saveAudioCmd.label           "অডিও নতুনভাবে সংরক্ষণ… (v)">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ছবি ইমেইল করুন... g">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ইমেইল করুন... a">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "অডিও ইমেইল করুন... A">
-<!ENTITY emailAudioCmd.accesskey      "A">
+
+
 <!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন c">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন H">
@@ -570,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "প্রস্থান (x)"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; থেকে প্রস্থান">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "প্রস্থান (Q)"> 
@@ -614,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ… (A)">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -659,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "এখন সিঙ্ক (S)">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;... এ পুনরায় সংযুক্ত হউন">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "সিঙ্ক">
 
 <!ENTITY socialToolbar.title        "সামাজিক টুলবার বাটন">
@@ -666,8 +669,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "সাইডবার প্রদর্শিত হবে S">
-<!ENTITY social.toggleSidebar.accesskey "S">
+<!ENTITY social.toggleSidebar.label "সাইডবার প্রদর্শিত হবে s">
+<!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "পরিসেবা পরিচালনা…">
 
@@ -683,6 +686,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ করুন">
+<!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত টুল এবং ফিচার">
 
 
 
@@ -706,7 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "ক্যামেরা / মাইক্রোফোনে প্রবেশাধিকার">
 <!ENTITY webrtcIndicatorButton.tooltip "ক্যামেরা অথবা মাইক্রোফোন বর্তমানে যে সাইটগুলোর সাথে শেয়ার করছেন সেগুলো প্রদর্শন করুন">
 
-<!ENTITY mixedContentBlocked.helplink "আরও জানুন">
 <!ENTITY mixedContentBlocked.moreinfo "এই বিষয়বস্তু ব্লককৃত থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখতে ESC চাপুন।">
