@@ -7,11 +7,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "بیرونی HTML نقل کریں">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "ب">
 
-
+<!ENTITY inspectorCopyUniqueSelector.label       "یکتا انتخاب کنندہ نقل کریں">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "ی">
 
 <!ENTITY inspectorHTMLDelete.label          "نوڈ حذف کریں">
 <!ENTITY inspectorHTMLDelete.accesskey      "ح">
 
+<!ENTITY inspector.selectButton.tooltip     "ماؤس سے عنصر منتخب کریں">
 
 <!ENTITY inspectorSearchHTML.label          "HTML تلاش کرو">
 <!ENTITY inspectorSearchHTML.key            "ف">

@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "کوکیاں">
 <!ENTITY clearPrivateData.cache                                  "کیسہ">
 <!ENTITY clearPrivateData.sitePref                               "سائٹ ترجیحات">
-<!ENTITY clearPrivateData.formSearchHist                         "فارم &amp; تلاش سابقات">
+
 <!ENTITY clearPrivateData.passwords                              "محفوظ شدہ پاس ورڈ">
 <!ENTITY clearPrivateData.offline                                "آف لائن ویب سائٹ کوائف">
 <!ENTITY clearPrivateData.logins                                 "متحرک لاگ ان">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "پاس ورڈ یاد رکھیں">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "گشت بٹن دکھائیں">
 <!ENTITY doNotTrack.title                                        "سراغ راہ نہیں کریں">
 <!ENTITY doNotTrack.options.doNotTrack                           "ویب سائٹ کو بتا دو کہ میں سراغ کاری نہیں ہونا چاہتا">
 <!ENTITY doNotTrack.options.doTrack                              "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">

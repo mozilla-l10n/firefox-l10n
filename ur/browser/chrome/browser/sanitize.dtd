@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "سابقات">
 <!ENTITY dataSection.label            "کوائف">
 
-<!ENTITY itemHistoryAndDownloads.label     "براؤزنگ &amp; ڈاؤن لوڈ سابقات">
-<!ENTITY itemHistoryAndDownloads.accesskey "ب">
-<!ENTITY itemFormSearchHistory.label       "فارم &amp; تلاش سابقات">
-<!ENTITY itemFormSearchHistory.accesskey   "ف">
+
+
+
 <!ENTITY itemPasswords.label               "محفوظ شدہ پاس ورڈ">
 <!ENTITY itemPasswords.accesskey           "پ">
 <!ENTITY itemCookies.label                 "کوکیاں">

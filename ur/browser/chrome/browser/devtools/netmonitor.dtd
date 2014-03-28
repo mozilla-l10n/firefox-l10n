@@ -65,6 +65,10 @@
   -  in the network details pane identifying the timings tab. -->
 
 <!ENTITY netmonitorUI.tab.timings         "اوقات">
+<!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
+  -  in the network details pane identifying the preview tab. -->
+
+<!ENTITY netmonitorUI.tab.preview         "پیش نظارہ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -75,10 +79,16 @@
 <!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterCSS    "CSS">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterJS): This is the label displayed
   -  in the network details footer for the "JS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterXHR): This is the label displayed
   -  in the network details footer for the "XHR" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
@@ -93,6 +103,8 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "میڈیا">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
@@ -104,13 +116,15 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 
-<!ENTITY netmonitorUI.footer.perf   "سرانجام دہی تجزیہ ٹوگل کریں...">
+<!ENTITY netmonitorUI.footer.perf   "سرانجام دہی کا تجزیہ ٹوگل کریں…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
 <!ENTITY netmonitorUI.panesButton.tooltip "نیٹ ورک کے بارے میں معلومات ٹوگل کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
+
+<!ENTITY netmonitorUI.summary.url         "URL درخواست کریں:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
@@ -176,7 +190,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 
-<!ENTITY netmonitorUI.context.perfTools   "سرانجام دہی تجزیہ شروع کریں...">
+<!ENTITY netmonitorUI.context.perfTools   "سرانجام دہی تجزیہ شروع کریں…">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
 
@@ -222,6 +236,8 @@
 <!ENTITY netmonitorUI.custom.newRequest   "نئی درخواست">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.query        "طلب سٹرنگ:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
 

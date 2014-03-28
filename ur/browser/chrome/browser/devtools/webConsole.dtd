@@ -15,6 +15,7 @@
 <!ENTITY networkPanel.requestMethodColon          "طریقہ فرمائش">
 <!ENTITY networkPanel.statusCodeColon             "صورت حال کا ضابطہ">
 
+<!ENTITY networkPanel.requestHeaders              "سر تحریر درخواست کریں">
 
 <!ENTITY networkPanel.requestBody                 "جسد کی درخواست کریں">
 
@@ -50,10 +51,10 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "ت">
 
-<!ENTITY btnPageCSS.tooltip "CSS کے نحوی جانچ کاری نقائص لاگ کریں">
+<!ENTITY btnPageCSS.tooltip "CSS نقائص اور تنبیہ لاگ کریں">
 
 
-
+<!ENTITY btnPageJS.tooltip  "JavaScript استثنیات لاگ کریں">
 
 
 

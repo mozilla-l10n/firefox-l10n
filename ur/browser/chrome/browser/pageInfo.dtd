@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "600">
-<!ENTITY  pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.width  "۶۰۰">
+<!ENTITY  pageInfoWindow.height "۵۰۰">
 
 <!ENTITY  copy.key              "س">
 <!ENTITY  copy.label            "نقل کریں ">
@@ -76,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "ویب سائٹ:">
 <!ENTITY  securityView.identity.verifier "توثیق کردہ برائے:">
 
-<!ENTITY  securityView.privacy.header                   "نجی نوعیت &amp; سابقات">
 <!ENTITY  securityView.privacy.history                  "میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟">
 <!ENTITY  securityView.privacy.cookies                  "کیا یہ ویب سائٹ میرے کمپیوٹر پر معلومات (کوکیاں) سٹور کر رہی ہے؟">
 <!ENTITY  securityView.privacy.viewCookies              "کوکیاں نظارہ کریں">

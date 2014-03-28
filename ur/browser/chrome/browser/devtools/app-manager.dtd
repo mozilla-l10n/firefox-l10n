@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "اجازتیں">
 <!ENTITY device.permissionsTooltip "مختلف اقسام کی ایپ کون سی اجازتیں رسائی کر سکتی ہیں اس کا تيبل دیکھیں">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "براؤزر کے ٹیب">
+<!ENTITY device.browserTabsTooltip "جڑے ہوئے آلے کے براؤزر میں ٹیب کی فہرست دیکھیں">
+<!ENTITY device.debugBrowserTab "ٹھیک کریں">
+<!ENTITY device.debugBrowserTabTooltip "آلہ پر اس براؤزر ٹیب سے جڑے ہوے ترقی دہندہ ٹول کھولیں">
 <!ENTITY device.help "مدد">
 
 <!ENTITY connection.connectTooltip "آلہ سے رابطہ قائم کریں">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "جائز">
 <!ENTITY projects.error "نقص">
 <!ENTITY projects.warning "تنبیہ">
+<!ENTITY projects.hosted "ہوسٹ کیئے گئے">
+<!ENTITY projects.packaged "پیکیج کیئے گئے">
 
 <!ENTITY help.title "ایپ مینیجر">
 <!ENTITY help.close "بند کریں">

@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "صفحہ سیٹ اپ">
 
-<!ENTITY basic.tab           "وضع &amp; اختیارات">
 
 <!ENTITY formatGroup.label   "وضع کریں">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "اختیارات">
 
-<!ENTITY printBG.label       "پس منظر چھاپیں (رنگ &amp; نقوش)">
-<!ENTITY printBG.accesskey   "پ">
 
-<!ENTITY advanced.tab        "حاشیے &amp; سر تحریر/ذیل تحریر">
+
 
 <!ENTITY marginGroup.label   "حاشیے (#1)">
 <!ENTITY marginUnits.inches  "انچ">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "دایاں:">
 <!ENTITY marginRight.accesskey "د">
 
-<!ENTITY headerFooter.label  "سرتحریر &amp; ذیل تحریر">
 
 <!ENTITY hfLeft.label        "بایاں:">
 <!ENTITY hfCenter.label      "مرکز:">

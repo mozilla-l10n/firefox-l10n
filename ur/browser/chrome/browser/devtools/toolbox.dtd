@@ -6,14 +6,18 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "ترقی دہندہ ٹول بند کریں">
 
+<!ENTITY toolboxNextTool.key           "[">
+<!ENTITY toolboxPreviousTool.key       "]">
 
-
-
+<!ENTITY toolboxZoomIn.key             "+">
 <!-- + is above this key on many keyboards -->
-
-
+<!ENTITY toolboxZoomIn.key2            "="> 
+<!ENTITY toolboxZoomOut.key            "-">
+<!ENTITY toolboxZoomReset.key          "0">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
+
+<!ENTITY options.context.advancedSettings "اعلٰی سیٹنگیں">
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 
@@ -69,12 +73,17 @@
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label   "DevTools خیالیہ کا انتخاب کریں:">
 
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
@@ -86,9 +95,13 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
+<!ENTITY options.enablePersistentLogging.label    "مستقل لاگ اہل بنائیں">
+
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "وقت سٹیمپ اہل بنائیں">
+<!ENTITY options.timestampMessages.tooltip    "اگر آپ اس اختیار کو اہل بناتے ہیں تو ویب کنسول پر احکام اور آؤٹ پٹ ایک وقت سٹیمپ دکھائیں گے">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

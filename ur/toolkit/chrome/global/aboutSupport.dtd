@@ -21,7 +21,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "نام">
 <!ENTITY aboutSupport.extensionEnabled "اہل بنایا گیا">
 <!ENTITY aboutSupport.extensionVersion "ورژن">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "تصریح">
+<!ENTITY aboutSupport.experimentActive "فعال">
+
+<!ENTITY aboutSupport.experimentHomepage "ابتدائی صفحہ">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "ایپلی کیشن BASIC">
 <!ENTITY aboutSupport.appBasicsName "نام">

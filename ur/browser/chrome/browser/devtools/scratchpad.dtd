@@ -67,6 +67,7 @@
 
 <!ENTITY pprint.label                 "خوبصورت پرنٹ">
 <!ENTITY pprint.key                   "پ">
+<!ENTITY pprint.accesskey             "خ">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -98,11 +99,15 @@
 <!ENTITY helpMenuWin.label            "مدد">
 <!ENTITY helpMenuWin.accesskey        "م">
 
-
+<!ENTITY documentationLink.label      "MDN پر سکریچ پیڈ مدد">
+<!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
+
+<!ENTITY resetContext2.label          "متغیرہ پھر سیٹ کریں">
+<!ENTITY resetContext2.accesskey      "پ">
 
 
 <!ENTITY reloadAndRun.key             "ر">

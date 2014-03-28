@@ -59,17 +59,19 @@
 <!ENTITY consoleMessages.label     "پیغامات">
 <!ENTITY consoleCodeEval.label     "ضابطہ">
 <!ENTITY consoleClear.label        "صاف کریں">
+<!ENTITY consoleCopyAll.label      "نقل">
 <!ENTITY consoleEvaluate.label     "۔۔۔">
 <!ENTITY consoleErrFile.label      "ماخذ مسل:">
 <!ENTITY consoleErrLine.label      "لائن:">
 <!ENTITY consoleErrColumn.label    "کالم:">
+<!ENTITY consoleFollowCheckbox.label "اپنائیں">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "کاٹیں">
-<!ENTITY contextTextCopy.label             "نقل کریں">
+<!ENTITY contextTextCopy.label             "نقل">
 <!ENTITY contextTextPaste.label            "جوڑیں">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "چسپاں کریں &amp; جایں               ">
+<!ENTITY contextTextPasteAndGo.label       "جوڑیں اور جائیں">
 <!ENTITY contextTextSelect.label           "منتخب کریں">
 <!ENTITY contextTextSelectAll.label        "تمام منتخب کریں">
 <!-- LINK CONTEXT MENU -->
@@ -135,12 +137,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "پچھلے صفحہ پر جانے کے لیے ٹیپ کریں">

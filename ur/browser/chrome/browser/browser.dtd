@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; سائن ان کریں">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; سے پھر جڑیں">
-<!ENTITY syncStartPanel.heading "&brandShortName; اب ہموار بنا رہا ہے">
-<!ENTITY syncStartPanel.subTitle "آپ اختیارات میں &syncBrand.shortName.label; کا بندوبست کر سکتے ہیں۔">
-<!ENTITY syncStartPanel.subTitleUnix "آپ ترجیحات میں &syncBrand.shortName.label; بندوبست کر سکتے ہیں۔">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; اہل بنایا گیا">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; ابھی ہم وقت ساز کرنا شروع کر دے گا۔">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; سے رابطہ قائم نہیں کر سکتے ہیں">
 <!ENTITY syncErrorPanel.subTitle "ہموار بنانا پھر شروع کرنے کے لیے سائن ان کریں۔">
 <!ENTITY syncErrorPanel.signInButton.label "ؑؑسائن ان کریں">
@@ -130,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "یہ نشانی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "ن">
-<!ENTITY sharePageCmd.label "اس صفحہ کو بانٹیں">
+<!ENTITY sharePageCmd.label "اس صفحہ کو شیئر کریں">
 <!ENTITY sharePageCmd.commandkey "س">
-<!ENTITY sharePageCmd.accesskey "ب">
-<!ENTITY shareLinkCmd.label "اس ربط کو بانٹیں">
-<!ENTITY shareLinkCmd.accesskey "ب">
-<!ENTITY shareImageCmd.label "اس نقش کو بانٹیں">
-<!ENTITY shareImageCmd.accesskey "ب">
+<!ENTITY sharePageCmd.accesskey "ا">
+<!ENTITY shareLinkCmd.label "اس ربط کو شیئر کریں">
+<!ENTITY shareLinkCmd.accesskey "ر">
+<!ENTITY shareImageCmd.label "اس نقش کو شیئر کریں">
+<!ENTITY shareImageCmd.accesskey "ن">
 <!ENTITY shareSelectCmd.label "منتخب حصہ بانٹیں">
 <!ENTITY shareSelectCmd.accesskey "ب">
-<!ENTITY shareVideoCmd.label "یہ وڈیو بانٹیں">
-<!ENTITY shareVideoCmd.accesskey "ب">
+<!ENTITY shareVideoCmd.label "یہ وڈیو شیئر کریں۔">
+<!ENTITY shareVideoCmd.accesskey "و">
 <!ENTITY feedsMenu.label "رکن بنیں">
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
@@ -460,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.label           "نقش محفوظ کریں بطور ...">
 <!ENTITY saveImageCmd.accesskey       "م">
 <!ENTITY saveVideoCmd.label           "وڈیو محفوظ کریں بطور…">
-<!ENTITY saveVideoCmd.accesskey       "و">
+<!ENTITY saveVideoCmd.accesskey       "ف">
 <!ENTITY saveAudioCmd.label           "آڈیو محفوظ کریں بطور…">
 <!ENTITY saveAudioCmd.accesskey       "م">
 <!ENTITY emailImageCmd.label          "نقش ای میل کریں…">
@@ -546,7 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "آڈیو ای میل کریں…">
 
 <!ENTITY fullZoomReduceCmd.label        "باہر زوم">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
@@ -615,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "د">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "ا">
 
 <!ENTITY spellAddDictionaries.label "لغات اضافہ کریں…">
 <!ENTITY spellAddDictionaries.accesskey "ا">
@@ -660,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ابھی ہمہ وار کریں">
 <!ENTITY syncSyncNowItem.accesskey    "ہ">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; سے پھر جڑیں…">
+<!ENTITY syncReAuthItem.accesskey     "پ">
 <!ENTITY syncToolbarButton.label      "ہمہ وار">
 
 <!ENTITY socialToolbar.title        "سوشل ٹول بار بٹن">
@@ -685,7 +687,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; تخصیص کریں">
-<!ENTITY customizeMode.menuAndToolbars.label "مینیو اور ٹول باریں">
 <!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں اضافہ سے انتخاب کریں">
@@ -710,7 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "کیمرہ / مائیکروفون رسائی">
 <!ENTITY webrtcIndicatorButton.tooltip "سائٹیں دکھاتا ہے جن کے ساتھ آپ اس وقت اپنا کیمرہ یا مائیکروفون شیئر کر رہے ہیں">
 
-<!ENTITY mixedContentBlocked.helplink "اور سیکھیں">
 <!ENTITY mixedContentBlocked.moreinfo "زیادہ تر ویب سائٹیں اس مواد کے بلاک ہونے کے بوجود بھی ٹھیک سے کام کریں گی۔">
 
 <!ENTITY pointerLock.notification.message "اس کو دوبارہ دکھانے کے لیے ESC دبائیں  ">

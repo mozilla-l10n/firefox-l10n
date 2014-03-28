@@ -72,8 +72,8 @@
 <!ENTITY netTimeout.title "کنکشن ٹائم آوٹ ہو گیا ہے">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "پتہ سمجھ نہیں آیا">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "پتہ سمجھ نہیں آیا">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔</li> 
 </ul>">
 
