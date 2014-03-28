@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "कूकीज">
 <!ENTITY clearPrivateData.cache                                  "कैश">
 <!ENTITY clearPrivateData.sitePref                               "साइट वरीयताएँ">
-<!ENTITY clearPrivateData.formSearchHist                         "&amp; खोज इतिहास से">
+
 <!ENTITY clearPrivateData.passwords                              "सहेजा कूटशब्द">
 <!ENTITY clearPrivateData.offline                                "ऑफ़ाइल वेबसाइट आँकड़ा">
 <!ENTITY clearPrivateData.logins                                 "सक्रिय लॉगिन">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "कूटशब्द याद रखें">
+
 <!ENTITY doNotTrack.title                                        "पीछा न करें">
 <!ENTITY doNotTrack.options.doNotTrack                           "वेबसाइटों को बताएं कि मैं नहीं चाहता कि मुझे ट्रैक किया जाए">
 <!ENTITY doNotTrack.options.doTrack                              "वेबसाइटों को बताएं कि मैं चाहता हूँ कि मुझे ट्रैक किया जाए">

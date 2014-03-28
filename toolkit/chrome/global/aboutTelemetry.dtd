@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "ब्राउज़र  लटकाव">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारण  माप ">
@@ -24,9 +25,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection " आयत छवि एड-ओन द्वारा एकत्रित ">
 
-<!ENTITY aboutTelemetry.toggleOn "क्लिक करें विभाग फैलाने के लिये">
-
-<!ENTITY aboutTelemetry.toggleOff "क्लिक करें  विभाग समाप्ति  के लिये">
 
 <!ENTITY aboutTelemetry.emptySection "कोई आंकड़ा एकत्रित  नही">
 
@@ -35,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "पाएँ फंक्शन नाम  लटकाव ढेरी के लिये">
 
 <!ENTITY aboutTelemetry.hideSymbols "दिखाएँ कच्चा आंकड़ा झूलने से">
+

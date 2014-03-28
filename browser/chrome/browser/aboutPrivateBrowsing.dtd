@@ -12,10 +12,13 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "निजी विंडो खोलें (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "निजी ब्राउज़िंग आरंभ करने के लिए, आप साथ ही &basePBMenu.label; &gt; &newPrivateWindow.label; को भी चुन सकते हैं.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop3                "निजी ब्राउज़िंग रोकने के लिए, आप इस विंडो को बंद कर सकते हैं.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "जहाँ इस कंप्यूटर में आपके ब्राउज़िंग इतिहास का रिकार्ड नहीं है, आपके इंटरनेट सेवा प्रदाता या आपके नियोक्ता अभी भी उन पृष्ठों की ट्रैक रख सकते हैं जिसे आप देखते हैं.">
 <!ENTITY privatebrowsingpage.learnMore                 "अधिक जानें">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "निजी ब्राउज़िंग आरंभ करने के लिए, आप साथ ही &basePBMenu.label; &gt; &newPrivateWindow.label; को भी चुन सकते हैं.">
