@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Informacions ret">
-
+<!ENTITY aboutNetworking.warning               "Aquesta foncionalitat es fòrça experimentala. D'utilizar pas que jos la susvelhança d'un adulte.">
 <!ENTITY aboutNetworking.showNextTime          "Afichar aqueste avertiment lo còp que ven">
 <!ENTITY aboutNetworking.ok                    "D'acòrdi">
 <!ENTITY aboutNetworking.http                  "Http">

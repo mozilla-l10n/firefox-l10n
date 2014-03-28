@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "Messatges">
 <!ENTITY consoleCodeEval.label     "Còde :">
 <!ENTITY consoleClear.label        "Voidar la consòla">
-
+<!ENTITY consoleCopyAll.label      "Copiar">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fichier font :">
 <!ENTITY consoleErrLine.label      "Linha :">
 <!ENTITY consoleErrColumn.label    "Colomna :">
-
+<!ENTITY consoleFollowCheckbox.label "Seguir">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Talhar">
-
+<!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Pegar e anar">
 <!ENTITY contextTextSelect.label           "Seleccionar">
 <!ENTITY contextTextSelectAll.label        "Seleccionar tot">
 <!-- LINK CONTEXT MENU -->
