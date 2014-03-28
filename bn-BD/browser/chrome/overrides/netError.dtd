@@ -70,8 +70,8 @@
 <!ENTITY netTimeout.title "সংযোগের সময়সীমা উত্তীর্ণ হয়েছে">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ঠিকানাটি বোঝা যায়নি">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ঠিকানাটি বোঝা যায়নি">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>এই ঠিকানা খোলার জন্য অন্য সফটওয়্যার ইনস্টল করার প্রয়োজন হতে পারে।</li> 
 </ul>">
 

@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "পূর্ব এশিয়ান (A)">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "দঃ পূর্ব ও দঃ পশ্চিম এশিয়ান">
-<!ENTITY charsetMenuMore4.accesskey    "S">
+
+
 <!ENTITY charsetMenuMore5.label        "মধ্য প্রাচ্যীয় (M)">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "তালিকা স্বনির্ধারণ… (C)">

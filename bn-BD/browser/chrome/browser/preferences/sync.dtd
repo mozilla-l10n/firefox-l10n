@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-
+<!ENTITY manage.label                "ব্যবস্থাপনা">
 
 
 
@@ -71,3 +71,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "সাইন ইন">
 
 
+<!ENTITY welcome.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
