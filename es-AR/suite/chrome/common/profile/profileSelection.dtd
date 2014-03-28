@@ -17,3 +17,7 @@
 <!ENTITY            introStart.label         "Para acceder a su perfil personal, que contiene sus mensajes guardados, configuraciones y otra información personalizada, elija su perfil de la lista y haga clic en &start.label; para empezar su sesión.">
 <!ENTITY            introSwitch.label        "Para cambiar a otro perfil, que contiene mensajes guardados, configuraciones y otra información personalizada, elija ese perfil y haga clic en &select.label; para empezar a usarlo.">
 <!ENTITY            profileManagerText.label "&brandShortName; guarda información sobre sus configuraciones, preferencias, marcadores, mensajes guardados y otros elementos del usuario en su perfil.">
+
+<!ENTITY            autoSelect.label         "Predeterminado para este perfil">
+<!ENTITY            autoSelect.accesskey     "s">
+

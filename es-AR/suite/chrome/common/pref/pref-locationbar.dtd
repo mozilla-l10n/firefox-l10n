@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Cualquier lugar pero preferiblemente en los límites de la palabra">
 <!ENTITY autoCompleteMatchWords                "Sólo en los límites de la palabra">
 <!ENTITY autoCompleteMatchStart                "Sólo al principio de la URL o el título">
+<!ENTITY showInternetSearch.label              "Mostrar buscador de internet predeterminado">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formato">
 <!ENTITY domainFormatting.label                "Resaltar el dominio efectivo para sitios web y servidores FTP">
 <!ENTITY domainFormatting.accesskey            "d">
-
-<!ENTITY searchEngine.label                    "Motor de búsqueda en Internet">
-<!ENTITY showSearchEngine.label                "Mostrar motor de búsqueda predeterminado">
-<!ENTITY showSearchEngine.accesskey            "e">
+<!ENTITY highlightSecure.label                 "Resaltar páginas web con un nive alto de seguridad de conexión">
+<!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Ubicaciones desconocidas">
 <!ENTITY domainGuessing.label                  "Agregar &quot;www.&quot; y &quot;.com&quot; a la dirección si no se encontró la página web">
