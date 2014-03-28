@@ -32,10 +32,10 @@
 <!ENTITY device.permissions "அனுமதிகள்">
 <!ENTITY device.permissionsTooltip "வெவ்வேறு வகை பயன்பாடுகளால் அணுகக்கூடிய அனுமதிகளின் அட்டவணையைக் காணவும்">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
-
-
-
+<!ENTITY device.browserTabs "உலாவியின் கீற்றுகள்">
+<!ENTITY device.browserTabsTooltip "இணந்துள்ள கருவியின் உலாவியிலுள்ள கீற்றுகளின் பட்டியலை பார்">
+<!ENTITY device.debugBrowserTab "வழு நீக்கு">
+<!ENTITY device.debugBrowserTabTooltip "சாதனத்தில் இந்த பயன்பாட்டுடன் இணைக்கப்பட்டுள்ள உருவாக்குநர் கருவிகளைத் திற">
 <!ENTITY device.help "உதவி">
 
 <!ENTITY connection.connectTooltip "சாதனத்துடன் இணைக்கவும்">
@@ -87,8 +87,8 @@
 <!ENTITY projects.valid "சரியானது">
 <!ENTITY projects.error "பிழை">
 <!ENTITY projects.warning "எச்சரிக்கை">
-
-
+<!ENTITY projects.hosted "நிறுவப்பட்ட புரவலன்">
+<!ENTITY projects.packaged "பொதியாக்கப்பட்டது">
 
 <!ENTITY help.title "பயன்பாடு நிர்வாகி">
 <!ENTITY help.close "மூடு">

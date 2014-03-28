@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "வரலாறு">
 <!ENTITY dataSection.label            "தரவு">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "உலாவல்  பதிவிறக்க வரலாறு">
+<!ENTITY itemHistoryAndDownloads.accesskey "உ">
+<!ENTITY itemFormSearchHistory.label       "படிவம்  தேடல் வரலாறு">
+<!ENTITY itemFormSearchHistory.accesskey   "ப">
 <!ENTITY itemPasswords.label               "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "குக்கீகள்">
