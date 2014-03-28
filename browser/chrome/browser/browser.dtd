@@ -28,8 +28,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Uddu tabbe to bannge Ñaamo">
 <!ENTITY  closeTabsToTheEnd.accesskey        "a">
-
-
+<!ENTITY  closeOtherTabs.label               "Uddu Tabbe Goɗɗe">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -98,8 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Teelto &syncBrand.shortName.label;">
-
-
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ena hurmi">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; maa fuɗɗo syncude ko leelaani.">
 <!ENTITY syncErrorPanel.heading "A waawaa seŋaade e &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Tinno seŋo ngam tonngude synk.">
 <!ENTITY syncErrorPanel.signInButton.label "Winndito">
@@ -129,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Taƴto Ngol Maantorol">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "Lollin Ngoo Hello">
 <!ENTITY sharePageCmd.commandkey "L">
-
-
-
-
-
+<!ENTITY sharePageCmd.accesskey "o">
+<!ENTITY shareLinkCmd.label "Lollin Ngol Jokkol">
+<!ENTITY shareLinkCmd.accesskey "n">
+<!ENTITY shareImageCmd.label "Lollin Ngal Natal">
+<!ENTITY shareImageCmd.accesskey "a">
 <!ENTITY shareSelectCmd.label "Lollin Labannde">
 <!ENTITY shareSelectCmd.accesskey "L">
-
-
+<!ENTITY shareVideoCmd.label "Lollin Oo widewoo">
+<!ENTITY shareVideoCmd.accesskey "w">
 <!ENTITY feedsMenu.label "Lulno">
 <!ENTITY subscribeToPageMenupopup.label "Lulno e ngoo Hello">
 <!ENTITY subscribeToPageMenuitem.label "Lulno e ngoo Hello…">
@@ -255,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Uddu Palal Topayɓe">
 <!ENTITY devToolbarMenu.label              "Palal Topotooɓe">
 <!ENTITY devToolbarMenu.accesskey          "o">
-
-
+<!ENTITY devAppMgrMenu.label               "Toppitorde Jaaɓɗe">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggilo Kuutorɗe">
@@ -337,8 +337,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Aslol">
 <!ENTITY appMenuHistory.showAll.label "Hollu Asli ɗii Fof">
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
-
-
+<!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
+<!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
 <!ENTITY appMenuHelp.tooltip "Uddit ballitorgol">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
@@ -458,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "Danndu Natal e innde…">
 <!ENTITY saveImageCmd.accesskey       "n">
-
-
+<!ENTITY saveVideoCmd.label           "Danndu Widewoo e Innde…">
+<!ENTITY saveVideoCmd.accesskey       "d">
 <!ENTITY saveAudioCmd.label           "Danndu Ojoo e Innde…">
 <!ENTITY saveAudioCmd.accesskey       "O">
 <!ENTITY emailImageCmd.label          "Neldu Natal e Iimeel…">
 <!ENTITY emailImageCmd.accesskey      "N">
 <!ENTITY emailVideoCmd.label          "Neldu Widewoo e Iimeel…">
 <!ENTITY emailVideoCmd.accesskey      "W">
-
-
+<!ENTITY emailAudioCmd.label          "Neldu Ojoo e Iimeel…">
+<!ENTITY emailAudioCmd.accesskey      "o">
 <!ENTITY playPluginCmd.label          "Hurmin ndee seŋre">
 <!ENTITY playPluginCmd.accesskey      "r">
 <!ENTITY hidePluginCmd.label          "Suuɗ ndee seŋre">
@@ -570,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Yaltu"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "Y">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "Yaltu &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Yaltu"> 
@@ -614,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "d">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ɓeydu Caggitorɗe…">
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
@@ -660,8 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sanngoɗin Jooni">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
+<!ENTITY syncReAuthItem.label         "Seŋo kadi e &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sanngoɗin">
 
 <!ENTITY socialToolbar.title        "Butoŋ Palal Kuutorɗe Renndo">
@@ -669,7 +669,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "Hollu palal sawndo">
+<!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "Toppito Carwe…">
 
@@ -734,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Wi'i &vendorShortName; ko feewti e nguu njanngu haa feewta.">
 <!ENTITY tabCrashed.tryAgain "Enndit">
 
+<!ENTITY uiTour.infoPanel.close "Uddu">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -746,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Kollirol Dille">
 <!ENTITY appMenuButton.label           "Dosol">
 <!ENTITY appMenuButton.tooltip         "Uddit &brandShortName; dosol">
-
+<!ENTITY feedButton.label              "Lulno">
 <!ENTITY feedButton.tooltip            "Lulno e ngoo hello…">
 <!ENTITY bookmarksButton.tooltip       "Jaytin maantore maa">
 <!ENTITY historyButton.tooltip         "Jaytin kelle ɗe njilli-ɗaa ko ɓooyaani">

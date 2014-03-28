@@ -44,7 +44,7 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        " humpito yamiroore">
+<!ENTITY bottomLinks.license        "Humpito yamiroore">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Jojjanɗe Kuutoro">
@@ -57,7 +57,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; hesɗitii">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko daaƴɗo ɗe ">
+<!ENTITY update.adminDisabled       "Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko daaƴɗo ɗe">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; woni ko e hesɗitineede e cilol goɗngol">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

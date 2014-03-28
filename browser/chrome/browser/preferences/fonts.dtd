@@ -26,7 +26,7 @@
 
 <!ENTITY  font.langGroup.latin1                   "Western">
 <!ENTITY  font.langGroup.latin2                   "Central European">
-
+<!ENTITY  font.langGroup.japanese                 "Saponeere">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Cayniire weeɓtunde">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Cayniire Ganni (Hong Kong)">

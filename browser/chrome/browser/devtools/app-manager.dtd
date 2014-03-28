@@ -33,7 +33,7 @@
 <!ENTITY device.permissionsTooltip "Yiy haatumeere yamiroore yettaade e fannuuji jaaɓɗe ɗee">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
-
+<!ENTITY device.browserTabsTooltip "Hollir doggol kaatimeeje e ndeer feerorde masiŋel ceŋingel ngel">
 
 
 
@@ -75,27 +75,27 @@
 <!ENTITY projects.updateApp "Hesɗitin">
 <!ENTITY projects.updateAppTooltip "Siynu ƴeewndo cellingol, kesɗitina kadi jaaɓɗe kuutorgol ceŋingol">
 <!ENTITY projects.debugApp "Buggito">
+<!ENTITY projects.debugAppTooltip "Uddit kaɓirɗe topotooɗo ceŋiiɗe e ndeer ngal ciynangal">
 
-
-
-
-
-
-
-
-
+<!ENTITY projects.saveManifestTooltip "Daɗndu loowdi njuɓɓudi ngoo wellito les">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "Eɓɓannde ala. Ɓeydu ciynangal tirangal kesal les ( regiginorde nookuɗinaande) walla ciynangal mooftangal ( jokki e sakkere wellito)">
+<!ENTITY projects.manifestEditor "Juɓɓirgel wellito">
+<!ENTITY projects.manifestEditorTooltip "Yuɓɓin wellito ciynangal ma e alluwal les ngal. Feɗoode hesɗitinoore maa hisnu baylitte ma kadi hesɗitina ciynangal ngal">
+<!ENTITY projects.manifestViewer "Kolloowo wellito">
+<!ENTITY projects.manifestViewerTooltip "Ƴeewtindo wellito ciynangal ma e ndeer alluwal les ngal">
 <!ENTITY projects.valid "Valid">
 <!ENTITY projects.error "Juumre">
 
-
-
+<!ENTITY projects.hosted "koɗnaaɗo">
+<!ENTITY projects.packaged "Tiraama">
 
 <!ENTITY help.title "jiiloowo jaaɓɗe">
 <!ENTITY help.close "Uddu">
 
 <!ENTITY help.usefullLinks "Jokkirɗe goowaaɗe:">
 <!ENTITY help.appMgrDoc "ruttorde : kuutorogol hisnorde jaaɓɗe">
-
-
-
-
+<!ENTITY help.configuringDevice "Hol no teeltoroɗaa telefoŋ Firefox OS mah">
+<!ENTITY help.troubleShooting "Loftugol">
+<!ENTITY help.simulatorAddon "Loow Nanndo ɓeeydol">
+<!ENTITY help.adbHelperAddon "Aaf Adb Balloowo Add-on">
