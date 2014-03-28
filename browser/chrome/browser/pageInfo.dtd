@@ -76,6 +76,7 @@
 <!ENTITY  securityView.identity.domain   "តំបន់បណ្ដាញ ៖">
 <!ENTITY  securityView.identity.verifier "ផ្ទៀងផ្ទាត់​ដោយ ៖">
 
+<!ENTITY  securityView.privacy.header                   "ភាព​ឯកជន  ប្រវត្តិ">
 <!ENTITY  securityView.privacy.history                  "តើ​ខ្ញុំ​បាន​ចូល​ទស្សនា​តំបន់បណ្ដាញ​នេះ​មុន​ថ្ងៃនេះ​ឬ ?">
 <!ENTITY  securityView.privacy.cookies                  "តើ​តំបន់បណ្ដាញ​នេះ​រក្សាទុក​ព័ត៌មាន (ខូគី) នៅ​ក្នុង​កុំព្យូទ័រ​របស់​ខ្ញុំ​ឬ ?">
 <!ENTITY  securityView.privacy.viewCookies              "មើល​ខូគី">

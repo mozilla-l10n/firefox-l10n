@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "អាស៊ី​ខាង​កើត">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-
-
+<!ENTITY charsetMenuMore4.label        "SE  SW Asian">
+<!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "មជ្ឈិម​បូព៌ា">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "ប្ដូរ​បញ្ជី​តាម​បំណង...">

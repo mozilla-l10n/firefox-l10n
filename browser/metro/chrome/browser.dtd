@@ -68,9 +68,10 @@
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "កាត់">
-
+<!ENTITY contextTextCopy.label             "ចម្លង">
 <!ENTITY contextTextPaste.label            "បិទភ្ជាប់">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "បិទ​ភ្ជាប់ ហើយ​ដំណើរការ">
 <!ENTITY contextTextSelect.label           "ជ្រើស">
 <!ENTITY contextTextSelectAll.label        "ជ្រើស​ទាំងអស់">
 <!-- LINK CONTEXT MENU -->

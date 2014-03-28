@@ -27,7 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "ការ​ចូល​សកម្ម">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "ចងចាំ​ពាក្យសម្ងាត់">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "បង្ហាញ​ប៊ូតុង​ការ​រុករក">
 <!ENTITY doNotTrack.title                                        "កុំ​តាមដាន">
 <!ENTITY doNotTrack.options.doNotTrack                           "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​មិន​ចង់​ឲ្យ​គេ​តាមដាន​ទេ">
 <!ENTITY doNotTrack.options.doTrack                              "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​ចង់​ឲ្យ​គេ​តាមដាន">
