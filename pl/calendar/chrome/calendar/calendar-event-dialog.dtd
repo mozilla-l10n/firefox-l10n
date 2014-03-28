@@ -11,10 +11,6 @@
 <!ENTITY newevent.from.label "Od:">
 <!ENTITY newevent.to.label "Do:">
 
-<!ENTITY newevent.attendees.notify.label "Powiadom uczestników">
-<!ENTITY newevent.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
-
 <!ENTITY newevent.status.label                    "Stan:" >
 <!ENTITY newevent.status.accesskey                "a" >
 <!ENTITY newevent.eventStatus.none.label          "Nieokreślony" >
@@ -34,6 +30,10 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; wykonania">
+
+<!ENTITY event.attendees.notify.label "Powiadom uczestników">
+<!ENTITY event.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
+<!ENTITY event.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
