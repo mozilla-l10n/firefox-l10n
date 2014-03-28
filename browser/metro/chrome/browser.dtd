@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Хабарламалар">
 <!ENTITY consoleCodeEval.label     "Код:">
 <!ENTITY consoleClear.label        "Тазарту">
+<!ENTITY consoleCopyAll.label      "Көшіру">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Көзі:">
 <!ENTITY consoleErrLine.label      "Жол:">
 <!ENTITY consoleErrColumn.label    "Баған:">
+<!ENTITY consoleFollowCheckbox.label "Еру">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Қиып алу">
@@ -135,12 +137,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "Алдыңғы бетке қайту үшін шертіңіз">

@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Сіз &brandShortName;-ты <b>#1</b> сайтына 
-қауіпсіз түрде қосылуды сұрадыңыз, бірақ біз осы байланыс қауіпсіз екенің нақты айта алмаймыз.">
+<!ENTITY certerror.introPara1 "Сіз &brandShortName; өнімін <b>#1</b> сайтына 
+қауіпсіз түрде қосылуды сұрадыңыз, бірақ біз осы байланыс қауіпсіз екенін нақты айта алмаймыз.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Мен не істеуім керек?">
 <!ENTITY certerror.whatShouldIDo.content "Егер осы сайтпен байланыс орнату ешқашан мәселе туғызбаса, 
