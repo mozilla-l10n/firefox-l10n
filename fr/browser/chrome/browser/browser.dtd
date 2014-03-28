@@ -56,7 +56,7 @@ can reach it easily. -->
 
 <!ENTITY listAllTabs.label "Lister tous les onglets">
 
-<!ENTITY tabCmd.label "Nouvel onglet">
+<!ENTITY tabCmd.label "&#xad;Nouvel onglet">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openFileCmd.label "Ouvrir un fichier…">
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "Nouvelle&#xad;fenêtre">
+<!ENTITY newNavigatorCmd.label        "&#xad;Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "u">
 <!ENTITY newPrivateWindow.label     "Nouvelle fenêtre de navigation privée">
