@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "অফলাইনে কাজ (o)">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "আরম্ভকালে জিজ্ঞেস করা হবে না (s)">
-<!ENTITY            autoSelect.accesskey   "s">
+

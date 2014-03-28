@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "অনুমোদন (P)">
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "সাহায্য">
 
 <!ENTITY connection.disconnect "বিচ্ছিন্ন">
@@ -82,6 +86,8 @@
 <!ENTITY projects.valid "কার্যকর">
 <!ENTITY projects.error "ত্রুটি">
 <!ENTITY projects.warning "সতর্কীকরণ">
+
+
 
 <!ENTITY help.title "অ্যাপ ম্যানেজার">
 <!ENTITY help.close "বন্ধ">

@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "লেখা ও পটভূমি">
-<!ENTITY  textColor.label                 "লেখা (T):">
-<!ENTITY  textColor.accesskey             "T">
+
+
 <!ENTITY  backgroundColor.label           "পটভূমি (B):">
 <!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "সিস্টেমের রং ব্যবহার করা হবে (S)">
