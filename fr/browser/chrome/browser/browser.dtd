@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
+<!ENTITY newNavigatorCmd.label        "Nouvelle&#xad;fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "u">
 <!ENTITY newPrivateWindow.label     "Nouvelle fenêtre de navigation privée">
