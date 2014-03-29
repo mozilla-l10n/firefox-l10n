@@ -20,8 +20,8 @@
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!ENTITY options.defaultColorUnit.name "Nombres de colores">
 <!ENTITY options.context.triggersPageRefresh "* Sólo sesión actual, recarga la página">
-<!ENTITY options.enableChrome.label3 "Activar depuración chrome">
-<!ENTITY options.enableChrome.tooltip "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador">
+<!ENTITY options.enableChrome.label4 "Activar depuración de chrome y complementos">
+<!ENTITY options.enableChrome.tooltip2 "Activar esta opción le permitirá usar varias herramientas de desarrolladores en el contexto del navegador y depurar complementos desde el administrador de complementos">
 <!ENTITY options.enableRemote.label3 "Activar depuración remota">
 <!ENTITY options.enableRemote.tooltip "Activar esta opción permitirá a las herramientas de desarrollador depurar instancias remotas de Firefox, como Firefox OS">
 <!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
