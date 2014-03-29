@@ -4,7 +4,7 @@
 
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY modeToolbar.tooltip "Панель режима">
-<!ENTITY entryToolbar.tooltip "Панель элемента Javascript">
+<!ENTITY entryToolbar.tooltip "Панель элемента JavaScript">
 <!ENTITY toolbarsCmd.label "Показать/скрыть">
 <!ENTITY toolbarsCmd.accesskey "П">
 <!ENTITY toolbarMode.label "Режим">
