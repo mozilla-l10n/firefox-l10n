@@ -219,3 +219,9 @@
 <!ENTITY eula.accept                          "Zaakceptuj i zainstaluj…">
 
 <!ENTITY settings.path.button.label           "Przeglądaj…">
+
+<!ENTITY experiment.info.label "Telemetria może od czasu do czasu instalować i uruchamiać eksperymenty.">
+<!ENTITY experiment.info.learnmore "Więcej informacji">
+<!ENTITY experiment.info.learnmore.accesskey "W">
+<!ENTITY experiment.info.changetelemetry "Ustawienia telemetrii">
+<!ENTITY experiment.info.changetelemetry.accesskey "U">
