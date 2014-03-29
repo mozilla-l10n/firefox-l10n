@@ -7,9 +7,6 @@
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 <!ENTITY newevent.from.label "Desde">
 <!ENTITY newevent.to.label "Hasta">
-<!ENTITY newevent.attendees.notify.label "Notificar asistentes">
-<!ENTITY newevent.attendees.notifyundisclosed.label "Mantener asistente oculto en las invitaciones">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Si está activado, los asistentes no se verán los unos a los otros en las invitaciones. Sólo se aplica a las invitaciones de correo.">
 <!ENTITY newevent.status.label "Estado">
 <!ENTITY newevent.status.accesskey "E">
 <!ENTITY newevent.eventStatus.none.label "No especificado">
@@ -26,6 +23,9 @@
 <!ENTITY newevent.status.inprogress.label "En proceso">
 <!ENTITY newevent.status.completed.label "Completado el">
 <!ENTITY newtodo.percentcomplete.label "&#037; completo">
+<!ENTITY event.attendees.notify.label "Notificar a asistentes">
+<!ENTITY event.attendees.notifyundisclosed.label "Separar la invitación por asistente">
+<!ENTITY event.attendees.notifyundisclosed.tooltip "Esta opción envía un mensaje de invitación a cada asistente. Cada invitación sólo contiene un asistente como destinatario, de modo que no se revela al resto de asistentes.">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
 <!ENTITY event.dialog.new.message.key2 "N">
