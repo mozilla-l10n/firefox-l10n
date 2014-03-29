@@ -10,13 +10,13 @@
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Изабери све">
-<!ENTITY  selectall.accesskey   "И">
-<!ENTITY  closeWindow.key       "с">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "З">
 
 <!ENTITY  generalTab            "Опште">
-<!ENTITY  generalTab.accesskey  "O">
+<!ENTITY  generalTab.accesskey  "О">
 <!ENTITY  generalURL            "Адреса:">
-<!ENTITY  generalType           "Врста:">
+<!ENTITY  generalType           "Тип:">
 <!ENTITY  generalMode           "Тип приказа:">
 <!ENTITY  generalSize           "Величина:">
 <!ENTITY  generalReferrer       "Референтни URL:">
@@ -41,13 +41,13 @@
 <!ENTITY  mediaLongdesc         "Дуги опис:">
 <!ENTITY  mediaBlockImage.accesskey "ж">
 <!ENTITY  mediaSaveAs           "Сачувај као…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "с">
+<!ENTITY  mediaSaveAs.accesskey "А">
+<!ENTITY  mediaSaveAs2.accesskey "С">
 <!ENTITY  mediaPreview          "Преглед медија:">
 
-<!ENTITY  feedTab               "Доводе">
-<!ENTITY  feedTab.accesskey     "Д">
-<!ENTITY  feedSubscribe         "Прати">
+<!ENTITY  feedTab               "Извор вести">
+<!ENTITY  feedTab.accesskey     "И">
+<!ENTITY  feedSubscribe         "Претплати се">
 <!ENTITY  feedSubscribe.accesskey "П">
 
 <!ENTITY  permTab               "Дозволе">
@@ -58,23 +58,14 @@
 <!ENTITY  permAllowSession      "Дозволи за ову сесију">
 <!ENTITY  permBlock             "Блокирај">
 <!ENTITY  permissionsFor        "Дозволе за:">
-<!ENTITY  permImage             "Учитавај слике">
-<!ENTITY  permPopup             "Отварај искачуће прозоре">
-<!ENTITY  permCookie            "Постави колачиће">
-<!ENTITY  permNotifications     "Show Notifications">
-<!ENTITY  permInstall           "Инсталација продужетака и тема">
-<!ENTITY  permGeo               "Објави локацију">
-<!ENTITY  permPlugins           "Активирање прикључака">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
-<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
+<!ENTITY  permPlugins           "Активирај прикључке">
 
-<!ENTITY  permIndexedDB              "Одржавај складиште ван мреже">
 <!ENTITY  permClearStorage           "Очисти складиште">
-<!ENTITY  permClearStorage.accesskey "О">
+<!ENTITY  permClearStorage.accesskey "ч">
 
 <!ENTITY  securityTab           "Безбедност">
 <!ENTITY  securityTab.accesskey "Б">
-<!ENTITY  securityHeader        "Подаци о безбедности ове стране">
+<!ENTITY  securityHeader        "Подаци о безбедности ове странице">
 <!ENTITY  securityView.certView "Преглед сертификата">
 <!ENTITY  securityView.accesskey "Н">
 <!ENTITY  securityView.unknown   "Непознат">
@@ -87,10 +78,10 @@
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историјат">
 <!ENTITY  securityView.privacy.history                  "Да ли сте раније посетили овај сајт?">
-<!ENTITY  securityView.privacy.cookies                  "Да ли овај веб сајт чува податке („колачиће“) на мом рачунару?">
+<!ENTITY  securityView.privacy.cookies                  "Да ли овај веб сајт чува податке (колачиће) на мом рачунару?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед колачића">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "П">
-<!ENTITY  securityView.privacy.passwords                "Да ли чувате неку лозинку за овај сајт?">
+<!ENTITY  securityView.privacy.passwords                "Да ли чувам неку лозинку за овај сајт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед сачуваних лозинки">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "с">
 

@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "Безбедан модалитет за &brandShortName;">
+<!ENTITY safeModeDialog.title         "&brandShortName; безбедни режим">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
-<!ENTITY resetProfile.label           "Reset &brandShortName;">
+<!ENTITY startSafeMode.label          "Покрени у безбедном режиму">
+<!ENTITY resetProfile.label           "Ресетуј &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
-<!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY safeModeDescription3.label   "Безбедни режим је специјалан режим &brandShortName; који се користи да би се решили проблеми.">
+<!ENTITY safeModeDescription4.label   "Ваши додаци и прилагођена подешавања ће привремено бити онемогућена.">
 
-<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY resetProfileInstead.label    "Такође можете ресетовати &brandShortName; ако желите да кренете испочетка.">
+
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
-<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
-<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; се неочекивано затворио при покретању. Ово може бири проузраковано од стране додатака или других проблема. Токође можете да покушате да решите проблем тако што ће те ресетовати &brandShortName; на његово подразумевано стање или решавајте проблеме у безбедном режиму.">
+<!ENTITY resetProfileFooter.label       "Све остало ће се вратити на фабричка подешавања.">
+<!ENTITY safeModeInstead.label          "Ако не желите ово, можете наставити у безбедном режиму да само решавате проблеме са додацима и прилагођеним подешавањима који ће привремено бити онемогућена.">
