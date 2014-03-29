@@ -8,7 +8,7 @@
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Dejar de tratar como caja negra este código fuente">
 <!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
 <!ENTITY debuggerUI.sources.blackBoxTooltip "Alternar modo de caja negra">
-<!ENTITY debuggerUI.sources.prettyPrint "Embellecer el código fuente">
+<!ENTITY debuggerUI.sources.prettyPrint "Formatear código">
 <!ENTITY debuggerUI.autoPrettyPrint "Formatear automáticamente los códigos fuente minimizados.">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "n">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar todos los puntos de ruptura">
