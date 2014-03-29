@@ -28,11 +28,8 @@
 
 <!ENTITY options.context.triggersPageRefresh "* Tylko aktualna sesja, przeładowuje stronę">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
-  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3    "Włącz debugowanie chrome">
-<!ENTITY options.enableChrome.tooltip   "Włączenie tej opcji pozwoli na używanie wielu narzędzi dla programistów w kontekście przeglądarki">
+<!ENTITY options.enableChrome.label4 "Włącz debugowanie chrome i dodatków">
+<!ENTITY options.enableChrome.tooltip2 "Włączenie tej opcji pozwoli na używanie wielu narzędzi dla programistów w kontekście przeglądarki i debugowanie dodatków z menedżera dodatków">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
