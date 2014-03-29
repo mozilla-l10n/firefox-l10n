@@ -160,3 +160,8 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Aceptar e instalar…">
 <!ENTITY settings.path.button.label "Examinar…">
+<!ENTITY experiment.info.label "¿Qué es esto? Telemetry puede instalar y ejecutar experimentos de vez en cuando.">
+<!ENTITY experiment.info.learnmore "Saber más">
+<!ENTITY experiment.info.learnmore.accesskey "S">
+<!ENTITY experiment.info.changetelemetry "Configuración de Telemetry">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
