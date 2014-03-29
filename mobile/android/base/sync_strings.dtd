@@ -116,6 +116,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ваша учетная запись должна быть подтверждена. Нажмите, чтобы снова отправить письмо для подтверждения.">
 <!ENTITY fxaccount_status_needs_credentials "Не удалось соединиться. Нажмите для входа.">
 <!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Синхронизация настроена, но автоматически не запущена. Установите флажок «Автосинхронизация» в меню «Настройки &gt; Использование данных» Android.">
+<!ENTITY fxaccount_status_needs_account_enabled "Синхронизация настроена, но автоматически не запущена. Нажмите, чтобы начать синхронизацию.">
 <!ENTITY fxaccount_status_bookmarks "Закладки">
 <!ENTITY fxaccount_status_history "История">
 <!ENTITY fxaccount_status_passwords "Пароли">
