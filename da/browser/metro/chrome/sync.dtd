@@ -16,8 +16,8 @@
 <!ENTITY sync.flyout.setup.manual.label_2      "Jeg er ikke i nærheden af min computer…">
 <!ENTITY sync.flyout.setup.description3        "Bemærk:">
 <!ENTITY sync.flyout.setup.description4_2      "For at finde &quot;Tilføj en enhed&quot; skal du">
-<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Åbne &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og derefter vælge &quot;&syncBrand.shortName.label;&quot;">
-<!ENTITY sync.flyout.setup.description6_2      "[Android] Flere &gt; indstillinger &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description5_2      "[Computer] Åbn &quot;Indstillinger&quot; eller &quot;Præferencer&quot; og vælg derefter &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Mere &gt; Indstillinger &gt; &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up manually -->
 <!ENTITY sync.flyout.manualsetup.description1_2  "Indtast din &syncBrand.shortName.label;-kontoinformation og den gendannelsesnøgle, der er blevet oprettet af din computer">
