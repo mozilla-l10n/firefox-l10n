@@ -4,30 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Uus sündmus…">
-<!ENTITY event.new.event.key                    "s">
 <!ENTITY event.new.event.accesskey              "s">
 
 <!ENTITY event.new.task                         "Uus ülesanne…">
-<!ENTITY event.new.task.key                     "k">
 <!ENTITY event.new.task.accesskey               "n">
 
-
-<!ENTITY calendar.new.server.label              "Uus kalender…">
-<!ENTITY calendar.new.server.key                "k">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Prindi…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "P">
-
 <!ENTITY calendar.import.label                  "Import…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Kalendri eksport…">
 <!ENTITY calendar.export.accesskey              "e">
-<!ENTITY calendar.export.selection.label        "Valiku eksport…">
-<!ENTITY calendar.export.selection.accesskey    "u">
 
 <!ENTITY calendar.publish.label                 "Avaldamine…">
 <!ENTITY calendar.publish.accesskey             "A">
@@ -43,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Näita kalendris ülesandeid">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "N">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Mitme nädala vaate pikkus">
-<!ENTITY calendar.menu.numberofweeks.2          "Kaks nädalat">
-<!ENTITY calendar.menu.numberofweeks.3          "Kolm nädalat">
-<!ENTITY calendar.menu.numberofweeks.4          "Neli nädalat">
-<!ENTITY calendar.menu.numberofweeks.5          "Viis nädalat">
-<!ENTITY calendar.menu.numberofweeks.6          "Kuus nädalat">
 
 <!ENTITY goTodayCmd.label                       "Täna">
 <!ENTITY goTodayCmd.accesskey                   "T">
