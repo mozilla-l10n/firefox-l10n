@@ -17,7 +17,7 @@
 
 
 <!ENTITY  rememberHistory2.label      "Atcerēties manu pārlūkošanas un lejupielāžu vēsturi">
-<!ENTITY  rememberHistory2.accesskey  "l">
+<!ENTITY  rememberHistory2.accesskey  "c">
 
 <!ENTITY tracking.label                 "Uzskaite internetā">
 <!ENTITY dntTrackingNopref.label2        "Neteikt lapām neko par maniem uzskaites iestatījumiem">
@@ -70,7 +70,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vienmēr izmantot privātās pārlūkošanas režīmu">
-<!ENTITY  privateBrowsingPermanent2.accesskey "v">
+<!ENTITY  privateBrowsingPermanent2.accesskey "z">
 
 <!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
 <!ENTITY  locbar.pre.accessKey          "A">
