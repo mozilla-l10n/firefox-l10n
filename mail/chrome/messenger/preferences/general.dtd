@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Standertynstelling tebeksette">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY bounceSystemDockIcon.label       "It systeemfekpiktogram animearje">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Wizigje eigenskippen fan it programmasymboal">
+<!ENTITY dockOptions.label                "Opsjes programmasymboal…">
+<!ENTITY dockOptions.accesskey            "p">
 
 <!ENTITY newMessagesArrive.label          "As nije berjochten oankomme:">
 <!ENTITY playSound.label                  "In lûd ôfspylje">

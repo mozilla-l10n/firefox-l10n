@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Feeds eksportearje mei mapstruktuer; Ctrl+klikke of Ctrl+Enter om feeds as in list te eksportearjen">
 
 <!ENTITY cmd.close.commandKey			"w">
+<!ENTITY button.close.label          "Slute">
