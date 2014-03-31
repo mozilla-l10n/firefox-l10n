@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Oant" >
 <!ENTITY newevent.attendees.notify.label	"Dielnimmers ynljochtsje">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Hâld dielnimmers ûnsichtber yn útnoegingen">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "As ynskeakele, sille dielnimmers net útnoegingen fan oaren sjen. Allinnich by e-mailútnoegingen.">
+
 <!ENTITY newevent.status.label              "Steat" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.eventStatus.none.label         "Net spesifisearre" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
 <!ENTITY  event.menu.options.attendees.accesskey              "D">
-<!ENTITY  event.menu.options.spellcheck.label                 "Stavering kontrolearje…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "k">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Stavering kontrolearje tiidens it typen">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
-<!ENTITY  event.menu.options.link.accesskey                   "K">
 <!ENTITY  event.menu.options.timezone2.label                   "Tiidsoanes toane">
 <!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Bewarje en slute">
 <!ENTITY  event.toolbar.delete.label                      "Fuortsmite">
 <!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
-<!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Bewarje en slute">
 <!ENTITY  event.toolbar.delete.tooltip                    "Fuortsmite">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Dielnimmers útnoegje">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Staveringskontrole">
 <!ENTITY  event.toolbar.attachments.tooltip               "Bylagen taheakje">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Privacy wizigje">
 <!ENTITY  event.toolbar.priority.tooltip                  "Priority wizigje">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategory:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Foegje in nije kategory ta" >
-<!ENTITY event.categories.textbox.accesskey               "F">
 <!ENTITY event.calendar.label                             "Aginda:" >
 <!ENTITY event.calendar.accesskey                         "A">
 <!ENTITY event.attendees.label                            "Dielnimmers:" >
@@ -380,5 +374,4 @@
 <!ENTITY read.only.reminder.label        "Warskôging:">
 <!ENTITY read.only.attendees.label       "Dielnimmers">
 <!ENTITY read.only.description.label     "Beskriuwing">
-<!ENTITY read.only.documents.label       "Dokuminten">
 <!ENTITY read.only.link.label            "Byhearrende keppeling">
