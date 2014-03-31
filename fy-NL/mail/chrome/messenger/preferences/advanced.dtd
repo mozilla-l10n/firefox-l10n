@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "Toan fernijingsskiednis">
 <!ENTITY updateHistory.accesskey         "s">
-<!ENTITY updateOthers.label              "Automatysk fernije:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY useService.label                "In achtergrûntsjinst brûke om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
