@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Berjochten">
 <!ENTITY consoleCodeEval.label     "Koade:">
 <!ENTITY consoleClear.label        "Wiskje">
+<!ENTITY consoleCopyAll.label      "Kopiearje">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Boarnebestân:">
 <!ENTITY consoleErrLine.label      "Rigel:">
 <!ENTITY consoleErrColumn.label    "kolom:">
+<!ENTITY consoleFollowCheckbox.label "Folgje">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Knippe">
