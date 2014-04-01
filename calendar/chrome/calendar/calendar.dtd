@@ -6,9 +6,9 @@
 <!ENTITY calendar.calendar.label "Dagatal">
 <!ENTITY calendar.calendar.accesskey "D">
 <!ENTITY calendar.newevent.button.tooltip "Búa til nýjan atburð">
-<!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verk">
-<!ENTITY calendar.unifinder.todoitems.label "Verk">
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Sýna loknum verkum">
+<!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verkefni">
+<!ENTITY calendar.unifinder.todoitems.label "Verkefni">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Sýna verkefni sem er lokið">
 <!ENTITY calendar.today.button.label "Í dag">
 <!ENTITY calendar.tomorrow.button.label "Á morgun">
 <!ENTITY calendar.soon.button.label "Bráðlega">
@@ -76,7 +76,7 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip "Einn mánuð áfram">
 <!ENTITY calendar.navigation.prevmonth.tooltip "Einn mánuð til baka">
 <!ENTITY calendar.newevent.button.label "Nýr atburður">
-<!ENTITY calendar.newtask.button.label "Nýtt verk">
+<!ENTITY calendar.newtask.button.label "Nýtt verkefni">
 <!ENTITY calendar.print.button.label "Prenta">
 <!ENTITY calendar.print.button.accesskey "P">
 <!ENTITY calendar.day.button.label "Dagur">
@@ -85,9 +85,9 @@
 <!ENTITY calendar.multiweek.button.label "Margar vikur">
 <!ENTITY calendar.onlyworkday.checkbox.label "Aðeins vinnudagar">
 <!ENTITY calendar.onlyworkday.checkbox.accesskey "A">
-<!ENTITY calendar.displaytodos.checkbox.label "Verk í sýn">
+<!ENTITY calendar.displaytodos.checkbox.label "Verkefni í sýn">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "V">
-<!ENTITY calendar.completedtasks.checkbox.label "Sýna loknum verkum">
+<!ENTITY calendar.completedtasks.checkbox.label "Sýna verkefni sem er lokið">
 <!ENTITY calendar.completedtasks.checkbox.accesskey "S">
 <!ENTITY calendar.orientation.label "Snúa sýn">
 <!ENTITY calendar.orientation.accesskey "S">
@@ -100,20 +100,20 @@
 <!ENTITY calendar.task.filter.today.accesskey "d">
 <!ENTITY calendar.task.filter.next7days.label "Næstu sjö dagar">
 <!ENTITY calendar.task.filter.next7days.accesskey "N">
-<!ENTITY calendar.task.filter.notstarted.label "Ekki byrjuð verk">
+<!ENTITY calendar.task.filter.notstarted.label "Verkefni sem eru ekki byrjuð">
 <!ENTITY calendar.task.filter.notstarted.accesskey "b">
-<!ENTITY calendar.task.filter.overdue.label "Verk yfir tíma">
+<!ENTITY calendar.task.filter.overdue.label "Verkefni á eftir áætlun">
 <!ENTITY calendar.task.filter.overdue.accesskey "y">
-<!ENTITY calendar.task.filter.completed.label "Loknum verkum">
+<!ENTITY calendar.task.filter.completed.label "Lokin verkefni">
 <!ENTITY calendar.task.filter.completed.accesskey "L">
-<!ENTITY calendar.task.filter.open.label "Ólokin verk">
+<!ENTITY calendar.task.filter.open.label "Ólokin verkefni">
 <!ENTITY calendar.task.filter.open.accesskey "l">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label "Núverandi verk">
+<!ENTITY calendar.task.filter.current.label "Núverandi verkefni">
 <!ENTITY calendar.task.filter.current.accesskey "v">
 <!ENTITY calendar.task-details.title.label "titli">
 <!ENTITY calendar.task-details.organizer.label "frá">
@@ -127,22 +127,22 @@
 <!ENTITY calendar.task-details.attachments.label "viðhengi">
 <!ENTITY calendar.task-details.start.label "byrjunardagsetning">
 <!ENTITY calendar.task-details.due.label "lokadagsetning">
-<!ENTITY calendar.task.category.button.tooltip "Flokka verk">
-<!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verk sem lokið">
+<!ENTITY calendar.task.category.button.tooltip "Flokka verkefni">
+<!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verkefni sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base "Sía verk… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base "Sía verkefni… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label "Opna">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "O">
-<!ENTITY calendar.context.modifyorviewtask.label "Opna verk…">
+<!ENTITY calendar.context.modifyorviewtask.label "Opna verkefni…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey "O">
 <!ENTITY calendar.context.newevent.label "Nýr atburður…">
 <!ENTITY calendar.context.newevent.accesskey "N">
-<!ENTITY calendar.context.newtodo.label "Nýtt verk…">
+<!ENTITY calendar.context.newtodo.label "Nýtt verkefni…">
 <!ENTITY calendar.context.newtodo.accesskey "v">
-<!ENTITY calendar.context.deletetask.label "Eyða verki">
+<!ENTITY calendar.context.deletetask.label "Eyða verkiefni">
 <!ENTITY calendar.context.deletetask.accesskey "y">
 <!ENTITY calendar.context.deleteevent.label "Eyða atburði">
 <!ENTITY calendar.context.deleteevent.accesskey "a">
@@ -163,7 +163,7 @@
 <!ENTITY calendar.context.progress.accesskey "F">
 <!ENTITY calendar.context.priority.label "Forgangur">
 <!ENTITY calendar.context.priority.accesskey "o">
-<!ENTITY calendar.context.postpone.label "Fresta verki">
+<!ENTITY calendar.context.postpone.label "Fresta verkefni">
 <!ENTITY calendar.context.postpone.accesskey "s">
 <!ENTITY percnt "&#38;#37;">
 <!--=percent sign-->
@@ -222,13 +222,13 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey "A">
 <!ENTITY calendar.context.convertmenu.message.label "Skilaboð…">
 <!ENTITY calendar.context.convertmenu.message.accesskey "S">
-<!ENTITY calendar.context.convertmenu.task.label "Verk…">
+<!ENTITY calendar.context.convertmenu.task.label "Verkefni…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "V">
 <!ENTITY calendar.tasks.view.minimonth.label "Lítill mánuður">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "m">
 <!ENTITY calendar.tasks.view.calendarlist.label "Dagatala listi">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "l">
-<!ENTITY calendar.tasks.view.filtertasks.label "Sía verk">
+<!ENTITY calendar.tasks.view.filtertasks.label "Sía verkefni">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey "S">
 <!-- Calendar Alarm Dialog -->
 
@@ -286,16 +286,16 @@
 <!ENTITY calendar.print.layout.label "Útlit:">
 <!ENTITY calendar.print.range.label "Hvað á að prenta">
 <!ENTITY calendar.print.currentView2.label "Núverandi sýn">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Valdir atburðir/verk">
-<!ENTITY calendar.print.tasks.label "Verk">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valdir atburðir/verkefni">
+<!ENTITY calendar.print.tasks.label "Verkefni">
 <!ENTITY calendar.print.events.label "Atburðir">
 <!ENTITY calendar.print.custom.label "Tímabil:">
 <!ENTITY calendar.print.from.label "Frá:">
 <!ENTITY calendar.print.to.label "Til:">
 <!ENTITY calendar.print.settingsGroup.label "Prent stillingar">
 <!ENTITY calendar.print.optionsGroup.label "Valkostir">
-<!ENTITY calendar.print.taskswithnoduedate.label "Verk með enga lokadagsetningu">
-<!ENTITY calendar.print.completedtasks.label "Loknum verkum">
+<!ENTITY calendar.print.taskswithnoduedate.label "Verkefni með enga lokadagsetningu">
+<!ENTITY calendar.print.completedtasks.label "Lokin verkefni">
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Upplýsingar…">
 <!ENTITY calendar.error.code "Villunúmer:">
@@ -303,6 +303,6 @@
 <!ENTITY calendar.error.title "Villa kom upp">
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button "Bæta við sem nýjum atburð">
-<!ENTITY calendar.extract.task.button "Bæta við verki">
+<!ENTITY calendar.extract.task.button "Bæta við verkefni">
 <!ENTITY calendar.extract.event.button.tooltip "Ná í dagsetningar úr póstinum og bæta við í dagatalið sem atburð">
-<!ENTITY calendar.extract.task.button.tooltip "Ná í dagsetningar úr póstinum og bæta við í dagatalið sem verki">
+<!ENTITY calendar.extract.task.button.tooltip "Ná í dagsetningar úr póstinum og bæta við í dagatalið sem verkefni">

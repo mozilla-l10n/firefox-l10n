@@ -23,13 +23,13 @@
 <!ENTITY pref.calendar.alarms.defaults.label "Sjálfgildi áminninga">
 <!ENTITY pref.defalarm4events.label "Sjálfgildi áminninga fyrir atburði:">
 <!ENTITY pref.defalarm4events.accesskey "a">
-<!ENTITY pref.defalarm4todos.label "Sjálfgildi áminninga fyrir verk:">
+<!ENTITY pref.defalarm4todos.label "Sjálfgildi áminninga fyrir verkefni:">
 <!ENTITY pref.defalarm4todos.accesskey "v">
 <!ENTITY pref.alarm.on "Virkt">
 <!ENTITY pref.alarm.off "Óvirkt">
 <!ENTITY pref.defalarmlen4events.label "Sjálfgefinn tími fyrir atburð áður en áminning fer í gang:">
 <!ENTITY pref.defalarmlen4events.accesskey "t">
-<!ENTITY pref.defalarmlen4todos.label "Sjálfgefinn tími fyrir verk áður en áminning fer í gang:">
+<!ENTITY pref.defalarmlen4todos.label "Sjálfgefinn tími fyrir verkefni áður en áminning fer í gang:">
 <!ENTITY pref.defalarmlen4todos.accesskey "f">
 <!ENTITY pref.defaultemail.label "Sjálfgefið póstfang til að senda áminngar á:">
 <!ENTITY pref.defaulttext.label "Sjálfgefinn texti fyrir áminningar:">
