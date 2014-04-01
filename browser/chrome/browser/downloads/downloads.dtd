@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
+<!ENTITY downloads.title                  "Преузимања">
 
-<!ENTITY downloads.title                  "Пријеми">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -22,8 +23,8 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-
 <!ENTITY downloadDetails.width            "50ch">
+
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -37,7 +38,6 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Паузирај">
@@ -53,39 +53,39 @@
      -->
 <!ENTITY cmd.show.label                   "Прикажи">
 <!ENTITY cmd.show.accesskey               "П">
-<!ENTITY cmd.showMac.label                "Show In Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.goToDownloadPage.label       "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Умножи везу на пријем">
-<!ENTITY cmd.copyDownloadLink.accesskey   "У">
-<!ENTITY cmd.removeFromHistory.label      "Remove From History">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.showMac.label                "Прикажи у Finder">
+<!ENTITY cmd.showMac.accesskey            "П">
+<!ENTITY cmd.retry.label                  "Покушај поново">
+<!ENTITY cmd.goToDownloadPage.label       "Иди на станицу за преузимања">
+<!ENTITY cmd.goToDownloadPage.accesskey   "И">
+<!ENTITY cmd.copyDownloadLink.label       "Копирај везу на пријем">
+<!ENTITY cmd.copyDownloadLink.accesskey   "К">
+<!ENTITY cmd.removeFromHistory.label      "Уклони из историјата">
+<!ENTITY cmd.removeFromHistory.accesskey  "У">
+<!ENTITY cmd.clearList.label              "Обриши листу">
+<!ENTITY cmd.clearList.accesskey          "О">
+<!ENTITY cmd.clearDownloads.label         "Обриши преузимања">
+<!ENTITY cmd.clearDownloads.accesskey     "р">
+
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+<!ENTITY downloadsHistory.label           "Прикажи сва преузимања">
+<!ENTITY downloadsHistory.accesskey       "П">
 
-<!ENTITY downloadsHistory.label           "Show All Downloads">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY clearDownloadsButton.label       "Обриши преузимања">
+<!ENTITY clearDownloadsButton.tooltip     "Брише завршена, отказана и неуспела преузимања">
 
-<!ENTITY clearDownloadsButton.label       "Clear Downloads">
-<!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
+<!ENTITY downloadsListEmpty.label         "Нема преузимања.">
 
-<!ENTITY downloadsListEmpty.label         "There are no downloads.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY downloadsListNoMatch.label       "Није пронађено преузимање које се подудара.">
