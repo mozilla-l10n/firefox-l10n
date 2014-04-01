@@ -46,5 +46,6 @@
 <!ENTITY options.stylesheetAutocompletion.label "Completamento automatico CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Completa automaticamente durante la scrittura nell’Editor stili le proprietà CSS, i valori e i selettori">
 <!ENTITY options.profiler.label "Profiler JavaScript">
+<!ENTITY options.commonPrefs.label "Preferenze comuni">
 <!ENTITY options.showPlatformData.label "Visualizza dati piattaforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Attivando questa opzione i rapporti del Profiler JavaScript conterranno i simboli della piattaforma Gecko">
