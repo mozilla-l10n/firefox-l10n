@@ -14,9 +14,7 @@
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
 
-<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
-  -  the heading of the advanced settings group in the options panel. -->
-<!ENTITY options.context.advancedSettings "Ustawienia zaawansowane">
+<!ENTITY options.context.advancedSettings "Zaawansowane">
 
 <!ENTITY options.context.inspector "Inspektor">
 <!ENTITY options.defaultColorUnit.label "Domyślny model przestrzeni barw">
@@ -62,9 +60,6 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Konsola WWW">
 
-<!ENTITY options.enablePersistentLogging.label "Trwałe dzienniki">
-<!ENTITY options.enablePersistentLogging.tooltip "Po włączeniu tej opcji konsola nie będzie czyścić wyjścia po przejściu do kolejnej strony">
-
 <!ENTITY options.timestampMessages.label "Znaczniki czasy">
 <!ENTITY options.timestampMessages.tooltip "Po włączeniu tej opcji komendy i ich wyjście w konsoli WWW będą wyświetlane obok znaczników czasu">
 
@@ -75,6 +70,10 @@
 <!ENTITY options.stylesheetAutocompletion.tooltip "Podczas pisania uzupełniaj automatycznie wartości, własności i selektory CSS w edytorze stylów">
 
 <!ENTITY options.profiler.label "Profiler JavaScript">
+
+<!ENTITY options.commonPrefs.label "Ogólne">
+<!ENTITY options.enablePersistentLogging.label "Trwałe dzienniki">
+<!ENTITY options.enablePersistentLogging.tooltip "Po włączeniu tej opcji konsola www oraz monitor sieci nie będą czyścić wyjścia po przejściu do kolejnej strony">
 
 <!ENTITY options.showPlatformData.label "Wyświetlaj informacje platformy Gecko">
 <!ENTITY options.showPlatformData.tooltip "Po włączeniu tej opcji Profiler JavaScript będzie raportował symbole platformy Gecko">
