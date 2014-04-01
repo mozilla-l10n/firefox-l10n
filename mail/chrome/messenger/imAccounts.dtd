@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "No hay cuentas configuradas">
-<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY accountManager.noAccount.description "Clic en el botón &accountManager.newAccount.label; para permitir que &brandShortName; lo guíe a través del procesdo de configurar una.">
 <!ENTITY account.autoSignOn.label     "Sign-on at startup">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Conectar">
@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Mover abajo">
 <!ENTITY account.cancelReconnection.label         "Cancelar reconexión">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.copyDebugLog.label     "Copiar registro de depuración">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
 <!ENTITY account.disconnected         "No conectado">

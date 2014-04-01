@@ -173,6 +173,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Tocá para reenviar el correo electrónico de verificación.'>
 <!ENTITY fxaccount_status_needs_credentials 'No se puede conectar. Tocá para ingresar.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Necesitás actualizar &brandShortName; para ingresar.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; Está configurado, pero no se está sincronizando automáticamente. Habilitá “Auto-sync data” en Ajustes de Android &gt; Uso de datos.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; está configurado, pero no se está sincronizando automáticamente. Golpeá para comenzar a sincronizar.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords 'Contraseñas'>
