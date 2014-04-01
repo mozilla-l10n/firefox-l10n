@@ -46,7 +46,7 @@
 <!ENTITY event.menu.item.new.accesskey "N">
 <!ENTITY event.menu.item.new.event.label "Atburður">
 <!ENTITY event.menu.item.new.event.accesskey "A">
-<!ENTITY event.menu.item.new.task.label "Verk">
+<!ENTITY event.menu.item.new.task.label "Verkefni">
 <!ENTITY event.menu.item.new.task.accesskey "V">
 <!ENTITY event.menu.item.new.message.label "Skilaboð">
 <!ENTITY event.menu.item.new.message.accesskey "S">

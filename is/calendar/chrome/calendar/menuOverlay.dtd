@@ -5,7 +5,7 @@
 <!-- Event Menu -->
 <!ENTITY event.new.event "Nýr atburður…">
 <!ENTITY event.new.event.accesskey "N">
-<!ENTITY event.new.task "Nýtt verk…">
+<!ENTITY event.new.task "Nýtt verkefni…">
 <!ENTITY event.new.task.accesskey "k">
 <!ENTITY calendar.import.label "Flytja inn…">
 <!ENTITY calendar.import.accesskey "F">
@@ -19,7 +19,7 @@
 <!ENTITY calendar.menu.customize.accesskey "r">
 <!ENTITY showUnifinderCmd.label "Finna atburði">
 <!ENTITY showUnifinderCmd.accesskey "F">
-<!ENTITY calendar.displaytodos.checkbox.label "Sýna verk í dagatali">
+<!ENTITY calendar.displaytodos.checkbox.label "Sýna verkefni í dagatali">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "S">
 <!ENTITY goTodayCmd.label "Í dag">
 <!ENTITY goTodayCmd.accesskey "d">

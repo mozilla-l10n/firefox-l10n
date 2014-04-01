@@ -4,7 +4,7 @@
 
 <!ENTITY lightning.toolbar.calendar.name "Dagatal verkfærarein">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "D">
-<!ENTITY lightning.toolbar.task.name "Verk verkfærarein">
+<!ENTITY lightning.toolbar.task.name "Verkefna verkfærarein">
 <!ENTITY lightning.toolbar.task.name.accesskey "V">
 <!ENTITY lightning.toolbar.sync.label "Samstilla">
 <!ENTITY lightning.toolbar.delete.label "Eyða">
@@ -15,12 +15,12 @@
 <!ENTITY lightning.toolbar.calendar.label "Dagatal">
 <!ENTITY lightning.toolbar.calendar.tooltip "Skipta yfir í dagatalsflipa">
 <!ENTITY lightning.toolbar.calendar.accesskey "D">
-<!ENTITY lightning.toolbar.task.label "Verk">
-<!ENTITY lightning.toolbar.task.tooltip "Skipta yfir í verkflipa">
+<!ENTITY lightning.toolbar.task.label "Verkefni">
+<!ENTITY lightning.toolbar.task.tooltip "Skipta yfir í verkefnaflipa">
 <!ENTITY lightning.toolbar.task.accesskey "V">
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label "Atburður">
-<!ENTITY lightning.toolbar.newtask.label "Verk">
+<!ENTITY lightning.toolbar.newtask.label "Verkefni">
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Dagur">
 <!ENTITY lightning.toolbar.day.accesskey "D">
