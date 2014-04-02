@@ -4,7 +4,7 @@
 
 <!ENTITY menuBar.tooltip       "Barra de menú">
 <!ENTITY modeToolbar.tooltip   "Barra de modo">
-<!ENTITY entryToolbar.tooltip  "Barra de entrada de Javascript">
+<!ENTITY entryToolbar.tooltip  "Barra de entrada de JavaScript">
 <!ENTITY toolbarsCmd.label     "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "s">
 <!ENTITY toolbarMode.label     "Modo">
