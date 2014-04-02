@@ -12,7 +12,7 @@
 <!ENTITY fileMenu.accesskey                 "A">
 
 <!ENTITY quitApplicationCmdWin.label        "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmdWin.accesskey    "S">
 <!ENTITY quitApplicationCmd.label           "Quitar">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
@@ -29,10 +29,10 @@
 <!ENTITY editMenu.label                     "Editar">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "Deshacer">
-<!ENTITY undoCmd.key                        "h">
-<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "D">
 <!ENTITY redoCmd.label                      "Rehacer">
-<!ENTITY redoCmd.key                        "h">
+<!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
 <!ENTITY cutCmd.label                       "Cortar">
 <!ENTITY cutCmd.key                         "X">
@@ -45,7 +45,7 @@
 <!ENTITY pasteCmd.accesskey                 "P">
 <!ENTITY deleteCmd.label                    "Eliminar">
 <!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "m">
+<!ENTITY deleteCmd.accesskey                "i">
 <!ENTITY selectAllCmd.label                 "Seleccionar todo">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "a">
