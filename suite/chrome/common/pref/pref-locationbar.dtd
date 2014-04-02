@@ -22,7 +22,7 @@
 -->
 <!ENTITY autoCompleteMatch.label               "Coincidir">
 <!ENTITY autoCompleteMatch.accesskey           "C">
-<!ENTITY autoCompleteMatchAnywhere             "Cualquier lugar de la URl o el título">
+<!ENTITY autoCompleteMatchAnywhere             "Cualquier lugar de la URL o el título">
 <!ENTITY autoCompleteMatchWordsFirst           "Cualquier lugar pero preferiblemente en los límites de la palabra">
 <!ENTITY autoCompleteMatchWords                "Sólo en los límites de la palabra">
 <!ENTITY autoCompleteMatchStart                "Sólo al principio de la URL o el título">
