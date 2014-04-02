@@ -85,6 +85,7 @@
 <!ENTITY calendar.newevent.button.label         "Nij barren" >
 <!ENTITY calendar.newtask.button.label          "Nije taak" >
 <!ENTITY calendar.print.button.label            "Ofdrukke" >
+<!ENTITY calendar.print.button.accesskey        "O">
 
 <!ENTITY calendar.day.button.label              "Dei" >
 <!ENTITY calendar.week.button.label             "Wike" >
