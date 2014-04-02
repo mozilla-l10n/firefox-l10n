@@ -6,11 +6,11 @@
 <!ENTITY aboutHeader.title          "Acerca de">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "Por &vendorShortName;">
-<!ENTITY aboutHeader.policy.label   "Lee las &brandShortName; políticas de privacidad en linea">
+<!ENTITY aboutHeader.policy.label   "Lee las &brandShortName; políticas de privacidad en línea">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Comprobando actualizaciones…">
+<!ENTITY update.checkingForUpdates  "Buscando actualizaciones…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Verificando compatibilidad de complemento…">
+<!ENTITY update.checkingAddonCompat "Verificando compatibilidad del complemento…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -23,8 +23,8 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Actualización fallida. ">
-<!ENTITY update.failed.linkText     "Descarga la versión más reciente">
+<!ENTITY update.failed.start        "Actualización fallida. ">
+<!ENTITY update.failed.linkText     "Descargar la versión más reciente">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -32,7 +32,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Actualizaciones disponibles en ">
-<!ENTITY update.manual.end          "Actualizaciones disponibles en">
+<!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -40,7 +40,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Descargando actualización — ">
-<!ENTITY update.downloading.end     "Descargando actualización —">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicando actualización…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
