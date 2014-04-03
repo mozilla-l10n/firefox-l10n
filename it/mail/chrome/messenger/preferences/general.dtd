@@ -9,8 +9,9 @@
 <!ENTITY location1.accesskey "n">
 <!ENTITY useDefault.label "Ripristina predefinita">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY bounceSystemDockIcon.label "Anima l'icona nel dock">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY changeDockIconOptions.label "Modifica le preferenze per l'icona dell'app">
+<!ENTITY dockOptions.label "Opzioni icona applicazione…">
+<!ENTITY dockOptions.accesskey "n">
 <!ENTITY newMessagesArrive.label "All'arrivo di un messaggio:">
 <!ENTITY playSound.label "Riproduci un suono">
 <!ENTITY playSound1.accesskey "o">

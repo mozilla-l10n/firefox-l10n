@@ -748,3 +748,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutto">
+<!ENTITY dockOptions.label "Opzioni icona applicazione…">
