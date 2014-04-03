@@ -9,7 +9,7 @@
 
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "Para" >
-+<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
+<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY newevent.attendees.notify.label               "Notificar a los asistentes">
@@ -142,7 +142,6 @@
 <!ENTITY  event.toolbar.save.label                        "Guardar y cerrar">
 <!ENTITY  event.toolbar.delete.label                      "Borrar">
 <!ENTITY  event.toolbar.attendees.label                   "Invitar participantes">
-<!ENTITY  event.toolbar.spellcheck.label                  "Ortografía">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidad">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Guardar y cerrar">
@@ -377,6 +376,5 @@
 <!ENTITY read.only.reminder.label        "Recordatorio:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Descripción">
-<!ENTITY read.only.documents.label       "Documentos">
 <!ENTITY read.only.link.label            "Enlace relacionado">
 
