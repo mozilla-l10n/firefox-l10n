@@ -26,7 +26,7 @@
 <!ENTITY community.end3             " que trabaja en conjunto para mantener la web abierta, pública y accesible para todos, sin restricción alguna.">
 
 <!ENTITY contribute.start           "¿Suena interesante? ">
-<!ENTITY contribute.getInvolvedLink "¡Participe!">
+<!ENTITY contribute.getInvolvedLink "¡Participa!">
 <!ENTITY contribute.end             "">
 
 <!ENTITY bottomLinks.license        "Información de licencia">
@@ -35,7 +35,7 @@
 
 <!ENTITY update.checkingForUpdates  "Buscando actualizaciones…">
 <!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
-<!ENTITY update.adminDisabled       "Actualizaciones deshabilitadas por el administrador de sistemas">
+<!ENTITY update.adminDisabled       "Actualizaciones deshabilitadas por el administrador del sistema">
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; esta siendo actualizado por otra instancia">
 <!ENTITY update.failed.start        "Actualización fallida. ">
 <!ENTITY update.failed.linkText     "Bajar la última versión">
@@ -49,5 +49,5 @@
 <!ENTITY update.downloading.end     "">
 <!ENTITY update.applying            "Aplicando actualización">
 
-<!ENTITY channel.description.start  "Ahora estás en el canal de actualizaciones ">
+<!ENTITY channel.description.start  "Estás en el canal de actualizaciones ">
 <!ENTITY channel.description.end    ".">
