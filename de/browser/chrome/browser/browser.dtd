@@ -40,8 +40,8 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                  "h">
 <!ENTITY  unpinTab.label                    "Tab ablösen">
 <!ENTITY  unpinTab.accesskey                "b">
-<!ENTITY  moveToGroup.label                 "Verschieben in Gruppe">
-<!ENTITY  moveToGroup.accesskey             "V">
+<!ENTITY  moveToGroup.label                 "In Gruppe verschieben">
+<!ENTITY  moveToGroup.accesskey             "v">
 <!ENTITY  moveToNewGroup.label              "Neue Gruppe">
 <!ENTITY  moveToNewWindow.label             "In neues Fenster verschieben">
 <!ENTITY  moveToNewWindow.accesskey         "n">
