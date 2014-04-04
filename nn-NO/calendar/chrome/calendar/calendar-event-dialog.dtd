@@ -146,6 +146,16 @@
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavekontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Lagre og lukk">
+<!ENTITY  event.toolbar.delete.tooltip                    "Slett">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltakarar">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Stavekontroll">
+<!ENTITY  event.toolbar.attachments.tooltip               "Nytt vedlegg">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Endre personvern">
+<!ENTITY  event.toolbar.priority.tooltip                  "Endre prioritet">
+<!ENTITY  event.toolbar.status.tooltip                    "Endre status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Endre ledig/opptatt-tid">
+
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tittel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
@@ -210,6 +220,9 @@
 <!ENTITY event.reminder.custom.label                      "Eigendefinert …" >
 
 <!ENTITY event.reminder.multiple.label                    "Fleire påminningar …" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
+<!ENTITY event.statusbarpanel.privacy.label               "Personvern:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Rediger oppattaking">

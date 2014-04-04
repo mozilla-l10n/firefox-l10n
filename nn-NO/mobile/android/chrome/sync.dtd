@@ -4,20 +4,20 @@
 
 <!ENTITY sync.title                 "Sync">
 <!ENTITY sync.notconnected          "Ikkje tilkopla">
-<!ENTITY sync.connect               "Kople til">
+<!ENTITY sync.connect               "Kopla til">
 <!ENTITY sync.connected             "Tilkopla">
 <!ENTITY sync.details               "Detaljar">
 <!ENTITY sync.deviceName            "Denne eininga">
-<!ENTITY sync.disconnect            "Kople frå">
+<!ENTITY sync.disconnect            "Kopla frå">
 <!ENTITY sync.syncNow               "Sync no">
 
-<!ENTITY sync.setup.title           "Kople til Sync">
-<!ENTITY sync.setup.pair            "For å aktivere, vel &#x0022;Knyt til ei eining&#x0022; på den andre eininga.">
+<!ENTITY sync.setup.title           "Kopla til Sync">
+<!ENTITY sync.setup.pair            "For å aktivera, vel &#x0022;Knyt til ei eining&#x0022; på den andre eininga.">
 <!ENTITY sync.fallback              "Eg er ikkje nær datamaskina mi …">
 <!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljar">
 <!ENTITY sync.account               "Kontonamn">
 <!ENTITY sync.password              "Passord">
-<!ENTITY sync.recoveryKey           "Oppattbyggjingsnøkkel">
+<!ENTITY sync.recoveryKey           "Gjenopprettingsnykel">
 <!ENTITY sync.customServer          "Bruk eigendefinert tenar">
 <!ENTITY sync.serverURL             "Tenar-URL">
 <!ENTITY sync.setup.connect         "Kople til">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Ventar på anna eining …">
 
 <!ENTITY sync.pair.title            "Knyt til ei eining">
-<!ENTITY sync.pair.description      "For å aktivere den andre eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
+<!ENTITY sync.pair.description      "For å aktivera den andre eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
 <!ENTITY sync.setup.close           "Lukk">
-<!ENTITY sync.setup.waitingdownload "Dine data vert no lasta ned i bakgrunnen. Du kan lukke dette vindauget når som helst.">
+<!ENTITY sync.setup.waitingdownload "Dine data vert no lasta ned i bakgrunnen. Du kan lukka dette vindauget når som helst.">
