@@ -21,10 +21,10 @@
   	">
 
 <!-- Flyout when setting up manually -->
-<!ENTITY sync.flyout.manualsetup.description1_2  "Skriv inn kontoinformasjonen for &syncBrand.shortName.label;-kontoen, og oppatbyggingsnøkkelen generert av datamaskina">
+<!ENTITY sync.flyout.manualsetup.description1_2  "Skriv inn kontoinformasjonen for &syncBrand.shortName.label;-kontoen, og gjenopprettingsnykelen generert av datamaskina">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Kontonamn">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Passord">
-<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Oppattbyggingsnøkkel">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Gjenopprettingsnykel">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Kople til">
 
 <!-- Flyout when user has just connected -->

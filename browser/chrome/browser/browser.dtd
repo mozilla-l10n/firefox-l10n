@@ -96,10 +96,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "V">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
-<!ENTITY fullScreenRestore.tooltip "Bygg opp att">
+<!ENTITY fullScreenRestore.tooltip "Gjenopprett">
 <!ENTITY fullScreenClose.tooltip "Lukk">
-<!ENTITY fullScreenAutohide.label "Skjul verktøylinjer">
-<!ENTITY fullScreenAutohide.accesskey "S">
+<!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
+<!ENTITY fullScreenAutohide.accesskey "G">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
 <!ENTITY fullscreenAllowButton.label "Tillat">
@@ -210,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.label        "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey    "F">
 
-<!ENTITY remoteWebConsoleCmd.label    "Ekstern konsoll">
+<!ENTITY remoteWebConsoleCmd.label    "Ekstern nettlesarkonsoll">
 
 <!ENTITY browserConsoleCmd.label      "Nettlesarkonsoll">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.accesskey  "e">
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -406,9 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post …">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY switchToMetroCmd.label       "Start om att i Windows 8-stil &brandShortName;
-  	">
-<!ENTITY switchToMetroCmd2.label      "Start om att i &brandShortName; for Windows 8 Touch">
+<!ENTITY switchToMetroCmd.label       "Opne på nytt i Windows 8-stil &brandShortName;">
+<!ENTITY switchToMetroCmd2.label      "Opne på nytt i &brandShortName; for Windows 8 Touch">
 <!ENTITY savePageCmd.label            "Lagre side som …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -432,10 +431,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "n">
 <!ENTITY emailAudioCmd.label          "Send lyd …">
 <!ENTITY emailAudioCmd.accesskey      "n">
-<!ENTITY playPluginCmd.label          "Aktiver dette programtillegget">
+<!ENTITY playPluginCmd.label          "Slå på dette programtillegget">
 <!ENTITY playPluginCmd.accesskey      "A">
-<!ENTITY hidePluginCmd.label          "Skjul dette programtillegget">
-<!ENTITY hidePluginCmd.accesskey      "S">
+<!ENTITY hidePluginCmd.label          "Gøym dette programtillegget">
+<!ENTITY hidePluginCmd.accesskey      "G">
 <!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
@@ -484,8 +483,8 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Vis kontrollar">
 <!ENTITY mediaShowControls.accesskey "V">
-<!ENTITY mediaHideControls.label     "Skjul kontrollar">
-<!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY mediaHideControls.label     "Gøym kontrollar">
+<!ENTITY mediaHideControls.accesskey "ø">
 <!ENTITY videoFullScreen.label       "Fullskjerm">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Lagre (augneblinks)bilde som …">
@@ -495,7 +494,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Vis statistikk">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Skjul statistikk">
+<!ENTITY videoHideStats.label        "Gøym statistikk">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
@@ -649,7 +648,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "s">
-<!ENTITY social.markpageMenu.label "Save Page To…">
+<!ENTITY social.markpageMenu.label "Lagre side til …">
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "Lagre lenke til …">
 
