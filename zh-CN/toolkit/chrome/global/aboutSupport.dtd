@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "故障排除信息">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "本页面包含了一些技术信息，当您尝试解决某个问题时可能用得上。如果您正在寻找 &brandShortName; 常见问题的答案，请查看我们的<a id='supportLink'>技术支持网站</a>。">
+<!ENTITY aboutSupport.pageSubtitle "本页面包含了一些技术信息，当您尝试解决某个问题时可能用得上。如果您正在寻找 &brandShortName; 常见问题的答案，请查看我们的<a id=\'supportLink\'>技术支持网站</a>。">
 
 <!ENTITY aboutSupport.crashes.title "崩溃报告">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -20,6 +20,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "已启用">
 <!ENTITY aboutSupport.extensionVersion "版本">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "实验性功能">
+<!ENTITY aboutSupport.experimentName "名字">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "描述">
+<!ENTITY aboutSupport.experimentActive "激活">
+<!ENTITY aboutSupport.experimentEndDate "结束日期">
+<!ENTITY aboutSupport.experimentHomepage "首页">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "应用程序概要">
 <!ENTITY aboutSupport.appBasicsName "名称">

@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "已登录会话">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "记住密码">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "显示导航按钮">
 <!ENTITY doNotTrack.title                                        "请勿跟踪">
 <!ENTITY doNotTrack.options.doNotTrack                           "告诉网站我不想被跟踪">
 <!ENTITY doNotTrack.options.doTrack                              "告诉网站我想被跟踪">
