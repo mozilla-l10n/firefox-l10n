@@ -21,7 +21,7 @@
 <!ENTITY appbarMSMetaData2.label       "获取此网站的应用">
 <!ENTITY appbarViewPageSource.label    "查看页面源代码">
 
-<!ENTITY topSitesHeader.label        "热门网站">
+<!ENTITY topSitesHeader.label        "常用网站">
 <!ENTITY bookmarksHeader.label       "书签">
 <!ENTITY recentHistoryHeader.label   "最近历史记录">
 <!ENTITY remoteTabsHeader.label      "来自其他设备的标签页">
@@ -33,7 +33,7 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label      "热门网站">
+<!ENTITY narrowTopSitesHeader.label      "常用网站">
 <!ENTITY narrowBookmarksHeader.label     "书签">
 <!ENTITY narrowRecentHistoryHeader.label "最近历史记录">
 <!ENTITY narrowRemoteTabsHeader.label    "远程标签页">
@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "消息">
 <!ENTITY consoleCodeEval.label     "代码：">
 <!ENTITY consoleClear.label        "清空">
+<!ENTITY consoleCopyAll.label      "复制">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "源文件：">
 <!ENTITY consoleErrLine.label      "行：">
 <!ENTITY consoleErrColumn.label    "列：">
+<!ENTITY consoleFollowCheckbox.label "跟随">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "剪切">
@@ -129,19 +131,16 @@
 <!ENTITY firstRunMenu.label "访问更多功能和选项">
 <!ENTITY firstRunHistory.label "查看你的网上足迹">
 <!ENTITY firstRunWelcome.label "欢迎使用 &brandShortName;">
-<!ENTITY firstRunDifferent.label "设计·与众不同">
+<!ENTITY firstRunDifferent.label "设计成就不同">
 
   <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 <!ENTITY firstRunBack.label "点按返回上一页面">
 <!ENTITY firstRunNewTab.label "添加一个新标签页探索新网站">
