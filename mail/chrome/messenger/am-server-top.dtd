@@ -46,7 +46,7 @@
 <!ENTITY deleteMessagePrefix.label "在删除消息时：">
 <!ENTITY modelMoveToTrash.label "将之移到此文件夹中:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "仅将之标志为删除">
+<!ENTITY modelMarkDeleted.label "仅将之标记为已删除">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "立即删除">
 <!ENTITY modelDeleteImmediately.accesskey "d">

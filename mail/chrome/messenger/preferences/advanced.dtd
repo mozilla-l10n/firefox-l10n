@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "显示更新历史">
 <!ENTITY updateHistory.accesskey         "p">
-<!ENTITY updateOthers.label              "自动更新：">
-<!ENTITY enableAddonsUpdate3.label       "附加组件">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY useService.label                "使用后台服务来安装更新">
 <!ENTITY useService.accesskey            "b">
