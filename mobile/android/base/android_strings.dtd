@@ -54,6 +54,7 @@
 <!ENTITY back "后退">
 <!ENTITY stop "停止">
 <!ENTITY site_security "网站安全">
+<!ENTITY save "保存">
 
 <!ENTITY close_tab "关闭标签页">
 <!ENTITY one_tab "1 个标签页">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "高级">
 <!ENTITY pref_category_customize "自定义">
 <!ENTITY pref_category_search3 "搜索">
+<!ENTITY pref_category_search_summary "自定义您的搜索提供商">
 <!ENTITY pref_category_display "显示">
 <!ENTITY pref_category_privacy_short "隐私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "恢复搜索引擎">
 <!ENTITY pref_search_restore_defaults "恢复默认设置">
 <!ENTITY pref_search_restore_defaults_summary "恢复默认设置">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "提示：长按任何网站的搜索框添加它到您的搜索提供商列表。">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "提示：长按搜索框后点击 &formatI; 图标添加任意网站到您的搜索服务提供者列表。">
 <!ENTITY pref_category_devtools "开发者工具">
 <!ENTITY pref_developer_remotedebugging "远程调试">
 <!ENTITY pref_developer_remotedebugging_docs "详细了解">
 <!ENTITY pref_remember_signons "记住密码">
 
 <!ENTITY pref_category_home "主页">
+<!ENTITY pref_category_home_summary "自定义您的主页">
 <!ENTITY pref_category_home_panels "面板">
+<!ENTITY pref_home_add_panel "添加面板">
+<!ENTITY home_add_panel_title "添加新面板">
+<!ENTITY home_add_panel_empty "抱歉，我们未找到您可添加的面板。">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "“&formatS;”已加入首页">
+<!ENTITY pref_category_home_content_settings "内容设置">
+<!ENTITY pref_home_updates "自动更新">
+<!ENTITY pref_home_updates_enabled "已启用">
+<!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "自定义">
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
+<!ENTITY page "页面">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "新标签页">
 <!ENTITY new_private_tab "新建隐私浏览标签页">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
 
+<!ENTITY reading_list_add "添加到阅读列表">
 <!ENTITY reading_list_added "页面已添加到您的阅读列表">
 <!ENTITY reading_list_removed "页面已从您的阅读列表中移除">
 <!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
@@ -295,7 +313,7 @@ size. -->
 <!ENTITY button_set "设置">
 <!ENTITY button_clear "清空">
 
-<!ENTITY home_top_sites_title "热门网站">
+<!ENTITY home_top_sites_title "常用网站">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "添加站点">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "您保存以供稍后阅读的文章将出现在这里。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "提示：长按标题栏中出现的 &#37;I 图标保存文章到您的阅读列表。">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "提示：长按出现在标题栏中的 &formatI; 图标保存文章到您的阅读列表。">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "提示：长按标题栏中出现的阅读模式按钮保存文章到您的阅读列表。">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "此面板没有内容。">
 
 <!ENTITY pin_site_dialog_hint "输入搜索关键字">
 
@@ -354,12 +376,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_button_import "导入">
 <!ENTITY bookmarkhistory_import_both "从 Android 导入书签和历史记录">
 <!ENTITY bookmarkhistory_import_bookmarks "正在从 Android 导入书签">
-<!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史纪录">
+<!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史记录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "是否希望启用 &formatS; 搜索建议？">
+<!ENTITY suggestions_prompt3 "您是否要打开搜索建议？">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

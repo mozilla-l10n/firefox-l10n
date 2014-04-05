@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "恢复默认值">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "显示 dock 图标动画">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "更改应用图标首选项">
+<!ENTITY dockOptions.label                "应用图标选项…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "当新消息到达时：">
 <!ENTITY playSound.label                  "播放声音">

@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "提醒器详细信息">
 <!ENTITY reminder.action.label                             "选择提醒动作">
 
-<!ENTITY reminder.relation.before.label                    "之前" >
-<!ENTITY reminder.relation.after.label                     "之后" >
-
 <!ENTITY reminder.action.alert.label                       "显示一个警示">
 <!ENTITY reminder.action.email.label                       "发送一封邮件">
 
