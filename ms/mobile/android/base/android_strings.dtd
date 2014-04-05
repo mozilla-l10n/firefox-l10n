@@ -8,7 +8,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Penandabuku">
+<!ENTITY  bookmarks_title "Penanda buku">
 <!ENTITY  history_title "Sejarah">
 <!ENTITY  reading_list_title "Senarai Bacaan">
 
@@ -35,10 +35,10 @@
 
 <!ENTITY url_bar_default_text "Masukkan Carian atau Alamat">
 
-<!ENTITY bookmark "Penandabuku">
-<!ENTITY bookmark_added "Penandabuku ditambah">
-<!ENTITY bookmark_removed "Penandabuku dikeluarkan">
-<!ENTITY bookmark_updated "Penandabuku dikemaskini">
+<!ENTITY bookmark "Penanda buku">
+<!ENTITY bookmark_added "Penanda buku ditambah">
+<!ENTITY bookmark_removed "Penanda buku dikeluarkan">
+<!ENTITY bookmark_updated "Penanda buku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
 
 <!ENTITY history_today_section "Hari Ini">
@@ -261,7 +261,7 @@ size. -->
 
 <!ENTITY history_removed "Halaman dikeluarkan">
 
-<!ENTITY bookmark_edit_title "Sunting PenandaBuku">
+<!ENTITY bookmark_edit_title "Sunting Penanda buku">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata kunci">
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY home_top_sites_add "Tambah sebuah laman">
 
 <!ENTITY home_history_title "Sejarah">
-<!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
+<!ENTITY home_bookmarks_empty "Penanda buku yang anda simpan dipaparkan di sini.">
 <!ENTITY home_last_tabs_title "Tab terakhir anda">
 <!ENTITY home_last_tabs_open "Buka semua tab dari masa lalu">
 <!ENTITY home_last_tabs_empty "Tab terbaru anda dipaparkan di sini.">
@@ -352,9 +352,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Beberapa data peribadi tidak boleh dibersihkan">
 
 <!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Mengimport penandabuku dan sejarah 
+<!ENTITY bookmarkhistory_import_both "Mengimport penanda buku dan sejarah 
 dari Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Mengimport penandabuku 
+<!ENTITY bookmarkhistory_import_bookmarks "Mengimport penanda buku 
 dari Android">
 <!ENTITY bookmarkhistory_import_history "Mengimport sejarah
 dari Android">

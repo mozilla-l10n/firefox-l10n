@@ -61,7 +61,7 @@
 
 <!ENTITY sync.configure.engines.title.label "Apa yang hendak diselaraskan">
 <!ENTITY sync.configure.engines.sync.my.title.label "Selaraskan anda punya …">
-<!ENTITY sync.configure.engines.title.bookmarks "Penandabuku">
+<!ENTITY sync.configure.engines.title.bookmarks "Penanda buku">
 <!ENTITY sync.configure.engines.title.passwords "Kata laluan">
 <!ENTITY sync.configure.engines.title.history "Sejarah">
 <!ENTITY sync.configure.engines.title.tabs "Tab-tab">
@@ -75,13 +75,13 @@
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (dikecam)">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Menu Penandabuku">
+<!ENTITY bookmarks.folder.menu.label "Menu Penanda buku">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tanda-tanda">
-<!ENTITY bookmarks.folder.toolbar.label "Toolbar Penandabuku">
-<!ENTITY bookmarks.folder.unfiled.label "Penandabuku Tidak Terisih">
-<!ENTITY bookmarks.folder.desktop.label "Penandabuku Desktop">
-<!ENTITY bookmarks.folder.mobile.label "Penandabuku mudah alih">
+<!ENTITY bookmarks.folder.toolbar.label "Toolbar Penanda buku">
+<!ENTITY bookmarks.folder.unfiled.label "Penanda buku Tidak Tersusun">
+<!ENTITY bookmarks.folder.desktop.label "Penanda buku Desktop">
+<!ENTITY bookmarks.folder.mobile.label "Penanda buku mudah alih">
 <!ENTITY bookmarks.folder.readinglist.label "Senarai Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Disematkan">
@@ -179,7 +179,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "Akaun anda perlu disahkan. Tap untuk hantar semula email pengesahan.">
 <!ENTITY fxaccount_status_needs_credentials "Tidak dapat menyambung. Tap untuk mendaftar masuk.">
 <!ENTITY fxaccount_status_needs_upgrade "Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.">
-<!ENTITY fxaccount_status_bookmarks "Penandabuku">
+<!ENTITY fxaccount_status_bookmarks "Penanda buku">
 <!ENTITY fxaccount_status_history "Sejarah">
 <!ENTITY fxaccount_status_passwords "Kata laluan">
 <!ENTITY fxaccount_status_tabs "Buka tab">

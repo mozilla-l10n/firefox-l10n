@@ -19,12 +19,12 @@
 <!ENTITY  locbar.pre.label              "Semasa menggunakan bar lokasi, cadang:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Sejarah dan tandabuku">
+<!ENTITY  locbar.both.label             "Sejarah dan penanda buku">
 <!ENTITY  locbar.history.label          "Sejarah">
-<!ENTITY  locbar.bookmarks.label        "Tandabuku">
+<!ENTITY  locbar.bookmarks.label        "Penanda buku">
 <!ENTITY  locbar.nothing.label          "Tiada">
 
-<!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
+<!ENTITY  acceptCookies.label           "Terima kukis dari laman web">
 <!ENTITY  acceptCookies.accesskey       "e">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">

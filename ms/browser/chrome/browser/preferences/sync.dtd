@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Tubuhkan &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua alat.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, penanda buku, kata laluan dan tab terbuka dalam semua alat.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -24,13 +24,13 @@
 <!ENTITY pairDevice.label             "Memasangkan Peranti">
 
 <!ENTITY syncMy.label               "Sync saya punya">
-<!ENTITY engine.bookmarks.label     "Penandabuku">
+<!ENTITY engine.bookmarks.label     "Penanda buku">
 <!ENTITY engine.bookmarks.accesskey "P">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Katalaluan">
+<!ENTITY engine.passwords.label     "Kata laluan">
 <!ENTITY engine.passwords.accesskey "K">
 <!ENTITY engine.prefs.label         "Keutamaan">
 <!ENTITY engine.prefs.accesskey     "K">
@@ -62,7 +62,7 @@
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
-<!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
+<!ENTITY welcome.description "Capai tab anda, penanda buku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
 <!ENTITY welcome.signIn.label "Daftar Masuk">
 <!ENTITY welcome.createAccount.label "Cipta Akaun">
 

@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; adalah percuma dan perisian sumber terbuka dari organisasi tanpa keuntungan Mozilla Foundation. <a>Ketahui hak anda...</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Penandabuku">
+<!ENTITY abouthome.bookmarksButton.label "Penanda Buku">
 <!ENTITY abouthome.historyButton.label   "Sejarah">
 <!ENTITY abouthome.settingsButton.label  "Tetapan">
 <!ENTITY abouthome.addonsButton.label    "Add-ons">
