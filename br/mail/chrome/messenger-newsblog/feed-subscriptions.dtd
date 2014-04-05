@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Ezporzhiañ al lanvioù gant ar framm teuliadoù; Reol + Klik pe Reol + Enankañ evit ezporzhiañ al lanvioù evel ur roll">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Serriñ">

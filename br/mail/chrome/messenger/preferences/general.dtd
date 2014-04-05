@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Assav ar re dre ziouer">
 <!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label       "Buhezañ an arlun klotañ">
-<!ENTITY bounceSystemDockIcon.accesskey   "B">
+<!ENTITY changeDockIconOptions.label      "Kemmañ gwellvezioù arlun an arload">
+<!ENTITY dockOptions.label                "Gwellvezioù arlun an arload…">
+<!ENTITY dockOptions.accesskey            "a">
 
 <!ENTITY newMessagesArrive.label          "P'en em gav kemennadennoù nevez :">
 <!ENTITY playSound.label                  "Seniñ ur son">

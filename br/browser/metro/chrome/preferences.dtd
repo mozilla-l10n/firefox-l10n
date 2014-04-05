@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Kennaskoù oberiant">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Derc'hel soñj eus ar gerioù-tremen">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Diskouez an afelloù merdeiñ">
 <!ENTITY doNotTrack.title                                        "Do Not Track">
 <!ENTITY doNotTrack.options.doNotTrack                           "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
 <!ENTITY doNotTrack.options.doTrack                              "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">

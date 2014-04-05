@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "-">
 <!ENTITY updateHistory.label             "Diskouez roll istor an hizivadurioù">
 <!ENTITY updateHistory.accesskey         "u">
-<!ENTITY updateOthers.label              "Hizivaat ent emgefreek :">
-<!ENTITY enableAddonsUpdate3.label       "Askouezhioù">
-<!ENTITY enableAddonsUpdate3.accesskey   "A">
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
