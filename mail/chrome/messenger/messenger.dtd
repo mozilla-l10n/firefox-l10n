@@ -893,3 +893,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "O">
 <!ENTITY hideOtherAppsCmdMac.modifiers 	"accel,alt">
 <!ENTITY showAllAppsCmdMac.label 		"Mostrar tudo">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Opções do ícone...">

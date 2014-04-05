@@ -9,9 +9,11 @@
 <!ENTITY location1.accesskey "o">
 <!ENTITY useDefault.label "Restaurar pré-definições">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY bounceSystemDockIcon.label "Animar ícone da doca">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesArrive.label "Ao receber mensagens">
+
+<!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone da aplicação">
+<!ENTITY dockOptions.label                "Opções do ícone">
+<!ENTITY dockOptions.accesskey            "n">
+
 <!ENTITY playSound.label "Reproduzir um som">
 <!ENTITY playSound1.accesskey "d">
 <!ENTITY showAnimatedAlert.label "Mostrar um alerta">
