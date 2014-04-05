@@ -21,8 +21,8 @@
 <!ENTITY appbarMSMetaData2.label       "Dapatkan app untuk laman web ini">
 <!ENTITY appbarViewPageSource.label    "Lihat sumber laman">
 
-<!ENTITY topSitesHeader.label        "Tapak Popular">
-<!ENTITY bookmarksHeader.label       "Penandabuku">
+<!ENTITY topSitesHeader.label        "Laman Popular">
+<!ENTITY bookmarksHeader.label       "Penanda buku">
 <!ENTITY recentHistoryHeader.label   "Sejarah Kebelakangan">
 <!ENTITY remoteTabsHeader.label      "Tab dari peranti lain">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
@@ -33,8 +33,8 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
-<!ENTITY narrowTopSitesHeader.label      "Tapak Popup">
-<!ENTITY narrowBookmarksHeader.label     "Penandabuku">
+<!ENTITY narrowTopSitesHeader.label      "Laman Popup">
+<!ENTITY narrowBookmarksHeader.label     "Penanda buku">
 <!ENTITY narrowRecentHistoryHeader.label "Sejarah Kebelakangan">
 <!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
 
@@ -50,7 +50,7 @@
 <!ENTITY downloadDelete.label      "Jeda">
 <!ENTITY downloadFailed.label      "Gagal">
 
-<!ENTITY allBookmarks.label        "Pamer semua penandabuku">
+<!ENTITY allBookmarks.label        "Pamer semua penanda buku">
 
 <!ENTITY consoleHeader.label       "Masalah Konsol">
 <!ENTITY consoleAll.label          "Semua">
@@ -76,7 +76,7 @@
 
 <!ENTITY contextOpenLinkTab.label          "Buka pautan pada tab baru">
 <!ENTITY contextCopyLinkHref.label         "Salin pautan">
-<!ENTITY contextBookmarkLinkHref.label     "Tandabuku pautan ini">
+<!ENTITY contextBookmarkLinkHref.label     "Penanda buku pautan ini">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->

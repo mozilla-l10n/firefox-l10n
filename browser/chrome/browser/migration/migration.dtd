@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Import Bestari">
 
-<!ENTITY importFrom.label               "Import Pilihan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
-<!ENTITY importFromUnix.label           "Import Keutamaan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
-<!ENTITY importFromBookmarks.label      "Import Penanda-penanda dari:">
+<!ENTITY importFrom.label               "Import Pilihan, Penanda buku, Sejarah, Kata laluan dan lain-lain data dari:">
+<!ENTITY importFromUnix.label           "Import Keutamaan, Penanda buku, Sejarah, Kata laluan dan lain-lain data dari:">
+<!ENTITY importFromBookmarks.label      "Import daripada Penanda buku-penanda buku :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -20,7 +20,7 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "o">
 
-<!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang dapat dijumpai.">
+<!ENTITY noMigrationSources.label       "Tiada program yang mengandungi penanda buku, sejarah atau data kata laluan yang dapat dijumpai.">
 
 <!ENTITY importSource.title             "Import Tetapan dan Data">
 <!ENTITY importItems.title              "Butir untuk Diimport">

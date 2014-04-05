@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Atur">
 <!ENTITY organize.accesskey    "A">
-<!ENTITY organize.tooltip      "Atur tandabuku anda">
+<!ENTITY organize.tooltip      "Atur penanda buku anda">
 
 <!ENTITY file.close.label               "Tutup">
 <!ENTITY file.close.accesskey           "T">
@@ -18,18 +18,18 @@
 <!ENTITY views.tooltip                  "Tukar pandangan anda">
 <!ENTITY view.columns.label             "Papar Lajur">
 <!ENTITY view.columns.accesskey         "P">
-<!ENTITY view.sort.label                "Isih">
+<!ENTITY view.sort.label                "Tersusun">
 <!ENTITY view.sort.accesskey            "s">
-<!ENTITY view.unsorted.label            "Tidak terisih">
+<!ENTITY view.unsorted.label            "Tidak tersusun">
 <!ENTITY view.unsorted.accesskey        "T">
 <!ENTITY view.sortAscending.label       "A> Z Isihan Tertib Menaik">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z>A Isihan Tertib Menurun">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Penandabuku dari HTML">
+<!ENTITY importBookmarksFromHTML.label     "Import Penanda buku dari HTML">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Eksport Penandabuku dari HTML">
+<!ENTITY exportBookmarksToHTML.label       "Eksport Penanda buku dari HTML">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Import Data dari Pelayar yang lain">
 <!ENTITY importOtherBrowser.accesskey      "a">
@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Tandabuku Laman Ini…">
+<!ENTITY cmd.bookmarkLink.label         "Penanda buku Laman Ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "b">
 <!ENTITY cmd.delete.label               "Hapus Laman Ini">
 <!ENTITY cmd.delete.accesskey           "H">
@@ -64,7 +64,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "s">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
+<!ENTITY cmd.new_bookmark.label            "Penanda buku Baru…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Folder Baru…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -72,7 +72,7 @@
 <!ENTITY cmd.new_separator.label           "Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat turun Tandabuku Langsung">
+<!ENTITY cmd.reloadLivebookmark.label      "Muat turun Penanda buku Secara Langsung">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
 
 <!ENTITY cmd.moveBookmarks.label                  "Pindah">
@@ -95,7 +95,7 @@
 
 <!ENTITY maintenance.label      "Import dan Sandar">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import dan sandar penandabuku anda">
+<!ENTITY maintenance.tooltip    "Import dan sandar penanda buku anda">
 
 <!ENTITY backButton.tooltip  "Kembali">
 

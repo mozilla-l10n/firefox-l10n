@@ -74,9 +74,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "B">
 <!ENTITY navbarCmd.label "Navigasi Bar Alatan">
-<!ENTITY personalbarCmd.label "Penandabuku Bar Alatan">
+<!ENTITY personalbarCmd.label "Penanda Buku Bar Alatan">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Penandabuku Bar Alatan Benda">
+<!ENTITY bookmarksToolbarItem.label "Bar Alatan Bahan Penanda Buku">
 
 <!ENTITY pageSourceCmd.label "Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -124,10 +124,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Tutup Tetingkap">
 <!ENTITY closeWindow.accesskey "T">
 
-<!ENTITY bookmarksMenu.label "Penandabuku">
+<!ENTITY bookmarksMenu.label "Penanda Buku">
 <!ENTITY bookmarksMenu.accesskey "P">
-<!ENTITY bookmarkThisPageCmd.label "Penandabuku Laman Ini">
-<!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
+<!ENTITY bookmarkThisPageCmd.label "Penanda Buku Laman Ini">
+<!ENTITY editThisBookmarkCmd.label "Edit Penanda Buku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
@@ -145,9 +145,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
-<!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
-<!ENTITY unsortedBookmarksCmd.label "Penandabuku Tidak Terisih">
-<!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
+<!ENTITY showAllBookmarks2.label "Pamer Semua Penanda Buku">
+<!ENTITY unsortedBookmarksCmd.label "Penanda Buku Tidak Tersusun">
+<!ENTITY bookmarksToolbarChevron.tooltip "Pamer Lebih Penanda Buku">
 
 <!ENTITY backCmd.label                "Kembali">
 <!ENTITY backCmd.accesskey            "K">
@@ -176,13 +176,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabGroupsButton.label        "Tab Kumpulan">
 
-<!ENTITY bookmarksButton.label          "Penandabuku">
+<!ENTITY bookmarksButton.label          "Penanda Buku">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Penandabuku">
-<!ENTITY bookmarksMenuButton.unsorted.label "Tidak isihan penandabuku">
-<!ENTITY viewBookmarksSidebar2.label        "Lihat Penandabuku Bar Sisi">
-<!ENTITY viewBookmarksToolbar.label         "Lihat Penandabuku Bar Alatan">
+<!ENTITY bookmarksMenuButton.label          "Penanda Buku">
+<!ENTITY bookmarksMenuButton.unsorted.label "Tidak isihan penanda buku">
+<!ENTITY viewBookmarksSidebar2.label        "Lihat Bar Penanda Buku Disebelah">
+<!ENTITY viewBookmarksToolbar.label         "Lihat Bar Alatan Penanda Buku">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -437,7 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Tetapkan Sebagai Latar Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Penandabuku Laman Ini">
+<!ENTITY bookmarkPageCmd2.label       "Penanda Buku Laman Ini">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Tanda Pautan Ini">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
@@ -750,7 +750,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuButton.tooltip         "Buka &brandShortName; menu">
 <!ENTITY feedButton.label              "Langgan">
 <!ENTITY feedButton.tooltip            "Langgan ke laman ini…">
-<!ENTITY bookmarksButton.tooltip       "Papar penandabuku anda">
+<!ENTITY bookmarksButton.tooltip       "Papar Penanda Buku anda">
 <!ENTITY historyButton.tooltip         "Papar laman yang anda telah lihat baru ini">
 <!ENTITY viewTabsOnTop.label           "Tab-tab diatas">
 <!ENTITY viewTabsOnTop.accesskey       "T">
@@ -773,10 +773,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key         "/">
 <!ENTITY backForwardItem.title         "Undur/Maju Hadapan">
 <!ENTITY viewBookmarksSidebar.label    "Pamer dalam Bar disebelah">
-<!ENTITY bookmarksItem.title           "Penandabuku">
+<!ENTITY bookmarksItem.title           "Penanda Buku">
 <!ENTITY openLocationCmd.label         "Buka Lokasi…">
 <!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "Papar penandabuku anda">
+<!ENTITY bookmarksMenuButton.tooltip   "Papar penanda buku anda">
 <!ENTITY switchToMetroCmd2.label       "Lancar semula dalam &brandShortName; untuk Windows 8 Touch">
 <!ENTITY tabGroupsButton.tooltip       "Kumpul tab-tab anda">
 <!-- end of strings to be removed post-Australis -->
