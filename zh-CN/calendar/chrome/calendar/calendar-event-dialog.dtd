@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "到" >
 <!ENTITY newevent.attendees.notify.label    "通知参加者">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "保持与会者不在邀请函中被披露">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "如果启用，与会者将看不到被邀请的其他人。只适用于电子邮件的邀请函。">
+
 <!ENTITY newevent.status.label                    "状态" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "未指定" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "邀请参与者…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "拼写检查…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "输入时即时拼写检查">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "添加链接…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "显示时区">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "优先级">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "保存并关闭">
 <!ENTITY  event.toolbar.delete.label                      "删除">
 <!ENTITY  event.toolbar.attendees.label                   "邀请参与者">
-<!ENTITY  event.toolbar.spellcheck.label                  "拼写检查">
 <!ENTITY  event.toolbar.privacy.label                     "隐私">
 
 <!ENTITY  event.toolbar.save.tooltip                      "保存并关闭">
 <!ENTITY  event.toolbar.delete.tooltip                    "删除">
 <!ENTITY  event.toolbar.attendees.tooltip                 "邀请参与者">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "拼写检查">
 <!ENTITY  event.toolbar.attachments.tooltip               "添加附件">
 <!ENTITY  event.toolbar.privacy.tooltip                   "更改隐私设定">
 <!ENTITY  event.toolbar.priority.tooltip                  "更改优先级">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "分类：">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "添加新分类" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "日历：" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "参与者：" >
@@ -207,14 +201,14 @@
 <!ENTITY event.priority2.label                            "优先级：">
 
 <!ENTITY event.reminder.none.label                        "无提醒" >
-<!ENTITY event.reminder.0minutes.before.label             "0分钟以前" >
+<!ENTITY event.reminder.0minutes.before.label             "0 分钟前" >
 <!ENTITY event.reminder.5minutes.before.label             "5 分钟之前" >
 <!ENTITY event.reminder.15minutes.before.label            "15 分钟之前" >
 <!ENTITY event.reminder.30minutes.before.label            "30 分钟之前" >
 <!ENTITY event.reminder.1hour.before.label                "1 小时之前" >
 <!ENTITY event.reminder.2hours.before.label               "2 小时之前" >
 <!ENTITY event.reminder.12hours.before.label              "12小时之前" >
-<!ENTITY event.reminder.1day.before.label                 "1 天之前" >
+<!ENTITY event.reminder.1day.before.label                 "1 天前" >
 <!ENTITY event.reminder.2days.before.label                "2 天之前" >
 <!ENTITY event.reminder.1week.before.label                "1 周之前" >
 <!ENTITY event.reminder.custom.label                      "定制…" >
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "提醒：">
 <!ENTITY read.only.attendees.label       "参与者">
 <!ENTITY read.only.description.label     "描述">
-<!ENTITY read.only.documents.label       "文档">
 <!ENTITY read.only.link.label            "相关链接">
