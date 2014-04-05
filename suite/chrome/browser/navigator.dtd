@@ -49,3 +49,9 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY statusText.label "Готово">
 <!ENTITY popupIcon.tooltiptext "Разрешать открытие всплывающих окон с этих веб-сайтов">
+<!ENTITY viewSecurityInfo.label "Просмотреть информацию о защите">
+<!ENTITY viewSecurityInfo.accesskey "о">
+<!ENTITY viewCertificate.label "Просмотреть сертификат">
+<!ENTITY viewCertificate.accesskey "м">
+<!ENTITY viewCertManager.label "Открыть окно управления сертификатами">
+<!ENTITY viewCertManager.accesskey "ы">
