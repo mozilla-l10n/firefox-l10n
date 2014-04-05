@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "离开支持加密页">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "查看加密/未加密混合页">
-<!ENTITY warn.viewmixed.accesskey           "V">
 
+<!ENTITY mixed.description                  "加密的页面可能包含未加密的内容，这可能引发窃听或伪造攻击。&brandShortName; 可以检测和禁用它：">
 <!ENTITY warn.mixedactivecontent            "加密页面包含不安全内容时提醒我">
 <!ENTITY warn.mixedactivecontent.accesskey  "W">
 <!ENTITY block.activecontent                "不要读取加密页面上的不安全内容">

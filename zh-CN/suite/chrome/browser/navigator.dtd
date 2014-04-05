@@ -66,7 +66,7 @@
 <!ENTITY bookmarksButton.label        "书签">
 <!ENTITY bookmarksButton.tooltip      "书签列表">
 <!ENTITY homeButton.label             "主页">
-<!ENTITY bookmarksToolbarItem.label   "书签工具栏项">
+<!ENTITY bookmarksToolbarItem.label   "书签工具栏项目">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!-- Statusbar -->
