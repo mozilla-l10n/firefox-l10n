@@ -10,7 +10,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label '连接到 &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label '添加 &syncBrand.fullName.label; 帐户'>
+<!ENTITY sync.title.adddevice.label '添加 &syncBrand.fullName.label; 账户'>
 <!ENTITY sync.title.pair.label '设备配对'>
 
 <!-- J-PAKE Key Screen -->
@@ -28,8 +28,8 @@
 <!ENTITY sync.jpake.subtitle.waiting.label '正在等待其他设备…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label '请输入您的 &syncBrand.fullName.label; 帐户信息'>
-<!ENTITY sync.input.username.label '帐户名称'>
+<!ENTITY sync.subtitle.account.label '请输入您的 &syncBrand.fullName.label; 账户信息'>
+<!ENTITY sync.input.username.label '账户名称'>
 <!ENTITY sync.input.password.label '密码'>
 <!ENTITY sync.input.key.label '恢复密钥'>
 <!ENTITY sync.checkbox.server.label '使用自定义服务器'>
@@ -41,22 +41,22 @@
 <!ENTITY sync.button.tryagain.label '重试'>
 <!ENTITY sync.button.manual.label '手动设置'>
 <!ENTITY sync.subtitle.nointernet.label '没有互联网连接可用。'>
-<!ENTITY sync.subtitle.failaccount.label '在您的设备上创建帐户失败。'>
+<!ENTITY sync.subtitle.failaccount.label '在您的设备上创建账户失败。'>
 <!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '初始设置完成'>
-<!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。你可以到 设置 中管理你的帐户，或者开始用 &brandShortName; 上网浏览。'>
+<!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。您可以到“设置”中管理您的账户，或者开始用 &brandShortName; 浏览网络。'>
 <!ENTITY sync.settings.label '设置'>
-<!ENTITY sync.subtitle.manage.label1 '你的 &syncBrand.fullName.label; 帐号已经建立。你可以到 设置 中管理你的帐号，或者启动 &brandShortName; 。'>
+<!ENTITY sync.subtitle.manage.label1 '您的 &syncBrand.fullName.label; 账户已建立。您可以到“设置”中管理您的账户，或者启动 &brandShortName;。'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label '请重试。'>
-<!ENTITY sync.pair.connectlocation.label '要激活你的新设备，在设备上选择 “建立 &syncBrand.shortName.label; ”，然后选择“我有一个帐号。”'>
+<!ENTITY sync.pair.connectlocation.label '要激活你的新设备，在设备上选择 “设置 &syncBrand.shortName.label; ”，然后选择“已有账户”。'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label '选项'>
-<!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 帐户'>
+<!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 账户'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label '同步范围'>
@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label '确定'>
 
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (已过时)'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label;（旧版）'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label '书签菜单'>
@@ -80,18 +80,18 @@
 <!ENTITY bookmarks.folder.tags.label '标签'>
 <!ENTITY bookmarks.folder.toolbar.label '书签工具栏'>
 <!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
-<!ENTITY bookmarks.folder.desktop.label '桌面书签'>
-<!ENTITY bookmarks.folder.mobile.label '移动书签'>
+<!ENTITY bookmarks.folder.desktop.label '桌面版书签'>
+<!ENTITY bookmarks.folder.mobile.label '移动版书签'>
 <!ENTITY bookmarks.folder.readinglist.label '阅读列表'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label '已固定'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 帐号。'>
+<!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 账户。'>
 <!ENTITY sync.notification.configure.saved '你的选择已保存。'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label '不正确的帐户名或密码。'>
+<!ENTITY sync.invalidcreds.label '不正确的账户名或密码。'>
 <!ENTITY sync.invalidserver.label '请输入有效的服务器 URL'>
 <!ENTITY sync.verifying.label '正在校验…'>
 <!ENTITY sync.new.recoverykey.status.incorrect '恢复密钥不正确。请重试。'>
@@ -105,14 +105,7 @@
 <!ENTITY sync.text.tab.sent.label '您的标签页已发送！'>
 <!ENTITY sync.text.tab.not.sent.label '发送您的标签页时遇到问题。'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox 账户复选框图形'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox 账户图标'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox 账户入门图解'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox 账户封面图'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -125,8 +118,13 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing '回到浏览'>
+<!ENTITY fxaccount_back_to_browsing '返回浏览状态'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos '服务条款'>
 <!ENTITY fxaccount_policy_linkprivacy '隐私声明'>
 
@@ -137,12 +135,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header '创建 Firefox 账户'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 '创建 Firefox 账户'>
 <!ENTITY fxaccount_create_account_password_length_restriction '至少要有8个字符'>
 <!ENTITY fxaccount_create_account_year_of_birth '出生年份'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text '继续则代表我同意 Firefox 在线服务的 &formatS1; 和 &formatS2;。'>
+<!ENTITY fxaccount_create_account_policy_text2 '若继续进行，则代表我同意 Firefox 云服务的《&formatS1;》及《&formatS2;》。'>
 <!ENTITY fxaccount_create_account_button '下一步'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync '选择要同步的项目'>
 <!ENTITY fxaccount_create_account_sign_in_instead '已有账户？马上登录'>
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more '详细了解'>
 
 <!ENTITY fxaccount_confirm_account_header '确认您的账户'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link '一个验证链接已发送到 &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email '重发邮件'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '发送验证邮件'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label '登录'>
 <!ENTITY fxaccount_update_credentials_unknown_error '无法登录'>
 
-<!ENTITY fxaccount_status_header 'Firefox 账户'>
+<!ENTITY fxaccount_status_header2 'Firefox 账户'>
+<!ENTITY fxaccount_status_signed_in_as '已登录为'>
 <!ENTITY fxaccount_status_sync '服务'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已启用'>
 <!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点击重发验证邮件。'>
@@ -184,16 +183,22 @@
 <!ENTITY fxaccount_status_passwords '密码'>
 <!ENTITY fxaccount_status_tabs '打开多个标签页'>
 <!ENTITY fxaccount_status_legal '法律' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos '服务条款'>
+<!ENTITY fxaccount_status_linkprivacy '隐私声明'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 选项'>
 <!ENTITY fxaccount_options_configure_title '配置 &syncBrand.shortName.label;'>
 
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未连接'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '点击登录为 &formatS;'>

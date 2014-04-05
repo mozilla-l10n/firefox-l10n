@@ -12,11 +12,11 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title 移动电话
+#define bookmarks_title 移动版
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox ：关于您的浏览器
+#define bookmarks_aboutBrowser Firefox：关于您的浏览器
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
