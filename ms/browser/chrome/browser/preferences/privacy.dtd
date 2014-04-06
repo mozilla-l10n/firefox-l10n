@@ -25,7 +25,7 @@
 <!ENTITY  locbar.nothing.label          "Tiada">
 
 <!ENTITY  acceptCookies.label           "Terima kukis dari laman web">
-<!ENTITY  acceptCookies.accesskey       "e">
+<!ENTITY  acceptCookies.accesskey       "k">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
@@ -41,7 +41,7 @@
 <!ENTITY  askEachTime.label             "tanya saya setiap kali">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
-<!ENTITY  cookieExceptions.accesskey    "e">
+<!ENTITY  cookieExceptions.accesskey    "P">
 
 <!ENTITY  showCookies.label             "Tunjuk Cookie…">
 <!ENTITY  showCookies.accesskey         "C">
