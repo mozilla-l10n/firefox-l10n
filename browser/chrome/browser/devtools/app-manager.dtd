@@ -35,7 +35,7 @@
 <!ENTITY device.browserTabs "Browser-faneblade">
 <!ENTITY device.browserTabsTooltip "Se en liste over faneblade i den forbundne enhed.">
 <!ENTITY device.debugBrowserTab "Debug">
-<!ENTITY device.debugBrowserTabTooltip "Åbn Udviklerværktøjerne forbundet til dette faneblad på enheden.">
+<!ENTITY device.debugBrowserTabTooltip "Åbn udviklerværktøjerne forbundet til dette faneblad på enheden.">
 <!ENTITY device.help "Hjælp">
 
 <!ENTITY connection.connectTooltip "Opret forbindelse til denne enhed.">
