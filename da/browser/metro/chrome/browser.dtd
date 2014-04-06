@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Meddelelser">
 <!ENTITY consoleCodeEval.label     "Kode:">
 <!ENTITY consoleClear.label        "Ryd">
+<!ENTITY consoleCopyAll.label      "Kopier">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kildefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
+<!ENTITY consoleFollowCheckbox.label "Følg">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Klip">
