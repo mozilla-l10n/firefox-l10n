@@ -104,8 +104,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Log ind på &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; er slået til">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; begynder at synkronisere straks.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; er aktiveret">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; begynder straks at synkronisere.">
 <!ENTITY syncErrorPanel.heading "Kan ikke oprettelse forbindelse til &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Log ind for at fortsætte synkronisering.">
 <!ENTITY syncErrorPanel.signInButton.label "Log ind">
