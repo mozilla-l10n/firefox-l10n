@@ -155,7 +155,7 @@
 
 <!ENTITY fxaccount_confirm_account_header "Pastikan akaun anda">
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Pautan pengesahan telah dihantar ke &fomatS;">
+<!ENTITY fxaccount_confirm_account_verification_link "Pautan pengesahan telah dihantar ke &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ulang hantar email">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Pengesahan email dihantar">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat menghantar email pengesahan">
