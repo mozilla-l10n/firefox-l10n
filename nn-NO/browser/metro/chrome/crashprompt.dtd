@@ -8,15 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Kva er ein krasjrapport?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Ein krasjrapport inneheld noko info om krasja, maskina di, og eit augneblikksbilete av tilstanden til nettlesaren då den krasja.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Dette kan omfatta ting som opne nettsider, tekst skriven inn i skjema og innhaldet i opne meldingar, nyleg nettlesarhistorikk.">
-<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraph, crashprompt.privacyPolicyLink):
-     These two entities form a single sentence. crashprompt.privacyPolicyLink is a
-     clickable link that must follow crashprompt.detailedMessage.thirdParagraph.
-     If the structure of the English strings doesn't work for your locale, you can
-     move "&brandShortName; privacy policy." to the first sentence, and use a
-     generic "More information" for the link. These strings will be updated in the
-     next version of Firefox. -->
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Me brukar krasjrapportar for å prøva retta problem og forbetra produkta våre. Me handterer informasjonen din slik som det er skildra i våre">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Me brukar krasjrapportar for å prøva retta problem og forbetra produkta våre. Me handterer informasjonen din slik som det er skildra i våre ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; retningsliner for personvern">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Ta med adressa til nettstaden eg besøkte">
 <!ENTITY crashprompt.acceptbutton    "Send rapportar">
 <!ENTITY crashprompt.refusebutton    "Ikkje send">

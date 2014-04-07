@@ -9,14 +9,15 @@
 <!ENTITY back.label            "Tilbake">
 <!ENTITY forward.label         "Fram">
 <!ENTITY newtab.label          "Ny fane">
+<!ENTITY newPrivateTab.label   "Ny privat fane">
 <!ENTITY closetab.label        "Lukk fane">
 
 <!ENTITY autocompleteResultsHeader.label  "Dine resultat">
 
-<!ENTITY appbarErrorConsole.label      "Opne feilkonsoll">
-<!ENTITY appbarJSShell.label           "Opne JavaScript-shell">
+<!ENTITY appbarErrorConsole.label      "Opna feilkonsoll">
+<!ENTITY appbarJSShell.label           "Opna JavaScript-shell">
 <!ENTITY appbarFindInPage2.label       "Finn på sida">
-<!ENTITY appbarRelaunchInDesktop.label "Start igjen på skrivebordet">
+<!ENTITY appbarRelaunchInDesktop.label "Start på nytt på skrivebordet">
 <!ENTITY appbarMSMetaData2.label       "Hent app for denne nettstaden">
 <!ENTITY appbarViewPageSource.label    "Vis kjeldekode">
 
@@ -43,7 +44,7 @@
 <!ENTITY downloadOpen2.label       "Opne">
 <!ENTITY downloadCancel.label      "Avbryt">
 <!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Fortset">
+<!ENTITY downloadResume.label      "Hald fram">
 <!ENTITY downloadRetry.label       "Prøv igjen">
 <!ENTITY downloadRemove.label      "Fjern">
 <!ENTITY downloadDelete.label      "Slett">
@@ -54,7 +55,7 @@
 <!ENTITY consoleHeader.label       "Feilkonsoll">
 <!ENTITY consoleAll.label          "All">
 <!ENTITY consoleErrors.label       "Feil">
-<!ENTITY consoleWarnings.label     "Åtvaringa">
+<!ENTITY consoleWarnings.label     "Åtvaringar">
 <!ENTITY consoleMessages.label     "Meldingar">
 <!ENTITY consoleCodeEval.label     "Kode:">
 <!ENTITY consoleClear.label        "Tøm">
@@ -65,30 +66,30 @@
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Klipp ut">
-<!ENTITY contextTextCopy.label             "Kopiere">
+<!ENTITY contextTextCopy.label             "Kopier">
 <!ENTITY contextTextPaste.label            "Lim inn">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Lim inn og opne">
+<!ENTITY contextTextPasteAndGo.label       "Lim inn og opna">
 <!ENTITY contextTextSelect.label           "Merk">
 <!ENTITY contextTextSelectAll.label        "Merk alt">
 
 <!-- LINK CONTEXT MENU -->
-<!ENTITY contextOpenLinkTab.label          "Open link in new tab">
-<!ENTITY contextCopyLinkHref.label         "KOpier lenke">
+<!ENTITY contextOpenLinkTab.label          "Opna lenke i ny fane">
+<!ENTITY contextCopyLinkHref.label         "Kopier lenke">
 <!ENTITY contextBookmarkLinkHref.label     "Bokmerk lenke">
 
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
-<!ENTITY contextSaveImageLib.label         "Lagre til bildegalleri">
-<!ENTITY contextCopyImage.label            "KOpier bilde">
+<!ENTITY contextSaveImageLib.label         "Lagra til bildegalleri">
+<!ENTITY contextCopyImage.label            "Kopier bilde">
 <!ENTITY contextCopyImageLocation.label    "Kopier bildeplassering">
-<!ENTITY contextOpenImageTab.label         "Opne bilde i ny fane">
+<!ENTITY contextOpenImageTab.label         "Opna bilde i ny fane">
 
 <!-- VIDEO CONTEXT MENU -->
-<!ENTITY contextSaveVideoLib.label         "Lagre til videobibliotek">
+<!ENTITY contextSaveVideoLib.label         "Lagra til videobibliotek">
 <!ENTITY contextCopyVideoLocation.label    "Kopier videoplassering">
-<!ENTITY contextOpenVideoTab.label         "Opne video i ny fane">
+<!ENTITY contextOpenVideoTab.label         "Opna video i ny fane">
 
 <!-- KEYBOARD SHORTCUTS -->
 <!ENTITY reload.key "r">
@@ -103,6 +104,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -118,10 +121,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 <!ENTITY firstRunTabs.label "Ser du etter fanene dine? Trekk ned eller høgreklikk">
 <!ENTITY firstRunTopSites.label "Gå til nettstadane du besøkjer oftast">
@@ -130,3 +130,21 @@
 <!ENTITY firstRunHistory.label "Sjå kvar du har vore på nettet">
 <!ENTITY firstRunWelcome.label "Velkomen til &brandShortName;">
 <!ENTITY firstRunDifferent.label "Annleis frå grunnen av">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Trykk for å gå tilbake til tidlegare side">
+<!ENTITY firstRunNewTab.label "Legg til ei ny fane for å utforske ein annan nettstad">
+<!ENTITY firstRunStar.label "Bruk bokmerke for å ta vare på sider for seinare bruk">
+<!ENTITY firstRunPin.label "Lås ein nettstad til Windows-startskjermen for rask tilgang">
+<!ENTITY firstRunGotIt.label "Skjønar!">
