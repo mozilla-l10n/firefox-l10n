@@ -6,7 +6,7 @@
 <!ENTITY addpref.name           "Nomo">
 
 <!ENTITY cancel.label           "Nuligi">
-<!ENTITY toggle.label           "Ŝalti/malŝalti">
+<!ENTITY toggle.label           "Baskuli">
 
 <!ENTITY integer.label          "Numero">
 <!ENTITY string.label           "Teksto">

@@ -49,9 +49,20 @@
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Rimarko pri privateco">
 <!ENTITY determiningAcctStatus.label     "Determino de la stato de via konto…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "ne estas konfirmita.">
 
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.beforename.label "Bonvolu komenci seancon por rekonekti">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
