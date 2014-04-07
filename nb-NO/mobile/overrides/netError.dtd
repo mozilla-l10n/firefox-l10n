@@ -76,9 +76,9 @@
 <!ENTITY netTimeout.title "Tilkoblingen fikk tidsavbrudd">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Klarte ikke forstå adressen">
-<!ENTITY protocolNotFound.longDesc "<ul>
-  <li>Det er mulig du må installere annen programvare for å åpne denne adressen.</li>
+<!ENTITY unknownProtocolFound.title "Klarte ikke forstå adressen">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Du må kanskje installere annen programvare for å åpne denne adressen.</li>
 </ul>
 ">
 
