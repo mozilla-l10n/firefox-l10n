@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktivaj ensalutoj">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Memori pasvortojn">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Montri navigaciajn butonojn">
 <!ENTITY doNotTrack.title                                        "Ne spuri">
 <!ENTITY doNotTrack.options.doNotTrack                           "Diri al retejoj ke mi ne volas esti spurita">
 <!ENTITY doNotTrack.options.doTrack                              "Diri al retejoj ke mi volas esti spurita">
