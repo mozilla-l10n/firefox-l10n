@@ -89,6 +89,7 @@
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
 <!ENTITY pref_category_home "Startpagina">
+<!ENTITY pref_category_home_summary "Uw startpagina aanpassen">
 <!ENTITY pref_category_home_panels "Panelen">
 <!ENTITY pref_home_add_panel "Paneel toevoegen">
 <!ENTITY home_add_panel_title "Nieuw paneel toevoegen">
