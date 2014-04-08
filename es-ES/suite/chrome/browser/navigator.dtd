@@ -49,3 +49,9 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY statusText.label "Hecho">
 <!ENTITY popupIcon.tooltiptext "Desbloquear las ventanas emergentes de este sitio web">
+<!ENTITY viewSecurityInfo.label "Ver información de seguridad">
+<!ENTITY viewSecurityInfo.accesskey "V">
+<!ENTITY viewCertificate.label "Ver certificado">
+<!ENTITY viewCertificate.accesskey "r">
+<!ENTITY viewCertManager.label "Abrir administrador de certificados">
+<!ENTITY viewCertManager.accesskey "A">
