@@ -68,6 +68,10 @@
   -  in the network details pane identifying the timings tab. -->
 <!ENTITY netmonitorUI.tab.timings         "Tempoj">
 
+<!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
+  -  in the network details pane identifying the preview tab. -->
+<!ENTITY netmonitorUI.tab.preview         "Antaŭvido">
+
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 <!ENTITY netmonitorUI.footer.filterAll    "Ĉiuj">
@@ -197,6 +201,12 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 <!ENTITY netmonitorUI.context.copyUrl     "Kopii URL">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
+<!ENTITY netmonitorUI.context.copyAsCurl    "Kopii kiel cURL">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
