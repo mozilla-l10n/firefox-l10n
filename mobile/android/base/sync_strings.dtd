@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Sambung ke &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Tambah Akaun syncBrand.fullName.label">
+<!ENTITY sync.title.adddevice.label "Tambah &syncBrand.fullName.label; Akaun">
 <!ENTITY sync.title.pair.label "Memasangkan Peranti">
 <!-- J-PAKE Key Screen -->
 
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "Sedang menunggu peranti yang lain…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Masukkan maklumat akaun syncBrand.fullName.label anda">
+<!ENTITY sync.subtitle.account.label "Masukkan &syncBrand.fullName.label; maklumat akaun anda">
 <!ENTITY sync.input.username.label "Nama Akaun">
 <!ENTITY sync.input.password.label "Kata laluan">
 <!ENTITY sync.input.key.label "Kekunci Pemulihan">
@@ -46,7 +46,7 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Setup Selesai">
-<!ENTITY sync.subtitle.success.label1 "Data anda sedang dimuat turun pada latar belakang. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau mula melayari web dengan  brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Data anda sedang dimuat turun pada latar belakang. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau mula melayari web dengan &brandShortName;.">
 <!ENTITY sync.settings.label "Tetapan">
 <!ENTITY sync.subtitle.manage.label1 "Akaun &syncBrand.fullName.label; anda sudah disediakan. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau melancarkan &brandShortName;.">
 <!-- Pair Device -->
