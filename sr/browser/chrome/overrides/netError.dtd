@@ -86,8 +86,8 @@
 <!ENTITY netTimeout.title "Веза је истекла">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Нејасна адреса">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Нејасна адреса">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Можда ћете морати да инсталирате неки други програм како бисте отворили ову адресу.</li> 
 </ul>
