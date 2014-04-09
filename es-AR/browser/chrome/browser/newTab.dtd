@@ -9,6 +9,5 @@
 <!ENTITY newtab.undo.restoreButton "Restaurar todo.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
 <!ENTITY newtab.panel.message "Este sitio está siendo sugerido porque ha patrocinado a Mozilla, ayudándonos a promover la apertura, innovación y oportunidad en la web.">
-<!ENTITY newtab.panel.link.url "https://support.mozilla.org/kb/how-do-sponsored-tiles-work">
 <!ENTITY newtab.panel.link.text "Conocer más…">
 
