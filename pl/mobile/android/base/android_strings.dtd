@@ -72,6 +72,7 @@
 <!ENTITY pref_category_privacy_short "Prywatność">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
+<!ENTITY pref_learn_more "Dowiedz się więcej">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane silniki wyszukiwania">
 <!ENTITY pref_category_add_search_providers "Dodaj więcej wyszukiwarek">
 <!ENTITY pref_category_search_restore_defaults "Przywróć wyszukiwarki">
@@ -85,7 +86,6 @@
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
-<!ENTITY pref_developer_remotedebugging_docs "Dowiedz się więcej">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
 
 <!ENTITY pref_category_home "Strona domowa">
@@ -200,8 +200,8 @@ size. -->
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
 <!ENTITY datareporting_crashreporter_title_short "Zgłaszanie awarii">
-<!ENTITY datareporting_wifi_title "Usługi lokalizacji organizacji &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Pomóż nam ulepszyć usługi geolokalizacji dla Otwartej Sieci, pozwalając, by przeglądarka &brandShortName; zbierała i wysyłała anonimowe dane">
+<!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Działając w tle, odbiera informacje o lokalizacji przez Wi-Fi i dane komórkowe, a następnie udostępnia je organizacji &vendorShortName;, aby pomóc nam ulepszyć usługi geolokalizacyjne">
 
 <!ENTITY pref_update_autodownload2 "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
