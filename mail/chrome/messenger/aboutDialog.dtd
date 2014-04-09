@@ -6,11 +6,11 @@
 # the about dialog.
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
-<!ENTITY update.checkForUpdatesButton.accesskey   "update.checkForUpdatesButton.accesskey_F">
+<!ENTITY update.checkForUpdatesButton.accesskey   "F">
 <!ENTITY update.updateButton.label                "Újraindítás a frissítéshez">
-<!ENTITY update.updateButton.accesskey            "update.updateButton.accesskey_r">
+<!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Frissítés alkalmazása…">
-<!ENTITY update.applyButtonBillboard.accesskey    "update.applyButtonBillboard.accesskey_a">
+<!ENTITY update.applyButtonBillboard.accesskey    "a">
 
 <!ENTITY community.start2           "A &brandShortName;ot a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
