@@ -56,6 +56,7 @@
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Condivisione dati">
+<!ENTITY pref_learn_more "Ulteriori informazioni">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
 <!ENTITY pref_category_add_search_providers "Aggiungi altri motori di ricerca">
 <!ENTITY pref_category_search_restore_defaults "Ripristina motori di ricerca">
@@ -64,7 +65,6 @@
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_devtools "Strumenti per sviluppatori">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
-<!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
@@ -150,8 +150,8 @@
 <!ENTITY datareporting_telemetry_summary "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title "Geolocalizzazione di &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Aiutaci a migliorare i servizi di geolocalizzazione dell’Open Web consentendo a &brandShortName; di raccogliere e inviare dati in forma anonima sulle stazioni radio base.">
+<!ENTITY datareporting_wifi_title2 "Geolocalizzazione di &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Registra informazioni su Wi-Fi e posizione nella rete cellulare quando aperto in background, condividi questi dati con &vendorShortName; per migliorare i servizi di geolocalizzazione.">
 <!ENTITY pref_update_autodownload2 "Scarica aggiornamenti">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
