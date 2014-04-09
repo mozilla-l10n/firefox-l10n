@@ -103,7 +103,7 @@
 <!ENTITY calendar.task.filter.notstarted.label "Verkefni sem eru ekki byrjuð">
 <!ENTITY calendar.task.filter.notstarted.accesskey "b">
 <!ENTITY calendar.task.filter.overdue.label "Verkefni á eftir áætlun">
-<!ENTITY calendar.task.filter.overdue.accesskey "y">
+<!ENTITY calendar.task.filter.overdue.accesskey "æ">
 <!ENTITY calendar.task.filter.completed.label "Lokin verkefni">
 <!ENTITY calendar.task.filter.completed.accesskey "L">
 <!ENTITY calendar.task.filter.open.label "Ólokin verkefni">
