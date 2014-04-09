@@ -36,6 +36,8 @@
 <!ENTITY device.debugBrowserTab "Debug">
 <!ENTITY device.debugBrowserTabTooltip "Apre gli strumenti per sviluppatori connettendoli a questa scheda del browser sul dispositivo">
 <!ENTITY device.help "Guida">
+<!ENTITY device.debugMainProcess "Debug processo principale">
+<!ENTITY device.debugMainProcessTooltip "Apre gli strumenti per sviluppatori connettendoli al processo principale sul dispositivo">
 <!ENTITY connection.connectTooltip "Connetti al dispositivo">
 <!ENTITY connection.disconnect "Disconnetti">
 <!ENTITY connection.disconnectTooltip "Disconnetti il dispositivo corrente o il simulatore">
