@@ -685,7 +685,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; aanpassen">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu en werkbalken">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Extra hulpmiddelen en functies">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wilt u meer hulpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duizenden add-ons">
