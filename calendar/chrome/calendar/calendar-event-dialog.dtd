@@ -149,6 +149,7 @@
 <!ENTITY  event.toolbar.save.tooltip                      "Guardar y cerrar">
 <!ENTITY  event.toolbar.delete.tooltip                    "Borrar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invitar participantes">
+<!ENTITY  event.toolbar.spellcheck.tooltip                "Ortografía">
 <!ENTITY  event.toolbar.attachments.tooltip               "Agregar adjuntos">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Cambiar privacidad">
 <!ENTITY  event.toolbar.priority.tooltip                  "Cambiar prioridad">
