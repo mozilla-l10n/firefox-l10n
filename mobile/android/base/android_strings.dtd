@@ -72,6 +72,7 @@
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opciones de datos">
+<!ENTITY pref_learn_more "Concer más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Agregar más proveedores de búsqueda">
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
@@ -85,7 +86,6 @@
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
-<!ENTITY pref_developer_remotedebugging_docs "Conocer más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!ENTITY pref_category_home "Inicio">
@@ -204,8 +204,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
-<!ENTITY datareporting_wifi_title "Servicios de ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ayudar a mejorar los servicios de geolocalización para la web abierta permitiendo que &brandShortName; recolecte y envíe datos anónimos sobre torres de celulares">
+<!ENTITY datareporting_wifi_title2 "Servicio de ubicación de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Recibe datos de ubicación mediante Wi-Fi y celular al ejecutarse en segundo plano y lo comparte con &vendorShortName; para mejorar nuestro servicio de geolocalización">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
