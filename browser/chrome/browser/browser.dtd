@@ -659,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Nu synchroniseren">
 <!ENTITY syncSyncNowItem.accesskey    "s">
+<!ENTITY syncReAuthItem.label         "Opnieuw verbinden met &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Synchroniseren">
 
 <!ENTITY socialToolbar.title        "Sociale-werkbalkknop">
