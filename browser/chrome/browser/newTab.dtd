@@ -7,3 +7,5 @@
 <!ENTITY newtab.undo.undoButton "Deshacer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar todas.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
+<!ENTITY newtab.panel.message "Este sitio se sugiere porque ha patrocinado a Mozilla, ayudándonos a promocionar la apertura, la innovación y la oportunidad en la web.">
+<!ENTITY newtab.panel.link.text "Saber más…">
