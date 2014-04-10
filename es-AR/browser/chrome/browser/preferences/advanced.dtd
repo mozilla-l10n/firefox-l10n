@@ -50,7 +50,7 @@
 <!ENTITY crashReporterSection.label      "Informe de fallos">
 <!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de fallos para ayudar a que &vendorShortName; haga un navegador más estable y seguro">
 <!ENTITY enableCrashReporter.label       "Habilitar informe de fallos">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY enableCrashReporter.accesskey   "H">
 <!ENTITY crashReporterLearnMore.label    "Conocer más">
 
 <!ENTITY networkTab.label                "Red">
