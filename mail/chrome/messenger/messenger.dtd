@@ -635,6 +635,8 @@
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensaje en la conversación">
 <!ENTITY contextOpenConversation.accesskey "c">
+<!ENTITY contextOpenContainingFolder.label "Abrir mensaje en la carpeta que lo contiene">
+<!ENTITY contextOpenContainingFolder.accesskey "c">
 <!ENTITY contextEditMsgAsNew.label "Editar como mensaje nuevo">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Archivar">
