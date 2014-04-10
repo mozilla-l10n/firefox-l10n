@@ -6,7 +6,7 @@
 <!ENTITY crashprompt.message "Siamo spiacenti, &brandShortName; è stato appena ripristinato in seguito a un arresto anomalo. L’invio di segnalazioni di errore aiuta Mozilla a migliorare la stabilità e la sicurezza di &brandShortName;. È possibile modificare questa impostazione in qualsiasi momento nelle impostazioni.">
 <!ENTITY crashprompt.detailsLink "Che cosa è contenuto nelle segnalazioni di errore?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Una segnalazione di errore contiene alcuni dettagli sull’arresto anomalo, il computer, così come un’instantanea del browser nel momento in cui si è bloccato.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "Questo potrebbe includere informazioni come le pagine aperte, il testo inserito nei moduli e il contenuto di messaggi aperti, cronologia della navigazione, o dati di geolocalizzazione condivisi con un sito.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Questo potrebbe includere informazioni come le pagine aperte, il testo inserito nei moduli e il contenuto di messaggi aperti, cronologia della navigazione, o dati di georilevazione condivisi con un sito.">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Utilizziamo le segnalazioni di errore per risolvere errori e migliorare i nostri prodotti. Queste informazioni vengono gestite con le modalità descritte nella nostra ">
 <!ENTITY crashprompt.privacyPolicyLink "informativa sulla privacy di &brandShortName;">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
