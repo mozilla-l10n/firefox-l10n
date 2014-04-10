@@ -56,6 +56,7 @@
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elección de datos">
+<!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
@@ -64,7 +65,6 @@
 <!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
-<!ENTITY pref_developer_remotedebugging_docs "Saber más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar su página de inicio">
@@ -150,8 +150,8 @@
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
-<!ENTITY datareporting_wifi_title "Serv. localización de &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ayude a mejorar los servicios de geolocalización para la web abierta permitiendo a &brandShortName; recopilar y enviar datos anónimos de las torres celulares">
+<!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Recibe datos de localización wifi y de la red móvil mientras se ejecuta en fondo y lo comparte con &vendorShortName; para mejorar nuestro servicio de geolocalización">
 <!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
