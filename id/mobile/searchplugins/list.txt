@@ -1,3 +1,5 @@
+bing
 google
-wikipedia
-yahoo
+twitter
+wikipedia-id
+yahoo-id
