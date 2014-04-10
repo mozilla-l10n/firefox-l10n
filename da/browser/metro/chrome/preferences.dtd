@@ -27,7 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive login">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Husk adgangskoder">
-<!ENTITY optionsHeader.displayOverlayButtons.label               "Vis navigations-knapper">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Vis navigationsknapper">
 <!ENTITY doNotTrack.title                                        "Spor mig ikke">
 <!ENTITY doNotTrack.options.doNotTrack                           "Fortæl websteder, at jeg ikke vil spores">
 <!ENTITY doNotTrack.options.doTrack                              "Fortæl websteder, at jeg gerne vil spores">
