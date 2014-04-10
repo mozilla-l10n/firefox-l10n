@@ -13,3 +13,5 @@
 <!ENTITY andSetStatusToAway.accesskey "b">
 <!ENTITY sendTyping.label "Enviar notificaciones de escritura en conversaciones">
 <!ENTITY sendTyping.accesskey "E">
+<!ENTITY desktopChatNotifications.label "Mostrar notificaciones de mensajes dirigidos a usted">
+<!ENTITY desktopChatNotifications.accesskey "M">
