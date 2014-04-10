@@ -1,3 +1,6 @@
-google
-twitter
 be.wikipedia.org
+bing
+google
+tut.by
+yahoo
+yandex.by
