@@ -9,6 +9,7 @@
 <!ENTITY translation.translatingContent.label "Traduciendo contenido de la página…">
 <!ENTITY translation.translatedFrom.label "Esta página ha sido traducida del">
 <!ENTITY translation.translatedTo.label "a">
+<!ENTITY translation.translatedToSuffix.label "">
 <!ENTITY translation.showOriginal.button "Mostrar original">
 <!ENTITY translation.showTranslation.button "Mostrar traducción">
 <!ENTITY translation.errorTranslating.label "Ha habido un error al traducir esta página.">
