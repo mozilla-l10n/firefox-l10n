@@ -62,7 +62,7 @@
 <!ENTITY sync.summary.pair.label 'Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Ç'të njëkohësohet'>
+<!ENTITY sync.configure.engines.title.label 'Ç\u0027të njëkohësohet'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Njëkohësoni…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Faqerojtësit tuaj'>
 <!ENTITY sync.configure.engines.title.passwords 'Fjalëkalimet tuaja'>
@@ -147,7 +147,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text 'Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në linjë.'>
 <!ENTITY fxaccount_create_account_button 'Pasuesi'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zgjidhni ç'të njëkohësohen'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zgjidhni ç\u0027utë njëkohësohen'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Keni tashmë një llogari? Hyni në të'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 ose më herët'>
 <!ENTITY fxaccount_create_account_unknown_error 'Nuk u krijua dot llogari'>
