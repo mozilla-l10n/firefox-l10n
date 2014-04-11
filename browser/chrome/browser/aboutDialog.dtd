@@ -9,11 +9,11 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
-<!ENTITY update.checkForUpdatesButton.accesskey   "update.checkForUpdatesButton.accesskey_F">
+<!ENTITY update.checkForUpdatesButton.accesskey   "F">
 <!ENTITY update.updateButton.label                "Újraindítás a frissítéshez">
-<!ENTITY update.updateButton.accesskey            "update.updateButton.accesskey_r">
+<!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Frissítés alkalmazása…">
-<!ENTITY update.applyButtonBillboard.accesskey    "update.applyButtonBillboard.accesskey_a">
+<!ENTITY update.applyButtonBillboard.accesskey    "a">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "A &brandShortName; kísérleti és esetleg instabil.">
