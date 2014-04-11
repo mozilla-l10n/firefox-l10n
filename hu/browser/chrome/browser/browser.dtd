@@ -90,7 +90,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "B">
 <!ENTITY exitFullScreenCmd.label "Kilépés a teljes képernyős módból">
 <!ENTITY exitFullScreenCmd.accesskey "K">
-<!ENTITY fullScreenCmd.label "Teljes képernyős üzemmód">
+<!ENTITY fullScreenCmd.label "Teljes képernyő">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Az összes böngészőlap megjelenítése">
@@ -333,8 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Testreszabás">
 <!ENTITY appMenuCustomize.tooltip "A menü és az eszköztárak testreszabása">
-<!ENTITY appMenuCustomizeExit.label "Kilépés a személyre szabásból">
-<!ENTITY appMenuCustomizeExit.tooltip "Személyre szabás befejezése">
+<!ENTITY appMenuCustomizeExit.label "Kilépés a testreszabásból">
+<!ENTITY appMenuCustomizeExit.tooltip "Testreszabás befejezése">
 <!ENTITY appMenuHistory.label "Előzmény">
 <!ENTITY appMenuHistory.showAll.label "Minden előzmény megjelenítése">
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
@@ -523,7 +523,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "V">
 <!ENTITY mediaHideControls.label     "Vezérlők elrejtése">
 <!ENTITY mediaHideControls.accesskey "V">
-<!ENTITY videoFullScreen.label       "Teljes képernyős üzemmód">
+<!ENTITY videoFullScreen.label       "Teljes képernyő">
 <!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Pillanatkép mentése más néven…">
 <!ENTITY videoSaveImage.accesskey    "P">
@@ -566,11 +566,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Új ablak megnyitása">
 <!ENTITY sidebarCloseButton.tooltip     "Oldalsáv bezárása">
 
-<!ENTITY fullScreenButton.tooltip       "Ablak megjelenítése teljes képernyős üzemmódban">
+<!ENTITY fullScreenButton.tooltip       "Ablak megjelenítése teljes képernyős módban">
 
 <!ENTITY quitApplicationCmdWin.label       "Kilépés"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
-<!ENTITY quitApplicationCmdWin.tooltip     "Kilépés a &brandShortName;ből">
+<!ENTITY quitApplicationCmdWin.tooltip     "Kilépés a &brandShortName;ból">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Kilépés"> 
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY customizeMode.tabTitle "A &brandShortName; személyre szabása">
+<!ENTITY customizeMode.tabTitle "A &brandShortName; testreszabása">
 <!ENTITY customizeMode.menuAndToolbars.label "Menü és eszköztárak">
 <!ENTITY customizeMode.menuAndToolbars.header2 "További eszközök és funkciók">
 <!ENTITY customizeMode.menuAndToolbars.empty "További eszközöket szeretne?">
