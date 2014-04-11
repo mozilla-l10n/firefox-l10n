@@ -992,7 +992,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
 	<rdf:li> <rdf:Description ID="character_encoding" nc:name="Kodowanie znaków" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
 
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Sieć i miejsce na dysku" nc:link="mmailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Sieć i miejsce na dysku" nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
 
       </rdf:Seq>
 
