@@ -6,16 +6,17 @@
 <!ENTITY newWindowsAsTabs.accesskey   "О">
 
 <!ENTITY warnCloseMultipleTabs.label  "Упозори ме при затварању више језичака">
-<!ENTITY warnCloseMultipleTabs.accesskey  "У">
+<!ENTITY warnCloseMultipleTabs.accesskey  "в">
 
-<!ENTITY warnOpenManyTabs.label       "Упозори ме када отварање више језичака може да успори програм &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Упозори ме када отварање више језичака може да успори &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "У">
 
-<!ENTITY restoreTabsOnDemand.label        "Не учитавај картице које нису обележене">
-<!ENTITY restoreTabsOnDemand.accesskey    "у">
+<!ENTITY restoreTabsOnDemand.label        "Не учитавај језичке које нису обележени">
+<!ENTITY restoreTabsOnDemand.accesskey    "о">
 
 <!ENTITY switchToNewTabs.label        "Када отворим везу у новом језичку одмах се пребаци на њега">
 <!ENTITY switchToNewTabs.accesskey    "К">
 
-<!ENTITY showTabsInTaskbar.label          "Прикажи преглед језичка у виндовсовој (Windows) траци задатака">
+<!ENTITY showTabsInTaskbar.label          "Прикажи преглед језичка у Windows траци задатака">
 <!ENTITY showTabsInTaskbar.accesskey      "П">
+<!ENTITY tabsGroup.label          "Језичци">

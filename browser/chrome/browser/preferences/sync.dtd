@@ -1,25 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- The page shown when not logged in... -->
-
 <!ENTITY setupButton.label          "Подеси &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "П">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Вам дозвољава приступ вашем историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Вам дозвољава приступ Вашем историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
+
 <!-- The page shown when logged in... -->
+
 <!-- Login error feedback -->
+<!ENTITY updatePass.label             "Ажурирај">
+<!ENTITY resetPass.label              "Ресетуј">
 
-
-<!ENTITY updatePass.label             "Уреди">
-<!ENTITY resetPass.label              "Врати">
 <!-- Manage Account -->
-
 <!ENTITY manageAccount.label          "Управљање налогом">
 <!ENTITY manageAccount.accesskey      "У">
 <!ENTITY viewQuota.label              "Преглед квота">
 <!ENTITY changePassword2.label        "Промена лозинке…">
 <!ENTITY myRecoveryKey.label          "Мој кључ за опоравак">
-<!ENTITY resetSync2.label             "Ресетуј синхронизацију…">
+<!ENTITY resetSync2.label             "Ресетуј Sync…">
 
 <!ENTITY pairDevice.label             "Упари уређај">
 
@@ -36,12 +36,45 @@
 <!ENTITY engine.prefs.accesskey     "П">
 <!ENTITY engine.addons.label        "Додаци">
 <!ENTITY engine.addons.accesskey    "Д">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Назив уређаја">
 <!ENTITY syncDeviceName.accesskey   "ђ">
 <!ENTITY unlinkDevice.label           "Уклони овај уређај">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Услови коришћења услуге">
 <!ENTITY prefs.ppLink.label         "Полиса о приватности">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Обавештење о приватност">
+<!ENTITY determiningAcctStatus.label     "Утврђујем стање Вашег налога…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "није верификован.">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Пријавите се да бисте се поново конектовали">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Нисте пријављени.">
+<!ENTITY signIn.label                "Пријави се">
+<!ENTITY manage.label                "Управљање">
+<!ENTITY disconnect.label            "Прекини конекцију…">
+<!ENTITY verify.label                "Верификуј е-пошту">
+<!ENTITY forget.label                "Заборави на ову е-пошту">
+
+<!ENTITY welcome.description "Приступите Вашим језичцима, забелешкама и лозинкама кад год користите &brandShortName;.">
+<!ENTITY welcome.signIn.label "Пријави се">
+<!ENTITY welcome.createAccount.label "Направи налог">
+
+<!ENTITY welcome.useOldSync.label "Користите старију Sync верзију?">
