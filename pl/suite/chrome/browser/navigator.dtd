@@ -73,3 +73,10 @@
 <!ENTITY statusText.label "Zakończono">
 
 <!ENTITY popupIcon.tooltiptext "Odblokuj możliwość wyświetlania wyskakujących okien przez tę witrynę">
+
+<!ENTITY viewSecurityInfo.label "Pokaż informacje o zabezpieczeniach">
+<!ENTITY viewSecurityInfo.accesskey "z">
+<!ENTITY viewCertificate.label "Pokaż certyfikat">
+<!ENTITY viewCertificate.accesskey "c">
+<!ENTITY viewCertManager.label "Otwórz menedżer certyfikatów">
+<!ENTITY viewCertManager.accesskey "m">
