@@ -33,29 +33,29 @@
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Sorter etter fullføring">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioritet">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sorter etter prioritet">
-<!ENTITY calendar.unifinder.tree.title.label             "Tittel">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Trykk for å sortere etter tittel">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; fullført">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Trykk for å sortere etter &#37; fullført">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Start">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Trykk for å sortere etter startdato">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Slutt">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Trykk for å sortere etter sluttdato">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Forfall">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Trykk for å sortere etter forfallsdato">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Fullført">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Trykk for å sortere etter fullførtdato">
-<!ENTITY calendar.unifinder.tree.categories.label        "Kategori">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Trykk for å sortere etter kategori">
-<!ENTITY calendar.unifinder.tree.location.label          "Sted">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Trykk for å sortere etter sted">
-<!ENTITY calendar.unifinder.tree.status.label            "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Trykk for å sortere etter status">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Kalendernavn">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Trykk for å sortere etter kalendernavn">
-<!ENTITY calendar.unifinder.tree.duration.label          "Forfaller">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Trykk for å sortere etter forfaller">
-<!ENTITY calendar.unifinder.close.tooltip                "Lukker hendelsessøk og hendelsesliste">
+<!ENTITY calendar.unifinder.tree.title.label               "Tittel">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Sorter etter tittel">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; fullført">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sorter etter &#37; fullført">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Start">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sorter etter startdato">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Slutt">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sorter etter sluttdato">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Forfall">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sorter etter forfallsdato">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Fullført">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sorter etter fullførtdato">
+<!ENTITY calendar.unifinder.tree.categories.label          "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sorter etter kategori">
+<!ENTITY calendar.unifinder.tree.location.label            "Sted">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Sorter etter sted">
+<!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Sorter etter status">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Kalendernavn">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter etter kalendernavn">
+<!ENTITY calendar.unifinder.tree.duration.label            "Forfaller">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfaller">
+<!ENTITY calendar.unifinder.close.tooltip                  "Lukker hendelsessøk og hendelsesliste">
 
 <!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
 <!ENTITY calendar.todaypane.button.tooltip      "Vis i dagsvisningen" >
@@ -330,7 +330,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valgte hendelser/oppgaver">
 <!ENTITY calendar.print.tasks.label "Oppgaver">
 <!ENTITY calendar.print.events.label "Hendelser">
-<!ENTITY calendar.print.selected.label "Valgte hendelser">
 <!ENTITY calendar.print.custom.label "Hendelser mellom:">
 <!ENTITY calendar.print.from.label "Fra:">
 <!ENTITY calendar.print.to.label "Til:">
