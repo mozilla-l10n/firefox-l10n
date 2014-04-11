@@ -39,10 +39,10 @@
 <!ENTITY connection.disconnectTooltip "Leválás az aktuális eszközről vagy szimulátorról">
 <!ENTITY connection.notConnected2 "Nincs csatlakoztatva.">
 <!ENTITY connection.connectTo "Kapcsolódás:">
-<!ENTITY connection.noDeviceFound "Nem található eszköz. Csatlakoztasson egyet.">
+<!ENTITY connection.noDeviceFound "Nem található eszköz. Csatlakoztasson egyet,">
 <!ENTITY connection.changeHostAndPort "Változtatás">
 <!ENTITY connection.changeHostAndPortTooltip "Az eszközhöz csatlakozáshoz használt gép és port módosítása (alapérték: localhost:6000)">
-<!ENTITY connection.startSimulator "Szimulátor indítása">
+<!ENTITY connection.startSimulator "Indítsa el a szimulátort">
 <!ENTITY connection.startSimulatorTooltip "A szimulátor elindítása és kapcsolódás hozzá">
 <!ENTITY connection.saveConnectionInfo "Mentés">
 <!ENTITY connection.saveConnectionInfoTooltip "A gép és port mentése">
