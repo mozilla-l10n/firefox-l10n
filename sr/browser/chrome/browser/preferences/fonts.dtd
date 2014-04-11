@@ -29,14 +29,13 @@
 <!ENTITY  font.langGroup.japanese                 "јапанско">
 <!ENTITY  font.langGroup.trad-chinese             "традиционални кинески">
 <!ENTITY  font.langGroup.simpl-chinese            "кинеско упрошћено">
-<!ENTITY  font.langGroup.trad-chinese-hk          "традиционални кинески (Хонгконг)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "традиционални кинески (Хонг конг)">
 <!ENTITY  font.langGroup.korean                   "корејско">
 <!ENTITY  font.langGroup.cyrillic                 "ћирилица">
 <!ENTITY  font.langGroup.baltic                   "балтички">
 <!ENTITY  font.langGroup.el                       "грчки">
 <!ENTITY  font.langGroup.turkish                  "турски">
 <!ENTITY  font.langGroup.unicode                  "други језици">
-<!ENTITY  font.langGroup.user-def                 "корисничко">
 <!ENTITY  font.langGroup.thai                     "тајландски">
 <!ENTITY  font.langGroup.hebrew                   "хебрејски">
 <!ENTITY  font.langGroup.arabic                   "арапски">
@@ -60,15 +59,52 @@
 <!ENTITY minSize.label                            "Најмања величина фонта:">
 <!ENTITY minSize.accesskey                        "Н">
 <!ENTITY minSize.none                             "ниједна">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Серифни">
 <!ENTITY  useDefaultFontSansSerif.label           "Без серифа">
 
 <!ENTITY  allowPagesToUse.label                   "Дозволи страницама да користе сопствене фонтове уместо оног што ја изаберем">
 <!ENTITY  allowPagesToUse.accesskey               "Д">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.grouplabel  "Кодирање карактета за застарели садржај">
+<!ENTITY languages.customize.Fallback.label       "Резервно кодирање карактера:">
+<!ENTITY languages.customize.Fallback.accesskey   "Р">
+<!ENTITY languages.customize.Fallback.desc        "Ово кодирање карактера се користи за застарели садражај који не успева да декларише кодирање.">
+
+<!ENTITY languages.customize.Fallback.auto        "Подразумевано за овај локал">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "арапски">
+<!ENTITY languages.customize.Fallback.baltic      "балтички">
+<!ENTITY languages.customize.Fallback.ceiso       "централноевропски, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "централноевропски, Microsoft">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "кинеско упрошћено">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "традиционални кинески">
+<!ENTITY languages.customize.Fallback.cyrillic    "ћирилица">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "грчки">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "хебрејски">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "јапанско">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "корејско">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "тајландски">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "турски">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "вијетмански">
+<!ENTITY languages.customize.Fallback.other       "други (са западноевропским)">

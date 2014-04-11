@@ -8,7 +8,7 @@
 <!ENTITY  actionColumn2.label     "Дејство">
 <!ENTITY  actionColumn2.accesskey "Д">
 
-<!ENTITY  focusSearch1.key        "с">
-<!ENTITY  focusSearch2.key        "П">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter.emptytext        "Претрага…">
