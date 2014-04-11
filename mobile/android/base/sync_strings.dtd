@@ -136,11 +136,11 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header 'Lag en Firefox-konto'>
+<!ENTITY fxaccount_create_account_header2 'Lag en Firefox-konto'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Må være minst 8 tegn'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Fødselsår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Ved å fortsette, godtar jeg &formatS1; og &formatS2;-notatet for online-tjenestene i Firefox.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Ved å fortsette, godtar jeg &formatS1; og &formatS2; for Firefox sky-tjenester.'>
 <!ENTITY fxaccount_create_account_button 'Neste'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Velg hva som skal synkroniseres'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Har du allerede konto? Logg inn'>
