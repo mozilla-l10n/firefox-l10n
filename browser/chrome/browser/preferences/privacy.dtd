@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "Праћење">
 
-<!ENTITY dntTrackingNopref.label2       "Не отркивај веб сајтовима моје поставке о праћењу>
+<!ENTITY dntTrackingNopref.label2       "Не отркивај веб сајтовима моје поставке о праћењу">
 <!ENTITY dntTrackingNopref.accesskey    "Н">
 <!ENTITY dntTrackingNotOkay.label2      "Обавести веб сајтове да не желим да будем праћен">
 <!ENTITY dntTrackingNotOkay.accesskey   "О">
