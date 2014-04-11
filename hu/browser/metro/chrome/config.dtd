@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Keresés">
-<!ENTITY newpref.label          "Új beállítás hozzáadása">
 <!ENTITY addpref.name           "Név">
-<!ENTITY addpref.value          "Érték">
 
 <!ENTITY cancel.label           "Mégse">
-<!ENTITY reset.label            "Alaphelyzet">
-<!ENTITY done.label             "Kész">
+<!ENTITY toggle.label           "Ki/be">
 
 <!ENTITY integer.label          "Egész szám">
 <!ENTITY string.label           "Karakterlánc">
 <!ENTITY boolean.label          "Logikai érték">
+
+<!ENTITY string.placeholder     "Írjon be szöveget">
+<!ENTITY number.placeholder     "Írjon be számot">

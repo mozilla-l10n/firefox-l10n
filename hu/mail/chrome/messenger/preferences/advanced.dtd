@@ -63,20 +63,20 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Frissítések automatikus keresése:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Telepített kiegészítők">
-<!ENTITY enableAddonsUpdate.accesskey   "T">
-<!ENTITY whenUpdatesFound.label         "Amikor frissítések érhetők el a &brandShortName; programhoz:">
-<!ENTITY modeAskMe.label                "Kérdezzen rá, hogy mi a teendő">
-<!ENTITY modeAskMe.accesskey            "K">
-<!ENTITY modeAutomatic.label            "Frissítések automatikus letöltése és telepítése">
-<!ENTITY modeAutomatic.accesskey        "F">
-<!ENTITY modeAutoAddonWarn.label        "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
-<!ENTITY modeAutoAddonWarn.accesskey    "i">
-<!ENTITY showUpdates.label              "Frissítési előzmények megjelenítése">
-<!ENTITY showUpdates.accesskey          "F">
+<!ENTITY updateApp.label                 "&brandShortName; frissítések:">
+<!ENTITY updateAuto.label                "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
+<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY updateAutoAddonWarn.accesskey   "F">
+<!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
+<!ENTITY updateHistory.accesskey         "z">
+<!ENTITY updateOthers.label              "Automatikus frissítés:">
+<!ENTITY enableAddonsUpdate3.label       "Kiegészítők">
+<!ENTITY enableAddonsUpdate3.accesskey   "k">
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
