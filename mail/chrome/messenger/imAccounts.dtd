@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Le">
 <!ENTITY account.cancelReconnection.label         "Újracsatlakozás megszakítása">
 <!ENTITY account.cancelReconnection.accesskey     "r">
+<!ENTITY account.copyDebugLog.label     "Hibakeresési napló másolása">
+<!ENTITY account.copyDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Csatlakozás…">
 <!ENTITY account.disconnecting        "Szétkapcsolás…">
 <!ENTITY account.disconnected         "Nincs csatlakoztatva">

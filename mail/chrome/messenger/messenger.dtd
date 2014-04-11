@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "C">
 <!ENTITY folderMenu.label "Mappa">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY thisFolder.label "Ez a mappa">
-<!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Nemrég bezárt lapok">
 <!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Mellékletként">
 <!ENTITY forwardAsAttachmentCmd.accesskey "M">
-<!ENTITY editMsgAsNewCmd.label "Üzenet szerkesztése újként">
-<!ENTITY editMsgAsNewCmd.accesskey "z">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Szerkesztés új üzenetként">
+<!ENTITY editAsNewMsgCmd.accesskey "z">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján…">
 <!ENTITY createFilter.accesskey "S">
 <!ENTITY moveMsgToMenu.label "Áthelyezés">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Témacsoport figyelése">
 <!ENTITY watchThreadMenu.accesskey "f">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Iktatás itt">
-<!ENTITY fileHereMenu.accesskey "I">
-<!ENTITY copyHereMenu.label "Másolás ide">
-<!ENTITY copyHereMenu.accesskey "M">
 <!ENTITY tagMenu.label "Címke">
 <!ENTITY tagMenu.accesskey "C">
 <!ENTITY tagCmd0.key "0">
@@ -575,8 +569,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Figyelmeztetés mellőzése ehhez az üzenethez">
 <!ENTITY phishingOptionIgnore.accesskey "m">
-<!ENTITY phishingOptionDisableDetection.label "Egyik üzenetben se keressen becsapást.">
-<!ENTITY phishingOptionDisableDetection.accesskey "k">
+<!ENTITY phishingOptionSettings.label "Becsapós üzenetek felismerési beállításainak szerkesztése…">
+<!ENTITY phishingOptionSettings.accesskey "c">
+<!ENTITY phishingOptionSettingsUnix.label "Becsapós üzenetek felismerési beállításainak szerkesztése…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "c">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Mellékletek">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Jelölje ki a megjelenítendő oszlopokat">
-<!ENTITY threadColumn.tooltip "Kattintson a témacsoportok megjelenítéséhez">
-<!ENTITY fromColumn.tooltip "Kattintson a feladó szerinti rendezéshez">
-<!ENTITY recipientColumn.tooltip "Kattintson a címzett szerinti rendezéshez">
-<!ENTITY subjectColumn.tooltip "Kattintson a tárgy szerinti rendezéshez">
-<!ENTITY dateColumn.tooltip "Kattintson a dátum szerinti rendezéshez">
-<!ENTITY priorityColumn.tooltip "Kattintson a sürgősség szerinti rendezéshez">
-<!ENTITY tagsColumn.tooltip "Kattintson a címkék szerinti rendezéshez">
-<!ENTITY accountColumn.tooltip "Kattintson a postafiók szerinti rendezéshez">
-<!ENTITY statusColumn.tooltip "Kattintson az állapot szerinti rendezéshez">
-<!ENTITY sizeColumn.tooltip "Kattintson a méret szerinti rendezéshez">
-<!ENTITY junkStatusColumn.tooltip "Kattintson a szemétállapot szerinti rendezéshez">
-<!ENTITY unreadColumn.tooltip "A témacsoport olvasatlan üzeneteinek száma">
-<!ENTITY totalColumn.tooltip "A témacsoport üzeneteinek száma">
-<!ENTITY readColumn.tooltip "Kattintson az olvasottság szerinti rendezéshez">
-<!ENTITY receivedColumn.tooltip "Kattintson a beérkezés szerinti rendezéshez">
-<!ENTITY starredColumn.tooltip "Kattintson a csillag szerinti rendezéshez">
-<!ENTITY locationColumn.tooltip "Kattintson a hely szerinti rendezéshez">
-<!ENTITY idColumn.tooltip "Kattintson a beérkezés szerinti rendezéshez">
-<!ENTITY attachmentColumn.tooltip "Kattintson a csatolt dokumentumok szerinti rendezéshez">
+<!ENTITY columnChooser2.tooltip "Jelölje ki a megjelenítendő oszlopokat">
+<!ENTITY threadColumn2.tooltip "Témacsoportok megjelenítése">
+<!ENTITY fromColumn2.tooltip "Rendezés feladó szerint">
+<!ENTITY recipientColumn2.tooltip "Rendezés címzett szerint">
+<!ENTITY subjectColumn2.tooltip "Rendezés tárgy szerint">
+<!ENTITY dateColumn2.tooltip "Rendezés dátum szerint">
+<!ENTITY priorityColumn2.tooltip "Rendezés sürgősség szerint">
+<!ENTITY tagsColumn2.tooltip "Rendezés címkék szerint">
+<!ENTITY accountColumn2.tooltip "Rendezés postafiók szerint">
+<!ENTITY statusColumn2.tooltip "Rendezés állapot szerint">
+<!ENTITY sizeColumn2.tooltip "Rendezés méret szerint">
+<!ENTITY junkStatusColumn2.tooltip "Rendezés szemétállapot szerint">
+<!ENTITY unreadColumn2.tooltip "A témacsoport olvasatlan üzeneteinek száma">
+<!ENTITY totalColumn2.tooltip "A témacsoport üzeneteinek száma">
+<!ENTITY readColumn2.tooltip "Rendezés olvasottság szerint">
+<!ENTITY receivedColumn2.tooltip "Rendezés beérkezés szerint">
+<!ENTITY starredColumn2.tooltip "Rendezés csillag szerint">
+<!ENTITY locationColumn2.tooltip "Rendezés hely szerint">
+<!ENTITY idColumn2.tooltip "Rendezés beérkezés szerint">
+<!ENTITY attachmentColumn2.tooltip "Rendezés mellékletek szerint">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Üzenet megnyitása új ablakban">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextOpenConversation.label "Üzenet megnyitása beszélgetésben">
 <!ENTITY contextOpenConversation.accesskey "b">
-<!ENTITY contextEditAsNew.label "Szerkesztés újként…">
-<!ENTITY contextEditAsNew.accesskey "z">
+<!ENTITY contextEditMsgAsNew.label "Szerkesztés új üzenetként">
+<!ENTITY contextEditMsgAsNew.accesskey "z">
 <!ENTITY contextArchive.label "Archiválás">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "F">
 <!ENTITY AddDirectlyToAddressBook.label "Felvétel a címjegyzékbe">
 <!ENTITY AddDirectlyToAddressBook.accesskey "c">
-<!ENTITY EditContact.label "Névjegy szerkesztése…">
-<!ENTITY EditContact.accesskey "N">
+<!ENTITY EditContact1.label "Névjegy szerkesztése">
+<!ENTITY EditContact1.accesskey "v">
 <!ENTITY ViewContact.label "Névjegy megtekintése">
 <!ENTITY ViewContact.accesskey "m">
 <!ENTITY SubscribeToNewsgroup.label "Feliratkozás hírcsoportra">
