@@ -46,4 +46,4 @@
 <!ENTITY shareproxy.accesskey       "a">
 <!ENTITY autologinproxy.label       "Salvestatud paroolide korral autentimist ei küsita">
 <!ENTITY autologinproxy.accesskey   "v">
-<!ENTITY autologinproxy.tooltip     "Selle valiku korral autenditakse sind puhverserveritega, mille parool on salvestatud, automaatselt. Parooli küsitakse juhul, kui autentimine ebaõnnestub.">
+<!ENTITY autologinproxy.tooltip     "Selle valiku korral autenditakse sind automaatselt puhverserveritega, mille parool on salvestatud. Parooli küsitakse juhul, kui autentimine ebaõnnestub.">
