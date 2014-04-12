@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktiivsed seansid">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Paroolide salvestamine">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Kuvatakse navigeerimise nuppe">
 <!ENTITY doNotTrack.title                                        "Jälitamine">
 <!ENTITY doNotTrack.options.doNotTrack                           "Veebilehtdele antakse teada, et jälitamist ei soovita">
 <!ENTITY doNotTrack.options.doTrack                              "Veebilehti teavitatakse soovist olla jälitatud">
