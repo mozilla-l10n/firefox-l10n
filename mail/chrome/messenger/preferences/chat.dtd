@@ -13,3 +13,5 @@
 <!ENTITY andSetStatusToAway.accesskey "ш">
 <!ENTITY sendTyping.label "Отправлять уведомления о вводе в разговорах">
 <!ENTITY sendTyping.accesskey "у">
+<!ENTITY desktopChatNotifications.label "Отображать уведомления для направленных вам сообщений">
+<!ENTITY desktopChatNotifications.accesskey "ж">

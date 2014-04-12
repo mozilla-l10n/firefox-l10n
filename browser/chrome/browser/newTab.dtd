@@ -8,5 +8,4 @@
 <!ENTITY newtab.undo.restoreButton "Восстановить все.">
 <!ENTITY newtab.undo.closeTooltip "Скрыть">
 <!ENTITY newtab.panel.message "Этот сайт предлагается, так как он выступил спонсором Mozilla, помогая нам продвигать открытость, инновационность и развитие возможностей в Интернете.">
-<!ENTITY newtab.panel.link.url "https://support.mozilla.org/kb/how-do-sponsored-tiles-work">
 <!ENTITY newtab.panel.link.text "Подробнее…">
