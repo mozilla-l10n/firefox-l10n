@@ -14,6 +14,7 @@
 <!ENTITY dockOptions.label                "Opções do ícone">
 <!ENTITY dockOptions.accesskey            "n">
 
+<!ENTITY newMessagesArrive.label 		  "Ao receber mensagens">
 <!ENTITY playSound.label "Reproduzir um som">
 <!ENTITY playSound1.accesskey "d">
 <!ENTITY showAnimatedAlert.label "Mostrar um alerta">
