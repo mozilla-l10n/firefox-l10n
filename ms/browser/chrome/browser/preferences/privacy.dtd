@@ -25,7 +25,7 @@
 <!ENTITY  locbar.nothing.label          "Tiada">
 
 <!ENTITY  acceptCookies.label           "Terima kukis dari laman web">
-<!ENTITY  acceptCookies.accesskey       "k">
+<!ENTITY  acceptCookies.accesskey       "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
@@ -47,7 +47,7 @@
 <!ENTITY  showCookies.accesskey         "C">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
-<!ENTITY  historyHeader.pre.accesskey      "k">
+<!ENTITY  historyHeader.pre.accesskey      "a">
 <!ENTITY  historyHeader.remember.label     "Mengingati sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan sendiri untuk sejarah">
@@ -73,7 +73,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Sentiasa gunakan mod pelayaran persendirian">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
 <!ENTITY  rememberHistory2.label      "Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun">
 <!ENTITY  rememberHistory2.accesskey  "b">
