@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey    "H">
 <!ENTITY updateHistory.label              "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey          "j">
-<!ENTITY updateOthers.label               "Automaatne uuendamine:">
-<!ENTITY enableAddonsUpdate3.label        "Lisad">
-<!ENTITY enableAddonsUpdate3.accesskey    "L">
 
 <!ENTITY useService.label                 "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey             "U">

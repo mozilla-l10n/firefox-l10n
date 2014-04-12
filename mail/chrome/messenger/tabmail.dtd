@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Sulge kaart">
 <!ENTITY  listAllTabs.label        "Kuva kaartide nimekiri">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Avaleht">

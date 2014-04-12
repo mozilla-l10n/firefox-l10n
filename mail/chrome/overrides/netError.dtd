@@ -85,8 +85,8 @@
 <!ENTITY netTimeout.title                      "Ühendus aegus">
 <!ENTITY netTimeout.longDesc                   "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title                "Aadress jäi arusaamatuks">
-<!ENTITY protocolNotFound.longDesc             "
+<!ENTITY unknownProtocolFound.title            "Aadress jäi arusaamatuks">
+<!ENTITY unknownProtocolFound.longDesc         "
 <ul>
   <li>Sa peaksid võib-olla paigaldama lisatarkvara, et avada see aadress.</li>
 </ul>

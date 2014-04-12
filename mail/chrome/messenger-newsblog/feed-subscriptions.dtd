@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Ekspordi uudistevood koos kaustade struktuuriga; ctrl + klõps või ctrl + enter ekspordib nimekirjana">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Sulge">

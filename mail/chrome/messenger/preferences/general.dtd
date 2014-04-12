@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label               "Taasta algväärtus">
 <!ENTITY useDefault.accesskey           "T">
 
-<!ENTITY bounceSystemDockIcon.label     "Animeeritud süsteemiriba ikoon">
-<!ENTITY bounceSystemDockIcon.accesskey "n">
+<!ENTITY changeDockIconOptions.label    "Rakenduse ikooni seadete muutmine">
+<!ENTITY dockOptions.label              "Rakenduse ikooni seaded…">
+<!ENTITY dockOptions.accesskey          "n">
 
 <!ENTITY newMessagesArrive.label        "Uue kirja saabumisel:">
 <!ENTITY playSound.label                "mängitakse helifaili">
