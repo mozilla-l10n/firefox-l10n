@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ligar novamente ao &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "O &brandShortName; está a sincronizar">
-<!ENTITY syncStartPanel.subTitle "Pode gerir o &syncBrand.shortName.label; nas opções.">
-<!ENTITY syncStartPanel.subTitleUnix "Pode gerir o &syncBrand.shortName.label; nas preferências.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativada">
+<!ENTITY syncStartPanel2.subTitle "O &brandShortName; vai iniciar a sincronização em breve.">
 <!ENTITY syncErrorPanel.heading "Não é possível ligar ao &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Inicie sessão para continuar a sincronização.">
 <!ENTITY syncErrorPanel.signInButton.label "Iniciar sessão">
@@ -660,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey 		"C">
 <!ENTITY syncSyncNowItem.label 		"Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey 	"S">
+<!ENTITY syncReAuthItem.label         "Religar ao &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label 	"Sincronizar">
 
 <!ENTITY socialToolbar.title 		"Botão da barra de ferramentas social">
@@ -685,8 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu e barra de ferramentas">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Funcionalidades e ferramentas adicionais">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">

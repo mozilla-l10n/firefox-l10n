@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "Dispositivo">
 <!ENTITY index.help "Ajuda">
 
+<!ENTITY device.debugMainProcess "Depurar processo principal">
+<!ENTITY device.debugMainProcessTooltip "Abrir as ferramentas do desenvolvedor ligado ao processo principal no dispositivo">
 <!ENTITY device.screenshot "Captura de ecrã">
 <!ENTITY device.screenshotTooltip "Mostra a captura de ecrã do atual estado do dispositivo num novo separador.">
 <!ENTITY device.title "Centro de controlo do dispositivo">
@@ -32,6 +34,10 @@
 <!ENTITY device.permissions "Permissões">
 <!ENTITY device.permissionsTooltip "Ver tabela de permissões para os diversos tipos de aplicações.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Separadores do navegador">
+<!ENTITY device.browserTabsTooltip "Ver uma lista de separadores no navegador dos dispositivo ligado">
+<!ENTITY device.debugBrowserTab "Depurar">
+<!ENTITY device.debugBrowserTabTooltip "Abrir as ferramentas do desenvolvedor ligado a este navegador no dispositivo">
 <!ENTITY device.help "Ajuda">
 
 <!ENTITY connection.connectTooltip "Ligar ao dispositivo.">

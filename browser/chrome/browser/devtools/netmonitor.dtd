@@ -67,6 +67,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
 <!ENTITY netmonitorUI.tab.timings         "Temporizadores">
+
 <!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->
 <!ENTITY netmonitorUI.tab.preview         "Pré-visualização">
@@ -110,9 +111,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 <!ENTITY netmonitorUI.footer.filterOther  "Outro">
+
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 <!ENTITY netmonitorUI.footer.clear		"Limpar">
+
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 <!ENTITY netmonitorUI.footer.perf		"Alternar análise de desempenho...">
@@ -186,6 +189,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive	"Receção:">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 <!ENTITY netmonitorUI.context.perfTools		"Iniciar análise de desempenho...">
@@ -198,9 +202,16 @@
   -  on the context menu that copies the selected request's url -->
 <!ENTITY netmonitorUI.context.copyUrl	 "Copiar URL">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
+<!ENTITY netmonitorUI.context.copyAsCurl    "Copiar como cURL">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Copiar imagem como dados URI">
