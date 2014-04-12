@@ -105,14 +105,7 @@
 <!ENTITY sync.text.tab.sent.label                 'Kaart saadetud!'>
 <!ENTITY sync.text.tab.not.sent.label             'Kaardi saatmisel esines probleem.'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2   'Firefoxi kontode märkeruudu graafika'>
-<!ENTITY fxaccount_icon_contentDescription2       'Firefoxi kontode ikoon'>
-<!ENTITY fxaccount_intro_contentDescription2      'Firefoxi kontode sissejuhatuse graafika'>
-<!ENTITY fxaccount_mail_contentDescription2       'Firefoxi kontode ümbriku graafika'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -127,8 +120,13 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing               'Tagasi veebi lehitsema'>
 
-<!ENTITY fxaccount_policy_linktos                 'Teenuse tingimused'>
-<!ENTITY fxaccount_policy_linkprivacy             'Privaatsusest'>
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos                 'teenuse tingimused'>
+<!ENTITY fxaccount_policy_linkprivacy             'privaatsusreeglid'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tere tulemast &syncBrand.shortName.label;i'>
 <!ENTITY fxaccount_getting_started_description    'Oma kaartide, järjehoidjate, paroolide ja muu sünkroniseerimiseks logi sisse.'>
@@ -137,12 +135,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header          'Firefoxi konto loomine'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2         'Firefoxi konto loomine'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Peab olema vähemalt 8 tähemärki pikk'>
 <!ENTITY fxaccount_create_account_year_of_birth   'Sünniaasta'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text     'Jätkamisega nõustud sa Firefoxi veebiteenuste tingimustega (&formatS1; ja &formatS2;).'>
+<!ENTITY fxaccount_create_account_policy_text2    'Jätkamisega nõustud sa Firefoxi veebiteenuste tingimustega (&formatS1; ja &formatS2;).'>
 <!ENTITY fxaccount_create_account_button          'Edasi'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Kuvatakse sünkroniseeritavate asjade valikut'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Omad juba kontot? Logi sisse'>
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Rohkem teavet'>
 
 <!ENTITY fxaccount_confirm_account_header         'Konto loomise kinnitamine'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Kinnitamise link on saadetud aadressile &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email   'Saada kinnitusnõue uuesti'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Kinnitusnõue on saadetud'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Logi sisse'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Polnud võimalik sisse logida'>
 
-<!ENTITY fxaccount_status_header                  'Firefoxi konto'>
+<!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
+<!ENTITY fxaccount_status_signed_in_as            'Sisselogitud kasutajana'>
 <!ENTITY fxaccount_status_sync                    '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled            '&syncBrand.shortName.label;: lubatud'>
 <!ENTITY fxaccount_status_needs_verification2     'Sinu konto vajab kinnitamist. Kinnitusnõude uuesti saatmiseks puuduta.'>
@@ -184,16 +183,22 @@
 <!ENTITY fxaccount_status_passwords               'paroolid'>
 <!ENTITY fxaccount_status_tabs                    'avatud kaardid'>
 <!ENTITY fxaccount_status_legal                   'Õiguslik teave' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos                 'Teenuse tingimused'>
+<!ENTITY fxaccount_status_linkprivacy             'Privaatsusreeglid'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label             'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title                  '&syncBrand.shortName.label;i seaded'>
 <!ENTITY fxaccount_options_configure_title        'Häälesta &syncBrand.shortName.label;i'>
 
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; pole ühendatud'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sisselogimiseks kasutajana &formatS; puuduta'>
