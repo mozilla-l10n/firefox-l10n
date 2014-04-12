@@ -32,6 +32,8 @@
 <!ENTITY insertTableCmd.accesskey "б">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Буквы и символы…">
 <!ENTITY insertCharsCmd.accesskey "у">
 <!ENTITY insertBreakAllCmd.label "Разрыв под изображениями">

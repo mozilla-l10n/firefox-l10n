@@ -632,9 +632,11 @@
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
-<!ENTITY contextOpenNewTab.accesskey "н">
+<!ENTITY contextOpenNewTab.accesskey "к">
 <!ENTITY contextOpenConversation.label "Открыть в разговоре">
-<!ENTITY contextOpenConversation.accesskey "т">
+<!ENTITY contextOpenConversation.accesskey "ы">
+<!ENTITY contextOpenContainingFolder.label "Открыть в содержащей папке">
+<!ENTITY contextOpenContainingFolder.accesskey "ы">
 <!ENTITY contextEditMsgAsNew.label "Редактировать как новое сообщение">
 <!ENTITY contextEditMsgAsNew.accesskey "а">
 <!ENTITY contextArchive.label "Архивировать">

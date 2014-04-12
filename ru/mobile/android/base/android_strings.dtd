@@ -56,6 +56,7 @@
 <!ENTITY pref_category_privacy_short "Приватность">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбор данных">
+<!ENTITY pref_learn_more "Подробнее">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
 <!ENTITY pref_category_add_search_providers "Добавление других поисковых систем">
 <!ENTITY pref_category_search_restore_defaults "Восстановить поисковые системы">
@@ -64,7 +65,6 @@
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
-<!ENTITY pref_developer_remotedebugging_docs "Подробнее">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка вашей домашней страницы">
@@ -150,8 +150,8 @@
 <!ENTITY datareporting_telemetry_summary "Делится сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
-<!ENTITY datareporting_wifi_title "Службы местоположения &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Помогите улучшить службы определения местоположения для открытого Интернета, позволив &brandShortName; собирать и отправлять анонимные данные о базовых станциях сотовой сети">
+<!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Работая в фоновом режиме, получает данные местоположения точек Wi-Fi и станций сотовой сети, и делится ими с &vendorShortName;, чтобы улучшить нашу службу геолокации">
 <!ENTITY pref_update_autodownload2 "Автоматически загружать обновления">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
