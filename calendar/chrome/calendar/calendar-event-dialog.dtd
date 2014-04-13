@@ -9,12 +9,6 @@
 
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "Para" >
-<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
-   - they still fit in. -->
-<!ENTITY newevent.attendees.notify.label               "Notificar a los asistentes">
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Invitaciones separadas por asistente">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Esta opción envía un correo de invitación por cada asistente. Cada invitación solamente contiene como destinatario al asistente como para que las identidades de los otros asistentes no se divulguen.">
 
 <!ENTITY newevent.status.label                    "Estado" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -34,6 +28,14 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; completado">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Notificar a los asistentes">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitaciones separadas por asistente">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opción envía un correo de invitación por cada asistente. Cada invitación solamente contiene como destinatario al asistente como para que las identidades de los otros asistentes no se divulguen.">
+
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
