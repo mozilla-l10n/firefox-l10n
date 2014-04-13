@@ -37,13 +37,13 @@
 <!ENTITY btnPageSecurity.tooltip "Registra errori e avvisi di sicurezza">
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY btnPageLogging.label "Registro">
-<!ENTITY btnConsoleReflows "Reflow">
 <!ENTITY btnPageLogging.tooltip "Registra i messaggi inviati all’oggetto window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors "Errori">
 <!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Avvisi">
 <!ENTITY btnConsoleLog "Log">
+<!ENTITY btnConsoleReflows "Reflow">
 <!ENTITY filterOutput.placeholder "Filtra messaggi">
 <!ENTITY btnClear.label "Cancella">
 <!ENTITY btnClear.tooltip "Cancella il contenuto della Console web">
