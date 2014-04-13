@@ -1,22 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
 
-
-<!ENTITY title      "Повежи се">
-<!ENTITY header     "Повежи се са удаљеним уређајем">
-<!ENTITY host       "Домаћин:">
-<!ENTITY port       "Порт:">
-<!ENTITY connect    "Повежи се">
-<!ENTITY connecting "Повезивање…">
+<!ENTITY title      "Connect">
+<!ENTITY header     "Connect to remote device">
+<!ENTITY host       "Host:">
+<!ENTITY port       "Port:">
+<!ENTITY connect    "Connect">
+<!ENTITY connecting "Connecting…">
 <!ENTITY availableTabs "Available remote tabs:">
-<!ENTITY availableProcesses "Доступни удаљени процеси:">
-<!ENTITY connectionError "Грешка:">
+<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY connectionError "Error:">
 <!ENTITY errorTimeout "Error: connection timeout.">
-<!ENTITY errorRefused "Грешка: веза је одбијена.">
-<!ENTITY errorUnexpected "Неочекивана грешка.">
-<!ENTITY help "Развојни алати Фајерфокса могу уклањати грешке на урђајима (Фајерфокс за Андроид, и Фајерфокс ОС, на пример). Проверите да ли сте укључили могућност „Даљинско уклањање грешака“ на удаљеном уређају. Погледајте <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>упутство</a> за више података.">
+<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY errorUnexpected "Unexpected error.">
+
+<!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
+these strings will be concatenated in a single label, remoteDocumentation will
+be used as text for a link to MDN. -->
+<!ENTITY remoteHelp "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. For more, see the ">
+<!ENTITY remoteDocumentation "documentation">
+<!ENTITY remoteHelpSuffix ".">
+
