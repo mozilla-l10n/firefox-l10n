@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+ 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,20 +14,28 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(поверљиво читање)">
-<!-- Tab context menu -->
 
+<!ENTITY appmenu.tooltip                     "Open menu">
+<!ENTITY navbarOverflow.label                "More tools…">
+
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Обнови језичак">
 <!ENTITY  reloadTab.accesskey                "О">
 <!ENTITY  reloadAllTabs.label                "Обнови све језичке">
 <!ENTITY  reloadAllTabs.accesskey            "с">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Close Tabs to the Right">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Затвори друге језичке">
 <!ENTITY  closeOtherTabs.accesskey           "З">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Pin Tab">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Unpin Tab">
@@ -49,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Нови језичак">
 <!ENTITY tabCmd.accesskey "Н">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Отвори адресу…">
-<!ENTITY openLocationCmd.accesskey "О">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
 <!ENTITY openFileCmd.accesskey "д">
 <!ENTITY openFileCmd.commandkey "о">
@@ -68,12 +74,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Трака са менијем">
 <!ENTITY menubarCmd.accesskey "Т">
 <!ENTITY navbarCmd.label "Трака за навигацију">
-<!ENTITY navbarCmd.accesskey "н">
 <!ENTITY personalbarCmd.label "Трака са забелешкама">
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Забележи ставке из алатне траке">
-<!ENTITY addonBarCmd.label "Трака са додацима">
-<!ENTITY addonBarCmd.accesskey "д">
 
 <!ENTITY pageSourceCmd.label "Изворни код стране">
 <!ENTITY pageSourceCmd.accesskey "И">
