@@ -22,3 +22,7 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Skicka skrivmeddelanden i konversationer">
 <!ENTITY  sendTyping.accesskey          "k">
+
+<!ENTITY  desktopChatNotifications.label "Visa aviseringar för meddelanden riktade till dig">
+<!ENTITY  desktopChatNotifications.accesskey "v">
+
