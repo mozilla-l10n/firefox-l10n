@@ -67,7 +67,7 @@
 <!ENTITY pref_developer_remotedebugging "Адлеглая наладка">
 <!ENTITY pref_developer_remotedebugging_docs "Падрабязней">
 <!ENTITY pref_remember_signons "Памятаць паролі">
-<!ENTITY pref_category_home "Хатняя">
+<!ENTITY pref_category_home "Хатняя старонка">
 <!ENTITY pref_category_home_summary "Уладкаванне вашай хатняй старонкі">
 <!ENTITY pref_category_home_panels "Панэлі">
 <!ENTITY pref_home_add_panel "Дадаць панэль">
@@ -78,7 +78,7 @@
 <!ENTITY pref_home_updates "Самастойныя абнаўленні">
 <!ENTITY pref_home_updates_enabled "Дазволена">
 <!ENTITY pref_home_updates_wifi "Толькі праз Wi-Fi">
-<!ENTITY pref_header_customize "Уладкаваць">
+<!ENTITY pref_header_customize "Уладкаванне">
 <!ENTITY pref_header_display "Адлюстраванне">
 <!ENTITY pref_header_privacy_short "Адасабленне">
 <!ENTITY pref_header_help "Даведка">
@@ -97,9 +97,9 @@
 <!ENTITY pref_char_encoding_off "Не паказваць меню">
 <!ENTITY pref_clear_private_data "Ачысціць асабістыя здаткі">
 <!ENTITY pref_plugins "Убудовы">
-<!ENTITY pref_plugins_enabled "Дазволена">
-<!ENTITY pref_plugins_tap_to_play "Ляпніце, каб прайграць">
-<!ENTITY pref_plugins_disabled "Забаронена">
+<!ENTITY pref_plugins_enabled "Дазволены">
+<!ENTITY pref_plugins_tap_to_play "Ляпнуць, каб прайграць">
+<!ENTITY pref_plugins_disabled "Забаронены">
 <!ENTITY pref_text_size "Памер тэксту">
 <!ENTITY pref_reflow_on_zoom4 "Перарысоўка тэксту">
 <!ENTITY pref_restore "Устаўкі">
@@ -149,7 +149,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
 <!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
 <!ENTITY datareporting_wifi_title "Службы месцазнаходжання &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Дапамагае палепшыць службы геамесцазнаходжання адкрытага Сеціва дазваляючы &brandShortName; збіраць і дасылаць безыменныя здаткі ў выглядзе клеткавых веж">
+<!ENTITY datareporting_wifi_summary "Дапамагае палепшыць службы геамесцазнаходжання адкрытага Сеціва дазваляючы &brandShortName; збіраць і дасылаць безыменныя здаткі ў выглядзе вежаў з клетак">
 <!ENTITY pref_update_autodownload2 "Сцягваць абнаўленні самастойна">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Ніколі">
@@ -164,11 +164,11 @@
 <!ENTITY share_image_failed "Немагчма падзяліцца гэтай выявай">
 <!ENTITY save_as_pdf "Захаваць як PDF">
 <!ENTITY find_in_page "Знайсці на старонцы">
-<!ENTITY desktop_mode "Запыт настольнай пляцоўкі">
+<!ENTITY desktop_mode "Настольная пляцоўка">
 <!ENTITY page "Старонка">
 <!ENTITY tools "Прылады">
 <!ENTITY new_tab "Новая ўстаўка">
-<!ENTITY new_private_tab "Новая адасобленая ўстаўка">
+<!ENTITY new_private_tab "Адасобленая ўстаўка">
 <!ENTITY close_all_tabs "Закрыць усе ўстаўкі">
 <!ENTITY tabs_normal "Устаўкі">
 <!ENTITY tabs_private "Асабістыя">
@@ -194,7 +194,7 @@
 <!ENTITY contextmenu_copyurl "Скапіяваць адрас ">
 <!ENTITY contextmenu_edit_bookmark "Праўка">
 <!ENTITY contextmenu_subscribe "Падпісацца на старонку">
-<!ENTITY contextmenu_site_settings "Праўка наладжванняў пляцоўкі">
+<!ENTITY contextmenu_site_settings "Наладжванні пляцоўкі">
 <!ENTITY contextmenu_top_sites_edit "Праўка">
 <!ENTITY contextmenu_top_sites_pin "Прышпіліць пляцоўку">
 <!ENTITY contextmenu_top_sites_unpin "Адшпіліць пляцоўку">
