@@ -88,7 +88,7 @@
 <!ENTITY unknownProtocolFound.title            "Aadress jäi arusaamatuks">
 <!ENTITY unknownProtocolFound.longDesc         "
 <ul>
-  <li>Sa peaksid paigaldama lisatarkvara, et avada see aadress.</li>
+  <li>Selle aadressi avamiseks peaksid võib-olla paigaldama lisatarkvara.</li>
 </ul>
 ">
 

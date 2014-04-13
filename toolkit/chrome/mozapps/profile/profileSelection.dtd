@@ -27,5 +27,5 @@
 <!ENTITY offlineState.label "Tööta võrguta">
 <!ENTITY offlineState.accesskey "t">
 
-<!ENTITY useSelected.label     "Valitud profiili kasutatakse avamisel küsimata">
+<!ENTITY useSelected.label     "Valitud profiili kasutatakse käivitamisel küsimata">
 <!ENTITY useSelected.accesskey "r">

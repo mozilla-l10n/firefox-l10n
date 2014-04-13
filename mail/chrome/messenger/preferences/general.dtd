@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label               "Taasta algväärtus">
 <!ENTITY useDefault.accesskey           "T">
 
-<!ENTITY changeDockIconOptions.label    "Rakenduse ikooni seadete muutmine">
-<!ENTITY dockOptions.label              "Rakenduse ikooni seaded…">
+<!ENTITY changeDockIconOptions.label    "Rakenduse ikooni sätete muutmine">
+<!ENTITY dockOptions.label              "Rakenduse ikooni sätted…">
 <!ENTITY dockOptions.accesskey          "n">
 
 <!ENTITY newMessagesArrive.label        "Uue kirja saabumisel:">

@@ -17,7 +17,7 @@
 <!ENTITY accountPasswordField.label                "Parool:">
 <!ENTITY accountPasswordManager.label              "Siia sisestatud parool salvestatakse paroolihaldurisse. Jäta see lahter tühjaks, kui soovid, et parooli küsitaks igal kontoga ühendumisel uuesti.">
 
-<!ENTITY accountAdvancedTitle.label                "Täpsemad seaded">
+<!ENTITY accountAdvancedTitle.label                "Täpsemad sätted">
 <!ENTITY accountAdvancedInfo.label                 "Soovi korral võid selle sammu vahele jätta.">
 <!ENTITY accountAdvanced.newMailNotification.label "Teavitatakse uue e-kirja saabumisest">
 <!ENTITY accountAliasGroupbox.caption              "Kohalik alias">

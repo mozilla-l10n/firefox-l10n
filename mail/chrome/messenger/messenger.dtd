@@ -896,4 +896,4 @@
 <!ENTITY showAllAppsCmdMac.label                       "Näita kõiki">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label                             "Rakenduse ikooni seaded…">
+<!ENTITY dockOptions.label                             "Rakenduse ikooni sätted…">
