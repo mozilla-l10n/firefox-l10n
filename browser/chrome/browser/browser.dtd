@@ -662,7 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
-<!ENTITY syncToolbarButton.label      "Synchronizácia">
+<!ENTITY syncToolbarButton.label      "Synchroni&#xad;zácia">
 
 <!ENTITY socialToolbar.title        "Tlačidlo Sociálne siete">
 
