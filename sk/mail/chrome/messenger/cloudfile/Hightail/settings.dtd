@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY youSendItSettings.username "Používateľské meno:">
-<!ENTITY youSendItSettings.needAnAccount "Ešte nemáte účet?">
-<!ENTITY youSendItSettings.learnMore "Ďalšie informácie…">
+<!ENTITY hightailSettings.username "Používateľské meno:">
+<!ENTITY hightailSettings.needAnAccount "Ešte nemáte účet?">
+<!ENTITY hightailSettings.learnMore "Ďalšie informácie…">
