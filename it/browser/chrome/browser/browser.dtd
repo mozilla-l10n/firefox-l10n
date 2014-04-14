@@ -175,6 +175,8 @@
 <!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
 <!ENTITY responsiveDesignTool.accesskey "u">
 <!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY eyedropper.label "Contagocce">
+<!ENTITY eyedropper.accesskey "e">
 <!ENTITY scratchpad.label "Blocco per gli appunti">
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
