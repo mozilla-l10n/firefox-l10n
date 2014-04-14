@@ -121,7 +121,7 @@
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken "Aimsigh">
-<!ENTITY debuggerUI.searchToken.key "A">
+<!ENTITY debuggerUI.searchToken.key "F">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
@@ -134,13 +134,13 @@
 
 <!ENTITY debuggerUI.searchVariable "Filter Variables">
 <!ENTITY debuggerUI.searchVariable.key "A">
-<!ENTITY debuggerUI.searchVariable.accesskey "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables "Focus Variables Tree">
-<!ENTITY debuggerUI.focusVariables.key "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "V">
+<!ENTITY debuggerUI.focusVariables.key "A">
+<!ENTITY debuggerUI.focusVariables.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -148,7 +148,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuBreak "Add Breakpoint">
+<!ENTITY debuggerUI.seMenuBreak "Cuir Brisphointe Leis">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
@@ -173,13 +173,13 @@
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.addWatch "Add Watch Expression">
-<!ENTITY debuggerUI.addWatch.accesskey "E">
+<!ENTITY debuggerUI.addWatch.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
 <!ENTITY debuggerUI.removeAllWatch "Remove All Watch Expressions">
 <!ENTITY debuggerUI.removeAllWatch.key "S">
-<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->

@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart4 "To start Private Browsing, you can also select &newPrivateWindow.label; from the menu.">
+<!ENTITY privatebrowsingpage.howToStart4 "Chun Brabhsáil Phríobháideach a thosú, is féidir leat &newPrivateWindow.label; a roghnú ón roghchlár.">
 <!ENTITY privatebrowsingpage.howToStop3 "Chun Brabhsáil Phríobháideach a stopadh, dún an fhuinneog seo.">
 
 <!ENTITY privatebrowsingpage.moreInfo "Cé nach mbeidh taifead de do stair bhrabhsála ar an ríomhaire seo, is féidir le do sholáthraí seirbhíse Idirlín nó d'fhostóir bheith ag breathnú ar na leathanaigh a dtugann tú cuairt orthu.">
