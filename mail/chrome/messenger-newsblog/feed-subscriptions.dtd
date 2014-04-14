@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip "Easpórtáil fothaí le struchtúr fillteán; ctrl+clic nó ctrl+enter chun fothaí a easpórtáil mar liosta">
 
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label "Dún">

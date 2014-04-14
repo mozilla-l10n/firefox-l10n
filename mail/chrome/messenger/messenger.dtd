@@ -352,8 +352,8 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Iatán">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
-<!ENTITY editAsNewMsgCmd.label "Edit As New Message">
-<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.label "Cuir in eagar mar theachtaireacht nua">
+<!ENTITY editAsNewMsgCmd.accesskey "C">
 <!ENTITY editAsNewMsgCmd.key "l">
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
@@ -561,13 +561,13 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Cuir Ar Aghaidh Mar Iatán">
 <!-- Remote Content Button Popup -->
 
-<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
-<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Taispeáin ábhar i gcéin sa teachtaireacht seo">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
+<!ENTITY remoteContentOptionAllowForAddress.label "Taispeáin ábhar i gcéin ón seoltóir seo">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "s">
 <!-- Phishing Button Popup -->
 
-<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY phishingOptionIgnore.label "Déan neamhaird de rabhadh a bhaineann leis an teachtaireacht seo">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Edit scam detection options…">
 <!ENTITY phishingOptionSettings.accesskey "d">
@@ -668,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Iatáin">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Select columns to display">
-<!ENTITY threadColumn2.tooltip "Display message threads">
-<!ENTITY fromColumn2.tooltip "Sort by from">
-<!ENTITY recipientColumn2.tooltip "Sort by recipient">
-<!ENTITY subjectColumn2.tooltip "Sort by subject">
-<!ENTITY dateColumn2.tooltip "Sort by date">
-<!ENTITY priorityColumn2.tooltip "Sort by priority">
-<!ENTITY tagsColumn2.tooltip "Sort by tags">
-<!ENTITY accountColumn2.tooltip "Sort by account">
-<!ENTITY statusColumn2.tooltip "Sort by status">
-<!ENTITY sizeColumn2.tooltip "Sort by size">
-<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY columnChooser2.tooltip "Roghnaigh colúin le taispeáint">
+<!ENTITY threadColumn2.tooltip "Taispeáin snáithe">
+<!ENTITY fromColumn2.tooltip "Sórtáil de réir seoltóra">
+<!ENTITY recipientColumn2.tooltip "Sórtáil de réir faighteora">
+<!ENTITY subjectColumn2.tooltip "Sórtáil de réir ábhair">
+<!ENTITY dateColumn2.tooltip "Sórtáil de réir dáta">
+<!ENTITY priorityColumn2.tooltip "Sórtáil de réir tosaíochta">
+<!ENTITY tagsColumn2.tooltip "Sórtáil de réir clibeanna">
+<!ENTITY accountColumn2.tooltip "Sórtáil de réir cuntais">
+<!ENTITY statusColumn2.tooltip "Sórtáil de réir stádais">
+<!ENTITY sizeColumn2.tooltip "Sórtáil de réir méide">
+<!ENTITY junkStatusColumn2.tooltip "Sórtáil de réir stádais dramhphoist">
 <!ENTITY unreadColumn2.tooltip "Teachtaireachtaí gan léamh sa snáithe">
 <!ENTITY totalColumn2.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
-<!ENTITY readColumn2.tooltip "Sort by read">
-<!ENTITY receivedColumn2.tooltip "Sort by date received">
-<!ENTITY starredColumn2.tooltip "Sort by star">
-<!ENTITY locationColumn2.tooltip "Sort by location">
-<!ENTITY idColumn2.tooltip "Sort by order received">
-<!ENTITY attachmentColumn2.tooltip "Sort by attachments">
+<!ENTITY readColumn2.tooltip "Sórtáil de réir stádais léite">
+<!ENTITY receivedColumn2.tooltip "Sórtáil de réir dáta faighte">
+<!ENTITY starredColumn2.tooltip "Sórtáil de réir réiltín">
+<!ENTITY locationColumn2.tooltip "Sórtáil de réir suímh">
+<!ENTITY idColumn2.tooltip "Sórtáil de réir oird fhaighte">
+<!ENTITY attachmentColumn2.tooltip "Sórtáil de réir iatán">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Oscail Teachtaireacht i bhFuinneog Nua">
@@ -700,7 +700,7 @@
 <!ENTITY contextOpenNewTab.accesskey "C">
 <!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
 <!ENTITY contextOpenConversation.accesskey "r">
-<!ENTITY contextEditMsgAsNew.label "Edit As New Message">
+<!ENTITY contextEditMsgAsNew.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Cuir sa chartlann">
 <!ENTITY contextArchive.accesskey "h">
@@ -830,7 +830,7 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Cuir sa Leabhar Seoltaí">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact1.label "Edit Contact">
+<!ENTITY EditContact1.label "Cuir Teagmháil in Eagar">
 <!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Amharc ar an Teagmháil">
 <!ENTITY ViewContact.accesskey "m">
@@ -894,3 +894,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Taispeáin Gach">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label "Roghanna an Deilbhín…">

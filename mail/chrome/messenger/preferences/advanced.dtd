@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey "T">
 <!ENTITY updateHistory.label "Taispeáin Stair na Nuashonruithe">
 <!ENTITY updateHistory.accesskey "p">
-<!ENTITY updateOthers.label "Nuashonraigh go huathoibríoch:">
-<!ENTITY enableAddonsUpdate3.label "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey "o">
 
 <!ENTITY useService.label "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey "b">
