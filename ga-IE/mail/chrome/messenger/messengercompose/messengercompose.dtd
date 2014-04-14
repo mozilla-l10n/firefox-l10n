@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "T">
 <!ENTITY newContact.label "Teagmháil Leabhair Seoltaí…">
 <!ENTITY newContact.accesskey "T">
-<!ENTITY attachMenu.label "Attach">
-<!ENTITY attachMenu.accesskey "h">
+<!ENTITY attachMenu.label "Iatán">
+<!ENTITY attachMenu.accesskey "n">
 <!ENTITY attachFileCmd.label "Comha(i)d…">
 <!ENTITY attachFileCmd.accesskey "C">
 <!ENTITY attachFileCmd.key "A">

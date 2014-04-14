@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label "Athchóirigh na Réamhshocruithe">
 <!ENTITY useDefault.accesskey "R">
 
-<!ENTITY bounceSystemDockIcon.label "Beoigh deilbhín an duga">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY changeDockIconOptions.label "Change preferences for the app icon">
+<!ENTITY dockOptions.label "Roghanna an Deilbhín…">
+<!ENTITY dockOptions.accesskey "n">
 
 <!ENTITY newMessagesArrive.label "Ar theacht teachtaireachtaí nua:">
 <!ENTITY playSound.label "Seinn fuaim">
