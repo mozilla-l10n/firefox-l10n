@@ -63,8 +63,8 @@ signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "Prihláste sa, aby sa bolo možné znova pripojiť k">
-<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY signedInLoginFailure.beforename.label "Ak sa chcete pripojiť k">
+<!ENTITY signedInLoginFailure.aftername.label ", musíte sa prihlásiť.">
 
 <!ENTITY notSignedIn.label           "Nie ste prihlásený.">
 <!ENTITY signIn.label                "Prihlásiť sa">
