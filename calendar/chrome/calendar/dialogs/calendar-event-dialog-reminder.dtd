@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label "Mionsonraí an Mheabhrúcháin">
 <!ENTITY reminder.action.label "Roghnaigh gníomh meabhrúcháin">
 
-<!ENTITY reminder.relation.before.label "roimh">
-<!ENTITY reminder.relation.after.label "tar éis">
-
 <!ENTITY reminder.action.alert.label "Taispeáin airdeall">
 <!ENTITY reminder.action.email.label "Seol ríomhphost">
 
