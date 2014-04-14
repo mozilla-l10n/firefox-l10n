@@ -22,3 +22,6 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "V konverzáciách odosielať notifikáciu o písaní správy">
 <!ENTITY  sendTyping.accesskey          "k">
+
+<!ENTITY  desktopChatNotifications.label "Zobrazovať upozornenie na správy určené mne">
+<!ENTITY  desktopChatNotifications.accesskey "u>
