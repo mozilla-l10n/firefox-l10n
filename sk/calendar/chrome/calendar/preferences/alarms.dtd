@@ -34,5 +34,5 @@
 <!ENTITY pref.defaultemail.label "Prednastavená adresa, kam odosielať upozornenia:">
 <!ENTITY pref.defaulttext.label "Prednastavený text upozornení:">
 
-
-
+<!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "e">
