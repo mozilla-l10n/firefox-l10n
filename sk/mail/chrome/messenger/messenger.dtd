@@ -700,6 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextOpenConversation.label "Otvoriť správu ako konverzáciu">
 <!ENTITY contextOpenConversation.accesskey "c">
+<!ENTITY contextOpenContainingFolder.label "Otvoriť správu v jej priečinku">
+<!ENTITY contextOpenContainingFolder.accesskey "e">
 <!ENTITY contextEditMsgAsNew.label "Upraviť ako novú správu">
 <!ENTITY contextEditMsgAsNew.accesskey "n">
 <!ENTITY contextArchive.label "Archivovať">
