@@ -54,7 +54,7 @@
 # link title for https://marketplace.firefox.com
 
 
-#define bookmarks_marketplace Firefox Marketplace
+#define bookmarks_marketplace Margadh Firefox
 
 
 
