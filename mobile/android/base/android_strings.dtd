@@ -47,13 +47,14 @@
 <!ENTITY history_older_section "Níos sine ná 7 lá">
 
 <!ENTITY go "Ar Aghaidh">
-<!ENTITY search "Search">
+<!ENTITY search "Cuardaigh">
 <!ENTITY reload "Athluchtaigh">
 <!ENTITY forward "Ar Aghaidh">
 <!ENTITY menu "Roghchlár">
 <!ENTITY back "Siar">
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Slándáil Suímh">
+<!ENTITY save "Sábháil">
 
 <!ENTITY close_tab "Dún Cluaisín">
 <!ENTITY one_tab "Cluaisín amháin">
@@ -66,27 +67,42 @@
 <!ENTITY settings_title "Socruithe">
 <!ENTITY pref_category_advanced "Ardroghanna">
 <!ENTITY pref_category_customize "Saincheap">
-<!ENTITY pref_category_search3 "Search">
+<!ENTITY pref_category_search3 "Cuardaigh">
+<!ENTITY pref_category_search_summary "Saincheap na hinnill chuardaigh">
 <!ENTITY pref_category_display "Taispeáint">
 <!ENTITY pref_category_privacy_short "Príobháideachas">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghanna sonraí">
 <!ENTITY pref_category_installed_search_engines "Innill chuardaigh suiteáilte">
 <!ENTITY pref_category_add_search_providers "Cuir innill chuardaigh leis">
-<!ENTITY pref_category_search_restore_defaults "Restore search engines">
-<!ENTITY pref_search_restore_defaults "Restore defaults">
-<!ENTITY pref_search_restore_defaults_summary "Restore defaults">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Athchóirigh na hinnill chuardaigh">
+<!ENTITY pref_search_restore_defaults "Athchóirigh na réamhshocruithe">
+<!ENTITY pref_search_restore_defaults_summary "Athchóirigh na réamhshocruithe">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "TIP: Add any website to your list of search providers by long-pressing on its search field.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_devtools "Uirlisí forbróra">
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
 <!ENTITY pref_developer_remotedebugging_docs "Tuilleadh eolais">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 
 <!ENTITY pref_category_home "Baile">
-<!ENTITY pref_category_home_panels "Panels">
+<!ENTITY pref_category_home_summary "Saincheap do leathanach baile">
+<!ENTITY pref_category_home_panels "Painéil">
+<!ENTITY pref_home_add_panel "Cuir painéal leis">
+<!ENTITY home_add_panel_title "Cuir painéal nua leis">
+<!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Cuireadh \'&formatS;\' leis an leathanach baile">
+<!ENTITY pref_category_home_content_settings "Socruithe ábhair">
+<!ENTITY pref_home_updates "Nuashonruithe uathoibríocha">
+<!ENTITY pref_home_updates_enabled "Cumasaithe">
+<!ENTITY pref_home_updates_wifi "Thar Wi-Fi amháin">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Saincheap">
@@ -157,7 +173,7 @@ size. -->
 
 <!ENTITY pref_dialog_set_default "Réamhshocraigh">
 <!ENTITY pref_dialog_default "Réamhshocrú">
-<!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_dialog_remove "Bain">
 
 <!ENTITY pref_search_last_toast "Níl cead agat an t-inneall cuardaigh is déanaí a dhíchumasú.">
 
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Sábháil mar PDF">
 <!ENTITY find_in_page "Aimsigh sa Leathanach">
 <!ENTITY desktop_mode "Iarr Suíomh don Ríomhaire">
+<!ENTITY page "Leathanach">
 <!ENTITY tools "Uirlisí">
 <!ENTITY new_tab "Cluaisín Nua">
 <!ENTITY new_private_tab "Cluaisín Nua Príobháideach">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear "Glan">
 <!ENTITY site_settings_no_settings "Níl aon socruithe le glanadh.">
 
+<!ENTITY reading_list_add "Cuir le do Liosta Léitheoireachta">
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
 <!ENTITY reading_list_removed "Baineadh ó do liosta léitheoireachta">
 <!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "TIP: Save articles to your reading list by long pressing the &#37;I icon when it appears in the title bar.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: Save articles to your reading list by long pressing the &formatI; icon when it appears in the title bar.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "No content could be found for this panel.">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
@@ -359,10 +381,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Stair á hiompórtáil 
 ó Android">
 <!ENTITY bookmarkhistory_import_wait "Fan le do thoil...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "An bhfuil fonn ort moltaí cuardaigh &formatS; a chur ar siúl?">
+<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
