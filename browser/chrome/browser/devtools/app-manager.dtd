@@ -12,9 +12,9 @@
 <!ENTITY device.title "Lárionad Rialaithe">
 <!ENTITY device.notConnected "Gan ceangal leis an Idirlíon. Ceangail do ghléas thíos.">
 <!ENTITY device.startApp "Tosaigh">
-<!ENTITY device.startAppTooltip "Start this app on the device">
+<!ENTITY device.startAppTooltip "Tosaigh an aip seo ar an ngléas">
 <!ENTITY device.stopApp "Stad">
-<!ENTITY device.stopAppTooltip "Stop this app on the device">
+<!ENTITY device.stopAppTooltip "Stop an aip seo ar an ngléas">
 <!ENTITY device.debugApp "Dífhabhtaigh">
 <!ENTITY device.debugAppTooltip "Open the Developer Tools connected to this app on the device">
 <!ENTITY device.name "Ainm">
@@ -32,24 +32,28 @@
 <!ENTITY device.permissions "Ceadanna">
 <!ENTITY device.permissionsTooltip "View a table of the permissions accessible to the different types of apps">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Cluaisíní Brabhsálaí">
+<!ENTITY device.browserTabsTooltip "View a list of tabs in the browser of the connected device">
+<!ENTITY device.debugBrowserTab "Dífhabhtaigh">
+<!ENTITY device.debugBrowserTabTooltip "Open the Developer Tools connected to this browser tab on the device">
 <!ENTITY device.help "Cabhair">
 
 <!ENTITY connection.connectTooltip "Ceangail leis an ngléas">
 <!ENTITY connection.disconnect "Dícheangail">
-<!ENTITY connection.disconnectTooltip "Disconnect from the current device or simulator">
+<!ENTITY connection.disconnectTooltip "Bris an nasc leis an ngléas nó leis an insamhlóir reatha">
 <!ENTITY connection.notConnected2 "Gan Ceangal.">
 <!ENTITY connection.connectTo "Ceangail le:">
 <!ENTITY connection.noDeviceFound "Níl aon ghléas ann.">
 <!ENTITY connection.changeHostAndPort "Athraigh">
 <!ENTITY connection.changeHostAndPortTooltip "Change the host and port used to connect to the device (defaults to localhost:6000)">
 <!ENTITY connection.startSimulator "Tosaigh an tIonsamhlóir">
-<!ENTITY connection.startSimulatorTooltip "Start an instance of the Simulator and connect to it">
+<!ENTITY connection.startSimulatorTooltip "Tosaigh an tInsamhlóir agus ceangail leis">
 <!ENTITY connection.saveConnectionInfo "Sábháil">
-<!ENTITY connection.saveConnectionInfoTooltip "Save the host and port">
+<!ENTITY connection.saveConnectionInfoTooltip "Sábháil an t-óstríomhaire agus an port">
 <!ENTITY connection.connecting "Ag ceangal…">
 <!ENTITY connection.disconnecting "Á Dhícheangal…">
 <!ENTITY connection.cancel "Cealaigh">
-<!ENTITY connection.cancelConnectTooltip "Cancel the connection in progress">
+<!ENTITY connection.cancelConnectTooltip "Cealaigh an ceangal atá ar siúl">
 <!ENTITY connection.cancelShowSimulatorTooltip "Exit the Simulator connection mode and return to the initial prompt">
 <!ENTITY connection.or "nó">
 <!ENTITY connection.noSimulatorInstalled "Níl aon ionsamhlóir suiteáilte.">
@@ -62,9 +66,9 @@
 <!ENTITY projects.localApps "Feidhmchláir Logánta">
 <!ENTITY projects.addApp "Cuir Leis">
 <!ENTITY projects.addPackaged "Cuir Aip Phacáistithe Leis">
-<!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer">
+<!ENTITY projects.addPackagedTooltip "Cuir aip nua phacáistithe (comhadlann) ó do ríomhaire leis">
 <!ENTITY projects.addHosted "Cuir Aip Óstáilte Leis">
-<!ENTITY projects.addHostedTooltip "Add a new hosted app (link to a manifest.webapp file) from a remote website">
+<!ENTITY projects.addHostedTooltip "Cuir aip nua óstáilte (nasc le comhad manifest.webapp) ó shuíomh i gcéin leis">
 <!ENTITY projects.title "Feidhmchláir Logánta">
 <!ENTITY projects.appDetails "Mionsonraí na hAipe">
 <!ENTITY projects.removeAppFromList "Bain an aip seo ó na liosta a bhfuil tú ag obair orthu. Ní bhainfear ó ghléas ná ó ionsamhlóir é.">
@@ -83,6 +87,8 @@
 <!ENTITY projects.valid "Bailí">
 <!ENTITY projects.error "Earráid">
 <!ENTITY projects.warning "Rabhadh">
+<!ENTITY projects.hosted "Óstáilte">
+<!ENTITY projects.packaged "Pacáistithe">
 
 <!ENTITY help.title "Bainisteoir Aipeanna">
 <!ENTITY help.close "Dún">

@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins "Logálacha isteach gníomhacha">
 
 <!ENTITY optionsHeader.privacy.passwords.label "Meabhraigh Focail Fhaire">
+<!ENTITY optionsHeader.displayOverlayButtons.label "Show Navigation Buttons">
 <!ENTITY doNotTrack.title "Ná Lorg">
 <!ENTITY doNotTrack.options.doNotTrack "Inis do shuímh gan mise a rianú">
 <!ENTITY doNotTrack.options.doTrack "Inis do shuímh gur mhaith liom a bheith rianaithe">
