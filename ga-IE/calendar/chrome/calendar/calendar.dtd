@@ -25,33 +25,36 @@
 <!ENTITY calendar.events.filter.next14Days.label "Imeachtaí faoi cheann 14 lá">
 <!ENTITY calendar.events.filter.next31Days.label "Imeachtaí faoi cheann 31 lá">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Imeachtaí i rith na míosa seo">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label "Déanta">
-<!ENTITY calendar.unifinder.tree.done.tooltip "Cliceáil chun sórtáil de réir: Déanta">
+<!ENTITY calendar.unifinder.tree.done.tooltip2 "Sórtáil de réir comhlánaithe">
 <!ENTITY calendar.unifinder.tree.priority.label "Tosaíocht">
-<!ENTITY calendar.unifinder.tree.priority.tooltip "Cliceáil chun sórtáil de réir: Tosaíocht">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2 "Sórtáil de réir tosaíochta">
 <!ENTITY calendar.unifinder.tree.title.label "Teideal">
-<!ENTITY calendar.unifinder.tree.title.tooltip "Cliceáil chun sórtáil de réir: Teideal">
+<!ENTITY calendar.unifinder.tree.title.tooltip2 "Sórtáil de réir teidil">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Déanta">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Cliceáil chun sórtáil de réir: &#37; Déanta">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2 "Sórtáil de réir &#37; críochnaithe">
 <!ENTITY calendar.unifinder.tree.startdate.label "Tosaigh">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip "Cliceáil chun sórtáil de réir: Tús">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2 "Sórtáil de réir dáta tosaithe">
 <!ENTITY calendar.unifinder.tree.enddate.label "Deireadh">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip "Cliceáil chun sórtáil de réir: Críoch">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2 "Sórtáil de réir dáta deiridh">
 <!ENTITY calendar.unifinder.tree.duedate.label "Spriocdháta">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip "Cliceáil chun sórtáil de réir: Spriocdháta">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2 "Sórtáil de réir spriocdháta">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Críochnaithe">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Cliceáil chun sórtáil de réir: Críochnaithe">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2 "Sórtáil de réir dáta críochnaithe">
 <!ENTITY calendar.unifinder.tree.categories.label "Catagóir">
-<!ENTITY calendar.unifinder.tree.categories.tooltip "Cliceáil chun sórtáil de réir: Catagóir">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2 "Sórtáil de réir catagóire">
 <!ENTITY calendar.unifinder.tree.location.label "Suíomh">
-<!ENTITY calendar.unifinder.tree.location.tooltip "Cliceáil chun sórtáil de réir: Suíomh">
+<!ENTITY calendar.unifinder.tree.location.tooltip2 "Sórtáil de réir suímh">
 <!ENTITY calendar.unifinder.tree.status.label "Stádas">
-<!ENTITY calendar.unifinder.tree.status.tooltip "Cliceáil chun sórtáil de réir: Stádas">
+<!ENTITY calendar.unifinder.tree.status.tooltip2 "Sórtáil de réir stádais">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Ainm an Fhéilire">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Cliceáil chun sórtáil de réir: Ainm an Fhéilire">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2 "Sórtáil de réir ainm an fhéilire">
 <!ENTITY calendar.unifinder.tree.duration.label "Dlite i gceann">
-<!ENTITY calendar.unifinder.tree.duration.tooltip "Cliceáil chun sórtáil de réir: Dlite i gceann">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2 "Sórtáil de réir ama fágtha">
 <!ENTITY calendar.unifinder.close.tooltip "Dún cuardach na n-imeachtaí agus liosta na n-imeachtaí">
 
 <!ENTITY calendar.today.button.tooltip "Taispeáin Inniu">
@@ -85,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label "Imeacht Nua">
 <!ENTITY calendar.newtask.button.label "Tasc Nua">
 <!ENTITY calendar.print.button.label "Priontáil">
-
-<!ENTITY calendar.export.calendar "Easpórtáil Féilire…">
+<!ENTITY calendar.print.button.accesskey "P">
 
 <!ENTITY calendar.day.button.label "Lá">
 <!ENTITY calendar.week.button.label "Seachtain">
@@ -129,8 +131,6 @@
 
 <!ENTITY calendar.task.filter.current.label "Tascanna Reatha">
 <!ENTITY calendar.task.filter.current.accesskey "R">
-<!ENTITY calendar.task.filter.repeating.label "Tascanna a Athdhéantar">
-<!ENTITY calendar.task.filter.repeating.accesskey "A">
 
 <!ENTITY calendar.task-details.title.label "teideal">
 <!ENTITY calendar.task-details.organizer.label "ó">
@@ -152,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base "Scag tascanna… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;&#x21E7;&#x2318;K&gt;">
-<!-- Statusbar -->
-
-<!ENTITY statusText.label "Cáipéis: Críochnaithe">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label "Oscail">
@@ -230,7 +227,6 @@
      task action buttons -->
 
 <!ENTITY calendar.taskview.delete.label "Scrios">
-<!ENTITY calendar.taskview.delete.accesskey "c">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label "Féilire Nua…">
@@ -335,7 +331,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Imeachtaí/tascanna roghnaithe">
 <!ENTITY calendar.print.tasks.label "Tascanna">
 <!ENTITY calendar.print.events.label "Imeachtaí">
-<!ENTITY calendar.print.selected.label "Imeachtaí roghnaithe">
 <!ENTITY calendar.print.custom.label "Dátaí saincheaptha:">
 <!ENTITY calendar.print.from.label "Ó:">
 <!ENTITY calendar.print.to.label "Chuig:">
