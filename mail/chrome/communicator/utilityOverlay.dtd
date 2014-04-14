@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label "Súbor">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "P">
 <!ENTITY showTaskbarCmd.label "Stavový riadok">
 <!ENTITY showTaskbarCmd.accesskey "S">
-
-<!ENTITY proxy.label "Nastavenie proxy…">
-<!ENTITY proxy.accesskey "N">
 
 <!ENTITY closeCmd.label "Zavrieť">
 <!ENTITY closeCmd.key "W">

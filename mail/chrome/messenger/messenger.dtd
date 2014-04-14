@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "h">
 <!ENTITY menuFavoriteFolder.label "Priečinok Obľúbené">
 <!ENTITY menuFavoriteFolder.accesskey "b">
-<!ENTITY folderPropsCmd.label "Vlastnosti…">
-<!ENTITY folderPropsFolderCmd.label "Vlastnosti priečinka…">
-<!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusnej skupiny…">
+<!ENTITY folderPropsCmd2.label "Vlastnosti">
+<!ENTITY folderPropsFolderCmd2.label "Vlastnosti priečinka">
+<!ENTITY folderPropsNewsgroupCmd2.label "Vlastnosti diskusnej skupiny">
 <!ENTITY folderPropsCmd.accesskey "l">
 <!ENTITY undoDeleteMsgCmd.label "Obnoviť odstránenú správu">
 <!ENTITY redoDeleteMsgCmd.label "Znovu odstrániť správu">
@@ -459,8 +459,8 @@
 <!ENTITY savedFiles.label "Uložené súbory">
 <!ENTITY savedFiles.accesskey "e">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtre správ…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filtre správ">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Spustiť filtre na tento priečinok">
 <!ENTITY filtersApply.accesskey "S">
 <!ENTITY filtersApplyToSelection.label "Spustiť filtre na označené správy">
@@ -478,11 +478,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Vymazať históriu…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Nastavenie účtov…">
-<!ENTITY accountManagerCmd.accesskey "N">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Nastavenie účtov">
+<!ENTITY accountManagerCmd2.accesskey "N">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Povoliť vzdialené ladenie">
 <!ENTITY allowRemoteDebugging.accesskey "P">
 
@@ -885,7 +885,7 @@
 <!ENTITY zoomWindow.label "Lupa">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Možnosti…">
+<!ENTITY preferencesCmdMac2.label        "Možnosti">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Služby">
