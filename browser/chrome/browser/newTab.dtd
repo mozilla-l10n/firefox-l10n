@@ -8,3 +8,5 @@
 <!ENTITY newtab.undo.undoButton "Annuler.">
 <!ENTITY newtab.undo.restoreButton "Tout restaurer.">
 <!ENTITY newtab.undo.closeTooltip "Masquer">
+<!ENTITY newtab.panel.message "Ce site est suggéré car il a parrainé Mozilla, nous aidant à promouvoir l'ouverture, l'innovation et les possibilités sur le Web.">
+<!ENTITY newtab.panel.link.text "En savoir plus…">
