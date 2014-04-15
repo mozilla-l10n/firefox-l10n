@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "පෙළ සහ පසුබිම">
-<!ENTITY  textColor.label                 "පෙළ:">
-<!ENTITY  textColor.accesskey             "t">
+
+
 <!ENTITY  backgroundColor.label           "පසුබිම:">
 <!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "පද්ධති වර්‍ණ භාවිතා කරන්න">

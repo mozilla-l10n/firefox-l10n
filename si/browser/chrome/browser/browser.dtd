@@ -26,8 +26,8 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 
-<!ENTITY  closeOtherTabs.label               "අනෙකුත් ටැබ් වසන්න">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -90,7 +90,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "සියළු ටැබ් පෙන්වන්න">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
 
 
 
@@ -434,8 +433,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "රූපය සුරකින අයුර...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "දෘශ්‍ය සුරකින අයුර…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "ශ්‍රව්‍ය සුරකින අයුර…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 
@@ -589,6 +588,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "ශබ්ද කෝෂය එක් කරන්න...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -628,6 +628,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "දැන් සම්මුහුර්ත කරන්න">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
 
 
@@ -663,9 +665,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-<!ENTITY mixedContentBlocked.helplink "Learn more">
 
 
 

@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "පිටු සැකසුම">
 
-<!ENTITY basic.tab           "හැඩගැසුම් සහ විකල්ප">
 
 <!ENTITY formatGroup.label   "සංයුතිය">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "විකල්ප">
 
-<!ENTITY printBG.label       "පසුබිම මුද්‍රණය කරන්න (වර්ණයන් සහ රූප)">
-<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "සීමා සහ සිරස/පාදම">
+
 
 <!ENTITY marginGroup.label   "මාර්ජිනයන් (#1)">
 <!ENTITY marginUnits.inches  "අඟල්">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "දකුණ:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "සිරස සහ පාදම">
 
 <!ENTITY hfLeft.label        "වම:">
 <!ENTITY hfCenter.label      "මැද:">

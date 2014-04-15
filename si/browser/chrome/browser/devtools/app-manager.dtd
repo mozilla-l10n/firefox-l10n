@@ -42,6 +42,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.connecting "සම්බන්ධ වෙයි…">
 
 <!ENTITY connection.cancel "එපා">
@@ -77,6 +81,8 @@
 
 <!ENTITY projects.valid "නිවැරදි">
 <!ENTITY projects.error "දෝෂය">
+
+
 
 
 

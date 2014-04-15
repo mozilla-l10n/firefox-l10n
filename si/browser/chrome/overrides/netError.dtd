@@ -65,8 +65,8 @@
 <!ENTITY netTimeout.title "සම්බන්ධක කාළය ඉකුත් විය">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ලිපිනය අවබෝධ කරගත නොහැකි විය">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ලිපිනය අවබෝධ කරගත නොහැකි විය">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>මෙම ලිපිනය විවෘත කිරීම සඳහා ඔබට වෙනත් මෘදුකාංගයක් ස්ථාපනය කිරිමට සිදු විය හැක.</li> 
 </ul>">
 
