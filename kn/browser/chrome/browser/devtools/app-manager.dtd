@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.device2 "ಸಾಧನ">
 
 
 
 
 
-
-
+<!ENTITY device.startApp "ಆರಂಭ">
 
 
 
@@ -27,6 +27,10 @@
 
 
 <!ENTITY device.permissions "ಅನುಮತಿಗಳು">
+
+
+
+
 
 
 
@@ -77,6 +81,8 @@
 
 <!ENTITY projects.valid "ಮಾನ್ಯ">
 <!ENTITY projects.error "ದೋಷ">
+
+
 
 
 <!ENTITY help.close "ಮುಚ್ಚು">

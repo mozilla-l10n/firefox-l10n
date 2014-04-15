@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "ಪುಟದ ಸಿದ್ಧತೆ">
 
-<!ENTITY basic.tab           "ಫಾರ್ಮಾಟ್ &amp; ಆಯ್ಕೆಗಳು">
 
 <!ENTITY formatGroup.label   "ಫಾರ್ಮಾಟ್">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "ಆಯ್ಕೆಗಳು">
 
-<!ENTITY printBG.label       "ಹಿನ್ನಲೆಯನ್ನು ಮುದ್ರಿಸು (ಚಿತ್ರಗಳು &amp; ಬಣ್ಣಗಳು)">
-<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "ಅಂಚುಗಳು &amp; ಹೆಡರ್/ಫೂಟರುಗಳು">
+
 
 <!ENTITY marginGroup.label   "ಅಂಚುಗಳು (#1)">
 <!ENTITY marginUnits.inches  "ಇಂಚುಗಳು">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "ಬಲ:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "ಹೆಡರುಗಳು &amp; ಫೂಟರುಗಳು">
 
 <!ENTITY hfLeft.label        "ಎಡ:">
 <!ENTITY hfCenter.label      "ಮಧ್ಯ:">
