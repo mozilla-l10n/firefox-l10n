@@ -89,7 +89,7 @@
   -->
 
 <!ENTITY browserContext.label         "Navegador">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.accesskey     "N">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->

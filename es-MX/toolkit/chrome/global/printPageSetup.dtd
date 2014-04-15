@@ -26,7 +26,7 @@
 <!ENTITY optionsGroup.label  "Opciones">
 
 <!ENTITY printBG.label       "Imprimir fondo (colores e imágenes)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.accesskey   "f">
 
 <!ENTITY advanced.tab        "Márgenes y encabezado/pie de página">
 

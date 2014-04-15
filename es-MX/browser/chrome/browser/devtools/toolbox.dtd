@@ -29,7 +29,7 @@
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.label "Unidad de color predeterminado">
+<!ENTITY options.defaultColorUnit.label "Unidad de color predeterminada">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
@@ -151,4 +151,5 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Mostrar plataforma de datos de Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Si se activa esta opción, los informes del perfilador de JavaScript incluirán \ nSímbolos plataforma de Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Si activas esta opción, los informes del perfilador de JavaScript incluirán 
+Símbolos de plataforma de Gecko">
