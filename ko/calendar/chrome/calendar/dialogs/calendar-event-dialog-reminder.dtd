@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "알림 설정">
 <!ENTITY reminder.action.label                             "알림 액션 선택">
 
-<!ENTITY reminder.relation.before.label                    "이전" >
-<!ENTITY reminder.relation.after.label                     "이후" >
-
 <!ENTITY reminder.action.alert.label                       "경고 보기">
 <!ENTITY reminder.action.email.label                       "메일 보내기">
 
