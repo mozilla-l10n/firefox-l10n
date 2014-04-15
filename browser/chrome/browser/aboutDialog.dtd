@@ -79,7 +79,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.linkText "Learn more">
+<!ENTITY update.unsupported.linkText "තවත් දැනගන්න">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -90,7 +90,7 @@
 <!ENTITY update.downloading.start   "යාවත්කාලීන බාගත කරයි— ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "යාවත්කාලීන යොදන්න…">
+<!ENTITY update.applying            "යාවත්කාලීන යොදමින්…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
