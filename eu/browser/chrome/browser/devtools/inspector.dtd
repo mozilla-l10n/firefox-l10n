@@ -17,3 +17,5 @@
 
 <!ENTITY inspectorSearchHTML.label          "Bilatu HTMLa">
 <!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "Kopiatu irudiaren datu-URLa">

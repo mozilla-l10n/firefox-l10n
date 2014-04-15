@@ -67,6 +67,7 @@
 
 <!ENTITY pprint.label                 "Inprimatze-polita">
 <!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "I">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -120,3 +121,10 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+<!ENTITY evalFunction.label "Ebaluatu uneko funtzioa">
+<!ENTITY evalFunction.accesskey "b">
+<!ENTITY evalFunction.key "e">
