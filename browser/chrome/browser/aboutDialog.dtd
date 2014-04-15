@@ -41,7 +41,7 @@
 <!ENTITY contribute.start           "¿Suena interesante? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "¡Participa!">
-<!ENTITY contribute.end             "">
+<!ENTITY contribute.end             "¡Participa!">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Información de licencia">
@@ -68,7 +68,7 @@
 
 <!ENTITY update.failed.start        "Actualización fallida. ">
 <!ENTITY update.failed.linkText     "Descarga la versión más reciente">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "Descarga la versión más reciente">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,

@@ -43,9 +43,9 @@
 <!ENTITY pasteCmd.label                     "Pegar">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "Eliminar">
+<!ENTITY deleteCmd.label                    "Borrar">
 <!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "i">
+<!ENTITY deleteCmd.accesskey                "B">
 <!ENTITY selectAllCmd.label                 "Seleccionar todo">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "a">

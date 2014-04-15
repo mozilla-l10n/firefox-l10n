@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNopref.label2       "No decir a los sitios nada sobre mis preferencias de seguimiento.">
+<!ENTITY dntTrackingNopref.label2       "No indicar a los sitios nada sobre mis preferencias de rastreo">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado.">
+<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado.">
+<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
@@ -18,7 +18,7 @@
 
 <!ENTITY  locbar.pre.label              "Cuando se utilice, mostrar:">
 <!ENTITY  locbar.pre.accessKey          "m">
-<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.post.label             "Cuando se use la barra de direcciones, sugerir:">
 <!ENTITY  locbar.both.label             "Historial y marcadores">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
