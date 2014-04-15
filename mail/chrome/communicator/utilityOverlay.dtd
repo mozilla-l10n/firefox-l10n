@@ -30,8 +30,8 @@
 <!ENTITY selectAllCmd.label            "Markera allt">
 <!ENTITY selectAllCmd.key              "A">
 <!ENTITY selectAllCmd.accesskey        "M">
-<!ENTITY preferencesCmd.label          "Inställningar…">
-<!ENTITY preferencesCmd.accesskey      "I">
+<!ENTITY preferencesCmd2.label 		   "Alternativ">
+<!ENTITY preferencesCmd2.accesskey 	   "l">
 <!ENTITY preferencesCmdUnix.label      "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey  "I">
 
@@ -41,9 +41,6 @@
 <!ENTITY viewToolbarsMenu.accesskey    "V">
 <!ENTITY showTaskbarCmd.label          "Statusfält">
 <!ENTITY showTaskbarCmd.accesskey      "S">
-
-<!ENTITY proxy.label                   "Proxykonfiguration…">
-<!ENTITY proxy.accesskey               "P">
 
 <!ENTITY closeCmd.label      "Stäng">
 <!ENTITY closeCmd.key        "W">

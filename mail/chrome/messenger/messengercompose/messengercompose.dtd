@@ -180,11 +180,11 @@
 <!ENTITY addressBookCmd.label "Adressboken">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Kontoinställningar…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "ä">
-<!ENTITY preferencesCmd.label "Inställningar…">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY accountManagerCmd2.label "Kontoinställningar">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
+<!ENTITY preferencesCmd2.label "Alternativ">
+<!ENTITY preferencesCmd2.accesskey "l">
 <!ENTITY preferencesCmdUnix.label "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey "I"> 
 
