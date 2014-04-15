@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "পৃষ্ঠা সংস্থাপন">
 
-<!ENTITY basic.tab           "ফৰমেট &amp; বিকল্পসমূহ">
 
 <!ENTITY formatGroup.label   "ফৰমেট">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "বিকল্পসমূহ">
 
-<!ENTITY printBG.label       "পটভূমি প্ৰিন্ট কৰক(ৰং &amp; ছবি)">
-<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "প্ৰান্ত &amp; হেডাৰ/ফুটাৰ">
+
 
 <!ENTITY marginGroup.label   "প্ৰান্ত (#1)">
 <!ENTITY marginUnits.inches  "ইঞ্চি">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "সোঁ:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "হেডাৰ &amp; ফুটাৰ">
 
 <!ENTITY hfLeft.label        "বাওঁ:">
 <!ENTITY hfCenter.label      "মাজ:">

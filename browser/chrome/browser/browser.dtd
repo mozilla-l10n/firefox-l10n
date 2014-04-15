@@ -28,8 +28,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "সোঁফালৰ টেবসমূহক বন্ধ কৰক">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "অন্য টেবসমূহ বন্ধ কৰক">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; লৈ ছাইন ইন কৰক">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; লৈ পুনৰ সংযোগ কৰক">
-<!ENTITY syncStartPanel.heading "&brandShortName; এতিয়া সংমিহলি কৰি আছে">
-<!ENTITY syncStartPanel.subTitle "আপুনি বিকল্পসমূহত &syncBrand.shortName.label; ক ব্যৱস্থাপনা কৰিব পাৰিব।">
-<!ENTITY syncStartPanel.subTitleUnix "আপুনি পছন্দসমূহত &syncBrand.shortName.label; ক ব্যৱস্থাপনা কৰিব পাৰিব।">
+
+
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; লৈ সংযোগ কৰিব নোৱাৰি">
 <!ENTITY syncErrorPanel.subTitle "সংমিহলি অব্যাহত ৰাখিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক।">
 <!ENTITY syncErrorPanel.signInButton.label "ছাইন ইন কৰক">
@@ -130,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "এই পত্ৰচিহ্ন সম্পাদন কৰক">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "এই পৃষ্ঠা অংশীদাৰী কৰক">
+
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "এই সংযোগ অংশীদাৰী কৰক">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "এই ছবি অংশীদাৰী কৰক">
-<!ENTITY shareImageCmd.accesskey "s">
+
+
+
+
+
 <!ENTITY shareSelectCmd.label "নিৰ্বাচন অংশীদাৰী কৰক">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "এই ভিডিঅ' অংশীদাৰী কৰক">
-<!ENTITY shareVideoCmd.accesskey "s">
+
+
 <!ENTITY feedsMenu.label "স্বাক্ষৰ কৰক">
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক…">
@@ -256,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "উন্নয়নকাৰী টুলবাৰ বন্ধ কৰক">
 <!ENTITY devToolbarMenu.label              "উন্নয়নকাৰী টুলবাৰ">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "এপ্লিকেচন ব্যৱস্থাপক">
-<!ENTITY devAppMgrMenu.accesskey           "a">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "সঁজুলিসমূহ ট'গল কৰক">
@@ -459,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "এই ধৰণে ছবি সংৰক্ষণ কৰক…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "এই ধৰণে ভিডিঅ' সংৰক্ষণ কৰক…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "এই ধৰণে অডিঅ' সংৰক্ষণ কৰক…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ছবি ই-মেইল কৰক…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিঅ' ই-মেইল কৰক…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "অডিঅ' ই-মেইল কৰক…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 <!ENTITY playPluginCmd.label          "এই প্লাগিন সক্ৰিয় কৰক">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "এই প্লাগিন লুকাওক">
@@ -616,6 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "অভিধানসমূহ যোগ কৰক…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -660,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "এতিয়া সংমিহলি কৰক">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "সংমিহলি কৰক">
 
 <!ENTITY socialToolbar.title        "সামাজিক টুলবাৰ বুটাম">
@@ -667,8 +669,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "ঠিক আছে">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "কাষবাৰ দেখুৱাওক">
-<!ENTITY social.toggleSidebar.accesskey "s">
+
 
 <!ENTITY social.addons.label "সেৱাসমূহ ব্যৱস্থাপনা কৰক…">
 
@@ -685,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনিৰ্বাচন কৰক">
-<!ENTITY customizeMode.menuAndToolbars.label "মেনু আৰু সঁজুলিবাৰ">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিৰিক্ত সঁজুলি আৰু বৈশিষ্ট্যসমূহ">
 <!ENTITY customizeMode.menuAndToolbars.empty "অধিক সঁজুলিৰ প্ৰয়োজন?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হেজাৰ এড-অনৰ পৰা বাছক">
@@ -710,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "কেমেৰা/মাইক্ৰফোনৰ অভিগম">
 <!ENTITY webrtcIndicatorButton.tooltip "ছাইটবোৰ যাৰ সৈতে আপুনি বৰ্তমানে আপোনাৰ কেমেৰা অথবা মাইক্ৰফোন অংশীদাৰী কৰি আছে প্ৰদৰ্শন কৰে">
 
-<!ENTITY mixedContentBlocked.helplink "অধিক জানক">
 <!ENTITY mixedContentBlocked.moreinfo "এই সমল প্ৰতিৰোধিত অৱস্থাতো বেছিৰভাগ ৱেবছাইটে সঠিকভাৱে কাৰ্য্য কৰিব।">
 
 <!ENTITY pointerLock.notification.message "ইয়াক আকৌ দেখুৱাবলে যিকোনো সময়ত ESC টিপক।">
