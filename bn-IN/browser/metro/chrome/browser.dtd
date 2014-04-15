@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "বার্তা">
 <!ENTITY consoleCodeEval.label     "কোড:">
 <!ENTITY consoleClear.label        "মুছে ফেলুন">
+
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "উৎস ফাইল:">
 <!ENTITY consoleErrLine.label      "লাইন:">
 <!ENTITY consoleErrColumn.label    "কলাম:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "কাট করুন">
-<!ENTITY contextTextCopy.label             "কপি করুন">
+
 <!ENTITY contextTextPaste.label            "পেস্ট করুন">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "পেস্ট করুন &amp; যান">
 <!ENTITY contextTextSelect.label           "নির্বাচন করুন">
 <!ENTITY contextTextSelectAll.label        "সমগ্র নির্বাচন করুন">
 <!-- LINK CONTEXT MENU -->
@@ -134,12 +135,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 

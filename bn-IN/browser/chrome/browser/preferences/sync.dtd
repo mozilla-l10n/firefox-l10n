@@ -47,17 +47,34 @@
 <!ENTITY prefs.ppLink.label         "গোপনীয়তা সংক্রান্ত নীতি">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "গোপনীয়তা সংক্রান্ত নীতি">
+<!ENTITY determiningAcctStatus.label     "আপনার অ্যাকাউন্টের অবস্থা নির্ধারণ করা হচ্ছে…">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "যাঁচাই করা হয়নি।">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 
-
+<!ENTITY signedInLoginFailure.beforename.label "পুনঃসংযোগের জন্য সাইন ইন করুন">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
+<!ENTITY signIn.label                "সাইন-ইন করুন">
+<!ENTITY manage.label                "পরিচালনা">
+<!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
+<!ENTITY verify.label                "ইমেল যাঁচাই করুন">
+<!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
 
+<!ENTITY welcome.description "যেখান থেকেই brandShortName ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যন্যগুলি ব্যবহার করতে পারবেন।">
+<!ENTITY welcome.signIn.label "সাইন-ইন করুন">
+<!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
 
-
-
-
-
-<!ENTITY welcome.signIn.label "লগ-ইন করুন">
-
-
+<!ENTITY welcome.useOldSync.label "সিঙ্ক এর কোন পুরানো সংস্করণ ব্যবহার করছেন?">

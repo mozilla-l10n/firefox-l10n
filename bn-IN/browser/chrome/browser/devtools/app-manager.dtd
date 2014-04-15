@@ -31,6 +31,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.disconnect "বিচ্ছিন্ন করুন">
 
 
@@ -76,6 +80,8 @@
 
 
 <!ENTITY projects.valid "মেয়াদ">
+
+
 
 
 

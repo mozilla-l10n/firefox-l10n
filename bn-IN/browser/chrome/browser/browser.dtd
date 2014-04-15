@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ব্যক্তিগত ব্রাউজিং ব্যবস্থা)">
 
-
+<!ENTITY appmenu.tooltip                     "মেনু খুলুন">
+<!ENTITY navbarOverflow.label                "অতিরিক্ত সরঞ্জাম…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড করুন">
@@ -27,19 +28,19 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ডান দিকের ট্যাব বন্ধ করুন (i)">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ট্যাব পিন করুন (P)">
+<!ENTITY  pinTab.label                       "ট্যাব পিন করুন">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "ট্যাব আনপিন করুন (b)">
+<!ENTITY  unpinTab.label                     "ট্যাব আনপিন করুন">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "চিহ্নিত শ্রেণীতে পরিবর্তন করুন">
+<!ENTITY  moveToGroup.label                  "গ্রুপে স্থানান্তর করুন">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "নতুন শ্রেণী">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর মধ্যে স্থানান্তর করুন">
@@ -97,10 +98,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; এখুনি সিঙ্ক করা শুরু করবে।">
 
-
-
-
+<!ENTITY syncErrorPanel.subTitle "সিঙ্ক পুনরারম্ভ করতে সাইন ইন করুন।">
 
 
 
@@ -128,17 +128,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "এই পৃষ্ঠাটি শেয়ার করুন (S)">
+
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "S">
-<!ENTITY shareLinkCmd.label "এই লিঙ্কটি শেয়ার করুন (S)">
-<!ENTITY shareLinkCmd.accesskey "S">
-<!ENTITY shareImageCmd.label "এই ছবিটি শেয়ার করুন (S)">
-<!ENTITY shareImageCmd.accesskey "S">
+
+
+
+
+
 <!ENTITY shareSelectCmd.label "মনোনয়ন শেয়ার করুন (S)">
 <!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন (S)">
-<!ENTITY shareVideoCmd.accesskey "S">
+
+
 
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
@@ -253,8 +253,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "অ্যাপ ম্যানেজার(A)">
-<!ENTITY devAppMgrMenu.accesskey           "A">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
@@ -327,17 +327,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "স্বনির্ধারণ">
+<!ENTITY appMenuCustomize.tooltip "টুলবার এবং মেনু স্বনির্ধারণ করুন">
+<!ENTITY appMenuCustomizeExit.label "স্বনির্ধারণ প্রস্থান">
+<!ENTITY appMenuCustomizeExit.tooltip "স্বনির্ধারণ সমাপ্ত">
 
 
 
 
+<!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইড বার দেখুন">
+<!ENTITY appMenuHelp.tooltip "সাহায্য তালিকা খুলুন">
 
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "টুল-বারে যোগ করুন">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 
 
 
@@ -452,16 +453,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "নতুন নামে ছবি সংরক্ষণ করুন...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "নতুন রূপে ভিডিও সংরক্ষণ করুন…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "নতুন রূপে অডিও সংরক্ষণ করুন…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ছবি ই-মেইল করুন…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ই-মেইল করুন…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "অডিও ই-মেইল করুন…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 <!ENTITY playPluginCmd.label          "এই প্লাগিনটি সক্রিয় করুন (c)">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "এই প্লাগইনটি আড়াল করুন (H)">
@@ -609,6 +610,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ করুন...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -653,6 +655,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "অবিলম্বে সুসংগত করুন">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "সুসংগতি">
 
 <!ENTITY socialToolbar.title        "Social টুল-বার বাটন">
@@ -660,8 +664,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "ঠিক আছে">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "সাইড-বার প্রদর্শিত হবে">
-<!ENTITY social.toggleSidebar.accesskey "s">
+
 
 <!ENTITY social.addons.label "ডিভাইস পরিচালনা করুন...">
 
@@ -674,7 +677,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "আরও জানুন (L)...">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এই মুহূর্তে নয়">
-
 
 
 
@@ -700,7 +702,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "ক্যামেরা / মাইক্রোফোন অ্যাক্সেস">
 <!ENTITY webrtcIndicatorButton.tooltip "আপনি বর্তমানে আপনার ক্যামেরা বা মাইক্রোফোন যে সাইটগুলির সঙ্গে শেয়ার করছেন সেগুলি প্রদর্শন করুন">
 
-<!ENTITY mixedContentBlocked.helplink "আরও জানুন">
 <!ENTITY mixedContentBlocked.moreinfo "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">

@@ -25,6 +25,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "অ্যাড-অনস দ্বারা সংগৃহীত স্তম্ভচিত্র">
 
+<!ENTITY aboutTelemetry.toggle "  সেকসান প্রসারিত করারা জন্য ক্লিক করুন">
 
 <!ENTITY aboutTelemetry.emptySection "(No data collected)">
 

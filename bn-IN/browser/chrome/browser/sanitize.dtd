@@ -32,10 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "পূর্ববর্তী তথ্য">
 <!ENTITY dataSection.label            "তথ্য">
 
-<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং &amp; ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য ">
+<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং এবং ডাউনলোড ইতিহাস">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "ফর্ম amp অনুসন্ধানের পূর্ববর্তী তথ্য(F)">
-<!ENTITY itemFormSearchHistory.accesskey   "a">
+<!ENTITY itemFormSearchHistory.label       "ফর্ম এবং অনুসন্ধানের ইতিহাস">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "সংরক্ষিত পাসওয়ার্ড(P)">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "কুকি(C)">

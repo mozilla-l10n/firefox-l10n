@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "ভাষা">
-<!ENTITY languages.customize.prefLangDescript           "অনেক ক্ষেত্রে ওয়েব-পেজগুলি একাধিক ভাষায় প্রদর্শিত হয়।  ওয়েব-পেজ প্রদর্শনের জন্য ব্যবহৃত ভাষা আপনার পছন্দ অনুসারে নির্বাচন করুন।">
-<!ENTITY languages.customize.active.label               "পছন্দের অনুক্রম অনুযায়ী প্রদর্শিত ভাষার তালিকা:">
+<!ENTITY languages.customize.description                "অনেক ক্ষেত্রে ওয়েব-পেজগুলি একাধিক ভাষায় প্রদর্শিত হয়। ওয়েব-পেজ প্রদর্শনের জন্য ব্যবহৃত ভাষা আপনার পছন্দ অনুসারে নির্বাচন করুন:">
 <!ENTITY languages.customize.moveUp.label               "উপরে স্থানান্তর">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "নীচে স্থানান্তর">
