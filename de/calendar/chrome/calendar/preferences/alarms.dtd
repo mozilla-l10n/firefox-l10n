@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Standardadresse, an die Erinnerungen gesendet werden:">
 <!ENTITY pref.defaulttext.label "Standardtext für Erinnerungen:">
+
+<!ENTITY pref.defaultsnoozelength.label "Standardintervall für erneutes Erinnern:">
+<!ENTITY pref.defaultsnoozelength.accesskey "R">
