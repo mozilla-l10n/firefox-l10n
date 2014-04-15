@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Աշխատել անցանց">
 <!ENTITY            offlineState.accesskey "ա">
 
-
+<!ENTITY            useSelected.label       "Առանց հարցնելու օգտագործել ընտրված պրոֆիլը">
+<!ENTITY            useSelected.accesskey   "օ">
