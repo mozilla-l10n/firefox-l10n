@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "อ">
 
 <!ENTITY  color                           "ข้อความและพื้นหลัง">
-<!ENTITY  textColor.label                 "ข้อความ :">
-<!ENTITY  textColor.accesskey             "ข">
+<!ENTITY  textColor.label                 "ตัวอักษร:">
+<!ENTITY  textColor.accesskey             "ร">
 <!ENTITY  backgroundColor.label           "พื้นหลัง :">
 <!ENTITY  backgroundColor.accesskey       "พ">
 <!ENTITY  useSystemColors.label           "ใช้สีของระบบ">
