@@ -28,7 +28,7 @@
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "ထပ်ကြိုးစားပါ">
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "ချိတ်ဆက်ဖြုတ်">
 
 
 

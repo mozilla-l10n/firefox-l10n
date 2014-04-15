@@ -9,24 +9,26 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
 
+<!ENTITY aboutSupport.crashes.title "ပျက်ဆီးချက်တင်ပြသူ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ထုတ်ပြန်ချက် ID">
-
-
-
+<!ENTITY aboutSupport.crashes.sendDate "Submitted">
+<!ENTITY aboutSupport.crashes.allReports "အပျက်အစီး အစီရင်ခံစာများ">
+<!ENTITY aboutSupport.crashes.noConfig "ယခု အက်ပလီကေးရှင်းသည် အပျက်အစီး အစီရင်ခံစာများအား​ ပြရန် စီမံမထားပါ">
 
 <!ENTITY aboutSupport.extensionsTitle "တိုးချဲ့ချက်များ">
 <!ENTITY aboutSupport.extensionName "အမည်">
 <!ENTITY aboutSupport.extensionEnabled "ဖွင့်ထားတယ်">
 <!ENTITY aboutSupport.extensionVersion "မူအဆင့်">
+<!ENTITY aboutSupport.extensionId "အိုင်ဒီ">
 
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "စမ်းသပ်နေဆဲ လုပ်ဆောင်ချက်များ">
+<!ENTITY aboutSupport.experimentName "အမည်">
+<!ENTITY aboutSupport.experimentId "အိုင်ဒီ">
 <!ENTITY aboutSupport.experimentDescription "ဖေါ်ပြချက်">
 <!ENTITY aboutSupport.experimentActive "ဖွင့်ထားပါ">
-
+<!ENTITY aboutSupport.experimentEndDate "နောက်ဆုံး ရက်">
 <!ENTITY aboutSupport.experimentHomepage "မူလအစ">
 
 
