@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Aslol">
 <!ENTITY dataSection.label            "Keɓe">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Aslol Peeragol  Aawtagol">
+<!ENTITY itemHistoryAndDownloads.accesskey "P">
+<!ENTITY itemFormSearchHistory.label       "Formere  Aslol Njiilaw">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Finndeeji Danndaaɗi">
 <!ENTITY itemPasswords.accesskey           "F">
 <!ENTITY itemCookies.label                 "Kukiije">
