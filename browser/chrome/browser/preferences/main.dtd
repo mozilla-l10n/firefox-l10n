@@ -1,48 +1,32 @@
-<!ENTITY startup.label "सुरुआत">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupPage.label "&brandShortName; सुरु हुँदा :">
-<!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "मेरो गृह पृष्ठ देखाउनुहोस्">
-<!ENTITY startupBlankPage.label "एउटा खाली पृष्ठ देखाउनुहोस्">
-<!ENTITY startupLastSession.label "अन्तिम समय देखिका मेरा सञ्झ्याल र ट्याब देखाउनुहोस्">
-<!ENTITY location.label "गृह पृष्ठ:">
-<!ENTITY location.accesskey "H">
-<!ENTITY useCurrentPage.label "हालको पृष्ठ प्रयोग गर्नुहोस्">
-<!ENTITY useCurrentPage.accesskey "C">
-<!ENTITY useMultiple.label "हालको पृष्ठ प्रयोग गर्नुहोस्">
-<!ENTITY useBookmark.label "पुस्तकचिनो प्रयोग गर्नुहोस्">
-<!ENTITY useBookmark.accesskey "B">
-<!ENTITY restoreDefault.label "पूर्वनिर्धारितमा पुन: भण्डारण गर्नुहोस्">
-<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY startup.label             "सुरुवात">
 
-<!ENTITY downloads.label "डाउनलोड">
+<!ENTITY startupPage.label         "जब &brandShortName; शुरु हुन्छ:">
+<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupHomePage.label     "मेरो गृह पृष्ठ देखाउनुहोस्">
+<!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
+<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो विन्डोजहरु र ट्याबहरु देखाउनुहोस्">
 
-<!ENTITY showWhenDownloading.label "फाइल डाउनलोड गर्दा डाउनलोड सञ्झ्याल देखाउनुहोस्">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "सबै डाउनलोड समाप्त भएपछि यसलाई बन्द गर्नुहोस्">
-<!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "यसमा फाइल बचत गर्नुहोस्">
+<!ENTITY homepage.label            "गृह पृष्ठः">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "अहिलेको पृष्ठ प्रयोग गर्नुहोस्">
+<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useMultiple.label         "अहिलेको पृष्ठहरु प्रयोग गर्नुहोस्">
+<!ENTITY chooseBookmark.label      "पुस्तकचिनो प्रयोग गर्नुहोस्...">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "पूर्वनिर्धारित रुपमा लग्नुहोस्">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "डाउनलोडहरू">
+
+<!ENTITY saveTo.label "फाईलहरु यहाँ बचत गर्नुहोस्">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "ब्राउज गर्नुहोस्...">
-<!ENTITY chooseFolderWin.accesskey "o">
-<!ENTITY chooseFolderMac.label "रोज्नुहोस्...">
-<!ENTITY chooseFolderMac.accesskey "e">
-<!ENTITY alwaysAsk.label "सधैँ मलाई फाइल कहाँ बचत गर्ने सोध्नुहोस्">
+<!ENTITY chooseFolderWin.label        "ब्राउज...">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "चयन...">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "मलाई फाइलहरु कँहा बचत गर्ने भनेर सधैं सोध">
 <!ENTITY alwaysAsk.accesskey "A">
-
-
-<!ENTITY systemDefaults.label "प्रणाली पूर्वनिर्धारण">
-<!--XXX-->
-
-<!ENTITY alwaysCheckDefault.label "सुरुआतमा यदि &brandShortName; पूर्वनिर्धारित ब्राउजर भएमा हेर्नका लागि सधैँ जाँच गर्नुहोस्">
-<!ENTITY alwaysCheckDefault.accesskey "y">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-
-<!ENTITY alwaysCheckDefault.height "3em">
-
-<!ENTITY checkNow.label "अहिले जाँच गर्नुहोस्">
-<!ENTITY checkNow.accesskey "N">

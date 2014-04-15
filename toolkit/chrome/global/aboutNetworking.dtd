@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "सञ्जालीकरणको बारेमा">
+
+<!ENTITY aboutNetworking.showNextTime          "यो चेतावनी अर्को पटक देखाउनुहोस्">
+<!ENTITY aboutNetworking.ok                    "ठिक छ">
+
+<!ENTITY aboutNetworking.sockets               "सकेटहरु">
+
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+
+
+
+
+
+
+<!ENTITY aboutNetworking.active                "सक्रिय पार्नुहोस्">
+<!ENTITY aboutNetworking.idle                  "निष्प्रयोजन">
+
+
+
+
+
+
+
+
+<!ENTITY aboutNetworking.messagesReceived      "सन्देश प्राप्त भयो">
+
+

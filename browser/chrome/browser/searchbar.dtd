@@ -1,3 +1,6 @@
-<!ENTITY cmd_engineManager.label "खोजी इन्जिन प्रबन्ध गर्नुहोस्...">
-<!ENTITY cmd_engineManager.accesskey "M">
-<!ENTITY searchEndCap.label "खोजी">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cmd_engineManager.label        "खोज इन्जिनहरु मिलाउनुहोस्…">
+<!ENTITY searchEndCap.label             "खोजी गर्नुहोस्">

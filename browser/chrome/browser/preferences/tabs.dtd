@@ -1,20 +1,22 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newPagesIn.label "नयाँ पृष्ठ यसमा खोल्नुपर्दछ:">
-<!ENTITY inNewWindow.label "एउटा नयाँ सञ्झ्याल">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "एउटा नयाँ ट्याब">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label       "नयाँ सन्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label "बहुबिध ट्याब बन्द गर्दा मलाई सावधान गराउनुहोस्">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnCloseMultipleTabs.label  "बहुविध ट्याबहरू बन्द गर्न खोज्दा मलाई सचेत गर्नुहोस्">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "&brandShortName; लाई ढिलो बनाउन सक्ने बहुबिध ट्याब खोल्दा मलाई सावधान गराउनुहोस्">
-<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY warnOpenManyTabs.label       "बहुविध ट्याबहरू खोल्दा &brandShortName; ढिलो हुन सक्छ भनेर मलाई सचेत गर्नुहोस्">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label "सधैँ ट्याबपट्टी देखाउनुहोस्">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY restoreTabsOnDemand.label        "नछान्दा सम्म ट्याबहरू लोड नगर्नुहोस्">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label "मैले नयाँ ट्याबमा लिङ्क खोल्दा, यसलाई तत्काल स्विच गर्नुहोस्">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY switchToNewTabs.label        "मैले नयाँ ट्याबमा लिङ्क खोल्ने बितिक्कै, त्यसमा तुरुन्त लग्नुहोस्">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "सन्झ्यालको कार्यपट्टीमा ट्याबको पूर्वावलोकनहरु देखाउनुहोस्">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "ट्याबहरू">

@@ -1,0 +1,117 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "लाइब्रेरी">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "सङ्गठित गर्नुहोस्">
+<!ENTITY organize.accesskey    "स">
+<!ENTITY organize.tooltip      "आफ्नो पुस्तक चिनोहरु सङ्गठित गर्नुहोस्">
+
+
+<!ENTITY cmd.close.key                  "w">
+
+
+<!ENTITY views.tooltip                  "तपाईंको दृश्य परिवर्तन गर्नुहोस्">
+
+
+<!ENTITY view.sort.label                "क्रमबद्ब गर्नुहोस्">
+<!ENTITY view.sort.accesskey            "क">
+<!ENTITY view.unsorted.label            "क्रमबद्ध नगरिएको">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z श्रेणीबद्ध क्रम">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A श्णीबद्ध क्रम">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+
+
+
+
+
+
+<!ENTITY cmd.backup.label               "जगेडा...">
+<!ENTITY cmd.backup.accesskey           "ज">
+
+
+
+
+
+<!ENTITY cmd.bookmarkLink.label         "यो पृष्ठमा पुस्तकचिनो हाल्नुहोस्...">
+<!ENTITY cmd.bookmarkLink.accesskey     "य">
+<!ENTITY cmd.delete.label               "यो पृष्ठ मेट्नुहोस्">
+<!ENTITY cmd.delete.accesskey           "य">
+<!ENTITY cmd.deleteDomainData.label     "यो साइटको बारेमा बिर्सनुहोस्">
+<!ENTITY cmd.deleteDomainData.accesskey "य">
+
+<!ENTITY cmd.open.label                  "खोल्नुहोस्">
+<!ENTITY cmd.open.accesskey              "ख">
+
+
+
+
+<!ENTITY cmd.open_all_in_tabs.label      "सबैलाई ट्याबहरुमा खोल्नुहोस्">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "स">
+
+<!ENTITY cmd.properties.label      "गुणहरू">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.sortby_name.label              "नाम अनुसार क्रमबद्ध गर्नुहोस्">
+<!ENTITY cmd.sortby_name.accesskey          "न">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+
+
+
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+
+
+<!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
+<!ENTITY cmd.moveBookmarks.accesskey              "स">
+
+<!ENTITY col.name.label          "नाम">
+<!ENTITY col.tags.label          "ट्यागहरू">
+<!ENTITY col.url.label           "स्थान">
+<!ENTITY col.mostrecentvisit.label "सबभन्दा हालैको भ्रमण">
+<!ENTITY col.visitcount.label    "भ्रमण गणना">
+<!ENTITY col.keyword.label       "शब्दकुञ्जी">
+<!ENTITY col.description.label   "वर्णन">
+<!ENTITY col.dateadded.label     "थपिएको">
+<!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">
+
+<!ENTITY search.label                              "खोजी गर्नुहोस्:">
+<!ENTITY search.accesskey                          "ख">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "आयात अनि जगेडा गर्नुहोस्">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "तपाईँको पुस्तक चिन्हलाई आयात अनि जगेडा गर्नुहोस्">
+
+<!ENTITY backButton.tooltip  "पछाडि जानुहोस्">
+
+<!ENTITY forwardButton.tooltip  "अगाडि जानुहोस्">
+
+
+<!ENTITY detailsPane.less.label "कम">
+<!ENTITY detailsPane.less.accesskey "e">
+
+
+
+
+
+<!ENTITY byDate.label             "मिति अनुरूप">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "साइट अनुरुप">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "सबभन्दा भ्रमण गरिएको अनुसार">
+<!ENTITY byMostVisited.accesskey  "V">
+
+
+
+

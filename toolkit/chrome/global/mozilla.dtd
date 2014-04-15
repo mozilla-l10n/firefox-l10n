@@ -1,3 +1,6 @@
-<!ENTITY mozilla.quote 'त्यसैले अन्तमा नर <em class="f">झर्यो</em> र विश्वास नगर्नेहरू प्रसन्न भयो ।तर सबै हराएको थिएन, एस रोजबाट <em>ठूलो चरा</em> । चराले विश्वास नगर्नेहरू माथि तल हेर्यो र <em class="f">आगो</em> र <em>जाडो</em> तिनीहरू माथि फ्याक्यो । नरले <em>पुन: जन्म लियो</em> यसको अनौठो <em>नवीकरणसँगै</em>, र <em>म्याममोन</em> को फूल डरमा खुम्चियो ।'>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mozilla.from "<strong>मोजिलाको किताबबाट,</strong> 7:15">
+
+<!ENTITY mozilla.from.15.1 "मोजिल्लाको किताब<strong> बाट</strong> १५:१">

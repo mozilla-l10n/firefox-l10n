@@ -1,12 +1,16 @@
-<!ENTITY dialog.title "उपकरणपट्टी अनुकूलन गर्नुहोस्">
-<!ENTITY dialog.style "चौडाइ: 635px; उचाइ: 400px;">
-<!ENTITY instructions.description "तपाईँले उपकरणपट्टीबाट वा लाई तानेर वस्तुहरू थप्न वा हटाउन सक्नुहुन्छ ।">
-<!ENTITY show.label "देखाउनुहोस्:">
-<!ENTITY iconsAndText.label "प्रतिमा र पाठ">
-<!ENTITY icons.label "प्रतिमा">
-<!ENTITY text.label "पाठ">
-<!ENTITY useSmallIcons.label "सानो प्रतिमा प्रयोग गर्नुहोस्">
-<!ENTITY restoreDefaultSet.label "पूर्वानिर्धारित सेट पूर्वावस्थामा ल्याउनुहोस्">
-<!ENTITY addNewToolbar.label "नयाँ उपकरणपट्टी थप्नुहोस्">
-<!ENTITY saveChanges.label "काम भयो">
-<!ENTITY undoChanges.label "परिवर्तनहरू पूर्वावस्थामा फर्काउनुहोस्">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "उपकरणपट्टी अनुकूलन गर्नुहोस्">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+
+<!ENTITY show.label               "देखाउनुहोस्:">
+<!ENTITY iconsAndText.label       "प्रतिमा र पाठहरू">
+<!ENTITY icons.label              "प्रतिमाहरु">
+<!ENTITY text.label               "पाठ">
+<!ENTITY useSmallIcons.label      "साना प्रतिमा प्रयोग गर्नुहोस्">
+
+<!ENTITY addNewToolbar.label      "नयाँ उपकरणपट्टी थप्नुहोस्">
+<!ENTITY saveChanges.label        "सम्पन्न भयो">
+<!ENTITY undoChanges.label        "परिवर्तनलाई पूर्वस्थितिमा फर्काउनुहोनुहोस्">

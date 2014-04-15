@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "सत्रलाई पूर्वावस्थामा ल्याउनुहोस्">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "यो लज्जादायी छ।">
+<!ENTITY restorepage.problemDesc    "&brandShortName;लाई तपाइको विन्डो र टयाब पुन:हासिल गर्न समस्या भैरहेको छल सामान्यतया यो भर्खरै खोलिएको वेब पृष्ठको कारणले हुन्छ।">
+<!ENTITY restorepage.tryThis        "तपाईँले यो प्रयास गर्न सक्नुहुन्छ:">
+<!ENTITY restorepage.restoreSome    "तपाइले सोच्नु भएको एक वा बढि ट्याबहरु, जसका काराणले समस्या भइरहेको छ, हटाउँदै">
+<!ENTITY restorepage.startNew       "पूर्णरुपले नया ब्राउजिङ सत्र सुरु गरिदै">
+
+<!ENTITY restorepage.tryagainButton "पूर्ववस्थामा ल्याउनुहोस्">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "बन्द गर्नुहोस्">
+<!ENTITY restorepage.close.access   "C">
+
+<!ENTITY restorepage.restoreHeader  "पूर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY restorepage.listHeader     "संझ्याल तथा ट्याबहरु">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "पुन: स्वागत छ!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "पुन: स्वागत छ! ">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; ले सफलतापूर्वक तपाईंको प्रोफाइललाई पुन:मिलाएको छ। तल तपाईंले खोल्नु भएक सञ्झ्यालहरु र ट्याबहरुको सूची छ, तपाईंले तिनिहरुलाई पुन: संचित गर्न या सफा अवस्था बाट सुरु गर्न सक्नुहुन्छ।">

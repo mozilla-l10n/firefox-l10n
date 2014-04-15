@@ -1,52 +1,87 @@
-<!ENTITY history.label "इतिहास">
-<!-- LOCALIZATION NOTE:
-  The entities rememberBefore.label and rememberAfter.label appear on a single
-  line in preferences as follows:
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
--->
+<!ENTITY tracking.label                 "ट्रयाक गरिँदै">
 
-<!ENTITY rememberBefore.label "पछिल्लो समयमा अवलोकन गरिएका पृष्ठ स्मरण गर्ने समय">
-<!ENTITY rememberBefore.accesskey "v">
-<!ENTITY rememberAfter.label "दिन ">
+<!ENTITY dntTrackingNopref.label2       "वेवसाइटहरुलाई मेरो ट्रयाकिङ्ग पसन्द बारे केहि नभन्नु">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2      "वेवसाइटहरुलाई म ट्रयाक हुन चाहन्न भन्नु">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2         "वेवसाइटहरुलाई म ट्रयाक हुन चाहन्छु भन्नु">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "अझ जान्नुहोस् ">
 
-<!ENTITY rememberForms.label "फारम र खोजी पट्टीमा मैले गरेको प्रविष्टि सम्झनुहोस्">
-<!ENTITY rememberForms.accesskey "f">
+<!ENTITY  history.label                 "इतिहास">
 
-<!ENTITY rememberDownloads.label "मैले गरेको डाउनलोड सम्झनुहोस्">
-<!ENTITY rememberDownloads.accesskey "d">
+<!ENTITY  locationBar.label             "स्थानपट्टी ">
 
+<!ENTITY  locbar.pre.label              "स्थानपट्टी प्रयोग गर्दा सुझाव देखाउनु:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "इतिहास तथा पुस्तकचिनोहरू">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
+<!ENTITY  locbar.nothing.label          "केही पनि होइन ">
 
-<!ENTITY cookies.label "कुकी">
+<!ENTITY  acceptCookies.label           "साइटहरुबाट कुकी स्वीकार गर्नुहुोस्">
+<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY acceptCookies.label "साइटका कुकी स्वीकार गर्नुहोस्">
-<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरु स्वीकार गर्नुहुोस्:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "सधैँ">
+<!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
+<!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
 
-<!ENTITY keepUntil.label "कहिले सम्म राख्नुहुन्छ:">
-<!ENTITY keepUntil.accesskey "K">
+<!ENTITY  keepUntil.label               "यसबेलासम्म राख्नु:">
+<!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY expire.label "तिनीहरूको म्याद समाप्त नहुँदासम्म">
-<!ENTITY close.label "मैले &brandShortName; बन्द नगर्दासम्म">
-<!ENTITY askEachTime.label "ठीकै छ, हरेक पटक मलाई सोध्नुहोस्">
+<!ENTITY  close.label                   "मैले brandShortName बन्द गर्छु;">
+<!ENTITY  askEachTime.label             "मलाई हरेक पटक सोध्नुहोस्">
 
-<!ENTITY cookieExceptions.label "अपवाद...">
-<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY  cookieExceptions.label        "अपवादहरू...">
+<!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY showCookies.label "कुकी देखाउनुहोस्...">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY  showCookies.label             "कुकीहरू देखाउनुहोस्...">
+<!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "इतिहास स्मझिने">
+<!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिने">
+<!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY privateData.label "निजी डेटा">
+<!ENTITY  rememberDescription.label      "&brandShortName; le तपाईको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजि इतिहासहरु सम्झिन्छ, र तपाईले हेर्नुभएका वेबसाइटका कुकिहरू राख्दछ।">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY alwaysClear.label "सधैँ मैले brandShortName बन्द गर्दा मेरो निजी डेटा खाली गर्नुहोस्;">
-<!ENTITY alwaysClear.accesskey "b">
+<!ENTITY  rememberActions.pre.label           "तपाई यो चाहन सक्नुहुन्छ: ">
+<!ENTITY  rememberActions.clearHistory.label  "तपाईँको हालसालको इतिहास मेटाउनुहोस्">
+<!ENTITY  rememberActions.middle.label        ", अथवा ">
+<!ENTITY  rememberActions.removeCookies.label "एक-एक कुकीहरू हटाउनुहोस्">
+<!ENTITY  rememberActions.post.label          "।">
 
-<!ENTITY askBeforeClear.label "निजी डेटा खाली गर्नुभन्दा पहिला मलाई सोध्नुहोस्">
-<!ENTITY askBeforeClear.accesskey "A">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ले तपाईको निजी ब्राउजिङको सेटिङ्गहरु प्रयोग गर्छ र तपाई को कुनै पनि  ब्राउजिङ को कुनै पनि इतिहास सुरक्षित गर्दैन ">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY clearDataSettings.label "सेटिङ...">
-<!ENTITY clearDataSettings.accesskey "t">
+<!ENTITY  dontrememberActions.pre.label          "तपाई यो पनि चाहन सक्नुहुन्छ: ">
+<!ENTITY  dontrememberActions.clearHistory.label "अहिलेको सबै इतिहास मेटाउनुहोस्">
+<!ENTITY  dontrememberActions.post.label         "।">
 
-<!ENTITY clearDataNow.label "अहिले खाली गर्नुहोस्...">
-<!ENTITY clearDataNow.label2 "अहिले खाली गर्नुहोस्">
-<!ENTITY clearDataNow.accesskey "N">
+<!ENTITY  privateBrowsingPermanent2.label "सधै निजी ब्राउजिङ ढाँचा प्रयोग गर्नुहोस्">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "मेरो ब्राउजिङ र डाउनलोड इतिहास सम्झनुहोस्">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "खोज र फारम इतिहास सम्झनुहोस्">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "&brandShortName; बन्द हुँदा इतिहास मेटाउनुहोस्">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "ढाँचाहरू...">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

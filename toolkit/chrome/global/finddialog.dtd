@@ -1,17 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from finddialog.xul -->
 
+
 <!ENTITY findDialog.title "यो पृष्ठमा फेला पार्नुहोस्">
-<!ENTITY findDialogFrame.title "यो फ्रेममा फेला पार्नुहोस्">
 <!ENTITY findField.label "फेला पार्नुहोस्:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "केस मिलाउनुहोस्">
+<!ENTITY caseSensitiveCheckbox.label "केस जोडा मिलाउनुहोस्">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "बेर्नुहोस्">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "पछाडि खोजी गर्नुहोस्">
-<!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findField.tooltip "यसका लागि खोजी गर्न एउटा वा धेरै शब्द टाइप गर्नुहोस्">
-<!ENTITY findButton.label "पछिल्लो फेला पार्नुहोस्">
+<!ENTITY findButton.label "पछिल्लो फेला पार्नुहोस् ">
 <!ENTITY findButton.accesskey "F">
 <!ENTITY cancelButton.label "रद्द गर्नुहोस्">
 <!ENTITY closeButton.label "बन्द गर्नुहोस्">
