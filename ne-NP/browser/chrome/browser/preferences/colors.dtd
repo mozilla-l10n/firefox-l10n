@@ -1,22 +1,26 @@
-<!ENTITY colorsDialog.title "रङ">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowPagesToUse.label "मैले चयन गरेका माथिका रङको सट्टामा, पृष्ठलाई तिनको आफ्नो रङ रोज्न अनुमति दिनुहोस्">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY  colorsDialog.title              "रङहरू">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY color "पाठ र पृष्ठभूमि">
-<!ENTITY textColor.label "पाठ:">
-<!ENTITY textColor.accesskey "t">
-<!ENTITY backgroundColor.label "पृष्ठभूमि:">
-<!ENTITY backgroundColor.accesskey "b">
-<!ENTITY useSystemColors.label "प्रणाली रङ प्रयोग गर्नुहोस्">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY  allowPagesToUse.label           " मेरो माथिका सेटिंग को सट्टा पेजहरुलाई आफ्नै रंग छान्न दिनुहोस ">
+<!ENTITY  allowPagesToUse.accesskey       " ">
 
-<!ENTITY underlineLinks.label "अधोरेखा लिङ्क">
-<!ENTITY underlineLinks.accesskey "u">
-<!ENTITY links "लिङ्क रङ">
-<!ENTITY linkColor.label "अवलोकन नगरिएका लिङ्क:">
-<!ENTITY linkColor.accesskey "l">
-<!ENTITY visitedLinkColor.label "अवलोकन गरिएका लिङ्क:">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY  color                           "पाठ र पृष्ठभूमि">
+
+
+<!ENTITY  backgroundColor.label           "पृष्ठभूमि:">
+<!ENTITY  backgroundColor.accesskey       "प">
+<!ENTITY  useSystemColors.label           "प्रणालीका रंगहरु प्रयोग गर्नुहोस्">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "लिङ्कहरू अधोरेखन गर्नुहोस्">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "रंगहरु लिङ्क गर्नुहोस्">
+<!ENTITY  linkColor.label                 "भ्रमण नगरिएका लिङ्कहरु:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "भ्रमण गरिएका लिङ्कहरु:">
+<!ENTITY  visitedLinkColor.accesskey      "v">

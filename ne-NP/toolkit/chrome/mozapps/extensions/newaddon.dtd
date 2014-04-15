@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY later           "तपाई जहिले कुनै पनि समय आफ्नो सोँच परिवर्तन गर्न सक्नु हुनेछ 
+एड-अन म्यानेजरमा गएर।">
+<!ENTITY continue        "जारी राख्नुहोस्">
+
+<!ENTITY restartButton   "&brandShortName; फेरि सुरू गर्नुहोस्">
+<!ENTITY cancelButton    "रद्द गर्नुहोस्">

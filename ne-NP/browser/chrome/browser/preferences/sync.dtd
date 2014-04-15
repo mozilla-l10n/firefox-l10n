@@ -1,0 +1,74 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "सेटअप &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "syncBrand.पुरानाम.लेबल; तपाईं को ईतिहास हेर्न, बूकमर्क्स, पासवोर्ड अनी तपाईंको सम्पूर्ण डिभाइसको  ट्याब खोल्न।">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "अद्यावधिक">
+<!ENTITY resetPass.label              "रिसेट गर्नुहोस्">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "खाता व्यवस्थित गर्नुहोस्">
+<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY viewQuota.label              "कोटा हेर्नुहोस्">
+<!ENTITY changePassword2.label        "पासवर्ड परिवर्तन गर्नुहोस्...">
+<!ENTITY myRecoveryKey.label          "मेरो पुनर्स्थापना साँचो">
+<!ENTITY resetSync2.label             "समक्रमण पुनढाँचा...">
+
+<!ENTITY pairDevice.label             "साधनसँग सम्बन्धन कायम गर्नुहोस्">
+
+<!ENTITY syncMy.label               "मेरो समक्रमण">
+<!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "ट्याबहरू">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "इतिहास">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "पासवर्डहरू">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "प्राथमिकताहरू">
+<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "एड-अन">
+<!ENTITY engine.addons.accesskey    "A">
+<!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "साधनको नामः">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "यो उपकरण विछेद गर्नुहोस्">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "सेवाको सर्तहरू">
+<!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
+<!-- Firefox Accounts stuff -->
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY signIn.label                "साइन इन गर्नुहोस्">
+<!ENTITY manage.label                "व्यवस्था गर्नुहोस्">
+
+
+
+
+<!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
+<!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
+
+<!ENTITY welcome.useOldSync.label "समक्रमणको पुरानो संस्करण प्रयोग गरिँदै छ ?">

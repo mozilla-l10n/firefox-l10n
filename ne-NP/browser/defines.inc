@@ -1,11 +1,14 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR मदन पुरस्कार पुस्तकालय, www.mpp.org.np
+#define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>बसन्त कृष्ण श्रेष्ठ</em:contributor><em:contributor>basanta.shrestha@gmail.com</em:contributor> <em:contributor>info@mpp.org.np</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>जो सलोन</em:contributor> <em:contributor>सुजी सलोन</em:contributor>
 
 #unfilter emptyLines

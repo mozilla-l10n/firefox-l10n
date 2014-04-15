@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncKey.keepItSecret.heading     "यसलाई गुप्त राख्नुहोस्">
+
+<!ENTITY syncKey.keepItSafe.heading       "यसलाई सुरक्षित राख्नुहोस्">
+<!ENTITY syncKey.keepItSafe1.description  "यो कुञ्जी नहराउनुहोस् ।">
+
+
+
+
+<!ENTITY syncKey.findOutMore2.label       ".">
+
+<!ENTITY syncKey.footer2.label            "। गोपनीयता निति यहाँ उपलब्ध छन् ">
+<!ENTITY syncKey.footer3.label            ".">

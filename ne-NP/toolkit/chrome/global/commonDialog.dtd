@@ -1,6 +1,13 @@
-<!ENTITY header.label "छोटो शीर्षक">
-<!ENTITY message.label "केही नमूना पाठ यहाँ जान्छ ।">
-<!ENTITY editfield0.label "प्रयोगकर्ता नाम:">
-<!ENTITY editfield1.label "पासवर्ड:">
-<!ENTITY editfield2.label "पासवर्ड यकिन गर्नुहोस्:">
-<!ENTITY checkbox.label "जाँच गर्नुहोस्">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY header.label     "संक्षिप्त शीर्षक"> 
+<!ENTITY message.label    "केही नमुना पाठ यहाँ छन्।">
+<!ENTITY editfield0.label "प्रयोगकर्ता नाम:"> 
+<!ENTITY editfield1.label "पासवर्ड:"> 
+<!ENTITY checkbox.label   "जाँच्नुहोस्">
+<!ENTITY copyCmd.label    "प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "सबै चयन गर्नुहोस्">
+<!ENTITY selectAllCmd.accesskey "A">

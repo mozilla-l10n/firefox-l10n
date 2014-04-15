@@ -1,56 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "पृष्ठ लोड गर्दा त्रुटि">
-<!ENTITY retry.label "पुन: प्रयास गर्नुहोस्">
+<!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
+<!ENTITY retry.label "पुन:प्रयास गर्नुहोस्">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "जडान गर्न अक्षम">
+<!ENTITY connectionFailure.title "जडान गर्न असमर्थ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "यो ठेगाना निषेध गरिएको छ">
-<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc
-">
+<!ENTITY deniedPortAccess.title "यो ठेगाना प्रतिबन्धित छ">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्भर फेला परेन">
-<!ENTITY dnsNotFound.longDesc "<ul> <li><strong>www</strong>.example.com को साटोमा<strong>ww</strong>.example.com जस्तै टाइप त्रुटिका लागि ठेगाना जाँच गर्नुहोस्</li> <li>यदि तपाईँ कुनै पनि पृष्ठ लोड गर्न सक्षम नभएमा, तपाईँको कम्प्युटरको सञ्जाल जडान जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोकसीद्वारा सुरक्षित गरिएको भएमा, &brandShortName; लाई वेब पहुँच गर्न अनुमति दिइएको निश्चित हुनुहोस् ।</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "फाइल फेला परेन">
-<!ENTITY fileNotFound.longDesc "<ul> <li>ठूलोबर्ण वा अन्य टाइप त्रुटिका लागि फाइल नाम जाँच गर्नुहोस् ।</li> <li>यदि फाइल सारिएको, पुन: नामकरण गरिएको वा मेटिएको छ छैन हेर्न जाँच गर्नुहोस् ।</li> </ul>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; ले केही कारणले गर्दा यो पृष्ठ लोड गर्न सक्दैन ।</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणवस् यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
-<!ENTITY malformedURI.title "ठेगाना बैध छैन">
-<!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सधैँ<strong>http://www.example.com/</strong> रुपमा लेखिन्छ</li> <li>तपाईँले अगाडि स्ल्यास प्रयोग गरेको निश्चित गर्नुहोस् (i.e. <strong>/</strong>) ।</li> </ul>">
+<!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 
-<!ENTITY netInterrupt.title "जडानलाई रोकिएको थियो">
+
+<!ENTITY netInterrupt.title "यो जडानमा हस्तछेप भएको छ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "अफलाइन मोड">
-<!ENTITY netOffline.longDesc "<ul> <li>फाइल मेनुमा &quot;अफलाइन कार्य गर्नुहोस्&quot; अनचेक गर्नुहोस्, त्यसपछि पुन: प्रयास गर्नुहोस् ।</li> </ul>">
+<!ENTITY notCached.title "कागजातको समयसीमा समाप्त भयो">
+<!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै,&brandShortName;ले स्वतः संवेदनशील कागजातहरुलाई पुन:अनुरोध गर्दैन।</li><li>कागजात पुन:अनुरोध गर्नलाई पुन: प्रयास क्लिक गर्नुहोस्।</li></ul>">
 
-<!ENTITY netReset.title "जडान रिसेट गरिएको थियो">
+<!ENTITY netOffline.title "अफलाइन मोड">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>अनलाइन मोडमा स्विच तथा पृष्ठ पुन: लोड गर्न &quot;पुन: प्रयास&quot; मा थिच्नुहोस् ।</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
+
+
+<!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
+
+
+<!ENTITY netReset.title "यो जडान रिसेट भएको थियो">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "जडानको समय समाप्त भएको छ">
+<!ENTITY netTimeout.title "यो जडानको समय समाप्त भएको छ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ठेगाना बुझेको थिएन">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>यो ठेगाना खोल्न तपाईँले अर्को सफ्टवेयर स्थापन गर्न आवश्यक हुनसक्छ ।</li> </ul>">
+<!ENTITY unknownProtocolFound.title "यो ठेगाना बुझिएको थिएन">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>यो ठेगाना खोल्नको लागि तपाईंले अर्को सफ्टवेयर स्थापना गर्नुपर्ने हुन सक्छ।</li> 
+</ul>">
 
-<!ENTITY proxyConnectFailure.title "प्रोक्सी सर्भरले जडान अस्वीकार गरेको छ">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>प्रोक्सी सेटिङ ठीक भएको निश्चित गर्न तिनीहरूलाई जाँच गर्नुहोस् ।</li> <li>प्रोक्सी सर्भरले कार्य गरेको निश्चित गर्न तपाईँको सञ्जाल प्रशासकलाई निश्चित गर्नुहोस् ।</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>यिनीहरु ठिक छ भन्ने सुनिश्चित गर्नका लागि प्रोक्सी सर्भर सेटिङहरु जाँच गर्नुहोस् ।</li> 
+<li>प्रोक्सी सर्वर काम गरिराखेको छ भन्ने सुनिश्नचत गर्न आफ्नो सञ्जाल प्रशासकसँग सम्पर्क गर्नुहोस् ।</li> 
+</ul>">
 
-<!ENTITY proxyResolveFailure.title "प्रोक्सी सर्भर फेला पार्न अक्षम">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>प्रोक्सी सर्भर ठीक भएको निश्चित गर्न तिनीहरूलाई जाँच गर्नुहोस् ।</li> <li>तपाईँको कम्प्युटरको सञ्जाल जडानले कार्य गरेको निश्चित गर्न जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोक्सीद्वारा सुरक्षा गरिएको भएमा, &brandShortName; लाई वेबमा पहुँचका लागि अनुमति भएको निश्चित गर्नुहोस् ।</li> </ul>">
+<!ENTITY proxyResolveFailure.title "प्रोक्सी सर्भरको खोजि गर्न असमर्थ भयो">
 
-<!ENTITY redirectLoop.title "यो पृष्ठ ठीक तरिकाले पुन: निर्दैशन गरिएको छैन">
-<!ENTITY redirectLoop.longDesc "<ul> <li>यो समस्या कहिलेकाहीँ कुकी स्वीकार गर्न अक्षम वा अस्वीकार गरिएको कारणले हुनसक्छ ।</li> </ul>">
+
+<!ENTITY redirectLoop.title "पृष्ठ राम्रोसँग पुन: निर्देशित हुन सकिरहेको छैन">
+
 
 <!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>तपाईँको प्रणालीमा निजी सुरक्षा प्रबन्धक स्थापना गरिएको निश्चित हुन जाँच गर्नुहोस् ।</li> <li>यो सर्भरमा मानक बिहिन कन्फिगरेसनका कारणले हुनसक्छ ।</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>साइट अस्थायी रुपमा उपलब्ध नभएको वा धेरै व्यस्त हुनसक्छ । केही मिनेट पछाडि पुन: प्रयास गर्नुहोस् ।</li> <li>यदि तपाईँ कुनै पनि पृष्ठ लोड गर्न अक्षम भएमा, तपाईँको कम्प्युटर सञ्जाल जडान जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोक्सीद्वारा सुरक्षा गरिएको भएमा, &brandShortName; लाई वेबमा पहुँचका लागि अनुमति भएको निश्चित गर्नुहोस् ।</li> </ul>">
+
+<!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
+<li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "सुरक्षित जडान असफल भयो">
+
+
+
+<!ENTITY malwareBlocked.title "संकास्पद आक्रमण साइट!">
+<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
+
+<!ENTITY phishingBlocked.title "संकास्पद संजाल जालसाजी!">
+<!ENTITY phishingBlocked.longDesc "<p>व्यक्तिगत जानकारी यो पृष्ठमा राख्नुको नतिजा पहिचानको चोरी वा अन्य छल-कपट हुन सक्छ।</p> 
+<p>यस प्रकारको वेब धोखेबाजी फिसिङ्ग जस्ता घोटालामा प्रयोग हुन्छ जुनमा नक्कली वेब पृष्ठ र ई-मेलहरु तपाईँले विश्वास गर्नसक्ने स्रोतहरुको नक्कल गर्नमा प्रयोग गरिन्छ।</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
+
+
+<!ENTITY corruptedContentError.title "भ्रष्ट सामग्री त्रुटि">
+
+
+
+<!ENTITY securityOverride.linkText "वा तपाईले एउटा अपवाद थप्न सक्नुहुन्छ…">
+<!ENTITY securityOverride.getMeOutOfHereButton "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
+<!ENTITY securityOverride.exceptionButtonLabel "अपवाद थप्नुहोस्...">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY remoteXUL.title "दूर XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">

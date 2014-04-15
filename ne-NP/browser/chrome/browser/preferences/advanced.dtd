@@ -1,90 +1,136 @@
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "q", "z" -->
-
-<!ENTITY generalTab.label "साधारण">
-
-<!ENTITY accessibility.label "पहुँच">
-
-<!ENTITY useCursorNavigation.label "पृष्ठ भित्र नेभिगेट गर्न सधैँ कर्सर कुञ्जी प्रयोग गर्नुहोस्">
-<!ENTITY useCursorNavigation.accesskey "c">
-<!ENTITY searchStartTyping.label "मैले टाइप गर्न सुरुगर्दा पाठको खोजी गर्नुहोस्">
-<!ENTITY searchStartTyping.accesskey "x">
-
-<!ENTITY browsing.label "ब्राउजिङ">
-
-<!ENTITY useAutoScroll.label "स्वचालित स्क्रोलिङ प्रयोग गर्नुहोस्">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "महिन स्क्रोलिङ प्रयोग गर्नुहोस्">
-<!ENTITY useSmoothScrolling.accesskey "m">
-<!ENTITY checkSpelling.label "मैले टाइप गरे अनुरुपको हिज्जे जाँच गर्नुहोस्">
-<!ENTITY checkSpelling.accesskey "t">
-
-<!ENTITY languages.label "भाषा">
-
-<!ENTITY chooseLanguage.label "पृष्ठ प्रदर्शन गर्नका लागि तपाईँले रुचाएका भाषा रोज्नुहोस्">
-<!ENTITY chooseButton.label "रोज्नुहोस्...">
-<!ENTITY chooseButton.accesskey "o">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 
-<!ENTITY networkTab.label "सञ्जाल">
+<!ENTITY generalTab.label                "सामान्य">
 
-<!ENTITY connection.label "जडान">
+<!ENTITY accessibility.label             "पहुँचता">
 
-<!ENTITY connectionDesc.label "इन्टरनेटमा कसरी &brandShortName; जडान हुन्छ कन्फिगर गर्नुहोस्">
-<!ENTITY connectionSettings.label "सेटिङ...">
-<!ENTITY connectionSettings.accesskey "e">
+<!ENTITY useCursorNavigation.label       "पृष्ठहरु सफर गर्दा जहिले पनि cursor keys प्रयोग गर्नुहोस्">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "लेख्न सुरु गर्दा text खोजी गर्नुहोस्">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "वेबसाइट पुनर्निर्देशित वा वेब पृष्ठ फेरी लोड गर्दा मलाई चेतावनी दिनुहोस">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY cache.label "क्यास">
+<!ENTITY browsing.label                  "ब्राउजिङ">
+
+<!ENTITY useAutoScroll.label             "अटोस्क्रोलिङ्ग प्रयोग गर्नुहोस्">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "महीन स्क्रोल प्रयोग गर्नुहोस्">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "उपलब्ध भएमा यन्त्र गति प्रयोग गर्नुहोस्">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "टाइप गर्दागर्दै अक्षर विन्यास जाँच गर्नुहोस्">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "प्रणालीका निर्धारितहरू">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "&brandShortName; निर्धारित ब्राउजर हो कि होइन सधै सुरुवातमा जाच गर">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY setDefault.label                "&brandShortName; लाइ निर्धारित ब्राउजर बनाउनुहोस">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "तपाइको हालको निर्धारित ब्राउजर &brandShortName;">
+
+<!ENTITY dataChoicesTab.label            "डाटा चयनहरु">
+
+<!ENTITY healthReportSection.label       "&brandShortName; स्वास्थ्य विवरण">
+<!ENTITY healthReportDesc.label          "तपाईलाई तपाईको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ v">
+<!ENTITY enableHealthReport.label        "सुरु &brandShortName; स्वास्थ्य रिपोर्ट">
+<!ENTITY enableHealthReport.accesskey    "र">
+<!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
+
+<!ENTITY telemetrySection.label          "टेलीमेट्री">
+<!ENTITY telemetryDesc.label             "हिस्सा प्रदर्शन, प्रयोग भएको, यन्त्र र तपाईको ब्राउजरले बनाएको डाटा व्रिकेताछोटोनाम सहित; हामीलाई ब्रान्डको छोटोनामस बनाउन; राम्रो">
+<!ENTITY enableTelemetry.label           "Telemetry सक्षम पार्नुहोस्">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
+
+<!ENTITY crashReporterSection.label      "बिग्रिएको रिपोटर">
+<!ENTITY crashReporterDesc.label         "ब्यापारिक चिन्ह को छोटोनाम;सहयोग को लागी पतन प्रतिवेदनहरु पेश गर्नु बिक्रेता को छोटोनाम ; तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि">
+<!ENTITY enableCrashReporter.label       "क्र्यास विवरण सक्षम पार्नुहोस् C">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "अझ जान्नुहोस्">
+
+<!ENTITY networkTab.label                "नेटवर्क">
+
+<!ENTITY connection.label                "जडान">
+
+<!ENTITY connectionDesc.label            "&brandShortName; कसरी इन्टरनेटसँग जोडिएको छ कन्फिगर गर्नुहोस्">
+<!ENTITY connectionSettings.label        "सेटिङ्गहरू e">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "वेब बाट लिएका सामग्रीहरु ">
+
+<!ENTITY offlineStorage2.label           "अफलाईन वेब सामग्री र प्रयोगकर्ता डाटा">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "यससम्म प्रयोग गर्नुहोस्">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "क्यासका लागि खाली स्थानको MB">
+<!ENTITY limitCacheSizeBefore.label      "क्याचलाई सिमित गर्नुहोस L">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ठाउँ">
+<!ENTITY clearCacheNow.label             "खाली गर्नुहोस् c">
+<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearOfflineAppCacheNow.label   "अहिले खाली गर्नुहोस् N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित क्याच संचालनलाई अोवरराड गर्नुहोस् O">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateTab.label                 "अद्यावधिक">
+
+<!ENTITY updateApp.label                 "&brandShortName; अद्यावधिकहरु:">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "अद्यावधिहरु स्वत: इन्स्टल गर्नुहोस् (सुझव: उन्नत सुरक्षाको लागि)">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAutoMetro.label           "स्वचालित अद्यावधि डेस्कटप बाट र विन्डोज ८ को पारामा  &brandShortName;">
+<!ENTITY updateAutoMetro.accesskey       "s">
+<!ENTITY updateCheck.label               "अद्यावधिको लागि जांच गर्नुस ,तर सफ्टवेयर स्थापना गर्ने कि नगर्ने मलाई छान्न दिनुस ">
+<!ENTITY updateCheck.accesskey           "अ">
 
 
-<!ENTITY updateTab.label "अद्यावधिक गर्नुहोस्">
 
-<!ENTITY autoCheck.label "अद्यावधिकगर्नका लागि स्वचालित रुपमा जाँच गर्नुहोस्:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "एड-अन स्थापना">
-<!ENTITY enableAddonsUpdate.accesskey "n">
-<!ENTITY enableSearchUpdate.label "खोजी इन्जिन">
-<!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY whenUpdatesFound.label " &brandShortName; मा अद्यावधिक फेला पार्दा:">
-<!ENTITY askMe.label "मैले गर्न चाहेको कुरा सोध्नुहोस्">
-<!ENTITY askMe.accesskey "k">
-<!ENTITY modeAutomatic.label "स्वचालित रुपमा डाउनलोड गर्दछ र अद्यावधिकलाई स्थापना गर्दछ">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "यदि यसले कुनै मेरो एड-अन अक्षम पार्ने भएमा सावधानी गराउनुहोस्">
-<!ENTITY modeAutoAddonWarn.accesskey "W">
-<!ENTITY updateHistory.label "अद्यावधिक इतिहास देखाउनुहोस्">
-<!ENTITY updateHistory.accesskey "p">
+<!ENTITY updateAutoAddonWarn.label       "यसले कुनै एड-अन हरुलाई काम नगर्ने बनाउछ भने मलाई चेतावनी दिनुस ">
+<!ENTITY updateAutoAddonWarn.accesskey   "य">
+
+<!ENTITY updateAutoMetroWarn.label       "(विन्डोज ८ को पारामा &brandShortName; एड-अन हरुको  चल्ने /नचल्ने वातवरण जांच नगर्नु होस् )">
 
 
-<!ENTITY encryptionTab.label "गुप्तिकरण">
 
-<!ENTITY protocols.label "प्रोटोकल">
-<!ENTITY useSSL3.label "SSL 3.0 प्रयोग गर्नुहोस्">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "TLS 1.0 प्रयोग गर्नुहोस्">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "प्रमाणपत्र">
-<!ENTITY certselect.description "कतिबेला वेबसाइटलाई प्रमाणपत्र आवश्यक हुन्छ:">
-<!ENTITY certs.auto "कुनै एकलाई स्वचालित रुपमा चयन गर्नुहोस्">
-<!ENTITY certs.auto.accesskey "l">
-<!ENTITY certs.ask "प्रत्येक समय मलाई सोध्नुहोस्">
-<!ENTITY certs.ask.accesskey "i">
-<!ENTITY viewCerts.label "प्रमाणपत्र हेर्नुहोस्">
-<!ENTITY viewCerts.accesskey "s">
-<!ENTITY viewCRLs.label "खारेज सूची">
-<!ENTITY viewCRLs.accesskey "R">
-<!ENTITY verify.label "रुजु">
-<!ENTITY verify.accesskey "V">
-<!ENTITY viewSecurityDevices.label "सुरक्षा यन्त्र">
-<!ENTITY viewSecurityDevices.accesskey "y">
+<!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "स्वत: अद्यावधिहरु">
+<!ENTITY enableSearchUpdate.label        "सर्च ईन्जिनहरू">
+<!ENTITY enableSearchUpdate.accesskey    "ई">
+
+<!ENTITY offlineNotify.label             " इन्टरनेट नहुदा चलाउन को लागि वेबसाइटले तथ्यांक संचित गर्न अनुमति माग्दा मलाई भन्नु होस् ">
+<!ENTITY offlineNotify.accesskey         " ">
+<!ENTITY offlineNotifyExceptions.label   "अपवादहरु....">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList2.label          "७ em">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "हटाउनुहोस्">
+<!ENTITY offlineAppsListRemove.accesskey "ह">
+<!ENTITY offlineAppRemove.confirm        "इन्टरनेट नहुदा चलाउने (अफलाइन ) तथ्यांक हटाउनु होस् ">
+
+<!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
+<!ENTITY certSelection.description       "जब सर्वर ले मेरो ब्यक्तिगत सर्टिफिकेट को आग्रह गर्छ ">
+<!ENTITY certs.auto                      "स्वचालित रुपमा एउटा छानोस ">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "मलाई हरेक पटक सोध्नुहोस्">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "प्रमाणपत्रहरु हेर्नुहोस्">
+<!ENTITY viewCerts.accesskey             "ह">
+<!ENTITY verify2.label                   " वैधता">
+<!ENTITY verify2.accesskey               " ">
+
+
