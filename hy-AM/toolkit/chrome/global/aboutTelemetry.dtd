@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Դիտարկիչի կախումներ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection " Շղթների կախում ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Գծապատկերներ">
 

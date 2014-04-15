@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "Գրություններ">
 <!ENTITY consoleCodeEval.label     "Գրություններ">
 <!ENTITY consoleClear.label        "Մաքրել">
-
+<!ENTITY consoleCopyAll.label      "Պատճենել">
 <!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "Ֆայլ Աղբյուր.">
 <!ENTITY consoleErrLine.label      "Տող.">
 <!ENTITY consoleErrColumn.label    "Սյուն.">
-
+<!ENTITY consoleFollowCheckbox.label "Հետևել">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Կտրել">
-
+<!ENTITY contextTextCopy.label             "Պատճենել">
 <!ENTITY contextTextPaste.label            "Մեջբերել">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Տեղադրել և շարունակել">
 <!ENTITY contextTextSelect.label           "Ընտրել">
 <!ENTITY contextTextSelectAll.label        "Նշել բոլորը">
 <!-- LINK CONTEXT MENU -->

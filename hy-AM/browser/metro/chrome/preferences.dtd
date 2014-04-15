@@ -6,7 +6,7 @@
 <!-- ## Options Flyout Panel ## -->
 
 
-<!ENTITY optionsHeader.title                                     "Կարգավորումները">
+<!ENTITY optionsHeader.title                                     "Կարգավորումներ">
 <!ENTITY optionsHeader.char.title                                "Գրանշանների Կոդավորումը">
 <!ENTITY optionsHeader.char.autodetect.label                     "Ինքնաբացահայտել">
 <!ENTITY optionsHeader.char.options.label                        "Ցուցադրել կոդավորման ընտրանքները ծրագրի վահանակում">
@@ -21,13 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Cookie-ներ">
 <!ENTITY clearPrivateData.cache                                  "Պահոցը">
 <!ENTITY clearPrivateData.sitePref                               "Կայքի նախըտրանքներ">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Որոնման ձևերի պատմությունը">
 <!ENTITY clearPrivateData.passwords                              "Պահպանված գաղտնաբառեր">
 <!ENTITY clearPrivateData.offline                                "Վեբ կայքերի անցանց տվյալներ">
 <!ENTITY clearPrivateData.logins                                 "Ակտիվ Մուտքեր">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Հիշել գաղտնաբառը">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Ցուցադրել ուղղորդման կոճակները">
 <!ENTITY doNotTrack.title                                        "Չհետևել">
 <!ENTITY doNotTrack.options.doNotTrack                           "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն">
 <!ENTITY doNotTrack.options.doTrack                              "Հաղորդել կայքերին, որ ես ցանկանում եմ, որ ինձ հետևեն">
