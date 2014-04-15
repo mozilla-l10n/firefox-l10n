@@ -121,9 +121,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.label                                "Importera…"> 
 <!ENTITY importCmd.accesskey                            "m"> 
 <!ENTITY exportCmd.label                                "Exportera…">  
-<!ENTITY exportCmd.accesskey                            "x"> 
-<!ENTITY preferencesCmd.label                           "Inställningar…">
-<!ENTITY preferencesCmd.accesskey                       "I">
+<!ENTITY exportCmd.accesskey                            "x">
+<!ENTITY preferencesCmd2.label                          "Alternativ">
+<!ENTITY preferencesCmd2.accesskey                      "l">
 <!ENTITY preferencesCmdUnix.label                       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey                   "I">
 

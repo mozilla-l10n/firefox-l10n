@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY menuFavoriteFolder.label "Favoritmapp">
 <!ENTITY menuFavoriteFolder.accesskey "F">
-<!ENTITY folderPropsCmd.label "Egenskaper…">
-<!ENTITY folderPropsFolderCmd.label "Mappegenskaper">
-<!ENTITY folderPropsNewsgroupCmd.label "Diskussionsgruppegenskaper">
+<!ENTITY folderPropsCmd2.label "Egenskaper">
+<!ENTITY folderPropsFolderCmd2.label "Mappegenskaper">
+<!ENTITY folderPropsNewsgroupCmd2.label "Diskussionsgruppsegenskaper">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Ångra borttagning av meddelande">
 <!ENTITY redoDeleteMsgCmd.label "Gör om borttagning av meddelande">
@@ -457,16 +457,16 @@
 <!ENTITY joinChatCmd.label "Anslut till chatt…">
 <!ENTITY joinChatCmd.accesskey "A">
 <!ENTITY savedFiles.label "Sparade filer">
-<!ENTITY savedFiles.accesskey "r">
+<!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filterregler…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Meddelandefilter">
+<!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Kör filter på mapp">
-<!ENTITY filtersApply.accesskey "K">
+<!ENTITY filtersApply.accesskey "i">
 <!ENTITY filtersApplyToSelection.label "Kör filter på markerade meddelanden">
-<!ENTITY filtersApplyToSelection.accesskey "m">
+<!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Kör filter på meddelande">
-<!ENTITY filtersApplyToMessage.accesskey "m">
+<!ENTITY filtersApplyToMessage.accesskey "d">
 <!ENTITY runJunkControls.label "Kör skräppost-kontrollen på mapp">
 <!ENTITY runJunkControls.accesskey "ö">
 <!ENTITY deleteJunk.label "Ta bort e-post märkt som skräp från mapp">
@@ -478,13 +478,13 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Rensa historik…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Kontoinställningar…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Kontoinställningar">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "ä">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillåt fjärrfelsökning">
-<!ENTITY allowRemoteDebugging.accesskey "f">
+<!ENTITY allowRemoteDebugging.accesskey "j">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Hämta meddelanden">
@@ -885,7 +885,7 @@
 <!ENTITY zoomWindow.label "Zooma fönster">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Inställningar…">
+<!ENTITY preferencesCmdMac2.label       "Inställningar">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tjänster">
