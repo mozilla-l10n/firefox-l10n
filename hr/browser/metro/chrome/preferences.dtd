@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Kolačići">
 <!ENTITY clearPrivateData.cache                                  "Međuspremnik">
 <!ENTITY clearPrivateData.sitePref                               "Postavke stranice">
-<!ENTITY clearPrivateData.formSearchHist                         "Povijest formi i traženja">
+
 <!ENTITY clearPrivateData.passwords                              "Spremljene lozinke">
 <!ENTITY clearPrivateData.offline                                "Podaci izvanmreženih stranica">
 <!ENTITY clearPrivateData.logins                                 "Aktivne prijave">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamti lozinke">
+
 <!ENTITY doNotTrack.title                                        "Ne prati me">
 <!ENTITY doNotTrack.options.doNotTrack                           "Obavijesti stranice da me ne prate">
 <!ENTITY doNotTrack.options.doTrack                              "Obavijesti stranice da me prate">

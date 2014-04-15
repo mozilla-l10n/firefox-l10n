@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "Poruke">
 <!ENTITY consoleCodeEval.label     "Kôd:">
 <!ENTITY consoleClear.label        "Očisti">
+
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Izvorna datoteka:">
 <!ENTITY consoleErrLine.label      "Linija:">
 <!ENTITY consoleErrColumn.label    "Stupac:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Izreži">
-<!ENTITY contextTextCopy.label             "Kopiraj">
+
 <!ENTITY contextTextPaste.label            "Zalijepi">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Zalijepi i idi">
 <!ENTITY contextTextSelect.label           "Odaberi">
 <!ENTITY contextTextSelectAll.label        "Označi sve">
 <!-- LINK CONTEXT MENU -->
@@ -134,12 +135,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 

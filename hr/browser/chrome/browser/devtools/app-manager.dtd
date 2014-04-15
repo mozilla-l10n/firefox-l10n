@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Dozvole">
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "Pomoć">
 
 <!ENTITY connection.disconnect "Prekini vezu">
@@ -82,6 +86,8 @@
 <!ENTITY projects.valid "Vrijedi">
 <!ENTITY projects.error "Greška">
 <!ENTITY projects.warning "Upozorenje">
+
+
 
 <!ENTITY help.title "App Manager">
 <!ENTITY help.close "Zatvori">
