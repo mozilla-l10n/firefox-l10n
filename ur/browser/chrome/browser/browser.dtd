@@ -88,7 +88,7 @@ can reach it easily. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "پوری سکرین موڈ میں جائیں">
 <!ENTITY enterFullScreenCmd.accesskey "پ">
-<!ENTITY exitFullScreenCmd.label "پوری سکرین موڈ خروج کریں">
+<!ENTITY exitFullScreenCmd.label " پوری سکرین موڈ خروج کریں">
 <!ENTITY exitFullScreenCmd.accesskey "پ">
 <!ENTITY fullScreenCmd.label "پوری سکرین">
 <!ENTITY fullScreenCmd.accesskey "پ">

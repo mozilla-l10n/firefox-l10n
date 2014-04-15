@@ -11,7 +11,7 @@
 
 
 <!ENTITY newButton.label            "نیا">
-
+<!ENTITY newButton.tooltip          "دستاویز کاری میں نئی طرز ورق ملائیں اور بنائیں">
 <!ENTITY newButton.accesskey        "ن">
 
 <!ENTITY importButton.label         "درآمد کریں...">

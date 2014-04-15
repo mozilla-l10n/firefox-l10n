@@ -68,7 +68,7 @@
 <!ENTITY btnConsoleErrors       "نقائص">
 <!ENTITY btnConsoleInfo         "معلومات">
 <!ENTITY btnConsoleWarnings     "تنبیہات">
-
+<!ENTITY btnConsoleLog          "لاگ">
 
 <!ENTITY filterOutput.placeholder "آؤٹ پٹ فلٹر کریں">
 

@@ -20,7 +20,7 @@
 <!ENTITY productHelp.accesskey    "م">
 <!ENTITY helpMac.commandkey       "؟">
 
-<!ENTITY helpKeyboardShortcuts.label     "کلیدی تختہ تیز راہیں">
+<!ENTITY helpKeyboardShortcuts.label     " کلیدی تختہ تیز راہیں">
 <!ENTITY helpKeyboardShortcuts.accesskey "ک">
 
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
@@ -44,9 +44,9 @@
 <!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; چھپائیں">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.commandkey   "ہے">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر چھپائیں">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "ہے">
 
 <!ENTITY showAllAppsCmdMac.label        "تمام دکھائیں">

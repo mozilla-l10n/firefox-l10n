@@ -64,6 +64,8 @@
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label     "غیر فعال کیشے">
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -85,7 +87,7 @@
 
 <!ENTITY options.selectDevToolsTheme.label   "DevTools خیالیہ کا انتخاب کریں:">
 
-
+<!ENTITY options.lightTheme.label            "دهیما موضوع">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -120,6 +122,8 @@
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
+
+<!ENTITY options.profiler.label            "جاوا سکرپٹ پروفائلر">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

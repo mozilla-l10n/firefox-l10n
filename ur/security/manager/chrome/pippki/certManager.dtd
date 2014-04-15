@@ -96,8 +96,8 @@
 <!ENTITY certmgr.addException.accesskey       "ا">
 
 <!ENTITY exceptionMgr.title                   "سلامتی استثنا شامل کریں">
-
-
+<!ENTITY exceptionMgr.exceptionButton.label   "تصدیق شدہ حفاظتی استثنا">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "ت">
 
 <!ENTITY exceptionMgr.certlocation.caption2   "پیش کار">
 <!ENTITY exceptionMgr.certlocation.url        "محل وقوع:">
@@ -106,5 +106,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "تصدیق نامہ صورت حال">
 <!ENTITY exceptionMgr.certstatus.viewCert     "نظارہ…">
 
-
-
+<!ENTITY exceptionMgr.permanent.label         "مستقل طور پر محفوظ یہ استثنا">
+<!ENTITY exceptionMgr.permanent.accesskey     "م">

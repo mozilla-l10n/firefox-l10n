@@ -6,7 +6,7 @@
 
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
-
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "واپس">
 <!ENTITY backButton.accesskey           "و">
@@ -14,8 +14,8 @@
 <!ENTITY forwardButton.label            "آگے">
 <!ENTITY forwardButton.accesskey        "گ">
 <!ENTITY forwardButton.tooltip          "ایک صفحہ آگے جائیں">
-
-
+<!ENTITY copyCmd.label                  "نقل کریں">
+<!ENTITY copyCmd.accesskey              "ن">
 <!ENTITY selectAllCmd.label             "تمام منتخب کریں">
 <!ENTITY selectAllCmd.accesskey         "ت">
 <!ENTITY goBackCmd.commandkey           "[">
@@ -24,7 +24,7 @@
 
 <!ENTITY printButton.label              "چھاپیں">
 <!ENTITY printButton.tooltip            "یہ صفحہ چھاپیں">
-
+<!ENTITY closeWindow.commandkey         "و">
 
 <!ENTITY searchHeader.label             "تلاش کے نتائج">
 <!ENTITY toctab.label                   "مشمولات">

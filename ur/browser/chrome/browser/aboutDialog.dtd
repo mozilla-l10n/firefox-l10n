@@ -28,12 +28,12 @@
 <!ENTITY community.exp.middle       "ہے ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
-<!ENTITY community.exp.end          "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
+<!ENTITY community.exp.end          "  آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY community.start2           "&brandShortName; کے ڈیزائنر ہیں">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          "، ایک">
+<!ENTITY community.middle2          "، آ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ہمہ گیر حلقہ">
 <!ENTITY community.end3             "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ۔">
@@ -44,16 +44,16 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "لائسنس کرنے کی معلومات">
+<!ENTITY bottomLinks.license        "لائسنس کرنے کی معلومات ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "صارف کے حقوق">
+<!ENTITY bottomLinks.rights         "صارف کے حقوق ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "پالیسی نجی نوعیت">
+<!ENTITY bottomLinks.privacy        "پالیسی نجی نوعیت ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ...">
+<!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "برانڈ کا مختصر نام; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -74,7 +74,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "تازہ کاریاں یہاں دستیاب ہیں">
+<!ENTITY update.manual.start        "تازہ کاریاں یہاں دستیاب ہیں  ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -83,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "آپ اس سسٹم پر مذید تازہ کاریاں نہیں کر سکتے۔ ">
+<!ENTITY update.unsupported.start    "آپ اس سسٹم پر مذید تازہ کاریاں نہیں کر سکتے۔">
 <!ENTITY update.unsupported.linkText "مزید سیکھیں">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -92,7 +92,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے-">
+<!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے-  ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "تازہ کاری لگائیں ...">
@@ -101,4 +101,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "آپ اس وقت ادھر ہیں">
-<!ENTITY channel.description.end    "چینل اپڈیٹ۔">
+<!ENTITY channel.description.end    "  چینل اپڈیٹ۔">

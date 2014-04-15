@@ -88,7 +88,7 @@
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "تحفظ شدہ ٹوکن توثیق کاری">
-
+<!ENTITY protectedAuth.msg "برا ئے مہربانی ٹوکن کو توثیق کریں۔ توثیق کاری کا طریقہ آپ کے ٹوکن کی قسم پر انحصار کرتا ہے۔">
 <!ENTITY protectedAuth.tokenName.label "ٹوکن:">
 
 <!ENTITY certErrorDlg.title "محفوظ کنکشن ناکام ہوا">
