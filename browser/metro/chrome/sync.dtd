@@ -28,7 +28,7 @@
 
 <!-- Flyout when connected and functioning normally -->
 
-
+<!ENTITY sync.flyout.connected.disconnect                 "ยกเลิกการเชื่อมต่อ">
 
 
 

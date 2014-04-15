@@ -72,8 +72,8 @@
 <!ENTITY netTimeout.title "หมดเวลาการเชื่อมต่อ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ไม่เข้าใจที่อยู่เว็บไซต์">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่เว็บไซต์">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>คุณอาจจะต้องติดตั้งซอฟต์แวร์อื่นเพิ่มเติม เพื่อเปิดที่อยู่เว็บไซต์นี้</li> 
 </ul>">
 

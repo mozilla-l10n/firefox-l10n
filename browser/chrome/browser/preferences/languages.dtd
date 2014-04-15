@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "ภาษา">
-<!ENTITY languages.customize.prefLangDescript           "ในบางครั้ง หน้าเว็บอาจจะเผยแพร่ในหลายภาษา เลือกภาษาเพื่อแสดงผลหน้าเว็บดังกล่าว ตามลำดับที่ต้องการ">
-<!ENTITY languages.customize.active.label               "ภาษาเรียงตามลำดับที่อยากให้แสดง :">
+<!ENTITY languages.customize.description                "บางครั้งหน้าเว็บอาจจะเผยแพร่ในหลายภาษา เลือกภาษาเพื่อแสดงผลหน้าเว็บดังกล่าว ตามลำดับที่ต้องการ:">
 <!ENTITY languages.customize.moveUp.label               "เลื่อนขึ้น">
 <!ENTITY languages.customize.moveUp.accesskey           "ข">
 <!ENTITY languages.customize.moveDown.label             "เลื่อนลง">

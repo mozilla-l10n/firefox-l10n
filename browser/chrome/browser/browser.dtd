@@ -96,12 +96,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "เข้าใช้ &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
+<!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; จะทำการซิงก์ในไม่ช้า">
+<!ENTITY syncErrorPanel.heading "ไม่สามารถเชื่อมต่อกับ &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "โปรดลงชื่อเข้าใช้งานเพื่อดำเนินการซิงก์">
 <!ENTITY syncErrorPanel.signInButton.label "เข้าระบบ">
 <!ENTITY syncErrorPanel.signInButton.accesskey "ข">
 
@@ -332,11 +332,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "ปรับแต่ง">
 <!ENTITY appMenuCustomize.tooltip "ปรับแต่งเมนูและแถบเครื่องมือ">
-
-
-
-
-
+<!ENTITY appMenuCustomizeExit.label "ออกจากการปรับแต่ง">
+<!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นขั้นตอนการปรับแต่ง">
+<!ENTITY appMenuHistory.label "ประวัติ">
+<!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
+<!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
@@ -358,8 +358,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "อ">
 <!ENTITY customizeMenu.removeFromMenu.label "เอาออกจากเมนู">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "จ">
-
-
+<!ENTITY customizeMenu.addMoreItems.label "เพิ่มรายการ…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "พ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "อ">
 <!ENTITY emailPageCmd.label           "อีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ม">
-
+<!ENTITY switchToMetroCmd.label       "เรียกใหม่ด้วยสไตล์ Windows 8 &brandShortName;">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "ป">
 <!-- alternate for content area context menu -->
@@ -458,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "ล">
 <!ENTITY saveImageCmd.label           "บันทึกรูปเป็น…">
 <!ENTITY saveImageCmd.accesskey       "ท">
-<!ENTITY saveVideoCmd.label           "บันทึกวีดิทัศน์เป็น…">
+<!ENTITY saveVideoCmd.label           "บันทึกวิดีโอเป็น…">
 <!ENTITY saveVideoCmd.accesskey       "ป">
 <!ENTITY saveAudioCmd.label           "บันทึกเสียงเป็น…">
 <!ENTITY saveAudioCmd.accesskey       "ป">
@@ -570,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "ออก"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "อ">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "ออกจาก &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ออก"> 
@@ -614,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "อ">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
 <!ENTITY spellAddDictionaries.accesskey "พ">
@@ -659,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "ต">
 <!ENTITY syncSyncNowItem.label        "ผสานข้อมูลเดี๋ยวนี้">
 <!ENTITY syncSyncNowItem.accesskey    "ผ">
+<!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; อีกครั้ง">
+<!ENTITY syncReAuthItem.accesskey     "เ">
 <!ENTITY syncToolbarButton.label      "ผสาน">
 
 <!ENTITY socialToolbar.title        "ปุ่มแถบเครื่องมือสังคม">
@@ -683,6 +686,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY customizeMode.tabTitle "ปรับแต่ง &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.header2 "เพิ่มเครื่องมือและคุณสมบัติ">
 <!ENTITY customizeMode.menuAndToolbars.empty "อยากได้เครื่องมือเพิ่ม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมที่มีนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าปริยาย">
@@ -706,7 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "เข้าถึงกล้อง / ไมโครโฟน">
 <!ENTITY webrtcIndicatorButton.tooltip "แสดงเว็บไซต์ที่คุณกำลังแบ่งปันกล้องหรือไมโครโฟนของคุณด้วย">
 
-<!ENTITY mixedContentBlocked.helplink "เรียนรู้เพิ่มเติม">
 <!ENTITY mixedContentBlocked.moreinfo "เว็บไซต์ส่วนใหญ่จะทำงานอย่างถูกต้องแม้กระทั่งเนื้อหาถูกปิดกั้น">
 
 <!ENTITY pointerLock.notification.message "กด ESC ได้ตลอดเวลาเพื่อแสดงอีกครั้ง">
@@ -731,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "แจ้งการขัดข้องนี้ให้ &vendorShortName; ทราบ เพื่อดำเนินการแก้ไข">
 <!ENTITY tabCrashed.tryAgain "ลองใหม่">
 
+<!ENTITY uiTour.infoPanel.close "ปิด">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -743,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "ตัวบ่งชี้กิจกรรม">
 <!ENTITY appMenuButton.label           "เมนู">
 <!ENTITY appMenuButton.tooltip         "เปิดเมนู &brandShortName;">
-
+<!ENTITY feedButton.label              "บอกรับ">
 <!ENTITY feedButton.tooltip            "บอกรับหน้านี้…">
 <!ENTITY bookmarksButton.tooltip       "แสดงที่คั่นหน้า">
 <!ENTITY historyButton.tooltip         "แสดงหน้าที่ดูล่าสุด">

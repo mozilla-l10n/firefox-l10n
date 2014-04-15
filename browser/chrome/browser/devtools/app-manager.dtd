@@ -35,6 +35,10 @@
 
 
 
+
+
+<!ENTITY connection.disconnect "ยกเลิกการเชื่อมต่อ">
+
 <!ENTITY connection.notConnected2 "ไม่ได้เชื่อมต่อ">
 <!ENTITY connection.connectTo "เชื่อมต่อไปยัง:">
 <!ENTITY connection.noDeviceFound "ไม่พบอุปกรณ์ โปรดเสียบอุปกรณ์">
@@ -81,6 +85,8 @@
 <!ENTITY projects.valid "ถูกกฎ">
 <!ENTITY projects.error "ข้อผิดพลาด">
 <!ENTITY projects.warning "คำเตือน">
+
+
 
 <!ENTITY help.title "ตัวจัดการแอป">
 <!ENTITY help.close "ปิด">
