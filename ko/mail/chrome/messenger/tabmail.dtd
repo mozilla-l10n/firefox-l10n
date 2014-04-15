@@ -4,3 +4,6 @@
 
 <!ENTITY closeTab.label "탭 닫기">
 <!ENTITY listAllTabs.label "전체 탭 목록">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "홈">
