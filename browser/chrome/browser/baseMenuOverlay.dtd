@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Pošalji povratne informacije…">
 <!ENTITY helpFeedbackPage.accesskey  "e">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; Vodič">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "Postavke...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

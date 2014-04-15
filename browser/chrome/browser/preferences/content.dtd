@@ -9,7 +9,6 @@
 <!ENTITY  popupExceptions.label       "Iznimke...">
 <!ENTITY  popupExceptions.accesskey   "e">
 
-<!ENTITY  fontsAndColors.label        "Fontovi &amp; Boje">
 
 <!ENTITY  defaultFont.label           "Zadani font:">
 <!ENTITY  defaultFont.accesskey       "f">

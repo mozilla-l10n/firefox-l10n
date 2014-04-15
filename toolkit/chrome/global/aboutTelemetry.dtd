@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Smrzavanje web preglednika">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Viseći threadovi">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrami">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrami koje su prikupili dodaci">
 
+<!ENTITY aboutTelemetry.toggle "  Kliknite za uključivanje/isključivanje sekcije">
 
 <!ENTITY aboutTelemetry.emptySection "  (Nema prikupljenih podataka)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Prikaži neobrađene podatke od smrzavanja raw data from hangs">
 
+<!ENTITY aboutTelemetry.filterText "  Filtriraj (tekst ili /regexp/)">
