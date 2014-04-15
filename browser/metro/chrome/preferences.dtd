@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Çerezler">
 <!ENTITY clearPrivateData.cache                                  "Önbellek">
 <!ENTITY clearPrivateData.sitePref                               "Site tercihleri">
-<!ENTITY clearPrivateData.formSearchHist                         "Form ve arama geçmişi">
+
 <!ENTITY clearPrivateData.passwords                              "Kayıtlı parolalar">
 <!ENTITY clearPrivateData.offline                                "Çevrim dışı site verileri">
 <!ENTITY clearPrivateData.logins                                 "Etkin oturumlar">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
+
 <!ENTITY doNotTrack.title                                        "Beni İzleme">
 <!ENTITY doNotTrack.options.doNotTrack                           "Web sitelerine izlenmek istemediğimi söyle">
 <!ENTITY doNotTrack.options.doTrack                              "Web sitelerine izlenmek istediğimi söyle">
