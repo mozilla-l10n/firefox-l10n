@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Saio-hasiera aktiboak">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Gogoratu pasahitzak">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Erakutsi nabigazio-botoiak">
 <!ENTITY doNotTrack.title                                        "Do Not Track">
 <!ENTITY doNotTrack.options.doNotTrack                           "Esan webguneei nire jarraipenik ez egiteko">
 <!ENTITY doNotTrack.options.doTrack                              "Esan webguneei nire jarraipena egiteko">
@@ -35,5 +36,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Hutsegiteen berriemailea">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu Mozillara nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Sartu bisitatzen ari nintzen orriaren helbidea">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Partekatu Mozillarekin &brandShortName;(r)en erabilpen-estatistikak nabigatzailea hobetzen laguntzeko">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Bilatu">
-<!ENTITY newpref.label          "Gehitu hobespen berria">
 <!ENTITY addpref.name           "Izena">
-<!ENTITY addpref.value          "Balioa">
 
 <!ENTITY cancel.label           "Utzi">
-<!ENTITY reset.label            "Berrezarri">
-<!ENTITY done.label             "Eginda">
+<!ENTITY toggle.label           "Txandakatu">
 
 <!ENTITY integer.label          "Osoko zenbakia">
 <!ENTITY string.label           "Katea">
 <!ENTITY boolean.label          "Boolearra">
+
+<!ENTITY string.placeholder     "Idatzi katea">
+<!ENTITY number.placeholder     "Idatzi zenbakia">
