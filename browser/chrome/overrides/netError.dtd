@@ -64,8 +64,8 @@
 <!ENTITY netTimeout.title "সংযোগের সময়সীমা উত্তীর্ণ হয়েছে">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ঠিকানা মীমাংসা করা যায়নি">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ঠিকানা মীমাংসা করা যায়নি">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>চিহ্নিত ঠিকানা খোলার জন্য সম্ভবত কয়েকটি সফ্টওয়্যার ইনস্টল করা আবশ্যক।</li> 
 </ul>">
 

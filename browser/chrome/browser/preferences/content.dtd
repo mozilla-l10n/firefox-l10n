@@ -9,7 +9,7 @@
 <!ENTITY  popupExceptions.label       "ব্যতিক্রম (E)…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "ফন্ট এবং; রং">
+<!ENTITY  fontsAndColors.label        "ফন্ট এবং রং">
 
 <!ENTITY  defaultFont.label           "ডিফল্ট ফন্ট (D):">
 <!ENTITY  defaultFont.accesskey       "D">

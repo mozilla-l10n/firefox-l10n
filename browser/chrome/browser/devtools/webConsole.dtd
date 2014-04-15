@@ -50,7 +50,7 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+
 
 
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">

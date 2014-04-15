@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label          "দূরবর্তী DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "পোর্ট:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -42,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে">
 <!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  autologinproxy.label          "পাসওয়ার্ড সংরক্ষিত থাকলে authentication এর জন্য অনুরোধ জানানো হবে না">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "এই অপশানটি আপনাকে প্রক্সির অনুমতি দেয় যখন আপনি সেগুলোর জন্যে পরিচয়পত্র জমা রাখেন। অনুমতি বাতিল হলে আপনাকে জানানো হবে।">

@@ -9,8 +9,8 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "চিহ্নিত ট্যাব খুলুন">
-<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openTab.label                   "এই ট্যাবটি খুলুন">
+<!ENTITY tabs.context.openTab.accesskey               "এ">
 <!ENTITY tabs.context.openMultipleTabs.label          "নির্বাচিত ট্যাবগুলি খুলুন">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "বর্তমান ট্যাব বুকমার্ক করুন…">

@@ -39,6 +39,10 @@
   -  in the network details pane identifying the response tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
+<!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
+  -  in the network details pane identifying the preview tab. -->
+
+<!ENTITY netmonitorUI.tab.preview         "পূর্বরূপ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed

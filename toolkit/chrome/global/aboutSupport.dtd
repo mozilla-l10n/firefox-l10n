@@ -23,6 +23,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "সংস্করণ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.experimentName "নাম">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "বিবরণ">
+<!ENTITY aboutSupport.experimentActive "সক্রিয়">
+<!ENTITY aboutSupport.experimentEndDate "সমাপ্তির তারিখ">
+<!ENTITY aboutSupport.experimentHomepage "হোম-পেজ">
+
+
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের মৌলিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
