@@ -341,8 +341,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
-<!ENTITY customizeMenu.addToToolbar.label "Құралдар панеліне қосу">
-<!ENTITY customizeMenu.addToToolbar.accesskey "қ">
+<!ENTITY customizeMenu.addToToolbar.label "Саймандар панеліне қосу">
+<!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Мәзірге қосу">
 <!ENTITY customizeMenu.addToPanel.accesskey "М">
 <!ENTITY customizeMenu.moveToToolbar.label "Саймандар панеліне жылжыту">
@@ -691,7 +691,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
-<!ENTITY customizeMode.toolbars "Құрал панелін көрсету/жасыру">
+<!ENTITY customizeMode.toolbars "Саймандар панелін көрсету/жасыру">
 <!ENTITY customizeMode.titlebar "Атау жолағы">
 
 <!ENTITY social.chatBar.commandkey "c">
