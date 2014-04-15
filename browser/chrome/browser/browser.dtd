@@ -193,6 +193,8 @@
 <!ENTITY responsiveDesignTool.label "Vista de diseño flexible">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.accesskey "Y">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
