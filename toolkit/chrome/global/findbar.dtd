@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "ಎಲ್ಲವನ್ನು ಹೈಲೈಟ್ ಮಾಡು (A)">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "ನುಡಿಗಟ್ಟಿನ ಎಲ್ಲಾ ಇರುವಿಕೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ">
-<!ENTITY caseSensitive.label "ಕೇಸನ್ನು ಹೊಂದಿಸು (C)">
-<!ENTITY caseSensitive.accesskey "C">
+
+
 <!ENTITY caseSensitive.tooltiptext "ಕೇಸ್‌ನ ಸಂವೇದನೆಯೊಂದಿಗೆ ಹುಡುಕಿ">

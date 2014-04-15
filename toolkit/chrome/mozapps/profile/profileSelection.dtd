@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "ಆರಂಭಿಸುವಾಗ ಕೇಳಬೇಡ">
-<!ENTITY            autoSelect.accesskey   "s">
+
