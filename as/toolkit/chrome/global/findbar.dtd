@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "সকলো উজ্জ্বল কৰক">
 <!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "বাক্যাংশৰ সকলো উপস্থিতি উজ্জ্বল কৰক">
-<!ENTITY caseSensitive.label "ফলা মিলাওক">
-<!ENTITY caseSensitive.accesskey "c">
+
+
 <!ENTITY caseSensitive.tooltiptext "ফলা সংবেদনশীলতাৰ সৈতে সন্ধান কৰক">

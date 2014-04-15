@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "আখৰ আৰু পৃষ্ঠভূমি">
-<!ENTITY  textColor.label                 "আখৰ:">
-<!ENTITY  textColor.accesskey             "t">
+
+
 <!ENTITY  backgroundColor.label           "পৃষ্ঠভূমি:">
 <!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "চিস্টেমৰ ৰং ব্যৱহাৰ কৰক">

@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "কুকিসমূহ">
 <!ENTITY clearPrivateData.cache                                  "ক্যাশ">
 <!ENTITY clearPrivateData.sitePref                               "ছাইটৰ পছন্দ">
-<!ENTITY clearPrivateData.formSearchHist                         "ফৰ্ম &amp; সন্ধানৰ ইতিহাস">
+
 <!ENTITY clearPrivateData.passwords                              "সংৰক্ষিত পাছৱাৰ্ডসমূহ">
 <!ENTITY clearPrivateData.offline                                "অফ-লাইন ৱেবছাইটৰ তথ্য">
 <!ENTITY clearPrivateData.logins                                 "সক্ৰিয় লগিনসমূহ">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "পাছৱাৰ্ডসমূহ মনত ৰাখক">
+
 <!ENTITY doNotTrack.title                                        "অনুকৰণ নকৰিব">
 <!ENTITY doNotTrack.options.doNotTrack                           "ৱেবছাইটবোৰক কওক মোক অনুসৰণ কৰিব নালাগে">
 <!ENTITY doNotTrack.options.doTrack                              "ৱেবছাইটবোৰক কওক মোক অনুসৰণ কৰিব নালাগে">
