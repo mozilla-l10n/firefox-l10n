@@ -27,8 +27,8 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ko ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "renndo aduna">
-<!ENTITY community.exp.end          " wallitooɓe gollodtooɓe ngam Geese oo udditoo, renndee newanoo winndere ndee fof.">
+<!ENTITY community.exp.creditsLink  "renndo adunayaŋkeewal">
+<!ENTITY community.exp.end          " gollodiiɓe wallitooɓe ngam Geese oo udditanoo, renndee kadi newanoo winndere ndee fof.">
 
 <!ENTITY community.start2           "&brandShortName; ŋeñtii ɗum ko ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -66,7 +66,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Kesɗitinal jaccii. ">
+<!ENTITY update.failed.start        "Kesɗitingol jaccii. ">
 <!ENTITY update.failed.linkText     "Aawto yamre sakkitiinde ndee">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -92,7 +92,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Gaawtagol kesɗitinal — ">
+<!ENTITY update.downloading.start   "Gaawtagol hesɗitinal — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Nana tabitina kesɗitinal…">
