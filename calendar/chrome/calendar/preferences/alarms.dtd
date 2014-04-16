@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "e">
 <!ENTITY pref.defaultemail.label "Endereço pré-definido para enviar mensagens de alarme:">
 <!ENTITY pref.defaulttext.label "Texto pré-definido para os alarmes:">
+
+<!ENTITY pref.defaultsnoozelength.label "Duração do alarme por defeito:" >
+<
