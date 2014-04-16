@@ -12,11 +12,17 @@
 
 
 
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramme">
 
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Eenvoudige mates">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  Byvoegingbesonderhede">
 
+<!ENTITY aboutTelemetry.lateWritesSection "  Laat geskryf">
 
+<!ENTITY aboutTelemetry.systemInfoSection "  Stelselinligting">
 
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramme deur byvoegings versamel">
 
 
 <!ENTITY aboutTelemetry.emptySection "  (Geen data ingesamel nie)">
@@ -25,3 +31,4 @@
 
 
 
+<!ENTITY aboutTelemetry.filterText "  Filtreer (stringe of /reg.uitdruk./)">

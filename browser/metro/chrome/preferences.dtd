@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Koekies">
 <!ENTITY clearPrivateData.cache                                  "Kas">
 <!ENTITY clearPrivateData.sitePref                               "Werfvoorkeure">
-<!ENTITY clearPrivateData.formSearchHist                         "Vorm- en soekgeskiedenis">
+
 <!ENTITY clearPrivateData.passwords                              "Gestoorde wagwoorde">
 <!ENTITY clearPrivateData.offline                                "Vanlyn webwerfdata">
 <!ENTITY clearPrivateData.logins                                 "Aktiewe aanmeldings">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Onthou wagwoorde">
+
 <!ENTITY doNotTrack.title                                        "Moenie volg nie">
 <!ENTITY doNotTrack.options.doNotTrack                           "Vertel webwerwe dat ek nie gemonitor wil word nie">
 <!ENTITY doNotTrack.options.doTrack                              "Vertel webwerwe dat ek nie gemonitor wil word nie">

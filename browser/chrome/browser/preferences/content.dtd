@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "Uitsonderings…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  fontsAndColors.label        "Fonte &amp; kleure">
 
 <!ENTITY  defaultFont.label           "Verstekfont:">
 <!ENTITY  defaultFont.accesskey       "V">

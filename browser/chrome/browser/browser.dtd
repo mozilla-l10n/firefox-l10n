@@ -28,8 +28,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Sluit oortjies wat regs lê">
 <!ENTITY  closeTabsToTheEnd.accesskey        "e">
-<!ENTITY  closeOtherTabs.label               "Sluit ander oortjies">
-<!ENTITY  closeOtherTabs.accesskey           "a">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Meld aan by &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Herkoppel aan &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; sinkroniseer nou">
-<!ENTITY syncStartPanel.subTitle "Bestuur gerus &syncBrand.shortName.label; onder Opsies.">
-<!ENTITY syncStartPanel.subTitleUnix "Bestuur gerus &syncBrand.shortName.label; onder Voorkeure.">
+
+
 <!ENTITY syncErrorPanel.heading "Kan nie koppel aan &syncBrand.shortName.label; nie">
 <!ENTITY syncErrorPanel.subTitle "Meld aan om voort te gaan met sinkronisasie.">
 <!ENTITY syncErrorPanel.signInButton.label "Meld aan">
@@ -109,7 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "Minimeer">
 <!ENTITY fullScreenRestore.tooltip "Stel terug">
-
+<!ENTITY fullScreenClose.tooltip "Sluit">
 <!ENTITY fullScreenAutohide.label "Verskuil nutsbalke">
 <!ENTITY fullScreenAutohide.accesskey "V">
 <!ENTITY fullScreenExit.label "Sluit volskermmodus af">
@@ -130,18 +129,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Redigeer hierdie boekmerk">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Deel dié bladsy">
+
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "D">
-<!ENTITY shareLinkCmd.label "Deel dié skakel">
-<!ENTITY shareLinkCmd.accesskey "D">
-<!ENTITY shareImageCmd.label "Deel dié beeld">
-<!ENTITY shareImageCmd.accesskey "D">
+
+
+
+
+
 <!ENTITY shareSelectCmd.label "Deel seleksie">
 <!ENTITY shareSelectCmd.accesskey "D">
-<!ENTITY shareVideoCmd.label "Deel dié video">
-<!ENTITY shareVideoCmd.accesskey "D">
 
+
+<!ENTITY feedsMenu.label "Teken in">
 <!ENTITY subscribeToPageMenupopup.label "Teken in op hierdie bladsy">
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
@@ -181,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
 <!ENTITY bookmarksMenuButton.unsorted.label "Ongeliasseerde boekmerke">
-
+<!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -190,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Geskiedenis">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nutsgoed">
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "G">
 
 
-<!ENTITY devToolbarToolsButton.tooltip     "Ontwikkerlaargereedskap aan/af">
+<!ENTITY devToolbarToolsButton.tooltip     "Ontwikkelaargereedskap aan/af">
 <!ENTITY devToolbarOtherToolsButton.label  "Meer gereedskap">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Kry meer nutsgoed">
@@ -332,30 +332,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Doelmaak">
 <!ENTITY appMenuCustomize.tooltip "Doelmaak die kieslys en nutsbalke">
-
-
+<!ENTITY appMenuCustomizeExit.label "Sluit aanpassing af">
+<!ENTITY appMenuCustomizeExit.tooltip "Klaar met aanpassing">
 <!ENTITY appMenuHistory.label "Geskiedenis">
 <!ENTITY appMenuHistory.showAll.label "Wys hele geskiedenis">
+<!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
+<!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
+<!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
+<!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Voeg by nutsbalk">
+<!ENTITY customizeMenu.addToToolbar.accesskey "V">
+<!ENTITY customizeMenu.addToPanel.label "Voeg by kieslys">
+<!ENTITY customizeMenu.addToPanel.accesskey "k">
+<!ENTITY customizeMenu.moveToToolbar.label "Skuif na nutsbalk">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "Skuif na kieslys">
+<!ENTITY customizeMenu.moveToPanel.accesskey "u">
+<!ENTITY customizeMenu.removeFromToolbar.label "Skrap vanaf nutsbalk">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Skrap vanaf kieslys">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Voeg meer items by…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "V">
 
@@ -456,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "e">
 <!ENTITY saveImageCmd.label           "Stoor prent as…">
 <!ENTITY saveImageCmd.accesskey       "o">
-<!ENTITY saveVideoCmd.label           "Stoor video as…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "Stoor klank as…">
 <!ENTITY saveAudioCmd.accesskey       "o">
 <!ENTITY emailImageCmd.label          "E-pos prent…">
 <!ENTITY emailImageCmd.accesskey      "t">
 <!ENTITY emailVideoCmd.label          "E-pos video…">
 <!ENTITY emailVideoCmd.accesskey      "o">
-<!ENTITY emailAudioCmd.label          "E-pos klank…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 <!ENTITY playPluginCmd.label          "Aktiveer dié inprop">
 <!ENTITY playPluginCmd.accesskey      "k">
 <!ENTITY hidePluginCmd.label          "Versteek dié inprop">
@@ -613,6 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "Voeg woordeboeke by…">
 <!ENTITY spellAddDictionaries.accesskey "V">
 
@@ -657,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniseer nou">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Knoppie vir sosiale nutsbalk">
@@ -664,8 +669,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Wys kantbalk">
-<!ENTITY social.toggleSidebar.accesskey "s">
+
 
 <!ENTITY social.addons.label "Bestuur dienste…">
 
@@ -682,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Pasmaak &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Kieslys en nutsbalke">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Addisionele gereedskap en funksies">
 <!ENTITY customizeMode.menuAndToolbars.empty "Lus vir meer gereedskap?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duisende byvoegings">
@@ -707,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Kamera- / Mikrofoon-toegang">
 <!ENTITY webrtcIndicatorButton.tooltip "Wys met watter werwe die kamera of mikrofoon tans gedeel word">
 
-<!ENTITY mixedContentBlocked.helplink "Meer inligting">
 <!ENTITY mixedContentBlocked.moreinfo "Meeste webwerwe sal steeds reg werk selfs as dié inhoud geblok word.">
 
 <!ENTITY pointerLock.notification.message "Druk enige tyd ESC om dit weer te wys.">

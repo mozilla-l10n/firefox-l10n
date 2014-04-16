@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Ons gebruik omvalverslae om probleme reg te stel en ons produkte te verbeter. Ons hanteer u inligting soos beskryf in ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; se privaatheidbeleid">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Sluit die adres in van die bladsy wat ek besoek het">
 <!ENTITY crashprompt.acceptbutton    "Stuur verslae">
 <!ENTITY crashprompt.refusebutton    "Moenie stuur nie">

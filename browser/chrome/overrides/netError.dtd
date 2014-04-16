@@ -72,8 +72,8 @@ beskerm word, maak seker dat &brandShortName; toegelaat word om toegang tot die 
 <!ENTITY netTimeout.title "Die verbinding het uitgetel">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Die adres word nie verstaan nie">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Die adres word nie verstaan nie">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Dalk moet u ander sagteware installeer om hierdie adres te open.</li> 
 </ul>">
 
