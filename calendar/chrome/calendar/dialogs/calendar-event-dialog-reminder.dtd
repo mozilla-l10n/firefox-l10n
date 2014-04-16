@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Muistutuksen lisätiedot">
 <!ENTITY reminder.action.label                             "Valitse muistutustapa">
 
-<!ENTITY reminder.relation.before.label                    "ennen" >
-<!ENTITY reminder.relation.after.label                     "jälkeen" >
-
 <!ENTITY reminder.action.alert.label                       "Näytä ilmoitus">
 <!ENTITY reminder.action.email.label                       "Lähetä sähköpostiviesti">
 

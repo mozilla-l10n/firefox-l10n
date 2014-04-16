@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Uusi tapahtuma…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "t">
 
 <!ENTITY event.new.task                         "Uusi tehtävä…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "h">
 
-<!ENTITY calendar.new.server.label              "Uusi kalenteri…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Tulosta…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "o">
-
 <!ENTITY calendar.import.label                  "Tuo…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "u">
 
 <!ENTITY calendar.export.label                  "Vie…">
 <!ENTITY calendar.export.accesskey              "V">
-<!ENTITY calendar.export.selection.label        "Vie valinta…">
-<!ENTITY calendar.export.selection.accesskey    "a">
 
 <!ENTITY calendar.publish.label                 "Julkaise…">
 <!ENTITY calendar.publish.accesskey             "s">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Näytä tehtävät kalenterissa">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "N">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Moniviikkonäkymän koko">
-<!ENTITY calendar.menu.numberofweeks.2          "Kaksi viikkoa">
-<!ENTITY calendar.menu.numberofweeks.3          "Kolme viikkoa">
-<!ENTITY calendar.menu.numberofweeks.4          "Neljä viikkoa">
-<!ENTITY calendar.menu.numberofweeks.5          "Viisi viikkoa">
-<!ENTITY calendar.menu.numberofweeks.6          "Kuusi viikkoa">
 
 <!ENTITY goTodayCmd.label                       "Tähän päivään">
 <!ENTITY goTodayCmd.accesskey                   "h">
