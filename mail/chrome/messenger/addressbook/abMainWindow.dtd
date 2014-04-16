@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title 					"Livro de endereços">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label 							    "Ficheiro">
 <!ENTITY fileMenu.accesskey 					  	"F">
@@ -37,6 +38,7 @@
 <!ENTITY printContactCmd.key 						  "P">
 <!ENTITY printAddressBook.label 					"Imprimir livro de endereços...">
 <!ENTITY printAddressBook.accesskey 			"l">
+
 <!-- Edit Menu -->
 <!ENTITY editMenu.label 						    	"Editar">
 <!ENTITY editMenu.accesskey 						  "e">
@@ -75,6 +77,7 @@
 <!ENTITY propertiesCmd.label 					  	"Propriedades...">
 <!ENTITY propertiesCmd.accesskey 					"i">
 <!ENTITY propertiesCmd.key 							  "i">
+
 <!-- View Menu -->
 <!ENTITY viewMenu.label 							    "Ver">
 <!ENTITY viewMenu.accesskey 					  	"V">
@@ -106,6 +109,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey 				"m">
 <!ENTITY sortMenu.label 							    "Ordenar por">
 <!ENTITY sortMenu.accesskey 						  "d">
+
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label 							    "Ferramentas">
 <!ENTITY tasksMenu.accesskey 						  "t">
@@ -118,10 +122,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey 						  "I">
 <!ENTITY exportCmd.label 							    "Exportar...">
 <!ENTITY exportCmd.accesskey 					  	"E">
-<!ENTITY preferencesCmd.label 						"Opções...">
-<!ENTITY preferencesCmd.accesskey 			  "O">
+<!ENTITY preferencesCmd2.label 						"Opções">
+<!ENTITY preferencesCmd2.accesskey 			  "O">
 <!ENTITY preferencesCmdUnix.label 				"Preferências">
 <!ENTITY preferencesCmdUnix.accesskey 		"P">
+
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label 					"Novo contacto">
 <!ENTITY newContactButton.accesskey 			"c">
@@ -135,6 +140,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey 							    "M">
 <!ENTITY deleteButton2.label 						  "Eliminar">
 <!ENTITY deleteButton2.accesskey 					"l">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip 				"Criar novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip 						"Criar nova lista">
@@ -142,14 +148,17 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip 						"Enviar mensagem de correio">
 <!ENTITY newIM.tooltip 								    "Enviar mensagem instantânea ou de conversação">
 <!ENTITY deleteButton2.tooltip 						"Eliminar item selecionado">
+
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label  						"Livros de endereços">
+
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label 					"Nome ou correio eletrónico">
 <!ENTITY SearchNameOrEmail.accesskey 			"N">
 <!ENTITY advancedButton.tooltip 					"Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key 						  "q">
 <!ENTITY searchItem.title 							  "Pesquisa rápida">
+
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label 						  "Nome">
 <!ENTITY GeneratedName.accesskey 					"N">
@@ -183,6 +192,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey 				"D">
 <!ENTITY _PhoneticName.label 						  "Nome fonético">
 <!ENTITY _PhoneticName.accesskey 					  "f">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading 							  "Contacto">
@@ -197,8 +207,10 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label 							  "Mapa">
 <!ENTITY mapIt.tooltip 								  "Mostrar mapa web deste endereço">
+
 <!-- Status Bar -->
 <!ENTITY statusText.label 							  "">
+
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label 							  "Janela">
 <!ENTITY minimizeWindow.label 					      "Minimizar">
