@@ -4,29 +4,16 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Ny hendelse …">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Ny oppgave …">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "o">
 
-<!ENTITY calendar.new.server.label              "Ny kalender …">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Skriv ut …">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "u">
-
 <!ENTITY calendar.import.label                  "Importer…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Eksporter …">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Eksporter utvalg …">
-<!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "Publiser …">
 <!ENTITY calendar.publish.accesskey             "P">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Vis oppgaver i kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Multiukesvisning størrelse">
-<!ENTITY calendar.menu.numberofweeks.2          "To uker">
-<!ENTITY calendar.menu.numberofweeks.3          "Tre uker">
-<!ENTITY calendar.menu.numberofweeks.4          "Fire uker">
-<!ENTITY calendar.menu.numberofweeks.5          "Fem uker">
-<!ENTITY calendar.menu.numberofweeks.6          "Seks uker">
 
 <!ENTITY goTodayCmd.label                       "I dag">
 <!ENTITY goTodayCmd.accesskey                   "I">

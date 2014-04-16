@@ -37,7 +37,6 @@
 </ul>
 ">
 
-
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>
@@ -86,10 +85,10 @@
 <!ENTITY netTimeout.title "Tilkoblingen fikk tidsavbrudd">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Klarte ikke forstå adressen">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Klarte ikke forstå adressen">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Det er mulig at du må installere annen programvare for å åpne denne adressen.</li>
+  <li>Det er mulig at du må installere ekstra programvare for å åpne denne adressen.</li>
 </ul>
 ">
 

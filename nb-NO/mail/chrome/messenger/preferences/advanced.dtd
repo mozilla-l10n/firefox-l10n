@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "d">
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
-<!ENTITY updateOthers.label              "Automatisk oppdater:">
-<!ENTITY enableAddonsUpdate3.label       "Utvidelser">
-<!ENTITY enableAddonsUpdate3.accesskey   "U">
 
 <!ENTITY useService.label                "Bruk en bakgrunnstjeneste for å installere oppdateringer">
 <!ENTITY useService.accesskey            "B">

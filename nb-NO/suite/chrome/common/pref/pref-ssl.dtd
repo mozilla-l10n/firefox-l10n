@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Du forlater en side som støtter kryptering">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "Visning av en side med både kryptert og ukrypterte data">
-<!ENTITY warn.viewmixed.accesskey           "V">
 
+<!ENTITY mixed.description                  "Krypterte sider kan inneholde ukryptert innhold som er åpen for avlytting eller svindel. &brandShortName; kan oppdage og blokkere det:">
 <!ENTITY warn.mixedactivecontent            "Advar meg når krypterte nettsider inneholder usikker informasjon">
 <!ENTITY warn.mixedactivecontent.accesskey  "d">
 <!ENTITY block.activecontent                "Ikke last inn usikkert innhold på krypterte nettsider">

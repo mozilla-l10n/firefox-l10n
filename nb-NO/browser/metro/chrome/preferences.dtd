@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive innlogginger">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Husk passord">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Vis navigasjonsknapper">
 <!ENTITY doNotTrack.title                                        "Ikke spor">
 <!ENTITY doNotTrack.options.doNotTrack                           "Fortell nettsider at jeg ikke ønsker å spores">
 <!ENTITY doNotTrack.options.doTrack                              "Fortell nettsider at jeg ønsker å spores">
