@@ -23,5 +23,17 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Send typing notifications in conversations">
 <!ENTITY  sendTyping.accesskey          "t">
 
-<!ENTITY  desktopChatNotifications.label "Mostrar notificaciones para mensajes dirigidos a usted">
-<!ENTITY  desktopChatNotifications.accesskey "c">
+<!ENTITY  chatNotifications.label             "Cuando lleguen mensajes dirigidos a usted:">
+<!ENTITY  desktopChatNotifications.label      "Mostrar una notifiación">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Reproducir un sonido">
+<!ENTITY  play.label                          "Reproducir">
+<!ENTITY  play.accesskey                      "p">
+<!ENTITY  systemSound.label                   "Sonido predeterminado para nuevo correo">
+<!ENTITY  systemSound.accesskey               "d">
+<!ENTITY  customsound.label                   "Usar el siguiente archivo de sonido">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Examinar…">
+<!ENTITY  browse.accesskey                    "x">
+
