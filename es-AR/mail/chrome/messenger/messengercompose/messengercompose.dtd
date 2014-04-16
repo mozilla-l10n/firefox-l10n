@@ -180,11 +180,11 @@
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Configuración de cuentas…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Preferencias…">
-<!ENTITY preferencesCmd.accesskey "f">
+<!ENTITY accountManagerCmd2.label "Configuración de cuentas">
+<!ENTITY accountManagerCmd2.accesskey "n">
+<!ENTITY accountManagerCmdUnix2.accesskey "s">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 

@@ -112,9 +112,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Carpeta favorita">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Propiedades…">
-<!ENTITY folderPropsFolderCmd.label "Propiedades de carpeta…">
-<!ENTITY folderPropsNewsgroupCmd.label "Propiedades del grupo…">
+<!ENTITY folderPropsCmd2.label "Propiedades">
+<!ENTITY folderPropsFolderCmd2.label "Propiedades de carpeta">
+<!ENTITY folderPropsNewsgroupCmd2.label "Propiedades del grupo">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Deshacer Borrar mensaje">
 <!ENTITY redoDeleteMsgCmd.label "Rehacer Borrar mensaje">
@@ -459,8 +459,8 @@
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtros de mensaje…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersCmd2.label "Filtros de mensaje">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Ejecutar filtros en los mensajes seleccionados">
@@ -478,11 +478,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Borrar historial reciente…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Configuración de cuentas…">
-<!ENTITY accountManagerCmd.accesskey "f">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Configuración de cuentas">
+<!ENTITY accountManagerCmd2.accesskey "f">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "f">
+<!ENTITY accountManagerCmdUnix2.accesskey "f">
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "t">
 
@@ -880,7 +880,7 @@
 <!ENTITY zoomWindow.label "Acercar ventana">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferencias…">
+<!ENTITY preferencesCmdMac2.label       "Preferencias">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Servicios">

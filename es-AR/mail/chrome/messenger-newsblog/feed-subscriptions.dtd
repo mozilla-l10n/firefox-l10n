@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Mostrar el resumen del artículo en vez de cargar la página web">
 <!ENTITY quickMode.accesskey         "M">
 
+<!ENTITY autotagEnable.label         "Crear etiquetas automáticamentes de los nombres de &lt;categoría&gt; del canal">
+<!ENTITY autotagEnable.accesskey     "C">
+<!ENTITY autotagUsePrefix.label      "Anteponer etiquetas con:">
+<!ENTITY autotagUsePrefix.accesskey  "p">
+<!ENTITY autoTagPrefix.placeholder   "Ingrese un prefijo de etiqueta">
+
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
 
