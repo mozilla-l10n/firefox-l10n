@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Atrás">
 <!ENTITY forward.label         "Adelante">
 <!ENTITY newtab.label          "Nueva pestaña">
+<!ENTITY newPrivateTab.label   "Nueva pestaña privada">
 <!ENTITY closetab.label        "Cerrar pestaña">
 
 <!ENTITY autocompleteResultsHeader.label  "Tus resultados">
@@ -58,17 +59,19 @@
 <!ENTITY consoleMessages.label     "Mensajes">
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpiar">
+<!ENTITY consoleCopyAll.label      "Copiar">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Archivo de origen:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+<!ENTITY consoleFollowCheckbox.label "Seguir">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Cortar">
 <!ENTITY contextTextCopy.label             "Copiar">
 <!ENTITY contextTextPaste.label            "Pegar">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Pegar &amp; ir">
+<!ENTITY contextTextPasteAndGo.label       "Pegar e Ir">
 <!ENTITY contextTextSelect.label           "Seleccionar">
 <!ENTITY contextTextSelectAll.label        "Seleccionar todo">
 <!-- LINK CONTEXT MENU -->
@@ -103,6 +106,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +122,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "¿Buscas tus pestañas? Arrastrar o hacer clic secundario">
@@ -130,3 +132,18 @@
 <!ENTITY firstRunHistory.label "Ver dónde estabas en la Web">
 <!ENTITY firstRunWelcome.label "Bienvenido a &brandShortName;">
 <!ENTITY firstRunDifferent.label "De todos. Para todos.">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "Toca para volver a la página anterior">
+<!ENTITY firstRunNewTab.label "Añade otra pestaña para explorar un nuevo sitio">
+<!ENTITY firstRunStar.label "Usa marcadores para guardar páginas para más tarde">
+<!ENTITY firstRunPin.label "Cuelga cualquier sitio a tu pantalla de inicio de Windows para un acceso rápido">
+<!ENTITY firstRunGotIt.label "¡Lo tengo!">

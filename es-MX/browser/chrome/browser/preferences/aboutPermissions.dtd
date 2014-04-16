@@ -11,7 +11,7 @@
      example: "Permissions for mozilla.org" -->
 
 <!ENTITY header.site.start               "Permisos para">
-<!ENTITY header.site.end                 "">
+<!ENTITY header.site.end                 "Permisos para">
 
 <!ENTITY header.defaults                 "Permisos por defecto para todos los sitios">
 
@@ -42,3 +42,5 @@
 <!ENTITY popup.label                     "Abrir ventanas emergentes">
 
 <!ENTITY fullscreen.label                "Pantalla completa">
+<!ENTITY camera.label                    "Usar la cámara">
+<!ENTITY microphone.label                "Usar el micrófono">

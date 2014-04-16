@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNopref.label2       "No decir a los sitios nada sobre mis preferencias de seguimiento.">
+<!ENTITY dntTrackingNopref.label2       "No indicar a los sitios nada sobre mis preferencias de rastreo">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado.">
+<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado.">
+<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
@@ -17,24 +17,24 @@
 <!ENTITY  locationBar.label             "Barra de ubicación">
 
 <!ENTITY  locbar.pre.label              "Cuando se utilice, mostrar:">
-<!ENTITY  locbar.pre.accessKey          "C">
-<!ENTITY  locbar.post.label             "Cuando se utilice, mostrar:">
+<!ENTITY  locbar.pre.accessKey          "m">
+<!ENTITY  locbar.post.label             "Cuando se use la barra de direcciones, sugerir:">
 <!ENTITY  locbar.both.label             "Historial y marcadores">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.nothing.label          "Nada">
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies">
-<!ENTITY  acceptCookies.accesskey       "p">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceptar cookies de terceros">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.accesskey  "d">
 <!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "Visitado">
 
 <!ENTITY  keepUntil.label               "Mantener hasta que:">
-<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  keepUntil.accesskey           "q">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "cierre &brandShortName;">
@@ -76,7 +76,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Recordar mi historial de navegación y decargas">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "R">
 
 <!ENTITY  rememberSearchForm.label       "Recordar el historial de búsquedas y formularios">
 <!ENTITY  rememberSearchForm.accesskey   "f">
