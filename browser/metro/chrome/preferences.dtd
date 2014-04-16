@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Preferencias de sitio">
-<!ENTITY clearPrivateData.formSearchHist                         "Formulario &amp; historial de búsqueda">
+<!ENTITY clearPrivateData.formSearchHist                         "Historial de formularios y búsquedas">
 <!ENTITY clearPrivateData.passwords                              "Contraseñas guardadas">
 <!ENTITY clearPrivateData.offline                                "Datos de sitios web sin conexión">
 <!ENTITY clearPrivateData.logins                                 "Sesiones activas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar contraseñas">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Mostrar botones de navegación">
 <!ENTITY doNotTrack.title                                        "No rastrear">
 <!ENTITY doNotTrack.options.doNotTrack                           "Decir a los sitios web que no quiero ser rastreado">
 <!ENTITY doNotTrack.options.doTrack                              "Decir a los sitios web que quiero ser rastreado">

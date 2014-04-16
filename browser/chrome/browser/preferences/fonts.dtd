@@ -36,7 +36,6 @@
 <!ENTITY  font.langGroup.el                       "Griego">
 <!ENTITY  font.langGroup.turkish                  "Turco">
 <!ENTITY  font.langGroup.unicode                  "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definida por el usuario">
 <!ENTITY  font.langGroup.thai                     "Tailandés">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -69,7 +68,7 @@
 <!ENTITY  allowPagesToUse.accesskey               "e">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "Codificación de caracteres para contenido heredado">
-<!ENTITY languages.customize.Fallback.label       "Codificación predefinida de caracteres:">
+<!ENTITY languages.customize.Fallback.label       "Codificación predeterminada de caracteres:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "Esta codificación de caracteres se usa para contenido heredado que falla al declarar su codificación.">
 
