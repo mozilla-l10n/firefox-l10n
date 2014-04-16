@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Vie syötteet kansiorakenteen kanssa; ctrl-napsauta tai paina ctrl+enter, jos haluat viedä syötteet luettelona">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Sulje">

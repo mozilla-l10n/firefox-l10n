@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Kaikkialta, mutta sanojen rajoja suosien">
 <!ENTITY autoCompleteMatchWords                "Vain sanojen rajoilta">
 <!ENTITY autoCompleteMatchStart                "Vain sijainnin tai otsikon alusta">
+<!ENTITY showInternetSearch.label              "Näytä oletushakukone">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Muotoilu">
 <!ENTITY domainFormatting.label                "Korosta verkkosivujen osoitteiden kaksi viimeistä osaa">
 <!ENTITY domainFormatting.accesskey            "s">
-
-<!ENTITY searchEngine.label                    "Verkkohaku">
-<!ENTITY showSearchEngine.label                "Näytä oletushakukone">
-<!ENTITY showSearchEngine.accesskey            "ä">
+<!ENTITY highlightSecure.label                 "Korosta verkkosivut, joiden yhteys on vahvasti suojattu">
+<!ENTITY highlightSecure.accesskey             "a">
 
 <!ENTITY unknownLocations.label                "Tuntemattomat osoitteet">
 <!ENTITY domainGuessing.label                  "Lisää osoitteen alkuun &quot;www.&quot; ja loppuun &quot;.com&quot;, jos verkkosivua ei löydy">
