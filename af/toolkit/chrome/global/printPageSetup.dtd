@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Bladsyopstelling">
 
-<!ENTITY basic.tab           "Formaat &amp; opsies">
 
 <!ENTITY formatGroup.label   "Formaat">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Opsies">
 
-<!ENTITY printBG.label       "Druk agtergrond (kleure &amp; prente)">
-<!ENTITY printBG.accesskey   "a">
 
-<!ENTITY advanced.tab        "Kantlyne &amp; kopstuk/voetstuk">
+
 
 <!ENTITY marginGroup.label   "Kantlyne (#1)">
 <!ENTITY marginUnits.inches  "duim">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Regterkant:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Kopstukke &amp; voetstukke">
 
 <!ENTITY hfLeft.label        "Linkerkant:">
 <!ENTITY hfCenter.label      "Middel:">

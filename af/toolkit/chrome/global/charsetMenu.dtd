@@ -8,10 +8,10 @@
 <!-- A reserved for Arabic -->
 
 
-
-
-
-
-
-
+<!ENTITY charsetMenuAutodet.ja.label      "Japannees">
+<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
+<!ENTITY charsetMenuAutodet.ru.label      "Russies">
+<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+<!ENTITY charsetMenuAutodet.uk.label      "Oekraïens">
+<!ENTITY charsetMenuAutodet.uk.accesskey  "O">
 

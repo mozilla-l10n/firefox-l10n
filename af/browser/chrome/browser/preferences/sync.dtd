@@ -47,13 +47,23 @@
 <!ENTITY prefs.ppLink.label         "Privaatheidbeleid">
 <!-- Firefox Accounts stuff -->
 
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
 <!ENTITY signedInUnverified.beforename.label "">
 
-
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-
+<!ENTITY manage.label                "Bestuur">
 
 
 
@@ -61,3 +71,4 @@
 <!ENTITY welcome.signIn.label "Meld aan">
 
 
+<!ENTITY welcome.useOldSync.label "Gebruiker u 'n ouer weergawe van Sync?">
