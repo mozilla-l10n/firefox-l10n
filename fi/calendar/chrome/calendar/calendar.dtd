@@ -88,6 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Uusi tapahtuma" >
 <!ENTITY calendar.newtask.button.label          "Uusi tehtävä" >
 <!ENTITY calendar.print.button.label            "Tulosta" >
+<!ENTITY calendar.print.button.accesskey        "u">
 
 <!ENTITY calendar.day.button.label              "Päivä" >
 <!ENTITY calendar.week.button.label             "Viikko" >
