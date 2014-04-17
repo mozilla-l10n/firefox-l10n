@@ -9,7 +9,7 @@
 <!ENTITY back.label            "পূর্ববর্তী">
 <!ENTITY forward.label         "পরবর্তী">
 <!ENTITY newtab.label          "নতুন ট্যাব">
-
+<!ENTITY newPrivateTab.label   "নতুন ব্যক্তিগত ট্যাব">
 <!ENTITY closetab.label        "ট্যাব বন্ধ করুন">
 
 <!ENTITY autocompleteResultsHeader.label  "আপনার ফলাফল">
@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "বার্তা">
 <!ENTITY consoleCodeEval.label     "কোড:">
 <!ENTITY consoleClear.label        "মুছে ফেলুন">
-
+<!ENTITY consoleCopyAll.label      "কপি করুন">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "উৎস ফাইল:">
 <!ENTITY consoleErrLine.label      "লাইন:">
 <!ENTITY consoleErrColumn.label    "কলাম:">
-
+<!ENTITY consoleFollowCheckbox.label "অনুসরণ করুন">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "কাট করুন">
-
+<!ENTITY contextTextCopy.label             "কপি করুন">
 <!ENTITY contextTextPaste.label            "পেস্ট করুন">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextTextSelect.label           "নির্বাচন করুন">
 <!ENTITY contextTextSelectAll.label        "সমগ্র নির্বাচন করুন">
 <!-- LINK CONTEXT MENU -->
@@ -106,6 +107,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -140,6 +142,8 @@
        references.
        -->
 
-
-
+<!ENTITY firstRunBack.label "আগের পেজে ফিরে যেতে টোকা মারুন">
+<!ENTITY firstRunNewTab.label "একটি নতুন সাইট ঘুরে দেখার জন্য একটি নতুন ট্যাব খুলুন">
+<!ENTITY firstRunStar.label "পরে দেখার জন্য বুকমার্ক ব্যবহার করুন">
+<!ENTITY firstRunPin.label "দ্রুত ব্যবহারের জন্য আপনার উইন্ডোজের স্টার্ট স্ক্রিনে যেকোনও সাইটকে পিন করুন">
 <!ENTITY firstRunGotIt.label "Got it!">
