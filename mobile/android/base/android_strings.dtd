@@ -14,8 +14,8 @@
 
 <!ENTITY  switch_to_tab "Anar a l\u0027onglet">
 
-<!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
+<!ENTITY  crash_reporter_title "Rapòrt de fracàs de &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; a fracassat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
 <!ENTITY  crash_send_report_message3 "Assabentar &#037;s d\u0027aqueste problèma per que pòsca èsser corregit">
 <!ENTITY  crash_include_url2 "Inclure l\u0027URL de la pagina ont vos trobàvetz">
 <!ENTITY  crash_sorry "O planhèm">
@@ -54,6 +54,7 @@
 <!ENTITY back "Retorn">
 <!ENTITY stop "Arrestar">
 <!ENTITY site_security "Seguretat del site">
+<!ENTITY save "Enregistrar">
 
 <!ENTITY close_tab "Tampar l\u0027onglet">
 <!ENTITY one_tab "1 onglet">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_search3 "Recercar">
+
 <!ENTITY pref_category_display "Afichar">
 <!ENTITY pref_category_privacy_short "Vida privada">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -74,18 +76,31 @@
 <!ENTITY pref_category_installed_search_engines "Motors de recèrca installats">
 <!ENTITY pref_category_add_search_providers "Apondre de motors de recèrca">
 <!ENTITY pref_category_search_restore_defaults "Restablir los motors de recèrca">
-
-
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_search_restore_defaults "Restablir los paramètres per defaut">
+<!ENTITY pref_search_restore_defaults_summary "Restablir los paramètres per defaut">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "ASTÚCIA : Apondètz quin site que siá a vòstra lista de motors de recèrca en efectuant una quichada longa sus lor camp de recèrca.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY pref_category_devtools "Aisinas de desvolopament">
 <!ENTITY pref_developer_remotedebugging "Desbugatge distant">
 <!ENTITY pref_developer_remotedebugging_docs "Ne saber mai…">
 <!ENTITY pref_remember_signons "Enreg. los senhals :">
 
+<!ENTITY pref_category_home "Acuèlh">
+<!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\u0027acuèlh">
+<!ENTITY pref_category_home_panels "Panèls">
+<!ENTITY pref_home_add_panel "Apondre un panèl">
+<!ENTITY home_add_panel_title "Apondre un panèl novèl">
 
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+<!ENTITY pref_home_updates "Mesas a jorn automaticas">
+<!ENTITY pref_home_updates_enabled "Activat">
+<!ENTITY pref_home_updates_wifi "Solament per Wi-Fi">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizar">
@@ -140,9 +155,9 @@ size. -->
 <!ENTITY pref_sync "Sincr">
 <!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
 <!ENTITY pref_import_android "Importar dempuèi Android">
-<!ENTITY pref_private_data_history "Istoric de navigacion &amp; dels telecargaments">
-<!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
+<!ENTITY pref_private_data_history "Istoric de navigacion  dels telecargaments">
+<!ENTITY pref_private_data_formdata "Istoric dels formularis  de las recèrcas">
+<!ENTITY pref_private_data_cookies2 "Cookies  connexions activas">
 <!ENTITY pref_private_data_passwords "Senhals enregistrats">
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
@@ -160,8 +175,9 @@ size. -->
 
 
 <!ENTITY pref_panels_show "Afichar">
+<!ENTITY pref_panels_hide "Amagar">
 
-
+<!ENTITY datareporting_notification_title "estatisticas  donadas de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
 <!ENTITY datareporting_notification_action "Causir çò que mandi">
 <!ENTITY datareporting_notification_summary "Per melhorar vòstra navigacion, &brandShortName; manda automaticament certanas informacions a &vendorShortName;.">
@@ -177,11 +193,12 @@ size. -->
 <!ENTITY datareporting_fhr_title "Rapòrt de plantatge de &brandShortName;">
 
 
-
-
-
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Manda d\u0027informacions sus las performàncias, lo material, l\u0027utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Raportador de plantatge">
 
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
@@ -206,6 +223,7 @@ size. -->
 <!ENTITY save_as_pdf "Enregistrar en PDF">
 <!ENTITY find_in_page "Recercar dins la pagina">
 <!ENTITY desktop_mode "Veire version ordenador">
+
 <!ENTITY tools "Aisinas">
 <!ENTITY new_tab "Onglet novèl">
 <!ENTITY new_private_tab "Onglet de nav. privada">
@@ -234,7 +252,7 @@ size. -->
 <!ENTITY contextmenu_remove "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
 <!ENTITY contextmenu_share "Partejar">
-<!ENTITY contextmenu_pasteandgo "Pegar &amp; dobrir">
+
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
@@ -288,6 +306,7 @@ size. -->
 <!ENTITY home_top_sites_title "Sites favorits">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Apondre un site">
 
 <!ENTITY home_history_title "Istoric">
 
@@ -299,10 +318,12 @@ size. -->
 <!ENTITY home_reading_list_empty "Los articles enregistrats per pus tard s\u0027afichan aicí. ">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
 
 <!ENTITY filepicker_title "Causir un fichièr">
@@ -343,10 +364,7 @@ dempuèi Android">
 <!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric 
 dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Volètz activar las suggestions de recèrca &formatS; ?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
