@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Diğer aygıtlara sekme göndermek için aygıtınızda &syncBrand.fullName.label;\u0027i kurun.">
 <!ENTITY sync.text.tab.sent.label "Sekmeniz gönderildi!">
 <!ENTITY sync.text.tab.not.sent.label "Sekmeniz gönderilirken bir sorun oluştu.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "Firefox hesapları onay kutusu grafiği">
-<!ENTITY fxaccount_icon_contentDescription2 "Firefox hesapları simgesi">
-<!ENTITY fxaccount_intro_contentDescription2 "Firefox hesapları tanıtım grafikleri">
-<!ENTITY fxaccount_mail_contentDescription2 "Firefox hesapları zarf grafiği">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "E-posta">
 <!ENTITY fxaccount_password_hint "Parola">
@@ -126,9 +119,14 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "Tarayıcıya dön">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Hizmet koşulları">
-<!ENTITY fxaccount_policy_linkprivacy "Gizlilik ilkeleri">
+<!ENTITY fxaccount_policy_linktos "Hizmet Koşulları">
+<!ENTITY fxaccount_policy_linkprivacy "Gizlilik İlkeleri">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;\u0027e hoş geldiniz">
 <!ENTITY fxaccount_getting_started_description "Sekmelerinizi, yer imlerinizi, parolalarınızı ve dahasını eşitlemek için oturum açın.">
@@ -136,13 +134,13 @@
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;\u0027in eski bir sürümünü mü kullanıyorsunuz?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "Firefox hesabı açın">
+<!ENTITY fxaccount_create_account_header2 "Firefox hesabı açın">
 <!ENTITY fxaccount_create_account_password_length_restriction "En az 8 karakter olmalıdır">
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum yılı">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "Devam ederek, Firefox çevrimiçi hizmetlerinin &formatS1; ve &formatS2;ni kabul ediyorum.">
+<!ENTITY fxaccount_create_account_policy_text2 "Devam ederek, Firefox çevrimiçi hizmetlerinin &formatS1; ve &formatS2;ni kabul ediyorum.">
 <!ENTITY fxaccount_create_account_button "Sonraki">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Nelerin eşitleneceğini seçin">
 <!ENTITY fxaccount_create_account_sign_in_instead "Zaten hesabınız var mı? Oturum açın">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Daha fazla bilgi">
 
 <!ENTITY fxaccount_confirm_account_header "Hesabınızı doğrulayın">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "formatS adresine doğrulama bağlantısı gönderildi">
 <!ENTITY fxaccount_confirm_account_resend_email "E-postayı tekrar gönder">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "Oturum aç">
 <!ENTITY fxaccount_update_credentials_unknown_error "Oturum açılamadı">
 
-<!ENTITY fxaccount_status_header "Firefox hesabı">
+<!ENTITY fxaccount_status_header2 "Firefox hesabı">
+<!ENTITY fxaccount_status_signed_in_as "Oturum açan:">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: etkinleştirildi">
 <!ENTITY fxaccount_status_needs_verification2 "Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "Parolalar">
 <!ENTITY fxaccount_status_tabs "Açık sekmeler">
 <!ENTITY fxaccount_status_legal "Yasal" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Hizmet Koşulları">
+<!ENTITY fxaccount_status_linkprivacy "Gizlilik İlkeleri">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Seçenekleri">
 <!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label;\u0027u yapılandır">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; bağlı değil">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum açmak için dokunun">
