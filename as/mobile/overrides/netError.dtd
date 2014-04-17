@@ -17,14 +17,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা ন'গ'ল">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>ঠিকনাক টাইপিং ত্ৰুটিৰ বাবে নিৰীক্ষণ কৰক যেনে 
+<strong>www</strong>.example.com ৰ পৰিৱৰ্তে 
+<strong>ww</strong>.example.com</li> 
+<li>যদি আপুনি পৃষ্ঠাসমূহ ল'ড কৰিব পৰা নাই, আপোনাৰ ডিভাইচৰ তথ্য অথবা Wi-Fiসংযোগ পৰিক্ষা কৰক।</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পোৱা ন'গ'ল">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -51,25 +49,19 @@
 <!ENTITY notCached.longDesc "<p>অনুৰোধ কৰা দস্তাবেজ &brandShortName; -ৰ ক্যাশত উপলব্ধ নহয়।</p><ul><li>সুৰক্ষা কাৰণ হিচাপে, &brandShortName; -এ স্বচালিতভাৱে সংবেদ্য দস্তাবেজসমূহ পুনৰ অনুৰোধ নকৰে।</li><li>ৱেবছাইটৰ পৰা দস্তাবেজ পুনৰ অনুৰোধ কৰিবলে পুনৰ চেষ্টা কৰক ক্লিক কৰক।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>পুনৰ চেষ্টা কৰক। &brandShortName; এ এটা সংযোগ খোলাৰ চেষ্টা কৰিব আৰু পৃষ্ঠাকপুনৰ ল'ড কৰিব।</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.title "সমল এনক'ডিংত ত্ৰুটি">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যাৰ বিষয়ে জনাওক।</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "অসুৰক্ষিত ফাইলৰ ধৰণ">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যাৰ বিষয়ে জনাওক।</li> 
+</ul>">
 
 <!ENTITY netReset.title "সংযোগ পুনৰ প্ৰতিষ্ঠা কৰা হৈছে">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -77,8 +69,8 @@
 <!ENTITY netTimeout.title "সংযোত স্থাপনৰ সময়ৰ বিৰতি হৈছে">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "ঠিকনা বুজি পোৱা ন'গ'ল">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ঠিকনা বুজি পোৱা ন'গ'ল">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>এই ঠিকনা খুলিবলৈ আপুনি অন্য চফ্টৱেৰ ইনস্টল কৰিব লগা হ'বও পাৰে।</li> 
 </ul>">
 
@@ -89,12 +81,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্ৰক্সি চাৰ্ভাৰ পোৱা ন'গ'ল">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>প্ৰক্সি সংহতিসমূহ সঠিক আছে নে সুনিশ্চিত কৰক।</li> 
+<li>আপোনাৰ ডিভাইচৰ এটা কাৰ্য্যকৰী তথ্য আৰু Wi-Fi সংযোগ আছে নে সুনিশ্চিত কৰক।</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "এই পৃষ্ঠাই শুদ্ধভাবে পুনৰ দিশ দিয়া নাই">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -107,30 +97,28 @@
 <li>এইটো চাৰ্ভাৰত মান প্ৰাপ্ত নথকা সংৰূপৰ বাবেও হ'ব পাৰে।</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>পোৱা তথ্যৰ প্ৰমাণীকৰণৰ পৰীক্ষা কৰিব নোৱাৰা বাবে আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি।</li> 
 <li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতকৰ সৈতে সম্পৰ্ক কৰক। বৈকল্পিকভাবে, এই ভঙা ছাইটৰ প্ৰতিবেদন কৰিবলৈ সহায় তালিকাৰ আদেশ ব্যৱহাৰ কৰক।</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>এই সমস্যা চাৰ্ভাৰৰ সংৰূপৰ বাবেও হ'ব পাৰে, বা কোনোবা বেলেগে চাৰ্ভাৰ হোৱাৰ ভাও ধৰিছে।</li> 
 <li>যদি অতিতত এই চাৰ্ভাৰৰ লগত সফলভাবে সংযোগ কৰিছে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনৰ চেষ্টা কৰিব পাৰে।</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>এই ছাইট অস্থায়ীভাৱে উপলব্ধ নহয় অথবা অতি ব্যস্ত। কিছু সময় পিছত পুনৰ চেষ্টা কৰি চাওক।</li> 
+<li>যদি আপুনি কোনো পৃষ্ঠা ল'ড কৰিব পৰা নাই, আপোনাৰ মবাইল ডিভাইচৰ তথ্য অথবা Wi-Fi সংযোগ নিৰীক্ষণ কৰক।</li> 
+</ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
 
 <!ENTITY corruptedContentError.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>তথ্য পৰিবহনত এটা ত্ৰুটিৰ বাবে আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি।</p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul>">
 
 <!ENTITY securityOverride.linkText "বা আপুনি এটা ব্যতিক্ৰম যোগ কৰিব পাৰে…">
 <!ENTITY securityOverride.getMeOutOfHereButton "মোক ইয়াৰ পৰা লৈ যাওক!">
@@ -146,6 +134,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "দুৰৱৰ্তী XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul></p>">
 
