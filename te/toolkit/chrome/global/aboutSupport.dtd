@@ -21,7 +21,16 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "పేరు">
 <!ENTITY aboutSupport.extensionEnabled "చేతనపరచిన">
 <!ENTITY aboutSupport.extensionVersion "వర్షన్">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+<!ENTITY aboutSupport.experimentsTitle "ప్రయోగాత్మక సౌలభ్యాలు">
+<!ENTITY aboutSupport.experimentName "పేరు">
+
+<!ENTITY aboutSupport.experimentDescription "వివరణ">
+<!ENTITY aboutSupport.experimentActive "క్రియాశీలం">
+<!ENTITY aboutSupport.experimentEndDate "ముగింపు తేది">
+<!ENTITY aboutSupport.experimentHomepage "నివాసపేజీ">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "అనువర్తనం ప్రాధమికాలు">
 <!ENTITY aboutSupport.appBasicsName "పేరు">

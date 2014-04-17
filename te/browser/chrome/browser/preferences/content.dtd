@@ -9,7 +9,6 @@
 <!ENTITY  popupExceptions.label       "మినహాయింపులు…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp;రంగులు">
 
 <!ENTITY  defaultFont.label           "అప్రమేయ ఫాంటు:">
 <!ENTITY  defaultFont.accesskey       "D">
