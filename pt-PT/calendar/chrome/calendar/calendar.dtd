@@ -88,7 +88,8 @@
 <!ENTITY calendar.newevent.button.label "Novo evento" >
 <!ENTITY calendar.newtask.button.label "Nova tarefa" >
 <!ENTITY calendar.print.button.label "Imprimir" >
-<!ENTITY calendar.export.calendar "Exportar calendário..." >
+<!ENTITY calendar.print.button.accesskey        "P">
+
 <!ENTITY calendar.day.button.label "Dia" >
 <!ENTITY calendar.week.button.label "Semana" >
 <!ENTITY calendar.month.button.label "Mês" >
