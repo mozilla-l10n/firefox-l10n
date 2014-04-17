@@ -72,8 +72,8 @@ bağlantısını yoxlayın.</li>
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Baməlum əlaqə protokolu">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Baməlum əlaqə protokolu">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Bu ünvanı açmaq üçün başqa proqram quraşdırmalısınız.</li> 
 </ul>">
 

@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "s">
 
 <!ENTITY  color                           "Mətn və arxa fon">
-<!ENTITY  textColor.label                 "Metin:">
-<!ENTITY  textColor.accesskey             "t">
+
+
 <!ENTITY  backgroundColor.label           "Arxa fon:">
 <!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Sistem rənglərinən istifadə et">

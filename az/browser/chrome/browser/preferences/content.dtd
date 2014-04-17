@@ -9,7 +9,6 @@
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
 
-<!ENTITY  fontsAndColors.label        "Yazı tipləri və rənglər">
 
 <!ENTITY  defaultFont.label           "Standart yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">

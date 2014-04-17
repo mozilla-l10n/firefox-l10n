@@ -5,8 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Diller">
-<!ENTITY languages.customize.prefLangDescript           "Bəzi səhifələr birdən çox dil dəstəyi verə bilər. Göstəriləcək dil sıralamsını aşağıdakı pəncərədən seçə bilərsiniz.">
-<!ENTITY languages.customize.active.label               "Seçilən dil sıralamsı:">
+
 <!ENTITY languages.customize.moveUp.label               "Yuxarıya">
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Aşağı apar">

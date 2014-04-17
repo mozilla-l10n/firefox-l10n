@@ -52,7 +52,7 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "CSS analizi səhvlərinin qeydini tut">
+
 <!ENTITY btnPageCSS.accesskey "C">
 
 <!ENTITY btnPageJS.tooltip  "JavaScript istisnalıqlarının qeydini tut">

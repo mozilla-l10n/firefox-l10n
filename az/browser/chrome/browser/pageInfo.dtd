@@ -76,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "Web sayt:">
 <!ENTITY  securityView.identity.verifier "Təsdiqləyən:">
 
-<!ENTITY  securityView.privacy.header                   "Təhlükəsizlik və keçmiş">
 <!ENTITY  securityView.privacy.history                  "Bu saytı daha əvvəl açmışam?">
 <!ENTITY  securityView.privacy.cookies                  "Bu sayt kompüterimdə məlumat (çərəzlər) saxlayırmı?">
 <!ENTITY  securityView.privacy.viewCookies              "Çərəzləri Gör">

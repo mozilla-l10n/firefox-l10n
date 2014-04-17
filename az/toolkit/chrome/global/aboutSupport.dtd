@@ -18,7 +18,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Ad">
 <!ENTITY aboutSupport.extensionEnabled "Aktivdir">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
-<!ENTITY aboutSupport.extensionId "Kimlik">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Açıqlama">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Ana səhifə">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Proqramın əsasları">
 <!ENTITY aboutSupport.appBasicsName "Ad">

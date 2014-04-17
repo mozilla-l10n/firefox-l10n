@@ -62,7 +62,7 @@
 
 <!ENTITY rights.locationawarebrowsing-a "Vəziyyətə həssas baxış: ">
 <!ENTITY rights.locationawarebrowsing-b "hər zaman sizin istəyinizlə işləyər. sizin icazəniz olmadan heç vaxt vəziyyətinizin məlumatlarını göndərməz. bu funksiyanı tamamən söndürmək istəyirsinizsə bu addımları təkrarlayın:">
-<!ENTITY rights.locationawarebrowsing-term1a "Ünvan sətirinə bunu yazın:">
+<!ENTITY rights.locationawarebrowsing-term1a "Ünvan sətirinə bunu yazın: URL ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled yazın">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled seçiminə iki dəfə tıklayın">

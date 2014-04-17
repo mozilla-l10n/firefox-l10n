@@ -17,9 +17,10 @@
 <!ENTITY clearPrivateData.cookies                                "Çərəzlər">
 <!ENTITY clearPrivateData.cache                                  "Ön yaddaş">
 <!ENTITY clearPrivateData.sitePref                               "Sayt tənzimləmələri">
-<!ENTITY clearPrivateData.formSearchHist                         "Forma və axtarış keçmişi">
+
 
 <!ENTITY clearPrivateData.offline                                "Offlayn vebsayt məlumatları">
+
 
 
 

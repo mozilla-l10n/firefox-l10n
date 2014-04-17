@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Keçmiș">
 <!ENTITY dataSection.label            "Verilən">
 
-<!ENTITY itemHistoryAndDownloads.label     "Baxış və yükləmə keçmişi">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "Form və axtarış keçmişi">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+
+
+
 <!ENTITY itemPasswords.label               "Saxlanan şifrələr">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Çərəzlər">

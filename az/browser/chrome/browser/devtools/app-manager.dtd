@@ -42,6 +42,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.connecting "Bağlanır…">
 
 <!ENTITY connection.cancel "ləğv et">
@@ -80,6 +84,8 @@
 
 
 
+
+<!ENTITY help.close "Qapat">
 
 
 
