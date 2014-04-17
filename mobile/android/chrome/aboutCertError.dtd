@@ -26,8 +26,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.expert.heading "Saya faham akan risiko ini">
 <!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda 
- boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. 
-<b> Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang  mengganggu sambungan anda. </b>">
+boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. 
+<b>Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang 
+mengganggu sambungan anda.</b>">
 <!ENTITY certerror.expert.contentPara2 "Jangan tambah satu kecuali 
  melainkan anda tahu ada alasan munasabah kenapa laman tidak boleh guna identifikasi yang dipercayai.">
 <!ENTITY certerror.addTemporaryException.label "Lawat laman">

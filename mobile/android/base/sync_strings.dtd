@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Sambung ke &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Tambah Akaun syncBrand.fullName.label">
+<!ENTITY sync.title.adddevice.label "Tambah sebuah &syncBrand.fullName.label; Akaun">
 <!ENTITY sync.title.pair.label "Memasangkan Peranti">
 <!-- J-PAKE Key Screen -->
 
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "Sedang menunggu peranti yang lain…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Masukkan maklumat akaun syncBrand.fullName.label anda">
+<!ENTITY sync.subtitle.account.label "Masukkan &syncBrand.fullName.label; maklumat akaun anda">
 <!ENTITY sync.input.username.label "Nama Akaun">
 <!ENTITY sync.input.password.label "Kata laluan">
 <!ENTITY sync.input.key.label "Kekunci Pemulihan">
@@ -46,7 +46,7 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Setup Selesai">
-<!ENTITY sync.subtitle.success.label1 "Data anda sedang dimuat turun pada latar belakang. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau mula melayari web dengan  brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Data anda sedang dimuat turun pada latar belakang. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau mula melayari web dengan &brandShortName;.">
 <!ENTITY sync.settings.label "Tetapan">
 <!ENTITY sync.subtitle.manage.label1 "Akaun &syncBrand.fullName.label; anda sudah disediakan. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau melancarkan &brandShortName;.">
 <!-- Pair Device -->
@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Sediakan &syncBrand.fullName.label; pada peranti anda untuk menghantar tab ke peranti lain.">
 <!ENTITY sync.text.tab.sent.label "Tab anda telah dihantar!">
 <!ENTITY sync.text.tab.not.sent.label "Terdapat masalah semasa menghantar tab anda.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "Grafik kotak tanda akaun Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Ikon akaun Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Grafik pengenalan akaun Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Grafik sampul akaun Firefox">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "Emel">
 <!ENTITY fxaccount_password_hint "Kata laluan">
@@ -126,23 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "Undur kepada pelayaran">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "Syarat Perkhidmatan">
 <!ENTITY fxaccount_policy_linkprivacy "Notis Privasi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Selamat Datang ke &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Daftar masuk untuk sync tab anda, penandabuku, kata laluan &amp; lagi.">
+<!ENTITY fxaccount_getting_started_description "Daftar masuk untuk menyelaraskan tab anda, penandabuku, kata laluan  banyak lagi.">
 <!ENTITY fxaccount_getting_started_get_started "Mulakan">
 <!ENTITY fxaccount_getting_started_old_firefox "Mulakan versi lama &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "Cipta akaun Firefox">
+<!ENTITY fxaccount_create_account_header2 "Cipta Firefox Account">
 <!ENTITY fxaccount_create_account_password_length_restriction "Mestilah sekurang-kurangnya 8 aksara">
 <!ENTITY fxaccount_create_account_year_of_birth "Tahun kelahiran">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "Dengan meneruskannya, saya setuju untuk &formatS1; dan &formatS2; daripada perkhidmatan atas talian Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Dengan meneruskannya, saya bersetuju dengan &formatS1; dan &formatS2; perkhidmatan awan Firefox.">
 <!ENTITY fxaccount_create_account_button "Berikut">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Pilih perkara untuk sync ">
 <!ENTITY fxaccount_create_account_sign_in_instead "Telah memiliki akaun? Daftar masuk">
@@ -154,8 +152,8 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Ketahui lagi">
 
 <!ENTITY fxaccount_confirm_account_header "Pastikan akaun anda">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Pautan pengesahan telah dihantar ke &fomatS;">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Pautan pengesahan telah dihantar ke &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ulang hantar email">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Pengesahan email dihantar">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat menghantar email pengesahan">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "Daftar masuk ">
 <!ENTITY fxaccount_update_credentials_unknown_error "Tidak dapat daftar masuk">
 
-<!ENTITY fxaccount_status_header "Akaun Firefox">
+<!ENTITY fxaccount_status_header2 "Akaun Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Daftar masuk sebagai">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: dibolehkan">
 <!ENTITY fxaccount_status_needs_verification2 "Akaun anda perlu disahkan. Tap untuk hantar semula email pengesahan.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "Kata laluan">
 <!ENTITY fxaccount_status_tabs "Buka tab">
 <!ENTITY fxaccount_status_legal "Perundangan" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Syarat Perkhidmatan">
+<!ENTITY fxaccount_status_linkprivacy "Notis Privasi">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Pilihan">
 <!ENTITY fxaccount_options_configure_title "Konfigur &syncBrand.shortName.label;">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; tidak tersambung">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tap untuk daftar masuk sebagai &formatS;">

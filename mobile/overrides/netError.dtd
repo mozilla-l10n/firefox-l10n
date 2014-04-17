@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Alamat tidak difahami">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> 
 </ul>">
 
@@ -84,8 +84,7 @@ berfungsi.</li>
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Semak tetapan proksi untuk memastikan yang ianya adalah betul</li> 
-<li>Semak untuk memastikan peranti anda mempunyai sambungan data atau
-Wi-Fi yang berfungsi.</li> 
+<li>Semak untuk memastikan peranti anda mempunyai sambungan data atau Wi-Fi yang berfungsi.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">

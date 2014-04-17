@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk &brandShortName; memulakan.">
-<!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang memerlukan untuk menjalankan &brandShortName;">
+<!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk memulakan &brandShortName;.">
+<!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang diperlukan untuk menjalankan &brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -15,9 +15,9 @@
 <!ENTITY  switch_to_tab "Tukar ke tab">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Pelapor Nahas">
-<!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.                ">
+<!ENTITY  crash_message2 "&brandShortName; mempunyai masalah. Tab anda perlu disenaraikan pada &brandShortName; Mula muka surat yang baru semasa mula semula.">
 <!ENTITY  crash_send_report_message3 "Laporkan &vendorShortName; tentang kerosakan ini supaya mereka boleh membaikinya">
-<!ENTITY  crash_include_url2 "Termasuk alamat laman sekarang ini">
+<!ENTITY  crash_include_url2 "Sertakan alamat halaman yang telah saya berada">
 <!ENTITY  crash_sorry "Kami mohon maaf">
 <!ENTITY  crash_comment "Tambah komen (komen boleh dilihat umum)">
 <!ENTITY  crash_allow_contact2 "Benarkan &vendorShortName; untuk menghubungi saya mengenai laporan ini">
@@ -28,7 +28,7 @@
 <!ENTITY  crash_restart_label "Ulang mula &brandShortName;">
 <!ENTITY  exit_label "Keluar">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; App Web">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Aplikasi Web">
 <!ENTITY  launcher_shortcuts_empty "Tiada aplikasi web ditemui">
 
 <!ENTITY choose_file "Pilih Fail">
@@ -54,6 +54,7 @@
 <!ENTITY back "Undur">
 <!ENTITY stop "Berhenti">
 <!ENTITY site_security "Laman Keselamatan">
+<!ENTITY save "Simpan">
 
 <!ENTITY close_tab "Tutup Tab">
 <!ENTITY one_tab "1 tab">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Lanjutan">
 <!ENTITY pref_category_customize "Suaikan">
 <!ENTITY pref_category_search3 "Carian">
+<!ENTITY pref_category_search_summary "Menyesuai penyedia carian anda">
 <!ENTITY pref_category_display "Paparan">
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "Enjin carian dipulihkan">
 <!ENTITY pref_search_restore_defaults "Pulihkan kepada lalai">
 <!ENTITY pref_search_restore_defaults_summary "Pulihkan kepada lalai">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "PETUA: Tambah sebarang laman web ke senarai pembekal carian anda dengan menekan lama di ruangan carian.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan yang panjang pada medan carian kemudian sentuh ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
-<!ENTITY pref_developer_remotedebugging "Penyahpepijatan jauh">
+<!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
 <!ENTITY pref_developer_remotedebugging_docs "Ketahui lagi">
 <!ENTITY pref_remember_signons "Ingat kata laluan">
 
 <!ENTITY pref_category_home "Utama">
+<!ENTITY pref_category_home_summary "Menyesuai laman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
+<!ENTITY pref_home_add_panel "Tambah panel">
+<!ENTITY home_add_panel_title "Tambah panel baru">
+<!ENTITY home_add_panel_empty "Maaf, kami tidak dapat mencari sebarang panel yang anda tambah.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ditambah kepada laman utama">
+<!ENTITY pref_category_home_content_settings "Tetapan kandungan">
+<!ENTITY pref_home_updates "Kemaskini automatik">
+<!ENTITY pref_home_updates_enabled "Dibolehkan">
+<!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Suaikan">
@@ -141,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
 <!ENTITY pref_import_android "Import dari Android">
-<!ENTITY pref_private_data_history "Layari &amp; sejarah muat turun">
-<!ENTITY pref_private_data_formdata "Form &amp; sejarah carian">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; login aktif">
+<!ENTITY pref_private_data_history "Sejarah pelayaran  muat turun">
+<!ENTITY pref_private_data_formdata "Sejarah borang  carian">
+<!ENTITY pref_private_data_cookies2 "Kuki  log masuk aktif">
 <!ENTITY pref_private_data_passwords "Kata laluan tersimpan">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
@@ -164,12 +180,12 @@ size. -->
 <!ENTITY pref_panels_show "Tunjuk">
 <!ENTITY pref_panels_hide "Sembunyi">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_title "&brandShortName; stats  data">
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
 <!ENTITY datareporting_notification_action "Pilih bahan perkongsian">
 <!ENTITY datareporting_notification_summary "Bagi menambah baik pengalaman anda, &brandShortName; secara automatik menghantar maklumat ke &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Bagi menambah baik pengalaman anda, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -187,7 +203,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
 <!ENTITY datareporting_wifi_title "&vendorShortName; servis lokasi">
-<!ENTITY datareporting_wifi_summary "Membantu meningkatkan perkhidmatan geolokasi untuk Web Terbuka dengan membenarkan &brandShortName; mengumpul dan menghantar data tanpa nama menara selular">
+<!ENTITY datareporting_wifi_summary "Membantu meningkatkan perkhidmatan geolokasi untuk Web Terbuka dengan membenarkan &brandShortName; mengumpul dan menghantar data menara selular anonim">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY find_in_page "Cari dalam Halaman">
 <!ENTITY desktop_mode "Permintaan Laman Desktop">
+<!ENTITY page "Halaman">
 <!ENTITY tools "Alatan">
 <!ENTITY new_tab "Tab Baru">
 <!ENTITY new_private_tab "Tab Persendirian Baru">
@@ -240,7 +257,7 @@ size. -->
 <!ENTITY contextmenu_remove "Singkir">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
 <!ENTITY contextmenu_share "Kongsi">
-<!ENTITY contextmenu_pasteandgo "Tampal &amp; Pergi">
+<!ENTITY contextmenu_pasteandgo "Tampal  Pergi">
 <!ENTITY contextmenu_paste "Tampal">
 <!ENTITY contextmenu_copyurl "Salin Alamat">
 <!ENTITY contextmenu_edit_bookmark "Sunting">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Bersih">
 <!ENTITY site_settings_no_settings  "Tiada tetapan untuk dibersihkan.">
 
+<!ENTITY reading_list_add "Tambah ke Senarai Bacaan">
 <!ENTITY reading_list_added "Laman ditambah ke Senarai Pembacaan anda">
 <!ENTITY reading_list_removed "Halaman dikeluarkan dari Senarai Pembacaan anda">
 <!ENTITY reading_list_failed "Gagal untuk menambah halaman ke Senarai Pembacaan anda">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Artikel yang anda simpan untuk paparan kemudian dipaparkan di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "PETUA: Simpan artikel ke senarai pembacaan anda dengan menekan lama ikon &#037;I apabila ia muncul dalam bar tajuk.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: Simpan artikel ke senarai pembacaan anda dengan menekan lama ikon &formatI; apabila ia muncul dalam bar tajuk.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "PETUA: Simpan artikel ke senarai pembacaan anda dengan menekan lama butang mod pembaca apabila ia muncul dalam bar tajuk.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Tiada kandungan yang ditemui untuk panel ini.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
@@ -359,10 +381,8 @@ dari Android">
 <!ENTITY bookmarkhistory_import_history "Mengimport sejarah
 dari Android">
 <!ENTITY bookmarkhistory_import_wait "Sila tunggu...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Adakah anda ingin menghidupkan &formatS; cadangan carian?">
+<!ENTITY suggestions_prompt3 "Adakah anda ingin menghidupkan cadangan carian?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
