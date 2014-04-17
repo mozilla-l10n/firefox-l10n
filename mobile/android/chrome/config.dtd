@@ -2,6 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Yiylo Teelte">
-<!ENTITY clear.altText          "Momtu">
-<!ENTITY newpref.label2         "Ɓeydu Teelte Kese">
+
+<!ENTITY toolbar.searchPlaceholder     "Yiylo">
+
+<!ENTITY newPref.namePlaceholder       "Innde">
+
+<!ENTITY newPref.valueBoolean          "Buleaare">
+<!ENTITY newPref.valueString           "Ɓoggol">
+<!ENTITY newPref.valueInteger          "Timmunde">
+
+
+
+<!ENTITY newPref.cancelButton          "Haaytu">
+
+
