@@ -689,7 +689,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Funcionalidades e ferramentas adicionais">
+<!ENTITY customizeMode.menuAndToolbars.label "Menu e barra de ferramentas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">
