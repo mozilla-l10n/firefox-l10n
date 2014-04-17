@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "រៀបចំ &syncBrand.fullName.label; នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ដើម្បី​​ផ្ញើ​ផ្ទាំង​ទៅកាន់​ឧបករណ៍​ផ្សេងទៀត ។">
 <!ENTITY sync.text.tab.sent.label "បាន​ផ្ញើ​ផ្ទាំង​របស់​អ្នក !">
 <!ENTITY sync.text.tab.not.sent.label "មាន​បញ្ហា​ក្នុង​ការ​ផ្ញើ​ផ្ទាំង​របស់​អ្នក ។">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "ក្រាហ្វិក​ប្រអប់​ធីក​គណនី Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "រូបតំណាង​គណនី Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "ក្រាហ្វិក​សេចក្ដី​ណែនាំ​គណនី Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "ក្រាហ្វិក​ស្រោម​សំបុត្រ​គណនី​សម្រាប់ Firefox">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "អ៊ីមែល">
 <!ENTITY fxaccount_password_hint "ពាក្យ​សម្ងាត់">
@@ -126,23 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "ថយ​ក្រោយ​ដើម្បី​រុករក">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "លក្ខខ័ណ្ឌ​សេវាកម្ម">
+<!ENTITY fxaccount_policy_linktos "លក្ខខណ្ឌ​ប្រើប្រាស់">
 <!ENTITY fxaccount_policy_linkprivacy "សម្គាល់​ឯកជន">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ស្វាគមន៍​មកកាន់ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក, ចំណាំ, ពាក្យសម្ងាត់ &amp; ច្រើន​ទៀត។">
+<!ENTITY fxaccount_getting_started_description "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក, ចំណាំ, ពាក្យសម្ងាត់  ច្រើន​ទៀត។">
 <!ENTITY fxaccount_getting_started_get_started "បាន​ចាប់ផ្ដើម">
 <!ENTITY fxaccount_getting_started_old_firefox "ប្រើ​កំណែ​ចាស់​នៃ &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "បង្កើត​គណនី Firefox">
+<!ENTITY fxaccount_create_account_header2 "បង្កើត​គណនី Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ត្រូវតែ​មាន​យ៉ាងហោចណាស់ ៨ តួ​អក្សរ">
 <!ENTITY fxaccount_create_account_year_of_birth "ឆ្នាំ​កំណើត">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "ដោយ​ការ​ធ្វើ​បន្ត, ខ្ញុំ​យល់​ព្រម​ចំពោះ &formatS1; និង &formatS2; នៃ​សេវាកម្ម​នៅ​លើ​បណ្ដាញ​សម្រាប់ Firefox ។">
+<!ENTITY fxaccount_create_account_policy_text2 "ដោយ​ការ​ធ្វើ​បន្ត, ខ្ញុំ​យល់​ព្រម​ចំពោះ &formatS1; និង &formatS2; នៃ​សេវាកម្ម​នៅ​លើ​បណ្ដាញ​សម្រាប់ Firefox ។">
 <!ENTITY fxaccount_create_account_button "បន្ទាប់">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "ជ្រើស​អ្វី​ដែល​ត្រូវ​ធ្វើ​សមកាលកម្ម">
 <!ENTITY fxaccount_create_account_sign_in_instead "មាន​គណនី​រួច​ហើយ? ចូល">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "ស្វែងយល់​បន្ថែម">
 
 <!ENTITY fxaccount_confirm_account_header "បញ្ជាក់​គណនី​របស់​អ្នក">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "តំណ​ការ​ផ្ទៀងផ្ទាត់​ត្រូវ​បាន​ផ្ញើ​ទៅ &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "ផ្ញើ​អ៊ីមែល​ម្ដង​ទៀត">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ផ្ញើ​អ៊ីមែល​ម្ដងទៀត">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "ចូល">
 <!ENTITY fxaccount_update_credentials_unknown_error "មិន​អាច​ចូល">
 
-<!ENTITY fxaccount_status_header "គណនី Firefox">
+<!ENTITY fxaccount_status_header2 "គណនី Firefox">
+<!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: បាន​បើក">
 <!ENTITY fxaccount_status_needs_verification2 "ចាំបាច់​ត្រូវ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក។ ប៉ះ​ដើម្បី​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់​ឡើង​វិញ។">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "ពាក្យ​សម្ងាត់">
 <!ENTITY fxaccount_status_tabs "បើក​ផ្ទាំង">
 <!ENTITY fxaccount_status_legal "ស្រប​ច្បាប់" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "លក្ខខណ្ឌ​ប្រើប្រាស់">
+<!ENTITY fxaccount_status_linkprivacy "សម្គាល់​ឯកជន">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "ជម្រើស syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "កំណត់​រចនា​សម្ព័ន្ធ &syncBrand.shortName.label;">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ត្រូវ​បាន​តភ្ជាប់">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "ប៉ះ​ដើម្បី​ចូល​ជា &formatS;">
