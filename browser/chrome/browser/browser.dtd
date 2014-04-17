@@ -686,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Menu e barra de ferramentas">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
@@ -711,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Acesso ao equipamento/microfone">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostra os sítios partilhados com o seu equipamento ou microfone">
 
-<!ENTITY mixedContentBlocked.helplink "Saber mais">
 <!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar mesmo se este conteúdo for bloqueado.">
 
 <!ENTITY pointerLock.notification.message "Prima ESC, em qualquer momento, para mostrar novamente.">
