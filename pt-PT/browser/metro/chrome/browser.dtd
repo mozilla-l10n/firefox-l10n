@@ -9,7 +9,7 @@
 <!ENTITY back.label 			"Recuar">
 <!ENTITY forward.label 			"Avançar">
 <!ENTITY newtab.label 			"Novo separador">
-<!ENTITY newPrivateTab.label   	"Novo separador privado">
+<!ENTITY newPrivateTab.label	"Novo separador privado">
 <!ENTITY closetab.label 		"Fechar separador">
 
 <!ENTITY autocompleteResultsHeader.label "Os seus resultados">
@@ -33,7 +33,7 @@
      are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
-<!ENTITY narrowTopSitesHeader.label			"Top de sítios">
+<!ENTITY narrowTopSitesHeader.label 		"Top de sítios">
 <!ENTITY narrowBookmarksHeader.label 		"Marcadores">
 <!ENTITY narrowRecentHistoryHeader.label	"Histórico recente">
 <!ENTITY narrowRemoteTabsHeader.label 		"Separadores remotos">
@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label 		"Mensagens">
 <!ENTITY consoleCodeEval.label 		"Código:">
 <!ENTITY consoleClear.label 		"Limpar">
+<!ENTITY consoleCopyAll.label      "Copiar">
 <!ENTITY consoleEvaluate.label 		"...">
 <!ENTITY consoleErrFile.label 		"Ficheiro fonte:">
 <!ENTITY consoleErrLine.label 		"Linha:">
 <!ENTITY consoleErrColumn.label 	"Coluna:">
+<!ENTITY consoleFollowCheckbox.label "Acompanhar">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label 				"Cortar">
@@ -136,12 +138,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 <!ENTITY firstRunBack.label "Clique para voltar à página anterior">
 <!ENTITY firstRunNewTab.label "Adicionar novo separador para aceder a um sítio web">
