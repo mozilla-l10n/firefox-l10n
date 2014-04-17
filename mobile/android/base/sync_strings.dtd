@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Set up &syncBrand.fullName.label; on your device to send tabs to other devices.">
 <!ENTITY sync.text.tab.sent.label "Your tab was sent!">
 <!ENTITY sync.text.tab.not.sent.label "There was a problem sending your tab.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "Gráfico de casilla de verificación de cuenta de Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Icono de las cuentas de Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Gráficos de introducción a las cuentas de Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Gráfico de sobre de cuentas de Firefox">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "Correo electrónico">
 <!ENTITY fxaccount_password_hint "Contraseña">
@@ -126,23 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "Volver a navegar">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "Términos del Servicio">
-<!ENTITY fxaccount_policy_linkprivacy "Aviso sobre privacidad">
+<!ENTITY fxaccount_policy_linkprivacy "Aviso de privacidad">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienvenido a &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Inicia sesión para sincronizar tus pestañas, marcadores, contraseñas &amp; y más.">
+<!ENTITY fxaccount_getting_started_description "Inicia sesión para sincronizar tus pestañas, marcadores, contraseñas y más.">
 <!ENTITY fxaccount_getting_started_get_started "Primeros pasos">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usando un versión antigua de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "Crear una cuenta de Firefox">
+<!ENTITY fxaccount_create_account_header2 "Crear una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deben ser al menos 8 caracteres">
 <!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "Para proceder, Estoy de acuerdo con el &formatS1; y &formatS2; de los servicios en línea de Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Al proceder, estoy de acuerdo con los &formatS1; y el &formatS2; de los servicios en línea de Firefox.">
 <!ENTITY fxaccount_create_account_button "Siguiente">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Elige lo que quieres compartir">
 <!ENTITY fxaccount_create_account_sign_in_instead "¿Ya tienes una cuenta? Inicia sesión">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Aprender más">
 
 <!ENTITY fxaccount_confirm_account_header "Confirma tu cuenta">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Un enlace de verificación ha sido enviado a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reenviar correo electrónico">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Correo de verificación enviado">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "Iniciar sesión">
 <!ENTITY fxaccount_update_credentials_unknown_error "No se pudo iniciar sesión">
 
-<!ENTITY fxaccount_status_header "Cuenta de Firefox">
+<!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Conectado como">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: habilitado">
 <!ENTITY fxaccount_status_needs_verification2 "Tu cuenta necesita ser verificada. Toca para volver a enviar el mensaje de verificación.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "Contraseñas">
 <!ENTITY fxaccount_status_tabs "Abrir pestañas">
 <!ENTITY fxaccount_status_legal "Aviso legal" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Términos del Servicio">
+<!ENTITY fxaccount_status_linkprivacy "Aviso de privacidad">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; opciones">
 <!ENTITY fxaccount_options_configure_title "Configura &syncBrand.shortName.label;">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; no está conectado">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toca para iniciar sesión como &formatS;">
