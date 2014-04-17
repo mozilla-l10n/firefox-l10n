@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)">
 
 <!ENTITY appmenu.tooltip                     "ତାଲିକା ଖୋଲନ୍ତୁ">
-
+<!ENTITY navbarOverflow.label                "ଅଧିକ ସାଧନଗୁଡ଼ିକ…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (R)">
@@ -96,19 +96,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
-<!ENTITY syncStartPanel.heading "&brandShortName;ବର୍ତ୍ତମାନ ସନ୍ତୁଳିତ ହେଉଛି">
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ସକ୍ରିୟ କରାଯାଇଛି">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; ସମୟ ଅନୁସାରେ ସନ୍ତୁଳନ ଆରମ୍ଭ କରିବ।">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ସହିତ ସଂଯୁକ୍ତ ହୋଇପାରିବ ନାହିଁ">
+<!ENTITY syncErrorPanel.subTitle "ସନ୍ତୁଳନକୁ ଚାଲୁ ରଖିବା ପାଇଁ ଦୟାକରି ସାଇନ ଇନ କରନ୍ତୁ।">
+<!ENTITY syncErrorPanel.signInButton.label "ସାଇନ ଇନ">
+<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "କ୍ଷୁଦ୍ରତମନ">
 <!ENTITY fullScreenRestore.tooltip "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ">
-
+<!ENTITY fullScreenClose.tooltip "ବନ୍ଦକରନ୍ତୁ">
 <!ENTITY fullScreenAutohide.label "ସାଧନପଟି ଲୁଚାନ୍ତୁ">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା ଅବସ୍ଥାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ଏହି ଭିଡ଼ିଓକୁ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY shareVideoCmd.accesskey "s">
-
+<!ENTITY feedsMenu.label "ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ">
 <!ENTITY subscribeToPageMenupopup.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ">
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY bookmarksMenuButton.unsorted.label "ଅସଜ୍ଜିତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
-
+<!ENTITY viewBookmarksSidebar2.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 <!ENTITY viewBookmarksToolbar.label         "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -189,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ସାଧନଗୁଡ଼ିକ">
@@ -254,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "ପ୍ରୟୋଗ ପରିଚାଳକ (A)">
-<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY devAppMgrMenu.label               "ପ୍ରୟୋଗ ପରିଚାଳକ">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ପସନ୍ଦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
+<!ENTITY clearRecentHistory.label               "ନିକଟତମ ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -323,38 +325,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ">
+<!ENTITY historyRestoreLastSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 
-
+<!ENTITY showAllHistoryCmd2.label "ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
+<!ENTITY appMenuCustomize.tooltip "ତାଲିକା ଏବଂ ସାଧନପଟିଗୁଡ଼ିକୁ ଇଚ୍ଛାମୁତାବକ କରନ୍ତୁ">
+<!ENTITY appMenuCustomizeExit.label "ଇଚ୍ଛାରୂପଣରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
+<!ENTITY appMenuCustomizeExit.tooltip "ଇଚ୍ଛାରୂପଣ ସମାପ୍ତ ହୋଇଛି">
+<!ENTITY appMenuHistory.label "ପୁରୁଣା ତଥ୍ୟ">
+<!ENTITY appMenuHistory.showAll.label "ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY appMenuHistory.clearRecent.label "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
+<!ENTITY appMenuHistory.restoreSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
+<!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">
+<!ENTITY appMenuHelp.tooltip "ସହାୟତା ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "ସାଧନପଟିରେ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "ତାଲିକାରେ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "ସାଧନପଟିକୁ ଗତି କରାନ୍ତୁ">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "ତାଲିକାକୁ ଗତି କରନ୍ତୁ">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "ସାଧନପଟିରୁ ବାହାରନ୍ତୁ">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "ତାଲିକାରୁ ବାହାର କରନ୍ତୁ">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "ଅଧିକ ବସ୍ତୁଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ">
@@ -565,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName;ରୁ ବିଦାୟ ନିଅନ୍ତୁ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ବିଦାୟ ନିଅନ୍ତୁ"> 
@@ -609,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "ଅଭିଧାନଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -654,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ସନ୍ତୁଳନ କରନ୍ତୁ">
 
 <!ENTITY socialToolbar.title        "ସାମାଜିକ ସାଧନପଟି ବଟନ">
@@ -661,7 +669,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "ଠିକ ଅଛି">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "ପାର୍ଶ୍ୱପଟି ଦର୍ଶାନ୍ତୁ">
+<!ENTITY social.toggleSidebar.label "ପାର୍ଶ୍ୱପଟିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "ସର୍ଭିସଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ…">
@@ -678,11 +686,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
-
+<!ENTITY customizeMode.tabTitle "&brandShortName; କୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
+<!ENTITY customizeMode.menuAndToolbars.header2 "ଅତିରିକ୍ତ ସାଧନ ଏବଂ ବିଶେଷତାଗୁଡ଼ିକ">
+<!ENTITY customizeMode.menuAndToolbars.empty "ଅଧିକ ସାଧନ ଆଶାକରୁଛନ୍ତି କି?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "ହଜାର ହଜାର ଏଡ଼ ଅନଗୁଡ଼ିକରୁ ବାଛନ୍ତୁ">
+<!ENTITY customizeMode.restoreDefaults "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତଗୁଡିକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
+<!ENTITY customizeMode.toolbars "ସାଧନପଟିକୁ ଦର୍ଶାନ୍ତୁ /ଲୁଚାନ୍ତୁ">
+<!ENTITY customizeMode.titlebar "ଶୀର୍ଷକ ପଟି">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ଚାର୍ଟଗୁଡ଼ିକୁ ଲକ୍ଷ୍ଯ କରନ୍ତୁ">
@@ -701,7 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "କ୍ୟାମେରା / ମାଇକ୍ରୋଫନ ପ୍ରବେଶାନୁମତି">
 <!ENTITY webrtcIndicatorButton.tooltip "କ୍ୟାମେରା କିମ୍ବା ମାଇକ୍ରୋଫୋନରେ ଆପଣ ବର୍ତ୍ତମାନ ସହଭାଗ କରୁଥିବା ସାଇଟଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 
-<!ENTITY mixedContentBlocked.helplink "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 <!ENTITY mixedContentBlocked.moreinfo "ଏହି ବିଷୟବସ୍ତୁକୁ ଅଟକାଇବା ସତ୍ତ୍ୱେ ଅଧିକାଂଶ ୱେବସାଇଟଗୁଡ଼ିକ ଏପର୍ଯ୍ୟନ୍ତ ଠିକ ଭାବରେ କାମ କରୁଅଛି।">
 
 <!ENTITY pointerLock.notification.message "ଏହାକୁ ଯେକୌଣସି ସମୟରେ ପୁଣିଥରେ ଦର୍ଶାଇବା ପାଇଁ ESC କୁ ଦବାନ୍ତୁ।">
@@ -726,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; କୁ ଏହି କ୍ରାସ ବିଷୟରେ ଅବଗତ କରାନ୍ତୁ ଯାହାଫଳରେ ସେମାନେ ଏହାର ସମାଧାନ କରିପାରିବେ।">
 <!ENTITY tabCrashed.tryAgain "ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ">
 
+<!ENTITY uiTour.infoPanel.close "ବନ୍ଦକରନ୍ତୁ">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -738,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "କାର୍ଯ୍ୟ କଳାପ ସୂଚକ">
 <!ENTITY appMenuButton.label           "ତାଲିକା">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
-
+<!ENTITY feedButton.label              "ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ">
 <!ENTITY feedButton.tooltip            "ଏହି ପୃଷ୍ଠାର ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ…">
 <!ENTITY bookmarksButton.tooltip       "ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY historyButton.tooltip         "ଆପଣ ନିକଟରେ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">

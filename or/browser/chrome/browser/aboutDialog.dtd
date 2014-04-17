@@ -8,10 +8,12 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "ଅଦ୍ୟତନ କରିବା ପାଇଁ ପୁନଃଚାଳନ କରନ୍ତୁ">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "ଅଦ୍ୟତନକୁ ପ୍ରୟୋଗ କରନ୍ତୁ…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
