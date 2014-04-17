@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "ಇಳಿಕೆಗಳು">
-
-
+<!ENTITY aboutDownloads.header                     "ನಿಮ್ಮ ಡೌನ್ಲೋಡುಗಳು">
+<!ENTITY aboutDownloads.empty                      "ಡೌನ್ಲೋಡುಗಳು ಇಲ್ಲ">
 
 <!ENTITY aboutDownloads.remove                     "ಅಳಿಸು">
-
+<!ENTITY aboutDownloads.removeAll                  "ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿ">
 <!ENTITY aboutDownloads.pause                      "ವಿರಾಮ">
 <!ENTITY aboutDownloads.resume                     "ಪುನರಾರಂಭಿಸು">
 <!ENTITY aboutDownloads.cancel                     "ರದ್ದು ಮಾಡು">
