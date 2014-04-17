@@ -8,61 +8,64 @@
 <!ENTITY index.help "Alîkarî">
 
 <!ENTITY device.screenshot "Wêneyê ekranê">
-<!ENTITY device.screenshotTooltip "Wêneyê ekranê yê rewşa niha ya cîhazê di hilpekîneke nû de vedike.">
+
 <!ENTITY device.title "Navenda Kontrola Cîhazê">
 <!ENTITY device.notConnected "Negirêdayî ye. Tika ye cîhaza xwe ya li jêrê girêbide.">
 <!ENTITY device.startApp "Dest pê bike">
-<!ENTITY device.startAppTooltip "Vê sepanê li ser cîhazê dide destpêkirin.">
+
 <!ENTITY device.stopApp "Bide sekinandin">
-<!ENTITY device.stopAppTooltip "Vê sepanê li ser cîhazê dide sekinandin.">
+
 <!ENTITY device.debugApp "Sererastkirina Çewtiyan">
-<!ENTITY device.debugAppTooltip "Eyarên Pêşketî yên girêdayî vê appê yên li ser cîhazê veke.">
+
 <!ENTITY device.name "Nav">
 
 <!ENTITY device.privileged "Biîmtiyaz">
 <!ENTITY device.certified "Bi sertîfîka">
 <!ENTITY device.allow "Destûrê bide">
-<!ENTITY device.allowTooltip "Ev destûr ji bo sepanên vê şêwazê tê dayîn.">
+
 <!ENTITY device.prompt "Daxwazkar">
-<!ENTITY device.promptTooltip "Ji bo vê destûrê, pêwîst e ku ev cure sepan ji bikarhêneran bipirsin.">
+
 <!ENTITY device.deny "Red bike">
-<!ENTITY device.denyTooltip "Ev cure sepan nikarin vê destûrê bi kar bînin.">
+
 <!ENTITY device.installedApps "Sepanên barkirî">
 <!ENTITY device.installedAppsTooltip "Li lîsteyeke sepanên li ser cîhazê hatine sazkirin binêre. Hinek sepanên, mîna sepanên pejirandî, dibe ku balê nekişandibin.">
 <!ENTITY device.permissions "Destûr">
-<!ENTITY device.permissionsTooltip "Tabloyeke ku destûrên xwegihandinê yên cureyên cuda yên sepanan, bibîne.">
+
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "Alîkarî">
 
-<!ENTITY connection.connectTooltip "Bi cîhazê ve girêdide.">
 <!ENTITY connection.disconnect "Girêdanê qut bike">
-<!ENTITY connection.disconnectTooltip "Girêdanê ji cîhaza heyî yan jî ji sîmûuatorê qut bike.">
+
 <!ENTITY connection.notConnected2 "Negirêdayî.">
 <!ENTITY connection.connectTo "Girêbide:">
 <!ENTITY connection.noDeviceFound "Tu cîhaz nehate dîtin. Cîhazekê girêbide.">
 <!ENTITY connection.changeHostAndPort "Biguherîne">
-<!ENTITY connection.changeHostAndPortTooltip "Ji bo bikaranîna cîhazê divê host û port bên guhertin. (Bi standartî localhost:6000)">
-<!ENTITY connection.startSimulator "Destpêka Sîmulatorê">
-<!ENTITY connection.startSimulatorTooltip "Sîmulatorê bi mînakî bide destpêkirin û girêbide.">
 
-<!ENTITY connection.saveConnectionInfoTooltip "Host û portê tomar bike.">
+<!ENTITY connection.startSimulator "Destpêka Sîmulatorê">
+
+
+
 <!ENTITY connection.connecting "Tê girêdan…">
 <!ENTITY connection.disconnecting "Girêdan tê qutkirin…">
 <!ENTITY connection.cancel "Betal">
-<!ENTITY connection.cancelConnectTooltip "Girêdana pêkhatî qut bike.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Ji rewşa girêdana Sîmûlator derkeve û vegere halê berê.">
+
+
 <!ENTITY connection.or "yan">
 <!ENTITY connection.noSimulatorInstalled "Tu sîmulator nehatiye sazkirin.">
 <!ENTITY connection.installOneSimulator "Sîmulatorê saz bike">
-<!ENTITY connection.installOneSimulatorTooltip "Bi jêbarkirina add-ona têkildar, versiyoneke Sîmulatorê saz bike.">
+
 <!ENTITY connection.installAnotherSimulator "Têxê">
-<!ENTITY connection.installAnotherSimulatorTooltip "Bi jêbarkirina add-ona têkildar, versiyoneke zêdek ya Sîmulatorê saz bike.">
+
 <!ENTITY connection.startRegisteredSimulator "Destpêk:">
 
 <!ENTITY projects.localApps "Sepanên Herêmî">
 <!ENTITY projects.addApp "Têxê">
 <!ENTITY projects.addPackaged "Sepana pakêtkirî têxê">
-<!ENTITY projects.addPackagedTooltip "Ji kompûtera xwe sepaneke nû ya pakêtkirî têxê (rêzikek).">
+
 <!ENTITY projects.addHosted "Sepana bûye Host lê zêde bike">
 
 <!ENTITY projects.title "Sepanên Herêmî">
@@ -79,9 +82,11 @@
 <!ENTITY projects.manifestEditor "Edîtora manîfestoyê">
 <!ENTITY projects.manifestEditorTooltip "Manîfestoya sepanên xwe ji panela jêrê serast bike. Bişkoka Nûkirinê dê guhertinên te tomar bike û sepanê nû bike.">
 <!ENTITY projects.manifestViewer "Nîşandera Manîfestoyê">
-<!ENTITY projects.manifestViewerTooltip "Bala xwe bide manîfestoya sepanê ya li panela jêrê.">
+
 <!ENTITY projects.valid "Derbasdar">
 <!ENTITY projects.error "Xeletî">
+
+
 
 
 <!ENTITY help.title "Birêveberiya Sepanê">
