@@ -1,28 +1,11 @@
-<!--
-# Translator(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# anonymous <anonymous@n.a>
-# Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
+
 
 <!ENTITY title      "Conectare">
 <!ENTITY header     "Conectare la dispozitivul de la distanță">
@@ -36,12 +19,11 @@
 <!ENTITY errorTimeout "Eroare: conexiunea a expirat.">
 <!ENTITY errorRefused "Eroare: conexiune refuzată.">
 <!ENTITY errorUnexpected "Eroare neașteptată.">
-
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
 <!ENTITY remoteHelp "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. For more, see the ">
 <!ENTITY remoteDocumentation "documentation">
 <!ENTITY remoteHelpSuffix ".">
-
 
