@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "पृष्ठ की लोडिंग में समस्या">
-<!ENTITY retry.label "Try Again">
+<!ENTITY retry.label "फिर कोशिश करें">
 <!-- Specific error messages -->
 
 
@@ -24,7 +24,7 @@
 <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "फाइल नहीं मिला">
+<!ENTITY fileNotFound.title "फाइल नहीं मिली">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> 
 <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> 
@@ -48,19 +48,19 @@
 <!ENTITY notCached.title "दस्तावेज़ का समय समाप्त">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "ऑफलाइन मोड">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Please contact the website owners to inform them of this problem.</li> 
+<li>कृपया इस समस्या को सूचित करने के लिए वेबसाइट के स्वामी को संपर्क करें।</li> 
 </ul>">
 
 <!ENTITY netReset.title "कनेक्शन रिसेट किया गया था">
@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "कनेक्शन का समय समाप्त हो गया">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "पता समझा नहीं गया था">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> 
 </ul>">
 
@@ -82,13 +82,13 @@
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Check the proxy settings to make sure that they are correct.</li> 
-<li>Check to make sure your device has a working data or Wi-Fi connection.</li> 
+<li>वे सही हैं यह सुनिश्चत करने के लिए प्रॉक्सी सेटिंग्स को जाँचें। </li> 
+<li>यह सुनिश्चत करने के लिए जाँचें कि आपके डिवाइस का वर्किंग डाटा या Wi-Fi कनेक्शन है।</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होता है.</li> 
+<li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होती है.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर से अप्रत्याशित अनुक्रिया">
@@ -114,10 +114,10 @@
 <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "या आप एक अपवाद जोड़ सकते हैं…">
