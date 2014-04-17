@@ -28,7 +28,7 @@
 <!-- Flyout when user has just connected -->
 
 <!ENTITY sync.flyout.setupsuccess.description1      "Te &brandShortName;ê bi hesabê &syncBrand.shortName.label;ê ve girêda">
-<!ENTITY sync.flyout.setupsuccess.description2      "Daneyên te yên &syncBrand.shortName.label;ê li paşperdeyê tên jêbarkirin. Hilpekînên hevcotkirî dê li Rûpela Destpêkê ya &brandShortName;ê xuya bibin">
+<!ENTITY sync.flyout.setupsuccess.description2      "Daneyên te yên &syncBrand.shortName.label; ê li paşperdeyê tên jêbarkirin. Hilpekînên hevcotkirî dê li Rûpela Destpêkê ya &brand.ShortName; ê xuya bibin">
 <!-- Flyout when setup failed -->
 
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName;ê nekarî girêdanê bi hesabê &syncBrand.shortName.label;ê re çêke.">

@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "h">
 
 <!ENTITY  color                           "Deq û Rûerd">
-<!ENTITY  textColor.label                 "Deq:">
-<!ENTITY  textColor.accesskey             "D">
+
+
 <!ENTITY  backgroundColor.label           "Rûerd:">
 <!ENTITY  backgroundColor.accesskey       "R">
 <!ENTITY  useSystemColors.label           "Rengên pergalê bikar bîne">

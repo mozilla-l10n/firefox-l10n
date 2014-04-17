@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Ramanan Bişîne…">
 <!ENTITY helpFeedbackPage.accesskey  "R">
 
+<!ENTITY helpShowTour.label             "Tura &brandShortName;ê">
+<!ENTITY helpShowTour.accesskey         "T">
+
 <!ENTITY preferencesCmdMac.label        "Vebijêrk">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Mêjû">
 <!ENTITY dataSection.label            "Dane">
 
-<!ENTITY itemHistoryAndDownloads.label     "Raboriya ger û jêbarkirinan">
-<!ENTITY itemHistoryAndDownloads.accesskey "R">
-<!ENTITY itemFormSearchHistory.label       "Mêjûya Lêgerîna Formê &amp;">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+
+
+
 <!ENTITY itemPasswords.label               "Şîfreyên Tomarbûyî">
 <!ENTITY itemPasswords.accesskey           "n">
 <!ENTITY itemCookies.label                 "Çerez">

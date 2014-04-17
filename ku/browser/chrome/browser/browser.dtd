@@ -14,6 +14,9 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
+
+<!ENTITY appmenu.tooltip                     "Menuyê veke">
+<!ENTITY navbarOverflow.label                "Amûrên din…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
@@ -26,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Hilpekînên hêla rastê bigire">
 <!ENTITY  closeTabsToTheEnd.accesskey        "a">
 <!ENTITY  closeOtherTabs.label               "Hilpekînên din bigire">
-<!ENTITY  closeOtherTabs.accesskey           "d">
+<!ENTITY  closeOtherTabs.accesskey           "g">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,8 +57,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Hilpekîna Nû">
 <!ENTITY tabCmd.accesskey "H">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Cih Veke...">
-<!ENTITY openLocationCmd.accesskey "C">
 <!ENTITY openFileCmd.label "Pelî Veke...">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,9 +96,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hemû Hilpekînan Nîşan Bide">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+<!ENTITY fxaSignIn.label "Danişîna &syncBrand.shortName.label;ê veke">
+<!ENTITY fxaSignInError.label "Dîsa têkeve &syncBrand.shortName.label;ê">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; hat çalakirin">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; dê kêliyeke din bê hevcotkirin.">
+<!ENTITY syncErrorPanel.heading "Bi &syncBrand.shortName.label;ê re nayê girêdan">
+<!ENTITY syncErrorPanel.subTitle "Ji bo dewamkirina hevcotkirinê tika ye danişînê veke.">
+<!ENTITY syncErrorPanel.signInButton.label "Têkevê">
+<!ENTITY syncErrorPanel.signInButton.accesskey "T">
+
+
 <!ENTITY fullScreenMinimize.tooltip "Biçûk Bike">
 <!ENTITY fullScreenRestore.tooltip "Danişîna Berê">
-<!ENTITY fullScreenClose.tooltip "Girtin">
+<!ENTITY fullScreenClose.tooltip "Bigire">
 <!ENTITY fullScreenAutohide.label "Darikê Amûran Veşêre">
 <!ENTITY fullScreenAutohide.accesskey "D">
 <!ENTITY fullScreenExit.label "Ji Moda Dîmender Tijî derkeve">
@@ -115,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Bijare">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Vê Rûpelê Têxe Nava Bijareyan...">
+<!ENTITY editThisBookmarkCmd.label "Vê bijareyê serast bike">
 <!ENTITY bookmarkThisPageCmd.commandkey "D">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Vê rûpelê parve bike">
@@ -128,6 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "p">
 <!ENTITY shareVideoCmd.label "Vê vîdeoyê parve bike">
 <!ENTITY shareVideoCmd.accesskey "p">
+<!ENTITY feedsMenu.label "Bibe abone">
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
@@ -154,24 +167,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Çap bike">
 <!ENTITY printButton.tooltip          "Vê rûpelê çap bike">
 
-<!ENTITY backForwardItem.title        "Paşve/Pêşve">
 <!ENTITY locationItem.title           "Cih">
 <!ENTITY searchItem.title             "Lêgerîn">
-<!ENTITY bookmarksItem.title          "Bijare">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Serûpel">
 
 <!ENTITY tabGroupsButton.label        "Komên hilpekînan">
-<!ENTITY tabGroupsButton.tooltip      "Hilpekînan li koman dabeş bike">
 
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bijare">
-<!ENTITY bookmarksMenuButton.tooltip        "Bijareyên xwe bibîne">
 <!ENTITY bookmarksMenuButton.unsorted.label "Bijareyên nehatî rêzkirin">
-<!ENTITY viewBookmarksSidebar.label         "Di Darikê Kêlekê de Nîşan Bide">
+<!ENTITY viewBookmarksSidebar2.label        "Di darikê dijareyan de nîşan bide">
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -296,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Vebijêrk">
 <!ENTITY preferencesCmdUnix.accesskey     "V"> 
 
-<!ENTITY clearRecentHistory.label               "Mêjûya Nêz Paqij Bike…">
+<!ENTITY clearRecentHistory.label               "Raboriya nêzîk paqij bike…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "H">
 
@@ -322,6 +331,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Takekes bike">
+<!ENTITY appMenuCustomize.tooltip "Menuyê û darika amûran taybet bike">
+<!ENTITY appMenuCustomizeExit.label "Ji taybetkirinê derkeve">
+<!ENTITY appMenuCustomizeExit.tooltip "Taybetkirinê biqedîne">
+<!ENTITY appMenuHistory.label "Raborî">
+<!ENTITY appMenuHistory.showAll.label "Hemû Raboriyê nîşan bide">
+<!ENTITY appMenuHistory.clearRecent.label "Raboriya nêzîk paqij bike…">
+<!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
+<!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
+<!ENTITY appMenuHelp.tooltip "Menuya Alîkariyê veke">
+
+<!ENTITY customizeMenu.addToToolbar.label "Têxe nav darikê amûran">
+<!ENTITY customizeMenu.addToToolbar.accesskey "T">
+<!ENTITY customizeMenu.addToPanel.label "Têxe nav Menuyê">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Bibe nav darikê amûran">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "b">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Bibe nav Menuyê">
+<!ENTITY customizeMenu.moveToPanel.accesskey "n">
+<!ENTITY customizeMenu.removeFromToolbar.label "Ji darikê amûran rake">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Ji Menuyê rake">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Zêdetir hêmanan têxê…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "t">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Peyveke lêgerînê yan jî navnîşanek">
@@ -407,7 +445,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY switchToMetroCmd.label       "&brandShortName;ê bi şêweya Windows 8ê veke">
-<!ENTITY switchToMetroCmd2.label      "Di &brandShortName;ê de bo Windows 8 Touchê dîsa veke">
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
@@ -533,6 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Derkeve"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">
+<!ENTITY quitApplicationCmdWin.tooltip     "Ji &brandShortName;ê derkeve">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Derkeve"> 
@@ -576,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "J">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ferhengan têxê...">
 <!ENTITY spellAddDictionaries.accesskey "a">
@@ -621,10 +660,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "s">
 <!ENTITY syncSyncNowItem.label        "Niha senkronîze bike">
 <!ENTITY syncSyncNowItem.accesskey    "s">
+<!ENTITY syncReAuthItem.label         "Têkiliya bi &syncBrand.shortName.label; ê re dîsa çêke…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Bişkoka daramûran ya civakî">
-<!ENTITY social.notLoggedIn.label   "Danişîn venebû">
 
 <!ENTITY social.ok.label       "Temam">
 <!ENTITY social.ok.accesskey   "T">
@@ -644,6 +684,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "Z">
 <!ENTITY social.closeNotificationItem.label "Ne niha">
 
+
+
+<!ENTITY customizeMode.tabTitle "&brandShortName;ê taybet bike">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Amûr û taybetiyên pêvekî">
+<!ENTITY customizeMode.menuAndToolbars.empty "Amûrên din dixwazî?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Ji nav bi hezaran ad-onan hilbijêre">
+<!ENTITY customizeMode.restoreDefaults "Vegerîne ya standard">
+<!ENTITY customizeMode.toolbars "Darikê amûran nîşan bide / veşêre">
+<!ENTITY customizeMode.titlebar "Darikê sernavê">
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Li ser sohbetan hûr bibe">
 <!ENTITY social.chatBar.accesskey "b">
@@ -661,7 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Gihîştina Kamera / Mîkrofonê">
 <!ENTITY webrtcIndicatorButton.tooltip "Malperên ku tu niha kamera yan jî mîkrofona xwe pê re parve dikî nîşan dibe">
 
-<!ENTITY mixedContentBlocked.helplink "Zêdetir bizane…">
 <!ENTITY mixedContentBlocked.moreinfo "Eger ev taybetî bête astengkirin jî gelek malper dê bixebitin.">
 
 <!ENTITY pointerLock.notification.message "Dema bixwazî dîsa bibînî pêl ESCê bike.">
@@ -685,6 +734,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.message "Mixabin ev şerm e. Me ceriband ku em rûpelê vekin, lê rûpel bersivê nade.">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName;ê ji hilweşînê agahdar bike da ku dikaribe çareser bike.">
 <!ENTITY tabCrashed.tryAgain "Dîsa Biceribîne">
+
+<!ENTITY uiTour.infoPanel.close "Bigire">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -720,4 +771,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "Kontrola zoomê">
 <!ENTITY addonBarCloseButton.tooltip   "Darikê amûran bigire">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Paşve/Pêşve">
+<!ENTITY viewBookmarksSidebar.label    "Di Darikê Kêlekê de Nîşan Bide">
+<!ENTITY bookmarksItem.title           "Bijare">
+<!ENTITY openLocationCmd.label         "Cih Veke...">
+<!ENTITY openLocationCmd.accesskey     "C">
+<!ENTITY bookmarksMenuButton.tooltip   "Bijareyên xwe bibîne">
+<!ENTITY switchToMetroCmd2.label       "Di &brandShortName;ê de bo Windows 8 Touchê dîsa veke">
+<!ENTITY tabGroupsButton.tooltip       "Hilpekînan li koman dabeş bike">
 <!-- end of strings to be removed post-Australis -->

@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Tevî beloq bike">
 <!ENTITY highlightAll.accesskey "T">
 <!ENTITY highlightAll.tooltiptext "Hemû îfadeyên hatî dîtin beloq dike">
-<!ENTITY caseSensitive.label "Tîpên hûrdek-girdek li hev bîne">
-<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.label "Ji bo tîpên girdek-hûrdek bihîstyar">
+<!ENTITY caseSensitive.accesskey "b">
 <!ENTITY caseSensitive.tooltiptext "Ji bo tîpên hûrdek-girdek bihîstyar be">
