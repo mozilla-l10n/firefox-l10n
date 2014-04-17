@@ -26,14 +26,15 @@
 <!ENTITY clearPrivateData.offline                     "Dados web locais">
 <!ENTITY clearPrivateData.logins                      "Sessões ativas">
 
-<!ENTITY optionsHeader.privacy.passwords.label        "Memorizar senhas">
-<!ENTITY doNotTrack.title                             "Não monitorizar">
-<!ENTITY doNotTrack.options.doNotTrack								"Indicar aos sítios web que não quero ser monitorizado">
-<!ENTITY doNotTrack.options.doTrack									  "Indicar aos sítios web que quero ser monitorizado">
-<!ENTITY doNotTrack.options.default 		              "Nada indicar sobre as preferências de monitorização">
-<!ENTITY doNotTrack.learnMoreLink                     "Saber mais">
+<!ENTITY optionsHeader.privacy.passwords.label                   "Memorizar senhas">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Mostrar botões de navegação">
+<!ENTITY doNotTrack.title                                        "Não monitorizar">
+<!ENTITY doNotTrack.options.doNotTrack							 "Indicar aos sítios web que não quero ser monitorizado">
+<!ENTITY doNotTrack.options.doTrack							     "Indicar aos sítios web que quero ser monitorizado">
+<!ENTITY doNotTrack.options.default 		                     "Nada indicar sobre as preferências de monitorização">
+<!ENTITY doNotTrack.learnMoreLink                                "Saber mais">
 
-<!ENTITY optionsHeader.reporting.title                "Relator de erros">
+<!ENTITY optionsHeader.reporting.title                           "Relator de erros">
 <!ENTITY optionsHeader.reporting.crashes.label        "O &brandShortName; envia os relatórios de erro para ajudar a Mozilla a tornar o navegador mais estável e seguro">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Incluir o endereço da página em que estava">
 <!ENTITY optionsHeader.telemetry.title                "Telemetria">
