@@ -44,11 +44,11 @@
 <!ENTITY certmgr.editcert.trustemail          "हे प्रमाणपत्र मेल वापरकर्त्यांना ओळखू शकते.">
 <!ENTITY certmgr.editcert.trustobjsign        "हे प्रमाणपत्र सॉफ्टवेअर निर्मात्यांना ओळखू शकते.">
 <!ENTITY certmgr.editemailcert.title          "ईमेल प्रमाणपत्र विश्वासर्ह रचना संपादित करा">
+<!ENTITY certmgr.editemailcert.edittrust      "प्रमाणपत्र विश्वासर्हता सेटिंग्ज संपादित करा:">
+<!ENTITY certmgr.editemailcert.dotrust        "ह्या प्रमाणपत्राची खरेपणावर विश्वास ठेवा.">
+<!ENTITY certmgr.editemailcert.donttrust      "ह्या प्रमाणपत्राच्या खरेपणावर विश्वास ठेवू नका.">
 
-
-<!ENTITY certmgr.editemailcert.donttrust      "ह्या प्रमाणपत्राची अधिप्रमाणनतेवर विश्वास ठेवू नका.">
-
-<!ENTITY certmgr.deletecert.title             "काढून टाका प्रमाणपत्र">
+<!ENTITY certmgr.deletecert.title             "प्रमाणपत्र नष्ट करा">
 <!ENTITY certmgr.deletecert.beforename        "आपण हे प्रमाणपत्र काढून टाकण्याची विनंती केली आहे:">
 <!ENTITY certmgr.deletecert.aftername         "आपल्याला हे प्रमाणपत्र नक्की काढून टाकायचे?">
 <!ENTITY certmgr.deleteusercert.title         "आपले प्रमाणपत्र काढून टाका">

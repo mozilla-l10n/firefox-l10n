@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "लेखी मजकुर आणि पृष्ठभाग">
-<!ENTITY  textColor.label                 "मजकूर:">
-<!ENTITY  textColor.accesskey             "t">
+
+
 <!ENTITY  backgroundColor.label           "पार्श्वभूमी:">
 <!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "प्रणाली रंगांचा वापर करा">

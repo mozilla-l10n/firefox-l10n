@@ -72,8 +72,8 @@
 <!ENTITY netTimeout.title "संपर्क साधण्याची वेळ संपली">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "पत्ता समझला नाही">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>तुम्हाला हा पत्ता पाहण्यासाठी दुसरा सॉफ्टवेअर स्थापन करावा लागेल.</li> 
 </ul>">
 

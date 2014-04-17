@@ -66,6 +66,7 @@
 <!ENTITY display.key                  "l">
 
 
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)

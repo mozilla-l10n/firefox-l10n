@@ -42,6 +42,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.connecting "जोडणी करत आहे…">
 
 <!ENTITY connection.cancel "रद्द करा">
@@ -76,6 +80,8 @@
 
 
 <!ENTITY projects.valid "वैधता">
+
+
 
 
 
