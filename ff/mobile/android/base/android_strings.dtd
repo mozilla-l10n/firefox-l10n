@@ -10,7 +10,7 @@
 
 <!ENTITY  bookmarks_title "Maantore">
 
-<!ENTITY  reading_list_title "Nana Tara Doggol">
+<!ENTITY  reading_list_title "Doggol Taro">
 
 <!ENTITY  switch_to_tab "Yah to tabbere">
 
@@ -47,13 +47,14 @@
 <!ENTITY history_older_section "Hecci balɗe 7">
 
 <!ENTITY go "Yah">
-<!ENTITY search "Yiylo">
+
 <!ENTITY reload "Hesɗitin">
 <!ENTITY forward "Yeeso">
-<!ENTITY menu "Dosol">
+
 <!ENTITY back "Caggal">
-<!ENTITY stop "Dartin">
+
 <!ENTITY site_security "Kisal Lowre">
+<!ENTITY save "Danndu">
 
 <!ENTITY close_tab "Uddu Tabbere">
 <!ENTITY one_tab "tabbere 1">
@@ -66,20 +67,39 @@
 <!ENTITY settings_title "Teelte">
 <!ENTITY pref_category_advanced "Ceeɓore">
 <!ENTITY pref_category_customize "Heertin">
-<!ENTITY pref_category_search2 "Yiylo teelte">
+
+
 <!ENTITY pref_category_display "Jaytino">
 <!ENTITY pref_category_privacy_short "Suturo">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
 <!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
 
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY pref_category_devtools "Kuutorɗe topaajo">
 <!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
 <!ENTITY pref_developer_remotedebugging_docs "Ɓeydu humpito">
 <!ENTITY pref_remember_signons "Siiftor finndeeji">
+
+
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+<!ENTITY pref_home_updates "Kesɗitine jaajol">
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Heertin">
@@ -134,9 +154,9 @@ size. -->
 <!ENTITY pref_sync "Sanngoɗin">
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 <!ENTITY pref_import_android "Jiggo iwde e Android">
-<!ENTITY pref_private_data_history "Peeragol &amp; aslol gaawte">
-<!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
-<!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
+
+
+
 <!ENTITY pref_private_data_passwords "Finndeeji danndaaɗi">
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
@@ -148,16 +168,18 @@ size. -->
 
 <!ENTITY pref_vendor_feedback "Hokku duttinal">
 
-<!ENTITY pref_search_default "Goowaaɗo">
+<!ENTITY pref_dialog_default "Goowaaɗo">
 
 
 
-<!ENTITY datareporting_notification_title "&brandShortName; limlimte &amp; keɓe">
+<!ENTITY pref_panels_show "Hollu">
+
+
 <!ENTITY datareporting_notification_action_long "Suɓo humpito ngo lollintaa">
 <!ENTITY datareporting_notification_action "Suɓo ko lollintee">
 <!ENTITY datareporting_notification_summary "Ngam ƴellitde dawtol maa, &brandShortName; neldat won humpito e jaajol to &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ngam ƴellitde dawtol maa, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -176,11 +198,12 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
 <!ENTITY datareporting_wifi_title "Carwe nokkuure &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Wallu moƴƴitinde carwe tolnoode Web Udditiiɗo so woppude &brandShortName; roɓindoo tee nelda keɓe humpito seluleer cuuriiɗo">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Kesɗitine jaajol">
-<!ENTITY pref_update_autodownload_wifi "E Wifi tan">
-<!ENTITY pref_update_autodownload_disabled "Daaƴaama">
-<!ENTITY pref_update_autodownload_enabled "Daaƴaaɗo">
+<!ENTITY pref_update_autodownload_never "Hay sahaa">
+
 
 <!ENTITY quit "Yaltu">
 
@@ -195,6 +218,7 @@ size. -->
 <!ENTITY save_as_pdf "Danndu e PDF">
 <!ENTITY find_in_page "Yiylo e Hello">
 <!ENTITY desktop_mode "Ɗaɓɓit Lowre Biro">
+
 <!ENTITY tools "Kuutorɗe">
 <!ENTITY new_tab "Tabbere Hesere">
 <!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
@@ -211,6 +235,11 @@ size. -->
 <!ENTITY find_prev "Ɓennuɗo">
 <!ENTITY find_next "Payɗo">
 <!ENTITY find_close "Uddu">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Tar">
+<!ENTITY media_pause "Sabbo">
+
 
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
@@ -218,19 +247,22 @@ size. -->
 
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
 <!ENTITY contextmenu_share "Simmin">
-<!ENTITY contextmenu_pasteandgo "Ɗakku &amp; Yah">
+<!ENTITY contextmenu_pasteandgo "Ɗakku Njahaa">
 <!ENTITY contextmenu_paste "Ɗakku">
 <!ENTITY contextmenu_copyurl "Natto Ñiiɓirde">
 <!ENTITY contextmenu_edit_bookmark "Taƴto">
 <!ENTITY contextmenu_subscribe "Lulno e Hello">
 <!ENTITY contextmenu_site_settings "Taƴto Teelte Lowre">
 
-<!ENTITY contextmenu_top_bookmarks_pin "Ñippu Lowre">
-<!ENTITY contextmenu_top_bookmarks_unpin "Ñippit Lowre">
+
+
+
 
 <!ENTITY pref_titlebar_mode "Palal tiitoonde">
 <!ENTITY pref_titlebar_mode_title "Hollu tiitoonde hello">
 <!ENTITY pref_titlebar_mode_url "Hollu ñiiɓirde hello">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY history_removed "Hello momtaama">
 
@@ -246,6 +278,7 @@ size. -->
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
 
+<!ENTITY reading_list_add "Ɓeydu e Doggol Taro">
 <!ENTITY reading_list_added "Hello ɓeydaama e Doggol Taro maa">
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
 <!ENTITY reading_list_failed "Horiima ɓeydude hello to Doggol Taro">
@@ -271,19 +304,20 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
 
-<!ENTITY home_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
 
+<!ENTITY home_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
 
 
 
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
 
 <!ENTITY filepicker_title "Labo Fiilde">
@@ -326,10 +360,7 @@ iwde e Android">
 <!ENTITY bookmarkhistory_import_history "Nana jiggoo aslol 
 iwde e Android">
 <!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Aɗa yiɗi hurminde basiye njiilaw &formatS;?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -358,3 +389,6 @@ iwde e Android">
 
 
 
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_done "Gasii">

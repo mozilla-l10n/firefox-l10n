@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Ceŋagol ngol honaama waktu">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Ñiiɓirde ndee faamaaka">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Ñiiɓirde ndee faamaaka">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> 
 </ul>">
 
