@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "ଆମେ ସମସ୍ୟାର ସମାଧାନ ପାଇଁ କ୍ରାସ ବିବରଣୀକୁ ବ୍ୟବହାର କରିଥାଉ ଏବଂ ଏହାକୁ ଉନ୍ନତ କରିଥାଉ। ଆମେ ବର୍ଣ୍ଣନା କରାଯାଇଥିବା ଅନୁସାରେ ଆପଣଙ୍କ ସୂଚନାକୁ ନିୟନ୍ତ୍ରଣ କରିଥାଉ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; ଗୋପନୀୟତା ନିତୀ">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
 <!ENTITY crashprompt.acceptbutton    "ବିବରଣୀ ପଠାନ୍ତୁ">
 <!ENTITY crashprompt.refusebutton    "ପଠାନ୍ତୁ ନାହିଁ">

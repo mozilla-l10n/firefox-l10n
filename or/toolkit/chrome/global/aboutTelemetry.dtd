@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ବ୍ରାଉଜର ଅଟକିଯାଇଛି">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "ଥ୍ରେଡ଼ ହ୍ୟାଙ୍ଗ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  ଆୟତ ଚିତ୍ର">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ଆୟତ ଚିତ୍ରକୁ ଏଡ଼-ଅନଗୁଡ଼ିକ ଦ୍ୱାରା ସଂଗ୍ରହ କରାଯାଇଛି">
 
+<!ENTITY aboutTelemetry.toggle "ବିଭାଗକୁ ପକାଇବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ">
 
 <!ENTITY aboutTelemetry.emptySection "  (କୌଣସି ତଥ୍ୟ ସଂଗ୍ରହ ହୋଇ ନାହିଁ)">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  ହ୍ୟାଙ୍ଗଗୁଡ଼ିକରୁ ମୂଳ ତଥ୍ୟକୁ ଦର୍ଶାନ୍ତୁ">
 
+<!ENTITY aboutTelemetry.filterText "  ଛାଣନ୍ତୁ (ବାକ୍ୟଖଣ୍ଡ କିମ୍ବା /regexp/)">
