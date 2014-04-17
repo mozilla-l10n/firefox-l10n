@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "Tetapan Laman">
 
+<!ENTITY basic.tab           "Format  Opsyen">
 
 <!ENTITY formatGroup.label   "Format">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "Opsyen">
 
+<!ENTITY printBG.label       "Cetak Latar (warna imej)">
+<!ENTITY printBG.accesskey   "L">
 
-
+<!ENTITY advanced.tab        "Margin  Pengepala/Footer">
 
 <!ENTITY marginGroup.label   "Margin (#1)">
 <!ENTITY marginUnits.inches  "inci">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "Kanan:">
 <!ENTITY marginRight.accesskey "K">
 
+<!ENTITY headerFooter.label  "Pengepala  Pekaki">
 
 <!ENTITY hfLeft.label        "Kiri:">
 <!ENTITY hfCenter.label      "Tengah:">

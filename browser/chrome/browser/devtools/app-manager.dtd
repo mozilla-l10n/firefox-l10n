@@ -32,10 +32,10 @@
 <!ENTITY device.permissions "Kebenaran">
 <!ENTITY device.permissionsTooltip "Lihat jadual keizinan yang boleh dicapai pada aplikasi dari jenis yang berbeza">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
+<!ENTITY device.browserTabs "Tab Pelayar">
 <!ENTITY device.browserTabsTooltip "Lihat senarai tab dalam pelayar pada peranti yang disambung">
-
-
+<!ENTITY device.debugBrowserTab "Debug">
+<!ENTITY device.debugBrowserTabTooltip "Buka Alatan Pembangunan yang bersambung ke aplikasi ini pada peranti">
 <!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambung ke peranti">

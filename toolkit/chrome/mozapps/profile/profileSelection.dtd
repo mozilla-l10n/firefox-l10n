@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Bekerja Luar Talian">
 <!ENTITY            offlineState.accesskey "e">
 
-
+<!ENTITY            useSelected.label       "Mengunakan profil yang dipilih tanpa meminta pada permulaan">
+<!ENTITY            useSelected.accesskey   "e">

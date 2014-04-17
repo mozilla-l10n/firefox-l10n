@@ -4,6 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Selamat Datang ke &syncBrand.shortName.label;">
 
+<!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab anda, penanda halaman, kata laluan  lain-lain.">
 <!ENTITY aboutAccountsConfig.startButton.label "Mulakan">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Menggunakan versi lama Sync?">
 <!ENTITY aboutAccountsConfig.manage.label "Urus">
