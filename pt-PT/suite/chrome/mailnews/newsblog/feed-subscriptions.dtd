@@ -20,7 +20,7 @@
 <!ENTITY quickMode.accesskey         "M">
 
 <!ENTITY locationValidate.label      "Validar">
-<!ENTITY validateText.label          "Validarr e obter um URL válido.">
+<!ENTITY validateText.label          "Validar e obter um URL válido.">
 
 <!ENTITY button.addFeed.label 		 "Adicionar">
 <!ENTITY button.addFeed.accesskey 	 "A">
@@ -36,4 +36,3 @@
 
 <!ENTITY cmd.close.commandKey 		 "c">
 <!ENTITY button.close.label          "Fechar">
-
