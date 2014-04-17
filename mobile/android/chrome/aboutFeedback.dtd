@@ -37,7 +37,7 @@
 
 <!ENTITY sad.message               "&brandShortName; உடன் சில பிரச்சனைகள் இருந்தற்காக எங்களை மன்னிக்கனும். தயவுச்செய்து எங்களுக்கு என் நடந்தது என்பதை தெரிந்தால் அதை சரிசெய்ய முடியும்.">
 <!ENTITY sad.placeholder           "உங்களுடைய கருத்தை இங்கே தட்டுங்கள்">
-<!ENTITY sad.lastSite              "கடைசியாக பார்த்த தளங்கள் (விருப்பங்கள்)">
+<!ENTITY sad.lastSite              "கடைசியாக பார்த்த தளங்கள் (விருப்பத்தேர்வு)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">

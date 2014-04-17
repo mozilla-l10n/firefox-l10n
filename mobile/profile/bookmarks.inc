@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: உங்கள் உலவியை பற்றி
+#define bookmarks_aboutBrowser பயர்பாக்ஸ்: உங்கள் உலவியை பற்றி
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: கூடுடல் இணைப்புகளுடன் விருப்பமைவு செய்
+#define bookmarks_addons பயர்பாக்ஸ்: கூடுடல் இணைப்புகளுடன் தனிபயனாக்கம்
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace பையர்பாக்ஸ் சந்தை
+#define bookmarks_marketplace பயர்பாக்ஸ் சந்தை
 
 
 

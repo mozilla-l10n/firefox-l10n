@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "உங்களுடைய புதிய சாதனத்தை செயற்ப்படுத்த, சாதனத்தினுள் “&syncBrand.shortName.label;ஐ அமை” ஐ தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.subtitle.header2.label "இந்த குறியீட்டை உங்களின் மற்றொரு சாதனத்தில் தட்டவும்">
-<!ENTITY sync.subtitle.connectlocation2.label "உங்களுடைய இன்னொரு பையர்பாக்ஸ் கருவியின் &syncBrand.shortName.label; இல் உள்ள “&sync.title.pair.label;” இ தேர்வுசெய்யவும்.">
+<!ENTITY sync.subtitle.connectlocation2.label "உங்களுடைய இன்னொரு பயர்பாக்ஸ் கருவியின் &syncBrand.shortName.label; இல் உள்ள “&sync.title.pair.label;” இ தேர்வுசெய்யவும்.">
 <!ENTITY sync.subtitle.pair.label "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் “ஒரு சாதனத்தை இணைசேர்” என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "கைமுறை அமைப்பு">
 <!ENTITY sync.subtitle.nointernet.label "இணைய இணைப்பு இல்லை.">
 <!ENTITY sync.subtitle.failaccount.label "உங்களுடைய சாதனத்தில் கணக்கை தோற்றுவிக்க முடியவில்லை.">
-<!ENTITY sync.subtitle.failmultiple.label "உங்களிடம் ஒன்றுக்கும் மேற்பட்ட பையர்பாக்ஸ் உள்ளதா? தற்சமயம், &syncBrand.fullName.label; ஒரேயொரு நிறுவலை மட்டுமே ஆதரிக்கும். &syncBrand.shortName.label; ஐ பயன்படுத்த தயவுசெய்து மற்ற நிறுவல்களை நீக்குக.">
+<!ENTITY sync.subtitle.failmultiple.label "உங்களிடம் ஒன்றுக்கும் மேற்பட்ட பயர்பாக்ஸ் உள்ளதா? தற்சமயம், &syncBrand.fullName.label; ஒரேயொரு நிறுவலை மட்டுமே ஆதரிக்கும். &syncBrand.shortName.label; ஐ பயன்படுத்த தயவுசெய்து மற்ற நிறுவல்களை நீக்குக.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "அமைவு முடிந்தது">
@@ -64,7 +64,7 @@
 <!ENTITY sync.configure.engines.title.bookmarks "புத்தகக்குறிகள்">
 <!ENTITY sync.configure.engines.title.passwords "கடவுச்சொற்கள்">
 <!ENTITY sync.configure.engines.title.history "வரலாறு">
-<!ENTITY sync.configure.engines.title.tabs "தத்தல்கள்">
+<!ENTITY sync.configure.engines.title.tabs "கீற்றுகள்">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "விடு">
@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "உங்கள் சாதனத்தின் &syncBrand.fullName.label; அமைவு கீற்றுகளை மற்ற சாதனங்களுக்கு அனுப்பவும்.">
 <!ENTITY sync.text.tab.sent.label "உங்களுடைய கீற்று அனுப்பப்பட்டது!">
 <!ENTITY sync.text.tab.not.sent.label "உங்களின் தாவலை அனுப்புவதில் பிரிச்சனை வந்திருக்கிறது.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "பயர்பாக்ஸ் கணிக்கிற்க்கான சரிபார்க்கும் வண்ணமிகு படம்">
-<!ENTITY fxaccount_icon_contentDescription2 "பயர்பாக்ஸ் கணிக்கிற்க்கான படம்">
-<!ENTITY fxaccount_intro_contentDescription2 "பயர்பாக்ஸ் கணிக்குகளை அறிமுகப்படுத்தும் வரைகலைகள்">
-<!ENTITY fxaccount_mail_contentDescription2 "பயர்பாக்ஸ் கணிக்குகளின் உறைக்கான வரைவியல்">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "மின்னஞ்சல்">
 <!ENTITY fxaccount_password_hint "கடவுச்சொல்">
@@ -126,23 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "உலாவிக்கு வந்தாச்சி">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "சேவைகளின் விதிமுறைகள்">
-<!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை கொள்கை">
+<!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை அறிவுப்பு">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; இற்கு நல்வரவு">
-<!ENTITY fxaccount_getting_started_description "உங்கள் தத்தல்கள், புத்தகக்குறிகள், கடவுசொற்கள் &amp; பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
+<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள்  பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "ஒரு பயர்பாக்ஸ் கணக்கை உருவாக்கு">
+<!ENTITY fxaccount_create_account_header2 "ஒரு பயர்பாக்ஸ் கணக்கை உருவாக்கு">
 <!ENTITY fxaccount_create_account_password_length_restriction "குறைந்தது 8 எழுத்துக்கள் இருக்கணும்">
 <!ENTITY fxaccount_create_account_year_of_birth "பிறந்த வருடம்">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "தொடர்வதனால், நான் பயர்பாக்ஸின் இணைய சேவைகளான &formatS1; and &formatS2; ஏற்க்கிறேன்.">
+<!ENTITY fxaccount_create_account_policy_text2 "தொடர்வதனால், நான் பயர்பாக்ஸின் இணைய சேவைகளை &formatS1; and &formatS2; ஒப்புகொள்கிறேன்.">
 <!ENTITY fxaccount_create_account_button "அடுத்து">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "ஒத்திசைவுக்கு எதை தேர்ந்தெடுப்பது">
 <!ENTITY fxaccount_create_account_sign_in_instead "ஏற்க்கனவே கண்கு வைத்திருக்கிறீர்களா? உள்நுழைக">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "மேலும் அறிய">
 
 <!ENTITY fxaccount_confirm_account_header "கணக்கை உறுதிப்படுத்து">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; க்கு ஒரு சரிபார்ப்பு தொடுப்பு அனுப்பப்பட்டுள்ளது">
 <!ENTITY fxaccount_confirm_account_resend_email "மின்னஞ்சலை திரும்ப அனுப்பவும்">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "சரிபார்ப்பு மின்னஞ்சல் அனுப்பப்பட்டது">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "உள்நுழை">
 <!ENTITY fxaccount_update_credentials_unknown_error "உள்நுழைய முடியாது">
 
-<!ENTITY fxaccount_status_header "பையர்பாக்ஸ் கணக்கு">
+<!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
+<!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: செயல்படுத்தபட்டது">
 <!ENTITY fxaccount_status_needs_verification2 "உங்கள் கணக்கை சரிபார்க்க வேண்டியுள்ளது. சரிபார்ப்பு மின்னஞ்சலை மிண்டும் அனுப்ப தடவவும்.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "கடவுச்சொற்கள்">
 <!ENTITY fxaccount_status_tabs "திறந்த கீற்றுகள்">
 <!ENTITY fxaccount_status_legal "சட்டபூர்வ" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "சேவைகளின் விதிமுறைகள்">
+<!ENTITY fxaccount_status_linkprivacy "தனியுரிமை அறிவிப்பு">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "பயர்பாக்ஸ்">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; விருப்பங்கள்">
 <!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; கட்டமை">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ஆனது இணைக்கப்படவில்லை">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ஆக உள்நுழைய தட்டு">
