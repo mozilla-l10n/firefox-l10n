@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+ï»¿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -8,5 +8,5 @@
 <!ENTITY newtab.undo.undoButton "Anular.">
 <!ENTITY newtab.undo.restoreButton "Restaurar tudo.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
-<!ENTITY newtab.panel.message "Este sítio está a ser sugerido porque patrocinou a Mozilla, ajudando-nos a promover a abertura, inovação e oportunidade na web.">
-<!ENTITY newtab.panel.link.text "Saber mais…">
+<!ENTITY newtab.panel.message "Este sÃ­tio estÃ¡ a ser sugerido porque patrocinou a Mozilla, ajudando-nos a promover a abertura, inovaÃ§Ã£o e oportunidade na web.">
+<!ENTITY newtab.panel.link.text "Saber maisâ€¦">
