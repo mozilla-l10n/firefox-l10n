@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>இந்த இணைய முகவரியை திறக்க மற்ற மென்பொருட்களை நிறுவ வேண்டும்.</li> 
 </ul>">
 
