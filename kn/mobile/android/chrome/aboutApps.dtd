@@ -6,5 +6,6 @@
 <!ENTITY aboutApps.header                          "ನಿಮ್ಮ ಅನ್ವಯಿಕಗಳು">
 
 <!ENTITY aboutApps.browseMarketplace "ಫೈರ್ ಫಾಕ್ಸ್ ಮಾರುಕಟ್ಟೆಯನ್ನು ಜಾಲಾಡಿ">
-
+<!ENTITY aboutApps.uninstall "ತೆಗೆದುಹಾಕು">
 <!ENTITY aboutApps.addToHomescreen "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
+<!ENTITY aboutApps.checkForUpdates "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸು">
