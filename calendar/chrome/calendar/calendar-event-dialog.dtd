@@ -102,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey "O">
 <!ENTITY  event.menu.options.attendees.label "Convidar participantes...">
 <!ENTITY  event.menu.options.attendees.accesskey "i">
-<!ENTITY  event.menu.options.spellcheck.label "Verificar ortografia...">
-<!ENTITY  event.menu.options.spellcheck.accesskey "V">
-<!ENTITY  event.menu.options.inline.spellcheck.label "Verificar ortografia ao escrever">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey "e">
-<!ENTITY  event.menu.options.link.label "Adicionar ligação...">
-<!ENTITY  event.menu.options.link.accesskey "l">
 <!ENTITY  event.menu.options.timezone2.label "Mostrar fusos horários">
 <!ENTITY  event.menu.options.timezone2.accesskey "s">
 <!ENTITY  event.menu.options.priority2.label "Prioridade">
@@ -146,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label "Guardar e fechar">
 <!ENTITY  event.toolbar.delete.label "Eliminar">
 <!ENTITY  event.toolbar.attendees.label "Convidar participantes">
-<!ENTITY  event.toolbar.spellcheck.label "Verificação ortográfica">
 <!ENTITY  event.toolbar.privacy.label "Privacidade">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Guardar e fechar">
 <!ENTITY  event.toolbar.delete.tooltip                    "Eliminar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Verificação de escrita">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
 <!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
@@ -167,7 +159,6 @@
 <!ENTITY event.categories.label "Categoria:">
 <!ENTITY event.categories.accesskey "i">
 <!ENTITY event.categories.textbox.label "Adicionar nova categoria" >
-<!ENTITY event.categories.textbox.accesskey "A">
 <!ENTITY event.calendar.label "Calendário:" >
 <!ENTITY event.calendar.accesskey "C">
 <!ENTITY event.attendees.label "Participantes:" >
@@ -377,5 +368,4 @@
 <!ENTITY read.only.reminder.label "Lembrete:">
 <!ENTITY read.only.attendees.label "Participantes">
 <!ENTITY read.only.description.label "Descrição">
-<!ENTITY read.only.documents.label "Documentos">
 <!ENTITY read.only.link.label "Ligação relacionada">
