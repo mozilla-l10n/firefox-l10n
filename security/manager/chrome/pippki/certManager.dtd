@@ -44,9 +44,9 @@
 <!ENTITY certmgr.editcert.trustemail          "ใบรับรองนี้สามารถระบุตัวตนของผู้ใช้จดหมาย">
 <!ENTITY certmgr.editcert.trustobjsign        "ใบรับรองนี้สามารถระบุตัวตนของผู้สร้างโปรแกรม">
 <!ENTITY certmgr.editemailcert.title          "แก้ไขการตั้งค่าความน่าเชื่อถือของอีเมล">
-
-
-
+<!ENTITY certmgr.editemailcert.edittrust      "แก้ไขการตั้งค่าความน่าเชื่อถือของใบรับรอง:">
+<!ENTITY certmgr.editemailcert.dotrust        "เชื่อถือความแท้ของใบรับรองนี้">
+<!ENTITY certmgr.editemailcert.donttrust      "ไม่เชื่อถือความแท้ของใบรับรองนี้">
 
 <!ENTITY certmgr.deletecert.title             "ลบใบรับรอง">
 <!ENTITY certmgr.deletecert.beforename        "คุณได้ทำการร้องขอเพื่อลบใบรับรองนี้ :">
