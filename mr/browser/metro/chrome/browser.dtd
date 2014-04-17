@@ -9,6 +9,7 @@
 
 
 
+
 <!ENTITY appbarFindInPage2.label       "पानामध्ये शोधा">
 
 
@@ -47,13 +48,15 @@
 
 
 
+
 <!ENTITY consoleErrFile.label      "स्त्रोत फाइल:">
 <!ENTITY consoleErrLine.label      "ओळ:">
 <!ENTITY consoleErrColumn.label    "रकाना:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "कापा">
-<!ENTITY contextTextCopy.label             "प्रत बनवा">
+
 <!ENTITY contextTextPaste.label            "चिकटवा">
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextSelect.label           "निवडा">
@@ -82,6 +85,7 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
@@ -94,10 +98,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 
@@ -105,3 +106,16 @@
 
 
 
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "समझले!">

@@ -38,11 +38,9 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh2  "फक्त सध्याच्या सत्रकरिता, पृष्ठ पुन्हा लोड होते">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -55,12 +53,14 @@
 
 <!ENTITY options.enableRemote.label3    "दूरस्त डिबगिंग सुरू करा">
 <!ENTITY options.enableRemote.tooltip   "हा पर्याय निवडल्यामुळे डेव्हलपर साधनांना Firefox OS सारख्या रिमोट Firefox साधनाला सुद्धा डिबग करता येईल">
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-
-<!ENTITY options.disableJavaScript.label2    "JavaScript सुरू करा">
 <!ENTITY options.disableJavaScript.tooltip   "सध्याच्या टॅबकरिता ह्या पर्यायची निवड केल्यास JavaScript बंद होईल. टॅब किंवा साधनपेटी बंद केल्यास ह्या सेटिंगकडे दुर्लक्ष केले जाईल.">
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -72,6 +72,9 @@
   -  installed by add-ons. -->
 
 <!ENTITY options.selectAdditionalTools.label  "ॲड-ऑन्सतर्फे इन्स्टॉल केलेले डेव्हलपर साधने">
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -97,6 +100,19 @@
 <!ENTITY options.enablePersistentLogging.tooltip  "ह्या पर्यायचा वापर केल्यास नविन पृष्ठकरिता संचारन करताना, वेब कंसोल आऊटपुट नष्ट होणार नाही">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "शैली संपादक">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "मूळ स्रोत दाखवा">
+
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options

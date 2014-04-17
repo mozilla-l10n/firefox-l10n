@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "सॉक्स(SOCKS) v5">
 <!ENTITY  socks5.accesskey              "v">
+
+
 <!ENTITY  port.label                    "तळ, पोर्ट(Port):">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -42,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ह्या प्रॉक्सी सर्व्हरचा सर्व प्रोटोकॉल्सकरिता वापर करा (s)">
 <!ENTITY  shareproxy.accesskey          "s">
+
+
+

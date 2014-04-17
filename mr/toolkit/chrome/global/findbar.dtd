@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "सर्व ठळक करा">
 <!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "वाक्यात आढळलेलं सर्व काही ठळक करा">
-<!ENTITY caseSensitive.label "आकार जुळवा">
-<!ENTITY caseSensitive.accesskey "c">
+
+
 <!ENTITY caseSensitive.tooltiptext "आकार संवदेनशीलतासह शोधा">

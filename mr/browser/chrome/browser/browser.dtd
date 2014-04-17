@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(व्यक्तिगत संचारन)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "टॅब पुन्हा लोड करा">
@@ -25,8 +27,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "उजवीकडच्या टॅब्स बंद करा">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "इतर टॅब्ज बंद करा">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,8 +56,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "नविन टॅब">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "स्थळ उघडा…">
-<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "फाइल उघडा…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -95,9 +95,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सर्व ट्रॅक दाखवा">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "छोटे करा">
 <!ENTITY fullScreenRestore.tooltip "पूर्वस्थितीत आणा">
-<!ENTITY fullScreenClose.tooltip "बंद करा">
+
 <!ENTITY fullScreenAutohide.label "साधनपट्टी लपवा">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "पडदाभर मोडपासून बाहेर पडा">
@@ -115,19 +124,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "वाचनखुणा">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "या पानास ओळखचिन्ह लावा">
+<!ENTITY editThisBookmarkCmd.label "हे ओळखचिन्ह संपादीत करा">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "हे पृष्ठ शेअर करा">
+
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "ही दुवा शेअर करा">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "ही प्रतिमा शेअर करा">
-<!ENTITY shareImageCmd.accesskey "s">
+
+
+
+
+
 <!ENTITY shareSelectCmd.label "निवड शेअर करा">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "हा व्हिडीओ शेअर करा">
-<!ENTITY shareVideoCmd.accesskey "s">
+
+
+
 <!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
@@ -154,24 +165,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "छापा">
 <!ENTITY printButton.tooltip          "हे पान छापा">
 
-<!ENTITY backForwardItem.title        "मागे/पुढे">
 <!ENTITY locationItem.title           "स्थळ">
 <!ENTITY searchItem.title             "शोधा">
-<!ENTITY bookmarksItem.title          "वाचनखुणा">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "घर, आरंभस्थळ">
 
 <!ENTITY tabGroupsButton.label        "गटांना टॅबमध्ये लावा">
-<!ENTITY tabGroupsButton.tooltip      "टॅब्स्ला गटामध्ये लावा">
 
 <!ENTITY bookmarksButton.label          "वाचनखुणा">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ओळखचिन्हे">
-<!ENTITY bookmarksMenuButton.tooltip        "तुमचे ओळखचिन्हे दाखवा">
 <!ENTITY bookmarksMenuButton.unsorted.label "विनाक्रम ओळखचिन्हे">
-<!ENTITY viewBookmarksSidebar.label         "बाजूच्यापट्टीमध्ये दाखवा">
+
 <!ENTITY viewBookmarksToolbar.label         "ओळखचिन्हे साधनपट्टी दृष्य">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -180,7 +187,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "मागोवा">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "साधन">
@@ -294,7 +300,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "प्राधान्यता">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "ताजा इतिहास नष्ट करा…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -314,12 +319,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "अलिकडील बंद केलेले टॅब्स">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "अलिकडील बंद खिडकी">
-<!ENTITY historyRestoreLastSession.label "मागील सत्र पूर्वस्थितीत आणा">
 
-<!ENTITY showAllHistoryCmd2.label "सर्व इतिहास दर्शवा">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "स्वपसंती">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "पत्ता शोधा किंवा द्या">
@@ -405,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "दुवा ईमेल करा…">
 <!ENTITY emailPageCmd.accesskey       "E">
 
-
 <!ENTITY savePageCmd.label            "पृष्ठ असे साठवा…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -419,16 +449,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "चित्र असे साठवा…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "व्हिडीओ असे साठवा…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "ऑडिओ असे साठवा…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "इमेल प्रतिमा…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "व्हिडिओ ईमेल करा…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "ऑडिओ ईमेल करा…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 <!ENTITY playPluginCmd.label          "ह्या प्लगइनला सुरू करा">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "ह्या प्लगइनला लपवा">
@@ -531,6 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "बाहेर पडा"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "बाहेर पडा"> 
@@ -575,6 +606,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "शब्दकोश समाविष्ट करा…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -617,16 +649,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "आत्ता सिंक करा">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "ताळमेळ">
 
 <!ENTITY socialToolbar.title        "सोशअल साधनपट्टी बटन">
-<!ENTITY social.notLoggedIn.label   "प्रवेश केले नाही">
 
 <!ENTITY social.ok.label       "ठीक आहे">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "बाजूचीपट्टी दाखवा">
-<!ENTITY social.toggleSidebar.accesskey "s">
+
 
 <!ENTITY social.addons.label "सर्व्हिसेस व्यवस्थापीत करा…">
 
@@ -639,6 +671,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.label "आणखी शिका…">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "आत्ता नाही">
+
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "गप्पांवर लक्ष्य द्या">
@@ -656,7 +695,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "कॅमेरा / माइक्रोफोन प्रवेश">
 <!ENTITY webrtcIndicatorButton.tooltip "कॅमेरा किंवा माइक्रोफोनसह सध्या शेअर करण्याजोगी स्थळ दाखवा">
 
-<!ENTITY mixedContentBlocked.helplink "आणखी शिका">
 <!ENTITY mixedContentBlocked.moreinfo "ही अंतर्भुत माहिती ब्लॉक झाल्यावरही अनेक संकेतस्थळ योग्यरित्या कार्य करेल.">
 
 <!ENTITY pointerLock.notification.message "पुन्हा दाखवण्याकरिता कोणत्याही वेळी ESC दाबा.">
@@ -677,6 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -689,7 +728,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "कृती निदर्शक">
 <!ENTITY appMenuButton.label           "मेन्यू">
 <!ENTITY appMenuButton.tooltip         "&brandShortName; मेन्यू उघडा">
-<!ENTITY feedButton.label              "सभासद व्हा">
+
 <!ENTITY feedButton.tooltip            "या पानावर सभासद व्हा…">
 <!ENTITY bookmarksButton.tooltip       "आपले ओळखचिन्ह दर्शवा">
 <!ENTITY historyButton.tooltip         "तुम्ही नुकतेच पाहिलेले पाने दर्शवा">
@@ -712,4 +751,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label            "लहान/मोठे करा नियंत्रणे">
 <!ENTITY addonBarCloseButton.tooltip   "ॲडऑन पट्टी बंद करा">
 <!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "मागे/पुढे">
+<!ENTITY viewBookmarksSidebar.label    "बाजूच्यापट्टीमध्ये दाखवा">
+<!ENTITY bookmarksItem.title           "वाचनखुणा">
+<!ENTITY openLocationCmd.label         "स्थळ उघडा…">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "तुमचे ओळखचिन्हे दाखवा">
+
+<!ENTITY tabGroupsButton.tooltip       "टॅब्स्ला गटामध्ये लावा">
 <!-- end of strings to be removed post-Australis -->
