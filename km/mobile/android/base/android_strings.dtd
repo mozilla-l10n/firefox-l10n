@@ -54,6 +54,7 @@
 <!ENTITY back "ថយ​ក្រោយ">
 <!ENTITY stop "បញ្ឈប់">
 <!ENTITY site_security "សុវត្ថិភាព​តំបន់បណ្ដាញ">
+<!ENTITY save "រក្សាទុក​">
 
 <!ENTITY close_tab "បិទ​ផ្ទាំង">
 <!ENTITY one_tab "ផ្ទាំង ១">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_search3 "ស្វែងរក">
+<!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_display "បង្ហាញ">
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
 <!ENTITY pref_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
 <!ENTITY pref_search_restore_defaults_summary "ស្ដារ​លំនាំដើម">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ដោយ​ចុច​យូរ​លើ​វាល​ស្វែងរក​របស់​វា។">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក​ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា ហើយ​បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_developer_remotedebugging_docs "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
 
 <!ENTITY pref_category_home "ដើម">
+<!ENTITY pref_category_home_summary "ប្ដូរ​គេហទំព័រ​​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_home_panels "បន្ទះ">
+<!ENTITY pref_home_add_panel "បន្ថែម​បន្ទះ">
+<!ENTITY home_add_panel_title "បន្ថែម​បន្ទះ​ថ្មី">
+<!ENTITY home_add_panel_empty "សូមទោស, យើង​មិន​អាច​រក​ឃើញ​បន្ទះ​ណាមួយ​សម្រាប់​អ្នក​ដើម្បី​បន្ថែម​ឡើយ។">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 បាន​បន្ថែម​ទៅ​គេហ​ទំព័រ">
+<!ENTITY pref_category_home_content_settings "ការ​កំណត់​មាតិកា">
+<!ENTITY pref_home_updates "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
+<!ENTITY pref_home_updates_enabled "បាន​បើក">
+<!ENTITY pref_home_updates_wifi "បាន​បើក">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
@@ -141,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
-<!ENTITY pref_private_data_history "រក​មើល &amp; ប្រវត្តិ​ទាញ​យក">
-<!ENTITY pref_private_data_formdata "សំណុំ​បែបបទ &amp; ប្រវត្តិ​ស្វែងរក">
-<!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
+<!ENTITY pref_private_data_history "រក​មើល  ប្រវត្តិ​ទាញ​យក">
+<!ENTITY pref_private_data_formdata "ទម្រង់  ប្រវត្តិ​ស្វែងរក">
+<!ENTITY pref_private_data_cookies2 "ខូគី  ការ​ចូល​សកម្ម">
 <!ENTITY pref_private_data_passwords "ពាក្យ​សម្ងាត់​បាន​រក្សារ​ទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
@@ -164,12 +180,12 @@ size. -->
 <!ENTITY pref_panels_show "បង្ហាញ">
 <!ENTITY pref_panels_hide "លាក់">
 
-<!ENTITY datareporting_notification_title "ទិន្នន័យ &brandShortName; stats &amp;">
+<!ENTITY datareporting_notification_title "&brandShortName; stats  ទិន្នន័យ">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
 <!ENTITY datareporting_notification_action "ជ្រើស​អ្វី​ដែល​ត្រូវ​ចែករំលែក">
 <!ENTITY datareporting_notification_summary "ដើម្បី​បង្កើន​បទពិសោធន៍​របស់​អ្នក &brandShortName; ផ្ញើ​ព័ត៌មាន​មួយ​ចំនួន​ទៅកាន់ &vendorShortName; ដោយ​ស្វ័យប្រវត្តិ។">
 <!ENTITY datareporting_notification_summary_short "ដើម្បី​បង្កើន​បទពិសោធន៍​របស់​អ្នក &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -193,7 +209,7 @@ size. -->
      actual notification that an update is available. -->
 
 <!ENTITY pref_update_autodownload2 "ទាញ​យក​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY pref_update_autodownload_wifi "តាម Wi-Fi តែប៉ុណ្ណោះ">
+<!ENTITY pref_update_autodownload_wifi "តែ​តាម​ហ្វាយវ៉ាយ​​ប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
 <!ENTITY pref_update_autodownload_always "ជានិច្ច">
 
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
 <!ENTITY find_in_page "រកមើល​នៅ​ក្នុង​ទំព័រ">
 <!ENTITY desktop_mode "តំបន់បណ្ដាញ​ផ្ទៃតុ​សំណើ">
+<!ENTITY page "ទំព័រ">
 <!ENTITY tools "ឧបករណ៍">
 <!ENTITY new_tab "ផ្ទាំង​ថ្មី">
 <!ENTITY new_private_tab "ផ្ទាំង​ឯកជន​ថ្មី">
@@ -240,7 +257,7 @@ size. -->
 <!ENTITY contextmenu_remove "យកចេញ">
 <!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
 <!ENTITY contextmenu_share "ចែករំលែក">
-<!ENTITY contextmenu_pasteandgo "បិទភ្ជាប់ &amp; ទៅ">
+<!ENTITY contextmenu_pasteandgo "បិទ​ភ្ជាប់ ហើយ​ដំណើរការ">
 <!ENTITY contextmenu_paste "បិទភ្ជាប់">
 <!ENTITY contextmenu_copyurl "ចម្លង​អាសយដ្ឋាន">
 <!ENTITY contextmenu_edit_bookmark "កែសម្រួល">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ ។">
 
+<!ENTITY reading_list_add "បន្ថែម​ទៅ​បញ្ជី​អាន">
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​យូរ​លើ​​រូបតំណាង &#037;I ពេល​វា​បង្ហាញ​នៅ​ក្នុង​របារ​ចំណងជើង។">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​​លើ​​រូបតំណាង  &formatI; ពេល​វា​បង្ហាញ​នៅ​ក្នុង​របារ​ចំណងជើង។">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​យូរ​លើ​ប៊ូតុង​របៀប​អ្នក​អាន ពេល​វា​លេចឡើង​នៅ​ក្នុង​របារ​ចំណងជើង។">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "គ្មាន​មាតិកា​អាច​ត្រូវ​បាន​រក​ឃើញ​សម្រាប់​បន្ទះ​នេះ។">
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
@@ -359,10 +381,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "កំពុង​នាំចូល​ប្រវត្តិ 
 ពី Android">
 <!ENTITY bookmarkhistory_import_wait "សូម​រង់ចាំ...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "តើ​អ្នក​ចង់​បើក​ការ​ផ្ដល់​យោបល់​ស្វែងរក &formatS; ដែរ​ឬទេ ?">
+<!ENTITY suggestions_prompt3 "តើ​អ្នក​ចង់​បើក​ការ​ស្នើ​ការ​ស្វែងរក​ឬ?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
