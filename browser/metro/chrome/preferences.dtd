@@ -21,13 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "কুকি">
 <!ENTITY clearPrivateData.cache                                  "ক্যাশে">
 <!ENTITY clearPrivateData.sitePref                               "সাইট সংক্রান্ত পছন্দসই মান">
-
+<!ENTITY clearPrivateData.formSearchHist                         "ফর্ম  অনুসন্ধানের ইতিহাস">
 <!ENTITY clearPrivateData.passwords                              "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY clearPrivateData.offline                                "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY clearPrivateData.logins                                 "সক্রিয় লগ-ইন">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "পাসওয়ার্ড মনে রাখুন">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "ন্যাভিগেশন বাটন প্রদর্শন করুন">
 <!ENTITY doNotTrack.title                                        "ট্র্যাক করবেন না">
 <!ENTITY doNotTrack.options.doNotTrack                           "আমি ট্র্যাক হতে চাই না, সেই ওয়েবসাইট বলুন">
 <!ENTITY doNotTrack.options.doTrack                              "আমি ট্র্যাক হতে চাই , সেই ওয়েবসাইট বলুন">
