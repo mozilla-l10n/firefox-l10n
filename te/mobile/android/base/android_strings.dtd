@@ -8,7 +8,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "ఇష్టాంశములు">
+<!ENTITY  bookmarks_title "ఇష్టాంశాలు">
 <!ENTITY  history_title "చరిత్ర">
 <!ENTITY  reading_list_title "చదివే జాబితా">
 
@@ -16,12 +16,12 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; క్రాష్ రిపోర్టర్">
 <!ENTITY  crash_message2 "&brandShortName; ఏదో సమస్య వచ్చి క్రాషయ్యింది. పునఃప్రారంభించగానే మీ ట్యాబులు &brandShortName; మొదటి పేజీలో కనిపిస్తాయి.">
-<!ENTITY  crash_send_report_message3 "ఈ క్రాష్ గురించి &vendorShortName; చెప్తే వారు దాన్ని పరిష్కరించ గలుగుతారు">
+<!ENTITY  crash_send_report_message3 "ఈ క్రాష్ గురించి &vendorShortName;కి చెప్తే వారు దాన్ని పరిష్కరించ గలుగుతారు">
 <!ENTITY  crash_include_url2 "నేను ఉన్న పేజీ చిరునామాను కూడా చేర్చు">
 <!ENTITY  crash_sorry "క్షమించండి">
 <!ENTITY  crash_comment "ఒక వ్యాఖ్యను జోడించండి (వ్యాఖ్యలు బహిరంగంగా కనిపిస్తాయి)">
 <!ENTITY  crash_allow_contact2 "ఈ నివేదిక గురించి నన్ను సంప్రదించడానికి &vendorShortName;ను అనుమతించు">
-<!ENTITY  crash_email "మీ ఇమెయిల్">
+<!ENTITY  crash_email "మీ ఈమెయిలు">
 <!ENTITY  crash_closing_alert "క్రాష్ నివేదికను పంపకుండానే నిష్క్రమించాలా?">
 <!ENTITY  sending_crash_report "క్రాష్ నివేదికను పంపిస్తున్నాం\u2026">
 <!ENTITY  crash_close_label "మూసివేయి">
@@ -35,7 +35,7 @@
 
 <!ENTITY url_bar_default_text "వెతకండి లేదా చిరునామా ఇవ్వండి">
 
-<!ENTITY bookmark "ఇష్టాంశము">
+<!ENTITY bookmark "ఇష్టాంశం">
 <!ENTITY bookmark_added "ఇష్టాంశం చేర్చబడింది">
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
@@ -54,6 +54,7 @@
 <!ENTITY back "వెనుకకు">
 <!ENTITY stop "ఆపు">
 <!ENTITY site_security "సైటు భద్రత">
+<!ENTITY save "భద్రపరుచు">
 
 <!ENTITY close_tab "టాబ్‌ను మూయి">
 <!ENTITY one_tab "1 టాబ్">
@@ -67,27 +68,44 @@
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!ENTITY pref_category_customize "మలచుకొనడం">
 <!ENTITY pref_category_search3 "వెతుకు">
+<!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
 <!ENTITY pref_category_display "ప్రదర్శన">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
-<!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాలతను చేర్చండి">
+<!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
 <!ENTITY pref_category_search_restore_defaults "సెర్చింజన్లను పునరుద్ధరించు">
 <!ENTITY pref_search_restore_defaults "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY pref_search_restore_defaults_summary "అప్రమేయాలను పునరుద్ధరించు">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "చిట్కా: ఏ వెబ్‌సైటునైనా శోధన ప్రదాతల జాబితాకు చేర్చడానికి ఆ సైటు వెతుకుడు పెట్టె దీన దీర్ఘంగా-నొక్కండి.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_docs "మరింత తెలుసుకోండి">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
 
 <!ENTITY pref_category_home "ముంగిలి">
+<!ENTITY pref_category_home_summary "మీ ముంగిలిపుటను మలచుకోండి">
 <!ENTITY pref_category_home_panels "ప్యానెళ్ళు">
+<!ENTITY pref_home_add_panel "ప్యానల్ జతచేయి">
+<!ENTITY home_add_panel_title "కొత్త ప్యానల్ జతచేయి">
+<!ENTITY home_add_panel_empty "క్షమించండి, జతచేయుటకు ఏ ప్యానల్స్ కనుగొనలేక పోయాము.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ముంగిలిపుటకు చేర్చబడింది">
+<!ENTITY pref_category_home_content_settings "విషయపు అమరికలు">
+<!ENTITY pref_home_updates "స్వయంచాలక నవీకరణలు">
+<!ENTITY pref_home_updates_enabled "చేతనం">
+<!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "మలచుకొనడం">
 <!ENTITY pref_header_display "ప్రదర్శన">
 <!ENTITY pref_header_privacy_short "గోప్యత">
 <!ENTITY pref_header_help "సహాయం">
@@ -104,6 +122,7 @@
 <!ENTITY pref_donottrack_allow_tracking "నా జాడ తెలుసుకోమని సైట్లకు చెప్పు">
 <!ENTITY pref_donottrack_no_pref "నా ట్రాకింగ్ అభీష్టాల గురించి సైట్లకు ఏమీ చెప్పవద్దు">
 
+<!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
 <!ENTITY pref_clear_private_data "ప్రైవేటు డేటా తొలగించు">
@@ -114,8 +133,8 @@
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
 <!ENTITY pref_reflow_on_zoom4 "పాఠ్య ప్రవాహం">
 <!ENTITY pref_restore "ట్యాబులు">
-
-
+<!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
+<!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
 <!ENTITY pref_font_size_tiny "అతి చిన్న">
 <!ENTITY pref_font_size_small "చిన్న">
 <!ENTITY pref_font_size_medium "మధ్యస్తం">
@@ -133,16 +152,17 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
 
+<!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_show_product_announcements "ఉత్పాదన విశేషాలను చూపించు">
 <!ENTITY pref_sync "సింక్">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
-<!ENTITY pref_private_data_history "విహరణ &amp; దింపుకోలు చరిత్ర">
-<!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
-
+<!ENTITY pref_private_data_history "విహరణ  దింపుకోలు చరిత్ర">
+<!ENTITY pref_private_data_formdata "ఫారాలు  వెతుకుడు చరిత్ర">
+<!ENTITY pref_private_data_cookies2 "కుకీలు  క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
-
-
+<!ENTITY pref_private_data_cache "క్యాషె">
+<!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
 <!ENTITY pref_private_data_downloadFiles "దింపుకున్న ఫైళ్ళు">
 
@@ -160,12 +180,12 @@ size. -->
 <!ENTITY pref_panels_show "చూపించు">
 <!ENTITY pref_panels_hide "దాచు">
 
-<!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు &amp; భోగట్టా">
+<!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు  భోగట్టా">
 <!ENTITY datareporting_notification_action_long "ఏయే సమాచారాన్ని పంచుకోవాలో ఎంచుకోండి">
 <!ENTITY datareporting_notification_action "ఏమేం పంచుకోవాలో ఎంచుకోండి">
 <!ENTITY datareporting_notification_summary "మీ అనుభవాన్ని మెరుగుపరచడానికి, కొంత సమాచారాన్ని &brandShortName; ఆటోమెటిగ్గా &vendorShortName;కు పంపిస్తుంది.">
 <!ENTITY datareporting_notification_summary_short "మీ ఆనుభవాన్ని మెరుగుపరచడానికి, &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -177,13 +197,13 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "మీ విహారిణి ఆరోగ్యం గురించి భోగట్టాను &vendorShortName;కి తెలియజేస్తుంది మరియు మీరు మీ విహారిణి సామర్ధ్యాన్ని అర్థం చేసుకోడానికి సహాయపడుతుంది">
 <!ENTITY datareporting_abouthr_title "ఆరోగ్య నివేదికను చూడండి">
 <!ENTITY datareporting_telemetry_title "టెలీమెట్రీ">
-
-
+<!ENTITY datareporting_telemetry_summary "&brandShortName;ను మరింత మెరుగుపరచంలో మాకు సహాయపడే మీ విహారిణి పనితనం, వాడుక, హార్డువేరు మరియు మీరు మలచుకున్న తీరు గురించిన దత్తాంశాన్ని &vendorShortName;తో పంచుకుంటుంది">
+<!ENTITY datareporting_crashreporter_summary "మీ బ్రౌజర్ మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను &vendorShortName; కు అప్పగించును.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title "&vendorShortName; ప్రాంతీయ సేవలు">
-
+<!ENTITY datareporting_wifi_summary "ఓపెన్ వెబ్ కొరకు జియోలొకేషన్ సేవలను మెరుగుపరచుటలో సహాయపడుటకు గాను &brandShortName; సెల్యులర్ టవర్ డాటాను సేకరించి పంపుటకు అనుమతించండి.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -201,19 +221,20 @@ size. -->
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
 <!ENTITY share "పంచుకో">
-
+<!ENTITY share_title "దీనిద్వారా పంచుకొను">
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
 <!ENTITY find_in_page "పేజీలో వెతుకు">
-
+<!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
+<!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
 <!ENTITY new_tab "కొత్త ట్యాబ్">
 <!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
 <!ENTITY close_all_tabs "అన్ని ట్యాబులసు మూసివేయి">
 <!ENTITY tabs_normal "ట్యాబులు">
 <!ENTITY tabs_private "అంతరంగికం">
-
-
+<!ENTITY tabs_synced "సింకైన">
+<!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
 <!ENTITY set_image_chooser_title "చిత్రమును ఇలా అమర్చు">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -224,26 +245,28 @@ size. -->
 <!ENTITY find_close "మూసివేయి">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_play "ఆడు">
 
-<!ENTITY media_stop "ఆపు">
+<!ENTITY media_casting_to "పరికరముకు వేయి">
+<!ENTITY media_play "ఆడు">
+<!ENTITY media_pause "నిలుపు">
+<!ENTITY media_stop "ఆపివేయి">
 
 <!ENTITY contextmenu_open_new_tab "కొత్త ట్యాబులో తెరువు">
 <!ENTITY contextmenu_open_private_tab "అంతరంగిక ట్యాబులో తెరువు">
 <!ENTITY contextmenu_open_in_reader "రీడరులో తెరువు">
 <!ENTITY contextmenu_remove "తొలగించు">
-<!ENTITY contextmenu_add_to_launcher "నివాస తెరకు జతచేయి">
+<!ENTITY contextmenu_add_to_launcher "ముంగిలి తెరకు చేర్చు">
 <!ENTITY contextmenu_share "పంచుకో">
-<!ENTITY contextmenu_pasteandgo "అతికించి &amp; వెళ్ళు">
+<!ENTITY contextmenu_pasteandgo "అంటించు  వెళ్ళు">
 <!ENTITY contextmenu_paste "అతికించు">
 <!ENTITY contextmenu_copyurl "చిరునామాను కాపీచెయ్యి">
 <!ENTITY contextmenu_edit_bookmark "సరిచేయు">
 <!ENTITY contextmenu_subscribe "ఈ పేజీకి చందాచేరండి">
 <!ENTITY contextmenu_site_settings "సైటు అమరికలను మార్చండి">
 <!ENTITY contextmenu_top_sites_edit "సరిచేయి">
-
-
-
+<!ENTITY contextmenu_top_sites_pin "సైటు పిన్‌చేయి">
+<!ENTITY contextmenu_top_sites_unpin "సిటు పిన్‌తీయి">
+<!ENTITY contextmenu_add_search_engine "అన్వేషణ యంత్రాన్ని కలుపు">
 
 <!ENTITY pref_titlebar_mode "శీర్షిక పట్టీ">
 <!ENTITY pref_titlebar_mode_title "పేజీ శీర్షికను చూపించు">
@@ -251,6 +274,9 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar "శీర్షిక పట్టీ స్క్రాల్‌చేయి">
+
+<!ENTITY history_removed "పేజీ తీసివేయబడెను">
 
 <!ENTITY bookmark_edit_title "ఇష్టాంశాన్ని సవరించు">
 <!ENTITY bookmark_edit_name "పేరు">
@@ -264,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "తుడుచివేయి">
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 
+<!ENTITY reading_list_add "చదవాల్సిన జాబితాకి చేర్చు">
 <!ENTITY reading_list_added "మీ చదివే జాబితాకు పేజీ చేర్చబడింది">
 <!ENTITY reading_list_removed "మీ చదివే జాబితా నుండి పేజీ తీసివేయబడింది">
 <!ENTITY reading_list_failed "మీ చదివే జాబితాకు పేజీని చేర్చడం విఫలమైంది">
@@ -273,16 +300,17 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "అదనపు చర్యలు">
 
-<!ENTITY masterpassword_remove_title "ముఖ్య  సంకేతపదాన్ని  తీసివేయి">
+<!ENTITY masterpassword_create_title "ప్రధాన సంకేతపదాన్ని సృష్టించండి">
+<!ENTITY masterpassword_remove_title "ప్రధాన సంకేతపదాన్ని తొలగించండి">
 <!ENTITY masterpassword_password "సంకేతపదం">
-
+<!ENTITY masterpassword_confirm "సంకేతపదం నిర్ధారించండి">
 
 <!ENTITY button_ok "సరే">
 <!ENTITY button_cancel "రద్దుచేయి">
 <!ENTITY button_yes "అవును">
-<!ENTITY button_no "No">
-
-
+<!ENTITY button_no "కాదు">
+<!ENTITY button_clear_data "దత్తాంశాన్ని తుడిచివేయి">
+<!ENTITY button_set "అమర్చు">
 <!ENTITY button_clear "తుడిచివేయి">
 
 <!ENTITY home_top_sites_title "పై సైట్లు">
@@ -300,15 +328,23 @@ size. -->
 <!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "చిట్కా: వ్యాసాలను మీరు చదువవలసిన జాబితానందు చేర్చుటకు అవి శీర్షిక పట్టీపైన కనబడగానే &formatI; ఎక్కువసేపు వత్తండి.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "చిట్కా: వ్యాసాలను మీరు చదువవలసిన జాబితాకు దాచుటకు అది శీర్షిక పట్టీపై కనబడగానే రీడర్ మోడ్ బటన్‌పైన ఎక్కువసేపు వత్తండి.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
+<!ENTITY home_default_empty "ఈ ప్యానల్ కొరకు ఏ కాంటెంట్ కనుగొనబడలేదు.">
 
+<!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
 
-
-
+<!ENTITY filepicker_title "ఫైలును ఎంచుకొనుము">
+<!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
+<!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
+<!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "మీరు దీనికి అనుసంధానించ బడినారు">
@@ -325,24 +361,28 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ఏదైతే దీనిద్వారా నడుస్తుందో">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "ఈ పేజీ సురక్షితం కాని విషయాన్ని ప్రదర్శిస్తూంది.">
 <!ENTITY blocked_mixed_content_message_top "సురక్షితం కాని విషయాన్ని &brandShortName; నిరోధించింది.">
 <!ENTITY blocked_mixed_content_message_bottom "ఈ విషయాన్ని నిరోధించినా చాలా వెబ్‌సైట్లు సరిగానే పనిచేస్తాయి.">
-<!ENTITY learn_more "మరింతగా తెలుసుకో">
+<!ENTITY learn_more "మరింత తెలుసుకోండి">
 <!ENTITY enable_protection "సంరక్షణను చేతనంచేయి">
 <!ENTITY disable_protection "సంరక్షణను ఆపివేయి">
 <!ENTITY keep_blocking "నిరోధిస్తూనేవుండు">
 
-
+<!ENTITY private_data_success "అంతరంగిక భోగట్టా తుడిచివేయబడింది">
+<!ENTITY private_data_fail "కొంత అంతరంగిక భోగట్టాను తుడిచివేయలేకపోయాం">
 
 <!ENTITY bookmarkhistory_button_import "దిగుమతించు">
+<!ENTITY bookmarkhistory_import_both "ఇష్టాంశాలు మరియు చరిత్ర దిగుమతి 
+ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_bookmarks "ఇష్టాంశాల దిగుమతి 
+ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_history "చిరిత్ర దిగుమతి 
+ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_wait "దయచేసి వేచివుండండి…">
 
-
-
-<!ENTITY bookmarkhistory_import_wait "దయచేసి వేచివుండండి… ">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-
-<!ENTITY suggestions_prompt2 "&formatS; వెతుకుడు సలహాలను చూపించమంటారా?">
+<!ENTITY suggestions_prompt3 "వెతుకుడు సలహాలను చేతనం చెయ్యమంటారా?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -353,10 +393,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ఇష్టాంశాలు మరియు చరిత్ర">
 
+<!ENTITY devtools_remote_debugging_forward "పోర్ట్ ఫార్వార్డింగ్ అమర్చుట మరువవద్దు!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
-
+<!ENTITY updater_start_select2 "దింపుకోడానికి తాకండి">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; డౌన్‌లోడ్ చేయుచున్నది">
 <!ENTITY updater_downloading_title_failed2 "దింపుకోలు విఫలమైంది">
@@ -367,13 +408,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
+<!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
-
+<!ENTITY new_guest_session_text "దీనిని ఉపయోగించేవారు మీ వ్యక్తిగత విహరణ దత్తాంశాన్ని (భద్రపరచిన సంకేతపదాలు, చరిత్ర లేదా ఇష్టాంశాల వంటివాటిని) చూడలేరు. \n\nమీ అతిథి పని పూర్తికాగానే, వారి విహరణ దత్తాంశం తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
-
+<!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

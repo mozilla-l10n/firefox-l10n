@@ -9,13 +9,15 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-
-
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; కు అనుసంధానమవ్వు">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; ఖాతాను చేర్చండి">
 <!ENTITY sync.title.pair.label "ఒక పరికరంను జోడీచేయి">
 <!-- J-PAKE Key Screen -->
 
-
-
+<!ENTITY sync.subtitle.connect.label "మీ కొత్త పరికరంను క్రియాశీలపరచుటకు, “&syncBrand.shortName.label; అమర్చు” ను పరికరంపై ఎంపికచేయి.">
+<!ENTITY sync.subtitle.header2.label "ఈ సంకేతాన్ని మీ వేరొక పరికరంలో ఇవ్వండి">
+<!ENTITY sync.subtitle.connectlocation2.label "మీ ఇతర పరికర ఫైర్‌ఫాక్స్ ఐచ్చికాల &syncBrand.shortName.label; విభాగము నందు  “&sync.title.pair.label;” ఎంపికచేయి.">
+<!ENTITY sync.subtitle.pair.label "క్రియాశీలపరచుటకు, మీ యితర పరికరం పైన  “ఒక పరికరంతో జతకట్టు” ఎంపికచేయి.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "ఎలానో నాకు చూపు.">
@@ -29,26 +31,28 @@
 <!ENTITY sync.subtitle.account.label "మీ &syncBrand.fullName.label; ఖాతా సమాచారాన్ని ఇవ్వండి">
 <!ENTITY sync.input.username.label "ఖాతా పేరు">
 <!ENTITY sync.input.password.label "సంకేతపదం">
-
-
+<!ENTITY sync.input.key.label "రికవరీ కీ">
+<!ENTITY sync.checkbox.server.label "మలచిన సేవిక ఉపయోగించు…">
 <!ENTITY sync.input.server.label "సేవిక URL">
 <!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; అమర్చలేదు">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; సేవకికి అనుసంధానం అవలేకపోయింది. మళ్ళీ పయత్నిస్తారా?">
 <!ENTITY sync.button.tryagain.label "మరలా ప్రయత్నించు">
 <!ENTITY sync.button.manual.label "మానవీయ అమర్పు">
 <!ENTITY sync.subtitle.nointernet.label "అంతర్జాల అనుసంధానం అందుబాటులోలేదు.">
 <!ENTITY sync.subtitle.failaccount.label "మీ పరికరంలో ఖాతా సృష్టింపు విఫలమైంది.">
-
+<!ENTITY sync.subtitle.failmultiple.label "మీరు ఒకటి కన్నా ఎక్కువ ఫైర్‌ఫాక్స్ సంస్థాపించారా? ప్రస్తుతం, &syncBrand.fullName.label; ఒకే సారి ఒక ఫైర్‌ఫాక్స్ సంస్థాపనకు మాత్రమే తోడ్పాటునిస్తోంది. &syncBrand.shortName.label; ఉపయోగించుటకు దయచేసి ఇతర సంభవాలను నిర్మూలించండి.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "అమర్పు పూర్తైనది">
-
+<!ENTITY sync.subtitle.success.label1 "మీ దత్తాంశం ప్రస్తుతం బ్యాక్‌గ్రౌండ్ నందు దింపుకోలు అవుతోంది. మీ ఖాతాను నిర్వహించుటకు మీరు అమరికలకు వెళ్ళవచ్చు, లేదా &brandShortName; తో విహరణ ప్రారంభించవచ్చు.">
 <!ENTITY sync.settings.label "అమరికలు">
-
+<!ENTITY sync.subtitle.manage.label1 "మీ &syncBrand.fullName.label; ఖాతా ఇప్పటికే అమర్చబడెను. మీ ఖాతాను నిర్వహించుటకు మీరు అమరికలకు వెళ్ళవచ్చు, లేదా &brandShortName; ఆరంభించవచ్చు.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "దయచేసి మరలా ప్రయత్నించు.">
-
+<!ENTITY sync.pair.connectlocation.label "మీ కొత్త పరికరం క్రియాశీలపరచుటకు, పరికరంపైన  “&syncBrand.shortName.label; అమర్చు” ను ఎంపికచేయి, మరియు “నేను ఖాతా కలిగివున్నాను” ఎంపికచేయి.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ఐచ్ఛికములు">
@@ -56,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "ఏమి సింక్రనించాలి">
-
+<!ENTITY sync.configure.engines.sync.my.title.label "మీవి ఇవి సింక్‌చేయి...">
 <!ENTITY sync.configure.engines.title.bookmarks "ఇష్టాంశాలు">
 <!ENTITY sync.configure.engines.title.passwords "సంకేతపదాలు">
 <!ENTITY sync.configure.engines.title.history "చరిత్ర">
@@ -67,6 +71,8 @@
 <!ENTITY sync.button.connect.label "అనుసంధానించు">
 <!ENTITY sync.button.ok.label "సరే">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (ఆపివేయబడెను)">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ఇష్టాంశముల మోనూ">
@@ -74,7 +80,7 @@
 <!ENTITY bookmarks.folder.tags.label "ట్యాగులు">
 <!ENTITY bookmarks.folder.toolbar.label "ఇష్టాంశముల సాధనపట్టీ">
 <!ENTITY bookmarks.folder.unfiled.label "క్రమబద్దీకరించని యిష్టాంశములు">
-
+<!ENTITY bookmarks.folder.desktop.label "డెస్కుటాప్ ఇష్టాంశములు">
 <!ENTITY bookmarks.folder.mobile.label "మొబైల్ యిష్టాంశములు">
 <!ENTITY bookmarks.folder.readinglist.label "చదివే జాబితా">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -88,23 +94,21 @@
 <!ENTITY sync.invalidcreds.label "ఖాతా పేరు లేదా సంకేతపదం తప్పు.">
 <!ENTITY sync.invalidserver.label "దయచేసి చెల్లునటువంటి సర్వర్ URL ప్రవేశపెట్టుము">
 <!ENTITY sync.verifying.label "పరిశీలించుచున్నది…">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "రికవరీ కీ సరికానిది. దయచేసి మరలా ప్రయత్నించు.">
 <!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "టాబ్ ను పరికరాలకు పంపు">
 <!ENTITY sync.button.send.label "పంపించు">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; అమర్పు">
-
-
-
+<!ENTITY sync.title.redirect.to.set.up.sync.label "పంపు టాబ్‌లకు &syncBrand.shortName.label; అమర్చు">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "టాబ్‌లను ఇతర పరికరాలకు పంపుటకు మీ పరికరం పైన &syncBrand.fullName.label; అమర్చు.">
+<!ENTITY sync.text.tab.sent.label "మీ టాబ్ పంపబడెను!">
 <!ENTITY sync.text.tab.not.sent.label "మీ ట్యాబును పంపడంలో ఏదో సమస్య ఉంది.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_icon_contentDescription2 "ఫైర్‌ఫాక్స్ ఖాతాల ప్రతీకం">
-<!ENTITY fxaccount_intro_contentDescription2 "ఫైర్‌ఫాక్స్ ఖాతాల పరిచయ రేఖాచిత్రాలు">
-
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "ఈమెయిలు">
 <!ENTITY fxaccount_password_hint "సంకేతపదం">
@@ -115,22 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "తిరిగి విహరణకు">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "సేవా నిభందనలు">
 <!ENTITY fxaccount_policy_linkprivacy "గోప్యతా గమనిక">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;కి స్వాగతం">
-
+<!ENTITY fxaccount_getting_started_description "మీ టాబ్‌లను, ఇష్టాంశములను, సంకేతపదములను మరియు మరిన్నిటిని సింక్ చేయుటకు లోనికిరండి.">
 <!ENTITY fxaccount_getting_started_get_started "మొదలు పెట్టండి">
-
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించుకోండి">
+<!ENTITY fxaccount_create_account_header2 "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించండి">
 <!ENTITY fxaccount_create_account_password_length_restriction "కనీసం 8 అక్షరాలు ఉండాలి">
 <!ENTITY fxaccount_create_account_year_of_birth "పుట్టిన సంవత్సరం">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "నేను ఫైర్‌ఫాక్స్ క్లౌడ్ సేవల &formatS1; మరియు &formatS2; కు ఆమోదం తెలుపుతూ, కొనసాగుతున్నాను.">
 <!ENTITY fxaccount_create_account_button "తరువాత">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "ఏమి సింక్రనించాలో ఎంచుకోండి">
 <!ENTITY fxaccount_create_account_sign_in_instead "ఇప్పటికే ఖాతా ఉందా? లోనికి ప్రవేశించండి">
@@ -142,45 +152,55 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "మరింత తెలుసుకోండి">
 
 <!ENTITY fxaccount_confirm_account_header "ఖాతా‌ను నిర్ధారించండి">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "నిర్ధారణ కోరుతూ లంకె &formatS; కు పంపబడెను.">
+<!ENTITY fxaccount_confirm_account_resend_email "ఈమెయిల్ తిరిగిపంపు">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "నిర్ధారణ కోరుతీ ఈమెయిల్ పంపెను">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "నిర్ధారణ కోరుతూ ఈమెయిల్ పంపలేక పోయెను">
 
-
-
-
-
+<!ENTITY fxaccount_sign_in_sub_header "ప్రవేశించు">
+<!ENTITY fxaccount_sign_in_button_label "ప్రవేశించు">
 <!ENTITY fxaccount_sign_in_forgot_password "సంకేతపదం మరచిపోయారా?">
 <!ENTITY fxaccount_sign_in_create_account_instead "ఒక ఖాతాను సృష్టించు">
-
+<!ENTITY fxaccount_sign_in_unknown_error "ప్రవేశించలేక పోయెను">
 
 <!ENTITY fxaccount_account_verified_sub_header "ఖాతా నిర్ధారణ అయ్యింది">
+<!ENTITY fxaccount_account_verified_description2 "మీ దత్తాంశం సింక్ అగుట ప్రారంబించబడును.">
 
-
-
+<!ENTITY fxaccount_update_credentials_header "ప్రవేశించు">
+<!ENTITY fxaccount_update_credentials_button_label "ప్రవేశించు">
 <!ENTITY fxaccount_update_credentials_unknown_error "ప్రవేశించ లేకపోయాం">
 
-<!ENTITY fxaccount_status_header "ఫైర్‌ఫాక్స్ ఖాతా">
+<!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
+<!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: చేతనం">
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
-
-
+<!ENTITY fxaccount_status_needs_credentials "అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.">
+<!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
-
+<!ENTITY fxaccount_status_tabs "తెరచిన టాబ్‌లు">
 <!ENTITY fxaccount_status_legal "చట్టబద్ధం" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "సేవా నియమాలు">
+<!ENTITY fxaccount_status_linkprivacy "గోప్యతా గమనిక">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "ఫైర్‌ఫాక్స్">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ఎంపికలు">
-
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; ఆకృతీకరించు">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
@@ -192,11 +212,12 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "చెల్లని ఈమెయిలు లేదా సంకేతపదం">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "చెల్లని ఈమెయిలు లేదా సంకేతపదం">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ఖాతా నిర్ధారణ కాలేదు">
-
-
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ఏదో సమస్య ఉంది">
-
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "నెట్వర్కునకు అనుసంధానం కాలేదు">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; వలె ప్రవేశించడానికి తాకండి">
