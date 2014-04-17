@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme čekanja">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Adresa nije prepoznata">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Adresa nije prepoznata">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Možda trebate instalirati drugi program za otvaranje ove adrese.</li> 
 </ul>">
 
