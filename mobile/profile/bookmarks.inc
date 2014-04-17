@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title മൊബൈല്‍
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,11 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser ഫയര്‍ഫോക്സ്: നിങ്ങളുടെ ബ്രൌസറിനെപ്പറ്റി
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
-
 
 
 
@@ -47,6 +49,7 @@
 
 
 
+#define bookmarks_addons ഫയര്‍ഫോക്സ്: ആഡ്-ഓണുകള്‍ ചേര്‍ക്കൂ
 
 
 
@@ -54,14 +57,11 @@
 
 
 
-
-
-
 # link title for https://support.mozilla.org/mobile
 
 
 
-
+#define bookmarks_support ഫയര്‍ഫോക്സ്: പിന്തുണ
 
 
 
@@ -69,16 +69,11 @@
 
 
 
-
-
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
-
+#define bookmarks_marketplace ഫയര്‍ഫോക്സ് മാര്‍ക്കറ്റ്
 
 
 

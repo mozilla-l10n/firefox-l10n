@@ -183,7 +183,7 @@ size. -->
 
 <!ENTITY addons "ആഡ്-ഓണുകള്‍">
 <!ENTITY downloads "ഡൌണ്‍ലോഡുകള്‍">
-
+<!ENTITY apps "പ്രയോഗങ്ങള്‍">
 <!ENTITY char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 
 
@@ -215,7 +215,7 @@ size. -->
 
 
 
-
+<!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
 
 
 <!ENTITY contextmenu_paste "ഒട്ടിക്കുക">
