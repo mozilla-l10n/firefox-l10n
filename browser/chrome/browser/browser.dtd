@@ -193,7 +193,7 @@
 <!ENTITY devToolboxMenuItem.label "Attiva strumenti">
 <!ENTITY devToolboxMenuItem.accesskey "m">
 <!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti per sviluppatori">
+<!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti di sviluppo">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
