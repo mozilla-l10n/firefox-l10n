@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "ताळमेळ">
+<!ENTITY sync.notconnected          "जोडलेले नाही">
+<!ENTITY sync.connect               "जोडणी करा">
+
+<!ENTITY sync.details               "तपशील">
+
+
+
+
+
+
+
+<!ENTITY sync.account               "खाते नाव">
+<!ENTITY sync.password              "पासवर्ड">
+<!ENTITY sync.recoveryKey           "पुनःप्राप्ति कि">
+<!ENTITY sync.customServer          "मनपसंत सर्वर वापरा">
+<!ENTITY sync.serverURL             "सर्व्हरचा URL">
+<!ENTITY sync.setup.connect         "जोडणी करा">
+<!ENTITY sync.setup.cancel          "रद्द करा">
+
+<!ENTITY sync.setup.waiting2        "इतर उपकरणासाठी प्रतिक्षा करत आहे...">
+
+<!ENTITY sync.pair.title            "साधनाची जोडणी करा">
+
+<!ENTITY sync.setup.close           "बंद करा">
+

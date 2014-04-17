@@ -1,0 +1,196 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox ताळमेळ">
+<!ENTITY syncBrand.shortName.label "ताळमेळ">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;ला जोडा">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; खाते जोडा">
+<!ENTITY sync.title.pair.label "उपकरणाची जोडी बनवा">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "तुमचे नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर \&quot;&syncBrand.shortName.label; रचा\&quot; निवडा.">
+<!ENTITY sync.subtitle.header2.label "हा संदेश तुमच्या दुसऱ्या उपकरणावर भरा">
+<!ENTITY sync.subtitle.connectlocation2.label "तुमच्या दुसऱ्या उपकरणाच्या Firefox पर्यायांमधील &syncBrand.shortName.label; भागात &sync.title.pair.label; निवडा.">
+<!ENTITY sync.subtitle.pair.label "कार्यान्वित करण्यासाठी, आपल्या दुसऱ्या उपकरणावर \&quot;उपकरणाची जोडणी करा\&quot; निवडा.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "कसे ते सांगा.">
+<!ENTITY sync.link.advancedsetup.label "प्रगत सेटअप...">
+<!ENTITY sync.link.nodevice.label "माझ्या सोबत उपकरण नाही...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "इतर उपकरणासाठी प्रतिक्षा करत आहे...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "तुमची &syncBrand.fullName.label; खाते माहिती भरा.">
+<!ENTITY sync.input.username.label "खाते नाव">
+<!ENTITY sync.input.password.label "पासवर्ड">
+<!ENTITY sync.input.key.label "पुनःप्राप्ति कि">
+<!ENTITY sync.checkbox.server.label "मनपसंत सर्वर वापरा">
+<!ENTITY sync.input.server.label "सर्वर URL">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label;ची मांडणी नाही करु शकत">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; सर्वरशी जोडणी नाही करु शकले. तुम्हाला परत प्रयत्न करायला आवडेल?">
+<!ENTITY sync.button.tryagain.label "पुन:प्रयत्न करा">
+
+<!ENTITY sync.subtitle.nointernet.label "इंटरनेट जोडणी उपलब्ध नाही.">
+<!ENTITY sync.subtitle.failaccount.label "तुमच्या उपकरणावर खाते निर्मिती अयशस्वी.">
+<!ENTITY sync.subtitle.failmultiple.label "तुमच्याकडे एकापेक्षा जास्त Firefox प्रतिष्ठापित केलेले आहेत का? सध्या, &syncBrand.fullName.label; एकावेळेस एक Firefox प्रतिष्ठापनेला आधार देतं. &syncBrand.shortName.label; वापरण्यासाठी इतर नमुने कृपया अप्रतिष्ठापित करा.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "प्रतिष्ठापना पूर्ण">
+<!ENTITY sync.subtitle.success.label1 "तुमची माहिती पडद्यामागे डाउनलोड होत आहे. खाते व्यवस्थापनासाठी तुम्ही सेटिंग्समध्ये जाउ शकता, किंवा &brandShortName; वापरणे सुरु करु शकता.">
+<!ENTITY sync.settings.label "सेटिंग्स">
+<!ENTITY sync.subtitle.manage.label1 "तुमची&syncBrand.fullName.label; खाते मांडणी अगोदरच झाली आहे. खाते व्यवस्थापनेसाठी तुम्ही सेटिंग्समध्ये जाउ शकता, किंवा &brandShortName; सुरु करु शकता.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "कृपया पुनःप्रयत्न करा.">
+<!ENTITY sync.pair.connectlocation.label "तुमचं नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर \&quot;&syncBrand.shortName.label;ची मांडणी करा\&quot; निवडा, आणि नंतर \&quot;माझं खातं आहे.\&quot; निवडा">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "पर्याय">
+<!ENTITY sync.summary.pair.label "तुमच्या &syncBrand.shortName.label; खात्याशी इतर उपकरण जोडा">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "कशाचे ताळमेळ करायचे">
+<!ENTITY sync.configure.engines.sync.my.title.label "ताळमेळ करा तुमचे...">
+<!ENTITY sync.configure.engines.title.bookmarks "वाचनखूणा">
+<!ENTITY sync.configure.engines.title.passwords "पासवर्डस्">
+<!ENTITY sync.configure.engines.title.history "इतिहास">
+<!ENTITY sync.configure.engines.title.tabs "टॅब्स">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "रद्द करा">
+<!ENTITY sync.button.connect.label "जोडा">
+<!ENTITY sync.button.ok.label "ठीक">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (नापसंत)">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "वाचनखूण मेनु">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "टॅग्स">
+<!ENTITY bookmarks.folder.toolbar.label "वाचनखूणांची साधनपट्टी">
+<!ENTITY bookmarks.folder.unfiled.label "विनाक्रम वाचनखूणा">
+<!ENTITY bookmarks.folder.desktop.label "डेस्कटॉप वाचनखूणा">
+<!ENTITY bookmarks.folder.mobile.label "मोबाईल वाचनखूणा">
+<!ENTITY bookmarks.folder.readinglist.label "वाचन यादी">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "फक्त एक &syncBrand.fullName.label; खातं अनुमत.">
+<!ENTITY sync.notification.configure.saved "तुमच्या निवडी साठवलेल्या गेल्या आहेत.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "खाते नाव किंवा पासवर्ड चुकीचे">
+<!ENTITY sync.invalidserver.label "कृपया वैध सर्वर URL द्या">
+<!ENTITY sync.verifying.label "तपासत आहे…">
+
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "टॅब उपकरणांना पाठवा">
+<!ENTITY sync.button.send.label "पाठवा">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; मांडा">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "टॅब पाठवण्यासाठी &syncBrand.shortName.label; मांडा">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "तुमच्या उपकरणावरुन इतर उपकरणांवर टॅब्स पाठवण्यासाठी &syncBrand.fullName.label; मांडा">
+<!ENTITY sync.text.tab.sent.label "तुमचा टॅब पाठवला गेला!">
+<!ENTITY sync.text.tab.not.sent.label "तुमचा टॅब पाठवण्यात एक अडचण होती.">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "इमेल">
+<!ENTITY fxaccount_password_hint "पासवर्ड">
+<!ENTITY fxaccount_password_hide "लपवा">
+<!ENTITY fxaccount_password_show "दाखवा">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_button "पुढील">
+
+
+
+
+
+
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "आणखी शिका">
+
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->

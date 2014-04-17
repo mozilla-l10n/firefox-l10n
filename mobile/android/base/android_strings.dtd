@@ -1,0 +1,408 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "&brandShortName; सुरु होण्यासाठी पुरेशी जागा उपलब्ध नाही.">
+<!ENTITY  error_loading_file "&brandShortName; चालवण्यासाठी आवश्यक फाइली चढवताना चूक आढळली">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "वाचनखुण">
+<!ENTITY  history_title "इतिहास">
+<!ENTITY  reading_list_title "वाचन यादी">
+
+<!ENTITY  switch_to_tab "टॅबवर जा">
+
+<!ENTITY  crash_reporter_title "&brandShortName; आपत्ती बातमीदार">
+<!ENTITY  crash_message2 "&brandShortName;मध्ये समस्या होती आणि त्यास आपत्ती झाली. तुम्ही परत सुरु करताना &brandShortName; सुरुवाती पानावर तुमच्या टॅब्सची यादी असेल.">
+<!ENTITY  crash_send_report_message3 "&vendorShortName;ला या आपत्तीबद्दल सांगा जेणेकरुन ते हे ठीक करु शकतील">
+<!ENTITY  crash_include_url2 "मी असलेल्या पानाचा पत्ता समाविष्ट करा">
+<!ENTITY  crash_sorry "आम्ही क्षमस्व आहोत">
+<!ENTITY  crash_comment "टिपण्णी समाविष्ट करा (टिपण्णी सार्वजनिकरित्या दृष्यास्पद आहे)">
+<!ENTITY  crash_allow_contact2 "या अहवालाबद्दल मला संपर्क साधण्यासाठी &vendorShortName;ला अनुमत करा">
+<!ENTITY  crash_email "तुमचा इमेल">
+<!ENTITY  crash_closing_alert "आपत्ती अहवाल न पाठवता बाहेर पडायचे?">
+<!ENTITY  sending_crash_report "\u2026 आपत्ती अहवाल पाठवत आहे">
+<!ENTITY  crash_close_label "बंद करा">
+<!ENTITY  crash_restart_label "&brandShortName; पुनःसुरू करा">
+<!ENTITY  exit_label "बाहेर पडा">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; वेब ॲप्स">
+<!ENTITY  launcher_shortcuts_empty "कुठलेही वेब ॲप्स सापडले नाही">
+
+<!ENTITY choose_file "फाइल निवडा">
+
+<!ENTITY url_bar_default_text "पत्ता टाका किंवा शोधा">
+
+<!ENTITY bookmark "वाचनखूण">
+<!ENTITY bookmark_added "वाचनखूण समाविष्ट">
+<!ENTITY bookmark_removed "वाचनखूण काढले">
+<!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
+<!ENTITY bookmark_options "पर्याय">
+
+<!ENTITY history_today_section "आज">
+<!ENTITY history_yesterday_section "काल">
+<!ENTITY history_week_section "७ दिवसांपूर्वी">
+<!ENTITY history_older_section "७ दिवसांपेक्षा जुने">
+
+<!ENTITY go "चला">
+<!ENTITY search "शोधा">
+<!ENTITY reload "पुनःदाखल करा">
+<!ENTITY forward "पुढे">
+<!ENTITY menu "मेनू">
+<!ENTITY back "मागे">
+<!ENTITY stop "थांबा">
+<!ENTITY site_security "साइट सुरक्षा">
+<!ENTITY save "साठवा">
+
+<!ENTITY close_tab "टॅब बंद करा">
+<!ENTITY one_tab "१ टॅब">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; टॅब्स">
+<!ENTITY new_tab_opened "नवीन टॅब उघडले">
+
+<!ENTITY settings "सेटिंग">
+<!ENTITY settings_title "सेटिंग">
+<!ENTITY pref_category_advanced "प्रगत">
+<!ENTITY pref_category_customize "स्वपसंती करा">
+<!ENTITY pref_category_search3 "शोधा">
+<!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
+<!ENTITY pref_category_display "दृश्य">
+<!ENTITY pref_category_privacy_short "गुप्तता">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "माहिती पर्याय">
+<!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
+<!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
+<!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_category_devtools "डेवलपर साधने">
+<!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
+<!ENTITY pref_developer_remotedebugging_docs "आणखी शिका">
+<!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
+
+<!ENTITY pref_category_home "घर">
+<!ENTITY pref_category_home_summary "घरपानाची स्वपसंती करा">
+<!ENTITY pref_category_home_panels "पटले">
+<!ENTITY pref_home_add_panel "पटल जोडा">
+<!ENTITY home_add_panel_title "नवीन पटल जोडा">
+<!ENTITY home_add_panel_empty "क्षमा करा, तुम्ही जोडण्यासाठी आम्हाला पटले सापडली नाहीत.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "&formatS; घरपानात समाविष्ट">
+<!ENTITY pref_category_home_content_settings "मजकुर सेटिंग">
+<!ENTITY pref_home_updates "स्वयंचलीत अद्ययावत">
+<!ENTITY pref_home_updates_enabled "चालु">
+<!ENTITY pref_home_updates_wifi "फक्त वाय-फायवर">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "स्वपसंती">
+<!ENTITY pref_header_display "दृश्य">
+<!ENTITY pref_header_privacy_short "गुप्तता">
+<!ENTITY pref_header_help "मदत">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "डेव्हलपर साधने">
+
+<!ENTITY pref_cookies_menu "कुकीज">
+<!ENTITY pref_cookies_accept_all "चालु">
+<!ENTITY pref_cookies_not_accept_foreign "३रा पक्ष सोडुन, चालु">
+<!ENTITY pref_cookies_disabled "निष्क्रिय">
+
+<!ENTITY pref_donottrack_menu "मार्गनिरीक्षण">
+<!ENTITY pref_donottrack_disallow_tracking "साईट्सला माझे मार्गनिरिक्षण करण्यास नकार सांगा">
+<!ENTITY pref_donottrack_allow_tracking "साईट्सला माझे मार्गनिरिक्षण करण्यास सांगा">
+<!ENTITY pref_donottrack_no_pref "माझ्या मार्गनिरिक्षण प्राधान्यांबद्दल साईट्सला सांगू नका">
+
+<!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
+<!ENTITY pref_char_encoding_on "मेनु दाखवा">
+<!ENTITY pref_char_encoding_off "मेनु दाखवु नका">
+<!ENTITY pref_clear_private_data "खाजगी माहिती मोकळी करा">
+<!ENTITY pref_plugins "प्लगइन्स">
+<!ENTITY pref_plugins_enabled "सक्रीय">
+
+<!ENTITY pref_plugins_disabled "निष्क्रिय">
+<!ENTITY pref_text_size "मजकूर आकार">
+<!ENTITY pref_reflow_on_zoom4 "मजकूर पुनःप्रवाह">
+<!ENTITY pref_restore "टॅब्स">
+<!ENTITY pref_restore_always "नेहमी पूर्वस्थित करा">
+<!ENTITY pref_restore_quit "&brandShortName; बंद केल्यावर पूर्वस्थित करु नका">
+<!ENTITY pref_font_size_tiny "लहान">
+<!ENTITY pref_font_size_small "छोटा">
+<!ENTITY pref_font_size_medium "मध्यम">
+<!ENTITY pref_font_size_large "मोठा">
+<!ENTITY pref_font_size_xlarge "अति मोठा">
+<!ENTITY pref_font_size_set "निश्चित करा">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "अ">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
+<!ENTITY pref_show_product_announcements "उत्पाद घोषणा दाखवा">
+<!ENTITY pref_sync "ताळमेळ">
+<!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
+<!ENTITY pref_import_android "Androidवरुन आयात करा">
+<!ENTITY pref_private_data_history "ब्राऊझिंग आणि डाऊनलोड इतिहास">
+<!ENTITY pref_private_data_formdata "फॉर्म आणि शोध इतिहास">
+<!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
+<!ENTITY pref_private_data_passwords "साठवलेले पासवर्ड">
+<!ENTITY pref_private_data_cache "कॅशे">
+<!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
+<!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
+<!ENTITY pref_private_data_downloadFiles "फाईली डाउनलोड करा">
+
+
+<!ENTITY pref_about_firefox "&brandShortName;बद्दल">
+
+<!ENTITY pref_vendor_feedback "प्रतिक्रिया द्या">
+
+<!ENTITY pref_dialog_set_default "पूर्वनिर्धारित असे निश्चित करा">
+<!ENTITY pref_dialog_default "पूर्वनिर्धारीत">
+<!ENTITY pref_dialog_remove "काढा">
+
+
+<!ENTITY pref_panels_show "दाखवा">
+<!ENTITY pref_panels_hide "लपवा">
+
+
+
+
+<!ENTITY datareporting_notification_summary_short "तुमचा अनुभव सुधारण्यासाठी, &brandShortName;...">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य अहवाल">
+<!ENTITY datareporting_fhr_summary2 "तुमच्या ब्राउझरच्या स्वास्थ्याबद्दल &vendorShortName; सोबत माहिती शेअर करतो आणि तुम्हाला तुमच्या ब्राउझरची कामगिरी समझण्यासाठी मदत करतो">
+<!ENTITY datareporting_abouthr_title "माझा आरोग्य अहवाल बघा">
+
+<!ENTITY datareporting_telemetry_summary "तुमच्या ब्राउझरची कामगिरी, प्रयोग, हार्डवेअर आणि स्वपसंती माहिती &vendorShortName; सोबत शेअर करुन &brandShortName; अधिक चांगल बनवण्यासाठी आम्हाला मदत करतो">
+<!ENTITY datareporting_crashreporter_summary "&vendorShortName;ला तुमचे ब्राउझर अधिक स्थिर व सुरक्षित बनवण्यास मदतीसाठी &brandShortName; क्रॅश अहवाल दाखल करतो">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+<!ENTITY datareporting_wifi_summary "ओपन वेबसाठी जिओलोकेशन सेवा सुधारण्यासाठी &brandShortName;ला निनावी सेल्युलर टॉवर माहिती एकत्र करुन आणि पाठवणे">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+
+<!ENTITY pref_update_autodownload2 "सुधारणा स्वयं डाऊनलोड करा">
+<!ENTITY pref_update_autodownload_wifi "फक्त वाय-फायवर">
+<!ENTITY pref_update_autodownload_never "कधीच नाही">
+<!ENTITY pref_update_autodownload_always "नेहमी">
+
+
+<!ENTITY addons "ॲड-ऑन्स">
+<!ENTITY downloads "डाउनलोड्स">
+<!ENTITY apps "ॲप्स">
+
+
+
+<!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
+<!ENTITY save_as_pdf "PDF म्हणून साठवा">
+<!ENTITY find_in_page "पानात शोधा">
+<!ENTITY desktop_mode "डेस्कटॉप साइटची विनंती करा">
+<!ENTITY page "पान">
+<!ENTITY tools "साधने">
+<!ENTITY new_tab "नवीन टॅब">
+<!ENTITY new_private_tab "नवीन खाजगी टॅब">
+<!ENTITY close_all_tabs "सर्व टॅब बंद करा">
+
+<!ENTITY tabs_private "खाजगी">
+
+
+<!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_prev "मागील">
+<!ENTITY find_next "पुढील">
+<!ENTITY find_close "बंद करा">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "चालू करा">
+
+
+
+<!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
+
+<!ENTITY contextmenu_remove "काढा">
+<!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
+<!ENTITY contextmenu_share "शेअर करा">
+
+<!ENTITY contextmenu_paste "चिकटवा">
+<!ENTITY contextmenu_copyurl "पत्ता कॉपी करा">
+<!ENTITY contextmenu_edit_bookmark "संपादन करा">
+<!ENTITY contextmenu_subscribe "पानास सबस्क्राइब करा">
+<!ENTITY contextmenu_site_settings "साइट सेटिंगचे संपादन करा">
+<!ENTITY contextmenu_top_sites_edit "संपादन करा">
+
+
+<!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
+
+<!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
+<!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
+<!ENTITY pref_titlebar_mode_url "पानाचा पत्ता दाखवा">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "शीर्षक पट्टी स्क्रोल करा">
+
+<!ENTITY history_removed "पान काढले गेले">
+
+<!ENTITY bookmark_edit_title "वाचनखुणेचे संपादन करा">
+<!ENTITY bookmark_edit_name "नाव">
+
+
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "साइट सेटिंग">
+<!ENTITY site_settings_cancel       "रद्द करा">
+<!ENTITY site_settings_clear        "पुसा">
+<!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
+
+<!ENTITY reading_list_add "वाचन यादीत जोडा">
+<!ENTITY reading_list_added "पान तुमच्या वाचन यादीत जोडले गेले">
+<!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
+<!ENTITY reading_list_failed "तुमच्या वाचन यादीत पान जोडण्यात अयशस्वी">
+<!ENTITY reading_list_duplicate "पान अगोदरच तुमच्या वाचन यादीत">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "अतिरिक्त कृती">
+
+<!ENTITY masterpassword_create_title "मास्टर पासवर्ड बनवा">
+<!ENTITY masterpassword_remove_title "मास्टर पासवर्ड काढा">
+<!ENTITY masterpassword_password "पासवर्ड">
+<!ENTITY masterpassword_confirm "पासवर्डची खात्री करा">
+
+<!ENTITY button_ok "ठीक आहे">
+<!ENTITY button_cancel "रद्द करा">
+<!ENTITY button_yes "होय">
+<!ENTITY button_no "नाही">
+<!ENTITY button_clear_data "माहिती पुसा">
+
+<!ENTITY button_clear "पुसा">
+
+<!ENTITY home_top_sites_title "खास साईट्स">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "साईट जोडा">
+
+<!ENTITY home_history_title "इतिहास">
+<!ENTITY home_bookmarks_empty "तुम्ही साठवलेले वाचनखूणा येथे दिसतील.">
+<!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
+<!ENTITY home_last_tabs_open "मागील वेळच्या सगळ्या टॅब उघडा">
+<!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
+<!ENTITY home_most_recent_title "अगदी अलिकडील">
+<!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
+<!ENTITY home_reading_list_empty "नंतरसाठी साठवलेले लेख येथे दिसतील.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "टीप: शीर्षक पट्टीत वाचक पद्धत बटण दिसल्यावर ते जास्त वेळ दाबून तुमच्या वाचन यादीत लेख साठवा.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "या पटलासाठी कुठलाही मजकूर सापडला नाही.">
+
+
+<!ENTITY filepicker_title "फाईल निवडा">
+<!ENTITY filepicker_audio_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
+
+
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "तुम्ही यांच्यासह जुळलेले आहात">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "यांकडून चालविले जाते">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "हे पान आशय दाखवत आहे जे सुरक्षित नाही.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName;ने आशय अडवले आहे जे असुरक्षित आहे.">
+<!ENTITY blocked_mixed_content_message_bottom "हा आशय अडवल्यावरही अनेक संकेतस्थळे योग्यरित्या कार्य करतील.">
+<!ENTITY learn_more "आणखी शिका">
+<!ENTITY enable_protection "सुरक्षा सक्रीय करा">
+<!ENTITY disable_protection "सुरक्षा निष्क्रिय करा">
+<!ENTITY keep_blocking "अडवत ठेवा">
+
+<!ENTITY private_data_success "खाजगी माहिती पुसली गेली">
+<!ENTITY private_data_fail "काही खाजगी माहिती पुसली जाऊ शकली नाही">
+
+<!ENTITY bookmarkhistory_button_import "आयात करा">
+<!ENTITY bookmarkhistory_import_both "Androidमधून वाचनखूणा आणि इतिहास 
+आयात करत आहे">
+<!ENTITY bookmarkhistory_import_bookmarks "Androidमधून 
+वाचनखूणा आयात करत आहे">
+<!ENTITY bookmarkhistory_import_history "Androidमधून 
+इतिहास आयात करत आहे">
+<!ENTITY bookmarkhistory_import_wait "कृपया प्रतिक्षा करा...">
+
+<!ENTITY suggestions_prompt3 "तुम्ही शोध सूचना सुरु करु इच्छिता?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "&formatS2;साठी &formatS1; शोधा">
+
+<!ENTITY webapp_generic_name "ॲप">
+
+<!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
+
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
+<!ENTITY updater_start_select2 "डाउनलोड करण्यासाठी स्पर्श करा">
+
+<!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड होत आहे">
+<!ENTITY updater_downloading_title_failed2 "डाउनलोड अयशस्वी">
+<!ENTITY updater_downloading_select2 "डाउनलोड झाल्यावर अद्ययावत सक्रीय करण्यासाठी स्पर्श करा">
+<!ENTITY updater_downloading_retry2 "पुनःप्रयत्नासाठी स्पर्श करा">
+
+<!ENTITY updater_apply_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
+<!ENTITY updater_apply_select2 "अद्ययावतासाठी स्पर्श करा">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "नवीन अतिथी सत्र">
+<!ENTITY exit_guest_session "अतिथी सत्रातुन बाहेर पडा">
+<!ENTITY guest_session_dialog_continue "सुरू ठेवा">
+<!ENTITY guest_session_dialog_cancel "रद्द करा">
+<!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
+<!ENTITY new_guest_session_text "जी व्यक्ती हे वापरत असेल त्याला तुमची वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा तुमच्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःस्थापित होईल.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
+<!ENTITY exit_guest_session_text "या सत्राची ब्राउझिंग माहिती काढून टाकली जाईल.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "मेनू">
+<!ENTITY actionbar_done "पूर्ण">

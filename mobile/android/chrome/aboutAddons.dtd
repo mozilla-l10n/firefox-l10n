@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "ॲड-ऑन्स्">
+<!ENTITY aboutAddons.header2                    "आपले अॅड-ऑन्स्">
+<!ENTITY aboutAddons.options                    "पर्याय">
+<!ENTITY aboutAddons.browseAll                  "सर्व Firefox अॅड-ऑन्स् पहा">
+
+<!ENTITY addonAction.enable                     "कार्यान्वित करा">
+<!ENTITY addonAction.disable                    "निष्क्रिय करा">
+<!ENTITY addonAction.uninstall                  "विस्थापन करा">
+
