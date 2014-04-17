@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Suidhich &syncBrand.fullName.label; air an uidheam agad gus tabaichean a chur gu uidheaman eile.">
 <!ENTITY sync.text.tab.sent.label "Chaidh an taba agad a chur!">
 <!ENTITY sync.text.tab.not.sent.label "Thachair duilgheadas nuair a chuir sinn a taba agad.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "Grafaig airson bogsa-cromaige cunntasan Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Ìomhaigheag cunntasan Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Grafaigean tòiseachadh cunntasan Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Grafaig cèiseag cunntasan Firefox">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "Post-d">
 <!ENTITY fxaccount_password_hint "Facal-faire">
@@ -126,23 +119,28 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "Till gun bhrabhsadh">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Teirmichean na Seirbheise">
-<!ENTITY fxaccount_policy_linkprivacy "sanas prìobhaideachd">
+<!ENTITY fxaccount_policy_linktos "Teirmichean na seirbheise">
+<!ENTITY fxaccount_policy_linkprivacy "Sanas prìobhaideachd">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fàilte gu &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Clàraich a-steach gus na tabaichean, comharran-lìn, faclan-faire ┐ mòran a bharrachd a shioncronachadh.">
+<!ENTITY fxaccount_getting_started_description "Clàraich a-steach gus na tabaichean, comharran-lìn, faclan-faire ⁊ mòran a bharrachd a shioncronachadh.">
 <!ENTITY fxaccount_getting_started_get_started "Dèan toiseach tòiseachaidh">
 <!ENTITY fxaccount_getting_started_old_firefox "A bheil thu a\u0027 cleachdadh seann-tionndadh de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "Cruthaich cunntas Firefox">
+<!ENTITY fxaccount_create_account_header2 "Cruthaich cunntas Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Feumaidh seo a bhith 8 caractaran a dh\u0027fhaid co-dhiù">
 <!ENTITY fxaccount_create_account_year_of_birth "Bliadhna-breith">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "Ma leanas tu air adhart, bidh thu ag aontachadh ri &formatS1; agus &formatS2; airson seirbheisean Firefox air loidhne.">
+<!ENTITY fxaccount_create_account_policy_text2 "Ma leanas tu air adhart, bidh thu ag aontachadh ri &formatS1; agus &formatS2; airson seirbheisean Firefox sa neul.">
 <!ENTITY fxaccount_create_account_button "Air adhart">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Tagh na tha thu airson sioncronachadh">
 <!ENTITY fxaccount_create_account_sign_in_instead "A bheil cunntas agad mu thràth? Clàraich a-steach">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Barrachd fiosrachaidh">
 
 <!ENTITY fxaccount_confirm_account_header "Dearbh an cunntas agad">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Chaidh ceangal dearbhaidh a chur gu &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Cuir am post-d a-rithist">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Chaidh am post-d dearbhaidh a chur">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "Clàraich a-steach">
 <!ENTITY fxaccount_update_credentials_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
 
-<!ENTITY fxaccount_status_header "Cunntas Firefox">
+<!ENTITY fxaccount_status_header2 "Cunntas Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "Tha &syncBrand.shortName.label;: an comas">
 <!ENTITY fxaccount_status_needs_verification2 "Feumaidh tu an cunntas agad a dhearbhadh. Thoir gnogag gus post-d dearbhaidh ath-chur.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "Faclan-faire">
 <!ENTITY fxaccount_status_tabs "Tabaichean fosgailte">
 <!ENTITY fxaccount_status_legal "Nòtaichean laghail" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Teirmichean na seirbheise">
+<!ENTITY fxaccount_status_linkprivacy "Sanas prìobhaideachd">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "Roghainnean &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Rèitich &syncBrand.shortName.label;">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Chan eil &syncBrand.shortName.label; ceangailte">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Thoirt gnogag gus clàradh a-steach mar &formatS;">
