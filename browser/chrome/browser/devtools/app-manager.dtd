@@ -26,12 +26,16 @@
 <!ENTITY device.prompt "ప్రామ్టు">
 
 <!ENTITY device.deny "తిరస్కరించు">
-
+<!ENTITY device.denyTooltip "ఇటువంటి ఆప్స్‌కి ఈ అనుమతి నిరాకరించబడింది">
 <!ENTITY device.installedApps "స్థాపిత అనువర్తనాలు">
 <!ENTITY device.installedAppsTooltip "ఈ పరికరంపై సంస్థాపించిన అనువర్తనాల జాబితా దర్శించు. కొన్ని అనువర్తనాలు, దృవీకరించినటువంటివి, ఈ దర్శనం నుండి మినహాయించి వుండవచ్చు.">
 <!ENTITY device.permissions "అనుమతులు">
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
+
+
+
 <!ENTITY device.help "సహాయం">
 
 <!ENTITY connection.disconnect "అననుసంధానించు">
@@ -82,6 +86,8 @@
 <!ENTITY projects.valid "విలువైన">
 <!ENTITY projects.error "దోషం">
 <!ENTITY projects.warning "హెచ్చరిక">
+
+
 
 <!ENTITY help.title "అనువర్తన నిర్వాహిక">
 <!ENTITY help.close "మూసివేయి">

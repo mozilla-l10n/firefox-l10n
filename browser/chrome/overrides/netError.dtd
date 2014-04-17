@@ -72,8 +72,8 @@
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ఆ చిరునామా అర్థం కావడంలేదు">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "ఆ చిరునామా అర్థం కావడంలేదు">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరు సంస్థాపించవలిసిన అవసరం వుండవచ్చు.</li> 
 </ul>">
 

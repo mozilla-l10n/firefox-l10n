@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "కుకీలు">
 <!ENTITY clearPrivateData.cache                                  "క్యాచి">
 <!ENTITY clearPrivateData.sitePref                               "సైటు అభీష్టాలు">
-<!ENTITY clearPrivateData.formSearchHist                         "ఫారాలు మరియు వెతుకుడు చరిత్ర">
+
 <!ENTITY clearPrivateData.passwords                              "భద్రపరచబడిన సంకేతపదాలు">
 <!ENTITY clearPrivateData.offline                                "ఆఫ్‌లైన్ వెబ్‌సైటు దత్తాంశం">
 <!ENTITY clearPrivateData.logins                                 "క్రియాశీల లాగిన్లు">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "సంకేతపదాలను గుర్తుంచుకో">
+
 <!ENTITY doNotTrack.title                                        "జాడ పట్టవద్దు">
 <!ENTITY doNotTrack.options.doNotTrack                           "నా గురించిన ఆరా కలిగివుండవద్దని వెబ్‌సైట్లకు చెప్పు">
 <!ENTITY doNotTrack.options.doTrack                              "నా గురించిన ఆరా కలిగివుండమని వెబ్‌సైట్లకు చెప్పు">

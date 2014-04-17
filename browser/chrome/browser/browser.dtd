@@ -28,8 +28,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "కుడివైపు ట్యాబులను మూసివేయి (i)">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "ఇతర టాబ్‌లను మూసివేయి">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -98,7 +98,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
-<!ENTITY syncStartPanel.heading "&brandShortName; ఇప్పుడు సింక్రనిస్తూంది">
 
 
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label;కి అనుసంధానించలేకున్నాం">
@@ -130,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి (S)">
+
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "S">
-<!ENTITY shareLinkCmd.label "ఈ లంకెను పంచుకోండి (S)">
-<!ENTITY shareLinkCmd.accesskey "S">
-<!ENTITY shareImageCmd.label "ఈ బొమ్మను పంచుకోండి (S)">
-<!ENTITY shareImageCmd.accesskey "S">
+
+
+
+
+
 <!ENTITY shareSelectCmd.label "భాగస్వామ్య యెంపిక">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "ఈ వీడియోను పంచుకోండి (S)">
-<!ENTITY shareVideoCmd.accesskey "S">
+
+
 <!ENTITY feedsMenu.label "చందాచేరు">
 <!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
@@ -256,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "అభివృద్దికారి సాధనపట్టీను మూయి">
 <!ENTITY devToolbarMenu.label              "అభివృద్దికారి సాధనపట్టీ">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "అనువర్తన నిర్వాహిక">
-<!ENTITY devAppMgrMenu.accesskey           "a">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "సాధనాలను మార్చు">
@@ -458,16 +457,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "చిత్రాన్ని యిలా భద్రపరచు...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "దృశ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+
+
 <!ENTITY saveAudioCmd.label           "శ్రవ్యకాన్ని వేరే పేరుతో భద్రపరచు…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ఈమెయిల్ చిత్రము…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ఈమెయిల్ వీడియో…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "ఈమెయిల్ ఆడియో…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 <!ENTITY playPluginCmd.label          "ఈ చొప్పింత క్రియాశీలపరచు">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "ఈ చొప్పింత మరుగునవుంచు">
@@ -615,6 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "పదకోశాలను కలుపు...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -659,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+
+
 <!ENTITY syncToolbarButton.label      "సింక్">
 
 <!ENTITY socialToolbar.title        "సోషన్ సాధనపట్టీ బటన్">
@@ -666,8 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "సరే">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "పక్కపట్టీని చూపించు (S)">
-<!ENTITY social.toggleSidebar.accesskey "S">
+
 
 <!ENTITY social.addons.label "సేవలను నిర్వహించు...">
 
@@ -681,10 +682,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ఇప్పుడు కాదు">
 
-
-
+<!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
-
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
 
 
 
@@ -706,7 +706,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "కేమెరా / మైక్రోఫోన్ యాక్సెస్">
 <!ENTITY webrtcIndicatorButton.tooltip "ప్రస్తుతం మీ కేమెరా లేదా మైక్రోఫోన్ పంచుకొనుచన్న సైట్లను ప్రదర్శించు">
 
-<!ENTITY mixedContentBlocked.helplink "మరింత నేర్చుకోండి">
 <!ENTITY mixedContentBlocked.moreinfo "ఈ కాంటెంట్ నిరోధించబడినా కూడా చాలా వెబ్‌సైట్లు యింకా సరిగానే పనిచేయును.">
 
 <!ENTITY pointerLock.notification.message "దీనిని మరలా చూపుటకు యెప్పుడైనా ESC వత్తండి.">

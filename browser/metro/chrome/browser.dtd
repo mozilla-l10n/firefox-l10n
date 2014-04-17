@@ -59,17 +59,18 @@
 <!ENTITY consoleMessages.label     "సందేశాలు">
 <!ENTITY consoleCodeEval.label     "కోడ్:">
 <!ENTITY consoleClear.label        "శుభ్రం">
+
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "మూలమైన  ఫైల్ :">
 <!ENTITY consoleErrLine.label      "గీత:">
 <!ENTITY consoleErrColumn.label    "నిలువు వరుస:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "కత్తిరించు">
-<!ENTITY contextTextCopy.label             "నకలుతీయి">
+
 <!ENTITY contextTextPaste.label            "అతికించు">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "అతికించు మరియు వెళ్ళు">
 <!ENTITY contextTextSelect.label           "ఎంపికచేయి">
 <!ENTITY contextTextSelectAll.label        "అన్నిటిని ఎన్నుకొనుము">
 <!-- LINK CONTEXT MENU -->
@@ -134,12 +135,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 
