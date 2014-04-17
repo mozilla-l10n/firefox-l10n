@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "আপনি একটি নতুন ব্যক্তিগত ট্যাব খুলেছেন।">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "আপনি কোন ব্যাক্তিগত ট্যাবে নেই।">
+
+<!ENTITY privatebrowsingpage.description            "ব্যাক্তিগত ট্যাবগুলিতে, &brandShortName; কোন ব্রাউসার ইতিহাস, অনুসন্ধান ইতিহাস, ডাউনলোড ইতিহাস, ওয়েব ফর্ম ইতিহাস, কুকিসমুহ, ক্ষণস্থায়ী ইন্টারনেট ফাইলসমূহ রেখে দেওয়া হবেনা। যদিও, ডাউনলোড করা ফাইল এবং বুকমার্কগুলি রেখে দেওয়া হবে।">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "ব্রাউজিং সংক্রান্ত তথ্য এই ডিভাইসের মধ্যে উপস্থিত না থাকলেও, ইন্টারনেট পরিসেবা উপলব্ধকারী  আপনার পরিদর্শিত পৃষ্ঠাগুলি সহজেই সনাক্ত করতে পারবেন।">

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "সিঙ্ক">
+<!ENTITY sync.notconnected          "সংযুক্ত নয়">
+<!ENTITY sync.connect               "যুক্ত করুন">
+<!ENTITY sync.connected             "সংযুক্ত">
+<!ENTITY sync.details               "বিবরণ">
+<!ENTITY sync.deviceName            "এই ডিভাইসটি">
+<!ENTITY sync.disconnect            "Disconnect">
+<!ENTITY sync.syncNow               "অবিলম্বে সিঙ্ক করুন">
+
+<!ENTITY sync.setup.title           "সিঙ্ক করার জন্যে যুক্ত করুন">
+<!ENTITY sync.setup.pair            "সক্রিয় করার জন্য, অন্য ডিভাইসের মধ্যে &quot;Pair a Device&quot; নির্বাচন করুন।">
+<!ENTITY sync.fallback              "আমি কম্পিউটারের কাছে নেই">
+<!ENTITY sync.setup.manual          "সিঙ্ক অ্যাকাউন্ট সংক্রান্ত তথ্য লিখুন">
+<!ENTITY sync.account               "অ্যাকাউন্টের নাম">
+<!ENTITY sync.password              "পাসওয়ার্ড">
+<!ENTITY sync.recoveryKey           "পুনরুদ্ধারের কি">
+<!ENTITY sync.customServer          "স্বনির্ধারিত সার্ভার ব্যবহার করুন">
+<!ENTITY sync.serverURL             "সার্ভার URL">
+<!ENTITY sync.setup.connect         "সংযোগ করুন">
+<!ENTITY sync.setup.cancel          "বাতিল করুন">
+<!ENTITY sync.setup.tutorial        "প্রণালী জেনে নিন।">
+<!ENTITY sync.setup.waiting2        "অপর ডিভাইসের জন্য অপেক্ষারত">
+
+<!ENTITY sync.pair.title            "একটি ডিভাইসের সাথে যুক্ত করুন">
+<!ENTITY sync.pair.description      "নতুন ডিভাইস সক্রিয় করার জন্য, ডিভাইসের মধ্যে &quot;Set Up Sync&quot; নির্বাচন করুন।">
+<!ENTITY sync.setup.close           "বন্ধ করুন">
+<!ENTITY sync.setup.waitingdownload "আপনার তথ্য নেপথ্যে ডাউনলোড করা হচ্ছে। আপনি যেকোনো সময় উইন্ডোটি বন্ধ করতে পারেন">
