@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "ନାମ">
 
 <!ENTITY cancel.label           "ବାତିଲ କରନ୍ତୁ">
-
+<!ENTITY toggle.label           "ଆଗ ପଛ">
 
 <!ENTITY integer.label          "ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା">
 <!ENTITY string.label           "ବାକ୍ୟ ଖଣ୍ଡ">
 <!ENTITY boolean.label          "ବୁଲିଆନ">
 
-
+<!ENTITY string.placeholder     "ଗୋଟିଏ ବାକ୍ୟଖଣ୍ଡ ଭରଣ କରନ୍ତୁ">
+<!ENTITY number.placeholder     "ଗୋଟିଏ ସଂଖ୍ୟା ଭରଣ କରନ୍ତୁ">

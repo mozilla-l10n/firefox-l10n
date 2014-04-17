@@ -9,7 +9,7 @@
 <!ENTITY back.label            "ପଛକୁ">
 <!ENTITY forward.label         "ଆଗକୁ">
 <!ENTITY newtab.label          "ନୂତନ ଟ୍ୟାବ">
-
+<!ENTITY newPrivateTab.label   "ନୂତନ ବ୍ଯକ୍ତିଗତ ଟ୍ୟାବ">
 <!ENTITY closetab.label        "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
 
 <!ENTITY autocompleteResultsHeader.label  "ଆପଣଙ୍କର ଫଳାଫଳ">
@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "ସନ୍ଦେଶଗୁଡ଼ିକ">
 <!ENTITY consoleCodeEval.label     "ସଂକେତ:">
 <!ENTITY consoleClear.label        "ସଫାକରନ୍ତୁ">
-
+<!ENTITY consoleCopyAll.label      "ନକଲ କରନ୍ତୁ">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ଉତ୍ସ ଫାଇଲ:">
 <!ENTITY consoleErrLine.label      "ଧାଡ଼ି:">
 <!ENTITY consoleErrColumn.label    "ସ୍ତମ୍ଭ:">
-
+<!ENTITY consoleFollowCheckbox.label "ଅନୁସରଣ">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "କାଟନ୍ତୁ">
-
+<!ENTITY contextTextCopy.label             "ନକଲ କରନ୍ତୁ">
 <!ENTITY contextTextPaste.label            "ଲଗାନ୍ତୁ">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "ଲଗାନ୍ତୁ ଏବଂ ଯାଆନ୍ତୁ">
 <!ENTITY contextTextSelect.label           "ଚୟନ କରନ୍ତୁ">
 <!ENTITY contextTextSelectAll.label        "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">
 <!-- LINK CONTEXT MENU -->
@@ -106,6 +107,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -140,6 +142,8 @@
        references.
        -->
 
-
-
+<!ENTITY firstRunBack.label "ପୂର୍ବ ପୃଷ୍ଠାକୁ ଯିବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ">
+<!ENTITY firstRunNewTab.label "ନୂଆ ସାଇଟକୁ ଦେଖିବା ପାଇଁ ଗୋଟିଏ ନୂଆ ଟ୍ୟାବ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY firstRunStar.label "ପରବର୍ତ୍ତୀ ସମୟ ପାଇଁ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରିବାକୁ ପୃଷ୍ଠାସଙ୍କେତକୁ ବ୍ୟବହାର କରନ୍ତୁ">
+<!ENTITY firstRunPin.label "ଆପଣଙ୍କର Windows ଆରମ୍ଭ ପରଦାରେ ଶୀଘ୍ର ଅଭିଗମ୍ୟ ପାଇଁ ଯେକୌଣସି ସାଇଟକୁ ପିନ କରନ୍ତୁ">
 <!ENTITY firstRunGotIt.label "ବୁଝି ଗଲି!">
