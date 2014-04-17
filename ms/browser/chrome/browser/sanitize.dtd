@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Sejarah">
 <!ENTITY dataSection.label            "Data">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Layar  Sejarah Muat Turun">
+<!ENTITY itemHistoryAndDownloads.accesskey "L">
+<!ENTITY itemFormSearchHistory.label       "Form  Latar Carian">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Katalaluan Tersimpan">
 <!ENTITY itemPasswords.accesskey           "p">
 <!ENTITY itemCookies.label                 "Cookie">

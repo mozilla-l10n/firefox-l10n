@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "Cookie">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Keutamaan Laman">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Form   latar carian">
 <!ENTITY clearPrivateData.passwords                              "Kata laluan disimpan">
 <!ENTITY clearPrivateData.offline                                "Data laman web luar talian">
 <!ENTITY clearPrivateData.logins                                 "Login Aktif">

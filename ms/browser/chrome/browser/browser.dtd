@@ -28,8 +28,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tutup Tab ke Kanan">
 <!ENTITY  closeTabsToTheEnd.accesskey        "n">
-
-
+<!ENTITY  closeOtherTabs.label               "Tutup tab-tab yang lain">
+<!ENTITY  closeOtherTabs.accesskey           "T">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -98,8 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
-
-
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; dibolehkan">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulakan penyegerakan sebentar lagi.">
 <!ENTITY syncErrorPanel.heading "Tidak dapat menyambung ke &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Sila daftar masuk untuk meneruskan sync.">
 <!ENTITY syncErrorPanel.signInButton.label "Daftar Masuk">
@@ -129,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
 <!ENTITY sharePageCmd.commandkey "S">
-
-
-
-
-
+<!ENTITY sharePageCmd.accesskey "K">
+<!ENTITY shareLinkCmd.label "Kongsi Pautan Ini">
+<!ENTITY shareLinkCmd.accesskey "K">
+<!ENTITY shareImageCmd.label "Kongsi Imej Ini">
+<!ENTITY shareImageCmd.accesskey "K">
 <!ENTITY shareSelectCmd.label "Kongsi Pemilihan">
 <!ENTITY shareSelectCmd.accesskey "K">
-
-
+<!ENTITY shareVideoCmd.label "Kongsi Video Ini">
+<!ENTITY shareVideoCmd.accesskey "K">
 <!ENTITY feedsMenu.label "Langgan">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
@@ -255,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Perkakas Pembangun">
 <!ENTITY devToolbarMenu.accesskey          "r">
-
-
+<!ENTITY devAppMgrMenu.label               "Pengurus App">
+<!ENTITY devAppMgrMenu.accesskey           "e">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tukar Peralatan">
@@ -458,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "P">
 <!ENTITY saveImageCmd.label           "Simpan Imej Sebagai…">
 <!ENTITY saveImageCmd.accesskey       "I">
-
-
+<!ENTITY saveVideoCmd.label           "Simpan Video Sebagai…">
+<!ENTITY saveVideoCmd.accesskey       "p">
 <!ENTITY saveAudioCmd.label           "Simpan Audio Sebagai…">
 <!ENTITY saveAudioCmd.accesskey       "S">
 <!ENTITY emailImageCmd.label          "Emelkan Imej…">
 <!ENTITY emailImageCmd.accesskey      "E">
 <!ENTITY emailVideoCmd.label          "Emailkan Video…">
 <!ENTITY emailVideoCmd.accesskey      "V">
-
-
+<!ENTITY emailAudioCmd.label          "Emailkan Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activate plugin ini">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Sorokkan plugin ini">
@@ -614,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Tambah Perbendaharaan kata…">
 <!ENTITY spellAddDictionaries.accesskey "a">
@@ -660,8 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "y">
 <!ENTITY syncSyncNowItem.label        "Selarikan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
+<!ENTITY syncReAuthItem.label         "Sambung semula ke &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">
@@ -669,7 +669,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "Tunjuk bar sisi">
+<!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "Urus Servis…">
 
