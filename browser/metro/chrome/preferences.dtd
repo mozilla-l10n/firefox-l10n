@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "କୁକିଗୁଡ଼ିକ">
 <!ENTITY clearPrivateData.cache                                  "କ୍ୟାଶେ">
 <!ENTITY clearPrivateData.sitePref                               "ସାଇଟ ପସନ୍ଦଗୁଡ଼ିକ">
-<!ENTITY clearPrivateData.formSearchHist                         "ଫର୍ମ &amp; ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟ">
+
 <!ENTITY clearPrivateData.passwords                              "ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ">
 <!ENTITY clearPrivateData.offline                                "ଅଫ ଲାଇନ ୱେବସାଇଟ ତଥ୍ୟ">
 <!ENTITY clearPrivateData.logins                                 "ସକ୍ରିୟ ଲଗଇନଗୁଡ଼ିକ">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "ପ୍ରବେଶ ସଂକେତକୁ ମନେରଖନ୍ତୁ">
+
 <!ENTITY doNotTrack.title                                        "ଅନୁସରଣ କରନ୍ତୁ ନାହିଁ">
 <!ENTITY doNotTrack.options.doNotTrack                           "ସାଇଟଗୁଡ଼ିକୁ କୁହନ୍ତୁ ଯେ ଆପଣଙ୍କୁ ଅନୁସରଣ କରାନଯାଉ">
 <!ENTITY doNotTrack.options.doTrack                              "ସାଇଟଗୁଡ଼ିକୁ କୁହନ୍ତୁ ଯେ ଆପଣଙ୍କୁ ଅନୁସରଣ କରାଯାଉ">
