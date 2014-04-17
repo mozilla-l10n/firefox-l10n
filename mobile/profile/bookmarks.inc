@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title মবাইল
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: আপোনাৰ ব্ৰাউছাৰৰ বিষয়ে
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: আপোনাৰ এড-অনসমূহ স্বনিৰ্বাচন কৰক 
 
 
 
@@ -61,19 +61,19 @@
 
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: সমৰ্থন
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
+# LOCALIZATION NOTE (bookmarks_marketplace):
 
 
 
-# link title for about:home
+# link title for https://marketplace.firefox.com
 
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_marketplace Firefox মাৰ্কেটপ্লেইচ
 
 
 

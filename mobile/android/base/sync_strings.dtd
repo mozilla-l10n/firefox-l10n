@@ -8,99 +8,169 @@
 <!ENTITY syncBrand.shortName.label "সংমিহলি কৰক">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+
 <!ENTITY sync.title.pair.label "এটা ডিভাইচ সংযুক্ত কৰক">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label "মোক দেখুৱাওক কেনেকৈ।">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
-<!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+
+
+
+<!ENTITY sync.link.show.label "মোক দেখুৱাওক কেনেকৈ।">
+
+
+<!-- J-PAKE Waiting Screen -->
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label "পাছৱাৰ্ড">
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+
+
+
+
 <!-- Setup Fail -->
-  
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+
 <!ENTITY sync.button.tryagain.label "পুনৰ চেষ্টা কৰক">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+
+
+
+
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "সংস্থাপন সমপূৰ্ণ">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+
 <!ENTITY sync.settings.label "সংহতিসমূহ">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "বিকল্পসমূহ">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
-<!ENTITY sync.configure.engines.title.bookmarks "পত্ৰচিহ্নসমূহ">
-<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
-<!ENTITY sync.configure.engines.title.history "ইতিহাস">
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+
+
+
+
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "বাতিল কৰক">
 <!ENTITY sync.button.connect.label "সংযোগ কৰক">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "পত্ৰচিহ্নসমূহ মেনু">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
+
 <!ENTITY bookmarks.folder.toolbar.label "পত্ৰচিহ্নসমূহ টুলবাৰ">
 <!ENTITY bookmarks.folder.unfiled.label "অশৃঙ্খলাবদ্ধ পত্ৰচিহ্নসমূহ">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+
 <!ENTITY bookmarks.folder.mobile.label "মবাইল পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarks.folder.readinglist.label "পঢ়াৰ তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
 <!ENTITY sync.invalidserver.label "অনুগ্ৰহ কৰি এটা বৈধ চাৰ্ভাৰ URL সুমুৱাওক">
 <!ENTITY sync.verifying.label "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+
+
+
+
+
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "ই-মেইল">
+
+
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_button "পৰৱৰ্তী">
+
+
+
+
+
+
+
+
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
