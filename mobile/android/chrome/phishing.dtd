@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "আমাকে এখান থেকে বাইরে নিয়ে যাও!">
+<!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করুন">
+<!ENTITY safeb.palm.notforgery.label2 "এটি ওয়েব প্রতারণা নয়…">
+<!ENTITY safeb.palm.reportPage.label "এই পৃষ্ঠাটি কেন প্রতিরোধ করা হয়েছে?">
+
+<!ENTITY safeb.blocked.malwarePage.title "সুনিশ্চিত বিপজ্জনক পেজ!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/>-এ উপস্থিত পেজটি একটি বিপজ্জনক পেজ রূপে চিহ্নিত হয়েছে এবং আপনার নির্ধারিত সুরক্ষামূলক বৈশিষ্ট্য অনুযায়ী এটির প্রদর্শন প্রতিরোধ করা হয়েছে।">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্রমণকারী পেজ দ্বারা কিছু প্রোগ্রাম ইনস্টল করা হয়। এই প্রোগ্রামগুলির মাধ্যমে ব্যক্তিগত তথ্য চুরি, ব্যবহারকারীর কম্পিউটার থেকে অন্যদের আক্রমণ  অথবা সিস্টেমের ক্ষতি করা হয়।</p><p>কিছু আক্রমণকারী পেজ দ্বারা ইচ্ছাকৃত ভাবে বিপজ্জনক সফ্টওয়্যার বিতরণ করা হয়, কিন্তু অধিকাংশ সাইট দ্বারা তাদের মালিকদের অজ্ঞাতে এই ধরনের কর্ম সঞ্চালিত হয়।</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "সম্ভাব্য ওয়েব প্রতারণার ইঙ্গিত!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পেজে কোনো ব্যক্তিগত তথ্য ও পরিচয় দিলে প্রতারণা বা অন্য জালিয়াতি হতে পারে।">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>এই ধরনের ওয়েব জালিয়াতি যেসব কেলেঙ্কারীতে ব্যবহার করা হয় তাদের ফিশিং আক্রমণ বলে, যে ক্ষেত্রে আপনার বিশ্বাস কে কাজে লাগিয়ে প্রতারক ওয়েব পেজ এবং ইমেল গুলিকে ব্যবহার করে</p>">

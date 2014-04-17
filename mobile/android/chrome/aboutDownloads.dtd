@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDownloads.title                      "ডাউনলোডসমূহ">
+<!ENTITY aboutDownloads.header                     "আপনার ডাউনলোডগুলি">
+<!ENTITY aboutDownloads.empty                      "কোন ডাউনলোড নেই">
+
+<!ENTITY aboutDownloads.open                       "খুলুন">
+<!ENTITY aboutDownloads.remove                     "মুছে ফেলুন">
+<!ENTITY aboutDownloads.removeAll                  "সব মুছে দিন">
+<!ENTITY aboutDownloads.pause                      "বিরতি">
+<!ENTITY aboutDownloads.resume                     "পুনরারম্ভ">
+<!ENTITY aboutDownloads.cancel                     "বাতিল">
+<!ENTITY aboutDownloads.retry                      "পুনঃপ্রচেষ্টা">

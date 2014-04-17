@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "প্রতিক্রিয়ার সরঞ্জামসমূহ">
+
+<!ENTITY feedback.communicate.title     "আমাদের সাথে যোগাযোগ রাখুন!">
+<!ENTITY feedback.feedback.title        "প্রতিক্রিয়া দিন">
+<!ENTITY feedback.feedback.good         "ভাল">
+<!ENTITY feedback.feedback.bad          "খারাপ">
+
+<!ENTITY feedback.tools.title           "সরঞ্জাম">
+<!ENTITY feedback.allowTelemetry.title  "ক্রিয়াকলাপ সংক্রান্ত তথ্য পাঠান">
+<!ENTITY feedback.forceCompat.title     "বল পূর্বক অ্যাড-অন সমূহের সাযুজ্য">
+<!ENTITY feedback.errorConsole.title    "এরর কনসোলটি সক্ষম করা হোক">
