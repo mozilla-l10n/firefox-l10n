@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Hľadať a nahradiť…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "H">
+<!ENTITY findBarCmd.label "Hľadať…">
+<!ENTITY findBarCmd.accesskey "H">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Hľadať a nahradiť…">
+<!ENTITY findReplaceCmd.accesskey "d">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Hľadať ďalej">
 <!ENTITY findAgainCmd.key "G">
