@@ -101,9 +101,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "з">
 <!ENTITY menuFavoriteFolder.label "Избранная папка">
 <!ENTITY menuFavoriteFolder.accesskey "з">
-<!ENTITY folderPropsCmd.label "Свойства…">
-<!ENTITY folderPropsFolderCmd.label "Свойства папки…">
-<!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
+<!ENTITY folderPropsCmd2.label "Свойства">
+<!ENTITY folderPropsFolderCmd2.label "Свойства папки">
+<!ENTITY folderPropsNewsgroupCmd2.label "Свойства группы новостей">
 <!ENTITY folderPropsCmd.accesskey "й">
 <!ENTITY undoDeleteMsgCmd.label "Отменить удаление сообщения">
 <!ENTITY redoDeleteMsgCmd.label "Повторить удаление сообщения">
@@ -430,8 +430,8 @@
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Фильтры сообщений…">
-<!ENTITY filtersCmd.accesskey "Ф">
+<!ENTITY filtersCmd2.label "Фильтры сообщений">
+<!ENTITY filtersCmd2.accesskey "и">
 <!ENTITY filtersApply.label "Применить фильтры к папке">
 <!ENTITY filtersApply.accesskey "п">
 <!ENTITY filtersApplyToSelection.label "Применить фильтры к выделенным сообщениям">
@@ -449,9 +449,9 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Стереть недавнюю историю…">
 <!ENTITY clearRecentHistory.accesskey "т">
-<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
-<!ENTITY accountManagerCmd.accesskey "м">
-<!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY accountManagerCmd2.label "Параметры учётной записи">
+<!ENTITY accountManagerCmd2.accesskey "м">
+<!ENTITY accountManagerCmdUnix2.accesskey "м">
 <!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
 <!ENTITY allowRemoteDebugging.accesskey "з">
 <!ENTITY getMsgButton1.label "Получить">
@@ -739,7 +739,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Все окна — на передний план">
 <!ENTITY zoomWindow.label "Изменить масштаб">
-<!ENTITY preferencesCmdMac.label "Настройки…">
+<!ENTITY preferencesCmdMac2.label "Настройки">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Службы">

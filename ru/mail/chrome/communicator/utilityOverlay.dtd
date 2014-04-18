@@ -28,8 +28,8 @@
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "д">
-<!ENTITY preferencesCmd.label "Настройки…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmd2.label "Настройки">
+<!ENTITY preferencesCmd2.accesskey "а">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY viewMenu.label "Вид">
@@ -38,8 +38,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey "С">
-<!ENTITY proxy.label "Конфигурация прокси">
-<!ENTITY proxy.accesskey "К">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
