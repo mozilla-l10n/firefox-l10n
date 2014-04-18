@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Zobraziť stručný súhrn príspevku namiesto načítania celej webovej stránky">
 <!ENTITY quickMode.accesskey         "Z">
 
+<!ENTITY autotagEnable.label         "Automaticky vytvoriť značky z názvov &lt;kategórií&gt; v kanáloch">
+<!ENTITY autotagEnable.accesskey     "m">
+<!ENTITY autotagUsePrefix.label      "Pridávať predponu:">
+<!ENTITY autotagUsePrefix.accesskey  "r">
+<!ENTITY autoTagPrefix.placeholder   "Zadajte predponu značky">
+
 <!ENTITY locationValidate.label      "Overiť">
 <!ENTITY validateText.label          "Overiť platnosť kanálu a získať platnú adresu URL.">
 
