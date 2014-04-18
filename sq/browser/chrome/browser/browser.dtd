@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "S">
 <!ENTITY  undoCloseTab.label                 "Zhbëje Mbylljen e Skedës">
 <!ENTITY  undoCloseTab.accesskey             "Z">
-<!ENTITY  closeTab.label                     "Mbylle Skedën">
+<!ENTITY  closeTab.label                     "Mbylleni Skedën">
 <!ENTITY  closeTab.accesskey                 "M">
 
 <!ENTITY  listAllTabs.label      "Paraqiti krejt skedat">
@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label "Dilni Nga Mënyra Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
-<!ENTITY closeWindow.label "Mbylle Dritaren">
+<!ENTITY closeWindow.label "Mbylleni Dritaren">
 <!ENTITY closeWindow.accesskey "D">
 
 <!ENTITY bookmarksMenu.label "Faqerojtës">
