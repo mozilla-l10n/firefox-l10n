@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Журнал на грешките при разпознаване на CSS">
+<!ENTITY btnPageCSS.tooltip "Журнал на грешките и предупрежденията за CSS">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Журнал на изключенията в JavaScript">
@@ -68,7 +68,7 @@
 
 <!ENTITY btnPageLogging.label   "Журнал">
 <!ENTITY btnPageLogging.tooltip "Журнал на съобщенията, изпратени до обекта window.console">
-<!ENTITY btnPageLogging.accesskey "Ж">
+<!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Грешки">
 <!ENTITY btnConsoleInfo         "Информационни">
 <!ENTITY btnConsoleWarnings     "Предупреждения">
@@ -95,4 +95,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          " на Firefox">
-<!ENTITY clearOutputCmd.key   "K">
+<!ENTITY clearOutputCtrl.key  "L">
