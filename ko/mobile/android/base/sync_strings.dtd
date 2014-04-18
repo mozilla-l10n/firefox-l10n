@@ -109,13 +109,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts 체크박스 그래픽'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox accounts 아이콘'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox accounts 소개 그래픽'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox accounts 메일 그래픽'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -140,11 +133,11 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Firefox 계정 만들기'>
+<!ENTITY fxaccount_create_account_header2 'Firefox 계정 만들기'>
 <!ENTITY fxaccount_create_account_password_length_restriction '적어도 8자 이상이어야 함'>
 <!ENTITY fxaccount_create_account_year_of_birth '출생 연도'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Firefox 온라인 서비스의 &formatS1;과 &formatS2;에 동의합니다.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Firefox 클라우드 서비스의 &formatS1;과 &formatS2;에 동의합니다.'>
 <!ENTITY fxaccount_create_account_button '다음'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync '동기화 항목 선택하기'>
 <!ENTITY fxaccount_create_account_sign_in_instead '이미 계정이 있으신가요? 로그인하기'>
@@ -175,7 +168,8 @@
 <!ENTITY fxaccount_update_credentials_button_label '로그인'>
 <!ENTITY fxaccount_update_credentials_unknown_error '로그인 실패'>
 
-<!ENTITY fxaccount_status_header 'Firefox 계정'>
+<!ENTITY fxaccount_status_header2 'Firefox 계정'>
+<!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 활성화'>
 <!ENTITY fxaccount_status_needs_verification2 '인증되지 않은 계정입니다. 인증 메일을 재전송하려면 누르세요.'>
@@ -186,6 +180,12 @@
 <!ENTITY fxaccount_status_passwords '암호'>
 <!ENTITY fxaccount_status_tabs '열린 탭'>
 <!ENTITY fxaccount_status_legal '법률' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos '서비스 약관'>
+<!ENTITY fxaccount_status_linkprivacy '개인 정보 보호 정책'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
