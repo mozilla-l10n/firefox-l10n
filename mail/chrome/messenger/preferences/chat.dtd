@@ -3,15 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY startupAction.label "При запуске &brandShortName;:">
-<!ENTITY startupAction.accesskey "з">
+<!ENTITY startupAction.accesskey "а">
 <!ENTITY startupOffline.label "Не подключать учётные записи чата">
 <!ENTITY startupConnectAuto.label "Автоматически подключать учётные записи чата">
 <!ENTITY reportIdleAfter.label "Уведомить контакты о моём бездействии через">
-<!ENTITY reportIdleAfter.accesskey "о">
+<!ENTITY reportIdleAfter.accesskey "е">
 <!ENTITY idleTime "минут неактивности">
 <!ENTITY andSetStatusToAway.label "и установить мой статус как «Отошёл» вместе с этим сообщением:">
 <!ENTITY andSetStatusToAway.accesskey "ш">
 <!ENTITY sendTyping.label "Отправлять уведомления о вводе в разговорах">
-<!ENTITY sendTyping.accesskey "у">
-<!ENTITY desktopChatNotifications.label "Отображать уведомления для направленных вам сообщений">
+<!ENTITY sendTyping.accesskey "я">
+<!ENTITY chatNotifications.label "Когда прибывают направленные вам сообщения:">
+<!ENTITY desktopChatNotifications.label "Отображать уведомление">
 <!ENTITY desktopChatNotifications.accesskey "ж">
+<!ENTITY chatSound.accesskey "в">
+<!ENTITY chatSound.label "Подавать звуковой сигнал">
+<!ENTITY play.label "Воспроизвести">
+<!ENTITY play.accesskey "п">
+<!ENTITY systemSound.label "Системный звуковой сигнал о приходе почты">
+<!ENTITY systemSound.accesskey "м">
+<!ENTITY customsound.label "Использовать следующий звуковой файл">
+<!ENTITY customsound.accesskey "о">
+<!ENTITY browse.label "Обзор…">
+<!ENTITY browse.accesskey "з">

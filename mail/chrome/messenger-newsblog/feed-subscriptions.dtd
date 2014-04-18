@@ -5,14 +5,19 @@
 <!ENTITY feedSubscriptions.label "Подписки на ленты новостей">
 <!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
 <!ENTITY feedTitle.label "Заголовок:">
-<!ENTITY feedTitle.accesskey "о">
+<!ENTITY feedTitle.accesskey "л">
 <!ENTITY feedLocation.label "Адрес ленты новостей:">
-<!ENTITY feedLocation.accesskey "е">
+<!ENTITY feedLocation.accesskey "ы">
 <!ENTITY feedLocation.placeholder "Введите корректный адрес ленты новостей">
 <!ENTITY feedFolder.label "Хранить статьи в:">
 <!ENTITY feedFolder.accesskey "н">
 <!ENTITY quickMode.label "Показывать краткое описание статьи вместо загрузки веб-страницы">
 <!ENTITY quickMode.accesskey "а">
+<!ENTITY autotagEnable.label "Автоматически создавать метки из имён &lt;категорий&gt; лент">
+<!ENTITY autotagEnable.accesskey "о">
+<!ENTITY autotagUsePrefix.label "Префикс меток:">
+<!ENTITY autotagUsePrefix.accesskey "е">
+<!ENTITY autoTagPrefix.placeholder "Введите префикс метки">
 <!ENTITY locationValidate.label "Валидация">
 <!ENTITY validateText.label "Проверьте корректность и получите корректную ссылку.">
 <!ENTITY button.addFeed.label "Добавить">
