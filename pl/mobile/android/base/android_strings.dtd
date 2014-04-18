@@ -54,6 +54,7 @@
 <!ENTITY back "Wstecz">
 <!ENTITY stop "Zatrzymaj">
 <!ENTITY site_security "Bezpieczeństwo strony">
+<!ENTITY edit_mode_cancel "Anuluj">
 
 <!ENTITY close_tab "Zamknij kartę">
 <!ENTITY new_tab "Nowa karta">
