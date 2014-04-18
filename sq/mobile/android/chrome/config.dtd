@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2     "Parapëlqime Kërkimi">
-<!ENTITY clear.altText          "Pastroje/">
-<!ENTITY newpref.label2          "Shtoni Rregullim të Ri">
+
+<!ENTITY toolbar.searchPlaceholder     "Kërkim">
+
+<!ENTITY newPref.namePlaceholder       "Emër">
+
+<!ENTITY newPref.valueBoolean          "Buleane">
+<!ENTITY newPref.valueString           "Varg">
+<!ENTITY newPref.valueInteger          "Numër i Plotë">
+
+<!ENTITY newPref.stringPlaceholder     "Jepni një varg">
+<!ENTITY newPref.numberPlaceholder     "Jepni një numër">
+
+<!ENTITY newPref.toggleButton          "Këmbeje">
+<!ENTITY newPref.cancelButton          "Anuloje">
+
+<!ENTITY contextMenu.copyPrefName      "Kopjoji Emrin">
+<!ENTITY contextMenu.copyPrefValue     "Kopjoji Vlerën">
