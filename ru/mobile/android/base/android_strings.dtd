@@ -42,6 +42,7 @@
 <!ENTITY back "Назад">
 <!ENTITY stop "Стоп">
 <!ENTITY site_security "Защита сайта">
+<!ENTITY edit_mode_cancel "Отмена">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs2 "&formatD; вкладок">
@@ -117,14 +118,14 @@
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
-<!ENTITY pref_private_data_history "Журнал посещений и загрузок">
+<!ENTITY pref_private_data_history2 "Журнал посещений">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
 <!ENTITY pref_private_data_cookies2 "Куки и активные сеансы">
 <!ENTITY pref_private_data_passwords "Сохранённые пароли">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
-<!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
+<!ENTITY pref_private_data_downloadFiles2 "Загрузки">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
