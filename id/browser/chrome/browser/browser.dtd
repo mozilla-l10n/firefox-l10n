@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 <!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "h">
+<!ENTITY bookmarksWinCmd.commandkey "b">
 
 <!ENTITY historyButton.label            "Riwayat">
 <!ENTITY historyButton.tooltip          "Menampilkan riwayat laman yang baru saja dilihat">
