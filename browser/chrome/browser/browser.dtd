@@ -175,6 +175,8 @@
 <!ENTITY responsiveDesignTool.label "Адаптивный дизайн">
 <!ENTITY responsiveDesignTool.accesskey "п">
 <!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY eyedropper.label "Пипетка">
+<!ENTITY eyedropper.accesskey "и">
 <!ENTITY scratchpad.label "Простой редактор JavaScript">
 <!ENTITY scratchpad.accesskey "р">
 <!ENTITY scratchpad.keycode "VK_F4">
