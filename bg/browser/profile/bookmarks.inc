@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.#filter emptyLines
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 # live.
 
 #define bookmarks_title Отметки
@@ -55,6 +55,15 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 #define firefox_about За нас
+
+
+# LOCALIZATION NOTE (firefox_feedback):
+
+# link title for browser feedback page
+
+# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
+
+#define firefox_feedback Обратна връзка
 
 
 #unfilter emptyLines
