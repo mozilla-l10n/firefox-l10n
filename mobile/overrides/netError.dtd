@@ -28,8 +28,12 @@
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
 <!ENTITY netTimeout.title "연결 시간 초과">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
-<!ENTITY protocolNotFound.title "인식할 수 없는 주소">
-<!ENTITY protocolNotFound.longDesc "<ul><li>이 주소를 열기 위해서는 다른 프로그램을 설치할 필요가 있습니다.</li></ul>">
+<!ENTITY unknownProtocolFound.title "인식할 수 없는 주소">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>이 주소를 열기 위해서는 다른 프로그램을 설치할 필요가 있습니다.</li>
+</ul>
+">
 <!ENTITY proxyConnectFailure.title "프록시 서버가 연결을 거부함">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>프록시 설정이 올바로 되어있는지 확인해 보시기 바랍니다.</li><li>프록시 서버가 확실히 작동 중인지 네트워크 관리자에게 문의 하시기 바랍니다.</li></ul>">
 <!ENTITY proxyResolveFailure.title "프록시 서버 오류">
