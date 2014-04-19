@@ -54,6 +54,7 @@
 <!ENTITY back "Atrás">
 <!ENTITY stop "Detener">
 <!ENTITY site_security "Seguridad del sitio">
+<!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
