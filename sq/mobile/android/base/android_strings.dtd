@@ -54,6 +54,7 @@
 <!ENTITY back "Mbrapsht">
 <!ENTITY stop "Ndale">
 <!ENTITY site_security "Siguri Sajti">
+<!ENTITY save "Ruaje">
 
 <!ENTITY close_tab "Mbylleni Skedën">
 <!ENTITY one_tab "1 skedë">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Të mëtejshme">
 <!ENTITY pref_category_customize "Personalizim">
 <!ENTITY pref_category_search3 "Kërkim">
+<!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
 <!ENTITY pref_category_display "Ekran">
 <!ENTITY pref_category_privacy_short "Privatësi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,32 @@
 <!ENTITY pref_category_search_restore_defaults "Riktheji motorët e kërkimeve te parazgjedhjet">
 <!ENTITY pref_search_restore_defaults "Rikthe parazgjedhjet">
 <!ENTITY pref_search_restore_defaults_summary "Rikthe parazgjedhjet">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "NDIHMËZ: Shtojeni cilindo sajt web te lista juaj e furnizuesve të kërkimit, duke e mbajtur shtypur për disa sekonda fushën e tij të kërkimit.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti web te lista juaj e mundësuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
 <!ENTITY pref_category_devtools "Mjete zhvilluesi">
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
 <!ENTITY pref_developer_remotedebugging_docs "Mësoni më tepër">
 <!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
 
 <!ENTITY pref_category_home "Kreu">
+<!ENTITY pref_category_home_summary "Personalizoni kreun tuaj">
 <!ENTITY pref_category_home_panels "Panele">
+<!ENTITY pref_home_add_panel "Shtoni panel">
+<!ENTITY home_add_panel_title "Shtoni panel të ri">
+<!ENTITY home_add_panel_empty "Na ndjeni, s\'gjetëm dot panele që t\'i shtoni.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' u shtua te kreu">
+<!ENTITY pref_category_home_content_settings "Rregullime lënde">
+<!ENTITY pref_home_updates "Përditësime të vetvetishme">
+<!ENTITY pref_home_updates_enabled "Të aktivizuara">
+<!ENTITY pref_home_updates_wifi "Vetëm përmes Wi-Fi">
+
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizojeni">
@@ -210,6 +227,7 @@ size. -->
 <!ENTITY save_as_pdf "Ruaje si PDF">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Kërko Sajtin për Desktop">
+<!ENTITY page "Faqe">
 <!ENTITY tools "Mjete">
 <!ENTITY new_tab "Skedë e Re">
 <!ENTITY new_private_tab "Skedë e Re Private">
@@ -273,6 +291,7 @@ size. -->
 <!ENTITY site_settings_clear        "Pastroje">
 <!ENTITY site_settings_no_settings  "Nuk ka rregullime për t\u0027i pastruar.">
 
+<!ENTITY reading_list_add "Shtojeni te Lista e Leximeve">
 <!ENTITY reading_list_added "Faqja u shtua te Lista juaj e Leximeve">
 <!ENTITY reading_list_removed "Faqja u hoq prej Listës suaj të Leximeve">
 <!ENTITY reading_list_failed "Dështoi shtimi i faqes te Lista juaj e Leximeve">
@@ -310,12 +329,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Artikujt që keni ruajtur për më vonë, shfaqen këtu.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda ikonën &#37;I, kur shfaqet te shtylla e titullit.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda ikonën &formatI;, kur shfaqet te shtylla e titullit.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda butonin e mënyrës lexim, kur shfaqet te shtylla e titullit.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Nuk u gjet dot lëndë për këtë panel.">
 
 <!ENTITY pin_site_dialog_hint "Jepni një fjalëkyç kërkimi">
 
@@ -360,9 +383,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          nga Android-i">
 <!ENTITY bookmarkhistory_import_wait "Ju lutemi, prisni...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Do të donit të aktivizohen këshillime kërkimi &formatS;?">
+<!ENTITY suggestions_prompt3 "Do të donit të aktivizohen këshillime kërkimi?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
