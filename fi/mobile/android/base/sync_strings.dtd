@@ -105,14 +105,7 @@
 <!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>
 <!ENTITY sync.text.tab.not.sent.label 'Välilehden lähettäminen ei onnistunut.'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox-tilin valintakuvitus'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox-tilin kuvake'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox-tilin esittelykuvitus'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox-tilin kirjekuorikuvitus'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -127,6 +120,11 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Palaa selaamisen pariin'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos 'käyttöehdot'>
 <!ENTITY fxaccount_policy_linkprivacy 'tietosuojahuomautuksen'>
 
@@ -137,12 +135,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Luo Firefox-tili'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Luo Firefox-tili'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Vähintään 8 merkkiä'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Syntymävuosi'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
 <!ENTITY fxaccount_create_account_button 'Seuraava'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Valitse synkronoitavat tiedot'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Onko sinulla jo tili? Kirjaudu sisään'>
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Lue lisää'>
 
 <!ENTITY fxaccount_confirm_account_header 'Vahvista tilisi'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Vahvistussähköposti lähetettiin osoitteeseen &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Lähetä uudestaan'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Vahvistussähköposti lähetetty'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Kirjaudu sisään'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Ei voitu kirjautua sisään'>
 
-<!ENTITY fxaccount_status_header 'Firefox-tili'>
+<!ENTITY fxaccount_status_header2 'Firefox-tili'>
+<!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: käytössä'>
 <!ENTITY fxaccount_status_needs_verification2 'Tilisi täytyy vahvistaa. Kosketa lähettääksesi vahvistussähköpostin.'>
@@ -184,16 +183,22 @@
 <!ENTITY fxaccount_status_passwords 'Salasanat'>
 <!ENTITY fxaccount_status_tabs 'Avoimet välilehdet'>
 <!ENTITY fxaccount_status_legal 'Lakiteksti' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'käyttöehdot'>
+<!ENTITY fxaccount_status_linkprivacy 'tietosuojahuomautus'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-palvelun asetukset'>
 <!ENTITY fxaccount_options_configure_title 'Määritä &syncBrand.shortName.label;-palvelu'>
 
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-palveluun ei ole yhteyttä'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Kosketa kirjautuaksesi tilille &formatS;'>
