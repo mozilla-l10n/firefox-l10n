@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "V">
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
-<!ENTITY updateOthers.label              "Päivitä automaattisesti:">
-<!ENTITY enableAddonsUpdate3.label       "Lisäosat">
-<!ENTITY enableAddonsUpdate3.accesskey   "L">
 
 <!ENTITY useService.label                "Asenna päivitykset taustapalvelun avulla">
 <!ENTITY useService.accesskey            "u">
