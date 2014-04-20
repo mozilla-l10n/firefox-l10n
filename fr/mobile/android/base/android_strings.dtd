@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Données collectées">
+<!ENTITY pref_learn_more "En savoir plus">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
 <!ENTITY pref_category_add_search_providers "Ajouter des moteurs de recherche">
 <!ENTITY pref_category_search_restore_defaults "Restaurer les moteurs de recherche">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l\u0027icône &formatI;.">
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
-<!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
 <!ENTITY pref_category_home "Écran d\u0027accueil">
@@ -205,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Rapports de plantage">
-<!ENTITY datareporting_wifi_title "Services de localisation de &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Aide à améliorer les services de géolocalisation pour le Web ouvert en permettant à &brandShortName; de collecter et d\u0027envoyer des données anonymes sur les antennes de téléphonie mobile">
+<!ENTITY datareporting_wifi_title2 "Service de localisation de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Enregistre les positions des réseaux Wi-Fi et cellulaires lorsqu'exécuté en arrière-plan et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
