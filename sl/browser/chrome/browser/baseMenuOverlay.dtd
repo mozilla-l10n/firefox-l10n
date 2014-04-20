@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Povratne informacije …">
 <!ENTITY helpFeedbackPage.accesskey  "f">
 
+<!ENTITY helpShowTour.label             "Predstavitev &brandShortName;a">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label "Nastavitve …">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
