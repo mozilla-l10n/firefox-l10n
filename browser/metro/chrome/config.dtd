@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Пошук">
-<!ENTITY newpref.label          "Додати нове налаштування">
 <!ENTITY addpref.name           "Назва">
-<!ENTITY addpref.value          "Значення">
 
 <!ENTITY cancel.label           "Скасувати">
-<!ENTITY reset.label            "Скинути">
-<!ENTITY done.label             "Готово">
+<!ENTITY toggle.label           "Toggle">
 
 <!ENTITY integer.label          "Ціле">
 <!ENTITY string.label           "Рядок">
 <!ENTITY boolean.label          "Логічне">
+
+<!ENTITY string.placeholder     "Enter a string">
+<!ENTITY number.placeholder     "Enter a number">
