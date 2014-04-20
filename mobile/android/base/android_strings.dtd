@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
-<!ENTITY pref_private_data_history "Historique de navigation et des téléchargements">
+<!ENTITY pref_private_data_history2 "Historique de navigation">
 <!ENTITY pref_private_data_formdata "Historique des formulaires et des recherches">
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
 <!ENTITY pref_private_data_passwords "Mots de passe enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
-<!ENTITY pref_private_data_downloadFiles "Fichiers téléchargés">
+<!ENTITY pref_private_data_downloadFiles2 "Téléchargements">
 
 
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
