@@ -54,6 +54,7 @@
 <!ENTITY back "Retour">
 <!ENTITY stop "Arrêter">
 <!ENTITY site_security "Sécurité du site">
+<!ENTITY edit_mode_cancel "Annuler">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
 <!ENTITY one_tab "1 onglet">
