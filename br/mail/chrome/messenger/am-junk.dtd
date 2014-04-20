@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "Dilec'hiañ ar posteloù lastez da :">
 <!ENTITY move.accesskey "i">
-<!ENTITY junkFolderOn.label 'teuliad "Lastez" e :'>
+<!ENTITY junkFolderOn.label "teuliad &quot;Lastez&quot; e :">
 <!ENTITY junkFolderOn.accesskey "L">
 <!ENTITY otherFolder.label "All :">
 <!ENTITY otherFolder.accesskey "A">

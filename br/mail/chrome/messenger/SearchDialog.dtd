@@ -68,11 +68,11 @@
 <!ENTITY accountColumn2.tooltip "Rummañ dre gont">
 <!ENTITY statusColumn2.tooltip "Rummañ dre stad">
 <!ENTITY sizeColumn2.tooltip "Rummañ dre vent">
-<!ENTITY junkStatusColumn2.tooltip 'Rummañ dre stad "lastez"'>
+<!ENTITY junkStatusColumn2.tooltip "Rummañ dre stad &quot;lastez&quot;">
 <!ENTITY unreadColumn2.tooltip "Niver a gemennadennoù nevez en neudennad">
 <!ENTITY totalColumn2.tooltip "Hollad kemennadennoù en neudennad">
-<!ENTITY readColumn2.tooltip 'Rummañ dre stad "lenn"'>
+<!ENTITY readColumn2.tooltip "Rummañ dre stad &quot;lenn&quot;">
 <!ENTITY receivedColumn2.tooltip "Rummañ dre zeiziad degemer">
-<!ENTITY starredColumn2.tooltip 'Rummañ dre stad "steredennet"'>
+<!ENTITY starredColumn2.tooltip "Rummañ dre stad &quot;steredennet&quot;">
 <!ENTITY locationColumn2.tooltip "Rummañ dre lec'hiadur">
 <!ENTITY idColumn2.tooltip "Rummañ dre urzh degemer">

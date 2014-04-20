@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "p">
 <!ENTITY  autologinproxy.label          "Na c'houlenn diganin en em zilesa ma'z eus ur ger-tremen enrollet">
 <!ENTITY  autologinproxy.accesskey      "N">
-<!ENTITY  autologinproxy.tooltip        "An dibarzh-mañ a zilesa ac'hanoc'h ent emgefreek war ar proksioù ma'z eus naoudioù kennaskañ enrollet evito. Goulennet e vo deoc'h anezho ma vez c'hwitet an dilesa.">
+<!ENTITY  autologinproxy.tooltip        "An dibarzh-mañ a zilesa ac'hanoc'h ent emgefreek war ar proksioù ma'z eus naoudioù kennaskañ enrollet evito. Goulennet e vo anezho diganeoc'h ma vez c'hwitet an dilesa.">
