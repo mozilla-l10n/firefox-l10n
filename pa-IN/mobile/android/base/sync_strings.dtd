@@ -109,12 +109,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox accounts checkbox graphic'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox accounts icon'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox accounts introduction graphics'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox accounts envelope graphic'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -140,11 +134,11 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'ਫਾਇਰਫਾਕਸ ਅਕਾਊਂਟ ਬਣਾਓ'>
+<!ENTITY fxaccount_create_account_header2 'Create a Firefox Account'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'ਅੱਗੇ ਜਾਣ ਨਾਲ, ਮੈਂ  ਫਾਇਰਫਾਕਸ ਆਨਲਾਈਨ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਤੇ &formatS2; ਨਾਲ ਸਹਿਮਤ ਹਾਂ'>
+<!ENTITY fxaccount_create_account_policy_text2 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox cloud services.'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਅਕਾਊਂਟ ਹੈ? ਸਾਇਨ ਇਨ'>
@@ -175,7 +169,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Could not sign in'>
 
-<!ENTITY fxaccount_status_header 'ਫਾਇਰਫਾਕਸ ਅਕਾਊਂਟ'>
+<!ENTITY fxaccount_status_header2 'Firefox Account'>
+<!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
 <!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
@@ -186,6 +181,13 @@
 <!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
 <!ENTITY fxaccount_status_tabs 'ਟੈਬਾਂ ਖੋਲ੍ਹੋ'>
 <!ENTITY fxaccount_status_legal 'ਕਾਨੂੰਨੀ' >
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Terms of Service'>
+<!ENTITY fxaccount_status_linkprivacy 'Privacy Notice'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
