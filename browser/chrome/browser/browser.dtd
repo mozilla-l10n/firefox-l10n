@@ -99,8 +99,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Bei &syncBrand.shortName.label; anmelden">
 <!ENTITY fxaSignInError.label "Mit &syncBrand.shortName.label; neu verbinden">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiviert">
-<!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label; kann in den Einstellungen verwaltet werden.">
-<!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; kann in den Einstellungen verwaltet werden.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; beginnt sofort mit dem Synchronisieren.">
 <!ENTITY syncErrorPanel.heading "Es konnte keine Verbindung mit &syncBrand.shortName.label; hergestellt werden.">
 <!ENTITY syncErrorPanel.subTitle "Bitte anmelden, um mit der Synchronisation fortzufahren.">
 <!ENTITY syncErrorPanel.signInButton.label "Anmelden">
@@ -660,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Jetzt synchronisieren">
 <!ENTITY syncSyncNowItem.accesskey    "J">
+<!ENTITY syncReAuthItem.label         "Wieder mit &syncBrand.shortName.label; verbinden…">
+<!ENTITY syncReAuthItem.accesskey     "v">
 <!ENTITY syncToolbarButton.label      "Synchronisieren">
 
 <!ENTITY socialToolbar.title        "Soziale-Netzwerke-Symbolleiste">
@@ -709,7 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Zugriff auf Kamera / Mikrofon">
 <!ENTITY webrtcIndicatorButton.tooltip "Websites anzeigen, denen derzeit der Zugriff auf Kamera oder Mikrofon erlaubt ist">
 
-<!ENTITY mixedContentBlocked.helplink "Weitere Informationen">
 <!ENTITY mixedContentBlocked.moreinfo "Die meisten Websites funktionieren auch, wenn diese Art Inhalt blockiert wird.">
 
 <!ENTITY pointerLock.notification.message "Der Mauszeiger kann jederzeit durch Drücken der ESC-Taste wieder angezeigt werden.">
