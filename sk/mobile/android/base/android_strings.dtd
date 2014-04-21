@@ -158,14 +158,14 @@ size. -->
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
-<!ENTITY pref_private_data_history "História prehliadania a prevzatých súborov">
+<!ENTITY pref_private_data_history2 "História prehliadania">
 <!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
-<!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
+<!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
 
 
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
