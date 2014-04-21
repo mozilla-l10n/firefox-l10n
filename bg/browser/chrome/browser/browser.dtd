@@ -731,7 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Подпрозорецът се срина">
-<!ENTITY tabCrashed.message "Well, this is embarrassing. We tried to display this Web page, but it's not responding.">
+<!ENTITY tabCrashed.message "Това вече е затрудняващо. Опитахме се да покажем уебстраницата, но тя не отговаря.">
 <!ENTITY tabCrashed.checkSendReport "Кажете на &vendorShortName; за срива, за да могат да го поправят.">
 <!ENTITY tabCrashed.tryAgain "Опит отново">
 
