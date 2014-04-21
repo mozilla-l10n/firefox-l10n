@@ -13,5 +13,16 @@
 <!ENTITY andSetStatusToAway.accesskey "b">
 <!ENTITY sendTyping.label "Enviar notificaciones de escritura en conversaciones">
 <!ENTITY sendTyping.accesskey "E">
-<!ENTITY desktopChatNotifications.label "Mostrar notificaciones de mensajes dirigidos a usted">
+<!ENTITY chatNotifications.label "Cuando lleguen mensajes dirigidos a usted:">
+<!ENTITY desktopChatNotifications.label "Mostrar una notificación">
 <!ENTITY desktopChatNotifications.accesskey "M">
+<!ENTITY chatSound.accesskey "R">
+<!ENTITY chatSound.label "Reproducir un sonido">
+<!ENTITY play.label "Reproducir">
+<!ENTITY play.accesskey "c">
+<!ENTITY systemSound.label "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemSound.accesskey "S">
+<!ENTITY customsound.label "Usar el siguiente archivo de sonido">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Examinar…">
+<!ENTITY browse.accesskey "x">

@@ -82,18 +82,20 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY findCmd.label "Buscar y reemplazar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "B">
+<!ENTITY findBarCmd.label "Buscar…">
+<!ENTITY findBarCmd.accesskey "B">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
+<!ENTITY findReplaceCmd.accesskey "R">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Buscar anterior">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
@@ -162,11 +164,11 @@
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Configuración de las cuentas…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.accesskey "o">
+<!ENTITY accountManagerCmd2.label "Configuración de cuenta">
+<!ENTITY accountManagerCmd2.accesskey "C">
+<!ENTITY accountManagerCmdUnix2.accesskey "C">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY minimizeWindow.key "m">

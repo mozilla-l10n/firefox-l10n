@@ -109,8 +109,8 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.accesskey "o">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY newContactButton.label "Nuevo contacto">
