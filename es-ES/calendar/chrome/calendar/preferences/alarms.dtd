@@ -28,3 +28,5 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "v">
 <!ENTITY pref.defaultemail.label "Dirección predet. a la que enviar los avisos:">
 <!ENTITY pref.defaulttext.label "Texto predeterminado de los avisos:">
+<!ENTITY pref.defaultsnoozelength.label "Duración por defecto del retardo:">
+<!ENTITY pref.defaultsnoozelength.accesskey "u">
