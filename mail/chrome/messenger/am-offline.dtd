@@ -37,7 +37,7 @@
 <!ENTITY offlineSelectNntp.accesskey "b">
 <!ENTITY offlineImapAdvancedOffline.label "Napredno…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "p">
-<!ENTITY syncGroupTitle.label "Usklajevanje sporočil">
+<!ENTITY syncGroupTitle.label "Sinhronizacija sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -46,9 +46,9 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Uskladi vsa sporočila krajevno, ne glede na starost">
+<!ENTITY allAutosync.label               "Sinhroniziraj vsa sporočila krajevno, ne glede na starost">
 <!ENTITY allAutosync.accesskey           "u">
-<!ENTITY ageAutosyncBefore.label         "Uskladi najnovejša">
+<!ENTITY ageAutosyncBefore.label         "Sinhroniziraj najnovejša">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dnevi">

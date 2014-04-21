@@ -653,13 +653,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu2.label     "Zavihki ostalih naprav">
 
-<!ENTITY syncBrand.shortName.label  "Usklajevanje">
+<!ENTITY syncBrand.shortName.label  "Sync">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; …">
 <!ENTITY syncSetup.accesskey          "u">
-<!ENTITY syncSyncNowItem.label        "Uskladi zdaj">
+<!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItem.accesskey    "u">
-<!ENTITY syncToolbarButton.label      "Uskladi">
+<!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
 <!ENTITY socialToolbar.title        "Gumb družbene vrstice">
 

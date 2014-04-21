@@ -65,10 +65,10 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Naprave nimam pri sebi">
 <!ENTITY pairDevice.setup.description.label "Za vklop izberite &#x0022;Dodaj napravo&#x0022; na vaši drugi napravi.">
 <!ENTITY addDevice.setup.enterCode.label    "Nato vnesite to kodo:">
-<!ENTITY pairDevice.dialog.description.label "Za vklop vaše nove naprave na njej izberite &#x0022;Nastavi usklajevanje&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Za vklop vaše nove naprave na njej izberite &#x0022;Nastavi Sync&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Vnesite kodo, ki jo ponuja naprava:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Poskusite znova.">
-<!ENTITY addDevice.dialog.successful.label  "Naprava je bila dodana uspešno. Začetno usklajevanje lahko traja nekaj minut in se bo končala v ozadju.">
+<!ENTITY addDevice.dialog.successful.label  "Naprava je bila uspešno dodana. Prva sinhronizacija lahko traja nekaj minut in se bo končala v ozadju.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Za vklop vaše naprave boste morali vnesti svoj obnovitveni ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
 <!ENTITY addDevice.dialog.connected.label   "Naprava je povezana">
 
@@ -80,11 +80,11 @@
 <!ENTITY resetSyncKey.label           "Izgubil sem drugo napravo.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title    "Možnosti usklajevanja">
+<!ENTITY setup.optionsPage.title    "Možnosti sinhronizacije">
 <!ENTITY syncDeviceName.label       "Ime naprave:">
 <!ENTITY syncDeviceName.accesskey   "r">
 
-<!ENTITY syncMy.label               "Usklajuj:">
+<!ENTITY syncMy.label               "Sinhroniziraj:">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Zavihke">
@@ -112,5 +112,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title  "Namestitev končana!">
-<!ENTITY changeOptions.label "To nastavitev lahko spremenite z izbiro Možnosti usklajevanja.">
+<!ENTITY changeOptions.label "To nastavitev lahko spremenite z izbiro Možnosti sinhronizacije.">
 <!ENTITY continueUsing.label "Zdaj lahko nadaljujete z uporabo &brandShortName;a.">
