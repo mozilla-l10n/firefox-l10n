@@ -1,3 +1,6 @@
+<!ENTITY inspectorHTMLEdit.label       "Редактиране като HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "Р">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Копиране на вътрешния HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "р">
 
@@ -13,4 +16,6 @@
 <!ENTITY inspector.selectButton.tooltip     "Изберете елемент с мишката">
 
 <!ENTITY inspectorSearchHTML.label          "Търсене на HTML">
-<!ENTITY inspectorSearchHTML.key            "F">
+<!ENTITY inspectorSearchHTML.key            "Т">
+
+<!ENTITY inspectorCopyImageDataUri.label       "Копиране на изображението като Data-URL">

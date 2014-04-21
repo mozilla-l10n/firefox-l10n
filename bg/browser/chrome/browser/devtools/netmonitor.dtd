@@ -8,16 +8,21 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+  -  in the network table when empty to start performance analysis. -->
+
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• Щракнете на ">
+<!ENTITY netmonitorUI.perfNotice2         "бутона за пускане на анализ на производителността.">
+<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 
-
-
-<!ENTITY netmonitorUI.emptyNotice2        "Презаредете страницата, за да видите подробна информация за активността на мрежата.">
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
+<!ENTITY netmonitorUI.emptyNotice3        "• Направете уеб заявка или презаредете страницата, за да видите подробна информация за мрежовата активност.">
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
-<!ENTITY netmonitorUI.toolbar.status      "√">
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -98,6 +103,18 @@
   -  in the network details footer for the "Flash" filtering button. -->
 
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
+  -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "Друго">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
+  -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "Изчистване">
+<!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
+  -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "Превключване на анализа на производителността…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -168,23 +185,49 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "Получаване:">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
+  -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "Пускане на анализ на производителността…">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
+  -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "П">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
-<!ENTITY netmonitorUI.context.copyUrl      "Копиране на URL">
+<!ENTITY netmonitorUI.context.copyUrl     "Копиране на URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
-<!ENTITY netmonitorUI.context.copyUrl.accesskey  "К">
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend): This is the label displayed
-  -  on the button in the headers tab that opens a form to resend the currently
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "К">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
+  -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Копиране на изображение като Data URI">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
+  -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "з">
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
+  -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
 
-<!ENTITY netmonitorUI.summary.resend      "Презареждане">
-<!-- LOCALIZATION NOTE (debuggerUI.summary.resend.accesskey): This is the access key
-  -  for the Resend menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.summary.editAndResend "И">
+<!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
+  -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 
-<!ENTITY netmonitorUI.summary.resend.accesskey  "П">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "н">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "Отваряне в нов подпрозорец">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  network container -->
+
+<!ENTITY netmonitorUI.context.newTab.accesskey "О">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 
@@ -209,3 +252,7 @@
   -  on the button which cancels and closes the custom request form -->
 
 <!ENTITY netmonitorUI.custom.cancel       "Прекъсване">
+<!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
+  -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "Назад">

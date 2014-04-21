@@ -32,34 +32,68 @@
   -  the button that opens up an options context menu for the debugger UI. -->
 
 <!ENTITY debuggerUI.optsButton.tooltip  "Debugger Options">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
+  -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Превключване на черната кютия">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
+  -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "Украсяване на сорса">
+<!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
+  -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "Автоматично украсяване на минифициран сорс">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "У">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
+  -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Включване/изключване на всички точки на прекъсване">
+<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
+  - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "Пускане на проследяване">
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "Изчистване">
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "Изчистване на събраните следи от проследяване">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions     "Pause on exceptions">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.pauseExceptions           "Пауза при изключение">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+<!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Пренебрегване на уловени изключения">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "И">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit     "Показване на панелите при пускане">
-<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showPanesOnInit           "Показване на панелите при пускане">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
-<!ENTITY debuggerUI.showVarsFilter      "Показване на кутията за филтриране на променливи">
-<!ENTITY debuggerUI.showVarsFilter.key  "V">
+<!ENTITY debuggerUI.showVarsFilter           "Показване на кутията за филтриране на променливи">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum        "Показване само на изброяемите свойства">
-<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.showOnlyEnum           "Показване само на изброяемите свойства">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "Показване на оригиналния сорс">
-<!ENTITY debuggerUI.showOriginalSource.key  "O">
+<!ENTITY debuggerUI.showOriginalSource           "Показване на оригиналния сорс">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -67,39 +101,46 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile          "Скриптове за филтриране">
-<!ENTITY debuggerUI.searchFile.key      "P">
-<!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchFile           " Скриптове за филтриране">
+<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.altkey    "O">
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Търсене във всички файлове">
-<!ENTITY debuggerUI.searchGlobal.key    "F">
+<!ENTITY debuggerUI.searchGlobal           "Търсене във всички файлове">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "Търсене на определение на функция">
-<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchFunction           "Търсене на определение на функция">
+<!ENTITY debuggerUI.searchFunction.key       "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken         "Търсене">
-<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchToken           "Търсене">
+<!ENTITY debuggerUI.searchToken.key       "F">
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchGoToLine      "Отиване на ред…">
-<!ENTITY debuggerUI.searchGoToLine.key  "L">
+<!ENTITY debuggerUI.searchGoToLine           "Отиване на ред…">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
-<!ENTITY debuggerUI.searchVariable      "Филтриране на променливи">
-<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.searchVariable           "Филтриране на променливи">
+<!ENTITY debuggerUI.searchVariable.key       "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-<!ENTITY debuggerUI.focusVariables      "Фокусиране върху дървото на променливите">
-<!ENTITY debuggerUI.focusVariables.key  "V">
+<!ENTITY debuggerUI.focusVariables           "Фокусиране върху дървото на променливите">
+<!ENTITY debuggerUI.focusVariables.key       "V">
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -107,14 +148,22 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuBreak         "Добавяне на точка на прекъсване">
-<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuBreak     "Добавяне на точка на прекъсване">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Добавяне на условна точка на прекъсване">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
+  -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.sources        "Сорсове">
+<!ENTITY debuggerUI.tabs.traces         "Проследявания">
+<!ENTITY debuggerUI.tabs.callstack      " Стек на извикванията">
+<!ENTITY debuggerUI.tabs.variables      "Променливи">
+<!ENTITY debuggerUI.tabs.events         "Събития">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
@@ -124,12 +173,13 @@
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.addWatch            "Добавяне на израз за следене">
-<!ENTITY debuggerUI.addWatch.key        "E">
+<!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch      "Премахване на всички изрази за следене">
-<!ENTITY debuggerUI.removeAllWatch.key  "E">
+<!ENTITY debuggerUI.removeAllWatch           "Премахване на всички изрази за следене">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
