@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Настройки">
 <!ENTITY pref_category_advanced "Додатково">
 <!ENTITY pref_category_customize "Вподобання">
-<!ENTITY pref_category_search2 "Настройки пошуку">
+<!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_display "Відображення">
 <!ENTITY pref_category_privacy_short "Приватність">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Вибір даних">
 <!ENTITY pref_category_installed_search_engines "Встановлені пошуковці">
 <!ENTITY pref_category_add_search_providers "Додати інші джерела">
+<!ENTITY pref_category_search_restore_defaults "Відновити пошуковці">
+<!ENTITY pref_search_restore_defaults "Відновити типові">
+<!ENTITY pref_search_restore_defaults_summary "Відновити типові">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Віддалена відладка">
 <!ENTITY pref_developer_remotedebugging_docs "Дізнатись більше">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
+
+<!ENTITY pref_category_home "Доміка">
+<!ENTITY pref_category_home_panels "Панелі">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Вподобання">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "Про &brandShortName;">
 <!ENTITY pref_vendor_faqs "Питання">
 <!ENTITY pref_vendor_feedback "Дати відгук">
-<!ENTITY pref_search_set_default "Встановити типовим">
-<!ENTITY pref_search_default "Типовий">
-<!ENTITY pref_search_remove "Вилучити">
+
+<!ENTITY pref_dialog_set_default "Встановити типовим">
+<!ENTITY pref_dialog_default "Типовий">
+<!ENTITY pref_dialog_remove "Вилучити">
+
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній пошуковець.">
+
+<!ENTITY pref_panels_show "Показати">
+<!ENTITY pref_panels_hide "Приховати">
 
 <!ENTITY datareporting_notification_title "Статистика та дані &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Обрати якою інформацією ділитись">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Наступне">
 <!ENTITY find_close "Закрити">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Передача на пристрій">
+<!ENTITY media_play "Грати">
+<!ENTITY media_pause "Пауза">
+<!ENTITY media_stop "Стоп">
+
 <!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
 <!ENTITY contextmenu_open_private_tab "Відкрити в потайливій вкладці">
 <!ENTITY contextmenu_open_in_reader "Відкрити в Читачі">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
 <!ENTITY pref_titlebar_mode_url "Показувати адресу сторінки">
 
-<!ENTITY pref_dynamic_toolbar "Прокручувати заголовок">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Прокручувати заголовок">
 
 <!ENTITY history_removed "Сторінку вилучено">
 
