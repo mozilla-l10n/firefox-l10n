@@ -18,5 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "Пошук HTML">
 <!ENTITY inspectorSearchHTML.key            "ш">
 
-
 <!ENTITY inspectorCopyImageDataUri.label       "Копіювати Data-URL малюнка">
