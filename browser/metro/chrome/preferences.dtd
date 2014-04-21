@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "ਸਰਗਰਮ ਲਾਗਇਨ">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Show Navigation Buttons">
 <!ENTITY doNotTrack.title                                        "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY doNotTrack.options.doNotTrack                           "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ">
 <!ENTITY doNotTrack.options.doTrack                              "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ">
