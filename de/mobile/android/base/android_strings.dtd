@@ -99,8 +99,8 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\'&formatS;\' zum Startbildschirm hinzugefügt">
-<!ENTITY pref_category_home_content_settings "Inhaltseinstellungen">
-<!ENTITY pref_home_updates "Updates automatisch herunterladen">
+<!ENTITY pref_category_home_content_settings "Inhalte">
+<!ENTITY pref_home_updates "Automatisch aktualisieren">
 <!ENTITY pref_home_updates_enabled "Aktiviert">
 <!ENTITY pref_home_updates_wifi "Nur über WLAN">
 
