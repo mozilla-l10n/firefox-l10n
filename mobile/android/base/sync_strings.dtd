@@ -4,8 +4,8 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Usklajevanje za Firefox">
-<!ENTITY syncBrand.shortName.label "Usklajevanje">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
@@ -59,8 +59,8 @@
 <!ENTITY sync.summary.pair.label 'Povežite drugo napravo z vašim računom za &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Kaj naj se usklajuje'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Uskladi moje …'>
+<!ENTITY sync.configure.engines.title.label 'Kaj naj se sinhronizira'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sinhroniziraj moje …'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Zaznamke'>
 <!ENTITY sync.configure.engines.title.passwords 'Gesla'>
 <!ENTITY sync.configure.engines.title.history 'Zgodovino'>

@@ -132,7 +132,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_show_product_announcements "Pokaži obvestila izdelkov">
-<!ENTITY pref_sync "Uskladi">
+<!ENTITY pref_sync "Sinhroniziraj">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_private_data_history "Zgodovino brskanja in prenosov">
@@ -205,7 +205,7 @@ size. -->
 <!ENTITY close_all_tabs "Zapri vse zavihke">
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
-<!ENTITY tabs_synced "Usklajeno">
+<!ENTITY tabs_synced "Sinhronizirano">
 <!ENTITY set_image_fail "Ne morem nastaviti slike">
 <!ENTITY set_image_chooser_title "Nastavi sliko kot">
 
