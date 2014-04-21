@@ -45,3 +45,36 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Pogoji uporabe">
 <!ENTITY prefs.ppLink.label         "Politika zasebnosti">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Obvestilo o zasebnosti">
+<!ENTITY determiningAcctStatus.label     "Preverjanje stanja vašega računa …">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "Račun ">
+<!ENTITY signedInUnverified.aftername.label "ni potrjen.">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Prijavite se za ponovno povezavo računa">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Niste prijavljeni.">
+<!ENTITY signIn.label                "Prijava">
+<!ENTITY manage.label                "Upravljaj">
+<!ENTITY disconnect.label            "Odklopi …">
+<!ENTITY verify.label                "Potrdi e-poštni naslov">
+<!ENTITY forget.label                "Pozabi ta e-poštni naslov">
+
+<!ENTITY welcome.description "Uporabljajte svoje zavihke, zaznamke, gesla in še več, kjerkoli uporabljate &brandShortName;.">
+<!ENTITY welcome.signIn.label "Prijava">
+<!ENTITY welcome.createAccount.label "Ustvari račun">
+
+<!ENTITY welcome.useOldSync.label "Uporabljate starejšo različico Synca?">
