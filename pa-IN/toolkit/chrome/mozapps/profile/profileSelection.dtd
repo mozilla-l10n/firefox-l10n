@@ -28,5 +28,5 @@
 <!ENTITY            offlineState.label    "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ  ਨਾ ਪੁੱਛੋ">
-<!ENTITY            autoSelect.accesskey   "s">
+<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
+<!ENTITY            useSelected.accesskey   "s">

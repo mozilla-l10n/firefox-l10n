@@ -27,9 +27,6 @@
 <!ENTITY dnsNotFound.title "ਐਡਰੈੱਸ ਨਹੀਂ ਲੱਭਿਆ">
 <!ENTITY dnsNotFound.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਪਛਾਣੀ ਸਾਇਟ ਨੂੰ ਨਹੀਂ ਵੇਖਾਉਦਾ ਹੈ ਅਤੇ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਇਹ ਐਡਰੈੱਸ ਵਿੱਚ ਗਲਤ ਸ਼ਬਦ-ਜੋੜ ਹੋਣ ਕਰਕੇ ਜਾਂ ਸਿਰਫ ਸਾਇਟ ਮੌਜੂਦ ਨਾ ਹੋਣ ਕਰਕੇ ਹੋ ਸਕਦਾ ਹੈ। ਜੇਕਰ ਇਹ ਯਕੀਨੀ ਹੈ ਕਿ ਐਡਰੈੱਸ ਠੀਕ ਹੈ ਜਾਂ ਜੇਕਰ ਇਹ ਸਮੱਸਿਆ ਕਈ ਸਾਇਟਾਂ ਨਾਲ ਹੈ ਤਾਂ ਇਹ ਤੁਹਾਡੀ ਪ੍ਰਕਾਸੀ ਸੇਵਾਂ (ਜੇਕਰ ਤੁਸੀਂ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ) ਜਾਂ ਡਾਇਰੈਕਟਰੀ ਨਾਂ ਸੇਵਾ ਖੋਜ ਨਾਲ ਸਮੱਸਿਆ ਕਰਕੇ ਹੈ। ਇਸ ਹਾਲਾਤ ਵਿੱਚ ਤੁਸੀਂ ਸਿਸਟਮ ਦਸਤਾਵੇਜ਼, ਪ੍ਰਬੰਧਕ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ (ISP) ਤੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
 
-<!ENTITY protocolNotFound.title "ਅਣਜਾਣਾ ਪਰੋਟੋਕਾਲ ਗਲਤੀ">
-<!ENTITY protocolNotFound.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਪਰੋਟੋਕਾਲ ਰਾਹੀਂ ਆਰੰਭ ਹੁੰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਇਹ ਝਲਕਾਰ ਪਛਾਣ ਨਹੀਂ ਸਕਦਾ ਹੈ। ਪਰੋਟੋਕਾਲ ਐਡਰੈੱਸ ਦਾ ਅਗਲਾ ਭਾਗ ਹੁੰਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ http: ਜਾਂ ftp:, ਜੋ ਕਿ ਬਰਾਊਜਰ ਨੂੰ ਦੱਸਦਾ ਹੈ ਕਿ ਸਾਇਟ ਨਾਲ ਕਿਵੇਂ ਜੁੜਨਾ ਹੈ। ਇਸ ਸਮੇਂ, ਪਰੋਟੋਕਾਲ ਅਣਜਾਣਾ ਹੋਣ ਕਰਕੇ ਲੋਡਿੰਗ ਜਾਰੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਐਡਰੈੱਸ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੋ।">
-
 <!ENTITY netTimeout.title "ਨੈੱਟ ਸਮਾਂ-ਅੰਤਰਾਲ ਸਮਾਪਤੀ ਗਲਤੀ">
 <!ENTITY netTimeout.longDesc "ਖਾਸ ਸਾਇਟ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਬਰਾਊਜਰ ਲਈ ਸਮਾਂ-ਅੰਤਰਾਲ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ। ਸਾਇਟ ਤੇ ਲੋਡ ਜਿਆਦਾ ਹੋਣ ਕਰਕੇ ਇਹ ਹੌਲੀ ਹੋ ਗਈ ਹੈ ਜਾਂ ਨੈੱਟਵਰਕ ਸਮੱਸਿਆ ਇਸ ਤੋਂ ਸਮੇਂ ਸਿਰ ਡਾਟਾ ਉਪਲੱਬਧ ਹੋਣ ਨਹੀਂ ਦੇ ਰਹੀ ਹੈ। ਜੇਕਰ ਸਾਇਟ ਰੁਝੀ ਹੋਈ ਹੈ ਤਾਂ ਮੁੜ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਕੁਝ ਪਲ਼ ਉਡੀਕ ਕਰੋ।">
 
@@ -60,6 +57,8 @@
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "Unknown Protocol">
+<!ENTITY unknownProtocolFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ">
 <!ENTITY proxyConnectFailure.longDesc "<p>ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਰਾਕਸੀ ਸਰਵਰ ਵਰਤਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।</p><ul><li>ਕੀ ਬਰਾਊਜ਼ਰ ਦੀ ਪਰਾਕਸੀ ਸੰਰਚਨਾ ਠੀਕ ਹੈ? ਸੈਟਿੰਗ ਚੈੱਕ ਕਰਕੇ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li><li>ਕੀ ਪਰਾਕਸੀ ਸਰਵਿਸ ਇਸ ਨੈੱਟਵਰਕ ਤੋਂ ਕੁਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਕਰਦੀ ਹੈ?</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
