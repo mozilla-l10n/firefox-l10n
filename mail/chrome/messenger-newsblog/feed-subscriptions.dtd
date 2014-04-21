@@ -13,6 +13,11 @@
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
 <!ENTITY quickMode.accesskey "M">
+<!ENTITY autotagEnable.label "Crear automáticamente etiquetas a partir de los nombres de las &lt;categorías&gt; de los canales">
+<!ENTITY autotagEnable.accesskey "b">
+<!ENTITY autotagUsePrefix.label "Poner a las etiquetas el prefijo:">
+<!ENTITY autotagUsePrefix.accesskey "P">
+<!ENTITY autoTagPrefix.placeholder "Introduzca un prefijo de etiqueta">
 <!ENTITY locationValidate.label "Validar">
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY button.addFeed.label "Añadir">
