@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Iskanje">
-<!ENTITY newpref.label          "Dodaj novo nastavitev">
 <!ENTITY addpref.name           "Ime">
-<!ENTITY addpref.value          "Vrednost">
 
 <!ENTITY cancel.label           "Prekliči">
-<!ENTITY reset.label            "Ponastavi">
-<!ENTITY done.label             "Končano">
+<!ENTITY toggle.label           "Preklopi">
 
 <!ENTITY integer.label          "Celo število">
 <!ENTITY string.label           "Niz znakov">
 <!ENTITY boolean.label          "Logična vrednost">
+
+<!ENTITY string.placeholder     "Vnesite niz">
+<!ENTITY number.placeholder     "Vnesite število">
