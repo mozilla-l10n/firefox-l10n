@@ -19,11 +19,11 @@
 <!ENTITY viewQuota.label              "Prikaži omejitve">
 <!ENTITY changePassword2.label        "Spremeni geslo …">
 <!ENTITY myRecoveryKey.label          "Moj obnovitveni ključ">
-<!ENTITY resetSync2.label             "Ponastavi usklajevanje …">
+<!ENTITY resetSync2.label             "Ponastavi Sync …">
 
 <!ENTITY pairDevice.label              "Dodaj napravo">
 
-<!ENTITY syncMy.label               "Uskladi">
+<!ENTITY syncMy.label               "Sinhroniziraj">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Zavihke">

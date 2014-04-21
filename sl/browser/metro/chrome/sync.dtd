@@ -28,7 +28,7 @@
 
 <!-- Flyout when user has just connected -->
 <!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; ste pravkar povezali z računom za storitev &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.setupsuccess.description2      "Podatki storitve &syncBrand.shortName.label; se prenašajo v ozadju. Usklajene zavihke lahko najdete na domači strani &brandShortName;a">
+<!ENTITY sync.flyout.setupsuccess.description2      "Podatki storitve &syncBrand.shortName.label; se prenašajo v ozadju. Sinhronizirane zavihke lahko najdete na domači strani &brandShortName;a">
 
 <!-- Flyout when setup failed -->
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName; se ni uspel povezati z vašim računom za &syncBrand.shortName.label;.">
