@@ -102,6 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "N">
 <!ENTITY cmd.uninstallAddon.label             "Odstrániť">
 <!ENTITY cmd.uninstallAddon.accesskey         "d">
+<!ENTITY cmd.debugAddon.label                 "Ladenie">
 <!ENTITY cmd.showPreferencesWin.label         "Možnosti">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Upraviť možnosti a nastavenia tohto doplnku">
 <!ENTITY cmd.showPreferencesUnix.label        "Možnosti">
