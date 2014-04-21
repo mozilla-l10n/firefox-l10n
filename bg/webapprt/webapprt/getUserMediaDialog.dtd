@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                   "Споделяне на медия">
+<!ENTITY getUserMediaDialog.button.accept.label     "Споделяне">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "С">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Отказ">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "О">
+
+<!ENTITY getUserMediaDialog.video.label             "Избор на камера">
+<!ENTITY getUserMediaDialog.video.noVideo           "Без видео">
+<!ENTITY getUserMediaDialog.audio.label             "Избор на микрофон">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Без аудио">
