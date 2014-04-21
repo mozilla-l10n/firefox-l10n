@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Подаване на обратна връзка…">
 <!ENTITY helpFeedbackPage.accesskey  "П">
 
+<!ENTITY helpShowTour.label             "Обиколка на &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
