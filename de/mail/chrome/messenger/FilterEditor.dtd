@@ -31,17 +31,17 @@
 <!ENTITY filterActionOrder.label "Ausführreihenfolge anzeigen">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Verschiebe Nachricht in:">
-<!ENTITY copyMessage.label "Kopiere Nachricht in:">
+<!ENTITY moveMessage.label "Verschieben der Nachricht in:">
+<!ENTITY copyMessage.label "Kopieren der Nachricht in:">
 <!ENTITY forwardTo.label "Weiterleiten an:">
-<!ENTITY replyWithTemplate.label "Antworte mit Vorlage:">
-<!ENTITY markMessageRead.label "Markiere als gelesen">
-<!ENTITY markMessageUnread.label "Markiere als ungelesen">
-<!ENTITY markMessageStarred.label "Kennzeichne die Nachricht">
+<!ENTITY replyWithTemplate.label "Antworten mit Vorlage:">
+<!ENTITY markMessageRead.label "Als gelesen markieren">
+<!ENTITY markMessageUnread.label "Als ungelesen markieren">
+<!ENTITY markMessageStarred.label "Kennzeichnen der Nachricht">
 <!ENTITY setPriority.label "Priorität ändern auf:">
 <!ENTITY addTag.label "Schlagwort hinzufügen:">
-<!ENTITY setJunkScore.label "Setze Junk-Status auf:">
-<!ENTITY deleteMessage.label "Lösche die Nachricht">
+<!ENTITY setJunkScore.label "Junk-Status setzen auf:">
+<!ENTITY deleteMessage.label "Löschen der Nachricht">
 <!ENTITY deleteFromPOP.label "Vom Server löschen">
 <!ENTITY fetchFromPOP.label "Vom Server herunterladen">
 <!ENTITY ignoreThread.label "Thema ignorieren">
