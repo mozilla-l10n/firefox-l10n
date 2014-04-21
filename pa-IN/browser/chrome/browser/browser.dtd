@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ">
-<!ENTITY syncStartPanel.heading "&brandShortName; ਹੁਣ ਸਿੰਕ ਕਰ ਰਿਹਾ ਹੈ">
-<!ENTITY syncStartPanel.subTitle "ਤੁਸੀਂ &syncBrand.shortName.label; ਦਾ ਪ੍ਰਬੰਧ ਚੋਣਾਂ ਵਿੱਚ ਕਰ ਸਕਦੇ ਹੋ।">
-<!ENTITY syncStartPanel.subTitleUnix "ਤੁਸੀਂ &syncBrand.shortName.label; ਦਾ ਪ੍ਰਬੰਧ ਮੇਰੀ ਪਸੰਦ ਵਿੱਚ ਕਰ ਸਕਦੇ ਹੋ।">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; enabled">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; will begin syncing momentarily.">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
 <!ENTITY syncErrorPanel.subTitle "ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸਾਇਨ ਇਨ ਕਰੋ ਜੀ">
 <!ENTITY syncErrorPanel.signInButton.label "ਸਾਇਨ ਇਨ">
@@ -650,6 +649,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "…ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -705,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Reconnect to &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ਸਿੰਕ ਕਰੋ">
 
 <!ENTITY addonBarCloseButton.tooltip  "ਐਡ-ਆਨ ਪੱਟੀ ਬੰਦ ਕਰੋ">
@@ -739,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "ਹੁਣੇ ਨਹੀਂ">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; ਪਸੰਦੀਦਾ">
-<!ENTITY customizeMode.menuAndToolbars.label "ਮੇਨੂ ਤੇ ਟੂਲਬਾਰ">
+
 <!ENTITY customizeMode.menuAndToolbars.header2 "ਵਾਧੂ ਟੂਲ ਤੇ ਫੀਚਰ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ਹੋਰ ਟੂਲ ਚਾਹੀਦੇ ਹਨ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ਹਜ਼ਾਰਾ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ">
@@ -764,7 +766,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "ਕੈਮਰਾ/ਮਾਈਕਰੋਫੋਨ ਵਰਤੋਂ">
 <!ENTITY webrtcIndicatorButton.tooltip "ਸਾਈਟਾਂ ਵੇਖਾਉਂਦਾ ਹੈ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਤੁਸੀਂ ਆਪਣਾ ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫੋਨ ਇਸ ਸਮੇਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
 
-<!ENTITY mixedContentBlocked.helplink "ਹੋਰ ਜਾਣੋ">
 <!ENTITY mixedContentBlocked.moreinfo "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਹਾਲੇ ਵੀ ਠੀਕ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨਗੀਆਂ, ਭਾਵੇਂ ਕਿ ਇਹ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">

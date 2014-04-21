@@ -83,12 +83,13 @@
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋ ਗਿਆ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ਐਡਰੈੱਸ ਸਮਝਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈੱਸ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।</li>
+  <li>You might need to install other software to open this address.</li>
 </ul>
 ">
+
 
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।">
 <!ENTITY proxyConnectFailure.longDesc "

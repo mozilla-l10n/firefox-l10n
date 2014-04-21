@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "ਸੁਨੇਹੇ">
 <!ENTITY consoleCodeEval.label     "ਕੋਡ:">
 <!ENTITY consoleClear.label        "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY consoleCopyAll.label      "Copy">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ਸਰੋਤ ਫਾਇਲ:">
 <!ENTITY consoleErrLine.label      "ਲਾਈਨ:">
 <!ENTITY consoleErrColumn.label    "ਕਾਲਮ:">
+<!ENTITY consoleFollowCheckbox.label "Follow">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "ਕੱਟੋ">
