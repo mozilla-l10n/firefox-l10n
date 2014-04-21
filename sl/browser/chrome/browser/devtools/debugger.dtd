@@ -178,7 +178,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Odstrani vse izraze za spremljanje">
-<!ENTITY debuggerUI.removeAllWatch.key       "I">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
