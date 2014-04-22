@@ -148,7 +148,7 @@
 <!ENTITY fxaccount_create_account_unknown_error 'Účet nebolo možné vytvoriť'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nie je možné vytvoriť účet'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'You must meet certain age requirements to create an account.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Ak si chcete vytvoriť účet, musíte spĺňať stanovené vekové požiadavky.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Ďalšie informácie'>
 
 <!ENTITY fxaccount_confirm_account_header 'Potvrďte svoj účet'>
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet musí byť overený. Ťuknutím znova odošlete overovací e-mail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nie je možné sa pripojiť. Ťuknutím sa prihlásite.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach synchronizácie systému Android.'>
+<!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju sputíte.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
 <!ENTITY fxaccount_status_passwords 'Heslá'>
