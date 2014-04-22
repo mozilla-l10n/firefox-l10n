@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName;ஐ துவங்க போதிய காலி இடம் இல்லை.">
-<!ENTITY  error_loading_file "&brandShortName;ஐ இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
+<!ENTITY  no_space_to_start_error "&brandShortName;வை துவங்க போதிய காலி இடம் இல்லை.">
+<!ENTITY  error_loading_file "&brandShortName;வை இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -120,7 +120,7 @@
 <!ENTITY pref_donottrack_menu "கண்காணிப்பு">
 <!ENTITY pref_donottrack_disallow_tracking "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
 <!ENTITY pref_donottrack_allow_tracking "நான் கண்காணிக்கப்படுவதை விரும்புகிறேன் என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY pref_donottrack_no_pref "என்னுடைய கண்காணிக்கப்பு விருப்ப முன்னுரிமைகளை வலைதளங்களிடம் சொல்ல வேண்டாம்">
+<!ENTITY pref_donottrack_no_pref "என்னுடைய கண்காணிப்பு விருப்ப முன்னுரிமைகளை வலைதளங்களிடம் சொல்ல வேண்டாம்">
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -167,7 +167,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "பதிவிறக்கப்பட்ட கோப்புகள்">
 
 
-<!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
+<!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
 
@@ -202,8 +202,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
-<!ENTITY datareporting_wifi_title "&vendorShortName; இடமறியும் சேவைகள்">
-<!ENTITY datareporting_wifi_summary "புவிஇருப்பிட சேவைகள் மேம்படுத்தவும் திறந்த முறையில் இணையத்தை வளர்க்கவும் &brandShortName; மூலம் செல்லுலார் கோபுரம் தரவுகளை சேகரிக்கவும் உதவுகிறது">
+<!ENTITY datareporting_wifi_title "&vendorShortName;வின் இடமறியும் சேவைகள்">
+<!ENTITY datareporting_wifi_summary "புவிஇருப்பிட சேவைகள் மேம்படுத்தவும் திறந்த முறையில் இணையத்தை வளர்க்கவும் &brandShortName; மூலம் செல்லுலார் தரவுகளை சேகரிக்கவும் உதவுகிறது">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -225,7 +225,7 @@ size. -->
 <!ENTITY share_image_failed "இந்த படத்தை பகிரமுடியவில்லை">
 <!ENTITY save_as_pdf "பிடிஎப் ஆக சேமி">
 <!ENTITY find_in_page "பக்கத்தில் கண்டுபிடி">
-<!ENTITY desktop_mode "மேசைக் கணினிக்கான பக்கத்தை கேள்">
+<!ENTITY desktop_mode "கணினி பக்கத்தை கேள்">
 <!ENTITY page "பக்கம்">
 <!ENTITY tools "கருவிகள்">
 <!ENTITY new_tab "புதிய கீற்று">
@@ -286,7 +286,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "இணையத்தள அமைவுகள்">
-<!ENTITY site_settings_cancel       "ரத்துசெய்">
+<!ENTITY site_settings_cancel       "இரத்துசெய்">
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
 
@@ -306,7 +306,7 @@ size. -->
 <!ENTITY masterpassword_confirm "கடவுச்சொல்லை உறுதிசெய்">
 
 <!ENTITY button_ok "சரி">
-<!ENTITY button_cancel "ரத்துசெய்">
+<!ENTITY button_cancel "இரத்துசெய்">
 <!ENTITY button_yes "ஆம்">
 <!ENTITY button_no "இல்லை">
 <!ENTITY button_clear_data "தரவினை அகற்று">
@@ -396,7 +396,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY devtools_remote_debugging_forward "சேவை முனை முன்செலுத்தலை அமைக்க மறக்காதீர்கள்!">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "&brandShortName;இற்கு புதுபித்தல் கிடைக்கிறது">
+<!ENTITY updater_start_title2 "&brandShortName;விற்கு புதுபித்தல் கிடைக்கிறது">
 <!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
