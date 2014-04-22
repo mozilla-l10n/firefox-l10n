@@ -117,5 +117,5 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li></ul></p>">
 
