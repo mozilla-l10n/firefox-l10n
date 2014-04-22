@@ -15,7 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
 
-
+<!ENTITY appmenu.tooltip                     "Deschide meniu">
+<!ENTITY navbarOverflow.label                "Mai multe unelte...">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Reîncarcă fila">
@@ -95,13 +96,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
-
-
-
-
-
-
+<!ENTITY fxaSignIn.label "Conectare la &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea în câteva momente.">
+<!ENTITY syncErrorPanel.heading "Nu mă pot conecta la &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Vă rugam autentificați-vă pentru a relua sincronizarea.">
+<!ENTITY syncErrorPanel.signInButton.label "Autentificare">
+<!ENTITY syncErrorPanel.signInButton.accesskey "A">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
@@ -124,14 +126,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Semne de carte">
 <!ENTITY bookmarksMenu.accesskey "S">
 <!ENTITY bookmarkThisPageCmd.label "Pune un semn la această pagină">
-<!ENTITY editThisBookmarkCmd.label "Editează semnul de carte">
+<!ENTITY editThisBookmarkCmd.label "Editează acest semn de carte">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 
 
 
-
-
+<!ENTITY shareLinkCmd.label "Împărtășește această legătură">
+<!ENTITY shareLinkCmd.accesskey "s">
 
 
 <!ENTITY shareSelectCmd.label "Împărtășește selecția">
@@ -329,27 +331,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizare">
-
-
-
+<!ENTITY appMenuCustomize.tooltip "Personalizați meniul și bara de unelte">
+<!ENTITY appMenuCustomizeExit.label "Ieșire din personalizare">
+<!ENTITY appMenuCustomizeExit.tooltip "Finalizare personalizare">
 <!ENTITY appMenuHistory.label "Istoric">
 <!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Curăță istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 
+<!ENTITY appMenuHelp.tooltip "Deschidere meniu Ajutor">
 
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Adaugă la Meniu">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Mută în bara de unelte">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
+<!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
+<!ENTITY customizeMenu.moveToPanel.accesskey "u">
 
 
 
@@ -680,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Nu acum">
 
 
-
+<!ENTITY customizeMode.menuAndToolbars.empty "Doriți mai multe unelte?">
 
 
 

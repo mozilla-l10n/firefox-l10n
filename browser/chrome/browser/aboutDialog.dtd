@@ -10,10 +10,10 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Se caută actualizări…">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-
-
-
-
+<!ENTITY update.updateButton.label                "Repornește pentru actualizare">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "Aplică actualizările...">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

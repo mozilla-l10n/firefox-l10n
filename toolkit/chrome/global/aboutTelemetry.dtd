@@ -25,6 +25,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograme colectate de suplimente">
 
+<!ENTITY aboutTelemetry.toggle "  Clic pentru a comuta secțiunea">
 
 <!ENTITY aboutTelemetry.emptySection " (Nu sunt date colectate) ">
 
@@ -34,3 +35,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Arată datele brute de la blocări">
 
+<!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">
