@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Sporočila">
 <!ENTITY consoleCodeEval.label     "Koda:">
 <!ENTITY consoleClear.label        "Počisti">
+<!ENTITY consoleCopyAll.label      "Kopiraj">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Izvorna datoteka:">
 <!ENTITY consoleErrLine.label      "Vrstica:">
 <!ENTITY consoleErrColumn.label    "Stolpec:">
+<!ENTITY consoleFollowCheckbox.label "Spremljaj">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Izreži">

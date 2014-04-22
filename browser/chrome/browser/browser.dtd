@@ -98,9 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Prijava v &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ponovna povezava s &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; zdaj sinhronizira">
-<!ENTITY syncStartPanel.subTitle "&syncBrand.shortName.label; lahko upravljate v Možnostih.">
-<!ENTITY syncStartPanel.subTitleUnix "&syncBrand.shortName.label; lahko upravljate v Nastavitvah.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogočen">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; bo začel s sinhronizacijo.">
 <!ENTITY syncErrorPanel.heading "Povezava v &syncBrand.shortName.label; ni mogoča">
 <!ENTITY syncErrorPanel.subTitle "Za nadaljevanje sinhronizacije se morate prijaviti.">
 <!ENTITY syncErrorPanel.signInButton.label "Prijava">
@@ -614,6 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "j">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje …">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -659,6 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "u">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItem.accesskey    "u">
+<!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label; …">
+<!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
 <!ENTITY socialToolbar.title        "Gumb družbene vrstice">
@@ -682,7 +684,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Ne zdaj">
 
 <!ENTITY customizeMode.tabTitle "Prilagodi &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Meni in orodne vrstice">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Druga orodja in možnosti">
 <!ENTITY customizeMode.menuAndToolbars.empty "Želite več orodij?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izbirajte med tisoči dodatkov">
@@ -707,7 +708,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Dostop do kamere in mikrofona">
 <!ENTITY webrtcIndicatorButton.tooltip "Prikaži strani, katerim je trenutno dovoljena uporaba kamere in mikrofona">
 
-<!ENTITY mixedContentBlocked.helplink "Več o tem">
 <!ENTITY mixedContentBlocked.moreinfo "Večina strani bo delovala pravilo, čeprav je ta vsebina zavrnjena.">
 
 <!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
