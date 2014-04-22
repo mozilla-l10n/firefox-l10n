@@ -44,7 +44,7 @@
 <!ENTITY  cookieExceptions.accesskey    "d">
 
 <!ENTITY  showCookies.label             "Cookies toane…">
-<!ENTITY  showCookies.accesskey         "s">
+<!ENTITY  showCookies.accesskey         "k">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; sil:">
