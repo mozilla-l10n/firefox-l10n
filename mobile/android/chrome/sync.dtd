@@ -26,5 +26,5 @@
 
 <!ENTITY sync.pair.title            "ഒരു ഡിവൈസുമായി പെയര്‍ ചെയ്യുക">
 <!ENTITY sync.pair.description      "പുതിയ ഡിവൈസ് സജീവമാക്കുന്നതിനായി, ഡിവൈസില്‍  &quot;Set Up Sync&quot; തെരഞ്ഞെടുക്കുക.">
-
+<!ENTITY sync.setup.close           "അടക്കുക">
 

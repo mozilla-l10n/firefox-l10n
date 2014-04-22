@@ -52,14 +52,14 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.bookmarks "അടയാളക്കുറിപ്പുകള്‍">
-
+<!ENTITY sync.configure.engines.title.passwords "രഹസ്യവാക്കുകള്‍">
 <!ENTITY sync.configure.engines.title.history "നാള്‍വഴി">
-
+<!ENTITY sync.configure.engines.title.tabs "ടാബുകള്‍">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "റദ്ദാക്കുക">
 
-
+<!ENTITY sync.button.ok.label "ശരി">
 <!-- Account strings -->
 <!-- Bookmark folder strings -->
 
@@ -70,11 +70,13 @@
 <!ENTITY bookmarks.folder.unfiled.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
 
 <!ENTITY bookmarks.folder.mobile.label "മൊബൈല്‍ അടയാളക്കുറിപ്പുകള്‍">
-
+<!ENTITY bookmarks.folder.readinglist.label "പട്ടിക വായിക്കുന്നു">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "അക്കൗണ്ട് നാമം അല്ലെങ്കില്‍ രഹസ്യവാക്ക് തെറ്റാണ്.">
 <!ENTITY sync.invalidserver.label "ശരിയായൊരു സര്‍വര്‍ യുആര്‍എല്‍ നല്‍കുക">
 <!ENTITY sync.verifying.label "ഉറപ്പാക്കുന്നു…">
 
@@ -92,9 +94,9 @@
 
 
 <!ENTITY fxaccount_email_hint "ഈമെയില്‍">
-
-
-
+<!ENTITY fxaccount_password_hint "രഹസ്യവാക്ക്">
+<!ENTITY fxaccount_password_hide "ഒളിപ്പിക്കുക">
+<!ENTITY fxaccount_password_show "പ്രദര്‍ശിപ്പിക്കുക">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
@@ -105,7 +107,7 @@
      the two uses differently. -->
 
 
-
+<!ENTITY fxaccount_getting_started_description "നിങ്ങളുടെ ടാബുകള്‍, അടയാളകുറിപ്പുകള്‍, രഹസ്യവാക്കുകള്‍ തുടങ്ങിയവ സിങ്ക് ചെയ്യാനായി പ്രവേശിക്കുക">
 
 
 <!-- Localization note: the Firefox below should not change with the
@@ -129,6 +131,7 @@
 
 
 
+<!ENTITY fxaccount_sign_in_forgot_password "രഹസ്യവാക്ക് മറന്നോ?">
 
 
 
@@ -145,8 +148,7 @@
 
 
 
-
-
+<!ENTITY fxaccount_status_passwords "രഹസ്യവാക്കുകള്‍">
 
 
 <!-- Localization note: when tapped, the following two strings link to
@@ -166,8 +168,8 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "തെറ്റായ ഇമെയില്‍ അല്ലെങ്കില്‍ രഹസ്യവാക്ക്">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "തെറ്റായ ഇമെയില്‍ അല്ലെങ്കില്‍ രഹസ്യവാക്ക്">
 
 
 
