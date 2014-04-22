@@ -124,12 +124,10 @@
 <!ENTITY event.toolbar.save.label "Salva ed esci">
 <!ENTITY event.toolbar.delete.label "Elimina">
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
-<!ENTITY event.toolbar.spellcheck.label "Correttore ortografico">
 <!ENTITY event.toolbar.privacy.label "Privacy">
 <!ENTITY event.toolbar.save.tooltip "Salva ed esci">
 <!ENTITY event.toolbar.delete.tooltip "Elimina">
 <!ENTITY event.toolbar.attendees.tooltip "Invita partecipanti">
-<!ENTITY event.toolbar.spellcheck.tooltip "Correttore ortografico">
 <!ENTITY event.toolbar.attachments.tooltip "Aggiungi allegati">
 <!ENTITY event.toolbar.privacy.tooltip "Cambia privacy">
 <!ENTITY event.toolbar.priority.tooltip "Cambia priorità">
