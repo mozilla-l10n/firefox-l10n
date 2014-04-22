@@ -1,15 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.mainbox.label "Impostazioni generali">
 <!ENTITY pref.dateformat.label "Formato testo data:">
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Lungo">
 <!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Durata predefinita evento:">
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Durata predefinita snooze:">
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
+<!ENTITY pref.defaults.label "Valori predefiniti per nuovi elementi">
+<!ENTITY pref.events.label "Eventi">
+<!ENTITY pref.tasks.label "Attività">
+<!ENTITY pref.default_event_length.label "Lunghezza predefinita:">
+<!ENTITY pref.default_event_length.accesskey "L">
+<!ENTITY pref.default_task_none.label "Nessuna">
+<!ENTITY pref.default_task_start_of_day.label "Inizio giornata">
+<!ENTITY pref.default_task_end_of_day.label "Fine giornata">
+<!ENTITY pref.default_task_tomorrow.label "Domani">
+<!ENTITY pref.default_task_next_week.label "Prossima settimana">
+<!ENTITY pref.default_task_offset_current.label "Relativa alla data corrente">
+<!ENTITY pref.default_task_offset_start.label "Relativa all'inizio">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativa alla prossima ora">
 <!ENTITY pref.accessibility.label "Accessibilità">
 <!ENTITY pref.systemcolors.label "Ottimizza i colori per l'accessibilità">
 <!ENTITY pref.systemcolors.accesskey "O">

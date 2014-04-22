@@ -7,9 +7,6 @@
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 <!ENTITY newevent.from.label "Da">
 <!ENTITY newevent.to.label "A">
-<!ENTITY newevent.attendees.notify.label "Notifica partecipanti">
-<!ENTITY newevent.attendees.notifyundisclosed.label "Mantieni partecipante come ignoto negli inviti">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip "Se abilitato, i partecipanti non si vedranno tra di loro negli inviti. Si applica solo agli inviti via e-mail.">
 <!ENTITY newevent.status.label "Stato">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Non specificato">
@@ -26,6 +23,9 @@
 <!ENTITY newevent.status.inprogress.label "In corso">
 <!ENTITY newevent.status.completed.label "Completata il">
 <!ENTITY newtodo.percentcomplete.label "&#037; completata">
+<!ENTITY event.attendees.notify.label "Notifica partecipanti">
+<!ENTITY event.attendees.notifyundisclosed.label "Separa inviti per partecipante">
+<!ENTITY event.attendees.notifyundisclosed.tooltip "Questa opzione invia una e-mail di invito per ogni partecipante. Ogni invito contiene solo il partecipante destinatario in modo che le identità degli altri partecipanti non siano rivelate.">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
 <!ENTITY event.dialog.new.message.key2 "N">
@@ -124,12 +124,10 @@
 <!ENTITY event.toolbar.save.label "Salva ed esci">
 <!ENTITY event.toolbar.delete.label "Elimina">
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
-<!ENTITY event.toolbar.spellcheck.label "Correttore ortografico">
 <!ENTITY event.toolbar.privacy.label "Privacy">
 <!ENTITY event.toolbar.save.tooltip "Salva ed esci">
 <!ENTITY event.toolbar.delete.tooltip "Elimina">
 <!ENTITY event.toolbar.attendees.tooltip "Invita partecipanti">
-<!ENTITY event.toolbar.spellcheck.tooltip "Correttore ortografico">
 <!ENTITY event.toolbar.attachments.tooltip "Aggiungi allegati">
 <!ENTITY event.toolbar.privacy.tooltip "Cambia privacy">
 <!ENTITY event.toolbar.priority.tooltip "Cambia priorità">
