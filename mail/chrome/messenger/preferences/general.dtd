@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Alaphelyzet">
 <!ENTITY useDefault.accesskey             "A">
 
-<!ENTITY bounceSystemDockIcon.label       "Dokkikon animálása">
-<!ENTITY bounceSystemDockIcon.accesskey   "D">
+<!ENTITY changeDockIconOptions.label      "Az appikon beállításainak módosítása">
+<!ENTITY dockOptions.label                "Appikon beállításai…">
+<!ENTITY dockOptions.accesskey            "A">
 
 <!ENTITY newMessagesArrive.label          "Új üzenet érkezésekor:">
 <!ENTITY playSound.label                  "Hangjelzés">

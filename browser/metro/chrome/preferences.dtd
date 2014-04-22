@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktív bejelentkezések">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Jelszavak megjegyzése">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Navigációs gombok megjelenítése">
 <!ENTITY doNotTrack.title                                        "Ne kövessenek">
 <!ENTITY doNotTrack.options.doNotTrack                           "Nem akarom, hogy a webhelyek kövessenek">
 <!ENTITY doNotTrack.options.doTrack                              "Azt akarom, hogy a webhelyek kövessenek">
