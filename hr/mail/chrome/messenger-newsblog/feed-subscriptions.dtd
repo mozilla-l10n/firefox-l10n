@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Izvezi kanale sa strukturom mapa; ctrl klik ili ctrl enter za izvoz kanala kao popis">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Zatvori">

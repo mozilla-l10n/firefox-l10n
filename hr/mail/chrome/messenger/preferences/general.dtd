@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Vrati zadano">
 <!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label       "Animiraj dock ikonu">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Promjeni postavke za aplikacijsku ikonu">
+<!ENTITY dockOptions.label                "Mogućnosti aplikacijske ikone…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Kada stigne nova poruka:">
 <!ENTITY playSound.label                  "Reproduciraj zvuk">
