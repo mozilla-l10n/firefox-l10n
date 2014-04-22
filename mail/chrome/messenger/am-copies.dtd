@@ -4,7 +4,7 @@
 <!-- extracted from am-copies.xul -->
 
 
-<!ENTITY copyAndFolderTitle.label "Թղթ.-ի &amp; պատճենում">
+<!ENTITY copyAndFolderTitle.label "ច្បាប់​ចម្លង  ថត">
 <!ENTITY sendingPrefix.label "Նամակը ուղարկելիս միանգամից՝">
 <!ENTITY fccMailFolder.label "Պահել կրկնօրինակը՝">
 <!ENTITY fccMailFolder.accesskey "P">

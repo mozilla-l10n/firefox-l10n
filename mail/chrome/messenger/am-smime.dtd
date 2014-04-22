@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Պահանջվում է (չի կարող ուղարկել նամակը, քանի դեռ բոլոր ստացողները չունեն հավաստագրեր)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Օգտ. այս հավաստագիրը՝ կոդավորելու համար &amp;-ը.">
+<!ENTITY encryptionCert.message "ប្រើ​វិញ្ញាបនបត្រ​នេះ​ដើម្បី​អ៊ិនគ្រីប  ឌិគ្រីប​សារ​ដែល​បាន​ផ្ញើ​ទៅ​ឲ្យ​អ្នក៖">
 <!ENTITY digitalSign.certificate.button "Ընտրել...">
 <!ENTITY digitalSign.certificate.accesskey "Ը">
 <!ENTITY digitalSign.certificate_clear.button "Մաքրել">

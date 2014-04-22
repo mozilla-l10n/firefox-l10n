@@ -9,8 +9,8 @@
 <!ENTITY chooseFileButton.accessKey "F">
 <!ENTITY chooseFileLinkButton.label "Choose File...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL is relative to page location">
-<!ENTITY makeUrlRelative.accessKey "R">
+<!ENTITY makeUrlRelative.label "URL គឺ​ទាក់ទង​នឹង​ទីតាំង​ទំព័រ">
+<!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Ընտրել հարաբերական և բացարձակ հղումների միջև։ Սա փոխելու համար նախ պետք է պահպանեք էջը։">
 <!-- Shared by Link and Image dialogs -->
 

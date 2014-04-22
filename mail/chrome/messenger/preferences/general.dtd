@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animate the dock icon">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​សម្រាប់​រូបតំណាង​កម្មវិធី">
+<!ENTITY dockOptions.label                "ជម្រើស​រូបតំណាង​កម្មវិធី…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">

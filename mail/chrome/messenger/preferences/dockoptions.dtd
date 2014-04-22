@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "ជម្រើស​រូបតំណាង​កម្មវិធី">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "35em">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "ចំនួន​នៃ​សារ​ថ្មី">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "ចំនួន​សារ​មិន​ទាន់​អាន">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "ចំនួន​សារ​ដែល​មិន​ទាន់​អាន">
+<!ENTITY dockIconShow.label                    "រូបតំណាង​កម្មវិធី Badge ៖">

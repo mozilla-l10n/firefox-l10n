@@ -6,13 +6,13 @@
 <!ENTITY requestReceipt.label          "When sending messages, always request a return receipt">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "When a receipt arrives:">
-<!ENTITY leaveIt.label                 "Leave it in my Inbox">
-<!ENTITY leaveIt.accesskey             "I">
-<!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
-<!ENTITY moveToSent.accesskey          "M">
+<!ENTITY leaveIt.label                 "រក្សាទុក​វា​នៅ​ក្នុង​ប្រអប់​ទទួល​របស់​ខ្ញុំ">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "ផ្លាស់ទី​វា​ទៅ​ថត &quot;ដែល​បាន​ផ្ញើ&quot; របស់​ខ្ញុំ">
+<!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "When I receive a request for a return receipt:">
-<!ENTITY never.label                   "Never send a return receipt">
-<!ENTITY never.accesskey               "N">
+<!ENTITY never.label                   "កុំ​ផ្ញើ​ត្រឡប់​ទៅ​អ្នក​ទទួល">
+<!ENTITY never.accesskey               "n">
 <!ENTITY returnSome.label              "Allow return receipts for some messages">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">

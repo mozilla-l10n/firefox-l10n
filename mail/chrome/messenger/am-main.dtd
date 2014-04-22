@@ -22,8 +22,8 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Օգտ. HTML (օր.՝ &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Կցել ստորագրություն ֆայլով (տեքստ, HTML կամ նկար).">
-<!ENTITY signatureFile.accesskey "T">
+<!ENTITY signatureFile.label "ភ្ជាប់​ហត្ថលេខា​ពី​ឯកសារ​ជំនួស (អត្ថបទ, HTML, ឬ​រូបភាព) ៖">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Խմբագրել...">
 <!ENTITY choose.label "Ընտրել…">
 <!ENTITY choose.accesskey "C">

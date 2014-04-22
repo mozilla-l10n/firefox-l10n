@@ -71,8 +71,8 @@
 <!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառվեց">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Հասցեն անհասկանալի էր">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի էր">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>អ្នក​អាច​ដំឡើង​កម្មវិធី​ផ្សេង ដើម្បី​បើក​អាសយដ្ឋាន​នេះ។</li> 
 </ul>">
 
