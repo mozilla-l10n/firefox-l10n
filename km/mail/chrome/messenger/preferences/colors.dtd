@@ -10,7 +10,7 @@
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "អត្ថបទ និង​ផ្ទៃខាងក្រោយ">
-<!ENTITY  textColor.label                 "Տեքստը.">
+<!ENTITY  textColor.label                 "អត្ថបទ៖">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "ផ្ទៃខាងក្រោយ៖">
 <!ENTITY  backgroundColor.accesskey       "b">

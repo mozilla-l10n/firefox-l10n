@@ -6,7 +6,7 @@
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Համապատասխան ցանկ. հետևյալին">
 <!ENTITY matchAny.accesskey "o">
-<!ENTITY matchAllMsgs.label     "Համապատասխան բոլոր նամակներին">
+<!ENTITY matchAllMsgs.label     "ផ្គូផ្គង​សារ​ទាំងអស់">
 <!ENTITY matchAllMsgs.accesskey "m">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.

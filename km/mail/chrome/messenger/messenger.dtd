@@ -10,7 +10,7 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Փակել էջը">
 <!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY closeOtherTabsCmd2.label "Փակել մնացած էջերը">
+<!ENTITY closeOtherTabsCmd2.label "បិទ​ផ្ទាំង​ផ្សេង">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY recentlyClosedTabsCmd.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
 <!ENTITY recentlyClosedTabsCmd.accesskey "R">
@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Թղթապանակ">
 <!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.label "Այս թղթապանակը">
-<!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
 <!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Մեկնարկային էջը">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "​ឯកសារ​ភ្ជាប់">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Խմբագրել որպես նորը">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "Խ">
+<!ENTITY editAsNewMsgCmd.label "កែសម្រួល​ជា​សារ​ថ្មី">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Ստեղծել ֆիլտր նամակից...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Նայել թեմատիկան">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "Ն">
-<!ENTITY fileHereMenu.label "Ֆայլը այստեղ">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Պատճենել այստեղ">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Պիտակ">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -445,8 +439,8 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "&amp; Նորություններ">
-<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY messengerCmd.label "វេទិកា​ព័ត៌មាន  សំបុត្រ">
+<!ENTITY messengerCmd.accesskey " ">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "Հ">
@@ -575,8 +569,10 @@
 
 <!ENTITY phishingOptionIgnore.label "មិន​អើពើ​ការ​ព្រមាន​សម្រាប់​សារ​នេះ">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "បិទ​ការ​រក​ឃើញ​ការ​បន្លំ​សម្រាប់​សារ​ទាំងអស់">
-<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionSettings.label "កែសម្រួល​ជា​សារ​ថ្មី">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "កែសម្រួល​ចំណូលចិត្ត​ការ​រក​ឃើញ​ការ​បន្លំ…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "សារ​ថ្មី">
@@ -672,26 +668,26 @@
 <!ENTITY attachmentColumn.label "ឯកសារ​ភ្ជាប់">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
-<!ENTITY threadColumn.tooltip "Click to display message threads">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY recipientColumn.tooltip "Click to sort by recipient">
-<!ENTITY subjectColumn.tooltip "Click to sort by subject">
-<!ENTITY dateColumn.tooltip "Click to sort by date">
-<!ENTITY priorityColumn.tooltip "Click to sort by priority">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Click to sort by account">
-<!ENTITY statusColumn.tooltip "Click to sort by status">
-<!ENTITY sizeColumn.tooltip "Click to sort by size">
-<!ENTITY junkStatusColumn.tooltip "Click to sort by junk status">
-<!ENTITY unreadColumn.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn.tooltip "Total number of messages in thread">
-<!ENTITY readColumn.tooltip "Click to sort by read">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
-<!ENTITY locationColumn.tooltip "Click to sort by location">
-<!ENTITY idColumn.tooltip "Click to sort by order received">
-<!ENTITY attachmentColumn.tooltip "Click to sort by attachments">
+<!ENTITY columnChooser2.tooltip "ជ្រើស​​ជួរឈរ​ដែល​ត្រូវ​បង្ហាញ">
+<!ENTITY threadColumn2.tooltip "បង្ហាញ​ប្រធាន​បទ​សារ">
+<!ENTITY fromColumn2.tooltip "តម្រៀប​​តាម​ពី">
+<!ENTITY recipientColumn2.tooltip "តម្រៀប​តាម​អ្នក​ទទួល">
+<!ENTITY subjectColumn2.tooltip "តម្រៀប​តាម​ប្រធានបទ">
+<!ENTITY dateColumn2.tooltip "តម្រៀប​តាម​កាលបរិច្ឆេទ​">
+<!ENTITY priorityColumn2.tooltip "តម្រៀប​តាម​អាទិភាព">
+<!ENTITY tagsColumn2.tooltip "តម្រៀប​តាម​ស្លាក">
+<!ENTITY accountColumn2.tooltip "តម្រៀប​តាម​គណនី">
+<!ENTITY statusColumn2.tooltip "តម្រៀប​តាម​ស្ថានភាព">
+<!ENTITY sizeColumn2.tooltip "តម្រៀប​តាម​ទំហំ​">
+<!ENTITY junkStatusColumn2.tooltip "តម្រៀប​តាម​​​ស្ថាន​ភាព​ឥត​បាន​ការ">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "តម្រៀប​តាម​អាន">
+<!ENTITY receivedColumn2.tooltip "តម្រៀប​តាម​កាលបរិច្ឆេទ​ដែល​បាន​ទទួល">
+<!ENTITY starredColumn2.tooltip "តម្រៀប​តាម​ផ្កាយ">
+<!ENTITY locationColumn2.tooltip "តម្រៀប​តាម​ទីតាំង">
+<!ENTITY idColumn2.tooltip "តម្រៀប​តាម​លំដាប់​​បាន​ទទួល">
+<!ENTITY attachmentColumn2.tooltip "តម្រៀប​តាម​ឯកសារ​ភ្ជាប់">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Նամակը բացլ նոր պատուհանում">
@@ -704,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Բացել նամակը երկխոսությունում">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Խմբագրել որպես նորը...">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "កែសម្រួល​ជា​សា​ថ្មី">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Արխիվ">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
@@ -834,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "Ավելացնել Հասցեագրքում">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Խմբագրել հասցեն...">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "កែសម្រួល​ទំនាក់ទំនង​">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Նայել հասցեն">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Բաժանորդագվել խմբին">
@@ -898,3 +894,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Show All">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "ជម្រើស​រូបតំណាង​កម្មវិធី…">

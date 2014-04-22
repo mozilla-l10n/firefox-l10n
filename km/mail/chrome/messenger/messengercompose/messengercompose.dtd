@@ -16,8 +16,8 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Address Book Contact…">
 <!ENTITY newContact.accesskey "C">
-<!ENTITY attachMenu.label "Attach">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.label "ភ្ជាប់">
+<!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachFileCmd.label "File(s)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
@@ -152,8 +152,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "P">
 <!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
-<!ENTITY bothFormatCmd.accesskey "L">
+<!ENTITY bothFormatCmd.label "ព័ត៌មាន​លម្អិត…">
+<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Priority">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Priority:">
@@ -174,8 +174,8 @@
 
 <!ENTITY tasksMenu.label "Tools">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.label "វេទិកា​ព័ត៌មាន  សំបុត្រ">
+<!ENTITY messengerCmd.accesskey " ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Address Book">
 <!ENTITY addressBookCmd.accesskey "A">
@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "Attach">
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Save">
+<!ENTITY printButton.label "បោះពុម្ព">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Send this message now">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Cut">
 <!ENTITY copyButton.tooltip             "Copy">
 <!ENTITY pasteButton.tooltip            "Paste">
+<!ENTITY printButton.tooltip "Print this message">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

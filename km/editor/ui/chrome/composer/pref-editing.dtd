@@ -8,7 +8,7 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "Հիմնական էջի տեսքը">
 
-<!ENTITY defaultColors.label        "Հիմնական գույները (Չնշել գույները էջում)">
+<!ENTITY defaultColors.label        "ពណ៌​លំនាំដើម​របស់​កម្មវិធី​អាន (កុំ​កំណត់​ពណ៌​ក្នុង​​ទំព័រ)">
 <!ENTITY defaultColors.accesskey    "d">
 <!ENTITY customColors.label         "Օգտագործել ընտրված գույներ.">
 <!ENTITY customColors.accesskey     "c">

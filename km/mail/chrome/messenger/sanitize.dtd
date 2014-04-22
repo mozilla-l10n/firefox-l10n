@@ -16,7 +16,7 @@
 <!ENTITY clearTimeDuration.everything     "អ្វីៗ​គ្រប់យ៉ាង">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "កុំ​ផ្ញើ​ត្រឡប់​ទៅ​អ្នក​ទទួល">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->

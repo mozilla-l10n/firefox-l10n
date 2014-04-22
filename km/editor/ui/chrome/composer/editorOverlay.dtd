@@ -11,7 +11,7 @@
 <!ENTITY pasteNoFormatting.label "Տեղադրել առանց փոփոխման">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Տեղադրել որպես">
+<!ENTITY pasteAs.label "បិទភ្ជាប់">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Տեղադրել որպես մեջբերում">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">

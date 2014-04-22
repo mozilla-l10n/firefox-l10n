@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "&amp; հասցեն">
+<!ENTITY addressing.label          "Composition  Addressing">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -13,8 +13,8 @@
 <!ENTITY editDirectories.label     "Խմբագրել թղթապանակները...">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Օգտ. տարբեր LDAP սպասարկիչներ.">
-<!ENTITY directories.accesskey     "D">
+<!ENTITY directories.label         "ប្រើ​ម៉ាស៊ីន​មេ LDAP ផ្សេង៖">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Ոչինչ">
 <!-- am-addressing.xul -->
 

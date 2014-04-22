@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "ផ្លាស់ទី​ចុះ​ក្រោម">
 <!ENTITY account.cancelReconnection.label         "បោះបង់​ការ​តភ្ជាប់">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.copyDebugLog.label     "ចម្លង​កំណត់​ហេតុ​បំបាត់​កំហុស">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "កំពុង​តភ្ជាប់…">
 <!ENTITY account.disconnecting        "កំពុង​ផ្ដាច់...">
 <!ENTITY account.disconnected         "មិន​បាន​តភ្ជាប់​​">

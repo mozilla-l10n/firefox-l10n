@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemDisplay.label       "អាន  ទិដ្ឋភាព">
 <!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
+<!ENTITY itemNetworking.label    "បណ្ដាញ  ទំហំ​ថាស">
 <!ENTITY itemCertificates.label  "Certificates">
 <!-- General Settings -->
 
@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Automatically check for updates to:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Installed Add-ons">
-<!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
-<!ENTITY modeAskMe.label                "Ask me what I want to do">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Automatically download and install the update">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "Show Update History">
-<!ENTITY showUpdates.accesskey          "S">
+<!ENTITY updateApp.label                 "&brandShortName; បច្ចុប្បន្នភាព៖">
+<!ENTITY updateAuto.label                "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ផ្ដល់​អនុសាសន៍ ៖ សុវត្ថិភាព​កាន់​តែ​ប្រសើរ)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "ពិនិត្យមើល​​បច្ចុប្បន្នភាព ប៉ុន្តែ​អនុញ្ញាត​ឲ្យ​ខ្ញុំ​ជ្រើស​ថា​តើ​ត្រូវ​ដំឡើង​ពួកវា​ដែរ​ឬ​ទេ">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "កុំ​​ពិនិត្យមើល​​បច្ចុប្បន្នភាព (មិន​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍ ៖ ហានិភ័យ​សុវត្ថិភាព)">
+<!ENTITY updateManual.accesskey          "ក">
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
 <!ENTITY useService.accesskey            "b">

@@ -35,7 +35,7 @@
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors1.label   "ពុម្ពអក្សរ &amp;​ ពណ៌">
+<!ENTITY fontsAndColors1.label   "អត្ថបទ៖">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
