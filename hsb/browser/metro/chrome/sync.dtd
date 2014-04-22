@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Flyout -->
+
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "Mějće přistup na swoje zapołožki, hesła a wočinjene rajtarki přez swoje graty">
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; konfigurować">
+<!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; konfigurować">
+<!ENTITY sync.flyout.setup.description1        "Jeli maće konto &syncBrand.shortName.label;, wubjerće &quot;Grat zwjazać&quot; na swojim druhim graće a zapodajće tutón kod.">
+<!ENTITY sync.flyout.setup.description2        "Jeli nimaće konto &syncBrand.shortName.label;, móžeće tajke w swojim desktopowym wobhladowaku &brandShortName; wutworić.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Njejsym při swojim ličaku…">
+<!ENTITY sync.flyout.setup.description3        "Kedźbu:">
+<!ENTITY sync.flyout.setup.description4_2      "Zo byšće &quot;Grat zwjazać&quot; namakał,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] wočińće &quot;Nastajenja&quot; a wubjerće potom &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] dalše &gt; nastajenja &gt; &syncBrand.shortName.label;">
+<!-- Flyout when setting up manually -->
+
+<!ENTITY sync.flyout.manualsetup.description1_2  "Prošu zapodajće swoje kontowe informacije &syncBrand.shortName.label; a wobnowjenski kluč, kotryž je waš ličak wutworił">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Kontowe mjeno">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Hesło">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Wobnowjenski kluč">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Zwjazać">
+<!-- Flyout when user has just connected -->
+
+<!ENTITY sync.flyout.setupsuccess.description1      "Sće runje &brandShortName; z kontom &syncBrand.shortName.label; zwjazał">
+<!ENTITY sync.flyout.setupsuccess.description2      "Waše daty &syncBrand.shortName.label; so nětko w pozadku sćahuja. Móžeće swoje synchronizowane rajtarki na startowej stronje &brandShortName; namakać">
+<!-- Flyout when setup failed -->
+
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; njemóžeše z wašim kontom &syncBrand.shortName.label; zwjazać.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Přetorhnyć">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Hišće raz spytać">
+<!-- Flyout when connected and functioning normally -->
+
+<!ENTITY sync.flyout.connected.account                    "Konto:">
+<!ENTITY sync.flyout.connected.device                     "Waš grat:">
+<!ENTITY sync.flyout.connected.disconnect                 "Zwisk dźělić">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Zwisk wašeho grata z &syncBrand.shortName.label; dźělić?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Wšě waše wosobinske daty na konće tutoho grata kaž tež &syncBrand.shortName.label; intaktne wostanu.">
+<!ENTITY sync.flyout.connected.cancel                     "Přetorhnyć">
+<!ENTITY sync.flyout.connected.pair                       "Grat zwjazać">
+<!-- Flyout when pairing a device -->
+
+<!ENTITY sync.flyout.pairNewDevice.description            "Na nowym graće, z kotrymž chceće zwjazać, wubjerće &quot;&syncBrand.shortName.label; konfigurować&quot; a zapodajće kod, kotryž grat twori">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Zwjazać">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Kedźbu:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Zo byšće kod namakał,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] wočińće &quot;Nastajenja&quot; a slědujće potom kroki: &syncBrand.shortName.label; -&gt; Konfigurować &syncBrand.shortName.label; -&gt; Mam konto">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Dalše &gt; nastajenja &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Prošu spytajće hišće raz">
+<!-- Flyout when a device has been successfully paired -->
+
+<!ENTITY sync.flyout.pairSuccess.description1             "Nowy grat je so wuspěšnje přidał.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Waše daty &syncBrand.shortName.label; so nětko w pozadku sćahuja. Móžeće swoje zdalene rajtarki na startowej stronje &brandShortName; namakać.">

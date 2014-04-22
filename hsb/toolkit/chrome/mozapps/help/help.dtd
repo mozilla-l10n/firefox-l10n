@@ -1,0 +1,57 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Wróćo">
+<!ENTITY backButton.accesskey           "r">
+<!ENTITY backButton.tooltip             "Wo jednu stronu wróćo">
+<!ENTITY forwardButton.label            "Doprědka">
+<!ENTITY forwardButton.accesskey        "D">
+<!ENTITY forwardButton.tooltip          "Wo jednu stronu doprědka">
+<!ENTITY copyCmd.label                  "Kopěrować">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Wšě wubrać">
+<!ENTITY selectAllCmd.accesskey         "W">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Startowa strona">
+<!ENTITY homeButton.tooltip             "Startowa strona pomocy">
+<!ENTITY printButton.label              "Ćišćeć">
+<!ENTITY printButton.tooltip            "Tutu stronu ćišćeć">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "Pytać">
+<!ENTITY searchHeader.label             "Pytanske wuslědki">
+<!ENTITY toctab.label                   "Wobsah">
+<!ENTITY toctab.accesskey               "h">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Přeco horjeka">
+<!ENTITY zLevel.accesskey               "o">
+
+<!ENTITY fullZoomReduceBtn.label        "Pomjeńšić">
+<!ENTITY fullZoomReduceBtn.accesskey    "m">
+<!ENTITY fullZoomEnlargeBtn.label       "Powjetšić">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "w">

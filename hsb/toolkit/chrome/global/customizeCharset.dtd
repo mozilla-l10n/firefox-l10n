@@ -1,0 +1,16 @@
+<!-- -*- Mode: HTML -*- -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title.label        "Kodowanje znamješkow přiměrić">
+<!ENTITY current.label      "Aktiwne kodowanja znamješkow:">
+<!ENTITY remove.label       "Wotstronić">
+<!ENTITY remove.accessKey   "W">
+<!ENTITY additional.label   "K dispozciji stejace kodowanja znamješkow:">
+<!ENTITY add.label          "Přidać">
+<!ENTITY add.accessKey      "P">
+<!ENTITY moveUp.label       "Horje">
+<!ENTITY moveUp.accessKey   "H">
+<!ENTITY moveDown.label     "Dele">
+<!ENTITY moveDown.accessKey "D">

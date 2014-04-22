@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Nastajenja">
+<!ENTITY optionsHeader.char.title                                "Kodowanje znamješkow">
+<!ENTITY optionsHeader.char.autodetect.label                     "Awtomatisce zwěsćić">
+<!ENTITY optionsHeader.char.options.label                        "Kodowanske nastajenja w lajsće nałoženjow pokazać">
+
+<!ENTITY clearPrivateData.title                                  "Priwatne daty zhašeć">
+<!ENTITY clearPrivateData.label                                  "Wašu historiju, waše hesła, placki a formularne daty na tutym graće zhašeć">
+<!ENTITY clearPrivateData.button                                 "Zhašeć">
+<!ENTITY clearPrivateData.done                                   "Hotowo!">
+<!ENTITY clearPrivateData.history                                "Přehladowanska historija">
+<!ENTITY clearPrivateData.otherdata                              "Druhe daty (hesła, pufrowak, placki atd.)">
+<!ENTITY clearPrivateData.downloadHist                           "Sćehnjenska historija">
+<!ENTITY clearPrivateData.cookies                                "Placki">
+<!ENTITY clearPrivateData.cache                                  "Pufrowak">
+<!ENTITY clearPrivateData.sitePref                               "Sydłowe nastajenja">
+<!ENTITY clearPrivateData.formSearchHist                         "Formularna a pytanska historija">
+<!ENTITY clearPrivateData.passwords                              "Składowane hesła">
+<!ENTITY clearPrivateData.offline                                "Daty websydła offline">
+<!ENTITY clearPrivateData.logins                                 "Aktiwne přizjewjenja">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Hesła sej spomjatkować">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Nawigaciske tłóčatka pokazać">
+<!ENTITY doNotTrack.title                                        "Njeslědować">
+<!ENTITY doNotTrack.options.doNotTrack                           "Websydłam zdźělić, zo nimaja mje slědować">
+<!ENTITY doNotTrack.options.doTrack                              "Websydłam zdźělić, zo smědźa mje slědować">
+<!ENTITY doNotTrack.options.default                              "Websydłam ničo wo slědowanskich nastajenjach zdźělić">
+<!ENTITY doNotTrack.learnMoreLink                                "Dalše informacije&#x2026;">
+
+<!ENTITY optionsHeader.reporting.title                           "Rozprawjak spadow">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; posrědkuje rozprawy spadow, zo by Mozilla pomhał, waš wobhladowak bóle stabilny a bóle wěsty činić">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Adresu strony zasadźić, na kotrejž sym był">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                            "Dźěli wužiwansku statistiku wo &brandShortName; z Mozilla, zo by nam pomhał, waš wobhladowak polěpšił">

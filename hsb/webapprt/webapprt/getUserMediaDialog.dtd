@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
+   - to ask permissions in the webapp runtime. -->
+
+
+<!ENTITY getUserMediaDialog.title                   "Dźělenje medijow">
+<!ENTITY getUserMediaDialog.button.accept.label     "Dźělić">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Přetorhnyć">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "t">
+
+<!ENTITY getUserMediaDialog.video.label             "Kameru wubrać">
+<!ENTITY getUserMediaDialog.video.noVideo           "Žane widejo">
+<!ENTITY getUserMediaDialog.audio.label             "Mikrofon wubrać">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Žane awdio">
