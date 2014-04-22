@@ -105,14 +105,7 @@
 <!ENTITY sync.text.tab.sent.label 'Zavihek je bil poslan!'>
 <!ENTITY sync.text.tab.not.sent.label 'Prišlo je do napake pri pošiljanju vašega zavihka.'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Grafika potrditve Firefox Računa'>
-<!ENTITY fxaccount_icon_contentDescription2 'Ikona Firefox Računa'>
-<!ENTITY fxaccount_intro_contentDescription2 'Grafika predstavitve Firefox Računa'>
-<!ENTITY fxaccount_mail_contentDescription2 'Grafika ovojnice Firefox Računa'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -127,7 +120,12 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Nazaj na brskanje'>
 
-<!ENTITY fxaccount_policy_linktos 'Pogoji uporabe'>
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos 'Pogoje uporabe'>
 <!ENTITY fxaccount_policy_linkprivacy 'Obvestilo o zasebnosti'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Pozdravljeni v &syncBrand.shortName.label;'>
@@ -138,11 +136,11 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Ustvari Firefox Račun'>
+<!ENTITY fxaccount_create_account_header2 'Ustvari Firefox Račun'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mora vsebovati vsaj 8 znakov'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Leto rojstva'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Z nadaljevanjem sprejemam dokumenta &formatS1; in &formatS2; spletnih storitev Firefox.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Z nadaljevanjem sprejemam &formatS1; in &formatS2; spletnih storitev Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Naprej'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Izberite, kaj želite sinhronizirati'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Že imate račun? Prijavite se'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Prijava'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Prijava ni uspela'>
 
-<!ENTITY fxaccount_status_header 'Firefox Račun'>
+<!ENTITY fxaccount_status_header2 'Firefox Račun'>
+<!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: omogočen'>
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
@@ -184,6 +183,12 @@
 <!ENTITY fxaccount_status_passwords 'Gesla'>
 <!ENTITY fxaccount_status_tabs 'Odprti zavihki'>
 <!ENTITY fxaccount_status_legal 'Pravni pouk' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Pogoji uporabe'>
+<!ENTITY fxaccount_status_linkprivacy 'Obvestilo o zasebnosti'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
