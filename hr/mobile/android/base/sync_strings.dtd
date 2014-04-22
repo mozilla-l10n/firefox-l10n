@@ -151,8 +151,8 @@
 
 
 
-
-
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: omogućeno">
 
 
 
@@ -173,6 +173,8 @@
      Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; mogućnosti">
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
