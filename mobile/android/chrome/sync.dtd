@@ -3,28 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "ಸಿಂಕ್">
-
-
-
+<!ENTITY sync.notconnected          "ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
+<!ENTITY sync.connect               "ಸಂಪರ್ಕಿಸು">
+<!ENTITY sync.connected             "ಸಂಪರ್ಕಗೊಂಡಿದೆ">
 <!ENTITY sync.details               "ವಿವರಗಳು">
 <!ENTITY sync.deviceName            "ಈ ಸಾಧನ">
-
+<!ENTITY sync.disconnect            "ಸಂಪರ್ಕ ಕಡಿದುಹಾಕು">
 <!ENTITY sync.syncNow               "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 
-
-
-
+<!ENTITY sync.setup.title           "ಸಿಂಕ್ ಗೆ ಸಂಪರ್ಕಿಸು">
+<!ENTITY sync.setup.pair            "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ &quot;ಒಂದು ಸಾಧನವನ್ನು ಪೇರ್ ಮಾಡು&quot; ಅನ್ನು ಆರಿಸಿ.">
+<!ENTITY sync.fallback              "ನಾನು ನನ್ನ ಗಣಕಯಂತ್ರದ ಬಳಿ ಇಲ್ಲ...">
+<!ENTITY sync.setup.manual          "ನಿಮ್ಮ ಸಿಂಕ್ ಖಾತೆ ವಿವರವನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.account               "ಖಾತೆಯ ಹೆಸರು">
-
-
-
+<!ENTITY sync.password              "ಗುಪ್ತಪದ">
+<!ENTITY sync.recoveryKey           "ರಿಕವರಿ ಕೀಲಿ">
+<!ENTITY sync.customServer          "ಇಚ್ಛೆಯ ಪೂರೈಕೆದಾರನನ್ನು ಬಳಸಿ">
 <!ENTITY sync.serverURL             "ಪರಿಚಾರಕದ URL">
-
+<!ENTITY sync.setup.connect         "ಸಂಪರ್ಕಿಸು">
 <!ENTITY sync.setup.cancel          "ರದ್ದು ಮಾಡು">
-
+<!ENTITY sync.setup.tutorial        "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
 <!ENTITY sync.setup.waiting2        "ಇತರೆ ಸಾಧನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ...">
 
 <!ENTITY sync.pair.title            "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
-
+<!ENTITY sync.pair.description      "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿರುವ &quot;ಸೆಟ್ ಅಪ್‌ಸಿಂಕ್&quot; ಅನ್ನು ಆರಿಸಿ.">
 <!ENTITY sync.setup.close           "ಮುಚ್ಚು">
-
+<!ENTITY sync.setup.waitingdownload "ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಕಲಿಳಿಸಲಾಗುತ್ತಿದೆ. ನೀವು ಈ ಪರದೆಯನ್ನು ಯಾವ ಸಮಯದಲ್ಲಾದರೂ ಮುಚ್ಚಬಹುದು.">

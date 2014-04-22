@@ -6,6 +6,7 @@
 <!ENTITY aboutDownloads.header                     "ನಿಮ್ಮ ಡೌನ್ಲೋಡುಗಳು">
 <!ENTITY aboutDownloads.empty                      "ಡೌನ್ಲೋಡುಗಳು ಇಲ್ಲ">
 
+<!ENTITY aboutDownloads.open                       "ತೆರೆ">
 <!ENTITY aboutDownloads.remove                     "ಅಳಿಸು">
 <!ENTITY aboutDownloads.removeAll                  "ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿ">
 <!ENTITY aboutDownloads.pause                      "ವಿರಾಮ">
