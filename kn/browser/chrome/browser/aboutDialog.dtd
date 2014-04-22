@@ -8,8 +8,8 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
+<!ENTITY update.updateButton.label                "ಪರಿಷ್ಕರಣೆಗಳಿಗಾಗಿ Restart ಮಾಡು">
+<!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
