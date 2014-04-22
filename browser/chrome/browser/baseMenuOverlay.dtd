@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दें…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; दौरा (o)">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "वरीयताएँ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

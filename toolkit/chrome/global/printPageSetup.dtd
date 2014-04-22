@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "पृष्ठ सेटअप">
 
+<!ENTITY basic.tab           "प्रारूप  विकल्प">
 
 <!ENTITY formatGroup.label   "प्रारूप">
 
@@ -24,8 +25,10 @@
 
 <!ENTITY optionsGroup.label  "विकल्प">
 
+<!ENTITY printBG.label       "छपाई पृष्ठभूमि रंग व छवि (B)">
+<!ENTITY printBG.accesskey   "B">
 
-
+<!ENTITY advanced.tab        "हाशिया व शीर्षिका/पादिका">
 
 <!ENTITY marginGroup.label   "हाशिया (#1)">
 <!ENTITY marginUnits.inches  "इंच">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "दाएँ:">
 <!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "शीर्षिका व पादिका">
 
 <!ENTITY hfLeft.label        "बायें:">
 <!ENTITY hfCenter.label      "मध्य:">

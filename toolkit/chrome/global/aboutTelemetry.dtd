@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "ब्राउज़र  लटकाव">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "लड़ी लटका">
 
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection " आयत छवि एड-ओन द्वारा एकत्रित ">
 
+<!ENTITY aboutTelemetry.toggle "विभाग टॉगल करने के लिए क्लिक करें">
 
 <!ENTITY aboutTelemetry.emptySection "कोई आंकड़ा एकत्रित  नही">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "दिखाएँ कच्चा आंकड़ा झूलने से">
 
+<!ENTITY aboutTelemetry.filterText "फ़िल्टर (स्ट्रिंग या /regexp/)">

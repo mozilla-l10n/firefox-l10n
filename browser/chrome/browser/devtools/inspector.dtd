@@ -18,3 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "HTML खोजें">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "नक़ल करें छवि डेटा-URL">
