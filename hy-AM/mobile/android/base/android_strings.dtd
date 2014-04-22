@@ -113,9 +113,9 @@
 <!ENTITY pref_header_devtools "Ծրագրավորողի գործիքներ">
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
-<!ENTITY pref_cookies_accept_all "Միացված">
-<!ENTITY pref_cookies_not_accept_foreign "Միացված է՝ բացառելով կողմնակի կայքերը">
-<!ENTITY pref_cookies_disabled "Անջատված">
+<!ENTITY pref_cookies_accept_all "Միացնել">
+<!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
+<!ENTITY pref_cookies_disabled "Անջատել">
 
 <!ENTITY pref_donottrack_menu "Հետագծում">
 <!ENTITY pref_donottrack_disallow_tracking "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն:">
@@ -123,13 +123,13 @@
 <!ENTITY pref_donottrack_no_pref "Կայքերին չհաղորդել հետևելու իմ կարգավորումների մասին">
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
-<!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
+<!ENTITY pref_char_encoding_on "Ցուցադրել ցանկը">
 <!ENTITY pref_char_encoding_off "Չցուցադրել ցանկը">
 <!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալները">
 <!ENTITY pref_plugins "Բաղադիրներ">
-<!ENTITY pref_plugins_enabled "Միացված">
-<!ENTITY pref_plugins_tap_to_play "Խաղարկել սեղմելիս">
-<!ENTITY pref_plugins_disabled "Անջատված">
+<!ENTITY pref_plugins_enabled "Միացնել">
+<!ENTITY pref_plugins_tap_to_play "Ակտիվացնել սեղմելիս">
+<!ENTITY pref_plugins_disabled "Անջատել">
 <!ENTITY pref_text_size "Տեքստի չափը">
 <!ENTITY pref_reflow_on_zoom4 "Տեքստի վերաձևաչափում">
 <!ENTITY pref_restore "Ներդիրներ">
@@ -193,7 +193,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName;-ի Վթարի Զեկույց">
+<!ENTITY datareporting_fhr_title "&brandShortName;-ի Վիճակի Զեկույց">
 <!ENTITY datareporting_fhr_summary2 "Տվյալներ է ուղարկում &vendorShortName;-ին՝ ձեր դիտարկիչի վիճակի մասին և որոշում է ձեր դիտարկիչի արագագործությունը:">
 <!ENTITY datareporting_abouthr_title "Դիտել Վիճակի զեկույցը">
 <!ENTITY datareporting_telemetry_title "Telemetry">
