@@ -74,6 +74,7 @@
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
+<!ENTITY pref_learn_more "Ďalšie informácie">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 <!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
 <!ENTITY pref_category_search_restore_defaults "Obnoviť vyhľadávacie moduly">
@@ -87,7 +88,6 @@
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
-<!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!ENTITY pref_category_home "Domov">
@@ -203,8 +203,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
-<!ENTITY datareporting_wifi_title "Služby zisťovania polohy &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Pomáha zlepšovať služby zisťovania polohy pre otvorený web tým, že umožňuje prehliadaču &brandShortName; zbierať a odosielať anonymné celulárne informácie.">
+<!ENTITY datareporting_wifi_title2 "Služba zisťovania polohy &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Ak je spustená, na pozadí prijíma údaje zo sietí Wi-Fi a buniek mobilných vysielačov a zdieľa ich so spoločnosťou &vendorShortName; s cieľom vylepšiť presnosť Služby zisťovania polohy.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
