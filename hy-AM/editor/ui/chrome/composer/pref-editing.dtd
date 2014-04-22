@@ -9,7 +9,7 @@
 <!ENTITY  pageColorHeader           "Հիմնական էջի տեսքը">
 
 <!ENTITY defaultColors.label        "Հիմնական գույները (Չնշել գույները էջում)">
-<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY defaultColors.accesskey    "ա">
 <!ENTITY customColors.label         "Օգտագործել ընտրված գույներ.">
 <!ENTITY customColors.accesskey     "c">
 

@@ -152,8 +152,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "p">
 <!ENTITY htmlFormatCmd.label "Միայն հարուստ (HTML) տեքստ">
 <!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Սովորական կամ Հարուստ (HTML) տեքստ">
-<!ENTITY bothFormatCmd.accesskey "L">
+<!ENTITY bothFormatCmd.label "Հասարակ կամ Հարստագիր (HTML) տեքստ">
+<!ENTITY bothFormatCmd.accesskey "ա">
 <!ENTITY priorityMenu.label "Առաջնահերթ-ը">
 <!ENTITY priorityMenu.accesskey "Ա">
 <!ENTITY priorityButton.label "Առաջն-ը.">
@@ -174,8 +174,8 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ &amp; Նորություններ">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.label "Փոստ  Նորություններ">
+<!ENTITY messengerCmd.accesskey "Փ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "a">
