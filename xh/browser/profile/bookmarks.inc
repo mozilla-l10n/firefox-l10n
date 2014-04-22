@@ -5,7 +5,7 @@
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
 
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 
 # live.
 
@@ -13,7 +13,7 @@
 #define bookmarks_title Iibhukhmakhi
 
 
-#define bookmarks_heading Izalathisi eziphawulayo
+#define bookmarks_heading Iibhukhmakhi
 
 
 #define bookmarks_toolbarfolder Ifolda yethulbha yeebhukhmakhi
@@ -74,6 +74,18 @@
 
 
 #define firefox_about Malunga Nathi
+
+
+# LOCALIZATION NOTE (firefox_feedback):
+
+
+# link title for browser feedback page
+
+
+# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
+
+
+#define firefox_feedback Nika ingxelo
 
 
 #unfilter emptyLines
