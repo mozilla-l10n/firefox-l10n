@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kişisel kart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "K">
-
-
+<!ENTITY remindLater.label "Daha sonra hatırlat">
+<!ENTITY remindLater.accesskey "s">
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "K">
@@ -152,8 +152,8 @@
 <!ENTITY plainTextFormatCmd.accesskey "c">
 <!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
-<!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
-<!ENTITY bothFormatCmd.accesskey "z">
+
+
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.label "Öncelik:">
@@ -174,8 +174,8 @@
 
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Posta ve haber grupları">
-<!ENTITY messengerCmd.accesskey "s">
+
+
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
