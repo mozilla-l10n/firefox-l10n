@@ -5,5 +5,5 @@
 <!ENTITY aboutAccounts.welcome "Bun venit la &syncBrand.shortName.label;">
 
 
-
+<!ENTITY aboutAccountsConfig.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">
 <!ENTITY aboutAccountsConfig.manage.label "Gestionează">

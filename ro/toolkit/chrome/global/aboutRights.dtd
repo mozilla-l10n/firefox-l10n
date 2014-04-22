@@ -42,7 +42,7 @@
 
 <!ENTITY rights.intro-point4a-unbranded "Dacă produsul acesta include servicii web, orice termeni aplicabili serviciilor ar trebui să fie accesibili în secțiunea ">
 <!ENTITY rights.intro-point4b-unbranded "„Servicii de informare asupra saiturilor”">
-<!ENTITY rights.intro-point4c-unbranded ".">
+<!ENTITY rights.intro-point4c-unbranded " secțiune.">
 
 <!ENTITY rights2.webservices-header "Servicii de informare bazate pe web folosite în &brandFullName;">
 <!-- Note that this paragraph references a couple of entities from
