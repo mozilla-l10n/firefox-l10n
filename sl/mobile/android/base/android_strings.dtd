@@ -66,13 +66,16 @@
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
-<!ENTITY pref_category_search2 "Iskanje po nastavitvah">
+<!ENTITY pref_category_search3 "Iskanje">
 <!ENTITY pref_category_display "Prikaži">
 <!ENTITY pref_category_privacy_short "Zasebnost">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
 <!ENTITY pref_category_installed_search_engines "Nameščeni iskalniki">
 <!ENTITY pref_category_add_search_providers "Dodaj več iskalnikov">
+<!ENTITY pref_category_search_restore_defaults "Obnovi iskalnike">
+<!ENTITY pref_search_restore_defaults "Obnovi privzeto">
+<!ENTITY pref_search_restore_defaults_summary "Obnovi privzeto">
 <!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.-->
@@ -81,6 +84,9 @@
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_developer_remotedebugging_docs "Več o tem">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
+
+<!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_panels "Plošče">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Po meri">
@@ -148,10 +154,15 @@ size. -->
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Pogosta vprašanja">
 <!ENTITY pref_vendor_feedback "Sporočite nam svoje mnenje">
-<!ENTITY pref_search_set_default "Privzet račun">
-<!ENTITY pref_search_default "Privzeto">
-<!ENTITY pref_search_remove "Odstrani">
+
+<!ENTITY pref_dialog_set_default "Nastavi kot privzeto">
+<!ENTITY pref_dialog_default "Privzeto">
+<!ENTITY pref_dialog_remove "Odstrani">
+
 <!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vašega zadnjega iskalnika.">
+
+<!ENTITY pref_panels_show "Prikaži">
+<!ENTITY pref_panels_hide "Skrij">
 
 <!ENTITY datareporting_notification_title "Statistika in podatki o &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
@@ -216,6 +227,13 @@ size. -->
 <!ENTITY find_next "Naprej">
 <!ENTITY find_close "Zapri">
 
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Posredovanje na napravo">
+<!ENTITY media_play "Predvajaj">
+<!ENTITY media_pause "Ustavi">
+<!ENTITY media_stop "Prekini">
+
 <!ENTITY contextmenu_open_new_tab "Odpri v novem zavihku">
 <!ENTITY contextmenu_open_private_tab "Odpri v zasebnem zavihku">
 <!ENTITY contextmenu_open_in_reader "Odpri v bralniku">
@@ -237,7 +255,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
 <!ENTITY pref_titlebar_mode_url "Prikaži naslov strani">
 
-<!ENTITY pref_dynamic_toolbar "Drseča naslovna vrstica">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Drseča naslovna vrstica">
 
 <!ENTITY history_removed "Stran odstranjena">
 
