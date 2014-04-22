@@ -86,3 +86,10 @@
 <!ENTITY firstRunTopSites.label "Acêdi a-i scîti ciù vixitæ">
 <!ENTITY firstRunWelcome.label "Benvegnûo in &brandShortName;">
 
+<!ENTITY firstRunBack.label "Tócca pe tornâ a-a pàgina prìmma">
+<!ENTITY firstRunNewTab.label "Azónzi 'n nêuvo féuggio pe védde 'n âtro scîto">
+<!ENTITY firstRunStar.label "Adêuvia i segnalìbbri pe sarvâ e pàgine ciù interesànti">
+<!ENTITY firstRunPin.label "Azónzi qualónque scîto a-a schermâ Start de Windows pe 'n acèsso ciù ràpido">
+<!ENTITY firstRunGotIt.label "Reçevûo!">
+<!ENTITY newPrivateTab.key "p">
+<!ENTITY newPrivateTab.label "Nêuvo féuggio anònimo">
