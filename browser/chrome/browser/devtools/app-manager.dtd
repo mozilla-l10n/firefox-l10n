@@ -8,36 +8,37 @@
 <!ENTITY index.help "مساعدة">
 
 <!ENTITY device.screenshot "لقطة شاشة">
-
+<!ENTITY device.screenshotTooltip "افتح لقطة شاشة للوضع الحالي للجهاز في لسان جديد">
 <!ENTITY device.title "مركز التحكم بالجهاز">
 <!ENTITY device.notConnected "غير متصل. أوصل جهازك بالأسفل رجاء.">
 <!ENTITY device.startApp "ابدأ">
-
+<!ENTITY device.startAppTooltip "ابدأ هذا التطبيق على الجهاز">
 <!ENTITY device.stopApp "أوقف">
-
+<!ENTITY device.stopAppTooltip "أوقف هذا التطبيق على الجهاز">
 <!ENTITY device.debugApp "نقّح">
-
+<!ENTITY device.debugAppTooltip "افتح أدوات المطور المتصلة بهذا التطبيق على الجهاز">
 <!ENTITY device.name "الاسم">
-
+<!ENTITY device.plain "بسيط (المبدئي)">
 <!ENTITY device.privileged "ذو امتيازات">
 <!ENTITY device.certified "مُعتمد">
 <!ENTITY device.allow "اسمح">
-
+<!ENTITY device.allowTooltip "الصلاحية ممنوحة للتطبيقات من هذا النوع">
 <!ENTITY device.prompt "اسأل">
-
+<!ENTITY device.promptTooltip "هذه الصلاحية تطلب سؤال المستخدم للتطبيقات من هذا النوع">
 <!ENTITY device.deny "ارفض">
-
-
-
+<!ENTITY device.denyTooltip "هذه الصلاحية ممنوعة للتطبيقات من هذا النوع">
+<!ENTITY device.installedApps "التطبيقات المثبتة">
+<!ENTITY device.installedAppsTooltip "اعرض قائمة بالتطبيقات المثبتة على هذا الجهاز. بعض التطبيقات، كالتطبيقات المعتمدة، قد تستثنى من هذه القائمة.">
 <!ENTITY device.permissions "التّصاريح">
 
 
+<!ENTITY device.browserTabs "ألسنة المتصفح">
 
+<!ENTITY device.debugBrowserTab "نقّح">
 
+<!ENTITY device.help "مساعدة">
 
-
-
-
+<!ENTITY connection.connectTooltip "اتصل بالجهاز">
 <!ENTITY connection.disconnect "اقطع الاتصال">
 
 <!ENTITY connection.notConnected2 "غير متصل.">
@@ -47,10 +48,10 @@
 
 
 
+<!ENTITY connection.saveConnectionInfo "احفظ">
 
 
-
-
+<!ENTITY connection.disconnecting "يقطع الاتصال…">
 <!ENTITY connection.cancel "ألغِ">
 
 
@@ -60,7 +61,7 @@
 
 <!ENTITY connection.installAnotherSimulator "أضف">
 
-
+<!ENTITY connection.startRegisteredSimulator "ابدأ:">
 
 <!ENTITY projects.addApp "أضف">
 
@@ -70,11 +71,11 @@
 
 
 
+<!ENTITY projects.updateApp "حدِّث">
 
+<!ENTITY projects.debugApp "نقّح">
 
-
-
-
+<!ENTITY projects.saveManifest "احفظ">
 
 
 
@@ -83,11 +84,12 @@
 
 
 <!ENTITY projects.valid "صالحة">
+<!ENTITY projects.error "عُطل">
+<!ENTITY projects.warning "تحذير">
 
 
 
-
-
+<!ENTITY help.title "مدير التطبيقات">
 <!ENTITY help.close "أغلق">
 
 

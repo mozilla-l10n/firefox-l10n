@@ -81,6 +81,8 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "أخرى">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -178,10 +180,16 @@
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "ترويسات الطلب:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "متن الطلب:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
+
+<!ENTITY netmonitorUI.custom.send         "أرسِل">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 

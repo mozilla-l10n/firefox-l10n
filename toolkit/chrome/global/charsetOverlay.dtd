@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "ر">
 <!ENTITY charsetMenuMore3.label        "شرق آسيوية">
 <!ENTITY charsetMenuMore3.accesskey    "ي">
-
-
+<!ENTITY charsetMenuMore4.label        "جنوب شرق و غرب آسيوية">
+<!ENTITY charsetMenuMore4.accesskey    "ب">
 <!ENTITY charsetMenuMore5.label        "شرق أوسطية">
 <!ENTITY charsetMenuMore5.accesskey    "ر">
 <!ENTITY charsetCustomize.label        "خصص القائمة…">
