@@ -34,5 +34,5 @@ sentence. -->
 <!ENTITY  systemSound.accesskey               "d">
 <!ENTITY  customsound.label                   "Použiť nasledovný zvukový súbor">
 <!ENTITY  customsound.accesskey               "a">
-<!ENTITY  browse.label                        "Prehliadať…">
+<!ENTITY  browse.label                        "Prehľadávať…">
 <!ENTITY  browse.accesskey                    "h">
