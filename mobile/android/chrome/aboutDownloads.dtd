@@ -7,7 +7,7 @@
 <!ENTITY aboutDownloads.open                       "খোলক">
 <!ENTITY aboutDownloads.remove                     "মচক">
 
-
+<!ENTITY aboutDownloads.pause                      "বিৰাম দিয়ক">
 <!ENTITY aboutDownloads.resume                     "আগবাঢ়ক">
 <!ENTITY aboutDownloads.cancel                     "বাতিল কৰক">
 <!ENTITY aboutDownloads.retry                      "পুনৰ চেষ্টা কৰক">
