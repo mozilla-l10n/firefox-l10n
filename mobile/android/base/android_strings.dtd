@@ -180,6 +180,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Zobraziť">
 <!ENTITY pref_panels_hide "Skryť">
+<!ENTITY pref_panels_reorder "Zmeniť poradie">
+<!ENTITY pref_panels_move_up "Posunúť nahor">
+<!ENTITY pref_panels_move_down "Posunúť nadol">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
