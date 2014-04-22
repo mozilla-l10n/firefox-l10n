@@ -129,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "यो पृष्ठ बाँड्नुहोस्">
 <!ENTITY sharePageCmd.commandkey "S">
-
+<!ENTITY sharePageCmd.accesskey "s">
 <!ENTITY shareLinkCmd.label "यो लिङ्क बाँड्नुहोस् s">
 <!ENTITY shareLinkCmd.accesskey "s">
-
-
+<!ENTITY shareImageCmd.label "यो तस्विर बाँड्नुहोस्">
+<!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "चयन गरिएकालाई बाँड्नुहोस्">
 <!ENTITY shareSelectCmd.accesskey "s">
-
-
+<!ENTITY shareVideoCmd.label "यो चलदृष्यलाई बाँड्नुहोस्">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenupopup.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्">
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabGroupsButton.label        "ट्याबका समूहहरु">
 
-<!ENTITY bookmarksButton.label          "पुस्तकचिनोहरू">
+<!ENTITY bookmarksButton.label          "पुस्तकचिनो">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिनोहरू">
@@ -325,6 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "हालसालै बन्द गरिएका सञ्झ्यालहरु">
 <!ENTITY historyRestoreLastSession.label "अघिल्लोसत्र पुनर्स्थापना गर्नुहोस्">
 
+<!ENTITY showAllHistoryCmd2.label "सबै इतिहासहरु देखाउनुहोस्">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "अनुकुलित बनाउनुहोस्">
