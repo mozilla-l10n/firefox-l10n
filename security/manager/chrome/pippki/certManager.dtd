@@ -5,10 +5,10 @@
 <!ENTITY certmgr.title                       "प्रमाणपत्र प्रबन्धक">
 
 <!ENTITY certmgr.tab.mine                     "तपाइँका प्रमाणपत्रहरु">
-
+<!ENTITY certmgr.tab.others2                  "मानिस">
 
 <!ENTITY certmgr.tab.ca                       "अधिकारीहरु">
-
+<!ENTITY certmgr.tab.orphan2                  "अन्य">
 
 <!ENTITY certmgr.ca.builtins                  "CAsमा बनेको">
 <!ENTITY certmgr.ca.mycas                     "तपाइँले प्रबन्ध गर्नुभएको CAहरु">
