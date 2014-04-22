@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "দূৰৱৰ্তী DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "প'ৰ্ট:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "যেনে: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "সকলো প্ৰটোকলৰ বাবে এই প্ৰক্সি চাৰ্ভাৰ ব্যৱহাৰ কৰক">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
-
+<!ENTITY  autologinproxy.label          "পাছৱৰ্ড সংৰক্ষিত থাকিলে প্ৰমাণীকৰণ নিবিচাৰিব">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "এই বিকল্পয় আপোনাক প্ৰক্সিসমূহৰ বাবে প্ৰমাণীত কৰে যদি আপোনাৰ সিহতৰ বাবে তথ্য সংৰক্ষিত আছে। আপোনাক কোৱা হব যদি প্ৰমাণীকৰণ ব্যৰ্থ হয়।">
