@@ -24,8 +24,6 @@
 <!ENTITY warn.insecurepost.accesskey "n">
 <!ENTITY warn.leavingsecure "Uscire da una pagina sicura">
 <!ENTITY warn.leavingsecure.accesskey "U">
-<!ENTITY warn.viewmixed "Visualizzare una pagina con parti sicure miste a parti non sicure">
-<!ENTITY warn.viewmixed.accesskey "z">
 <!ENTITY warn.mixedactivecontent "Avvisa quando le pagine cifrate contengono contenuto non sicuro">
 <!ENTITY warn.mixedactivecontent.accesskey "A">
 <!ENTITY block.activecontent "Non caricare contenuto non sicuro nelle pagine cifrate">
@@ -39,3 +37,4 @@
 <!ENTITY certselect.auto.accesskey "S">
 <!ENTITY certselect.ask "Chiedi ogni volta">
 <!ENTITY certselect.ask.accesskey "h">
+<!ENTITY mixed.description "Le pagine cifrate possono contenere contenuto non cifrato che è vulnerabile a intercettazioni e contraffazioni. &brandShortName; può individuarlo e bloccarlo:">
