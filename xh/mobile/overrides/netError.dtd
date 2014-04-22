@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Umdibaniso uphelelwe lixesha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Idilesi ayiqondwanga">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Idilesi ayiqondwanga">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Kunokudingeka ukuba ufakele enye isoftwe ukuze uvule le dilesi.</li> 
 </ul>">
 
