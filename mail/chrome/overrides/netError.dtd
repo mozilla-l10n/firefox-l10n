@@ -71,8 +71,8 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme čekanja">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adresa nije razumljena">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Adresa nije razumljena">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Možda trebate instalirati drugu aplikaciju za otvaranje ove adrese.</li> 
 </ul>">
 
