@@ -8,8 +8,6 @@
 <!ENTITY reminder.remove.accesskey "R">
 <!ENTITY reminder.reminderDetails.label "Dettagli promemoria">
 <!ENTITY reminder.action.label "Scegliere un'azione per il promemoria">
-<!ENTITY reminder.relation.before.label "prima">
-<!ENTITY reminder.relation.after.label "dopo">
 <!ENTITY reminder.action.alert.label "Mostra un avviso">
 <!ENTITY reminder.action.email.label "Invia una e-mail">
 <!ENTITY alarm.units.minutes "minuti">
