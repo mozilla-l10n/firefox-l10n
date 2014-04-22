@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "Թ">
 <!ENTITY closeTabCmd2.label "Փակել ներդիրը">
 <!ENTITY closeTabCmd2.accesskey "Փ">
-<!ENTITY closeOtherTabsCmd2.label "Փակել մնացած ներդիրները">
-<!ENTITY closeOtherTabsCmd2.accesskey "մ">
+<!ENTITY closeOtherTabsCmd2.label "Փակել մյուս ներդիրները">
+<!ENTITY closeOtherTabsCmd2.accesskey "կ">
 <!ENTITY recentlyClosedTabsCmd.label "Փակված վերջին ներդիրները">
 <!ENTITY recentlyClosedTabsCmd.accesskey "Փ">
 
@@ -439,8 +439,8 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "&amp; Նորություններ">
-<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY messengerCmd.label "Փոստ  Նորություններ">
+<!ENTITY messengerCmd.accesskey " ">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "Հ">
@@ -894,3 +894,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "Թ">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Ցուցադրել բոլորը">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Ծրագրի պատկերակի ընտրանքներ...">
