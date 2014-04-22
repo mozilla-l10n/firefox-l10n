@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktivne prijave">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapomni si gesla">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Prikaži gumbe za brskanje">
 <!ENTITY doNotTrack.title                                        "Sledenje">
 <!ENTITY doNotTrack.options.doNotTrack                           "Spletnim stranem sporoči, naj mi ne sledijo">
 <!ENTITY doNotTrack.options.doTrack                              "Spletnim stranem sporoči, naj mi sledijo">
