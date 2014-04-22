@@ -134,7 +134,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Metin akışı">
 <!ENTITY pref_restore "Sekmeler">
 <!ENTITY pref_restore_always "Her zaman geri yükle">
-<!ENTITY pref_restore_quit "Çıktıktan sonra geri yükleme &brandShortName;">
+<!ENTITY pref_restore_quit "&brandShortName; tarayıcısından çıktıktan sonra geri yükleme ">
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
