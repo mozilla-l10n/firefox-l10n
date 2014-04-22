@@ -76,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "Wavuti:">
 <!ENTITY  securityView.identity.verifier "Umedhibitishwa na:">
 
-<!ENTITY  securityView.privacy.header                   "Faragha &amp; Historia">
 <!ENTITY  securityView.privacy.history                  "Nimetembelea wavuti hii kabla ya leo?">
 <!ENTITY  securityView.privacy.cookies                  "Wavuti hii inahifadhi maelezo (vidakuzi) kwenye kompyuta yangu?">
 <!ENTITY  securityView.privacy.viewCookies              "Angalia Vidakuzi">

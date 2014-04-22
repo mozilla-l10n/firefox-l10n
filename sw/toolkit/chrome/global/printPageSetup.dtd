@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Usanidi wa Ukurasa">
 
-<!ENTITY basic.tab           "Chaguo za &amp; Umbizo">
 
 <!ENTITY formatGroup.label   "Umbizo">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Chaguo">
 
-<!ENTITY printBG.label       "Chapisha Mandharinyuma (rangi&amp; taswira)">
-<!ENTITY printBG.accesskey   "M">
 
-<!ENTITY advanced.tab        "Pambizo &amp; Kijajuu/Kijachini">
+
 
 <!ENTITY marginGroup.label   "Pambizo (#1)">
 <!ENTITY marginUnits.inches  "inchi">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Kulia:">
 <!ENTITY marginRight.accesskey "K">
 
-<!ENTITY headerFooter.label  "Vichea &amp; Vijachini">
 
 <!ENTITY hfLeft.label        "Kushoto:">
 <!ENTITY hfCenter.label      "Kati:">

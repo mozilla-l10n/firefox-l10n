@@ -72,8 +72,8 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 <!ENTITY netTimeout.title "Wakati wa muungano umekwisha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Anwani haikueleweka">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Anwani haikueleweka">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Huenda utahitaji kusakinsha programu nyingine ili kufungua anwani hii.</li> 
 </ul>">
 

@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "R">
 
 <!ENTITY  color                           "Matini na Mandharinyuma">
-<!ENTITY  textColor.label                 "Matini:">
-<!ENTITY  textColor.accesskey             "M">
+
+
 <!ENTITY  backgroundColor.label           "Mandharinyuma:">
 <!ENTITY  backgroundColor.accesskey       "M">
 <!ENTITY  useSystemColors.label           "Tumia mfumo wa rangi">

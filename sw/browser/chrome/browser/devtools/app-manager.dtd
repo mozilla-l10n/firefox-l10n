@@ -36,6 +36,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.notConnected2 "Haijaunganishwa.">
 <!ENTITY connection.connectTo "Imeunganishwa kwa:">
 
@@ -74,6 +78,8 @@
 
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
+
 
 
 

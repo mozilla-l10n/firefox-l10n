@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Wakati wa mtandao Umekwisha">
 <!ENTITY netTimeout.longDesc "<p>Tovuti iliyoombwa haikuitikia ombi la muungano na kivinjari kimesimama kikisubiri majibu.</p><ul><li>Huenda sava inakabililana na matakwa ya juu au ukosefu wa nguvu za umeme kwa muda?  Jaribu tena baadaye.</li><li>Unashindwa kuvinjari tovuti zingine? Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Tarakilishi au mtandao wako unalindwa na ngome au mbadala?  Mipangilio isiyo sahihi inaingilia uvinjari wako wa Wavuti.</li><li>Bado una shida? Wasiliana naye msimamizi wa mtandao au mtoaji mtandao kwa usaidizo.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Itifaki Isiyotambulika">
-<!ENTITY protocolNotFound.longDesc "<p>Anwani inaainisha itifaki (k.m.<q>wxyz://</q>) kivinjari hakitambui, kwa hivyo kivinjari hakiwezi kuungana vema kwenye tovuti.</p><ul><li>Unajaribu kupata ufikivu wa midia-anuwai au huduma zingine zisizo za matini? Kagua wavuti kwa mahitaji ya ziada.</li><li>Itifaki zingine zaweza kuhitaji programu za nafsi ya tatu au programu jalizi kabla ya kivinjari kuvitambua.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Itifaki Isiyotambulika">
+<!ENTITY unknownProtocolFound.longDesc "<p>Anwani inaainisha itifaki (k.m.<q>wxyz://</q>) kivinjari hakitambui, kwa hivyo kivinjari hakiwezi kuungana vema kwenye tovuti.</p><ul><li>Unajaribu kupata ufikivu wa midia-anuwai au huduma zingine zisizo za matini? Kagua wavuti kwa mahitaji ya ziada.</li><li>Itifaki zingine zaweza kuhitaji programu za nafsi ya tatu au programu jalizi kabla ya kivinjari kuvitambua.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Sava ya Mbadala Imekataa Muungano">
 <!ENTITY proxyConnectFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala umekataa muungano.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Huduma ya mbadala inaruhusu muungano kutoka kwa mtandao huu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
