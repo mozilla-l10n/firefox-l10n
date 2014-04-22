@@ -63,8 +63,8 @@
 <!ENTITY netTimeout.title "Байланысты күту уақыты аяқталды">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Адресті талдау қатесі">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Адресті талдау қатесі">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.</li> 
 </ul>">
 

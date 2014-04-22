@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "&brandFullName; туралы">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "Жаңартуларды тексеру">
+<!ENTITY update.checkForUpdatesButton.accesskey   "к">
+<!ENTITY update.updateButton.label                "Жаңарту үшін қайта іске қосу">
+<!ENTITY update.updateButton.accesskey            "й">
+<!ENTITY update.applyButtonBillboard.label        "Жаңартуды іске асыру…">
+<!ENTITY update.applyButtonBillboard.accesskey    "а">
 
 <!ENTITY community.start2           "&brandShortName; жасаған ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Жаңартуларды тексеру…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Кеңейтулер үйлесімділігін тексеру…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ескірмеді">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
