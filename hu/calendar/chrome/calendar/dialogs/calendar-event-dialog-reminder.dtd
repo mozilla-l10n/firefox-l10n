@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Emlékeztető részletei">
 <!ENTITY reminder.action.label                             "Emlékeztetőművelet választása">
 
-<!ENTITY reminder.relation.before.label                    "előtt" >
-<!ENTITY reminder.relation.after.label                     "után" >
-
 <!ENTITY reminder.action.alert.label                       "Figyelmeztető ablak">
 <!ENTITY reminder.action.email.label                       "E-mail küldése">
 

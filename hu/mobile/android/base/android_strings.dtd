@@ -54,6 +54,7 @@
 <!ENTITY back "Vissza">
 <!ENTITY stop "Leállítás">
 <!ENTITY site_security "Webhely biztonsága">
+<!ENTITY save "Mentés">
 
 <!ENTITY close_tab "Lap bezárása">
 <!ENTITY one_tab "1 lap">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
 <!ENTITY pref_category_search3 "Keresés">
+<!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
 <!ENTITY pref_category_display "Megjelenítés">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "Keresők visszaállítása">
 <!ENTITY pref_search_restore_defaults "Alaphelyzet">
 <!ENTITY pref_search_restore_defaults_summary "Alaphelyzet">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_developer_remotedebugging_docs "További információ">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
 
 <!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
+<!ENTITY pref_home_add_panel "Panel hozzáadása">
+<!ENTITY home_add_panel_title "Új panel hozzáadása">
+<!ENTITY home_add_panel_empty "Elnézést, nem találhatók hozzáadható panelek.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "&formatS; a kezdőlaphoz adva">
+<!ENTITY pref_category_home_content_settings "Tartalombeállítások">
+<!ENTITY pref_home_updates "Automatikus frissítések">
+<!ENTITY pref_home_updates_enabled "Engedélyezve">
+<!ENTITY pref_home_updates_wifi "Csak Wi-Fi használatakor">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Testreszabás">
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Mentés PDF-ként">
 <!ENTITY find_in_page "Keresés az oldalon">
 <!ENTITY desktop_mode "Asztali oldal kérése">
+<!ENTITY page "Oldal">
 <!ENTITY tools "Eszközök">
 <!ENTITY new_tab "Új lap">
 <!ENTITY new_private_tab "Új privát lap">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
 
+<!ENTITY reading_list_add "Olvasási listához adás">
 <!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "TIPP: az olvasási listájára elmenthet cikkeket a &#37;I ikon hosszú megnyomásával amikor az megjelenik a címsorban.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIPP: az olvasási listájára elmenthet cikkeket a &formatI; ikon hosszú megnyomásával amikor az megjelenik a címsorban.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPP: az olvasási listájára elmenthet cikkeket az olvasó mód gomb hosszú megnyomásával amikor az megjelenik a címsorban.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Nem található tartalom ehhez a panelhez.">
 
 <!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
@@ -360,9 +382,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                       Androidról">
 <!ENTITY bookmarkhistory_import_wait "Kis türelmet…">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Szeretné bekapcsolni a &formatS; keresési javaslatait?">
+<!ENTITY suggestions_prompt3 "Szeretné bekapcsolni a keresési javaslatokat?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
