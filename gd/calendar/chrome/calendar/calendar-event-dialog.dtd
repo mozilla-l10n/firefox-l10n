@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Gu" >
 <!ENTITY newevent.attendees.notify.label    "Cuir fios dha na freastalaichean">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Na seall na freastalaichean ann an cuiridhean">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Ma chuireas tu seo an comas, chan fhaic na freastalaichean a chèile ann an cuiridhean. Cha bhi buaidh aige seo ach ann an cuiridhean puist-d.">
+
 <!ENTITY newevent.status.label                    "Staid" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Gun sònrachadh" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "o">
 <!ENTITY  event.menu.options.attendees.label                  "Thoir cuireadh do dhaoine…">
 <!ENTITY  event.menu.options.attendees.accesskey              "i">
-<!ENTITY  event.menu.options.spellcheck.label                 "Ceartaich an litreachadh…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Ceartaich an litreachadh fhad 's a tha thu a' sgrìobhadh">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
-<!ENTITY  event.menu.options.link.label                       "Cuir ceangal ris…">
-<!ENTITY  event.menu.options.link.accesskey                   "l">
 <!ENTITY  event.menu.options.timezone2.label                  "Seall an roinn-tìde">
 <!ENTITY  event.menu.options.timezone2.accesskey              "a">
 <!ENTITY  event.menu.options.priority2.label                  "Prìomhachas">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
-<!ENTITY  event.toolbar.spellcheck.label                  "Dearbhaich an litreachadh">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.tooltip                    "Sguab às">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Thoir cuireadh do dhaoine">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Dearbhaich an litreachadh">
 <!ENTITY  event.toolbar.attachments.tooltip               "Cuir ceanglachan ris">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Atharraich a' phrìobhaideachd">
 <!ENTITY  event.toolbar.priority.tooltip                  "Atharraich am prìomhachas">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Roinn-seòrsa:">
 <!ENTITY event.categories.accesskey                       "R">
 <!ENTITY event.categories.textbox.label                   "Cuir roinn-seòrsa ùr ris" >
-<!ENTITY event.categories.textbox.accesskey               "u">
 <!ENTITY event.calendar.label                             "Mìosachan:" >
 <!ENTITY event.calendar.accesskey                         "c">
 <!ENTITY event.attendees.label                            "Freastalaichean:" >
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "Cuimhnich:">
 <!ENTITY read.only.attendees.label       "Freastalaichean">
 <!ENTITY read.only.description.label     "Tuairisgeul">
-<!ENTITY read.only.documents.label       "Sgrìobhainnean">
 <!ENTITY read.only.link.label            "Ceangal co-cheangailte">

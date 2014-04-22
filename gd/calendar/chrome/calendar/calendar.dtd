@@ -25,34 +25,37 @@
 <!ENTITY calendar.events.filter.next14Days.label "Tachartasan sa chola-deug seo tighinn">
 <!ENTITY calendar.events.filter.next31Days.label "Tachartasan san 31 latha seo tighinn">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Tachartasan sa mhìos mhìosachain seo">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 
-<!ENTITY calendar.unifinder.tree.done.label              "Dèanta">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Briog air gus a sheòrsachadh a-rèir na feadhainn dèanta">
-<!ENTITY calendar.unifinder.tree.priority.label          "Prìomhachas">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Briog air gus a sheòrsachadh a-rèir prìomhachais">
-<!ENTITY calendar.unifinder.tree.title.label             "Tiotal">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Briog air gus a sheòrsachadh a-rèir tiotail">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#037; deiseil">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Briog air gus a sheòrsachadh a-rèir a' &#037; a tha deiseil">
-<!ENTITY calendar.unifinder.tree.startdate.label         "A' tòiseachadh">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Briog air gus a sheòrsachadh a-rèir latha-tòiseachaidh">
-<!ENTITY calendar.unifinder.tree.enddate.label           "A' crìochnachadh">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Briog air gus a sheòrsachadh a-rèir latha-crìochnachaidh">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Ceann-ama">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Briog air gus a sheòrsachadh a-rèir nan ceann-ama">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Deiseil">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Briog air gus a sheòrsachadh a-rèir na feadhainn a tha deiseil">
-<!ENTITY calendar.unifinder.tree.categories.label        "Roinn-seòrsa">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Briog air gus a sheòrsachadh a-rèir na roinn-seòrsa">
-<!ENTITY calendar.unifinder.tree.location.label          "Àite">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Briog air gus a sheòrsachadh a-rèir àite">
-<!ENTITY calendar.unifinder.tree.status.label            "Staid">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Briog air gus a sheòrsachadh a-rèir staid">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Ainm a' mhìosachain">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Briog air gus a sheòrsachadh a-rèir ainm a' mhìosachain">
-<!ENTITY calendar.unifinder.tree.duration.label          "Feum air ann an">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Briog air gus a sheòrsachadh a-rèir an latha a bhios feum air">
-<!ENTITY calendar.unifinder.close.tooltip                "Dùin lorg is liosta nan tachartasan">
+<!ENTITY calendar.unifinder.tree.done.label                "Dèanta">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Seòrsaich a-rèir coileanaidh">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prìomhachas">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Seòrsaich a-rèir prìomhachais">
+<!ENTITY calendar.unifinder.tree.title.label               "Tiotal">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Seòrsaich a-rèir tiotail">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; deiseil">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Seòrsaich a-rèir ceudad coileanaidh">
+<!ENTITY calendar.unifinder.tree.startdate.label           "A' tòiseachadh">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Seòrsaich a-rèir latha tòiseachaidh">
+<!ENTITY calendar.unifinder.tree.enddate.label             "A' crìochnachadh">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Seòrsaich a-rèir latha crìochnachaidh">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Ceann-ama">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Seòrsaich a-rèir latha libhrigidh">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Deiseil">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Seòrsaich a-rèir latha coileanaidh">
+<!ENTITY calendar.unifinder.tree.categories.label          "Roinn-seòrsa">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Seòrsaich a-rèir roinn-seòrsa">
+<!ENTITY calendar.unifinder.tree.location.label            "Àite">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Seòrsaich a-rèir ionaid">
+<!ENTITY calendar.unifinder.tree.status.label              "Staid">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Seòrsaich a-rèir staid">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Ainm a' mhìosachain">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Seòrsaich a-rèir ainm a' mhìosachain">
+<!ENTITY calendar.unifinder.tree.duration.label            "Feum air ann an">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Seòrsaich a-rèir ùine gu libhrigeadh">
+<!ENTITY calendar.unifinder.close.tooltip                  "Dùin lorg is liosta nan tachartasan">
 
 <!ENTITY calendar.today.button.tooltip          "Rach gun latha an-diugh" >
 <!ENTITY calendar.todaypane.button.tooltip      "Seall leòsan an latha" >
@@ -85,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Tachartas ùr" >
 <!ENTITY calendar.newtask.button.label          "Saothair ùr" >
 <!ENTITY calendar.print.button.label            "Clò-bhuail" >
-
-<!ENTITY calendar.export.calendar                "Às-phortaich mìosachan…" >
+<!ENTITY calendar.print.button.accesskey        "C">
 
 <!ENTITY calendar.day.button.label              "Latha" >
 <!ENTITY calendar.week.button.label             "Seachdain" >
@@ -129,8 +131,6 @@
 
 <!ENTITY calendar.task.filter.current.label         "Saothraichean làithreach">
 <!ENTITY calendar.task.filter.current.accesskey     "S">
-<!ENTITY calendar.task.filter.repeating.label       "Saothraichean a thachras iomadh turas">
-<!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label           "tiotail">
 <!ENTITY calendar.task-details.organizer.label       "o">
@@ -152,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Criathraich na saothraichean… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-<!-- Statusbar -->
-
-<!ENTITY statusText.label            "Sgrìobhainn: Deiseil">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Fosgail">
@@ -230,7 +227,6 @@
      task action buttons -->
 
 <!ENTITY calendar.taskview.delete.label     "Sguab às">
-<!ENTITY calendar.taskview.delete.accesskey "S">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Mìosachan ùr…">
@@ -335,7 +331,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Na tachartasan/saothraichean a thagh thu">
 <!ENTITY calendar.print.tasks.label "Saothraichean">
 <!ENTITY calendar.print.events.label "Tachartasan">
-<!ENTITY calendar.print.selected.label "Na tachartasan a thagh thu">
 <!ENTITY calendar.print.custom.label "Raon làithean sònraichte:">
 <!ENTITY calendar.print.from.label "O:">
 <!ENTITY calendar.print.to.label "Gu:">
