@@ -401,7 +401,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Zum Aktualisieren nach dem Herunterladen antippen">
 <!ENTITY updater_downloading_retry2 "Zum erneuten Herunterladen antippen">
 
-<!ENTITY updater_apply_title2 "Update für &brandShortName; verfübar">
+<!ENTITY updater_apply_title2 "Update für &brandShortName; verfügbar">
 <!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
 
 <!-- Guest mode -->
