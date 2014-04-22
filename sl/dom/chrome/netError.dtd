@@ -50,8 +50,8 @@
 <!ENTITY netTimeout.title "Dovoljeni čas pretekel">
 <!ENTITY netTimeout.longDesc "<p>Zahtevana stran ni odgovorila na zahtevo po povezavi, brskalnik pa je prenehal čakati na odgovor.</p><ul><li>Če mislite, da bi strežnik lahko bil zelo obremenjen ali trenutno nedostopen, poskusite znova nekoliko kasneje.</li><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če uporabljate posrednika ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Protokol ni znan">
-<!ENTITY protocolNotFound.longDesc "<p>Naslov se začenja s protokolom, ki ga brskalnik ne pozna, zato se s stranjo ne more pravilno povezati.</p><ul><li>Ali posegate po večpredstavnostni ali drugi nebesedilni storitvi? Preverite stran za morebitne dodatne programske zahteve.</li><li>Nekateri protokoli zahtevajo programsko opremo drugih izdelovalcev ali dodatke, preden jih lahko brskalnik uporablja.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Neznan protokol">
+<!ENTITY unknownProtocolFound.longDesc "<p>Naslov navaja protokol (npr. <q>wxyz://</q>), ki ga brskalnik ne pozna, zato se ne more pravilno povezati s stranjo.</p><ul><li>Želite uporabiti večpredstavnost ali drugo nebesedilno storitev? Preverite morebitne dodatne programske zahteve strani.</li><li>Nekateri protokoli zahtevajo programsko opremo drugih izdelovalcev ali dodatke, preden jih lahko brskalnik uporablja.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Posrednik zavrnil povezavo">
 <!ENTITY proxyConnectFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki pa odklanja povezavo.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Ali ta posrednik dovoli povezave s te mreže?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
