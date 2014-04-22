@@ -8,7 +8,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "वाचनखुण">
+<!ENTITY  bookmarks_title "वाचनखुणा">
 <!ENTITY  history_title "इतिहास">
 <!ENTITY  reading_list_title "वाचन यादी">
 
@@ -76,8 +76,8 @@
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
 <!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
 <!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
-
-
+<!ENTITY pref_search_restore_defaults "पूर्वनिर्धारित सेटींग्स् पूर्वस्थित करा">
+<!ENTITY pref_search_restore_defaults_summary "पूर्वनिर्धारित सेटींग्स् पूर्वस्थित करा">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -127,7 +127,7 @@
 <!ENTITY pref_clear_private_data "खाजगी माहिती मोकळी करा">
 <!ENTITY pref_plugins "प्लगइन्स">
 <!ENTITY pref_plugins_enabled "सक्रीय">
-
+<!ENTITY pref_plugins_tap_to_play "चालवण्यासाठी टिचकी मारा">
 <!ENTITY pref_plugins_disabled "निष्क्रिय">
 <!ENTITY pref_text_size "मजकूर आकार">
 <!ENTITY pref_reflow_on_zoom4 "मजकूर पुनःप्रवाह">
@@ -165,21 +165,23 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
-
+<!ENTITY pref_vendor_faqs "नेहमीचे प्रश्न">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया द्या">
 
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारित असे निश्चित करा">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारीत">
 <!ENTITY pref_dialog_remove "काढा">
 
+<!ENTITY pref_search_last_toast "आपण आपलं शेवटचं शोध इंजिन काढू किंवा निष्क्रिय करु शकत नाही.">
 
 <!ENTITY pref_panels_show "दाखवा">
 <!ENTITY pref_panels_hide "लपवा">
 
-
-
-
-<!ENTITY datareporting_notification_summary_short "तुमचा अनुभव सुधारण्यासाठी, &brandShortName;...">
+<!ENTITY datareporting_notification_title "&brandShortName; माहिती आणि आकडेवारी">
+<!ENTITY datareporting_notification_action_long "कोणती माहिती शेअर करावी ते निवडा">
+<!ENTITY datareporting_notification_action "काय शेअर करायचे ते निवडा">
+<!ENTITY datareporting_notification_summary "आपला वापर अनुभव सुधारण्यासाठी, &brandShortName; काही माहिती आपोआप &vendorShortName; ला पाठवतं.">
+<!ENTITY datareporting_notification_summary_short "आपला अनुभव सुधारण्यासाठी, &brandShortName;...">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -191,12 +193,13 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य अहवाल">
 <!ENTITY datareporting_fhr_summary2 "तुमच्या ब्राउझरच्या स्वास्थ्याबद्दल &vendorShortName; सोबत माहिती शेअर करतो आणि तुम्हाला तुमच्या ब्राउझरची कामगिरी समझण्यासाठी मदत करतो">
 <!ENTITY datareporting_abouthr_title "माझा आरोग्य अहवाल बघा">
-
+<!ENTITY datareporting_telemetry_title "दूरमापन">
 <!ENTITY datareporting_telemetry_summary "तुमच्या ब्राउझरची कामगिरी, प्रयोग, हार्डवेअर आणि स्वपसंती माहिती &vendorShortName; सोबत शेअर करुन &brandShortName; अधिक चांगल बनवण्यासाठी आम्हाला मदत करतो">
 <!ENTITY datareporting_crashreporter_summary "&vendorShortName;ला तुमचे ब्राउझर अधिक स्थिर व सुरक्षित बनवण्यास मदतीसाठी &brandShortName; क्रॅश अहवाल दाखल करतो">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
+<!ENTITY datareporting_wifi_title "&vendorShortName; स्थळ सेवा">
 <!ENTITY datareporting_wifi_summary "ओपन वेबसाठी जिओलोकेशन सेवा सुधारण्यासाठी &brandShortName;ला निनावी सेल्युलर टॉवर माहिती एकत्र करुन आणि पाठवणे">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -207,13 +210,15 @@ size. -->
 <!ENTITY pref_update_autodownload_never "कधीच नाही">
 <!ENTITY pref_update_autodownload_always "नेहमी">
 
+<!ENTITY quit "बाहेर पडा">
 
 <!ENTITY addons "ॲड-ऑन्स">
 <!ENTITY downloads "डाउनलोड्स">
 <!ENTITY apps "ॲप्स">
+<!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
 
-
-
+<!ENTITY share "शेअर">
+<!ENTITY share_title "याद्वारे शेअर करा">
 <!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
 <!ENTITY save_as_pdf "PDF म्हणून साठवा">
 <!ENTITY find_in_page "पानात शोधा">
@@ -223,22 +228,25 @@ size. -->
 <!ENTITY new_tab "नवीन टॅब">
 <!ENTITY new_private_tab "नवीन खाजगी टॅब">
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
-
+<!ENTITY tabs_normal "टॅब्स">
 <!ENTITY tabs_private "खाजगी">
 
 
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "पृष्ठात शोधा">
 <!ENTITY find_prev "मागील">
 <!ENTITY find_next "पुढील">
 <!ENTITY find_close "बंद करा">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "चालू करा">
+<!ENTITY media_pause "थोडा वेळ थांबवा">
+<!ENTITY media_stop "थांबवा">
 
-
-
+<!ENTITY contextmenu_open_new_tab "नवीन टॅब मध्ये उघडा">
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
 
 <!ENTITY contextmenu_remove "काढा">
@@ -251,8 +259,8 @@ size. -->
 <!ENTITY contextmenu_subscribe "पानास सबस्क्राइब करा">
 <!ENTITY contextmenu_site_settings "साइट सेटिंगचे संपादन करा">
 <!ENTITY contextmenu_top_sites_edit "संपादन करा">
-
-
+<!ENTITY contextmenu_top_sites_pin "साइट पिन करा">
+<!ENTITY contextmenu_top_sites_unpin "साइट अनपिन करा">
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
@@ -267,7 +275,7 @@ size. -->
 
 <!ENTITY bookmark_edit_title "वाचनखुणेचे संपादन करा">
 <!ENTITY bookmark_edit_name "नाव">
-
+<!ENTITY bookmark_edit_location "स्थळ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -297,7 +305,7 @@ size. -->
 <!ENTITY button_yes "होय">
 <!ENTITY button_no "नाही">
 <!ENTITY button_clear_data "माहिती पुसा">
-
+<!ENTITY button_set "निश्चित करा">
 <!ENTITY button_clear "पुसा">
 
 <!ENTITY home_top_sites_title "खास साईट्स">
@@ -328,7 +336,7 @@ size. -->
 
 <!ENTITY filepicker_title "फाईल निवडा">
 <!ENTITY filepicker_audio_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
-
+<!ENTITY filepicker_image_title "फोटो काढा किंवा निवडा">
 
 <!-- Site identity popup -->
 
@@ -378,6 +386,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
 
+<!ENTITY devtools_remote_debugging_forward "पोर्ट फॉरवर्डींग सेट करण्यास विसरू नका!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">

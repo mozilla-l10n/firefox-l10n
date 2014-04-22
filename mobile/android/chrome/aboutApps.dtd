@@ -5,6 +5,7 @@
 <!ENTITY aboutApps.title2                          "अॅप्स्">
 <!ENTITY aboutApps.header                          "आपले अॅप्स्">
 
+<!ENTITY aboutApps.browseMarketplace "Firefox मार्केटप्लेस पहा">
 <!ENTITY aboutApps.uninstall "विस्थापित करा">
 <!ENTITY aboutApps.addToHomescreen "मुख्य पटलावर जोडा">
 <!ENTITY aboutApps.checkForUpdates "सुधारणांकरीता तपासणी करा">

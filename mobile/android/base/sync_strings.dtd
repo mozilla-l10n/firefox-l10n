@@ -125,24 +125,29 @@
 
 
 
-
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-
+<!ENTITY fxaccount_create_account_header2 "नवीन Firefox खातं बनवा">
+<!ENTITY fxaccount_create_account_password_length_restriction "किमान ८ अक्षर असायला हवे">
+<!ENTITY fxaccount_create_account_year_of_birth "जन्म वर्ष">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_button "पुढील">
+<!ENTITY fxaccount_create_account_policy_text2 "पुढे जातोय, याचा अर्थ, मी Firefox क्लाउड सेवांच्या &formatS1; आणि &formatS2; अटी मान्य करतो.">
+<!ENTITY fxaccount_create_account_button "पुढे">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "कशाचे ताळमेळ करायचे ते निवडा">
+<!ENTITY fxaccount_create_account_sign_in_instead "आपले खाते आहे? असेल तर, साईन इन करा">
+<!ENTITY fxaccount_create_account_1990_or_earlier "१९९० किंवा त्यापूर्वी">
+<!ENTITY fxaccount_create_account_unknown_error "खाते बनवू शकले नाही">
 
-
-
-
-
-
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "आणखी शिका">
+<!ENTITY fxaccount_account_create_not_allowed "खाते बनवू शकत नाही">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "खातं बनवण्यासाठी आपण काही वयाच्या अटी पूर्ण करायला हव्यात.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "अधिक जाणून घ्या">
 
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
+<!ENTITY fxaccount_confirm_account_verification_link "माहिती पडताळणीसाठी, &formatS;वर एक दुवा पाठविला गेला आहे">
+<!ENTITY fxaccount_confirm_account_resend_email "इमेल पुन्हा पाठवा">
 
 
 
