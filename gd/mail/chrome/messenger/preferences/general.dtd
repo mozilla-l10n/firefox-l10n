@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Aisig na roghainnean bunaiteach">
 <!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label       "Beòthaich an ìomhaigheag doca">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Atharraich na roghainnean airson ìomhaigheag na h-aplacaid">
+<!ENTITY dockOptions.label                "Roghainnean ìomhaigheag na h-aplacaid…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Nuair a ruigeas teachdaireachd ùr:">
 <!ENTITY playSound.label                  "Cluich fuaim">
