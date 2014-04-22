@@ -6,18 +6,23 @@
 %brandDTD;
 
 <!ENTITY loadError.label "ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ">
-
+<!ENTITY retry.label "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು">
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
-
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "ಈ ವಿಳಾಸವು ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
-
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>ವಿಳಾಸದ ಬರೆಯುವಲ್ಲಿ ತಪ್ಪಾಗಿದೆಯೇ ಪರೀಕ್ಷಿಸಿ  
+<strong>ww</strong>.example.com ಅನ್ನು ಹೀಗೆ 
+<strong>www</strong>.example.com ಬರೆದಿದೆ</ii> 
+<li>ಯಾವದೇ ಪುಟವೂ ತೆರೆಯದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಸಾಧನದ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಸಂಪರ್ಕ ಪರಿಶೀಲಿಸಿ.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -38,12 +43,15 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-
+<!ENTITY notCached.title "ದಸ್ತಾವೇಜಿನ ವಾಯಿದೆ ತೀರದೆ">
 <!ENTITY notCached.longDesc "<p>ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು &brandShortName; ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</p><ul><li>As a security precautionಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.</li><li>ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</li></ul>">
 
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
-
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ. &brandShortName;ವು ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸಲು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸುವುದು.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -51,13 +59,13 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "ಅಸುರಕ್ಷಿತ ಕಡತದ ಬಗೆ">
-
+<!ENTITY unsafeContentType.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲೀಕರಿಗೆ ತಿಳಿಸಲು ಅವರನ್ನು ಸಂಪರ್ಕಸಿ.</li></ul></p>">
 
 <!ENTITY netReset.title "ಸಂಪರ್ಕವು ಮರಳಿ ಹೊಂದಿಸಲ್ಪಟ್ಟಿತು">
-
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "ಸಂಪರ್ಕದ ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ">
-
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY unknownProtocolFound.title "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -71,7 +79,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ">
-
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>ಪ್ರಾಕ್ಸಿ ಸಂಯೋಜನೆಗಳು ಸರಿಯಿದೆಯೇ ಪರಿಶೀಲಿಸಿ.</li> 
+<li>ಹಾಗೆಯೇ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮೊಬೈಲ್ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಇದೆಯೇ ಪರೀಕ್ಷಿಸಿ.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -92,9 +103,15 @@
 
 <!ENTITY nssBadCert.title "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವು ವಿಫಲಗೊಂಡಿದೆ">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ಇದು  ಪರಿಚಾರಕದ ಸಂರಚನೆಯಲ್ಲಿನ ಒಂದು ತೊಂದರೆ ಇರಬಹುದು, ಅಥವ ಯಾರಾದರೂ ಪರಿಚಾರಕದಂತೆ ವರ್ತಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರಬಹುದು.</li> 
-<li>ಈ ಮೊದಲು ನೀವು ಪರಿಚಾರಕಕ್ಕೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿದ್ದಲ್ಲಿ, ಈಗಿನ ದೋಷವು ತಾತ್ಕಾಲಿಕವಾಗಿರಬಹುದು, ಹಾಗು ನೀವು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> </ul>">
+<li>ಇದು ಪರಿಚಾರಕದ ಸಂರಚನೆಯಲ್ಲಿನ ಒಂದು ತೊಂದರೆ ಇರಬಹುದು, ಅಥವ ಯಾರಾದರೂ ಪರಿಚಾರಕದಂತೆ ವರ್ತಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರಬಹುದು.</li> 
+<li>ಈ ಮೊದಲು ನೀವು ಪರಿಚಾರಕಕ್ಕೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿದ್ದಲ್ಲಿ, ಈಗಿನ ದೋಷವು 
+ ತಾತ್ಕಾಲಿಕವಾಗಿರಬಹುದು, ಹಾಗು ನೀವು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> 
+</ul>">
 
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>ಈ ತಾಣವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲದಿರಬಹುದು ಅಥವಾ ಕಾರ್ಯದ ಒತ್ತಡದಲ್ಲಿರಬಹುದು. ಕೆಲವು ಕ್ಷಣಗಳ ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</li> 
+<li>ಯಾವುದೇ ಪುಟವೂ ತೆರೆಯದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಮೊಬೈಲಿನ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಪರಿಶೀಲಿಸಿ.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
@@ -117,5 +134,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಲು ಅವರನ್ನು ಸಂಪರ್ಕಸಿ.</li></ul></p>">
 

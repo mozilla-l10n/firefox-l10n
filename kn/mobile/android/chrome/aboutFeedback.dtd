@@ -33,7 +33,7 @@
 
 <!ENTITY happy.ratingLink          "ಹೌದು, ಗೂಗಲ್ ಪ್ಲೇ ಗೆ ಹೋಗಿ">
 <!ENTITY happy.maybeLater2         "ಬಹುಷಃ ಆನಂತರ">
-
+<!ENTITY happy.noThanks            "ಪರವಾಗಿಲ್ಲ">
 
 <!ENTITY sad.message               "&brandShortName; ನಲ್ಲಿ ನಿಮಗೆ ತೊಂದರೆಯಾಗಿದ್ದಕ್ಕೆ ವಿಷಾದಿಸುತ್ತೇವೆ. ಇದನ್ನು ನಿವಾರಿಸಲು, ದಯವಿಟ್ಟು ಏನಾಯ್ತು ಎಂಬ ವಿವರಗಳನ್ನು ನಮಗೆ ತಿಳಿಸಿ.">
 <!ENTITY sad.placeholder           "ನಿಮ್ಮ ಮರುಪೂರಣ (ಫೀಡ್ ಬ್ಯಾಕ್) ವನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ">

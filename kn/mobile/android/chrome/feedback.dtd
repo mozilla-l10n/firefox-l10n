@@ -9,6 +9,7 @@
 <!ENTITY feedback.feedback.good         "ಉತ್ತಮ">
 <!ENTITY feedback.feedback.bad          "ಸರಿಯಿಲ್ಲ">
 
-
+<!ENTITY feedback.tools.title           "ಉಪಕರಣಗಳು">
+<!ENTITY feedback.allowTelemetry.title  "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮಾಹಿತಿಯನ್ನು ಸಲ್ಲಿಸು">
 <!ENTITY feedback.forceCompat.title     "ಆಡ್-ಆನುಗಳು ಬಲವಂತದಿಂದ ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಮಾಡಿ">
 <!ENTITY feedback.errorConsole.title    "ಎರ್ರರ್ ಕನ್ಸೋಲ್ ಎನೇಬಲ್ ಮಾಡಿ">

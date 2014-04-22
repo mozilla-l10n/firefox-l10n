@@ -68,7 +68,7 @@
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
-
+<!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -83,24 +83,26 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "ಸಲಹೆ: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_developer_remotedebugging_docs "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
-
+<!ENTITY pref_category_home_summary "ನಿಮ್ಮ ಮುಖಪುಟವನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
 <!ENTITY pref_category_home_panels "ಫಲಕಗಳು">
-
-
-
+<!ENTITY pref_home_add_panel "ಮುಖ್ಯ ಪಟ್ಟಿ ಸೇರಿಸು">
+<!ENTITY home_add_panel_title "ಹೊಸ ಮುಖ್ಯ ಪಟ್ಟಿ ಸೇರಿಸು">
+<!ENTITY home_add_panel_empty "ಕ್ಷಮಿಸಿ, ನೀವು ಸೇರಿಸಬಹುದಾದ ಯಾವುದೇ ಮುಖ್ಯಪಟ್ಟಿ ನಮಗೆ ದೊರೆತಿಲ್ಲ.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ಅನ್ನು ಮುಖಪುಟಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ">
+<!ENTITY pref_category_home_content_settings "ವಸ್ತುವಿಷಯದ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_home_updates "ಸ್ವಯಂಚಾಲಿತ ಅಪ್‌ಡೇಟ್‌ಗಳು">
-
-
+<!ENTITY pref_home_updates_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY pref_home_updates_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
@@ -155,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "ಸಿಂಕ್">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
-
-
-
+<!ENTITY pref_private_data_history "ಜಾಲವೀಕ್ಷಣೆ  ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ">
+<!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
+<!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು  ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
 <!ENTITY pref_private_data_passwords "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
@@ -178,6 +180,7 @@ size. -->
 <!ENTITY pref_panels_show "ತೋರಿಸು">
 <!ENTITY pref_panels_hide "ಅಡಗಿಸು">
 
+<!ENTITY datareporting_notification_title "&brandShortName; ಅಂಕಿಅಂಶ  ಮಾಹಿತಿ">
 <!ENTITY datareporting_notification_action_long "ಯಾವ ಮಾಹಿತಿ ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂಬುದನ್ನು ಆರಿಸಿ">
 <!ENTITY datareporting_notification_action "ಏನು ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂದು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY datareporting_notification_summary "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು, &brandShortName; ತಾನಾಗಿಯೇ ಕೆಲವು ಮಾಹಿತಿಗಳನ್ನು &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ.">
@@ -206,7 +209,7 @@ size. -->
      actual notification that an update is available. -->
 
 <!ENTITY pref_update_autodownload2 "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
-
+<!ENTITY pref_update_autodownload_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_update_autodownload_never "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY pref_update_autodownload_always "ಯಾವಾಗಲೂ">
 
@@ -224,7 +227,7 @@ size. -->
 <!ENTITY find_in_page "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
 <!ENTITY page "ಪುಟ">
-
+<!ENTITY tools "ಸಾಧನಗಳು">
 <!ENTITY new_tab "ಹೊಸ ಟ್ಯಾಬ್">
 <!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
@@ -239,7 +242,7 @@ size. -->
 <!ENTITY find_text "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY find_prev "ಹಿಂದಿನ">
 <!ENTITY find_next "ಮುಂದೆ">
-
+<!ENTITY find_close "ಮುಚ್ಚು">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -248,6 +251,7 @@ size. -->
 <!ENTITY media_pause "ವಿರಾಮ">
 <!ENTITY media_stop "ನಿಲ್ಲಿಸು">
 
+<!ENTITY contextmenu_open_new_tab "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_open_in_reader "ರೀಡರಿನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆ">
@@ -262,7 +266,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "ಸಂಪಾದಿಸು">
 <!ENTITY contextmenu_top_sites_pin "ತಾಣವನ್ನು ಹಿಡಿದಿಡು">
 <!ENTITY contextmenu_top_sites_unpin "ತಾಣವನ್ನು ಬಿಡುಗಡೆಗೊಳಿಸು">
-
+<!ENTITY contextmenu_add_search_engine "ಹುಡುಕು ಸಾಧನವನ್ನು ಸೇರಿಸಿ">
 
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
@@ -283,7 +287,7 @@ size. -->
 
 <!ENTITY site_settings_title3       "ತಾಣದ ಸಂಯೋಜನೆಗಳು">
 <!ENTITY site_settings_cancel       "ರದ್ದು">
-
+<!ENTITY site_settings_clear        "ಅಳಿಸು">
 <!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
 
 <!ENTITY reading_list_add "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
@@ -299,7 +303,7 @@ size. -->
 <!ENTITY masterpassword_create_title "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಸೃಷ್ಟಿಸಿ">
 <!ENTITY masterpassword_remove_title "ಮುಖ್ಯಗುಪ್ತಪದವನ್ನು ತೆಗೆಯಿರಿ">
 <!ENTITY masterpassword_password "ಗುಪ್ತಪದ">
-
+<!ENTITY masterpassword_confirm "ಗುಪ್ತಪದವನ್ನು ಖಚಿತಪಡಿಸು">
 
 <!ENTITY button_ok "ಸರಿ">
 <!ENTITY button_cancel "ರದ್ದು">
@@ -307,13 +311,14 @@ size. -->
 <!ENTITY button_no "ಇಲ್ಲ">
 <!ENTITY button_clear_data "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
 <!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
-
+<!ENTITY button_clear "ಅಳಿಸು">
 
 <!ENTITY home_top_sites_title "ಪ್ರಮುಖ ತಾಣಗಳು">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ತಾಣವನ್ನು ಸೇರಿಸು">
 
+<!ENTITY home_history_title "ಇತಿಹಾಸ">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_last_tabs_title "ಕಡೆಯ ಸಾರ್ತಿಯ ಪುಟಗಳು">
 <!ENTITY home_last_tabs_open "ಕಳೆದ ಬಾರಿಯ ಎಲ್ಲ ಪುಟಗಳನ್ನು ತೆರೆ">
@@ -325,10 +330,14 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "ಸಲಹೆ: ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ, &formatI; ಚಿನ್ಹೆಯು ಶಿರೋನಾಮೆ ಪಟ್ಟಿಯಲ್ಲಿ ಕಾಣಿಸಿದಾಗ ಅದನ್ನು ದೀರ್ಘ ಒತ್ತುವಿಕೆಯಿಂದ ಉಳಿಸಿ.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "ಸಲಹೆ: ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ, ಓದುಗ ಕ್ರಮ ಗುಂಡಿಯು ಶಿರೋನಾಮೆ ಪಟ್ಟಿಯಲ್ಲಿ ಕಾಣಿಸಿದಾಗ ಅದನ್ನು ದೀರ್ಘ ಒತ್ತುವಿಕೆಯಿಂದ ಉಳಿಸಿ.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "ಈ ಪ್ಯಾನೆಲ್ ಗೆ ಯಾವುದೇ ವಸ್ತುವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.">
 
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
 
@@ -371,8 +380,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ">
 <!ENTITY bookmarkhistory_import_history "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಇತಿಹಾಸವನ್ನು 
 ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ">
+<!ENTITY bookmarkhistory_import_wait "ದಯವಿಟ್ಟು ಕಾಯಿರಿ...">
 
-
+<!ENTITY suggestions_prompt3 "ನೀವು ಹುಡುಕು ಸಲಹೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -383,6 +393,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸ">
 
+<!ENTITY devtools_remote_debugging_forward "ಪೋರ್ಡ್ ಫಾರ್ವರ್ಡಿಂಗ್ ಅನುಸ್ಥಾಪಿಸಲು ಮರೆಯಬೇಡಿ!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName; ಗೆ ಉನ್ನತೀಕರಣ ಲಭ್ಯವಿದೆ.">
@@ -398,7 +409,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
-
+<!ENTITY exit_guest_session "ಅತಿಥಿ ಅಧಿವೇಶನದಿಂದ ನಿರ್ಗಮಿಸು">
 <!ENTITY guest_session_dialog_continue "ಮುಂದುವರೆ">
 <!ENTITY guest_session_dialog_cancel "ರದ್ದು">
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
@@ -409,3 +420,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!ENTITY actionbar_menu "ಪರಿವಿಡಿ">
+<!ENTITY actionbar_done "ಆಯಿತು">
