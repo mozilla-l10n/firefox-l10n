@@ -31,6 +31,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.disconnect "Khupha kunxibelelo">
 
 
@@ -77,6 +81,8 @@
 
 <!ENTITY projects.valid "Iyasebenza">
 <!ENTITY projects.error "Imposiso">
+
+
 
 
 <!ENTITY help.close "Vala">
