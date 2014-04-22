@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "डाउनलोड्स">
-
-
+<!ENTITY aboutDownloads.header                     "आपले डाऊनलोड्स">
+<!ENTITY aboutDownloads.empty                      "डाउनलोड्स नाहीत">
 
 <!ENTITY aboutDownloads.open                       "उघडा">
 <!ENTITY aboutDownloads.remove                     "नष्ट करा">
 <!ENTITY aboutDownloads.removeAll                  "सर्व नष्ट करा">
-
-
+<!ENTITY aboutDownloads.pause                      "थोडा वेळ थांबवा">
+<!ENTITY aboutDownloads.resume                     "पुन्हा चालू करा">
 <!ENTITY aboutDownloads.cancel                     "रद्द करा">
 <!ENTITY aboutDownloads.retry                      "पुन्हा प्रयत्न करा">

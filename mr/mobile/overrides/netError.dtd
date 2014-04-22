@@ -5,58 +5,95 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "पृष्ठ दाखल करण्यासाठी समस्या">
+<!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!-- Specific error messages -->
 
 
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
+<!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
+
+<!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
+
+
+<!ENTITY fileNotFound.title "फाइल सापडली नाही">
 
 
 
+<!ENTITY generic.title "अरेच्या !.">
+<!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणामुळे, हे पृष्ठ दाखल करू शकत नाही.</p>">
+
+<!ENTITY malformedURI.title "पत्ता वैध नाही">
+
+
+<!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "दस्तऐवज मुदतबाह्य">
+
+
+<!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>पुन्हा प्रयत्न करा. &brandShortName; परत जोडणीचा प्रयत्न करून, पृष्ठ लोड करेल.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी माहिती द्या.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "असुरक्षीत फाइल प्रकार">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>कृपया संकेतस्थळाच्या मालकांना या अडचणी विषयी माहिती द्या.</li> 
+</ul>">
+
+<!ENTITY netReset.title "जोडणी पुनःप्रस्थापित करण्यात आली">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "जोडणी प्रयत्नाची वेळ मर्यादा समाप्त झाली">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्वर नकार देत आहे">
+
+
+<!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
+
+
+<!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
+
+
+<!ENTITY unknownSocketType.title "सर्वर कडून अनपेक्षित प्रतिसाद">
+
+
+<!ENTITY nssFailure2.title "सुरक्षीत जोडणी अपयशी">
+
+
+<!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
 
 
 
+<!ENTITY cspFrameAncestorBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
+
+<!ENTITY corruptedContentError.title "दुषीत मजकूर त्रुटी">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद यादीत जोडू शकता…">
+<!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
+<!ENTITY securityOverride.exceptionButtonLabel "अपवाद यादीत जोडा…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-
+<!ENTITY remoteXUL.title "दूरस्थ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
 

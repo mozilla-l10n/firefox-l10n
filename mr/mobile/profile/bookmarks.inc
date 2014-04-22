@@ -61,9 +61,11 @@
 
 
 
+#define bookmarks_support Firefox: मदत केंद्र
+
+
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
-
 
 
 
@@ -71,9 +73,7 @@
 
 
 
-
 #define bookmarks_marketplace Firefox मार्केटप्लेस
-
 
 
 

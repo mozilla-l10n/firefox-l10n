@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY privatebrowsingpage.title                  "खाजगी रीत्या ब्राउझिंग">
 
+<!ENTITY privatebrowsingpage.issueDesc.private      "आपण नवीन खाजगी टॅब उघडला आहे.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "आपण खाजगी टॅबमध्ये नाहीत.">
 
-
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
