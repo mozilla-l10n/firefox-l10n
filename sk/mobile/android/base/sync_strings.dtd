@@ -150,7 +150,7 @@
 <!ENTITY fxaccount_create_account_unknown_error 'Účet nebolo možné vytvoriť'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nie je možné vytvoriť účet'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'You must meet certain age requirements to create an account.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Ak si chcete vytvoriť účet, musíte spĺňať stanovené vekové požiadavky.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Ďalšie informácie'>
 
 <!ENTITY fxaccount_confirm_account_header 'Potvrďte svoj účet'>
