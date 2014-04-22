@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "ऑफ़लाइन कार्य (o)">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "स्टार्टअप पर बिना पूछे चुनें प्रोफ़ाइल का उपयोग करें (s)">
+<!ENTITY            useSelected.accesskey   "s">

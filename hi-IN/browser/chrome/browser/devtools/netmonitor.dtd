@@ -11,10 +11,16 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "• पर क्लिक करें">
+<!ENTITY netmonitorUI.perfNotice2         "यह बटन प्रदर्शन के विश्लेषण शुरू करने के लिए.">
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -105,8 +111,12 @@
 <!ENTITY netmonitorUI.footer.filterOther  "अन्य">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "साफ करें">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "टॉगल प्रदर्शन विश्लेषण…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -179,8 +189,12 @@
 <!ENTITY netmonitorUI.timings.receive     "प्राप्त कर रहा है:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "प्रदर्शन विश्लेषण शुरू करें…">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "एस">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
@@ -191,8 +205,12 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "डाटा URI के रूप में छवि नक़ल करें">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->

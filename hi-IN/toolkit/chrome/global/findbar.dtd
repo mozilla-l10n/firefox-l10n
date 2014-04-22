@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "सभी आलोकित करें (A)">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "वाक्यांश की सारी उपस्थिति आलोकित करें">
-
-
+<!ENTITY caseSensitive.label "केस मिलाएँ (c)">
+<!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "केस संवेदनशीलता से खोजें">

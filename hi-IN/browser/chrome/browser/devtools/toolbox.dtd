@@ -55,6 +55,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* वर्तमान सत्र केवल, फिर से पृष्ठ लोड करता है">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -70,10 +72,14 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "निष्क्रिय करें JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "इस विकल्प को बंद करना जावास्क्रिप्ट को निष्क्रिय कर देगा मौजूदा टैब के लिए. यदि वह टैब या औज़ारपेटी बंद है तो तो यह सेटिंग विस्मृत कर दिया जाएगा.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
+
+<!ENTITY options.disableCache.label     "कैश निष्क्रिय करें *">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -89,6 +95,8 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "उपलब्ध औजार बक्सा बटन">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -114,6 +122,8 @@
 <!ENTITY options.enablePersistentLogging.tooltip  "यदि आप इस विकल्प को सक्रिय करना चाहते हैं तो वेब कंसोल हर बार आउटपुट को साफ नहीं करेगा जब आप किसी नए पन्ने को संचरित करते हैं">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!ENTITY options.timestampMessages.label      "टाइमस्टैंप्स सक्षम करें">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
