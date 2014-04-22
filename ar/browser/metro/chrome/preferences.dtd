@@ -21,13 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "الكعكات">
 <!ENTITY clearPrivateData.cache                                  "الخبيئة">
 <!ENTITY clearPrivateData.sitePref                               "تفضيلات الموقع">
-
+<!ENTITY clearPrivateData.formSearchHist                         "تأريخ البحث و النماذج">
 <!ENTITY clearPrivateData.passwords                              "كلمات السر المحفوظة">
 <!ENTITY clearPrivateData.offline                                "بيانات المواقع للعمل دون اتصال">
 <!ENTITY clearPrivateData.logins                                 "تسجيلات الدخول النشِطة">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "تذكّر كلمات السر">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "أظهر أزرار الإبحار">
 <!ENTITY doNotTrack.title                                        "لا تتعقبني">
 <!ENTITY doNotTrack.options.doNotTrack                           "أخبر المواقع أنني لا أريدها أن تتعقبني">
 <!ENTITY doNotTrack.options.doTrack                              "أخبر المواقع أنني أريدها أن تتعقبني">

@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "اعمل دون اتّصال">
 <!ENTITY            offlineState.accesskey "ع">
 
-
+<!ENTITY            useSelected.label       "استخدم الملف الشخصي المحدد دون سؤال عند بدء التشغيل">
+<!ENTITY            useSelected.accesskey   "س">

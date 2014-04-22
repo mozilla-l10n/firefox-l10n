@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "الرسائل">
 <!ENTITY consoleCodeEval.label     "الكود:">
 <!ENTITY consoleClear.label        "امسح">
-
+<!ENTITY consoleCopyAll.label      "انسخ">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "الملفّ المصدر:">
 <!ENTITY consoleErrLine.label      "سطر:">
 <!ENTITY consoleErrColumn.label    "عمود:">
-
+<!ENTITY consoleFollowCheckbox.label "اتبع">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "قصّ">
-
+<!ENTITY contextTextCopy.label             "انسخ">
 <!ENTITY contextTextPaste.label            "ألصق">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "ألصق و اذهب">
 <!ENTITY contextTextSelect.label           "اختر">
 <!ENTITY contextTextSelectAll.label        "اختر الكل">
 <!-- LINK CONTEXT MENU -->
