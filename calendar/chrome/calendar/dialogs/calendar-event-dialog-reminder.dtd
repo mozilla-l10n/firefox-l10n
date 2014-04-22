@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Detalji podsjetnika">
 <!ENTITY reminder.action.label                             "Odaberi radnju podsjetnika">
 
-<!ENTITY reminder.relation.before.label                    "prije" >
-<!ENTITY reminder.relation.after.label                     "nakon" >
-
 <!ENTITY reminder.action.alert.label                       "Prikaži upozorenje">
 <!ENTITY reminder.action.email.label                       "Pošalji e-poštu">
 

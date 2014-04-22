@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Prima" >
 <!ENTITY newevent.attendees.notify.label    "Obavijesti sudionike">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Sakrij sudionike u pozivnicama">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Ukoliko je omogućeno, sudionici neće vidjeti jedni druge u pozivnicama. Primjenjuje se samo u pozivnicama preko e-pošte.">
+
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Nije definiran" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "o">
 <!ENTITY  event.menu.options.attendees.label                  "Pozovi sudionike…">
 <!ENTITY  event.menu.options.attendees.accesskey              "i">
-<!ENTITY  event.menu.options.spellcheck.label                 "Provjeri pravopis…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "P">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Provjeravaj pravopis tijekom tipkanja">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
-<!ENTITY  event.menu.options.link.label                       "Dodaj poveznicu…">
-<!ENTITY  event.menu.options.link.accesskey                   "D">
 <!ENTITY  event.menu.options.timezone2.label                  "Prikaži vremenske zone">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Proritet">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Spremi i zatvori">
 <!ENTITY  event.toolbar.delete.label                      "Obriši">
 <!ENTITY  event.toolbar.attendees.label                   "Pozovi sudionike">
-<!ENTITY  event.toolbar.spellcheck.label                  "Provjera pravopisa">
 <!ENTITY  event.toolbar.privacy.label                     "Privatnost">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Spremi i zatvori">
 <!ENTITY  event.toolbar.delete.tooltip                    "Obriši">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozovi sudionike">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Provjera pravopisa">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dodaj privitke">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Promijeni privatnost">
 <!ENTITY  event.toolbar.priority.tooltip                  "Promijeni prioritet">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "t">
 <!ENTITY event.categories.textbox.label                   "Dodaj novu kategoriju" >
-<!ENTITY event.categories.textbox.accesskey               "o">
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Sudionici:" >
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "Podsjetnik:">
 <!ENTITY read.only.attendees.label       "Sudionici">
 <!ENTITY read.only.description.label     "Opis">
-<!ENTITY read.only.documents.label       "Dokumenti">
 <!ENTITY read.only.link.label            "Povezana poveznica">
