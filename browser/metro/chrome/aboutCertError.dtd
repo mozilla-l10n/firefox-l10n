@@ -31,7 +31,7 @@ waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innitol ndee lowre.
 gonɗo e wujjitaade seŋol maa.</b>">
 <!ENTITY certerror.expert.contentPara2 "Hoto ɓeydu faltoore so wonaa 
 tawa aɗa anndi daliilu moƴƴo ena woodi ko haɗi ndee lowre huutoraade innitol koolangol.">
-
-
+<!ENTITY certerror.addTemporaryException.label "Yillo lowre ndee">
+<!ENTITY certerror.addPermanentException.label "Ɓeydi faltoore duumiinde">
 
 <!ENTITY certerror.technical.heading "Cariiɗe Karallaagal">

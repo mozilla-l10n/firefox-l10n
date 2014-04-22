@@ -4,7 +4,11 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "Naatnu Njiilaw walla Ñiiɓirde">
 
+<!ENTITY back.label            "Caggal">
+<!ENTITY forward.label         "Yeeso">
+<!ENTITY newtab.label          "Tabbere Hesere">
 
 
 
@@ -15,9 +19,10 @@
 
 
 
-
-
-
+<!ENTITY topSitesHeader.label        "Lowe Dowrowe">
+<!ENTITY bookmarksHeader.label       "Maantore">
+<!ENTITY recentHistoryHeader.label   "Aslol Cakkitiingol">
+<!ENTITY remoteTabsHeader.label      "Tabbe ummiiɗe e Kaɓirɗi Goɗɗi">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -26,10 +31,13 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "Lowe Dowrowe">
+<!ENTITY narrowBookmarksHeader.label     "Maantore">
+<!ENTITY narrowRecentHistoryHeader.label "Aslol Cakkitiingol">
+<!ENTITY narrowRemoteTabsHeader.label    "Tabbe Poottiiɗe">
 
-
-
-
+<!ENTITY downloadsHeader.label     "Gaawte">
+<!ENTITY downloadShowPage.label    "Yah to Hello">
 
 <!ENTITY downloadOpen2.label       "Uddit">
 <!ENTITY downloadCancel.label      "Haaytu">
@@ -44,24 +52,27 @@
 
 <!ENTITY consoleErrors.label       "Juume">
 <!ENTITY consoleWarnings.label     "Deentine">
-
-
+<!ENTITY consoleMessages.label     "Ɓatakuje">
+<!ENTITY consoleCodeEval.label     "Dokkol:">
 <!ENTITY consoleClear.label        "Momtu">
-
-
+<!ENTITY consoleCopyAll.label      "Natto">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fiilde Iwdi:">
 <!ENTITY consoleErrLine.label      "Gorol:">
 <!ENTITY consoleErrColumn.label    "Darol:">
-
+<!ENTITY consoleFollowCheckbox.label "Rewindo">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Dottu">
-
+<!ENTITY contextTextCopy.label             "Natto">
 <!ENTITY contextTextPaste.label            "Ɗakku">
 <!-- unique item that is only added to the url bar context menu -->
-
-
+<!ENTITY contextTextPasteAndGo.label       "Ɗakku Njahaa">
+<!ENTITY contextTextSelect.label           "Suɓo">
+<!ENTITY contextTextSelectAll.label        "Labo fof">
 <!-- LINK CONTEXT MENU -->
+
+<!ENTITY contextOpenLinkTab.label          "Uddit jokkol e tabbere hesere">
 
 
 <!-- IMAGE CONTEXT MENU -->
@@ -75,6 +86,8 @@
 
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
 
 
