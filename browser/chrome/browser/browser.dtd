@@ -733,5 +733,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "Særa">
 <!ENTITY viewBookmarksSidebar2.label "Véddi a bâra de sciànco segnalìbbri">
 
+<!ENTITY customizeMode.menuAndToolbars.label "Menû e bâre di struménti">
+<!ENTITY syncStartPanel.heading "Scincronizaçión de &brandShortName;">
+<!ENTITY syncStartPanel.subTitle "L'é poscìbile gestî &syncBrand.shortName.label; inte opçión.">
+<!ENTITY syncStartPanel.subTitleUnix "L'é poscìbile gestî &syncBrand.shortName.label; inte preferénse.">
 
 

@@ -47,4 +47,5 @@
 <!ENTITY helpKeyboardShortcuts.label "Scorsaieu da tastêa">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
 
-
+<!ENTITY helpShowTour.label "Tour de &brandShortName;">
+<!ENTITY helpShowTour.accesskey "o">
