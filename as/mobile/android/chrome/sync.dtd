@@ -14,15 +14,15 @@
 
 
 
+<!ENTITY sync.account               "একাওন্ট নাম">
+<!ENTITY sync.password              "পাছৱৰ্ড">
 
 
-
-
-
+<!ENTITY sync.serverURL             "চাৰ্ভাৰ URL">
 
 <!ENTITY sync.setup.cancel          "বাতিল কৰক">
 
-
+<!ENTITY sync.setup.waiting2        "অন্য ডিভাইচৰ বাবে অপেক্ষা কৰা হৈছে…">
 
 <!ENTITY sync.pair.title            "এটা ডিভাইচ সংযুক্ত কৰক">
 

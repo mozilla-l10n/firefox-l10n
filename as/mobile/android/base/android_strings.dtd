@@ -47,12 +47,12 @@
 <!ENTITY history_older_section "৭ দিনৰ অধিক পুৰনি">
 
 <!ENTITY go "যাওক">
-
+<!ENTITY search "সন্ধান কৰক">
 <!ENTITY reload "পুনৰ ল\u0027ড কৰক">
 <!ENTITY forward "আগলৈ">
-
+<!ENTITY menu "মেনু">
 <!ENTITY back "পিছলৈ">
-
+<!ENTITY stop "বন্ধ কৰক">
 <!ENTITY site_security "ছাইটৰ সুৰক্ষা">
 <!ENTITY save "সংৰক্ষণ কৰক">
 
@@ -61,12 +61,13 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; টেবসমূহ">
+<!ENTITY new_tab_opened "নতুন টেব খোলা হৈছে">
 
-
-
-
-
-
+<!ENTITY settings "সংহতিসমূহ">
+<!ENTITY settings_title "সংহতিসমূহ">
+<!ENTITY pref_category_advanced "উন্নত">
+<!ENTITY pref_category_customize "স্বনিৰ্বাচন কৰক">
+<!ENTITY pref_category_search3 "সন্ধান কৰক">
 <!ENTITY pref_category_search_summary "আপোনাৰ সন্ধান প্ৰদানকাৰীসকল স্বনিৰ্বাচন কৰক">
 <!ENTITY pref_category_display "প্ৰদৰ্শন">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
@@ -76,20 +77,22 @@
 <!ENTITY pref_category_add_search_providers "অধিক সন্ধান প্ৰদানকাৰী যোগ কৰক">
 <!ENTITY pref_category_search_restore_defaults "সন্ধান ইঞ্জিনসমূহ পুনৰুদ্ধাৰ কৰক">
 <!ENTITY pref_search_restore_defaults "অবিকল্পিত পুনৰুদ্ধাৰ কৰক">
-
+<!ENTITY pref_search_restore_defaults_summary "অবিকল্পিতসমূহ পুনস্থাপন কৰক">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "সহায়: আপোনাৰ সন্ধান প্ৰদানকাৰী তালিকালৈ যিকোনো ৱেবছাইট যোগ কৰিবলে তাৰ সন্ধান ফিল্ডত টিপি &formatI; আইকনক টেপ কৰক।">
+<!ENTITY pref_category_devtools "উন্নয়নকাৰী সঁজুলিসমূহ">
+<!ENTITY pref_developer_remotedebugging "দূৰৱৰ্তী ডিবাগিং">
+<!ENTITY pref_developer_remotedebugging_docs "অধিক জানক">
+<!ENTITY pref_remember_signons "পাছৱৰ্ডসমূহ মনত ৰাখক">
 
-
-
-<!ENTITY pref_remember_signons "পাছৱাৰ্ডসমূহ মনত ৰাখক">
-
-
-
-
+<!ENTITY pref_category_home "ঘৰ">
+<!ENTITY pref_category_home_summary "আপোনাৰ আৰম্ভণি পৃষ্ঠা স্বনিৰ্বাচন কৰক">
+<!ENTITY pref_category_home_panels "পেনেল">
+<!ENTITY pref_home_add_panel "পেনেল যোগ কৰক">
 <!ENTITY home_add_panel_title "নতুন পেনেল যোগ কৰক">
 <!ENTITY home_add_panel_empty "ক্ষমা কৰিব, আমি আপোনাৰ দ্বাৰা যোগ কৰিবলৈ কোনো পেনেল নাপালো।">
 <!-- Localization note (home_add_panel_installed):
@@ -102,35 +105,38 @@
 <!ENTITY pref_home_updates_wifi "কেৱল Wi-Fi ৰে">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
+<!ENTITY pref_header_customize "স্বনিৰ্বাচন কৰক">
+<!ENTITY pref_header_display "প্ৰদৰ্শন">
+<!ENTITY pref_header_privacy_short "গোপনীয়তা">
+<!ENTITY pref_header_help "সহায়">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "উন্নয়নকাৰী সঁজুলিসমূহ">
 
 <!ENTITY pref_cookies_menu "কুকিসমূহ">
 <!ENTITY pref_cookies_accept_all "সামৰ্থবান কৰক">
 <!ENTITY pref_cookies_not_accept_foreign "সামৰ্থবান কৰা আছে, তৃতীয় দল বাদ দিয়া হৈছে">
 <!ENTITY pref_cookies_disabled "অসামৰ্থবান">
 
-
-
-
+<!ENTITY pref_donottrack_menu "অনুকৰণ কৰা">
+<!ENTITY pref_donottrack_disallow_tracking "ছাইঠসমূহক কওক মোক অনুসৰণ কৰিব নালাগে">
+<!ENTITY pref_donottrack_allow_tracking "ছাইঠসমূহক কওক মোক অনুসৰণ কৰিব নালাগে">
+<!ENTITY pref_donottrack_no_pref "মোৰ অনুকৰণ পছন্দসমূহৰ বিষয়ে ছাইটসমূহক একো নকব">
 
 <!ENTITY pref_char_encoding "আখৰ এনক\u0027ডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাওক">
-
-
+<!ENTITY pref_char_encoding_off "মেনু নেদেখুৱাব">
+<!ENTITY pref_clear_private_data "ব্যক্তিগত তথ্য আতৰাওক">
 <!ENTITY pref_plugins "প্লাগিনসমূহ">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_plugins_enabled "সামৰ্থবান">
+<!ENTITY pref_plugins_tap_to_play "বজাবলে টেপ কৰক">
+<!ENTITY pref_plugins_disabled "অসামৰ্থবান">
+<!ENTITY pref_text_size "লিখনীৰ আকাৰ">
+<!ENTITY pref_reflow_on_zoom4 "লিখনীৰ পুনৰধাৰা">
+<!ENTITY pref_restore "টেবসমূহ">
+<!ENTITY pref_restore_always "সদায় পুনৰুদ্ধাৰ কৰিব">
+<!ENTITY pref_restore_quit "&brandShortName; প্ৰস্থান কৰাৰ পিছত পুনৰুদ্ধাৰ নকৰিব">
+<!ENTITY pref_font_size_tiny "ক্ষুদ্ৰ">
+<!ENTITY pref_font_size_small "সৰু">
 <!ENTITY pref_font_size_medium "মধ্যম">
 <!ENTITY pref_font_size_large "ডাঙৰ">
 <!ENTITY pref_font_size_xlarge "অতি বৃহৎ">
@@ -146,36 +152,40 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "দ্ৰুত সুমথিৰা শিয়ালে আপোনাৰ প্ৰত্যাশাক অধিক গতি, অধিক স্থিতিস্থাপকতা আৰু অধিক সুৰক্ষাৰ সৈতে অতিক্ৰম কৰিছে। এটা লাভ-বিহিন হিচাপে, আমি কোনো আপোচৰ চাপ নথকাকৈ আপোনাৰ বাবে উদ্ভাৱন কৰিবলে মুক্ত। যাৰ অৰ্থ আপোনাৰ বাবে এটা উন্নত অনুভৱ আৰু ৱেবৰ বাবে এটা দীপ্ত ভৱিষ্যত।">
 
-<!ENTITY pref_use_master_password "প্ৰমুখ পাছৱাৰ্ড ব্যৱহাৰ কৰক">
+<!ENTITY pref_use_master_password "প্ৰমুখ পাছৱৰ্ড ব্যৱহাৰ কৰক">
 <!ENTITY pref_show_product_announcements "উৎপাদনৰ ঘোষণাসমূহ দেখুৱাওক">
 <!ENTITY pref_sync "সংমিহলি কৰক">
 <!ENTITY pref_search_suggestions "সন্ধানৰ পৰামৰ্শসমূহ দেখুৱাওক">
-
+<!ENTITY pref_import_android "Android ৰ পৰা ইমপোৰ্ট কৰক">
 <!ENTITY pref_private_data_history "ব্ৰাউছিং আৰু ডাউন্‌ল\u0027ডৰ ইতিহাস">
-
-
+<!ENTITY pref_private_data_formdata "ফৰ্ম আৰু সন্ধানৰ ইতিহাস">
+<!ENTITY pref_private_data_cookies2 "কুকিসমূহ আৰু সক্ৰিয় লগিনসমূহ">
 <!ENTITY pref_private_data_passwords "সংৰক্ষিত পাছৱৰ্ডসমূহ">
 <!ENTITY pref_private_data_cache "কেছ্‌">
-
-
-
+<!ENTITY pref_private_data_offlineApps "অফলাইন ৱেবছাইটৰ তথ্য">
+<!ENTITY pref_private_data_siteSettings2 "ছাইট সংহতিসমূহ">
+<!ENTITY pref_private_data_downloadFiles "ফাইলসমূহ ডাউনল\u0027ড কৰক">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ৰ বিষয়ে">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "সঁহাৰি দিয়ক">
 
-
-
+<!ENTITY pref_dialog_set_default "অবিকল্পিত ৰূপে স্থাপন কৰক">
 <!ENTITY pref_dialog_default "অবিকল্পিত">
+<!ENTITY pref_dialog_remove "আতৰাওক">
 
+<!ENTITY pref_search_last_toast "আপুনি আপোনাৰ সৰ্বশেষ সন্ধান ইঞ্জিন আতৰাব অথবা অসামৰ্থবান কৰিব নোৱাৰিব।">
 
+<!ENTITY pref_panels_show "দেখুৱাওক">
+<!ENTITY pref_panels_hide "লুকুৱাওক">
 
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "&brandShortName; পৰিসংখ্যা আৰু তথ্য">
+<!ENTITY datareporting_notification_action_long "কোন তথ্য অংশীদাৰী কৰা হব বাছক">
+<!ENTITY datareporting_notification_action "কি অংশীদাৰী কৰা হব বাছক">
+<!ENTITY datareporting_notification_summary "আপোনাৰ অনুভৱ উন্নত কৰিবলে, &brandShortName; এ কিছুমান তথ্য স্বচালিতভাৱে &vendorShortName; লৈ পঠায়।">
+<!ENTITY datareporting_notification_summary_short "আপোনাৰ অনুভৱ উন্নত কৰিবলে &brandShortName; …">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -183,20 +193,25 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "&brandShortName; স্বাস্থ্য সংবাদ">
+<!ENTITY datareporting_fhr_summary2 "আপোনাৰ ব্ৰাউছাৰৰ স্বাস্থ্যৰ বিষয়ে তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে আৰু আপোনাক আপোনাৰ ব্ৰাউছাৰৰ পৰিৱেশন বুজিবলৈ সহায় কৰে">
+<!ENTITY datareporting_abouthr_title "মোৰ স্বাস্থ্য সংবাদ চাওক">
+<!ENTITY datareporting_telemetry_title "টেলিমেট্ৰি">
+<!ENTITY datareporting_telemetry_summary "আপোনাৰ ব্ৰাউছাৰৰ বিষয়ে পৰিৱেশন, ব্যৱহাৰ, হাৰ্ডৱেৰ আৰু স্বনিৰ্বাচন তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে যাতে আমি &brandShortName; উন্নত কৰিব পাৰো">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে &vendorShortName; এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "স্খলন সংবাদক">
+<!ENTITY datareporting_wifi_title "&vendorShortName; অৱস্থান সেৱাসমূহ">
+<!ENTITY datareporting_wifi_summary "&brandShortName; ক বেনামী চেলুলাৰ টাৱাৰ তথ্য সংগ্ৰহ আৰু প্ৰেৰণ কৰাৰ অনুমতি দি মুক্ত ৱেবৰ বাবে ভূঅৱস্থান সেৱাসমূহ উন্নত কৰাত সহায় কৰক">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
-
-
+<!ENTITY pref_update_autodownload2 "আপডেইটসমূহ স্বচালিতভাৱে ডাউনল\u0027ড কৰক">
+<!ENTITY pref_update_autodownload_wifi "কেৱল Wi-Fi ৰে">
+<!ENTITY pref_update_autodownload_never "কেতিয়াও নহয়">
+<!ENTITY pref_update_autodownload_always "সদায়">
 
 <!ENTITY quit "প্ৰস্থান কৰক">
 
@@ -207,20 +222,20 @@ size. -->
 
 <!ENTITY share "অংশীদাৰী কৰক">
 <!ENTITY share_title "চিহ্নিত বস্তুৰ সহায়ত অংশীদাৰী কৰক">
-
-
-
-
-
-
+<!ENTITY share_image_failed "এই ছবি অংশীদাৰী কৰিব পৰা নগল">
+<!ENTITY save_as_pdf "PDF ৰূপে সংৰক্ষণ কৰক">
+<!ENTITY find_in_page "পৃষ্ঠাত সন্ধান কৰক">
+<!ENTITY desktop_mode "ডেস্কটপ ছাইট অনুৰোধ কৰক">
+<!ENTITY page "পৃষ্ঠা">
+<!ENTITY tools "সঁজুলিসমূহ">
 <!ENTITY new_tab "নতুন টেব">
-
-
-
-
+<!ENTITY new_private_tab "নতুন ব্যক্তিগত টেব">
+<!ENTITY close_all_tabs "সকলো টেব বন্ধ কৰক">
+<!ENTITY tabs_normal "টেবসমূহ">
+<!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "সংমিহলিত">
-
-
+<!ENTITY set_image_fail "ছবি স্থাপন কৰিবলৈ অক্ষম">
+<!ENTITY set_image_chooser_title "ছবিক এই ধৰণে সংৰক্ষণ কৰক">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -230,42 +245,52 @@ size. -->
 <!ENTITY find_close "বন্ধ কৰক">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "ডিভাইচলৈ কাস্টিং">
 <!ENTITY media_play "চলাওক">
-
-
+<!ENTITY media_pause "বিৰাম দিয়ক">
+<!ENTITY media_stop "বন্ধ কৰক">
 
 <!ENTITY contextmenu_open_new_tab "নতুন টেবত খোলক">
 <!ENTITY contextmenu_open_private_tab "ব্যক্তিগত টেবত খোলক">
 <!ENTITY contextmenu_open_in_reader "ৰিডাৰত খোলক">
-
-
-
+<!ENTITY contextmenu_remove "আতৰাওক">
+<!ENTITY contextmenu_add_to_launcher "আৰম্ভণি পৰ্দালৈ যোগ কৰক">
+<!ENTITY contextmenu_share "অংশীদাৰী কৰক">
 <!ENTITY contextmenu_pasteandgo "পেইস্ট কৰক আৰু যাওক">
 <!ENTITY contextmenu_paste "পেইস্ট">
-
+<!ENTITY contextmenu_copyurl "ঠিকনা কপি কৰক">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা কৰক">
-
-
-
-
-
+<!ENTITY contextmenu_subscribe "পৃষ্ঠালৈ স্বাক্ষৰ কৰক">
+<!ENTITY contextmenu_site_settings "ছাইটৰ সংহতিসমূহ সম্পাদনা কৰক">
+<!ENTITY contextmenu_top_sites_edit "সম্পাদনা কৰক">
+<!ENTITY contextmenu_top_sites_pin "ছাইটক চিহ্ন দিয়ক">
+<!ENTITY contextmenu_top_sites_unpin "ছাইটৰ চিহ্ন আতৰাওক">
 <!ENTITY contextmenu_add_search_engine "এটা সন্ধান ইঞ্জিন যোগ কৰক">
 
-
-
+<!ENTITY pref_titlebar_mode "শীৰ্ষক বাৰ">
+<!ENTITY pref_titlebar_mode_title "পৃষ্ঠাৰ শীৰ্ষক দেখুৱাওক">
+<!ENTITY pref_titlebar_mode_url "পৃষ্ঠাৰ ঠিকনা দেখুৱাওক">
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar "শীৰ্ষক বাৰ স্ক্ৰল কৰক">
 
+<!ENTITY history_removed "পৃষ্ঠা আতৰোৱা হল">
+
+<!ENTITY bookmark_edit_title "পত্ৰচিহ্ন সম্পাদন কৰক">
 <!ENTITY bookmark_edit_name "নাম">
 <!ENTITY bookmark_edit_location "অৱস্থান">
 <!ENTITY bookmark_edit_keyword "মূলশব্দ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "ছাইট সংহতিসমূহ">
 <!ENTITY site_settings_cancel       "বাতিল কৰক">
 <!ENTITY site_settings_clear        "পৰিষ্কাৰ কৰক">
 <!ENTITY site_settings_no_settings  "পৰিষ্কাৰ কৰিবলে কোনো সংহতি নাই।">
 
+<!ENTITY reading_list_add "পঢ়াৰ তালিকালৈ যোগ কৰক">
 <!ENTITY reading_list_added "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰা হৈছে">
 <!ENTITY reading_list_removed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকাৰ পৰা আতৰোৱা হৈছে">
 <!ENTITY reading_list_failed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰিবলে ব্যৰ্থ হল">
@@ -273,43 +298,53 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "অতিৰিক্ত কাৰ্য্যসমূহ">
+
 <!ENTITY masterpassword_create_title "প্ৰমূখ পাছৱৰ্ড সৃষ্টি কৰক">
-<!ENTITY masterpassword_remove_title "মাস্টাৰ পাছৱাৰ্ড আঁতৰাওক">
-<!ENTITY masterpassword_password "পাছৱাৰ্ড">
+<!ENTITY masterpassword_remove_title "প্ৰমূখ পাছৱৰ্ড আঁতৰাওক">
+<!ENTITY masterpassword_password "পাছৱৰ্ড">
 <!ENTITY masterpassword_confirm "পাছৱৰ্ড সুনিশ্চিত কৰক">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "বাতিল কৰক">
 <!ENTITY button_yes "হয়">
 <!ENTITY button_no "নহয়">
-
-
-
+<!ENTITY button_clear_data "তথ্য আতৰাওক">
+<!ENTITY button_set "সংহতি কৰক">
+<!ENTITY button_clear "পৰিষ্কাৰ কৰক">
 
 <!ENTITY home_top_sites_title "উচ্চতম ছাইটবোৰ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "এটা ছাইট যোগ কৰক">
 
-
-
+<!ENTITY home_history_title "ইতিহাস">
+<!ENTITY home_bookmarks_empty "আপুনি সংৰক্ষণ কৰা পত্ৰচিহ্নসমূহ ইয়াত দেখা যায়।">
+<!ENTITY home_last_tabs_title "সৰ্বশেষ সময়ৰ পৰা টেবসমূহ">
 <!ENTITY home_last_tabs_open "সৰ্বশেষ সময়ৰ পৰা সকলো টেব খোলক">
-
-
-
-
+<!ENTITY home_last_tabs_empty "আপোনাৰ শেহতীয়া টেবসমূহ ইয়াত দেখা যাব।">
+<!ENTITY home_most_recent_title "আটাইতকৈ শেহতীয়া">
+<!ENTITY home_most_recent_empty "আপুনি শেহতীয়াভাৱে ভ্ৰমণ কৰা ছাইটসমূহ ইয়াত দেখি পাব।">
+<!ENTITY home_reading_list_empty "ভৱিষ্যত ব্যৱহাৰৰ বাবে সংৰক্ষণ কৰা অধ্যাসমূহ ইয়াত দেখি পাব।">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "সহায়: অধ্যায়বোৰ আপোনাৰ পঢ়াৰ তালিকালৈ সংৰক্ষণ কৰিবলে &formatI; টিপি ধৰক যেতিয়া ই শীৰ্ষক বাৰত উপস্থিত হয়।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "সহায়: অধ্যায়বোৰ আপোনাৰ পঢ়াৰ তালিকালৈ সংৰক্ষণ কৰিবলে পঢ়াৰ অৱস্থা বুটামক টিপি ধৰক যেতিয়া ই শীৰ্ষক বাৰত উপস্থিত হয়।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
+<!ENTITY home_default_empty "এই পেনেলৰ বাবে কোনো সমল পোৱা নগল।">
 
+<!ENTITY pin_site_dialog_hint "এটা সন্ধান কিৱাৰ্ড সুমুৱাওক">
 
-
-
+<!ENTITY filepicker_title "ফাইল বাছক">
+<!ENTITY filepicker_audio_title "এটা শব্দ বাছক অথবা ৰেকৰ্ড কৰক">
+<!ENTITY filepicker_image_title "এটা ছবি বাছক অথবা তোলক">
+<!ENTITY filepicker_video_title "এটা ভিডিঅ\u0027 বাছক অথবা ৰেকৰ্ড কৰক">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "আপুনি সংযোগিত">
@@ -327,42 +362,60 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "যাক চলোৱা হয়">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "এই পৃষ্ঠায় অসুৰক্ষিত সমল প্ৰদৰ্শন কৰি আছে।">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; এ অসুৰক্ষিত সমলক প্ৰতিৰোধ কৰিছে।">
+<!ENTITY blocked_mixed_content_message_bottom "এই সমল প্ৰতিৰোধিত অৱস্থাতো বেছিৰভাগ ৱেবছাইটে সঠিকভাৱে কাৰ্য্য কৰিব।">
 <!ENTITY learn_more "অধিক জানক">
+<!ENTITY enable_protection "সুৰক্ষা সামৰ্থবান কৰক">
+<!ENTITY disable_protection "সুৰক্ষা অসামৰ্থবান কৰক">
+<!ENTITY keep_blocking "প্ৰতিৰোধ কৰি থাকক">
 
+<!ENTITY private_data_success "ব্যক্তিগত তথ্য আতৰোৱা হৈছে">
+<!ENTITY private_data_fail "কিছুমান ব্যক্তিগত তথ্য আতৰাব পৰা নগল">
 
-
-
-
-
-
-
-
+<!ENTITY bookmarkhistory_button_import "ইমপোৰ্ট কৰক">
+<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস ইমপোৰ্ট কৰা হৈছে">
+<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ ইমপোৰ্ট কৰা হৈছে">
+<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস ইমপোৰ্ট কৰা হৈছে">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্ৰহ কৰি অপেক্ষা কৰক...">
 
+<!ENTITY suggestions_prompt3 "আপুনি সন্ধান পৰামৰ্শ অন কৰিব খোজে নে?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "&formatS2; ৰ বাবে &formatS1; ক সন্ধান কৰক">
 
+<!ENTITY webapp_generic_name "এপ">
 
-<!-- Updater notifications -->
+<!ENTITY searchable_description "পত্ৰচিহ্নসমূহ আৰু ইতিহাস">
 
+<!ENTITY devtools_remote_debugging_forward "পৰ্ট ফৰৱাৰ্ডিং সংস্থাপন কৰিব নাপাহৰিব!">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; ৰ বাবে আপডেইঠ উপলব্ধ">
+<!ENTITY updater_start_select2 "ডাউনল\u0027ড কৰিবলে স্পৰ্শ কৰক">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড কৰা হৈ আছে">
+<!ENTITY updater_downloading_title_failed2 "ডাউনল\u0027ড ব্যৰ্থ হল">
+<!ENTITY updater_downloading_select2 "ডাউনল\u0027ড হোৱাৰ পিছত আপডেইট প্ৰয়োগ কৰিবলে স্পৰ্শ কৰক">
+<!ENTITY updater_downloading_retry2 "পুনৰ চেষ্টা কৰিবলে স্পৰ্শ কৰক">
 
-
-
-
-
+<!ENTITY updater_apply_title2 "&brandShortName; ৰ বাবে আপডেইট উপলব্ধ">
+<!ENTITY updater_apply_select2 "আপডেইট কৰিবলে স্পৰ্শ কৰক">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "নতুন অতিথি অধিবেশন">
+<!ENTITY exit_guest_session "অতিথি অধিবেশন প্ৰস্থান কৰক">
 <!ENTITY guest_session_dialog_continue "চলাই নিয়ক">
+<!ENTITY guest_session_dialog_cancel "বাতিল কৰক">
+<!ENTITY new_guest_session_title "&brandShortName; এতিয়া পুনাৰম্ভ হব">
+<!ENTITY new_guest_session_text "ইয়াক ব্যৱহাৰ কৰা মানুহজনে আপোনাৰ কোনো ব্যক্তিগত তথ্য (যেনে সংৰক্ষিত পাছৱৰ্ড, ইতিহাস অথবা পত্ৰচিহ্ন) চাব নোৱাৰিব। \\nযেতিয়া আপোনাৰ অতিথিৰ কাৰ্য্য সম্পূৰ্ণ হব, তেওঁৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব আৰু আপোনাৰ অধিবেশন পুনাৰম্ভ কৰা হব।">
 
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; এতিয়া পুনাৰম্ভ হব">
+<!ENTITY exit_guest_session_text "এই অধিবেশনৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব।">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!ENTITY actionbar_menu "মেনু">
+<!ENTITY actionbar_done "কৰা হল">
