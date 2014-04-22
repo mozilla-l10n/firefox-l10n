@@ -179,6 +179,7 @@
 
 
 
+<!ENTITY printButton.label "Баспаға шығару">
 <!-- Mail Toolbar Tooltips -->
 
 
@@ -189,6 +190,7 @@
 
 
 
+<!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

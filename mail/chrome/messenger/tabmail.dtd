@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Бетті жабу">
 <!ENTITY  listAllTabs.label        "Барлық беттерді тізіп шығу">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Үйге">

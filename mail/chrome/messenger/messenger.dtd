@@ -8,8 +8,8 @@
 
 <!ENTITY closeTabCmd2.label "Бетті жабу">
 <!ENTITY closeTabCmd2.accesskey "Б">
-<!ENTITY closeOtherTabsCmd2.label "Басқа беттерді жабу">
-<!ENTITY closeOtherTabsCmd2.accesskey "с">
+
+
 <!ENTITY recentlyClosedTabsCmd.label "Жақында жабылған беттер">
 <!ENTITY recentlyClosedTabsCmd.accesskey "ы">
 
@@ -304,8 +304,6 @@
 
 
 
-<!ENTITY thisFolder.label "Бұл бума">
-<!ENTITY thisFolder.accesskey "б">
 <!ENTITY goRecentlyClosedTabs.label "Жақында жабылған беттер">
 <!ENTITY goRecentlyClosedTabs.accesskey "ы">
 
@@ -358,10 +356,6 @@
 
 <!ENTITY copyMsgToMenu.label "Мынаған көшіріп алу">
 <!ENTITY copyMsgToMenu.accesskey "к">
-
-
-
-
 
 
 
@@ -559,6 +553,8 @@
 
 
 
+
+
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Жаңа хат">
@@ -645,8 +641,6 @@
 
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
-
-<!ENTITY columnChooser.tooltip "Көрсетілетін бағандарды таңдау үшін басыңыз">
 
 
 
@@ -858,3 +852,4 @@
 
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Барлығын көрсету">
+<!-- Mac OS X Dock Icon pop-up menu -->
