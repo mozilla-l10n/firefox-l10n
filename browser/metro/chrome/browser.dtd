@@ -59,18 +59,19 @@
 <!ENTITY consoleMessages.label     "বাৰ্তাসমূহ">
 <!ENTITY consoleCodeEval.label     "ক'ড:">
 <!ENTITY consoleClear.label        "আতৰাওক">
-
+<!ENTITY consoleCopyAll.label      "কপি">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "উৎসৰ ফাইল:">
 <!ENTITY consoleErrLine.label      "শাৰী:">
 <!ENTITY consoleErrColumn.label    "স্তম্ভ:">
-
+<!ENTITY consoleFollowCheckbox.label "অনুসৰণ কৰক">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "কাট">
-
+<!ENTITY contextTextCopy.label             "কপি">
 <!ENTITY contextTextPaste.label            "পেইস্ট">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "পেইস্ট কৰক আৰু যাওক">
 <!ENTITY contextTextSelect.label           "বাছক">
 <!ENTITY contextTextSelectAll.label        "সকলো বাছক">
 <!-- LINK CONTEXT MENU -->

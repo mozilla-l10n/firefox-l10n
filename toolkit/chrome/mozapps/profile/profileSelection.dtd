@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "অফলাইন কাম কৰক">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "নিৰ্বাচিত আলেখ্য নসোধাকৈ আৰম্ভণিত ব্যৱহাৰ কৰক">
+<!ENTITY            useSelected.accesskey   "s">
