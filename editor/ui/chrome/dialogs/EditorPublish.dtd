@@ -15,19 +15,19 @@
 <!ENTITY siteList.tooltip             "Tagh an làrach far an dèid fhoillseachadh">
 <!ENTITY newSiteButton.label          "Làrach ùr">
 <!ENTITY newSiteButton.accesskey      "L">
-<!ENTITY docDirList.label             "Fo-eòlaire na làraich airson na duilleige seo:">
+<!ENTITY docDirList.label             "Fo-phasgan na làraich airson na duilleige seo:">
 <!ENTITY docDirList.accesskey         "s">
-<!ENTITY docDirList.tooltip           "Tagh no cuir a-steach ainm an fho-eòlaire chèin airson na duilleige seo">
+<!ENTITY docDirList.tooltip           "Tagh no cuir a-steach ainm an fho-phasgan chèin airson na duilleige seo">
 <!ENTITY publishImgCheckbox.label     "Gabh a-steach dealbhan is faidhlichean eile">
 <!ENTITY publishImgCheckbox.accesskey "G">
 <!ENTITY publishImgCheckbox.tooltip   "Foillsich dealbhan is faidhlichean eile a tha an duilleag seo ag iomradh">
 <!ENTITY sameLocationRadio.label      "Cleachd an dearbh sheòladh 's a tha aig an duilleag">
 <!ENTITY sameLocationRadio.accesskey  "u">
 <!ENTITY sameLocationRadio.tooltip    "Foillsich na faidhlichean far a bheil an duilleag fhèin">
-<!ENTITY useSubdirRadio.label         "Cleachd fo-eòlaire seo na làraich:">
+<!ENTITY useSubdirRadio.label         "Cleachd fo-phasgan seo na làraich:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Foillsich na faidhlichean dhan fho-eòlaire chèin a thagh thu">
-<!ENTITY otherDirList.tooltip         "Tagh no cuir a-steach ainm an fho-eòlaire chèin far an dèid na faidhlichean fhoillseachadh">
+<!ENTITY useSubdirRadio.tooltip       "Foillsich na faidhlichean dhan fho-phasgan chèin a thagh thu">
+<!ENTITY otherDirList.tooltip         "Tagh no cuir a-steach ainm an fho-phasgan chèin far an dèid na faidhlichean fhoillseachadh">
 <!ENTITY pageTitle.label              "Tiotal na duilleige:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Cuir a-steach tiotal air a dh'aithnichear an duilleag san uinneag agus sna comharran-lìn">

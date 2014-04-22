@@ -152,7 +152,7 @@
 <!ENTITY plainTextFormatCmd.accesskey "T">
 <!ENTITY htmlFormatCmd.label "Rich Text (HTML) a-mhàin">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Teacsa lom is Rich (HTML)">
+<!ENTITY bothFormatCmd.label "Teacsa lom is Rich (HTML) Text">
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Prìomhachas">
 <!ENTITY priorityMenu.accesskey "P">

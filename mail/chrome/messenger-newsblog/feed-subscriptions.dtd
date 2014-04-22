@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Às-phortaich inbhirean còmhla ri structar nam pasgan aca; CTRL is briogadh no CTRL ENTER gus na h-inbhirean às-phortadh mar liosta">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Dùin">
