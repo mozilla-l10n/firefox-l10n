@@ -1,9 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY aboutHeader.title          "Baɗte">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-
-
+<!ENTITY aboutHeader.company.label  "Mo &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Tar dawirgol suturo &brandShortName; e ceŋol">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Nana yiyloo kesɗitine…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
