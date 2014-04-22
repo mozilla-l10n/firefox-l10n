@@ -10,8 +10,8 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd2.label "Sekmeyi kapat">
 <!ENTITY closeTabCmd2.accesskey "S">
-<!ENTITY closeOtherTabsCmd2.label "Diğer sekmeleri kapat">
-<!ENTITY closeOtherTabsCmd2.accesskey "D">
+
+
 <!ENTITY recentlyClosedTabsCmd.label "Son kapatılan sekmeler">
 <!ENTITY recentlyClosedTabsCmd.accesskey "a">
 
@@ -439,8 +439,8 @@
 
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "l">
-<!ENTITY messengerCmd.label "E-posta ve haber grupları">
-<!ENTITY messengerCmd.accesskey "p">
+
+
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
@@ -883,3 +883,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Hepsini göster">
+<!-- Mac OS X Dock Icon pop-up menu -->

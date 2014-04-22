@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Varsayılanı yükle">
 <!ENTITY useDefault.accesskey             "V">
 
-<!ENTITY bounceSystemDockIcon.label       "Dock simgesini oynat">
-<!ENTITY bounceSystemDockIcon.accesskey   "o">
+
+
 
 <!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
 <!ENTITY playSound.label                  "Ses dosyası çal">

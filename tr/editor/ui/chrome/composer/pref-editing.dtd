@@ -8,8 +8,8 @@
 <!ENTITY  authorName.accesskey      "a">
 <!ENTITY  pageColorHeader           "Varsayılan sayfa görünümü">
 
-<!ENTITY defaultColors.label        "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
-<!ENTITY defaultColors.accesskey    "t">
+<!ENTITY defaultColors.label        "Okuyucunun varsayılan renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY defaultColors.accesskey    "v">
 <!ENTITY customColors.label         "Özel renkleri kullan:">
 <!ENTITY customColors.accesskey     "r">
 

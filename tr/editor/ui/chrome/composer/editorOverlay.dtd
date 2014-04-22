@@ -72,10 +72,12 @@
 <!ENTITY decreaseFontSize.accesskey "h">
 <!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Daha büyük">
 <!ENTITY increaseFontSize.accesskey "b">
 <!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Boyut">
 <!ENTITY fontSizeMenu.accesskey "B">

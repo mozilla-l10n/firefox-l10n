@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Genel">
-<!ENTITY itemDisplay.label       "Okuma ve görünüm">
+
 <!ENTITY itemUpdate.label        "Güncelleme">
-<!ENTITY itemNetworking.label    "Ağ ve disk alanı">
+
 <!ENTITY itemCertificates.label  "Onay belgeleri">
 <!-- General Settings -->
 
@@ -64,17 +64,14 @@
 <!-- Update -->
 
 
-
-
-
-
+<!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">
+<!ENTITY updateManual.accesskey          "a">
 <!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
 <!ENTITY updateAutoAddonWarn.accesskey   "B">
-
-
-
-
-
+<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
+<!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "G">
