@@ -103,4 +103,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavi &syncBrand.shortName.label; za pošiljanje zavihkov'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavi &syncBrand.fullName.label; na svoji napravi za pošiljanje zavihkov na druge naprave.'>
 <!ENTITY sync.text.tab.sent.label 'Zavihek je bil poslan!'>
-<!ENTITY sync.text.tab.not.sent.label 'Prišlo je do napake pri pošiljanje vašega zavihka.'>
+<!ENTITY sync.text.tab.not.sent.label 'Prišlo je do napake pri pošiljanju vašega zavihka.'>
