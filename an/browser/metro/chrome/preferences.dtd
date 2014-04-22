@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Sesions activas">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recordar as claus">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Amostrar botons de navegación">
 <!ENTITY doNotTrack.title                                        "No quiero que me sigan o bayo">
 <!ENTITY doNotTrack.options.doNotTrack                           "Indicar a os puestos web que no quiero que me sigan o bayo">
 <!ENTITY doNotTrack.options.doTrack                              "Indicar a os puestos web que quiero que me sigan o bayo">
