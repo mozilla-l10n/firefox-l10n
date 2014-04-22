@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.alarmgoesoff.label "Quando un allarme si attiva:">
 <!ENTITY pref.playasound "Esegui un suono">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "E">
@@ -27,3 +28,5 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Indirizzo predefinito a cui inviare gli allarmi:">
 <!ENTITY pref.defaulttext.label "Testo predefinito per gli allarmi:">
+<!ENTITY pref.defaultsnoozelength.label "Lunghezza predefinita snooze:">
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

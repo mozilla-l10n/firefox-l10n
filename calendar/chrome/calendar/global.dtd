@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY time.midnight "Mezzanotte">
 <!ENTITY time.noon "Mezzogiorno">
 <!ENTITY day.1.Ddd "Dom">
@@ -24,12 +25,6 @@
 <!ENTITY day.5.name "Giovedì">
 <!ENTITY day.6.name "Venerdì">
 <!ENTITY day.7.name "Sabato">
-<!ENTITY calendar.global.units.minute "minuto">
-<!ENTITY calendar.global.units.minutes "minuti">
-<!ENTITY calendar.global.units.hour "ora">
-<!ENTITY calendar.global.units.hours "ore">
-<!ENTITY calendar.global.units.day "giorno">
-<!ENTITY calendar.global.units.days "giorni">
 <!ENTITY month.1.name "Gennaio">
 <!ENTITY month.2.name "Febbraio">
 <!ENTITY month.3.name "Marzo">
