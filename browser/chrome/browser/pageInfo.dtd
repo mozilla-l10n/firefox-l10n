@@ -55,7 +55,7 @@
 <!ENTITY  permUseDefault        "Օգտագործել Սկզբնականը">
 <!ENTITY  permAskAlways         "Միշտ հարցնել">
 <!ENTITY  permAllow             "Թույլատրել">
-<!ENTITY  permAllowSession      "Թույլ տալ">
+<!ENTITY  permAllowSession      "Թույլատրել այս անգամ">
 <!ENTITY  permBlock             "Արգելել">
 <!ENTITY  permissionsFor        "Թույլատրելիությունները `">
 <!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
