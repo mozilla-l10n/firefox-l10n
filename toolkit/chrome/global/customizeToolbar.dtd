@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Прилагоди алатну траку">
-<!ENTITY dialog.dimensions        "width: 50em; height: 35em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Можете да додате или уклоните ставке превлачећи их до или од алатне траке.">
 <!ENTITY show.label               "Прикажи:">
 <!ENTITY iconsAndText.label       "Слике и текст">
