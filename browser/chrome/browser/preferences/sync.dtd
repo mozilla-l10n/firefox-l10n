@@ -34,7 +34,7 @@
 <!ENTITY engine.passwords.accesskey "G">
 <!ENTITY engine.prefs.label         "Nastavitve">
 <!ENTITY engine.prefs.accesskey     "N">
-<!ENTITY engine.addons.label        "Dodatki">
+<!ENTITY engine.addons.label        "Dodatke">
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
