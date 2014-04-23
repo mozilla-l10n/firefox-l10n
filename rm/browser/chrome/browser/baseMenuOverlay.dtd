@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Trametter in resun…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
+<!ENTITY helpShowTour.label             "Tura da &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "u">
+
 <!ENTITY preferencesCmdMac.label        "Preferenzas…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
