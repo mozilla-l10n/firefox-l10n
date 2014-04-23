@@ -11,8 +11,8 @@
 
 <!-- Flyout when setting up sync -->
 <!ENTITY sync.flyout.setup.title               "Nastavi &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.setup.description1        "Če imate račun za storitev &syncBrand.shortName.label;, izberite &quot;Dodaj napravo&quot; na vaši drugi napravi in vnesite to kodo.">
-<!ENTITY sync.flyout.setup.description2        "Če nimate računa za storitev &syncBrand.shortName.label;, si ga lahko ustvarite v &brandShortName;u na namizju.">
+<!ENTITY sync.flyout.setup.description1        "Če imate račun za &syncBrand.shortName.label;, izberite &quot;Dodaj napravo&quot; na vaši drugi napravi in vnesite to kodo.">
+<!ENTITY sync.flyout.setup.description2        "Če nimate računa za &syncBrand.shortName.label;, si ga lahko ustvarite v &brandShortName;u na namizju.">
 <!ENTITY sync.flyout.setup.manual.label_2      "Nisem blizu svojega računalnika …">
 <!ENTITY sync.flyout.setup.description3        "Opomba:">
 <!ENTITY sync.flyout.setup.description4_2      "Možnost &quot;Dodaj napravo&quot; najdete tako: ">
@@ -20,15 +20,15 @@
 <!ENTITY sync.flyout.setup.description6_2      "[Android] Več &gt; Nastavitve &gt; &syncBrand.shortName.label;">
 
 <!-- Flyout when setting up manually -->
-<!ENTITY sync.flyout.manualsetup.description1_2  "Vnesite podatke o računu za storitev &syncBrand.shortName.label; in obnovitveni ključ, ki ga ustvari vaš računalnik">
+<!ENTITY sync.flyout.manualsetup.description1_2  "Vnesite podatke o računu za &syncBrand.shortName.label; in obnovitveni ključ, ki ga ustvari vaš računalnik">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Ime računa">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Geslo">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Obnovitveni ključ">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Poveži">
 
 <!-- Flyout when user has just connected -->
-<!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; ste pravkar povezali z računom za storitev &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.setupsuccess.description2      "Podatki storitve &syncBrand.shortName.label; se prenašajo v ozadju. Sinhronizirane zavihke lahko najdete na domači strani &brandShortName;a">
+<!ENTITY sync.flyout.setupsuccess.description1      "&brandShortName; ste pravkar povezali z računom za &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Podatki &syncBrand.shortName.label; se prenašajo v ozadju. Sinhronizirane zavihke lahko najdete na domači strani &brandShortName;a">
 
 <!-- Flyout when setup failed -->
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName; se ni uspel povezati z vašim računom za &syncBrand.shortName.label;.">
@@ -39,8 +39,8 @@
 <!ENTITY sync.flyout.connected.account                    "Račun:">
 <!ENTITY sync.flyout.connected.device                     "Vaša naprava:">
 <!ENTITY sync.flyout.connected.disconnect                 "Prekini povezavo">
-<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Prekini povezavo naprave s storitvijo &syncBrand.shortName.label;?">
-<!ENTITY sync.flyout.connected.disconnectWarning          "Vsi vaši osebni podatki, tako na napravi kot na računu storitve &syncBrand.shortName.label; bodo ostali nedotaknjeni.">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Prekini povezavo naprave s &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Vsi vaši osebni podatki, tako na napravi kot na računu &syncBrand.shortName.label; bodo ostali nedotaknjeni.">
 <!ENTITY sync.flyout.connected.cancel                     "Prekliči">
 <!ENTITY sync.flyout.connected.pair                       "Dodaj napravo">
 
@@ -55,4 +55,4 @@
 
 <!-- Flyout when a device has been successfully paired -->
 <!ENTITY sync.flyout.pairSuccess.description1             "Nova naprava je bila uspešno dodana.">
-<!ENTITY sync.flyout.pairSuccess.description2             "Podatki storitve &syncBrand.shortName.label; se prenašajo v ozadju. Oddaljene zavihke lahko najdete na domači strani &brandShortName;a.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Podatki &syncBrand.shortName.label; se prenašajo v ozadju. Oddaljene zavihke lahko najdete na domači strani &brandShortName;a.">
