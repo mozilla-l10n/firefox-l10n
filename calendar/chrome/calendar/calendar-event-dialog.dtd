@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Vége" >
 <!ENTITY newevent.attendees.notify.label    "Résztvevők értesítése">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "A résztvevő titokban tartása a meghívókban">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "A résztvevők nem fogják látni egymást a meghívókban. Csak az e-mail meghívókra vonatkozik.">
+
 <!ENTITY newevent.status.label                    "Állapot" >
 <!ENTITY newevent.status.accesskey                "l">
 <!ENTITY newevent.eventStatus.none.label          "Nem megadott" >
@@ -99,12 +102,6 @@
 <!ENTITY event.menu.options.accesskey                        "B">
 <!ENTITY  event.menu.options.attendees.label                  "Résztvevők meghívása…">
 <!ENTITY event.menu.options.attendees.accesskey              "R">
-<!ENTITY  event.menu.options.spellcheck.label                 "Helyesírás-ellenőrzés…">
-<!ENTITY event.menu.options.spellcheck.accesskey             "H">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Helyesírás-ellenőrzés írás közben">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey      "e">
-<!ENTITY  event.menu.options.link.label                       "Hivatkozás hozzáadása…">
-<!ENTITY event.menu.options.link.accesskey                   "v">
 <!ENTITY  event.menu.options.timezone2.label                  "Időzónák megjelenítése">
 <!ENTITY event.menu.options.timezone2.accesskey              "I">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritás">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Mentés és bezárás">
 <!ENTITY  event.toolbar.delete.label                      "Törlés">
 <!ENTITY  event.toolbar.attendees.label                   "Résztvevők meghívása">
-<!ENTITY  event.toolbar.spellcheck.label                  "Helyesírás-ellenőrzés">
 <!ENTITY  event.toolbar.privacy.label                     "Adatvédelem">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Mentés és bezárás">
 <!ENTITY  event.toolbar.delete.tooltip                    "Törlés">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Résztvevők meghívása">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Helyesírás-ellenőrzés">
 <!ENTITY  event.toolbar.attachments.tooltip               "Mellékletek hozzáadása">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Adatvédelem módosítása">
 <!ENTITY  event.toolbar.priority.tooltip                  "Prioritás módosítása">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategória:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Új kategória hozzáadása" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "Naptár:" >
 <!ENTITY event.calendar.accesskey                         "N">
 <!ENTITY event.attendees.label                            "Résztvevők:" >
@@ -373,5 +367,4 @@
 <!ENTITY read.only.reminder.label        "Emlékeztető:">
 <!ENTITY read.only.attendees.label       "Résztvevők">
 <!ENTITY read.only.description.label     "Leírás">
-<!ENTITY read.only.documents.label       "Dokumentumok">
 <!ENTITY read.only.link.label            "Kapcsolódó hivatkozás">

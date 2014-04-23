@@ -108,13 +108,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Firefox fiókok jelölőnégyzet grafika'>
-<!ENTITY fxaccount_icon_contentDescription2 'Firefox fiókok ikon'>
-<!ENTITY fxaccount_intro_contentDescription2 'Firefox fiókok bemutató grafika'>
-<!ENTITY fxaccount_mail_contentDescription2 'Firefox fiókok boríték grafika'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -139,11 +132,11 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Firefox fiók létrehozása'>
+<!ENTITY fxaccount_create_account_header2 'Firefox fiók létrehozása'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Legalább 8 karakternek kell lennie'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Születési év'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'A folytatással elfogadom a Firefox online szolgáltatások &formatS1; és az &formatS2;.'>
+<!ENTITY fxaccount_create_account_policy_text 'A folytatással elfogadom a Firefox felhő szolgáltatások &formatS1; és az &formatS2;.'>
 <!ENTITY fxaccount_create_account_button 'Tovább'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Válassza ki, mit szinkronizál'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Már van fiókja? Jelentkezzen be'>
@@ -174,7 +167,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Bejelentkezés'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Nem sikerült a bejelentkezés'>
 
-<!ENTITY fxaccount_status_header 'Firefox fiók'>
+<!ENTITY fxaccount_status_header2 'Firefox fiók'>
+<!ENTITY fxaccount_status_signed_in_as 'Bejelentkezve mint'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: engedélyezve'>
 <!ENTITY fxaccount_status_needs_verification2 'Fiókját ellenőrizni kell. Koppintson az ellenőrző e-mail újraküldéséhez.'>
@@ -185,6 +179,13 @@
 <!ENTITY fxaccount_status_passwords 'Jelszavak'>
 <!ENTITY fxaccount_status_tabs 'Nyitott lapok'>
 <!ENTITY fxaccount_status_legal 'Legális' >
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Felhasználási feltételek'>
+<!ENTITY fxaccount_status_linkprivacy 'Adatvédelmi megjegyzések'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
