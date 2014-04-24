@@ -18,5 +18,5 @@
 
 <!ENTITY reportPhishSite.label         "Upozorniť na podvodnú stránku…">
 <!ENTITY reportPhishSite.accesskey     "U">
-<!ENTITY notAForgery.label             "Toto nie je podovodná stránka…">
+<!ENTITY notAForgery.label             "Toto nie je podvodná stránka…">
 <!ENTITY notAForgery.accesskey         "T">
