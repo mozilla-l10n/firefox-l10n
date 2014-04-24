@@ -51,13 +51,13 @@
 <!ENTITY netInterrupt.title "ਡਾਟਾ ਸੰਚਾਰ ਦੌਰਾਨ ਗਲਤੀ">
  <!ENTITY netInterrupt.longDesc "<p>ਬਰਾਊਜ਼ਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੁਨੈਕਟ ਹੋ ਗਿਆ ਸੀ, ਪਰ ਜਾਣਕਾਰੀ ਟਰਾਂਸਫਰ ਹੋਣ ਦੌਰਾਨ ਕੁਨੈਕਟ ਖਤਮ ਹੋ ਗਿਆ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p><ul><li>ਕੀ ਤੁਸੀਂ ਹੋਰ ਸਾਇਟਾਂ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ? ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
  
-<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.title "ਡੌਕੂਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "Unknown Protocol">
+<!ENTITY unknownProtocolFound.title "ਅਣਜਾਣ ਪ੍ਰੋਟੋਕਾਲ">
 <!ENTITY unknownProtocolFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title           "Would you like to send Mozilla crash reports?">
+<!ENTITY crashprompt.title           "ਕੀ ਤੁਸੀਂ ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਣੀ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY crashprompt.message         "We are sorry, &brandShortName; just recovered from a crash. Sending crash reports will help Mozilla make &brandShortName; more stable and secure. You can always change your preference in Settings/Options.">
 <!ENTITY crashprompt.detailsLink     "What's in a crash report?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
@@ -13,9 +13,9 @@
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "We use crash reports to try to fix problems and improve our products. We handle your information as we describe in our ">
-<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; privacy policy">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; ਪਰਦੇਦਾਰੀ ਨੀਤੀ">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
 <!ENTITY crashprompt.acceptbutton    "ਰਿਪੋਰਟਾਂ ਭੇਜੋ">
 <!ENTITY crashprompt.refusebutton    "ਨਾ ਭੇਜੋ">
-<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; privacy policy">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; ਪਰਦੇਦਾਰੀ ਨੀਤੀ">

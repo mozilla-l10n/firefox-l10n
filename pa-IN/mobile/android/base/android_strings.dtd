@@ -15,10 +15,10 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕਣ">
 <!ENTITY  crash_include_url2 "ਪੇਜ਼, ਜੋ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ ਸਿਰਨਾਵਾਂ ਸਮੇਤ">
 <!ENTITY  crash_sorry "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ">
-<!ENTITY  crash_comment "ਟਿੱਪਣੀ ਸ਼ਾਮਲ (ਟਿੱਪਣੀ ਪਬਲਿਕ ਰੂਪ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
+<!ENTITY  crash_comment "ਟਿੱਪਣੀ ਸ਼ਾਮਿਲ (ਟਿੱਪਣੀ ਪਬਲਿਕ ਰੂਪ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; ਨੂੰ ਇਸ ਰਿਪੋਰਟ ਬਾਰੇ ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਦਿਉ">
 <!ENTITY  crash_email "ਤੁਹਾਡੀ ਈਮੇਲ">
 <!ENTITY  crash_closing_alert "ਬਿਨਾਂ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੇ ਹੀ ਬੰਦ ਕਰਨਾ ਹੈ?">
@@ -67,9 +67,9 @@
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
-<!ENTITY pref_category_search3 "Search">
+<!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_display "ਵੇਖਾਉਣਾ">
-<!ENTITY pref_category_privacy_short "ਪਰਾਈਵੇਸੀ">
+<!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
 <!ENTITY pref_category_installed_search_engines "ਇੰਸਟਾਲ ਹੋਏ ਖੋਜ ਇੰਜਣ">
@@ -82,36 +82,36 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
+<!ENTITY pref_search_hint "ਟੋਟਕਾ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖ ਕੇ ਅਤੇ ਫੇਰ &formatI; ਆਈਕਾਨ ਛੂਹ ਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 <!ENTITY pref_developer_remotedebugging_docs "ਹੋਰ ਜਾਣੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
 
-<!ENTITY pref_category_home "Home">
-<!ENTITY pref_category_home_summary "Customize your homepage">
-<!ENTITY pref_category_home_panels "Panels">
-<!ENTITY pref_home_add_panel "Add panel">
-<!ENTITY home_add_panel_title "Add new panel">
-<!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
+<!ENTITY pref_category_home "ਮੁੱਖ-ਸਫ਼ਾ">
+<!ENTITY pref_category_home_summary "ਆਪਣਾ ਮੁੱਖ-ਸਫ਼ਾ ਪਸੰਦੀਦਾ ਬਣਾਓ">
+<!ENTITY pref_category_home_panels "ਪੈਨਲ">
+<!ENTITY pref_home_add_panel "ਪੈਨਲ ਜੋੜੋ">
+<!ENTITY home_add_panel_title "ਨਵਾਂ ਪੈਨਲ ਜੋੜੋ">
+<!ENTITY home_add_panel_empty "ਅਫਸੋਸ, ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਜੋੜਨ ਵਾਸਤੇ ਕੋਈ ਹੋਰ ਪੈਨਲ ਨਹੀਂ ਲੱਭਿਆ।">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' added to homepage">
-<!ENTITY pref_category_home_content_settings "Content settings">
-<!ENTITY pref_home_updates "Automatic updates">
-<!ENTITY pref_home_updates_enabled "Enabled">
-<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
+<!ENTITY home_add_panel_installed "\'&formatS;\' ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜੋੜਿਆ">
+<!ENTITY pref_category_home_content_settings "ਸਮੱਗਰੀ ਸੈਟਿੰਗ">
+<!ENTITY pref_home_updates "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
+<!ENTITY pref_home_updates_enabled "ਚਾਲੂ ਹੈ">
+<!ENTITY pref_home_updates_wifi "ਕੇਵਲ Wi-Fi ਉੱਤੇ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "ਕਸਟਮਾਈਜ਼">
+<!ENTITY pref_header_customize "ਪਸੰਦੀਦਾ">
 <!ENTITY pref_header_display "ਡਿਸਪਲੇਅ">
-<!ENTITY pref_header_privacy_short "ਪਰਾਈਵੇਸੀ">
-<!ENTITY pref_header_help "ਮੱਦਦ">
+<!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
+<!ENTITY pref_header_help "ਮਦਦ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
@@ -121,8 +121,8 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "ਪਸੰਦ">
 <!ENTITY pref_header_display "ਵੇਖਾਓ">
-<!ENTITY pref_header_privacy_short "ਪਰਾਈਵੇਸੀ">
-<!ENTITY pref_header_help "ਮੱਦਦ">
+<!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
+<!ENTITY pref_header_help "ਮਦਦ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 
@@ -184,9 +184,9 @@ size. -->
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY pref_vendor_feedback "ਸੁਝਾਅ ਦਿਓ">
 
-<!ENTITY pref_dialog_set_default "Set as default">
-<!ENTITY pref_dialog_default "Default">
-<!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_dialog_set_default "ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
+<!ENTITY pref_dialog_default "ਮੂਲ">
+<!ENTITY pref_dialog_remove "ਹਟਾਓ">
 
 <!ENTITY pref_search_last_toast "ਤੁਸੀਂ ਆਪਣਾ ਆਖਰੀ ਖੋਜ ਇੰਜਣ ਹਟਾ ਨਹੀਂ ਸਕਦੇ ਤੇ ਨਾ ਹੀ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 
@@ -218,7 +218,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY datareporting_wifi_title "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ">
-<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
+<!ENTITY datareporting_wifi_summary "ਓਪਨ ਵੈੱਬ ਲਈ ਭੂਗੋਲਿਕ ਸੇਵਾਵਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ &brandShortName; ਨੂੰ ਅਗਿਆਤ ਰੂਪ ਵਿੱਚ ਸੈਲੂਲਰ ਟਾਵਰ ਡਾਟਾ ਇੱਕਠਾ ਕਰਨ ਅਤੇ ਅਗਿਆਤ ਰੂਪ ਵਿੱਚ ਭੇਜਣ ਦਿਉ">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -271,7 +271,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_open_in_reader "ਰੀਡਰ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_remove "ਹਟਾਓ">
-<!ENTITY contextmenu_add_to_launcher "ਮੁੱਖ ਸਕਰੀਨ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY contextmenu_add_to_launcher "ਮੁੱਖ ਸਕਰੀਨ ਵਿੱਚ ਸ਼ਾਮਿਲ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਜਾਓ">
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
@@ -332,7 +332,7 @@ size. -->
 <!ENTITY home_top_sites_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਲ">
+<!ENTITY home_top_sites_add "ਸਾਈਟ ਸ਼ਾਮਿਲ">
 
 <!ENTITY home_history_title "ਅਤੀਤ">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਵੇਖਾਈ ਦੇਣਗੇ।">
@@ -394,7 +394,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "ਐਡਰਾਇਡ ਤੋਂ ਅਤੀਤ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY bookmarkhistory_import_wait "...ਉਡੀਕੋ ਜੀ">
 
-<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
+<!ENTITY suggestions_prompt3 "ਕੀ ਤੁਸੀਂ ਖੋਜ ਸੁਝਾਅ ਪ੍ਰਾਪਤ ਕਰਨੇ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

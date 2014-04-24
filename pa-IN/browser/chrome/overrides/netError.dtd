@@ -83,7 +83,7 @@
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋ ਗਿਆ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.title "ਐਡਰੈਸ ਦੀ ਸਮਝ ਨਹੀਂ ਆਈ">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>You might need to install other software to open this address.</li>
