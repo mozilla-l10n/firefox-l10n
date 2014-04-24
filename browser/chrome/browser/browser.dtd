@@ -729,7 +729,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY tabCrashed.header "Karta zlyhala">
-<!ENTITY tabCrashed.message "Tak toto je nepríjemné. Pokúsili sme sa zobraziť túto webovú stránku, ale bohužial stránka neodpovedá.">
+<!ENTITY tabCrashed.message "Tak toto je nepríjemné. Pokúsili sme sa zobraziť túto webovú stránku, ale stránka bohužiaľ neodpovedá.">
 <!ENTITY tabCrashed.checkSendReport "Oznámiť spoločnosti &vendorShortName; toto zlyhanie, aby ho bolo možné opraviť.">
 <!ENTITY tabCrashed.tryAgain "Skúsiť znova">
 
@@ -749,7 +749,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY feedButton.label              "Odber">
 <!ENTITY feedButton.tooltip            "Prihlásiť sa k odberu kanála tejto stránky…">
 <!ENTITY bookmarksButton.tooltip       "Zobraziť záložky">
-<!ENTITY historyButton.tooltip         "Zobraziť naposledy prezerané stránkyy">
+<!ENTITY historyButton.tooltip         "Zobraziť naposledy prezerané stránky">
 <!ENTITY viewTabsOnTop.label           "Karty navrchu">
 <!ENTITY viewTabsOnTop.accesskey       "K">
 <!ENTITY appMenuEdit.label             "Úpravy">
