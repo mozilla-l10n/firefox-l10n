@@ -16,6 +16,8 @@
 
 
 
+
+
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -46,13 +48,15 @@
 
 
 
+
 <!ENTITY consoleErrFile.label      "Tập tin Nguồn:">
 <!ENTITY consoleErrLine.label      "Dòng:">
 <!ENTITY consoleErrColumn.label    "Cột:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Cắt">
-<!ENTITY contextTextCopy.label             "Chép">
+
 <!ENTITY contextTextPaste.label            "Dán">
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextSelect.label           "Chọn">
@@ -81,7 +85,37 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
 
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "Hiểu rồi!">

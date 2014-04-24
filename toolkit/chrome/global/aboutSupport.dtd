@@ -12,8 +12,7 @@ về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> c�
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Định danh Báo cáo">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
+
 
 
 
@@ -21,7 +20,15 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Tên">
 <!ENTITY aboutSupport.extensionEnabled "Kích hoạt">
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Mô tả">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Trang chủ">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Cơ bản về Chương trình">
 <!ENTITY aboutSupport.appBasicsName "Tên">

@@ -35,6 +35,9 @@
 <!ENTITY helpFeedbackPage.label      "Gửi phản hồi…">
 <!ENTITY helpFeedbackPage.accesskey  "n">
 
+<!ENTITY helpShowTour.label             "Dạo một vòng quanh &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "o">
+
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

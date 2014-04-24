@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Hết thời gian Kết nối">
 <!ENTITY netTimeout.longDesc "<p>Trang không phản hồi yêu cầu và trình duyệt đã ngừng chờ đợi trả lời.</p><ul><li>Có thể máy chủ đang bị nhiều truy xuất hoặc mất điện tạm thời? Hãy thử lại sau.</li><li>Bạn cũng không thể duyệt trang khác? Hãy kiểm tra kết nối mạng.</li><li>Máy tính hoặc mạng của bạn có được bảo vệ bởi tường lửa hoặc proxy?  Thiết lập sai có thể ảnh hưởng việc duyệt Web.</li><li>Vẫn gặp vấn đề? Hỏi ý quản trị mạng hoặc nhà cung cấp Internet của bạn để được trợ giúp.</li><li>Hoặc, có thể truy cập trình đơn 'Trợ giúp' ở trên để tìm hỗ trợ.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Giao thức Chưa biết">
-<!ENTITY protocolNotFound.longDesc "<p>Địa chỉ xác định một giao thức (vd. <q>wxyz://</q>) mà trình duyệt không nhận ra, nên trình duyệt không thể kết nối đúng tới trang web.</p><ul><li>Bạn có đang cố truy cập thông tin đa phương tiện hoặc các dịch vụ phi văn bản không? Hãy kiểm tra các yêu cầu bổ sung của trang web.</li><li>Một số giao thức có thể yêu cầu phần mềm hay phần bổ trợ của hãng thứ ba trước khi trình duyệt có thể nhận dạng chúng.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Giao thức Chưa biết">
+<!ENTITY unknownProtocolFound.longDesc "<p>Địa chỉ xác định một giao thức (vd. <q>wxyz://</q>) mà trình duyệt không nhận ra, nên trình duyệt không thể kết nối đúng tới trang web.</p><ul><li>Bạn có đang cố truy cập thông tin đa phương tiện hoặc các dịch vụ phi văn bản không? Hãy kiểm tra các yêu cầu bổ sung của trang web.</li><li>Một số giao thức có thể yêu cầu phần mềm hay phần bổ trợ của hãng thứ ba trước khi trình duyệt có thể nhận dạng chúng.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Máy chủ Proxy Từ chối Kết nối">
 <!ENTITY proxyConnectFailure.longDesc "<p>Trình duyệt được cấu hình để dùng máy chủ proxy, nhưng proxy đã từ chối kết nối.</p><ul><li>Cấu hình proxy cho trình duyệt đã đúng chưa? Hãy kiểm tra thiết lập và thử lại.</li><li>Dịch vụ proxy có cho phép kết nối từ hệ thống mạng này?</li><li>Vẫn gặp vấn đề? Hỏi ý quản trị mạng hoặc nhà cung cấp Internet của bạn để được trợ giúp.</li></ul>">

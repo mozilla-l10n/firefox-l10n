@@ -70,8 +70,8 @@
 <!ENTITY netTimeout.title "Kết nối bị hết thời gian">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Địa chỉ không thể hiểu được">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Địa chỉ không thể hiểu được">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Có lẽ bạn cần phải cài đặt phần mềm khác để mở địa chỉ này.</li> 
 </ul>">
 

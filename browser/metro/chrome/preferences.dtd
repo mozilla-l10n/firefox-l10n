@@ -31,7 +31,9 @@
 
 
 
+
 <!ENTITY optionsHeader.reporting.title                           "Trình Báo Lỗi">
 
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Bao gồm địa chỉ trang web tôi đang xem">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 
