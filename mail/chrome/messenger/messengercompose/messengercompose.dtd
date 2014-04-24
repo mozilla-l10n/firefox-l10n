@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M"> 
-<!ENTITY findCmd.label "Sök och ersätt…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Sök…">
+<!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Sök och ersätt…">
+<!ENTITY findReplaceCmd.accesskey "r">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Sök nästa">
 <!ENTITY findAgainCmd.key "G">
@@ -236,7 +238,7 @@
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Infoga en smilis">
+<!ENTITY SmileButton.tooltip "Infoga smiley">
 <!ENTITY smiley1Cmd.label "Ler">
 <!ENTITY smiley2Cmd.label "Bister">
 <!ENTITY smiley3Cmd.label "Blinkar">
