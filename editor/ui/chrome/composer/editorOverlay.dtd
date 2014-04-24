@@ -11,7 +11,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Incolla come citazione">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Trova e sostituisci…">
+<!ENTITY findBarCmd.label "Trova…">
+<!ENTITY findReplaceCmd.label "Trova e sostituisci…v">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
@@ -32,6 +33,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matematica…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caratteri e simboli…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "A capo dopo immagini">
