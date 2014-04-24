@@ -12,11 +12,13 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection " Browser Hangs">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   ရိုးရှင်းသော တိုင်းတာချက်များ">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "   Add-on Details">
 
 <!ENTITY aboutTelemetry.lateWritesSection "နောက်ကျသောရေးသားချက်">
 
@@ -24,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Histograms Collected by Add-ons">
 
+<!ENTITY aboutTelemetry.toggle "  Click to toggle section">
 
 <!ENTITY aboutTelemetry.emptySection "  (No data collected)">
 

@@ -13,6 +13,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart4               "သီးသန့်သုံးဆွဲရန်အတွက် မီနူး  မှ &newPrivateWindow.label; ကိုရွေးချယ်သုံးဆွဲနိုင်ပါသှ်">
 <!ENTITY privatebrowsingpage.howToStop3                "လုံခြုံရေးအထူးစနစ်အား ရပ်တန့်ရန် ယခုဝင်းဒိုးအားပိတ်ပစ်နိုင်သည်။">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "ဒီကွန်ပြူတာမှာ သင့်ရဲ့ လှော်​လှန်ကြည့်ခြင်း မှတ်တမ်းကို မှတ်သား မထားပေမဲ့၊ သင့်ရဲ့ အင်တာနက် ၀န်ဆောင်မှု ပေးသူ (သို့) လုပ်ငန်းရှင်က သင်ကြည့်ရှုတဲ့ စာမျက်နှာများကို ခြေရာခံနိုင်သေးတယ်။">
