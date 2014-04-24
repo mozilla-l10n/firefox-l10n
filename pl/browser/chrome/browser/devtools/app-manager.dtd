@@ -12,7 +12,7 @@
 <!ENTITY device.title "Menedżer urządzeń">
 <!ENTITY device.notConnected "Nie połączono. Połącz z urządzeniem poniżej.">
 <!ENTITY device.startApp "Start">
-<!ENTITY device.startAppTooltip "Uruchamia plikację na urządzeniu">
+<!ENTITY device.startAppTooltip "Uruchamia aplikację na urządzeniu">
 <!ENTITY device.stopApp "Stop">
 <!ENTITY device.stopAppTooltip "Zatrzymuje aplikację na urządzeniu">
 <!ENTITY device.debugApp "Debuguj">
@@ -94,7 +94,7 @@
 <!ENTITY help.close "Zamknij">
 <!ENTITY help.intro "To narzędzie pomaga budować i instalować aplikacje na zgodnych urządzeniach (np. Firefox OS). W karcie <strong>Aplikacje</strong> można zainstalować i zweryfikować wybraną aplkiację. Karta <strong>Urządzenie</strong> dostarcza informacje o podłączonym urządzeniu. Dolny pasek pozwala połączyć się z urządzeniem lub uruchomić symulator.">
 <!ENTITY help.usefullLinks "Użyteczne odnośniki:">
-<!ENTITY help.appMgrDoc "Dokumentacja: używanie mendżera aplikacji">
+<!ENTITY help.appMgrDoc "Dokumentacja: używanie menedżera aplikacji">
 <!ENTITY help.configuringDevice "Jak skonfigurować urządzenie z Firefox OS">
 <!ENTITY help.troubleShooting "Rozwiązywanie problemów">
 <!ENTITY help.simulatorAddon "Zainstaluj symulator jako dodatek">

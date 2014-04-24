@@ -23,7 +23,7 @@
 <!ENTITY sync.flyout.manualsetup.connect.label "Połącz">
 
 <!ENTITY sync.flyout.setupsuccess.description1 "&brandShortName; został podłączony do konta &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.setupsuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchornizowane karty można znaleźć na stronie startowej programu &brandShortName;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchronizowane karty można znaleźć na stronie startowej programu &brandShortName;">
 
 <!ENTITY sync.flyout.setupfailure.description "&brandShortName; nie mógł się połączyć z kontem &syncBrand.shortName.label;.">
 <!ENTITY sync.flyout.setupfailure.cancelButton "Anuluj">
@@ -46,4 +46,4 @@
 <!ENTITY sync.flyout.pairNewDevice.failure "Proszę spróbować ponownie">
 
 <!ENTITY sync.flyout.pairSuccess.description1 "Dodano nowe urządzenie.">
-<!ENTITY sync.flyout.pairSuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchornizowane karty można znaleźć na stronie startowej programu &brandShortName;.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Dane z konta &syncBrand.shortName.label; są pobierane w tle. Zsynchronizowane karty można znaleźć na stronie startowej programu &brandShortName;.">

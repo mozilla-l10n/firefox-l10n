@@ -60,7 +60,7 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Konsola WWW">
 
-<!ENTITY options.timestampMessages.label "Znaczniki czasy">
+<!ENTITY options.timestampMessages.label "Znaczniki czasu">
 <!ENTITY options.timestampMessages.tooltip "Po włączeniu tej opcji komendy i ich wyjście w konsoli WWW będą wyświetlane obok znaczników czasu">
 
 <!ENTITY options.styleeditor.label "Edytor stylów">
