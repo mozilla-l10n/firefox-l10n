@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Ebiwanuddwa">
 
-<!ENTITY showWhenDownloading.label     "Laga edirisa lye ebitikulwa nga otikula fayiro">
-<!ENTITY showWhenDownloading.accesskey "f">
-<!ENTITY closeWhenDone.label "Ggalawo ng'omalirizza okuwanula">
-<!ENTITY closeWhenDone.accesskey "n">
 <!ENTITY saveTo.label "Teleka fayiro ku">
 <!ENTITY saveTo.accesskey "l">
 <!ENTITY chooseFolderWin.label        "Noonya…">

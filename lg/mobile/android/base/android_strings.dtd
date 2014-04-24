@@ -47,12 +47,13 @@
 <!ENTITY history_older_section "Ebisuuse munnaku 7">
 
 <!ENTITY go "Genda">
-<!ENTITY search "Noonya">
+
 <!ENTITY reload "Ddamu otikke">
 <!ENTITY forward "Mumasso">
 
 <!ENTITY back "Emabega">
-<!ENTITY stop "Yimiriza">
+
+
 
 
 <!ENTITY close_tab "Ggalawo Awaddirira">
@@ -72,13 +73,32 @@
 
 
 
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 
 
 
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
+
+
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -127,8 +147,8 @@ size. -->
 <!ENTITY pref_sync "Tusaganya">
 <!ENTITY pref_search_suggestions "Laga ebirowoozo by\u0027okunoonya">
 
-<!ENTITY pref_private_data_history "Ebifudeyo mu\u0027kunoonya &amp; mu\u0027kutikula">
-<!ENTITY pref_private_data_formdata "Ebifudeyo ku fomu &amp; okunoonya">
+
+
 
 <!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
@@ -141,8 +161,11 @@ size. -->
 
 <!ENTITY pref_vendor_feedback "Waayo ekyokuddamu">
 
-<!ENTITY pref_search_default "eky\u0027enkalakalira">
+<!ENTITY pref_dialog_default "eky\u0027enkalakalira">
 
+
+
+<!ENTITY pref_panels_show "Laga">
 
 
 
@@ -185,6 +208,7 @@ size. -->
 <!ENTITY save_as_pdf "Tereka nga PDF">
 <!ENTITY find_in_page "Zzula mu Muko">
 <!ENTITY desktop_mode "Saaba Ekibanja Kumeza">
+
 <!ENTITY tools "Ebikozesebwa">
 <!ENTITY new_tab "Awaddirira Awapya">
 
@@ -201,6 +225,11 @@ size. -->
 <!ENTITY find_prev "Ekiyise">
 <!ENTITY find_next "Ekidirira">
 <!ENTITY find_close "Ggalawo">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Zzanya">
+<!ENTITY media_pause "Wummuzaamu">
+
 
 <!ENTITY contextmenu_open_new_tab "Ggulawo mu Waddirira Awapya">
 
@@ -208,7 +237,7 @@ size. -->
 
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
 <!ENTITY contextmenu_share "Gaabana">
-<!ENTITY contextmenu_pasteandgo "Siiga &amp; Ogende">
+<!ENTITY contextmenu_pasteandgo "Teeka wano  Genda">
 
 
 
@@ -221,7 +250,8 @@ size. -->
 
 
 
-
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY history_removed "Omuko gujjidwawo">
 
@@ -235,6 +265,7 @@ size. -->
 
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
 
+<!ENTITY reading_list_add "Yongera ku Lukalala Lwe\u0027byokusooma">
 <!ENTITY reading_list_added "Omuko gwongeddwa ku Lukalala lwo Olwebyokusooma">
 <!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
 
@@ -268,10 +299,12 @@ size. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
 
 <!ENTITY filepicker_title "Londa Fayiro">
@@ -308,8 +341,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY bookmarkhistory_import_wait "Nsaba olindeeko...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

@@ -1,3 +1,6 @@
+
+
+
 <!ENTITY inspectorHTMLCopyInner.label       "Koppa Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -8,6 +11,7 @@
 
 <!ENTITY inspectorHTMLDelete.label          "Sangula Kanodi">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
+
 
 
 

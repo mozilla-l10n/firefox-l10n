@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Kiriza ku Lw'ekiseera">
 <!ENTITY  permBlock             "Zibikira">
 <!ENTITY  permissionsFor        "Olukusa lwa:">
-<!ENTITY  permImage             "Ttika Ebifananyi">
-<!ENTITY  permPopup             "Gulawo Amadirisa Ageggulawo gokka">
-<!ENTITY  permCookie            "Tegeka Kuki">
-
-<!ENTITY  permInstall           "Tekaa mu  obwongerezebwako oba endabika">
-<!ENTITY  permGeo               "Gabanya Ekifo">
 <!ENTITY  permPlugins           "Tandika Ebigatibwamu">
-<!ENTITY  permFullscreen        "Yingira Sikulini Enzijjuvu">
 
-
-<!ENTITY  permIndexedDB              "Labirira Eterekero Elitayingidwa ku Mukutu">
 <!ENTITY  permClearStorage           "Jjawo Eterekero">
 <!ENTITY  permClearStorage.accesskey "C">
 
@@ -85,7 +76,6 @@
 <!ENTITY  securityView.identity.domain   "Ekibanja:">
 <!ENTITY  securityView.identity.verifier "Kikakasiddwa:">
 
-<!ENTITY  securityView.privacy.header                   "Byakyama &amp; Byafaayo">
 <!ENTITY  securityView.privacy.history                  "Nakyaddeko kumuko guno emabegako?">
 <!ENTITY  securityView.privacy.cookies                  "Ekibanja kino kirina bwiino (bukuki) bwe kitereka ku kompyuta yange?">
 <!ENTITY  securityView.privacy.viewCookies              "Kenga bu kuki">

@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; Obuyambi">
 <!ENTITY productHelp.accesskey    "O">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Tandika kompyuta buto nga ojjeko Ebyokwongerako…">
 <!ENTITY helpSafeMode.accesskey   "T">
 
@@ -30,6 +33,8 @@
 
 <!ENTITY helpFeedbackPage.label      "Waayo endowooza yo…">
 <!ENTITY helpFeedbackPage.accesskey  "W">
+
+
 
 <!ENTITY preferencesCmdMac.label        "Ebyokwelobozaamu…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

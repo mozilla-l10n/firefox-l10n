@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Ebyafaayo">
 <!ENTITY dataSection.label            "Bwiino">
 
-<!ENTITY itemHistoryAndDownloads.label     "Noonya &amp; Wanula Ebyafaayo">
-<!ENTITY itemHistoryAndDownloads.accesskey "N">
-<!ENTITY itemFormSearchHistory.label       "Kola &amp; Noonya Ebyafaayo">
-<!ENTITY itemFormSearchHistory.accesskey   "K">
+
+
+
 <!ENTITY itemPasswords.label               "Tereka Obusumuluzo">
 <!ENTITY itemPasswords.accesskey           "O">
 <!ENTITY itemCookies.label                 "Kkuki">

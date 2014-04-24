@@ -10,10 +10,13 @@
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Okutandika Okunnonya Okutongozeddwa, londa &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
 
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Newankubade kompyuta enno tejja kujjukira biffudeyo mukunnonya kwo, akuwereeza yintaneti oba mukamawo asobola oku zula emiko gyo kyalide.">
 <!ENTITY privatebrowsingpage.learnMore                 "Weyongere Okuyiga">
+<!-- TO BE REMOVED POST-AUSTRALIS --> 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+
+<!ENTITY privatebrowsingpage.howToStart3               "Okutandika Okunnonya Okutongozeddwa, londa &basePBMenu.label; &gt; &newPrivateWindow.label;.">

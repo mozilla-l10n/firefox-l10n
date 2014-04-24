@@ -9,11 +9,26 @@
 ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana 
 ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyambi</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Alipoota ya ID">
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Ebigaziya">
 <!ENTITY aboutSupport.extensionName "Erinnya">
 <!ENTITY aboutSupport.extensionEnabled "Kisobozisa">
 <!ENTITY aboutSupport.extensionVersion "Enkola">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.experimentHomepage "Omuko ogusooka">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Ebyangu ku plogulaamu">
 <!ENTITY aboutSupport.appBasicsName "Erinnya">
@@ -31,7 +46,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ebyongerwamu ebitandikidwa">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Zzimba Entekateka">
 <!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Alipoota Ezokusanawo">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Enkozesa Memory">
 
 <!ENTITY aboutSupport.showDir.label "Gulawo Eterekero">

@@ -70,8 +70,8 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY netTimeout.title "Obudde bw'okuyunga buweddeyo">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Endagiriro teyategeerekese">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Endagiriro teyategeerekese">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> 
 </ul>">
 

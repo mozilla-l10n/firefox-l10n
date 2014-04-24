@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+<!-- ## Options Flyout Panel ## -->
+
+
+<!ENTITY optionsHeader.title                                     "Ebyokulondako">
+<!ENTITY optionsHeader.char.title                                "Ennyukuta Enkusike">
+
+
+
+<!ENTITY clearPrivateData.title                                  "Jjamu Wiinoyo buntu">
+
+<!ENTITY clearPrivateData.button                                 "Jjawo">
+
+
+
+
+<!ENTITY clearPrivateData.cookies                                "Kukki">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY optionsHeader.reporting.title                           "Ow'alipoota ezikonagana">
+
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Twaliramu endagiriro y'omuko kwennabadde">
+
+

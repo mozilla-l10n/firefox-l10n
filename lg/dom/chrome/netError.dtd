@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Akaseera K'empuliziganya kaweddeko">
 <!ENTITY netTimeout.longDesc "<p>Olutimbe olusabidwa teluzemu kuyungakko kusaba n`akanonyesa ka ganye okulinda ekidibwamu.</p><ul><li>Kompyuta efuga zinazo eyinza okubanga erimubwetavu bwa wagulu oba esilikiridemu?  Gezako omulundi omulala.</li><li>Tosobola kunonya bitimbo birala? Kebera okuyungibwa kwo mukutu gwa kompyuta.</li><li>Omukutu gwa kompyuta yo gukumidwa engabo?  Okutereza okutali kutufu kuyinza okuyingirira okunonyezebwa kw`olutimbe.</li><li>Era okyalina obuzibu? Webuzeko ku mukugu wa kompyuta yo oba akugatta kumukutu gwensiyona kulw`obuyambi.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Ebigobererwa Tebimanyiddwa">
-<!ENTITY protocolNotFound.longDesc "<p>Endagiriro eraga emitendera (okugeza. <q>wxyz://</q>) akanoonyeraza tekakiteggera, bwekityo akanonyesa tekasobola kuyunga bulungi ku kyapa.</p><ul><li>Ogezaako kuzuula mpuliziganya oba nkola ndala ezitali mu nnukutta? Kebera ekibanja kufuuna bye weetaaga ebirala.</li><li>Ebigobererwa ebimu biyinza okwetaagisa enkozesa endala oba ebikozesa ebirara owo akanoonya kalyoke kakitegere.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Ebigobererwa Tebimanyiddwa">
+<!ENTITY unknownProtocolFound.longDesc "<p>Endagiriro eraga emitendera (okugeza. <q>wxyz://</q>) akanoonyeraza tekakiteggera, bwekityo akanonyesa tekasobola kuyunga bulungi ku kyapa.</p><ul><li>Ogezaako kuzuula mpuliziganya oba nkola ndala ezitali mu nnukutta? Kebera ekibanja kufuuna bye weetaaga ebirala.</li><li>Ebigobererwa ebimu biyinza okwetaagisa enkozesa endala oba ebikozesa ebirara owo akanoonya kalyoke kakitegere.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Puloxi engabizi Egaanye Okunnyungwako">
 <!ENTITY proxyConnectFailure.longDesc "<p>Akanoonyesa bakategese okukozesa komyputa effuga zinazo,Naye ekyokumpi kigaanye okuyungibwako,</p><ul><li>Entegeke y'akanonyesa ntuufu? Kebera entegeka era odemu ogezeeko.</li><li>Kitufu nti empereza eyokumpi ekiriza okuyungibwa kumukutu guno?</li><li>Okyalina obuzibu? Weebuze ku akwatibwa ku by'omukutu oba omuntu yena akwatibwako olwobuyambi.</li></ul>">

@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Okunoonya Okutongozeddwa)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Ddamu otikke Awaddirira">
@@ -24,8 +26,8 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 
-<!ENTITY  closeOtherTabs.label               "Ggalawo Awaddirira Awalala">
-<!ENTITY  closeOtherTabs.accesskey           "A">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -51,8 +53,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Awaddirira Awapya">
 <!ENTITY tabCmd.accesskey "A">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Bikkula Ekifo…">
-<!ENTITY openLocationCmd.accesskey "E">
 <!ENTITY openFileCmd.label "Bikkula Fayiro…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "o">
@@ -70,12 +70,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Akabawo Ke'bilondebwako">
 <!ENTITY menubarCmd.accesskey "A">
 <!ENTITY navbarCmd.label "Akabaawo Kokulagirira">
-<!ENTITY navbarCmd.accesskey "A">
 <!ENTITY personalbarCmd.label "Akabawo Kobulambe">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Obulambe bw'Akabawo kebikozesa Ebintu">
-<!ENTITY addonBarCmd.label "Olubawo lwebigatibwako">
-<!ENTITY addonBarCmd.accesskey "O">
 
 <!ENTITY pageSourceCmd.label "Ensibuko y'Omuko">
 <!ENTITY pageSourceCmd.accesskey "n">
@@ -95,18 +92,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Laga Awadirira Wona">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
+
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenMinimize.tooltip "Funza">
 <!ENTITY fullScreenRestore.tooltip "Zzawo">
-<!ENTITY fullScreenClose.tooltip "Ggalawo">
+
 <!ENTITY fullScreenAutohide.label "Kweeka Obubawo bwebikola">
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Fuluma Engyeri ya'Sikulini Olujjuvu">
 <!ENTITY fullScreenExit.accesskey "O">
 <!ENTITY fullscreenAllowButton.label "Kkiriza">
 <!ENTITY fullscreenExitButton.label "Ggaana">
-<!ENTITY fullscreenApproval.value "Kiriiza sikulini enzijjuvu?">
 
-<!ENTITY fullscreenExitHint.value "Nyigga ESC esawa yoona okuva mu sikulini enzijjuvu.">
 <!ENTITY leaveDOMFullScreen.label "Fuluma Sikulini Enzijjuvu">
 <!ENTITY leaveDOMFullScreen.accesskey "E">
 
@@ -116,7 +120,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Obulambe">
 <!ENTITY bookmarksMenu.accesskey "O">
 <!ENTITY bookmarkThisPageCmd.label "Lamba Omuko Gunno">
+<!ENTITY editThisBookmarkCmd.label "Longoosa Akalambe Kano">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+
 
 
 
@@ -155,31 +161,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Fulumya">
 <!ENTITY printButton.tooltip          "Fulumya omuko guno">
 
-<!ENTITY backForwardItem.title        "Mabega/Mu maaso">
 <!ENTITY locationItem.title           "Ekifo">
 <!ENTITY searchItem.title             "Noonya">
-<!ENTITY throbberItem.title           "Akalagirira Eky'okukola">
-<!ENTITY bookmarksItem.title          "Obulambe">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Eby'okulondako">
-<!ENTITY appMenuButton.tooltip        "Ggulawo &brandShortName; eby'okulondako">
-<!ENTITY homeButton.label             "Eka">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Bibinja bya Mapeesa">
-<!ENTITY tabGroupsButton.tooltip      "Teeka mu Bibinja Amapeesa go">
-
-<!ENTITY feedButton.label             "Wagira">
-<!ENTITY feedButton.tooltip           "Wewandiise ku muko guno…">
 
 <!ENTITY bookmarksButton.label          "Obulambe">
-<!ENTITY bookmarksButton.tooltip        "Laba obulambe bwo">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Obulambe">
-<!ENTITY bookmarksMenuButton.tooltip        "Laba obulambe bwo">
 <!ENTITY bookmarksMenuButton.unsorted.label "Obulambe Obutannasosolwa">
-<!ENTITY viewBookmarksSidebar.label         "Lagira mu mulabba gwa wabbali">
+
 <!ENTITY viewBookmarksToolbar.label         "Labba  Akabawo  kebikola Akobulambe">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -188,8 +181,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Ebyafayo">
-<!ENTITY historyButton.tooltip          "Laga emiko gye waakalaba">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ebikozesebwa">
@@ -197,8 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Gattako Ekigambo ekikulu kukunoonyereza kunno…">
 <!ENTITY keywordfield.accesskey       "E">
-<!ENTITY search.label                 "Noonya Omutimbangano">
-<!ENTITY search.accesskey             "N">
+
 <!ENTITY downloads.label              "Ebiwanulwa">
 <!ENTITY downloads.tooltip            "Laga entambula y'ebiwanulwa">
 <!ENTITY downloads.accesskey          "E">
@@ -210,6 +200,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Omuzimbi w'emitimbagano">
 <!ENTITY webDeveloperMenu.accesskey   "O">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Yunga…">
 <!ENTITY devtoolsConnect.accesskey    "g">
@@ -242,18 +234,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Ekinonya Ensobi Mu Nonyeso">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Galawo Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.label              "Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.accesskey          "b">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ffula Ebikosebwa">
 <!ENTITY devToolboxMenuItem.accesskey      "F">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ffula ebikozesebwa ebyabazimbi">
 <!ENTITY devToolbarOtherToolsButton.label  "Ekikozesebwa Ebirala">
@@ -297,7 +291,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Ebyerobozebwa">
 <!ENTITY preferencesCmdUnix.accesskey     "z"> 
 
-<!ENTITY clearRecentHistory.label               "Jjawo Ebifudeyo Ebiyiiseko...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -311,30 +304,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "o">
 <!ENTITY viewCustomizeToolbar.label       "Kifuule ky'oyagala…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
-<!ENTITY viewTabsOnTop.label            "Mapeesa kungulu">
-<!ENTITY viewTabsOnTop.accesskey        "M">
 
 <!ENTITY historyMenu.label "Ebyafayo">
 <!ENTITY historyMenu.accesskey "f">
 <!ENTITY historyUndoMenu.label "Awadirira Awakaggalwawo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Amadiriisa Agakaggalibwawo">
-<!ENTITY historyRestoreLastSession.label "Zzaawo ebyabaddewo">
 
-<!ENTITY historyHomeCmd.label "Eka">
-<!ENTITY showAllHistoryCmd2.label "Laga Ebyafayo Byonna">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Longoosa">
 <!ENTITY appMenuCustomize.label "Fula">
-<!ENTITY appMenuToolbarLayout.label "Endabika y'omulabba gw'ebikozesebwa">
-<!ENTITY appMenuSidebars.label "Obubawobwokubali">
-<!ENTITY appMenuFind.label "Zuula...">
-<!ENTITY appMenuUnsorted.label "Obulambe Obutannasosolwa">
-<!ENTITY appMenuWebDeveloper.label "Omuzimbi w'emitimbagano">
-<!ENTITY appMenuGettingStarted.label "Entandika">
-<!ENTITY appMenuSafeMode.label "Tandika ng'eby'okwongerako bijiddwako…">
-<!ENTITY appMenuSafeMode.accesskey "T">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 
@@ -403,6 +410,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "E">
 <!ENTITY viewImageInfoCmd.label       "Laba Ebikwata kifananyi">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+
+
 <!ENTITY viewVideoCmd.label           "Laga Vidiyo">
 <!ENTITY viewVideoCmd.accesskey       "a">
 <!ENTITY viewBGImageCmd.label         "Laba Obwaliriro bw'Ekifananyi">
@@ -417,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Wereza akagata mu emeyilo…">
 <!ENTITY emailPageCmd.accesskey       "W">
+
 <!ENTITY savePageCmd.label            "Tereka Omuko Nga…">
 <!ENTITY savePageCmd.accesskey        "N">
 <!-- alternate for content area context menu -->
@@ -430,16 +440,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Ttereka ekifaananyi Nga…">
 <!ENTITY saveImageCmd.accesskey       "r">
-<!ENTITY saveVideoCmd.label           "Ttereka Vidiyo Nga…">
-<!ENTITY saveVideoCmd.accesskey       "V">
+
+
 <!ENTITY saveAudioCmd.label           "Ttereka Eddobozzi Nga…">
 <!ENTITY saveAudioCmd.accesskey       "r">
 <!ENTITY emailImageCmd.label          "Wereza Ekifaanyi mu emeyilo…">
 <!ENTITY emailImageCmd.accesskey      "r">
 <!ENTITY emailVideoCmd.label          "Wereza Olutambi mu emeyilo…">
 <!ENTITY emailVideoCmd.accesskey      "z">
-<!ENTITY emailAudioCmd.label          "Wereza eddobozi mu emeyilo…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+
+
 
 
 
@@ -537,18 +547,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Ggulawo eddirisa eppya">
 <!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo kebbali">
 
-<!ENTITY cutButton.tooltip              "Sala">
-<!ENTITY copyButton.tooltip             "Koppa">
-<!ENTITY pasteButton.tooltip            "Ssawo">
-
 <!ENTITY fullScreenButton.tooltip       "Laaga eddirisa nga lijuvu">
-
-<!ENTITY zoomOutButton.tooltip          "Zimbulukusa">
-<!ENTITY zoomInButton.tooltip           "Funza munda">
-<!ENTITY zoomControls.label             "Zimbulukusa Ebipimo">
 
 <!ENTITY quitApplicationCmdWin.label       "Jjawo"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "j">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Vaayo"> 
@@ -592,6 +595,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "Gatta Enkuluze…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
@@ -615,6 +619,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "kiddukanyizibwa">
 
 <!ENTITY identity.moreInfoLinkText "Obubaka obulala…">
+
+<!ENTITY identity.permissions "Olukusa">
+<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
+     localized title of this SUMO article
+     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -629,19 +638,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Kwanaganya kati">
 <!ENTITY syncSyncNowItem.accesskey    "K">
+
+
 <!ENTITY syncToolbarButton.label      "Kwanaganya">
 
-<!ENTITY addonBarCloseButton.tooltip  "Galawo Omuti gwe'byongerwako">
-<!ENTITY toggleAddonBarCmd.key        "/">
-
 <!ENTITY socialToolbar.title        "Epesa lya akabaawo ke byo kwetaaba">
-<!ENTITY social.notLoggedIn.label   "Tona yingira">
 
 <!ENTITY social.ok.label       "Kaale">
 <!ENTITY social.ok.accesskey   "K">
 
-<!ENTITY social.toggleSidebar.label "Laaga akaabawo ko kubali">
-<!ENTITY social.toggleSidebar.accesskey "L">
 
 
 
@@ -649,13 +654,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+<!ENTITY customizeMode.restoreDefaults "Zaawo ebyenkalakalira">
 
 
 
 <!ENTITY social.chatBar.commandkey "c">
 
 
-<!-- labels are set dynamically, see browser.properties -->
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Kkamera y'okugabana">
@@ -666,11 +681,65 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Okufuna Kkamera/omuzindaalo">
 
 
-<!ENTITY mixedContentBlocked.helplink "Manya ebisingawo">
-
 
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
+
+
+
+<!ENTITY tabCrashed.tryAgain "Gezako Nate">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "A">
+<!ENTITY addonBarCmd.label             "Olubawo lwebigatibwako">
+<!ENTITY addonBarCmd.accesskey         "O">
+<!ENTITY throbberItem.title            "Akalagirira Eky'okukola">
+<!ENTITY appMenuButton.label           "Eby'okulondako">
+<!ENTITY appMenuButton.tooltip         "Ggulawo &brandShortName; eby'okulondako">
+
+<!ENTITY feedButton.tooltip            "Wewandiise ku muko guno…">
+<!ENTITY bookmarksButton.tooltip       "Laba obulambe bwo">
+<!ENTITY historyButton.tooltip         "Laga emiko gye waakalaba">
+<!ENTITY viewTabsOnTop.label           "Mapeesa kungulu">
+<!ENTITY viewTabsOnTop.accesskey       "M">
+<!ENTITY appMenuEdit.label             "Longoosa">
+<!ENTITY appMenuToolbarLayout.label    "Endabika y'omulabba gw'ebikozesebwa">
+<!ENTITY appMenuSidebars.label         "Obubawobwokubali">
+<!ENTITY appMenuFind.label             "Zuula...">
+<!ENTITY appMenuUnsorted.label         "Obulambe Obutannasosolwa">
+<!ENTITY appMenuWebDeveloper.label     "Omuzimbi w'emitimbagano">
+<!ENTITY appMenuGettingStarted.label   "Entandika">
+<!ENTITY appMenuSafeMode.label         "Tandika ng'eby'okwongerako bijiddwako…">
+<!ENTITY appMenuSafeMode.accesskey     "T">
+<!ENTITY cutButton.tooltip             "Sala">
+<!ENTITY copyButton.tooltip            "Koppa">
+<!ENTITY pasteButton.tooltip           "Ssawo">
+<!ENTITY zoomOutButton.tooltip         "Zimbulukusa">
+<!ENTITY zoomInButton.tooltip          "Funza munda">
+<!ENTITY zoomControls.label            "Zimbulukusa Ebipimo">
+<!ENTITY addonBarCloseButton.tooltip   "Galawo Omuti gwe'byongerwako">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Mabega/Mu maaso">
+<!ENTITY viewBookmarksSidebar.label    "Lagira mu mulabba gwa wabbali">
+<!ENTITY bookmarksItem.title           "Obulambe">
+<!ENTITY openLocationCmd.label         "Bikkula Ekifo…">
+<!ENTITY openLocationCmd.accesskey     "E">
+<!ENTITY bookmarksMenuButton.tooltip   "Laba obulambe bwo">
+
+<!ENTITY tabGroupsButton.tooltip       "Teeka mu Bibinja Amapeesa go">
+<!-- end of strings to be removed post-Australis -->

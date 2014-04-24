@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Okutegeka Omuko">
 
-<!ENTITY basic.tab           "Kola ku &amp; okwerobooza">
 
 <!ENTITY formatGroup.label   "Saako wotandikira">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Eby'okweroboza">
 
-<!ENTITY printBG.label       "Fulumya N'obwaliliro (erangi &amp; bifananyi)">
-<!ENTITY printBG.accesskey   "N">
 
-<!ENTITY advanced.tab        "Enkugiro &amp; Emitwe/Amaggulu">
+
 
 <!ENTITY marginGroup.label   "Enkugiro (#1)">
 <!ENTITY marginUnits.inches  "yinci">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Dyo:">
 <!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Emitwe &amp; N'enkomerero">
 
 <!ENTITY hfLeft.label        "Kkono:">
 <!ENTITY hfCenter.label      "Makkati:">

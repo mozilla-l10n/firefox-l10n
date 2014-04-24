@@ -17,8 +17,6 @@
 <!ENTITY stats.activityEnded "Kikomeddwa">
 <!ENTITY stats.activitySeeking "(okunonya)">
 <!ENTITY stats.volume "Edoobozi">
-<!ENTITY stats.channels "Emikutu">
-<!ENTITY stats.sampleRate "Omuwendo Ogwokulabirako">
 <!ENTITY stats.framesParsed "Fuleemu eziyisiddwa">
 <!ENTITY stats.framesDecoded "Fuleemu ezi kyusiddwa">
 <!ENTITY stats.framesPresented "Fuleemu ezi weredwayo">

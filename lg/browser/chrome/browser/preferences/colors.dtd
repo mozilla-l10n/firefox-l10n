@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "m">
 
 <!ENTITY  color                           "Ebigambo n'Obwaliriro">
-<!ENTITY  textColor.label                 "Ebigambo:">
-<!ENTITY  textColor.accesskey             "E">
+
+
 <!ENTITY  backgroundColor.label           "Obwaliriro:">
 <!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "Kozesa langi za sisitimu">
