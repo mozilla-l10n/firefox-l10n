@@ -22,7 +22,7 @@
 <!ENTITY displayText.label                "Vid visning av citerade oformaterade meddelanden:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Visa smilisar (gubbar som uttrycker känslor).">
+<!ENTITY convertEmoticons.label        "Visa smileys (gubbar som uttrycker känslor).">
 <!ENTITY convertEmoticons.accesskey    "m">
 
 <!-- labels -->

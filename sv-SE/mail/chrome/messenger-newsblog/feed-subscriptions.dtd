@@ -19,20 +19,26 @@
 <!ENTITY quickMode.label             "Visa sammanfattning för artikeln istället för att läsa in webbsidan">
 <!ENTITY quickMode.accesskey         "V">
 
+<!ENTITY autotagEnable.label         "Skapa automatiskt etiketter från &lt;kategori&gt; kanalnamn">
+<!ENTITY autotagEnable.accesskey     "k">
+<!ENTITY autotagUsePrefix.label      "Märk etiketter med prefix:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Ange ett etikettprefix">
+
 <!ENTITY locationValidate.label      "Validera">
 <!ENTITY validateText.label          "Kontrollera validering och hämta en giltig webbadress.">
 
 <!ENTITY button.addFeed.label        "Lägg till">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Redigera">
-<!ENTITY button.editFeed.accesskey   "R">
+<!ENTITY button.editFeed.label       "Uppdatera">
+<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Ta bort">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label     "Importera">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportera">
 <!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY button.exportOPML.tooltip   "Exporta kanaler med mappstruktur; ctrl klick eller ctrl enter för arr exportera kanaler som en lista">
+<!ENTITY button.exportOPML.tooltip   "Exportera kanaler med mappstruktur; ctrl klick eller ctrl enter för att exportera kanaler som en lista">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Stäng">

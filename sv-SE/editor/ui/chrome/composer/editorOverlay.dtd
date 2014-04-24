@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Klistra in som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Sök och ersätt...">
+<!ENTITY findBarCmd.label "Sök…">
+<!ENTITY findReplaceCmd.label "Sök och ersätt…">
 <!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
 <!ENTITY checkSpellingCmd2.label "Stavningskontroll…">
