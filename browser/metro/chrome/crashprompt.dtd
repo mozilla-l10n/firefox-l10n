@@ -14,7 +14,7 @@
      -->
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Izvještaje rušenja koristimo kako bismo ispravili greške i unaprijedili naše proizvode. S vašim informacijama postupamo kao što je opisano u našoj ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; politici privatnosti">
-
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Uključi adresu stranice na kojoj sam se nalazio">
 <!ENTITY crashprompt.acceptbutton    "Šalji izvješća">
 <!ENTITY crashprompt.refusebutton    "Ne šalji">

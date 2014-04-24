@@ -100,15 +100,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogućen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; će ubrzo započeti sa sinkronizacijom.">
-
-
-
-
+<!ENTITY syncErrorPanel.heading "Povezivanje na syncBrand.shortName.label nije moguće;">
+<!ENTITY syncErrorPanel.subTitle "Prijavite se za nastavak sinkronizacije.">
+<!ENTITY syncErrorPanel.signInButton.label "Prijava">
+<!ENTITY syncErrorPanel.signInButton.accesskey "P">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Smanji">
 <!ENTITY fullScreenRestore.tooltip "Vrati">
-
+<!ENTITY fullScreenClose.tooltip "Zatvori">
 <!ENTITY fullScreenAutohide.label "Sakrij alatne trake">
 <!ENTITY fullScreenAutohide.accesskey "k">
 <!ENTITY fullScreenExit.label "Izađi iz prikaza potpunog ekrana">
@@ -129,18 +129,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Uredi ovu zabilješku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "Podijeli ovu stranicu">
 <!ENTITY sharePageCmd.commandkey "S">
-
-
-
-
-
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Podijeli ovu poveznicu">
+<!ENTITY shareLinkCmd.accesskey "P">
+<!ENTITY shareImageCmd.label "Podijeli ovu sliku">
+<!ENTITY shareImageCmd.accesskey "P">
 <!ENTITY shareSelectCmd.label "Podijeli odabrano">
 <!ENTITY shareSelectCmd.accesskey "P">
-
-
-
+<!ENTITY shareVideoCmd.label "Podijeli ovaj video">
+<!ENTITY shareVideoCmd.accesskey "P">
+<!ENTITY feedsMenu.label "Pretplata">
 <!ENTITY subscribeToPageMenupopup.label "Pretplati se na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati se na ovu stranicu...">
 <!ENTITY addCurPagesCmd.label "Dodaj sve kartice u zabilješke...">
@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
 <!ENTITY bookmarksMenuButton.unsorted.label "Neorganizirane zabilješke">
-
+<!ENTITY viewBookmarksSidebar2.label        "Prikaži okno zabilješki">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku zabilješki">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -189,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Povijest">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alati">
@@ -254,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zatvori alatnu traku programera">
 <!ENTITY devToolbarMenu.label              "Alatna traka programera">
 <!ENTITY devToolbarMenu.accesskey          "g">
-
-
+<!ENTITY devAppMgrMenu.label               "App Manager">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Uključi/isključi alate">
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Postavke">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
+<!ENTITY clearRecentHistory.label               "Obriši nedavnu povijest…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -323,38 +325,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Nedavno zatvorene kartice">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
+<!ENTITY historyRestoreLastSession.label "Vrati prijašnju sesiju">
 
-
+<!ENTITY showAllHistoryCmd2.label "Prikaži svu povijest">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuCustomize.label "Prilagodi">
+<!ENTITY appMenuCustomize.tooltip "Prilagodi izbornike i alatne trake">
+<!ENTITY appMenuCustomizeExit.label "Zatvori prilagodbu">
+<!ENTITY appMenuCustomizeExit.tooltip "Završi prilagodbu">
+<!ENTITY appMenuHistory.label "Povijest">
+<!ENTITY appMenuHistory.showAll.label "Prikaži svu povijest">
+<!ENTITY appMenuHistory.clearRecent.label "Obriši nedavnu povijest…">
+<!ENTITY appMenuHistory.restoreSession.label "Vrati prijašnju sesiju">
+<!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
+<!ENTITY appMenuHelp.tooltip "Otvori izbornik pomoći">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Dodaj na alatnu traku">
+<!ENTITY customizeMenu.addToToolbar.accesskey "a">
+<!ENTITY customizeMenu.addToPanel.label "Dodaj na izbornik">
+<!ENTITY customizeMenu.addToPanel.accesskey "n">
+<!ENTITY customizeMenu.moveToToolbar.label "Premjesti na alatnu traku">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "e">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.label "Premjesti u izbornik">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Ukloni s alatne trake">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Ukloni iz izbornika">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pretražite ili upišite adresu">
@@ -453,16 +458,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "Spremi sliku kao...">
 <!ENTITY saveImageCmd.accesskey       "p">
-
-
+<!ENTITY saveVideoCmd.label           "Spremi video kao…">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Spremi zvuk kao…">
 <!ENTITY saveAudioCmd.accesskey       "z">
 <!ENTITY emailImageCmd.label          "Pošalji sliku e-poštom…">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Pošalji video e-poštom…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY emailAudioCmd.label          "Pošalji zvuk e-poštom…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktiviraj ovaj priključak">
 <!ENTITY playPluginCmd.accesskey      "k">
 <!ENTITY hidePluginCmd.label          "Sakrij ovaj priključak">
@@ -565,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Izlaz"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "I">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "Zatvori &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Izlaz"> 
@@ -609,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "P">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike...">
 <!ENTITY spellAddDictionaries.accesskey "a">
@@ -655,8 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
+<!ENTITY syncReAuthItem.label         "Ponovno povezivanje na &syncBrand.shortName.label;a…">
+<!ENTITY syncReAuthItem.accesskey     "v">
 <!ENTITY syncToolbarButton.label      "Sinkroniziraj">
 
 <!ENTITY socialToolbar.title        "Tipka društvene trake">
@@ -664,7 +669,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "Prikaži bočnu traku">
+<!ENTITY social.toggleSidebar.accesskey "P">
 
 <!ENTITY social.addons.label "Upravljanje servisima…">
 
@@ -680,10 +686,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
-
+<!ENTITY customizeMode.tabTitle "Prilagodi &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Dodatni alati i mogućnosti">
+<!ENTITY customizeMode.menuAndToolbars.empty "Želite više alata?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Odaberite neki od tisuća dodataka">
+<!ENTITY customizeMode.restoreDefaults "Vrati zadano">
+<!ENTITY customizeMode.toolbars "Prikaži/sakrij alatne trake">
+<!ENTITY customizeMode.titlebar "Naslovna traka">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusiraj časkanja">
@@ -726,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Obavijestite &vendorShortName; o ovom rušenju, kako bi mogli riješiti problem.">
 <!ENTITY tabCrashed.tryAgain "Pokušaj ponovno">
 
+<!ENTITY uiTour.infoPanel.close "Zatvori">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
@@ -738,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY throbberItem.title            "Indikator aktivnosti">
 <!ENTITY appMenuButton.label           "Izbornik">
 <!ENTITY appMenuButton.tooltip         "Otvori &brandShortName; izbornik">
-
+<!ENTITY feedButton.label              "Pretplata">
 <!ENTITY feedButton.tooltip            "Pretplati se na ovu stranicu…">
 <!ENTITY bookmarksButton.tooltip       "Prikaži svoje zabilješke">
 <!ENTITY historyButton.tooltip         "Prikaži nedavno posjećene stranice">
