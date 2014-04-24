@@ -68,6 +68,7 @@
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
 <!ENTITY pref_category_search3 "ਖੋਜ">
+<!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
 <!ENTITY pref_category_display "ਵੇਖਾਉਣਾ">
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -306,7 +307,7 @@ size. -->
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
-<!ENTITY reading_list_add "Add to Reading List">
+<!ENTITY reading_list_add "ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY reading_list_added "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!ENTITY reading_list_removed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ">
 <!ENTITY reading_list_failed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
@@ -352,6 +353,9 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
 
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "ਇਸ ਪੈਨਲ ਲਈ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ।">
 
 <!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਇੱਥੇ ਦਿਓ">
 
