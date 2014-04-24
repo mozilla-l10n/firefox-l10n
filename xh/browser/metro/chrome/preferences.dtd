@@ -21,13 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Ii-Cookies">
 <!ENTITY clearPrivateData.cache                                  "Ikhatshe">
 <!ENTITY clearPrivateData.sitePref                               "Iipriferensi zesayithi">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Ifom nembali yokukhangela">
 <!ENTITY clearPrivateData.passwords                              "Iipasiwedi ezigciniweyo">
 <!ENTITY clearPrivateData.offline                                "Ngcombolo zewebhusayithi ezingekho kwinethiwekhi">
 <!ENTITY clearPrivateData.logins                                 "Iinkcukacha zokungena ezisebenzayo">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Khumbula iipasiwedi">
-
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Bonisa amaqhosha okukhangela">
 <!ENTITY doNotTrack.title                                        "Musa ukulanda umkhondo">
 <!ENTITY doNotTrack.options.doNotTrack                           "Xelela iiwebhusayithi ukuba andifuni ulandwe umkhondo wam">
 <!ENTITY doNotTrack.options.doTrack                              "Xelela iiwebhusayithi ukuba ndifuna ulandwe umkhondo wam">
