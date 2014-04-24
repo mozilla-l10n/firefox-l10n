@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  general.label                 "Tổng quát">
+
 <!ENTITY  warnAddonInstall.label        "Cảnh báo tôi khi có trang web cố cài các tiện ích (W)">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):

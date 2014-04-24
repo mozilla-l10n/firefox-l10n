@@ -2,7 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Thông tin về &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+
+<!ENTITY update.checkForUpdatesButton.label       "Kiểm tra cập nhật">
+<!ENTITY update.checkForUpdatesButton.accesskey   "c">
+<!ENTITY update.updateButton.label                "Khởi động lại để cập nhật (r)">
+<!ENTITY update.updateButton.accesskey            "r">
+<!ENTITY update.applyButtonBillboard.label        "Áp dụng cập nhật… (a)">
+<!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
 
 <!ENTITY warningDesc.version        "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
@@ -41,8 +54,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Đang kiểm tra cập nhật…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Đang kiểm tra tính tương thích của Tiện ích…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; đã được cập nhật bản mới nhất">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

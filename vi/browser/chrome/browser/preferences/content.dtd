@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "Ngoại trừ… (E)">
 <!ENTITY  popupExceptions.accesskey   "N">
 
-<!ENTITY  fontsAndColors.label        "Phông &amp; Màu sắc">
 
 <!ENTITY  defaultFont.label           "Phông mặc định:">
 <!ENTITY  defaultFont.accesskey       "P">

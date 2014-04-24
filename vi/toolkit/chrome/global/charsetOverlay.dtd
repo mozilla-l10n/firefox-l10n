@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "n">
 <!ENTITY charsetMenuMore3.label        "Đông Á">
 <!ENTITY charsetMenuMore3.accesskey    "g">
-<!ENTITY charsetMenuMore4.label        "Đông Nam &amp; Tây Nam Á">
-<!ENTITY charsetMenuMore4.accesskey    "a">
+
+
 <!ENTITY charsetMenuMore5.label        "Trung Đông">
 <!ENTITY charsetMenuMore5.accesskey    "r">
 <!ENTITY charsetCustomize.label        "Tùy biến Danh sách…">

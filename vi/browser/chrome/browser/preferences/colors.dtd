@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "C">
 
 <!ENTITY  color                           "Văn bản và Nền">
-<!ENTITY  textColor.label                 "Văn bản:">
-<!ENTITY  textColor.accesskey             "V">
+
+
 <!ENTITY  backgroundColor.label           "Nền:">
 <!ENTITY  backgroundColor.accesskey       "N">
 <!ENTITY  useSystemColors.label           "Dùng màu sắc của hệ thống">
