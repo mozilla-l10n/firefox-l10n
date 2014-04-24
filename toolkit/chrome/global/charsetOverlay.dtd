@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "കിഴക്ക് ഏഷ്യന്‍">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "തെക്ക് കിഴക്കന്‍ &amp; തെക്ക് പടിഞ്ഞാറന്‍ ഏഷ്യന്‍">
-<!ENTITY charsetMenuMore4.accesskey    "S">
+
+
 <!ENTITY charsetMenuMore5.label        "മിഡില്‍ ഈസ്റ്റ്">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "പട്ടിക തയ്യാറാക്കുക...">

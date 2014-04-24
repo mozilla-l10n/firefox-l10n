@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection " ബ്രൌസര്‍ ഹാങ്സ്">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  ഹിസ്റ്റോഗ്രാം">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection " ലളിതമായ അളവുകള്‍">
@@ -24,9 +25,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ആഡ്-ഓണുകള്‍ ശേഖരിച്ച ഹിസ്റ്റോഗ്രാമുകള്‍">
 
-<!ENTITY aboutTelemetry.toggleOn "  വിഭാഗം വികസിപ്പിയ്ക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക">
-
-<!ENTITY aboutTelemetry.toggleOff "  വിഭാഗം വലുതാക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക">
 
 <!ENTITY aboutTelemetry.emptySection "  (ഒരു ഡേറ്റയും ശേഖരിച്ചിട്ടില്ല)">
 
@@ -35,3 +33,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  ഹാങ് സ്റ്റാക്കുകളില്‍ നിന്നും ഫംഗ്ഷന്‍ നാമങ്ങള്‍ ലഭ്യമാക്കുക">
 
 <!ENTITY aboutTelemetry.hideSymbols "  ഹാങുകളില്‍ നിന്നുള്ള റോ ഡേറ്റാ കാണിയ്ക്കുക">
+
