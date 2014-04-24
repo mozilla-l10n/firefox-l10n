@@ -331,7 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Heertin">
-<!ENTITY appMenuCustomize.tooltip "heertin dosu e palal kaɓirɗe">
+<!ENTITY appMenuCustomize.tooltip "Heertin Dosol e Palal Kuutorɗe">
 <!ENTITY appMenuCustomizeExit.label "Yaltu heertannde">
 <!ENTITY appMenuCustomizeExit.tooltip "Gasnu heertannde">
 <!ENTITY appMenuHistory.label "Aslol">

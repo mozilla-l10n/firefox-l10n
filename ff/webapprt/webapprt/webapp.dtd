@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "Hollu Fof">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "Taƴto">
 <!ENTITY editMenu.accesskey                 "T">
 <!ENTITY undoCmd.label                      "Firtu">
