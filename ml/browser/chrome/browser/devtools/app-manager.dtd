@@ -42,6 +42,10 @@
 
 
 
+
+
+
+
 <!ENTITY connection.connecting "കണക്ട് ചെയ്യുന്നു…">
 
 <!ENTITY connection.cancel "റദ്ദാക്കുക">
@@ -76,6 +80,8 @@
 
 
 <!ENTITY projects.valid "വാലിഡ്‌ ">
+
+
 
 
 

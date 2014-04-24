@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "നാള്‍വഴി">
 <!ENTITY dataSection.label            "ഡേറ്റാ">
 
-<!ENTITY itemHistoryAndDownloads.label     "ബ്രൗസിങ്ങും ഡൗണ്‍ലോഡ് നാള്‍വഴിയും">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "നാള്‍വഴി തെരയുക">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+
+
+
 <!ENTITY itemPasswords.label               "സൂക്ഷിച്ചിരിക്കുന്ന പാസ്‌വേര്‍ഡുകള്‍ ">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "കുക്കികള്‍ ">

@@ -9,6 +9,7 @@
 <!ENTITY back.label            "പുറകോട്ട്‌">
 <!ENTITY forward.label         "മുമ്പോട്ട്">
 <!ENTITY newtab.label          "പുതിയ റ്റാബ്‌ ">
+
 <!ENTITY closetab.label        "റ്റാബ് അടയ്ക്കുക">
 
 <!ENTITY autocompleteResultsHeader.label  "നിങ്ങളുടെ ഫലങ്ങള്‍">
@@ -53,13 +54,15 @@
 
 
 
+
 <!ENTITY consoleErrFile.label      "സ്രോതസ്സ്‌ ഫയല്‍:">
 <!ENTITY consoleErrLine.label      "ലൈന്‍">
 <!ENTITY consoleErrColumn.label    "കോളം">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "മുറിക്കുക">
-<!ENTITY contextTextCopy.label             "പകര്‍ത്തുക">
+
 <!ENTITY contextTextPaste.label            "ഒട്ടിക്കുക">
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextSelect.label           "തെരഞ്ഞെടുക്കുക">
@@ -88,6 +91,7 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 
@@ -100,10 +104,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 
@@ -111,3 +112,16 @@
 
 
 
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+
+
+<!ENTITY firstRunGotIt.label "കിട്ടിപ്പോയി!">
