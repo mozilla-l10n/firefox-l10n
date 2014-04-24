@@ -136,7 +136,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction 'Legalább 8 karakternek kell lennie'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Születési év'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'A folytatással elfogadom a Firefox felhő szolgáltatások &formatS1; és az &formatS2;.'>
+<!ENTITY fxaccount_create_account_policy_text2 'A folytatással elfogadom a Firefox felhő szolgáltatások &formatS1; és az &formatS2;.'>
 <!ENTITY fxaccount_create_account_button 'Tovább'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Válassza ki, mit szinkronizál'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Már van fiókja? Jelentkezzen be'>
