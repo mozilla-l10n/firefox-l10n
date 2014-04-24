@@ -4,7 +4,7 @@
 
 
 <!ENTITY crashprompt.title           "Volètz mandar de rapòrts de plantatge a Mozilla ?">
-<!ENTITY crashprompt.message         "O planhèm, &amp;brandShortName; ven de se remetre d'un fracàs. Mandar de rapòrts de fracàs ajudarà Mozilla a rendre &amp;brandShortName; mai estable e securizat. Podètz modificar a tot moment vòstras preferéncias dins los Paramètres/Opcions.">
+<!ENTITY crashprompt.message         "O planhèm, &brandShortName; ven de se remetre d'un fracàs. Mandar de rapòrts de fracàs ajudarà Mozilla a rendre &brandShortName; mai estable e securizat. Podètz modificar a tot moment vòstras preferéncias dins los Paramètres/Opcions.">
 <!ENTITY crashprompt.detailsLink     "De qué conten un rapòrt de fracàs ?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Un rapòrt de fracàs conten d'unes detalhs a prepaus del fracàs e vòstra maquina, amai un instantanèu de l'estat de vòstre navigador al moment del fracàs.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Pòt inclure diferentas causas coma la lista de las paginas dobèrtas, lo tèxte picat dins los formularis e lo contengut dels messatges dobèrts, l'istoric de navigacion recent, o la geolocalizacion utilizada per una aplicacion dobèrta.">
