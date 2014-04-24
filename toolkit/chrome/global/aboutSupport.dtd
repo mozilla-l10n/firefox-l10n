@@ -9,24 +9,26 @@
 etoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe 
  baɗte &brandShortName;, ƴeewto wallitorde amen <a id='supportLink'>lowre wallitorde</a>.">
 
+<!ENTITY aboutSupport.crashes.title "Jaŋtol Kooke">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Jaŋtol">
 <!ENTITY aboutSupport.crashes.sendDate "Neldaaɗe">
-
-
+<!ENTITY aboutSupport.crashes.allReports "Jaŋte Kooke Fof">
+<!ENTITY aboutSupport.crashes.noConfig "Ngal jaaɓnirgal feewniraaka ngam hollude jaŋte kooke.">
 
 <!ENTITY aboutSupport.extensionsTitle "Timmitte">
 <!ENTITY aboutSupport.extensionName "Innde">
 <!ENTITY aboutSupport.extensionEnabled "Daaƴtaaɗo">
 <!ENTITY aboutSupport.extensionVersion "Yamre">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "Fannuuji Ƴeewtindorɗi">
+<!ENTITY aboutSupport.experimentName "Innde">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Cifagol">
-
-
+<!ENTITY aboutSupport.experimentActive "Ena hurmi">
+<!ENTITY aboutSupport.experimentEndDate "Ñalngu Gasol">
 <!ENTITY aboutSupport.experimentHomepage "Hello jaɓɓorgo">
 
 

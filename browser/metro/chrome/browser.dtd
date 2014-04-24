@@ -9,15 +9,17 @@
 <!ENTITY back.label            "Caggal">
 <!ENTITY forward.label         "Yeeso">
 <!ENTITY newtab.label          "Tabbere Hesere">
+<!ENTITY newPrivateTab.label   "Tabbere Suuriinde Hesere">
+<!ENTITY closetab.label        "Uddu Tabbere">
 
+<!ENTITY autocompleteResultsHeader.label  "Jaltuɗe Maa">
 
-
-
-
+<!ENTITY appbarErrorConsole.label      "Uddit ginorde juume">
+<!ENTITY appbarJSShell.label           "Uddit shell JavaScript">
 <!ENTITY appbarFindInPage2.label       "Yiytu e Hello">
-
-
-
+<!ENTITY appbarRelaunchInDesktop.label "Hurmitin e Biro">
+<!ENTITY appbarMSMetaData2.label       "Heɓ jaaɓngal ndee lowre">
+<!ENTITY appbarViewPageSource.label    "Hollu ɗaɗi hello">
 
 <!ENTITY topSitesHeader.label        "Lowe Dowrowe">
 <!ENTITY bookmarksHeader.label       "Maantore">
@@ -38,18 +40,20 @@
 
 <!ENTITY downloadsHeader.label     "Gaawte">
 <!ENTITY downloadShowPage.label    "Yah to Hello">
-
+<!ENTITY downloadShow2.label       "Yiytu">
 <!ENTITY downloadOpen2.label       "Uddit">
 <!ENTITY downloadCancel.label      "Haaytu">
-
+<!ENTITY downloadPause.label       "Sabbo">
 <!ENTITY downloadResume.label      "Jokku">
 <!ENTITY downloadRetry.label       "Fuɗɗito">
-
-
+<!ENTITY downloadRemove.label      "Ittu">
+<!ENTITY downloadDelete.label      "Momtu">
 <!ENTITY downloadFailed.label      "Woorii">
 
+<!ENTITY allBookmarks.label        "Hollu maantore fof">
 
-
+<!ENTITY consoleHeader.label       "Ginorde Juume">
+<!ENTITY consoleAll.label          "Fof">
 <!ENTITY consoleErrors.label       "Juume">
 <!ENTITY consoleWarnings.label     "Deentine">
 <!ENTITY consoleMessages.label     "Ɓatakuje">
@@ -73,36 +77,43 @@
 <!-- LINK CONTEXT MENU -->
 
 <!ENTITY contextOpenLinkTab.label          "Uddit jokkol e tabbere hesere">
-
-
+<!ENTITY contextCopyLinkHref.label         "Natto jokkol">
+<!ENTITY contextBookmarkLinkHref.label     "Maantoro jokkol">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "Danndu to natordu">
+<!ENTITY contextCopyImage.label            "Natto natal">
+<!ENTITY contextCopyImageLocation.label    "Natto nokkuure natal">
+<!ENTITY contextOpenImageTab.label         "Uddit natal e tabbere hesere">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "Danndu to widewordu">
+<!ENTITY contextCopyVideoLocation.label    "Natto nokkuure widewoo">
+<!ENTITY contextOpenVideoTab.label         "Uddit widewoo e tabbere hesere">
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY reload.key "r">
 <!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -114,11 +125,13 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "Aɗa yiyloo tabbe maa? Fooɗ faya les walla dobo-ñaamru">
+<!ENTITY firstRunTopSites.label "Yay to lowe ɗe ɓur-ɗaa waawde yillaade">
+<!ENTITY firstRunBookmarks.label "Kelle ɗe ndanndan-ɗaa janngo">
+<!ENTITY firstRunMenu.label "Yeɓ fannuuji foɗɗi e cuɓe">
+<!ENTITY firstRunHistory.label "Yiy ɗo njahno-ɗaa e Geese kala">
+<!ENTITY firstRunWelcome.label "A jaɓɓaama e &brandShortName;">
+<!ENTITY firstRunDifferent.label "Diidngo min ceerti">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -129,6 +142,8 @@
        references.
        -->
 
-
-
-
+<!ENTITY firstRunBack.label "Tappu ngam yahde to hello ɓennungo">
+<!ENTITY firstRunNewTab.label "Ɓeydu tabbere hesere ngam wanngaade e lowre hesere">
+<!ENTITY firstRunStar.label "Huutoro maantore ngam dannde kelle">
+<!ENTITY firstRunPin.label "Ñippu lowre njiɗ-ɗaa kala e yaynirde Jaɓɓorde Windows ngam heɓde nde ko yaawi">
+<!ENTITY firstRunGotIt.label "Mi faamii!">

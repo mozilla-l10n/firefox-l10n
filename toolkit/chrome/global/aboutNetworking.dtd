@@ -13,17 +13,17 @@
 <!ENTITY aboutNetworking.refresh               "Wultin">
 <!ENTITY aboutNetworking.autoRefresh           "Wultin hoore mum kala maje 3">
 <!ENTITY aboutNetworking.hostname              "Innde mooftoowo">
-
+<!ENTITY aboutNetworking.port                  "Poor">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-
+<!ENTITY aboutNetworking.active                "Ena hurmi">
 <!ENTITY aboutNetworking.idle                  "Aami">
-
+<!ENTITY aboutNetworking.host                  "Koɗnoowo">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Nelaaɗe">
 <!ENTITY aboutNetworking.received              "Keɓaaɗe">
 <!ENTITY aboutNetworking.family                "Galle">
-
+<!ENTITY aboutNetworking.addresses             "Ñiiɓirɗe">
 <!ENTITY aboutNetworking.expires               "Buuntata (Maje)">
 <!ENTITY aboutNetworking.messagesSent          "Ɓatakuuji nuldaaɗi">
 <!ENTITY aboutNetworking.messagesReceived      "Ɓatakuuji keɓaaɗi">

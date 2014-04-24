@@ -6,37 +6,54 @@
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
 
+<!ENTITY sync.flyout.presetup.description1     "Yeɓ maatore maa, finndeeji maa, kadi udditaa tabbe e kaɓirɗi maa fof">
+<!ENTITY sync.flyout.presetup.setup.label      "Teelto &syncBrand.shortName.label;">
 <!-- Flyout when setting up sync -->
 
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.title               "Darnu &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "So aɗa jogii konte &syncBrand.shortName.label;, suɓo &quot;Seŋondir Kaɓirgol&quot; et kaɓirgol maa ngola kisa naatnaa oo kod.">
+<!ENTITY sync.flyout.setup.description2        "So a alaa konte &syncBrand.shortName.label; aɗa waawi sosde heen wootere e wanngorde maa biro &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label_2      "Mi ɓadaaki ordinateer am…">
+<!ENTITY sync.flyout.setup.description3        "Tesko:">
+<!ENTITY sync.flyout.setup.description4_2      "Ngam yiytude &quot;Seŋondir Kaɓirɗi&quot;,">
+<!ENTITY sync.flyout.setup.description5_2      "[Desktop] Uddit &quot;Cuɓe&quot; walla &quot;Cuɓoraaɗe&quot; kisa labo &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2      "[Android] Teelte &gt; Goɗɗe &gt; &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "Tiiɗno naatnu humpito konte maa &syncBrand.shortName.label; e Kelal Keɓtirgal ngal ordinateer maa hokku maa">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Innde Konte">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Finnde">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Kelal jiytirgal">
 <!ENTITY sync.flyout.manualsetup.connect.label           "Jokko">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "A seŋondirii jooni &brandShortName; e konte maa &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Keɓe maa &syncBrand.shortName.label; nana ngaawtee jooni e cakkitol. Tabbe maa Syncaaɗe ena njiytee e Hello Jaɓɓorgo &brandShortName;">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; horiima seŋaade e konte maa &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Haaytu">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "Fuɗɗito">
 <!-- Flyout when connected and functioning normally -->
 
-
-
-
-
+<!ENTITY sync.flyout.connected.account                    "Konte:">
+<!ENTITY sync.flyout.connected.device                     "Kaɓirgol maa:">
+<!ENTITY sync.flyout.connected.disconnect                 "Seŋtondir">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Seŋtondir kaɓirgol maa e &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Keɓe maa keeriiɗi fof e ngol kaɓirgol e &syncBrand.shortName.label; maa keddo ɗoon memaaka.">
+<!ENTITY sync.flyout.connected.cancel                     "Haaytu">
 <!ENTITY sync.flyout.connected.pair                       "Jokkondir Kaɓirɗi">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "E kaɓirgol kesol ngol njiɗ-ɗaa seŋondirde, sabo &quot;Teelto&quot; &syncBrand.shortName.label; kisa naatnaa kod mo kaɓirgol ngol hokku-maa oo">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Seŋondir">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Tesko:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Ngam yiytude, kod oo">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Uddit &quot;Cuɓe&quot; walla &quot;Cuɓoraaɗe&quot; kisa rewindo ɗee daawe:
+&syncBrand.shortName.label; -&gt; Teelto &syncBrand.shortName.label; -&gt; Miɗo jogii konte">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Teelte &gt; Goɗɗe &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Tiiɗno fuɗɗito">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Kaɓirgol kesol ngol ɓeydiraama no haanirta.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Keɓe maa &syncBrand.shortName.label; nana ngaawtee jooni e cakkitol. Tabbe maa goɗɗuɗe ena njiytee e Hello Jaɓɓorgo &brandShortName;.">

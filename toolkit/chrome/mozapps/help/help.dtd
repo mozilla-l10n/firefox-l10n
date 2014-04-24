@@ -24,10 +24,10 @@
 <!ENTITY homeButton.tooltip             "Yah to hello ballal adano.">
 <!ENTITY printButton.label              "Winndito">
 <!ENTITY printButton.tooltip            "Winndito ngoo hello">
-
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Yiylo">
-
+<!ENTITY searchHeader.label             "Njaltudi njiilaw">
 <!ENTITY toctab.label                   "Loowdi">
 <!ENTITY toctab.accesskey               "L">
 <!-- LOCALIZATION NOTE :
