@@ -59,6 +59,7 @@
 <!ENTITY consoleMessages.label     "Berichten">
 <!ENTITY consoleCodeEval.label     "Code:">
 <!ENTITY consoleClear.label        "Wissen">
+<!ENTITY consoleCopyAll.label      "Kopiëren">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Bronbestand:">
 <!ENTITY consoleErrLine.label      "Regel:">
