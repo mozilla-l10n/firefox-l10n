@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Machtigingen">
 <!ENTITY device.permissionsTooltip "Een tabel van de toegankelijke machtigingen voor de verschillende typen apps weergeven">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Browsertabbladen">
+<!ENTITY device.browserTabsTooltip "Lijst met tabbladen in de browser van het verbonden apparaat bekijken">
+<!ENTITY device.debugBrowserTab "Fouten opsporen">
+<!ENTITY device.debugBrowserTabTooltip "Open the Developer Tools connected to this browser tab on the device">
 <!ENTITY device.help "Help">
 
 <!ENTITY connection.connectTooltip "Verbinding maken met het apparaat">
