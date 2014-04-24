@@ -20,9 +20,9 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "ਸਕਰੈਚਪੈਡ">
 
-<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.label               "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "New Window">

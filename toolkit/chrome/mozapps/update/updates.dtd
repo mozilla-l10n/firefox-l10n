@@ -86,7 +86,7 @@
 
 
 <!ENTITY  installed.title                 "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਇਆ">
-<!ENTITY  installed.intro                 "ਅੱਪਡੇਟ ਸਫ਼ਲਤਾਪੂਰਕ ਇੰਸਟਾਲ ਹੋਇਆ।">
+<!ENTITY  installed.intro                 "ਅੱਪਡੇਟ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਹੋਇਆ।">
 <!ENTITY  whatsnew.label                  "…ਨਵਾਂ ਕੀ ਹੈ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 
 <!ENTITY  update.details.label            "ਵੇਰਵਾ">

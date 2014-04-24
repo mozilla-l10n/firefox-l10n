@@ -10,7 +10,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ'>
-<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ਅਕਾਊਂਟ ਸ਼ਾਮਲ'>
+<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ਅਕਾਊਂਟ ਸ਼ਾਮਿਲ'>
 <!ENTITY sync.title.pair.label 'ਜੰਤਰ ਪੇਅਰ ਕਰੋ'>
 
 <!-- J-PAKE Key Screen -->
@@ -124,7 +124,7 @@
 <!ENTITY fxaccount_back_to_browsing 'ਵਾਪਿਸ ਬਰਾਊਜ਼ਿੰਗ ਉੱਤੇ ਜਾਓ'>
 
 <!ENTITY fxaccount_policy_linktos 'ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ'>
-<!ENTITY fxaccount_policy_linkprivacy 'ਪਰਾਈਵੇਸੀ ਨੀਤੀ'>
+<!ENTITY fxaccount_policy_linkprivacy 'ਪਰਦੇਦਾਰੀ ਨੀਤੀ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
 <!ENTITY fxaccount_getting_started_description 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
@@ -153,29 +153,29 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'ਜਾਂਚ ਲਿੰਕ &formatS; ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ'>
 <!ENTITY fxaccount_confirm_account_resend_email 'ਈਮੇਲ ਫੇਰ ਭੇਜੋl'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verification email sent'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Couldn\&apos;t send verification email'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀਗਈ '>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_button_label 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_forgot_password 'ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Create an account'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Could not sign in'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'ਅਕਾਊਂਟ ਬਣਾਓ'>
+<!ENTITY fxaccount_sign_in_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਅਕਾਊਂਟ'>
-<!ENTITY fxaccount_account_verified_description2 'Your data will begin syncing momentarily.'>
+<!ENTITY fxaccount_account_verified_description2 'ਤੁਹਾਡਾ ਡਾਟਾ ਕੁਝ ਕੁ ਪਲ਼ਾ ਵਿੱਚ ਸਿੰਕ ਹੋਣਾ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।'>
 
 <!ENTITY fxaccount_update_credentials_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_button_label 'ਸਾਇਨ ਇਨ'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Could not sign in'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
-<!ENTITY fxaccount_status_header2 'Firefox Account'>
-<!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
+<!ENTITY fxaccount_status_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ'>
+<!ENTITY fxaccount_status_signed_in_as 'ਸਾਇਨ ਇਨ ਕੀਤਾ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
-<!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
-<!ENTITY fxaccount_status_needs_credentials 'Cannot connect. Tap to sign in.'>
-<!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ਚਾਲੂ'>
+<!ENTITY fxaccount_status_needs_verification2 'ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜਾਂਚ ਈਮੇਲ ਮੁੜ-ਭੇਜਣ ਲਈ ਛੂਹੋ।'>
+<!ENTITY fxaccount_status_needs_credentials 'ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
+<!ENTITY fxaccount_status_needs_upgrade 'ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ &brandShortName; ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
@@ -186,8 +186,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Terms of Service'>
-<!ENTITY fxaccount_status_linkprivacy 'Privacy Notice'>
+<!ENTITY fxaccount_status_linktos 'ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ'>
+<!ENTITY fxaccount_status_linkprivacy 'ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
@@ -207,12 +207,12 @@
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'ਤੁਹਾਡਾ ਫਾਇਰਫਾਕਸ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account already exists. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is not verified'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server busy, try again soon'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server busy, try again soon'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ਗਲਤ ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ਗਲਤ ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ਖਾਤੇ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋਈ'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ਸਰਵਰ ਬਹੁਤ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ਸਮੱਸਿਆ ਹੈ'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 

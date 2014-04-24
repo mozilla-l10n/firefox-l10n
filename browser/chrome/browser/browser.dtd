@@ -98,8 +98,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; enabled">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; will begin syncing momentarily.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ਚਾਲੂ ਹੈ">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; ਕੁਝ ਕੁ ਪਲ਼ਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੇਗਾ।">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
 <!ENTITY syncErrorPanel.subTitle "ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸਾਇਨ ਇਨ ਕਰੋ ਜੀ">
 <!ENTITY syncErrorPanel.signInButton.label "ਸਾਇਨ ਇਨ">
@@ -705,7 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Reconnect to &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "…&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ਸਿੰਕ ਕਰੋ">
 

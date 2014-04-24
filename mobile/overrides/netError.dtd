@@ -52,10 +52,10 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "ਕੁਨੈਕਸ਼ਨ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.title "ਦਸਤਾਵੇਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
@@ -86,14 +86,14 @@
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋਇਆ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.title "ਐਡਰੈਸ ਦੀ ਸਮਝ ਨਹੀਂ ਆਈ">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈਸ ਖੋਲ੍ਹਣ ਲਈ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨਾਂ ਤੋ ਇਨਕਾਰ ਕੀਤਾ">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Check the proxy settings to make sure that they are correct.</li>
@@ -110,7 +110,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "ਸਫ਼ਾ ਠੀਕ ਤਰ੍ਹਾਂ ਰੀ-ਡਾਇਰੈਕਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>This problem can sometimes be caused by disabling or refusing to accept
@@ -156,7 +156,7 @@ be temporary, and you can try again later.</li>
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.title "ਨਿਕਾਰਾ ਸਮੱਗਰੀ ਗਲਤੀ">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
@@ -176,6 +176,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕ ਨੂੰ ਸੂਚਨਾ ਦੇਣ ਲਈ ਸੰਪਰਕ ਕਰੋ।</li></ul></p>">
 

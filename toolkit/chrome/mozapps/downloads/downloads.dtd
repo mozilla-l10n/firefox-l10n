@@ -15,9 +15,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "ਡਾਊਨਲੋਡ">
 
-<!ENTITY cmd.pause.label                  "ਪੌਜ਼">
+<!ENTITY cmd.pause.label                  "ਵਿਰਾਮ">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "ਰੀਜਿਊਮ">
+<!ENTITY cmd.resume.label                 "ਮੁੜ-ਚਾਲੂ">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "ਰੱਦ ਕਰੋ">
 <!ENTITY cmd.cancel.accesskey             "C">
