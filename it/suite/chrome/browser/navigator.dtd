@@ -49,3 +49,9 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra altri segnalibri">
 <!ENTITY statusText.label "Completato">
 <!ENTITY popupIcon.tooltiptext "Sblocca pop-up da questo sito">
+<!ENTITY viewSecurityInfo.label "Visualizza informazioni di sicurezza">
+<!ENTITY viewSecurityInfo.accesskey "z">
+<!ENTITY viewCertificate.label "Visualizza certificato">
+<!ENTITY viewCertificate.accesskey "c">
+<!ENTITY viewCertManager.label "Apri Gestione certificati">
+<!ENTITY viewCertManager.accesskey "">
