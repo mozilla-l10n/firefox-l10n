@@ -83,6 +83,8 @@
 <!ENTITY projects.valid "Geldig">
 <!ENTITY projects.error "Fout">
 <!ENTITY projects.warning "Waarschuwing">
+<!ENTITY projects.hosted "Gehost">
+<!ENTITY projects.packaged "Verpakt">
 
 <!ENTITY help.title "App-beheerder">
 <!ENTITY help.close "Sluiten">
