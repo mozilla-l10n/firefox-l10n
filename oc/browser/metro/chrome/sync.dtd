@@ -11,7 +11,7 @@
 <!-- Flyout when setting up sync -->
 
 <!ENTITY sync.flyout.setup.title               "Configurar &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.setup.description1        "Se possedissètz ja un compte &amp;syncBrand.shortName.label;, seleccionatz « Associar un aparelh » sus vòstre autre aparelh e picatz aqueste còde.">
+<!ENTITY sync.flyout.setup.description1        "Se possedissètz ja un compte &syncBrand.shortName.label;, seleccionatz « Associar un aparelh » sus vòstre autre aparelh e picatz aqueste còde.">
 <!ENTITY sync.flyout.setup.description2        "Se possedissètz pas de compte &syncBrand.shortName.label;, ne podètz crear un sus vòstre navigador Firefox de burèu.">
 <!ENTITY sync.flyout.setup.manual.label_2      "Ai pas accès a mon ordenador pel moment…">
 <!ENTITY sync.flyout.setup.description3        "Nòta :">
