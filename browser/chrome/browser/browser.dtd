@@ -521,7 +521,7 @@ can reach it easily. -->
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "ਚਲਾਓ">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "ਵਿਰਾਮ (ਪੌਜ਼)">
+<!ENTITY mediaPause.label            "ਵਿਰਾਮ">
 <!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "ਚੁੱਪ">
 <!ENTITY mediaMute.accesskey         "M">
@@ -797,7 +797,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      l10n-central. They will be definitely removed when Australis is ready
      for mozilla-aurora. -->
 <!ENTITY appMenuEdit.label             "ਸੋਧ">
-<!ENTITY appMenuFind.label             "…ਲੱਭੋ">
+<!ENTITY appMenuFind.label             "…ਖੋਜ">
 <!ENTITY appMenuGettingStarted.label   "ਸ਼ੁਰੂ ਕਰੀਏ">
 <!ENTITY appMenuSafeMode.label         "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY appMenuSafeMode.accesskey     "R">
