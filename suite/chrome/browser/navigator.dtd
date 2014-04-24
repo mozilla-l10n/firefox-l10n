@@ -54,4 +54,4 @@
 <!ENTITY viewCertificate.label "Visualizza certificato">
 <!ENTITY viewCertificate.accesskey "c">
 <!ENTITY viewCertManager.label "Apri Gestione certificati">
-<!ENTITY viewCertManager.accesskey "">
+<!ENTITY viewCertManager.accesskey "G">
