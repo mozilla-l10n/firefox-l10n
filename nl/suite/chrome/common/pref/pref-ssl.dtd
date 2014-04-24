@@ -27,6 +27,7 @@
 <!ENTITY warn.leavingsecure                 "Het verlaten van een pagina die versleuteling ondersteunt">
 <!ENTITY warn.leavingsecure.accesskey       "v">
 
+<!ENTITY mixed.description                  "Versleutelde pagina's kunnen niet-versleutelde inhoud bevatten dat kwetsbaar is voor afluistering. &brandShortName; kan dat detecteren en blokkeren:">
 <!ENTITY warn.mixedactivecontent            "Mij waarschuwen wanneer versleutelde pagina's niet-beveiligde inhoud bevat">
 <!ENTITY warn.mixedactivecontent.accesskey  "M">
 <!ENTITY block.activecontent                "Niet beveiligde inhoud niet laden op versleutelde pagina’s">
