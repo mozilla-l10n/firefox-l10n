@@ -16,7 +16,7 @@
 <!ENTITY clearPrivateData.button                                 "Vymazať">
 <!ENTITY clearPrivateData.done                                   "Hotovo">
 <!ENTITY clearPrivateData.history                                "História prehliadania">
-<!ENTITY clearPrivateData.otherdata                              "Iné údaje (heslá, vyrovnávacia pamäť, cookies, atď)">
+<!ENTITY clearPrivateData.otherdata                              "Iné údaje (heslá, vyrovnávacia pamäť, cookies, atď.)">
 <!ENTITY clearPrivateData.downloadHist                           "Zoznam prevzatých súborov">
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Vyrovnávacia pamäť">

@@ -144,7 +144,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text 'Pokračovaním súhlasíte s &formatS1; a &formatS2; služieb online pre prehliadač Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Ďalej'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete sychronizovať'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete synchronizovať'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Máte už účet? Prihláste sa'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 alebo skôr'>
 <!ENTITY fxaccount_create_account_unknown_error 'Účet nebolo možné vytvoriť'>
