@@ -26,8 +26,6 @@
 <!ENTITY warn.insecurepost.accesskey        "z">
 <!ENTITY warn.leavingsecure                 "Het verlaten van een pagina die versleuteling ondersteunt">
 <!ENTITY warn.leavingsecure.accesskey       "v">
-<!ENTITY warn.viewmixed                     "Het bekijken van een pagina met zowel versleutelde als niet-versleutelde gegevens">
-<!ENTITY warn.viewmixed.accesskey           "b">
 
 <!ENTITY warn.mixedactivecontent            "Mij waarschuwen wanneer versleutelde pagina's niet-beveiligde inhoud bevat">
 <!ENTITY warn.mixedactivecontent.accesskey  "M">
