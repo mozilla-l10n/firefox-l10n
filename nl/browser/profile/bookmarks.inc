@@ -11,7 +11,7 @@
 #define bookmarks_toolbarfolder_description Voeg bladwijzers aan deze map toe om ze weer te geven op de bladwijzerwerkbalk
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+# link title for http://en-US.www.mozilla.org/en-US/firefox/central/
 #define getting_started Aan de slag
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -19,19 +19,24 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for http://en-US.www.mozilla.org/en-US/firefox/help/
 #define firefox_help Hulp en handleidingen
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for http://en-US.www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Firefox aanpassen
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for http://en-US.www.mozilla.org/en-US/firefox/community/
 #define firefox_community Meewerken
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/about/
+# link title for http://en-US.www.mozilla.org/en-US/about/
 #define firefox_about Over Mozilla
+
+# LOCALIZATION NOTE (firefox_feedback):
+# link title for browser feedback page
+# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
+#define firefox_feedback Feedback geven
 
 #unfilter emptyLines
