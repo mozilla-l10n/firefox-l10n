@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.title           "Poveži se s Firefox Sync">
 <!ENTITY sync.setup.pair            "Za aktivacijo izberi &#x0022;Poveži napravo&#x0022; na tvoji drugi napravi.">
 <!ENTITY sync.fallback              "Nisem blizu svojega računalnika …">
-<!ENTITY sync.setup.manual          "Vnesite podatke o svojem računu storitve Firefox Sync">
+<!ENTITY sync.setup.manual          "Vnesite podatke o svojem računu za Firefox Sync">
 <!ENTITY sync.account               "Ime računa">
 <!ENTITY sync.password              "Geslo">
 <!ENTITY sync.recoveryKey           "Obnovitveni ključ">
