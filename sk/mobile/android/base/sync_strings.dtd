@@ -142,7 +142,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Pokračovaním súhlasíte s &formatS1; a &formatS2; cloudových služieb prehliadača Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Ďalej'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete sychronizovať'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete synchronizovať'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Máte už účet? Prihláste sa'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 alebo skôr'>
 <!ENTITY fxaccount_create_account_unknown_error 'Účet nebolo možné vytvoriť'>
@@ -179,7 +179,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'Nie je možné sa pripojiť. Ťuknutím sa prihlásite.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach synchronizácie systému Android.'>
-<!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju sputíte.'>
+<!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju spustíte.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
 <!ENTITY fxaccount_status_passwords 'Heslá'>
