@@ -61,8 +61,10 @@
 <!ENTITY preferencesCmd.label "Preferenze…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "v">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "v">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmd.accesskey "t">
 <!ENTITY findAgainCmd.label "Trova successivo">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "u">
