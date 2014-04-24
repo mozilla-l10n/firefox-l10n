@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "F">
 <!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
 <!ENTITY updateHistory.accesskey         "z">
-<!ENTITY updateOthers.label              "Automatikus frissítés:">
-<!ENTITY enableAddonsUpdate3.label       "Kiegészítők">
-<!ENTITY enableAddonsUpdate3.accesskey   "k">
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">

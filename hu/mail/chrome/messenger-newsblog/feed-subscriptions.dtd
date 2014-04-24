@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Hírforrások exportálása mappaszerkezettel; Ctrl+kattintás vagy Ctrl+Enter a hírforrások listaként való exportálásához">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Bezárás">
