@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Povijest">
 <!ENTITY dataSection.label            "Podaci">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Povijest pretraživanja i preuzimanja">
+<!ENTITY itemHistoryAndDownloads.accesskey "v">
+<!ENTITY itemFormSearchHistory.label       "Povijest obrazaca i traženja">
+<!ENTITY itemFormSearchHistory.accesskey   "o">
 <!ENTITY itemPasswords.label               "Spremljene lozinke">
 <!ENTITY itemPasswords.accesskey           "p">
 <!ENTITY itemCookies.label                 "Kolačići">

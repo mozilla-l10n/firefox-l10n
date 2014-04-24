@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Naziv">
 
 <!ENTITY cancel.label           "Odustani">
-
+<!ENTITY toggle.label           "Uključi/isključi">
 
 <!ENTITY integer.label          "Cijeli broj">
 <!ENTITY string.label           "Izraz">
 <!ENTITY boolean.label          "Boolean">
 
-
+<!ENTITY string.placeholder     "Upišite tekst">
+<!ENTITY number.placeholder     "Upišite broj linije">

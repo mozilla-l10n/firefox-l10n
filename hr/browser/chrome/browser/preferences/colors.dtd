@@ -10,8 +10,8 @@
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Tekst i pozadina">
-
-
+<!ENTITY  textColor.label                 "Tekst:">
+<!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Pozadina:">
 <!ENTITY  backgroundColor.accesskey       "z">
 <!ENTITY  useSystemColors.label           "Koristi boje sustava">

@@ -55,6 +55,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* Samo trenutna sesija, ponovno učitava stranicu">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -70,11 +72,15 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "Onemogući JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Isključivanje ove opcije će onemogućiti JavaScript za trenutnu karticu. Ako se kartica ili alatna traka zatvore, ova će postavka biti zaboravljena.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label     "Onemogući priručnu memoriju *">
+<!ENTITY options.disableCache.tooltip   "Uključivanje ove opcije će onemogućiti JavaScript za trenutnu karticu. Ako se kartica ili alatna traka zatvore, ova će postavka biti zaboravljena.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -89,6 +95,8 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "Dostupne tipke alatne trake">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -126,10 +134,12 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Prikaži originalne izvore">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Prikaži originalne izvore (npr. Sass datoteke) u uređivaču stilova i inspektoru">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
+<!ENTITY options.stylesheetAutocompletion.label      "Automatsko dovršavanje CSS-a">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Automaski dovršava CSS svojstva, vrijednosti i selektore u editoru stilova za vrijeme tipkanja">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
