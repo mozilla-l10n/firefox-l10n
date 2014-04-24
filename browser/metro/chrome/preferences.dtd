@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Actieve aanmeldingen">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Wachtwoorden onthouden">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Navigatieknoppen tonen">
 <!ENTITY doNotTrack.title                                        "Niet volgen">
 <!ENTITY doNotTrack.options.doNotTrack                           "Websites laten weten dat ik niet gevolgd wil worden">
 <!ENTITY doNotTrack.options.doTrack                              "Websites laten weten dat ik gevolgd wil worden">
