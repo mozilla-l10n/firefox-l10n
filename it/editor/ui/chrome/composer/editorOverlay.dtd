@@ -12,7 +12,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Trova…">
-<!ENTITY findReplaceCmd.label "Trova e sostituisci…v">
+<!ENTITY findReplaceCmd.label "Trova e sostituisci…">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
