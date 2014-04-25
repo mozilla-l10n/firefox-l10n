@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "&brandShortName;-র দ্বারা এই ফাইলের কি ব্যবস্থা করা হবে?">
 
 <!ENTITY  openWith.label              "উল্লিখিত অ্যাপ্লিকেশনের সাথে খুলুন">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "অন্যান্য...">
 
 <!ENTITY  saveFile.label              "ফাইল সংরক্ষণ করুন">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "এই প্রকৃতির ফাইলের জন্য ভবিষ্যতে স্বয়ংক্রিয়ভাবে এই কর্মপন্থা গ্রহণ করা হবে।">
 <!ENTITY  rememberChoice.accesskey    "a">

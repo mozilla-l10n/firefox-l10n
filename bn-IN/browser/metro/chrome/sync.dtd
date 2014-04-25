@@ -28,7 +28,7 @@
 <!-- Flyout when user has just connected -->
 
 <!ENTITY sync.flyout.setupsuccess.description1      "আপনাকে যুক্ত ছিলেন &brandShortName; &syncBrand.shortName.label; অ্যাকাউন্টের সাথে">
-<!ENTITY sync.flyout.setupsuccess.description2      "অাপনার &syncBrand.shortName.label; তথ্য এখন ব্যাকগ্রাউন্ডে ডাউনলোড হচ্ছে।আপনার সিঙ্ক করা ট্যাব  brandShortName; প্রারম্ভিক পেজে পাওয়া যাবে">
+<!ENTITY sync.flyout.setupsuccess.description2      "অাপনার &syncBrand.shortName.label; তথ্য এখন ব্যাকগ্রাউন্ডে ডাউনলোড হচ্ছে।আপনার সিঙ্ক করা ট্যাব &brandShortName; প্রারম্ভিক পেজে পাওয়া যাবে">
 <!-- Flyout when setup failed -->
 
 <!ENTITY sync.flyout.setupfailure.description       "&brandShortName; অ্যাকাউন্ট আপনার &syncBrand.shortName.label; সংযোগ করতে পারে না।">
