@@ -11,7 +11,7 @@
 
 <!ENTITY device.title "ဗဟို စက်ကိရိယာ ထိန်းချုပ်ဌာန">
 <!ENTITY device.notConnected "မချိတ်ဆက်ထားပါ။ ကျေးဇူးပြု၍ သင့်စက်ကိရိယာကို အောက်ဘက်တွင် ချိတ်ဆက်ပေးပါ။">
-
+<!ENTITY device.startApp "စတင်ပါ">
 
 
 
