@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  اس صفحہ میں تکنیکی معلومات ہے جو آپ کے مسائل حل کرنے میں
- فائدہ مند ہو سکتی ہے۔ اگر آپ ;brandShortName کے بارے میں عمومی سوالات کے جوابات تلاش کر رہے ہیں، 
+ فائدہ مند ہو سکتی ہے۔ اگر آپ ;brandShortName&amp; کے بارے میں عمومی سوالات کے جوابات تلاش کر رہے ہیں، 
  تو ہماری <a id='supportLink'>معاونت ویب سائٹ</a> کو چیک کرے۔">
 
 <!ENTITY aboutSupport.crashes.title "کریش رپورٹیں">

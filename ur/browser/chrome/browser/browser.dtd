@@ -545,7 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "آڈیو ای میل کریں…">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "آڈیو &amp;ای میل کریں…">
 
 <!ENTITY fullZoomReduceCmd.label        "باہر زوم">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">

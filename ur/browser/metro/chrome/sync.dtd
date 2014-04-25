@@ -39,7 +39,7 @@
 <!ENTITY sync.flyout.connected.account                    "اکاؤنٹ:">
 <!ENTITY sync.flyout.connected.device                     "آپ کا آلہ:">
 <!ENTITY sync.flyout.connected.disconnect                 "منقطع کریں">
-<!ENTITY sync.flyout.connected.disconnectWarningHeader    "کیا آپ اپپنا آلہ   ہم وقت برانڈ.مختصرنام.لیبل سے منقطع کرنا جہاتے ہیں؛؟">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "کیا آپ اپپنا آلہ &amp;  ہم وقت برانڈ.مختصرنام.لیبل سے منقطع کرنا جہاتے ہیں؛؟">
 <!ENTITY sync.flyout.connected.disconnectWarning          "دونوں آلہ اور &syncBrand.shortName.label; اکاؤنٹ پر آپ کا ذاتی کوائف سالم ہی رہے گا. ">
 <!ENTITY sync.flyout.connected.cancel                     "منسوخ ">
 <!ENTITY sync.flyout.connected.pair                       "آلے کا جوڑا بنائیں">
