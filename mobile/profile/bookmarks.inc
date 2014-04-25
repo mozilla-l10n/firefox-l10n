@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: உங்கள் உலவியை பற்றி
+#define bookmarks_aboutBrowser பயர்பாக்ஸ்: உலாவியை பற்றி
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox:  கூடுடல் இணைப்புகளுடன் விருப்பமைவு செய்
+#define bookmarks_addons பயர்பாக்ஸ்: கூடுதல் இணைப்புகளுடன் தனிபயனாக்கம்
 
 
 
@@ -61,7 +61,19 @@
 
 
 
-#define bookmarks_support Firefox:  ஆதரவு
+#define bookmarks_support பயர்பாக்ஸ்: ஆதரவு
+
+
+
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+#define bookmarks_marketplace பயர்பாக்ஸ் சந்தை
 
 
 
