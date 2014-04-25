@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
 
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "ଏହି ପ୍ରତିଛବିକୁ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "ଚୟନକୁ ସହଭାଗ କରନ୍ତୁ">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "ଏହି ଭିଡ଼ିଓକୁ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ">
@@ -243,7 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "ସ୍କ୍ରାଚପ୍ୟାଡ">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -431,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "ଦୃଶ୍ୟ ଏବଂ ବର୍ଣ୍ଣନା">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ଭିଡ଼ିଓ ଦେଖନ୍ତୁ">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବି ଦେଖନ୍ତୁ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ଡେସ୍କଟପ ପୃଷ୍ଠଭୂମି ଆକାରରେ ବିନ୍ୟାସ କରନ୍ତୁ…">
@@ -586,9 +586,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "ପୃଷ୍ଠା ଶୈଳୀ">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "କୌଣସି ଶୈଳୀ ନାହିଁ">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "ଏହି ୱେବ ସାଇଟ ପାଇଁ ପପ୍- ଅପ ବ୍ଲକିଙ୍ଗ ବିନ୍ୟାସଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 
@@ -679,9 +679,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> ରୁ ସର୍ଭିସଗୁଡ଼ିକୁ ସକ୍ରିୟ କରାଯାଇଛି। ଆପଣ <label class='text-link'>ଏଡ଼-ଅନ ପରିଚାଳକ</label> ରେ ଥିବା ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ଆପଣଙ୍କର ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
 <!ENTITY social.activated.undo.label "ଆହାଃ, ଏହାକୁ ବାତିଲ କରନ୍ତୁ!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "ଅଧିକ ଶିଖନ୍ତୁ…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ବର୍ତ୍ତମାନ ନୁହଁ">
 
 
