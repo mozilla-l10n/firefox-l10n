@@ -41,7 +41,7 @@ that require it.  -->
 <!ENTITY itemCookies.label                 "​ខូគី">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "​ឃ្លាំង​សម្ងាត់">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "ការ​ចូល​សកម្ម">

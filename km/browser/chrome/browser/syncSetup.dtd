@@ -94,7 +94,7 @@
 <!ENTITY engine.passwords.label     "ពាក្យ​សម្ងាត់">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ចំណូលចិត្ត">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "កម្មវិធី​បន្ថែម">
 <!ENTITY engine.addons.accesskey    "ម">
 

@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "​ខូគី">
 <!ENTITY clearPrivateData.cache                                  "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY clearPrivateData.sitePref                               "ចំណូលចិត្ត​តំបន់​បណ្ដាញ">
-<!ENTITY clearPrivateData.formSearchHist                         "ទម្រង់  ប្រវត្តិ​ស្វែងរក">
+<!ENTITY clearPrivateData.formSearchHist                         "ទម្រង់ &amp; ប្រវត្តិ​ស្វែងរក">
 <!ENTITY clearPrivateData.passwords                              "​ពាក្យសម្ងាត់​ដែល​បាន​រក្សា​ទុក">
 <!ENTITY clearPrivateData.offline                                "ទិន្នន័យ​តំបន់បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY clearPrivateData.logins                                 "ការ​ចូល​សកម្ម">
