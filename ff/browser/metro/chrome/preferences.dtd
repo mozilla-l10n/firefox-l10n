@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "Kukiije">
 <!ENTITY clearPrivateData.cache                                  "Kaasol">
 <!ENTITY clearPrivateData.sitePref                               "Cuɓoraaɗe lowre">
-<!ENTITY clearPrivateData.formSearchHist                         "Formere  aslol njiilaw">
+<!ENTITY clearPrivateData.formSearchHist                         "Formere &amp; aslol njiilaw">
 <!ENTITY clearPrivateData.passwords                              "Finndeeji danndaaɗi">
 <!ENTITY clearPrivateData.offline                                "Keɓe lowe ceŋtol">
 <!ENTITY clearPrivateData.logins                                 "Ceŋanɗe caasɗe">
