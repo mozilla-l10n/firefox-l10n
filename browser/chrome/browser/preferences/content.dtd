@@ -9,7 +9,7 @@
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "e">
 
-<!ENTITY  fontsAndColors.label        "Font  Warna">
+<!ENTITY  fontsAndColors.label        "Font &amp; Warna">
 
 <!ENTITY  defaultFont.label           "Font asal:">
 <!ENTITY  defaultFont.accesskey       "F">

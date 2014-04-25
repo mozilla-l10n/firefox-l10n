@@ -71,7 +71,7 @@
 <!ENTITY contextTextCopy.label             "Salin">
 <!ENTITY contextTextPaste.label            "Tampal">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Tampal  pergi">
+<!ENTITY contextTextPasteAndGo.label       "Tampal &amp; pergi">
 <!ENTITY contextTextSelect.label           "Pilih">
 <!ENTITY contextTextSelectAll.label        "Pilih semua">
 <!-- LINK CONTEXT MENU -->
