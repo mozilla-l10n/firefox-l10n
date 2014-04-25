@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "மூடிய தத்தல்களை திற">
 <!ENTITY  undoCloseTab.accesskey             "ம">
 <!ENTITY  closeTab.label                     "தத்தலை மூடவும்">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடு">
 
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "இந்தப் படத்தைப் பகிர்">
 <!ENTITY shareImageCmd.accesskey "இ">
 <!ENTITY shareSelectCmd.label "தேர்வைப் பகிர்">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "இந்த நிகழ்படத்தை பகிரவும்">
 <!ENTITY shareVideoCmd.accesskey "இ">
 <!ENTITY feedsMenu.label "சந்தாப்படுத்து">
@@ -243,7 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "கீறல் அட்டை">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -431,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "விளக்கத்தை பார்க்க">
 <!ENTITY viewImageDescCmd.accesskey   "வ">
 <!ENTITY viewVideoCmd.label           "வீடியோவை காட்டு">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "பின்னணி படத்தைக் காட்டு">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "பணிமேடையின் பின்னணியாக அமை…">
@@ -586,9 +586,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "பக்கப் பாணி">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "பாணி இல்லை">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "அடிப்படை பக்கப் பாணி">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "இந்த இணைய தளத்திற்கான பாப்பப் தடுத்தல் அமைவை மாற்று">
 
@@ -679,7 +679,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> இலிருந்து பெறும் சேவைகள் செயல்படுத்தப்பட்டுள்ளன. நீங்கள்சேவைகளுக்கான உங்கள் அமைவுகளை <label class='text-link'>துணை நிரல் நிர்வாகியில்</label> மாற்றியமைக்கலாம்.">
 <!ENTITY social.activated.undo.label "அச்சச்சோ, இதை செயல்தவிர்!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "மேலும் அறிய...">
 <!ENTITY social.learnMore.accesskey "ம">
 <!ENTITY social.closeNotificationItem.label "இப்போது வேண்டாம்">
