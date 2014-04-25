@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "Edit As HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!ENTITY inspectorHTMLCopyInner.label       "അകത്തുള്ള എച്‌ടിഎംഎല്‍ പകര്‍ത്തുക">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "അ">
@@ -18,3 +18,4 @@
 <!ENTITY inspectorSearchHTML.label          "എച്‌ടിഎംഎല്‍ തെരയുക">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorCopyImageDataUri.label       "Copy Image Data-URL">

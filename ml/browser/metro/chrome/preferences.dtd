@@ -8,32 +8,34 @@
 
 <!ENTITY optionsHeader.title                                     "ഉപാധികള്‍">
 <!ENTITY optionsHeader.char.title                                "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
+<!ENTITY optionsHeader.char.autodetect.label                     "സ്വയം കണ്ടുപിടിക്കുക">
+<!ENTITY optionsHeader.char.options.label                        "Show encoding options on the App Bar">
 
-
-
-
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "Clear Private Data">
+<!ENTITY clearPrivateData.label                                  "Clear your browsing history, passwords, cookies, and form data on this device">
+<!ENTITY clearPrivateData.button                                 "വൃത്തിയാകുക ">
+<!ENTITY clearPrivateData.done                                   "Done!">
+<!ENTITY clearPrivateData.history                                "തിരയല്‍ ചരിത്രം ">
+<!ENTITY clearPrivateData.otherdata                              "Other data (passwords, cache, cookies, etc)">
+<!ENTITY clearPrivateData.downloadHist                           "ഡൗണ്‍ലോഡ് നാള്‍വഴി">
 <!ENTITY clearPrivateData.cookies                                "കുക്കികള്‍ ">
+<!ENTITY clearPrivateData.cache                                  "കാഷ്">
+<!ENTITY clearPrivateData.sitePref                               "സൈറ്റ് മുന്‍ഗണനകള്‍">
+<!ENTITY clearPrivateData.formSearchHist                         "നാള്‍വഴി തെരയുക">
+<!ENTITY clearPrivateData.passwords                              "സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍">
+<!ENTITY clearPrivateData.offline                                "ഓഫ്‌ലൈന്‍ ആയ വെബ്സൈറ്റിനുള്ള ഡേറ്റാ">
+<!ENTITY clearPrivateData.logins                                 "സജീവമായ ലോഗിനുകള്‍">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "രഹസ്യവാക്ക് സൂക്ഷിയ്ക്കുക">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Show Navigation Buttons">
+<!ENTITY doNotTrack.title                                        "Do Not Track">
+<!ENTITY doNotTrack.options.doNotTrack                           "നിരീക്ഷണത്തിന്റെ ആവശ്യമില്ലെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക">
+<!ENTITY doNotTrack.options.doTrack                              "നിരീക്ഷണത്തിന്റെ ആവശ്യമുണ്ടെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക.">
+<!ENTITY doNotTrack.options.default                              "നിരീക്ഷണ മുന്‍ഗണനകളെപ്പറ്റി സൈറ്റുകളെ അറിയ്ക്കരുതു്.">
+<!ENTITY doNotTrack.learnMoreLink                                "Learn more&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; തകർച്ചാവിവരങ്ങൾ &vendorShortName; -മായി പങ്കുവെച്ച് നിങ്ങളുടെ ബ്രൗസർ മെച്ചപ്പെടുത്തുന്നു.">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "സന്ദര്‍ശിച്ചുകൊണ്ടിരുന്ന താളിന്റെ വിലാസം ചേര്‍ക്കുക.">
 <!ENTITY optionsHeader.telemetry.title                            "ടെലിമെട്രി">
-
+<!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
