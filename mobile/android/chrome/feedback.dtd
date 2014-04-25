@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "সঁহাৰিৰ সঁজুলি">
+
+<!ENTITY feedback.communicate.title     "আমাৰ লগত যোগাযোগ কৰক!">
 <!ENTITY feedback.feedback.title        "সঁহাৰি দিয়ক">
+<!ENTITY feedback.feedback.good         "ভাল">
+<!ENTITY feedback.feedback.bad          "বেয়া">
 
-
-
-
-
-
+<!ENTITY feedback.tools.title           "সঁজুলিসমূহ">
+<!ENTITY feedback.allowTelemetry.title  "পৰিৱেশন তথ্য পঠাওক">
+<!ENTITY feedback.forceCompat.title     "এড-অনসমূহৰ সংগতা বলৱৎ কৰক">
+<!ENTITY feedback.errorConsole.title    "ত্ৰুটি কনচৌল সামৰ্থবান কৰক">

@@ -33,7 +33,7 @@
 
 <!ENTITY choose_file "ফাইল বাছক">
 
-<!ENTITY url_bar_default_text "সন্ধান অথবা ঠিকনা সুমুৱাওক">
+<!ENTITY url_bar_default_text "ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক">
 
 <!ENTITY bookmark "পত্ৰচিহ্ন">
 <!ENTITY bookmark_added "পত্ৰচিহ্ন যোগ কৰা হল">
@@ -313,7 +313,7 @@ size. -->
 <!ENTITY button_set "সংহতি কৰক">
 <!ENTITY button_clear "পৰিষ্কাৰ কৰক">
 
-<!ENTITY home_top_sites_title "উচ্চতম ছাইটবোৰ">
+<!ENTITY home_top_sites_title "সৰ্বোত্তম ছাইটসমূহ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "এটা ছাইট যোগ কৰক">

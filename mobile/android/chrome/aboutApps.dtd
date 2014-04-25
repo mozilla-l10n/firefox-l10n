@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "এপ্লিকেচনসমূহ">
+<!ENTITY aboutApps.header                          "আপোনাৰ এপসমূহ">
 
-
-
+<!ENTITY aboutApps.browseMarketplace "Firefox মাৰ্কেটপ্লেইচ ব্ৰাউছ কৰক">
+<!ENTITY aboutApps.uninstall "আনইনস্টল কৰক">
 <!ENTITY aboutApps.addToHomescreen "আৰম্ভণি পৰ্দালৈ যোগ কৰক">
 <!ENTITY aboutApps.checkForUpdates "আপডেইটসমূহৰ কাৰণে নিৰিক্ষণ কৰক">
