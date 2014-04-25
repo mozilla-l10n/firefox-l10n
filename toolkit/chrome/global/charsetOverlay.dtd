@@ -6,11 +6,11 @@
 <!ENTITY charsetMenu.label             "আখৰ এনক'ডিং">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "স্বচালিতভাৱে-চিনাক্ত কৰক">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "অধিক এনক'ডিং">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "M">
 <!ENTITY charsetMenuMore1.label        "পশ্চিম ইউৰোপীয়">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "পূৰ্ব ইউৰোপীয়">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "পূৰ্ব এছীয়">
@@ -20,4 +20,4 @@
 <!ENTITY charsetMenuMore5.label        "মধ্য পূৰ্বীয়">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "তালিকা স্বনিৰ্বাচন কৰক…">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetCustomize.accesskey    "C">

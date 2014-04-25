@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "পৃষ্ঠা সংস্থাপন">
 
-<!ENTITY basic.tab           "ফৰমেট  বিকল্পসমূহ">
+<!ENTITY basic.tab           "ফৰমেট &amp; বিকল্পসমূহ">
 
 <!ENTITY formatGroup.label   "ফৰমেট">
 
