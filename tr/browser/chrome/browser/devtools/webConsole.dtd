@@ -65,8 +65,6 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
-<!ENTITY btnPageLogging.label   "Kayıt tutma">
 <!ENTITY btnPageLogging.tooltip "Günlük iletileri window.console nesnesine gönderildi">
 <!ENTITY btnPageLogging.accesskey3 "K">
 <!ENTITY btnConsoleErrors       "Hatalar">
