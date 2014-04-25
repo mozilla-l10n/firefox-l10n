@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "脱机工作">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "启动时不询问并自动使用选定的配置文件">
+<!ENTITY            useSelected.label       "启动时不询问并使用选定的配置文件">
 <!ENTITY            useSelected.accesskey   "s">
