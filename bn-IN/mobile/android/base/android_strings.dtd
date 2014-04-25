@@ -83,7 +83,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: যেকোনো ওয়েবসাইট আপনার সার্চ প্রোভাইডার এর তালিকায় যুক্ত করুন সেই ওয়েবসাইট এর অনুসন্ধান করার জায়গায় কিছুক্ষন চেপে রেখে &formatI; আইকনে টোকা মেরে">
+<!ENTITY pref_search_hint "TIP: যেকোনো ওয়েবসাইট আপনার সার্চ প্রোভাইডার এর তালিকায় যুক্ত করুন সেই ওয়েবসাইট এর অনুসন্ধান করার জায়গায় কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন">
 <!ENTITY pref_category_devtools "ডেভলপার টুলগুলি">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_docs "আরও জানুন">
@@ -128,7 +128,7 @@
 <!ENTITY pref_clear_private_data "ব্যক্তিগত তথ্য পরিষ্কার করা হোক">
 <!ENTITY pref_plugins "প্লাগ-ইনসমূহ">
 <!ENTITY pref_plugins_enabled "সক্রিয় অাছে">
-<!ENTITY pref_plugins_tap_to_play "প্লে করার জন্য টোকা মারুন">
+<!ENTITY pref_plugins_tap_to_play "প্লে করার জন্য এখানে যান">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সট সাইজ">
 <!ENTITY pref_reflow_on_zoom4 "পুনঃ লেখ প্রবাহ">
@@ -316,7 +316,7 @@ size. -->
 <!ENTITY home_top_sites_title "শীর্ষ সাইটগুলো">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "একটি সাইট যুক্ত করুন">
+<!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
 
 <!ENTITY home_history_title "পূর্ববর্তী তথ্য">
 <!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
