@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "টেব বন্ধ কৰা বাতিল কৰক">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "টেব বন্ধ কৰক">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "সকলো টেব দেখুৱাওক">
 
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "এই ছবি অংশীদাৰী কৰক">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "নিৰ্বাচন অংশীদাৰী কৰক">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "এই ভিডিঅ' অংশীদাৰী কৰক">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "স্বাক্ষৰ কৰক">
@@ -243,7 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "স্ক্ৰেচপেড">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -431,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "বিৱৰণ দৰ্শন কৰক">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ভিডিঅ' দৰ্শন কৰক">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "পটভূমিৰ ছবি দৰ্শন কৰক">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপৰ পটভূমি হিচাপে সংহতি কৰক…">
@@ -586,9 +586,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "পৃষ্ঠা শৈলী">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "কোনো শৈলী নাই">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "সাধাৰণ পৃষ্টা শৈলী">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "এই ৱেবছাইটৰ বাবে পপ-আপ প্ৰতিৰোধকাৰী সংহতিবোৰ সলনি কৰক">
 
@@ -679,9 +679,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> ৰ পৰা সেৱাসমূহ সামৰ্থবান কৰা হৈছে। আপুনি সেৱাসমূহৰ বাবে আপোনাৰ সংহতিসমূহক <label class='text-link'>Add-on Manager</label> ত সলনি কৰিব পাৰিব।">
 <!ENTITY social.activated.undo.label "ইচ্ছ, ইয়াক বাতিল কৰক!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "অধিক জানক…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এতিয়া নহয়">
 
 
