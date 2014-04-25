@@ -9,48 +9,58 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-
-
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;ലേക്ക് ബന്ധിപ്പിക്കുക">
+<!ENTITY sync.title.adddevice.label "ഒരു അക്കൗണ്ട് &syncBrand.fullName.label; നിർമ്മിക്കുക">
 <!ENTITY sync.title.pair.label "ഒരു ഡിവൈസുമായി പെയര്‍ ചെയ്യുക">
 <!-- J-PAKE Key Screen -->
 
-
-
-
+<!ENTITY sync.subtitle.connect.label "നിങ്ങളുടെ ഉപകരണം പ്രവർത്തിപ്പിക്കാൻ, “&syncBrand.shortName.label; സജ്ജീകരണം” എടുക്കുക.">
+<!ENTITY sync.subtitle.header2.label "ഈ കോഡ് നിങ്ങളുടെ ഉപകരണത്തിൽ അടിക്കുക">
+<!ENTITY sync.subtitle.connectlocation2.label "നിങ്ങളുടെ മറ്റു് ഉപകരണത്തിന്റെ ഫയർഫോക്സ് ഐച്ഛികങ്ങളിൽ &syncBrand.shortName.label;-ലുള്ള “&sync.title.pair.label;” എന്നത് തിരഞ്ഞെടുക്കുക.">
+<!ENTITY sync.subtitle.pair.label "സജീവമാക്കുന്നതിനു്, നിങ്ങളുടെ മറ്റുപകരണത്തില്‍ \&quot;Pair a Device\&quot; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "എങ്ങനെയെന്നു് കാണിയ്ക്കുക.">
-
-
+<!ENTITY sync.link.advancedsetup.label "വിശദമായ സജ്ജീകരണങ്ങള്‍">
+<!ENTITY sync.link.nodevice.label "ഡിവൈസ് ലഭ്യമല്ല...">
 <!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "മറ്റു ഉപകരണത്തിനായി കാത്തിരിക്കുന്നു...">
 <!-- Account Login Screen -->
 
+<!ENTITY sync.subtitle.account.label "നിങ്ങളുടെ &syncBrand.fullName.label; അകൗണ്ട് വിവരങ്ങൾ അടിക്കൂ">
+<!ENTITY sync.input.username.label "അക്കൌണ്ടിന്റ് പേരു്">
 <!ENTITY sync.input.password.label "രഹസ്യവാക്ക്">
-
-
-
+<!ENTITY sync.input.key.label "വീണ്ടെടുക്കല്‍ കീ">
+<!ENTITY sync.checkbox.server.label "ഇഷ്ടമുള്ള സര്‍വര്‍ ഉപയോഗിയ്ക്കുക">
+<!ENTITY sync.input.server.label "സര്‍വര്‍ URL">
 <!-- Setup Fail -->
-
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; സജ്ജമാക്കുവാന്‍ സാധ്യമല്ല">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;സർവറുമായി ബന്ധം സ്ഥാപിക്കാൻ സാധിച്ചില്ല. വീണ്ടും ശ്രമിക്കണോ?">
 <!ENTITY sync.button.tryagain.label "വീണ്ടും ശ്രമിയ്ക്കുക">
-
-
-
-
+<!ENTITY sync.button.manual.label "സ്വമേധയുള്ള സജ്ജീകരണം">
+<!ENTITY sync.subtitle.nointernet.label "ഇൻറ്റർനെറ്റ് കണക്ഷന്‍ ലഭ്യമല്ല">
+<!ENTITY sync.subtitle.failaccount.label "അക്കൌണ്ട് സജ്ജീകരണം പരാജയപ്പെട്ടു.">
+<!ENTITY sync.subtitle.failmultiple.label "ഒന്നില്‍ കൂടുതല്‍ ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടുണ്ടോ? നിലവില്‍, ഒരു സമയത്തു് ഒരു ഫയര്‍ഫോക്സ് മാത്രമേ &syncBrand.fullName.label; പിന്തുണയ്ക്കുന്നുള്ളൂ. &syncBrand.shortName.label; ഉപയോഗിയ്ക്കുന്നതിനു് ദയവായി മറ്റുള്ള ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റന്‍സ് ഉപേക്ഷിയ്ക്കുക.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "സജ്ജമാക്കല്‍ പൂര്‍ണ്ണമാക്കിയിരിയ്ക്കുന്നു">
-
+<!ENTITY sync.subtitle.success.label1 "പശ്ചാത്തലത്തില്‍, നിങ്ങളുടെ ഡേറ്റാ ഡൌണ്‍ലോഡ് ആകുന്നു. അക്കൌണ്ട് കൈകാര്യം ചെയ്യുന്നതിനു് സജ്ജീകരണത്തിലേക്കു് പോകുക, അല്ലെങ്കില്‍ &brandShortName; ഉപയോഗിയ്ക്കുക.">
 <!ENTITY sync.settings.label "സജ്ജീകരണങ്ങള്‍">
-
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; അക്കൌണ്ട് സജ്ജമാണു്. ഇതു് കൈകാര്യം ചെയ്യുന്നതിനു് സജ്ജീകരണങ്ങളിലേക്കു് പോകാം അല്ലെങ്കില്‍ &brandShortName; ലഭ്യമാക്കുക.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
-
+<!ENTITY sync.pair.connectlocation.label "പുതിയ ഉപകരണം സജീവമാക്കുന്നതിനു്, “&syncBrand.shortName.label; സജ്ജമാക്കുക” ഐച്ഛികത്തില്‍ “സ്വന്തമായി അക്കൌണ്ടുണ്ടു്” തെരഞ്ഞെടുക്കുക.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ഐച്ഛികങ്ങള്‍">
-
+<!ENTITY sync.summary.pair.label "&syncBrand.shortName.label; അക്കൌണ്ടിലേക്കു് മറ്റൊരു ഉപകരണം ബന്ധപ്പെടുത്തക">
 <!-- Configure Engines -->
 
+<!ENTITY sync.configure.engines.title.label "എന്തു് സിന്‍ക് ചെയ്യണം">
+<!ENTITY sync.configure.engines.sync.my.title.label "സിന്‍ക് ചെയ്യേണ്ടതു്...">
 <!ENTITY sync.configure.engines.title.bookmarks "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY sync.configure.engines.title.passwords "രഹസ്യവാക്കുകള്‍">
 <!ENTITY sync.configure.engines.title.history "നാള്‍വഴി">
@@ -58,35 +68,42 @@
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "റദ്ദാക്കുക">
-
+<!ENTITY sync.button.connect.label "ബന്ധിപ്പിയ്ക്കുക">
 <!ENTITY sync.button.ok.label "ശരി">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label;(ഒഴിവാക്കി)">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള പട്ടിക">
 <!ENTITY bookmarks.folder.places.label ''>
-
+<!ENTITY bookmarks.folder.tags.label "റ്റാഗുകള്‍">
 <!ENTITY bookmarks.folder.toolbar.label "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ഉപകരണപ്പട്ട">
 <!ENTITY bookmarks.folder.unfiled.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
-
+<!ENTITY bookmarks.folder.desktop.label "പണിയിടത്തിലുള്ള അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarks.folder.mobile.label "മൊബൈല്‍ അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarks.folder.readinglist.label "പട്ടിക വായിക്കുന്നു">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "ചേര്‍ത്ത സൈറ്റുകള്‍">
 <!-- Notification strings -->
 
+<!ENTITY sync.notification.oneaccount.label "ഒരു &syncBrand.fullName.label; അക്കൌണ്ട് മാത്രമേ പിന്തുണയ്ക്കുന്നുള്ളൂ.">
+<!ENTITY sync.notification.configure.saved "നിങ്ങള്‍ തെരഞ്ഞെടുത്തതു് സൂക്ഷിച്ചിരിയ്ക്കുന്നു.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "അക്കൗണ്ട് നാമം അല്ലെങ്കില്‍ രഹസ്യവാക്ക് തെറ്റാണ്.">
 <!ENTITY sync.invalidserver.label "ശരിയായൊരു സര്‍വര്‍ യുആര്‍എല്‍ നല്‍കുക">
 <!ENTITY sync.verifying.label "ഉറപ്പാക്കുന്നു…">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "വീണ്ടെടുക്കുന്നതിനുള്ള കീ തെറ്റ്. ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
 <!-- Send tab to device. -->
 
-
-
-
-
-
+<!ENTITY sync.title.send.tab.label "ഉപകരണങ്ങള്‍ക്കു് റ്റാബ് അയയ്ക്കുക">
+<!ENTITY sync.button.send.label "അയയ്ക്കുക">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; സജ്ജമാക്കുക">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു് &syncBrand.shortName.label; സജ്ജമാക്കുക">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "മറ്റു് ഉപകരണങ്ങള്‍ക്കു് റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു്, &syncBrand.fullName.label; സജ്ജമാക്കുക.">
+<!ENTITY sync.text.tab.sent.label "നിങ്ങളുടെ ടാബ് അയച്ചു!">
+<!ENTITY sync.text.tab.not.sent.label "നിങ്ങളുടെ ടാബ് അയക്കുന്നതിൽ തടസ്സം നേരിട്ടു.">
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -100,81 +117,107 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "ബ്രൗസിംഗിലേക്ക് തിരികെ">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+<!ENTITY fxaccount_policy_linktos "സേവന നിബന്ധനകള്‍">
+<!ENTITY fxaccount_policy_linkprivacy "സ്വകാര്യ വ്യവസ്ഥകള്‍">
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
 <!ENTITY fxaccount_getting_started_description "നിങ്ങളുടെ ടാബുകള്‍, അടയാളകുറിപ്പുകള്‍, രഹസ്യവാക്കുകള്‍ തുടങ്ങിയവ സിങ്ക് ചെയ്യാനായി പ്രവേശിക്കുക">
-
-
+<!ENTITY fxaccount_getting_started_get_started "ഉപയോഗിച്ചു് തൂടങ്ങൂ">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;-ന്റെ പഴയ പതിപ്പു് ഉപയോഗിയ്ക്കുന്നോ?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-
+<!ENTITY fxaccount_create_account_header2 "ഒരു ഫയര്‍ഫോക്സ് അക്കൌണ്ട് തയ്യാറാക്കുക">
+<!ENTITY fxaccount_create_account_password_length_restriction "കുറഞ്ഞതു് 8 അക്ഷരങ്ങളുണ്ടായിരിയ്ക്കണം">
+<!ENTITY fxaccount_create_account_year_of_birth "ജനന വര്‍ഷം">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "ഫയര്‍ഫോക്സ് ക്ലൌഡ് സേവനങ്ങളുടെ &formatS1;, &formatS2; എന്നിവയുമായി മുമ്പോട്ട് തുടരുന്നു.">
 <!ENTITY fxaccount_create_account_button "അടുത്തതു്">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "എന്താണ് സിന്‍ക് ചെയ്യേണ്ടതെന്നു് തെരഞ്ഞെടുക്കുക">
+<!ENTITY fxaccount_create_account_sign_in_instead "അക്കൗണ്ട് ഉണ്ടെങ്കില്‍ പ്രവേശിക്കാം">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 യൊ അതിനു മുമ്പോ">
+<!ENTITY fxaccount_create_account_unknown_error "അക്കൗണ്ട് നിർമ്മിക്കാൻ സാധിച്ചില്ല">
 
+<!ENTITY fxaccount_account_create_not_allowed "അക്കൗണ്ട് നിർമ്മിക്കാൻ സാധിക്കില്ല">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "അക്കൌണ്ട് തയ്യാറാക്കുന്നതിനു്, ചില പ്രായപരിമിതികളുണ്ടു്.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "കൂടുതല്‍ അറിയുക">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_confirm_account_header "അക്കൌണ്ട് ഉറപ്പാക്കുക">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "ഉറപ്പാക്കുന്നതിനുള്ളൊരു കണ്ണി &formatS;-ലേക്കു് അയച്ചു">
+<!ENTITY fxaccount_confirm_account_resend_email "മെയില്‍ വീണ്ടും അയയ്ക്കൂ">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയച്ചു">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയയ്ക്കുവാനായില്ല">
 
-
-
-
-
+<!ENTITY fxaccount_sign_in_sub_header "പ്രവേശിയ്ക്കുക">
+<!ENTITY fxaccount_sign_in_button_label "പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaccount_sign_in_forgot_password "രഹസ്യവാക്ക് മറന്നോ?">
+<!ENTITY fxaccount_sign_in_create_account_instead "അക്കൗണ്ട്‌ ഉണ്ടാക്കുക">
+<!ENTITY fxaccount_sign_in_unknown_error "പ്രവേശിക്കാൻ സാധിച്ചില്ല">
 
+<!ENTITY fxaccount_account_verified_sub_header "അക്കൗണ്ട് ഉറപ്പാക്കി">
+<!ENTITY fxaccount_account_verified_description2 "അനുനിമിഷം ഡേറ്റാ സിന്‍ക് ചെയ്യുവാന്‍ ആരംഭിയ്ക്കുന്നു.">
 
+<!ENTITY fxaccount_update_credentials_header "പ്രവേശിക്കുക">
+<!ENTITY fxaccount_update_credentials_button_label "പ്രവേശിയ്ക്കുക">
+<!ENTITY fxaccount_update_credentials_unknown_error "പ്രവേശിക്കാൻ സാധ്യമായില്ല">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
+<!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: പ്രവര്‍ത്തന സജ്ജം">
+<!ENTITY fxaccount_status_needs_verification2 "അക്കൌണ്ട് ഉറപ്പാക്കേണ്ടതുണ്ടു്. ഇതിനാവശ്യമായ മെയില്‍ അയയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക.">
+<!ENTITY fxaccount_status_needs_credentials "കണക്ട് ചെയ്യുവാനായില്ല. പ്രവേശിയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക.">
+<!ENTITY fxaccount_status_needs_upgrade "പ്രവേശിയ്ക്കന്നതിനു് &brandShortName; പരിഷ്കരിയ്ക്കണം.">
+<!ENTITY fxaccount_status_bookmarks "അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY fxaccount_status_history "നാള്‍വഴി">
 <!ENTITY fxaccount_status_passwords "രഹസ്യവാക്കുകള്‍">
-
-
+<!ENTITY fxaccount_status_tabs "ടാബുകള്‍ തുറക്കുക">
+<!ENTITY fxaccount_status_legal "നിയമപരം" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos "സേവന നിബന്ധനകള്‍">
+<!ENTITY fxaccount_status_linkprivacy "സ്വകാര്യ അറിയിപ്പു്">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "ഫയര്‍ഫോക്സ്">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
      Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ഐച്ഛികങ്ങള്‍">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; ക്രമീകരിയ്ക്കുക">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "നിങ്ങളുടെ ഫയർഫോക്സ് പുതുക്കണം">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "അകൗണ്ട് നേരത്തെതന്നെ ഉണ്ട്. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "തെറ്റായ ഇമെയില്‍ അല്ലെങ്കില്‍ രഹസ്യവാക്ക്">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "തെറ്റായ ഇമെയില്‍ അല്ലെങ്കില്‍ രഹസ്യവാക്ക്">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "അകൗണ്ട് ഉറപ്പാക്കിയിട്ടില്ല">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "സർവർ തിരക്കിലാണ്, പിന്നീട്‌ ശ്രമിക്കുക">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "സര്‍വര്‍ ഫ്രീയല്ല, പിന്നീടു് വീണ്ടും ശ്രമിയ്ക്കുക">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ഒരു പ്രശ്നമുണ്ടായി">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "നെറ്റ്‌വര്‍ക്കിലേക്കു് കണക്ട് ചെയ്യുവാനായില്ല">
 
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; കണക്ട് ചെയ്തിട്ടില്ല">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ആയി പ്രവേശിയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക">
