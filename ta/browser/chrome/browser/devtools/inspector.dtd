@@ -17,3 +17,5 @@
 
 <!ENTITY inspectorSearchHTML.label          "HTML ஐத் தேடு">
 <!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "படத்தரவின் இணைப்பை நகலெடு">
