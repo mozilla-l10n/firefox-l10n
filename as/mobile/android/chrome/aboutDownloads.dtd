@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY aboutDownloads.title                      "ডাউনল'ডসমূহ">
+<!ENTITY aboutDownloads.header                     "আপোনাৰ ডাউনল'ডসমূহ">
+<!ENTITY aboutDownloads.empty                      "কোনো ডাউনল'ড নাই">
 
 <!ENTITY aboutDownloads.open                       "খোলক">
 <!ENTITY aboutDownloads.remove                     "মচক">
-
-<!ENTITY aboutDownloads.pause                      "বিৰাম দিয়ক">
+<!ENTITY aboutDownloads.removeAll                  "সকলোবোৰ মচি পেলাওক">
+<!ENTITY aboutDownloads.pause                      "বিৰতি">
 <!ENTITY aboutDownloads.resume                     "আগবাঢ়ক">
 <!ENTITY aboutDownloads.cancel                     "বাতিল কৰক">
 <!ENTITY aboutDownloads.retry                      "পুনৰ চেষ্টা কৰক">

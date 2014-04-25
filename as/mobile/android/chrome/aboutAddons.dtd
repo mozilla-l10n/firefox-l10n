@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "এড-অনসমূহ">
 <!ENTITY aboutAddons.header2                    "আপোনাৰ এড-অনসমূহ">
 <!ENTITY aboutAddons.options                    "বিকল্পসমূহ">
-
+<!ENTITY aboutAddons.browseAll                  "সকলো Firefox এড-অনসমুহ ব্ৰাউছ কৰক">
 
 <!ENTITY addonAction.enable                     "সামৰ্থবান কৰক">
 <!ENTITY addonAction.disable                    "অসামৰ্থবান কৰক">
-
+<!ENTITY addonAction.uninstall                  "আনইনস্টল কৰক">
 <!ENTITY addonAction.undo                       "বাতিল কৰক">
