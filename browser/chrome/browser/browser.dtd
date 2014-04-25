@@ -100,7 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogućen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; će ubrzo započeti sa sinkronizacijom.">
-<!ENTITY syncErrorPanel.heading "Povezivanje na syncBrand.shortName.label nije moguće;">
+<!ENTITY syncErrorPanel.heading "Povezivanje na &syncBrand.shortName.label; nije moguće;">
 <!ENTITY syncErrorPanel.subTitle "Prijavite se za nastavak sinkronizacije.">
 <!ENTITY syncErrorPanel.signInButton.label "Prijava">
 <!ENTITY syncErrorPanel.signInButton.accesskey "P">
