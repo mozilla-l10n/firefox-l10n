@@ -129,9 +129,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "ចែករំលែក​ទំព័រ​នេះ">
 <!ENTITY sharePageCmd.commandkey "S">
-
+<!ENTITY sharePageCmd.accesskey "s">
 <!ENTITY shareLinkCmd.label "ចែករំលែក​​តំណ​​នេះ">
 <!ENTITY shareLinkCmd.accesskey "s">
 <!ENTITY shareImageCmd.label "ចែករំលែក This">
