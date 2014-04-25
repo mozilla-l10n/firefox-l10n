@@ -7,11 +7,15 @@
 
 <!ENTITY newPref.namePlaceholder       "പേരു്">
 
+<!ENTITY newPref.valueBoolean          "ബൂളിയന്‍">
+<!ENTITY newPref.valueString           "വാക്യം">
+<!ENTITY newPref.valueInteger          "പൂർണ്ണ സംഖ്യ">
 
+<!ENTITY newPref.stringPlaceholder     "ഒരു വാക്യം ടൈപ്പ് ചെയ്യൂ">
+<!ENTITY newPref.numberPlaceholder     "ഒരു സംഖ്യ നൽകുക">
 
-
-
-
+<!ENTITY newPref.toggleButton          "മാറ്റുക">
 <!ENTITY newPref.cancelButton          "റദ്ദാക്കുക">
 
-
+<!ENTITY contextMenu.copyPrefName      "പേര്‌ പകര്‍ത്തുക">
+<!ENTITY contextMenu.copyPrefValue     "മൂല്ല്യം പകര്‍ത്തുക">
