@@ -175,8 +175,8 @@
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সক্রিয় করা হল">
-<!ENTITY fxaccount_status_needs_verification2 "আপনার অ্যাকাউন্ট এর যাঁচাইকরণ বাধ্যতামূলক। যাঁচাইকারী ইমেল পুনরায় পাঠাতে টোকা মারুন।">
-<!ENTITY fxaccount_status_needs_credentials "কানেক্ট করা গেল না । সাইন ইন করতে ক্লিক মারুন।">
+<!ENTITY fxaccount_status_needs_verification2 "আপনার অ্যাকাউন্ট এর যাঁচাইকরণ বাধ্যতামূলক। যাঁচাইকারী ইমেল পুনরায় পাঠাতে এখানে যান।">
+<!ENTITY fxaccount_status_needs_credentials "কানেক্ট করা গেল না । সাইন ইন করতে এখানে যান।">
 <!ENTITY fxaccount_status_needs_upgrade "সাইন ইন করতে হলে আপনাকে &brandShortName; আপগ্রেড করতেই হবে।">
 <!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
@@ -220,4 +220,4 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; টি যুক্ত নয়">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; রূপে সাইন ইন করতে আবার টোকা মারুন">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; রূপে সাইন ইন করতে আবার এখানে যান">
