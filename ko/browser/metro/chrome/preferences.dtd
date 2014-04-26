@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "현재 로그인">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "암호 저장">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "주소창 버튼 보이기">
 <!ENTITY doNotTrack.title                                        "방문자 추적 중지">
 <!ENTITY doNotTrack.options.doNotTrack                           "웹 사이트에 방문자 추적 중지를 요청">
 <!ENTITY doNotTrack.options.doTrack                              "웹 사이트에 방문자 추적을 요청">
