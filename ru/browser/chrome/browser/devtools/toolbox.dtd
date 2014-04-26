@@ -32,7 +32,7 @@
 <!ENTITY options.selectAdditionalTools.label "Инструменты разработчика установленные дополнениями">
 <!ENTITY options.selectEnabledToolboxButtons.label "Доступные кнопки инструментов">
 <!ENTITY options.toolNotSupported.label "* Не поддерживается для текущей цели инструмента">
-<!ENTITY options.selectDevToolsTheme.label "Выбор темы Инструментов Разработчка:">
+<!ENTITY options.selectDevToolsTheme.label "Выбор темы Инструментов Разработчика:">
 <!ENTITY options.darkTheme.label "Темная тема">
 <!ENTITY options.lightTheme.label "Светлая тема">
 <!ENTITY options.webconsole.label "Веб-консоль">
