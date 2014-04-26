@@ -4,10 +4,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY venkmanCmd.label     "Javascript-vianetsintä">
+<!ENTITY venkmanCmd.label     "JavaScript-vianetsintä">
 <!ENTITY venkmanCmd.accesskey "a">
 
-<!ENTITY vnkButton.label      "Javascript-vianetsintä">
+<!ENTITY vnkButton.label      "JavaScript-vianetsintä">
   
-<!ENTITY vnkMenu.label        "Javascript-vianetsintä">
+<!ENTITY vnkMenu.label        "JavaScript-vianetsintä">
 <!ENTITY vnkMenu.accesskey    "a">
