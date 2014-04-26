@@ -6,7 +6,7 @@
 <!ENTITY aboutHeader.title          "ਇਸ ਬਾਰੇ">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "&vendorShortName; ਵਲੋਂ">
-<!ENTITY aboutHeader.policy.label   "&brandShortName; ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ ਆਨਲਾਈਨ ਪੜ੍ਹੋ">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਆਨਲਾਈਨ ਪੜ੍ਹੋ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "…ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->

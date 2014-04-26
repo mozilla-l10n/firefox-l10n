@@ -16,10 +16,10 @@
 
 <!ENTITY appbarErrorConsole.label   "ਗਲਤੀ ਕਨਸੋਲ  ਖੋਲ੍ਹੋ">
 <!ENTITY appbarJSShell.label        "JavaScript ਸ਼ੈੱਲ ਖੋਲ੍ਹੋ">
-<!ENTITY appbarFindInPage2.label    "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
+<!ENTITY appbarFindInPage2.label    "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY appbarRelaunchInDesktop.label "ਡੈਸਕਟਾਪ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY appbarMSMetaData2.label    "ਇਹ ਸਾਈਟ ਲਈ ਐਪ ਲਵੋ">
-<!ENTITY appbarViewPageSource.label    "ਪੇਜ਼ ਸਰੋਤ ਵੇਖੋ">
+<!ENTITY appbarViewPageSource.label    "ਸਫ਼ੇ ਸਰੋਤ ਵੇਖੋ">
 
 <!ENTITY topSitesHeader.label        "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY bookmarksHeader.label       "ਬੁੱਕਮਾਰਕ">
@@ -39,7 +39,7 @@
 <!ENTITY narrowRemoteTabsHeader.label    "ਰਿਮੋਟ ਟੈਬਾਂ">
 
 <!ENTITY downloadsHeader.label     "ਡਾਊਨਲੋਡ">
-<!ENTITY downloadShowPage.label    "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY downloadShowPage.label    "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY downloadShow2.label       "ਖੋਜ">
 <!ENTITY downloadOpen2.label       "ਖੋਲ੍ਹੋ">
 <!ENTITY downloadCancel.label      "ਰੱਦ ਕਰੋ">
@@ -59,12 +59,12 @@
 <!ENTITY consoleMessages.label     "ਸੁਨੇਹੇ">
 <!ENTITY consoleCodeEval.label     "ਕੋਡ:">
 <!ENTITY consoleClear.label        "ਸਾਫ਼ ਕਰੋ">
-<!ENTITY consoleCopyAll.label      "Copy">
+<!ENTITY consoleCopyAll.label      "ਕਾਪੀ ਕਰੋ">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ਸਰੋਤ ਫਾਇਲ:">
 <!ENTITY consoleErrLine.label      "ਲਾਈਨ:">
 <!ENTITY consoleErrColumn.label    "ਕਾਲਮ:">
-<!ENTITY consoleFollowCheckbox.label "Follow">
+<!ENTITY consoleFollowCheckbox.label "ਫ਼ੋਲੋ">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "ਕੱਟੋ">

@@ -10,7 +10,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ'>
-<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ਅਕਾਊਂਟ ਸ਼ਾਮਿਲ'>
+<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ਖਾਤਾ ਸ਼ਾਮਿਲ'>
 <!ENTITY sync.title.pair.label 'ਜੰਤਰ ਪੇਅਰ ਕਰੋ'>
 
 <!-- J-PAKE Key Screen -->
@@ -28,8 +28,8 @@
 <!ENTITY sync.jpake.subtitle.waiting.label '…ਹੋਰ ਜੰਤਰ ਲਈ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'ਆਪਣੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਜਾਣਕਾਰੀ ਦਿਓ'>
-<!ENTITY sync.input.username.label 'ਅਕਾਊਂਟ ਨਾਂ'>
+<!ENTITY sync.subtitle.account.label 'ਆਪਣੀ &syncBrand.fullName.label; ਖਾਤਾ ਜਾਣਕਾਰੀ ਦਿਓ'>
+<!ENTITY sync.input.username.label 'ਖਾਤਾ ਨਾਂ'>
 <!ENTITY sync.input.password.label 'ਪਾਸਵਰਡ'>
 <!ENTITY sync.input.key.label 'ਰਿਕਵਰੀ ਕੁੰਜੀ'>
 <!ENTITY sync.checkbox.server.label 'ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ'>
@@ -46,17 +46,17 @@
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ'>
-<!ENTITY sync.subtitle.success.label1 'ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਹੁਣ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਆਪਣੇ ਅਕਾਊਂਟ ਦੇ ਪਰਬੰਧ ਲਈ ਸੈਟਿੰਗ ਵਿੱਚ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ &brandShortName; ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।'>
+<!ENTITY sync.subtitle.success.label1 'ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਹੁਣ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਦੇ ਪਰਬੰਧ ਲਈ ਸੈਟਿੰਗ ਵਿੱਚ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ &brandShortName; ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।'>
 <!ENTITY sync.settings.label 'ਸੈਟਿੰਗ'>
-<!ENTITY sync.subtitle.manage.label1 'ਤੁਹਾਡਾ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਅਕਾਊਂਟ ਦੇ ਪਰਬੰਧ ਲਈ ਸੈਟਿੰਗ ਵਿੱਚ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ &brandShortName; ਚਲਾ ਸਕਦੇ ਹੋ।'>
+<!ENTITY sync.subtitle.manage.label1 'ਤੁਹਾਡਾ &syncBrand.fullName.label; ਖਾਤਾ ਸੈਟਅੱਪ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ  ਦੇ ਪਰਬੰਧ ਲਈ ਸੈਟਿੰਗ ਵਿੱਚ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ &brandShortName; ਚਲਾ ਸਕਦੇ ਹੋ।'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
-<!ENTITY sync.pair.connectlocation.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਦੀ ਚੋਣ ਕਰੋ ਅਤੇ ਤਦ “ਮੇਰੇ ਕੋਲ ਅਕਾਊਂਟ ਹੈ।” ਦੀ ਚੋਣ ਕਰੋ।'>
+<!ENTITY sync.pair.connectlocation.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਦੀ ਚੋਣ ਕਰੋ ਅਤੇ ਤਦ “ਮੇਰੇ ਕੋਲ ਖਾਤਾ ਹੈ।” ਦੀ ਚੋਣ ਕਰੋ।'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'ਚੋਣਾਂ'>
-<!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਨੂੰ ਆਪਣੇ &syncBrand.shortName.label; ਅਕਾਊਂਟ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
+<!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਨੂੰ ਆਪਣੇ &syncBrand.shortName.label; ਖਾਤੇ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
 
 
 <!-- Configure Engines -->
@@ -88,11 +88,11 @@
 <!ENTITY bookmarks.folder.pinned.label 'ਪਿੰਨ ਕੀਤਾ'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਸਹਾਇਕ ਹੈ'>
+<!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ ਹੀ &syncBrand.fullName.label; ਖਾਤਾ ਸਹਾਇਕ ਹੈ'>
 <!ENTITY sync.notification.configure.saved 'ਤੁਹਾਡੀ ਚੋਣ ਸੰਭਾਲੀ ਗਈ ਹੈ।'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'ਗਲਤ ਅਕਾਊਂਟ ਜਾਂ ਪਾਸਵਰਡ ਹੈ।'>
+<!ENTITY sync.invalidcreds.label 'ਗਲਤ ਖਾਤਾ ਜਾਂ ਪਾਸਵਰਡ ਹੈ।'>
 <!ENTITY sync.invalidserver.label 'ਠੀਕ ਸਰਵਰ URL ਦਿਉ ਜੀ'>
 <!ENTITY sync.verifying.label '…ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'ਰਿਕਵਰੀ ਕੁੰਜੀ ਗਲਤੀ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
@@ -134,19 +134,19 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header2 'Create a Firefox Account'>
+<!ENTITY fxaccount_create_account_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਬਣਾਓ'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox cloud services.'>
+<!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਅਤੇ &formatS2;ਸਹਿਮਤ ਹਾਂ।'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਅਕਾਊਂਟ ਹੈ? ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 ਜਾਂ ਪਹਿਲਾਂ'>
-<!ENTITY fxaccount_create_account_unknown_error 'ਅਕਾਊਂਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ'>
+<!ENTITY fxaccount_create_account_unknown_error 'ਖਾਤਾ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ'>
 
-<!ENTITY fxaccount_account_create_not_allowed 'ਅਕਾਊਂਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'ਤੁਹਾਨੂੰ ਇੱਕ ਅਕਾਊਂਟ ਬਣਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਸ਼ਰਤਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।'>
+<!ENTITY fxaccount_account_create_not_allowed 'ਖਾਤਾ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'ਤੁਹਾਨੂੰ ਇੱਕ ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਸ਼ਰਤਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'ਹੋਰ ਜਾਣੋ'>
 
 <!ENTITY fxaccount_confirm_account_header 'ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ'>
@@ -159,7 +159,7 @@
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_button_label 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_forgot_password 'ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'ਅਕਾਊਂਟ ਬਣਾਓ'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'ਖਾਤਾ ਬਣਾਓ'>
 <!ENTITY fxaccount_sign_in_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਅਕਾਊਂਟ'>

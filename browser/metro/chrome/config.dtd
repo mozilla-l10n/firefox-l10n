@@ -10,7 +10,7 @@
 
 <!ENTITY integer.label          "Integer">
 <!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY boolean.label          "ਬੁਲੀਅਨ">
 
 <!ENTITY string.placeholder     "ਸਤਰ ਦਿਓ">
 <!ENTITY number.placeholder     "ਅੰਕ ਦਿਓ">
