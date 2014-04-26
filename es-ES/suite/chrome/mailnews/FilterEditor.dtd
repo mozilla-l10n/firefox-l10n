@@ -6,6 +6,7 @@
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nombre del filtro:">
 <!ENTITY filterName.accesskey "f">
+<!ENTITY recentFolders.label "Reciente">
 <!ENTITY junk.label "Basura">
 <!ENTITY notJunk.label "No es basura">
 <!ENTITY lowestPriorityCmd.label "La menor">
