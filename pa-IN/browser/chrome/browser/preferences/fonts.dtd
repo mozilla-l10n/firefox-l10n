@@ -83,10 +83,10 @@
 <!ENTITY languages.customize.Fallback.cewindows   "ਕੇਂਦਰੀ ਯੂਰਪ, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Chinese, Simplified">
+<!ENTITY languages.customize.Fallback.simplified  "ਚੀਨੀ, ਸਧਾਰਨ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Chinese, Traditional">
+<!ENTITY languages.customize.Fallback.traditional "ਚੀਨੀ, ਪੁਰਾਤਨ">
 <!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->

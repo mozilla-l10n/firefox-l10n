@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "ਪੇਜ਼ ਲੋਡ ਕਰਨ ਵਿੱਚ ਗਲਤੀ">
+<!ENTITY loadError.label "ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਗਲਤੀ">
 <!ENTITY retry.label "ਮੁੜ ਕੋਸ਼ਿਸ">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਫੇਲ੍ਹ">
-<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>ਹਾਲਾਂਕਿ ਸਾਈਟ ਠੀਕ ਜਾਪਦੀ ਹੈ, ਬਰਾਊਜ਼ਰ ਕੁਨੈਕਸ਼ਨ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ ਸੀ।</p><ul><li>ਕੀ ਸਾਈਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 
 <!ENTITY deniedPortAccess.title "ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਪੋਰਟ ਪਾਬੰਦੀ">

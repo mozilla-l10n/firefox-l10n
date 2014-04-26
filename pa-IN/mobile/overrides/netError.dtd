@@ -21,34 +21,34 @@
 <!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
 <!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+  <li>ਲਿਖਣ ਵਿੱਚ ਹੋਣ ਵਾਲੀਆਂ ਗਲਤੀਆਂ ਲਈ ਸਿਰਨਾਵਾਂ ਵੇਖੋ ਜਿਵੇਂ ਕਿ
+    <strong>www</strong>.example.com ਦੀ ਬਜਾਏ 
+    <strong>ww</strong>.example.com</li> 
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੋ ਤਾਂ ਆਪਣੇ ਜੰਤਰ ਦਾ ਡਾਟਾ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
+  <li>ਵੱਡੇ ਅੱਖਰਾਂ ਜਾਂ ਹੋਰ ਗਲਤੀਆਂ ਲਈ ਫਾਇਨ ਨਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।</li>
+  <li>ਵੇਖਣ ਲਈ ਜਾਂਚ ਕਰੋ ਕਿ ਫਾਇਲ ਕਿਤੇ ਹੋਰ ਭੇਜੀ ਤਾਂ ਨਹੀਂ ਗਈ ਜਾਂ ਨਾਂ ਬਦਲਿਆ ਹੋਵੇ ਜਾਂ ਹਟਾ ਦਿੱਤੀ ਗਈ ਹੋਵੇ।</li>
 </ul>
 ">
 
 
 <!ENTITY generic.title "ਓਹ ਹੋ">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; ਕੁਝ ਕੁ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ।</p>
+<p>&brandShortName; ਕੁਝ ਕੁ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ।</p>
 ">
 
 <!ENTITY malformedURI.title "ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ।">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Web addresses are usually written like
+  <li>ਵੈੱਬ ਸਿਰਨਾਵੇਂ ਅਕਸਰ ਲਿਖੇ ਜਾਂਦੇ ਹਨ
     <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
-    <strong>/</strong>).</li>
+  <li>ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਸੀਂ ਫਾਰਵਰਡ ਸਲੈਸ਼ ਵਰਤ ਹੇ ਹੋ (ਜਿਵੇਂ ਕਿ
+    <strong>/</strong>)</li>
 </ul>
 ">
 
@@ -61,7 +61,7 @@
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+  <li>ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ। &brandShortName; ਕੁਨੈਕਸ਼ਨ ਚਲਾਉਣ ਅਤੇ ਸਫ਼ਾ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।</li>
 </ul>
 ">
 
@@ -102,7 +102,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Check the proxy settings to make sure that they are correct.</li>

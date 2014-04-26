@@ -111,7 +111,7 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
-<!ENTITY options.webconsole.label            "Web Console">
+<!ENTITY options.webconsole.label            "ਵੈੱਬ ਕਨਸੋਲ">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console,
@@ -128,7 +128,7 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "Style Editor">
+<!ENTITY options.styleeditor.label            "ਸਟਾਈਲ ਐਡੀਟਰ">
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->

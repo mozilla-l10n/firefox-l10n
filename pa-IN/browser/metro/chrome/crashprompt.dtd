@@ -4,8 +4,8 @@
 
 
 <!ENTITY crashprompt.title           "ਕੀ ਤੁਸੀਂ ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਣੀ ਚਾਹੁੰਦੇ ਹੋ?">
-<!ENTITY crashprompt.message         "We are sorry, &brandShortName; just recovered from a crash. Sending crash reports will help Mozilla make &brandShortName; more stable and secure. You can always change your preference in Settings/Options.">
-<!ENTITY crashprompt.detailsLink     "What's in a crash report?">
+<!ENTITY crashprompt.message         "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, &brandShortName; ਕਰੈਸ਼ ਤੋਂ ਮੁੜ-ਚਾਲੂ ਹੋਇਆ ਹੈ। ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਨਾਲ &brandShortName; ਨੂੰ ਹੋਰ ਵੀ ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਥਿਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਮਿਲੇਗੀ। ਤੁਸੀਂ ਆਪਣੀ ਪਸੰਦ ਨੂੰ ਸੈਟਿੰਗ/ਚੋਣਾਂ ਵਿੱਚ ਜਾ ਕੇ ਕਦੇ ਵੀ ਬਦਲ ਸਕਦੇ ਹੋ।">
+<!ENTITY crashprompt.detailsLink     "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਵਿੱਚ ਕੀ ਹੈ?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "A crash report contains some details about the crash, your machine, as well as a snapshot of the state of your browser when it crashed.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "This may include things like open pages, text typed into forms and the content of open messages, recent browsing history, or geolocation shared with a site.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
@@ -15,7 +15,7 @@
 <!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "We use crash reports to try to fix problems and improve our products. We handle your information as we describe in our ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; ਪਰਦੇਦਾਰੀ ਨੀਤੀ">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
-<!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
+<!ENTITY crashprompt.includeURLLabel "ਸਫ਼ੇ ਦੇ ਸਿਰਨਾਵੇਂ ਸਮੇਤ, ਜਿਸ ਉੱਤੇ ਮੈਂ ਸੀ">
 <!ENTITY crashprompt.acceptbutton    "ਰਿਪੋਰਟਾਂ ਭੇਜੋ">
 <!ENTITY crashprompt.refusebutton    "ਨਾ ਭੇਜੋ">
 <!ENTITY crashprompt.privacyPolicy.title "&brandShortName; ਪਰਦੇਦਾਰੀ ਨੀਤੀ">

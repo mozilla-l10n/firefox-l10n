@@ -14,9 +14,9 @@
 <!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
-<!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
+<!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਸਫ਼ੇ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕਣ">
-<!ENTITY  crash_include_url2 "ਪੇਜ਼, ਜੋ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ ਸਿਰਨਾਵਾਂ ਸਮੇਤ">
+<!ENTITY  crash_include_url2 "ਸਫ਼ਾ, ਜੋ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ ਸਿਰਨਾਵਾਂ ਸਮੇਤ">
 <!ENTITY  crash_sorry "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ">
 <!ENTITY  crash_comment "ਟਿੱਪਣੀ ਸ਼ਾਮਿਲ (ਟਿੱਪਣੀ ਪਬਲਿਕ ਰੂਪ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; ਨੂੰ ਇਸ ਰਿਪੋਰਟ ਬਾਰੇ ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਦਿਉ">
@@ -210,11 +210,11 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
 <!ENTITY datareporting_fhr_summary2 "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਸਥਿਤੀ ਬਾਰੇ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰੋ ਅਤੇ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਬਾਰੇ ਸਮਝਣ ਵਿੱਚ ਮੱਦਦ ਕਰੋ">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
-<!ENTITY datareporting_telemetry_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋਂ, ਹਾਰਡਵੇਅਰ ਤੇ ਕਮਸਟਮਾਈਜ਼ੇਨ  ਆਦਿ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰਕੇ ਸਾਨੂੰ  &brandShortName; ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰੋ">
+<!ENTITY datareporting_telemetry_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋਂ, ਹਾਰਡਵੇਅਰ ਤੇ ਕਸਟਮਾਈਜ਼ੇਨ  ਆਦਿ ਡਾਟਾ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰਕੇ ਸਾਨੂੰ  &brandShortName; ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਧੀਆ ਤੇ ਸਥਿਰ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰਨ ਵਾਸਤੇ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਧੀਆ ਤੇ ਸਥਿਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
@@ -278,7 +278,7 @@ size. -->
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
 <!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
-<!ENTITY contextmenu_subscribe "ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY contextmenu_subscribe "ਸਫ਼ੇ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY contextmenu_site_settings "ਸਾਈਟ ਸੈਟਿੰਗ ਸੋਧ">
 <!ENTITY contextmenu_top_sites_edit "ਸੋਧ">
 <!ENTITY contextmenu_top_sites_pin "ਸਾਈਟ ਪਿੰਨ ਲਗਾਓ">
@@ -286,14 +286,14 @@ size. -->
 <!ENTITY contextmenu_add_search_engine "ਖੋਜ ਇੰਜਣ ਜੋੜੋ">
 
 <!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ">
-<!ENTITY pref_titlebar_mode_title "ਪੇਜ਼ ਟਾਈਟਲ ਵੇਖਾਓ">
-<!ENTITY pref_titlebar_mode_url "ਪੇਜ਼ ਸਿਰਨਾਵਾਂ ਵੇਖਾਓ">
+<!ENTITY pref_titlebar_mode_title "ਸਫ਼ਾ ਟਾਈਟਲ ਵੇਖਾਓ">
+<!ENTITY pref_titlebar_mode_url "ਸਫ਼ਾ ਸਿਰਨਾਵਾਂ ਵੇਖਾਓ">
 
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Scroll title bar">
+<!ENTITY pref_scroll_title_bar "ਟਾਈਟਲ ਪੱਟੀ ਸਕਰੋਲ ਕਰੋ">
 
-<!ENTITY history_removed "ਪੇਜ਼ ਹਟਾਇਆ">
+<!ENTITY history_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 
@@ -308,9 +308,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
 <!ENTITY reading_list_add "ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ">
-<!ENTITY reading_list_added "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
-<!ENTITY reading_list_removed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ">
-<!ENTITY reading_list_failed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
+<!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
+<!ENTITY reading_list_removed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ">
+<!ENTITY reading_list_failed "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
 <!ENTITY reading_list_duplicate "ਪੇਜ਼ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -348,7 +348,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: Save articles to your reading list by long pressing the &formatI; icon when it appears in the title bar.">
+<!ENTITY home_reading_list_hint2 "ਟੋਟਖਾ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
@@ -409,7 +409,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ">
 
-<!ENTITY devtools_remote_debugging_forward "ਪੋਰਟ ਫਾਰਵਰਡ ਨੂੰ ਸੈਟ ਕਰਨ ਨਾ ਭੁੱਲੋ!">
+<!ENTITY devtools_remote_debugging_forward "ਪੋਰਟ ਫਾਰਵਰਡ ਨੂੰ ਸੈੱਟ ਕਰਨ ਨਾ ਭੁੱਲੋ!">
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY updater_start_select2 "ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਛੂਹੋ">
@@ -428,7 +428,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY guest_session_dialog_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY new_guest_session_title "&brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ">
-<!ENTITY new_guest_session_text "The person using it will not be able to see any of your personal browsing data (like saved passwords, history or bookmarks).\n\nWhen your guest is done, their browsing data will be deleted and your session will be restored.">
+<!ENTITY new_guest_session_text "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਪਾਸਵਰਡ, ਅਤੀ ਜਾਂ ਬੁੱਕਮਾਰ) ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ਹੁਣ ਮੁੜ-ਚਾਲੂ ਹੋਵੇਗਾ">
 <!ENTITY exit_guest_session_text "ਇਹ ਸ਼ੈਸ਼ਨ ਤੋਂ ਬਰਾਊਜ਼ਰ ਕੀਤਾ ਡਾਟਾ ਹਟਾਇਆ ਜਾਵੇਗਾ।">

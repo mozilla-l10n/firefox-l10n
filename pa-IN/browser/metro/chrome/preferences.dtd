@@ -12,7 +12,7 @@
 <!ENTITY optionsHeader.char.options.label                        "ਐਪ ਪੱਟੀ ਉੱਤੇ ਇੰਕੋਡਿੰਗ ਚੋਣਾਂ ਵੇਖਾਓ">
 
 <!ENTITY clearPrivateData.title                                  "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateData.label                                  "ਇਹ ਜੰਤਰ ਲਈ ਆਪਣਾ ਬਰਾਊਜ਼ਰ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਤੇ ਫਾਰਮ ਡਾਟਆ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearPrivateData.label                                  "ਇਹ ਜੰਤਰ ਲਈ ਆਪਣਾ ਬਰਾਊਜ਼ਰ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਤੇ ਫਾਰਮ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearPrivateData.button                                 "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearPrivateData.done                                   "ਮੁਕੰਮਲ!">
 <!ENTITY clearPrivateData.history                                "ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ">
@@ -36,6 +36,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; submits crash reports to help Mozilla make your browser more stable and secure">
-<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "ਸਿਰਨਾਵੇਂ ਸਮੇਤ, ਜਿਸ ਸਫ਼ੇ ਉੱਤੇ ਮੈਂ ਸੀ">
 <!ENTITY optionsHeader.telemetry.title                            "ਟੈਲੀਮੈਂਟਰੀ">
 <!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
