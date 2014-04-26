@@ -32,5 +32,5 @@
 <!ENTITY selectHeaderType.accesskey "б">
 <!ENTITY noReplyOption.label "Без заголовка ответа">
 <!ENTITY authorWroteOption.label "[Автор] пишет:">
-<!ENTITY onDateAuthorWroteOption.label "[Дата], [автор] пишет:">
-<!ENTITY authorWroteOnDateOption.label "[Автор] пишет, [дата]:">
+<!ENTITY onDateAuthorWroteOption.label "[Дата], [Автор] пишет:">
+<!ENTITY authorWroteOnDateOption.label "[Автор] пишет [дата]:">

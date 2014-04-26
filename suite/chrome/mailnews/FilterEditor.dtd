@@ -6,6 +6,7 @@
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Имя фильтра:">
 <!ENTITY filterName.accesskey "м">
+<!ENTITY recentFolders.label "Недавно открытые">
 <!ENTITY junk.label "Спам">
 <!ENTITY notJunk.label "Не спам">
 <!ENTITY lowestPriorityCmd.label "самую низкую">
