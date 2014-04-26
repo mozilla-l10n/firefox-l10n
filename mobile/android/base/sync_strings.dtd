@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connecta\u0027t al &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Afegeix un compte de &syncBrand.fullName.label;">
+<!ENTITY sync.title.adddevice.label "Afegeix un compte del &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Vincula un dispositiu">
 <!-- J-PAKE Key Screen -->
 
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "S\u0027està esperant l\u0027altre dispositiu...">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Introduïu la informació del vostre altre compte de &syncBrand.fullName.label;">
+<!ENTITY sync.subtitle.account.label "Introduïu la informació del vostre altre compte del &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nom del compte">
 <!ENTITY sync.input.password.label "Contrasenya">
 <!ENTITY sync.input.key.label "Clau de recuperació">
@@ -56,7 +56,7 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opcions">
-<!ENTITY sync.summary.pair.label "Vinculeu un altre dispositiu al vostre compte de &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Vinculeu un altre dispositiu al vostre compte del &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Què cal sincronitzar">
@@ -87,7 +87,7 @@
 <!ENTITY bookmarks.folder.pinned.label "Fixes">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Només es permet un compte de &syncBrand.fullName.label;">
+<!ENTITY sync.notification.oneaccount.label "Només es permet un compte del &syncBrand.fullName.label;">
 <!ENTITY sync.notification.configure.saved "Les vostres seleccions s\u0027han desat.">
 <!-- Incorrect settings and changing credentials. -->
 
@@ -104,18 +104,11 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d\u0027altres.">
 <!ENTITY sync.text.tab.sent.label "S\u0027ha enviat la pestanya.">
 <!ENTITY sync.text.tab.not.sent.label "S\u0027ha produït un problema en enviar la pestanya.">
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-<!ENTITY fxaccount_checkbox_contentDescription2 "Gràfic de la casella de selecció dels comptes del Firefox">
-<!ENTITY fxaccount_icon_contentDescription2 "Icona dels comptes del Firefox">
-<!ENTITY fxaccount_intro_contentDescription2 "Gràfics d\u0027introducció als comptes del Firefox">
-<!ENTITY fxaccount_mail_contentDescription2 "Gràfic de sobre dels comptes del Firefox">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "Adreça electrònica">
 <!ENTITY fxaccount_password_hint "Contrasenya">
@@ -126,6 +119,11 @@
      Firefox. -->
 
 <!ENTITY fxaccount_back_to_browsing "Reprèn la navegació">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "Condicions del servei">
 <!ENTITY fxaccount_policy_linkprivacy "Avís de privadesa">
@@ -136,13 +134,13 @@
 <!ENTITY fxaccount_getting_started_old_firefox "Utilitzeu una versió antiga del &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header "Creeu un compte del Firefox">
+<!ENTITY fxaccount_create_account_header2 "Creeu un compte del Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ha de tenir com a mínim 8 caràcters">
 <!ENTITY fxaccount_create_account_year_of_birth "Any de naixement">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text "En continuar, accepto les formatS1 i l\u0027&formatS2; dels serveis en línia del Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "En continuar, accepto les &formatS1; i l\u0027&formatS2; dels serveis al núvol del Firefox.">
 <!ENTITY fxaccount_create_account_button "Següent">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Trieu què voleu sincronitzar">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ja teniu un compte? Inicieu la sessió">
@@ -154,7 +152,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Més informació">
 
 <!ENTITY fxaccount_confirm_account_header "Confirmeu el vostre compte">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "S\u0027ha enviat un enllaç de verificació a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reenvia el missatge">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "S\u0027ha enviat el missatge de verificació">
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "Inicia la sessió">
 <!ENTITY fxaccount_update_credentials_unknown_error "No s\u0027ha pogut iniciar la sessió">
 
-<!ENTITY fxaccount_status_header "Compte del Firefox">
+<!ENTITY fxaccount_status_header2 "Compte del Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
 <!ENTITY fxaccount_status_needs_verification2 "Cal que verifiqueu el compte. Toqueu per reenviar el missatge de verificació.">
@@ -184,15 +183,21 @@
 <!ENTITY fxaccount_status_passwords "Contrasenyes">
 <!ENTITY fxaccount_status_tabs "Pestanyes obertes">
 <!ENTITY fxaccount_status_legal "Avisos legals" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Condicions del servei">
+<!ENTITY fxaccount_status_linkprivacy "Avís de privadesa">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
 <!ENTITY fxaccount_options_title "Opcions del &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configura el &syncBrand.shortName.label;">
@@ -204,7 +209,7 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "El compte ja existeix. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "L\u0027adreça electrònica o la contrasenya no són vàlids">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "L\u0027adreça electrònica o la contrasenya no són vàlides">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "L\u0027adreça electrònica o la contrasenya no són vàlids">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "El compte no s\u0027ha verificat">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "El servidor està ocupat, torneu-ho a provar">
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "El &syncBrand.shortName.label; no està connectat">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toqueu per iniciar la sessió com a &formatS;">

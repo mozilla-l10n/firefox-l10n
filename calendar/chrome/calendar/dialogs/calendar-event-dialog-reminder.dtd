@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Detalls del recordatori">
 <!ENTITY reminder.action.label                             "Seleccioneu una acció de recordatori">
 
-<!ENTITY reminder.relation.before.label                    "abans" >
-<!ENTITY reminder.relation.after.label                     "després" >
-
 <!ENTITY reminder.action.alert.label                       "Mostra una alerta">
 <!ENTITY reminder.action.email.label                       "Envia un correu electrònic">
 

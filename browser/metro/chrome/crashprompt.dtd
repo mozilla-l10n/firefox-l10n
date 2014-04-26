@@ -6,8 +6,8 @@
 <!ENTITY crashprompt.title           "Voleu enviar informes de fallada a Mozilla?">
 <!ENTITY crashprompt.message         "El &brandShortName; s'ha recuperat d'una fallada. Podeu enviar els informes de fallada a Mozilla per ajudar a fer el &brandShortName; més estable i segur. Sempre podeu canviar la vostra preferència a Paràmetres/Opcions.">
 <!ENTITY crashprompt.detailsLink     "Què conté un informe de fallada?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallada conté alguns detalls de la fallada i del vostre ordinador, així com una instantània de l'estat del navegador quan va fallar.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "Això pot incloure coses com les pàgines obertes, el text escrit en formularis i el contingut de missatges oberts, de l'historial de navegació recent o de la geolocalització compartida amb un lloc.">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Un informe de fallada conté detalls de la fallada i del vostre dispositiu, així com una instantània de l'estat del dispositiu quan va fallar.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Pot incloure les pàgines obertes, el text escrit en formularis i el contingut de missatges oberts, de l'historial de navegació recent o de la geolocalització compartida amb un lloc.">
 <!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
      These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
      crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.

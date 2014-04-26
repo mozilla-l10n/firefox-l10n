@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateHistory.label             "Mostra l'historial d'actualitzacions">
 <!ENTITY updateHistory.accesskey         "h">
-<!ENTITY updateOthers.label              "Actualitza automàticament:">
-<!ENTITY enableAddonsUpdate3.label       "Complements">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">

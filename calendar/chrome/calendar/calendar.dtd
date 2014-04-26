@@ -25,34 +25,37 @@
 <!ENTITY calendar.events.filter.next14Days.label "Cites dels propers 14 dies">
 <!ENTITY calendar.events.filter.next31Days.label "Cites dels propers 31 dies">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Cites d'aquest mes del calendari">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 
-<!ENTITY calendar.unifinder.tree.done.label              "Feta">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Feu clic per ordenar per tasques fetes">
-<!ENTITY calendar.unifinder.tree.priority.label          "Prioritat">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Feu clic per ordenar per prioritat">
-<!ENTITY calendar.unifinder.tree.title.label             "Títol">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Feu clic per ordenar per títol">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#037; acabat">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Feu clic per ordenar per &#037; acabat">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Inici">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Feu clic per ordenar per data d'inici">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Fi">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Feu clic per ordenar per data de finalització">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Venciment">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Feu clic per ordenar per data de venciment">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Acabada">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Feu clic per ordenar per data d'acabament">
-<!ENTITY calendar.unifinder.tree.categories.label        "Categoria">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Feu clic per ordenar per categoria">
-<!ENTITY calendar.unifinder.tree.location.label          "Ubicació">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Feu clic per ordenar per ubicació">
-<!ENTITY calendar.unifinder.tree.status.label            "Estat">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Feu clic per ordenar per estat">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Nom del calendari">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Feu clic per ordenar per nom del calendari">
-<!ENTITY calendar.unifinder.tree.duration.label          "Temps restant">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Feu clic per ordenar per temps restant">
-<!ENTITY calendar.unifinder.close.tooltip                "Tanca la llista i la cerca de cites">
+<!ENTITY calendar.unifinder.tree.done.label                "Feta">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordena per compleció">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prioritat">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordena per prioritat">
+<!ENTITY calendar.unifinder.tree.title.label               "Títol">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordena per títol">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; acabat">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordena per &#037; acabat">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Inici">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordena per data d'inici">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Fi">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordena per data de fi">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Venciment">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordena per data de venciment">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Acabada">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordena per data d'acabament">
+<!ENTITY calendar.unifinder.tree.categories.label          "Categoria">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ordena per categoria">
+<!ENTITY calendar.unifinder.tree.location.label            "Ubicació">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Ordena per ubicació">
+<!ENTITY calendar.unifinder.tree.status.label              "Estat">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ordena per estat">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Nom del calendari">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordena per nom del calendari">
+<!ENTITY calendar.unifinder.tree.duration.label            "Temps restant">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordena per temps restant">
+<!ENTITY calendar.unifinder.close.tooltip                  "Tanca la llista i la cerca de cites">
 
 <!ENTITY calendar.today.button.tooltip          "Vés a avui" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui" >
@@ -85,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Cita nova" >
 <!ENTITY calendar.newtask.button.label          "Tasca nova" >
 <!ENTITY calendar.print.button.label            "Imprimeix" >
-
-<!ENTITY calendar.export.calendar                "Exporta el calendari…" >
+<!ENTITY calendar.print.button.accesskey        "p">
 
 <!ENTITY calendar.day.button.label              "Dia" >
 <!ENTITY calendar.week.button.label             "Setmana" >
@@ -129,8 +131,6 @@
 
 <!ENTITY calendar.task.filter.current.label         "Tasques actuals">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Tasques periòdiques">
-<!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label           "títol">
 <!ENTITY calendar.task-details.organizer.label       "des de">
@@ -152,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtra les tasques... #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Maj+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-<!-- Statusbar -->
-
-<!ENTITY statusText.label            "Document: Fet">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Obre">
@@ -230,7 +227,6 @@
      task action buttons -->
 
 <!ENTITY calendar.taskview.delete.label     "Suprimeix">
-<!ENTITY calendar.taskview.delete.accesskey "u">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Calendari nou…">
@@ -335,7 +331,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Cites i tasques seleccionades">
 <!ENTITY calendar.print.tasks.label "Tasques">
 <!ENTITY calendar.print.events.label "Cites">
-<!ENTITY calendar.print.selected.label "Cites seleccionades">
 <!ENTITY calendar.print.custom.label "Interval de dates personalitzat:">
 <!ENTITY calendar.print.from.label "Des de:">
 <!ENTITY calendar.print.to.label "Fins:">

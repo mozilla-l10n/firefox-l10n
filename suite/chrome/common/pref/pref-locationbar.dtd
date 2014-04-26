@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "A qualsevol lloc però preferiblement paraules senceres">
 <!ENTITY autoCompleteMatchWords                "Només paraules senceres">
 <!ENTITY autoCompleteMatchStart                "Només al principi de l'adreça o el títol">
+<!ENTITY showInternetSearch.label              "Mostra el motor de cerca d'Internet per defecte">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatació">
 <!ENTITY domainFormatting.label                "Ressalta l'adreça dels llocs web i dels servidors FTP.">
 <!ENTITY domainFormatting.accesskey            "d">
-
-<!ENTITY searchEngine.label                    "Motor de cerca d'Internet">
-<!ENTITY showSearchEngine.label                "Mostra el motor de cerca per defecte">
-<!ENTITY showSearchEngine.accesskey            "e">
+<!ENTITY highlightSecure.label                 "Ressalta les pàgines web amb un nivell alt de seguretat de la connexió">
+<!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Ubicacions desconegudes">
 <!ENTITY domainGuessing.label                  "Afegeix «www.» i «.com» a la ubicació si no es troba la pàgina web">

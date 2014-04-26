@@ -7,7 +7,7 @@
 <!ENTITY navRadio.label                 "Mostra">
 <!ENTITY navRadio.accesskey             "M">
 <!ENTITY navStartPageMenu.label         "Inici del navegador">
-<!ENTITY newWinPageMenu.label           "Nova finestra">
+<!ENTITY newWinPageMenu.label           "Finestra nova">
 <!ENTITY newTabPageMenu.label           "Pestanya nova">
 
 <!ENTITY blankPageRadio.label           "Pàgina en blanc">
