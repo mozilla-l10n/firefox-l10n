@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Premeu ctrl+clic per exportar el canal de notícies amb l'estructura de la carpeta o ctrl clic per exportar-ho com a llista">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Tanca">

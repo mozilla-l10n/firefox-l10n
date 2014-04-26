@@ -72,8 +72,8 @@ el &brandShortName; té permís per accedir al web.</li>
 <!ENTITY netTimeout.title "La connexió no respon">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "No s'ha entès l'adreça">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "No s'ha entès l'adreça">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Segurament necessiteu instal·lar algun altre programari per obrir aquesta adreça.</li> 
 </ul>">
 

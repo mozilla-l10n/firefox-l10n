@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Sessions actives">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Recorda les contrasenyes">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Mostra els botons de navegació">
 <!ENTITY doNotTrack.title                                        "No vull que se'm segueixi">
 <!ENTITY doNotTrack.options.doNotTrack                           "Fes saber als llocs web que no vull que se'm segueixi">
 <!ENTITY doNotTrack.options.doTrack                              "Fes saber als llocs web que vull que se'm segueixi">

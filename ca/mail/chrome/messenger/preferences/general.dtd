@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Restaura el valor per defecte">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Anima la icona de l'acoblador">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Canvia les preferències de la icona de l'aplicació">
+<!ENTITY dockOptions.label                "Opcions de la icona de l'aplicació…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Quan arribin nous missatges:">
 <!ENTITY playSound.label                  "Reprodueix un so">

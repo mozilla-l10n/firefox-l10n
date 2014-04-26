@@ -4,29 +4,16 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Cita nova…">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "c">
+<!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Tasca nova…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "t">
 
-<!ENTITY calendar.new.server.label              "Calendari nou…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "d">
-
-<!ENTITY calendar.print.label                   "Imprimeix…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "p">
-
 <!ENTITY calendar.import.label                  "Importa…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Exporta…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Exporta la selecció…">
-<!ENTITY calendar.export.selection.accesskey    "s">
 
 <!ENTITY calendar.publish.label                 "Publica…">
 <!ENTITY calendar.publish.accesskey             "b">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Mostra les tasques al calendari">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Mida de la vista multisetmanal">
-<!ENTITY calendar.menu.numberofweeks.2          "Dues setmanes">
-<!ENTITY calendar.menu.numberofweeks.3          "Tres setmanes">
-<!ENTITY calendar.menu.numberofweeks.4          "Quatre setmanes">
-<!ENTITY calendar.menu.numberofweeks.5          "Cinc setmanes">
-<!ENTITY calendar.menu.numberofweeks.6          "Sis setmanes">
 
 <!ENTITY goTodayCmd.label                       "Avui">
 <!ENTITY goTodayCmd.accesskey                   "u">
