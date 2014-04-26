@@ -36,7 +36,6 @@
 <!ENTITY  font.langGroup.el                       "Grec">
 <!ENTITY  font.langGroup.turkish                  "Tirc">
 <!ENTITY  font.langGroup.unicode                  "Autras linguas">
-<!ENTITY  font.langGroup.user-def                 "Definì da l'utilisader">
 <!ENTITY  font.langGroup.thai                     "Tailandais">
 <!ENTITY  font.langGroup.hebrew                   "Ebraic">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -72,3 +71,40 @@
 <!ENTITY languages.customize.Fallback.label       "Codaziun da caracters da standard:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "Questa codaziun da caracters vegn utilisada per cuntegn nundefinì (legacy content) che n'ha betg definì la codaziun.">
+
+<!ENTITY languages.customize.Fallback.auto        "Standard per la lingua actuala">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "Arab">
+<!ENTITY languages.customize.Fallback.baltic      "Baltic">
+<!ENTITY languages.customize.Fallback.ceiso       "Europa Centrala, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Europa Centrala, Microsoft">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Chinais, simplifitgà">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.traditional "Chinais, tradiziunal">
+<!ENTITY languages.customize.Fallback.cyrillic    "Cirillic">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Grec">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Ebraic">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Giapunais">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Corean">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tailandais">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Tirc">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamais">
+<!ENTITY languages.customize.Fallback.other       "Auter (incl. Europa occidentala)">

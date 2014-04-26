@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Fanestras popup">
+
 <!ENTITY  blockPopups.label           "Bloccar fanestras popup">
 <!ENTITY  blockPopups.accesskey       "p">
 <!ENTITY  popupExceptions.label       "Excepziuns…">
