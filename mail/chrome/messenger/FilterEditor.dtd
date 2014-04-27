@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Exequir questas acziuns:">
 <!ENTITY filterActionDesc.accesskey "E">
 
+<!ENTITY filterActionOrderWarning.label "Avis: Las acziuns da vegnan exequidas en in'autra successiun.">
+<!ENTITY filterActionOrder.label "Contemplar la successiun d'execuziun">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Spustar messadi a">
 <!ENTITY copyMessage.label "Copiar messadi a">
