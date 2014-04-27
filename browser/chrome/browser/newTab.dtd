@@ -7,5 +7,6 @@
 <!ENTITY newtab.undo.undoButton "Deshacer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar todas.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
-<!ENTITY newtab.panel.message "Este sitio se sugiere porque ha patrocinado a Mozilla, ayudándonos a promocionar la apertura, la innovación y la oportunidad en la web.">
+<!ENTITY newtab.sponsored.release.message "Se ha sugerido este sitio patrocinado porque pensamos que lo encontraría interesante y porque colabora con la misión de Mozilla.">
+<!ENTITY newtab.sponsored.trial.message "Se ha sugerido este sitio patrocinado de prueba porque pensamos que lo encontraría interesante y porque colabora con la misión de Mozilla.">
 <!ENTITY newtab.panel.link.text "Saber más…">
