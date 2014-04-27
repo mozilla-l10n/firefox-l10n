@@ -17,10 +17,8 @@
 <!ENTITY deleteButton.accesskey      "z">
 <!ENTITY searchDialogTitle.label     "Tschertgar messadis">
 <!ENTITY results.label               "Resultats">
-<!ENTITY fileHereMenu.label          "Spustar nà qua">
-<!ENTITY fileHereMenu.accesskey      "n">
-<!ENTITY fileButton.label            "Datoteca">
-<!ENTITY fileButton.accesskey        "D">
+<!ENTITY moveButton.label            "Spustar a">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Avrir en l'ordinatur">
 <!ENTITY openInFolder.accesskey      "A">
@@ -34,6 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "t">
 <!ENTITY composeButton.label         "Scriver">
 <!ENTITY composeButton.accesskey     "v">
+<!ENTITY deleteCardButton.label      "Stizzar">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label   "Tschertga avanzada en il cudeschet d'adressas">
 
 <!-- Thread Pane -->
@@ -57,22 +57,22 @@
 <!ENTITY idColumn.label "Successiun dad entrada">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clicca per tscherner las colonnas che duain vegnir mussadas">
-<!ENTITY threadColumn.tooltip "Cliccar per mussar gruppà en temas"> 
-<!ENTITY fromColumn.tooltip "Cliccar per zavrar tenor 'da'">
-<!ENTITY recipientColumn.tooltip "Cliccar per zavrar tenor destinatur">
-<!ENTITY subjectColumn.tooltip "Cliccar per zavrar tenor object">
-<!ENTITY dateColumn.tooltip "Cliccar per zavrart tenor data">
-<!ENTITY priorityColumn.tooltip "Cliccar per zavrar tenor prioritad">
-<!ENTITY tagsColumn.tooltip "Cliccar per zavrar tenor etichettas">
-<!ENTITY accountColumn.tooltip "Cliccar per zavrar tenor conto">
-<!ENTITY statusColumn.tooltip "Cliccar per zavrar tenor status">
-<!ENTITY sizeColumn.tooltip "Cliccar per zavrar tenor grondezza">
-<!ENTITY junkStatusColumn.tooltip "Cliccar per zavrar tenor il status da nungiavischà">
-<!ENTITY unreadColumn.tooltip "Dumber da messadis nunlegids en il tema">
-<!ENTITY totalColumn.tooltip "Dumber total da messadis en il tema">
-<!ENTITY readColumn.tooltip "Cliccar per zavrar tenor 'Legì'">
-<!ENTITY receivedColumn.tooltip "Cliccar per zavrar tenor la data da retschavida">
-<!ENTITY starredColumn.tooltip "Cliccar per zavrar tenor staila">
-<!ENTITY locationColumn.tooltip "Cliccar per zavrar tenor posiziun">
-<!ENTITY idColumn.tooltip "Cliccar per zavrar tenor successiun da retschavida">
+<!ENTITY columnChooser2.tooltip "Tscherner las colonnas per mussar">
+<!ENTITY threadColumn2.tooltip "Mussar gruppas da temas"> 
+<!ENTITY fromColumn2.tooltip "Zavrar tenor sepitur">
+<!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
+<!ENTITY subjectColumn2.tooltip "Zavrar tenor object">
+<!ENTITY dateColumn2.tooltip "Zavrart tenor data">
+<!ENTITY priorityColumn2.tooltip "Zavrar tenor prioritad">
+<!ENTITY tagsColumn2.tooltip "Zavrar tenor etichettas">
+<!ENTITY accountColumn2.tooltip "Zavrar tenor conto">
+<!ENTITY statusColumn2.tooltip "Zavrar tenor status">
+<!ENTITY sizeColumn2.tooltip "Zavrar tenor grondezza">
+<!ENTITY junkStatusColumn2.tooltip "Zavrar tenor il status da nungiavischà">
+<!ENTITY unreadColumn2.tooltip "Dumber da messadis nunlegids en il tema">
+<!ENTITY totalColumn2.tooltip "Dumber total da messadis en il tema">
+<!ENTITY readColumn2.tooltip "Zavrar tenor 'Legì'">
+<!ENTITY receivedColumn2.tooltip "Zavrar tenor la data da retschavida">
+<!ENTITY starredColumn2.tooltip "Zavrar tenor staila">
+<!ENTITY locationColumn2.tooltip "Zavrar tenor posiziun">
+<!ENTITY idColumn2.tooltip "Zavrar tenor successiun da retschavida">
