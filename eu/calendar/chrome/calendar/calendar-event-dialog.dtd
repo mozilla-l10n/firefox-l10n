@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Nora" >
 <!ENTITY newevent.attendees.notify.label    "Jakinarazi partaideak">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Mantendu gonbidapenetan partaideak ezkutuan">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Gaituta badago, partaideek ezingo dute elkar ikusi gonbidapenetan. Posta elektroniko bidezko gonbidapenei eragiten die soilik.">
+
 <!ENTITY newevent.status.label                    "Egoera" >
 <!ENTITY newevent.status.accesskey                "r" >
 <!ENTITY newevent.eventStatus.none.label          "Zehaztu gabea" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "A">
 <!ENTITY  event.menu.options.attendees.label                  "Gonbidatu partaideak…">
 <!ENTITY  event.menu.options.attendees.accesskey              "G">
-<!ENTITY  event.menu.options.spellcheck.label                 "Egiaztaketa ortografikoa…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "z">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Zuzendu idazten duzun bitartean">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "Z">
-<!ENTITY  event.menu.options.link.label                       "Esteka gehitu…">
-<!ENTITY  event.menu.options.link.accesskey                   "E">
 <!ENTITY  event.menu.options.timezone2.label                  "Erakutsi ordu-zonak">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Lehentasuna">
@@ -143,8 +140,16 @@
 <!ENTITY  event.toolbar.save.label                        "Gorde eta itxi">
 <!ENTITY  event.toolbar.delete.label                      "Ezabatu">
 <!ENTITY  event.toolbar.attendees.label                   "Gonbidatu partaideak">
-<!ENTITY  event.toolbar.spellcheck.label                  "Ortografia">
 <!ENTITY  event.toolbar.privacy.label                     "Pribatutasuna">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Gorde eta itxi">
+<!ENTITY  event.toolbar.delete.tooltip                    "Ezabatu">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Gonbidatu partaideak">
+<!ENTITY  event.toolbar.attachments.tooltip               "Gehitu eranskinak">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Aldatu pribatutasuna">
+<!ENTITY  event.toolbar.priority.tooltip                  "Aldatu lehentasuna">
+<!ENTITY  event.toolbar.status.tooltip                    "Aldatu egoera">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Aldatu libre/lanpetuta denbora">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
@@ -154,7 +159,6 @@
 <!ENTITY event.categories.label                           "Kategoria:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Gehitu kategoria berria" >
-<!ENTITY event.categories.textbox.accesskey               "G">
 <!ENTITY event.calendar.label                             "Egutegia:" >
 <!ENTITY event.calendar.accesskey                         "E">
 <!ENTITY event.attendees.label                            "Partaideak:" >
@@ -210,6 +214,9 @@
 <!ENTITY event.reminder.custom.label                      "Pertsonalizatua…" >
 
 <!ENTITY event.reminder.multiple.label                    "Gogorarazle anitz…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Denbora honela:">
+<!ENTITY event.statusbarpanel.privacy.label               "Pribatutasuna:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Errepikatzea editatu">
@@ -361,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "Gogoratu:">
 <!ENTITY read.only.attendees.label       "Partaideak">
 <!ENTITY read.only.description.label     "Azalpena">
-<!ENTITY read.only.documents.label       "Dokumentuak">
 <!ENTITY read.only.link.label            "Erlazionatutako lotura">
