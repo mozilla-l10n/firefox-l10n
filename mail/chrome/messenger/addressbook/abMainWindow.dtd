@@ -67,8 +67,8 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nombre y apellidos">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "t">
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Propiedades…">
-<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd2.label "Propiedades">
+<!ENTITY propertiesCmd2.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
