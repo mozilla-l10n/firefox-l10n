@@ -65,8 +65,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
 <!ENTITY synchronizeOfflineCmd.label "Sincronizar/Descargar ahora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Configuración sin conexión…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Configuración sin conexión">
+<!ENTITY settingsOfflineCmd2.accesskey "o">
 <!ENTITY downloadSelectedCmd.label "Descargar mensajes seleccionados">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Descargar mensajes con estrella">
@@ -574,12 +574,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Buscar mensajes…">
 <!ENTITY folderContextSearchForMessages.accesskey "B">
-<!ENTITY folderContextProperties.label "Propiedades…">
-<!ENTITY folderContextProperties.accesskey "o">
+<!ENTITY folderContextProperties2.label "Propiedades">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Configuración…">
-<!ENTITY folderContextSettings.accesskey "C">
+<!ENTITY folderContextSettings2.label "Configuración">
+<!ENTITY folderContextSettings2.accesskey "o">
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY glodaSearchBar.placeholder "Buscar mensajes…">
