@@ -69,9 +69,9 @@
 <!ENTITY netTimeout.title "Konexioa denboraz kanpo gelditu da">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Helbidea ez da ulertzen">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Agian bestelako programaren bat instalatu behar duzu helbide hau irekitzeko.</li> 
+<!ENTITY unknownProtocolFound.title "Ez da helbidea ulertu">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
