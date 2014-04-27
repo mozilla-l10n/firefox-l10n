@@ -28,7 +28,7 @@
 <!ENTITY autoCompleteMatchStart                "Only at the beginning of the location or title">
 
 <!ENTITY formatting.label                      "Formatting">
-<!ENTITY domainFormatting.label                "Highlight the effective domain for websites and FTP servers">
+<!ENTITY domainFormatting.label                "Highlight the effective domain for web sites and FTP servers">
 <!ENTITY domainFormatting.accesskey            "d">
 
 <!ENTITY searchEngine.label                    "Internet Search Engine">
