@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Herinneringsdetails">
 <!ENTITY reminder.action.label                             "Actie voor de herinnering kiezen">
 
-<!ENTITY reminder.relation.before.label                    "voordat" >
-<!ENTITY reminder.relation.after.label                     "nadat" >
-
 <!ENTITY reminder.action.alert.label                       "Een waarschuwing tonen">
 <!ENTITY reminder.action.email.label                       "Een e-mail sturen">
 
