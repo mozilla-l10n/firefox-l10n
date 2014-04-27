@@ -54,6 +54,7 @@
 <!ENTITY back "Atzera">
 <!ENTITY stop "Gelditu">
 <!ENTITY site_security "Gunearen segurtasuna">
+<!ENTITY save "Gorde">
 
 <!ENTITY close_tab "Itxi fitxa">
 <!ENTITY one_tab "fitxa 1">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Ezarpenak">
 <!ENTITY pref_category_advanced "Aurreratua">
 <!ENTITY pref_category_customize "Pertsonalizatu">
-<!ENTITY pref_category_search2 "Bilaketa-ezarpenak">
+<!ENTITY pref_category_search3 "Bilatu">
+<!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
 <!ENTITY pref_category_display "Bistaratzea">
 <!ENTITY pref_category_privacy_short "Pribatutasuna">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datu-aukerak">
 <!ENTITY pref_category_installed_search_engines "Instalatutako bilaketa-motorrak">
 <!ENTITY pref_category_add_search_providers "Gehitu bilaketa-hornitzaile gehiago">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Berrezarri bilaketa-motorrak">
+<!ENTITY pref_search_restore_defaults "Berrezarri lehenetsiak">
+<!ENTITY pref_search_restore_defaults_summary "Berrezarri lehenetsiak">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendara denbora luzez bere bilaketa-eremua sakatuz.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendara denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
 <!ENTITY pref_category_devtools "Garatzaile-tresnak">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_docs "Argibide gehiago">
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
+
+<!ENTITY pref_category_home "Hasiera">
+<!ENTITY pref_category_home_summary "Pertsonalizatu zure hasiera-orria">
+<!ENTITY pref_category_home_panels "Panelak">
+<!ENTITY pref_home_add_panel "Gehitu panela">
+<!ENTITY home_add_panel_title "Gehitu panel berria">
+<!ENTITY home_add_panel_empty "Sentitzen dugu, ezin dugu gehitzeko panelik aurkitu.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 panela hasiera-orrira gehitu da">
+<!ENTITY pref_category_home_content_settings "Edukiaren ezarpenak">
+<!ENTITY pref_home_updates "Eguneraketa automatikoak">
+<!ENTITY pref_home_updates_enabled "Gaituta">
+<!ENTITY pref_home_updates_wifi "Wi-Fi bidez soilik">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pertsonalizazioa">
@@ -148,10 +170,15 @@ size. -->
 <!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
 <!ENTITY pref_vendor_faqs "Ohiko galderak">
 <!ENTITY pref_vendor_feedback "Emaiguzu zure iritzia!">
-<!ENTITY pref_search_set_default "Ezarri lehenetsi gisa">
-<!ENTITY pref_search_default "Lehenetsia">
-<!ENTITY pref_search_remove "Kendu">
+
+<!ENTITY pref_dialog_set_default "Ezarri lehenetsi gisa">
+<!ENTITY pref_dialog_default "Lehenetsia">
+<!ENTITY pref_dialog_remove "Kendu">
+
 <!ENTITY pref_search_last_toast "Ezin duzu azken bilaketa-motorra kendu edo desgaitu.">
+
+<!ENTITY pref_panels_show "Erakutsi">
+<!ENTITY pref_panels_hide "Ezkutatu">
 
 <!ENTITY datareporting_notification_title "&brandShortName; estatistikak eta datuak">
 <!ENTITY datareporting_notification_action_long "Aukeratu partekatu beharreko informazioa">
@@ -177,11 +204,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title "&vendorShortName; kokapen-zerbitzuak">
 <!ENTITY datareporting_wifi_summary "Lagundu web irekirako geolokalizazio zerbitzuak hobetzen dorre mugikorren datu anonimoak biltzen eta bidaltzen utziz &brandShortName;(r)i">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
+<!ENTITY pref_update_autodownload2 "Deskargatu eguneraketak automatikoki">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
-<!ENTITY pref_update_autodownload_disabled "Desgaituta">
-<!ENTITY pref_update_autodownload_enabled "Gaituta">
+<!ENTITY pref_update_autodownload_never "Inoiz ez">
+<!ENTITY pref_update_autodownload_always "Beti">
 
 <!ENTITY quit "Irten">
 
@@ -196,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Gorde PDF gisa">
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Mahaigaineko gunea">
+<!ENTITY page "Orria">
 <!ENTITY tools "Tresnak">
 <!ENTITY new_tab "Fitxa berria">
 <!ENTITY new_private_tab "Fitxa pribatu berria">
@@ -212,6 +243,13 @@ size. -->
 <!ENTITY find_prev "Aurrekoa">
 <!ENTITY find_next "Hurrengoa">
 <!ENTITY find_close "Itxi">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Gailura transmititzea">
+<!ENTITY media_play "Erreproduzitu">
+<!ENTITY media_pause "Pausarazi">
+<!ENTITY media_stop "Gelditu">
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
 <!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
@@ -228,10 +266,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Editatu">
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
+<!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
 <!ENTITY pref_titlebar_mode_url "Erakutsi orriaren helbidea">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Korritu titulu-barra">
 
 <!ENTITY history_removed "Orria kenduta">
 
@@ -247,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
+<!ENTITY reading_list_add "Gehitu irakurketa-zerrendan">
 <!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
 <!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kenduta">
 <!ENTITY reading_list_failed "Huts egin du orria zure irakurketa-zerrendara gehitzean">
@@ -284,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Aholkua: Gorde artikuluak irakurketa-zerrendan denbora luzez &#037;I ikonoa sakatuz titulu-barran agertzen denean.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez &formatI; ikonoan sakatuz titulu-barran agertzen denean.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez irakurketa moduaren botoia sakatuz titulu-barran agertzen denean.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Ez da edukirik aurkitu panel honetarako.">
 
 <!ENTITY pin_site_dialog_hint "Idatzi bilatzeko gako-hitza">
 
@@ -333,10 +381,8 @@ Android-etik">
 <!ENTITY bookmarkhistory_import_history "Historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "&formatS;(r)en bilaketa-gomendioak gaitu nahi dituzu?">
+<!ENTITY suggestions_prompt3 "Bilaketa-gomendioak gaitu nahi dituzu?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -371,3 +417,8 @@ Android-etik">
 
 <!ENTITY exit_guest_session_title "&brandShortName; berrabiarazi egingo da orain">
 <!ENTITY exit_guest_session_text "Saio honetako arakatze-datuak ezabatu egingo dira.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menua">
+<!ENTITY actionbar_done "Eginda">
