@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Tot" >
 <!ENTITY newevent.attendees.notify.label    "Genodigden informeren">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Genodigde in uitnodigingen verborgen houden">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Wanneer ingeschakeld, zullen genodigden elkaar niet zien in uitnodigingen. Alleen toegepast op e-mailuitnodigingen.">
+
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Niet gespecificeerd" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Genodigden uitnodigen…">
 <!ENTITY  event.menu.options.attendees.accesskey              "G">
-<!ENTITY  event.menu.options.spellcheck.label                 "Spelling controleren…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "c">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Spelling controleren tijdens het typen">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Koppeling toevoegen…">
-<!ENTITY  event.menu.options.link.accesskey                   "K">
 <!ENTITY  event.menu.options.timezone2.label                  "Tijdzones tonen">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
@@ -143,13 +140,11 @@
 <!ENTITY  event.toolbar.save.label                        "Opslaan en sluiten">
 <!ENTITY  event.toolbar.delete.label                      "Verwijderen">
 <!ENTITY  event.toolbar.attendees.label                   "Genodigden uitnodigen">
-<!ENTITY  event.toolbar.spellcheck.label                  "Spellingcontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Opslaan en sluiten">
 <!ENTITY  event.toolbar.delete.tooltip                    "Verwijderen">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Genodigden uitnodigen">
-<!ENTITY  event.toolbar.spellcheck.tooltip                "Spellingcontrole">
 <!ENTITY  event.toolbar.attachments.tooltip               "Bijlagen toevoegen">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Privacy wijzigen">
 <!ENTITY  event.toolbar.priority.tooltip                  "Prioriteit wijzigen">
@@ -164,7 +159,6 @@
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
 <!ENTITY event.categories.textbox.label                   "Een nieuwe categorie toevoegen" >
-<!ENTITY event.categories.textbox.accesskey               "u">
 <!ENTITY event.calendar.label                             "Agenda:" >
 <!ENTITY event.calendar.accesskey                         "d">
 <!ENTITY event.attendees.label                            "Genodigden:" >
@@ -374,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "Herinnering:">
 <!ENTITY read.only.attendees.label       "Genodigden">
 <!ENTITY read.only.description.label     "Beschrijving">
-<!ENTITY read.only.documents.label       "Documenten">
 <!ENTITY read.only.link.label            "Bijbehorende koppeling">
