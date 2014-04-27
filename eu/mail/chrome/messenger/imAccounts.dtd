@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Eraman behera">
 <!ENTITY account.cancelReconnection.label         "Utzi birkonexioa">
 <!ENTITY account.cancelReconnection.accesskey     "U">
+<!ENTITY account.copyDebugLog.label     "Kopiatu arazketa-loga">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Konektatzen…">
 <!ENTITY account.disconnecting        "Deskonektatzen…">
 <!ENTITY account.disconnected         "Konektatu gabe">

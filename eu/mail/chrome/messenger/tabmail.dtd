@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Itxi fitxa">
 <!ENTITY  listAllTabs.label        "Zerrendatu fitxa guztiak">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Etxea">

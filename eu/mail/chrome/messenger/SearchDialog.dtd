@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Bilatu mezuak">
 <!ENTITY results.label               "Emaitzak">
-<!ENTITY moveHereMenu.label          "Eraman hona">
-<!ENTITY moveHereMenu.accesskey      "E">
 <!ENTITY moveButton.label            "Eraman hona">
 <!ENTITY moveButton.accesskey        "h">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Jasotako ordena">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
-<!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko"> 
-<!ENTITY fromColumn.tooltip "Egin klik bidaltzailearen arabera ordenatzeko">
-<!ENTITY recipientColumn.tooltip "Egin klik hartzailearen arabera ordenatzeko">
-<!ENTITY subjectColumn.tooltip "Egin klik gaiaren arabera ordenatzeko">
-<!ENTITY dateColumn.tooltip "Egin klik dataren arabera ordenatzeko">
-<!ENTITY priorityColumn.tooltip "Egin klik lehentasunaren arabera ordenatzeko">
-<!ENTITY tagsColumn.tooltip "Egin klik etiketaren arabera ordenatzeko">
-<!ENTITY accountColumn.tooltip "Egin klik kontuaren arabera ordenatzeko">
-<!ENTITY statusColumn.tooltip "Egin klik egoeraren arabera ordenatzeko">
-<!ENTITY sizeColumn.tooltip "Egin klik tamainaren arabera ordenatzeko">
-<!ENTITY junkStatusColumn.tooltip "Egin klik zabor-posta egoeraren arabera ordenatzeko">
-<!ENTITY unreadColumn.tooltip "Irakurri gabeko mezu kopurua harian">
-<!ENTITY totalColumn.tooltip "Mezu kopurua guztira harian">
-<!ENTITY readColumn.tooltip "Egin klik irakurritako egoeraren arabera ordenatzeko">
-<!ENTITY receivedColumn.tooltip "Egin klik jasotako datararen arabera ordenatzeko">
-<!ENTITY starredColumn.tooltip "Egin klik izarraren arabera ordenatzeko">
-<!ENTITY locationColumn.tooltip "Egin klik kokalekuaren arabera ordenatzeko">
-<!ENTITY idColumn.tooltip "Egin klik jasotako ordenaren arabera ordenatzeko">
+<!ENTITY columnChooser2.tooltip "Hautatu bistaratzeko zutabeak">
+<!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
+<!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
+<!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
+<!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
+<!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
+<!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">
+<!ENTITY tagsColumn2.tooltip "Ordenatu etiketen arabera">
+<!ENTITY accountColumn2.tooltip "Ordenatu kontuaren arabera">
+<!ENTITY statusColumn2.tooltip "Ordenatu egoeraren arabera">
+<!ENTITY sizeColumn2.tooltip "Ordenatu tamainaren arabera">
+<!ENTITY junkStatusColumn2.tooltip "Ordenatu zabor-egoeraren arabera">
+<!ENTITY unreadColumn2.tooltip "Irakurri gabeko mezu kopurua harian">
+<!ENTITY totalColumn2.tooltip "Mezu kopurua guztira harian">
+<!ENTITY readColumn2.tooltip "Ordenatu irakurritako egoeraren arabera">
+<!ENTITY receivedColumn2.tooltip "Ordenatu jasotako dataren arabera">
+<!ENTITY starredColumn2.tooltip "Ordenatu izarraren arabera">
+<!ENTITY locationColumn2.tooltip "Ordenatu kokalekuaren arabera">
+<!ENTITY idColumn2.tooltip "Ordenatu jasotako dataren arabera">
