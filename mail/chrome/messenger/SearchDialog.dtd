@@ -17,8 +17,8 @@
 <!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Bilatu mezuak">
 <!ENTITY results.label               "Emaitzak">
-<!ENTITY moveHereMenu.label          "Ekarri hona">
-<!ENTITY moveHereMenu.accesskey      "k">
+<!ENTITY moveHereMenu.label          "Eraman hona">
+<!ENTITY moveHereMenu.accesskey      "E">
 <!ENTITY moveButton.label            "Eraman hona">
 <!ENTITY moveButton.accesskey        "h">
 <!ENTITY closeCmd.key                "W"> 
@@ -70,11 +70,11 @@
 <!ENTITY accountColumn.tooltip "Egin klik kontuaren arabera ordenatzeko">
 <!ENTITY statusColumn.tooltip "Egin klik egoeraren arabera ordenatzeko">
 <!ENTITY sizeColumn.tooltip "Egin klik tamainaren arabera ordenatzeko">
-<!ENTITY junkStatusColumn.tooltip "Egin klik zabor-postaren egoeraren arabera ordenatzeko">
+<!ENTITY junkStatusColumn.tooltip "Egin klik zabor-posta egoeraren arabera ordenatzeko">
 <!ENTITY unreadColumn.tooltip "Irakurri gabeko mezu kopurua harian">
 <!ENTITY totalColumn.tooltip "Mezu kopurua guztira harian">
-<!ENTITY readColumn.tooltip "Egin klik irakurrita balioaren arabera ordenatzeko">
-<!ENTITY receivedColumn.tooltip "Egin klik jasotako dataren arabera ordenatzeko">
+<!ENTITY readColumn.tooltip "Egin klik irakurritako egoeraren arabera ordenatzeko">
+<!ENTITY receivedColumn.tooltip "Egin klik jasotako datararen arabera ordenatzeko">
 <!ENTITY starredColumn.tooltip "Egin klik izarraren arabera ordenatzeko">
 <!ENTITY locationColumn.tooltip "Egin klik kokalekuaren arabera ordenatzeko">
 <!ENTITY idColumn.tooltip "Egin klik jasotako ordenaren arabera ordenatzeko">

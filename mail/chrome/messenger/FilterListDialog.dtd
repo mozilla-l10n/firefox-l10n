@@ -33,7 +33,7 @@
 <!ENTITY folderPickerPrefix.label "Exekutatu eskuz aukeratutako iragazkia(k) karpeta honetan:">
 <!ENTITY folderPickerPrefix.accesskey "k">
 <!ENTITY choosethis.label "aukeratu karpeta hau">
-<!ENTITY choosethisnewsserver.label "aukeratu berri-talde zerbitzari hau">
+<!ENTITY choosethisnewsserver.label "aukeratu berrien zerbitzari hau">
 <!ENTITY helpButton.label "Laguntza">
 <!ENTITY helpButton.accesskey "L">
 <!ENTITY closeCmd.key "W"> 
