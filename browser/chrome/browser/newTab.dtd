@@ -7,5 +7,6 @@
 <!ENTITY newtab.undo.undoButton "Annulla.">
 <!ENTITY newtab.undo.restoreButton "Ripristina tutto.">
 <!ENTITY newtab.undo.closeTooltip "Nascondi">
-<!ENTITY newtab.panel.message "Questo sito viene consigliato in quanto ha sponsorizzato Mozilla, aiutandola a promuovere apertura, innovazione e libertà di scelta sul Web.">
+<!ENTITY newtab.sponsored.release.message "Questo sito sponsor viene consigliato, sperando che possa risultare interessante, in quanto contribuisce a sostenere la missione di Mozilla.">
+<!ENTITY newtab.sponsored.trial.message "Questo sito sponsor viene consigliato come esperimento, sperando che possa risultare interessante, in quanto contribuisce a sostenere la missione di Mozilla.">
 <!ENTITY newtab.panel.link.text "Ulteriori informazioni…">
