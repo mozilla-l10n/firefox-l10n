@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Esportatu jarioak karpeta-egiturarekin; ktrl-klik edo ktrl-sartu jarioak zerrenda gisa esportatzeko">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Itxi">

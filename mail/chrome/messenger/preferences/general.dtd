@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Berrezarri lehenetsia">
 <!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label       "Animatu jakinarazpen-ikonoa">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Aldatu aplikazio-ikonoaren hobespenak">
+<!ENTITY dockOptions.label                "Aplikazio-ikonoaren aukerak…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Mezu berri bat iristerakoan:">
 <!ENTITY playSound.label                  "Erreproduzitu soinua">
