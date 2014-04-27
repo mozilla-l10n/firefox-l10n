@@ -426,10 +426,10 @@
 <!ENTITY openAttachmentListCmd.accesskey "A">
 <!ENTITY openFeedMessage1.label "Cun avrir messadis da feed">
 <!ENTITY openFeedMessage1.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Pagina web en ina nova fanestra">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Resumaziun en ina nova fanestra">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPage.label "Avrir sco pagina d'internet">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Avrir sco resumaziun">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Midar en la zona da prevista dals messadis tranter pagina web e resumaziun">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
