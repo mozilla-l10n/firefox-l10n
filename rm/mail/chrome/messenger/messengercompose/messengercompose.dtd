@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carta da visita (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY remindLater.label "Regurdar mai pli tard">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Serrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "S">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Organisar la pagina…">
 <!ENTITY printSetupCmd.accesskey "O">
+<!ENTITY printPreviewCmd.label "Prevista da stampar">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Stampar…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -74,11 +78,11 @@
 <!ENTITY pasteCmd.accesskey "E">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Reformatar ils sigls da lingia">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "g">
 <!ENTITY deleteCmd.label "Stizzar">
 <!ENTITY deleteCmd.accesskey "z">
+<!ENTITY editRewrapCmd.label "Reformatar ils sigls da lingia">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renumnar l'agiunta…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Marcar tut">
@@ -87,6 +91,7 @@
 <!ENTITY findCmd.label "Tschertgar e remplazzar…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "h">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Tschertgar engiu">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
@@ -196,7 +201,8 @@
 <!ENTITY addressButton.label "Contacts">
 <!ENTITY attachButton.label "Agiuntar">
 <!ENTITY spellingButton.label "Ortografia">
-<!ENTITY saveButton.label "Memorisar las midadas">
+<!ENTITY saveButton.label "Memorisar">
+<!ENTITY printButton.label "Stampar">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Trametter quest messadi ussa"> 
@@ -209,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Encollar">
+<!ENTITY printButton.tooltip "Stampar quest messadi">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
