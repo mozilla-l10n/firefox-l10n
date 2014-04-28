@@ -17,5 +17,16 @@
 <!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">
 <!ENTITY sendTyping.accesskey "t">
 
-<!ENTITY desktopChatNotifications.label "Wyświetlaj powiadomienia dla wiadomości bezpośrednio skierowanych do użytkownika">
-<!ENTITY desktopChatNotifications.accesskey "d">
+<!ENTITY chatNotifications.label "Przy odebraniu wiadomości bezpośrednio skierowanych do użytkownika:">
+<!ENTITY desktopChatNotifications.label "wyświetlaj powiadomienia">
+<!ENTITY desktopChatNotifications.accesskey "e">
+<!ENTITY chatSound.accesskey "d">
+<!ENTITY chatSound.label "odtwarzaj dźwięk">
+<!ENTITY play.label "Odtwórz">
+<!ENTITY play.accesskey "O">
+<!ENTITY systemSound.label "systemowy dźwięk powiadomienia o nowej poczcie">
+<!ENTITY systemSound.accesskey "s">
+<!ENTITY customsound.label "użyj pliku">
+<!ENTITY customsound.accesskey "u">
+<!ENTITY browse.label "Przeglądaj…">
+<!ENTITY browse.accesskey "r">
