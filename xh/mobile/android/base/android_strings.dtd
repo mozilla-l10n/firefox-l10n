@@ -257,7 +257,7 @@ size. -->
 <!ENTITY contextmenu_remove "Shenxisa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
 <!ENTITY contextmenu_share "Yabelana">
-<!ENTITY contextmenu_pasteandgo "Ncamathisela  uhambe">
+<!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
