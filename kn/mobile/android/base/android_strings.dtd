@@ -157,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "ಸಿಂಕ್">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
-<!ENTITY pref_private_data_history "ಜಾಲವೀಕ್ಷಣೆ  ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ">
+<!ENTITY pref_private_data_history "ಜಾಲವೀಕ್ಷಣೆ &amp; ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
-<!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು  ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
+<!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
 <!ENTITY pref_private_data_passwords "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
@@ -180,7 +180,7 @@ size. -->
 <!ENTITY pref_panels_show "ತೋರಿಸು">
 <!ENTITY pref_panels_hide "ಅಡಗಿಸು">
 
-<!ENTITY datareporting_notification_title "&brandShortName; ಅಂಕಿಅಂಶ  ಮಾಹಿತಿ">
+<!ENTITY datareporting_notification_title "&brandShortName; ಅಂಕಿಅಂಶ &amp; ಮಾಹಿತಿ">
 <!ENTITY datareporting_notification_action_long "ಯಾವ ಮಾಹಿತಿ ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂಬುದನ್ನು ಆರಿಸಿ">
 <!ENTITY datareporting_notification_action "ಏನು ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂದು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY datareporting_notification_summary "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು, &brandShortName; ತಾನಾಗಿಯೇ ಕೆಲವು ಮಾಹಿತಿಗಳನ್ನು &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ.">

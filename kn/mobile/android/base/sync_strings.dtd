@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು  ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
+<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
 <!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
 <!-- Localization note: the Firefox below should not change with the
