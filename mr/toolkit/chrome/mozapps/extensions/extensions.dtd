@@ -145,7 +145,7 @@
 <!ENTITY detail.size                          "आकार">
 
 <!ENTITY detail.checkForUpdates.label         "सुधारणांकरिता तपासणी करा">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "या ॲडऑनकरीता सुधारणांकरीता तपासणी करा">
 <!ENTITY detail.showPreferencesWin.label      "पर्याय">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">

@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "टॅब बंद करणे पूर्ववत् करा">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "टॅब बंद करा">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "सर्व टॅब्स्ची सूची">
 
@@ -135,7 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY shareSelectCmd.label "निवड शेअर करा">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 
 
 
@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "स्क्रॅचपॅड">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -422,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "दृश्य वर्णन">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "विडीओ दृष्य">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "पार्श्वभूमीतील चित्राचे दृष्य">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटॉप पार्श्वभूमी म्हणून सेट करा…">
@@ -579,7 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.label "No Style">
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "मूळ पृष्ठ शैली">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "ह्या संकेतस्थळाकरता पॉपअप अडवून ठेवणारी रचना बदला">
 
@@ -667,9 +667,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> पासूनच्या सेवा सुरू केले आहेत. <label class='text-link'>ॲडऑन व्यवस्थापक</label> मधील सेवांच्या सेटिंग्ज बदलणे शक्य आहे.">
 <!ENTITY social.activated.undo.label "अरेच्छा, पूर्ववत् करा!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "आणखी शिका…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "आत्ता नाही">
 
 
