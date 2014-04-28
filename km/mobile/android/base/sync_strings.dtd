@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "សម្គាល់​ឯកជន">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ស្វាគមន៍​មកកាន់ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក, ចំណាំ, ពាក្យសម្ងាត់  ច្រើន​ទៀត។">
+<!ENTITY fxaccount_getting_started_description "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក, ចំណាំ, ពាក្យសម្ងាត់ &amp; ច្រើន​ទៀត។">
 <!ENTITY fxaccount_getting_started_get_started "បាន​ចាប់ផ្ដើម">
 <!ENTITY fxaccount_getting_started_old_firefox "ប្រើ​កំណែ​ចាស់​នៃ &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the

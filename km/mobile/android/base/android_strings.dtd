@@ -48,7 +48,7 @@
 
 <!ENTITY go "ទៅ">
 <!ENTITY search "ស្វែងរក">
-<!ENTITY reload "ផ្ទុក​ឡើងវិញ">
+<!ENTITY reload "&amp;ផ្ទុក​ឡើងវិញ">
 <!ENTITY forward "ទៅមុខ">
 <!ENTITY menu "ម៉ឺនុយ">
 <!ENTITY back "ថយ​ក្រោយ">
@@ -157,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
-<!ENTITY pref_private_data_history "រក​មើល  ប្រវត្តិ​ទាញ​យក">
-<!ENTITY pref_private_data_formdata "ទម្រង់  ប្រវត្តិ​ស្វែងរក">
-<!ENTITY pref_private_data_cookies2 "ខូគី  ការ​ចូល​សកម្ម">
+<!ENTITY pref_private_data_history "រក​មើល &amp; ប្រវត្តិ​ទាញ​យក">
+<!ENTITY pref_private_data_formdata "ទម្រង់ &amp; ប្រវត្តិ​ស្វែងរក">
+<!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
 <!ENTITY pref_private_data_passwords "ពាក្យ​សម្ងាត់​បាន​រក្សារ​ទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
@@ -180,7 +180,7 @@ size. -->
 <!ENTITY pref_panels_show "បង្ហាញ">
 <!ENTITY pref_panels_hide "លាក់">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats  ទិន្នន័យ">
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; ទិន្នន័យ">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
 <!ENTITY datareporting_notification_action "ជ្រើស​អ្វី​ដែល​ត្រូវ​ចែករំលែក">
 <!ENTITY datareporting_notification_summary "ដើម្បី​បង្កើន​បទពិសោធន៍​របស់​អ្នក &brandShortName; ផ្ញើ​ព័ត៌មាន​មួយ​ចំនួន​ទៅកាន់ &vendorShortName; ដោយ​ស្វ័យប្រវត្តិ។">
