@@ -8,6 +8,7 @@
 
 <!ENTITY pageTitle                 "&brandShortName; प्रतिक्रिया">
 
+<!ENTITY intro.header              "एक मिनिट आहे?">
 <!ENTITY intro.message             "आपणास आतापर्यंत Android साठी &brandShortName; बद्दल काय वाटते ते आम्हाला सांगा.">
 <!ENTITY intro.happyLink           "मला हे आवडते">
 <!ENTITY intro.sadLink             "मला काही समस्या आल्या">
@@ -15,6 +16,8 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
+<!ENTITY support.pre2              "आपण याला पण भेट देऊ शकता ">
 <!ENTITY support.link              "&brandShortName; मदत केंद्र">
 <!ENTITY support.post2             " अधिक माहितीसाठी.">
 
@@ -46,6 +49,8 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+
+<!ENTITY sad.thanksMessageBottom   "किंवा.">
 
 <!ENTITY feedback.privacy          "आपल्या सुरक्षेसाठी, कृपया प्रतिक्रियेमध्ये कोणतीही वैयक्तिक माहिती समाविष्ट करू नका.">
 <!ENTITY feedback.send             "प्रतिक्रिया पाठवा">

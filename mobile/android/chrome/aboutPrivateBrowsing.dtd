@@ -7,5 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "आपण नवीन खाजगी टॅब उघडला आहे.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "आपण खाजगी टॅबमध्ये नाहीत.">
 
+<!ENTITY privatebrowsingpage.description            "खाजगी टॅबमध्ये, &brandShortName; कोणताही ब्राउझर हतिहास, शोध इतिहास, डाऊनलोड इतिहास, वेब फॉर्म इतिहास, कूकिज, किंवा तात्पुरत्या इंटरनेट फाइली साठवून ठेवत नाही. पण, आपण डाऊनलोड केलेल्या फाइली व वाचनखूणा साठवल्या जातील.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
+<!ENTITY privatebrowsingpage.moreInfo               "जरी हे उपकरण आपल्या ब्राउझिंग इतिहासाची नोंद ठेवत नसेल, आपला इंटरनेट सेवा प्रदाता आपण भेट देत असेलेल्या पानांचा मागोवा घेऊ शकतो.">
