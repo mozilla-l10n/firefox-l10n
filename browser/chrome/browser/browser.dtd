@@ -651,7 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "…ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ">
+<!ENTITY spellAddDictionaries.label "…ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਿਲ">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                      "ਮੁਕੰਮਲ">
@@ -728,7 +728,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "ਬਾਹੀ ਵੇਖਾਓ">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.addons.label "…ਸੇਵਾ ਪਰਬੰਧ">
+<!ENTITY social.addons.label "…ਸੇਵਾ ਪ੍ਰਬੰਧ">
 
 <!ENTITY social.toggleNotifications.label "ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਵੇਖਾਓ">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -754,7 +754,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "…ਲਈ ਪੇਜ਼ ਸੰਭਾਲੋ">
+<!ENTITY social.markpageMenu.label "…ਲਈ ਸਫ਼ਾ ਸੰਭਾਲੋ">
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "…ਲਈ ਲਿੰਕ ਸੰਭਾਲੋ">
 
@@ -786,7 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY tabCrashed.header "ਟੈਬ ਕਰੈਸ਼ ਹੋਈ">
-<!ENTITY tabCrashed.message "ਇਹ ਸ਼ਰਮਨਾਕ ਹੈ। ਅਸੀਂ ਇਹ ਵੈੱਬ ਪੇਜ਼ ਵੇਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਅਤੇ ਇਹ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ।">
+<!ENTITY tabCrashed.message "ਇਹ ਸ਼ਰਮਨਾਕ ਹੈ। ਅਸੀਂ ਇਹ ਵੈੱਬ ਸਫ਼ਾ ਵੇਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਅਤੇ ਇਹ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ।">
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName; ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕਣ।">
 <!ENTITY tabCrashed.tryAgain "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 

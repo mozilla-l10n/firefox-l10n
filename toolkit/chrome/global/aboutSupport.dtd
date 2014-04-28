@@ -20,7 +20,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "ਭੇਜੀਆਂ">
 <!ENTITY aboutSupport.crashes.allReports "ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ">
-<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+<!ENTITY aboutSupport.crashes.noConfig "ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵਿਖਾਉਣ ਲਈ ਹਾਲੇ ਸੰਰਚਿਤ ਨਹੀਂ ਹੈ।">
 
 
 <!ENTITY aboutSupport.extensionsTitle "ਇਕਸਟੈਨਸ਼ਨ">
