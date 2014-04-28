@@ -25,8 +25,8 @@
 
 <!ENTITY optionsGroup.label  "বিকল্পসমূহ">
 
-<!ENTITY printBG.label       "পটভূমি প্ৰিন্ট কৰক(ৰং  ছবি)">
-<!ENTITY printBG.accesskey   " ">
+<!ENTITY printBG.label       "পটভূমি প্ৰিন্ট কৰক(ৰং &amp; ছবি)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "প্ৰান্ত আৰু হেডাৰ/ফুটাৰ">
 
