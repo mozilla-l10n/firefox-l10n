@@ -7,6 +7,8 @@
 <!ENTITY filterName.label "Nazwa filtru:">
 <!ENTITY filterName.accesskey "N">
 
+<!ENTITY recentFolders.label "Ostatnie">
+
 <!ENTITY junk.label "Niechciana">
 <!ENTITY notJunk.label "Pożądana">
 
