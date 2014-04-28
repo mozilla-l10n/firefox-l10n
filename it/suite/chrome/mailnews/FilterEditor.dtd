@@ -6,6 +6,7 @@
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nome filtro:">
 <!ENTITY filterName.accesskey "f">
+<!ENTITY recentFolders.label "Recente">
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Non spam">
 <!ENTITY lowestPriorityCmd.label "Minima">
