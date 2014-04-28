@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Notis Privasi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Selamat Datang ke &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Daftar masuk untuk menyelaraskan tab anda, penandabuku, kata laluan  banyak lagi.">
+<!ENTITY fxaccount_getting_started_description "Daftar masuk untuk menyelaraskan tab anda, penandabuku, kata laluan &amp; banyak lagi.">
 <!ENTITY fxaccount_getting_started_get_started "Mulakan">
 <!ENTITY fxaccount_getting_started_old_firefox "Mulakan versi lama &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
