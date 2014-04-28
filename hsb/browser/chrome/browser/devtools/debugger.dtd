@@ -109,7 +109,7 @@
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "We wšěch datajach pytać">
-<!ENTITY debuggerUI.searchGlobal.key       "d">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "d">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
@@ -121,7 +121,7 @@
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken           "Pytać">
-<!ENTITY debuggerUI.searchToken.key       "t">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "t">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
@@ -133,13 +133,13 @@
   -  in the source editor's context menu for the variables search operation. -->
 
 <!ENTITY debuggerUI.searchVariable           "Wariable filtrować">
-<!ENTITY debuggerUI.searchVariable.key       "W">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "W">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "Wariablowy štom fokusěrować">
-<!ENTITY debuggerUI.focusVariables.key       "F">
+<!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "f">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -149,13 +149,13 @@
   -  appears in the source editor context menu for adding a breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuBreak     "Zadźeržny dypk přidać">
-<!ENTITY debuggerUI.seMenuBreak.key "Z">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Wuměnjeny zadźeržny dypk přidać">
-<!ENTITY debuggerUI.seMenuCondBreak.key "u">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
@@ -168,7 +168,7 @@
   -  appears in the source editor context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.seMenuAddWatch      "Wuběr za wuraz, kotryž ma so wobkedźbować">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "b">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
@@ -178,7 +178,7 @@
   -  appears in the watch expressions context menu for removing all expressions. -->
 
 <!ENTITY debuggerUI.removeAllWatch           "Wšě wobkedźbowane wurazy wotstronić">
-<!ENTITY debuggerUI.removeAllWatch.key       "o">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "b">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
