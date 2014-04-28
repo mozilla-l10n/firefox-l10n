@@ -157,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்குமதி செய்">
-<!ENTITY pref_private_data_history "உலாவல்  பதிவிறக்க வரலாறு">
-<!ENTITY pref_private_data_formdata "படிவம்  தேடல் வரலாறு">
-<!ENTITY pref_private_data_cookies2 "நினைவிகள்  செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
+<!ENTITY pref_private_data_history "உலாவல் &amp; பதிவிறக்க வரலாறு">
+<!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
+<!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
 <!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
@@ -180,7 +180,7 @@ size. -->
 <!ENTITY pref_panels_show "காண்பி">
 <!ENTITY pref_panels_hide "மறை">
 
-<!ENTITY datareporting_notification_title "&brandShortName; நிலவரம்  தரவு">
+<!ENTITY datareporting_notification_title "&brandShortName; நிலவரம் &amp; தரவு">
 <!ENTITY datareporting_notification_action_long "பகிர்வுக்கு எந்த தகவலை தெரிவுசெய்">
 <!ENTITY datareporting_notification_action "பகிர்வுக்கு எதை தெரிவுச்செய்வது">
 <!ENTITY datareporting_notification_summary "உங்களுடைய அனுபவத்தை அதிகரிக்க, &brandShortName; தானாக தகவல்களை &vendorShortName; க்கு அனுப்புகிறது.">
