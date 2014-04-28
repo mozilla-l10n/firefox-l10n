@@ -3,28 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
-
-
-
+<!ENTITY sync.notconnected          "ସଂଯୋଗ ହୋଇନାହିଁ">
+<!ENTITY sync.connect               "ସଂଯୋଗ କରନ୍ତୁ">
+<!ENTITY sync.connected             "ସଂଯୁକ୍ତ">
 <!ENTITY sync.details               "ବିବରଣୀ">
-
-
+<!ENTITY sync.deviceName            "ଏହି ଉପକରଣ">
+<!ENTITY sync.disconnect            "ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ ହୋଇଛି">
 <!ENTITY sync.syncNow               "ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ">
 
-
-
-
+<!ENTITY sync.setup.title           "Sync ସହିତ ସଂଯୋଗ କରନ୍ତୁ">
+<!ENTITY sync.setup.pair            "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ &quot;ଉପକରଣ ଯୁଗଳ&quot; କୁ ବାଛନ୍ତୁ।">
+<!ENTITY sync.fallback              "ମୁଁ କମ୍ପୁଟର ପାଖରେ ନାହିଁ…">
+<!ENTITY sync.setup.manual          "ଆପଣଙ୍କର Sync ଖାତା ସୂଚନା ଭରଣ କରନ୍ତୁ">
 <!ENTITY sync.account               "ଖାତା ନାମ">
-
-
-
+<!ENTITY sync.password              "ପ୍ରବେଶ ସଂକେତ">
+<!ENTITY sync.recoveryKey           "ପୁନରୁଦ୍ଧାର କି">
+<!ENTITY sync.customServer          "ଇଚ୍ଛାରୂପଣ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY sync.serverURL             "ସର୍ଭର URL">
-
+<!ENTITY sync.setup.connect         "ସଂଯୋଗ କରନ୍ତୁ">
 <!ENTITY sync.setup.cancel          "ବାତିଲ କରନ୍ତୁ">
-
+<!ENTITY sync.setup.tutorial        "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ">
 <!ENTITY sync.setup.waiting2        "ଅନ୍ୟ ଉପକରଣକୁ ଅପେକ୍ଷା କରୁଛି…">
 
 <!ENTITY sync.pair.title            "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
-
+<!ENTITY sync.pair.description      "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ  &quot;Sync ବ୍ୟବସ୍ଥା କରନ୍ତୁ&quot;କୁବାଛନ୍ତୁ।">
 <!ENTITY sync.setup.close           "ବନ୍ଦକରନ୍ତୁ">
-
+<!ENTITY sync.setup.waitingdownload "ଆପଣଙ୍କର ତଥ୍ୟ ବର୍ତ୍ତମାନ ପୃଷ୍ଠଭୂମିରେ ଆହରଣ ହେଉଅଛି। ଆପଣ ଏହି ୱିଣ୍ଡୋକୁ ଯେକୌଣସି ସମୟରେ ବନ୍ଦ କରିପାରିବେ।">

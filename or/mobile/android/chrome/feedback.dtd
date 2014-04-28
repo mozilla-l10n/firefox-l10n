@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "ମତାମତ ସାଧନଗୁଡ଼ିକ">
+
+<!ENTITY feedback.communicate.title     "ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ!">
 <!ENTITY feedback.feedback.title        "ମତାମତ ଦିଅନ୍ତୁ">
+<!ENTITY feedback.feedback.good         "ଭଲ">
+<!ENTITY feedback.feedback.bad          "ଖରାପ">
 
-
-
-
-
-
+<!ENTITY feedback.tools.title           "ସାଧନଗୁଡ଼ିକ">
+<!ENTITY feedback.allowTelemetry.title  "କାର୍ଯ୍ୟଦକ୍ଷତା ତଥ୍ୟ ପଠାନ୍ତୁ">
+<!ENTITY feedback.forceCompat.title     "ଏଡ଼ ଅନ ସୁସଙ୍ଗତତାକୁ ବାଧ୍ଯ କରନ୍ତୁ">
+<!ENTITY feedback.errorConsole.title    "ତୃଟି କୋନସୋଲକୁ ସକ୍ରିୟ କରନ୍ତୁ">

@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutApps.title2                          "ଆପ୍ଲିକେସନସମୂହ">
+<!ENTITY aboutApps.header                          "ଆପଣଙ୍କର ପ୍ରୟୋଗଗୁଡ଼ିକ">
 
-
-
+<!ENTITY aboutApps.browseMarketplace "Firefox ମାର୍କେଟ ପ୍ଲେସକୁ ବ୍ରାଉଜ କରନ୍ତୁ">
+<!ENTITY aboutApps.uninstall "ବିସ୍ଥାପନ">
+<!ENTITY aboutApps.addToHomescreen "ମୂଳ ପରଦାରେ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY aboutApps.checkForUpdates "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ">
