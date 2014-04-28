@@ -14,7 +14,8 @@
 <!ENTITY pasteAsQuotationCmd.label     "Wklej jako cytat">
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
 <!ENTITY pasteAsQuotationCmd.key     "o">
-<!ENTITY findCmd.label               "Znajdź i zamień…">
+<!ENTITY findBarCmd.label "Znajdź…">
+<!ENTITY findReplaceCmd.label "Znajdź i zamień…">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię…">
