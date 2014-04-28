@@ -10,7 +10,7 @@
 <!ENTITY feedTitle.accesskey "T">
 
 <!ENTITY feedLocation.label "Adres URL:">
-<!ENTITY feedLocation.accesskey "U">
+<!ENTITY feedLocation.accesskey "R">
 <!ENTITY feedLocation.placeholder "Wprowadź poprawny adres URL kanału do dodania">
 
 <!ENTITY feedFolder.label "Przechowuj artykuły w">
@@ -18,6 +18,12 @@
 
 <!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "P">
+
+<!ENTITY autotagEnable.label "Automatyczne tworzenie etykiet na podstawie nazw w elementach &lt;category&gt; kanału">
+<!ENTITY autotagEnable.accesskey "m">
+<!ENTITY autotagUsePrefix.label "Przedrostek etykiet:">
+<!ENTITY autotagUsePrefix.accesskey "z">
+<!ENTITY autoTagPrefix.placeholder "przedrostek etykiet">
 
 <!ENTITY locationValidate.label "Sprawdź poprawność">
 <!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
