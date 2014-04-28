@@ -157,9 +157,9 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
 <!ENTITY pref_import_android "Import dari Android">
-<!ENTITY pref_private_data_history "Sejarah pelayaran  muat turun">
-<!ENTITY pref_private_data_formdata "Sejarah borang  carian">
-<!ENTITY pref_private_data_cookies2 "Kuki  log masuk aktif">
+<!ENTITY pref_private_data_history "Sejarah pelayaran &amp; muat turun">
+<!ENTITY pref_private_data_formdata "Sejarah borang &amp; carian">
+<!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
 <!ENTITY pref_private_data_passwords "Kata laluan tersimpan">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
@@ -180,7 +180,7 @@ size. -->
 <!ENTITY pref_panels_show "Tunjuk">
 <!ENTITY pref_panels_hide "Sembunyi">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats  data">
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
 <!ENTITY datareporting_notification_action "Pilih bahan perkongsian">
 <!ENTITY datareporting_notification_summary "Bagi menambah baik pengalaman anda, &brandShortName; secara automatik menghantar maklumat ke &vendorShortName;.">
@@ -257,7 +257,7 @@ size. -->
 <!ENTITY contextmenu_remove "Singkir">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
 <!ENTITY contextmenu_share "Kongsi">
-<!ENTITY contextmenu_pasteandgo "Tampal  Pergi">
+<!ENTITY contextmenu_pasteandgo "Tampal &amp; Pergi">
 <!ENTITY contextmenu_paste "Tampal">
 <!ENTITY contextmenu_copyurl "Salin Alamat">
 <!ENTITY contextmenu_edit_bookmark "Sunting">
