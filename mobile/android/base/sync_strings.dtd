@@ -16,8 +16,8 @@
 
 <!ENTITY sync.subtitle.connect.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ “&syncBrand.shortName.label; ବ୍ୟିନ୍ୟାସ” କୁ ବାଛନ୍ତୁ।">
 <!ENTITY sync.subtitle.header2.label "ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ ଏହି ସଂକେତକୁ ଲେଖନ୍ତୁ">
-
-
+<!ENTITY sync.subtitle.connectlocation2.label "“&sync.title.pair.label;” କୁ ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣର Firefox ବିକଳ୍ପଗୁଡ଼ିକର &syncBrand.shortName.label; ବିଭାଗରେ ବାଛନ୍ତୁ।">
+<!ENTITY sync.subtitle.pair.label "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ \&quot;ଉପକରଣ ଯୁଗଳ କରନ୍ତୁ\&quot; ବାଛନ୍ତୁ।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
@@ -35,11 +35,13 @@
 <!ENTITY sync.checkbox.server.label "ଇଚ୍ଛାମୁତାବକ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY sync.input.server.label "ସର୍ଭର URL">
 <!-- Setup Fail -->
-
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରିପାରିବେ ନାହିଁ">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ସର୍ଭର ସହିତ ସଂଯୁକ୍ତ ହୋଇପାରିଲା ନାହିଁ। ଆପଣ ପୁଣିଥରେ ଚେଷ୍ଟା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?">
 <!ENTITY sync.button.tryagain.label "ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ">
-
-
-
+<!ENTITY sync.button.manual.label "ହସ୍ତକୃତ ବ୍ୟବସ୍ଥା">
+<!ENTITY sync.subtitle.nointernet.label "କୌଣସି ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ଉପଲବ୍ଧ ନାହିଁ।">
+<!ENTITY sync.subtitle.failaccount.label "ଆପଣଙ୍କ ଉପକରଣରେ ଖାତା ସୃଷ୍ଟିକରିବା ବିଫଳ ହୋଇଛି।">
 
 <!-- Setup Success -->
   
@@ -54,8 +56,10 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ବିକଳ୍ପଗୁଡ଼ିକ">
-
+<!ENTITY sync.summary.pair.label "ଆପଣଙ୍କର &syncBrand.shortName.label; ଖାତା ସହିତ ଅନ୍ୟ ଉପକରଣକୁ ସଂଯୋଗ କରନ୍ତୁ">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "କଣ sync କରିବେ">
 
 <!ENTITY sync.configure.engines.title.bookmarks "ପୃଷ୍ଠାସଂକେତଗୁଡିକ">
 <!ENTITY sync.configure.engines.title.passwords "ପ୍ରବେଶ ସଂକେତ">
@@ -83,26 +87,28 @@
 <!ENTITY bookmarks.folder.pinned.label "ଜଡ଼ିତ">
 <!-- Notification strings -->
 
+<!ENTITY sync.notification.oneaccount.label "କେବଳ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ସହାୟତା ପ୍ରାପ୍ତ।">
+<!ENTITY sync.notification.configure.saved "ଆପଣଙ୍କର ଚୟନକୁ ସଂରକ୍ଷଣ କରାଯାଇଛି।">
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "ଭୁଲ ଖାତା ନାମ ଅଥବା ପ୍ରବେଶ ସଂକେତ।">
 <!ENTITY sync.invalidserver.label "ଦୟାକରି ଗୋଟିଏ ବୈଧ ସର୍ଭର URL ଭରଣ କରନ୍ତୁ">
 <!ENTITY sync.verifying.label "ଯାଞ୍ଚ କରୁଅଛି…">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "ପୁନଃରୁଦ୍ଧାର କି ଟି ଭୁଲ ଅଛି। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।">
 <!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "ଉପକରଣଗୁଡ଼ିକ ମଧ୍ଯକୁ ଟ୍ୟାବ ପଠାନ୍ତୁ">
 <!ENTITY sync.button.send.label "ପଠାନ୍ତୁ">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "ଟ୍ୟାବଗୁଡ଼ିକୁ ପଠାଇବା ପାଇଁ &syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 
-
-
-
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
-
-
+<!ENTITY sync.text.tab.sent.label "ଆପଣଙ୍କର ଟ୍ୟାବକୁ ପଠା ସରିଛି!">
+<!ENTITY sync.text.tab.not.sent.label "ଆପଣଙ୍କର ଟ୍ୟାବକୁ ପଠାଇବା ସମୟରେ ଗୋଟିଏ ସମସ୍ୟା ଦେଖା ଦେଇଛି।">
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+
 
 <!ENTITY fxaccount_email_hint "ଇମେଲ">
 <!ENTITY fxaccount_password_hint "ପ୍ରବେଶ ସଙ୍କେତ">
@@ -112,72 +118,99 @@
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_policy_linktos "ସର୍ଭିସ ନିୟମାବଳୀ">
+<!ENTITY fxaccount_back_to_browsing "ବ୍ରାଉଜିଙ୍ଗକୁ ଫେରନ୍ତୁ">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ">
 
-
-
+<!ENTITY fxaccount_getting_started_get_started "ଆରମ୍ଭ କରନ୍ତୁ">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ର କୌଣସି ପୁରୁଣା ସଂସ୍କରଣକୁ ବ୍ୟବହାର କରୁଛନ୍ତି କି?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_password_length_restriction "ନିଶ୍ଚିତ ଭାବରେ ଅତିକମରେ 8 ଅକ୍ଷର ବିଶିଷ୍ଟ ହୋଇଥିବା ଉଚିତ">
 <!ENTITY fxaccount_create_account_year_of_birth "ଜନ୍ମ ବର୍ଷ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "ପରବର୍ତ୍ତୀ">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "କଣ sync କରିବେ ବାଛନ୍ତୁ">
+<!ENTITY fxaccount_create_account_sign_in_instead "ପୂର୍ବରୁ କୌଣସି ଖାତା ଅଛି କି? ସାଇନ ଇନ">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 କିମ୍ବା ତାହା ପୂର୍ବରୁ">
+<!ENTITY fxaccount_create_account_unknown_error "ଖାତା ନିର୍ମାଣ କରିପାରିଲା ନାହିଁ">
 
+<!ENTITY fxaccount_account_create_not_allowed "ଖାତା ନିର୍ମାଣ କରିପାରିବେ ନାହିଁ">
 
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 
-
-
-
-
-
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
-
-
-
+<!ENTITY fxaccount_confirm_account_header "ଆପଣଙ୍କର ଖାତାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "&formatS; କୁ ଗୋଟିଏ ଯାଞ୍ଚ ମେଲ ପଠା ସରିଛି">
+<!ENTITY fxaccount_confirm_account_resend_email "ଇମେଲ ପୁଣି ପଠାନ୍ତୁ">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ଯାଞ୍ଚ ମେଲ ପଠାଯାଇଛି">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ଯାଞ୍ଚ ଇମେଲ ପଠାଇପାରିଲା ନାହିଁ">
 
 <!ENTITY fxaccount_sign_in_sub_header "ସାଇନ ଇନ">
 <!ENTITY fxaccount_sign_in_button_label "ସାଇନ ଇନ">
+<!ENTITY fxaccount_sign_in_forgot_password "ପ୍ରବେଶ ସଙ୍କେତକୁ ଭୂଲି ଯାଇଛନ୍ତି?">
+<!ENTITY fxaccount_sign_in_create_account_instead "ଗୋଟିଏ ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ">
+<!ENTITY fxaccount_sign_in_unknown_error "ସାଇନ ଇନ କରିପାରିଲି ନାହିଁ">
+
+<!ENTITY fxaccount_account_verified_sub_header "ଖାତା ଯାଞ୍ଚ ହୋଇଛି">
 
 
+<!ENTITY fxaccount_update_credentials_header "ସାଇନ ଇନ">
+<!ENTITY fxaccount_update_credentials_button_label "ସାଇନ ଇନ">
+<!ENTITY fxaccount_update_credentials_unknown_error "ସାଇନ ଇନ କରିପାରିଲା ନାହିଁ">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ସକ୍ରିୟ ହୋଇଛି">
+<!ENTITY fxaccount_status_needs_verification2 "ଆପଣଙ୍କର ଖାତାକୁ ଯାଞ୍ଚ କରିବା ଆବଶ୍ୟକ। ଯାଞ୍ଚ ମେଲ ପୁଣି ପଠାଇବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
+<!ENTITY fxaccount_status_needs_credentials "ସଂଯୋଗ କରିପାରୁ ନାହିଁ। ସାଇନ ଇନ କରିବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
+<!ENTITY fxaccount_status_needs_upgrade "&brandShortName; ସାଇନ ଇନ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ଉନ୍ନୟନ କରିବା ଆବଶ୍ୟକ।">
+<!ENTITY fxaccount_status_bookmarks "ପୃଷ୍ଠାସଂକେତ">
+<!ENTITY fxaccount_status_history "ପୁରୁଣା ତଥ୍ଯ">
+<!ENTITY fxaccount_status_passwords "ପ୍ରବେଶ ସଂକେତ">
+<!ENTITY fxaccount_status_tabs "ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
+<!ENTITY fxaccount_status_legal "ଆଇନଗତ" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକ">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; କୁ ବିନ୍ୟାସ କରନ୍ତୁ">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "ଆପଣଙ୍କୁ Firefox କୁ ଉନ୍ନୟନ କରିବାକୁ ହେବ">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "ଖାତା ପୂର୍ବରୁ ଅବସ୍ଥିତ। &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ଭୁଲ ଇମେଲ କିମ୍ବା ପ୍ରବେଶ ସଂକେତ">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ଭୁଲ ଇମେଲ କିମ୍ବା ପ୍ରବେଶ ସଂକେତ">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ଖାତା ଯାଞ୍ଚ ହୋଇନାହିଁ">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ସର୍ଭର ବ୍ୟସ୍ତ ଅଛି, ଶିଘ୍ର ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ସର୍ଭର ବ୍ୟସ୍ତ ଅଛି, ଶିଘ୍ର ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "କିଛି ସମସ୍ୟା ଅଛି">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ନେଟୱର୍କ ସହିତ ସଂଯୋଗ କରିପାରୁ ନାହିଁ">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ସଂଯୁକ୍ତ ନାହିଁ">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ଭାବରେ ସାଇନ ଇନ କରିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ">
