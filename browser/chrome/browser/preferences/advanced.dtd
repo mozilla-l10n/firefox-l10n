@@ -44,8 +44,8 @@
 
 <!ENTITY telemetrySection.label          "টেলিমেট্রি">
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-<!ENTITY enableTelemetry.label           "সক্ষম করুন  টেলিমেট্রি">
-<!ENTITY enableTelemetry.accesskey       " ">
+<!ENTITY enableTelemetry.label           "সক্ষম করুন &amp; টেলিমেট্রি">
+<!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন">
 
 <!ENTITY crashReporterSection.label      "বিপর্যয় প্রতিবেদক">
