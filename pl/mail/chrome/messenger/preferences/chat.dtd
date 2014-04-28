@@ -16,3 +16,6 @@
 
 <!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">
 <!ENTITY sendTyping.accesskey "t">
+
+<!ENTITY desktopChatNotifications.label "Wyświetlaj powiadomienia dla wiadomości bezpośrednio skierowanych do użytkownika">
+<!ENTITY desktopChatNotifications.accesskey "d">
