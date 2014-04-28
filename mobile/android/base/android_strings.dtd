@@ -155,9 +155,9 @@ size. -->
 <!ENTITY pref_sync "Sincr">
 <!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
 <!ENTITY pref_import_android "Importar dempuèi Android">
-<!ENTITY pref_private_data_history "Istoric de navigacion  dels telecargaments">
-<!ENTITY pref_private_data_formdata "Istoric dels formularis  de las recèrcas">
-<!ENTITY pref_private_data_cookies2 "Cookies  connexions activas">
+<!ENTITY pref_private_data_history "Istoric de navigacion &amp; dels telecargaments">
+<!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
 <!ENTITY pref_private_data_passwords "Senhals enregistrats">
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
@@ -177,7 +177,7 @@ size. -->
 <!ENTITY pref_panels_show "Afichar">
 <!ENTITY pref_panels_hide "Amagar">
 
-<!ENTITY datareporting_notification_title "estatisticas  donadas de &brandShortName;">
+<!ENTITY datareporting_notification_title "estatisticas &amp; donadas de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
 <!ENTITY datareporting_notification_action "Causir çò que mandi">
 <!ENTITY datareporting_notification_summary "Per melhorar vòstra navigacion, &brandShortName; manda automaticament certanas informacions a &vendorShortName;.">
