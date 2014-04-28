@@ -199,7 +199,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "&syncBrand.fullName.label; विकल्प">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; विकल्प">
 <!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; कॉन्फिगर करें;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
