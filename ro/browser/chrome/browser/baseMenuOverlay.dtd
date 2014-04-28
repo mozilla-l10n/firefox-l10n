@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Trimiteți reacțiile dumneavoastră…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-
+<!ENTITY helpShowTour.label             "Tur &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "T">
 
 <!ENTITY preferencesCmdMac.label        "Preferințe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
