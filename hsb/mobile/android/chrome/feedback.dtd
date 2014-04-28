@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Nastroje komentarow">
+
+<!ENTITY feedback.communicate.title     "Komunikujće z nami!">
+<!ENTITY feedback.feedback.title        "Komentar pisać">
+<!ENTITY feedback.feedback.good         "Dobry">
+<!ENTITY feedback.feedback.bad          "Špatny">
+
+<!ENTITY feedback.tools.title           "Nastroje">
+<!ENTITY feedback.allowTelemetry.title  "Wukonowe daty pósłać">
+<!ENTITY feedback.forceCompat.title     "Kompatibelnosć přidatkow wunuzować">
+<!ENTITY feedback.errorConsole.title    "Zmylkowu konsolu zmóžnić">

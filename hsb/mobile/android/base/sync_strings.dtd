@@ -1,0 +1,223 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwjazać ">
+<!ENTITY sync.title.adddevice.label "Konto &syncBrand.shortName.label; přidać">
+<!ENTITY sync.title.pair.label "Grat zwjazać">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Zo byšće swój nowy grat aktiwizował, wubjerće \&quot;&syncBrand.shortName.label; konfigurować\&quot; na graće.">
+<!ENTITY sync.subtitle.header2.label "Zapodajće tutón kod na swojim druhim graće.">
+<!ENTITY sync.subtitle.connectlocation2.label "Wubjerće \&quot;&sync.title.pair.label;\&quot; we wotrězku &syncBrand.shortName.label; w nastajenjach Firefox swojeho druheho grata.">
+<!ENTITY sync.subtitle.pair.label "Za aktiwizowanje wubjerće \&quot;Grat zwjazać\&quot; na wašim druhim graće.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Pokazać kak.">
+<!ENTITY sync.link.advancedsetup.label "Rozšěrjena konfiguracija...">
+<!ENTITY sync.link.nodevice.label "Nimam grat ze mnu…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Čaka so na druhi grat…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Zapodajće swoje kontowe informacije &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Kontowe mjeno">
+<!ENTITY sync.input.password.label "Zapodajće swoje kontowe informacije &syncBrand.fullName.label;">
+<!ENTITY sync.input.key.label "Wobnowjenski kluč">
+<!ENTITY sync.checkbox.server.label "Swójski serwer wužiwać">
+<!ENTITY sync.input.server.label "Serwerowy URL">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; njeda so konfigurować">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; njeda so ze serwerom zwjazać. Chceće hišće raz spytać?">
+<!ENTITY sync.button.tryagain.label "Hišće raz spytać">
+<!ENTITY sync.button.manual.label "Manuelna konfiguracija">
+<!ENTITY sync.subtitle.nointernet.label "Internetny zwisk k dispoziciji njesteji.">
+<!ENTITY sync.subtitle.failaccount.label "Załoženje konta na wašim graće njeje so poradźiło.">
+<!ENTITY sync.subtitle.failmultiple.label "Sće wjace hač jedyn Firefox instalował? Tuchwilu podpěruje &syncBrand.fullName.label; jednu instalaciju Firefox naraz. Prošu wotinstalujće druhe instancy, zo byšće &syncBrand.shortName.label; wužiwał.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Konfiguracija zakónčena">
+<!ENTITY sync.subtitle.success.label1 "Waše daty so nětko w pozadku sćahuja. Móžeće do nastajenjow hić, zo byšće swoje konto zrjadował, abo započeć z &brandShortName; přehladować.">
+<!ENTITY sync.settings.label "Nastajenja">
+<!ENTITY sync.subtitle.manage.label1 "Waše konto &syncBrand.fullName.label; je hižo připrawjene. Móžeće do nastajenjow hić, zo byšće swoje konto zrjadował abo &brandShortName; startować.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Prošu spytajće hišće raz.">
+<!ENTITY sync.pair.connectlocation.label "Zo byšće swój nowy grat aktiwizował, wubjerće \&quot;&syncBrand.shortName.label; konfigurować\&quot; na graće a wubjerće potom \&quot;Mam konto\&quot;.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Nastajenja">
+<!ENTITY sync.summary.pair.label "Druhi grat z wašim kontom &syncBrand.shortName.label; zwjazać">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Štož ma so synchronizować">
+<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizujće swoje…">
+<!ENTITY sync.configure.engines.title.bookmarks "Zapołožki">
+<!ENTITY sync.configure.engines.title.passwords "Hesła">
+<!ENTITY sync.configure.engines.title.history "Historija">
+<!ENTITY sync.configure.engines.title.tabs "Rajtarki">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Přetorhnyć">
+<!ENTITY sync.button.connect.label "Zwjazać">
+<!ENTITY sync.button.ok.label "W porjadku">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (zestarjeny)">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "Meni zapołožkow">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Znački">
+<!ENTITY bookmarks.folder.toolbar.label "Symbolowa lajsta zapołožkow">
+<!ENTITY bookmarks.folder.unfiled.label "Njesortěrowane zapołožki">
+<!ENTITY bookmarks.folder.desktop.label "Desktopowe zapołožki">
+<!ENTITY bookmarks.folder.mobile.label "Mobilne zapołožki">
+<!ENTITY bookmarks.folder.readinglist.label "Čitansku lisćinu">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Připjaty">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Jenož jedne konto &syncBrand.fullName.label; so podpěruje.">
+<!ENTITY sync.notification.configure.saved "Waše wuběry su so składowali.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Wopačne kontowe mjeno abo hesło">
+<!ENTITY sync.invalidserver.label "Prošu zapodajće płaćiwy serwerowy URL">
+<!ENTITY sync.verifying.label "Přepruwuje so…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Wobnowjenski kluč je wopak. Prošu spytajće hišće raz.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Rajtark na graty pósłać">
+<!ENTITY sync.button.send.label "Pósłać">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; konfigurować">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; za słanje rajtarkow konfigurować">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Konfigurujće &syncBrand.fullName.label; na swojim graće, zo byšće rajtarki na druhe graty pósłał.">
+<!ENTITY sync.text.tab.sent.label "Waš rajtark je so pósłał!">
+<!ENTITY sync.text.tab.not.sent.label "Při słanju wašeho rajtarka je problem wustupił.">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "E-mejl">
+<!ENTITY fxaccount_password_hint "Hesło">
+<!ENTITY fxaccount_password_hide "Schować">
+<!ENTITY fxaccount_password_show "Pokazać">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Wróćo k přehladowanju">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Słužbne wuměnjenja">
+<!ENTITY fxaccount_policy_linkprivacy "Zdźělenka priwatnosće">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Witajće do &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Přizjewće so, zo byšće swoje rajtarki, zapołožki, hesła a druhe synchronizował.">
+<!ENTITY fxaccount_getting_started_get_started "Prěnje kroki">
+<!ENTITY fxaccount_getting_started_old_firefox "Staršu wersiju &syncBrand.shortName.label; wužiwać?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Konto Firefox załožić">
+<!ENTITY fxaccount_create_account_password_length_restriction "Znajmjeńša 8 znamješkow trěbnych">
+<!ENTITY fxaccount_create_account_year_of_birth "Lěto narodźenja">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Hdyž pokročujeće, zwoliće do &formatS1; a &formatS2; online-słužbow Firefox.">
+<!ENTITY fxaccount_create_account_button "Přichodny">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Wubjerće, štož ma so synchronizować">
+<!ENTITY fxaccount_create_account_sign_in_instead "Maće hižo konto? Přizjewće so">
+<!ENTITY fxaccount_create_account_1990_or_earlier "199o abo do toho">
+<!ENTITY fxaccount_create_account_unknown_error "Konto njeda so załožić">
+
+<!ENTITY fxaccount_account_create_not_allowed "Konto njeda so załožić">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Dyrbiće wěstym starobnym žadanjam spjelnić, zo byšće konto załožił.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Dalše informacije">
+
+<!ENTITY fxaccount_confirm_account_header "Waše konto wobkrućić">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Přepruwowanski wotkaz je so na &formatS; pósłał">
+<!ENTITY fxaccount_confirm_account_resend_email "E-mejl znowa pósłać">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Přepruwowanska e-mejl je so pósłała">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Přepruwowanska e-mejl njeda so pósłać">
+
+<!ENTITY fxaccount_sign_in_sub_header "Přizjewić">
+<!ENTITY fxaccount_sign_in_button_label "Přizjewić">
+<!ENTITY fxaccount_sign_in_forgot_password "Sće hesło zabył?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Konto załožić">
+<!ENTITY fxaccount_sign_in_unknown_error "Njeje móžno so přizjewić">
+
+<!ENTITY fxaccount_account_verified_sub_header "Konto je přepruwowane">
+<!ENTITY fxaccount_account_verified_description2 "Waše daty budu so za mało wokomikow synchronizować.">
+
+<!ENTITY fxaccount_update_credentials_header "Přizjewić">
+<!ENTITY fxaccount_update_credentials_button_label "Přizjewić">
+<!ENTITY fxaccount_update_credentials_unknown_error "Přizjewjenje móžno njeje">
+
+<!ENTITY fxaccount_status_header2 "Konto Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: zmóžnjeny">
+<!ENTITY fxaccount_status_needs_verification2 "Waše konto dyrbi so přepruwować. Podótkńće so, zo byšće přepruwowansku e-mejl znowa pósłał.">
+<!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
+<!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
+<!ENTITY fxaccount_status_bookmarks "Zapołožki">
+<!ENTITY fxaccount_status_history "Historija">
+<!ENTITY fxaccount_status_passwords "Hesła">
+<!ENTITY fxaccount_status_tabs "Wočinjene rajtarki">
+<!ENTITY fxaccount_status_legal "Legalny" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Słužbne wuměnjenja">
+<!ENTITY fxaccount_status_linkprivacy "Zdźělenka priwatnosće">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; - Nastajenja">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; konfigurować">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Dyrbiće Firefox aktualizować">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Konto hižo eksistuje. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Njepłaćiwa e-mejl abo njepłaćiwe hesło">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Njepłaćiwa e-mejl abo njepłaćiwe hesło">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Konto njeje přepruwowane">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serwer je přećeženy, spytajće pozdźišo hišće raz">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer je přećeženy, spytajće pozdźišo hišće raz">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem je wustupił">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Zwisk ze syću móžno njeje">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; njeje zwjazany">
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Podótkńće so, zo byšće so jako &formatS; přizjewił">

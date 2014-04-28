@@ -1,0 +1,424 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "Dosć ruma k dispoziciji njeje, zo by &brandShortName; startowało.">
+<!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił.">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Zapołožki">
+<!ENTITY  history_title "Historija">
+<!ENTITY  reading_list_title "Lisćina so čita">
+
+<!ENTITY  switch_to_tab "K rajtarkej přepinać">
+
+<!ENTITY  crash_reporter_title "&brandShortName; - rozprawjak spadow">
+<!ENTITY  crash_message2 "&brandShortName; měješe problem a spadnył. Waše rajtarki měli so na startowej stronje &brandShortname; nalistować, hdyž znowa startujeće.">
+<!ENTITY  crash_send_report_message3 "Informujće &vendorShortName; wo tutym spadźe, zo by móhł jón wotstronił.">
+<!ENTITY  crash_include_url2 "Adresu strony zapřijeć, kotruž sym wopytał">
+<!ENTITY  crash_sorry "Je nam žel">
+<!ENTITY  crash_comment "Komentar přidać (komentary su zjawnje widźomne)">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; dowolić, so ze mnu wo tutej rozprawje do zwiska stajić">
+<!ENTITY  crash_email "Waša e-mejl">
+<!ENTITY  crash_closing_alert "Skónčić, bjez toho by so spadowa rozprawa pósłała?">
+<!ENTITY  sending_crash_report "Spadowa rozprawa so sćele\u2026">
+<!ENTITY  crash_close_label "Začinić">
+<!ENTITY  crash_restart_label "&brandShortName; znowa startować">
+<!ENTITY  exit_label "Skónčić">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; - webnałoženja">
+<!ENTITY  launcher_shortcuts_empty "Žane webnałoženja namakane">
+
+<!ENTITY choose_file "Dataju wubrać">
+
+<!ENTITY url_bar_default_text "Pytanje abo adresu zapodać">
+
+<!ENTITY bookmark "Zapołožka">
+<!ENTITY bookmark_added "Zapołožka je so přidała">
+<!ENTITY bookmark_removed "Zapołožka je so wotstroniła">
+<!ENTITY bookmark_updated "Zapołožka je so zaktualizowała">
+<!ENTITY bookmark_options "Nastajenja">
+
+<!ENTITY history_today_section "Dźensa">
+<!ENTITY history_yesterday_section "Wčera">
+<!ENTITY history_week_section "Před 7 dnjemi">
+<!ENTITY history_older_section "Starše hač 7 dnjow">
+
+<!ENTITY go "Start">
+<!ENTITY search "Pytać">
+<!ENTITY reload "Znowa začitać">
+<!ENTITY forward "Doprědka">
+<!ENTITY menu "Meni">
+<!ENTITY back "Wróćo">
+<!ENTITY stop "Stój">
+<!ENTITY site_security "Sydłowa wěstota">
+<!ENTITY save "Składować">
+
+<!ENTITY close_tab "Rajtark začinić">
+<!ENTITY one_tab "1 rajtark">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "rajtarki &formatD;">
+<!ENTITY new_tab_opened "Nowy rajtark je so wočinił">
+
+<!ENTITY settings "Nastajenja">
+<!ENTITY settings_title "Nastajenja">
+<!ENTITY pref_category_advanced "Rozšěrjene">
+<!ENTITY pref_category_customize "Přiměrić">
+<!ENTITY pref_category_search3 "Pytać">
+<!ENTITY pref_category_search_summary "Přiměrće swojich pytanskich poskićowarjow">
+<!ENTITY pref_category_display "Zwobraznić">
+<!ENTITY pref_category_privacy_short "Priwatnosć">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Datowe wuběry">
+<!ENTITY pref_category_installed_search_engines "Instalowane pytawy">
+<!ENTITY pref_category_add_search_providers "Dalšich pytanskich poskićowarjow přidać">
+<!ENTITY pref_category_search_restore_defaults "Pytawy wobnowić">
+<!ENTITY pref_search_restore_defaults "Standardy wobnowić">
+<!ENTITY pref_search_restore_defaults_summary "Standardy wobnowić">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "POKIW: Přidajće swojej lisćinje pytanskich poskićowarjow websydło, tłóčo dołho na jeho pytanske polo a podótkńće so potom symbol &formatI;.">
+<!ENTITY pref_category_devtools "Wuwiwarske nastroje">
+<!ENTITY pref_developer_remotedebugging "Zdalene pytanje za zmylkami">
+<!ENTITY pref_developer_remotedebugging_docs "Dalše informacije">
+<!ENTITY pref_remember_signons "Hesła sej spomjatkować">
+
+<!ENTITY pref_category_home "Startowa strona">
+<!ENTITY pref_category_home_summary "Přiměrće swoju startowu stronu">
+<!ENTITY pref_category_home_panels "Pola">
+<!ENTITY pref_home_add_panel "Polo přidać">
+<!ENTITY home_add_panel_title "Nowe polo přidać">
+<!ENTITY home_add_panel_empty "Bohužel njemóžachmy pola namakać, kotrež móžeće přidać.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 je so startowej stronje přidał">
+<!ENTITY pref_category_home_content_settings "Nastajenja wobsaha">
+<!ENTITY pref_home_updates "Awtomatiske aktualizacije">
+<!ENTITY pref_home_updates_enabled "Zmóžnjeny">
+<!ENTITY pref_home_updates_wifi "Jenož přez Wi-Fi">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "Přiměrić">
+<!ENTITY pref_header_display "Zwobraznić">
+<!ENTITY pref_header_privacy_short "Priwatnosć">
+<!ENTITY pref_header_help "Pomoc">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Wuwiwarske nastroje">
+
+<!ENTITY pref_cookies_menu "Placki">
+<!ENTITY pref_cookies_accept_all "Zmóžnjeny">
+<!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
+<!ENTITY pref_cookies_disabled "Znjemóžnjeny">
+
+<!ENTITY pref_donottrack_menu "Slědowanje">
+<!ENTITY pref_donottrack_disallow_tracking "Sydłam zdźělić, zo nochcu so slědować">
+<!ENTITY pref_donottrack_allow_tracking "Sydłam zdźělić, zo chcu so slědować">
+<!ENTITY pref_donottrack_no_pref "Sydłam ničo wo mojich slědowanskich nastajenjach njezdźělić">
+
+<!ENTITY pref_char_encoding "Znamješkowe kodowanje">
+<!ENTITY pref_char_encoding_on "Meni pokazać">
+<!ENTITY pref_char_encoding_off "Meni njepokazać">
+<!ENTITY pref_clear_private_data "Priwatne daty zhašeć">
+<!ENTITY pref_plugins "Tykače">
+<!ENTITY pref_plugins_enabled "Zmóžnjeny">
+<!ENTITY pref_plugins_tap_to_play "Dótknyć so, zo byšće wothrał">
+<!ENTITY pref_plugins_disabled "Znjemóžnjeny">
+<!ENTITY pref_text_size "Tekstowa wulkosć">
+<!ENTITY pref_reflow_on_zoom4 "Tekstowy wróćoběh">
+<!ENTITY pref_restore "Rajtarki">
+<!ENTITY pref_restore_always "Přeco wobnowić">
+<!ENTITY pref_restore_quit "Po startowanju &brandShortName; njewobnowić">
+<!ENTITY pref_font_size_tiny "Mólički">
+<!ENTITY pref_font_size_small "Mały">
+<!ENTITY pref_font_size_medium "Srjedźny">
+<!ENTITY pref_font_size_large "Wulki">
+<!ENTITY pref_font_size_xlarge "Jara wulki">
+<!ENTITY pref_font_size_set "Nastajić">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "N">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Spěšna oranžowa liška skoči nad waše wočakowanja z wjetšej spěšnosću, wyšej fleksibelnosću a wyšej wěstotu. Jako powšitkownosći wužitna organizacija, móžemy k wašemu wužitkej bjez ćišća kompromisa nowostki zawjesć. To woznamjenja lěpše dožiwjenje za was a swětliši přichod za web.">
+
+<!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
+<!ENTITY pref_show_product_announcements "Produktowe připowědźenja pokazać">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Pytanske namjety pokazać">
+<!ENTITY pref_import_android "Z Androida importować">
+<!ENTITY pref_private_data_history "Přehladowanska a sćehnjenska historija">
+<!ENTITY pref_private_data_formdata "Formularna a pytanska historija">
+<!ENTITY pref_private_data_cookies2 "Placki a aktiwne přizjewjenja">
+<!ENTITY pref_private_data_passwords "Składowane hesła">
+<!ENTITY pref_private_data_cache "Pufrowak">
+<!ENTITY pref_private_data_offlineApps "Daty websydła offline">
+<!ENTITY pref_private_data_siteSettings2 "Sydłowe nastajenja">
+<!ENTITY pref_private_data_downloadFiles "Sćehnjene dataje">
+
+
+<!ENTITY pref_about_firefox "Wo &brandShortName;">
+<!ENTITY pref_vendor_faqs "Huste prašenja">
+<!ENTITY pref_vendor_feedback "Komentar pisać">
+
+<!ENTITY pref_dialog_set_default "Jako standard wužiwać">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Wotstronić">
+
+<!ENTITY pref_search_last_toast "Njemóžeće swoju poslednju pytawu wotstronić abo znjemóžnić.">
+
+<!ENTITY pref_panels_show "Pokazać">
+<!ENTITY pref_panels_hide "Schować">
+
+<!ENTITY datareporting_notification_title "Statistiki a daty &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Wubjerće, kotre informacije maja so dźělić">
+<!ENTITY datareporting_notification_action "Wubjerće, štož ma so dźělić">
+<!ENTITY datareporting_notification_summary "Zo by waše dožiwjenje polěpšił, &brandShortName; awtomatisce informacije na &vendorShortName; sćele.">
+<!ENTITY datareporting_notification_summary_short "Zo by waše dožiwjenje polěpšił, &brandShortName;...">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; - statusowa rozprawa">
+<!ENTITY datareporting_fhr_summary2 "Dźěli daty z &vendorShortName; wo statusu wašeho wobhladowaka a pomha wam, wukon wašeho wobhladowka rozumić">
+<!ENTITY datareporting_abouthr_title "Statusowu rozprawu pokazać">
+<!ENTITY datareporting_telemetry_title "Telemetrija">
+<!ENTITY datareporting_telemetry_summary "Dźěli daty wo wukonje, wužiću, hardware a přiměrjenju wo wašim wobhladowaku z &vendorShortName;, zo byšće nam pomhał, &brandShortName; polěpšić">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sćele spadowy rozprawy, zo by &vendorShortName; pomhał, waš wobhladowak stabilniši a wěsćiši činić">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Spadowy rozprawjak">
+<!ENTITY datareporting_wifi_title "Stejnišćowe słužby &vendorShortName; ">
+<!ENTITY datareporting_wifi_summary "Pomhajće lokalizowanske słužby za wotewrjeny web polěpšić, dowolujo &brandShortName;, anonymne daty sćežora mobilneho škričkowanja zběrać a pósłać">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+
+<!ENTITY pref_update_autodownload2 "Aktualizacije awtomatisce sćahnyć">
+<!ENTITY pref_update_autodownload_wifi "Jenož přez Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Ženje">
+<!ENTITY pref_update_autodownload_always "Přeco">
+
+<!ENTITY quit "Skónčić">
+
+<!ENTITY addons "Přidatki">
+<!ENTITY downloads "Sćehnjenja">
+<!ENTITY apps "Nałoženja">
+<!ENTITY char_encoding "Znamješkowe kodowanje">
+
+<!ENTITY share "Dźělić">
+<!ENTITY share_title "Dźělić přez">
+<!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
+<!ENTITY save_as_pdf "Jako PDF składować">
+<!ENTITY find_in_page "W stronje pytać">
+<!ENTITY desktop_mode "Desktopowe sydło požadać">
+<!ENTITY page "Strona">
+<!ENTITY tools "Nastroje">
+<!ENTITY new_tab "Nowy rajtark">
+<!ENTITY new_private_tab "Nowy priwatny rajtark">
+<!ENTITY close_all_tabs "Wšě rajtarki začinić">
+<!ENTITY tabs_normal "Rajtarki">
+<!ENTITY tabs_private "Priwatny">
+<!ENTITY tabs_synced "Synchronizowany">
+<!ENTITY set_image_fail "Wobraz njeda so podać">
+<!ENTITY set_image_chooser_title "Wobraz stajić jako">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Na stronje pytać">
+<!ENTITY find_prev "Předchadny">
+<!ENTITY find_next "Přichodny">
+<!ENTITY find_close "Začinić">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Dalesposrědkowanje do grata">
+<!ENTITY media_play "Wothrać">
+<!ENTITY media_pause "Přestawka">
+<!ENTITY media_stop "Zastajić">
+
+<!ENTITY contextmenu_open_new_tab "W nowym rajtarku wočinić">
+<!ENTITY contextmenu_open_private_tab "W nowym priwatnym rajtarku wočinić">
+<!ENTITY contextmenu_open_in_reader "W čitaku wočinić">
+<!ENTITY contextmenu_remove "Wotstronić">
+<!ENTITY contextmenu_add_to_launcher "Startowej wobrazowce přidać">
+<!ENTITY contextmenu_share "Dźělić">
+<!ENTITY contextmenu_pasteandgo "Zasadźić a wotpósłać">
+<!ENTITY contextmenu_paste "Zasadźić">
+<!ENTITY contextmenu_copyurl "Adresu kopěrować">
+<!ENTITY contextmenu_edit_bookmark "Wobdźěłać">
+<!ENTITY contextmenu_subscribe "Stronu abonować">
+<!ENTITY contextmenu_site_settings "Sydłowe nastajenja wobdźěłać">
+<!ENTITY contextmenu_top_sites_edit "Wobdźěłać">
+<!ENTITY contextmenu_top_sites_pin "Sydło připjeć">
+<!ENTITY contextmenu_top_sites_unpin "Sydło wotpjeć">
+<!ENTITY contextmenu_add_search_engine "Pytawu přidać">
+
+<!ENTITY pref_titlebar_mode "Titulna lajsta">
+<!ENTITY pref_titlebar_mode_title "Titul strony pokazać">
+<!ENTITY pref_titlebar_mode_url "Adresu strony pokazać">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Titulnu lajstu kulić">
+
+<!ENTITY history_removed "Strona je so wotstroniła">
+
+<!ENTITY bookmark_edit_title "Zapołožku wobdźěłać">
+<!ENTITY bookmark_edit_name "Mjeno">
+<!ENTITY bookmark_edit_location "Městno">
+<!ENTITY bookmark_edit_keyword "Klučowe słowo">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "Sydłowe nastajenja">
+<!ENTITY site_settings_cancel       "Přetorhnyć">
+<!ENTITY site_settings_clear        "Zhašeć">
+<!ENTITY site_settings_no_settings  "Nastajenja za zhašenje njejsu.">
+
+<!ENTITY reading_list_add "Čitanskej lisćinje přidać">
+<!ENTITY reading_list_added "Strona je so wašej čitanskej lisćinje přidała.">
+<!ENTITY reading_list_removed "Strona je so z wašeje čitanskeje lisćiny zhašała">
+<!ENTITY reading_list_failed "Strona njeda so wašej čitanskej lisćinje přidać">
+<!ENTITY reading_list_duplicate "Strona je hižo we wašej čitanskej lisćinje">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Přidatne akcije">
+
+<!ENTITY masterpassword_create_title "Hłowne hesło tworić">
+<!ENTITY masterpassword_remove_title "Hłowne hesło wotstronić">
+<!ENTITY masterpassword_password "Hesło">
+<!ENTITY masterpassword_confirm "Hesło wobkrućić">
+
+<!ENTITY button_ok "W porjadku">
+<!ENTITY button_cancel "Přetorhnyć">
+<!ENTITY button_yes "Haj">
+<!ENTITY button_no "Ně">
+<!ENTITY button_clear_data "Daty zhašeć">
+<!ENTITY button_set "Nastajić">
+<!ENTITY button_clear "Zhašeć">
+
+<!ENTITY home_top_sites_title "Wuběrne sydła">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Sydło přidać">
+
+<!ENTITY home_history_title "Historija">
+<!ENTITY home_bookmarks_empty "Zapołožki, kotrež składujeće, so tu pokazuja.">
+<!ENTITY home_last_tabs_title "Rajtarki poslednjeho raza">
+<!ENTITY home_last_tabs_open "Wšě rajtarki poslednjeho raza wočinić">
+<!ENTITY home_last_tabs_empty "Waše najnowše rajtarki so tu pokazuja.">
+<!ENTITY home_most_recent_title "Najnowše">
+<!ENTITY home_most_recent_empty "Websydła, kotrež sće njedawno wopytał, so tu pokazuja.">
+<!ENTITY home_reading_list_empty "Nastawki, kotrež za pozdźišo składujeće, so tu pokazuja.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "POKIW: Přidajće čitanskej lisćinje nastawki, tłóčo dołho na symbol &formatI;, hdyž so w titulnej lajsće jewi. ">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "POKIW: Přidajće swojej čitanskej lisćinje nastawki, tłóča dołho tłóčatko čitakoweho modusa, hdyž so w titulnej lajsće jewi.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Za tute polo njeda so wobsah namakać.">
+
+<!ENTITY pin_site_dialog_hint "Zapodajće pytanske klučowe słowo">
+
+<!ENTITY filepicker_title "Dataju wubrać">
+<!ENTITY filepicker_audio_title "Wubjerće abo natočće zynk">
+<!ENTITY filepicker_image_title "Wubjerće abo wutworće wobraz">
+<!ENTITY filepicker_video_title "Widejo wubrać abo natočić">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Sće zwjazany z">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by ", kotryž wudźeržuje so wot">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Tuta strona zwobraznja wobsah, kotryž wěsty njeje.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; je wobsah zablokował, kotryž wěsty njeje.">
+<!ENTITY blocked_mixed_content_message_bottom "Njawjace websydłow budźe hišće derje fungować, byrnjež tutón wobsah zablokowany był.">
+<!ENTITY learn_more "Dalše informacije">
+<!ENTITY enable_protection "Škit zmóžnić">
+<!ENTITY disable_protection "Škit znjemóžnić">
+<!ENTITY keep_blocking "Dale blokować">
+
+<!ENTITY private_data_success "Priwatne daty su so zhašeli">
+<!ENTITY private_data_fail "Někotre priwatne daty njemóža so snano zhašeć">
+
+<!ENTITY bookmarkhistory_button_import "Importować">
+<!ENTITY bookmarkhistory_import_both "Importowanje zapołožkow a historije 
+z Androida">
+<!ENTITY bookmarkhistory_import_bookmarks "Importowanje zapołožkow 
+z Androida">
+<!ENTITY bookmarkhistory_import_history "Importowanje historije 
+z Androida">
+<!ENTITY bookmarkhistory_import_wait "Prošu čakajće...">
+
+<!ENTITY suggestions_prompt3 "Chceće pytanske namjety aktiwizować?">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "&formatS1; za &formatS2; přepytać">
+
+<!ENTITY webapp_generic_name "Nałoženje">
+
+<!ENTITY searchable_description "Zapołožki a historija">
+
+<!ENTITY devtools_remote_debugging_forward "Njezabudźće port za dalesposrědkowanje nastajić!">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Aktualizacija za &brandShortName; k dispoziciji">
+<!ENTITY updater_start_select2 "Dótkńće so, zo byšće sćahnył">
+
+<!ENTITY updater_downloading_title2 "&brandShortName; sćahnyć">
+<!ENTITY updater_downloading_title_failed2 "Sćehnjenje njeje so poradźiło">
+<!ENTITY updater_downloading_select2 "Dótkńće so, zo byšće aktualizaciju jónkróć sćahnył">
+<!ENTITY updater_downloading_retry2 "Dótkńće so, zo byšće hišće raz spytał">
+
+<!ENTITY updater_apply_title2 "Aktualizacija za &brandShortName; k dispoziciji">
+<!ENTITY updater_apply_select2 "Dótkńće so, zo byšće aktualizował">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Nowe hóstne posedźenje">
+<!ENTITY exit_guest_session "Hóstne posedźenje skónčić">
+<!ENTITY guest_session_dialog_continue "Dale">
+<!ENTITY guest_session_dialog_cancel "Přetorhnyć">
+<!ENTITY new_guest_session_title "&brandShortName; budźe nětko znowa startować">
+<!ENTITY new_guest_session_text "Wosoba, kotraž jo wužiwa, njemóže waše wosobinske přehladowanske daty (na př. składowane hesła, historija abo zapołožki) widźeć.\n\nHdyž waš hósć je wotešoł, so jeho přehladowanske data zhašeja a waše posedźenje so wobnowja.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; budźe nětko znowa startować">
+<!ENTITY exit_guest_session_text "Přehladowanske daty z tutoho posedźenja so zhašeja.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Meni">
+<!ENTITY actionbar_done "Hotowo">

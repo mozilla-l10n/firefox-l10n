@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Priwatny modus">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Sće nowy priwatny rajtark wočinił.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Njejsće w priwatnym rajtarku.">
+
+<!ENTITY privatebrowsingpage.description            "&brandShortName; njebudźe přehladowansku historiju, pytansku historiju, sćehnjensku historiju, historiju webformularow, placki abo nachwilne internetne dataje wobchowować. Ale dataje, kotrež sćahujeće, a zapołožki, kotrež składujeće, so wobchowaja.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Hačrunjež tutón grat nima natočenje wašeje přehladowanskeje historije, móže waš internetny poskićowar hišće strony slědować, kotrež wopytujeće.">
