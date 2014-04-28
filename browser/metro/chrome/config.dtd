@@ -1,16 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY empty.label            "തെരയുക:">
 <!ENTITY addpref.name           "പേരു്">
 
 <!ENTITY cancel.label           "റദ്ദാക്കുക">
-<!ENTITY toggle.label           "ടൊഗിള്‍ ചെയ്യുക">
 
-<!ENTITY integer.label          "ഇന്റിജര്‍">
-<!ENTITY string.label           " സ്ട്രിങ്">
-<!ENTITY boolean.label          "ബൂളിയന്‍">
 
-<!ENTITY string.placeholder     "Enter a string">
-<!ENTITY number.placeholder     "ലൈന്‍ നംബര്‍ നല്‍കുക">
+
+
+
+

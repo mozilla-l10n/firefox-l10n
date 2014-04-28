@@ -34,7 +34,7 @@
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.accesskey "U">
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -55,8 +55,6 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-
-<!ENTITY options.context.triggersPageRefresh  "നിലവിലുള്ള സെഷന്‍ മാത്രം, താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നു">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -72,15 +70,11 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-
-<!ENTITY options.disableJavaScript.label     "ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY options.disableJavaScript.tooltip   "നിലവിലുള്ള റ്റാബിനുള്ള ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. റ്റാബ് അല്ലെങ്കില്‍ ഉപകരണപ്പട്ടിക അടച്ചെങ്കില്‍, ഈ സജ്ജീകരണം ഉപേക്ഷിയ്ക്കുന്നതാണു്.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
-<!ENTITY options.disableCache.label     "Disable Cache *">
-<!ENTITY options.disableCache.tooltip   "നിലവിലുള്ള റ്റാബിനുള്ള ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. റ്റാബ് അല്ലെങ്കില്‍ ഉപകരണപ്പട്ടിക അടച്ചെങ്കില്‍, ഈ സജ്ജീകരണം ഉപേക്ഷിയ്ക്കുന്നതാണു്.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -95,8 +89,6 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-
-<!ENTITY options.selectEnabledToolboxButtons.label     "Available Toolbox Buttons">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -123,8 +115,6 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
-<!ENTITY options.timestampMessages.label      "Enable timestamps">
-<!ENTITY options.timestampMessages.tooltip    "If you enable this option commands and output in the Web Console will display a timestamp">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -134,12 +124,10 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "യഥാര്‍ത്ഥ ശ്രോതസ്സുകള്‍ കാണിയ്ക്കുക">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Show original sources (e.g. Sass files) in the Style Editor and Inspector">
+
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
-<!ENTITY options.stylesheetAutocompletion.label      "Autocomplete CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Autocomplete CSS properties, values and selectors in Style Editor as you type">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
