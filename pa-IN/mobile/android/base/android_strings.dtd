@@ -351,7 +351,7 @@ size. -->
 <!ENTITY home_reading_list_hint2 "ਟੋਟਖਾ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
+<!ENTITY home_reading_list_hint_accessible "ਟੋਟਕਾ: ਲੇਖ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਰੀਡਰ ਮੋਡ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖਣ ਨਾਲ ਜੋੜੋ, ਜਦੋਂ ਇਹ ਟਾਈਟਲ ਪੱਟੀ ਉੱਤੇ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ।.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->

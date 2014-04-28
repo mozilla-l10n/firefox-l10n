@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "…ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!-- 'Parental Controls' label should be capitalized -->
-<!ENTITY scanning.label                   "…ਵਿੱਚ ਵਾਇਰਸ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
+<!ENTITY scanning.label                   "…ਵਿੱਚ ਵਾਇਰਸ ਦੀ ਜਾਂਚ ਜਾਰੀ ਹੈ">
 
 <!ENTITY downloads.title                  "ਡਾਊਨਲੋਡ">
 
@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
