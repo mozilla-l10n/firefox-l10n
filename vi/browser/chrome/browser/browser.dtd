@@ -670,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "Các dịch vụ từ <label/> đã được bật. Bạn có thể thay đổi tùy chọn của mình đối với các dịch vụ trong <label class='text-link'>Quản lý Add-on</label>.">
 <!ENTITY social.activated.undo.label "Ôi, hoàn lại việc này!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Tìm hiểu thêm... (L)">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Không phải bây giờ">

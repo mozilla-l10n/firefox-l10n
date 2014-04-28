@@ -18,7 +18,7 @@
 
 <!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
 <!ENTITY  locbar.pre.accessKey          "a">
-<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (u)">
+<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (&amp;u)">
 <!ENTITY  locbar.both.label             "Lược sử và Đánh dấu">
 <!ENTITY  locbar.history.label          "Lịch sử">
 <!ENTITY  locbar.bookmarks.label        "Trang ưa thích">
