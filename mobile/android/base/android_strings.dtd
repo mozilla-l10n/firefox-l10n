@@ -5,9 +5,9 @@
 
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+
 <!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
 <!ENTITY  reading_list_title "Läslistan">
@@ -101,10 +101,10 @@
 <!ENTITY home_add_panel_installed "”&formatS;” lades till på startsidan">
 <!ENTITY pref_category_home_content_settings "Innehåll">
 <!ENTITY pref_home_updates "Automatiska uppdateringar">
-<!ENTITY pref_home_updates_enabled "Aktiverat">
+<!ENTITY pref_home_updates_enabled "Aktiverad">
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
-
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
 <!ENTITY pref_header_customize "Anpassa">
 <!ENTITY pref_header_display "Visa">
 <!ENTITY pref_header_privacy_short "Integritet">
@@ -147,9 +147,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
-
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
@@ -186,13 +186,13 @@ size. -->
 <!ENTITY datareporting_notification_summary "För att förbättra upplevelsen skickar &brandShortName; automatiskt viss information till &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "För att förbättra upplevelsen …">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
 <!ENTITY datareporting_fhr_title "&brandShortName; hälsorapport">
 <!ENTITY datareporting_fhr_summary2 "Delar data med &vendorShortName; om webbläsarens status, samt hjälper dig att förstå webbläsarens prestanda">
 <!ENTITY datareporting_abouthr_title "Visa hälsorapporten">
@@ -204,10 +204,10 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title "&vendorShortName;s platstjänster">
 <!ENTITY datareporting_wifi_summary "Hjälp till att förbättra positioneringstjänster för den öppna webben genom att låta &brandShortName; samla in och skicka anonymiserad data om mobilmaster">
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+
 <!ENTITY pref_update_autodownload2 "Hämta uppdateringar automatiskt">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
@@ -236,16 +236,16 @@ size. -->
 <!ENTITY tabs_synced "Synkade">
 <!ENTITY set_image_fail "Kan inte använda bild">
 <!ENTITY set_image_chooser_title "Använd bild som">
-
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY find_text "Sök på sidan">
 <!ENTITY find_prev "Föregående">
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
-
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY media_casting_to "Skickar till enhet">
 <!ENTITY media_play "Spela">
 <!ENTITY media_pause "Paus">
@@ -271,9 +271,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
 <!ENTITY pref_titlebar_mode_url "Visa sidans adress">
-
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
 <!ENTITY pref_scroll_title_bar "Skrolla namnfältet">
 
 <!ENTITY history_removed "Sidan borttagen">
@@ -282,9 +282,9 @@ size. -->
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Adress">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
-
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
 <!ENTITY site_settings_title3       "Platsinställningar">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Rensa">
@@ -295,9 +295,9 @@ size. -->
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reading_list_duplicate "Sidan finns redan i din läslista">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
 <!ENTITY page_action_dropmarker_description "Ytterligare åtgärder">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
@@ -334,9 +334,9 @@ size. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIPS: Spara artiklar till läslistan genom att långtrycka på läslägeknappen när den visas i namnfältet.">
-
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
 <!ENTITY home_default_empty "Hittade inget innehåll för panelen.">
 
 <!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
@@ -345,8 +345,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
 <!ENTITY filepicker_image_title "Välj eller ta en bild">
 <!ENTITY filepicker_video_title "Välj eller spela in en video">
-
 <!-- Site identity popup -->
+
 <!ENTITY identity_connected_to "Du är ansluten till">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -360,8 +360,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
-
 <!-- Mixed content notifications in site identity popup -->
+
 <!ENTITY loaded_mixed_content_message "Den här sidan visar innehåll som inte är säkert.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blockerat osäkert innehåll.">
 <!ENTITY blocked_mixed_content_message_bottom "De flesta webbplatser fungerar bra även om det här innehållet blockeras.">
@@ -374,19 +374,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
 
 <!ENTITY bookmarkhistory_button_import "Importera">
-<!ENTITY bookmarkhistory_import_both "Importerar bokmärken och historik
-                                      från Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importerar bokmärken
-                                           från Android">
-<!ENTITY bookmarkhistory_import_history "Importerar historik
-                                         från Android">
+<!ENTITY bookmarkhistory_import_both "Importerar bokmärken och historik 
+från Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importerar bokmärken 
+från Android">
+<!ENTITY bookmarkhistory_import_history "Importerar historik 
+från Android">
 <!ENTITY bookmarkhistory_import_wait "Vänta …">
 
 <!ENTITY suggestions_prompt3 "Vill du aktivera sökförslag?">
-
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
 <!ENTITY suggestion_for_engine "Sök på &formatS1; efter &formatS2;">
 
 <!ENTITY webapp_generic_name "App">
@@ -394,8 +394,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Bokmärken och historik">
 
 <!ENTITY devtools_remote_debugging_forward "Glöm inte att ställa in vidarebefordring av port!">
+<!-- Updater notifications --> 
 
-<!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_start_select2 "Tryck för att hämta">
 
@@ -406,8 +406,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
-
 <!-- Guest mode -->
+
 <!ENTITY new_guest_session "Ny gästsession">
 <!ENTITY exit_guest_session "Stäng gästsession">
 <!ENTITY guest_session_dialog_continue "Fortsätt">
@@ -417,8 +417,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; startas om">
 <!ENTITY exit_guest_session_text "Webbläsardatan från den här sessionen kommer att raderas.">
-
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
 <!ENTITY actionbar_menu "Meny">
 <!ENTITY actionbar_done "Klar">
