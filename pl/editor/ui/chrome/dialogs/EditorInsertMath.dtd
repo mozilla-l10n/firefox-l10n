@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Wstawianie wzorów matematycznych">
+
+<!ENTITY sourceEditField.label "Enter LaTeX source code:">
+
+<!ENTITY options.label "Ustawienia">
+<!ENTITY optionInline.label "Tryb bezpośredni">
+<!ENTITY optionInline.accesskey "b">
+<!ENTITY optionDisplay.label "Tryb podglądu">
+<!ENTITY optionDisplay.accesskey "p">
+<!ENTITY optionLTR.label "Z lewej do prawej">
+<!ENTITY optionLTR.accesskey "l">
+<!ENTITY optionRTL.label "Z prawej do lewej">
+<!ENTITY optionRTL.accesskey "p">
+
+<!ENTITY example.label "Przykład: ">
+<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+
+<!ENTITY insertButton.label "Wstaw">
+<!ENTITY insertButton.accesskey "W">

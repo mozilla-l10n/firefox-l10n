@@ -37,6 +37,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label      "HTML…">
 <!ENTITY insertHTMLCmd.accesskey  "H">
+<!ENTITY insertMathCmd.label "Wzory matematyczne…">
+<!ENTITY insertMathCmd.accesskey "W">
 <!ENTITY insertCharsCmd.label     "Znaki i symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label     "Linię podziału poniżej obrazka">
