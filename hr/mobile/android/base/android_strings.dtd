@@ -113,22 +113,24 @@
 <!ENTITY pref_header_devtools "Alati za razvijatelje">
 
 <!ENTITY pref_cookies_menu "Kolačići">
+<!ENTITY pref_cookies_accept_all "Omogućeno">
+<!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
+<!ENTITY pref_cookies_disabled "Onemogućeno">
 
+<!ENTITY pref_donottrack_menu "Praćenje">
+<!ENTITY pref_donottrack_disallow_tracking "Obavijesti stranice da me ne prate">
+<!ENTITY pref_donottrack_allow_tracking "Obavijesti stranice da me prate">
+<!ENTITY pref_donottrack_no_pref "Ne obaviještavaj stranice o mojim postavkama praćenja">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_char_encoding "Kodna stranica">
+<!ENTITY pref_char_encoding_on "Prikaži izbornik">
+<!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
+<!ENTITY pref_clear_private_data "Očisti privatne podatke">
+<!ENTITY pref_plugins "Priključci">
+<!ENTITY pref_plugins_enabled "Omogućeno">
+<!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
+<!ENTITY pref_plugins_disabled "Onemogućeno">
+<!ENTITY pref_text_size "Veličina teksta">
 
 <!ENTITY pref_restore "Kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
@@ -152,20 +154,23 @@ size. -->
 <!ENTITY pref_show_product_announcements "Prikaži objave proizvoda">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
+<!ENTITY pref_import_android "Uvoz iz Androida">
+<!ENTITY pref_private_data_history "Povijest pretraživanja i preuzimanja">
+<!ENTITY pref_private_data_formdata "Povijest formi i traženja">
+<!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
+<!ENTITY pref_private_data_passwords "Spremljene lozinke">
+<!ENTITY pref_private_data_cache "Priručna memorija">
+<!ENTITY pref_private_data_offlineApps "Podaci izvanmreženih stranica">
+<!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
+<!ENTITY pref_private_data_downloadFiles "Preuzete datoteke">
 
 
+<!ENTITY pref_about_firefox "O &brandShortName;">
+<!ENTITY pref_vendor_faqs "Često postavljana pitanja">
+<!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_dialog_set_default "Postavi kao zadano">
+<!ENTITY pref_dialog_default "Zadano">
 <!ENTITY pref_dialog_remove "Ukloni">
 
 <!ENTITY pref_search_last_toast "Ne možete ukloniti ili onemogućiti zadnji pretraživač interneta">
@@ -191,23 +196,29 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Prikaži moj izvještaj o zdravlju">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Dijeli podatke o performansama, korištenju hardvera i prilagodbama vašeg preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
-
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Izvjestitelj rušenja">
+<!ENTITY datareporting_wifi_title "&vendorShortName; lokacijske usluge">
+<!ENTITY datareporting_wifi_summary "Pomozite poboljšati geolokacijske usluge za Open Web tako da dopustite &brandShortName; prikupljanje i slanje anonimnih podataka mobilnih tornjeva">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
+<!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
+<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Nikada">
+<!ENTITY pref_update_autodownload_always "Uvijek">
 
+<!ENTITY quit "Izlaz">
 
+<!ENTITY addons "Dodaci">
+<!ENTITY downloads "Preuzimanja">
+<!ENTITY apps "Aplikacije">
+<!ENTITY char_encoding "Kodna stranica">
 
-
-
-
-
-
+<!ENTITY share "Dijeli">
 <!ENTITY share_title "Dijeli putem">
 <!ENTITY share_image_failed "Nije moguće podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spremi kao PDF">
@@ -226,20 +237,25 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
-
+<!ENTITY find_text "Pronađi na stranici">
+<!ENTITY find_prev "Prethodni">
+<!ENTITY find_next "Sljedeći">
+<!ENTITY find_close "Zatvori">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY media_casting_to "Prijenos na uređaj">
+<!ENTITY media_play "Pokreni">
+<!ENTITY media_pause "Pauziraj">
+<!ENTITY media_stop "Zaustavi">
 
-
-
-
-
-
-
-
-
+<!ENTITY contextmenu_open_new_tab "Otvori u novoj kartici">
+<!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
+<!ENTITY contextmenu_open_in_reader "Otvori u čitaču">
+<!ENTITY contextmenu_remove "Ukloni">
+<!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
+<!ENTITY contextmenu_share "Dijeli">
+<!ENTITY contextmenu_pasteandgo "Zalijepi i kreni">
 <!ENTITY contextmenu_paste "Zalijepi">
 <!ENTITY contextmenu_copyurl "Kopiraj adresu">
 <!ENTITY contextmenu_edit_bookmark "Uredi">
@@ -250,48 +266,60 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
 <!ENTITY contextmenu_add_search_engine "Dodaj pretraživač interneta">
 
+<!ENTITY pref_titlebar_mode "Naslovna traka">
 <!ENTITY pref_titlebar_mode_title "Prikaži naslov stranice">
 <!ENTITY pref_titlebar_mode_url "Prikaži adresu stranice">
 <!-- Localization note (pref_scroll_title_bar): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY history_removed "Stranica je uklonjena">
 
-
-
-
+<!ENTITY bookmark_edit_title "Uredi zabilješku">
+<!ENTITY bookmark_edit_name "Naziv">
+<!ENTITY bookmark_edit_location "Lokacija">
+<!ENTITY bookmark_edit_keyword "Ključna riječ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
+<!ENTITY site_settings_title3       "Postavke stranice">
+<!ENTITY site_settings_cancel       "Odustani">
+<!ENTITY site_settings_clear        "Obriši">
+<!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
-
-
-
-
-
-
+<!ENTITY reading_list_add "Dodaj na popis za čitanje">
+<!ENTITY reading_list_added "Stranica dodana na popis za čitanje">
+<!ENTITY reading_list_removed "Stranica uklonjena sa popisa za čitanje">
+<!ENTITY reading_list_failed "Neuspješno dodavanje stranice na popis za čitanje">
+<!ENTITY reading_list_duplicate "Stranica je već na popisu za čitanje">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Dodatne radnje">
 
+<!ENTITY masterpassword_create_title "Stvorite glavnu lozinku">
+<!ENTITY masterpassword_remove_title "Uklonite glavnu lozinku">
 <!ENTITY masterpassword_password "Lozinka">
-
+<!ENTITY masterpassword_confirm "Potvrdite lozinku">
 
 <!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Odustani">
+<!ENTITY button_yes "Da">
+<!ENTITY button_no "Ne">
+<!ENTITY button_clear_data "Obriši podatke">
+<!ENTITY button_set "Postavi">
+<!ENTITY button_clear "Obriši">
 
-
-
-
-
-
-
+<!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Dodaj stranicu">
 
-
-
-
-
-
+<!ENTITY home_history_title "Povijest">
+<!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
+<!ENTITY home_last_tabs_title "Kartice od zadnji puta">
+<!ENTITY home_last_tabs_open "Otvori sve kartice od zadnji puta">
+<!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
+<!ENTITY home_most_recent_title "Aktualno">
 
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
@@ -304,6 +332,7 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 
+<!ENTITY filepicker_title "Odaberi datoteku">
 
 
 
@@ -322,7 +351,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 
-
+<!ENTITY learn_more "Saznajte više">
 
 
 
@@ -351,11 +380,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 
 
-
+<!ENTITY guest_session_dialog_cancel "Odustani">
 
 
 
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Izbornik">
 

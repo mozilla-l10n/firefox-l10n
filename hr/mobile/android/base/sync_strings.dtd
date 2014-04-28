@@ -7,6 +7,8 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Poveži se na &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Dodaj &syncBrand.fullName.label; račun">
 <!ENTITY sync.title.pair.label "Upari uređaj">
@@ -28,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Unesite informacije svojeg &syncBrand.fullName.label; računa">
 <!ENTITY sync.input.username.label "Naziv računa">
-
+<!ENTITY sync.input.password.label "Lozinka">
 <!ENTITY sync.input.key.label "Ključ popravka">
 <!ENTITY sync.checkbox.server.label "Koristi prilagođeni poslužitelj">
 <!ENTITY sync.input.server.label "URL poslužitelja">
@@ -59,9 +61,9 @@
 
 <!ENTITY sync.configure.engines.title.label "Šta sinkronizirati">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinkroniziraj…">
-
-
-
+<!ENTITY sync.configure.engines.title.bookmarks "Zabilješke">
+<!ENTITY sync.configure.engines.title.passwords "Lozinke">
+<!ENTITY sync.configure.engines.title.history "Povijest">
 <!ENTITY sync.configure.engines.title.tabs "Kartice">
 <!-- Common text -->
 
@@ -104,7 +106,7 @@
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
+<!ENTITY fxaccount_password_hint "Lozinka">
 <!ENTITY fxaccount_password_hide "Sakrij">
 <!ENTITY fxaccount_password_show "Prikaži">
 <!-- Localization note: these are shown in screens after the user has
@@ -117,6 +119,7 @@
      the two uses differently. -->
 
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Dobro došli u &syncBrand.shortName.label;">
 
 
 
@@ -126,8 +129,8 @@
 
 
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-
-
+<!ENTITY fxaccount_create_account_button "Sljedeći">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Odaberite što ćete sinkronizirati">
 
 
 
@@ -156,9 +159,9 @@
 
 
 
-
-
-
+<!ENTITY fxaccount_status_bookmarks "Zabilješke">
+<!ENTITY fxaccount_status_history "Povijest">
+<!ENTITY fxaccount_status_passwords "Lozinke">
 
 
 <!-- Localization note: when tapped, the following two strings link to
@@ -175,7 +178,7 @@
      Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; mogućnosti">
-
+<!ENTITY fxaccount_options_configure_title "Podesite &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
