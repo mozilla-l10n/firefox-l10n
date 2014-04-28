@@ -29,10 +29,10 @@
 <!ENTITY selectAllCmd.label     "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY selectAllCmd.key       "A">
-<!ENTITY preferencesCmd.label         "Opcje…">
-<!ENTITY preferencesCmd.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label     "Preferencje">
-<!ENTITY preferencesCmdUnix.accesskey "f">
+<!ENTITY preferencesCmd2.label "Opcje">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferencje">
+<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!ENTITY viewMenu.label             "Widok">
 <!ENTITY viewMenu.accesskey         "W">
@@ -40,9 +40,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "n">
 <!ENTITY showTaskbarCmd.label       "Pasek stanu">
 <!ENTITY showTaskbarCmd.accesskey   "e">
-
-<!ENTITY proxy.label     "Konfiguracja Proxy…">
-<!ENTITY proxy.accesskey "c">
 
 <!ENTITY closeCmd.label     "Zamknij">
 <!ENTITY closeCmd.accesskey "Z">

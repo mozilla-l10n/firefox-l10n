@@ -177,13 +177,13 @@
 <!ENTITY addressBookCmd.label            "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey        "a">
 <!ENTITY addressBookCmd.key              "B">
-<!ENTITY accountManagerCmd.label         "Konfiguracja kont…">
-<!ENTITY accountManagerCmd.accesskey     "n">
-<!ENTITY accountManagerCmdUnix.accesskey "n">
-<!ENTITY preferencesCmd.label            "Opcje…">
-<!ENTITY preferencesCmd.accesskey        "O">
-<!ENTITY preferencesCmdUnix.label        "Preferencje">
-<!ENTITY preferencesCmdUnix.accesskey    "f">
+<!ENTITY accountManagerCmd2.label "Konfiguracja kont">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmd2Unix.accesskey "K">
+<!ENTITY preferencesCmd2.label "Opcje">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferencje">
+<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key    "m">

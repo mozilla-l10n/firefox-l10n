@@ -74,8 +74,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey  "l">
 <!ENTITY synchronizeOfflineCmd.label    "Pobierz/synchronizuj…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd.label       "Ustawienia trybu offline…">
-<!ENTITY settingsOfflineCmd.accesskey   "U">
+<!ENTITY settingsOfflineCmd2.label "Ustawienia trybu offline">
+<!ENTITY settingsOfflineCmd2.accesskey "U">
 <!ENTITY downloadSelectedCmd.label      "Pobierz wybrane wiadomości">
 <!ENTITY downloadSelectedCmd.accesskey  "w">
 <!ENTITY downloadStarredCmd.label       "Pobierz wiadomości oznaczone gwiazdką">
@@ -112,13 +112,13 @@
 <!ENTITY selectFlaggedCmd.accesskey        "O">
 <!ENTITY menuFavoriteFolder.label          "Ulubiony folder">
 <!ENTITY menuFavoriteFolder.accesskey      "f">
-<!ENTITY folderPropsCmd.label              "Właściwości…">
-<!ENTITY folderPropsFolderCmd.label        "Właściwości folderu…">
-<!ENTITY folderPropsNewsgroupCmd.label     "Właściwości grupy dyskusyjnej…">
-<!ENTITY folderPropsCmd.accesskey          "i">
-<!ENTITY accountManagerCmd.label           "Konfiguracja kont…">
-<!ENTITY accountManagerCmd.accesskey       "n">
-<!ENTITY accountManagerCmdUnix.accesskey   "g">
+<!ENTITY folderPropsCmd2.label "Właściwości">
+<!ENTITY folderPropsFolderCmd2.label "Właściwości folderu">
+<!ENTITY folderPropsNewsgroupCmd.label "Właściwości grupy dyskusyjnej">
+<!ENTITY folderPropsCmd.accesskey "i">
+<!ENTITY accountManagerCmd2.label "Konfiguracja kont">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY undoDeleteMsgCmd.label            "Cofnij usunięcie wiadomości">
 <!ENTITY redoDeleteMsgCmd.label            "Ponownie usuń wiadomość">
 <!ENTITY undoMoveMsgCmd.label              "Cofnij przeniesienie wiadomości">
@@ -473,8 +473,8 @@
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY allowRemoteDebugging.label "Zezwalaj na zdalne debugowanie">
 <!ENTITY allowRemoteDebugging.accesskey "n">
-<!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
-<!ENTITY filtersCmd.accesskey              "F">
+<!ENTITY filtersCmd2.label "Filtrowanie wiadomości">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
 <!ENTITY filtersApply.accesskey            "b">
 <!ENTITY filtersApplyToSelection.label     "Zastosuj filtry do wybranych wiadomości">
@@ -623,12 +623,12 @@
 <!ENTITY folderContextSubscribe.accesskey       "b">
 <!ENTITY folderContextSearchForMessages.label "Wyszukaj wiadomości…">
 <!ENTITY folderContextSearchForMessages.accesskey "W">
-<!ENTITY folderContextProperties.label          "Właściwości…">
-<!ENTITY folderContextProperties.accesskey      "i">
+<!ENTITY folderContextProperties2.label "Właściwości">
+<!ENTITY folderContextProperties2.accesskey "i">
 <!ENTITY folderContextFavoriteFolder.label      "Ulubiony folder">
 <!ENTITY folderContextFavoriteFolder.accesskey  "U">
-<!ENTITY folderContextSettings.label            "Ustawienia…">
-<!ENTITY folderContextSettings.accesskey        "a">
+<!ENTITY folderContextSettings2.label "Ustawienia">
+<!ENTITY folderContextSettings2.accesskey "a">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail zawiera:">
@@ -812,9 +812,9 @@
 <!ENTITY zoomWindow.label      "Zmień rozmiar okna">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferencje…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY preferencesCmdMac2.label "Preferencje">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label          "Usługi">
 <!ENTITY hideThisAppCmdMac.label        "Ukryj program &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "h">
