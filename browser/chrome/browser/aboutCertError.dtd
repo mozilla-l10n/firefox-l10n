@@ -28,8 +28,12 @@ acest sait fără probleme, această eroare ar putea însemna că cineva 
 <!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
 
 <!ENTITY certerror.expert.heading "Înțeleg riscurile">
-<!ENTITY certerror.expert.content "Dacă înțelegeți ce se întâmplă, puteți seta &brandShortName; să aibă încredere pe viitor în identificarea acestui sait. <b>Chiar dacă aveți încredere în acest sait, această eroare ar putea însemna că cineva încearcă să vă păcălească.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă aveți un motiv întemeiat să credeți că acest sait nu folosește o identificare de încredere.">
+<!ENTITY certerror.expert.content "Dacă înțelegeți ce se întâmplă, 
+puteți seta &brandShortName; să aibă încredere pe viitor în identificarea acestui sait. 
+<b>Chiar dacă aveți încredere în acest sait, această eroare ar putea însemna că cineva 
+încearcă să vă păcălească.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă 
+aveți un motiv întemeiat să credeți că acest sait nu folosește o identificare de încredere.">
 <!ENTITY certerror.addException.label "Adaugă excepție…">
 
 <!ENTITY certerror.technical.heading "Detalii tehnice">
