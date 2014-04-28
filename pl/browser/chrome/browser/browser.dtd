@@ -233,7 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY eyedropper.label "Próbnik koloru">
 <!ENTITY eyedropper.accesskey "P">
-<!ENTITY eyedropper.commandkey "X">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
