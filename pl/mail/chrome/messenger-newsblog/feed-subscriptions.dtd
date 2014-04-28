@@ -16,6 +16,12 @@
 <!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "P">
 
+<!ENTITY autotagEnable.label "Automatyczne tworzenie etykiet na podstawie nazw w elementach &lt;category&gt; kanału">
+<!ENTITY autotagEnable.accesskey "A">
+<!ENTITY autotagUsePrefix.label "Przedrostek etykiet:">
+<!ENTITY autotagUsePrefix.accesskey "P">
+<!ENTITY autoTagPrefix.placeholder "przedrostek etykiet">
+
 <!ENTITY locationValidate.label "Sprawdź poprawność">
 <!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
