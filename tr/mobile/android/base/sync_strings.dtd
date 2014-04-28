@@ -153,7 +153,7 @@
 
 <!ENTITY fxaccount_confirm_account_header "Hesabınızı doğrulayın">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "formatS adresine doğrulama bağlantısı gönderildi">
+<!ENTITY fxaccount_confirm_account_verification_link "&formatS; adresine doğrulama bağlantısı gönderildi">
 <!ENTITY fxaccount_confirm_account_resend_email "E-postayı tekrar gönder">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Doğrulama e-postası gönderilemedi">
