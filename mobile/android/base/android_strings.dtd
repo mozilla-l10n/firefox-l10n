@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "BrandShortName और के लिए पर्याप्त स्थान उपलब्ध नहीं है; शुरू करने के लिए.">
-<!ENTITY  error_loading_file "brandShortName को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुइ;">
+<!ENTITY  no_space_to_start_error "&brandShortName; और के लिए पर्याप्त स्थान उपलब्ध नहीं है; शुरू करने के लिए.">
+<!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुइ;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
