@@ -7,10 +7,19 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "długi" >
 <!ENTITY pref.dateformat.short "krótki" >
-<!ENTITY pref.defaultlength.label   "Domyślny czas trwania wydarzenia:" >
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu między przypomnieniami:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "o">
+<!ENTITY pref.defaults.label "Domyślne wartości">
+<!ENTITY pref.events.label "Wydarzenia">
+<!ENTITY pref.tasks.label "Zadania">
+<!ENTITY pref.default_event_length.label "Czas trwania:">
+<!ENTITY pref.default_event_length.accesskey "C">
+<!ENTITY pref.default_task_none.label "brak">
+<!ENTITY pref.default_task_start_of_day.label "początek dnia">
+<!ENTITY pref.default_task_end_of_day.label "koniec dnia">
+<!ENTITY pref.default_task_tomorrow.label "jutro">
+<!ENTITY pref.default_task_next_week.label "następny tydzień">
+<!ENTITY pref.default_task_offset_current.label "względem obecnej godziny">
+<!ENTITY pref.default_task_offset_start.label "względem rozpoczęcia">
+<!ENTITY pref.default_task_offset_next_hour.label "względem następnej godziny">
 
 <!ENTITY pref.accessibility.label   "Dostępność" >
 <!ENTITY pref.systemcolors.label    "Optymizuj kolory, by poprawić dostępność" >
