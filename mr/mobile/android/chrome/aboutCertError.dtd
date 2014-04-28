@@ -19,12 +19,18 @@ was trying to connect. -->
 सांगितले आहे, पण आम्ही आपली जोडणी सुरक्षित असल्याची पुष्टी करू शकत नाही.">
 
 <!ENTITY certerror.whatShouldIDo.heading "मी काय करावे?">
-
+<!ENTITY certerror.whatShouldIDo.content "जर आपण या संकेतस्थळाशी 
+समस्यांविना सारखे जोडणी करता, तर या त्रुटीचा अर्थ असा होऊ शकतो की 
+हे संकेतस्थळ योग्य नसून, आपणास पुढे जाणे अनुचित राहील.">
 <!ENTITY certerror.getMeOutOfHere.label "मला येथून बाहेर काढा!">
 
 <!ENTITY certerror.expert.heading "मला यातील धोके कळतात">
-
-
+<!ENTITY certerror.expert.content "तुम्हाला काय होते हे कळत असल्यास, तुम्ही 
+&brandShortName;ला हे स्थळ विश्वासार्ह आहे असे सांगु शकता. 
+<b>तरी तुम्हाला हे स्थळ विश्वासार्ह वाटत असेल, तर याचा अर्थ कुणीतरी तुमच्या जुळवणीचा 
+गैर वापर करीत आहे.</b>">
+<!ENTITY certerror.expert.contentPara2 "जोपर्यंत आपणास हे स्थळ विश्वासार्ह ओळख 
+का वापरत नाही याचे कारण माहित असल्याशिवाय अपवाद यादीत जोडू नका.">
 <!ENTITY certerror.addTemporaryException.label "संकेतस्थळास भेट द्या">
 <!ENTITY certerror.addPermanentException.label "अपवाद यादीत कायमचे समाविष्ठ करा">
 

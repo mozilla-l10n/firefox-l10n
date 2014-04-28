@@ -83,6 +83,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI;चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
 <!ENTITY pref_developer_remotedebugging_docs "आणखी शिका">
@@ -230,8 +231,8 @@ size. -->
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
 <!ENTITY tabs_normal "टॅब्स">
 <!ENTITY tabs_private "खाजगी">
-
-
+<!ENTITY tabs_synced "ताळमेळीत">
+<!ENTITY set_image_fail "प्रतिमा सेट करण्यात असमर्थ">
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -242,17 +243,19 @@ size. -->
 <!ENTITY find_close "बंद करा">
 <!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "उपकरणात संचरण होत आहे">
 <!ENTITY media_play "चालू करा">
 <!ENTITY media_pause "थोडा वेळ थांबवा">
 <!ENTITY media_stop "थांबवा">
 
 <!ENTITY contextmenu_open_new_tab "नवीन टॅब मध्ये उघडा">
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
-
+<!ENTITY contextmenu_open_in_reader "वाचकात उघडा">
 <!ENTITY contextmenu_remove "काढा">
 <!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
 <!ENTITY contextmenu_share "शेअर करा">
-
+<!ENTITY contextmenu_pasteandgo "चिकटवा आणि चला">
 <!ENTITY contextmenu_paste "चिकटवा">
 <!ENTITY contextmenu_copyurl "पत्ता कॉपी करा">
 <!ENTITY contextmenu_edit_bookmark "संपादन करा">
@@ -276,7 +279,7 @@ size. -->
 <!ENTITY bookmark_edit_title "वाचनखुणेचे संपादन करा">
 <!ENTITY bookmark_edit_name "नाव">
 <!ENTITY bookmark_edit_location "स्थळ">
-
+<!ENTITY bookmark_edit_keyword "संकेतशब्द">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -325,6 +328,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "टीप: शीर्षक पट्टीत वाचक पद्धत बटण दिसल्यावर ते जास्त वेळ दाबून तुमच्या वाचन यादीत लेख साठवा.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "टीप: शीर्षक पट्टीत वाचक पद्धत बटण दिसल्यावर ते जास्त वेळ दाबून तुमच्या वाचन यादीत लेख साठवा.">
@@ -333,11 +337,12 @@ size. -->
 
 <!ENTITY home_default_empty "या पटलासाठी कुठलाही मजकूर सापडला नाही.">
 
+<!ENTITY pin_site_dialog_hint "शोधशब्द टाका">
 
 <!ENTITY filepicker_title "फाईल निवडा">
 <!ENTITY filepicker_audio_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
 <!ENTITY filepicker_image_title "फोटो काढा किंवा निवडा">
-
+<!ENTITY filepicker_video_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "तुम्ही यांच्यासह जुळलेले आहात">

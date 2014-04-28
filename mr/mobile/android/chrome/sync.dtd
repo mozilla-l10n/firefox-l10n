@@ -5,15 +5,16 @@
 <!ENTITY sync.title                 "ताळमेळ">
 <!ENTITY sync.notconnected          "जोडलेले नाही">
 <!ENTITY sync.connect               "जोडणी करा">
-
+<!ENTITY sync.connected             "जोडले">
 <!ENTITY sync.details               "तपशील">
+<!ENTITY sync.deviceName            "हे उपकरण">
+<!ENTITY sync.disconnect            "जोडणी मोडा">
+<!ENTITY sync.syncNow               "लगेच ताळमेळ करा">
 
-
-
-
-
-
-
+<!ENTITY sync.setup.title           "ताळमेळला जोडा">
+<!ENTITY sync.setup.pair            "कार्यान्वित करण्यासाठी, तुमच्या दुसऱ्या उपकरणावर &quot;उपकरणाशी जोडणी करा&quot; निवडा.">
+<!ENTITY sync.fallback              "मी माझ्या संगणकाच्या जवळ नाही...">
+<!ENTITY sync.setup.manual          "तुमच्या ताळमेळ खात्याची माहिती भरा">
 <!ENTITY sync.account               "खाते नाव">
 <!ENTITY sync.password              "पासवर्ड">
 <!ENTITY sync.recoveryKey           "पुनःप्राप्ति कि">
@@ -21,10 +22,10 @@
 <!ENTITY sync.serverURL             "सर्व्हरचा URL">
 <!ENTITY sync.setup.connect         "जोडणी करा">
 <!ENTITY sync.setup.cancel          "रद्द करा">
-
+<!ENTITY sync.setup.tutorial        "कसे ते सांगा">
 <!ENTITY sync.setup.waiting2        "इतर उपकरणासाठी प्रतिक्षा करत आहे...">
 
 <!ENTITY sync.pair.title            "साधनाची जोडणी करा">
-
+<!ENTITY sync.pair.description      "आपले नवीन उपकरण कार्यान्वित करण्यासाठी त्यावर &quot;ताळमेळ सेटअप करा&quot; निवडा.">
 <!ENTITY sync.setup.close           "बंद करा">
-
+<!ENTITY sync.setup.waitingdownload "तुमची माहिती आता पडद्यामागे डाऊनलोड होत आहे. तुम्ही हे पटल कधीही बंद करू शकता.">
