@@ -65,9 +65,8 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Pretty Print">
-<!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "P">
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -76,7 +75,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "എന്‍വയണ്മെന്റ്">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "ഉള്ളടക്കം">
@@ -107,14 +106,14 @@
 
 
 <!ENTITY resetContext2.label          "വേരിയബിളുകള്‍ വീണ്ടും സജ്ജമാക്കുക">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "വീണ്ടും ലഭ്യമാക്കി പ്രവര്‍ത്തിയ്ക്കുക">
 <!ENTITY reloadAndRun.accesskey       "ല">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "പ്രവര്‍ത്തിപ്പിയ്ക്കുക">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
@@ -125,6 +124,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-<!ENTITY evalFunction.label "Evaluate Current Function">
-<!ENTITY evalFunction.accesskey "v">
-<!ENTITY evalFunction.key "e">
+

@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+

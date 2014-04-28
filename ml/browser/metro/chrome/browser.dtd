@@ -9,7 +9,7 @@
 <!ENTITY back.label            "പുറകോട്ട്‌">
 <!ENTITY forward.label         "മുമ്പോട്ട്">
 <!ENTITY newtab.label          "പുതിയ റ്റാബ്‌ ">
-<!ENTITY newPrivateTab.label   "New Private Tab">
+
 <!ENTITY closetab.label        "റ്റാബ് അടയ്ക്കുക">
 
 <!ENTITY autocompleteResultsHeader.label  "നിങ്ങളുടെ ഫലങ്ങള്‍">
@@ -17,14 +17,13 @@
 <!ENTITY appbarErrorConsole.label      "പിശകുകള്‍ക്കുള്ള കണ്‍സോള്‍ തുറക്കുക">
 <!ENTITY appbarJSShell.label           "ജാവാസ്ക്രിപ്റ്റ് ഷെല്‍ തുറക്കുക">
 <!ENTITY appbarFindInPage2.label       "താളില്‍ കണ്ടെത്തുക">
-<!ENTITY appbarRelaunchInDesktop.label "Relaunch in Desktop">
-<!ENTITY appbarMSMetaData2.label       "Get app for this site">
-<!ENTITY appbarViewPageSource.label    "താളിന്റെ സ്രോതസ്സ്‌ കാണുക">
 
-<!ENTITY topSitesHeader.label        "Top Sites">
-<!ENTITY bookmarksHeader.label       "അടയാളങ്ങള്‍">
-<!ENTITY recentHistoryHeader.label   "Recent History">
-<!ENTITY remoteTabsHeader.label      "മറ്റു് ഡിവൈസുകളില്‍ നിന്നുള്ള റ്റാബുകള്‍">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -33,87 +32,70 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
-<!ENTITY narrowTopSitesHeader.label      "Top Sites">
-<!ENTITY narrowBookmarksHeader.label     "അടയാളങ്ങള്‍">
-<!ENTITY narrowRecentHistoryHeader.label "Recent History">
-<!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
 
-<!ENTITY downloadsHeader.label     "ഡൌണ്‍ലോഡുകള്‍">
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "കണ്ടുപിടിയ്ക്കുക…">
+
+
+
+
 <!ENTITY downloadOpen2.label       "തുറക്കുക">
 <!ENTITY downloadCancel.label      "റദ്ദാക്കുക">
-<!ENTITY downloadPause.label       "തല്‍ക്കാലത്തേക്ക് നിര്‍ത്തുക">
+
 <!ENTITY downloadResume.label      "തുടരുക ">
 <!ENTITY downloadRetry.label       "വീണ്ടും ശ്രമിയ്ക്കുക">
 <!ENTITY downloadRemove.label      "നീക്കം ചെയ്യുക">
-<!ENTITY downloadDelete.label      "നിര്‍മാര്‍ജ്ജനം ചെയ്യുക">
+
 <!ENTITY downloadFailed.label      "പരാജയപ്പെട്ടിരിക്കുന്നു ">
 
-<!ENTITY allBookmarks.label        "See all bookmarks">
 
-<!ENTITY consoleHeader.label       "എറര്‍ കണ്‍സോള്‍ ">
 <!ENTITY consoleAll.label          "എല്ലാം">
 <!ENTITY consoleErrors.label       "പിശകുകള്‍">
 <!ENTITY consoleWarnings.label     "മുന്നറിയിപ്പുകള്‍">
-<!ENTITY consoleMessages.label     "സന്ദേശങ്ങള്‍">
-<!ENTITY consoleCodeEval.label     "കോഡ്:">
-<!ENTITY consoleClear.label        "വൃത്തിയാകുക ">
-<!ENTITY consoleCopyAll.label      "പകര്‍ത്തുക">
-<!ENTITY consoleEvaluate.label     "…">
+
+
+
+
+
 <!ENTITY consoleErrFile.label      "സ്രോതസ്സ്‌ ഫയല്‍:">
 <!ENTITY consoleErrLine.label      "ലൈന്‍">
 <!ENTITY consoleErrColumn.label    "കോളം">
-<!ENTITY consoleFollowCheckbox.label "Follow">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "മുറിക്കുക">
-<!ENTITY contextTextCopy.label             "പകര്‍ത്തുക">
+
 <!ENTITY contextTextPaste.label            "ഒട്ടിക്കുക">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "ഒട്ടിച്ചു് തുടരുക">
 <!ENTITY contextTextSelect.label           "തെരഞ്ഞെടുക്കുക">
-<!ENTITY contextTextSelectAll.label        "എല്ലാം തെരഞ്ഞെടുക്കുക">
+
 <!-- LINK CONTEXT MENU -->
 
-<!ENTITY contextOpenLinkTab.label          "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
-<!ENTITY contextCopyLinkHref.label         "Copy link">
-<!ENTITY contextBookmarkLinkHref.label     "Bookmark link">
+
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-<!ENTITY contextSaveImageLib.label         "Save to picture library">
-<!ENTITY contextCopyImage.label            "ചിത്രം പകര്‍ത്തുക">
-<!ENTITY contextCopyImageLocation.label    "ചിത്രത്തിന്റെ വിലാസം പകര്‍ത്തുക">
-<!ENTITY contextOpenImageTab.label         "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
+
+
 <!-- VIDEO CONTEXT MENU -->
 
-<!ENTITY contextSaveVideoLib.label         "Save to video library">
-<!ENTITY contextCopyVideoLocation.label    "വീഡിയോ സ്ഥാനം പകര്‍ത്തുക">
-<!ENTITY contextOpenVideoTab.label         "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
+
 <!-- KEYBOARD SHORTCUTS -->
 
-<!ENTITY reload.key "r">
-<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-<!ENTITY openFile.key "o">
-<!ENTITY savePage.key "s">
-<!ENTITY find.key "f">
-<!ENTITY findNext.key "g">
-<!ENTITY quit.key "q">
-<!ENTITY addBookmark.key "d">
-<!ENTITY newTab.key "t">
-<!ENTITY newTab2.key "n">
-<!ENTITY closeTab.key "w">
+
+
+
+
+
+
+
+
+
 <!-- Private browsing (control+shift+key) -->
-<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-<!ENTITY jsConsole.key "j">
-<!ENTITY optionsFlyout.key "o">
-<!ENTITY syncFlyout.key "s">
-<!ENTITY aboutFlyout.key "a">
+
+
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -125,13 +107,11 @@
      has an arrow pointing toward the feature it references.
      -->
 
-<!ENTITY firstRunTabs.label "Looking for your tabs? Just pull down or right-click">
-<!ENTITY firstRunTopSites.label "Go to the sites you visit most">
-<!ENTITY firstRunBookmarks.label "Find pages you've saved for later">
-<!ENTITY firstRunMenu.label "Access more features and options">
-<!ENTITY firstRunHistory.label "See where you've been on the Web">
-<!ENTITY firstRunWelcome.label "Welcome to &brandShortName;">
-<!ENTITY firstRunDifferent.label "Different by design">
+
+
+
+
+
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -142,8 +122,6 @@
        references.
        -->
 
-<!ENTITY firstRunBack.label "Tap to go back to the previous page">
-<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
-<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
-<!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
+
+
 <!ENTITY firstRunGotIt.label "കിട്ടിപ്പോയി!">

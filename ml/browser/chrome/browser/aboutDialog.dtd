@@ -8,12 +8,10 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "പരിഷ്കരണങ്ങള്‍ക്കുള്ള തെരച്ചില്‍…">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "പരിഷ്കരിയ്ക്കുന്നതിനായി വീണ്ടും ആരംഭിയ്ക്കുക">
-<!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "പരിഷ്കരണം ലഭ്യമാക്കുക…">
-<!ENTITY update.applyButtonBillboard.accesskey    "A">
+
+
+
+
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
