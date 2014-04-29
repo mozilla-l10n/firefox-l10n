@@ -125,6 +125,8 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+<!ENTITY fxaccount_policy_linktos "ସର୍ଭିସ ନିୟମାବଳୀ">
+<!ENTITY fxaccount_policy_linkprivacy "ଗୋପନୀୟତା ନିତୀ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ">
 
@@ -133,6 +135,8 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Firefox ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ">
 <!ENTITY fxaccount_create_account_password_length_restriction "ନିଶ୍ଚିତ ଭାବରେ ଅତିକମରେ 8 ଅକ୍ଷର ବିଶିଷ୍ଟ ହୋଇଥିବା ଉଚିତ">
 <!ENTITY fxaccount_create_account_year_of_birth "ଜନ୍ମ ବର୍ଷ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -166,12 +170,15 @@
 <!ENTITY fxaccount_update_credentials_button_label "ସାଇନ ଇନ">
 <!ENTITY fxaccount_update_credentials_unknown_error "ସାଇନ ଇନ କରିପାରିଲା ନାହିଁ">
 
-
+<!ENTITY fxaccount_status_header2 "Firefox ଖାତା">
+<!ENTITY fxaccount_status_signed_in_as "ଏହି ନାମରେ ସାଇନ ଇନ କରନ୍ତୁ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ସକ୍ରିୟ ହୋଇଛି">
 <!ENTITY fxaccount_status_needs_verification2 "ଆପଣଙ୍କର ଖାତାକୁ ଯାଞ୍ଚ କରିବା ଆବଶ୍ୟକ। ଯାଞ୍ଚ ମେଲ ପୁଣି ପଠାଇବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_credentials "ସଂଯୋଗ କରିପାରୁ ନାହିଁ। ସାଇନ ଇନ କରିବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; ସାଇନ ଇନ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ଉନ୍ନୟନ କରିବା ଆବଶ୍ୟକ।">
+
+
 <!ENTITY fxaccount_status_bookmarks "ପୃଷ୍ଠାସଂକେତ">
 <!ENTITY fxaccount_status_history "ପୁରୁଣା ତଥ୍ଯ">
 <!ENTITY fxaccount_status_passwords "ପ୍ରବେଶ ସଂକେତ">
@@ -181,7 +188,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos "ସର୍ଭିସ ନିୟମାବଳୀ">
+<!ENTITY fxaccount_status_linkprivacy "ଗୋପନୀୟତା ନିତୀ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

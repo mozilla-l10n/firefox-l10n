@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "ଏଡ-ଅନଗୁଡ଼ିକ">
-
+<!ENTITY aboutAddons.header2                    "ଆପଣଙ୍କର ଏଡ଼ ଅନଗୁଡ଼ିକ">
 <!ENTITY aboutAddons.options                    "ବିକଳ୍ପଗୁଡ଼ିକ">
-
+<!ENTITY aboutAddons.browseAll                  "ସମସ୍ତ Firefox ଏଡ଼ଅନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ">
 
 <!ENTITY addonAction.enable                     "ସକ୍ରିୟ କରନ୍ତୁ">
-
-
+<!ENTITY addonAction.disable                    "ନିଷ୍କ୍ରିୟ">
+<!ENTITY addonAction.uninstall                  "ବିସ୍ଥାପନ">
 <!ENTITY addonAction.undo                       "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
