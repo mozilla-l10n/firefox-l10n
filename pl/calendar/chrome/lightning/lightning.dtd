@@ -35,27 +35,27 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!ENTITY lightning.imipbar.btnAccept.label "Zaakceptuj">
-<!ENTITY lightning.imipbar.btnAccept.tooltiptext "Zaakceptuj zaproszenie na wydarzenie">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext "Zaakceptuj zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label "Zaakceptuj wszystkie zaproszenia">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences.tooltiptext "Zaakceptuj zaproszenie na wszystkie powtórzenia wydarzenia">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext "Zaakceptuj zaproszenie na wszystkie powtórzenia wydarzenia">
 <!ENTITY lightning.imipbar.btnAdd.label "Dodaj">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext "Dodaj wydarzenie do kalendarza">
 <!ENTITY lightning.imipbar.btnDecline.label "Odrzuć">
-<!ENTITY lightning.imipbar.btnDecline.tooltiptext "Odrzuć zaproszenie na wydarzenie">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext "Odrzuć zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Odrzuć wszystkie">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences.tooltiptext "Odrzuć zaproszenie na wszystkie powtórzenia wydarzenia">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Odrzuć zaproszenie na wszystkie powtórzenia wydarzenia">
 <!ENTITY lightning.imipbar.btnDelete.label "Usuń">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Usuń z kalendarza">
 <!ENTITY lightning.imipbar.btnDetails.label "Szczegóły…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext "Wyświetl szczegóły wydarzenia">
 <!ENTITY lightning.imipbar.btnMore.label "Więcej">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Wyświetl więcej opcji">
-<!ENTITY lightning.imipbar.btnReconfirm.label "Wyślij">
+<!ENTITY lightning.imipbar.btnReconfirm2.label "Zaakceptuj powtórnie">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Wyślij powtórne potwierdzenie do organizatora">
 <!ENTITY lightning.imipbar.btnTentative.label "Wstępnie zaakceptuj">
-<!ENTITY lightning.imipbar.btnTentative.tooltiptext "Wstępnie zaakceptuj zaproszenie na wydarzenie">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Wstępnie zaakceptuj zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Wstępnie zaakceptuj wszystkie">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.tooltiptext "Wstępnie zaakceptuj zaproszenie na wszystkie powtórzenia wydarzenia">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext "Wstępnie zaakceptuj zaproszenie na wszystkie powtórzenia wydarzenia">
 <!ENTITY lightning.imipbar.btnUpdate.label "Uaktualnij">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext "Uaktualnij wydarzenie w kalendarzu">
 <!ENTITY lightning.imipbar.description "Wiadomość zawiera zaproszenie na wydarzenie.">
