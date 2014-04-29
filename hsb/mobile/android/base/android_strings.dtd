@@ -54,7 +54,7 @@
 <!ENTITY back "Wróćo">
 <!ENTITY stop "Stój">
 <!ENTITY site_security "Sydłowa wěstota">
-
+<!ENTITY edit_mode_cancel "Přetorhnyć">
 
 <!ENTITY close_tab "Rajtark začinić">
 <!ENTITY one_tab "1 rajtark">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Pytanske namjety pokazać">
 <!ENTITY pref_import_android "Z Androida importować">
-
+<!ENTITY pref_private_data_history2 "Přehladowanska historija">
 <!ENTITY pref_private_data_formdata "Formularna a pytanska historija">
 <!ENTITY pref_private_data_cookies2 "Placki a aktiwne přizjewjenja">
 <!ENTITY pref_private_data_passwords "Składowane hesła">
 <!ENTITY pref_private_data_cache "Pufrowak">
 <!ENTITY pref_private_data_offlineApps "Daty websydła offline">
 <!ENTITY pref_private_data_siteSettings2 "Sydłowe nastajenja">
-
+<!ENTITY pref_private_data_downloadFiles2 "Sćehnjenja">
 
 
 <!ENTITY pref_about_firefox "Wo &brandShortName;">
@@ -179,9 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Pokazać">
 <!ENTITY pref_panels_hide "Schować">
-
-
-
+<!ENTITY pref_panels_reorder "Porjad změnić">
+<!ENTITY pref_panels_move_up "Horje">
+<!ENTITY pref_panels_move_down "Dele">
 
 <!ENTITY datareporting_notification_title "Statistiki a daty &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Wubjerće, kotre informacije maja so dźělić">
@@ -205,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Spadowy rozprawjak">
-
-
+<!ENTITY datareporting_wifi_title2 "Stejnišćowa słužba &vendorShortName; ">
+<!ENTITY datareporting_wifi_geolocation_summary "Přijima stejnišćowe daty Wi-Fi a mobilneho telefona, hdyž w pozadku běži a dźěli je z &vendorShortName;, zo by so naša geolokalizěrowanska słužba polěpšiła">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -219,7 +219,7 @@ size. -->
 <!ENTITY quit "Skónčić">
 
 <!ENTITY addons "Přidatki">
-
+<!ENTITY downloads "Sćehnjenja">
 <!ENTITY apps "Nałoženja">
 <!ENTITY char_encoding "Znamješkowe kodowanje">
 
@@ -343,6 +343,8 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Hač do &formatS;">
+
 <!ENTITY pin_site_dialog_hint "Zapodajće pytanske klučowe słowo">
 
 <!ENTITY filepicker_title "Dataju wubrać">
@@ -425,6 +427,8 @@ z Androida">
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
