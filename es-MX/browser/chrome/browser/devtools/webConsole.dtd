@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Advertencias">
 <!ENTITY btnConsoleLog          "Registro">
 
+
 <!ENTITY filterOutput.placeholder "Filtros de salida">
 <!ENTITY btnClear.label        "Limpiar">
 <!ENTITY btnClear.tooltip      "Limpiar la salida de la consola web">

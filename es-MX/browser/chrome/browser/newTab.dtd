@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Deshacer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar todas.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
+
+
+<!ENTITY newtab.panel.link.text "Aprender más…">
