@@ -114,7 +114,7 @@
 <!ENTITY menuFavoriteFolder.accesskey      "f">
 <!ENTITY folderPropsCmd2.label "Właściwości">
 <!ENTITY folderPropsFolderCmd2.label "Właściwości folderu">
-<!ENTITY folderPropsNewsgroupCmd.label "Właściwości grupy dyskusyjnej">
+<!ENTITY folderPropsNewsgroupCmd2.label "Właściwości grupy dyskusyjnej">
 <!ENTITY folderPropsCmd.accesskey "i">
 <!ENTITY accountManagerCmd2.label "Konfiguracja kont">
 <!ENTITY accountManagerCmd2.accesskey "K">
