@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Affichage">
 <!ENTITY viewMenu.accesskey       "A">
-<!ENTITY viewTabGroups.label            "Groupes d'onglets">
+<!ENTITY viewTabGroups.label            "&#xad;Groupes d'onglets">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barres d'outils">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
