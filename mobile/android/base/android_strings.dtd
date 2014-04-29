@@ -54,7 +54,7 @@
 <!ENTITY back "পূর্ববর্তী">
 <!ENTITY stop "বন্ধ করুন">
 <!ENTITY site_security "সাইটের নিরাপত্তা">
-<!ENTITY save "সংরক্ষণ করুন">
+
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
 <!ENTITY one_tab "1 ট্যাব">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "পছন্দসই তথ্য">
+<!ENTITY pref_learn_more "আরও জানুন">
 <!ENTITY pref_category_installed_search_engines "ইন্সটল করা সার্চ ইঞ্জিনসমূহ">
 <!ENTITY pref_category_add_search_providers "&vendorShortName;">
 <!ENTITY pref_category_search_restore_defaults "সার্চ ইঞ্জিনসমূহ পুনরুদ্ধার করুন">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "TIP: যেকোনো ওয়েবসাইট আপনার সার্চ প্রোভাইডার এর তালিকায় যুক্ত করুন সেই ওয়েবসাইট এর অনুসন্ধান করার জায়গায় কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন">
 <!ENTITY pref_category_devtools "ডেভলপার টুলগুলি">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
-<!ENTITY pref_developer_remotedebugging_docs "আরও জানুন">
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
 
 <!ENTITY pref_category_home "হোম">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "সিঙ্ক">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
-<!ENTITY pref_private_data_history "ব্রাউসিং এবং ডাউনলোড এর ইতিহাস">
+
 <!ENTITY pref_private_data_formdata "ফর্ম এবং অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ এবং সক্রিয় লগইন গুলি">
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ডসমূহ">
 <!ENTITY pref_private_data_cache "ক্যাশে">
 <!ENTITY pref_private_data_offlineApps "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের বৈশিষ্ট্যাবলী">
-<!ENTITY pref_private_data_downloadFiles "ডাউনলোড করা ফাইলগুলি">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; এর সম্পর্কে">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "প্রদর্শন">
 <!ENTITY pref_panels_hide "আড়াল">
+
+
+
 
 <!ENTITY datareporting_notification_title "&brandShortName; পরিসংখ্যান ও তথ্য">
 <!ENTITY datareporting_notification_action_long "কোন তথ্যগুলি শেয়ার করা হবে সেটি বাছুন">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "বিপর্যয় প্রতিবেদক">
-<!ENTITY datareporting_wifi_title "&vendorShortName; অবস্থান পরিষেবা">
-<!ENTITY datareporting_wifi_summary "মুক্ত ওয়েবের ভূ পরিষেবা উন্নয়ন করতে সাহায্য করে &brandShortName; কে বেনামী সেলুলার টাওয়ার তথ্য সংগ্রহ ও প্রেরণ এর মাধ্যমে">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -216,7 +219,7 @@ size. -->
 <!ENTITY quit "প্রস্থান">
 
 <!ENTITY addons "অ্যাড-অনসমূহ">
-<!ENTITY downloads "ডাউনলোডগুলি">
+
 <!ENTITY apps "অ্যাপসমূহ">
 <!ENTITY char_encoding "ক্যারেক্টার এনকোডিং">
 
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "মুছে ফেলুন">
 <!ENTITY site_settings_no_settings  "মুছে ফেলার জন্য কোন সেটিংস নেই।">
 
-<!ENTITY reading_list_add "পঠন তালিকায় যোগ করুন">
 <!ENTITY reading_list_added "পঠন তালিকায় পৃষ্ঠাটি যুক্ত করা হল">
 <!ENTITY reading_list_removed "পঠন তালিকা থেকে পৃষ্ঠাটি মুছে ফেলা হল">
 <!ENTITY reading_list_failed "আপনার পঠন তালিকায় পৃষ্ঠাটি যুক্ত করতে ব্যর্থ">
@@ -338,6 +340,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "এই প্যানেলের জন্য কোন বিষয়বস্তু পাওয়া যাবে না।">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 <!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
 
@@ -417,6 +421,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; এখন রিস্টার্ট হবে">
 <!ENTITY exit_guest_session_text "এই সেশানের ব্রাউসিং ডাটা ডিলিট হয়ে যাবে।">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "আপনার অ্যাকাউন্ট এর যাঁচাইকরণ বাধ্যতামূলক। যাঁচাইকারী ইমেল পুনরায় পাঠাতে এখানে যান।">
 <!ENTITY fxaccount_status_needs_credentials "কানেক্ট করা গেল না । সাইন ইন করতে এখানে যান।">
 <!ENTITY fxaccount_status_needs_upgrade "সাইন ইন করতে হলে আপনাকে &brandShortName; আপগ্রেড করতেই হবে।">
+
+
 <!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
 <!ENTITY fxaccount_status_passwords "পাসওয়ার্ডসমূহ">
