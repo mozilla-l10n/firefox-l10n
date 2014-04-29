@@ -559,8 +559,6 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "W">
-<!ENTITY remoteContentOptionAllowForAddress.label "Wyświetlaj zdalną zawartość od tego nadawcy">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "z">
 <!ENTITY editRemoteContentSettings.label "Edytuj opcje zdalnej zawartości…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!ENTITY editRemoteContentSettingsUnix.label "Edytuj preferencje zdalnej zawartości…">
