@@ -4,7 +4,10 @@
 
 <!ENTITY privatebrowsingpage.title                  "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ">
 
+<!ENTITY privatebrowsingpage.issueDesc.private      "ଆପଣ  ନୂତନ ଏକ ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "ଆପଣ ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବରେ ନାହାନ୍ତି।">
 
+<!ENTITY privatebrowsingpage.description            "ବ୍ୟକ୍ତିଗତ ବ୍ରାଟ୍ୟାବରେ, &brandShortName; କୌଣସି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ, ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟ, ଆହରଣ ପୁରୁଣା ତଥ୍ୟ, ୱେବ ଫର୍ମ ପୁରୁଣା ତଥ୍ୟ, କୁକିଗୁଡ଼ିକୁ, କିମ୍ବା ଅସ୍ଥାୟୀ ଇଣ୍ଟର୍ନେଟ ଫାଇଲଗୁଡ଼ିକୁ  ରଖିନଥାଏ। ତଥାପି, ଆପଣ ଆହରଣ ଏବଂ ଚିହ୍ନଟ କରିଥିବା ଫାଇଲଗୁଡ଼ିକୁ ରଖାଯାଇଥାଏ।">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-
-
+<!ENTITY privatebrowsingpage.moreInfo               "ଏହି ଉପକରଣରେ ଆପଣଙ୍କର ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟର କୌଣସି ବିବରଣୀ ନଥିଲେ ମଧ୍ଯ, ଆପଣଙ୍କର ସର୍ଭିସପ୍ରଦାନକାରୀ କିମ୍ବା ନିଯୁକ୍ତିଦାତା ଆପଣ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଅନୁସରଣ କରିପାରିବେ।">

@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "ଚେତାବନୀଗୁଡ଼ିକ">
 <!ENTITY btnConsoleLog          "ଲଗ">
 
+
 <!ENTITY filterOutput.placeholder "ଫଳାଫଳକୁ ଛାଣନ୍ତୁ">
 <!ENTITY btnClear.label        "ସଫାକରନ୍ତୁ">
 <!ENTITY btnClear.tooltip      "ୱେବ କୋନସଲ ଫଳାଫଳକୁ ସଫାକରନ୍ତୁ">
