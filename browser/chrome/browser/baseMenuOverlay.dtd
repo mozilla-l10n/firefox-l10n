@@ -35,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "ಅಭಿಪ್ರಾಯವನ್ನು ಸಲ್ಲಿಸಿ…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "&brandShortName; Tour">
+<!ENTITY helpShowTour.accesskey         "o">
 
 <!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

@@ -56,7 +56,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "ವಾಕ್ಯರಚನೆಯನ್ನು( ಸಿಂಟಾಕ್ಸ್‍) ಹೈಲೈಟ್‌ ಮಾಡು">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "ಪಠ್ಯದ ಗಾತ್ರ">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.accesskey "z">
 <!ENTITY menu_textEnlarge.label "ಹೆಚ್ಚಿಸು">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "ಕಡಿಮೆಗೊಳಿಸು">

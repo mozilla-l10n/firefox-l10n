@@ -6,10 +6,14 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "ಸಂಪರ್ಕಿಸು">
+
 <!ENTITY host       "ಅತಿಥೇಯ:">
 <!ENTITY port       "ಸಂಪರ್ಕ ಸಾಧನ:">
-
+<!ENTITY connect    "ಸಂಪರ್ಕಿಸು">
 <!ENTITY connecting "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…">
+
 
 
 <!ENTITY connectionError "ದೋಷ:">

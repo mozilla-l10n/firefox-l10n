@@ -2,7 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY index.title "ಅನ್ವಯ ವ್ಯವಸ್ಥಾಪಕ">
+
 <!ENTITY index.device2 "ಸಾಧನ">
+<!ENTITY index.help "ಸಹಾಯ">
+
 
 
 
@@ -24,7 +28,7 @@
 
 <!ENTITY device.deny "ನಿರಾಕರಿಸು">
 
-
+<!ENTITY device.installedApps "ಅನುಸ್ಥಾಪಿಸಿದ ಆಪ್‌ಗಳು">
 
 <!ENTITY device.permissions "ಅನುಮತಿಗಳು">
 
@@ -33,7 +37,7 @@
 
 
 
-
+<!ENTITY device.help "ಸಹಾಯ">
 
 
 
@@ -67,7 +71,7 @@
 
 
 
-
+<!ENTITY projects.updateApp "ಅಪ್‌ಡೇಟ್">
 
 
 
@@ -85,6 +89,7 @@
 
 
 
+<!ENTITY help.title "ಅನ್ವಯ ವ್ಯವಸ್ಥಾಪಕ">
 <!ENTITY help.close "ಮುಚ್ಚು">
 
 

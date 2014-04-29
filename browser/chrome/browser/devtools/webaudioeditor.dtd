@@ -8,15 +8,9 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (shaderEditorUI.vertexShader): This is the label for
-  -  the pane that displays a vertex shader's source. -->
-<!-- LOCALIZATION NOTE (shaderEditorUI.fragmentShader): This is the label for
-  -  the pane that displays a fragment shader's source. -->
-<!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice1): This is the label shown
+<!-- LOCALIZATION NOTE (webAudioEditorUI.reloadNotice1): This is the label shown
   -  on the button that triggers a page refresh. -->
-
-<!ENTITY shaderEditorUI.reloadNotice1   "ಮತ್ತೊಮ್ಮೆ ತುಂಬಿಸು">
-<!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice2): This is the label shown
+<!-- LOCALIZATION NOTE (webAudioEditorUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
-<!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
-  -  while the page is refreshing and the tool waits for a WebGL context. -->
+<!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
+  -  while the page is refreshing and the tool waits for a audio context. -->

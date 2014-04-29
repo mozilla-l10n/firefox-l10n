@@ -22,8 +22,8 @@
 <!ENTITY sync.serverURL             "ಪರಿಚಾರಕದ URL">
 <!ENTITY sync.setup.connect         "ಸಂಪರ್ಕಿಸು">
 <!ENTITY sync.setup.cancel          "ರದ್ದು ಮಾಡು">
-<!ENTITY sync.setup.tutorial        "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
-<!ENTITY sync.setup.waiting2        "ಇತರೆ ಸಾಧನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ...">
+<!ENTITY sync.setup.tutorial        "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು">
+<!ENTITY sync.setup.waiting2        "ಇತರೆ ಸಾಧನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ…">
 
 <!ENTITY sync.pair.title            "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!ENTITY sync.pair.description      "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿರುವ &quot;ಸೆಟ್ ಅಪ್‌ಸಿಂಕ್&quot; ಅನ್ನು ಆರಿಸಿ.">

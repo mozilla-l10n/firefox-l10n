@@ -8,8 +8,9 @@
   - documentation on web development on the web. -->
 <!ENTITY browserConsole.title "ಜಾಲವೀಕ್ಷಕ ಕನ್ಸೋಲ್">
 
-
-
+<!ENTITY networkPanel.requestURLColon             "ಮನವಿ URL:">
+<!ENTITY networkPanel.requestMethodColon          "ಮನವಿ ವಿಧಾನ:">
+<!ENTITY networkPanel.statusCodeColon             "ಸ್ಥಿತಿ ಸಂಕೇತ:">
 
 <!ENTITY networkPanel.requestHeaders              "ಮನವಿ ಹೆಡರುಗಳು">
 <!ENTITY networkPanel.requestCookie               "ಕಳುಹಿಸಲಾದ ಕುಕಿ">
@@ -30,6 +31,8 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
+<!ENTITY openURL.label     "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ URL ತೆರೆ">
+<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -56,6 +59,7 @@
   -  console.error(). -->
 
 
+<!ENTITY btnConsoleErrors       "ದೋಷಗಳು">
 
 
 
