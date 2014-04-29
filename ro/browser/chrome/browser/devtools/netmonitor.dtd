@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "Clic pe">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice3): This is the label displayed
   -  in the network table when empty. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
@@ -189,6 +193,10 @@
   -  on the context menu that copies the selected request's url -->
 
 <!ENTITY netmonitorUI.context.copyUrl     "Copiază URL">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 
@@ -242,3 +250,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "Revocare">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "Înapoi">

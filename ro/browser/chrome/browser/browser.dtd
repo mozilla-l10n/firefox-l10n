@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Bară de navigare">
+
 <!ENTITY personalbarCmd.label "Bară pentru semne de carte">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "m">
 <!ENTITY shareVideoCmd.label "Împărtășește acest videoclip">
 <!ENTITY shareVideoCmd.accesskey "i">
-<!ENTITY feedsMenu.label "Abonare">
+
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
@@ -231,6 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Vizualizare design receptiv">
 <!ENTITY responsiveDesignTool.accesskey "r">
 <!ENTITY responsiveDesignTool.commandkey "R">
+
+<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -249,14 +252,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "Browser Toolbox">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label     "Set de instrumente pentru navigator">
+<!ENTITY browserToolboxMenu.accesskey "S">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
 <!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "Gestionar aplicații">
-<!ENTITY devAppMgrMenu.accesskey           "G">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Activează uneltele">
@@ -338,7 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Curăță istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
-
+<!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHelp.tooltip "Deschidere meniu Ajutor">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
@@ -354,12 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "u">
-
-
-
-
-
-
+<!ENTITY customizeMenu.removeFromToolbar.label "Șterge din bara de unelte">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Șterge din meniu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.addMoreItems.label "Adaugă mai multe elemente...">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Căutați sau introduceți adresa">
@@ -444,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Email cu legătura…">
 <!ENTITY emailPageCmd.accesskey       "l">
-<!ENTITY switchToMetroCmd.label       "Relaunch in Windows 8 style &brandShortName;">
 <!ENTITY savePageCmd.label            "Salvează pagina ca...">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -575,7 +577,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Ieșire"> 
 <!ENTITY quitApplicationCmd.accesskey   "e">
-<!ENTITY quitApplicationCmdMac.label    "Ieșire">
+<!ENTITY quitApplicationCmdMac.label    "Ieșire din &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -614,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "d">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Adaugă dicționare">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -645,7 +647,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 
-<!ENTITY identity.help.tooltip "How do I tell if my connection to a website is secure?">
+<!ENTITY identity.help.tooltip "Cum îmi dau seama dacă conexiunea mea la un sait web este sigură?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -666,7 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY socialToolbar.title        "Bară butoane rețele sociale">
 
-<!ENTITY social.ok.label       "Bine">
+<!ENTITY social.ok.label       "Ok">
 <!ENTITY social.ok.accesskey   "O">
 
 <!ENTITY social.toggleSidebar.label "Arată bara laterală">
@@ -685,20 +687,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Nu acum">
 
 
+
+<!ENTITY customizeMode.tabTitle "Personalizează &brandShortName;">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Funcționalități și unelte suplimentare">
 <!ENTITY customizeMode.menuAndToolbars.empty "Doriți mai multe unelte?">
-
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Alegeți din mii de suplimente">
 <!ENTITY customizeMode.restoreDefaults "R&amp;estaurează setările implicite">
-
-
+<!ENTITY customizeMode.toolbars "Arată sau ascunde bara cu unelte">
+<!ENTITY customizeMode.titlebar "Bara de titlu">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Adu discuțiile în față">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Save Page To…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "Save Link To…">
+<!ENTITY social.markpageMenu.accesskey "p">
+<!ENTITY social.markpageMenu.label "Salvează pagina la...">
+<!ENTITY social.marklinkMenu.accesskey "l">
+<!ENTITY social.marklinkMenu.label "Salvează legătura la...">
 
 <!ENTITY getUserMedia.selectCamera.label "Cameră de folosit:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -727,53 +732,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Tab crashed">
-<!ENTITY tabCrashed.message "Well, this is embarrassing. We tried to display this Web page, but it's not responding.">
-<!ENTITY tabCrashed.checkSendReport "Tell &vendorShortName; about this crash so they can fix it.">
-<!ENTITY tabCrashed.tryAgain "Try Again">
+<!ENTITY tabCrashed.header "Filă eronată">
+<!ENTITY tabCrashed.message "Ei bine, acest lucru este jenant. Am încercat să afișez această pagină web, dar aceasta nu răspunde.">
+<!ENTITY tabCrashed.checkSendReport "Spune-ți &vendorShortName; despre această eroare pentru ca să o poată rezolva.">
+<!ENTITY tabCrashed.tryAgain "Încercați din nou">
 
 <!ENTITY uiTour.infoPanel.close "Închide">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "n">
-<!ENTITY addonBarCmd.label             "Bară de suplimente">
-<!ENTITY addonBarCmd.accesskey         "a">
-<!ENTITY throbberItem.title            "Indicator de activitate">
-<!ENTITY appMenuButton.label           "Meniu">
-<!ENTITY appMenuButton.tooltip         "Deschide meniul &brandShortName;">
-<!ENTITY feedButton.label              "Abonare">
-<!ENTITY feedButton.tooltip            "Abonare la această pagină...">
-<!ENTITY bookmarksButton.tooltip       "Afișează semnele dumneavoastră de carte">
-<!ENTITY historyButton.tooltip         "Afișează paginile pe care le-ați vizitat recent">
-<!ENTITY viewTabsOnTop.label           "Filele deasupra">
-<!ENTITY viewTabsOnTop.accesskey       "F">
-<!ENTITY appMenuEdit.label             "Editează">
-<!ENTITY appMenuToolbarLayout.label    "Aranjamentul barei de unelte…">
 <!ENTITY appMenuSidebars.label         "Bare laterale">
-<!ENTITY appMenuFind.label             "Caută…">
-<!ENTITY appMenuUnsorted.label         "Semne de carte nesortate">
-<!ENTITY appMenuWebDeveloper.label     "Dezvoltator Web">
-<!ENTITY appMenuGettingStarted.label   "Ghid pentru începători">
-<!ENTITY appMenuSafeMode.label         "Repornește cu suplimentele dezactivate…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "Taie">
-<!ENTITY copyButton.tooltip            "Copiază">
-<!ENTITY pasteButton.tooltip           "Lipește">
-<!ENTITY zoomOutButton.tooltip         "Depărtează">
-<!ENTITY zoomInButton.tooltip          "Apropie">
-<!ENTITY zoomControls.label            "Controale de apropiere/depărtare">
-<!ENTITY addonBarCloseButton.tooltip   "Închide bara de suplimente">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Înapoi/Înainte">
-<!ENTITY viewBookmarksSidebar.label    "Arată în bara laterală">
-<!ENTITY bookmarksItem.title           "Semne de carte">
-<!ENTITY openLocationCmd.label         "Deschide o adresă...">
-<!ENTITY openLocationCmd.accesskey     "a">
-<!ENTITY bookmarksMenuButton.tooltip   "Afișează semnele dumneavoastră de carte">
-<!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Grupați-vă filele">
-<!-- end of strings to be removed post-Australis -->
+
+<!ENTITY switchToMetroCmd2.label       "Relansați în &brandShortName; pentru Windows 8 Touch">
+

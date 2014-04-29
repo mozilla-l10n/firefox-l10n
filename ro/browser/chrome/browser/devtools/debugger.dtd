@@ -42,22 +42,26 @@
 <!ENTITY debuggerUI.sources.prettyPrint "Prettify Source">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Activează/Dezactivează toate punctele de oprire">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "Începe urmărirea">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
-<!ENTITY debuggerUI.clearButton "Clear">
+<!ENTITY debuggerUI.clearButton "Golește">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           "Pauză la excepții">
-
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
@@ -120,19 +124,19 @@
 
 <!ENTITY debuggerUI.searchGoToLine           "Mergi la linia…">
 <!ENTITY debuggerUI.searchGoToLine.key       "m">
-
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
 <!ENTITY debuggerUI.searchVariable           "Variabile filtru">
 <!ENTITY debuggerUI.searchVariable.key       "v">
-
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "Focus variables tree">
 <!ENTITY debuggerUI.focusVariables.key       "V">
-
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -151,11 +155,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-<!ENTITY debuggerUI.tabs.sources        "Sources">
+<!ENTITY debuggerUI.tabs.sources        "Surse">
 
-<!ENTITY debuggerUI.tabs.callstack      "Call Stack">
-<!ENTITY debuggerUI.tabs.variables      "Variables">
-<!ENTITY debuggerUI.tabs.events         "Events">
+<!ENTITY debuggerUI.tabs.callstack      "Stiva de apeluri">
+<!ENTITY debuggerUI.tabs.variables      "Variabile">
+<!ENTITY debuggerUI.tabs.events         "Evenimente">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
@@ -165,13 +169,13 @@
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.addWatch            "Adăugați expresia urmărită">
-
+<!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
 <!ENTITY debuggerUI.removeAllWatch           "Elimină toate expresiile urmărite">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
-
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->

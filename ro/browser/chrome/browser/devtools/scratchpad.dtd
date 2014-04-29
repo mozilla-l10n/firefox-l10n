@@ -50,6 +50,25 @@
 <!ENTITY closeCmd.key                 "w">
 <!ENTITY closeCmd.accesskey           "c">
 
+<!ENTITY viewMenu.label               "Vizualizare">
+<!ENTITY viewMenu.accesskey           "V">
+
+
+
+
+
+<!ENTITY highlightTrailingSpace.label     "Evidențiere spații terminale">
+<!ENTITY highlightTrailingSpace.accesskey "s">
+
+
+<!ENTITY largerFont.commandkey        "+">
+
+
+<!ENTITY smallerFont.commandkey       "-">
+
+
+<!ENTITY normalSize.commandkey        "0">
+
 <!ENTITY editMenu.label               "Editare">
 <!ENTITY editMenu.accesskey           "E">
 
