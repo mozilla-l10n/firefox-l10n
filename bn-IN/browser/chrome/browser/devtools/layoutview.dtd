@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "বক্স মডেল">
-<!ENTITY margins.tooltip        "প্রান্ত">
-<!ENTITY borders.tooltip        "সীমা">
+
+
 <!ENTITY padding.tooltip        "প্যাডিং">
 <!ENTITY content.tooltip        "তথ্য">
