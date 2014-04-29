@@ -61,6 +61,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Wutestowanje chrome a přidatkow zmóžnić">
+<!ENTITY options.enableChrome.tooltip2  "Aktiwizowanje tutoho nastajenja zmóžni wam wšelake wuwiwarske nastroje w konteksće wobhladowak wužiwać a přidatki ze zrjadowaka přidatkow wutestować">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -139,13 +141,15 @@
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "Zhromadne nastajenja">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogging.label    "Wobstajne protokole zmóžnić">
-
+<!ENTITY options.enablePersistentLogging.tooltip  "Jeli tute nastajenje zmóžniće, njezhašetej webkonsola a syćowy monitor wudaće kóždy raz, hdyž nowu stronu wopytujeće">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
