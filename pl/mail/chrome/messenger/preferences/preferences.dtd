@@ -14,5 +14,6 @@
 <!ENTITY paneComposition.title "Tworzenie">
 <!ENTITY paneChat.title "Czat">
 <!ENTITY paneAttachments.title "Załączniki">
+<!ENTITY panePrivacy.title "Prywatność">
 <!ENTITY paneSecurity.title    "Bezpieczeństwo">
 <!ENTITY paneAdvanced.title    "Zaawansowane">
