@@ -181,7 +181,7 @@
 <!ENTITY addressBookCmd.key              "B">
 <!ENTITY accountManagerCmd2.label "Konfiguracja kont">
 <!ENTITY accountManagerCmd2.accesskey "K">
-<!ENTITY accountManagerCmd2Unix.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY preferencesCmd2.label "Opcje">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencje">
