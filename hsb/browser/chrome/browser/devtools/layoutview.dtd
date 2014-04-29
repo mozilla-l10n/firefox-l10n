@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "Kašćikowy model">
-<!ENTITY margins.tooltip        "zwonkowne wotstawki">
-<!ENTITY borders.tooltip        "ramiki">
+<!ENTITY margin.tooltip         "kroma">
+<!ENTITY border.tooltip         "ramik">
 <!ENTITY padding.tooltip        "nutřkowny wotstawk">
 <!ENTITY content.tooltip        "wobsah">

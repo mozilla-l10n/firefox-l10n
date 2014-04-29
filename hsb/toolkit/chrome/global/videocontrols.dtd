@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Ze zynkom">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Połna wobrazowka">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Połnu wobrazowku skónčić">
+<!ENTITY castingButton.castingLabel "Na wobrazowku projicěrować">
 
 <!ENTITY stats.media "Medije">
 <!ENTITY stats.size "Wulkosć">

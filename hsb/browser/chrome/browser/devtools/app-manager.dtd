@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "Grat">
 <!ENTITY index.help "Pomoc">
 
+<!ENTITY device.debugMainProcess "Hłowny proces za zmylkami přepytać">
+<!ENTITY device.debugMainProcessTooltip "Wuwiwarske nastroje zwjazane z hłownym procesom na graće wočinić">
 <!ENTITY device.screenshot "Foto wobrazowki">
 <!ENTITY device.screenshotTooltip "Wočińće foto wobrazowki aktualneho statusa grata w nowym rajtarku">
 <!ENTITY device.title "Gratowa wodźenska srjedźišćo">

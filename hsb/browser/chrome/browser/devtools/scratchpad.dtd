@@ -50,6 +50,30 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Z">
 
+<!ENTITY viewMenu.label               "Napohlad">
+<!ENTITY viewMenu.accesskey           "N">
+
+<!ENTITY lineNumbers.label             "Linkowe čisła pokazać">
+<!ENTITY lineNumbers.accesskey         "L">
+
+<!ENTITY wordWrap.label                "Tekst łamać">
+<!ENTITY wordWrap.accesskey            "T">
+
+<!ENTITY highlightTrailingSpace.label     "Prózny rum na kóncu wuzběhnyć">
+<!ENTITY highlightTrailingSpace.accesskey "z">
+
+<!ENTITY largerFont.label             "Wjetše pismo">
+<!ENTITY largerFont.accesskey         "W">
+<!ENTITY largerFont.commandkey        "+">
+
+<!ENTITY smallerFont.label            "Mjeńše pismo">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
+
+<!ENTITY normalSize.label             "Normalna wulkosć">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
+
 <!ENTITY editMenu.label               "Wobdźěłać">
 <!ENTITY editMenu.accesskey           "b">
 

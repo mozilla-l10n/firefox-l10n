@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Wotstronić">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
+<!ENTITY cmd.debugAddon.label                 "Pytanje za zmylkami">
 <!ENTITY cmd.showPreferencesWin.label         "Nastajenja">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Nastajenja tutoho přidatka změnić">
 <!ENTITY cmd.showPreferencesUnix.label        "Nastajenja">
@@ -216,3 +217,14 @@ z lěpšich a najpopularnišich přidatkow za wupruwowanje poskićeć.">
 <!ENTITY eula.accept                          "Akceptować a instalować…">
 
 <!ENTITY settings.path.button.label           "Přepytać…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Što to je? Telemetrija móže hdys a hdys eksperimenty instalować a běžeć dać.">
+<!ENTITY experiment.info.learnmore "Dalše informacije">
+<!ENTITY experiment.info.learnmore.accesskey "D">
+<!ENTITY experiment.info.changetelemetry "Telemetrijowe nastajenja">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

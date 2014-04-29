@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Certifikat so tuchwilu pruwuje…">
 <!ENTITY certmgr.subjectinfo.label            "Wudaty za">
 <!ENTITY certmgr.issuerinfo.label             "Wudaty wot">
-<!ENTITY certmgr.validity.label               "Płaćiwosć" >
+<!ENTITY certmgr.periodofvalidity.label       "Doba płaćiwosće" >
 <!ENTITY certmgr.fingerprints.label           "Porstowy wotčišće">
 <!ENTITY certmgr.certdetail.title             "Podrobnosć certifikata">
 <!ENTITY certmgr.certdetail.cn                "Powšitkowne mjeno (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Serwer">
 <!ENTITY certmgr.override_lifetime            "Žiwjenski čas">
 <!ENTITY certmgr.tokenname                    "Wěstotny grat">
-<!ENTITY certmgr.issued                       "Wudaty">
+<!ENTITY certmgr.begins                       "Započnje so">
 <!ENTITY certmgr.expires                      "Spadnje">
 <!ENTITY certmgr.email                        "E-mejlowa adresa">
 <!ENTITY certmgr.serial                       "Serijowe čisło">
