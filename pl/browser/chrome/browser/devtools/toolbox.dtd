@@ -29,8 +29,11 @@
 <!ENTITY options.enableChrome.label4 "Włącz debugowanie chrome i dodatków">
 <!ENTITY options.enableChrome.tooltip2 "Włączenie tej opcji pozwoli na używanie wielu narzędzi dla programistów w kontekście przeglądarki i debugowanie dodatków z menedżera dodatków">
 
-<!ENTITY options.enableRemote.label3 "Włącz debugowanie zdalne">
-<!ENTITY options.enableRemote.tooltip2 "Włączenie tej opcji uruchomi serwer debugowania i pozwoli innym instancjom Firefoksa debugować tę instancję">
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
+  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Włącz debugowanie zdalne">
+<!ENTITY options.enableRemote.tooltip  "Włączenie tej opcji pozwoli na debugowanie zdalnych instancji Firefoksa takich jak Firefox OS z poziomu narzędzi dla programistów">
 
 <!ENTITY options.disableJavaScript.label "Wyłącz JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w aktualnej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
