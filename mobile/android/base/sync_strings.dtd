@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Tu cuenta necesita ser verificada. Toca para volver a enviar el mensaje de verificación.">
 <!ENTITY fxaccount_status_needs_credentials "No se puede conectar. Toca para iniciar sesión.">
 <!ENTITY fxaccount_status_needs_upgrade "Necesitas actualizar &brandShortName; para iniciar sesión.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Contraseñas">

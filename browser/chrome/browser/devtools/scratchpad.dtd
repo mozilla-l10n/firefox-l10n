@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "Ver">
+<!ENTITY viewMenu.accesskey           "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">
 
