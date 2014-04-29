@@ -165,6 +165,8 @@
 <!ENTITY favoriteFolders.accesskey "U">
 <!ENTITY recentFolders.label       "Ostatnie">
 <!ENTITY recentFolders.accesskey   "O">
+<!ENTITY compactVersion.label "Widok kompaktowy">
+<!ENTITY compactVersion.accesskey "k">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label                 "Sortowanie według">
