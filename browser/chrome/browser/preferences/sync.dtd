@@ -46,7 +46,7 @@
 <!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
 <!ENTITY prefs.ppLink.label         "Politică de confidențialitate">
 <!-- Firefox Accounts stuff -->
-
+<!ENTITY determiningAcctStatus.label     "Determin starea contului dumneavoastră…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -54,12 +54,14 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "nu este verificat.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "Vă rugăm să vă autentificați pentru reconectare">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
@@ -69,6 +71,6 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.signIn.label "Autentificare">
-
+<!ENTITY welcome.createAccount.label "Creare cont">
 
 <!ENTITY welcome.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">

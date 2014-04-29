@@ -21,7 +21,7 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Site preferences">
-
+<!ENTITY clearPrivateData.formSearchHist                         "Istoric formular și căutare">
 <!ENTITY clearPrivateData.passwords                              "Saved passwords">
 <!ENTITY clearPrivateData.offline                                "Offline website data">
 <!ENTITY clearPrivateData.logins                                 "Active logins">

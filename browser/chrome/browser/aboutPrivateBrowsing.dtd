@@ -13,6 +13,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart4               "Pentru a porni Navigarea fără urme puteți de asemenea selecta &newPrivateWindow.label; din meniu.">
 <!ENTITY privatebrowsingpage.howToStop3                "Pentru a opri navigarea fără urme, puteți închide această fereastră.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Cu toate că acest calculator nu va reține istoricul navigării, furnizorul de internet sau angajatorul ar putea totuși să urmărească paginile pe care le vizitați.">

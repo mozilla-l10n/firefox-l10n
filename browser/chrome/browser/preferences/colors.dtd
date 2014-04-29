@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Culori">
-<!ENTITY  window.width                    "42em">
-<!ENTITY  window.macWidth                 "46em">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41 em">
 
 <!ENTITY  allowPagesToUse.label           "Permite paginilor să își aleagă propriile culori în locul opțiunilor mele de mai sus">
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Text și fundal">
-
-
+<!ENTITY  textColor.label                 "Text:">
+<!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Fundal:">
 <!ENTITY  backgroundColor.accesskey       "F">
 <!ENTITY  useSystemColors.label           "Folosește culorile sistemului">

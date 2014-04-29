@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Currently verifying certificate...">
 <!ENTITY certmgr.subjectinfo.label            "Emis pentru">
 <!ENTITY certmgr.issuerinfo.label             "Emis de">
-<!ENTITY certmgr.validity.label               "Valabilitate" >
+
 <!ENTITY certmgr.fingerprints.label           "Amprente">
 <!ENTITY certmgr.certdetail.title             "Detalii certificat">
 <!ENTITY certmgr.certdetail.cn                "Nume comun (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Timp de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
-<!ENTITY certmgr.issued                       "Emis la">
+
 <!ENTITY certmgr.expires                      "Expiră la">
 <!ENTITY certmgr.email                        "Adresă email">
 <!ENTITY certmgr.serial                       "Număr serie">

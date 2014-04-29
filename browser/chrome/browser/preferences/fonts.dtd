@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Fonturi">
-<!ENTITY  window.width                            "43em">
-<!ENTITY  window.macWidth                         "47em">
-<!ENTITY  window.unixWidth                        "46em">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fonturi pentru:">
 <!ENTITY  language.accesskey                      "F">

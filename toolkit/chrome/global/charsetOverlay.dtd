@@ -15,8 +15,8 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Orientul Îndepărtat">
 <!ENTITY charsetMenuMore3.accesskey    "a">
-
-
+<!ENTITY charsetMenuMore4.label        "Asia de SE și SV">
+<!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "Orientul mijlociu">
 <!ENTITY charsetMenuMore5.accesskey    "m">
 <!ENTITY charsetCustomize.label        "Personalizează lista...">

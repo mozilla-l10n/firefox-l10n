@@ -4,7 +4,7 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
 <!ENTITY places.library.title  "Colecție">
-<!ENTITY places.library.width  "780">
+<!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
