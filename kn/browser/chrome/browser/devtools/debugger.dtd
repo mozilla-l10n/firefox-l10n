@@ -64,6 +64,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+
+<!ENTITY debuggerUI.searchPanelOperators    "ಕಾರ್ಯನಿರ್ವಾಹಕಗಳು:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
@@ -124,9 +126,9 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 
-
-
-
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 

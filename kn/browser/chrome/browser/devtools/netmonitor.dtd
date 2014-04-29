@@ -23,8 +23,12 @@
 <!ENTITY netmonitorUI.toolbar.file        "ಕಡತ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+
+<!ENTITY netmonitorUI.toolbar.domain      "ಕ್ಷೇತ್ರ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
+
+<!ENTITY netmonitorUI.toolbar.type        "ಬಗೆ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column. -->
 
@@ -83,6 +87,8 @@
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
+
+<!ENTITY netmonitorUI.summary.url         "ಮನವಿ URL:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
@@ -103,6 +109,8 @@
 <!ENTITY netmonitorUI.response.dimensions "ಆಕಾರ:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
+
+<!ENTITY netmonitorUI.response.mime       "MIME ಬಗೆ:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
@@ -110,18 +118,24 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
+
+<!ENTITY netmonitorUI.timings.blocked     "ನಿರ್ಬಂಧಿಸಲಾದ:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
+
+<!ENTITY netmonitorUI.timings.connect     "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
+
+<!ENTITY netmonitorUI.timings.wait        "ಕಾಯುತ್ತಿದೆ:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
@@ -131,6 +145,10 @@
   -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
@@ -154,8 +172,12 @@
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "ಮನವಿ ಶಿರೋಲೇಖಗಳು:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "ಮನವಿಯ ಮುಖ್ಯಭಾಗ:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed

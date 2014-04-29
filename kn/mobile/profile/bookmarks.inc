@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser ಫೈರ್‌ಫಾಕ್ಸ್: ನಿಮ್ಮ ಬ್ರೌಸರ್ ಬಗ್ಗೆ
+#define bookmarks_aboutBrowser ಫೈರ್ಫಾಕ್ಸ್: ನಿಮ್ಮ ಬ್ರೌಸರ್ ಬಗ್ಗೆ
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons ಫೈರ್‌ಫಾಕ್ಸ್: ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಗ್ರಾಹಕೀಯಕೊಳಿಸು
+#define bookmarks_addons ಫೈರ್ಫಾಕ್ಸ್: ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಗ್ರಾಹಕೀಯಕೊಳಿಸು
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support ಫೈರ್‌ಫಾಕ್ಸ್: ಬೆಂಬಲ
+#define bookmarks_support ಫೈರ್ಫಾಕ್ಸ್: ಬೆಂಬಲ
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace ಫೈರ್‌ಫಾಕ್ಸ್ ಮಾರ್ಕೆಟ್‌ಪ್ಲೇಸ್
+#define bookmarks_marketplace ಫೈರ್ಫಾಕ್ಸ್ ಮಾರ್ಕೆಟ್‌ಪ್ಲೇಸ್
 
 
 

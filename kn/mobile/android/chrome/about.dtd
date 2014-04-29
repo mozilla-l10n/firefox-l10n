@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;ನ ಬಗ್ಗೆ">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ಪ್ರಾಯೋಗಿಕವಾಗಿದೆ ಆದ್ದರಿಂದ ಅಸ್ಥಿರವಾಗಿರಬಹುದು.">
-<!ENTITY aboutPage.telemetryStart               "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಾರ್ಯಾಚರಣೆ, ಯಂತ್ರಾಂಶ, ಬಳಕೆ ಮತ್ತು ಗ್ರಾಹಕೀಕರಣಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಇದಕ್ಕೆ ಹಿಂದಿರುಗಿ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ">
+<!ENTITY aboutPage.telemetryStart               " ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಾರ್ಯಾಚರಣೆ, ಯಂತ್ರಾಂಶ, ಬಳಕೆ ಮತ್ತು ಗ್ರಾಹಕೀಕರಣಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಇದಕ್ಕೆ ಹಿಂದಿರುಗಿ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; ಅನ್ನು ಉತ್ತಮಗೊಳಿಸುವಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು.">
+<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; ಅನ್ನು ಉತ್ತಮಗೊಳಿಸುವಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು.">
 <!ENTITY aboutPage.checkForUpdates.link         "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸು»">
-<!ENTITY aboutPage.checkForUpdates.checking     "ಪರಿಷ್ಕರಣೆಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ...">
+<!ENTITY aboutPage.checkForUpdates.checking     "ಪರಿಷ್ಕರಣೆಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
 <!ENTITY aboutPage.checkForUpdates.none         "ಯಾವುದೇ ಅಪ್‌ಡೇಟುಗಳು ಇಲ್ಲ">
 <!ENTITY aboutPage.checkForUpdates.available2   "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
-<!ENTITY aboutPage.checkForUpdates.downloading  "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ">
+<!ENTITY aboutPage.checkForUpdates.downloading  "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "ಬೆಂಬಲ">
