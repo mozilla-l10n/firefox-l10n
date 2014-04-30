@@ -50,26 +50,6 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "ଦୃଶ୍ୟ">
-<!ENTITY viewMenu.accesskey           "V">
-
-
-
-
-
-
-
-<!ENTITY largerFont.label             "ବୃହତ୍ତର ଅକ୍ଷରରୂପ">
-<!ENTITY largerFont.accesskey         "a">
-<!ENTITY largerFont.commandkey        "+">
-
-<!ENTITY smallerFont.label            "କ୍ଷୁଦ୍ରତର ଅକ୍ଷରରୂପ">
-<!ENTITY smallerFont.accesskey        "m">
-<!ENTITY smallerFont.commandkey       "-">
-
-
-<!ENTITY normalSize.commandkey        "0">
-
 <!ENTITY editMenu.label               "ସମ୍ପାଦନ କରନ୍ତୁ">
 <!ENTITY editMenu.accesskey           "E">
 
@@ -96,7 +76,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "ପରିବେଶ">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "ବିଷୟ ବସ୍ତୁ">
@@ -127,14 +107,14 @@
 
 
 <!ENTITY resetContext2.label          "ପ୍ରାଚଳଗୁଡ଼ିକୁ ପୁଣି ସେଟ କରନ୍ତୁ">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.label           "ପୁନର୍ଦ୍ଧାରଣ କରନ୍ତୁ ଏବଂ ଚଲାନ୍ତୁ">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ନିଷ୍ପାଦନ କରନ୍ତୁ">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.accesskey        "X">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.

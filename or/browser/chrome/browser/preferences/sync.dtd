@@ -33,7 +33,7 @@
 <!ENTITY engine.passwords.label     "ପ୍ରବେଶ ସଂକେତ">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ପସନ୍ଦ">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "ଏଡ-ଅନଗୁଡ଼ିକ">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
