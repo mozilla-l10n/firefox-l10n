@@ -61,8 +61,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label3    "chrome வழுநீக்கலை செயல்படுத்து">
-<!ENTITY options.enableChrome.tooltip   "இந்த விருப்பத்தைச் செயல்படுத்தினால், உலாவி சூழலிலான பல்வேறு உருவாக்குநர் கருவிகளை நீங்கள் காண முடியும்">
+<!ENTITY options.enableChrome.label3    "Enable chrome debugging">
+<!ENTITY options.enableChrome.tooltip   "Turning this option on will allow you to use various developer tools in browser context">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -117,7 +117,7 @@
   -  in the options panel. -->
 
 <!ENTITY options.enablePersistentLogging.label    "தொடர்ச்சியான பதிவுகளை செயல்படுத்து">
-<!ENTITY options.enablePersistentLogging.tooltip  "இந்த விருப்பத்தை செயல்படுத்தினால், நீங்கள் புதிய பக்கத்திற்குச் செல்லும் ஒவ்வொரு முறையும் வலை பணிமுனை வெளியீட்டை அழிக்காது">
+
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
