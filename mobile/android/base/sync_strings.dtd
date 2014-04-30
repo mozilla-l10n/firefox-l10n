@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை அறிவுப்பு">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;விற்கு வரவேற்கிறோம்">
-<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள் &amp; பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
+<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள்  பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
 <!-- Localization note: the Firefox below should not change with the
