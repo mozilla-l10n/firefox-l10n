@@ -7,15 +7,27 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "Opciones generales">
-<!ENTITY pref.dateformat.label "Formato de fecha:">
+<!ENTITY pref.mainbox.label "Opciones generales" >
+<!ENTITY pref.dateformat.label "Formato de fecha:" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Largo">
-<!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Default Event Length:">
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:">
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.dateformat.long "Largo" >
+<!ENTITY pref.dateformat.short "Corto"  >
+
+<!ENTITY pref.defaults.label "Valores predeterminados para nuevos ítems">
+<!ENTITY pref.events.label "Eventos">
+<!ENTITY pref.tasks.label "Tareas">
+
+<!ENTITY pref.default_event_length.label "Longitud predeterminada:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Ninguna">
+<!ENTITY pref.default_task_start_of_day.label "Inicio del día">
+<!ENTITY pref.default_task_end_of_day.label "Fin del día">
+<!ENTITY pref.default_task_tomorrow.label "Mañana">
+<!ENTITY pref.default_task_next_week.label "Semana que viene">
+<!ENTITY pref.default_task_offset_current.label "Relativo a la hora actual">
+<!ENTITY pref.default_task_offset_start.label "Relativo al inicio">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativo a la próxima hora">
 
 <!ENTITY pref.accessibility.label "Accesibilidad" >
 <!ENTITY pref.systemcolors.label "Optimizar colores para accesibilidad" >

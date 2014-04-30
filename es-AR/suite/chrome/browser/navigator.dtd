@@ -74,3 +74,10 @@
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquear las ventanas emergentes de este sitio">
 
+<!ENTITY viewSecurityInfo.label      "Ver información de seguridad">
+<!ENTITY viewSecurityInfo.accesskey  "s">
+<!ENTITY viewCertificate.label       "Ver certificado">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Abrir administrador de certificados">
+<!ENTITY viewCertManager.accesskey   "m">
+
