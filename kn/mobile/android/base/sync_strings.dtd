@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ”ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.">
+<!ENTITY sync.subtitle.connect.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ” ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.">
 <!ENTITY sync.subtitle.header2.label "ನಿಮ್ಮ ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಈ ಸಂಕೇತವನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.subtitle.connectlocation2.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನದ ಫೈರ್ ಫಾಕ್ಸ್ ಸಂಯೋಜನೆಗಳ &syncBrand.shortName.label; ವಿಭಾಗದಲ್ಲಿ “&sync.title.pair.label;” ಅನ್ನು ಆರಿಸಿ.">
-<!ENTITY sync.subtitle.pair.label "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ “ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ”ಯನ್ನು ಆರಿಸಿ.">
+<!ENTITY sync.subtitle.pair.label "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ “ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ” ಯನ್ನು ಆರಿಸಿ.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "ಮ್ಯಾನುಅಲ್ ಅನುಸ್ಥಾಪನೆ">
 <!ENTITY sync.subtitle.nointernet.label "ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಲಭ್ಯವಿಲ್ಲ.">
 <!ENTITY sync.subtitle.failaccount.label "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಖಾತೆ ರಚನೆ ವಿಫಲವಾಗಿದೆ.">
-<!ENTITY sync.subtitle.failmultiple.label "ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಾ? ಸಧ್ಯಕ್ಕೆ , &syncBrand.fullName.label; ಕೇವಲ ಒಮ್ಮೆಗೆ ಒಂದು ಫೈರ್ಫಾಕ್ಸ್ ಸ್ಥಾಪನೆಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ. &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಲು ದಯವಿಟ್ಟು ಇತರೆ ಸ್ಥಾಪನೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ.">
+<!ENTITY sync.subtitle.failmultiple.label "ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಾ? ಸಧ್ಯಕ್ಕೆ , &syncBrand.fullName.label; ಕೇವಲ ಒಮ್ಮೆಗೆ ಒಂದು ಫೈರ್ಫಾಕ್ಸ್ ಸ್ಥಾಪನೆಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಲು ಇತರೆ ಸ್ಥಾಪನೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
+<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು  ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
 <!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
 <!-- Localization note: the Firefox below should not change with the
@@ -178,8 +178,6 @@
 <!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
 <!ENTITY fxaccount_status_needs_credentials "ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
 <!ENTITY fxaccount_status_needs_upgrade "ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.">
-
-
 <!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
 <!ENTITY fxaccount_status_passwords "ಗುಪ್ತಪದಗಳು">

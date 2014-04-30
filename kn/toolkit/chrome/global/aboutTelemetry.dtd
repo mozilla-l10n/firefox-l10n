@@ -12,11 +12,13 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ಜಾಲವೀಕ್ಷಕವು ಹ್ಯಾಂಗ್ ಆಗುತ್ತದೆ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "   ಎಳೆ ನಿಶ್ಚಲವಾಗಿದೆ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  ಹಿಸ್ಟೊಗ್ರಾಮ್‌ಗಳು">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ಸರಳವಾದ ಅಳತೆಗಳು">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  ಆಡ್-ಆನ್ ವಿವರಗಳು">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ತಡವಾಗಿ ಬರೆಯುವಿಕೆ">
 
@@ -34,3 +36,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  ಹ್ಯಾಂಗ್‌ಗಳಿಗಾಗಿ ಕಚ್ಛಾದ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
 
+<!ENTITY aboutTelemetry.filterText "  ಸೋಸಕ (ಪದಸಮುಚ್ಚಯಗಳು ಅಥವ /regexp/)">

@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
 
@@ -96,11 +96,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
-
-
-
-
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ಗೆ ಸೈನ್-ಇನ್ ಆಗು">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ಗೆ ಮತ್ತೆ ಸಂಪರ್ಕ ಹೊಂದು">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; ಸ್ವಲ್ಪದರಲ್ಲಿ ಸಿಂಕ್ ಆಗಲು ಪ್ರಾರಂಭಿಸುವುದು.">
+<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ">
+<!ENTITY syncErrorPanel.subTitle "ಸಿಂಕ್ ಪುನರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ಸೈನ್-ಇನ್ ಆಗಿ.">
 <!ENTITY syncErrorPanel.signInButton.label "Sign In">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
@@ -128,17 +129,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-
+<!ENTITY sharePageCmd.label "This ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY sharePageCmd.commandkey "S">
-
-
-
-
-
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "This ಕೊಂಡಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "This ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
+<!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "ಆಯ್ಕೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
-<!ENTITY shareSelectCmd.accesskey "S">
-
-
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "This ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
@@ -179,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarksMenuButton.unsorted.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಪುಟಗುರುತುಗಳು">
-
+<!ENTITY viewBookmarksSidebar2.label        "ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
 <!ENTITY viewBookmarksToolbar.label         "ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -188,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "ಇತಿಹಾಸ">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ಉಪಕರಣಗಳು">
@@ -229,8 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "ಪ್ರತಿಕ್ರಿಯೆ ವಿನ್ಯಾಸ ನೋಟ">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
-
-
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -243,23 +243,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "ಸ್ಕ್ರಾಚ್‌ಪ್ಯಾಡ್">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "Browser ಉಪಕರಣಚೌಕ">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ವಿಕಸನೆಗಾರ ಉಪಕರಣವನ್ನು ಮುಚ್ಚು">
 <!ENTITY devToolbarMenu.label              "ವಿಕಸನೆಗಾರ ಉಪಕರಣ">
 <!ENTITY devToolbarMenu.accesskey          "v">
-
-
+<!ENTITY devAppMgrMenu.label               "App ವ್ಯವಸ್ಥಾಪಕ ">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ಉಪಕರಣಗಳನ್ನು ಹೊರಳಿಸು">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ವಿಕಸನೆ ಉಪಕರಣಗಳನ್ನು ಹೊರಳಿಸು">
 <!ENTITY devToolbarOtherToolsButton.label  "ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು">
@@ -330,18 +332,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "ಇಚ್ಛೆಗೆ ಅನುಸಾರವಾಗಿ ಬದಲಾಯಿಸು">
 <!ENTITY appMenuCustomize.tooltip "ಪರಿವಿಡಿ ಮತ್ತು ಉಪಕರಣ ಪಟ್ಟಿಗಳನ್ನು ಅನುಗುಣವಾಗಿಸು">
-
+<!ENTITY appMenuCustomizeExit.label "ಅನುಗುಣವಾಗಿಸುವುದರಿಂದ ನಿರ್ಗಮಿಸು">
 <!ENTITY appMenuCustomizeExit.tooltip "ಅನುಗುಣವಾಗಿಸುವುದನ್ನು ಮುಗಿಸು">
 <!ENTITY appMenuHistory.label "ಇತಿಹಾಸ">
 <!ENTITY appMenuHistory.showAll.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY appMenuHistory.clearRecent.label "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
-
+<!ENTITY appMenuHistory.restoreSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY appMenuHistory.viewSidebar.label "ಇತಿಹಾಸ ಪಕ್ಕದಂಕಣ ಪ್ರದರ್ಶಿಸಿ">
+<!ENTITY appMenuHelp.tooltip "ಸಹಾಯ ಪರಿವಿಡಿ ತೆಗೆ">
 
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "Add ಉಪಕರಣಪಟ್ಟಿಗೆ ">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Menu ಗೆ ಸೇರಿಸು">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Move ಉಪಕರಣ ಪಟ್ಟಿಗೆ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -355,8 +358,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remove ಪರಿವಿಡಿಯಿಂದ">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-
-
+<!ENTITY customizeMenu.addMoreItems.label "‌‌‌Add ಹೆಚ್ಚಿನ ಅಂಶಗಳು">
+<!ENTITY customizeMenu.addMoreItems.accesskey "‌">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವ ನಮೂದಿಸು">
@@ -428,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "ವಿವರಣೆಯನ್ನು ನೋಡಿ (D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...">
@@ -441,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY switchToMetroCmd.label       "Relaunch in Windows 8 style &brandShortName;">
 <!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -454,8 +458,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY saveImageCmd.accesskey       "v">
-
-
+<!ENTITY saveVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ಹೀಗೆ Save …">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ಚಿತ್ರವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…">
@@ -566,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; ನಿರ್ಗಮಿಸು">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು"> 
@@ -582,9 +586,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "ಪುಟದ ಶೈಲಿ">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ಯಾವುದೇ ಶೈಲಿ ಇಲ್ಲ">
-<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "ಮೂಲ  ಪುಟದ ಶೈಲಿ">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
 
@@ -610,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "ಶಬ್ಧಕೋಶವನ್ನು ಸೇರಿಸು...">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -656,8 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ಗೆ Reconnect">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌ ಮಾಡು">
 
 <!ENTITY socialToolbar.title        "ಸಾಮಾಜಿಕ ಉಪಕರಣಪಟ್ಟಿ ಗುಂಡಿ">
@@ -665,7 +669,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "ಸರಿ">
 <!ENTITY social.ok.accesskey   "O">
 
-
+<!ENTITY social.toggleSidebar.label "sidebar ತೋರಿಸು">
+<!ENTITY social.toggleSidebar.accesskey "s">
 
 <!ENTITY social.addons.label "ಸೇವೆಗಳನ್ನು ನಿರ್ವಹಿಸು...">
 
@@ -674,16 +679,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> ಇಂದ ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ನೀವು <label class='text-link'>ಆಡ್-ಆನ್ ವ್ಯವಸ್ಥಾಪಕ</label>ದಲ್ಲಿನ ಸೇವೆಗಳಿಗಾಗಿ ನಿಮ್ಮ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.">
 <!ENTITY social.activated.undo.label "ಓಹ್, ಇದನ್ನು ರದ್ದು ಮಾಡು!">
-<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
-<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
+
+
+<!ENTITY customizeMode.tabTitle "&brandShortName; ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ಹೆಚ್ಚುವರಿ ಉಪಕರಣಗಳು ಮತ್ತು ವಿಶೇಷತೆಗಳು">
 <!ENTITY customizeMode.menuAndToolbars.empty "ಇನ್ನೂ ಹೆಚ್ಚು ಉಪಕರಣಗಳು ಬೇಕೆ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ಸಾವಿರಾರು ಆಡ್-ಆನ್ ಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ">
-
-
+<!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
+<!ENTITY customizeMode.toolbars "ತೋರಿಸು / ಅಡಗಿಸು ಉಪಕರಣ ಪಟ್ಟಿಗಳು">
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -728,7 +736,47 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
 <!ENTITY uiTour.infoPanel.close "ಮುಚ್ಚು">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
 
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey         "A">
+<!ENTITY throbberItem.title            "Activity Indicator">
+<!ENTITY appMenuButton.label           "Menu">
+<!ENTITY appMenuButton.tooltip         "Open &brandShortName; menu">
+<!ENTITY feedButton.label              "Subscribe">
+<!ENTITY feedButton.tooltip            "Subscribe to this page…">
+<!ENTITY bookmarksButton.tooltip       "Display your bookmarks">
+<!ENTITY historyButton.tooltip         "Display pages you've viewed recently">
+<!ENTITY viewTabsOnTop.label           "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey       "T">
+<!ENTITY appMenuEdit.label             "Edit">
+<!ENTITY appMenuToolbarLayout.label    "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label         "ಬದಿಪಟ್ಟಿಕೆಗಳು">
-
-
+<!ENTITY appMenuFind.label             "Find…">
+<!ENTITY appMenuUnsorted.label         "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label     "Web Developer">
+<!ENTITY appMenuGettingStarted.label   "Getting Started">
+<!ENTITY appMenuSafeMode.label         "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY cutButton.tooltip             "Cut">
+<!ENTITY copyButton.tooltip            "Copy">
+<!ENTITY pasteButton.tooltip           "Paste">
+<!ENTITY zoomOutButton.tooltip         "Zoom out">
+<!ENTITY zoomInButton.tooltip          "Zoom in">
+<!ENTITY zoomControls.label            "Zoom Controls">
+<!ENTITY addonBarCloseButton.tooltip   "Close Add-on Bar">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!ENTITY backForwardItem.title         "Back/Forward">
+<!ENTITY viewBookmarksSidebar.label    "Show in Sidebar">
+<!ENTITY bookmarksItem.title           "Bookmarks">
+<!ENTITY openLocationCmd.label         "Open Location…">
+<!ENTITY openLocationCmd.accesskey     "L">
+<!ENTITY bookmarksMenuButton.tooltip   "Display your bookmarks">
+<!ENTITY switchToMetroCmd2.label       "ವಿಂಡೋಸ್ 8 ಟಚ್ ಗೆ &brandShortName; ನಲ್ಲಿ ಮರುನಿರ್ಮಿಸು">
+<!ENTITY tabGroupsButton.tooltip       "Group your tabs">
+<!-- end of strings to be removed post-Australis -->
