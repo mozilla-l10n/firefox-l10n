@@ -20,11 +20,11 @@
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Pielāgošana ar papildinājumiem
+#define bookmarks_addons Firefox: Pielāgot ar papildinājumiem
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://support.mozilla.org/mobile
-#define bookmarks_support Firefox: atbalsts
+#define bookmarks_support Firefox: Atbalsts
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
 # link title for https://marketplace.firefox.com
