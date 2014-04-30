@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Dirección predeterminada a la que enviar las alarmas:">
 <!ENTITY pref.defaulttext.label "Texto predeterminado para alarmas:">
+
+<!ENTITY pref.defaultsnoozelength.label "Longitud predeterminada del silenciado:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">
