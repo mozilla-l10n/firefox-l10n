@@ -42,17 +42,17 @@
 <!ENTITY sync.button.manual.label "ହସ୍ତକୃତ ବ୍ୟବସ୍ଥା">
 <!ENTITY sync.subtitle.nointernet.label "କୌଣସି ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ଉପଲବ୍ଧ ନାହିଁ।">
 <!ENTITY sync.subtitle.failaccount.label "ଆପଣଙ୍କ ଉପକରଣରେ ଖାତା ସୃଷ୍ଟିକରିବା ବିଫଳ ହୋଇଛି।">
-
+<!ENTITY sync.subtitle.failmultiple.label "ଆପଣଙ୍କ ପାଖରେ ଗୋଟିଏରୁ ଅଧିକ Firefox ସ୍ଥାପିତ ଅଛି କି? ବର୍ତ୍ତମାନ, &syncBrand.fullName.label; ଏକ ସମୟରେ କେବଳ ଗୋଟିଏ Firefox ସ୍ଥାପନକୁ ଅନୁମତି ଦେଇଥାଏ। &syncBrand.shortName.label; କୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଦୟାକରି ଅନ୍ୟଟିକୁ ବିସ୍ଥାପିତ କରନ୍ତୁ। ">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "ସଂରଚନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି">
-
+<!ENTITY sync.subtitle.success.label1 "ଆପଣଙ୍କର ତଥ୍ୟ ବର୍ତ୍ତମାନ ପୃଷ୍ଠଭୂମିରେ ଆହରଣ ହେଉଅଛି। ଆପଣ ଖାତା ପରିଚାଳନା ପାଇଁ ସେଟିଙ୍ଗକୁ ଯାଇପାରିବେ, କିମ୍ବା &brandShortName; ସହିତ  ବ୍ରାଉଜ କରିପାରିବେ।">
 <!ENTITY sync.settings.label "ସଂରଚନା">
-
+<!ENTITY sync.subtitle.manage.label1 "ଆପଣଙ୍କର &syncBrand.fullName.label; ଖାତା ବ୍ୟବସ୍ଥା ହୋଇଛି। ଆପଣ ଖାତା ପରିଚାଳନା ପାଇଁ ସେଟିଙ୍ଗକୁ ଯାଇପାରିବେ, କିମ୍ବା &brandShortName;ସହିତ ବ୍ରାଉଜ କରିପାରିବେ।">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
-
+<!ENTITY sync.pair.connectlocation.label "ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, “&syncBrand.shortName.label; ବ୍ୟବସ୍ଥା”କୁ ଉପକରଣରେ ବାଛନ୍ତୁ, ଏବଂ ତାପରେ “ମୋର ଗୋଟିଏ ଖାତା ଅଛି” କୁ ବାଛନ୍ତୁ।">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ବିକଳ୍ପଗୁଡ଼ିକ">
@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "କଣ sync କରିବେ">
-
+<!ENTITY sync.configure.engines.sync.my.title.label "ଆପଣଙ୍କର ଉଲ୍ଲିଖିତ ତଥ୍ୟକୁ ସନ୍ତୁଳନ କରନ୍ତୁ…">
 <!ENTITY sync.configure.engines.title.bookmarks "ପୃଷ୍ଠାସଂକେତଗୁଡିକ">
 <!ENTITY sync.configure.engines.title.passwords "ପ୍ରବେଶ ସଂକେତ">
 <!ENTITY sync.configure.engines.title.history "ପୁରୁଣା ତଥ୍ଯ">
@@ -101,7 +101,7 @@
 <!ENTITY sync.button.send.label "ପଠାନ୍ତୁ">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ଟ୍ୟାବଗୁଡ଼ିକୁ ପଠାଇବା ପାଇଁ &syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
-
+<!ENTITY sync.text.redirect.to.set.up.sync.label "ଟ୍ୟାବଗୁଡ଼ିକୁ ଅନ୍ୟ ଉପକରଣଗୁଡ଼ିକୁ ପଠାଇବା ପାଇଁ  &syncBrand.fullName.label; କୁ ଆପଣଙ୍କ ଉପକରଣରେ ବ୍ୟବସ୍ଥା କରନ୍ତୁ।">
 <!ENTITY sync.text.tab.sent.label "ଆପଣଙ୍କର ଟ୍ୟାବକୁ ପଠା ସରିଛି!">
 <!ENTITY sync.text.tab.not.sent.label "ଆପଣଙ୍କର ଟ୍ୟାବକୁ ପଠାଇବା ସମୟରେ ଗୋଟିଏ ସମସ୍ୟା ଦେଖା ଦେଇଛି।">
 <!-- Firefox Account strings. -->
@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ଗୋପନୀୟତା ନିତୀ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ">
-
+<!ENTITY fxaccount_getting_started_description "ଆପଣଙ୍କର ଟ୍ୟାବ, ପୃଷ୍ଠା ସଂକେତ, ପ୍ରବେଶ ସଂକେତ ଏବଂ ଅନେକକୁ ସନ୍ତୁଳନ କରନ୍ତୁ।">
 <!ENTITY fxaccount_getting_started_get_started "ଆରମ୍ଭ କରନ୍ତୁ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ର କୌଣସି ପୁରୁଣା ସଂସ୍କରଣକୁ ବ୍ୟବହାର କରୁଛନ୍ତି କି?">
 <!-- Localization note: the Firefox below should not change with the
@@ -140,6 +140,7 @@
 <!ENTITY fxaccount_create_account_password_length_restriction "ନିଶ୍ଚିତ ଭାବରେ ଅତିକମରେ 8 ଅକ୍ଷର ବିଶିଷ୍ଟ ହୋଇଥିବା ଉଚିତ">
 <!ENTITY fxaccount_create_account_year_of_birth "ଜନ୍ମ ବର୍ଷ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "ଆଗକୁ ବଢ଼ିବା ଦ୍ୱାରା, ମୁଁ  Firefox କ୍ଲାଉଡ଼ ସର୍ଭିସଗୁଡ଼ିକର &formatS1; ଏବଂ &formatS2; ରେ ସହମତ।">
 <!ENTITY fxaccount_create_account_button "ପରବର୍ତ୍ତୀ">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "କଣ sync କରିବେ ବାଛନ୍ତୁ">
 <!ENTITY fxaccount_create_account_sign_in_instead "ପୂର୍ବରୁ କୌଣସି ଖାତା ଅଛି କି? ସାଇନ ଇନ">
@@ -147,7 +148,7 @@
 <!ENTITY fxaccount_create_account_unknown_error "ଖାତା ନିର୍ମାଣ କରିପାରିଲା ନାହିଁ">
 
 <!ENTITY fxaccount_account_create_not_allowed "ଖାତା ନିର୍ମାଣ କରିପାରିବେ ନାହିଁ">
-
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ଖାତା ସୃଷ୍ଟି କରିବା ପାଇଁ ଆପଣଙ୍କୁ କିଛି ବୟସ ସୀମା ଆବଶ୍ୟକତାକୁ ମାନିବାକୁ ପଡ଼ିବ।">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 
 <!ENTITY fxaccount_confirm_account_header "ଆପଣଙ୍କର ଖାତାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ">
@@ -164,7 +165,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "ସାଇନ ଇନ କରିପାରିଲି ନାହିଁ">
 
 <!ENTITY fxaccount_account_verified_sub_header "ଖାତା ଯାଞ୍ଚ ହୋଇଛି">
-
+<!ENTITY fxaccount_account_verified_description2 "ଆପଣଙ୍କର ତଥ୍ୟ କିଛି ସମୟ ମଧ୍ଯରେ ସନ୍ତୁଳନ ହେବ।">
 
 <!ENTITY fxaccount_update_credentials_header "ସାଇନ ଇନ">
 <!ENTITY fxaccount_update_credentials_button_label "ସାଇନ ଇନ">
@@ -177,8 +178,6 @@
 <!ENTITY fxaccount_status_needs_verification2 "ଆପଣଙ୍କର ଖାତାକୁ ଯାଞ୍ଚ କରିବା ଆବଶ୍ୟକ। ଯାଞ୍ଚ ମେଲ ପୁଣି ପଠାଇବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_credentials "ସଂଯୋଗ କରିପାରୁ ନାହିଁ। ସାଇନ ଇନ କରିବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; ସାଇନ ଇନ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ଉନ୍ନୟନ କରିବା ଆବଶ୍ୟକ।">
-
-
 <!ENTITY fxaccount_status_bookmarks "ପୃଷ୍ଠାସଂକେତ">
 <!ENTITY fxaccount_status_history "ପୁରୁଣା ତଥ୍ଯ">
 <!ENTITY fxaccount_status_passwords "ପ୍ରବେଶ ସଂକେତ">
