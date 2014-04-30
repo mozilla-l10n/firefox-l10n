@@ -48,9 +48,6 @@
 
 <!ENTITY fxaSignIn.label "Pierakstīties &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Atkārtoti savienoties ar &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel.heading "&brandShortName; šobrīd sinhronizējas">
-<!ENTITY syncStartPanel.subTitle "Jūs varat pārvaldīt &syncBrand.shortName.label; iestatījumos.">
-<!ENTITY syncStartPanel.subTitleUnix "Jūs varat pārvaldīt &syncBrand.shortName.label; iestatījumos.">
 <!ENTITY syncErrorPanel.heading "Nevar savienoties ar &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Lūdzu pierakstieties, lai turpinātu sinhronizēšanu.">
 <!ENTITY syncErrorPanel.signInButton.label "Pierakstīties">
@@ -58,7 +55,12 @@
 <!ENTITY navbarOverflow.label                "Citi rīki…">
 <!ENTITY quitApplicationCmdWin.tooltip     "Aizvērt &brandShortName;">
 <!ENTITY uiTour.infoPanel.close "Aizvērt">
-<!ENTITY viewBookmarksSidebar2.label        "Atvēŗt grāmatzīmes sānjoslā">
+<!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
+<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY syncReAuthItem.label         "Savienoties un &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktivēta">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; tūlīt sāksies.">
 
 
 <!ENTITY tabCmd.label "Jauna cilne">
@@ -566,14 +568,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Lapas pamata stils">
 <!ENTITY pageStylePersistentOnly.accesskey "m">
 
-<!ENTITY pageReportIcon.tooltip "Izmainīt uznirstošo logu bloķēšanas iestatījumus šai lapai">
+<!ENTITY pageReportIcon.tooltip "Izmainīt jauno logu bloķēšanas iestatījumus šai lapai">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
-<!ENTITY editPopupSettings.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettingsUnix.label "Rediģēt jauno logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettings.label "Rediģēt jauno logu bloķētāja iestatījumus...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -714,7 +716,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY socialToolbar.title        "Sociālo rīku joslas poga">
 
 <!ENTITY customizeMode.tabTitle "Pielāgot &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.label "Izvēlnes un rīkjoslas">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Papildus rīki un iespējas">
 <!ENTITY customizeMode.menuAndToolbars.empty "Gribat vairāk rīku?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izvēlieties kādu no tūkstošiem papildinājumu">
@@ -734,7 +735,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Piekļuve kamerai un mikrofonam">
 <!ENTITY webrtcIndicatorButton.tooltip "Attēlo lapas, kurām ir piekļuve jūsu kamerai vai mikrofonam">
 
-<!ENTITY mixedContentBlocked.helplink "Uzzināt vairāk">
 <!ENTITY mixedContentBlocked.moreinfo "Lielākā daļa mājas lapu joprojām darbosies korekti pat tad, kad šis saturs ir bloķēts.">
 
 <!ENTITY pointerLock.notification.message "Nospiediet ESC lai to atkal parādītu.">

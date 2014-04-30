@@ -37,6 +37,10 @@
 <!ENTITY projects.manifestEditorTooltip "Rediģējiet savu aplikāciju manifest failus panelī zemāk. Atjaunināšanas poga saglabās izmaiņas un atjauninās aplikāciju.">
 <!ENTITY projects.manifestViewer "Manifest skatītājs">
 <!ENTITY projects.manifestViewerTooltip "Aplūkojiet savu aplikāciju manifest failus panelī zemāk.">
+<!ENTITY device.browserTabs "Pārlūka cilnes">
+<!ENTITY device.browserTabsTooltip "Aplūkot savienotās ierīces pārlūka cilnes">
+<!ENTITY device.debugBrowserTab "Atkļūdošana">
+<!ENTITY device.debugBrowserTabTooltip "Atvērt šai pārlūka cilnei pievienotos Izstrādātāju rīkus">
 
 
 <!ENTITY connection.connectTooltip "Pieslēgties ierīcei.">
@@ -81,6 +85,8 @@
 <!ENTITY projects.valid "Korekts">
 <!ENTITY projects.error "Kļūda">
 <!ENTITY projects.warning "Brīdinājums">
+<!ENTITY projects.hosted "No servera">
+<!ENTITY projects.packaged "Pakota">
 <!ENTITY projects.saveManifest "Saglabāt">
 <!ENTITY projects.saveManifestTooltip "Saglabāt manifesta redaktora saturu.">
 

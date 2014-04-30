@@ -47,7 +47,9 @@
 <!ENTITY downloadRetry.label       "Atkārtot">
 <!ENTITY downloadRemove.label      "Aizvākt">
 <!ENTITY downloadDelete.label      "Dzēst">
+<!ENTITY consoleCopyAll.label      "Kopēt">
 <!ENTITY downloadFailed.label      "Neizdevās">
+<!ENTITY consoleFollowCheckbox.label "Sekot">
 
 <!ENTITY firstRunBack.label "Pieskatieties te, lai ietu atpakaļ uz iepriekšējo lapu">
 <!ENTITY firstRunNewTab.label "Pievienojiet jaunu cilni, lai aplūkotu jaunu lapu">

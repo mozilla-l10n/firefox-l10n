@@ -5,9 +5,9 @@
 <!ENTITY privatebrowsingpage.title                  "Privātā pārlūkošana">
 
 <!ENTITY privatebrowsingpage.issueDesc.private      "Jūs atvērāt jaunu privāto cilni.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Jūs neesat privātajā cilnē.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Jūs neesat privātā cilnē.">
 
-<!ENTITY privatebrowsingpage.description            "Privātajās cilnēs, &brandShortName; neglabās pārlūkošanas, meklēšana un lejupielāžu vēsturi, sīkdatnes un pagaidu interneta failus. Grāmatzīmes un lejupielādētie faili tiks saglabāti.">
+<!ENTITY privatebrowsingpage.description            "&brandShortName; nesaglabās privāto ciļņu pārlūkošanas, meklēšanas un lejupielāžu vēsturi, sīkdatnes un pagaidu interneta failus. Grāmatzīmes un lejupielādētie faili tiks saglabāti.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Lai arī šajā ierīcē netiks saglabāti dati par to kādas lapas jūs apmeklējat, jūšu interneta pakalpojumu sniedzējs joprojām var uzskaitīt jūsu apmeklētās lapas.">
+<!ENTITY privatebrowsingpage.moreInfo               "Lai arī šajā ierīcē netiks saglabāti dati par to, kādas lapas jūs apmeklējat, jūsu interneta pakalpojumu sniedzējs joprojām var uzskaitīt jūsu apmeklētās lapas.">

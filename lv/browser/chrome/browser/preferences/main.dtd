@@ -23,10 +23,10 @@
 <!ENTITY downloads.label "Lejupielādes">
 
 <!ENTITY saveTo.label "Vieta, kur saglabāt failus:">
-<!ENTITY saveTo.accesskey "g">
+<!ENTITY saveTo.accesskey "k">
 <!ENTITY chooseFolderWin.label "Pārlūkot...">
 <!ENTITY chooseFolderWin.accesskey "o">
 <!ENTITY chooseFolderMac.label "Izvēlieties...">
 <!ENTITY chooseFolderMac.accesskey "e">
 <!ENTITY alwaysAsk.label "Vienmēr jautāt man, kur saglabāt failus">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY alwaysAsk.accesskey "V">

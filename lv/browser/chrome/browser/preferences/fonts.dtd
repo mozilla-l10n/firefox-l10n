@@ -15,7 +15,7 @@
 <!ENTITY sizeMonospace.accesskey "r">
 
 <!ENTITY proportional.label "Proporcionāls:">
-<!ENTITY proportional.accesskey "P">
+<!ENTITY proportional.accesskey "o">
 
 <!ENTITY serif.label "Serif (ar rēdzi):">
 <!ENTITY serif.accesskey "S">
@@ -57,7 +57,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetiešu">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimālais fonta izmērs:">
-<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.accesskey "t">
 <!ENTITY minSize.none "Nekāds">
 <!-- default font type -->
 
