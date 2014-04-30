@@ -13,14 +13,14 @@
 
 
 <!ENTITY  backgroundColor.label           "ಹಿನ್ನಲೆ:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "ಗಣಕ ಉಪಕರಣವನ್ನು ಬಳಸು">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "ಕೊಂಡಿಗಳ ಕೆಳಗೆ ಗೆರೆ ಹಾಕು">
-<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "ಕೊಂಡಿ ಬಣ್ಣ">
 <!ENTITY  linkColor.label                 "ಭೇಟಿ ನೀಡದೆ ಇರುವ ಕೊಂಡಿಗಳು:">
-<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "ಭೇಟಿ ನೀಡಿದ ಕೊಂಡಿಗಳು:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  visitedLinkColor.accesskey      "v">

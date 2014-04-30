@@ -27,5 +27,5 @@
 <!ENTITY aboutNetworking.expires               "ಅಂತ್ಯಗೊಳ್ಳುತ್ತಿದೆ (ಸೆಕೆಂಡುಗಳಲ್ಲಿ)">
 <!ENTITY aboutNetworking.messagesSent          "ಸಂದೇಶಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.messagesReceived      "ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ">
-
-
+<!ENTITY aboutNetworking.bytesSent             "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ">
+<!ENTITY aboutNetworking.bytesReceived         "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ">

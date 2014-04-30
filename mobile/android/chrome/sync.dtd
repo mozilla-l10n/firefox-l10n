@@ -13,7 +13,7 @@
 
 <!ENTITY sync.setup.title           "ಸಿಂಕ್ ಗೆ ಸಂಪರ್ಕಿಸು">
 <!ENTITY sync.setup.pair            "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ &quot;ಒಂದು ಸಾಧನವನ್ನು ಪೇರ್ ಮಾಡು&quot; ಅನ್ನು ಆರಿಸಿ.">
-<!ENTITY sync.fallback              "ನಾನು ನನ್ನ ಗಣಕಯಂತ್ರದ ಬಳಿ ಇಲ್ಲ...">
+<!ENTITY sync.fallback              "ನಾನು ನನ್ನ ಗಣಕಯಂತ್ರದ ಬಳಿ ಇಲ್ಲ…">
 <!ENTITY sync.setup.manual          "ನಿಮ್ಮ ಸಿಂಕ್ ಖಾತೆ ವಿವರವನ್ನು ನಮೂದಿಸಿ">
 <!ENTITY sync.account               "ಖಾತೆಯ ಹೆಸರು">
 <!ENTITY sync.password              "ಗುಪ್ತಪದ">

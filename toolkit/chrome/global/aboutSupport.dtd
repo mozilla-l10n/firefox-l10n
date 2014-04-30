@@ -7,12 +7,13 @@
 
 <!ENTITY aboutSupport.pageSubtitle "  ನೀವು ಒಂದು ಸಮಸ್ಯೆಗೆ ಪರಿಹಾರ ಹುಡುಕುವಾಗ ನಿಮಗೆ ನೆರವಾಗುವಂತಹ ಮಾಹಿತಿಗಳನ್ನು ಈ ಪುಟವು ಹೊಂದಿರುತ್ತದೆ. ನೀವು &brandShortName; ಕುರಿತಾದ ಸಾಮಾನ್ಯವಾದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರವನ್ನು ಹುಡುಕುತ್ತಿದ್ದಲ್ಲಿ, <a id='supportLink'>ಬೆಂಬಲ ಜಾಲ ತಾಣ</a>ವನ್ನು ನೋಡಿ.">
 
+<!ENTITY aboutSupport.crashes.title "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ವರದಿ  ಐಡಿ">
 <!ENTITY aboutSupport.crashes.sendDate "ಸಲ್ಲಿಸಲಾಗಿದೆ">
 <!ENTITY aboutSupport.crashes.allReports "ಎಲ್ಲ ಕ್ರಿಯಾವೈಫಲ್ಯಗಳ ವರದಿಗಾರ">
-
+<!ENTITY aboutSupport.crashes.noConfig "ಈ ಅನ್ವಯವನ್ನು ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವಂತೆ ಸಂರಚಿಸಲಾಗಿಲ್ಲ.">
 
 <!ENTITY aboutSupport.extensionsTitle "ವಿಸ್ತರಣೆಗಳು">
 <!ENTITY aboutSupport.extensionName "ಹೆಸರು">
