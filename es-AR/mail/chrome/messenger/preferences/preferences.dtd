@@ -13,6 +13,7 @@
 <!ENTITY paneComposition.title    "Redacción">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Adjuntos">
+<!ENTITY panePrivacy.title        "Privacidad">
 <!ENTITY paneSecurity.title       "Seguridad">
 <!ENTITY paneAdvanced.title       "Avanzadas">
  
