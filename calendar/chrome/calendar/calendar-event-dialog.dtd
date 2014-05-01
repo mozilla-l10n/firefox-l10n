@@ -34,7 +34,7 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Send meddelelse til deltagerne">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til  hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "B">
