@@ -39,7 +39,7 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Num da l'apparat:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "m">
 <!ENTITY unlinkDevice.label         "Distatgar quest apparat">
 
 <!-- Footer stuff -->
