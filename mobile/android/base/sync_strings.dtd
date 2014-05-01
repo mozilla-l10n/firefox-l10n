@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label 'Gendannelsesnøgle'>
 <!ENTITY sync.checkbox.server.label 'Brug en anden server'>
 <!ENTITY sync.input.server.label 'Server URL'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Kan ikke sætte &syncBrand.shortName.label; op'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kunne ikke forbinde til serveren. Vil du prøve igen?'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label 'Ingen internetforbindelse tilgængelig.'>
 <!ENTITY sync.subtitle.failaccount.label 'Oprettelse af konto på din enhed mislykkedes.'>
 <!ENTITY sync.subtitle.failmultiple.label 'Har du mere end en Firefox installeret? I øjeblikket understøtter, &syncBrand.fullName.label; kun en Firefox-installation ad gangen. Afinstaller andre forekomster for at benytte &syncBrand.shortName.label;.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Opsætning fuldført'>
 <!ENTITY sync.subtitle.success.label1 'Dine data hentes i baggrunden. Du kan gå til Indstillinger for at administrere din konto eller begynde at surfe med &brandShortName;.'>
@@ -70,10 +70,10 @@
 <!ENTITY sync.button.cancel.label 'Annuller'>
 <!ENTITY sync.button.connect.label 'Forbind'>
 <!ENTITY sync.button.ok.label 'OK'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (forældet)'>
-  
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bogmærkemenuen'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -173,6 +173,10 @@
 <!ENTITY fxaccount_status_needs_verification2 'Din konto skal bekræftes. Tryk for at få sendt en bekræftelsesmail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan ikke få forbindelse. Tryk for at logge ind.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du skal opgradere &brandShortName; for at kunne logge ind.'>
+
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Du kan skifte indstilling for synkronisering i Androids indstillinger.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Tryk for at starte syknkronisering.'>
+
 <!ENTITY fxaccount_status_bookmarks 'Bogmærker'>
 <!ENTITY fxaccount_status_history 'Historik'>
 <!ENTITY fxaccount_status_passwords 'Adgangskoder'>
