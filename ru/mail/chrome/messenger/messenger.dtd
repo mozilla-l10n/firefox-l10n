@@ -65,8 +65,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "б">
 <!ENTITY synchronizeOfflineCmd.label "Загрузить/синхронизировать сейчас…">
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
-<!ENTITY settingsOfflineCmd.label "Параметры автономной работы…">
-<!ENTITY settingsOfflineCmd.accesskey "П">
+<!ENTITY settingsOfflineCmd2.label "Параметры автономной работы">
+<!ENTITY settingsOfflineCmd2.accesskey "м">
 <!ENTITY downloadSelectedCmd.label "Получить выделенные">
 <!ENTITY downloadSelectedCmd.accesskey "в">
 <!ENTITY downloadStarredCmd.label "Получить сообщения со звёздочкой">
@@ -147,6 +147,8 @@
 <!ENTITY favoriteFolders.accesskey "И">
 <!ENTITY recentFolders.label "Недавно открытые">
 <!ENTITY recentFolders.accesskey "о">
+<!ENTITY compactVersion.label "Компактный вид">
+<!ENTITY compactVersion.accesskey "о">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
 <!ENTITY sortByDateCmd.label "по дате отправки">
@@ -522,10 +524,12 @@
 <!ENTITY appmenuButton1.tooltip "Открыть меню &brandShortName;">
 <!ENTITY buttonMenuForwardAsInline.label "Переслать внутри сообщения">
 <!ENTITY buttonMenuForwardAsAttachment.label "Переслать как вложение">
-<!ENTITY remoteContentOptionsAllowForMsg.label "Показать содержимое из сети в этом сообщении">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Показать содержимое из Интернета в этом сообщении">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "о">
-<!ENTITY remoteContentOptionAllowForAddress.label "Показать содержимое из сети от этого отправителя">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "а">
+<!ENTITY editRemoteContentSettings.label "Изменить настройки содержимого из Интернета…">
+<!ENTITY editRemoteContentSettings.accesskey "м">
+<!ENTITY editRemoteContentSettingsUnix.label "Изменить настройки содержимого из Интернета…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "м">
 <!ENTITY phishingOptionIgnore.label "Игнорировать предупреждение для этого сообщения">
 <!ENTITY phishingOptionIgnore.accesskey "в">
 <!ENTITY phishingOptionSettings.label "Изменить настройки обнаружения мошеннических сообщений…">
@@ -574,12 +578,12 @@
 <!ENTITY folderContextSubscribe.accesskey "д">
 <!ENTITY folderContextSearchForMessages.label "Поиск сообщений…">
 <!ENTITY folderContextSearchForMessages.accesskey "и">
-<!ENTITY folderContextProperties.label "Свойства…">
-<!ENTITY folderContextProperties.accesskey "С">
+<!ENTITY folderContextProperties2.label "Свойства">
+<!ENTITY folderContextProperties2.accesskey "в">
 <!ENTITY folderContextFavoriteFolder.label "Избранная папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "з">
-<!ENTITY folderContextSettings.label "Параметры…">
-<!ENTITY folderContextSettings.accesskey "а">
+<!ENTITY folderContextSettings2.label "Параметры">
+<!ENTITY folderContextSettings2.accesskey "а">
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
 <!ENTITY SearchNameOrEmail.accesskey "И">
 <!ENTITY glodaSearchBar.placeholder "Поиск сообщений…">
