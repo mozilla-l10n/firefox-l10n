@@ -129,7 +129,7 @@
 <!ENTITY firstRunTopSites.label "Tabhair cuairt ar na suímh is ansa leat">
 <!ENTITY firstRunBookmarks.label "Aimsaigh na leathanaigh a shábháil tú">
 <!ENTITY firstRunMenu.label "Bain feidhm as tuilleadh gnéithe agus roghanna">
-<!ENTITY firstRunHistory.label "See where you've been on the Web">
+<!ENTITY firstRunHistory.label "Na háiteanna ina raibh tú ar an nGréasán">
 <!ENTITY firstRunWelcome.label "Fáilte go &brandShortName;">
 <!ENTITY firstRunDifferent.label "Difriúil, d'aon turas">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
@@ -142,8 +142,8 @@
        references.
        -->
 
-<!ENTITY firstRunBack.label "Tap to go back to the previous page">
-<!ENTITY firstRunNewTab.label "Add a new tab to explore a new site">
-<!ENTITY firstRunStar.label "Use bookmarks to save pages for later">
+<!ENTITY firstRunBack.label "Tapáil chun filleadh ar an leathanach roimhe seo">
+<!ENTITY firstRunNewTab.label "Cuir cluaisín nua leis chun suíomh nua a thaiscéaladh">
+<!ENTITY firstRunStar.label "Úsáid leabharmharc chun leathanach a shábháil">
 <!ENTITY firstRunPin.label "Pin any site to your Windows Start screen for quick access">
 <!ENTITY firstRunGotIt.label "Tuigim!">

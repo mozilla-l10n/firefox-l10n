@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
 <!ENTITY quickMode.accesskey "h">
 
+<!ENTITY autotagEnable.label "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.accesskey "c">
+<!ENTITY autotagUsePrefix.label "Prefix tags with:">
+<!ENTITY autotagUsePrefix.accesskey "P">
+<!ENTITY autoTagPrefix.placeholder "Enter a tag prefix">
+
 <!ENTITY locationValidate.label "Bailíochtaigh">
 <!ENTITY validateText.label "Bailíochtaigh agus faigh URL bailí.">
 

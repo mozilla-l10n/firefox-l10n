@@ -137,12 +137,12 @@
      etc).  The account remains a "Firefox Account". -->
 
 <!ENTITY fxaccount_create_account_header2 "Cruthaigh Cuntas Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction 'Must be at least 8 characters'>
+<!ENTITY fxaccount_create_account_password_length_restriction "Ní mór dó a bheith 8 gcarachtar ar a laghad">
 <!ENTITY fxaccount_create_account_year_of_birth "Bliain bhreithe">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox cloud services.'>
 <!ENTITY fxaccount_create_account_button "Ar Aghaidh">
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Choose what to sync'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Roghnaigh na rudaí le sioncrónú">
 <!ENTITY fxaccount_create_account_sign_in_instead "An bhfuil cuntas agat cheana? Logáil isteach">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 nó níos luaithe">
 <!ENTITY fxaccount_create_account_unknown_error "Níorbh fhéidir cuntas a chruthú">
@@ -153,9 +153,9 @@
 
 <!ENTITY fxaccount_confirm_account_header "Dearbhaigh do chuntas">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'A verification link has been sent to &formatS;'>
+<!ENTITY fxaccount_confirm_account_verification_link "Seoladh nasc deimhnithe chuig &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Seol an ríomhphost arís">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verification email sent'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Seoladh teachtaireacht deimhnithe trí ríomhphost">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Níorbh fhéidir an teachtaireacht dearbhaithe a sheoladh">
 
 <!ENTITY fxaccount_sign_in_sub_header "Logáil isteach">
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
 <!ENTITY fxaccount_status_needs_credentials "Ní féidir ceangal. Tapáil chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Tap to start syncing.'>
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
 <!ENTITY fxaccount_status_passwords "Focail fhaire">
@@ -208,9 +210,9 @@
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Caithfidh tú Firefox a uasghrádú">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account already exists. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Invalid email or password'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Tá an cuntas ann cheana. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Seoladh ríomhphoist nó focal faire neamhbhailí">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Seoladh ríomhphoist nó focal faire neamhbhailí">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Níl an cuntas deimhnithe">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tá an freastalaí gnóthach; bain triail eile as go luath">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tá an freastalaí gnóthach; bain triail eile as go luath">
@@ -220,4 +222,4 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Níl &syncBrand.shortName.label; ceangailte">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapáil chun logáil isteach mar &formatS;">

@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Greamaigh mar Athfhriotal">
 <!ENTITY pasteAsQuotationCmd.accesskey "A">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Aimsigh agus Ionadaigh…">
+<!ENTITY findBarCmd.label "Aimsigh…">
+<!ENTITY findReplaceCmd.label "Aimsigh agus Ionadaigh…">
 <!ENTITY enableInlineSpellChecker.label "Litriú Beo">
 <!ENTITY enableInlineSpellChecker.accesskey "L">
 <!ENTITY checkSpellingCmd2.label "Seiceáil an Litriú…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Carachtair agus Siombailí…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Bris faoi Íomhá(nna)">
