@@ -333,7 +333,7 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Запустить анти-спам фильтры">
 <!ENTITY recalculateJunkScoreCmd.accesskey "а">
-<!ENTITY markAsShowRemoteCmd.label "Загрузить изображения из Интернета">
+<!ENTITY markAsShowRemoteCmd.label "Показать содержимое из Интернета">
 <!ENTITY markAsShowRemoteCmd.accesskey "З">
 <!ENTITY markAsShowRemoteCmd.key "r">
 <!ENTITY markAsNotPhishCmd.label "Как не мошенническое">
