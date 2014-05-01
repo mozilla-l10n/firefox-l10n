@@ -59,10 +59,10 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tscherner las colonnas per mussar">
 <!ENTITY threadColumn2.tooltip "Mussar gruppas da temas"> 
-<!ENTITY fromColumn2.tooltip "Zavrar tenor sepitur">
+<!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
 <!ENTITY subjectColumn2.tooltip "Zavrar tenor object">
-<!ENTITY dateColumn2.tooltip "Zavrart tenor data">
+<!ENTITY dateColumn2.tooltip "Zavrar tenor data">
 <!ENTITY priorityColumn2.tooltip "Zavrar tenor prioritad">
 <!ENTITY tagsColumn2.tooltip "Zavrar tenor etichettas">
 <!ENTITY accountColumn2.tooltip "Zavrar tenor conto">

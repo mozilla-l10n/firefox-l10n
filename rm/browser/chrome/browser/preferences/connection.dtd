@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "U">
 <!ENTITY  autologinproxy.label          "Na betg dumandar per autentificaziun sch'il pled-clav è memorisà">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Questa opziun t'autentifichescha automaticamain tar proxies sche ti has memorisà las datas d'access. Ti vegns dumandà per autentificaziun schi dat ina errur.">
+<!ENTITY  autologinproxy.tooltip        "Questa opziun t'autentifitgescha automaticamain tar proxies sche ti has memorisà las datas d'access. Ti vegns dumandà per autentificaziun sch'i dat ina errur.">

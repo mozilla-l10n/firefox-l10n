@@ -32,7 +32,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "F">
 <!ENTITY  systemSound.label                   "Tun da standard dal sistem per novs e-mails">
 <!ENTITY  systemSound.accesskey               "d">
-<!ENTITY  customsound.label                   "Utilisar questa datoteca datun">
+<!ENTITY  customsound.label                   "Utilisar questa datoteca da tun">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Navigar…">
 <!ENTITY  browse.accesskey                    "N">
