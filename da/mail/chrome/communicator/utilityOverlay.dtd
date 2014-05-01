@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label "Filer">
@@ -29,13 +27,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY deleteCmd.label "Slet">
-
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Indstillinger…">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY preferencesCmd2.label "Indstillinger">
+<!ENTITY preferencesCmd2.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
@@ -45,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "V">
 <!ENTITY showTaskbarCmd.label "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey "a">
-
-<!ENTITY proxy.label "Proxy-konfiguration…">
-<!ENTITY proxy.accesskey "k">
 
 <!ENTITY closeCmd.label "Luk">
 <!ENTITY closeCmd.key "W">
