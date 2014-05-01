@@ -32,7 +32,7 @@
 <!ENTITY Unknown.label "Неизвестно">
 <!ENTITY ScreenName.label "Интернет-пейджер:">
 <!ENTITY ScreenName.accesskey "й">
-<!ENTITY allowRemoteContent1.label "Разрешить содержимое из сети.">
+<!ENTITY allowRemoteContent1.label "Разрешить содержимое из Интернета.">
 <!ENTITY allowRemoteContent1.accesskey "з">
 <!ENTITY allowRemoteContent1.tooltip "В HTML-сообщения возможно включать содержимое из внешних источников. Открытие подобного сообщения приведёт к созданию соединения с внешним источником и позволит этому источнику узнать, что сообщение было прочитано. Установив этот флажок, вы разрешите включать содержимое из внешних источников для HTML-сообщений, полученных от этого контакта.">
 <!ENTITY WorkPhone.label "Рабочий:">
