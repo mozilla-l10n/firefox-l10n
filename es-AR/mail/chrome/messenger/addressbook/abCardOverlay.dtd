@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label "Desconocido">
 <!ENTITY chatName.label                 "Nombre de Chat:">
 
-<!ENTITY allowRemoteContent1.label      "Permitir contenido remoto.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En mensajes HTML es posible
-incrustar contenido de fuentes remotas. Abriendo esos mensajes se abrirá una
-conexión a esa fuente externa. Ésto puede permitir el rastreo del
-mensaje que se está leyendo. Marcando esta caja permitirá ese contenido externo
-incrustado en mensajes HTML de este contacto.">
-
 <!ENTITY WorkPhone.label "Teléfono del trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
 <!ENTITY HomePhone.label "Teléfono particular:">

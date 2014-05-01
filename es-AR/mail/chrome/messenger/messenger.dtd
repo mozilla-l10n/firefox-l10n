@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "x">
 <!ENTITY synchronizeOfflineCmd.label "Descargar/sincronizar ahora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Opciones sin conexión…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Opciones sin conexión">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Obtener mensajes seleccionados">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Obtener mensajes destacados">
@@ -162,6 +162,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Reciente">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Vista compacta">
+<!ENTITY compactVersion.accesskey "c">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -563,8 +565,10 @@
 <!--Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar contenido remoto en este mensaje">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
-<!ENTITY remoteContentOptionAllowForAddress.label "Mostrar contenido remoto de este remitente">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY editRemoteContentSettings.label "Opciones de editar contenido remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "e">
+<!ENTITY editRemoteContentSettingsUnix.label "Preferencias de editar contenido remoto…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "e">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorar advertencia para este mensaje">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Buscar mensajes…">
 <!ENTITY folderContextSearchForMessages.accesskey "s">
-<!ENTITY folderContextProperties.label "Propiedades…">
-<!ENTITY folderContextProperties.accesskey "o">
+<!ENTITY folderContextProperties2.label "Propiedades">
+<!ENTITY folderContextProperties2.accesskey "e">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Opciones…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "Opciones">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
