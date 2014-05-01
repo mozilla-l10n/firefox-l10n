@@ -33,3 +33,6 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Forvalgt mailadresse som alarmer sendes til:">
 <!ENTITY pref.defaulttext.label "Forvalgt alarmtekst:">
+
+<!ENTITY pref.defaultsnoozelength.label "Forvalgt udsættelseslængde:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "F">

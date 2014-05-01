@@ -40,6 +40,30 @@
 <!ENTITY lightning.calendarproperties.email.label "Mail:">
 
 <!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Accepter">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accepter invitation til begivenhed">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Accepter alle">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accepter invitation til begivenhed for alle forekomster af begivenheden">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Tilføj">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Føj begivenheden til kalenderen">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Afvis">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Afvis invitation til begivenhed">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Afvis alle">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Afvis invitation til begivenhed for alle forekomster af begivenheden">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Slet">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slet fra kalenderen">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Vis detaljer for begivenheden">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Mere">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik for at få vist flere muligheder">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekræft igen">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender endnu en bekræftelse til arrangøren">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Foreløbig">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Send en foreløbig accept af invitationen til begivenheden">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Foreløbig for alle">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Send en foreløbig accept af invitationen til begivenheden for alle forekomster af begivenheden">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Opdater">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Opdater begivenheden i kalenderen">
 <!ENTITY lightning.imipbar.description "Denne meddelelse indeholder en invitation til en begivenhed.">
 
 <!-- Lightning specific keybindings -->

@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Langt">
 <!ENTITY pref.dateformat.short "Kort">
-<!ENTITY pref.defaultlength.label "Forvalgt begivenhedslængde:">
-<!ENTITY pref.defaultlength.accesskey "B">
-<!ENTITY pref.defaultsnoozelength.label "Forvalgt udsættelseslængde:">
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.defaults.label "Forvalgte værdier for nye elementer">
+<!ENTITY pref.events.label "Begivenheder">
+<!ENTITY pref.tasks.label "Opgaver">
+
+<!ENTITY pref.default_event_length.label "Forvalgt varighed:" >
+<!ENTITY pref.default_event_length.accesskey "v">
+
+<!ENTITY pref.default_task_none.label "Ingen">
+<!ENTITY pref.default_task_start_of_day.label "Start på dagen">
+<!ENTITY pref.default_task_end_of_day.label "Slut på dagen">
+<!ENTITY pref.default_task_tomorrow.label "I morgen">
+<!ENTITY pref.default_task_next_week.label "Næste uge">
+<!ENTITY pref.default_task_offset_current.label "I forhold til nuværende tidspunkt">
+<!ENTITY pref.default_task_offset_start.label "I forhold til starttidspunkt">
+<!ENTITY pref.default_task_offset_next_hour.label "I forhold til næste time">
 
 <!ENTITY pref.accessibility.label "Tilgængelighed" >
 <!ENTITY pref.systemcolors.label "Optimer farver for tilgængelighed" >
