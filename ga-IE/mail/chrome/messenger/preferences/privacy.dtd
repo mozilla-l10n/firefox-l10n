@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "Mail Content">
+
+<!ENTITY acceptRemoteContent.label "Allow remote content in messages">
+<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY remoteContentExceptions.label "Eisceachtaí…">
+<!ENTITY remoteContentExceptions.accesskey "s">
+<!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Inneachar Gréasáin">
+
+<!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
+<!ENTITY acceptCookies.accesskey "a">
+<!ENTITY acceptThirdParty.pre.label "Glac le fianáin tríú páirtí:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "I gCónaí">
+<!ENTITY acceptThirdParty.never.label "Riamh">
+<!ENTITY acceptThirdParty.visited.label "Ó shuímh fheicthe">
+<!ENTITY keepUntil.label "Coinnigh:">
+<!ENTITY keepUntil.accesskey "o">
+<!ENTITY expire.label "go dtí go mbeidh siad caite">
+<!ENTITY close.label "go dtí go ndúnaim &brandShortName;">
+<!ENTITY askEachTime.label "fiafraigh díom i gcónaí">
+<!ENTITY cookieExceptions.label "Eisceachtaí…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Taispeáin Fianáin…">
+<!ENTITY showCookies.accesskey "s">
+
+<!ENTITY dntTrackingNopref.label2 "Ná hinis faic do shuímh maidir le rianú">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Cuir in iúl do shuímh Ghréasáin gan mé a rianú">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "Cuir in iúl do shuímh Ghréasáin gur mhaith liom a bheith rianaithe">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Learn more about Do Not Track">
+
