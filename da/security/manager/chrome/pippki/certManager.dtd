@@ -60,7 +60,6 @@
 <!ENTITY certmgr.override_lifetime            "Levetid">
 <!ENTITY certmgr.tokenname                    "Sikkerhedsenhed">
 <!ENTITY certmgr.begins                       "Begynder den">
-<!ENTITY certmgr.issued                       "Udstedt den">
 <!ENTITY certmgr.expires                      "Udløber den">
 <!ENTITY certmgr.email                        "Mailadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
