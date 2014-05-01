@@ -334,7 +334,7 @@
 <!ENTITY recalculateJunkScoreCmd.label "Запустить анти-спам фильтры">
 <!ENTITY recalculateJunkScoreCmd.accesskey "а">
 <!ENTITY markAsShowRemoteCmd.label "Показать содержимое из Интернета">
-<!ENTITY markAsShowRemoteCmd.accesskey "З">
+<!ENTITY markAsShowRemoteCmd.accesskey "а">
 <!ENTITY markAsShowRemoteCmd.key "r">
 <!ENTITY markAsNotPhishCmd.label "Как не мошенническое">
 <!ENTITY markAsNotPhishCmd.accesskey "н">
