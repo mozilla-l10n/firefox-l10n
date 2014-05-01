@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Déardaoin">
 <!ENTITY day.6.name "Aoine">
 <!ENTITY day.7.name "Satharn">
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute "nóiméad">
-<!ENTITY calendar.global.units.minutes "nóiméad">
-<!ENTITY calendar.global.units.hour "uair">
-<!ENTITY calendar.global.units.hours "uaire">
-<!ENTITY calendar.global.units.day "lá">
-<!ENTITY calendar.global.units.days "lá anuas">
 
 <!ENTITY month.1.name "Eanáir">
 <!ENTITY month.2.name "Feabhra">

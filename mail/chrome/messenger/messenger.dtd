@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "b">
 <!ENTITY synchronizeOfflineCmd.label "Íosluchtaigh/Sioncronaigh Anois…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Socruithe As Líne…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Offline Settings">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Faigh Teachtaireachtaí Roghnaithe">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Faigh na Teachtaireachtaí Marcáilte">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY menuFavoriteFolder.label "Mo Rogha Fillteán">
 <!ENTITY menuFavoriteFolder.accesskey "R">
-<!ENTITY folderPropsCmd.label "Airíonna…">
-<!ENTITY folderPropsFolderCmd.label "Airíonna an Fhillteáin…">
-<!ENTITY folderPropsNewsgroupCmd.label "Airíonna an Ghrúpa Nuachta…">
+<!ENTITY folderPropsCmd2.label "Airíonna">
+<!ENTITY folderPropsFolderCmd2.label "Airíonna Fillteáin">
+<!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Cealaigh Scriosadh Teachtaireachta">
 <!ENTITY redoDeleteMsgCmd.label "Athfheidhmigh Scriosadh Teachtaireachta">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Le Déanaí">
 <!ENTITY recentFolders.accesskey "L">
+<!ENTITY compactVersion.label "Compact View">
+<!ENTITY compactVersion.accesskey "C">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -459,8 +461,8 @@
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Scagairí Teachtaireachta…">
-<!ENTITY filtersCmd.accesskey "S">
+<!ENTITY filtersCmd2.label "Message Filters">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Rith Scagairí ar an Fhillteán">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Rith Scagairí ar Theachtaireachtaí Roghnaithe">
@@ -478,11 +480,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
 <!ENTITY clearRecentHistory.accesskey "S">
-<!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
-<!ENTITY accountManagerCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Account Settings">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "W">
+<!ENTITY accountManagerCmdUnix2.accesskey "W">
 <!ENTITY allowRemoteDebugging.label "Ceadaigh Cian-Dífhabhtú">
 <!ENTITY allowRemoteDebugging.accesskey "f">
 <!-- Mail Toolbar -->
@@ -563,8 +565,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Taispeáin ábhar i gcéin sa teachtaireacht seo">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
-<!ENTITY remoteContentOptionAllowForAddress.label "Taispeáin ábhar i gcéin ón seoltóir seo">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "s">
+<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "Déan neamhaird de rabhadh a bhaineann leis an teachtaireacht seo">
@@ -623,12 +627,12 @@
 <!ENTITY folderContextSubscribe.accesskey "L">
 <!ENTITY folderContextSearchForMessages.label "Cuardaigh Teachtaireachtaí…">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
-<!ENTITY folderContextProperties.label "Airíonna…">
-<!ENTITY folderContextProperties.accesskey "A">
+<!ENTITY folderContextProperties2.label "Airíonna">
+<!ENTITY folderContextProperties2.accesskey "A">
 <!ENTITY folderContextFavoriteFolder.label "Mo Rogha Fillteán">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Socruithe…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings2.label "Settings">
+<!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist ina bhfuil:">
@@ -700,6 +704,8 @@
 <!ENTITY contextOpenNewTab.accesskey "C">
 <!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
 <!ENTITY contextOpenConversation.accesskey "r">
+<!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Cuir sa chartlann">
@@ -883,7 +889,7 @@
 <!ENTITY zoomWindow.label "Súmáil">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "Sainroghanna…">
+<!ENTITY preferencesCmdMac2.label "Sainroghanna">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Seirbhísí">

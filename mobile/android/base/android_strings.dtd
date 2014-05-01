@@ -54,7 +54,7 @@
 <!ENTITY back "Siar">
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Slándáil Suímh">
-<!ENTITY save "Sábháil">
+<!ENTITY edit_mode_cancel "Cealaigh">
 
 <!ENTITY close_tab "Dún Cluaisín">
 <!ENTITY one_tab "Cluaisín amháin">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Príobháideachas">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghanna sonraí">
+<!ENTITY pref_learn_more "Tuilleadh eolais">
 <!ENTITY pref_category_installed_search_engines "Innill chuardaigh suiteáilte">
 <!ENTITY pref_category_add_search_providers "Cuir innill chuardaigh leis">
 <!ENTITY pref_category_search_restore_defaults "Athchóirigh na hinnill chuardaigh">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_devtools "Uirlisí forbróra">
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
-<!ENTITY pref_developer_remotedebugging_docs "Tuilleadh eolais">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 
 <!ENTITY pref_category_home "Baile">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
 <!ENTITY pref_import_android "Iompórtáil ó Android">
-<!ENTITY pref_private_data_history "Stair bhrabhsála agus íosluchtaithe">
+<!ENTITY pref_private_data_history2 "Stair bhrabhsála">
 <!ENTITY pref_private_data_formdata "Stair fhoirmeacha agus chuardaigh">
 <!ENTITY pref_private_data_cookies2 "Fianáin agus seisiúin ghníomhacha">
 <!ENTITY pref_private_data_passwords "Focail fhaire a sábháladh">
 <!ENTITY pref_private_data_cache "Taisce">
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
 <!ENTITY pref_private_data_siteSettings2 "Socruithe an tsuímh">
-<!ENTITY pref_private_data_downloadFiles "Comhaid íosluchtaithe">
+<!ENTITY pref_private_data_downloadFiles2 "Íosluchtuithe">
 
 
 <!ENTITY pref_about_firefox "Maidir le &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Taispeáin">
 <!ENTITY pref_panels_hide "Folaigh">
+<!ENTITY pref_panels_reorder "Athraigh an t-ord">
+<!ENTITY pref_panels_move_up "Bog suas">
+<!ENTITY pref_panels_move_down "Bog síos">
 
 <!ENTITY datareporting_notification_title "Staitisticí agus sonraí ó &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Roghnaigh cad a roinnfidh tú">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
-<!ENTITY datareporting_wifi_title "Seirbhísí geoshuite &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Tabhair cead do &brandShortName; sonraí gan ainm maidir le túir cheallacha a sheoladh chugainn. Cabhróidh sé seo linn seirbhísí geoshuite ar an nGréasán oscailte a fheabhsú.">
+<!ENTITY datareporting_wifi_title2 "Seirbhís Geoshuite &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Receives Wi-Fi and cellular location data when running in the background and shares it with &vendorShortName; to improve our geolocation service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear "Glan">
 <!ENTITY site_settings_no_settings "Níl aon socruithe le glanadh.">
 
-<!ENTITY reading_list_add "Cuir le do Liosta Léitheoireachta">
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
 <!ENTITY reading_list_removed "Baineadh ó do liosta léitheoireachta">
 <!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "No content could be found for this panel.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Up to &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Cuir téarma cuardaigh isteach">
 
@@ -382,7 +388,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 ó Android">
 <!ENTITY bookmarkhistory_import_wait "Fan le do thoil...">
 
-<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
+<!ENTITY suggestions_prompt3 "An bhfuil fonn ort moltaí cuardaigh a fháil?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Atosóidh &brandShortName; anois">
 <!ENTITY exit_guest_session_text "Scriosfar na sonraí brabhsála ón seisiún seo.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
