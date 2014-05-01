@@ -560,7 +560,7 @@
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Trametter vinavant integrà">
-<!ENTITY buttonMenuForwardAsAttachment.label "Trametter vinavon sco agiunta">
+<!ENTITY buttonMenuForwardAsAttachment.label "Trametter vinavant sco agiunta">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mussar il cuntegn extern en quest messadi">
@@ -677,7 +677,7 @@
 <!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
 <!ENTITY subjectColumn2.tooltip "Zavrar tenor object">
-<!ENTITY dateColumn2.tooltip "Zavrart tenor data">
+<!ENTITY dateColumn2.tooltip "Zavrar tenor data">
 <!ENTITY priorityColumn2.tooltip "Zavrar tenor prioritad">
 <!ENTITY tagsColumn2.tooltip "Zavrar tenor etichettas">
 <!ENTITY accountColumn2.tooltip "Zavrar tenor conto">
@@ -734,10 +734,10 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "U">
 <!ENTITY contextCopyMsgMenu.label "Copiar en">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextKillThreadMenu.label "Ignorar quest thread">
+<!ENTITY contextKillThreadMenu.label "Ignorar quest tema">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignorar quest subthread">
-<!ENTITY contextWatchThreadMenu.label "Observar quest thread">
+<!ENTITY contextKillSubthreadMenu.label "Ignorar quest suttema">
+<!ENTITY contextWatchThreadMenu.label "Observar quest tema">
 <!ENTITY contextSaveAs.label "Memorisar sut…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Stampar…">

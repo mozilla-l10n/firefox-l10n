@@ -100,7 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Recolliar a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; vegn immediat a cumenzar a sincronisar.">
-<!ENTITY syncErrorPanel.heading "Impussibel da conntectar cun &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.heading "Impussibel da connectar cun &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "S'annunzia per cuntinuar da sincronisar.">
 <!ENTITY syncErrorPanel.signInButton.label "S'annunziar">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">

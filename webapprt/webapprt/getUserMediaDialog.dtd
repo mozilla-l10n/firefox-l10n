@@ -13,5 +13,5 @@
 
 <!ENTITY getUserMediaDialog.video.label             "Tscherner la camera">
 <!ENTITY getUserMediaDialog.video.noVideo           "Nagin video">
-<!ENTITY getUserMediaDialog.audio.label             "Tscherner il microfin">
+<!ENTITY getUserMediaDialog.audio.label             "Tscherner il microfon">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Nagin tun">
