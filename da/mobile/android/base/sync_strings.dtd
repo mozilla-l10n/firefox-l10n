@@ -175,7 +175,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Du skal opgradere &brandShortName; for at kunne logge ind.'>
 
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Du kan skifte indstilling for synkronisering i Androids indstillinger.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Tryk for at starte syknkronisering.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Tryk for at starte synkronisering.'>
 
 <!ENTITY fxaccount_status_bookmarks 'Bogmærker'>
 <!ENTITY fxaccount_status_history 'Historik'>
