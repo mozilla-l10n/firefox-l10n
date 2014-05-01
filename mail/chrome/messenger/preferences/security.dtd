@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Fraudes de correo">
 <!ENTITY itemPasswords.label     "Contraseñas">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Contenido web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Configuración predeterminada de correo basura. Las configuraciones específicas de cada cuenta deben ser realizadas en Configuración de cuentas.">
@@ -46,22 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; puede facilitar a los antivirus que revisen el correo electrónico antes de ser guardados localmente.">
 <!ENTITY antiVirus.label      "Permitir a los antivirus poner en cuarentena mensajes individualmente">
 <!ENTITY antiVirus.accesskey  "l">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; le permite especificar a cuáles blogs, canales de noticias y sitios web se les permitirá escribir cookies.">
-<!ENTITY acceptCookies.label            "Aceptar cookies de sitios">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Mantener hasta:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "que expiren">
-<!ENTITY close.label                    "cierre &brandShortName;">
-<!ENTITY askEachTime.label              "preguntarme cada vez">
-<!ENTITY cookieExceptions.label         "Excepciones…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mostrar cookies…">
-<!ENTITY showCookies.accesskey          "o">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Decirle a los sitios web que no quiero ser rastreado">
-<!ENTITY doNotTrack.accesskey           "D">
 
