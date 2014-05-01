@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Emprovas d'engion">
 <!ENTITY itemPasswords.label     "Pleds-clav">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Cuntegns web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Las suandantas configuraziuns areguard e-mails nungiavischads valan per tut ils contos. En la configuraziun dals contos pon ins definir supplementarmain configuraziuns specificas per mintga conto.">
@@ -37,9 +36,9 @@
 <!ENTITY useMasterPassword.label        "Utilisar in pled-clav universal">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "In pled-clav universal protegia tut tes pleds-clav, ma ti stos endatar el tar mintga sesida.">
-<!ENTITY changeMasterPassword.label     "Midar il pled-clav universal...">
+<!ENTITY changeMasterPassword.label     "Midar il pled-clav universal…">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "Pleds-clav memorisads...">
+<!ENTITY savedPasswords.label           "Pleds-clav memorisads…">
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
@@ -47,21 +46,3 @@
 <!ENTITY antiVirus.label      "Permetter ad applicaziuns dad antivirus da serrar messadis che entran en quarantina">
 <!ENTITY antiVirus.accesskey  "A">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; ta pussibilitescha da definir sche blogs, news feeds ed autras websites dastgan memorisar cookies.">
-<!ENTITY acceptCookies.label            "Acceptar ils cookies">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Memorisar fin che:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "els n'èn betg pli valids">
-<!ENTITY close.label                    "&brandShortName; vegn serrà">
-<!ENTITY askEachTime.label              "dumandar mintga giada">
-<!ENTITY cookieExceptions.label         "Excepziuns...">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mussar ils cookies...">
-<!ENTITY showCookies.accesskey          "S">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Supplitgar websites da betg suandar mes fastizs">
-<!ENTITY doNotTrack.accesskey           "d">
-    

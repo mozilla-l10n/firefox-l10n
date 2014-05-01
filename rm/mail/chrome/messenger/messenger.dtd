@@ -482,9 +482,9 @@
 <!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd2.label "Configuraziun da contos">
 <!ENTITY accountManagerCmd2.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "c">
 <!ENTITY allowRemoteDebugging.label "Lubir debugging a distanza">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
