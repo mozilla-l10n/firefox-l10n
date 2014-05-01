@@ -67,8 +67,8 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Поменять местами имя и фамилию">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "П">
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Свойства…">
-<!ENTITY propertiesCmd.accesskey "в">
+<!ENTITY propertiesCmd2.label "Свойства">
+<!ENTITY propertiesCmd2.accesskey "в">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">

@@ -12,5 +12,6 @@
 <!ENTITY paneComposition.title "Составление">
 <!ENTITY paneChat.title "Чат">
 <!ENTITY paneAttachments.title "Вложенные файлы">
+<!ENTITY panePrivacy.title "Приватность">
 <!ENTITY paneSecurity.title "Защита">
 <!ENTITY paneAdvanced.title "Дополнительные">
