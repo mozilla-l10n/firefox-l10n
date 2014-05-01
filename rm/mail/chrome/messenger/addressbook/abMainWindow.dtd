@@ -73,9 +73,9 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "g">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "vair">
-<!ENTITY propertiesCmd.label                            "Caracteristicas...">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd2.label                           "Caracteristicas">
+<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Preferenzas…">
-<!ENTITY preferencesCmd.accesskey                       "p">
+<!ENTITY preferencesCmd2.label                          "Preferenzas">
+<!ENTITY preferencesCmd2.accesskey                      "p">
 <!ENTITY preferencesCmdUnix.label                       "Preferenzas">
 <!ENTITY preferencesCmdUnix.accesskey                   "p">
 
