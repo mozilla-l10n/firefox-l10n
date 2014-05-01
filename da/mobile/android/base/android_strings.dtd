@@ -54,7 +54,7 @@
 <!ENTITY back "Tilbage">
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Webstedssikkerhed">
-<!ENTITY save "Gem">
+<!ENTITY edit_mode_cancel "Annuller">
 
 <!ENTITY close_tab "Luk faneblad">
 <!ENTITY one_tab "1 faneblad">
@@ -73,12 +73,12 @@
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datadeling">
+<!ENTITY pref_learn_more "Læs mere">
 <!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
 <!ENTITY pref_category_add_search_providers "Tilføj flere søgetjenester">
 <!ENTITY pref_category_search_restore_defaults "Gendan søgetjenester">
 <!ENTITY pref_search_restore_defaults "Gendan oprindelige indstillinger">
 <!ENTITY pref_search_restore_defaults_summary "Gendan oprindelige indstillinger">
-
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -87,7 +87,6 @@
 <!ENTITY pref_search_hint "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_devtools "Udviklerværktøjer">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
-<!ENTITY pref_developer_remotedebugging_docs "Læs mere">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
 
 <!ENTITY pref_category_home "Hjem">
@@ -158,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søgeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
-<!ENTITY pref_private_data_history "Browser- og filhentningshistorik">
+<!ENTITY pref_private_data_history2 "Browserhistorik">
 <!ENTITY pref_private_data_formdata "Formular- og søgehistorik">
 <!ENTITY pref_private_data_cookies2 "Cookies og aktive logins">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_passwords "Gemte adgangskoder">
 <!ENTITY pref_private_data_offlineApps "Offline webstedsdata">
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
-<!ENTITY pref_private_data_downloadFiles "Hentede filer">
+<!ENTITY pref_private_data_downloadFiles2 "Hentede filer">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
@@ -180,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Vis">
 <!ENTITY pref_panels_hide "Skjul">
+<!ENTITY pref_panels_reorder "Skift rækkefølge">
+<!ENTITY pref_panels_move_up "Flyt op">
+<!ENTITY pref_panels_move_down "Flyt ned">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
 <!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
@@ -203,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
-<!ENTITY datareporting_wifi_title "&vendorShortName; positionstjenester">
-<!ENTITY datareporting_wifi_summary "Hjælp med til at forbedre positionstjenester på det åbne web ved at lade &brandShortName; indsamle og sende anonyme oplysninger om mobilmaster.">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Positionstjeneste">
+<!ENTITY datareporting_wifi_geolocation_summary "Ved kørsel i baggrunden modtages data fra Wi-Fi og mobilmaster om position, som så deles med &vendorShortName; for at forbedre vores positionstjeneste.
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -291,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Ryd">
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
-<!ENTITY reading_list_add "Føj til læseliste">
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
 <!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
@@ -339,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Der blev ikke fundet indhold til dette panel.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Tilbage til &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Indtast søgeterm">
 
@@ -418,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; bliver nu genstartet">
 <!ENTITY exit_guest_session_text "Dine browsing-data fra denne session vil blive slettet.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
