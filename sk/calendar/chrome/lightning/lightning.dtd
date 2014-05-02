@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Táto správa obsahuje pozvánku na udalosť.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Prijať">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Prijať pozvánku na udalosť">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Prijať všetky">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Prijať pozvánku na všetky opakovania udalosti">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Pridať">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Pridať udalosť do kalendára">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Odmietnuť">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odmietnuť pozvánku na udalosť">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odmietnuť všetky">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odmietnuť pozvánku na všetky opakovania udalosti">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Vymazať">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Odstrániť z kalendára">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Zobraziť podrobnosti o udalosti">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Ďalšie">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ďalšie možnosti">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opäť potvrdiť">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Odošlať opätovné potvrdenie organizátorovi">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Predbežne prijať">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Predbežne prijať pozvánku na udalosť">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Predbežne prijať všetky">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Predbežne prijať pozvánku na všetky opakovania udalosti">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizovať">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aktualizovať udalosť v kalendári">
+<!ENTITY lightning.imipbar.description                                      "Táto správa obsahuje pozvánku na udalosť">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
