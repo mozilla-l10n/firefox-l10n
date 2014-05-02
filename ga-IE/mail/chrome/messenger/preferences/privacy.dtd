@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
-<!ENTITY captionMailContent.label "Mail Content">
+<!ENTITY captionMailContent.label "Ábhar Ríomhphoist">
 
-<!ENTITY acceptRemoteContent.label "Allow remote content in messages">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.label "Ceadaigh ábhar i gcéin i dteachtaireachtaí">
+<!ENTITY acceptRemoteContent.accesskey "C">
 <!ENTITY remoteContentExceptions.label "Eisceachtaí…">
 <!ENTITY remoteContentExceptions.accesskey "s">
 <!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">

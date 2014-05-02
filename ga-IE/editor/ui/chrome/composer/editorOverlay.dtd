@@ -40,7 +40,7 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.label "Mata…">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Carachtair agus Siombailí…">
 <!ENTITY insertCharsCmd.accesskey "C">

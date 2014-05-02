@@ -33,7 +33,7 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label "Cuir in iúl don lucht freastail">
-<!ENTITY event.attendees.notifyundisclosed.label "Separate invitation per attendee">
+<!ENTITY event.attendees.notifyundisclosed.label "Cuireadh ar léith do gach rannpháirtí">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
 <!-- Keyboard Shortcuts -->
 
