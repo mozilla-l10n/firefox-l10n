@@ -91,7 +91,7 @@
 <!ENTITY sync.notification.configure.saved 'Ihre Auswahl wurde gespeichert.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Kontoname oder Passwort sind inkorrekt.'>
+<!ENTITY sync.invalidcreds.label 'Kontoname oder Passwort sind ungültig.'>
 <!ENTITY sync.invalidserver.label 'Bitte geben Sie eine gültige Server-Adresse ein'>
 <!ENTITY sync.verifying.label 'Überprüfung…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Falscher Wiederherstellungsschlüssel. Bitte versuchen Sie es erneut.'>
@@ -103,16 +103,9 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; einrichten'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; muss eingerichtet werden, um Tabs an andere Geräte zu senden.'>
 <!ENTITY sync.text.tab.sent.label 'Tab wurde gesendet'>
-<!ENTITY sync.text.tab.not.sent.label 'Beim Senden des Tabs trat ein Problem auf.'>
+<!ENTITY sync.text.tab.not.sent.label 'Fehler beim Senden des Tabs'>
 
-<!-- Firefox account strings. -->
-
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 'Kontrollkästchen-Symbol für Firefox-Konten'>
-<!ENTITY fxaccount_icon_contentDescription2 'Symbol für Firefox-Konten'>
-<!ENTITY fxaccount_intro_contentDescription2 'Grafik \"Einführung\" für Firefox-Konten'>
-<!ENTITY fxaccount_mail_contentDescription2 'Grafik \"Umschlag\" für Firefox-Konten'>
+<!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -127,6 +120,11 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Zurück zum Browser'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos 'Nutzungsbedingungen'>
 <!ENTITY fxaccount_policy_linkprivacy 'Datenschutzhinweis'>
 
@@ -137,12 +135,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Erstellen Sie ein Firefox-Konto'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Ein Firefox-Konto erstellen'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mindestens 8 Zeichen'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Geburtsjahr'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Mit dem Fortfahren erklären Sie sich mit den &formatS1; und dem &formatS2; der Firefox-Online-Dienste einverstanden.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Mit dem Fortfahren erklären Sie sich mit den &formatS1; und dem &formatS2; der Firefox-Online-Dienste einverstanden.'>
 <!ENTITY fxaccount_create_account_button 'Weiter'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Zu synchronisierende Daten auswählen'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Haben Sie bereits ein Konto? Melden Sie sich an.'>
@@ -173,7 +171,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Anmelden'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Anmeldung schlug fehl'>
 
-<!ENTITY fxaccount_status_header 'Firefox-Konto'>
+<!ENTITY fxaccount_status_header2 'Firefox-Konto'>
+<!ENTITY fxaccount_status_signed_in_as 'Angemeldet als'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: Aktiviert'>
 <!ENTITY fxaccount_status_needs_verification2 'Ihr Konto muss verifiziert werden. Tippen Sie hier zum erneuten Senden der Verifizierungs-E-Mail.'>
@@ -184,16 +183,22 @@
 <!ENTITY fxaccount_status_passwords 'Passwörter'>
 <!ENTITY fxaccount_status_tabs 'Offene Tabs'>
 <!ENTITY fxaccount_status_legal 'Rechtliches' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Nutzungsbedingungen'>
+<!ENTITY fxaccount_status_linkprivacy 'Datenschutzhinweis'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; - Einstellungen'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; konfigurieren'>
 
@@ -214,5 +219,5 @@
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ist nicht verbunden'>
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tippen Sie hier, um sich mit &formatS; anzumelden.'>
