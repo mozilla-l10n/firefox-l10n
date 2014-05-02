@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Meddelelsesindhold">
+
+<!ENTITY acceptRemoteContent.label "Tillad eksternt indhold i meddelelser">
+<!ENTITY acceptRemoteContent.accesskey "T">
+<!ENTITY remoteContentExceptions.label "Undtagelser…">
+<!ENTITY remoteContentExceptions.accesskey "U">
+<!ENTITY acceptRemoteContentInfo.label "Læs mere om problemer med privatliv i forbindelse med eksternt indhold">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webindhold">
+
+<!ENTITY acceptCookies.label "Accepter cookies fra websteder">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Accepter tredjeparts cookies:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Altid">
+<!ENTITY acceptThirdParty.never.label "Aldrig">
+<!ENTITY acceptThirdParty.visited.label "Fra besøgte">
+<!ENTITY keepUntil.label "Behold indtil:">
+<!ENTITY keepUntil.accesskey "B">
+<!ENTITY expire.label "de udløber">
+<!ENTITY close.label "jeg lukker &brandShortName;">
+<!ENTITY askEachTime.label "spørg mig hver gang">
+<!ENTITY cookieExceptions.label "Undtagelser…">
+<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY showCookies.label "Vis cookies…">
+<!ENTITY showCookies.accesskey "V">
+
+<!ENTITY dntTrackingNopref.label2 "Fortæl ikke websteder, om jeg vil spores eller ej">
+<!ENTITY dntTrackingNopref.accesskey "F">
+<!ENTITY dntTrackingNotOkay.label2 "Fortæl websteder, at jeg ikke vil spores">
+<!ENTITY dntTrackingNotOkay.accesskey "o">
+<!ENTITY dntTrackingOkay.label2 "Fortæl websteder, at jeg vil spores">
+<!ENTITY dntTrackingOkay.accesskey "r">
+<!ENTITY doNotTrackInfo.label "Læs mere om sporing">
+
