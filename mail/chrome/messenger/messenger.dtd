@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Prijať/Synchronizovať…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Nastavenie režimu offline…">
-<!ENTITY settingsOfflineCmd.accesskey "N">
+<!ENTITY settingsOfflineCmd2.label "Nastavenie režimu offline">
+<!ENTITY settingsOfflineCmd2.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Prijať vybrané správy">
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadStarredCmd.label "Prijať správy s hviezdičkou">
@@ -631,12 +631,12 @@
 <!ENTITY folderContextSubscribe.accesskey "P">
 <!ENTITY folderContextSearchForMessages.label "Hľadať v správach…">
 <!ENTITY folderContextSearchForMessages.accesskey "H">
-<!ENTITY folderContextProperties.label "Vlastnosti…">
-<!ENTITY folderContextProperties.accesskey "l">
+<!ENTITY folderContextProperties2.label "Vlastnosti">
+<!ENTITY folderContextProperties2.accesskey "l">
 <!ENTITY folderContextFavoriteFolder.label "Priečinok Obľúbené">
 <!ENTITY folderContextFavoriteFolder.accesskey "b">
-<!ENTITY folderContextSettings.label "Nastavenie…">
-<!ENTITY folderContextSettings.accesskey "s">
+<!ENTITY folderContextSettings2.label "Nastavenie">
+<!ENTITY folderContextSettings2.accesskey "s">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Meno alebo Email obsahuje:">
