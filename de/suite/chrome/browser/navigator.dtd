@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Fertig">
 
 <!ENTITY popupIcon.tooltiptext      "Pop-ups von dieser Website nicht mehr blockieren">
+
+<!ENTITY viewSecurityInfo.label      "Sicherheitsinformationen anzeigen">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "Zertifikat ansehen">
+<!ENTITY viewCertificate.accesskey   "Z">
+<!ENTITY viewCertManager.label       "Zertifikat-Manager öffnen">
+<!ENTITY viewCertManager.accesskey   "M">

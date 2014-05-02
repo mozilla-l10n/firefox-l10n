@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Als Zitat einfügen">
 <!ENTITY pasteAsQuotationCmd.accesskey "Z">
 <!ENTITY pasteAsQuotationCmd.key "Z">
-<!ENTITY findCmd.label "Suchen und ersetzen…">
+<!ENTITY findBarCmd.label "Suchen…">
+<!ENTITY findReplaceCmd.label "Suchen und ersetzen…">
 <!ENTITY enableInlineSpellChecker.label "Sofort-Rechtschreibprüfung">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Formel…">
+<!ENTITY insertMathCmd.accesskey "F">
 <!ENTITY insertCharsCmd.label "Schriftzeichen und Symbole…">
 <!ENTITY insertCharsCmd.accesskey "c">
 <!ENTITY insertBreakAllCmd.label "Neue Zeile unter Grafik(en)">

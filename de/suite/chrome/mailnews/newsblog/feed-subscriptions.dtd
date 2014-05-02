@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Die Artikel-Zusammenfassung anzeigen, anstatt die Webseite zu laden">
 <!ENTITY quickMode.accesskey         "Z">
 
+<!ENTITY autotagEnable.label         "Automatisch Tags aus Feed-&lt;category&gt;-Namen erstellen">
+<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Tags beginnen mit:">
+<!ENTITY autotagUsePrefix.accesskey  "b">
+<!ENTITY autoTagPrefix.placeholder   "Geben Sie ein Tag-Präfix an">
+
 <!ENTITY locationValidate.label      "Validieren">
 <!ENTITY validateText.label          "Validierung überprüfen und eine gültige URL beziehen.">
 
