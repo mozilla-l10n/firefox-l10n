@@ -563,8 +563,6 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Zobraziť vzdialený obsah v tejto správe">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
-<!ENTITY remoteContentOptionAllowForAddress.label "Vždy zobraziť vzdialený obsah od tohto odosielateľa">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "d">
 <!ENTITY editRemoteContentSettings.label "Upraviť nastavenia pre vzdialený obsah…">
 <!ENTITY editRemoteContentSettings.accesskey "U">
 <!ENTITY editRemoteContentSettingsUnix.label "Upraviť nastavenia pre vzdialený obsah…">
