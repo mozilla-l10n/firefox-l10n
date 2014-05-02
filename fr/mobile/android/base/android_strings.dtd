@@ -367,7 +367,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
 <!ENTITY learn_more "En savoir plus">
 <!ENTITY enable_protection "Activer la protection">
-<!ENTITY disable_protection "Désaciver la protection">
+<!ENTITY disable_protection "Désactiver la protection">
 <!ENTITY keep_blocking "Poursuivre le blocage">
 
 <!ENTITY private_data_success "Données personnelles effacées">
