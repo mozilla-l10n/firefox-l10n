@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Find og erstat…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "e">
+<!ENTITY findBarCmd.label "Søg…">
+<!ENTITY findBarCmd.accesskey "ø">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Søg og erstat…">
+<!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Find næste">
 <!ENTITY findAgainCmd.key "G">
@@ -180,12 +182,11 @@
 <!ENTITY addressBookCmd.label "Adressebog">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-
-<!ENTITY accountManagerCmd.label "Kontoindstillinger…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "t">
-<!ENTITY preferencesCmd.label "Indstillinger…">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY accountManagerCmd2.label "Kontoindstillinger">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "t">
+<!ENTITY preferencesCmd2.label "Indstillinger">
+<!ENTITY preferencesCmd2.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
