@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "O">
 <!ENTITY recentFolders.label "Najnovšie">
 <!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Kompaktné zobrazenie">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Usporiadať podľa">
