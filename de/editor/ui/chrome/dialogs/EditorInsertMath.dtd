@@ -9,13 +9,13 @@
 
 <!ENTITY options.label "Optionen">
 <!ENTITY optionInline.label "Eingebetteter Modus">
-<!ENTITY optionInline.accesskey "E">
+<!ENTITY optionInline.accesskey "b">
 <!ENTITY optionDisplay.label "Anzeigemodus">
 <!ENTITY optionDisplay.accesskey "A">
 <!ENTITY optionLTR.label "Richtung: Von links nach rechts">
-<!ENTITY optionLTR.accesskey "l">
+<!ENTITY optionLTR.accesskey "u">
 <!ENTITY optionRTL.label "Richtung: Von rechts nach links">
-<!ENTITY optionRTL.accesskey "r">
+<!ENTITY optionRTL.accesskey "R">
 
 <!ENTITY example.label "Beispiel:">
 <!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
