@@ -179,7 +179,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuButton.label          "Menu">
 <!ENTITY appMenuButton.tooltip        "Ouvrir le menu &brandShortName;">
 <!ENTITY homeButton.label             "Accueil">
-<!ENTITY tabGroupsButton.label        "Groupes d'onglets">
+<!ENTITY tabGroupsButton.label        "&#xad;Groupes d'onglets">
 <!ENTITY tabGroupsButton.tooltip      "Organiser les onglets par groupes">
 
 <!ENTITY feedButton.label             "S'abonner">
