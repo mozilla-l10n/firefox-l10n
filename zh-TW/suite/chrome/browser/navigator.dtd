@@ -74,3 +74,10 @@
 
 <!ENTITY popupIcon.tooltiptext      "不再阻擋這個網站的彈出型視窗 (Popup)">
 
+<!ENTITY viewSecurityInfo.label      "檢視安全資訊">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "檢視憑證">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "開啟憑證管理員">
+<!ENTITY viewCertManager.accesskey   "M">
+

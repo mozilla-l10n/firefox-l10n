@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 '需要驗證您的帳號，請點擊此處以重寄驗證郵件。'>
 <!ENTITY fxaccount_status_needs_credentials '無法連線，點擊以登入。'>
 <!ENTITY fxaccount_status_needs_upgrade '您需要升級 &brandShortName; 才能登入。'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定 &gt; 帳號與同步處理開啟「自動同步」。'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。點擊此處開始同步。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
 <!ENTITY fxaccount_status_history '歷史記錄'>
 <!ENTITY fxaccount_status_passwords '密碼'>

@@ -7,6 +7,8 @@
 <!ENTITY filterName.label "篩選器(Filter)名稱:">
 <!ENTITY filterName.accesskey "i">
 
+<!ENTITY recentFolders.label "最近">
+
 <!ENTITY junk.label "垃圾郵件">
 <!ENTITY notJunk.label "非垃圾信">
 

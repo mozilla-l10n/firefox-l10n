@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "星期五" >
 <!ENTITY day.7.name "星期六" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "分">
-<!ENTITY calendar.global.units.minutes  "分">
-<!ENTITY calendar.global.units.hour     "時">
-<!ENTITY calendar.global.units.hours    "時">
-<!ENTITY calendar.global.units.day      "日">
-<!ENTITY calendar.global.units.days     "日">
-
 <!ENTITY month.1.name "一月" >
 <!ENTITY month.2.name "二月" >
 <!ENTITY month.3.name "三月" >
