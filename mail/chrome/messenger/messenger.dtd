@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "b">
 <!ENTITY synchronizeOfflineCmd.label "Íosluchtaigh/Sioncronaigh Anois…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd2.label "Offline Settings">
+<!ENTITY settingsOfflineCmd2.label "Socruithe As Líne">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Faigh Teachtaireachtaí Roghnaithe">
 <!ENTITY downloadSelectedCmd.accesskey "R">
@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "R">
 <!ENTITY folderPropsCmd2.label "Airíonna">
 <!ENTITY folderPropsFolderCmd2.label "Airíonna Fillteáin">
-<!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
+<!ENTITY folderPropsNewsgroupCmd2.label "Airíonna an Ghrúpa Nuachta">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Cealaigh Scriosadh Teachtaireachta">
 <!ENTITY redoDeleteMsgCmd.label "Athfheidhmigh Scriosadh Teachtaireachta">
@@ -160,8 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Le Déanaí">
 <!ENTITY recentFolders.accesskey "L">
-<!ENTITY compactVersion.label "Compact View">
-<!ENTITY compactVersion.accesskey "C">
+<!ENTITY compactVersion.label "Dlúthamharc">
+<!ENTITY compactVersion.accesskey "D">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -461,8 +461,8 @@
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Message Filters">
-<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY filtersCmd2.label "Scagairí Teachtaireachta">
+<!ENTITY filtersCmd2.accesskey "S">
 <!ENTITY filtersApply.label "Rith Scagairí ar an Fhillteán">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Rith Scagairí ar Theachtaireachtaí Roghnaithe">
@@ -480,7 +480,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
 <!ENTITY clearRecentHistory.accesskey "S">
-<!ENTITY accountManagerCmd2.label "Account Settings">
+<!ENTITY accountManagerCmd2.label "Socruithe an Chuntais">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
@@ -631,7 +631,7 @@
 <!ENTITY folderContextProperties2.accesskey "A">
 <!ENTITY folderContextFavoriteFolder.label "Mo Rogha Fillteán">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings2.label "Settings">
+<!ENTITY folderContextSettings2.label "Socruithe">
 <!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
@@ -704,7 +704,7 @@
 <!ENTITY contextOpenNewTab.accesskey "C">
 <!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
 <!ENTITY contextOpenConversation.accesskey "r">
-<!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
+<!ENTITY contextOpenContainingFolder.label "Oscail Teachtaireacht ina Fillteán">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY contextEditMsgAsNew.accesskey "E">

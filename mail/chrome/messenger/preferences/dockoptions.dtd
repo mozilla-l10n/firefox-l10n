@@ -7,9 +7,9 @@
 
 <!ENTITY bounceSystemDockIcon.label "Animate the app icon when a new message arrives">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesCountDock.label "Count of new messages">
+<!ENTITY newMessagesCountDock.label "Líon na dteachtaireachtaí nua">
 <!ENTITY newMessagesCountDock.accesskey "n">
-<!ENTITY showAllUnreadMessagesCount.label "Count of unread messages">
-<!ENTITY showAllUnreadMessagesCount.accesskey "u">
+<!ENTITY showAllUnreadMessagesCount.label "Líon na dteachtaireachtaí gan léamh">
+<!ENTITY showAllUnreadMessagesCount.accesskey "o">
 <!ENTITY dockIconBadge.label "App icon badge">
 <!ENTITY dockIconShow.label "Badge app icon with:">

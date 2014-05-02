@@ -28,8 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cárta Pearsanta (v-Chárta)">
 <!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY remindLater.label "Remind Me Later">
-<!ENTITY remindLater.accesskey "L">
+<!ENTITY remindLater.label "Meabhraigh Dom Níos Déanaí">
+<!ENTITY remindLater.accesskey "N">
 <!ENTITY closeCmd.label "Dún">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "D">
@@ -88,11 +88,11 @@
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "U">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.label "Aimsigh…">
+<!ENTITY findBarCmd.accesskey "A">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Find and Replace…">
-<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.label "Aimsigh agus Ionadaigh…">
+<!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Aimsigh Arís">
 <!ENTITY findAgainCmd.accesskey "m">
@@ -182,7 +182,7 @@
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Account Settings">
+<!ENTITY accountManagerCmd2.label "Socruithe an Chuntais">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Roghanna">

@@ -24,14 +24,14 @@ sentence. -->
 <!ENTITY sendTyping.accesskey "d">
 
 <!ENTITY chatNotifications.label "When messages directed at you arrive:">
-<!ENTITY desktopChatNotifications.label "Show a notification">
-<!ENTITY desktopChatNotifications.accesskey "c">
-<!ENTITY chatSound.accesskey "d">
-<!ENTITY chatSound.label "Play a sound">
+<!ENTITY desktopChatNotifications.label "Taispeáin fógra">
+<!ENTITY desktopChatNotifications.accesskey "g">
+<!ENTITY chatSound.accesskey "m">
+<!ENTITY chatSound.label "Seinn fuaim">
 <!ENTITY play.label "Seinn">
 <!ENTITY play.accesskey "S">
-<!ENTITY systemSound.label "Default system sound for new mail">
-<!ENTITY systemSound.accesskey "D">
+<!ENTITY systemSound.label "Fuaim réamhshocraithe ar an gcóras le haghaidh ríomhphoist nua">
+<!ENTITY systemSound.accesskey "r">
 <!ENTITY customsound.label "Úsáid an comhad fuaime seo">
 <!ENTITY customsound.accesskey "u">
 <!ENTITY browse.label "Brabhsáil…">
