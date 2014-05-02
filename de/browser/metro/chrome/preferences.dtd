@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive Logins">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Passwörter speichern">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Navigations-Schaltflächen anzeigen">
 <!ENTITY doNotTrack.title                                        "Verfolgung von Nutzeraktivitäten">
 <!ENTITY doNotTrack.options.doNotTrack                           "Websites mitteilen, meine Aktivitäten nicht zu verfolgen">
 <!ENTITY doNotTrack.options.doTrack                              "Websites mitteilen, meine Aktivitäten zu verfolgen">

@@ -62,7 +62,7 @@
 <!ENTITY redirectLoop.title "Umleitungsschleife">
 <!ENTITY redirectLoop.longDesc "<p>Der Verbindungsversuch zur aufgerufenen Adresse wurde abgebrochen. Die aufgerufene Website leitet die Anfrage so um, dass sie nie beendet werden kann.</p><ul><li>Haben Sie Cookies, die von dieser Website benötigt werden, deaktiviert oder blockiert?</li><li><em>HINWEIS</em>: Falls das Akzeptieren von Cookies die Probleme mit der aufgerufenen Adresse nicht behebt, handelt es sich vermutlich um eine Fehlkonfiguration des Servers und nicht um einen Fehler Ihres Computers.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Inkorrekte Antwort">
+<!ENTITY unknownSocketType.title "Ungültige Antwort">
 <!ENTITY unknownSocketType.longDesc "<p>Die aufgerufene Website hat in einer unerwarteten Art geantwortet, sodass die Verbindung nicht fortgesetzt werden kann.</p>">
 
 <!ENTITY nssFailure2.title "Sichere Verbindung fehlgeschlagen">
@@ -94,7 +94,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Die Seite, die Sie anzusehen versuchen, kann nicht angezeigt werden, da ein Fehler in der Datenübertragung festgestellt wurde.</p><ul><li>Bitte kontaktieren Sie die Website-Betreiber, um sie über dieses Problem zu verständigen.</li></ul>">
 
 <!ENTITY remoteXUL.title "Externes XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte kontaktieren Sie die Inhaber der Website, um Sie über dieses Problem zu informieren.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte kontaktieren Sie die Inhaber der Website, um sie über dieses Problem zu informieren.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
