@@ -565,6 +565,10 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
 <!ENTITY remoteContentOptionAllowForAddress.label "Vždy zobraziť vzdialený obsah od tohto odosielateľa">
 <!ENTITY remoteContentOptionAllowForAddress.accesskey "d">
+<!ENTITY editRemoteContentSettings.label "Upraviť nastavenia pre vzdialený obsah…">
+<!ENTITY editRemoteContentSettings.accesskey "U">
+<!ENTITY editRemoteContentSettingsUnix.label "Upraviť nastavenia pre vzdialený obsah…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "U">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorovať upozornenie pre túto správu">
