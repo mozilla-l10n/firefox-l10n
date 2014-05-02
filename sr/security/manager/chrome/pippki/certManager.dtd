@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Провера сертификата је у току…">
 <!ENTITY certmgr.subjectinfo.label            "Издато за">
 <!ENTITY certmgr.issuerinfo.label             "Издато од">
-<!ENTITY certmgr.validity.label               "Стваран" >
+<!ENTITY certmgr.periodofvalidity.label       "Период важења" >
 <!ENTITY certmgr.fingerprints.label           "Отисак кључа">
 <!ENTITY certmgr.certdetail.title             "Детаљи сертификата">
 <!ENTITY certmgr.certdetail.cn                "Општи назив">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Сервер">
 <!ENTITY certmgr.override_lifetime            "Животни век">
 <!ENTITY certmgr.tokenname                    "Безбедносни уређај">
-<!ENTITY certmgr.issued                       "Издато">
+<!ENTITY certmgr.begins                       "Важи од">
 <!ENTITY certmgr.expires                      "Истиче">
 <!ENTITY certmgr.email                        "Адреса е-поште">
 <!ENTITY certmgr.serial                       "Серијски број">
