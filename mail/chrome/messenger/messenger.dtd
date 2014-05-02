@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Hent/Synkroniser nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Offline-indstillinger…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd2.label "Offline-indstillinger">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Hent valgte meddelelser">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Hent stjernemarkerede meddelelser">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Favoritmappe">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Egenskaber…">
-<!ENTITY folderPropsFolderCmd.label "Mappeegenskaber…">
-<!ENTITY folderPropsNewsgroupCmd.label "Nyhedsgruppens egenskaber…">
+<!ENTITY folderPropsCmd2.label "Egenskaber">
+<!ENTITY folderPropsFolderCmd2.label "Mappeegenskaber">
+<!ENTITY folderPropsNewsgroupCmd2.label "Nyhedsgruppens egenskaber">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Fortryd slet meddelelsen">
 <!ENTITY redoDeleteMsgCmd.label "Gentag slet meddelelsen">
@@ -160,6 +160,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Seneste">
 <!ENTITY recentFolders.accesskey "e">
+<!ENTITY compactVersion.label "Kompakt visning">
+<!ENTITY compactVersion.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter efter">
@@ -465,8 +467,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY savedFiles.label "Gemte filer">
 <!ENTITY savedFiles.accesskey "G">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Meddelelsesfiltre…">
-<!ENTITY filtersCmd.accesskey "f">
+<!ENTITY filtersCmd2.label "Meddelelsesfiltre">
+<!ENTITY filtersCmd2.accesskey "f">
 <!ENTITY filtersApply.label "Kør filtre på mappe">
 <!ENTITY filtersApply.accesskey "K">
 <!ENTITY filtersApplyToSelection.label "Kør filtre på valgte meddelelser">
@@ -484,11 +486,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ryd seneste historik…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd.label "Kontoindstillinger…">
-<!ENTITY accountManagerCmd.accesskey "o">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Kontoindstillinger">
+<!ENTITY accountManagerCmd2.accesskey "o">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillad remote debugging">
 <!ENTITY allowRemoteDebugging.accesskey "r">
 
@@ -570,8 +572,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt indhold i denne meddelelse">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
-<!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt indhold fra denne afsender">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "i">
+<!ENTITY editRemoteContentSettings.label "Indstillinger for redigering af eksternt indhold…">
+<!ENTITY editRemoteContentSettings.accesskey "I">
+<!ENTITY editRemoteContentSettingsUnix.label "Præferencer for redigering af eksternt indhold…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "P">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meddelelse">
@@ -630,12 +634,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "Søg i meddelelser…">
 <!ENTITY folderContextSearchForMessages.accesskey "g">
-<!ENTITY folderContextProperties.label "Egenskaber…">
-<!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextProperties2.label "Egenskaber">
+<!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoritmapper">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextSettings.label "Indstillinger…">
-<!ENTITY folderContextSettings.accesskey "n">
+<!ENTITY folderContextSettings2.label "Indstillinger">
+<!ENTITY folderContextSettings2.accesskey "I">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Navn eller mail">
@@ -703,6 +707,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Åbn meddelelsen i korrespondancevisning">
 <!ENTITY contextOpenConversation.accesskey "Å">
+<!ENTITY contextOpenContainingFolder.label "Åbn meddelelsen i dens mappe">
+<!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny meddelelse">
 <!ENTITY contextEditMsgAsNew.accesskey "y">
 <!ENTITY contextArchive.label "Arkiver">
@@ -886,7 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Indstillinger…">
+<!ENTITY preferencesCmdMac2.label       "Indstillinger">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tjenester">

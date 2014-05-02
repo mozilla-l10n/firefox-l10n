@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Mailsvindel">
 <!ENTITY itemPasswords.label     "Adgangskoder">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Webindhold">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Du kan redigere kontospecifikke spam-indstillinger i vinduet Kontoindstillinger.">
@@ -46,21 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan gøre det lettere for antivirusprogrammer at analysere indkommende meddelelser for virus, før de gemmes lokalt.">
 <!ENTITY antiVirus.label      "Tillad antivirusprogrammer at sætte indkommende meddelelser i karantæne">
 <!ENTITY antiVirus.accesskey  "T">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lader dig specificere, hvilke blogs, feeds og andre websteder der har lov til at gemme cookies.">
-<!ENTITY acceptCookies.label            "Accepter cookies fra websteder">
-<!ENTITY acceptCookies.accesskey        "A">
-<!ENTITY keepUntil.label                "Behold indtil:">
-<!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "De udløber">
-<!ENTITY close.label                    "Jeg lukker &brandShortName;">
-<!ENTITY askEachTime.label              "Spørg mig hver gang">
-<!ENTITY cookieExceptions.label         "Undtagelser…">
-<!ENTITY cookieExceptions.accesskey     "U">
-<!ENTITY showCookies.label              "Vis cookies…">
-<!ENTITY showCookies.accesskey          "V">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Fortæl websteder, at jeg ikke vil spores">
-<!ENTITY doNotTrack.accesskey           "F">
