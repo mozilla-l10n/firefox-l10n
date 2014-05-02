@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "顯示文章摘要而非載入網頁">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "自動依照資訊來源的 &lt;category&gt; 名稱建立分類標籤">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "為標籤加上前綴:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "輸入標籤前綴">
+
 <!ENTITY locationValidate.label      "驗證">
 <!ENTITY validateText.label          "確認是否有效並回傳有效的網址。">
 

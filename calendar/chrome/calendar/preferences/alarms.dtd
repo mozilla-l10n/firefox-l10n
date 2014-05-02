@@ -34,3 +34,6 @@
 <!ENTITY pref.defaultemail.label "郵寄鬧鈴的預設地址:">
 <!ENTITY pref.defaulttext.label "鬧鈴預設的文字:">
 
+<!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
+

@@ -54,7 +54,7 @@
 <!ENTITY back "上一頁">
 <!ENTITY stop "停止">
 <!ENTITY site_security "網站安全">
-<!ENTITY save "儲存">
+<!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY one_tab "一個分頁">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "個人隱私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "資料選擇">
+<!ENTITY pref_learn_more "詳細資訊">
 <!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
 <!ENTITY pref_category_add_search_providers "新增更多搜尋引擎">
 <!ENTITY pref_category_search_restore_defaults "還原搜尋引擎">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
-<!ENTITY pref_developer_remotedebugging_docs "詳細資訊">
 <!ENTITY pref_remember_signons "記住密碼">
 
 <!ENTITY pref_category_home "首頁">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
-<!ENTITY pref_private_data_history "瀏覽與下載紀錄">
+<!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
 <!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
 <!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
 <!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings2 "網站設定">
-<!ENTITY pref_private_data_downloadFiles "已下載的檔案">
+<!ENTITY pref_private_data_downloadFiles2 "下載項目">
 
 
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "顯示">
 <!ENTITY pref_panels_hide "隱藏">
+<!ENTITY pref_panels_reorder "修改順序">
+<!ENTITY pref_panels_move_up "上移">
+<!ENTITY pref_panels_move_down "下移">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
 <!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
-<!ENTITY datareporting_wifi_title "&vendorShortName; 地理位置服務">
-<!ENTITY datareporting_wifi_summary "請讓 &brandShortName; 取得並匿名地傳送數據網路的基地台資料，幫助我們改善開放網路的地理位置">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
+<!ENTITY datareporting_wifi_geolocation_summary "在背景執行時接收 Wi-Fi 與基地台位置資料，並分享到 &vendorShortName; 以幫助改善我們的定位服務">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
-<!ENTITY reading_list_add "新增至閱讀清單">
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
@@ -338,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "找不到此面板的內容。">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "&formatS; 的上面">
 
 <!ENTITY pin_site_dialog_hint "輸入搜尋關鍵字">
 
@@ -414,6 +420,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; 現在將會重新啟動">
 <!ENTITY exit_guest_session_text "此瀏覽階段中的瀏覽資料將會被清除。">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "電子郵件:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "此郵件包含事件的邀請。">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "接受">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "接受事件邀請">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "全部接受">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "接受重複的事件當中所有事件的邀請">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "新增">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "將活動新增至行事曆">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "拒絕">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "拒絕事件邀請">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "全部拒絕">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "拒絕重複的事件當中所有事件的邀請">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "刪除">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "自行事曆刪除">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "詳細資訊…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "顯示活動詳情">
+<!ENTITY lightning.imipbar.btnMore.label                                    "更多">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "點擊此處顯示更多選項">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新確認">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "傳送重新確認通知給主辦人">
+<!ENTITY lightning.imipbar.btnTentative.label                               "暫定">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "暫時接受事件邀請">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "暫定接受參與所有活動">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "暫時接受重複的事件當中所有事件的邀請">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "更新">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "更新行事曆中的活動">
+<!ENTITY lightning.imipbar.description                                      "此郵件包含事件的邀請。">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

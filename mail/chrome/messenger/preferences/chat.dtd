@@ -23,3 +23,18 @@ sentence. -->
 <!ENTITY  sendTyping.label              "在對話中傳送正在輸入的通知">
 <!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  chatNotifications.label             "收到只傳給您的私訊時:">
+<!ENTITY  desktopChatNotifications.label      "顯示通知">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "播放音效">
+<!ENTITY  play.label                          "播放">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "系統預設音效">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "使用下列音效檔案">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "瀏覽…">
+<!ENTITY  browse.accesskey                    "B">
+
+
