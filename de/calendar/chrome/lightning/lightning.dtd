@@ -41,27 +41,27 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                        "Akzeptieren">
-<!ENTITY lightning.imipbar.btnAccept.tooltiptext                  "Terminteilnahme akzeptieren">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                 "Termineinladung akzeptieren">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label             "Alle akzeptieren">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences.tooltiptext       "Terminteilnahme für alle Wiederholungen des Termins akzeptieren">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext      "Termineinladung für alle Ereignisse des Termins akzeptieren">
 <!ENTITY lightning.imipbar.btnAdd.label                           "Hinzufügen">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                     "Termin zum Kalender hinzufügen">
 <!ENTITY lightning.imipbar.btnDecline.label                       "Ablehnen">
-<!ENTITY lightning.imipbar.btnDecline.tooltiptext                 "Terminteilnahme ablehnen">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                "Termineinladung ablehnen">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label            "Alle ablehnen">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences.tooltiptext      "Terminteilnahme für alle Wiederholungen des Termins ablehnen">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext     "Termineinladung für alle Ereignisse des Termins ablehnen">
 <!ENTITY lightning.imipbar.btnDelete.label                        "Löschen">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                  "Aus Kalender löschen">
 <!ENTITY lightning.imipbar.btnDetails.label                       "Details…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                 "Termindetails anzeigen">
 <!ENTITY lightning.imipbar.btnMore.label                          "Mehr">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                    "Klicken, um mehr Optionen anzuzeigen">
-<!ENTITY lightning.imipbar.btnReconfirm.label                     "Senden">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                    "Erneut bestätigen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext               "Erneute Bestätigung an Organisator senden">
 <!ENTITY lightning.imipbar.btnTentative.label                     "Vorläufig">
-<!ENTITY lightning.imipbar.btnTentative.tooltiptext               "Terminteilnahme vorläufig akzeptieren">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext              "Termineinladung vorläufig akzeptieren">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label          "Alle vorläufig">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.tooltiptext    "Terminteilnahme vorläufig für alle Wiederholungen des Termins akzeptieren">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext   "Termineinladung vorläufig für alle Ereignisse des Termins akzeptieren">
 <!ENTITY lightning.imipbar.btnUpdate.label                        "Aktualisierung">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                  "Termin in Kalender aktualisieren">
 <!ENTITY lightning.imipbar.description                            "Diese Nachricht enthält eine Termineinladung.">
