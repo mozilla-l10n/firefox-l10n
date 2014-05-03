@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "r">
 <!ENTITY warn.leavingsecure                 "Elhagyna egy titkosított oldalt">
 <!ENTITY warn.leavingsecure.accesskey       "l">
-<!ENTITY warn.viewmixed                     "Betöltene egy titkosított és nem titkosított elemeket vegyesen tartalmazó oldalt">
-<!ENTITY warn.viewmixed.accesskey           "n">
 
+<!ENTITY mixed.description                  "A titkosított oldalak tartalmazhatnak tikosítatlan tartalmakat, amelyek ki vannak téve lehallgatásnak vagy visszaéléseknek. A &brandShortName; képes ezt érzékelni és blokkolni:">
 <!ENTITY warn.mixedactivecontent            "Figyelmeztetés, ha a titkosított oldalak nem biztonságos elemeket tartalmaznak">
 <!ENTITY warn.mixedactivecontent.accesskey  "F">
 <!ENTITY block.activecontent                "Ne töltse be a nem biztonságos leemeket a titkosított oldalakon">
