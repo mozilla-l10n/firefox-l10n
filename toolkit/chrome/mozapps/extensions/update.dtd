@@ -57,7 +57,7 @@
 
 <!ENTITY  installerrors.wizard.title      "Проблеми при постављању надоградњи">
 <!ENTITY  installerrors.intro.label       "Програм &brandShortName; је наишао на проблеме при надоградњи
-                                           неких од Ваших додатака."
+                                           неких од Ваших додатака.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Кликните на „Доврши“ како бисте наставили покретање програма &brandShortName;.">

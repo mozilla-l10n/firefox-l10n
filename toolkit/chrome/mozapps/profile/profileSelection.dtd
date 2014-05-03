@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Ради ван мреже">
 <!ENTITY            offlineState.accesskey "Р">
 
-<!ENTITY            autoSelect.label       "Не питај при следећем покретању">
-<!ENTITY            autoSelect.accesskey   "Н">
+<!ENTITY            useSelected.label       "Не питај при следећем покретању">
+<!ENTITY            useSelected.accesskey   "Н">
