@@ -176,6 +176,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜਾਂਚ ਈਮੇਲ ਮੁੜ-ਭੇਜਣ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_credentials 'ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_upgrade 'ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ &brandShortName; ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Tap to start syncing.'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
