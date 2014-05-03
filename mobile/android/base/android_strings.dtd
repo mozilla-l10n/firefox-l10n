@@ -54,7 +54,7 @@
 <!ENTITY back "Atrás">
 <!ENTITY stop "Detener">
 <!ENTITY site_security "Seguridad del sitio">
-
+<!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY one_tab "1 pestaña">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Import from Android">
-
+<!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_formdata "Historial de formularios y búsquedas">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio">
-
+<!ENTITY pref_private_data_downloadFiles2 "Descargas">
 
 
 <!ENTITY pref_about_firefox "About &brandShortName;">
@@ -179,9 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Show">
 <!ENTITY pref_panels_hide "Ocultar">
-
-
-
+<!ENTITY pref_panels_reorder "Cambiar el orden">
+<!ENTITY pref_panels_move_up "Mover arriba">
+<!ENTITY pref_panels_move_down "Mover abajo">
 
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName; ">
 <!ENTITY datareporting_notification_action_long "Elige la información que quieres compartir">
@@ -205,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informador de fallos">
-
-
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Servicios de Ubicación">
+<!ENTITY datareporting_wifi_geolocation_summary "Recibe Wi-Fi y datos de ubicación celular cuando esté operando en el fondo y lo comparte con &vendorShortName; para mejorar nuestros servicios de geolocalización.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -219,7 +219,7 @@ size. -->
 <!ENTITY quit "Quit">
 
 <!ENTITY addons "Complementos">
-
+<!ENTITY downloads "Descargas">
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Codificación de caracteres">
 
@@ -343,6 +343,8 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Navegar a &formatS;">
+
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
 
 <!ENTITY filepicker_title "Elegir archivo">
@@ -425,6 +427,8 @@ desde Android">
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
