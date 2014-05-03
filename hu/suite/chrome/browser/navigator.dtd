@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "Kész">
 
 <!ENTITY popupIcon.tooltiptext      "A webhely felugró ablakainak engedélyezése">
+
+<!ENTITY viewSecurityInfo.label      "Biztonsági adatok megtekintése">
+<!ENTITY viewSecurityInfo.accesskey  "B">
+<!ENTITY viewCertificate.label       "Tanúsítvány megtekintése">
+<!ENTITY viewCertificate.accesskey   "T">
+<!ENTITY viewCertManager.label       "Tanúsítványkezelő megnyitása">
+<!ENTITY viewCertManager.accesskey   "k">
