@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Egyezés bárhol, de a szöveghatárok előnyben részesítésével">
 <!ENTITY autoCompleteMatchWords                "Csak a szöveghatárokon">
 <!ENTITY autoCompleteMatchStart                "Csak a webhely helynek és címének elején">
+<!ENTITY showInternetSearch.label              "Alapértelmezett keresőszolgáltatás megjelenítése">
+<!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formátum">
 <!ENTITY domainFormatting.label                "Webhelyek és FTP-kiszolgálók tartománynevének jelzése">
 <!ENTITY domainFormatting.accesskey            "W">
-
-<!ENTITY searchEngine.label                    "Internetes keresőszolgáltatás">
-<!ENTITY showSearchEngine.label                "Alapértelmezett keresőszolgáltatás megjelenítése">
-<!ENTITY showSearchEngine.accesskey            "A">
+<!ENTITY highlightSecure.label                 "Weboldal kiemelése magas szintű kapcsolat biztonság esetén">
+<!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Ismeretlen helyek">
 <!ENTITY domainGuessing.label                  "„www.” és „.com” névtagok hozzáadása, ha a webhely nem található">
