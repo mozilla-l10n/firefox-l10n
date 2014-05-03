@@ -17,7 +17,7 @@
 <!ENTITY  button-cancel-unix.label     "Откажи">
 
 <!ENTITY  button-back-win.label        "&lt; Назад">
-<!ENTITY  button-back-win.accesskey    "B">
+<!ENTITY  button-back-win.accesskey    "Н">
 <!ENTITY  button-next-win.label        "Даље &gt;">
 <!ENTITY  button-next-win.accesskey    "Д">
 <!ENTITY  button-finish-win.label      "Доврши">

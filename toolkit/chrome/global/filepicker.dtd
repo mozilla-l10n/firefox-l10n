@@ -12,9 +12,9 @@
 <!ENTITY size.label             "Величина">
 <!ENTITY lastModified.label     "Последња измена">
 <!ENTITY showHiddenFiles.label  "Приказ сакривених датотека и директоријума">
-<!ENTITY showHiddenFiles.accesskey  "П">
+<!ENTITY showHiddenFiles.accesskey  "с">
 
-<!ENTITY noPermissionError.label "Немате потребну дозволу за преглед ове фасцикле.">
+<!ENTITY noPermissionError.label "Немате потребну дозволу за преглед овог директоријума.">
 
 <!ENTITY folderUp.tooltiptext   "Ниво изнад">
 <!ENTITY folderHome.tooltiptext "Почетак">

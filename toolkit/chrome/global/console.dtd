@@ -13,20 +13,20 @@
 <!ENTITY errors.label       "Грешке">
 <!ENTITY errors.accesskey   "Г">
 <!ENTITY warnings.label     "Упозорења">
-<!ENTITY warnings.accesskey "У">
+<!ENTITY warnings.accesskey "њ">
 <!ENTITY messages.label     "Поруке">
 <!ENTITY messages.accesskey "П">
 <!ENTITY clear.label        "Уклони">
-<!ENTITY clear.accesskey    "к">
+<!ENTITY clear.accesskey    "л">
 <!ENTITY codeEval.label     "Кôд:">
 <!ENTITY codeEval.accesskey "д">
 <!ENTITY evaluate.label     "Израчунај">
 <!ENTITY evaluate.accesskey "з">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+<!ENTITY filter2.label      "Филтер:">
+<!ENTITY filter2.accesskey  "Ф">
 
 <!ENTITY copyCmd.label       "Копирај">  
-<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.accesskey   "К"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Уреди по растућем редоследу">
 <!ENTITY sortFirst.accesskey "р">
