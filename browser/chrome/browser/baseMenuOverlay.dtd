@@ -65,5 +65,8 @@
 
 <!ENTITY helpKeyboardShortcuts.accesskey "υ">
 
+<!ENTITY helpShowTour.label             "Ξενάγηση στον &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "Ξ">
+
 
 

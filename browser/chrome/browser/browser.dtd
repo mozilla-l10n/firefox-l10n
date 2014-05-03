@@ -8,9 +8,6 @@
 
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY devToolbarMenu.accesskey          "ν">
-<!ENTITY devAppMgrMenu.label               "Διαχείριση εφαρμογών">
-<!ENTITY devToolbarOtherToolsButton.label  "Περισσότερα εργαλεία">
 <!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
 <!ENTITY emailPageCmd.accesskey       "λ">
 
@@ -30,25 +27,79 @@
 
 <!ENTITY social.toggleNotifications.label "Εμφάνιση ειδοποιήσεων συστήματος">
 <!ENTITY social.toggleNotifications.accesskey "φ">
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
+
+<!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και ων εργαλειοθηκών">
+<!ENTITY appMenuCustomizeExit.label "Έξοδος από την προσαρμογή">
+<!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
+<!ENTITY appmenu.tooltip                     "Άνοιγμα μενού">
+
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label     "Εργαλεία περιηγητή">
+<!ENTITY browserToolboxMenu.accesskey "γ">
 
 
+<!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
+<!ENTITY customizeMenu.addToToolbar.accesskey "θ">
+<!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
+<!ENTITY customizeMenu.addToPanel.accesskey "μ">
+<!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "τ">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Μετακίνηση στο μενού">
+<!ENTITY customizeMenu.moveToPanel.accesskey "ο">
+<!ENTITY customizeMenu.removeFromToolbar.label "Απομάκρυνση από την εργαλειοθήκη">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "ρ">
+<!ENTITY customizeMenu.removeFromMenu.label "Απομάκρυνση από το μενού">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "κ">
+<!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "ρ">
+
+
+
+<!ENTITY appMenuHelp.tooltip "Άνοιγμα Βοήθειας">
+<!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
+<!ENTITY appMenuHistory.label "Ιστορικό">
+<!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
+<!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
+<!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
 
 
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu2.label     "Καρτέλες από άλλες συσκευές">
 
 
-<!ENTITY devToolbarToolsButton.tooltip     "Εναλλαγή εμφάνισης εργαλείων ανάπτυξης">
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devAppMgrMenu.label               "App Manager">
+<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolboxMenuItem.label          "Εναλλαγή εμφάνισης εργαλείων">
-<!ENTITY devToolboxMenuItem.accesskey      "φ">
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
 
-<!ENTITY devtoolsConnect.label        "Σύνδεση…">
-<!ENTITY devtoolsConnect.accesskey    "δ">
+<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
+<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
+
 
 <!ENTITY closeWindow.accesskey "θ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου...">
@@ -371,8 +422,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY editPopupSettingsUnix.label "Επεξεργασία προτιμήσεων φραγής παραθύρων...">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Λήψη περισσότερων εργαλείων">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "ψ">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -391,8 +440,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsortedBookmarksCmd.label "Αταξινόμητοι σελιδοδείκτες">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY quitApplicationCmdMac.label    "Έξοδος">
 
@@ -678,7 +725,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY appMenuButton.tooltip        "Άνοιγμα μενού &brandShortName;">
 <!ENTITY appMenuSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
 <!ENTITY appMenuSafeMode.accesskey "κ">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY feedButton.label             "Συνδρομή">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
@@ -744,11 +790,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 
 
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Κλείσιμο Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
-
-<!ENTITY devToolbarMenu.accesskey          "v">
-
 
 
 
@@ -775,8 +816,6 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">
 
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY emailImageCmd.label          "Αποστολή εικόνας…">
 <!ENTITY emailImageCmd.accesskey      "σ">
