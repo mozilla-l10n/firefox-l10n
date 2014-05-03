@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ово може да Вам поништи гаранцију!">
 <!ENTITY aboutWarningText.label "Мењање ових напредних поставки може да нашкоди стабилности, безбедности и брзини овог програма. Наставите само ако сте сигурни да знате шта радите.">
 <!ENTITY aboutWarningButton.label "Пазићу">
@@ -14,18 +14,18 @@
 <!ENTITY searchPrefs.label "Тражи:">
 <!ENTITY searchPrefs.accesskey "р">
 <!ENTITY focusSearch.key "е">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Име својства">
 <!ENTITY lockColumn.label "Стање">
 <!ENTITY typeColumn.label "Тип">
 <!ENTITY valueColumn.label "Вредност">
+
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Притисните за сортирање">
+<!ENTITY columnChooser.tooltip "Кликните да изаберете колоне за приказ">
 
-<!ENTITY prefColumnHeader.tooltip "Притисните за ређање"> 
-<!ENTITY columnChooser.tooltip "Кликните да изаберете колоне за приказ"> 
 <!-- Context Menu -->
-
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копирај">
 <!ENTITY copyPref.accesskey "К">
@@ -46,4 +46,4 @@
 <!ENTITY integer.label "Цео број">
 <!ENTITY integer.accesskey "Ц">
 <!ENTITY boolean.label "Булово (boolean)">
-<!ENTITY boolean.accesskey "Б">
+<!ENTITY boolean.accesskey "л">
