@@ -4,8 +4,8 @@
 
 <!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey           "З">
-<!ENTITY findAgainCmd.commandkey        "В">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Назад">
@@ -20,7 +20,7 @@
 <!ENTITY selectAllCmd.accesskey         "И">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Мој календар">
+<!ENTITY homeButton.label               "Почетна страница">
 <!ENTITY homeButton.tooltip             "Иди на почетну страну помоћи">
 <!ENTITY printButton.label              "Штампање">
 <!ENTITY printButton.tooltip            "Штампај ову страну">
@@ -30,23 +30,22 @@
 <!ENTITY searchHeader.label             "Резултат претраге">
 <!ENTITY toctab.label                   "Садржај">
 <!ENTITY toctab.accesskey               "С">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey          "П">
+<!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "Увек на врху">
 <!ENTITY zLevel.accesskey               "У">
