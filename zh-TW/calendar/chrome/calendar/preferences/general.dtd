@@ -12,12 +12,24 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "長" >
 <!ENTITY pref.dateformat.short "短" >
-<!ENTITY pref.defaultlength.label "預設事件長度:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
 
-<!ENTITY pref.accessibility.label "其他輔助功能" >
+<!ENTITY pref.defaults.label "新項目的預設值">
+<!ENTITY pref.events.label "事件">
+<!ENTITY pref.tasks.label "工作">
+
+<!ENTITY pref.default_event_length.label "預設長度:" >
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_task_none.label "無">
+<!ENTITY pref.default_task_start_of_day.label "每日開始時間">
+<!ENTITY pref.default_task_end_of_day.label "每日結束時間">
+<!ENTITY pref.default_task_tomorrow.label "明天">
+<!ENTITY pref.default_task_next_week.label "下一週">
+<!ENTITY pref.default_task_offset_current.label "相對於目前時間">
+<!ENTITY pref.default_task_offset_start.label "相對於開始時間">
+<!ENTITY pref.default_task_offset_next_hour.label "相對於下一小時">
+
+<!ENTITY pref.accessibility.label "輔助功能" >
 <!ENTITY pref.systemcolors.label "使用較具親和力的色彩" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
