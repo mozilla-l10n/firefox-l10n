@@ -160,7 +160,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ਾ ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY feedButton.tooltip           "…ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY locationItem.title           "ਟਿਕਾਣਾ">
 <!ENTITY searchItem.title             "ਖੋਜ">

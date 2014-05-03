@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
+<!ENTITY pref_learn_more "Learn more">
 <!ENTITY pref_category_installed_search_engines "ਇੰਸਟਾਲ ਹੋਏ ਖੋਜ ਇੰਜਣ">
 <!ENTITY pref_category_add_search_providers "ਹੋਰ ਖੋਜ ਪਰੋਵਾਈਡਰ ਜੋੜੋ">
 <!ENTITY pref_category_search_restore_defaults "ਖੋਜ ਇੰਜਣ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
@@ -115,7 +116,7 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
-<!ENTITY pref_developer_remotedebugging_docs "ਹੋਰ ਜਾਣੋ">
+
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
