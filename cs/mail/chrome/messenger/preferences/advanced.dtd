@@ -73,7 +73,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Upozornit, pokud by aktualizace zakázala některé doplňky">
 <!ENTITY updateAutoAddonWarn.accesskey   "U">
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "b">
 
 <!ENTITY useService.label "K instalaci aktualizací použít službu na pozadí">
 <!ENTITY useService.accesskey "s">
