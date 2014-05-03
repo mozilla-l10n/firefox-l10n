@@ -1,6 +1,18 @@
 
 <!ENTITY aboutDialog.title          "Πληροφορίες για τον &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+<!ENTITY update.checkForUpdatesButton.label       "Έλεγχος για ενημερώσεις">
+<!ENTITY update.checkForUpdatesButton.accesskey   "γ">
+<!ENTITY update.updateButton.label                "Επανεκκίνηση για ενημέρωση">
+<!ENTITY update.updateButton.accesskey            "π">
+<!ENTITY update.applyButtonBillboard.label        "Εφαρμογή ενημέρωσης…">
+<!ENTITY update.applyButtonBillboard.accesskey    "φ">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "Αυτή η έκδοση του &brandShortName; είναι σε πειραματικό στάδιο και μπορεί να είναι ασταθής.">
@@ -42,8 +54,6 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Γίνεται έλεγχος για ενημερώσεις…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Γίνεται έλεγχος συμβατότητας προσθέτου…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Ο &brandShortName; είναι ενημερωμένος">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
