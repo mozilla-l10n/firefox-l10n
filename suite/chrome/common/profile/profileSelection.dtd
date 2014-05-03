@@ -17,3 +17,7 @@
 <!ENTITY            introStart.label         "A személyes profilja eléréséhez, amelyben a mentett üzenetei, beállításai és egyéb személyhez kötődő adatai tárolva vannak, válassza ki a listából a megfelelő profilt, és nyomja meg a &start.label; gombot a kezdéshez.">
 <!ENTITY            introSwitch.label        "Egy másik profilra váltáshoz, amelyben a mentett üzenetei, beállításai és egyéb személyhez kötődő adatai tárolva vannak, válassza ki a listából a megfelelő profilt, és nyomja meg a &select.label; gombot a kezdéshez.">
 <!ENTITY            profileManagerText.label "A &brandShortName; személyes profiljában tárolja el a beállításait, a könyvjelzőit, a mentett üzeneteit és egyéb személyhez kötődő adatait.">
+
+<!ENTITY            autoSelect.label         "Alapértelmezett ehhez a profilhoz">
+<!ENTITY            autoSelect.accesskey     "A">
+
