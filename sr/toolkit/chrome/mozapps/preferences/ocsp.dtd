@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ocspDialog.title             "Валидација сертификата">
-<!ENTITY enableOCSP.label             "Користи мрежни протокол за сертификацију (ОЦСП, OCSP) за потврду тренутне важности сертификата">
+<!ENTITY enableOCSP.label             "Користи мрежни протокол за сертификацију OCSP за потврду тренутне важности сертификата">
 <!ENTITY enableOCSP.accesskey         "К">
-<!ENTITY requireOCSP.label            "Када веза са сервером за ОЦСП не успе, сматрај да је сертификат неважећи">
-<!ENTITY requireOCSP.accesskey        "С">
+<!ENTITY requireOCSP.label            "Када веза са сервером за OCSP не успе, сматрај да је сертификат неважећи">
+<!ENTITY requireOCSP.accesskey        "а">

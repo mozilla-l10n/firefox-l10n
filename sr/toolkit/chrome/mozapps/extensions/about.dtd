@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  creator.label               "Аутор:">
-<!ENTITY  developers.label            "Развијачи:">
+<!ENTITY  developers.label            "Програмери:">
 <!ENTITY  translators.label           "Преводиоци:">
 <!ENTITY  contributors.label          "Приложници:">
-<!ENTITY  homepage.label              "Посети мрежну страну">
+<!ENTITY  homepage.label              "Посети почетну страницу">

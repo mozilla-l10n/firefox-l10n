@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "П">
 <!ENTITY            deleteButton.label     "Уклони профил…">
 <!ENTITY            deleteButton.accesskey "У">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и другим стварима у Вашем профилу.">
 
 <!ENTITY            offlineState.label    "Ради ван мреже">
