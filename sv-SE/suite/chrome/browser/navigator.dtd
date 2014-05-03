@@ -74,3 +74,10 @@
 <!ENTITY  statusText.label            "Dokument: Klart">
 
 <!ENTITY popupIcon.tooltiptext      "Tillåt den här webbplatsens extrafönster">
+
+<!ENTITY viewSecurityInfo.label      "Visa säkerhetsinformation">
+<!ENTITY viewSecurityInfo.accesskey  "s">
+<!ENTITY viewCertificate.label       "Visa certifikat">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Öppna certifikatshanteraren">
+<!ENTITY viewCertManager.accesskey   "h">
