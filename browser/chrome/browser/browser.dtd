@@ -131,7 +131,6 @@
 <!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
 <!ENTITY printButton.label "Печать">
-<!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
@@ -151,7 +150,6 @@
 <!ENTITY keywordfield.label "Добавить краткое имя для данного поиска…">
 <!ENTITY keywordfield.accesskey "с">
 <!ENTITY downloads.label "Загрузки">
-<!ENTITY downloads.tooltip "Показать ход текущих загрузок">
 <!ENTITY downloads.accesskey "З">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -419,10 +417,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Масштаб">
 <!ENTITY fullZoom.accesskey "ш">
-<!ENTITY newTabButton.tooltip "Открыть новую вкладку">
-<!ENTITY newWindowButton.tooltip "Открыть новое окно">
 <!ENTITY sidebarCloseButton.tooltip "Закрыть боковую панель">
-<!ENTITY fullScreenButton.tooltip "Раскрыть окно на полный экран">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
 <!ENTITY quitApplicationCmdWin.tooltip "Выход из &brandShortName;">
