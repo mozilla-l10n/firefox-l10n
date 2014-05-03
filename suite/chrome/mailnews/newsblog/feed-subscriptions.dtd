@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label          "Visa artikelsammanfattningen i stället för att hämta webbsidan">
 <!ENTITY quickMode.accesskey      "V">
 
+<!ENTITY autotagEnable.label         "Skapa automatiskt taggar från flödets &lt;kategori&gt; namn">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Ge taggarna prefixet:">
+<!ENTITY autotagUsePrefix.accesskey  "p">
+<!ENTITY autoTagPrefix.placeholder   "Ange ett taggprefix">
+
 <!ENTITY locationValidate.label      "Kontrollera">
 <!ENTITY validateText.label          "Kontrollera giltighet och hämta en giltig url.">
 

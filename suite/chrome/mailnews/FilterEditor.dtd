@@ -7,6 +7,8 @@
 <!ENTITY filterName.label "Namn på filterregeln:">
 <!ENTITY filterName.accesskey "N">
 
+<!ENTITY recentFolders.label "Senaste">
+
 <!ENTITY junk.label "Skräppost">
 <!ENTITY notJunk.label "Ej skräppost">
 
