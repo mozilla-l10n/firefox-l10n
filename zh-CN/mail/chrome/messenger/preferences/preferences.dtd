@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "编写">
 <!ENTITY paneChat.title           "聊天">
 <!ENTITY paneAttachments.title    "附件">
+<!ENTITY panePrivacy.title        "隐私">
 <!ENTITY paneSecurity.title       "安全">
 <!ENTITY paneAdvanced.title       "高级">

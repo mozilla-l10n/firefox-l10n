@@ -73,3 +73,10 @@
 <!ENTITY  statusText.label            "完成">
 
 <!ENTITY popupIcon.tooltiptext      "解锁这个站点的弹出内容">
+
+<!ENTITY viewSecurityInfo.label      "查看安全信息">
+<!ENTITY viewSecurityInfo.accesskey  "S">
+<!ENTITY viewCertificate.label       "查看证书">
+<!ENTITY viewCertificate.accesskey   "C">
+<!ENTITY viewCertManager.label       "打开证书管理器">
+<!ENTITY viewCertManager.accesskey   "M">

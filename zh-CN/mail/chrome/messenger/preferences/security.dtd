@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "电子邮件欺诈">
 <!ENTITY itemPasswords.label     "密码">
 <!ENTITY itemAntiVirus.label     "防病毒">
-<!ENTITY itemCookies.label       "网页内容">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "设定您默认的垃圾邮件设置。
@@ -48,20 +47,3 @@
 <!ENTITY antiVirus.label      "允许防病毒软件隔离单个接收到的消息">
 <!ENTITY antiVirus.accesskey  "A">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; 允许你指定哪些博客，收取点和其他网站可以设置 cookie 。">
-<!ENTITY acceptCookies.label            "接受站点的 cookie">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "保存，直到：">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "它们过期">
-<!ENTITY close.label                    "我退出 &brandShortName;">
-<!ENTITY askEachTime.label              "每次均询问">
-<!ENTITY cookieExceptions.label         "例外…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "显示 Cookie…">
-<!ENTITY showCookies.accesskey          "S">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "告诉网站我不想被追踪">
-<!ENTITY doNotTrack.accesskey           "d">
