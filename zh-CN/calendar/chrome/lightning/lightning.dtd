@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "本信息包含一个事件的邀请。">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "接受">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "接受事件邀请">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "全部接受">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "接受该事件的每次邀请">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "添加">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "添加事件到日历">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "谢绝">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "拒绝事件邀请">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "全部拒绝">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "拒绝该事件的每次邀请">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "删除">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "从日历中删除">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "详细信息…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "显示事件详情">
+<!ENTITY lightning.imipbar.btnMore.label                                    "更多">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "点击显示更多选项">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新确认">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "发送一个再次确认到组织者">
+<!ENTITY lightning.imipbar.btnTentative.label                               "暂定">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "暂时接受事件邀请">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "暂定全部">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "暂时接受该事件的每次邀请">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "更新">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "更新日历中的事件">
+<!ENTITY lightning.imipbar.description                                      "本信息包含一个事件的邀请。">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

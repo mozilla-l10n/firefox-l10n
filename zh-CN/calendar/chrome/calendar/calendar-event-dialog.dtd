@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "从" >
 <!ENTITY newevent.to.label                  "到" >
-<!ENTITY newevent.attendees.notify.label    "通知参加者">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "保持与会者不在邀请函中被披露">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "如果启用，与会者将看不到被邀请的其他人。只适用于电子邮件的邀请函。">
 
 <!ENTITY newevent.status.label                    "状态" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 完成">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "通知参加者">
+<!ENTITY event.attendees.notifyundisclosed.label    "保持不在邀请函中披露与会者">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "这个选项为每个参加者发送一封邀请信。每封邀请信只包含收件方而不会暴露其他参加者。">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
