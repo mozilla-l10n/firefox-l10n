@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Vet ej">
 <!ENTITY chatName.label                 "Chattnamn:">
 
-<!ENTITY allowRemoteContent1.label      "Tillåt fjärrinnehåll.">
-<!ENTITY allowRemoteContent1.accesskey  "å">
-<!ENTITY allowRemoteContent1.tooltip    "I HTML-meddelanden är det möjligt att
-lägga in innehåll från andra källor. Om du öppnar ett sådant meddelande kommer
-en anslutning till den externa källan att öppnas. Det gör det möjligt för andra
-att spåra meddelandet du läser. Kryssar du i den här rutan tillåter du
-sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.">
-
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">
