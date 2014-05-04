@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "显示文章概述而不载入全部网页。">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "根据收取点的分类名自动创建标签">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "标签前缀：">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "请输入一个标签前缀">
+
 <!ENTITY locationValidate.label      "确认有效">
 <!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
 
