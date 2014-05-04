@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "粘贴为引文">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "查找并替换…">
+<!ENTITY findBarCmd.label "查找…">
+<!ENTITY findReplaceCmd.label "查找和替换…">
 <!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "拼写检查">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "公式…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "字符和符号…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "分开下面的图像">
