@@ -31,9 +31,6 @@
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocido">
 <!ENTITY chatName.label "Nombre en el chat:">
-<!ENTITY allowRemoteContent1.label "Permitir contenido remoto.">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "En los mensajes HTML es posible incluir contenido de orígenes remotos. Abrir tales mensajes abrirá a su vez una conexión a ese origen externo. Esto puede permitir el seguimiento de la lectura del mensaje. Marcar esta casilla permitirá este tipo de contenido en los mensajes HTML de este contacto.">
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "T">
 <!ENTITY HomePhone.label "Casa:">
