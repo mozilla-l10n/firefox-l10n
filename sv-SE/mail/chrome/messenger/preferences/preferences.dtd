@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin      "Inställningar">
+<!ENTITY prefWindow.titleWin      "Alternativ">
 <!ENTITY prefWindow.titleGNOME    "&brandShortName; Inställningar">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac      "width: 50em;">
@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Skriva">
 <!ENTITY paneChat.title           "Chatt">
 <!ENTITY paneAttachments.title    "Bilagor">
+<!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneSecurity.title       "Säkerhet">
 <!ENTITY paneAdvanced.title       "Avancerat">
