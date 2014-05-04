@@ -54,7 +54,7 @@
 <!ENTITY back "后退">
 <!ENTITY stop "停止">
 <!ENTITY site_security "网站安全">
-<!ENTITY save "保存">
+<!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "关闭标签页">
 <!ENTITY one_tab "1 个标签页">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "隐私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "反馈">
+<!ENTITY pref_learn_more "详细了解">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
 <!ENTITY pref_category_add_search_providers "添加更多搜索提供商">
 <!ENTITY pref_category_search_restore_defaults "恢复搜索引擎">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "提示：长按搜索框后点击 &formatI; 图标添加任意网站到您的搜索服务提供者列表。">
 <!ENTITY pref_category_devtools "开发者工具">
 <!ENTITY pref_developer_remotedebugging "远程调试">
-<!ENTITY pref_developer_remotedebugging_docs "详细了解">
 <!ENTITY pref_remember_signons "记住密码">
 
 <!ENTITY pref_category_home "主页">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_import_android "从 Android 导入">
-<!ENTITY pref_private_data_history "浏览和下载历史">
+<!ENTITY pref_private_data_history2 "浏览历史">
 <!ENTITY pref_private_data_formdata "表单和搜索历史">
 <!ENTITY pref_private_data_cookies2 "Cookie 以及活动登录会话">
 <!ENTITY pref_private_data_passwords "已保存密码">
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
-<!ENTITY pref_private_data_downloadFiles "已下载文件">
+<!ENTITY pref_private_data_downloadFiles2 "下载历史">
 
 
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "显示">
 <!ENTITY pref_panels_hide "隐藏">
+<!ENTITY pref_panels_reorder "更改顺序">
+<!ENTITY pref_panels_move_up "上移">
+<!ENTITY pref_panels_move_down "下移">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
 <!ENTITY datareporting_notification_action_long "选择想分享的信息">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
-<!ENTITY datareporting_wifi_title "&vendorShortName; 位置服务">
-<!ENTITY datareporting_wifi_summary "允许 &brandShortName; 收集并发送匿名的蜂窝基站数据以帮助改善开放网络的地理定位服务">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; 位置服务">
+<!ENTITY datareporting_wifi_geolocation_summary "后台运行期间接收 Wi-Fi 和蜂窝位置数据并与 &vendorShortName; 分享以改进我们的位置服务">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
 
-<!ENTITY reading_list_add "添加到阅读列表">
 <!ENTITY reading_list_added "页面已添加到您的阅读列表">
 <!ENTITY reading_list_removed "页面已从您的阅读列表中移除">
 <!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
@@ -338,6 +340,10 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "此面板没有内容。">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "&formatS; 之上">
 
 <!ENTITY pin_site_dialog_hint "输入搜索关键字">
 
@@ -414,6 +420,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; 将重新启动">
 <!ENTITY exit_guest_session_text "本次会话的浏览数据将被删除。">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
