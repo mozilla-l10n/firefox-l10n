@@ -165,7 +165,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "Haltigi la ŝargadon de ĉiu tiu paĝo">
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
 <!ENTITY printButton.label            "Presi">
-<!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
 
 <!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
@@ -199,7 +198,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "v">
 
 <!ENTITY downloads.label              "Elŝutoj">
-<!ENTITY downloads.tooltip            "Montri la progreson de la aktivaj elŝutoj">
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -563,11 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Grandeco">
 <!ENTITY fullZoom.accesskey             "G">
 
-<!ENTITY newTabButton.tooltip           "Malfermi novan langeton">
-<!ENTITY newWindowButton.tooltip        "Malfermi novan fenestron">
 <!ENTITY sidebarCloseButton.tooltip     "Fermi flankan strion">
-
-<!ENTITY fullScreenButton.tooltip       "Montri la fenestron plenekrane">
 
 <!ENTITY quitApplicationCmdWin.label       "Eliri"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "l">
