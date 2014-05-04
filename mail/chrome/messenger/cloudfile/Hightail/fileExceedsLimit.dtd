@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsLimit.title   "YouSendIt">
+<!ENTITY fileExceedsLimit.title   "Hightail">
 <!ENTITY fileExceedsLimit.thatsBigFile   "发送大小超过 50 MB 的文件">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "是一个高级功能。">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "是一项付费功能。">
 <!ENTITY fileExceedsLimit.accept "升级">
 <!ENTITY fileExceedsLimit.cancel "取消">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

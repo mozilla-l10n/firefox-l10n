@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点击重发验证邮件。'>
 <!ENTITY fxaccount_status_needs_credentials '无法连接。点击登录。'>
 <!ENTITY fxaccount_status_needs_upgrade '您需要升级 &brandShortName; 才能登录。'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。点击开始同步。'>
 <!ENTITY fxaccount_status_bookmarks '书签'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords '密码'>

@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "在对话时发送正在输入通知">
 <!ENTITY  sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "当有直接发送给您的消息时：">
+<!ENTITY  desktopChatNotifications.label      "显示通知">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "播放声音">
+<!ENTITY  play.label                          "播放">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "默认的系统新邮件提示声">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "使用下列声音文件">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "浏览…">
+<!ENTITY  browse.accesskey                    "B">
+
