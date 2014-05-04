@@ -3,10 +3,3 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- 
-     LOCALIZATION NOTE (geolocation.learnMore): Use the
-     unicode ellipsis char, \u2026,
-     or use "..." unless \u2026 doesn't suit traditions in your
-     locale.
--->
-<!ENTITY geolocation.learnMore         "详细了解…">
