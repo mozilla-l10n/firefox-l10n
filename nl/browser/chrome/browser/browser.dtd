@@ -54,7 +54,7 @@ can reach it easily. -->
 
 <!ENTITY listAllTabs.label       "Alle tabbladtitels weergeven">
 
-<!ENTITY tabCmd.label "Nieuw tabblad">
+<!ENTITY tabCmd.label "&#xad;Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openFileCmd.label "Bestand openen…">
@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Startpagina">
 
-<!ENTITY tabGroupsButton.label        "Tabbladgroepen">
+<!ENTITY tabGroupsButton.label        "Tabblad&#xad;groepen">
 
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Bestand"> 
 <!ENTITY fileMenu.accesskey       "B">
-<!ENTITY newNavigatorCmd.label        "Nieuw venster">
+<!ENTITY newNavigatorCmd.label        "&#xad;Nieuw venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nieuw privévenster">
@@ -661,7 +661,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "s">
 <!ENTITY syncReAuthItem.label         "Opnieuw verbinden met &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "O">
-<!ENTITY syncToolbarButton.label      "Synchroniseren">
+<!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
 
 <!ENTITY socialToolbar.title        "Sociale-werkbalkknop">
 
