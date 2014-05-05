@@ -173,6 +173,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Akun Anda harus diverifikasi terlebih dulu. Sentuh untuk mengirim ulang email verifikasi.'>
 <!ENTITY fxaccount_status_needs_credentials 'Tidak dapat tersambung. Sentuh untuk masuk.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Anda harus memperbarui &brandShortName; agar dapat masuk.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Penggunaan Data.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Ketuk untuk mulai menyinkronkan.'>
 <!ENTITY fxaccount_status_bookmarks 'Markah'>
 <!ENTITY fxaccount_status_history 'Riwayat'>
 <!ENTITY fxaccount_status_passwords 'Sandi'>
