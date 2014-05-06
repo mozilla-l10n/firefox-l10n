@@ -54,7 +54,7 @@
 <!ENTITY back "Geri dön">
 <!ENTITY stop "Durdur">
 <!ENTITY site_security "Site Güvenliği">
-<!ENTITY save "Kaydet">
+<!ENTITY edit_mode_cancel "İptal">
 
 <!ENTITY close_tab "Sekmeyi kapat">
 <!ENTITY one_tab "1 sekme">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Gizlilik">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
+<!ENTITY pref_learn_more "Daha fazla bilgi">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
 <!ENTITY pref_category_add_search_providers "Daha fazla arama sağlayıcı ekle">
 <!ENTITY pref_category_search_restore_defaults "Arama motorlarını geri yükle">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
 <!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
-<!ENTITY pref_developer_remotedebugging_docs "Daha fazla bilgi">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 
 <!ENTITY pref_category_home "Başlangıç">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
-<!ENTITY pref_private_data_history "Tarama ve indirme geçmişi">
+<!ENTITY pref_private_data_history2 "Tarama geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
 <!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings2 "Site ayarları">
-<!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
+<!ENTITY pref_private_data_downloadFiles2 "İndirilenler">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Göster">
 <!ENTITY pref_panels_hide "Gizle">
+<!ENTITY pref_panels_reorder "Sırayı değiştir">
+<!ENTITY pref_panels_move_up "Yukarı taşı">
+<!ENTITY pref_panels_move_down "Aşağı taşı">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
 <!ENTITY datareporting_notification_action_long "Hangi bilgilerin paylaşılacağını seç">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
-<!ENTITY datareporting_wifi_title "&vendorShortName; konum servisleri">
-<!ENTITY datareporting_wifi_summary "&brandShortName; tarayıcısının anonim baz istasyonu verilerinizi toplayıp göndermesine izin vererek coğrafi konum servislerimizi geliştirmemize yardımcı olun">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
 
-<!ENTITY reading_list_add "Okuma Listesi\u0027ne ekle">
 <!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
@@ -338,6 +340,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Bu panel için içerik bulunamadı.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
@@ -410,10 +414,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Devam">
 <!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
-<!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nMisafirin işi bittiğinde tarama verileri silinecek sizin oturumunuz geri yüklenecektir.">
+<!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nMisafirin işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
 
 <!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY exit_guest_session_text "Bu oturumdaki tarama verileri silinecektir.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
