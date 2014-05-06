@@ -4,3 +4,6 @@
 
 <!ENTITY closeTab.label             "Ljepblêd slute">
 <!ENTITY listAllTabs.label          "Alle ljepblêdtitels werjaan">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Startside">
