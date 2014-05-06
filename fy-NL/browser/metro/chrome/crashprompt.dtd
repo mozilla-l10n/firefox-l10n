@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Wat stiet der yn in ûngelokrapport?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "In ûngelokrapport befettet inkele details oer it ûngelok, jo masine en in momentopname fan de steat fan jo browser doe't dizze ferûngelokke.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Hjirûnder falle mooglik saken as iepene siden, tekst dy't yn formulieren ynfold is en de ynhâld fan iepende berjochten, resinte navigaasjeskiednis, of geolokaasjegegevens dy't mei in website dield wurde.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Wy brûke ûngelokrapporten om problemen ferhelpe te kinnen en ús produkten te ferbetterjen. Wy gean mei jo gegevens om as beskreaun yn ús ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Wy brûke ûngelokrapporten om te probearjen problemen ferhelpe te kinnen en ús produkten te ferbetterjen. Wy gean mei jo gegevens om as beskreaun yn ús ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName;-privacybelied">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "It adres fan de side wêrop ik wie byslute">
 <!ENTITY crashprompt.acceptbutton    "Rapporten ferstjoere">
 <!ENTITY crashprompt.refusebutton    "Net ferstjoere">

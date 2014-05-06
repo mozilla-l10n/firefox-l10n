@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktive oanmeldingen">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Wachtwurden ûnthâlde">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Navigaasjeknoppen toane">
 <!ENTITY doNotTrack.title                                        "Net folgje">
 <!ENTITY doNotTrack.options.doNotTrack                           "Fertel websites dat ik net folge wurde wol">
 <!ENTITY doNotTrack.options.doTrack                              "Fertel websites dat ik folge wurde wol">

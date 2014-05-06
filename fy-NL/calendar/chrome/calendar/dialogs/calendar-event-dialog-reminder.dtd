@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Werinneringsdetails">
 <!ENTITY reminder.action.label                             "Kies in werinneringsaksje">
 
-<!ENTITY reminder.relation.before.label                    "foardat" >
-<!ENTITY reminder.relation.after.label                     "nei" >
-
 <!ENTITY reminder.action.alert.label                       "Toan in alarm">
 <!ENTITY reminder.action.email.label                       "Stjoer in e-mail">
 
