@@ -13,8 +13,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Хабарлама ID">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Жіберілген">
 <!ENTITY aboutSupport.crashes.allReports "Барлық құлау туралы хабарламалары">
 <!ENTITY aboutSupport.crashes.noConfig "Бұл қолданба құлау хабарламаларын көрсетуге бапталмаған.">
@@ -25,13 +23,22 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Нұсқасы">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.experimentsTitle "Эксперименталды мүмкіндіктер">
+<!ENTITY aboutSupport.experimentName "Аты">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Анықтамасы:">
+<!ENTITY aboutSupport.experimentActive "Белсенді">
+<!ENTITY aboutSupport.experimentEndDate "Аяқталу күні">
+<!ENTITY aboutSupport.experimentHomepage "Үй парағы">
+
+
 <!ENTITY aboutSupport.appBasicsTitle "Қолданба негіздері">
 <!ENTITY aboutSupport.appBasicsName "Аты">
 <!ENTITY aboutSupport.appBasicsVersion "Нұсқасы">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Тарихты жаңарту">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Жаңартулар тарихы">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Жаңартулар тарихын көрсету">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Профайл бумасы">
@@ -74,7 +81,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Жинақтар нұсқалары">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Орнатулар тарихы">
-<!ENTITY aboutSupport.updateHistoryTitle "Тарихты жаңарту">
+<!ENTITY aboutSupport.updateHistoryTitle "Жаңартулар тарихы">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Мәтінді алмасу буферіне көшіру">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Өнделмеген мәліметтерді алмасу буферіне көшіру">

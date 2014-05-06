@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "л">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "CSS талдау қателерін жазу">
+<!ENTITY btnPageCSS.tooltip "CSS қателер мен ескертулерді журналдау">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "JavaScript тыс қалуды жазу">
@@ -68,11 +68,12 @@
 
 <!ENTITY btnPageLogging.label   "Журналдау">
 <!ENTITY btnPageLogging.tooltip "window.console объектіне жіберілген журнал хабарламалары">
-
+<!ENTITY btnPageLogging.accesskey3 "л">
 <!ENTITY btnConsoleErrors       "Қателер">
 <!ENTITY btnConsoleInfo         "Ақпарат">
 <!ENTITY btnConsoleWarnings     "Ескертулер">
 <!ENTITY btnConsoleLog          "Лог">
+<!ENTITY btnConsoleReflows      "Қайма аймалаулар">
 
 <!ENTITY filterOutput.placeholder "Сүзгі нәтижесі">
 <!ENTITY btnClear.label        "Тазарту">
@@ -95,4 +96,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-
+<!ENTITY clearOutputCtrl.key  "з">

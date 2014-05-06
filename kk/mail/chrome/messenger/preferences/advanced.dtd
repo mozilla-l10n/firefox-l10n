@@ -55,19 +55,16 @@
 
 
 <!-- Update -->
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
 
 
 
 
 
 
+<!ENTITY updateAutoAddonWarn.label       "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
+<!ENTITY updateAutoAddonWarn.accesskey   "с">
 
 
-<!ENTITY modeAutoAddonWarn.label        "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
-<!ENTITY modeAutoAddonWarn.accesskey    "с">
-<!ENTITY showUpdates.label              "Жаңартулар тарихын көрсету">
-<!ENTITY showUpdates.accesskey          "с">
 
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">

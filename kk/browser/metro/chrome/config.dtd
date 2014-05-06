@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Іздеу">
-<!ENTITY newpref.label          "Жаңа баптауды қосу">
 <!ENTITY addpref.name           "Аты">
-<!ENTITY addpref.value          "Мәні">
 
 <!ENTITY cancel.label           "Бас тарту">
-<!ENTITY reset.label            "Тастау">
-<!ENTITY done.label             "Дайын">
+<!ENTITY toggle.label           "Ауыстыру">
 
 <!ENTITY integer.label          "Бүтін">
 <!ENTITY string.label           "Жол">
 <!ENTITY boolean.label          "Логикалық">
+
+<!ENTITY string.placeholder     "Жолды енгізіңіз">
+<!ENTITY number.placeholder     "Нөмірді енгізіңіз">

@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Mozilla құлау жөніндегі хабарламаларды жіберуді қалайсыз ба?">
+<!ENTITY crashprompt.message         "Кешіріңіз, &brandShortName; құлаудан кейін қазір ғана жаңадан жөнделген. Құлау жөніндегі хабарламаларды Mozilla-ға жіберу &brandShortName; тұрақтылығын және қауіпсіздігін арттыруға көмектеседі. Сіздің баптауыңызды Баптаулар/Опциялар ішінде әрқашан өзгертуге болады.">
+<!ENTITY crashprompt.detailsLink     "Құлау жөніндегі хабарламада не бар?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Құлау жөніндегі хабарламада құлау оқиғасы, компьютер және браузер құлаған кезде оның қалып-күйінің түсірілімі болады.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Оның ішінде ашық беттер, формалардағы мәтін және ашық хабарламалардың құрамы, соңғы шолу тарихы және сайтпен бөліскен геолокация мәліметтері болуы мүмкін.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Біз құлау жөніндегі хабаламаларды мәселелерді шешу және өнімдерімізді жақсарту үшін қолданамыз. Жеке ақпаратыңызды біз қалай өндейтініміз ">
+<!ENTITY crashprompt.privacyPolicyLink "&brandShortName; жекелік саясатында сипатталған">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Мен қарап отырған беттің адресін де қосу">
+<!ENTITY crashprompt.acceptbutton    "Хабарламаларды жіберу">
+<!ENTITY crashprompt.refusebutton    "Жібермеу">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; жекелік саясаты">

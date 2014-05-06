@@ -4,20 +4,22 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
-<!ENTITY urlbar.emptytext      "Іздеуді немесе адресті еңгізіңіз">
+<!ENTITY urlbar.emptytext      "Іздеуді немесе адресті енгізіңіз">
 
 <!ENTITY back.label            "Артқа">
 <!ENTITY forward.label         "Алға">
 <!ENTITY newtab.label          "Жаңа бет">
+<!ENTITY newPrivateTab.label   "Жаңа жекелік беті">
 <!ENTITY closetab.label        "Бетті жабу">
 
 <!ENTITY autocompleteResultsHeader.label  "Сіздің нәтиже">
 
-<!ENTITY appbarErrorConsole.label   "Қате консолін ашу">
-<!ENTITY appbarJSShell.label        "JavaScript қоршамын ашу">
-<!ENTITY appbarFindInPage2.label    "Беттен табу">
-<!ENTITY appbarViewOnDesktop2.label "Жұмыс үстелде көрсету">
-<!ENTITY appbarMSMetaData2.label    "Бұл сайт үшін қолданбаны алу">
+<!ENTITY appbarErrorConsole.label      "Қате консолін ашу">
+<!ENTITY appbarJSShell.label           "JavaScript қоршамын ашу">
+<!ENTITY appbarFindInPage2.label       "Беттен табу">
+<!ENTITY appbarRelaunchInDesktop.label "Жұмыс үстелінде қайта жөнелту">
+<!ENTITY appbarMSMetaData2.label       "Бұл сайт үшін қолданбаны алу">
+<!ENTITY appbarViewPageSource.label    "Парақтың бастапқы кодын қарау">
 
 <!ENTITY topSitesHeader.label        "Топ сайттары">
 <!ENTITY bookmarksHeader.label       "Бетбелгілер">
@@ -57,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Хабарламалар">
 <!ENTITY consoleCodeEval.label     "Код:">
 <!ENTITY consoleClear.label        "Тазарту">
+<!ENTITY consoleCopyAll.label      "Көшіру">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Көзі:">
 <!ENTITY consoleErrLine.label      "Жол:">
 <!ENTITY consoleErrColumn.label    "Баған:">
+<!ENTITY consoleFollowCheckbox.label "Еру">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Қиып алу">
@@ -91,18 +95,55 @@
 <!-- KEYBOARD SHORTCUTS -->
 
 <!ENTITY reload.key "r">
-
+<!ENTITY focusURL.key "л">
 <!ENTITY urlbar.accesskey "з">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "а">
+<!ENTITY savePage.key "с">
+<!ENTITY find.key "т">
+<!ENTITY findNext.key "к">
+<!ENTITY quit.key "ш">
+<!ENTITY addBookmark.key "б">
+<!ENTITY newTab.key "ж">
+<!ENTITY newTab2.key "а">
+<!ENTITY closeTab.key "ж">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "е">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
+<!ENTITY jsConsole.key "н">
+<!ENTITY optionsFlyout.key "о">
+<!ENTITY syncFlyout.key "с">
+<!ENTITY aboutFlyout.key "а">
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
 
+<!ENTITY firstRunTabs.label "Беттерді іздедіңіз бе? Төмен тартыңыз, не оң жақпен шертіңіз">
+<!ENTITY firstRunTopSites.label "Ең жиі қаралатын сайттарға өтіңіз">
+<!ENTITY firstRunBookmarks.label "Кейінге сақталған парақтарды қараңыз">
+<!ENTITY firstRunMenu.label "Көбірек мүмкіндіктер және опцияларды шолыңыз">
+<!ENTITY firstRunHistory.label "Интернетте қайда болғаныңызды қараңыз">
+<!ENTITY firstRunWelcome.label "&brandShortName; өніміне қош келдіңіз">
+<!ENTITY firstRunDifferent.label "Құрылысы жағынан өзгеше">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
 
+<!ENTITY firstRunBack.label "Алдыңғы бетке қайту үшін шертіңіз">
+<!ENTITY firstRunNewTab.label "Жаңа сайтты шолу үшін жаңа бетті қосыңыз">
+<!ENTITY firstRunStar.label "Беттерді кейінге сақтау үшін бетбелгілерді қолданыңыз">
+<!ENTITY firstRunPin.label "Жылдам қатынау үшін Windows Start экранына кез-келген сайтты бекітіңіз">
+<!ENTITY firstRunGotIt.label "Түсіндім!">

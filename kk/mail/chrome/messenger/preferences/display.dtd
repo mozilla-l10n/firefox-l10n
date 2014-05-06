@@ -30,8 +30,6 @@
 <!ENTITY removeTagButton.label     "Өшіру">
 <!ENTITY removeTagButton.accesskey "ш">
 <!-- Fonts and Colors -->
-
-<!ENTITY fontsAndColors1.label   "Қаріптер мен түстер">
 <!ENTITY defaultFont.label       "Негізгі қаріп:">
 <!ENTITY defaultFont.accesskey   "Н">
 <!ENTITY defaultSize.label       "Өлшемі:">

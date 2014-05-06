@@ -6,8 +6,8 @@
 <!ENTITY windowTitle.label "Беттің қасиеттері">
 <!ENTITY location.label "Орналасуы:">
 
-
-
+<!ENTITY titleInput.label "Атауы:">
+<!ENTITY titleInput.accessKey "А">
 
 
 <!ENTITY descriptionInput.label "Анықтамасы:">

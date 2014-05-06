@@ -54,6 +54,7 @@
 <!ENTITY back "Артқа">
 <!ENTITY stop "Тоқтату">
 <!ENTITY site_security "Сайт қорғанысы">
+<!ENTITY edit_mode_cancel "Бас тарту">
 
 <!ENTITY close_tab "Бетті жабу">
 <!ENTITY one_tab "1 бет">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Баптаулар">
 <!ENTITY pref_category_advanced "Кеңейтілген">
 <!ENTITY pref_category_customize "Баптау">
-<!ENTITY pref_category_search2 "Іздеу баптаулары">
+<!ENTITY pref_category_search3 "Іздеу">
+<!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
 <!ENTITY pref_category_display "Көрсету">
 <!ENTITY pref_category_privacy_short "Жекелік">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
+<!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
 <!ENTITY pref_category_add_search_providers "Көбірек іздеу жүйелерін қосу">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Іздеу жүйелерін қалпына келтіру">
+<!ENTITY pref_search_restore_defaults "Бастапқы түрін қалпына келтіру">
+<!ENTITY pref_search_restore_defaults_summary "Бастапқы түрін қалпына келтіру">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басу керек.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
-<!ENTITY pref_developer_remotedebugging_docs "Көбірек білу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
+
+<!ENTITY pref_category_home "Үй">
+<!ENTITY pref_category_home_summary "Үй парағыңызды баптау">
+<!ENTITY pref_category_home_panels "Панельдер">
+<!ENTITY pref_home_add_panel "Панельді қосу">
+<!ENTITY home_add_panel_title "Жаңа панельді қосу">
+<!ENTITY home_add_panel_empty "Кешіріңіз, қосуға болатын бірде-бір панель табылмады.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 үй парағына қосылды">
+<!ENTITY pref_category_home_content_settings "Құрама баптаулары">
+<!ENTITY pref_home_updates "Автожаңартулар">
+<!ENTITY pref_home_updates_enabled "Іске қосулы">
+<!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
@@ -135,30 +157,38 @@ size. -->
 <!ENTITY pref_sync "Синхрондау">
 <!ENTITY pref_search_suggestions "Іздеу ұсыныстарын көрсету">
 <!ENTITY pref_import_android "Android-тан импорттау">
-<!ENTITY pref_private_data_history "Қарап шығу және жүктемелер тарихы">
-<!ENTITY pref_private_data_formdata "Формалардың іздеу тарихы">
+<!ENTITY pref_private_data_history2 "Шолу тарихы">
+<!ENTITY pref_private_data_formdata "Формалар және іздеу тарихы">
 <!ENTITY pref_private_data_cookies2 "Cookies және белсенді сеанстар">
 <!ENTITY pref_private_data_passwords "Сақталған парольдер">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Дербес веб-сайттар ақпараты">
 <!ENTITY pref_private_data_siteSettings2 "Сайт баптаулары">
-<!ENTITY pref_private_data_downloadFiles "Жүктелген файлдар">
+<!ENTITY pref_private_data_downloadFiles2 "Жүктемелер">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Кері байланыс хабарламасын жіберу">
-<!ENTITY pref_search_set_default "Үнсіз келісім ретінде орнату">
-<!ENTITY pref_search_default "Үнсiз келiсiм бойынша">
-<!ENTITY pref_search_remove "Өшіру">
+
+<!ENTITY pref_dialog_set_default "Үнсіз келісім ретінде орнату">
+<!ENTITY pref_dialog_default "Үнсiз келiсiм бойынша">
+<!ENTITY pref_dialog_remove "Өшіру">
+
 <!ENTITY pref_search_last_toast "Соңғы іздеу жүйесін өшіру не сөндіруге болмайды.">
+
+<!ENTITY pref_panels_show "Көрсету">
+<!ENTITY pref_panels_hide "Жасыру">
+<!ENTITY pref_panels_reorder "Ретін өзгерту">
+<!ENTITY pref_panels_move_up "Жоғары жылжыту">
+<!ENTITY pref_panels_move_down "Төмен жылжыту">
 
 <!ENTITY datareporting_notification_title "&brandShortName; статистика және деректері">
 <!ENTITY datareporting_notification_action_long "Бөлісетін мәліметіңізді таңдаңыз">
 <!ENTITY datareporting_notification_action "Немен бөлісетіңізді таңдау">
 <!ENTITY datareporting_notification_summary "Қолдануды жақсарту мақсатында, &brandShortName; автоматты түрде кейбір ақпаратты &vendorShortName; адресіне жіберіп отырады.">
 <!ENTITY datareporting_notification_summary_short "Қолдануды жақсарту мақсатында, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -175,13 +205,16 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
-<!ENTITY datareporting_wifi_title "&vendorShortName; орналасу қызметтері">
-<!ENTITY datareporting_wifi_summary "&brandShortName; өніміне анонимды ұялы желі ақпаратын жинау және жіберуді рұқсат ету арқылы ашық интернет үшін геолокация қызметтерін жақсартуға көмектесіңіз">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
+<!ENTITY datareporting_wifi_geolocation_summary "Фонда орындалып, Wi-Fi және ұялы желілер деректерін ұстап, олармен &vendorShortName;-мен геолокация қызметтерін жақсарту мақсатында бөліседі">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Автожаңартулар">
+<!ENTITY pref_update_autodownload2 "Жаңартуларды автоматты түрде жүктеп алу">
 <!ENTITY pref_update_autodownload_wifi "Тек Wi-Fi арқылы">
-<!ENTITY pref_update_autodownload_disabled "Сөндірілген">
-<!ENTITY pref_update_autodownload_enabled "Іске қосулы">
+<!ENTITY pref_update_autodownload_never "Ешқашан">
+<!ENTITY pref_update_autodownload_always "Әрқашан">
 
 <!ENTITY quit "Шығу">
 
@@ -196,6 +229,7 @@ size. -->
 <!ENTITY save_as_pdf "PDF ретінде сақтау">
 <!ENTITY find_in_page "Беттен табу">
 <!ENTITY desktop_mode "Сайттың толық нұсқасы">
+<!ENTITY page "Бет">
 <!ENTITY tools "Саймандар">
 <!ENTITY new_tab "Жаңа бет">
 <!ENTITY new_private_tab "Жаңа жекелік беті">
@@ -212,6 +246,13 @@ size. -->
 <!ENTITY find_prev "Алдыңғы">
 <!ENTITY find_next "Келесі">
 <!ENTITY find_close "Жабу">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "Құрылғыға шақыру">
+<!ENTITY media_play "Ойнау">
+<!ENTITY media_pause "Аялдату">
+<!ENTITY media_stop "Тоқтату">
 
 <!ENTITY contextmenu_open_new_tab "Жаңа бетте ашу">
 <!ENTITY contextmenu_open_private_tab "Жекелік бетте ашу">
@@ -228,10 +269,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Түзету">
 <!ENTITY contextmenu_top_sites_pin "Сайтты бекіту">
 <!ENTITY contextmenu_top_sites_unpin "Сайтты бекітуден босату">
+<!ENTITY contextmenu_add_search_engine "Іздеу жүйесін қосу">
 
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
 <!ENTITY pref_titlebar_mode_url "Парақ адресін көрсету">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Атау жолағын айналдыру">
 
 <!ENTITY history_removed "Парақ өшірілді">
 
@@ -284,12 +330,20 @@ size. -->
 <!ENTITY home_reading_list_empty "Кейінірек үшін сақталған мақалалар осында болады.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "КЕҢЕС: Мақалаларды кейінірек оқу үшін атау жолағында &#037;I таңбашасы шыққан кезде оны ұзақ басу арқылы сақтаңыз.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "КЕҢЕС: Мақалаларды кейінірек оқу үшін атау жолағында &formatI; таңбашасы шыққан кезде оны ұзақ басу арқылы сақтаңыз.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "КЕҢЕС: Мақалаларды оқу тізіміне сақтау үшін атау жолағында оқу режимі таңбашасы шыққан кезде оны ұзақ басыңыз.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Бұл панель үшін құрама табылмады.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
@@ -331,10 +385,8 @@ Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_history "Тарихты Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_wait "Күте тұрыңыз…">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "&formatS; іздеу ұсыныстарын іске қосуды қалайсыз ба?">
+<!ENTITY suggestions_prompt3 "Іздеу ұсыныстарын іске қосуды қалайсыз ба?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -369,3 +421,14 @@ Android-тан импорттау">
 
 <!ENTITY exit_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY exit_guest_session_text "Бұл сессияның шолу деректері өшірілетін болады.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Мәзір">
+<!ENTITY actionbar_done "Дайын">

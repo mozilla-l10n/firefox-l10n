@@ -30,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Өз &syncBrand.fullName.label; тіркелгі ақпаратын енгізіңіз">
 <!ENTITY sync.input.username.label "Тіркелгі атауы">
-<!ENTITY sync.input.password.label "Паролm">
+<!ENTITY sync.input.password.label "Пароль">
 <!ENTITY sync.input.key.label "Қалпына келтіру кілті">
 <!ENTITY sync.checkbox.server.label "Өз серверді қолдану">
 <!ENTITY sync.input.server.label "Сервер сілтемесі">
@@ -71,10 +71,10 @@
 <!ENTITY sync.button.connect.label "Байланысу">
 <!ENTITY sync.button.ok.label "ОК">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (ескірген)">
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "Бетбелгілер мәзірі">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Белгілер">
@@ -104,3 +104,122 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Сіздің құрылғыңызда &syncBrand.fullName.label; беттерді басқа құрылғыларға жіберу үшін баптау.">
 <!ENTITY sync.text.tab.sent.label "Сіздің бетіңіз жіберілді!">
 <!ENTITY sync.text.tab.not.sent.label "Сіздің бетіңізді жіберу кезінде қате орын алды.">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+
+<!ENTITY fxaccount_email_hint "Эл. пошта">
+<!ENTITY fxaccount_password_hint "Пароль">
+<!ENTITY fxaccount_password_hide "Жасыру">
+<!ENTITY fxaccount_password_show "Көрсету">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Шолуға оралу">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Қолдану шарттары">
+<!ENTITY fxaccount_policy_linkprivacy "Жекелік саясаты">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ішіне қош келдіңіз">
+<!ENTITY fxaccount_getting_started_description "Беттер, бетбелгілер және парольдерді синхрондау үшін кіріңіз.">
+<!ENTITY fxaccount_getting_started_get_started "Бастау">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ескі нұсқасын қолданудасыз ба?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Firefox тіркелгісін жасаңыз">
+<!ENTITY fxaccount_create_account_password_length_restriction "Кем дегенде 8 таңба болуы тиіс">
+<!ENTITY fxaccount_create_account_year_of_birth "Туған жылы">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Жалғастыру әрекетімен, мен Firefox желідегі қызметтерінің &formatS1; және &formatS2; келісемін.">
+<!ENTITY fxaccount_create_account_button "Келесі">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Нені синхродауды таңдау">
+<!ENTITY fxaccount_create_account_sign_in_instead "Тіркелгіңіз бар ма? Кіріңіз">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 не одан ертерек">
+<!ENTITY fxaccount_create_account_unknown_error "Тіркелгіні жасау мүмкін емес">
+
+<!ENTITY fxaccount_account_create_not_allowed "Тіркелгіні жасау мүмкін емес">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Тіркелгіні жасау үшін жасыңыз бірнеше шартқа сай болуы тиіс.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Көбірек білу">
+
+<!ENTITY fxaccount_confirm_account_header "Тіркелгіңізді растаңыз">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Растау сілтемесі &formatS; үшін жіберілді">
+<!ENTITY fxaccount_confirm_account_resend_email "Эл. поштаты қайта жіберу">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Растау хаты жіберілді">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Растау хатын жіберу мүмкін емес">
+
+<!ENTITY fxaccount_sign_in_sub_header "Кіру">
+<!ENTITY fxaccount_sign_in_button_label "Кіру">
+<!ENTITY fxaccount_sign_in_forgot_password "Пароліңізді ұмыттыңыз ба?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Тіркелгіні жасау">
+<!ENTITY fxaccount_sign_in_unknown_error "Кіру мүмкін емес">
+
+<!ENTITY fxaccount_account_verified_sub_header "Тіркелгі расталды">
+<!ENTITY fxaccount_account_verified_description2 "Мәліметтеріңіз қазір синхрондала бастайды.">
+
+<!ENTITY fxaccount_update_credentials_header "Кіру">
+<!ENTITY fxaccount_update_credentials_button_label "Кіру">
+<!ENTITY fxaccount_update_credentials_unknown_error "Кіру мүмкін емес">
+
+<!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
+<!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: іске қосулы">
+<!ENTITY fxaccount_status_needs_verification2 "Тіркелгіңізді растау керек. Растау эл. хатын қайта жіберу үшін шертіңіз.">
+<!ENTITY fxaccount_status_needs_credentials "Байланысу мүмкін емес. Кіру үшін шертіңіз.">
+<!ENTITY fxaccount_status_needs_upgrade "Кіру үшін сізге &brandShortName; жаңарту керек.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Деректерді қолдану ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Бастау үшін шертіңіз.">
+<!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
+<!ENTITY fxaccount_status_history "Тарихы">
+<!ENTITY fxaccount_status_passwords "Парольдер">
+<!ENTITY fxaccount_status_tabs "Ашық беттер">
+<!ENTITY fxaccount_status_legal "Құқықтық ақпарат" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Қолдану шарттары">
+<!ENTITY fxaccount_status_linkprivacy "Жекелік саясаты">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; опциялары">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; баптау">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefox-ты жаңартуыңыз керек">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Тіркелгі бар болып тұр. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Эл. пошта немесе пароль қате">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Эл. пошта немесе пароль қате">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Тіркелгі расталмаған">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Сервер тым жүктелген, кейінірек қайталап көріңіз">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер тым жүктелген, кейінірек қайталап көріңіз">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Мәселе орын алды">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Желіге байланысу мүмкін емес">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; желіге байланыспаған">
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ретінде кіру үшін шертіңіз">

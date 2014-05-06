@@ -4,8 +4,10 @@
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
 
-
-
-
+<!ENTITY toAddr.label   "Кімге:"> 
+<!ENTITY ccAddr.label   "Көшірме:"> 
+<!ENTITY bccAddr.label  "Жасырын көшірме:"> 
+<!ENTITY replyAddr.label   "Жауап алушы:"> 
+<!ENTITY newsgroupsAddr.label   "Жаңалықтар тобы:"> 
 
 
