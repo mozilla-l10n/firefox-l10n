@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Četvrtak" >
 <!ENTITY day.6.name "Petak" >
 <!ENTITY day.7.name "Subota" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "minuta">
-<!ENTITY calendar.global.units.minutes  "minute">
-<!ENTITY calendar.global.units.hour     "sat">
-<!ENTITY calendar.global.units.hours    "sati">
-<!ENTITY calendar.global.units.day      "dan">
-<!ENTITY calendar.global.units.days     "dani">
 
 <!ENTITY month.1.name "Siječanj" >
 <!ENTITY month.2.name "Veljača" >
