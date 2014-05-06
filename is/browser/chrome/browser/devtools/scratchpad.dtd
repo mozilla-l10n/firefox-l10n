@@ -54,6 +54,7 @@
 <!ENTITY display.key "l">
 <!ENTITY pprint.label "Pretty Print">
 <!ENTITY pprint.key "p">
+<!ENTITY pprint.accesskey "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -87,7 +88,7 @@
 <!ENTITY resetContext2.label "Reset Variables">
 <!ENTITY resetContext2.accesskey "T">
 <!ENTITY reloadAndRun.label "Reload And Run">
-<!ENTITY reloadAndRun.accesskey "e">
+<!ENTITY reloadAndRun.accesskey "E">
 <!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Execute">
 <!ENTITY executeMenu.accesskey "X">

@@ -1,4 +1,15 @@
 <!ENTITY aboutDialog.title "Um &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label "Leita að uppfærslum">
+<!ENTITY update.checkForUpdatesButton.accesskey "L">
+<!ENTITY update.updateButton.label "Endurræstu til að uppfæra">
+<!ENTITY update.updateButton.accesskey "r">
+<!ENTITY update.applyButtonBillboard.label "Virkja uppfærslu…">
+<!ENTITY update.applyButtonBillboard.accesskey "a">
 <!ENTITY community.start2 "&brandShortName; er hannað af ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
@@ -18,8 +29,6 @@
 <!ENTITY bottomLinks.privacy "Meðferð persónuupplýsinga">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates "Athuga með uppfærslur…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Athuga samhæfni viðbótar…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound "&brandShortName; er þegar með nýjustu útgáfu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

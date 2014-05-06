@@ -192,6 +192,7 @@
 <!ENTITY attachButton.label "Skrá">
 <!ENTITY spellingButton.label "Stafsetning">
 <!ENTITY saveButton.label "Vista">
+<!ENTITY printButton.label "Prenta">
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Senda þennan póst núna">
 <!ENTITY sendlaterButton.tooltip "Senda þennan póst seinna">
@@ -203,6 +204,7 @@
 <!ENTITY cutButton.tooltip "Klippa">
 <!ENTITY copyButton.tooltip "Afrita">
 <!ENTITY pasteButton.tooltip "Líma">
+<!ENTITY printButton.tooltip "Prenta þennan póst">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

@@ -28,3 +28,4 @@
 <!ENTITY button.exportOPML.accesskey "t">
 <!ENTITY button.exportOPML.tooltip "Flytja út strauma með möppulista; ctrl smelltu eða ctrl enter til að flytja út strauma sem lista">
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label "Loka">

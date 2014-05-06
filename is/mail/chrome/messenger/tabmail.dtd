@@ -4,3 +4,6 @@
 
 <!ENTITY closeTab.label "Loka flipa">
 <!ENTITY listAllTabs.label "Sýna alla flipa">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY defaultTabTitle.label "Heima">

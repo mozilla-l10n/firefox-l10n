@@ -12,7 +12,7 @@
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label "Atburður…">
 <!ENTITY lightning.menupopup.new.event.accesskey "A">
-<!ENTITY lightning.menupopup.new.task.label "Verk…">
+<!ENTITY lightning.menupopup.new.task.label "Verkefni…">
 <!ENTITY lightning.menupopup.new.task.accesskey "V">
 <!ENTITY lightning.menupopup.new.calendar.label "Dagatal…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "D">
@@ -26,10 +26,10 @@
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label "Dagatal">
 <!ENTITY lightning.menu.view.calendar.accesskey "D">
-<!ENTITY lightning.menu.view.tasks.label "Verk">
+<!ENTITY lightning.menu.view.tasks.label "Verkefni">
 <!ENTITY lightning.menu.view.tasks.accesskey "k">
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label "Atburðir og verk">
+<!ENTITY lightning.menu.eventtask.label "Atburðir og verkefni">
 <!ENTITY lightning.menu.eventtask.accesskey "A">
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label "Tölvupóstfang:">

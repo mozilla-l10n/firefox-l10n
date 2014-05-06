@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink "Hvað er í hrunskýrslu?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Hrunskýrsla inniheldur eitthvað af upplýsingum um hrunið, tölvuna þína, og einnig stöðuyfirlit af vafranum þegar hann hrundi.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Þetta gæti innihaldið hluti eins og opnar síður, innsleginn texta í form og innihald opinna skilaboða, nýleg ferli, eða staðsetningu sem var deilt með vefsvæði.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Við notum hrunskýrslur til að laga galla og betrumbæta okkar vörur. Við meðhöndlum upplýsingarnar þínar eins og lýst er í ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Við notum hrunskýrslur til að laga galla og betrumbæta okkar vörur. Við meðhöndlum upplýsingarnar þínar eins og lýst er í ">
 <!ENTITY crashprompt.privacyPolicyLink "Meðferð persónuupplýsinga hjá &brandShortName;">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Bæta við netfangi síðunnar sem ég var á">
 <!ENTITY crashprompt.acceptbutton "Senda skýrslu">
 <!ENTITY crashprompt.refusebutton "Ekki senda">

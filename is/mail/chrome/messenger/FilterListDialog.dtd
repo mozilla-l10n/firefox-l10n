@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Keyra síu(r) á:">
 <!ENTITY folderPickerPrefix.accesskey "K">
-<!ENTITY choosethis.label "veldu þessa möppu">
-<!ENTITY choosethisnewsserver.label "velja þennan sem fréttaþjón">
 <!ENTITY helpButton.label "Hjálp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

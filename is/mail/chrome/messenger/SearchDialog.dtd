@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Leita í póstum">
 <!ENTITY results.label "Niðurstöður">
-<!ENTITY moveHereMenu.label "Flytja hingað">
-<!ENTITY moveHereMenu.accesskey "h">
 <!ENTITY moveButton.label "Færa í">
 <!ENTITY moveButton.accesskey "æ">
 <!ENTITY closeCmd.key "W">
@@ -57,23 +55,22 @@
 <!ENTITY locationColumn.label "Staðsetning">
 <!ENTITY idColumn.label "Í móttekinni röð">
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Smelltu til að velja hvaða dálka á að sýna">
-<!ENTITY threadColumn.tooltip "Smelltu til að sýna umræður">
- 
-<!ENTITY fromColumn.tooltip "Smelltu til að raða eftir frá">
-<!ENTITY recipientColumn.tooltip "Smelltu til að raða eftir viðtakanda">
-<!ENTITY subjectColumn.tooltip "Smelltu til að raða eftir efni">
-<!ENTITY dateColumn.tooltip "Smelltu til að raða eftir dagsetningu">
-<!ENTITY priorityColumn.tooltip "Smelltu til að raða eftir forgangi">
-<!ENTITY tagsColumn.tooltip "Smelltu til að raða eftir flokki">
-<!ENTITY accountColumn.tooltip "Smelltu til að raða eftir reikningi">
-<!ENTITY statusColumn.tooltip "Smelltu til að raða eftir stöðu">
-<!ENTITY sizeColumn.tooltip "Smelltu til að raða eftir stærð">
-<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóstsstöðu">
-<!ENTITY unreadColumn.tooltip "Fjöldi ólesinna pósta í umræðu">
-<!ENTITY totalColumn.tooltip "Heildarfjöldi pósta í umræðu">
-<!ENTITY readColumn.tooltip "Smelltu til að raða eftir lesið">
-<!ENTITY receivedColumn.tooltip "Smelltu til að raða eftir móttekinni dagsetningu">
-<!ENTITY starredColumn.tooltip "Smelltu til að raða eftir stjörnumerkt">
-<!ENTITY locationColumn.tooltip "Smelltu til að raða eftir staðsetningu">
-<!ENTITY idColumn.tooltip "Smelltu til að raða eftir hvenær móttekið">
+<!ENTITY columnChooser2.tooltip "Veldu dálka til að birta">
+<!ENTITY threadColumn2.tooltip "Sýna póstþræði">
+<!ENTITY fromColumn2.tooltip "Raða eftir frá">
+<!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">
+<!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
+<!ENTITY dateColumn2.tooltip "Raða eftir dagsetningu">
+<!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">
+<!ENTITY tagsColumn2.tooltip "Raða eftir tögum">
+<!ENTITY accountColumn2.tooltip "Raða eftir reikningi">
+<!ENTITY statusColumn2.tooltip "Raða eftir stöðu">
+<!ENTITY sizeColumn2.tooltip "Raða eftir Stærð">
+<!ENTITY junkStatusColumn2.tooltip "Raða eftir ruslpóststöðu">
+<!ENTITY unreadColumn2.tooltip "Fjöldi ólesinna pósta í umræðu">
+<!ENTITY totalColumn2.tooltip "Heildarfjöldi pósta í umræðu">
+<!ENTITY readColumn2.tooltip "Raða eftir lesið">
+<!ENTITY receivedColumn2.tooltip "Raða eftir móttekinni dagsetningu">
+<!ENTITY starredColumn2.tooltip "Raða eftir stjörnumerkingu">
+<!ENTITY locationColumn2.tooltip "Raða eftir staðsetningu">
+<!ENTITY idColumn2.tooltip "Raða eftir móttekinni röð">

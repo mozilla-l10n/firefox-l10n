@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label "Færa niður">
 <!ENTITY account.cancelReconnection.label "Hætta við að endurtengjast">
 <!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.copyDebugLog.label "Afrita atburðaskrá">
+<!ENTITY account.copyDebugLog.accesskey "A">
 <!ENTITY account.connecting "Tengist…">
 <!ENTITY account.disconnecting "Aftengist…">
 <!ENTITY account.disconnected "Ekki tengt">

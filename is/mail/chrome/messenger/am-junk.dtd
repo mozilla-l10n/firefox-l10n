@@ -17,7 +17,7 @@
 <!ENTITY purge2.label "daga">
 <!ENTITY whitelistHeader.label "Ekki merkja sjálfkrafa póst sem ruslpóst ef sendandi er í: ">
 <!ENTITY whitelistHeader.accesskey "d">
-<!ENTITY ispHeadersWarning.label "Ef gert virkt, mun &brandShortName; sjálkrafa merkja þann póst sem ber þetta ytra auðkenni sem ruslpóst.">
+<!ENTITY ispHeadersWarning.label "Ef gert virkt, mun &brandShortName; sjálfkrafa merkja þann póst sem ber þetta ytra auðkenni sem ruslpóst.">
 <!ENTITY ispHeaders.label "Treysta ruslpóstshausum sem eru búnir til af: ">
 <!ENTITY ispHeaders.accesskey "T">
 <!ENTITY junkClassification.label "Val">
