@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "तुमचे खाते प्रमाणित करण्याची गरज आहे. तपासणी इमेल परत पाठवण्यासाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_credentials "जोडले नाही गेले. साइन इनसाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_upgrade "साइन इनसाठी तुम्हाला &brandShortName; अद्ययावत करण्याची गरज आहे.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये \&quot;माहितीचे आपोआप ताळमेळ\&quot; &gt; माहिती वापर टॉगल करा.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. ताळमेळ सुरु करण्यासाठी टिचकी द्या.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords "पासवर्डस्">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; विषयी">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; चे हे प्रायोगिक प्रारूप आहे आणि ते अस्थिर असू शकते.">
-
+<!ENTITY aboutPage.telemetryStart               " आपोआप कार्यक्षमता, हार्डवेअर, वापर आणि पसंतीबद्दल माहिती पाठवते ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " &brandShortName; ला अधिक चांगले बनविण्यास मदत करा.">
 <!ENTITY aboutPage.checkForUpdates.link         "सुधारणांकरीता तपासणी करा »">

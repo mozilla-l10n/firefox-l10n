@@ -54,7 +54,7 @@
 <!ENTITY back "मागे">
 <!ENTITY stop "थांबा">
 <!ENTITY site_security "साइट सुरक्षा">
-<!ENTITY save "साठवा">
+<!ENTITY edit_mode_cancel "रद्द करा">
 
 <!ENTITY close_tab "टॅब बंद करा">
 <!ENTITY one_tab "१ टॅब">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "गुप्तता">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
+<!ENTITY pref_learn_more "आणखी शिका">
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
 <!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
 <!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI;चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
-<!ENTITY pref_developer_remotedebugging_docs "आणखी शिका">
 <!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
 
 <!ENTITY pref_category_home "घर">
@@ -155,14 +155,14 @@ size. -->
 <!ENTITY pref_sync "ताळमेळ">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Androidवरुन आयात करा">
-<!ENTITY pref_private_data_history "ब्राऊझिंग आणि डाऊनलोड इतिहास">
+<!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म आणि शोध इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
 <!ENTITY pref_private_data_passwords "साठवलेले पासवर्ड">
 <!ENTITY pref_private_data_cache "कॅशे">
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
-<!ENTITY pref_private_data_downloadFiles "फाईली डाउनलोड करा">
+<!ENTITY pref_private_data_downloadFiles2 "डाउनलोडस्">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
@@ -177,6 +177,9 @@ size. -->
 
 <!ENTITY pref_panels_show "दाखवा">
 <!ENTITY pref_panels_hide "लपवा">
+<!ENTITY pref_panels_reorder "क्रम बदला">
+<!ENTITY pref_panels_move_up "वर हलवा">
+<!ENTITY pref_panels_move_down "खाली हलवा">
 
 <!ENTITY datareporting_notification_title "&brandShortName; माहिती आणि आकडेवारी">
 <!ENTITY datareporting_notification_action_long "कोणती माहिती शेअर करावी ते निवडा">
@@ -200,8 +203,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
-<!ENTITY datareporting_wifi_title "&vendorShortName; स्थळ सेवा">
-<!ENTITY datareporting_wifi_summary "ओपन वेबसाठी जिओलोकेशन सेवा सुधारण्यासाठी &brandShortName;ला निनावी सेल्युलर टॉवर माहिती एकत्र करुन आणि पाठवणे">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
+<!ENTITY datareporting_wifi_geolocation_summary "पडद्यामागे चालु असताना वाय-फाय आणि सेल्युलर स्थान माहिती मिळवते आणि आमची जिओलोकेशन सेवा सुधारण्यासाठी &vendorShortName;सोबत शेअर करते">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -214,7 +217,7 @@ size. -->
 <!ENTITY quit "बाहेर पडा">
 
 <!ENTITY addons "ॲड-ऑन्स">
-<!ENTITY downloads "डाउनलोड्स">
+<!ENTITY downloads "डाउनलोडस्">
 <!ENTITY apps "ॲप्स">
 <!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
 
@@ -288,7 +291,6 @@ size. -->
 <!ENTITY site_settings_clear        "पुसा">
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
 
-<!ENTITY reading_list_add "वाचन यादीत जोडा">
 <!ENTITY reading_list_added "पान तुमच्या वाचन यादीत जोडले गेले">
 <!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
 <!ENTITY reading_list_failed "तुमच्या वाचन यादीत पान जोडण्यात अयशस्वी">
@@ -336,6 +338,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "या पटलासाठी कुठलाही मजकूर सापडला नाही.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; पर्यंत">
 
 <!ENTITY pin_site_dialog_hint "शोधशब्द टाका">
 
@@ -415,6 +421,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
 <!ENTITY exit_guest_session_text "या सत्राची ब्राउझिंग माहिती काढून टाकली जाईल.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

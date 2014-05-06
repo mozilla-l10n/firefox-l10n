@@ -17,23 +17,36 @@
 <!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
 
 <!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
-
+<!ENTITY dnsNotFound.longDesc2 "<ul>  
+<li>पत्ता टाईप करतेवेळीच्या चुका तपासा जसे 
+<strong>www</strong>.example.com च्या एेवजी</li> 
+<strong>ww</strong>.example.com 
+<li>जर आपण कुठलेही पान लोड करू शकत नसाल, तर आपल्या उपकरणाची माहिती किंवा वाय-फाय जोडणी तपासा.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
-
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li> कॅपिटल अक्षरांचा उपयोग, किंवा इतर टायपिंग त्रूटीं करता फाइलचे नाव तपासा.</li> 
+<li>फाइल स्थानांतरित, पुनःनामांकित किंवा काढून टाकली आहे का याची तपासणी करा.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "अरेच्या !.">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणामुळे, हे पृष्ठ दाखल करू शकत नाही.</p>">
 
 <!ENTITY malformedURI.title "पत्ता वैध नाही">
-
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>वेब पत्ता शक्यतो खालील प्रमाणे लिहीले जातो 
+<strong>http://www.example.com/</strong></li> 
+<li>फॉरवर्ड स्लॅश वापरत आहात याची खात्री करा (जसे 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "दस्तऐवज मुदतबाह्य">
-
+<!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरी म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजाची पुनःविनंती करत नाही.</li><li>संकेतस्थळावरून दस्तऐवज परत मागविण्यासाठी पुनःप्रयत्न करा या बटनला क्लिक करा.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -62,29 +75,55 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्वर नकार देत आहे">
-
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>प्रॉक्सी सेटींग अचूक आहेत याची खात्री करा.</li> 
+<li>प्रॉक्सी सर्वर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क 
+प्रशासकाशी संपर्क करा.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
-
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>प्रॉक्सी सेटींग बरोबर आहेत हे खातरजमा करा.</li> 
+<li>तुमच्या उपकरणावर माहिती किंवा वाय-फाय कनेक्शन सुस्थीतीत आहे हे खातरजमा करा.</li> 
+</ul">
 
 <!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
-
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>ही अडचण कधीकधी कुकीजचे समर्थन नसल्यास किंवा स्वीकार 
+न केल्यामुळेही होते.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर कडून अनपेक्षित प्रतिसाद">
-
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>आपल्या प्रणालीवर व्यक्तिगत सुरक्षा व्यवस्थापक प्रस्थापित आहे 
+याची खातरजमा करा.</li> 
+<li>याचे कारण सर्वर वरील अमानक संरचना असू शकते.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षीत जोडणी अपयशी">
-
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>प्राप्त माहितीची अधिप्रमाणता तपासता न आल्यामुळे आपणास इच्छिक पान पाहता येत नाही.</li> 
+<li>कृपया संकेतस्थळाच्या मालकांना या अडचणी विषयी कळवा. वैकल्पिकरित्या, मदत मेनुमध्ये आढळणाऱ्या कमांड चा वापर करून, हे संकेतस्थळ सापडत नाही ही माहीती द्या.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>हे या सर्वरवरील संयोजनातील अडचण असू शकते, किंवा सर्वर नुरूप बहरूपी 
+सुद्धा असू शकतो.</li> 
+<li>आपण या सर्वरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व तुम्ही 
+पुनःप्रयत्न करू शकता.</li> 
+</ul>">
 
-
+<!ENTITY sharedLongDesc2 "ul> 
+<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> 
+<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीचे माहिती किंवा वाय-फाय जोडणी तपासा.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
 
 <!ENTITY corruptedContentError.title "दुषीत मजकूर त्रुटी">
-
+<!ENTITY corruptedContentError.longDesc "<p>माहिती स्थानांतरणवेळी त्रुटी आढळल्याने, अपेक्षीत पान दाखवणे शक्य नाही.</p><ul><li> या अडचणीविषयी माहिती देण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क साधा.</li></ul>">
 
 <!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद यादीत जोडू शकता…">
 <!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
@@ -93,6 +132,12 @@
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्वरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p> 
+  
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
