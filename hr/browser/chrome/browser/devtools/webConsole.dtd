@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Upozorenja">
 <!ENTITY btnConsoleLog          "Zapisnik">
 
+
 <!ENTITY filterOutput.placeholder "Rezultati filtra">
 <!ENTITY btnClear.label        "Očisti">
 <!ENTITY btnClear.tooltip      "Očisti sadržaj Web konzole">

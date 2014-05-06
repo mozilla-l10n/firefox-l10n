@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Prikaz preko cijelog zaslona">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Napusti prikaz preko cijelog zaslona">
 
+
 <!ENTITY stats.media "Medij">
 <!ENTITY stats.size "Veličina">
 <!ENTITY stats.activity "Aktivnost">
