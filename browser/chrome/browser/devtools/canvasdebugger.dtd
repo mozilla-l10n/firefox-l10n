@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice1 "Recàrega">
+<!ENTITY canvasDebuggerUI.reloadNotice2 "A pàgina pe fâ o debug di contèsti &lt;canvas&gt;.">
+<!ENTITY canvasDebuggerUI.emptyNotice1 "Sciàcca in sciô">
+<!ENTITY canvasDebuggerUI.emptyNotice2 "poméllo pe registrâ o stack de ciamâ de 'n frame de l’animaçión.">
+<!ENTITY canvasDebuggerUI.importNotice "Càrego…">
+<!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Regìstra o frame ch'o l'é dòppo a sequénsa de animaçión.">
+<!ENTITY canvasDebuggerUI.importSnapshot "Inpòrta…">
+<!ENTITY canvasDebuggerUI.clearSnapshots "Scancèlla">
+<!ENTITY canvasDebuggerUI.searchboxPlaceholder "Fìltra ciamæ">
