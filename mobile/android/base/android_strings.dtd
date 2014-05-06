@@ -54,7 +54,7 @@
 <!ENTITY back "Артқа">
 <!ENTITY stop "Тоқтату">
 <!ENTITY site_security "Сайт қорғанысы">
-<!ENTITY save "Сақтау">
+<!ENTITY edit_mode_cancel "Бас тарту">
 
 <!ENTITY close_tab "Бетті жабу">
 <!ENTITY one_tab "1 бет">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Жекелік">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
+<!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
 <!ENTITY pref_category_add_search_providers "Көбірек іздеу жүйелерін қосу">
 <!ENTITY pref_category_search_restore_defaults "Іздеу жүйелерін қалпына келтіру">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
-<!ENTITY pref_developer_remotedebugging_docs "Көбірек білу">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
 
 <!ENTITY pref_category_home "Үй">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Синхрондау">
 <!ENTITY pref_search_suggestions "Іздеу ұсыныстарын көрсету">
 <!ENTITY pref_import_android "Android-тан импорттау">
-<!ENTITY pref_private_data_history "Қарап шығу және жүктемелер тарихы">
+<!ENTITY pref_private_data_history2 "Шолу тарихы">
 <!ENTITY pref_private_data_formdata "Формалар және іздеу тарихы">
 <!ENTITY pref_private_data_cookies2 "Cookies және белсенді сеанстар">
 <!ENTITY pref_private_data_passwords "Сақталған парольдер">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Дербес веб-сайттар ақпараты">
 <!ENTITY pref_private_data_siteSettings2 "Сайт баптаулары">
-<!ENTITY pref_private_data_downloadFiles "Жүктелген файлдар">
+<!ENTITY pref_private_data_downloadFiles2 "Жүктемелер">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Көрсету">
 <!ENTITY pref_panels_hide "Жасыру">
+<!ENTITY pref_panels_reorder "Ретін өзгерту">
+<!ENTITY pref_panels_move_up "Жоғары жылжыту">
+<!ENTITY pref_panels_move_down "Төмен жылжыту">
 
 <!ENTITY datareporting_notification_title "&brandShortName; статистика және деректері">
 <!ENTITY datareporting_notification_action_long "Бөлісетін мәліметіңізді таңдаңыз">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
-<!ENTITY datareporting_wifi_title "&vendorShortName; орналасу қызметтері">
-<!ENTITY datareporting_wifi_summary "&brandShortName; өніміне анонимды ұялы желі ақпаратын жинау және жіберуді рұқсат ету арқылы ашық интернет үшін геолокация қызметтерін жақсартуға көмектесіңіз">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
+<!ENTITY datareporting_wifi_geolocation_summary "Фонда орындалып, Wi-Fi және ұялы желілер деректерін ұстап, олармен &vendorShortName;-мен геолокация қызметтерін жақсарту мақсатында бөліседі">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Тазарту">
 <!ENTITY site_settings_no_settings  "Тазарту үшін баптаулар жоқ.">
 
-<!ENTITY reading_list_add "Оқу тізіміне қосу">
 <!ENTITY reading_list_added "Парақ сіздің Оқу тізіміңізге қосылды">
 <!ENTITY reading_list_removed "Парақ сіздің Оқу тізіміңізден өшірілді">
 <!ENTITY reading_list_failed "Парақты сіздің Оқу тізіміңізге қосу сәтсіз аяқталды">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Бұл панель үшін құрама табылмады.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
@@ -415,6 +421,12 @@ Android-тан импорттау">
 
 <!ENTITY exit_guest_session_title "&brandShortName; қайта іске қосылатын болады">
 <!ENTITY exit_guest_session_text "Бұл сессияның шолу деректері өшірілетін болады.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
