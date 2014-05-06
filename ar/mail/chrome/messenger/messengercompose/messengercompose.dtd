@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "متراسل دفتر العناوين…">
 <!ENTITY newContact.accesskey "ت">
 <!ENTITY attachMenu.label "أرفق">
-<!ENTITY attachMenu.accesskey "ر">
+<!ENTITY attachMenu.accesskey "ف">
 <!ENTITY attachFileCmd.label "ملفات…">
 <!ENTITY attachFileCmd.accesskey "م">
 <!ENTITY attachFileCmd.key "ف">
@@ -202,6 +202,7 @@
 <!ENTITY attachButton.label "أرفق">
 <!ENTITY spellingButton.label "الإملاء">
 <!ENTITY saveButton.label "احفظ">
+<!ENTITY printButton.label "اطبع">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "أرسِل هذه الرسالة الآن">
@@ -214,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "قص">
 <!ENTITY copyButton.tooltip             "انسخ">
 <!ENTITY pasteButton.tooltip            "الصق">
+<!ENTITY printButton.tooltip "اطبع هذه الرسالة">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

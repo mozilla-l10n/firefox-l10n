@@ -65,4 +65,16 @@
 
 
 
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+#define bookmarks_marketplace متجر فَيرفُكس
+
+
+
 #unfilter emptyLines

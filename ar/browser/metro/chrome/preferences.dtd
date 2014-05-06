@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "تسجيلات الدخول النشِطة">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "تذكّر كلمات السر">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "أظهر أزرار الإبحار">
 <!ENTITY doNotTrack.title                                        "لا تتعقبني">
 <!ENTITY doNotTrack.options.doNotTrack                           "أخبر المواقع أنني لا أريدها أن تتعقبني">
 <!ENTITY doNotTrack.options.doTrack                              "أخبر المواقع أنني أريدها أن تتعقبني">

@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "عنْ &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "التمس التحديثات">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ت">
+<!ENTITY update.updateButton.label                "أعد التشغيل للتحديث">
+<!ENTITY update.updateButton.accesskey            "ش">
+<!ENTITY update.applyButtonBillboard.label        "طبّق التحديث…">
+<!ENTITY update.applyButtonBillboard.accesskey    "ط">
 
 <!ENTITY community.start2           "‫&brandShortName; صممه">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "يلتمس التحديثات…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "يتحقق من توافقية الإضافات…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; مُحدَّث">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

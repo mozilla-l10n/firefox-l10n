@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "ابحث">
-<!ENTITY newpref.label          "أضِف تفضيلًا جديدًا">
 <!ENTITY addpref.name           "الاسم">
-<!ENTITY addpref.value          "القيمة">
 
 <!ENTITY cancel.label           "ألغِ">
-<!ENTITY reset.label            "صفّر">
-<!ENTITY done.label             "تمّ">
+<!ENTITY toggle.label           "بدِّل">
 
 <!ENTITY integer.label          "عدد صحيح">
 <!ENTITY string.label           "نصّ">
 <!ENTITY boolean.label          "عدد منطقي">
+
+<!ENTITY string.placeholder     "أدخل نصًا">
+<!ENTITY number.placeholder     "أدخل رقمًا">
