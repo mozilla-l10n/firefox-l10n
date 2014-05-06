@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "ذ">
 <!ENTITY searchDialogTitle.label     "ابحث في الرّسائل">
 <!ENTITY results.label               "النتائج">
-<!ENTITY moveHereMenu.label          "انقل هنا">
-<!ENTITY moveHereMenu.accesskey      "ق">
 <!ENTITY moveButton.label            "انقل إلى">
 <!ENTITY moveButton.accesskey        "ل">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "ترتيب الوصول">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "انقر لتختر الأعمدة التي ستُعرض">
-<!ENTITY threadColumn.tooltip "انقر لعرض رسائل النقاشات"> 
-<!ENTITY fromColumn.tooltip "انقر للترتيب حسب المرسِل">
-<!ENTITY recipientColumn.tooltip "انقر لترتب حسب المُستلِم">
-<!ENTITY subjectColumn.tooltip "انقر لترتب حسب الموضوع">
-<!ENTITY dateColumn.tooltip "انقر لترتب حسب التاريخ">
-<!ENTITY priorityColumn.tooltip "انقر لترتب حسب الأولوية">
-<!ENTITY tagsColumn.tooltip "انقر لترتب حسب الوسوم">
-<!ENTITY accountColumn.tooltip "انقر لترتب حسب الحساب">
-<!ENTITY statusColumn.tooltip "انقر لترتب حسب الحالة">
-<!ENTITY sizeColumn.tooltip "انقر لترتب حسب الحجم">
-<!ENTITY junkStatusColumn.tooltip "انقر لترتب حسب حالة السخام">
-<!ENTITY unreadColumn.tooltip "رقم الرسائل غير المقروءة في النقاش">
-<!ENTITY totalColumn.tooltip "العدد الكلِّي للرسائل في النقاش">
-<!ENTITY readColumn.tooltip "انقر لترتب حسب المقروء">
-<!ENTITY receivedColumn.tooltip "انقر للترتيب حسب تاريخ الاستلام">
-<!ENTITY starredColumn.tooltip "انقر لترتب حسب النجمة">
-<!ENTITY locationColumn.tooltip "انقر لترتب حسب الموضع">
-<!ENTITY idColumn.tooltip "انقر لترتب حسب ترتيب الاستلام">
+<!ENTITY columnChooser2.tooltip "اختر الأعمدة التي ستعرض">
+<!ENTITY threadColumn2.tooltip "اعرض سلاسل الرسائل">
+<!ENTITY fromColumn2.tooltip "رتّب حسب المُرسِل">
+<!ENTITY recipientColumn2.tooltip "رتّب حسب المستلم">
+<!ENTITY subjectColumn2.tooltip "رتّب حسب الموضوع">
+<!ENTITY dateColumn2.tooltip "رتّب حسب التاريخ">
+<!ENTITY priorityColumn2.tooltip "رتّب حسب الأولوية">
+<!ENTITY tagsColumn2.tooltip "رتّب حسب الوسوم">
+<!ENTITY accountColumn2.tooltip "رتّب حسب الحساب">
+<!ENTITY statusColumn2.tooltip "رتّب حسب الحالة">
+<!ENTITY sizeColumn2.tooltip "رتّب حسب الحجم">
+<!ENTITY junkStatusColumn2.tooltip "رتّب حسب حالة السخام">
+<!ENTITY unreadColumn2.tooltip "رقم الرسائل غير المقروءة في النقاش">
+<!ENTITY totalColumn2.tooltip "العدد الكلِّي للرسائل في النقاش">
+<!ENTITY readColumn2.tooltip "رتّب حسب القراءة">
+<!ENTITY receivedColumn2.tooltip "رتّب حسب تاريخ الاستلام">
+<!ENTITY starredColumn2.tooltip "رتّب حسب النجمة">
+<!ENTITY locationColumn2.tooltip "رتّب حسب المكان">
+<!ENTITY idColumn2.tooltip "رتّب حسب ترتيب الاستلام">

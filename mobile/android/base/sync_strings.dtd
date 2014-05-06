@@ -30,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "أدخل معلومات حساب &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "اسم الحساب">
-<!ENTITY sync.input.password.label "كلمة السر">
+<!ENTITY sync.input.password.label "كلمة السّر">
 <!ENTITY sync.input.key.label "مفتاح الاستعادة">
 <!ENTITY sync.checkbox.server.label "استخدم خادومًا مخصصًا">
 <!ENTITY sync.input.server.label "عنوان الخادوم">
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ماذا سيُزامَن">
 <!ENTITY sync.configure.engines.sync.my.title.label "زامِن…">
 <!ENTITY sync.configure.engines.title.bookmarks "العلامات">
-<!ENTITY sync.configure.engines.title.passwords "كلمات السر">
+<!ENTITY sync.configure.engines.title.passwords "كلمات السّر">
 <!ENTITY sync.configure.engines.title.history "التأريخ">
 <!ENTITY sync.configure.engines.title.tabs "الألسنة">
 <!-- Common text -->
@@ -71,10 +71,10 @@
 <!ENTITY sync.button.connect.label "اتصل">
 <!ENTITY sync.button.ok.label "حسنا">
 <!-- Account strings -->
-  
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (لاغٍ)">
 <!-- Bookmark folder strings -->
-  
+
 <!ENTITY bookmarks.folder.menu.label "قائمة العلامات">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "الوسوم">
@@ -104,3 +104,95 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.fullName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
 <!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
 <!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
+<!-- Firefox account strings. -->
+<!-- Localization note: these describe icons and graphics, and are
+     consumed by assistive devices. -->
+
+
+<!ENTITY fxaccount_checkbox_contentDescription2 "صورة مربع اختيار حسابات فَيرفُكس">
+<!ENTITY fxaccount_icon_contentDescription2 "أيقونة حسابات فَيرفُكس">
+<!ENTITY fxaccount_intro_contentDescription2 "صورة مقدمة حسابات فَيرفُكس">
+<!ENTITY fxaccount_mail_contentDescription2 "صورة ظرف حسابات فَيرفُكس">
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_email_hint "البريد">
+<!ENTITY fxaccount_password_hint "كلمة السّر">
+<!ENTITY fxaccount_password_hide "أخفِ">
+<!ENTITY fxaccount_password_show "أظهِر">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "عُد إلى التصفح">
+
+<!ENTITY fxaccount_policy_linktos "بنود الخدمة">
+<!ENTITY fxaccount_policy_linkprivacy "تنبيه الخصوصية">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "مرحبًا في &syncBrand.shortName.label;">
+
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox" account. -->
+
+
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_button "التالي">
+
+
+
+
+
+
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "اطّلع على المزيد">
+
+<!-- Localization note: &formatS; is the Firefox account's email address. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox account. Don't localize this. -->
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > [Firefox
+     Account] Screen. The link takes the user to the Firefox account
+     status activity, which lets them manage their Firefox
+     account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+
+
+
+
+
+
+
+<!-- Note to translators: the format string below will be replaced
+     with the Firefox account's email address. -->

@@ -9,6 +9,7 @@
 <!ENTITY back.label            "إلى الخلف">
 <!ENTITY forward.label         "إلى الأمام">
 <!ENTITY newtab.label          "لسان جديد">
+<!ENTITY newPrivateTab.label   "لسان خاص جديد">
 <!ENTITY closetab.label        "أغلِق اللسان">
 
 <!ENTITY autocompleteResultsHeader.label  "نتائجك">
@@ -58,10 +59,12 @@
 <!ENTITY consoleMessages.label     "الرسائل">
 <!ENTITY consoleCodeEval.label     "الكود:">
 <!ENTITY consoleClear.label        "امسح">
+<!ENTITY consoleCopyAll.label      "انسخ">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "الملفّ المصدر:">
 <!ENTITY consoleErrLine.label      "سطر:">
 <!ENTITY consoleErrColumn.label    "عمود:">
+<!ENTITY consoleFollowCheckbox.label "اتبع">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "قصّ">
@@ -103,6 +106,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "خ">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,10 +122,7 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
 <!ENTITY firstRunTabs.label "هل تبحث عن ألسنتك؟ اسحب لأسفل أو انقر بالزر الأيمن">
@@ -130,3 +132,18 @@
 <!ENTITY firstRunHistory.label "اطّلع على الأماكن التي زُرتها على الوب">
 <!ENTITY firstRunWelcome.label "مرحبًا مع &brandShortName;">
 <!ENTITY firstRunDifferent.label "مختلف من الأساس">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "انقر للعودة إلى الصفحة السابقة">
+<!ENTITY firstRunNewTab.label "أضف لسانًا جديدًا لاستكشاف موقع جديد">
+<!ENTITY firstRunStar.label "استخدم العلامات لحفظ الصفحات لقراءتها لاحقًا">
+<!ENTITY firstRunPin.label "ثبّت أي موقع في نافذة بداية وندوز للوصول السريع">
+<!ENTITY firstRunGotIt.label "فهمت">
