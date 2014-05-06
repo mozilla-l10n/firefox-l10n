@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Se agotó el tiempo de espera">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "No se comprende la dirección">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "No se comprende la dirección">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Necesitas instalar otro programa para abrir esta dirección.</li> 
 </ul>">
 
