@@ -5,7 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "Synk">
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
@@ -55,7 +55,7 @@
 <!ENTITY sync.pair.connectlocation.label "Aktivera din nya enhet genom att välja ”Ställ in &syncBrand.shortName.label;” på enheten, välj sedan ”Jag har ett konto”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
-<!ENTITY sync.settings.options.label "Alternativ">
+<!ENTITY sync.settings.options.label "Inställningar">
 <!ENTITY sync.summary.pair.label "Länka annan enhet till ditt &syncBrand.shortName.label;-konto">
 <!-- Configure Engines -->
 
@@ -125,8 +125,8 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "tjänstevillkoren">
-<!ENTITY fxaccount_policy_linkprivacy "integritetspolicyn">
+<!ENTITY fxaccount_policy_linktos "Tjänstevillkoren">
+<!ENTITY fxaccount_policy_linkprivacy "Integritetspolicy">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Välkommen till &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Logga in för att synka dina flikar, bokmärken, lösenord och annat.">
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ditt konto måste bekräftas. Tryck för att skicka ett nytt bekräftelsemejl.">
 <!ENTITY fxaccount_status_needs_credentials "Kan inte ansluta. Tryck för att logga in.">
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords "Lösenord">
