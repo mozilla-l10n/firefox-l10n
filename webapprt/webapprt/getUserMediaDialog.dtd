@@ -6,10 +6,10 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "मीडिया साझाकरण">
-
-
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "साझा करें (S)">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
+<!ENTITY getUserMediaDialog.button.cancel.label     "रद्द करें (n)">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "कैमरा चुनें">
 <!ENTITY getUserMediaDialog.video.noVideo           "कोई वीडियो नहीं">

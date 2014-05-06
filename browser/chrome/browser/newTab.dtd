@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "पहले जैसा.">
 <!ENTITY newtab.undo.restoreButton "सभी बहाल करें.">
 <!ENTITY newtab.undo.closeTooltip "छिपाएँ">
+
+
+<!ENTITY newtab.panel.link.text "अधिक जानें…">
