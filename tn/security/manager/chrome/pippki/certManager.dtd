@@ -25,7 +25,7 @@
 
 <!ENTITY certmgr.subjectinfo.label            "Rebotswe Go">
 <!ENTITY certmgr.issuerinfo.label             "Rebotswe Ke">
-<!ENTITY certmgr.validity.label               "Boammaaruri/Go dira" >
+
 <!ENTITY certmgr.fingerprints.label           "Dikgatiso tsa menwana">
 <!ENTITY certmgr.certdetail.title             "Dintlha tsa Setifikeiti">
 <!ENTITY certmgr.certdetail.cn                "Leina le le Tlwaelegileng (CN)">
@@ -57,7 +57,7 @@
 
 
 <!ENTITY certmgr.tokenname                    "Sediriswa sa Pabalesego">
-<!ENTITY certmgr.issued                       "Rebotswe ka La">
+
 <!ENTITY certmgr.expires                      "Khutla go dira ka La">
 <!ENTITY certmgr.email                        "Aterese ya Poso ya Eleketoroniki">
 <!ENTITY certmgr.serial                       "Palotatelano">
