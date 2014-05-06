@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Rhaid i\u0027ch cyfrif gael ei ddilysu. Tapiwch i ail anfon e-bost dilysu.">
 <!ENTITY fxaccount_status_needs_credentials "Methu cysylltu. Tapiwch i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_upgrade "Rhaid diweddaru &brandShortName; i fewngofnodi.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
+<!ENTITY fxaccount_status_needs_account_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Tapiwch i gychwyn cydweddu.">
 <!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
 <!ENTITY fxaccount_status_passwords "Cyfrineiriau">

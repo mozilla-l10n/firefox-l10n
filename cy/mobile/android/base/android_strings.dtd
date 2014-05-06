@@ -54,7 +54,7 @@
 <!ENTITY back "Nôl">
 <!ENTITY stop "Atal">
 <!ENTITY site_security "Diogelwch Gwefan">
-<!ENTITY save "Cadw">
+<!ENTITY edit_mode_cancel "Diddymu">
 
 <!ENTITY close_tab "Cau Tab">
 <!ENTITY one_tab "1 tab">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Preifatrwydd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
+<!ENTITY pref_learn_more "Dysgu rhagor">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
 <!ENTITY pref_category_add_search_providers "Ychwanegu rhagor o ddarparwyr chwilio">
 <!ENTITY pref_category_search_restore_defaults "Adfer peiriannau chwilio">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_devtools "Offer datblygwyr">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
-<!ENTITY pref_developer_remotedebugging_docs "Dysgu rhagor">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
 
 <!ENTITY pref_category_home "Cartref">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "Cydweddu">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
-<!ENTITY pref_private_data_history "Pori a hanes llwytho i lawr">
+<!ENTITY pref_private_data_history2 "Hanes pori">
 <!ENTITY pref_private_data_formdata "Hanes ffurflenni a chwilio">
 <!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan">
-<!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
+<!ENTITY pref_private_data_downloadFiles2 "Llwythi">
 
 
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Dangos">
 <!ENTITY pref_panels_hide "Cuddio">
+<!ENTITY pref_panels_reorder "Newid trefn">
+<!ENTITY pref_panels_move_up "Symud i fyny">
+<!ENTITY pref_panels_move_down "Symud i lawr">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
-<!ENTITY datareporting_wifi_title "Gwasanaethau lleoliad &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Cynorthwyo i wella gwasanaethau geoleoliad ar gyfer y We Agored drwy ganiatáu i &brandShortName; gasglu ac anfon data twr cellog dienw">
+<!ENTITY datareporting_wifi_title2 "Gwasanaethau Lleoliad &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary "Mae\u0027n derbyn data lleoliad diwyfr a cellog wrth redeg yn y cefndir ac yn ei rhannu gyda &vendorShortName; i wella ein gwasanaeth geoleoliad">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
 
-<!ENTITY reading_list_add "Ychwanegu at y Rhestr Ddarllen">
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
 <!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Methu canfod cynnwys ar gyfer y panel hwn.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "Hyd at &formatS;">
 
 <!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
@@ -417,6 +423,12 @@ o Android">
 
 <!ENTITY exit_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
 <!ENTITY exit_guest_session_text "Bydd manylion pori\u0027r sesiwn yn cael ei ddileu.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
