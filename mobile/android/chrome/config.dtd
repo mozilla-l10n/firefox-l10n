@@ -9,7 +9,7 @@
 
 <!ENTITY newPref.valueBoolean          "ប៊ូលីន">
 <!ENTITY newPref.valueString           "ខ្សែ​អក្សរ">
-<!ENTITY newPref.valueInteger          "ចំនួនគត់">
+<!ENTITY newPref.valueInteger          "ចំនួន​គត់">
 
 <!ENTITY newPref.stringPlaceholder     "បញ្ចូល​អក្សរ">
 <!ENTITY newPref.numberPlaceholder     "បញ្ចូល​លេខ">
