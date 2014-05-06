@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Lung" >
 <!ENTITY pref.dateformat.short "Scurt"  >
-<!ENTITY pref.defaultlength.label "Durata implicită a evenimentului:" >
-<!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Durata implicită a amânării alarmei:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "D">
+
+<!ENTITY pref.defaults.label "Valori implicite pentru elementele noi">
+<!ENTITY pref.events.label "Evenimente">
+<!ENTITY pref.tasks.label "Sarcini">
+
+<!ENTITY pref.default_event_length.label "Lungime implicită:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Niciuna">
+<!ENTITY pref.default_task_start_of_day.label "Ziua de început">
+<!ENTITY pref.default_task_end_of_day.label "Ziua de finalizat">
+<!ENTITY pref.default_task_tomorrow.label "Mâine">
+<!ENTITY pref.default_task_next_week.label "Săptămâna viitoare">
+<!ENTITY pref.default_task_offset_current.label "Relativ față de ora curentă">
+<!ENTITY pref.default_task_offset_start.label "Relativ față de pornire">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativ față ora următoare">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
 <!ENTITY pref.systemcolors.label "Optimizare culori pentru accesibilitate" >

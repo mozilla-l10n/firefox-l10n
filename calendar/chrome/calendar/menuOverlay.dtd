@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event                        "Eveniment nou...">
+<!ENTITY event.new.event                        "Eveniment nou…">
 <!ENTITY event.new.event.accesskey              "n">
 
 <!ENTITY event.new.task                         "Sarcină nouă…">
 <!ENTITY event.new.task.accesskey               "S">
 
-<!ENTITY calendar.import.label                  "Importă...">
+<!ENTITY calendar.import.label                  "Importă…">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label                  "Exportă...">
+<!ENTITY calendar.export.label                  "Exportă…">
 <!ENTITY calendar.export.accesskey              "E">
 
 <!ENTITY calendar.publish.label                 "Publică…">
