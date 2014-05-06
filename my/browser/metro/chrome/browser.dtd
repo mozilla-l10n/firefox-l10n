@@ -4,20 +4,27 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "ဝတ်ဆိုဒ်လိပ်စာ သို့မဟုတ် ရှာဖွေမည့်စကားလုံး ရိုက်ထည့်ပါ">
 
+<!ENTITY back.label            "နောက်သို့">
+<!ENTITY forward.label         "ရှေ့သို့">
+<!ENTITY newtab.label          "တပ်ဗ်အသစ်">
+<!ENTITY newPrivateTab.label   "လုံခြုံရေး​ တပ်ဗ်အသစ်တစ်ခုဖွင့်မည်">
+<!ENTITY closetab.label        "တပ်ဗ်အားပိတ်ပါ">
 
+<!ENTITY autocompleteResultsHeader.label  "ရှာဖွေမှူရလဒ်များ">
 
-
-
-
+<!ENTITY appbarErrorConsole.label      "အမှားယွင်းရှာဖွေမှူကွန်ဆိုကိုဖွင့်ပါ">
+<!ENTITY appbarJSShell.label           "JavaScript Shell အားဖွင့်ပါ">
 <!ENTITY appbarFindInPage2.label       "ဒီစာမျက်နှာတွင် ရှာပါ">
+<!ENTITY appbarRelaunchInDesktop.label "ဒတ်စ်တော့ခ်တွင်ပြန်ဖွင့်ပါ">
+<!ENTITY appbarMSMetaData2.label       "ဝတ်ဆိုဒ်အတွက် App ရယူပါ">
+<!ENTITY appbarViewPageSource.label    "ဝတ်ပေဂျ့်၏ မူရင်းကုဒ်များအား ကြည့်ပါ">
 
-
-
-
-
-
-
+<!ENTITY topSitesHeader.label        "ထိပ်ရှိဝတ်ဆိုက်များ">
+<!ENTITY bookmarksHeader.label       "အမှတ်အသားများ">
+<!ENTITY recentHistoryHeader.label   "လတ်တလောမှတ်တမ်း">
+<!ENTITY remoteTabsHeader.label      "တခြားသင့်စက်များမှ ဖွင့်ထားသော တဗ်များ">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -26,70 +33,87 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowTopSitesHeader.label      "ထိပ်တန်းဝပ်ဆိုက်များ">
+<!ENTITY narrowBookmarksHeader.label     "အမှတ်အသားများ">
+<!ENTITY narrowRecentHistoryHeader.label "လတ်တလောမှတ်တမ်း">
+<!ENTITY narrowRemoteTabsHeader.label    "ထိန်းချုပ်တဗ်များ">
 
-
-
-
-
+<!ENTITY downloadsHeader.label     "ဒေါင်းလုဒ်များ">
+<!ENTITY downloadShowPage.label    "စာမျက်နှာသို့သွားပါ">
+<!ENTITY downloadShow2.label       "ရှာ">
 <!ENTITY downloadOpen2.label       "ဖွင့်ပါ">
 <!ENTITY downloadCancel.label      "ပယ်​ဖျက်ပါ">
-
+<!ENTITY downloadPause.label       "ခဏရပ်">
 <!ENTITY downloadResume.label      "ပြန်စပါ">
 <!ENTITY downloadRetry.label       "ထပ်ကြိုးစားပါ">
 <!ENTITY downloadRemove.label      "ဖယ်ရှားပါ">
-
+<!ENTITY downloadDelete.label      "ဖျက်">
 <!ENTITY downloadFailed.label      "ပျက်သွားတယ်">
 
+<!ENTITY allBookmarks.label        "အမှတ်အသားအားလုံးကိုကြည့်မည်">
 
-
+<!ENTITY consoleHeader.label       "အမှားအယွင်းထိန်းချုပ် ခလုပ်ခုံ">
+<!ENTITY consoleAll.label          "အားလုံး">
 <!ENTITY consoleErrors.label       "အမှားများ">
 <!ENTITY consoleWarnings.label     "သတိပေးချက်များ">
-
-
-
-
-
+<!ENTITY consoleMessages.label     "စာတိုများ">
+<!ENTITY consoleCodeEval.label     "ကုဒ်:">
+<!ENTITY consoleClear.label        "ရှင်း">
+<!ENTITY consoleCopyAll.label      "ကူး">
+<!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "အရင်းအမြစ် ဖိုင်၊">
 <!ENTITY consoleErrLine.label      "လိုင်း၊">
 <!ENTITY consoleErrColumn.label    "ကော်လံ၊">
-
+<!ENTITY consoleFollowCheckbox.label "Follow">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "ဖြတ်ယူပါ ">
-
+<!ENTITY contextTextCopy.label             "ကူး">
 <!ENTITY contextTextPaste.label            "ပွားပါ">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "ပွားယူပြီး သွား">
 <!ENTITY contextTextSelect.label           "ရွေးချယ်ပါ">
-
+<!ENTITY contextTextSelectAll.label        "အားလုံးရွေး">
 <!-- LINK CONTEXT MENU -->
 
-
+<!ENTITY contextOpenLinkTab.label          "အချိတ်အဆက်ကို တဗ်အသစ်ဖြင့် ဖွင့်ပါ">
+<!ENTITY contextCopyLinkHref.label         "လင့်အားကူး">
+<!ENTITY contextBookmarkLinkHref.label     "လင်ခ့်အား​ မှတ်ပါ">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextSaveImageLib.label         "ပုံစာကြည့်တိုက်ထဲသို့သိမ်းမည်">
+<!ENTITY contextCopyImage.label            "ရုပ်ပုံအားကူးယူပါ">
+<!ENTITY contextCopyImageLocation.label    "ပုံ၏ တည်နေရာအားကူးယူပါ">
+<!ENTITY contextOpenImageTab.label         "ပုံအားတဗ်အသစ်မှာဖွင့်ပါ">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "ဗီဒီယိုတိုက်ထဲသို့သိမ်းပါ">
+<!ENTITY contextCopyVideoLocation.label    "ဗီဒီယို၏တည်နေရာ ကူးယူပါ">
+<!ENTITY contextOpenVideoTab.label         "ဗီဒီယိုအားတဗ်အသစ်တစ်ခုတွင်ဖွင့်ပါ">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "I">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -101,11 +125,13 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
-
-
-
-
+<!ENTITY firstRunTabs.label "သင်၏ တဗ်များအားရှာနေသလား?ညာဘက်ကလစ်သို့မဟုတ် အပေါ်မှဆွဲချလိုက်ပါ">
+<!ENTITY firstRunTopSites.label "သင်အများဆုံးလည်ပတ်ခဲ့သောဝတ်ဆိုဒ်များအားသွားပါ">
+<!ENTITY firstRunBookmarks.label "နောက်မှကြည့်မည့် ပေဂျ့်များကို ပြန်ရှာမည်">
+<!ENTITY firstRunMenu.label "လုပ်ဆောက်ချက်များနှင့်ပြင်ဆင်ချက်များ အားထပ်သုံးမည်">
+<!ENTITY firstRunHistory.label "ဘယ်ဝတ်ဆိုဒ်တွေသုံးခဲ့လဲ ဆိုတာကြည့်မည်">
+<!ENTITY firstRunWelcome.label "&brandShortName; မှကြိုဆိုပါတယ်">
+<!ENTITY firstRunDifferent.label "ဒီဇိုင်းအားဖြင့်ထူးခြားသော">
 <!-- LOCALIZATION NOTE (firstRunBack.label,
                           firstRunNewTab.label,
                           firstRunStar.label,
@@ -116,6 +142,8 @@
        references.
        -->
 
-
-
+<!ENTITY firstRunBack.label "ရှေ့စာမျက်နှာသို့ပြန်သွားရန် ထိပါ">
+<!ENTITY firstRunNewTab.label "ဝတ်ဆိုဒ်အသစ်တစ်ခုအားကြည့်ရှူရန် တဗ်အသစ်တစ်ခုအားဖွင့်ပါ">
+<!ENTITY firstRunStar.label "ဝတ်ဆိုဒ်များကို​နောင်တွင်ပြန်လည်သုံးဆွဲရန် စာအမှတ်များကိုသုံးပြီးသိမ်းထားပါ">
+<!ENTITY firstRunPin.label "သင်၏ ဝင်းဒိုးကွန်ပျူတာ Start စကရင်သို့ မည်သည့်ဝတ်ဆိုဒ်ကိုမဆို ညှပ်ထားနိုင်ပါသှ်">
 <!ENTITY firstRunGotIt.label "ရပြီ!">

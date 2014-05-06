@@ -14,12 +14,12 @@
 
 
 
-
-
-
+<!ENTITY clearPrivateData.history                                "အင်တာနက်သုံး မှတ်တမ်း">
+<!ENTITY clearPrivateData.otherdata                              "အခြားအချက်အလက်များ(စကားဝှက်များ၊ ကွတ်ကီးများ)">
+<!ENTITY clearPrivateData.downloadHist                           "ဒေါင်းလုဒ်မှတ်တမ်း">
 <!ENTITY clearPrivateData.cookies                                "ကွတ်ကီးများ">
-
-
+<!ENTITY clearPrivateData.cache                                  "ယာယီမှတ်တမ်း">
+<!ENTITY clearPrivateData.sitePref                               "ဝတ်ဆိုဒ်အပြင်အဆင်များ">
 
 
 

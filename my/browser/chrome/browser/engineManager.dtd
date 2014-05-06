@@ -20,7 +20,7 @@
 <!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "ရှာဖွေရေး ယန္တရားများ ပိုမို ရယူပါ...">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "ရှာဖွေရေး အကြံပြုချက်များကို ဖေါ်ပြပါ">
 <!ENTITY  enableSuggest.accesskey   "S">

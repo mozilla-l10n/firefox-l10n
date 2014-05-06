@@ -7,6 +7,7 @@
 <!ENTITY index.device2 "စက်ကိရိယာ">
 <!ENTITY index.help "အကူအညီ">
 
+
 <!ENTITY device.screenshot "မျက်နှာပြင်ရိုက်ချက်">
 
 <!ENTITY device.title "ဗဟို စက်ကိရိယာ ထိန်းချုပ်ဌာန">
@@ -43,7 +44,7 @@
 
 
 
-
+<!ENTITY connection.changeHostAndPort "ပြောင်း">
 
 
 

@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "ဒီဖိုင် &brandShortName;နဲ့ ဘာလုပ်မလဲ။">
 
 <!ENTITY  openWith.label              "ဖွင့်မဲ့အရာ">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "အခြား...">
 
 <!ENTITY  saveFile.label              "ဖိုင်ကို သိမ်းဆည်းပါ">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "ဖိုင်များအတွက် ဒီအရာကို အခုကစပြီး ဒီအတိုင်းပဲ အလိုအလျှောက် လုပ်ပေးပါ။">
 <!ENTITY  rememberChoice.accesskey    "a">

@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.debugAddon.label                 "အမှားစစ်">
 <!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
 <!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">
@@ -216,3 +217,12 @@
 <!ENTITY eula.accept                          "လက်ခံပြီး တပ်ဆင်ပါ...">
 
 <!ENTITY settings.path.button.label           "ဖွင့်ရှာကြည့်ပါ။">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "ဆက်လက်ဖတ်ရှူရန်">
+
+
+

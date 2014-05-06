@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY aboutHeader.title          "အကြောင်း">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "By &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "&brandShortName; ၏ လုံခြုံရေးဆိုင်ရာ ပေါ်လစီအားဖတ်ပါ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "အသစ်ပြုပြင်ခြင်းများရှိနေပြီလားစစ်ဆေးနေပါသည်။">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -22,23 +25,24 @@
 
 <!ENTITY update.failed.start        "အသစ်မြှင့်တင်ခြင်းမပြုလုပ်နိုင်ပါ။">
 <!ENTITY update.failed.linkText     "နောက်ဆုံးထွက် အားဒေါင်းလုဒ်ရယူမည်။">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "အိုး">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "အဆင့်မြှင့်တင်ခြင်းအား လုပ်နိုင်သောနေရာမှာ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.start        "အဆင့်မြှင့်တင်ခြင်း လူပ်မည့်နေရာ ">
+<!ENTITY update.manual.end          "အိုး">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "အဆင့်မြှင့်တင် ခြင်းအားရယူနေသည် ----  ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.start   "အဆင့်မြှင့်တင် ခြင်းအားရယူနေသည်   ">
+<!ENTITY update.downloading.end     "အိုး">
 
+<!ENTITY update.applying            "အဆင့်မြှင့်တင်ခြင်းပြုလုပ်နေသှ်...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

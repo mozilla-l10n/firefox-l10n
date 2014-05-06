@@ -31,7 +31,7 @@ was trying to connect. -->
 ဤတွင်အခြားတစ်စုံတစ်ရာမှသင် ၏ချိတ်ဆတ်မှူအားမှားယွင်းမြင်စေထားခြင်းဖြစ်နိုင်သည်</b>">
 <!ENTITY certerror.expert.contentPara2 "အကယ်လို့သင်ဟာ မည်သည့်အကြောင်းကြောင့်ယခုဝတ်ဆိုက်အား 
  ယုံကြည်ရသည့်စာရင်းထဲသို့ထည့်သွင်းရခြင်းအကြောင်းရင်းအားကောင်းကောင်းမသိပါက ချွင်းချက်အတွင်း ဆိုက်အားမထည့်သွင်းပါနှင့်။">
-
-
+<!ENTITY certerror.addTemporaryException.label "ဆိုဒ်အားဖွင့်ပါ">
+<!ENTITY certerror.addPermanentException.label "အမြဲတမ်းချွင်းချက်များထည့်ပါ">
 
 <!ENTITY certerror.technical.heading "နည်းပညာဆိုင်ရာအသေးစိတ်။">

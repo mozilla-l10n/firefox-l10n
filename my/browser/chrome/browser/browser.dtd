@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "မီနူးစာရင်း">
 <!ENTITY menubarCmd.accesskey "မ">
-<!ENTITY navbarCmd.label "Nကူးသန်းရန် ခလုတ်တမ်း">
+<!ENTITY navbarCmd.label "ကူးသန်းရန် ခလုတ်ဘား">
 <!ENTITY personalbarCmd.label "Bမှတ်သားချက်များ ခလုတ်တန်း">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "s ဤဗီဒီယိုအားမျှဝေမည်">
 <!ENTITY shareVideoCmd.accesskey "s">
-<!ENTITY feedsMenu.label "စာရင်းသွင်းပါ">
+<!ENTITY feedsMenu.label "စာရင်းသွင်း">
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
 <!ENTITY addCurPagesCmd.label "စာအမှတ် အားလုံးကို မှတ်သားပါ...">
@@ -231,6 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "(y)မျက်ကြည့်">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -249,14 +252,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "eဘယောက်ဆာ တူးလ်ဘား">
+<!ENTITY browserToolboxMenu.label     "(e)ဘယောက်ဆာ တူးလ်ဘား">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "(v)ကျွမ်းကျင်သူသုံး ကိရိယာ">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "a အက်ပလီကေးရှင်း မန်နေဂျာ">
-<!ENTITY devAppMgrMenu.accesskey           "a">
+<!ENTITY devAppMgrMenu.label               "(A)အက်ပ် မန်နေဂျာ">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -266,8 +269,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
 
-<!ENTITY getMoreDevtoolsCmd.label        "နောက်ထပ်ကိရိယာများရယူမည်။">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "န">
+<!ENTITY getMoreDevtoolsCmd.label        "(M)နောက်ထပ်တူးလ်များရယူ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "(F)ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -444,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "အီးမေးလ် လင့်...">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "ဝင်းဒိုးကွန်ပျူတာစနစ်အမှတ်(၈)ပုံစံ &brandShortName;">
 <!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -586,9 +588,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "စာမျက်နှာ ပုံစံ">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ပုံစံမဲ့">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "အခြေခံ စာမျက်နှာ ပုံစံ">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "ယခုဝတ်ဆိုဒ်အတွင် pop-up အပြင်အဆင်များအား ပြောင်းပါ ">
 
@@ -736,47 +738,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "ထပ်ကြိုးစားပါ">
 
 <!ENTITY uiTour.infoPanel.close "ပိတ်ပါ ">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "အတ်အွန်ဘား">
-<!ENTITY addonBarCmd.accesskey         "အ">
-<!ENTITY throbberItem.title            "လှုပ်ရှားမှု ညွှန်ပြကိရိယာ">
-<!ENTITY appMenuButton.label           "စာရင်း">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; မန်နူးစာရင်းအားဖွင့်မည်။">
-<!ENTITY feedButton.label              "စာရင်းသွင်းပါ">
-<!ENTITY feedButton.tooltip            "ဤစာမျက်နှာအားစောင့်ကြည့်စာရင်းထဲထည့်မည်။">
-<!ENTITY bookmarksButton.tooltip       "သင့်မှတ်သားချက်များကို ​ပြသပါ">
-<!ENTITY historyButton.tooltip         "လတ်တလော သင်ကြည့်ခဲ့တဲ့ စာမျက်နှာများကို ပြသပါ">
-<!ENTITY viewTabsOnTop.label           "ထိပ်ရှိဝတ်စာမျက်နှာများ">
-<!ENTITY viewTabsOnTop.accesskey       "ထ">
-<!ENTITY appMenuEdit.label             "တည်းဖြတ်ပါ">
-<!ENTITY appMenuToolbarLayout.label    "ဝတ်ဆိုက်ကြည့်ဘားအပြင်အဆင်">
 <!ENTITY appMenuSidebars.label         "ကပ်လျှက်ဘေးဘားများ">
-<!ENTITY appMenuFind.label             "ရှာပါ">
-<!ENTITY appMenuUnsorted.label         "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
-<!ENTITY appMenuWebDeveloper.label     "ဝတ်ဆိုက်များဖန်တီးသူ">
-<!ENTITY appMenuGettingStarted.label   "စတင်အသုံးပြုခြင်း">
-<!ENTITY appMenuSafeMode.label         "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
-<!ENTITY appMenuSafeMode.accesskey     "A">
-<!ENTITY cutButton.tooltip             "ဖြတ်ယူပါ ">
-<!ENTITY copyButton.tooltip            "ကူးယူပါ">
-<!ENTITY pasteButton.tooltip           "ပွားပါ">
-<!ENTITY zoomOutButton.tooltip         "သေးကြည့်မည်။">
-<!ENTITY zoomInButton.tooltip          "ချဲ့ကြည့်မည်။">
-<!ENTITY zoomControls.label            "ချုံ့ချဲ့ထိန်းချုပ်">
-<!ENTITY addonBarCloseButton.tooltip   "အတ်အွန်ဘားအားပိတ်မည်။">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "နောက်သို့/ရှေ့သို့">
-<!ENTITY viewBookmarksSidebar.label    "ဘေးဘက်ကပ်လျှက်ဘားတွင်ပြထားမည်။">
-<!ENTITY bookmarksItem.title           "မှတ်သားချက်များ">
-<!ENTITY openLocationCmd.label         "Lတည်နေရာဖွင့်...">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "သင့်မှတ်သားချက်များကို ​ပြသပါ">
+
 <!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
-<!ENTITY tabGroupsButton.tooltip       "Strollañ hoc'h ivinelloù">
-<!-- end of strings to be removed post-Australis -->
+

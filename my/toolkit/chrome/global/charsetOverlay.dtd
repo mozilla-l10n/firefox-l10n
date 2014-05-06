@@ -6,18 +6,18 @@
 <!ENTITY charsetMenu.label             "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "အလိုအလျှောက်-စူးစမ်းတွေ့ရှိတယ်">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "စာဝှက်စနစ်များ ပိုမို၍ ">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "M">
 <!ENTITY charsetMenuMore1.label        "ဥရောပ အနောက်ပိုင်း">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "ဥရောပ အရှေ့ပိုင်း">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "အာရှ အရှေ့ပိုင်း">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE  SW Asian">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW Asian">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "အရှေ့အလယ်ပိုင်း">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "စိတ်ကြိုက် ဖန်တီးချက် စာရင်း...">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetCustomize.accesskey    "C">

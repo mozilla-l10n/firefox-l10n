@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "လောလောဆယ် အတည်ပြုနေတဲ့ လက်မှတ်...">
 <!ENTITY certmgr.subjectinfo.label            "ထုတ်ပြန်တဲ့နေရာ">
 <!ENTITY certmgr.issuerinfo.label             "ထုတ်ပြန်တဲ့ ပုဂ္ဂိုလ်">
-<!ENTITY certmgr.validity.label               "ခိုင်လုံမှု" >
+
 <!ENTITY certmgr.fingerprints.label           "လက်ဗွေများ">
 <!ENTITY certmgr.certdetail.title             "လက်မှတ် အသေးစိတ်">
 <!ENTITY certmgr.certdetail.cn                "သုံးနေကျ အမည် (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "ဆာဗာ">
 <!ENTITY certmgr.override_lifetime            "သက်တမ်း">
 <!ENTITY certmgr.tokenname                    "လုံခြုံရေး ကိရိယာ">
-<!ENTITY certmgr.issued                       "ထုတ်ပြန်တဲ့ နေ့စွဲ">
+
 <!ENTITY certmgr.expires                      "သက်တန်းကုန်တဲ့ နေ့စွဲ">
 <!ENTITY certmgr.email                        "အီးမေးလ် လိပ်စာ">
 <!ENTITY certmgr.serial                       "အစဉ်လိုက် အမှတ်စဉ်">
