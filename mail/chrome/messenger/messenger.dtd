@@ -313,8 +313,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "z">
 <!ENTITY folderMenu.label "Karpeta">
 <!ENTITY folderMenu.accesskey "K">
-<!ENTITY thisFolder.label "Karpeta hau">
-<!ENTITY thisFolder.accesskey "K">
 <!ENTITY goRecentlyClosedTabs.label "Azkenaldian itxitako fitxak">
 <!ENTITY goRecentlyClosedTabs.accesskey "A">
 <!ENTITY startPageCmd.label "Postaren hasiera-orrira">
@@ -354,9 +352,9 @@
 <!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Eranskina">
 <!ENTITY forwardAsAttachmentCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.label "Editatu mezua berri gisa">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Editatu mezu berri gisa">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Sortu iragazkia mezutik…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Eraman hona">
@@ -379,10 +377,6 @@
 <!ENTITY watchThreadMenu.label "Ikusi haria">
 <!ENTITY watchThreadMenu.accesskey "I">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Gorde hemen">
-<!ENTITY fileHereMenu.accesskey "G">
-<!ENTITY copyHereMenu.label "Kopiatu hemen">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etiketa">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
@@ -565,6 +559,20 @@
 
 <!ENTITY buttonMenuForwardAsInline.label "Birbidali barnean">
 <!ENTITY buttonMenuForwardAsAttachment.label "Birbidali eranskin gisa">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Erakutsi mezu honetako urruneko edukia">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "E">
+<!ENTITY remoteContentOptionAllowForAddress.label "Erakutsi bidaltzaile honen urruneko edukia">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "b">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Ezikusi abisua mezu honetarako">
+<!ENTITY phishingOptionIgnore.accesskey "E">
+<!ENTITY phishingOptionSettings.label "Editatu iruzurrak atzemateko aukerak…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editatu iruzurrak atzemateko Hobespenak…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
@@ -660,26 +668,26 @@
 <!ENTITY attachmentColumn.label "Eranskinak">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
-<!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko">
-<!ENTITY fromColumn.tooltip "Egin klik bidaltzailearen arabera ordenatzeko">
-<!ENTITY recipientColumn.tooltip "Egin klik hartzailearen arabera ordenatzeko">
-<!ENTITY subjectColumn.tooltip "Egin klik gaiaren arabera ordenatzeko">
-<!ENTITY dateColumn.tooltip "Egin klik dataren arabera ordenatzeko">
-<!ENTITY priorityColumn.tooltip "Egin klik lehentasunaren arabera ordenatzeko">
-<!ENTITY tagsColumn.tooltip "Egin klik etiketaren arabera ordenatzeko">
-<!ENTITY accountColumn.tooltip "Egin klik kontuaren arabera ordenatzeko">
-<!ENTITY statusColumn.tooltip "Egin klik egoeraren arabera ordenatzeko">
-<!ENTITY sizeColumn.tooltip "Egin klik tamainaren arabera ordenatzeko">
-<!ENTITY junkStatusColumn.tooltip "Egin klik zabor-posta egoeraren arabera ordenatzeko">
-<!ENTITY unreadColumn.tooltip "Irakurri gabeko mezu kopurua harian">
-<!ENTITY totalColumn.tooltip "Mezu kopurua guztira harian">
-<!ENTITY readColumn.tooltip "Egin klik irakurrita balioaren arabera ordenatzeko">
-<!ENTITY receivedColumn.tooltip "Egin klik jasotako datararen arabera ordenatzeko">
-<!ENTITY starredColumn.tooltip "Egin klik izarraren arabera ordenatzeko">
-<!ENTITY locationColumn.tooltip "Egin klik kokalekuaren arabera ordenatzeko">
-<!ENTITY idColumn.tooltip "Egin klik jasotako ordenaren arabera ordenatzeko">
-<!ENTITY attachmentColumn.tooltip "Egin klik eranskinen arabera ordenatzeko">
+<!ENTITY columnChooser2.tooltip "Hautatu bistaratzeko zutabeak">
+<!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
+<!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
+<!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
+<!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
+<!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
+<!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">
+<!ENTITY tagsColumn2.tooltip "Ordenatu etiketen arabera">
+<!ENTITY accountColumn2.tooltip "Ordenatu kontuaren arabera">
+<!ENTITY statusColumn2.tooltip "Ordenatu egoeraren arabera">
+<!ENTITY sizeColumn2.tooltip "Ordenatu tamainaren arabera">
+<!ENTITY junkStatusColumn2.tooltip "Ordenatu zabor-egoeraren arabera">
+<!ENTITY unreadColumn2.tooltip "Irakurri gabeko mezu kopurua harian">
+<!ENTITY totalColumn2.tooltip "Mezu kopurua guztira harian">
+<!ENTITY readColumn2.tooltip "Ordenatu irakurritako egoeraren arabera">
+<!ENTITY receivedColumn2.tooltip "Ordenatu jasotako dataren arabera">
+<!ENTITY starredColumn2.tooltip "Ordenatu izarraren arabera">
+<!ENTITY locationColumn2.tooltip "Ordenatu kokalekuaren arabera">
+<!ENTITY idColumn2.tooltip "Ordenatu jasotako ordenaren arabera">
+<!ENTITY attachmentColumn2.tooltip "Ordenatu eranskinen arabera">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Ireki mezua leiho berrian">
@@ -692,8 +700,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Ireki mezua hizketaldian">
 <!ENTITY contextOpenConversation.accesskey "k">
-<!ENTITY contextEditAsNew.label "Editatu berri gisa…">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "Editatu mezu berri gisa">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Artxibatu">
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Erantzun bidaltzaileari soilik">
@@ -787,27 +795,6 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Ez mututu">
 <!ENTITY contextUnmute.accesskey "m">
-<!-- Junk Bar -->
-
-<!ENTITY junkBarMessage2.label "&brandShortName;(e)k uste du mezu hau zabor-posta dela.">
-<!ENTITY junkBarButton1.label "Ez da zaborra">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
-
-<!ENTITY remoteContentMessage2.label "Zure pribatutasuna babesteko, &brandShortName;(e)k mezu honetako urruneko edukia blokeatu du.">
-<!ENTITY loadRemoteContentButton3.label "Erakutsi urruneko edukia">
-<!-- Phishing Bar -->
-
-<!ENTITY phishingBarMessage2.label "Mezu hau iruzur bat izan daiteke.">
-<!ENTITY removePhishingBarButton1.label "Ezikusi abisua">
-<!ENTITY disablePhishingWarning1.label "Desgaitu iruzurren detekzioa mezu guztientzat">
-<!ENTITY reportPhishingError1.label "Ez dirudi mezu hau iruzur bat denik.">
-<!-- MDN Bar -->
-
-<!ENTITY mdnBarIgnoreButton2.label "Baztertu">
-<!ENTITY mdnBarIgnoreButton2.accesskey "B">
-<!ENTITY mdnBarSendButton2.label "Bidali hartu-agiria">
-<!ENTITY mdnBarSendButton2.accesskey "B">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -843,8 +830,8 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Gehitu helbide-liburuan">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact.label "Editatu kontaktua…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact1.label "Editatu kontaktua">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ikusi kontaktua">
 <!ENTITY ViewContact.accesskey "I">
 <!ENTITY SubscribeToNewsgroup.label "Harpidatu berri-taldera">
@@ -907,3 +894,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Erakutsi denak">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Aplikazio-ikonoaren aukerak…">

@@ -50,6 +50,30 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "x">
 
+<!ENTITY viewMenu.label               "Ikusi">
+<!ENTITY viewMenu.accesskey           "I">
+
+<!ENTITY lineNumbers.label             "Erakutsi lerroen zenbakiak">
+<!ENTITY lineNumbers.accesskey         "l">
+
+<!ENTITY wordWrap.label                "Itzulbiratu testua">
+<!ENTITY wordWrap.accesskey            "I">
+
+<!ENTITY highlightTrailingSpace.label     "Nabarmendu amaierako zuriuneak">
+<!ENTITY highlightTrailingSpace.accesskey "N">
+
+<!ENTITY largerFont.label             "Letra-tipo handiagoa">
+<!ENTITY largerFont.accesskey         "h">
+<!ENTITY largerFont.commandkey        "+">
+
+<!ENTITY smallerFont.label            "Letra-tipo txikiagoa">
+<!ENTITY smallerFont.accesskey        "x">
+<!ENTITY smallerFont.commandkey       "-">
+
+<!ENTITY normalSize.label             "Tamaina normala">
+<!ENTITY normalSize.accesskey         "n">
+<!ENTITY normalSize.commandkey        "0">
+
 <!ENTITY editMenu.label               "Editatu">
 <!ENTITY editMenu.accesskey           "E">
 
@@ -67,6 +91,7 @@
 
 <!ENTITY pprint.label                 "Inprimatze-polita">
 <!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "I">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -120,3 +145,10 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+<!ENTITY evalFunction.label "Ebaluatu uneko funtzioa">
+<!ENTITY evalFunction.accesskey "b">
+<!ENTITY evalFunction.key "e">

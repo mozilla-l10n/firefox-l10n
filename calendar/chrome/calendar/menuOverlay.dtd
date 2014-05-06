@@ -4,29 +4,16 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Gertaera berria…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "B">
 
 <!ENTITY event.new.task                         "Zeregin berria…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "k">
 
-<!ENTITY calendar.new.server.label              "Egutegi berria…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "u">
-
-<!ENTITY calendar.print.label                   "Inprimatu…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "p">
-
 <!ENTITY calendar.import.label                  "Inportatu…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Esportatu…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Esportatu hautapena…">
-<!ENTITY calendar.export.selection.accesskey    "s">
 
 <!ENTITY calendar.publish.label                 "Argitaratu…">
 <!ENTITY calendar.publish.accesskey             "g">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Erakutsi zereginak egutegian">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Aste anitzeko ikuspegi tamaina">
-<!ENTITY calendar.menu.numberofweeks.2          "Bi aste">
-<!ENTITY calendar.menu.numberofweeks.3          "Hiru aste">
-<!ENTITY calendar.menu.numberofweeks.4          "Lau aste">
-<!ENTITY calendar.menu.numberofweeks.5          "Bost aste">
-<!ENTITY calendar.menu.numberofweeks.6          "Sei aste">
 
 <!ENTITY goTodayCmd.label                       "Gaur">
 <!ENTITY goTodayCmd.accesskey                   "G">

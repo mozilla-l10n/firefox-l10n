@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Gogora iezadazu beranduago">
+<!ENTITY remindLater.accesskey "b">
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "I">
@@ -200,6 +202,7 @@
 <!ENTITY attachButton.label "Erantsi">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Gorde">
+<!ENTITY printButton.label "Inprimatu">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Bidali mezua orain">
@@ -212,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Ebaki">
 <!ENTITY copyButton.tooltip             "Kopiatu">
 <!ENTITY pasteButton.tooltip            "Itsatsi">
+<!ENTITY printButton.tooltip "Inprimatu mezu hau">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
