@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "चेतावनी">
 <!ENTITY btnConsoleLog          "लॉग">
 
+
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
 <!ENTITY btnClear.label        "साफ़ करें (r)">
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट को साफ़ करें">

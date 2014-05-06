@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "मौजूदा जाँचकर्ता प्रमाणपत्र…">
 <!ENTITY certmgr.subjectinfo.label            "इसमें निर्गत">
 <!ENTITY certmgr.issuerinfo.label             "इसके द्वारा निर्गत">
-<!ENTITY certmgr.validity.label               "वैधता" >
+<!ENTITY certmgr.periodofvalidity.label       "वैधता की अवधि" >
 <!ENTITY certmgr.fingerprints.label           "फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
 <!ENTITY certmgr.certdetail.cn                "सामान्य नाम (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "सर्वर">
 <!ENTITY certmgr.override_lifetime            "जीवनपर्यंत">
 <!ENTITY certmgr.tokenname                    "सुरक्षा युक्ति">
-<!ENTITY certmgr.issued                       "यहाँ निर्गत">
+<!ENTITY certmgr.begins                       "इस समय आरंभ">
 <!ENTITY certmgr.expires                      "इसपर समाप्त">
 <!ENTITY certmgr.email                        "ईमेल पता">
 <!ENTITY certmgr.serial                       "क्रम संख्या">

@@ -13,6 +13,7 @@
 <!ENTITY port       "पोर्ट:">
 <!ENTITY connect    "जुड़ें">
 <!ENTITY connecting "कनेक्ट कर रहा है…">
+
 <!ENTITY availableTabs "उपलब्ध दूरस्थ टैब:">
 <!ENTITY availableProcesses "उपलब्ध दूरस्थ प्रक्रिया:">
 <!ENTITY connectionError "त्रुटि:">

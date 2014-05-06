@@ -6,18 +6,18 @@
 <!ENTITY charsetMenu.label             "वर्ण ऐन्कोडिंग(C)">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "स्वतः जांचें">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "और एन्कोडिंग">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "M">
 <!ENTITY charsetMenuMore1.label        "पश्चिम यूरोपीय">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "पूर्वी यूरोपीय">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "पूर्वी एशिया">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE  SW एशियन">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW एशियन">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "मध्य पूर्व">
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetCustomize.label        "पसंदीदा सूची...">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetCustomize.accesskey    "C">
