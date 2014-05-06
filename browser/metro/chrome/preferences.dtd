@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Çerez">
 <!ENTITY clearPrivateData.cache                                  "Pêşbîr">
 <!ENTITY clearPrivateData.sitePref                               "Vebijarkên malperan">
-<!ENTITY clearPrivateData.formSearchHist                         "Raboriya form û lêgerînan">
+
 <!ENTITY clearPrivateData.passwords                              "Şîfreyên tomarbûyî">
 <!ENTITY clearPrivateData.offline                                "Daneyên malperên negirêdayî">
 <!ENTITY clearPrivateData.logins                                 "Danişînên çalak">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Şîfreyan bi bîr bîne">
+
 <!ENTITY doNotTrack.title                                        "Min Neşopîne">
 <!ENTITY doNotTrack.options.doNotTrack                           "Bêje malperan ku ez naxwazim bêm şopandin">
 <!ENTITY doNotTrack.options.doTrack                              "Bêje malperan ku dixwazim bêm şopandin">

@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Mîhengên Rûpelê">
 
-<!ENTITY basic.tab           "Şêwe &amp; Vebijêrk">
 
 <!ENTITY formatGroup.label   "Şêwe">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Hilbijartin">
 
-<!ENTITY printBG.label       "Rûerdê çap bike (reng û wêneyan)">
-<!ENTITY printBG.accesskey   "R">
 
-<!ENTITY advanced.tab        "Kevî, sernav û têbinî">
+
 
 <!ENTITY marginGroup.label   "Kevî (#1)">
 <!ENTITY marginUnits.inches  "inç">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Rast:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Sernav û Têbinî">
 
 <!ENTITY hfLeft.label        "Çep:">
 <!ENTITY hfCenter.label      "Navend:">
