@@ -66,7 +66,8 @@
 
 <!ENTITY smallerFont.commandkey       "-">
 
-
+<!ENTITY normalSize.label             "Dimensiune normală">
+<!ENTITY normalSize.accesskey         "n">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Editare">

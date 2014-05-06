@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY aboutHeader.title          "About">
+<!ENTITY aboutHeader.title          "Despre">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
-<!ENTITY aboutHeader.company.label  "By &vendorShortName;">
-<!ENTITY aboutHeader.policy.label   "Read the &brandShortName; privacy policy online">
+<!ENTITY aboutHeader.company.label  "De &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Citiți politica de confidențialitate online a &brandShortName;">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Checking for updates…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -42,11 +42,11 @@
 <!ENTITY update.downloading.start   "Downloading update — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Se aplică actualizarea…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "You are currently on the ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.start  "În acest moment sunteți ">
+<!ENTITY channel.description.end    "  canalul de actualizare. ">
 

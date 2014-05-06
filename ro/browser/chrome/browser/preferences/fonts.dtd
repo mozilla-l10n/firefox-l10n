@@ -91,13 +91,13 @@
 <!ENTITY languages.customize.Fallback.greek       "Greek">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebrew">
+<!ENTITY languages.customize.Fallback.hebrew      "Ebraic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japanese">
+<!ENTITY languages.customize.Fallback.japanese    "Japoneză">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Korean">
+<!ENTITY languages.customize.Fallback.korean      "Coreean">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Thai">

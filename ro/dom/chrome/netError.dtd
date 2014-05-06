@@ -48,6 +48,7 @@
 <!ENTITY netTimeout.title "Timp expirat">
 <!ENTITY netTimeout.longDesc "<p>Saitul cerut nu a răspuns cererii de conexiune, iar navigatorul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "Protocol necunoscut">
 
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiunea">

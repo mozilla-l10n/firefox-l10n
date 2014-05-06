@@ -101,7 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Elimină">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+<!ENTITY cmd.debugAddon.label                 "Depanare">
 <!ENTITY cmd.showPreferencesWin.label         "Opțiuni">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Schimbă opțiunile acestui supliment">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferințe">
@@ -220,6 +220,6 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Află mai multe">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Configurări Telemetrie">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

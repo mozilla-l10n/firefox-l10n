@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncCustomize.dialog.title       "Sincronizează selecția">
-
+<!ENTITY syncCustomize.acceptButton.label "Începe">
 
 <!ENTITY syncCustomize.title              "Ce doriți să sincronizați?">
-
-
+<!ENTITY syncCustomize.description        "Puteți schimba această selecție la Opțiuni.">
+<!ENTITY syncCustomizeUnix.description    "Puteți schimba această selecție la Preferințe.">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "F">
 <!ENTITY engine.passwords.label           "Parole">
 <!ENTITY engine.passwords.accesskey       "P">
-
-
-
-
+<!ENTITY engine.addons.label              "Suplimente pentru desktop">
+<!ENTITY engine.addons.accesskey          "S">
+<!ENTITY engine.prefs.label               "Preferințe desktop">
+<!ENTITY engine.prefs.accesskey           "s">

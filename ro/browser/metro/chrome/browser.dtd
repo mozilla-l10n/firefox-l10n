@@ -4,17 +4,17 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Introduceți termenul căutat sau adresa">
 
-<!ENTITY back.label            "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY newtab.label          "New Tab">
+<!ENTITY back.label            "Înapoi">
+<!ENTITY forward.label         "Înainte">
+<!ENTITY newtab.label          "Filă nouă">
+<!ENTITY newPrivateTab.label   "Filă fără urme nouă">
+<!ENTITY closetab.label        "Închide fila">
 
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY autocompleteResultsHeader.label  "Rezultatele dumneavoastră">
 
-<!ENTITY autocompleteResultsHeader.label  "Your Results">
-
-<!ENTITY appbarErrorConsole.label      "Open error console">
+<!ENTITY appbarErrorConsole.label      "Deschide consola de erori">
 <!ENTITY appbarJSShell.label           "Open JavaScript shell">
 <!ENTITY appbarFindInPage2.label       "Find in page">
 <!ENTITY appbarRelaunchInDesktop.label "Relaunch in Desktop">
@@ -23,8 +23,8 @@
 
 <!ENTITY topSitesHeader.label        "Top Sites">
 <!ENTITY bookmarksHeader.label       "Bookmarks">
-<!ENTITY recentHistoryHeader.label   "Recent History">
-<!ENTITY remoteTabsHeader.label      "Tabs from Other Devices">
+<!ENTITY recentHistoryHeader.label   "Istoric recent">
+<!ENTITY remoteTabsHeader.label      "File de la alte dispozitive">
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -34,14 +34,14 @@
       -->
 
 <!ENTITY narrowTopSitesHeader.label      "Top Sites">
-<!ENTITY narrowBookmarksHeader.label     "Bookmarks">
-<!ENTITY narrowRecentHistoryHeader.label "Recent History">
-<!ENTITY narrowRemoteTabsHeader.label    "Remote Tabs">
+<!ENTITY narrowBookmarksHeader.label     "Semne de carte">
+<!ENTITY narrowRecentHistoryHeader.label "Istoric recent">
+<!ENTITY narrowRemoteTabsHeader.label    "File de la distanță">
 
-<!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "Find">
-<!ENTITY downloadOpen2.label       "Open">
+<!ENTITY downloadsHeader.label     "Descărcări">
+<!ENTITY downloadShowPage.label    "Du-te la pagină">
+<!ENTITY downloadShow2.label       "Căutare">
+<!ENTITY downloadOpen2.label       "Deschide">
 <!ENTITY downloadCancel.label      "Cancel">
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Resume">
@@ -54,23 +54,24 @@
 
 <!ENTITY consoleHeader.label       "Error Console">
 <!ENTITY consoleAll.label          "All">
-<!ENTITY consoleErrors.label       "Errors">
-<!ENTITY consoleWarnings.label     "Warnings">
-<!ENTITY consoleMessages.label     "Messages">
-<!ENTITY consoleCodeEval.label     "Code:">
-<!ENTITY consoleClear.label        "Clear">
-
+<!ENTITY consoleErrors.label       "Erori">
+<!ENTITY consoleWarnings.label     "Avertismente">
+<!ENTITY consoleMessages.label     "Mesaje">
+<!ENTITY consoleCodeEval.label     "Cod:">
+<!ENTITY consoleClear.label        "Golește">
+<!ENTITY consoleCopyAll.label      "Copiază">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Source File:">
-<!ENTITY consoleErrLine.label      "Line:">
-<!ENTITY consoleErrColumn.label    "Column:">
-
+<!ENTITY consoleErrFile.label      "Fișier sursă:">
+<!ENTITY consoleErrLine.label      "Linia:">
+<!ENTITY consoleErrColumn.label    "Coloana:">
+<!ENTITY consoleFollowCheckbox.label "Urmărește">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Cut">
 <!ENTITY contextTextCopy.label             "Copy">
 <!ENTITY contextTextPaste.label            "Paste">
 <!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Inserează și accesează">
 <!ENTITY contextTextSelect.label           "Select">
 <!ENTITY contextTextSelectAll.label        "Select all">
 <!-- LINK CONTEXT MENU -->
@@ -84,8 +85,8 @@
 
 <!ENTITY contextSaveImageLib.label         "Save to picture library">
 <!ENTITY contextCopyImage.label            "Copy image">
-<!ENTITY contextCopyImageLocation.label    "Copy image location">
-<!ENTITY contextOpenImageTab.label         "Open image in new tab">
+<!ENTITY contextCopyImageLocation.label    "Copiază locația imaginii">
+<!ENTITY contextOpenImageTab.label         "Deschide imaginea într-o filă nouă">
 <!-- VIDEO CONTEXT MENU -->
 
 <!ENTITY contextSaveVideoLib.label         "Save to video library">
@@ -106,6 +107,7 @@
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -140,6 +142,8 @@
        references.
        -->
 
-
-
+<!ENTITY firstRunBack.label "Apasă pentru a merge înapoi la pagina anterioară">
+<!ENTITY firstRunNewTab.label "Adaugă o filă noua pentru a explora un sait nou">
+<!ENTITY firstRunStar.label "Utilizați semnele de carte pentru a salva paginile pentru mai târziu">
+<!ENTITY firstRunPin.label "Fixați orice sait în ecranul de start din Windows pentru acces rapid">
 <!ENTITY firstRunGotIt.label "Am priceput!">

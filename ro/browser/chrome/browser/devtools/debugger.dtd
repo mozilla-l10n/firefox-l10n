@@ -66,30 +66,30 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignore caught exceptions">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
 <!ENTITY debuggerUI.showPanesOnInit           "Arătați panourile la pornire">
-
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Show variables filter box">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
 <!ENTITY debuggerUI.showOnlyEnum           "Show only enumerable properties">
-
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
 <!ENTITY debuggerUI.showOriginalSource           "Arătați sursele originale">
-
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -100,13 +100,13 @@
 <!ENTITY debuggerUI.searchFile           "Filtrează scripturi">
 <!ENTITY debuggerUI.searchFile.key       "s">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
-
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "Căutați în toate fișierele">
-
-
+<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
@@ -118,7 +118,7 @@
 
 <!ENTITY debuggerUI.searchToken           "Căutați">
 <!ENTITY debuggerUI.searchToken.key       "c">
-
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
