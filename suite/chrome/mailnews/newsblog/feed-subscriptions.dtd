@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "Eksporter nyhetskilder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere nyhetskilder som en liste">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Lukk">
