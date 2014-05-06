@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "ଆପଣଙ୍କର ଖାତାକୁ ଯାଞ୍ଚ କରିବା ଆବଶ୍ୟକ। ଯାଞ୍ଚ ମେଲ ପୁଣି ପଠାଇବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_credentials "ସଂଯୋଗ କରିପାରୁ ନାହିଁ। ସାଇନ ଇନ କରିବା ପାଇଁ ଟ୍ୟାପ କରନ୍ତୁ।">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; ସାଇନ ଇନ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ଉନ୍ନୟନ କରିବା ଆବଶ୍ୟକ।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରାଯାଇଛି, କିନ୍ତୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସନ୍ତୁଳିତ ହୋଇନଥାଏ। “Auto-sync ତଥ୍ୟ”କୁ ଏଣ୍ଡ୍ରଏଡ଼ ସଂରଚନା &gt; ତଥ୍ୟ ଉପଯୋଗିତାରେ ଏପଟ ସେପଟ କରନ୍ତୁ।">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରାଯାଇଛି, କିନ୍ତୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସନ୍ତୁଳନ ହେଉ ନାହିଁ। ସନ୍ତୁଳନ ଆରମ୍ଭ କରିବା ପାଇଁ ଛୁଅନ୍ତୁ।">
 <!ENTITY fxaccount_status_bookmarks "ପୃଷ୍ଠାସଂକେତ">
 <!ENTITY fxaccount_status_history "ପୁରୁଣା ତଥ୍ଯ">
 <!ENTITY fxaccount_status_passwords "ପ୍ରବେଶ ସଂକେତ">
