@@ -8,8 +8,13 @@
 <!ENTITY crashprompt.detailsLink     "Ilmoituksen sisältö">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Kaatumisilmoitus sisältää tietoja kaatumisesta, käytetystä laitteistosta ja kokonaiskuva selaimen tilasta kaatumishetkellä.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Tämä voi sisältää avoimia sivuja, lomakekenttiin kirjoitettuja tekstejä ja avointen viestien sisältöä, tiedon viimeisistä vierailluista sivustoista sekä sivustoille jaettuja paikannustietoja.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Kaatumisilmoistusten avulla voidaan korjata ja kehittää ohjelmia. Tietoja käsittellään ">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Kaatumisilmoistusten avulla korjaamme ja kehitämme ohjelmiamme. Tietoja käsitellään ">
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName;in kaatumisilmoitusominaisuuden yksityisyyskäytännön mukaisesti">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Include the address of the page I was on">
 <!ENTITY crashprompt.acceptbutton    "Lähetä ilmoituksia">
 <!ENTITY crashprompt.refusebutton    "Älä lähetä">

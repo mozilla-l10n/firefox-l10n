@@ -26,9 +26,8 @@
 <!ENTITY warn.insecurepost.accesskey        "L">
 <!ENTITY warn.leavingsecure                 "Siirryttäessä salatulta sivulta salaamattomalle sivulle">
 <!ENTITY warn.leavingsecure.accesskey       "S">
-<!ENTITY warn.viewmixed                     "Avattaessa salattua sivua, jolla on salaamattomia osia">
-<!ENTITY warn.viewmixed.accesskey           "e">
 
+<!ENTITY mixed.description                  "Salatut sivut voivat sisältää salaamatonta sisältöä, joka on alttiina salakuuntelulle tai väärentämiselle. &brandShortName; pystyy havaitsemaan ja estämään sen:">
 <!ENTITY warn.mixedactivecontent            "Näytä varoitus, jos salatulla sivulla on suojaamatonta sisältöä">
 <!ENTITY warn.mixedactivecontent.accesskey  "N">
 <!ENTITY block.activecontent                "Älä lataa salatulla sivulla olevaa suojaamatonta sisältöä">

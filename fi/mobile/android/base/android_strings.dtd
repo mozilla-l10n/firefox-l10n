@@ -54,6 +54,7 @@
 <!ENTITY back "Edellinen">
 <!ENTITY stop "Pysäytä">
 <!ENTITY site_security "Sivuston tietoturva">
+<!ENTITY save "Tallenna">
 
 <!ENTITY close_tab "Sulje välilehti">
 <!ENTITY one_tab "1 välilehti">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Asetukset">
 <!ENTITY pref_category_advanced "Lisäasetukset">
 <!ENTITY pref_category_customize "Muokkaa">
-<!ENTITY pref_category_search2 "Hakuasetukset">
+<!ENTITY pref_category_search3 "Haku">
+<!ENTITY pref_category_search_summary "Muokkaa hakupalveluita">
 <!ENTITY pref_category_display "Näyttö">
 <!ENTITY pref_category_privacy_short "Tietosuoja">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Tietojen lähettäminen">
 <!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
 <!ENTITY pref_category_add_search_providers "Lisää hakukoneita">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Palauta hakukoneet">
+<!ENTITY pref_search_restore_defaults "Palauta oletukset">
+<!ENTITY pref_search_restore_defaults_summary "Palauta oletukset">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_devtools "Web-työkalut (englanninkielisiä)">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_docs "Learn more">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
+
+<!ENTITY pref_category_home "Yleiset">
+<!ENTITY pref_category_home_summary "Muokkaa aloitussivuasi">
+<!ENTITY pref_category_home_panels "Paneelit">
+<!ENTITY pref_home_add_panel "Lisää paneeli">
+<!ENTITY home_add_panel_title "Lisää uusi paneeli">
+<!ENTITY home_add_panel_empty "Ei lisättäviä paneeleja.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' lisätty aloitussivuun">
+<!ENTITY pref_category_home_content_settings "Sisältöasetukset">
+<!ENTITY pref_home_updates "Automaattiset päivitykset">
+<!ENTITY pref_home_updates_enabled "Ota käyttöön">
+<!ENTITY pref_home_updates_wifi "Vain WIFI yhteydellä">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Muokkaa">
@@ -148,10 +170,15 @@ size. -->
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_vendor_faqs "UKK">
 <!ENTITY pref_vendor_feedback "Anna palautetta">
-<!ENTITY pref_search_set_default "Aseta oletukseksi">
-<!ENTITY pref_search_default "Oletus">
-<!ENTITY pref_search_remove "Poista">
+
+<!ENTITY pref_dialog_set_default "Aseta oletukseksi">
+<!ENTITY pref_dialog_default "Oletus">
+<!ENTITY pref_dialog_remove "Poista">
+
 <!ENTITY pref_search_last_toast "Et voi poistaa tai ottaa pois käytöstä viimeistä hakukonetta.">
+
+<!ENTITY pref_panels_show "Näytä">
+<!ENTITY pref_panels_hide "Piilota">
 
 <!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
 <!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
@@ -199,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
 <!ENTITY find_in_page "Etsi sivulta">
 <!ENTITY desktop_mode "Sivuston työpöytäversio">
+<!ENTITY page "Sivu">
 <!ENTITY tools "Työkalut">
 <!ENTITY new_tab "Uusi välilehti">
 <!ENTITY new_private_tab "Uusi yksityinen välilehti">
@@ -215,6 +243,13 @@ size. -->
 <!ENTITY find_prev "Edellinen">
 <!ENTITY find_next "Seuraava">
 <!ENTITY find_close "Sulje">
+
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Toistetaan laitteella">
+<!ENTITY media_play "Toista">
+<!ENTITY media_pause "Pysäytä">
+<!ENTITY media_stop "Lopeta">
 
 <!ENTITY contextmenu_open_new_tab "Avaa uuteen välilehteen">
 <!ENTITY contextmenu_open_private_tab "Avaa yksityiseen välilehteen">
@@ -237,7 +272,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Näytä sivun otsikko">
 <!ENTITY pref_titlebar_mode_url "Näytä sivun osoite">
 
-<!ENTITY pref_dynamic_toolbar "Piilota otsikkopalkki vieritettäessä sivua">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Rullaava otsikkopalkki">
 
 <!ENTITY history_removed "Sivu poistettiin">
 
@@ -253,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Poista">
 <!ENTITY site_settings_no_settings  "Ei löytynyt tallennettuja asetuksia.">
 
+<!ENTITY reading_list_add "Lisää lukulistalle">
 <!ENTITY reading_list_added "Sivu lisättiin lukulistalle">
 <!ENTITY reading_list_removed "Sivu poistettiin lukulistalta">
 <!ENTITY reading_list_failed "Sivun lisääminen lukulistalle epäonnistui">
@@ -290,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Artikkelit myöhemmin luettavaksi näkyvät tässä.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Vinkki: Tallenna artikkeleita lukulistaan painamalla pitkään &#37;I -kuvaketta kun se on näkyvillä otsikkopalkissa.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Vinkki: Tallenna artikkeleita lukulistaan painamalla pitkään &formatI;-kuvaketta kun se on näkyvillä otsikkopalkissa.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Vinkki: Tallenna artikkeleita lukulistaan painamalla pitkään lukutila-painiketta kun se on näkyvillä otsikkopalkissa.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Tälle paneelille ei löytynyt sisältöä.">
 
 <!ENTITY pin_site_dialog_hint "Kirjoita hakusana">
 
@@ -340,9 +382,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          Androidista">
 <!ENTITY bookmarkhistory_import_wait "Odota...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Otetaanko käyttöön hakupalvelun &formatS; hakuehdotukset?">
+<!ENTITY suggestions_prompt3 "Otetaanko käyttöön hakuehdotukset?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

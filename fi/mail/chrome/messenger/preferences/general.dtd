@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                  "Palauta oletusasetus">
 <!ENTITY useDefault.accesskey              "P">
 
-<!ENTITY bounceSystemDockIcon.label        "Animoi pikakäynnistysvalikon kuvake">
-<!ENTITY bounceSystemDockIcon.accesskey    "m">
+<!ENTITY changeDockIconOptions.label      "Muokkaa sovelluskuvakkeen asetuksia">
+<!ENTITY dockOptions.label                "Sovelluskuvakkeen asetukset…">
+<!ENTITY dockOptions.accesskey            "v">
 
 <!ENTITY newMessagesArrive.label           "Uuden viestin saapuessa:">
 <!ENTITY playSound.label                   "Soita äänimerkki">

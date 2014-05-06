@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Sulje välilehti">
 <!ENTITY  listAllTabs.label        "Listaa kaikki välilehdet">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Aloitussivu">
