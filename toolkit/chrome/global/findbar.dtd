@@ -9,7 +9,7 @@
 <!ENTITY previous.tooltip "పదంయొక్క ముందలి  సంభవాన్ని  కనుగొను">
 <!ENTITY findCloseButton.tooltip "కనుగొను పట్టీని మూసివేయి">
 <!ENTITY highlightAll.label "అన్నిటిని  ఉద్దీపనం చేయుము">
-<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "పదంయొక్క  అన్ని  సంభవాలను  ఉద్దీపనం చేయుము">
 
 

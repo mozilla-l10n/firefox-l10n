@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "హెచ్చరికలు">
 <!ENTITY btnConsoleLog          "లాగ్">
 
+
 <!ENTITY filterOutput.placeholder "వడపోత అవుట్పుట్">
 <!ENTITY btnClear.label        "శుభ్రం">
 <!ENTITY btnClear.tooltip      "వెబ్ కన్సోల్ అవుట్‌పుట్ శుబ్రంచేయి">

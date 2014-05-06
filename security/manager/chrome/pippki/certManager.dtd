@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "ప్రస్తుతం ధృవీకరణపత్రాన్ని నిర్ధారిస్తోంది…">
 <!ENTITY certmgr.subjectinfo.label            "కు  ఇష్యూ అయింది">
 <!ENTITY certmgr.issuerinfo.label             "ద్వారా  ఇష్యూయైంది">
-<!ENTITY certmgr.validity.label               "వాలిడిటి" >
+
 <!ENTITY certmgr.fingerprints.label           "వేలుముద్రలు">
 <!ENTITY certmgr.certdetail.title             "ధృవీకరణపత్రం  వివరాలు">
 <!ENTITY certmgr.certdetail.cn                "సామూహికమైన  నామము (CN)">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "సేవిక">
 <!ENTITY certmgr.override_lifetime            "జీవితసమయం">
 <!ENTITY certmgr.tokenname                    "రక్షణ సాధనం">
-<!ENTITY certmgr.issued                       "ఇష్యూయైనది">
+
 <!ENTITY certmgr.expires                      "కాలముతీరినది">
 <!ENTITY certmgr.email                        "ఇ-మెయిల్  చిరునామా">
 <!ENTITY certmgr.serial                       "వరుస సంఖ్య">

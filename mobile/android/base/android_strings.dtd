@@ -54,7 +54,7 @@
 <!ENTITY back "వెనుకకు">
 <!ENTITY stop "ఆపు">
 <!ENTITY site_security "సైటు భద్రత">
-<!ENTITY save "భద్రపరుచు">
+
 
 <!ENTITY close_tab "టాబ్‌ను మూయి">
 <!ENTITY one_tab "1 టాబ్">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
+<!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
 <!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
 <!ENTITY pref_category_search_restore_defaults "సెర్చింజన్లను పునరుద్ధరించు">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
-<!ENTITY pref_developer_remotedebugging_docs "మరింత తెలుసుకోండి">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
 
 <!ENTITY pref_category_home "ముంగిలి">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "సింక్">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
-<!ENTITY pref_private_data_history "విహరణ &amp; దింపుకోలు చరిత్ర">
+
 <!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
-<!ENTITY pref_private_data_downloadFiles "దింపుకున్న ఫైళ్ళు">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "చూపించు">
 <!ENTITY pref_panels_hide "దాచు">
+
+
+
 
 <!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు &amp; భోగట్టా">
 <!ENTITY datareporting_notification_action_long "ఏయే సమాచారాన్ని పంచుకోవాలో ఎంచుకోండి">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
-<!ENTITY datareporting_wifi_title "&vendorShortName; ప్రాంతీయ సేవలు">
-<!ENTITY datareporting_wifi_summary "ఓపెన్ వెబ్ కొరకు జియోలొకేషన్ సేవలను మెరుగుపరచుటలో సహాయపడుటకు గాను &brandShortName; సెల్యులర్ టవర్ డాటాను సేకరించి పంపుటకు అనుమతించండి.">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -216,7 +219,7 @@ size. -->
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడిగింతలు">
-<!ENTITY downloads "డౌన్‌లోడ్లు">
+
 <!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "తుడుచివేయి">
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 
-<!ENTITY reading_list_add "చదవాల్సిన జాబితాకి చేర్చు">
 <!ENTITY reading_list_added "మీ చదివే జాబితాకు పేజీ చేర్చబడింది">
 <!ENTITY reading_list_removed "మీ చదివే జాబితా నుండి పేజీ తీసివేయబడింది">
 <!ENTITY reading_list_failed "మీ చదివే జాబితాకు పేజీని చేర్చడం విఫలమైంది">
@@ -338,6 +340,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ఈ ప్యానల్ కొరకు ఏ కాంటెంట్ కనుగొనబడలేదు.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 <!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
 
@@ -417,6 +421,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

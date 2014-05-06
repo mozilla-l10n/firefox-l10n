@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
 <!ENTITY fxaccount_status_needs_credentials "అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.">
 <!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
+
+
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
