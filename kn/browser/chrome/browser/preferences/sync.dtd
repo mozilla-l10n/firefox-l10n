@@ -33,7 +33,7 @@
 <!ENTITY engine.passwords.label     "ಗುಪ್ತಪದಗಳು">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ಆದ್ಯತೆಗಳು">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
@@ -71,3 +71,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "ಸೈನ್ ಇನ್">
 
 
+<!ENTITY welcome.useOldSync.label "ಹಳೆಯ ಆವೃತ್ತಿಯ ಸಿಂಕ್ ಬಳಸುತ್ತಿದ್ದೀರಾ?">

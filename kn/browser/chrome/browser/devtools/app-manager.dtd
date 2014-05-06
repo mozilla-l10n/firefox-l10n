@@ -7,13 +7,16 @@
 <!ENTITY index.device2 "ಸಾಧನ">
 <!ENTITY index.help "ಸಹಾಯ">
 
+<!ENTITY device.debugMainProcess "ದೋಷನಿದಾನ ಮುಖ್ಯ ಪ್ರಕ್ರಿಯೆ">
 
+<!ENTITY device.screenshot "ತೆರೆಚಿತ್ರ">
 
-
+<!ENTITY device.title "ಸಾಧನ ನಿಯಂತ್ರಣ ಕೇಂದ್ರ">
+<!ENTITY device.notConnected "ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಕೆಳಗೆ ಸಂಪರ್ಕಿಸಿ.">
 <!ENTITY device.startApp "ಆರಂಭ">
-
-
-
+<!ENTITY device.startAppTooltip "ಸಾಧನದಲ್ಲಿ ಈ ಅನ್ವಯವನ್ನು ಪ್ರಾರಂಭಿಸು">
+<!ENTITY device.stopApp "ನಿಲ್ಲಿಸು">
+<!ENTITY device.stopAppTooltip "ಸಾಧನದಲ್ಲಿ ಈ ಅನ್ವಯವನ್ನು ನಿಲ್ಲಿಸು">
 
 
 <!ENTITY device.name "ಹೆಸರು">
@@ -30,10 +33,10 @@
 
 <!ENTITY device.permissions "ಅನುಮತಿಗಳು">
 
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "ವೀಕ್ಷಕದ ಹಾಳೆಗಳು">
 
-
-
-
+<!ENTITY device.debugBrowserTab "ದೋಷನಿವಾರಣೆ">
 
 <!ENTITY device.help "ಸಹಾಯ">
 
@@ -42,14 +45,14 @@
 
 
 
+<!ENTITY connection.changeHostAndPort "ಬದಲಾಯಿಸು">
 
+<!ENTITY connection.startSimulator "ಸಿಮ್ಯುಲೇಟರ್ ಪ್ರಾರಂಭಿಸು">
 
-
-
-
-
+<!ENTITY connection.saveConnectionInfo "ಉಳಿಸು">
+<!ENTITY connection.saveConnectionInfoTooltip "ಅತಿಥೇಯ ಗಣಕ ಮತ್ತು ಸಂಪರ್ಕ ಸ್ತಾನವನ್ನು ಉಳಿಸು">
 <!ENTITY connection.connecting "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…">
-
+<!ENTITY connection.disconnecting "ಸಂಪರ್ಕ ತಪ್ಪಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY connection.cancel "ರದ್ದು ಮಾಡು">
 
 
@@ -57,11 +60,12 @@
 
 
 
+<!ENTITY connection.installAnotherSimulator "ಸೇರಿಸು">
 
+<!ENTITY connection.startRegisteredSimulator "ಪ್ರಾರಂಭ:">
 
-
-
-
+<!ENTITY projects.localApps "ಸ್ಥಳೀಯ ಅನ್ವಯಗಳು">
+<!ENTITY projects.addApp "ಸೇರಿಸು">
 
 
 
@@ -72,18 +76,18 @@
 <!ENTITY projects.updateApp "ಅಪ್‌ಡೇಟ್">
 
 
-
+<!ENTITY projects.debugAppTooltip "ಈ ಅನ್ವಯಕ್ಕೆ ಸಂಪರ್ಕವೇರ್ಪಟ್ಟಿರುವ ವಿಕಸನ ಉಪಕರಣಗಳನ್ನು ತೆರೆಯಿರಿ">
 <!ENTITY projects.saveManifest "ಉಳಿಸು">
 
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
+<!ENTITY projects.manifestEditor "ಮ್ಯಾನಿಫೆಸ್ಟ್ ಸಂಪಾದಕ">
 
-
-
-
+<!ENTITY projects.manifestViewer "ಮ್ಯಾನಿಫೆಸ್ಟ್ ವೀಕ್ಷಕ">
 
 <!ENTITY projects.valid "ಮಾನ್ಯ">
 <!ENTITY projects.error "ದೋಷ">
-
+<!ENTITY projects.warning "ಎಚ್ಚರಿಕೆ">
 
 
 
@@ -93,6 +97,6 @@
 
 
 
-
-
+<!ENTITY help.troubleShooting "ತೊಂದರೆನಿವಾರಣೆ">
+<!ENTITY help.simulatorAddon "ಸಿಮ್ಯುಲೇಟರ್ ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪಿಸು">
 
