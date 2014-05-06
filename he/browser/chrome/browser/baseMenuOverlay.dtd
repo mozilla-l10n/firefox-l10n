@@ -35,15 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "שלח משוב…">
 <!ENTITY helpFeedbackPage.accesskey  "ש">
 
+<!ENTITY helpShowTour.label             "סיור ב־&brandShortName;">
+<!ENTITY helpShowTour.accesskey         "ס">
+
 <!ENTITY preferencesCmdMac.label        "העדפות…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "שירותים">
 
-<!ENTITY hideThisAppCmdMac.label        "הסתרת &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "ה">
+<!ENTITY hideThisAppCmdMac.label        "הסתרת את &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "הסתרת אחרים">
-<!ENTITY hideOtherAppsCmdMac.commandkey "א">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "הראה הכול">
