@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-pošta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Ova poruka sadrži pozivnicu na događaj.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Prihvati">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Prihvati poziv na događaj">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Prihvati sve">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Prihvati poziv za sva ponavljanja događaja">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Dodaj">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Dodaj događaj u kalendar">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Odbij">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Odbij poziv na događaj">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Odbij sve">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odbij poziv za sva ponavljanja događaja">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Obriši">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Obriši iz kalendara">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalji…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži detalje događaja">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Više">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za prikaz više mogućnosti">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potvrdi">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Šalje ponovnu potvrdu organizatoru">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Privremeno">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Privremeno prihvati poziv na događaj">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Sve privremeno">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Privremeno prihvati poziv za sva ponavljanja događaja">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Ažuriraj">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ažuriraj događaj u kalendaru">
+<!ENTITY lightning.imipbar.description                                      "Ova poruka sadrži pozivnicu na događaj.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

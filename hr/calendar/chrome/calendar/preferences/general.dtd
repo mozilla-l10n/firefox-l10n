@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Dugi" >
 <!ENTITY pref.dateformat.short "Kratki"  >
-<!ENTITY pref.defaultlength.label "Zadano trajanje događaja:" >
-<!ENTITY pref.defaultlength.accesskey "Z">
-<!ENTITY pref.defaultsnoozelength.label "Zadano trajanje odgode:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "a">
+
+<!ENTITY pref.defaults.label "Zadane vrijednosti za nove stavke">
+<!ENTITY pref.events.label "Događaji">
+<!ENTITY pref.tasks.label "Zadaci">
+
+<!ENTITY pref.default_event_length.label "Zadana duljina:" >
+<!ENTITY pref.default_event_length.accesskey "Z">
+
+<!ENTITY pref.default_task_none.label "Niti jedan">
+<!ENTITY pref.default_task_start_of_day.label "Početak dana">
+<!ENTITY pref.default_task_end_of_day.label "Kraj dana">
+<!ENTITY pref.default_task_tomorrow.label "Sutra">
+<!ENTITY pref.default_task_next_week.label "Sljedeći tjedan">
+<!ENTITY pref.default_task_offset_current.label "Zavisno od trenutnog vremena">
+<!ENTITY pref.default_task_offset_start.label "Zavisno od početka">
+<!ENTITY pref.default_task_offset_next_hour.label "Zavisno od sljedećeg sata">
 
 <!ENTITY pref.accessibility.label "Pristupačnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj boje za pristupačnost" >
