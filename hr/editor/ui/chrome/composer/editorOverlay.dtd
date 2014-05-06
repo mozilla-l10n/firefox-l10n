@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Zalijepi kao citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Pronađi i zamijeni…">
+<!ENTITY findBarCmd.label "Traži…">
+<!ENTITY findReplaceCmd.label "Pronađi i zamijeni…">
 <!ENTITY enableInlineSpellChecker.label "Provjeravaj pravopis tijekom tipkanja">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Provjeri pravopis…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znakove i simbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Prijelom ispod slike(a)">

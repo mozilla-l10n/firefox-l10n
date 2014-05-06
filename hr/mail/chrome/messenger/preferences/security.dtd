@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Prijevare e-poštom">
 <!ENTITY itemPasswords.label     "Lozinke">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Web sadržaj">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.">
@@ -46,21 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; može olakšati antivirusnim programima analizu primljenih poruka e-pošte na viruse prije nego se pohrane lokalno.">
 <!ENTITY antiVirus.label      "Dozvoli antivirusnim programima da izoliraju pojedine primljene poruke">
 <!ENTITY antiVirus.accesskey  "a">
-<!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName; vam omogućava da odredite kojim je blogovima, interesnim grupama i drugim web stranicama dozvoljeno postavljanje kolačića.">
-<!ENTITY acceptCookies.label            "Prihvati kolačiće od stranica">
-<!ENTITY acceptCookies.accesskey        "r">
-<!ENTITY keepUntil.label                "Zadrži do:">
-<!ENTITY keepUntil.accesskey            "Z">
-<!ENTITY expire.label                   "iteka roka">
-<!ENTITY close.label                    "zatvaranja &brandShortName;-a">
-<!ENTITY askEachTime.label              "pitaj me svaki puta">
-<!ENTITY cookieExceptions.label         "Izuzeci…">
-<!ENTITY cookieExceptions.accesskey     "I">
-<!ENTITY showCookies.label              "Prikaži kolačiće…">
-<!ENTITY showCookies.accesskey          "k">
-<!-- Do Not Track -->
-
-<!ENTITY doNotTrack.label               "Obavijesti web stranice da me ne prate">
-<!ENTITY doNotTrack.accesskey           "d">
