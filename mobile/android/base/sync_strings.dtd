@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.">
 <!ENTITY fxaccount_status_needs_credentials "Bağlanılamadı. Oturum açmak için dokunun.">
 <!ENTITY fxaccount_status_needs_upgrade "Oturum açmak için &brandShortName; tarayıcınızı yükseltmelisiniz.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">
 <!ENTITY fxaccount_status_passwords "Parolalar">
