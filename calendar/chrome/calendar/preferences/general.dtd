@@ -14,7 +14,7 @@
 <!ENTITY pref.dateformat.short "Stutt">
 <!ENTITY pref.defaultlength.label "Sjálfgefin lengd atburða:">
 <!ENTITY pref.defaultlength.accesskey "a">
-<!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blundar:">
+<!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blunds:">
 <!ENTITY pref.defaultsnoozelength.accesskey "b">
 <!ENTITY pref.accessibility.label "Auðveldað aðgengi">
 <!ENTITY pref.systemcolors.label "Finna bestu liti fyrir aðgengi">

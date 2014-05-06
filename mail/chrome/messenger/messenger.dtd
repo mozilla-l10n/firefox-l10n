@@ -300,8 +300,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappa">
 <!ENTITY folderMenu.accesskey "a">
-<!ENTITY thisFolder.label "Þessi mappa">
-<!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Nýlega lokaðir flipar">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Upphafssíða">
@@ -340,9 +338,9 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Viðhengi">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Breyta pósti sem nýjum">
-<!ENTITY editMsgAsNewCmd.accesskey "e">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Breyta sem nýjum pósti">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Færa í">
@@ -365,10 +363,6 @@
 <!ENTITY watchThreadMenu.label "Fylgjast með umræðu">
 <!ENTITY watchThreadMenu.accesskey "F">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Setja skrá hérna">
-<!ENTITY fileHereMenu.accesskey "S">
-<!ENTITY copyHereMenu.label "Afrita hingað">
-<!ENTITY copyHereMenu.accesskey "A">
 <!ENTITY tagMenu.label "Flokkur">
 <!ENTITY tagMenu.accesskey "o">
 <!ENTITY tagCmd0.key "0">
@@ -554,8 +548,10 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Hunsa aðvörun fyrir þennan póst">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionDisableDetection.label "Slökkva á greiningu á svikapósti">
-<!ENTITY phishingOptionDisableDetection.accesskey "ö">
+<!ENTITY phishingOptionSettings.label "Breyta stillingum svikagreiningar…">
+<!ENTITY phishingOptionSettings.accesskey "B">
+<!ENTITY phishingOptionSettingsUnix.label "Breyta stillingum svikagreiningar…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "B">
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
@@ -642,26 +638,26 @@
 <!ENTITY idColumn.label "Í móttekinni röð">
 <!ENTITY attachmentColumn.label "Viðhengi">
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Smelltu til að velja hvaða dálka á að sýna">
-<!ENTITY threadColumn.tooltip "Smelltu til að sýna umræður">
-<!ENTITY fromColumn.tooltip "Smelltu til að raða eftir frá">
-<!ENTITY recipientColumn.tooltip "Smelltu til að raða eftir viðtakanda">
-<!ENTITY subjectColumn.tooltip "Smelltu til að raða eftir efni">
-<!ENTITY dateColumn.tooltip "Smelltu til að raða eftir dagsetningu">
-<!ENTITY priorityColumn.tooltip "Smelltu til að raða eftir forgangi">
-<!ENTITY tagsColumn.tooltip "Smelltu til að raða eftir flokki">
-<!ENTITY accountColumn.tooltip "Smelltu til að raða eftir reikningi">
-<!ENTITY statusColumn.tooltip "Smelltu til að raða eftir stöðu">
-<!ENTITY sizeColumn.tooltip "Smelltu til að raða eftir stærð">
-<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóstsstöðu">
-<!ENTITY unreadColumn.tooltip "Fjöldi ólesinna pósta í umræðu">
-<!ENTITY totalColumn.tooltip "Heildarfjöldi pósta í umræðu">
-<!ENTITY readColumn.tooltip "Smelltu til að raða eftir lesið">
-<!ENTITY receivedColumn.tooltip "Smelltu til að raða eftir móttekinni dagsetningu">
-<!ENTITY starredColumn.tooltip "Smelltu til að raða eftir stjörnumerkingu">
-<!ENTITY locationColumn.tooltip "Smelltu til að raða eftir staðsetningu">
-<!ENTITY idColumn.tooltip "Smelltu til að raða eftir hvenær móttekið">
-<!ENTITY attachmentColumn.tooltip "Smelltu til að raða eftir viðhengjum">
+<!ENTITY columnChooser2.tooltip "Veldu dálka til að birta">
+<!ENTITY threadColumn2.tooltip "Birta póstþræði">
+<!ENTITY fromColumn2.tooltip "Raða eftir frá">
+<!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">
+<!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
+<!ENTITY dateColumn2.tooltip "Raða eftir Dags">
+<!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">
+<!ENTITY tagsColumn2.tooltip "Raða eftir tögum">
+<!ENTITY accountColumn2.tooltip "Raða eftir reikningi">
+<!ENTITY statusColumn2.tooltip "Raða eftir stöðu">
+<!ENTITY sizeColumn2.tooltip "Raða eftir Stærð">
+<!ENTITY junkStatusColumn2.tooltip "Raða eftir ruslpóststöðu">
+<!ENTITY unreadColumn2.tooltip "Fjöldi ólesinna pósta í umræðu">
+<!ENTITY totalColumn2.tooltip "Heildarfjöldi pósta í umræðu">
+<!ENTITY readColumn2.tooltip "Raða eftir lesið">
+<!ENTITY receivedColumn2.tooltip "Raða eftir móttekinni dagsetningu">
+<!ENTITY starredColumn2.tooltip "Raða eftir stjörnumerkingu">
+<!ENTITY locationColumn2.tooltip "Raða eftir staðsetningu">
+<!ENTITY idColumn2.tooltip "Raða eftir móttekinni röð">
+<!ENTITY attachmentColumn2.tooltip "Raða eftir viðhengjum">
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna póst í nýjum glugga">
 <!ENTITY contextOpenNewWindow.accesskey "O">
@@ -673,8 +669,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Opna póst í samtali">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Breyta pósti sem nýjum…">
-<!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Breyta sem nýjum pósti">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Skjalageymsla">
 <!ENTITY contextArchive.accesskey "j">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
@@ -798,8 +794,8 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "Bæta við nafnaskrá">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Breyta tengilið…">
-<!ENTITY EditContact.accesskey "e">
+<!ENTITY EditContact1.label "Breyta tengilið">
+<!ENTITY EditContact1.accesskey "e">
 <!ENTITY ViewContact.label "Skoða tengilið">
 <!ENTITY ViewContact.accesskey "S">
 <!ENTITY SubscribeToNewsgroup.label "Gerast áskrifandi að fréttahóp">
@@ -857,3 +853,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Sýna allt">
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label "App Icon valkostir…">

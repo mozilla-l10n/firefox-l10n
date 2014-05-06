@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label "Leita">
-<!ENTITY newpref.label "Bæta við nýrri stillingu">
 <!ENTITY addpref.name "Nafn">
-<!ENTITY addpref.value "Gildi">
 <!ENTITY cancel.label "Hætta við">
-<!ENTITY reset.label "Frumstilla">
-<!ENTITY done.label "Ljúka">
+<!ENTITY toggle.label "Víxla">
 <!ENTITY integer.label "Heiltala">
 <!ENTITY string.label "Strengur">
 <!ENTITY boolean.label "Boole gildi">
+<!ENTITY string.placeholder "Sláðu inn streng">
+<!ENTITY number.placeholder "Sláðu inn tölu">
