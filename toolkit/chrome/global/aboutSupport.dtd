@@ -5,14 +5,20 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
+
 
 
 
 <!ENTITY aboutSupport.extensionsTitle "Dikatoloso">
 
 <!ENTITY aboutSupport.extensionEnabled "Kgontshitswe">
+
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Tlhaloso">
+
 
 
 

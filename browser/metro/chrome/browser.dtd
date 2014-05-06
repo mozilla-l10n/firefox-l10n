@@ -16,6 +16,8 @@
 
 
 
+
+
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
                         narrowHistoryHeader.label,
@@ -46,13 +48,15 @@
 
 <!ENTITY consoleClear.label        "Tlosa">
 
+
 <!ENTITY consoleErrFile.label      "Faele ya Motswedi:">
 <!ENTITY consoleErrLine.label      "Mola:">
 <!ENTITY consoleErrColumn.label    "Kholomo:">
+
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Sega">
-<!ENTITY contextTextCopy.label             "Kopolola">
+
 <!ENTITY contextTextPaste.label            "Manega">
 <!-- unique item that is only added to the url bar context menu -->
 <!ENTITY contextTextSelect.label           "Tlhopha">
@@ -81,7 +85,37 @@
 
 
 
+<!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+
+
+
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
 
 
 

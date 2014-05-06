@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Boalo jwa Tsebe">
 
-<!ENTITY basic.tab           "Fomete &amp; Diitlhophelwa">
 
 <!ENTITY formatGroup.label   "Fomete">
 
@@ -25,7 +24,6 @@
 
 
 
-<!ENTITY advanced.tab        "Meolwane &amp; Ntlhagodimo/Ntlhatlase">
 
 <!ENTITY marginGroup.label   "Meolwane (#1)">
 <!ENTITY marginUnits.inches  "diintšhe">
@@ -39,7 +37,6 @@
 
 
 
-<!ENTITY headerFooter.label  "Dintlhagodimo &amp; dintlhatlase">
 
 <!ENTITY hfCenter.label      "Bogare:">
 

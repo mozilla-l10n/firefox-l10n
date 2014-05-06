@@ -8,19 +8,26 @@
 %syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
+
+<!ENTITY abouthome.pageTitle "&brandShortName; Tsebe ya Tshimologo">
+
+<!ENTITY abouthome.searchEngineButton.label "Batla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Re a leboga go bo o kgethile Firefox! Go itemogela go le gontsi mo sebatling sa gago, ithute thata ka <a> dikarolo tse di ntsha<a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Go motlhofo go kgabisa Firefox ka fa o kgonang ka teng. <a> Tlhopha mo di add-ons">
+<!ENTITY abouthome.defaultSnippet2.v1 "Go motlhofo go tshwanedisa Firefox ya gago ka fa o e batlang ka teng. <a> Tlhopha go tsweng mo diketeng tsa dioketswa</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; e dirisiwa ntleng le theko e buletswe go ka dirisiwa ke botlhe go tswa mo lekalaneng le le sa direng letseno la Mozilla Foundation...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Matshwaotsebe">
-<!ENTITY abouthome.historyButton.label   "Hisetori">
-<!ENTITY abouthome.settingsButton.label  "Boalo">
-
-
+<!ENTITY abouthome.historyButton.label   "Ditiragalo tse di fitileng">
+<!ENTITY abouthome.settingsButton.label  "Dithulaganyo">
+<!ENTITY abouthome.addonsButton.label    "Dioketswa">
+<!ENTITY abouthome.appsButton.label      "Lefelo la thekiso">
 <!ENTITY abouthome.downloadsButton.label "Dikopololo">
-
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

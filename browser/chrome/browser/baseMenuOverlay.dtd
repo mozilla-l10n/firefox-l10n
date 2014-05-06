@@ -5,35 +5,48 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Ngotla">
 <!ENTITY bringAllToFront.label    "Tlisa Tsotlhe fa Pele">
-<!ENTITY zoomWindow.label         "Zuma/gogela">
+<!ENTITY zoomWindow.label         "Laola bogolo">
 <!ENTITY windowMenu.label         "Fensetere">
 
-<!ENTITY helpMenu.label           "Thusa"> 
+<!ENTITY helpMenu.label           "Thuso"> 
 <!ENTITY helpMenu.accesskey       "T"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Thusa"> 
+<!ENTITY helpMenuWin.label        "Thuso"> 
 <!ENTITY helpMenuWin.accesskey    "T">
+<!ENTITY aboutProduct.label       "Ka ga &brandFullName;">
+<!ENTITY aboutProduct.accesskey   "K">
+<!ENTITY productHelp.label        "&brandShortName; Thuso">
+<!ENTITY productHelp.accesskey    "T">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Keyboard Ditlhabanyetso  ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "Simolodisa gape ka di oketswa di Thibetswe go dira">
+<!ENTITY helpSafeMode.accesskey   "S">
+
+<!ENTITY healthReport.label       "&brandShortName; Pegelo ya Kemopholo">
+<!ENTITY healthReport.accesskey   "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "Tharabololobothata ya Tshedimosetso">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "Romela karabo ka maitemogelo...">
+<!ENTITY helpFeedbackPage.accesskey  "R">
+
+<!ENTITY helpShowTour.label             "&brandShortName; Tya rona">
+<!ENTITY helpShowTour.accesskey         "y">
+
+<!ENTITY preferencesCmdMac.label        "Tse di kgethegileng...">
 
 
+<!ENTITY servicesMenuMac.label          "Ditirelo">
 
+<!ENTITY hideThisAppCmdMac.label        "Fitlha &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
+<!ENTITY hideOtherAppsCmdMac.label      "Fitlha tse Dingwe">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showAllAppsCmdMac.label        "Supa tsotlhe">

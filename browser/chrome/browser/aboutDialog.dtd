@@ -2,11 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Ka ga &brandFullName;">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+
+<!ENTITY update.checkForUpdatesButton.label       "Tlhola Ditlhabololo">
+<!ENTITY update.checkForUpdatesButton.accesskey   "T">
+<!ENTITY update.updateButton.label                "Simolodisa go Tlhabolola">
+<!ENTITY update.updateButton.accesskey            "S">
+<!ENTITY update.applyButtonBillboard.label        "Dirisa Ditlhabololo...">
+<!ENTITY update.applyButtonBillboard.accesskey    "D">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&leinalaletshwao; le ka dirisiwa.">
+
+<!ENTITY warningDesc.version        "&brandShortName; e a lekwa mo go rayang gore e ka nna ya se ka ya tsepama.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ka nosi le tlisa lesedi ka dilo tsotlhe le go itirisa go &vendorShortName; go thusa go khutswafatsa &brandShortName; botoka.">
+<!ENTITY warningDesc.telemetryDesc  "Ka go itirisa e romela molaetsa ka tiragatso, serwethata, tiriso le ditshwanediso go boela ko &vendorShortName; go thusa go dira &brandShortName; botoka.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -14,42 +27,54 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ke">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "mokgatlho wa mafatshe">
-<!ENTITY community.exp.end          "o bereka mmogo go dirisa maranyane le go tlisa tetla,go botlhe.">
+<!ENTITY community.exp.creditsLink  "Sechaba se se feletseng ">
+<!ENTITY community.exp.end          "Pereko mmogo go tlhokomela gore Webo e nna e bulegile, e le ya botlhe gape e letlelesegile go dirisiwa ke botlhe.">
 
-<!ENTITY community.start2           "&brandShortName; le dirilwe ke">
+<!ENTITY community.start2           "&brandShortName; e dirilwe ke">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ba">
+<!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.end3             "ba bereka mmogo go dirisa maranyane le go tlisa tetla,go botlhe.">
+<!ENTITY community.creditsLink      "sechaba se se feletseng">
+<!ENTITY community.end3             "Pereko mmogo go tlhokomela gore webo e bulegela botlhe le gore e letlelesega go dirisiwa ke botlhe.">
 
-<!ENTITY contribute.start           "Se se a itumedisa?">
+<!ENTITY contribute.start           "A e utlwala e kgatlhisa?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Tsaya karolo!!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license        "Tshedimosetso ya Laesense">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "Ditetlelelo tsa Modirisi">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Pholesi ya Bosephiri">
+<!ENTITY bottomLinks.privacy        "Melao ya Boporaefete">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates  "E tlhola ditlhabololo...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; e tlhabolotswe">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Ditlhabololo di thibetswe go dira ke Molaolakhomphiutha">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; e tlhabololwa ke leloko le lengwe">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.linkText     "Mofutla o mongwe">
+
+<!ENTITY update.failed.start        "Tlhabololo e palegile.">
+<!ENTITY update.failed.linkText     "Kopolola mofuta o mosha">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Ntshafatso e teng">
+<!ENTITY update.manual.start        "Ditlhabololo di teng ko">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -58,18 +83,22 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
+<!ENTITY update.unsupported.start    "O ka se diragatse ditlhabololo tse di fetileng mo mafaratlhatlheng a.">
+<!ENTITY update.unsupported.linkText "Ithute mo go tseneletseng">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start   "E kopolola tlhabololo —">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Tsenya ntshafatso">
+<!ENTITY update.applying            "E tsenya mo tiriso tlhabololo...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Gompieno o mo">
-<!ENTITY channel.description.end    "Kgolagano ya ntshafatso">
+<!ENTITY channel.description.start  "O santse o le mo">
+<!ENTITY channel.description.end    "mosele wa tlhabololo.">

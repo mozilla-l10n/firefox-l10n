@@ -43,8 +43,27 @@
 
 <!ENTITY closeCmd.accesskey           "T">
 
+<!ENTITY viewMenu.label               "Leba">
+<!ENTITY viewMenu.accesskey           "L">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Tseleganya">
 <!ENTITY editMenu.accesskey           "T">
+
 
 
 
@@ -93,3 +112,8 @@
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+

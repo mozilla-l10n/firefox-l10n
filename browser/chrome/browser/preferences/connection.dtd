@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "C">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+
+
 <!ENTITY  port.label                    "Segokaganyi:">
 
 <!ENTITY  SSLport.accesskey             "o">
@@ -40,5 +42,8 @@
 <!ENTITY  noproxy.label                 "Ga gona Kemela ya:">
 <!ENTITY  noproxy.accesskey             "G">
 <!ENTITY  noproxyExplain.label          "Sekai: .mozilla.org, .net.za, 192.168.1.0/24">
+
+
+
 
 
