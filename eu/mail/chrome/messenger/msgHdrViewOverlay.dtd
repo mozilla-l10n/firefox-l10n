@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "Honi erantzunez">
 <!ENTITY originalWebsite4.label "Webgunea">
 
-<!ENTITY editMessageDescription.label "Mezua zirriborroa da">
-<!ENTITY editMessageButton.label "Editatu…">
 <!ENTITY hdrArchiveButton1.label "Artxibatu">
 <!ENTITY hdrArchiveButton1.tooltip "Artxibatu mezu hau">
 <!ENTITY hdrSmartReplyButton1.label "Erantzun bizkorra">

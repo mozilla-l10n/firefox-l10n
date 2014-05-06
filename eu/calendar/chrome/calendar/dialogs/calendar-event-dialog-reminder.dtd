@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Gogorarazleen zehaztapenak">
 <!ENTITY reminder.action.label                             "Aukeratu gogoratze ekintza">
 
-<!ENTITY reminder.relation.before.label                    "aurretik" >
-<!ENTITY reminder.relation.after.label                     "ondoren" >
-
 <!ENTITY reminder.action.alert.label                       "Abisua ikusi">
 <!ENTITY reminder.action.email.label                       "Bidali ePosta">
 

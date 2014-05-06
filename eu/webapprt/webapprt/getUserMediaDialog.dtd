@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Multimedia partekatzea">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Partekatu">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "P">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Utzi">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "z">
+<!ENTITY getUserMediaDialog.title                   "Multimedia partekatzea">
+<!ENTITY getUserMediaDialog.button.accept.label     "Partekatu">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "P">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Utzi">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "U">
 
-<!ENTITY getUserMediaDialog.video.label           "Hautatu kamera">
-<!ENTITY getUserMediaDialog.video.noVideo         "Bideorik ez">
-<!ENTITY getUserMediaDialog.audio.label           "Hautatu mikrofonoa">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Audiorik ez">
+<!ENTITY getUserMediaDialog.video.label             "Hautatu kamera">
+<!ENTITY getUserMediaDialog.video.noVideo           "Bideorik ez">
+<!ENTITY getUserMediaDialog.audio.label             "Hautatu mikrofonoa">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Audiorik ez">
