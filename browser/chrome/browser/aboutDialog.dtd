@@ -3,6 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "אודות &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Firefox version in
+# the about dialog (see bug 596813 for screenshots).
+-->
+<!ENTITY update.checkForUpdatesButton.label       "בדיקת עדכונים">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ב">
+<!ENTITY update.updateButton.label                "הפעלה מחדש להחלת העדכון">
+<!ENTITY update.updateButton.accesskey            "מ">
+<!ENTITY update.applyButtonBillboard.label        "החלת עדכון…">
+<!ENTITY update.applyButtonBillboard.accesskey    "ח">
+
+
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "תוכנת &brandShortName; היא נסיונית וייתכן שלא תהיה יציבה.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
