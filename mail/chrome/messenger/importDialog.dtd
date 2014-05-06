@@ -10,6 +10,22 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
+<!ENTITY importDialog.windowTitle "Импорттау">
+
+
+
+
+
+
+<!ENTITY importAddressbook.label  "Адрес кітапшалары">
+<!ENTITY importAddressbook.accesskey "А">
+<!ENTITY importSettings.label     "Баптаулар">
+<!ENTITY importSettings.accesskey "Б">
+<!ENTITY importFilters.label      "Сүзгілер">
+<!ENTITY importFilters.accesskey  "С">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
 
 
@@ -17,23 +33,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 
+<!ENTITY acctName.label           "Аты:">
+<!ENTITY acctName.accesskey       "А">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY finish.label             "Дайын">
 <!ENTITY cancel.label             "Бас тарту">
 
 

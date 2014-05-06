@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Медиамен бөлісу">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Бөлісу">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "с">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Бас тарту">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "т">
+<!ENTITY getUserMediaDialog.title                   "Медиамен бөлісу">
+<!ENTITY getUserMediaDialog.button.accept.label     "Бөлісу">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "с">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Бас тарту">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "т">
 
-<!ENTITY getUserMediaDialog.video.label           "Камераны таңдаңыз">
-<!ENTITY getUserMediaDialog.video.noVideo         "Видео жоқ">
-<!ENTITY getUserMediaDialog.audio.label           "Микрофонды таңдаңыз">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Аудио жоқ">
+<!ENTITY getUserMediaDialog.video.label             "Камераны таңдаңыз">
+<!ENTITY getUserMediaDialog.video.noVideo           "Видео жоқ">
+<!ENTITY getUserMediaDialog.audio.label             "Микрофонды таңдаңыз">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Аудио жоқ">
