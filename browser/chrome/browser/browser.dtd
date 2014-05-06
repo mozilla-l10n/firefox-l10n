@@ -175,10 +175,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Accueil">
 <!ENTITY tabGroupsButton.label        "&#xad;Groupes d'onglets">
 
-<!ENTITY bookmarksButton.tooltip    "Afficher panneau des marque-pages">
+<!ENTITY bookmarksButton.label      "Marque-pages">
 <!ENTITY bookmarksCmd.commandkey    "b">
 
-<!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
+<!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non classés">
 <!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.tooltip          "Afficher les pages visitées récemment">
+<!ENTITY historyButton.label            "Historique">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Outils">
