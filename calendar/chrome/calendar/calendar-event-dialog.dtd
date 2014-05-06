@@ -11,6 +11,9 @@
 <!ENTITY newevent.to.label                  "Vastaanottaja" >
 <!ENTITY newevent.attendees.notify.label    "Ilmoita osanottajille">
 
+<!ENTITY newevent.attendees.notifyundisclosed.label    "Älä paljasta osallistujia kutsuissa">
+<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Jos tämä on valittu, osallistujat eivät näe toisiaan kutsuissa. Sovelletaan vain sähköpostikutsuihin.">
+
 <!ENTITY newevent.status.label                    "Tila" >
 <!ENTITY newevent.status.accesskey                "T" >
 <!ENTITY newevent.eventStatus.none.label          "Ei määritetty" >
@@ -99,12 +102,6 @@
 <!ENTITY  event.menu.options.accesskey                        "V">
 <!ENTITY  event.menu.options.attendees.label                  "Kutsu osallistujia…">
 <!ENTITY  event.menu.options.attendees.accesskey              "K">
-<!ENTITY  event.menu.options.spellcheck.label                 "Oikolue…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "O">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Oikolue kirjoitettaessa">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
-<!ENTITY  event.menu.options.link.label                       "Lisää linkki…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "Näytä aikavyöhykkeet">
 <!ENTITY  event.menu.options.timezone2.accesskey              "a">
 <!ENTITY  event.menu.options.priority2.label                  "Tärkeysaste">
@@ -143,8 +140,16 @@
 <!ENTITY  event.toolbar.save.label                        "Tallenna ja sulje">
 <!ENTITY  event.toolbar.delete.label                      "Poista">
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osallistujia">
-<!ENTITY  event.toolbar.spellcheck.label                  "Oikoluku">
 <!ENTITY  event.toolbar.privacy.label                     "Tietosuoja">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Tallenna ja sulje">
+<!ENTITY  event.toolbar.delete.tooltip                    "Poista">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu henkilöitä">
+<!ENTITY  event.toolbar.attachments.tooltip               "Lisää liitetiedostoja">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Muuta tietosuoja-asetusta">
+<!ENTITY  event.toolbar.priority.tooltip                  "Muuta tärkeysastetta">
+<!ENTITY  event.toolbar.status.tooltip                    "Muuta tilaa">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Muuta vapaa/varattu -aikaa">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Otsikko:" >
@@ -154,7 +159,6 @@
 <!ENTITY event.categories.label                           "Tyyppi:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "Lisää uusi tapahtumatyyppi" >
-<!ENTITY event.categories.textbox.accesskey               "m">
 <!ENTITY event.calendar.label                             "Kalenteri:" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Osallistujat:" >
@@ -210,6 +214,9 @@
 <!ENTITY event.reminder.custom.label                      "Oma…" >
 
 <!ENTITY event.reminder.multiple.label                    "Useita muistutuksia…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Aika:">
+<!ENTITY event.statusbarpanel.privacy.label               "Tietosuoja:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Muokkaa toistuvuutta">
@@ -361,5 +368,4 @@
 <!ENTITY read.only.reminder.label        "Muistuta:">
 <!ENTITY read.only.attendees.label       "Osallistujat">
 <!ENTITY read.only.description.label     "Kuvaus">
-<!ENTITY read.only.documents.label       "Asiakirjat">
 <!ENTITY read.only.link.label            "Aiheeseen liittyvä linkki">

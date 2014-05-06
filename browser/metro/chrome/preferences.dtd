@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktiiviset kirjautumiset">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Tallenna salasanat">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Näytä navigointipainikkeet">
 <!ENTITY doNotTrack.title                                        "Älä seuraa -asetukset">
 <!ENTITY doNotTrack.options.doNotTrack                           "Ilmoita sivustoille etten halua niiden seuraavan minua">
 <!ENTITY doNotTrack.options.doTrack                              "Ilmoita sivustoille että haluan niiden seuraavan minua">
