@@ -15,7 +15,7 @@
 <!ENTITY  switch_to_tab "ប្ដូរ​ទៅ​ផ្ទាំង">
 
 <!ENTITY  crash_reporter_title "កម្មវិធី​រាយការណ៍​កំហុស​របស់ &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; បាន​គាំង ។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
+<!ENTITY  crash_message2 "&brandShortName; មាន​បញ្ហា និង​​​គាំង ។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
 <!ENTITY  crash_send_report_message3 "ប្រាប់ &vendorShortName; អំពី​ការ​គាំង​នេះ​ដើម្បី​ឲ្យ​ពួកគេ​អាច​កែ​វា​បាន">
 <!ENTITY  crash_include_url2 "បាន​រួមបញ្ចូល​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​ទស្សនា">
 <!ENTITY  crash_sorry "យើង​សុំទោស">
@@ -54,7 +54,7 @@
 <!ENTITY back "ថយ​ក្រោយ">
 <!ENTITY stop "បញ្ឈប់">
 <!ENTITY site_security "សុវត្ថិភាព​តំបន់បណ្ដាញ">
-<!ENTITY save "រក្សាទុក​">
+<!ENTITY edit_mode_cancel "បោះបង់">
 
 <!ENTITY close_tab "បិទ​ផ្ទាំង">
 <!ENTITY one_tab "ផ្ទាំង ១">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
+<!ENTITY pref_learn_more "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
 <!ENTITY pref_category_add_search_providers "បន្ថែម​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
 <!ENTITY pref_category_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក​ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា ហើយ​បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
-<!ENTITY pref_developer_remotedebugging_docs "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
 
 <!ENTITY pref_category_home "ដើម">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
-<!ENTITY pref_private_data_history "រក​មើល &amp; ប្រវត្តិ​ទាញ​យក">
+<!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_formdata "ទម្រង់ &amp; ប្រវត្តិ​ស្វែងរក">
 <!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
 <!ENTITY pref_private_data_passwords "ពាក្យ​សម្ងាត់​បាន​រក្សារ​ទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់​បណ្ដាញ">
-<!ENTITY pref_private_data_downloadFiles "ទាញ​យក​ឯកសារ">
+<!ENTITY pref_private_data_downloadFiles2 "ទាញ​យក">
 
 
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "បង្ហាញ">
 <!ENTITY pref_panels_hide "លាក់">
+<!ENTITY pref_panels_reorder "ផ្លាស់ប្ដូរ​លំដាប់">
+<!ENTITY pref_panels_move_up "ផ្លាស់ទី​ឡើង​លើ">
+<!ENTITY pref_panels_move_down "ផ្លាស់ទី​ចុះ​ក្រោម">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; ទិន្នន័យ">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
-<!ENTITY datareporting_wifi_title "&vendorShortName; សេវាកម្ម​ទីតាំង">
-<!ENTITY datareporting_wifi_summary "ជួយ​ធ្វើឲ្យ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​ប្រសើរ​ឡើង​សម្រាប់ Open Web ដោយ​អនុញ្ញាត​ឲ្យ &brandShortName; ប្រមូល និង​ផ្ញើ​ទិន្នន័យ​អនាមិក">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
+<!ENTITY datareporting_wifi_geolocation_summary "ចាប់​បាន Wi-Fi និង​ទិន្នន័យ​ទីតាំង​​​តាម​ទូរស័ព្ទ​ដៃ​នៅ​ពេល​កំពុង​ដំណើរការ​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ និង​ចែករំលែក​វា​ជាមួយ &vendorShortName; ដើម្បី​ជួយ​ធ្វើ​ឲ្យ​ប្រសើរ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​របស់​យើង">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ ។">
 
-<!ENTITY reading_list_add "បន្ថែម​ទៅ​បញ្ជី​អាន">
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "គ្មាន​មាតិកា​អាច​ត្រូវ​បាន​រក​ឃើញ​សម្រាប់​បន្ទះ​នេះ។">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "ឡើង​ដល់ &formatS;">
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូ​បាន​លុប។">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
