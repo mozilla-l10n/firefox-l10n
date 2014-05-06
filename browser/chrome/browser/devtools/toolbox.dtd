@@ -51,7 +51,7 @@
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
 
-<!ENTITY options.defaultColorUnit.name "Color Names">
+<!ENTITY options.defaultColorUnit.name "Nume culori">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
@@ -68,6 +68,8 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "Dezactivează JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.">
 <!-- LOCALIZATION NOTE (options.disableCache.label,
   -  options.disableCache.tooltip): This is the options panel label and

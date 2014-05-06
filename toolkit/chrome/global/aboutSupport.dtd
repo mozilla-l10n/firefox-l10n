@@ -7,12 +7,12 @@
 
 <!ENTITY aboutSupport.pageSubtitle "Această pagină conține informații tehnice care ar putea fi utile atunci când încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune despre &brandShortName;, verificați <a id='supportLink'>saitul nostru pentru asistență</a>.">
 
-<!ENTITY aboutSupport.crashes.title "Crash Reports">
+<!ENTITY aboutSupport.crashes.title "Rapoarte de eroare">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Report ID">
-<!ENTITY aboutSupport.crashes.sendDate "Submitted">
-<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
+<!ENTITY aboutSupport.crashes.id "ID raport">
+<!ENTITY aboutSupport.crashes.sendDate "Trimis">
+<!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de eroare">
 <!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensii">

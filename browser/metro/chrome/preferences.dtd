@@ -6,7 +6,7 @@
 <!-- ## Options Flyout Panel ## -->
 
 
-<!ENTITY optionsHeader.title                                     "Options">
+<!ENTITY optionsHeader.title                                     "Opțiuni">
 <!ENTITY optionsHeader.char.title                                "Character Encoding">
 <!ENTITY optionsHeader.char.autodetect.label                     "Auto-detect">
 <!ENTITY optionsHeader.char.options.label                        "Show encoding options on the App Bar">

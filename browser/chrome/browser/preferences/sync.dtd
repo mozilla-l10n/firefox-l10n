@@ -46,6 +46,8 @@
 <!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
 <!ENTITY prefs.ppLink.label         "Politică de confidențialitate">
 <!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "Notă privind politica de confidențialitate">
 <!ENTITY determiningAcctStatus.label     "Determin starea contului dumneavoastră…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -64,11 +66,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Vă rugăm să vă autentificați pentru reconectare">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
+<!ENTITY signIn.label                "Autentificare">
 <!ENTITY manage.label                "Gestionează">
-
-
-
+<!ENTITY disconnect.label            "Deconectare…">
+<!ENTITY verify.label                "Verificare email">
+<!ENTITY forget.label                "Uită acest email">
 
 <!ENTITY welcome.signIn.label "Autentificare">
 <!ENTITY welcome.createAccount.label "Creare cont">

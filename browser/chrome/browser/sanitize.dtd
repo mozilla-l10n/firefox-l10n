@@ -32,9 +32,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Istoric">
 <!ENTITY dataSection.label            "Date">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Istoricul navigării și al descărcărilor">
+<!ENTITY itemHistoryAndDownloads.accesskey "I">
+<!ENTITY itemFormSearchHistory.label       "Istoricul formularelor și al căutărilor">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Parolele salvate">
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookie-urile">

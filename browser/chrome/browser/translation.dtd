@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "Aceasta pagină este în">
+<!ENTITY translation.translateThisPage.label    "Traduceți această pagină?">
+<!ENTITY translation.translate.button           "Tradu">
 <!ENTITY translation.notNow.button              "Nu acum">
 
+<!ENTITY translation.translatingContent.label   "Traduc conținutul paginii…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,10 +33,13 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "Această pagină a fost tradusă din">
 <!ENTITY translation.translatedTo.label         "la">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-
+<!ENTITY translation.showOriginal.button        "Arată originalul">
+<!ENTITY translation.showTranslation.button     "Arată traducerea">
 
 
 

@@ -7,7 +7,8 @@
 <!-- The strings below are unused on m-c. They will be removed post-Australis -->
 <!-- A reserved for Arabic -->
 
-
+<!ENTITY charsetMenuAutodet.off.label     "(oprit)">
+<!ENTITY charsetMenuAutodet.off.accesskey "o">
 
 
 

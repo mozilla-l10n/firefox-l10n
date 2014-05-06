@@ -6,10 +6,11 @@
 <!ENTITY addpref.name           "Name">
 
 <!ENTITY cancel.label           "Cancel">
-
+<!ENTITY toggle.label           "Comută">
 
 <!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
+<!ENTITY string.label           "Șir de caractere">
 <!ENTITY boolean.label          "Boolean">
 
-
+<!ENTITY string.placeholder     "Introduceţi un șir">
+<!ENTITY number.placeholder     "Introduceți un număr">

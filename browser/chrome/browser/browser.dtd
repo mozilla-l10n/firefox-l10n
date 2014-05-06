@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
-
+<!ENTITY navbarCmd.label "Bară de navigare">
 <!ENTITY personalbarCmd.label "Bară pentru semne de carte">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "m">
 <!ENTITY shareVideoCmd.label "Împărtășește acest videoclip">
 <!ENTITY shareVideoCmd.accesskey "i">
-
+<!ENTITY feedsMenu.label "Abonare">
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.empty "Doriți mai multe unelte?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Alegeți din mii de suplimente">
 <!ENTITY customizeMode.restoreDefaults "R&amp;estaurează setările implicite">
-<!ENTITY customizeMode.toolbars "Arată sau ascunde bara cu unelte">
+<!ENTITY customizeMode.toolbars "Arată / Ascunde bara cu unelte">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
 
 <!ENTITY social.chatBar.commandkey "c">

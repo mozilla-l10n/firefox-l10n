@@ -4,20 +4,20 @@
 
 <!ENTITY aboutNetworking.title                 "About Networking">
 <!ENTITY aboutNetworking.warning               "This is very experimental. Do not use without adult supervision.">
-<!ENTITY aboutNetworking.showNextTime          "Show this warning next time">
+<!ENTITY aboutNetworking.showNextTime          "Arată acest avertisment data viitoare">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.http                  "Http">
-<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.sockets               "Socluri">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "Refresh">
-<!ENTITY aboutNetworking.autoRefresh           "Autorefresh every 3 seconds">
-<!ENTITY aboutNetworking.hostname              "Hostname">
+<!ENTITY aboutNetworking.refresh               "Reîmprospătează">
+<!ENTITY aboutNetworking.autoRefresh           "Autoreîmprospătare la fiecare 3 secunde">
+<!ENTITY aboutNetworking.hostname              "Nume gazdă">
 <!ENTITY aboutNetworking.port                  "Port">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "Active">
-<!ENTITY aboutNetworking.idle                  "Idle">
+<!ENTITY aboutNetworking.active                "Activă">
+<!ENTITY aboutNetworking.idle                  "Fără activitate">
 <!ENTITY aboutNetworking.host                  "Host">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Sent">
