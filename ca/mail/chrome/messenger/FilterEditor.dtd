@@ -8,7 +8,7 @@
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Correu brossa">
-<!ENTITY notJunk.label "Correu legítim">
+<!ENTITY notJunk.label "No és correu brossa">
 
 <!ENTITY lowestPriorityCmd.label "Mínima">
 <!ENTITY lowPriorityCmd.label "Baixa">
@@ -16,13 +16,13 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Màxima">
 
-<!ENTITY contextDesc.label "Aplica el filtre quan:">
-<!ENTITY contextIncomingMail.label "S'estan obtenint missatges nous:">
+<!ENTITY contextDesc.label "Aplica el filtre:">
+<!ENTITY contextIncomingMail.label "En rebre missatges nous:">
 <!ENTITY contextIncomingMail.accesskey "g">
-<!ENTITY contextManual.label "S'executi manualment">
-<!ENTITY contextManual.accesskey "e">
-<!ENTITY contextBeforeCls.label "Filtra abans de classificar com a brossa">
-<!ENTITY contextAfterCls.label "Filtra després de classificar com a brossa">
+<!ENTITY contextManual.label "En executar-lo manualment">
+<!ENTITY contextManual.accesskey "x">
+<!ENTITY contextBeforeCls.label "Filtra abans de comprovar si és correu brossa">
+<!ENTITY contextAfterCls.label "Filtra després de comprovar si és correu brossa">
 
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
@@ -40,11 +40,11 @@
 <!ENTITY markMessageStarred.label "Destaca'l">
 <!ENTITY setPriority.label "Defineix la prioritat a">
 <!ENTITY addTag.label "Etiqueta el missatge">
-<!ENTITY setJunkScore.label "Especifica l'estat del correu brossa com a:">
+<!ENTITY setJunkScore.label "Defineix l'estat de correu brossa com a">
 <!ENTITY deleteMessage.label "Suprimeix el missatge">
 <!ENTITY deleteFromPOP.label "Suprimeix-lo del servidor POP">
 <!ENTITY fetchFromPOP.label "Baixa'l del servidor POP">
-<!ENTITY ignoreThread.label "Ignora tota la conversa">
+<!ENTITY ignoreThread.label "Ignora la conversa">
 <!ENTITY ignoreSubthread.label "Ignora la subconversa">
 <!ENTITY watchThread.label "Vigila la conversa">
 <!ENTITY stopExecution.label "Atura l'execució del filtre">

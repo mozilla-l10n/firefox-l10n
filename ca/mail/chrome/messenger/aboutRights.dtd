@@ -32,12 +32,12 @@
 <!ENTITY rights.intro-point3-unbranded "Les polítiques de privadesa que s'apliquen a aquest producte cal llistar-les aquí.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "El &brandShortName; també ofereix serveis addicionals, com per exemple un servei d'actualització de complements; tot i així no podem garantir tot funcioni el 100&#037; o que estigui lliure d'errors. Podeu trobar més detalls, inclosa la informació de com inhabilitar els serveis, en ">
-<!ENTITY rights.intro-point4b "els termes del servei">
+<!ENTITY rights.intro-point4a "El &brandShortName; també ofereix serveis opcionals, com per exemple un servei d'actualització de complements; tot i així, no podem garantir que funcionin correctament ni que no continguin errors. Per obtenir més detalls, inclosa la informació de com inhabilitar els serveis, vegeu ">
+<!ENTITY rights.intro-point4b "les condicions del servei">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Si aquest producte incorporés serveis web, qualsevol terme de servei aplicable al servei o als serveis hauria d'enllaçar a la secció ">
+<!ENTITY rights.intro-point4a-unbranded "Si aquest producte incorpora serveis web, les condicions dels serveis que s'hi apliquin cal enllaçar-les a la secció de ">
 <!ENTITY rights.intro-point4b-unbranded "Serveis del lloc web">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
@@ -55,10 +55,10 @@
 <!ENTITY rights.webservices-e ", cal desmarcar les caselles de «Cerca actualitzacions automàticament de».">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Aquí s'hauria d'incloure un resum dels serveis del lloc web que el producte incorpora, juntament amb les instruccions de com s'han d'inhabilitar, si s'escau.">
+<!ENTITY rights.webservices-unbranded "Un resum dels serveis del lloc web que incorpora el producte, juntament amb instruccions de com inhabilitar-los, si s'escau, cal incloure-ho aquí.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "Els termes de servei que s'apliquen a aquest producte cal llistar-los aquí.">
+<!ENTITY rights.webservices-term1-unbranded "Les condicions del servei que s'apliquen a aquest producte cal llistar-les aquí.">
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; pot discontinuar o canviar els Serveis en qualsevol moment.">

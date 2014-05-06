@@ -8,7 +8,7 @@
 <!ENTITY  protocols.description       "Normalment el mateix servidor intermediari pot gestionar tots els protocols que es llisten aquí.">
 <!ENTITY  http.label                  "Servidor intermediari d'HTTP:">
 <!ENTITY  http.accesskey              "T">
-<!ENTITY  ssl.label                   "Servidor intermediari d'SSL:">
+<!ENTITY  ssl.label                   "Servidor intermediari de SSL:">
 <!ENTITY  ssl.accesskey               "S">
 <!ENTITY  ftp.label                   "Servidor intermediari d'FTP:">
 <!ENTITY  ftp.accesskey               "F">

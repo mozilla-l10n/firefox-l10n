@@ -8,7 +8,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "D\u0027interès">
+<!ENTITY  bookmarks_title "Adreces d\u0027interès">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Llista de lectura">
 
@@ -54,6 +54,7 @@
 <!ENTITY back "Enrere">
 <!ENTITY stop "Atura">
 <!ENTITY site_security "Seguretat del lloc">
+<!ENTITY save "Desa">
 
 <!ENTITY close_tab "Tanca la pestanya">
 <!ENTITY one_tab "1 pestanya">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Paràmetres">
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
-<!ENTITY pref_category_search2 "Paràmetres de cerca">
+<!ENTITY pref_category_search3 "Cerca">
+<!ENTITY pref_category_search_summary "Personalitza els proveïdors de cerca">
 <!ENTITY pref_category_display "Visualització">
 <!ENTITY pref_category_privacy_short "Privadesa">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
 <!ENTITY pref_category_add_search_providers "Afegiu més proveïdors de cerca">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Restaura els motors de cerca">
+<!ENTITY pref_search_restore_defaults "Restaura els motors per defecte">
+<!ENTITY pref_search_restore_defaults_summary "Restaura els motors per defecte">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "CONSELL: Podeu afegir qualsevol lloc web a la llista de proveïdors de cerca mantenint premut el camp de cerca.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_developer_remotedebugging_docs "Més informació">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
+
+<!ENTITY pref_category_home "Inici">
+<!ENTITY pref_category_home_summary "Personalitza la pàgina d\u0027inici">
+<!ENTITY pref_category_home_panels "Subfinestres">
+<!ENTITY pref_home_add_panel "Afegeix una subfinestra">
+<!ENTITY home_add_panel_title "Afegeix una subfinestra nova">
+<!ENTITY home_add_panel_empty "No s\u0027ha trobat cap subfinestra que pugueu afegir.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "«&formatS;» s\u0027ha afegit a la pàgina d\u0027inici">
+<!ENTITY pref_category_home_content_settings "Paràmetres del contingut">
+<!ENTITY pref_home_updates "Actualitzacions automàtiques">
+<!ENTITY pref_home_updates_enabled "Activades">
+<!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalitza">
@@ -108,7 +130,7 @@
 <!ENTITY pref_plugins_enabled "Habilitats">
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
-<!ENTITY pref_text_size "Mida de la lletra">
+<!ENTITY pref_text_size "Mida del text">
 <!ENTITY pref_reflow_on_zoom4 "Reajusta el text">
 <!ENTITY pref_restore "Pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
@@ -148,10 +170,15 @@ size. -->
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
 <!ENTITY pref_vendor_faqs "PMF">
 <!ENTITY pref_vendor_feedback "Doneu la vostra opinió">
-<!ENTITY pref_search_set_default "Defineix per defecte">
-<!ENTITY pref_search_default "Per defecte">
-<!ENTITY pref_search_remove "Suprimeix">
+
+<!ENTITY pref_dialog_set_default "Defineix per defecte">
+<!ENTITY pref_dialog_default "Per defecte">
+<!ENTITY pref_dialog_remove "Suprimeix">
+
 <!ENTITY pref_search_last_toast "No podeu suprimir ni inhabilitar el darrer motor de cerca.">
+
+<!ENTITY pref_panels_show "Mostra">
+<!ENTITY pref_panels_hide "Amaga">
 
 <!ENTITY datareporting_notification_title "Estadístiques i dades del &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Trieu quina informació voleu compartir">
@@ -177,11 +204,14 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Informes de fallada">
 <!ENTITY datareporting_wifi_title "Serveis d\u0027ubicació de &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Ajudeu a millorar els serveis d\u0027ubicació per al web obert permetent a &brandShortName; recollir dades anònimes de les antenes de telefonia">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
 
-<!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
-<!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
-<!ENTITY pref_update_autodownload_disabled "Inhabilitades">
-<!ENTITY pref_update_autodownload_enabled "Habilitades">
+<!ENTITY pref_update_autodownload2 "Baixa actualitzacions automàticament">
+<!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Mai">
+<!ENTITY pref_update_autodownload_always "Sempre">
 
 <!ENTITY quit "Surt">
 
@@ -196,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY find_in_page "Cerca a la pàgina">
 <!ENTITY desktop_mode "Mostra lloc d\u0027escriptori">
+<!ENTITY page "Pàgina">
 <!ENTITY tools "Eines">
 <!ENTITY new_tab "Pestanya nova">
 <!ENTITY new_private_tab "Pestanya privada nova">
@@ -212,6 +243,13 @@ size. -->
 <!ENTITY find_prev "Enrere">
 <!ENTITY find_next "Endavant">
 <!ENTITY find_close "Tanca">
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_casting_to "S\u0027està transmetent al dispositiu">
+<!ENTITY media_play "Reprodueix">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Atura">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
@@ -225,17 +263,21 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Edita">
 <!ENTITY contextmenu_subscribe "Subscriu-me a la pàgina">
 <!ENTITY contextmenu_site_settings "Edita els paràmetres del lloc">
-<!ENTITY contextmenu_top_bookmarks_edit "Edita">
-<!ENTITY contextmenu_top_bookmarks_pin "Fixa el lloc">
-<!ENTITY contextmenu_top_bookmarks_unpin "No fixis el lloc">
+<!ENTITY contextmenu_top_sites_edit "Edita">
+<!ENTITY contextmenu_top_sites_pin "Fixa el lloc">
+<!ENTITY contextmenu_top_sites_unpin "No fixis el lloc">
+<!ENTITY contextmenu_add_search_engine "Afegeix un motor de cerca">
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
 <!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar "Desplaça la barra de títol">
 
 <!ENTITY history_removed "S\u0027ha suprimit la pàgina">
 
-<!ENTITY bookmark_add "Afegeix una adreça d\u0027interès">
 <!ENTITY bookmark_edit_title "Edita l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
@@ -248,8 +290,9 @@ size. -->
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 
-<!ENTITY reading_list_added "S\u0027ha afegit a la vostra pàgina de lectura">
-<!ENTITY reading_list_removed "S\u0027ha suprimit de la vostra pàgina de lectura">
+<!ENTITY reading_list_add "Afegeix a la llista de lectura">
+<!ENTITY reading_list_added "La pàgina s\u0027ha afegit a la vostra llista de lectura">
+<!ENTITY reading_list_removed "La pàgina s\u0027ha suprimit de la vostra llista de lectura">
 <!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -270,30 +313,33 @@ size. -->
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 
-<!ENTITY home_top_sites_title "Llocs més importants">
+<!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
 
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
 <!ENTITY home_last_tabs_title "Pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
 <!ENTITY home_last_tabs_empty "Aquí es mostren les pestanyes recents.">
 <!ENTITY home_most_recent_title "Més recents">
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
-<!ENTITY home_most_visited_title "Més visitats">
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "CONSELL: Podeu desar articles a la llista de lectura mantenint premuda la icona &#037;I quan aparegui a la barra de títol.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "CONSELL: Per desar articles a la llista de lectura, manteniu premuda la icona &formatI; quan aparegui a la barra de títol.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "CONSELL: Podeu desar articles a la llista de lectura mantenint premut el botó de mode de lectura quan aparegui a la barra de títol.">
+<!ENTITY home_reading_list_hint_accessible "CONSELL: Per desar articles a la llista de lectura, manteniu premut el botó de mode de lectura quan aparegui a la barra de títol.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
 
-<!ENTITY home_most_visited_empty "Aquí es mostren els llocs webs que visiteu més sovint.">
-<!ENTITY pin_bookmark_dialog_hint "Escriviu una paraula clau de cerca">
+<!ENTITY home_default_empty "No s\u0027ha trobat contingut per a aquesta subfinestra.">
+
+<!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
 <!ENTITY filepicker_title "Trieu un fitxer">
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
@@ -313,7 +359,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "funciona mitjançant">
+<!ENTITY identity_run_by "que pertany a">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
@@ -335,10 +381,8 @@ de l\u0027Android">
 <!ENTITY bookmarkhistory_import_history "S\u0027està important l\u0027historial 
 de l\u0027Android">
 <!ENTITY bookmarkhistory_import_wait "Espereu…">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Voleu habilitar els suggeriments de cerca del &formatS;?">
+<!ENTITY suggestions_prompt3 "Voleu activar els suggeriments de cerca?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -364,8 +408,8 @@ de l\u0027Android">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
 <!-- Guest mode -->
 
-<!ENTITY new_guest_session "Sessió de convidat nova">
-<!ENTITY exit_guest_session "Tanca la sessió de convidat">
+<!ENTITY new_guest_session "Sessió de convidat">
+<!ENTITY exit_guest_session "Tanca sessió convidat">
 <!ENTITY guest_session_dialog_continue "Continua">
 <!ENTITY guest_session_dialog_cancel "Cancel·la">
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
@@ -373,3 +417,8 @@ de l\u0027Android">
 
 <!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Fet">

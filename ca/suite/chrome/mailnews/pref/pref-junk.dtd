@@ -9,7 +9,7 @@
 
 <!ENTITY manualMark.label               "Quan marqui els missatges com a correu brossa:">
 <!ENTITY manualMark.accesskey           "Q">
-<!ENTITY manualMarkModeMove.label       "Mou-los a la carpeta &quot;Correu brossa&quot; del compte">
+<!ENTITY manualMarkModeMove.label       "Mou-los a la carpeta «Correu brossa» del compte">
 <!ENTITY manualMarkModeMove.accesskey   "M">
 <!ENTITY manualMarkModeDelete.label     "Suprimeix-los">
 <!ENTITY manualMarkModeDelete.accesskey "u">

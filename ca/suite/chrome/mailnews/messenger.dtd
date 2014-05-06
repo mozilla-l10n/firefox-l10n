@@ -129,7 +129,7 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showMessagePaneCmd.label "Subfinestra dels missatges">
 <!ENTITY showMessagePaneCmd.accesskey "m">
-<!ENTITY showThreadPaneCmd.label "Subfinestra de les cadenes">
+<!ENTITY showThreadPaneCmd.label "Subfinestra de les converses">
 <!ENTITY showThreadPaneCmd.accesskey "c">
 <!ENTITY showFolderPaneCmd.label "Subfinestra de les carpetes">
 <!ENTITY showFolderPaneCmd.accesskey "f">
@@ -178,23 +178,23 @@
 <!ENTITY groupBySort.accesskey "g">
 <!ENTITY msgsMenu.label "Missatges">
 <!ENTITY msgsMenu.accesskey "a">
-<!ENTITY threads.label "Cadenes">
+<!ENTITY threads.label "Converses">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
-<!ENTITY expandAllThreadsCmd.label "Amplia totes les cadenes">
+<!ENTITY expandAllThreadsCmd.label "Amplia totes les converses">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Redueix totes les cadenes">
+<!ENTITY collapseAllThreadsCmd.label "Redueix totes les converses">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Per llegir">
 <!ENTITY unreadMsgsCmd.accesskey "l">
-<!ENTITY threadsWithUnreadCmd.label "Cadenes amb missatges per llegir">
+<!ENTITY threadsWithUnreadCmd.label "Converses amb missatges per llegir">
 <!ENTITY threadsWithUnreadCmd.accesskey "t">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Cadenes vistes amb missatges per llegir">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Converses vigilades amb missatges per llegir">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "v">
-<!ENTITY ignoredThreadsCmd.label "Cadenes ignorades">
+<!ENTITY ignoredThreadsCmd.label "Converses ignorades">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Capçaleres">
@@ -351,11 +351,11 @@
 <!ENTITY markAllReadCmd.label "Tots llegits">
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAsJunkCmd.label "Com a correu brossa">
+<!ENTITY markAsJunkCmd.label "Que és correu brossa">
 <!ENTITY markAsJunkCmd.accesskey "b">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Com a correu legítim">
-<!ENTITY markAsNotJunkCmd.accesskey "l">
+<!ENTITY markAsNotJunkCmd.label "Que no és correu brossa">
+<!ENTITY markAsNotJunkCmd.accesskey "r">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Executa els controls del correu brossa">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
@@ -419,7 +419,7 @@
 <!ENTITY markButton.label "Marca">
 <!ENTITY stopButton.label "Atura">
 <!ENTITY junkButton.label "Correu brossa">
-<!ENTITY notJunkButton.label "És correu legítim">
+<!ENTITY notJunkButton.label "No és correu brossa">
 <!ENTITY searchButton.title "Cerca avançada">
 <!-- Tooltips -->
 
@@ -442,8 +442,8 @@
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
 <!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
-<!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
-<!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
+<!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a correu brossa">
+<!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a correu legítim">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Fet">

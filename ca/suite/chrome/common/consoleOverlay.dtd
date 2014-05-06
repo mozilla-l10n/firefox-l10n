@@ -4,12 +4,12 @@
 
 <!ENTITY menuBar.tooltip       "Barra del menú">
 <!ENTITY modeToolbar.tooltip   "Barra del mode">
-<!ENTITY entryToolbar.tooltip  "Barra de l'entrada de Javascript">
+<!ENTITY entryToolbar.tooltip  "Barra de l'entrada de JavaScript">
 <!ENTITY toolbarsCmd.label     "Mostra/amaga">
 <!ENTITY toolbarsCmd.accesskey "g">
 <!ENTITY toolbarMode.label     "Mode">
 <!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label     "Entrada de Javascript">
+<!ENTITY toolbarEval.label     "Entrada de JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 
 <!ENTITY all.accesskey         "A">

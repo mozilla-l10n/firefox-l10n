@@ -34,7 +34,7 @@
 <!ENTITY customSizeRadio.accessKey "p">
 <!ENTITY customSizeRadio.tooltip "Canvia la mida de la imatge com es visualitza a la pàgina">
 <!ENTITY heightEditField.label "Alçada:">
-<!ENTITY heightEditField.accessKey "ç">
+<!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Amplada:">
 <!ENTITY widthEditField.accessKey "d">
 <!ENTITY constrainCheckbox.label "Restringeix">

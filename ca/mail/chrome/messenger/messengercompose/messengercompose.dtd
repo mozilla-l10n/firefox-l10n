@@ -17,17 +17,19 @@
 <!ENTITY newContact.label "Contacte de la llibreta d'adreces…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjunta">
-<!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Adjunta un fitxer…">
-<!ENTITY attachFileCmd.accesskey "j">
+<!ENTITY attachMenu.accesskey "j">
+<!ENTITY attachFileCmd.label "Fitxers…">
+<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Adjunta una pàgina web…">
+<!ENTITY attachPageCmd.label "Pàgina web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Inclou la targeta personal (vCard)">
+<!ENTITY attachVCardCmd.label "Targeta personal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY remindLater.label "Recorda-m'ho més tard">
+<!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Tanca">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
+<!ENTITY printPreviewCmd.label "Exemple d'impressió">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
@@ -198,6 +202,7 @@
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
+<!ENTITY printButton.label "Imprimeix">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Envia ara aquest missatge">
@@ -210,6 +215,7 @@
 <!ENTITY cutButton.tooltip              "Retalla">
 <!ENTITY copyButton.tooltip             "Copia">
 <!ENTITY pasteButton.tooltip            "Enganxa">
+<!ENTITY printButton.tooltip "Imprimeix aquest missatge">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->

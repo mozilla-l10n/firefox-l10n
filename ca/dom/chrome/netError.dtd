@@ -35,7 +35,7 @@
 <!ENTITY netOffline.longDesc2 "<p>El navegador està treballant fora de línia i no es pot connectar a l'element sol·licitat.</p><ul><li>L'ordinador està connectat a una xarxa activa?</li><li>Premeu «Torna-ho a provar» per canviar al mode en línia i tornar a carregar la pàgina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
-<!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu provant de visualitzar perquè utilitza una forma de compressió no vàlida o que no funciona en aquesta aplicació.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu intentant visualitzar perquè utilitza una forma de compressió no vàlida o incompatible.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
 <!ENTITY unsafeContentType.longDesc "<ul> 
@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "S'ha excedit el temps d'espera de la xarxa">
 <!ENTITY netTimeout.longDesc "<p>El lloc sol·licitat no ha respost a la sol·licitud de connexió i el navegador ha deixat d'esperar-ne una resposta.</p><ul><li>Pot ser que el servidor estigui experimentant una alta demanda o una suspensió temporal? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre navegador a la xarxa.</li><li>L'ordinador està protegit amb un tallafocs o servidor intermediari (proxy)?  Si hi ha cap paràmetre incorrecte, podria afectar la navegació web.</li><li>Encara teniu problemes? Consulteu el vostre administrador de xarxes o demaneu assistència al vostre proveïdor d'Internet.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Error de protocol desconegut">
-<!ENTITY protocolNotFound.longDesc "<p>L'adreça especifica un protocol (p. ex. <q>wxyz://</q>) que el navegador no reconeix, així doncs, no es pot connectar correctament al lloc.</p><ul><li>Esteu provant d'accedir a contingut multimèdia o bé a altres serveis que no són text? Comproveu els requisits addicionals del lloc.</li><li>Alguns protocols poden requerir programari o connectors de tercers per tal que el navegador els pugui reconèixer.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Error de protocol desconegut">
+<!ENTITY unknownProtocolFound.longDesc "<p>L'adreça especifica un protocol (p. ex. <q>wxyz://</q>) que el navegador no reconeix, així doncs, no es pot connectar correctament al lloc.</p><ul><li>Esteu provant d'accedir a contingut multimèdia o bé a altres serveis que no són text? Comproveu els requisits addicionals del lloc.</li><li>Alguns protocols poden requerir programari o connectors de tercers per tal que el navegador els pugui reconèixer.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "S'ha rebutjat la connexió al servidor intermediari">
 <!ENTITY proxyConnectFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però s'ha rebutjat la connexió.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>Esteu segur que el servidor intermediari permet connexions des d'aquesta xarxa?</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
@@ -85,7 +85,7 @@ ser temporal, i podeu tornar-ho a provar més tard.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contingut corromput">
+<!ENTITY corruptedContentError.title "Error de contingut malmès">
 <!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remot">
