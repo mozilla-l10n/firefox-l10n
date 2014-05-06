@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Тіркелгіңізді растау керек. Растау эл. хатын қайта жіберу үшін шертіңіз.">
 <!ENTITY fxaccount_status_needs_credentials "Байланысу мүмкін емес. Кіру үшін шертіңіз.">
 <!ENTITY fxaccount_status_needs_upgrade "Кіру үшін сізге &brandShortName; жаңарту керек.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Деректерді қолдану ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Бастау үшін шертіңіз.">
 <!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
 <!ENTITY fxaccount_status_history "Тарихы">
 <!ENTITY fxaccount_status_passwords "Парольдер">
