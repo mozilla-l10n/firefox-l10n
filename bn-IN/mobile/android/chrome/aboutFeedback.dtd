@@ -19,7 +19,7 @@
 
 <!ENTITY support.pre2              "আপনি এখানেও দেখতে পারেন ">
 <!ENTITY support.link              "&brandShortName; সহায়তা">
-<!ENTITY support.post2             "  অধিক তথ্যের জন্য।">
+<!ENTITY support.post2             " অধিক তথ্যের জন্য।">
 
 <!ENTITY happy.header              "শুনে দারুণ লাগলো!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
