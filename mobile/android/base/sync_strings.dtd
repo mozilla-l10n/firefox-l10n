@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು  ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
+<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
 <!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
 <!-- Localization note: the Firefox below should not change with the
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
 <!ENTITY fxaccount_status_needs_credentials "ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
 <!ENTITY fxaccount_status_needs_upgrade "ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಸಿಂಕ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ತಟ್ಟಿ.">
 <!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
 <!ENTITY fxaccount_status_passwords "ಗುಪ್ತಪದಗಳು">
