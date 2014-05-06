@@ -71,8 +71,8 @@ that &brandShortName;ê destûra Webê heye an na.</li>
 <!ENTITY netTimeout.title "Çewtî! Demê Têrê Nekir">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "protocolNotFound sernav">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "protocolNotFound sernav">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Dibe ku ji bo vekirina vê navnîşanê pêwîst be ku tu nermalaveke din saz bikî.</li> 
 </ul>">
 

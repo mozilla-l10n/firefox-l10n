@@ -77,8 +77,8 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 <li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li> 
 </ul>">
 
-<!ENTITY protocolNotFound.title "Protokola Nayê Zanîn">
-<!ENTITY protocolNotFound.longDesc "<p>Navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok  wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p> <ul>  <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>  <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li> </ul>">
+<!ENTITY unknownProtocolFound.title "Protokola Nayê Zanîn">
+<!ENTITY unknownProtocolFound.longDesc "<p>Navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok  wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p> <ul>  <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>  <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pêşkêşkara Proxyê Girêdanê Red Kir">
 <!ENTITY proxyConnectFailure.longDesc "<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê girêdanekê red kir.</p> 
