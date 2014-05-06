@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Prikaži kratki pregled članka umjesto učitavanja web stranice">
 <!ENTITY quickMode.accesskey         "r">
 
+<!ENTITY autotagEnable.label         "Automatski stvori oznake iz naziva &lt;kategorija&gt; kanala">
+<!ENTITY autotagEnable.accesskey     "t">
+<!ENTITY autotagUsePrefix.label      "Prefiks za oznake:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Unesite prefiks oznake">
+
 <!ENTITY locationValidate.label      "Provjeri ispravnost">
 <!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
 
