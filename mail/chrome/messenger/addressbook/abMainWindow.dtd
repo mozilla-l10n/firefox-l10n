@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Properties…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd2.label                           "លក្ខណសម្បត្តិ">
+<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -102,7 +102,7 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "ដំបូង ចុងក្រោយ">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
+<!ENTITY firstLastCmd2.accesskey                        "F"> 
 <!ENTITY lastFirstCmd.label                             "Last, First">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Display Name">
@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Tools">
 <!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "វេទិកា​ព័ត៌មាន  សំបុត្រ">
-<!ENTITY messengerCmd.accesskey                         " ">
+<!ENTITY messengerCmd.label                             "វេទិកា​ព័ត៌មាន &amp; សំបុត្រ">
+<!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Search Addresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Options…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "ជម្រើស">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferences">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 <!-- Address Book Toolbar and Context Menus -->  

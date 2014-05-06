@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "ផ្ញើ​ការ​ជូនដំណឹង​វាយ​អក្សរ​នៅ​ក្នុង​ការ​សន្ទនា">
 <!ENTITY  sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "នៅ​ពេល​ដែល​សារ​ទៅ​ដល់​អ្នក​ដោយ​ផ្ទាល់៖">
+<!ENTITY  desktopChatNotifications.label      "បង្ហាញ​ការ​​ជូន​ដំណឹង">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "ចាក់​សំឡេង">
+<!ENTITY  play.label                          "ចាក់">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "សំឡេង​ប្រព័ន្ធ​អ៊ីមែល​លំនាំដើម​សម្រាប់​អ៊ីមែល​ថ្មី">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "Use the following sound file">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "រក​មើល…">
+<!ENTITY  browse.accesskey                    "B">
+

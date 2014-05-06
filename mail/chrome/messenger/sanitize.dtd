@@ -27,7 +27,7 @@ that require it.  -->
 <!ENTITY itemCookies.label                 "ខូឃី">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ឃ្លាំង​សម្ងាត់">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->

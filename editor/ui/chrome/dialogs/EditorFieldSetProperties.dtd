@@ -8,7 +8,7 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Խմբագրել լեգենդը.">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Հավասարեցնել լեգենդը.">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Հիմնական">

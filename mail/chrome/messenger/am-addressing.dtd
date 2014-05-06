@@ -4,7 +4,7 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Composition  Addressing">
+<!ENTITY addressing.label          "Composition &amp; Addressing">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

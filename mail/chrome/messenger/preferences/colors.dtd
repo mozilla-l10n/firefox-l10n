@@ -13,14 +13,14 @@
 <!ENTITY  textColor.label                 "អត្ថបទ៖">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "ផ្ទៃខាងក្រោយ៖">
-<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "ប្រើ​ពណ៌​របស់​ប្រព័ន្ធ">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "គូសបន្ទាត់​ក្រោម​តំណ">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "ពណ៌​តំណ">
 <!ENTITY  linkColor.label                 "តំណ​ដែល​មិន​បាន​ទស្សនា៖">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "តំណ​ដែល​បាន​ទស្សនា៖">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "V">
