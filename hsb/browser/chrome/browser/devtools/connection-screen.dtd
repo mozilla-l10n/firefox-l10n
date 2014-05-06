@@ -13,7 +13,7 @@
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Zwjazać">
 <!ENTITY connecting "Zwjazuje so…">
-<!ENTITY availableAddons "K dispoziciji stejace zdalene rajtarki:">
+<!ENTITY availableAddons "K dispoziciji stejace zdalene přidatki:">
 <!ENTITY availableTabs "K dispoziciji stejace zdalene rajtarki:">
 <!ENTITY availableProcesses "K dispoziciji stejace zdalene procesy:">
 <!ENTITY connectionError "Zmylk:">

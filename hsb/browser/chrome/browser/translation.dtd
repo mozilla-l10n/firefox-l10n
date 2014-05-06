@@ -35,7 +35,7 @@
   -  be grammatically correct. -->
 
 <!ENTITY translation.translatedFrom.label       "Tuta strona je so přełožiła z">
-<!ENTITY translation.translatedTo.label         "na">
+<!ENTITY translation.translatedTo.label         "do">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Original pokazać">

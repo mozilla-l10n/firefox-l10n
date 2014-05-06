@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.label        "Zmylkowa konsola">
 <!ENTITY errorConsoleCmd.accesskey    "m">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "Zdalena webkonsola">
 
 <!ENTITY browserConsoleCmd.label      "Konsola wobhladowaka">
 <!ENTITY browserConsoleCmd.commandkey "j">
@@ -711,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!ENTITY webrtcIndicatorButton.label "Přistup ke kamerje / k mikrofonej">
-<!ENTITY webrtcIndicatorButton.tooltip "Sydła zwobraznić, z kotrymiž  tuchwilu swoju kameru abo swój mikrofon hromadźe wužiwaće">
+<!ENTITY webrtcIndicatorButton.tooltip "Sydła zwobraznić, z kotrymiž tuchwilu swoju kameru abo swój mikrofon hromadźe wužiwaće">
 
 <!ENTITY mixedContentBlocked.moreinfo "Najwjace websydłow hišće porjadnje funguje, byrnjež so tutón wobsah blokował.">
 

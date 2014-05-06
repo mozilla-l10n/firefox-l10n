@@ -95,7 +95,7 @@
 <!ENTITY cmd.alwaysActivate.label             "Přeco aktiwizować">
 <!ENTITY cmd.alwaysActivate.tooltip           "Tutón přidatk přeco wužiwać">
 <!ENTITY cmd.neverActivate.label              "Ženje njeaktiwizować">
-<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
+<!ENTITY cmd.neverActivate.tooltip            "Tutón přidatk ženje njewužiwać">
 <!ENTITY cmd.stateMenu.tooltip                "Změnić, hdyž tutón přidatk běži">
 <!ENTITY cmd.installAddon.label               "Instalować">
 <!ENTITY cmd.installAddon.accesskey           "I">

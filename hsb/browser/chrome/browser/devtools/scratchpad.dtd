@@ -20,7 +20,7 @@
 
 
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Zapisnik">
 
 <!ENTITY fileMenu.label               "Dataja">
 <!ENTITY fileMenu.accesskey           "D">

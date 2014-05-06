@@ -46,7 +46,7 @@
 <!ENTITY netReset.longDesc "<p>Syćowy wotkaz bu přetorhnjeny, hdyž so zwisk wujednawaše. Prošu spytajće hišće raz.</p>">
 
 <!ENTITY netTimeout.title "Časowe překročenje syće">
-<!ENTITY netTimeout.longDesc "<p>Požadane sydło na zwiskowe naprašowanje njewotmołwi a wobhladowak přesta na wotmołwu čakać.</p><ul><li>Móže być, zo serwer je přećeženy abo ma nachwilne mylenje? Spytajće pozdźišo hišće raz.</li><li>Njemóžeće druhe sydła přehladować? Přepruwujće syćowy zwisk ličaka.</li><li>Škita so waš ličak abo waša syć z wohnjowej murju abo proksy?  Njekorektne nastajenja móža webpřehladowanju wadźić.</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Požadane sydło na zwiskowe naprašowanje njewotmołwi a wobhladowak přesta na wotmołwu čakać.</p><ul><li>Móže być, zo serwer je přećeženy abo ma nachwilne mylenje? Spytajće pozdźišo hišće raz.</li><li>Njemóžeće druhe sydła přehladować? Přepruwujće syćowy zwisk ličaka.</li><li>Škita so waš ličak abo waša syć z wohnjowej murju abo proksy? Njekorektne nastajenja móža webpřehladowanju wadźić.</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Njeznaty protokol">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa podawa protokol (na př. <q>wxyz://</q>), kotryž wobhladowak njepřipóznawa, tak zo wobhladowak njemóže prawje ze sydłom zwjazać.</p><ul><li>Pospytujeće na multimedia abo druhe njetekstowe słužby přistup měć? Přepruwujće sydło za wosebitymi potrěbnosćemi.</li><li>Někotre protokole trjebaja programy třećich abo tykače, prjedy hač wobhladowak móže je připóznać.</li></ul>">

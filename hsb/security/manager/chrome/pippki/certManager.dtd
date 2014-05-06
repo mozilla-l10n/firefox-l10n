@@ -10,7 +10,7 @@
 <!ENTITY certmgr.tab.ca                       "Awtority">
 <!ENTITY certmgr.tab.orphan2                  "Druhe">
 
-<!ENTITY certmgr.ca.builtins                  "Zatwarjeny certifikatowe awtority">
+<!ENTITY certmgr.ca.builtins                  "Zatwarjene certifikatowe awtority">
 <!ENTITY certmgr.ca.mycas                     "Certifikatowe awtority, kotrež so wot was zarjaduja">
 
 <!ENTITY certmgr.mine                         "Maće certifikaty z tutych organizacijow, kotrež was identifikuja:">

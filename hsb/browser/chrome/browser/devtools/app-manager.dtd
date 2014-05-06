@@ -70,7 +70,7 @@
 <!ENTITY projects.addPackaged "Zapakowane nałoženje přidać">
 <!ENTITY projects.addPackagedTooltip "Nowy zapakowane nałoženje (zapis) z wašeho ličaka přidać">
 <!ENTITY projects.addHosted "Nałoženje z interneta přidać">
-<!ENTITY projects.addHostedTooltip "Nowe nałoženje z interneta (wotkaz k dataji manifest.webapp) z websydła  přidać">
+<!ENTITY projects.addHostedTooltip "Nowe nałoženje z interneta (wotkaz k dataji manifest.webapp) z websydła přidać">
 <!ENTITY projects.title "Lokalne nałoženja">
 <!ENTITY projects.appDetails "Podrobnosće nałoženja">
 <!ENTITY projects.removeAppFromList "Tute nałoženje z lisćiny nałoženjow, z kotrejž dźěłaće, wotstronić. Přez to so wono z grata abo simulatora njewotstroni.">
