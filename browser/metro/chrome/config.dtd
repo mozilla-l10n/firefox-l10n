@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Søk">
-<!ENTITY newpref.label          "Legg til ei ny innstilling">
 <!ENTITY addpref.name           "Namn">
-<!ENTITY addpref.value          "Verdi">
 
 <!ENTITY cancel.label           "Avbryt">
-<!ENTITY reset.label            "Tilbakestill">
-<!ENTITY done.label             "Ferdig">
+<!ENTITY toggle.label           "Slå av/på">
 
-<!ENTITY integer.label          "Heiltal">
+<!ENTITY integer.label          "Tal">
 <!ENTITY string.label           "Tekst">
 <!ENTITY boolean.label          "Boolsk">
+
+<!ENTITY string.placeholder     "Skriv inn tekst">
+<!ENTITY number.placeholder     "Skriv inn eit tal">

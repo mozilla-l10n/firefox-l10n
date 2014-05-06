@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                 "Deling av media">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Del">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "D">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "Avbryt">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "A">
+<!ENTITY getUserMediaDialog.title                   "Deling av media">
+<!ENTITY getUserMediaDialog.button.accept.label     "Del">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "D">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Avbryt">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "A">
 
-<!ENTITY getUserMediaDialog.video.label           "Vel kamera">
-<!ENTITY getUserMediaDialog.video.noVideo         "Ingen video">
-<!ENTITY getUserMediaDialog.audio.label           "Vel mikrofon">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Ingen lyd">
+<!ENTITY getUserMediaDialog.video.label             "Vel kamera">
+<!ENTITY getUserMediaDialog.video.noVideo           "Ingen video">
+<!ENTITY getUserMediaDialog.audio.label             "Vel mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Ingen lyd">
