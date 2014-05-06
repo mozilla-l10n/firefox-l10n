@@ -4,8 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Tegnkoding">
 <!ENTITY messageDisplay.caption          "Meldingsvisning">
-<!ENTITY viewDefaultCharset.label        "Standard tegnkoding:">
-<!ENTITY viewDefaultCharset.accesskey    "S">
+<!ENTITY viewFallbackCharset.label       "Reserve-tegnkoding:">
+<!ENTITY viewFallbackCharset.accesskey   "R">
+<!ENTITY viewFallbackCharset.desc        "(Brukt for legacy-innhold som kke oppgir noen tegnkoding.)">
 
 <!ENTITY composingMessages.caption       "Meldingsskriving">
 <!ENTITY useMIME.label                   "Bruk 'quoted printable' MIME-koding for meldinger som har 8-bit tegn. La være tom for å sende meldingen som den er.">

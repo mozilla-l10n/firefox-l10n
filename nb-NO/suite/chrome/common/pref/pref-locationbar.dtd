@@ -26,14 +26,14 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Alt, men foretrekk starten/slutten av ord">
 <!ENTITY autoCompleteMatchWords                "Bare på starten/slutten av ord">
 <!ENTITY autoCompleteMatchStart                "Bare på starten av adressene eller titlene">
+<!ENTITY showInternetSearch.label              "Vis standard Internett-søkemotor">
+<!ENTITY showInternetSearch.accesskey          "V">
 
 <!ENTITY formatting.label                      "Formatering">
 <!ENTITY domainFormatting.label                "Uthever domenenavnet på nettsted og FTP-servere">
 <!ENTITY domainFormatting.accesskey            "U">
-
-<!ENTITY searchEngine.label                    "Internett-søkemotor">
-<!ENTITY showSearchEngine.label                "Vis standard søkemotor">
-<!ENTITY showSearchEngine.accesskey            "a">
+<!ENTITY highlightSecure.label                 "Uthev nettsider som har høy sikkerhet i tilkoblingen">
+<!ENTITY highlightSecure.accesskey             "h">
 
 <!ENTITY unknownLocations.label                "Ukjente adresser">
 <!ENTITY domainGuessing.label                  "Legg til «www.» og «.com» i adressen dersom en nettside ikke er funnet">

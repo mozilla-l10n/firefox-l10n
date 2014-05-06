@@ -36,7 +36,7 @@
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
 <!ENTITY helpShowTour.label             "Omvisning i &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "O">
+<!ENTITY helpShowTour.accesskey         "m">
 
 <!ENTITY preferencesCmdMac.label        "Innstillinger …">
 <!ENTITY preferencesCmdMac.commandkey   ",">

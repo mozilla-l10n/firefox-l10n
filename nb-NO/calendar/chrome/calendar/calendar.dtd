@@ -26,33 +26,36 @@
 <!ENTITY calendar.events.filter.next31Days.label "Hendelser de neste 31 dagene">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Hendelser denne kalendermåneden">
 
-<!ENTITY calendar.unifinder.tree.done.label              "Fullført">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Trykk for å sortere etter fullført">
-<!ENTITY calendar.unifinder.tree.priority.label          "Prioritet">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Trykk for å sortere etter prioritet">
-<!ENTITY calendar.unifinder.tree.title.label             "Tittel">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Trykk for å sortere etter tittel">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; fullført">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Trykk for å sortere etter &#37; fullført">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Start">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Trykk for å sortere etter startdato">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Slutt">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Trykk for å sortere etter sluttdato">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Forfall">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Trykk for å sortere etter forfallsdato">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Fullført">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Trykk for å sortere etter fullførtdato">
-<!ENTITY calendar.unifinder.tree.categories.label        "Kategori">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Trykk for å sortere etter kategori">
-<!ENTITY calendar.unifinder.tree.location.label          "Sted">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Trykk for å sortere etter sted">
-<!ENTITY calendar.unifinder.tree.status.label            "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Trykk for å sortere etter status">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Kalendernavn">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Trykk for å sortere etter kalendernavn">
-<!ENTITY calendar.unifinder.tree.duration.label          "Forfaller">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Trykk for å sortere etter forfaller">
-<!ENTITY calendar.unifinder.close.tooltip                "Lukker hendelsessøk og hendelsesliste">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label                "Fullført">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Sorter etter fullføring">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sorter etter prioritet">
+<!ENTITY calendar.unifinder.tree.title.label               "Tittel">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Sorter etter tittel">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; fullført">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sorter etter &#37; fullført">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Start">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sorter etter startdato">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Slutt">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sorter etter sluttdato">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Forfall">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sorter etter forfallsdato">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Fullført">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sorter etter fullførtdato">
+<!ENTITY calendar.unifinder.tree.categories.label          "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sorter etter kategori">
+<!ENTITY calendar.unifinder.tree.location.label            "Sted">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Sorter etter sted">
+<!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Sorter etter status">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Kalendernavn">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter etter kalendernavn">
+<!ENTITY calendar.unifinder.tree.duration.label            "Forfaller">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfaller">
+<!ENTITY calendar.unifinder.close.tooltip                  "Lukker hendelsessøk og hendelsesliste">
 
 <!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
 <!ENTITY calendar.todaypane.button.tooltip      "Vis i dagsvisningen" >
@@ -85,8 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Ny hendelse" >
 <!ENTITY calendar.newtask.button.label          "Ny oppgave" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
-
-<!ENTITY calendar.export.calendar                "Eksporter kalender …" >
+<!ENTITY calendar.print.button.accesskey        "u">
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Uke" >
@@ -129,8 +131,6 @@
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Gjeldende oppgaver">
 <!ENTITY calendar.task.filter.current.accesskey     "G">
-<!ENTITY calendar.task.filter.repeating.label       "Gjentakende oppgaver">
-<!ENTITY calendar.task.filter.repeating.accesskey   "e">
 
 <!ENTITY calendar.task-details.title.label           "tittel">
 <!ENTITY calendar.task-details.organizer.label       "fra">
@@ -152,9 +152,6 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgaver … #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Skift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-
-<!-- Statusbar -->
-<!ENTITY statusText.label            "Dokument: Ferdig">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Åpne">
@@ -229,7 +226,6 @@
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
 <!ENTITY calendar.taskview.delete.label     "Slett">
-<!ENTITY calendar.taskview.delete.accesskey "l">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Ny kalender …">
@@ -334,7 +330,6 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valgte hendelser/oppgaver">
 <!ENTITY calendar.print.tasks.label "Oppgaver">
 <!ENTITY calendar.print.events.label "Hendelser">
-<!ENTITY calendar.print.selected.label "Valgte hendelser">
 <!ENTITY calendar.print.custom.label "Hendelser mellom:">
 <!ENTITY calendar.print.from.label "Fra:">
 <!ENTITY calendar.print.to.label "Til:">
