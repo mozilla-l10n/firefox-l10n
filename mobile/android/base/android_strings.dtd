@@ -54,7 +54,7 @@
 <!ENTITY back "পিছলৈ">
 <!ENTITY stop "বন্ধ কৰক">
 <!ENTITY site_security "ছাইটৰ সুৰক্ষা">
-<!ENTITY save "সংৰক্ষণ কৰক">
+<!ENTITY edit_mode_cancel "বাতিল কৰক">
 
 <!ENTITY close_tab "টেব বন্ধ কৰক">
 <!ENTITY one_tab "১ টেব">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "তথ্যৰ পছন্দসমূহ">
+<!ENTITY pref_learn_more "অধিক জানক">
 <!ENTITY pref_category_installed_search_engines "ইনস্টল কৰা সন্ধান ইঞ্জিনসমূহ">
 <!ENTITY pref_category_add_search_providers "অধিক সন্ধান প্ৰদানকাৰী যোগ কৰক">
 <!ENTITY pref_category_search_restore_defaults "সন্ধান ইঞ্জিনসমূহ পুনৰুদ্ধাৰ কৰক">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "সহায়: আপোনাৰ সন্ধান প্ৰদানকাৰী তালিকালৈ যিকোনো ৱেবছাইট যোগ কৰিবলে তাৰ সন্ধান ফিল্ডত টিপি &formatI; আইকনক টেপ কৰক।">
 <!ENTITY pref_category_devtools "উন্নয়নকাৰী সঁজুলিসমূহ">
 <!ENTITY pref_developer_remotedebugging "দূৰৱৰ্তী ডিবাগিং">
-<!ENTITY pref_developer_remotedebugging_docs "অধিক জানক">
 <!ENTITY pref_remember_signons "পাছৱৰ্ডসমূহ মনত ৰাখক">
 
 <!ENTITY pref_category_home "ঘৰ">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "সংমিহলি কৰক">
 <!ENTITY pref_search_suggestions "সন্ধানৰ পৰামৰ্শসমূহ দেখুৱাওক">
 <!ENTITY pref_import_android "Android ৰ পৰা ইমপোৰ্ট কৰক">
-<!ENTITY pref_private_data_history "ব্ৰাউছিং আৰু ডাউন্‌ল\u0027ডৰ ইতিহাস">
+<!ENTITY pref_private_data_history2 "ব্ৰাউছিংৰ ইতিহাস">
 <!ENTITY pref_private_data_formdata "ফৰ্ম আৰু সন্ধানৰ ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ আৰু সক্ৰিয় লগিনসমূহ">
 <!ENTITY pref_private_data_passwords "সংৰক্ষিত পাছৱৰ্ডসমূহ">
 <!ENTITY pref_private_data_cache "কেছ্‌">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ৱেবছাইটৰ তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "ছাইট সংহতিসমূহ">
-<!ENTITY pref_private_data_downloadFiles "ফাইলসমূহ ডাউনল\u0027ড কৰক">
+<!ENTITY pref_private_data_downloadFiles2 "ডাউনল\u0027ডসমূহ">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ৰ বিষয়ে">
@@ -179,6 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "দেখুৱাওক">
 <!ENTITY pref_panels_hide "লুকুৱাওক">
+<!ENTITY pref_panels_reorder "ক্রম সলনি কৰক">
+<!ENTITY pref_panels_move_up "ওপৰলৈ নিয়ক">
+<!ENTITY pref_panels_move_down "তললৈ নিয়ক">
 
 <!ENTITY datareporting_notification_title "&brandShortName; পৰিসংখ্যা আৰু তথ্য">
 <!ENTITY datareporting_notification_action_long "কোন তথ্য অংশীদাৰী কৰা হব বাছক">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "স্খলন সংবাদক">
-<!ENTITY datareporting_wifi_title "&vendorShortName; অৱস্থান সেৱাসমূহ">
-<!ENTITY datareporting_wifi_summary "&brandShortName; ক বেনামী চেলুলাৰ টাৱাৰ তথ্য সংগ্ৰহ আৰু প্ৰেৰণ কৰাৰ অনুমতি দি মুক্ত ৱেবৰ বাবে ভূঅৱস্থান সেৱাসমূহ উন্নত কৰাত সহায় কৰক">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; অৱস্থান সেৱা">
+<!ENTITY datareporting_wifi_geolocation_summary "পটভূমিত চলি থকা অৱস্থাত Wi-Fi আৰু চেলুলাৰ অৱস্থান তথ্য গ্ৰহণ কৰে আৰু আমাৰ ভুঅৱস্থান সেৱা উন্নত কৰিবলে ইয়াক &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "পৰিষ্কাৰ কৰক">
 <!ENTITY site_settings_no_settings  "পৰিষ্কাৰ কৰিবলে কোনো সংহতি নাই।">
 
-<!ENTITY reading_list_add "পঢ়াৰ তালিকালৈ যোগ কৰক">
 <!ENTITY reading_list_added "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰা হৈছে">
 <!ENTITY reading_list_removed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকাৰ পৰা আতৰোৱা হৈছে">
 <!ENTITY reading_list_failed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰিবলে ব্যৰ্থ হল">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "এই পেনেলৰ বাবে কোনো সমল পোৱা নগল।">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; লৈ">
 
 <!ENTITY pin_site_dialog_hint "এটা সন্ধান কিৱাৰ্ড সুমুৱাওক">
 
@@ -414,6 +420,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; এতিয়া পুনাৰম্ভ হব">
 <!ENTITY exit_guest_session_text "এই অধিবেশনৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব।">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

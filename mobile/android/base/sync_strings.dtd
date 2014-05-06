@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাওন্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_credentials "সংযোগ কৰিব নোৱাৰি। ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_upgrade "ছাইন ইন কৰিবলৈ আপুনি &brandShortName; ক উন্নত কৰিব লাগিব।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। সংমিহলি আৰম্ভ কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_bookmarks "পত্ৰচিহ্নসমূহ">
 <!ENTITY fxaccount_status_history "ইতিহাস">
 <!ENTITY fxaccount_status_passwords "পাছৱৰ্ডসমূহ">
