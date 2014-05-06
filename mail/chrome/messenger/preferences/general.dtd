@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Վերականգնել հիմնականը">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Շարժապատկերել հարթակի պատկերը">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Ծրագրի պատկերակի կարգավորումների փոփոխում">
+<!ENTITY dockOptions.label                "Ծրագրի պատկերակի ընտրանքներ...">
+<!ENTITY dockOptions.accesskey            "կ">
 
 <!ENTITY newMessagesArrive.label          "Նոր նամակ ստանալիս.">
 <!ENTITY playSound.label                  "Խաղարկել ձայն">

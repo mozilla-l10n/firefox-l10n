@@ -9,6 +9,7 @@
 <!ENTITY back.label            "Նախորդը">
 <!ENTITY forward.label         "Հաջորդը">
 <!ENTITY newtab.label          "Նոր Ներդիր">
+<!ENTITY newPrivateTab.label   "Սկսել Գաղտնի դիտարկում">
 <!ENTITY closetab.label        "Փակել ներդիրը">
 
 <!ENTITY autocompleteResultsHeader.label  "Արդյունքները">
@@ -16,9 +17,9 @@
 <!ENTITY appbarErrorConsole.label      "Բացել սխալի կառավարակետը">
 <!ENTITY appbarJSShell.label           "Բացել JavaScript-ի թաղանթը">
 <!ENTITY appbarFindInPage2.label       "Գտնել էջում">
-
+<!ENTITY appbarRelaunchInDesktop.label "Վերսկսել Դեքսթոփով">
 <!ENTITY appbarMSMetaData2.label       "Ծրագիր այս կայքի համար">
-
+<!ENTITY appbarViewPageSource.label    "Դիտել Էջի Կոդը">
 
 <!ENTITY topSitesHeader.label        "Լավագույնները">
 <!ENTITY bookmarksHeader.label       "Էջանիշեր">
@@ -58,17 +59,19 @@
 <!ENTITY consoleMessages.label     "Գրություններ">
 <!ENTITY consoleCodeEval.label     "Գրություններ">
 <!ENTITY consoleClear.label        "Մաքրել">
+<!ENTITY consoleCopyAll.label      "Պատճենել">
 <!ENTITY consoleEvaluate.label     "...">
 <!ENTITY consoleErrFile.label      "Ֆայլ Աղբյուր.">
 <!ENTITY consoleErrLine.label      "Տող.">
 <!ENTITY consoleErrColumn.label    "Սյուն.">
+<!ENTITY consoleFollowCheckbox.label "Հետևել">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Կտրել">
 <!ENTITY contextTextCopy.label             "Պատճենել">
 <!ENTITY contextTextPaste.label            "Մեջբերել">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Տեղադրել &amp; առաջ">
+<!ENTITY contextTextPasteAndGo.label       "Տեղադրել և շարունակել">
 <!ENTITY contextTextSelect.label           "Ընտրել">
 <!ENTITY contextTextSelectAll.label        "Նշել բոլորը">
 <!-- LINK CONTEXT MENU -->
@@ -103,6 +106,8 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
 <!ENTITY jsConsole.key "j">
@@ -117,14 +122,28 @@
                         firstRunHistory.label )
      These strings appear on the Firefox Start page the first time
      Firefox for Windows 8 Touch (Metro) is launched.  Each one
-     has an arrow pointing toward the feature it references.  The code
-     to display these strings is not enabled yet, but will be soon.
-     For now, you can see this mockup for an example of how they are
-     used: https://bug941284.bugzilla.mozilla.org/attachment.cgi?id=8344046
+     has an arrow pointing toward the feature it references.
      -->
 
+<!ENTITY firstRunTabs.label "Փնտրու՞մ եք ձեր ներդիրները: Պտտեք ներքև կամ սեղմեք աջ կոճակը">
+<!ENTITY firstRunTopSites.label "Բացեք այն կայքերը, որոնք հաճախ եք այցելում">
+<!ENTITY firstRunBookmarks.label "Գտեք այն էջերը, որոնք պահել եք հետո կարդալու համար">
+<!ENTITY firstRunMenu.label "Մուտք լր. հնարավորությունների կամ ընտրանքների">
+<!ENTITY firstRunHistory.label "Տեսեք, թե ինչ կայքեր եք այցելել">
+<!ENTITY firstRunWelcome.label "Բարի գալուստ &brandShortName;">
+<!ENTITY firstRunDifferent.label "Տարբերվում է իր տեսքով">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
 
-
-
-
-
+<!ENTITY firstRunBack.label "Հպվեք՝ նախորդ էջին վերադառնալու համար">
+<!ENTITY firstRunNewTab.label "Ավելացնել նոր ներդիր՝ նոր կայք բացելու համար">
+<!ENTITY firstRunStar.label "Օգտ. էջանիշերը՝ էջերը պահելու հաար">
+<!ENTITY firstRunPin.label "Գամեք ցանկացած կայք Windows Start-ի էկրանին՝ արագ մուտք ունենալու համար">
+<!ENTITY firstRunGotIt.label "Հասկագա!">

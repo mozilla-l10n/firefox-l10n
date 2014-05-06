@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Սինք">
-<!ENTITY sync.notconnected          "Միացած չէ">
+<!ENTITY sync.notconnected          "Կապակցված չէ">
 <!ENTITY sync.connect               "Միանալ">
 <!ENTITY sync.connected             "Կապակցված է">
 <!ENTITY sync.details               "Մանրամասներ">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Ընդհանուր">
-<!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
+<!ENTITY itemDisplay.label       "Ընթերցումը  Ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
-<!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
+<!ENTITY itemNetworking.label    "Ցանցը  Ազատ տեղը">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
 <!-- General Settings -->
 
@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Ստուգել թարմացումները՝">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Տեղադրված Հավելումներ">
-<!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "Եթե հասանելի են &brandShortName;-ի թարմացումները՝">
-<!ENTITY modeAskMe.label                "Հարցնել ինձ">
-<!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Զգուշացնել, եթե որևէ հավելում պետք է անջատվի">
-<!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "Ցուցադրել թարմացումների պատմությունը">
-<!ENTITY showUpdates.accesskey          "S">
+<!ENTITY updateApp.label                 "&brandShortName;-ի թարմացումները.">
+<!ENTITY updateAuto.label                "Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)">
+<!ENTITY updateAuto.accesskey            "Ի">
+<!ENTITY updateCheck.label               "Ստուգել թարմացումները, բայց ես ինքս կորոշեմ տեղադրել, թե ոչ">
+<!ENTITY updateCheck.accesskey           "Ս">
+<!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
+<!ENTITY updateManual.accesskey          "Ե">
+<!ENTITY updateAutoAddonWarn.label       "Զգուշացնել, եթե որևէ հավելում պետք է անջատվի">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Ցուցադրել թարմացումների պատմությունը">
+<!ENTITY updateHistory.accesskey         "ա">
 
 <!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
 <!ENTITY useService.accesskey            "b">

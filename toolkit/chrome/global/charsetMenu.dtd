@@ -4,6 +4,9 @@
 
 <!ENTITY charsetMenu.label             "Գրանշանների Կոդավորում">
 <!ENTITY charsetMenu.accesskey         "Գ">
+<!-- The strings below are unused on m-c. They will be removed post-Australis -->
+
+
 <!ENTITY charsetMenuAutodet.label      "Ինքնաբացահայտել">
 <!-- A reserved for Arabic -->
 <!ENTITY charsetMenuAutodet.accesskey  "հ">
