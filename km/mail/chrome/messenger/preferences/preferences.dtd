@@ -13,5 +13,6 @@
 <!ENTITY paneComposition.title    "Composition">
 <!ENTITY paneChat.title           "ជជែក">
 <!ENTITY paneAttachments.title    "Attachments">
+<!ENTITY panePrivacy.title        "ភាពឯកជន​">
 <!ENTITY paneSecurity.title       "Security">
 <!ENTITY paneAdvanced.title       "Advanced">

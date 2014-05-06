@@ -21,7 +21,7 @@
 <!ENTITY chat.ongoingConversation      "ការ​សន្ទនា​ដែល​កំពុង​ប្រព្រឹត្ត">
 
 <!ENTITY openConversationCmd.label     "ចាប់ផ្ដើម​ការសន្ទនា">
-<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY openConversationCmd.accesskey "C">
 <!ENTITY closeConversationCmd.label    "បិទ​ការសន្ទនា">
 <!ENTITY closeConversationCmd.accesskey "C">
 <!ENTITY aliasCmd.label                "Անվանափոխել">

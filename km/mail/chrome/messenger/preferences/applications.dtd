@@ -32,7 +32,7 @@
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "បាន​ទាមទារ​ការ​ផ្ទៀងផ្ទាត់​របស់​អ្នក ដើម្បី​មើល​ការ​កំណត់​សម្រាប់​សេវាកម្ម​ផ្ទុក​នេះ។">
 <!ENTITY authRequired.button.label        "ផ្ទៀងផ្ទាត់">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY enableCloudFileAccountOffer.label "អនុញ្ញាត​ឲ្យ​ចែករំលែក​ឯកសារ​ធំ​ជាង">
 <!ENTITY enableCloudFileAccountOffer.mb "មេកាបៃ">

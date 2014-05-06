@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "អ្នក​ជំនួយការ​គណនី​អត្ថបទ​ព័ត៌មាន">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "មតិ​ព័ត៌មាន  កំណត់​ហេតុ​បណ្ដាញ">
+<!ENTITY feeds.accountName "មតិ​ព័ត៌មាន &amp; កំណត់​ហេតុ​បណ្ដាញ">
 <!ENTITY feeds.wizardShortName "អត្ថបទ​ព័ត៌មាន">
-<!ENTITY feeds.wizardLongName "មតិ​ព័ត៌មាន  កំណត់​ហេតុ​បណ្ដាញ">
+<!ENTITY feeds.wizardLongName "មតិ​ព័ត៌មាន &amp; កំណត់​ហេតុ​បណ្ដាញ">
 <!ENTITY feeds.wizardLongName.accesskey "F">

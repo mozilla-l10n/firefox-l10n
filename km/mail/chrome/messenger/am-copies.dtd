@@ -4,12 +4,12 @@
 <!-- extracted from am-copies.xul -->
 
 
-<!ENTITY copyAndFolderTitle.label "ច្បាប់​ចម្លង  ថត">
+<!ENTITY copyAndFolderTitle.label "ច្បាប់​ចម្លង &amp; ថត">
 <!ENTITY sendingPrefix.label "Նամակը ուղարկելիս միանգամից՝">
 <!ENTITY fccMailFolder.label "Պահել կրկնօրինակը՝">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները թղթապանակում, որից պատասխանվել է">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc էլ. փոստի այս հասցեները.">
 <!ENTITY ccAddress.accesskey "C">

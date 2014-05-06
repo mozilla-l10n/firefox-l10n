@@ -17,7 +17,7 @@
 <!ENTITY workOffline.label "Աշխատել անցանց՝ բեռնելուց և/կամ համաժամեցնելուց հետո">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Ընտրել...">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
 <!ENTITY MsgSelectInd.label "Download">
 <!ENTITY MsgSelectItems.label "Folders and Newsgroups">

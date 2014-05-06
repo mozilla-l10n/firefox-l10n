@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Mail Content -->
+
+<!ENTITY captionMailContent.label "មាតិកា​អ៊ីមែល">
+
+<!ENTITY acceptRemoteContent.label "បង្ហាញ​មាតិកា​ពី​ចម្ងាយ​នៅ​ក្នុង​សារ​">
+<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY remoteContentExceptions.label "ករណី​លើកលែង…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "ស្វែងយល់​បន្ថែម​អំពី​បញ្ហា​ភាព​ឯកជន​នៃ​មាតិកា​ពី​ចម្ងាយ">
+<!-- Web Content -->
+
+<!ENTITY captionWebContent.label "Web Content">
+
+<!ENTITY acceptCookies.label "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "ព្រម​ទទួល​ខូគី​ភាគី​ទីបី៖">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "ជានិច្ច">
+<!ENTITY acceptThirdParty.never.label "មិន">
+<!ENTITY acceptThirdParty.visited.label "ពី​អ្វី​ដែល​បាន​ទស្សនា">
+<!ENTITY keepUntil.label "Keep until:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "they expire">
+<!ENTITY close.label "I close &brandShortName;">
+<!ENTITY askEachTime.label "ask me every time">
+<!ENTITY cookieExceptions.label "Exceptions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Show Cookies…">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY dntTrackingNopref.label2 "កុំ​ប្រាប់​តំបន់បណ្ដាញ​អំពី​ចំណូលចិត្ត​ការ​តាមដាន​របស់​ខ្ញុំ">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​​ឲ្យ​គេ​តាមដាន">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label2 "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​ចង់​ឲ្យ​គេ​តាមដាន">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "ស្វែងយល់​បន្ថែម​អំពី Do Not Track">
+

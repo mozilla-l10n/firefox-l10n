@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Տեղադրել որպես մեջբերում">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Գտնել և փոխարինել">
+<!ENTITY findBarCmd.label "ស្វែង​រក...">
+<!ENTITY findReplaceCmd.label "Գտնել և փոխարինել">
 <!ENTITY enableInlineSpellChecker.label "Ձեր նշածով ուղղագրության ստուգում">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրությունը">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "គណិតសាស្ត្រ…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Գրանշանները և նշաններ...">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Անջատել հետևյալ նկարները">
@@ -329,18 +332,18 @@
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label         "Ընտրել">
-<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Հեռացնել պիտակը">
-<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Փոխել պիտակը">
-<!ENTITY structChangeTag.accesskey  "c">
+<!ENTITY structChangeTag.accesskey  "C">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Ներմուծել">
-<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Թարմացնել">
-<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY updateTOC.accesskey      "U">
 <!ENTITY removeTOC.label          "Հեռացնել">
-<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Պարունակության աղյուսակը...">
 <!ENTITY tocMenu.accesskey        "b">

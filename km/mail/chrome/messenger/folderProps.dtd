@@ -27,7 +27,7 @@
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները ավելի քան՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլոր վերջինները">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
