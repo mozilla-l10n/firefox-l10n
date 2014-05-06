@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "ಟ್ಯಾಬ್ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
 
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImageCmd.label "This ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY shareImageCmd.accesskey "s">
 <!ENTITY shareSelectCmd.label "ಆಯ್ಕೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
-<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareSelectCmd.accesskey "S">
 <!ENTITY shareVideoCmd.label "This ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY feedsMenu.label "ಚಂದಾದಾರನಾಗಿಸು">
@@ -231,6 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "ಪ್ರತಿಕ್ರಿಯೆ ವಿನ್ಯಾಸ ನೋಟ">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -243,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "ಸ್ಕ್ರಾಚ್‌ಪ್ಯಾಡ್">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -431,7 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "ವಿವರಣೆಯನ್ನು ನೋಡಿ (D)">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...">
@@ -444,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY switchToMetroCmd.label       "Relaunch in Windows 8 style &brandShortName;">
 <!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -586,9 +588,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "ಪುಟದ ಶೈಲಿ">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ಯಾವುದೇ ಶೈಲಿ ಇಲ್ಲ">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "ಮೂಲ  ಪುಟದ ಶೈಲಿ">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
 
@@ -679,9 +681,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "<label/> ಇಂದ ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ನೀವು <label class='text-link'>ಆಡ್-ಆನ್ ವ್ಯವಸ್ಥಾಪಕ</label>ದಲ್ಲಿನ ಸೇವೆಗಳಿಗಾಗಿ ನಿಮ್ಮ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.">
 <!ENTITY social.activated.undo.label "ಓಹ್, ಇದನ್ನು ರದ್ದು ಮಾಡು!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
 
@@ -736,47 +738,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
 <!ENTITY uiTour.infoPanel.close "ಮುಚ್ಚು">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "Activity Indicator">
-<!ENTITY appMenuButton.label           "Menu">
-<!ENTITY appMenuButton.tooltip         "Open &brandShortName; menu">
-<!ENTITY feedButton.label              "Subscribe">
-<!ENTITY feedButton.tooltip            "Subscribe to this page…">
-<!ENTITY bookmarksButton.tooltip       "Display your bookmarks">
-<!ENTITY historyButton.tooltip         "Display pages you've viewed recently">
-<!ENTITY viewTabsOnTop.label           "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "Edit">
-<!ENTITY appMenuToolbarLayout.label    "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label         "ಬದಿಪಟ್ಟಿಕೆಗಳು">
-<!ENTITY appMenuFind.label             "Find…">
-<!ENTITY appMenuUnsorted.label         "Unsorted Bookmarks">
-<!ENTITY appMenuWebDeveloper.label     "Web Developer">
-<!ENTITY appMenuGettingStarted.label   "Getting Started">
-<!ENTITY appMenuSafeMode.label         "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "Cut">
-<!ENTITY copyButton.tooltip            "Copy">
-<!ENTITY pasteButton.tooltip           "Paste">
-<!ENTITY zoomOutButton.tooltip         "Zoom out">
-<!ENTITY zoomInButton.tooltip          "Zoom in">
-<!ENTITY zoomControls.label            "Zoom Controls">
-<!ENTITY addonBarCloseButton.tooltip   "Close Add-on Bar">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Back/Forward">
-<!ENTITY viewBookmarksSidebar.label    "Show in Sidebar">
-<!ENTITY bookmarksItem.title           "Bookmarks">
-<!ENTITY openLocationCmd.label         "Open Location…">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "Display your bookmarks">
+
 <!ENTITY switchToMetroCmd2.label       "ವಿಂಡೋಸ್ 8 ಟಚ್ ಗೆ &brandShortName; ನಲ್ಲಿ ಮರುನಿರ್ಮಿಸು">
-<!ENTITY tabGroupsButton.tooltip       "Group your tabs">
-<!-- end of strings to be removed post-Australis -->
+
