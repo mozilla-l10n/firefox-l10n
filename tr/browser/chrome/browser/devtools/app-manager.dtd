@@ -7,6 +7,7 @@
 <!ENTITY index.device2 "Aygıt">
 <!ENTITY index.help "Yardım">
 
+
 <!ENTITY device.screenshot "Ekran görüntüsü">
 <!ENTITY device.screenshotTooltip "Cihazıın şu anki durumunun ekran görüntüsünü yeni bir sekmede aç">
 <!ENTITY device.title "Aygıt Denetim Merkezi">

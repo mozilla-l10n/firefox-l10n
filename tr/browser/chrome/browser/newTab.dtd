@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Geri al.">
 <!ENTITY newtab.undo.restoreButton "Tümünü geri yükle.">
 <!ENTITY newtab.undo.closeTooltip "Gizle">
+
+
+<!ENTITY newtab.panel.link.text "Daha fazla bilgi…">

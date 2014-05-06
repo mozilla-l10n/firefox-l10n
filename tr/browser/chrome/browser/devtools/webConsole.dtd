@@ -72,6 +72,7 @@
 <!ENTITY btnConsoleWarnings     "Uyarılar">
 <!ENTITY btnConsoleLog          "Kayıt">
 
+
 <!ENTITY filterOutput.placeholder "Çıktıyı filtrele">
 <!ENTITY btnClear.label        "Temizle">
 <!ENTITY btnClear.tooltip      "Web Konsolu çıktısını temizle">

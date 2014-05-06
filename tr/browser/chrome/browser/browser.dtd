@@ -73,7 +73,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Gezinti araç çubuğu">
+
 <!ENTITY personalbarCmd.label "Yer imi araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
 <!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu ögeleri">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelectCmd.accesskey "p">
 <!ENTITY shareVideoCmd.label "Bu videoyu paylaş">
 <!ENTITY shareVideoCmd.accesskey "p">
-<!ENTITY feedsMenu.label "Abone ol">
+
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
@@ -231,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Uyumlu tasarım modu">
 <!ENTITY responsiveDesignTool.accesskey "U">
 <!ENTITY responsiveDesignTool.commandkey "M">
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -255,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Geliştirici araç çubuğunu kapat">
 <!ENTITY devToolbarMenu.label              "Geliştirici araç çubuğu">
 <!ENTITY devToolbarMenu.accesskey          "G">
-<!ENTITY devAppMgrMenu.label               "Uygulama Yöneticisi">
-<!ENTITY devAppMgrMenu.accesskey           "U">
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Araçları aç/kapat">
@@ -444,7 +446,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-posta ile gönder…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY switchToMetroCmd.label       "Windows 8 stilinde yeniden aç">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -736,47 +737,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Yeniden dene">
 
 <!ENTITY uiTour.infoPanel.close "Kapat">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "t">
-<!ENTITY addonBarCmd.label             "Eklenti çubuğu">
-<!ENTITY addonBarCmd.accesskey         "E">
-<!ENTITY throbberItem.title            "Etkinlik göstergesi">
-<!ENTITY appMenuButton.label           "Menü">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; menüsünü aç">
-<!ENTITY feedButton.label              "Abone ol">
-<!ENTITY feedButton.tooltip            "Bu sayfaya abone ol…">
-<!ENTITY bookmarksButton.tooltip       "Yer imlerini göster">
-<!ENTITY historyButton.tooltip         "Yakında bakılan sayfaları göster">
-<!ENTITY viewTabsOnTop.label           "Sekmeler tepede">
-<!ENTITY viewTabsOnTop.accesskey       "t">
-<!ENTITY appMenuEdit.label             "Düzen">
-<!ENTITY appMenuToolbarLayout.label    "Araç çubuğu düzeni…">
 <!ENTITY appMenuSidebars.label         "Kenar çubukları">
-<!ENTITY appMenuFind.label             "Bul…">
-<!ENTITY appMenuUnsorted.label         "Sıralanmamış yer imleri">
-<!ENTITY appMenuWebDeveloper.label     "Web geliştirici">
-<!ENTITY appMenuGettingStarted.label   "İlk adım">
-<!ENTITY appMenuSafeMode.label         "Eklentileri devre dışı bırakıp başlat…">
-<!ENTITY appMenuSafeMode.accesskey     "d">
-<!ENTITY cutButton.tooltip             "Kes">
-<!ENTITY copyButton.tooltip            "Kopyala">
-<!ENTITY pasteButton.tooltip           "Yapıştır">
-<!ENTITY zoomOutButton.tooltip         "Uzaklaş">
-<!ENTITY zoomInButton.tooltip          "Yaklaş">
-<!ENTITY zoomControls.label            "Yakınlaşma ayarları">
-<!ENTITY addonBarCloseButton.tooltip   "Eklenti çubuğunu kapat">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Geri/İleri">
-<!ENTITY viewBookmarksSidebar.label    "Kenar çubuğunda göster">
-<!ENTITY bookmarksItem.title           "Yer imleri">
-<!ENTITY openLocationCmd.label         "Konumu aç…">
-<!ENTITY openLocationCmd.accesskey     "K">
-<!ENTITY bookmarksMenuButton.tooltip   "Yer imlerini göster">
+
 <!ENTITY switchToMetroCmd2.label       "Windows 8 için dokunmatik &brandShortName; tarayıcısını aç">
-<!ENTITY tabGroupsButton.tooltip       "Sekmelerinizi gruplandırın">
-<!-- end of strings to be removed post-Australis -->
+
