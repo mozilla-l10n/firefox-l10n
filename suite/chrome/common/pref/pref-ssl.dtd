@@ -19,23 +19,22 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description                   "El &brandShortName; pot avisar-vos de l'estat de seguretat de la pàgina web que estigueu visitant. Pot fer-se que el &brandShortName; mostri un avís i demani permís abans de:">
+<!ENTITY warn.description2                  "El &brandShortName; us pot avisar de l'estat de la seguretat de la pàgina web que esteu veient. El &brandShortName; us mostrarà un avís en:">
 <!ENTITY warn.enteringsecure                "Carregar una pàgina que admet xifratge">
 <!ENTITY warn.enteringsecure.accesskey      "C">
 <!ENTITY warn.insecurepost                  "Enviar dades de formulari d'una pàgina sense xifrar a una altra que tampoc ho estigui">
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Sortir d'una pàgina que admet xifratge">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "Visualitzar una pàgina que conté tant contingut xifrat com sense xifrar">
-<!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY warn.mixedactivecontent            "Avisa'm quan pàgines encriptades tinguin continguts insegurs">
+<!ENTITY mixed.description                  "Les pàgines xifrades poden contenir contingut sense xifrar vulnerable a la intercepció o falsificació de dades. El &brandShortName; pot detectar-ho i blocar-lo:">
+<!ENTITY warn.mixedactivecontent            "Avisa'm quan pàgines xifrades tinguin continguts insegurs">
 <!ENTITY warn.mixedactivecontent.accesskey  "A">
-<!ENTITY block.activecontent                "No carreguis continguts insegurs en pàgines encriptades">
+<!ENTITY block.activecontent                "No carreguis continguts insegurs en pàgines xifrades">
 <!ENTITY block.activecontent.accesskey      "N">
-<!ENTITY warn.mixeddisplaycontent           "Avisa'm quan pàgines encriptades tinguin altres tipus de contingut mixt">
+<!ENTITY warn.mixeddisplaycontent           "Avisa'm quan pàgines xifrades tinguin altres tipus de contingut mixt">
 <!ENTITY warn.mixeddisplaycontent.accesskey "c">
-<!ENTITY block.displaycontent               "No carreguis altres tipus de contingut mixt en pàgines encriptades">
+<!ENTITY block.displaycontent               "No carreguis altres tipus de contingut mixt en pàgines xifrades">
 <!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per presentar als llocs web que en requereixin:">

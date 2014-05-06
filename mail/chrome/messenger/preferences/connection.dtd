@@ -20,7 +20,7 @@
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "Servidor intermediari d'HTTP:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Servidor intermediari d'SSL:">
+<!ENTITY  ssl.label                     "Servidor intermediari de SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Ordinador central SOCKS:">
 <!ENTITY  socks.accesskey               "C">

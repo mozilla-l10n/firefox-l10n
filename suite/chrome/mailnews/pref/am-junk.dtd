@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "Mou els missatges entrants que són correu brossa a:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Carpeta del correu brossa de:">
+<!ENTITY junkFolderOn.label "Carpeta «Correu brossa» de:">
 <!ENTITY junkFolderOn.accesskey "b">
 <!ENTITY otherFolder.label "Altres:">
 <!ENTITY otherFolder.accesskey "l">

@@ -13,6 +13,6 @@
 <!ENTITY syncKey.keepItSafe4.description  " si es perd. Caldrà que feu servir aquesta clau cada vegada que connecteu un nou ordinador o dispositiu al &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Teniu més informació del &syncBrand.fullName.label; i de la vostra privadesa a ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "Els termes del servei del &syncBrand.fullName.label; són disponibles a ">
+<!ENTITY syncKey.footer1.label            "Les condicions del servei del &syncBrand.fullName.label; són disponibles a ">
 <!ENTITY syncKey.footer2.label            ". La política de privadesa és disponible a ">
 <!ENTITY syncKey.footer3.label            ".">

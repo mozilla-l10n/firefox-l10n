@@ -7,9 +7,9 @@
 <!ENTITY level.label "Habilita els controls adaptatius de correu brossa per a aquest compte">
 <!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Mou els missatges entrants que són correu brossa a:">
+<!ENTITY move.label "Mou els missatges nous que són correu brossa a:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Carpeta del correu brossa de:">
+<!ENTITY junkFolderOn.label "Carpeta «Correu brossa» de:">
 <!ENTITY junkFolderOn.accesskey "b">
 <!ENTITY otherFolder.label "Altres:">
 <!ENTITY otherFolder.accesskey "l">
@@ -20,8 +20,8 @@
 <!ENTITY whitelistHeader.label "No marquis automàticament com a brossa si el remitent és a: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "Si està habilitat, &brandShortName; considerarà automàticament els missatges marcats per aquest classificador extern com a correu brossa.">
-<!ENTITY ispHeaders.label "Confia en les capçaleres de missatge brossa definides per: ">
+<!ENTITY ispHeadersWarning.label "Si aquesta opció està activada, el &brandShortName; considerarà automàticament els missatges marcats per aquest classificador extern com a correu brossa.">
+<!ENTITY ispHeaders.label "Confia en les capçaleres de correu brossa definides per: ">
 <!ENTITY ispHeaders.accesskey "f">
 
 <!ENTITY junkClassification.label "Selecció">

@@ -45,7 +45,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "d">
 <!ENTITY cmd.delete.label               "Suprimeix la pàgina">
 <!ENTITY cmd.delete.accesskey           "S">
-<!ENTITY cmd.deleteDomainData.label     "Oblida el lloc">
+<!ENTITY cmd.deleteDomainData.label     "Oblida aquest lloc">
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 
 <!ENTITY cmd.open.label                  "Obre">
@@ -81,7 +81,7 @@
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetes">
 <!ENTITY col.url.label           "Ubicació">
-<!ENTITY col.lastvisit.label     "Data de visita">
+<!ENTITY col.mostrecentvisit.label "Darrera visita">
 <!ENTITY col.visitcount.label    "Nombre de visites">
 <!ENTITY col.keyword.label       "Paraula clau">
 <!ENTITY col.description.label   "Descripció">

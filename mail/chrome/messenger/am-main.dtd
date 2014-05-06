@@ -15,14 +15,14 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Adreça de resposta:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "Els destinataris enviaran la resposta a aquesta altra adreça electrònica">
+<!ENTITY replyTo.placeholder "Els destinataris respondran a aquesta adreça electrònica">
 <!ENTITY organization.label "Organització:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Text de la signatura:">
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML, o imatges):">
+<!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML o imatge):">
 <!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Edita…">
 <!ENTITY choose.label "Trieu…">

@@ -8,9 +8,9 @@
 <!ENTITY requestReceipt.label         "Quan s'estan enviant missatges, sempre sol·licita una confirmació de recepció">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quan es rebi una confirmació de recepció:">
-<!ENTITY leaveIt.label                "Deixa-la a la carpeta de la safata d'entrada">
+<!ENTITY leaveIt.label                "Deixa-la a la safata d'entrada">
 <!ENTITY leaveIt.accesskey            "i">
-<!ENTITY moveToSent.label             "Mou-la a la carpeta «Enviat»">
+<!ENTITY moveToSent.label             "Mou-la a la carpeta «Enviats»">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "Quan es rebi la sol·licitud d'una confirmació de recepció:">
 <!ENTITY returnSome.label             "Permet les confirmacions de recepció d'alguns missatges">

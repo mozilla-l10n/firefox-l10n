@@ -74,7 +74,7 @@
 <!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY saveLinkAsCmd.label          "Anomena i desa l'enllaç...">
 <!ENTITY saveLinkCmd.label            "Anomena i desa l'enllaç">
-<!ENTITY saveLinkCmd.accesskey        "ç">
+<!ENTITY saveLinkCmd.accesskey        "d">
 <!ENTITY saveImageAsCmd.label         "Anomena i desa la imatge...">
 <!ENTITY saveImageCmd.label           "Anomena i desa la imatge...">
 <!ENTITY saveImageCmd.accesskey       "i">
