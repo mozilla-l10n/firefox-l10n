@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Mion-fhiosrachadh a' chuimhneachain">
 <!ENTITY reminder.action.label                             "Tagh gnìomh leis a chuirear rud 'nad chuimhne">
 
-<!ENTITY reminder.relation.before.label                    "ron" >
-<!ENTITY reminder.relation.after.label                     "an dèidh" >
-
 <!ENTITY reminder.action.alert.label                       "Seall caismeachd">
 <!ENTITY reminder.action.email.label                       "Cuir post-dealain thugam">
 

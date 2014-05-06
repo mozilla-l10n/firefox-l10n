@@ -4,29 +4,16 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Tachartas ùr…">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "T">
+<!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Saothair ùr…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "S">
 
-<!ENTITY calendar.new.server.label              "Mìosachan ùr…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "M">
-
-<!ENTITY calendar.print.label                   "Clò-bhuail…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "C">
-
 <!ENTITY calendar.import.label                  "Ion-phortaich…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Às-phortaich…">
 <!ENTITY calendar.export.accesskey              "p">
-<!ENTITY calendar.export.selection.label        "Às-phortaich na thagh thu…">
-<!ENTITY calendar.export.selection.accesskey    "s">
 
 <!ENTITY calendar.publish.label                 "Foillsich…">
 <!ENTITY calendar.publish.accesskey             "F">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Seall saothraichean sa mhìosachan">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Meud an t-seallaidh ioma-sheachdaineil">
-<!ENTITY calendar.menu.numberofweeks.2          "Dà sheachdain">
-<!ENTITY calendar.menu.numberofweeks.3          "Trì seachdainean">
-<!ENTITY calendar.menu.numberofweeks.4          "Ceithir seachdainean">
-<!ENTITY calendar.menu.numberofweeks.5          "Còig seachdainean">
-<!ENTITY calendar.menu.numberofweeks.6          "Sia seachdainean">
 
 <!ENTITY goTodayCmd.label                       "An-diugh">
 <!ENTITY goTodayCmd.accesskey                   "A">
