@@ -54,7 +54,7 @@
 <!ENTITY back "Caggal">
 
 <!ENTITY site_security "Kisal Lowre">
-<!ENTITY save "Danndu">
+
 
 <!ENTITY close_tab "Uddu Tabbere">
 <!ENTITY one_tab "tabbere 1">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "Suturo">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
+<!ENTITY pref_learn_more "Ɓeydu humpito">
 <!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
 
 
@@ -85,7 +86,6 @@
      it is applicable. -->
 <!ENTITY pref_category_devtools "Kuutorɗe topaajo">
 <!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
-<!ENTITY pref_developer_remotedebugging_docs "Ɓeydu humpito">
 <!ENTITY pref_remember_signons "Siiftor finndeeji">
 
 
@@ -161,7 +161,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings2 "Teelte lowre">
-<!ENTITY pref_private_data_downloadFiles "Piille gaawtaaɗe">
+
 
 
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
@@ -173,6 +173,9 @@ size. -->
 
 
 <!ENTITY pref_panels_show "Hollu">
+
+
+
 
 
 <!ENTITY datareporting_notification_action_long "Suɓo humpito ngo lollintaa">
@@ -196,8 +199,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
-<!ENTITY datareporting_wifi_title "Carwe nokkuure &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Wallu moƴƴitinde carwe tolnoode Web Udditiiɗo so woppude &brandShortName; roɓindoo tee nelda keɓe humpito seluleer cuuriiɗo">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -208,7 +211,7 @@ size. -->
 <!ENTITY quit "Yaltu">
 
 <!ENTITY addons "Ɓeyditte">
-<!ENTITY downloads "Gaawte">
+
 <!ENTITY apps "Jaaɓɗe">
 <!ENTITY char_encoding "Dokkitannde Alkule">
 
@@ -278,7 +281,6 @@ size. -->
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
 
-<!ENTITY reading_list_add "Ɓeydu e Doggol Taro">
 <!ENTITY reading_list_added "Hello ɓeydaama e Doggol Taro maa">
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
 <!ENTITY reading_list_failed "Horiima ɓeydude hello to Doggol Taro">
@@ -318,6 +320,8 @@ size. -->
      as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
 
 
 <!ENTITY filepicker_title "Labo Fiilde">
@@ -389,6 +393,10 @@ iwde e Android">
 
 
 
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Gasii">

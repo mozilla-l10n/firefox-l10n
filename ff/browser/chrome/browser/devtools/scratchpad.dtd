@@ -48,6 +48,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "U">
 
+<!ENTITY viewMenu.label               "Hollir">
+<!ENTITY viewMenu.accesskey           "H">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Taƴto">
 <!ENTITY editMenu.accesskey           "T">
 
