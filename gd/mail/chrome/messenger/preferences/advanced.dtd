@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "T">
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY updateHistory.accesskey         "S">
-<!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
-<!ENTITY enableAddonsUpdate3.label       "Tuilleadain">
-<!ENTITY enableAddonsUpdate3.accesskey   "a">
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "b">

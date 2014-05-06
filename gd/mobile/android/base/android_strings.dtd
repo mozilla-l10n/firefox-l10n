@@ -54,6 +54,7 @@
 <!ENTITY back "Air ais">
 <!ENTITY stop "Sguir dheth">
 <!ENTITY site_security "Tèarainteachd na làraich">
+<!ENTITY save "Sàbhail">
 
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY one_tab "1 taba">
@@ -67,6 +68,7 @@
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
 <!ENTITY pref_category_search3 "Lorg">
+<!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
 <!ENTITY pref_category_display "Taisbeanadh">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -76,17 +78,31 @@
 <!ENTITY pref_category_search_restore_defaults "Aisig na h-einnseanan-luirg">
 <!ENTITY pref_search_restore_defaults "Aisig na bun-roghainnean">
 <!ENTITY pref_search_restore_defaults_summary "Aisig na bun-roghainnean ">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada san raon luirg air.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige \u0027s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_developer_remotedebugging_docs "Barrachd fiosrachaidh">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 
 <!ENTITY pref_category_home "Dhachaigh">
+<!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
 <!ENTITY pref_category_home_panels "Panailean">
+<!ENTITY pref_home_add_panel "Cuir panail ris">
+<!ENTITY home_add_panel_title "Cuir panail ùr ris">
+<!ENTITY home_add_panel_empty "Tha sinn duilich ach cha do lorg sinn panail sam bith as urrainn dhut a chur ris.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Chaidh \&quot;&formatS;\&quot; a chur ris an duilleag-dhachaigh">
+<!ENTITY pref_category_home_content_settings "Roghainnean na susbaint">
+<!ENTITY pref_home_updates "Ùrachaidhean fèin-obrachail">
+<!ENTITY pref_home_updates_enabled "An comas">
+<!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
@@ -141,7 +157,7 @@ size. -->
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
-<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
@@ -164,12 +180,12 @@ size. -->
 <!ENTITY pref_panels_show "Seall">
 <!ENTITY pref_panels_hide "Falaich">
 
-<!ENTITY datareporting_notification_title "Stats ┐ dàta &brandShortName;">
+<!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
 <!ENTITY datareporting_notification_action "Tagh na tha thu airson co-roinneadh">
 <!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh\u0027fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh\u0027obraicheas nas fhearr a thoirt dhut.">
 <!ENTITY datareporting_notification_summary_short "Airson \u0027s gun obraich e nas fhearr dhut, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -210,6 +226,7 @@ size. -->
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
+<!ENTITY page "Duilleag">
 <!ENTITY tools "Innealan">
 <!ENTITY new_tab "Taba ùr">
 <!ENTITY new_private_tab "Taba prìobhaideach ùr">
@@ -240,7 +257,7 @@ size. -->
 <!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
-<!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
+<!ENTITY contextmenu_pasteandgo "Cuir ann ┐ falbh">
 <!ENTITY contextmenu_paste "Cuir ann">
 <!ENTITY contextmenu_copyurl "Dèan lethbhreac dhen t-seòladh">
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
@@ -273,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
+<!ENTITY reading_list_add "Cuir ris an liosta leughaidh">
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
@@ -310,12 +328,16 @@ size. -->
 <!ENTITY home_reading_list_empty "Nochdaidh artaigealan a shàbhaileas tu airson uaireigin eile an-seo.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &#037;I nuair a nochdas e ann am bàr an tiotail.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &formatI; nuair a nochdas e ann am bàr an tiotail.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan a\u0027 mhodh-leughaidh nuair a nochdas e ann am bàr an tiotail.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Cha deach susbaint sam bith a lorg airson na panail seo.">
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 
@@ -359,10 +381,8 @@ o Android">
 <!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
 o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "A bheil thu airson molaidhean luirg o &formatS; a chur air?">
+<!ENTITY suggestions_prompt3 "A bheil thu airson molaidhean luirg a chur air?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

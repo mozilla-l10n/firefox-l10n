@@ -4,7 +4,7 @@
 <!-- extracted from am-copies.xul -->
 
 
-<!ENTITY copyAndFolderTitle.label "Lethbhric ⁊ pasgain">
+<!ENTITY copyAndFolderTitle.label "Lethbhreacan ⁊ pasganan">
 <!ENTITY sendingPrefix.label "Nuair a chuireas mi teachdaireachd, dèan na leanas a ghnàth: ">
 <!ENTITY fccMailFolder.label "Cuir lethbhreac ann an:">
 <!ENTITY fccMailFolder.accesskey "C">

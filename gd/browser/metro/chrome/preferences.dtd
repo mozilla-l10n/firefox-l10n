@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Logadh a-steach beò sam bith">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Cuimhnich na faclan-faire">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Seall putanan na seòladaireachd">
 <!ENTITY doNotTrack.title                                        "Na tracaich">
 <!ENTITY doNotTrack.options.doNotTrack                           "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
 <!ENTITY doNotTrack.options.doTrack                              "Innis do làraichean-lìn gun urrainn dhaibh tracadh a dhèanamh orm">

@@ -59,17 +59,19 @@
 <!ENTITY consoleMessages.label     "Teachdaireachdan">
 <!ENTITY consoleCodeEval.label     "Còd:">
 <!ENTITY consoleClear.label        "Falamhaich">
+<!ENTITY consoleCopyAll.label      "Dèan lethbhreac">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Bun-tùs an fhaidhle:">
 <!ENTITY consoleErrLine.label      "Loidhne:">
 <!ENTITY consoleErrColumn.label    "Colbh:">
+<!ENTITY consoleFollowCheckbox.label "Lean">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Gearr às">
 <!ENTITY contextTextCopy.label             "Dèan lethbhreac">
 <!ENTITY contextTextPaste.label            "Cuir ann">
 <!-- unique item that is only added to the url bar context menu -->
-<!ENTITY contextTextPasteAndGo.label       "Cuir ann ⁊ rach ann">
+<!ENTITY contextTextPasteAndGo.label       "Cuir ann ⁊ falbh">
 <!ENTITY contextTextSelect.label           "Tagh">
 <!ENTITY contextTextSelectAll.label        "Tagh na h-uile">
 <!-- LINK CONTEXT MENU -->
@@ -135,12 +137,9 @@
                           firstRunStar.label,
                           firstRunPin.label,
                           firstRunGotIt.label )
-       These strings appear as a content overlay the first few times a page
+       These strings appear as a content overlay the first time a page
        is visited. Each one has an arrow pointing toward the feature it
-       references. The code to display these strings is not enabled yet,
-       but will be soon. For now, you can see this mockup for an example
-       of how they are used:
-       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       references.
        -->
 
 <!ENTITY firstRunBack.label "Thoir gnogag airson tilleadh gun duilleag roimhpe">
