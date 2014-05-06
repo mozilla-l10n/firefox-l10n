@@ -15,7 +15,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Líma inn sem tilvitnun">
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Leita og breyta…">
+<!ENTITY findBarCmd.label "Finna…">
+<!ENTITY findReplaceCmd.label "Leita og breyta…">
 <!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
@@ -37,6 +38,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Stærðfræði…">
+<!ENTITY insertMathCmd.accesskey "æ">
 <!ENTITY insertCharsCmd.label "Stafir og tákn…">
 <!ENTITY insertCharsCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Lína fyrir neðan mynd(ir)">
