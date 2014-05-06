@@ -32,7 +32,7 @@
 <!-- Flyout when setup failed -->
 
 <!ENTITY sync.flyout.setupfailure.description       "உங்கள் &syncBrand.shortName.label; கணக்குடன் &brandShortName; ஆல் இணைக்க முடியவில்லை.">
-<!ENTITY sync.flyout.setupfailure.cancelButton      "ரத்துசெய்">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "இரத்துசெய்">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "மீண்டும் முயற்சிக்கவும்">
 <!-- Flyout when connected and functioning normally -->
 
@@ -41,7 +41,7 @@
 <!ENTITY sync.flyout.connected.disconnect                 "துண்டி">
 <!ENTITY sync.flyout.connected.disconnectWarningHeader    "&syncBrand.shortName.label; இலிருந்து உங்கள் சாதனத்தை இணைப்பு துண்டிக்க வேண்டுமா?">
 <!ENTITY sync.flyout.connected.disconnectWarning          "இந்த சாதனத்திலும் உங்கள் &syncBrand.shortName.label; கணக்கிலும் உள்ள அனைத்து தனிப்பட்ட தகவல்களும் எதுவும் ஆகாமல் அப்படியே இருக்கும்.">
-<!ENTITY sync.flyout.connected.cancel                     "ரத்துசெய்">
+<!ENTITY sync.flyout.connected.cancel                     "இரத்துசெய்">
 <!ENTITY sync.flyout.connected.pair                       "ஒரு சாதனத்தை இணைக்க">
 <!-- Flyout when pairing a device -->
 
