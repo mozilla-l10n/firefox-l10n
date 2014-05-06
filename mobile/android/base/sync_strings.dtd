@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "आपके खाता को सत्यापित करने की जरूरत है। दोबारा सत्यापन ईमेल भेजने के लिए टैप करें।">
 <!ENTITY fxaccount_status_needs_credentials "कनेक्ट नहीं कर सका। साइन-इन करने के लिए टैप करें।">
 <!ENTITY fxaccount_status_needs_upgrade "साइन-इन करने के लिए आपको &brandShortName; अद्यतन करने की जरूरत है।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप किया गया है, लेकिन स्वतः सिंक नहीं होता है. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करें &gt; डाटा प्रयोग.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; सेटअप है लेकिन स्वतः तुल्यकालित नहीं होता है. तुल्यकालन के लिए टिपटिपाएँ.">
 <!ENTITY fxaccount_status_bookmarks "पुस्तचिह्न">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords "कूटशब्द">
