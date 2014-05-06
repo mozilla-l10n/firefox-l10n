@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "Ջ">
 <!ENTITY searchDialogTitle.label     "Փնտրել նամակներ">
 <!ENTITY results.label               "Արդյունքներ">
-<!ENTITY moveHereMenu.label          "Տեղ. այստեղ">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Տեղափոխել՝">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
@@ -59,22 +57,22 @@
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
-<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի շղթան։"> 
-<!ENTITY fromColumn.tooltip "Սեղմեք՝ խմբավորելու ումից">
-<!ENTITY recipientColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացողի">
-<!ENTITY subjectColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վերնագրի">
-<!ENTITY dateColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ամսաթվի">
-<!ENTITY priorityColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ առաջն-ան">
-<!ENTITY tagsColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ պիտակի">
-<!ENTITY accountColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ փոստարկղի">
-<!ENTITY statusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վիճակի">
-<!ENTITY sizeColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ չափի">
-<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ թափոնի վիճակի">
-<!ENTITY unreadColumn.tooltip "Չընթերցված նամակների քանակը շղթայում">
-<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
-<!ENTITY readColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ընթերցման ">
-<!ENTITY receivedColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման ">
-<!ENTITY starredColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ աստղիկի ">
-<!ENTITY locationColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ տեղի ">
-<!ENTITY idColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման կարգի ">
+<!ENTITY columnChooser2.tooltip "Նշեք, թե որ սյուները պետք է ցուցադրվեն">
+<!ENTITY threadColumn2.tooltip "Ցուցադրել նամակների կապերը">
+<!ENTITY fromColumn2.tooltip "Խմբավորել ըստ՝ ումից">
+<!ENTITY recipientColumn2.tooltip "Խմբավորել ըստ՝ ստացողի">
+<!ENTITY subjectColumn2.tooltip "Խմբավորել ըստ՝ վերնագրի">
+<!ENTITY dateColumn2.tooltip "Խմբավորել ըստ՝ ամսաթվի">
+<!ENTITY priorityColumn2.tooltip "Խմբավորել ըստ՝ առաջնահերթության">
+<!ENTITY tagsColumn2.tooltip "Խմբավորել ըստ՝ պիտակի">
+<!ENTITY accountColumn2.tooltip "Խմբավորել ըստ՝ հաշվի">
+<!ENTITY statusColumn2.tooltip "Խմբավորել ըստ՝ կարգավիճակի">
+<!ENTITY sizeColumn2.tooltip "Խմբավորել ըստ՝ չափի">
+<!ENTITY junkStatusColumn2.tooltip "Խմբավորել ըստ՝ թափոնի կարգավիճակի">
+<!ENTITY unreadColumn2.tooltip "Չընթերցված նամակների քանակը շղթայում">
+<!ENTITY totalColumn2.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
+<!ENTITY readColumn2.tooltip "Խմբավորել ըստ՝ ընթերցելու">
+<!ENTITY receivedColumn2.tooltip "Խմբավորել ըստ՝ ստանալու ամսաթվի">
+<!ENTITY starredColumn2.tooltip "Խմբավորել ըստ՝ աստղի">
+<!ENTITY locationColumn2.tooltip "Խմբավորել ըստ՝ տեղի">
+<!ENTITY idColumn2.tooltip "Խմբավորել ըստ՝ ստանալու հերթականության">

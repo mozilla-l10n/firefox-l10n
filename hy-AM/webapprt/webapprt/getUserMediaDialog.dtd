@@ -6,8 +6,8 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "Մեդիայի տարածում">
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "Տարածել">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "Տ">
 <!ENTITY getUserMediaDialog.button.cancel.label     "Չեղարկել">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "ղ">
 

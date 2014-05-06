@@ -7,12 +7,12 @@
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "Ստացականը ստանալիս՝">
 <!ENTITY leaveIt.label                 "Թողնել Մուտքայինում">
-<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY leaveIt.accesskey             "Մ">
 <!ENTITY moveToSent.label              "Տեղափոխել &quot;Ուղարկված&quot; թղթապանակ">
-<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY moveToSent.accesskey          "&quot;">
 <!ENTITY requestMDN.label              "Ստացականի հարցում ստանալիս.">
 <!ENTITY never.label                   "Երբեք չուղարկել ստացական">
-<!ENTITY never.accesskey               "n">
+<!ENTITY never.accesskey               "ղ">
 <!ENTITY returnSome.label              "Թույլատրել ստացականներ որոշ նամակների համար">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "Եթե իմ հասցեն չկա Ում և Cc տողում.">

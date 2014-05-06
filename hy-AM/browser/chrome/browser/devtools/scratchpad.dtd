@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Փ">
 
+<!ENTITY viewMenu.label               "Տեսքը">
+<!ENTITY viewMenu.accesskey           "Տ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Խմբագրել">
 <!ENTITY editMenu.accesskey           "Խ">
 
@@ -67,6 +85,7 @@
 
 <!ENTITY pprint.label                 "Տպել">
 <!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "Տ">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -124,4 +143,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.key "e">

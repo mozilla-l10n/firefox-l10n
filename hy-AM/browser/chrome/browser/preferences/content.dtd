@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Pop-up-ներ">
+
 <!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
 <!ENTITY  blockPopups.accesskey       "Կ">
 <!ENTITY  popupExceptions.label       "Բացառություններ…">
 <!ENTITY  popupExceptions.accesskey   "Բ">
 
-<!ENTITY  fontsAndColors.label        "Տառատեսակները &amp; Գույները">
+<!ENTITY  fontsAndColors.label        "Տառատեսակները և Գույները">
 
 <!ENTITY  defaultFont.label           "Հիմնական տառատեսակը.">
 <!ENTITY  defaultFont.accesskey       "Հ">

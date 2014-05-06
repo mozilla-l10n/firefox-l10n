@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառվեց">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Հասցեն անհասկանալի է">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի է">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Այս հասցեն բացելու համար հավանաբար կպահանջվի տեղակայել այլ ծրագիր:</li> 
  </ul>         ">
 
