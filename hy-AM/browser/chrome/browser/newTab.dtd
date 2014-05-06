@@ -8,3 +8,6 @@
 <!ENTITY newtab.undo.undoButton "Ետարկել:">
 <!ENTITY newtab.undo.restoreButton "Վերականգնել բոլորը:">
 <!ENTITY newtab.undo.closeTooltip "Թաքցնել">
+
+
+<!ENTITY newtab.panel.link.text "Իմանալ ավելին…">

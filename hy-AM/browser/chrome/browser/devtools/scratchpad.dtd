@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Փ">
 
+<!ENTITY viewMenu.label               "Տեսքը">
+<!ENTITY viewMenu.accesskey           "Տ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Խմբագրել">
 <!ENTITY editMenu.accesskey           "Խ">
 
