@@ -54,7 +54,7 @@
 <!ENTITY back "ಹಿಂದಕ್ಕೆ">
 <!ENTITY stop "ನಿಲ್ಲಿಸು">
 <!ENTITY site_security "ಜಾಲ ಸುರಕ್ಷತೆ">
-<!ENTITY save "Save">
+<!ENTITY edit_mode_cancel "ರದ್ದು ಮಾಡು">
 
 <!ENTITY close_tab "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
 <!ENTITY one_tab "1 ಟ್ಯಾಬ್">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
+<!ENTITY pref_learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_category_installed_search_engines "ಅನುಸ್ಥಾಪಿಸಿರುವ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗಳು">
 <!ENTITY pref_category_add_search_providers "ಹೆಚ್ಚಿನ ಸರ್ಚ್ ಸೇವೆಗಳನ್ನು ಸೇರಿಸು">
 <!ENTITY pref_category_search_restore_defaults "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
-<!ENTITY pref_developer_remotedebugging_docs "Learn more">
 <!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "ಸಿಂಕ್">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
-<!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು  ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
+<!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
 <!ENTITY pref_private_data_passwords "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
 <!ENTITY pref_private_data_siteSettings2 "ತಾಣದ ಸಿದ್ಧತೆಗಳು">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles2 "ಇಳಿಕೆಗಳು">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
@@ -179,8 +179,11 @@ size. -->
 
 <!ENTITY pref_panels_show "ತೋರಿಸು">
 <!ENTITY pref_panels_hide "ಅಡಗಿಸು">
+<!ENTITY pref_panels_reorder "ಕ್ರಮವನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY pref_panels_move_up "ಮೇಲೆ ಜರುಗಿಸು">
+<!ENTITY pref_panels_move_down "ಕೆಳಗೆ ಜರುಗಿಸು">
 
-<!ENTITY datareporting_notification_title "&brandShortName; ಅಂಕಿಅಂಶ  ಮಾಹಿತಿ">
+<!ENTITY datareporting_notification_title "&brandShortName; ಅಂಕಿಅಂಶ &amp; ಮಾಹಿತಿ">
 <!ENTITY datareporting_notification_action_long "ಯಾವ ಮಾಹಿತಿ ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂಬುದನ್ನು ಆರಿಸಿ">
 <!ENTITY datareporting_notification_action "ಏನು ಹಂಚಿಕೊಳ್ಳಬಹುದೆಂದು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY datareporting_notification_summary "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು, &brandShortName; ತಾನಾಗಿಯೇ ಕೆಲವು ಮಾಹಿತಿಗಳನ್ನು &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ.">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಾರ">
-<!ENTITY datareporting_wifi_title "&vendorShortName; location services">
-<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
+<!ENTITY datareporting_wifi_geolocation_summary "ನಮ್ಮ ಜಿಯೋಲೊಕೇಶನ್ ಸೇವೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸುವುದಕ್ಕಾಗಿ ವೈ-ಫೈ ಮತ್ತು ಸೆಲ್ಯುಲರ್ ಸ್ಥಳ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಿರ್ವಹಿಸುವಾಗ ಪಡೆದುಕೊಂಡು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "ಅಳಿಸು">
 <!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
 
-<!ENTITY reading_list_add "Add to Reading List">
 <!ENTITY reading_list_added "ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ ಪುಟವನ್ನು ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!ENTITY reading_list_failed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಗೆ ಪುಟವನ್ನು ಸೇರಿಸಲು ವಿಫಲವಾಗಿದೆ">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ಈ ಪ್ಯಾನೆಲ್ ಗೆ ಯಾವುದೇ ವಸ್ತುವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; ವರೆಗೆ">
 
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
 
@@ -417,6 +423,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ಈಗ ಪುನರಾರಂಭವಾಗುತ್ತದೆ">
 <!ENTITY exit_guest_session_text "ಈ ಅಧಿವೇಶನದಿಂದ ಜಾಲಾವೀಕ್ಷಣೆ ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
