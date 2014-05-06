@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Joi" >
 <!ENTITY day.6.name "Vineri" >
 <!ENTITY day.7.name "Sâmbătă" >
-<!-- Units -->
-
-<!ENTITY calendar.global.units.minute   "minut">
-<!ENTITY calendar.global.units.minutes  "minute">
-<!ENTITY calendar.global.units.hour     "oră">
-<!ENTITY calendar.global.units.hours    "ore">
-<!ENTITY calendar.global.units.day      "zi">
-<!ENTITY calendar.global.units.days     "zile">
 
 <!ENTITY month.1.name "Ianuarie" >
 <!ENTITY month.2.name "Februarie" >

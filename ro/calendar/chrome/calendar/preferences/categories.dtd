@@ -8,10 +8,10 @@
 
 
 <!ENTITY pref.categories.add.title "Adăugare categorie">
-<!ENTITY pref.categories.addButton.label "Adaugă...">
+<!ENTITY pref.categories.addButton.label "Adaugă…">
 <!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "Editare categorie">
-<!ENTITY pref.categories.editButton.label "Editează">
+<!ENTITY pref.categories.editButton.label "Editează…">
 <!ENTITY pref.categories.editButton.accesskey "E">
 <!ENTITY pref.categories.removeButton.label "Șterge">
 <!ENTITY pref.categories.removeButton.accesskey "r">
@@ -21,4 +21,4 @@
 <!ENTITY pref.categories.none.label "(niciuna)">
 <!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta. \n Doriți să o suprascrieți?">
 <!ENTITY pref.categories.overwrite.title "Avertisment: nume duplicat">
-<!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei">
+<!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei.">

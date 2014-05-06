@@ -40,7 +40,31 @@
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Mesajul conține o invitație la un eveniment.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptă">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Acceptarea invitației la eveniment">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Acceptă toate">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptați invitația la eveniment pentru toate aparițiile evenimentului">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Adaugă">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adaugă evenimentul în calendar">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Nu accept">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refuză invitația la eveniment">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refuză tot">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuză invitația la eveniment pentru toate aparițiile evenimentului">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Șterge">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Arată detaliile evenimentului">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Mai mult">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptați provizoriu invitația la eveniment">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Acceptă toate provizoriu">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptați invitația la eveniment în mod provizoriu pentru toate aparițiile evenimentului">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualizare">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizare eveniment în calendar">
+<!ENTITY lightning.imipbar.description                                      "Mesajul conține o invitație la un eveniment.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

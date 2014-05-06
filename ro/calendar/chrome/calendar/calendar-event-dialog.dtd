@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "De la" >
 <!ENTITY newevent.to.label                  "Până la" >
-<!ENTITY newevent.attendees.notify.label    "Anunță participanții">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "Păstrează participanții confidențiali în invitații">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Dacă este activată, participanții nu vor vedea unii pe alții în invitații. Se aplică numai pentru invitațiile pe email.">
 
 <!ENTITY newevent.status.label                    "Stare" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -32,6 +28,13 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; completată">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Anunță participanții">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată pentru fiecare participant">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail la fiecare participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
