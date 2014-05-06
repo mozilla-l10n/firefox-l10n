@@ -7,6 +7,7 @@
 <!ENTITY index.device2 "Սարք">
 <!ENTITY index.help "Օգնություն">
 
+
 <!ENTITY device.screenshot "Պատկերը">
 <!ENTITY device.screenshotTooltip "Տվյալ սարքի գործող վիճակի պատկերը բացել նոր ներդիրում">
 <!ENTITY device.title "Սարքի կառավարման կենտրոն">
