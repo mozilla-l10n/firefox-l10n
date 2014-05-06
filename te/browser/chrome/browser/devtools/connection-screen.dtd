@@ -13,6 +13,7 @@
 <!ENTITY port       "పోర్టు:">
 <!ENTITY connect    "సంధానం">
 <!ENTITY connecting "అనుసంధానించుతోంది…">
+
 <!ENTITY availableTabs "అందుబాటులోని రిమోట్ టాబ్లు:">
 <!ENTITY availableProcesses "అందుబాటులోని రిమోట్ ప్రోసెస్‌లు:">
 <!ENTITY connectionError "దోషం:">

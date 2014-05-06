@@ -33,7 +33,7 @@
 <!ENTITY engine.passwords.label     "సంకేతపదములు">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "అభీష్టాలు">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
@@ -72,3 +72,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "లోపలకు వెళ్ళు">
 
 
+<!ENTITY welcome.useOldSync.label "సింక్ పాత వెర్షనును వాడుతున్నారా?">

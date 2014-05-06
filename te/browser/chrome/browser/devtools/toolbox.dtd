@@ -34,7 +34,7 @@
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.accesskey "U">
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -55,12 +55,10 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label3    "క్రోమ్ డీబగ్గింగ్ చేతనంచేయి">
-<!ENTITY options.enableChrome.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుటవలన మీరు బ్రౌజర్ సందర్భం నందు వివిధ అభివృద్దికారి సాధనాలు వుపయోగించగలుగుదురు">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -105,13 +103,6 @@
   -  heading of the group of Web Console preferences in the options panel. -->
 
 <!ENTITY options.webconsole.label            "వెబ్ కన్సోల్">
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console,
-  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
-  -  in the options panel. -->
-
-<!ENTITY options.enablePersistentLogging.label    "స్థిరమైన లాగ్‌లను చేతనంచేయును">
-<!ENTITY options.enablePersistentLogging.tooltip  "మీరు ఈ ఐచ్చికం చేతనంచేస్తే వెబ్ కన్సోల్ అనునది మీరు ప్రతిసారి కొత్త పేజీకు వెళ్ళినప్పుడు అవుట్పుట్‌ను శుభ్రంచేయదు.">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
@@ -135,6 +126,16 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "జావాస్క్రిప్ట్ ప్రొఫైలర్">
+<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+      of all preferences that affect both the Web Console and the Network
+      Monitor -->
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console and
+  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  about:config, in the options panel. -->
+
+<!ENTITY options.enablePersistentLogging.label    "స్థిరమైన లాగ్‌లను చేతనంచేయును">
+
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
