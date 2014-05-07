@@ -54,7 +54,7 @@
 <!ENTITY back "பின்னோக்கு">
 <!ENTITY stop "நிறுத்து">
 <!ENTITY site_security "வலைத்தள பாதுகாப்பு">
-<!ENTITY save "சேமி">
+<!ENTITY edit_mode_cancel "இரத்துசெய்">
 
 <!ENTITY close_tab "தத்தலை மூடவும்">
 <!ENTITY one_tab "1 தாவல்">
@@ -73,6 +73,7 @@
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
+<!ENTITY pref_learn_more "மேலும் அறிய">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
 <!ENTITY pref_category_add_search_providers "கூடுதல் தேடல் வழங்குநர்களைச் சேர்க்க">
 <!ENTITY pref_category_search_restore_defaults "தேடு பொறிகளை மீட்டெடு">
@@ -86,7 +87,6 @@
 <!ENTITY pref_search_hint "குறிப்பு: தெடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி வழங்குநர்களின் பட்டியலுடன் சேர்க்கவும்.">
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
-<!ENTITY pref_developer_remotedebugging_docs "மேலும் அறிய">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினைவில் வைத்திரு">
 
 <!ENTITY pref_category_home "முகப்பு">
@@ -114,7 +114,7 @@
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
 <!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
-<!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3 வது கட்சி நீங்கலாக">
+<!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
 <!ENTITY pref_donottrack_menu "கண்காணிப்பு">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்குமதி செய்">
-<!ENTITY pref_private_data_history "உலாவல்  பதிவிறக்க வரலாறு">
-<!ENTITY pref_private_data_formdata "படிவம்  தேடல் வரலாறு">
-<!ENTITY pref_private_data_cookies2 "நினைவிகள்  செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
+<!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
+<!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
+<!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
 <!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
 <!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
-<!ENTITY pref_private_data_downloadFiles "பதிவிறக்கப்பட்ட கோப்புகள்">
+<!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
@@ -179,8 +179,11 @@ size. -->
 
 <!ENTITY pref_panels_show "காண்பி">
 <!ENTITY pref_panels_hide "மறை">
+<!ENTITY pref_panels_reorder "வரிசையை மாற்று">
+<!ENTITY pref_panels_move_up "மேலே நகற்று">
+<!ENTITY pref_panels_move_down "கீழே நகற்று">
 
-<!ENTITY datareporting_notification_title "&brandShortName; நிலவரம்  தரவு">
+<!ENTITY datareporting_notification_title "&brandShortName; நிலவரம் &amp; தரவு">
 <!ENTITY datareporting_notification_action_long "பகிர்வுக்கு எந்த தகவலை தெரிவுசெய்">
 <!ENTITY datareporting_notification_action "பகிர்வுக்கு எதை தெரிவுச்செய்வது">
 <!ENTITY datareporting_notification_summary "உங்களுடைய அனுபவத்தை அதிகரிக்க, &brandShortName; தானாக தகவல்களை &vendorShortName; க்கு அனுப்புகிறது.">
@@ -202,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
-<!ENTITY datareporting_wifi_title "&vendorShortName;வின் இடமறியும் சேவைகள்">
-<!ENTITY datareporting_wifi_summary "புவிஇருப்பிட சேவைகள் மேம்படுத்தவும் திறந்த முறையில் இணையத்தை வளர்க்கவும் &brandShortName; மூலம் செல்லுலார் தரவுகளை சேகரிக்கவும் உதவுகிறது">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
+<!ENTITY datareporting_wifi_geolocation_summary "எங்களுடைய புவியிடமறியும் சேவையை மேம்படுத்த வை-பை மற்றும் செல்பேசி இடத்தரவை பின்னணியில் இயங்கி &vendorShortName; உடன் தரவுகளை பகிரப்படுகிறது">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -290,7 +293,6 @@ size. -->
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
 
-<!ENTITY reading_list_add "படித்தல் பட்டியல்களுடன் சேர்">
 <!ENTITY reading_list_added "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் சேர்க்கப்பட்டுள்ளது">
 <!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது">
 <!ENTITY reading_list_failed "உங்கள் வாசிப்பு பட்டியலில் பக்கத்தைச் சேர்க்கமுடியவில்லை">
@@ -338,6 +340,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "இந்த பலகத்தில் எந்த உள்ளடக்கமும் காணப்படவில்லை.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "&formatS; க்கு மேல்">
 
 <!ENTITY pin_site_dialog_hint "தேட ஒரு முக்கிய சொல்லை உள்ளிடு">
 
@@ -417,6 +423,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
 <!ENTITY exit_guest_session_text "இந்த அமர்வில் இருந்து உலாவின் தரவு அழிக்கப்படும்.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

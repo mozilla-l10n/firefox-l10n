@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை அறிவுப்பு">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;விற்கு வரவேற்கிறோம்">
-<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள்  பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
+<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள் &amp; பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
 <!-- Localization note: the Firefox below should not change with the
@@ -178,6 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "உங்கள் கணக்கை சரிபார்க்க வேண்டியுள்ளது. சரிபார்ப்பு மின்னஞ்சலை மிண்டும் அனுப்ப தடவவும்.">
 <!ENTITY fxaccount_status_needs_credentials "இணைக்க முடியாது. உள்நுழைய தடவவும்.">
 <!ENTITY fxaccount_status_needs_upgrade "உள்நுழைய நீங்கள் &brandShortName; ஐ மேம்படுத்த வேண்டும்.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகளில் “தானியக்க-ஒத்திசைவு தரவு” &gt; தரவு பயன்பாடுகளுக்கிடையே இடமாறவும்.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஓத்திசைவு தொடங்க தொடவும்.">
 <!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
 <!ENTITY fxaccount_status_history "வரலாறு">
 <!ENTITY fxaccount_status_passwords "கடவுச்சொற்கள்">

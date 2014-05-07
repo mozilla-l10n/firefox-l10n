@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleWarnings     "எச்சரிக்கைகள்">
 <!ENTITY btnConsoleLog          "பதிவு">
 
+
 <!ENTITY filterOutput.placeholder "வடிகட்டி வெளியீடு">
 <!ENTITY btnClear.label        "அகற்று">
 <!ENTITY btnClear.tooltip      "வலை பணிமுனை வெளியீட்டை அழி">
