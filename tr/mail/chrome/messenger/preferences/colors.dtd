@@ -2,20 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  colorsDialog.title              "Renkler">
+
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  allowPagesToUse.label           "Yukarıdaki seçimlerimin yerine, içeriğin kendi renklerini seçmesine izin ver">
+<!ENTITY  allowPagesToUse.accesskey       "i">
+
+<!ENTITY  color                           "Metin ve arka plan">
 
 
-<!ENTITY  textColor.label                 "Metin:">
-<!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Arka plan:">
 <!ENTITY  backgroundColor.accesskey       "A">
+<!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
+<!ENTITY  useSystemColors.accesskey       "S">
 
-
-
-
-
-
-
-
-
+<!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
+<!ENTITY  underlineLinks.accesskey        "ı">
+<!ENTITY  links                           "Bağlantı renkleri">
+<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
+<!ENTITY  visitedLinkColor.accesskey      "Z">

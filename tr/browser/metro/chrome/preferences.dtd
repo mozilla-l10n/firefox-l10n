@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Çerezler">
 <!ENTITY clearPrivateData.cache                                  "Önbellek">
 <!ENTITY clearPrivateData.sitePref                               "Site tercihleri">
-<!ENTITY clearPrivateData.formSearchHist                         "Form ve arama geçmişi">
+
 <!ENTITY clearPrivateData.passwords                              "Kayıtlı parolalar">
 <!ENTITY clearPrivateData.offline                                "Çevrim dışı site verileri">
 <!ENTITY clearPrivateData.logins                                 "Etkin oturumlar">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Parolaları hatırla">
+
 <!ENTITY doNotTrack.title                                        "Beni İzleme">
 <!ENTITY doNotTrack.options.doNotTrack                           "Web sitelerine izlenmek istemediğimi söyle">
 <!ENTITY doNotTrack.options.doTrack                              "Web sitelerine izlenmek istediğimi söyle">
@@ -35,5 +36,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Çökme Habercisi">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName;, Mozilla'nın tarayıcınızı daha kararlı ve güvenli hâle getirmesine yardımcı olmak için çökme raporlarını gönderir">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs             "Bakmakta olduğum sayfanın adresini dahil et">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Tarayıcınızı iyileştirmemize yardımcı olmak için &brandShortName; kullanım istatistiklerini Mozilla ile paylaşır">

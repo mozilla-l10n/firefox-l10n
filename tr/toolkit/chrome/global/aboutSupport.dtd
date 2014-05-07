@@ -11,8 +11,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Rapor kimliği">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Gönderim">
 <!ENTITY aboutSupport.crashes.allReports "Tüm Çökme Raporları">
 <!ENTITY aboutSupport.crashes.noConfig "Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.">
@@ -22,6 +20,15 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Devrede">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
 <!ENTITY aboutSupport.extensionId "Kimlik">
+
+<!ENTITY aboutSupport.experimentsTitle "Deneysel Özellikler">
+<!ENTITY aboutSupport.experimentName "Adı">
+<!ENTITY aboutSupport.experimentId "Kimlik">
+<!ENTITY aboutSupport.experimentDescription "Açıklama">
+<!ENTITY aboutSupport.experimentActive "Etkin">
+<!ENTITY aboutSupport.experimentEndDate "Bitiş tarihi">
+<!ENTITY aboutSupport.experimentHomepage "Ana sayfa">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">

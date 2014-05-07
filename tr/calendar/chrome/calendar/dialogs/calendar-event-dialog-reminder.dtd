@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Uyarı bilgileri">
 <!ENTITY reminder.action.label                             "Uyarı eylemi seç">
 
-<!ENTITY reminder.relation.before.label                    "önce" >
-<!ENTITY reminder.relation.after.label                     "sonra" >
-
 <!ENTITY reminder.action.alert.label                       "Beni uyar">
 <!ENTITY reminder.action.email.label                       "E-posta gönder">
 

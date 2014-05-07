@@ -9,15 +9,17 @@
 <!ENTITY back.label            "Geri">
 <!ENTITY forward.label         "İleri">
 <!ENTITY newtab.label          "Yeni sekme">
+<!ENTITY newPrivateTab.label   "Yeni gizli sekme">
 <!ENTITY closetab.label        "Sekmeyi kapat">
 
 <!ENTITY autocompleteResultsHeader.label  "Sonuçlarınız">
 
-<!ENTITY appbarErrorConsole.label   "Hata konsolunu aç">
-<!ENTITY appbarJSShell.label        "JavaScript kabuğunu aç">
-<!ENTITY appbarFindInPage2.label    "Sayfada bul">
-<!ENTITY appbarViewOnDesktop2.label "Masaüstünde görüntüle">
-<!ENTITY appbarMSMetaData2.label    "Bu sitenin uygulamasını indir">
+<!ENTITY appbarErrorConsole.label      "Hata konsolunu aç">
+<!ENTITY appbarJSShell.label           "JavaScript kabuğunu aç">
+<!ENTITY appbarFindInPage2.label       "Sayfada bul">
+<!ENTITY appbarRelaunchInDesktop.label "Masaüstünde yeniden aç">
+<!ENTITY appbarMSMetaData2.label       "Bu sitenin uygulamasını indir">
+<!ENTITY appbarViewPageSource.label    "Sayfa kaynağını göster">
 
 <!ENTITY topSitesHeader.label        "Sık Kullandıklarınız">
 <!ENTITY bookmarksHeader.label       "Yer İmleri">
@@ -57,10 +59,12 @@
 <!ENTITY consoleMessages.label     "İletiler">
 <!ENTITY consoleCodeEval.label     "Kod:">
 <!ENTITY consoleClear.label        "Temizle">
+<!ENTITY consoleCopyAll.label      "Kopyala">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kaynak dosya:">
 <!ENTITY consoleErrLine.label      "Satır:">
 <!ENTITY consoleErrColumn.label    "Sütun:">
+<!ENTITY consoleFollowCheckbox.label "Takip et">
 <!--  TEXT CONTEXT MENU -->
 
 <!ENTITY contextTextCut.label              "Kes">
@@ -99,8 +103,45 @@
 
 
 
-
+<!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
+<!ENTITY jsConsole.key "j">
 
+<!ENTITY syncFlyout.key "s">
 
+<!-- FIRT RUN EXPERIENCE -->
+<!-- LOCALIZATION NOTE (firstRunTabs.label,
+                        firstRunTopSites.label,
+                        firstRunBookmarks.label,
+                        firstRunMenu.label,
+                        firstRunHistory.label )
+     These strings appear on the Firefox Start page the first time
+     Firefox for Windows 8 Touch (Metro) is launched.  Each one
+     has an arrow pointing toward the feature it references.
+     -->
+
+<!ENTITY firstRunTabs.label "Sekmelerinizi mi arıyorsunuz? Aşağı çekin veya sağ tıklayın">
+<!ENTITY firstRunTopSites.label "En çok ziyaret ettiğiniz sitelere gidin">
+<!ENTITY firstRunBookmarks.label "Kaydettiğiniz sayfaları bulun">
+<!ENTITY firstRunMenu.label "Diğer özelliklere ve seçeneklere erişin">
+<!ENTITY firstRunHistory.label "Web'de nerelerde gezindiğinizi görün">
+<!ENTITY firstRunWelcome.label "&brandShortName; tarayıcısına hoş geldiniz">
+<!ENTITY firstRunDifferent.label "Felsefesi farklı">
+<!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first time a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references.
+       -->
+
+<!ENTITY firstRunBack.label "Önceki sayfaya dönmek için dokunun">
+<!ENTITY firstRunNewTab.label "Yeni bir sitede gezinmek için yeni sekme açın">
+<!ENTITY firstRunStar.label "Sayfaları daha sonra incelemek için yer imlerini kullanın">
+<!ENTITY firstRunPin.label "Hızlı erişim için istediğiniz için Windows Başlangıç ekranına sabitleyin">
+<!ENTITY firstRunGotIt.label "Anladım!">

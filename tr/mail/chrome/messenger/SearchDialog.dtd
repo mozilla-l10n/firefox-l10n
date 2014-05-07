@@ -19,8 +19,6 @@
 <!ENTITY results.label               "Sonuçlar">
 
 
-
-
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Bu dizinde aç">
 <!ENTITY openInFolder.accesskey      "d">
@@ -59,22 +57,20 @@
 <!ENTITY idColumn.label "Alınma sırası">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları seçmek için tıklayın">
-<!ENTITY threadColumn.tooltip "İleti dizilerini görmek için tıklayın"> 
-<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
-<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
-<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
-<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
-<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
-<!ENTITY tagsColumn.tooltip "Etiketlere göre sıralamak için tıklayın">
-<!ENTITY accountColumn.tooltip "Hesaba göre sıralamak için tıklayın">
-<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
-<!ENTITY sizeColumn.tooltip "Boyuta göre sıralamak için tıklayın">
-<!ENTITY junkStatusColumn.tooltip "Gereksizlik durumuna göre sıralamak için tıklayın">
-<!ENTITY unreadColumn.tooltip "Dizideki okunmayan iletilerin sayısı">
-<!ENTITY totalColumn.tooltip "Dizideki iletilerin toplam sayısı">
-<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
-<!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
-<!ENTITY starredColumn.tooltip "Yıldıza göre sıralamak için tıklayın">
-<!ENTITY locationColumn.tooltip "Konuma göre sıralamak için tıklayın">
-<!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY unreadColumn2.tooltip "Dizideki okunmayan iletilerin sayısı">
+<!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
+
+
+
+
+

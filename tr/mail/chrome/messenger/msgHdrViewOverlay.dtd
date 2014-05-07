@@ -11,7 +11,7 @@
 <!ENTITY subjectField4.label "Konu">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
-
+<!ENTITY newsgroupsField4.label "Haber grupları">
 
 <!ENTITY tagsHdr4.label "Etiketler">
 <!ENTITY dateField4.label "Tarih">
@@ -21,8 +21,6 @@
 
 
 
-<!ENTITY editMessageDescription.label "Bu ileti bir taslaktır">
-<!ENTITY editMessageButton.label "Düzenle…">
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
 <!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">

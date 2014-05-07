@@ -11,6 +11,8 @@
 <!ENTITY newevent.to.label                  "Alıcı" >
 <!ENTITY newevent.attendees.notify.label    "Katılımcıları uyar">
 
+
+
 <!ENTITY newevent.status.label                    "Durum" >
 <!ENTITY newevent.status.accesskey                "u" >
 <!ENTITY newevent.eventStatus.none.label          "Belirtilmemiş" >
@@ -99,12 +101,6 @@
 <!ENTITY  event.menu.options.accesskey                        "S">
 <!ENTITY  event.menu.options.attendees.label                  "Katılımcıları davet et…">
 <!ENTITY  event.menu.options.attendees.accesskey              "K">
-<!ENTITY  event.menu.options.spellcheck.label                 "İmla Denetimi…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "İ">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Yazarken denetle">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "Y">
-<!ENTITY  event.menu.options.link.label                       "Bağlantı ekle…">
-<!ENTITY  event.menu.options.link.accesskey                   "B">
 <!ENTITY  event.menu.options.timezone2.label                  "Saat dilimlerini göster">
 <!ENTITY  event.menu.options.timezone2.accesskey              "g">
 <!ENTITY  event.menu.options.priority2.label                  "Öncelik">
@@ -140,11 +136,16 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
-<!ENTITY  event.toolbar.delete.label                      "Sil">
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
-<!ENTITY  event.toolbar.spellcheck.label                  "İmla denetimi">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
+
+
+
+<!ENTITY  event.toolbar.attachments.tooltip               "Dosya ekle">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Gizliliği değiştir">
+<!ENTITY  event.toolbar.priority.tooltip                  "Önceliği değiştir">
+<!ENTITY  event.toolbar.status.tooltip                    "Durumu değiştir">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Boşta/meşgul zamanını değiştir">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Başlık:" >
@@ -153,8 +154,7 @@
 <!ENTITY event.location.accesskey                         "K">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "t">
-<!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
-<!ENTITY event.categories.textbox.accesskey               "Y">
+
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "T">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
@@ -210,6 +210,8 @@
 <!ENTITY event.reminder.custom.label                      "Özelleştir…" >
 
 <!ENTITY event.reminder.multiple.label                    "Çoklu uyarı…" >
+
+<!ENTITY event.statusbarpanel.privacy.label               "Gizlilik:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Yineleme aralığını düzenle">
@@ -361,5 +363,4 @@
 <!ENTITY read.only.reminder.label        "Uyarı:">
 <!ENTITY read.only.attendees.label       "Katılımcılar">
 <!ENTITY read.only.description.label     "Açıklama">
-<!ENTITY read.only.documents.label       "Belgeler">
 <!ENTITY read.only.link.label            "İlgili bağlantı">
