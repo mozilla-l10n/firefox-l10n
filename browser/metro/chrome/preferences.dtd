@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
-
 <!-- ## Options Flyout Panel ## -->
-<!ENTITY optionsHeader.title                                     "Options">
+
+
+<!ENTITY optionsHeader.title                                     "Opțiuni">
 <!ENTITY optionsHeader.char.title                                "Character Encoding">
 <!ENTITY optionsHeader.char.autodetect.label                     "Auto-detect">
 <!ENTITY optionsHeader.char.options.label                        "Show encoding options on the App Bar">
@@ -21,12 +21,13 @@
 <!ENTITY clearPrivateData.cookies                                "Cookies">
 <!ENTITY clearPrivateData.cache                                  "Cache">
 <!ENTITY clearPrivateData.sitePref                               "Site preferences">
-<!ENTITY clearPrivateData.formSearchHist                         "Form &amp; search history">
+<!ENTITY clearPrivateData.formSearchHist                         "Istoric formular și căutare">
 <!ENTITY clearPrivateData.passwords                              "Saved passwords">
 <!ENTITY clearPrivateData.offline                                "Offline website data">
 <!ENTITY clearPrivateData.logins                                 "Active logins">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Remember Passwords">
+
 <!ENTITY doNotTrack.title                                        "Do Not Track">
 <!ENTITY doNotTrack.options.doNotTrack                           "Tell websites that I do not want to be tracked">
 <!ENTITY doNotTrack.options.doTrack                              "Tell websites that I want to be tracked">
@@ -38,4 +39,3 @@
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 <!ENTITY optionsHeader.telemetry.label                            "Shares usage statistics about &brandShortName; with Mozilla to help us make your browser better">
-

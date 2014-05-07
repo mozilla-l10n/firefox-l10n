@@ -1,26 +1,13 @@
-<!--
-# Translator(s):
-#
-# Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY time.midnight "Miezul nopții" >
 <!ENTITY time.noon "Amiază" >
-
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
+
 <!ENTITY day.1.Ddd "Dum" >
 <!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "Lun" >
@@ -44,14 +31,6 @@
 <!ENTITY day.6.name "Vineri" >
 <!ENTITY day.7.name "Sâmbătă" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minut">
-<!ENTITY calendar.global.units.minutes  "minute">
-<!ENTITY calendar.global.units.hour     "oră">
-<!ENTITY calendar.global.units.hours    "ore">
-<!ENTITY calendar.global.units.day      "zi">
-<!ENTITY calendar.global.units.days     "zile">
-
 <!ENTITY month.1.name "Ianuarie" >
 <!ENTITY month.2.name "Februarie" >
 <!ENTITY month.3.name "Martie" >
@@ -71,4 +50,3 @@
 <!ENTITY onedayforward.tooltip "Cu o zi înainte">
 <!ENTITY onedaybackward.tooltip "Cu o zi înapoi">
 <!ENTITY showselectedday.tooltip "Arată evenimentele pentru ziua selectată">
-

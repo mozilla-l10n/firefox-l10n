@@ -1,78 +1,38 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetria este <span>activată</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetria este <span>activată</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetria este <span>dezactivată</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetria este <span>dezactivată</span>.">
 
 <!ENTITY aboutTelemetry.slowSqlSection "     Declarații SQL lente ">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Blocări navigator ">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocări navigator ">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograme
-">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Măsurători simple
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Histograme">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Măsurători simple">
 
-<!ENTITY aboutTelemetry.lateWritesSection "  
-   Scrieri întârziate
+<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on Details">
 
-">
+<!ENTITY aboutTelemetry.lateWritesSection "   Scrieri întârziate">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Informații sistem
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  Informații sistem">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograme colectate de suplimente
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograme colectate de suplimente">
 
-<!ENTITY aboutTelemetry.toggleOn "
-     Clic pentru extinderea secțiunii ">
+<!ENTITY aboutTelemetry.toggle "  Clic pentru a comuta secțiunea">
 
-<!ENTITY aboutTelemetry.toggleOff "       Clic pentru restrângere secțiune ">
+<!ENTITY aboutTelemetry.emptySection " (Nu sunt date colectate) ">
 
-<!ENTITY aboutTelemetry.emptySection " 
- (Nu sunt date colectate) ">
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTĂ: Depanarea lentă SQL este activată. Șirurile SQL pot fi afișate mai jos, dar ele nu vor fi transmise de Telemetrie.">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTĂ: Depanarea lentă SQL este activată. Șirurile SQL pot fi afișate mai jos, dar ele nu vor fi transmise de Telemetrie.
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Adu numele funcțiilor pentru stivele blocate">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Adu numele funcțiilor pentru stivele blocate
-">
+<!ENTITY aboutTelemetry.hideSymbols "  Arată datele brute de la blocări">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Arată datele brute de la blocări
-">
-
+<!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">

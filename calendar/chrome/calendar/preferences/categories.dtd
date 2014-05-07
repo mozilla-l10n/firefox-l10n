@@ -1,32 +1,17 @@
-<!--
-# Translator(s):
-#
-# Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# Marin Bînzari <spartakusmd@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY pref.categories.add.title "Adăugare categorie">
-<!ENTITY pref.categories.addButton.label "Adaugă...">
+<!ENTITY pref.categories.addButton.label "Adaugă…">
 <!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "Editare categorie">
-<!ENTITY pref.categories.editButton.label "Editează">
+<!ENTITY pref.categories.editButton.label "Editează…">
 <!ENTITY pref.categories.editButton.accesskey "E">
 <!ENTITY pref.categories.removeButton.label "Șterge">
 <!ENTITY pref.categories.removeButton.accesskey "r">
@@ -34,7 +19,6 @@
 <!ENTITY pref.categories.color.label "Culoare">
 <!ENTITY pref.categories.usecolor.label "Folosește culoarea">
 <!ENTITY pref.categories.none.label "(niciuna)">
-<!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta.\n Doriți să o suprascrieți?">
+<!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta. \n Doriți să o suprascrieți?">
 <!ENTITY pref.categories.overwrite.title "Avertisment: nume duplicat">
-<!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei">
-
+<!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei.">
