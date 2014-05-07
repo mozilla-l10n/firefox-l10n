@@ -1,5 +1,5 @@
-
-
+<!ENTITY inspectorHTMLEdit.label       "Modificar coma HTML">
+<!ENTITY inspectorHTMLEdit.accesskey   "H">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
@@ -17,3 +17,5 @@
 
 <!ENTITY inspectorSearchHTML.label          "Recercar dins lo HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
+
+<!ENTITY inspectorCopyImageDataUri.label       "Copiar l'imatge coma Data URL">

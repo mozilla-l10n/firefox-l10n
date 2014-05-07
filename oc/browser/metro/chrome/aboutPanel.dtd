@@ -6,7 +6,7 @@
 <!ENTITY aboutHeader.title          "A prepaus">
 <!ENTITY aboutHeader.product.label  "&brandShortName;">
 <!ENTITY aboutHeader.company.label  "Per &vendorShortName;">
-
+<!ENTITY aboutHeader.policy.label   "Politica de confidencialitat de &brandShortName;">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Recèrca de mesas a jorn...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -16,6 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Las mesas a jorn son desactivadas per vòstre administrator del sistèma">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; es mes a jorn per una autra instància">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -38,7 +39,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Telecargament de mesa a jorn—  ">
+<!ENTITY update.downloading.start   "Telecargament de mesa a jorn — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicacion de la mesa a jorn…">

@@ -2,6 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Paramètres de recèrca">
-<!ENTITY clear.altText          "Escafar">
-<!ENTITY newpref.label2         "Apondre un paramètre novèl">
+
+<!ENTITY toolbar.searchPlaceholder     "Recercar">
+
+<!ENTITY newPref.namePlaceholder       "Nom">
+
+<!ENTITY newPref.valueBoolean          "Valor booleana">
+<!ENTITY newPref.valueString           "Cadena">
+<!ENTITY newPref.valueInteger          "Nombre entièr">
+
+
+
+<!ENTITY newPref.toggleButton          "Intervertir">
+<!ENTITY newPref.cancelButton          "Anullar">
+
+<!ENTITY contextMenu.copyPrefName      "Copiar lo nom">
+<!ENTITY contextMenu.copyPrefValue     "Copiar la valor">

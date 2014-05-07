@@ -2,28 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "Informacions ret">
+<!ENTITY aboutNetworking.warning               "Aquesta foncionalitat es fòrça experimentala. D'utilizar pas que jos la susvelhança d'un adulte.">
 <!ENTITY aboutNetworking.showNextTime          "Afichar aqueste avertiment lo còp que ven">
 <!ENTITY aboutNetworking.ok                    "D'acòrdi">
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "Refrescar">
+<!ENTITY aboutNetworking.autoRefresh           "Refrescar automaticament cada 3 segondas">
+<!ENTITY aboutNetworking.hostname              "Nom d'òste">
 <!ENTITY aboutNetworking.port                  "Pòrt">
-
-
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Actiu">
-
+<!ENTITY aboutNetworking.idle                  "Inactiu">
 <!ENTITY aboutNetworking.host                  "Òste">
-
-
-
-
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Mandat">
+<!ENTITY aboutNetworking.received              "Recebut">
+<!ENTITY aboutNetworking.family                "Familha">
 <!ENTITY aboutNetworking.addresses             "Adreças">
-
-
-
-
-
+<!ENTITY aboutNetworking.expires               "Expiracion (segondas)">
+<!ENTITY aboutNetworking.messagesSent          "Messatges mandats">
+<!ENTITY aboutNetworking.messagesReceived      "Messatges recebuts">
+<!ENTITY aboutNetworking.bytesSent             "Octets mandats">
+<!ENTITY aboutNetworking.bytesReceived         "Octets recebuts">

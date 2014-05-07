@@ -15,3 +15,5 @@
 <!ENTITY importProfile.label "Importar…">
 <!-- LOCALIZATION NOTE (profiler.startProfiler): This string is displayed
   -  on a button that starts a new profile  -->
+
+<!ENTITY startProfiler.tooltip "Aviar lo perfilatge">

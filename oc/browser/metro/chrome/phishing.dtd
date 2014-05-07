@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
 
+<!ENTITY safeb.palm.accept.label "Sortissètz-me d'aicí !">
+<!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
+<!ENTITY safeb.palm.notforgery.label2 "Aquò es pas una contrafaiçon de site Web…">
 <!ENTITY safeb.palm.reportPage.label "Perqué la pagina es blocada ?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Sit d'atac raportat !">
@@ -11,5 +13,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sites d'atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l'ajan permés.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Suspicion de site contrefach !">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "En picant d'informacions sus aquesta pagina Web, vos poiriatz expausar a una usurpacion d'identitat o a d'autras fraudariás.">
 
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "Aquestes tipes de sites Web son utilizats dins de fraudariás conegudas jol tèrme d'atacs per phishing (o ancoratge), dins las qualas de paginas Web o de corrièrs frauduloses son utilizats per imitar de fonts dins las qualas podètz aver fisança. Ne podètz saber mai sus">
