@@ -1,20 +1,8 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/openLocation.xul -->
+
 
 <!ENTITY enter.label "Introduceți o adresă web (URL), sau specificați fișierul local pe care doriți să îl deschideți:">  
 <!ENTITY chooseFile.label "Alege fișier...">
@@ -24,4 +12,3 @@
 <!ENTITY caption.label "Deschidere adresă web">
 <!ENTITY openWhere.label "Deschide în:">
 <!ENTITY openBtn.label "Deschide">
-

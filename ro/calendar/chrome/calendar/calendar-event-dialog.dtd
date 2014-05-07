@@ -1,21 +1,3 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-# Lucian Oprea <oprea.luci@gmail.com>
-# Ursan Marius Bogdan <Creationn@gmail.com>
-# Octi <octavianiolu@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -27,12 +9,11 @@
 
 <!ENTITY newevent.from.label                "De la" >
 <!ENTITY newevent.to.label                  "Până la" >
-<!ENTITY newevent.attendees.notify.label    "Anunță participanții">
 
 <!ENTITY newevent.status.label                    "Stare" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Nespecificată" >
-<!ENTITY newevent.eventStatus.none.accesskey      "n" >
+<!ENTITY newevent.eventStatus.none.accesskey      "N" >
 <!ENTITY newevent.todoStatus.none.label           "Nespecificată" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Anulat" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
@@ -44,11 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "Necesită acțiune" >
 <!ENTITY newevent.status.inprogress.label         "În desfășurare" >
 <!ENTITY newevent.status.completed.label          "Îndeplinită în" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; completată">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; completată">
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!ENTITY event.attendees.notify.label               "Anunță participanții">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată pentru fiecare participant">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail la fiecare participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -62,8 +50,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Creează">
 <!ENTITY  event.menu.item.new.accesskey                   "C">
 <!ENTITY  event.menu.item.new.event.label                 "Eveniment">
@@ -75,7 +63,7 @@
 <!ENTITY  event.menu.item.new.contact.label               "Contact în agenda de contacte">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Închide">
-<!ENTITY  event.menu.item.close.accesskey                 "C">
+<!ENTITY  event.menu.item.close.accesskey                 "c">
 <!ENTITY  event.menu.item.save.label                      "Salvează">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 <!ENTITY  event.menu.item.saveandclose.label              "Salvează și închide">
@@ -85,7 +73,7 @@
 <!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
 <!ENTITY  event.menu.item.page.setup.accesskey            "A">
 <!ENTITY  event.menu.item.print.label                     "Tipărește">
-<!ENTITY  event.menu.item.print.accesskey                 "P">
+<!ENTITY  event.menu.item.print.accesskey                 "p">
 
 <!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -117,12 +105,6 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Invită participanți…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "Verifică ortografia...">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "V">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Verifică ortografia pe măsură ce tastez">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
-<!ENTITY  event.menu.options.link.label                       "Adaugă legătură…">
-<!ENTITY  event.menu.options.link.accesskey                   "l">
 <!ENTITY  event.menu.options.timezone2.label                  "Afișare fusuri orare">
 <!ENTITY  event.menu.options.timezone2.accesskey              "f">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
@@ -154,17 +136,25 @@
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși...">
+<!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Salvează și închide">
 <!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
-<!ENTITY  event.toolbar.spellcheck.label                  "Verifică ortografia">
 <!ENTITY  event.toolbar.privacy.label                     "Intimitate">
 
+<!ENTITY  event.toolbar.save.tooltip                      "Salvează și închide">
+<!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
+<!ENTITY  event.toolbar.attachments.tooltip               "Adaugă atașamente">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Schimbă confidențialitatea">
+<!ENTITY  event.toolbar.priority.tooltip                  "Schimbă prioritatea">
+<!ENTITY  event.toolbar.status.tooltip                    "Schimbă starea">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Schimbă timp Liber/Ocupat">
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Titlu:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Amplasare:" >
@@ -172,7 +162,6 @@
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
 <!ENTITY event.categories.textbox.label                   "Adaugă o categorie nouă" >
-<!ENTITY event.categories.textbox.accesskey               "c">
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participanți:" >
@@ -229,7 +218,10 @@
 
 <!ENTITY event.reminder.multiple.label                    "Memento multiple…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Timp ca:">
+<!ENTITY event.statusbarpanel.privacy.label               "Confidențialitate:">
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Editare repetiție">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nu se repetă">
@@ -253,11 +245,11 @@
 <!ENTITY event.recurrence.pattern.every.weekday.label   "În fiecare zi a săptămânii" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "La fiecare" >
-<!ENTITY repeat.units.weeks.both                        "săptămâni" >
+<!ENTITY repeat.units.weeks.both                        "săptămână(i)" >
 <!ENTITY event.recurrence.on.label                      "Pe:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "La fiecare" >
-<!ENTITY repeat.units.months.both                       "luni" >
+<!ENTITY repeat.units.months.both                       "lună(i)" >
 <!ENTITY event.recurrence.monthly.every.label           "La fiecare" >
 <!ENTITY event.recurrence.monthly.first.label           "Prima">
 <!ENTITY event.recurrence.monthly.second.label          "A doua">
@@ -276,9 +268,8 @@
 <!ENTITY event.recurrence.repeat.recur.label            "Repetă în zilele">
 
 <!ENTITY event.recurrence.every.label                        "La fiecare:" >
-<!ENTITY repeat.units.years.both                             "ani" >
+<!ENTITY repeat.units.years.both                             "an(i)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "La fiecare" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -286,6 +277,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "ianuarie" >
@@ -334,8 +326,8 @@
 <!ENTITY event.recurrence.appointments.label            "Întâlniri" >
 <!ENTITY event.repeat.until.label                       "Repetă până în" >
 <!ENTITY event.recurrence.preview.label                 "Previzualizează">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Invitare participanți">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Sugerați intervalul orar:">
@@ -355,12 +347,12 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
 <!ENTITY event.attendee.usertype.room           "Cameră">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
 <!ENTITY event.timezone.custom.label     "Mai multe fusuri orare…">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Titlu:">
 <!ENTITY read.only.event.start.label     "Data de început:">
@@ -379,6 +371,4 @@
 <!ENTITY read.only.reminder.label        "Memento:">
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
-<!ENTITY read.only.documents.label       "Documente">
 <!ENTITY read.only.link.label            "Legătura către asocieri">
-

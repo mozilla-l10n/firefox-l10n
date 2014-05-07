@@ -1,9 +1,3 @@
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
 <!--
 
@@ -26,13 +20,11 @@
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Șterge profil...">
 <!ENTITY            deleteButton.accesskey "g">
-
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "&brandShortName; păstrează informații despre opțiunile de configurare, preferințele dumneavoastră, precum și alte elemente personale, în profilul dumneavoastră individual.">
 
 <!ENTITY            offlineState.label    "Lucrează offline">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Nu întreba la pornire">
-<!ENTITY            autoSelect.accesskey   "p">
 

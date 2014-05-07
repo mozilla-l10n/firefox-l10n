@@ -1,26 +1,11 @@
-<!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# evinteler <emil_vinteler2000@yahoo.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Fonturi">
-<!ENTITY  window.width                            "43em">
-<!ENTITY  window.macWidth                         "47em">
-<!ENTITY  window.unixWidth                        "46em">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fonturi pentru:">
 <!ENTITY  language.accesskey                      "F">
@@ -51,7 +36,6 @@
 <!ENTITY  font.langGroup.el                       "Greacă">
 <!ENTITY  font.langGroup.turkish                  "Turcă">
 <!ENTITY  font.langGroup.unicode                  "Alte limbi">
-<!ENTITY  font.langGroup.user-def                 "Definite de utilizator">
 <!ENTITY  font.langGroup.thai                     "Thailandeză">
 <!ENTITY  font.langGroup.hebrew                   "Ebraică">
 <!ENTITY  font.langGroup.arabic                   "Arabă">
@@ -75,8 +59,8 @@
 <!ENTITY minSize.label                            "Mărime minimă font:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "Fără">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
@@ -107,13 +91,13 @@
 <!ENTITY languages.customize.Fallback.greek       "Greek">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebrew">
+<!ENTITY languages.customize.Fallback.hebrew      "Ebraic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japanese">
+<!ENTITY languages.customize.Fallback.japanese    "Japoneză">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Korean">
+<!ENTITY languages.customize.Fallback.korean      "Coreean">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Thai">
@@ -124,4 +108,3 @@
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">
 <!ENTITY languages.customize.Fallback.other       "Other (incl. Western European)">
-
