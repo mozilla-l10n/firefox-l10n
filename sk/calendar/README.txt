@@ -1,9 +1,6 @@
-Informácie o inštalácii, pouívaní a nastavení programu Sunbird, 
-vrátane zoznamu známych problémov a ich riešení nájdete
-na anglickıch stránkach http://www.mozilla.org/projects/calendar/
+InformÃ¡cie o inÅ¡talÃ¡cii, pouÅ¾Ã­vanÃ­ a nastavenÃ­ doplnku Lightning,
+vrÃ¡tane zoznamu znÃ¡mych problÃ©mov a ich rieÅ¡enÃ­ nÃ¡jdete
+na anglickÃ½ch strÃ¡nkach http://www.mozilla.org/projects/calendar/
 
-Slovenské stránky venované Sunbirduu sa nachádzajú na adrese
-http://www.mozilla.sk/mozilla-sunbird
-
-Slovenské diskusné fórum venované Sunbirdu sa nachádza na adrese
+SlovenskÃ© diskusnÃ© fÃ³rum venovanÃ© Lightningu sa nachÃ¡dza na adrese
 http://forum.mozilla.sk

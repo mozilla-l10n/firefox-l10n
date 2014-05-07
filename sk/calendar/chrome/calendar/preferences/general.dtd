@@ -12,10 +12,22 @@
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Dlhý" >
 <!ENTITY pref.dateformat.short "Krátky"  >
-<!ENTITY pref.defaultlength.label "Predvolená dĺžka trvania udalosti:" >
-<!ENTITY pref.defaultlength.accesskey "P">
-<!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "e">
+
+<!ENTITY pref.defaults.label "Predvolené hodnoty pre nové položky">
+<!ENTITY pref.events.label "Udalosti">
+<!ENTITY pref.tasks.label "Úlohy">
+
+<!ENTITY pref.default_event_length.label "Predvolená dĺžka:" >
+<!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_task_none.label "Žiadna">
+<!ENTITY pref.default_task_start_of_day.label "Začiatok dňa">
+<!ENTITY pref.default_task_end_of_day.label "Koniec dňa">
+<!ENTITY pref.default_task_tomorrow.label "Zajtra">
+<!ENTITY pref.default_task_next_week.label "Budúci týždeň">
+<!ENTITY pref.default_task_offset_current.label "Relatívna k aktuálnemu času">
+<!ENTITY pref.default_task_offset_start.label "Relatívna k začiatku">
+<!ENTITY pref.default_task_offset_next_hour.label "Relatívna k nasledujúcej hodine">
 
 <!ENTITY pref.accessibility.label "Zjednodušenie ovládania" >
 <!ENTITY pref.systemcolors.label "Optimalizovať farby pre zjednodušenie ovládania" >

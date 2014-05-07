@@ -8,3 +8,5 @@
 <!ENTITY newtab.undo.undoButton "Vrátiť späť">
 <!ENTITY newtab.undo.restoreButton "Obnoviť všetky">
 <!ENTITY newtab.undo.closeTooltip "Skryť">
+<!ENTITY newtab.panel.message "Táto stránka je zaradená medzi návrhy, pretože sponzoruje Mozillu, pomáha nám presadzovať otvorenosť, inovácie a príležitosti na webe.">
+<!ENTITY newtab.panel.link.text "Ďalšie informácie…">

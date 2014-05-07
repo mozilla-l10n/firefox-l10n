@@ -31,14 +31,6 @@
 <!ENTITY day.6.name    "Piatok" >
 <!ENTITY day.7.name    "Sobota" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minúta">
-<!ENTITY calendar.global.units.minutes  "minút">
-<!ENTITY calendar.global.units.hour     "hodina">
-<!ENTITY calendar.global.units.hours    "hodín">
-<!ENTITY calendar.global.units.day      "deň">
-<!ENTITY calendar.global.units.days     "dní">
-
 <!ENTITY month.1.name "Január" >
 <!ENTITY month.2.name "Február" >
 <!ENTITY month.3.name "Marec" >

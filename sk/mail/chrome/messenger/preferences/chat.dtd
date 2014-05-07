@@ -22,3 +22,17 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "V konverzáciách odosielať notifikáciu o písaní správy">
 <!ENTITY  sendTyping.accesskey          "k">
+
+<!ENTITY  chatNotifications.label             "Po prijatí správy určenej pre mňa:">
+<!ENTITY  desktopChatNotifications.label      "Zobraziť upozornenie">
+<!ENTITY  desktopChatNotifications.accesskey  "o">
+<!ENTITY  chatSound.accesskey                 "u">
+<!ENTITY  chatSound.label                     "Prehrať zvuk">
+<!ENTITY  play.label                          "Prehrať">
+<!ENTITY  play.accesskey                      "e">
+<!ENTITY  systemSound.label                   "Predvolený systémový zvuk pre novú správu">
+<!ENTITY  systemSound.accesskey               "d">
+<!ENTITY  customsound.label                   "Použiť nasledovný zvukový súbor">
+<!ENTITY  customsound.accesskey               "a">
+<!ENTITY  browse.label                        "Prehľadávať…">
+<!ENTITY  browse.accesskey                    "h">

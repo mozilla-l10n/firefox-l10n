@@ -9,10 +9,6 @@
 
 <!ENTITY newevent.from.label                "Od" >
 <!ENTITY newevent.to.label                  "Do" >
-<!ENTITY newevent.attendees.notify.label    "Upozorniť účastníkov">
-
-<!ENTITY newevent.attendees.notifyundisclosed.label    "V pozvánkach ponechať účastníkov utajených">
-<!ENTITY newevent.attendees.notifyundisclosed.tooltip  "Ak je povolené, účastníci sa v pozvánkach vzájomne nebudú vidieť. Platí len pre e-mailové pozvánky">
 
 <!ENTITY newevent.status.label                    "Stav" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -32,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "Dokončené na &#37;">
+
+<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Upozorniť účastníkov">
+<!ENTITY event.attendees.notifyundisclosed.label    "Poslať každému účastníkovi zvlášť">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Použitím tejto voľby odošlete každému z účastníkov samostatnú pozvánku. Každá pozvánka obsahuje len účastníka, ktorému je posielaná. Identita ostatných účastníkov ostáva utajená.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
