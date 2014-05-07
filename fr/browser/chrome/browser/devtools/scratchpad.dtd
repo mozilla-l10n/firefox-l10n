@@ -53,7 +53,7 @@
 <!ENTITY viewMenu.label               "Affichage">
 <!ENTITY viewMenu.accesskey           "i">
 
-<!ENTITY lineNumbers.label             "Afficher le numéro des lignes">
+<!ENTITY lineNumbers.label             "Afficher les numéros de ligne">
 <!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.label                "Retour à la ligne">
