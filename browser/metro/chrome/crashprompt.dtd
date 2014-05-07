@@ -1,0 +1,21 @@
+ <!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY crashprompt.title           "Želite Mozilli pošiljati poročila o sesutju?">
+<!ENTITY crashprompt.message         "&brandShortName; si je pravkar opomogel po sesutju. Če pošljete poročilo o sesutju Mozilli, boste pripomogli k bolj stabilnemu in varnemu &brandShortName;u. Svoje nastavitve lahko kadarkoli spremenite.">
+<!ENTITY crashprompt.detailsLink     "Kaj vsebuje poročilo o sesutju?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "Poročilo o sesutju vsebuje nekaj podrobnosti o sesutju in vaši napravi, pa tudi posnetek stanja brskalnika, ko se je sesul.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "To lahko vključuje odprte strani, besedilo, vneseno v obrazce, vsebino odprtih sporočil, nedavno zgodovino brskanja in geolokacijske podatke, ki ste jih objavili na odprtih straneh.">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Poročila o sesutju uporabljamo za popravilo napak in izboljšave naših izdelkov. Za vaše podatke skrbimo v skladu s ">
+<!ENTITY crashprompt.privacyPolicyLink "politiko zasebnosti &brandShortName;a">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
+<!ENTITY crashprompt.includeURLLabel "Vključi naslov strani, ki sem jo obiskal">
+<!ENTITY crashprompt.acceptbutton    "Pošiljaj poročila">
+<!ENTITY crashprompt.refusebutton    "Ne pošiljaj">
+<!ENTITY crashprompt.privacyPolicy.title "Politika zasebnosti &brandShortName;a">

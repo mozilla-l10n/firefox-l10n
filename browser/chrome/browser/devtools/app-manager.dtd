@@ -18,7 +18,7 @@
 <!ENTITY device.debugApp "Razhroščevanje">
 <!ENTITY device.debugAppTooltip "Odpri razvojna orodja, povezana s to aplikacijo na napravi.">
 <!ENTITY device.name "Ime">
-<!ENTITY device.app "Aplikacija">
+<!ENTITY device.plain "Navadno (privzeto)">
 <!ENTITY device.privileged "Prednostna">
 <!ENTITY device.certified "Potrjena">
 <!ENTITY device.allow "Dovoli">
@@ -32,6 +32,10 @@
 <!ENTITY device.permissions "Pravice">
 <!ENTITY device.permissionsTooltip "Oglejte si tabelo pravic, dostopnih različnim vrstam aplikacij.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Zavihki brskalnika">
+<!ENTITY device.browserTabsTooltip "Ogled seznama zavihkov brskalnika na priključeni napravi">
+<!ENTITY device.debugBrowserTab "Razhroščevanje">
+<!ENTITY device.debugBrowserTabTooltip "Odpri razvojna orodja, povezana s tem zavihkom brskalnika na napravi">
 <!ENTITY device.help "Pomoč">
 
 <!ENTITY connection.connectTooltip "Poveži se z napravo.">
@@ -72,12 +76,19 @@
 <!ENTITY projects.updateAppTooltip "Izvedi preverjanje in posodobi aplikacijo na povezano napravo">
 <!ENTITY projects.debugApp "Razhroščevanje">
 <!ENTITY projects.debugAppTooltip "Odpri razvojna orodja, povezana s to aplikacijo">
+<!ENTITY projects.saveManifest "Shrani">
+<!ENTITY projects.saveManifestTooltip "Shrani vsebino urejevalnika manifesta spodaj.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://primer.com/aplikacija/manifest.webapp">
 <!ENTITY projects.noProjects "Ni projektov. Dodajte novo zapakirano aplikacijo spodaj (lokalna mapa) ali gostovano aplikacijo (povezava na datoteko z manifestom).">
 <!ENTITY projects.manifestEditor "Urejevalnik manifesta">
 <!ENTITY projects.manifestEditorTooltip "Uredite manifest vaše aplikacije spodaj. Z gumbom Posodobi boste shranili vaše spremembe in posodobili aplikacijo.">
 <!ENTITY projects.manifestViewer "Pregledovalnik manifesta">
 <!ENTITY projects.manifestViewerTooltip "Preizkusite manifest vaše aplikacije spodaj.">
+<!ENTITY projects.valid "Veljavno">
+<!ENTITY projects.error "Napaka">
+<!ENTITY projects.warning "Opozorilo">
+<!ENTITY projects.hosted "Gostujoči">
+<!ENTITY projects.packaged "V paketu">
 
 <!ENTITY help.title "Upravitelj aplikacij">
 <!ENTITY help.close "Zapri">
