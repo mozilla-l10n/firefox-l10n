@@ -152,7 +152,7 @@
 
 <!ENTITY malwareBlocked.title "Sajt i dyshuar për sulme!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Sajtet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna vetjake, përdorin kompjuterin tuaj për të sulmuar të tjerë, ose dëmtojnë sistemin tuaj.</p>
+<p>Sajtet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna private, përdorin kompjuterin tuaj për të sulmuar të tjerë, ose dëmtojnë sistemin tuaj.</p>
 <p>Të zotë sajtesh Web, që janë të bindur se sajti tyre është raportuar gabimisht si sajt sulmesh, mund të <a href='http://www.stopbadware.org/home/reviewinfo'>kërkojnë një shqyrtim</a>.</p>
 ">
 

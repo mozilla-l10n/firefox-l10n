@@ -2,11 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title "Zbatimet Tuaja">
+<!ENTITY aboutApps.title2                          "Zbatime">
+<!ENTITY aboutApps.header                          "Zbatimet Tuaja">
 
-<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Pa zbatime web të instaluara. Merrni ca prej ">
-<!ENTITY aboutApps.noApps.middle "shitores së zbatimeve">
-<!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.browseMarketplace "Shfletoni Firefox Marketplace-in">
+<!ENTITY aboutApps.uninstall "Çinstaloje">
+<!ENTITY aboutApps.addToHomescreen "Shtoje te Skena Hyrëse">
+<!ENTITY aboutApps.checkForUpdates "Kontrollo për Përditësime">
