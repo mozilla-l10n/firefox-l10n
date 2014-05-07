@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Açılır pencereler">
+
 <!ENTITY  blockPopups.label           "Açılır pencereleri engelle">
 <!ENTITY  blockPopups.accesskey       "e">
 <!ENTITY  popupExceptions.label       "Ayrıcalıklar...">
 <!ENTITY  popupExceptions.accesskey   "A">
 
-<!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 
 <!ENTITY  defaultFont.label           "Varsayılan yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">

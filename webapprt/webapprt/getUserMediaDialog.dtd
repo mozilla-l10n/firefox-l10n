@@ -5,13 +5,13 @@
    - to ask permissions in the webapp runtime. -->
 
 
-<!ENTITY getUserMediaDialog.title                 "Medya Paylaşımı">
-<!ENTITY getUserMediaDialog.buttonlabelaccept     "Paylaş">
-<!ENTITY getUserMediaDialog.buttonaccesskeyaccept "P">
-<!ENTITY getUserMediaDialog.buttonlabelcancel     "İptal">
-<!ENTITY getUserMediaDialog.buttonaccesskeycancel "t">
+<!ENTITY getUserMediaDialog.title                   "Medya Paylaşımı">
+<!ENTITY getUserMediaDialog.button.accept.label     "Paylaş">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "P">
+<!ENTITY getUserMediaDialog.button.cancel.label     "İptal">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "t">
 
-<!ENTITY getUserMediaDialog.video.label           "Kamera seçin">
-<!ENTITY getUserMediaDialog.video.noVideo         "Video yok">
-<!ENTITY getUserMediaDialog.audio.label           "Mikrofon seçin">
-<!ENTITY getUserMediaDialog.audio.noAudio         "Ses yok">
+<!ENTITY getUserMediaDialog.video.label             "Kamera seçin">
+<!ENTITY getUserMediaDialog.video.noVideo           "Video yok">
+<!ENTITY getUserMediaDialog.audio.label             "Mikrofon seçin">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Ses yok">

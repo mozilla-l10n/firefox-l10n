@@ -4,29 +4,16 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Yeni etkinlik…">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "e">
+
 
 <!ENTITY event.new.task                         "Yeni görev…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "k">
 
-<!ENTITY calendar.new.server.label              "Yeni takvim…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "k">
-
-<!ENTITY calendar.print.label                   "Yazdır…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "Y">
-
 <!ENTITY calendar.import.label                  "İçe aktar…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "e">
 
 <!ENTITY calendar.export.label                  "Seçimi dışa aktar…">
 <!ENTITY calendar.export.accesskey              "e">
-<!ENTITY calendar.export.selection.label        "Seçimi dışa aktar…">
-<!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "Yayınla…">
 <!ENTITY calendar.publish.accesskey             "Y">
@@ -42,13 +29,6 @@
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Görevleri takvim içinde göster">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Çok haftalı görünüm boyutu">
-<!ENTITY calendar.menu.numberofweeks.2          "İki hafta">
-<!ENTITY calendar.menu.numberofweeks.3          "Üç hafta">
-<!ENTITY calendar.menu.numberofweeks.4          "Dört hafta">
-<!ENTITY calendar.menu.numberofweeks.5          "Beş hafta">
-<!ENTITY calendar.menu.numberofweeks.6          "Altı hafta">
 
 <!ENTITY goTodayCmd.label                       "Bugün">
 <!ENTITY goTodayCmd.accesskey                   "g">

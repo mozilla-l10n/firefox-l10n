@@ -1,4 +1,17 @@
 <!ENTITY aboutDialog.title          "&brandFullName; hakkında">
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+
+
+<!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri denetle">
+<!ENTITY update.checkForUpdatesButton.accesskey   "G">
+<!ENTITY update.updateButton.label                "Güncellemek için yeniden başlat">
+<!ENTITY update.updateButton.accesskey            "y">
+<!ENTITY update.applyButtonBillboard.label        "Güncellemeyi uygula...">
+<!ENTITY update.applyButtonBillboard.accesskey    "u">
 
 <!ENTITY community.start2           "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -24,8 +37,6 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Güncelleme denetleniyor...">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Eklenti uyumluluğu denetleniyor...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; güncel">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -54,6 +65,8 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
+<!ENTITY update.unsupported.start    "Bu sistemde yeni güncellemeleri kullanamazsınız. ">
+<!ENTITY update.unsupported.linkText "Daha fazla bilgi">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

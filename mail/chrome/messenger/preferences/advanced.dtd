@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Genel">
-<!ENTITY itemDisplay.label       "Okuma ve görünüm">
+
 <!ENTITY itemUpdate.label        "Güncelleme">
-<!ENTITY itemNetworking.label    "Ağ ve disk alanı">
+
 <!ENTITY itemCertificates.label  "Onay belgeleri">
 <!-- General Settings -->
 
@@ -63,20 +63,15 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Güncellemeleri düzenli olarak denetle:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Kurulu eklentiler">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY whenUpdatesFound.label         "&brandShortName; için güncelleme bulunduğunda">
-<!ENTITY modeAskMe.label                "Ne yapılacağını bana sor">
-<!ENTITY modeAskMe.accesskey            "a">
-<!ENTITY modeAutomatic.label            "Güncellemeyi otomatik olarak indir ve kur">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
-<!ENTITY modeAutoAddonWarn.accesskey    "B">
-<!ENTITY showUpdates.label              "Güncelleme geçmişini göster">
-<!ENTITY showUpdates.accesskey          "n">
+
+<!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">
+<!ENTITY updateManual.accesskey          "a">
+<!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
+<!ENTITY updateAutoAddonWarn.accesskey   "B">
+<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
+<!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "G">
