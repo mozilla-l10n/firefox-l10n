@@ -84,8 +84,8 @@
 <!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adresa nuk u kuptua">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "Adresa nuk u kuptua">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë adresë.</li>
 </ul>
@@ -151,7 +151,7 @@
 
 <!ENTITY malwareBlocked.title "Sajt i Dyshuar për Sulme!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Sajtet e sulmeve përpiqen të instalojnë programe që grabisin të dhëna vetjake, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
+<p>Sajtet e sulmeve përpiqen të instalojnë programe që grabisin të dhëna private, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
 <p>Të zotët e sajteve Web që besojnë se sajti i tyre është raportuar gabimisht si sajt sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtimin e çështjes</a>.</p>
 ">
 

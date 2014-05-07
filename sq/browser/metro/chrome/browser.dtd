@@ -9,7 +9,8 @@
 <!ENTITY back.label            "Mbrapsht">
 <!ENTITY forward.label         "Para">
 <!ENTITY newtab.label          "Skedë e Re">
-<!ENTITY closetab.label        "Mbylle Skedën">
+<!ENTITY newPrivateTab.label   "Skedë e re Private">
+<!ENTITY closetab.label        "Mbylleni Skedën">
 
 <!ENTITY autocompleteResultsHeader.label  "Përfundimet Tuaja">
 
@@ -58,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Mesazhe">
 <!ENTITY consoleCodeEval.label     "Kod:">
 <!ENTITY consoleClear.label        "Pastroje">
+<!ENTITY consoleCopyAll.label      "Kopjoje">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kartela Burim:">
 <!ENTITY consoleErrLine.label      "Rresht:">
 <!ENTITY consoleErrColumn.label    "Shtyllë:">
+<!ENTITY consoleFollowCheckbox.label "Ndiqe">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Prije">
@@ -103,6 +106,9 @@
 <!ENTITY newTab.key "t">
 <!ENTITY newTab2.key "n">
 <!ENTITY closeTab.key "w">
+<!-- Private browsing (control+shift+key) -->
+<!ENTITY newPrivateTab.key "p">
+
 
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 <!ENTITY jsConsole.key "j">
@@ -130,3 +136,21 @@
 <!ENTITY firstRunHistory.label "Shihni nga keni qenë në Web">
 <!ENTITY firstRunWelcome.label "Mirë se vini te &brandShortName;-i">
 <!ENTITY firstRunDifferent.label "I ndryshëm që në konceptim">
+
+  <!-- LOCALIZATION NOTE (firstRunBack.label,
+                          firstRunNewTab.label,
+                          firstRunStar.label,
+                          firstRunPin.label,
+                          firstRunGotIt.label )
+       These strings appear as a content overlay the first few times a page
+       is visited. Each one has an arrow pointing toward the feature it
+       references. The code to display these strings is not enabled yet,
+       but will be soon. For now, you can see this mockup for an example
+       of how they are used:
+       https://bug949213.bugzilla.mozilla.org/attachment.cgi?id=8363973
+       -->
+<!ENTITY firstRunBack.label "Prekeni që të ktheheni mbrapsht te faqja e mëparshme">
+<!ENTITY firstRunNewTab.label "Shtoni një skedë të re që të eksploroni një sajt të ri">
+<!ENTITY firstRunStar.label "Përdorni faqerojtësit që të ruani faqe për më vonë">
+<!ENTITY firstRunPin.label "Fiksoni çfarëdo sajti te skena juaj Windows Start për hapje të shpejtë">
+<!ENTITY firstRunGotIt.label "Got it!">

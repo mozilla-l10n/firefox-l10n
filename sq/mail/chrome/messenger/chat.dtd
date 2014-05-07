@@ -33,7 +33,7 @@
 <!ENTITY closeConversationButton.tooltip "Mbylleni bashkëbisedimin">
 
 <!ENTITY addBuddyButton.label          "Shtoni Një Kontakt">
-<!ENTITY joinChatButton.label          "Hyr Në Fjalosje">
+<!ENTITY joinChatButton.label          "Hyni Në Fjalosje">
 <!ENTITY chatAccountsButton.label      "Shfaq Llogaritë">
 
 <!ENTITY status.available          "I lirë">

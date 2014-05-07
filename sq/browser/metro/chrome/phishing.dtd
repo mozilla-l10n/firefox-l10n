@@ -10,7 +10,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Kjo faqe web te <span id='malware_sitename'/> është raportuar si një faqe sulmesh dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Faqet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna vetjake, që përdorin kompjuterin tuaj për të sulmuar të tjerët, ose që dëmtojnë sistemin tuaj.</p><p>Disa faqe sulmesh shpërndajnë qëllimisht &quot;software&quot; të dëmshëm, por mjaft prej tyre janë komprometuar pa dijeninë ose lejen e të zotëve.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Faqet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna private, që përdorin kompjuterin tuaj për të sulmuar të tjerët, ose që dëmtojnë sistemin tuaj.</p><p>Disa faqe sulmesh shpërndajnë qëllimisht &quot;software&quot; të dëmshëm, por mjaft prej tyre janë komprometuar pa dijeninë ose lejen e të zotëve.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "E dyshyar Si Sajesë Web!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera mashtrime.">

@@ -11,7 +11,7 @@
 <!ENTITY forwardButton.label            "Përpara">
 <!ENTITY forwardButton.accesskey        "P">
 <!ENTITY forwardButton.tooltip          "Shkoni përpara një faqe">
-<!ENTITY homeButton.label               "Hyrje">
+<!ENTITY homeButton.label               "Kreu">
 <!ENTITY homeButton.tooltip             "Shkoni te Faqja e Fillimit për Ndihmën">
 <!ENTITY printButton.label              "Shtype">
 <!ENTITY printButton.tooltip            "Shtypeni këtë faqe">

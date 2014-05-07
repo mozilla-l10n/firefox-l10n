@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "E dyshuar për Sajesë Web">
-
-<!ENTITY safeb.palm.message.p1 "Kjo faqe është raportuar si sajesë web e hartuar për t'i tërhequr përdoruesit rrejshëm në dhënie të dhënash personale ose financiare. Dhënia e çfarëdo të dhëne personale në këtë faqe mund të sjellë vjedhje identiteti ose të tjera mashtrime. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Lexoni më tepër &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Lexoni më tepër &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "Këto lloj sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, gjatë të cilave faqe web dhe email-e të rrejshëm përdoren për të imituar burime që ju i besoni. Mund të mësoni më tepër rreth ">
-<!ENTITY safeb.palm.message.p2.linkText "se si ju mbron &brandShortName;-u">
-<!ENTITY safeb.palm.message.p2.end " nga sulmet karremëzimi.">
-
 <!ENTITY safeb.palm.accept.label "Hiqmë prej këtej!">
-<!ENTITY safeb.palm.accept.statustext "Shpjemë te kreu">
 <!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
-<!ENTITY safeb.palm.decline.statustext "Mbylle sinjalizimin" >
 <!ENTITY safeb.palm.notforgery.label2 "Kjo nuk është sajesë web…">
 <!ENTITY safeb.palm.reportPage.label "Pse është bllokuar kjo faqe?">
 

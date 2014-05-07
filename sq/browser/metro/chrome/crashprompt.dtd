@@ -8,9 +8,14 @@
 <!ENTITY crashprompt.detailsLink     "Ç'përmban një njoftim vithisjesh?">
 <!ENTITY crashprompt.detailedMessage.firstParagraph "Një njoftim vithisjesh përmban disa hollësi rreth vithisjes, makinës suaj, si edhe një pamje të gjendjes së shfletuesit tuaj në çastin që u vithis.">
 <!ENTITY crashprompt.detailedMessage.secondParagraph "Kjo mund të përfshijë gjëra të tilla si faqe të hapura, tekst të shtypur në formularë dhe lëndë të mesazheve të pambyllur, historik shfletimesh së fundi, ose gjeovendndodhje të ndarë me një sajt.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Njoftimet e vithisjes i përdorim për të provuar ndreqjen e problemeve dhe përmirësimin e produkteve tona. Të dhënat tuaj i trajtojmë ashtu siç përshkruhet te ">
-<!ENTITY crashprompt.privacyPolicyLink "Rregullat tona të privatësisë në &brandShortName;">
+<!-- LOCALIZATION NOTE (crashprompt.detailedMessage.thirdParagraphBeforeLink, crashprompt.privacyPolicyLink, crashprompt.detailedMessage.thirdParagraphAfterLink):
+     These three entities form a single sentence. crashprompt.detailedMessage.thirdParagraphBeforeLink is the start of the sentence,
+     crashprompt.privacyPolicyLink is a clickable link the middle and crashprompt.detailedMessage.thirdParagraphAfterLink is the end of the sentence.
+     -->
+<!ENTITY crashprompt.detailedMessage.thirdParagraphBeforeLink "Njoftimet e vithisjes i përdorim për të provuar ndreqjen e problemeve dhe përmirësimin e produkteve tona. Të dhënat tuaj i trajtojmë ashtu siç përshkruhet te ">
+<!ENTITY crashprompt.privacyPolicyLink "Rregullat tona të privatësisë për &brandShortName;-in">
+<!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "Përfshije adresën e faqes ku gjendesha">
 <!ENTITY crashprompt.acceptbutton    "Dërgo njoftime">
 <!ENTITY crashprompt.refusebutton    "Mos dërgo">
-<!ENTITY crashprompt.privacyPolicy.title "Rregullat privatësie &brandShortName;-i">
+<!ENTITY crashprompt.privacyPolicy.title "Rregulla privatësie &brandShortName;-i">

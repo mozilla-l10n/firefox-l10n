@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Hëpërhë nuk ka të dhëna shtesë gati rreth këtij problemi apo gabimi.</p>">
 
 <!ENTITY malformedURI.title "Adresë e Pavlefshme">
-<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendndodhjeve dhe riprovoni.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendeve dhe riprovoni.</p>">
 
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
 <!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
@@ -40,8 +40,8 @@
 <!ENTITY netTimeout.title "Mbarim Kohe për Rrjetin">
 <!ENTITY netTimeout.longDesc "<p>Sajti i kërkuar nuk iu përgjigj kërkesës për lidhje dhe shfletuesi reshti së prituri për përgjigje.</p><ul><li>Mundet që shërbyesi është duke u përballur me kërkesë të madhe ose mundet të jetë përkohësisht jashtë loje?  Riprovoni më vonë.</li><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>A është kompjuteri juaj i mbrojtur nga një &quot;firewall&quot; apo ndërmjetës?  Rregullime të pasaktë mund të ndërhyjnë te shfletimi Web.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Protokoll i Panjohur">
-<!ENTITY protocolNotFound.longDesc "<p>Adresa tregon një protokoll (p.sh. <q>wxyz://</q>) të cilin shfletuesi nuk e njeh, kështu që shfletuesi nuk mund të lidhet si duhet me këtë sajt.</p><ul><li>Po përpiqeni të hapni shërbime multimedia apo shërbim tjetër jo tekst? Shihni te sajti për kërkesa ekstra.</li><li>Disa protokolle mund të lypin &quot;software&quot; prej pale të tretë ose shtojca përpara se shfletuesi të mund t&apos;i njohë.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Protokoll i Panjohur">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa tregon një protokoll (p.sh. <q>wxyz://</q>) të cilin shfletuesi nuk e njeh, kështu që nuk mund të lidhet si duhet me këtë sajt.</p><ul><li>Mos po përpiqeni të hapni shërbime multimedia apo shërbim tjetër jo tekst? Shihni te sajti për kërkesa ekstra.</li><li>Disa protokolle mund të lypin software prej pale të tretë, ose shtojca, përpara se shfletuesi të mund t&apos;i njohë.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Shërbyesi Ndërmjetës Hodhi Poshtë Kërkesën për Lidhje">
 <!ENTITY proxyConnectFailure.longDesc "<p>Shfletuesi është formësuar të përdorë shërbyes ndërmjetës, por ndërmjetësi hodhi poshtë kërkesën për lidhje.</p><ul><li>Është i saktë formësimi i shfletuesit për ndërmjetësin? Kontrolloni rregullimet dhe provoni sërish.</li><li>A lejon shërbimi ndërmjetës lidhje prej këtij rrjeti?</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
@@ -60,7 +60,7 @@
 
 <!ENTITY malwareBlocked.title "Sajt i Dyshuar për Sulme!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Sajtet e sulmeve përpiqen të instalojnë programe që përvetësojnë të dhëna vetjake, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
+<p>Sajtet e sulmeve përpiqen të instalojnë programe që përvetësojnë të dhëna private, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
 <p>Pronarë sajtesh Web që besojnë se sajti i tyre është raportuar gabimisht si sajt sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtim të tij</a>.</p>
 ">
 

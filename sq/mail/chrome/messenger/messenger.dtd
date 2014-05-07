@@ -8,9 +8,9 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosje…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd2.label "Mbylle Skedën">
+<!ENTITY closeTabCmd2.label "Mbylleni Skedën">
 <!ENTITY closeTabCmd2.accesskey "M">
-<!ENTITY closeOtherTabsCmd2.label "Mbylli Skedat e Tjera">
+<!ENTITY closeOtherTabsCmd2.label "Mbyllini Skedat e Tjera">
 <!ENTITY closeOtherTabsCmd2.accesskey "T">
 <!ENTITY recentlyClosedTabsCmd.label "Skeda të Mbyllura Së Fundmi">
 <!ENTITY recentlyClosedTabsCmd.accesskey "F">
