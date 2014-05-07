@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Aktivne prijave">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapomni si gesla">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Prikaži gumbe za brskanje">
 <!ENTITY doNotTrack.title                                        "Sledenje">
 <!ENTITY doNotTrack.options.doNotTrack                           "Spletnim stranem sporoči, naj mi ne sledijo">
 <!ENTITY doNotTrack.options.doTrack                              "Spletnim stranem sporoči, naj mi sledijo">
@@ -35,5 +36,6 @@
 
 <!ENTITY optionsHeader.reporting.title                           "Poročevalec o sesutju">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; pošilja poročila o sesutju Mozilli, da lahko naredi brskalnik bolj varen in zanesljiv">
-<!ENTITY optionsHeader.telemetry.title                            "Telemetrija">
-<!ENTITY optionsHeader.telemetry.label                            "Pošilja statistične podatke o uporabi &brandShortName;a Mozilli, da lahko naredi vaš brskalnik boljši">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs              "Vključi naslov strani, ki sem jo obiskal">
+<!ENTITY optionsHeader.telemetry.title                           "Telemetrija">
+<!ENTITY optionsHeader.telemetry.label                           "Pošilja statistične podatke o uporabi &brandShortName;a Mozilli, da lahko naredi vaš brskalnik boljši">

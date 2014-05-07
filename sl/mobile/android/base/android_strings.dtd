@@ -54,6 +54,7 @@
 <!ENTITY back "Nazaj">
 <!ENTITY stop "Ustavi">
 <!ENTITY site_security "Varnost strani">
+<!ENTITY save "Shrani">
 
 <!ENTITY close_tab "Zapri zavihek">
 <!ENTITY one_tab "1 zavihek">
@@ -66,21 +67,42 @@
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
-<!ENTITY pref_category_search2 "Iskanje po nastavitvah">
+<!ENTITY pref_category_search3 "Iskanje">
+<!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
 <!ENTITY pref_category_display "Prikaži">
 <!ENTITY pref_category_privacy_short "Zasebnost">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
 <!ENTITY pref_category_installed_search_engines "Nameščeni iskalniki">
 <!ENTITY pref_category_add_search_providers "Dodaj več iskalnikov">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!ENTITY pref_category_search_restore_defaults "Obnovi iskalnike">
+<!ENTITY pref_search_restore_defaults "Obnovi privzeto">
+<!ENTITY pref_search_restore_defaults_summary "Obnovi privzeto">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov z dolgim pritiskom na polje za iskanje.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_developer_remotedebugging_docs "Več o tem">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
+
+<!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home_summary "Prilagodite domačo stran">
+<!ENTITY pref_category_home_panels "Plošče">
+<!ENTITY pref_home_add_panel "Dodaj ploščo">
+<!ENTITY home_add_panel_title "Dodaj novo ploščo">
+<!ENTITY home_add_panel_empty "Oprostite, plošč za dodajanje ni bilo mogoče najti.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Plošča \'&formatS;\' dodana na domačo stran">
+<!ENTITY pref_category_home_content_settings "Nastavitve vsebine">
+<!ENTITY pref_home_updates "Samodejne posodobitve">
+<!ENTITY pref_home_updates_enabled "Omogočeno">
+<!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Po meri">
@@ -132,7 +154,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_show_product_announcements "Pokaži obvestila izdelkov">
-<!ENTITY pref_sync "Uskladi">
+<!ENTITY pref_sync "Sinhroniziraj">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_private_data_history "Zgodovino brskanja in prenosov">
@@ -148,10 +170,15 @@ size. -->
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Pogosta vprašanja">
 <!ENTITY pref_vendor_feedback "Sporočite nam svoje mnenje">
-<!ENTITY pref_search_set_default "Privzet račun">
-<!ENTITY pref_search_default "Privzeto">
-<!ENTITY pref_search_remove "Odstrani">
+
+<!ENTITY pref_dialog_set_default "Nastavi kot privzeto">
+<!ENTITY pref_dialog_default "Privzeto">
+<!ENTITY pref_dialog_remove "Odstrani">
+
 <!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vašega zadnjega iskalnika.">
+
+<!ENTITY pref_panels_show "Prikaži">
+<!ENTITY pref_panels_hide "Skrij">
 
 <!ENTITY datareporting_notification_title "Statistika in podatki o &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
@@ -178,10 +205,13 @@ size. -->
 <!ENTITY datareporting_wifi_title "Lokacijske storitve organizacije &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Pomagajte izboljšati gelokacijske storitve za odprt splet, tako da dovolite &brandShortName;u zbiranje in pošiljanje anonimnih podatkov.">
 
-<!ENTITY pref_update_autodownload "Samodejne posodobitve">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Samodejno prenesi posodobitve">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Onemogočeno">
-<!ENTITY pref_update_autodownload_enabled "Omogočeno">
+<!ENTITY pref_update_autodownload_never "Onemogočeno">
+<!ENTITY pref_update_autodownload_always "Omogočeno">
 
 <!ENTITY quit "Izhod">
 
@@ -196,13 +226,14 @@ size. -->
 <!ENTITY save_as_pdf "Shrani kot PDF">
 <!ENTITY find_in_page "Najdi na strani">
 <!ENTITY desktop_mode "Zahtevaj stran za namizja">
+<!ENTITY page "Stran">
 <!ENTITY tools "Orodja">
 <!ENTITY new_tab "Nov zavihek">
 <!ENTITY new_private_tab "Nov zasebni zavihek">
 <!ENTITY close_all_tabs "Zapri vse zavihke">
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
-<!ENTITY tabs_synced "Usklajeno">
+<!ENTITY tabs_synced "Sinhronizirano">
 <!ENTITY set_image_fail "Ne morem nastaviti slike">
 <!ENTITY set_image_chooser_title "Nastavi sliko kot">
 
@@ -212,6 +243,13 @@ size. -->
 <!ENTITY find_prev "Najdi nazaj">
 <!ENTITY find_next "Naprej">
 <!ENTITY find_close "Zapri">
+
+<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_casting_to "Posredovanje na napravo">
+<!ENTITY media_play "Predvajaj">
+<!ENTITY media_pause "Ustavi">
+<!ENTITY media_stop "Prekini">
 
 <!ENTITY contextmenu_open_new_tab "Odpri v novem zavihku">
 <!ENTITY contextmenu_open_private_tab "Odpri v zasebnem zavihku">
@@ -228,10 +266,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Uredi">
 <!ENTITY contextmenu_top_sites_pin "Pripni stran">
 <!ENTITY contextmenu_top_sites_unpin "Odpni stran">
+<!ENTITY contextmenu_add_search_engine "Dodaj iskalnik">
 
 <!ENTITY pref_titlebar_mode "Naslovna vrstica">
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
 <!ENTITY pref_titlebar_mode_url "Prikaži naslov strani">
+
+<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar "Drseča naslovna vrstica">
 
 <!ENTITY history_removed "Stran odstranjena">
 
@@ -247,6 +290,7 @@ size. -->
 <!ENTITY site_settings_clear        "Počisti">
 <!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
+<!ENTITY reading_list_add "Dodaj na bralni seznam">
 <!ENTITY reading_list_added "Stran dodana na bralni seznam">
 <!ENTITY reading_list_removed "Stran odstranjena iz bralnega seznama">
 <!ENTITY reading_list_failed "Dodajanje strani na bralni seznam ni uspelo">
@@ -282,14 +326,18 @@ size. -->
 <!ENTITY home_most_recent_title "Nedavno">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
 <!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za kasneje.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Nasvet: Shranite članke na svoj bralni seznam z dolgim pritiskom na ikono &#37;I , ki se pojavi v naslovni vrstici.">
+<!ENTITY home_reading_list_hint2 "Nasvet: Shranite članke na svoj bralni seznam z dolgim pritiskom na ikono &formatI;, ki se pojavi v naslovni vrstici.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Nasvet: Shranite članke na svoj bralni seznam z dolgim pritiskom na tipko za bralni način, ki se pojavi v naslovni vrstici.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Ni bilo mogoče najti vsebine za to ploščo.">
 
 <!ENTITY pin_site_dialog_hint "Vnesi ključno besedo">
 
@@ -334,9 +382,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          iz Androida">
 <!ENTITY bookmarkhistory_import_wait "Prosimo, počakajte ...">
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Želite vključiti predloge iskalnika &formatS;?">
+<!ENTITY suggestions_prompt3 "Želite vključiti predloge iskalnika?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -371,3 +417,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
 <!ENTITY exit_guest_session_text "Podatki o brskanju v tej seji bodo izbrisani.">
+
+<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Meni">
+<!ENTITY actionbar_done "Končaj">

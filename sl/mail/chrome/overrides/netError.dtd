@@ -86,7 +86,7 @@
 <!ENTITY netTimeout.title "Dovoljeni čas pretekel">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Naslova ni bilo moč razumeti">
+<!ENTITY protocolNotFound.title "Naslova ni bilo mogoče razumeti">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Lahko da boste morali namestiti kak drug program, da pridete lahko na ta naslov</li>
