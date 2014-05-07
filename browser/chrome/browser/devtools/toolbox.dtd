@@ -28,9 +28,13 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "Unitat per defaut per las colors">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -46,38 +50,63 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
-<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
-  -  triggers page refresh label next to the settings in the advanced settings
-  -  group in the options panel which trigger page reload. -->
 
-<!ENTITY options.context.triggersPageRefresh2  "Noms de colors">
+<!ENTITY options.defaultColorUnit.name "Noms de colors">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh footnote under the advanced settings group in the
+  -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "* Per aquesta sesilha, recarga la pagina">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label3    "Activar lo desbugatge del chrome">
+<!ENTITY options.enableChrome.tooltip   "Activar aquesta opcion vos permetrà d'utilizar divèrsas aisinas de desvolopament dins lo contèxte del navigador">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+<!ENTITY options.enableRemote.label3    "Activar lo desbugatge distant">
+<!ENTITY options.enableRemote.tooltip   "Activar aquesta opcion permetrà de desbugar gràcias a las aisinas de desvolopament de las instàncias distantas de Firefox talas coma Firefox OS">
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
-<!ENTITY options.disableJavaScript.label2    "Activar JavaScript">
+<!ENTITY options.disableJavaScript.label     "Activar JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Activar aquesta opcion desactivarà JavaScript per l'onglet corrent. Aqueste paramètre serà doblidat a la tampadura de l'onglet o de la bóstia d'aisinas.">
+<!-- LOCALIZATION NOTE (options.disableCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label     "Desactivar l'escondedor *">
+<!ENTITY options.disableCache.tooltip   "Activar aquesta opcion desactivarà l'escondedor per l'onglet corrent. Aqueste paramètre serà doblidat a la tampadura de l'onglet o de la bóstia d'aisinas. ">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "Aisinas de desvolopament per defaut">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "Aisinas installadas via moduls complementaris">
+<!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
+  -  the heading of group of checkboxes corresponding to the default developer
+  -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "Botons de la bóstia d'aisinas disponibles">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* Pas gerit per la cibla actuala de la bóstia d'aisinas">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label   "Causir lo tèma de las aisinas de desvolopament :">
 <!ENTITY options.darkTheme.label             "Tèma escur">
 <!ENTITY options.lightTheme.label            "Tèma clar">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
@@ -89,11 +118,37 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
+<!ENTITY options.enablePersistentLogging.label    "Activar los jornals persistents">
+<!ENTITY options.enablePersistentLogging.tooltip  "Se activatz aquesta opcion, la consòla web voidarà pas las sortidas a cada còp que cambiatz de pagina">
+<!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
+   - label for the checkbox that toggles timestamps in the Web Console -->
+
+<!ENTITY options.timestampMessages.label      "Activar l'orodatatge">
+<!ENTITY options.timestampMessages.tooltip    "Se activatz aquesta opcion, las comandas e las sortidas dins la consòla web aficharàn l'orodatatge">
+<!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
+  -  heading of the group of Style Editor preferences in the options
+  -  panel. -->
+
+<!ENTITY options.styleeditor.label            "Editor d'estils">
+<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
+   - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "Afichar las fonts originalas">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Afichar las fonts originalas (los fichièrs Sass, per exemple) dins l'editor d'estil e l'inspector">
+<!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
+   - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
+<!ENTITY options.stylesheetAutocompletion.label      "Completar automaticament lo CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Completar automaticament las proprietats, valors e selectors CSS dins l'editor d'estil al moment de la picada">
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
   -  panel. -->
+
+<!ENTITY options.profiler.label            "Perfilador JavaScript">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
+<!ENTITY options.showPlatformData.label    "Afichar las donadas de la plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn los simbòls de la plataforma Gecko">

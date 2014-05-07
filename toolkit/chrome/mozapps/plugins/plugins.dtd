@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Verificar se i a de mesas a jorn...">
 <!ENTITY disabledPlugin                                      "Aqueste plugin es desactivat.">
 <!ENTITY blockedPlugin.label                                 "Aqueste modul complementari es estat blocat per vòstra seguretat.">
-
+<!ENTITY hidePluginBtn.label                                 "Amagar lo plugin">
 <!ENTITY installPlugin                                       "Installar lo plugin…">
 <!ENTITY managePlugins                                       "Gerir los plugins...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

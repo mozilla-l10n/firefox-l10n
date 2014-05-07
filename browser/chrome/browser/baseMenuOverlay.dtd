@@ -35,13 +35,16 @@
 <!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
 <!ENTITY helpFeedbackPage.accesskey  "B">
 
+<!ENTITY helpShowTour.label             "Visita guidada de &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "V">
+
 <!ENTITY preferencesCmdMac.label        "Preferéncias...">
 <!ENTITY preferencesCmdMac.commandkey   "Preferéncias...">
 
 <!ENTITY servicesMenuMac.label          "Servicis">
 
 <!ENTITY hideThisAppCmdMac.label        "Amagar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "Amagar &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

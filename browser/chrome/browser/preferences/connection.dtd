@@ -32,6 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label          "DNS distant">
+<!ENTITY  socksRemoteDNS.accesskey      "n">
 <!ENTITY  port.label                    "Pòrt :">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -42,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilizar aqueste servidor mandatòri per totes los protocòls">
 <!ENTITY  shareproxy.accesskey          "z">
+<!ENTITY  autologinproxy.label          "Me demandar pas de m'autentificar se lo senhal es enregistrat">
+<!ENTITY  autologinproxy.accesskey      "g">
+<!ENTITY  autologinproxy.tooltip        "Aquesta opcion vos autentifica automaticament suls servidors proxy que lo senhal n'es enregistrat. Se l'autentificacion fracassa, lo senhal vos serà demandat.">

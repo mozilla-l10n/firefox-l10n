@@ -12,5 +12,5 @@
 <!ENTITY highlightAll.accesskey "u">
 <!ENTITY highlightAll.tooltiptext "Suslinhar totas las ocurréncias de la frasa">
 <!ENTITY caseSensitive.label "Respectar la cassa">
-<!ENTITY caseSensitive.accesskey "c">
-
+<!ENTITY caseSensitive.accesskey "R">
+<!ENTITY caseSensitive.tooltiptext "Efectuar una recèrca en respectant la cassa">
