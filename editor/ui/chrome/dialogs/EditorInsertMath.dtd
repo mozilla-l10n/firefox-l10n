@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Matematické vzorce">
+
+<!ENTITY sourceEditField.label "Zadajte zdrojový kód LaTeX:">
+
+<!ENTITY options.label "Možnosti">
+<!ENTITY optionInline.label "Režim zadávania">
+<!ENTITY optionInline.accesskey "e">
+<!ENTITY optionDisplay.label "Režim zobrazenia">
+<!ENTITY optionDisplay.accesskey "R">
+<!ENTITY optionLTR.label "Smer zľava doprava">
+<!ENTITY optionLTR.accesskey "z">
+<!ENTITY optionRTL.label "Smer sprava doľava">
+<!ENTITY optionRTL.accesskey "s">
+
+<!ENTITY example.label "Príklad: ">
+<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
+<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+
+<!ENTITY insertButton.label "Vložiť">
+<!ENTITY insertButton.accesskey "V">

@@ -8,6 +8,8 @@
 <!ENTITY filterName.label "Názov filtra:">
 <!ENTITY filterName.accesskey "N">
 
+<!ENTITY recentFolders.label "Naposledy použité">
+
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Nie Spam">
 

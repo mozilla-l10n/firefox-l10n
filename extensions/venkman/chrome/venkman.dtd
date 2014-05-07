@@ -1,0 +1,85 @@
+<!--
+   -
+   - This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY MainWindow.title "Ladiaci nástroj JavaScriptu">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip      "Kliknutím sem nastavíte toto zobrazenie ako plávajúce resp. pevné">
+<!ENTITY ViewGrippy.tooltip     "Potiahnutím titulku môžete toto zobrazenie presunúť">
+<!ENTITY ViewClose.tooltip      "Kliknutím sem zavriete toto zobrazenie">
+
+<!-- help menu -->
+<!ENTITY Help.commands     "Zoznam príkazov">
+<!ENTITY Help.about        "Čo je Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Panel nástrojov Ladenie">
+<!ENTITY MenuBar.tooltip  "Panel Ponuka">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label        "Prerušenia">
+<!ENTITY BreakCol0.label    "Názov">
+<!ENTITY BreakCol1.label    "Riadok/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label       "Lokálne premenné">
+<!ENTITY LocalsCol0.header  "Názov">
+<!ENTITY LocalsCol1.header  "Typ">
+<!ENTITY LocalsCol2.header  "Hodnota">
+<!ENTITY LocalsCol3.header  "Príznaky">
+
+<!-- session view -->
+<!ENTITY Session.label      "Interaktívna sekcia">
+
+<!-- script view -->
+<!ENTITY Scripts.label         "Načítané skripty">
+<!ENTITY ScriptsSearch.label   "Hľadať">
+<!ENTITY ScriptsSearch.tooltip "Kliknutím sem vymažete vyhľadávacie pole">
+<!ENTITY ScriptsCol0.header    "Názov">
+<!ENTITY ScriptsCol1.header    "Riadok">
+<!ENTITY ScriptsCol2.header    "Dĺžka">
+
+<!-- source view -->
+<!ENTITY Source.label       "Zdrojový kód">
+<!ENTITY SourceHeader.tip   "Panel nástrojov zdrojového kódu">
+<!ENTITY SourceCol0.display "Okraj">
+<!ENTITY SourceCol1.display "Číslo riadku">
+
+<!-- stack view -->
+<!ENTITY Stack.label        "Zásobník volaní">
+<!ENTITY StackCol0.header   "Názov">
+<!ENTITY StackCol1.header   "Umiestnenie">
+
+<!-- watch view -->
+<!ENTITY Watch.label        "Sledovania">
+<!ENTITY WatchCol0.header   "Názov">
+<!ENTITY WatchCol1.header   "Typ">
+<!ENTITY WatchCol2.header   "Hodnota">
+<!ENTITY WatchCol3.header   "Príznaky">
+
+<!-- window view -->
+<!ENTITY Windows.label      "Otvorené okná">
+<!ENTITY WindowsCol0.label  "Súbor">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label          "URL">
+<!ENTITY BPProps.Line.label         "Riadok">
+<!ENTITY BPProps.PC.label           "PC">
+<!ENTITY BPProps.FunctionName.label "Funkcia">
+<!ENTITY BPProps.TriggerCount.label "Počet spúšťačov">
+<!ENTITY BPProps.OneTime.label      "Vymazať prerušenie po prvom spúšťači">
+<!ENTITY BPProps.Then.label         "potom …">
+<!ENTITY BPProps.ConditionalCheck.label      "Po spustení vykonať…">
+<!ENTITY BPProps.NeverStopRadio.label        "Pokračovať bez ohľadu na výsledok">
+<!ENTITY BPProps.AlwaysStopRadio.label       "Zastaviť bez ohľadu na výsledok">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Zastaviť, ak výsledok je true">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Predčasný návrat od volajúceho s výsledkom">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Predať výnimky volajúcemu">
+<!ENTITY BPProps.LogResultCheck.label        "Zaznamenať výsledok">
+<!ENTITY BPProps.Apply.label  "Použiť">
+<!ENTITY BPProps.Revert.label "Vrátiť zmeny">
+<!ENTITY BPProps.Close.label  "Zavrieť">
+

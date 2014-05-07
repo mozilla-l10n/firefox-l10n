@@ -88,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Hľadať a nahradiť…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "H">
+<!ENTITY findBarCmd.label "Hľadať…">
+<!ENTITY findBarCmd.accesskey "H">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Hľadať a nahradiť…">
+<!ENTITY findReplaceCmd.accesskey "d">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Hľadať ďalej">
 <!ENTITY findAgainCmd.key "G">
@@ -180,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresár">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Nastavenie účtov…">
-<!ENTITY accountManagerCmd.accesskey "N">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY accountManagerCmd2.label "Nastavenie účtov">
+<!ENTITY accountManagerCmd2.accesskey "N">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
