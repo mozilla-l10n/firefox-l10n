@@ -7,7 +7,7 @@
 <Description>EUdict - englesko-hrvatski rječnik</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Image width="16" height="16">data:image/gif;base64,R0lGODlhEAAQAKIAAH6CuJufvmJwrtze4vb4%2BLwxMcZmZtG7uyH5BAAAAAAALAAAAAAQABAAAANvSHTMs0dBZWoNpMpiyLhBMBycMhTYUT0KiS3oYnVZXEczQBXRnRkBhoLDIp4MrGHhQUI2LQ8DRxpTzZhUYNIjOAwALJbIAyiPMAOBYBBQfwPmUDrIFoQABwBG35bACXAAdmlseBFmeXBeOml2C2sJADs%3D</Image>
-<Url type="text/html" method="GET" template="http://www.eudict.com/indexHr.php">
+<Url type="text/html" method="GET" template="http://www.eudict.com/indexHr.php" resultdomain="eudict.com">
   <Param name="lang" value="engcro"/>
   <Param name="word" value="{searchTerms}"/>
   <Param name="client" value="firefox"/>
