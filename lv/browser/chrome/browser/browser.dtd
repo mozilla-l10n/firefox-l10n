@@ -50,7 +50,7 @@
 <!ENTITY fxaSignInError.label "Atkārtoti savienoties ar &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.heading "Nevar savienoties ar &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Lūdzu pierakstieties, lai turpinātu sinhronizēšanu.">
-<!ENTITY syncErrorPanel.signInButton.label "Pierakstīties">
+<!ENTITY syncErrorPanel.signInButton.label "Sākt">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
 <!ENTITY navbarOverflow.label                "Citi rīki…">
 <!ENTITY quitApplicationCmdWin.tooltip     "Aizvērt &brandShortName;">
