@@ -10,7 +10,7 @@
 <Url type="application/x-suggestions+json" method="GET" template="http://suggest.yandex.by/suggest-ff.cgi">
   <Param name="part" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://yandex.by/yandsearch">
+<Url type="text/html" method="GET" template="http://yandex.by/yandsearch" resultdomain="yandex.by">
   <Param name="text" value="{searchTerms}"/>
   <Param name="from" value="fx3"/>
   <Param name="clid" value="1909644"/>
