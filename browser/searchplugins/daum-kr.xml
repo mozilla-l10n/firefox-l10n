@@ -14,7 +14,7 @@
   <Param name="q" value="{searchTerms}" />
 </Url>
 
-<Url type="text/html" method="GET" template="http://search.daum.net/search">
+<Url type="text/html" method="GET" template="http://search.daum.net/search" resultdomain="daum.net">
   <Param name="q" value="{searchTerms}"/>
   <Param name="w" value="tot"/>
   <Param name="nil_ch" value="ffsr"/>
