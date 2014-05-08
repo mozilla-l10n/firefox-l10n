@@ -11,7 +11,7 @@
   <Param name="q" value="{searchTerms}"/>
   <Param name="type" value="list"/>
 </Url>
-<Url type="text/html" method="GET" template="https://duckduckgo.com/">
+<Url type="text/html" method="GET" template="https://duckduckgo.com/" resultdomain="duckduckgo.com">
   <Param name="q" value="{searchTerms}"/>
 </Url>
 <SearchForm>https://duckduckgo.com</SearchForm>
