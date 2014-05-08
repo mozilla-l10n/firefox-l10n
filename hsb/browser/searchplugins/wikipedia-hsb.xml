@@ -7,7 +7,7 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://hsb.wikipedia.org/wiki/Specialnje:Pytać">
+<Url type="text/html" method="GET" template="http://hsb.wikipedia.org/wiki/Specialnje:Pytać" resultdomain="wikipedia.org">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
