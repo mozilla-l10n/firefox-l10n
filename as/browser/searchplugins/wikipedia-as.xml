@@ -7,7 +7,7 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://as.wikipedia.org/wiki/বিশেষ:সন্ধান">
+<Url type="text/html" method="GET" template="http://as.wikipedia.org/wiki/বিশেষ:সন্ধান" resultdomain="wikipedia.org">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
