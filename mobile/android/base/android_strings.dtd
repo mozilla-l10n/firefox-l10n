@@ -290,3 +290,4 @@
 <!ENTITY ellipsis "…">
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Fatto">
+<!ENTITY remote_tabs_last_synced "Ultima sinc.: &formatS;">
