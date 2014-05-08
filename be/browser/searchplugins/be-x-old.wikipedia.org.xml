@@ -10,7 +10,7 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://be-x-old.wikipedia.org/wiki/Спэцыяльныя:Пошук">
+<Url type="text/html" method="GET" template="http://be-x-old.wikipedia.org/wiki/Спэцыяльныя:Пошук" resultdomain="wikipedia.org">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
