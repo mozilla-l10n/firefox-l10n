@@ -11,7 +11,7 @@
 <Param name="action" value="opensearch"/>
 <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://www.paroledigenova.net/it/index.php">
+<Url type="text/html" method="GET" template="http://www.paroledigenova.net/it/index.php" resultdomain="paroledigenova.net">
   <Param name="search" value="{searchTerms}"/>
   <Param name="fulltext" value="Ricerca" />
 </Url>
