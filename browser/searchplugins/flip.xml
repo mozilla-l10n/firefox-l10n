@@ -11,7 +11,7 @@
   <Param name="q" value="{searchTerms}"/>
   <Param name="type" value="os"/>
 </Url>
-<Url type="text/html" method="get" template="http://www.flip.kz/search">
+<Url type="text/html" method="get" template="http://www.flip.kz/search" resultdomain="flip.kz">
   <Param name="search" value="{searchTerms}"/>
 </Url>
 <SearchForm>http://flip.kz/</SearchForm>
