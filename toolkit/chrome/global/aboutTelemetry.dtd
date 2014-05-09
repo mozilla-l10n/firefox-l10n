@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  బ్రౌజర్ స్థంబనలు">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  థ్రెడ్ హ్యాంగులు">
 
 <!ENTITY aboutTelemetry.histogramsSection "  హిస్టోగ్రామ్స్">
 
@@ -25,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  హిస్టోగ్రామ్స్ పొడిగింతలచే సేకరించబడెను">
 
+<!ENTITY aboutTelemetry.toggle "  విభాగాన్ని తెరవడానికి లేక మూయడానికి నొక్కండి">
 
 <!ENTITY aboutTelemetry.emptySection "  (ఏ సమాచారమూ సేకరించలేదు)">
 
