@@ -22,7 +22,7 @@
 <!ENTITY printrangeGroup.label "ਪਰਿੰਟ ਰੇਜ਼">
 <!ENTITY allpagesRadio.label "ਸਭ ਪੇਜ਼">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "ਪੇਜ਼">
+<!ENTITY rangeRadio.label  "ਸਫ਼ਾ">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "ਇੱਥੋਂ">
 <!ENTITY frompageInput.accesskey  "r">

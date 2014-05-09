@@ -9,10 +9,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "ਰਿਪੋਰਟ ਕੀਤਾ ਗਿਆ ਹਮਲਾਵਰ ਸਫ਼ਾ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ਉੱਤੇ ਇਹ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਮਲਾਵਰ ਸਫ਼ੇ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਪਸੰਦ ਮੁਤਾਬਕ ਇਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>ਹਮਲਾਵਰ ਸਫ਼ਾ ਪ੍ਰੋਗਰਾਮ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਕਿ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰ ਸਕਦੇ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੋਰਾਂ ਉੱਤੇ ਹਮਲਾ ਕਰਨ ਲਈ ਵਰਤ ਸਕਦੇ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾ ਸਕਦੇ ਹਨ</p><p>ਕੁਝ ਹਮਲਾਵਰ ਸਫ਼ੇ ਜਾਣ-ਬੁੱਝ ਕੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਵੰਡਦੇ ਹਨ, ਜਦੋਂ ਕਈਆਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਮਾਲਕਾਂ ਦੀ ਜਾਣਕਾਰੀ ਜਾਂ ਪੁੱਛੇ ਬਿਨਾਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ</p>">
 
 
 <!ENTITY safeb.blocked.phishingPage.title2 "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦੇਣ ਨਾਲ ਕੋਈ ਵੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਜਾਂ ਹੋਰ ਕੋਈ ਗੜਬੜ ਹੋਣ ਦਾ ਖਤਰਾ ਹੈ।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ਇਸ ਕਿਸਮ ਦੀਆਂ ਵੈੱਬ ਧੋਖਾਧੜੀਆਂ ਨੂੰ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਜ਼ਾਅਲੀ ਵੈੱਬ ਸਫ਼ੇ ਅਤੇ ਈਮੇਲ ਨੂੰ ਸ਼ੁਰੂਆਤੀ ਸਰੋਤਾਂ ਵਜੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਹਨਾਂ ਉੱਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰਦੇ ਹੈ।</p>">

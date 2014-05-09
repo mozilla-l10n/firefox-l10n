@@ -6,7 +6,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "ਪੇਜ਼ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ">
+<!ENTITY loadError.label "ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ">
 <!ENTITY retry.label "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!-- Specific error messages -->
@@ -96,68 +96,63 @@
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨਾਂ ਤੋ ਇਨਕਾਰ ਕੀਤਾ">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+  <li>ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਉਹ ਠੀਕ ਹਨ।</li>
+  <li>ਆਪਣੇ ਨੈੱਟਵਰਕ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਅਤੇ ਪਤਾ ਕਰੋ ਕਿ ਪਰਾਕਸੀ ਸਰਵਰ ਕੰਮ ਕਰਦਾ ਹੈ।</li>
 </ul>
 ">
 
 <!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+  <li>ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਉਹ ਠੀਕ ਹਨ।</li>
+  <li>ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਜੰਤਰ ਡਾਟਾ ਹੈ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਚੱਲਦਾ ਹੈ</li>
 </ul>
 ">
 
 <!ENTITY redirectLoop.title "ਸਫ਼ਾ ਠੀਕ ਤਰ੍ਹਾਂ ਰੀ-ਡਾਇਰੈਕਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
+  <li>ਇਹ ਸਮੱਸਿਆ ਕਈ ਵਾਰ ਕੂਕੀਜ਼ ਅਯੋਗ ਹੋਣ ਜਾਂ ਮਨਜ਼ੂਰ ਕਰਨ ਤੋਂ ਇਨਕਾਰ ਕਰਨ ਦੇ ਕਰਕੇ ਹੋ ਸਕਦੀ ਹੈ।</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "ਸਰਵਰ ਤੋਂ ਅਣਜਾਣ ਜਵਾਬ">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਪਰਸਨਲ ਸਕਿਊਰਟੀ ਮੈਨੇਜਰ ਇੰਸਟਾਲ ਹੈ।</li>
+  <li>ਇਹ ਸਰਵਰ ਉੱਤੇ ਗ਼ੈਰ-ਸਟੈਂਡਰਡ ਸੰਰਚਨਾ ਕਰਕੇ ਵੀ ਹੋ ਸਕਦਾ ਹੈ।</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੋ ਹੋ, ਵੇਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਮਿਲੇ ਡਾਟੇ ਦੀ ਪਰਮਾਣਕਿਤਾ ਨੂੰ ਜਾਂਚਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।</li>
+  <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵੈੱਬ ਸਾਇਟ ਦੇ ਮਾਲਕ ਨੂੰ ਦੇਣ ਲਈ ਸੰਪਰਕ ਕਰੋ। ਬਦਲਵੇਂ ਰੂਪ ਵਿੱਚ, ਮੱਦਦ ਮੇਨੂ ਵਿੱਚ ਇਹ ਖਰਾਬ ਸਾਇਟ ਬਾਰੇ ਰਿਪੋਰਟ ਦੇਣ ਲਈ ਕਮਾਂਡ ਵਰਤੋਂ</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+  <li>ਇਹ ਸਰਵਰ ਦੀ ਸੰਰਚਨਾ ਕਰਕੇ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਕੋਈ ਸਰਵਰ ਦੀ ਨਕਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।</li>
+  <li>ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਵੀ ਇਸ ਸਰਵਰ ਨਾਲ ਠੀਕ ਤਰ੍ਹਾਂ ਕੁਨੈਕਟ ਹੁੰਦੇ ਰਹੇ ਹੋ ਤਾਂ ਗਲਤੀ ਆਰਜ਼ੀ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਤੁਸੀਂ ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ।</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc2 "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+  <li>ਸਾਈਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਨਾ-ਉਪਲੱਬਧ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਬਹੁਤ ਰੁੱਝੀ ਹੋ ਸਕਦੀ ਹੈ। ਕੁਝ ਪਲ਼ਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</li>
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ ਆਪਣੇ ਮੋਬਾਇਲ ਜੰਤਰ ਦਾ ਡਾਟਾ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।</li>
 </ul>
 ">
 
 
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ਾ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
 
 <!ENTITY corruptedContentError.title "ਨਿਕਾਰਾ ਸਮੱਗਰੀ ਗਲਤੀ">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਡਾਟਾ ਲੈਣ-ਦੇਣ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">

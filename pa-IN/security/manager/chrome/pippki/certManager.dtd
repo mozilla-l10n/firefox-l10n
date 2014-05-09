@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "ਹੁਣ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...">
 <!ENTITY certmgr.subjectinfo.label "ਇਸ ਨੂੰ ਜਾਰੀ">
 <!ENTITY certmgr.issuerinfo.label "ਇਸ ਵਲੋਂ ਜਾਰੀ">
-<!ENTITY certmgr.periodofvalidity.label       "Period of Validity" >
+<!ENTITY certmgr.periodofvalidity.label       "ਵੈਧਤਾ ਦਾ ਅੰਤਰਾਲ" >
 <!ENTITY certmgr.fingerprints.label "ਫਿੰਗਰਪਰਿੰਟ">
 <!ENTITY certmgr.certdetail.title "ਸਰਟੀਫਕੇਟ ਵੇਰਵਾ">
 <!ENTITY certmgr.certdetail.cn "ਆਮ ਨਾਂ (CN)">

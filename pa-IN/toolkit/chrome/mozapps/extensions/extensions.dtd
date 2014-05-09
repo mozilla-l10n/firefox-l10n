@@ -208,8 +208,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
+<!ENTITY experiment.info.label "ਇਹ ਕੀ ਹੈ? ਟੈਲੀਮੈਂਟਰੀ ਸਮੇਂ ਸਮੇਂ ਉੱਤੇ ਤਜਰਬਿਆਂ ਨੂੰ ਇੰਸਟਾਲ ਤੇ ਚਲਾ ਸਕਦੀ ਹੈ।">
+<!ENTITY experiment.info.learnmore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
+<!ENTITY experiment.info.changetelemetry "ਟੈਲੀਮੈਂਟਰੀ ਸੈਟਿੰਗ">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">

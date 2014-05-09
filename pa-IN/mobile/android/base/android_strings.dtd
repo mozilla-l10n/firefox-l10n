@@ -53,7 +53,7 @@
 <!ENTITY back "ਪਿੱਛੇ">
 <!ENTITY stop "ਰੋਕੋ">
 <!ENTITY site_security "ਸਾਈਟ ਸੁਰੱਖਿਆ">
-<!ENTITY edit_mode_cancel "Cancel">
+<!ENTITY edit_mode_cancel "ਰੱਦ ਕਰੋ">
 
 <!ENTITY close_tab "ਟੈਬ ਬੰਦ ਕਰੋ">
 <!ENTITY new_tab "ਨਵੀਂ ਟੈਬ">
@@ -73,7 +73,7 @@
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
-<!ENTITY pref_learn_more "Learn more">
+<!ENTITY pref_learn_more "ਹੋਰ ਜਾਣੋ">
 <!ENTITY pref_category_installed_search_engines "ਇੰਸਟਾਲ ਹੋਏ ਖੋਜ ਇੰਜਣ">
 <!ENTITY pref_category_add_search_providers "ਹੋਰ ਖੋਜ ਪਰੋਵਾਈਡਰ ਜੋੜੋ">
 <!ENTITY pref_category_search_restore_defaults "ਖੋਜ ਇੰਜਣ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
@@ -103,7 +103,7 @@
 <!ENTITY pref_category_home_content_settings "ਸਮੱਗਰੀ ਸੈਟਿੰਗ">
 <!ENTITY pref_home_updates "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
 <!ENTITY pref_home_updates_enabled "ਚਾਲੂ ਹੈ">
-<!ENTITY pref_home_updates_wifi "ਕੇਵਲ Wi-Fi ਉੱਤੇ">
+<!ENTITY pref_home_updates_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਉੱਤੇ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_panels "ਪੈਨਲ">
@@ -172,14 +172,14 @@ size. -->
 <!ENTITY pref_sync "ਸਿੰਕ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ">
-<!ENTITY pref_private_data_history2 "Browsing history">
+<!ENTITY pref_private_data_history2 "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
 <!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_downloadFiles2 "ਡਾਊਨਲੋਡ">
 
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
@@ -221,14 +221,14 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary "Receives Wi-Fi and cellular location data when running in the background and shares it with &vendorShortName; to improve our geolocation service">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
+<!ENTITY datareporting_wifi_geolocation_summary "ਵਾਈ-ਫਾਈ ਅਤੇ ਸੈਲੂਲਰ ਟਿਕਾਣਾ ਡਾਟਾ ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ, ਜਦੋਂ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਚੱਲਦੀ ਹੈ ਅਤੇ ਇਸ ਨੂੰ  &vendorShortName; ਨਾਲ ਸਾਡੇ ਭੂਗੋਲਿਕ-ਟਿਕਾਣਾ ਸੇਵਾ ਨਾਲ ਸਾਂਝਾ ਕਰਦੀ ਹੈ।">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਡਾਊਨਲੋਡ ਕਰੋ">
-<!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ (Wi-Fi) ਰਾਹੀਂ">
+<!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ">
 <!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
@@ -362,7 +362,7 @@ size. -->
 
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Up to &formatS;">
+<!ENTITY home_move_up_to_filter "&formatS; ਲਈ">
 
 <!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਇੱਥੇ ਦਿਓ">
 
