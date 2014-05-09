@@ -41,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ'>
 <!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।'>
-<!ENTITY sync.subtitle.failaccount.label 'ਤੁਹਾਡੇ ਜੰਤਰ ਉੱਤੇ ਅਕਾਊਂਟ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।'>
+<!ENTITY sync.subtitle.failaccount.label 'ਤੁਹਾਡੇ ਜੰਤਰ ਉੱਤੇ ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।'>
 <!ENTITY sync.subtitle.failmultiple.label 'ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਤੋਂ ਵੱਧ ਫਾਇਰਫਾਕਸ ਇੰਸਟਾਲ ਹਨ? ਹਾਲੇ &syncBrand.fullName.label; ਇੱਕੋ ਵੇਲੇ ਇੱਕ ਹੀ ਫਾਇਰਫਾਕਸ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਸਹਾਇਕ ਹੈ। &syncBrand.shortName.label; ਨੂੰ ਵਰਤਣ ਲਈ ਹੋਰ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਹਟਾ ਦਿਉ।'>
 
 <!-- Setup Success -->
@@ -73,7 +73,7 @@
 <!ENTITY sync.button.ok.label 'ਠੀਕ ਹੈ'>
   
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (deprecated)'>
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (ਬਰਤਰਫ਼)'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'ਬੁੱਕਮਾਰਕ ਮੇਨੂ'>
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਅਤੇ &formatS2;ਸਹਿਮਤ ਹਾਂ।'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਅਕਾਊਂਟ ਹੈ? ਸਾਇਨ ਇਨ'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 ਜਾਂ ਪਹਿਲਾਂ'>
 <!ENTITY fxaccount_create_account_unknown_error 'ਖਾਤਾ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ'>
 
@@ -162,7 +162,7 @@
 <!ENTITY fxaccount_sign_in_create_account_instead 'ਖਾਤਾ ਬਣਾਓ'>
 <!ENTITY fxaccount_sign_in_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
-<!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਅਕਾਊਂਟ'>
+<!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਖਾਤਾ'>
 <!ENTITY fxaccount_account_verified_description2 'ਤੁਹਾਡਾ ਡਾਟਾ ਕੁਝ ਕੁ ਪਲ਼ਾ ਵਿੱਚ ਸਿੰਕ ਹੋਣਾ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।'>
 
 <!ENTITY fxaccount_update_credentials_header 'ਸਾਇਨ ਇਨ'>
