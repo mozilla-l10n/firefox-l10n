@@ -10,7 +10,7 @@
 <Url type="application/x-suggestions+json" method="GET" template="http://suggests.go.mail.ru/ff3">
   <Param name="q" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://go.mail.ru/search">
+<Url type="text/html" method="GET" template="http://go.mail.ru/search" resultdomain="mail.ru">
   <Param name="q" value="{searchTerms}"/>
   <Param name="utf8in" value="1"/>
   <Param name="fr" value="ff3tb"/>

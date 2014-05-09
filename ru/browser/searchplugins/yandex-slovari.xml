@@ -10,7 +10,7 @@
 <Url type="application/x-suggestions+json" method="GET" template="http://suggest-slovari.yandex.ru/suggest-os">
   <Param name="part" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://slovari.yandex.ru/search.xml">
+<Url type="text/html" method="GET" template="http://slovari.yandex.ru/search.xml" resultdomain="slovari.yandex.ru">
   <Param name="text" value="{searchTerms}"/>
   <Param name="from" value="fx3"/>
 </Url>
