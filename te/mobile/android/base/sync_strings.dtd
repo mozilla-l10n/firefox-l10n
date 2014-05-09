@@ -178,8 +178,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.">
 <!ENTITY fxaccount_status_needs_credentials "అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.">
 <!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యిందిచ కానీ ఆటోమెటిగ్గా సిక్రనించడం లేదు. సింక్రనించడం మొదలుపెట్టడానికి తాకండి.">
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">

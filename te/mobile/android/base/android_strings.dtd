@@ -54,7 +54,7 @@
 <!ENTITY back "వెనుకకు">
 <!ENTITY stop "ఆపు">
 <!ENTITY site_security "సైటు భద్రత">
-
+<!ENTITY edit_mode_cancel "రద్దుచేయి">
 
 <!ENTITY close_tab "టాబ్‌ను మూయి">
 <!ENTITY one_tab "1 టాబ్">
@@ -157,14 +157,14 @@ size. -->
 <!ENTITY pref_sync "సింక్">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
-
+<!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 <!ENTITY pref_private_data_formdata "ఫారాలు &amp; వెతుకుడు చరిత్ర">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
-
+<!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
@@ -179,9 +179,9 @@ size. -->
 
 <!ENTITY pref_panels_show "చూపించు">
 <!ENTITY pref_panels_hide "దాచు">
-
-
-
+<!ENTITY pref_panels_reorder "క్రమాన్ని మార్చు">
+<!ENTITY pref_panels_move_up "పైకి జరుపు">
+<!ENTITY pref_panels_move_down "కిందకి జరుపు">
 
 <!ENTITY datareporting_notification_title "&brandShortName; గణాంకాలు &amp; భోగట్టా">
 <!ENTITY datareporting_notification_action_long "ఏయే సమాచారాన్ని పంచుకోవాలో ఎంచుకోండి">
@@ -205,8 +205,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
-
-
+<!ENTITY datareporting_wifi_title2 "కిందికి జరుపు">
+<!ENTITY datareporting_wifi_geolocation_summary "మా భౌగోళిక స్థాన సేవను మెరుగుపరచడానికి నేపథ్యంలో నడుస్తూ  వై-ఫై మరియు సెల్యులర్ ప్రాంత భోగట్టాను అందుకుని దాన్ని &vendorShortName;కు పంపిస్తుంది.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -219,7 +219,7 @@ size. -->
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడిగింతలు">
-
+<!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -342,6 +342,8 @@ size. -->
 <!ENTITY home_default_empty "ఈ ప్యానల్ కొరకు ఏ కాంటెంట్ కనుగొనబడలేదు.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "తిరిగి &formatS; కి">
 
 <!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
 
