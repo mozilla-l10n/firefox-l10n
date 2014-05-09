@@ -7,7 +7,7 @@
 <Description>Iskalnik Ceneje.si</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Image height="16" width="16" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAzUlEQVQ4EWNgGGjACHLA39uz1R7vqLjJz83EwMnByMDEyoTTXWyhL8B6YAqY/j3bJfX3Qu1NmAAh+tdqif8oakACGIIoKlA5DyYL/wdhmCgLjEEsDfImMkDlIctA2f8+30NRw8nOyADCMIAiCRNEpv/ssPqL7EUmNiYGEIYBlr+//sHYWGn0UEdXxPLtO34D0DWg81k+foUHKLocUXxwaCD7EZuuP0Bvfge6FGSZjBQrA7K3wKGBLIDNAGQxUtQi68NgE3I1hgZsAlQxBAAKUEIHR/DoRAAAAABJRU5ErkJggg==</Image>
-<Url type="text/html" method="GET" template="http://www.ceneje.si/search_new.aspx">
+<Url type="text/html" method="GET" template="http://www.ceneje.si/search_new.aspx" resultdomain="ceneje.si">
 	<Param name="q" value="{searchTerms}" />
 	<Param name="FF-SearchBox" value="1" />
 </Url>	
