@@ -179,7 +179,7 @@
 <!ENTITY fxaccount_status_needs_credentials "Kan inte ansluta. Tryck för att logga in.">
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
 
-
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt, Tryck för att starta synkningen.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords "Lösenord">
