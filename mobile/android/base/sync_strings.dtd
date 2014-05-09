@@ -14,21 +14,21 @@
 <!ENTITY sync.title.pair.label "उपकरणाची जोडी बनवा">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "तुमचे नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर \&quot;&syncBrand.shortName.label; रचा\&quot; निवडा.">
+<!ENTITY sync.subtitle.connect.label "तुमचे नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर “&syncBrand.shortName.label; रचा” निवडा.">
 <!ENTITY sync.subtitle.header2.label "हा संदेश तुमच्या दुसऱ्या उपकरणावर भरा">
-<!ENTITY sync.subtitle.connectlocation2.label "तुमच्या दुसऱ्या उपकरणाच्या Firefox पर्यायांमधील &syncBrand.shortName.label; भागात &sync.title.pair.label; निवडा.">
-<!ENTITY sync.subtitle.pair.label "कार्यान्वित करण्यासाठी, आपल्या दुसऱ्या उपकरणावर \&quot;उपकरणाची जोडणी करा\&quot; निवडा.">
+<!ENTITY sync.subtitle.connectlocation2.label "तुमच्या दुसऱ्या उपकरणाच्या Firefox पर्यायांमधील &syncBrand.shortName.label; भागात “&sync.title.pair.label;” निवडा.">
+<!ENTITY sync.subtitle.pair.label "कार्यान्वित करण्यासाठी, आपल्या दुसऱ्या उपकरणावर “उपकरणाची जोडणी करा” निवडा.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "कसे ते सांगा.">
-<!ENTITY sync.link.advancedsetup.label "प्रगत सेटअप...">
-<!ENTITY sync.link.nodevice.label "माझ्या सोबत उपकरण नाही...">
+<!ENTITY sync.link.advancedsetup.label "प्रगत सेटअप…">
+<!ENTITY sync.link.nodevice.label "माझ्या सोबत उपकरण नाही…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "इतर उपकरणासाठी प्रतिक्षा करत आहे...">
+<!ENTITY sync.jpake.subtitle.waiting.label "इतर उपकरणासाठी प्रतिक्षा करत आहे…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "तुमची &syncBrand.fullName.label; खाते माहिती भरा.">
+<!ENTITY sync.subtitle.account.label "तुमची &syncBrand.fullName.label; खाते माहिती भरा">
 <!ENTITY sync.input.username.label "खाते नाव">
 <!ENTITY sync.input.password.label "पासवर्ड">
 <!ENTITY sync.input.key.label "पुनःप्राप्ति कि">
@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "कृपया पुनःप्रयत्न करा.">
-<!ENTITY sync.pair.connectlocation.label "तुमचं नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर \&quot;&syncBrand.shortName.label;ची मांडणी करा\&quot; निवडा, आणि नंतर \&quot;माझं खातं आहे.\&quot; निवडा">
+<!ENTITY sync.pair.connectlocation.label "तुमचं नवीन उपकरण कार्यान्वित करण्यासाठी, उपकरणावर “&syncBrand.shortName.label;ची मांडणी करा” निवडा, आणि नंतर “माझं खातं आहे.” निवडा">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "पर्याय">
@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "कशाचे ताळमेळ करायचे">
-<!ENTITY sync.configure.engines.sync.my.title.label "ताळमेळ करा तुमचे...">
+<!ENTITY sync.configure.engines.sync.my.title.label "ताळमेळ करा तुमचे…">
 <!ENTITY sync.configure.engines.title.bookmarks "वाचनखूणा">
 <!ENTITY sync.configure.engines.title.passwords "पासवर्डस्">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
@@ -91,7 +91,7 @@
 <!ENTITY sync.notification.configure.saved "तुमच्या निवडी साठवलेल्या गेल्या आहेत.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "खाते नाव किंवा पासवर्ड चुकीचे">
+<!ENTITY sync.invalidcreds.label "खाते नाव किंवा पासवर्ड चुकीचे.">
 <!ENTITY sync.invalidserver.label "कृपया वैध सर्वर URL द्या">
 <!ENTITY sync.verifying.label "तपासत आहे…">
 <!ENTITY sync.new.recoverykey.status.incorrect "पुन:प्राप्ति की चुकीची. परत प्रयत्न करा.">
@@ -101,7 +101,7 @@
 <!ENTITY sync.button.send.label "पाठवा">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; मांडा">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "टॅब पाठवण्यासाठी &syncBrand.shortName.label; मांडा">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "तुमच्या उपकरणावरुन इतर उपकरणांवर टॅब्स पाठवण्यासाठी &syncBrand.fullName.label; मांडा">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "तुमच्या उपकरणावरुन इतर उपकरणांवर टॅब्स पाठवण्यासाठी &syncBrand.fullName.label; मांडा.">
 <!ENTITY sync.text.tab.sent.label "तुमचा टॅब पाठवला गेला!">
 <!ENTITY sync.text.tab.not.sent.label "तुमचा टॅब पाठवण्यात एक अडचण होती.">
 <!-- Firefox Account strings. -->
@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता धोरण">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ला जोडा">
-<!ENTITY fxaccount_getting_started_description "तुमच्या टॅब्स, वाचनखूणा, पासवर्डस् आणि बरंच यांच्या ताळमेळीसाठी साइन इन करा. ">
+<!ENTITY fxaccount_getting_started_description "तुमच्या टॅब्स, वाचनखूणा, पासवर्डस् आणि बरंच यांच्या ताळमेळीसाठी साइन इन करा.">
 <!ENTITY fxaccount_getting_started_get_started "सुरु करा">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?">
 <!-- Localization note: the Firefox below should not change with the
@@ -178,7 +178,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "तुमचे खाते प्रमाणित करण्याची गरज आहे. तपासणी इमेल परत पाठवण्यासाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_credentials "जोडले नाही गेले. साइन इनसाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_upgrade "साइन इनसाठी तुम्हाला &brandShortName; अद्ययावत करण्याची गरज आहे.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये \&quot;माहितीचे आपोआप ताळमेळ\&quot; &gt; माहिती वापर टॉगल करा.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. ताळमेळ सुरु करण्यासाठी टिचकी द्या.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
