@@ -31,7 +31,7 @@ was trying to connect. -->
 गैर वापर करत आहे.</b>">
 <!ENTITY certerror.expert.contentPara2 "जोपर्यंत तुम्हाला स्थळ विश्वासर्ह ओळख 
 का वापरत नाही याचे कारण माहित असल्याशिवाय अपवाद जोडू नका.">
-
-
+<!ENTITY certerror.addTemporaryException.label "साइटला भेट द्या">
+<!ENTITY certerror.addPermanentException.label "नेहमीकरीता अपवाद समाविष्ट करा">
 
 <!ENTITY certerror.technical.heading "तांत्रीक तपशील">

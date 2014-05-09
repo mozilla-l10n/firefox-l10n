@@ -9,18 +9,19 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!ENTITY aboutSupport.crashes.title "क्रॅश अहवाल">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "अहवाल ID">
-
-
-
+<!ENTITY aboutSupport.crashes.sendDate "सादर केलेले">
+<!ENTITY aboutSupport.crashes.allReports "सर्व क्रॅश अहवाल">
+<!ENTITY aboutSupport.crashes.noConfig "ह्या ॲप्लिकेशनला क्रॅश अहवाल सादर करण्यास संरचीत केले नाही.">
 
 <!ENTITY aboutSupport.extensionsTitle "वाढ">
 <!ENTITY aboutSupport.extensionName "नाव">
 <!ENTITY aboutSupport.extensionEnabled "समर्थीत">
 <!ENTITY aboutSupport.extensionVersion "आवृत्ती">
-
+<!ENTITY aboutSupport.extensionId "ID">
 
 
 

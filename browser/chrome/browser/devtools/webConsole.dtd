@@ -72,6 +72,7 @@
 <!ENTITY btnConsoleWarnings     "सावधानता">
 <!ENTITY btnConsoleLog          "लॉग">
 
+
 <!ENTITY filterOutput.placeholder "आउटपुट फिल्टर करा">
 
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट नष्ट करा">

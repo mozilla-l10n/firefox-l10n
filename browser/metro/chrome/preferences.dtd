@@ -20,6 +20,7 @@
 <!ENTITY clearPrivateData.cookies                                "कूकिज">
 
 
+<!ENTITY clearPrivateData.formSearchHist                         "फॉर्म आणि शोध इतिहास">
 
 
 
@@ -31,8 +32,7 @@
 
 
 
-
-
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; क्रॅश अहवाल सुपूर्द करून, Mozilla ला आपले ब्राउजर अाणखी स्थीर व सुरक्षीत करण्यास मदत करते">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "Include the address of the page I was on">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
 

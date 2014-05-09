@@ -4,19 +4,22 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 
+<!ENTITY urlbar.emptytext      "पत्ता शोधा किंवा द्या">
 
 
 
 
 
 
+
+<!ENTITY appbarJSShell.label           "जावास्क्रिप्ट शेल उघडा">
 <!ENTITY appbarFindInPage2.label       "पानामध्ये शोधा">
 
 
 
 
 
-
+<!ENTITY recentHistoryHeader.label   "अलीकडील इतिहास">
 
 <!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
                         narrowBookmarksHeader.label,
@@ -26,20 +29,21 @@
      and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
       -->
 
+<!ENTITY narrowRecentHistoryHeader.label "अलीकडील इतिहास">
+<!ENTITY narrowRemoteTabsHeader.label    "दुरस्त टॅब्स">
 
-
-
-
-
+<!ENTITY downloadShowPage.label    "पृष्ठावर जा">
+<!ENTITY downloadShow2.label       "शोधा">
 <!ENTITY downloadOpen2.label       "उघडा">
 <!ENTITY downloadCancel.label      "रद्द करा">
 
 <!ENTITY downloadResume.label      "पुन्हा चालु करा">
-<!ENTITY downloadRetry.label       "पुनःप्रयत्न करा">
+<!ENTITY downloadRetry.label       "पुन्हा प्रयत्न करा">
 <!ENTITY downloadRemove.label      "काढून टाका">
-
+<!ENTITY downloadDelete.label      "नष्ट करा">
 <!ENTITY downloadFailed.label      "अपयशी">
 
+<!ENTITY allBookmarks.label        "सर्व वाचणखुणा पहा">
 
 <!ENTITY consoleAll.label          "सर्व">
 <!ENTITY consoleErrors.label       "त्रुटी">
@@ -62,34 +66,40 @@
 <!ENTITY contextTextSelect.label           "निवडा">
 
 <!-- LINK CONTEXT MENU -->
-
-
+<!ENTITY contextCopyLinkHref.label         "दुव्याची प्रत बनवा">
+<!ENTITY contextBookmarkLinkHref.label     "दुव्याला वाचनखुण लावा">
 <!-- IMAGE CONTEXT MENU -->
 <!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
      (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 
-
-
+<!ENTITY contextCopyImageLocation.label    "प्रतिमेच्या ठिकाणाची प्रत बनवा">
+<!ENTITY contextOpenImageTab.label         "प्रतिमा नविन टॅबमध्ये उघडा">
 <!-- VIDEO CONTEXT MENU -->
 
-
+<!ENTITY contextSaveVideoLib.label         "व्हिडिओ लायब्ररीमध्ये साठवा">
+<!ENTITY contextCopyVideoLocation.label    "व्हिडिओच्या ठिकाणाची प्रत बनवा">
+<!ENTITY contextOpenVideoTab.label         "व्हिडिओ नविन टॅबमध्ये उघडा">
 <!-- KEYBOARD SHORTCUTS -->
 
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
-
-
-
-
-
-
-
-
-
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
 <!-- Private browsing (control+shift+key) -->
 <!-- DEVELOPER SHORTCUTS (control+shift+key) -->
 
-
-
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
 <!-- FIRT RUN EXPERIENCE -->
 <!-- LOCALIZATION NOTE (firstRunTabs.label,
                         firstRunTopSites.label,
@@ -101,7 +111,9 @@
      has an arrow pointing toward the feature it references.
      -->
 
-
+<!ENTITY firstRunTabs.label "टॅब्स शोधत आहात? फक्त खाली ओढा किंवा उजवी-क्लिक द्या">
+<!ENTITY firstRunTopSites.label "बहुतांशवेळी भेट दिलेल्या स्थळांवर जा">
+<!ENTITY firstRunBookmarks.label "नंतरकरिता साठवलेले पृष्ठे शोधा">
 
 
 
