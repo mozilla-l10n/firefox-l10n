@@ -343,6 +343,8 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Up till &formatS; ">
+
 <!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
 <!ENTITY filepicker_title "Välj fil">
