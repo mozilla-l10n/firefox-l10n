@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "Rajtarki wobhladowaka">
 <!ENTITY device.browserTabsTooltip "Lisćinu rajtarkow we wobhladowaku zwjazaneho grata pokazać">
 <!ENTITY device.debugBrowserTab "Pytanje za zmylkami">
-<!ENTITY device.debugBrowserTabTooltip "Wuwiwarske nastroje zwjazane z tutym rjatarkom wobhladowaka na graće wočinić">
+<!ENTITY device.debugBrowserTabTooltip "Wuwiwarske nastroje zwjazane z tutym rajtarkom wobhladowaka na graće wočinić">
 <!ENTITY device.help "Pomoc">
 
 <!ENTITY connection.connectTooltip "Z gratom zwjazać">
