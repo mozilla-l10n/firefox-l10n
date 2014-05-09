@@ -72,7 +72,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "संचारन साधनपट्टी">
+
 <!ENTITY personalbarCmd.label "वाचनखुणा साधनपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना ओळखचिन्ह लावा">
@@ -227,6 +227,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "रेस्पाँसिव्ह रूपरेखा अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -435,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "दुवा ईमेल करा…">
 <!ENTITY emailPageCmd.accesskey       "E">
-
 <!ENTITY savePageCmd.label            "पृष्ठ असे साठवा…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -712,51 +713,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY pluginNotification.width "28em">
 
 
 
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
 
-<!ENTITY navbarCmd.accesskey           "N">
-<!ENTITY addonBarCmd.label             "ॲडऑन पट्टी">
-<!ENTITY addonBarCmd.accesskey         "A">
-<!ENTITY throbberItem.title            "कृती निदर्शक">
-<!ENTITY appMenuButton.label           "मेन्यू">
-<!ENTITY appMenuButton.tooltip         "&brandShortName; मेन्यू उघडा">
-
-<!ENTITY feedButton.tooltip            "या पानावर सभासद व्हा…">
-<!ENTITY bookmarksButton.tooltip       "आपले ओळखचिन्ह दर्शवा">
-<!ENTITY historyButton.tooltip         "तुम्ही नुकतेच पाहिलेले पाने दर्शवा">
-<!ENTITY viewTabsOnTop.label           "शीर्षकरिता टॅब्स">
-<!ENTITY viewTabsOnTop.accesskey       "T">
-<!ENTITY appMenuEdit.label             "संपादीत करा">
-<!ENTITY appMenuToolbarLayout.label    "साधनपट्टीची मांडणी…">
 <!ENTITY appMenuSidebars.label         "बाजूच्यापट्ट्या">
-<!ENTITY appMenuFind.label             "शोधा…">
-<!ENTITY appMenuUnsorted.label         "विनाक्रम ओळखचिन्हे">
-<!ENTITY appMenuWebDeveloper.label     "वेब डेव्हलपर">
-<!ENTITY appMenuGettingStarted.label   "सुरवात">
-<!ENTITY appMenuSafeMode.label         "बंद ॲडऑन्ससह पुनःसुरू करा…">
-<!ENTITY appMenuSafeMode.accesskey     "R">
-<!ENTITY cutButton.tooltip             "कापा">
-<!ENTITY copyButton.tooltip            "प्रत बनवा">
-<!ENTITY pasteButton.tooltip           "चिकटवा">
-<!ENTITY zoomOutButton.tooltip         "छोटे करा">
-<!ENTITY zoomInButton.tooltip          "मोठे करा">
-<!ENTITY zoomControls.label            "लहान/मोठे करा नियंत्रणे">
-<!ENTITY addonBarCloseButton.tooltip   "ॲडऑन पट्टी बंद करा">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "मागे/पुढे">
-<!ENTITY viewBookmarksSidebar.label    "बाजूच्यापट्टीमध्ये दाखवा">
-<!ENTITY bookmarksItem.title           "वाचनखुणा">
-<!ENTITY openLocationCmd.label         "स्थळ उघडा…">
-<!ENTITY openLocationCmd.accesskey     "L">
-<!ENTITY bookmarksMenuButton.tooltip   "तुमचे ओळखचिन्हे दाखवा">
 
-<!ENTITY tabGroupsButton.tooltip       "टॅब्स्ला गटामध्ये लावा">
-<!-- end of strings to be removed post-Australis -->
+

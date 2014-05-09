@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;वर आपले स्वागत">
 
+<!ENTITY aboutAccountsConfig.startButton.label "सुरुवात करा">
 
-
+<!ENTITY aboutAccountsConfig.manage.label "व्यवस्थापन करा">

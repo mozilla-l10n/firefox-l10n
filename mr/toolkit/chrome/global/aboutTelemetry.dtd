@@ -10,13 +10,15 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection "  हळू SQL विधाने">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राऊझर हँग्ज">
+<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राऊजर हँग्ज">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड हँग्ज">
 
 <!ENTITY aboutTelemetry.histogramsSection "  हिस्टोग्राम्स">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सोपे मापन">
 
+<!ENTITY aboutTelemetry.addonDetailsSection "  ॲड-ऑन तपशील">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  विलंबीत लिखाणे">
 

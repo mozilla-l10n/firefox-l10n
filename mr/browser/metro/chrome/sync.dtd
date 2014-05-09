@@ -5,8 +5,10 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
-
+<!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label;ची मांडणी करा">
 <!-- Flyout when setting up sync -->
+
+<!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; ची मांडणी करा">
 
 
 

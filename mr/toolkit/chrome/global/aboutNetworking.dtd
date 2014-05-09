@@ -16,16 +16,16 @@
 <!ENTITY aboutNetworking.port                  "पोर्ट">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-
+<!ENTITY aboutNetworking.active                "सक्रीय करा">
 <!ENTITY aboutNetworking.idle                  "निष्क्रिय">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.host                  "यजमान">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "पाठवा">
+<!ENTITY aboutNetworking.received              "प्राप्त झाले">
+<!ENTITY aboutNetworking.family                "परिवार">
+<!ENTITY aboutNetworking.addresses             "पत्ता">
+<!ENTITY aboutNetworking.expires               "वेळ समाप्ति (सेकंद)">
+<!ENTITY aboutNetworking.messagesSent          "पाठवलेले संदेश">
+<!ENTITY aboutNetworking.messagesReceived      "प्राप्त संदेश">
+<!ENTITY aboutNetworking.bytesSent             "पाठवलेले बाइट्स">
+<!ENTITY aboutNetworking.bytesReceived         "प्राप्त बाइट्स">

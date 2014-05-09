@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "काढून टाका">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
 <!ENTITY cmd.showPreferencesWin.label         "पर्याय">
 <!ENTITY cmd.showPreferencesWin.tooltip       "या ॲडऑनचे पर्याय बदला">
 <!ENTITY cmd.showPreferencesUnix.label        "पसंती">
@@ -216,3 +217,12 @@
 <!ENTITY eula.accept                          "स्वीकारा व प्रतिष्ठापीत करा…">
 
 <!ENTITY settings.path.button.label           "ब्राउज करा…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "आणखी शिका">
+
+
+

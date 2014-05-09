@@ -8,10 +8,12 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-
-
-
-
+<!ENTITY update.checkForUpdatesButton.label       "अद्यावत तपासा">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label                "सुधारणाकरीता पुन्हा सुरू करा">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "सुधारणा लागू करा…">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

@@ -50,6 +50,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "दृष्य">
+<!ENTITY viewMenu.accesskey           "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "संपादित करा">
 <!ENTITY editMenu.accesskey           "E">
 
