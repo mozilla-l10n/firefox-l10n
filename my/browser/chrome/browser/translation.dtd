@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
-
+<!ENTITY translation.thisPageIsIn.label         "ဤပေဂျ့်သည်">
+<!ENTITY translation.translateThisPage.label    "ယခုစာမျက်နှာ အားဘာသာ ပြန်မည်လား?">
+<!ENTITY translation.translate.button           "ဘာသာပြန်ပါ">
 <!ENTITY translation.notNow.button              "ယခု မဟုတ်သေးဘူး">
 
+<!ENTITY translation.translatingContent.label   "စာမျက်နှာ အား ဘာသာပြန်နေသှ်">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -30,11 +33,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "ဤစာမျက်နှာ၏ မူရင်းဘာသာမှာ">
 <!ENTITY translation.translatedTo.label         "သို့">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "မူရင်းအားပြပါ">
+<!ENTITY translation.showTranslation.button     "ဘာသာပြန်ထားသှ် အားပြပါ">
 
-
+<!ENTITY translation.errorTranslating.label     "ယခုစာမျက်နှာအား ဘာသာပြန်ရာတွင် အခက်အခဲတစ်ခုရှိသှ်">
 <!ENTITY translation.tryAgain.button            "ထပ်ကြိုးစားပါ">
 
 <!ENTITY translation.options.menu               "ရွေးစရာများ">

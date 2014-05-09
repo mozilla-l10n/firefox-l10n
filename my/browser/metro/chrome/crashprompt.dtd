@@ -16,6 +16,6 @@
 <!ENTITY crashprompt.privacyPolicyLink "&brandShortName; ၏လုံခြုံရေးပေါ်လစီ">
 <!ENTITY crashprompt.detailedMessage.thirdParagraphAfterLink ".">
 <!ENTITY crashprompt.includeURLLabel "ကျွန်ုပ်ရောက်နေခဲ့သောစာမျက်နှာလိပ်စာပါထည့်ပေးလိုက်မည်။">
-
-
-
+<!ENTITY crashprompt.acceptbutton    "အစီရင်ခံစာပေးပို့">
+<!ENTITY crashprompt.refusebutton    "မပေးပို့">
+<!ENTITY crashprompt.privacyPolicy.title "&brandShortName; ၏ပရိုက်ဗစ်ဆီပေါ်လစီ">

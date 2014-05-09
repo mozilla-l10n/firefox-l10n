@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "အသံ ပြန်ဖွင့်ပါ">
 <!ENTITY fullscreenButton.enterfullscreenlabel "မျက်နှာပြင်အပြည့်">
 <!ENTITY fullscreenButton.exitfullscreenlabel "ဖန်သားပြင်အပြည့်မှ ထွက်ပါ">
-
+<!ENTITY castingButton.castingLabel "စကရင်ဆီသို့ ရွေ့">
 
 <!ENTITY stats.media "မီဒီယာ">
 <!ENTITY stats.size "အရွယ်အ​စား">

@@ -8,32 +8,34 @@
 
 <!ENTITY optionsHeader.title                                     "ရွေးစရာများ">
 <!ENTITY optionsHeader.char.title                                "အက္ခရာ စာဝှက်ရေးသားခြင်း">
+<!ENTITY optionsHeader.char.autodetect.label                     "အလိုအလျှောက်ရှာဖွေ">
+<!ENTITY optionsHeader.char.options.label                        "အက်ပလီကေးရှင်းဘားတွင် encoding အပြင်အဆင်ပြပါ ">
 
-
-
-
-
-
+<!ENTITY clearPrivateData.title                                  "သီးသန့်အချက်အလက်များအားရှင်းပါ">
+<!ENTITY clearPrivateData.label                                  "သင်၏ဘယောက်ဆာ မှတ်တမ်းများ၊ ပတ်စ်ဝတ်များ၊ ကွတ်ကီးများ နှင့် ဖောင် အချက်အလက်များအား ဖျက်ပါ">
+<!ENTITY clearPrivateData.button                                 "ရှင်းပါ">
+<!ENTITY clearPrivateData.done                                   "ပြီးပြီ">
 <!ENTITY clearPrivateData.history                                "အင်တာနက်သုံး မှတ်တမ်း">
 <!ENTITY clearPrivateData.otherdata                              "အခြားအချက်အလက်များ(စကားဝှက်များ၊ ကွတ်ကီးများ)">
 <!ENTITY clearPrivateData.downloadHist                           "ဒေါင်းလုဒ်မှတ်တမ်း">
 <!ENTITY clearPrivateData.cookies                                "ကွတ်ကီးများ">
 <!ENTITY clearPrivateData.cache                                  "ယာယီမှတ်တမ်း">
 <!ENTITY clearPrivateData.sitePref                               "ဝတ်ဆိုဒ်အပြင်အဆင်များ">
+<!ENTITY clearPrivateData.formSearchHist                         "ဖောင် နှင့် ရှာဖွေးရေး မှတ်တမ်း">
+<!ENTITY clearPrivateData.passwords                              "သိမ်းဆည်းထားတဲ့ ပတ်စ်ဝတ်များ">
+<!ENTITY clearPrivateData.offline                                "ချိတ်ဆက်မဲ့ ဝတ်ဆိုဒ်အချက်အလက်">
+<!ENTITY clearPrivateData.logins                                 "လက်ရှိ Logins">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY optionsHeader.privacy.passwords.label                   "လျှို့၀က်စကားလုံးအားမှတ်ထားပါ။">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "လမ်းညွှန် ခလုပ်များ ပြပါ">
+<!ENTITY doNotTrack.title                                        "ခြေရာမခံပါနဲ့">
+<!ENTITY doNotTrack.options.doNotTrack                           "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
+<!ENTITY doNotTrack.options.doTrack                              "၀တ်ဆိုက်များအားသင်ခြေရာခံလိုကြောင်းပြောပါ">
+<!ENTITY doNotTrack.options.default                              "သင်ခြေရာမခံ လိုသော၀တ်ဆိုက်များ အားသင့်ရဲ့ လိုလားမှုများ ကိုမပြောပြပါ">
+<!ENTITY doNotTrack.learnMoreLink                                "ဆက်လက်လေ့လာ&#x2026;">
 
 <!ENTITY optionsHeader.reporting.title                           "ပျက်ဆီးချက်တင်ပြသူ">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; သည် ပျက်ဆီးခြင်း မှတ်တမ်းများအား မိုဇီလာ​သို့ပေးပို့ခြင်းအားဖြင့် သင့် ဘယောက်ဆာ အား ပိုကောင်းအောင်လုပ်ပေးသည်။">
 <!ENTITY optionsHeader.reporting.crashes.submitURLs             "ကျွန်ုပ်ရောက်နေခဲ့သောစာမျက်နှာလိပ်စာပါထည့်ပေးလိုက်မည်။">
 <!ENTITY optionsHeader.telemetry.title                            "Telemetry">
-
+<!ENTITY optionsHeader.telemetry.label                            "&brandShortName; သုံးဆွဲမှူ အချက်အလက်များအား မိုဇီလာဖြင့်ဝေမျှခြင်း အားဖြင့် ဘယောက်ဆာအား ပိုကောင်းအောင် လုပ်ခြင်းတွင် ကူညီပါ">

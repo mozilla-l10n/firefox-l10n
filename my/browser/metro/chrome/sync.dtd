@@ -5,40 +5,54 @@
 
 <!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 <!-- Flyout when not connected -->
+
+<!ENTITY sync.flyout.presetup.description1     "သင်၏ အမှတ်အသားများ ၊ ပတ်စ်ဝတ်များ နှင့် ဖွင့်ထားသော တပ်ဗ်များအား သင့် စက်ပစ္စည်းများ မှ သုံးဆွဲပါ">
 <!ENTITY sync.flyout.presetup.setup.label      "&syncBrand.shortName.label; တပ်ဆင်မည်">
 <!-- Flyout when setting up sync -->
 
 <!ENTITY sync.flyout.setup.title               "&syncBrand.shortName.label; အားတပ်ဆင်မည်">
-
-
-
-
-
-
-
+<!ENTITY sync.flyout.setup.description1        "သင့်မှာ &syncBrand.shortName.label; အကောင့်ရှိရင် &quot;ပစ္စည်းတစ်ခုဖြင့်တွဲပါ&quot; အား ရွေးပြီး သင့် စက်တွင် ဤကုဒ်အား ထည့်ပါ">
+<!ENTITY sync.flyout.setup.description2        "သင့်တွင် &syncBrand.shortName.label; အကောင့်မရှိပါက &brandShortName; အတွက် အသစ်တစ်ခု လုပ်နိုင်ပါသှ်">
+<!ENTITY sync.flyout.setup.manual.label_2      "ကွန်ပျူတာနားတွင်မရှိပါ">
+<!ENTITY sync.flyout.setup.description3        "မှတ်စု:">
+<!ENTITY sync.flyout.setup.description4_2      "&quot;ပစ္စည်းတစ်ခုဖြင့်တွဲပါ&quot; အားရှာရန်,">
+<!ENTITY sync.flyout.setup.description5_2      "[ဒတ်စ်တော့ခ်] &quot;အပြင်အဆင်&quot; သို့ &quot;ဦးစားပေးအချက်အလက်များ&quot; များထဲမှ &quot;&syncBrand.shortName.label;&quot; အားဖွင့်ပါ">
+<!ENTITY sync.flyout.setup.description6_2      "[အန်းဒရိုက်] အပြင်အဆင်ထဲမှ &syncBrand.shortName.label;">
 <!-- Flyout when setting up manually -->
 
-
-
+<!ENTITY sync.flyout.manualsetup.description1_2  "ကျေးဇူးပြုပြီး သင်၏ &syncBrand.shortName.label; အကောင့်အချက်အလက်များနှင့် ကွန်ပျူတာမှ ထုတ်လုပ်လိုက်သော  Recovery ကီးအား ဖြည့်စွက်ပါ">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "အကောင့်အမည်">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "စကားဝှက်">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "ရီကာဗာကီး">
 <!ENTITY sync.flyout.manualsetup.connect.label           "ချိတ်ဆက်မယ်">
 <!-- Flyout when user has just connected -->
 
+<!ENTITY sync.flyout.setupsuccess.description1      "သင်ယခုတင် &brandShortName; အား &syncBrand.shortName.label; အကောင့်သို့ ချိတ်ဆက်လိုက်ပြီဖြစ်သှ်">
+<!ENTITY sync.flyout.setupsuccess.description2      "သင်၏ &syncBrand.shortName.label; အချက်အလက်များသှ် ယခုအခါနောက်ကွယ်တွင် ဒေါင်းလုဒ်ရယူနေပြီဖြစ်သှ်။ သင်၏ ချိတ်ဆက် တပ်ဗများအား &brandShortName; အစစာမျက်နှာတွင် တွေ့နိုင်သှ်">
 <!-- Flyout when setup failed -->
 
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; သှ် သင်၏ &syncBrand.shortName.label; အကောင့်သို့ ချိတ်ဆက်မရနိုင်ပါ">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "ပယ်​ဖျက်ပါ">
 <!ENTITY sync.flyout.setupfailure.tryAgainButton    "ထပ်ကြိုးစားပါ">
 <!-- Flyout when connected and functioning normally -->
 
+<!ENTITY sync.flyout.connected.account                    "အကောင့်:">
+<!ENTITY sync.flyout.connected.device                     "သင်၏device:">
 <!ENTITY sync.flyout.connected.disconnect                 "ချိတ်ဆက်ဖြုတ်">
-
-
-
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "သင်၏ device အား &syncBrand.shortName.label; မှဖြုတ်ပါ">
+<!ENTITY sync.flyout.connected.disconnectWarning          "သင်၏ အခြား တစ်ကိုယ်ရေ အချက်အလက်များ နှင့် &syncBrand.shortName.label; အကောင့်သည် ကျန်ရှိနေမည်ဖြစ်သှ်">
+<!ENTITY sync.flyout.connected.cancel                     "ပယ်ဖျက်">
 <!ENTITY sync.flyout.connected.pair                       "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
 <!-- Flyout when pairing a device -->
 
-
-
-
-
-
+<!ENTITY sync.flyout.pairNewDevice.description            "သင်ချိတ်ဆက်လိုသော Device တွင် &quot;&syncBrand.shortName.label; တပ်ဆင်&quot; အားရွေးပြီး Device မှထုတ်ထားသော ကုဒ်အားဖြည့်ပါ">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "တွဲပါ">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "မှတ်စု:">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "ကုဒ်အားရှာရန်,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2                "[ဒတ်စ်တော့ခ်] &quot;အပြင်အဆင်များ&quot; သို့ &quot;ဦးစားပေးအချက်များ&quot; အားဖွင့်ပြီး &syncBrand.shortName.label; ၏ အဆင့်များအတိုင်း လုပ်ဆောင်ပါ">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[အန်းဒရိုက်] More Seetings &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "ကျေးဇူး ပြုပြီး ထပ်ကြိုးစားပါ">
 <!-- Flyout when a device has been successfully paired -->
 
+<!ENTITY sync.flyout.pairSuccess.description1             "Device အသစ်အား အောင်မြင်စွာ ချိတ်ဆက်ပြီး">
+<!ENTITY sync.flyout.pairSuccess.description2             "သင်၏ &syncBrand.shortName.label; အချက်အလက်သည် ယခုအခါ နောက်ကွယ်တွင် ဒေါင်းလုဒ်ရယူနေပြီ ဖြစ်သည်။ သင်၏ တပ်ဗ်များအား &brandShortName; မူလစာမျက်နှာတွင် တွေ့နိုင်ပါသည်">
