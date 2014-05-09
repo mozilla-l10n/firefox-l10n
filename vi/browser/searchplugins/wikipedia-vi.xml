@@ -12,7 +12,7 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="get" template="http://vi.wikipedia.org/wiki/Đặc_biệt:Tìm_kiếm">
+<Url type="text/html" method="get" template="http://vi.wikipedia.org/wiki/Đặc_biệt:Tìm_kiếm" resultdomain="wikipedia.org">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
