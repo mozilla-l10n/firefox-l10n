@@ -38,6 +38,7 @@
 <!ENTITY translation.translatedTo.label         "ដល់">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "បង្ហាញ​ដើម">
 <!ENTITY translation.showTranslation.button     "បង្ហាញ​ការ​បកប្រែ">
 
 <!ENTITY translation.errorTranslating.label     "មាន​កំហុស​ក្នុង​ការ​បកប្រែ​ទំព័រ​នេះ។">
