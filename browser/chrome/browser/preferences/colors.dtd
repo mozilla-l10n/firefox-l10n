@@ -4,7 +4,7 @@
 
 <!ENTITY  colorsDialog.title              "Culori">
 <!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "41 em">
+<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Permite paginilor să își aleagă propriile culori în locul opțiunilor mele de mai sus">
 <!ENTITY  allowPagesToUse.accesskey       "a">
