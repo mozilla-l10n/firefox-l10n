@@ -17,11 +17,11 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "आपण याला पण भेट देऊ शकता ">
+<!ENTITY support.pre2              "आपण याला पण भेट देऊ शकता ">
 <!ENTITY support.link              "&brandShortName; मदत केंद्र">
-<!ENTITY support.post2             " अधिक माहितीसाठी.">
+<!ENTITY support.post2             " अधिक माहितीसाठी.">
 
-<!ENTITY happy.header              "एेकूण आनंद झाला !">
+<!ENTITY happy.header              "एेकूण आनंद झाला!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
@@ -33,7 +33,7 @@
 
 <!ENTITY happy.ratingLink          "होय, Google Play वर जा">
 <!ENTITY happy.maybeLater2         "पुन्हा कधीतरी">
-<!ENTITY happy.noThanks            "नको !">
+<!ENTITY happy.noThanks            "नको">
 
 <!ENTITY sad.message               "आपणास &brandShortName; शी निगडीत काही समस्या आल्या. त्याबद्दल क्षमस्व. काय घडले ते कृपया आम्हाला सांगा जेणेकरून आम्ही ते ठीक करू शकू.">
 <!ENTITY sad.placeholder           "आपली प्रतिक्रिया येथे नोंदवा">
@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "आम्ही &brandShortName; अधिक चांगले बनवण्यासाठी प्रयत्नशील असतो.  इतर लोक आपल्या प्रतिक्रिया पाहून खात्रीशिरपणे आलेल्या समस्या दूर करण्याचा प्रयत्न करतील.">
+<!ENTITY sad.thanksMessageTop      "आम्ही &brandShortName; अधिक चांगले बनवण्यासाठी प्रयत्नशील असतो. इतर लोक आपल्या प्रतिक्रिया पाहून खात्रीशिरपणे आलेल्या समस्या दूर करण्याचा प्रयत्न करतील.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
