@@ -11,7 +11,7 @@
   <Param name="text" value="{searchTerms}"/>
   <Param name="from" value="firefox"/>
 </Url>
-<Url type="text/html" method="GET" template="http://www.ozon.ru/?">
+<Url type="text/html" method="GET" template="http://www.ozon.ru/?" resultdomain="ozon.ru">
   <Param name="context" value="search"/>
   <Param name="text" value="{searchTerms}"/>
   <Param name="from" value="firefox"/>
