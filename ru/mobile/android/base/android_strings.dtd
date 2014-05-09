@@ -290,3 +290,4 @@
 <!ENTITY ellipsis "…">
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
+<!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">

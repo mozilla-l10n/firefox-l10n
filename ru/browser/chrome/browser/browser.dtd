@@ -131,6 +131,7 @@
 <!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
 <!ENTITY printButton.label "Печать">
+<!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
