@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Уредување">
-<!ENTITY appMenuCustomize.label "Сопствена големина">
+<!ENTITY appMenuCustomize.label "Прилагоди">
 <!ENTITY appMenuToolbarLayout.label "Распоред на алатник…">
 <!ENTITY appMenuSidebars.label "Странични ленти">
 <!ENTITY appMenuFind.label "Пронајди…">
@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder           "Оди на мрежно место">
 <!ENTITY urlbar.accesskey             "д">
 <!ENTITY urlbar.switchToTab.label     "Оди до јазиче:">
-<!-- 
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
