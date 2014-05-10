@@ -84,7 +84,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "'&formatS;' ઘરપાનામાં ઉમેરાયુ">
+<!ENTITY home_add_panel_installed "\'&formatS;\' ઘરપાનામાં ઉમેરાયુ">
 <!ENTITY pref_category_home_content_settings "વસ્તુ સેટીંગ">
 <!ENTITY pref_home_updates "સ્વયં સુધારાઓ">
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
