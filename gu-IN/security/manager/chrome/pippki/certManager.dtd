@@ -14,9 +14,9 @@
 <!ENTITY certmgr.cas "તમારા પાસે ફાઇલમાં પ્રમાણપત્રો છે જે આ પ્રમાણપત્ર પ્રકાશિત કરનાર અધિકારી ને ઓળખે છે:">
 <!ENTITY certmgr.detail.general_tab.title "સામાન્ય">
 <!ENTITY certmgr.detail.prettyprint_tab.title "વિગતો">
-<!ENTITY certmgr.subjectinfo.label "પ્રતિ પ્રમાણિત">
-<!ENTITY certmgr.issuerinfo.label "તરફથી પ્રમાણિત">
-<!ENTITY certmgr.validity.label "યોગ્યતા">
+<!ENTITY certmgr.subjectinfo.label "ને અપાયેલ">
+<!ENTITY certmgr.issuerinfo.label "દ્વારા અપાયેલ">
+<!ENTITY certmgr.periodofvalidity.label       "માન્યતાનો સમયગાળો" >
 <!ENTITY certmgr.fingerprints.label "આંગળીની છાપ">
 <!ENTITY certmgr.certdetail.title "પ્રમાણપત્રની વિગતો">
 <!ENTITY certmgr.certdetail.cn "સામાન્ય નામ (CN)">
@@ -42,9 +42,8 @@
 <!ENTITY certmgr.deleteusercert.beforename "તમે પ્રમાણપત્ર દુર કરવાની માગણી કરી છે:">
 <!ENTITY certmgr.deleteusercert.aftername "એકવાર પ્રમાણપત્ર દુર કર્યા પછી તમે એની સાથે એનક્રિપ્ટ કરેલો પત્ર વાંચી નહિ શકો.">
 <!ENTITY certmgr.certname "પ્રમાણપત્રનુ નામ">
-<!ENTITY certmgr.tokenname "સુરક્ષા સાધન">
-
-<!ENTITY certmgr.issued "ના રોજ પ્રમાણિત થયેલ">
+<!ENTITY certmgr.tokenname "સુરક્ષા ઉપકરણ">
+<!ENTITY certmgr.begins                       "વખતે આરંભ થાય છે">
 <!ENTITY certmgr.expires "ના રોજ સમાપ્ત થયેલ">
 <!ENTITY certmgr.email "ઇ-મેઇલ સરનામુ">
 <!ENTITY certmgr.serial "સિરિયલ નંબર">
