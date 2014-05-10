@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "અવાજ ચાલુ કરો">
 <!ENTITY fullscreenButton.enterfullscreenlabel "પૂર્ણ સ્ક્રીન">
 <!ENTITY fullscreenButton.exitfullscreenlabel "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
+<!ENTITY castingButton.castingLabel "સ્ક્રીનમાં કાસ્ટ કરો">
 
 <!ENTITY stats.media "મીડિયા">
 <!ENTITY stats.size "માપ">
