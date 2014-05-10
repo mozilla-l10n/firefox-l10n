@@ -310,39 +310,9 @@
          nc:name="FIPS"
          nc:link="using_certs_help.xhtml#enable_fips_mode"/>
      </rdf:li>
-   <rdf:li>
-      <!-- TODO: start localizing -->
-      <rdf:Description ID="feeds"
-		  nc:name="Feeds"
-		  nc:link="glossary.xhtml#feed"/>
-      <!-- TODO: stop localizing -->
-   </rdf:li>
-
 		 </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
-
-<!-- TODO: start localizing -->
-<rdf:Description about="#feeds">
-   <nc:subheadings>
-      <rdf:Seq><rdf:li>
-	 <rdf:Description ID="feeds:subscribing"
-	    nc:name="subscribing to a feed"
-	    nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/>
-      </rdf:li>
-      <rdf:li>
-	 <rdf:Description ID="feeds:reading"
-	    nc:name="Reading a feed"
-	    nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/>
-      </rdf:li>
-      <rdf:li>
-	 <rdf:Description ID="feeds:exporting_importing"
-	    nc:name="exporting and importing feeds"
-	    nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
-      </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-<!-- TODO: stop localizing -->
 
 <rdf:Description about="help-indexAZ.rdf#g">
    <nc:subheadings>
@@ -597,6 +567,11 @@
    <nc:subheadings>
      <rdf:Seq>
      <rdf:li>
+       <rdf:Description ID="feeds"
+      	 nc:name="kanały"
+   		 nc:link="glossary.xhtml#feed"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="smart_cards"
          nc:name="karty inteligentne"
          nc:link="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices"/>
@@ -632,6 +607,26 @@
          nc:link="mailnews_getting_started.xhtml"/>
      </rdf:li>
 		 </rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#feeds">
+   <nc:subheadings>
+      <rdf:Seq><rdf:li>
+	 <rdf:Description ID="feeds:subscribing"
+	    nc:name="subskrybowanie kanału"
+	    nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/>
+      </rdf:li>
+      <rdf:li>
+	 <rdf:Description ID="feeds:reading"
+	    nc:name="czytanie kanału"
+	    nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/>
+      </rdf:li>
+      <rdf:li>
+	 <rdf:Description ID="feeds:exporting_importing"
+	    nc:name="eksportowanie i importowanie kanałów"
+	    nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
+      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1907,17 +1902,15 @@
          nc:name="wersje protokołów SSL"
          nc:link="ssl_help.xhtml#ssl_protocol_versions"/>
      </rdf:li>
-     <!-- TODO: start localizing -->
      <rdf:li>
        <rdf:Description ID="SSL:warnings"
-         nc:name="SSL warnings"
+         nc:name="ostrzeżenia SSL"
          nc:link="ssl_help.xhtml#ssl_warnings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SSL:mixed_content"
-         nc:name="mixed content"
+         nc:name="zawartość częściowo szyfrowana"
          nc:link="ssl_help.xhtml#mixed_content"/>
-      <!-- TODO: stop localizing -->
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

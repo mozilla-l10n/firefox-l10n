@@ -752,7 +752,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   </rdf:Description>
 
 
-<!-- TODO: missing L10n -->
+<!-- TODO: start localizing -->
 
 <rdf:Description about="#mail-doc-blogs">
     <nc:subheadings>
@@ -782,7 +782,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     </nc:subheadings>
   </rdf:Description>
 
-<!-- end TODO -->
+<!-- TODO: stop localizing -->
 
 
 <rdf:Description about="#mail-doc-offline">
