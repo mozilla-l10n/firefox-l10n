@@ -436,7 +436,6 @@
 <!ENTITY emailPageCmd.accesskey "U">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY socialToolbar.title "Botón de la barra de ferramientes social">
-<!ENTITY social.notLoggedIn.label "Sesión non aniciada">
 <!ENTITY social.ok.label "Aceutar">
 <!ENTITY social.ok.accesskey "A">
 <!ENTITY social.toggleSidebar.label "Amosar barra llateral">
@@ -467,7 +466,6 @@
 <!ENTITY playPluginCmd.label "Activar esti plugin">
 <!ENTITY playPluginCmd.accesskey "c">
 <!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionen correutamente inclusu con esti conteníu bloquiáu.">
-<!ENTITY mixedContentBlocked.helplink "Deprender más">
 <!ENTITY hidePluginCmd.label "Anubrir esti plugin">
 <!ENTITY hidePluginCmd.accesskey "t">
 <!ENTITY social.addons.label "Alministrar servicios…">
@@ -482,8 +480,6 @@
 <!ENTITY mediaPlaybackRate050x.accesskey "m">
 <!ENTITY mediaPlaybackRate.label "Velocidá de reproducción">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
 <!ENTITY social.learnMore.label "Deprender más…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "Agora non">
@@ -510,7 +506,6 @@
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY closeTabsToTheEnd.label "Zarrar llingüetes a la derecha">
 <!ENTITY closeTabsToTheEnd.accesskey "a">
-<!ENTITY chromeDebuggerMenu.label "Depurador del navegador">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey "n">
 <!ENTITY viewImageDescCmd.label "Ver descripción">
@@ -520,4 +515,67 @@
 <!ENTITY devToolsCmd.keytext "F12">
 <!ENTITY devToolsCmd.keycode "VK_F12">
 <!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolboxMenuItem.keycode "I">
+<!ENTITY viewBookmarksSidebar2.label "Ver el panel llateral de marcadores">
+<!ENTITY uiTour.infoPanel.close "Zarrar">
+<!ENTITY tabCrashed.tryAgain "Reintentar">
+<!ENTITY tabCrashed.message "Esto da un poco vergoña… Tamos intentando amosar esta páxina, pero nun ta respondiendo.">
+<!ENTITY tabCrashed.header "La llingüeta tuvo un fallu">
+<!ENTITY tabCrashed.checkSendReport "Informar a &vendorShortName; tocante a esti fallu pa que puedan igualu.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; va entamar a sincronizar aína.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activáu">
+<!ENTITY syncReAuthItem.label "Reconeutar a &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey "R">
+<!ENTITY syncErrorPanel.subTitle "Anicia sesión pa siguir sincronizando.">
+<!ENTITY syncErrorPanel.signInButton.label "Coneutase">
+<!ENTITY syncErrorPanel.signInButton.accesskey "C">
+<!ENTITY syncErrorPanel.heading "Nun pue coneutase a &syncBrand.shortName.label;">
+<!ENTITY switchToMetroCmd2.label "Rellanzar en &brandShortName; pa Windows 8 táctil">
+<!ENTITY switchToMetroCmd.label "Rellanzar en &brandShortName; estilu Windows 8">
+<!ENTITY social.markpageMenu.label "Guardar páxina en…">
+<!ENTITY social.markpageMenu.accesskey "d">
+<!ENTITY social.marklinkMenu.label "Guardar enllaz como">
+<!ENTITY social.marklinkMenu.accesskey "G">
+<!ENTITY quitApplicationCmdWin.tooltip "Colar de &brandShortName;">
+<!ENTITY pluginNotification.width "28em">
+<!ENTITY navbarOverflow.label "Más ferramientes…">
+<!ENTITY identity.help.tooltip "¿Cómo puedo saber si la mio conexón a un sitiu web ye segura?">
+<!ENTITY fxaSignInError.label "Reconeutar a &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Coneutase a &syncBrand.shortName.label;">
+<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY feedsMenu.label "Soscribise">
+<!ENTITY editThisBookmarkCmd.label "Editar esti marcador">
+<!ENTITY devAppMgrMenu.label "Alministrador d'aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey "A">
+<!ENTITY customizeMode.toolbars "Amosar / anubrir barres de ferramientes">
+<!ENTITY customizeMode.titlebar "Barra de títulu">
+<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
+<!ENTITY customizeMode.restoreDefaults "Restaurar predeterminaos">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Ferramientes y carauterístiques adicionales">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escueyi ente milenta complementos">
+<!ENTITY customizeMode.menuAndToolbars.empty "¿Quies más ferramientes?">
+<!ENTITY customizeMenu.removeFromToolbar.label "Desaniciar la barra de ferramientes">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "">
+<!ENTITY customizeMenu.removeFromMenu.label "Desaniciar del menú">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "D">
+<!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de ferramientes">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.addToToolbar.label "Amestar a la barra de ferramientes">
+<!ENTITY customizeMenu.addToToolbar.accesskey "b">
+<!ENTITY customizeMenu.addToPanel.label "Amestar al menú">
+<!ENTITY customizeMenu.addToPanel.accesskey "s">
+<!ENTITY customizeMenu.addMoreItems.label "Amestar más elementos…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY browserToolboxMenu.label "Caxa de ferramientes del restolador web">
+<!ENTITY browserToolboxMenu.accesskey "h">
+<!ENTITY appmenu.tooltip "Abrir menú">
+<!ENTITY appMenuHistory.viewSidebar.label "Ver panel llateral del historial">
+<!ENTITY appMenuHistory.showAll.label "Amosar tol historial">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial reciente…">
+<!ENTITY appMenuHelp.tooltip "Abrir menú d'ayuda">
+<!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
+<!ENTITY appMenuCustomizeExit.label "Terminar personalización">
+<!ENTITY appMenuCustomize.tooltip "Personalizar el menú y barres de ferramientes">
