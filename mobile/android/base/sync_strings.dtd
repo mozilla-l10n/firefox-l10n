@@ -88,7 +88,7 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label "ટૅબને અન્ય ઉપકરણો પર મોકલવા માટે &amp;syncBrand.fullName.label; ને તમારા ઉપકરણ પર સેટઅપ કરો.">
 <!ENTITY sync.text.tab.sent.label "તમારી ટૅબ મોકલાઇ હતી!">
 <!ENTITY sync.text.tab.not.sent.label "તમારી ટૅબ મોકલવામાં સમસ્યા હતી.">
-<!-- Firefox account strings. -->
+<!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -108,19 +108,19 @@
 <!ENTITY fxaccount_policy_linktos "સેવાની શરતો">
 <!ENTITY fxaccount_policy_linkprivacy "ખાનગીપણાની સૂચના">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&amp;syncBrand.shortName.label; માં સ્વાગત છે">
-<!ENTITY fxaccount_getting_started_description "તમારી ટૅબ, બુકમાર્કો, પાસવર્ડો અને વધુ સુમેળ કરવા માટે પ્રવેશ કરો.">
+<!ENTITY fxaccount_getting_started_description "તમારી ટૅબ, બુકમાર્કો, પાસવર્ડો અને વધુ સીંક કરવા માટે પ્રવેશ કરો.">
 <!ENTITY fxaccount_getting_started_get_started "શરૂઆત કરો">
 <!ENTITY fxaccount_getting_started_old_firefox "&amp;syncBrand.shortName.label; ની જૂની આવૃત્તિ વાપરી રહ્યા છો?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 "Firefox ખાતું બનાવો">
 <!ENTITY fxaccount_create_account_password_length_restriction "ઓછામાં ઓછું ૮ અક્ષરો હોવું જ જોઇએ">
 <!ENTITY fxaccount_create_account_year_of_birth "જન્મનું વર્ષ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "પ્રક્રિયા કરીને, હું &formatS1; અને&formatS2; ની Firefox ક્લાઉડ સેવાઓ સાથે સંમત છું.">
 <!ENTITY fxaccount_create_account_button "આગળ">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "શું સુમેળ કરવું છે તે પસંદ કરો">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "શું સીંક કરવું છે તે પસંદ કરો">
 <!ENTITY fxaccount_create_account_sign_in_instead "પહેલાથી જ ખાતું છે? પ્રવેશ કરો">
 <!ENTITY fxaccount_create_account_1990_or_earlier "૧૯૯૦ અથવા પહેલાનું">
 <!ENTITY fxaccount_create_account_unknown_error "ખાતું બનાવી શક્યા નહિ">
@@ -128,7 +128,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ખાતું બનાવવા માટે અમુક ઊંમર જરૂરીયાતો તમારા માટે મળવી જ જોઇએ.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "વધુ શીખો">
 <!ENTITY fxaccount_confirm_account_header "તમારા ખાતાની ખાતરી">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; ને ખાતરી કડી મોકલવામાં આવી છે">
 <!ENTITY fxaccount_confirm_account_resend_email "ઇમેલ પુનઃમોકલો">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ખાતરી ઇમેલ મોકલ્યો">
@@ -139,7 +139,7 @@
 <!ENTITY fxaccount_sign_in_create_account_instead "ખાતું બનાવો">
 <!ENTITY fxaccount_sign_in_unknown_error "પ્રવેશ કરી શક્યા નહિ">
 <!ENTITY fxaccount_account_verified_sub_header "ખાતું તપાસાઇ ગયું">
-<!ENTITY fxaccount_account_verified_description2 "ક્ષણવારમાં તમારી માહિતી સુમેળ થવાની શરૂઆત થશે.">
+<!ENTITY fxaccount_account_verified_description2 "ક્ષણવારમાં તમારી માહિતી સીંક થવાની શરૂઆત થશે.">
 <!ENTITY fxaccount_update_credentials_header "પ્રવેશ કરો">
 <!ENTITY fxaccount_update_credentials_button_label "પ્રવેશ કરો">
 <!ENTITY fxaccount_update_credentials_unknown_error "પ્રવેશ કરી શક્યા નહિ">
@@ -150,6 +150,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "તમારા ખાતાની ખાતરી કરવાની જરૂર છે. તપાસ ઇમેલ પુનઃમોકલવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_needs_credentials "જોડાઇ શકતા નથી. પ્રવેશ કરવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_needs_upgrade "પ્રવેશ કરવા માટે તમારે &brandShortName; ને અપગ્રેડ કરવાની જરૂર છે.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&amp;syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.">
+<!ENTITY fxaccount_status_needs_account_enabled "&amp;syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. સીંક શરૂ કરવા માટે ઠપકારો.">
 <!ENTITY fxaccount_status_bookmarks "બુકમાર્કો">
 <!ENTITY fxaccount_status_history "ઈતિહાસ">
 <!ENTITY fxaccount_status_passwords "પાસવર્ડો">
@@ -162,13 +164,13 @@
 <!ENTITY fxaccount_status_linktos "સેવાની શરતો">
 <!ENTITY fxaccount_status_linkprivacy "ખાનગીપણાની સૂચના">
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     Account] Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title "&amp;syncBrand.shortName.label; વિકલ્પો">
 <!ENTITY fxaccount_options_configure_title "&amp;syncBrand.shortName.label; રૂપરેખાંકિત કરો">
 <!-- Localization note: these error messages are shown after a request
@@ -186,5 +188,5 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "નેટવર્કમાં જોડાઇ શકતા નથી">
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&amp;syncBrand.shortName.label; એ જોડાયેલું નથી">
 <!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; તરીકે પ્રવેશ કરવા માટે ઠપકારો">
