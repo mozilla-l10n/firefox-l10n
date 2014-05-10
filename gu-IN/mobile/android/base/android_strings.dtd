@@ -38,12 +38,12 @@
 <!ENTITY go "જાવ">
 <!ENTITY search "શોધો">
 <!ENTITY reload "પુનઃલાવો">
-<!ENTITY forward "આગળ">
+<!ENTITY forward "આગળ ધપાવો">
 <!ENTITY menu "મેનુ">
 <!ENTITY back "પાછળ">
 <!ENTITY stop "બંધ">
 <!ENTITY site_security "સાઇટ સુરક્ષા">
-<!ENTITY save "સંગ્રહો">
+<!ENTITY edit_mode_cancel "રદ કરો">
 <!ENTITY close_tab "ટૅબ બંધ કરો">
 <!ENTITY one_tab "1 ટૅબ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
@@ -53,13 +53,14 @@
 <!ENTITY settings "સુયોજનો">
 <!ENTITY settings_title "સુયોજનો">
 <!ENTITY pref_category_advanced "અદ્યતન">
-<!ENTITY pref_category_customize "વૈવિધ્યપૂર્ણ કરો">
+<!ENTITY pref_category_customize "વિધ્યપૂર્ણ કરો">
 <!ENTITY pref_category_search3 "શોધો">
-<!ENTITY pref_category_search_summary "તમારા શોધ પ્રોવાઇડરો વૈવિધ્યપૂર્ણ કરો">
+<!ENTITY pref_category_search_summary "મારા શોધ પ્રોવાઇડરો વૈવિધ્યપૂર્ણ કરો">
 <!ENTITY pref_category_display "દર્શાવો">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
+<!ENTITY pref_learn_more "વધુ શીખો">
 <!ENTITY pref_category_installed_search_engines "સ્થાપિત શોધ યંત્રો">
 <!ENTITY pref_category_add_search_providers "વધુ શોધ પ્રોવાઇડરો ઉમેરો">
 <!ENTITY pref_category_search_restore_defaults "શોધ યંત્રો પુનઃસંગ્રહો">
@@ -73,7 +74,6 @@
 <!ENTITY pref_search_hint "ટિપ્પણી: તમારા શોધ પ્રોવાઇડરોની તમારી યાદીમાં કોઇપણ વેબસાઇટ ઉમેરો તેના શોધ ક્ષેત્ર પર લાંબુ-દબાવી રાખીને અને પછી &formatI; ચિહ્ન પર ઠપકારીને.">
 <!ENTITY pref_category_devtools "વિકાસકર્તા સાધનો">
 <!ENTITY pref_developer_remotedebugging "રીમોટ ડિબગીંગ">
-<!ENTITY pref_developer_remotedebugging_docs "વધુ શીખો">
 <!ENTITY pref_remember_signons "પાસવર્ડો યાદ રાખો">
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
@@ -90,7 +90,7 @@
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "વૈવિધ્યપૂર્ણ કરો">
+<!ENTITY pref_header_customize "વિધ્યપૂર્ણ કરો">
 <!ENTITY pref_header_display "દર્શાવો">
 <!ENTITY pref_header_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_header_help "મદદ">
@@ -137,14 +137,14 @@ size. -->
 <!ENTITY pref_sync "સુમેળ">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
 <!ENTITY pref_import_android "Android માંથી આયાત કરો">
-<!ENTITY pref_private_data_history "બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસ">
+<!ENTITY pref_private_data_history2 "બ્રાઉઝીંગ ઇતિહાસ">
 <!ENTITY pref_private_data_formdata "ફોર્મ અને શોધ ઇતિહાસ">
 <!ENTITY pref_private_data_cookies2 "કુકીઓ અને સક્રિય પ્રવેશો">
 <!ENTITY pref_private_data_passwords "સંગ્રહાયેલ પાસવર્ડો">
 <!ENTITY pref_private_data_cache "કેશ">
-<!ENTITY pref_private_data_offlineApps "ઑફલાઇન વેબ સાઇટ માહિતી">
+<!ENTITY pref_private_data_offlineApps "ઑફલાઇન વેબસાઇટ માહિતી">
 <!ENTITY pref_private_data_siteSettings2 "સાઇટ સેટીંગ">
-<!ENTITY pref_private_data_downloadFiles "ડાઉનલોડ થયેલ ફાઇલો">
+<!ENTITY pref_private_data_downloadFiles2 "ડાઉનલોડ">
 <!ENTITY pref_about_firefox "&brandShortName; વિશે">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "અભિપ્રાય આપો">
@@ -154,6 +154,9 @@ size. -->
 <!ENTITY pref_search_last_toast "તમે તમારા છેલ્લા શોધ એંજીનને દૂર કરી શકો નહિ કે નિષ્ક્રિય કરી શકો નહિ.">
 <!ENTITY pref_panels_show "બતાવો">
 <!ENTITY pref_panels_hide "છુપાવો">
+<!ENTITY pref_panels_reorder "ક્રમ બદલો">
+<!ENTITY pref_panels_move_up "ઉપર ખસો">
+<!ENTITY pref_panels_move_down "નીચે ખસો">
 <!ENTITY datareporting_notification_title "&brandShortName; સ્થિતિ અને માહિતી">
 <!ENTITY datareporting_notification_action_long "પસંદ કરો કે કઇ માહિતી વહેંચવી છે">
 <!ENTITY datareporting_notification_action "શું વહેંચવું છે તે પસંદ કરો">
@@ -175,8 +178,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ભંગાણનો અહેવાલ આપનાર">
-<!ENTITY datareporting_wifi_title "&vendorShortName; સ્થાન સેવાઓ">
-<!ENTITY datareporting_wifi_summary "&brandShortName; ને અનામિક મોબાઇલ ફોન ટાવર માહિતી ભેગી કરીને અને મોકલીને ઓપન વેબ માટે geolocation સેવાઓ સુધારવામાં મદદ કરો">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; સ્થાન સેવા">
+<!ENTITY datareporting_wifi_geolocation_summary "Wi-Fi અને સેલ્યુલર સ્થાન માહિતી મેળવે છે જ્યારે પાશ્વભાગમાં ચાલે છે અને અમારી geolocation સેવા સુધારવા માટે તેને &vendorShortName; સાથે વહેંચે છે">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -202,7 +205,7 @@ size. -->
 <!ENTITY close_all_tabs "બધી ટૅબ બંધ કરો">
 <!ENTITY tabs_normal "ટૅબ">
 <!ENTITY tabs_private "ખાનગી">
-<!ENTITY tabs_synced "સુમેળ">
+<!ENTITY tabs_synced "સુમેળ થયેલ">
 <!ENTITY set_image_fail "ચિત્ર ગોઠવવામાં અસમર્થ">
 <!ENTITY set_image_chooser_title "ચિત્ર આ પ્રમાણે ગોઠવો">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -250,7 +253,6 @@ size. -->
 <!ENTITY site_settings_cancel "રદ કરો">
 <!ENTITY site_settings_clear "સાફ કરો">
 <!ENTITY site_settings_no_settings "સાફ કરવા માટે કોઇપણ સુયોજનો નથી.">
-<!ENTITY reading_list_add "વાંચન યાદીમાં ઉમેરો">
 <!ENTITY reading_list_added "પાનું તમારી વાંચન યાદીમાં ઉમેરાઇ ગયું">
 <!ENTITY reading_list_removed "પાનું તમારી વાંચન યાદીમાંથી દૂર થઇ ગયું">
 <!ENTITY reading_list_failed "પાનાંને તમારી વાંચન યાદીમાં ઉમેરવામાં નિષ્ફળ">
@@ -279,12 +281,12 @@ size. -->
 <!ENTITY home_last_tabs_open "છેલ્લા સમયની બધી ટૅબ ખોલો">
 <!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં ખોલો.">
 <!ENTITY home_most_recent_title "એકદમ છેલ્લી">
-<!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબ સાઇટો અહીં બતાવે છે.">
+<!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!ENTITY home_reading_list_empty "તમે પછીથી જોવા માટે જે લેખો સંગ્રહો તે અહીં દેખાય છે.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY home_reading_list_hint2 "ટિપ્પણી: &formatI; ચિહ્ન લાંબે સુધી દબાવી રાખીને લેખોને તમારી વાંચન યાદીમાં ઉમેરો જ્યારે તે શીર્ષક પટ્ટીમાં દેખાય.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
@@ -292,6 +294,9 @@ size. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "આ પેનલ માટે કોઇ વસ્તુ શોધી શક્યા નહિ.">
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "&formatS; સુધી">
 <!ENTITY pin_site_dialog_hint "શોધ શબ્દ દાખલ કરો">
 <!ENTITY filepicker_title "ફાઇલ પસંદ કરો">
 <!ENTITY filepicker_audio_title "ધ્વનિ પસંદ અથવા રૅકોર્ડ કરો">
@@ -314,7 +319,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "આ પાનું એવી વસ્તુ દર્શાવી રહ્યું છે કે જે સુરક્ષિત નથી.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; એ વસ્તુ અટકાવી છે કે જે સુરક્ષિત નથી.">
-<!ENTITY blocked_mixed_content_message_bottom "મોટા ભાગની વેબ સાઇટો હજુ પણ યોગ્ય રીતે કામ કરશે જ્યારે આ વસ્તુ બ્લૉક થયેલી હોય.">
+<!ENTITY blocked_mixed_content_message_bottom "મોટા ભાગની વેબસાઇટો હજુ પણ યોગ્ય રીતે કામ કરશે જ્યારે આ વસ્તુ બ્લૉક થયેલી હોય.">
 <!ENTITY learn_more "વધુ શીખો">
 <!ENTITY enable_protection "સુરક્ષા સક્રિય કરો">
 <!ENTITY disable_protection "સુરક્ષા નિષ્ક્રિય કરો">
@@ -355,6 +360,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_text "તેને વાપરી રહેલી વ્યક્તિ તમારા કોઇપણ વ્યક્તિગત બ્રાઉઝીંગ માહિતી જોવા માટે સમર્થ હશે નહિ (જેમ કે સંગ્રહાયેલા પાસવર્ડો, ઇતિહાસ અને બુકમાર્કો).nnજ્યારે તમારા મહેમાનનું કામ પૂરું થઇ જાય, ત્યારે તેમની બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવસે અને તમારો સત્ર પુનઃસંગ્રહાશે.">
 <!ENTITY exit_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
 <!ENTITY exit_guest_session_text "આ સત્રમાંથી બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવશે.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "મેનુ">
