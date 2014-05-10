@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY privatebrowsingpage.title "ખાનગી બ્રાઉઝીંગ">
+<!ENTITY privatebrowsingpage.issueDesc.private "તમે નવી ખાનગી ટૅબ ખોલી છે.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "તમે ખાનગી ટૅબમાં નથી.">
+<!ENTITY privatebrowsingpage.description "ખાનગી ટૅબમાં, &brandShortName; કોઇપણ બ્રાઉઝર ઇતિહાસ, શોધ ઇતિહાસ, ડાઉનલોડ ઇતિહાસ, વેબ ફોર્મ ઇતિહાસ, કુકીઓ, અથવા કામચલાઉ ઇન્ટરનેટ ફાઇલો સાચવશે નહિ. છતાંય, તમે જે ફાઇલો ડાઉનલોડ કરો અને તમે જે બુકમાર્કો બનાવશો તે સાચવવામાં આવશે.">
+<!ENTITY privatebrowsingpage.description.private "&amp;privatebrowsingpage.issueDesc.private; &amp;privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.moreInfo "જ્યારે આ ઉપકરણને તમારા બ્રાઉઝીંગ ઇતિહાસનો રૅકોર્ડ નહિ હોય, તમારો ઇન્ટરનેટ સેવા પ્રોવાઇડર હજુ પણ તમે જે પાનાંની મુલાકાત લો તે ટ્રેક કરી શકે છે.">
