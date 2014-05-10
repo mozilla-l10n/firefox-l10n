@@ -13,3 +13,6 @@
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorCopyUniqueSelector.label "Copiar seleutor únicu">
 <!ENTITY inspectorCopyUniqueSelector.accesskey "s">
+<!ENTITY inspectorHTMLEdit.label "Editar como HTML">
+<!ENTITY inspectorHTMLEdit.accesskey "E">
+<!ENTITY inspectorCopyImageDataUri.label "Copiar Data-URL de la imaxe">

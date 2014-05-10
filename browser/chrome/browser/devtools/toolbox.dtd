@@ -10,7 +10,6 @@
 <!ENTITY options.selectDevToolsTheme.label "Elexir el tema de les ferramientes de desendolcador:">
 <!ENTITY options.selectDefaultTools.label "Ferramientes de desendolcador de Firefox predeterminaes">
 <!ENTITY options.selectAdditionalTools.label "Ferramientes de desendolcador instalaes por complementos">
-<!ENTITY options.restartButton.label "Reaniciar agora">
 <!ENTITY options.lightTheme.label "Tema claru">
 <!ENTITY options.enableRemote.tooltip "Activar esta opción va permitir a les ferramientes de desendolcador depurar instancies remotes de Firefox, como Firefox OS">
 <!ENTITY options.enableRemote.label3 "Activar depuración remota">
@@ -19,13 +18,33 @@
 <!ENTITY options.enableChrome.tooltip "Activar esta opción va permitite usar delles ferramientes de desendolcador nel contestu del navegador">
 <!ENTITY options.enableChrome.label3 "Activar depuración chrome">
 <!ENTITY options.disableJavaScript.tooltip "Activar esta opción va desactivar JavaScript na llingüeta actual. Si la llingüeta o la caxa de ferramientes se zarra, entós esti axuste va descartase.">
-<!ENTITY options.disableJavaScript.label2 "Desactivar JavaScript">
 <!ENTITY options.darkTheme.label "Tema escuru">
-<!ENTITY options.context.triggersPageRefresh2 "Sesión actual únicamente, recarga la páxina">
-<!ENTITY options.context.requiresRestart2 "Requier reaniciar el navegador">
 <!ENTITY options.context.advancedSettings "Axustes avanzaos">
 <!ENTITY toolboxPreviousTool.key "[">
 <!ENTITY toolboxNextTool.key "]">
 <!ENTITY options.showPlatformData.tooltip "Si actives esta opción, los informes del analizador JavaScript van incluyir los símbolos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.label "Amosar datos de la plataforma Gecko">
 <!ENTITY options.profiler.label "Analizador JavaScript">
+<!ENTITY toolboxZoomReset.key "0">
+<!ENTITY toolboxZoomOut.key "-">
+<!ENTITY toolboxZoomIn.key2 "=">
+<!ENTITY toolboxZoomIn.key "+">
+<!ENTITY options.timestampMessages.tooltip "Si actives esta opción, les órdenes y les sos salíes na consola web van amosar una marca de tiempu">
+<!ENTITY options.timestampMessages.label "Activar marques de tiempu">
+<!ENTITY options.stylesheetSourceMaps.tooltip "Amosar fontes orixinales (p.ex., ficheros Sass) nel editor y l'inspeutor d'estilos">
+<!ENTITY options.stylesheetSourceMaps.label "Amosar fontes orixinales">
+<!ENTITY options.stylesheetAutocompletion.tooltip "Autocompletar propiedaes, valores y seleutores CSS nel editor d'estilos a midida qu'escribes">
+<!ENTITY options.stylesheetAutocompletion.label "Autocompletar CSS">
+<!ENTITY options.styleeditor.label "Editor d'estilos">
+<!ENTITY options.selectEnabledToolboxButtons.label "Botones disponibles na caxa de ferramientes">
+<!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
+<!ENTITY options.disableCache.tooltip "Activar esta opción, va desactivar JavaScript na llingüeta actual. Si la llingüeta o la caxa de ferramientes se zarra, entós esti axuste va descartase.">
+<!ENTITY options.disableCache.label "Desactivar caché *">
+<!ENTITY options.defaultColorUnit.rgb "RGB (A)">
+<!ENTITY options.defaultColorUnit.name "Nomes de colores">
+<!ENTITY options.defaultColorUnit.label "Unidá de color predetermináu">
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
+<!ENTITY options.defaultColorUnit.hex "Hex">
+<!ENTITY options.defaultColorUnit.accesskey "U">
+<!ENTITY options.context.triggersPageRefresh "* Namái sesión actual, recarga la páxina">
+<!ENTITY options.context.inspector "Inspeutor">
