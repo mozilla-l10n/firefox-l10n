@@ -164,6 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony" >
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
 <!ENTITY printButton.label "Drukuj" >
+<!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
 
 <!ENTITY locationItem.title "Adres" >
 <!ENTITY searchItem.title "Znajdź" >
