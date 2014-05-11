@@ -64,10 +64,10 @@
 <!ENTITY netTimeout.title "Il temp da la rait è surpassà">
 <!ENTITY netTimeout.longDesc "<p>La website dumandada n'ha memia ditg betg reagì sin l'emprova da connectar, perquai na vegn ussa betg pli spetgada ina reacziun.</p><ul><li>Pudess il server esser surchargià u esser temporarmain ord funcziun? Emprova pli tard anc ina giada.</li><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Èn tes computer u tia rait protegids d'ina firewall u d'in proxy? Configuraziuns falladas pon disturbar l'access al web.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "L'adressa na vegn betg chapida">
+<!ENTITY unknownProtocolFound.title "Impussibel da chapir l'adressa">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Ti stos eventualmain installar autra software per avrir questa adressa.</li>
+  <li>Ti stos eventualmain installar ulteriura software per avrir questa adressa.</li>
 </ul>
 ">
 
