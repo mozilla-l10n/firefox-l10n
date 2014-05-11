@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Standard wiederherstellen">
 <!ENTITY useDefault.accesskey             "w">
 
-<!ENTITY bounceSystemDockIcon.label       "Das Dock-Symbol animieren">
-<!ENTITY bounceSystemDockIcon.accesskey   "D">
+<!ENTITY changeDockIconOptions.label      "Einstellungen für Dock-Symbol ändern">
+<!ENTITY dockOptions.label                "Dock-Symbol-Einstellungen…">
+<!ENTITY dockOptions.accesskey            "D">
 
 <!ENTITY newMessagesArrive.label          "Wenn neue Nachrichten eintreffen">
 <!ENTITY playSound.label                  "Einen Klang abspielen">
