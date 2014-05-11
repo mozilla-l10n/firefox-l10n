@@ -74,9 +74,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "s">
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "R">
-<!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
-<!ENTITY enableAddonsUpdate3.label       "priedus">
-<!ENTITY enableAddonsUpdate3.accesskey   "p">
 
 <!ENTITY useService.label               "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey           "f">
