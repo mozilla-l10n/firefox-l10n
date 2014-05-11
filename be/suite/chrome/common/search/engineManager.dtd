@@ -17,7 +17,7 @@
 <!ENTITY edit.accesskey "р">
 <!ENTITY addEngine.label "Атрымаць іншыя машыны пошуку…">
 <!ENTITY addEngine.accesskey "А">
-<!ENTITY enableSuggest.label "Паказаць прапановы пошуку">
+<!ENTITY enableSuggest.label "Паказваць прапановы пошуку">
 <!ENTITY enableSuggest.accesskey "ш">
 <!ENTITY restoreDefaults.label "Аднавіць змоўчныя">
 <!ENTITY restoreDefaults.accesskey "з">

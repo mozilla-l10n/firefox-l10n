@@ -50,7 +50,7 @@
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
 <!ENTITY pref_category_advanced "Пашыраны">
-<!ENTITY pref_category_customize "Уладкаваць">
+<!ENTITY pref_category_customize "Уладкаванне">
 <!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_search_summary "Уладкаванне вашых дастаўшчыкоў пошуку">
 <!ENTITY pref_category_display "Адлюстраванне">
@@ -116,7 +116,7 @@
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
 <!ENTITY pref_show_product_announcements "Паказаць абвесткі прадуктаў">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Паказаць прапановы пошуку">
+<!ENTITY pref_search_suggestions "Паказваць прапановы пошуку">
 <!ENTITY pref_import_android "Імпарт з Android">
 <!ENTITY pref_private_data_history "Гісторыя азірання і сцягванняў">
 <!ENTITY pref_private_data_formdata "Гісторыя пошуку і запаўнення формаў">
@@ -150,7 +150,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
 <!ENTITY datareporting_wifi_title "Службы месцазнаходжання &vendorShortName;">
 <!ENTITY datareporting_wifi_summary "Дапамагае палепшыць службы геамесцазнаходжання адкрытага Сеціва дазваляючы &brandShortName; збіраць і дасылаць безыменныя здаткі ў выглядзе вежаў з клетак">
-<!ENTITY pref_update_autodownload2 "Сцягваць абнаўленні самастойна">
+<!ENTITY pref_update_autodownload2 "Самастойнае сцягванне абнаўленняў">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Ніколі">
 <!ENTITY pref_update_autodownload_always "Заўсёды">
