@@ -27,6 +27,7 @@
 <!ENTITY clearPrivateData.logins                                 "Esami prisijungimai">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Įsiminti slaptažodžius">
+<!ENTITY optionsHeader.displayOverlayButtons.label               "Rodyti naršymo mygtukus">
 <!ENTITY doNotTrack.title                                        "Sekimas">
 <!ENTITY doNotTrack.options.doNotTrack                           "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
 <!ENTITY doNotTrack.options.doTrack                              "Informuoti svetaines, jog norite, kad jos Jus sektų">

@@ -59,10 +59,12 @@
 <!ENTITY consoleMessages.label     "Pranešimai">
 <!ENTITY consoleCodeEval.label     "Kodas:">
 <!ENTITY consoleClear.label        "Valyti">
+<!ENTITY consoleCopyAll.label      "Kopijuoti">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Pirminio teksto failas:">
 <!ENTITY consoleErrLine.label      "Eilutė:">
 <!ENTITY consoleErrColumn.label    "Stulpelis:">
+<!ENTITY consoleFollowCheckbox.label "Sekti">
 
 <!--  TEXT CONTEXT MENU -->
 <!ENTITY contextTextCut.label              "Iškirpti">
