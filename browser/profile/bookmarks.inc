@@ -32,6 +32,11 @@
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://www.mozilla.com/lt/firefox/about/
-#define firefox_about Apie „Mozilla“
+#define firefox_about Apie „Mozillą“
+
+# LOCALIZATION NOTE (firefox_feedback):
+# link title for browser feedback page
+# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
+#define firefox_feedback Pateikti atsiliepimą
 
 #unfilter emptyLines
