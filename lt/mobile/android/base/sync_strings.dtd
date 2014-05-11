@@ -108,13 +108,6 @@
 
 <!-- Firefox account strings. -->
 
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-<!ENTITY fxaccount_checkbox_contentDescription2 '„Firefox“ paskyros varnelės paveikslas'>
-<!ENTITY fxaccount_icon_contentDescription2 '„Firefox“ paskyros piktograma'>
-<!ENTITY fxaccount_intro_contentDescription2 '„Firefox“ paskyros pristatomasis paveikslas'>
-<!ENTITY fxaccount_mail_contentDescription2 '„Firefox“ paskyros voko paveikslas'>
-
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -138,12 +131,12 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header 'Susikurkite „Firefox“ paskyrą'>
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Susikurkite „Firefox“ paskyrą'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Turi būti bent 8 simbolių ilgio'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Gimimo metai'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text 'Tęsdama(s) aš sutinku su „Firefox“ debesijos &formatS1; ir &formatS2;.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Tęsdama(s) aš sutinku su „Firefox“ debesijos &formatS1; ir &formatS2;.'>
 <!ENTITY fxaccount_create_account_button 'Toliau'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Pasirinkite, ką sinchronizuosite'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Jau turite paskyrą? Prisijunkite'>
@@ -174,7 +167,8 @@
 <!ENTITY fxaccount_update_credentials_button_label 'Prisijungti'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Prisijungti nepavyko'>
 
-<!ENTITY fxaccount_status_header '„Firefox“ paskyra'>
+<!ENTITY fxaccount_status_header2 '„Firefox“ paskyra'>
+<!ENTITY fxaccount_status_signed_in_as 'Prisijungėte kaip'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '„&syncBrand.shortName.label;“: įgalinta'>
 <!ENTITY fxaccount_status_needs_verification2 'Jūsų paskyrą būtina patvirtinti. Bakstelėkite, kad būtų pakartotinai išsiųstas patvirtinimo laiškas.'>
@@ -185,6 +179,12 @@
 <!ENTITY fxaccount_status_passwords 'Slaptažodžiai'>
 <!ENTITY fxaccount_status_tabs 'Atvertos kortelės'>
 <!ENTITY fxaccount_status_legal 'Teisinė informacija' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Paslaugų teikimo sąlygos'>
+<!ENTITY fxaccount_status_linkprivacy 'Privatumo nuostatai'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->

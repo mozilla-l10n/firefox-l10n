@@ -53,6 +53,7 @@
 <!ENTITY back "Atgal">
 <!ENTITY stop "Stabdyti">
 <!ENTITY site_security "Svetainės saugumas">
+<!ENTITY save "Įrašyti">
 
 <!ENTITY close_tab "Užverti kortelę">
 <!ENTITY one_tab "1 kortelė">
@@ -66,6 +67,7 @@
 <!ENTITY pref_category_advanced "Kitkas">
 <!ENTITY pref_category_customize "Individualizavimas">
 <!ENTITY pref_category_search3 "Paieška">
+<!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
 <!ENTITY pref_category_display "Rodymas">
 <!ENTITY pref_category_privacy_short "Privatumas">
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
@@ -75,17 +77,31 @@
 <!ENTITY pref_category_search_restore_defaults "Atstatyti numatytąsias ieškykles">
 <!ENTITY pref_search_restore_defaults "Atstatyti numatytąsias">
 <!ENTITY pref_search_restore_defaults_summary "Atstatyti numatytąsias">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, ilgiau palaikę nuspaustą jos paieškos lauką.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
 <!ENTITY pref_developer_remotedebugging_docs "Sužinoti daugiau">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 
 <!ENTITY pref_category_home "Pradžia">
+<!ENTITY pref_category_home_summary "Pradžios tinklalapio tinkinimas">
 <!ENTITY pref_category_home_panels "Skiltys">
+<!ENTITY pref_home_add_panel "Pridėti skiltį">
+<!ENTITY home_add_panel_title "Skilties pridėjimas">
+<!ENTITY home_add_panel_empty "Deja, nėra skilčių, kurias galėtumėte pridėti.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Skiltis „&formatS;“ pridėta į pradžios tinklalapį">
+<!ENTITY pref_category_home_content_settings "Turinio nuostatos">
+<!ENTITY pref_home_updates "Automatinis atnaujinimas">
+<!ENTITY pref_home_updates_enabled "Įjungtas">
+<!ENTITY pref_home_updates_wifi "Tik per belaidį tinklą">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Individualizavimas">
@@ -207,7 +223,8 @@ size. -->
 <!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
-<!ENTITY desktop_mode "Prašyti ne mobiliosios svetainės">
+<!ENTITY desktop_mode "Prašyti ne mob. svetainės">
+<!ENTITY page "Tinklalapis">
 <!ENTITY tools "Priemonės">
 <!ENTITY new_tab "Nauja kortelė">
 <!ENTITY new_private_tab "Nauja privačioji kortelė">
@@ -271,6 +288,7 @@ size. -->
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
+<!ENTITY reading_list_add "Įtraukti į skaitinių sąrašą">
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
@@ -306,14 +324,18 @@ size. -->
 <!ENTITY home_most_recent_title "Paskiausios">
 <!ENTITY home_most_recent_empty "Čia išvardijamos Jūsų paskiausiai lankytos svetainės.">
 <!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
-<!ENTITY home_reading_list_hint "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą &#37;I piktogramą, pasirodančią antraštės juostoje.">
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą &formatI; piktogramą, pasirodančią antraštės juostoje.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą skaityklės veiksenos piktogramą, pasirodančią antraštės juostoje.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Nerasta turinio šiai skilčiai užpildyti.">
 
 <!ENTITY pin_site_dialog_hint "Įveskite reikšminį žodį paieškai">
 
@@ -358,9 +380,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          iš „Android“">
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
-<!-- Localization note (suggestions_prompt2): The placeholder (&formatS;) will be
-     replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Ar norite įgalinti „&formatS;“ paieškos siūlymus?">
+<!ENTITY suggestions_prompt3 "Ar norite įgalinti paieškos siūlymus?">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
